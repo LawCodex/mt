@@ -15,29 +15,21 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika ta' l-Albanija (S.L. 123.53)
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA [ L.S.123.53
+LE{ISLAZZJONI SUSSIDJARJA 123.53
 
-**LE{ISLAZZJONI SUSSIDJARJA 123.53**
+ORDNI DWAR E|ENZJONI MILL-}LAS TA’
 
-**ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
+TAXXA DOPPJA FUQ L-INCOME
 
-**TAXXA DOPPJA FUQ L-INCOME**
-
-**MAR-REPUBBLIKA TA’ L-ALBANIJA**
+MAR-REPUBBLIKA TA’ L-ALBANIJA
 
 23 ta’ Novembru, 2000 L-AVVI| LEGALI 122 ta’ l-2001.
 
-\1.
+*Titolu. 1.*
 
-*Titolu.*
+It-titolu ta’ dan l-Ordni hu l-Ordni dwar E\\enzjoni mill- }las ta’ Taxxa Doppja fuq l-Income mar-Repubblika ta’ l-Albanija. B’dan qieg]ed ji[i dikjarat -
 
-It-titolu ta’ dan l-Ordni hu l-Ordni dwar E\\enzjoni mill- }las ta’ Taxxa Doppja fuq l-Income mar-Repubblika ta’ l-Albanija.
-
-\2.
-
-*Arran[amenti jkollhom effett.*
-
-B’dan qieg]ed ji[i dikjarat -
+*Arran[amenti 2. jkollhom effett.*
 
 (a) illi l-arran[amenti spe`ifikati fil-Ftehim muri fl-Iskeda li tinsab ma’ dan l-ordni saru mar-Repubblika ta’ l- Albanija sabiex jag]tu ]elsien minn taxxa doppja dwar it-taxxi li [ejjin imposti bil-li[ijiet tar-Repubblika ta’ l-Albanija:
 
@@ -108,8 +100,6 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 ## 5.
 
 Minkejja l-provvedimenti l-o]ra ta’ dan l-Artiklu, il-Ftehim m’g]andux japplika g]al taxxi m]allsa jew li g]andhom jit]allsu fi Stat Kontraenti ta]t il-li[i domestika tieg]u, g]ar-rigward ta’ income taxxabbli ta’ xi persuna li tkun qed ta]dem fil-produzzjoni tal-petroleum, sakemm dawk l-attivitajiet jitwettqu ta]t id-disposizzjonijiet ta’ kuntratti partikolari bejn il-Gvern ta’ dak l-Istat Kontraenti u l-persuni hawn aktar qabel imsemmija.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA [ L.S.123.53
 
 Artikolu 3
 
@@ -193,8 +183,6 @@ L.S.123.53] FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA
 
 (a) art li tkun qeg]da tinbena jew kostruzzjoni, pro[ett ta’ assembla[[ jew ta’ stallazzjoni jew attivitajiet supervi\\orji li jkollhom x’jaqsmu ma’ dan, i\\da biss meta dik l-art, dak il-pro[ett jew dawk l-attivitajiet ikomplu g]al perjodu ta’ aktar minn sitt xhur f’xi perjodu ta’ 12 il-xahar li jibda jew itemm fis-sena kalendarja involuta; u
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA [ L.S.123.53
-
 (b) l-g]oti ta’ servizzi, inklu\\i servizzi ta’ konsulenza minn impri\\a permezz ta’ impjegati jew persunal ie]or imqabbad mill-impri\\a g]aldaqstant, i\\da biss sakemm attivitajiet ta’ dik ix-xorta ikomplu (g]all-istess pro[ett jew g]al pro[ett konness) fil-pajji\\ g]al perjodu jew perjodi li flimkien i[ibu iktar minn sitt xhur f’xi perjodu ta’ 12 il-xahar li jibda jew itemm fis-sena kalendarja involuta.
 
 \4. Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artiklu, il-fra\\i "stabbiliment permanenti" g]andha titqies li ma tinkludix:
@@ -250,8 +238,6 @@ L.S.123.53] FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA
 \4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li g]andhom ji[u attribwiti lil stabbiliment permanenti min]abba fi tqassim tal-profitti totali ta’ l-impri\\a lill-partijiet diversi tag]ha, ebda ]a[a fil-paragrafu 2 ma g]andha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li g]andhom ji[u intaxxati b’dak it-tqassim skond ma jista’ jkun konswetudinarju; il-metodu ta’ tqassim li ji[i adottat g]andu, madankollu, jsir hekk li r-ri\\ultat g]andu jkun skond il-prin`ipji li jinsabu f’dan l-Artikolu.
 
 \5. Ebda profitti ma g]andhom ji[u attribwiti lil stabbiliment permanenti min]abba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ o[[etti jew merkanzija g]all-impri\\a.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA [ L.S.123.53
 
 \6. G]all-g]anijiet tal-paragrafi pre`edenti, l-profitti li g]andhom ji[u attribwiti lill-istabbiliment permanenti g]andhom ji[u stabbiliti bl-istess metodu sena wara l-o]ra, kemm-il darba ma jkunx hemm ra[uni tajba u suffi`jenti biex dan ma jsirx.
 
@@ -317,9 +303,7 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal- kumpannija g]ar-rigward tal-profitti
 
 \1. Img]ax li jinqala’ fi Stat Kontraenti u jit]allas lil residenti ta’ l-Istat Kontraenti l-ie]or g]andu jkun taxxabbli biss f’dak Istat l-ie]or.
 
-\2. Madankollu, dak l-img]ax jista’ wkoll ji[i intaxxat fl-Istat Kontraenti fejn FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA [ L.S.123.53
-
-jori[ina u skond il-li[ijiet ta’ dak l-Istat, i\\da, jekk min jir`evih ikun is-sid benefi`jarju ta’ l-img]ax it-taxxa hekk m]allsa m’g]andhiex taqbe\\ 5 fil-mija ta’ l-ammont gross ta’ l-img]ax.
+\2. Madankollu, dak l-img]ax jista’ wkoll ji[i intaxxat fl-Istat Kontraenti fejn jori[ina u skond il-li[ijiet ta’ dak l-Istat, i\\da, jekk min jir`evih ikun is-sid benefi`jarju ta’ l-img]ax it-taxxa hekk m]allsa m’g]andhiex taqbe\\ 5 fil-mija ta’ l-ammont gross ta’ l-img]ax.
 
 \3. Il-fra\\i "img]ax" kif din tintu\\a f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk ipotekati sew jekk le u sew jekk jag]ti l-jedd g]al sehem fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-gvern u income minn bonds jew debentures, inklu\\i premiums u premjijiet marbutin ma’ titoli, bonds jew debentures simili. Il-penalitajiet g]al ]las tardiv m’g]andhomx jitqiesu b]ala mg]ax g]all-g]anijiet ta’ dan l-Artikolu.
 
@@ -364,8 +348,6 @@ jori[ina u skond il-li[ijiet ta’ dak l-Istat, i\\da, jekk min jir`evih ikun is
 **SERVIZZI PERSONALI INDIPENDENTI**
 
 \1. Income li jinkiseb minn individwu li jkun residenti ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti g]andu jkun intaxxat biss f’dak l-Istat ]lief f’xi wa]da mi`-`irkostanzi li [ejjin, meta dak l-income jista’ wkoll ji[i intaxxat fl-Istat Kontraenti l-ie]or:
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA [ L.S.123.53
 
 (a) jekk ikollu ba\\i stabbilita regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u; f’dak il-ka\\ hi biss dik il-parti mill-income tieg]u daqskemm tkun attribwibbli lil dik il-ba\\i stabbilita li tista’ ti[i intaxxata f’dak l-Istat l-ie]or;
 
@@ -439,8 +421,6 @@ Meta student jew apprendist fil-kummer` li jkun jew kien minnufih qabel ma j\\ur
 
 \1. Elementi ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalg]u minn fejn jinqalg]u, li ma jkunux ittrattati fl-Artikli ta’ hawn aktar qabel ta’ dan il-Ftehim g]andhom ikunu taxxabbli biss f’dak l-Istat.
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA [ L.S.123.53
-
 \2. Il-provvedimenti tal-paragrafu 1 ma g]andhomx japplikaw g]al income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 ta’ l-Artikolu 6, jekk min jir`ievi dak l-income, g]ax ikun residenti ta’ Stat Kontraenti, ji[[estixxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab f’dak l-Istat, jew iwettaq f’dak Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab hemmhekk, u d-dritt jew il-proprjetà li dwarhom jit]allas l-income jkun effettivament konness ma’ dak l-istabbiliment permanenti jew ba\\i fissa, f’dak il-ka\\ g]andhom japplikaw il-provvedimenti ta’ l-Artikolu 7 jew ta’ l- Artikolu 14, skond il-ka\\.
 
 **Artikolu 22**
@@ -487,9 +467,7 @@ Bla ]sara g]all-provvedimenti ta’ l-li[i ta’ Malta li tirrigwarda l-g]oti bi
 
 **SKAMBJU TA’ INFORMAZZJONI**
 
-\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tistra’ tkun me]tie[a g]at-twettiq tal-provvedimenti ta’ dan il- Ftehim jew ta’ l-li[ijiet domesti`i ta’ l-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]tom ma jkun kuntrarju g]all-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta mill-Istat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) involuti fl-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`izjoni FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ALBANIJA [ L.S.123.53
-
-ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f’de`i\\jonijiet [udizzjarji.
+\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tistra’ tkun me]tie[a g]at-twettiq tal-provvedimenti ta’ dan il- Ftehim jew ta’ l-li[ijiet domesti`i ta’ l-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]tom ma jkun kuntrarju g]all-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta mill-Istat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) involuti fl-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`izjoni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f’de`i\\jonijiet [udizzjarji.
 
 \2. F’ebda ka\\ ma g]andhom il-provvedimenti tal-paragrafu 1 jiftiehmu b]ala li jimponu fuq Stat Kontraenti l-obbligu:
 

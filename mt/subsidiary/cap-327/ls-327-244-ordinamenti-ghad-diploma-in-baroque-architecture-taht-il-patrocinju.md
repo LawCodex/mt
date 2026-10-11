@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Baroque Architecture taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.244)
 
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.244
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.244**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN BAROQUE**
@@ -79,10 +75,6 @@ Il-kors jinfirex fuq medda ta’ sena studju full-time jew l-ekwivalenti tagħha
 ## 6. Klassifikazzjoni tar-rikonoxximent.
 
 (1) Il-valutazzjoni globali tal-livell milħuq fil-kors minn kull student għall-għan tal-klassifikazzjoni tad-Diploma għandha tkun ibbażata fuq ir-riżultati miksuba fit-taqsimiet studju, fil-pjazzament fuq il-post u fl-essay twil/proġett, li jingħataw piż skond in-numru ta’ kredti li hemm assenjati għalihom.
-
-*2*
-
-[L.S.327.244 PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI
 
 (2) L-ismijiet ta’ l-istudenti li jikkwalifikaw għall-għoti tad- Diploma għandhom ikunu ppubblikati f’lista f’ordni alfabetiku kklassifikati kif ġej:
 

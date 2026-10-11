@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Drittijiet għal Tagħlim"
-identifier: "S.L. 327.1"
+identifier: "S.L. 327.01"
 eli: "https://legislation.mt/eli/sl/327.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/327.1/20210101/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Drittijiet għal Tagħlim (S.L. 327.1)
+# Regolamenti dwar id-Drittijiet għal Tagħlim (S.L. 327.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 327.01**
 

@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Istitut għall-Appoġġ Edukattiv ta' Tfal u Ġenituri (S.L. 327.191)
 
-EDUKATTIV TA’ TFAL U {ENITURI [ L.S.327.191
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.191**
 
 **REGOLAMENTI DWAR L-ISTITUT G}ALL-**
@@ -121,7 +119,7 @@ Il-funzjonijiet tal-Bord ikunu li:
 
 (`) jassigura li jkunu \\viluppati, imwettqa u sorveljati b’mod effettiv programmi edukattivi ta’ appo[[ kemm g]at-tfal li jkollhom riskju ta’ falliment fit-tag]lim fl-iskola kif ukoll g]all-[enituri tag]hom;
 
-EDUKATTIV TA’ TFAL U {ENITURI [ L.S.327.191 (d) jassigura li jkunu adottati metodi effettivi li jag]tu l- ]ila, jappo[[aw u jimmotivaw lill-[enituri sabiex jid]lu s]ab fl-i\\vilupp u t-twettiq tal-programmi ta’ appo[[ edukattiv;
+(d) jassigura li jkunu adottati metodi effettivi li jag]tu l- ]ila, jappo[[aw u jimmotivaw lill-[enituri sabiex jid]lu s]ab fl-i\\vilupp u t-twettiq tal-programmi ta’ appo[[ edukattiv;
 
 (e) jassigura li jkun hemm kollaborazzjoni ma’ entitajiet o]ra, lokali u barranin, inklu\\i organizzazzjonijiet mhux governattivi, gruppi u individwi li qed ja]dmu fl-istess qasam, skond il-b\\onn sabiex jintla]qu l-g]anijiet ta’ l-Istitut;
 

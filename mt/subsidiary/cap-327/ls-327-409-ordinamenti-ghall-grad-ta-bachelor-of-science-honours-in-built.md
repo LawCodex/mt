@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) in Built Environment Studies - B.Sc. (Hons) - taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.409)
 
-IN BUILT ENVIRONMENT STUDIES - B.Sc. (Hons) -
-
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.409
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.409**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN BUILT ENVIRONMENT STUDIES - B.Sc. (Hons) - TAĦT IL-PATROĊINJU
@@ -69,13 +63,9 @@ Biex ikunu rreġistrati bħala studenti regolari fil-kors, l-applikanti għandho
 
 (ċ) ikunu għaddew fil-Livell tal-Matrikola intermedju f’wiehed mis-suġġetti li ġejjin: il-Matematika applikata (Mekkanika) (sakemm mhux offrut fil-Livell avvanzat tal-Matrikola), l-arti, il-Kimika, il- Computing, l-Engineering Drawing u l-Graphical Communication, l-Ingliz, l-Istorja, l-Information Technology, il-Filosofija, il-Matematika Pura (sakemm mhux offrut fil-Livell avvanzat tal-Matrikola), u s-soċjoloġija.
 
-IN BUILT ENVIRONMENT STUDIES - B.Sc. (Hons) -
+## 4. Tul tal-kors.
 
-*2*
-
-[L.S.327.409 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI 4. Il-kors jinfirex fuq medda ta’ tliet snin ta’ studji fuq bażi full-time.
-
-*Tul tal-kors.*
+Il-kors jinfirex fuq medda ta’ tliet snin ta’ studji fuq bażi full-time.
 
 ## 5. Programm ta’ studju.
 

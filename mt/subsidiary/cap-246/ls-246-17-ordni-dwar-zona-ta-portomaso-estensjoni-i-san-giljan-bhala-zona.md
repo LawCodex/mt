@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Żona ta' Portomaso Estensjoni I, San Ġiljan, bħala Żona Speċjali Msemmija (S.L. 246.17)
 
-*1*
-
-B}ALA |ONA SPE~JALI MSEMMIJA [L.S.246.17
-
 **LE{ISLAZZJONI SUSSIDJARJA 246.17**
 
 **ORDNI DWAR |ONA TA’ PORTOMASO**

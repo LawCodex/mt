@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta’ Taxxa Doppja fuq l-Income mal-Ġorġja (S.L. 123.109)
 
-*1*
-
-FUQ L-INCOME MAL-{OR{JA [L.S.123.109
-
 LE{ISLAZZJONI SUSSIDJARJA 123.109
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’
@@ -119,8 +115,6 @@ Dan il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment 
 
 \1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx te]tie[ xort’o]ra:
 
-FUQ L-INCOME MAL-{OR{JA [L.S.123.109 3
-
 (a) il-fra\\i "{or[ja" tfisser it-territorju definit bil-li[ijiet tal-{or[ja, inklu\\ it-territorju ta’ l-art, is-sottoswol tieg]u u l-ispazju ta’ l-ajru li hemm fuqu, l-ilmijiet interni u l-ba]ar territorjali, qieg] il-ba]ar, is-sottoswol tieg]u u l-ispazju ta’ l-ajru li hemm fuqhom, li dwarhom il-{or[ja te\\er`ita l-[urisdizzjoni u s-sovranità tag]ha, kif ukoll i\\-\\ona kontigwa, i\\-\\ona ekonomika esklu\\iva u l-blata kontinentali adja`enti g]all-ba]ar territorjali tag]ha li dwarhom il-{or[ja tista’ te\\er`ita d-drittijiet sovrani u l-[urisdizzjoni tag]ha skond id-dritt internazzjonali;
 
 (b) il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta ti[i u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti li tinsab adja`enti mal-ib]ra territorjali, li fihom Malta te\\er`ita drittijiet sovrani, [urisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha g]ar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
@@ -189,9 +183,7 @@ FUQ L-INCOME MAL-{OR{JA [L.S.123.109 3
 
 (g) minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew kull post ie]or ta’ estrazzjoni ta’ ri\\orsi naturali.
 
-\3. Sit fejn ikun qed jittella’ bini jew pro[ett ta’ installazzjoni jikkostitwixxi FUQ L-INCOME MAL-{OR{JA [L.S.123.109 5
-
-stabbiliment permanenti biss jekk dan idum g]al i\\jed minn sitt xhur.
+\3. Sit fejn ikun qed jittella’ bini jew pro[ett ta’ installazzjoni jikkostitwixxi stabbiliment permanenti biss jekk dan idum g]al i\\jed minn sitt xhur.
 
 ## 4.
 
@@ -259,9 +251,7 @@ Meta l-profitti jkunu jinkludu o[[etti ta’ income li jkunu qeg]din ji[u tratta
 
 **TBA}}IR U TRASPORT BL-AJRU**
 
-\1. Il-profitti li jinkisbu minn impri\\a ta’ Stat Kontraenti mit-t]addim ta’ FUQ L-INCOME MAL-{OR{JA [L.S.123.109 7
-
-bastimenti jew in[enji ta’ l-ajru fi traffiku internazzjonali g]andhom ji[u intaxxati biss f’dak l-Istat.
+\1. Il-profitti li jinkisbu minn impri\\a ta’ Stat Kontraenti mit-t]addim ta’ bastimenti jew in[enji ta’ l-ajru fi traffiku internazzjonali g]andhom ji[u intaxxati biss f’dak l-Istat.
 
 \2. Id-dispo\\izzjonijiet tal-paragrafu 1 g]andhom ikunu japplikaw ukoll g]al profitti miksubin mill-parte`ipazzjoni f’pool, negozju bi s]ab jew a[enzija b’operat internazzjonali.
 
@@ -308,8 +298,6 @@ li jkun jag]mel f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\
 \4. Jitqies li jinqala’ mg]ax fi Stat Kontraenti meta min i]allas ikun residenti ta’ dak l-Istat. Madankollu, meta l-persuna li tkun qeg]da t]allas l-img]ax, kemm jekk din tkun kemm jekk ma tkunx residenti ta’ Stat Kontraenti, ikollha fi Stat Kontraenti stabbiliment permanenti jew ba\\i stabbilita li f’konnessjoni mag]hom ikun ori[ina d-debitu li fuqu jit]allas l-img]ax, u dak l-img]ax ji[[arrab minn dak l-istabbiliment permanenti jew ba\\i stabbilita, g]aldaqstant dak l-img]ax g]andu jitqies li jinqala’ fl-Istat fejn ikunu sitwati l-istabbiliment permanenti jew il-ba\\i stabbilita.
 
 \5. Meta, min]abba f’relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejn it-tnejn li huma u xi persuna o]ra, l-ammont ta’ l- img]ax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jit]allas, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispo\\izzjonijiet ta’ dan l-Artikolu g]andhom ikunu japplikaw biss g]all-ammont l-a]]ar imsemmi. F’dak il-ka\\, il-parti \\ejda tal-]lasijiet g]andha tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, fil-qies tad-dispo\\izzjonijiet l-o]ra ta’ dan il-Ftehim.
-
-FUQ L-INCOME MAL-{OR{JA [L.S.123.109 9
 
 **Artikolu 12**
 
@@ -369,9 +357,7 @@ bastimenti jew in[enji ta’ l-ajru li jkunu qeg]din ji[u operati fi traffiku in
 
 **DRITTIJIET TAD-DIRETTURI**
 
-Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapa`ità tieg]u ta’ membru tal-bord tad-diretturi ta’ kumpannija li FUQ L-INCOME MAL-{OR{JA [L.S.123.109 11
-
-tkun residenti fl-Istat Kontraenti l-ie]or jistg]u ji[u intaxxati f’dak l-Istat l-ie]or.
+Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapa`ità tieg]u ta’ membru tal-bord tad-diretturi ta’ kumpannija li tkun residenti fl-Istat Kontraenti l-ie]or jistg]u ji[u intaxxati f’dak l-Istat l-ie]or.
 
 **Artikolu 17**
 
@@ -435,8 +421,6 @@ Kull ]las li student jew apprendist fil-kummer` jew appredist li jkun jew kien m
 
 \4. Kull element ta’ kapital ie]or ta’ residenti ta’ Stat Kontraenti g]andu ji[i intaxxat biss f’dak l-Istat.
 
-FUQ L-INCOME MAL-{OR{JA [L.S.123.109 13
-
 **Artikolu 23**
 
 **ELIMINAZZJONI TA’ TAXXA DOPPJA**
@@ -491,9 +475,7 @@ kollha ta’ impri\\a ta’ Stat Kontraenti lil residenti ta’ l-Istat Kontraen
 
 \1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tista’ tkun prevista b]ala rilevanti g]at-twettiq tad-dispo\\izzjonijiet ta’ dan il-Ftehim jew g]all-amministrazzjoni jew l-infurzar tal-li[ijiet domesti`i dwar it-taxxi ta’ kull tip u g]amla imposti f ’isem l-Istati Kontraenti, jew is-sottodivi\\jonijiet politi`i-amministrattivi tag]hom jew awtoritajiet lokali, sakemm it-taxxa li li taqa’ ta]thom ma tmur kontra l-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikoli 1 u 2.
 
-\2. Kull informazzjoni li ti[i ri`evuta ta]t il-paragrafu 1 minn Stat Kontraenti FUQ L-INCOME MAL-{OR{JA [L.S.123.109 15
-
-g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]al informazzjoni li tinkiseb ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) li jkollhom x’jaqsmu ma’ l-istima jew il-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`izjoni ta’ appelli dwar, it-taxxi msemmija fil-paragrafu 1, jew in-nuqqas ta’ t]aris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f’de`i\\jonijiet [udizzjarji.
+\2. Kull informazzjoni li ti[i ri`evuta ta]t il-paragrafu 1 minn Stat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]al informazzjoni li tinkiseb ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) li jkollhom x’jaqsmu ma’ l-istima jew il-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`izjoni ta’ appelli dwar, it-taxxi msemmija fil-paragrafu 1, jew in-nuqqas ta’ t]aris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f’de`i\\jonijiet [udizzjarji.
 
 \3. F’ebda ka\\ m’g]andhom id-dispo\\izzjonijiet tal-paragrafi 1 u 2 jiftiehmu b]ala li jimponu fuq Stat Kontraenti l-obbligu:
 

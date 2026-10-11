@@ -16,16 +16,12 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta' €43,093,407.87 5.75% Stock tal-Gvern ta' Malta 2010 (It-Tieni Ħruġ) (S.L. 161.57)
 
-}RU{ TA’ €43,093,407.87 5.75%
-
-*1*
-
-STOCK TAL-GVERN TA’ MALTA 2010 (IT-TIENI }RU{) [L.S.161.57
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.57**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**
 
-G}ALL-}RU{ TA’ €43,093,407.87 5.75% STOCK TAL-GVERN TA’ MALTA 2010 (IT-TIENI }RU{) 12 ta’ Mejju, 2000 L-AVVI| LEGALI 86 tal-2000, kif emendat bl-Avvi\\ Legali 410 tal-2007.
+G}ALL-}RU{ TA’ €43,093,407.87 5.75% STOCK TAL-GVERN TA’ MALTA 2010 (IT-TIENI }RU{)
+
+12 ta’ Mejju, 2000 L-AVVI| LEGALI 86 tal-2000, kif emendat bl-Avvi\\ Legali 410 tal-2007.
 
 Revokat bl-Avviż Legali 434 tal-2014.

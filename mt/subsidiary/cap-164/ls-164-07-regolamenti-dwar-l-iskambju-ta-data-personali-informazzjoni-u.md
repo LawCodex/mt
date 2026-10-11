@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Iskambju ta’ Data Personali, Informazzjoni u Kooperazzjoni fir-Rigward ta’ Reati Terroristiċi"
-identifier: "S.L. 164.7"
+identifier: "S.L. 164.07"
 eli: "https://legislation.mt/eli/sl/164.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/164.7/20251114/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Iskambju ta’ Data Personali, Informazzjoni u Kooperazzjoni fir-Rigward ta’ Reati Terroristiċi (S.L. 164.7)
-
-KOOPERAZZJONI FIR-RIGWARD TA’ REATI
-
-*1*
-
-TERRORISTIĊI [L.S.164.07
+# Regolamenti dwar l-Iskambju ta’ Data Personali, Informazzjoni u Kooperazzjoni fir-Rigward ta’ Reati Terroristiċi (S.L. 164.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 164.07**
 
@@ -54,13 +48,7 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 
 (1) L-awtorità nominata tal-infurzar tal-liġi għandu jkollha aċċess għal, u tiġbor, l-informazzjoni kollha rilevanti li tikkonċerna u li tirriżulta minn investigazzjonijiet kriminali mmexxija mill-Pulizija fir-rigward ta’ reati terroristiċi u tibgħatha lill-Europol skont is-subregolamenti (3) u (5).
 
-(2) L-awtorità nominata għandha taġixxi bħala l-korrispondent nazzjonali tal-Eurojust għal kwistjonijiet ta’ terroriżmu KOOPERAZZJONI FIR-RIGWARD TA’ REATI
-
-*2*
-
-[L.S. 164.07 TERRORISTIĊI
-
-li, skont il-liġi nazzjonali, għandu jkollha aċċess għal, u tkun tista’ tiġbor l-informazzjoni kollha rilevanti fir-rigward tal-prosekuzzjonijiet u kundanni għal reati terroristiċi u tibgħatha lill-Eurojust skont is-subregolament (6).
+(2) L-awtorità nominata għandha taġixxi bħala l-korrispondent nazzjonali tal-Eurojust għal kwistjonijiet ta’ terroriżmu li, skont il-liġi nazzjonali, għandu jkollha aċċess għal, u tkun tista’ tiġbor l-informazzjoni kollha rilevanti fir-rigward tal-prosekuzzjonijiet u kundanni għal reati terroristiċi u tibgħatha lill-Eurojust skont is-subregolament (6).
 
 (3) L-informazzjoni msemmija fis-subregolament (5) dwar investigazzjonijiet kriminali u l-informazzjoni msemmija fis-subregolament (6) dwar prosekuzzjonijiet u kundanni għal reati terroristiċi li jolqtu jew jistgħu jolqtu żewġ (2) Stati Membri jew aktar, għandhom jiġu komunikati lil:
 
@@ -81,12 +69,6 @@ li, skont il-liġi nazzjonali, għandu jkollha aċċess għal, u tkun tista’ t
 (d) rabtiet ma’ każijiet oħra rilevanti;
 
 (e) l-użu ta’ teknoloġiji tal-komunikazzjoni;
-
-KOOPERAZZJONI FIR-RIGWARD TA’ REATI
-
-*3*
-
-TERRORISTIĊI [L.S.164.07
 
 (f) it-theddida li jirrappreżenta l-pussess ta’ armi ta’ qerda massiva:
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Directtiva mill-Prim Ministru u Ministru tal-Finanzi għall-ħruġ ta’ €100,000,000 (S.L. 161.119)
 
-2014 JEW (II) 5% STOCK TAL-GVERN TA’ MALTA 2021
-
-*1*
-
-JEW (III) F’AMMONTI TAŻ-ŻEWĠ STOCKS IMSEMMIJA [L.S.161.119
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.119**
 
 **DIRETTIVA MILL-PRIM MINISTRU U MINISTRU**
@@ -68,12 +62,6 @@ Kull persuna u, jew enti jistgħu japplikaw għal dawn l-iStocks. It-tqassim tal
 ## 5. Somma ta’ flus li għandha tinġabar.
 
 Is-somma ta’ flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta’ Euro 100,000,000. L-Accountant General jirriserva d-dritt li jżid is-somma li għandha tinġabar b’massimu ta’ Euro 50,000,000.
-
-**2014 JEW (II) 5% STOCK TAL-GVERN TA’ MALTA 2021**
-
-*2*
-
-[L.S.161.119 JEW (III) F’AMMONTI TAŻ-ŻEWĠ STOCKS IMSEMMIJA
 
 *\6.*
 

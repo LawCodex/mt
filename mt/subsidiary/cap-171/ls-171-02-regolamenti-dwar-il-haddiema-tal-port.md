@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ħaddiema tal-Port"
-identifier: "S.L. 171.2"
+identifier: "S.L. 171.02"
 eli: "https://legislation.mt/eli/sl/171.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/171.2/20260626/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ħaddiema tal-Port (S.L. 171.2)
+# Regolamenti dwar il-Ħaddiema tal-Port (S.L. 171.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 171.02**
 

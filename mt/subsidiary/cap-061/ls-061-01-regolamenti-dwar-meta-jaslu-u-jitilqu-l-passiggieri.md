@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Meta Jaslu u Jitilqu l-Passiġġieri"
-identifier: "S.L. 61.1"
+identifier: "S.L. 61.01"
 eli: "https://legislation.mt/eli/sl/61.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/61.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Meta Jaslu u Jitilqu l-Passiġġieri (S.L. 61.1)
+# Regolamenti dwar Meta Jaslu u Jitilqu l-Passiġġieri (S.L. 61.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 61.01**
 

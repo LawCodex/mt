@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Għajnuna lil Produtturi tat-Tadam għall-Ipproċessar"
-identifier: "S.L. 146.4"
+identifier: "S.L. 146.04"
 eli: "https://legislation.mt/eli/sl/146.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/146.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Għajnuna lil Produtturi tat-Tadam għall-Ipproċessar (S.L. 146.4)
-
-*1*
-
-TAT-TADAM G}ALL-IPPRO~ESSAR [L.S.146.04
+# Regolamenti dwar Għajnuna lil Produtturi tat-Tadam għall-Ipproċessar (S.L. 146.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 146.04**
 
@@ -89,11 +85,7 @@ I\\da d-Direttur jista’, fid-diskrezzjoni tieg]u, jitlob li jing]ata tag]rif a
 
 (1) Id-Direttur jista’ jidde`iedi li applikazzjonijiet g]al ]las ta’ g]ajnuna bil-quddiem jistg]u isiru minn produttur individwali jew g]aqda ta’ produtturi biex jaslu g]and id-Direttur mhux aktar tard mit-30 ta’ Settembru tas-sena tas-suq involuta, g]all-kwantità totali ta’ tadam ikkunsinnata g]all-ippro`essar sal- 15 ta’ Settembru ta’ l-istess sena.
 
-(2) L-applikazzjonijiet g]al ]las ta’ g]ajnuna bil-quddiem msemmija fis-subregolament (1) g]andhom jinkludu t-tag]rif TAT-TADAM G}ALL-IPPRO~ESSAR [L.S.146.04
-
-imsemmi fil-paragrafi (a) u (b) u, meta dan ikun applikabbli, fil-paragrafu (`) tar-regolament 6.
-
-*3*
+(2) L-applikazzjonijiet g]al ]las ta’ g]ajnuna bil-quddiem msemmija fis-subregolament (1) g]andhom jinkludu t-tag]rif imsemmi fil-paragrafi (a) u (b) u, meta dan ikun applikabbli, fil-paragrafu (`) tar-regolament 6.
 
 (3) Id-Direttur g]andu j]allas l-ammont dovut b]ala ]las ta’ g]ajnuna bil-quddiem kif provdut f’dan ir-regolament lill-produttur individwali jew lill-g]aqda ta’ produtturi bejn is-16 u l-31 ta’ Ottubru ta’ l-istess sena li fiha tkun saret l-applikazzjoni g]al ]las ta’ g]ajnuna bil-quddiem, wara li ti[i verifikata l-applikazzjoni u, b’mod partikolari, wara li jitqiesu `-`ertifikati ta’ kunsinna msemmija fir-regolament 15 tar-Regolamenti ta’ l-2003.
 
@@ -157,11 +149,7 @@ Id-Direttur g]andu jie]u l-passi me]tie[a biex:
 
 (ii) il-kwantità ta’ kull kunsinna mwassla u a``ettata g]all-ippro`essar;
 
-(`) il-kwantitajiet mibjug]a fis-suq tal-]axix u frott frisk, dawk irtirati mis-suq u ]a\\niet tal-prodotti involuti. (2) Produtturi individwali u g]aqdiet ta’ produtturi g]andhom jaraw li jkun hemm disponibbli g]all-awtoritajiet ta’ l-ispezzjon nazzjonali kull tag]rif me]tie[ biex ti[i \\gurata l-konformità ma’ TAT-TADAM G}ALL-IPPRO~ESSAR [L.S.146.04
-
-dan ir-regolament. Dan it-tag]rif g]andu jkun iwassal g]all-identifikazzjoni dwar kull produttur, il-konnessjoni bejn il-bi``iet ta’ art, il-kwantitajiet ikkunsinnati, i`-`ertifikati ta’ kunsinna, u l- ]las ta’ g]ajnuna u tal-prezzijiet.
-
-*5*
+(`) il-kwantitajiet mibjug]a fis-suq tal-]axix u frott frisk, dawk irtirati mis-suq u ]a\\niet tal-prodotti involuti. (2) Produtturi individwali u g]aqdiet ta’ produtturi g]andhom jaraw li jkun hemm disponibbli g]all-awtoritajiet ta’ l-ispezzjon nazzjonali kull tag]rif me]tie[ biex ti[i \\gurata l-konformità ma’ dan ir-regolament. Dan it-tag]rif g]andu jkun iwassal g]all-identifikazzjoni dwar kull produttur, il-konnessjoni bejn il-bi``iet ta’ art, il-kwantitajiet ikkunsinnati, i`-`ertifikati ta’ kunsinna, u l- ]las ta’ g]ajnuna u tal-prezzijiet.
 
 (3) Id-dokumenti finanzjarji, il-kotba tal-kontijiet jew kull dokument relatat ta]t il-li[i nazzjonali jistg]u jintu\\aw g]all-iskopijiet ta’ dan ir-regolament, sakemm dawn ikun fihom it-tag]rif kollu msemmi fis-subregolament (1).
 
@@ -215,10 +203,6 @@ G]al produtturi individwali li jikkunsinnaw tadam g]all-ippro`essar, g]andhom is
 
 (b) minn ta’ l-anqas 7% tal-kwantitajiet ikkunsinnati g]all-ippro`essar sabiex ji[i verifikat li dawn jaqblu ma`-`ertifikati msemmija fir-regolament 15 tar- Regolamenti ta’ l-2003 u li jikkonformaw mal-]ti[iet ta’ kwalità minimi kif inhuma indikati fl-Artikolu 19 tar-Regolament (KE) 1535/2003.
 
-*7*
-
-TAT-TADAM G}ALL-IPPRO~ESSAR [L.S.146.04
-
 ## TAQSIMA V — Pieni u Tnaqqis fl-G]ajnuna
 
 ### 14. Tnaqqis fl-g]ajnuna g]al differenzi bejn l-ammont mitlub fl-applikazzjoni u l-ammont dovut.
@@ -266,10 +250,6 @@ G]all-finijiet tal-paragrafi (a) u (b), kull kwantità ta’ tadam u\\ata g]all-
 (a) meta jsiru dikjarazzjonijiet foloz minn produttur individwali jew minn g]aqda ta’ produtturi bil-kollaborazzjoni tal-pro`essant;
 
 (b) meta l-pro`essant jonqos milli j]allas il-prezz imsemmi fir-regolament 7(6)(e) tar-Regolamenti ta’ l- 2003;
-
-*9*
-
-TAT-TADAM G}ALL-IPPRO~ESSAR [L.S.146.04
 
 (`) meta l-pro`essant jonqos milli j]allas il-penali li hemm provdut dwarhom fis-subregolament (1);
 
@@ -326,8 +306,6 @@ Rappre\\entant legali:
 Kunjom ................................................ Isem ................................................. Data tat-twelid ...................................... Nru ta’ dokument ta’ identifikazzjoni legalment validu ..............................
 
 Indirizz ................................................................................................................ ............................................................................................................................. Telefon ..................................................
-
-TAT-TADAM G}ALL-IPPRO~ESSAR [L.S.146.04 11
 
 A2. Produttur individwali
 

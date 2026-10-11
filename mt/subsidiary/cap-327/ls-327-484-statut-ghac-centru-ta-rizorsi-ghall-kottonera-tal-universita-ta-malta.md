@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statut għaċ-Ċentru ta’ Riżorsi għall-Kottonera tal-Università ta’ Malta (S.L. 327.484)
 
-*1*
-
-GĦALL-KOTTONERA TAL-UNIVERSITÀ TA’ MALTA [L.S.327.484
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.484**
 
 **STATUT GĦAĊ-ĊENTRU TA’ RIŻORSI**
@@ -77,10 +73,6 @@ Iċ-Ċentru jitmexxa minn Bord li jkun magħmul kif ġej:
 
 (vii) mhux aktar minn żewġ rappreżentanti tal-istudenti, eletti minn u fost l-istudenti li jattendu korsijiet fiċ- Ċentru bħala osservaturi.
 
-**GĦALL-KOTTONERA TAL-UNIVERSITÀ TA’ MALTA**
-
-*[L.S.327.484 2*
-
 Ir-Reġistratur jew id-delegat tiegħu jservi bħala s- Segretarju tal-Bord.
 
 *\6.*
@@ -129,11 +121,7 @@ Id-dmirijiet tal-Direttur/ Viċi-Chairman jinkludi li:
 
 (ċ) jippromovi l-bżonnijiet akkademiċi u personali tal-istudenti biex jingħataw l-aqwa sapport f’każ li jiltaqgħu ma’ diffikultajiet matul l-istudji tagħhom;
 
-(d) jinkoraġġixxi u jiffaċilita l-kooperazzjoni ma’ GĦALL-KOTTONERA TAL-UNIVERSITÀ TA’ MALTA [L.S.327.484
-
-universitajiet u istitutzzjonijiet oħra;
-
-*3*
+(d) jinkoraġġixxi u jiffaċilita l-kooperazzjoni ma’ universitajiet u istitutzzjonijiet oħra;
 
 (e) jmexxi laqgħat tal-Bord taċ-Ċentru fl-assenza u bil-permess taċ-Chairman;
 
@@ -161,11 +149,7 @@ Minbarra dan, id-Direttur taċ-Ċentru:
 
 (b) m’għandux jimpenja ruħu fi kwalunkwe attività barra mill-Università li tista’ tkun f’konflitt, jew ittellfu, mid-dmirijiet tiegħu fl-Università;
 
-(ċ) m’għandu jgħaddi l-ebda informazzjoni lil terzi persuni li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università ta’ Malta; kull xogħol li jkun qed isir fiċ-Ċentru għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien [L.S.327.484 GĦALL-KOTTONERA TAL-UNIVERSITÀ TA’ MALTA
-
-tad-data; u
-
-*4*
+(ċ) m’għandu jgħaddi l-ebda informazzjoni lil terzi persuni li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università ta’ Malta; kull xogħol li jkun qed isir fiċ-Ċentru għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien tad-data; u
 
 (d) għandu jintrabat bl-istatuti, bir-regolamenti u bil-politika tal-Università ta’ Malta, li huma fis-seħħ jew li jsiru effettivi fi żmien il-ħatra tiegħu.
 

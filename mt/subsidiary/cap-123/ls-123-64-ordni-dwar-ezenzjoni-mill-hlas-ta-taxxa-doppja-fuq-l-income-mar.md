@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tat-Tuniżija (S.L. 123.64)
 
-FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
-
 LE{ISLAZZJONI SUSSIDJARJA 123.64
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’
@@ -100,8 +98,6 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 ### 5.
 
 Minkejja d-disposizzjonijiet l-o]ra ta’ dan l-Artikolu dan il-Ftehim ma g]andux japplika g]al taxxa m]allsa jew li tit]allas f’Malta skond id-disposizzjonijiet tas-subartikolu (13) ta’ l-artikolu 56 ta’ l-Att dwar it-Taxxa fuq l- Income (Kap. 123) g]ar-rigward ta’ l-income taxxabbli ta’ persuna li tkun ta]dem fil-produzzjoni tal-petroleum li ji[i prodott gewwa Malta, jew xi disposizzjoni sostanzjalment simili li ti[i imposta wara d-data tal-firma ta’ dan il-Ftehim.
-
-FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
 
 ## KAPITOLU II — TIFSIRIET — Artikolu 3
 
@@ -187,9 +183,7 @@ FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
 
 (d) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku ta’ pubbli`ità;
 
-(e) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku li ji[u eser`itati attivitajiet o]ra ta’ xorta prepatatorja jew aw\\iljarja g]all- FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
-
-impriza;
+(e) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku li ji[u eser`itati attivitajiet o]ra ta’ xorta prepatatorja jew aw\\iljarja g]all-impriza;
 
 (f) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku ta’ xi kombinazzjoni ta’ attivitajiet imsemmija fis-subparagrafi (a) sa (e), kemm-il darba l-attività kollha tal-post tan-negozju fiss li tirri\\ulta minn din il-kombinazzjoni tkun wa]da ta’ xorta preparatorja jew aw\\iljari.
 
@@ -245,9 +239,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \5. G]all-g]anijiet tal-paragrafi pre`edenti ta’ dan l-Artikolu, l-profitti li g]andhom ji[u attribwiti lill-istabbiliment permanenti g]andhom ji[u stabbiliti bl-istess metodu sena wara l-o]ra kemm-il darba ma jkunx hemm ra[uni tajba u suffi`jenti biex dan ma jsirx.
 
-\6. Il-provvedimenti ta’ dan l-Artikolu g]andhom ikunu japplikaw ukoll g]all- FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
-
-parte`ipazzjoni ta’ xi so`ju fil-profitti ta’ asso`jazzjoni ta’ persuni (sociètè de personnes) inklu\\a so`jetà de facto (socjètè de fait) u arrran[ament f’parte`ipazzjoni (association en participation).
+\6. Il-provvedimenti ta’ dan l-Artikolu g]andhom ikunu japplikaw ukoll g]all-parte`ipazzjoni ta’ xi so`ju fil-profitti ta’ asso`jazzjoni ta’ persuni (sociètè de personnes) inklu\\a so`jetà de facto (socjètè de fait) u arrran[ament f’parte`ipazzjoni (association en participation).
 
 ### 7.
 
@@ -303,9 +295,7 @@ L.S.123.64] FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA
 
 \1. Mg]ax li jinqala’ fi Stat Kontraenti u jit]allas lil residenti ta’ l-Istat Kontraenti l-ie]or g]andu jkun taxxabbli biss f’dak Istat l-ie]or.
 
-\2. Madankollu, dak l-img]ax jista’ wkoll ji[i intaxxat fl-Istat Kontraenti fejn jori[ina u skond il-li[ijiet ta’ dak l-Istat, i\\da, jekk ir-ri`event ikun is-sid FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
-
-benefi`jarju ta’ l-img]ax, it-taxxa hekk m]allsa m’g]andhiex te``edi 12 fil-mija ta’ l-ammont gross ta’ l-img]ax.
+\2. Madankollu, dak l-img]ax jista’ wkoll ji[i intaxxat fl-Istat Kontraenti fejn jori[ina u skond il-li[ijiet ta’ dak l-Istat, i\\da, jekk ir-ri`event ikun is-sid benefi`jarju ta’ l-img]ax, it-taxxa hekk m]allsa m’g]andhiex te``edi 12 fil-mija ta’ l-ammont gross ta’ l-img]ax.
 
 \3. Minkejja l-provvedimenti tal-paragrafu 2, kull mg]ax li jori[ina fi Stat Kontraenti g]andu jkun e\\enti mit-taxxa f’dak l-Istat jekk dan jinkiseb mill-Gvern ta’ l-Istat Kontraenti l-ie]or jew minn xi awtorità lokali tieg]u.
 
@@ -353,9 +343,7 @@ L.S.123.64] FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA 4. Il-provvedimenti tal-par
 
 **SERVIZZI PERSONALI INDIPENDENTI**
 
-\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti g]al servizzi FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
-
-professjonali jew attivitajiet o]ra ta’ xorta indipendenti g]andu jkun intaxxat biss f’dak l-Istat ]lief f’dawn i`-`irkostanzi li [ejjin, meta dak l-income jista’ ji[i ukoll intaxxat fl-Istat Kontraenti l-ie]or:
+\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti g]andu jkun intaxxat biss f’dak l-Istat ]lief f’dawn i`-`irkostanzi li [ejjin, meta dak l-income jista’ ji[i ukoll intaxxat fl-Istat Kontraenti l-ie]or:
 
 (a) jekk ikollu disponibbli ba\\i stabbilita fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u; f’dak il-ka\\ hi biss dik il-parti mill-income tieg]u daqskemm tkun attribwibbli lil dik il-ba\\i stabbilita li tista’ ti[i intaxxata f’dak l-Istat l-ie]or;
 
@@ -421,9 +409,7 @@ L.S.123.64] FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA
 
 (b) Madankollu, dik il-pensjoni g]andha tkun taxxabbli biss fl-Istat Kontraenti l-ie]or jekk l-individwu jkun residenti ta’, u `ittadin ta’, dak l-Istat.
 
-\3. Il-provvedimenti ta’ l-Artikoli 15, 16 u 18 g]andhom japplikaw g]al kull salarju, paga u kumpens simili u g]al pensjonijiet, g]ar-rigward ta’ servizzi mog]tijin f’dak li g]andu x’jaqsam ma’ negozju li jkun [estit minn Stat Kontraenti FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
-
-jew sottodivi\\joni politika jew awtorità lokali tieg]u.
+\3. Il-provvedimenti ta’ l-Artikoli 15, 16 u 18 g]andhom japplikaw g]al kull salarju, paga u kumpens simili u g]al pensjonijiet, g]ar-rigward ta’ servizzi mog]tijin f’dak li g]andu x’jaqsam ma’ negozju li jkun [estit minn Stat Kontraenti jew sottodivi\\joni politika jew awtorità lokali tieg]u.
 
 **Artikolu 20**
 
@@ -471,9 +457,7 @@ L.S.123.64] FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA 4. Meta l-Ftehim ikun jippr
 
 **PRO~EDURA G}AL, FTEHIM RE~IPROKU**
 
-\1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wie]ed jew ta\\-\\ew[ Stati Kontraenti jirri\\ultawlu jew jistg]u jirri\\ultawlu f’tasszzjoni li ma tkunx skond il-provvedimenti ta’ dan il-Ftehim, huwa jista’, irrispettivament mir-rimedji pprovduti mil-li[i domestika ta’ dawk l-Istati, jippre\\enta l-ka\\ tieg]u quddiem l-awtorità kompetenti ta’ l-Istat Kontraenti li tieg]u huwa jkun residenti jew, jekk il-ka\\ tieg]u jkun jaqa’ ta]t il-paragrafu 1 ta’ l-Artikolu 23, lil dik ta’ l-Istat Kontraenti li tieg]u huwa jkun `ittadin. Il-ka\\ g]andu jigi ppre\\entat fi \\mien tliet snin minn l-ewwel FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
-
-avvi\\ ta’ l-azzjoni li tirri\\ulta f’intaxxar li ma jkunx skond il-provvedimenti tal- Ftehim.
+\1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wie]ed jew ta\\-\\ew[ Stati Kontraenti jirri\\ultawlu jew jistg]u jirri\\ultawlu f’tasszzjoni li ma tkunx skond il-provvedimenti ta’ dan il-Ftehim, huwa jista’, irrispettivament mir-rimedji pprovduti mil-li[i domestika ta’ dawk l-Istati, jippre\\enta l-ka\\ tieg]u quddiem l-awtorità kompetenti ta’ l-Istat Kontraenti li tieg]u huwa jkun residenti jew, jekk il-ka\\ tieg]u jkun jaqa’ ta]t il-paragrafu 1 ta’ l-Artikolu 23, lil dik ta’ l-Istat Kontraenti li tieg]u huwa jkun `ittadin. Il-ka\\ g]andu jigi ppre\\entat fi \\mien tliet snin minn l-ewwel avvi\\ ta’ l-azzjoni li tirri\\ulta f’intaxxar li ma jkunx skond il-provvedimenti tal- Ftehim.
 
 \2. L-awtorità kompetenti g]andha tist]arreg jekk ikunx jidhrilha li l-o[[ezzjoni tkun [ustifikata u jekk hi nnifisha ma tkunx tista’ tasal g]al soluzzjoni sodisfa`enti, li tirrisolvi l-ka\\ bi ftehim re`iproku ma’ l-awtorità kompetenti ta’ l- Istat Kontraenti l-ie]or, bil-g]an li ti[i evitata tassazzjoni li ma tkunx skond il- Ftehim. Meta jintla]aq ftehim dan g]andu ji[i implimentat minkejja kull terminu ta’ \\mien fil-li[i domestika ta’ l-Istati Kontraenti.
 
@@ -539,7 +523,7 @@ Ministru ta’ l-Affarijiet Barranin Ministru ta’ l-Affarijiet Barranin
 
 Fil-waqt tal-firma tal-Ftehim bejn il-Gvem tar-Repubblika tat-Tuni\\ija u l- Gvern ta’ Malta g]all-Evitar tat-Tassazzjoni Doppja u l-Prevenzjoni ta’ Eva\\joni Fiskali dwar Taxxi fuq l-Income, i\\-\\ew[ partijiet qablu dwar dawn il-provvedimenti li [ejjin, li g]andhom jifformaw parti integrali mill-Ftehim:
 
-\1. B’riferenza g]all-Artikolu 7, kull Stat Kontraenti g]andu jintaxxxa l-profitt mill-kummer` ta’ l-assigurazzjoni skond id-disposizzjonijiet tal-li[i tieg]u stess. FUQ L-INCOME MAR-REPUBBLIKA TAT-TUNI|IJA [ L.S.123.64
+\1. B’riferenza g]all-Artikolu 7, kull Stat Kontraenti g]andu jintaxxxa l-profitt mill-kummer` ta’ l-assigurazzjoni skond id-disposizzjonijiet tal-li[i tieg]u stess.
 
 \2. B’riferenza g]all-Artikolu 22, jiftiehem li l-provvedimenti tal-paragrafu 3 tieg]u g]andhom ikunu wkoll japplikaw g]al tqassim li jsir mill-profitti ta’ kumpannija ta’ Stat Kontraenti attribwibbli lil stabbiliment permanenti fl-Istat Kontraenti l-iehor.
 

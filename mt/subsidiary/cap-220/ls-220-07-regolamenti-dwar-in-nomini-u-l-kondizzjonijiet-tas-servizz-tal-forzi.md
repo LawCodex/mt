@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar in-Nomini u l-Kondizzjonijiet tas-Servizz tal-Forzi ta Emerġenza ta Riżerva ta Voluntieri"
-identifier: "S.L. 220.7"
+identifier: "S.L. 220.07"
 eli: "https://legislation.mt/eli/sl/220.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/220.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar in-Nomini u l-Kondizzjonijiet tas-Servizz tal-Forzi ta Emerġenza ta Riżerva ta Voluntieri (S.L. 220.7)
-
-*1*
-
-TAL-FORZI TA’ RI|ERVA TA’ VOLUNTIERI [L.S.220.07
+# Regolamenti dwar in-Nomini u l-Kondizzjonijiet tas-Servizz tal-Forzi ta Emerġenza ta Riżerva ta Voluntieri (S.L. 220.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 220.07**
 
@@ -111,11 +107,7 @@ Il-proċedura għall-ingaġġ ta’ persuna fil-forza għandha tkun din li ġejj
 
 (b) l-uffiċjal ta’ l-ingaġġ għandu jwissi lill-persuna li tkun ser tingaġġa li jekk tagħti xi tweġiba falza għall-mistoqsijiet li jkunu ser jinqrawlha hi tkun suġġetta għal piena kif provdut bl-Att;
 
-(`) hu għandu mbagħad jaqra, jew iġiegħel li jinqraw, lil dik il-persuna l-mistoqsijiet murija fil-karta tal-konferma skond ma hemm fit-Tielet Skeda, u TAL-FORZI TA’ RI|ERVA TA’ VOLUNTIERI [L.S.220.07
-
-jissodisfa ruħu li dik il-persuna tifhem kull waħda minn dawk il-mistoqsijiet u li t-tweġibiet tagħha għalihom ikunu ġew reġistrati kif imiss fil-karta tal-konferma;
-
-*3*
+(`) hu għandu mbagħad jaqra, jew iġiegħel li jinqraw, lil dik il-persuna l-mistoqsijiet murija fil-karta tal-konferma skond ma hemm fit-Tielet Skeda, u jissodisfa ruħu li dik il-persuna tifhem kull waħda minn dawk il-mistoqsijiet u li t-tweġibiet tagħha għalihom ikunu ġew reġistrati kif imiss fil-karta tal-konferma;
 
 (d) hu għandu mbagħad jistaqsi lil dik il-persuna biex tagħmel u tiffirma dikjarazzjoni murija fil-karta tal-konferma dwar il-verità tat-tweġibiet u għandu jaghtiha l-ġurament ta’ fedeltà muri fil-karta tal-konferma;
 
@@ -201,11 +193,7 @@ u li dwaru d-disposizzjonijiet tas-subregolament (2) ikunu ġew osservati, jista
 
 (iii) minn qorti marzjali għal perijodu ta’ detenzjoni li mal-konferma tkun għal tnax-il xahar jew iżjed,
 
-għandu jiġi maħlul mis-servizz ħlief jekk fil-fehma tal- TAL-FORZI TA’ RI|ERVA TA’ VOLUNTIERI [L.S.220.07
-
-Kmandant it-tiżmim tiegħu fis-servizz ikun meħtieġ fl-interess tas-servizz;
-
-*5*
+għandu jiġi maħlul mis-servizz ħlief jekk fil-fehma tal- Kmandant it-tiżmim tiegħu fis-servizz ikun meħtieġ fl-interess tas-servizz;
 
 (e) raġel tal-forza li jkun instab ħati minn qorti ċivili jew minn qorti marzjali ta’ reat li jinvolvi -
 
@@ -299,11 +287,7 @@ Il-leave kollu għandu jiġi reġistrat fuq ir-record tal-leave ta’ l-individw
 
 (1) Matul il-perijodu jew il-perijodi meta jkunu qegħdin iwettqu d-dmirijiet tagħhom ta’ taħriġ, l-uffiċjali u l-irġiel ikollhom dritt għal kura medika bla ħlas minn uffiċjal mediku nominat għal dak l-iskop, f’ċentru mediku mgħammar għal dak l-iskop.
 
-(2) L-uffiċjali u l-irġiel ikollhom dritt li jintbagħtu l-isptar TAL-FORZI TA’ RI|ERVA TA’ VOLUNTIERI [L.S.220.07
-
-mingħajr huma ma jħallsu xejn.
-
-*7*
+(2) L-uffiċjali u l-irġiel ikollhom dritt li jintbagħtu l-isptar mingħajr huma ma jħallsu xejn.
 
 (3) Uffiċjali jew irġiel li ma jkunux jistgħu jattendu għax-xogħol minħabba mard jew korriment għandhom jiġu invistati mill-uffiċjal mediku matul il-ħinijiet tax-xogħol.
 
@@ -373,11 +357,7 @@ Ma tista’ tingħatalek ebda garanzija li ser tiġi impjegat fuq xi dmirijiet p
 
 ### 7.
 
-Inti tkun suġġett li titlef is-servizz jekk tinsab ħati ta’, jew tistqarr, diżerzjoni mis-servizz. Dak is-servizz mitluf ma għandux jgħodd għall-perijodu ta’ servizz li għalih inti tkun ingaġġajt u konsegwentement id-data tal-ħall mis-servizz tiegħek, u jibdel id-dati li fihom jintemmu l-perijodi meta inti jkollok dritt li tispiċċa s- TAL-FORZI TA’ RI|ERVA TA’ VOLUNTIERI [L.S.220.07
-
-servizz tiegħek, u d-dati li fihom avviż għandu jingħata.
-
-*9*
+Inti tkun suġġett li titlef is-servizz jekk tinsab ħati ta’, jew tistqarr, diżerzjoni mis-servizz. Dak is-servizz mitluf ma għandux jgħodd għall-perijodu ta’ servizz li għalih inti tkun ingaġġajt u konsegwentement id-data tal-ħall mis-servizz tiegħek, u jibdel id-dati li fihom jintemmu l-perijodi meta inti jkollok dritt li tispiċċa s-servizz tiegħek, u d-dati li fihom avviż għandu jingħata.
 
 ### 8.
 
@@ -449,10 +429,6 @@ M.7. Inti ġuvni, M.8. Kemm M.9. X’inhi s-miżżewweġ jew għandek tfal seng�
 
 M.10. Inti tagħmel parti minn, jew qatt servejt f’xi forza armata ta’ Malta? Jekk iva, semmi liema, u l-perijodu ta’ servizz u r-raġunijiet u d-dati tal-ħall mis-servizz.
 
-*11*
-
-TAL-FORZI TA’ RI|ERVA TA’ VOLUNTIERI [L.S.220.07
-
 M.11. Qatt ġejt akkużat quddiem xi qorti ċivili b’xi reat li minnu ma ġejtx liberat (ukoll jekk inti ġejt biss liberat għal kollox jew taħt kondizzjoni, jew imqiegħed taħt probation)? Jekk iva, agħti d-dettalji kollha ta’ kull akkuża.
 
 M.12. Qatt ġejt mhux aċċettat għal servizz f’xi forza armata ta’ Malta? Jekk iva, għal-liema raġuni?
@@ -519,11 +495,9 @@ korrenti u sibtu / sibnih kif ġej:
 
 Data ......................................
 
-Firma/Firem tat-Tabib/Tobba .......................... ........................... .......................... TAL-FORZI TA’ RI|ERVA TA’ VOLUNTIERI [L.S.220.07
+Firma/Firem tat-Tabib/Tobba .......................... ........................... ..........................
 
 **ĊERTIFIKAT TA’ L-UFFIĊJAL LI JAPPROVA**
-
-*13*
 
 JIENA NIĊĊERTIFIKA li din il-karta tal-konferma tar-Rekluta hawn fuq imsemmi ġiet mimlija sewwa u l-formalitajiet dwar l-ingaġġ tiegħu jidhru li ġew imħarsa. Għaldaqshekk jiena napprovah, u ninnominah għal FORZA TA’ RIŻERVA TA’ VOLUNTIERI.
 

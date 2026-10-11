@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Impjiegi Kwalifikanti fl-Innovazzjoni u fil-Kreattività (S.L. 123.141)
 
-*1*
-
-U FIL-KREATIVITÀ (TAXXA PERSONALI) [L.S.123.141
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.141**
 
 **REGOLI DWAR IMPJIEGI KWALIFIKANTI**
@@ -65,10 +61,6 @@ It-titolu ta’ dawn ir-regoli hu r-Regoli dwar Impjiegi Kwalifikanti fl-Innovaz
 
 \*ara r-regolament 1(2) ta’ dawn ir-Regolamenti kif promulgati oriġinarjament.
 
-*2*
-
-[L.S.123.141 U FIL-KREATIVITÀ (TAXXA PERSONALI)
-
 "kwalifika" tfisser kull diploma, ċertifikat, grad jew xi kisba f’edukazzjoni formali f’qasam relevanti għal kariga eliġibbli maħruġa minn stabbiliment edukattiv li jattesta t-tlestija b’suċċess ta’ programm ta’ edukazzjoni post-sekondarja f’livell ta’ gradwati, u kif rikonoxxuta miċ-Ċentru Malti għal rikonoxximent ta’ kwalifiki u ta’ informazzjoni kif stabbilit bl-artikolu 6 tal-Att dwar ir-Rikonoxximent Reċiproku ta’ Kwalifiki.
 
 *Kap. 451.*
@@ -97,11 +89,7 @@ Il-benefiċjarju hu individwu li josserva l-kondizzjonijiet kollha li ġejjin:
 
 (d) mhuwiex individwu li rċieva benefiċċju taħt l-artikolu 6 tal-Att;
 
-(e) huwa jiżvela għalkollox għal finijiet ta’ taxxa u jiddikjara emolumenti li huwa jkun irċieva rigward U FIL-KREATIVITÀ (TAXXA PERSONALI) [L.S.123.141
-
-income minn kuntratt kwalifikanti ta’ impjieg u kull income riċevut minn persuna relatata mal-persuna li tħaddmu li tkun qiegħda tħallas income minn kuntratt kwalifikanti kif taxxabbli f’Malta;
-
-*3*
+(e) huwa jiżvela għalkollox għal finijiet ta’ taxxa u jiddikjara emolumenti li huwa jkun irċieva rigward income minn kuntratt kwalifikanti ta’ impjieg u kull income riċevut minn persuna relatata mal-persuna li tħaddmu li tkun qiegħda tħallas income minn kuntratt kwalifikanti kif taxxabbli f’Malta;
 
 (f) iġib prova għas-sodisfazzjon tal-Korporazzjoni li huwa jwettaq attivitajiet ta’ kariga eliġibbli; u
 
@@ -137,11 +125,7 @@ Iżda ir-rata ta’ 15% għandha tapplika mingħajr il-possibilità li jintalab 
 
 (2) Bla ħsara għal aderenza kontinwa ma’ dawn ir-regoli, id-drittijiet akkwistati għandhom ikomplu japplikaw jekk l-individwu jidħol f’kuntratt ta’ impjieg ġdid li wkoll jitqies bħala kariga eliġibbli u ma jkunx hemm iżjed minn tletin (30) ġurnata bejn it-tmiem ta’ kuntratt ta’ impjieg u l-bidu ta’ kuntratt ieħor ta’ impjieg.
 
-(3) Drittijiet akkwiżiti taħt dawn ir-regoli għandhom jitqiesu li [L.S.123.141 U FIL-KREATIVITÀ (TAXXA PERSONALI)
-
-jkunu ġew irtirati b’seħħ immedjat jekk l-għoti ta’ benefiċċji taħt dawn ir-regoli u l-permanenza tal-benefiċjarju f’Malta ma jkunux fl-interess pubbliku.
-
-*4*
+(3) Drittijiet akkwiżiti taħt dawn ir-regoli għandhom jitqiesu li jkunu ġew irtirati b’seħħ immedjat jekk l-għoti ta’ benefiċċji taħt dawn ir-regoli u l-permanenza tal-benefiċjarju f’Malta ma jkunux fl-interess pubbliku.
 
 (4) Id-drittijiet akkwistati taħt dawn ir-regoli għandhom jiġu rtirati jekk il-benefiċjarju jakkwista direttament jew indirettament proprjetà immobbli f’Malta jew xi jedd reali fuqa.
 
@@ -165,11 +149,7 @@ Iżda wkoll il-ħlas ta’ taxxa addizzjonali li jista’ jsir skont il-proviso 
 
 (1) Għall-fini li jiġi aċċertat id-dritt li għandu individwu li jadotta l-għażla msemmija f’dawn ir-regoli u li tiġi żgurata l-applikazzjoni tagħha kif imiss, il-Kummissarju u l-Korporazzjoni jistgħu jeħtieġu lil individwu jipproduċi, fiż-żmien indikat mill- Kummissarju u l-Korporazzjoni f’dik it-talba, kull informazzjoni oħra u dokument ieħor hekk kif il-Kummissarju u l-Korporazzjoni jistgħu iqisu li jkun meħtieġ, inklużi ċertifikazzjonijiet u dikjarazzjonijiet tal-prinċipal ta’ dak l-individwu.
 
-(2) Jekk individwu jonqos, mingħajr ebda raġuni valida, milli jikkonforma ruħu ma’ xi talba li jkollha x’taqsam mal-income tiegħu li ssirlu mill-Kummissarju u l-Korporazzjoni skont din ir-regola, il-Kummissarju u l-Korporazzjoni jistgħu jordnaw li l- U FIL-KREATIVITÀ (TAXXA PERSONALI) [L.S.123.141
-
-artikolu 56(21) tal-Att m’għandux ikun japplika għal dak l-income. F’dak il-każ, il-Kummissarju jista’ jagħmel stima u t-taxxa fuq dak l-income tiġi kalkulata bir-rati provduti fl-Att mingħajr ebda riferenza għal dak is-subartikolu.
-
-*5*
+(2) Jekk individwu jonqos, mingħajr ebda raġuni valida, milli jikkonforma ruħu ma’ xi talba li jkollha x’taqsam mal-income tiegħu li ssirlu mill-Kummissarju u l-Korporazzjoni skont din ir-regola, il-Kummissarju u l-Korporazzjoni jistgħu jordnaw li l-artikolu 56(21) tal-Att m’għandux ikun japplika għal dak l-income. F’dak il-każ, il-Kummissarju jista’ jagħmel stima u t-taxxa fuq dak l-income tiġi kalkulata bir-rati provduti fl-Att mingħajr ebda riferenza għal dak is-subartikolu.
 
 ## 10. Mod kif tiġi adottata l-għażla.
 

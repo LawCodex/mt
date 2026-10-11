@@ -16,16 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Iffaċilitar tal-Użu ta’ Informazzjoni Finanzjarja u Informazzjoni oħra għall-Prevenzjoni, l-Identifikazzjoni, l-Investigazzjoni jew il-Prosekuzzjoni ta’ ċerti Reati Kriminali (S.L. 9.29)
 
-FINANZJARJA U INFORMAZZJONI OĦRA GĦALL-
-
-PREVENZJONI, L-IDENTIFIKAZZJONI, L-
-
-INVESTIGAZZJONI JEW IL-PROSEKUZZJONI TA’ ĊERTI
-
-*1*
-
-REATI KRIMINALI [L.S. 9.29
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.29**
 
 **IFFAĊILITAR TAL-UŻU TA’ INFORMAZZJONI**
@@ -64,13 +54,7 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 
 (a) xi awtorità maħtura fil-kuntest tal-prevenzjoni, l-identifikazzjoni, l-investigazzjoni jew il-prosekuzzjoni ta’ reati kriminali; u
 
-(b) awtoritajiet pubbliċi jew entitajiet privati fil-kuntest tal-prevenzjoni, l-identifikazzjoni, l-investigazzjoni jew FINANZJARJA U INFORMAZZJONI OĦRA GĦALL- PREVENZJONI, L-IDENTIFIKAZZJONI, L-
-
-*2*
-
-INVESTIGAZZJONI JEW IL-PROSEKUZZJONI TA’ ĊERTI [L.S. 9.29 REATI KRIMINALI
-
-il-prosekuzzjoni ta’ reati kriminali u li tkun disponibbli għal awtoritajiet maħtura skont id-dispożizzjonijiet ta’ xi liġi oħra li tapplika għalihom;
+(b) awtoritajiet pubbliċi jew entitajiet privati fil-kuntest tal-prevenzjoni, l-identifikazzjoni, l-investigazzjoni jew il-prosekuzzjoni ta’ reati kriminali u li tkun disponibbli għal awtoritajiet maħtura skont id-dispożizzjonijiet ta’ xi liġi oħra li tapplika għalihom;
 
 "informazzjoni finanzjarja" tfisser kwalunkwe tip ta’ informazzjoni jew data, bħal data dwar assi finanzjarji, movimenti ta’ fondi jew relazzjonijiet kummerċjali finanzjarji, li diġà hija miżmuma mill-Korp sabiex jipprevjeni, jidentifika u jiġġieled b’mod effettiv kontra l-money laundering u l-iffinanzjar tat-terroriżmu, li ma tkunx informazzjoni jew data miġbura jew miżmuma mill-Korp fir-rigward tal-funzjoni sorveljanti tiegħu taħt l-artikolu 16(1)(ċ), l-artikolu 16(1)(k)(ii), u l-artikolu 26 tal-Att kontra Money Laundering;
 
@@ -96,17 +80,7 @@ L-awtoritajiet maħtura jistgħu jipproċessaw l-informazzjoni finanzjarja u l-a
 
 ## 5. Skambju ta’ informazzjoni mal-awtoritajiet maħtura kontroparti.
 
-(1) L-awtoritajiet maħtura jistgħu jiskambjaw informazzjoni finanzjarja jew analisi finanzjarja miksuba mill-Korp, fuq talba u fuq bażi ta’ każ b’każ, ma’ awtorità maħtura fi Stat Membru ieħor, fejn l-informazzjoni finanzjarja jew l-analisi finanzjarja jkunu meħtieġa għall-prevenzjoni, l-identifikazzjoni u l- FINANZJARJA U INFORMAZZJONI OĦRA GĦALL-
-
-PREVENZJONI, L-IDENTIFIKAZZJONI, L-
-
-INVESTIGAZZJONI JEW IL-PROSEKUZZJONI TA’ ĊERTI
-
-*3*
-
-REATI KRIMINALI [L.S. 9.29
-
-ġlieda kontra l-money laundering, ir-reati predikati assoċjati u ffinanzjar ta’ terroriżmu.
+(1) L-awtoritajiet maħtura jistgħu jiskambjaw informazzjoni finanzjarja jew analisi finanzjarja miksuba mill-Korp, fuq talba u fuq bażi ta’ każ b’każ, ma’ awtorità maħtura fi Stat Membru ieħor, fejn l-informazzjoni finanzjarja jew l-analisi finanzjarja jkunu meħtieġa għall-prevenzjoni, l-identifikazzjoni u l-ġlieda kontra l-money laundering, ir-reati predikati assoċjati u ffinanzjar ta’ terroriżmu.
 
 (2) L-awtoritajiet maħtura jistgħu jimponu kundizzjonijiet u restrizzjonijiet fuq l-użu tal-informazzjoni skambjata skont kif jistgħu jistabbilixxu sabiex jiżguraw li l-informazzjoni finanzjarja jew l-analisi finanzjarja skambjata tintuża biss għall-iskop li għalih tkun intalbet jew ġiet ipprovduta.
 
@@ -135,16 +109,6 @@ Iżda dawn ir-rekords għandhom isiru disponibbli għall- Korp fuq talba tagħha
 ## 7. Data statistika.
 
 (1) L-awtoritajiet maħtura għandhom iżommu d-data statistika li ġejja:
-
-**FINANZJARJA U INFORMAZZJONI OĦRA GĦALL-**
-
-**PREVENZJONI, L-IDENTIFIKAZZJONI, L-**
-
-INVESTIGAZZJONI JEW IL-PROSEKUZZJONI TA’ ĊERTI
-
-**REATI KRIMINALI**
-
-*[L.S. 9.29 4*
 
 (a) numru ta’ talbiet maħruġa minn kull awtorità maħtura, is-segwitu mogħti għat-talbiet, l-għadd ta’ każijiet investigati, l-għadd ta’ persuni mħarrka u l-għadd ta’ persuni misjuba ħatja għal reati kriminali serji, fejn tali informazzjoni tkun disponibbli;
 

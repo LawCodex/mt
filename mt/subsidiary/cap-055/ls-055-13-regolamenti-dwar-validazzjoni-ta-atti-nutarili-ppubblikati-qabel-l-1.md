@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Validazzjoni ta’ Atti Nutarili ppubblikati qabel l-1 ta’ Jannar 2012 (S.L. 55.13)
 
-VALIDAZZJONI TA’ ATTI NUTARILI PPUBBLIKATI
-
-*1*
-
-QABEL L-1 TA’ JANNAR 2012 [L.S.55.13 LEĠISLAZZJONI SUSSIDJARJA 55.13
+**LEĠISLAZZJONI SUSSIDJARJA 55.13**
 
 **REGOLAMENTI DWAR VALIDAZZJONI TA’ ATTI**
 
@@ -61,7 +57,3 @@ Dawn ir-regolamenti ma għandhomx japplikaw għal atti nutarili li:
 *   Kap. 55.*
 
 (b) fir-rigward tagħhom ikun hemm pendenti azzjoni għan-nullità quddiem Qorti kompetenti, minħabba xi wieħed jew aktar mid-difetti msemmija fl-artikolu 40 tal-Att dwar il- Professjoni Nutarili u l-Arkivji Nutarili, fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti.
-
-*2*
-
-VALIDAZZJONI TA’ ATTI NUTARILI PPUBBLIKATI QABEL [L.S. 55.13 L-1 TA’ JANNAR 2012

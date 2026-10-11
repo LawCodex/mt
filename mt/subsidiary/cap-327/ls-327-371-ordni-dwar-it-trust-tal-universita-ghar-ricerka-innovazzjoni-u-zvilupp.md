@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar it-Trust tal-Università għar-Riċerka, Innovazzjoni u Żvilupp (S.L. 327.371)
 
-*1*
-
-G}AR-RI~ERKA, INNVAZZJONI U |VILUPP [L.S.327.371
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.371**
 
 **ORDNI DWAR IT-TRUST TAL-UNIVERSITÀ**

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Doctor of Philosophy - Ph.D. - fil-Fakultà ta' l-Arkitettura u l-Inġinerija Civili (S.L. 327.136)
 
-GRAD TA’ DOCTOR OF PHILOSOPHY - PH.D. -
-
-FIL-FAKULTÀ TA’ L-ARKITETTURA
-
-*1*
-
-U L-IN{INERIJA ~IVILI [L.S.327.136
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.136**
 
 **ORDINAMENTI G}ALL-GRAD TA’**

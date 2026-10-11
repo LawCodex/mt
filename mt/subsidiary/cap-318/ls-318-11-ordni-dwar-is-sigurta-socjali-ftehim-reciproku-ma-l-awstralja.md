@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar is-Sigurtà Soċjali (Ftehim Reċiproku ma' l-Awstralja) (S.L. 318.11)
 
-SIGURTÀ SO~JALI (FTEHIM RE~IPROKU
-
-MA’ L-AWSTRALJA) [ L.S.318.11
-
 **LE{ISLAZZJONI SUSSIDJARJA 318.11**
 
 **ORDNI DWAR IS-SIGURTÀ SO~JALI**

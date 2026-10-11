@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Konservazzjoni ta' Ħamrija Għammiela"
-identifier: "S.L. 236.2"
+identifier: "S.L. 236.02"
 eli: "https://legislation.mt/eli/sl/236.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/236.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Konservazzjoni ta' Ħamrija Għammiela (S.L. 236.2)
+# Regolamenti dwar il-Konservazzjoni ta' Ħamrija Għammiela (S.L. 236.02)
 
 LEĠISLAZZJONI SUSSIDJARJA 236.02
 

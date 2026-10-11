@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Master of Dental Surgery - M.D.S (S.L. 327.486)
 
-FIL-KORS GĦALL-GRAD TA’
-
-*1*
-
-MASTER OF DENTAL SURGERY - M.D.S. [L.S.327.486
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.486**
 
 **REGOLAMENTI GĦALL-GĦAŻLA TAL-**
@@ -64,12 +58,6 @@ Biex jidħlu fil-kors l-applikanti għandhom jissodisfaw ir-rekwiżiti għar-re�
 
 (3) Jekk ikun hemm aktar applikanti eliġibbli li għandhom il-grad ta’ Bachelor Science (Honours) in Dental Hygiene or Dental Technology mill-postijiet disponibbli, l-applikanti minn dan il-grupp għandhom ikunu magħżula kif indikat fir-regolament 7.
 
-FIL-KORS GĦALL-GRAD TA’
-
-*2*
-
-[L.S.327.486 MASTER OF DENTAL SURGERY - M.D.S.
-
 ## 6. Kriterji għall-għażla.
 
 *Emendat: A.L. 307 tal-2014; A.L. 251 tal-2015; A.L. 426 tal-2018; A.L. 290 tal-2021; A.L. 328 tal-2022. Enumerat: A.L. 328 tal-2022.*
@@ -94,11 +82,7 @@ L-ewwel kategorija: dawk b’2 ‘A’ fis-suġġetti primarji u ‘A’ fis-su�
 
 It-tieni kategorija: dawk b’2 ‘A’ fis-suġġetti primarji u ‘B’ fis-suġġett sekondarju miksuba f’sessjoni waħda
 
-FIL-KORS GĦALL-GRAD TA’
-
-*3*
-
-MASTER OF DENTAL SURGERY - M.D.S. [L.S.327.486 It-tielet kategorija: dawk b’2 ‘A’ fis-suġġetti primarji u ‘Ċ’ fis-suġġett sekondarju miksuba f’sessjoni waħda
+It-tielet kategorija: dawk b’2 ‘A’ fis-suġġetti primarji u ‘Ċ’ fis-suġġett sekondarju miksuba f’sessjoni waħda
 
 u
 
@@ -126,12 +110,6 @@ Il-ħdax-il kategorija: dawk b’ ‘B’ waħda u ‘Ċ’ waħda fis-suġġett
 
 It-tnax-il kategorija: dawk b’ ‘B’ waħda u ’Ċ’ waħda fis-suġġettiprimarji u ‘B’ fis-suġġett sekondarju miksuba f’sessjoni waħda
 
-FIL-KORS GĦALL-GRAD TA’
-
-*4*
-
-[L.S.327.486 MASTER OF DENTAL SURGERY - M.D.S.
-
 It-tlettax-il kategorija: dawk b’ ‘B’ waħda u ‘Ċ’ waħda fis-suġġetti primarji u ‘Ċ’ fis-suġġett sekondarju miksuba f’sessjoni waħda
 
 L-erbatax-il kategorija: dawk b’2 ‘Ċ’ fis-suġġetti primarji u ‘A’ fis-suġġett sekondarju miksuba f’sessjoni waħda
@@ -150,11 +128,7 @@ Is-sittax-il kategorija: dawk b’2 ‘Ċ’ fis-suġġetti primarji u ‘Ċ’ 
 
 (6) (a) Jekk sal-aħħar tas-sessjoni tal-eżamijiet ta’ Ġunju, ikun hemm aktar applikanti eliġibbli mill-Foundation Studies Programme milli jkun hemm postijiet disponibbli, l-applikanti minn dan il-grupp għandhom ikunu magħżula skont il-livell akkademiku tagħhom fi ħdan dan il-Programm, u skont intervista (inkluż il-manual dexterity test) li għandha ssir f’Lulju.
 
-(b) Jekk sal-aħħar tas-sessjoni tal-eżamijiet ta’ Ġunju, ikun hemm inqas applikanti eliġibbli mill-Foundation FIL-KORS GĦALL-GRAD TA’
-
-*5*
-
-MASTER OF DENTAL SURGERY - M.D.S. [L.S.327.486 Studies Programme, applikanti oħra li mhumiex ċittadini tal-UE/ŻEE għandhom ikunu kkunsidrati u l-għażla għandha tkun skont il-livell akkademiku tagħhom, u skont intervista (inkluż il-manual dexterity test) li għandha ssir f’Lulju jew wara. (ċ) L-applikanti li jgħaddu skont is-sotto-paragrafi (a) u (b) ta’ dan ir-regolament għandhom ikunu kklassifikati f’ordni ta’ mertu biex postijiet vakanti jimtlew. Dawn l-applikanti huma mistennija li jikkonformaw mal- Occupational Health Protocol.
+(b) Jekk sal-aħħar tas-sessjoni tal-eżamijiet ta’ Ġunju, ikun hemm inqas applikanti eliġibbli mill-Foundation Studies Programme, applikanti oħra li mhumiex ċittadini tal-UE/ŻEE għandhom ikunu kkunsidrati u l-għażla għandha tkun skont il-livell akkademiku tagħhom, u skont intervista (inkluż il-manual dexterity test) li għandha ssir f’Lulju jew wara. (ċ) L-applikanti li jgħaddu skont is-sotto-paragrafi (a) u (b) ta’ dan ir-regolament għandhom ikunu kklassifikati f’ordni ta’ mertu biex postijiet vakanti jimtlew. Dawn l-applikanti huma mistennija li jikkonformaw mal- Occupational Health Protocol.
 
 ## 7.
 

@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Il-Prinċipalità ta’ Andorra) (S.L. 123.181)
 
-*1*
-
-(IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 LEĠISLAZZJONI SUSSIDJARJA 123.181
+**LEĠISLAZZJONI SUSSIDJARJA 123.181**
 
 **ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA**
 
@@ -49,11 +47,9 @@ B’dan qiegћed jiġi dikjarat -
 
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett wara li jidħol fis-seħħ il-Ftehim u skont il-provvediment rilevanti tal-Ftehim;
 
-(ċ) illi l-Ftehim beda jseħħ fil-27 ta` Settembru 2017. [L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
+(ċ) illi l-Ftehim beda jseħħ fil-27 ta` Settembru 2017.
 
 ## SKEDA — ARTIKOLU 2
-
-*2*
 
 FTEHIM BEJN IL-GVERN TAR-REPUBBLIKA TA’ MALTA U IL- GVERN TAL-PRINĊIPALITÀ TA’ ANDORRA GĦALL-EVITAR TA’ TAXXA DOPPJA U L-PREVENZJONI TA’ EVAŻJONI FISKALI DWAR TAXXI FUQ L-INCOME
 
@@ -93,9 +89,7 @@ it-taxxa fuq l-income;
 
 (ii) it-taxxa fuq l-income personali (Impost sobre la renda de les persones fisiques);
 
-*3*
-
-(IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 (iii) it-taxxa fuq l-income ta’ dawk mhux residenti fiskalment (Impost sobre la renda dels no residents fiscals); u
+(iii) it-taxxa fuq l-income ta’ dawk mhux residenti fiskalment (Impost sobre la renda dels no residents fiscals); u
 
 (iv) it-taxxa pagabbli fuq iż-żieda tal-valur ta’ trasferimenti ta’ proprjetà immobbli (Impost sobre les plusvàlues en les transmissions patrimonials immobiliàries).
 
@@ -119,11 +113,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 (d) il-frażi "persuna" tinkludi individwu, kumpannija u kull korp ieћor ta’ persuni;
 
-(e) il-frażi "kumpannija" tfisser kull korp magћqud jew kull entità li tkun ittrattata bћala korp magћqud [L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
-
-gћall-iskopijiet ta’ taxxa;
-
-*4*
+(e) il-frażi "kumpannija" tfisser kull korp magћqud jew kull entità li tkun ittrattata bћala korp magћqud gћall-iskopijiet ta’ taxxa;
 
 (f) il-frażijiet "impriża ta’ Stat Kontraenti" u "impriża ta’ l-Istat Kontraenti l-ieћor" ifissru rispettivament impriża ġestita minn residenti ta’ Stat Kontraenti u impriża ġestita minn residenti ta’ l-Istat Kontraenti l-ieћor;
 
@@ -145,9 +135,7 @@ gћall-iskopijiet ta’ taxxa;
 
 \2. Dwar l-applikazzjoni tal-Ftehim f’kull waqt minn Stat Kontraenti, kull frażi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra, it-tifsira mogћtija lilha li jkollha f’dak il-waqt taћt il-liġi ta’ dak l-Istat gћall-finijiet tat-taxxi li dwarhom ikun japplika l-Ftehim, hekk li kull tifsira taħt il-liġijiet tat-taxxa li jkunu japplikaw ta’ dak l-Istat tkun tipprevali fuq tifsira mogћtija lil dik il-frażi taћt liġijiet oћra ta’ dak l-Istat.
 
-*5*
-
-(IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 ARTIKOLU 4
+**ARTIKOLU 4**
 
 **Residenti**
 
@@ -164,10 +152,6 @@ gћall-iskopijiet ta’ taxxa;
 (d) jekk huwa jkun ċittadin taż-zewġ Stati jew ta’ ebda wieħed minnhom, l-awtoritajiet kompetenti ta’ l- Istati Kontraenti gћandhom jiddeċiedu l-każ bi ftehim reċiproku bejniethom.
 
 \3. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 persuna li ma tkunx individwu tkun residenti taż-żewg Stati Kontraenti, allura dik il-persuna gћandha titqies bћala residenti biss tal-Istat fejn ikun jinsab il-post ta’ maniġġ effettiv tagħha.
-
-*6*
-
-[L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
 
 **ARTIKOLU 5**
 
@@ -205,11 +189,9 @@ Minkejja l-provvedimenti ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbilime
 
 (d) iż-żamma ta’ post fiss ta’ negozju bl-iskop uniku ta’ xiri ta’ oġġetti jew ta’ merkanzija, jew ta’ ġbir ta’ tagћrif, gћall-impriża;
 
-(e) iż-żamma ta’ post fiss ta’ negozju bl-iskop uniku li tiġi ġestita, gћall-impriża, kull attività oћra ta’ xorta (IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 preparatorja jew awżiljarja;
+(e) iż-żamma ta’ post fiss ta’ negozju bl-iskop uniku li tiġi ġestita, gћall-impriża, kull attività oћra ta’ xorta preparatorja jew awżiljarja;
 
 (f) iż-żamma ta’ post fiss ta’ negozju unikament biex tkun tista’ ssir xi kombinazzjoni ta’ attivitajiet imsemmija fis-subparagrafi (a) sa (e), sakemm l-attività kollha tal-post tan-negozju fiss li tirriżulta minn dik il-kombinazzjoni tkun waħda ta’ xorta preparatorja jew awżiljarja.
-
-*7*
 
 ## 5.
 
@@ -229,11 +211,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew mill-ћidma fil-boskijiet) li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
 
-\2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi ta’ l-Istat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw il-provvedimenti tal-liġi ġenerali dwar il-proprjetà ta’ l-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, [L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
-
-gћejjun u riżorsi oћra naturali; bastimenti u inġenji ta’ l-ajru m’gћandhomx jitqiesu bћala proprjetà immobbli.
-
-*8*
+\2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi ta’ l-Istat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw il-provvedimenti tal-liġi ġenerali dwar il-proprjetà ta’ l-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, gћejjun u riżorsi oћra naturali; bastimenti u inġenji ta’ l-ajru m’gћandhomx jitqiesu bћala proprjetà immobbli.
 
 \3. Il-provvedimenti tal-paragrafu 1 gћandhom japplikaw gћal income li jinkiseb mill-użu dirett, il-kiri, jew l-użu b’kull mod ieћor ta’ proprjetà immobbli.
 
@@ -255,9 +233,7 @@ gћejjun u riżorsi oћra naturali; bastimenti u inġenji ta’ l-ajru m’gћan
 
 \6. Meta l-profitti jkunu jinkludu elementi ta’ income li jkunu qegћdin jiġu trattati separatament f’Artikli oћra ta’ dan il-Ftehim, gћaldaqshekk il-provvedimenti ta’ dawk l-Artikoli ma gћandhomx jintlaqtu bil-provvedimenti ta’ dan l-Artikolu.
 
-*9*
-
-(IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 ARTIKOLU 8
+**ARTIKOLU 8**
 
 **Tbaħħir U Trasport Bl-ajru**
 
@@ -281,10 +257,6 @@ gћejjun u riżorsi oћra naturali; bastimenti u inġenji ta’ l-ajru m’gћan
 
 u f’kull każ isiru jew jiġu imposti kundizzjonijiet bejn iż-żewg impriżi fir-relazzjonijiet kummerċjali jew finanzjarji tagћhom li ma jkunux jaqblu ma’ dawk li kieku kienu jiġu magћmulin bejn impriżi indipendenti, f’dak il-każ il-profitti li, kieku ma kienx gћal dawk il-kundizzjonijiet, kienu jakkumulaw favur xi waħda mill-impriżi, iżda, minћabba f’dawk il-kundizzjonijiet, ma jkunux ġew hekk akkumulati, jistgћu jiġu inklużi fil-profitti ta’ dik l-impriża u jiġu intaxxati skont hekk.
 
-*10*
-
-[L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
-
 \2. Meta Stat Kontraenti jinkludi fil-profitti ta’ impriża ta’ dak l-Istat - u skont hekk jintaxxa - profitti li fuqhom impriża ta’ l-Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kundizzjonijiet magћmulin bejn iż-żewg impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor għandu jagħmel aġġustament xieraq dwar l-ammont ta’ taxxa li għandha titħallas hemm fuq dawk il-profitti. Biex jiġi stabbilit dak l-aġġuistament, il-provvedimenti l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti ta’ l-Istati Kontraenti gћandhom jekk ikun hekk meћtieġ jikkonsultaw lil xulxin.
 
 **ARTIKOLU 10**
@@ -299,11 +271,9 @@ Dan il-paragrafu m’għandux jaffettwa t-tassazzjoni tal-kumpannija rigward il-
 
 \3. Il-provvedimenti tal-paragrafi 1 u 2 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u l-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti. F’dak il-każ, il-provvedimenti ta’ l-Artikolu 7 għandhom japplikaw.
 
-\4. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak l-Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal- (IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
+\4. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak l-Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
 
 **ARTIKOLU 11**
-
-*11*
 
 **Mgħax**
 
@@ -316,10 +286,6 @@ Dan il-paragrafu m’għandux jaffettwa t-tassazzjoni tal-kumpannija rigward il-
 \4. L-imgħax għandu jitqies li jinqala’ fi Stat Kontraenti meta min iħallsu ikun residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas l-imgħax, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti li f’konnessjoni miegħu l-obbligu li jitħallsu l-imgħax tkun effettivament konnessa, u dak l-imgħax jiġġarrab minn dak l-istabbiliment permanenti, allura dak l-imgħax għandu jitqies li jinqala’ fl-Istat fejn ikun jinsab l-istabbiliment permanenti.
 
 \5. Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont tal-imgћax, meta jiġi kkunsidrat il-pretensjoni ta’ debitu li dwarha tħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet għandha tibqa’ taxxabbli kif hemm fil-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu l-provvedimenti l-oћra ta’ dan il- Ftehim.
-
-*12*
-
-[L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
 
 **ARTIKOLU 12**
 
@@ -339,11 +305,9 @@ Dan il-paragrafu m’għandux jaffettwa t-tassazzjoni tal-kumpannija rigward il-
 
 **Qligħ Minn Kapital**
 
-\1. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli imsemmija fl-Artikolu 6 u li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor. (IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 2. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor, inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien ma’ l-impriża kollha), jista’ jiġi intaxxat f’dak Istat l-ieћor.
+\1. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli imsemmija fl-Artikolu 6 u li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor. 2. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor, inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien ma’ l-impriża kollha), jista’ jiġi intaxxat f’dak Istat l-ieћor.
 
 \3. Qligћ li jinkiseb minn impriża ta’ Stat Kontraenti mit-trasferiment ta’ bastimenti jew inġenji ta’ l-ajru fi traffiku internazzjonali, jew minn proprjetà mobbli li tkun tappartjeni għat-tħaddim ta’ dawk il-bastimenti jew inġenji ta’ l-ajru, gћandu jiġi intaxxat biss fl-Istat Kontraenti fejn ikun jinsab il-post ta’ maniġġ effettiv ta’ l-impriża.
-
-*13*
 
 \4. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ ishma li jkollhom aktar minn 50 fil-mija tal-valur tagħhom ġej direttament jew indirettament minn proprjeta’ immobbli li tkun tinsab fl-Istat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
 
@@ -362,10 +326,6 @@ Dan il-paragrafu m’għandux jaffettwa t-tassazzjoni tal-kumpannija rigward il-
 (b) il-kumpens jitћallas minn, jew f’isem, prinċipal li ma jkunx residenti tal-Istat l-ieћor; u
 
 (ċ) il-kumpens ma jkunx ta’ piż fuq stabbiliment permanenti li l-prinċipal ikollu fl-Istat l-ieћor.
-
-*14*
-
-[L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
 
 \3. Minkejja l-provvedimenti ta’ qabel ta’ dan l-Artikolu, kumpens li jinkiseb dwar impjieg eżerċitat abbord xi bastiment jew inġenji ta’ l-ajru mħaddma fi traffiku internazzjonali minn impriża ta’ Stat Kontraenti jista’ jiġi ntaxxat fl-Istat Kontraenti fejn ikun jinsab il-post ta’ maniġġ effettiv tal-impriża.
 
@@ -391,9 +351,7 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 \1. Bla ћsara gћall-provvedimenti tal-paragrafu 2 ta’ l- Artikolu 18, il-pensjonijiet u kull kumpens ieћor bћal dawk li jitћallsu lil residenti ta’ Stat Kontraenti minћabba f’xi impjieg li jkun sar qabel gћandhom jiġu intaxxati biss f’dak l-Istat.
 
-*15*
-
-(IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 2. Bla ħsara għall-provvedimenti tal-paragrafu 1, pensjonijiet u ħlasijiet oħra magħmula taħt il-leġislazzjoni tas-sigurtà soċjali ta’ Stat Kontraenti għandhom ikunu ntaxxati biss f’dak l-Istat.
+\2. Bla ħsara għall-provvedimenti tal-paragrafu 1, pensjonijiet u ħlasijiet oħra magħmula taħt il-leġislazzjoni tas-sigurtà soċjali ta’ Stat Kontraenti għandhom ikunu ntaxxati biss f’dak l-Istat.
 
 **ARTIKOLU 18**
 
@@ -412,10 +370,6 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 (b) Madankollu, pensjoni bħal dik jew kumpens ieħor simili għandha tkun taxxabbli biss fl-Istat Kontraenti l-ieħor kemm il-darba l-individwu jkun residenti ta’, u ċittadin ta’, dak l-Istat.
 
 \3. Il-provvedimenti tal-Artikoli 14, 15, 16 u 17 gћandhom japplikaw gћal salarji, pagi, pensjonijiet u kumpens ieħor bħalhom, gћar-rigward ta’ servizzi mogħtijin f’dak li għandu x’jaqsam ma’ kummerċ ġestit minn Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegħu.
-
-*16*
-
-[L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
 
 **ARTIKOLU 19**
 
@@ -441,11 +395,9 @@ Bla ħsara għall-provvedimenti tal-liġi ta’ Malta fir-rigward li jitħalla l
 
 \2. Fil-każ ta’ Andorra, it-taxxa doppja għandha tiġi eliminata kif ġej:
 
-(a) Meta residenti ta’ Andorra jikseb income li, skont il-provvedimenti ta’ dan il-Ftehim, jista’ jiġi ntaxxat f’Malta, Andorra għandha tagħti bħala tnaqqis mit-taxxa fuq l-income ta’ dak ir-residenti ammont li jkun daqs it-taxxa mħallsa f’Malta. Dak it-tnaqqis (IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 m’għandux, madankollu, ikun iżjed minn dik il-parti tat-taxxa ta’ Andorra, kif tinħadem qabel jingħata it-tnaqqis, li tkun attribwibbli għal dawk l-elementi ta’ income miksuba minn Malta;
+(a) Meta residenti ta’ Andorra jikseb income li, skont il-provvedimenti ta’ dan il-Ftehim, jista’ jiġi ntaxxat f’Malta, Andorra għandha tagħti bħala tnaqqis mit-taxxa fuq l-income ta’ dak ir-residenti ammont li jkun daqs it-taxxa mħallsa f’Malta. Dak it-tnaqqis m’għandux, madankollu, ikun iżjed minn dik il-parti tat-taxxa ta’ Andorra, kif tinħadem qabel jingħata it-tnaqqis, li tkun attribwibbli għal dawk l-elementi ta’ income miksuba minn Malta;
 
 (b) Meta residenti ta’ Andorra jikseb income li, skont il-provvedimenti ta’ dan il-Ftehim, ikun eżenti mit-taxxa f’Andorra, Andorra tista’ bl-iskop li jiġi kkalkulat l-ammont ta’ taxxa fuq l-income l-ieħor ta’ dak ir-residenti, tieħu kont ta’ l-income li jkun ġie eżentat.
-
-*17*
 
 **ARTIKOLU 22**
 
@@ -457,11 +409,7 @@ Bla ħsara għall-provvedimenti tal-liġi ta’ Malta fir-rigward li jitħalla l
 
 \3. Ħlief meta japplikaw il-provvedimenti tal-paragrafu 1 ta’ l-Artikolu 9, tal-paragrafu 5 ta’ l-Artikolu 11, jew tal-paragrafu 5 ta’ l- Artikolu 12, mgћax, royalties u ћlasijiet oћra li jitћallsu minn impriża ta’ Stat Kontraenti lil residenti ta’ l-Istat Kontraenti l-ieћor gћandhom, gћall-fini li jiġu stabbiliti x’inhuma l-profitti taxxabbli ta’ dik l-impriża, jiġu mnaqqsa taћt l-istess kundizzjonijiet bћallikieku dawn kienu tћallsu lil residenti tal-Istat l-ewwel imsemmi.
 
-\4. Impriżi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu proprjetà jew taћt il-kontroll, sew dirett sew mhux dirett, ta’ xi residenti wieħed jew aktar ta’ l-Istat Kontraenti l-ieћor, ma gћandhom ikunu assoġġettati fl-Istat l-ewwel imsemmi gћal ebda taxxa jew gћal ebda ћtieġa konnessa ma’ dan li tkun xort’oћra jew ta’ iktar piż mit-taxxa u mill-ħtiġiet konnessi li gћalihom ikunu jew jistgћu jkunu assoġġettati impriżi simili ta’ l-Istat l-ewwel [L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
-
-imsemmi.
-
-*18*
+\4. Impriżi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu proprjetà jew taћt il-kontroll, sew dirett sew mhux dirett, ta’ xi residenti wieħed jew aktar ta’ l-Istat Kontraenti l-ieћor, ma gћandhom ikunu assoġġettati fl-Istat l-ewwel imsemmi gћal ebda taxxa jew gћal ebda ћtieġa konnessa ma’ dan li tkun xort’oћra jew ta’ iktar piż mit-taxxa u mill-ħtiġiet konnessi li gћalihom ikunu jew jistgћu jkunu assoġġettati impriżi simili ta’ l-Istat l-ewwel imsemmi.
 
 \5. Il-provvedimenti ta’ dan l-Artikolu għandhom, minkejja l-provvedimenti tal-Artikolu 2, japplikaw għat-taxxi ta’ kull tip u għamla.
 
@@ -481,11 +429,9 @@ imsemmi.
 
 **Skambju Ta’ Informazzjoni**
 
-\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tista’ tkun prevista bћala rilevanti gћat-twettiq tal-provvedimenti ta’ dan il-Ftehim jew għall-amministrazzjoni jew l-infurzar tal-liġijiet domestiċi rigward taxxi ta’ kull tip u għamla imposti f’isem l-Istati Kontraenti, jew tas-sottodiviżjonijiet politiċi jew awtoritajiet lokali tagħhom, sakemm it- (IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 taxxa li taqa’ taћthom ma tmurx kontra l-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikli 1 u 2.
+\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tista’ tkun prevista bћala rilevanti gћat-twettiq tal-provvedimenti ta’ dan il-Ftehim jew għall-amministrazzjoni jew l-infurzar tal-liġijiet domestiċi rigward taxxi ta’ kull tip u għamla imposti f’isem l-Istati Kontraenti, jew tas-sottodiviżjonijiet politiċi jew awtoritajiet lokali tagħhom, sakemm it-taxxa li taqa’ taћthom ma tmurx kontra l-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikli 1 u 2.
 
 \2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiġi ittrattata bћala waћda sigrieta bl-istess mod bћal informazzjoni li tinkiseb taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu ma’ l-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, id-deċizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew it-tћaris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuh jew f’deċiżjonijiet ġudizzjarji. Minkejja dak li hawn qabel, informazzjoni li jirċievi Stat Kontraenti tista’ tiġi wżata għal għanijiet oħra meta dik l-informazzjoni tista’ tiġi wżata għal tali għanijiet oħra taħt il-liġijiet taż-żewġ Stati u l-awtorità kompetenti tal-Istat li jagħti l-informazzjoni jawtorizza dak l-użu.
-
-*19*
 
 \3. F’ebda każ m’gћandhom il-provvedimenti tal-paragrafi 1 u 2 jiftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
 
@@ -496,10 +442,6 @@ imsemmi.
 (ċ) li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew informazzjoni, li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
 \4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l-Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir ta’ l-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
-
-*20*
-
-[L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
 
 \5. F’ebda każ ma gћandhom il-provvedimenti tal-paragrafu 3 jiftiehmu bћala li jħallu lil Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’xi kapaċita’ ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetá f’xi persuna.
 
@@ -523,9 +465,7 @@ Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-mem
 
 \1. L-Istati Kontraenti għandhom javżaw lil xulxin, permezz ta’ kanali diplomatiċi, li l-ħtiġiet legali għall-bidu fis-seħħ ta’ dan il- Ftehim ikunu ġew imħarsa.
 
-*21*
-
-(IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 2. Dan il-Ftehim għandu jidħol fis-seħħ tletin jum wara d-data tal-aħħar mill-avviżi msemmija fil-paragrafu 1 u l-provvedimenti tiegħu għandu jkollhom effett:
+\2. Dan il-Ftehim għandu jidħol fis-seħħ tletin jum wara d-data tal-aħħar mill-avviżi msemmija fil-paragrafu 1 u l-provvedimenti tiegħu għandu jkollhom effett:
 
 (a) dwar taxxi miżmuma minn ras il-għajn, għal income li jinkiseb fi jew wara l-ewwel jum ta’ Jannar tas-sena kalendarja li jaħbat minnufih wara s-sena li fiha jidħol fis-seħħ il-Ftehim;
 
@@ -547,11 +487,7 @@ Magħmul fi New York dan il-20 jum ta’ Settembru, 2016, f’żewġ oriġinali 
 
 **Għall-Gvern Għall-Gvern**
 
-tar-Repubblika ta’ Malta tal-Prinċipalità ta’ Andorra [L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
-
-PROTOKOLL
-
-*22*
+tar-Repubblika ta’ Malta tal-Prinċipalità ta’ Andorra PROTOKOLL
 
 Filwaqt tal-iffirmar illum tal-Ftehim bejn il-Gvern tar-Repubblika ta’ Malta u l-Gvern tal-Prinċipalità ta’ Andorra gћall-Evitar ta’ Taxxa Doppja u l-Prevenzjoni ta’ Evażjoni Fiskali dwar Taxxi fuq l- Income, is-sottoskritti ftehmu dwar dawn il-provvedimenti li ġejjin, li għandhom ikunu jiffurmaw parti integrali minn dan il-Ftehim.
 
@@ -573,11 +509,9 @@ I. B’riferenza għall-paragrafu 1 tal-Artikolu 4 (Residenti):
 
 (b) fil-każ ta’ Andorra, fond jew skema ta’ pensjoni skont kif imfisser fil-Liġi li Tirregola l-attività ta’ kumpanniji tal-assigurazzjoni tal-11 ta’ Mejju 1989 u kull liġi oħra jew regolament ieħor li jista’ jiżviluppa, jissostitwixxi jew jibdel din il-liġi fil-futur;
 
-(ċ) kull fond jew skema ta’ pensjoni oħra ta’ Stat Kontraenti li l-awtorità kompetenti ta’ dak l-Istat Kontraenti tistabbilixxi li tqies bħala fond jew (IL-PRINĊIPALITÀ TA’ ANDORRA) [L.S.123.181 skema ta’ pensjoni għall-għanijiet ta’ dan il-paragrafu.
+(ċ) kull fond jew skema ta’ pensjoni oħra ta’ Stat Kontraenti li l-awtorità kompetenti ta’ dak l-Istat Kontraenti tistabbilixxi li tqies bħala fond jew skema ta’ pensjoni għall-għanijiet ta’ dan il-paragrafu.
 
 \2. Soċjetà jew trust li jkunu ffurmati taħt il-liġijiet ta’ Stat Kontraenti u li jkunu reġistrati għal skopijiet ta’ taxxa f’dak l-Istat Kontraenti għandhom ikunu kkunsidrati bħala residenti ta’ dak l-Istat Kontraenti.
-
-*23*
 
 II. B’riferenza għall-Artikolu 24 (Skambju ta’ Informazzjoni):
 
@@ -590,10 +524,6 @@ II. B’riferenza għall-Artikolu 24 (Skambju ta’ Informazzjoni):
 (i) dwar materji ta’ taxxa li jinvolvu aġir intenzjonali li jkun suġġett għall-prosekuzzjoni taħt il-liġijiet kriminali tal- Parti li titlob, għall-perjodi ta’ taxxa li jibdew fi jew wara l-ewwel jum ta’ Jannar tat-tielet sena li tiġi qabel is-sena li fiha jidħol fis-seħħ il-Ftehim, jew fejn ma hemmx perjodu ta’ taxxa, għat-taxxi kollha li joriġinaw fi jew wara l-ewwel jum ta’ Jannar tat-tielet sena li tiġi qabel is-sena li fiha jidħol fis-seħħ il-Ftehim; u
 
 (ii) f’każijiet oħra, għall-perjodi ta’ taxxa li jibdew fi jew wara l-ewwel jum ta’ Jannar tas-sena li taħbat minnufih wara s-sena li fiha jidħol fis-seħħ il-Ftehim jew, fejn ma hemmx perjodu ta’ taxxa, għat-taxxi kollha li joriġinaw fi jew wara l-ewwel jum ta’ Jannar tas-sena li taħbat minnufih wara s-sena li fiha jidħol fis-seħħ il-Ftehim.
-
-*24*
-
-[L.S. 123.181 (IL-PRINĊIPALITÀ TA’ ANDORRA)
 
 B’XIEHDA TA’ DAN is-sottoskritti, li huma awtorizzati kif imiss mill-Gvernijiet rispettivi tagħhom, iffirmaw dan il-Protokoll.
 

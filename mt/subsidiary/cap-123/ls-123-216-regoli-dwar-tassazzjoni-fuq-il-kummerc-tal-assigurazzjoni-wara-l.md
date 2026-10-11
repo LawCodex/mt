@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Tassazzjoni fuq il-Kummerċ tal-Assigurazzjoni wara l-adozzjoni tal-Istandard Internazzjonali tar-Rapportar Finanzjarju 17 dwar Kuntratti ta’ Assigurazzjoni (S.L. 123.216)
 
-WARA L-ADOZZJONI TAL-ISTANDARD
-
-INTERNAZZJONALI TAR-RAPPORTAR FINANZJARJU 17
-
-*1*
-
-DWAR KUNTRATTI TA’ ASSIGURAZZJONI [L.S. 123.216
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.216**
 
 **REGOLI DWAR TASSAZZJONI FUQ IL-KUMMERĊ**
@@ -66,14 +58,6 @@ F’dawn ir-regoli, kemm-il darba ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "kontijiet annwali" għandu jkollha l-istess tifsira kif mogħti lilha fl-artikolu 2 tal-Att dwar il-Kumpaniji;
 
-**WARA L-ADOZZJONI TAL-ISTANDARD**
-
-**INTERNAZZJONALI TAR-RAPPORTAR FINANZJARJU 17**
-
-**DWAR KUNTRATTI TA’ ASSIGURAZZJONI**
-
-*[L.S. 123.216 2*
-
 *  Kap. 403.*
 
 "kummerċ tal-assigurazzjoni" għandu jkollha l-istess tifsira kif moghti lilha fl-artikolu 2 tal-Att dwar il-Kummerċ tal-Assigurazzjoni;
@@ -92,15 +76,7 @@ Iżda l-oggetti rrappurtati fid-dħul komprensiv l-ieħor fid-dikjarazzjoni tad-
 
 "riżultat tas-servizz tal-assigurazzjoni" għandu jkollha l-istess t-tifsira kif mogħti lilha fil-linji gwida ppubblikati fuq is-sit web tal-Kummissarju tat-Taxxa u Dwana skont id-dispożizzjonijiet tal-artikolu 96(2) tal-Att;
 
-"sena ta’ stima ta’ adozzjoni" tfisser is-sena ta’ stima li tiġi minnufih wara l-ewwel perijodu ta’ kontjar fejn l-assiguratur adotta l-IFRS17 iżda fl-ebda każ ma għandha tkun WARA L-ADOZZJONI TAL-ISTANDARD
-
-INTERNAZZJONALI TAR-RAPPORTAR FINANZJARJU 17
-
-*3*
-
-DWAR KUNTRATTI TA’ ASSIGURAZZJONI [L.S. 123.216
-
-iktar tard mis-sena ta’ stima 2033;
+"sena ta’ stima ta’ adozzjoni" tfisser is-sena ta’ stima li tiġi minnufih wara l-ewwel perijodu ta’ kontjar fejn l-assiguratur adotta l-IFRS17 iżda fl-ebda każ ma għandha tkun iktar tard mis-sena ta’ stima 2033;
 
 "telf ta’ qabel it-taxxa" tirreferi għat-telf totali qabel it-taxxa ta’ assiguratur għall-perijodu ta’ kontjar rilevanti kif irrappurtat fid-dikjarazzjoni awditjata tal-profitt jew telf fil-kontijiet annwali tal-assiguratur, irrispettivament minn jekk tali telf ikunx imġarrab esklussivament mill-kummerċ ta’ assigurazzjoni jew b’mod iehor.
 
@@ -122,13 +98,7 @@ Minkejja kwalunkwe dispożizzjoni li tinsab fl-Att u soġġett għar-regola 5(2)
 
 (b) jekk il-bidla tikkonsisti f’żieda fit-telf akkumulat jew tnaqqis fil-profitti akkumulati, din għandha ssir referenza għaliha bħala "telf ta’ adozzjoni".
 
-(2) Kwalunkwe qligħ minn adozzjoni li jirriżulta fil-manjiera stipulata fis-subregola (1)(a), għandu jitqies li jikkostitwixxi qligħ jew profitti li jiffurmaw parti mill-profitt aġġustat qabel it-taxxa meqjus taxxabli fis-sena ta’ adozzjoni ta’ stima u d-dispożizzjonijiet kollha tal-Att u ta’ dawn ir-regoli relatati mat-tassazzjoni u l-ġbir ta’ dak il-qligħ jew profitti, għandhom japplikaw mutatis mutandis WARA L-ADOZZJONI TAL-ISTANDARD
-
-*4*
-
-INTERNAZZJONALI TAR-RAPPORTAR FINANZJARJU 17 [L.S. 123.216 DWAR KUNTRATTI TA’ ASSIGURAZZJONI
-
-għalihom.
+(2) Kwalunkwe qligħ minn adozzjoni li jirriżulta fil-manjiera stipulata fis-subregola (1)(a), għandu jitqies li jikkostitwixxi qligħ jew profitti li jiffurmaw parti mill-profitt aġġustat qabel it-taxxa meqjus taxxabli fis-sena ta’ adozzjoni ta’ stima u d-dispożizzjonijiet kollha tal-Att u ta’ dawn ir-regoli relatati mat-tassazzjoni u l-ġbir ta’ dak il-qligħ jew profitti, għandhom japplikaw mutatis mutandis għalihom.
 
 (3) Kwalunkwe telf ta’ adozzjoni li jirriżulta bil-mod stipulat fis-subregola (1)(b), għandu jitqies bħala telf skont l-artikolu 14(1)(g) tal-Att li jkun sar fis-sena ta’ stima ta’ adozzjoni, u d-dispożizzjonijiet kollha tal-Att dwar it-tnaqqis ta’ dan it-telf, għandhom japplikaw mutatis mutandis għalihom.
 

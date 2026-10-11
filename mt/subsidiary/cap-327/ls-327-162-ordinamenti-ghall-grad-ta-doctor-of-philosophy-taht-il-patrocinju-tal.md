@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Istitut għall-Energija Sostenibbli (S.L. 327.162)
 
-*1*
-
-AUSPICES OF THE INSTITUTE FOR SUSTAINABLE ENERGY [S.L.327.162
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.162**
 
 **ORDINAMENTI GĦALL-GRAD TA’**
@@ -69,9 +65,7 @@ Il-Bord għandu jirrakkomanda lis-Senat li jinħatar Kumitat tal-Istitut għad-D
 
 (a) id-Direttur tal-Istitut jew delegat (chairman);
 
-*2*
-
-[S.L.327.162 AUSPICES OF THE INSTITUTE FOR SUSTAINABLE ENERGY (b) tliet membri akkademiċi li għandhom kwalifiki akkademiċi fil-livell tad-dottorat.
+(b) tliet membri akkademiċi li għandhom kwalifiki akkademiċi fil-livell tad-dottorat.
 
 ## 6. Superviżjoni u progress tal-istudenti.
 

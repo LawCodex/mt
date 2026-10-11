@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1995) (S.L. 261.18)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1995) [ L.S.261.18
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.18**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -101,7 +99,7 @@ B’se]] mill-11 ta’ April, 1995:
 
 (2) Flat numru 3 f’numru 113, Triq il-Lvant, Valletta (Tenement No. 60013 D).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1995) [ L.S.261.18 (3) Flat numru 2, Blokk N, Qasam }al Tmiem, |ejtun (Tenement No. 74165).
+(3) Flat numru 2, Blokk N, Qasam }al Tmiem, |ejtun (Tenement No. 74165).
 
 *\4.*
 
@@ -153,7 +151,7 @@ B’se]] mis-27 ta’ Novembru, 1995:
 
 (1) Bi``a art li tag]mel parti mill-Qasam tad-Djar tal- Gvern ta’ l-Iklin, limiti Birkirkara, tal-kejl ta’ madwar 491 metru kwadru, li tmiss minn Nofsinhar f’parti ma’ Triq Anton Buttigieg u f’parti ma’ art trasferita lill- Awtorità tad-Djar bl-Avvi\\ Legali Nru. 35 ta’ l-1983, mil-Lvant f’parti ma’ spazju pubbliku fil-miftu] u f’parti ma’ art trasferita lill-Awtorità tad-Djar bl- Avvi\\ Legali Nru. 35 ta’ l-1983, u mill-Punent f’parti ma’ Triq ~ensu Busuttil u f’parti ma’ art trasferita lill- Awtorità tad-Djar bl-Avvi\\ Legali Nru. 35 ta’ l-1983, delineata bl-a]dar fuq L.D. 190/82/17.
 
-(2) Bi``a art li tag]mel parti mill-Qasam tad-Djar tal- Gvern ta\\-|ejtun, limiti |ejtun, tal-kejl ta’ madwar 68 metru kwadru u li qeg]da biswit id-dar bin-numru 7, Triq Xatbet l-Andar, li tmiss mill-Grigal ma’ proprjetà ta’ Mario Bonello, mix-Xlokk ma’ proprjetà ta’ John (TRASFERIMENT TA’ PROPRJETÀ) (1995) [ L.S.261.18 Cassar u mil-Lbi` ma’ Triq Xatbet l-Andar, delineata bl-a]dar fuq L.D. 7/80/5.
+(2) Bi``a art li tag]mel parti mill-Qasam tad-Djar tal- Gvern ta\\-|ejtun, limiti |ejtun, tal-kejl ta’ madwar 68 metru kwadru u li qeg]da biswit id-dar bin-numru 7, Triq Xatbet l-Andar, li tmiss mill-Grigal ma’ proprjetà ta’ Mario Bonello, mix-Xlokk ma’ proprjetà ta’ John Cassar u mil-Lbi` ma’ Triq Xatbet l-Andar, delineata bl-a]dar fuq L.D. 7/80/5.
 
 (3) Id-dar bin-numru 81, Triq il-Kemmun }elu, |ejtun (Tenement No. 68814).
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Postgraduate Certificate in English Language Teaching i P.G.Cert. ELT - taħt il-patroċinju taċ-Ċentru tal-Profiċjenza fil-Lingwa Ingliża u tal-Fakultà tal-Edukazzjoni (S.L. 327.564)
 
-\- P.G.Cert. ELT - TAĦT IL-PATROĊINJU TAĊ-ĊENTRU TAL-
-
-*1*
-
-PROFIĊJENZA FIL-LINGWA INGLIŻA U L-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.564
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.564**
 
 **ORDINAMENTI GĦALL-POSTGRADUATE**
@@ -71,13 +65,7 @@ Il-kors jinfirex fuq perijodu ta’ semestru wieħed ta’ studju fuq bażi full
 
 ## 6. Valutazzjoni u progress.
 
-(1) L-istudenti li jkunu weħlu fil-valutazzjoni ta’ mhux aktar minn 10 kretti ECTS għal taqsimiet studju mgħallma - P.G.Cert. ELT - TAĦT IL-PATROĊINJU TAĊ-ĊENTRU TAL-
-
-*2*
-
-[L.S.327.564 PROFIĊJENZA FIL-LINGWA INGLIŻA U L-FAKULTÀ TAL-EDUKAZZJONI
-
-jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
+(1) L-istudenti li jkunu weħlu fil-valutazzjoni ta’ mhux aktar minn 10 kretti ECTS għal taqsimiet studju mgħallma jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
 (2) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (1) ta’ dan l-ordinament, jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju, ikunu meqjusa li weħlu mill-kors.
 

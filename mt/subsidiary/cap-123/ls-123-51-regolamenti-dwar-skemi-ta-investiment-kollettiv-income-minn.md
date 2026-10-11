@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Skemi ta Investiment Kollettiv (Income minn Investiment) (S.L. 123.51)
 
-*1*
-
-(INCOME MINN INVESTIMENT) [L.S.123.51
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.51**
 
 REGOLAMENTI DWAR SKEMI TA’ INVESTIMENT KOLLETTIV (INCOME MINN INVESTIMENT) 1 ta’ Marzu, 2001 L-AVVI| LEGALI 55 tal-2001, kif emendat bl-Avvi\\i Legali 111 tal- 2002, 188 tal-2003, 307 tal-2004, 313 tal-2006, 409 tal-2007, 257 tal-2008 u 426 tal-2012.
@@ -89,11 +85,7 @@ I\\da jekk il-fond kien [ie klassifikat b]ala fond preskritt jew fond mhux presk
 
 *Kap. 345.*
 
-(2) Meta persuna jkollha titoli li jkunu meqjusa b]ala titoli f’fond mhux preskritt skond is-subregolament (1) u titoli o]ra fl- (INCOME MINN INVESTIMENT) [L.S.123.51
-
-istess fond li ma jkunux hekk meqjusa, kull trasferimenti ta’ titoli f’dak il-fond minn dik il-persuna g]andhom jitqiesu trasferimenti ta’ titoli f’fond mhux preskritt sakemm it-titoli kollha li dik il-persuna kellha fid-data meta dak il-fond kien [ie klassifikat b]ala fond preskritt ikunu [ew trasferiti.
-
-*3*
+(2) Meta persuna jkollha titoli li jkunu meqjusa b]ala titoli f’fond mhux preskritt skond is-subregolament (1) u titoli o]ra fl-istess fond li ma jkunux hekk meqjusa, kull trasferimenti ta’ titoli f’dak il-fond minn dik il-persuna g]andhom jitqiesu trasferimenti ta’ titoli f’fond mhux preskritt sakemm it-titoli kollha li dik il-persuna kellha fid-data meta dak il-fond kien [ie klassifikat b]ala fond preskritt ikunu [ew trasferiti.
 
 ### 9. Kalkolu tal-kost ta’ l-akkwist ta’ titoli elenkati.
 
@@ -157,11 +149,7 @@ kull euro ta’ dak il-]las.
 
 *Emendat: A.L. 111 tal-2002; A.L. 188 tal-2003.*
 
-(2) Persuna ma hix eli[ibbli li ti[i re[istrata b]ala financial intermediary awtorizzat jekk ma tapplikax lil-Kummissarju g]al (INCOME MINN INVESTIMENT) [L.S.123.51
-
-re[istrazzjoni g]all-finijiet ta’ dawn ir-regolamenti u jekk ma tkunx, fi\\-\\mien ta’ dik l-applikazzjoni -
-
-*5*
+(2) Persuna ma hix eli[ibbli li ti[i re[istrata b]ala financial intermediary awtorizzat jekk ma tapplikax lil-Kummissarju g]al re[istrazzjoni g]all-finijiet ta’ dawn ir-regolamenti u jekk ma tkunx, fi\\-\\mien ta’ dik l-applikazzjoni -
 
 *Kap. 370.*
 
@@ -213,11 +201,7 @@ mija ta' dak l-income minn investiment fuq l-income b]al dak li mbag]ad g]andu j
 
 *Kap. 386.*
 
-(ii) id-detentur tat-titoli hawn l-a]]ar imsemmija (INCOME MINN INVESTIMENT) [L.S.123.51
-
-g]andu jkun l-istess persuna b]alma jkun id-detentur tat-titoli hawn l-ewwel imsemmija; u (iii) is-sehem miksub fis-sub-fund hawn l-a]]ar imsemmi g]andu jkun isegwi minnufih is-sehem fis-subfund hawn l-ewwel imsemmi; i\\da wkoll il-Kummissarju ikun sodisfatt li:
-
-*7*
+(ii) id-detentur tat-titoli hawn l-a]]ar imsemmija g]andu jkun l-istess persuna b]alma jkun id-detentur tat-titoli hawn l-ewwel imsemmija; u (iii) is-sehem miksub fis-sub-fund hawn l-a]]ar imsemmi g]andu jkun isegwi minnufih is-sehem fis-subfund hawn l-ewwel imsemmi; i\\da wkoll il-Kummissarju ikun sodisfatt li:
 
 (1) is-sub-fund ta’ dik l-iskema ta’ investiment kollettiv l-o]ra g]andu jkollu g]anijiet ta’ investiment li jkunu identi`i g]al dawk tas-sub-fund hawn l-ewwel imsemmi; u (2) is-sub-fund ta’ dik l-iskema ta’ investiment kollettiv l-o]ra g]andu jkun jissu``edi g]ad-drittijiet u l-obligi kollha tas-sub-fund l-ewwel imsemmi; u
 
@@ -257,11 +241,9 @@ I\\da jekk l-akkwist u t-trasferiment isiru fl-istess sena kalendarja, g]andha t
 
 (iii) il-kost ta’ l-akkwist g]andu ji[i kkalkolat bl-istess mod kif provdut f’regolament 9, jew b’kull mod ie]or li jista’ ji[i approvat mill- Kummissarju.
 
-*9*
+### 16. UCITS. Mi\\jud: A.L. 307 tal-2004.
 
-(INCOME MINN INVESTIMENT) [L.S.123.51 16. G]all-iskopijiet tad-disposizzjonijiet dwar income minn investiment ta’ l-Att u ta’ regolamenti mag]mulin ta]tu, "skema ta’ investiment kollettiv" tinkludi impri\\a g]al investiment kollettiv f’ishma trasferibbli awtorizzat skond id-Direttiva tal-Kunsill 85/ 611/KEE tal-20 ta’ Di`embru, 1985 dwar il-kordinazzjoni ta’ ligijiet, regolamenti u disposizzjonijiet amministrattivi marbutin ma’ impri\\i g]al investiment kollettiv f’ishma trasferibbli (UCITS) kif emendata u fis-se]] fl-1 ta’ Mejju, 2004 u kif tista’ tigi emendata minn \\mien g]al \\mien.
-
-*UCITS. Mi\\jud: A.L. 307 tal-2004.*
+G]all-iskopijiet tad-disposizzjonijiet dwar income minn investiment ta’ l-Att u ta’ regolamenti mag]mulin ta]tu, "skema ta’ investiment kollettiv" tinkludi impri\\a g]al investiment kollettiv f’ishma trasferibbli awtorizzat skond id-Direttiva tal-Kunsill 85/ 611/KEE tal-20 ta’ Di`embru, 1985 dwar il-kordinazzjoni ta’ ligijiet, regolamenti u disposizzjonijiet amministrattivi marbutin ma’ impri\\i g]al investiment kollettiv f’ishma trasferibbli (UCITS) kif emendata u fis-se]] fl-1 ta’ Mejju, 2004 u kif tista’ tigi emendata minn \\mien g]al \\mien.
 
 10 L.S.123.51] (INCOME MINN INVESTIMENT)
 
@@ -328,9 +310,5 @@ Informazzjoni li g]andha ting]ata minn financial intermediaries awtorizzati fuq 
 (6) Data tal-prospett
 
 (7) Firma tal-financial intermediary awtorizzat.
-
-*11*
-
-(INCOME MINN INVESTIMENT) [L.S.123.51
 
 G]al kull perijodu li fih ma tkunx tnaqqset taxxa g]andu jing]ata prospett Nil.

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti għall-Esportazzjoni taż-Żerriegħa tal-Kemmun"
-identifier: "S.L. 85.2"
+identifier: "S.L. 85.02"
 eli: "https://legislation.mt/eli/sl/85.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.2/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti għall-Esportazzjoni taż-Żerriegħa tal-Kemmun (S.L. 85.2)
+# Regolamenti għall-Esportazzjoni taż-Żerriegħa tal-Kemmun (S.L. 85.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 85.02**
 

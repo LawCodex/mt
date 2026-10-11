@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Restrizzjoni ta' Dħul u Passaġġ ta' Vetturi fl-Imdina (S.L. 65.27)
 
-*1*
-
-TA’ VETTURI FL-IMDINA [L.S.65.27
-
 **LE{ISLAZZJONI SUSSIDJARJA 65.27**
 
 REGOLAMENTI DWAR RESTRIZZJONI TA’ D}UL
@@ -72,8 +68,6 @@ L.S.65.27] TA’ VETTURI FL-IMDINA
 *Il-permess ma jaqbi\\x 12-il xahar u mhuwiex trasferibbli.*
 
 (4) Dak il-permess g]andu jin]are[ g]al perjodu li ma jkunx aktar minn tnax-il xahar mid-data tal-]ru[ tieg]u u dan la jkun trasferibbli g]al xi persuna o]ra u lanqas g]al xi vettura o]ra.
-
-TA’ VETTURI FL-IMDINA [L.S.65.27 3
 
 SKEDA Sostitwita:
 

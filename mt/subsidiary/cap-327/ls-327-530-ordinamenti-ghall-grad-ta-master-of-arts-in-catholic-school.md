@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Catholic School Leadership - M.A. - taħt il-patroċinju tal-Fakultà tal-Teoloġija u tal-Fakultà tal-Edukazzjoni (S.L. 327.530)
 
-LEADERSHIP - M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAT-TEOLOĠIJA U TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.530
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.530**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -68,11 +62,7 @@ Il-Kors ikun miftuħ għall-applikanti li għandhom:
 
 (b) kwalunkwe grad ieħor miksub tal-anqas fit-Tielet Klassi bl-Unuri jew f’Kategorija III miksub flimkien ma’ kwalifika fit-tagħlim jew fl-edukazzjoni rikonoxxuta u minimu ta’ tliet snin esperjenza fit-tagħlim; jew
 
-(ċ) grad fl-edukazzjoni jew iċ-Ċertifikat tal-Għalliema, flimkien ma’ mill-anqas tliet snin esperjenza fit- LEADERSHIP - M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ [L.S.327.530 TAT-TEOLOĠIJA U TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-tagħlim u kwalifiki oħrajn xierqa miksuba wara l-grad jew iċ-Ċertifikat tal-Għalliema; jew
-
-*2*
+(ċ) grad fl-edukazzjoni jew iċ-Ċertifikat tal-Għalliema, flimkien ma’ mill-anqas tliet snin esperjenza fit-tagħlim u kwalifiki oħrajn xierqa miksuba wara l-grad jew iċ-Ċertifikat tal-Għalliema; jew
 
 (d) kwalunkwe grad tal-ewwel ċiklu, flimkien mal- Postgraduate Certificate in Education jew kwalifika fit-tagħlim rikonoxxuta, flimkien ma’ tliet snin esperjenza f’ambjent edukattiv; jew
 
@@ -110,13 +100,9 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord tal-Istudji mhux aktar tard minn sitt ġimgħat qabel it-tmiem tar-raba’ semestru.
 
-LEADERSHIP - M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
+## 10. Superviżur. Renumerat: A.L. 245 tal-2024.
 
-*3*
-
-TAT-TEOLOĠIJA U TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.530 10. (1) L-istudenti jkunu meħtieġa li jżommu kuntatt regolari mas-superviżur tagħhom.
-
-*Superviżur. Renumerat: A.L. 245 tal-2024.*
+(1) L-istudenti jkunu meħtieġa li jżommu kuntatt regolari mas-superviżur tagħhom.
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord tal-Istudji rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

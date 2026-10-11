@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Public Health taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.360)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDIĊINA U KIRURĠIJA [L.S.327.360
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.360**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -77,13 +71,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (f) grad ikklassifikat tal-anqas fit-Tieni Klassi bl-Unuri f’dixxiplina relatata max-xjenza tas-saħħa; jew
 
-(g) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.360 TAL-MEDIĊINA U KIRURĠIJA
-
-tal-Bord, bħala ekwivalenti għall-kwalifiki msemmija fis-sottoparagrafi (a) sa (f).
+(g) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala ekwivalenti għall-kwalifiki msemmija fis-sottoparagrafi (a) sa (f).
 
 (2) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jirreġistraw għall-kors, skont id-disponibilità tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
@@ -119,11 +107,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 25,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MEDIĊINA U KIRURĠIJA [L.S.327.360 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur mill-Bord, li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju. Kull bidla sostanzjali fit-titlu jew fil-kontenut trid tiġi approvata mill-Bord.
+(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur mill-Bord, li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju. Kull bidla sostanzjali fit-titlu jew fil-kontenut trid tiġi approvata mill-Bord.
 
 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-bidu tat-tieni semestru.
 

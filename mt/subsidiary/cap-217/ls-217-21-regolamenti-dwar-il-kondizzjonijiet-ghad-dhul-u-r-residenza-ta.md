@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kondizzjonijiet għad-Dħul u r-Residenza ta’ Ċittadini ta’ Pajjiż Terz, fil-Qafas ta’ Trasferimenti Intra-azjendali (S.L. 217.21)
 
-TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*1*
-
-TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.21**
 
 **REGOLAMENTI DWAR IL-KONDIZZJONIJIET**
@@ -65,12 +59,6 @@ Għall-finijiet ta’ dawn ir-regolamenti:
 
 "entità ospitanti" tfisser l-entità li lejha huwa ttrasferit ħaddiem bi trasferiment intra-azjendali, irrispettivament mill-forma legali tagħha, stabbilita, f’konformità mal-liġi nazzjonali, f’Malta;
 
-TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*2*
-
-[L.S.217.21 TA’ TRASFERIMENTI INTRA-AZJENDALI
-
 "grupp ta’ impriżi" tfisser żewġ impriżi jew iktar rikonoxxuti li għandhom rabtiet bejniethom kif ġej, fejn impriża, f’relazzjoni diretta jew indiretta ma’ impriża oħra:
 
 (a) għandha l-maġġoranza tal-kapital sottoskritt ta’ dik l-impriża;
@@ -103,13 +91,9 @@ TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
 
 "proċedura ta’ applikazzjoni unika" tfisser il-proċedura li twassal, fuq il-bażi ta’ applikazzjoni waħda għall-awtorizzazzjoni ta’ residenza u xogħol ta’ ċittadin ta’ pajjiż terz fit-territorju ta’ Malta, għal deċiżjoni dwar dik l-applikazzjoni;
 
-TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*3*
-
-TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 "professjoni regolata" tfisser professjoni regolata kif imfisser fir-regolament 4(1)(a) tar-Regolamenti dwar ir-Rikonoxximent Reċiproku ta’ Kwalifiki Professjonali;
-
 *L.S. 451.03*
+
+"professjoni regolata" tfisser professjoni regolata kif imfisser fir-regolament 4(1)(a) tar-Regolamenti dwar ir-Rikonoxximent Reċiproku ta’ Kwalifiki Professjonali;
 
 "speċjalist" tfisser persuna li taħdem fi grupp ta’ impriżi u li għandha għarfien speċjalizzat essenzjali għall-oqsma ta’ attività, it-tekniki jew il-ġestjoni tal-entità ospitanti. Meta jiġi vvalutat tali għarfien, għandu jitqies mhux biss l-għarfien speċifiku għall-entità ospitanti, imma ukoll jekk il-persuna jkollhiex livell għoli ta’ kwalifiki inkluża esperjenza professjonali adegwata li jirreferu għal tip ta’ xogħol jew ta’ attività li jeħtieġ għarfien tekniku speċifiku, inkluża s-sħubija possibbli fi professjoni akkreditata;
 
@@ -137,13 +121,7 @@ TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 "professjoni regolata" tfisser p
 
 (d) jagħmlu attivitajiet bħala ħaddiema għal rashom;
 
-(e) huma assenjati minn aġenziji tal-impjieg, aġenziji ta’ TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*4*
-
-[L.S.217.21 TA’ TRASFERIMENTI INTRA-AZJENDALI
-
-xogħol temporanju jew kwalunkwe impriża oħra impenjata li tagħmel disponibbli ħaddiema biex jaħdmu taħt is-superviżjoni u d-direzzjoni ta’ impriża oħra;
+(e) huma assenjati minn aġenziji tal-impjieg, aġenziji ta’ xogħol temporanju jew kwalunkwe impriża oħra impenjata li tagħmel disponibbli ħaddiema biex jaħdmu taħt is-superviżjoni u d-direzzjoni ta’ impriża oħra;
 
 (f) li jiġu aċċettati bħala studenti full-time jew li jkunu qegħdin jagħmlu taħriġ prattiku sorveljat għal żmien qasir bħala parti mill-istudji tagħhom.
 
@@ -169,11 +147,7 @@ xogħol temporanju jew kwalunkwe impriża oħra impenjata li tagħmel disponibbl
 
 (iv) evidenza li ċ-ċittadin ta’ pajjiż terz ser ikun jista’ jiġi trasferit lura għal entità li tappartjeni għal dik l-impriża jew grupp ta’ impriżi stabbilita f’pajjiż terz fi tmiem it-trasferiment intra-azjendali;
 
-(d) jagħti evidenza li ċ-ċittadin ta’ pajjiż terz għandu l- TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*5*
-
-TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 kwalifiki u l-esperjenza professjonali meħtieġa fl-entità ospitanti li għaliha għandu jiġi trasferit bħala maniġer jew speċjalist jew, fil-każ ta’ impjegat apprendist, il-lawrja universitarja meħtieġa;
+(d) jagħti evidenza li ċ-ċittadin ta’ pajjiż terz għandu l-kwalifiki u l-esperjenza professjonali meħtieġa fl-entità ospitanti li għaliha għandu jiġi trasferit bħala maniġer jew speċjalist jew, fil-każ ta’ impjegat apprendist, il-lawrja universitarja meħtieġa;
 
 (e) fejn applikabbli, jippreżenta dokumenti li jiċċertifikaw li ċ-ċittadin ta’ pajjiż terz jissodisfa l-kondizzjonijiet stabbiliti skont ir-Regolamenti dwar ir-Rikonoxximent Reċiproku ta’ Kwalifiki Professjonali biex jeżerċita l-professjoni regolata li għalihom tirrigwarda l-applikazzjoni;
 
@@ -195,13 +169,7 @@ TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 kwalifiki u l-esperjenza profess
 
 (4) Abbażi tad-dokumentazzjoni provduta skont is-subregolament (1), iċ-Chairperson Eżekuttiv għandu jirrikjedi li l-ħaddiem bi trasferiment intra-azjendali ser ikollu biżżejjed riżorsi matul iż-żjara tiegħu jew tagħha biex imantni lilu nnifsu jew lilha nnifisha, il-membri tal-familja tiegħu jew tagħha mingħajr rikors għas-sistema tal-assistenza soċjali ta’ Malta.
 
-(5) Minbarra l-evidenza meħtieġa bis-subregolament (1), kwalunkwe ċittadin ta’ pajjiż terz li japplika għal ammissjoni bħala impjegat apprendist għandu jintalab jippreżenta ftehim ta’ taħriġ, relatat mat-tħejjija tal-pożizzjoni futura tiegħu jew tagħha fl- TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*6*
-
-[L.S.217.21 TA’ TRASFERIMENTI INTRA-AZJENDALI
-
-impriża jew fil-grupp ta’ impriżi, inkluża deskrizzjoni tal-programm ta’ taħriġ, li turi li l-fini tal-permanenza huwa li l-impjegat apprendist jiġi mħarreġ għall-finijiet tal-iżvilupp tal-karriera jew sabiex jikseb taħriġ f’tekniki jew metodi ta’ negozju, it-tul tiegħu u l-kondizzjonijiet li taħthom l-impjegat apprendist jiġi sorveljat matul il-programm.
+(5) Minbarra l-evidenza meħtieġa bis-subregolament (1), kwalunkwe ċittadin ta’ pajjiż terz li japplika għal ammissjoni bħala impjegat apprendist għandu jintalab jippreżenta ftehim ta’ taħriġ, relatat mat-tħejjija tal-pożizzjoni futura tiegħu jew tagħha fl-impriża jew fil-grupp ta’ impriżi, inkluża deskrizzjoni tal-programm ta’ taħriġ, li turi li l-fini tal-permanenza huwa li l-impjegat apprendist jiġi mħarreġ għall-finijiet tal-iżvilupp tal-karriera jew sabiex jikseb taħriġ f’tekniki jew metodi ta’ negozju, it-tul tiegħu u l-kondizzjonijiet li taħthom l-impjegat apprendist jiġi sorveljat matul il-programm.
 
 (6) Kwalunkwe modifika matul il-proċedura ta’ applikazzjoni li taffettwa l-kriterji għal ammissjoni kif stabbilit f ’dan ir-regolament għandha tiġi notifikata liċ-Chairperson Eżekuttiv.
 
@@ -233,11 +201,7 @@ Dawn ir-regolamenti m’għandhomx jaffettwaw id-dritt, kif stabbilit fl-Artikol
 
 (b) fejn in-negozju ta’ min iħaddem jew tal-entità ospitanti qiegħed stralċjat jew ġie stralċjat taħt l-Att dwar il-Kumpanniji jew jekk ma tkunx qed isir attività ekonomika;
 
-(ċ) fejn il-ħsieb jew l-effett tal-preżenza temporanja tal-ħaddiem bi trasferiment intra-azjendali jinterferixxi fl- TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*7*
-
-TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 eżitu ta’ kwalunkwe tilwin ta’ ġestjoni tax-xogħol jew fin-negozjar, jew jaffetwahom b’xi mod ieħor.
+(ċ) fejn il-ħsieb jew l-effett tal-preżenza temporanja tal-ħaddiem bi trasferiment intra-azjendali jinterferixxi fl-eżitu ta’ kwalunkwe tilwin ta’ ġestjoni tax-xogħol jew fin-negozjar, jew jaffetwahom b’xi mod ieħor.
 
 (4) Iċ-Chairperson Eżekuttiv jista’ jirrifjuta applikazzjoni għal permess għal trasferiment intra-azjendali għar-raġunijiet stabbiliti fir-regolament 10(2).
 
@@ -269,13 +233,7 @@ TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 eżitu ta’ kwalunkwe tilwin ta
 
 (5) Iċ-Chairperson Eżekuttiv jista’ jirtira jew jirrifjuta li jġedded permess ta’ ħaddiem bi trasferiment intra-azjendali f’xi wieħed mill-każijiet li ġejjin:
 
-(a) fejn ma jkunx jew ma jibqax iktar konformi mar- TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*8*
-
-[L.S.217.21 TA’ TRASFERIMENTI INTRA-AZJENDALI
-
-regolament 4;
+(a) fejn ma jkunx jew ma jibqax iktar konformi mar-regolament 4;
 
 (b) fejn min iħaddem jew l-entità ospitanti tkun naqset milli tilħaq l-obbligi legali tagħha fir-rigward tas-sigurtà soċjali, it-tassazzjoni, id-drittijiet tax-xogħol jew il-kondizzjonijiet tax-xogħol;
 
@@ -305,13 +263,9 @@ regolament 4;
 
 (3) L-applikant għandu jkun intitolat li jippreżenta applikazzjoni fi proċedura ta’ applikazzjoni unika.
 
-TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
+### 10. Tul ta’ trasferiment intra-azjendali.
 
-*9*
-
-TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 10. (1) It-tul massimu ta’ trasferiment intra-azjendali għandu jkun ta’ tliet snin għall-maniġers u speċjalisti u sena għall-impjegati apprendisti li wara dan il-perijodu huma għandhom jitilqu minn Malta dment li ma jiksbux permess ta’ residenza fuq bażi oħra f’konformità mal-liġi tal-Unjoni, l-Att jew kwalunkwe liġi nazzjonali oħra.
-
-*Tul ta’ trasferiment intra-azjendali.*
+(1) It-tul massimu ta’ trasferiment intra-azjendali għandu jkun ta’ tliet snin għall-maniġers u speċjalisti u sena għall-impjegati apprendisti li wara dan il-perijodu huma għandhom jitilqu minn Malta dment li ma jiksbux permess ta’ residenza fuq bażi oħra f’konformità mal-liġi tal-Unjoni, l-Att jew kwalunkwe liġi nazzjonali oħra.
 
 (2) Iċ-Chairperson Eżekuttiv jista’ jeħtieġ li jgħaddi perijodu ta’ mhux aktar minn sitt xhur bejn tmiem it-tul massimu ta’ trasferiment imsemmi fis-subregolament (1) u applikazzjoni oħra fir-rigward l-istess ċittadin ta’ pajjiż terz għall-finijiet ta’ dawn ir-regolamenti.
 
@@ -335,13 +289,7 @@ Iċ-Chairperson Eżekuttiv għandu jiġi notifikat mill-applikant dwar xi modifi
 
 ### 13. Salvagwardji proċedurali.
 
-(1) Iċ-Chairperson Eżekuttiv għandu jadotta deċiżjoni dwar l-applikazzjoni għal permess ta’ ħaddiem bi trasferiment intra-azjendali jew tiġdid tiegħu u jinnotifika lill-applikant bid- TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*10*
-
-[L.S.217.21 TA’ TRASFERIMENTI INTRA-AZJENDALI
-
-deċiżjoni bil-miktub, mill-aktar fis possibbli u, fi kwalunkwe każ, mhux aktar tard minn disgħin jum mid-data li fiha ġiet ippreżentata l-applikazzjoni kompluta.
+(1) Iċ-Chairperson Eżekuttiv għandu jadotta deċiżjoni dwar l-applikazzjoni għal permess ta’ ħaddiem bi trasferiment intra-azjendali jew tiġdid tiegħu u jinnotifika lill-applikant bid-deċiżjoni bil-miktub, mill-aktar fis possibbli u, fi kwalunkwe każ, mhux aktar tard minn disgħin jum mid-data li fiha ġiet ippreżentata l-applikazzjoni kompluta.
 
 (2) Fejn l-informazzjoni jew id-dokumentazzjoni provduta b’appoġġ għall-applikazzjoni ma tkunx kompluta, iċ-Chairperson Eżekuttiv għandu jinnotifika lill-applikant f’perijodu raġonevoli dwar l-informazzjoni addizzjonali meħtieġa u jistabbilixxi skadenza raġonevoli sabiex din tiġi provduta. Il-perijodu msemmi fis-subregolament (1) għandu jiġi sospiż sakemm iċ-Chairperson Eżekuttiv ikun irċieva l-informazzjoni addizzjonali meħtieġa.
 
@@ -365,13 +313,9 @@ Matul il-perijodu ta’ validità ta’ permess ta’ ħaddiem bi trasferiment i
 
 (ċ) id-dritt li jeżerċita l-attività ta’ impjieg speċifiku awtorizzata bil-permess skont il-liġi nazzjonali, fi kwalunkwe entità ospitanti li tappartjeni għal impriża jew grupp ta’ impriżi stabbiliti f’Malta.
 
-TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
+### 15. Dritt għal trattament ugwali.
 
-*11*
-
-TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 15. (1) Mingħajr preġudizzju għad-dispożizzjonijiet tar-regolament 4(3)(b), ħaddiema bi trasferiment intra-azjendali ammessi taħt dawn ir-regolamenti għandhom igawdu trattament ugwali bħall-persuni koperti mir-Regolamenti dwar Impjegati Stazzjonati f’Malta fir-rigward tat-termini u l-kondizzjonijiet tal-impjieg.
-
-*Dritt għal trattament ugwali.*
+(1) Mingħajr preġudizzju għad-dispożizzjonijiet tar-regolament 4(3)(b), ħaddiema bi trasferiment intra-azjendali ammessi taħt dawn ir-regolamenti għandhom igawdu trattament ugwali bħall-persuni koperti mir-Regolamenti dwar Impjegati Stazzjonati f’Malta fir-rigward tat-termini u l-kondizzjonijiet tal-impjieg.
 
 *L.S. 452.82*
 
@@ -395,12 +339,6 @@ Iżda wkoll l-applikazzjoni ta’ dan ir-regolament għandha tkun bla ħsara għ
 
 Iżda wkoll fil-każ ta’ ħaddiema bi trasferiment intra-azjendali li huma f’sitwazzjoni li mhix konfinata fl-aspetti kollha ġewwa Stat Membru wieħed, ir- Regolament (KE) Nru. 1231/2010 għandu japplika kif meħtieġ, mingħajr preġudizzju għal ftehimiet bilaterali li jiżguraw li l-ħaddiem bi trasferiment intra-ażjendali huwa kopert mil-legislażżjoni tal-pajjiż ta’ oriġini:
 
-**TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS**
-
-**TA’ TRASFERIMENTI INTRA-AZJENDALI**
-
-*[L.S.217.21 12*
-
 Iżda wkoll, mingħajr preġudizzju għar-Regolamanet (KE) Nru. 1231/2010 u għal ftehimiet bilaterali, ħaddiema bi trasferiment intra-azjendali li ser jiċċaqilqu lejn pajjiż terz, jew is-superstiti tagħhom li jirrisjedu f’pajjiż terz u li għandhom id-drittijiet derivanti minn dawk il-ħaddiema, għandhom jirċievu, fir-rigward tal-anzjanità, l-invalidità u l-mewt, il-pensjonijiet statutorji bbażati fuq l-impjieg preċedenti tal-ħaddiema bi trasferiment intra-azjendali u miksuba f’konformità mal-Att dwar is-Sigurtà Soċjali taħt l-istess kondizzjonijiet u bl-istess rati daqs dawk li jirċievu ċ-ċittadini Maltin meta jiċċaqalqu għal pajjiż terz;
 
 *Kap. 318.*
@@ -419,11 +357,7 @@ Iżda dan ma għandux jiddependi fuq ir-rekwiżit li d-detentur tal-permess ta�
 
 (b) id-dispożizzjonijiet tar-regolamenti 4(1) u 14(3) rigward il-kondizzjonijiet ta’ integrazzjoni msemmija fihom jistgħu japplikaw biss wara li l-persuni kkonċernati tkun ingħatatilhom ir-riunifikazzjoni tal-familja;
 
-(ċ) id-dispożizzjoni tar-regolament 9 rigward il-permessi ta’ residenza għal membri tal-familja għandha tingħata miċ-Chairperson Eżekuttiv, jekk il-kondizzjonijiet għal riunifikazzjoni tal-familja jkunu sodisfatti fi żmien disgħin jum mid-data li fiha tkun ġiet ippreżentata l-applikazzjoni kompluta. Iċ-Chairperson Eżekuttiv għandu jipproċessa l-applikazzjoni għall-permess ta’ residenza għall-membri tal-familja tal-ħaddiem bi trasferiment intra-azjendali fl-istess ħin li l-applikazzjoni għall-permess ta’ ħaddiem bi trasferiment intra-azjendali jew il-permess ta’ mobilità għal perijodu twil, f’każijiet fejn l-applikazzjoni għall-permess ta’ residenza għall-membri tal-familja tal- TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*13*
-
-TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 ħaddiem bi trasferiment intra-azjendali tiġi ppreżentata fl-istess ħin. Is-salvagwardji proċedurali stabbiliti fir-regolament 13 għandhom japplikaw kif adatt;
+(ċ) id-dispożizzjoni tar-regolament 9 rigward il-permessi ta’ residenza għal membri tal-familja għandha tingħata miċ-Chairperson Eżekuttiv, jekk il-kondizzjonijiet għal riunifikazzjoni tal-familja jkunu sodisfatti fi żmien disgħin jum mid-data li fiha tkun ġiet ippreżentata l-applikazzjoni kompluta. Iċ-Chairperson Eżekuttiv għandu jipproċessa l-applikazzjoni għall-permess ta’ residenza għall-membri tal-familja tal-ħaddiem bi trasferiment intra-azjendali fl-istess ħin li l-applikazzjoni għall-permess ta’ ħaddiem bi trasferiment intra-azjendali jew il-permess ta’ mobilità għal perijodu twil, f’każijiet fejn l-applikazzjoni għall-permess ta’ residenza għall-membri tal-familja tal-ħaddiem bi trasferiment intra-azjendali tiġi ppreżentata fl-istess ħin. Is-salvagwardji proċedurali stabbiliti fir-regolament 13 għandhom japplikaw kif adatt;
 
 (d) id-dispożizzjonijiet tar-regolament 14(2), rigward it-tul tal-validità tal-permessi ta’ residenza ta’ membri tal-familji f’Malta għandhom, bħala regola ġenerali, jintemmu fid-data ta’ skadenza tal-permess ta’ ħaddiem bi trasferiment intra-azjendali jew tal-permess ta’ mobilità għal perijodu twil maħruġ miċ- Chairperson Eżekuttiv;
 
@@ -447,13 +381,7 @@ Iċ-ċittadini ta’ pajiżi terzi li għandhom permess validu ta’ ħaddiem bi
 
 (b) jekk il-ħaddiem bi trasferiment intra-azjendali jkun diġà ntbagħat fl-Istat Membru l-ieħor, hekk kif tkun magħrufa l-mobilità intiża f’Malta.
 
-(4) Iċ-Chairperson Eżekuttiv għandu jitlob li kwalunkwe TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*14*
-
-[L.S.217.21 TA’ TRASFERIMENTI INTRA-AZJENDALI
-
-notifika għandha tkun akkumpanjata b’dawn id-dokumenti u informazzjoni li ġejjin:
+(4) Iċ-Chairperson Eżekuttiv għandu jitlob li kwalunkwe notifika għandha tkun akkumpanjata b’dawn id-dokumenti u informazzjoni li ġejjin:
 
 (a) evidenza li l-entità ospitanti f’Malta u l-impriża stabbilita f’pajjiż terz jappartjenu għall-istess impriża jew grupp ta’ impriżi;
 
@@ -483,11 +411,7 @@ Iżda ċ-Chairperson Eżekuttiv jista’ jirrikjedi li dawn id-dokumenti u dik l
 
 (d) il-ħaddiem bi trasferiment intra-azjendali huwa meqjus li hu ta’ theddida għall-ordni pubbliku, is-sigurtà pubblika jew is-saħħa pubblika:
 
-Iżda ċ-Chairperson Eżekuttiv għandu jinforma mingħajr TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*15*
-
-TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 dewmien lill-awtoritajiet kompetenti u lill-entità ospitanti fl-Istat Membru l-ieħor dwar l-oġġezzjoni tagħhom għall-mobilità.
+Iżda ċ-Chairperson Eżekuttiv għandu jinforma mingħajr dewmien lill-awtoritajiet kompetenti u lill-entità ospitanti fl-Istat Membru l-ieħor dwar l-oġġezzjoni tagħhom għall-mobilità.
 
 (8) Fejn iċ-Chairperson Eżekuttiv joġġezzjoni għall-mobilità f’konformità mas-subregolament (7) u l-mobilità tkun għadha ma seħħitx, il-ħaddiem bi trasferiment intra-azjendali ma għandux jitħalla jaħdem f’Malta bħala parti mit-trasferiment intra-azjendali. Fejn tkun diġà saret il-mobilità, għandhom japplikaw id-dispożizzjonijiet tar-regolament 20(3) u (4).
 
@@ -515,13 +439,7 @@ TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 dewmien lill-awtoritajiet kompet
 
 Iżda ċ-Chairperson Eżekuttiv jista’ jeħtieġ, fejn relevanti, li d-dokumenti u l-informazzjoni msemmija fis-subregolament (2) jiġu ppreżentati bil-lingwa Ingliża.
 
-(4) Iċ-Chairperson Eżekuttiv għandu jieħu deċiżjoni dwar l- TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*16*
-
-[L.S.217.21 TA’ TRASFERIMENTI INTRA-AZJENDALI
-
-applikazzjoni għall-mobilità għal perijodu twil u jinnotifika d-deċiżjoni bil-miktub lill-applikant mill-aktar fis possibbli iżda mhux aktar tard minn disgħin jum mid-data li fiha l-applikazzjoni u d-dokumenti previsti fis-subregolament (2) ikunu ġew ppreżentati liċ-Chairperson Eżekuttiv.
+(4) Iċ-Chairperson Eżekuttiv għandu jieħu deċiżjoni dwar l-applikazzjoni għall-mobilità għal perijodu twil u jinnotifika d-deċiżjoni bil-miktub lill-applikant mill-aktar fis possibbli iżda mhux aktar tard minn disgħin jum mid-data li fiha l-applikazzjoni u d-dokumenti previsti fis-subregolament (2) ikunu ġew ppreżentati liċ-Chairperson Eżekuttiv.
 
 (5) Iċ-Chairperson Eżekuttiv m’għandux jitlob li l-ħaddiem bi trasferiment intra-azjendali jitlaq minn Malta biex jippreżenta applikazzjoni u l-imsemmija persuna m’għandhiex tkun soġġetta għall-ħtieġa ta’ viża.
 
@@ -543,11 +461,7 @@ Iżda fejn ikun hemm bżonn ta’ mobilità għal perijodu twil wara li tkun bdi
 
 (ċ) il-permess ta’ ħaddiem bi trasferiment intra-azjendali jiskadi matul il-proċedura.
 
-(9) Meta ċ-Chairperson Eżekuttiv jieħu deċiżjoni pożittiva dwar l-applikazzjoni għall-mobilità għal perijodu twil, il-ħaddiem bi trasferiment intra-azjendali għandu jinħariġlu permess għal mobilità għal perijodu twil li jippermetti lill-ħaddiem bi trasferiment intra-azjendali jgħix u jaħdem f’Malta. Dan il-permess għandu jinħareġ billi jintuża l-format uniformi stipulat fir- Regolament tal-Kunsill (KE) Nru. 1030/2002. Taħt l-intestatura ‘tip ta’ permess’, f’konformità mal-punt (a) 6.4 tal-Anness għar- TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*17*
-
-TA’ TRASFERIMENTI INTRA-AZJENDALI [L.S.217.21 Regolament (KE) Nru. 1030/2020, iċ-Chairperson Eżekuttiv għandu jdaħħal ‘ICT mobbli’:
+(9) Meta ċ-Chairperson Eżekuttiv jieħu deċiżjoni pożittiva dwar l-applikazzjoni għall-mobilità għal perijodu twil, il-ħaddiem bi trasferiment intra-azjendali għandu jinħariġlu permess għal mobilità għal perijodu twil li jippermetti lill-ħaddiem bi trasferiment intra-azjendali jgħix u jaħdem f’Malta. Dan il-permess għandu jinħareġ billi jintuża l-format uniformi stipulat fir- Regolament tal-Kunsill (KE) Nru. 1030/2002. Taħt l-intestatura ‘tip ta’ permess’, f’konformità mal-punt (a) 6.4 tal-Anness għar- Regolament (KE) Nru. 1030/2020, iċ-Chairperson Eżekuttiv għandu jdaħħal ‘ICT mobbli’:
 
 Iżda ċ-Chairperson Eżekuttiv jista’ jindika informazzjoni addizzjonali, kif ordnat mill-awtoritajiet pertinenti, relatata mar-relazzjoni tax-xogħol taċ-ċittadin ta’ pajjiż terz inkluż l-isem u l-indirizz ta’ min iħaddem, il-post tax-xogħol, it-tip ta’ xogħol, is-sigħat tax-xogħol u r-rimunerazzjoni, fuq karta, u, jew jaħżen dik l-informazzjoni f’format elettroniku kif imsemmi fir-Regolament (KE) Nru. 1030/2002.
 
@@ -574,12 +488,6 @@ Iżda jekk iċ-Chairperson Eżekuttiv joħroġ il-permess ta’ ħaddiem bi tras
 (b) oġġezzjona għall-mobilità f’konformità mar-regolament 18(7);
 
 (ċ) irrifjuta talba għall-mobilità għal perijodu twil f’konformità mar-regolament 19(8);
-
-TA’ ĊITTADINI TA’ PAJJIŻ TERZ FIL-QAFAS
-
-*18*
-
-[L.S.217.21 TA’ TRASFERIMENTI INTRA-AZJENDALI
 
 (d) il-permess ta’ ħaddiem bi trasferiment intra-azjendali jew il-permess għall-mobilità fuq perijodu twil jintuża għal finijiet oħra minbarra dawk li għalihom inħareġ;
 

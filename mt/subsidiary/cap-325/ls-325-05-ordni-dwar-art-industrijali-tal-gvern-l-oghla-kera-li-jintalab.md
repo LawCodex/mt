@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Art Industrijali tal-Gvern (L-Ogħla Kera li jintalab)"
-identifier: "S.L. 325.5"
+identifier: "S.L. 325.05"
 eli: "https://legislation.mt/eli/sl/325.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/325.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Art Industrijali tal-Gvern (L-Ogħla Kera li jintalab) (S.L. 325.5)
-
-ART INDUSTRIJALI TAL-GVERN
-
-*1*
-
-(L-OG}LA KERA LI JINTALAB) [L.S.325.05
+# Ordni dwar Art Industrijali tal-Gvern (L-Ogħla Kera li jintalab) (S.L. 325.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 325.05**
 

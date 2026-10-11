@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju Unit tal-Gran Brittanja u l-Irlanda ta' Fuq (S.L. 123.35)
 
-*1*
-
-MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.35**
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -99,8 +95,6 @@ it-taxxa fuq l-income
 
 (3) Minkejja d-disposizzjonijiet l-o]ra ta’ dan l-Artikolu dan il-Ftehim ma japplikax g]al taxxa m]allsa jew li tit]allas f’Malta skond id-disposizzjonijiet tas-subartikolu (13) tal-artikolu 56 tal-Att dwar it-Taxxa fuq l-Income dwar l-income taxxabbli ta’ persuna li tkun ta]dem fil-produzzjoni ta’ \\ejt petroleum li ji[i prodott f’Malta jew kull disposizzjoni o]ra sostanzjalment simili li ti[i imposta wara d-data tal-firma ta’ dan il-Ftehim.
 
-MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 3
-
 ## KAPITOLU II — Tifsiriet — ARTIKOLU 3
 
 **Tifsiriet {enerali**
@@ -173,8 +167,6 @@ MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 3
 
 (`) uffi``ju;
 
-MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 5
-
 (d) fabbrika;
 
 (e) ]anut tax-xog]ol;
@@ -229,9 +221,7 @@ tmexxi negozju f’dak l-Istat l-ie]or (sew permezz ta’ stabbiliment permanent
 
 (2) Bla ]sara g]ad-disposizzjonijiet tal-paragrafu (3) ta’ dan l-Artikolu, meta impri\\a ta’ Stat Kontraenti tmexxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun qieg]ed hemmhekk, g]andhom ji[u attribwiti lil dak l-istabbiliment permanenti f’kull Stat Kontraenti l-profitti li kien ikun mistenni jag]mel kieku kien impri\\a distinta u separata li ta]dem fl-istess attivitajiet jew o]rajn b]alhom ta]t l-istess kundizzjonijiet jew o]rajn b]alhom u li ta]dem indipendentement g]al kollox mill-impri\\a li tag]ha hija stabbiliment permanenti jew mill-impri\\i o]ra li huma kontrollati mill-impri\\a l-ewwel imsemmija jew li jkollhom sehem parte`ipattiv fiha jew li jkunu su[[etti g]all-istess kontroll komuni.
 
-(3) Biex ji[u stabbiliti l-profitti ta’ stabbiliment permanenti, g]andhom ikunu permessi b]ala tnaqqis dawk l-ispejje\\ tal-impri\\a, li jkun spejje\\ li jsiru g]all- MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 7
-
-g]anijiet tal-istabbiliment permanenti (mag]duda l-ispejje\\ e\\ekuttivi u amministrattivi [enerali li jsiru) u li jkunu jitnaqqsu li kieku l-istabbiliment permanenti kien enti indipendenti li jkun ]allas dawk l-ispejje\\, sew jekk ikunu saru fl-Istat Kontraenti li fih ikun hemm l-istabbiliment permanenti jew jekk ikunu saru band’o]ra.
+(3) Biex ji[u stabbiliti l-profitti ta’ stabbiliment permanenti, g]andhom ikunu permessi b]ala tnaqqis dawk l-ispejje\\ tal-impri\\a, li jkun spejje\\ li jsiru g]all-g]anijiet tal-istabbiliment permanenti (mag]duda l-ispejje\\ e\\ekuttivi u amministrattivi [enerali li jsiru) u li jkunu jitnaqqsu li kieku l-istabbiliment permanenti kien enti indipendenti li jkun ]allas dawk l-ispejje\\, sew jekk ikunu saru fl-Istat Kontraenti li fih ikun hemm l-istabbiliment permanenti jew jekk ikunu saru band’o]ra.
 
 (4) Ma g]andhom ji[u attribwiti ebda profitti lil stabbiliment permanenti min]abba biss ix-xiri minn dak l-istabbiliment permanenti ta’ o[[etti jew merkanzija g]all-impri\\a.
 
@@ -287,9 +277,7 @@ u f’kull ka\\ ji[u mag]mula jew imposti kundizzjonijiet bejn i\\-\\ew[ impri\\
 
 (4) Il-fra\\i "dividendi" kif tintu\\a f’dan l-Artikolu tfisser income minn ishma, jew jeddijiet o]ra li ma jkunux pretensjonijiet debitri`i, parte`ipazzjoni fi profitti, kif ukoll income minn jeddijiet korporattivi o]ra assimilati ma’ l-income minn ishma bil-li[ijiet tat-taxxa tal-Istat li tieg]u l-kumpannija li tkun qeg]da tag]mel it-tqassim tkun residenti u tinkludi wkoll kull element ie]or li, ta]t il-li[ijiet tal-Istat Kontraenti li tieg]u il-kumpannija li tkun qed t]allas id-dividend tkun residenti, jitqies li hu b]al xi dividendi jew tqassim ta’ kumpannija.
 
-(5) Id-disposizzjonijiet tal-paragrafu (2) jew skond il-ka\\, (3) ta’ dan l-Artikolu ma g]andhomx japplikaw jekk is-sid benefi`jarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl-Istat Kontraenti l-ie]or, li tieg]u tkun residenti l- MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 9
-
-kumpannija li t]allas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jaqdi f ’dak l-Istat l-ie]or servizz personali indipendenti minn ba\\i stabbilit sitwat hemmhekk, u l-holding li dwarhom id-dividendi jkunu m]allsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ba\\i stabbilit. F’dak il-ka\\ id-disposizzjonijiet tal-Artikolu 7 jew l- Artikolu 14 ta’ dan il-Ftehim, skond il-ka\\, g]andhom japplikaw.
+(5) Id-disposizzjonijiet tal-paragrafu (2) jew skond il-ka\\, (3) ta’ dan l-Artikolu ma g]andhomx japplikaw jekk is-sid benefi`jarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl-Istat Kontraenti l-ie]or, li tieg]u tkun residenti l-kumpannija li t]allas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jaqdi f ’dak l-Istat l-ie]or servizz personali indipendenti minn ba\\i stabbilit sitwat hemmhekk, u l-holding li dwarhom id-dividendi jkunu m]allsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ba\\i stabbilit. F’dak il-ka\\ id-disposizzjonijiet tal-Artikolu 7 jew l- Artikolu 14 ta’ dan il-Ftehim, skond il-ka\\, g]andhom japplikaw.
 
 (6) Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ie]or, dak l-Istat l-ie]or ma jista’ jimponi ebda taxxa fuq id-dividendi m]allsa mill-kumpannija, ]lief meta dividendi b]al dawn jit]allsu lil residenti ta’ dak l-Istat l-ie]or jew safejn il-holding li dwaru jit]allsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ ba\\i stabbilit sitwat f’dak l-Istat l-ie]or, jew jissu[[etta l-profitti mhux distribwiti tal-kumpannija g]al taxxa fuq il-profitti mhux distribwiti, anki jekk id-dividendi m]allsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalg]u f’dak l-Istat l-ie]or.
 
@@ -335,9 +323,7 @@ g]andhom japplikaw biss g]all-ammont ta’ img]ax l-a]]ar imsemmi. F’ka\\ b]al
 
 (d) g]al tolleranza totali jew parzjali dwar l-u\\u jew l-g]oti ta’ kull proprjetà jew jedd imsemmija f’dan il-paragrafu.
 
-(4) Id-disposizzjonijiet tal-paragrafi (1) u (2) ta’ dan l-Artikolu ma g]andhomx japplikaw jekk is-sid benefi`jarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 11
-
-ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih ir-royalties jinqalg]u permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qed jaqdi f’dak l- Istat Kontraenti l-ie]or servizzi personali indipendenti minn ba\\i stabbilit sitwat hemmhekk, u d-dritt jew il-proprjetà li dwarha jit]allsu r-royalties ikollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ma’ dak il-ba\\i stabbilit. F’dak il-ka\\ id-disposizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14 ta’ dan il-Ftehim, skond il-ka\\, g]andhom japplikaw.
+(4) Id-disposizzjonijiet tal-paragrafi (1) u (2) ta’ dan l-Artikolu ma g]andhomx japplikaw jekk is-sid benefi`jarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih ir-royalties jinqalg]u permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qed jaqdi f’dak l- Istat Kontraenti l-ie]or servizzi personali indipendenti minn ba\\i stabbilit sitwat hemmhekk, u d-dritt jew il-proprjetà li dwarha jit]allsu r-royalties ikollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ma’ dak il-ba\\i stabbilit. F’dak il-ka\\ id-disposizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14 ta’ dan il-Ftehim, skond il-ka\\, g]andhom japplikaw.
 
 (5) Royalties g]andhom jitqiesu li jinqalg]u fi Stat Kontraenti meta min i]allashom ikun dak l-Istat innifsu, sotto-divi\\joni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, i\\da, il-persuna li t]allas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, ikollha fi Stat Kontraenti stabbiliment permanenti jew ba\\i stabbilit li dwaru jkun ittie]ed l-obbligu li jit]allsu r-royalties u dawk ir-royalties ikunu r-responsabbiltà ta’ dak l-istabbiliment permanenti jew ba\\i stabbilit, allura dawk ir-royalties g]andhom jitqiesu li jinqalg]u fl-Istat li fih ikun qieg]ed l-istabbiliment permanenti jew il-ba\\i stabbilit.
 
@@ -391,9 +377,7 @@ kollha) jew ta’ dik il-ba\\i fissa, jista’ ji[i intaxxat f’dak l-Istat l-i
 
 (a) min jir`evih ikun qieg]ed fl-Istat l-ie]or g]al \\mien jew \\minijiet li fit-total ma jkunux aktar minn 183 [urnata matul xi perijodu ta’ tnax-il xahar; u
 
-(b) il-kumpens ikun im]allas minn, jew f’isem, prin`ipal li ma jkunx MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 13
-
-residenti tal-Istat l-ie]or; u
+(b) il-kumpens ikun im]allas minn, jew f’isem, prin`ipal li ma jkunx residenti tal-Istat l-ie]or; u
 
 (`) dak il-kumpens ma jkunx pi\\ fuq l-istabbiliment permanenti jew ba\\i stabbilit li l-prin`ipal ikollu fl-Istat l-ie]or.
 
@@ -465,9 +449,7 @@ jkun e\\enti mit-taxxa f’dak l-Istat l-ie]or fuq:
 
 (1) O[[etti ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalg]u minn fejn jinqalg]u, li ma humiex trattati fl-Artikoli ta’ qabel ta’ dan il-Ftehim, li ma jkunx income li jit]allas minn trust jew mill-eredità ta’ persuni mejtin fil-kors ta’ amministrazzjoni, u li huma su[[etti g]at-taxxa f’dak l-Istat g]andhom ikunu taxxabbli biss f’dak l-Istat.
 
-(2) Id-disposizzjonijiet tal-paragrafu (1) ta’ dan l-Artikolu ma g]andhomx japplikaw g]al income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu (2) tal-Artikolu 6 ta’ dan il-Ftehim, jekk min jir`ievi dak l-income, li jkun residenti ta’ Stat Kontraenti, ji[[estixxi negozju fl-Istat Kontraenti l-ie]or permezz MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 15
-
-ta’ stabbiliment permanenti li jkun jinsab f’dak l-Istat, jew iwettaq f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i fiss li jkun jinsab f’dak l-Istat, u d-dritt jew il-proprjetà li dwarhom jit]allas l-income ikollu x’jaqsam b’mod effettiv ma’ dak l-istabbiliment jew ba\\i fiss. F’dak il-ka\\ g]andhom japplikaw id-disposizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14 ta’ dan il-Ftehim, skond il-ka\\.
+(2) Id-disposizzjonijiet tal-paragrafu (1) ta’ dan l-Artikolu ma g]andhomx japplikaw g]al income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu (2) tal-Artikolu 6 ta’ dan il-Ftehim, jekk min jir`ievi dak l-income, li jkun residenti ta’ Stat Kontraenti, ji[[estixxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab f’dak l-Istat, jew iwettaq f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i fiss li jkun jinsab f’dak l-Istat, u d-dritt jew il-proprjetà li dwarhom jit]allas l-income ikollu x’jaqsam b’mod effettiv ma’ dak l-istabbiliment jew ba\\i fiss. F’dak il-ka\\ g]andhom japplikaw id-disposizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14 ta’ dan il-Ftehim, skond il-ka\\.
 
 (3) Id-disposizzjonijiet ta’ dan l-Artikolu ma g]andhomx japplikaw li kieku l-g]an prin`ipali jew wie]ed mill-g]anijiet prin`ipali ta’ persuna li jkollha x’taqsam mal-]olqien jew assenjament tal-jeddijiet li dwarhom jit]allas l-income ikun li jittie]ed vanta[[ minn dan l-Artikolu permezz ta’ dak il-]olqien jew assenjament.
 
@@ -508,8 +490,6 @@ kemm-il darba dawk id-disposizzjonijiet imsemmija kienu fis-se]] fid-data tal-if
 **Limitazzjoni ta’ }elsien**
 
 (1) Meta skond xi disposizzjoni ta’ dan il-Ftehim ikun hemm income li jin]eles mit-taxxa fi Stat Kontraenti u, skond il-li[i fis-se]] fl-Istat Kontraenti l-ie]or persuna, g]ar-rigward ta’ dak l-income, tkun su[[etta g]at-taxxa b’referenza g]all-ammont tag]ha li jing]adda lil jew li ji[i ri`evut f’dak l-Istat Kontraenti l-ie]or u mhux b’referenza g]all-ammont s]i] tag]ha, g]aldaqshekk il-]elsien li g]andu jing]ata skond dan il-Ftehim fl-Istat kontraenti l-ewwel imsemmi g]andu jkun japplika biss g]al daqstant mill-income daqskemm ji[i intaxxat fl-Istat Kontraenti l-ie]or.
-
-MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 17
 
 (2) Id-disposizzjonijiet ta’ din il-Konvenzjoni ma g]and]omx japplikaw g]al dawk il-persuni li jkunu intitolati g]al xi benefi``ju tat-taxxa spe`jali skond:
 
@@ -564,8 +544,6 @@ ta’ dak l-Istat l-ewwel imsemmi huma jew jistg]u jkunu su[[etti g]alihom.
 (2) F’ebda ka\\ ma g]andhom id-disposizzjonijiet tal-paragrafu (1) ta’ dan l- Artikolu jitqiesu li jimponu fuq Stat Kontraenti l-obbligu:
 
 (a) li jie]u mi\\uri amministrattivi li ma jaqblux mal-li[ijiet jew l-u\\anza amministrattiva ta’ dak l-Istat Kontraenti jew tal-ie]or;
-
-MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 19
 
 (b) li jag]ti informazzjoni li ma tkunx tista’ tinkiseb ta]t il-li[ijiet jew fil-kors normali tal-u\\anza amministrattiva ta’ dak l-Istat Kontraenti jew tal-ie]or;
 
@@ -633,9 +611,7 @@ G]andi l-unur nirreferi g]all-Ftehim bejn il-Gvern tar-Renju Unit tal-Gran Britt
 
 (a) b’referenza g]all-Artikoli 7 u 9, huwa mifhum li ebda ]a[a li tinsab f’dawk l-artikoli ma g]andha tolqot l-applikazzjoni ta’ xi li[i ta’ Stat Kontraenti li jkollha x’taqsam mad-de`i\\joni li tittie]ed dwar jekk persuna g]andhiex t]allas taxxa, inklu\\a d-de`i\\joni dwar dan billi jsir u\\u minn diskrezzjoni jew billi tintg]amel stima mill-awtorità kompetenti ta’ dak l-Istat f’ka\\ijiet li fihom, mit-tag]rif li l-awtorità kompetenti ta’ dak l-Istat ikollha, ma tkunx ]a[a possibbli jew prattika li ji[u a``ertati xi jkunu l-profitti li jkollhom ji[u attribwiti lil stabbilimenti permanenti, kemm-il darba dik il-li[i ti[i applikata, sakemm it-tag]rif li l-awtorità kompetenti ikollha jkun jippermetti, b’mod konsistenti mal-prin`ipji ta’ dawk i\\-\\ew[ Artikoli;
 
-(b) b’referenza g]all-paragrafu (9) tal-Artikolu 17, huwa mifhum li l-istituzzjoni, a[enzija jew instrumentalità relevanti g]andha fil-ka\\ tar- Renju Unit tkun l-Export Credits Guarantee Department u g]andha fil- MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 21
-
-ka\\ ta’ Malta tkun l-Export Credit Guarantee Company Ltd;
+(b) b’referenza g]all-paragrafu (9) tal-Artikolu 17, huwa mifhum li l-istituzzjoni, a[enzija jew instrumentalità relevanti g]andha fil-ka\\ tar- Renju Unit tkun l-Export Credits Guarantee Department u g]andha fil-ka\\ ta’ Malta tkun l-Export Credit Guarantee Company Ltd;
 
 (`) b’referenza g]all-paragrafu (6) tal-Artikolu 22, huwa mifhum li fuq talba ta’ xi awtorità kompetenti \\-\\ew[ Stati Kontraenti g]andhom jibdew diskussjonijiet dwar l-estensjoni tal-perijodu msemmi fil-paragrafu (5) f’kull \\mien sabiex, fil-ka\\ li jintla]aq ftehim dwar l-estensjoni ta’ dak il-perijodu, ma g]andu jkun hemm ebda nuqqas ta’ kontinwità fl-applikazzjoni tal-Artikolu;
 
@@ -680,8 +656,6 @@ G]andi l-unur nirrikonoxxi li waslitli n-Nota tal-E``ellenza Tieg]ek li [[ib id-
 (iii) persuni intitolati g]al xi benefi``ju ta’ taxxa spe`jali g]ar-rigward tad-distribuzzjonijiet li jsiru minn trust bla ]sara g]ad-disposizzjonijiet tal-Att dwar it-Trusts meta jitqies li trust kif stabbilita f’dak l-Att mhijiex vestita b’personalità [uridika u g]alhekk ma tistax tibbenefika mill-Ftehim b’kull jedd li jappartjeni lilha; jew
 
 (iv) persuni intitolati g]al xi benefi``ju ta’ taxxa spe`jali ta]t xi li[i o]ra sostanzjalment simili li tkun [iet le[islata sussegwentement u li jkun sar ftehim dwarha mill-awtoritajiet kompetenti tal-Istati Kontraenti b]ala inklu\\a skond il-provvedimenti tal-paragrafu (2) tal-Artikolu 23 ta’ dan il-Ftehim.
-
-MAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [L.S.123.35 23
 
 Jekk dawn il-proposti huma a``ettabbli g]all-Gvern ta’ Malta, g]andi l-unur nissu[[erixxi li din in-Nota flimkien mar-risposta tal-E``ellenza Tieg]ek dwarha g]andhom jitqiesu b]ala li jikkostitwixxu qbil bejn i\\-\\ew[ Gvernijiet fuq din il- ]a[a, u dan g]andu jibda jse]] fl-istess \\mien b]alma jibda jse]] dan il-Ftehim.". Dawn il-proposti huma a``ettabbli g]all-Gvern ta’ Malta, u g]andi l-unur nikkonferma li n-Nota tal-E``ellenza Tieg]ek u din ir-Risposta g]andhom jitqiesu b]ala li jikkostitwixxu qbil bejn i\\-\\ew[ Gvernijiet fuq din il-]a[a, u dan g]andu jibda jse]] fl-istess \\mien b]alma jibda jse]] dan il-Fte]im.
 

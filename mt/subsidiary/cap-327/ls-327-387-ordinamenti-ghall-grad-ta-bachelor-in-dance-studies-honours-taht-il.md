@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor in Dance Studies (Honours) taħt il-patroċinju tal-Iskola tal-Arti Performattiva (S.L. 327.387)
 
-(HONOURS) TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-ISKOLA TAL-ARTI PERFORMATTIVA [L.S.327.387
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.387**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR IN
@@ -70,13 +64,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 ## 4. Tul tal-kors.
 
-Il-kors jinfirex fuq medda ta’ tliet snin ta’ studju fuq bażi full-time jew ħames snin fuq bażi part-time meta l-kors ikun offrut (HONOURS) TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.387 TAL-ISKOLA TAL-ARTI PERFORMATTIVA
-
-fuq bażi part-time.
+Il-kors jinfirex fuq medda ta’ tliet snin ta’ studju fuq bażi full-time jew ħames snin fuq bażi part-time meta l-kors ikun offrut fuq bażi part-time.
 
 ## 5. Programm ta’ studju.
 

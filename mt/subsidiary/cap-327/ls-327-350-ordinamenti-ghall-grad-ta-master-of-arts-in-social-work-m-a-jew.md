@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Social Work - M.A. - jew Master of Arts in Social Policy - M.A. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.350)
 
-JEW MASTER OF ARTS IN SOCIAL POLICY - M.A. - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.350
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.350**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -70,11 +64,9 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (a) grad ta’ Bachelor miksub minn din l-Università jew minn xi istituzzjoni ta’ edukazzjoni għolja oħra rikonoxxuta mis-Senat, miksub tal-anqas fit-Tieni Klassi bl-Unuri u b’mark medja minima ta’ 65% fis- Social Policy, Psychology, Youth and Community Studies jew Social Wellbeing Studies; jew
 
-(b) grad ta’ Bachelor miksub minn din l-Università jew minn xi istituzzjoni ta’ edukazzjoni għolja oħra rikonoxxuta mis-Senat, f’Kategorija II u b’marka medja globali minima ta’ 65% fi tnejn mill-oqsma ta’ JEW MASTER OF ARTS IN SOCIAL POLICY - M.A. - TAĦT [L.S.327.350 IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ studju li ġejjin: Anthropology, Psychology, Sociology jew Social Studies; jew
+(b) grad ta’ Bachelor miksub minn din l-Università jew minn xi istituzzjoni ta’ edukazzjoni għolja oħra rikonoxxuta mis-Senat, f’Kategorija II u b’marka medja globali minima ta’ 65% fi tnejn mill-oqsma ta’ studju li ġejjin: Anthropology, Psychology, Sociology jew Social Studies; jew
 
 (ċ) grad ta’ Bachelor miksub minn din l-Università jew minn xi istituzzjoni ta’ edukazzjoni għolja oħra rikonoxxuta mis-Senat tal-anqas f’Kategorija II u b’marka medja globali minima ta’ 65% fit-Teoloġija flimkien mas-Psychology jew mas-Social Studies jew mas-Sociology; jew
-
-*2*
 
 (d) grad ta’ Bachelor miksub minn din l-Università jew minn xi istituzzjoni ta’ edukazzjoni għolja oħra rikonoxxuta mis-Senat, tal-anqas fit-Tieni Klassi bl-Unuri u b’marka medja minima ta’65% fi kwalunkwe qasam ta’ studju.
 
@@ -116,13 +108,7 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 
 *Miżjud: A.L. 292 tal-2017.*
 
-L-istudenti li jiksbu mill-anqas 30 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw il-Kors b’suċċess, ikunu eliġibbli għall-għoti tal-Postgraduate Certificate fil- JEW MASTER OF ARTS IN SOCIAL POLICY - M.A. - TAĦT
-
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.350
-
-qasam ta’ studju rispettiv.
+L-istudenti li jiksbu mill-anqas 30 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw il-Kors b’suċċess, ikunu eliġibbli għall-għoti tal-Postgraduate Certificate fil-qasam ta’ studju rispettiv.
 
 ## 10. Postgraduate Diploma. Enumerat mill-ġdid: A.L. 413 tal-2010; A.L. 292 tal-2017.
 
@@ -160,9 +146,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew
 
-*4*
-
-JEW MASTER OF ARTS IN SOCIAL POLICY - M.A. - TAĦT [L.S.327.350 IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ (b jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
+(b jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perjodu ta’ studju msemmija fil-paragrafu (a) tkun skont id-dispożizzjonijiet tar- Regolamenti Prinċipali; u
 

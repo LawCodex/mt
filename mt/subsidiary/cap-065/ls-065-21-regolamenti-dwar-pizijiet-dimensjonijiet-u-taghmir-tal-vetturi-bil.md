@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Piżijiet, Dimensjonijiet u Tagħmir tal-Vetturi bil-Mutur (S.L. 65.21)
 
-TAL-VETTURI BIL-MUTUR [L.S.65.21 1
-
 **LEĠISLAZZJONI SUSSIDJARJA 65.21**
 
 **REGOLAMENTI DWAR PIŻIJIET, DIMENSJONIJIET**
@@ -50,10 +48,6 @@ Is-Sitt Skeda  Kondizzjonijiet li għandhom x’jaqsmu mal-ekwivalenza bejn ċer
 ta’ suspension mingħajr arja u suspension tal-arja għal fus(ijiet) tas-sewqan  
 tal-vetturi
 
-*2*
-
-[L.S.65.21 TAL-VETTURI BIL-MUTUR
-
 ## TAQSIMA I — PRELIMINARI
 
 ### 1. Titolu.
@@ -86,10 +80,6 @@ F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma tkunx teħtieġ xort’oħ
 
 "Direttiva tal-Kunsill 96/53/KE" tfisser id-Direttiva tal-Kunsill 96/53/KE tal-25 ta’ Lulju 1996 li tistabbilixxi għal ċerti vetturi tat-triq li jiċċirkolaw fi hdan il-Komunità id-dimensjonijiet massimi awtorizzati fit-traffiku nazzjonali u internazzjonali u l-piżijiet massimi awtorizzati fit-traffiku internazzjonali;
 
-**TAL-VETTURI BIL-MUTUR**
-
-*[L.S.65.21 3*
-
 "Direttiva (UE) 2015/719" tfisser id-Direttiva (UE) 2015/719 tal- Parlament Ewropew u tal-Kunsill tad-29 ta’ April 2015 li temenda d-Direttiva tal-Kunsill 96/53/KE li tistabbilixxi għal ċerti vetturi tat-triq li jiċċirkolaw fi ħdan il-Komunità d-dimensjonijiet massimi u l-piżijiet massimi awtorizzati fit-traffiku internazzjonali;
 
 "fuels alternattivi" tfisser fuels jew sorsi tal-enerġija li jservu, tal-inqas parzjalment, ta' sostitut għas-sorsi ta' żejt fossili fil-provvista tal-enerġija għat-trasport, u li għandhom il-potenzjal li jikkontribwixxu għad-dekarbonizzazzjoni u jtejbu l-prestazzjoni ambjentali tas-settur tat-trasport li jikkonsistu minn:
@@ -114,11 +104,7 @@ F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma tkunx teħtieġ xort’oħ
 
 ''karta tal-istazzjoni tat-testijiet'' tfisser tagħmir li jista’ jinqala’ għat-trasferiment u ħażna ta’ data biex jintuża fil-card reader tar-recording equipment li jingħata mill-Awtorità lil korpi awtorizzati. Il-karta tal-istazzjon tat-testijiet tiddentifika l-body u tippermetti li jiġi ttestjat, ikkalibrat u pprogrammat ir-recording equipment;
 
-''karta tas-sewwieq (bil-memorja)'' tfisser tagħmir li jista’ jinqala’ għat-trasferiment u ħażna ta’ informazzjoni li jingħata mill-Awtorità lil kull xufier individwali għal għanijiet ta’ identifikazzjoni tax-xufier u għall-ħażna ta’ data essenzjali. Il-format u l-ispeċifikazzjonijiet tekniċi tal-karta tas-sewwieq (bil-memorja) għandhom jilħqu r-rekwiżiti stabbiliti fil-Kapitolu IV tal- Anness I(B) tar-Regolament tal-Kunsill (KEE) Nru. 3821/85 dwar [L.S.65.21 TAL-VETTURI BIL-MUTUR
-
-ir-recording equipment fit-trasport stradali, kif emendat;
-
-*4*
+''karta tas-sewwieq (bil-memorja)'' tfisser tagħmir li jista’ jinqala’ għat-trasferiment u ħażna ta’ informazzjoni li jingħata mill-Awtorità lil kull xufier individwali għal għanijiet ta’ identifikazzjoni tax-xufier u għall-ħażna ta’ data essenzjali. Il-format u l-ispeċifikazzjonijiet tekniċi tal-karta tas-sewwieq (bil-memorja) għandhom jilħqu r-rekwiżiti stabbiliti fil-Kapitolu IV tal- Anness I(B) tar-Regolament tal-Kunsill (KEE) Nru. 3821/85 dwar ir-recording equipment fit-trasport stradali, kif emendat;
 
 ''kombinazzjoni ta’ vetturi tfisser:
 
@@ -150,10 +136,6 @@ Għall-operazzjonijiet tat-trasport inter-modali, l-eqreb terminal ta’ transpo
 
 ''ir-Regolament tal-Kunsill dwar recording equipment'' tfisser ir- Regolament tal-Kunsill (KEE) Nru. 3821/85 tal-20 ta’ Diċembru 1985 dwar ir-recording equipment fit-trasport stradali, kif emendat;''residenza normali'' tfisser il-post fejn persuna tgħix abitwalment, għal mill-inqas 185 jum f ’kull sena kalendarja, minħabba rabtiet personali jew okkupazzjonali, jew fil-każ ta’ persuna bl-ebda rabta okkupazzjonali, minħabba rabtiet personali li juru rabtiet mill-qrib bejn dik il-persuna u l-post fejn tkun qed tgħix:
 
-*5*
-
-TAL-VETTURI BIL-MUTUR [L.S.65.21
-
 Iżda, ir-residenza normali ta’ persuna li r-rabtiet okkupazzjonali tagħha huma f’post differenti mir-rabtiet personali u konsegwentement tgħix f’postijiet differenti minn ħin għall-ieħor, f’żewġ Stati Membri jew aktar, titqies bħala l-post tar-rabtiet personali tagħha, jekk il-persuna tmur lura hemmhekk regolarment. Din l-aħħar kondizzjoni m’għandhiex għalfejn tintlaħaq fejn persuna tgħix fi Stat Membru sabiex twettaq xogħol għal żmien definit. L-attendenza f’università jew skola ma timplikax teħid ta’ residenza normali;
 
 ''recording equipment'' jew ''tachograph'' tfisser it-tagħmir totali maħsub għall-istallazzjoni fil-vetturi tat-toroq biex juri, jirreġistra u jaħżen awtomatikament jew semi-awtomatikament dettalji dwar iċ-ċaqliq ta’ dawn il-vetturi u ta’ xi perijodi ta’ ħidma tas-sewwieqa tagħhom. Dan it-tagħmir jinkludi cables, sensors, apparat dwar tagħrif elettroniku għax-xufier, card reader waħda jew tnejn biex fiha jew fihom jiddaħħlu karta tal-memorja tas-sewwieq jew tnejn, printer integrat jew separat, display instruments, faċilitajiet biex tkun tista’ titniżżel il-memorja dwar id-data, faċilitajiet biex tkun tista’ tintwera jew tiġi stampata informazzjoni meta hekk mitluba u faċilitajiet biex jiddaħħlu l-postijiet fejn ikun inbeda u ntemm il-perijodu ta’ xogħol ta’ kuljum;
@@ -170,11 +152,7 @@ Iżda, ir-residenza normali ta’ persuna li r-rabtiet okkupazzjonali tagħha hu
 
 ''tagħmir li jillimita l-veloċità'' tfisser tagħmir li l-funzjoni primarja tiegħu hi li jikkontrolla d-dħul tal-fuel fil-makna sabiex jillimita l-veloċità tal-vettura għall-valur speċifikat;
 
-''tniżżil'' tfisser kopja ta’ parti jew sett komplut ta’ data maħżuna fid-data memory tal-vettura jew fil-memorja tal-karta tas-sewwieq. It-tniżżil ma għandux ibiddel jew iħassar d-data maħżuna. Data mniżżla hi protetta b’mod li jista’ jiġi osservat kull tentattiv biex [L.S.65.21 TAL-VETTURI BIL-MUTUR
-
-tkun manipulata d-data; l-oriġini tad-data mniżżla għandha tkun awtentikabbli. Data mniżżla għandha tinżamm f’format li tkun tista’ tintuża minn kull persuna awtorizzata;
-
-*6*
+''tniżżil'' tfisser kopja ta’ parti jew sett komplut ta’ data maħżuna fid-data memory tal-vettura jew fil-memorja tal-karta tas-sewwieq. It-tniżżil ma għandux ibiddel jew iħassar d-data maħżuna. Data mniżżla hi protetta b’mod li jista’ jiġi osservat kull tentattiv biex tkun manipulata d-data; l-oriġini tad-data mniżżla għandha tkun awtentikabbli. Data mniżżla għandha tinżamm f’format li tkun tista’ tintuża minn kull persuna awtorizzata;
 
 ''tractor'' tfisser vettura li timxi weħidha mekkanikament li tiċċirkola fit-triq, minbarra vettura li timxi fuq il-binarji, u maħsuba b’mod speċjali biex tiġbed, timbotta jew iċċaqlaq trailers, semi-trailers, implementi jew makni;
 
@@ -216,11 +194,7 @@ Il-vetturi tal-passiġġieri għandhom jiġu klassifikati fil-kategoriji li ġej
 
 \- M1 - Vetturi użati għall-ġarr tal-passiġġieri u li għandhom mhux iżjed minn tmien sedili minbarra s-sedil tax-xufier;
 
-\- M2 - Vetturi użati għall-ġarr tal-passiġġieri, li TAL-VETTURI BIL-MUTUR [L.S.65.21
-
-għandhom iżjed minn tmien sedili minbarra s-sedil tax-xufier, u li għandhom piż massimu ta’ mhux iżjed minn 5 tunnellati;
-
-*7*
+\- M2 - Vetturi użati għall-ġarr tal-passiġġieri, li għandhom iżjed minn tmien sedili minbarra s-sedil tax-xufier, u li għandhom piż massimu ta’ mhux iżjed minn 5 tunnellati;
 
 \- M3 - Vetturi użati għall-ġarr tal-passiġġieri, li għandhom iżjed minn tmien sedili minbarra s-sedil tax-xufier, u li għandhom piż massimu ta’ iżjed minn 5 tunnellati.
 
@@ -262,10 +236,6 @@ Il-trailers għandhom jiġu klassifikati fil-kategoriji li ġejjin:
 
 Fil-każ ta’ semi-trailer jew ta’ trailer b’fus fin-nofs, il-piż massimu li għandu jiġi kunsidrat biex jiġi klassifikat it-trailer jikkorrispondi mat-tagħbija vertikali statika trasmessa lejn l-art mill-fus jew mill-fusien tas-semi-trailer jew tat-trailer b’fus fin-nofs meta dan ikun igganċjat mal-vettura li tista’ tiġbed vettura warajha u li tkun qiegħda ġġorr it-tagħbija massima tagħha.
 
-*8*
-
-[L.S.65.21 TAL-VETTURI BIL-MUTUR
-
 ### 6. Konflitt. L.S. 65.11
 
 Jekk xi ħaġa f’dawn ir-regolamenti m’hix konsistenti jew tikkonfliġġi mar-Regolamenti dwar il-Vetturi bil-Mutur, dawn ir-regolamenti għandhom jipprevalu u sa’ l-estent ta’ dawn l-inkonsistenzi jew konflitti, ir-Regolamenti dwar il-Vetturi bil- Mutur, jitqiesu nulli u mingħajr effett.
@@ -302,11 +272,11 @@ Vetturi tal-merkanzija fil-kategoriji N2 u N3 u l-kategoriji tagħhom fil-katego
 
 Il-Kummissarju tal-Pulizija, b’konsultazzjoni ma’ l- Awtorità jista’, f’każi speċjali li għandhom jiġu deċiżi individwalment, jagħti permess għaċ-ċirkolazzjoni f’Malta ta’ vetturi jew kombinazzjonijiet ta’ vetturi għat-trasport nazzjonali tal-merkanzija li ma jkunux jikkonformaw mal-karatteristiċi stabbiliti fil-1.3, 2, 3, 4.1 u 4.3 tal-Ewwel Skeda.
 
-*9*
+### 11. Vetturi u trailers tat-trasport internazzjonali.
 
-TAL-VETTURI BIL-MUTUR [L.S.65.21 11. Vetturi reġistrati fi Stat ieħor u li jiċċirkolaw temporanjament f’Malta bħala parti minn vjaġġ internazzjonali jew f’operazzjonijiet b’kabotaġġ għandhom ikunu jikkonformaw mal-valuri ta’ limitu stabbiliti fl-Ewwel Skeda u ma’ restrizzjonijiet oħra dwar dimensjonijiet awtorizzati massimi u, jew piżijiet ta’ vetturi f’inħawi speċifiċi jew f’toroq speċifiċi.
+*Emendat: A.L. 348 tal-2005; A.L. 422 tal-2016.*
 
-*Vetturi u trailers tat-trasport internazzjonali. Emendat: A.L. 348 tal-2005; A.L. 422 tal-2016.*
+Vetturi reġistrati fi Stat ieħor u li jiċċirkolaw temporanjament f’Malta bħala parti minn vjaġġ internazzjonali jew f’operazzjonijiet b’kabotaġġ għandhom ikunu jikkonformaw mal-valuri ta’ limitu stabbiliti fl-Ewwel Skeda u ma’ restrizzjonijiet oħra dwar dimensjonijiet awtorizzati massimi u, jew piżijiet ta’ vetturi f’inħawi speċifiċi jew f’toroq speċifiċi.
 
 ### 12. Konformità ma’ l-ispeċifikazzjo-nijiet.
 
@@ -346,10 +316,6 @@ Il-Kummissarju tal-Pulizija b’konsultazzjoni ma’ l- Awtorità jista’ jippe
 
 (i) il-''pjanċa tal-fabbrikant'' stabbilita u mwaħħla skond ir-Regolamenti dwar l-Approvazzjoni dwar Tip tal-KE tal-Vetturi bl-Mutur,
 
-*10*
-
-[L.S.65.21 TAL-VETTURI BIL-MUTUR
-
 (ii) il-pjanċa dwar id-dimensjonijiet, skond it-Tieni Skeda, mwaqqfa u mwaħħla skond dawk l-istess regolamenti; jew
 
 *L.S. 427.31*
@@ -372,11 +338,9 @@ Il-Kummissarju tal-Pulizija b’konsultazzjoni ma’ l- Awtorità jista’ jippe
 
 (7) L-Awtorità tista' tiddeċiedi, fejn għandha x'taqsam kull vettura rreġistrata jew imqiegħda f'ċirkolazzjoni fit-territorju tiegħu, li l-piżijiet massimi awtorizzati mil-legiżlazzjoni nazzjonali għandhom jiġu indikati bħala xhieda ta' konformità fil-kolonna tan-naħa tax-xellug u l-piżijiet teknikament permissibbli fil-kolonna tan-naħa tal-lemin.
 
-*11*
+### 15. Sinjali projbittivi tat-toroq jipprevalu. L.S. 65.05
 
-TAL-VETTURI BIL-MUTUR [L.S.65.21 15. Il-limiti tad-dimensjonijiet u l-piżijiet stabbiliti f’din it- Taqsima ta’ dawn ir-regolamenti li jgħoddu għal vetturi li jiċċirkolaw fit-triq għandhom jgħoddu mingħajr preġudizzju għal sinjali projbittivi tat-toroq stabbiliti biex jipproteġu lil xi infrastutturi tat-toroq li m’humiex xierqa għal vetturi twal u tqal, minn ħsara skond ir-Regolamenti dwar is-Sinjali tat-Traffiku u l- Marki tal-Karreġġata.
-
-*Sinjali projbittivi tat-toroq jipprevalu. L.S. 65.05*
+Il-limiti tad-dimensjonijiet u l-piżijiet stabbiliti f’din it- Taqsima ta’ dawn ir-regolamenti li jgħoddu għal vetturi li jiċċirkolaw fit-triq għandhom jgħoddu mingħajr preġudizzju għal sinjali projbittivi tat-toroq stabbiliti biex jipproteġu lil xi infrastutturi tat-toroq li m’humiex xierqa għal vetturi twal u tqal, minn ħsara skond ir-Regolamenti dwar is-Sinjali tat-Traffiku u l- Marki tal-Karreġġata.
 
 ## TAQSIMA III — STALLAZZJONI U UŻU TA’ TAGĦMIR — LI JILLIMITA L-VELOĊITÀ
 
@@ -413,10 +377,6 @@ Il-vetturi għall-ġarr tal-merkanzija li ġejjin għandhom ikunu attrezzati b�
 (b) vetturi fil-kategorija N2 reġistrati għall-ewwel darba f’Malta fl-1 ta’ Jannar, 2005 jew wara dik id-data biex joperaw kemm f’Malta stess kemm barra minn Malta jew li jkunu reġistrati fi Stat Membru u li jkunu jiċċirkolaw fit-triq;
 
 (ċ) vetturi fil-kategorija N2 li għandhom piż massimu ta’ mhux iżjed minn 7.5 tunnellati reġistrati f’Malta fl-1 ta’ Jannar 2005 jew wara dik id-data biex joperaw biss f’Malta;
-
-*12*
-
-[L.S.65.21 TAL-VETTURI BIL-MUTUR
 
 (d) vetturi fil-kategorija N2 li għandhom piż massimu ta’ iżjed minn 3.5 tunnellati iżda mhux iżjed minn 7.5 tunnellati li jiġu reġistrati għall-ewwel darba f’Malta fl-1 ta’ Jannar, 2008 jew wara dik id-data biex joperaw biss f’Malta.
 
@@ -458,11 +418,7 @@ Dawn il-vetturi tal-passiġġieri li ġejjin għandhom ikunu attrezzati bit-tag�
 
 *Sostitwit: A.L. 348 tal-2005.*
 
-Vetturi fil-kategorija M3 li għandhom piż ta’ iżjed minn 5 tunnellati iżda mhux iżjed minn 10 tunnellati u li għandhom magna li taħdem bid-diesel u vetturi fil-kategorija M2 li għandhom magna taħdem bid-diesel u li ġew reġistrati għall-ewwel darba fl-1 ta’ Ottubru, 2001 jew wara dik id-data, għandhom ikunu attrezzati TAL-VETTURI BIL-MUTUR [L.S.65.21
-
-b’tagħmir li jillimita l-veloċità sa -
-
-*13*
+Vetturi fil-kategorija M3 li għandhom piż ta’ iżjed minn 5 tunnellati iżda mhux iżjed minn 10 tunnellati u li għandhom magna li taħdem bid-diesel u vetturi fil-kategorija M2 li għandhom magna taħdem bid-diesel u li ġew reġistrati għall-ewwel darba fl-1 ta’ Ottubru, 2001 jew wara dik id-data, għandhom ikunu attrezzati b’tagħmir li jillimita l-veloċità sa -
 
 (a) l-1 ta’ Jannar, 2006 jekk ikunu reġistrati biex jintużaw kemm għat-trasport f’Malta stess kemm barra minn Malta, u
 
@@ -514,10 +470,6 @@ Vetturi bil-mutur li jwettqu servizzi elenkati fit-Tielet Skeda huma eżenti mil
 
 Ebda persuna ma għandha tuża, jew tħalli jew tippermetti li tintuża, vettura msemmija fir-regolament 27 jekk dik il-vettura ma jkollhiex imwaħħal recording equipment skond ma jingħad fir-regolament ta’ qabel dan.
 
-*14*
-
-[L.S.65.21 TAL-VETTURI BIL-MUTUR
-
 ### 31. Il-ħruġ ta’ karti bil-memorja.
 
 L-Awtorità għandha tkun responsabbli mill-ħruġ ta’:
@@ -566,10 +518,6 @@ L-impriża jew il-proprjetarju jew min jikri l-vettura għandu:
 
 (i) il-fatt li dawn il-karti huma personali fil-karattru,
 
-*15*
-
-TAL-VETTURI BIL-MUTUR [L.S.65.21
-
 (ii) it-tul tal-perijodu ta’ servizz u
 
 (iii) id-dmir potenzjali li jiġu sostitwiti karti danneġġjati, jew li jinżammu minn uffiċjal awtorizzat li jispezzjona;
@@ -606,10 +554,6 @@ Xufier ta’ vettura li taqa’ taħt din it-Taqsima għandu:
 
 (g) irodd kull record sheet li tgħodd għalih lil min ikun impjegah għal xi spezzjoni u biex tinżamm malli jkun prattiku imma mhux aktar tard minn 21 jum wara li timtela;
 
-**TAL-VETTURI BIL-MUTUR**
-
-*[L.S.65.21 16*
-
 (h) jaċċerta li l-ħin reġistrat fuq il-karta ikun jaqbel mal-ħin uffiċjali fil-pajjiż fejn il-vettura tkun reġistrata, (i) iħaddem il-mekkaniżmi ta’ swiċċ li jippermettu l-perijodi ta’ ħin li ġejjin li jiġu reġistrati separatament u distintament:
 
 i. taħt is-sinjal: ħin tas-sewqan;
@@ -631,10 +575,6 @@ kull attività oħra ii. taħt is-sinjal: minbarra sewqan, jiġifieri:
 jiġifieri:
 
 -) perijodi oħra minbarra dawk relatati ma’ ħinijiet ta’ pawsi u ħinijiet ta’ mistrieħ li fihom ix-xufier ma jkunx meħtieġ jibqa’ fil-post tax-xogħol tiegħu, iżda għandu jkun disponibbli biex iwieġeb għal kull sejħa biex jibda jew ikompli s-sewqan jew biex jagħmel xogħol ieħor. B’mod partikolari dawk il-perijodi ta’ disponibbiltà jinkludu perijodi li fihom ix-xufier ikun qiegħed jakkumpanja vettura li tkun qiegħda tiġi trasportata b’lanċa jew b’ferrovija u wkoll perijodi ta’ stennija fil-fruntieri u dawk kawża ta’ projbizzjonijiet tat-traffiku. Ix-xufier għandu jkun jaf minn qabel dawn il-perijodi u t-tul tagħhom, jiġifieri jew qabel it-tluq jew minnufih qabel ma jibda l-perijodu msemmi, jew skond il-kondizzjonijiet ġenerali negozjati bejn l-imsieħba soċjali u, jew skond ma jingħad fil-leġislazzjoni fis-seħħ.
-
-*17*
-
-TAL-VETTURI BIL-MUTUR [L.S.65.21
 
 pawżi fix-xogħol u (iv) taħt is-sinjal: ħinijiet tal-mistrieħ ta’ kuljum;
 
@@ -672,11 +612,7 @@ Kull membru tal-ekwipaġġ għandu jdaħħal l-informazzjoni segwenti fuq ir-rec
 
 (d) l-odometer reading:
 
-(i) fil-bidu tal-ewwel vjaġġ reġistrat fuq il-folja, (ii) fit-tmiem tal-aħħar vjaġġ reġistrat fuq il-folja [L.S.65.21 TAL-VETTURI BIL-MUTUR
-
-(iii) fil-każ ta’ tibdil fil-vettura waqt xi jum tax-xogħol (reading fuq il-vettura li hu ġie assenjat għaliha u r-reading fuq il-vettura li hu għandu jiġi assenjat għaliha);
-
-*18*
+(i) fil-bidu tal-ewwel vjaġġ reġistrat fuq il-folja, (ii) fit-tmiem tal-aħħar vjaġġ reġistrat fuq il-folja (iii) fil-każ ta’ tibdil fil-vettura waqt xi jum tax-xogħol (reading fuq il-vettura li hu ġie assenjat għaliha u r-reading fuq il-vettura li hu għandu jiġi assenjat għaliha);
 
 (e) fil-ħin ta’ kull tibdil ta’ vettura.
 
@@ -706,11 +642,7 @@ Iżda, wara l-1 ta’ Jannnar, 2008, il-perijodi ta’ ħin imsemmija fis-subpar
 
 Iżda, wara l-1 ta’ Jannar, 2008, il-perijodi ta’ ħin imsemmija fis-subparagrafu (ii) għandhom ikopru l-jum kurrenti u t-tmienja u għoxrin jum ta’ qabel.
 
-(3) Impriża tat-trasport li tuża vetturi li jkunu mgħammra b’recording equipment f’konformità ma’ l-Anness IB li tinsab mar- Regolament tal-Kunsill dwar recording equipment u li jaqgħu taħt TAL-VETTURI BIL-MUTUR [L.S.65.21
-
-l-iskop ta’ dawn ir-regolamenti għandhom:
-
-*19*
+(3) Impriża tat-trasport li tuża vetturi li jkunu mgħammra b’recording equipment f’konformità ma’ l-Anness IB li tinsab mar- Regolament tal-Kunsill dwar recording equipment u li jaqgħu taħt l-iskop ta’ dawn ir-regolamenti għandhom:
 
 (i) jiżguraw li d-data kollha titniżżel mill-unit tal-vettura għallanqas kull tliet xhur u mill-karta tas-sewwieq għallanqas kull tmienja u għoxrin ġurnata;
 
@@ -744,11 +676,7 @@ Fejn il-karta tas-sewwieq titħassar, ma tibqax tiffunzjona jew ma tkunx fil-pus
 
 (a) fil-bidu tal-vjaġġ tiegħu, jistampa d-dettalji tal-vettura li jkun ser isuq is-sewwieq, u għandu jdaħħal f’dik il-print-out -
 
-(i) dettalji li jkunu jippermettu li s-sewwieq ikun jista’ jiġi identifikat (isem, in-numru tal-karta [L.S.65.21 TAL-VETTURI BIL-MUTUR
-
-tas-sewwieq jew tal-liċenza tas-sewwieq), inkluża l-firma tiegħu,
-
-*20*
+(i) dettalji li jkunu jippermettu li s-sewwieq ikun jista’ jiġi identifikat (isem, in-numru tal-karta tas-sewwieq jew tal-liċenza tas-sewwieq), inkluża l-firma tiegħu,
 
 (ii) il-perijodi msemmija fir-regolament 36(i), subparagrafi (ii), (iii) u (iv);
 
@@ -788,11 +716,7 @@ Għall-finijiet ta’ din it-Taqsima l-kondizzjonijiet ta’ residenza normali m
 
 (b) fejn l-Awtorità, wara li tkun ħarġet id-driver card, għandha raġunijiet biex tiddubita mill-validità ta’ attestament dwar residenza normali li jkun sar skond il-paragrafu (a), jew teħtieġ li teżerċita kontrolli speċifiċi fid-dmirijiet tagħha, tista’ titlob kull informazzjoni ulterjuri jew evidenza dwarha;
 
-(ċ) meta toħroġ driver card l-Awtorità għandha, sa fejn TAL-VETTURI BIL-MUTUR [L.S.65.21
-
-possibbli, taċċerta li l-applikant m’għandux driver card valida diġà.
-
-*21*
+(ċ) meta toħroġ driver card l-Awtorità għandha, sa fejn possibbli, taċċerta li l-applikant m’għandux driver card valida diġà.
 
 ### 49. Data dwar pajjiċi.
 
@@ -835,10 +759,6 @@ It-tread depth minimu fix-xquq ewlenin tat-tyres ta’ vetturi fil-Kategorija M1
 ### 65. Vettura ma tistax ti``irkola jekk ma għandhiex dan it-tread depth minimu.
 
 L-ebda vettura fil-Kategorija M1, N1, O1 u O2 ma għandha tiġi permessa li tiċċirkola fit-triq jekk it-tread depth ta’ kull tyre ikun inqas mill-fond minimu stipulat fir-regolament 64.
-
-*22*
-
-[L.S.65.21 TAL-VETTURI BIL-MUTUR
 
 ### 66. Esklużjonijiet.
 
@@ -898,10 +818,6 @@ It-tagħmir għall-kejl tal-piż imsemmi fir-regolament 67 għandu jkun preċiż
 
 (ċ) iġġorr attrezzaturi li jistgħu jintużaw għal dan l-iskop fuq il-vettura;
 
-*23*
-
-TAL-VETTURI BIL-MUTUR [L.S.65.21
-
 (d) tiffalsifika reġistrazzjonijiet jew dħul fuq kull record sheet bl-iskop li tqarraq, tbiddel jew tikkawża jew tippermetti li tinbidel tali reġistrazzjoni jew daħla;
 
 (e) tbagħbas f’xi recording equipment stallat skond dawn ir-regolamenti jew xi linji ta’ gwida forniti mill- Awtorità sakemm mhux debitament awtorizzat mill- Awtorità biex tagħmel dan.
@@ -911,10 +827,6 @@ TAL-VETTURI BIL-MUTUR [L.S.65.21
 (3) Kull persuna li b’kull mod ieħor tonqos milli tikkonforma ma’ dawn ir-regolamenti tista’ teħel ammenda ta’ tmienja u ħamsin euro u tlieta u għoxrin ċenteżmu (58.23).
 
 (4) Iżda meta r-reat jew nuqqas ta’ konformità ma’ dawn ir-regolamenti jwassal għal, jew jista’ jkun il-possibbli kawża ta’ reat li jsiru proċedimenti dwaru quddiem il-Qorti tal-Maġistrati fil- Ġudikatura Kriminali tagħha jew il-Qorti Kriminali, l-ammenda jew multa inkwistjoni jkunu dejn ċivili rikoverabbli mill-Awtorità mat-tmiem tal-proċeduri kriminali.
-
-*24*
-
-[L.S.65.21 TAL-VETTURI BIL-MUTUR
 
 Emendata: L-EWWEL SKEDA
 
@@ -988,17 +900,13 @@ minnha ma għandha toħroġ ’il barra minn dak il-pjan
 
 1.6 Distanza massima bejn l-axis tal-king pin tal-hames
 
-rota u l-warrani ta’ semi-trailer 12.0 m TAL-VETTURI BIL-MUTUR [L.S.65.21
-
-*1.7*
-
-Distanza massima mkejla paralleli ma’ l-assi lonġitudinali tar-road train mill-punt estern l-aktar ’il quddiem taż-żona tat-tagħbija wara l-kabina sal-punt estern l-aktar lura tat-trailer tal-kombinazzjoni, bit-tnaqqis tad-distanza bejn il-warrani tal-vettura li tiġbed u quddiem tat-trailer
-
-*25*
+rota u l-warrani ta’ semi-trailer 12.0 m Distanza massima mkejla paralleli ma’ l-assi lonġitudinali tar-road train mill-punt estern l-aktar ’il quddiem taż-żona tat-tagħbija wara l-kabina sal-punt estern l-aktar lura tat-trailer tal-kombinazzjoni, bit-tnaqqis tad-distanza bejn il-warrani tal-vettura li tiġbed u quddiem tat-trailer
 
 *15.65 m 1.8*
 
 Distanza massima mkejla paralleli ma’ l-assi lonġitudinali tar-road train mill-punt estern l-aktar ’il quddiem taż-żona tat-tagħbija wara l-kabina sal-punt estern l-aktar lura tat-trailer tal-kombinazzjoni Piż massimu awtorizzat tal-vettura (f’tunnellati)
+
+*1.7*
 
 *16.4 m 2 2.1*
 
@@ -1038,10 +946,6 @@ Fil-każ ta’ kombinazzjonijiet ta’ vetturi, inklużi l-vetturi li jaħdmu bi
 
 *42.0 tunnellata*
 
-*26*
-
-[L.S.65.21 TAL-VETTURI BIL-MUTUR
-
 (d) vettura bil-mutur bi tliet fusijiet b’semitrejler li jkollu żewġ jew tliet fusijiet u li jkun qed jittrasporta, b’operazzjonijiet ta’ trasport intermodali, kontejner jew kaxxa skambjabbli waħda jew aktar, sa tul massimu totali ta’ 45 pied
 
 *44.0 tunnellata 2.2.3*
@@ -1057,10 +961,6 @@ Fil-każ ta’ kombinazzjonijiet ta’ vetturi, inklużi l-vetturi li jaħdmu bi
 *2.2.4.1 36.0 tunnellata*
 
 \- hija 1,3 m jew akbar imma mhux aktar minn 1,8 m
-
-*27*
-
-TAL-VETTURI BIL-MUTUR [L.S.65.21
 
 *\+ 2 tunnellati*
 
@@ -1114,10 +1014,6 @@ b’massimu ta’ 2
 
 karozzi tal-linja b’żewġ fusijiet
 
-*28*
-
-[L.S.65.21 TAL-VETTURI BIL-MUTUR
-
 *2.3.2*
 
 vetturi bil-mutur bi tliet fusijiet 25 tunnellata jew 26 tunnellata fejn il-fus motorizzat ikun mgħammar b'tajers doppji u sospensjoni bl-arja jew sospensjoni rikonoxxuta bħala ekwivalenti fl- Unjoni kif definit fl-Anness II, jew fejn kull fus motorizzat ikun mgħammar b'tajers doppji u l-piż massimu ta’ kull fus ma jaqbiżx 9,5 tunnellata
@@ -1125,10 +1021,6 @@ vetturi bil-mutur bi tliet fusijiet 25 tunnellata jew 26 tunnellata fejn il-fus 
 vettura bil-mutur bi tliet fusijiet li jaħdmu bi fjuwilx 25 tunnellata jew 26 alternattivi tunnellata fejn il-fus motorizzat ikun mgħammar b’tajers doppji u
 
 sospensjoni bl-arja jew sospensjoni rikonoxxuta bħala ekwivalenti fl-Unjoni kif definit fl-Anness II, jew fejn kull fus motorizzat ikun mgħammar b’tajers doppji u l-piż massimu ta’ kull fus ma jaqbiżx 9,5 tunnellati jiżdied minħabba l-piż addizzjonali meħtieġ għat-teknoloġija ta’ fjuwils alternattivi b’massimu ta’ tunnellata
-
-*29*
-
-TAL-VETTURI BIL-MUTUR [L.S.65.21
 
 vetturi mingħajr emissjonijiet bi tliet fusijiet Il-piż massimu awtorizzat ta’ 25 tunnellata, jew 26 tunnellata meta l-fus tas-sewqan ikun mgħammar b’tajers sospensjoni tal-arja jew sospensjoni rikonoxxuta bħala ekwivalenti fl- Unjoni kif definit fl-Anness II jew meta kull fus tas-mgħammar b’tajers massimu ta’ kull fus ma jaqbiżx 9,5 tunnellati, jiżdied bil-piż addizzjonali
 
@@ -1162,17 +1054,13 @@ mgħammar b’tajers
 
 *doppji u l-piż*
 
-massimu ta’ kull fus ma jeċċedix id- [L.S.65.21 TAL-VETTURI BIL-MUTUR
+massimu ta’ kull fus ma jeċċedix id- Karozzi tal-linja artikolati bi tliet fusijiet:
 
 *9,5 tunnellati*
 
-*2.4 28.0 tunnellata Il-piż massimu awtorizzat ta’ 28 tunnellata għandu jiżdied minħabba l-piż addizzjonali meħtieġ għat-teknoloġija ta’ fjuwils alternattivi b’massimu ta’ tunnellata Il-piż massimu awtorizzat ta’ 28 tunnellata jiżdied bil-piż addizzjonali tat-teknoloġija mingħajr emissjonijiet b’massimu ta’ 2 tunnellati 3*
-
-Karozzi tal-linja artikolati bi tliet fusijiet:
-
-*30*
-
 Karozzi tal-linja artikolati bi tliet fusijiet li jaħdmu fi fjuwils alternattivi
+
+*2.4 28.0 tunnellata Il-piż massimu awtorizzat ta’ 28 tunnellata għandu jiżdied minħabba l-piż addizzjonali meħtieġ għat-teknoloġija ta’ fjuwils alternattivi b’massimu ta’ tunnellata Il-piż massimu awtorizzat ta’ 28 tunnellata jiżdied bil-piż addizzjonali tat-teknoloġija mingħajr emissjonijiet b’massimu ta’ 2 tunnellati 3*
 
 Karozzi tal-linja artikolati bi tliet fusijiet li jkunu vetturi mingħajr emissjonijiet
 
@@ -1212,13 +1100,9 @@ iktar minn 1,3 m u sa 1,4 m (1,3 &lt; d ≤ 1,4)
 
 Il-Fus tas-sewqan
 
-Il-Fus tas-sewqan tal-vetturi msemmija f' 2.2.1 u 2.2.2 TAL-VETTURI BIL-MUTUR [L.S.65.21
+Il-Fus tas-sewqan tal-vetturi msemmija f' 2.2.1 u 2.2.2 Il-fus tas-sewqan tal-vetturi msemmija fil-punti 2.2.3,
 
 *3.4.2 11,5 tunnellati 3.5*
-
-Il-fus tas-sewqan tal-vetturi msemmija fil-punti 2.2.3,
-
-*31*
 
 2.2.4, 2.3 u 2.4
 
@@ -1251,8 +1135,6 @@ Id-distanza bejn il-fus warrani ta’ vettura bil-mutur u fus ta’ quddiem ta�
 Piż massimu awtorizzat skond il-wheelbase
 
 Il-piż massimu awtorizzat f’tunnellati ta’ vettura bil-mutur m’għandux jeċċedi ħames darbiet id-distanza f’metri bejn l-axes tal-fisien ta’ quddiem u wara nett tal-vettura
-
-32 [L.S.65.21 TAL-VETTURI BIL-MUTUR
 
 4.4 Semi-trailers
 
@@ -1292,8 +1174,6 @@ II. Il-valuri mogħtija fuq il-prova tal-konformità għandhom jirriproduċu eż
 
 (1) Din l-informazzjoni m’għandhiex għalfejn tiġi ripetuta fejn il-vettura għandha pjan`a waħda b’informazzjoni kemm dwar piżijiet kemm dwar dimensjonijiet.
 
-TAL-VETTURI BIL-MUTUR [L.S.65.21 33
-
 IT-TIELET SKEDA Emendata:
 
 A.L. 348 tal-2005. (Regolament 28)
@@ -1319,8 +1199,6 @@ A.L. 348 tal-2005. (Regolament 28)
 \8. Vetturi kummerċjali li jkollhom status storiku u li jkunu qegħdin jintużaw għall-ġarr mhux kummerċjali ta’ passiġġieri jew merkanzija.
 
 \9. Vetturi jew taħlita ta’ vetturi b’piż massimu permissibbli ta’ mhux aktar minn 7.5 tunnellati użati għall-ġarr ta’ materjal, tagħmir jew makkinarju biex jintużaw mis-sewwieq fix-xogħol tiegħu.
-
-34 [L.S.65.21 TAL-VETTURI BIL-MUTUR
 
 Emendata: IR-RABA’ SKEDA
 
@@ -1364,8 +1242,6 @@ Dawn l-ispezzjonijiet għandhom jinkludu l-verifiki li ġejjin:
 
 \- tmermir tat-tyre fil-limiti permessi mill-liġi,
 
-TAL-VETTURI BIL-MUTUR [L.S.65.21 35
-
 \- ċaqliq tal-vettura: il-vettura għandha tipproċedi, immexxija mill-makna tagħha stess, f’linja dritta u fuq wiċċ ċatt, b’veloċità ta’ 50 ± 5 km/s; jekk hu ta’ preċiżjoni komparabbli, it-test jista’ wkoll isir fuq bank xieraq tat-testijiet.
 
 IL-ĦAMES SKEDA Miżjuda:
@@ -1406,9 +1282,7 @@ Sistema ta' suspension hija kkunsidrata arja sospiża jekk mill-inqas 75% ta' l-
 
 Suspension magħrufa bħala ekwivalenti għal suspension taħl-arja għandha tikkonforma ma' li ġej:
 
-2.1. matul oxxillazzjoni wieqaf baxx free transient tal-massa mmullata 'l fuq mill-fus tas-sewqan jew mill-bogie, il-frekwenza mkejla u d-damping mas-suspension li jerfa' t-tagħbija massima tiegħu għandha taqa' fi ħdan il-limiti imfissra 36 [L.S.65.21 TAL-VETTURI BIL-MUTUR
-
-fil-punti 2.2 sa 2.5;
+2.1. matul oxxillazzjoni wieqaf baxx free transient tal-massa mmullata 'l fuq mill-fus tas-sewqan jew mill-bogie, il-frekwenza mkejla u d-damping mas-suspension li jerfa' t-tagħbija massima tiegħu għandha taqa' fi ħdan il-limiti imfissra fil-punti 2.2 sa 2.5;
 
 2.2. kull fus għandu jkun mgħammar b'dampers idrawlici. Fuq bogies b'fus tandem, id-dampers għandhom ikunu pożizzjonati biex jimminimizzaw l-oxxillazzjoni tal-bogies;
 
@@ -1431,8 +1305,6 @@ Id-damping huwa kritiku meta C = Co, fejn:
 Il-proporzjon ta' damping bħala frazzjoni tad-damping kritiku hu C/Co.
 
 Matul l-oxxillazzjoni free transient tal-massa mmullata l-moviment wieqaf tal-massa jsegwi mogħdija sinusoidal damped (Il-Figura 2). Il-frekwenza tista' tiġi stmata bil-kejl tal-ħin għal dawk iċ-ċikli ta' oxxillazzjoni li jistgħu jiġu osservati. Id-damping jista' jiġi stmat bil-kejl tal-għoli tal-ponot suċċessivi tal-oxxillazzjoni fl-istess direzzjoni. Jekk l-ampjezza tal-ponot tal-ewwel u t-tieni ċiklu ta' l-oxxillazzjoni huma A1 u A2, allura l-proporzjon ta' damping D hu:
-
-TAL-VETTURI BIL-MUTUR [L.S.65.21 37
 
 ‘ln’ il-logaritmu naturali tal-proporzjon tar-rapport ta' ampjezza.
 

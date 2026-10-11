@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar Tnaqqis fit-Taxxa fuq l-Income"
-identifier: "S.L. 123.7"
+identifier: "S.L. 123.07"
 eli: "https://legislation.mt/eli/sl/123.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/123.7/20240913/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar Tnaqqis fit-Taxxa fuq l-Income (S.L. 123.7)
+# Regoli dwar Tnaqqis fit-Taxxa fuq l-Income (S.L. 123.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 123.07**
 

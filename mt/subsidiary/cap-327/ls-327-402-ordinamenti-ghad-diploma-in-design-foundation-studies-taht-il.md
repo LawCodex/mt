@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Design Foundation Studies taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.402)
 
-*1*
-
-IL-PATROêINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [ L.S.327.402
-
 **LEĀISLAZZJONI SUSSIDJARJA 327.402**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN DESIGN**
@@ -71,11 +67,7 @@ Il-kors jinfirex fuq medda ta’ Ŝewā semestri ta’ studju fuq baŜi full-tim
 
 (3) Il-programm ta’ studju għandu jkun mħejji mill-Bord tal- Istudji u ppubblikat mill-Bord wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
-(4) L-istudenti li jtemmu b'suëëess sett ta’ taqsimiet studju [ L.S.327.402 IL-PATROêINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI
-
-preskritt li jammontaw għal 30 kredtu u jagħŜlu li ma jkomplux il-kors, jew wara li komplew ma jtemmux b'suëëess il-kors, ikunu eliāibbli għall-għoti taë-êertifikat.
-
-*2*
+(4) L-istudenti li jtemmu b'suëëess sett ta’ taqsimiet studju preskritt li jammontaw għal 30 kredtu u jagħŜlu li ma jkomplux il-kors, jew wara li komplew ma jtemmux b'suëëess il-kors, ikunu eliāibbli għall-għoti taë-êertifikat.
 
 ## 6. Valutazzjoni u progress.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar it-Trasferiment ta' Fondi għal Hostels Statali Indikati (S.L. 318.19)
 
-TRASFERIMENT TA’ FONDI
-
-[ L.S.318.19 G}AL HOSTELS STATALI INDIKATI
-
 **LE{ISLAZZJONI SUSSIDJARJA 318.19**
 
 **REGOLAMENTI DWAR IT-TRASFERIMENT TA’**

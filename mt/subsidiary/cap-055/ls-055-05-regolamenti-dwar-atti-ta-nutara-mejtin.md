@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Atti ta' Nutara Mejtin"
-identifier: "S.L. 55.5"
+identifier: "S.L. 55.05"
 eli: "https://legislation.mt/eli/sl/55.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Atti ta' Nutara Mejtin (S.L. 55.5)
+# Regolamenti dwar Atti ta' Nutara Mejtin (S.L. 55.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 55.05**
 

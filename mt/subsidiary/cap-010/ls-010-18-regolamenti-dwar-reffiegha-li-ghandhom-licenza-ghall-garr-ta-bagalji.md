@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Reffiegħa li għandhom Liċenza għall-Ġarr ta' Bagalji (S.L. 10.18)
 
-REFFIEG}A LI G}ANDHOM LI¬ENZA
-
-*1*
-
-G}ALL-{ARR TA’ BAGALJI [L.S.10.18
-
 **LE{ISLAZZJONI SUSSIDJARJA 10.18**
 
 **REGOLAMENTI DWAR REFFIEG}A**

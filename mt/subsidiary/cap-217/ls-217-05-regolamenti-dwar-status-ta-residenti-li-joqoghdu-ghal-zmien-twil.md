@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Status ta' Residenti li joqogħdu għal Żmien Twil (Ċitttadini ta' Pajjiżi Terzi)"
-identifier: "S.L. 217.5"
+identifier: "S.L. 217.05"
 eli: "https://legislation.mt/eli/sl/217.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/217.5/20210311/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Status ta' Residenti li joqogħdu għal Żmien Twil (Ċitttadini ta' Pajjiżi Terzi) (S.L. 217.5)
-
-*1*
-
-TWIL (ĊITTADINI TA’ PAJJIŻI TERZI) [L.S. 217.05
+# Regolamenti dwar Status ta' Residenti li joqogħdu għal Żmien Twil (Ċitttadini ta' Pajjiżi Terzi) (S.L. 217.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 217.05**
 
@@ -67,10 +63,6 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort
 
 (b) it-tfal minuri mhux miżżewġin u dawk tal-konjuġi tiegħu, inklużi tfal adottati b’mod li jkun rikonoxxut mil-liġi ta’ Malta;
 
-*2*
-
-[L.S. 217.05 TWIL (ĊITTADINI TA’ PAJJIŻI TERZI)
-
 (ċ) it-tfal minuri mhux miżżewġin, inklużi tfal adottati, tar-resident għal żmien twil jew tal-konjuġi, skond il-każ, meta r-resident għal żmien twil jew il-konjuġi jkollhom il-kustodja u t-tfal ikunu dipendenti minnu;
 
 (d) it-tfal tar-resident għal żmien twil jew tal-konjuġi tiegħu, li l-kustodja tagħhom tkun bejniethom, kemm-il darba l-parti l-oħra li jkollha l-kustodja tkun qablet ma’ dan u li jkunu ġew awtorizzati mid-Direttur jirrisjedu f’Malta miegħu;
@@ -109,10 +101,6 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort
 
 (b) abbażi ta’ protezzjoni temporanja konformement mar- Regolamenti dwar Standards Minimi għall-Protezzjoni Temporanja ta’ Rifuġjati, jew li jkunu applikaw għal awtorizzazzjoni li jkollhom residenza fuq dik il-bażi u li jkunu qegħdin jistennew deċiżjoni fuq l-istatus tagħhom;
 
-*3*
-
-TWIL (ĊITTADINI TA’ PAJJIŻI TERZI) [L.S. 217.05
-
 (ċ) abbażi ta’ mod ta’ protezzjoni, barra minn protezzjoni internazzjonali jew dawk li applikaw għal awtorizzazzjoni biex ikollhom residenza fuq dik il-bażi u li jkunu qegħdin jistennew deċiżjoni dwar l-istatus tagħhom;
 
 (d) li jkunu applikaw għal protezzjoni internazzjonali u li l-applikazzjoni tagħhom tkun għadha ma wasslitx għal deċiżjoni finali;
@@ -143,10 +131,6 @@ Iżda d-Direttur ma għandux jagħti status ta’ resident li joqgħod għal żm
 
 (ii) sekondament mill-prinċipal taċ-ċittadin ta’ pajjiż terz;
 
-**TWIL (ĊITTADINI TA’ PAJJIŻI TERZI)**
-
-*[L.S. 217.05 4*
-
 (iii) safar fuq negozju; jew
 
 (iv) finijiet ta’ edukazzjoni jew taħriġ.
@@ -165,11 +149,7 @@ F’dawn il-każijiet, il-perjodu ta’ nuqqas itwal mit-total ta’ għaxar xhu
 
 Iżda l-benefiċċji jew assistenza li titħallas taħt l-Att dwar is-Sigurtà Soċjali jew taħt kwalunkwe leġislazzjoni nazzjonali oħra, li ċittadin ta’ pajjiż terz huwa intitolat li jitlob bħala assistenza speċjali sabiex ikopri spejjez eċċezzjonali, essenzjali għall-għajxien tiegħu, determinati individwalment, rimborż ta’ taxxi maħruġa fuq id-dħul tiegħu, jew xi miżuri ta’ appoġġ tad-dħul oħra, għandhom jitqiesu bħala parti mir-riżorsi stabbli tiegħu;
 
-(b) akkomodazzjoni xierqa li titqies bħala waħda normali meta mqabbla ma’ familja f’Malta u li tkun konformi mal-istandards, li għandhom jiġu ppubblikati permezz ta’ avviż fil-Gazzetta fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti\* u sussegwentement kull ħames TWIL (ĊITTADINI TA’ PAJJIŻI TERZI) [L.S. 217.05
-
-snin, kif imfissra mill-Ministeru responsabbli għad-djar;
-
-*5*
+(b) akkomodazzjoni xierqa li titqies bħala waħda normali meta mqabbla ma’ familja f’Malta u li tkun konformi mal-istandards, li għandhom jiġu ppubblikati permezz ta’ avviż fil-Gazzetta fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti\* u sussegwentement kull ħames snin, kif imfissra mill-Ministeru responsabbli għad-djar;
 
 (ċ) dokument ta’ l-ivvjaġġar li jkun validu;
 
@@ -201,10 +181,6 @@ snin, kif imfissra mill-Ministeru responsabbli għad-djar;
 
 \* ir-referenza hija għall-Avviż Legali 370 tal-2010 li ġie fis-seħħ fl-1 ta’ Awwissu, 2010.
 
-*6*
-
-[L.S. 217.05 TWIL (ĊITTADINI TA’ PAJJIŻI TERZI)
-
 Iżda, f’ċirkostanzi eċċezzjonali li jkunu marbutin mal-kumplessità tal-każ, it-terminu ta’ sitt xhur jista’ jiġġedded bi żmien ieħor ta’ sitt xhur.
 
 (2) Id-Direttur għandu javża lill-applikant meta jiġi mġedded l-perjodu għall-eżami ta’ l-applikazzjoni.
@@ -231,11 +207,7 @@ Iżda meta tkun ingħatat protezzjoni internazzjonali minn Stat Membru ieħor ta
 
 (4) Meta t-tieni Stat Membru jitlob informazzjoni rigward jekk il-persuna li tkun detentur ta’ permess ta’ residenza fit-tul li jkun fih ir-rimarka msemmija fis-subregolament (3), tkun għada qed tibbenefika minn protezzjoni internazzjonali, id-Diretttur għandu jipprovdi risposta lit-tieni Stat Membru, mhux aktar tard minn xahar wara li jkun irċieva t-talba għal informazzjoni.
 
-(5) Meta r-responsabbiltà għal protezzjoni internazzjonali tar- TWIL (ĊITTADINI TA’ PAJJIŻI TERZI) [L.S. 217.05
-
-residenti fit-tul tkun ġiet trasferita lil Malta wara li jinħareġ il-permess ta’ residenza, maħruġ mill-UE, li għandu resident għal żmien twil imsemmi fis-subregolament (3), id-Direttur għandu jemenda skont hekk ir-rimarka imsemmija fil-proviso tas-subregolament (3) mhux aktar tard minn tliet xhur wara t-trasferiment.
-
-*7*
+(5) Meta r-responsabbiltà għal protezzjoni internazzjonali tar-residenti fit-tul tkun ġiet trasferita lil Malta wara li jinħareġ il-permess ta’ residenza, maħruġ mill-UE, li għandu resident għal żmien twil imsemmi fis-subregolament (3), id-Direttur għandu jemenda skont hekk ir-rimarka imsemmija fil-proviso tas-subregolament (3) mhux aktar tard minn tliet xhur wara t-trasferiment.
 
 ### 9. Irtirar jew telfien ta’ status.
 
@@ -266,10 +238,6 @@ Iżda, fil-każ ta’ ċirkostanzi speċifiċi u eċċezzjonali li għandhom x�
 Iżda meta dik il-persuna tressaq prova li tkun osservat il-ħtiġiet sabiex jikseb status ta’ resident għal żmien twil skont ir-regolament 5(2) u (3) u li tkun qagħdet f’Malta legalment u b’mod kontinwu għal sentejn u nofs minnufih qabel ma tkun ġiet sottomessa l-applikazzjoni msemmija fir-regolament 5(1).
 
 (3) Meta jiskadi permess ta’ residenza, maħruġ mill-UE, li jkollu resident għal żmien twil, dan ma jimplikax l-irtiarr jew it-telfien ta’ l-istatus ta’ resident li joqgħod għal żmien twil.
-
-*8*
-
-[L.S. 217.05 TWIL (ĊITTADINI TA’ PAJJIŻI TERZI)
 
 (4) Meta l-irtirar jew it-telfien ta’ status ta’ resident li joqgħod għal żmien twil ma jirriżultax fit-tneħħija taċ-ċittadin ta’ pajjiż terz minn Malta, u ċ-ċittadin ta’ pajjiż terz ma jkunx jikkostitwixxi theddia għall-politika pubblika jew għas-sigurtà pubblika, dan għandu jinħariġlu permess ta’ residenza sakemm huwa jkun konformi mal-kondizzjonijiet imsemmija fir-regolament 5.
 
@@ -303,11 +271,7 @@ Iżda meta dik il-persuna tressaq prova li tkun osservat il-ħtiġiet sabiex jik
 
 (g) aċċess għall-oġġetti u servizzi u l-provvista ta’ oġġetti u servizzi li jkunu disponibbli għall-pubbliku u għall-proċeduri biex tiġi provduta dar;
 
-(h) libertà ta’ assoċjazzjoni u affiljazzjoni u sħubija ta’ organizzazzjoni li tkun tirrappreżenta lill-ħaddiema jew lill-prinċipali jew lil kull organizzazzjoni li jkollha l-membri tagħha jieħdu sehem f’xi okkupazzjoni speċifika, inklużi l-benefiċċji mogħtija minn organizzazzjonijiet bħal dawk, mingħajr preġudizzju għall-prinċipji ġenerali tal-politika TWIL (ĊITTADINI TA’ PAJJIŻI TERZI) [L.S. 217.05
-
-pubblika u tas-sigurtà pubblika;
-
-*9*
+(h) libertà ta’ assoċjazzjoni u affiljazzjoni u sħubija ta’ organizzazzjoni li tkun tirrappreżenta lill-ħaddiema jew lill-prinċipali jew lil kull organizzazzjoni li jkollha l-membri tagħha jieħdu sehem f’xi okkupazzjoni speċifika, inklużi l-benefiċċji mogħtija minn organizzazzjonijiet bħal dawk, mingħajr preġudizzju għall-prinċipji ġenerali tal-politika pubblika u tas-sigurtà pubblika;
 
 (i) aċċess liberu mat-territorju kollu ta’ Malta fil-limiti li hemm provdut dwarhom skond il-liġijiet nazzjonali għal raġunijiet ta’ sigurtà.
 
@@ -347,10 +311,6 @@ Iżda meta dik il-persuna kkonċernata tosserva l-kondizzjonijiet imsemmija fl-a
 
 *Kap. 420.*
 
-*10*
-
-[L.S. 217.05 TWIL (ĊITTADINI TA’ PAJJIŻI TERZI)
-
 ### 12A. Tkeċċija ta’ residenti għal żmien twil.
 
 *Miżjud: A.L. 197 tal-2014.*
@@ -385,11 +345,7 @@ Iżda, mingħajr preġudizzju għal kull dritt miksub skond id-disposizzjonijiet
 
 *Emendat: A.L. 370 tal-2010.*
 
-(1) Ċittadin ta’ pajjiż terz li jkun ġie mogħti status ta’ resident li joqgħod għal żmien twil fi Stat Membru ieħor u li jkun irid jirrisjedi f ’Malta għandu japplika għand id-Direttur għal permess ta’ residenza kemm jista’ jkun malajr u, f’kull każ, mhux TWIL (ĊITTADINI TA’ PAJJIŻI TERZI) [L.S. 217.05
-
-iżjed tard minn tliet xhur wara li jidħol f’Malta.
-
-*11*
+(1) Ċittadin ta’ pajjiż terz li jkun ġie mogħti status ta’ resident li joqgħod għal żmien twil fi Stat Membru ieħor u li jkun irid jirrisjedi f ’Malta għandu japplika għand id-Direttur għal permess ta’ residenza kemm jista’ jkun malajr u, f’kull każ, mhux iżjed tard minn tliet xhur wara li jidħol f’Malta.
 
 (2) (a) Id-disposizzjonijiet tar-regolament 5(2)(b) sa (d) għandhom jkunu japplikaw ukoll f’dan il-każ.
 
@@ -417,11 +373,7 @@ Iżda jekk hu kien diġà osserva l-miżuri ta’ integrazzjoni fl-ewwel Stat Me
 
 (1) Meta resident għal żmien twil japplika għall-permess biex ikollu residenza f’Malta msemmi fir-regolament 14(1), huma biss il-membri tal-familja skond il-paragrafi (a) sa (d) tat-tifsira ta’ "membri tal-familja" fir-regolament 2 li jkunu jirrisjedu miegħu fl-ewwel Stat Membru li jkunu awtorizzati jakkumpanjaw jew jingħaqdu mar-resident għal żmien twil ġewwa Malta.
 
-(2) F’dak li jirrigwarda l-applikazzjoni li għandha ssir għal permess ta’ residenza, għandhom japplikaw id-disposizzjonijiet tar- [L.S. 217.05 TWIL (ĊITTADINI TA’ PAJJIŻI TERZI)
-
-regolament 14(1).
-
-*12*
+(2) F’dak li jirrigwarda l-applikazzjoni li għandha ssir għal permess ta’ residenza, għandhom japplikaw id-disposizzjonijiet tar-regolament 14(1).
 
 (3) Membru tal-familja msemmi fis-subregolament (1) għandu, meta jkun qiegħed japplika għal permess ta’ residenza f’Malta, jippreżenta:
 
@@ -453,11 +405,11 @@ regolament 14(1).
 
 (4) Id-Direttur jista’ jeħtieġ li jsir eżami mediku għal persuni li din id-Direttiva tapplika għalihom sabiex jiġi ċertifikat li dawn ma jkunux ibatu minn xi marda minn dawk li jinsabu msemmija fis-subregolament (2).
 
-*13*
+### 18. Eżami ta’ l-applikazzjonijiet u ħruġ ta’ permess ta’ residenza.
 
-TWIL (ĊITTADINI TA’ PAJJIŻI TERZI) [L.S. 217.05 18. (1) Id-Direttur għandu jagħti lill-applikant għall-permess ta’ residenza taħt din it-Taqsima avviż bil-miktub tad-deċiżjoni tiegħu kemm jista’ jkun malajr u, f’kull każ, mhux iżjed tard minn erba’ xhur mid-data meta tkun ġiet ippreżentata l-applikazzjoni:
+*Emendat: A.L. 370 tal-2010; A.L. 197 tal-2014.*
 
-*Eżami ta’ l-applikazzjonijiet u ħruġ ta’ permess ta’ residenza. Emendat: A.L. 370 tal-2010; A.L. 197 tal-2014.*
+(1) Id-Direttur għandu jagħti lill-applikant għall-permess ta’ residenza taħt din it-Taqsima avviż bil-miktub tad-deċiżjoni tiegħu kemm jista’ jkun malajr u, f’kull każ, mhux iżjed tard minn erba’ xhur mid-data meta tkun ġiet ippreżentata l-applikazzjoni:
 
 Iżda, jekk l-applikant ma jippreżentax prova dokumentarja kif meħtieġ bir-regolamenti 13 u 14(2)(a) u (b) jew, f’ċirkostanzi eċċezzjonali li jkunu marbutin mas-sħubija ta’ l-eżami ta’ l-applikazzjoni, it-terminu ta’ erba’ xhur jista’ jiġi mġedded b’perjodu ieħor ta’ mhux inqas minn tliet xhur.
 
@@ -479,11 +431,7 @@ Iżda, jekk l-applikant ma jippreżentax prova dokumentarja kif meħtieġ bir-re
 
 (8) Id-Direttur għandu jżomm lill-awtoritajiet responsabbli ta’ l-Istat Membru li kien ħareġ il-permess ta’ resident li joqgħod għal żmien twil, mgħarrfin bid-deċiżjoni li jkun ħa li joħroġ jew iġedded permess ta’ residenza taħt din it-Taqsima.
 
-(9) Id-Direttur għandu joħroġ permessi ta’ residenza lill- [L.S. 217.05 TWIL (ĊITTADINI TA’ PAJJIŻI TERZI)
-
-membri tal-familja tar-resident għal żmien twil, u dawk il-permessi għandhom, meta ssir applikazzjoni għaldaqstant, ikunu jistgħu jiġġeddu, u dawn ikunu validi għall-istess perjodu bħall-permess ta’ residenza maħruġ lir-resident għal żmien twil.
-
-*14*
+(9) Id-Direttur għandu joħroġ permessi ta’ residenza lill-membri tal-familja tar-resident għal żmien twil, u dawk il-permessi għandhom, meta ssir applikazzjoni għaldaqstant, ikunu jistgħu jiġġeddu, u dawn ikunu validi għall-istess perjodu bħall-permess ta’ residenza maħruġ lir-resident għal żmien twil.
 
 (10) Fil-każ ta’ deċiżjoni li tkun tiċħad applikazzjoni għal permessi ta’ residenza, l-avviż bil-miktub imsemmi fis-subregolament (1) għandu jkun jinkludi l-motivi għaldaqstant u d-dettalji kollha dwar il-possibilità li jkun jista’ jsir appell quddiem il-Bord.
 
@@ -510,10 +458,6 @@ Iżda:
 (1) Sakemm iċ-ċittadin ta’ pajjiż terz jikseb status ta’ resident li joqgħod għal żmien twil f’Malta taħt din it-Taqsima, id- Direttur jista’ jiċħad milli jġedded jew jista’ jiddeċiedi li jirtira l-permess ta’ residenza u jobbliga lil ċittadin ta’ pajjiż terz involut u lill-membri tal-familja tiegħu, skond d-disposizzjonijiet ta’ l-Att, li jitilqu minn Malta f’dawn il-każijiet li ġejjin:
 
 (a) minħabba f’politika pubblika jew sigurtà pubblika konformi mad-disposizzjonijiet tar-regolament 16;
-
-*15*
-
-TWIL (ĊITTADINI TA’ PAJJIŻI TERZI) [L.S. 217.05
 
 (b) meta l-kondizzjonijiet li hemm provdut dwarhom fir-regolamenti 13, 14 u 15 ma jkunux qegħdin jitħarsu aktar;
 
@@ -544,10 +488,6 @@ TWIL (ĊITTADINI TA’ PAJJIŻI TERZI) [L.S. 217.05
 (1) Meta ċittadin ta’ pajjiż terz li jkun ingħata status ta’ resident li joqgħod għal żmien twil f’Malta u, wara li jkun mar ġewwa xi Stat Membru ieħor, ikun tneħħa minn dak l-Istat għar-raġunijiet imsemmija fir-regolament 20(1), l-Uffiċjal Prinċipali ta’ l-Immigrazzjoni għandu minnufih jerġa’ jdaħħal, mingħajr ebda formalità, lil dik il-persuna u l-familja tagħha.
 
 (2) Jekk l-imsemmi ċittadin ta’ pajjiż terz ikollu wkoll protezzjoni internazzjonali f ’Malta, id-disposizzjonijiet tar-regolament 12A għandhom japplikaw.
-
-*16*
-
-[L.S. 217.05 TWIL (ĊITTADINI TA’ PAJJIŻI TERZI)
 
 ### 22. Ksib ta’ status ta’ resident li joqgħod għal żmien twil fit-tieni Stat Membru.
 

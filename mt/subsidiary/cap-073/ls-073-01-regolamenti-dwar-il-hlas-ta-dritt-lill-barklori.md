@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ħlas ta' Dritt lill-Barklori"
-identifier: "S.L. 73.1"
+identifier: "S.L. 73.01"
 eli: "https://legislation.mt/eli/sl/73.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/73.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ħlas ta' Dritt lill-Barklori (S.L. 73.1)
+# Regolamenti dwar il-Ħlas ta' Dritt lill-Barklori (S.L. 73.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 73.01**
 

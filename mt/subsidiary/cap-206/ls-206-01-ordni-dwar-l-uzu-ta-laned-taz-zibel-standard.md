@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Użu ta Laned taż-Żibel Standard"
-identifier: "S.L. 206.1"
+identifier: "S.L. 206.01"
 eli: "https://legislation.mt/eli/sl/206.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/206.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Użu ta Laned taż-Żibel Standard (S.L. 206.1)
-
-[L.S.206.01 U|U TA’ LANED TA|-|IBEL STANDARD
+# Ordni dwar l-Użu ta Laned taż-Żibel Standard (S.L. 206.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 206.01**
 

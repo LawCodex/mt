@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Ħelsien mit-Taxxa fuq l-Income u mit-Taxxa fuq Dokumenti u Trasferimenti fuq Ċerti Trasferimenti ta’ Proprjetà (S.L. 123.203)
 
-FUQ DOKUMENTI U TRASFERIMENTI FUQ ĊERTI
-
-*1*
-
-TRASFERIMENTI TA’ PROPRJETÀ [L.S.123.203 LEĠISLAZZJONI SUSSIDJARJA 123.203
+**LEĠISLAZZJONI SUSSIDJARJA 123.203**
 
 **REGOLI DWAR ĦELSIEN MIT-TAXXA FUQ L-**
 
@@ -66,12 +62,6 @@ F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
 (1) Bla ħsara għad-dispożizzjonijiet l-oħra ta’ dawn ir-regoli, ma għandha titħallas ebda taxxa fuq l-income u ma għandha titħallas ebda taxxa fuq dokumenti u trasferimenti fuq l-ewwel seba’ mija u ħamsin elf euro (€750,000) tal-valur tat-trasferiment ta’ kull trasferiment li tapplika għalih ir-regola 4 jew ir-regola 5 li jsir fit-12 ta’ Ottubru 2021 jew wara iżda mhux wara l-31 ta’ Diċembru 2026:
 
-DOKUMENTI U TRASFERIMENTI FUQ ĊERTI
-
-*2*
-
-[L.S. 123.203 TRASFERIMENTI TA’ PROPRJETÀ
-
 *     Kap. 246.*
 
 Iżda ma għandux jingħata ħelsien mit-taxxa fuq l-income u mit-taxxa fuq dokumenti u trasferimenti skont din ir-regola meta t-trasferiment isir lil persuna li teħtieġ permess mill-Ministru għall-finijiet tal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti jew li kienet teħtieġ tali permess li kieku l-proprjetà akkwistata ma kinitx tinsab f’area msemmija speċjali:
@@ -90,13 +80,11 @@ Iżda wkoll fil-każ ta’ trasferiment magħmul fl-1 ta’ Jannar 2025, jew war
 
 (3) Meta l-valur tat-trasferiment ta’ trasferiment imsemmi fis-subregola (1) jeċċedi seba’ mija u ħamsin elf euro (€750,000), it-taxxa fuq l-income u t-taxxa fuq dokumenti u trasferimenti fuq l-eċċess għandha titħallas bir-rati li japplikaw skont id-dispożizzjonijiet rilevanti tal-Att dwar it-Taxxa fuq l-Income u l-Att dwar it-Taxxa fuq Dokumenti u Trasferimenti, u bil-għan jiġu determinati r-rati msemmija dak il-porzjon tal-valur tat-trasferiment li jkun meħlus mit-taxxa fuq l-income u mit-taxxa fuq dokumenti u trasferimenti skont dawn ir-regoli għandu jitqies li jikkostitwixxi l-ewwel parti tal-valur tat-trasferiment.
 
-FUQ DOKUMENTI U TRASFERIMENTI FUQ ĊERTI
+## 4. Proprjetà vakanti.
 
-*3*
+*Emendat: A.L. 11 tal-2022.*
 
-TRASFERIMENTI TA’ PROPRJETÀ [L.S.123.203 4. (1) Din ir-regola tapplika għal kull trasferiment ta’ proprjetà li jissodisfa l-kondizzjonijiet kollha li ġejjin:
-
-*Proprjetà vakanti. Emendat: A.L. 11 tal-2022.*
+(1) Din ir-regola tapplika għal kull trasferiment ta’ proprjetà li jissodisfa l-kondizzjonijiet kollha li ġejjin:
 
 (a) il-proprjetà trasferita tkun bini u l-kostruzzjoni tagħha kienet kompluta mill-inqas għoxrin (20) sena qabel id-data tat-trasferiment;
 
@@ -122,13 +110,7 @@ TRASFERIMENTI TA’ PROPRJETÀ [L.S.123.203 4. (1) Din ir-regola tapplika għal 
 
 (a) il-proprjetà trasferita tkun tinsab, fiż-żmien tat-trasferiment, f’żona ta’ konservazzjoni urbana;
 
-(aa) il-partijiet fuq l-att tat-trasferiment jew xi ħadd minnhom jipproduċu pjanta tal-Awtorità tal-Ippjanar DOKUMENTI U TRASFERIMENTI FUQ ĊERTI
-
-*4*
-
-[L.S. 123.203 TRASFERIMENTI TA’ PROPRJETÀ
-
-b’indikazzjoni mdaħħla minn perit arkitett tad-distanza tal-proprjetà mill-eqreb kantuniera tat-triq;
+(aa) il-partijiet fuq l-att tat-trasferiment jew xi ħadd minnhom jipproduċu pjanta tal-Awtorità tal-Ippjanar b’indikazzjoni mdaħħla minn perit arkitett tad-distanza tal-proprjetà mill-eqreb kantuniera tat-triq;
 
 *       Kap. 552.  Kap. 123. Kap. 364.*
 
@@ -154,11 +136,7 @@ b’indikazzjoni mdaħħla minn perit arkitett tad-distanza tal-proprjetà mill-
 
 (d) ma jsir ebda trasferiment ta’ parti diviża ta’ dik il-proprjetà.
 
-(2) Jekk il-kondizzjoni msemmija fis-subregola (1) tkun b’xi mod miksura, il-ħelsien imsemmi mit-taxxa fuq l-income u mit-taxxa FUQ DOKUMENTI U TRASFERIMENTI FUQ ĊERTI
-
-*5*
-
-TRASFERIMENTI TA’ PROPRJETÀ [L.S.123.203 fuq dokumenti u trasferimenti mogħti b’dawn ir-regoli fuq l-imsemmi trasferiment għandu jintilef u t-total tal-ammont ta’ dik it-taxxa fuq l-income u t-taxxa fuq dokumenti u trasferimenti li jkun ġie hekk meħlus għandu jiġi pagabbli lill-Kummissarju minnufih.
+(2) Jekk il-kondizzjoni msemmija fis-subregola (1) tkun b’xi mod miksura, il-ħelsien imsemmi mit-taxxa fuq l-income u mit-taxxa fuq dokumenti u trasferimenti mogħti b’dawn ir-regoli fuq l-imsemmi trasferiment għandu jintilef u t-total tal-ammont ta’ dik it-taxxa fuq l-income u t-taxxa fuq dokumenti u trasferimenti li jkun ġie hekk meħlus għandu jiġi pagabbli lill-Kummissarju minnufih.
 
 (3) Il-persuna li tkun akkwistat il-proprjetà fiż-żmien li jkun ingħata l-ħelsien mit-taxxa fuq l-income u mit-taxxa fuq dokumenti u trasferimenti għandha tkun responsabbli għall-ħlas tal-ammont imsemmi fis-subregola (2).
 
@@ -187,12 +165,6 @@ Din ir-regola tapplika għal kull trasferimenti li jissodisfa l-kondizzjonijiet 
 (b) ikun trasferiment ta’ proprjetà li tiġi żviluppata wara d-data tat-trasferiment u l-iżvilupp jiġi approvat kif provdut fir-regola 9;
 
 (ċ) tiġi prodotta lill-Kummissarju evidenza tal-approvazzjoni msemmija fil-paragrafu (b) mhux aktar tard minn tliet (3) xhur mid-data ta’ meta tinħareġ, flimkien ma’ dik l-informazzjoni u evidenza ulterjuri kif il-Kummissarju jista’ jeħtieġ:
-
-DOKUMENTI U TRASFERIMENTI FUQ ĊERTI
-
-*6*
-
-[L.S. 123.203 TRASFERIMENTI TA’ PROPRJETÀ
 
 Iżda t-taxxa fuq dokumenti u trasferimenti fuq trasferiment li għalih tapplika din ir-regola għandha titħallas fiż-żmien tat-trasferiment mingħajr referenza għal dawn ir-regoli u l-ħelsien mill-imsemmija taxxa permess taħt dawn ir-regoli għandu jingħata effett, bla ħsara għad-dispożizzjonijiet l-oħra ta’ dawn ir-regoli, permezz ta rifużjoni tal-ammont hekk meħlus darba li l-kondizzjonijiet imsemmija f’din ir-regola jkunu sodisfatti.
 
@@ -224,11 +196,7 @@ Applikazzjoni għal rifużjoni tat-taxxa fuq dokumenti u trasferimenti li tkun t
 
 (b) soġġetta għal alterazzjonijiet strutturali jew żidiet li jirriżultaw f’tibdil materjali għad-disinn arkitettoniku approvat mill-awtorità kompetenti; jew
 
-(ċ) tinqasam f’unitajiet trasferibbli iżjed min-numru FUQ DOKUMENTI U TRASFERIMENTI FUQ ĊERTI
-
-*7*
-
-TRASFERIMENTI TA’ PROPRJETÀ [L.S.123.203 ta’ unitajiet trasferibbli li kienu jikkostitwixxu l-proprjetà fiż-żmien li kienet ingħatat l-approvazzjoni tal-awtorità kompetenti.
+(ċ) tinqasam f’unitajiet trasferibbli iżjed min-numru ta’ unitajiet trasferibbli li kienu jikkostitwixxu l-proprjetà fiż-żmien li kienet ingħatat l-approvazzjoni tal-awtorità kompetenti.
 
 (2) Jekk il-kondizzjoni msemmija fis-subregola (1) b’xi mod tiġi miksura, jekk ikun hemm ksur ta’ xi kondizzjoni imposta mill-awtorità kompetenti għall-approvazzjoni tal-iżvilupp, il-ħelsien mit-taxxa fuq dokumenti u trasferimenti fuq l-imsemmi trasferiment għandu jintilef u l-ammont li jkun ġie rifuż skont ir-regola 8 għandu jitħallas lura lill-Kummissarju minnufih.
 
@@ -246,13 +214,7 @@ Minkejja d-dispożizzjonijiet l-oħra ta’ dawn ir-regoli, meta trasferiment li
 
 (2) Persuna li tonqos milli tħares id-dispożizzjonijiet tas-subregola (1) ma għandhiex titlef, minħabba dak in-nuqqas biss, il-benefiċċju taħt dawn ir-regoli, imma dak in-nuqqas jista’ jiġi kkunsidrat bħala ksur ta’ kondizzjoni għal xi għotja jew benefiċċju ieħor li jista’ jingħata taħt xi liġi, jew regoli jew skema għal persuni li jagħmlu akkwist imsemmi fis-subregola (1):
 
-Iżda n-nutar li jippubblika xi att tat-trasferiment bħal dak ma għandux ikun responsabbli għal xi taxxa li ma tkunx ġiet ħekk miġbura minħabba l-imsemmi nuqqas jew ksur fuq xi att sussegwenti u l-parti l-oħra fuq l-att ma għandhiex tkun responsabbli għal xi ksur bħal dak mill-imsemmija persuna u tkun tistaħ tibbenefika mill- DOKUMENTI U TRASFERIMENTI FUQ ĊERTI
-
-*8*
-
-[L.S. 123.203 TRASFERIMENTI TA’ PROPRJETÀ
-
-imsemmija eżenzjonijiet mogħtija taħt din ir-regola.
+Iżda n-nutar li jippubblika xi att tat-trasferiment bħal dak ma għandux ikun responsabbli għal xi taxxa li ma tkunx ġiet ħekk miġbura minħabba l-imsemmi nuqqas jew ksur fuq xi att sussegwenti u l-parti l-oħra fuq l-att ma għandhiex tkun responsabbli għal xi ksur bħal dak mill-imsemmija persuna u tkun tistaħ tibbenefika mill-imsemmija eżenzjonijiet mogħtija taħt din ir-regola.
 
 (3) Din ir-regola hija bla preġudizzju għat-termini u l-kondizzjonijiet kollha ta’ kull liġi, regoli jew skema msemmija fis-subregola (2).
 
@@ -274,10 +236,6 @@ Minkejja d-dispożizzjonijiet l-oħra ta’ dawn ir-regoli, meta trasferiment ta
 
 *Miżjud: A.L. 11 tal-2022.    L.S. 372.28.*
 
-(1) Kull ammont li jkun irid jitħallas lill-Kummissarju minħabba ksur ta’ xi kondizzjoni kif provdut fir-regola 6 jew ir-regola 11 għandu jitqies bħala ammont li kien dovut mill-persuna responsabbli għall-ħlas tiegħu skont l-imsemmija regoli fid-data meta l-kondizzjoni in kwistjoni inkisret u għandu jitħallas minnufih fuq talba tal- Kummissarju bl-imgħax li jgħaddi mill-imsemmija data bir-rata stabbilita skont ir-Regoli dwar it-Taxxa fuq l-Income (Rata ta’ Mgħax). FUQ DOKUMENTI U TRASFERIMENTI FUQ ĊERTI
-
-*9*
-
-TRASFERIMENTI TA’ PROPRJETÀ [L.S.123.203 (2) Is-subregola (1) għandha tkun mingħajr ħsara għal kull responsabbiltà ulterjuri li toħroġ skont kwalunkwe dispożizzjoni tal- Atti dwar it-Taxxa fuq l-Income u l-Att dwar it-Taxxa fuq Dokumenti u Trasferimenti b’rabta mat-trasferiment tal-proprjetà in kwistjoni, b’dana iżda li l-ksur ta’ kondizzjoni imposta fl-imsemmija regoli 6 u 11 ma għandux, minnu nnifsu, jitqies li jagħti lok għal responsabbiltà ulterjuri bħal din.
+(1) Kull ammont li jkun irid jitħallas lill-Kummissarju minħabba ksur ta’ xi kondizzjoni kif provdut fir-regola 6 jew ir-regola 11 għandu jitqies bħala ammont li kien dovut mill-persuna responsabbli għall-ħlas tiegħu skont l-imsemmija regoli fid-data meta l-kondizzjoni in kwistjoni inkisret u għandu jitħallas minnufih fuq talba tal- Kummissarju bl-imgħax li jgħaddi mill-imsemmija data bir-rata stabbilita skont ir-Regoli dwar it-Taxxa fuq l-Income (Rata ta’ Mgħax). (2) Is-subregola (1) għandha tkun mingħajr ħsara għal kull responsabbiltà ulterjuri li toħroġ skont kwalunkwe dispożizzjoni tal- Atti dwar it-Taxxa fuq l-Income u l-Att dwar it-Taxxa fuq Dokumenti u Trasferimenti b’rabta mat-trasferiment tal-proprjetà in kwistjoni, b’dana iżda li l-ksur ta’ kondizzjoni imposta fl-imsemmija regoli 6 u 11 ma għandux, minnu nnifsu, jitqies li jagħti lok għal responsabbiltà ulterjuri bħal din.
 
 *   Kap. 364.*

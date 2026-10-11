@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Amalgamazzjoni ta' Organizzazzjonijiet"
-identifier: "S.L. 16.9"
+identifier: "S.L. 16.09"
 eli: "https://legislation.mt/eli/sl/16.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/16.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Amalgamazzjoni ta' Organizzazzjonijiet (S.L. 16.9)
+# Regolamenti dwar Amalgamazzjoni ta' Organizzazzjonijiet (S.L. 16.09)
 
 LE{ISLAZZJONI SUSSIDJARJA 16.09
 

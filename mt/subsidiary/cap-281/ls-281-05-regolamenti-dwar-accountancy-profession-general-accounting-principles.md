@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Accountancy Profession (General Accounting Principles for Small and Medium-Sized Entities)"
-identifier: "S.L. 281.5"
+identifier: "S.L. 281.05"
 eli: "https://legislation.mt/eli/sl/281.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,21 +14,13 @@ version: "https://legislation.mt/eli/sl/281.5/20240501/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Accountancy Profession (General Accounting Principles for Small and Medium-Sized Entities) (S.L. 281.5)
-
-PROFESSJONI TAL-ACCOUNTANCY (GENERAL ACCOUNTING
-
-*1*
-
-PRINCIPLES FOR SMALL AND MEDIUM-SIZED ENTITIES) [L.S.281.05
+# Regolamenti dwar Accountancy Profession (General Accounting Principles for Small and Medium-Sized Entities) (S.L. 281.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 281.05**
 
 **REGOLAMENTI DWAR IL-PROFESSJONI**
 
-**TAL-ACCOUNTANCY (GENERAL ACCOUNTING**
-
-**PRINCIPLES FOR SMALL AND MEDIUM-SIZED**
+TAL-ACCOUNTANCY (GENERAL ACCOUNTING PRINCIPLES FOR SMALL AND MEDIUM-SIZED
 
 **ENTITIES)\***
 

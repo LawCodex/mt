@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar it-Tnaqqis meta l-Impjant u l-Makkinarju jitkabar bl-Użu Ordinarju"
-identifier: "S.L. 123.1"
+identifier: "S.L. 123.01"
 eli: "https://legislation.mt/eli/sl/123.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar it-Tnaqqis meta l-Impjant u l-Makkinarju jitkabar bl-Użu Ordinarju (S.L. 123.1)
-
-*1*
-
-ORDINARJU TA’ IMPJANT U MAKKINARJU [L.S.123.01
+# Regoli dwar it-Tnaqqis meta l-Impjant u l-Makkinarju jitkabar bl-Użu Ordinarju (S.L. 123.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 123.01**
 
@@ -86,10 +82,6 @@ Meta attiv jintu\\a kemm fil-produzzjoni ta’ l-income kemm g]al finijiet o]ra,
 ## 12. Attiv li fuqu jkunu qabel intalbu allowances.
 
 Il-valur miktub ta’ impjant u makkinarju li dwarhom ikun [ie permess tnaqqis g]al tqag]bir bl-u\\u qabel is-sena ta’ stima 2002 g]andu, g]all-fini ta’ dawn ir-regoli, jitqies li jkun in-nefqa ta’ l-akkwist li fuqu g]andhom ji[u permessi allowances g]al tqag]bir bl-u\\u, skond dawn ir-regoli, g]al dik is-sena ta’ stima u g]al snin ta’ stima li ji[u wara g]ar-rigward ta’ tali impjant u makkinarju.
-
-*3*
-
-ORDINARJU TA’ IMPJANT U MAKKINARJU [L.S.123.01
 
 ## SKEDA
 

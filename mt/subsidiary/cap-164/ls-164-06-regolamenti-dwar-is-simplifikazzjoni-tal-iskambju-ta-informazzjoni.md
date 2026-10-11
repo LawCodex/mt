@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar is-Simplifikazzjoni tal-Iskambju ta’ Informazzjoni bejn l-Awtoritajiet Nazzjonali tal-Infurzar tal-Liġi u Awtoritajiet oħra tal-Istati Membri tal-Unjoni Ewropea li għandhom setgħat simili"
-identifier: "S.L. 164.6"
+identifier: "S.L. 164.06"
 eli: "https://legislation.mt/eli/sl/164.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,15 +14,7 @@ version: "https://legislation.mt/eli/sl/164.6/20250408/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar is-Simplifikazzjoni tal-Iskambju ta’ Informazzjoni bejn l-Awtoritajiet Nazzjonali tal-Infurzar tal-Liġi u Awtoritajiet oħra tal-Istati Membri tal-Unjoni Ewropea li għandhom setgħat simili (S.L. 164.6)
-
-BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*1*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
+# Regolamenti dwar is-Simplifikazzjoni tal-Iskambju ta’ Informazzjoni bejn l-Awtoritajiet Nazzjonali tal-Infurzar tal-Liġi u Awtoritajiet oħra tal-Istati Membri tal-Unjoni Ewropea li għandhom setgħat simili (S.L. 164.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 164.06**
 
@@ -54,14 +46,6 @@ L-AVVIŻ LEGALI 70 tal-2025.
 
 (ċ) l-għoti mill-awtoritajiet kompetenti tal-infurzar tal-liġi, fuq inizjattiva tagħhom, ta’ informazzjoni rilevanti lill- Punti Uniċi ta’ Kuntatt ta’ Stati Membri oħra jew lill-awtoritajiet kompetenti tal-infurzar tal-liġi ta’ Stati Membri oħra, b’mod partikolari s-sitwazzjonijiet u l-mod li bih għandha tiġi pprovduta tali informazzjoni;
 
-**BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR**
-
-**TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI**
-
-*[L.S. 164.06 2*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI
-
 (d) il-mezz prestabbilit ta’ komunikazzjoni li għandu jintuża għall-iskambji kollha ta’ informazzjoni skont dawn ir-regolamenti u l-informazzjoni li għandha tiġi pprovduta lill- Punti Uniċi ta’ Kuntatt ta’ Stati Membri oħra b’rabta mal-iskambju ta’ informazzjoni direttament bejn l-awtoritajiet kompetenti tal-infurzar tal-liġi.
 
 ## 2. Tifsir.
@@ -78,15 +62,7 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 
 "informazzjoni" tfisser kwalunkwe kontenut li jikkonċerna persuna fiżika jew ġuridika waħda (1) jew aktar, fatti jew ċirkostanzi rilevanti għall-awtoritajiet kompetenti tal-infurzar tal-liġi għall-fini tat-twettiq tal-kompiti tagħhom skont il-liġi nazzjonali tal-prevenzjoni, is-sejbien jew l-investigazzjoni ta’ reati kriminali, inkluża l-intelligence kriminali;
 
-"informazzjoni direttament aċċessibbli" tfisser BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*3*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
-
-informazzjoni miżmuma f’bażi tad-data li tista’ tiġi aċċessata direttament mit-Taqsima tar-Relazzjonijiet Internazzjonali, jew mill-Punt Uniku ta’ Kuntatt ta’ Stat Membru ieħor jew minn awtorità kompetenti tal-infurzar tal-liġi tal-Istat Membru li mingħandu tintalab l-informazzjoni;
+"informazzjoni direttament aċċessibbli" tfisser informazzjoni miżmuma f’bażi tad-data li tista’ tiġi aċċessata direttament mit-Taqsima tar-Relazzjonijiet Internazzjonali, jew mill-Punt Uniku ta’ Kuntatt ta’ Stat Membru ieħor jew minn awtorità kompetenti tal-infurzar tal-liġi tal-Istat Membru li mingħandu tintalab l-informazzjoni;
 
 "informazzjoni disponibbli" tfisser informazzjoni direttament aċċessibbli u indirettament aċċessibbli;
 
@@ -102,11 +78,7 @@ informazzjoni miżmuma f’bażi tad-data li tista’ tiġi aċċessata direttam
 
 "Regolament tal-Europol" tfisser ir-Regolament (UE) 2016/794 tal-Parlament Ewropew u tal-Kunsill tal-11 ta’ Mejju 2016 dwar l-Aġenzija tal-Unjoni Ewropea għall-Kooperazzjoni fl-Infurzar tal-Liġi (Europol) u li jissostitwixxi u jħassar id- Deċiżjonijiet tal-Kunsill 2009/371/ĠAI, 2009/934/ĠAI, 2009/ 935/ĠAI, 2009/936/ĠAI u 2009/968/ĠAI;
 
-"Taqsima tar-Relazzjonijiet Internazzjonali" tfisser it- Taqsima tar-Relazzjonijiet Internazzjonali fi ħdan il-Korp tal- BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI [L.S. 164.06 TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI
-
-Pulizija ta’ Malta u li għandha tkun il-Punt Uniku ta’ Kuntatt kif stabbilit fir-regolament 4.
-
-*4*
+"Taqsima tar-Relazzjonijiet Internazzjonali" tfisser it- Taqsima tar-Relazzjonijiet Internazzjonali fi ħdan il-Korp tal- Pulizija ta’ Malta u li għandha tkun il-Punt Uniku ta’ Kuntatt kif stabbilit fir-regolament 4.
 
 ## 3. Applikabbiltà.
 
@@ -132,15 +104,7 @@ Għandu jiġi żgurat li l-iskambji kollha ta’ informazzjoni skont dawn ir-reg
 
 (a) provduti lill-Punti Uniċi ta’ Kuntatt ta’ Stati Membri oħra jew lill-awtoritajiet kompetenti tal-infurzar tal-liġi ta’ Stati Membri oħra skont il-prinċipju tad-disponibbiltà;
 
-(b) soġġetti għal kundizzjonijiet ekwivalenti meta tintalab informazzjoni simili minn, u tipprovdi informazzjoni simili lill-Punti Uniċi ta’ Kuntatt ta’ Stati Membri oħra u lill- BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*5*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
-
-awtoritajiet kompetenti tal-infurzar tal-liġi ta’ Stati Membri oħra skont il-prinċipju tal-aċċess ekwivalenti;
+(b) soġġetti għal kundizzjonijiet ekwivalenti meta tintalab informazzjoni simili minn, u tipprovdi informazzjoni simili lill-Punti Uniċi ta’ Kuntatt ta’ Stati Membri oħra u lill-awtoritajiet kompetenti tal-infurzar tal-liġi ta’ Stati Membri oħra skont il-prinċipju tal-aċċess ekwivalenti;
 
 * Kap. 377.*
 
@@ -164,11 +128,7 @@ awtoritajiet kompetenti tal-infurzar tal-liġi ta’ Stati Membri oħra skont il
 
 (d) tipprovdi, fuq talba jew fuq inizjattiva tagħha stess, informazzjoni lill-Istati Membri l-oħra skont ir-regolamenti 8 u 10;
 
-(e) tirrifjuta li tipprovdi informazzjoni skont ir-regolament 9 u fejn meħtieġ, titlob kjarifiki jew BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI [L.S. 164.06 TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI
-
-speċifikazzjonijiet skont ir-regolament 9(6);
-
-*6*
+(e) tirrifjuta li tipprovdi informazzjoni skont ir-regolament 9 u fejn meħtieġ, titlob kjarifiki jew speċifikazzjonijiet skont ir-regolament 9(6);
 
 (f) tibgħat talbiet għal informazzjoni lill-Punti Uniċi ta’ Kuntatt ta’ Stati Membri oħra skont ir-regolament 7 u fejn meħtieġ, tipprovdi kjarifiki jew speċifikazzjonijiet skont regolament 9(6).
 
@@ -190,15 +150,7 @@ Iżda l-awtoritajiet tal-infurzar tal-liġi maħtura elenkati fl- Iskeda għandh
 
 (ċ) l-Uffiċċju Ċentrali Nazzjonali tal-Interpol stabbilit mill-Artikolu 32 tal-Kostituzzjoni tal-Organizzazzjoni Internazzjonali tal-Pulizija Kriminali – Interpol.
 
-(7) It-Taqsima tar-Relazzjonijiet Internazzjonali għandha BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*7*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
-
-tinforma lill-Kummissjoni Ewropea fejn ikun hemm bidliet fir-rigward tat-twaqqif jew tal-ħatra tagħha.
+(7) It-Taqsima tar-Relazzjonijiet Internazzjonali għandha tinforma lill-Kummissjoni Ewropea fejn ikun hemm bidliet fir-rigward tat-twaqqif jew tal-ħatra tagħha.
 
 ## 6. Taħriġ.
 
@@ -224,10 +176,6 @@ Il-persunal tat-Taqsima tar-Relazzjonijiet Internazzjonali għandu jingħata ta�
 
 (ċ) sigurtà ta’ individwu.
 
-BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI [L.S. 164.06 TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI
-
-*8*
-
 (4) It-talbiet għal informazzjoni għandhom biss jiġu sottomessi lill-Punt Uniku ta’ Kuntatt ta’ Stat Membru ieħor fejn ikun hemm raġunijiet oġġettivi sabiex wieħed jemmen, skont il-linji gwida interni, li:
 
 (a) l-informazzjoni mitluba tkun meħtieġa u proporzjonata sabiex jintlaħaq l-iskop imsemmi fir-regolament 1; u
@@ -249,14 +197,6 @@ BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-I
 (a) speċifikazzjoni tal-informazzjoni mitluba li tkun dettaljata kemm jista’ jkun raġonevolment possibbli fiċ-ċirkostanzi partikolari;
 
 (b) deskrizzjoni tal-iskop li għalih qiegħda tintalab l-informazzjoni, inklużi deskrizzjoni tal-fatti u indikazzjoni tar-reat sottostanti;
-
-BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*9*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
 
 (ċ) ir-raġunijiet oġġettivi li għalihom huwa maħsub li l-informazzjoni mitluba hija disponibbli għat-Taqsima tar- Relazzjonijiet Internazzjonali;
 
@@ -282,13 +222,11 @@ TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
 
 (ċ) sebat (7) ijiem kalendarji fil-każ tat-talbiet l-oħra kollha:
 
-Iżda l-limiti ta’ żmien stabbiliti f’dan is-subregolament għandhom jibdew jiddekorru malli tasal it-talba għall-informazzjoni. BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI [L.S. 164.06 TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI
+Iżda l-limiti ta’ żmien stabbiliti f’dan is-subregolament għandhom jibdew jiddekorru malli tasal it-talba għall-informazzjoni.
 
 *Kap. 586.  L.S. 586.08.*
 
 (2) Bla ħsara għal kwalunkwe dispożizzjoni oħra taħt l-Att dwar il-Protezzjoni tad-Data jew ir-Regolamenti dwar il-Protezzjoni tad-Data (Ipproċessar ta’ Data Personali minn Awtoritajiet Kompetenti għall-Finijiet tal-Prevenzjoni, l-Investigazzjoni, is-Sejbien jew il-Prosekuzzjoni ta’ Reati Kriminali jew l-Eżekuzzjoni ta’ Pieni Kriminali), it-Taqsima tar-Relazzjonijiet Internazzjonali għandha tiskambja l-informazzjoni diġà disponibbli għaliha ma’ awtoritajiet kompetenti oħra tal-infurzar tal-liġi ta’ Stati Membri oħra bħallikieku dawn kienu stabbiliti f’Malta.
-
-*10*
 
 (3) Fejn l-informazzjoni tista’, skont kwalunkwe dispożizzjoni rilevanti tal-liġi Maltija, tkun aċċessata mit-Taqsima tar- Relazzjonijiet Internazzjonali biss fuq l-awtorizzazzjoni ta’ awtorità ġudizzjarja, it-Taqsima tar-Relazzjonijiet Internazzjonali għandha toqgħod lura milli tikkomunika l-informazzjoni lill-awtoritajiet kompetenti tal-infurzar tal-liġi ta’ Stati Membri oħra, sakemm l-awtoritajiet ġudizzjarji jawtorizzaw il-komunikazzjoni ta’ tali informazzjoni. Din l-awtorizzazzjoni għandha dejjem tintalab kull meta l-awtorità li qiegħda tagħmel it-talba titlob aċċess għal informazzjoni konnessa ma’ xi inkjesta dwar l-in genere, jew kwalunkwe aċċessi jew repertus jew kull meta l-informazzjoni tkun meħtieġa għall-użu bħala evidenza:
 
@@ -300,15 +238,7 @@ Iżda dik l-awtorizzazzjoni għandha tintalab mill-Avukat Ġenerali kull meta aw
 
 (b) sussegwentament iżżomm aġġornati lill-Punt Uniku ta’ Kuntatt jew, meta applikabbli, lill-awtorità tal-infurzar tal-liġi maħtura tal-Istat Membru li jkun qiegħed jagħmel it-talba, u tipprovdi l-informazzjoni mitluba kemm jista’ jkun malajr wara li tikseb l-awtorizzazzjoni ġudizzjarja.
 
-(5) It-Taqsima tar-Relazzjonijiet Internazzjonali għandha tipprovdi l-informazzjoni mitluba skont regolament 7 lill-Punt Uniku ta’ Kuntatt jew, meta applikabbli, lill-awtorità tal-infurzar tal-liġi maħtura tal-Istat Membru li jkun qiegħed jagħmel it-talba, bil-lingwa li biha ġiet sottomessa dik it-talba għal informazzjoni skont BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*11*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
-
-regolament 7(7).
+(5) It-Taqsima tar-Relazzjonijiet Internazzjonali għandha tipprovdi l-informazzjoni mitluba skont regolament 7 lill-Punt Uniku ta’ Kuntatt jew, meta applikabbli, lill-awtorità tal-infurzar tal-liġi maħtura tal-Istat Membru li jkun qiegħed jagħmel it-talba, bil-lingwa li biha ġiet sottomessa dik it-talba għal informazzjoni skont regolament 7(7).
 
 (6) It-Taqsima tar-Relazzjonijiet Internazzjonali għandha tibgħat kopja tal-informazzjoni mitluba lill-Punt Uniku ta’ Kuntatt tal- Istat Membru li jkun qiegħed jagħmel it-talba, fl-istess ħin li tipprovdi l-informazzjoni mitluba lill-awtorità tal-infurzar tal-liġi maħtura ta’ dak l-Istat Membru l-ieħor.
 
@@ -336,10 +266,6 @@ regolament 7(7).
 
 (e) l-informazzjoni mitluba nstabet li ma hijiex preċiża, ma hijiex kompluta jew ma għadhiex iktar aġġornata u ma tistax tiġi pprovduta skont ir-regolament 7(2) u (3) tar- Regolamenti dwar il-Protezzjoni tad-Data (Ipproċessar ta’ Data Personali minn Awtoritajiet Kompetenti għall-Finijiet tal- Prevenzjoni, l-Investigazzjoni, is-Sejbien jew il-Prosekuzzjoni ta’ Reati Kriminali jew l-Eżekuzzjoni ta’ Pieni Kriminali);
 
-BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI [L.S. 164.06 TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI
-
-*12*
-
 (f) ikun hemm raġunijiet oġġettivi sabiex wieħed jemmen li l-għoti tal-informazzjoni mitluba:
 
 (i) tmur kontra jew tikkaġuna ħsara lill-interessi essenzjali tas-sigurtà nazzjonali ta’ Malta;
@@ -364,14 +290,6 @@ BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-I
 
 (5) It-Taqsima tar-Relazzjonijiet Internazzjonali għandha tinforma lill-Punt Uniku ta’ Kuntatt jew, fejn applikabbli, lill-awtorità maħtura tal-infurzar tal-liġi tal-Istat Membru li qiegħed jagħmel it-talba, bir-rifjut tat-talba għal informazzjoni, filwaqt li jispeċifika r-raġunijiet għat-tali rifjut, fil-limiti ta’ żmien stabbiliti fir-regolament 8(1).
 
-BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*13*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
-
 (6) It-Taqsima tar-Relazzjonijiet Internazzjonali għandha titlob minnufih, mill-Punt Uniku ta’ Kuntatt jew, fejn applikabbli, l-awtorità maħtura tal-infurzar tal-liġi tal-Istat Membru li qiegħed jagħmel it-talba, il-kjarifika jew l-ispeċifikazzjonijiet meħtieġa sabiex tiġi pproċessata talba għal informazzjoni li kieku xort’oħra kien ikollha tiġi rrifjutata:
 
 Iżda l-limiti ta’ żmien stabbiliti fir-regolament 8(1) għandhom jiġu sospiżi mill-mument li l-Punt Uniku ta’ Kuntatt jew, fejn applikabbli, l-awtorità maħtura tal-infurzar tal-liġi tal-Istat Membru li qiegħed jagħmel it-talba, jirċievu t-talba għal kjarifika jew għal speċifikazzjonijiet sal-mument li l-kjarifiki jew speċifikazzjonijiet mitluba jiġu pprovduti.
@@ -386,11 +304,7 @@ Iżda l-limiti ta’ żmien stabbiliti fir-regolament 8(1) għandhom jiġu sospi
 
 (3) It-Taqsima tar-Relazzjonijiet Internazzjonali jew l-awtoritajiet kompetenti tal-infurzar tal-liġi għandhom jipprovdu, fuq inizjattiva tagħhom stess, l-informazzjoni disponibbli għalihom lill- Punti Uniċi ta’ Kuntatt jew lill-awtoritajiet kompetenti tal-infurzar tal-liġi ta’ Stati Membri oħra fejn ikun hemm raġunijiet oġġettivi sabiex wieħed jemmen li tali informazzjoni tista’ tkun rilevanti għal dawk l- Istati Membri l-oħra għall-fini ta’ prevenzjoni, identifikazzjoni jew investigazzjoni ta’ reati kriminali serji.
 
-(4) Minkejja d-dispożizzjoni tas-subregolament (1), it- Taqsima tar-Relazzjonijiet Internazzjonali jew l-awtoritajiet kompetenti tal-infurzar tal-liġi ma għandhomx jipprovdu BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI [L.S. 164.06 TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI
-
-informazzjoni f’każijiet imsemmija fir-regolament 9(1)(ċ) jew (f).
-
-*14*
+(4) Minkejja d-dispożizzjoni tas-subregolament (1), it- Taqsima tar-Relazzjonijiet Internazzjonali jew l-awtoritajiet kompetenti tal-infurzar tal-liġi ma għandhomx jipprovdu informazzjoni f’każijiet imsemmija fir-regolament 9(1)(ċ) jew (f).
 
 (5) Meta tipprovdi informazzjoni fuq inizjattiva tagħha stess, it-Taqsima tar-Relazzjonijiet Internazzjonali għandha tikkopja lill- Punt Uniku ta’ Kuntatt tal-Istat Membru l-ieħor meta tiskambja informazzjoni mal-awtoritajiet kompetenti tal-infurzar tal-liġi tal-Istat Membru l-ieħor.
 
@@ -410,15 +324,7 @@ informazzjoni f’każijiet imsemmija fir-regolament 9(1)(ċ) jew (f).
 
 (2) L-awtoritajiet maħtura tal-infurzar tal-liġi elenkati fl- Iskeda għandhom jibagħtu fl-istess waqt, kopja tal-informazzjoni mitluba lit-Taqsima tar-Relazzjonijiet Internazzjonali u lill-Punt Uniku ta’ Kuntatt tal-Istat Membru l-ieħor.
 
-(3) L-awtoritajiet maħtura tal-infurzar tal-liġi elenkati fl- Iskeda għandhom jibagħtu kopji ta’ talbiet għal informazzjoni u kopji ta’ informazzjoni lit-Taqsima tar-Relazzjonijiet Internazzjonali u lill- Punt Uniku ta’ Kuntatt ta’ Stat Membru ieħor, fl-istess waqt li jibagħtu talbiet għal informazzjoni jew jibagħatu informazzjoni miġbura skont talba lill-awtoritajiet kompetenti tal-infurzar tal-liġi ta’ Stat Membru BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*15*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
-
-ieħor.
+(3) L-awtoritajiet maħtura tal-infurzar tal-liġi elenkati fl- Iskeda għandhom jibagħtu kopji ta’ talbiet għal informazzjoni u kopji ta’ informazzjoni lit-Taqsima tar-Relazzjonijiet Internazzjonali u lill- Punt Uniku ta’ Kuntatt ta’ Stat Membru ieħor, fl-istess waqt li jibagħtu talbiet għal informazzjoni jew jibagħatu informazzjoni miġbura skont talba lill-awtoritajiet kompetenti tal-infurzar tal-liġi ta’ Stat Membru ieħor.
 
 (4) It-Taqsima tar-Relazzjonijiet Internazzjonali jew l-awtoritajiet maħtura tal-infurzar tal-liġi elenkati fl-Iskeda ma jistgħux jibagħtu kopji ta’ talbiet jew informazzjoni meta dan ikun jipperikola wieħed jew aktar minn dawn li ġejjin:
 
@@ -446,11 +352,7 @@ Meta jipprovdu data personali fuq talba għal informazzjoni, it-Taqsima tar-Rela
 
 (b) il-kategoriji ta’ data personali pprovduta skont il-kategorija tas-suġġett tad-data jibqgħu limitati għal dawk elenkati fit-Taqsima B tal-Anness II tar-Regolament tal- Europol, u huma meħtieġa u proporzjonati sabiex jintlaħaq l-għan tat-talba;
 
-(ċ) jipprovdu, fl-istess ħin u sa fejn ikun possibbli, l-elementi meħtieġa li jippermettu lill-Punt Uniku ta’ Kuntatt jew BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI [L.S. 164.06 TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI
-
-lill-awtorità kompetenti tal-infurzar tal-liġi ta’ Stat Membru ieħor sabiex jivvalutaw il-grad ta’ preċiżjoni, kompletezza u affidabbiltà tad-data personali u sa liema punt id-data personali tkun aġġornata.
-
-*16*
+(ċ) jipprovdu, fl-istess ħin u sa fejn ikun possibbli, l-elementi meħtieġa li jippermettu lill-Punt Uniku ta’ Kuntatt jew lill-awtorità kompetenti tal-infurzar tal-liġi ta’ Stat Membru ieħor sabiex jivvalutaw il-grad ta’ preċiżjoni, kompletezza u affidabbiltà tad-data personali u sa liema punt id-data personali tkun aġġornata.
 
 ## 14. L-għoti ta’ informazzjoni lill- Europol.
 
@@ -470,14 +372,6 @@ lill-awtorità kompetenti tal-infurzar tal-liġi ta’ Stat Membru ieħor sabiex
 
 (b) l-urġenza tat-talba għal informazzjoni teħtieġ l-użu temporanju ta’ mezz ta’ komunikazzjoni ieħor;
 
-BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*17*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
-
 (ċ) ikun hemm inċident tekniku jew operazzjonali mhux mistenni li jipprevjeni lit-Taqsima tar-Relazzjonijiet Internazzjonali jew lill-awtoritajiet kompetenti tal-infurzar tal-liġi milli jużaw is-SIENA għall-iskambju tal-informazzjoni.
 
 (3) Għandu jiġi żgurat li t-Taqsima tar-Relazzjonijiet Internazzjonali u l-awtoritajiet maħtura tal-infurzar tal-liġi kollha elenkati fl-Iskeda jkunu direttament konnessi mas-SIENA, inkluż fejn xieraq, permezz ta’ apparati mobbli, għall-finijiet ta’ dawn ir-regolamenti.
@@ -495,10 +389,6 @@ TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
 (d) tagħmel kontroverifika tat-talbiet li jidħlu għall-informazzjoni kif imsemmi fir-regolamenti 8 u 11, mal-informazzjoni disponibbli għat-Taqsima tar-Relazzjonijiet Internazzjonali, inkluża l-informazzjoni pprovduta skont ir-regolamenti 8(6) u 10(5) u informazzjoni rilevanti oħra rreġistrata fis-sistema elettronika unika ta’ ġestjoni tal-każijiet;
 
 (e) tiżgura segwitu adegwat u rapidu għat-talbiet li jidħlu għall-informazzjoni kif imsemmi fir-regolament 7, b’mod partikolari bil-ħsieb li jiġu osservati l-limiti ta’ żmien għall-għoti tal-informazzjoni mitluba stabbiliti fir-regolament 7;
-
-BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI [L.S. 164.06 TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI
-
-*18*
 
 (f) tkun interoperabbli mas-SIENA, u li tiżgura b’mod partikolari li l-komunikazzjonijiet li jidħlu permezz tas- SIENA jkunu jistgħu jiġu rreġistrati direttament fis-sistema elettronika unika ta’ ġestjoni tal-każijiet u li l-komunikazzjonijiet li joħorġu permezz tas-SIENA jkunu jistgħu jintbagħtu direttament minnha;
 
@@ -518,15 +408,7 @@ BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR TAL-LIĠI U AWTORITAJIET OĦRA TAL-I
 
 (1) It-Taqsima tar-Relazzjonijiet Internazzjonali u l-awtoritajiet kompetenti tal-infurzar tal-liġi għandhom jiżguraw kooperazzjoni prattika bejniethom abbażi ta’ linji gwida stabbiliti, ftehimiet interdipartimentali, laqgħat regolari u taħriġ komuni.
 
-(2) Il-Kap tat-Taqsima tar-Relazzjonijiet Internazzjonali, jew kwalunkwe uffiċjal delegat mill-Kap, għandu tal-anqas fuq bażi annwali, jivvaluta l-kwalità tal-kooperazzjoni bejn l-awtoritajiet BEJN L-AWTORITAJIET NAZZJONALI TAL-INFURZAR
-
-TAL-LIĠI U AWTORITAJIET OĦRA TAL-ISTATI MEMBRI
-
-*19*
-
-TAL-UNJONI EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S. 164.06
-
-kompetenti, jiddiskuti miżuri tekniċi jew organizzattivi meħtieġa fil-każ ta’ kwalunkwe diffikultà u jiċċara l-proċeduri fejn meħtieġ.
+(2) Il-Kap tat-Taqsima tar-Relazzjonijiet Internazzjonali, jew kwalunkwe uffiċjal delegat mill-Kap, għandu tal-anqas fuq bażi annwali, jivvaluta l-kwalità tal-kooperazzjoni bejn l-awtoritajiet kompetenti, jiddiskuti miżuri tekniċi jew organizzattivi meħtieġa fil-każ ta’ kwalunkwe diffikultà u jiċċara l-proċeduri fejn meħtieġ.
 
 ## 18. Statistika.
 

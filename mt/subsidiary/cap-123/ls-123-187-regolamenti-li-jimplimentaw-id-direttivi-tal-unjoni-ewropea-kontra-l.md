@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regolamenti li Jimplimentaw id-Direttivi tal-Unjoni Ewropea kontra l-Evitar tat-Taxxa (S.L. 123.187)
 
-*1*
-
-TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 LEĠISLAZZJONI SUSSIDJARJA 123.187
+**LEĠISLAZZJONI SUSSIDJARJA 123.187**
 
 **REGOLAMENTI LI JIMPLIMENTAW ID-DIRETTIVI**
 
@@ -49,22 +47,11 @@ It-titolu ta’ dawn ir-regolamenti huwa r-Regolamenti li Jimplimentaw id-Dirett
 
 Għall-finijiet ta’ dawn ir-regolamenti sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
-"arranġament strutturat" tfisser arranġament li jinvolvi diskrepanza ibrida fejn l-eżitu tad-diskrepanza huwa pprezzat fit-termini tal-arranġament, jew
+"arranġament strutturat" tfisser arranġament li jinvolvi diskrepanza ibrida fejn l-eżitu tad-diskrepanza huwa pprezzat fit-termini tal-arranġament, jew arranġament li jkun tfassal biex jipproduċi eżitu ta’ diskrepanza ibrida, ħlief jekk il-kontribwent jew impriża assoċjata ma setax ikun raġonevolment mistenni minnhom li jkunu konxji tad-diskrepanza ibrida u ma kkondividewx fil-valur tal-benefiċċju tat-taxxa li jirriżulta mid-diskrepanza ibrida;
 
-arranġament li jkun tfassal biex jipproduċi eżitu ta’  
-diskrepanza ibrida, ħlief jekk il-kontribwent jew  
-impriża assoċjata ma setax ikun raġonevolment  
-mistenni minnhom li jkunu konxji tad-diskrepanza  
-ibrida u ma kkondividewx fil-valur tal-benefiċċju  
-tat-taxxa li jirriżulta mid-diskrepanza ibrida;  
-"diskrepanza ibrida" tfisser sitwazzjoni li tinvolvi  
-kontribwent jew, fir-rigward tar-regolament 9(3),  
-entità, fejn:  
-(a)  pagament taħt strument finanzjarju jwassal
+"diskrepanza ibrida" tfisser sitwazzjoni li tinvolvi kontribwent jew, fir-rigward tar-regolament 9(3), entità, fejn:
 
-*2*
-
-[L.S. 123.187 TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA għal eżitu ta’ tnaqqis mingħajr inklużjoni u:
+(a) pagament taħt strument finanzjarju jwassal għal eżitu ta’ tnaqqis mingħajr inklużjoni u:
 
 (i) pagament bħal dan ma jiġix inkluż f’perijodu ta’ żmien raġonevoli; u
 
@@ -80,11 +67,9 @@ Għall-finijiet tas-subparagrafu (i), pagament taħt strument finanzjarju għand
 
 (ċ) pagament lil entità bi stabbiliment permanenti wieħed (1) jew aktar iwassal għal tnaqqis mingħajr inklużjoni u dak l-eżitu ta’ diskrepanza huwa r-riżultat ta’ differenzi fl-allokazzjoni ta’ pagamenti bejn l-uffiċċju prinċipali u stabbiliment permanenti jew bejn żewġ (2) stabbilimenti permanenti jew aktar tal-istess entità skont il-liġijiet tal-ġurisdizzjonijiet fejn topera l-entità;
 
-(d) pagament iwassal għal tnaqqis mingħajr TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 inklużjoni bħala riżultat ta’ pagament lil stabbiliment permanenti injorat;
+(d) pagament iwassal għal tnaqqis mingħajr inklużjoni bħala riżultat ta’ pagament lil stabbiliment permanenti injorat;
 
 (e) pagament minn entità ibrida jwassal għal tnaqqis mingħajr inklużjoni u dik id-diskrepanza hija r-riżultat tal-fatt li l-pagament jiġi injorat skont il-liġijiet tal-ġurisdizzjoni tal-benefiċjarju;
-
-*3*
 
 (f) pagament meqjus bejn l-uffiċċju prinċipali u stabbiliment permanenti jew bejn żewġ (2) stabbilimenti permanenti jew aktar li iwassal għal tnaqqis mingħajr inklużjoni fejn dik id-diskrepanza hija r-riżultat tal-fatt li l-pagament jiġi injorat skont il-liġijiet tal-ġurisdizzjoni tal-benefiċjarju; jew
 
@@ -98,9 +83,7 @@ Iżda, għall-finijiet ta’ din it-tifsira:
 
 (iii) eżitu ta’ diskrepanza m'għandux jiġu trattat bħala diskrepanza ibrida sakemm ma tirriżultax bejn impriżi assoċjati, bejn kontribwent u impriża assoċjata, bejn l-uffiċċju prinċipali u stabbiliment permanenti, bejn żewġ (2) stabbilimenti permanenti jew aktar tal-istess entità jew taħt arranġament strutturat:
 
-*[L.S. 123.187 4*
-
-TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA Iżda wkoll, għall-finijiet ta’ din it-tifsira u tar-regolamenti 9, 10 u 11:
+Iżda wkoll, għall-finijiet ta’ din it-tifsira u tar-regolamenti 9, 10 u 11:
 
 "entità ibrida" tfisser kwalunkwe entità jew arranġament li titqies bħala entità taxxabbli skont il-liġijiet ta’ ġurisdizzjoni waħda (1) u li l-income jew spejjeż tagħha jitqiesu bħala income jew spejjeż ta’ persuna waħda (1) oħra jew aktar skont il-liġijiet ta’ ġurisdizzjoni oħra;
 
@@ -120,11 +103,9 @@ Pagament skont strument finanzjarju m'għandux jiġi ttrattat bħala inkluż sal
 
 "stabbiliment permanenti injorat" tfisser kwalunkwe arranġament li jiġi ttrattat bħala li jwassal għal stabbiliment permanenti skont il-liġijiet tal-ġurisdizzjoni tal-uffiċċju prinċipali u li mhuwiex ittrattat bħala li jwassal għal stabbiliment permanenti skont il-liġijiet tal-ġurisdizzjoni l-oħra;
 
-"strument finanzjarju" tfisser kwalunkwe strument sal-punt li dan jagħti lok għal redditu ta’ ekwità jew ta’ finanzjament li huwa intaxxat skont ir-regoli tat- TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 tassazzjoni fuq dejn, ekwità jew derivati skont il-liġijiet tal-ġurisdizzjonijiet tal-benefiċjarju jew tal-pagatur u jinkludi trasferiment ibridu;
+"strument finanzjarju" tfisser kwalunkwe strument sal-punt li dan jagħti lok għal redditu ta’ ekwità jew ta’ finanzjament li huwa intaxxat skont ir-regoli tat-tassazzjoni fuq dejn, ekwità jew derivati skont il-liġijiet tal-ġurisdizzjonijiet tal-benefiċjarju jew tal-pagatur u jinkludi trasferiment ibridu;
 
 "tnaqqis" tfisser l-ammont li jiġi ttrattat bħala deduċibbli mill-income taxxabbli skont il-liġijiet tal-ġurisdizzjoni tal-pagatur jew tal-investitur. It-terminu "deduċibbli" għandu jiġi interpretat skont dan;
-
-*5*
 
 "tnaqqis doppju" tfisser tnaqqis tal-istess pagament, spejjeż jew telf fil-ġurisdizzjoni li fiha l-pagament għandu s-sors tiegħu, l-ispejjeż ikunu saru jew it-telf ikun iġġarrab (ġurisdizzjoni tal-pagatur) u f’ġurisdizzjoni oħra (ġurisdizzjoni tal-investitur). Fil-każ ta’ pagament minn entità ibrida jew stabbiliment permanenti, il-ġurisdizzjoni tal-pagatur hija l-ġurisdizzjoni fejn l-entità ibrida jew l-istabbiliment permanenti jkun stabbilit jew sitwat;
 
@@ -134,11 +115,9 @@ Pagament skont strument finanzjarju m'għandux jiġi ttrattat bħala inkluż sal
 
 "trasferiment ibridu fis-suq" tfisser kwalunkwe trasferiment ibridu li kummerċjant finanzjarju jkun daħal fih matul il-perkors normali tan-negozju, u mhux bħala parti minn arranġament strutturat;
 
-"grupp konsolidat għal finijiet ta’ kontabbiltà finanzjarja" tfisser grupp li jikkonsisti mill-entitajiet kollha li huma kompletament inklużi f’rapporti finanzjarji TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA kkonsolidati mfassla skont l-Istandards Internazzjonali tar-Rappurtar Finanzjarju jew xi sistema oħra ta’ rappurtar finanzjarju kif jista’ jiġi determinat permezz ta’ linji gwida maħruġa taħt l-artikolu 96(2) tal-Att;
+"grupp konsolidat għal finijiet ta’ kontabbiltà finanzjarja" tfisser grupp li jikkonsisti mill-entitajiet kollha li huma kompletament inklużi f’rapporti finanzjarji kkonsolidati mfassla skont l-Istandards Internazzjonali tar-Rappurtar Finanzjarju jew xi sistema oħra ta’ rappurtar finanzjarju kif jista’ jiġi determinat permezz ta’ linji gwida maħruġa taħt l-artikolu 96(2) tal-Att;
 
 ''impriża assoċjata'' tfisser:
-
-*[L.S. 123.187 6*
 
 (a) entità li fiha l-kontribwent iżomm, direttament jew indirettament, parteċipazzjoni f'termini ta' drittijiet tal-vot jew pussess ta' kapital ta' ħamsa u għoxrin fil-mija (25%)jew aktar jew ikun intitolat li jirċievi ħamsa u għoxrin fil-mija (25%) jew aktar tal-profitti ta' dik l-entità;
 
@@ -150,11 +129,9 @@ Iżda individwu jew entità żżomm direttament jew indirettament parteċipazzjo
 
 (ii) persuna li taġixxi flimkien ma’ persuna oħra fir-rigward tad-drittijiet tal-vot jew tas-sjieda tal-kapital ta’ entità għandha tkun trattata bħala li għandha parteċipazzjoni fid-drittijiet tal-vot jew fis-sjieda tal-kapital kollha ta’ dik l-entità li huma miżmuma mill-persuna l-oħra;
 
-(iii) impriża assoċjata tfisser ukoll entità li hija parti mill-istess grupp konsolidat għall-finijiet ta’ kontabbiltà finanzjarja bħall-kontribwent, impriża li fiha l-kontribwent għandu influwenza sinifikattiva fil-ġestjoni jew impriża li għandha influwenza TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 sinifikattiva fil-ġestjoni tal-kontribwent.;
+(iii) impriża assoċjata tfisser ukoll entità li hija parti mill-istess grupp konsolidat għall-finijiet ta’ kontabbiltà finanzjarja bħall-kontribwent, impriża li fiha l-kontribwent għandu influwenza sinifikattiva fil-ġestjoni jew impriża li għandha influwenza sinifikattiva fil-ġestjoni tal-kontribwent.;
 
 ''impriża finanzjarja'' tfisser kwalunkwe waħda mill-entitajiet li ġejjin:
-
-*7*
 
 (a) istituzzjoni ta' kreditu jew ditta ta' investiment kif imfissra fil-punt (1) tal-Artikolu 4(1) tad-Direttiva 2004/39/KE tal-Parlament Ewropew u tal-Kunsill jew manager ta' fondi ta' investiment alternattivi (AIFM) kif imfisser fil-punt (b) tal- Artikolu 4(1) tad-Direttiva 2011/61/UE tal-Parlament Ewropew u tal-Kunsill jew kumpannija tal-management ta' impriża ta' investiment kollettiv f'titoli trasferibbli (UCITS) kif imfissra fil-punt (b) tal-Artikolu 2(1) tad-Direttiva 2009/65/KE tal- Parlament Ewropew u tal-Kunsill;
 
@@ -176,11 +153,9 @@ Iżda individwu jew entità żżomm direttament jew indirettament parteċipazzjo
 
 (i) depożitorju ċentrali tat-titoli kif imfisser fil-punt (1) tal-Artikolu 2(1) tar-Regolament (UE) Nru 909/2014 tal- Parlament Ewropew u tal-Kunsill;
 
-''kostijiet tas-self'' tfisser spejjeż ta’ imgħax fuq kull tip ta' dejn, [L.S. 123.187 TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA kostijiet oħra ekonomikament ekwivalenti għal imgħax u spejjeż li jinġarbu in konnessjoni mal-ġbir ta' finanzi meħud kont ta’ tifsiriet li jinsabu fil-liġi ta’ Malta, inkluż, iżda mhux limitat għal, pagamenti taħt self bi dritt ta' parteċipazzjoni fil-profitti, imgħax imputat fuq strumenti bħal bonds konvertibbli u bonds mingħajr kupuni, ammonti taħt arranġamenti ta' finanzjament alternattiv, bħall-finanzjament Iżlamiku, l-element tal-kost finanzjarju tal-pagamenti ta' finance lease, imgħax kapitalizzat inkluż fil-valur tal-balance sheet ta' assi relatati, jew l-ammortizzament ta' mgħax kapitalizzat, ammonti mkejla b'referenza għar-ritorn fuq fondi taħt regoli dwar transfer pricing, fejn applikabbli, ammonti ta' mgħax nozzjonali ta' strumenti derivattivi jew arranġamenti ta' hedging relatati ma' self ta' entità, ċertu qligħ u telf tal-kambju fuq self u strumenti konnessi mal-ġbir ta' finanzjament, tariffi ta' garanzija għal arranġamenti ta' finanzjament, tariffi ta' arranġament u kostijiet simili relatati mas-self ta' fondi;
+''kostijiet tas-self'' tfisser spejjeż ta’ imgħax fuq kull tip ta' dejn, kostijiet oħra ekonomikament ekwivalenti għal imgħax u spejjeż li jinġarbu in konnessjoni mal-ġbir ta' finanzi meħud kont ta’ tifsiriet li jinsabu fil-liġi ta’ Malta, inkluż, iżda mhux limitat għal, pagamenti taħt self bi dritt ta' parteċipazzjoni fil-profitti, imgħax imputat fuq strumenti bħal bonds konvertibbli u bonds mingħajr kupuni, ammonti taħt arranġamenti ta' finanzjament alternattiv, bħall-finanzjament Iżlamiku, l-element tal-kost finanzjarju tal-pagamenti ta' finance lease, imgħax kapitalizzat inkluż fil-valur tal-balance sheet ta' assi relatati, jew l-ammortizzament ta' mgħax kapitalizzat, ammonti mkejla b'referenza għar-ritorn fuq fondi taħt regoli dwar transfer pricing, fejn applikabbli, ammonti ta' mgħax nozzjonali ta' strumenti derivattivi jew arranġamenti ta' hedging relatati ma' self ta' entità, ċertu qligħ u telf tal-kambju fuq self u strumenti konnessi mal-ġbir ta' finanzjament, tariffi ta' garanzija għal arranġamenti ta' finanzjament, tariffi ta' arranġament u kostijiet simili relatati mas-self ta' fondi;
 
 ''kostijiet tas-self eċċessivi'' tfisser l-ammont li bih il-kostijiet tas-self deduċibbli ta' kontribwent skont l-Att, kieku mhux għad-dispożizzjonijiet ta’ dawn ir-regolamenti, jaqbżu l-introjtu mill-imgħax taxxabbli u introjtu taxxabbli ieħor ekonomikament ekwivalenti li jirċievi l-kontribwent;
-
-*8*
 
 ''perijodu ta’ taxxa'' tfisser is-sena li tiġi minnufih qabel is-sena ta’ stima msemmija fl-artikoli 10 u 11 tal-Att, skont kif japplikaw;
 
@@ -198,11 +173,9 @@ Iżda individwu jew entità żżomm direttament jew indirettament parteċipazzjo
 
 Għall-fini ta' dan ir-regolament, u skont linji ta’ gwida maħruġa mill-Kummissarju, dawn li ġejjin jistgħu wkoll jitqiesu bħala kontribwent:
 
-(a) entità li tista' jew tinħtieġ tapplika regolamenti TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 f'isem grupp, kif rikonoxxut għall-finijiet tal-liġi Maltija tat-taxxa;
+(a) entità li tista' jew tinħtieġ tapplika regolamenti f'isem grupp, kif rikonoxxut għall-finijiet tal-liġi Maltija tat-taxxa;
 
 (b) entità fi grupp, kif rikonoxxut għall-finijiet tal-liġi Maltija tat-taxxa, li ma tikkonsolidax ir-riżultati tal-membri tagħha għall-finijiet ta' taxxa.
-
-*9*
 
 F’dawn iċ-ċirkostanzi, il-kostijiet tas-self eċċessivi u l-EBITDA jistgħu jiġu kkalkolati fil-livell tal-grupp u jinkludu r-riżultati tal-membri kollha tiegħu.
 
@@ -222,9 +195,7 @@ Iżda meta grupp jitqies bħala kontribwent taħt id-dispożizzjonijiet tas-subr
 
 (b) kostijiet imġarrba fuq self użat għall-finanzjament ta' proġett ta' infrastruttura pubblika fit-tul fejn l-operatur tal-proġett, il-kostijiet tas-self, l-assi u l-income huma kollha fl- Unjoni Ewropea u l-Kummissarju jkun sodisfatt illi l-arranġamenti tal-finanzjament għall-proġett ikollhom fattispeċji speċjali li jiġġustifikaw dak it-trattament fir-rigwardta’ arranġamenti ta’ finanzjament oħrajn li jkunu soġġetti għad-dispożizzjonijiet ta’ dan ir-regolament.
 
-*10*
-
-[L.S. 123.187 TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA Iżda -
+Iżda -
 
 (i) proġett ta' infrastruttura pubblika fit-tul ifisser proġett li jipprovdi, itejjeb, jopera u/jew iżomm assi fuq skala kbira li jitqies li jkun fl-interess pubbliku ġenerali minn Stat Membru tal-UE; u
 
@@ -242,9 +213,7 @@ Iżda meta grupp jitqies bħala kontribwent taħt id-dispożizzjonijiet tas-subr
 
 (8) Għall-fini ta' dan ir-regolament, il-grupp konsolidat għal finijiet ta' kontabbiltà finanzjarja jikkonsisti mill-entitajiet kollha li huma inklużi bis-sħiħ fir-rapporti finanzjarji konsolidati mħejjija skont l-Istandards Internazzjonali tar-Rappurtar Finanzjarju jew kwalunkwe standard ta’ kontabbiltà kif jiġi stabbilit permezz ta’ linji ta’ gwida maħruġa taħt l-artikolu 96(2) tal-Att.
 
-*11*
-
-TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 5.\* (1) Kontribwent għandu jkun soġġett għat-taxxa fuq Tassazzjoni tal-qligħ kapitali li għandu jiġi kalkolat f'ammont ugwali għall-valur tas- ħruġ. suq tal-assi trasferiti, fil-ħin tal-ħruġ tal-assi, imnaqqas bil-valur tagħhom għall-finijiet tat-taxxa, fi kwalunkwe waħda minn dawn iċ-ċirkostanzi li ġejjin:
+(1) Kontribwent għandu jkun soġġett għat-taxxa fuq Tassazzjoni tal-qligħ kapitali li għandu jiġi kalkolat f'ammont ugwali għall-valur tas- ħruġ. suq tal-assi trasferiti, fil-ħin tal-ħruġ tal-assi, imnaqqas bil-valur tagħhom għall-finijiet tat-taxxa, fi kwalunkwe waħda minn dawn iċ-ċirkostanzi li ġejjin:
 
 (a) kontribwent jittrasferixxi assi mill-uffiċċju prinċipali tiegħu f’Malta għall-istabbiliment permanenti tiegħu fi Stat Membru tal-UE ieħor jew f'pajjiż terz sa fejn Malta ma jibqagħlhiex id-dritt li tintaxxa l-assi trasferiti minħabba t-trasferiment;
 
@@ -264,9 +233,7 @@ TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 5.\* (1) Kontribwent g
 
 \*Applikabbli mill-1 ta’ Jannar, 2020.
 
-*12*
-
-[L.S. 123.187 TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA (d) kontribwent jittrasferixxi n-negozju mmexxi mill-istabbiliment permanenti tiegħu f’Malta għal Stat Membru tal- UE ieħor jew pajjiż terz li huwa parti għall-Ftehim ŻEE.
+(d) kontribwent jittrasferixxi n-negozju mmexxi mill-istabbiliment permanenti tiegħu f’Malta għal Stat Membru tal- UE ieħor jew pajjiż terz li huwa parti għall-Ftehim ŻEE.
 
 Id-dispożizzjonijiet ta’ dan is-subregolament dwar differiment tal-pagament tat-taxxa tal-ħruġ għandhom japplikaw -
 
@@ -292,13 +259,11 @@ Id-dispożizzjonijiet ta’ dan is-subregolament dwar differiment tal-pagament t
 
 (e) il-kontribwent jonqos milli jonora l-obbligi tiegħu fir-rigward tal-pagamenti rateali u ma jirrettifikax is-sitwazzjoni tiegħu fuq perijodu ta' żmien raġonevoli, li ma jistax jaqbeż tnax-il (12) xahar:
 
-Iżda l-paragrafi (b) u (ċ) ma għandhomx japplikaw għal pajjiżi terzi li huma parti għall-Ftehim ŻEE jekk ikunu TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 kkonkludew ftehim ma’ Malta jew mal-Unjoni Ewropea dwar l-assistenza reċiproka għall-irkupru ta' pretensjonijiet ta' taxxa, ekwivalenti għall-assistenza reċiproka prevista fid-Direttiva 2010/24/UE.
+Iżda l-paragrafi (b) u (ċ) ma għandhomx japplikaw għal pajjiżi terzi li huma parti għall-Ftehim ŻEE jekk ikunu kkonkludew ftehim ma’ Malta jew mal-Unjoni Ewropea dwar l-assistenza reċiproka għall-irkupru ta' pretensjonijiet ta' taxxa, ekwivalenti għall-assistenza reċiproka prevista fid-Direttiva 2010/24/UE.
 
 *          Kap. 372.*
 
 (5) Meta jiġu trasferiti assi, residenza tat-taxxa jew in-negozju mmexxi mill-istabbiliment permanenti lejn Malta minn Stat Membru tal-UE ieħor, il-valur inizjali tal-assi relevanti għall-finijiet ta' taxxa f’Malta għandu jkun dak stabbilit minn dak l-Istat Membru tal- UE l-ieħor, sakemm il-Kummissarju ma jistabbilix permezz ta’ inkjesta jew stima magħmula skont id-dispożizzjonijiet tal-artikolu 31 tal-Att dwar l-Amministrazzjoni tat-Taxxa li dak il-valur ma jirriflettix il-valur tas-suq. Għall-fini tal-imsemmija determinazzjoni, il- Kummissarju għandu jqabbad persuna indipendenti li tkun esperta f’dan il-kamp.
-
-*13*
 
 (6) Għall-finijiet tas-subregolamenti (1) sa (5), "valur tas-suq" tfisser l-ammont li bih attiv jista' jiġi skambjat, jew obbligi reċiproċi jistgħu jiġu saldati bejn xerrejja u bejjiegħa disponibbli mhux relatati fi transazzjoni diretta.
 
@@ -314,9 +279,9 @@ Iżda dan sakemm l-assi jkunu destinati li jerġgħu lura lejn Malta fi żmien t
 
 (3) Meta arranġamenti jew sensiela tagħhom jiġu injorati skontis-subregolament (1), l-obbligazzjoni ta' taxxa għandha tkun ikkalkolata skont id-dispożizzjonijiet tal-Atti dwar it-Taxxa fuq l- Income.
 
-*14 Regola dwar il-kumpanniji kontrollati minn barra l-pajjiż.*
+*Regola dwar il-kumpanniji kontrollati minn barra l-pajjiż.*
 
-[L.S. 123.187 TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA 7. (1) Entità, jew stabbiliment permanenti li l-profitti tiegħu mhumiex soġġetti għat-taxxa jew huma eżenti mit-taxxa, għandhom jitqiesu bħala kumpannija barranija kontrollata meta jintlaħqu l-kondizzjonijiet li ġejjin:
+tiegħu mhumiex soġġetti għat-taxxa jew huma eżenti mit-taxxa, għandhom jitqiesu bħala kumpannija barranija kontrollata meta jintlaħqu l-kondizzjonijiet li ġejjin:
 
 (a) fil-każ ta' entità, il-kontribwent waħdu, jew flimkien mal-impriżi assoċjati tiegħu jkollu parteċipazzjoni diretta jew indiretta ta' aktar minn ħamsin fil-mija (50%) tad-drittijiet tal-vot, jew ikollu sjieda direttament jew indirettament ta' aktar minn ħamsin fil-mija (50%) tal-kapital jew ikun intitolat li jirċievi aktar minn ħamsin fil-mija (50%) tal-profitti ta' dik l-entità; u
 
@@ -336,9 +301,7 @@ B’dana iżda illi l-imsemmija kumpannija tkun il-kontribwent u l-imsemmija fun
 
 (3) Għandu jiġi eskluż mill-kamp ta' applikazzjoni tas-subregolament (2) entità jew stabbiliment permanenti:
 
-*15*
-
-TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 (a) bi profitti tal-ikkuntjar ta' mhux aktar minn seba’ mija u ħamsin euro (€750,000), u b’income mhux mill-kummerċ ta' mhux aktar minn ħamsa u sebgħin elf euro (€75,000); jew
+(a) bi profitti tal-ikkuntjar ta' mhux aktar minn seba’ mija u ħamsin euro (€750,000), u b’income mhux mill-kummerċ ta' mhux aktar minn ħamsa u sebgħin elf euro (€75,000); jew
 
 (b) li l-profitti tal-ikkuntjar tiegħu jammontaw għal mhux aktar minn għaxra fil-mija (10%) tal-kostijiet operatorji għall-perjodu tat-taxxa:
 
@@ -360,9 +323,9 @@ Għall-finijiet tar-regolament 7 -
 
 (f) għandu jingħata tnaqqis tat-taxxa mħallsa mill-entità jew mill-istabbiliment permanenti mill-obbligazzjoni tat-taxxa tal-kontribwent. It-tnaqqis għandu jiġi kalkulat skont kif hemm provdut fl-artikoli 77 u 82 tal-Att.
 
-*16 Diskrepanzi ibridi Miżjud: A.L. 348 tal-2019.*
+*Diskrepanzi ibridi Miżjud: A.L. 348 tal-2019.*
 
-[L.S. 123.187 TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA 9.\* (1) Sal-punt li diskrepanza ibrida tirriżulta fi tnaqqis doppju:
+doppju:
 
 (a) it-tnaqqis għandu jiġi miċħud jekk Malta tkun il-ġurisdizzjoni tal-investitur; u
 
@@ -384,13 +347,11 @@ Iżda li, kwalunkwe tnaqqis bħal dan għandu jkun eliġibbli li jkun ikkumpensa
 
 (b) il-paragrafi (a) u (b) tas-subregolament (2), diskrepanzi ibridi li jirriżultaw minn pagament ta’ imgħax permezz ta’ strument finanzjarju lil intrapriża assoċjata fejn:
 
-(i) l-istrument finanzjarju jkollu karatteristiċi ta’ konverżjoni, rikapitalizzazzjoni interna jew TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA [L.S.123.187 valwazzjoni negattiva;
+(i) l-istrument finanzjarju jkollu karatteristiċi ta’ konverżjoni, rikapitalizzazzjoni interna jew valwazzjoni negattiva;
 
 \*Applikabbli mill-1 ta’ Jannar, 2020.
 
 (ii) l-istrument finanzjarju jkun inħareġ bl-iskop waħdieni li jissodisfa r-rekwiżiti tal-kapaċità tal-assorbiment tat-telf applikabbli għas-settur bankarju u l-istrument finanzjarju jkun rikonoxxut bħala tali fir-rekwiżiti tal-kapaċità tal-assorbiment tat-telf tal-kontribwent;
-
-*17*
 
 (iii) l-istrument finanzjarju jkun inħareġ:
 
@@ -406,11 +367,13 @@ Iżda id-dispożizzjonijiet ta’ dan il-paragrafu (b) għandhom japplikaw biss 
 
 (5) Sal-punt li diskrepanza ibrida tinvolvi income ta’ stabbiliment permanenti injorat ta’ kontribwent residenti f’Malta li ma jkunx altrimenti taxxabbli f’Malta, dak il- kontribwent għandu jinkludi fl-income tiegħu dak l-income li altrimenti kien ikun attribwit lill-istabbiliment permanenti injorat. Dan japplika sakemm Malta ma tkunx meħtieġa teżenta l-income tal-istabbiliment permanenti skont trattat dwar it-taxxa doppja li Malta tkun daħlet fih ma’ pajjiż terz.
 
-(6) Sal-punt li trasferiment ibridu huwa maħsub biex jipproduċi ħelsien mit-taxxa miżmuma fis-sors fuq pagament derivat minn strument finanzjarju trasferit lil aktar minn waħda (1) mill-partijiet involuti, il-benefiċċju ta’ tali ħelsien għandu jiġi limitat fi proporzjon mal-income taxxabbli nett fir-rigward ta’ tali pagament. [L.S. 123.187 TAL-UNJONI EWROPEA KONTRA L-EVITAR TAT-TAXXA 10. (1) B’effett mill-1 ta’ Jannar 2022, fejn entità waħda (1) jew aktar mhux residenti assoċjati li jkollhom f’aggregat interess dirett jew indirett f’ħamsin fil-mija (50%) jew aktar tad-drittijiet tal-vot, interessi tal-kapital jew drittijiet għal sehem tal-profitt f’entità ibrida li hija inkorporata jew stabbilita f’Malta ikunu jinsabu f’ġurisdizzjoni jew ġurisdizzjonijiet li jqisu l-entità ibrida bħala persuna taxxabbli, l-entità ibrida għandha titqies bħala residenti ta’ Malta u tiġi intaxxata fuq l-income tagħha sa fejn dak l-income mhuwiex intaxxat b’mod ieħor skont kwalunkwe dispożizzjoni oħra tal-Atti dwar it-Taxxi jew fi kwalunkwe ġurisdizzjoni oħra.
+(6) Sal-punt li trasferiment ibridu huwa maħsub biex jipproduċi ħelsien mit-taxxa miżmuma fis-sors fuq pagament derivat minn strument finanzjarju trasferit lil aktar minn waħda (1) mill-partijiet involuti, il-benefiċċju ta’ tali ħelsien għandu jiġi limitat fi proporzjon mal-income taxxabbli nett fir-rigward ta’ tali pagament.
+
+*Diskrepanzi ibridi bil-maqlub. Miżjud: A.L. 348 tal-2019. Emendat: A.L. 29 tal-2020.*
+
+(1) jew aktar mhux residenti assoċjati li jkollhom f’aggregat interess dirett jew indirett f’ħamsin fil-mija (50%) jew aktar tad-drittijiet tal-vot, interessi tal-kapital jew drittijiet għal sehem tal-profitt f’entità ibrida li hija inkorporata jew stabbilita f’Malta ikunu jinsabu f’ġurisdizzjoni jew ġurisdizzjonijiet li jqisu l-entità ibrida bħala persuna taxxabbli, l-entità ibrida għandha titqies bħala residenti ta’ Malta u tiġi intaxxata fuq l-income tagħha sa fejn dak l-income mhuwiex intaxxat b’mod ieħor skont kwalunkwe dispożizzjoni oħra tal-Atti dwar it-Taxxi jew fi kwalunkwe ġurisdizzjoni oħra.
 
 (2) Is-subregolament (1) ma’ għandux japplika għal veikolu ta’ investiment kollettiv. Għall-finijiet ta’ dan ir-regolament, "veikolu ta’ investiment kollettiv" tfisser fond jew veikoli ta’ investiment li huwa miżmum b’mod wiesa', għandu portafoll diversifikat ta’ titoli u huwa soġġett għal regolamentazzjoni għall-protezzjoni tal-investitur fil-pajjiż fejn huwa stabbilit.
-
-*18 Diskrepanzi ibridi bil-maqlub. Miżjud: A.L. 348 tal-2019. Emendat: A.L. 29 tal-2020.*
 
 *Diskrepanzi tar-residenza tat-taxxa. Miżjud: A.L. 348 tal-2019.*
 

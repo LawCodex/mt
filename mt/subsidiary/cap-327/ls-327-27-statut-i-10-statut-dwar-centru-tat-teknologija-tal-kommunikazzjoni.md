@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Statut I 10 - Statut dwar Ċentru tat-Teknoloġija tal-Kommunikazzjoni (S.L. 327.27)
 
-STATUT I 10 - STATUT DWAR ~ENTRU
-
-*1*
-
-TAT-TEKNOLO{IJA TAL-KOMUNIKAZZJONI [L.S.327.27
-
 LE{ISLAZZJONI SUSSIDJARJA 327.27
 
 STATUT I 10 - STATUT DWAR ~ENTRU

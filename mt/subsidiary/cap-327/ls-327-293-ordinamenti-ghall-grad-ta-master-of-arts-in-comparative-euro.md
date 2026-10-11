@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Arts in Comparative Euro-Mediterranean Education Studies – M.A. – taħt l-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.293)
 
-NEAN EDUCATION STUDIES M.A. – TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.293
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.293**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -76,11 +70,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew minn 1 ta’ M
 
 (2) Il-programm prinċipalment bir-riċerka huwa miftuħ għall-applikanti li jkollhom waħda mill-kwalifiki li ġejjin:
 
-(a) grad ta’ Bachelor fl-Edukazzjoni mill-inqas fit-Tieni Klassi bl-Unuri mill-Università ta’ Malta jew grad NEAN EDUCATION STUDIES M.A. – TAĦT IL-
-
-*2*
-
-[L.S.327.293 PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI minn università oħra rikonoxxut bħala ekwivalenti għal dan il-għan; jew
+(a) grad ta’ Bachelor fl-Edukazzjoni mill-inqas fit-Tieni Klassi bl-Unuri mill-Università ta’ Malta jew grad minn università oħra rikonoxxut bħala ekwivalenti għal dan il-għan; jew
 
 (b) kwalunkwe grad ieħor mill-inqas fit-Tieni Klassi bl- Unuri jew f’Kategorija II flimkien ma’ kwalifika rikonoxxuta fit-tagħlim jew fl-edukazzjoni.
 
@@ -120,11 +110,7 @@ Il-programmi ta’ studju għandhom jinkludu taqsimiet studju li għalihom hemm 
 
 (1) Il-programm ta’ studju jista’ jkun prinċipalment mgħallem jew prinċipalment bir-riċerka.
 
-(2) (a) Il-programm prinċipalment mgħallem għandu jinkludi komponent mgħallem li jinkludi taqsimiet studju li għalihom hemm assenjati 60 krettu u komponent ta’ riċerka li jinkludi taqsima studju tad-dissertazzjoni li NEAN EDUCATION STUDIES M.A. – TAĦT IL-
-
-*3*
-
-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.293 għaliha hemm assenjati 30 krettu.
+(2) (a) Il-programm prinċipalment mgħallem għandu jinkludi komponent mgħallem li jinkludi taqsimiet studju li għalihom hemm assenjati 60 krettu u komponent ta’ riċerka li jinkludi taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 30 krettu.
 
 (b) Il-komponent mgħallem tal-kors jinkludi programm komuni obbligatorju li jinkludi taqsimiet studju li għalihom hemm assenjati 40 krettu, u programm speċjalizzat rilevanti għar-riċerka għad-dissertazzjoni tal-istudenti li għalih hemm assenjat 20 krettu. Dan il-komponent ikun imfassal biex jagħti attenzjoni speċjali lill-temi fl-edukazzjoni fl-Ewropa u fil- Mediterran.
 
@@ -148,11 +134,7 @@ PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.293 għaliha hemm assenjati 30
 
 *Sostitwit: A.L. 42 tal-2015. Emendat: A.L. 328 tal-2024.*
 
-(1)(a) Fil-programmi ta’ studju prinċipalment mgħallma, l-istudenti għandhom jissottomettu titlu provviżorju u proposta dettaljata ta’ riċerka għad-dissertazzjoni fi żmien sitt xhur mir-reġistrazzjoni tagħhom għall-kors, fil-format speċifikat fil-linji gwida li l-Bord iħejji għal NEAN EDUCATION STUDIES M.A. – TAĦT IL-
-
-*4*
-
-[L.S.327.293 PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI dan il-għan.
+(1)(a) Fil-programmi ta’ studju prinċipalment mgħallma, l-istudenti għandhom jissottomettu titlu provviżorju u proposta dettaljata ta’ riċerka għad-dissertazzjoni fi żmien sitt xhur mir-reġistrazzjoni tagħhom għall-kors, fil-format speċifikat fil-linji gwida li l-Bord iħejji għal dan il-għan.
 
 (b) L-istudenti għandhom jissottomettu dissertazzjoni ta’ madwar 25,000 u 30,000 kelma.
 
@@ -180,11 +162,7 @@ PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.293 għaliha hemm assenjati 30
 
 ## 10. Klassifikazzjoni tar- Rikonoxximenti.
 
-Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal- NEAN EDUCATION STUDIES M.A. – TAĦT IL-
-
-*5*
-
-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.293 programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
+Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
 
 ## 11. Disposizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 

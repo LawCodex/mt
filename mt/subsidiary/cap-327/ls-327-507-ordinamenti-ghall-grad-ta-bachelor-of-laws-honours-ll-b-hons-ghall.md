@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Laws (Honours) - LL.B.(Hons), għall-Grad ta’ Bachelor of Laws - LL.B., u għad-Diploma of Legal Procurator – Dip. L.P. – taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.507)
 
-GRAD TA’ BACHELOR OF LAWS - LL.B. - U DIPLOMA OF
-
-*1*
-
-LEGAL PROCURATOR - Dip.L.P. [L.S.327.507
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.507**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF LAWS (HONOURS) - LL.B. (Hons.), GĦALL-GRAD
@@ -72,11 +66,7 @@ Dawn l-ordinamenti għandhom ikunu applikabbli f’Ottubru 2018’il quddiem.
 
 (1) Minbarra li jissodisfaw ir-rekwiżiti ġenerali għad-dħul kif speċifikati fir-Regolamenti għad-Dħul tal-Università ta’ Malta, l-applikanti għall-Grad bl-Unuri, għall-Grad, u għad-Diploma għandhom jissodisfaw ukoll dawn ir-rekwiżiti li ġejjin:
 
-(a) ikunu għaddew f’żewġ suġġetti bi Grad Ċ jew aħjar fil- Livell tal-Matrikola Avvanzata jew l-ekwivalenti fl- Ingliż u fil-Malti, u fi tliet suġġetti fil-Livell tal- Matrikola Intermedju jew l-ekwivalenti, kwalunkwe GRAD TA’ BACHELOR OF LAWS - LL.B. - U DIPLOMA OF [L.S.327.507 LEGAL PROCURATOR - Dip.L.P.
-
-wieħed minnhom bi grad Ċ jew aħjar magħżula fis-suġġetti kif ġej: suġġett wieħed minn Grupp 2, suġġett wieħed minn Grupp 3, u suġġett wieħed (ħlief l-Ingliż u l-Malti); jew
-
-*2*
+(a) ikunu għaddew f’żewġ suġġetti bi Grad Ċ jew aħjar fil- Livell tal-Matrikola Avvanzata jew l-ekwivalenti fl- Ingliż u fil-Malti, u fi tliet suġġetti fil-Livell tal- Matrikola Intermedju jew l-ekwivalenti, kwalunkwe wieħed minnhom bi grad Ċ jew aħjar magħżula fis-suġġetti kif ġej: suġġett wieħed minn Grupp 2, suġġett wieħed minn Grupp 3, u suġġett wieħed (ħlief l-Ingliż u l-Malti); jew
 
 (b) għall-korsijiet li jibdew f’Ottubru 2020 jew wara, ikollhom grad ta’ livell QMK 6 fi kwalunkwe qasam ta’ studju mogħti mill-Università ta’ Malta jew minn xi istituzzjoni ta’ edukazzjoni għolja oħra rikonoxxuta mis-Senat, u jkunu għaddew fil-Malti bi Grad Ċ jew aħjar fil-Livell tal-Matrikola Avvanzata:
 
@@ -102,13 +92,7 @@ sakemm li jekk il-grad ikun fil-Malti, iridu jkunu għaddew ukoll fl-Ingliż bi 
 
 (3) L-istudenti li jgħaddu minn taqsimiet studju mgħallma li għalihom hemm assenjati 60 krettu ECTS b’marka medja ta’ 50% u li jew jagħżlu li ma jkomplux il-Kors jew, wara li komplew, ma jtemmux il-Kors b’suċċess ikunu eliġibbli għall-għoti tad-Diploma in Law.
 
-(4) L-istudenti li jgħaddu minn taqsimiet studju mgħallma li għalihom hemm assenjati 120 krettu ECTS b’marka medja ta’ 50% u li jew jagħżlu li ma jkomplux il-Kors jew, wara li komplew, ma jtemmux il- Kors b’suċċess ikunu eliġibbli għall-għoti tal-Higher Diploma in Law. GRAD TA’ BACHELOR OF LAWS - LL.B. - U DIPLOMA OF
-
-*3*
-
-LEGAL PROCURATOR - Dip.L.P. [L.S.327.507
-
-(5) L-istudenti għandhom l-għażla li jsegwu l-programm għad- Diploma jew flimkien mal-kors li jwassal għall-Grad jew wara l-għoti tal-Grad jew tal-Grad bl-Unuri kklassifikat mill-anqas fit- Tieni Kategorija jew fit-Tieni Klassi bl-Unuri.
+(4) L-istudenti li jgħaddu minn taqsimiet studju mgħallma li għalihom hemm assenjati 120 krettu ECTS b’marka medja ta’ 50% u li jew jagħżlu li ma jkomplux il-Kors jew, wara li komplew, ma jtemmux il- Kors b’suċċess ikunu eliġibbli għall-għoti tal-Higher Diploma in Law. (5) L-istudenti għandhom l-għażla li jsegwu l-programm għad- Diploma jew flimkien mal-kors li jwassal għall-Grad jew wara l-għoti tal-Grad jew tal-Grad bl-Unuri kklassifikat mill-anqas fit- Tieni Kategorija jew fit-Tieni Klassi bl-Unuri.
 
 (6) L-istudenti li jagħżlu li jsegwu l-kors li jwassal għad- Diploma flimkien mal-kors li jwassal għall-Grad għandhom jindikaw l-għażla tagħhom fit-tmiem tal-ewwel sena tal-Kors u qabel ma jirreġistraw għat-tieni sena u għandhom jikkwalifikaw għad-Diploma biss jekk jissodisfaw ir-rekwiżiti kollha għall-Grad kif stabbiliti fil-programm ta’ studju.
 

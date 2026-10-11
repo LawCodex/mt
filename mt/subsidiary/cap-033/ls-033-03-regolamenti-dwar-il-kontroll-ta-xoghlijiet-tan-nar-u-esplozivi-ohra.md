@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kontroll ta' Xogħlijiet tan-Nar u Esplożivi oħra"
-identifier: "S.L. 33.3"
+identifier: "S.L. 33.03"
 eli: "https://legislation.mt/eli/sl/33.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/33.3/20260917/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kontroll ta' Xogħlijiet tan-Nar u Esplożivi oħra (S.L. 33.3)
+# Regolamenti dwar il-Kontroll ta' Xogħlijiet tan-Nar u Esplożivi oħra (S.L. 33.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 33.03**
 

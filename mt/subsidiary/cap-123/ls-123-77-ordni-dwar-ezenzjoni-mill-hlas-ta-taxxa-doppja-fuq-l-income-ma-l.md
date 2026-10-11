@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income ma' l-Istat tal-Kuwajt (S.L. 123.77)
 
-*1*
-
-FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.77**
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -111,9 +107,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 **TIFSIRIET {ENERALI**
 
-\1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77 3
-
-te]tie[x xort’o]ra:
+\1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma te]tie[x xort’o]ra:
 
 (a) il-fra\\i "Kuwajt" tfisser l-Istat tal-Kuwajt u tinkludi kull area lil hinn mill-ib]ra territorjali li skond id-dritt internazzjonali din [iet jew tista’ ti[i msemmija ta]t il-li[ijiet tal-Kuwajt b]ala area fejn il-Kuwajt jista’ je\\er`ita drittijiet sovrani jew [urisdizzjoni;
 
@@ -197,8 +191,6 @@ G]all-finijiet ta’ dan il-Ftehim, il-fra\\i "residenti ta’ Stat Kontraenti"
 
 (e) ]anut tax-xog]ol, u
 
-FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77 5
-
 (f) minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew kull post ie]or ta’ estrazzjoni ta’ ri\\orsi naturali inklu\\ sit ta’ offshore drilling.
 
 \3. Art li tkun qeg]da tinbena jew kostruzzjoni, pro[ett ta’ assembla[[ jew ta’ stallazzjoni jew attivitajiet supervi\\orji li jkollhom x’jaqsmu ma’ dan, jikkostitwixxu stabbiliment permanenti biss meta dik l-art, dak il-pro[ett jew dik l-attività tkompli g]al perjodu ta’ aktar minn tliet xhur.
@@ -267,9 +259,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \1. Il-profitti ta’ impri\\a ta’ Stat Kontraenti g]andhom ikunu biss taxxabbli f’dak l-Istat Kontraenti kemm-il darba l-impri\\a ma tmexxix negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun qieg]ed hemmhekk. Jekk l-impri\\a tkun qeg]da tmexxi negozju kif hawn aktar qabel imsemmi, il-profitti ta’ l-impri\\a jistg]u ji[u intaxxati fl-Istat Kontraenti l-ie]or i\\da biss g]al dik il-parti minnhom daqskemm tkun attribwibbli g]al dak l-istabbiliment permanenti.
 
-\2. Bla ]sara g]ald-disposizzjonijiet tal-paragrafu 3, meta impri\\a ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun qieg]ed hemmhekk, g]andhom f ’kull Stat Kontraenti ji[u attribwiti lil dak l-istabbiliment permanenti il-profitti li kien ikun mistenni jag]mel kieku kien impri\\a distinta u separata li ta]dem fl-istess attivitajiet jew o]rajn FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77 7
-
-b]alhom ta]t l-istess kondizzjonijiet jew o]rajn b]alhom u li ta]dem indipendentement g]alkollox mill-impri\\a li tag]ha tkun stabbiliment permanenti jew ma’ impri\\i asso`jati o]ra li tittratta mag]hom.
+\2. Bla ]sara g]ald-disposizzjonijiet tal-paragrafu 3, meta impri\\a ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun qieg]ed hemmhekk, g]andhom f ’kull Stat Kontraenti ji[u attribwiti lil dak l-istabbiliment permanenti il-profitti li kien ikun mistenni jag]mel kieku kien impri\\a distinta u separata li ta]dem fl-istess attivitajiet jew o]rajn b]alhom ta]t l-istess kondizzjonijiet jew o]rajn b]alhom u li ta]dem indipendentement g]alkollox mill-impri\\a li tag]ha tkun stabbiliment permanenti jew ma’ impri\\i asso`jati o]ra li tittratta mag]hom.
 
 \3. Sabiex ji[u stabbiliti l-profitti ta’ stabbiliment permanenti, g]andhom ikunu permessi b]ala tnaqqis dawk l-ispejje\\ ta’ l-impri\\a li jsiru g]all-g]anijiet ta’ l-istabbiliment permanenti, inklu\\i l-ispejje\\ e\\ekuttivi u amministrattivi [enerali li jkunu saru u li jkunu jistg]u jitnaqqsu li kieku l-istabbiliment permanenti kien entità indipendenti li tkun ]allset dawk l-ispejje\\, sew jekk dawk ikunu saru fl-Istat Kontraenti fejn ikun hemm l-istabbiliment permanenti sew band’o]ra. Madankollu, safejn jirrigwarda l-Kuwajt, ma g]andu jkun permess ebda tnaqqis b]al dak dwar ammonti, jekk ikun hemm, m]allsa (xort’o]ra milli b]ala rimbor\\ g]all-ispejje\\ attwali) mill-istabbiliment permanenti lill-uffi``ju prin`ipali ta’ l-impri\\a jew xi wie]ed mill-uffi``ji l-o]ra tag]ha, b]ala royalties, drittijiet jew ]lasijiet o]rq b]al dawk g]all-u\\u ta’ privattivi jew ta’ drittijiet o]ra, jew b]ala kummissjoni, g]al servizzi spe`ifi`i mag]mula jew g]al mani[[ar, jew, ]lief fil-ka\\ ta’ impri\\a bankarja, b]ala mg]ax fuq flejjes mislufa lill-istabbiliment permanenti. Bl-istess mod, ma g]andu jittie]ed ebda kont, sabiex ji[i stabbiliti l-profitti ta’ stabbiliment permanenti, dwar ammonti m]allsa (xort’o]ra milli g]ar-rimbor\\ ta’ spejje\\ attwali), mill-istabbiliment permanenti lill-uffi``ju prin`ipali ta’ l-impri\\a jew lil xi wie]ed mill-uffi``ji l-o]ra tag]ha, b]ala royalties, drittijiet jew ]lasijiet o]ra simili g]all-u\\u ta’ privattivi jew jeddijiet o]ra, jew b]ala kummissjoni g]al servizzi spe`ifi`i mag]mula jew g]al mani[[ar, jew, ]lief fil-ka\\ ta’ impri\\a bankarja, b]ala mg]ax fuq flejjes mislufa lill-uffi``ju prin`ipali jew lil xi uffi``ju ie]or tag]ha.
 
@@ -321,9 +311,7 @@ u f ’kull ka\\ isiru jew ji[u imposti kondizzjonijiet bejn i\\-\\ew[ impri\\i 
 
 (a) d-dividendi jit]allsu minn kumpannija li tkun residenti tal-Kuwajt lil residenti ta’ Malta li jkun is-sid benefi`jarju tad-dividendi, ma g]andha tit]allas ebda taxxa tal-Kuwajt fuq dawk id-dividendi;
 
-(b) d-dividendi jit]allsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Kuwajt li jkun is-sid benefi`jarju tad-dividendi, it-taxxa ta’ Malta fuq l-ammont gross tad-dividendi m’g]andha f’ebda ka\\ tkun FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77 9
-
-i\\jed minn dik li tit]allas fuq il-profitti li minnhom jit]allsu d-dividendi; i\\da, madankollu, dik it-taxxa fuq l-ammont gross ta’ dividendi li jit]allsu lill-gvern tal-Kuwajt jew lil xi wa]da mill-istituzzjonijiet tieg]u jew lil xi entità intergovernattiva msemmija fil-paragrafu 2 ta’ l-Artikolu 4 ma g]andhiex te``edi g]axra fil-mija (10%), u fil-ka\\ijiet l-o]ra kollha dik it-taxxa ma g]andhiex te``edi ]mistax fil-mija (15%) ta’ l-ammont gross tad-dividendi.
+(b) d-dividendi jit]allsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Kuwajt li jkun is-sid benefi`jarju tad-dividendi, it-taxxa ta’ Malta fuq l-ammont gross tad-dividendi m’g]andha f’ebda ka\\ tkun i\\jed minn dik li tit]allas fuq il-profitti li minnhom jit]allsu d-dividendi; i\\da, madankollu, dik it-taxxa fuq l-ammont gross ta’ dividendi li jit]allsu lill-gvern tal-Kuwajt jew lil xi wa]da mill-istituzzjonijiet tieg]u jew lil xi entità intergovernattiva msemmija fil-paragrafu 2 ta’ l-Artikolu 4 ma g]andhiex te``edi g]axra fil-mija (10%), u fil-ka\\ijiet l-o]ra kollha dik it-taxxa ma g]andhiex te``edi ]mistax fil-mija (15%) ta’ l-ammont gross tad-dividendi.
 
 \3. Il-fra\\i "dividendi" kif din tintu\\a f’dan l-Artikolu tfisser:
 
@@ -359,9 +347,7 @@ Artikolu 11 MG}AX 1. Mg]ax li jinqala’ fi Stat Kontraenti u jit]allas lil resi
 
 \5. Ir-royalties jitqiesu li jori[inaw fi Stat Kontraenti meta min i]allas ikun dak l-Istat Kontraenti innifsu, sottodivi\\joni politika tieg]u, awtorità lokali jew residenti ta’ dak l-Istat Kontraenti. Meta, madankollu, l-persuna li tkun qed t]allas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, jkollha fi Stat Kontraenti stabbiliment permanenti jew ba\\i fissa li f’konnessjoni mag]hom kienet saret l-obbligazzjoni li fuqu jit]allsu r-royalties u dawk ir-royalties ji[[arbu minn dak l-istabbiliment jew ba\\i fissa, g]aldaqstant dawk ir-royalties g]andhom jitqiesu li jori[inaw fl-Istat Kontraenti fejn ikunu jinsabu l-istabbiliment permanenti jew il-ba\\i fissa.
 
-\6. Meta, min]abba r-relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejnithom it-tnejn u xi persuna o]ra, l-ammont tar-royalties, fil-qies ta’ x’ikun l-u\\u, id-dritt jew l-informazzjoni li jit]allsu g]alihom, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu g]andhom japplikaw biss g]all-ammont l- FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77 11
-
-a]]ar imsemmi. F’dak il-ka\\, il-parti \\ejda tal-]las g]andha tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-disposizzjonijiet l-o]ra ta’ dan il- Ftehim.
+\6. Meta, min]abba r-relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejnithom it-tnejn u xi persuna o]ra, l-ammont tar-royalties, fil-qies ta’ x’ikun l-u\\u, id-dritt jew l-informazzjoni li jit]allsu g]alihom, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu g]andhom japplikaw biss g]all-ammont l-a]]ar imsemmi. F’dak il-ka\\, il-parti \\ejda tal-]las g]andha tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-disposizzjonijiet l-o]ra ta’ dan il- Ftehim.
 
 **Artikolu 13**
 
@@ -419,9 +405,7 @@ Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti t
 
 \2. Meta income dwar attivitajiet personali e\\er`itati minn min jag]ti spettaklu jew atleta fil-kapa`ità tieg]u b]ala tali jinqala’ mhux minn min jag]ti spettaklu jew l-atleta nnifsu i\\da minn xi persuna o]ra, dak l-income jista’, minkejja d-disposizzjonijiet ta’ l-Artikoli 7, 14 u 15, ji[i intaxxat fl-Istat Stat Kontraenti li fih l-attivitajiet ta’ min jag]ti spettaklu jew ta’ l-atleta ji[u e\\er`itati.
 
-\3. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma g]andhomx japplikaw g]al kumpens jew profitti, salarji, pagi u income b]al dawn li jinkisbu minn min jag]ti spettaklu jew atleti li jkunu residenti ta’ Stat Kontraenti minn attivitajiet fl-Istat FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77 13
-
-Kontraenti l-ie]or jekk i\\-\\jara tag]hom f’dak l-Istat Kontraenti l-ie]or tkun sostanzjalment appo[[ata mill-flejjes pubbli`i ta’ l-Istat Kontraenti l-ewwel imsemmi, inklu\\i dawk ta’ xi sottodivi\\joni politika, awtorità lokali jew korp statutorju tieg]u.
+\3. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma g]andhomx japplikaw g]al kumpens jew profitti, salarji, pagi u income b]al dawn li jinkisbu minn min jag]ti spettaklu jew atleti li jkunu residenti ta’ Stat Kontraenti minn attivitajiet fl-Istat Kontraenti l-ie]or jekk i\\-\\jara tag]hom f’dak l-Istat Kontraenti l-ie]or tkun sostanzjalment appo[[ata mill-flejjes pubbli`i ta’ l-Istat Kontraenti l-ewwel imsemmi, inklu\\i dawk ta’ xi sottodivi\\joni politika, awtorità lokali jew korp statutorju tieg]u.
 
 **Artikolu 18**
 
@@ -491,9 +475,7 @@ Elementi ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalg]u minn fejn
 
 (a) Fil-ka\\ tal-Kuwajt:
 
-Jekk residenti tal-Kuwajt jikseb income li skond id-disposizzjonijiet ta’ FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77 15
-
-dan il-Ftehim ikun taxxabbli f’Malta, il-Kuwajt jista’ jintaxxa dan l-income u jista’ jag]ti ]elsien g]at-taxxi ta’ Malta m[arrba skond id-disposizzjonijiet tal-li[i domestika relattiva.
+Jekk residenti tal-Kuwajt jikseb income li skond id-disposizzjonijiet ta’ dan il-Ftehim ikun taxxabbli f’Malta, il-Kuwajt jista’ jintaxxa dan l-income u jista’ jag]ti ]elsien g]at-taxxi ta’ Malta m[arrba skond id-disposizzjonijiet tal-li[i domestika relattiva.
 
 F’dak il-ka\\, il-Kuwajt g]andu jnaqqas mit-taxxi hekk ikkalkulati t-taxxa m]allsa f’Malta imma f’ammont li ma jkunx je``edi dak il-proporzjon tat-taxxa tal-Kuwajt hawn qabel imsemmija li dak l-income ikollu g]ar-rigward ta’ l-income kollu kemm hu.
 
@@ -544,8 +526,6 @@ privile[[ li jistg]u jing]ataw lil xi Stat Kontraenti ie]or jew lir-residenti ti
 \1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tista’ tkun me]tie[a g]at-twettiq tad-disposizzjonijiet ta’ dan il- Ftehim jew ta’ l-li[ijiet domesti`i ta’ l-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]tom ma jkun kuntrarju g]all-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta mill-Istat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) involuti fl-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`i\\joni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f ’de`i\\jonijiet [udizzjarji.
 
 \2. F’ebda ka\\ ma g]andhom id-disposizzjonijiet tal-paragrafu 1 jiftiehmu b]ala li jimponu fuq Stat Kontraenti l-obbligu:
-
-FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77 17
 
 (a) li jwettaq mi\\uri amministrattivi li ma jkunux jaqblu mal-li[ijiet u mal-prattika amministrattiva ta’ dak jew ta’ l-Istat Kontraenti l-ie]or;
 
@@ -618,8 +598,6 @@ Dwar l-Artikolu 7:
 Dwar l-Artikolu 10:
 
 Dwar subparagrafu (b) tal-paragrafu 2 ta’ l-Artikolu 10, qieg]ed jinftiehem li t-taxxa ta’ Malta ma g]andhiex te``edi g]axra fil-mija (10%) jew ]mistax fil-mija (15%), skond il-ka\\, ta’ dak is-sehem ta’ profitti ta’ qabel it-taxxa ta’ kumpannija residenti f’Malta li huma attribwibbli g]al xi azzjonist li jkun residenti fil-Kuwajt. Effettivament, ir-rata ta’ taxxa ta’ 10% jew 15% g]andha tkun applikata g]all-profitti relevanti tal-kumpannija. Dividendi li jit]allsu minn dawk il-profitti ma g]andhomx i[arrbu iktar taxxa ta’ Malta (inklu\\a kull taxxa imposta fuq dividendi).
-
-FUQ L-INCOME MA’ L-ISTAT TAl-KUWAJT [L.S.123.77 19
 
 B’XIEHDA TA’ DAN is-sottoskritti, awtorizzati kif imiss biex jag]mlu dan, iffirmaw dan il-Protokoll.
 

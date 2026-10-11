@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Bordijiet ta' Inkjesta dwar il-Manteniment u l-Kontroll ta' Provvisti u Servizzi"
-identifier: "S.L. 117.7"
+identifier: "S.L. 117.07"
 eli: "https://legislation.mt/eli/sl/117.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/117.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Bordijiet ta' Inkjesta dwar il-Manteniment u l-Kontroll ta' Provvisti u Servizzi (S.L. 117.7)
-
-*1*
-
-UL-KONTROLL TA’ PROVVISTI USERVIZZI [L.S.117.07
+# Regolamenti dwar il-Bordijiet ta' Inkjesta dwar il-Manteniment u l-Kontroll ta' Provvisti u Servizzi (S.L. 117.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 117.07**
 
@@ -101,11 +97,11 @@ Id-drittijiet li jit]allsu lill-persuni li jidhru quddiem il-Bord biex jag]tu ta
 
 *Kap. 108.*
 
-*3*
+## 10. Reati u pieni.
 
-UL-KONTROLL TA’ PROVVISTI USERVIZZI [L.S.117.07 10. (1) Jekk xi persuna, dwar xi ]a[a skond dawn ir-regolamenti -
+*Emendat: A.L. 409 ta’ l- 2007.*
 
-*Reati u pieni. Emendat: A.L. 409 ta’ l- 2007.*
+(1) Jekk xi persuna, dwar xi ]a[a skond dawn ir-regolamenti -
 
 (a) ma thallix jew tfixkel li`-Chairman, xi membru jew is- Segretarju li jwettqu dmirijiethom; jew
 

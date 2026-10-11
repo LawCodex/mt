@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet ta' l-Isptar li jitħallsu minn Pazjenti Barranin (S.L. 35.14)
 
-*1*
-
-MINN PAZJENTI BARRANIN [L.S.35.14
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.14**
 
 **REGOLAMENTI DWAR DRITTIJIET TA’**
@@ -97,11 +93,7 @@ maġġuri,ukirurġijaplastikamaġġuri ħamest elef mitejn u wieħed u erbgħin 
 
 Iżda l-ispejjeż ta’ xi prosteżi jew implant għandhom jintalbu b’żieda mad-dritt relattiv ta’ l-operazzjoni.
 
-(4) Id-dritt għal dawn l-investigazzjonijiet, proċeduri li ġejjin MINN PAZJENTI BARRANIN [L.S.35.14
-
-jkun -
-
-*3*
+(4) Id-dritt għal dawn l-investigazzjonijiet, proċeduri li ġejjin jkun -
 
 (a) CT Scan ............................................. L349.41
 

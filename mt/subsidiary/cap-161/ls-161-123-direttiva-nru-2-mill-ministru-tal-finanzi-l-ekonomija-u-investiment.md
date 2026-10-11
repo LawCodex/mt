@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva (Nru. 2) mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-Ħruġ ta' Euro 100,000,000 Stock tal-Gvern ta’ Malta (S.L. 161.123)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA (Nru. 2) [L.S.161.123
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.123**
 
 **DIRETTIVA (Nru. 2) MILL-MINISTRU**

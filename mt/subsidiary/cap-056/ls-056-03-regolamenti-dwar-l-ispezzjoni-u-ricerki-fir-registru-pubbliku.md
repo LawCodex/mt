@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Ispezzjoni u Riċerki fir-Reġistru Pubbliku"
-identifier: "S.L. 56.3"
+identifier: "S.L. 56.03"
 eli: "https://legislation.mt/eli/sl/56.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/56.3/20210208/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Ispezzjoni u Riċerki fir-Reġistru Pubbliku (S.L. 56.3)
+# Regolamenti dwar l-Ispezzjoni u Riċerki fir-Reġistru Pubbliku (S.L. 56.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 56.03**
 

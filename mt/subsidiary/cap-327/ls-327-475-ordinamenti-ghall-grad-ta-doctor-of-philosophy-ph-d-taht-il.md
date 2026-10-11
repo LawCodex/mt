@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy - Ph.D. - taħt il-patroċinju taċ-Ċentru għar-Reżiljenza u s-Saħħa Emozzjonali u Soċjali (S.L. 327.475)
 
-IL-PATROĊINJU TAĊ-ĊENTRU GĦAR-REŻILENZA
-
-*1*
-
-US-SAĦĦA EMOZZJONALI USOĊJALI [L.S.327.475
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.475**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -71,13 +65,9 @@ Dawn l-ordinamenti għandhom japplikaw minn Ottubru 2013 ’il quddiem.
 
 ## 5. Kumitat taċ-Ċentru għad-Dottorat.
 
-Il-Bord għandu jirrakkomanda lis-Senat li jinħatar Kumitat IL-PATROĊINJU TAĊ-ĊENTRU GĦAR-REŻILENZA [L.S.327.475 US-SAĦĦA EMOZZJONALI USOĊJALI
+Il-Bord għandu jirrakkomanda lis-Senat li jinħatar Kumitat taċ-Ċentru għad-Dottorat li jkun magħmul kif ġej:
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 158 tal-2024.
-
-taċ-Ċentru għad-Dottorat li jkun magħmul kif ġej:
-
-*2*
 
 Id-Direttur taċ-Ċentru jew delegat (Chairman)
 
@@ -117,8 +107,4 @@ Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preż
 
 (1) L-istudenti jkunu meħtieġa jissottomettu kopja mingħajr legatura tat-teżi tagħhom għal kull membru tal-Bord tal- Eżaminaturi, skont il-format indikat fil-linji gwida ppubblikati, flimkien ma’ kopja f’format diġitali. L-uffiċjal inkarigat miċ- Ċentru għandu joħroġ riċevuta datata.
 
-(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu liċ-Ċentru, tliet kopji tat-teżi b’legatura ħoxna flimkien ma’ kopja f’format diġitali fi żmien sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom. Kopja waħda tat-teżi għandha tinżamm fil-Librerija taċ-Ċentru u kopja oħra fil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l- IL-PATROĊINJU TAĊ-ĊENTRU GĦAR-REŻILENZA
-
-*3*
-
-US-SAĦĦA EMOZZJONALI USOĊJALI [L.S.327.475 ordinament ma jingħatawx il-Grad.
+(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu liċ-Ċentru, tliet kopji tat-teżi b’legatura ħoxna flimkien ma’ kopja f’format diġitali fi żmien sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom. Kopja waħda tat-teżi għandha tinżamm fil-Librerija taċ-Ċentru u kopja oħra fil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

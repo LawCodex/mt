@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar il-Projbizzjoni ta' l-Importazzjoni ta' Ċerti Ħwejjeġ ta' l-Ikel (S.L. 36.23)
 
-~ERTI }WEJJE{ TA’ L-IKEL [ L.S.36.23
-
 **LE{ISLAZZJONI SUSSIDJARJA 36.23**
 
 **ORDNI DWAR IL-PROJBIZZJONI TA’**

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Public Policy Leadership – M.A. - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.225)
 
-SHIP - M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*1*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.225
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.225**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -71,11 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew Ottubru, 2019 
 
 (a) grad ta’ Bachelor miksub tal-anqas fit-Tieni Klassi bl- Unuri fil-Public Policy jew fil-Public Administration; jew
 
-(b) grad ta’ Bachelor miksub tal-anqas fit-Tieni Klassi bl- Unuri jew f’Kategorija II, fi kwalunkwe qasam ieħor meqjus xieraq mill-Bord, sakemm li dawn l-applikanti jistgħu jkunu meħtieġa jipprovdu evidenza ta’ xogħol rilevanti jew ikollhom xogħol rilevanti għall-Kors; jew (ċ) grad ta’ Bachelor miksub fit-Tielet Klassi bl-Unuri fil- Public Policy jew fil-Public Administration, sakemm li l-applikanti jkunu kisbu kwalifiki oħra, inkluż SHIP - M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL- [L.S.327.225 EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY
-
-esperjenza ta’ xogħol rilevanti, wara l-grad tal-ewwel ċiklu tagħhom; jew
-
-*2*
+(b) grad ta’ Bachelor miksub tal-anqas fit-Tieni Klassi bl- Unuri jew f’Kategorija II, fi kwalunkwe qasam ieħor meqjus xieraq mill-Bord, sakemm li dawn l-applikanti jistgħu jkunu meħtieġa jipprovdu evidenza ta’ xogħol rilevanti jew ikollhom xogħol rilevanti għall-Kors; jew (ċ) grad ta’ Bachelor miksub fit-Tielet Klassi bl-Unuri fil- Public Policy jew fil-Public Administration, sakemm li l-applikanti jkunu kisbu kwalifiki oħra, inkluż esperjenza ta’ xogħol rilevanti, wara l-grad tal-ewwel ċiklu tagħhom; jew
 
 (d) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, li hi komparabbli għall-kwalifiki mniżżla fis-sottoparagrafi (a), (b) u (ċ) tal-paragrafu (1) ta’ dan l-ordinament,
 
@@ -111,13 +101,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
-(2) L-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni SHIP - M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*3*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.225
-
-ta’ mhux aktar minn 20 krettu ECTS għal taqsimiet studju mgħallma, jekk ikunu qegħdin isegwu l-Kors fuq bażi full-time, jew mhux aktar minn 10 kretti ECTS għal taqsimiet studju mgħallma, jekk ikunu qegħdin isegwu l-kors fuq bażi part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjonijiet mill-ġdid li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
+(2) L-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 krettu ECTS għal taqsimiet studju mgħallma, jekk ikunu qegħdin isegwu l-Kors fuq bażi full-time, jew mhux aktar minn 10 kretti ECTS għal taqsimiet studju mgħallma, jekk ikunu qegħdin isegwu l-kors fuq bażi part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjonijiet mill-ġdid li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju jkunu meħtieġa jirtiraw mill-kors.
 
@@ -148,7 +132,3 @@ Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduat
 ## 13. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 
 Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time tal-kors.
-
-*4*
-
-SHIP - M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL- [L.S.327.225 EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY

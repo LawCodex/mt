@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kontroll tal-Esportazzjoni"
-identifier: "S.L. 117.2"
+identifier: "S.L. 117.02"
 eli: "https://legislation.mt/eli/sl/117.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/117.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kontroll tal-Esportazzjoni (S.L. 117.2)
+# Regolamenti dwar il-Kontroll tal-Esportazzjoni (S.L. 117.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 117.02**
 

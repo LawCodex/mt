@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science - M.Sc. - taħt il-patroċinju tal-Istitut għall-Iżvilupp Sostenibbli (S.L. 327.398)
 
-TAĦT IL-PATROêINJU TAL-ISTITUT
-
-*1*
-
-GĦALL-IśVILUPP SOSTENIBBLI [L.S.327.398
-
 **LEĀISLAZZJONI SUSSIDJARJA 327.398**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -69,12 +63,6 @@ Il-Kors ikun offrut fi kwalunkwe qasam ta’ studju li jaqa’ taħt ir-responsa
 
 (1) Il-programm preparatorju għandu jikkonsisti f’taqsimiet studju li għalihom hemm assenjati mhux anqas minn 30 kredtu u mhux aktar minn 60 kredtu.
 
-TAĦT IL-PATROêINJU TAL-ISTITUT
-
-*2*
-
-[L.S.327.398 GĦALL-IśVILUPP SOSTENIBBLI
-
 (2) L-istudenti jkunu meħtieāa jtemmu b’suëëess il-programm preparatorju ta’ studju b’marka medja ta’ 55% jew aħjar, qabel ma jirreāistraw għall-kors.
 
 (3) Il-programmi preparatorji ta’ studju huma suāāetti wkoll għar-Regolamenti Prinëipali.
@@ -113,13 +101,7 @@ Il-valutazzjoni tat-taqsimiet studju mgħallma għandhom ikunu kompluti sal-aħ�
 
 (4) Is-superviŜuri jkunu meħtieāa jibgħatu lill-Panel ta’ SuperviŜjoni rapporti dwar l-istudenti taħt is-superviŜjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji. L-istudenti għandhom jitolbu l-approvazzjoni tal-Panel ta’ SuperviŜjoni għal kwalunkwe tibdil sostanzjali fit-titolu jew fil-kontenut tad-dissertazzjoni. Id-dissertazzjoni normalment ma tkunx tista’ tiāi sottomessa għall-eŜami jekk is-superviŜur ma jkunx infurmat.
 
-(5) Il-Panel ta’ SuperviŜjoni għandu perjodikament jinforma TAĦT IL-PATROêINJU TAL-ISTITUT
-
-*3*
-
-GĦALL-IśVILUPP SOSTENIBBLI [L.S.327.398
-
-lill-Bord, bil-miktub, dwar il-livell āenerali milħuq minn kull student. Dawn il-pariri jistgħu jinkludu rakkomandazzjonijiet li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviŜur jidhirlu li dan huwa xieraq fië-ëirkostanzi, sakemm li:
+(5) Il-Panel ta’ SuperviŜjoni għandu perjodikament jinforma lill-Bord, bil-miktub, dwar il-livell āenerali milħuq minn kull student. Dawn il-pariri jistgħu jinkludu rakkomandazzjonijiet li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviŜur jidhirlu li dan huwa xieraq fië-ëirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-disposizzjonijiet tar-Regolamenti Prinëipali; u
 

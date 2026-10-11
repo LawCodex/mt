@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, Ekonomija u Investiment għall-Ħruġ ta’ €60,000,000 3.6% Stock tal-Gvern ta’ Malta 2013 (IV) (S.L. 161.79)
 
-DIRETTIVA MILL-MINISTRU TAL-FINANZI,
-
-L-EKONOMIJA U INVESTIMENT G}ALL-}RU{ TA’
-
-*1*
-
-€60,000,000 3.6% STOCK TAL-GVERN TA’ MALTA 2013 (IV) [S.L.161.79
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.79**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**

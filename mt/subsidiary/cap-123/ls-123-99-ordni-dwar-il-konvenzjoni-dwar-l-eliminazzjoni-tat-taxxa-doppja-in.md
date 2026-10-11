@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar il-Konvenzjoni dwar l-Eliminazzjoni tat-Taxxa Doppja in Konnessjoni ma' l-Aġġustament tal-Qligħ ta' Intrapriżi Assoċjati (S.L. 123.99)
 
-DOPPJA IN KONNESSJONI MA’ L-A{{USTAMENT
-
-*1*
-
-TAL-QLIG} TA’ INTRAPRI|I ASSO~JATI [S.L.123.99 LE{ISLAZZJONI SUSSIDJARJA 123.99
+LE{ISLAZZJONI SUSSIDJARJA 123.99
 
 ORDNI DWAR IL-KONVENZJONI DWAR
 
@@ -50,8 +46,6 @@ B’dan qieg]ed ji[i dikjarat -
 (`) illi huwa spedjenti li dawk l-arran[amenti jkunu implimentati u interpretati, fejn japplika, skond il- Kodi`i ta’ Kondotta adotatt mill-Kunsill ta’ l-Unjoni Ewropea fis-7 ta’ Di`embru, 2004 dwar l-implimentazzjoni effettiva tal-Konvenzjoni dwar l- Eliminazzjoni tat-Taxxa Doppja in Konnessjoni ma’ l- A[[ustament tal-Qlig] ta’ Intrapri\\i Asso`jati (90/ 436/KEE);
 
 (d) illi l-Konvenzjoni murija fl-Iskeda li tinsab ma’ dan l- Ordni bdiet isse]] fl-1 ta’ Novembru, 2006.
-
-DOPPJA IN KONNESSJONI MA’ L-A{{USTAMENT 2 [S.L.123.99 TAL-QLIG} TA’ INTRAPRI|I ASSO~JATI
 
 ## SKEDA — Regolament 2(a)
 
@@ -105,9 +99,7 @@ IL-PRESIDENT TAR-REPUBBLIKA PORTUGI|A,
 
 IL-PRESIDENT TAR-REPUBBLIKA TAS-SLOVENJA,
 
-DOPPJA IN KONNESSJONI MA’ L-A{{USTAMENT
-
-TAL-QLIG} TA’ INTRAPRI|I ASSO~JATI [S.L.123.99 3 IL-PRESIDENT TAR-REPUBBLIKA SLOVAKKA,
+IL-PRESIDENT TAR-REPUBBLIKA SLOVAKKA,
 
 IL-PRESIDENT TAR-REPUBBLIKA TAL-FINLANDJA,
 
@@ -160,12 +152,6 @@ Fl-Artikolu 2(2):
 (e) is-subparagrafu (d) g]andu jsir is-subparagrafu (f);
 
 (f) is-subparagrafu (e) g]andu jsir is-subparagrafu (g) u g]andu jinbidel bit-test li [ej:
-
-DOPPJA IN KONNESSJONI MA’ L-A{{USTAMENT
-
-**[S.L.123.99 TAL-QLIG} TA’ INTRAPRI|I ASSO~JATI**
-
-*4*
 
 ‘(g) fi Spanja:
 
@@ -247,9 +233,7 @@ DOPPJA IN KONNESSJONI MA’ L-A{{USTAMENT
 
 \- davek od dobička pravnih oseb;
 
-DOPPJA IN KONNESSJONI MA’ L-A{{USTAMENT
-
-TAL-QLIG} TA’ INTRAPRI|I ASSO~JATI [S.L.123.99 5 (v) fir-Repubblika Slovakka:
+(v) fir-Repubblika Slovakka:
 
 \- Daň z príjmov právnických osôb,
 
@@ -325,9 +309,7 @@ g]andha tinbidel bi:
 
 **Artikolu 3**
 
-Is-Segretarju {enerali tal-Kunsill ta’ l-Unjoni Ewropea g]andu jittrasmetti lill- DOPPJA IN KONNESSJONI MA’ L-A{{USTAMENT 6 [S.L.123.99 TAL-QLIG} TA’ INTRAPRI|I ASSO~JATI
-
-Gvernijiet tar-Repubblika `eka, ir-Repubblika ta’ l-Estonja, ir-Repubblika ta’ ~ipru, ir-Repubblika tal-Latvja, ir-Repubblika tal-Litwanja, ir-Repubblika ta’ l-Ungerija, ir-Repubblika ta’ Malta, ir-Repubblika tal-Polonja, ir-Repubblika tas-Slovenja u r- Repubblika Slovakka kopja awtentikata ta’:
+Is-Segretarju {enerali tal-Kunsill ta’ l-Unjoni Ewropea g]andu jittrasmetti lill- Gvernijiet tar-Repubblika `eka, ir-Repubblika ta’ l-Estonja, ir-Repubblika ta’ ~ipru, ir-Repubblika tal-Latvja, ir-Repubblika tal-Litwanja, ir-Repubblika ta’ l-Ungerija, ir-Repubblika ta’ Malta, ir-Repubblika tal-Polonja, ir-Repubblika tas-Slovenja u r- Repubblika Slovakka kopja awtentikata ta’:
 
 \- il-Konvenzjoni dwar l-eliminazzjoni tat-taxxa doppja in konnessjoni ma’ l-a[[ustament tal-qlig]\_ta’ intrapri\\i asso`jati;
 
@@ -355,8 +337,6 @@ Is-Segretarju-{enerali tal-Kunsill ta’ l-Unjoni Ewropea g]andu jinnotifika lil
 
 **Artikolu 7**
 
-Din il-Konvenzjoni, imfassla f’ori[inal wie]ed bil-lingwa ~eka, Dani\\a, Estona, Finlandi\\a, Fran`i\\a, {ermani\\a, Griega, Ingli\\a, Irlandi\\a, Latvjana, Litwana, DOPPJA IN KONNESSJONI MA’ L-A{{USTAMENT
-
-TAL-QLIG} TA’ INTRAPRI|I ASSO~JATI [S.L.123.99 7 Maltija, Olandi\\a, Polakka, Portugi\\a, Slovena, Slovakka, Spanjola, Svedi\\a, Taljana u Ungeri\\a, kull wie]ed mill-wie]ed u g]oxrin test ugwalment awtentiku, g]andha ti[i depo\\itata fl-arkivji tas-Segretarjat {enerali tal-Kunsill ta’ l-Unjoni Ewropea. Is-Segretarju-{enerali g]andu jittrasmetti kopja lill-Gvernijiet ta’ kull Stat Firmatarju.
+Din il-Konvenzjoni, imfassla f’ori[inal wie]ed bil-lingwa ~eka, Dani\\a, Estona, Finlandi\\a, Fran`i\\a, {ermani\\a, Griega, Ingli\\a, Irlandi\\a, Latvjana, Litwana, Maltija, Olandi\\a, Polakka, Portugi\\a, Slovena, Slovakka, Spanjola, Svedi\\a, Taljana u Ungeri\\a, kull wie]ed mill-wie]ed u g]oxrin test ugwalment awtentiku, g]andha ti[i depo\\itata fl-arkivji tas-Segretarjat {enerali tal-Kunsill ta’ l-Unjoni Ewropea. Is-Segretarju-{enerali g]andu jittrasmetti kopja lill-Gvernijiet ta’ kull Stat Firmatarju.
 
 Mag]mul fi Brussel fit-tmien jum ta' Di`embru tas-sena elfejn u erbg]a.

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tal-Latvja (S.L. 123.52)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.52**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -101,9 +97,7 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa identika jew sostanzjalment si
 
 (a) il-frażi "Latvja" tfisser ir-Repubblika tal-Latvja u, meta tintuża f’sens ġeografiku, tfisser it-territorju tar-Repubblika tal-Latvja u kull area oħra adjacenti ma’ l-ibħra territorjali tar-Repubblika tal-Latvja li fi ħdanhom taħt l-liġijiet tal-Latvja u skond id-dritt internazzjonali, id-drittijiet tal- Latvja jistgħu jiġu eżercitati għar-rigward ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali relattivi;
 
-(b) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta użata f’sens FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52 3
-
-ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra ta’ l-ar`ipelagu Malti inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ qiegħ il-baħar, is-sottoswol tiegħu u l-kolonna ta’ baħar sovraja`enti u adja`enti għall-ibħra territorjali, fejn ir-Repubblika ta’ Malta għandha drittijiet sovrani, ġurisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tagħha, inkluża l-leġislazzjoni tagħha għar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
+(b) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra ta’ l-ar`ipelagu Malti inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ qiegħ il-baħar, is-sottoswol tiegħu u l-kolonna ta’ baħar sovraja`enti u adja`enti għall-ibħra territorjali, fejn ir-Repubblika ta’ Malta għandha drittijiet sovrani, ġurisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tagħha, inkluża l-leġislazzjoni tagħha għar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
 
 (ċ) il-frażijiet "Stat Kontraenti" u "l-Istat Kontraenti l-ieħor" ifissru Latvja jew Malta skond ir-rabta tal-kliem;
 
@@ -181,8 +175,6 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbi
 
 (b) il-manutenzjoni ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà ta’ l-impriża għall-iskop uniku ta’ ħżin, wiri jew tqassim;
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52 5
-
 (ċ) il-manutenzjoni ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà ta’ l-impriża għall-iskop uniku ta’ pro`essar minn impriża oħra;
 
 (d) il-manutenzjoni ta’ post fiss ta’ negozju għall-iskop uniku ta’ xiri ta’ oġġetti jew merkanzija jew ta’ ġbir ta’ tagħrif għall-impriża;
@@ -243,7 +235,7 @@ Meta l-profitti jkunu jinkludu oġġetti ta’ income li qegħdin jiġu trattati
 
 **TBAĦĦIR U TRASPORT BL-AJRU**
 
-\1. Il-profitti ta’ impriża ta’ Stat Kontraenti mit-tħaddim ta’ bastimenti jew inġenji ta’ l-ajru fi traffiku internazzjonali għandhom jiġu intaxxati biss f’dak l-Istat. FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52 7
+\1. Il-profitti ta’ impriża ta’ Stat Kontraenti mit-tħaddim ta’ bastimenti jew inġenji ta’ l-ajru fi traffiku internazzjonali għandhom jiġu intaxxati biss f’dak l-Istat.
 
 \2. d-disposizzjonijiet tal-paragrafu 1 għandhom ukoll japplikaw għal profitti miksubin mill-parte`ipazzjoni f ’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
 
@@ -299,9 +291,7 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal- kumpannija għar-rigward tal-profitt
 
 \4. Il-frażi "imgħax" kif inhi wżata f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assigurati b’ipoteka sew jekk le, u sew jekk ikollhomx dritt li jipparte`ipaw fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inklużi premiums u premjijiet relatati ma’ dawk it-titoli, bonds jew debentures. Il-frażi "imgħax" m’għandhiex tinkludi income li jkun ittrattat bħala dividend taħt id-disposizzjonijiet ta’ l-Artikolu 10. Ħlasijiet ta’ penali għal ħlas tardiv ma jitqiesux bħala mgħax għall-finijiet ta’ dan l-Artikolu.
 
-\5. Id-disposizzjonijiet tal-paragrafi 1, 2 u 3 m’għandhomx japplikaw jekk is- FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52 9
-
-sid benefi`jarju ta’ l-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bħal dak għandhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ.
+\5. Id-disposizzjonijiet tal-paragrafi 1, 2 u 3 m’għandhomx japplikaw jekk is-sid benefi`jarju ta’ l-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bħal dak għandhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ.
 
 \6. Għandu jitqies li joriġina mgħax fi Stat Kontraenti meta min iħallas ikun residenti ta’ dak l-Istat. Meta, madankollu, l-persuna li tkun qed tħallas l-imgħax, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, jkollha fi Stat Kontraenti stabbiliment permanenti jew bażi fissa li f’konnessjoni miegħu tkun inkisbet il-qagħda ta’ debitu li fuqu jitħallas l-imgħax, u dak l-imgħax jinġarr minn dak l-istabbiliment permanenti jew minn dik il-bażi fissa, allura dak l-imgħax għandu jitqies bħala li joriġina fl-Istat fejn ikunu jinsabu l-istabbiliment permanenti jew bażi fissa.
 
@@ -344,8 +334,6 @@ obbligu li jitħallsu r-royalties, u dawk ir-royalties ikunu r-responsabbiltà t
 **SERVIZZI PERSONALI INDIPENDENTI**
 
 \1. Income li jinkiseb minn residenti ta’ Stat Kontraenti għal servizzi professjonali jew attivitajiet oħra ta’ xorta indipendenti għandu jkun intaxxat biss f’dak l-Istat kemm-il darba ma jkollux bażi fissa stabbilita regolarment disponibbli għalih fl-Istat Kontraenti l-ieħor bil-għan li jwettaq l-attivitajiet tiegħu. Jekk huwa jkollu tali bażi fissa, l-income jista’ jiġi intaxxat fl-Istat l-ieħor iżda biss daqstant minnu daqskemm ikun attribbwibbli għal dik il-bażi fissa. Jekk individwu li jkun residenti ta’ Stat Kontraenti ma jkollux tali bażi fissa, iżda jkun joqgħod fl-Istat Kontraenti l-ieħor għal perjodu jew għal perjodi li b’kollox ikunu ta’, jew li fit-total ikunu jaqbżu l-183 ġurnata f’perijodu ta’ 12 il-xahar li jkun u li jibda għaddej jew itemm fis-sena fiskali in kwistjoni, huwa għandu jitqies bħala li jkollu bażi fissa regolarment disponibbli għalih f’dak l-Istat l-ieħor u l-income li jinkiseb mill-attivitajiet tiegħu hawn aktar qabel imsemmija li jitwettqu f’dak l-Istat l-ieħor għandhom ikunu attribwibbli għal dik il-bażi fissa.
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52 11
 
 \2. Il-frażi "servizzi professjonali" tinkludi attivitajiet letterarji, artisti`i, edukattivi jew ta’ tagħlim li huma spe`jalment indipendenti kif ukoll l-attivitajiet indipendenti ta’ tobba, avukati, in;iniera, periti, dentisti u accountants.
 
@@ -421,9 +409,7 @@ Student, apprendist jew trainee li jkun preżenti fi Stat Kontraenti unikament g
 
 \1. Id-disposizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw minkejja d-disposizzjonijiet ta’ l-Artikli 4 sa 20 ta’ dan il-Ftehim.
 
-\2. Għall-finijiet ta’ dan l-Artikolu, il-frażi "attivitajiet offshore" tfisser FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52 13
-
-attivitajiet li jitwettqu offshore fi Stat Kontraenti f’dak li għandu x’jaqsam ma’ l-esplorazzjoni jew l-esplojtazzjoni ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom li jinsabu f’dak l-Istat.
+\2. Għall-finijiet ta’ dan l-Artikolu, il-frażi "attivitajiet offshore" tfisser attivitajiet li jitwettqu offshore fi Stat Kontraenti f’dak li għandu x’jaqsam ma’ l-esplorazzjoni jew l-esplojtazzjoni ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom li jinsabu f’dak l-Istat.
 
 \3. Persuna li tkun residenti fi Stat Kontraenti u li tkun qed twettaq attivitajiet offshore fl-Istat Kontraenti l-ieħor għandha, bla ħsara għall-paragrafu 4, titqies li tkun qegħda tiġġestixxi negozju f’dak l-Istat l-ieħor permezz ta’ stabbiliment permanenti jew ta’ bażi fissa li tkun tinsab hemmhekk.
 
@@ -477,9 +463,7 @@ Bla ħsara għad-disposizzjonijiet tal-liġi ta’ Malta li tirrigwarda l-għoti
 
 \1. I`-`ittadini ta’ Stat Kontraenti ma għandhomx jiġu suġġetti fl-Istat Kontraenti l-ieħor għal xi tassazzjoni jew għal xi ħtieġa li jkunu konnessi ma’ dan li tkun diversa jew ta’ iktar piż mit-tassazzjoni u ħtigiet konnessi li għalihom `ittadini ta’ dak l-Istat l-ieħor fl-istess `irkostanzi, b’mod partikolari għar-rigward ta’ residenza, huma jew jistgħu jkunu suġġetti. Dan il-provvediment għandu, minkejja d-disposizzjonijiet ta’ l-Artikolu 1, jkun japplika wkoll għal persuni li ma jkunux residenti ta’ xi wieħed jew taż-żewġ Stati Kontraenti.
 
-\2. Persuni apolidi li jkunu residenti ta’ Stat Kontraenti ma għandhomx ikunu assoġġettati f’xi Stat Kontraenti wieħed jew l-ieħor għal xi tassazzjoni jew ħtieġa relatata, li tkun xort’oħra jew ta’ iktar piż mit-taxxa u ħtiġiet konnessi li għalihom i`- FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52 15
-
-`ittadini ta’ l-Istat involut fl-istess `irkostanzi ikunu jew jistgħu jkunu assoġġettati.
+\2. Persuni apolidi li jkunu residenti ta’ Stat Kontraenti ma għandhomx ikunu assoġġettati f’xi Stat Kontraenti wieħed jew l-ieħor għal xi tassazzjoni jew ħtieġa relatata, li tkun xort’oħra jew ta’ iktar piż mit-taxxa u ħtiġiet konnessi li għalihom i`- `ittadini ta’ l-Istat involut fl-istess `irkostanzi ikunu jew jistgħu jkunu assoġġettati.
 
 \3. L-intaxxar fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor ma għandux jinġabar inqas favorevolment f’dak Istat l-ieħor mit-tassazzjoni miġbura fuq impriżi ta’ dak l-Istat l-ieħor li jkun qiegħed iwettaq l-istess ativitajiet. Dan il-provvediment m’għandux jiftiehem bħala li jobbliga lil Stat Kontraenti li jikkon`edi lil residenti ta’ l-Istat Kontraenti l-ieħor xi allowances, ħelsien u tnaqqis personali għall-għanijiet ta’ tassazzjoni minħabba fl-istatus `ivili jew responsabbiltajiet familjari li jikkon`edi lir-residenti tiegħu.
 
@@ -526,8 +510,6 @@ Bla ħsara għad-disposizzjonijiet tal-liġi ta’ Malta li tirrigwarda l-għoti
 \3. Minkejja kull disposizzjoni oħra ta’ dan il-Ftehim, residenti ta’ Stat Kontraenti m’għandux jir`ievi l-benefi``ju ta’ xi tnaqqis fi jew eżenzjoni minn taxxi kif hemm provdut dwarhom f’dan il-Ftehim mill-Istat Kontraenti l-ieħor jekk l-għan ewlieni jew wieħed mill-għanijiet ewlenin tal-ħolqien jew l-eżistenza ta’ dak ir-residenti jew ta’ xi persuna konnessa ma’ dak ir-residenti kienet sabiex jinkisbu l-benefi``ji taħt dan il-Ftehim li kieku xort’oħra ma kienux jingħataw.
 
 **Artikolu 28**
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52 17
 
 **MEMBRI TA’ MISSJONIJIET DIPLOMATIĊI U KARIGI KONSULARI**
 
@@ -601,9 +583,7 @@ Jinftiehem li l-l-ispejjeż li għandhom jiġu permessi bħala tnaqqis minn Stat
 
 (b) fil-każ ta’ Malta, il-persuni li jgawdu trattament fiskali spe`jali huma dawn li ġejjin:
 
-(i) persuni li jkollhom jedd għal benefi``ju tat-taxxa spe`jali taħt l- Att dwar Ċentru għas-Servizzi Finanzjarji ta’ Malta (Kap. 330), ħlief għal dawk il-persuni li jagħżlu li jkunu suġġetti għad-disposizzjonijiet normali ta’ l-Att dwar it-Taxxa fuq l-Income FUQ L-INCOME MAR-REPUBBLIKA TAL-LATVJA [L.S.123.52 19
-
-(Kap. 123) u ta’ l-Att dwar l-Amministrazzjoni tat-Taxxa (Kap. 372); jew
+(i) persuni li jkollhom jedd għal benefi``ju tat-taxxa spe`jali taħt l- Att dwar Ċentru għas-Servizzi Finanzjarji ta’ Malta (Kap. 330), ħlief għal dawk il-persuni li jagħżlu li jkunu suġġetti għad-disposizzjonijiet normali ta’ l-Att dwar it-Taxxa fuq l-Income (Kap. 123) u ta’ l-Att dwar l-Amministrazzjoni tat-Taxxa (Kap. 372); jew
 
 (ii) persuni, u sa liema limitu, taħt id-disposizzjonijiet ta’ l-Att dwar il-Bastimenti Merkantili (Kap. 234), li ma jkunux suġġetti għat-taxxa fuq il-profitti miksubin mit-tħaddim ta’ bastimenti fi traffiku internazzjonali; jew
 

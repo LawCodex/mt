@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Stampi tas-Swaba, Fotografiji u Qisien ta' Imputati"
-identifier: "S.L. 9.4"
+identifier: "S.L. 9.04"
 eli: "https://legislation.mt/eli/sl/9.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/9.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Stampi tas-Swaba, Fotografiji u Qisien ta' Imputati (S.L. 9.4)
-
-STAMPI TAS-SWABA, FOTOGRAFIJI U
-
-*1*
-
-QISIEN TA’ IMPUTATI [L.S. 9.04.
+# Regolamenti dwar Stampi tas-Swaba, Fotografiji u Qisien ta' Imputati (S.L. 9.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 9.04**
 

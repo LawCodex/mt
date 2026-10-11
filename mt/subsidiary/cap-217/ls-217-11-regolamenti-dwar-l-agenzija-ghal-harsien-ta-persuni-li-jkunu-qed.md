@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Aġenzija għal Ħarsien ta’ Persuni li jkunu qed ifittxu l-Asil (S.L. 217.11)
 
-*1*
-
-LI JKUNU QED IFITTXU L-ASIL [L.S.217.11
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.11**
 
 **REGOLAMENTI DWAR L-AĠENZIJA**
@@ -102,10 +98,6 @@ Iżda l-Ministru jista’ jaħtar bord konsultattiv ta’ mhux inqas minn żewġ
 
 (1) Il-funzjoni tal-Aġenzija hija l-implimentazzjoni ta’ leġislazzjoni nazzjonali u politika li tikkonċerna l-ħarsien tar-rifuġjati, persuni li jgawdu protezzjoni internazzjonali u persuni li jkunu qed ifittxu l-asil.
 
-*3*
-
-LI JKUNU QED IFITTXU L-ASIL [L.S.217.11
-
 *(2)*
 
 Fit-twettiq tal-funzjonijiet tagħha, l-Aġenzija għandha:
@@ -168,11 +160,9 @@ L.S.217.11] LI JKUNU QED IFITTXU L-ASIL
 
 Iżda l-Ministru responsabbli għall-finanzi jista’, wara konsultazzjoni mal-Ministru, jitlob ukoll li l-kotba u l-kontijiet tal- Aġenzija jiġu vverfikati jew eżaminati mill-Awditur Ġenerali li għandu għal dan il-għan ikollu setgħa li jwettaq dik il-verifika personalment u kwalunkwe ċertifikazzjonijiet oħra li jidhrulu neċessarji.
 
-*5*
+## 9. Kuntratti u provvisti.
 
-LI JKUNU QED IFITTXU L-ASIL [L.S.217.11 9. Mingħajr preġudizzju għal kwalunkwe ordni kkomunikata mill-Ministru skont ir-regolament 3(2), l-Aġenzija m’għandhiex, ħlief bl-approvazzjoni tal-Ministru maħruġ għal raġunijiet speċjali u wara konsultazzjoni mal-Ministru responsabbli għall-finanzi, tagħti jew tidħol f ’kuntratt għall-provvista ta’ affarijiet jew materjal jew għall-eżekuzzjoni ta’ xogħolijiet, jew biex tagħti servizzi, lil jew għal benefiċċju tal-Aġenzija, li huma stmati minnha li jaqbżu sebat elef u ħames mitt euro (€7,500) jew ammont ieħor illi l-Ministru responsabbli għall-finanzi jista’ permezz ta’ regolamenti jippreskrivi, ħlief wara li tingħata nota ta’ intenzjoni mill-Aġenzija biex tagħmel kuntratt, tkun ġiet ippublikata u appalti kompetittivi jkunu nħarġu skont l-Att dwar il-Ġestjoni tal-Finanzi Pubbliċi sakemm ikunu japplikaw għall-aġenziji tal-gvern.
-
-*Kuntratti u provvisti.*
+Mingħajr preġudizzju għal kwalunkwe ordni kkomunikata mill-Ministru skont ir-regolament 3(2), l-Aġenzija m’għandhiex, ħlief bl-approvazzjoni tal-Ministru maħruġ għal raġunijiet speċjali u wara konsultazzjoni mal-Ministru responsabbli għall-finanzi, tagħti jew tidħol f ’kuntratt għall-provvista ta’ affarijiet jew materjal jew għall-eżekuzzjoni ta’ xogħolijiet, jew biex tagħti servizzi, lil jew għal benefiċċju tal-Aġenzija, li huma stmati minnha li jaqbżu sebat elef u ħames mitt euro (€7,500) jew ammont ieħor illi l-Ministru responsabbli għall-finanzi jista’ permezz ta’ regolamenti jippreskrivi, ħlief wara li tingħata nota ta’ intenzjoni mill-Aġenzija biex tagħmel kuntratt, tkun ġiet ippublikata u appalti kompetittivi jkunu nħarġu skont l-Att dwar il-Ġestjoni tal-Finanzi Pubbliċi sakemm ikunu japplikaw għall-aġenziji tal-gvern.
 
 *Kap. 601.*
 
@@ -224,11 +214,7 @@ tibqax fis-seħħ wara sena mid-data effettiva ta’ dik l-ordni sakemm dik l-or
 
 ## 14. Trasferiment tal-assi.
 
-(1)(a) Il-proprjetà u l-impriżi li jappartjenu lill-Gvern u użati minnu, immedjatament minn qabel id-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti, u użati minnu għat-twettieq ta’ kwalunkwe funzjonijiet illi permezz ta’ LI JKUNU QED IFITTXU L-ASIL [L.S.217.11
-
-dawn ir-regolamenti qegħdin jiġu trasferiti lil jew vestiti fl-Aġenzija għandhom, fid-data hawn qabel imsemmija, bis-saħħa ta’ dawn ir-regolamenti u mingħajr assigurazzjoni oħra, jiġu trasferiti lil u vestiti fl-Aġenzija taħt l-istess titolu li bih kienu miżmuma mill-Gvern immedjatament qabel id-data msemmija. Id-dispożizzjonijiet ta’ dan is-subregolament ma japplikawx għal proprjetà immobbli.
-
-*7*
+(1)(a) Il-proprjetà u l-impriżi li jappartjenu lill-Gvern u użati minnu, immedjatament minn qabel id-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti, u użati minnu għat-twettieq ta’ kwalunkwe funzjonijiet illi permezz ta’ dawn ir-regolamenti qegħdin jiġu trasferiti lil jew vestiti fl-Aġenzija għandhom, fid-data hawn qabel imsemmija, bis-saħħa ta’ dawn ir-regolamenti u mingħajr assigurazzjoni oħra, jiġu trasferiti lil u vestiti fl-Aġenzija taħt l-istess titolu li bih kienu miżmuma mill-Gvern immedjatament qabel id-data msemmija. Id-dispożizzjonijiet ta’ dan is-subregolament ma japplikawx għal proprjetà immobbli.
 
 (b) L-assi immobbli speċifikati minn żmien għal żmien f’ordni mogħtija mill-President ta’ Malta u ppubblikati fil-Gazzetta (hawn iżjed ’il quddiem imsemmija bħala "assi immobbli") li jkunu assi immobbli li, immedjatament qabel id-dħul fis-seħħ ta’ dawn ir-regolamenti, meta huma proprjetà tal-Gvern u wżati minnu għall-operazzjoni ta’ kwalunkwe funzjoni, li b’dawn ir-regolamenti jkunu trasferiti lil jew vestiti fl- Aġenzija għandhom, b’effett minn dik il-ġurnata li tkun speċifikata f’dik l-ordni, u bis-saħħa ta’ dawn ir-regolamenti u mingħajr assigurazzjoni oħra jiġu trasferiti lil u vestiti fl-Aġenzija taħt l-istess titolu li bih kienu miżmuma mill-Gvern qabel dak il-jum.
 

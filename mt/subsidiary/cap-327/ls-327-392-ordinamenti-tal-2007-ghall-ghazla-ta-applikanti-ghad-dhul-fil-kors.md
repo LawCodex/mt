@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti tal-2007 għall-Għażla ta’ Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Science (Honours) - B.Sc. (Hons) - taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.392)
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-INSTITUTE OF HEALTH CARE [L.S.327.392
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.392**
 
 **ORDINAMENTI TAL-2007 GĦALL-GĦAŻLA TA’**
@@ -71,11 +65,7 @@ Kull meta l-għadd ta’ studenti li jistgħu jidħlu fl-oqsma ta’ studju tal-
 
 (iii) l-applikanti li jiksbu marka perċentwali globali ta’ bejn il-45 u d-69 fil-Higher Diploma in Health Science (Nursing Studies) jew fid- Diploma in Health Science (Nursing Studies) jew punti ekwivalenti jingħataw 25 marka;
 
-(iv) l-applikanti li ma jkollhomx il-Higher Diploma in Health GRAD TA’ BACHELOR OF SCIENCE (HONOURS) TAĦT IL- PATROĊINJU TAL-INSTITUTE OF HEALTH CARE
-
-Science (Nursing Studies) jew id-Diploma in Health Science (Nursing Studies) iżda li għandhom il-kwalifika ta’ Infermiera Reġistrat/a jingħataw 20 marka;
-
-*[L.S.327.392 2*
+(iv) l-applikanti li ma jkollhomx il-Higher Diploma in Health Science (Nursing Studies) jew id-Diploma in Health Science (Nursing Studies) iżda li għandhom il-kwalifika ta’ Infermiera Reġistrat/a jingħataw 20 marka;
 
 (b) esperjenza ta’ xogħol f’impieg bi qligħ fil-qasam tal-infermiera (piż ta’ 25%):
 
@@ -103,13 +93,7 @@ Science (Nursing Studies) jew id-Diploma in Health Science (Nursing Studies) iż
 
 (ii) applikanti li għandhom 4 snin esperjenza f’xogħol rilevanti mhux fil-qasam tal-kommunità jingħataw 4 marki;
 
-(g) (i) applikanti li għandhom 3 snin esperjenza f’xogħol rilevanti fil-qasam tal- GRAD TA’ BACHELOR OF SCIENCE (HONOURS) TAĦT IL-
-
-*3*
-
-PATROĊINJU TAL-INSTITUTE OF HEALTH CARE [L.S.327.392
-
-kommunità jingħataw 5 marki;
+(g) (i) applikanti li għandhom 3 snin esperjenza f’xogħol rilevanti fil-qasam tal-kommunità jingħataw 5 marki;
 
 (ii) applikanti li għandhom 3 snin esperjenza f’xogħol rilevanti mhux fil-qasam tal-kommunità jingħataw 3 marki;
 
@@ -134,10 +118,6 @@ sakemm li d-data użata biex jiġu kkalkulati s-snin ta’ xogħol ta’ esperje
 (i) l-applikanti li jiksbu marka perċentwali globali ta’ bejn it-80 u l-100 fid-Diploma in Psychiatric Nursing jew punti ekwivalenti jingħataw 45 marka;
 
 (ii) l-applikanti li jiksbu marka perċentwali globali ta’ bejn it-80 u l-100 fil-Higher Diploma in Health Science (Nursing Studies) jew fid- Diploma in Health Science (Nursing Studies) jew punti ekwivalenti jingħataw 40 marka;
-
-*4*
-
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) TAĦT IL- [L.S.327.392 PATROĊINJU TAL-INSTITUTE OF HEALTH CARE
 
 (iii) l-applikanti li jiksbu marka perċentwali globali ta’ bejn is-70 u d-79 fid-Diploma in Psychiatric Nursing jew punti ekwivalenti jingħataw 35 marka;
 

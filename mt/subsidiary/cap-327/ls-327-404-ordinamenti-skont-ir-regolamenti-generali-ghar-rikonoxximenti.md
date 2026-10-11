@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Arts in Tourism – M.A. – taħt il-patroċinju tal-Istitut għat- Turiżmu, l- Ivvjaġġar u l-Kultura (S.L. 327.404)
 
-– M.A. – TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA [L.S.327.404
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.404**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -80,12 +74,6 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 ## 6. Pubblikazzjoni tal-programm ta’ studju. Enumerat: A.L. 179 of 2017.
 
 Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
-
-– M.A. – TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*2*
-
-[L.S.327.404 GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA
 
 ## 7. Valutazzjoni progress. Enumerat: A.L. 179 of 2017.
 

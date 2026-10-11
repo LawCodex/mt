@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statut għaċ-Ċentru tal-Mediċina Molekulari u tal-Biobanking. (S.L. 327.512)
 
-*1*
-
-MOLELULARI U TAL-BIOBANKING [L.S.327.512
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.512**
 
 **STATUT GĦAĊ-ĊENTRU TAL-MEDIĊINA**
@@ -61,11 +57,7 @@ L-għanijiet taċ-Ċentru huma dawn:
 
 (f) li jħaddem trasferminet u għarfien tal-għerf waqt li jqajjem inizjattivi fuq riżorsi bijomolekulari u dawk tal-biobanking ma’ kumpaniji, organizzazzjonijiet, u istituzzjonijiet oħra ’l barra mill-Università biex jippromovi l-aħjar prattika (eż. biex jippromovi użu aktar effiċjenti tar-riżorsi bijomolekulari; biex jippromovi tqassim ahjar ta’ kampjuni u data);
 
-(g) li jxxerred għerf miksub permezz ta’ midja on-line, MOLELULARI U TAL-BIOBANKING
-
-pubblikazzjonijiet, seminars, konferenzi u programmi ta’ taghlim; u
-
-*[L.S.327.512 2*
+(g) li jxxerred għerf miksub permezz ta’ midja on-line, pubblikazzjonijiet, seminars, konferenzi u programmi ta’ taghlim; u
 
 (h) li jirrappreżenta l-Università ta’ Malta bhala l-node BBMRI.MT fi ħdan l-istruttura tal-BioBanking u l- Infrastruttura tar-Riċerka BijoMolekulari tal-Unjoni Ewropea.
 
@@ -117,11 +109,7 @@ Id-funzjonijiet tal-Bord ikunu dawn li ġejjin:
 
 (i) japprova business plans u l-estimi annwali tad-dħul u l-ħruġ taċ-Ċentru għall-kunsiderazzjoni u l-approvazzjoni tal-Kunsill;
 
-(ii) bi qbil bil-miktub mar-Rettur jagħmel ftehim MOLELULARI U TAL-BIOBANKING [L.S.327.512
-
-ma’ terzi biex jagħtu fondi liċ-Ċentru jew għall-attivitajiet partikulari;
-
-*3*
+(ii) bi qbil bil-miktub mar-Rettur jagħmel ftehim ma’ terzi biex jagħtu fondi liċ-Ċentru jew għall-attivitajiet partikulari;
 
 (iii) jippubblika rapport annwali;
 
@@ -157,10 +145,6 @@ Id-dmirijiet tal-Viċi Chairman/Direttur taċ-Ċentru jinkludu:
 
 (ċ) li jiżgura li t-taqsimiet tal-studji offruti miċ-Ċentru huma mogħtija skont il-programm tal-istudji kif irreklamat; id-Direttur għandu jiżgura li l-istaff tal-lekċerers, li jaqgħu taħt l-awtorità tiegħu, jagħtu l-lekċers, is-seminars u t-tutorials kollha kif assenjat lilhom rispettivament, fil-ħin u fil-post kif indikat fuq it-timetable uffiċjali, u li kull tibdil ikun reġistrat formalment u li l-istudenti jkunu infurmati fil-ħin;
 
-**MOLELULARI U TAL-BIOBANKING**
-
-*[L.S.327.512 4*
-
 (d) li jwassal u jimplimenta l-pjan strateġiku taċ-Ċentru taħt it-tmexxija tal-Bord;
 
 (e) li jamministra ċ-Ċentru b’konsultazzjoni sħiħa mal-membri tiegħu; jimmonitorja u japprova talbiet għal leave of absence mill-membri taċ-Ċentru; iżomm reġistru tal-leave kollu tal-membri u jgħaddi, meta mitlub, din l-informazzjoni lid-Direttur għat-Tmexxija u l-Iżvilupp tar-Riżorsi Umani;
@@ -185,13 +169,7 @@ Id-dmirijiet tal-Viċi Chairman/Direttur taċ-Ċentru jinkludu:
 
 (l) li jirrappreżenta ċ-Ċentru f’funzjonijiet uffiċjali tal- Università;
 
-(m) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fiċ-Ċentru fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet riċenti tal-membri kollha taċ-Ċentru; ġabra fil-qosor tal-proġetti li fihom huma involuti membri taċ-Ċentru, li huma finanzjati kollha jew parzjalment minn barra;
-
-*5*
-
-MOLELULARI U TAL-BIOBANKING [L.S.327.512
-
-lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni taċ-Ċentru ma’ terzi li jinkludi l-industrija lokali, il-Gvern jew is-soċjetà ċivili b’mod ġenerali;
+(m) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fiċ-Ċentru fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet riċenti tal-membri kollha taċ-Ċentru; ġabra fil-qosor tal-proġetti li fihom huma involuti membri taċ-Ċentru, li huma finanzjati kollha jew parzjalment minn barra; lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni taċ-Ċentru ma’ terzi li jinkludi l-industrija lokali, il-Gvern jew is-soċjetà ċivili b’mod ġenerali;
 
 (n) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju kif approvat mill-Bord għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani għaċ-Ċentru, li jkopri it-tagħlim, ir-riċerka u x-xogħol amministrattiv proġettat għaċ-Ċentru u bbażat fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti taċ-Ċentru u tal- Visiting Teaching Staff;
 
@@ -213,11 +191,7 @@ Minbarra dan, id-Direttur taċ-Ċentru:
 
 (d) hu mistenni li jkun preżenti fuq il-kampus jew kwalunkwe sît indikat mill-Università ta’ Malta għall-inqas fil-ħinijiet normali tal-uffiċċju mit-Tnejn sal- Ġimgħa matul is-sena skont l-esiġenzi ta’ akkademiku u b’konformità mal-prattiċi u l-ħtiġiet tal-Università u bid-dritt għal-leave normali u għall-festi pubbliċi kif provdut fil-liġi; jekk l-assenza tiegħu tkun meħtieġa u ġġustifikata, hu għandu jiżgura li jkun jista’ jsir kuntatt miegħu permezz tas-segretarjat taċ-Ċentru;
 
-(e) m’għandu jgħaddi l-ebda informazzjoni lil terzi li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università [L.S.327.512 MOLELULARI U TAL-BIOBANKING
-
-ta’ Malta; kull xogħol li jkun qed isir fiċ-Ċentru għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien tad-data;
-
-*6*
+(e) m’għandu jgħaddi l-ebda informazzjoni lil terzi li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università ta’ Malta; kull xogħol li jkun qed isir fiċ-Ċentru għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien tad-data;
 
 (f) għandu jintrabat bl-istatuti, bir-regolamenti, avviżi legali u bil-policies tal-Università ta’ Malta, li huma fis-seħħ jew li jsiru effettivi fi żmien il-ħatra tiegħu. 11. Id-Direttur tal-Finanzi tal-Università jkun it-Teżorier taċ- Ċentru.
 

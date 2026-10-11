@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Bord għar-Riżoluzzjoni ta' Kontroversji"
-identifier: "S.L. 146.6"
+identifier: "S.L. 146.06"
 eli: "https://legislation.mt/eli/sl/146.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/146.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Bord għar-Riżoluzzjoni ta' Kontroversji (S.L. 146.6)
+# Regolamenti dwar Bord għar-Riżoluzzjoni ta' Kontroversji (S.L. 146.06)
 
 LE{ISLAZZJONI SUSSIDJARJA 146.06
 

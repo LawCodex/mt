@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet għal Ċertifikati rigward il-Konvenzjoni dwar il-Kummerċ fi Speċi Mhedda ta' Fawna u Flora Selvaġġ (S.L. 35.20)
 
-DRITTIJIET G}AL ~ERTIFIKATI RIGWARD IL-
-
-KONVENZJONI DWAR IL-KUMMER~ FI SPE~I MHEDDA
-
-*1*
-
-TA’ FAWNA U FLORA SELVA{{ [L.S.35.20
-
 **LE{ISLAZZJONI SUSSIDJARJA 35.20**
 
 **REGOLAMENTI DWAR DRITTIJIET G}AL**

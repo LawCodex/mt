@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta’ ammont li ma jeċċedix €78,810,156.07 5.5% Stock tal-Gvern ta’ Malta 2023 (L-Ewwel Ħruġ) (S.L. 161.104)
 
-ĦRUĠ TA’ AMMONT LI MA JEĊĊEDIX €78,810,156.07
-
-5.5% STOCK TAL-GVERN TA’ MALTA 2023
-
-*1*
-
-(L-EWWEL ĦRUĠ) [L.S.161.104
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.104**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

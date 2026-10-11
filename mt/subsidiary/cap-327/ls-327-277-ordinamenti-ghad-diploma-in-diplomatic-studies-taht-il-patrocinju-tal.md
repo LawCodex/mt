@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Diplomatic Studies taħt il-patroċinju tal-Mediterranean Academy of Diplomatic Studies (S.L. 327.277)
 
-DIPLOMA IN DIPLOMATIC STUDIES TA}T IL-
-
-PATRO~INJU TAL-MEDITERRANEAN
-
-*1*
-
-ACADEMY OF DIPLOMATIC STUDIES [S.L.327.277
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.277**
 
 ORDINAMENTI G}AD-DIPLOMA IN DIPLOMATIC STUDIES TA}T IL-PATRO~INJU TAL-

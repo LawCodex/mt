@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.477)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.477
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.477**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -75,15 +69,9 @@ Id-Dekan tal-Fakultà jew delegat (Chairman)
 
 ## 6. Superviżjoni.
 
-Is-superviżuri prinċipali huma meħtieġa jissottomettu rapport bil-miktub lill-Bord, permezz tal-Kumitat tal-Fakultà għad- Dottorat, kull sena għall-istudenti kollha li jaqgħu taħt is- TAĦT IL-PATROĊINJU TAL-FAKULTÀ
+Is-superviżuri prinċipali huma meħtieġa jissottomettu rapport bil-miktub lill-Bord, permezz tal-Kumitat tal-Fakultà għad- Dottorat, kull sena għall-istudenti kollha li jaqgħu taħt is-superviżjoni tagħhom.
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 163 tal-2024.
-
-*2*
-
-[L.S.327.477 GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-superviżjoni tagħhom.
 
 ## 7. Progress.
 

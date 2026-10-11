@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta’ Proprjetà) (2011) (S.L. 261.34)
 
-*1*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2011) [L.S.261.34
-
 LE{ISLAZZJONI SUSSIDJARJA 261.34
 
 ORDNI DWAR L-AWTORITÀ TAD-DJAR
@@ -75,11 +71,7 @@ B’se]] mill-4 ta’ Jannar, 2011:
 
 B’se]] mit-3 ta’ Marzu, 2011:
 
-(1) Bi``a art, li tinsab fil-Qasam tad-Djar f’Burmarrad, limiti ta’ San Pawl il-Ba]ar, li tikkonsisti fi Plots 10- 14, ta’ madwar 1,308.10 metru kwadru. Din l-art tmiss mill-Grigal ma’ proprjetà privata, mix-Xlokk ma’ (TRASFERIMENT TA’ PROPRJETÀ) (2011) [L.S.261.34
-
-proprjetà trasferita lill-Awtorità tad-Djar u mil-Lbi` ma’ Triq il-Mag]sar, u li tinsab fuq Proprjetà tal- Gvern akkwistata bid-Dikjarazzjoni tal-President 1232 datata 15 ta’ Di`embru 2010 u fuq parti minn Tenement Nru. 51083. L-art tinsab re[istrata b]ala Tenement Nru. E26263 u delineata bl-a]mar fuq il-pjanta P.D. 2009\_141\_1 (HAM 850/88).
-
-*3*
+(1) Bi``a art, li tinsab fil-Qasam tad-Djar f’Burmarrad, limiti ta’ San Pawl il-Ba]ar, li tikkonsisti fi Plots 10- 14, ta’ madwar 1,308.10 metru kwadru. Din l-art tmiss mill-Grigal ma’ proprjetà privata, mix-Xlokk ma’ proprjetà trasferita lill-Awtorità tad-Djar u mil-Lbi` ma’ Triq il-Mag]sar, u li tinsab fuq Proprjetà tal- Gvern akkwistata bid-Dikjarazzjoni tal-President 1232 datata 15 ta’ Di`embru 2010 u fuq parti minn Tenement Nru. 51083. L-art tinsab re[istrata b]ala Tenement Nru. E26263 u delineata bl-a]mar fuq il-pjanta P.D. 2009\_141\_1 (HAM 850/88).
 
 (2) Bi``a art, mag]rufa b]ala Plot 25, li issa g]andha n-numru 6, fi Triq il-Gladjoli, li tifforma parti mill- Qasam tal-Bini tal-Gvern ta’ San {wann, Neighbourhood II, f’San {wann, ta’ madwar 133.40 metri kwadri, li tmiss mit-Tramuntana ma’ proprjetà kon`essa b’enfitewsi perpetwu, minn Nofs-in-Nhar ma’ proprjetà privata, u mill-Punent ma’ Triq il- Gladjoli. L-art hi so[[etta g]al enfitewsi perpetwu b’Kuntratt Nru. 89/90 datat 4 ta’ April, 1990 fl-atti tan-Nutar F. Pellegrini. L-art tinsab fuq parti minn proprjetà tal-Gvern li kienet qabel re[istrata b]ala Tenement Nru. 51328 u tinsab re[istrata fl-atti tad- Dipartiment g]at-Tmexxija tal-Proprjetà b]ala Tenement Nru. 41754 u delineata bl-a]mar u markata "P. 25" fuq il-pjanta L.D. 128/80/24. (HAP 10/2010). (3) Bi``a art, mag]rufa b]ala Plot 107, fi Triq l- Istefanotis, li tifforma parti mill-Qasam tal-Bini tal- Gvern ta’ San {wann, Neighbourhood II, f’San {wann, ta’ madwar 127.34 metri kwadri, li tmiss mill- Majjistral ma’ Triq l-Istefanotis, mill-Grigal ma’ proprjetà trasferita lill-Awtorità tad-Djar, u mil-Lbi` ma’ proprjetà tal-Gvern. L-art hi so[[etta g]al enfitewsi temporanju b’Kuntratt Nru. 143/69 datat 10 ta’ Mejju, 1969 fl-atti tan-Nutar A. Grech. L-art tinsab fuq parti minn proprjetà tal-Gvern li kienet qabel re[istrata b]ala Tenement Nru. 51328 u tinsab re[istrata fl-atti tad-Dipartiment g]at-Tmexxija tal- Proprjetà b]ala Tenement Nru. 65554 u delineata bl-a]mar u markata "P. 107" fuq il-pjanta L.D. 128/80/19.
 
@@ -101,11 +93,7 @@ limiti ta’ Qormi, li tikkonsisti fi Plots 7-11 u 22-24 u ta’ madwar 1,605.40
 
 B’se]] mill-1 ta’ {unju, 2011:
 
-(1) Bi``a art mag]rufa b]ala Blokk IV li tikkonsisti f’30 unità residenzjali, li teskludi s-sottoswol fi Triq San Pietru, Triq San Pawl, Triq il-Vittorja, Triq San Lawrenz u Triq i\\-|ew[ Mini fl-Isla u ta’ madwar 1, 476 metru kwadru. Il-blokk imiss mill-Grigal ma’ Triq i\\-|ew[ Mini, mill-Majjistral ma’ Triq San Pietru u San Pawl, u mil-Lbi` ma’ Triq il-Vitorja u jinsab fuq proprjetà tal-Gvern akkwistata bid-Dikjarazzjoni tal- President Nru. 272 datata 7 ta’ Marzu 2010. L-art fejn (TRASFERIMENT TA’ PROPRJETÀ) (2011) [L.S.261.34
-
-jinsab Blokk IV tinsab re[istrata mat-Taqsima Proprjetà tal-Gvern b]ala Tenement E26181 u delineata bl-a]mar u markata b]ala ‘Blokk IV’ fuq il-pjanta P.D. 2010\_913 (HAA 9/2011).
-
-*5*
+(1) Bi``a art mag]rufa b]ala Blokk IV li tikkonsisti f’30 unità residenzjali, li teskludi s-sottoswol fi Triq San Pietru, Triq San Pawl, Triq il-Vittorja, Triq San Lawrenz u Triq i\\-|ew[ Mini fl-Isla u ta’ madwar 1, 476 metru kwadru. Il-blokk imiss mill-Grigal ma’ Triq i\\-|ew[ Mini, mill-Majjistral ma’ Triq San Pietru u San Pawl, u mil-Lbi` ma’ Triq il-Vitorja u jinsab fuq proprjetà tal-Gvern akkwistata bid-Dikjarazzjoni tal- President Nru. 272 datata 7 ta’ Marzu 2010. L-art fejn jinsab Blokk IV tinsab re[istrata mat-Taqsima Proprjetà tal-Gvern b]ala Tenement E26181 u delineata bl-a]mar u markata b]ala ‘Blokk IV’ fuq il-pjanta P.D. 2010\_913 (HAA 9/2011).
 
 (2) Bi``a art mag]rufa b]ala Blokk 5A li tikkonsisti f’]ames appartamenti, sebat idjar, tliet i]wienet u garaxx, li teskludi s-sottoswol fi Triq is-Sur u Triq D’Homedes fl-Isla u ta’ madwar 585 metru kwadru. Il-blokk imiss mill-Grigal ma’ Triq D’Homedes, mill- Majjistral ma’ Triq San Mikiel, u mil-Lbi` ma’ Triq is- Sur u jinsab fuq proprjetà tal-Gvern akkwistata bid- Dikjarazzjoni tal-President Nru. 573 datata 3 ta’ {unju 2010. L-art fejn jinsab Blokk 5A tinsab re[istrata mat- Taqsima Proprjetà tal-Gvern b]ala Tenement E26205 u delineata bl-a]mar u markata b]ala ‘Blokk 5A’ fuq il-pjanta P.D. 2010\_944 (HAA10/2011).
 
@@ -128,10 +116,6 @@ Proprjetà tal-Gvern. Dawn il-plots jinsabu fuq parti minn proprjetà tal-Gvern 
 (`) Plot C, tal-kejl ta’ madwar 471.80 metru kwadru u re[istrat b]ala Tenement E 26357 mat- Taqsima Proprjetà tal-Gvern. Il-Plot jinsab fuq Proprjetà tal-Gvern akkwistata bid- Dikjarazzjoni tal-President Nru. 271 datata 23 ta’ Marzu 2011. Plot C jmiss mill-Majjistral ma’ Triq il-Vittmi tax-Xog]ol, mil-Lbi` ma’ Triq l- G]aqdiet tal-}addiema, u mill-Grigal ma’ Triq il-}idma (HAM 856/88).
 
 (7) Bi``a art li tifforma parti minn Entratura 1, Binja tal- Qarbuni, fi blokk fi Triq Jean De La Cassiere f’San Pawl il-Ba]ar, ta’ madwar 61 metru kwadru. Din l-art tmiss mill-Majjistral ma’ proprjetà tal-Gvern kon`essa b’enfitewsi temporanju, mil-Lbi` ma’ triq pubblika u mill-Grigal ma’ proprjetà trasferita lill-Awtorità tad- Djar u tinsab fuq proprjetà tal-Gvern akkwistata bid- Dikjarazzjoni tal-President Nru.738 datata 22 ta’ Lulju 2010. L-art tinsab re[istrata b]ala Tenement Nru. E21496 u delineata bl-a]mar fuq il-pjanta P.D. 2008\_279\_1 (HAM 41/99).
-
-*7*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2011) [L.S.261.34
 
 (8) Bi``a art mag]rufa b]ala Plot 107 u Sit B fi Triq i`- ¬ikas, Bulebel i\\-|g]ir, |abbar H.O.S., |abbar, so[[etti g]al `ens temporanju g]al perjodu ta’ 150 sena li bdew jiddekorru mis-7 t’Ottubru 1970. Kemm il-Plot u s-Sit imissu mill-Punent ma’ Triq i`-¬ikas, min-Nofsinhar ma’ proprjetà tal-Gvern u mil-Lvant ma’ spazju miftu], jinsabu re[istrati fl-atti tad- Dipartiment g]at-Tmexxija tal-Proprjetà b]ala Tenement 65924 u jinsabu delineati bl-a]mar u markati b]ala ‘Plot 107’ u Sit ‘B’ rispettivament, fuq il-pjanta L.D. 37/81/39 u l-Plot kienet qabel tag]mel parti minn Tenement 50771 (HAP 6/2010).
 

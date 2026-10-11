@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Eżenzjoni mill-Ħlas ta’ Taxxa Doppja fuq l-Income mal-Montenegro (S.L. 123.108)
 
-*1*
-
-FUQ L-INCOME MAL-MONTENEGRO [L.S.123.108
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.108**
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -101,8 +97,6 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 (2) il-fra\\i "Montenegro" tfisser l-Istat ta’ Montenegro u, meta u\\ata f’sens [eografiku, tfisser it-territorju ta’ art ta’ Montenegro, l-ib]ra interni tag]ha u l-faxxa tal-ba]ar territorjali, l-ispazju ta’ l-ajru fuqu, kif ukoll qieg] il-ba]ar u s-sottoswol ta’ dik il-parti tal-ba]ar ’il barra mix-xefaq ta’ barra tal-ba]ar territorjali li dwaru Montenegro te\\er`ita d-drittijiet sovrani tag]ha g]all-esplorazzjoni u l-esplojtazzjoni tar-ri\\orsi naturali ta]t il-li[i interna tag]ha u l-li[i internazzjonali;
 
-FUQ L-INCOME MAL-MONTENEGRO [L.S.123.108 3
-
 (3) il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti, inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol u l-kolonna ta’ ba]ar sovraja`enti u adja`enti g]all-ib]ra territorjali, fejn Malta te\\er`ita drittijiet sovrani, [urisdizzjoni jew kontroll ta]t id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\i l-li[ijiet tag]ha dwar l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
 
 (4) il-fra\\i "`ittadin" tfisser:
@@ -179,8 +173,6 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabbi
 
 (2) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li jkunu proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ ]a\\na, wiri jew kunsinna;
 
-FUQ L-INCOME MAL-MONTENEGRO [L.S.123.108 5
-
 (3) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ pro`essar minn impri\\a o]ra;
 
 (4) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku ta’ xiri ta’ o[[etti jew merkanzija jew ta’ [bir ta’ tag]rif, g]all-impri\\a;
@@ -241,9 +233,7 @@ Meta l-profitti jkunu jinkludu o[[etti ta’ income li jkunu qeg]din ji[u tratta
 
 \1. Il-profitti ta’ impri\\a ta’ Stat Kontraenti mit-t]addim ta’ bastimenti jew in[enji ta’ l-ajru fi traffiku internazzjonali g]andhom ikunu taxxabbli biss f’dak l- Istat.
 
-\2. Id-disposizzjonijiet tal-paragrafu 1 g]andhom ukoll japplikaw g]al profitti FUQ L-INCOME MAL-MONTENEGRO [L.S.123.108 7
-
-mill-parte`ipazzjoni f’pool, negozju bi s]ab jew a[enzija b’operat internazzjonali.
+\2. Id-disposizzjonijiet tal-paragrafu 1 g]andhom ukoll japplikaw g]al profitti mill-parte`ipazzjoni f’pool, negozju bi s]ab jew a[enzija b’operat internazzjonali.
 
 **Artikolu 9**
 
@@ -297,9 +287,7 @@ Dan il-paragrafu m’g]andux jaffettwa l-intaxxar tal-kumpannija fuq dawk il-pro
 
 \4. Il-fra\\i ''mg]ax'' kif inhi u\\ata f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le, u sew jekk ikollhomx dritt li jipparte`ipaw fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inklu\\i premiums u premjijiet marbutin ma’ dawk it-titoli, bonds jew debentures. }lasijiet ta’ penali g]al ]las tardiv ma jitqisux b]ala mg]ax g]all-finijiet ta’ dan l- Artikolu.
 
-\5. Id-disposizzjonijiet tal-paragrafu 1, 2 u 3 m’g]andhomx japplikaw jekk is-sid benefi`jarju ta’ l-img]ax, li jkun resident ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment FUQ L-INCOME MAL-MONTENEGRO [L.S.123.108 9
-
-permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, kif ikun il-ka\\.
+\5. Id-disposizzjonijiet tal-paragrafu 1, 2 u 3 m’g]andhomx japplikaw jekk is-sid benefi`jarju ta’ l-img]ax, li jkun resident ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, kif ikun il-ka\\.
 
 \6. L-img]ax g]andu jitqies li jori[ina fi Stat Kontraenti meta min i]allas ikun residenti ta’ dak l-Istat. Meta, madankollu, l-persuna li tkun qeg]da t]allas l-img]ax, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, ikollha fi Stat Kontraenti stabbilment permanenti jew ba\\i fissa li f’konnessjoni mag]hom kien sar id-dejn li fuqu jit]allas l-img]ax, u dak l-img]ax ji[[arrab minn dak l-istabbilment jew ba\\i fissa, g]aldaqstant dak l-img]ax g]andu jitqies li jori[ina fl-Istat fejn ikunu jinsabu l-istabbilment permanenti jew il-ba\\i fissa.
 
@@ -353,9 +341,7 @@ id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, kif ikun il-ka\
 
 \1. Income li jinkiseb minn resident ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti g]andu jkun intaxxat biss f’dak l-Istat ]lief fi`-`irkostanzi li [ejjin, meta dak l-income jista’ ji[i intaxxat fl- Istat Kontraenti l-ie]or:
 
-(1) jekk ikollu ba\\i stabbilita regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u; f’dak il-ka\\ hi FUQ L-INCOME MAL-MONTENEGRO [L.S.123.108 11
-
-biss dik il-parti mill-income tieg]u daqskemm tkun attribwibbli lil dik il-ba\\i stabbilita li tista’ ti[i intaxxata f’dak l-Istat Kontraenti l-ie]or; jew
+(1) jekk ikollu ba\\i stabbilita regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u; f’dak il-ka\\ hi biss dik il-parti mill-income tieg]u daqskemm tkun attribwibbli lil dik il-ba\\i stabbilita li tista’ ti[i intaxxata f’dak l-Istat Kontraenti l-ie]or; jew
 
 (2) jekk il-qag]da tieg]u fl-Istat l-ie]or tkun g]al perjodu jew g]al perjodi li jammontaw g]al jew jaqb\\u l-183 [urnata f’perjodu ta’ tnax-il xahar li jibda g]addej jew itemm fis-sena fiskali in kwistjoni; f’dak il-ka\\ hi biss dik il-parti mill-income daqskemm tinkiseb mill-attivitajiet mwettqa f’dak l-Istat Kontraenti l-ie]or li tista’ ti[i intaxxata f’dak l- Istat l-ie]or.
 
@@ -423,8 +409,6 @@ spettaklu jew l-isportiv innifsu i\\da minn xi persuna o]ra, dak l-income jista�
 
 \3. Id-disposizzjonijiet ta’ l-Artikoli 15, 16, 17 u 18 g]andhom japplikaw g]al kull salarju, paga u kumpens simili ie]or u g]al pensjonijiet, g]ar-rigward ta’ servizzi mog]tijin f’dak li g]andu x’jaqsam ma’ negozju li jkun [estit minn Stat Kontraenti jew awtorità lokali tieg]u.
 
-FUQ L-INCOME MAL-MONTENEGRO [L.S.123.108 13
-
 **Artikolu 20**
 
 **STUDENTI**
@@ -479,9 +463,7 @@ tobbliga lil Stat Kontreanti li jag]ti lil resident ta’ l-Istat Kontraenti l-i
 
 **SKAMBJU TA’ INFORMAZZJONI**
 
-\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tista’ tkun me]tie[a g]at-twettiq tad-disposizzjonijiet ta’ dan il- Ftehim jew tal-li[ijiet domesti`i ta’ l-Istati Kontraenti g]ar-rigward ta’ taxxi koperti FUQ L-INCOME MAL-MONTENEGRO [L.S.123.108 15
-
-bil-Ftehim sakemm l-intaxxar li jsir ta]thom ma jkunx kuntrarju g]all-Ftehim, partikolarment g]al prevenzjoni ta’ frodi u eva\\joni ta’ taxxa. L-iskambju ta’ informazzjoni m’huwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta minn Stat Kontraenti g]andha ti[i trattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) li jkunu involuti fl-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`i\\joni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f ’de`i\\jonijiet [udizzjarji.
+\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tista’ tkun me]tie[a g]at-twettiq tad-disposizzjonijiet ta’ dan il- Ftehim jew tal-li[ijiet domesti`i ta’ l-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]thom ma jkunx kuntrarju g]all-Ftehim, partikolarment g]al prevenzjoni ta’ frodi u eva\\joni ta’ taxxa. L-iskambju ta’ informazzjoni m’huwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta minn Stat Kontraenti g]andha ti[i trattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) li jkunu involuti fl-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`i\\joni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f ’de`i\\jonijiet [udizzjarji.
 
 \3. F’ebda ka\\ ma g]andhom id-disposizzjonijiet tal-paragrafu 1 jiftiehmu b]ala li jimponu fuq Stat Kontraenti l-obbligu:
 

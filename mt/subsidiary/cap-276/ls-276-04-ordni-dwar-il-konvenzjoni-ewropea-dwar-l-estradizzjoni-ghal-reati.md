@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar il-Konvenzjoni Ewropea dwar l-Estradizzjoni għal Reati Fiskali"
-identifier: "S.L. 276.4"
+identifier: "S.L. 276.04"
 eli: "https://legislation.mt/eli/sl/276.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/276.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar il-Konvenzjoni Ewropea dwar l-Estradizzjoni għal Reati Fiskali (S.L. 276.4)
-
-*1*
-
-L-ESTRADIZZJONI G}AL REATI FISKALI [L.S.276.04
+# Ordni dwar il-Konvenzjoni Ewropea dwar l-Estradizzjoni għal Reati Fiskali (S.L. 276.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 276.04**
 
@@ -120,10 +116,6 @@ Rumanija
 Russja
 
 Serbja
-
-*3*
-
-L-ESTRADIZZJONI G}AL REATI FISKALI [L.S.276.04
 
 Slovakkja
 

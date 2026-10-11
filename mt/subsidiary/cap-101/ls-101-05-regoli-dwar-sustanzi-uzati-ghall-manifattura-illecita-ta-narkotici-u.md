@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar Sustanzi Użati għall-Manifattura Illeċita ta' Narkotiċi u Sustanzi Psikotropiċi"
-identifier: "S.L. 101.5"
+identifier: "S.L. 101.05"
 eli: "https://legislation.mt/eli/sl/101.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/101.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar Sustanzi Użati għall-Manifattura Illeċita ta' Narkotiċi u Sustanzi Psikotropiċi (S.L. 101.5)
-
-*1*
-
-TA’ NARKOTI~I U SUSTANZI PSIKOTROPI~I [L.S.101.05
+# Regoli dwar Sustanzi Użati għall-Manifattura Illeċita ta' Narkotiċi u Sustanzi Psikotropiċi (S.L. 101.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 101.05**
 
@@ -97,11 +93,7 @@ L-operaturi g]andhom id-dmir:
 
 (b) l-isem tas-sustanzi skedati kif mog]tija fil-Kategorija 1 tat-Tabella I tat-Tielet Skeda li tinsab ma’ l- Ordinanza,
 
-(`) il-kwantità u l-pi\\ tas-sustanza skedata u, meta din tkun tikkonsisti f’ta]lita, il-kwantità u l-pi\\ tat-ta]lita kif ukoll il-kwantità u l-pi\\ jew il-per`enta[[ ta’ kull TA’ NARKOTI~I U SUSTANZI PSIKOTROPI~I [L.S.101.05
-
-sustanza jew sustanzi elenkati fit-Tabella I tat-Tielet Skeda li tinsab ma’ l-Ordinanza li jkun hemm fit-ta]lita,
-
-*3*
+(`) il-kwantità u l-pi\\ tas-sustanza skedata u, meta din tkun tikkonsisti f’ta]lita, il-kwantità u l-pi\\ tat-ta]lita kif ukoll il-kwantità u l-pi\\ jew il-per`enta[[ ta’ kull sustanza jew sustanzi elenkati fit-Tabella I tat-Tielet Skeda li tinsab ma’ l-Ordinanza li jkun hemm fit-ta]lita,
 
 (d) dettalji dwar l-arran[amenti tat-trasport, u b’mod partikolari d-data mistennija meta x-xog]ol ikun se jintbag]at, isem l-ufficcju tad-dwana fejn g]andha ssir id-dikjarazzjoni tad-dwana dwar l-esportazzjoni, u sakemm dak it-tag]rif ikun disponibbli f’dan l-istadju, identifikazzjoni tal-mezzi ta’ trasport, l-itinerarju, il-post ta’ ]ru[ li se jkun hemm minn Malta u l-post ta’ d]ul [ewwa l-pajji\\ importatur.
 
@@ -139,11 +131,7 @@ me]tie[a u g]andu jwa]]al it-timbru tieg]u fuq il-kopja ta’ l-awtorizzazzjoni 
 
 ## 7. }ti[iet ta’ esportazzjoni spe`ifi`i: Kategorija 2 Tabella I.
 
-(1) L-esportazzjoni ta’ sustanzi skedati elenkati fil- Kategorija 2 tat-Tabella I tat-Tielet Skeda li tinsab ma’ l-Ordinanza g]andhom ikunu so[[etti g]al awtorizzazzjoni ma]ru[a skond is-subregoli (2) u (3) mis-Suprintendent skond id-disposizzjonijiet li TA’ NARKOTI~I U SUSTANZI PSIKOTROPI~I [L.S.101.05
-
-jkunu fis-se]].
-
-*5*
+(1) L-esportazzjoni ta’ sustanzi skedati elenkati fil- Kategorija 2 tat-Tabella I tat-Tielet Skeda li tinsab ma’ l-Ordinanza g]andhom ikunu so[[etti g]al awtorizzazzjoni ma]ru[a skond is-subregoli (2) u (3) mis-Suprintendent skond id-disposizzjonijiet li jkunu fis-se]].
 
 (2) L-esportazzjonijiet imsemmija fis-subregola (1) g]andha tkun so[[etta mutatis mutandis g]ad-disposizzjonijiet tar-regola 6, kull meta dawn jidhru li jkunu ma]subin, direttament jew indirettament, g]al xi pajji\\ importatur li jkun [ie identifikat b]ala pajji\\ im]asseb dwar il-manifattura ille`ita ta’ dawk in-narkoti`i jew sustanzi psikotropi`i bl-u\\u ta’ dawk is-sustanzi skedati. Dik l-identifikazzjoni g]andha tkun ba\\ata, b’mod partikolari, fuq talba motivata li ssir minn dak il-pajji\\ importatur li jkun im]asseb. Id-disposizzjonijiet tar-regola 6 g]andhom ukoll japplikaw kull meta awtorizzazzjoni individwali miftu]a ma tkunx tista’ ti[i ma]ru[a ta]t is-subregola (3):
 
@@ -186,10 +174,6 @@ I\\da d-disposizzjonijiet tar-regola 6 g]andhom ukoll japplikaw kull meta sustan
 (b) ikun hemm tassew g]aliex wie]ed jissuspetta li l-prekawzjonijiet li jittie]du ma jkunux bi\\\\ejjed biex jipprevjenu d-diver\\joni ta’ sustanzi skedati g]all-manifattura ille`ita ta’ narkoti`i u sustanzi psikotropi`i jew biex wie]ed jissuspetta li l-operatur jew il-persuna responsabbli fil-ka\\ ta’ persuna [uridika, ma jkunux qeg]din jipprovdu ]arsien bi\\\\ejjed kontra r-riskju ta’ diver\\joni.
 
 (5) Minkejja li jkun hemm dik l-awtorizzazzjoni, jistg]u jkunu projbiti mill-awtoritajiet kompetenti operazzjonijiet ta’ esportazzjoni individwali li jsiru bis-sa]]a ta’ l-awtorità mog]tija permezz ta’ dik l-awtorizzazzjoni.
-
-*7*
-
-TA’ NARKOTI~I U SUSTANZI PSIKOTROPI~I [L.S.101.05
 
 (6) Ming]ajr pre[udizzju g]al kull obbligu li jori[ina ta]t ir-regola 4, id-detentur ta’ l-awtorizzazzjoni msemmija fis-subregola (1) hawn qabel g]andu j]ares kull obbligu li [ej:
 
@@ -238,10 +222,6 @@ G]all-iskop li ma jit]allewx isiru riskji spe`ifi`i ta’ diver\\joni f’\\oni 
 (b) Dawk id-dokumenti g]andhom iktar minn hekk ikun fihom dikjarazzjoni ming]and il-klijent li jkunu juru kull u\\u spe`ifiku tas-sustanzi. Tkun me]tie[a dikjarazzjoni separata, kif spe`ifikata fl-Anness III, g]al kull sustanza fil-Kategoriji 1 jew 2 tat-Tabella I tat-Tielet Skeda li tinsab ma’ l-Ordinanza.
 
 (`) Ming]ajr pre[udizzju g]all-paragrafi ta’ hawn aktar qabel, klijent regolari l jikseb ming]and fornitur sustanza skedata specifikata fil-Kategorija 2 tat- Tabella I tat-Tielet Skeda li tinsab ma’ l-Ordinanza jista’ jipprovdi dikjarazzjoni unika, kif spe`ifikat fl- Anness IV, li tkun tkopri kull bi``a negozju li tinvolvi dik is-sustanza tul \\mien sena, i\\da:
-
-*9*
-
-TA’ NARKOTI~I U SUSTANZI PSIKOTROPI~I [L.S.101.05
 
 (i) il-klijent irid ikun wie]ed li jkun fornih bis-sustanza g]al mill-inqas tliet darbiet matul it-tnax-il xahar li ji[u qabel,
 
@@ -318,8 +298,6 @@ Singapor
 Turkija
 
 1 Huwa inklu\\ ukoll il-mel] ta’ dawn is-sustanzi ]lief g]al sulphuric acid u hydrochloric acid kull meta jkun posibbli li je\\isti dan il-mel].
-
-TA’ NARKOTI~I U SUSTANZI PSIKOTROPI~I [L.S.101.05 11
 
 ## ANNESS III
 
@@ -406,8 +384,6 @@ Firma ........................................... Isem .........................
 Kariga .......................................... Data ................................................
 
 (1) Kodi`i ta’ Nomenklatura Kombinata.
-
-TA’ NARKOTI~I U SUSTANZI PSIKOTROPI~I [L.S.101.05 13
 
 ## ANNESS V
 
@@ -547,8 +523,6 @@ Kariga: ........................................................
 
 Data: .................................
 
-TA’ NARKOTI~I U SUSTANZI PSIKOTROPI~I [L.S.101.05 15
-
 \3. KOPJA G}ALL-ESPORTATUR
 
 Awtorizzazzjoni dwar l-esportazzjoni ta’ sustanzi w\\ati fil-manifattura ille`ita ta’ narkoti`i u sustanzi psikotropi`i
@@ -640,8 +614,6 @@ Il-firma ta’ l-applikanl jew tar-rappre\\entant awtorizzat minnu g]andha tindi
 \- l-osservanza ta’ kull obbligazzjoni li to]ro[ mill-esportazzjoni ta’ sustanzi skedati elenkati f’dawn ir-regoli.
 
 Kull meta l-awtorizzazzjoni tkun ma]ru[a permezz ta’ pro`edura komputerizzata, dik l-awtorizzazzjoni mhux ta’ bilfors li jkun fiha l-firma ta’ l-applikant f’din il-kaxxa, jekk f’tali applikazzjoni g]andu jkun hemm dik il-firma.
-
-TA’ NARKOTI~I U SUSTANZI PSIKOTROPI~I [L.S.101.05 17
 
 ## ANNESS VI — Awtorizzazzjoni individwali miftu]a g]all-esportazzjoni ta’ sustanzi elenkati — fil-Kategoriji 2 u 3 tat-Tabella I tat-Tielet Skeda li tinsab ma’ l-Ordinanza
 

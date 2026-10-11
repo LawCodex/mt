@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Arts (Honours) in Early Childhood Education and Care - B.A. (Hons) ECEC - taħt l-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.539)
 
-CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC
-
-*1*
-
-\- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.539
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.539**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF ARTS IN EARLY CHILDHOOD EDUCATION AND CARE - B.A. (Hons) ECEC - TAĦT IL-PATRĊINJU
@@ -66,9 +60,7 @@ L-AVVIŻ LEGALI 151 tal-2016, kif emendat bl-Avviż Legali 244 tal- 2017 106 tal
 
 (i) l-Advanced Diploma in Children’s Care, Learning and Development (MCAST) jew kwalunkwe kwalifika rikonoxxuta oħra li tkun komparabbli u ekwivalenti; u
 
-*2*
-
-CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC [L.S.327.539 - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI (ii) għaddew fil-Livell taċ-Ċertifikat tal-Edukazzjoni Sekondarja bi Grad 5 jew aħjar fil-Lingwa Ingliża, fil- Malti u fil-Matematika; u
+(ii) għaddew fil-Livell taċ-Ċertifikat tal-Edukazzjoni Sekondarja bi Grad 5 jew aħjar fil-Lingwa Ingliża, fil- Malti u fil-Matematika; u
 
 (iii) għaddew fil-Livell taċ-Ċertifikat tal-Edukazzjoni Sekondarja bi Grad 5 jew aħjar fil-Lingwa Ingliża, fil- Malti u fil-Matematika
 
@@ -94,13 +86,7 @@ L-applikanti bi kwalifiki oħra li jkunu kkunsidrati bħala suffiċjenti jistgħ
 
 *Sostitwit: A.L. 209 tal-2020.*
 
-(1) Il-Bord għandu jirrakkomanda lis-Senat in-numru ta’ studenti li jistgħu jitħallew jirreġistraw għall-Kors, skont id-disponibbilità tar-riżorsi umani u l-għadd ta’ klassijiet xierqa disponibbli għall-komponent tal-esperjenza fil-qasam tax-xogħol. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet, sakemm li 10% tal-postijiet disponibbli għandhom ikunu riservati għall-applikanti eliġibbli skont il-paragrafu (4) tal-ordinament 3. Jekk xi ftit jew il-postijiet kollha riservati ma jimtlewx, dawn il-postijiet għandhom ikunu disponibbli għal applikanti li jissodisfaw ir-rekwiżiti ġenerali u CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC
-
-*3*
-
-\- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.539
-
-speċjali għall-kors.
+(1) Il-Bord għandu jirrakkomanda lis-Senat in-numru ta’ studenti li jistgħu jitħallew jirreġistraw għall-Kors, skont id-disponibbilità tar-riżorsi umani u l-għadd ta’ klassijiet xierqa disponibbli għall-komponent tal-esperjenza fil-qasam tax-xogħol. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet, sakemm li 10% tal-postijiet disponibbli għandhom ikunu riservati għall-applikanti eliġibbli skont il-paragrafu (4) tal-ordinament 3. Jekk xi ftit jew il-postijiet kollha riservati ma jimtlewx, dawn il-postijiet għandhom ikunu disponibbli għal applikanti li jissodisfaw ir-rekwiżiti ġenerali u speċjali għall-kors.
 
 (2) Meta l-għadd tal-applikanti li jistgħu jiġu aċċettati fil-Kors hu ristrett skont il-paragrafu (1) ta’ dan l-ordinament, u n-numru ta’ applikanti eliġibbli jaqbeż in-numru ta’ postijiet disponibbli, l-applikanti jiġu magħżula abbażi tal-kwalifiki akkademiċi li l-piż tagħhom ikun skont il-kriterji għall-għażla, li jkunu ppubblikati fiż-żmien tas-sejħa għall-applikazzjonijiet, sakemm li l-applikanti kkunsidrati skont il-paragrafu (4) tal-ordinament 3 għandhom jiġu magħżula skont il-kriterji li ġejjin:
 
@@ -134,15 +120,13 @@ Il-Kors jinfirex fuq perijodu ta’ tlett snin ta’ studju fuq bażi full-time 
 
 (i) irreġistraw għat-taqsimiet-studju inklużi fil- Communication and Academic Skills Programme (CASP); u
 
-(ii) joqogħdu għal Test ta’ Ħiliet fil-Malti – ‘Test ta’ Ħiliet fil-Malti’ fil-bidu tal-Kors, diment li l-applikanti li għaddew mill-Malti fil-livell Intermedju jew CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC [L.S.327.539 - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI Avvanzat tal-Matrikola bi Grad C jew ogħla, jew kwalifiki li l-Bord iqis bħala ekwivalenti, għandhom jiġu eżentati minn dan ir-rekwiżit. L-istudenti li jeħlu mit-Test ta’ Ħiliet fil-Malti jkunu meħtieġa jsegwu u jtemmu b’suċċess kors ta’ profiċjenza fil-Malti..
+(ii) joqogħdu għal Test ta’ Ħiliet fil-Malti – ‘Test ta’ Ħiliet fil-Malti’ fil-bidu tal-Kors, diment li l-applikanti li għaddew mill-Malti fil-livell Intermedju jew Avvanzat tal-Matrikola bi Grad C jew ogħla, jew kwalifiki li l-Bord iqis bħala ekwivalenti, għandhom jiġu eżentati minn dan ir-rekwiżit. L-istudenti li jeħlu mit-Test ta’ Ħiliet fil-Malti jkunu meħtieġa jsegwu u jtemmu b’suċċess kors ta’ profiċjenza fil-Malti..
 
 ## 9. Ttotal ta’ kretti. Emendata: A.L. 244 tal- 2017; A.L.106 tal-2018; A.L. 161 tal-2021.
 
 *Sostitwit: A.L. 181 tal-2023.*
 
 (1) L-Istudenti li jtemmu b’suċċess sett preskritt ta’ taqsimiet-studju b’total ta’ 120 krettu ECTS, inkluż żewġ esperjenzi fil-qasam tax-xogħol, u ma jtemmux b’suċċess il-Kors, ikunu eliġibbli għall-Higher Diploma.
-
-*4*
 
 (2) L-istudenti jkunu eliġibbli għall-għotja tal-Grad jekk itemmu b’suċċess:
 
@@ -164,13 +148,7 @@ Il-Kors jinfirex fuq perijodu ta’ tlett snin ta’ studju fuq bażi full-time 
 
 (4) L-istudenti huma meħtieġa jirrispettaw il-Kodiċi ta’ Etika għall- Esperjenza fil-Qasam tal-Xogħol u l-Kodiċi ta’ Kondotta ppubblikati mill-Bord. Kwalunkwe ksur ta’ dawn il-Kodiċi jkun riferut lill-Bord tal-Eżaminaturi u tista’ ssir rakkomandazzjoni lis-Senat għat-tkeċċija mill-Kors.
 
-(5) (a) L-istudenti li, għal raġunijiet ta’ saħħa, ma jattendux għal mhux aktar minn tliet ijiem għandhom jippreżentaw ċertifikat mediku fi żmien erbgħa u għoxrin siegħa lill-koordinatur tal-esperjenza fil-qasam tal-xogħol. Iċ-ċertifikat mediku, miktub minn tabib mediku, għandu jiddikjara biċ-ċar ir-raġuni medika li qiegħda timpedixxi lill-istudent milli jattendi l-iskola u għandu jinkludi l-isem, il-firma u n-numru CHILDHOOD EDUCATION AND CARE - B.A.(Hons) ECEC
-
-*5*
-
-\- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.539
-
-**tar-reġistrazzjoni medika tat-tabib mediku.**
+(5) (a) L-istudenti li, għal raġunijiet ta’ saħħa, ma jattendux għal mhux aktar minn tliet ijiem għandhom jippreżentaw ċertifikat mediku fi żmien erbgħa u għoxrin siegħa lill-koordinatur tal-esperjenza fil-qasam tal-xogħol. Iċ-ċertifikat mediku, miktub minn tabib mediku, għandu jiddikjara biċ-ċar ir-raġuni medika li qiegħda timpedixxi lill-istudent milli jattendi l-iskola u għandu jinkludi l-isem, il-firma u n-numru tar-reġistrazzjoni medika tat-tabib mediku.
 
 (b) Meta l-istudenti ma jattendux l-ambjent tat-tfal fl-età bikrija għal mhux aktar minn tliet ijiem, għal raġunijiet ta’ saħħa jew kwalunkwe raġuni oħra li l- Bord jikkunsidra bħala valida, kif ukoll f’ċirkostanzi speċjali li għalihom tingħata approvazzjoni minn qabel mill-Bord tal-Eżaminaturi tal-esperjenza fil-qasam tal-xogħol, jiġu mitluba biex ipattu għal xi prattika ta’ tagħlim li ma tkunx saret skont l-istruzzjonijiet maħruġa mill-koordinatur tal-esperjenza fil-qasam tal-xogħol u mill-Kap tad-Dipartiment tal-Early Childhood and Primary Education.
 

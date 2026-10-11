@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Scirocco Heights Residences bħala Żona Speċjali Msemmija (S.L. 246.29)
 
-*1*
-
-ŻONA SPEĊJALI MSEMMIJA [L.S. 246.29
-
 **LEĠISLAZZJONI SUSSIDJARJA 246.29**
 
 **ORDNI DWAR SCIROCCO HEIGHTS RESIDENCES**
@@ -39,7 +35,3 @@ Scirocco Heights Residences li tikkonsisti fi proprjetà immobbli li tinsab fiż
 ## 3. Żieda mal-Ewwel Skeda li tinsab mal-Att dwar l- Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti. Kap. 246.
 
 Scirocco Heights Residences għandha tiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti.
-
-**[L.S. 246.29 ŻONA SPEĊJALI MSEMMIJA**
-
-*2*

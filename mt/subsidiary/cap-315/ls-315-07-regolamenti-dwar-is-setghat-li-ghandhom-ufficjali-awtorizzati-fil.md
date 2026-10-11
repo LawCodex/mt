@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar is-Setgħat li għandhom Uffiċjali Awtorizzati fil-Kontroll tat-Tipjip tat-Tabakk"
-identifier: "S.L. 315.7"
+identifier: "S.L. 315.07"
 eli: "https://legislation.mt/eli/sl/315.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/315.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar is-Setgħat li għandhom Uffiċjali Awtorizzati fil-Kontroll tat-Tipjip tat-Tabakk (S.L. 315.7)
-
-*1*
-
-FIL-KONTROLL TAT-TIPJIP TAT-TABAKK [L.S.315.07
+# Regolamenti dwar is-Setgħat li għandhom Uffiċjali Awtorizzati fil-Kontroll tat-Tipjip tat-Tabakk (S.L. 315.07)
 
 LE{ISLAZZJONI SUSSIDJARJA 315.07
 

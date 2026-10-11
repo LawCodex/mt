@@ -17,9 +17,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-Postgraduate Diploma in Maltese Sign Language Interpreting – P.G. Dip. - taħt il-patroċinju tal-Istitut tal-Lingwistika u tat-Teknoloġija tal-Lingwa (S.L. 327.592)
 
-*1*
-
-LANGUAGE INTERPRETING – P.G. DIP. [L.S. 327.592 LEĠISLAZZJONI SUSSIDJARJA 327.592
+**LEĠISLAZZJONI SUSSIDJARJA 327.592**
 
 **L-ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -63,11 +61,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew fi Frar 2018 j
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
 
-*2*
-
-[L.S. 327.592 LANGUAGE INTERPRETING – P.G. DIP.
-
-(b) jgħaddu minn intervista li għandha ssir parti bil- Malti, parti bl-Ingliż u parti bil-Lingwa tas-Sinjali Maltija biex jiġu determinati l-għarfien u l-profiċjenza tal-lingwa tagħhom.
+Malti, parti bl-Ingliż u parti bil-Lingwa tas-Sinjali Maltija biex jiġu determinati l-għarfien u l-profiċjenza tal-lingwa tagħhom.
 
 (2) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-Kors, skont ir-riżorsi disponibbli. In-numru ta’ postijiet disponibbli jkun imħabbar fiż-żmien meta toħroġ is-sejħa għall-applikazzjonijiet.
 
@@ -99,14 +93,8 @@ Il-Kors għandu jinfirex fuq erba’ semestri ta’ studju fuq bażi part-time l
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament u l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju jkunu meqjusa li weħlu mill-Kors.
 
-*3*
+Diploma jekk jiksbu s-60 krettu ECTS kif imfassla fil-programm ta’ studju għall-Kors b’marka medja globali ta’ mill-anqas 50%.
 
-LANGUAGE INTERPRETING – P.G. DIP. [L.S. 327.592 7. L-istudenti jkunu eliġibbli għall-għotji tal-Postgraduate Eliġibilità. Diploma jekk jiksbu s-60 krettu ECTS kif imfassla fil-programm ta’
+## 8. Il-Klassifikazzjoni tal-Postgraduate Diploma.
 
-studju għall-Kors b’marka medja globali ta’ mill-anqas 50%.
-
-## 8.
-
-Il-Marka Medja Finali Mwieżna għall-iskop tal- Il-Klassifikazzjoni tal-Postgraduate klassifikazzjoni tal-Postgraduate Diploma għandha tkun ibbażata fuq ir- Diploma. riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-
-
-kretti kollha jingħataw piż indaqs.
+Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar id-Dħul ta’ Malta bħala membru tal-Fond Monetarju Internazzjonali (Ftehim dwar Self"
-identifier: "S.L. 209.1"
+identifier: "S.L. 209.01"
 eli: "https://legislation.mt/eli/sl/209.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/209.1/20170828/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar id-Dħul ta’ Malta bħala membru tal-Fond Monetarju Internazzjonali (Ftehim dwar Self (S.L. 209.1)
-
-DĦUL TA’ MALTA BĦALA MEMBRU TAL-FOND
-
-*1*
-
-MONETARJU INTERNAZZJONALI (FTEHIM DWAR SELF) [L.S. 209.01
+# Ordni dwar id-Dħul ta’ Malta bħala membru tal-Fond Monetarju Internazzjonali (Ftehim dwar Self (S.L. 209.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 209.01**
 

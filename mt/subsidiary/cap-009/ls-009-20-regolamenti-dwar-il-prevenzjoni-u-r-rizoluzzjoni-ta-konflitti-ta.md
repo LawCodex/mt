@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Prevenzjoni u r-Riżoluzzjoni ta’ Konflitti ta’ Eżerċiżżju ta’ Ġurisdizzjoni fi Proċedimenti Kriminali (S.L. 9.20)
 
-TA’ EŻERĊIZZJU TA’ ĠURISDIZZJONI FI
-
-*1*
-
-PROĊEDIMENTI KRIMINALI [L.S.9.20
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.20**
 
 **REGOLAMENTI DWAR IL-PREVENZJONI**
@@ -61,12 +55,6 @@ Għall-finijiet ta’ dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma teħtie�
 
 "Stat Membru" tfisser xi wieħed mill-Istati Membri tal-Unjoni Ewropea;
 
-TA’ EŻERĊIZZJU TA’ ĠURISDIZZJONI FI
-
-*2*
-
-[L.S.9.20 PROĊEDIMENTI KRIMINALI
-
 *Kap. 460.*
 
 "it-Trattat" għandu jkollha l-istess tifsira mogħtija lilha bl-artikolu 2 tal-Att dwar l-Unjoni Ewropea;
@@ -99,11 +87,7 @@ Iżda wkoll l-ebda kuntatt ma jkollu bżonn isir meta l-awtoritatjiet kompetenti
 
 ## 6. Obbligu li jwieġeb lura.
 
-(1) L-Avukat Ġenerali għandu jwieġeb għal talba sottomessa skont ir-regolament 4 fi skadenza raġonevoli TA’ EŻERĊIZZJU TA’ ĠURISDIZZJONI FI
-
-*3*
-
-PROĊEDIMENTI KRIMINALI [L.S.9.20 debitament indikata mill-awtorità li qed tagħmel il-kuntatt, jew fin-nuqqas ta’ dik l-iskadenza, l-Avukat Ġenerali għandhu, mill-aktar fis, jinforma lill-awtorità li qed tagħmel il-kuntatt jekk qegħdin isiru proċedimenti paralleli f’Malta:
+(1) L-Avukat Ġenerali għandu jwieġeb għal talba sottomessa skont ir-regolament 4 fi skadenza raġonevoli debitament indikata mill-awtorità li qed tagħmel il-kuntatt, jew fin-nuqqas ta’ dik l-iskadenza, l-Avukat Ġenerali għandhu, mill-aktar fis, jinforma lill-awtorità li qed tagħmel il-kuntatt jekk qegħdin isiru proċedimenti paralleli f’Malta:
 
 Iżda jekk jiġi kkonfermat li l-persuna suspettata jew akkużata qed tiġi miżmuma f’detenzjoni jew kustodja proviżorja, l-awtorità kkuntattjata għandha titratta t-talba b’urġenza.
 
@@ -136,12 +120,6 @@ Meta l-Avukat Ġenerali jissottometti talba skont ir-regolament 5, l-informazzjo
 (b) jekk l-istess persuni huma involuti.
 
 (2) Fil-każ fejn ikunu bdew proċedimenti kriminali jew ikunu twettqu fir-rigward ta’ xi wħud jew t-totalità tal-istess fatti bħal dawk li huma soġġetti għall-proċedimenti kriminali msemmija fit-talba għall-informazzjoni sottomessa mill-awtorità li qed tagħmel kuntatt, u fejn l-istess persuni huma involuti, it-tweġiba għandha wkoll ikollha informazzjoni dwar:
-
-TA’ EŻERĊIZZJU TA’ ĠURISDIZZJONI FI
-
-*4*
-
-[L.S.9.20 PROĊEDIMENTI KRIMINALI
 
 (a) id-dettalji ta’ kuntatt tal-awtorità kompetenti; u
 

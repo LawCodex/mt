@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Postgraduate Certificate in the Teaching of Ethics in Schools taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.489)
 
-OF ETHICS IN SCHOOLS TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.489
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.489**
 
 **ORDINAMENTI GĦALL-POSTGRADUATE**
@@ -84,13 +78,7 @@ Il-Programm ta’ Studju għandu jikkonsisti f’għadd ta’ taqsmiet studju li
 
 ## 6. Pubblikazzjoni tal-programm ta’ studju.
 
-Il-Bord għandu jippubblika l-programm ta’ studju mfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali u OF ETHICS IN SCHOOLS TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.489 TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-approvat mis-Senat. Bl-approvazzjoni tas-Senat, fil-każ li l-Bord ikun kostrett jagħmel xi tibdiliet, l-istudenti għandhom isegwu t-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm ta’ studju.
+Il-Bord għandu jippubblika l-programm ta’ studju mfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali u approvat mis-Senat. Bl-approvazzjoni tas-Senat, fil-każ li l-Bord ikun kostrett jagħmel xi tibdiliet, l-istudenti għandhom isegwu t-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm ta’ studju.
 
 ## 7. Riżultat tar- Rikonoxximent.
 

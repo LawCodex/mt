@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Funzjonijiet u d-Dmirijiet tal-Korp Nutarili u l-Kunsill Nutarili"
-identifier: "S.L. 55.1"
+identifier: "S.L. 55.01"
 eli: "https://legislation.mt/eli/sl/55.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/55.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Funzjonijiet u d-Dmirijiet tal-Korp Nutarili u l-Kunsill Nutarili (S.L. 55.1)
-
-*1*
-
-NUTARILI U L-KUNSILL NUTARILI [L.S.55.01
+# Regolamenti dwar il-Funzjonijiet u d-Dmirijiet tal-Korp Nutarili u l-Kunsill Nutarili (S.L. 55.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 55.01**
 
@@ -105,11 +101,7 @@ Huma g]andhom jibqg]u fil-kariga g]al perijodu ta’ tliet snin u jistg]u jerg]u
 
 Preferibbilment is-Segretarju jkun mag]\\ul minn fost nutara li joqg]odu il-Belt Valletta; u jekk ikun hemm voti ndaqs ting]ata preferenza lill-ixje] g]all-kariga ta’ President u lill-i\\g]ar g]all-kariga ta’ Segretarju.
 
-Fl-assenza tal-President u tas-Segretarju, ja[ixxu flokhom NUTARILI U L-KUNSILL NUTARILI [L.S.55.01
-
-l-ixje] u l-i\\g]ar membru tal-Kunsill, rispettivament.
-
-*3*
+Fl-assenza tal-President u tas-Segretarju, ja[ixxu flokhom l-ixje] u l-i\\g]ar membru tal-Kunsill, rispettivament.
 
 ## 11. Funzjonijiet tal-president u segretarju.
 
@@ -198,10 +190,6 @@ ir-re[istri kollha fuq imsemmija jin\\ammu mis-Segretarju li, f’ka\\ ta’ nuq
 (j) re[istru ta’ ordnijiet fuq ]las;
 
 dawn l-a]]ar tliet re[istri jin\\ammu mit-Te\\orier li, f’ka\\ ta’ nuqqas, jista’ je]el ammenda ta’ mhux aktar minn euro u sittax-il `ente\\mu (1.16);
-
-*5*
-
-NUTARILI U L-KUNSILL NUTARILI [L.S.55.01
 
 ## 19. Drittijiet.
 

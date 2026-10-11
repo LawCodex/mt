@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (2000) (S.L. 261.23)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (2000) [ L.S.261.23
-
 LE{ISLAZZJONI SUSSIDJARJA 261.23
 
 ORDNI DWAR L-AWTORITÀ TAD-DJAR
@@ -83,7 +81,7 @@ B’se]] mill-21 ta’ Frar, 2000:
 
 Sitta mill-flats imsemmija huma a``essibli minn bieb intern bin-numru minn 1 sa 6 a``essibli minn entratura komuni mag]rufa b]ala Entratura A fi Blokk 8. Is-sitt flats l-o]ra huma wkoll a``essibli minn bieb intern li j[ib in-numru minn 1 sa 6 ukoll a``essibli minn entratura komuni mag]rufa b]ala Entratura B fi Blokk 8.
 
-Is-sitt garages huma lkoll a``essibli esternament u kollha g]andhom entratura komuni u j[ibu n-numru minn 13 sa 18, filwaqt li s-sitt i]wienet huma wkoll ilkoll a``essibli minn entratura separata esterna u j[ibu n-numru minn 1 sa 6. Il-limiti jinkludu wkoll [onna fuq quddiem u fuq wara madwar il-blokk imsemmi li jmiss mit- Tramuntana ma’ Triq l-In]asa, min-Nofsinhar ma’ Triq l-Isptar, u mil-Lvant ma’ Triq il- (TRASFERIMENT TA’ PROPRJETÀ) (2000) [ L.S.261.23 {amar, u l-blokk kollu jinsab muri delineat bl-a]dar fuq L.D. 86/85/4. (HAM 49/90).
+Is-sitt garages huma lkoll a``essibli esternament u kollha g]andhom entratura komuni u j[ibu n-numru minn 13 sa 18, filwaqt li s-sitt i]wienet huma wkoll ilkoll a``essibli minn entratura separata esterna u j[ibu n-numru minn 1 sa 6. Il-limiti jinkludu wkoll [onna fuq quddiem u fuq wara madwar il-blokk imsemmi li jmiss mit- Tramuntana ma’ Triq l-In]asa, min-Nofsinhar ma’ Triq l-Isptar, u mil-Lvant ma’ Triq il- {amar, u l-blokk kollu jinsab muri delineat bl-a]dar fuq L.D. 86/85/4. (HAM 49/90).
 
 (2) Dar bin-numru 6, Ringiela B, Triq G. Grech Delicata, Ta’ Paris, Birkirkara (Tenement No. 68468 - H.A. 355/98).
 
@@ -127,7 +125,7 @@ B’se]] mis-26 ta’ Lulju, 2000:
 
 (1) (a) Blokk ta' tmien flats li jiffurmaw parti mill-bini tal-Gvern imsemmi Binja tas-Salib (Blokk I), limiti ta’ Birkirkara, liema flats huma a``essibli minn bieb intern separat li j[ib in-numri 1 sa 8, lkoll a``essibli minn entrata komuni ming]ajr numru uffi`jali i\\da li j[ibu fuqhom Binja tas- Salib (Blokk 1) Entratura C fi Triq Dom Mawru Inguanez, esklu\\i l-garages 3 sa 6 sottostanti l-flats 1 u 2 f’Entratura C. Dawn il-flats jinsabu f’parti mibnija fuq proprjetà tal-Gvern (esklu\\i l-garages 3 sa 6 li mhumiex qeg]din ji[u trasferiti) u l-blokk s]i] ta’ flats imiss mit- Tramuntana ma’ Triq Dom Mawru Inguanez, u mil-Lvant u mill-Punent ma’ proprjetà tal- Gvern. Dan il-blokk flats jidher delineat bl-a]dar fuq P.D. 184/92/5, fejn il-garages 3 sa 6 murija b’linji maqtug]in ]omor mhumiex inklu\\i fit-trasferiment.
 
-(b) Blokk ta’ tmien flats li jiffurmaw parti mill-bini tal-Gvern imsemmi Binja tas-Salib (Blokk 1), limiti ta’ Birkirkara, liema flats huma a``essibli minn bieb intern separat li j[ib in-numri 1 sa 8, lkoll a``essibli minn entrata komuni ming]ajr numru uffi`jali i\\da li j[ibu fuqhom Binja tas- Salib (Blokk 1) Entratura D fi triq [dida ’l hinn minn Triq Dom Mawru Inguanez, esklu\\i l-garages 1 u 2 sottostanti flat 2 f’Entratura D. Dawn il-flats jinsabu f’parti mibnija fuq proprjetà tal-Gvern (esklu\\i l-garages 1 u 2 u l- ]anut 1 li mhumiex qeg]din ji[u trasferiti) u l-blokk s]i] ta’ flats imiss mit-Tramuntana ma’ Triq Dom Mawru Inguanez, mil-Lvant ma’ triq, u mill-Punent ma’ proprjetà tal-Gvern. Dan il-blokk flats jidher delineat bl-a]dar fuq P.D. 184/ 92/5, fejn il-garages 1 u 2 u l-]anut 1 murija b’linji maqtug]in ]omor mhumiex inklu\\i fit- (TRASFERIMENT TA’ PROPRJETÀ) (2000) [ L.S.261.23 trasferiment.
+(b) Blokk ta’ tmien flats li jiffurmaw parti mill-bini tal-Gvern imsemmi Binja tas-Salib (Blokk 1), limiti ta’ Birkirkara, liema flats huma a``essibli minn bieb intern separat li j[ib in-numri 1 sa 8, lkoll a``essibli minn entrata komuni ming]ajr numru uffi`jali i\\da li j[ibu fuqhom Binja tas- Salib (Blokk 1) Entratura D fi triq [dida ’l hinn minn Triq Dom Mawru Inguanez, esklu\\i l-garages 1 u 2 sottostanti flat 2 f’Entratura D. Dawn il-flats jinsabu f’parti mibnija fuq proprjetà tal-Gvern (esklu\\i l-garages 1 u 2 u l- ]anut 1 li mhumiex qeg]din ji[u trasferiti) u l-blokk s]i] ta’ flats imiss mit-Tramuntana ma’ Triq Dom Mawru Inguanez, mil-Lvant ma’ triq, u mill-Punent ma’ proprjetà tal-Gvern. Dan il-blokk flats jidher delineat bl-a]dar fuq P.D. 184/ 92/5, fejn il-garages 1 u 2 u l-]anut 1 murija b’linji maqtug]in ]omor mhumiex inklu\\i fit-trasferiment.
 
 (`) Blokk ta’ tmien flats li jiffurmaw parti mill-bini tal-Gvern imsemmi Binja Vista (Blokk 2), limiti ta’ Birkirkara, liema flats huma a``essibli minn bieb intern separat li j[ib in-numri 1 sa 8, lkoll a``essibli minn entrata komuni ming]ajr numru uffi`jali i\\da li j[ibu fuqhom Binja Vista (Blokk 2) Entratura E fi Triq il-Konti G.A. Ciantar kantuniera ma’ Triq Dom Mawru Inguanez, esklu\\ il-garage 8 sottostanti parti mill-flat 2 f’Entratura E. Dawn il-flats jinsabu f’parti mibnija fuq proprjetà tal-Gvern (esklu\\ il-garage 8 li mhux qed ji[i trasferit) u l-blokk s]i] ta’ flats imiss mill-Lvant ma’ Triq il-Konti G.A. Ciantar, min-Nofsinhar ma’ Triq Dom Mawru Inguanez, u mill-Punent ma’ proprjetà tal-Gvern. Dan il-blokk flats jidher delineat bl-a]dar fuq P.D. 184/92/5, fejn il-garage 8 muri b’linji maqtug]in ]omor mhuwiex inklu\\ fit-trasferiment. (HAM 11/89 vol. ii).
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Pharmaceutical and Regulatory Sciences – M.Sc. - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.341)
 
-*1*
-
-REGULATORY SCIENCES – M.SC. [L.S.327.341
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.341**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -75,10 +71,6 @@ Il-kors huwa miftuħ għall-applikanti li għandhom:
 
 (e) il-grad ta’ Master of Dental Surgery mogħti minn Lulju 2018 ’il quddiem; jew
 
-*2*
-
-[L.S.327.341 REGULATORY SCIENCES – M.SC.
-
 (f) il-grad ta’ Bachelor fil-Pharmacy jew fi kwalunkwe qasam li l-Bord iqis li huwa rilevanti, miksub fit-Tielet Klassi bl-Unuri, jekk ikunu kisbu wkoll kwalifiki oħra, inkluża esperjenza rilevanti, wara l-grad ta’ l-ewwel ċiklu tagħhom.
 
 ## 4. Għadd ta’ applikanti.
@@ -122,10 +114,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 ## 11. Dissertazzjoni.
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 25,000 kelma skond il-linji gwida maħruġin mill-Bord.
-
-*3*
-
-REGULATORY SCIENCES – M.SC. [L.S.327.341
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) in Home Economics - B.Sc. (Hons) HE - taħt il-patroċinju tal-Fakultà tal-Edukazzjoni. (S.L. 327.559)
 
-HOME ECONOMICS - B.Sc. (HONS.) HE - TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.559
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.559**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN HOME ECONOMICS - B.Sc. (HONS.) HE - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
@@ -70,11 +64,7 @@ Fl-aħħar tal-ewwel sena, l-istudenti huma meħtieġa jagħżlu qasam ta’ spe
 
 (b) ċertifikat li juri li għaddew fil-European Computer Driving Licence (ECDL) Standard Certificate, jew l-ekwivalenti.
 
-(2) L-applikanti kkunsidrati bħala "Studenti Adulti" (applikanti maturi) skont ir-regolament 6(ċ) tar-Regolamenti għad- Dħul għandu jkollhom dawk il-kwalifiki u, jew l-esperjenza li juru lill-Kumitat għad-Dħul tal-Fakultà li jkunu laħqu l-livell akkademiku neċessarju biex isegwu l-Kors bi profitt. L-eliġibbiltà ta’ dawn l-applikanti tiġi deċiża mill-Bord tad-Dħul tal-Università fuq ir-rakkomandazzjoni tal-Kumitat għad-Dħul tal-Fakultà, wara li HOME ECONOMICS - B.Sc. (HONS.) HE - TAĦT IL- [L.S.327.559 PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-tkun saret intervista minn bord maħtur għal dan il-għan.
-
-*2*
+(2) L-applikanti kkunsidrati bħala "Studenti Adulti" (applikanti maturi) skont ir-regolament 6(ċ) tar-Regolamenti għad- Dħul għandu jkollhom dawk il-kwalifiki u, jew l-esperjenza li juru lill-Kumitat għad-Dħul tal-Fakultà li jkunu laħqu l-livell akkademiku neċessarju biex isegwu l-Kors bi profitt. L-eliġibbiltà ta’ dawn l-applikanti tiġi deċiża mill-Bord tad-Dħul tal-Università fuq ir-rakkomandazzjoni tal-Kumitat għad-Dħul tal-Fakultà, wara li tkun saret intervista minn bord maħtur għal dan il-għan.
 
 ## 5. Eżenzjoni.
 
@@ -108,11 +98,7 @@ Il-kors jinfirex fuq perijodu ta’ tliet snin ta’ studju fuq bażi full-time.
 
 (1) Il-Bord għandu jippubblika l-programm ta’ studju qabel il-bidu ta’ kull kors. Suġġett għal tibdiliet li l-Bord jista’ jkun kostrett li jagħmel bl-approvazzjoni tas-Senat, l-istudenti huma marbuta li jsegwu it-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm ta’ studju li qegħdin isegwu għall-Grad, sakemm li l-programm ta’ studju jkun imfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali.
 
-(2) Sabiex qasam ta’ speċjalizzazzjoni (Health and Consumer Studies, jew Fashion, Textiles and Interiors Studies) jiġi offrut, minimu HOME ECONOMICS - B.Sc. (HONS.) HE - TAĦT IL-
-
-*3*
-
-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.559 ta’ tliet studenti jridu jagħżlu li jsegwu l-qasam mit-tieni sena ’l quddiem.
+(2) Sabiex qasam ta’ speċjalizzazzjoni (Health and Consumer Studies, jew Fashion, Textiles and Interiors Studies) jiġi offrut, minimu ta’ tliet studenti jridu jagħżlu li jsegwu l-qasam mit-tieni sena ’l quddiem.
 
 ## 9. Reġistrazzjoni.
 

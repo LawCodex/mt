@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad, 2008 għall-Grad ta’ Master of Arts in Social Practice Arts and Critical Education – M.A. - taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.606)
 
-CRITICAL EDUCATION – M.A. - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S. 327.606
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.606**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -67,11 +61,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (1) Il-Kors ikun miftuħ għall-applikanti li għandhom grad ta’ Bachelor miksub mill-inqas fit-Tieni Klassi bl-Unuri jew mill-inqas f’Kategorija II fit-theatre studies, fil-fine arts, fl-art education, fid-drama education jew fi kwalunkwe qasam ieħor meqjus rilevanti mill-Bord:
 
-sakemm li l-applikanti li għandhom grad fit-Tielet Klassi bl- Unuri jew f’ Kategorija III għandhom jissodisfaw lill-Bord li huma għandhom kwalifiki oħra, inkluż esperjenza rilevanti, miksuba wara CRITICAL EDUCATION – M.A. - TAĦT IL-PATROĊINJU [L.S. 327.606 TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-l-grad tal-ewwel ċiklu.
-
-*2*
+sakemm li l-applikanti li għandhom grad fit-Tielet Klassi bl- Unuri jew f’ Kategorija III għandhom jissodisfaw lill-Bord li huma għandhom kwalifiki oħra, inkluż esperjenza rilevanti, miksuba wara l-grad tal-ewwel ċiklu.
 
 (2) F’każijiet eċċezzjonali l-Bord tad-Dħul, fuq ir-rakkomandazzjoni tal-Bord, jista’ jħalli jidħlu fil-Kors applikanti li ma jkollhomx grad tal-ewwel ċiklu, sakemm li jkun sodisfatt li dawn l-applikanti jkollhom kwalifiki akkademiċi jew professjonali u esperjenza oħra li flimkien ikunu meqjusa bħala komparabbli għall-livell tal-ewwel grad fl-oqsma indikati f’paragrafu (1) ta’ dan l-ordinament.
 
@@ -100,12 +90,6 @@ Il-programm ta’ studju għandu jikkonsisti f’taqsmiet studju li għalihom he
 ## 6.
 
 L-istudenti li jiksbu t-30 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-inqas 50% u ma jkomplux bil-Kors, jew wara li komplew ma jkunux spiċċaw id-dissertazzjoni b’suċċess, ikunu eliġibbli għall-għoti tal-Postgraduate Certificate.
-
-CRITICAL EDUCATION – M.A. - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S. 327.606
 
 ## 7.
 
@@ -139,11 +123,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (2) L-istudenti għandhom jitolbu approvazzjoni mill-Bord tal- Istudji għal xi tibdil sostanzjali fit-titlu jew fil-kontenut tad-dissertazzjoni.
 
-(3) Is-Superviżuri għandhom jissottomettu rapporti ta’ progress lill-Bord għal kull student taħt is-superviżjoni tagħhom fl-aħħar ta’ kull semestru ta’ studju. Dawn ir-rapporti jistgħu jinkludu CRITICAL EDUCATION – M.A. - TAĦT IL-PATROĊINJU [L.S. 327.606 TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
-
-*4*
+(3) Is-Superviżuri għandhom jissottomettu rapporti ta’ progress lill-Bord għal kull student taħt is-superviżjoni tagħhom fl-aħħar ta’ kull semestru ta’ studju. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar- Regolamenti Prinċipali; u
 

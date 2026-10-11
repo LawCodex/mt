@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Għarbija ta' l-Eġittu (S.L. 123.57)
 
-[ L.S.123.57
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.57**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -109,9 +107,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 \1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma te]tie[x xort’o]ra:
 
-(a) il-fra\\i "E[ittu" tfisser ir-Repubblika G]arbija ta’ l-E[ittu u, meta ti[i u\\ata f’sens [eografiku, tfisser it-territorju u l-ib]ra territorjali tar- Repubblika G]arbija ta’ l-E[ittu u \\-\\ona ekonomika esklu\\iva u l-blata [ L.S.123.57
-
-kontinentali tag]ha kif imsfissra skond id-dritt internazzjonali;
+(a) il-fra\\i "E[ittu" tfisser ir-Repubblika G]arbija ta’ l-E[ittu u, meta ti[i u\\ata f’sens [eografiku, tfisser it-territorju u l-ib]ra territorjali tar- Repubblika G]arbija ta’ l-E[ittu u \\-\\ona ekonomika esklu\\iva u l-blata kontinentali tag]ha kif imsfissra skond id-dritt internazzjonali;
 
 (b) il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, u kull area ’l barra mill-ib]ra territorjali ta’ Malta li [iet jew tista’ minn issa ’l quddiem ti[i msemmija, skond il-li[i internazzjonali u ta]t il-li[i ta’ Malta li tirrigwarda l-blata kontinentali, b]ala area li [ewwa fiha d-drittijiet ta’ Malta g]ar-rigward ta’ qieg] il-ba]ar u s-sottoswol u r-ri\\orsi naturali tag]hom jistg]u ji[u e\\er`itati;
 
@@ -201,8 +197,6 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabbi
 
 (b) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ ]a\\na jew ta’ wiri;
 
-[ L.S.123.57
-
 (`) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ ppro`essar minn impri\\a o]ra;
 
 (d) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku ta’ xiri ta’ o[[etti jew merkanzija, jew ta’ [bir ta’ tag]rif g]all-impri\\a;
@@ -257,9 +251,7 @@ L.S.123.57]
 
 \6. G]all-g]anijiet tal-paragrafi pre`edenti, l-profitti li g]andhom ji[u attribwiti lill-istabbiliment permanenti g]andhom ji[u stabbiliti bl-istess metodu sena wara l-o]ra kemm-il darba ma jkunx hemm ra[uni tajba u suffi`jenti biex dan ma jsirx.
 
-\7. Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u trattati [ L.S.123.57
-
-separatament f’Artikoli o]ra ta’ dan il-Ftehim, g]aldaqshekk il-provvedimenti ta’ dawk l-Artikoli ma jintlaqtux bil-provvedimenti ta’ dan l- Artikolu.
+\7. Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u trattati separatament f’Artikoli o]ra ta’ dan il-Ftehim, g]aldaqshekk il-provvedimenti ta’ dawk l-Artikoli ma jintlaqtux bil-provvedimenti ta’ dan l- Artikolu.
 
 **Artikolu 8**
 
@@ -315,8 +307,6 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal- kumpannija g]ar-rigward tal-profitti
 
 \2. Madankollu, dak l-img]ax jista’ wkoll ji[i intaxxat fl-Istat Kontraenti fejn jori[ina u skond il-li[ijiet ta’ dak l-Istat, i\\da, jekk min jir`evih ikun is-sid benefi`jarju ta’ l-img]ax it-taxxa hekk m]allsa m’g]andhiex taqbe\\ 10 fil-mija ta’ l-ammont gross ta’ l-img]ax.
 
-[ L.S.123.57
-
 \3. Il-fra\\i "mg]ax" kif din tintu\\a f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk ipotekati sew jekk le u sew jekk jag]ti l-jedd g]al sehem fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-gvern u income minn bonds jew debentures, inklu\\i premiums u premjijiet marbutin ma’ titoli, bonds jew debentures simili. Il-penalitajiet g]al ]las tardiv m’g]andhomx jitqiesu b]ala mg]ax g]all-g]anijiet ta’ dan l-Artikolu.
 
 \4. Il-provvedimenti tal-paragrafi 1 u 2 m’g]andhomx japplikaw jekk is-sid benefi`jarju ta’ l-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw il-provvedimenti ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
@@ -358,8 +348,6 @@ informazzjoni dwar konoxxenza industrijali, kummer`jali jew xjentifika.
 \4. Qlig] mit-trasferiment ta’ bastimenti jew in[enji ta’ l-ajru operati fi traffiku internazzjonali minn impri\\a ta’ Stat Kontraenti, jew proprjetà mobbli li tappartjeni g]all-operat ta’ dawk il-bastimenti jew in[enji ta’ l-ajru, g]andhom ikunu taxxabbli biss f’dak l-Istat.
 
 \5. Qlig] mit-trasferiment ta’ proprjetà li ma tkunx dik imsemmija fil-paragrafi 1, 2, 3 u 4 g]andu jkun taxxabbli biss fl-Istat Kontraenti li tieg]u ikun residenti min jittrasferixxi.
-
-[ L.S.123.57
 
 **Artikolu 14**
 
@@ -431,9 +419,7 @@ tkun residenti ta’ l-Istat Kontraenti l-ie]or jistg]u ji[u intaxxati f’dak l
 
 **}LASIJIET LI JIR~IEVU STUDENTI U APPRENDISTI FIL-KUMMER~**
 
-Kull ]las li student jew apprendist fil-kummer` li jkun jew kien minnufih [ L.S.123.57
-
-qabel ma j\\ur Stat Kontraenti residenti ta’ l-Istat Kontraenti l-ie]or u li jkun pre\\enti fl-ewwel imsemmi Stat unikament g]all-g]an ta’ l-edukazzjoni jew it-ta]ri[ tieg]u, jir`ievi g]all-fini tal-mantniment, l-edukazzjoni jew it-ta]ri[ tieg]u m’g]andux ji[i intaxxat f’dak l-Istat, sakemm dawk il-]lasijiet jori[inaw minn g]ejjun li ma jkunux f’dak l-Istat.
+Kull ]las li student jew apprendist fil-kummer` li jkun jew kien minnufih qabel ma j\\ur Stat Kontraenti residenti ta’ l-Istat Kontraenti l-ie]or u li jkun pre\\enti fl-ewwel imsemmi Stat unikament g]all-g]an ta’ l-edukazzjoni jew it-ta]ri[ tieg]u, jir`ievi g]all-fini tal-mantniment, l-edukazzjoni jew it-ta]ri[ tieg]u m’g]andux ji[i intaxxat f’dak l-Istat, sakemm dawk il-]lasijiet jori[inaw minn g]ejjun li ma jkunux f’dak l-Istat.
 
 **Artikolu 21**
 
@@ -480,8 +466,6 @@ L.S.123.57]
 \3. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jist]arr[u kif jirrisolvu permezz ta’ ftehim re`iproku kull diffikultà jew dubbju li jista’ jitnissel dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistg]u wkoll jikkonsultaw flimkien g]all-eliminazzjoni ta’ tassazzjoni doppja f’dawk il-ka\\ijiet li m’hemm xejn provdut dwarhom fil-Ftehim.
 
 \4. L-awtoritajiet kompetenti ta’ l- Stati Kontraenti jistg]u jikkomunikaw ma’ xulxin direttament bil-g]an li jil]qu ftehim fis-sens tal-paragrafi pre`edenti.
-
-[ L.S.123.57
 
 **Artikolu 25**
 

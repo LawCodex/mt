@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar l-Esportazzjoni tal-Bajd"
-identifier: "S.L. 85.9"
+identifier: "S.L. 85.09"
 eli: "https://legislation.mt/eli/sl/85.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.9/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar l-Esportazzjoni tal-Bajd (S.L. 85.9)
+# Regoli dwar l-Esportazzjoni tal-Bajd (S.L. 85.09)
 
 **LEĠISLAZZJONI SUSSIDJARJA 85.09**
 

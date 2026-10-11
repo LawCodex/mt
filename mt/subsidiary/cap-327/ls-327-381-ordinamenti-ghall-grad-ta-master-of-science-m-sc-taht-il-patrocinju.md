@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science - M.Sc. - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.381)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.381
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.381**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -78,13 +72,7 @@ Il-kors ikun offrut f’kull qasam ta’ studju li jaqa’ taħt ir-responsabbil
 
 (f) il-grad ta’ Bachelor of Science (Honours) mill-Fakultà tax-Xjenza, miksub tal-anqas fit-Tieni Klassi (bl- Unuri) ; jew
 
-(g) grad f’dixxiplina relatata max-xjenza tas-saħħa TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.381 TAL-MEDIĊINA U L-KIRURĠIJA
-
-miksub tal-anqas fit-Tieni Klassi (bl-Unuri); jew
+(g) grad f’dixxiplina relatata max-xjenza tas-saħħa miksub tal-anqas fit-Tieni Klassi (bl-Unuri); jew
 
 (h) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala ekwivalenti għall-kwalifiki msemmija fis-sottoparagrafi (a) sa (f) hawn fuq.
 
@@ -128,11 +116,7 @@ Il-valutazzjoni tat-taqsima/taqsimiet studju mgħallma għandha tkun kompluta sa
 
 (2) L-istudenti għandhom ifittxu l-approvazzjoni tal-Bord tal- Istudji permezz tas-superviżur tagħhom għal kwalunkwe tibdil sostanzjali fit-titolu jew fil-kontenut tad-dissertazzjoni.
 
-(3) Is-superviżuri għandhom jissottomettu lill-Bord rapporti TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.381 dwar il-progress ta’ kull student taħt is-supervizzjoni tagħhom. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
+(3) Is-superviżuri għandhom jissottomettu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-supervizzjoni tagħhom. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 

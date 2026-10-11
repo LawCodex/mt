@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Għadd u r-Reġistrazzjoni ta' Persuni abbord Bastimenti tal-Passiġieri (S.L. 234.25)
 
-GĦADD U REĠISTRAZZJONI TA’ PERSUNI
-
-*1*
-
-ABBORD BASTIMENTI TAL-PASSIĠĠIERI [L.S.234.25
-
 **LEĠISLAZZJONI SUSSIDJARJA 234.25**
 
 **REGOLAMENTI DWAR L-GĦADD U**

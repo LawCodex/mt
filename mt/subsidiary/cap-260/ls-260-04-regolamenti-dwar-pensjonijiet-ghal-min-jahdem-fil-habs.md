@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Pensjonijiet għal min jaħdem fil-Ħabs"
-identifier: "S.L. 260.4"
+identifier: "S.L. 260.04"
 eli: "https://legislation.mt/eli/sl/260.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/260.4/20260721/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Pensjonijiet għal min jaħdem fil-Ħabs (S.L. 260.4)
+# Regolamenti dwar Pensjonijiet għal min jaħdem fil-Ħabs (S.L. 260.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 260.04**
 

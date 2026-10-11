@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal- (S.L. 327.98)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.98
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.98**
 
 **ORDINAMENTI GĦALL-GRAD TA’**
@@ -107,11 +103,7 @@ Studenti reġistrati mal-Fakultà jistgħu jkunu meħtieġa jipparteċipaw fir-r
 
 ## 11. Teżi.
 
-Sitt xhur qabel iż-żmien meta għandha ssir is-sottomissjoni, l-istudenti għandhom jiġu infurmati li huma mitluba TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.98
-
-li jinfurmaw lill-Fakultà li ser jissottomettu t-teżi tagħhom għal eżami mhux anqas minn tliet xhur qabel iż-żmien meta għandha ssir is-sottomissjoni.
-
-*3*
+Sitt xhur qabel iż-żmien meta għandha ssir is-sottomissjoni, l-istudenti għandhom jiġu infurmati li huma mitluba li jinfurmaw lill-Fakultà li ser jissottomettu t-teżi tagħhom għal eżami mhux anqas minn tliet xhur qabel iż-żmien meta għandha ssir is-sottomissjoni.
 
 ## 12. Bord tal- Eżaminaturi.
 

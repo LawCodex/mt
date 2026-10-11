@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Relazzjonijiet Kuntrattwali fis-Settur tal-Ħalib u tal-Prodotti tal-Ħalib (S.L. 117.37)
 
-*1*
-
-TAL-ĦALIB U TAL-PRODOTTI TAL-ĦALIB [L.S.117.37
-
 **LEĠISLAZZJONI SUSSIDJARJA 117.37**
 
 **REGOLAMENTI DWAR RELAZZJONIJIET**
@@ -59,11 +55,9 @@ L-awtorità kompetenti għall-finijiet ta’ dawn ir-regolamenti tkun id-Direttu
 
 ## 4. Kuntratt bil-miktub.
 
-(1) Kull konsenja ta’ ħalib mhux ipproċessat magħmula kemm direttament mill-produttur tal-ħalib jew permezz ta’ kollettur lil proċessur ta’ ħalib mhux ipproċessat għandha tkun koperta minn kuntratt bil-miktub bejn il-partijiet, liema kuntratt għandu jkun: [L.S.117.37 TAL-ĦALIB U TAL-PRODOTTI TAL-ĦALIB
+(1) Kull konsenja ta’ ħalib mhux ipproċessat magħmula kemm direttament mill-produttur tal-ħalib jew permezz ta’ kollettur lil proċessur ta’ ħalib mhux ipproċessat għandha tkun koperta minn kuntratt bil-miktub bejn il-partijiet, liema kuntratt għandu jkun:
 
 (a) sar qabel ma ssir il-konsenja;
-
-*2*
 
 (b) isir bil-miktub, u
 
@@ -94,10 +88,6 @@ Iżda f’każ li jirriżulta li n-numru ta’ bovini nisa produttivi (baqar tal
 (5) Il-kuntratti u, jew kull emenda għalihom, jekk ikun hemm, għandhom jiġu notifikati mill-proċessur tal-ħalib lid-Dipartiment tar-Regolamentazzjoni Veterinarja u lid-Direttorat tal-Agrikoltura fi żmien ħamest (5) ijiem tax-xoghol.
 
 (6) Il-kuntratti għandhom ikunu bbażati fuq l-esklusività, jiġifieri l-produttur tal-ħalib għandu jintrabat li jikkonsenja l-ħalib kollu tiegħu lill-proċessur tal-ħalib skont il-kuntratt.
-
-*3*
-
-TAL-ĦALIB U TAL-PRODOTTI TAL-ĦALIB [L.S.117.37
 
 (7) Jekk il-konsenja tal-ħalib mhux ipproċessat issir minn aktar minn kollettur wieħed, kull stadju tal-konsenja inkluża l-fazi meta l-ħalib mhux ipproċċessat jiġi trasferit mill-produttur tal-ħalib lill-kollettur u l-fażi meta l-ħalib jiġi finalment trasferit lill-proċessur ta’ ħalib mhux ipproċessat għandu jkun kopert bil-kuntratt imsemmi fis-subregolament (1).
 

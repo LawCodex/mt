@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Eżenzjoni mit-Taxxa fuq Pensjonijiet (S.L. 123.204)
 
-*1*
-
-MIT-TAXXA FUQ PENSJONIJIET [L.S.123.204 LEĠISLAZZJONI SUSSIDJARJA 123.204
+**LEĠISLAZZJONI SUSSIDJARJA 123.204**
 
 **REGOLI DWAR EŻENZJONI**
 
@@ -71,10 +69,6 @@ Income minn pensjoni Mija fil-mija (100%), iżda ma derivat fis-sena li tiġije�
 stima 2027 u fis-snin
 
 sussegwenti
-
-*2*
-
-[L.S. 123.204 MIT-TAXXA FUQ PENSJONIJIET
 
 ## 4. Rimborż tat-taxxa.
 

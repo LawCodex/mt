@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy - Ph.D. - għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Istitut għax-Xjenzi Spazjali u l-Astronomija (S.L. 327.503)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-GĦAX-XJENZI SPAZJALI U L-ASTRONOMIJA [L.S.327.503
-
 **SUBSIDIARY LEGISLATION 327.503**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR**
@@ -67,15 +61,9 @@ Dawn l-ordinamenti għandhom japplikaw mill-1 ta’ Ottubru 2014 ’il quddiem.
 
 (2) L-applikanti li għandhom wieħed mill-gradi indikati fil-paragrafu (1) ta’ dan l-ordinament miksub aktar minn għaxar snin qabel ir-reġistrazzjoni tagħhom, jistgħu japplikaw u jkunu meħtieġa jipproduċu prova suffiċjenti tal-kompetenza tagħhom biex iwettqu r-riċerka fil-livell meħtieġ.
 
-(3) Meta iqis neċessarju, il-Bord jista’ jeħtieġ lill-istudenti biex itemmu b’suċċess għadd ta’ taqsimiet studju matul l-istudji TAĦT IL-PATROĊINJU TAL-ISTITUT
+(3) Meta iqis neċessarju, il-Bord jista’ jeħtieġ lill-istudenti biex itemmu b’suċċess għadd ta’ taqsimiet studju matul l-istudji tagħhom, taħt dawk il-kundizzjonijiet li huwa jista’ jimponi, wara l-approvazzjoni tas-Senat.
 
 \*Dawn l-Ordinamenti ġew imħassrin bl-Avviż Legali 225 tal-2024.
-
-*2*
-
-[L.S.327.503 GĦAX-XJENZI SPAZJALI U L-ASTRONOMIJA
-
-tagħhom, taħt dawk il-kundizzjonijiet li huwa jista’ jimponi, wara l-approvazzjoni tas-Senat.
 
 ## 4. Formola tal-applikazzjoni.
 
@@ -117,12 +105,8 @@ Il-Bord għandu jirrakkomanda lis-Senat il-ħatra tal-Bord tal-Eżaminaturi skon
 
 Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preżentazzjoni tat-teżi għall-Grad.
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
+## 13. Kopji.
 
-*3*
-
-GĦAX-XJENZI SPAZJALI U L-ASTRONOMIJA [L.S.327.503 13. (1) L-istudenti jkunu meħtieġa jissottomettu kopja tat-teżi tagħhom mingħajr legatura għal kull membru tal-Bord tal- Eżaminaturi, flimkien ma’ kopja f ’format diġitali. L-uffiċjal inkarigat mill-Istitut għandu joħroġ riċevuta datata.
-
-*Kopji.*
+(1) L-istudenti jkunu meħtieġa jissottomettu kopja tat-teżi tagħhom mingħajr legatura għal kull membru tal-Bord tal- Eżaminaturi, flimkien ma’ kopja f ’format diġitali. L-uffiċjal inkarigat mill-Istitut għandu joħroġ riċevuta datata.
 
 (2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu lill-Istitut, sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom, tliet kopji tat-teżi b’legatura ħoxna flimkien ma’ kopja f’format diġitali. Kopja waħda tat-teżi għandha tinżamm fil-Librerija tal-Istitut u kopja oħra fil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

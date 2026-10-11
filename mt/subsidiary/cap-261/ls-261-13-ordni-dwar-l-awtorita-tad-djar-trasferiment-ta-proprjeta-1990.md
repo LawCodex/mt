@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1990) (S.L. 261.13)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1990) [ L.S.261.13
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.13**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -121,7 +119,7 @@ B’se]] mit-18 ta’ April, 1990:
 
 (8) Id-dar bin-numru 2, Area 2, Triq William H Prescott, Ta’ {iorni, San {iljan (Rural Tenement No. 51330). (9) Id-dar bin-numru 29, Si[[iewi By-Pass, Qasam tad- Djar tal-Gvern, Si[[iewi.
 
-(10) Flat numru 45, Blokk D, Qasam ta’ Ganza, |ejtun. (11) Flat numru 2, Blokk H, Bieb B, Qasam tad-Djar tal- (TRASFERIMENT TA’ PROPRJETÀ) (1990) [ L.S.261.13 Gvern ta`-~awla, Victoria, G]awdex, (Rural Tenement No. 80039).
+(10) Flat numru 45, Blokk D, Qasam ta’ Ganza, |ejtun. (11) Flat numru 2, Blokk H, Bieb B, Qasam tad-Djar tal- Gvern ta`-~awla, Victoria, G]awdex, (Rural Tenement No. 80039).
 
 *\5.*
 
@@ -175,7 +173,7 @@ a]mar fuq L.D. 96/90 (Rural Tenement No. 50589). (4) L-art li [ejja li tag]mel p
 
 (8) Id-dar bin-numru 139, Valley Road, |urrieq (Rural Tenement No. 51677).
 
-(9) Id-dar bin-numru 1, Triq i`-~e\\alpina, Row A, (TRASFERIMENT TA’ PROPRJETÀ) (1990) [ L.S.261.13 Birkirkara (Rural Tenement No. 51057).
+(9) Id-dar bin-numru 1, Triq i`-~e\\alpina, Row A, Birkirkara (Rural Tenement No. 51057).
 
 (10) ld-dar bin-numru 18, Qasam tal-Bini tal-Gvern, Ta’ Xbiex.
 
@@ -239,7 +237,7 @@ B’se]] mill-14 ta’ Awissu, 1990:
 
 (d) Bi``a art li tikkonsisti fi Plot Nru. 198 tal-kejl ta’ madwar 270 metru kwadru, li tmiss mill- Grigal, Nofs-in-Nhar u Punent ma’ proprjetà tal- Gvern, delineata bl-a]mar u markata "D" fuq L.D. 91/90;
 
-(e) Bi``a art li tikkonsisti fi Plot Nru. 307 tal-kejl ta’ madwar 166 metru kwadru, li tmiss mill- Grigal, Xlokk u Majjistral ma’ proprjetà tal- (TRASFERIMENT TA’ PROPRJETÀ) (1990) [ L.S.261.13 Gvern, delineata bl-a]mar u markata "E" fuq L.D. 91/90;
+(e) Bi``a art li tikkonsisti fi Plot Nru. 307 tal-kejl ta’ madwar 166 metru kwadru, li tmiss mill- Grigal, Xlokk u Majjistral ma’ proprjetà tal- Gvern, delineata bl-a]mar u markata "E" fuq L.D. 91/90;
 
 (f) Bi``a art li tikkonsisti fi Plot Nri. 217 sa 236 tal-kejl ta’ madwar 4,083 metru kwadru, li tmiss minn Nofs-in-Nhar ma’ triq pubblika, mill- Grigal u Punent ma’ proprjetà tal-Gvern, delineata bl-a]mar u markata "F" fuq L.D. 91/ 90;
 

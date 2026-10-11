@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet li jitħallsu għat-Trobbija u ż-Żamma tal-Majjali (S.L. 35.34)
 
-DRITTIJIET LI JITĦALLSU
-
-*1*
-
-GĦAT-TROBBIJA U Ż-ŻAMMA TAL-MAJJALI [L.S. 35.34
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.34**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET LI**

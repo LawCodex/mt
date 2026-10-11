@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar Proċedura dwar Applikazzjonijiet għall-Għajnuna lill-Industriji"
-identifier: "S.L. 159.1"
+identifier: "S.L. 159.01"
 eli: "https://legislation.mt/eli/sl/159.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/159.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar Proċedura dwar Applikazzjonijiet għall-Għajnuna lill-Industriji (S.L. 159.1)
-
-PRO~EDURA DWAR APPLIKAZZJONIJIET
-
-*1*
-
-G}ALL-G}AJNUNA LILL-INDUSTRJI [L.S.159.01
+# Regoli dwar Proċedura dwar Applikazzjonijiet għall-Għajnuna lill-Industriji (S.L. 159.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 159.01**
 

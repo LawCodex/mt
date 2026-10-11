@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Bachelor of Arts (Honours) - B.A. (Hons) - Youth and Community Studies - taħt il-patroċinju tal-Fakultà ta' l-Edukazzjoni (S.L. 327.274)
 
-AND COMMUNITY STUDIES - B.A. (HONS) YCS - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.274
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.274**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF ARTS (HONOURS) IN YOUTH AND COMMUNITY STUDIES - B.A. (HONS) YCS -TAĦT IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
@@ -71,13 +65,11 @@ L-istudenti jitħallew ikomplu l-kors ta’ studju wara li jtemmu b’suċċess 
 
 (1) Il-kors għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati 180 krettu ECTS.
 
-(2) Il-Bord għandu jippubblika l-programm ta’ studju għall- Grad, imfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali u approvat mis-Senat, qabel il-bidu tal-kors Suġġett għat-tibdiliet li l-Bord jista’ jkun kostrett li jagħmel, bl-approvazzjoni tas-Senat, l-istudenti jkunu meħtieġa jsegwu t-taqsimiet studju u jiksbu l-kretti kif indikati fil-programm ta’ AND COMMUNITY STUDIES - B.A. (HONS) YCS - TAĦT [S.L.327.274 IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ studju.
+(2) Il-Bord għandu jippubblika l-programm ta’ studju għall- Grad, imfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali u approvat mis-Senat, qabel il-bidu tal-kors Suġġett għat-tibdiliet li l-Bord jista’ jkun kostrett li jagħmel, bl-approvazzjoni tas-Senat, l-istudenti jkunu meħtieġa jsegwu t-taqsimiet studju u jiksbu l-kretti kif indikati fil-programm ta’ studju.
 
 ## 7. Rikonoxximent intermedju. Enumerat mill-ġdid u sostitwit: A.L. 181 tal-2016.
 
 L-istudenti li jtemmu b’suċċess taqsimiet studju li għalihom hemm assenjati mhux anqas minn 60 krettu ECTS, u jagħżlu li ma jkomplux il-kors, jew li wara li jkunu komplew, ma jtemmux il-kors b’suċċess ikunu intitolati għall-għoti tad-Diploma.
-
-*2*
 
 ## 8. Klassifikazzjoni tar-rikonoxximent. Enumerat mill-ġdid: A.L. 181 tal-2016.
 

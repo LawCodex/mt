@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Science in Sustainable Building Design – M.S.c - taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.582)
 
-*1*
-
-BUILDING DESIGN – M.S.C [L.S. 327.582 LEĠISLAZZJONI SUSSIDJARJA 327.582
+**LEĠISLAZZJONI SUSSIDJARJA 327.582**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -70,11 +68,7 @@ Il-Kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 ## 5. Il-Programm ta’ Studju.
 
-(1) Il-programm ta’ studju għandu jkun magħmul minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu ECTS, li minnhom 60 krettu ECTS ikunu assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS ikunu assenjati għat-taqsima [L.S. 327.582 BUILDING DESIGN – M.S.C
-
-studju tad-dissertazzjoni.
-
-*2*
+(1) Il-programm ta’ studju għandu jkun magħmul minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu ECTS, li minnhom 60 krettu ECTS ikunu assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS ikunu assenjati għat-taqsima studju tad-dissertazzjoni.
 
 (2) L-istudenti li jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-inqas 50% u li ma jkomplux il-Kors, jew jekk komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal- Postgraduate Diploma.
 
@@ -104,13 +98,11 @@ studju tad-dissertazzjoni.
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-Kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
-(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar-Regolamenti Prinċipali; u (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) BUILDING DESIGN – M.S.C [L.S. 327.582 jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
+(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar-Regolamenti Prinċipali; u (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 
 ## 9. Il-Klassifikazzjoni tar- Rikonoxximent. Enumerat: A.L. 293 tal-2022.
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.
-
-*3*
 
 ## 10. Il-Provvedimenti Speċjali għall- Korsijiet fuq Bażi Part-Time. Enumerat: A.L. 293 tal-2022.
 

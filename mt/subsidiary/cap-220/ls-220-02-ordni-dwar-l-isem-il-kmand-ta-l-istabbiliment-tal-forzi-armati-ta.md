@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Isem, il-Kmand ta l-Istabbiliment tal-Forzi Armati ta Malta"
-identifier: "S.L. 220.2"
+identifier: "S.L. 220.02"
 eli: "https://legislation.mt/eli/sl/220.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/220.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Isem, il-Kmand ta l-Istabbiliment tal-Forzi Armati ta Malta (S.L. 220.2)
-
-TAL-FORZI ARMATI TA’ MALTA [ L.S.220.02
+# Ordni dwar l-Isem, il-Kmand ta l-Istabbiliment tal-Forzi Armati ta Malta (S.L. 220.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 220.02**
 

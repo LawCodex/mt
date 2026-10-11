@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Avviż dwar il-Kalkolu lejn l-Eqreb Lira Maltija fit-Taxxa fuq l-Income (S.L. 123.20)
 
-KALKOLU LEJN L-EQREB LIRA
-
-*1*
-
-MALTIJA FIT-TAXXA FUQ L-INCOME [L.S.123.20
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.20**
 
 AVVI| DWAR IL-KALKOLU LEJN L-EQREB LIRA

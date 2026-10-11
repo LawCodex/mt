@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Skambju ta’ Informazzjoni (Materja ta’ Taxxa) (Bermuda) (S.L. 123.145)
 
-*1*
-
-(MATERJA TA’ TAXXA) (BERMUDA) [L.S.123.145
-
 LEĠISLAZZJONI SUSSIDJARJA 123.145
 
 ORDNI DWAR SKAMBJU TA’ INFORMAZZJONI (MATERJA TA’ TAXXA) (BERMUDA)
@@ -44,8 +40,6 @@ B’dan qiegћed jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseћћ fil-5 ta’ Novembru 2012.
-
-2 [L.S.123.145 (MATERJA TA’ TAXXA) (BERMUDA)
 
 ## SKEDA
 
@@ -93,8 +87,6 @@ It-taxxi li jiffurmaw is-suġġett ta’ dan il-Ftehim huma:
 
 Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa identika imposta wara d-data meta jiġi ffirmat il-Ftehim b’żieda ma’ jew minflok it-taxxi eżistenti. Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa sostanzjalment bħal dawk imposta wara d-data meta jiġi ffirmat il-Ftehim b’żieda ma’ jew minflok it-taxxi eżistenti jekk l-awtoritajiet kompetenti tal-Partijiet ikunu hekk jaqblu. Aktar minn hekk, it-taxxi koperti jistgħu jitkabbru jew jiġu emendati bil-ftehim reċiproku tal- Partijiet Kontraenti bl-għemil ta’ skambju ta’ ittri. L-awtoritajiet kompetenti tal- Partijiet Kontraenti għandhom javżaw lil xulxin b’kull bidla sostanzjali fil-miżuri ta’ ġbir tat-taxxa u ta’ informazzjoni relattiva koperti bil-Ftehim.
 
-(MATERJA TA’ TAXXA) (BERMUDA) [L.S.123.145 3
-
 Artikolu 4
 
 Tifsiriet
@@ -133,9 +125,7 @@ Għall-finijiet ta’ dan il-Ftehim, kemm-il darba ma jitfissirx xort’oħra:
 
 (m) il-frażi "kumpannija li tkun tidher fil-borża" tfisser kumpannija li jkollha l-klassi ta’ ishma ewlenija tagħha elenkata f’borża rikonoxxuta sakemm l-ishma elenkati tagħha jkunu jistgħu jinxtraw jew jinbiegħu minnufih mill-pubbliku. Ishma jistgħu jinxtraw jew jinbiegħu "mill-pubbliku" jekk ix-xiri jew il-bejgħ ta’ ishma ma jkunx impliċitament jew espliċitament ristrett għal xi grupp limitat ta’ investituri;
 
-(n) il-frażi "fond jew skema ta’ investiment kollettiv" tfisser kull vettura ta’ 4 [L.S.123.145 (MATERJA TA’ TAXXA) (BERMUDA)
-
-investiment miġmugħ, irrispettivament mill-forma legali tiegħu. Il-frażi "fond jew skema pubbliċi ta’ investiment kollettiv" tfisser kull fond jew skema ta’ investiment kollettiv sakemm l-unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà mill-pubbliku. Unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà "mill-pubbliku" jekk ix-xiri, il-bejgħ jew il-fidwa ma jkunux impliċitament jew espliċitament ristretti għal grupp ta’ investituri limitat;
+(n) il-frażi "fond jew skema ta’ investiment kollettiv" tfisser kull vettura ta’ investiment miġmugħ, irrispettivament mill-forma legali tiegħu. Il-frażi "fond jew skema pubbliċi ta’ investiment kollettiv" tfisser kull fond jew skema ta’ investiment kollettiv sakemm l-unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà mill-pubbliku. Unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà "mill-pubbliku" jekk ix-xiri, il-bejgħ jew il-fidwa ma jkunux impliċitament jew espliċitament ristretti għal grupp ta’ investituri limitat;
 
 (o) il-frażi "borża rikonoxxuta" tfisser kull borża miftiehma mill-awtoritajiet kompetenti tal-Partijiet Kontraenti;
 
@@ -167,9 +157,7 @@ Kull Parti Kontraenti għandha tiżgura li l-awtoritajiet kompetenti tagħha, g�
 
 (a) informazzjoni miżmuma mill-banek, istituzzjonijiet finanzjarji oħra, u minn kull persuna li tkun tiffunzjona f’aġenzija jew f’xi kapaċità fiduċjarja inklużi nominees u trustees;
 
-(b) informazzjoni li jkollha x’taqqsam mal-proprjetà ta’ kumpanniji, soċjetajiet, trusts, fondazzjonijiet, "Anstalten" u persuni oħra, inklużi, fil-limiti tal-Artikolu 2, informazzjoni dwar il-proprjetà fuq dawk il-persuni kollha f’katina ta’ proprjetà; fil-każ ta’ trusts, informazzjoni fuq settlors, trustees u benefiċjarji; u fil-każ ta’ fondazzjonijiet, informazzjoni fuq il-fundaturi, membri tal-kunsill tal-fondazzjoni u benefiċjarji. Iktar minn hekk, dan il-Ftehim ma joħloq ebda obbligu fuq (MATERJA TA’ TAXXA) (BERMUDA) [L.S.123.145 5
-
-il-Partijiet Kontraenti biex dawn jiksbu jew jipprovdu informazzjoni dwar il-proprjetà dwar kumpanniji li jkunu jidhru fil-borża jew fondi ta’ investiment kollettiv jew skemi pubbliċi kemm-il darba dik l-informazzjoni tkun tista’ tinkiseb mingħajr ma jingħata lok għal diffikultajiet sproporzjonati.
+(b) informazzjoni li jkollha x’taqqsam mal-proprjetà ta’ kumpanniji, soċjetajiet, trusts, fondazzjonijiet, "Anstalten" u persuni oħra, inklużi, fil-limiti tal-Artikolu 2, informazzjoni dwar il-proprjetà fuq dawk il-persuni kollha f’katina ta’ proprjetà; fil-każ ta’ trusts, informazzjoni fuq settlors, trustees u benefiċjarji; u fil-każ ta’ fondazzjonijiet, informazzjoni fuq il-fundaturi, membri tal-kunsill tal-fondazzjoni u benefiċjarji. Iktar minn hekk, dan il-Ftehim ma joħloq ebda obbligu fuq il-Partijiet Kontraenti biex dawn jiksbu jew jipprovdu informazzjoni dwar il-proprjetà dwar kumpanniji li jkunu jidhru fil-borża jew fondi ta’ investiment kollettiv jew skemi pubbliċi kemm-il darba dik l-informazzjoni tkun tista’ tinkiseb mingħajr ma jingħata lok għal diffikultajiet sproporzjonati.
 
 ## 5.
 
@@ -201,9 +189,7 @@ L-awtorità kompetenti tal-Parti mitluba għandha tgħaddi l-informazzjoni mitlu
 
 **Eżami tat-Taxxa barra mill-Pajjiż**
 
-\1. Parti Kontraenti tista’ tippermetti lil rappreżentanti tal-awtorità kompetenti tal-Parti Kontraenti l-oħra jidħlu fit-territorju tal-Parti msemmija l-ewwel biex jintervistaw lil individwi u jeżaminaw records bil-kunsens mogħti bil-miktub tal-persuni involuti. L-awtorità kompetenti tal-Parti msemmija t-tieni għandhom javżaw 6 [L.S.123.145 (MATERJA TA’ TAXXA) (BERMUDA)
-
-lill-awtorità kompetenti tal-Parti msemmija l-ewwel bid-data u l-post meta għandhom jiltaqgħu mal-individwi involuti.
+\1. Parti Kontraenti tista’ tippermetti lil rappreżentanti tal-awtorità kompetenti tal-Parti Kontraenti l-oħra jidħlu fit-territorju tal-Parti msemmija l-ewwel biex jintervistaw lil individwi u jeżaminaw records bil-kunsens mogħti bil-miktub tal-persuni involuti. L-awtorità kompetenti tal-Parti msemmija t-tieni għandhom javżaw lill-awtorità kompetenti tal-Parti msemmija l-ewwel bid-data u l-post meta għandhom jiltaqgħu mal-individwi involuti.
 
 \2. Fuq talba tal-awtorità kompetenti ta’ xi Parti Kontraenti, l-awtorità kompetenti tal-Parti Kontraenti l-oħra tista’ tippermetti lil rappreżentanti tal-awtorità kompetenti tal-Parti msemmija l-ewwel ikunu preżenti fil-waqt adatt ta’ eżami tat-taxxa fil-Parti msemmija t-tieni.
 
@@ -235,9 +221,7 @@ Il-Parti mitluba tista’ tirrofta talba għal informazzjoni jekk l-informazzjon
 
 **Kunfidenzjalità**
 
-Kull informazzjoni li tiġi riċevuta minn Parti Kontraenti taħt dan il-Ftehim għandha tiġi ttrattata bħala kunfidenzjali u tista’ tiġi biss żvelata lil persuni jew (MATERJA TA’ TAXXA) (BERMUDA) [L.S.123.145 7
-
-awtoritajiet (inklużi qrati u korpi amministrattivi) fil-ġurisdizzjoni tal-Parti Kontraenti li jkollha x’taqsam mal-istima jew il-kollezzjoni, infurzar jew prosekuzzjoni ta’, jew id-deċiżjoni ta’ appelli dwar, it-taxxi koperti b’dan il-Ftehim. Dawk il-persuni jew awtoritajiet għandhom jużaw dik l-informazzjoni għal dawk il-finijiet biss. Jistgħu jiżvelaw l-informazzjoni fi proċedimenti pubbliċi tal-qorti jew f’deċiżjonijiet ġudizzjarji. L-informazzjoni ma tistax tiġi żvelata lil xi persuna jew entità jew awtorità oħra jew lil xi ġurisdizzjoni oħra mingħajr il-kunsens espress mogħti bil-miktub tal-awtorità kompetenti tal-Parti mitluba.
+Kull informazzjoni li tiġi riċevuta minn Parti Kontraenti taħt dan il-Ftehim għandha tiġi ttrattata bħala kunfidenzjali u tista’ tiġi biss żvelata lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) fil-ġurisdizzjoni tal-Parti Kontraenti li jkollha x’taqsam mal-istima jew il-kollezzjoni, infurzar jew prosekuzzjoni ta’, jew id-deċiżjoni ta’ appelli dwar, it-taxxi koperti b’dan il-Ftehim. Dawk il-persuni jew awtoritajiet għandhom jużaw dik l-informazzjoni għal dawk il-finijiet biss. Jistgħu jiżvelaw l-informazzjoni fi proċedimenti pubbliċi tal-qorti jew f’deċiżjonijiet ġudizzjarji. L-informazzjoni ma tistax tiġi żvelata lil xi persuna jew entità jew awtorità oħra jew lil xi ġurisdizzjoni oħra mingħajr il-kunsens espress mogħti bil-miktub tal-awtorità kompetenti tal-Parti mitluba.
 
 **Artikolu 9**
 
@@ -275,9 +259,7 @@ Dan il-Ftehim għandu jibda jseħħ meta kull Parti tkun avżat lill-Parti l-oħ
 
 \1. Dan il-Ftehim għandu jibqa’ fis-seħħ sakemm jiġi terminat minn Parti jew l-oħra.
 
-\2. Parti waħda jew l-oħra tista’ ttemm dan il-Ftehim billi tagħti avviż ta’ terminazzjoni bil-miktub, permezz ta’ kanali diplomatiċi, lill-Parti l-oħra. Dik it-terminazzjoni ssir effettiva fl-ewwel jum tax-xahar li jaħbat wara li jiskadi perjodu ta’ sitt xhur wara d-data meta jiġi riċevut l-avviż ta’ terminazzjoni mill-Parti l-oħra. 8 [L.S.123.145 (MATERJA TA’ TAXXA) (BERMUDA)
-
-\3. Jekk il-Ftehim jiġi terminat il-Partijiet għandhom jibqgħu marbutin bid-dispożizzjonijiet tal-Artikolu 8 dwar kull informazzjoni miksuba taħt dan il-Ftehim.
+\2. Parti waħda jew l-oħra tista’ ttemm dan il-Ftehim billi tagħti avviż ta’ terminazzjoni bil-miktub, permezz ta’ kanali diplomatiċi, lill-Parti l-oħra. Dik it-terminazzjoni ssir effettiva fl-ewwel jum tax-xahar li jaħbat wara li jiskadi perjodu ta’ sitt xhur wara d-data meta jiġi riċevut l-avviż ta’ terminazzjoni mill-Parti l-oħra. 3. Jekk il-Ftehim jiġi terminat il-Partijiet għandhom jibqgħu marbutin bid-dispożizzjonijiet tal-Artikolu 8 dwar kull informazzjoni miksuba taħt dan il-Ftehim.
 
 B’XIEHDA TA’ DAN il-persuni hawn taħt iffirmati kif debitament awtorizzati għaldaqstant mill-Partijiet rispettivi, iffirmaw dan il-Ftehim.
 
@@ -322,8 +304,6 @@ Il-Gvern ta’ Malta u l-Gvern tal-Bermuda, billi jixtiequ jiffaċilitaw l-iskam
 \4. Meta tkun qegħda tagħmel dan il-Ftehim, il-Bermuda ser tkun eżenti minn legislazzjoni dwar miżuri projbittivi imposti fuq ġurisdizzjonijiet li ma jkunux adottaw mekkaniżmi ta’ Skambju ta’ Informazzjoni jew li jkunu ġurisdizzjonijiet ta’ taxxa fuq l-income baxxa jew ta’ ebda taxxa.
 
 \5. Konformement mal-Artikolu 5 tal-Ftehim qiegħed jiġi reċiprokament deċiż illi filwaqt li l-awtoritajiet kompetenti jirrikonoxxu li ħtiġiet legali, konsistenti ma’ standards internazzjonial bħal dawk kif jistgħu jkunu rilevanti u, partikolarment, standards bħal dawk għar-rigward ta’ servizzi finanzjarji, fil-ġurisdizzjoni tal-Parti mitluba ma jkunux jeħtieġu li jinżammu ċertu records għal żmien itwal minn dak speċifikat, l-awtoritajiet kompetenti għandhom, madankollu, jużaw kull informazzjoni u miżuri ta’ ġbir rilevanti biex jipprovdu kull informazzjoni mitluba, meta dik l-informazzjoni tkun, fil-fatt, qegħda tinżamm.
-
-(MATERJA TA’ TAXXA) (BERMUDA) [L.S.123.145 9
 
 ## 6.
 

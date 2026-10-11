@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Professjoni tal-Accountancy (Provvista ta’ Servizzi tal-Accountancy fuq Bażi Temporanja u Okkażjonali)"
-identifier: "S.L. 281.4"
+identifier: "S.L. 281.04"
 eli: "https://legislation.mt/eli/sl/281.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/281.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Professjoni tal-Accountancy (Provvista ta’ Servizzi tal-Accountancy fuq Bażi Temporanja u Okkażjonali) (S.L. 281.4)
-
-TA’ SERVIZZI TAL-ACCOUNTANCY
-
-*1*
-
-FUQ BAŻI TEMPORANJA U OKKAŻJONALI) [L.S.281.04
+# Regolamenti dwar il-Professjoni tal-Accountancy (Provvista ta’ Servizzi tal-Accountancy fuq Bażi Temporanja u Okkażjonali) (S.L. 281.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 281.04**
 
@@ -69,13 +63,7 @@ L-għan ta’ dawn ir-regolamenti hu biex jiġu provduti regoli speċifiċi għa
 
 (a) ikun legalment stabbilit f’xi Stat Membru bl-għan li jeżerċita l-istess professjoni:
 
-Iżda meta l-forniment tas-servizzi tal-accountancy, jew l-edukazzjoni jew it-taħriġ li jwassal għas-servizz tal-accountancy, ma jkunx irregolat f’dak l-Istat Membru fejn il-fornitur temporanju tas-servizz ikun TA’ SERVIZZI TAL-ACCOUNTANCY
-
-*2*
-
-[L.S.281.04 FUQ BA|ITEMPORANJA UOKKA|JONALI)
-
-legalment stabbilit, il-fornitur temporanju tas-servizz m’għandux ikun projbit milli jforni servizzi tal-accountancy f’Malta fuq bażi temporanja u okkażjonali jekk ikun forna servizzi tal-accountancy f’dak l-Istat Membru fejn il-fornitur temporanju tas-servizz ikun legalment stabbilit għal tal-anqas sena matul l-għaxar snin li jiġu qabel il-forniment tas-servizzi tal-accountancy f’Malta fuq bażi temporanja u okkażjonali;
+Iżda meta l-forniment tas-servizzi tal-accountancy, jew l-edukazzjoni jew it-taħriġ li jwassal għas-servizz tal-accountancy, ma jkunx irregolat f’dak l-Istat Membru fejn il-fornitur temporanju tas-servizz ikun legalment stabbilit, il-fornitur temporanju tas-servizz m’għandux ikun projbit milli jforni servizzi tal-accountancy f’Malta fuq bażi temporanja u okkażjonali jekk ikun forna servizzi tal-accountancy f’dak l-Istat Membru fejn il-fornitur temporanju tas-servizz ikun legalment stabbilit għal tal-anqas sena matul l-għaxar snin li jiġu qabel il-forniment tas-servizzi tal-accountancy f’Malta fuq bażi temporanja u okkażjonali;
 
 (b) ikun kopert minn assigurazzjoni għal indennizz xierqa skont l-Att jew skont ir-regolamenti maħruġa taħt l- Att;
 
@@ -91,11 +79,7 @@ legalment stabbilit, il-fornitur temporanju tas-servizz m’għandux ikun projbi
 
 Iżda id-deċiżjoni tal-Bord meħuda skont dan is-subregolament tkun suġġetta għal appell skont l-artikolu 15B tal- Att.
 
-(3) Meta fornitur temporanju tas-servizzi, minkejja li jkun notifikat mill-Bord skont is-subregolament (2), iforni servizzi tal-accountancy f’Malta, mingħajr ma jkun detentur tal-warrant, hu jkun ħati ta’ reat u jista’ jeħel, meta jinstab ħati, il-piena ta’ multa TA’ SERVIZZI TAL-ACCOUNTANCY
-
-*3*
-
-FUQ BAŻI TEMPORANJA U OKKAŻJONALI) [L.S.281.04 ta’ mhux iżjed minn sitt elef euro (€6,000).
+(3) Meta fornitur temporanju tas-servizzi, minkejja li jkun notifikat mill-Bord skont is-subregolament (2), iforni servizzi tal-accountancy f’Malta, mingħajr ma jkun detentur tal-warrant, hu jkun ħati ta’ reat u jista’ jeħel, meta jinstab ħati, il-piena ta’ multa ta’ mhux iżjed minn sitt elef euro (€6,000).
 
 ## 6. Dikjarazzjoni bil-miktub.
 
@@ -125,13 +109,7 @@ FUQ BAŻI TEMPORANJA U OKKAŻJONALI) [L.S.281.04 ta’ mhux iżjed minn sitt ele
 
 (ċ) fis-sitwazzjoni msemmija fil-proviso għar-regolament 4(a), kull mezz ta’ prova illi l-fornitur temporanju tas-servizzi forna servizzi tal-accountancy għal tal-anqas sena matul l-għaxar snin preċedenti;
 
-(d) attestazzjoni illi l-fornitur temporanju tas-servizzi huwa kopert minn assigurazzjoni għal indennizz TA’ SERVIZZI TAL-ACCOUNTANCY
-
-*4*
-
-[L.S.281.04 FUQ BA|ITEMPORANJA UOKKA|JONALI)
-
-xierqa skont l-Att jew skont ir-regolamenti magħmulin taħt l-Att; u
+(d) attestazzjoni illi l-fornitur temporanju tas-servizzi huwa kopert minn assigurazzjoni għal indennizz xierqa skont l-Att jew skont ir-regolamenti magħmulin taħt l-Att; u
 
 (e) prova tal-kwalifiki professjonali tal-fornitur temporanju tas-servizzi.
 
@@ -159,11 +137,7 @@ Il-preżentazzjoni tad-dikjarazzjoni meħtieġa mill-fornitur temporanju ta’ s
 
 Fornitur temporanju tas-servizzi għandu jagħti, meta jforni servizzi tal- accountancy f ’Malta fuq bażi temporanja u okkażjonali, lir-riċevitur tas-servizzi tal-accountancy dan it-tagħrif li ġej:
 
-(a) fejn japplika, kull reġistru li fih l-fornitur temporanju tas-servizzi ikun reġistrat, in-numru ta’ reġistrazzjoni TA’ SERVIZZI TAL-ACCOUNTANCY
-
-*5*
-
-FUQ BAŻI TEMPORANJA U OKKAŻJONALI) [L.S.281.04 tiegħu, jew mezzi ekwivalenti ta’ identifikazzjoni li jinsabu f’dak ir-reġistru;
+(a) fejn japplika, kull reġistru li fih l-fornitur temporanju tas-servizzi ikun reġistrat, in-numru ta’ reġistrazzjoni tiegħu, jew mezzi ekwivalenti ta’ identifikazzjoni li jinsabu f’dak ir-reġistru;
 
 (b) id-dettalji ta’ kull assoċjazzjoni professjonali jew korp simili li magħhom ikun reġistrat jew li fihom ikun membru l-fornitur temporanju tas-servizzi;
 
@@ -187,13 +161,7 @@ FUQ BAŻI TEMPORANJA U OKKAŻJONALI) [L.S.281.04 tiegħu, jew mezzi ekwivalenti 
 
 Iżda meta, fuq bażi ta’ informazzjoni mogħtija mill-awtoritajiet kompetenti tal-Istati Membri li fihom ikunu legalment stabbiliti l-fornituri temporanji tas-servizzi, il-Bord ikollu l-opinjoni li l-forniment tas-servizzi tal-accountancy huwa ta’ ħsara għall-interessi tar-riċevituri, il-Bord jista’, permezz ta’ notifika lill-fornitur temporanju tas-servizzi, jipprojbixxi lil dak il-fornitur milli jforni servizzi ta’ accountancy f’Malta:
 
-Iżda wkoll id-disposizzjonijiet tar-regolament 5(3) għandhom, mutatis mutandis, japplikaw għal fornitur temporanju tas-servizzi illi, minkejja li kien notifikat skont dan is- TA’ SERVIZZI TAL-ACCOUNTANCY
-
-*6*
-
-[L.S.281.04 FUQ BA|ITEMPORANJA UOKKA|JONALI)
-
-subregolament, ikompli jforni s-servizzi tal-accountancy f’Malta:
+Iżda wkoll id-disposizzjonijiet tar-regolament 5(3) għandhom, mutatis mutandis, japplikaw għal fornitur temporanju tas-servizzi illi, minkejja li kien notifikat skont dan is-subregolament, ikompli jforni s-servizzi tal-accountancy f’Malta:
 
 Iżda wkoll deċiżjoni tal-Bord meħuda skont dan is-subregolament tkun soġġetta għal appell skont l-artikolu 15B tal- Att.
 

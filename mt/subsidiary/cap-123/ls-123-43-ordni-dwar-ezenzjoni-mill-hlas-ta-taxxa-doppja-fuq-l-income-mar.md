@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Ċeka (S.L. 123.43)
 
-FUQ L-INCOME MAR-REPUBBLIKA ~EKA [ L.S.123.43
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.43**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -105,9 +103,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa b]alhom jew li sostanzjalment ti
 
 ## 5.
 
-Minkejja d-disposizzjonijiet l-o]ra ta’ dan l-Artikolu, dan il-Ftehim ma japplikax g]al taxxa m]allsa jew li tit]allas f’Malta skond id-disposizzjonijiet tas-subartikolu (13) ta’ l-artikolu 56 ta’ l-Att dwar it-Taxxa fuq l-Income dwar l-income taxxabbli ta’ persuna li tkun ta]dem fil-produzzjoni ta’ \\ejt/petroleum li ji[i prodott f’Malta jew ta’ kull provvediment ie]or li jkun sostanzjalment simili u li ji[i impost FUQ L-INCOME MAR-REPUBBLIKA ~EKA [ L.S.123.43
-
-wara d-data tal-firma ta’ dan il-Ftehim.
+Minkejja d-disposizzjonijiet l-o]ra ta’ dan l-Artikolu, dan il-Ftehim ma japplikax g]al taxxa m]allsa jew li tit]allas f’Malta skond id-disposizzjonijiet tas-subartikolu (13) ta’ l-artikolu 56 ta’ l-Att dwar it-Taxxa fuq l-Income dwar l-income taxxabbli ta’ persuna li tkun ta]dem fil-produzzjoni ta’ \\ejt/petroleum li ji[i prodott f’Malta jew ta’ kull provvediment ie]or li jkun sostanzjalment simili u li ji[i impost wara d-data tal-firma ta’ dan il-Ftehim.
 
 **ARTIKOLU 3**
 
@@ -185,9 +181,7 @@ wara d-data tal-firma ta’ dan il-Ftehim.
 
 \3. Il-fra\\i "stabbiliment permanenti" bl-istess mod tkopri wkoll:
 
-(a) art ii tkun qeg]da tinbena, pro[ett ta’ kostruzzjoni, assembla[[ jew FUQ L-INCOME MAR-REPUBBLIKA ~EKA [ L.S.123.43
-
-stallazzjoni jew attivitajiet supervi\\orji li g]andhom x’jaqsmu ma’ dan, i\\da biss meta dawk l-art, pro[ett jew attivitajiet ikomplu g]al \\mien iktar minn disa’ xhur;
+(a) art ii tkun qeg]da tinbena, pro[ett ta’ kostruzzjoni, assembla[[ jew stallazzjoni jew attivitajiet supervi\\orji li g]andhom x’jaqsmu ma’ dan, i\\da biss meta dawk l-art, pro[ett jew attivitajiet ikomplu g]al \\mien iktar minn disa’ xhur;
 
 (b) l-g]oti ta’ servizzi, inklu\\i servizzi ta’ konsult u mani[erjali, minn impri\\a permezz ta’ impjegati jew ta’ persunal ie]or im]addma mill-impri\\a g]al dan l-g]an, i\\da biss meta attivitajiet ta’ dik ix-xorta jkomplu [ewwa Stat Kontraenti g]al perijodu jew perijodi li b’kollox jammontaw g]al iktar minn sitt xhur f’perijodu wie]ed ta’ tnax il-xahar. 4. Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabbiliment permanenti" g]andha titqies li ma tinkludix:
 
@@ -239,9 +233,7 @@ l. Il-profitti ta’ impri\\a ta’ Stat Kontraenti g]andhom ikunu taxxabbli f�
 
 \3. Biex ji[u stabbiliti l-profitti ta’ stabbiliment permanenti g]andhom ikunu permessi b]ala tnaqqis dawk l-ispejje\\ li jsiru g]all-g]anijiet ta’ l-istabbiliment perrnanenti, mag]duda l-ispejje\\ e\\ekuttivi u amministrattivi [enerali li jsiru, u li jkunu jitnaqqsu li kieku l-istabbiliment permanenti kien enti indipendenti li jkun ]allas dawk l-ispejje\\, sew jekk ikunu saru fl-Istat Kontraenti li fih ikun hemn l-istabbiliment permanenti sew jekk ikunu saru band’o]ra.
 
-\4. Fil-qies li jkun hekk konswetudinarju li Stat Kontraenti li jistabbilixxi l-profitti attribwibbli lil stabbiliment permanenti fuq il-ba\\i tat-tqassim tal-profitti kollha ta’ l-impri\\a lill-ishma diversi tag]ha, ebda ]a[a fil-paragrafu 2 ma g]andha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi x’ikunu l-profitti li g]andhom ji[u intaxxati b’dak it-tqassim kif jista’ jkun konswetudinarju; il-mod ta’ tqassim li ji[i adottat g]andu, madankollu, ikun wie]ed tali li r-ri\\ultat ikun skond il-prin`ipji FUQ L-INCOME MAR-REPUBBLIKA ~EKA [ L.S.123.43
-
-li jinsabu f’dan l-Artikolu.
+\4. Fil-qies li jkun hekk konswetudinarju li Stat Kontraenti li jistabbilixxi l-profitti attribwibbli lil stabbiliment permanenti fuq il-ba\\i tat-tqassim tal-profitti kollha ta’ l-impri\\a lill-ishma diversi tag]ha, ebda ]a[a fil-paragrafu 2 ma g]andha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi x’ikunu l-profitti li g]andhom ji[u intaxxati b’dak it-tqassim kif jista’ jkun konswetudinarju; il-mod ta’ tqassim li ji[i adottat g]andu, madankollu, ikun wie]ed tali li r-ri\\ultat ikun skond il-prin`ipji li jinsabu f’dan l-Artikolu.
 
 \5. Ma g]andhom ji[u attribwiti ebda profitti lil stabbiliment permanenti min]ahba x-xiri biss minn dak l-istabbiliment permanenti ta’ o[[etti jew merkanzija g]all-impri\\a.
 
@@ -303,8 +295,6 @@ Dan il-paragrafu ma jolqotx it-tassazzjoni tal-kumpannija g]ar-rigward tal-profi
 
 \5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ie]or, dak l-Istat l-ie]or ma jista’ jimponi ebda taxxa fuq id-dividendi m]allsa mill-kumpannija ]lief meta dividendi b]al dawn jit]allsu lil residenti ta’ dak l-Istat l-ie]or jew safejn il-holding li dwaru jit]allsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ ba\\i stabbilit sitwat f’dak l-Istat l-ie]or, jew jissu[[etta l-profitti mhux distribwiti tal-kumpannija g]al taxxa fuq il-profitti mhux distribwiti tal-kumpannija, anki jekk id-dividendi m]allsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalg]u f’dak l-Istat l-ie]or.
 
-FUQ L-INCOME MAR-REPUBBLIKA ~EKA [ L.S.123.43
-
 **ARTIKOLU 11**
 
 **Img]ax**
@@ -348,8 +338,6 @@ proprjetà li dwarha jit]allsu r-royalties ikollu x’jaqsam effettivament ma’
 \4. Income jew kull qlig] mit-trasferiment ta’ bastimenti, in[enji ta’ l-ajru jew vetturi fuq l-art im]addma fi traffiku internazzjonali minn impri\\a ta’ Stat Kontraenti, jew mit-trasferiment ta’ proprjetà mobbli li tappartjeni g]at-t]addim ta’ dawk il-bastimenti, in[enji ta’ l-ajru jew vetturi fuq l-art g]andhom jkun taxxabbli biss f’dak l-Istat.
 
 \5. Income jew kull qlig] mit-trasferiment ta’ proprjetà li ma tkunx dik imsemmija fil-paragrafi 1, 2, 3 u 4 ta’ dan l-Artikolu g]andu jkun taxxabbli biss fl- Istat Kontraenti li fih ikun resident min jittrasferixxi.
-
-FUQ L-INCOME MAR-REPUBBLIKA ~EKA [ L.S.123.43
 
 **ARTIKOLU 14**
 
@@ -419,9 +407,7 @@ Id-drittijiet u ]lasijiet simili tad-diretturi li jinkisbu minn residenti ta’ 
 
 **Servizz tal-Gvern**
 
-\1. (a) Salarji, pagi u rimunerazzjoni simili o]ra, barra minn pensjoni, im]allsa minn Stat Kontraenti jew minn qasam politiku jew awtorità lokali tieg]u lil xi individwu dwar servizzi mog]tija lil dak l-Istat jew qasam jew awtorità lokali jistg]u FUQ L-INCOME MAR-REPUBBLIKA ~EKA [ L.S.123.43
-
-ji[u intaxxati biss f’dak l-Istat.
+\1. (a) Salarji, pagi u rimunerazzjoni simili o]ra, barra minn pensjoni, im]allsa minn Stat Kontraenti jew minn qasam politiku jew awtorità lokali tieg]u lil xi individwu dwar servizzi mog]tija lil dak l-Istat jew qasam jew awtorità lokali jistg]u ji[u intaxxati biss f’dak l-Istat.
 
 (b) B’dan illi, dawk is-salarji, pagi u rimunerazzjoni simili o]ra jkunu jistg]u ji[u intaxxati biss fl-Istat Kontraenti l-ie]or jekk is-servizzi jing]ataw f’dak l-Istat u l-individwu jkun residenti f’dak l-Istat li:
 
@@ -481,8 +467,6 @@ Ir-Repubblika ~eka, meta tkun qeg]da timponi t-taxxi fuq ir-residenti tag]ha, ti
 
 \4. G]all-g]anijiet ta’ g]oti ta’ kreditu, it-taxxa li g]andha tit]allas fir- Repubblika ~eka jew f’Malta, skond kif ikun me]tie[, g]andha titqies li tinkludi dik it-taxxa li altrimenti tit]allas fi Stat Kontraenti i\\da li tkun [iet imnaqqsa jew `eduta minn dak l-Istat bis-sa]]a tad-disposizzjonijiet legali tieg]u dwar in`entivi rigward it-taxxa.
 
-FUQ L-INCOME MAR-REPUBBLIKA ~EKA [ L.S.123.43
-
 **ARTIKOLU 24**
 
 **Ebda Diskriminazzjoni**
@@ -530,8 +514,6 @@ l. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jibdlu dik l-inf
 **Membri ta’ Missjonijiet Diplomati`i u Uffi``ji Konsulari**
 
 Ebda ]a[a f’dan il-Ftehim ma g]andha tolqot il-privile[[i fiskali ta’ membri ta’ missjonijiet diplomati`i jew ta’ uffi``ji konsulari ta]t ir-regoli [enerali tad-dritt internazzjonali jew ta]t id-disposizzjonijiet ta’ kull ftehim spe`jali.
-
-FUQ L-INCOME MAR-REPUBBLIKA ~EKA [ L.S.123.43
 
 **ARTIKOLU 28**
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar in-National Identity Management System"
-identifier: "S.L. 258.4"
+identifier: "S.L. 258.04"
 eli: "https://legislation.mt/eli/sl/258.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/258.4/20250801/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar in-National Identity Management System (S.L. 258.4)
+# Regolamenti dwar in-National Identity Management System (S.L. 258.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 258.04**
 

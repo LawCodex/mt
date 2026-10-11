@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Individwi ta’ Valur Nett Għoli - Ċittadini tal-UE/ŻEE/Svizzera (S.L. 123.129)
 
-*1*
-
-ĊITTADINI TAL-UE/ŻEE/SVIZZERA [L.S.123.129
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.129**
 
 **REGOLI DWAR INDIVIDWI TA’ VALUR NETT**
@@ -61,10 +57,6 @@ Iżda, għall-finijiet ta’ dawn ir-regoli, ċittadini taż-ŻEE u ċittadini t
 
 \*Ara r-regola 1(2) ta’ dawn ir-regoli, kif promulgati oriġinarjament.
 
-*2*
-
-[L.S.123.129 ĊITTADINI TAL-UE/ŻEE/SVIZZERA
-
 "Kummissarju" tfisser il-Kummissarju tat-Taxxi;
 
 *Kap. 12.*
@@ -93,9 +85,7 @@ Iżda persuna li ma tkunx individwu, li jkollha mill-inqas 75% (direttament jew 
 
 Iżda, għall-finijiet ta’ din it-tifsira, il-Kummissarju jkollu d-diskrezzjoni, sakemm tingħata raġuni valida, li jqis proprjetà li tkun koperta b’arranġament ta’ kera mibdi qabel l-14 ta’ Settembru 2011 għall-korrispettiv ta’ mhux inqas minn €4,150 fis-sena, minn persuna li tkun ippreżentat applikazzjoni skont ir-Regolamenti dwar Skema għal Residenti, liema applikazzjoni tkun ġiet debitament riċevuta u mgħarrfa mill-Kummissarju qabel l-14 ta’ Settembru 2011, bħala proprjetà mikrija mill-applikant kif imsemmi hawn qabel, sakemm kopja tal-istess arranġament ta’ kera, attestata minn nutar jew avukat, tiġi depożitata mal-Kummissarju sa mhux iktar tard mill-31 ta’ Marzu 2012;
 
-*3*
-
-ĊITTADINI TAL-UE/ŻEE/SVIZZERA [L.S.123.129 "proprjetà mixtrija li tikkwalifika" tfisser proprjetà mixtrija wara l-1 ta’ Jannar 2011 għal korrispettiv ta’ mhux inqas minn erba’ mitt elf euro (€400,000), jew proprjetà mixtrija qabel l-14 ta’ Settembru 2011 għal korrispettiv ta’ mhux inqas minn mija u sittax-il elf euro (€116,000) minn persuna li tkun ippreżentat applikazzjoni skont ir- Regolamenti dwar Skema għal Residenti, liema applikazzjoni tkun ġiet debitament riċevuta u mgħarrfa mill-Kummissarju qabel l-14 ta’ Settembru 2011:
+"proprjetà mixtrija li tikkwalifika" tfisser proprjetà mixtrija wara l-1 ta’ Jannar 2011 għal korrispettiv ta’ mhux inqas minn erba’ mitt elf euro (€400,000), jew proprjetà mixtrija qabel l-14 ta’ Settembru 2011 għal korrispettiv ta’ mhux inqas minn mija u sittax-il elf euro (€116,000) minn persuna li tkun ippreżentat applikazzjoni skont ir- Regolamenti dwar Skema għal Residenti, liema applikazzjoni tkun ġiet debitament riċevuta u mgħarrfa mill-Kummissarju qabel l-14 ta’ Settembru 2011:
 
 *L.S. 123.79*
 
@@ -125,13 +115,9 @@ Iżda l-Kummissarju m’għandux jirċievi kwalunkwe applikazzjoni għal status 
 
 Iżda l-Kummissarju ma għandux joħroġ determinazzjonijiet bħal dawn bil-miktub wara d-data tal-pubblikazzjoni ta’ dawn ir-regoli.
 
-(3) Benefiċjarju fil-pussess ta’ status speċjali ta’ taxxa mogħtija taħt dawn ir-regoli jista’ jitlob lill-Kummissarju li jagħtih status speċjali ta’ taxxa taħt ir-Regoli dwar il-Programm ta’ Residenza. Malli jirċievi dik it-talba, il-Kummissarju għandu joħroġ determinazzjoni bil-miktub li l-benefiċjarju jkun ġie mogħti [L.S.123.129 ĊITTADINI TAL-UE/ŻEE/SVIZZERA
+(3) Benefiċjarju fil-pussess ta’ status speċjali ta’ taxxa mogħtija taħt dawn ir-regoli jista’ jitlob lill-Kummissarju li jagħtih status speċjali ta’ taxxa taħt ir-Regoli dwar il-Programm ta’ Residenza. Malli jirċievi dik it-talba, il-Kummissarju għandu joħroġ determinazzjoni bil-miktub li l-benefiċjarju jkun ġie mogħti status speċjali ta’ taxxa taħt ir-Regoli dwar il-Programm ta’ Residenza. Tali talba għandha tiġi magħmula permezz tas-servizzi ta’ manadatarju awtorizzat reġistrat u għandha tagħmel referenza għal din ir-regola:
 
 *L.S. 123.160*
-
-status speċjali ta’ taxxa taħt ir-Regoli dwar il-Programm ta’ Residenza. Tali talba għandha tiġi magħmula permezz tas-servizzi ta’ manadatarju awtorizzat reġistrat u għandha tagħmel referenza għal din ir-regola:
-
-*4*
 
 Iżda f’dawk il-każijiet fejn applikazzjoni għal status speċjali ta’ taxxa tkun saret taħt dawn ir-regoli, u l-Kummissarju kien għadu ma ħariġx determinazzjoni bil-miktub li tikkonferma dan l-istatus sad-data tal-pubblikazzjoni ta’ dawn ir-regoli l-applikant jista’ jitlob lill-Kummissarju sabiex tali applikazzjoni tiġi kkunsidrata li tkun saret taħt ir-Regoli dwar il-Programm ta’ Residenza. Tali talba għandha ssir permezz tas-servizzi ta’ manadatarju awtorizzat reġistrat u għandha tagħmel referenza għal din ir-regola.
 
@@ -167,11 +153,7 @@ Iżda l-inqas ammont ta’ taxxa li għandu jitħallas skont dawn ir-regoli fir-
 
 Iżda ukoll benefiċjarju li jkollu dipendenti għandu, b’żieda mal-inqas ammont li għandu jitħallas ta’ għoxrin elf euro (€20,000), iħallas elfejn u ħames mitt euro (€2,500) oħra għal kull sena ta’ stima għal kull dipendenti.
 
-(2) L-income ta’ benefiċjarju jew tal-konjuġi tiegħu li mhuwiex taxxabbli taħt dawn ir-regoli, bir-rata msemmija fis-subregola (1), għandu jkun taxxabbli bir-rata ta’ ħamsa u tletin ċenteżmu (0.35) ĊITTADINI TAL-UE/ŻEE/SVIZZERA [L.S.123.129
-
-fuq kull euro.
-
-*5*
+(2) L-income ta’ benefiċjarju jew tal-konjuġi tiegħu li mhuwiex taxxabbli taħt dawn ir-regoli, bir-rata msemmija fis-subregola (1), għandu jkun taxxabbli bir-rata ta’ ħamsa u tletin ċenteżmu (0.35) fuq kull euro.
 
 (3) Benefiċjarju u l-konjuġi tiegħu ma jistgħux jagħżlu li ssirilhom komputazzjoni separata għall-finijiet tal-artikolu 50 tal- Att.
 
@@ -206,10 +188,6 @@ fuq kull euro.
 (5) Il-Ministru jkollu s-setgħa li jaħfer xi nuqqas ta’ konformità ma’ xi waħda mill-kondizzjonijiet fis-subregola (1) jekk:
 
 (a) dak in-nuqqas kien ikkaġunat minn ċirkostanzi mhux previsti u li ma setgħux ikunu kontrollati mill-individwu;
-
-*6*
-
-[L.S.123.129 ĊITTADINI TAL-UE/ŻEE/SVIZZERA
 
 (b) dak l-individwu javża lill-Ministru dwar dak in-nuqqas; u
 

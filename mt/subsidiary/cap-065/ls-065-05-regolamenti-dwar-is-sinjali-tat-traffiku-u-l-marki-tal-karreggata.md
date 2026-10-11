@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar is-Sinjali tat-Traffiku u l-Marki tal-Karreġġata"
-identifier: "S.L. 65.5"
+identifier: "S.L. 65.05"
 eli: "https://legislation.mt/eli/sl/65.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/65.5/20240524/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar is-Sinjali tat-Traffiku u l-Marki tal-Karreġġata (S.L. 65.5)
-
-*1*
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05
+# Regolamenti dwar is-Sinjali tat-Traffiku u l-Marki tal-Karreġġata (S.L. 65.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 65.05**
 
@@ -90,8 +86,6 @@ Dawn is-sinjali jwissu ta’ liwja jew dawra perikoluża aktar ’il quddiem, sk
 
 **LIWJA MAX-XELLUG LIWJA MAL-LEMIN LIWJA S MAX-XELLUG**
 
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 3
-
 (4) (5)
 
 **LIWJA S MAL-LEMIN SERJE TA’ LIWJIET**
@@ -131,8 +125,6 @@ SALIB IT-TOROQ TRIQ FUQ IX-XELLUG TRIQ FUQ IL-LEMIN (4) (5)
 E. Riskji ta’ periklu fit-triq
 
 Dawn is-sinjali (u sinjali simili b’figura differenti) jwissu li hemm riskju ta’ periklu fit-triq kif muri bil-figura. Malli s-sewwieq jiltaqa’ ma’ sinjali simili, huwa għandu jnaqqas il-veloċità u/jew jieħu dawk il-prekawzjonijiet meħtieġa skond iċ-ċirkostanzi partikolari.
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 5
 
 (1) (2) (3)
 
@@ -181,8 +173,6 @@ jgħaddi b’sikurezza)
 (14)
 
 **SINJALI TA’ TWISSIJA TA’ TUMBATA FIT-TRIQ**
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 7
 
 F. Riskji ta’ periklu għall-ħajja
 
@@ -242,9 +232,7 @@ Is-sinjali li ġejjin jipprojbixxu t-traffiku tal-vetturi fid-direzzjoni murija 
 
 **GĦAX-XELLUG GĦALL-LEMIN**
 
-(b) Dan is-sinjal jipprojbixxi t-traffiku milli jdawwar lura fid-direzzjoni opposta L-MARKI TAL-KARREĠĠATA [L.S.65.05 9
-
-fl-istess triq, u jitqiegħed fil-post fejn tapplika l-projbizzjoni. Jekk il-projbizzjoni testendi tul it-triq kollha, dan jista’ jiġi muri permezz ta’ pjanċa mdendla tat-tip muri bħala Nru. (4) jew (5) taħt il-paragrafu G ta’ din it-Taqsima ta’ l-Iskeda.
+(b) Dan is-sinjal jipprojbixxi t-traffiku milli jdawwar lura fid-direzzjoni opposta fl-istess triq, u jitqiegħed fil-post fejn tapplika l-projbizzjoni. Jekk il-projbizzjoni testendi tul it-triq kollha, dan jista’ jiġi muri permezz ta’ pjanċa mdendla tat-tip muri bħala Nru. (4) jew (5) taħt il-paragrafu G ta’ din it-Taqsima ta’ l-Iskeda.
 
 (3)
 
@@ -286,8 +274,6 @@ Dawn is-sinjali jipprojbixxu d-dħul fi triq jew f’partijiet minnha lil katego
 
 (b) Dan is-sinjal jipprojbixxi d-dħul fit-triq għat-tipi kollha ta’ vetturi bil-mutur ħlief għal muturi, scooters jew mopeds.
 
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 11
-
 (2)
 
 **EBDA VETTURI BIL-MUTUR**
@@ -328,9 +314,7 @@ D. Projbitorji - Għemil
 
 Dawn is-sinjali (jew sinjali simili b’figuri differenti) jimponu ċerti projbizzjonijiet ta’ egħmil kif murija bil-figura partikolari, u jitqegħdu fil-post fejn tibda jew tispiċċa l-projbizzjoni, skond il-każ.
 
-(a) L-ewwel sinjal jipprojbixxi lill-vetturi kollha milli jeċċedu l-limiti ta’ L-MARKI TAL-KARREĠĠATA [L.S.65.05 13
-
-veloċità murija fis-sinjal. Kemm-il darba s-sinjal ma jkunx imdendel mal-pjanċa ta’ l-isem ta’ area mibnija (f’liema każ il-projbizzjoni tkun tapplika għall-area kollha mibnija), id-distanza li għaliha tapplika l-projbizzjoni tista’ tiġi murija permezz ta’ pjanċa mdendla tat-tip muri bħala Nru. (4) jew (5) taħt il-paragrafu G ta’ din it- Taqsima ta’ l-Iskeda. It-tieni sinjal iħassar l-ewwel wieħed.
+(a) L-ewwel sinjal jipprojbixxi lill-vetturi kollha milli jeċċedu l-limiti ta’ veloċità murija fis-sinjal. Kemm-il darba s-sinjal ma jkunx imdendel mal-pjanċa ta’ l-isem ta’ area mibnija (f’liema każ il-projbizzjoni tkun tapplika għall-area kollha mibnija), id-distanza li għaliha tapplika l-projbizzjoni tista’ tiġi murija permezz ta’ pjanċa mdendla tat-tip muri bħala Nru. (4) jew (5) taħt il-paragrafu G ta’ din it- Taqsima ta’ l-Iskeda. It-tieni sinjal iħassar l-ewwel wieħed.
 
 (1) (2)
 
@@ -363,8 +347,6 @@ MA TlSTAX IDDOQQ IL-HORN TMIEM TAL-PROJBIZZJONI TAD-DAQQ TAL-HORN
 (e) Is-sinjal li jindika TOW ZONE (Żona ta’ Rmonk) fin-Nru. (10) juri li oġġett ta’ ingombru ikun ipparkjat jew imħolli waħdu f’żona fejn jista’ jiġi rmunkat. Avviż li jkun jindika l-proċeduri li jkunu jridu jiġu segwiti għat-teħid lura tal-imsemmi oġġett għandhom ikunu indikati b’mod ċar fl-imsemmi avviż.
 
 Is-sinjal li jindika CLAMPING ZONE (Żona ta’ Klampjar) f’Nru. (11) juri li l-vettura bil-mutur tkun ipparkjata jew imħollija f’żona fejn jistgħu jitwaħħlulha klampi mar-roti. Avviż li jkun jindika l-proċeduri li jkunu jridu jiġu segwiti għat-tneħħija tal-klamp jitwaħħal mal-windscreen tal-vettura bil-mutur.
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 15
 
 Fiż-żewġ każijiet, iż-żona dejjem tiġi indikata bħala żona fejn MA TISTAX TIEQAF.
 
@@ -402,10 +384,6 @@ JAQTGĦUX FIL-KANTUNIERI TAT-TOROQ) SABIEX JINDIKAW IŻ-ŻONA TA’ 5 METRI LI F
 
 **ĦLIEF B’DAWK IL-KUNDIZZJONIJIET MURIJA FIL-PARTI T’ISFEL**
 
-**L-MARKI TAL-KARREĠĠATA [L.S.65.05**
-
-*17*
-
 (17)
 
 **FEJN MA TISTAX TISTENNA ĦLIEF GĦAT-TRASPORT**
@@ -437,8 +415,6 @@ AMBJENTALMENT SENSITTIVI
 Iżda għall-finijiet ta’ din id-dispożizzjoni, it-terminu "vettura elettrika" għandha tfisser vettura ta’ Kategorija M1 jew N1 illi tieħu l-enerġija tagħha biss u esklussivament minn mutur elettriku wieħed jew aktar, li tuża enerġija elettrika maħżuna f’batteriji, liema batteriji jiġu ċċarġjati minn sors ta’ enerġija esterna, li tinkludi vetturi ibridi Plugin u li teskludi muturi elettriċi.
 
 (21)
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 19
 
 E. Obbligatorji - Għemil
 
@@ -484,8 +460,6 @@ VELOĊlTÀ MINIMA
 
 (f) Dan is-sinjal jimponi l-obbligu fuq il-vetturi kollha biex inaqqsu l-veloċità u jagħtu d-dritta lill-pedestrians li jkunu qed jaqsmu. Il-vetturi ma għandhomx jgħaddu quddiem il-pedestrians li jkunu qegħdin jużaw dan il-passaġġ u lanqas ma għandhom jieqfu fuq dan il-passaġġ meta jkunu għaddejjin wara traffiku miexi bil-mod. Il-pedestrians għandhom jagħtu indikazzjoni ċara ta’ l-intenzjoni tagħhom li ser jaqsmu t-triq, u għandhom jaqsmu malajr kemm jista’ jkun.
 
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 21
-
 (8)
 
 **FEJN JAQSMU T-TRIQ IL-PEDESTRIANS**
@@ -525,8 +499,6 @@ waqt il-ħin muri fil-parti t’isfel tal-pjanċa. Fil-pjanċa jista’ jiġi nk
 **għal vetturi fl-istess direzzjoni tat-traffiku**
 
 (i) Is-sinjal li ġej jitwaħħal f’karreġġati li jaqsmu karreġġata oħra li fuqha jkun hemm mogħdija ta’ preċedenza għal vetturi fl-istess direzzjoni tat-traffiku.
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 23
 
 (12)
 
@@ -571,8 +543,6 @@ lMXI DRITT ’IL MUR MAX-XELLUG MUR MAL-LEMIN QUDDIEM
 **ŻOMM MAX-XELLUQ ŻOMM MAL-LEMIN**
 
 (e) Dawn is-sinjali jimponu l-obbligu lill-vetturi kollha f’għaqda ta’ żewġ toroq biex jieħdu waħda mid-direzzjonijiet alternattivi speċifikati bis-sinjal.
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 25
 
 (9) (10) (11)
 
@@ -634,8 +604,6 @@ japplikaw meta l-ħinijiet li matulhom dawn iż-żewġ projbizzjonijiet ma jkunu
 
 (9)
 
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 27
-
 **PJANĊA TAL-ĦIN KOMBINATA**
 
 (g) Din il-pjanċa turi l-ħin li matulu l-projbizzjoni fuq vetturi weqfin tkun sospiża.
@@ -690,9 +658,7 @@ L-MARKI TAL-KARREĠĠATA [L.S.65.05 27
 
 **li titwaħħal mas-sinjal (2) muri li titwaħħal mas-sinjali (2) u (4)**
 
-fil-paragrafu F tat-Taqsima I murijin fil-paragrafu F tat-Taqsima I L-MARKI TAL-KARREĠĠATA [L.S.65.05 29
-
-(20) (21)
+fil-paragrafu F tat-Taqsima I murijin fil-paragrafu F tat-Taqsima I (20) (21)
 
 li titwaħħal mas-sinjal (8) muri fil-jew paragrafu E tat-Taqsima I
 
@@ -731,8 +697,6 @@ TRAVERSANTI
 **CUL-DE-SAC**
 
 (d) Dan is-sinjal jindika illi l-ewwel triq ta’ salib it-toroq lejn ix-xellug ma hijiex triq li tinfed. Forma modifikata ta’ dan is-sinjal tista’ tiġi wżata biex tindika triq li ma tinfidx lejn il-lemin.
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 31
 
 (5)
 
@@ -774,8 +738,6 @@ STAND TA’ TAXI STAND TA’ MINI CABS LI JAĦDMU BL-ELETTRIKU (6A)
 
 **POST GĦALL-PARKING RIŻERVAT GĦAL DAWK**
 
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 33
-
 **BISS LI GĦANDHOM IL-BLUE BADGE".**
 
 (e) (8)
@@ -814,8 +776,6 @@ Dawn is-sinjali jagħtu informazzjoni dwar id-direzzjonijiet, rotti jew ismijiet
 
 (1) (2) (3)
 
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 35
-
 **SINJALI TA’ PREAVVIŻ TA’ DIREZZJONI**
 
 **SINJALI TAR-ROTTA**
@@ -851,8 +811,6 @@ PARKJAR LIBERU FAĊILITAJIET SANITARJI
 ## TAQSIMA IV - MARKI TAL-KARREĠĠJATA — A. Linji lonġitudinali
 
 (i)
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 37
 
 (ii)
 
@@ -897,8 +855,6 @@ Iżda ebda vettura ma għandha tinsaq fil-mogħdija tan-nofs għal distanza akba
 (ii) il-vetturi għandhom jinżammu fil-mogħdija immarkata b’dawk il-linji li jkunu l-aktar qrib tal-bankina u għandhom biss jużaw il-mogħdija ta’ barra biex jaqbżu vettura oħra jew biex jieħdu posizzjoni qabel jew wara li jduru lejn il-lemin, iżda ebda vettura ma għandha tmur minn mogħdija għal oħra jekk dan ma jkunx jista’ jsir b’sikurtà wara li jittieħed kont ta’ kull vettura oħra li tkun miexja fil-mogħdija l-oħra;
 
 (iii) f’kundizzjonijiet ta’ traffiku imxi-ieqaf, il-vetturi fil-mogħdija ta’ ħdejn il-bankina jistgħu jimxu b’veloċità akbar minn dawk fil-mogħdija ta’ barra.
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 39
 
 (iv)
 
@@ -946,8 +902,6 @@ B. Linji trasversali
 
 (ii)
 
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 41
-
 (d) POST FEJN IN-NIES JISTGĦU JAQSMU T-TRIQ
 
 (iii)
@@ -994,8 +948,6 @@ Il-Bus lay-bys jistgħu jingħataw kisja b’materjal ikkulurit biex jiġu demar
 
 Il-vetturi ma għandhomx jinsaqu fuq jew ’l hemm minn dawk il-linji fuq l-area magħluqa b’dawk il-linji ħlief f’emerġenza jew meta ordnati biex jagħmlu hekk mill-Pulizija.
 
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 43
-
 (iii)
 
 (iii) VLEĠEĠ TA’ DIREZZJONI
@@ -1034,8 +986,6 @@ MA TISTAX TISTENNA MA TISTAX TIEQAF
 
 (viii)
 
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 45
-
 (viii) Il-linja safra li jkollha l-kliem SKOLA - ŻOMM LIBERU jew il-kliem SPTAR, jew STAZZJON TA’ L-AMBULANZI jew STAZZJON TAT-TIFI TAN- NAR, jew l-isem ta’ xi bini bħal dan u l-kliem ŻOMM LIBERU għandha tindika lit-traffiku tal-vetturi dik il-parti tal-karreġġata li tiġi fuq barra ta’ skola jew bini ieħor simili msemmi li għandha tinżamm libera minn vetturi weqfin.
 
 (ix)
@@ -1063,8 +1013,6 @@ L-MARKI TAL-KARREĠĠATA [L.S.65.05 45
 (xiv)
 
 (xiv) jindika li t-traffiku jrid ta’ bilfors idur lejn il-lemin.
-
-L-MARKI TAL-KARREĠĠATA [L.S.65.05 47
 
 (xv)
 

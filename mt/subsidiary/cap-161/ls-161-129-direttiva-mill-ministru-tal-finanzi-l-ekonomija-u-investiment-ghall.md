@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-Ħruġ ta’ Euro 100,000,000 Stock tal-Gvern ta’ Malta (S.L. 161.129)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [S.L.161.129
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.129**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**
@@ -69,11 +65,7 @@ Kull persuna u, jew enti jistgħu japplikaw għal dawn l-iStocks. It-tqassim tal
 
 ## 6. Somma ta' flus li għandha tinġabar.
 
-Is-somma ta' flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta’ Euro 100,000,000. L-Accountant General jirriserva d-dritt li jżid is-somma li għandha tinġabar b’ammont ta’ [S.L.161.129 STOCK TAL-GVERN TA’ MALTA
-
-mhux iżjed minn Euro 40,000,000.
-
-*2*
+Is-somma ta' flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta’ Euro 100,000,000. L-Accountant General jirriserva d-dritt li jżid is-somma li għandha tinġabar b’ammont ta’ mhux iżjed minn Euro 40,000,000.
 
 ## 7. Rata ta’ mgħax u dati tal-ħlas.
 
@@ -101,8 +93,4 @@ mhux iżjed minn Euro 40,000,000.
 
 (2) L-4.3% Stock tal-Gvern ta’ Malta 2022 (II) jiġi mifdi b’parità fil-15 ta’ Mejju, 2022.
 
-(3) L-4.8% Stock tal-Gvern ta’ Malta 2028 (I) jiġi mifdi STOCK TAL-GVERN TA’ MALTA [S.L.161.129
-
-b’parità fil-11 ta’ Settembru, 2028.
-
-*3*
+(3) L-4.8% Stock tal-Gvern ta’ Malta 2028 (I) jiġi mifdi b’parità fil-11 ta’ Settembru, 2028.

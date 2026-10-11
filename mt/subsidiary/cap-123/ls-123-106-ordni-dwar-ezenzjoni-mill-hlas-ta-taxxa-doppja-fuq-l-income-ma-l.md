@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta’ Taxxa Doppja fuq l-Income ma’ l-Emirati Għarab Magħqudin (S.L. 123.106)
 
-*1*
-
-L-INCOME MA’ L-EMIRATI G}ARAB MAG}QUDIN [L.S.123.106
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.106**
 
 **ORDNI DWAR EŻENZJONI MILL-ĦLAS**
@@ -105,9 +101,7 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa identika jew sostanzjalment si
 
 \1. Għall-għanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’oħra:
 
-(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta din tiġi użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra ta’ l-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ qiegħ il-baħar, is-sottoswol tiegħu u l-kolonna ta’ baħar sovrajaċenti li tinsab adjaċenti għall-ibħra territorjali, fejn Malta għandha drittijiet sovrani, ġurisdizzjoni, jew kontroll skond id-dritt L-INCOME MA’ L-EMIRATI G}ARAB MAG}QUDIN [L.S.123.106 3
-
-internazzjonali u d-dritt nazzjonali tagħha, inkluża l-leġislazzjoni tagħha għar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
+(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta din tiġi użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra ta’ l-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ qiegħ il-baħar, is-sottoswol tiegħu u l-kolonna ta’ baħar sovrajaċenti li tinsab adjaċenti għall-ibħra territorjali, fejn Malta għandha drittijiet sovrani, ġurisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tagħha, inkluża l-leġislazzjoni tagħha għar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
 
 (b) il-frażi "Emirati Għarab Magħqudin" tfisser l-Emirati Għarab Magħqudin u, meta din tiġi użata f’sens ġeografiku, tfisser l-area fejn it-territorju jkun taħt is-sovranità tagħhom kif ukoll il-baħar territorjali, l-ispazju ta’ l-ajru u dawk l-arji ta’ taħt il-baħar li fuqhom l-Emirati Għarab Magħqudin jeżerċitaw, b’konformità mad-dritt internazzjonali u l-liġi ta’ l-Emirati Għarab Magħqudin drittijiet sovrani, inklużi t-terraferma u l-gżejjer taħt il-ġurisdizzjoni tagħhom għar-rigward ta’ kull attività li ssir b’konnessjoni ma’ l-esplorazzjoni jew l-esplojtazzjoni tar-riżorsi naturali;
 
@@ -183,9 +177,7 @@ Meta minħabba fid-disposizzjonijiet tal-paragrafu 1 persuna li ma tkunx individ
 
 (e) ħanut tax-xogħol; u
 
-(f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ estrazzjoni ta’ riżorsi naturali inkluż post ta’ tħaffir ’il barra mix-xtut. L-INCOME MA’ L-EMIRATI G}ARAB MAG}QUDIN [L.S.123.106 5
-
-\3. Il-frażi "stabbiliment permanenti" bl-istess mod tinkludi:
+(f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ estrazzjoni ta’ riżorsi naturali inkluż post ta’ tħaffir ’il barra mix-xtut. 3. Il-frażi "stabbiliment permanenti" bl-istess mod tinkludi:
 
 (a) art li tkun qegħda tinbena, proġett ta’ kostruzzjoni, assemblaġġ jew stallazzjoni jew attivitajiet ta’ sorveljanza li jkollhom x’jaqsmu ma’ dan, iżda biss meta dik l-art, dak il-proġett jew dawk l-attivitajiet ikomplu għaddejin għal perjodu ta’ aktar minn tnax-il xahar;
 
@@ -247,8 +239,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \5. Ebda profitti ma għandhom jiġu attribwiti lil stabbiliment permanenti minħabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija għall-impriża.
 
-L-INCOME MA’ L-EMIRATI G}ARAB MAG}QUDIN [L.S.123.106 7
-
 \6. Għall-għanijiet tal-paragrafi preċedenti, l-profitti li għandhom jiġu attribwiti lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess metodu sena wara l-oħra kemm-il darba ma jkunx hemm raġuni tajba u suffiċjenti għaliex dan ma għandux isir.
 
 ## 7.
@@ -303,9 +293,7 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriż
 
 \3. Id-disposizzjonijiet tal-paragrafu 1 ma għandhomx japplikaw jekk is-sid benefiċjarju ta’ l-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bħal dak għandhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ.
 
-\4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont ta’ l-imgħax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l- L-INCOME MA’ L-EMIRATI G}ARAB MAG}QUDIN [L.S.123.106 9
-
-aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ taxxabbli skond il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-disposizzjonijiet l-oħra ta’ dan il-Ftehim.
+\4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont ta’ l-imgħax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ taxxabbli skond il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-disposizzjonijiet l-oħra ta’ dan il-Ftehim.
 
 **Artikolu 12**
 
@@ -365,9 +353,7 @@ aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ tax
 
 **DRITTIJIET TAD-DIRETTURI**
 
-Id-drittijiet tad-diretturi u ħlasijiet simili oħra li jinkisbu minn residenti ta’ Stat L-INCOME MA’ L-EMIRATI G}ARAB MAG}QUDIN [L.S.123.106 11
-
-Kontraenti fil-kapaċità tiegħu ta’ membru tal-bord ta’ diretturi ta’ kumpannija li tkun residenti ta’ l-Istat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-Istat l-ieħor.
+Id-drittijiet tad-diretturi u ħlasijiet simili oħra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapaċità tiegħu ta’ membru tal-bord ta’ diretturi ta’ kumpannija li tkun residenti ta’ l-Istat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-Istat l-ieħor.
 
 **Artikolu 17**
 
@@ -435,9 +421,7 @@ Meta residenti ta’ l-Emirati Għarab Magħqudin jikseb income li hekk kif hemm
 
 **EBDA DISKRIMINAZZJONI**
 
-\1. Iċ-ċittadini ta’ Stat Kontraenti ma għandhom jiġu assoġġettati fl-Istat Kontraenti l-ieħor għal ebda tassazzjoni jew ebda ħtieġa li jkunu konnessi ma’ dan, li tkun diversa jew ta’ iktar piż mit-tassazzjoni u ħtieġiet konnessi li għalihom ċittadini ta’ dak l-Istat l-ieħor fl-istess ċirkostanzi, b’mod partikolari għar-rigward L-INCOME MA’ L-EMIRATI G}ARAB MAG}QUDIN [L.S.123.106 13
-
-ta’ residenza, huma jew jistgħu jkunu assoġġettati. Dawn id-disposizzjonijiet għandhom, minkejja d-disposizzjonijiet ta’ l-Artikolu 1, jkunu japplikaw ukoll għal persuni li ma jkunux residenti ta’ xi wiehed jew taż-żewġ Stati Kontraenti.
+\1. Iċ-ċittadini ta’ Stat Kontraenti ma għandhom jiġu assoġġettati fl-Istat Kontraenti l-ieħor għal ebda tassazzjoni jew ebda ħtieġa li jkunu konnessi ma’ dan, li tkun diversa jew ta’ iktar piż mit-tassazzjoni u ħtieġiet konnessi li għalihom ċittadini ta’ dak l-Istat l-ieħor fl-istess ċirkostanzi, b’mod partikolari għar-rigward ta’ residenza, huma jew jistgħu jkunu assoġġettati. Dawn id-disposizzjonijiet għandhom, minkejja d-disposizzjonijiet ta’ l-Artikolu 1, jkunu japplikaw ukoll għal persuni li ma jkunux residenti ta’ xi wiehed jew taż-żewġ Stati Kontraenti.
 
 \2. L-intaxxar fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor ma għandux jinġabar inqas favorevolment f’dak Istat l-ieħor mit-tassazzjoni miġbura fuq impriżi ta’ dak l-Istat l-ieħor li jkun qiegħed iwettaq l-istess ativitajiet. Din id-disposizzjoni m’għandhiex tiftiehem bħala li tobbliga lil Stat Kontraenti li jikkonċedi lil residenti ta’ l-Istat Kontraenti l-ieħor xi allowances, ħelsien u tnaqqis personali għall-għanijiet ta’ tassazzjoni minħabba fl-istatus ċivili jew responsabbiltajiet familjari li jikkonċedi lir-residenti tiegħu.
 
@@ -495,9 +479,7 @@ Ebda ħaġa f’dan il-Ftehim ma għandha tolqot il-jedd ta’ xi wieħed jew l-
 
 (a) f’Malta:
 
-għar-rigward ta’ taxxi fuq l-income miksub matul xi sena kalendarja jew perjodu ta’ kontijiet, skond il-każ, li jibda fl-ewwel jum ta’ Jannar jew L-INCOME MA’ L-EMIRATI G}ARAB MAG}QUDIN [L.S.123.106 15
-
-wara li jkun jaħbat minnufih wara d-data li fiha jibda jseħħ il-Ftehim;
+għar-rigward ta’ taxxi fuq l-income miksub matul xi sena kalendarja jew perjodu ta’ kontijiet, skond il-każ, li jibda fl-ewwel jum ta’ Jannar jew wara li jkun jaħbat minnufih wara d-data li fiha jibda jseħħ il-Ftehim;
 
 (b) fl-Emirati Għarab Magħqudin:
 
@@ -580,8 +562,6 @@ B’riferenza għall-Artikolu 8:
 *\5.*
 
 B’riferenza għall-Artikolu 10:
-
-L-INCOME MA’ L-EMIRATI G}ARAB MAG}QUDIN [L.S.123.106 17
 
 Jinftiehem li fil-każ ta’ dividendi li jitħallsu minn kumpannija li tkun residenti ta’ Malta lil residenti ta’ l-E.Għ.M. id-disposizzjonijiet tal-paragrafu 1 m’għandhomx ikunu japplikaw jekk ir-residenti ta’ l-E.Għ.M. jitlob kreditu jew li jingħata lura t-taxxa mħallsa f’Malta mill-kumpannija fuq il-profitti li minnhom ikun tħallas id-dividend.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet għall-Mapep tad-Dipartiment għall-Gvern Lokali (S.L. 35.30)
 
-DRITTIJIET G}ALL-MAPEP
-
-*1*
-
-TAD-DIPARTIMENT G}ALL-GVERN LOKALI [L.S.35.30
-
 **LE{ISLAZZJONI SUSSIDJARJA 35.30**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET**

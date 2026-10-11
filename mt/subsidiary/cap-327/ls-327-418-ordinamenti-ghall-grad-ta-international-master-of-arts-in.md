@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ International Master of Arts in Transcultural Counselling - M.A. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.418)
 
-COUNSELLING - M.A. (T,Couns) - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.418
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.418**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -72,11 +66,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (b) L-applikanti li għandhom grad ta’ Bachelor ikklassifikat fit- Tielet Klassi bl-Unuri jew f’Kategorija III jistgħu jidħlu fil-Kors jekk ikollhom kwalifiki oħra meqjusa rilevanti mill-Bord u minimu ta’ sena esperjenza ta’ xogħol direttament f’ambjent formali uman jew psikosoċjali. Id-dħul ta’ dawn l-applikanti jista’ jkun suġġett għall-kundizzjonijiet li l-Bord jista’ jimponi biex jindirizza kwalunkwe lakuna fil-preparazzjoni akkademika tal-applikanti.
 
-(2) L-applikanti kollha jkunu meħtieġa juru li għandhom il- COUNSELLING - M.A. (T,Couns) - TAĦT IL-PATROĊINJU [L.S.327.418 TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-kompetenza u d-dispożizzjoni meħtieġa biex isegwu l-kors bi profitt.
-
-*2*
+(2) L-applikanti kollha jkunu meħtieġa juru li għandhom il-kompetenza u d-dispożizzjoni meħtieġa biex isegwu l-kors bi profitt.
 
 (3) (a) Il-kompetenza u d-dispożizzjoni professjonali għandhom ikunu mkejla permezz ta’ eżerċizzji li jinvolvu intervista personali estiża u test tal-personalità.
 
@@ -112,13 +102,11 @@ Il-kors għandu jinfirex fuq perijodu ta’ erba’ semestri ta’ studju full-t
 
 (4) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
-COUNSELLING - M.A. (T,Couns) - TAĦT IL-PATROĊINJU
+## 6. Valutazzjoni u progress.
 
-*3*
+*Emendat: A.L. 370 tal-2015; A.L. 186 tal-2016; A.L. 238 tal-2019; A.L. 65 tal-2026.*
 
-TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.418 6. (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
-
-*Valutazzjoni u progress. Emendat: A.L. 370 tal-2015; A.L. 186 tal-2016; A.L. 238 tal-2019; A.L. 65 tal-2026.*
+(1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
 (2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn erba’ taqsimiet-studju mgħallma għandhom jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid tat-taqsimiet studju li weħlu fihom fis-sessjoni tal-valutazzjoni ta’ Settembru.
 
@@ -146,11 +134,7 @@ TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.418 6. (1) Il-valutazzjoni ta
 
 (2) Is-superviżuri għandhom jissottomettu lill-Bord tal-Istudji rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni biex jew (a) il-perijodu ta’ studju jkun imtawwal biex l-istudent ikun jista’ jispiċċa d-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur iqis li dan hu xieraq fiċ-ċirkostanżi, sakemm li:
 
-(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti COUNSELLING - M.A. (T,Couns) - TAĦT IL-PATROĊINJU [L.S.327.418 TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-Prinċipali; u
-
-*4*
+(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
 (ii) il-Bord tal-Istudji ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent li jiddefendi l-każ tiegħu.
 

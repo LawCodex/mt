@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Iċ-Ċentru Globali dwar il-Monitoraġġ tas-Sanzjonijiet Marittimi)"
-identifier: "S.L. 191.8"
+identifier: "S.L. 191.08"
 eli: "https://legislation.mt/eli/sl/191.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,17 +14,7 @@ version: "https://legislation.mt/eli/sl/191.8/20251128/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Iċ-Ċentru Globali dwar il-Monitoraġġ tas-Sanzjonijiet Marittimi) (S.L. 191.8)
-
-APPLIKAZZJONI TAT-TAQSIMA III TAL-ATT DWAR L-
-
-IMMUNITAJIET U L-PRIVILEĠĠI DIPLOMATIĊI (IĊ-
-
-ĊENTRU GLOBALI DWAR IL-MONITORAĠĠ TAS-
-
-*1*
-
-SANZJONIJIET MARITTIMI) [L.S. 191.08
+# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Iċ-Ċentru Globali dwar il-Monitoraġġ tas-Sanzjonijiet Marittimi) (S.L. 191.08)
 
 **LEĠISLAZZJONI SUSSIDJARJA 191.08**
 

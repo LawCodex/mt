@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statut I 17 - Statut għat-Twaqqif tal-Foundation for International Studies bħala Enti ta' l-Università (S.L. 327.50)
 
-*1*
-
-NATIONAL STUDIES B}ALA ENTI TA’ L-UNIVERSITÀ [L.S.327.50
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.50**
 
 **STATUT I 17 - STATUT G}AT-TWAQQIF TAL-**
@@ -97,11 +93,7 @@ Ir-Raba’ Artikolu
 
 (i) Il-Foundation g]andha tkun rappre\\entata mid-Direttur {enerali jew minn persuna debitament nominata g]al dan il-g]an mill-Bord.
 
-(ii) L-amministrazzjoni ordinarja tal-Foundation g]andha tkun vestita fid-Direttur {enerali li g]andu jkun l-uffi`jal akkademiku u amministrattiv prin`ipali tal-korp. Hu g]andu jkun ukoll membru NATIONAL STUDIES B}ALA ENTI TA’ L-UNIVERSITÀ [L.S.327.50
-
-ex officio tal-Bord ta’ l-Istituti li huma mg]ejjuna mill-Foundation.
-
-*3*
+(ii) L-amministrazzjoni ordinarja tal-Foundation g]andha tkun vestita fid-Direttur {enerali li g]andu jkun l-uffi`jal akkademiku u amministrattiv prin`ipali tal-korp. Hu g]andu jkun ukoll membru ex officio tal-Bord ta’ l-Istituti li huma mg]ejjuna mill-Foundation.
 
 (iii) Id-Direttur-{enerali g]andu s-setg]a li jid]ol f’kuntratti ta’ servizz u jag]mel ]atriet f’isem il-Foundation skond il-politika stabbilita mill-Bord.
 

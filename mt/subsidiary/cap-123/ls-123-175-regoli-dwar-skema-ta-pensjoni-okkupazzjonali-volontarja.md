@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Skema ta’ Pensjoni Okkupazzjonali Volontarja (S.L. 123.175)
 
-*1*
-
-VOLONTARJA [L.S. 123.175
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.175**
 
 **REGOLI DWAR SKEMA TA’ PENSJONI**
@@ -65,10 +61,6 @@ Għall-finijiet ta’ dawn ir-regoli:
 
 (a) skont it-Trattat kif applikat fi Stat Membru jew Stat tal-ŻEE;
 
-*2*
-
-[L.S. 123.175 VOLONTARJA
-
 (b) skont il-ħtiġiet tad-Direttiva tas-Suq Intern u skont kull regola li saret taħt l-Att dwar il-Kummerċ tal- Assigurazzjoni, jew regoli dwar insurance, maħruġa mill-awtorità kompetenti wara l-Att dwar il-Kummerċ tal- Assigurazzjoni, li jimplimenta tali ħtiġiet;
 
 *Kap. 403*
@@ -105,11 +97,7 @@ Iżda sabiex jitneħħa kull dubbju, min jimpjega kwalifikanti għandha tinkludi
 
 "skema kwalifikanti" tfisser skema tal-irtirar jew kuntratt ta’ assigurazzjoni fit-tul li jissodisfa l-ħtiġiet ta’ dawn ir-regoli;
 
-"skema tal-irtirar okkupazzjonali" tfisser skema tal-irtirar stabbilit fuq bażi volontarja għal, u minn, min jimpjega jew numru ta’ minn min jimpjega, jew assoċjazzjoni li tirrappreżenta lil min jimpjega, flimkien jew separatament, għall-benefiċċju ta’ impjegati li VOLONTARJA [L.S. 123.175
-
-jikkwalifikaw;
-
-*3*
+"skema tal-irtirar okkupazzjonali" tfisser skema tal-irtirar stabbilit fuq bażi volontarja għal, u minn, min jimpjega jew numru ta’ minn min jimpjega, jew assoċjazzjoni li tirrappreżenta lil min jimpjega, flimkien jew separatament, għall-benefiċċju ta’ impjegati li jikkwalifikaw;
 
 "skema tal-irtirar personali" tfisser skema tal-irtirar li mhijiex skema tal-irtirar okkupazzjonali volontarja u li għaliha kontribuzzjonijiet isiru għall-benefiċċju tal-individwu; u
 
@@ -139,11 +127,7 @@ Dawn ir-regoli għandhom japplikaw biss fir-rigward ta’ kontribuzzjonijiet kwa
 
 (2) Il-kreditu msemmi f’din ir-regola għandu jkun disponibbli bħala tnaqqis mill-ammont ta’ taxxa fuq id-dħul li hija dovuta fuq id-dħul taxxabbli ta’ min jimpjega kwalifikanti għas-sena li matulha l-kontribuzzjoni jew pagament għall-iskema kwalifikanti jew skemi jsiru, u kwalunkwe ammont hemm li mhuwiex użat għandu jiżdied mal-kreditu tat-taxxa għas-sena ta’ wara u meqjus bħala parti minn dak il-kreditu ta’ taxxa, jew jekk ma hemmx kreditu ta’ taxxa bħal dan għal dik is-sena, jiġi meqjus bħala kreditu ta’ taxxa għal dik is-sena u l-istess il-bqija għas-snin sussegwenti.
 
-(3) F’każ li min jimpjega kwalifikanti huwa kumpannija, il- [L.S. 123.175 VOLONTARJA
-
-kreditu ta’ taxxa użat f’dik is-sena għandu jitqies li ġiet meħlusa mit-taxxa tant minn mid-dħul taxxabbli tal-kumpannija li, meta multiplikata mir-rati ta’ taxxa għal liema ġiet taxxabbli f’dik is-sena, hija ekwivalenti għal kreditu ta’ taxxa tal-kumpannija.
-
-*4*
+(3) F’każ li min jimpjega kwalifikanti huwa kumpannija, il-kreditu ta’ taxxa użat f’dik is-sena għandu jitqies li ġiet meħlusa mit-taxxa tant minn mid-dħul taxxabbli tal-kumpannija li, meta multiplikata mir-rati ta’ taxxa għal liema ġiet taxxabbli f’dik is-sena, hija ekwivalenti għal kreditu ta’ taxxa tal-kumpannija.
 
 *L.S. 123.101*
 
@@ -173,10 +157,6 @@ Iżda, fil-każ ta’ mpjegat kwalifikanti miżżewweġ jew impjegata kwalifikan
 
 Skema kwalifikanti għandha tkun waħda li tissodisfa dawn il-kondizzjonijiet li ġejjin:
 
-*5*
-
-VOLONTARJA [L.S. 123.175
-
 (a) fil-każ ta’ skema tal-irtirar okkupazzjonali, tkun skema reġistrata taħt l-Att dwar Pensjonijiet tal- Irtirar jew kull liġi oħra li tissostitwixxi dak l-Att u, fil-każ ta’ kuntratt ta’ assigurazzjoni fit-tul maħruġ mid-detentur ta’ liċenzja, tipprovdi għal arranġamenti ta’ ġbid programmat kif dispost f’regoli dwar il-pensjoni maħruġa taħt l-imsemmi Att jew liġi; u
 
 *Kap. 514.*
@@ -203,10 +183,6 @@ VOLONTARJA [L.S. 123.175
 
 *Tnaqqis ta’ taxxa għal min jimpjega kwalifikanti.*
 
-*6*
-
-[L.S. 123.175 VOLONTARJA
-
 (2) Iżda li, għal kwalunkwe sena ta’ stima, it-tnaqqis totali li jista’ jiġi mitlub minn min jimpjega skont id-dispożizzjonijiet tal-artikolu 14(1)(e) tal-Att fir-rigward ta’ kontribuzzjonijiet kwalifikanti, għandu fir-rigward ta’ kull impjegat kwalifikanti jammonta għall-inqas mil-kontribuzzjoni kwalifikanti proprjament imħallsa u elfejn euro (€2,000).
 
 ## 10. Avviż lil Kummissarju mid-detentur tal-liċenzja.
@@ -229,11 +205,7 @@ VOLONTARJA [L.S. 123.175
 
 ## 11. Informazzjoni mogħtija lill- Kummissarju.
 
-(1) Il-Kummissarju jista’, wara li jagħti avviż f’waqtu, jitlob lil kwalunkwe persuna li hi jew li kienet detentur ta’ liċenzja li jamministra jew kien jamministra skema kwalifikanti, jew min jimpjega kwalifikanti, jew impjegat kwalifikanti sabiex jipprovdilu fi żmien tali terminu (li jkun mhux anqas minn erbatax-il jum) kif jista’ jkun dispost fl-avviż, tali informazzjoni dwar kwalunkwe skema kwalifikanti (tinkludi kopji ta’ jew estratti minn VOLONTARJA [L.S. 123.175
-
-kwalunkwe kotba jew rekords oħra) jew kwalunkwe pagamenti jew kontribuzzjonijiet marbutin hemm kif il-Kummissarju jista’ raġonevolment jitlob għall-fini ta’ dawn ir-regoli jew sabiex jagħmilhom disponibbli għal ispezzjoni, f’post ġewwa Malta, id-dokumenti kollha relevanti li huma fil-pussess jew taħt il-kontroll ta’ detentur ta’ liċenzja, min jimpjega kwalifikanti, jew impjegat kwalifikanti.
-
-*7*
+(1) Il-Kummissarju jista’, wara li jagħti avviż f’waqtu, jitlob lil kwalunkwe persuna li hi jew li kienet detentur ta’ liċenzja li jamministra jew kien jamministra skema kwalifikanti, jew min jimpjega kwalifikanti, jew impjegat kwalifikanti sabiex jipprovdilu fi żmien tali terminu (li jkun mhux anqas minn erbatax-il jum) kif jista’ jkun dispost fl-avviż, tali informazzjoni dwar kwalunkwe skema kwalifikanti (tinkludi kopji ta’ jew estratti minn kwalunkwe kotba jew rekords oħra) jew kwalunkwe pagamenti jew kontribuzzjonijiet marbutin hemm kif il-Kummissarju jista’ raġonevolment jitlob għall-fini ta’ dawn ir-regoli jew sabiex jagħmilhom disponibbli għal ispezzjoni, f’post ġewwa Malta, id-dokumenti kollha relevanti li huma fil-pussess jew taħt il-kontroll ta’ detentur ta’ liċenzja, min jimpjega kwalifikanti, jew impjegat kwalifikanti.
 
 (2) Kull detentur ta’ liċenzja għandu, sal-aħħar ta’ Jannar tas-sena sussegwenti li fiha saru l-kontribuzzjonijiet kwalifikanti għall-iskema kwalifikanti, jissottometti lill-Kummissarju statement f’format elettroniku kif approvat mill-Kummissarju li juri d-dettalji tal-identità ta’ min jimpjega kwalifikanti u l-impjegat kwalifikanti, u informazzjoni oħra kif jista’ jiġi rikjest għall-finijiet ta’ dħul ta’ taxxa, li tinkludi imma mhux limitata għall-ammont li ġie kontribwit jew imħallas minn min jimpjega u, jew impjegat kwalifikanti u, jew fl-iskema kwalifikanti u taxxa mnaqqsa u mħallsa lill-Kummissarju skont id-dispożizzjonijiet tar-regola 8.
 
@@ -248,10 +220,6 @@ Mingħajr preġudizzju għad-dispożizzjonijiet imniżżla fl-Att dwar is-Sigurt
 ## 13. Evitar ta’ taxxa.
 
 (1) Meta l-Kummissarju ikun tal-opinjoni li kull kontribuzzjoni kwalifikanti li saret fl-iskema kwalifikanti saret biss u prinċipalment għall-fini ta’ posponiment jew tnaqqis fir-responsabbilità għal taxxa imposta taħt id-dispożizzjonijiet tal-artikolu 4(1)(b) tal-Att jew sabiex jiġi miksub kreditu ta’ taxxa taħt dawn ir-regoli, huwa għandu, b’ordni bil-kitba, jiddetermina responsabbilità ta’ taxxa jew eliġibbli għal kreditu ta’ taxxa tal-impjegat kwalifikanti u, jew min jimpjega kwalifikanti, jew ta’ kull persuna oħra, għal kwalunkwe sena ta’ stima, b’dik il-manjiera u fl-ammont kif il-Kummissarju jista’ fid-diskrezzjoni tiegħu iqis neċessarju fiċ-ċirkostanzi tal-każ, sabiex iħassar jew ibiddel l-imsemmi vantaġġ.
-
-*8*
-
-[L.S. 123.175 VOLONTARJA
 
 (2) Persuna li ma taqbilx ma’ ordni li ġiet servuta fuqha kif imsemmi hawn fuq għandu jkollha l-istess drittijiet sabiex toġġezzjona għal ordni bħal din u sabiex tappella minn deċiżjoni tal- Kummissarju li tirrifjuta oġġezzjoni bħal din daqs li kieku dik l-ordni kienet stima maħruġa taħt l-Att dwar l-Amministrazzjoni tat-Taxxa u d-dispożizzjonijiet relevanti ta’ dak l-Att li jirrigwardaw oġġezzjonijiet u appelli għandhom japplikaw mutatis mutandis.
 

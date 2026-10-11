@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Bachelor of Planning (Honours) - B. Plan. (Hons) - taħt il-patroċinju tal-Fakultà ta' l-Arkitettura u l-Inġinerija Ċivili (S.L. 327.246)
 
-B.PLAN. (HONS) - TA}T IL-PATRO~INJU TAL-FAKULTÀ
-
-*1*
-
-TA’ L-ARKITETTURA U L-IN{INERIJA ~IVILI [S.L.327.246
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.246**
 
 ORDINAMENTI G}ALL-GRAD TA’ BACHELOR OF PLANNING (HONOURS) - B.PLAN (HONS) - TA}T
@@ -67,11 +61,7 @@ Il-kors jinfirex fuq medda ta’ erba’ snin akkademi`i ta’ studju fuq ba\\i 
 
 ## 5. Programm tal-kors.
 
-Il-kors huwa mag]mul minn \\ew[ partijiet, l-Ewwel Parti, B.PLAN. (HONS) - TA}T IL-PATRO~INJU TAL-FAKULTÀ [S.L.327.246 TA’ L-ARKITETTURA U L-IN{INERIJA ~IVILI
-
-u t-Tieni Parti.
-
-*2*
+Il-kors huwa mag]mul minn \\ew[ partijiet, l-Ewwel Parti, u t-Tieni Parti.
 
 ## 6. L-Ewwel Parti.
 

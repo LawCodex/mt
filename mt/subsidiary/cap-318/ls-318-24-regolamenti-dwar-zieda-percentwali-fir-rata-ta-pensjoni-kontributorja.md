@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Żieda Perċentwali fir-Rata ta’ Pensjoni Kontributorja għall-Irtirar (S.L. 318.24)
 
-ŻIEDA PERĊENTWALI FIR-RATA TA’ PENSJONI
-
-*1*
-
-KONTRIBUTORJA GĦALL-IRTIRAR [L.S.318.24
-
 **LEĠISLAZZJONI SUSSIDJARJA 318.24**
 
 **REGOLAMENTI DWAR ŻIEDA PERĊENTWALI**

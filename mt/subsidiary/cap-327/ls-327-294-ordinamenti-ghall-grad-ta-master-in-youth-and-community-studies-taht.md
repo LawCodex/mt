@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Youth and Community Studies taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.294)
 
-TAL-2008 GĦALL-GRAD TA’ MASTER IN YOUTH AND
-
-COMMUNITY STUDIES – M. YCS - TAĦT IL-PATROĊINJU TAL-
-
-*1*
-
-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.294
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.294**
 
 **REGOLAMENTI ĠENERALI GĦAR-RIKONOXXIMENTI**
@@ -67,13 +59,7 @@ Dawn l-ordinamenti għandhom japplikaw mill-15 ta’ Ġunju, 2018 ’il quddiem.
 
 (ċ) grad bl-Unuri minn din jew minn università oħra f’qasam ta’ studju li l-Bord iqis li huwa rilevanti, flimkien ma’ minimu ta’ sentejn esperjenza fil-qasam taż-żgħażagħ jew tal-kommunità.
 
-(2) L-applikanti li qed japplikaw għad-dħul skont il-paragrafu TAL-2008 GĦALL-GRAD TA’ MASTER IN YOUTH AND
-
-*2*
-
-COMMUNITY STUDIES – M. YCS - TAĦT IL-PATROĊINJU TAL- [L.S.327.294 FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-(1)(ċ) ta’ għandhom jissodisfaw lill-bord tal-għażla, maħtur mill- Bord u magħmul mill-anqas minn tliet membri, permezz ta’ intervista, li huma għandhom l-għarfien akkademiku meħtieġ, id-disponibbiltà u d-dispożizzjoni professjonali biex isegwu l-kors b’suċċess.
+(2) L-applikanti li qed japplikaw għad-dħul skont il-paragrafu (1)(ċ) ta’ għandhom jissodisfaw lill-bord tal-għażla, maħtur mill- Bord u magħmul mill-anqas minn tliet membri, permezz ta’ intervista, li huma għandhom l-għarfien akkademiku meħtieġ, id-disponibbiltà u d-dispożizzjoni professjonali biex isegwu l-kors b’suċċess.
 
 ## 4. Tul tal-kors.
 
@@ -115,13 +101,7 @@ L-istudenti jitħallew ikomplu għat-taqsima studju tad-dissertazzjoni jekk jiks
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 25,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
-(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet TAL-2008 GĦALL-GRAD TA’ MASTER IN YOUTH AND
-
-COMMUNITY STUDIES – M. YCS - TAĦT IL-PATROĊINJU TAL-
-
-*3*
-
-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.294 semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perjodu ta’ studju.
+(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perjodu ta’ studju.
 
 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-bidu tat-tieni semestru.
 

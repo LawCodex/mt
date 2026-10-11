@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Doctor of Philosophy - Ph.D. - fil-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.156)
 
-*1*
-
-TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.156
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.156**
 
 **ORDINAMENTI GĦALL-GRAD TA’**
@@ -126,10 +122,6 @@ Il-Bord għandu jirrakkomanda lis-Senat il-ħatra tal-Bord tal-Eżaminaturi skon
 ## 12. Preżentazzjoni tat-teżi.
 
 L-istudenti jkunu meħtieġa li jiddefendu t-teżi tagħhom b’mod orali. Huma jkunu mistennija li jagħmlu preżentazzjoni ta’ madwar 20 sa 30 minuta dwar is-sejbiet ewlenin tar-riċerka tagħhom u wara jwieġbu għall-mistoqsijiet magħmula mill-membri tal-Bord tal-Eżaminaturi. Iċ-Chairman tal-Bord għandu jiżgura li l-istudent ikun jaf bil-proċedura li se tintuża matul l-eżami orali.
-
-*3*
-
-TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.156
 
 ## 13. Format tat-teżi.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Bachelor of Arts - B.A. - in Theology and Human Studies taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.263)
 
-IN THEOLOGY AND HUMAN STUDIES
-
-*1*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [S.L.327.263
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.263**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF ARTS - B.A. - IN THEOLOGY AND HUMAN STUDIES TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-
@@ -71,13 +65,9 @@ Il-kors jinfirex fuq medda ta’ tliet snin ta’ studju fuq bażi full-time.
 
 Il-programm ta’ studju għandu jkopri taqsimiet studju li għalihom hemm assenjati 180 krettu ECTS, li mhux anqas minn 94 krettu ECTS għandhom ikunu assenjati għal taqsimiet studju fit- Teoloġija, fil-Filosofija, u oqsma relatati, u mhux anqas minn 80 krettu ECTS għandhom ikunu assenjati għal taqsimiet studju fit-tieni qasam ta’ studju Prinċipali.
 
-IN THEOLOGY AND HUMAN STUDIES
+## 7. Pubblikazzjoni tal-programm ta’ studju.
 
-*2*
-
-[S.L.327.263 TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA 7. (1) Il-Bord għandu jippubblika l-programm ta’ studju tat- Teoloġija mfassal skond id-disposizzjonijiet rilevanti tar-regolamenti prinċipali, u approvat mis-Senat. Suġġett għal tibdiliet li l-Bord, bl-approvazzjoni tas-Senat, jista’ jkun kostrett jagħmel, l-istudenti għandhom isegwu t-taqsimiet studju u jiksbu l-kredti kif indikat fil-programm ta’ studju li qed isegwu għall-Grad.
-
-*Pubblikazzjoni tal-programm ta’ studju.*
+(1) Il-Bord għandu jippubblika l-programm ta’ studju tat- Teoloġija mfassal skond id-disposizzjonijiet rilevanti tar-regolamenti prinċipali, u approvat mis-Senat. Suġġett għal tibdiliet li l-Bord, bl-approvazzjoni tas-Senat, jista’ jkun kostrett jagħmel, l-istudenti għandhom isegwu t-taqsimiet studju u jiksbu l-kredti kif indikat fil-programm ta’ studju li qed isegwu għall-Grad.
 
 (2) Il-programmi ta’ studju għall-oqsma ta’ studju Ewlenin li jistgħu jittieħdu mat-Teoloġija fil-kors għandhom ikunu ppubblikati bl-istess mod mill-bordijiet ta’ l-entitajiet akkademiċi responsabbli għal kull qasam ta’ studju.
 

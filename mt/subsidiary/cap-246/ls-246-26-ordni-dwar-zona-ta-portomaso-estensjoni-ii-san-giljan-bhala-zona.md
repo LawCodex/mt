@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Żona ta’ Portomaso, Estensjoni II, San Ġiljan bħala Żona Speċjali Msemmija (S.L. 246.26)
 
-*1*
-
-BĦALA ŻONA SPEĊJALI MSEMMIJA [L.S.246.26 LEĠISLAZZJONI SUSSIDJARJA 246.26
+**LEĠISLAZZJONI SUSSIDJARJA 246.26**
 
 ORDNI DWAR ŻONA TA’ PORTOMASO, ESTENSJONI II, SAN ĠILJAN BĦALA ŻONA SPEĊJALI
 
@@ -40,6 +38,4 @@ Iż-Żona ta’ Portomaso Estensjoni II, San Ġiljan, li tikkonsisti fi proprjet
 
 ## 3. Żieda mal-Ewwel Skeda li tinsab mal-Att. Kap. 246.
 
-Iż-Żona ta’ Portomaso Estensjoni II, San Ġiljan għandha tiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti. [L.S. 246.26 BĦALA ŻONA SPEĊJALI MSEMMIJA
-
-*2*
+Iż-Żona ta’ Portomaso Estensjoni II, San Ġiljan għandha tiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti.

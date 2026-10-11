@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Environmental Design taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.445)
 
-DESIGN TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-AMBJENT MIBNI [L.S.327.445
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.445**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -71,12 +65,6 @@ Il-kors ikun miftuħ għall-applikanti li għandhom:
 
 (1) Il-programm ta’ studju għandu jkun magħmul minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu ECTS, li minnhom 60 kredtu ECTS ikunu assenjati għal taqsimiet studju mgħallma u 30 kredtu ECTS ikunu assenjati għat-taqsima studju tad-dissertazzjoni.
 
-DESIGN TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.445 TAL-AMBJENT MIBNI
-
 (2) L-istudenti li jiksbu s-60 kredtu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-inqas 50% u li ma jkomplux il-kors, jew jekk komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal- Postgraduate Diploma.
 
 (3) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
@@ -107,11 +95,7 @@ L-istudenti jitħallew ikomplu għat-taqsima studju tad-dissertazzjoni jekk ikun
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
-(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti DESIGN TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-AMBJENT MIBNI [L.S.327.445 Prinċipali; u
+(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent li jiddefendi l-każ tiegħu.
 

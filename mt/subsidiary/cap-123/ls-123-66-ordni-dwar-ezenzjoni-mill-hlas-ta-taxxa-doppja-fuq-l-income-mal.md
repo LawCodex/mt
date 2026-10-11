@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mal-Malasja (S.L. 123.66)
 
-FUQ L-INCOME MAL-MALASJA [ L.S.123.66
-
 LE{ISLAZZJONI SUSSIDJARJA 123.66
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’
@@ -103,9 +101,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa fuq l-income identika jew sostan
 
 \1. F’dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx te]tie[ xort’o]ra:
 
-(a) il-fra\\i "Malasja" tfisser it-territorji tal-Federazzjoni tal-Malasja, l-ib]ra territorjali tal-Malasja u qieg] il-ba]ar u s-sottoswol ta’ l-ib]ra territorjali, u tinkludi kull area li testendi lil hinn mil-limiti ta’ l-ib]ra territorjali tal-Malasja, u qieg] il-ba]ar u s-sottoswol ta’ kull area b]al dik, li [ew jew li jistg]u ji[u msemmija minn issa ’l quddiem ta]t il-li[ijiet tal-Malasja u skond id-dritt internazzjonali b]ala area li fuqha l- Malasja g]andha drittijiet sovrani g]all-finijiet ta’ l-esplorazzjoni g]al, u l-esplojtazzjoni tar-ri\\orsi naturali, kemm dawk li jg]ixu kemm dawk FUQ L-INCOME MAL-MALASJA [ L.S.123.66
-
-li ma jg]ixux;
+(a) il-fra\\i "Malasja" tfisser it-territorji tal-Federazzjoni tal-Malasja, l-ib]ra territorjali tal-Malasja u qieg] il-ba]ar u s-sottoswol ta’ l-ib]ra territorjali, u tinkludi kull area li testendi lil hinn mil-limiti ta’ l-ib]ra territorjali tal-Malasja, u qieg] il-ba]ar u s-sottoswol ta’ kull area b]al dik, li [ew jew li jistg]u ji[u msemmija minn issa ’l quddiem ta]t il-li[ijiet tal-Malasja u skond id-dritt internazzjonali b]ala area li fuqha l- Malasja g]andha drittijiet sovrani g]all-finijiet ta’ l-esplorazzjoni g]al, u l-esplojtazzjoni tar-ri\\orsi naturali, kemm dawk li jg]ixu kemm dawk li ma jg]ixux;
 
 (b) il-fra\\i "Malta" meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, u kull area ’l barra mill-ba]ar territorjali ta’ Malta skond il-li[i internazzjonali li [iet jew tista’ minn issa ’l quddiem ti[i msemmija, ta]t il-li[i ta’ Malta li tirrigwarda l-Blata Kontinentali, b]ala area li [ewwa fiha d-drittijiet ta’ Malta g]ar-rigward ta’ qieg] il-ba]ar u s-sottoswol u r-ri\\orsi naturali tag]hom jistg]u ji[u e\\er`itati;
 
@@ -195,8 +191,6 @@ regoli li [ejjin:
 
 (`) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ pro`essar minn impri\\a o]ra;
 
-**FUQ L-INCOME MAL-MALASJA [ L.S.123.66**
-
 (d) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku ta’ xiri ta’ o[[etti jew merkanzija, jew ta’ [bir ta’ tag]rif g]all-impri\\a;
 
 (e) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku li ti[i [estita, g]all-impri\\a, xi attività o]ra ta’ xorta preparatorja jew aw\\iljarja.
@@ -258,8 +252,6 @@ l-u\\ufrutt tal-proprjetà immobbli u drittijiet dwar ]lasijiet varjabbli jew fi
 ## 7.
 
 Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u trattati separatament f’Artikoli o]ra ta’ dan il-Ftehim, g]aldaqshekk id-disposizzjonijiet ta’ dawk l-Artikoli ma jintlaqtux bid-disposizzjonijiet ta’ dan l-Artikolu.
-
-**FUQ L-INCOME MAL-MALASJA [ L.S.123.66**
 
 **Artikolu 8**
 
@@ -324,8 +316,6 @@ jkunu so[[etti g]at-taxxa ta’ Malta fuq l-ammont gross ta’ dawk id-dividendi
 (ii) l-awtoritajiet lokali;
 
 (iii) il-korpi statutorji;
-
-**FUQ L-INCOME MAL-MALASJA [ L.S.123.66**
 
 (iv) il-Bank Negara Malaysia;
 
@@ -393,9 +383,7 @@ L.S.123.66] FUQ L-INCOME MAL-MALASJA
 
 \2. Madankollu, dawk id-drittijiet tekni`i jistg]u wkoll ji[u intaxxati fl-Istat Kontraenti fejn jori[inaw, u skond il-li[ijiet ta’ dak l-Istat; i\\da jekk min jir`evihom ikun is-sid benefi`jarju tad-drittijiet tekni`i, it-taxxa hekk im]allsa m’g]andhiex te``edi 10 fil-mija ta’ l-ammont gross tad-drittijiet tekni`i.
 
-\3. Il-fra\\i "drittijiet tekni`i" kif tintu\\a f’dan l-Artikolu tfisser ]lasijiet ta’ kull FUQ L-INCOME MAL-MALASJA [ L.S.123.66
-
-xorta lil xi persuna, minbarra lil persuna impjegata mal-persuna li tkun qed tag]mel il-]lasijiet, b’korrispettiv g]al servizzi ta’ xorta teknika, mani[erjali jew ta’ konsulenza.
+\3. Il-fra\\i "drittijiet tekni`i" kif tintu\\a f’dan l-Artikolu tfisser ]lasijiet ta’ kull xorta lil xi persuna, minbarra lil persuna impjegata mal-persuna li tkun qed tag]mel il-]lasijiet, b’korrispettiv g]al servizzi ta’ xorta teknika, mani[erjali jew ta’ konsulenza.
 
 \4. Id-disposizzjonijiet tal-paragrafi 1 u 2 ta’ dan l-Artikolu m’g]andhomx japplikaw jekk is-sid benefi`jarju tad-drittijiet tekni`i, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqalg]u d-drittijiet tekni`i permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qed iwettaq servizzi personali f’dak l-Istat indipendenti l-ie]or, u d-drittijiet tekni`i ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew servizzi. F’dak il-ka\\, g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 15, skond il-ka\\.
 
@@ -450,8 +438,6 @@ L.S.123.66] FUQ L-INCOME MAL-MALASJA
 **Drittijiet tad-diretturi**
 
 Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapa`ità tieg]u ta’ membru tal-bord ta’ diretturi, jew ta’ korp komparabbli ie]or ikun kif ikun imsemmi, ta’ kumpannija li tkun residenti ta’ l-Istat Kontraenti l-ie]or, jistg]u ji[u intaxxati f’dak l-Istat l-ie]or.
-
-**FUQ L-INCOME MAL-MALASJA [ L.S.123.66**
 
 **Artikolu 18**
 
@@ -529,9 +515,7 @@ Elementi ta’ income ta’ residenti ta’ Stat Kontraenti li mhux espressament
 
 **Eliminazzjoni ta’ tassazzjoni doppja**
 
-\1. Bla ]sara g]al-li[ijiet tal-Malasja dwar l-g]oti bi kreditu kontra t-taxxa tal- Malasja ta’ taxxa pagabbli f’xi pajji\\ li ma jkunx il-Malasja, it-taxxa ta’ Malta li FUQ L-INCOME MAL-MALASJA [ L.S.123.66
-
-tit]allas ta]t il-li[ijiet ta’ Malta u skond dan il-Ftehim minn residenti tal-Malasja dwar income miksub minn Malta g]andu ji[i permess b]ala kreditu kontra t-taxxa tal-Malasja li tit]allas g]ar-rigward ta’ dak l-income. Dak il-kreditu m’g]andux, madankollu, je``edi dik il-parti tat-taxxa tal-Malasja, kif ti[i komputata qabel ma jing]ata l-kreditu, li tkun tapplika g]al dak l-element ta’ income.
+\1. Bla ]sara g]al-li[ijiet tal-Malasja dwar l-g]oti bi kreditu kontra t-taxxa tal- Malasja ta’ taxxa pagabbli f’xi pajji\\ li ma jkunx il-Malasja, it-taxxa ta’ Malta li tit]allas ta]t il-li[ijiet ta’ Malta u skond dan il-Ftehim minn residenti tal-Malasja dwar income miksub minn Malta g]andu ji[i permess b]ala kreditu kontra t-taxxa tal-Malasja li tit]allas g]ar-rigward ta’ dak l-income. Dak il-kreditu m’g]andux, madankollu, je``edi dik il-parti tat-taxxa tal-Malasja, kif ti[i komputata qabel ma jing]ata l-kreditu, li tkun tapplika g]al dak l-element ta’ income.
 
 \2. G]all-finijiet tal-paragrafu 1, il-fra\\i "taxxa ta’ Malta li tit]allas" g]andha titqies li tinkludi l-ammont ta’ taxxa ta’ Malta li kienet, ta]t il-li[ijiet ta’ Malta u skond dan il-Ftehim, tit]allas fuq income miksub minn g]ejjun f’Malta li kieku l-income ma jkunx [ie intaxxat b’rata mnaqqsa jew e\\entat mit-taxxa ta’ Malta skond:
 
@@ -580,8 +564,6 @@ l-ie]or fl-istess `irkostanzi huma jew jistg]u jkunu so[[etti.
 \3. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jist]arr[u kif jirrisolvu permezz ta’ ftehim re`iproku kull diffikultà jew dubbju li jista’ jitnissel dwar l-interpretazzjoni jew l-applikazzjoni ta’ dan il-Ftehim. Dawn jistg]u wkoll jikkonsultaw flimkien g]all-eliminazzjoni ta’ tassazzjoni doppja f’dawk il-ka\\ijiet li m’hemm xejn provdut dwarhom f’dan il-Ftehim.
 
 \4. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti jistg]u jikkomunikaw ma’ xulxin direttament bil-g]an li jil]qu ftehim fis-sens tal-paragrafi pre`edenti.
-
-**FUQ L-INCOME MAL-MALASJA [ L.S.123.66**
 
 **Artikolu 27**
 

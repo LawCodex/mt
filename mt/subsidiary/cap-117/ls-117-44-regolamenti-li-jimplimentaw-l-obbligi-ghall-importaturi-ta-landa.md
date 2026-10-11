@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti li jimplimentaw l-Obbligi għall-Importaturi ta’ Landa, Tantalu, Tungstenu, il-minerali tagħhom, u Deheb (S.L. 117.44)
 
-*1*
-
-TUNGSTENU, IL-MINERALI TAGĦHOM, U DEHEB [L.S.117.44
-
 **LEĠISLAZZJONI SUSSIDJARJA 117.44**
 
 **REGOLAMENTI LI JIMPLIMENTAW L-OBBLIGI**
@@ -56,11 +52,7 @@ L-awtorità kompetenti nazzjonali għall-finijiet tal- Artikolu 10 tar-Regolamen
 
 (1) Importatur magħżul għall-kontroll tal-konformità ex-post jinħareġ Ittra ta’ Notifika – Talba għall-Informazzjoni, biex jissottometti rapport ta’ verifika lill-awtorità kompetenti fi żmien tletin (30) jum.
 
-(2) Fejn importatur jonqos milli jissottometti r-rapport ta’ verifika lill-awtorità kompetenti fi żmien tletin (30) jum mill-Ittra ta’ Notifika – Talba għal Informazzjoni, mingħajr raġuni ġustifikata għal tali nuqqas ta’ sottomissjoni tar-rapport, huwa għandu jeħel penali [L.S. 117.44 TUNGSTENU, IL-MINERALI TAGĦHOM, U DEHEB
-
-amministrattiva ta’ ħames mitt euro (€500).
-
-*2*
+(2) Fejn importatur jonqos milli jissottometti r-rapport ta’ verifika lill-awtorità kompetenti fi żmien tletin (30) jum mill-Ittra ta’ Notifika – Talba għal Informazzjoni, mingħajr raġuni ġustifikata għal tali nuqqas ta’ sottomissjoni tar-rapport, huwa għandu jeħel penali amministrattiva ta’ ħames mitt euro (€500).
 
 (3) Fejn importatur jonqos milli jissottometti r-rapport ta’ verifika lill-awtorità kompetenti fi żmien tletin (30) jum mill-Ittra ta’ Notifika – Talba għall-Informazzjoni, jekk jipprovdi raġuni ġustifikata għal dan in-nuqqas fl-istess tletin (30) jum, l-awtorità kompetenti tista’, fid-diskrezzjoni tagħha, tagħtih ħmistax-il (15) jum ieħor biex jissottometti r-rapport. Jekk l-importatur jonqos milli jissottometti r-rapport ta’ verifika wara l-iskadenza tal-ġimagħtejn l-oħra, huwa għandu jeħel penali amministrattiva ta’ ħames mitt euro (€500).
 
@@ -84,11 +76,7 @@ In-notifika ta’ kwalunkwe ittra jew notifika mibgħuta lill-importatur mill-aw
 
 (b) tonqos milli tikkonforma mal-obbligu taż-żamma tar-rekords li juri konformità mal-obbligi ta’ diliġenza dovuta tal-katina tal-provvista inklużi r-riżultati ta’ rapporti ta’ partijiet terzi indipendenti stabbiliti fir-Regolament;
 
-(ċ) tostakola intenzjonalment jew tikkaġuna ostruzzjoni ta’ kwalunkwe persuna li taġixxi fl-eżerċizzju xieraq TUNGSTENU, IL-MINERALI TAGĦHOM, U DEHEB [L.S.117.44
-
-tal-funzjonijiet tagħha skont dawn ir-regolamenti u, jew tonqos milli tippermetti spezzjoni skont dawn ir-regolamenti;
-
-*3*
+(ċ) tostakola intenzjonalment jew tikkaġuna ostruzzjoni ta’ kwalunkwe persuna li taġixxi fl-eżerċizzju xieraq tal-funzjonijiet tagħha skont dawn ir-regolamenti u, jew tonqos milli tippermetti spezzjoni skont dawn ir-regolamenti;
 
 (d) tikkonfoffa jew tipprova, jew tgħin, kwalunkwe persuna oħra bi kwalunkwe mezz, inklużi reklamar, konsulenza jew akkwist sabiex jiksru d-dispożizzjonijiet jew ir-rekwiżiti ta’ dan jew ir-Regolament;
 
@@ -112,11 +100,7 @@ Iżda meta l-multa tiġi kkalkulata fuq il-qligħ magħmul mill-awtur tar-reat, 
 
 (4) F’dak li għandu x’jaqsam ma’ proċeduri għal reat impost kontra dawn ir-regolamenti, il-Qorti tal-Ġustizzja tista’ tagħti favur il- Gvern dawk l-ispejjeż li jkunu saru fir-rigward ta’ dawn il-proċeduri li tista’ tqis li huma xierqa.
 
-*4 Applikabbiltà tal- Kodiċi Kriminali. Kap. 9.*
-
-[L.S. 117.44 TUNGSTENU, IL-MINERALI TAGĦHOM, U DEHEB
-
-## 8.
+## 8. Applikabbiltà tal- Kodiċi Kriminali. Kap. 9.
 
 (1) Id-dispożizzjonijiet tal-artikoli 23 u 30(1) tal- Kodiċi Kriminali għandhom, mutatis mutandis, japplikaw għal proċeduri fir-rigward ta’ reati kontra dawn ir-regolamenti, b’mod li l-iskwalifika ta’ mandat, liċenzja, permess jew awtorità fl-ebda każ ma għandha tkun inqas minn sena (1).
 

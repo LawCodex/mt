@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Korrimenti fil-Persuna li jiġru lil Pajżani"
-identifier: "S.L. 111.2"
+identifier: "S.L. 111.02"
 eli: "https://legislation.mt/eli/sl/111.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/111.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Korrimenti fil-Persuna li jiġru lil Pajżani (S.L. 111.2)
+# Regolamenti dwar il-Korrimenti fil-Persuna li jiġru lil Pajżani (S.L. 111.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 111.02**
 

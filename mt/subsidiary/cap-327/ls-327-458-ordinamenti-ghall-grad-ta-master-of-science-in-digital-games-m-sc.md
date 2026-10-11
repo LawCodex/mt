@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Digital Games - M.Sc. - taħt il-patroċinju tal-Istitut tal-Logħob Diġitali (S.L. 327.458)
 
-M.Sc. - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-TAL-LOGĦOB DIĠITALI [L.S.327.458
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.458**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -72,13 +66,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) L-applikanti għall-korsijiet prinċipalment bir-riċerka għandhom jissottomettu proposta tar-riċerka bbażata fuq il-grad/i preċedenti tagħhom. Id-dħul tagħhom jista’ jsir kondizzjonalment fuq ir-riżultat ta’ intervista mmexxija minn bord magħmul għall-anqas minn tliet membri maħtura mill-Bord għal dan il-għan.
 
-(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ M.Sc. - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*2*
-
-[L.S.327.458 TAL-LOGĦOB DIĠITALI
-
-applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
+(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (5) Meta l-għadd ta’ postijiet għal kors prinċipalment mgħallem ikun limitat u l-għadd ta’ applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti jkunu magħżula skont dawn il-kriterji li ġejjin, bil-piż tagħhom speċifikat kif ġej:
 
@@ -114,13 +102,11 @@ Il-programm ta’ studju jista’ jkun jew prinċipalment mgħallem jew prinċip
 
 (3) L-istudenti li jiksbu 30 krettu ECTS assenjati għal taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, ikunu eliġibbli għall-għoti tal-Postgraduate Certificate.
 
-M.Sc. - TAĦT IL-PATROĊINJU TAL-ISTITUT
+## 7. Programmi ta’ studju prinċipalment bir-riċerka.
 
-*3*
+*Sostitwit: A.L. 7 tal-2025.*
 
-TAL-LOGĦOB DIĠITALI [L.S.327.458 7. Il-programmi ta’ studju prinċipalment bir-riċerka għandhom jinkludu taqsimiet-studju mgħallma li għalihom hemm assenjati mhux aktar minn 30 krettu ECTS u taqsima-studju tad-dissertazzjoni li għaliha hemm assenjati mhux anqas minn 60 krettu ECTS.
-
-*Programmi ta’ studju prinċipalment bir-riċerka. Sostitwit: A.L. 7 tal-2025.*
+Il-programmi ta’ studju prinċipalment bir-riċerka għandhom jinkludu taqsimiet-studju mgħallma li għalihom hemm assenjati mhux aktar minn 30 krettu ECTS u taqsima-studju tad-dissertazzjoni li għaliha hemm assenjati mhux anqas minn 60 krettu ECTS.
 
 ## 8. Pubblikazzjoni tal-programmi ta’ studju.
 
@@ -150,13 +136,7 @@ Il-programmi ta’ studju għandhom ikunu ppubblikati mill- Bord wara l-approvaz
 
 (3) Fil-każ ta’ dissertazzjoni li ssegwi l-għanijiet tagħha ‘permezz tad-disinn’, l-istudent huwa mistenni li jissottometti, jippreżenta u jiddiskuti artefatt (jew sett ta’ artefatti) u riflessjonijiet relatati. F'dan il-każ, l-istudent huwa mitlub ukoll biex jissottometti dissertazzjoni testwali li tista’ tieħu diversi forom paralleli inkluża riċerka kwalitattiva, riċerka kwantitattiva, portfolios annotati, riflessjonijiet fuq kunċetti sodi, formulazzjoni ta’ linji gwida, eċċ. F’dan il-każ, it-test li jakkumpanja x-xogħol tad-disinn għandu jkun ta’ madwar 20,000 kelma.
 
-(4) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- M.Sc. - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*4*
-
-[L.S.327.458 TAL-LOGĦOB DIĠITALI
-
-Bord fiż-żmien tas-sejħa għall-applikazzjonijiet.
+(4) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (5) Ix-xogħol fuq id-dissertazzjoni għandu jsir fi kwalunkwe żmien matul il-Kors wara l-approvazzjoni tal-proposta. Kull student ikun assenjat superviżur prinċipali li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
@@ -186,10 +166,6 @@ Wara approvazzjoni mill-Bord tal-Eżaminaturi, l-istudenti għandhom jippreżent
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.
 
-M.Sc. - TAĦT IL-PATROĊINJU TAL-ISTITUT
+## 14. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Enumerat: A.L. 7 tal-2025.
 
-*5*
-
-TAL-LOGĦOB DIĠITALI [L.S.327.458 14. Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time tal-kors.
-
-*Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Enumerat: A.L. 7 tal-2025.*
+Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time tal-kors.

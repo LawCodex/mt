@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Postgraduate Diploma in Educational Planning and Management in Small States (S.L. 327.127)
 
-KORS G}ALL-POSTGRADUATE DIPLOMA IN
-
-EDUCATIONAL PLANNING AND
-
-*1*
-
-MANAGEMENT IN SMALL STATES [L.S.327.127
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.127**
 
 **REGOLAMENTI TAL-KORS G}ALL-**

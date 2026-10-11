@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Maltese Studies taħt il-patroċinju ta’ l-Institute of Maltese Studies (S.L. 327.343)
 
-TAĦT IL-PATROĊINJU TA’
-
-*1*
-
-L-INSTITUTE OF MALTESE STUDIES [L.S.327.343
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.343**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER IN**
@@ -72,12 +66,6 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu, li minnhom 60 kredtu assenjati għal taqsimiet studju mgħallma u 30 kredtu assenjati għat-taqsima studju tad-dissertazzjoni.
 
-TAĦT IL-PATROĊINJU TA’
-
-*2*
-
-[L.S.327.343 L-INSTITUTE OF MALTESE STUDIES
-
 ## 6. Postgraduate Diploma.
 
 L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
@@ -112,13 +100,9 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skond (b) jekk qabel ma jkunx ta opportunità lill-istudent li jiddefendi l-każ tiegħu.
 
-TAĦT IL-PATROĊINJU TA’
+## 11. Klassifikazzjoni tar- Rikonoxximenti. Renumerat: A.L. 146 tal-2022.
 
-*3*
-
-L-INSTITUTE OF MALTESE STUDIES [L.S.327.343 11. Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
-
-*Klassifikazzjoni tar- Rikonoxximenti. Renumerat: A.L. 146 tal-2022.*
+Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
 
 ## 12. Disposizzjonijiet spe`jali għall-korsijiet fuq bażi part-time. Renumerat: A.L. 146 tal-2022.
 

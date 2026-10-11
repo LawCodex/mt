@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Social Studies taħt il-patroċinju taċ-Ċentru ta' Studji dwar ix-Xogħol (S.L. 327.288)
 
-IL-PATROĊINJU TAĊ-ĊENTRU TA’ STUDJI DWAR IX-XOGĦOL BIL-
-
-*1*
-
-KOLLABORAZZJONI TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.288
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.288**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN GENDER,**
@@ -67,11 +61,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) L-applikanti li jidħlu skont ir-regolament 6(ċ) tar- Regolamenti għad-Dħul għandhom ikollhom il-kwalifiki u l-esperjenza li jissodisfaw lill-Bord tal-Istudji, permezz ta’ intervista, li huma laħqu l-livell akkademiku meħtieġ biex isegwu l-kors bi profitt.
 
-(3) L-applikanti li jidħlu skont il-paragrafu (2) ta’ dan l-ordinament għandhom ikunu għaddew minn test ta’ profiċjenza fl- Ilsien Ingliż kif approvat mill-Università qabel ma jidħlu fil-kors, sakemm li l-applikanti li għandhom iċ-Ċertifikat tal-Edukazzjoni Sekondarja bi Grad 5/il-Livell Ordinarju tal-GCE bi Grad C jew ogħla fl-Ingliż jew grad ta’ "Għadda" fl-istess livell fi kwalifika komparabbli, għandhom ikunu eżentati milli joqogħdu għat-test ta’ IL-PATROĊINJU TAĊ-ĊENTRU TA’ STUDJI DWAR IX-XOGĦOL BIL- [L.S.327.288 KOLLABORAZZJONI TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-profiċjenza.
-
-*2*
+(3) L-applikanti li jidħlu skont il-paragrafu (2) ta’ dan l-ordinament għandhom ikunu għaddew minn test ta’ profiċjenza fl- Ilsien Ingliż kif approvat mill-Università qabel ma jidħlu fil-kors, sakemm li l-applikanti li għandhom iċ-Ċertifikat tal-Edukazzjoni Sekondarja bi Grad 5/il-Livell Ordinarju tal-GCE bi Grad C jew ogħla fl-Ingliż jew grad ta’ "Għadda" fl-istess livell fi kwalifika komparabbli, għandhom ikunu eżentati milli joqogħdu għat-test ta’ profiċjenza.
 
 ## 4. Tul tal-kors.
 

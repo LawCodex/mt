@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Portugiża (S.L. 123.63)
 
-FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.63**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -105,8 +103,6 @@ it-taxxa fuq l-income;
 
 Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simili li ji[u imposti wara d-data meta ji[i ffirmat il-Ftehim b’\\ieda ma’, jew minflok, it-taxxi e\\istenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jg]arrfu lil xulxin b'kull tibdil sostanzjali li jkun sar fil-li[ijiet rispettivi tag]hom dwar it-taxxa.
 
-FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
-
 KAPITOLU II
 
 TIFSIRIET
@@ -189,8 +185,6 @@ tal-kliem ma tkunx te]tie[ xort’o]ra, t-tifsira mog]tija lilha f’dak il-waqt
 
 (f) minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew kull post ie]or ta’ estrazzjoni ta’ ri\\orsi naturali inklu\\ sit ta’ offshore drilling.
 
-FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
-
 \3. Il-fra\\i ''stabbiliment permanenti'' hekk ukoll tinkludi:
 
 (a) art li tkun qeg]da tinbena, pro[ett ta’ kostruzzjoni, assembla[[ jew stallazzjoni jew attivitajiet ta’ sorveljanza li jkollhom x’jaqsmu ma’ dan, i\\da biss meta dik l-art, dak il-pro[ett jew dawk l-attivitajiet ikomplu g]al perjodu ta’ i\\jed minn disa’ xhur;
@@ -251,9 +245,7 @@ L.S.123.63] FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A
 
 \3. Sabiex ji[u stabbiliti l-profitti ta’ stabbiliment permanenti, g]andhom ikunu permessi b]ala tnaqqis dawk l-ispejje\\ li jsiru g]all-g]anijiet ta’ l-istabbiliment permanenti, inklu\\i l-ispejje\\ e\\ekuttivi u amministrattivi [enerali li jkunu saru, sew fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’o]ra.
 
-\4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
-
-g]andhom ji[u attribwiti lil stabbiliment permanenti min]abba fi tqassim tal-profitti totali ta’ l-impri\\a lill-partijiet diversi tag]ha, ebda ]a[a fil-paragrafu 2 ma g]andha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li g]andhom ji[u intaxxati b’dak it-tqassim skond ma jista’ jkun konswetudinarju; il-metodu ta’ tqassim li ji[i adottat g]andu, madankollu, jkun tali li r-ri\\ultat g]andu jkun skond il-prin`ipji li jinsabu f’dan l-Artikolu.
+\4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li g]andhom ji[u attribwiti lil stabbiliment permanenti min]abba fi tqassim tal-profitti totali ta’ l-impri\\a lill-partijiet diversi tag]ha, ebda ]a[a fil-paragrafu 2 ma g]andha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li g]andhom ji[u intaxxati b’dak it-tqassim skond ma jista’ jkun konswetudinarju; il-metodu ta’ tqassim li ji[i adottat g]andu, madankollu, jkun tali li r-ri\\ultat g]andu jkun skond il-prin`ipji li jinsabu f’dan l-Artikolu.
 
 \5. Ebda profitti ma g]andhom ji[u attribwiti lil stabbiliment permanenti min]abba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ o[[etti jew merkanzija g]all-impri\\a.
 
@@ -313,9 +305,7 @@ Dan il-paragrafu m’g]andux ikun jolqot it-tassazzjoni tal-kumpannija g]ar-rigw
 
 \4. Id-disposizzjonijiet tal-paragrafi 1 u 2 m’g]andhomx japplikaw jekk is-sid benefi`jarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- Istat Kontraenti l-ie]or li tieg]u tkun residenti l-kumpannija li t]allas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jag]mel f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita sitwata hemmhekk, u l-holding li dwarhom id-dividendi jkunu m]allsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
 
-\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
-
-income mill-Istat Kontraenti l-ie]or, dak l-Istat l-ie]or ma jista’ jimponi ebda taxxa fuq id-dividendi m]allsa mill-kumpannija, ]lief daqskemm dawk id-dividendi jit]allsu lil residenti ta’ dak l-Istat l-ie]or jew daqskemm il-holding li dwaru jit]allsu d-dividendi jkun effettivament konness ma’ dak l-istabbiliment permanenti jew ma’ ba\\i stabbilita sitwati f’dak Istat l-ie]or, lanqas jissu[[etta l-profitti mhux imqassma tal-kumpannija g]al taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi m]allsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalg]u f’dak l-Istat l-ie]or.
+\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ie]or, dak l-Istat l-ie]or ma jista’ jimponi ebda taxxa fuq id-dividendi m]allsa mill-kumpannija, ]lief daqskemm dawk id-dividendi jit]allsu lil residenti ta’ dak l-Istat l-ie]or jew daqskemm il-holding li dwaru jit]allsu d-dividendi jkun effettivament konness ma’ dak l-istabbiliment permanenti jew ma’ ba\\i stabbilita sitwati f’dak Istat l-ie]or, lanqas jissu[[etta l-profitti mhux imqassma tal-kumpannija g]al taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi m]allsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalg]u f’dak l-Istat l-ie]or.
 
 **Artikolu 11**
 
@@ -360,8 +350,6 @@ miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjo
 **QLIG} KAPITALI**
 
 \1. Qlig] li jinkiseb minn resident ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli msemmi fl-Artikolu 6 u li tkun tinsab fl-Istat Kontraenti l-ie]or jista’ ji[i intaxxat f’dak l-Istat l-ie]or.
-
-FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
 
 \2. Qlig] li jinkiseb mit-trasferiment ta’ ishma jew jeddijiet komparabbli f’kumpannija, li jkollha l-assi tag]ha jikkonsistu g]alkollox jew prin`ipalment fi proprjetà immobbli, jista’ ji[i intaxxat fl-Istat Kontraenti fejn ikun jinsab l-attiv jew l-attiv prin`ipali ta’ dik il-kumpannija.
 
@@ -427,8 +415,6 @@ Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti t
 
 \2. Minkejja d-disposizzjonijiet tal-paragrafu 1, pensjonijiet u ]lasijiet o]ra li jing]ataw ta]t il-le[islazzjoni tas-sigurtà socjali ta' Stat Kontraenti jistg]u ji[u intaxxati f’dak l-Istat.
 
-FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
-
 **Artikolu 19**
 
 **SERVIZZ TAL-GVERN**
@@ -489,9 +475,7 @@ L-awtoritajiet kompetenti g]andhom ukoll jikkonsultaw lil xulxin bil-g]an li jid
 
 **EBDA DISKRIMINAZZJONI**
 
-\1. I`-`ittadini ta’ Stat Kontraenti ma g]andhomx ji[u su[[etti fl-Istat Kontraenti l-ie]or g]al xi tassazzjoni jew g]al xi ]tie[a li jkunu konnessi ma’ dan, li FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
-
-tkun diversa jew ta’ iktar pi\\ mit-tassazzjoni u ]tigiet konnessi li g]alihom `ittadini ta’ dak l-Istat l-ie]or fl-istess `irkostanzi, b’mod partikolari g]ar-rigward ta’ residenza, huma jew jistg]u jkunu su[[etti. Din id-disposizzjoni g]andha, minkejja d-disposizzjonijiet ta’ l-Artikolu 1, tkun tapplika wkoll g]al persuni li ma jkunux residenti ta’ xi Stat Kontraenti wie]ed jew it-tnejn li huma.
+\1. I`-`ittadini ta’ Stat Kontraenti ma g]andhomx ji[u su[[etti fl-Istat Kontraenti l-ie]or g]al xi tassazzjoni jew g]al xi ]tie[a li jkunu konnessi ma’ dan, li tkun diversa jew ta’ iktar pi\\ mit-tassazzjoni u ]tigiet konnessi li g]alihom `ittadini ta’ dak l-Istat l-ie]or fl-istess `irkostanzi, b’mod partikolari g]ar-rigward ta’ residenza, huma jew jistg]u jkunu su[[etti. Din id-disposizzjoni g]andha, minkejja d-disposizzjonijiet ta’ l-Artikolu 1, tkun tapplika wkoll g]al persuni li ma jkunux residenti ta’ xi Stat Kontraenti wie]ed jew it-tnejn li huma.
 
 \2. L-intaxxar ta’ stabbiliment permanenti li impri\\a ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ie]or ma g]andux jin[abar inqas favorevolment f’dak Istat l-ie]or mit-tassazzjoni mi[bura fuq impri\\i ta’ dak l-Istat l-ie]or li jkun qieg]ed iwettaq l-istess attivitajiet. Din id-disposizzjoni ma g]andhiex tiftiehem b]ala li tobbliga lil Stat Kontraenti li jikkon`edi lil residenti ta’ l-Istat Kontraenti l-ie]or xi allowances, ]elsien u tnaqqis personali g]all-g]anijiet ta’ tassazzjoni min]abba fl-istatus `ivili jew responsabbiltajiet familjari li tikkon`edi lir-residenti tag]ha.
 
@@ -550,8 +534,6 @@ Id-disposizzjonijiet ta’ dan il-Ftehim m’g]andhomx ikunu japplikaw g]al pers
 **BIDU FIS-SE}}**
 
 \1. L-Istati Kontraenti g]andhom jav\\aw lil xulxin meta jkunu t]arsu l-]ti[iet kostituzzjonali g]ad-d]ul fis-se]] ta’ dan il-Ftehim.
-
-FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
 
 \2. Dan il-Ftehim g]andu jibda jse]] tletin jum wara d-data li jasal l-a]]ar wie]ed mill-avvi\\i msemmija fil-paragrafu 1 u d-disposizzjonijiet tieg]u g]andu jkollhom effett:
 
@@ -617,9 +599,7 @@ Id-disposizzjonijiet tal-paragrafu 3 ma jostakolawx l-applikazzjoni ta’ xi dis
 
 \5. Id-disposizzjonijiet ta’ dan il-ftehim ma g]andhomx ji[u interpretati b]ala li jillimitaw b’xi mod l-e\\enzjonijiet, it-tnaqqis, il-krediti jew kull ]elsien ie]or li jkunu jew li se ji[u kon`essi:
 
-(a) bil-li[i ta’ l-Istat Kontraenti g]all-fini ta’ l-istima tat-taxxi imposti FUQ L-INCOME MAR-REPUBBLIKA PORTUGI|A [ L.S.123.63
-
-minn dak l-Istat; jew
+(a) bil-li[i ta’ l-Istat Kontraenti g]all-fini ta’ l-istima tat-taxxi imposti minn dak l-Istat; jew
 
 (b) b’xi Ftehim ie]or iffirmat minn xi wie]ed mill-Istati Kontraenti.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Arts (Honours) in Public Administration - B.A. (Hons) Pub.Admin. - taħt il-patroċinju tal-Institute of Public Administration and Management (S.L. 327.266)
 
-TRATION - B.A. (Hons) Pub.Admin - TAĦT IL-PATROĊINJU TAL-THE
-
-*1*
-
-INSTITUTE OF PUBLIC ADMINISTRATION AND MANAGEMENT [L.S.327.266
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.266**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF ARTS (HONOURS) IN PUBLIC ADMINISTRATION - B.A. (Hons) Pub.Admin - TAĦT IL-PATROĊINJU TAL- INSTITUTE OF PUBLIC ADMINISTRATION
@@ -61,11 +55,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) Minkejja d-dispożizzjonijiet tal-paragrafu (1) ta’ dan l-ordinament, il-Bord jista’ jirrakkomanda lis-Senat l-għadd ta’ studenti li jistgħu jidħlu fil-kors, skont ir-riżorsi disponibbli. Jekk issir rakkomandazzjoni bħal din u tkun approvata, l-għadd ta’ postijiet disponibbli jkun imħabbar meta joħorġu l-applikazzjonijiet.
 
-(3) Jekk ikun hemm aktar applikanti eliġibbli mill-għadd ta’ TRATION - B.A. (Hons) Pub.Admin - TAĦT IL-PATROĊINJU TAL-THE [L.S.327.266 INSTITUTE OF PUBLIC ADMINISTRATION AND MANAGEMENT
-
-postijiet disponibbli, l-applikanti jiġu magħżula wara li jkunu għamlu test bil-miktub, immexxi mill-Bord tal-Istudji, li jagħmel ir-rakkomandazzjonijiet tiegħu skont il-kriterji u l-piżijiet li ġejjin:
-
-*2*
+(3) Jekk ikun hemm aktar applikanti eliġibbli mill-għadd ta’ postijiet disponibbli, l-applikanti jiġu magħżula wara li jkunu għamlu test bil-miktub, immexxi mill-Bord tal-Istudji, li jagħmel ir-rakkomandazzjonijiet tiegħu skont il-kriterji u l-piżijiet li ġejjin:
 
 (a) il-kwalifiki akkademiċi - 30%;
 

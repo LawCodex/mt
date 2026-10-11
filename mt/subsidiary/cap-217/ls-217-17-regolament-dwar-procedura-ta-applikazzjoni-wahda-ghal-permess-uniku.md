@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Regolament dwar Proċedura ta’ Applikazzjoni Waħda għal Permess Uniku fir-rigward ta’ Residenza u Xogħol u Ġabra Komuni ta’ Drittijiet għal dawk il-Ħaddiema ta’ Pajjiżi Terzi li jirrisjedu legalment f’Malta (S.L. 217.17)
 
-FIR-RIGWARD TA’ RESIDENZA UXOGĦOL UĠABRA KOMUNI TA’
-
-DRITTIJIET GĦAL DAWK IL-ĦADDIEMA TA’ PAJJIŻI TERZI
-
-*1*
-
-LI JIRRISJEDU LEGALMENT F’MALTA [L.S.217.17 LEĠISLAZZJONI SUSSIDJARJA 217.17
+**LEĠISLAZZJONI SUSSIDJARJA 217.17**
 
 **REGOLAMENTI DWAR PROĊEDURA TA’**
 
@@ -56,12 +50,6 @@ L-AVVIŻ LEGALI 160 tal-2014.
 (a) Liġi tal-Unjoni, inkluż ftehim bilaterali u multilaterali bejn l-Unjoni, jew l-Unjoni u l-Istati Membri tagħha fuq naħa waħda, u pajjiż terz wieħed jew aktar fuq in-naħa l-oħra; u
 
 (b) ftehim bilaterali u multilaterali bejn Malta jew Stati Membri oħra u pajjiżi terz wieħed jew aktar.
-
-FIR-RIGWARD TA’ RESIDENZA UXOGĦOL UĠABRA KOMUNI TA’ DRITTIJIET GĦAL DAWK IL-ĦADDIEMA TA’ PAJJIŻI TERZI
-
-*2*
-
-[L.S.217.17 LI JIRRISJEDU LEGALMENT F’MALTA
 
 ### 2. Tifsir.
 
@@ -101,15 +89,9 @@ Dawn ir-regolamenti għandhom japplikaw għal:
 
 Dawn ir-regolamenti m’għandhomx japplikaw għal ċittadini ta’ pajjiż terz:
 
-(a) li huma membri tal-familja ta’ ċittadini tal-Unjoni li eżerċitaw, jew qed jeżercitaw, id-dritt tagħhom għall-moviment liberu fil-Komunità b’konformità mad- Direttiva 2004/38/KE tal-Parlament Ewropew u tal- Kunsill tad-29 ta’ April 2004 dwar id-drittijiet taċ-ċittadini tal-Unjoni u tal-membri tal-familja tagħhom biex jiċċaqilqu u jgħixu liberament fit-territorju tal- Istati Membri jew eżerċitaw id-dritt tagħhom għall-moviment liberu f’Malta skont l-Ordni dwar il- FIR-RIGWARD TA’ RESIDENZA UXOGĦOL UĠABRA KOMUNI TA’
+(a) li huma membri tal-familja ta’ ċittadini tal-Unjoni li eżerċitaw, jew qed jeżercitaw, id-dritt tagħhom għall-moviment liberu fil-Komunità b’konformità mad- Direttiva 2004/38/KE tal-Parlament Ewropew u tal- Kunsill tad-29 ta’ April 2004 dwar id-drittijiet taċ-ċittadini tal-Unjoni u tal-membri tal-familja tagħhom biex jiċċaqilqu u jgħixu liberament fit-territorju tal- Istati Membri jew eżerċitaw id-dritt tagħhom għall-moviment liberu f’Malta skont l-Ordni dwar il- Moviment Liberu ta’ Ċittadini tal-Unjoni Ewropea u tal-Membri tal-Familji tagħhom;
 
 *L.S. 460.17*
-
-DRITTIJIET GĦAL DAWK IL-ĦADDIEMA TA’ PAJJIŻI TERZI
-
-*3*
-
-LI JIRRISJEDU LEGALMENT F’MALTA [L.S.217.17 Moviment Liberu ta’ Ċittadini tal-Unjoni Ewropea u tal-Membri tal-Familji tagħhom;
 
 (b) membri tal-familja, irrispettivament min-nazzjonalità tagħhom, li jgawdu drittijiet għall-moviment liberu daqs dawk taċ-ċittadini tal-Unjoni skont ftehim bejn il- Kommunità u l-Istati Membri u dawk ta’ ċittadin tal- Unjoni;
 
@@ -135,13 +117,7 @@ LI JIRRISJEDU LEGALMENT F’MALTA [L.S.217.17 Moviment Liberu ta’ Ċittadini t
 
 (k) li applikaw sabiex jitħallew jidħlu jew li tħallew jidħlu f’Malta bħala ħaddiema li jaħdmu għal rashom;
 
-(l) li applikaw sabiex jitħallew jidħlu jew li tħallew jidħlu f’Malta bħala baħħara għall-impieg jew xogħol f’kull kapaċità abbord vapur reġistrat fi, jew li jbaħħar taħt FIR-RIGWARD TA’ RESIDENZA UXOGĦOL UĠABRA KOMUNI TA’ DRITTIJIET GĦAL DAWK IL-ĦADDIEMA TA’ PAJJIŻI TERZI
-
-*4*
-
-[L.S.217.17 LI JIRRISJEDU LEGALMENT F’MALTA
-
-il-bandiera ta’ Stat Membru.
+(l) li applikaw sabiex jitħallew jidħlu jew li tħallew jidħlu f’Malta bħala baħħara għall-impieg jew xogħol f’kull kapaċità abbord vapur reġistrat fi, jew li jbaħħar taħt il-bandiera ta’ Stat Membru.
 
 ### 5. It-Taqsima II ma tapplikax.
 
@@ -191,13 +167,7 @@ Id-Direttur għandu, meta l-kondizzjonijiiet previsti jiġu osservati, joħroġ 
 
 ### 12. Id-Direttur jadotta deċiżjoni.
 
-Wara li jsiru l-konsultazzjonijiet interni neċessarji mal-awtoritajiet ikkonċernati dwar jekk iċ-ċittadin ta’ pajjiż terz ingħatax permess biex jaħdem f’Malta skont l-artikolu 11(3) tal- FIR-RIGWARD TA’ RESIDENZA UXOGĦOL UĠABRA KOMUNI TA’
-
-DRITTIJIET GĦAL DAWK IL-ĦADDIEMA TA’ PAJJIŻI TERZI
-
-*5*
-
-LI JIRRISJEDU LEGALMENT F’MALTA [L.S.217.17 Att, fejn l-awtoritajiet ikkonċernati għandhom jeżaminaw dik l-applikazzjoni fuq il-bażi tal-ħtiġiet tas-suq tax-xogħol, il-volumi stabbiliti ta’ ammissijoni, jew kwalunkwe ċirkustanza eċċezzjonali oħra li tista’ titqies bħala ġustifikata, id-Direttur għandu jadotta deċiżjoni fuq l-applikazzjoni sħiħa, mill-aktar fis, u fi kwalunkwe każ fi żmien erba’ xhur mid-data li fiha ġiet ippreżentata l-applikazzjoni:
+Wara li jsiru l-konsultazzjonijiet interni neċessarji mal-awtoritajiet ikkonċernati dwar jekk iċ-ċittadin ta’ pajjiż terz ingħatax permess biex jaħdem f’Malta skont l-artikolu 11(3) tal- Att, fejn l-awtoritajiet ikkonċernati għandhom jeżaminaw dik l-applikazzjoni fuq il-bażi tal-ħtiġiet tas-suq tax-xogħol, il-volumi stabbiliti ta’ ammissijoni, jew kwalunkwe ċirkustanza eċċezzjonali oħra li tista’ titqies bħala ġustifikata, id-Direttur għandu jadotta deċiżjoni fuq l-applikazzjoni sħiħa, mill-aktar fis, u fi kwalunkwe każ fi żmien erba’ xhur mid-data li fiha ġiet ippreżentata l-applikazzjoni:
 
 Iżda dan it-teriminu perentorju jista’ jiġi estiż f’ċirkustanzi eċċezjonali marbuta mal-kumplessità tal-eżaminazzjoni tal-applikazzjoni.
 
@@ -231,13 +201,7 @@ Iċ-ċittadin ta’ pajjiż terz m’għandhux ikun meħtieġ permess addizzjona
 
 ### 19. Format tal-permess ta’ residenza.
 
-Mingħajr ħsara għad-disposizzjonijiet relevanti ta’ dawn ir-regolamenti, id-Direttur, meta joħroġ permess ta’ residenza fil-format stabbilit bir-Regolament (KE) Nru 1030/2002 għall-finijiet FIR-RIGWARD TA’ RESIDENZA UXOGĦOL UĠABRA KOMUNI TA’ DRITTIJIET GĦAL DAWK IL-ĦADDIEMA TA’ PAJJIŻI TERZI
-
-*6*
-
-[L.S.217.17 LI JIRRISJEDU LEGALMENT F’MALTA
-
-barra dawk ta’ xogħol, għandu japplika d-disposizzjonijiet tar-regolament 16 u 17.
+Mingħajr ħsara għad-disposizzjonijiet relevanti ta’ dawn ir-regolamenti, id-Direttur, meta joħroġ permess ta’ residenza fil-format stabbilit bir-Regolament (KE) Nru 1030/2002 għall-finijiet barra dawk ta’ xogħol, għandu japplika d-disposizzjonijiet tar-regolament 16 u 17.
 
 ### 20. Ċaħdiet.
 
@@ -273,13 +237,7 @@ Mingħajr pregudizzju għad-dritt tad-Direttur li jittira jew jirrifjuta li jġe
 
 (ċ) edukazzjoni u taħriġ vokazzjonali:
 
-FIR-RIGWARD TA’ RESIDENZA UXOGĦOL UĠABRA KOMUNI TA’
-
-DRITTIJIET GĦAL DAWK IL-ĦADDIEMA TA’ PAJJIŻI TERZI
-
-*7*
-
-LI JIRRISJEDU LEGALMENT F’MALTA [L.S.217.17 Iżda dan it-trattament ugwali għandu japplika biss għall-ħaddiema ta’ pajjiż terz li jinsabu f’impjieg jew li ġew impjegati jew li huma reġistrati bħala qiegħda f’Malta u m’għandhux:
+Iżda dan it-trattament ugwali għandu japplika biss għall-ħaddiema ta’ pajjiż terz li jinsabu f’impjieg jew li ġew impjegati jew li huma reġistrati bħala qiegħda f’Malta u m’għandhux:
 
 (i) jinkludi għotja ta’ studju jew manteniment u self jew għotjiet jew self ieħor;
 
@@ -313,15 +271,7 @@ Iżda wkoll, il-ħaddiema ta’ pajjiż terz li jkunu sejrin f’pajjiż terz, j
 
 benefiċċji tat-taxxa, sakemm il-ħaddiem huwa meqjus li jkun residenti f’Malta għal finijiet ta’ taxxa:
 
-Iżda dan it-trattament ugwali għandu japplika għal każijiet fejn is-sitwazzjoni ta’ residenza tal-ħaddiem ta’ pajjiż terz hija l-istess bħal dik ta’ ċittadin Malti fl- FIR-RIGWARD TA’ RESIDENZA UXOGĦOL UĠABRA KOMUNI TA’
-
-**DRITTIJIET GĦAL DAWK IL-ĦADDIEMA TA’ PAJJIŻI TERZI**
-
-**LI JIRRISJEDU LEGALMENT F’MALTA**
-
-*[L.S.217.17 8*
-
-istess sitwazzjoni;
+Iżda dan it-trattament ugwali għandu japplika għal każijiet fejn is-sitwazzjoni ta’ residenza tal-ħaddiem ta’ pajjiż terz hija l-istess bħal dik ta’ ċittadin Malti fl-istess sitwazzjoni;
 
 (g) aċċess għal oġġetti u servizzi u l-forniment ta’ oġġetti u servizzi disponibbli għall-pubbliku, eskluż l-aċċess għall-akkomodazzjoni:
 

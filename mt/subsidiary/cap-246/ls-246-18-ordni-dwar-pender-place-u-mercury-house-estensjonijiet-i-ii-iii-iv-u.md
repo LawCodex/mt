@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Pender Place u Mercury House, Estensjonijiet I, II, III, IV u V, f’San Ġiljan bħala Żoni Speċjali Msemmija (S.L. 246.18)
 
-ESTENSJONIJIET I, II, III, IV U V, F’SAN {ILJAN
-
-*1*
-
-B}ALA |ONI SPE~JALI MSEMMIJA [L.S.246.18
-
 **LE{ISLAZZJONI SUSSIDJARJA 246.18**
 
 **ORDNI DWAR PENDER PLACE U MERCURY**
@@ -46,13 +40,3 @@ Is-Sit Pender Place u Mercury House, Estensjonijiet I, II, III, IV u V, f’San 
 ## 3. |jieda mal-Ewwel Skeda li tinsab mal-Att. Kap. 246.
 
 Pender Place u Mercury House, Estensjonijiet I, II, III, IV u V, San {iljan g]andhom ji\\diedu mal-Lista ta’ |oni Skedati fl- Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni Mhux Residenti.
-
-ESTENSJONIJIET I, II, III, IV U V, F’SAN {ILJAN 2 [ L.S.246.18 B}ALA |ONI SPE~JALI MSEMMIJA ESTENSJONIJIET I, II, III, IV U V, F’SAN {ILJAN
-
-*3*
-
-B}ALA |ONI SPE~JALI MSEMMIJA [L.S.246.18 ESTENSJONIJIET I, II, III, IV U V, F’SAN {ILJAN 4 [ L.S.246.18 B}ALA |ONI SPE~JALI MSEMMIJA ESTENSJONIJIET I, II, III, IV U V, F’SAN {ILJAN
-
-*5*
-
-B}ALA |ONI SPE~JALI MSEMMIJA [L.S.246.18 ESTENSJONIJIET I, II, III, IV U V, F’SAN {ILJAN 6 [ L.S.246.18 B}ALA |ONI SPE~JALI MSEMMIJA

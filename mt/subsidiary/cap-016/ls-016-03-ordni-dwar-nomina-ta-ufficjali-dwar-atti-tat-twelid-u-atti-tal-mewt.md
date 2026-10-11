@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Nomina ta' Uffiċjali dwar Atti tat-Twelid u Atti tal-Mewt"
-identifier: "S.L. 16.3"
+identifier: "S.L. 16.03"
 eli: "https://legislation.mt/eli/sl/16.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/16.3/20210208/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Nomina ta' Uffiċjali dwar Atti tat-Twelid u Atti tal-Mewt (S.L. 16.3)
-
-NOMINA TA’ UFFIĊJALI DWAR ATTI
-
-*1*
-
-TAT-TWELID U ATTI TAL-MEWT [L.S.16.03
+# Ordni dwar Nomina ta' Uffiċjali dwar Atti tat-Twelid u Atti tal-Mewt (S.L. 16.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 16.03**
 

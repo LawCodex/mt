@@ -15,16 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Science in Building Services Engineering – M.Sc. – offrut taħt il-patroċinju tal-Fakultà tal-Inġinerija (S.L. 327.571)
 
-UNIVERSITARJI TA’ WARA L-EWWEL GRAD GĦALL-
-
-GRAD TA’ MASTER OF SCIENCE IN BUILDING
-
-SERVICES ENGINEERING – M.SC. - TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA [L.S. 327.571.
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.571**
 
 **L-ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -69,13 +59,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 ## 3. Ir-Rekwiżiti għad- Dħul.
 
-(1) Il-Kors ikun miftuħ għall-applikanti li għandhom il-grad ta’ Bachelor of Engineering (Honours) minn din l- Università jew minn istituzzjoni ta’ edukazzjoni ogħla oħra rikonoxxut mis-Senat, miksub mill-inqas fit-Tieni Klassi bl-Unuri. UNIVERSITARJI TA’ WARA L-EWWEL GRAD GĦALL- GRAD TA’ MASTER OF SCIENCE IN BUILDING
-
-SERVICES ENGINEERING – M.SC. - TAĦT IL-
-
-*2*
-
-[L.S. 327.571 PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA
+(1) Il-Kors ikun miftuħ għall-applikanti li għandhom il-grad ta’ Bachelor of Engineering (Honours) minn din l- Università jew minn istituzzjoni ta’ edukazzjoni ogħla oħra rikonoxxut mis-Senat, miksub mill-inqas fit-Tieni Klassi bl-Unuri.
 
 (2) F’każijiet eċċezzjonali l-Bord tad-Dħul, fuq ir-rakkomandazzjoni tal-Bord, jista’ jħalli jidħlu fil-Kors applikanti li m’għandhomx il-kwalifiki msemmija fil-paragrafu (1) ta’ dan l-ordinament, sakemm li jkun sodisfatt li dawn l-applikanti għandhom kwalifiki akkademiċi jew professjonali rilevanti oħra u esperjenza li flimkien ikunu meqjusa bħala komparabbli għall-livell tal-ewwel grad. Id-dħul tal-applikanti skont dan l-ordinament jista’ jkun jiddependi mir-riżultati ta’ intervista mmexxija mill-bord tal-intervisti maħtur għal dan il-għan.
 
@@ -101,17 +85,7 @@ Il-Kors għandu jinfirex fuq tliet snin (sitt semestri) ta’ studju fuq bażi p
 
 (2) Dawk l-istudenti li matul xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 10 kretti ECTS għandhom jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni tal- eżamijiet supplimentari ta’ Settembru.
 
-(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti UNIVERSITARJI TA’ WARA L-EWWEL GRAD GĦALL-
-
-GRAD TA’ MASTER OF SCIENCE IN BUILDING
-
-SERVICES ENGINEERING – M.SC. - TAĦT IL-
-
-*3*
-
-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA [L.S. 327.571.
-
-permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju jkunu meqjusa li weħlu mill-Kors.
+(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju jkunu meqjusa li weħlu mill-Kors.
 
 ## 7. Id-Dissertazzjoni.
 

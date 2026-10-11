@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kummissjoni dwar is-Servizz Pubbliku"
-identifier: "S.L. const.1"
+identifier: "S.L. const.01"
 eli: "https://legislation.mt/eli/sl/const.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/const.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kummissjoni dwar is-Servizz Pubbliku (S.L. const.1)
+# Regolamenti dwar il-Kummissjoni dwar is-Servizz Pubbliku (S.L. const.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA KOST.01**
 

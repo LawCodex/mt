@@ -1,6 +1,6 @@
 ---
 title: "Avviż dwar Rimunerazzjoni li tingħata lill-Kummissarji għall-Ġustizzja"
-identifier: "S.L. 291.5"
+identifier: "S.L. 291.05"
 eli: "https://legislation.mt/eli/sl/291.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/291.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Avviż dwar Rimunerazzjoni li tingħata lill-Kummissarji għall-Ġustizzja (S.L. 291.5)
-
-RIMUNERAZZJONI
-
-*1*
-
-LILL-KUMMISSARJI G}ALL-{USTIZZJA [L.S.291.05
+# Avviż dwar Rimunerazzjoni li tingħata lill-Kummissarji għall-Ġustizzja (S.L. 291.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 291.05**
 

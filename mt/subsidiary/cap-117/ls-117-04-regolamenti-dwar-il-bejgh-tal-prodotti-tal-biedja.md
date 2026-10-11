@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Bejgħ tal-Prodotti tal-Biedja"
-identifier: "S.L. 117.4"
+identifier: "S.L. 117.04"
 eli: "https://legislation.mt/eli/sl/117.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/117.4/20220228/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Bejgħ tal-Prodotti tal-Biedja (S.L. 117.4)
+# Regolamenti dwar il-Bejgħ tal-Prodotti tal-Biedja (S.L. 117.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 117.04**
 

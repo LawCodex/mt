@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Konfederazzjoni Svizzera) (S.L. 123.136)
 
-*1*
-
-(KONFEDERAZZJONI SVIZZERA) [L.S.123.136
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.136**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
@@ -47,8 +43,6 @@ Qiegћed b’dan jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseћћ fis-6 ta’ Lulju 2012.
-
-2 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
 
 Emendat: SKEDA
 
@@ -108,8 +102,6 @@ it-taxxa fuq l-income;
 
 (hawnhekk iżjed ’il quddiem imsejћa "it-taxxa ta’ Malta");
 
-(KONFEDERAZZJONI SVIZZERA) [L.S.123.136 3
-
 b) fl-Isvizzera:
 
 it-taxxi federali, kantonali u komunali fuq l-income (income totali, income li jinqala’, income minn kapital, profitti industrijali u kummerċjali, qligħ minn proprjetà, u taxxi oħra fuq l-income);
@@ -154,8 +146,6 @@ h) il-frażi "ċittadin" tfisser:
 
 (i) kull individwu li jkollu ċ-ċittadinanza ta’ Stat Kontraenti;
 
-4 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
-
 (ii) kull persuna ġuridika, soċjetà jew assoċjazzjoni li jiksbu l-istatus tagћhom bћala tali mil-liġijiet li jkunu fis-sehh fi Stat Kontraenti. 2. Gћar-rigward tal-applikazzjoni tal-Ftehim f’kull żmien minn Stat Kontraenti, kull frażi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra, it-tifsira mogћtija lilha f’dak il-waqt taћt il-liġi ta’ dak l-iStat gћall-finijiet tat-taxxi li dwarhom ikun japplika l-Ftehim, hekk li tifsira taħt il-liġijiet tat-taxxa li japplikaw f’dak l-iStat tkun tipprevali fuq xi tifsira mogћtija lil dik il-frażi taћt liġijiet oћra ta’ dak l-iStat.
 
 **Artikolu 4**
@@ -189,8 +179,6 @@ Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 persuna li ma tkunx indivi
 a) post ta’ maniġġ;
 
 b) fergћa;
-
-(KONFEDERAZZJONI SVIZZERA) [L.S.123.136 5
 
 ċ) uffiċċju;
 
@@ -236,9 +224,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 **Income minn proprjetà immobbli**
 
-\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà (inkluż income mill-agrikoltura jew minn ħidma fil-boskijiet) li tkun tinsab fl-iStat 6 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
-
-Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-iStat l-ieћor.
+\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà (inkluż income mill-agrikoltura jew minn ħidma fil-boskijiet) li tkun tinsab fl-iStat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-iStat l-ieћor.
 
 \2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi tal-iStat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tkun tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu depożiti minerali, gћejjun u riżorsi oћra naturali; bastimenti u inġenji tal-ajru m’gћandhomx jitqiesu bћala proprjetà immobbli.
 
@@ -263,8 +249,6 @@ Stat Kontraenti ma għandu jagħmel l-ebda aġġustament għall-profitti li huma
 \4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li gћandhom jiġu attribwiti lil stabbiliment permanenti minћabba fi tqassim tal-profitti totali tal-impriża lill-partijiet diversi tagћha, ebda ћaġa fil-paragrafu 2 m’gћandha tipprekludi lil dak l-iStat Kontraenti milli jistabbilixxi l-profitti li gћandhom jiġu intaxxati b’dak it-tqassim hekk kif tista’ tkun il-konswetudni; il-metodu ta’ tqassim li jiġi adottat gћandu, madankollu, isir b’tali mod li r-riżultat ikun kif iridu l-prinċipji li jinsabu f’dan l-Artikolu.
 
 \5. Ebda profitti m’gћandhom jiġu attribwiti lil stabbiliment permanenti minћabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija gћall-impriża.
-
-(KONFEDERAZZJONI SVIZZERA) [L.S.123.136 7
 
 \6. Gћall-gћanijiet tal-paragrafi ta’ qabel, il-profitti li gћandhom jiġu attribwiti lill-istabbiliment permanenti gћandhom jiġu stabbiliti bl-istess metodu sena wara l-oћra kemm-il darba ma jkunx hemm raġuni tajba u suffiċjenti gћaliex dan m’gћandux isir.
 
@@ -298,9 +282,7 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriż
 
 \2. Meta Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat – u skont hekk jintaxxa - profitti li fuqhom impriża tal-Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kundizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor jrid jagћmel tibdil adatt fl-ammont tat-taxxa hekk imposta fuq dawk il-profitti. Biex jiġi stabbilit dak it-tibdil, id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jekk ikun hekk meћtieġ jikkonsultaw lil xulxin.
 
-\3. Stat Kontraenti ma għandux jinkludi fil-profitti tal-impriża, u jintaxxa skont hekk, profitti li kienu jakkumulaw għall-impriża imma minħabba l-kundizzjonijiet imsemmija fil-paragrafu 1 ma jkunux hekk akkumulaw, wara ħames (5) snin mit-tmiem 8 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
-
-tas-sena taxxabbli li fiha l-profitti kienu jakkumulaw għall-impriża. Id-dispożizzjonijiet ta’ dan il-paragrafu ma għandhomx japplikaw fil-każ ta' frodi, negliġenza serja jew inadempjenza volontarja.
+\3. Stat Kontraenti ma għandux jinkludi fil-profitti tal-impriża, u jintaxxa skont hekk, profitti li kienu jakkumulaw għall-impriża imma minħabba l-kundizzjonijiet imsemmija fil-paragrafu 1 ma jkunux hekk akkumulaw, wara ħames (5) snin mit-tmiem tas-sena taxxabbli li fiha l-profitti kienu jakkumulaw għall-impriża. Id-dispożizzjonijiet ta’ dan il-paragrafu ma għandhomx japplikaw fil-każ ta' frodi, negliġenza serja jew inadempjenza volontarja.
 
 **Artikolu 10**
 
@@ -320,9 +302,7 @@ b) Fil-każ ta’ dividendi mħallsa minn kumpannija li tkun residenti tal- Isvi
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 m’gћandhomx japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-iStat Kontraenti l-ieћor li tiegћu tkun residenti l-kumpannija li tћallas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jagћmel f’dak l-iStat l-ieћor servizzi personali indipendenti minn bażi stabbilita sitwata hemmhekk, u l-holding li dwarhom id-dividendi jkunu mћallsa jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, kif ikun il-każ.
 
-\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-iStat Kontraenti l-ieћor, dak l-iStat l-ieћor ma jista’ jimponi ebda taxxa (KONFEDERAZZJONI SVIZZERA) [L.S.123.136 9
-
-fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-iStat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ stabbiliment permanenti jew bażi stabbilita sitwati f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-iStat l-ieћor.
+\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-iStat Kontraenti l-ieћor, dak l-iStat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-iStat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ stabbiliment permanenti jew bażi stabbilita sitwati f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-iStat l-ieћor.
 
 **Artikolu 11**
 
@@ -352,9 +332,7 @@ b) f’dak li għandu x’jaqsam mal-bejgħ bi kreditu ta’ merkanzija minn imp
 
 \5. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le, u sew jekk ikollhom dritt li jipparteċipaw fil-profitti tad-debitur sew jekk ma jkollhomx, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inklużi premiums u premjijiet relatati ma’ dawk it-titoli, bonds jew debentures. Il-frażi "mgћax" m’għandhiex tkun tinkludi xi oġġett li jkun ittrattat bħala tqassim taħt id-dispożizzjonijiet tal-Artikolu 10. Ħlasijiet ta’ penali gћal ћlas tardiv ma jitqiesux bћala mgћax gћall-finijiet ta’ dan l-Artikolu.
 
-\6. Id-dispożizzjonijiet tal-paragrafi 1, 2, 3 u 4 m’gћandhomx japplikaw jekk is- 10 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
-
-sid benefiċjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-iStat Kontraenti l-ieћor li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagћmel servizzi personali indipendenti f’dak Istat l-ieћor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bћal dak gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, kif ikun il-każ.
+\6. Id-dispożizzjonijiet tal-paragrafi 1, 2, 3 u 4 m’gћandhomx japplikaw jekk is-sid benefiċjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-iStat Kontraenti l-ieћor li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagћmel servizzi personali indipendenti f’dak Istat l-ieћor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bћal dak gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, kif ikun il-każ.
 
 \7. Gћandu jitqies li joriġina mgћax fi Stat Kontraenti meta min iћallas ikun residenti ta’ dak l-iStat. Meta, madankollu, il-persuna li tkun qed tћallas l-imgћax, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, ikollha fi Stat Kontraenti stabbiliment permanenti jew bażi fissa li f’konnessjoni magћhom tkun inkisbet il-qagћda ta’ debitu li fuqu jitћallas l-imgћax, u dak l-imgћax jinġarr minn dak l-istabbiliment permanenti jew minn dik il-bażi fissa, għaldaqshekk dak l-imgћax gћandu jitqies bћala li joriġina fl-iStat fejn ikunu jinsabu l-istabbiliment permanenti jew il-bażi fissa.
 
@@ -375,8 +353,6 @@ Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju
 \4. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont tar-royalties, fil-qjies ta’ x’ikun l-użu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli kif hemm fil-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
 **Artikolu 13**
-
-(KONFEDERAZZJONI SVIZZERA) [L.S.123.136 11
 
 **Qligħ minn proprjetà**
 
@@ -409,8 +385,6 @@ Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju
 a) min jirċevih ikun joqgћod fl-iStat l-ieћor gћal perjodu jew perjodi li b’kollox ma jgћoddux aktar minn 183 gurnata fis-sena kalendarja involuta; u
 
 b) il-kumpens jitћallas minn, jew f’isem, prinċipal li ma jkunx residenti fl-iStat l-ieћor; u
-
-12 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
 
 ċ) il-kumpens ma jkunx ta’ piż fuq l-istabbiliment permanenti jew fuq il-bażi stabbilita li l-prinċipal ikollu fl-iStat l-ieћor.
 
@@ -448,9 +422,7 @@ b) Madankollu, dawk is-salarji, pagi u rimunerazzjoni oћra simili bћal dawk g�
 
 (i) jkun ċittadin ta’ dak l-iStat; jew
 
-(ii) ma jkunx sar residenti ta’ dak l-iStat unikament sabiex jaqdi dawk (KONFEDERAZZJONI SVIZZERA) [L.S.123.136 13
-
-is-servizzi.
+(ii) ma jkunx sar residenti ta’ dak l-iStat unikament sabiex jaqdi dawk is-servizzi.
 
 \2. a) Kull pensjoni mћallsa minn, jew li toħroġ minn fond maħluq minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegћu lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-iStat jew sottodiviżjoni jew awtorità gћandha tiġi intaxxati biss f’dak l-iStat.
 
@@ -482,9 +454,7 @@ Bla ħsara għad-dispożizzjonijiet tal-liġi ta’ Malta dwar allowance ta’ k
 
 \2. Fil-każ tal-Isvizzera, it-taxxa doppja għandha tiġi evitata kif ġej:
 
-a) Meta residenti tal-Isvizzera jikseb income, li ma jkunx income li jaqa’ taħt l-Artikolu 10 li, kif hemm fid-dispożizzjonijiet ta’ dan il-Ftehim, jista’ jiġi intaxxat f’Malta, l-Isvizzera għandha, bla ħsara għad- 14 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
-
-dispożizzjonijiet tas-subparagrafu b), teżenta lil dak l-income mit-taxxa iżda tista’, meta tkun qegħda tikkalkula t-taxxa fuq l-income li jifdal ta’ dak ir-residenti, tapplika r-rata ta’ taxxa li kienet tkun tapplika kieku l-income eżentat ma jkunx ġie hekk eżentat. Madankollu, dik l-eżenzjoni għandha tkun tapplika għal qligħ imsemmi fil-paragrafu 4 tal-Artikolu 13 biss jekk tintwera t-taxxa attwali ta’ dak il-qligħ f’Malta.
+a) Meta residenti tal-Isvizzera jikseb income, li ma jkunx income li jaqa’ taħt l-Artikolu 10 li, kif hemm fid-dispożizzjonijiet ta’ dan il-Ftehim, jista’ jiġi intaxxat f’Malta, l-Isvizzera għandha, bla ħsara għad-dispożizzjonijiet tas-subparagrafu b), teżenta lil dak l-income mit-taxxa iżda tista’, meta tkun qegħda tikkalkula t-taxxa fuq l-income li jifdal ta’ dak ir-residenti, tapplika r-rata ta’ taxxa li kienet tkun tapplika kieku l-income eżentat ma jkunx ġie hekk eżentat. Madankollu, dik l-eżenzjoni għandha tkun tapplika għal qligħ imsemmi fil-paragrafu 4 tal-Artikolu 13 biss jekk tintwera t-taxxa attwali ta’ dak il-qligħ f’Malta.
 
 b) Meta residenti tal-Isvizzera jikseb mgħax li, kif hemm fid-dispożizzjonijiet tal-Artikolu 11, jista’ jiġi intaxxat f’Malta, l-Isvizzera għandha tippermetti, meta hekk tintalab tagħmel, ħelsien lil dak ir-residenti. Il-ħelsien jista’ jkun jikkonsisti:
 
@@ -510,8 +480,6 @@ Minkejja d-dispożizzjonijiet l-oħra ta’ dan il-Ftehim, benefiċċju taħt da
 
 \1. Iċ-ċittadini ta’ Stat Kontraenti m’gћandhom jiġu assoġġettati fl-iStat Kontraenti l-ieћor gћal ebda taxxa jew ebda ћtieġa li jkollha x’taqsam ma’ dan, li tkun diversa jew ta’ iktar piż mit-taxxa u ħtiġiet li jkollhom x’jaqsmu li dwarhom ċittadini ta’ dak l-iStat l-ieћor fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, huma jew jistgћu jkunu assoġġettati. Din id-dispożizzjoni gћandha, minkejja d-dispożizzjonijiet tal-Artikolu 1, tkun tapplika wkoll gћal persuni li ma jkunux residenti ta’ xi Stati Kontraenti wieħed jew tat-tnejn li huma.
 
-(KONFEDERAZZJONI SVIZZERA) [L.S.123.136 15
-
 \2. L-intaxxar fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-iStat Kontraenti l-ieћor m’gћandux jinġabar inqas favorevolment f’dak Istat l-ieћor mit-taxxa miġbura fuq impriżi ta’ dak l-iStat l-ieћor li jkun qiegћed iwettaq l-istess ativitajiet. Din id-dispożizzjonijiet m’gћandhiex tiftiehem bћala li tobbliga lil Stat Kontraenti li jikkonċedi lil residenti tal-iStat Kontraenti l-ieћor allowances, ħelsien u tnaqqis personali gћall-gћanijiet ta’ taxxa minћabba fl-istatus ċivili jew responsabbiltajiet familjari li dan jikkonċedi lir-residenti tiegћu.
 
 \3. Ħlief meta japplikaw d-dispożizzjonijiet tal-paragrafu 1 tal-Artikolu 9, il-paragrafu 8 tal-Artikolu 11, jew il-paragrafu 4 tal-Artikolu 12, mgћax, royalties u ћlasijiet oћra li jitћallsu minn impriża ta’ Stat Kontraenti lil residenti tal-iStat Kontraenti l-ieћor gћandhom, gћall-fini li jiġu stabbilit x’inhuma l-profitti taxxabbli ta’ dik l-impriża, jiġu mnaqqsa taћt l-istess kondizzjonijiet bћallikieku dawn kienu mћallsa lil residenti tal-iStat l-ewwel imsemmi.
@@ -536,9 +504,7 @@ Minkejja d-dispożizzjonijiet l-oħra ta’ dan il-Ftehim, benefiċċju taħt da
 
 **Skambju ta’ informazzjoni**
 
-\1. L-awtoritajiet kompetenti tal-iStati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tista’ tidher li tkun meћtieġa gћat-twettiq tad-dispożizzjonijiet ta’ dan il-Ftehim jew l-amministrazzjoni jew l-infurzar tal-liġijiet domestiċi li jirrigwardaw taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir taћthom ma jkunx kuntrarju gћall-Ftehim. L-iskambju ta’ informazzjoni m’huwiex ristrett bl-Artikolu 16 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
-
-\1.
+\1. L-awtoritajiet kompetenti tal-iStati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tista’ tidher li tkun meћtieġa gћat-twettiq tad-dispożizzjonijiet ta’ dan il-Ftehim jew l-amministrazzjoni jew l-infurzar tal-liġijiet domestiċi li jirrigwardaw taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir taћthom ma jkunx kuntrarju gћall-Ftehim. L-iskambju ta’ informazzjoni m’huwiex ristrett bl-Artikolu 1.
 
 \2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 mill-iStat Kontraenti gћandha tiġi trattata bћala waћda sigrieta bl-istess mod bћall-informazzjoni miksuba taћt il-liġijiet domestiċi ta’ dak l-iStat u gћandha tiġi żvelata biss lil persuni jew lil awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew fil-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-deċizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuh jew f’deċiżjonijiet gudizzjarji. Minkejja dak hawn qabel imsemmi, informazzjoni li tiġi riċevuta minn Stat Kontraenti tista’ tintuża għal finijiet oħra meta dik l-informazzjoni tista’ tiġi użata għal għanijiet oħra bħal dawk taħt il-liġijiet taż-żewġ Stati u l-awtorità kompetenti tal-iStat provditur tkun tawtorizza użu bħal dak.
 
@@ -558,9 +524,7 @@ b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew
 
 \1. Ebda haga f’dan il-Ftehim m’gћandha tolqot il-privileġġi fiskali tal-membri ta’ missjonijiet diplomatiċi jew ta’ kariġi konsulari taћt ir-regoli ġenerali tad-dritt internazzjonali jew taћt id-dispożizzjonijiet ta’ kull ftehim speċjali.
 
-\2. Minkejja d-dispożizzjonijiet tal-Artikolu 4, individwu li jkun membru ta’ missjoni diplomatika, kariga konsulari jew missjoni permanenti ta’ Stat Kontraenti li (KONFEDERAZZJONI SVIZZERA) [L.S.123.136 17
-
-jkun sitwat fl-iStat Kontraenti l-ieħor jew fi Stat terz m’għandu jitqies, għal-finijiet ta’ dan il-Ftehim, li jkun residenti tal-iStat li jkun qiegħed jibgħatu jirrappreżentah jekk:
+\2. Minkejja d-dispożizzjonijiet tal-Artikolu 4, individwu li jkun membru ta’ missjoni diplomatika, kariga konsulari jew missjoni permanenti ta’ Stat Kontraenti li jkun sitwat fl-iStat Kontraenti l-ieħor jew fi Stat terz m’għandu jitqies, għal-finijiet ta’ dan il-Ftehim, li jkun residenti tal-iStat li jkun qiegħed jibgħatu jirrappreżentah jekk:
 
 a) kif hemm fil-liġi internazzjonali huwa ma jkunx soġġett għat-taxxa fl-iStat li jkun qiegħed jirċevih dwar income minn għejjun minn barra dak l-iStat sitwati barra minn dak l-iStat, u
 
@@ -592,9 +556,7 @@ Dan il-Ftehim gћandu jibqa’ jseħħ sakemm jiġi terminat minn xi Stat Kontra
 
 a) gћar-rigward ta’ taxxi li jinżammu minn ras il-għajn fuq ammonti mħallsa jew akkreditati fl-ewwel jum ta’ Jannar jew wara tas-sena kalendarja li tkun taћbat minnufih wara s-sena li fiha jkun ingћata l-avviż;
 
-b) gћar-rigward ta’ taxxi oħra għas-snin ta’ taxxa li jibdew fl-ewwel jum 18 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
-
-ta’ Jannar jew wara tas-sena kalendarja li tkun taћbat minnufih wara s-sena li fiha jkun ingћata l-avviż.
+b) gћar-rigward ta’ taxxi oħra għas-snin ta’ taxxa li jibdew fl-ewwel jum ta’ Jannar jew wara tas-sena kalendarja li tkun taћbat minnufih wara s-sena li fiha jkun ingћata l-avviż.
 
 B’XIEHDA TA’ DAN is-sottoskritti, awtorizzati kif imiss biex jagћmlu dan, iffirmaw dan il-Ftehim.
 
@@ -632,8 +594,6 @@ Huwa mifhum li l-kliem "pensjonijiet" u "pensjoni" kif użati fl-Artikoli 18 u 1
 
 \4. fl-Artikolu 25
 
-(KONFEDERAZZJONI SVIZZERA) [L.S.123.136 19
-
 Fil-każ li konformement ma’ xi Qbil jew Ftehim magħmul ma’ xi pajjiż terz ieħor wara d-data tal-iffirmar ta’ dan il-Ftehim, Malta taqbel li tintroduċi klawsola ta’ arbitraġġ, dan il-paragrafu 5 li ġej għandu jiżdied ma’ dan il-Ftehim u għandu jkun japplika mid-data meta jidħol fis-seħħ dak il-Qbil jew Ftehim:
 
 "5. Meta,
@@ -664,9 +624,7 @@ l-awtoritajiet tat-taxxa tal-iStat li jkun qed jagħmel it-talba għandu jipprov
 
 (ii) il-perjodu ta’ żmien li dik l-informazzjoni tkun mitluba għalih;
 
-(iii) dikjarazzjoni tal-informazzjoni li tkun trid tinkiseb inkluża x-xorta tagħha u l-għamla kif l-iStat li jkun qed jagħmel it-talba ikun irid 20 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
-
-jirċevi dik l-informazzjoni mill-iStat li jkun qiegħed jintalab;
+(iii) dikjarazzjoni tal-informazzjoni li tkun trid tinkiseb inkluża x-xorta tagħha u l-għamla kif l-iStat li jkun qed jagħmel it-talba ikun irid jirċevi dik l-informazzjoni mill-iStat li jkun qiegħed jintalab;
 
 (iv) l-għan tat-taxxa li dwaru tkun qed tintalab dik l-informazzjoni;
 
@@ -694,9 +652,7 @@ Malta
 
 Il-Ministeru tal-Affarijiet Barranin ta’ Malta jippreżenta l-kumplimenti tiegħu lid- Dipartiment Federali tal-Affarijiet Barranin tal-Konfederazzjoni Svizzera u għandu l-unur li jirreferi għall-Ftehim bejn Malta u l-Konfederazzjoni Svizzera għall-evitar ta’ taxxa doppja dwar taxxi fuq l-income iffirmat fil-Belt Valletta fit-18 ta’ Diċembru 2008.
 
-Wara l-firma ta’ dak il-Ftehim iż-żewġ naħat qablu li għandu jkun hemm xi (KONFEDERAZZJONI SVIZZERA) [L.S.123.136 21
-
-tibdiliet importanti fit-test u li jkun preferibbli li jiġi ffirmat Ftehim ġdid li jkun jissostitwixxi dak tal-2008.
+Wara l-firma ta’ dak il-Ftehim iż-żewġ naħat qablu li għandu jkun hemm xi tibdiliet importanti fit-test u li jkun preferibbli li jiġi ffirmat Ftehim ġdid li jkun jissostitwixxi dak tal-2008.
 
 Il-Ftehim ġdid li qiegħed jiġi ffirmat illum bejn l-Ambaxxaturi rispettivi jirrifletti t-tibdiliet li kienu meħtieġa u li hemm qbil dwarhom bejn iż-żewġ pajjiżi.
 
@@ -731,7 +687,5 @@ Il-Ministeru tal-Affarijiet Barranin ta’ Malta jieħu din l-opportunità biex 
 Id-Dipartiment għandu l-unur jikkonferma li l-Ftehim bejn il-Konfederazzjoni Svizzera u Malta għall-evitar ta’ taxxa doppja dwar taxxi fuq l-income, iffirmat f’Ruma fil-25 ta’ Frar 2011, jissostitwixxi l-Ftehim għall-evitar ta’ taxxa doppja dwar taxxi fuq l-income iffirmat bejn iż-żewġ pajjiżi fit-18 ta’ Diċembru 2008, li qiegħed jiġi abrogat bih.
 
 Id-Dipartiment jieħu din l-opportunità biex iġedded lill-Ministeru kull assikurazzjoni tal-ogħla stima tiegħu.
-
-22 [L.S.123.136 (KONFEDERAZZJONI SVIZZERA)
 
 Berne, 2 ta’ Marzu 2011

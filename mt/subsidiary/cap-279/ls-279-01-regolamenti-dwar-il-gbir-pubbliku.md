@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ġbir Pubbliku"
-identifier: "S.L. 279.1"
+identifier: "S.L. 279.01"
 eli: "https://legislation.mt/eli/sl/279.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/279.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ġbir Pubbliku (S.L. 279.1)
+# Regolamenti dwar il-Ġbir Pubbliku (S.L. 279.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 279.01**
 

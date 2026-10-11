@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq Bastimenti u Inġenji ta' l-Ajru mal-Federazzjoni Svizzera (S.L. 123.18)
 
-U IN{ENJI TA’ L-AJRU MAL-FEDERAZZJONI SVIZZERA [ L.S.123.18
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.18**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**

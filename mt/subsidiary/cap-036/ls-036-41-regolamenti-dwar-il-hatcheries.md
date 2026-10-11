@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Hatcheries (S.L. 36.41)
 
-[L.S.36.41
-
 **LE{ISLAZZJONI SUSSIDJARJA 36.41**
 
 **REGOLAMENTI DWAR IL-HATCHERIES**
@@ -87,7 +85,7 @@ L.S.36.41]
 
 I\\da dawn il-hatcheries msemmija f’dan is-sub-regolament g]andhom jing]ataw fl-ewwel li`enza li tin]ar[ilhom g]al perijodu ta’ mhux aktar minn sentejn li matulu l-li`enzjati g]andhom itejjbu l-livell tal-fond tag]hom skond il-]ti[iet uniformi g]al hatcheries kif jidhru fil-partijiet (1) u (3) sa (27) murija fl-Ewwel Skeda ta’ dawn ir-Regolamenti.
 
-[L.S.36.41 L-EWWEL SKEDA
+## L-EWWEL SKEDA
 
 (Regolament 5)
 
@@ -167,7 +165,7 @@ L.S.36.41]
 
 (23) Il-li`enzjat li jkollu ismu re[istrat fir-re[istru tal-hatcheries g]andu j]alli sew lid-Direttur sew spettur awtorizzat mid-Direttur li jispezzjona l-fond u li jara sew ir-re[istri jew kull dokument ie]or li jrid u skond ma jitlob.
 
-(24) Meta d-Direttur jeleva xi kampjun minn [ewwa l-hatchery, g]andha ting]ata lil-li`enzjat ri`evuta g]al dawk il-kampjuni [L.S.36.41 elevati. Kull re[istrazzjoni tal-kampjuni elevati u r-ri\\ultati g]andhom ukoll jing]ataw lil-li`enzjat.
+(24) Meta d-Direttur jeleva xi kampjun minn [ewwa l-hatchery, g]andha ting]ata lil-li`enzjat ri`evuta g]al dawk il-kampjuni elevati. Kull re[istrazzjoni tal-kampjuni elevati u r-ri\\ultati g]andhom ukoll jing]ataw lil-li`enzjat.
 
 (25) G]andhom jin\\ammu dawn ir-re[istri [ewwa l-hatchery:
 

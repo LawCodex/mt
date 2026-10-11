@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Impieg għall-finijiet tal-Ordinanza dwar il-Pensjonijiet"
-identifier: "S.L. 93.1"
+identifier: "S.L. 93.01"
 eli: "https://legislation.mt/eli/sl/93.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/93.1/20240510/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Impieg għall-finijiet tal-Ordinanza dwar il-Pensjonijiet (S.L. 93.1)
-
-*1*
-
-L-ORDINANZA DWAR IL-PENSJONIJIET [L.S.93.01
+# Ordni dwar l-Impieg għall-finijiet tal-Ordinanza dwar il-Pensjonijiet (S.L. 93.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 93.01**
 

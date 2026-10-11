@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Rikonoxximent Reċiproku ta’ Ordnijiet ta’ Ffriżar u Ordnijiet ta’ Konfiska (S.L. 9.27)
 
-RIKONOXXIMENT REĊIPROKU TA’ ORDNIJIET TA’
-
-*1*
-
-FFRIŻAR U ORDNIJIET TA’ KONFISKA [L.S.9.27 LEĠISLAZZJONI SUSSIDJARJA 9.27
+**LEĠISLAZZJONI SUSSIDJARJA 9.27**
 
 **REGOLAMENTI DWAR IR-RIKONOXXIMENT**
 

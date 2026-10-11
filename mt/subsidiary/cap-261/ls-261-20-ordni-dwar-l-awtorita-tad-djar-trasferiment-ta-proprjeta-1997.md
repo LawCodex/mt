@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1997) (S.L. 261.20)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.20**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -89,7 +87,7 @@ llum hemm mibni l-fond numru 22, Vjal De La Cruz, u li tinsab delineata bl-a]mar
 
 (10) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern ta’ Santa Lu`ija, Neighbourhood II, kif hawn aktar ’il quddiem indikat -
 
-(a) Bi``a art tal-kejl ta’ madwar 119.9 metru kwadru mag]rufa b]ala Plot 9 Triq Katerina Vitale kantuniera ma’ Triq G]eneb id-Dib, li tmiss mit-Tramuntana ma’ proprjetà ta’ John Curmi, min-Nofs-in-Nhar ma’ Triq G]eneb id- Dib u mill-Punent ma’ proprjetà tal-Gvern, li fuqha llum hemm mibni l-fond numru 10, Triq Katerina Vitale kantuniera ma’ Triq G]eneb id- Dib, u li tinsab delineata bl-a]mar u markata P. (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 9 fuq L.D. 11/82/64;
+(a) Bi``a art tal-kejl ta’ madwar 119.9 metru kwadru mag]rufa b]ala Plot 9 Triq Katerina Vitale kantuniera ma’ Triq G]eneb id-Dib, li tmiss mit-Tramuntana ma’ proprjetà ta’ John Curmi, min-Nofs-in-Nhar ma’ Triq G]eneb id- Dib u mill-Punent ma’ proprjetà tal-Gvern, li fuqha llum hemm mibni l-fond numru 10, Triq Katerina Vitale kantuniera ma’ Triq G]eneb id- Dib, u li tinsab delineata bl-a]mar u markata P. 9 fuq L.D. 11/82/64;
 
 (b) Bi``a art tal-kejl ta’ madwar 114.7 metru kwadru mag]rufa b]ala Plot 31, Triq il- }annewija, li tmiss mit-Tramuntana ma’ proprjetà ta’ Joseph Battistino, min-Nofs-in- Nhar ma’ proprjetà ta’ P.T.M. International Ltd., u mill-Punent ma’ Triq il-}annewija, li fuqha llum hemm mibni l-fond numru 31, Triq il- }annewija, u li tinsab delineata bl-a]mar u markata P. 31 fuq L.D. 11/82/66;
 
@@ -123,7 +121,7 @@ tmiss mill-Majistral ma’ Triq l-Il[iem, mix- Xlokk ma’ proprjetà tal-Gvern 
 
 (17) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern ta’ Fleur de Lys, Santa Venera, kif hawn aktar ’il quddiem indikat -
 
-(a) Bi``a art tal-kejl ta’ madwar 138.98 metru kwadru mag]rufa b]ala Plot 18, Triq il-Palazz l- A]mar, li tmiss min-Nofs-in-Nhar ma’ Triq il- Palazz l-A]mar, mil-Lvant ma’ proprjetà ta’ (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 Edward Attard Flores u mill-Punent ma’ proprjetà ta’ Richard Muscat, li fuqha llum hemm mibni l-fond numru 18, Triq il-Palazz l- A]mar, Santa Venera, u li tinsab delineata bl-a]mar u markata P. 18 fuq L.D. 235/8l/12;
+(a) Bi``a art tal-kejl ta’ madwar 138.98 metru kwadru mag]rufa b]ala Plot 18, Triq il-Palazz l- A]mar, li tmiss min-Nofs-in-Nhar ma’ Triq il- Palazz l-A]mar, mil-Lvant ma’ proprjetà ta’ Edward Attard Flores u mill-Punent ma’ proprjetà ta’ Richard Muscat, li fuqha llum hemm mibni l-fond numru 18, Triq il-Palazz l- A]mar, Santa Venera, u li tinsab delineata bl-a]mar u markata P. 18 fuq L.D. 235/8l/12;
 
 (b) Bi``a art tal-kejl ta’ madwar 134.89 metru kwadru mag]rufa b]ala Plot 19, Triq il-Palazz l- A]mar, li tmiss min-Nofs-in-Nhar ma’ Triq il- Palazz l-A]mar, mil-Lvant ma’ proprjetà ta’ Carmel Pace u mill-Punent ma’ proprjetà ta’ Joseph Busuttil, li fuqha llum hemm mibni l-fond numru 19, Triq il-Palazz l-A]mar, Santa Venera, u li tinsab delineata bl-a]mar u markata P. 19 fuq L.D. 235/81/12;
 
@@ -189,7 +187,7 @@ Dawn il-flats jinsabu delineati bl-a]dar fuq L.D. 265/ 90/l. (HAM 714/88).
 
 (14) Flat numru 12, Blokk VII, Bieb B, Triq il-Buganvilla, San {wann (Tenement No. 71371).
 
-(15) Flat numru 3, Blokk 9, Bieb A, Triq it-Tulipani, San (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 {wann (Tenement No. 69892).
+(15) Flat numru 3, Blokk 9, Bieb A, Triq it-Tulipani, San {wann (Tenement No. 69892).
 
 (16) Flat numru 6, Blokk V, Triq il-Fuxa, Santa Lu`ija (Tenement No. 72087).
 
@@ -257,7 +255,7 @@ B’se]] mis-6 ta’ Frar, 1997:
 
 (a) Bi``a art tal-kejl ta’ madwar 140.74 metru kwadru inklu\\a art addizzjonali ta’ madwar 57.5 metru kwadru mag]rufa b]ala Plot 136 Triq l- G]org]ar, Santa Lu`ija, li tmiss mit-Tramuntana ma’ proprjetà ta’ Avertano Grech, mil-Lvant ma’ Triq l-G]org]ar, mill-Punent ma’ spazju miftu] pubbliku, fejn illum hemm mibni l-fond numru 3, Triq l-G]org]ar. Din il-bi``a art tinsab delineata bl-a]mar u markata P. 136 fuq L.D. 11/82/68. (HAP 215/96).
 
-(b) Bi``a art tal-kejl ta’ madwar 195.71 metru kwadru inklu\\a art addizzjonali ta’ madwar 60.5 metru kwadru mag]rufa b]ala Plot 139 u Sit A, Triq il-Prinjoli kantuniera ma’ Triq l-Ghorg]ar, Santa Lu`ija, li tmiss mit-Tramuntana ma’ proprjetà ta’ Carmel Degabriele, min-Nofs-in- Nhar ma’ Triq il-Prinjoli, mill-Punent ma’ Triq l-G]org]ar, fejn illum hemm mibni l-fond numru 57, Triq il-Prinjoli kantuniera ma’ Triq l- G]org]ar. Dik il-bi``a art u l-art addizzjonali (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 jinsabu delineati bl-a]mar u markati P. 139 u A rispettivament fuq L.D. 11/82/69. (HAP. 212/ 96).
+(b) Bi``a art tal-kejl ta’ madwar 195.71 metru kwadru inklu\\a art addizzjonali ta’ madwar 60.5 metru kwadru mag]rufa b]ala Plot 139 u Sit A, Triq il-Prinjoli kantuniera ma’ Triq l-Ghorg]ar, Santa Lu`ija, li tmiss mit-Tramuntana ma’ proprjetà ta’ Carmel Degabriele, min-Nofs-in- Nhar ma’ Triq il-Prinjoli, mill-Punent ma’ Triq l-G]org]ar, fejn illum hemm mibni l-fond numru 57, Triq il-Prinjoli kantuniera ma’ Triq l- G]org]ar. Dik il-bi``a art u l-art addizzjonali jinsabu delineati bl-a]mar u markati P. 139 u A rispettivament fuq L.D. 11/82/69. (HAP. 212/ 96).
 
 (5) Maisonette numru 7, Bini tal-Gvern, Triq it-Tabib Anton Tabone, Qasam Ta`-~awla, Rabat (Victoria), G]awdex (Tenement No. URB 272).
 
@@ -301,7 +299,7 @@ B’se]] mit-18 ta’ Marzu, 1997:
 
 (HAP 274/96).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (`) Bi``a art tal-kejl ta’ madwar 143.32 metru kwadru mag]rufa b]ala Plot 97 Triq Wied Babu kantuniera ma’ Triq Widnet il-Ba]ar, |urrieq, li tmiss mill-Majistral ma’ Triq Widnet il-Ba]ar, mil-Lbi` ma’ Triq Wied Babu u mix-Xlokk ma’ proprjetà ta’ Rokku Farrugia, li fuqha llum hemm mibni l-fond numru 97, Triq Wied Babu kantuniera ma’ Triq Widnet il-Ba]ar, u li tinsab delineata bl-a]mar u markata P. 97 fuq L.D. 198/81/16. (HAP 332/96).
+(`) Bi``a art tal-kejl ta’ madwar 143.32 metru kwadru mag]rufa b]ala Plot 97 Triq Wied Babu kantuniera ma’ Triq Widnet il-Ba]ar, |urrieq, li tmiss mill-Majistral ma’ Triq Widnet il-Ba]ar, mil-Lbi` ma’ Triq Wied Babu u mix-Xlokk ma’ proprjetà ta’ Rokku Farrugia, li fuqha llum hemm mibni l-fond numru 97, Triq Wied Babu kantuniera ma’ Triq Widnet il-Ba]ar, u li tinsab delineata bl-a]mar u markata P. 97 fuq L.D. 198/81/16. (HAP 332/96).
 
 (d) Bi``a art tal-kejl ta’ madwar 122.91 metru kwadru mag]rufa b]ala Plot 103 Triq il-Wied, |urrieq, li tmiss mit-Tramuntana ma’ Triq il- Wied, mix-Xlokk ma’ proprjetà ta’ Joseph Mary Muscat u mill-Majistral ma’ proprjetà ta’ Joseph u Mary Carmela Micallef, li fuqha llum hemm mibni l-fond numru 103, Triq il-Wied, u li tinsab delineata bl-a]mar u markata P. 103 fuq L.D. 198/81/16. (HAP 232/96).
 
@@ -371,7 +369,7 @@ B’se]] mill-14 ta’ April, 1997:
 
 (11) L-art li [ejja li tag]mel parti mill-bi``iet ta’ art mag]rufin b]ala Land ta’ l-Isqof, limiti Kirkop, kif hawn aktar ’il quddiem indikat -
 
-(a) Bi``a art tal-kejl ta’ madwar 234 metru kwadru mag]rufa b]ala Plot 3, Triq Valletta, Kirkop, li tmiss mill-Majjistral f’parti ma’ proprjetà ta’ Andrew Brincat u f’parti ma’ proprjetà ta’ (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 William Axiaq, mix-Xlokk ma’ proprjetà ta’ George Bezzina u mil-Lbi` ma’ Triq Valletta, li fuqha llum hemm mibni l-fond numru 40, Triq Valletta, Kirkop, u li tinsab delineata bl-a]mar u markata Pl. 3 fuq L.D. 24/97/1;
+(a) Bi``a art tal-kejl ta’ madwar 234 metru kwadru mag]rufa b]ala Plot 3, Triq Valletta, Kirkop, li tmiss mill-Majjistral f’parti ma’ proprjetà ta’ Andrew Brincat u f’parti ma’ proprjetà ta’ William Axiaq, mix-Xlokk ma’ proprjetà ta’ George Bezzina u mil-Lbi` ma’ Triq Valletta, li fuqha llum hemm mibni l-fond numru 40, Triq Valletta, Kirkop, u li tinsab delineata bl-a]mar u markata Pl. 3 fuq L.D. 24/97/1;
 
 (b) Bi``a art tal-kejl ta’ madwar 126.15 metru kwadru mag]rufa b]ala Plot 9, Sqaq Sant’An[lu, Kirkop, li tmiss mill-Grigal ma’ proprjetà ta’ George Sammut, mix-Xlokk ma’ Sqaq Sant’An[lu u mill-Majistral ma’ proprjetà ta’ Leonard Falzon, li fuqha llum hemm mibni l-fond numru 9, Sqaq Sant’An[lu, Kirkop, u li tinsab delineata bl-a]mar u markata Pl. 9 fuq L.D. 24/97/1;
 
@@ -423,7 +421,7 @@ delineata bl-a]dar u markata A fuq L.D. 8/97;
 
 (13) Id-dar bin-numru 23, Triq il-Ma]lu[, Qasam tal-Bini tal-Gvern, Tas-Sg]ajtar, Naxxar (Tenement No. 68602).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (14) Flat numru 12, Blokk D1, Triq id-Duluri, Pietà (Tenement No. 69797).
+(14) Flat numru 12, Blokk D1, Triq id-Duluri, Pietà (Tenement No. 69797).
 
 (15) Id-dar bin-numru 13, Vjal in-Naspli, San {wann (Tenement No. 65081).
 
@@ -469,7 +467,7 @@ Joseph Cachia et, min-Nofs-in-Nhar ma’ Triq il- Gladjoli u mil-Lbi` ma’ prop
 
 (HAP 389/96).
 
-(26) Bi``a art tal-kejl ta’ madwar 125.8 metru kwadru mag]rufa b]ala Plot No. 29 fi Triq i\\-|inja, u sit adja`enti ta’ madwar 27 metru kawdru, li jaghmlu parti mill-Qasam tad-Djar tal-Gvern ta’ Santa Lu`ija, Neighbourhood I, limiti ta’ Santa Lu`ija, liema Plot No. 29 tmiss mill-Grigal ma’ Triq i\\-|inja mill- Majistral ma’ proprjetà ta’ Alfred Whelpdale u mix- Xlokk ma’ proprjetà ta’ Michael Camilleri, u s-sit adja`enti imiss mill-Grigal ma’ Triq i\\-|inja, mill- Majistral ma’ triq pubblika u mix-Xlokk ma’ proprjetà (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 ta’ Alfred Whelpdale, li fuqhom illum hemm mibni l-fond numru 2, Triq i\\-|inja, Santa Lu`ija, u li tinsab delineata bl-a]mar u markata P. 29 u "A" fuq L.D. 11/ 82/61. (HAP 503/96).
+(26) Bi``a art tal-kejl ta’ madwar 125.8 metru kwadru mag]rufa b]ala Plot No. 29 fi Triq i\\-|inja, u sit adja`enti ta’ madwar 27 metru kawdru, li jaghmlu parti mill-Qasam tad-Djar tal-Gvern ta’ Santa Lu`ija, Neighbourhood I, limiti ta’ Santa Lu`ija, liema Plot No. 29 tmiss mill-Grigal ma’ Triq i\\-|inja mill- Majistral ma’ proprjetà ta’ Alfred Whelpdale u mix- Xlokk ma’ proprjetà ta’ Michael Camilleri, u s-sit adja`enti imiss mill-Grigal ma’ Triq i\\-|inja, mill- Majistral ma’ triq pubblika u mix-Xlokk ma’ proprjetà ta’ Alfred Whelpdale, li fuqhom illum hemm mibni l-fond numru 2, Triq i\\-|inja, Santa Lu`ija, u li tinsab delineata bl-a]mar u markata P. 29 u "A" fuq L.D. 11/ 82/61. (HAP 503/96).
 
 (27) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern tan-Nigret, limiti |urrieq, kif hawn aktar ’il quddiem indikat -
 
@@ -519,7 +517,7 @@ Gvern, Ta’ {iorni, San {iljan (Tenement No. 68045). (12) Id-dar bin-numru 29, 
 
 (16) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern tan-Nigret, |urrieq, kif hawn aktar ’l quddiem indikat -
 
-(a) Bi``a art tal-kejl ta’ madwar 176.7 metru kwadru mag]rufa b]ala Plot 40, u sit wara l-istess Plot mag]rufa b]ala sit A, tal-kejl ta’ madwar 8 metri kwadri, fi Triq Xandru D’Amato (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 kantuniera ma’ Triq Wied Babu |urrieq, liema plot tmiss mill-Majistral ma’ Triq Xandru D’Amato, mil-Lbi` ma’ Triq Wied Babu, u mix- Xlokk ma’ wesg]a pubblika, li fuqhom illum hemm mibni l-fond numru 40, Triq Xandru D’Amato kantuniera ma’ Triq Wied Babu, |urrieq, u li jinsabu delineati bl-a]mar u markati b]ala Plot 40 u "A" rispettivament fuq L.D. 198/ 81/17. (HAP 530/96).
+(a) Bi``a art tal-kejl ta’ madwar 176.7 metru kwadru mag]rufa b]ala Plot 40, u sit wara l-istess Plot mag]rufa b]ala sit A, tal-kejl ta’ madwar 8 metri kwadri, fi Triq Xandru D’Amato kantuniera ma’ Triq Wied Babu |urrieq, liema plot tmiss mill-Majistral ma’ Triq Xandru D’Amato, mil-Lbi` ma’ Triq Wied Babu, u mix- Xlokk ma’ wesg]a pubblika, li fuqhom illum hemm mibni l-fond numru 40, Triq Xandru D’Amato kantuniera ma’ Triq Wied Babu, |urrieq, u li jinsabu delineati bl-a]mar u markati b]ala Plot 40 u "A" rispettivament fuq L.D. 198/ 81/17. (HAP 530/96).
 
 (b) Bi``a art tal-kejl ta’ madwar 133.26 metru kwadru mag]rufa b]ala Plot 44, u sit wara l-istess Plot, mag]rufa b]ala sit D, tal-kejl ta’ madwar 6 metri kwadri fi Triq Xandru D’Amato, |urrieq, liema Plot tmiss mill-Majistral ma’ Triq Xandru D’Amato, mil-Lbi` ma’ proprjetà ta’ Joseph Zerafa, u mill-Grigal f’parti ma’ proprjetà ta’ Carmela Briffa u f’parti ma’ proprjetà tal-Gvern, li fuqhom illum hemm mibni l-fond numru 44, Triq Xandru D’Amato, |urrieq, u li jinsabu delineati bl-a]mar u markati b]ala Plot 44 u "D" rispettivament fuq L.D. 198/ 81/17. (HAP 409/96).
 
@@ -539,7 +537,7 @@ proprjetà ta’ Vincent Sciberras, mil-Lbi` ma’ proprjetà ta’ Carmelo Spit
 
 (k) Bi``a art tal-kejl ta’ madwar l33.14 metru kwadru mag]rufa b]ala Plot 117, Triq il-Kangu, |urrieq, li tmiss mill-Grigal ma’ proprjetà ta’ Victor Gauci, mil-Lbi` ma’ proprjetà ta’ Emanuel u M’Grazia Zerafa, u mill-Majistral ma’ Triq il-Kangu, li fuqha llum hemm mibni l-fond numru 117, Triq il-Kangu, |urrieq, u li tinsab delineata bl-a]mar u markata P. 117 fuq L.D. 198/81/16. (HAP 469/96).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (l) Bi``a art tal-kejl ta’ madwar 133.14 metru kwadru mag]rufa b]ala Plot 120, Triq il-Kangu, |urrieq, li tmiss mill-Majistral ma’ proprjetà ta’ Joseph Sammut, mil-Lbi` ma’ proprjetà ta’ Anthony Attard, u mill-Majistral ma’ Triq il- Kangu, li fuqha llum hemm mibni l-fond numru 120, Triq il-Kangu, |urrieq, u li tinsab delineata bl-a]mar u markata P. 120 fuq L.D. 198/81/16.
+(l) Bi``a art tal-kejl ta’ madwar 133.14 metru kwadru mag]rufa b]ala Plot 120, Triq il-Kangu, |urrieq, li tmiss mill-Majistral ma’ proprjetà ta’ Joseph Sammut, mil-Lbi` ma’ proprjetà ta’ Anthony Attard, u mill-Majistral ma’ Triq il- Kangu, li fuqha llum hemm mibni l-fond numru 120, Triq il-Kangu, |urrieq, u li tinsab delineata bl-a]mar u markata P. 120 fuq L.D. 198/81/16.
 
 (HAP 451/96).
 
@@ -611,7 +609,7 @@ B’se]] mis-17 ta’ Lulju, 1997:
 
 (25) Flat numru 1, Blokk I, Bieb A (12), Misrah Awrekarja, San {wann (Tenement No. 64993 - H.A. 692/95).
 
-(26) Flat numru 11, Blokk VIII, Bieb B, Triq il-Ballut, San (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 {wann (Tenement No. 68970 - H.A. 454/96).
+(26) Flat numru 11, Blokk VIII, Bieb B, Triq il-Ballut, San {wann (Tenement No. 68970 - H.A. 454/96).
 
 (27) Flat numru 7, Entratura F, Appartamenti 21 ta’ Settembru, 1964, Triq Dun Frans Camilleri, Ta’ |wejt, San {wann (Tenement No. 76734 - H.A. 558/95).
 
@@ -685,7 +683,7 @@ B’se]] mill-31 ta’ Lulju, 1997:
 
 (2) Flat numru 6 f’numru 177, Triq San Kristofru, Valletta (Tenement No. 62978 - H.A. 37/97).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (3) Bi``a art tal-kejl ta’ madwar 123.91 metru kwadru mag]rufa b]ala Plot No. 32, Triq il-Palazz l-A]mar, li tag]mel parti mill-Qasam tad-Djar tal-Gvern fi Fleur-de-Lys, Santa Venera, li tmiss minn Nofs-in-Nhar ma’ Triq il-Palazz l-A]mar mil-Lvant ma’ proprjetà tal- Gvern u mill-Punent ma’ proprjetà ta’ Mario Bonello, li fuqha llum hemm mibni l-fond numru 32, Triq il- Palazz l-A]mar, Santa Venera, u li tinsab delineata bl-a]mar u markata P. 32 fuq L.D. 235/81/12. (HAP 479/ 96).
+(3) Bi``a art tal-kejl ta’ madwar 123.91 metru kwadru mag]rufa b]ala Plot No. 32, Triq il-Palazz l-A]mar, li tag]mel parti mill-Qasam tad-Djar tal-Gvern fi Fleur-de-Lys, Santa Venera, li tmiss minn Nofs-in-Nhar ma’ Triq il-Palazz l-A]mar mil-Lvant ma’ proprjetà tal- Gvern u mill-Punent ma’ proprjetà ta’ Mario Bonello, li fuqha llum hemm mibni l-fond numru 32, Triq il- Palazz l-A]mar, Santa Venera, u li tinsab delineata bl-a]mar u markata P. 32 fuq L.D. 235/81/12. (HAP 479/ 96).
 
 (4) Bi``a art tal-kejl ta’ madwar 118.15 metru kwadru mag]rufa b]ala Plot 18, Triq Aka`ja, San {wann, li tag]mel parti mill-Qasam tad-Djar tal-Gvern f’San {wann, Neighbourhood I, li tmiss mit-Tramuntana ma’ proprjetà ta’ Joseph D. Caruana, minn Nofs-in- Nhar ma’ proprjetà ta’ Salvina Marguerat, u mill- Punent ma’ Triq Aka`ja, li fuqha llum hemm mibni l-fond numru 189, Triq Aka`ja, San {wann, u li tinsab delineata bl-a]mar u markata P. 18 fuq L.D. 135/81/ 46. (HAP 351/96).
 
@@ -717,7 +715,7 @@ Bonnici, li fuqha llum hemm mibni l-fond numru 50, Triq Aka`ja, San {wann, u li 
 
 (HAP 637/96).
 
-(d) Bi``a art tal-kejl ta’ madwar 162.9 metru kwadru mag]rufa b]ala Plot No. 165, u \\ew[ siti, li wie]ed minnhom hu mag]ruf b]ala "M" tal-kejl ta’ madwar 18.5 metru kwadru, u li l-ie]or hu mag]ruf b]ala "H" tal-kejl ta’ madwar 30 metru kwadru, fi Triq il-{ja`inti, San (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 {wann, li jmissu mix-Xlokk ma’ Triq il- {ja`inti, mill- Majistral ma’ Triq il-Qronfol u mil-Lbi` ma’ proprjetà ta’ Francesco Micallef, li fuqhom illum hemm mibni l-fond numru 165, Triq il-{ja`inti, San {wann, u li jinsabu delineati bl-a]mar u markati P. 165, M u H fuq L.D. 128/80/22. (HAP 32/96).
+(d) Bi``a art tal-kejl ta’ madwar 162.9 metru kwadru mag]rufa b]ala Plot No. 165, u \\ew[ siti, li wie]ed minnhom hu mag]ruf b]ala "M" tal-kejl ta’ madwar 18.5 metru kwadru, u li l-ie]or hu mag]ruf b]ala "H" tal-kejl ta’ madwar 30 metru kwadru, fi Triq il-{ja`inti, San {wann, li jmissu mix-Xlokk ma’ Triq il- {ja`inti, mill- Majistral ma’ Triq il-Qronfol u mil-Lbi` ma’ proprjetà ta’ Francesco Micallef, li fuqhom illum hemm mibni l-fond numru 165, Triq il-{ja`inti, San {wann, u li jinsabu delineati bl-a]mar u markati P. 165, M u H fuq L.D. 128/80/22. (HAP 32/96).
 
 (e) Bi``a art tal-kejl ta’ madwar 169.5 metru kwadru mag]rufa b]ala Plot No. 169, u sit addizzjonali tal-kejl ta’ madwar 38 metru kwadru, fi Triq il-{ja`inti, San {wann, li jmissu mit-Tramuntana f’parti ma’ proprjetà ta’ Joseph Agius u fil-parti l-o]ra ma’ proprjetà ta’ Anthony Sammut, mix-Xlokk ma’ Triq il- {ja`inti, u minn Nofs-in-Nhar ma’ proprjetà ta’ Anthony Gellel, li fuqhom illum hemm mibni l-fond numru 169, Triq il-{ja`inti, San {wann, u liema bi``a art u sit jinsabu delineati bl-a]mar u markati P. 169 u D rispettivament fuq L.D. 128/ 80/22. (HAP 40/96).
 
@@ -751,7 +749,7 @@ Bonnici, li fuqha llum hemm mibni l-fond numru 50, Triq Aka`ja, San {wann, u li 
 
 (11) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern Ta’ Erba’ Mwie\\eb, limiti San Pawl il-Ba]ar, kif hawn aktar ’il quddiem indikat -
 
-(a) Bi``a art tal-kejl ta’ madwar 192.7 metru (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 kwadru mag]rufa b]ala Plot No. 1, Triq i`- ~ag]aq, li tmiss mill-Majistral ma’ Triq i`- ~ag]aq, mil-Lbi` ma’ proprjetà ta’ Joseph Farrugia, u mix-Xlokk f’parti ma’ proprjetà ta’ Victor Deguara u fil-parti l-o]ra ma’ proprjetà ta’ Anthony Borg, li fuqha llum hemm mibni l-fond numru 1, Triq i`-~ag]aq, San Pawl il- Ba]ar, u li tinsab delineata bl-a]mar u markata P. 1 fuq L.D. 84/87/2. (HAP 579/96).
+(a) Bi``a art tal-kejl ta’ madwar 192.7 metru kwadru mag]rufa b]ala Plot No. 1, Triq i`- ~ag]aq, li tmiss mill-Majistral ma’ Triq i`- ~ag]aq, mil-Lbi` ma’ proprjetà ta’ Joseph Farrugia, u mix-Xlokk f’parti ma’ proprjetà ta’ Victor Deguara u fil-parti l-o]ra ma’ proprjetà ta’ Anthony Borg, li fuqha llum hemm mibni l-fond numru 1, Triq i`-~ag]aq, San Pawl il- Ba]ar, u li tinsab delineata bl-a]mar u markata P. 1 fuq L.D. 84/87/2. (HAP 579/96).
 
 (b) Bi``a art tal-kejl ta’ madwar 183.54 metru kwadru mag]rufa b]ala Plot No. 3, Triq i`- ~ag]aq, li tmiss mill-Majistral ma’ Triq i`- ~ag]aq, mil-Lbi` ma’ proprjetà ta’ Joseph Cachia, u mill-Grigal ma’ proprjetà ta’ Joseph Farrugia, li fuqha llum hemm mibni l-fond numru 3, Triq i`-~ag]aq, San Pawl il-Ba]ar, u li tinsab delineata bl-a]mar u markata P. 3 fuq L.D. 84/87/2. (HAP 412/96).
 
@@ -777,7 +775,7 @@ Bonnici, li fuqha llum hemm mibni l-fond numru 50, Triq Aka`ja, San {wann, u li 
 
 (k) Bi``a art tal-kejl ta’ madwar 130.85 metru kwadru mag]rufa b]ala Plot No. 15, Triq i\\- |ernieq, li tmiss mill-Grigal ma’ proprjetà ta’ Joseph Portelli, mil-Lbi` ma’ proprjetà ta’ Carmelo Gauci, u mix-Xlokk ma’ Triq i\\- |ernieq, li fuqha llum hemm mibni l-fond numru 15, Triq i\\-|ernieq, San Pawl il-Ba]ar, u li tinsab delineata bl-a]mar u markata P. 15 fuq L.D. 84/87/2. (HAP 257/96).
 
-(l) Bi``a art tal-kejl ta’ madwar 181.79 metru kwadru mag]rufa b]ala Plot No. 16, Triq i\\- |ernieq, li tmiss mill-Grigal ma’ proprjetà ta’ Wistin Muscat and Sons Ltd, mix-Xlokk ma’ (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 Triq i\\-|ernieq, u mil-Lbi` f’parti ma’ proprjetà ta’ Saviour Sammut u fil-parti l-o]ra ma’ proprjetà ta’ Emanuel Micallef, li fuqha llum hemm mibni l-fond numru 16, Triq i\\-|ernieq, San Pawl il-Ba]ar, u li tinsab delineata bl-a]mar u markata P. 16 fuq L.D. 84/87/2. (HAP 213/ 96).
+(l) Bi``a art tal-kejl ta’ madwar 181.79 metru kwadru mag]rufa b]ala Plot No. 16, Triq i\\- |ernieq, li tmiss mill-Grigal ma’ proprjetà ta’ Wistin Muscat and Sons Ltd, mix-Xlokk ma’ Triq i\\-|ernieq, u mil-Lbi` f’parti ma’ proprjetà ta’ Saviour Sammut u fil-parti l-o]ra ma’ proprjetà ta’ Emanuel Micallef, li fuqha llum hemm mibni l-fond numru 16, Triq i\\-|ernieq, San Pawl il-Ba]ar, u li tinsab delineata bl-a]mar u markata P. 16 fuq L.D. 84/87/2. (HAP 213/ 96).
 
 (m) Bi``a art tal-kejl ta’ madwar 179.59 metru kwadru mag]rufa b]ala Plot No. 17, Triq i\\- |ernieq, li tmiss mix-Xlokk ma’ Triq i\\- |ernieq, mill-Grigal ma’ proprjetà ta’ Paul Fenech, u mil-Lbi` ma’ proprjetà ta’ Joseph Portelli, li fuqha llum hemm mibni l-fond numru 17, Triq i\\-|ernieq, San Pawl il-Ba]ar, u li tinsab delineata bl-a]mar u markata P. 17 fuq L.D. 84/87/2. (HAP 292/96).
 
@@ -805,7 +803,7 @@ mill-Majistral ma’ Triq il-{i\\i, mill-Grigal ma’ Vjal il-Labour, u mill-Lbi
 
 (f) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 12, Triq il- Qronfol, li tmiss mill-Grigal ma’ proprjetà ta’ John Rapa, mix-Xlokk ma’ Triq il-Qronfol, u mill-Majistral ma’ proprjetà ta’ Joseph Cauchi, li fuqha llum hemm mibni l-fond numru 12, Triq il-Qronfol, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 12 fuq L.D. 19/97. (HAP 568/96).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (g) Bi``a art tal-kejl ta’ madwar 214.9 metru kwadru mag]rufa b]ala Plot No. 13, Triq Tal- }amrija, kantuniera ma’ triq il-Qronfol, li tmiss mill-Majistral ma’ proprjetà ta’ Teddy Grima, mix-Xlokk ma’ Triq il-Qronfol, u mil-Lbi` ma’ Triq Tal-}amrija, li fuqha llum hemm mibni l-fond numru 13, Triq Tal-}amrija, kantuniera ma’ Triq il-Qronfol, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 13 fuq L.D. 19/97. (HAP 342/96).
+(g) Bi``a art tal-kejl ta’ madwar 214.9 metru kwadru mag]rufa b]ala Plot No. 13, Triq Tal- }amrija, kantuniera ma’ triq il-Qronfol, li tmiss mill-Majistral ma’ proprjetà ta’ Teddy Grima, mix-Xlokk ma’ Triq il-Qronfol, u mil-Lbi` ma’ Triq Tal-}amrija, li fuqha llum hemm mibni l-fond numru 13, Triq Tal-}amrija, kantuniera ma’ Triq il-Qronfol, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 13 fuq L.D. 19/97. (HAP 342/96).
 
 (h) Bi``a art tal-kejl ta’ madwar 175.64 metru kwadru mag]rufa b]ala Plot No. 14, Triq Tal- }amrija, li tmiss mill-Majistral ma’ proprjetà ta’ John Azzopardi, mix-Xlokk ma’ proprjetà ta’ Teddy Grima, u mil-Lbi` ma’ Triq Tal-}amrija, li fuqha llum hemm mibni l-fond numru 14, Triq Tal-}amrija, Xewkija, u li tinsab delineata bl-a]mar u markata No. 14 fuq L.D. 19/97. (HAP 396/96).
 
@@ -837,7 +835,7 @@ B’se]] mill-4 ta’ Settembru, 1997:
 
 Blokk N, li jikkonsisti fi tmien flats, kull wie]ed minnhom a``essibbli minn bieb intern b’numru minn 1 sa 8, liema blokk hu a``essibbli minn entratura komuni bla ebda numru uffi`jali i\\da li g]andha l-isem "Blokk N" fuqha, u li jmiss mill- Grigal u mill-Majistral ma’ triq pubblika u mix- Xlokk ma’ proprjetà tal-Gvern;
 
-Blokk O, li jikkonsisti fi tmien flats, kull wie]ed minnhom a``essibbli minn bieb intern b’numru minn 1 sa 8, liema blokk hu a``essibbli minn (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 entratura komuni bla ebda numru uffi`jali i\\da li g]andha l-isem "Blokk O" fuqha, u li jmiss mill- Majistral u mix-Xlokk ma’ proprjetà tal-Gvern u mill-Grigal ma’ triq pubblika;
+Blokk O, li jikkonsisti fi tmien flats, kull wie]ed minnhom a``essibbli minn bieb intern b’numru minn 1 sa 8, liema blokk hu a``essibbli minn entratura komuni bla ebda numru uffi`jali i\\da li g]andha l-isem "Blokk O" fuqha, u li jmiss mill- Majistral u mix-Xlokk ma’ proprjetà tal-Gvern u mill-Grigal ma’ triq pubblika;
 
 Blokk P, li jikkonsisti f’sitt flats, kull wie]ed minnhom a``essibbli minn bieb intern b’numru minn 1 sa 6, liema blokk hu a``essibbli minn entratura komuni bla ebda numru uffi`jali i\\da li g]andha l-isem "Blokk P" fuqha, u li jmiss mill- Majistral ma’ proprjetà tal-Gvern, mill-Grigal ma’ triq pubblika u mix-Xlokk ma’ Triq il- Gir[enti.
 
@@ -871,7 +869,7 @@ Dawn il-blokkijiet inbnew fuq proprjetà tal-Gvern, li qabel kienet Rural Teneme
 
 (g) Bi``a art tal-kejl ta’ madwar 214.9 metru kwadru mag]rufa b]ala Plot No. 31, Vjal il- Labour kantuniera ma’ Triq in-Nar`is, li tmiss mill-Grigal ma’ Vjal il-Labour, mix-Xlokk ma’ Triq in-Nar`is, u mill-Majistral ma’ proprjetà ta’ Angelo Saliba, li fuqha llum hemm mibni l-fond numru 31, Vjal il-Labour kantuniera ma’ Triq in-Nar`is, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 31 fuq L.D. 19/97. (HAP 268/96).
 
-(h) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 34, Triq in- Nar`is, li tmiss mill-Grigal ma’ proprjetà ta’ J. Grima, mix-Xlokk ma’ Triq in-Nar`is, u mil- Lbi` ma’ proprjetà ta’ John Spiteri, li fuqha llum hemm mibni l-fond numru 34, Triq in-Nar`is, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 34 fuq L.D. 19/97. (HAP 64/96). (i) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 35, Triq in- Nar`is, li tmiss mill-Grigal ma’ proprjetà ta’ Joseph Pace, mix-Xlokk ma’ Triq in-Nar`is, u mil-Lbi` ma’ proprjetà ta’ John Spiteri, li fuqha llum hemm mibni l-fond numru 35, Triq in- Nar`is, Xewkija u li tinsab delineata bl-a]mar u markata Nru. 35 fuq L.D. 19/97. (HAP 65/96). (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (j) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 36, Triq in- Nar`is, li tmiss mill-Grigal ma’ proprjetà ta’ George Zahra, mix-Xlokk ma’ Triq in-Nar`is, u mill-Majistral ma’ proprjetà ta’ Carmel Grima, li fuqha llum hemm mibni l-fond numru 36, Triq in-Nar`is, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 36 fuq L.D. 19/97. (HAP 611/96).
+(h) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 34, Triq in- Nar`is, li tmiss mill-Grigal ma’ proprjetà ta’ J. Grima, mix-Xlokk ma’ Triq in-Nar`is, u mil- Lbi` ma’ proprjetà ta’ John Spiteri, li fuqha llum hemm mibni l-fond numru 34, Triq in-Nar`is, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 34 fuq L.D. 19/97. (HAP 64/96). (i) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 35, Triq in- Nar`is, li tmiss mill-Grigal ma’ proprjetà ta’ Joseph Pace, mix-Xlokk ma’ Triq in-Nar`is, u mil-Lbi` ma’ proprjetà ta’ John Spiteri, li fuqha llum hemm mibni l-fond numru 35, Triq in- Nar`is, Xewkija u li tinsab delineata bl-a]mar u markata Nru. 35 fuq L.D. 19/97. (HAP 65/96). (j) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 36, Triq in- Nar`is, li tmiss mill-Grigal ma’ proprjetà ta’ George Zahra, mix-Xlokk ma’ Triq in-Nar`is, u mill-Majistral ma’ proprjetà ta’ Carmel Grima, li fuqha llum hemm mibni l-fond numru 36, Triq in-Nar`is, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 36 fuq L.D. 19/97. (HAP 611/96).
 
 (k) Bi``a art tal-kejl ta’ madwar 214.9 metru kwadru mag]rufa b]ala Plot No. 37, Triq Tal- }amrija kantuniera ma’ Triq in-Nar`is, li tmiss mill-Grigal ma’ proprjetà ta’ John Spiteri, mix- Xlokk ma’ Triq in-Nar`is, u mil-Lbi` ma’ Triq Tal-}amrija, li fuqha llum hemm mibni l-fond numru 37, Triq Tal-}amrija kantuniera ma’ Triq in-Nar`is, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 37 fuq L.D. 19/97. (HAP 94/96).
 
@@ -909,7 +907,7 @@ Dawn il-blokkijiet inbnew fuq proprjetà tal-Gvern, li qabel kienet Rural Teneme
 
 (HAP 106/96).
 
-(b) Bi``a art tal-kejl ta’ madwar 403.98 metru kwadru mag]rufa b]ala Plot No. 54, Triq R. Caruana Dingli kantuniera ma’ Triq il-{i\\i, li tmiss mit-Tramuntana ma’ Triq R. Caruana Dingli, min-Nofs-in-Nhar ma’ proprjetà ta’ Joseph Grech, u mill-Punent ma’ Triq il-{i\\i, li fuqha llum hemm mibni l-fond numru 54, Triq R. Caruana Dingli kantuniera ma’ Triq il-{i\\i, (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 San {wann, u li tinsab delineata bl-a]mar u markata P. 54 fuq L.D. 128/80/23. (HAP 194/ 96).
+(b) Bi``a art tal-kejl ta’ madwar 403.98 metru kwadru mag]rufa b]ala Plot No. 54, Triq R. Caruana Dingli kantuniera ma’ Triq il-{i\\i, li tmiss mit-Tramuntana ma’ Triq R. Caruana Dingli, min-Nofs-in-Nhar ma’ proprjetà ta’ Joseph Grech, u mill-Punent ma’ Triq il-{i\\i, li fuqha llum hemm mibni l-fond numru 54, Triq R. Caruana Dingli kantuniera ma’ Triq il-{i\\i, San {wann, u li tinsab delineata bl-a]mar u markata P. 54 fuq L.D. 128/80/23. (HAP 194/ 96).
 
 *\12.*
 
@@ -953,7 +951,7 @@ B’se]] mit-22 ta’ Settembru, 1997:
 
 (b) Bi``a art tal-kejl ta’ madwar 143.98 metru kwadru mag]rufa b]ala Plot No. 58, Misra] il- Mafkar, li tmiss mill-Majistral ma’ proprjetà ta’ Victor Agius et, mil-Lbi` ma’ Misra] il-Mafkar, u mix-Xlokk ma’ proprjetà ta’ Joseph u Rose Bonello, li fuqha llum hemm mibni l-fond numru 58, Misra] il-Mafkar, Dingli, u li tinsab delineata bl-a]mar u markata P. 58 fuq L.D. 36/ 82/5. (HAP 266/96).
 
-(13) Bi``a art tal-kejl ta’ madwar 138.75 metru kwadru mag]rufa b]ala Plot No. 3, Triq is-Sienja, li tag]mel parti mill-Qasam tad-Djar tal-Gvern, Qormi (Chatillion Area), li tmiss mill-Majistral ma’ proprjetà ta’ Giuseppa Agius, mil-Lbi` ma’ Triq is-Sienja, u (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 mix-Xlokk ma’ proprjetà ta’ Anthony u Cettina Schriha, li fuqha llum hemm mibni l-fond numru 20, Triq is-Sienja, Qormi, u li tinsab delineata bl-a]mar u markata Plot 3 fuq L.D. 152/83/11. (HAP 283/96).
+(13) Bi``a art tal-kejl ta’ madwar 138.75 metru kwadru mag]rufa b]ala Plot No. 3, Triq is-Sienja, li tag]mel parti mill-Qasam tad-Djar tal-Gvern, Qormi (Chatillion Area), li tmiss mill-Majistral ma’ proprjetà ta’ Giuseppa Agius, mil-Lbi` ma’ Triq is-Sienja, u mix-Xlokk ma’ proprjetà ta’ Anthony u Cettina Schriha, li fuqha llum hemm mibni l-fond numru 20, Triq is-Sienja, Qormi, u li tinsab delineata bl-a]mar u markata Plot 3 fuq L.D. 152/83/11. (HAP 283/96).
 
 (14) Bi``a art tal-kejl ta’ madwar 107.18 metru kwadru mag]rufa b]ala Plot No. 124, Triq il-{i\\i, li tag]mel parti mill-Qasam tad-Djar tal-Gvern, f’San {wann, Neighbourhood II, li tmiss mill-Grigal ma’ Triq il- {i\\i, mil-Lbi` ma’ Vjal ir-Rihan, u mix-Xlokk ma’ proprjetà ta’ Norman Worley, li fuqha llum hemm mibni l-fond numru 124, Triq il-{i\\i, San {wann, u li tinsab delineata bl-a]mar u markata P. 124 fuq L.D. 128/80/21 . (HAP 278/96).
 
@@ -1001,7 +999,7 @@ B’se]] mit-22 ta’ Settembru, 1997:
 
 (b) Bi``a art tal-kejl ta’ madwar 160.58 metru kwadru mag]rufa b]ala Plot No. 114, Triq is- Sifa, li tmiss mill-Majistral ma’ proprjetà ta’ John Caruana, mil-Lbi` ma’ Triq is-Sifa, u mix- Xlokk ma’ proprjetà ta’ Anthony Cutajar, li fuqha llum hemm mibni l-fond numru 114, Triq is-Sifa, Mellie]a, u li tinsab delineata bl-a]mar u markata P. 114 fuq L.D. 383/91/8. (HAP 250/ 96).
 
-(`) Bi``a art tal-kejl ta’ madwar 160.58 metru (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 kwadru mag]rufa b]ala Plot No. 157, Triq Vincenzo Ciappara, li tmiss mit-Tramuntana ma’ proprjetà ta’ Carmel Pisani, min-Nofs-in- Nhar ma’ proprjetà ta’ Joseph Camenzuli, u mill-Punent ma’ Triq Vincenzo Ciappara, li fuqha llum hemm mibni l-fond numru 157, Triq Vincenzo Ciappara, Mellie]a, u li tinsab delineata bl-a]mar u markata P. 157 fuq L.D. 383/91/10. (HAP 352/96).
+(`) Bi``a art tal-kejl ta’ madwar 160.58 metru kwadru mag]rufa b]ala Plot No. 157, Triq Vincenzo Ciappara, li tmiss mit-Tramuntana ma’ proprjetà ta’ Carmel Pisani, min-Nofs-in- Nhar ma’ proprjetà ta’ Joseph Camenzuli, u mill-Punent ma’ Triq Vincenzo Ciappara, li fuqha llum hemm mibni l-fond numru 157, Triq Vincenzo Ciappara, Mellie]a, u li tinsab delineata bl-a]mar u markata P. 157 fuq L.D. 383/91/10. (HAP 352/96).
 
 (31) Flat numru 5, Bini tal-Gvern Ta’ Pascarella, Blokk A, Qormi (Tenement No. 70405 - H.A. 191/95).
 
@@ -1039,7 +1037,7 @@ B’se]] mit-2 ta’ Ottubru, 1997:
 
 (a) Bi``a art tal-kejl ta’ madwar 175.64 metru kwadru mag]rufa b]ala Plot No. 41, Triq tal- }amrija, li tmiss mill-Grigal ma’ proprjetà ta’ Carmel Grima, mix-Xlokk ma’ proprjetà ta’ John Xuereb, u mil-Lbi` ma’ Triq Tal-}amrija, li fuqha llum hemm mibni l-fond numru 41, Triq tal-}amrija, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 41 fuq L.D. 19/97. (HAP 515/96).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (b) Bi``a art tal-kejl ta’ madwar 214.9 metru kwadru mag]rufa b]ala Plot No. 43, Triq tal- }amrija kantuniera ma’ Triq il-Qronfol, li tmiss mill-Grigal ma’ proprjetà ta’ Carmel Grima, mil-Lbi` ma’ Triq Tal-}amrija, u mill-Majistral ma’ Triq il-Qronfol, li fuqha llum hemm mibni l-fond numru 43, Triq tal-}amrija kantuniera ma’ Triq il-Qronfol, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 43 fuq L.D. 19/97. (HAP 130/96).
+(b) Bi``a art tal-kejl ta’ madwar 214.9 metru kwadru mag]rufa b]ala Plot No. 43, Triq tal- }amrija kantuniera ma’ Triq il-Qronfol, li tmiss mill-Grigal ma’ proprjetà ta’ Carmel Grima, mil-Lbi` ma’ Triq Tal-}amrija, u mill-Majistral ma’ Triq il-Qronfol, li fuqha llum hemm mibni l-fond numru 43, Triq tal-}amrija kantuniera ma’ Triq il-Qronfol, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 43 fuq L.D. 19/97. (HAP 130/96).
 
 (`) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 45, Triq il- Qronfol, li tmiss mill-Majistral ma’ Triq il- Qronfol, mix-Xlokk ma’ proprjetà ta’ George Zahra, u mil-Lbi` ma’ proprjetà ta’ Carmel Grima, li fuqha llum hemm mibni l-fond numru 45, Triq il-Qronfol, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 45 fuq L.D. 19/97. (HAP 67/96).
 
@@ -1063,7 +1061,7 @@ mix-Xlokk ma’ proprjetà ta’ John Pace, u mill- Majistral ma’ proprjetà t
 
 (e) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 84, Triq Widnet il-Ba]ar, li tmiss mill-Majistral ma’ proprjetà ta’ Angele u Carmel Cauchi, mix- Xlokk ma’ Triq Widnet il-Ba]ar, u mill-Grigal ma’ proprjetà ta’ Jesmond Xuereb, li fuqha llum hemm mibni l-fond numru 84, Triq Widnet il- Ba]ar, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 84 fuq L.D. 19/97. (HAP 385/96). (f) Bi``a art tal-kejl ta’ madwar 214.9 metru kwadru mag]rufa b]ala Plot No. 85, Triq Tal- }amrija kantuniera ma’ Triq Widnet il-Ba]ar, li tmiss mill-Grigal ma’ proprjetà ta’ Carmel Borg, mix-Xlokk ma’ Triq Widnet il-Ba]ar, u mil-Lbi` ma’ Triq Tal-}amrija, li fuqha llum hemm mibni l-fond numru 85, Triq Tal-}amrija kantuniera ma’ Triq Widnet il-Ba]ar, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 85 fuq L.D. 19/97. (HAP 24/96).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (g) Bi``a art tal-kejl ta’ madwar 175.64 metru kwadru mag]rufa b]ala Plot No. 88, Triq Tal- }amrija, li tmiss mill-Majistral ma’ proprjetà ta’ Carmel Xuereb, mil-Lbi` ma’ Triq Tal-}amrija, u mix-Xlokk ma’ proprjetà ta’ Paul Attard, li fuqha llum hemm mibni l-fond numru 88, Triq Tal-}amrija, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 88 fuq L.D. 19/97. (HAP 327/96).
+(g) Bi``a art tal-kejl ta’ madwar 175.64 metru kwadru mag]rufa b]ala Plot No. 88, Triq Tal- }amrija, li tmiss mill-Majistral ma’ proprjetà ta’ Carmel Xuereb, mil-Lbi` ma’ Triq Tal-}amrija, u mix-Xlokk ma’ proprjetà ta’ Paul Attard, li fuqha llum hemm mibni l-fond numru 88, Triq Tal-}amrija, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 88 fuq L.D. 19/97. (HAP 327/96).
 
 (h) Bi``a art tal-kejl ta’ madwar l63.04 metru kwadru mag]rufa b]ala Plot No. 92, Triq is- Sardinell, li tmiss mill-Grigal ma’ proprjetà ta’ John Attard, mix-Xlokk ma’ proprjetà ta’ Carmel Borg, u mill-Majistral ma’ Triq is- Sardinell, li fuqha llum hemm mibni l-fond numru 92, Triq is-Sardinell, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 92 fuq L.D. 19/97. (HAP 209/96).
 
@@ -1091,7 +1089,7 @@ delineata bl-a]mar u markata Nru. 93 fuq L.D. 19/97. (HAP 23/96).
 
 (a) Bi``a art tal-kejl ta’ madwar 175.64 metru kwadru mag]rufa b]ala Plot No. 51, Vjal il- Labour, li tmiss mil-Grigal ma’ Vjal il-Labour, mix-Xlokk ma’ proprjetà ta’ Joseph Agius, u mill-Majistral ma’ proprjetà ta’ Joseph Vella, li fuqha llum hemm mibni l-fond numru 51, Vjal il-Labour, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 51 fuq L.D. 19/97. (HAP 170/96).
 
-(b) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 58, Triq is- (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 Sardinell, li tmiss mill-Grigal ma’ proprjetà ta’ Michael Xuereb, mix-Xlokk ma’ Triq is- Sardinell, u mil-Lbi` ma’ proprjetà ta’ Raymond Buttigieg, li fuqha llum hemm mibni l-fond numru 58, Triq is-Sardinell, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 58 fuq L.D. 19/97. (HAP 120/96).
+(b) Bi``a art tal-kejl ta’ madwar 163.04 metru kwadru mag]rufa b]ala Plot No. 58, Triq is- Sardinell, li tmiss mill-Grigal ma’ proprjetà ta’ Michael Xuereb, mix-Xlokk ma’ Triq is- Sardinell, u mil-Lbi` ma’ proprjetà ta’ Raymond Buttigieg, li fuqha llum hemm mibni l-fond numru 58, Triq is-Sardinell, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 58 fuq L.D. 19/97. (HAP 120/96).
 
 (`) Bi``a art tal-kejl ta’ madwar 175.64 metru kwadru mag]rufa b]ala Plot No. 65, Triq Tal- }amrija, li tmiss mill-Majistral ma’ proprjetà ta’ Rose Azzopardi, mix-Xlokk ma’ proprjetà ta’ Emanuel Cauchi, u mil-Lbi` ma’ Triq Tal- }amrija, li fuqha llum hemm mibni l-fond numru 65, Triq Tal-}amrija, Xewkija, u li tinsab delineata bl-a]mar u markata Nru. 65 fuq L.D. 19/97. (HAP 76/96).
 
@@ -1123,7 +1121,7 @@ delineata bl-a]mar u markata Nru. 93 fuq L.D. 19/97. (HAP 23/96).
 
 (7) Bi``a art tal-kejl ta’ madwar 114.69 metru kwadru mag]rufa b]ala Plot No. 20, Triq il-Pensjeri, Neighbourhood II, Qasam tad-Djar tal-Gvern, Santa Lu`ija, li tmiss mill-Majistral ma’ proprjetà ta’ George u Antonia Galdes, mix-Xlokk ma’ proprjetà ta’ Michael Galea, u mill-Grigal ma’ Triq il-Pensjeri, li fuqha llum hemm mibni l-fond numru 20, Triq il- Pensjeri, Santa Lu`ija, u li tinsab delineata bl-a]mar u markata P. 20 fuq L.D. 11/82/67. (HAP 20/97).
 
-(8) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar Ta’ (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 Pennellu, Mellie]a, kif hawn aktar ’il quddiem indikat:
+(8) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar Ta’ Pennellu, Mellie]a, kif hawn aktar ’il quddiem indikat:
 
 (a) Bi``a art tal-kejl ta’ madwar 166.86 metru kwadru mag]rufa b]ala Plot No. 17, Triq il- Mit]na l-{dida, li tmiss mill-Grigal ma’ Triq il- Mit]na l-{dida, mix-Xlokk ma’ proprjetà ta’ Emanuel Vella, u mill-Majistral ma’ proprjetà ta’ Paul Borg, li fuqha llum hemm mibni l-fond numru 17, Triq il-Mit]na l-{dida, Mellie]a, u li tinsab delineata bl-a]mar u markata P. 17 fuq L.D. 383/91/6. (HAP 616/96).
 
@@ -1145,7 +1143,7 @@ fuqha llum hemm mibni l-fond numru 47, Triq Napuljun Caruana Dingli, Mellie]a, u
 
 (j) Bi``a art tal-kejl ta’ madwar 160.58 metru kwadru mag]rufa b]ala Plot No. 81, Triq Napuljun Caruana Dinali, li tmiss mill-Grigal ma’ Triq Napuljun Caruana Dingli, mix-Xlokk ma’ proprjetà ta’ David u Audrey Sciberras, u mill-Majistral ma’ proprjetà ta’ Joseph Sammut, li fuqha llum hemm mibni l-fond numru 81, Triq Napuljun Caruana Dingli, Mellieha, u li tinsab delineata bl-a]mar u markata P. 81 fuq L.D. 383/91/9. (HAP 617/96).
 
-(k) Bi``a art tal-kejl ta’ madwar 160.58 metru kwadru mag]rufa b]ala Plot No. 83, Triq Napuljun Caruana Dingli, li tmiss mill-Grigal ma’ Triq Napuljun Caruana Dingli, mix-Xlokk ma’ proprjetà ta’ Concetta Sant, u mill-Majistral ma’ proprjetà ta’ David u Audrey Sciberras, li fuqha llum hemm mibni l-fond numru 83, Triq Napuljun Caruana Dingli, Mellieha, u li tinsab (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 delineata bl-a]mar u markata P. 83 fuq L.D. 383/91/9. (HAP 420/96).
+(k) Bi``a art tal-kejl ta’ madwar 160.58 metru kwadru mag]rufa b]ala Plot No. 83, Triq Napuljun Caruana Dingli, li tmiss mill-Grigal ma’ Triq Napuljun Caruana Dingli, mix-Xlokk ma’ proprjetà ta’ Concetta Sant, u mill-Majistral ma’ proprjetà ta’ David u Audrey Sciberras, li fuqha llum hemm mibni l-fond numru 83, Triq Napuljun Caruana Dingli, Mellieha, u li tinsab delineata bl-a]mar u markata P. 83 fuq L.D. 383/91/9. (HAP 420/96).
 
 (l) Bi``a art tal-kejl ta’ madwar 160.58 metru kwadru mag]rufa b]ala Plot No. 85, Triq Napuljun Caruana Dingli, li tmiss mill-Grigal ma’ Triq Napuljun Caruana Dingli, mix-Xlokk ma’ proprjetà ta’ David u Mary Bonanno, u mill- Majistral ma’ proprjetà ta’ Concetta Sant li fuqha llum hemm mibni l-fond numru 85, Triq Napuljun Caruana Dingli, Mellie]a, u li tinsab delineata bl-a]mar u markata P. 85 fuq L.D. 383/91/9. (HAP 418/96).
 
@@ -1173,7 +1171,7 @@ kwadru mag]rufa b]ala Plot No. 95, Triq Vincenzo Ciappara, li tmiss min-Nofs-in-
 
 (18) Flat numru 6, Blokk Nru. 20, Bieb 7, Triq il-Gardenja, Neighbourhood I, Santa Lu`ija (Tenement No. 64440 - H.A. 72/97).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (19) Dar bin-numru 1, Triq id-Dalja, Neighbourhood I, Santa Lu`ija (Tenement No. 64503 - H.A. l25/96).
+(19) Dar bin-numru 1, Triq id-Dalja, Neighbourhood I, Santa Lu`ija (Tenement No. 64503 - H.A. l25/96).
 
 (20) Bi``a art tal-kejl ta’ madwar 211.78 metru kwadru u bi``a art addizzjonali ta’ madwar 37 metru kwadru mag]rufa b]ala Plot No. 166 u Sit, Triq il-{ja`inti, Neighbourhood II, Qasam tad-Djar tal-Gvern, San {wann, liema bi``a art u sit it-tnejn flimkien imissu mit-Tramuntana ma’ proprjetà ta’ Emanuel Grech, min-Nofs-in-Nhar ma’ proprjetà ta’ Carmelo Grech, u mil-Lvant ma’ Triq il-{ja`inti, li fuqhom illum hemm mibni l-fond numru 166, Triq il-{ja`inti, San {wann, u li jinsabu delineati bl-a]mar u markati P. 166 u "G" fuq L.D. 128/80/22. (H.A.P. 51/96).
 
@@ -1229,7 +1227,7 @@ Far\\ina, Qormi (Tenement No. 74036 - H.A. 503/96). (12) Flat numru 5, Blokk Y1,
 
 (25) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern ta’ Triq i`-~avi, Mqabba, kif hawn aktar ’il quddiem indikat -
 
-(a) Bi``a art tal-kejl ta’ madwar 130.06 metru kwadru mag]rufa b]ala Plot No. 8, Triq i`-~avi, li tmiss mill-Majistral ma’ Triq i`-~avi, mil- Lbi` ma’ proprjetà ta’ Emanuel Azzopardi, u mill-Grigal ma’ proprjetà ta’ Anthony Farrugia, li fuqha llum hemm mibni l-fond numru 8, Triq i`-~avi, Mqabba, u li tinsab delineata bl-a]mar u markata P. 8 fuq L.D. 89/86/6. (HAP 381/96). (b) Bi``a art tal-kejl ta’ madwar 124.04 metru kwadru mag]rufa b]ala Plot No. 9, Triq i`-~avi, li tmiss mill-Majistral ma’ Triq i`-~avi, mil- Lbi` ma’ proprjetà ta’ Carmel Briffa, u mill- Grigal ma’ proprjetà ta’ Roque Farrugia, li fuqha llum hemm mibni l-fond numru 9, Triq i`- ~avi, Mqabba, u li tinsab delineata bl-a]mar u markata P. 9 fuq L.D. 89/86/6. (HAP 589/96). (26) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern, Chatillion Area, Qormi, kif hawn aktar ’il (TRASFERIMENT TA’ PROPRJETÀ [ L.S.261.20 quddiem indikat -
+(a) Bi``a art tal-kejl ta’ madwar 130.06 metru kwadru mag]rufa b]ala Plot No. 8, Triq i`-~avi, li tmiss mill-Majistral ma’ Triq i`-~avi, mil- Lbi` ma’ proprjetà ta’ Emanuel Azzopardi, u mill-Grigal ma’ proprjetà ta’ Anthony Farrugia, li fuqha llum hemm mibni l-fond numru 8, Triq i`-~avi, Mqabba, u li tinsab delineata bl-a]mar u markata P. 8 fuq L.D. 89/86/6. (HAP 381/96). (b) Bi``a art tal-kejl ta’ madwar 124.04 metru kwadru mag]rufa b]ala Plot No. 9, Triq i`-~avi, li tmiss mill-Majistral ma’ Triq i`-~avi, mil- Lbi` ma’ proprjetà ta’ Carmel Briffa, u mill- Grigal ma’ proprjetà ta’ Roque Farrugia, li fuqha llum hemm mibni l-fond numru 9, Triq i`- ~avi, Mqabba, u li tinsab delineata bl-a]mar u markata P. 9 fuq L.D. 89/86/6. (HAP 589/96). (26) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern, Chatillion Area, Qormi, kif hawn aktar ’il quddiem indikat -
 
 ( ) Bi``a art tal-kejl ta’ madwar 169.40 metru 16, Vjal De La Cruz, li tmiss mill-Grigal ma’ proprjet ta’ Maria Anne Aloisio, mil-Lbi` ma’ proprjet ta’ Anthony Borg, u mix-Xlokk ma’ Vjal De La Cruz, li fuqha llum hemm mibni l-tinsab delineata bl-a]mar u markata "P. 11 now 16" fuq L.D. 152/83/11. (HAP 556/96).
 
@@ -1309,7 +1307,7 @@ Saliba, li fuqha llum hemm mibni l-fond numru 43, Triq i`-~ikk, Naxxar, u li tin
 
 (`) Bi``a art tal-kejl ta’ madwar 307.2 metru kwadru mag]rufa b]ala Plot No. 4, Triq Im[arr ix-Xini, li tmiss mit-Tramuntana ma’ Triq Im[arr ix-Xini, min-Nofs-in-Nhar ma’ proprjetà tal-Gvern, u mil-Lvant ma’ proprjetà ta’ Publius Hili, li fuqha llum hemm mibni l-fond numru 4, Triq Im[arr ix-Xini, Xewkija, u li tinsab delineata bl-a]mar u markata P. 4 fuq L.D. 65/ 89/4. (HAP 77/96).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 (d) Bi``a art tal-kejl ta’ madwar 307.2 metru kwadru mag]rufa b]ala Plot No. 5, Triq Im[arr ix-Xini, li tmiss mit-Tramuntana ma’ Triq Im[arr ix-Xini, min-Nofs-in-Nhar ma’ proprjetà tal-Gvern, u mil-Lvant ma’ proprjetà ta’ Paul Hili, li fuqha llum hemm mibni l-fond numru 5, Triq Im[arr ix-Xini, Xewkija, u li tinsab delineata bl-a]mar u markata P. 5 fuq L.D. 65/ 89/4. (HAP 621/96).
+(d) Bi``a art tal-kejl ta’ madwar 307.2 metru kwadru mag]rufa b]ala Plot No. 5, Triq Im[arr ix-Xini, li tmiss mit-Tramuntana ma’ Triq Im[arr ix-Xini, min-Nofs-in-Nhar ma’ proprjetà tal-Gvern, u mil-Lvant ma’ proprjetà ta’ Paul Hili, li fuqha llum hemm mibni l-fond numru 5, Triq Im[arr ix-Xini, Xewkija, u li tinsab delineata bl-a]mar u markata P. 5 fuq L.D. 65/ 89/4. (HAP 621/96).
 
 (e) Bi``a art tal-kejl ta’ madwar 312.34 metru kwadru mag]rufa b]ala Plot No. 6, Triq Im[arr ix-Xini, li tmiss mit-Tramuntana ma’ Triq Im[arr ix-Xini, min-Nofs-in-Nhar ma’ proprjetà tal-Gvern, u mill-Punent ma’ proprjetà ta’ Publius Hili, li fuqha llum hemm mibni l-fond numru 6, Triq Im[arr ix-Xini, Xewkija, u li tinsab delineata bl-a]mar u markata P. 6 fuq L.D. 65/89/4. (HAP 206/96).
 
@@ -1431,7 +1429,7 @@ Ellul Mercer, li tmiss mill-Majistral ma’ Triq Pawlu Ebejer, mil-Lbi` ma’ pa
 
 (f) Bi``a art tal-kejl ta’ madwar 172.74 metru kwadru mag]rufa b]ala Plot No. 14, Triq {u\\e Ellul Mercer, li tmiss mill-Majistral ma’ Triq Pawlu Ebejer, mix-Xlokk ma’ Triq {u\\e Ellul Mercer, u mill-Grigal ma’ proprjetà ta’ Emanuel Sammut, li fuqha llum hemm mibni l-fond numru l4, Triq {u\\e Ellul Mercer, Dingli, u li tinsab delineata bl-a]mar u markata P. 14 fuq L.D. 36/82/8. (HAP 382/96).
 
-(TRASFERIMENT TA’ PROPRJETÀ [ L.S.261.20 (g Bi``a art tal-kejl ta’ madwar 172.74 metru kwadru mag]rufa b]ala Plot No. 15, Triq {u\\e Pawlu Ebejer, mix-Xlokk ma’ Triq {u\\e Ellul Mercer, mil-Lbi` ma’ proprjet ta’ Carmel Deguara, li fuqha llum hemm mibni l-fond tinsab delineata bl-a]mar u markata P. 15 fuq L.D. 36/82/8. (HAP 238/96).
+(g Bi``a art tal-kejl ta’ madwar 172.74 metru kwadru mag]rufa b]ala Plot No. 15, Triq {u\\e Pawlu Ebejer, mix-Xlokk ma’ Triq {u\\e Ellul Mercer, mil-Lbi` ma’ proprjet ta’ Carmel Deguara, li fuqha llum hemm mibni l-fond tinsab delineata bl-a]mar u markata P. 15 fuq L.D. 36/82/8. (HAP 238/96).
 
 h)
 
@@ -1475,9 +1473,7 @@ Sifa, u mix-Xlokk ma’ proprjetà ta’ Anthony Bartolo, li fuqha llum hemm mib
 
 (f) Bi``a art tal-kejl ta’ madwar 160.58 metru kwadru mag]rufa b]ala Plot No. 127, Triq is- Sifa, li tmiss mit-Tramuntana ma’ proprjetà ta’ Carmel Bonanno, min-Nofs-in-Nhar ma’ proprjetà ta’ Raymond Bartolo, u mil-Lvant ma’ Triq is-Sifa, li fuqha llum hemm mibni l-fond numru 127, Triq is-Sifa, Mellie]a, u li tinsab delineata bl-a]mar u markata P. 127 fuq L.D. 383/91/10. (HAP 234/96).
 
-(g) Bi``a art tal-kejl ta’ madwar 160.58 metru (TRASFERIMENT TA’ PROPRJETÀ [ L.S.261.20 kwadru mag]rufa b]ala Plot No. 130, Triq is- Sifa, li tmiss mit-Tramuntana ma’ proprjet ta’ Anthony Fenech, min-Nofs-in-Nhar ma’ à ta’ Giuseppe Sammut, u mil-Lvant ma’ numru 130, Triq is-Sifa, Mellie]a, u li tinsab delineata bl-a]mar u markata P. 130 fuq L.D.
-
-(h Bi``a art tal-kejl ta’ madwar 159.39 metru kwadru mag]rufa b]ala Plot No. 131, Triq is- Tramuntana ma’ proprjetà
+(g) Bi``a art tal-kejl ta’ madwar 160.58 metru kwadru mag]rufa b]ala Plot No. 130, Triq is- Sifa, li tmiss mit-Tramuntana ma’ proprjet ta’ Anthony Fenech, min-Nofs-in-Nhar ma’ à ta’ Giuseppe Sammut, u mil-Lvant ma’ numru 130, Triq is-Sifa, Mellie]a, u li tinsab delineata bl-a]mar u markata P. 130 fuq L.D. (h Bi``a art tal-kejl ta’ madwar 159.39 metru kwadru mag]rufa b]ala Plot No. 131, Triq is- Tramuntana ma’ proprjetà
 
 Nofs-in-Nhar ma’ Triq il-Muna, u mil-Lvant ma’ Triq is-Sifa, li fuqha llum hemm mibni l-il-Muna, Mellie]a, u li tinsab delineata bl-a]mar u markata P. 131 fuq L.D. 383/91/l0. (HAP 539/ (i Bi``a art tal-kejl ta’ madwar 159.39 metru kwadru mag]rufa b]ala Plot No. 156, Triq Muna, li tmiss mit-Tramuntana ma’ proprjetà Martin Pirotta, min-Nofs-in-Nhar ma’ Triq il- Muna, u mill-Punent ma’ Triq Vincenzo numru 156, Triq Vincenzo Ciappara kantuniera ma’ Triq il-Muna, Mellie]a, u li tinsab delineata (HAP 461/96).
 
@@ -1583,7 +1579,7 @@ ma’ passa[[ pubbliku, li fuqhom illum hemm mibni l-fond numru 18, Triq il-Marr
 
 (b) Bi``a art tal-kejl ta’ madwar 147.19 metru kwadru mag]rufa b]ala Plot No. 60, Triq in- Nar`is, li tmiss mill-Majistral ma’ proprjetà ta’ Joseph Xuereb, mil-Lbi` ma’ Triq in-Nar`is, u mix-Xlokk ma’ proprjetà ta’ Emanuel Borg, li fuqha llum hemm mibni l-fond numru 13, Triq in-Nar`is, Santa Lu`ija, u li tinsab delineata bl-a]mar u markata P. 60 fuq L.D. 11/82/72. (HAP 547/96).
 
-(9) Bi``a art tal-kejl ta’ madwar 273.34 metru kwadru mag]rufa b]ala Plot No. 137, Triq i1-G]org]ar kantuniera ma’ Triq il-Prinjoli, li tag]mel parti mill- Qasam tad-Djar tal-Gvern f’Santa Lu`ija, Phase III, Santa Lu`ija, li tmiss mit-Tramuntana ma’ proprjetà ta’ Charles Sargent, min-Nofs-in-Nhar ma’ Triq il- Prinjoli, u mil-Lvant ma’ Triq 1-G]org]ar, li fuqha llum hemm mibni l-fond numru 1, Triq l-G]org]ar kantuniera ma’ Triq il-Prinjoli, Santa Lu`ija, u li tinsab delineata bl-a]mar u markata P. 137 fuq L.D. (TRASFERIMENT TA’ PROPRJETÀ) (1997) [ L.S.261.20 11/82/68. (HAP 666/96).
+(9) Bi``a art tal-kejl ta’ madwar 273.34 metru kwadru mag]rufa b]ala Plot No. 137, Triq i1-G]org]ar kantuniera ma’ Triq il-Prinjoli, li tag]mel parti mill- Qasam tad-Djar tal-Gvern f’Santa Lu`ija, Phase III, Santa Lu`ija, li tmiss mit-Tramuntana ma’ proprjetà ta’ Charles Sargent, min-Nofs-in-Nhar ma’ Triq il- Prinjoli, u mil-Lvant ma’ Triq 1-G]org]ar, li fuqha llum hemm mibni l-fond numru 1, Triq l-G]org]ar kantuniera ma’ Triq il-Prinjoli, Santa Lu`ija, u li tinsab delineata bl-a]mar u markata P. 137 fuq L.D. 11/82/68. (HAP 666/96).
 
 (10) Bi``a art tal-kejl ta’ madwar 168.61 metru kwadru mag]rufa b]ala Plot No. 8, Triq it-Trin`etta, li tag]mel parti mill-Qasam tad-Djar Ta’ Mliet, Mosta, li tmiss min-Nofs in-Nhar ma’ Triq it-Trin`etta, mil- Lvant ma’ proprjetà ta’ Julius u Assunta Vassallo, u mill-Punent ma’ proprjetà ta’ Marco u M’Theresa Sayan, li fuqha llum hemm mibni l-fond numru 8, Triq it-Trin`etta, Mosta, u li tinsab delineata bl-a]mar u markata P. 8 fuq L.D. 203/80/10. (HAP 23/97).
 
@@ -1755,7 +1751,7 @@ hemm mibni l-fond nmnru ?9, Triq il-{iebja Rumana, |ejtun, u li tinsab delineata
 
 (f) Bi``a art tal-kejl ta’ madwar 114.34 metru kwadru mag]rufa b]ala Plot No. 43, Triq Tursin il-Bir, li tmiss min-Nofs-in-Nhar ma’ Triq Tursin il-Bir, mil-Lvant ma’ proprjetà ta’ Odette Gafa, u mill-Punent ma’ proprjetà ta’ Carmelo Cassar, li fuqha llum hemm mibni l-fond numru 43, Triq Tursin il-Bir, |ejtun, u li tinsab delineata bl-a]mar u markata P. 43 fuq L.D. 7/ 80/84. (HAP 591 /96).
 
-(g) Bi``a art tal-kejl ta’ madwar 121.81 metru kwadru mag]rufa b]ala Plot No. 44, Triq Tursin il-Bir, li tmiss min-Nofs-in-Nhar ma’ Triq Tursin il-Bir, mil-Lvant ma’ proprjetà ta’ (TRASFERIMENT TA’ PROPRJETÀ [ L.S.261.20 Angelo Cassar, u mill-Punent ma’ proprjetà
+(g) Bi``a art tal-kejl ta’ madwar 121.81 metru kwadru mag]rufa b]ala Plot No. 44, Triq Tursin il-Bir, li tmiss min-Nofs-in-Nhar ma’ Triq Tursin il-Bir, mil-Lvant ma’ proprjetà ta’ Angelo Cassar, u mill-Punent ma’ proprjetà
 
 Gvern, li fuqha llum hemm mibni l-fond numru 44, Triq Tursin il-Bir, |ejtun, u li tinsab 80/84. (HAP 134/96).
 
@@ -1891,7 +1887,7 @@ kwadru mag]rufa b]ala Plot No. 84, Triq it- Tulipan, li tmiss mill-Grigal ma’ 
 
 (d) Bi``a art tal-kejl ta’ madwar 156.06 metru kwadru u sit ta’ madwar 54 metru kwadru mag]rufa b]ala Plot No. 226 u Sit C, Triq il- Bruka, it-tnejn imissu mill-Majistral ma’ proprjetà ta’ David u Mary Ciantar, mix-Xlokk ma’ proprjetà ta’ Henry Peter Spiteri, u mill- Grigal ma’ Triq il-Bruka, Ii fuqha llum hemm mibni l-fond numru 25, Triq il-Bruka, Santa Lu`ija, u li jinsabu delineati bl-a]mar u markati P. 226 u "C" fuq L.D. 11/82/75. (HAP 553/96). (e) Bi``a art tal-kejl ta’ madwar 179.77 metru kwadru u sit ta’ madwar 88 metru kwadru mag]rufa b]ala Plot No. 228 u Sit E, Triq il- Bruka, it-tnejn imissu mill-Grigal ma’ Triq il- Bruka, mix-Xlokk f’parti ma’ proprjetà ta’ Joseph Cachia u fil-parti 1-o]ra ma’ proprjetà ta’ Joseph Ellul, u mill-Majistral ma’ proprjetà ta’ Henry Peter Spiteri, li fuqha llum hemm mibni l-fond numru 17, Triq il-Bruka, Santa Lu`ija, u li jinsabu delineati bl-a]mar u markati P. 228 u "E" fuq L.D. 11/82/75. (HAP 674/96). (f) Bi``a art tal-kejl ta’ madwar 184.38 metru kwadru u sit ta’ madwar 28 metru kwadru mag]rufa b]ala Plot No. 231 u Sit H, Triq il- Bruka, it-tnejn imissu mill-Grigal ma’ Triq il- Bruka, mil-Lbi` ma’ proprjetà ta’ Joseph Caruana Smith, u mill-Majjistral ma’ proprjetà ta’ Dominic Cutajar, li fuqha llum hemm mibni l-fond numru 9, Triq il-Bruka, Santa Lu`ija, u li jinsabu delineati bl-a]mar u markati P. 231 u "H" fuq L.D. 11/82/75. (HAP 468/96).
 
-(g) Bi``a art tal-kejl ta’ madwar 185.87 metru kwadru u sit ta’ madwar 11-il metru kwadru mag]rufa b]ala Plot No. 232 u Sit I, Triq il- (TRASFERIMENT TA’ PROPRJETÀ [ L.S.261.20 Bruka, it-tnejn imissu mill-Majistral ma’ proprjet ta’ Joseph Farrugia, mil-Lbi` ma’ proprjet ta’ Teresa u Salvina Abela, u mill- Grigal ma’ Triq il-Bruka, li fuqha llum hemm Lu`ija, u li jinsabu delineati bl-a]mar u markati P. 232 u "I" fuq L.D. 11/82/75. (HAP 17/96). h)
+(g) Bi``a art tal-kejl ta’ madwar 185.87 metru kwadru u sit ta’ madwar 11-il metru kwadru mag]rufa b]ala Plot No. 232 u Sit I, Triq il- Bruka, it-tnejn imissu mill-Majistral ma’ proprjet ta’ Joseph Farrugia, mil-Lbi` ma’ proprjet ta’ Teresa u Salvina Abela, u mill- Grigal ma’ Triq il-Bruka, li fuqha llum hemm Lu`ija, u li jinsabu delineati bl-a]mar u markati P. 232 u "I" fuq L.D. 11/82/75. (HAP 17/96). h)
 
 kwadru u sit ta’ madwar 118 metru kwadru mag]rufa b]ala Plot No. 233 u Sit J, Triq il-imissu mill-Grigal ma’ Triq il-Bruka, mix- Xlokk ma’ Triq il-Prinjoli, u mill-Majistral ma’ à ta’ Joseph Camilleri, li fuqha llum kantuniera ma’ Triq il-Prinjoli, Santa Lu`ija, u li jinsabu delineati bl-a]mar u markati P. 233 u "J" (i Bi``a art tal-kejl ta’ madwar 156.06 metru kwadru u sit ta’ madwar 23 metru kwadru Prinjoli, it-tnejn imissu mill-Grigal ma’ proprjet ta’ Anthony Agius, mil-Lbi` ma’ proprjet ta’ Carmelo Vella, u mix-Xlokk ma’ Triq il-Prinjoli, li fuqha llum hemm mibni l-fond jinsabu delineati bl-a]mar u markati P. 234 u "K" fuq L.D. 11/82/75. (HAP 606/96).
 

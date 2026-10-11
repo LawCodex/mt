@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Proċedura Kriminali (Regolament tar-Reġistri, Arkivji u Funzjonijiet tad-Direttur Ġenerali tal-Qrati u Uffiċjali Eżekuttivi tal-Qorti oħa)."
-identifier: "S.L. 9.9"
+identifier: "S.L. 9.09"
 eli: "https://legislation.mt/eli/sl/9.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/9.9/20221220/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Proċedura Kriminali (Regolament tar-Reġistri, Arkivji u Funzjonijiet tad-Direttur Ġenerali tal-Qrati u Uffiċjali Eżekuttivi tal-Qorti oħa). (S.L. 9.9)
-
-FUNZJONIJIET TAD-DIRETTUR ĠENERALI TAL-QRATI U UFFIĊJALI
-
-*1*
-
-EŻEKUTTIVI TAL-QORTI OĦRA) [L.S. 9.09.
+# Regolamenti dwar il-Proċedura Kriminali (Regolament tar-Reġistri, Arkivji u Funzjonijiet tad-Direttur Ġenerali tal-Qrati u Uffiċjali Eżekuttivi tal-Qorti oħa). (S.L. 9.09)
 
 **LEĠISLAZZJONI SUSSIDJARJA 9.09**
 
@@ -62,11 +56,7 @@ Ir-regolamenti 2 (minbarra t-tifsira tal-kelma "Kodiċi"), 3, 7, 8, 9, 10 u 11(3
 
 (f) kull qorti oħra jew tribunal ieħor, li l-atti ġudizzjarji, atti bil-miktub u dokumenti oħra tagħhom għandhom, skont kull liġi, jiġu ppreżentati fir-Reġistru tal-Qrati u Tribunali Kriminali ta’ Malta;
 
-(g) il-maġistrat inkwirenti fl-atti ta’ kwalunkwe kompilazzjoni li tirrelata mal-in genere, aċċess jew repertus immexxija minn Maġistrat tal-Qorti tal- FUNZJONIJIET TAD-DIRETTUR ĠENERALI TAL-QRATI U UFFIĊJALI [L.S. 9.02 EŻEKUTTIVI TAL-QORTI OĦRA)
-
-Maġistrati (Malta) jew tal-Qorti tal-Maġistrati (Għawdex) skont it-Titolu II tat-Taqsima II tat-Tieni Ktieb tal-Kodici Kriminali.
-
-*2*
+(g) il-maġistrat inkwirenti fl-atti ta’ kwalunkwe kompilazzjoni li tirrelata mal-in genere, aċċess jew repertus immexxija minn Maġistrat tal-Qorti tal- Maġistrati (Malta) jew tal-Qorti tal-Maġistrati (Għawdex) skont it-Titolu II tat-Taqsima II tat-Tieni Ktieb tal-Kodici Kriminali.
 
 (3) Ir-Reġistru tal-Qrati ta’ Ġurisdizzjoni Kriminali ta’ Malta għandu jkun taħt ir-responsabbiltà tar-Reġistratur, Qrati u Tribunali Kriminali.
 
@@ -94,17 +84,11 @@ Maġistrati (Malta) jew tal-Qorti tal-Maġistrati (Għawdex) skont it-Titolu II 
 
 (3) Atti ġudizzjarji pprezentati online għandhom jitqiesu għall-finijiet u effetti kollha tal-liġi daqslikieku ġew ippreżentati direttament fir-reġistru tal-istess qrati:
 
-Iżda meta att ġudizzjarju jiġi ppreżentat online barra mill-ħinijiet tal-ftuh tar-reġistru, dak l-att ġudizzjarju għandu jitqies li ġie ppreżentat fl-ewwel ġurnata li jkun imiss tal-ftuħ tal-istess reġistru. FUNZJONIJIET TAD-DIRETTUR ĠENERALI TAL-QRATI U UFFIĊJALI
-
-*3*
-
-EŻEKUTTIVI TAL-QORTI OĦRA) [L.S. 9.09.
-
-## 4. Reġistru tal-Qrati ta’ Ġurisdizzjoni Kriminali f’Għawdex.
-
-(1) F’Għawdex, il-qrati ta’ ġurisdizzjoni kriminali għandu jkollhom reġistru wieħed. Dan ir-Reġistru jissejjaħ "Reġistru tal-Qrati ta’ Ġurisdizzjoni Kriminali, Għawdex" u għandu jkun jinsab f’Għawdex fil- Qrati ta’ Għawdex.
+Iżda meta att ġudizzjarju jiġi ppreżentat online barra mill-ħinijiet tal-ftuh tar-reġistru, dak l-att ġudizzjarju għandu jitqies li ġie ppreżentat fl-ewwel ġurnata li jkun imiss tal-ftuħ tal-istess reġistru. 4. (1) F’Għawdex, il-qrati ta’ ġurisdizzjoni kriminali għandu jkollhom reġistru wieħed. Dan ir-Reġistru jissejjaħ "Reġistru tal-Qrati ta’ Ġurisdizzjoni Kriminali, Għawdex" u għandu jkun jinsab f’Għawdex fil- Qrati ta’ Għawdex.
 
 (2) Ir-Reġistru tal-Qrati ta’ Ġurisdizzjoni Kriminali, Għawdex ikun kompetenti jirċievi kull att ġudizzjarju, atti bil-miktub u dokumenti oħra li skont kull liġi għandhom jiġu preżentati quddiem:
+
+*Reġistru tal-Qrati ta’ Ġurisdizzjoni Kriminali f’Għawdex.*
 
 (a) il-Qorti tal-Appell Kriminali, ġurisdizzjoni inferjuri, li tkun qed tisma’ appelli mill-Qorti tal-Maġistrati (Għawdex) bħala Qorti ta’ Ġudikatura Kriminali,
 
@@ -130,11 +114,7 @@ EŻEKUTTIVI TAL-QORTI OĦRA) [L.S. 9.09.
 
 (3) Ir-reġistratur li jirċievi l-kopja elettronika kif intqal qabel għandu jiċċertifika li jkun irċeviha billi jibgħat risposta bil-posta elettronika lir-reġistratur li jkun bagħat l-att ġudizzjarju jew l-iskrittura.
 
-(4) Jekk ikun meħtieġ illi uffiċjal jinnotifika kopja elettronika ta’ att ġudizzjarju jew ta’ skrittura kif imsemmi qabel għandu jikkonsenja lir-reġistratur tal-Qrati u Tribunali, Għawdex, ir-riferta tan-notifika, konfermata kif imiss bil-ġurament quddiem ir-reġistratur stess li għandu jibgħatha lir-reġistratur tal-Qrati u Tribunali FUNZJONIJIET TAD-DIRETTUR ĠENERALI TAL-QRATI U UFFIĊJALI [L.S. 9.02 EŻEKUTTIVI TAL-QORTI OĦRA)
-
-Kriminali kompetenti f’Malta kif ikun indikat fl-att ġudizzjarju jew fl-iskrittura u viċiversa. Din il-konsenja tista’ ssir ukoll bil-posta elettronika u r-reġistratur li jkun irċieva r-riferta tan-notifika, kif intqal qabel, għandu jiċċertifika li rċeviha bil-posta elettronika.
-
-*4*
+(4) Jekk ikun meħtieġ illi uffiċjal jinnotifika kopja elettronika ta’ att ġudizzjarju jew ta’ skrittura kif imsemmi qabel għandu jikkonsenja lir-reġistratur tal-Qrati u Tribunali, Għawdex, ir-riferta tan-notifika, konfermata kif imiss bil-ġurament quddiem ir-reġistratur stess li għandu jibgħatha lir-reġistratur tal-Qrati u Tribunali Kriminali kompetenti f’Malta kif ikun indikat fl-att ġudizzjarju jew fl-iskrittura u viċiversa. Din il-konsenja tista’ ssir ukoll bil-posta elettronika u r-reġistratur li jkun irċieva r-riferta tan-notifika, kif intqal qabel, għandu jiċċertifika li rċeviha bil-posta elettronika.
 
 (5) Id-dispożizzjonijiet tas-subregolamenti (1) sa (4), it-tnejn inklużi, għandhom mutatis mutandis japplikaw fil-każ fejn att ġudizzjarju jew skrittura jiġu preżentati fir-reġistru tal-Qrati u Tribunali, Għawdex, sabiex jintbagħtu lir-reġistratur Qrati u Tribunali Kriminali f’Malta kif ikun indikat fl-att jew fl-iskrittura.
 
@@ -157,12 +137,6 @@ Kriminali kompetenti f’Malta kif ikun indikat fl-att ġudizzjarju jew fl-iskri
 *Miżjud: A.L. 47 tal-2008.*
 
 Minkejja d-disposizzjonijiet ta’ qabel ta’ dawn ir-regolamenti, id- Direttur Ġenerali jew kull persuna awtorizzata minnu skont dawn ir-regolamenti, fil-qadi tal-funzjonijiet tiegħu taħt dawn ir-regolamenti, għandu jiżgura li ma jindaħal bl-ebda mod fl-eżerċizzju tal-funzjonijiet ġudizzjarji mill-membri tal-ġudikatura u, jekk jiġri dan, il-Prim Imħallef għandu b’avviż bil-miktub taħt il-firma tiegħu u skont dan ir-regolament, iwarrab dik id-deċiżjoni tad-Direttur Ġenerali; u meta jagħmel hekk il- Prim Imħallef jista’ jagħti dawk id-direttivi lid-Direttur Ġenerali, jew lil rappreżentant tiegħu, li l-Prim Imħallef iqis li huma fl-aħjar interess tal-amministrazzjoni tajba tal-ġustizzja fil-każ partikolari.
-
-FUNZJONIJIET TAD-DIRETTUR ĠENERALI TAL-QRATI U UFFIĊJALI
-
-*5*
-
-EŻEKUTTIVI TAL-QORTI OĦRA) [L.S. 9.09.
 
 ## Skeda
 

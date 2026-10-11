@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Eżenzjoni mir-Rata ta’ Mgħax"
-identifier: "S.L. 16.6"
+identifier: "S.L. 16.06"
 eli: "https://legislation.mt/eli/sl/16.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/16.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Eżenzjoni mir-Rata ta’ Mgħax (S.L. 16.6)
+# Regolamenti dwar Eżenzjoni mir-Rata ta’ Mgħax (S.L. 16.06)
 
 LEĠISLAZZJONI SUSSIDJARJA 16.06
 

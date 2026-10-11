@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Tadam dikjarat li hu Prodott Agrikolu"
-identifier: "S.L. 85.6"
+identifier: "S.L. 85.06"
 eli: "https://legislation.mt/eli/sl/85.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.6/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Tadam dikjarat li hu Prodott Agrikolu (S.L. 85.6)
+# Ordni dwar Tadam dikjarat li hu Prodott Agrikolu (S.L. 85.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 85.06**
 

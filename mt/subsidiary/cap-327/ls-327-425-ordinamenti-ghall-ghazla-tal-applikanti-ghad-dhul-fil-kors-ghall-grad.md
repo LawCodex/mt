@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Science (Honours) - B.Sc. (Hons) - taħt il-patroċinju tal-Fakultà tal-Kirurġija Dentali (S.L. 327.425)
 
-GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS)
-
-\- B.Sc. (HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-KIRURĠIJA DENTALI [L.S. 327.425
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.425**
 
 **ORDINAMENTI GĦALL-GĦAŻLA**
@@ -68,10 +60,6 @@ Il-ħames dawk bi grad ‘C’ fil-Bijoloġija fil-Livell kategorija: Intermedju
 
 (3) Meta l-applikanti joffru aktar minn ċertifikat wieħed li għaddew fil- Bioloġija, għandu jitqies l-aħjar grad.
 
-GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) - B.Sc. (HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ [L.S. 327.425 TAL-KIRURĠIJA DENTALI
-
-*2*
-
 ## 4.
 
 *Emendat: A.L. 337 tal-2015. Renumerat/ Emendat: A.L. 314 tal-2016; A.L. 324 tal-2022.*
@@ -111,11 +99,3 @@ Jekk l-għadd tal-applikanti eliġibbli li jaqgħu fi kwalunkwe kategorija tal-a
 ## 7. It-Tħassir Renumerat: A.L. 314 tal-2016.
 
 L-Ordinamenti tal-2012 għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Science (Honours) – B.Sc. (Hons) – in Dental Technology, taħt il-patroċinju tal-Fakultà tal-Kirurġija Dentali , ippubblikati bħala Avviż Legali Nru. 162 tal- 2012, għandhom jitqiesu li spiċċaw mid-19 ta’ Lulju, 2012.
-
-GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS)
-
-\- B.Sc. (HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-KIRURĠIJA DENTALI [L.S. 327.425

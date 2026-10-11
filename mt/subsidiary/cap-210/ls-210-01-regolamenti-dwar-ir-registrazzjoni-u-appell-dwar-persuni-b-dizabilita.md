@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar ir-Reġistrazzjoni u Appell dwar Persuni b`Diżabilità"
-identifier: "S.L. 210.1"
+identifier: "S.L. 210.01"
 eli: "https://legislation.mt/eli/sl/210.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/210.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar ir-Reġistrazzjoni u Appell dwar Persuni b`Diżabilità (S.L. 210.1)
-
-*1*
-
-PERSUNI B’DIŻABILITÀ [L.S.210.01
+# Regolamenti dwar ir-Reġistrazzjoni u Appell dwar Persuni b`Diżabilità (S.L. 210.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 210.01**
 
@@ -109,11 +105,7 @@ Meta, skond id-dispożizzjoni ta’ l-artikolu 13(1) ta’ l-Att, il-Korporazzjo
 
 (1) Kull reġistru miżmum minn xi persuna skond id-dispożizzjoni ta’ l-artikolu 20(1) ta’ l-Att għandu jiġi konservat minn dik il-persuna għal perijodu ta’ mhux inqas minn ħames snin mid-data ta’ l-aħħar dħul fih.
 
-(2) Kull notament miżmum minn xi persuna skond id- PERSUNI B’DIŻABILITÀ [L.S.210.01
-
-dispożizzjoni ta’ l-artikolu 20(2) ta’ l-Att għandu jiġi konservat minn dik il-persuna għal perijodu ta’ mhux inqas minn ħames snin mid-data li għaliha dak in-notament ikun jirriferixxi.
-
-*3*
+(2) Kull notament miżmum minn xi persuna skond id-dispożizzjoni ta’ l-artikolu 20(2) ta’ l-Att għandu jiġi konservat minn dik il-persuna għal perijodu ta’ mhux inqas minn ħames snin mid-data li għaliha dak in-notament ikun jirriferixxi.
 
 ## L-EWWEL SKEDA
 

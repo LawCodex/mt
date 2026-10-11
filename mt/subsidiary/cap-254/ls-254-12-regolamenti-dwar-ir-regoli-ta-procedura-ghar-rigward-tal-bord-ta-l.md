@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Regoli ta' Proċedura għar-rigward tal-Bord ta' l-Appelli dwar is-Servizzi Postali (S.L. 254.12)
 
-REGOLI TA’ PRO~EDURA G}AR-RIGWARD TAL-BORD
-
-*1*
-
-TA’ L-APPELLI DWAR IS-SERVIZZI POSTALI [L.S.254.12
-
 **LE{ISLAZZJONI SUSSIDJARJA 254.12**
 
 **REGOLAMENTI DWAR IR-REGOLI**

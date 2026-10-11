@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Applikazzjoni tat-Tieni Skeda li tinsab mal-Kodiċi Ċivili (S.L. 16.19)
 
-APPLIKAZZJONI TAT-TIENI SKEDA LI TINSAB
-
-*1*
-
-MAL-KODIĊI ĊIVILI [L.S.16.19 LEĠISLAZZJONI SUSSIDJARJA 16.19
+**LEĠISLAZZJONI SUSSIDJARJA 16.19**
 
 **REGOLAMENTI DWAR L-APPLIKAZZJONI**
 

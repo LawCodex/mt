@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Mutur għar-Riskji ta' Terzi Persuni (Twaqqif ta' Uffċċju Ċentrali)"
-identifier: "S.L. 104.7"
+identifier: "S.L. 104.07"
 eli: "https://legislation.mt/eli/sl/104.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/104.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Mutur għar-Riskji ta' Terzi Persuni (Twaqqif ta' Uffċċju Ċentrali) (S.L. 104.7)
-
-ASSIGURAZZJONI TA’ VETTURI BIL-MUTUR G}AR-RISKJI
-
-*1*
-
-TA’ TERZI PERSUNI (TWAQQIF TA’ UFFI~~JU ~ENTRALI) [L.S.104.07
+# Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Mutur għar-Riskji ta' Terzi Persuni (Twaqqif ta' Uffċċju Ċentrali) (S.L. 104.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 104.07**
 

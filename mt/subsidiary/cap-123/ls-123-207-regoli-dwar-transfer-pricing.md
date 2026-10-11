@@ -24,22 +24,18 @@ retrieved: 2026-10-12
 
 *Titolu u applikabbiltà. Emendat: A.L. 9 tal-2024.*
 
-(2) Dawn ir-regoli għandhom japplikaw għas-snin bażi li jibdew fl-1 ta’ Jannar 2024 jew wara fir-rigward ta’ kwalunkwe
+(2) Dawn ir-regoli għandhom japplikaw għas-snin bażi li jibdew fl-1 ta’ Jannar 2024 jew wara fir-rigward ta’ kwalunkwe arranġament li sar f’dik id-data jew wara, u għal dawk l-arranġamenti li jkunu saru qabel dik id-data, dawn ir-regoli għandhom japplikaw għal dawk l-arranġamenti li jiġu materjalment mibdula fl-imsemmija data jew wara:
 
-arranġament li sar f’dik id-data jew wara, u għal dawk l-arranġamenti  
-li jkunu saru qabel dik id-data, dawn ir-regoli għandhom japplikaw  
-għal dawk l-arranġamenti li jiġu materjalment mibdula fl-imsemmija  
-data jew wara:  
-Iżda fir-rigward ta’ kwalunkwe arranġamenti li jkunu  
-saru qabel l-1 ta` Jannar 2024 u li ma kinux materjalment mibdula fl-  
-imsemmija data jew wara, dawn ir-regoli għandhom japplikaw għas-  
-snin bażi li jibdew fl-1 ta’ Jannar 2027 jew wara.  
-\2.  (1)  F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem  Tifsir.  
-ma teħtieġx xort’oħra:  
-"arranġament" tfisser:  
-(a)  kwalunkwe transazzjoni, ftehim jew  
-trattament ta’ kwalunkwe tip, fejn, fiż-żmien relevanti,  
-il-partijiet f’tali arranġament huma intrapriżi assoċjati.  
+Iżda fir-rigward ta’ kwalunkwe arranġamenti li jkunu saru qabel l-1 ta` Jannar 2024 u li ma kinux materjalment mibdula fl-imsemmija data jew wara, dawn ir-regoli għandhom japplikaw għas-snin bażi li jibdew fl-1 ta’ Jannar 2027 jew wara.
+
+## 2. Tifsir.
+
+(1) F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
+
+"arranġament" tfisser:
+
+(a) kwalunkwe transazzjoni, ftehim jew trattament ta’ kwalunkwe tip, fejn, fiż-żmien relevanti, il-partijiet f’tali arranġament huma intrapriżi assoċjati.
+
 Arranġament għandu wkoll jinkludi serje ta’  
 transazzjonijiet, ftehim u trattamenti ta’ kwalunkwe tip;  
 jew  

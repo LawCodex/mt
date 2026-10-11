@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (2008) (S.L. 261.31)
 
-*1*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2008) [L.S.261.31
-
 LE{ISLAZZJONI SUSSIDJARJA 261.31
 
 ORDNI DWAR L-AWTORITÀ TAD-DJAR
@@ -79,11 +75,7 @@ minn kull na]a ma’ proprjetà tal-Gvern, mog]tija b’enfitewsi perpetwa lil S
 
 (11) Flat numru 8, Blokk 12, Bieb A, Triq il-Peprin, San {wann (Tenement No. 69945 - RTB 39/2003).
 
-(12) Flat numru 5, Blokk 4, Bieb A, Vjal in-Naspli, San (TRASFERIMENT TA’ PROPRJETÀ) (2008) [L.S.261.31
-
-{wann (Tenement No. 65109 - HA 486/99).
-
-*3*
+(12) Flat numru 5, Blokk 4, Bieb A, Vjal in-Naspli, San {wann (Tenement No. 65109 - HA 486/99).
 
 (13) Flat numru 1, Blokk F, Triq il-Peprin, Santa Lu`ija (Tenement No. 70904 - RTB 188/2005).
 
@@ -138,10 +130,6 @@ Dottor A. Grech, re[istrata b[ala Tenement No. 65799 u li tinsab delineata bl-a]
 (10) Flat numru 5, Blokk 2, Triq l-G]eriexem, Rabat, Malta (Tenement No. 63936 - RTB 189/2005).
 
 (11) Flat numru 15, Blokk 1, Triq il-Vittmi tal-Gwerra, Senglea (Tenement No. 62577 - RTB 4/2007).
-
-*5*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2008) [L.S.261.31
 
 (12) Flat numru 2, Blokk 2 Triq l-Ar`isqof Mattei, Senglea (Tenement No. 62463 - RTB 103/2006).
 
@@ -208,10 +196,6 @@ Gvern, jew irjie] verjuri, mog]tija b’enfitewsi perpetwa lis-Sur Paul Attard s
 *\5.*
 
 B’se]] mis-27 ta’ Awissu, 2008:
-
-*7*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2008) [L.S.261.31
 
 (1) Bi``a art fi Triq Tal-{ebel, Bir\\ebbu[a, li tmiss minn kull na]a ma’ proprjetà tal-Gvern jew irjie] verjuri, liema art [iet mag]quda ma’ porzjoni kbira ta’ art li kienet trasferita mill-Uffi``ju Kon[unt lill-Awtorità tad-Djar, u \\viluppata fi 30 appartament u 30 garaxx, re[istrata b]ala Tenement Nru. E20502 u li tinsab delineata bl-a]mar fuq P.D.2008\_212 (HAM 42/99 vol. 4).
 

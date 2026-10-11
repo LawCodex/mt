@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Perijodi Permessi għal Duħħan Iswed"
-identifier: "S.L. 200.1"
+identifier: "S.L. 200.01"
 eli: "https://legislation.mt/eli/sl/200.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/200.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Perijodi Permessi għal Duħħan Iswed (S.L. 200.1)
+# Regolamenti dwar Perijodi Permessi għal Duħħan Iswed (S.L. 200.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 200.01**
 

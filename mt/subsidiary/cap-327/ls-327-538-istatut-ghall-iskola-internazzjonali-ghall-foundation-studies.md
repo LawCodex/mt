@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Istatut għall-Iskola Internazzjonali għall-Foundation Studies (S.L. 327.538)
 
-*1*
-
-GĦALL-FOUNDATION STUDIES [L.S.327.538
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.538**
 
 STATUT GĦALL-ISKOLA INTERNAZZJONALI
@@ -62,10 +58,6 @@ L-Iskola għandha dawn l-għanijiet:
 (e) li tikkoopera ma’ unitajiet oħra tal-Università responsabbli għall-affarijiet akkademiċi u internazzjonali f’materji relatati mal-Iskola; u
 
 (f) li tippromovi u tiffaċilita t-teħid ta’ studenti fl-Iskola b'kollaborazzjoni ma’ entitajiet akkademiċi u amministrattivi Universitarji oħra.
-
-*2*
-
-[L.S.327.538 GĦALL-FOUNDATION STUDIES
 
 ## 5. Setgħat.
 
@@ -121,11 +113,7 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (v) jirrikkmanda lill-Kunsill il-ħolqien jew l-abolizzjoni ta’ postijiet akkademiċi u mhux akkademiċi fl-Iskola;
 
-(vi) jipproponi għall-approvazzjoni tas-Senat, Bordijiet ta’ Studju u Bordijiet tal-Eżaminaturi GĦALL-FOUNDATION STUDIES [L.S.327.538
-
-**għall-korsijiet offruti mill-Iskola; u**
-
-*3*
+(vi) jipproponi għall-approvazzjoni tas-Senat, Bordijiet ta’ Studju u Bordijiet tal-Eżaminaturi għall-korsijiet offruti mill-Iskola; u
 
 (vii) jipproponi għall-approvazzjoni tas-Senat, Programmi ta’ Studji u deskrizzjonijiet ta’ korsijiet ta’ studju ta’ kull kors.
 
@@ -157,11 +145,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur huma li:
 
 (f) jippromovi l-bżonnijiet akkademiċi u personali tal-istudenti, sabiex l-istudenti jingħataw l-aqwa sapport f’każ li jiltaqgħu ma’ diffikultajiet matul l-istudji tagħhom relatati mal-attivitajiet tal-Iskola;
 
-(g) li jimmonitorja t-tmexxija tal-eżamijiet taċ-Ċentru u jiżgura li r-riżultati kollha tal-assesjar u tal-eżamijiet jiġu sottomessi fl-Uffiċċju tar-Reġistrar mhux aktar tard mill-aħħar ta’ Marzu, Lulju u Settembru, iżda r- GĦALL-FOUNDATION STUDIES
-
-riżultati għandhom jiġu sottomessi liċ-Chairman rispettiv sa mhux aktar tard minn dawn id-dati li ġejjin:
-
-*[L.S.327.538 4*
+(g) li jimmonitorja t-tmexxija tal-eżamijiet taċ-Ċentru u jiżgura li r-riżultati kollha tal-assesjar u tal-eżamijiet jiġu sottomessi fl-Uffiċċju tar-Reġistrar mhux aktar tard mill-aħħar ta’ Marzu, Lulju u Settembru, iżda r-riżultati għandhom jiġu sottomessi liċ-Chairman rispettiv sa mhux aktar tard minn dawn id-dati li ġejjin:
 
 • is-sessjoni ta’ Jannar - sal-aħħar ta’ Marzu;
 
@@ -187,11 +171,11 @@ riżultati għandhom jiġu sottomessi liċ-Chairman rispettiv sa mhux aktar tard
 
 (p) jawtorizza lill-Iskola l-ksib ta’ apparat; jiżgura li r-riżorsi assenjati lill-Iskola - kemm jekk umani kif ukoll oħrajn - jiġu utilizzati b’mod sħiħ u effiċjenti; u (q) iwettaq dawk id-dmirijiet oħra li jistgħu jiġu assenjati lilu mill-Università minn żmien għal żmien.
 
-*5*
+*\10.*
 
-GĦALL-FOUNDATION STUDIES [L.S.327.538 Minbarra dan, id-Direttur:
+*Dmirijiet oħra tad- Direttur.*
 
-*\10. Dmirijiet oħra tad- Direttur.*
+Minbarra dan, id-Direttur:
 
 (a) għandu jirrapporta direttament liċ-Chairman tal-Bord tal-Iskola u għandu jikkollabora mal-uffiċjali amministrattivi anzjani kollha tal-Università;
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Skema għal Kumpens għal Ħsara kkawżata mill-Kriminalità (S.L. 9.12)
 
-*1*
-
-KKAWŻATA MILL-KRIMINALITÀ [L.S.9.12
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.12**
 
 **REGOLAMENTI DWAR SKEMA GĦAL**
@@ -67,11 +63,7 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 
 ### 3. Ħatra tal-Uffiċjal Assistent.
 
-L-Uffiċjal Assistent jiġi maħtur mill-Ministru taħt dawk il- [L.S.9.12 KKAWŻATA MILL-KRIMINALITÀ
-
-pattijiet u kondizzjonijiet skont kif iqis xierqa u għandu jilqa’ applikazzjonijiet u jassisti fil-valutazzjoni tagħhom skont kif previst f’dawn ir-regolamenti.
-
-*2*
+L-Uffiċjal Assistent jiġi maħtur mill-Ministru taħt dawk il-pattijiet u kondizzjonijiet skont kif iqis xierqa u għandu jilqa’ applikazzjonijiet u jassisti fil-valutazzjoni tagħhom skont kif previst f’dawn ir-regolamenti.
 
 ### 4. Applikazzjoni għal kumpens.
 
@@ -115,11 +107,7 @@ Il-kumpens jista’ jitħallas skont kif tipprovdi l-Iskema:
 
 (a) iċ-ċittadini ta’ Malta; u
 
-(b) ċittadini ta’ wieħed mill-Istati Membri tal-Unjoni KKAWŻATA MILL-KRIMINALITÀ [L.S.9.12
-
-Ewropea; u
-
-*3*
+(b) ċittadini ta’ wieħed mill-Istati Membri tal-Unjoni Ewropea; u
 
 (ċ) persuni li huma abitwalment residenti f’Malta.
 
@@ -161,11 +149,7 @@ Ma jitħallas ebda kumpens taħt din l-Iskema meta:
 
 (a) il-ħsara mill-kriminalità tkun ġiet imġarrba qabel l-1 ta’ Jannar, 2006;
 
-(b) l-Uffiċjal dwar it-Talbiet jidhirlu li l-applikant mhuwiex fil-bżonn jew sakemm ma tingħatax prova li [L.S.9.12 KKAWŻATA MILL-KRIMINALITÀ
-
-l-azzjoni legali biex jintalab kumpens ma kellhiex suċċess;
-
-*4*
+(b) l-Uffiċjal dwar it-Talbiet jidhirlu li l-applikant mhuwiex fil-bżonn jew sakemm ma tingħatax prova li l-azzjoni legali biex jintalab kumpens ma kellhiex suċċess;
 
 (ċ) l-applikant, fl-opinjoni tal-Uffiċjal dwar it-Talbiet, naqas milli jipprovdi l-għajnuna kollha raġonevoli u l-informazzjoni meħtieġa għall-finijiet ta’ dawn ir-regolamenti;
 
@@ -211,11 +195,9 @@ Ebda ħlas lil min jagħmel it-talba ma gandu jkun ta’ aktar minn tlieta u għ
 
 Il-Gvern jiġi surrogat fid-drittijiet tal-vittmi tad-delitt kontra min jikkommetti d-delitt, ikunx magħruf jew le.
 
-*5*
+### 20. Danni ċivili.
 
-KKAWŻATA MILL-KRIMINALITÀ [L.S.9.12 20. Il-ħlasijiet li jirċievu dawk li jagħmlu t-talba jitqiesu bħala parti mid-danni ċivili mġarrba.
-
-*Danni ċivili.*
+Il-ħlasijiet li jirċievu dawk li jagħmlu t-talba jitqiesu bħala parti mid-danni ċivili mġarrba.
 
 ### 21. Amministrazzjoni tal-flus mogħtija.
 
@@ -224,8 +206,6 @@ L-Uffiċjal dwar it-Talbiet jista’ jagħmel kull arranġament li jqies xieraq 
 ### 22. Riżerva. A.L. 190 tal- 2007.
 
 Kull talba li hemm pendenti taħt ir-Regolamenti tal-2007 dwar Kumpens għal Ħsara kkawżata mill-Kriminalità, li huma b’dan revokati, għandu jkompli s-smigħ tagħha u għandha tiġi ttrattata taħt dawn ir-regolamenti, u d-dispożizzjonijiet ta’ dawn ir-regolamenti għandhom, mutatis mutandis, jgħoddu fir-rigward ta’ dik it-talba pendenti.
-
-6 [L.S.9.12 KKAWŻATA MILL-KRIMINALITÀ
 
 Emendata: SKEDA
 
@@ -279,8 +259,6 @@ E. Passi meħuda sabiex il-pulizija, jew korp jew persuna oħra jiġu mgħarrfa 
 
 F. Koperazzjoni mal-pulizija jew awtorità oħra bil-għan li l-aggressur jitressaq il-Qorti:
 
-KKAWŻATA MILL-KRIMINALITÀ [L.S.9.12 7
-
 G. Jekk l-aggressur tressaq il-Qorti, indika meta u quddiem liema Qorti Kriminali:
 
 H. Il-Qorti Kriminali ġà stabilit xi kumpens li jirid jingħata lill-vittma/i tad-delitt? Jekk iva, agħti d-data tal-ordni.
@@ -322,8 +300,6 @@ bl-SMS: 
 L-informazzjoni personali prevista f ’din l-applikazzjoni ser tkun ipproċessata skont id-dispożizzjonijiet tal-Att dwar il-Privatezza u l-Protezzjoni tad-Data (Kap. 586 tal-Liġijiet ta’ Malta) u għall-għanijiet previsti fir-Regolamenti tal-2012 dwar Skema għal Kumpens għal Ħsara kkawżata mill-Kriminalità u għal xi materja oħra
 
 \* Din l-applikazzjoni għandha tintbagħat, debitament mimlija u bid-dokumenti meħtieġa mehmuża, lill-Uffiċjal Assistent, Dipartiment tal-Ġustizzja, 14, 16, 18, Triq Is-Suq, Il-Furjana FRN 1082.
-
-8 [L.S.9.12 KKAWŻATA MILL-KRIMINALITÀ
 
 anċillari.
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) in Earth Systems – B.Sc. (Hons) – taħt il-patroċinju tal-Istitut tas-Sistemi Ambjentali (S.L. 327.410)
 
-IN EARTH SYSTEMS - B.Sc. (Hons) - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI [L.S.327.410
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.410**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN EARTH SYSTEMS - B.Sc.
@@ -72,11 +66,7 @@ Il-Kors jinfirex fuq medda ta’ tlett snin ta’ studju fuq bażi full-time jew
 
 ## 5. Programm ta’ studju.
 
-Il-Bord għandu jippubblika l-programm ta’ studju qabel il-bidu ta’ kull kors. Suġġett għal tibdiliet li l-Bord jista’ jkun kostrett li jagħmel bl-approvazzjoni tas-Senat, l-istudenti huma marbuta li jsegwu t-taqsimiet studju u jiksbu l-kredti kif indikat fil-programm ta’ studju għall-Grad, sakemm li l-programm ta’ studju jkun IN EARTH SYSTEMS - B.Sc. (Hons) - TAĦT
-
-*2*
-
-[L.S.327.410 IL-PATROĊINJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI imfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali.
+Il-Bord għandu jippubblika l-programm ta’ studju qabel il-bidu ta’ kull kors. Suġġett għal tibdiliet li l-Bord jista’ jkun kostrett li jagħmel bl-approvazzjoni tas-Senat, l-istudenti huma marbuta li jsegwu t-taqsimiet studju u jiksbu l-kredti kif indikat fil-programm ta’ studju għall-Grad, sakemm li l-programm ta’ studju jkun imfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali.
 
 ## 6. Reġistrazzjoni.
 
@@ -122,11 +112,7 @@ Il-Kors jista’ jkun offrut fuq bażi part-time flessibbli b’dawn il-provvedi
 
 (b) Sabiex jgħaddu minn sena tal-Kors għall-oħra b’mod regolari, is-60 krettu ECTS assenjati għat-taqsimiet-studju ta’ kull sena tal-Kors għandhom ikunu kkompletati f’mhux aktar minn tlett snin akkademiċi;
 
-(ċ) L-istudenti li ma jattendux għall-valutazzjoni ta’ IN EARTH SYSTEMS - B.Sc. (Hons) - TAĦT
-
-*3*
-
-IL-PATROĊINJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI [L.S.327.410 taqsima-studju, jew li jeħlu fil-valutazzzjoni ta’ taqsima-studju, għandhom, jekk eliġibbli, ikunu meħtieġa jagħmlu l-valutazzjoni ta’ kwalunkwe għadd ta’ taqsimiet-studju mhux kompluti bħal dawn fis-sessjoni ta’ valutazzjoni ta’ Settembru jew fl-ewwel opportunità li jmiss;
+(ċ) L-istudenti li ma jattendux għall-valutazzjoni ta’ taqsima-studju, jew li jeħlu fil-valutazzzjoni ta’ taqsima-studju, għandhom, jekk eliġibbli, ikunu meħtieġa jagħmlu l-valutazzjoni ta’ kwalunkwe għadd ta’ taqsimiet-studju mhux kompluti bħal dawn fis-sessjoni ta’ valutazzjoni ta’ Settembru jew fl-ewwel opportunità li jmiss;
 
 *(d)*
 
@@ -150,10 +136,4 @@ L-istudenti rreġistrati fuq programm fuq bażi part-time flessibbli għandhom j
 
 *(j)*
 
-Suġġett għall-approvazzjoni tal-Bord, l-istudenti rreġistrati għall-Kors jistgħu jitħallew jibdlu l-mod tal-attendenza minn full-time għall-part-time flessibbli jew vice versa fil-bidu tat-tieni sena tal-programm ta’ studju regolari. Tibdiliet fil-mod tal-attendenza f’xi sena sussegwenti tal-Kors jistgħu jkunu kkunsidrati mill-Bord, jekk il-programm tal-Kors jippermetti; u
-
-**IN EARTH SYSTEMS - B.Sc. (Hons) - TAĦT**
-
-*[L.S.327.410 4*
-
-IL-PATROĊINJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI (k) Minkejja l-provvedimenti tar-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2019 minħabba n-natura tal-Kors meta offrut fuq bażi part-time flessibbli li tippermetti tul aktar minn normal, l-istudenti rreġistrati fuq programm tal-Kors part-time flessibbli bħal dan m’għandhomx ikunu la intitolati li qatt jirrepetu sena tal-Kors sħiħa, u lanqas għal sena ta’ estensjoni wara kull sena tal-Kors.
+Suġġett għall-approvazzjoni tal-Bord, l-istudenti rreġistrati għall-Kors jistgħu jitħallew jibdlu l-mod tal-attendenza minn full-time għall-part-time flessibbli jew vice versa fil-bidu tat-tieni sena tal-programm ta’ studju regolari. Tibdiliet fil-mod tal-attendenza f’xi sena sussegwenti tal-Kors jistgħu jkunu kkunsidrati mill-Bord, jekk il-programm tal-Kors jippermetti; u (k) Minkejja l-provvedimenti tar-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2019 minħabba n-natura tal-Kors meta offrut fuq bażi part-time flessibbli li tippermetti tul aktar minn normal, l-istudenti rreġistrati fuq programm tal-Kors part-time flessibbli bħal dan m’għandhomx ikunu la intitolati li qatt jirrepetu sena tal-Kors sħiħa, u lanqas għal sena ta’ estensjoni wara kull sena tal-Kors.

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Għeneb Dikjarat li hu Prodott Agrikolu"
-identifier: "S.L. 85.4"
+identifier: "S.L. 85.04"
 eli: "https://legislation.mt/eli/sl/85.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.4/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Għeneb Dikjarat li hu Prodott Agrikolu (S.L. 85.4)
+# Ordni dwar Għeneb Dikjarat li hu Prodott Agrikolu (S.L. 85.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 85.04**
 

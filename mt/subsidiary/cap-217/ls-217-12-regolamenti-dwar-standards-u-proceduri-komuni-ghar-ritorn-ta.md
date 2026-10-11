@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Standards u Proċeduri Komuni għar-Ritorn ta’ Ċittadini ta’ Pajjiżi Terzi li jkunu qegħdin fil-pajjiż illegalment (S.L. 217.12)
 
-GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*1*
-
-LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT [L.S.217.12
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.12**
 
 REGOLAMENTI DWAR STANDARDS U PROĊEDURI KOMUNI GĦAR-RITORN TA’ ĊITTADINI TA’
@@ -65,13 +59,7 @@ F’dawn ir-regolamenti -
 
 "ċittadin ta' pajjiż terz" tfisser kull persuna li mhix ċittadin tal- Unjoni Ewropea fis-sens tal-Artikolu 17(1) tat-Trattat tal-KE u li mhix persuna li tgawdi d-dritt tal-moviment liberu Komunitarju, kif mfisser fl-Artikolu 2(5) tal-Kodiċi tal-Fruntieri ta’ Schengen;
 
-"deċiżjoni ta’ ritorn" tfisser deċiżjoni maħruġa mill-Uffiċjal Prinċipali tal-Immigrazzjoni, li tgħid u tiddikjara illi ċ-ċittadin ta’ GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*2*
-
-[L.S.217.12 LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT
-
-pajjiż terz ikun qiegħed fil-pajjiż b’mod illegali u timponi jew tiddikjara l-obbligu biex jirritorna;
+"deċiżjoni ta’ ritorn" tfisser deċiżjoni maħruġa mill-Uffiċjal Prinċipali tal-Immigrazzjoni, li tgħid u tiddikjara illi ċ-ċittadin ta’ pajjiż terz ikun qiegħed fil-pajjiż b’mod illegali u timponi jew tiddikjara l-obbligu biex jirritorna;
 
 "ritorn" tfisser il-proċess ta’ ċittadin ta’ pajjiż terz biex jirritorna sew b’konformità volontarja ma’ obbligu ta’ ritorn kif ukoll jekk infurzat għall-pajjiż ta’ oriġini tiegħu; jew għal pajjiż ta’ transitu skont ftehim ta’ riamissjoni Komunitarja jew bilaterali jew arranġamenti oħra, jew pajjiż terz ieħor, li għalih iċ-ċittadin tal-pajjiż terz konċernat volontarjament jiddeċiedi li jirritorna u li fih hu ser jiġi aċċettat;
 
@@ -103,11 +91,7 @@ pajjiż terz ikun qiegħed fil-pajjiż b’mod illegali u timponi jew tiddikjara
 
 (v) ikun applika għal permess ta’ residenza aktar minn darba u dik l-applikazzjoni ġiet miċħuda;
 
-(vi) ma jkunx ikkoopera mal-Uffiċjal Prinċipali tal- Immigrazzjoni biex tiġi stabbilita l-identità u ċ- GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*3*
-
-LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT [L.S.217.12 ċittadinanza tiegħu;
+(vi) ma jkunx ikkoopera mal-Uffiċjal Prinċipali tal- Immigrazzjoni biex tiġi stabbilita l-identità u ċ-ċittadinanza tiegħu;
 
 (vii) b’mod qarrieqi pprovda dettalji ta’ identifikazzjoni foloz jew dettalji foloz rigward il-wasla tiegħu Malta;
 
@@ -137,13 +121,7 @@ Iżda, għandu jinħareg ordni ta’ ritorn fil-konfront taċ-ċittadin ta’ pa
 
 Iżda wkoll l-Uffiċjal Prinċipali tal-Immigrazzjoni għandu joħroġ deċiżjoni ta’ ritorn fil-każ li ċ-ċittadin ta’ pajjiż terz ma jħarisx il-ħtieġa msemmija hawn fuq jew fejn it-tluq immedjat tiegħu jkun meħtieġ għal raġunijiet ta’ ordni pubbliku jew ta’ sigurtà nazzjonali, soġġett għad-dispożizzjonijiet tas-subregolamenti (3),(4), u (7).
 
-(3) L-Uffiċjal Prinċipali tal-Immigrazzjoni jista’ jirrinunzja milli joħroġ deċiżjoni ta’ ritorn lil ċittadin ta’ pajjiż terz li jkun qiegħed f ’Malta illegalment jekk iċ-ċittadin ta’ pajjiż terz GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*4*
-
-[L.S.217.12 LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT
-
-konċernat jittieħed lura minn Stat Membru ieħor skont ftehim jew arranġamenti bilaterali eżistenti fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti:
+(3) L-Uffiċjal Prinċipali tal-Immigrazzjoni jista’ jirrinunzja milli joħroġ deċiżjoni ta’ ritorn lil ċittadin ta’ pajjiż terz li jkun qiegħed f ’Malta illegalment jekk iċ-ċittadin ta’ pajjiż terz konċernat jittieħed lura minn Stat Membru ieħor skont ftehim jew arranġamenti bilaterali eżistenti fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti:
 
 Iżda, madanakollu, l-Uffiċjal Prinċipali tal-Immigrazzjoni jista’ jiddeċiedi li jieħu lura f’Malta ċittadin ta’ pajjiż terz li jkun qiegħed fi Stat Membru ieħor illegalment, f’liema każ wara li jieħu lura ċ-ċittadin ta’ pajjiż terz konċernat, l-Uffiċjal Prinċipali tal- Immigrazzjoni għandu japplika d-disposizzjonijiet tas-subregolament (2).
 
@@ -167,11 +145,7 @@ Iżda fejn deċiżjoni ta' ritorn tkun diġà nħarġet, din għandha tiġi rtir
 
 (1) Deċiżjoni ta’ ritorn m’għandiex taffettwa l-obbligu ta’ xi persuna li ma tissodisfax jew li m’għadiex tissodisfa l-kondizzjonijiet ta’ dħul, residenza jew moviment ħieles li titlaq minn Malta volontarjament mingħajr dewmien.
 
-(2) L-Uffiċjal Prinċipali tal-Immigrazzjoni għandu jgħarraf liċ-ċittadin ta’ pajjiż terz fid-deċiżjoni ta’ ritorn illi hu jista’ jissottometti applikazzjoni biex jingħata perjodu xieraq għat-tluq GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*5*
-
-LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT [L.S.217.12 volontarju, u dak il-perjodu m’għandux ikun inqas minn sebat ijiem jew iżjed minn tletin jum, u dan mingħajr ħsara għal possibbiltà taċ-ċitaddin ta’ pajjiż terz li jitlaq qabel:
+(2) L-Uffiċjal Prinċipali tal-Immigrazzjoni għandu jgħarraf liċ-ċittadin ta’ pajjiż terz fid-deċiżjoni ta’ ritorn illi hu jista’ jissottometti applikazzjoni biex jingħata perjodu xieraq għat-tluq volontarju, u dak il-perjodu m’għandux ikun inqas minn sebat ijiem jew iżjed minn tletin jum, u dan mingħajr ħsara għal possibbiltà taċ-ċitaddin ta’ pajjiż terz li jitlaq qabel:
 
 Iżda l-Uffiċjal Prinċipali tal-Immigrazzjoni għandu, fejn meħtieġ, itawwal il-perjodu għat-tluq volontarju għal wieħed xieraq, wara li jittie?ed kont taċ-ċirkostanzi speċifiċi tal-każ individwali bħal raġunijiet ta’ saħħa, it-tul tal-perjodu li jkun qagħad, l-eżistenza li tfal ikunu qed jattendu l-iskola u l-eżistenza ta’ familja oħra jew konnessjonijiet soċjali.
 
@@ -203,13 +177,7 @@ Iżda fejn ikun meħtieġ għall-Uffiċjal Prinċipali tal- Immigrazzjoni biex j
 
 (a) proporzjonali u ma jeċċedux forza raġonevoli; u
 
-(b) eżegwiti b’kont meħud tad-drittijiet fundamentali; u GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*6*
-
-[L.S.217.12 LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT
-
-(ċ) imwettqa b’mod li jagħtu r-rispett dovut lid-dinjità u l-integrità fiżika taċ-ċittadin ta’ pajjiż terz konċernat. (4) Meta jitwettqu tneħħjiet bl-ajru, għandhom jitqiesu l-Linji Gwida Komuni dwar disposizzjonijiet ta’ sigurtà għat-tneħħija konġunta bl-ajru, annessa mad-Deċiżjoni 2004/573/KE.
+(b) eżegwiti b’kont meħud tad-drittijiet fundamentali; u (ċ) imwettqa b’mod li jagħtu r-rispett dovut lid-dinjità u l-integrità fiżika taċ-ċittadin ta’ pajjiż terz konċernat. (4) Meta jitwettqu tneħħjiet bl-ajru, għandhom jitqiesu l-Linji Gwida Komuni dwar disposizzjonijiet ta’ sigurtà għat-tneħħija konġunta bl-ajru, annessa mad-Deċiżjoni 2004/573/KE.
 
 (5) Il-Ministru responsabbli għall-Immigrazzjoni jista’, b’Ordni, jipprovdi għal sistema effettiva ta’ monitoraġġ dwar ir-ritorn infurzat.
 
@@ -247,11 +215,7 @@ Iżda l-Uffiċjal Prinċipali tal-Immigrazzjoni jista’ jipposponi t-tneħħija
 
 (4) It-tul tal-projbizzjoni fuq id-dħul għandu jkun determinat wara li jittieħed kont taċ-ċirkostanzi rilevanti kollha tal-każ konċernat u m’għandux ikun iżjed minn ħames snin:
 
-GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*7*
-
-LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT [L.S.217.12 Iżda dik il-projbizzjoni fuq id-dħul tista’ tkun iżjed minn ħames snin jekk iċ-ċittadin ta’ pajjiż terz jirrappreżenta theddida serja għall-ordni pubblika, is-sigurtà pubblika jew is-sigurtà nazzjonali.
+Iżda dik il-projbizzjoni fuq id-dħul tista’ tkun iżjed minn ħames snin jekk iċ-ċittadin ta’ pajjiż terz jirrappreżenta theddida serja għall-ordni pubblika, is-sigurtà pubblika jew is-sigurtà nazzjonali.
 
 (5) L-Uffiċjal Prinċipali tal-Immigrazzjoni għandu jikkonsidra l-irtirar jew sospensjoni tal-projbizzjoni fuq id-dħul maħruġa skont is-subregolament (2) meta ċ-ċittadin ta’ pajjiż terz jkun jista’ juri illi hu ħalla Malta b’konformità sħiħa mad-deċiżjoni ta’ ritorn.
 
@@ -283,13 +247,7 @@ Iżda l-Uffiċjal Prinċipali tal-Immigrazzjoni jista’ jonqos milli joħroġ, 
 
 (1) Detenzjoni għandha sseħħ fil-lok maħtur għal dak il-għan b’avviż fil-Gazzetta mill-Ministru:
 
-Iżda dak iċ-ċittadin ta’ pajjiż terz, għandu bħala regola ġenerali, ma jiġix detenut fil-ħabs, u meta, minħabba f’neċessità GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*8*
-
-[L.S.217.12 LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT
-
-eċċezzjonali jiġi detenut fil-ħabs, dak iċ-ċittadin ta’ pajjiż terz għandu jiġi detenut separatament minn ħabsin ordinarji.
+Iżda dak iċ-ċittadin ta’ pajjiż terz, għandu bħala regola ġenerali, ma jiġix detenut fil-ħabs, u meta, minħabba f’neċessità eċċezzjonali jiġi detenut fil-ħabs, dak iċ-ċittadin ta’ pajjiż terz għandu jiġi detenut separatament minn ħabsin ordinarji.
 
 (2) Ċittadin ta’ pajjiż terz detenut għandu jkollu permess fuq talba u suġġett għal spejjeż li jħallashom hu biex jistabbilixxi kuntatt fi żmien dovut ma’ rappreżentanza legali, mingħajr preġudizzju għad-disposizzjonijiet tar-regolament 11(4), membri tal-familja u awtoritajiet konsulari kompetenti.
 
@@ -321,11 +279,7 @@ eċċezzjonali jiġi detenut fil-ħabs, dak iċ-ċittadin ta’ pajjiż terz għ
 
 *Formola.*
 
-(2) Deċiżjoni ta’ ritorn, deċiżjoni ta’ ċaħda ta’ dħul u ordni ta’ GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*9*
-
-LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT [L.S.217.12 tneħħija għandhom jinħarġu bil-miktub u għandu jkollhom raġunijiet fil-fatt u fid-dritt dwar rimedji legali:
+(2) Deċiżjoni ta’ ritorn, deċiżjoni ta’ ċaħda ta’ dħul u ordni ta’ tneħħija għandhom jinħarġu bil-miktub u għandu jkollhom raġunijiet fil-fatt u fid-dritt dwar rimedji legali:
 
 Iżda r-raġunijiet fil-fatt jistgħu jingħataw b’mod restrittiv meta ż-żamma tal-informazzjoni tkun regolata mil-liġi b’mod partikolari meta l-iżvelar tal-informazzjoni tkun tipperikola s-sigurtà nazzjonali, l-ordni pubblika, u l-prevenzjoni, sejbien, investigazzjoni u prosekuzzjoni ta’ reati kriminali.
 
@@ -357,12 +311,6 @@ u, meta applikabbli, għandu jipprovdi, lil dawn iċ-ċittadini ta’ pajjiż te
 
 (b) iċ-ċittadin ta’ pajjiż terz jevita jew ifixkel il-proċess ta’ ritorn jew tneħħija:
 
-GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*10*
-
-[L.S.217.12 LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT
-
 Iżda d-detenzjoni għandha tkun għal perjodu qasir u għandha tkompli biss sakemm l-proċess ta’ tneħħija jkun qed isir u jitwettaq bid-diliġenza dovuta:
 
 Iżda, ħlief kif provdut fl-artikolu 25A(6) tal-Att, f’każ ta’ appell, iċ-ċittadin ta’ pajjiż terz ikkonċernat għandu jinżamm taħt kustodja sakemm idumu l-proċeduri tal-appell.
@@ -391,11 +339,7 @@ Iżda, madanakollu, il-perjodu ta’ detenzjoni ma jistax ikun aktar minn sitt x
 
 (b) ikun hemm dewmien fil-kisba tad-dokumentazzjoni neċessarja mill-pajjiż terz inkwistjoni.
 
-(14) Meta jkun jidher li m’għadux jeżisti prospett raġonevoli ta’ tneħħija għal konsiderazzjonijiet legali jew oħra jew il-kondizzjonijiet mniżżla fis-subregolament (6) m’għadhomx aktar jeżistu, id-detenzjoni ma tibqax ġustifikata u l-persuna konċernata GĦAR-RITORN TA’ ĊITTADINI TA’ PAJJIŻI
-
-*11*
-
-LI JKUNU QEGĦDIN FIL-PAJJIŻ ILLEGALMENT [L.S.217.12 għandha tiġi meħlusa minnufih.
+(14) Meta jkun jidher li m’għadux jeżisti prospett raġonevoli ta’ tneħħija għal konsiderazzjonijiet legali jew oħra jew il-kondizzjonijiet mniżżla fis-subregolament (6) m’għadhomx aktar jeżistu, id-detenzjoni ma tibqax ġustifikata u l-persuna konċernata għandha tiġi meħlusa minnufih.
 
 *Sitwazzjonijiet ta’ emerġenza.*
 

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Library, Information and Archive Studies (Honours) - B. LI AS ( Hons) - u Bachelor of Library, Information and Archive Studies - B.LIAS - taħt il-patroċinju tal-Fakultà tal-Midja (S.L. 327.241)
 
-STUDIES (HONOURS) - B. LIAS (HONS) - U BACHELOR OF LIBRARY
-
-INFORMATION AND ARCHIVE STUDIES - B. LIAS - TAĦT IL-
-
-*1*
-
-PATROêINJU TAL-FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [ L.S.327.241
-
 **LEĀISLAZZJONI SUSSIDJARJA 327.241**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF LIBRARY INFORMATION AND ARCHIVE STUDIES
@@ -67,13 +59,11 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) Il-Bord iħabbar l-oqsma ta’ studju li jistgħu jittieħdu mal- Library Information and Archive Studies fil-Grad qabel il-bidu tal-kors.
 
-STUDIES (HONOURS) - B. LIAS (HONS) - U BACHELOR OF LIBRARY INFORMATION AND ARCHIVE STUDIES - B. LIAS - TAĦT IL-
+## 4. RekwiŜiti speëjali għad-dħul fil-kors.
 
-*2*
+*Sostitwit: A.L. 39 tal-2013.*
 
-[ L.S.327.241 PATROêINJU TAL-FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN 4. Biex ikunu rreāistrati bħala studenti regolari fil-kors, l-applikanti għandhom jissodisfaw ir-rekwiŜiti āenerali għad-dħul kif speëifikati fir-Regolamenti għad-Dħul.
-
-*RekwiŜiti speëjali għad-dħul fil-kors. Sostitwit: A.L. 39 tal-2013.*
+Biex ikunu rreāistrati bħala studenti regolari fil-kors, l-applikanti għandhom jissodisfaw ir-rekwiŜiti āenerali għad-dħul kif speëifikati fir-Regolamenti għad-Dħul.
 
 ## 5. Tul tal-kors.
 
@@ -117,13 +107,7 @@ It-Tieni Parti għandha tikkonsisti minn taqsimiet studju li għalihom hemm asse
 
 ## 12. Klassifikazzjoni tar- Rikonoxximenti.
 
-(1) Il-Marka Medja Finali MwieŜna għall-klassifikazzjoni tal-Bachelor of Library Information and Archive Studies (Honours) għandha tkun ibbaŜata fuq ir-riŜultati miksuba f’kull waħda mill- STUDIES (HONOURS) - B. LIAS (HONS) - U BACHELOR OF LIBRARY
-
-INFORMATION AND ARCHIVE STUDIES - B. LIAS - TAĦT IL-
-
-*3*
-
-PATROêINJU TAL-FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [ L.S.327.241 aħħar sentejn tal-kors, li jingħataw piŜ kif āej:
+(1) Il-Marka Medja Finali MwieŜna għall-klassifikazzjoni tal-Bachelor of Library Information and Archive Studies (Honours) għandha tkun ibbaŜata fuq ir-riŜultati miksuba f’kull waħda mill-aħħar sentejn tal-kors, li jingħataw piŜ kif āej:
 
 Marka Medja tat-Tieni Sena 40%
 

@@ -15,16 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Science in Maritime Engineering – M.Sc. – offrut taħt il-patroċinju tal-Fakultà tal-Inġinerija (S.L. 327.572)
 
-UNIVERSITARJI TA’ WARA L-EWWEL GRAD GĦALL-
-
-GRAD TA’ MASTER OF SCIENCE IN MARITIME
-
-ENGINEERING – M.SC. - TAĦT IL-PATROĊINJU TAL-
-
-*1*
-
-FAKULTÀ TAL-INĠINERIJA [L.S. 327.572.
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.572**
 
 **L-ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -71,13 +61,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (a) il-grad ta’ Bachelor of Engineering (Honours) minn din l-Università, jew minn istituzzjoni ta’ edukazzjoni ogħla oħra rikonoxxut mis-Senat, miksub mill-inqas fit-Tieni Klassi bl-Unuri; jew
 
-(b) il-grad ta’ Bachelor of Science (Honours) minn din l- Università, jew minn istituzzjoni ta’ edukazzjoni ogħla UNIVERSITARJI TA’ WARA L-EWWEL GRAD GĦALL- GRAD TA’ MASTER OF SCIENCE IN MARITIME
-
-*2*
-
-ENGINEERING – M.SC. - TAĦT IL-PATROĊINJU TAL- [L.S. 327.572 FAKULTÀ TAL-INĠINERIJA
-
-oħra rikonoxxut mis-Senat, f’qasam ta’ studju meqjus rilevanti mill-Bord u miksub mill-inqas fit-Tieni Klassi bl-Unuri; jew
+(b) il-grad ta’ Bachelor of Science (Honours) minn din l- Università, jew minn istituzzjoni ta’ edukazzjoni ogħla oħra rikonoxxut mis-Senat, f’qasam ta’ studju meqjus rilevanti mill-Bord u miksub mill-inqas fit-Tieni Klassi bl-Unuri; jew
 
 (ċ) kwalunkwe grad bl-Unuri f’qasam rilevanti li l-Bord iqis komparabbli mal-kwalifiki indikati fil-paragrafi (a) jew (b) ta’ dan l-ordinament.
 
@@ -104,16 +88,6 @@ Il-Kors għandu jinfirex fuq tliet snin (sitt semestri) ta’ studju fuq bażi p
 (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
 (2) Dawk l-istudenti li matul xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 10 kretti ECTS għandhom jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni tal- eżamijiet supplimentari ta’ Settembru.
-
-UNIVERSITARJI TA’ WARA L-EWWEL GRAD GĦALL-
-
-GRAD TA’ MASTER OF SCIENCE IN MARITIME
-
-ENGINEERING – M.SC. - TAĦT IL-PATROĊINJU TAL-
-
-*3*
-
-FAKULTÀ TAL-INĠINERIJA [L.S. 327.572.
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju jkunu meqjusa li weħlu mill-Kors.
 

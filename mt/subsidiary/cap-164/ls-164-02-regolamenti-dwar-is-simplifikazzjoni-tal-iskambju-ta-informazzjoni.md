@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar is-Simplifikazzjoni tal-Iskambju ta’ Informazzjoni jew Intelligence bejn il-Korp tal-Pulizija ta’ Malta u Aġenziji Statali oħra tal-Istati Membri tal-Unjoni Ewropea li għandhom setgħat simili"
-identifier: "S.L. 164.2"
+identifier: "S.L. 164.02"
 eli: "https://legislation.mt/eli/sl/164.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,15 +15,9 @@ version: "https://legislation.mt/eli/sl/164.2/20250408/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar is-Simplifikazzjoni tal-Iskambju ta’ Informazzjoni jew Intelligence bejn il-Korp tal-Pulizija ta’ Malta u Aġenziji Statali oħra tal-Istati Membri tal-Unjoni Ewropea li għandhom setgħat simili (S.L. 164.2)
+# Regolamenti dwar is-Simplifikazzjoni tal-Iskambju ta’ Informazzjoni jew Intelligence bejn il-Korp tal-Pulizija ta’ Malta u Aġenziji Statali oħra tal-Istati Membri tal-Unjoni Ewropea li għandhom setgħat simili (S.L. 164.02)
 
-INTELLIGENCE BEJN IL-KORP TAL-PULIZIJA TA’ MALTA U
-
-AĠENZIJI STATALI OĦRA TAL-ISTATI MEMBRI TAL-UNJONI
-
-*1*
-
-EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S.164.02 LEĠISLAZZJONI SUSSIDJARJA 164.02
+**LEĠISLAZZJONI SUSSIDJARJA 164.02**
 
 **REGOLAMENTI DWAR IS-SIMPLIFIKAZZJONI**
 
@@ -63,10 +57,6 @@ Għall-finijiet ta’ dawn ir-regolamenti:
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 70 tal-2025.
 
-INTELLIGENCE BEJN IL-KORP TAL-PULIZIJA TA’ MALTA U AĠENZIJI STATALI OĦRA TAL-ISTATI MEMBRI TAL-UNJONI [L.S.164.02 EWROPEA LI GĦANDHOM SETGĦAT SIMILI
-
-*2*
-
 "Europol" għandu jkollu l-istess tifsira mogħtija bid-Deċiżjoni tal-Kunsill 2009/371/ĠAI dwar l-Uffiċċju Ewropew tal-Pulizija tas-6 ta’ April 2009;
 
 "ir-regolamenti dwar il-protezzjoni u l-privatezza tad-data" tfisser ir-Regolamenti dwar il-Protezzjoni u l-Privatezza tad-Data (Proċessar ta’ Data fis-Settur tal-Pulizija) u r-Regolamenti dwar Proċessar ta’ Data Personali (Koperazzjoni mill-Pulizija u Ġudizzjarja f’Materji Kriminali);
@@ -99,13 +89,7 @@ INTELLIGENCE BEJN IL-KORP TAL-PULIZIJA TA’ MALTA U AĠENZIJI STATALI OĦRA TAL
 
 (a) tagħmel ħsara lil interessi essenzjali ta’ sigurtà nazzjonali ta’ Malta; jew
 
-(b) tipperikola s-suċċess ta’ investigazzjoni kurrenti jew INTELLIGENCE BEJN IL-KORP TAL-PULIZIJA TA’ MALTA U
-
-AĠENZIJI STATALI OĦRA TAL-ISTATI MEMBRI TAL-UNJONI
-
-*3*
-
-EWROPEA LI GĦANDHOM SETGĦAT SIMILI [L.S.164.02 operazzjoni ta’ intelligence dwar reati kriminali jew is-sigurtà ta individwi; jew
+(b) tipperikola s-suċċess ta’ investigazzjoni kurrenti jew operazzjoni ta’ intelligence dwar reati kriminali jew is-sigurtà ta individwi; jew
 
 (ċ) tkun tidher b’mod ċar li hija sproporzjonata jew irrelevanti fir-rigward tal-iskop li għalih tkun ġiet mitluba.
 

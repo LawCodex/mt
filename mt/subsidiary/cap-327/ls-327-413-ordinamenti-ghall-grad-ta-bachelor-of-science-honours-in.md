@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) in Pharmaceutical Technology – B.Sc. (Hons) Pharm. Tech. - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.413)
 
-TICAL TECHNOLOGY - B.SC. (HONS) PHARM. TECH. - TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.413
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.413**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN PARMACEUTICAL
@@ -72,10 +66,6 @@ jew (b) ikollhom kwalifika relatata mal-qasam ta’ studju propost mogħtija min
 
 jew (ċ)ikunu reġistrati bħala pharmacy technician mal- Kunsill tal-Ispiżjara, u jkollhom sentejn esperjenza bħala pharmacy technician f’ambjent farmaċewtiku, kif ukoll ikunu għaddew fil-Livell Intermedju jew fil- Livell Avvanzat tal-Matrikola fil-Kimika.
 
-*2*
-
-TICAL TECHNOLOGY - B.SC. (HONS) PHARM. TECH. - TAĦT IL- [L.S.327.413 PATROĊINJU TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA
-
 ## 4. Numru ta’ applikanti li jistgħu jitħallew jirreġistraw fil-kors.
 
 Il-Bord għandu jirrakkomanda lis-Senat in-numru ta’ applikanti li jistgħu jitħallew jirreġistraw fil-kors, skont ir-riżorsi disponibbli. L-għadd ta’ postijiet disponibbli għandu jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet. Is-Senat għandu japprova l-ordinamenti għall-għażla tal-applikanti biex jidħlu fil-kors.
@@ -114,13 +104,7 @@ Il-Kors jista’ jkun offrut fuq bażi part-time flessibbli b’dawn il-provvedi
 
 (b) Sabiex jgħaddu minn sena tal-Kors għall-oħra b’mod regolari, is-60 krettu ECTS assenjati għat-taqsimiet-studju ta’ kull sena tal-Kors għandhom ikunu kompletati f’mhux aktar minn tlett snin akkademiċi. (c) L-istudenti li ma jattendux għall-valutazzjoni ta’ taqsima-studju, jew li jeħlu fil-valutazzzjoni ta’ taqsima-studju, għandhom, jekk eliġibbli, ikunu meħtieġa jagħmlu l-valutazzjoni ta’ kwalunkwe għadd ta’ taqsimiet-studju mhux kompluti fis-sessjoni ta’ valutazzjoni ta’ Settembru jew fl-ewwel opportunità li jmiss.
 
-(d) Jekk meħtieġ, l-istudenti jistgħu jitħallew jirreferu l- TICAL TECHNOLOGY - B.SC. (HONS) PHARM. TECH. - TAĦT IL-
-
-*3*
-
-PATROĊINJU TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.413
-
-valutazzjoni tat-taqsimiet-studju għas-sena akkademika li jmiss, diment li mhux aktar minn 12-il krettu ECTS jistgħu jkunu riferuti minn sena tal-Kors għall-oħra.
+(d) Jekk meħtieġ, l-istudenti jistgħu jitħallew jirreferu l-valutazzjoni tat-taqsimiet-studju għas-sena akkademika li jmiss, diment li mhux aktar minn 12-il krettu ECTS jistgħu jkunu riferuti minn sena tal-Kors għall-oħra.
 
 (e) Il-valutazzjoni tat-taqsimiet-studju li jistgħu jkunu riferuti għas-sena akkademika li jmiss għandhom jitqiesu bħala miżjuda mal-għadd minimu ta’ kretti (12-il krettu ECTS) li l-istudenti huma obbligati jirreġistraw għalihom matul kwalunkwe sena akkademika.
 
@@ -134,8 +118,4 @@ valutazzjoni tat-taqsimiet-studju għas-sena akkademika li jmiss, diment li mhux
 
 (j) Suġġett għall-approvazzjoni tal-Bord, l-istudenti reġistrati għall-Kors jistgħu jitħallew jibdlu l-mod tal-attendenza minn full-time għall-part-time flessibbli jew viċiversa fil-bidu tat-tieni sena tal-programm ta’ studju regolari. Tibdiliet fil-mod tal-attendenza f’xi sena sussegwenti tal-Kors jistgħu jkunu kkunsidrati mill-Bord jekk il-programm tal-Kors jippermetti.
 
-(k) Minkejja l-provvedimenti tar-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2019 minħabba n-natura tal-Kors meta offrut fuq bażi part-time flessibbli li jippermetti tul aktar min-normal, l-istudenti reġistrati fuq programm tal-Kors part-time flessibbli bħal dan m’għandhomx ikunu la intitolati li qatt jirrepetu sena tal-Kors sħiħa, u lanqas għal sena TICAL TECHNOLOGY - B.SC. (HONS) PHARM. TECH. - TAĦT IL- [L.S.327.413 PATROĊINJU TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA
-
-ta’ estensjoni wara kull sena tal-Kors.
-
-*4*
+(k) Minkejja l-provvedimenti tar-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2019 minħabba n-natura tal-Kors meta offrut fuq bażi part-time flessibbli li jippermetti tul aktar min-normal, l-istudenti reġistrati fuq programm tal-Kors part-time flessibbli bħal dan m’għandhomx ikunu la intitolati li qatt jirrepetu sena tal-Kors sħiħa, u lanqas għal sena ta’ estensjoni wara kull sena tal-Kors.

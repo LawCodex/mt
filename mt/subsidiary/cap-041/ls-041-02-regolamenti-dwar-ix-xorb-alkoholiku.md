@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar ix-Xorb Alkoholiku"
-identifier: "S.L. 41.2"
+identifier: "S.L. 41.02"
 eli: "https://legislation.mt/eli/sl/41.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/41.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar ix-Xorb Alkoholiku (S.L. 41.2)
+# Regolamenti dwar ix-Xorb Alkoholiku (S.L. 41.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 41.02**
 

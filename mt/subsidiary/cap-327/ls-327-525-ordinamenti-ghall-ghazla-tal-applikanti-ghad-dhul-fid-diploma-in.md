@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla tal-Applikanti għad-Dħul fid-Diploma in Dental Surgery Assistance - Dip. D.S.A. - taħt il-patroċinju tal-Fakultà tal-Kirurġija Dentali (S.L. 327.525)
 
-DENTAL SURGERY ASSISTANCE - Dip. D.S.A. - TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-FAKULTA TAL-KIRURĠIJA DENTALI [L.S.327.525
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.525**
 
 **ORDINAMENTI GĦALL-GĦAŻLA TAL-**
@@ -70,10 +64,6 @@ Globali)
 16 Mertu
 
 12 D
-
-*2*
-
-DENTAL SURGERY ASSISTANCE - Dip. D.S.A. - TAĦT IL- [L.S.327.525 PATROĊINJU TAL-FAKULTA TAL-KIRURĠIJA DENTALI
 
 12 Għadda
 

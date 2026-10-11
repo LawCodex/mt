@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Profitti mill-Produzzjoni tal-Pitrolju (Kif jiġi stabbilit l-Income Totali) (S.L. 123.13)
 
-PROFITTI MILL-PRODUZZJONI TAL-PITROLJU
-
-*1*
-
-(KIF JI{I STABBILIT L-INCOME TOTALI) [L.S.123.13
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.13**
 
 **REGOLI DWAR PROFITTI**

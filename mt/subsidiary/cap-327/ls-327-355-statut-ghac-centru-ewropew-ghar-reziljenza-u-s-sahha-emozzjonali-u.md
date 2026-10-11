@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Statut għaċ-Ċentru Ewropew għar-Reżiljenza u s-Saħħa Emozzjonali u Soċjali (S.L. 327.355)
 
-*1*
-
-US-SAĦĦA EMOZZJONALI USOĊJALI [L.S.327.355
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.355**
 
 **STATUT GĦAĊ-ĊENTRU GĦAR-REŻILJENZA**
@@ -55,10 +51,6 @@ L-għan taċ-Ċentru hu li jiżviluppa u jmexxi ’l quddiem ix-xjenza u l-pratt
 (d) li jqajjem għarfien u jippromovi tagħlim dwar prattika tajba u stħarriġ relevanti dwar is-saħħa emozzjonali u soċjali u r-reżiljenza fost it-tfal u ż-żgħażagħ;
 
 (e) li jipprovdi servizz ta’ konsultazzjoni u jaħdem f’diversi setturi edukattivi, kliniċi u soċjali biex imexxi ’l quddiem is-saħħa emozzjonali u soċjali u r-reżiljenza fost it-tfal u ż-żgħażagħ u jevita diffikultajiet soċjali, emozzjonali u ta’ mġiba;
-
-*2*
-
-[L.S.327.355 US-SAĦĦA EMOZZJONALI USOĊJALI
 
 (f) li jipprovdi tagħlim u taħriġ, li jinkludi programmi ta’ studji li jwasslu għal rikonoxximenti Universitarji ta’ wara l-Ewwel Grad , għall-prattikanti, għall-edukaturi u applikanti prospettivi lokali, nazzjonali u kif ukoll fuq livell Ewropew; u
 
@@ -110,10 +102,6 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (iii) jiżgura li jkun hemm il-kollaborazzjoni neċessarja ma’ istituzzjonijiet oħrajn, lokali u barranin, biex jintlaħqu dawn l-għanijiet taċ- Ċentru;
 
-*3*
-
-US-SAĦĦA EMOZZJONALI USOĊJALI [L.S.327.355
-
 (iv) jeżiġi mill-membri tal-istaff taċ-Ċentru l-produzzjoni ta’ rapporti fuq materji akkademiċi;
 
 (v) jipproponi Regolamenti u Ordinamenti għall-approvazzjoni tas-Senat;
@@ -154,11 +142,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur huma li:
 
 (i) jirrappreżenta ċ-Ċentru f’funzjonijiet uffiċjali tal- Università;
 
-(j) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu US-SAĦĦA EMOZZJONALI USOĊJALI
-
-jingħata tagħrif dwar l-attivitajiet li saru fiċ-Ċentru fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet reċenti tal-membri kollha taċ-Ċentru; ġabra fil-qosor tal-proġetti li fihom huma involuti membri taċ-Ċentru, li huma finanzjati kollha jew parzjalment minn barra; lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni taċ-Ċentru ma’ terzi persuni li jinkludi l-industrija lokali, il-Gvern jew is-soċjetà ċivili in ġenerali;
-
-*[L.S.327.355 4*
+(j) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fiċ-Ċentru fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet reċenti tal-membri kollha taċ-Ċentru; ġabra fil-qosor tal-proġetti li fihom huma involuti membri taċ-Ċentru, li huma finanzjati kollha jew parzjalment minn barra; lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni taċ-Ċentru ma’ terzi persuni li jinkludi l-industrija lokali, il-Gvern jew is-soċjetà ċivili in ġenerali;
 
 (k) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani għaċ-Ċentru, li jkopri tagħlim, riċerka u xogħol amministrattiv proġettat għaċ-Ċentru u bbażat fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti taċ-Ċentru u tal-Visiting Teaching Staff;
 
@@ -179,10 +163,6 @@ Minbarra dan, id-Direttur:
 (`) m’għandux jimpenja ruħu fi kwalunkwe attività barra mill-Università li tista’ tkun f’konflitt, jew ittellfu, mid-dmirijiet tiegħu fl-Università;
 
 (d) hu mistenni li jkun preżenti fuq il-kampus jew kwalunkwe sit indikat mill-Università ta’ Malta għallinqas fil-ħinijiet normali tal-uffiċċju mit-Tnejn sal-{imgħa matul is-sena skont l-esiġenzi tal-akkademiku u f’konformità mal-prattiċi u l-ħtiġiet tal- Università u bid-dritt għall-leave normali u għall-festi pubbliċi kif provdut fil-liġi; jekk in-nuqqas tiegħu hu meħtieġ u ġustifikat, hu għandu jiżgura li wieħed jista’ jikkuntattja miegħu permezz tas-segretarjat taċ- Ċentru;
-
-*5*
-
-US-SAĦĦA EMOZZJONALI USOĊJALI [L.S.327.355
 
 (e) m’għandux jgħaddi informazzjoni lil terzi persuni li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università ta’ Malta; kull xogħol li jkun qed isir fiċ-Ċentru għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien tad-data;
 

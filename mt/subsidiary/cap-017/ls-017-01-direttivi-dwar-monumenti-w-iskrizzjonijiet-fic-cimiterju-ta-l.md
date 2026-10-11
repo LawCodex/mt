@@ -1,6 +1,6 @@
 ---
 title: "Direttivi dwar Monumenti w Iskrizzjonijiet fiċ-Ċimiterju ta' l-Addolorata"
-identifier: "S.L. 17.1"
+identifier: "S.L. 17.01"
 eli: "https://legislation.mt/eli/sl/17.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/17.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Direttivi dwar Monumenti w Iskrizzjonijiet fiċ-Ċimiterju ta' l-Addolorata (S.L. 17.1)
-
-MONUMENTI W ISKRIZZJONIJIET
-
-FI~-~IMITERJU TA’ L-ADDOLORATA [ L.S.17.01
+# Direttivi dwar Monumenti w Iskrizzjonijiet fiċ-Ċimiterju ta' l-Addolorata (S.L. 17.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 17.01**
 

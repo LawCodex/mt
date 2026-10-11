@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Kumpanniji li jipprovdu Servizzi għall-Esportazzjoni Kwalifikanti (L-Ogħla Kera li jintalab)"
-identifier: "S.L. 325.4"
+identifier: "S.L. 325.04"
 eli: "https://legislation.mt/eli/sl/325.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/325.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Kumpanniji li jipprovdu Servizzi għall-Esportazzjoni Kwalifikanti (L-Ogħla Kera li jintalab) (S.L. 325.4)
-
-KUMPANNIJI LI JIPPROVDU SERVIZZI KWALIFIKANTI
-
-*1*
-
-(L-OG}LA KERA LI JINTALAB) [L.S.325.04
+# Ordni dwar Kumpanniji li jipprovdu Servizzi għall-Esportazzjoni Kwalifikanti (L-Ogħla Kera li jintalab) (S.L. 325.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 325.04**
 

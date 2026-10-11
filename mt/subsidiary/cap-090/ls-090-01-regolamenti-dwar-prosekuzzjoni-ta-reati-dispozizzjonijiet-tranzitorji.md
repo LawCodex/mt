@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Prosekuzzjoni ta’ Reati (Dispożizzjonijiet Tranżitorji)"
-identifier: "S.L. 90.1"
+identifier: "S.L. 90.01"
 eli: "https://legislation.mt/eli/sl/90.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,9 @@ version: "https://legislation.mt/eli/sl/90.1/20241001/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Prosekuzzjoni ta’ Reati (Dispożizzjonijiet Tranżitorji) (S.L. 90.1)
+# Regolamenti dwar Prosekuzzjoni ta’ Reati (Dispożizzjonijiet Tranżitorji) (S.L. 90.01)
 
-*1*
-
-(DISPOŻIZZJONIJIET TRANŻITORJI) [L.S.90.01 LEĠISLAZZJONI SUSSIDJARJA 90.01
+**LEĠISLAZZJONI SUSSIDJARJA 90.01**
 
 REGOLAMENTI DWAR PROSEKUZZJONI TA’ REATI (DISPOŻIZZJONIJIET TRANŻITORJI)
 
@@ -52,11 +50,9 @@ It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar Prosekuzzjoni ta’ Re
 
 (ċ) in-notifika ta’ taħrikiet lix-xhieda ai termini tal-artikolu 365 tal-Kodiċi Kriminali u n-notifika ta’ xi atti oħra li l-prosekuzzjoni hija meħtieġa li tinnotifika lil kwalunkwe persuna;
 
-*2  Kap. 9.*
+* Kap. 9.*
 
-[L.S. 90.01 (DISPOŻIZZJONIJIET TRANŻITORJI)
-
-(d) l-eżekuzzjoni ta’ sentenzi jew ordnijiet ai termini tal-artikolu 366 tal-Kodiċi Kriminali.
+tal-artikolu 366 tal-Kodiċi Kriminali.
 
 Emendata: SKEDA
 
@@ -86,9 +82,7 @@ Setgħat tal-Avukat Ġenerali li jipprosekwixxi
 
 (g) Każijiet ta’ frodi jew appropjazzjoni bla jedd fejn it-telf finanzjarju kkawżat huwa tal-inqas ta’ ħamsin elf euro (€50, 000);
 
-*3*
-
-(DISPOŻIZZJONIJIET TRANŻITORJI) [L.S.90.01 (h) Każijiet ta’ evażjoni ta’ dazju, dazju tas-sisa jew ta’ importzzjoni oħra fejn l-ammonti evażati huma tal-inqas ta’ ħames mitt elf euro (€500,000);
+(h) Każijiet ta’ evażjoni ta’ dazju, dazju tas-sisa jew ta’ importzzjoni oħra fejn l-ammonti evażati huma tal-inqas ta’ ħames mitt elf euro (€500,000);
 
 (i) Tentattiv jew assoċjazzjoni biex jitwettaq jew kompliċità fir-reati msemmija fil-paragrafi (a), (b), (ċ), (d), (e), (f), (g) u (h) hawn fuq.
 
@@ -126,10 +120,6 @@ Setgħat tal-Avukat Ġenerali li jipprosekwixxi
 
 Setgħat li ma jippreġudikawx l-eżerċizzju tas-setgħat l-oħra mogħtija bil-liġi
 
-*4*
-
-[L.S. 90.01 (DISPOŻIZZJONIJIET TRANŻITORJI)
-
 1B. L-Avukat Ġenerali għandu s-setgħa li jiddeċiedi jekk prosekuzzjoni għandha jew ma għandhiex tiġi istitwita fil-kategoriji ta’ reati segwenti meta l-akkużi għandhom jiġu preżentati fil-Qorti tal-Maġistrati bħala qorti ta’ ġudikatura kriminali jew fil-Qorti tal- Maġistrati bħala qorti istruttorja fl-1 ta’ Ottubru 2022 jew wara:
 
 *     Kap. 9.*
@@ -152,11 +142,9 @@ Setgħat li ma jippreġudikawx l-eżerċizzju tas-setgħat l-oħra mogħtija bil
 
 (e) mutilazzjoni tal-organi ġenitali ta’ mara, sterilizzazzjoni furzata, żwieġ furzat, ġbid b’qerq ta’ persuna għat-territorju ta’ Stat ieħor għal żwieġ furzat taħt is-subtitolu IX tat-Titolu VIII tat-Taqsima II tal-Ewwel Ktieb tal-Kodiċi Kriminali;
 
-*5*
-
-(DISPOŻIZZJONIJIET TRANŻITORJI) [L.S.90.01 (f) esplożjoni b’perikolu tal-ħajja jew tal-proprjetà, sparar eċċ., ta’ mezz letali, pussess, użu eċċ., ta’ materjal nukleari, użu ta’ materjal radioattiv, mezz letali jew faċilità nukleari mfassla biex jikkawżaw il-mewt, pussess illegali ta’ materjal radioattiv jew li jiġi magħmul jew ikun hemm il-pussess ta’ mezz letali, ħruq ta’ tarznar eċċ., ħruq b’perikolu tal-ħajja, ħruq b’perikolu komuni, ħruq bla perikolu għall-ħajja tan-nies, ħruq ta’ dwieli eċċ., distruzzjoni b’esplożjoni ta’ mina, wiri ta’ dwal foloz, eċċ., b’perikolu għan-navigazzjoni, u ħruq fi ħwejjeġ ta’ wieħed innifsu taħt is-subtitolu IV tat-Titolu IX tat-Taqsima II tal-Ewwel Ktieb tal-Kodiċi Kriminali;
-
 *               Kap. 9.*
+
+(f) esplożjoni b’perikolu tal-ħajja jew tal-proprjetà, sparar eċċ., ta’ mezz letali, pussess, użu eċċ., ta’ materjal nukleari, użu ta’ materjal radioattiv, mezz letali jew faċilità nukleari mfassla biex jikkawżaw il-mewt, pussess illegali ta’ materjal radioattiv jew li jiġi magħmul jew ikun hemm il-pussess ta’ mezz letali, ħruq ta’ tarznar eċċ., ħruq b’perikolu tal-ħajja, ħruq b’perikolu komuni, ħruq bla perikolu għall-ħajja tan-nies, ħruq ta’ dwieli eċċ., distruzzjoni b’esplożjoni ta’ mina, wiri ta’ dwal foloz, eċċ., b’perikolu għan-navigazzjoni, u ħruq fi ħwejjeġ ta’ wieħed innifsu taħt is-subtitolu IV tat-Titolu IX tat-Taqsima II tal-Ewwel Ktieb tal-Kodiċi Kriminali;
 
 *   Kap. 585.*
 
@@ -190,11 +178,9 @@ Setgħat li ma jippreġudikawx l-eżerċizzju tas-setgħat l-oħra mogħtija bil
 
 (f) reati kontra l-Att dwar Poteri li jsiru Regolamenti fl-Interess Nazzjonali;
 
-*6   Kap. 425.*
+*  Kap. 425.*
 
-[L.S. 90.01 (DISPOŻIZZJONIJIET TRANŻITORJI)
-
-(g) reati kontra l-Att dwar il-Konservazzjoni u l- Amministrazzjoni tas-Sajd;
+Amministrazzjoni tas-Sajd;
 
 (h) tentattivi jew konspirazzjoni għall-għemil jew kompliċità ta’ dawk ir-reati msemmija fil-paragrafi (a), (b), (ċ), (d), (e), (f) u (g) hawn fuq.
 
@@ -222,9 +208,7 @@ Xejn f’din l-Iskeda ma għandu jiġi interpretat:
 
 (b) li twassal għal xi difett fil-proċeduri:
 
-*7*
-
-(DISPOŻIZZJONIJIET TRANŻITORJI) [L.S.90.01 (i) f’każijiet fejn is-setgħat imsemmija huma eżerċitati wara d-dħul fis-seħħ ta’ din l-Iskeda jew fejn il-proċeduri inbdew qabel id-dħul fis-seħħ ta’ din l- Iskeda jitkomplew f’isem il-Kummissarju tal-Pulizija jew f’isem xi awtorità pubblika oħra li jkollha setgħat prosekutorji wara l-imsemmi dħul fis-seħħ; jew
+(i) f’każijiet fejn is-setgħat imsemmija huma eżerċitati wara d-dħul fis-seħħ ta’ din l-Iskeda jew fejn il-proċeduri inbdew qabel id-dħul fis-seħħ ta’ din l- Iskeda jitkomplew f’isem il-Kummissarju tal-Pulizija jew f’isem xi awtorità pubblika oħra li jkollha setgħat prosekutorji wara l-imsemmi dħul fis-seħħ; jew
 
 (ii) fejn jirriżulta li l-ammont tat-telf finanzjarju jew evażjoni ta’ xi taxxa jew dazju ma jkunx laħaq jew teċċedi l-minimu tal-limitu stabbilit taħt il-paragrafi (g) jew (h) tal-partita 1.
 
@@ -243,7 +227,3 @@ Xejn f’din l-Iskeda ma għandu jiġi interpretat:
 ## 4.  Kap. 9.
 
 F’din l-Iskeda kull referenza għal reat provdut fil-Kodiċi Kriminali jew f’xi liġi oħra għandha, sakemm il-kuntest ma jkunx jinħtieġ xort’ oħra, tinqara u tinftiehem bħala li dak ir-reat qiegħed jiġi indikat permezz ta’ referenza għan-nota marġinali tal-artikolu li jippreskrivih u kull diskrepanza bejn in-nota marġinali u l-kontenut tal-artikolu ma għandu ikollha ebda effett fuq l-inklużjoni f’din l- Iskeda tar-reat kif imfisser fit-test attwali tal-artikolu relattiv.
-
-*8*
-
-[L.S. 90.01 (DISPOŻIZZJONIJIET TRANŻITORJI)

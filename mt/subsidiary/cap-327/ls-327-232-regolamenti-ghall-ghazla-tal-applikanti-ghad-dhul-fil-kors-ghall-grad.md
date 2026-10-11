@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Dental Surgery - B.Ch.D. - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.232)
 
-GĦAŻLA TAL-APPLKANTI GĦAD-DĦUL
-
-FIL-KORS GĦALL-GRAD TA’
-
-*1*
-
-BACHELOR OF DENTAL SURGERY - B.CH.D. [L.S.327.232
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.232**
 
 **REGOLAMENTI GĦALL-GĦAŻLA**

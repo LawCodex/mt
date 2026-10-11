@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digrieti ta' Manteniment (Jersey)"
-identifier: "S.L. 48.3"
+identifier: "S.L. 48.03"
 eli: "https://legislation.mt/eli/sl/48.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/48.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digrieti ta' Manteniment (Jersey) (S.L. 48.3)
-
-ESTENSJONI TA’ L-APPLIKABBILTÀ TA’
-
-DIGRIETI TA’ MANTENIMENT (JERSEY) [ L.S.48.03
+# Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digrieti ta' Manteniment (Jersey) (S.L. 48.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 48.03**
 

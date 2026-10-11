@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta’ Master in Early Childhood Education and Care - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.420)
 
-KORS GĦALL-GRAD TA’ MASTER
-
-*1*
-
-IN EARLY CHILDHOOD EDUCATION AND CARE [L.S.327.420
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.420**
 
 **REGOLAMENTI TAL-KORS GĦALL-GRAD TA’**

@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Impjieg Kwalifikanti f’Attivitajiet Marittimi u l-Attivitajiet tal-Industrija tas-Servizzjar taż-Żejt u l-Gass Offshore (Taxxa Personali) (S.L. 123.182)
 
-ATTIVITAJIET TAL-INDUSTRIJA TAS-SERVIZZJAR TAŻ-ŻEJT U L-
-
-*1*
-
-GASS OFFSHORE (TAXXA PERSONALI) [L.S. 123.182 LEĠISLAZZJONI SUSSIDJARJA 123.182
+**LEĠISLAZZJONI SUSSIDJARJA 123.182**
 
 **REGOLI DWAR IMPJIEG KWALIFIKANTI**
 
@@ -61,11 +57,7 @@ L-AVVIŻ LEGALI 140 tal-2018 u 209 tal-2019.
 
 "esperjenza professjonali" tfisser iż-żmien veru u leġittimu fil-professjoni kkonċernata;
 
-"interess pubbliku" jinkludi l-interessi fis-sigurtà ATTIVITAJIET TAL-INDUSTRIJA TAS-SERVIZZJAR TAŻ-ŻEJT U L- GASS OFFSHORE (TAXXA PERSONALI)
-
-pubblika, għall-protezzjoni tal-ordni pubbliku, is-sigurtà nazzjonali, l-integrità territorjali, is-saħħa jew il-morali pubbliċi;
-
-*[L.S. 123.182 2*
+"interess pubbliku" jinkludi l-interessi fis-sigurtà pubblika, għall-protezzjoni tal-ordni pubbliku, is-sigurtà nazzjonali, l-integrità territorjali, is-saħħa jew il-morali pubbliċi;
 
 "Kummissarju" tfisser lill-Kummissarju tat-Taxxi;
 
@@ -83,11 +75,7 @@ Għall-finijiet ta’ dawn ir-regoli, it-terminu "servizzi regolari" għandu jko
 
 *L.S. 234.35.*
 
-ATTIVITAJIET TAL-INDUSTRIJA TAS-SERVIZZJAR TAŻ-ŻEJT U L-
-
-*3*
-
-GASS OFFSHORE (TAXXA PERSONALI) [L.S. 123.182 (iii) kwalunkwe impriża li primarjament tagħmel negozju jew kummerċ li jikkonsisti f’Servizzjar tal-industrija taż-Żejt u l-Gass Offshore u servizzi anċillari (minn hawn il’ quddiem "f’Servizzjar tal-industrija taż-Żejt u l-Gass Offshore u servizzi anċillari").
+(iii) kwalunkwe impriża li primarjament tagħmel negozju jew kummerċ li jikkonsisti f’Servizzjar tal-industrija taż-Żejt u l-Gass Offshore u servizzi anċillari (minn hawn il’ quddiem "f’Servizzjar tal-industrija taż-Żejt u l-Gass Offshore u servizzi anċillari").
 
 (2) Persuna għandha titqies bħala relatata ma’ korp ta’ persuni jekk:
 
@@ -111,11 +99,7 @@ Benefiċjarju huwa individwu li jissodisfa l-kondizzjonijiet li ġejjin:
 
 (b) huwa protett bħala impjegat skont il-liġi Maltija, irrispettivament mir-relazzjoni ġuridika, għall-fini tal-eżerċizzju ta’ xogħol ġenwin u effettiv għal jew taħt id-direzzjoni ta’ xi ħadd ieħor, jiġi mħallas, u għandu l-kompetenza adegwata u speċifika, li hija għas-sodisfazzjon tal-awtorità kompetenti;
 
-(ċ) huwa juri għas-sodisfazzjon tal-awtorità kompetenti li huwa fil-pussess ta’ kwalifiki professjonali jew ATTIVITAJIET TAL-INDUSTRIJA TAS-SERVIZZJAR TAŻ-ŻEJT U L- [L.S. 123.182 GASS OFFSHORE (TAXXA PERSONALI)
-
-esperjenza;
-
-*4*
+(ċ) huwa juri għas-sodisfazzjon tal-awtorità kompetenti li huwa fil-pussess ta’ kwalifiki professjonali jew esperjenza;
 
 (d) huwa jiżvela b’mod sħiħ għall-finijiet tat-taxxa u jiddikjara l-emolumenti riċevuti fir-rigward ta’ income minn kuntratt ta’ xogħol kwalifikabbli u kull income li jirċievi minn persuna li hija relatata ma’ min timpjegah li tħallas l-income minn kuntratt li jikkwalifika bħala taxxabbli f’Malta;
 
@@ -139,11 +123,7 @@ esperjenza;
 
 Iżda li jekk l-income minn kuntratt tal-impjieg kwalifikabbli jeċċedi l-ammont ta’ ħames miljun euro (€5,000,000), ma titħallas l-ebda taxxa oħra fuq l-income minn kuntratt tal-impjieġ kwalifikabbli li jeċċedi ħames miljun euro (€5,000,000):
 
-ATTIVITAJIET TAL-INDUSTRIJA TAS-SERVIZZJAR TAŻ-ŻEJT U L-
-
-*5*
-
-GASS OFFSHORE (TAXXA PERSONALI) [L.S. 123.182 Iżda r-rata ta’ 15% għandha tapplika, mingħajr m’għandha l-possibilità li tintalab kwalunkwe eżenzjoni, tnaqqis, kreditu jew kumpens ta’ kwalunkwe tip:
+Iżda r-rata ta’ 15% għandha tapplika, mingħajr m’għandha l-possibilità li tintalab kwalunkwe eżenzjoni, tnaqqis, kreditu jew kumpens ta’ kwalunkwe tip:
 
 Iżda li, il-benefiċjarju għandu jingħata tnaqqis ta’ taxxa mħallsa skont l-artikolu 23 tal-Att dwar l-Amministrazzjoni tat-Taxxa.
 
@@ -163,10 +143,6 @@ Iżda li, il-benefiċjarju għandu jingħata tnaqqis ta’ taxxa mħallsa skont 
 
 Iżda l-eliġibbilità taħt dawn ir-regoli m’għandhiex teċċedi perjodu konsekuttiv ta’ għaxar snin li jibda mis-sena ta’ qabel l-ewwel sena ta’ stima li fiha dik il-persuna tkun l-ewwel suġġetta għat-taxxa skont id-dispożizzjonijiet tal-Att.
 
-*6*
-
-ATTIVITAJIET TAL-INDUSTRIJA TAS-SERVIZZJAR TAŻ-ŻEJT U L- [L.S. 123.182 GASS OFFSHORE (TAXXA PERSONALI)
-
 ## 7. Arranġamenti Artifiċjali.
 
 (1) Meta persuna, sabiex tikseb benefiċċji taħt dawn ir-regoli, tagħmel użu minn arranġamenti artifiċjali, il-Kummissarju għandu, b’ordni bil-miktub, jiddetermina l-obbligu fiskali tal-imsemmija persuna, għal kwalunkwe sena ta’ stima, b’dak il-mod u b’dak l-ammont kif jista’ jkun meħtieġ, fiċ-ċirkustanzi tal-każ li ġġib fix-xejn il-benefiċċji miksuba skont dawn ir-regoli. Persuna li ma taqbilx mal-ordni notifikat lilha msemmi aktar qabel għandu jkollha l-istess drittijiet biex toġġezzjona għal dan l-ordni u li tappella mid-deċiżjoni tal-Kummissarju li ċaħad din l-oġġezzjoni bħallikieku dan l-ordni kien stima maħruġa skont l-Att dwar l-Amministrazzjoni tat- Taxxa u d-dispożizzjonijiet rilevanti ta’ dak l-Att dwar l-oġġezzjonijiet u l-appelli għandhom japplikaw mutatis mutandis:
@@ -185,13 +161,9 @@ Iżda wkoll l-obbligu li tħallas taxxa addizzjonali f’termini tal-proviso pre
 
 (2) Jekk individwu jonqos, mingħajr raġuni valida, li jikkonforma ma’ kull talba dwar l-income tiegħu li kienet saritlu mill- Kummissarju u mill-awtorità kompetenti skont din ir-regola, il- Kummissarju u l-awtorità kompetenti jistgħu jiddeċiedu li l-artikolu 56(21) tal-Att ma japplikax għal dak l-income. F’dak il-każ, il- Kummissarju jista’ jagħmel stima u t-taxxa fuq dak l-income għandha tiġi kkalkulata skont ir-rati previsti fl-Att mingħajr ebda referenza għal din is-subregola.
 
-ATTIVITAJIET TAL-INDUSTRIJA TAS-SERVIZZJAR TAŻ-ŻEJT U L-
+## 9. L-għażla disponibbli skont l-artikolu 56(21) tal- Att.
 
-*7*
-
-GASS OFFSHORE (TAXXA PERSONALI) [L.S. 123.182 9. L-għażla disponibbli skont l-artikolu 56(21) tal-Att għandha tiġi eżerċitata permezz ta’ dikjarazzjoni ffirmata mill-benefiċjarju u approvata mill-awtorità kompetenti magħmula b’dik il-forma jew b’dak il-mod li l-Kummissarju jista’ jeħtieġ u mehmuża ma’ jew inkluża fil-prospett tat-taxxa relattiv għas-sena ta’ stima. M’għandhiex titqies li tkun ġiet validament eżerċitata sakemm l-income li għalih tapplika jiġi kompletament u korrettament iddikjarat fid-dikjarazzjoni tat-taxxa msemmija u sakemm id-dikjarazzjoni msemmija u l-prospett tat-taxxa jiġu ppreżentati mhux aktar tard mid-data stabbilita għall-prospett tat-taxxa relativa:
-
-*L-għażla disponibbli skont l-artikolu 56(21) tal- Att.*
+L-għażla disponibbli skont l-artikolu 56(21) tal-Att għandha tiġi eżerċitata permezz ta’ dikjarazzjoni ffirmata mill-benefiċjarju u approvata mill-awtorità kompetenti magħmula b’dik il-forma jew b’dak il-mod li l-Kummissarju jista’ jeħtieġ u mehmuża ma’ jew inkluża fil-prospett tat-taxxa relattiv għas-sena ta’ stima. M’għandhiex titqies li tkun ġiet validament eżerċitata sakemm l-income li għalih tapplika jiġi kompletament u korrettament iddikjarat fid-dikjarazzjoni tat-taxxa msemmija u sakemm id-dikjarazzjoni msemmija u l-prospett tat-taxxa jiġu ppreżentati mhux aktar tard mid-data stabbilita għall-prospett tat-taxxa relativa:
 
 Iżda meta l-imsemmija dikjarazzjoni jew il-prospett tat-taxxa relattiv jintbagħtu aktar tard minn dik id-data stabbilita għall-prospett tat-taxxa, il-Kummissarju jista’ jittratta l-għażla bħala eżerċitata b’mod validu jekk ikun sodisfatt li d-dewmien kien minħabba skuża raġonevoli.
 
@@ -206,10 +178,6 @@ Iżda meta l-imsemmija dikjarazzjoni jew il-prospett tat-taxxa relattiv jintbag�
 ## 11. Approvazzjoni tal- Formola.
 
 Għall-finijiet tar-regola 9, l-awtorità kompetenti, wara applikazzjoni ppreżentata minn benefiċjarju, għandha tapprova l-formola mitluba mill-Kummissarju.
-
-*8*
-
-ATTIVITAJIET TAL-INDUSTRIJA TAS-SERVIZZJAR TAŻ-ŻEJT U L- [L.S. 123.182 GASS OFFSHORE (TAXXA PERSONALI)
 
 ## SKEDA
 

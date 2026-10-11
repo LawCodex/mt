@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta Lm700,000 3% Stock Lokali Reġistrat għall-Iżvilupp 2001 (S.L. 161.20)
 
-}RU{ TA’ LM700,000 3% STOCK LOKALI
-
-*1*
-
-RE{ISTRAT G}ALL-I|VILUPP 2001 [L.S.161.20
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.20**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

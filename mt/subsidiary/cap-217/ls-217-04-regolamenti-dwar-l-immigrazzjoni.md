@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Immigrazzjoni"
-identifier: "S.L. 217.4"
+identifier: "S.L. 217.04"
 eli: "https://legislation.mt/eli/sl/217.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/217.4/20260722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Immigrazzjoni (S.L. 217.4)
+# Regolamenti dwar l-Immigrazzjoni (S.L. 217.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 217.04**
 

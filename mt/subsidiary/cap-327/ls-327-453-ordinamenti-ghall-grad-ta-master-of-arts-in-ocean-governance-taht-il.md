@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Ocean Governance taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.453)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.453
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.453**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -70,10 +66,6 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time.
 (2) L-istudenti li jiksbu s-60 kredtu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal- Postgraduate Diploma.
 
 (3) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
-
-*2*
-
-[L.S.327.453 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI
 
 ## 6. Valutazzjoni u progress.
 

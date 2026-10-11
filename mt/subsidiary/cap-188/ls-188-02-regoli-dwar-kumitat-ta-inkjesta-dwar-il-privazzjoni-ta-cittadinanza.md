@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar Kumitat ta Inkjesta dwar il-Privazzjoni ta Ċittadinanza Maltija"
-identifier: "S.L. 188.2"
+identifier: "S.L. 188.02"
 eli: "https://legislation.mt/eli/sl/188.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/188.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar Kumitat ta Inkjesta dwar il-Privazzjoni ta Ċittadinanza Maltija (S.L. 188.2)
-
-IL-PRIVAZZJONI TA’ ~ITTADINANZA MALTIJA [ L.S.188.02
+# Regoli dwar Kumitat ta Inkjesta dwar il-Privazzjoni ta Ċittadinanza Maltija (S.L. 188.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 188.02**
 
@@ -101,9 +99,7 @@ Formula B murija fl-Iskeda li tinsab ma’ dawn ir-Regoli.
 
 (2) Id-de`i\\jonijiet tal-Kumitat g]andhom ikunu bil-miktub u g]andhom ikunu iffirmati mi`-Chairman u mis-segretarju, u l-ori[inal g]andu jin\\amm mis-Segretarju tal-Kumitat flimkien mad-dokumenti kollha tal-pro`edimenti ta’ kull inkjesta.
 
-IL-PRIVAZZJONI TA’ ~ITTADINANZA MALTIJA [ L.S.188.02 SKEDA
-
-**Formula A**
+## SKEDA — Formula A
 
 (Regola 3)
 
@@ -143,7 +139,7 @@ Jiena ......................................................... li n]tart Chairm
 
 Hekk Alla jg]ini.
 
-............................ Chairman/Membru IL-PRIVAZZJONI TA’ ~ITTADINANZA MALTIJA [ L.S.188.02
+............................ Chairman/Membru
 
 **Formula ~**
 

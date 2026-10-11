@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar l-Eżenzjoni mit-Taxxa fuq l-Income fuq Sussidji Agrikoli (S.L. 123.91)
 
-*1*
-
-FUQ SUSSIDJI AGRIKOLI [L.S.123.91
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.91**
 
 **REGOLI DWAR L-E|ENZJONI MIT-TAXXA**

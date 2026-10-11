@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Produzzjoni tal-Petroleum"
-identifier: "S.L. 156.1"
+identifier: "S.L. 156.01"
 eli: "https://legislation.mt/eli/sl/156.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/156.1/20230901/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Produzzjoni tal-Petroleum (S.L. 156.1)
+# Regolamenti dwar il-Produzzjoni tal-Petroleum (S.L. 156.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 156.01**
 

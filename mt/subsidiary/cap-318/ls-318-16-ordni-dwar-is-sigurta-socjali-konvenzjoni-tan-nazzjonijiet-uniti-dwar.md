@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar is-Sigurtà Soċjali (Konvenzjoni tan-Nazzjonijiet Uniti dwar l-Istatus tar-Rifuġjati) (S.L. 318.16)
 
-SIGURTÀ SO~JALI (KONVENZJONI TAN-NAZZJONIJIET
-
-*1*
-
-UNITI DWAR L-ISTATUS TAR-RIFU{JATI) [L.S.318.16
-
 **LEĠISLAZZJONI SUSSIDJARJA 318.16**
 
 **ORDNI DWAR IS-SIGURTÀ SOĊJALI**

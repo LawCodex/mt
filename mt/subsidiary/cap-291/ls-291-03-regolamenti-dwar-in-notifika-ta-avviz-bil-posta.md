@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar in-Notifika ta' Avviż bil-Posta"
-identifier: "S.L. 291.3"
+identifier: "S.L. 291.03"
 eli: "https://legislation.mt/eli/sl/291.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/291.3/20210129/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar in-Notifika ta' Avviż bil-Posta (S.L. 291.3)
+# Regolamenti dwar in-Notifika ta' Avviż bil-Posta (S.L. 291.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 291.03**
 

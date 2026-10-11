@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar l-Esportazzjoni bl-Ajru tat-Tadam"
-identifier: "S.L. 85.7"
+identifier: "S.L. 85.07"
 eli: "https://legislation.mt/eli/sl/85.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.7/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar l-Esportazzjoni bl-Ajru tat-Tadam (S.L. 85.7)
+# Regoli dwar l-Esportazzjoni bl-Ajru tat-Tadam (S.L. 85.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 85.07**
 

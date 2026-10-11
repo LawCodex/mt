@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mal-Gran Dukat ta' Lussemburgu (S.L. 123.37)
 
-*1*
-
-L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.37**
 
 **ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’**
@@ -50,8 +46,6 @@ Qiegħed jiġi hawnhekk dikjarat -
 (v) it-taxxa fuq il-kummerċ komunali;
 
 (b) illi huwa spedjenti li dawk l-arranġamenti jkollhom effett.
-
-2 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
 
 ## SKEDA — FTEHIM BEJN MALTA — U L-GRAN DUKAT TA’ LUSSEMBURGU
 
@@ -105,8 +99,6 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa bħalhom jew li sostanzjalment
 
 Minkejja d-disposizzjonijiet l-oħra ta’ dan l-Artikolu dan il-Ftehim ma japplikax għal taxxa mħallsa jew li titħallas f’Malta skond id-disposizzjonijiet tas-subartikolu (13) ta’ l-artikolu 56 ta’ l-Att dwar it-Taxxa fuq l-Income dwar l-income taxxabbli ta’ persuna li tkun taħdem fil-produzzjoni ta’ żejt petroleum li jiġi prodott f’Malta jew kull disposizzjoni oħra sostanzjalment simili li tiġi imposta wara d-data tal-firma ta’ dan il-Ftehim.
 
-L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 3
-
 **ARTIKOLU 3**
 
 **Tifsiriet Ġenerali**
@@ -145,9 +137,7 @@ L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 3
 
 **Residenti**
 
-\1. Ghall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taħt il-liġijiet ta’ dak l-Istat, hija suġġetta għat-taxxa hemmhekk minħabba d-domiċilju, ir-residenza, post tal-maniġġ jew xi kriterju ieħor ta’ xorta 4 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
-
-bħal din. Iżda din il-frażi ma tinkludix lil persuna li tkun suġġetta għat-taxxa f’dak l- Istat għar-rigward biss ta’ income minn għejjun f’dak l-Istat jew ta’ kapital ġewwa fih.
+\1. Ghall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taħt il-liġijiet ta’ dak l-Istat, hija suġġetta għat-taxxa hemmhekk minħabba d-domiċilju, ir-residenza, post tal-maniġġ jew xi kriterju ieħor ta’ xorta bħal din. Iżda din il-frażi ma tinkludix lil persuna li tkun suġġetta għat-taxxa f’dak l- Istat għar-rigward biss ta’ income minn għejjun f’dak l-Istat jew ta’ kapital ġewwa fih.
 
 \2. Fejn minħabba d-disposizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewġ Stati Kontraenti, allura l-Istat tiegħu għandu jiġi determinat kif ġej:
 
@@ -189,9 +179,7 @@ Meta minħabba d-disposizzjonijiet tal-paragrafu 1 persuna li ma tkunx individwu
 
 (b) it-tiżmim ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà ta’ l-impriża għall-iskop biss ta’ ħażna, wiri jew tqassim;
 
-(ċ) it-tiżmim ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà ta’ l- L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 5
-
-impriża għall-iskop biss ta’ proċessar minn impriża oħra;
+(ċ) it-tiżmim ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà ta’ l-impriża għall-iskop biss ta’ proċessar minn impriża oħra;
 
 (d) it-tiżmim ta’ post fiss ta’ negozju għall-iskop biss ta’ xiri ta’ oġġetti jew merkanzija jew ta’ ġbir ta’ tagħrif għall-impriża;
 
@@ -227,9 +215,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tikkontrolla jew t
 
 **Income minn Proprjetà Immobiljari**
 
-\1. Income miksub minn residenti ta’ Stat Kontraenti minn proprjetà immobiljari (inkluż income minn xogħol fl-agrikoltura jew fil-boskijiet) sitwata fl- 6 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
-
-Istat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
+\1. Income miksub minn residenti ta’ Stat Kontraenti minn proprjetà immobiljari (inkluż income minn xogħol fl-agrikoltura jew fil-boskijiet) sitwata fl- Istat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
 
 \2. Il-frażi "proprjetà immobiljari" għandu jkollha l-istess tifsir li għandha taħt il-liġi ta’ l-Istat Kontraenti li fih il-proprjetà li tkun hija sitwata. Il-frażi għandha f’kull każ tinkludi proprjetà aċċessorja għal proprjetà immobiljari, bhejjem u tagħmir użati fl-agrikoltura jew fil-boskijiet, drittijiet li għalihom japplikaw id-disposizzjonijiet tal-liġi ġenerali dwar proprjetà terrena, użufrutt ta’ proprjetà immobiljari u drittijiet għal ħlasijiet li jvarjaw jew fissi bħala kumpens għall-ħdim ta’, jew għall-jedd li jinħadmu jew li jiġu esplorati depożiti minerali, għejjun u riżorsi oħra naturali; bastimenti, dgħajjes u inġenji ta’ l-ajru ma għandhomx jitqiesu bħala proprjetà immobiljari.
 
@@ -249,9 +235,7 @@ Istat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
 
 \4. Ebda ħaġa f’dan l-Artikolu ma għandha tolqot l-applikazzjoni ta’ xi liġi ta’ Stat Kontraenti li jkollha x’taqsam ma’ kif jiġi stabbilit kemm persuna għandha tħallas bħala taxxa, inkluż li jiġi stabbilit kemm għandu jitħallas bl-użu tad-diskrezzjoni jew bl-għemil ta’ stima mill-awtorità kompetenti ta’ dak l-Istat f’każi li fihom, mit-tagħrif li l-awtorità kompetenti ta’ dak l-Istat ikollha, ma jkunx possibbli jew prattiku li jiġu aċċertati xi jkunu l-profitti li kellu stabbiliment permanenti, kemm-il darba dik il-liġi tiġi applikata u r-riżultat ikun skond il-prinċipji li jinsabu f’dan l-Artikolu.
 
-\5. Ma għandhom jiġu attribwiti ebda profitti lil stabbiliment permanenti minħabba biss ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 7
-
-għall-impriża.
+\5. Ma għandhom jiġu attribwiti ebda profitti lil stabbiliment permanenti minħabba biss ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija għall-impriża.
 
 \6. Ghall-finijiet tal-paragrafi ta’ qabel, il-profitti li għandhom jiġu attribwiti lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess mod minn sena għal sena kemm-il darba ma jkunx hemm raġuni tajba u biżżejjed biex isir kuntrarju.
 
@@ -283,9 +267,7 @@ u f’kull każ jiġu magħmula jew imposti kundizzjonijiet bejn iż-żewġ impr
 
 \2. Ebda ħaġa f’dan l-Artikolu ma għandha tolqot l-applikazzjoni ta’ xi liġi ta’ Stat Kontraenti li jkollha x’taqsam ma’ kif jiġi stabbilit kemm għandha titħallas taxxa minn impriża inkluż kif jiġi stabbilit kemm għandha tkun dik it-taxxa bl-użu tad-diskrezzjoni jew bl-għemil ta’ stima mill-awtorità kompetenti ta’ dak l-Istat f’każi li fihom, mit-tagħrif li l-awtorità kompetenti ta’ dak l-Istat ikollha, ma jkunx possibbli jew prattiku li jiġi stabbilit xi jkunu l-profitti li kellha impriża, kemm-il darba dik il-liġi tiġi applikata, u r-riżultat ikun konsistenti mal-prinċipji ta’ dan l- Artikolu.
 
-\3. Meta Stat Kontraenti jinkludi fil-profitti ta’ impriża ta’ dak l-Istat, u jintaxxa skond hekk, profitti li fuqhom impriża ta’ l-Istat Kontraenti l-ieħor ġiet intaxxata f’dak l-Istat l-ieħor u l-profitti hekk magħduda jkunu profitti li kienu jinqalgħu mill-impriża ta’ l-ewwel Stat imsemmi kieku l-kundizzjonijiet magħmula bejn iż-żewġ impriżi kienu dawk li kienu jsiru bejn żewġ impriżi indipendenti, allura 8 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
-
-dak l-Istat l-ieħor għandu jagħmel it-tibdil xieraq fl-ammont tat-taxxa imposta hemmhekk fuq dawk il-profitti. Biex jiġi stabbilit it-tibdil, għandu jittieħed qies xieraq tad-disposizzjonijiet l-oħra ta’ dan il-Ftehim u l-awtoritajiet kompetenti ta’ l- Istati Kontraenti għandhom jekk iħossu l-bżonn jikkonsultaw lil xulxin.
+\3. Meta Stat Kontraenti jinkludi fil-profitti ta’ impriża ta’ dak l-Istat, u jintaxxa skond hekk, profitti li fuqhom impriża ta’ l-Istat Kontraenti l-ieħor ġiet intaxxata f’dak l-Istat l-ieħor u l-profitti hekk magħduda jkunu profitti li kienu jinqalgħu mill-impriża ta’ l-ewwel Stat imsemmi kieku l-kundizzjonijiet magħmula bejn iż-żewġ impriżi kienu dawk li kienu jsiru bejn żewġ impriżi indipendenti, allura dak l-Istat l-ieħor għandu jagħmel it-tibdil xieraq fl-ammont tat-taxxa imposta hemmhekk fuq dawk il-profitti. Biex jiġi stabbilit it-tibdil, għandu jittieħed qies xieraq tad-disposizzjonijiet l-oħra ta’ dan il-Ftehim u l-awtoritajiet kompetenti ta’ l- Istati Kontraenti għandhom jekk iħossu l-bżonn jikkonsultaw lil xulxin.
 
 **ARTIKOLU 10**
 
@@ -309,9 +291,7 @@ Dan il-paragrafu ma jolqotx it-tassazzjoni ta’ kumpannija għar-rigward tal-pr
 
 \4. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma għandhomx japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- Istat Kontraenti l-ieħor, li tiegħu tkun residenti l-kumpannija li tħallas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jaqdi f ’dak l-Istat l-ieħor servizz personali indipendenti minn bażi stabbilit sitwat hemmhekk, u l-holding li dwarhom id-dividendi jkunu mħallsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew bażi stabbilit. F’dak il-każ id-disposizzjonijiet ta’ l-Artikolu 7 jew l-Artikolu 14, skond il-każ, għandhom japplikaw.
 
-\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief meta dividendi bħal dawn jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew safejn il-holding li dwaru jitħallsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ bażi stabbilit sitwat f’dak l-Istat l-ieħor, jew jissuġġetta l-profitti mhux distribwiti tal-kumpannija għal taxxa fuq il-profitti mhux distribwiti tal-kumpannija, anki jekk id-dividendi L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 9
-
-mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
+\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief meta dividendi bħal dawn jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew safejn il-holding li dwaru jitħallsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ bażi stabbilit sitwat f’dak l-Istat l-ieħor, jew jissuġġetta l-profitti mhux distribwiti tal-kumpannija għal taxxa fuq il-profitti mhux distribwiti tal-kumpannija, anki jekk id-dividendi mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
 
 **ARTIKOLU 11**
 
@@ -339,9 +319,7 @@ mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti m
 
 (b) għall-għoti ta’ tagħrif jew informazzjoni ta’ xorta xjentifika, teknika, industrijali jew kummerċjali;
 
-(ċ) għall-provvista ta’ kull għajnuna li tkun anċillari u sussidjarja għal, u li 10 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
-
-tingħata bħala mezz li jagħti lok għall-applikazzjoni jew tgawdija ta’, dik il-proprjetà jew ta’ dak il-jedd kif hemm imsemmi fis-subparagrafu (a) jew kull tagħrif jew informazzjoni simili kif imsemmija fis-subparagrafu (b);
+(ċ) għall-provvista ta’ kull għajnuna li tkun anċillari u sussidjarja għal, u li tingħata bħala mezz li jagħti lok għall-applikazzjoni jew tgawdija ta’, dik il-proprjetà jew ta’ dak il-jedd kif hemm imsemmi fis-subparagrafu (a) jew kull tagħrif jew informazzjoni simili kif imsemmija fis-subparagrafu (b);
 
 (d) għall-użu ta’, jew għall-jedd ta’ l-użu ta’:
 
@@ -365,9 +343,7 @@ tingħata bħala mezz li jagħti lok għall-applikazzjoni jew tgawdija ta’, di
 
 \1. Income jew kull qligħ miksub minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli msemmija fl-Artikolu 6 u li tkun tinsab fl-Istat Kontraenti l-ieħor kif ukoll kull qligħ li jinkiseb mit-trasferiment ta’ ishma jew kull parteċipazzjoni f’kumpannija li l-attiv tagħha jkun prinċipalment jikkonsisti fi proprjetà immobbli li tkun tinsab fl-Istat Kontraenti l-ieħor, jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
 
-\2. Income jew kull qligħ mit-trasferiment ta’ proprjetà mobbli li tagħmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor jew ta’ proprjetà mobbli li tkun tappartjeni għal bażi fissa lil residenti ta’ Stat Kontraenti fl-Istat Kontraenti l-ieħor bil-għan li jittwettqu servizzi personali indipendenti, inkluż dak l-income jew qligħ mit- L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 11
-
-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien ma’ l-impriża kollha) jew ta’ dik il-bażi fissa, jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
+\2. Income jew kull qligħ mit-trasferiment ta’ proprjetà mobbli li tagħmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor jew ta’ proprjetà mobbli li tkun tappartjeni għal bażi fissa lil residenti ta’ Stat Kontraenti fl-Istat Kontraenti l-ieħor bil-għan li jittwettqu servizzi personali indipendenti, inkluż dak l-income jew qligħ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien ma’ l-impriża kollha) jew ta’ dik il-bażi fissa, jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
 
 \3. Income jew kull qligħ miksub minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ bastimenti jew inġenji ta’ l-ajru mħaddma fi traffiku internazzjonali jew proprjetà immobbli li tappartjeni għat-tħaddim ta’ dawk il-bastimenti jew inġenji ta’ l-ajru, għandu jkun taxxabbli biss f’dak l-Istat.
 
@@ -399,9 +375,7 @@ trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien ma’ l-i
 
 (ċ) dak il-kumpens ma jkunx piż fuq l-istabbiliment permanenti jew bażi stabbilit li l-prinċipal ikollu fl-Istat l-ieħor.
 
-\3. Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, kumpens miksub dwar impieg eżerċitat abbord bastiment, jew inġenji ta’ l-ajru imħaddma fi traffiku internazzjonali minn impriża ta’ Stat Kontraenti jista’ jkun taxxabbli biss f’dak l- 12 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
-
-Istat.
+\3. Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, kumpens miksub dwar impieg eżerċitat abbord bastiment, jew inġenji ta’ l-ajru imħaddma fi traffiku internazzjonali minn impriża ta’ Stat Kontraenti jista’ jkun taxxabbli biss f’dak l- Istat.
 
 **ARTIKOLU 16**
 
@@ -437,9 +411,7 @@ Id-drittijiet u ħlasijiet simili tad-diretturi li jinkisbu minn residenti ta’
 
 (ii) ma jkunx sar residenti ta’ dak l-Istat sabiex unikament jaqdi dawk is-servizzi.
 
-\2. (a) Kull pensjoni mħallsa minn, jew li toħroġ minn fond maħluq minn Stat Kontraenti jew sotto-diviżjoni politika jew awtorità lokali tiegħu lil xi individwu L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 13
-
-dwar servizzi mogħtija lil dak l-Istat jew sotto-diviżjoni jew awtorità tiegħu tista’ tiġi ntaxxata biss f’dak l-Istat.
+\2. (a) Kull pensjoni mħallsa minn, jew li toħroġ minn fond maħluq minn Stat Kontraenti jew sotto-diviżjoni politika jew awtorità lokali tiegħu lil xi individwu dwar servizzi mogħtija lil dak l-Istat jew sotto-diviżjoni jew awtorità tiegħu tista’ tiġi ntaxxata biss f’dak l-Istat.
 
 (b) Iżda, dik il-pensjoni tkun tista’ tiġi intaxxata biss fl-Istat Kontraenti l-ieħor jekk l-individwu jkun residenti u nazzjonali ta’ dak l-Istat.
 
@@ -473,8 +445,6 @@ jkun eżenti mit-taxxa f’dak l-Istat l-ieħor fuq:
 
 \2. Id-disposizzjonijiet tal-paragrafu 1 ma għandhomx japplikaw għal income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 ta’ l-Artikolu 6, jekk min jirċievi dak l-income, li jkun residenti ta’ Stat Kontraenti, jiġġestixxi negozju fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab f’dak l-Istat, jew iwettaq f’dak l-Istat l-ieħor servizzi personali indipendenti minn bażi fiss li jkun jinsab f’dak l-Istat, u d-dritt jew il-proprjetà li dwarhom jitħallas l-income ikollu x’jaqsam b’mod effettiv ma’ dak l-istabbiliment jew bażi fiss. F’dak il-każ għandhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ.
 
-14 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
-
 **ARTIKOLU 22**
 
 **Kapital**
@@ -497,9 +467,7 @@ jkun eżenti mit-taxxa f’dak l-Istat l-ieħor fuq:
 
 (b) Meta residenti ta’ Lussemburgu jikseb royalties li, skond id-disposizzjonijiet ta’ l-Artikolu 12, jistgħu jiġu ntaxxati f’Malta, Lussemburgu għandu jippermetti li jsir tnaqqis mit-taxxa fuq l-income ta’ dak ir-resident ta’ ammont li jkun daqs it-taxxa mħallsa f’Malta. Dak it-tnaqqis ma għandux, madankollu, jkun jeċċedi dak is-sehem mit-taxxa, hekk kif din tinħadem qabel ma jingħata dak it-tnaqqis, li jkun attriwibbli għal dawk ir-royalties li jkunu nkisbu minn Malta.
 
-(ċ) Meta impriża ta’ Lussemburgu tikseb income li, skond id-disposizzjonijiet ta’ l-Artikolu 7, tista’ tiġi ntaxxata f’Malta, Lussemburgu għandu jippermetti li jsir tnaqqis mit-taxxa fuq l-income ta’ dak ir-resident ta’ ammont li jkun daqs it-taxxa li titħallas f’Malta, iżda biss jekk l-impriża tkun tgawdi ġewwa Malta trattament fiskali speċjali bis-saħħa tal-liġijiet jew tal-prattika amministrattiva ta’ Malta. Dan it-tnaqqis ma għandux, madankollu, jkun jeċċedi dak is-sehem mit-taxxa, kif jinħadem qabel ma jingħata t-tnaqqis, li jkun attribwibbli għal dak l-income li jinkiseb minn Malta. Il-Gvernijiet ta’ l-Istati Kontraenti għandhom perjodikament jaqblu liema jkun dak it-trattament fiskali speċjali li jkun intiż taħt id-disposizzjonijiet ta’ dan is-subparagrafu. (d) Minkejja d-disposizzjonijiet tas-subparagrafu (b), meta residenti ta’ Lussemburgu jikseb imgħax jew royalties li jitnisslu f’Malta, L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 15
-
-Lussemburgu għandu jippermetti tnaqqis mit-taxxa fuq l-income ta’ dak ir-resident ta’ ammont li jkun daqs it-taxxa li kienet kieku titħallas li ma kienx għall-eżenzjoni jew tnaqqis tat-taxxa ta’ Malta skond miżuri ta’ inċentiva speċjali għall-promozzjoni ta’ żvilupp ta’ industrija, infrastruttura u turiżmu f’Malta, iżda fil-każ ta’ imgħax jew ta’ royalties dik it-taxxa għandha titqies li tkun tħallset:
+(ċ) Meta impriża ta’ Lussemburgu tikseb income li, skond id-disposizzjonijiet ta’ l-Artikolu 7, tista’ tiġi ntaxxata f’Malta, Lussemburgu għandu jippermetti li jsir tnaqqis mit-taxxa fuq l-income ta’ dak ir-resident ta’ ammont li jkun daqs it-taxxa li titħallas f’Malta, iżda biss jekk l-impriża tkun tgawdi ġewwa Malta trattament fiskali speċjali bis-saħħa tal-liġijiet jew tal-prattika amministrattiva ta’ Malta. Dan it-tnaqqis ma għandux, madankollu, jkun jeċċedi dak is-sehem mit-taxxa, kif jinħadem qabel ma jingħata t-tnaqqis, li jkun attribwibbli għal dak l-income li jinkiseb minn Malta. Il-Gvernijiet ta’ l-Istati Kontraenti għandhom perjodikament jaqblu liema jkun dak it-trattament fiskali speċjali li jkun intiż taħt id-disposizzjonijiet ta’ dan is-subparagrafu. (d) Minkejja d-disposizzjonijiet tas-subparagrafu (b), meta residenti ta’ Lussemburgu jikseb imgħax jew royalties li jitnisslu f’Malta, Lussemburgu għandu jippermetti tnaqqis mit-taxxa fuq l-income ta’ dak ir-resident ta’ ammont li jkun daqs it-taxxa li kienet kieku titħallas li ma kienx għall-eżenzjoni jew tnaqqis tat-taxxa ta’ Malta skond miżuri ta’ inċentiva speċjali għall-promozzjoni ta’ żvilupp ta’ industrija, infrastruttura u turiżmu f’Malta, iżda fil-każ ta’ imgħax jew ta’ royalties dik it-taxxa għandha titqies li tkun tħallset:
 
 (i) bl-10 fil-mija ta’ l-ammont sħiħ ta’ imgħax imsemmi fl-Artikolu 11; u
 
@@ -521,9 +489,7 @@ F’Malta, it-taxxa doppja għandha titneħħa kif ġej:
 
 *\3.*
 
-Meta l-Ftehim ikun jipprovdi li l-income li jitnissel fi Stat Kontraenti 16 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
-
-għandu jinħeles mit-taxxa f’dak l-Istat, sew jekk kollu kemm hu jew f’parti minnu, u skond il-liġi li tkun fis-seħħ fl-Istat Kontraenti l-ieħor, dak l-income ikun suġġett għat-taxxa b’referenza għall-ammont tiegħu li jingħata lura lil jew li jiġi riċevut f’dak l-Istat l-ieħor u mhux b’referenza għall-ammont sħiħ tiegħu, għaldaqshekk il-ħelsien li jiġi permess fl-ewwel Stat ikun japplika biss għal daqstant mill-income daqskemm jingħata lura jew jiġi riċevut fl-Istat l-ieħor.
+Meta l-Ftehim ikun jipprovdi li l-income li jitnissel fi Stat Kontraenti għandu jinħeles mit-taxxa f’dak l-Istat, sew jekk kollu kemm hu jew f’parti minnu, u skond il-liġi li tkun fis-seħħ fl-Istat Kontraenti l-ieħor, dak l-income ikun suġġett għat-taxxa b’referenza għall-ammont tiegħu li jingħata lura lil jew li jiġi riċevut f’dak l-Istat l-ieħor u mhux b’referenza għall-ammont sħiħ tiegħu, għaldaqshekk il-ħelsien li jiġi permess fl-ewwel Stat ikun japplika biss għal daqstant mill-income daqskemm jingħata lura jew jiġi riċevut fl-Istat l-ieħor.
 
 **ARTIKOLU 24**
 
@@ -547,9 +513,7 @@ Bl-istess mod, kull debitu ta’ impriża ta’ Stat Kontraenti lil residenti ta
 
 **Pro`edura għal Ftehim Re`iproku**
 
-\1. Meta persuna jidhrilha li l-azzjonijiet ta’ l-awtorità kompetenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn iwasslu jew jistgħu jwasslu li tiġi ntaxxata mhux L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 17
-
-skond id-disposizzjonijiet ta’ dan il-Ftehim, hija tista’, minkejja r-rimedji provduti bil-liġi domestika ta’ dawk l-Istati, tippreżenta l-każ tagħha lill-awtorità kompetenti ta’ l-Istat Kontraenti li tiegħu hija residenti jew, jekk il-każ tagħha jkun jaqa’ taħt il-paragrafu 1 ta’ l-Artikolu 24, lill-awtorità kompetenti ta’ l-Istat Kontraenti li tagħha tkun ċittadin. Il-każ għandu jiġi preżentat fi żmien tliet snin mill-ewwel notifika ta’ l-azzjoni li tirriżulta f’tassazzjoni li ma tkunx skond id-disposizzjonijiet tal-Ftehim.
+\1. Meta persuna jidhrilha li l-azzjonijiet ta’ l-awtorità kompetenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn iwasslu jew jistgħu jwasslu li tiġi ntaxxata mhux skond id-disposizzjonijiet ta’ dan il-Ftehim, hija tista’, minkejja r-rimedji provduti bil-liġi domestika ta’ dawk l-Istati, tippreżenta l-każ tagħha lill-awtorità kompetenti ta’ l-Istat Kontraenti li tiegħu hija residenti jew, jekk il-każ tagħha jkun jaqa’ taħt il-paragrafu 1 ta’ l-Artikolu 24, lill-awtorità kompetenti ta’ l-Istat Kontraenti li tagħha tkun ċittadin. Il-każ għandu jiġi preżentat fi żmien tliet snin mill-ewwel notifika ta’ l-azzjoni li tirriżulta f’tassazzjoni li ma tkunx skond id-disposizzjonijiet tal-Ftehim.
 
 \2. L-awtorità kompetenti għandha tara, jekk l-oġġezzjoni tidhrilha li tkun waħda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal għal soluzzjoni sodisfaċenti, li tiddeċiedi l-każ bi ftehim reċiproku ma’ l-awtorità kompetenti ta’ l- Istat Kontraenti l-ieħor, bil-għan li tiġi evitata tassazzjoni mhux skond dan il- Ftehim. Kull ftehim milħuq għandu jitwettaq minkejja kull żmien ta’ skadenza stipulat fil-liġi domestika ta’ l-Istati Kontraenti.
 
@@ -572,8 +536,6 @@ a) li jwettaq miżuri amministrattivi li ma jkunux jaqblu mal-liġijiet u mal-pr
 b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ieћor;
 
 \*kif sostitwit bil-Protokoll riprodott fl-Avviż Legali 238 tal-2013.
-
-18 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
 
 ċ) li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew informazzjoni, li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
@@ -606,8 +568,6 @@ Ebda ħaġa f’dan il-Ftehim ma għandha tolqot il-privileġġi fiskali ta’ a
 (a) f’Lussemburgu:
 
 (i) għar-rigward ta’ taxxa miżmuma f’ras il-għajn, dwar income miksub fl-1 ta’ Jannar jew wara dik id-data fis-sena kalendarja li fiha jibda jseħħ il-Ftehim;
-
-L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 19
 
 (ii) għar-rigward ta’ taxxi fuq l-income u taxxi fuq kapital oħra, dwar taxxi li jitħallsu għal kull sena taxxabbli li tibda fl-1 ta’ Jannar jew wara dik id-data fis-sena kalendarja li fiha jibda jseħħ il- Ftehim;
 
@@ -645,7 +605,7 @@ Viċi Prim Ministru, Viċi Prim Ministru,
 
 Ministru ta’ l-Affarijiet Barranin Ministru ta’ l-Affarijiet Barranin,
 
-Kummerċ Barrani u Ko-operazzjoni 20 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
+Kummerċ Barrani u Ko-operazzjoni
 
 **NOTI MIFTEHMA**
 
@@ -671,7 +631,7 @@ Viċi Prim Ministru, Viċi Prim Ministru,
 
 Ministru ta’ l-Affarijiet Barranin Ministru ta’ l-Affarijiet Barranin,
 
-Kummerċ Barrani u Ko-operazzjoni L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 21
+Kummerċ Barrani u Ko-operazzjoni
 
 **PROTOKOLL**
 
@@ -715,9 +675,7 @@ b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew
 
 ċ) li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew informazzjoni, li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
-\4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- 22 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
-
-Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f ’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
+\4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f ’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
 \5. F’ebda każ ma gћandhom id-dispożizzjonijiet tal-paragrafu 3 jiftiehmu bћala li jħallu lil Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’xi kapaċità ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetá f’xi persuna.".
 
@@ -735,9 +693,7 @@ Tonio Fenech Luc Frieden
 
 Għall-Gvern ta’ Għall-Gvern tal-
 
-Malta Gran Dukat ta’ Lussemburgu L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU [L.S.123.37 23
-
-Brussell, it-30 ta’ Novembru 2011
+Malta Gran Dukat ta’ Lussemburgu Brussell, it-30 ta’ Novembru 2011
 
 L-Eċċellenza Tiegħu Is-Sur Tonio Fenech Ministru tal-Finanzi ta’ Malta Eċċellenza,
 
@@ -763,9 +719,7 @@ Kemm il-darba dak li hu mifhum hawn fuq ikun approvat mill-Gvern ta’ Malta, g�
 
 Nitolbok, Eċċellenza Tiegħek, tilqa’ l-espressjoni ta’ l-akbar rispett imġedded tiegħi.
 
-Luc Frieden 24 [L.S.123.37 L-INCOME MAL-GRAN DUKAT TA’ LUSSEMBURGU
-
-Brussell, 30 ta’ Novembru, 2011 L-Eċċellenza Tiegħu Mr. Luc Frieden Ministru tal-Finanzi ta’ Gran Dukat ta’ Lussemburgu Eċċellenza,
+Luc Frieden Brussell, 30 ta’ Novembru, 2011 L-Eċċellenza Tiegħu Mr. Luc Frieden Ministru tal-Finanzi ta’ Gran Dukat ta’ Lussemburgu Eċċellenza,
 
 Għandi l-unur nirrikonoxxi li rċevejt in-Nota tal-Eċċelenza Tiegħek li ġġib id-data ta’ llum li tgħid dan li ġej:
 

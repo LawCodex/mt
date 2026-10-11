@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) in Medical Biochemistry - B.Sc. (Hons) Med. Biochem. - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija u tal-Fakultà tax-Xjenza (S.L. 327.567)
 
-MEDICAL BIOCHEMISTRY - B.Sc. (Hons.) Med. Biochem. -
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-MEDIĊINA
-
-*1*
-
-UL-KIRURĠIJA UTAL-FAKULTÀ TAX-XJENZA [L.S.327.567
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.567**
 
 ORDINAMENTI GĦALL GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN MEDICAL BIOCHEMISTRY - B.Sc. (Hons.) Med. Biochem. - TAĦT IL-
@@ -70,15 +62,11 @@ Biex ikunu rreġistrati bħala studenti regolari fil-kors, l-applikanti għandho
 
 Il-Bord tal-Istudji għandu jirrakkomanda lis-Senat in-numru ta’ applikanti li jistgħu jitħallew jirreġistraw fil-kors, skont ir-riżorsi disponibbli. L-għadd ta’ postijiet disponibbli għandu jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet. Is-Senat għandu japprova l-ordinamenti għall-għażla tal-applikanti biex jidħlu fil-kors.
 
-MEDICAL BIOCHEMISTRY - B.Sc. (Hons.) Med. Biochem. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-MEDIĊINA
+*Tul tal-kors.*
 
-*2 Tul tal-kors. Enumerat: A.L. 303 tal-2022.*
+*Enumerat: A.L. 303 tal-2022.*
 
-[L.S.327.567 UL-KIRURĠIJA UTAL-FAKULTÀ TAX-XJENZA
-
-## 5.
-
-Il-kors jinfirex fuq medda ta’ tliet snin ta’ studju fuq bażi full-time.
+full-time.
 
 ## 6. Programm tal-kors. Enumerat: A.L. 303 tal-2022.
 

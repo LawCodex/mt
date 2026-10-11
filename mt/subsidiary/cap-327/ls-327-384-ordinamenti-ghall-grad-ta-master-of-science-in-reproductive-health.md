@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Reproductive Health taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.384)
 
-HEALTH TA}T IL-PATRO~INJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDI~INA U L-KIRUR{IJA [S.L.327.384
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.384**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER OF**
@@ -73,13 +67,7 @@ Il-kors g]andu jinfirex fuq tliet semestri ta’ studju fuq ba\\i full-time jew 
 
 (1) Il-programm ta’ studju g]andu jikkonsisti minn taqsimiet studju li g]alihom hemm assenjati total ta’ 90 kredtu, li minnhom 60 kredtu huma assenjati g]at-taqsimiet studju mg]allma u 30 kredtu huma assenjati g]at-taqsima studju tad-dissertazzjoni.
 
-(2) L-istudenti li jiksbu s-60 kredtu assenjati g]at-taqsimiet studiu mg]allma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spi``aw b’su``ess id-dissertazzjoni, jkunu eli[ibbli g]all-g]oti tal-Postgraduate HEALTH TA}T IL-PATRO~INJU TAL-FAKULTÀ
-
-*2*
-
-[S.L.327.384 TAL-MEDI~INA U L-KIRUR{IJA
-
-Diploma.
+(2) L-istudenti li jiksbu s-60 kredtu assenjati g]at-taqsimiet studiu mg]allma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spi``aw b’su``ess id-dissertazzjoni, jkunu eli[ibbli g]all-g]oti tal-Postgraduate Diploma.
 
 (3) Il-programm ta’ studju g]andu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
@@ -111,11 +99,7 @@ Diploma.
 
 ## 9. Klassifikazzjoni tar- Rikonoxximenti.
 
-Il-Marka Medja Finali Mwie\\na g]all-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad g]andha tkun ibba\\ata fuq ir-ri\\ultati miksuba fil-komponenti kollha tal- HEALTH TA}T IL-PATRO~INJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MEDI~INA U L-KIRUR{IJA [S.L.327.384 programm ta’ studju, bil-kredti kollha jing]ataw pi\\ indaqs.
+Il-Marka Medja Finali Mwie\\na g]all-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad g]andha tkun ibba\\ata fuq ir-ri\\ultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jing]ataw pi\\ indaqs.
 
 ## 10. Dispo\\izzjonijiet spe`jali g]all-korsijiet fuq ba\\i part-time.
 

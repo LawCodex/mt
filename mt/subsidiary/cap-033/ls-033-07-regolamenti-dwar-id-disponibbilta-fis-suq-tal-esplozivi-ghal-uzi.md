@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Disponibbiltà fis-Suq tal-Esplożivi għal Użi Ċivili"
-identifier: "S.L. 33.7"
+identifier: "S.L. 33.07"
 eli: "https://legislation.mt/eli/sl/33.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/33.7/20160706/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Disponibbiltà fis-Suq tal-Esplożivi għal Użi Ċivili (S.L. 33.7)
-
-*1*
-
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
+# Regolamenti dwar id-Disponibbiltà fis-Suq tal-Esplożivi għal Użi Ċivili (S.L. 33.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 33.07**
 
@@ -67,10 +63,6 @@ Għall-finijiet ta’ dawn ir-regolamenti, għandhom japplikaw it-tifsiriet li �
 
 "approvazzjoni" tfisser id-deċiżjoni meħuda sabiex jitħallew it-trasferimenti maħsuba tal-esplożivi fl-Unjoni;
 
-*2*
-
-[L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
 "Bord għall-Akkreditament Nazzjonali (Malta)" tfisser il-Bord għall-Akkreditament Nazzjonali (Malta) stabbilit skond ir-regolament 3 tar-Regolamenti dwar Twaqqif tal-Bord Nazzjonali dwar l-Akkreditament (Malta);
 
 *L.S. 419.07*
@@ -102,10 +94,6 @@ Għall-finijiet ta’ dawn ir-regolamenti, għandhom japplikaw it-tifsiriet li �
 "negozjant" tfisser kull persuna naturali jew legali li x-xogħol tagħha, kollu kemm hu jew biċċa minnu jikkonsisti fil-manifattura, il-kummerċ, il-bdil, il-kiri, it-tiswija jew il-konverzjoni ta’ armi tan-nar u munizzjon;
 
 "operaturi ekonomiċi" tfisser il-manifattur, ir-rappreżentant awtorizzat, l-importatur, id-distributur u kull persuna naturali jew legali li twettaq il-ħażna, l-użu, it-trasferiment, l-importazzjoni, l-esportazzjoni jew il-kummerċ tal-esplożivi;
-
-*3*
-
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
 
 "rappreżentant awtorizzat" tfisser kwalunkwe persuna fiżika jew guridika stabbilita fl-Unjoni li tkun irċeviet mandat bil-miktub mingħand il-manifattur sabiex tagixxi f’ismu relattivament għal kompiti speċifiċi;
 
@@ -145,11 +133,7 @@ Meta jkun intwera permezz ta’ dik il-proċedura li l-esplożiv huwa konformi m
 
 (3) Il-manifatturi għandhom iżommu d-dokumentazzjoni teknika u d-dikjarazzjoni tal-konformità tal-UE għal 10 snin wara li l-esplożiv ikun tqiegħed fis-suq.
 
-(4) Il-manifatturi għandhom jaraw li jkollhom f’posthom proċeduri biex il-produzzjoni ta’ serje tibqa’ konformi ma’ dawn ir-regolamenti. Għandhom jitqiesu b’mod suffiċjenti dawk it-tibdiliet fid-disinn jew il-karatteristiċi u t-tibdiliet fl-istandards armonizzati [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-jew fi speċifikazzjonijiet tekniċi oħra li b’referenza għalihom tigi dikjarata l-konformità ta’ esplożiv.
-
-*4*
+(4) Il-manifatturi għandhom jaraw li jkollhom f’posthom proċeduri biex il-produzzjoni ta’ serje tibqa’ konformi ma’ dawn ir-regolamenti. Għandhom jitqiesu b’mod suffiċjenti dawk it-tibdiliet fid-disinn jew il-karatteristiċi u t-tibdiliet fl-istandards armonizzati jew fi speċifikazzjonijiet tekniċi oħra li b’referenza għalihom tigi dikjarata l-konformità ta’ esplożiv.
 
 (5) Il-manifatturi għandhom jiżguraw li l-esplożivi li jkun qiegħdu fis-suq ikollhom identifikazzjoni unika skont is-sistema ta’ identifikazzjoni u traċċabilità tal-esplożivi li jippreskrivi r-regolament 13. Għall-esplożivi esklużi minn dik is-sistema, il-manifatturi għandhom:
 
@@ -167,11 +151,7 @@ jew fi speċifikazzjonijiet tekniċi oħra li b’referenza għalihom tigi dikja
 
 (1) Il-manifattur jistgħa, b’mandat bil-miktub, jaħtar rappreżentant awtorizzat.
 
-(2) L-obbligi stabbiliti fir-regolament 7(1) u l-obbligu tat-tfassil tad-dokumentazzjoni teknika li hemm riferiment għaliha fir- TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
-
-regolament 7(2) ma għandhomx jiffurmaw parti mill-mandat tar-rappreżentant awtorizzat.
-
-*5*
+(2) L-obbligi stabbiliti fir-regolament 7(1) u l-obbligu tat-tfassil tad-dokumentazzjoni teknika li hemm riferiment għaliha fir-regolament 7(2) ma għandhomx jiffurmaw parti mill-mandat tar-rappreżentant awtorizzat.
 
 (3) Rappreżentant awtorizzat għandu jwettaq il-kompiti speċifikati fil-mandat li jirċievi mingħand il-manifattur. Il-mandat għandu jippermetti lir-rappreżentant awtorizzat biex jagħmel mill-inqas dan li ġej:
 
@@ -195,11 +175,7 @@ Meta importatur iqis jew ikollu raguni biex jemmen li esplożiv ma jkunx konform
 
 (5) L-importaturi għandhom jiżguraw li, filwaqt li l-esplożiv ikun taħt ir-responsabbiltà tagħhom, il-kundizzjonijiet ta’ ħżin jew trasport tiegħu ma jippregudikawx il-konformità tiegħu mar-rekwiżiti essenzjali ta’ sikurezza stabbiliti fl-Iskeda II.
 
-(6) L-importaturi li jqisu jew li jkollhom raguni biex jemmnu li esplożiv li jkunu qiegħdu fis-suq mhuwiex konformi ma’ dawn ir-regolamenti għandhom minnufih jieħdu l-miżuri korrettivi [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-meħtiega biex dak l-esplożiv isir konformi, jirtirawħ jew jiġbruħ lura, jekk dan ikun xieraq. Barra minn hekk, meta l-esplożiv jippreżenta riskju, l-importaturi għandhom jinformaw minnufih lill-awtoritajiet nazzjonali kompetenti tal-Istati Membri fejn huma jkunu għamlu l-esplożiv disponibbli fis-suq għal dan il-għan, billi jagħtu d-dettalji, b’mod partikolari, dwar in-nuqqas tal-konformità u dwar kull miżura korrettiva meħuda. L-awtoritajiet kompetenti fil-każ ta' prodotti importati f'Malta, għandhom ikunu il-Pulizija u d-Diviżjoni tar-Regolamenti Tekniċi.
-
-*6*
+(6) L-importaturi li jqisu jew li jkollhom raguni biex jemmnu li esplożiv li jkunu qiegħdu fis-suq mhuwiex konformi ma’ dawn ir-regolamenti għandhom minnufih jieħdu l-miżuri korrettivi meħtiega biex dak l-esplożiv isir konformi, jirtirawħ jew jiġbruħ lura, jekk dan ikun xieraq. Barra minn hekk, meta l-esplożiv jippreżenta riskju, l-importaturi għandhom jinformaw minnufih lill-awtoritajiet nazzjonali kompetenti tal-Istati Membri fejn huma jkunu għamlu l-esplożiv disponibbli fis-suq għal dan il-għan, billi jagħtu d-dettalji, b’mod partikolari, dwar in-nuqqas tal-konformità u dwar kull miżura korrettiva meħuda. L-awtoritajiet kompetenti fil-każ ta' prodotti importati f'Malta, għandhom ikunu il-Pulizija u d-Diviżjoni tar-Regolamenti Tekniċi.
 
 (7) Importaturi, għal 10 snin wara li l-esplożiv ikun tqiegħed fis-suq, għandhom iżommu kopja tad-dikjarazzjoni tal-konformità tal-KE għad-dispożizzjoni tal-awtoritajiet tas-sorveljanza tas-suq u jiżguraw li d-dokumentazzjoni teknika tkun disponibbli għal dawk l-awtoritajiet jekk jitolbuha.
 
@@ -215,11 +191,7 @@ Meta distributur iqis jew ikollu raġuni biex jemmen li l-esplożiv ma jkunx kon
 
 (3) Id-distributuri għandhom jiżguraw li, filwaqt li l-esplożiv ikun taħt ir-responsabbiltà tagħhom, il-kundizzjonijiet ta’ ħżin jew trasport tiegħu ma jippreġudikawx il-konformità tiegħu mar-rekwiżiti essenzjali ta’ sikurezza stabbiliti fl-Iskeda II.
 
-(4) Id-distributuri li jqisu jew li jkollhom raġuni biex jemmnu li l-esplożiv li jkunu għamlu disponibbli fis-suq ma jkunux konformi ma’ dawn ir-regolamenti, għandhom jiżguraw li jittieħdu l-miżuri korrettivi meħtieġa biex l-esplożiv isir konformi, jirtirawħ jew jiġbruħ lura, jekk dan ikun xieraq. Barra minn hekk, meta l-esplożiv jippreżenta riskju, id-distributuri għandhom jinfurmaw minnufih lill-awtoritajiet nazzjonali kompetenti tal-Istati Membri fejn huma jkunu għamlu l-esplożiv disponibbli fis-suq għal dan il- TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
-
-għan, billi jagħtu d-dettalji, b’mod partikolari, dwar in-nuqqas tal-konformità u dwar kull miżura korrettiva meħuda.
-
-*7*
+(4) Id-distributuri li jqisu jew li jkollhom raġuni biex jemmnu li l-esplożiv li jkunu għamlu disponibbli fis-suq ma jkunux konformi ma’ dawn ir-regolamenti, għandhom jiżguraw li jittieħdu l-miżuri korrettivi meħtieġa biex l-esplożiv isir konformi, jirtirawħ jew jiġbruħ lura, jekk dan ikun xieraq. Barra minn hekk, meta l-esplożiv jippreżenta riskju, id-distributuri għandhom jinfurmaw minnufih lill-awtoritajiet nazzjonali kompetenti tal-Istati Membri fejn huma jkunu għamlu l-esplożiv disponibbli fis-suq għal dan il-għan, billi jagħtu d-dettalji, b’mod partikolari, dwar in-nuqqas tal-konformità u dwar kull miżura korrettiva meħuda.
 
 (5) Id-distributuri għandhom, wara talba raġunata mill-Pulizija u, jew mid-Diviżjoni tar-Regolamenti Tekniċi, jipprovduha bl-informazzjoni u d-dokumentazzjoni kollha neċessarja fuq karta jew f’forma elettronika biex juru l-konformità ta’ esplożiv. Dawn għandhom jikkooperaw ma’ dik l-awtorità, wara talba tagħha, fir-rigward ta’ kull azzjoni meħuda biex jiġu eliminati r-riskji ppreżentati mill-esplożivi li huma jkunu għamlu disponibbli fis-suq.
 
@@ -244,10 +216,6 @@ Importatur jew distributur għandu jitqies bħala manifattur għall-finijiet ta�
 Is-sistema ma tapplikax għal esplożivi trasportati u kkunsinnati mhux impakkettati jew fi trakkijiet bil-pompa għall-ħatt dirett tagħhom fil-fornelli tal-mina, jew esplożivi mmanifatturati fis-siti tal-blasting, li jitgħabbew immedjatament wara li jiġu mmanifatturati (l-hekk imsejħa produzzjoni in situ).
 
 (2) Dik is-sistema tiddisponi għall-ġbir u l-ħżin tad-data, inkluż meta jkun xieraq b’mezzi elettroniċi, li tkun tippermetti l-identifikazzjoni unika u t-traċċabilità tal-esplożiv kif ukoll għat-tqegħid ta’ identifikazzjoni unika fuq l-esplożiv u, jew l-impakkettar tiegħu li tkun tippermetti aċċess għal dik id-data. Din id-data torbot mal-identifikazzjoni unika tal-esplożiv, inkluż fejn ikun waqt li jkun fil-pussess tal-operaturi ekonomiċi u l-identità ta’ dawk l-operaturi ekonomiċi.
-
-*8*
-
-[L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
 
 (3) Id-data msemmija fis-subregolament (2) tkun ittestjata f ’intervalli regolari u protetta kontra l-ħsara jew il-qirda aċċidentali jew malizzjuża. Din id-data tinħażen għal 10 snin wara t-tmiem tas-sena kalendarja li fiha twettqet it-transazzjoni jew, fejn l-esplożivi jkunu ntużaw jew tneħħew, għaxar snin wara l-użu u t-tneħħija tagħhom, ukoll jekk l-operatur ekonomiku ma jkunx għadu jopera. Għandhom ikunu minnufih disponibbli fuq it-talba tal- Pulizija u, jew tad-Diviżjoni tar-Regolamenti Tekniċi.
 
@@ -277,11 +245,7 @@ Għall-valutazzjoni tal-konformità ta’ esplożivi, il-manifattur għandu jseg
 
 (2) Id-dikjarazzjoni tal-konformità tal-UE għandu jkollha l-istruttura tal-mudell stabbilita fl-Iskeda IV, għandu jkollha l-elementi speċifikati fil-moduli rilevanti stabbiliti fl-Iskeda III u għandha tiġi aġġornata kontinwament. Għandha tiġi tradotta fil-lingwa jew lingwi meħtieġa mill-Istat Membru fejn jitqiegħed fis-suq jew isir disponibbli l-esplożiv. Għal prodotti li jitqiegħdu jew li jsiru disponibbli fis-suq Malti, id-dikjarazzjoni tal-konformità tal- UE għandha tiġi tradotta mill-anqas bil-Malti jew bl-Ingliż.
 
-(3) Meta esplożiv ikun suġġett għal aktar minn att wieħed tal- Unjoni li jesiġi dikjarazzjoni tal-UE tal-konformità, għandha titfassal dikjarazzjoni tal-konformità tal-UE unika fir-rigward ta’ tali atti kollha tal-Unjoni. Dik id-dikjarazzjoni għandu jkollha l-identifikazzjoni tal-atti tal-Unjoni kkonċernati inklużi r-referenzi TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
-
-tal-pubblikazzjoni tagħhom.
-
-*9*
+(3) Meta esplożiv ikun suġġett għal aktar minn att wieħed tal- Unjoni li jesiġi dikjarazzjoni tal-UE tal-konformità, għandha titfassal dikjarazzjoni tal-konformità tal-UE unika fir-rigward ta’ tali atti kollha tal-Unjoni. Dik id-dikjarazzjoni għandu jkollha l-identifikazzjoni tal-atti tal-Unjoni kkonċernati inklużi r-referenzi tal-pubblikazzjoni tagħhom.
 
 (4) Meta jfassal id-dikjarazzjoni tal-konformità tal-UE, il-manifattur ikun qed jassumi r-responsabbiltà għall-konformità tal-esplożiv mar-rekwiżiti stabbiliti f’dawn ir-regolamenti.
 
@@ -311,10 +275,6 @@ In-numru ta’ identifikazzjoni tal-korp notifikat għandu jitwaħħal mill-korp
 
 (4) Id-Diviżjoni tar-Regolamenti Tekniċi għandha tinforma lill- Kummissjoni Ewropea bil-proċeduri tagħha għall-valutazzjoni u n-notifika ta' korp tal-valutazzjoni tal-konformità u għall-monitoraġġ ta' korpi notifikati, u dwar kull tibdil li jkun hemm.
 
-*10*
-
-[L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
 ## 19. Rekwiżiti marbuta mal-korpi notifikati. L.S. 427.45
 
 (1) Għall-finijiet tan-notifika ma dawn ir-regolamenti, il-korp tal-valutazzjoni tal-konformità għandu jissodisfa r-rekwiżiti stabbiliti fis-subregolamenti (2) sa (11) u fir-Regolamenti Dwar il- Metodu il-Ħatra ta’ Korpi ta’ Verifika ta’ Konformità.
@@ -329,11 +289,7 @@ In-numru ta’ identifikazzjoni tal-korp notifikat għandu jitwaħħal mill-korp
 
 (ċ) Il-korpi tal-valutazzjoni tal-konformità għandhom jiżguraw li l-attivitajiet tas-sussidjarji jew is-sottokuntratturi tagħhom ma jaffettwawx il-kunfidenzjalità, l-oġġettività jew l-imparzjalità tal-attivitajiet tal-valutazzjoni tal-konformità tagħhom. (5) Il-korpi tal-valutazzjoni tal-konformità u l-persunal tagħhom għandhom iwettqu l-attivitajiet tal-valutazzjoni tal-konformità bl-ogħla livell ta’ integrità professjonali u l-kompetenza teknika meħtieġa fil-qasam speċifiku u għandhom ikunu ħielsa minn kull pressjoni u tentazzjonijiet, partikolarment finanzjarji, li jistgħu jinfluwenzaw il-ġudizzju tagħhom jew ir-riżultati tal-attivitajiet tal-valutazzjoni tal-konformità tagħhom, speċjalment fir-rigward ta’ persuni jew gruppi ta’ persuni b’interess fir-riżultati ta’ dawk l-attivitajiet.
 
-(6) (a) Il-korp ta’ valutazzjoni tal-konformità għandu jkun kapaċi jwettaq il-kompiti kollha ta’ valutazzjoni tal-konformità assenjati lilu permezz tal-Iskeda III u li fir-rigward tagħhom ikun ġie notifikat, kemm jekk dawk il-kompiti jsiru mill-korp stess ta’ valutazzjoni tal- TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
-
-konformità kif ukoll jekk f ’ismu u taħt ir-responsabbiltà tiegħu.
-
-*11*
+(6) (a) Il-korp ta’ valutazzjoni tal-konformità għandu jkun kapaċi jwettaq il-kompiti kollha ta’ valutazzjoni tal-konformità assenjati lilu permezz tal-Iskeda III u li fir-rigward tagħhom ikun ġie notifikat, kemm jekk dawk il-kompiti jsiru mill-korp stess ta’ valutazzjoni tal-konformità kif ukoll jekk f ’ismu u taħt ir-responsabbiltà tiegħu.
 
 (b) F’kull żmien u għal kull proċedura ta’ valutazzjoni tal-konformità u għal kull tip jew kategorija ta’ esplożivi li fir-rigward tagħhom ikun notifikat, il-korp ta’ valutazzjoni tal-konformità għandu jkollu għad-dispożizzjoni tiegħu il-neċessitajiet li ġejjin:
 
@@ -353,11 +309,7 @@ konformità kif ukoll jekk f ’ismu u taħt ir-responsabbiltà tiegħu.
 
 (d) il-kapaċità meħtieġa biex ifassal ċertifikati, rekords u rapporti li juru li l-valutazzjonijiet ikunu saru.
 
-(8) Għandha tkun garantita l-imparzjalità tal-korpi tal-valutazzjoni tal-konformità, tal-ogħla livell tal-ġestjoni tagħhom u tal-persunal responsabbli biex iwettaq il-kompiti ta’ valutazzjoni tal-konformità. Ir-rimunerazzjoni ta’ dawk fl-ogħla livell tal-ġestjoni u tal-persunal responsabbli biex iwettaq il-kompiti ta’ valutazzjoni tal-konformità ta’ korp ta’ valutazzjoni tal-konformità [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-ma għandhiex tiddipendi fuq l-għadd ta’ valutazzjonijiet li jsiru jew fuq ir-riżultati ta’ dawk il-valutazzjonijiet.
-
-*12*
+(8) Għandha tkun garantita l-imparzjalità tal-korpi tal-valutazzjoni tal-konformità, tal-ogħla livell tal-ġestjoni tagħhom u tal-persunal responsabbli biex iwettaq il-kompiti ta’ valutazzjoni tal-konformità. Ir-rimunerazzjoni ta’ dawk fl-ogħla livell tal-ġestjoni u tal-persunal responsabbli biex iwettaq il-kompiti ta’ valutazzjoni tal-konformità ta’ korp ta’ valutazzjoni tal-konformità ma għandhiex tiddipendi fuq l-għadd ta’ valutazzjonijiet li jsiru jew fuq ir-riżultati ta’ dawk il-valutazzjonijiet.
 
 (9) Il-korp tal-valutazzjoni tal-konformità għandu jipprovdi għal polza ta’ assigurazzjoni ta’ responsabbiltà sakemm l-Istat ma jassumix r-responsabbiltà skont il-liġi nazzjonali, jew sakemm l- Istat Membru nnifsu ma jkunx direttament responsabbli għall-valutazzjoni tal-konformità.
 
@@ -379,9 +331,7 @@ ma għandhiex tiddipendi fuq l-għadd ta’ valutazzjonijiet li jsiru jew fuq ir
 
 (1) Il-korp tal-valutazzjoni tal-konformità għandu jippreżenta applikazzjoni għal notifika taħt dawn ir-regolamenti għand id-Diviżjoni dwar Regolamenti Tekniċi.
 
-*13*
-
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 (2) L-applikazzjoni msemmija fis-subregolament (1) għandha tkunu akkumpanjata minn deskrizzjoni tal-attivitajiet ta' valutazzjoni tal-konformità, tal-modulu jew moduli tal-valutazzjoni tal-konformità u tal-esplożiv jew l-esplożivi li għalihom il-korp jiddikjara lilu nnifsu kompetenti, kif ukoll minn ċertifikat ta’ akkreditament maħruġ mill-Bord għall-Akkreditament Nazzjonali (Malta) li jiċċertifika li l-korp ta' valutazzjoni tal-konformità jissodisfa r-rekwiżiti stabbiliti fir-regolamenti 19(1) sa 19(11) u r- Regolamenti Dwar il-Metodu il-Ħatra ta’ Korpi ta’ Verifika ta’ Konformità.
+(2) L-applikazzjoni msemmija fis-subregolament (1) għandha tkunu akkumpanjata minn deskrizzjoni tal-attivitajiet ta' valutazzjoni tal-konformità, tal-modulu jew moduli tal-valutazzjoni tal-konformità u tal-esplożiv jew l-esplożivi li għalihom il-korp jiddikjara lilu nnifsu kompetenti, kif ukoll minn ċertifikat ta’ akkreditament maħruġ mill-Bord għall-Akkreditament Nazzjonali (Malta) li jiċċertifika li l-korp ta' valutazzjoni tal-konformità jissodisfa r-rekwiżiti stabbiliti fir-regolamenti 19(1) sa 19(11) u r- Regolamenti Dwar il-Metodu il-Ħatra ta’ Korpi ta’ Verifika ta’ Konformità.
 
 *L.S. 427.45*
 
@@ -404,10 +354,6 @@ TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 (2) L-applikazzjoni msemmija fis-su
 (9) Fil-każ li tiġi limitata, sospiża jew irtirata n-notifika, jew meta l-korp notifikat ma jkunx għadu attiv, id-Diviżjoni tar- Regolamenti Tekniċi għandha tieħu l-passi meħtieġa biex tiżgura li l-fajls ta’ dak il-korp jiġu pproċessati minn korp notifikat ieħor jew jinżammu disponibbli għall-awtorità tan-notifika u għall-awtorità tas-sorveljanza tas-suq li jkunu responsabbli, suġġetti għat-talba tagħhom.
 
 (10) Id-Diviżjoni tar-Regolamenti Tekniċi għandha tipprovdi lill-Kummissjoni, wara talba, bl-informazzjoni kollha relatata mal-bażi għan-notifika jew il-manutenzjoni tal-kompetenza tal-korp notifikat ikkonċernat.
-
-*14*
-
-[L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
 
 ## 21. Obbligi operattivi tal-korpi notifikati.
 
@@ -435,11 +381,9 @@ TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 (2) L-applikazzjoni msemmija fis-su
 
 (8) Korpi notifikati għandhom jipparteċipaw, direttament jew permezz ta' rappreżentanti nominati, fil-gruppi ta' koordinazzjoni u fil-gruppi ta’ koperazzjoni xierqa għall-korpi notifikati organizzati mill-Kummissjoni Ewropea.
 
-*15*
+## 22. Sorveljanza tas-suq.
 
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 22. (1) Il-Pulizija għandhom jieħdu l-miżuri adegwati kollha sabiex jiżguraw li l-esplożivi, jistgħu jitqiegħdu fis-suq biss jekk, meta jkunu korrettament maħżuna u wżati għall-għan li huma jkunu maħsuba għalih, huma ma jkunux ta’ periklu għas-saħħa jew għas-sikurezza tal-persuni.
-
-*Sorveljanza tas-suq.*
+(1) Il-Pulizija għandhom jieħdu l-miżuri adegwati kollha sabiex jiżguraw li l-esplożivi, jistgħu jitqiegħdu fis-suq biss jekk, meta jkunu korrettament maħżuna u wżati għall-għan li huma jkunu maħsuba għalih, huma ma jkunux ta’ periklu għas-saħħa jew għas-sikurezza tal-persuni.
 
 (2) L-Artikoli 16 u 29 tar-Regolament (KE) Nru 765/2008 għandhom japplikaw għall-esplożivi.
 
@@ -457,11 +401,7 @@ TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 22. (1) Il-Pulizija għandhom jieħ
 
 (9) Id-Diviżjoni tar-Regolamenti Tekniċi għandha tinforma lill- Kummissjoni u lill-Istati Membri l-oħra, mingħajr dewmien, dwar dawk il-miżuri msemmija fis-subregolament (8).
 
-(10) L-informazzjoni msemmija fis-subregolament (9) għandha tinkludi d-dettalji disponibbli kollha, partikolarment id-data neċessarja għall-identifikazzjoni tal-esplożiv li mhux konformi, l-oriġini tal-esplożiv, in-natura tal-allegat nuqqas ta’ konformità u r- [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-riskju involut, in-natura u t-tul ta’ żmien tal-miżuri nazzjonali li jkunu ttieħdu u l-argumenti mressqa mill-operatur ekonomiku rilevanti. B’mod partikolari, il-Pulizija, b’kollaborazzjoni mad- Diviżjoni tar-Regolamenti Tekniċi, għandhom jindikaw jekk in-nuqqas ta’ konformità jkunx dovut għal xi waħda mir-raġunijiet li ġejjin:
-
-*16*
+(10) L-informazzjoni msemmija fis-subregolament (9) għandha tinkludi d-dettalji disponibbli kollha, partikolarment id-data neċessarja għall-identifikazzjoni tal-esplożiv li mhux konformi, l-oriġini tal-esplożiv, in-natura tal-allegat nuqqas ta’ konformità u r-riskju involut, in-natura u t-tul ta’ żmien tal-miżuri nazzjonali li jkunu ttieħdu u l-argumenti mressqa mill-operatur ekonomiku rilevanti. B’mod partikolari, il-Pulizija, b’kollaborazzjoni mad- Diviżjoni tar-Regolamenti Tekniċi, għandhom jindikaw jekk in-nuqqas ta’ konformità jkunx dovut għal xi waħda mir-raġunijiet li ġejjin:
 
 (a) in-nuqqas tal-esplożiv li jissodisfa r-rekwiżiti relatati mas-saħħa jew is-sikurezza ta’ persuni jew mal-protezzjoni tal-proprjetà jew l-ambjent; jew
 
@@ -479,11 +419,7 @@ Jekk, fuq il-bażi ta' din l-evalwazzjoni, il-miżura nazzjonali titqies ġustif
 
 Jekk, fuq il-bażi ta' din l-evalwazzjoni, il-miżura nazzjonali titqies mhix ġustifikata, il-miżura nazzjonali għandha tiġi rtirata.
 
-(14) Fejn, wara li wettqet evalwazzjoni taħt is-subregolament 22(3), il-Pulizija jsibu li, għalkemm l-esplożiv ikun konformi ma’ dawn ir-regolamenti, ikun jippreżenta riskju għas-saħħa jew is-sikurezza tal-persuni jew għall-proprjetà jew tal-ambjent, huma għandhom jeżiġu li l-operatur ekonomiku rilevanti jieħu l-miżuri TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
-
-xierqa kollha biex jiżgura li l-esplożiv konċernat, meta jitqiegħed fis-suq, ma jippreżentax aktar dak ir-riskju jew jirtira l-esplożiv jew jieħdu lura mis-suq fi żmien perjodu raġonevoli li jkun jaqbel man-natura tar-riskju, skont kif hu jistabbilixxi.
-
-*17*
+(14) Fejn, wara li wettqet evalwazzjoni taħt is-subregolament 22(3), il-Pulizija jsibu li, għalkemm l-esplożiv ikun konformi ma’ dawn ir-regolamenti, ikun jippreżenta riskju għas-saħħa jew is-sikurezza tal-persuni jew għall-proprjetà jew tal-ambjent, huma għandhom jeżiġu li l-operatur ekonomiku rilevanti jieħu l-miżuri xierqa kollha biex jiżgura li l-esplożiv konċernat, meta jitqiegħed fis-suq, ma jippreżentax aktar dak ir-riskju jew jirtira l-esplożiv jew jieħdu lura mis-suq fi żmien perjodu raġonevoli li jkun jaqbel man-natura tar-riskju, skont kif hu jistabbilixxi.
 
 (15) L-operatur ekonomiku għandu jiżgura li tittieħed azzjoni korrettiva fir-rigward tal-esplożivi kollha li huwa jkun għamel disponibbli fis-suq fl-Unjoni kollha.
 
@@ -511,11 +447,7 @@ xierqa kollha biex jiżgura li l-esplożiv konċernat, meta jitqiegħed fis-suq,
 
 (1) L-esplożivi jistgħu jiġu trasferiti biss skont is-subregolamenti (2) sa (7).
 
-(2) L-approvazzjoni għat-trasferimenti ta’ esplożivi għandha tinkiseb mill-persuna li tirċievi l-kunsinna mingħand il- Kummissarju tal-Pulizija. Il-Kummissarju tal-Pulizija għandu jivverifika li l-persuna li tirċievi l-kunsinna hija awtorizzata legalment li takkwista l-esplożivi u li għandha l-liċenzji skont dawn ir-regolamenti. L-operatur ekonomiku responsabbli għat- [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-trasferiment jinnotifika lill-awtoritajiet kompetenti tal-Istat(i) Membru(i) dwar kwalunkwe moviment tal-esplożivi mill-Istat Membru kkonċernat u għandu jikseb approvazzjoni minn qabel tal- Istat(i) Membru(i) ikkonċernat(i). Kull meta l-esplożivi jiġu trasmessi permezz ta’ Malta, il-Kummissarju tal-Pulizija għandu jkun notifikat u t-transitu għandu jseħħ biss jekk l-approvazzjoni tkun inħarġet.
-
-*18*
+(2) L-approvazzjoni għat-trasferimenti ta’ esplożivi għandha tinkiseb mill-persuna li tirċievi l-kunsinna mingħand il- Kummissarju tal-Pulizija. Il-Kummissarju tal-Pulizija għandu jivverifika li l-persuna li tirċievi l-kunsinna hija awtorizzata legalment li takkwista l-esplożivi u li għandha l-liċenzji skont dawn ir-regolamenti. L-operatur ekonomiku responsabbli għat-trasferiment jinnotifika lill-awtoritajiet kompetenti tal-Istat(i) Membru(i) dwar kwalunkwe moviment tal-esplożivi mill-Istat Membru kkonċernat u għandu jikseb approvazzjoni minn qabel tal- Istat(i) Membru(i) ikkonċernat(i). Kull meta l-esplożivi jiġu trasmessi permezz ta’ Malta, il-Kummissarju tal-Pulizija għandu jkun notifikat u t-transitu għandu jseħħ biss jekk l-approvazzjoni tkun inħarġet.
 
 (3) Meta l-Kummissarju tal-Pulizija jaħseb li hemm problema fir-rigward tal-verifika tad-dritt tal-akkwist tal-esplożivi msemmija fis-subregolament (2), il-Kummissarju tal-Pulizija għandu jibgħat l-informazzjoni disponibbli lill-Kummissjoni li għandha tinforma lill-Istati Membri l-oħra b’dan.
 
@@ -541,11 +473,7 @@ Il-Kummissarju tal-Pulizija għandu jeżamina l-kundizzjonijiet li taħthom ise�
 
 (6) Fuq talba tal-Kummissarju tal-Pulizija, il-persuna li tirċievi l-kunsinna u l-operaturi ekonomiċi kkonċernati għandhom jgħaddu l-informazzjoni meħtieġa li tikkonċerna t-trasferiment tal-esplożivi kull meta Malta hija l-istat tat-tluq jew l-istat ta' transitu.
 
-(7) L-ebda operatur ekonomiku ma jista’ jittrasferixxi l- TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
-
-esplożivi ħlief jekk il-persuna li qed tirċievi l-kunsinna tkun kisbet il-liċenzji meħtieġa għat-trasferiment skont is-subregolamenti (2), (4) u (6).
-
-*19*
+(7) L-ebda operatur ekonomiku ma jista’ jittrasferixxi l-esplożivi ħlief jekk il-persuna li qed tirċievi l-kunsinna tkun kisbet il-liċenzji meħtieġa għat-trasferiment skont is-subregolamenti (2), (4) u (6).
 
 ## 24. Trasferiment tal-munizzjoni.
 
@@ -570,10 +498,6 @@ L-informazzjoni msemmija fil-paragrafi (e) u (f) ma għandhiex il-ħtieġa li ti
 (3) Il-Kummissarju tal-Pulizija jista’ jagħti lill-bejjiegħa d-dritt li jwettqu trasferimenti ta’ munizzjon mit-territorju tiegħu għal bejjiegħ stabbilit fi Stat Membru ieħor mingħajr l-awtorizzazzjoni minn qabel imsemmija fis-subregolament (2). Għal dan il-għan, il-Kummissarju tal-Pulizija għandu joħroġ awtorizzazzjoni valida għal tliet snin li tista’ f’kull żmien tiġi sospiża jew imħassra b’deċiżjoni raġunata. Dokument li jirreferi għal dik l-awtorizzazzjoni jakkumpanja l-munizzjon sakemm dan jasal fid-destinazzjoni tiegħu. Tiġi preżentata kull meta l-awtoritajiet kompetenti tal-Istati Membri hekk jeħtieġu.
 
 Qabel it-twettiq tat-trasferiment, il-bejjiegħ għandu jikkomunika lill-Kummissarju tal-Pulizija bil-partikolaritajiet kollha elenkati fl-ewwel subparagrafu tas-subregolament (2).
-
-*20*
-
-[L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
 
 (4) L-awtoritajiet kompetenti għandhom jipprovdu lill-Istati Membri l-oħra lista tal-munizzjon li t-trasferiment tiegħu għat-territorju tagħhom jista’ jiġi awtorizzat mingħajr il-kunsens tagħhom minn qabel.
 
@@ -607,15 +531,7 @@ Il-penali li japplikaw għall-ksur ta' xi disposizzjoni ta' dawn ir-regolamenti 
 
 (1) Kwalunkwe referenza għar-Regolamenti dwar l- Esplożivi Ċivili u r-Regolamenti dwar l-Esplożivi Ċivili (Identifikazzjoni), revokati b’dawn ir-regolamenti, għandhom jiġu interpretati bħala referenzi għal dawn ir-regolamenti.
 
-*21*
-
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
-
 (2) Kull referenzi f'liġijiet eżistenti, regolamenti u dispożizzjonijiet amministrattivi għad-Direttiva 93/15/KEE kif emendata u għad-Direttiva 2004/57/KE għandhom jiġu nterpretati bħala referenzi għad-Direttiva 2014/28/KE.
-
-*22*
-
-[L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
 
 Skeda I
 
@@ -677,10 +593,6 @@ Artikoli esplożivi li huma mitfugħa minn ajruplan. Jista’ jkollhom likwidu l
 
 Artikoli li jikkonsistu f’xi kisi, primer u polvri leħħa, kollha prodotti f ’biċċa waħda lesti għall-isparar.
 
-*23*
-
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
-
 NU ISEM u DESKRIZZJONI KLASSI/ GLOSSARJU (jintuża bħala gwida għall- Nru TAQSIMA informazzjoni biss) 0050 Skrataċ, Leħħa 1.3 G Ara d-Dħul tan-NU Nru 0049 0054 Skrataċ, Sinjal 1.3 G Skrataċ, Sinjal
 
 Artikoli magħmula għall-beraq tad-dawl tan-nar ikkuluriti jew sinjali oħra minn pistoli tas-sinjali, eċċ. 0066 Ħabel irqiq, li jqabbad 1.4 G Ħabel irqiq, li jqabbad Artikolu li jikkonsisti minn ħjut tat-tessuti kopertiminn polvri iswed u għotja protettiva flessibbli;jew li jikkonsisti minn qalba ta’ polvri iswed imdawwar bi drapp flessibbli minsuġ: jaqbad progressivament matul it-tul tiegħu bi fjamma esterna u hu wżat biex jittrasmetti t-taqbida minn apparat għall-kargar. 0092 Beraq tad-dawl għal mal- 1.3 G Beraq tad-dawl Artikoli li jkun fihom art sustanzi pirotekniċi li huma magħmula għall-użu biex jixegħlu, jidentifikaw, bħala sinjal jew biex javżaw. 0093 Beraq tad-dawl, tal-ajru 1.3 G Ara d-Dħul tan-NU Nru 0092 0101 Fjus, li ma jisparax b’ħoss 1.3 G Fjus/Fjuż
@@ -693,15 +605,11 @@ Għalkemm dawn iż-żewġ kelmiet għandhom oriġini komuni (Franċiż fusée, f
 
 Artikolu jikkonsisti minn tubu tal-metall bil-qalba mimlija bi esplożiv ta’ tip deflagrating li jaqbad. 0171 Munizzjon, bombi li 1.2 G Munizzjon, bombi li jixegħlu b’tifqigħ jixegħlu b’tifqigħ jew le, li jew le, li jarmi jew jimbotta kargar jarmi jew jimbotta kargar Munizzjoni intenzjonat li jipproduċi sors wieħed ta’ dawl qawwi biex jixgħel xi zona. It-terminu jinkludi skrataċ li jixgħelu, granati u projettili, u bombi li jixegħlu u li jidentifikaw it-tarka. 0191 Apparat tas-sinjali, tal- 1.4 G Artikoli intenzjonati biex jipproduċu idejn sinjali.
 
-0192 Sinjali, ferrovija, esplożiv 1.1 G Ara d-Dħul tan-NU Nru 0191 [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-*NU Nru*
-
-ISEM u DESKRIZZJONI KLASSI/ GLOSSARJU (jintuża bħala gwida għall- TAQSIMA informazzjoni biss)
-
-*24*
+0192 Sinjali, ferrovija, esplożiv 1.1 G Ara d-Dħul tan-NU Nru 0191 ISEM u DESKRIZZJONI KLASSI/ GLOSSARJU (jintuża bħala gwida għall- TAQSIMA informazzjoni biss)
 
 0194 Sinjali, indikaturi għal 1.1 G Ara d-Dħul tan-NU Nru 0191
+
+*NU Nru*
 
 emergenzi, bastiment
 
@@ -775,10 +683,6 @@ Artikoli li jikkonsistu minn primer għall-ħruq u kargar awżiljarju ta’ espl
 
 0320 Primers, tubulari 1.4 G Ara d-Dħul tan-NU Nru 0319
 
-*25*
-
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
-
 NU ISEM u DESKRIZZJONI KLASSI/ GLOSSARJU (jintuża bħala gwida għall- Nru TAQSIMA informazzjoni biss) 0333 Logħob tan-nar 1.1 G Logħob tan-nar
 
 Artikoli pirotekniċi magħmula bl-intenzjoni li joħolqu divertiment. 0334 Logħob tan-nar 1.2 G Ara d-Dħul tan-NU Nru 0333 0335 Logħob tan-nar 1.3 G Ara d-Dħul tan-NU Nru 0333 0336 Logħob tan-nar 1.4 G Ara d-Dħul tan-NU Nru 0333 0362 Munizzjon, prattika 1.4 G Munizzjon, prattika Munizzjon bla kargar prinċipali li jinfaqa’, li ġo fih hemm burster jew kargar li jarmi. Normalment dan ikollu wkoll xi fjuż jew kargar li jimbotta. 0363 Munizzjon, prova 1.4 G Munizzjon, prova
@@ -790,10 +694,6 @@ Munizzjon li ġo fih hemm sustanzi pirotekniċi, użati biex jippruvaw il-presta
 bi traċċaturi
 
 Artikoli bħal xi qoxra jew xi balla li huma proġettati minn kanun jew xkubetta oħra tal-artillerija, minn xkubetta tal-iskru jew xi arma żgħira oħra. Huma jistgħu ma jiċċaqalqux, bi traċċaturi jew le, jew jista’ jkollhom ġo fihom xi burster jew kargar li jarmi jew xi kargar li jfaqqa’. It-terminu jinkludi: projettili, li ma jiċċaqalqux, bi traċċaturi; projettili bil-burster jew kargar li jarmi; projettili b’kargar li jfaqqa’. 0425 Projettili li ma jiċċaqalqux 1.4 G Ara d-Dħul tan-NU Nru 0424 bi traċċaturi
-
-*26*
-
-[L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
 
 *NU Nru*
 
@@ -850,8 +750,6 @@ pretenzjonijiet taċ-ċinturin
 tal-assigurazzjoni
 
 Grupp S
-
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 27
 
 *NU Nru*
 
@@ -919,10 +817,6 @@ Bħala mimimu, l-informazzjoni u l-proprjetajiet li ġejjin, fejn hu xieraq, għ
 
 (b) l-istabbilità kimika u fiżika tal-esplożiv f’kull kundizzjoni ambjentali li jista’ jiġi espost għaliha;
 
-*28*
-
-[L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
 (ċ) is-sensitività għall-impatt u għall-frizzjoni;
 
 (d) il-kompatibbiltà tal-komponenti kollha fir-rigward tal-istabbiltà kimika tagħhom;
@@ -961,9 +855,7 @@ Ir-rekwiżiti għall-gruppi ta’ esplożivi
 
 (ċ) il-fwar prodott mill-esplożivi għat-tiċrit maħsuba għall-użu taħt l-art jista’ jkun fihom il-monossidu tal-karbonju, gassijiet mgħobbija bin-nitru, gassijiet oħra, fwar jew residwi solidi fl-arja f’ammonti li ma jagħmlux ħsara lis-saħħa taħt kondizzjonijiet normali biss ta’ tħaddim. 3.2. Il-miċeċ għad-detonazzjoni, fjusijiet tas-sikurezza, fjusijiet oħra u tubi għax-xokkijiet għandhom ikunu konformi wkoll mar-rekwiżiti li ġejjin:
 
-(a) il-kisi tal-miċeċ tad-detonazzjoni, fjusijiet tas-sikurezza, fjusijiet oħra u tubi għax-xokkijiet għall-ħruq għandhom ikunu ta’ saħħa mekkanika biżżejjed u li jipproteġu biżżejjed il-mili tal-esplożiv meta jiġi espost TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 29
-
-għal stress normali mekkaniku;
+(a) il-kisi tal-miċeċ tad-detonazzjoni, fjusijiet tas-sikurezza, fjusijiet oħra u tubi għax-xokkijiet għall-ħruq għandhom ikunu ta’ saħħa mekkanika biżżejjed u li jipproteġu biżżejjed il-mili tal-esplożiv meta jiġi espost għal stress normali mekkaniku;
 
 (b) il-parametri għall-ħinijiet tal-ħruq tal-fjusijiet tas-sikurezza għandhom ikunu indikati u għandhom jintlaħqu b’mod ta’ min jorbot fuqu;
 
@@ -1005,11 +897,7 @@ L-eżami tat-tip UE huwa parti mill-proċedura tal-valutazzjoni tal-konformità 
 
 *\2.*
 
-L-eżami tat-tip UE għandu jitwettaq bħala valutazzjoni tal-adegwatezza tad-disinn tekniku tal-esplożiv permezz ta’ eżami tad-dokumentazzjoni teknika [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-u ta’ evidenza ta’ sostenn imsemmija fil-punt 3, flimkine ma’ eżami ta’ kampjun, rappreżentattiv tal-produzzjoni prevista, tal-produzzjoni sħiħa (kombinazzjoni ta’ tip ta’ produzzjoni u tip ta’ disinn).
-
-*30*
+L-eżami tat-tip UE għandu jitwettaq bħala valutazzjoni tal-adegwatezza tad-disinn tekniku tal-esplożiv permezz ta’ eżami tad-dokumentazzjoni teknika u ta’ evidenza ta’ sostenn imsemmija fil-punt 3, flimkine ma’ eżami ta’ kampjun, rappreżentattiv tal-produzzjoni prevista, tal-produzzjoni sħiħa (kombinazzjoni ta’ tip ta’ produzzjoni u tip ta’ disinn).
 
 *\3.*
 
@@ -1045,8 +933,6 @@ Il-korp notifikat għandu:
 
 Għall-esplożiv:
 
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 31
-
 4.1. jeżamina d-dokumentazzjoni teknika u l-evidenza ta’ appoġġ biex ikun eżaminat l-adegwatezza tad-disinn tekniku tal-esplożiv.
 
 Għall-kampjun(i):
@@ -1069,11 +955,7 @@ Meta it-tip ma jissodisfax ir-rekwiżiti applikabbli ta’ dawn ir-regolamenti, 
 
 \7. Il-korp notifikat għandu jżomm lilu nnifsu mgħarraf dwar kull bidla fit-teknoloġija l-aktar aġġornata ġeneralment rikonoxxuta, li tindika li t-tip approvat jista’ ma jikkonformax aktar mar-rekwiżiti applikabbli ta’ dawn ir-regolamenti, u għandu jiddetermina jekk tali bidliet ikunux jeħtieġu aktar investigazzjonijiet. Jekk ikun il-każ, il-korp notifikat għandu jinforma l-manifattur b’dan.
 
-Il-manifattur għandu jinforma lill-korp notifikat li jkollu d-dokumentazzjoni relatata maċ-ċertifikat tal-eżami tat-tip UE bil-modifiki kollha fit-tip approvat li jistgħu jolqtu l-konformità tal-esplożiv mar-rekwiżiti essenzjali tas-sikurezza ta’ dawn ir-regolamenti jew mal-kundizzjonijiet għall-validità ta’ dak iċ-ċertifikat. Tali modifiki għandhom jeħtieġu approvazzjoni [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-addizzjonali fil-forma ta’ żieda għaċ-ċertifikat oriġinali tal-eżami tat-tip UE.
-
-*32*
+Il-manifattur għandu jinforma lill-korp notifikat li jkollu d-dokumentazzjoni relatata maċ-ċertifikat tal-eżami tat-tip UE bil-modifiki kollha fit-tip approvat li jistgħu jolqtu l-konformità tal-esplożiv mar-rekwiżiti essenzjali tas-sikurezza ta’ dawn ir-regolamenti jew mal-kundizzjonijiet għall-validità ta’ dak iċ-ċertifikat. Tali modifiki għandhom jeħtieġu approvazzjoni addizzjonali fil-forma ta’ żieda għaċ-ċertifikat oriġinali tal-eżami tat-tip UE.
 
 *\8.*
 
@@ -1111,9 +993,7 @@ Il-manifattur għandu jieħu l-miżuri kollha neċessarji sabiex il-proċess ta�
 
 Verifiki tal-prodotti
 
-Il-korp notifikat, magħżul mill-manifattur, għandu jagħmel kontrolli tal-prodott jew iqabbad lil min jagħmilhom, f’intervalli mhux regolari, kif iddeterminat minn dak il-korp, biex tiġi vverifikata l-kwalità tal-kontrolli interni tal-esplożiv, fejn jitqiesu, inter alia, il-komplessità teknoloġika tal- TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 33
-
-esplożivi u l-kwantità ta’ produzzjoni. Għandu jiġi eżaminat kampjun xieraq tal-prodotti finali, meħud fil-post mill-korp notifikat qabel ma l-prodotti jitqiegħdu fis-suq, u għandhom isiru t-testijiet xierqa kif identifikati mill-partijiet rilevanti tal-istandards armonizzati u, jew għandhom isiru testijiet ekwivalenti stabbiliti fi speċifikazzjonijiet tekniċi rilevanti oħra, biex tiġi kontrollata l-konformità tal-esplożiv deskritt fiċ-ċertifikat tal-eżami tat-tip UE u r-rekwiżiti rilevanti ta’ dawn ir-regolamenti. Meta kampjun ma jikkonformax mal-livell ta’ kwalità aċċettabbli, il-korp notifikat għandu jieħu miżuri xierqa.
+Il-korp notifikat, magħżul mill-manifattur, għandu jagħmel kontrolli tal-prodott jew iqabbad lil min jagħmilhom, f’intervalli mhux regolari, kif iddeterminat minn dak il-korp, biex tiġi vverifikata l-kwalità tal-kontrolli interni tal-esplożiv, fejn jitqiesu, inter alia, il-komplessità teknoloġika tal-esplożivi u l-kwantità ta’ produzzjoni. Għandu jiġi eżaminat kampjun xieraq tal-prodotti finali, meħud fil-post mill-korp notifikat qabel ma l-prodotti jitqiegħdu fis-suq, u għandhom isiru t-testijiet xierqa kif identifikati mill-partijiet rilevanti tal-istandards armonizzati u, jew għandhom isiru testijiet ekwivalenti stabbiliti fi speċifikazzjonijiet tekniċi rilevanti oħra, biex tiġi kontrollata l-konformità tal-esplożiv deskritt fiċ-ċertifikat tal-eżami tat-tip UE u r-rekwiżiti rilevanti ta’ dawn ir-regolamenti. Meta kampjun ma jikkonformax mal-livell ta’ kwalità aċċettabbli, il-korp notifikat għandu jieħu miżuri xierqa.
 
 Il-proċedura kampjunarja tal-aċċettazzjoni li għandha tiġi applikata hija maħsuba biex tiddetermina jekk il-proċess ta’ manifattura tal-esplożiv konċernat jaħdimx f’limiti aċċettabbli, bil-għan li tiġi żgurata l-konformità tal-esplożiv.
 
@@ -1155,11 +1035,7 @@ Il-manifattur għandu jopera sistema approvata ta’ kwalità għall-produzzjoni
 
 Sistema ta’ kwalità
 
-3.1. Il-manifattur għandu jiddepożita applikazzjoni għall-valutazzjoni tas- [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-sistema tiegħu ta’ kwalità mal-korp notifikat tal-għażla tiegħu għall-esplożivi konċernati.
-
-*34*
+3.1. Il-manifattur għandu jiddepożita applikazzjoni għall-valutazzjoni tas-sistema tiegħu ta’ kwalità mal-korp notifikat tal-għażla tiegħu għall-esplożivi konċernati.
 
 L-applikazzjoni għandha tinkludi:
 
@@ -1193,9 +1069,7 @@ Din għandha, b’mod partikolari, ikun fiha, deskrizzjoni adegwata ta’:
 
 Huwa għandu jippreżumi l-konformità ma’ dawk ir-rekwiżiti fir-rigward tal-elementi tas-sistema ta’ kwalità li jikkonformaw mal-ispeċifikazzjonijiet korrispondenti tal-istandards armonizzat rilevanti.
 
-Minbarra esperjenza fis-sistemi ta’ ġestjoni tal-kwalità, il-grupp tal-verifika għandu jkollu mill-inqas membru wieħed b’esperjenza tal-evalwazzjoni fil-qasam tal-prodott rilevanti u t-teknoloġija rilevanti tal-prodott konċernat, u l-għarfien tar-rekwiżiti applikabbli ta’ dawn ir-regolamenti. Il-verifika għandha tinkludi żjara ta’ valutazzjoni fil-fond tal-manifattur. It-tim ta’ verifika għandu jeżamina d-dokumentazzjoni teknika msemmija fil-punt 3.1(e) biex jivverifika l-abbiltà tal-manifattur li jidentifika r-rekwiżiti rilevanti ta’ dawn ir-regolamenti u biex jagħmel l-eżamijiet neċessarji TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 35
-
-sabiex jiżgura l-konformità tal-esplożiv ma’ dawk ir-rekwiżiti.
+Minbarra esperjenza fis-sistemi ta’ ġestjoni tal-kwalità, il-grupp tal-verifika għandu jkollu mill-inqas membru wieħed b’esperjenza tal-evalwazzjoni fil-qasam tal-prodott rilevanti u t-teknoloġija rilevanti tal-prodott konċernat, u l-għarfien tar-rekwiżiti applikabbli ta’ dawn ir-regolamenti. Il-verifika għandha tinkludi żjara ta’ valutazzjoni fil-fond tal-manifattur. It-tim ta’ verifika għandu jeżamina d-dokumentazzjoni teknika msemmija fil-punt 3.1(e) biex jivverifika l-abbiltà tal-manifattur li jidentifika r-rekwiżiti rilevanti ta’ dawn ir-regolamenti u biex jagħmel l-eżamijiet neċessarji sabiex jiżgura l-konformità tal-esplożiv ma’ dawk ir-rekwiżiti.
 
 Id-deċiżjoni għandha tiġi notifikata lill-manifattur. In-notifika għandha tikkontjeni l-konklużjonijiet tal-verifika u d-deċiżjoni motivata tal-valutazzjoni.
 
@@ -1228,10 +1102,6 @@ Dan għandu jinnotifika lill-manifattur bid-deċiżjoni tiegħu. In-notifika għ
 5.2. Il-manifattur għandu jfassal dikjarazzjoni tal-konformità tal-UE bil-miktub għal kull tip ta’ esplożiv u jżommha għad-dispożizzjoni tal-awtoritajiet nazzjonali, għal perjodu ta’ 10 snin wara li l-esplożiv ikun tqiegħed fis-suq. Id-dikjarazzjoni tal-konformità tal-UE għandha tidentifika t-tip li għalih tkun tfasslet.
 
 Meta ssir talba għaliha, għandha tiġi pprovduta kopja tad-dikjarazzjoni tal-konformità tal-UE lill-awtoritajiet rilevanti.
-
-*36*
-
-[L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
 
 *\6.*
 
@@ -1283,8 +1153,6 @@ L-applikazzjoni għandha tinkludi:
 
 (d) id-dokumentazzjoni tas-sistema ta’ kwalità;
 
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 37
-
 (e) id-dokumentazzjoni teknika tat-tip approvat u kopja taċ-ċertifikat tal-eżami tat-tip UE.
 
 3.2. Is-sistema ta’ kwalità għandha tiżgura l-konformità tal-esplożivi mat-tip deskritt fiċ-ċertifikat tal-eżami tat-tip UE u mar-rekwiżiti applikabbli ta’ dawn ir-regolamenti.
@@ -1316,8 +1184,6 @@ Id-deċiżjoni għandha tiġi notifikata lill-manifattur. In-notifika għandha t
 Il-korp notifikat għandu jevalwa kwalunkwe bidliet proposti u jiddeċiedi jekk is-sistema ta’ kwalità, modifikata hix se tkompli tissodisfa r-rekwiżiti msemmija fil-punt 3.2 jew jekk hemmx bżonn ta’ valutazzjoni ġdida.
 
 Dan għandu jinnotifika lill-manifattur bid-deċiżjoni tiegħu. In-notifika għandha tikkontjeni l-konklużjonijiet tal-eżami u d-deċiżjoni motivata tal-valutazzjoni.
-
-38 [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
 
 \4. s-sorveljanza taħt ir-responsabbiltà tal-korp notifikat
 
@@ -1351,9 +1217,7 @@ Meta ssir talba għaliha, għandha tiġi pprovduta kopja tad-dikjarazzjoni tal-k
 
 \7. Kull korp notifikat għandu jinforma lill-awtoritajiet tan-notifika tiegħu bl-approvazzjonijiet tas-sistema ta’ kwalità maħruġa jew irtirati, u, perjodikament jew jekk jintalab jagħmel dan, għandu jqiegħed għad-dispożizzjoni tal-awtoritajiet tan-notifika tiegħu, il-lista tal-approvazzjonijiet tas-sistemi ta’ kwalità li jkunu ġew irrifjutati, sospiżi jew b’xi mod ieħor limitati.
 
-Kull korp notifikat għandu jinforma lill-korpi notifikati l-oħra bl-approvazzjonijiet tas-sistemi ta’ kwalità li jkun irrifjuta, issospenda jew TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 39
-
-irtira, u, jekk jintalab jagħmel dan, bl-approvazzjonijiet tas-sistemi ta’ kwalità li jkun ħareġ.
+Kull korp notifikat għandu jinforma lill-korpi notifikati l-oħra bl-approvazzjonijiet tas-sistemi ta’ kwalità li jkun irrifjuta, issospenda jew irtira, u, jekk jintalab jagħmel dan, bl-approvazzjonijiet tas-sistemi ta’ kwalità li jkun ħareġ.
 
 *\8.*
 
@@ -1397,9 +1261,7 @@ Il-manifattur għandu jżomm iċ-ċertifikati tal-konformità disponibbli għall
 
 Verifika statistika tal-konformità
 
-5.1. Il-manifattur għandu jieħu l-miżuri neċessarji kollha biex il-proċess tal-manifattura u l-monitoraġġ tiegħu jassiguraw l-omoġeneità ta’ kull lott 40 [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-prodott, u għandu jippreżenta l-esplożivi tiegħu għall-verifika fil-forma ta’ lottijiet omoġenji.
+5.1. Il-manifattur għandu jieħu l-miżuri neċessarji kollha biex il-proċess tal-manifattura u l-monitoraġġ tiegħu jassiguraw l-omoġeneità ta’ kull lott prodott, u għandu jippreżenta l-esplożivi tiegħu għall-verifika fil-forma ta’ lottijiet omoġenji.
 
 5.2. Minn kull lott għandu jittieħed kampjun fuq każi każwali. L-esplożivi kollha ġewwa l-kampjun għandhom jiġu eżaminati individwalment u għandhom isiru testijiet adegwati, kif stabbilit fl-istandard(s) armonizzat(i) rilevanti u, jew testijiet ekwivalenti stipulati fi speċifikazzjonijiet tekniċi rilevanti oħra, biex tiġi vverifikata l-konformità tagħhom mat-tip approvat deskritt fiċ-ċertifikat tal-eżami tat-tip UE u mar-rekwiżiti applikabbli ta’ dawn ir-regolamenti u biex jiġi ddeterminat jekk il-lott jiġix aċċettat jew irrifjutat. Fl-assenza ta’ tali standard armonizzat il-korp notifikat konċernat għandu jiddeċiedi dwar it-testijiet adegwati li għandhom isiru.
 
@@ -1425,9 +1287,7 @@ Jekk il-korp notifikat jaqbel u taħt ir-responsabbiltà tiegħu, il-manifattur 
 
 \7. Rappreżentant awtorizzat
 
-L-obbligi tal-manifattur jistgħu jiġu ssodisfati mir-rappreżentant awtorizzat tiegħu, f ’ismu u taħt ir-responsabbiltà tiegħu, sakemm dawn ikunu speċifikati fil-mandat. Rappreżentant awtorizzat jista’ ma jissodisfax l- TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07 41
-
-obbligi tal-manifattur li huma inklużi fil-punti 2 u 5.1.
+L-obbligi tal-manifattur jistgħu jiġu ssodisfati mir-rappreżentant awtorizzat tiegħu, f ’ismu u taħt ir-responsabbiltà tiegħu, sakemm dawn ikunu speċifikati fil-mandat. Rappreżentant awtorizzat jista’ ma jissodisfax l-obbligi tal-manifattur li huma inklużi fil-punti 2 u 5.1.
 
 **Modulu G**
 
@@ -1465,9 +1325,7 @@ Il-manifattur għandu jieħu l-miżuri kollha neċessarji biex il-proċess ta’
 
 Verifika
 
-Korp notifikat magħżul mill-manifattur għandu jagħmel l-eżamijiet u testijiet adegwati, kif stabbilit fl-istandards armonizzati rilevanti u, jew testijiet ekwivalenti stabbiliti fi speċifikazzjonijiet tekniċi rilevanti oħra, biex tiġi kkontrollata l-konformità tal-esplożiv mar-rekwiżiti applikabbli ta’ dawn ir-regolamenti jew iqabbad lil min jagħmilhom. Fl-assenza ta’ tali standard armonizzat il-korp notifikat konċernat għandu jiddeċiedi dwar it- 42 [L.S.33.07 TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI
-
-testijiet adegwati li għandhom isiru.
+Korp notifikat magħżul mill-manifattur għandu jagħmel l-eżamijiet u testijiet adegwati, kif stabbilit fl-istandards armonizzati rilevanti u, jew testijiet ekwivalenti stabbiliti fi speċifikazzjonijiet tekniċi rilevanti oħra, biex tiġi kkontrollata l-konformità tal-esplożiv mar-rekwiżiti applikabbli ta’ dawn ir-regolamenti jew iqabbad lil min jagħmilhom. Fl-assenza ta’ tali standard armonizzat il-korp notifikat konċernat għandu jiddeċiedi dwar it-testijiet adegwati li għandhom isiru.
 
 Il-korp notifikat għandu joħroġ ċertifikat tal-konformità fir-rigward tal-eżamijiet u tat-testijiet li jkunu saru u għandu jwaħħal in-numru ta’ identifikazzjoni tiegħu mal-esplożiv approvat, jew iqabbad lil min iwaħħlu, taħt ir-responsabbiltà tiegħu.
 
@@ -1520,10 +1378,6 @@ Il-korp notifikat … (isem, numru) wettaq … (deskrizzjoni tal-intervent) u ħ
 Informazzjoni addizzjonali:
 
 \* Il-manifattur għandu l-fakoltà li jassenja numru għad-dikjarazzjoni ta’ konformità.
-
-*43*
-
-TAL-ESPLOŻIVI GĦAL UŻU ĊIVILI [L.S.33.07
 
 Iffirmat għal u f’isem:
 

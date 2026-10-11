@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Knowledge-Based Entrepreneurship - M.Ent. - taħt il-patroċinju taċ -Ċentru għall-Intraprenditorija u għall-Inkubazzjoni tan-Negozju (S.L. 327.464)
 
-SHIP - M.Ent. - TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-
-
-*1*
-
-INTRAPRENDITORIJA U GĦALL-INKUBAZZJONI TAN-NEGOZJU [L.S.327.464
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.464**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER IN**
@@ -71,11 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (1) Il-kors ikun miftuħ għall-applikanti li għandhom grad ta’ Bachelor mill-Università ta’ Malta miksub tal-anqas fit-Tieni Klassi (bl-Unuri) jew f ’Kategorija II fl-oqsma tax-Xjenza, l- Informazzjoni Teknoloġika, l-Inġinerija, il-Medja, il- Komunikazzjoni, u l-Humanities, jew fi kwalunkwe qasam ieħor li l-Bord iqis xieraq.
 
-(2) L-applikanti li għandhom grad ta’ Bachelor minn din l- Università miksub tal-anqas fit-Tielet Klassi (bl-Unuri) jew f’Kategorija III fid-dixxiplini msemmija fil-paragrafu (1) ta’ dan l-ordinament jistgħu japplikaw jekk ikollhom ukoll kwalifiki oħra jew għall-anqas ħames snin esperjenza f’xogħol rilevanti, miksuba wara l-grad tal-ewwel ċiklu. Id-dħul tal-applikanti skont dan l- SHIP - M.Ent. - TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL- [L.S.327.464 INTRAPRENDITORIJA U GĦALL-INKUBAZZJONI TAN-NEGOZJU
-
-ordinament jista’ jkun kondizzjonalment skont ir-riżultati ta’ valutazzjoni kif il-Bord iqis xieraq.
-
-*2*
+(2) L-applikanti li għandhom grad ta’ Bachelor minn din l- Università miksub tal-anqas fit-Tielet Klassi (bl-Unuri) jew f’Kategorija III fid-dixxiplini msemmija fil-paragrafu (1) ta’ dan l-ordinament jistgħu japplikaw jekk ikollhom ukoll kwalifiki oħra jew għall-anqas ħames snin esperjenza f’xogħol rilevanti, miksuba wara l-grad tal-ewwel ċiklu. Id-dħul tal-applikanti skont dan l-ordinament jista’ jkun kondizzjonalment skont ir-riżultati ta’ valutazzjoni kif il-Bord iqis xieraq.
 
 (3) L-applikanti li m’għandhomx il-kwalifiki indikati fil-paragrafi (1) u (2) ta’ dan l-ordinament jistgħu jkunu kkunsidrati wkoll jekk jissottomettu ittra ta’ motivazzjoni u curriculum vitae dettaljat li juru l-esperjenza u l-kisbiet tagħhom għas-sodisfazzjoni tal-Bord għad-Dħul. Dawn l-applikanti jistgħu jkunu aċċettati mill- Bord għad-Dħul taħt dawk il-kundizzjonjiet li huwa jista’ jagħmel, li jistgħu jinkludu li l-applikanti jgħaddu minn taqsimiet studju supplimentari li għalihom hemm assenjati mhux aktar minn 12-il krettu ECTS.
 
@@ -107,13 +97,7 @@ Il-Kors għandu jinfirex fuq tliet semestri ta’ studju full-time jew sa ħdax-
 
 (1) Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu, li minnhom 60 kredtu huma assenjati għat-taqsimiet studju mgħallma u 30 kredtu huma assenjati għall-Project Report li jinvolvi business plan dettaljat.
 
-(2) L-istudenti li jiksbu 30 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw il-kors b’suċċess, SHIP - M.Ent. - TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-
-
-*3*
-
-INTRAPRENDITORIJA U GĦALL-INKUBAZZJONI TAN-NEGOZJU [L.S.327.464
-
-jkunu eliġibbli għall-għoti tal-Postgraduate Certificate, sakemm li l-istudenti jgħaddu mit-taqsimiet studju obbligatorji kollha kif determinat mill-Bord.
+(2) L-istudenti li jiksbu 30 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw il-kors b’suċċess, jkunu eliġibbli għall-għoti tal-Postgraduate Certificate, sakemm li l-istudenti jgħaddu mit-taqsimiet studju obbligatorji kollha kif determinat mill-Bord.
 
 (3) L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw id-dissertazzjoni b’suċċess, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
@@ -143,11 +127,7 @@ jkunu eliġibbli għall-għoti tal-Postgraduate Certificate, sakemm li l-istuden
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
-(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent SHIP - M.Ent. - TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL- [L.S.327.464 INTRAPRENDITORIJA U GĦALL-INKUBAZZJONI TAN-NEGOZJU
-
-biex jiddefendi l-każ tiegħu.
-
-*4*
+(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 
 ## 9. Klassifikazzjoni tar- Rikonoxximenti.
 

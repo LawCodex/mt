@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in European Politics - M.A. - taħt il-patroċinju tal-Istitut għall-Istudji Ewropej (S.L. 327.114)
 
-ECONOMICS AND LAW - M.A. - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-ISTITUT GĦALL-ISTUDJI EWROPEJ [L.S.327.114
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.114**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -71,11 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 Sakemm li, f’każijiet xierqa, il-Bord jista’, wara intervista, jeħtieġ li l-istudenti li daħlu fil-kors isegwu taqsimiet studju relatati li għalihom hemm assenjati massimu ta’ 10 kredti b’żieda mal-programm ta’ studju kif speċifikat fl-ordinament 6.
 
-(2) L-applikanti li għandhom il-grad ta’ Bachelor fit-Tielet Klassi bl-Unuri jew fil-Kategorija III fi kwalunkwe qasam li l-Bord iqis li huwa rilevanti u li għandhom esperjenza ta’ xogħol li huwa relatat mal-kors, jistgħu, wara intervista, jidħlu fi programm preparatorju kif speċifikat fl-ordinament 4 liema programm, jekk ECONOMICS AND LAW - M.A. - TAĦT IL-PATROĊINJU [L.S.327.114 TAL-ISTITUT GĦALL-ISTUDJI EWROPEJ
-
-jintemm b’suċċess, jagħti aċċess għall-Grad.
-
-*2*
+(2) L-applikanti li għandhom il-grad ta’ Bachelor fit-Tielet Klassi bl-Unuri jew fil-Kategorija III fi kwalunkwe qasam li l-Bord iqis li huwa rilevanti u li għandhom esperjenza ta’ xogħol li huwa relatat mal-kors, jistgħu, wara intervista, jidħlu fi programm preparatorju kif speċifikat fl-ordinament 4 liema programm, jekk jintemm b’suċċess, jagħti aċċess għall-Grad.
 
 (3) Il-Bord jista’ jħalli jidħlu fil-kors, applikanti li għandhom grad ieħor minbarra dawk speċifikati fil-paragrafi (1) u (2), sakemm li l-klassifikazzjoni tal-grad ma tkunx inqas mit-Tieni Klassi bl-Unuri/Kategorija II, u suġġett għas-sottomissjoni ta’ ittra ta’ motivazzjoni u ta’ intervista biex ikun stabbilit jekk dawn l-applikanti għandhomx profiċjenza u għarfien biżżejjed biex ikunu jistgħu jsegwu l-kors bi profitt. F'każijiet bħal dawn, il-Bord jista’ jirrakkomanda li l-applikanti jsegwu l-programm preparatorju jew parti minnu.
 
@@ -111,13 +101,11 @@ Il-programm ta’ studju għandu jkun ippubblikat mill-Bord wara l-approvazzjoni
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kredti permess skond il-paragrafu (2), jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kredti għal xi taqsima studju, jkunu meqjusa li weħlu mill-kors.
 
-ECONOMICS AND LAW - M.A. - TAĦT IL-PATROĊINJU
+## 9. Dissertazzjoni.
 
-*3*
+*Emendat: A.L. 277 tal-2018.*
 
-TAL-ISTITUT GĦALL-ISTUDJI EWROPEJ [L.S.327.114 9. (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ bejn l-15,000 u l-20,000 kelma skont il-linji gwida maħruġin mill-Bord.
-
-*Dissertazzjoni. Emendat: A.L. 277 tal-2018.*
+(1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ bejn l-15,000 u l-20,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 

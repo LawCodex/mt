@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Bachelor of Fine Arts (Honours) – BFA (Hons) - in Digital Arts – taħt l-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien (S.L. 327.469)
 
-(HONS) - IN DIGITAL ARTS TAĦT IL-PATROĊUNJU TAL-
-
-*1*
-
-FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.469
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.469**
 
 *Sostitwit: A.L. 244 tal-2021.*
@@ -68,11 +62,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (b) ikollhom id-Diploma in Design Foundation Studies mill-Università ta’ Malta; jew
 
-(ċ) ikollhom kwalifika li tinkludi mhux inqas minn 60 krettu ECTS (jew l-ekwivalenti), klassifikat fil-Livell 5 skont il- Qafas Ewropew tal-Kwalifiki f’qasam meqjus rilevanti mill-Bord, flimkien ma’ ċertifikat fil-Livell Avvanzat bi grad Ċ jew aħjar f’wieħed minn dawn is-suġġetti li ġejjin: il-Filosofija, l-Information Technology, l-Ingliż, l-Istorja, il-Komunikazzjoni Grafika, il-Marketing, is-Soċjoloġija, jew suġġett ieħor (l-Arti ma jiġix aċċettat) meqjus bħala ekwivalenti mill-Bord, flimikien ma’ ċertifikati fil-Livell (HONS) - IN DIGITAL ARTS TAĦT IL-PATROĊUNJU TAL- [L.S.327.469 FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN
-
-tas-SEC bi Grad 5 jew aħjar fil-Lingwa Ingliża, il- Matematika u l-Malti; jew
-
-*2*
+(ċ) ikollhom kwalifika li tinkludi mhux inqas minn 60 krettu ECTS (jew l-ekwivalenti), klassifikat fil-Livell 5 skont il- Qafas Ewropew tal-Kwalifiki f’qasam meqjus rilevanti mill-Bord, flimkien ma’ ċertifikat fil-Livell Avvanzat bi grad Ċ jew aħjar f’wieħed minn dawn is-suġġetti li ġejjin: il-Filosofija, l-Information Technology, l-Ingliż, l-Istorja, il-Komunikazzjoni Grafika, il-Marketing, is-Soċjoloġija, jew suġġett ieħor (l-Arti ma jiġix aċċettat) meqjus bħala ekwivalenti mill-Bord, flimikien ma’ ċertifikati fil-Livell tas-SEC bi Grad 5 jew aħjar fil-Lingwa Ingliża, il- Matematika u l-Malti; jew
 
 (d) ikollhom transcript li juri li huma għaddew minn 120 krettu ECTS fir-rigward tal-ewwel sentejn ta’ studju ta’ kors ta’ tliet snin mill-MCAST għal grad ta’ Bachelor f’suġġett relatat mal-Art and Design, flimkien ma’ ċertifikati fil-livell tas-SEC bi Grad 5 jew aħjar fil-Lingwa Ingliża, il-Matematika u l-Malti.
 

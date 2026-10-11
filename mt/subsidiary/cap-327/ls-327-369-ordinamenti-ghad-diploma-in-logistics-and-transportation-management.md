@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Logistics and Transportation Management taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.369)
 
-MANAGEMENT TA}T IL-PATRO~INJU TAL-FAKULTÀ TAL-
-
-*1*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.369
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.369**
 
 **ORDINAMENTI G}ALL-HIGHER DIPLOMA IN**
@@ -75,11 +69,11 @@ Dawn l-ordinamenti g]andhom japplikaw mit-23 ta’ {unju, 2011 ’il quddiem.
 
 Il-kors jinfirex fuq medda ta’ tliet semestri ta’ studju fuq ba\\i full-time jew l-ekwivalenti fi studju fuq ba\\i part-time.
 
-*2*
+## 5. Programm tal-kors.
 
-MANAGEMENT TA}T IL-PATRO~INJU TAL-FAKULTÀ TAL- [L.S.327.369 EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY 5. (1) Il-kors jikkonsisti minn g]add ta’ taqsimiet studju mg]allma li g]alihom hemm assenjati 90 krettu.
+*Sostitwit: A.L. 281 tal-2012.*
 
-*Programm tal-kors. Sostitwit: A.L. 281 tal-2012.*
+(1) Il-kors jikkonsisti minn g]add ta’ taqsimiet studju mg]allma li g]alihom hemm assenjati 90 krettu.
 
 (2) L-istudenti li jtemmu b’su``ess g]add ta’ taqsimiet studju preskritti g]al total ta’ 30 krettu u jag]\\lu li ma jkomplux il-kors, jew wara li komplew ma jkunux spi``aw il-kors b’su``ess, jkunu eli[ibbli g]all-g]oti tas-Certificate.
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Drittijiet li Jitħallsu dwar Bastimenti Merkantili"
-identifier: "S.L. 234.6"
+identifier: "S.L. 234.06"
 eli: "https://legislation.mt/eli/sl/234.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/234.6/20251003/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Drittijiet li Jitħallsu dwar Bastimenti Merkantili (S.L. 234.6)
-
-DRITTIJIET LI JIT}ALLSU DWAR
-
-*1*
-
-BASTIMENTI MERKANTILI [L.S.234.06
+# Regolamenti dwar Drittijiet li Jitħallsu dwar Bastimenti Merkantili (S.L. 234.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 234.06**
 

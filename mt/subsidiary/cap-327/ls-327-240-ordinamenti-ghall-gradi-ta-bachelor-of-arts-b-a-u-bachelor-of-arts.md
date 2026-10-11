@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Gradi ta' Bachelor of Arts - B.A. - u Bachelor of Arts (Honours) - B.A. (Hons) - taħt il-patroċinju tal-Fakultà ta' l-Arti (S.L. 327.240)
 
-BACHELOR OF ARTS (HONOURS) - B.A. (HONS) -
-
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.240
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.240**
 
 ORDINAMENTI GĦALL-GRADI TA’ BACHELOR OF ARTS - B.A. - U BACHELOR OF ARTS (HONOURS) - B.A. (HONS) - TAĦT IL-PATROĊINJU
@@ -54,10 +48,6 @@ ORDINAMENTI GĦALL-GRADI TA’ BACHELOR OF ARTS - B.A. - U BACHELOR OF ARTS (HON
 
 Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 2021 ’il quddiem.
 
-*2*
-
-BACHELOR OF ARTS (HONOURS) - B.A. (HONS) - [L.S.327.240 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI
-
 ## 3. Oqsma ta’ studju.
 
 *Emendat: A.L. 112 tal-2008; A.L. 290 tal-2009. Sostitwit: A.L. 384 tal-2010; A.L. 38 tal-2013. Emendat: A.L. 324 tal-2013; A.L. 211 tal-2014; A.L. 95 tal-2015; A.L. 336 tal-2015; A.L. 145 tal-2019; A.L. 306 tal-2020; A.L. 322 tal-2022.*
@@ -84,11 +74,7 @@ Biex ikunu rreġistrati bħala studenti regolari fil-kors, l-applikanti għandho
 
 (ċ) għas-Soċjoloġija jew bħala qasam ta’ studju Prinċipali jew bħala qasam ta’ studju Sussidjarju, jridu jkunu għaddew mill-eżami fil-Livell tal-Matrikola Avvanzata, jew l-ekwivalenti, f’wieħed minn dawn is-suġġetti: is- Soċjoloġija, il-Filosofija, il-Ġeografija, l-Ekonomija, l- Istorja, il-Home Economics and Human Ecology, l- Information Technology, il-Marketing, it-Tagħlim Reliġjuż, it-Theatre and Performance;
 
-BACHELOR OF ARTS (HONOURS) - B.A. (HONS) -
-
-*3*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.240 (d) għall-Istudji tal-Ispanjol u tal-Amerika Latina jew bħala qasam ta’ studju Prinċipali jew bħala qasam ta’ studju Sussidjarju, jridu jkunu għaddew mill-eżami fil- Livell tal-Matrikola Avvanzata, jew l-ekwivalenti, bi Grad Ċ jew aħjar fl-Ispanjol;
+(d) għall-Istudji tal-Ispanjol u tal-Amerika Latina jew bħala qasam ta’ studju Prinċipali jew bħala qasam ta’ studju Sussidjarju, jridu jkunu għaddew mill-eżami fil- Livell tal-Matrikola Avvanzata, jew l-ekwivalenti, bi Grad Ċ jew aħjar fl-Ispanjol;
 
 (e) għall-Communication Studies jew bħala qasam ta’ studju Prinċipali jew bħala qasam ta’ studju Sussidjarju, jridu jkunu għaddew mill-eżami fil-Livell tal-Matrikola Intermedju, jew l-ekwivalenti, fl-Ingliż; u
 
@@ -104,13 +90,9 @@ TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.240 (d) għall-Istudji tal-I
 
 (2)† Għall-qasam tal-Fine Arts, il-Bord għandu jirrakkomanda lis- Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw, skont id-disponibbiltà tar-riżorsi. In-numru ta’ postijiet disponibbli għandu jiġi mħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
-(3)‡ Jekk l-għadd ta’ applikanti għall-qasam tal-Fine Arts, ikun akbar min-numru ta’ postijiet disponibbli, l-applikanti għandhom jitpoġġew f’ordni ta’ klassifikazzjoni skont il-kriterji approvati mis- Senat. Il-Bord tad-Dħul tal-Università, wara li jieħu l-parir tal-Kumitat BACHELOR OF ARTS (HONOURS) - B.A. (HONS) - [L.S.327.240 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI
+(3)‡ Jekk l-għadd ta’ applikanti għall-qasam tal-Fine Arts, ikun akbar min-numru ta’ postijiet disponibbli, l-applikanti għandhom jitpoġġew f’ordni ta’ klassifikazzjoni skont il-kriterji approvati mis- Senat. Il-Bord tad-Dħul tal-Università, wara li jieħu l-parir tal-Kumitat tad-Dħul tal-Fakultà, għandu l-ewwel jikkunsidra l-applikanti eliġibbli li l-kwalifiki tagħhom kienu miksuba fl-Eżami għaċ-Ċertifikat tal- Matrikola jew huma minn bord tal-eżamijiet ieħor rikonoxxut, jekk il- Kumitat tad-Dħul tal-Fakultà jkun sodisfatt li l-kwalifiki ppreżentati huma komparabbli fil-kontenut u ekwivalenti għall-livell tal-Eżami għaċ-Ċertifikat tal-Matrikola fl-istess suġġett/i. Għall-iskop tal-għażla, l-applikanti li l-kwalifiki tagħhom kienu miksuba sal-31 ta’ Awwissu qabel il-bidu tal-Kors u li jgħaddu mill-intervista kif stipulat fis-sottoparagrafu (h) tal-paragrafu (1) ta’ dan l-ordinament, għandhom jiġu kkunsidrati l-ewwel. Jekk ikun hemm aktar postijiet disponibbli, l-applikanti li jissodisfaw ir-rekwiżiti kollha tad-dħul wara l-31 ta’ Awwissu u qabel it-30 ta’ Settembru għandhom jitqiesu għal postijiet li jkun fadal.Tul tal-kors.
 
 \*Jibdew Japplikaw f’Korsijiet f’Ottubru 2019 †Jibdew Japplikaw f’Korsijiet f’Ottubru 2019 ‡Jibdew Japplikaw f’Korsijiet f’Ottubru 2019
-
-tad-Dħul tal-Fakultà, għandu l-ewwel jikkunsidra l-applikanti eliġibbli li l-kwalifiki tagħhom kienu miksuba fl-Eżami għaċ-Ċertifikat tal- Matrikola jew huma minn bord tal-eżamijiet ieħor rikonoxxut, jekk il- Kumitat tad-Dħul tal-Fakultà jkun sodisfatt li l-kwalifiki ppreżentati huma komparabbli fil-kontenut u ekwivalenti għall-livell tal-Eżami għaċ-Ċertifikat tal-Matrikola fl-istess suġġett/i. Għall-iskop tal-għażla, l-applikanti li l-kwalifiki tagħhom kienu miksuba sal-31 ta’ Awwissu qabel il-bidu tal-Kors u li jgħaddu mill-intervista kif stipulat fis-sottoparagrafu (h) tal-paragrafu (1) ta’ dan l-ordinament, għandhom jiġu kkunsidrati l-ewwel. Jekk ikun hemm aktar postijiet disponibbli, l-applikanti li jissodisfaw ir-rekwiżiti kollha tad-dħul wara l-31 ta’ Awwissu u qabel it-30 ta’ Settembru għandhom jitqiesu għal postijiet li jkun fadal.Tul tal-kors.
-
-*4*
 
 (4) Skont il-provvedimenti tar-regolament 16 (1) tar-Regolamenti għad-Dħul, il-Bord tad-Dħul, li jaġixxi fuq il-parir tal-Bord, jista’ jħalli jidħlu fit-tieni sena tal-Kors għall-grad bl-Unuri, l-applikanti li għandhom Diploma tal-Università; diment li d-Diploma tkun f’waħda mill-oqsma ta’ studju speċifikati fil-paragrafu (1) tal-ordinament 3, u diment li l-marka medja għat-taqsimiet-studju li saru fid-Diploma tkun mhix anqas minn 65%. Dawn l-istudenti jistgħu jkunu meħtieġa jsegwu programm ta’ studju speċifiku jew taqsimiet-studju addizzjonali kif mitlub skont id-direzzjoni tal-Bord tal-Istudji.
 
@@ -134,13 +116,9 @@ L-applikanti huma meħtieġa jindikaw l-għażla tal-oqsma ta’ studju tagħhom
 
 (2) L-istudenti li jiksbu l-marka medja minima ta’ 65% fil-qasam ta’ studju magħżul għall-Kors bl-Unuri iżda li jkun jonqoshom sa 12–il krettu għal kwalunkwe taqsimiet studju obbligatorji f’dan il-qasam ta’ studju, jistgħu jitħallew jipproċedu kondizzjonalment għat-Tieni Sena tal-kors tal-B.A.(Hons),sakemm li jtemmu b’suċċess it-taqsima/ taqsimiet obbligatorji li jkunu weħlu fihom, fis-sena ta’ wara.
 
-(3)\* L-istudenti li jixtiequ jipproċedu għall-kors tal-B.A. (Hons) f’qasam ta’ studju li temmew b’suċċess, iżda li ma jkollhomx il-marka BACHELOR OF ARTS (HONOURS) - B.A. (HONS) -
+(3)\* L-istudenti li jixtiequ jipproċedu għall-kors tal-B.A. (Hons) f’qasam ta’ studju li temmew b’suċċess, iżda li ma jkollhomx il-marka medja meħtieġa ta’ 65% fil-qasam ta’ studju li jagħżlu (kif meħtieg skont il-paragrafu (1) ta’ dan l-ordinament) jistgħu jitħallew mill-Bord isegwu l-programm tal-ewwel sena (mingħajr eżenzjonijiet) f’dak il-qasam f’sena addizzjonali ta’ studju sabiex jippruvaw jiksbu l-marka medja meħtieġa. Din id-dispożizzjoni tista’ tappika darba biss matul il- Kors.
 
 \*Jibdew Japplikaw f’1 ta’ Lulju 2019
-
-*5*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.240 medja meħtieġa ta’ 65% fil-qasam ta’ studju li jagħżlu (kif meħtieg skont il-paragrafu (1) ta’ dan l-ordinament) jistgħu jitħallew mill-Bord isegwu l-programm tal-ewwel sena (mingħajr eżenzjonijiet) f’dak il-qasam f’sena addizzjonali ta’ studju sabiex jippruvaw jiksbu l-marka medja meħtieġa. Din id-dispożizzjoni tista’ tappika darba biss matul il- Kors.
 
 ## 9. Pubblikazzjoni tal-programm tal-kors.
 
@@ -175,10 +153,6 @@ Il-marka medja finali mwieżna għall-klassifika tal-Grad għandha tkun imsejsa 
 **Il-Mark Medja tal-Ewwel Sena 10%**
 
 **Il-Mark Medja tat-Tieni Sena 25%**
-
-*6*
-
-BACHELOR OF ARTS (HONOURS) - B.A. (HONS) - [L.S.327.240 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI
 
 Il-Marka Medja tat-Tielet Sena għat-taqsimiet
 

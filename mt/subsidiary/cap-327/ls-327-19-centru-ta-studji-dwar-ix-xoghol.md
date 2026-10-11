@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ċentru ta’ Studji dwar ix-Xogħol. (S.L. 327.19)
 
-*1*
-
-STUDJI DWAR IX-XOGĦOL [L.S.327.19
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.19**
 
 **STATUT GĦAĊ-ĊENTRU TA’ STUDJI**
@@ -62,10 +58,6 @@ Biex jintlaħqu dawn iż-żewġ għanijiet iċ-Ċentru se jaħdem biex:
 *Setgħat.*
 
 (i) Chairman: Ir-Rettur tal-Università jew id-delegat tiegħu;
-
-*2*
-
-[L.S.327.19 STUDJI DWAR IX-XOGĦOL
 
 (ii) Viċi-Chairman: Id-Direttur taċ-Ċentru;
 
@@ -111,11 +103,7 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (iii) jippubblika rapport annwali;
 
-(iv) jirreġistra liċ-Ċentru f’assoċjazzjonijiet jew STUDJI DWAR IX-XOGĦOL [L.S.327.19
-
-f’istituzzjonijiet li għandhom l-istess għanijiet u interessi;
-
-*3*
+(iv) jirreġistra liċ-Ċentru f’assoċjazzjonijiet jew f’istituzzjonijiet li għandhom l-istess għanijiet u interessi;
 
 (v) jipproponi Regolamenti u Ordinamenti lis- Senat;
 
@@ -145,11 +133,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur huma li:
 
 (d) jiżviluppa u jimplimenta l-pjan strateġiku taċ-Ċentru;
 
-(e) jamministra ċ-Ċentru b’konsultazzjoni sħiħa mal-membri tiegħu; jimmonitorja u japprova talbiet għal leave of absence mill-membri taċ-Ċentru. Id-Direttur hu mistenni li jżomm reġistru tal-leave kollu tal-membri u jgħaddi, meta mitlub, din l-informazzjoni lid-Direttur għat-Tmexxija u l-Iżvilupp tar-Riżorsi STUDJI DWAR IX-XOGĦOL
-
-Umani;
-
-*[L.S.327.19 4*
+(e) jamministra ċ-Ċentru b’konsultazzjoni sħiħa mal-membri tiegħu; jimmonitorja u japprova talbiet għal leave of absence mill-membri taċ-Ċentru. Id-Direttur hu mistenni li jżomm reġistru tal-leave kollu tal-membri u jgħaddi, meta mitlub, din l-informazzjoni lid-Direttur għat-Tmexxija u l-Iżvilupp tar-Riżorsi Umani;
 
 (f) jippromovi l-bżonnijiet akkademiċi u personali tal-istudenti, sabiex l-istudenti jingħataw l-aqwa sapport f’każ li jiltaqgħu ma’ diffikultajiet matul l-istudji tagħhom relatati mal-attivitajiet taċ-Ċentru;
 
@@ -173,11 +157,7 @@ Umani;
 
 (m) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fiċ-Ċentru fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet reċenti tal-membri kollha taċ-Ċentru; ġabra fil-qosor tal-proġetti li fihom huma involuti membri taċ-Ċentru, li huma finanzjati kollha jew parzjalment minn barra; lista sħiġa tal-konferenzi/seminars/laqgħat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni taċ-Ċentru ma’ terzi persuni li jinkludi l-industrija lokali, il-Gvern jew is-soċjetà ċivili in ġenerali;
 
-(n) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani għaċ-Ċentru, li jkopri tagħlim, riċerka u xogħol amministrattiv proġettat għaċ-Ċentru u bbażat STUDJI DWAR IX-XOGĦOL [L.S.327.19
-
-fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti taċ-Ċentru u tal-Visiting Teaching Staff;
-
-*5*
+(n) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani għaċ-Ċentru, li jkopri tagħlim, riċerka u xogħol amministrattiv proġettat għaċ-Ċentru u bbażat fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti taċ-Ċentru u tal-Visiting Teaching Staff;
 
 (o) jimmonitorja l-eżekuzzjoni tax-xogħol tal-istaff mhux akkademiku msieħeb maċ-Ċentru;
 

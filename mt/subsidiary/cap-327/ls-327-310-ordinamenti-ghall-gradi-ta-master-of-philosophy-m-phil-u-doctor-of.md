@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Gradi ta' Master of Philosophy - M.Phil. - u Doctor of Philosophy - Ph.D. - taħt il-Patroċinju tal-European Centre for Gerantology (S.L. 327.310)
 
-DOCTOR OF PHILOSOPHY - PH.D. - TA}T IL-PATRO~INJU
-
-*1*
-
-TAL-EUROPEAN CENTRE FOR GERONTOLOGY [S.L.327.310
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.310**
 
 **ORDINAMENTI G}ALL-GRADI TA’ MASTER OF**
@@ -65,11 +59,7 @@ Is-supervi\\ur g]andu jkun awtorità stabbilita fil-qasam rilevanti ta’ l-inve
 
 (1) It-tul ta’ dissertazzjoni g]all-M.Phil. normalment m’g]andux jaqbe\\ il-50,000 kelma fil-waqt li t-tul ta’ te\\i g]all- Ph.D. m’g]andux ikun anqas minn 70,000 u aktar minn 90,000 kelma, inklu\\i n-noti li jidhru fil-qieg] tal-pa[na, i\\da esklu\\i l-biblijografija, u/jew l-indi`i analiti`i u xi appendi`ijiet.
 
-(2) L-istudenti huma me]tie[a jippre\\entaw tliet kopji tad-dissertazzjoni jew tat-te\\i g]all-e\\ami li g]andhom ikunu illegati adegwatament. Kull kopja g]andu jkollha sunt ta’ mhux aktar minn DOCTOR OF PHILOSOPHY - PH.D. - TA}T IL-PATRO~INJU [S.L.327.310 TAL-EUROPEAN CENTRE FOR GERONTOLOGY
-
-300 kelma. Fi \\mien xahar minn mindu jg]addu mill-e\\ami tad-dissertazzjoni jew tat-te\\i, l-istudenti g]andhom jippre\\entaw \\ew[ kopji, li wa]da minnhom g]andha tkun depo\\itata fil-librerija ta’ l- Università u l-o]ra fil-librerija ta`-~entru.
-
-*2*
+(2) L-istudenti huma me]tie[a jippre\\entaw tliet kopji tad-dissertazzjoni jew tat-te\\i g]all-e\\ami li g]andhom ikunu illegati adegwatament. Kull kopja g]andu jkollha sunt ta’ mhux aktar minn 300 kelma. Fi \\mien xahar minn mindu jg]addu mill-e\\ami tad-dissertazzjoni jew tat-te\\i, l-istudenti g]andhom jippre\\entaw \\ew[ kopji, li wa]da minnhom g]andha tkun depo\\itata fil-librerija ta’ l- Università u l-o]ra fil-librerija ta`-~entru.
 
 (3) I\\-\\ew[ kopji g]andhom ikunu illegati kif [ej:
 

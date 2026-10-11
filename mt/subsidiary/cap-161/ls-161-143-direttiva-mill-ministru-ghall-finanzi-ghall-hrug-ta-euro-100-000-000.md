@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru għall-Finanzi għall-ħruġ ta’ Euro 100,000,000 Stock tal-Gvern ta’ Malta (S.L. 161.143)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [L.S.161.143
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.143**
 
 DIRETTIVA MILL-MINISTRU GĦALL-FINANZI GĦALL-ĦRUĠ TA’ EURO 100,000,000
@@ -67,11 +63,7 @@ Is-somma ta’ flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta�
 
 (1) L-imgħax bir-rata ta’ Euro 0.75 għal kull Euro 100, tal- 1.5% Stock tal-Gvern ta’ Malta 2022 (IV) jitħallas kull sitt xhur b’lura fil-11 ta’ Jannar u fil-11 ta’ Lulju ta’ kull sena sakemm idum l-iStock:
 
-(a) l-ewwel ħlas pro rata tal-imgħax fuq l-ammont allokat mill-applikazzjonijiet sottomessi minn membri tal- [L.S.161.143 STOCK TAL-GVERN TA’ MALTA
-
-pubbliku, li jkopri l-perjodu bejn 1-24 ta’ Ottubru, 2016 u l-10 ta’ Jannar, 2017 (iż-żewġ dati inklużi) jsir fil-11 ta’ Jannar, 2017;
-
-*2*
+(a) l-ewwel ħlas pro rata tal-imgħax fuq l-ammont allokat mill-applikazzjonijiet sottomessi minn membri tal-pubbliku, li jkopri l-perjodu bejn 1-24 ta’ Ottubru, 2016 u l-10 ta’ Jannar, 2017 (iż-żewġ dati inklużi) jsir fil-11 ta’ Jannar, 2017;
 
 (b) l-ewwel ħlas pro rata tal-imgħax fuq l-ammont allokat mill-applikazzjonijiet b’irkant sottomessi minn investituri istituzzjonali, li jkopri l-perjodu bejn is-26 ta’ Ottubru, 2016 u l-10 ta’ Jannar, 2017 (iż-żewġ dati inklużi) isir fil-11 ta’ Jannar 2017.
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Drittijiet li jitħallsu taħt it-Tieni Skeda tal-Kodiċi Ċivili"
-identifier: "S.L. 16.7"
+identifier: "S.L. 16.07"
 eli: "https://legislation.mt/eli/sl/16.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/16.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Drittijiet li jitħallsu taħt it-Tieni Skeda tal-Kodiċi Ċivili (S.L. 16.7)
-
-*1*
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.07
+# Regolamenti dwar Drittijiet li jitħallsu taħt it-Tieni Skeda tal-Kodiċi Ċivili (S.L. 16.07)
 
 **LEĀISLAZZJONI SUSSIDJARJA 16.07**
 
@@ -58,10 +54,6 @@ deëiŜjoni finali kontra l-iskrizzjoni tal-organizzazzjoni bħala organizzazzjo
 ## 5. Applikazzjoni.
 
 Meta tissotometti l-applikazzjoni għar-reāistrazzjoni, l-organizzazzjoni li tkun qed tapplika tista’ tinnotifika lir-Reāistratur bil-miktub dwar data iŜjed tard mill-anniversarju tar-reāistrazzjoni tagħha bħala d-data li fiha d-drittijiet annwali għandhom ikunu mħallsa fi snin sussegwenti. F’dak il-kaŜ l-applikant jista’ jħallas dawk id-drittijiet pro rata, li jiāu kalkolati mir-Reāistratur bbaŜati fuq id-data ta’ reāistrazzjoni, kif ikunu dovuti għall-perjodu addizzjonali bejn d-data tal-anniversarju tar-reāistrazzjoni u d-data magħŜula bħala iŜjed tard.
-
-*3*
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.07
 
 SKEDA
 
@@ -246,10 +238,6 @@ proëess ta’ stralë jew bir-reāistrazzjoni
 tagħha kanëellata.
 
 Spezzjoni fiŜika ta’ dokumenti €2.33
-
-*5*
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.07
 
 êertifikat ta’ reāistrazzjoni jew, fil-kaŜ ta’
 

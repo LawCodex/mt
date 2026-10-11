@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kondizzjonijiet għad-Dħul u s-Soġġorn ta’ Ċittadini ta’ Pajjiżi Terzi għall-Fini ta’ Impjieg bħala Ħaddiema Staġjonali (S.L. 217.20)
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*1*
-
-IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.20**
 
 **REGOLAMENTI DWAR IL-KONDIZZJONIJIET**
@@ -68,12 +62,6 @@ Għall-finijiet ta’ dawn ir-regolamenti:
 
 "ċittadin ta’ pajjiż terz" tfisser kwalunkwe persuna li ma tkunx ċittadin tal-Unjoni Ewropea, hawn iżjed ’il quddiem imsejħa "l- Unjoni", fis-sens tal-Artikolu 20(1) TFUE;
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*2*
-
-[L.S.217.20 IMPJIEG BĦALA ĦADDIEMA STAĠJONALI
-
 "ħaddiem staġonali" tfisser ċittadin ta’ pajjiż terz li jżomm il-post ta’ residenza principali tiegħu jew tagħha f’pajjiż terz u jkun joqgħod legalment u temporanjament f’Malta biex iwettaq attività li tiddependi mill-mogħdija tal-istaġuni, skont kuntratt tax-xogħol wieħed jew aktar b’terminu fiss konkluż(i) direttament bejn dak iċ-ċittadin ta’ pajjiż terz u l-persuna li tħaddem:
 
 Iżda dik l-attività għandha tkun esklussivament waħda minn dawn li ġejjin: ospitabiltà, agrikoltura u akwakultura marina;
@@ -102,11 +90,7 @@ Iżda dik l-attività għandha tkun esklussivament waħda minn dawn li ġejjin: 
 
 *L.S. 452.82*
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*3*
-
-IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 (ċ) huma membri tal-familja ta’ ċittadini tal-Unjoni li eżerċitaw id-dritt tagħhom għall-moviment liberu fl- Unjoni, f’konformità mad-Diretiiva 2004/38/KE tal- Parlament Ewropew u tal-Kunsill tad-29 ta’ April 2004 dwar id-drittijiet taċ-ċittadini tal-Unjoni u tal-membri tal-familja tagħhom biex jiċċaqilqu u jgħixu liberament fit-territorju tal-Istati Membri li temenda r- Regolament (KEE) Nru 1612/68 u tħassar id-Direttivi 64/221/KEE, 68/360/KEE, 72/194/KEE, 73/148/KEE, 75/34/KEE, 75/35/KEE, 90/364/KEE, 90/365/KEE u 93/96/KEE u l-Ordni dwar il-Moviment Liberu ta’ Ċittadini tal-Unjoni Ewropea u tal-Membri tal-Familji tagħhom;
+(ċ) huma membri tal-familja ta’ ċittadini tal-Unjoni li eżerċitaw id-dritt tagħhom għall-moviment liberu fl- Unjoni, f’konformità mad-Diretiiva 2004/38/KE tal- Parlament Ewropew u tal-Kunsill tad-29 ta’ April 2004 dwar id-drittijiet taċ-ċittadini tal-Unjoni u tal-membri tal-familja tagħhom biex jiċċaqilqu u jgħixu liberament fit-territorju tal-Istati Membri li temenda r- Regolament (KEE) Nru 1612/68 u tħassar id-Direttivi 64/221/KEE, 68/360/KEE, 72/194/KEE, 73/148/KEE, 75/34/KEE, 75/35/KEE, 90/364/KEE, 90/365/KEE u 93/96/KEE u l-Ordni dwar il-Moviment Liberu ta’ Ċittadini tal-Unjoni Ewropea u tal-Membri tal-Familji tagħhom;
 
 *L.S. 460.17*
 
@@ -139,12 +123,6 @@ IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 (ċ) huma membri tal-familja ta
 (b) evidenza tal-akkwist ta’, jew li tkun saret applikazzjoni għal, assigurazzjoni kontra il-mard għar-riskji kollha li normalment ikopru liċ-ċittadini ta’ Malta għall-perijodi li fihom il-kopertura mit-tali assigurazzjoni u d-dritt għall-benefiċċji korrespondenti huma pprovduti b’konnessjoni max-xogħol, jew bħala riżultat tax-xogħol li jkun qed isir f’Malta;
 
 (ċ) evidenza li l-ħaddiem staġonali ser ikollu akkomodazzjoni xierqa jew li ser tiġi pprovduta akkomodazzjoni xierqa, skont ir-regolament 18.
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*4*
-
-[L.S.217.20 IMPJIEG BĦALA ĦADDIEMA STAĠJONALI
 
 *Kap. 452. L.S. 452.95*
 
@@ -180,13 +158,9 @@ Iżda ċ-Chairperson Eżekuttiv jista’ jesiġi li:
 
 Applikazzjoni għal awtorizzazzjoni għall-fini ta’ xogħol staġonali għandha titqies inammissibbli jew tiġi rifjutata fuq bażi ta’ konsiderazzjonijiet skont is-suq tax-xogħol mill-awtoritajiet responsabbli għall-ħruġ ta’ permessi tax-xogħol fil-każ ta’ soġġorni li ma jaqbżux id-disgħin jum jew miċ-Chairperson Eżekuttiv, wara konsultazzjoni mal-awtoritajiet pertinenti responsabbli għal materji dwar impjiegi fil-każ ta’ soġġorni li jaqbżu d-disgħin jum.
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
+### 7. Raġunijiet għal rifjut.
 
-*5*
-
-IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 7. (1) Iċ-Chairperson Eżekuttiv jew l-awtoritajiet responsabbli għall-ħruġ ta’ permessi tax-xogħol, skont il-każ, kif ikun il-każ, għandhom jirrifjutaw applikazzjoni għal awtorizzazzjoni għall-fini ta’ xogħol staġonali fejn:
-
-*Raġunijiet għal rifjut.*
+(1) Iċ-Chairperson Eżekuttiv jew l-awtoritajiet responsabbli għall-ħruġ ta’ permessi tax-xogħol, skont il-każ, kif ikun il-każ, għandhom jirrifjutaw applikazzjoni għal awtorizzazzjoni għall-fini ta’ xogħol staġonali fejn:
 
 (a) ma jkunx hemm konformità mad-dispożizzjonijiet tar-regolamenti 4 jew 5; jew
 
@@ -214,13 +188,7 @@ IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 7. (1) Iċ-Chairperson Eżekutt
 
 (5) Iċ-Chairperson Eżekuttiv jew l-awtoritajiet responsabbli għall-ħruġ ta’ permessi tax-xogħol, skont il-każ, jistgħu jirrifjutaw applikazzjoni għal awtorizzazzjoni għall-fini ta’ xogħol staġonali fejn:
 
-(a) il-persuna li tħaddem tkun naqset milli tissodisfa l-obbligi legali tagħha rigward is-sigurtà soċjali, it-tassazzjoni, id-drittijiet tax-xogħol, il-kondizzjonijiet tax-xogħol jew it-termini ta’ impjieg, kif previst fil- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*6*
-
-[L.S.217.20 IMPJIEG BĦALA ĦADDIEMA STAĠJONALI
-
-liġijiet u, jew ftehmiet kollettivi li jkunu applikabbli; jew
+(a) il-persuna li tħaddem tkun naqset milli tissodisfa l-obbligi legali tagħha rigward is-sigurtà soċjali, it-tassazzjoni, id-drittijiet tax-xogħol, il-kondizzjonijiet tax-xogħol jew it-termini ta’ impjieg, kif previst fil-liġijiet u, jew ftehmiet kollettivi li jkunu applikabbli; jew
 
 (b) fi żmien it-tnax-il xahar li minnufih jippreċedu d-data tal-applikazzjoni, il-persuna li tħaddem tkun eliminat pożizzjoni full-time sabiex toħloq pożizzjoni vakanti li l-persuna li tħaddem tkun qed tipprova timla’ bl-użu ta’ dawn ir-regolamenti; jew
 
@@ -252,11 +220,7 @@ liġijiet u, jew ftehmiet kollettivi li jkunu applikabbli; jew
 
 (a) m’għadx hemm iżjed konformità mad-dispożizzjonijiet tar-regolamenti 4 jew 5; jew
 
-(b) il-persuna li tħaddem tkun naqset milli tissodisfa l-obbliġi legali tagħha rigward is-sigurtà soċjali, it- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*7*
-
-IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 tassazzjoni, id-drittijiet tax-xogħol, il-kondizzjonijiet tax-xogħol jew it-termini ta’ impjieg, kif previst fil-liġijiet applikabbli u, jew fi ftehimiet kollettivi; jew (ċ) il-persuna li tħaddem ma wettqitx l-obbliġi tagħha taħt il- kuntratt tax-xogħol; jew
+(b) il-persuna li tħaddem tkun naqset milli tissodisfa l-obbliġi legali tagħha rigward is-sigurtà soċjali, it-tassazzjoni, id-drittijiet tax-xogħol, il-kondizzjonijiet tax-xogħol jew it-termini ta’ impjieg, kif previst fil-liġijiet applikabbli u, jew fi ftehimiet kollettivi; jew (ċ) il-persuna li tħaddem ma wettqitx l-obbliġi tagħha taħt il- kuntratt tax-xogħol; jew
 
 (d) fi żmien it-tnax-il xahar li minnufih jippreċedu d-data tal-applikazzjoni, il-persuna li tħaddem eliminat pożizzjoni full-time sabiex toħloq pożizzjoni vakanti li persuna li tħaddem tkun qed tipprova timla’ bl-użu ta’ dawn ir-regolamenti.
 
@@ -282,13 +246,7 @@ Proċedura u Awtorizzazzjonijiet għall-Fini ta’ Xogħol Staġonali 10. (1) I�
 
 ### 11. Awtorizzazzjonijiet għall-fini ta’ xogħol staġonali.
 
-(1) Għal soġġorni li ma jaqbżux id-disgħin jum, għal ċittadini ta’ pajjiżi terzi li jikkonformaw mar-regolament 4 u ma jaqgħux taħt ir-raġunijiet stabbiliti fir-regolament 7, għandha ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*8*
-
-[L.S.217.20 IMPJIEG BĦALA ĦADDIEMA STAĠJONALI
-
-tinħareġ, mingħajr preġudizzju għar-regoli dwar il-ħruġ ta’ viżi għal soġġorn qasir kif stipulat fil-Kodiċi dwar il-Viżi u fir- Regolament tal-Kunsill (KE) Nru 1683/95:
+(1) Għal soġġorni li ma jaqbżux id-disgħin jum, għal ċittadini ta’ pajjiżi terzi li jikkonformaw mar-regolament 4 u ma jaqgħux taħt ir-raġunijiet stabbiliti fir-regolament 7, għandha tinħareġ, mingħajr preġudizzju għar-regoli dwar il-ħruġ ta’ viżi għal soġġorn qasir kif stipulat fil-Kodiċi dwar il-Viżi u fir- Regolament tal-Kunsill (KE) Nru 1683/95:
 
 (a) viża għal soġġorn qasir u permess tax-xogħol li jindikaw li huma maħruġa għall-fini ta’ xogħol staġonali; jew
 
@@ -318,11 +276,7 @@ Iżda dan sakemm ma nħariġx permess ta’ residenza skont il-liġi nazzjonali 
 
 *Emendat: A.L. 59 tal-2024.*
 
-(1) Fil-perijodu massimu msemmi fir-regolament 13 u diment li d-dispożizzjoinijiet tar-regolamenti 4 jew 5 jiġu sodisfatti u r-raġunijiet stipulati fir-regolament 7(1)(b), fir-regolament 7(2) u, jekk applikabbli, fir-regolament 7(5) mhumiex sodisfatti, il-ħaddiema staġonali għandhom jingħataw estensjoni waħda tas-soġġorn tagħhom, fir-rigward tal-kuntratt tagħhom mal-istess ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*9*
-
-IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 persuna li tħaddem.
+(1) Fil-perijodu massimu msemmi fir-regolament 13 u diment li d-dispożizzjoinijiet tar-regolamenti 4 jew 5 jiġu sodisfatti u r-raġunijiet stipulati fir-regolament 7(1)(b), fir-regolament 7(2) u, jekk applikabbli, fir-regolament 7(5) mhumiex sodisfatti, il-ħaddiema staġonali għandhom jingħataw estensjoni waħda tas-soġġorn tagħhom, fir-rigward tal-kuntratt tagħhom mal-istess persuna li tħaddem.
 
 (2) Iċ-Chairperson Eżekuttiv jew l-awtoritajiet responsabbli għall-ħruġ ta’ permessi tax-xogħol, skont il-każ, wara konsultazzjoni mal-awtoritajiet pertinenti responsabbli għal materji dwar impjiegi, jistgħu jiddeċiedu li jħallu lill-ħaddiema staġonali jestendu l-kuntratt tagħhom mal-istess persuna li tħaddem u s-soġġorn tagħhom aktar minn darba waħda, dment li l-perijodu massimu msemmi fir-regolament 13 ma jinqabiżx.
 
@@ -336,13 +290,7 @@ IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 persuna li tħaddem.
 
 (b) Id-dispożizzjonijiet ta’ dan ir-regolament għandhom japplikaw mingħajr preġudizzju għall-prinċipju tal-preferenza għal ċittadini tal-Unjoni kif espress fid-dispożizzjonijiet rilevanti tal-Atti rilevanti ta’ Adeżjoni.
 
-(7) Iċ-Chairperson Eżekuttiv jew l-awtoritajiet responsabbli għall-ħruġ ta’ permessi tax-xogħol, skont il-każ, wara konsultazzjoni mal-awtoritajiet pertinenti responsabbli għal materji dwar impjiegi, għandhom jirrifjutaw li jestendu s-soġġorn jew li ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*10*
-
-[L.S.217.20 IMPJIEG BĦALA ĦADDIEMA STAĠJONALI
-
-jġeddu l-awtorizzazzjoni għall-fini ta’ xogħol staġonali fejn ikun intlaħaq il-perjodu massimu ta’ soġġorn kif imfisser fir-regolament 13.
+(7) Iċ-Chairperson Eżekuttiv jew l-awtoritajiet responsabbli għall-ħruġ ta’ permessi tax-xogħol, skont il-każ, wara konsultazzjoni mal-awtoritajiet pertinenti responsabbli għal materji dwar impjiegi, għandhom jirrifjutaw li jestendu s-soġġorn jew li jġeddu l-awtorizzazzjoni għall-fini ta’ xogħol staġonali fejn ikun intlaħaq il-perjodu massimu ta’ soġġorn kif imfisser fir-regolament 13.
 
 (8) Iċ-Chairperson Eżekuttiv jew l-awtoritajiet responsabbli għal ħruġ tal-permess tax-xogħol, skont il-każ, wara konsultazzjoni mal-awtoritajiet pertinenti responsabbli għal materji dwar impjiegi, jistgħu jirrifjutaw li jestendu s-soġġorn jew li jġeddu l-awtorizzazzjoni għall-fini ta’ xogħol staġonali maħruġa jekk iċ-ċittadin ta’ pajjiż terz japplika għal protezzjoni internazzjonali skont leġislazzjoni rigward il-kwalifika tal-ażil għal benefiċċjarji tal-protezzjoni internazzjonali jew skont l-Att dwar il-Protezzjoni Internazzjonali, jew jekk iċ-ċittadin ta’ pajjiż terz japplika għal protezzjoni skont l-Att ta’ Refuġjati jew l-obbliġi internazzjonali.
 
@@ -370,11 +318,7 @@ jġeddu l-awtorizzazzjoni għall-fini ta’ xogħol staġonali fejn ikun intlaħ
 
 (1) Persuni li ma ssodisfawx l-obbligi tagħhom taħt dawn ir-regolamenti u, jew jonqsu milli jevitaw abbużi possibbli jkunu ħatja ta’ reat kontra dawn ir-regolamenti u jeħlu, meta jinsabu ħatja, multa ta’ mhux iżjed minn ħamest elef euro (€5,000).
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*11*
-
-IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 (2) Iċ-Chairperson Eżekuttiv jew l-awtoritajiet responsabbli għall-ħruġ ta’ permessi tax-xogħol, skont il-każ, għandhom jiżguraw li, jekk l-awtorizzazzjoni għall-fini ta’ xogħol staġonali tiġi rtirata f’konformità mar-regolament 8(2), (3)(b), (3)(ċ) u (3)(d), min iħaddem għandu jkun suġġett li jħallas kumpens lill-ħaddiem staġonali f ’konformità mal-proċeduri skont il-liġi nazzjonali. Kwalunkwe responsabbiltà għandha tkopri kwalunkwe obbligu pendenti li min iħaddem kien ikollu jirrispetta li kieku l-awtorizzazzjoni għall-fini ta’ xogħol staġonali ma kientx ġiet irtirata.
+(2) Iċ-Chairperson Eżekuttiv jew l-awtoritajiet responsabbli għall-ħruġ ta’ permessi tax-xogħol, skont il-każ, għandhom jiżguraw li, jekk l-awtorizzazzjoni għall-fini ta’ xogħol staġonali tiġi rtirata f’konformità mar-regolament 8(2), (3)(b), (3)(ċ) u (3)(d), min iħaddem għandu jkun suġġett li jħallas kumpens lill-ħaddiem staġonali f ’konformità mal-proċeduri skont il-liġi nazzjonali. Kwalunkwe responsabbiltà għandha tkopri kwalunkwe obbligu pendenti li min iħaddem kien ikollu jirrispetta li kieku l-awtorizzazzjoni għall-fini ta’ xogħol staġonali ma kientx ġiet irtirata.
 
 ### 17. Salvagwardji proċedurali.
 
@@ -388,13 +332,7 @@ Iżda fejn il-validità tal-awtorizzazzjoni għall-fini ta’ xogħol staġonali
 
 (3) Fejn l-informazzjoni jew id-dokumentazzjoni pprovduta b’appoġġ għall-applikazzjoni ma tkunx kompluta, l-awtoritajiet kompetenti għandhom jinnotifikaw lill-applikant f ’perijodu raġonevoli dwar l-informazzjoni addizzjonali meħtieġa u jistabbilixxu skadenza raġonevoli sabiex din tiġi pprovduta. Il-perijodu msemmi fis-subregolament (1) għandu jiġi sospiż sa meta tiġi sottomessa l-informazzjoni addizzjonali meħtieġa.
 
-(4) (a) Ir-raġunijiet għal deċiżjoni li tiddikjara bħala inammissibbli applikazzjoni għal awtorizzazzjoni ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*12*
-
-[L.S.217.20 IMPJIEG BĦALA ĦADDIEMA STAĠJONALI
-
-għall-fini ta’ xogħol staġonali jew li tirrifjuta applikazzjoni għall-awtorizzazzjoni għall-fini ta’ xogħol staġonali jew li tirrifjuta estensjoni ta’ soġġorn jew tiġdid tal-awtorizzazzjoni għall-finijiet ta’ xogħol staġonali għandhom jingħataw bil-miktub lill-applikant. Ir-raġunijiet għal deċiżjoni li tirtira l-awtorizzazzjoni għall-fini ta’ xogħol staġonali għandha tingħata bil-miktub kemm lill-ħaddiem staġonali u lil min iħaddem.
+(4) (a) Ir-raġunijiet għal deċiżjoni li tiddikjara bħala inammissibbli applikazzjoni għal awtorizzazzjoni għall-fini ta’ xogħol staġonali jew li tirrifjuta applikazzjoni għall-awtorizzazzjoni għall-fini ta’ xogħol staġonali jew li tirrifjuta estensjoni ta’ soġġorn jew tiġdid tal-awtorizzazzjoni għall-finijiet ta’ xogħol staġonali għandhom jingħataw bil-miktub lill-applikant. Ir-raġunijiet għal deċiżjoni li tirtira l-awtorizzazzjoni għall-fini ta’ xogħol staġonali għandha tingħata bil-miktub kemm lill-ħaddiem staġonali u lil min iħaddem.
 
 (b) In-notifika bil-miktub għandha tispeċifika wkoll l-informazzjoni rigward il-proċedura ta’ appell kontra dik id-deċiżjoni li ċ-ċittadin ta’ pajjiż terz jkun jista’ jintavola quddiem il-Bord tal-Appelli dwar l- Immigrazzjoni skont il-limitu ta’ żmien stabbilit fl- Att.
 
@@ -422,11 +360,7 @@ Matul il-perjodu ta’ validità tal-awtorizzazzjoni msemmi fir-regolament 11, i
 
 (b) l-aċċess liberu fit-territorju kollu ta’ Malta;
 
-(ċ) id-dritt li jeżerċita l-attività konkreta tal-impjieg li ġiet ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*13*
-
-IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 awtorizzata skont l-awtorizzazzjoni f’konformità ma’ dawn ir-regolamenti.
+(ċ) id-dritt li jeżerċita l-attività konkreta tal-impjieg li ġiet awtorizzata skont l-awtorizzazzjoni f’konformità ma’ dawn ir-regolamenti.
 
 ### 20. Dritt għat-trattament ugwali. ta’:
 
@@ -456,12 +390,6 @@ Iżda l-applikazzjoni għal edukazzjoni u taħriġ vokazzjonali għandha tkun di
 
 (h) ir-rikonoxximent ta’ diplomi, ċertifikati u kwalifiki professjonali oħra, skont ir-Regolamenti dwar il- Kondizzjonijiet ta’ Dħul u Residenza ta’ Ċittadini ta’ Pajjiżi Terzi għall-Finijiet ta’ Impjieg bi Kwalifiki Għoljin;
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*14*
-
-[L.S.217.20 IMPJIEG BĦALA ĦADDIEMA STAĠJONALI
-
 (i) il-benefiċċji tat-taxxa, kemm-il darba l-ħaddiem staġonali jkun meqjus bħala residenti għal finijiet fiskali f’Malta:
 
 Iżda l-benefiċċji tat-taxxa għandhom ikunu limitati għal każijiet fejn ir-residenza reġistrata jew abitwali tal-membri tal-familja tal-ħaddiem staġonali, li dwarhom jintalbu l-benefiċċji, tkun jfit-territorju ta’ Malta:
@@ -484,8 +412,4 @@ Iżda l-ħaddiema staġonali li jmorru joqogħdu f’pajjiż terz, jew is-supers
 
 (2) L-awtoritajiet pertinenti għandhom jassiguraw li l-partijiet terzi li għandhom interess leġittimu, skont il-kriterji stabbiliti mil-liġi nazzjonali, li jiżguraw li jkun hemm konformità ma’ dawn ir-regolamenti, jistgħu, jew f’isem il-ħaddiem staġonali, jew b’appoġġ għalih, bl-approvazzjoni tiegħu jew tagħha, ikunu parti fi kwalunkwe proċediment amministrattiv jew ċivili, b’esklużjoni tal-proċeduri u d-deċiżjonijiet fir-rigward ta’ viżi għal soġġorn qasir.
 
-(3) L-awtoritajiet pertinenti għandhom jiżguraw li l-ħaddiema staġonali jkollhom l-istess aċċess bħall-ħaddiema l-oħra f’pożizzjoni simili għal miżuri ta’ protezzjoni kontra t-tkeċċija jew trattament ħażin ieħor mill-persuna li tħaddem bħala reazzjoni għal ilment fi ħdan l- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINI TA’
-
-*15*
-
-IMPJIEG BĦALA ĦADDIEMA STAĠJONALI [L.S.217.20 intrapriża jew għal kwalunkwe proċediment legali maħsub għall-infurzar tal-konformità ma’ dawn ir-regolamenti.
+(3) L-awtoritajiet pertinenti għandhom jiżguraw li l-ħaddiema staġonali jkollhom l-istess aċċess bħall-ħaddiema l-oħra f’pożizzjoni simili għal miżuri ta’ protezzjoni kontra t-tkeċċija jew trattament ħażin ieħor mill-persuna li tħaddem bħala reazzjoni għal ilment fi ħdan l-intrapriża jew għal kwalunkwe proċediment legali maħsub għall-infurzar tal-konformità ma’ dawn ir-regolamenti.

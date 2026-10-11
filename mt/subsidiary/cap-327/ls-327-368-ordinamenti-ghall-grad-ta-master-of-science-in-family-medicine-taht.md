@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Family Medicine taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.368)
 
-MEDICINE TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.368
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.368**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -77,13 +71,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (2) L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
-(3) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur MEDICINE TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.368 TAL-MEDIĊINA U L-KIRURĠIJA
-
-qabel il-bidu tal-kors.
+(3) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
 ## 6. Valutazzjoni u progress.
 
@@ -117,8 +105,4 @@ Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduat
 
 ## 10. Disposizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 
-Id-disposizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment MEDICINE TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.368 jitqiesu mill-Bord bħala meħtieġa minħabba fin-natura part-time tal-kors.
+Id-disposizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala meħtieġa minħabba fin-natura part-time tal-kors.

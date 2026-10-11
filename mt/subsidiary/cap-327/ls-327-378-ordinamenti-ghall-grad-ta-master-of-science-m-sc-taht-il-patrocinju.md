@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science - M.Sc. - taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.378)
 
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.378
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.378**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -110,11 +106,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (3) L-istudenti jkunu meħtieġa jirrapportaw għand is-superviżur tagħhom mill-anqas darba kull xahrejn, u barra minn hekk skont kemm is-superviżur jidhirlu li jkun meħtieġ.
 
-(4) Fl-aħħar ta’ kull semestru s-superviżuri għandhom jibgħatu lill-Panel ta’ Superviżjoni rapporti dwar l-istudenti taħt is- IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.378
-
-superviżjoni tagħhom. L-istudenti għandhom ifittxu l-approvazzjoni ta’ dan il-Panel għal kwalunkwe tibdil sostanzjali fit-titolu jew fil-kontenut tad-dissertazzjoni. Id-dissertazzjoni normalment ma tkunx sottomessa għall-eżami mingħajr l-approvazzjoni tas-superviżur.
-
-*3*
+(4) Fl-aħħar ta’ kull semestru s-superviżuri għandhom jibgħatu lill-Panel ta’ Superviżjoni rapporti dwar l-istudenti taħt is-superviżjoni tagħhom. L-istudenti għandhom ifittxu l-approvazzjoni ta’ dan il-Panel għal kwalunkwe tibdil sostanzjali fit-titolu jew fil-kontenut tad-dissertazzjoni. Id-dissertazzjoni normalment ma tkunx sottomessa għall-eżami mingħajr l-approvazzjoni tas-superviżur.
 
 (5) Il-Panel tas-Superviżjoni għandu jinforma lill-Bord bil-miktub, minn żmien għal żmien, dwar il-progress ġenerali ta’ kull student. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Manifattura, Preżentazzjoni u Bejgħ tat-Tabakk u Prodotti Relatati (S.L. 315.10)
 
-*1*
-
-TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
 **LEĠISLAZZJONI SUSSIDJARJA 315.10**
 
 **REGOLAMENTI DWAR IL-MANIFATTURA,**
@@ -58,13 +54,9 @@ Għall-finijiet ta’ dan ir-regolament, it-tifsiriet li ġejjin ser japplikaw:
 
 (b) f’każijiet oħra, jekk l-istabbiliment tal-bejgħ bl-imnut ikollu s-sede statutorja, l-amministrazzjoni ċentrali jew post tan-negozju tiegħu, inkluż fergħa, aġenzija jew kwalunkwe stabbiliment ieħor f’dak l-Istat Membru;
 
-"bidla sostanzjali taċ-ċirkostanzi" tfisser żieda tal-volumi tal-bejgħ skont il-kategorija tal-prodotti b’mill-inqas 10% f’mill-anqas ħames Stati Membri abbażi tad-data tal-bejgħ trasmessa [L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
+"bidla sostanzjali taċ-ċirkostanzi" tfisser żieda tal-volumi tal-bejgħ skont il-kategorija tal-prodotti b’mill-inqas 10% f’mill-anqas ħames Stati Membri abbażi tad-data tal-bejgħ trasmessa f’konformità mar-regolament 5(6) jew żieda tal-livell ta’ prevalenza tal-użu fil-grupp tal-konsumaturi li għandhom inqas minn ħamsa u għoxrin (25) sena b’mill-anqas ħames punti perċentwali f’mill-anqas ħames Stati Membri għall-kategorija tal-prodott rispettiva bbażata fuq ir-rapport Speċjali tal- Ewrobarometru nru. 385 ta’ Mejju 2012 jew studji ta’ prevalenza ekwivalenti; fi kwalunkwe każ ma jkunx meqjus li seħħet bidla sostanzjali taċ-ċirkostanzi jekk il-volum tal-bejgħ tal-kategorija ta’ prodott fil-livell bl-imnut ma jeċċedix 2.5% tal-bejgħ totali tal-prodotti tat-tabakk fil-livell tal-Unjoni;
 
 \*ara r-regolament 1(4) ta’ dawn ir-regolamenti, kif promulgat oriġinarjament.
-
-f’konformità mar-regolament 5(6) jew żieda tal-livell ta’ prevalenza tal-użu fil-grupp tal-konsumaturi li għandhom inqas minn ħamsa u għoxrin (25) sena b’mill-anqas ħames punti perċentwali f’mill-anqas ħames Stati Membri għall-kategorija tal-prodott rispettiva bbażata fuq ir-rapport Speċjali tal- Ewrobarometru nru. 385 ta’ Mejju 2012 jew studji ta’ prevalenza ekwivalenti; fi kwalunkwe każ ma jkunx meqjus li seħħet bidla sostanzjali taċ-ċirkostanzi jekk il-volum tal-bejgħ tal-kategorija ta’ prodott fil-livell bl-imnut ma jeċċedix 2.5% tal-bejgħ totali tal-prodotti tat-tabakk fil-livell tal-Unjoni;
-
-*2*
 
 "borża" tfisser pakkett individwali ta’ tabakk tal-brim, jew fil-forma ta’ pakkett rettangolari b’perpura li tgħatti l-ftuħ jew fil-forma ta’ borża wieqfa;
 
@@ -76,25 +68,15 @@ f’konformità mar-regolament 5(6) jew żieda tal-livell ta’ prevalenza tal-u
 
 "importatur tat-tabakk jew prodotti relatati" tfisser is-sid ta’, jew persuna li għandha d-dritt li tiddisponi mit-tabakk u l-prodotti relatati li ddaħħlu fit-territorju tal-Unjoni;
 
-"importazzjoni tat-tabakk jew prodotti relatati" tfisser id-dħul fit-territorju tal-Unjoni Ewropea, hawn iżjed ’il quddiem imsejħa "l-Unjoni", ta’ tali prodotti sakemm il-prodotti ma jitqegħdux taħt proċedura jew arranġament doganali ta’ sospensjoni mad-dħul tagħhom fl-Unjoni, kif ukoll ir-rilaxx tagħhom mill-proċedura u l-
+"importazzjoni tat-tabakk jew prodotti relatati" tfisser id-dħul fit-territorju tal-Unjoni Ewropea, hawn iżjed ’il quddiem imsejħa "l-Unjoni", ta’ tali prodotti sakemm il-prodotti ma jitqegħdux taħt proċedura jew arranġament doganali ta’ sospensjoni mad-dħul tagħhom fl-Unjoni, kif ukoll ir-rilaxx tagħhom mill-proċedura u l-arranġament doganali ta’ sospensjoni;
 
-arranġament doganali ta’ sospensjoni;  
-"ingredjent" tfisser tabakk, addittiv, kif ukoll kwalunkwe  
-sustanza jew element preżenti fi prodott tat-tabakk lest jew prodotti  
-relatati, inkluż il-karta, il-filtru, il-linka, il-kapsuli u l-kolla;  
-"ippakkjar estern" tfisser kwalunkwe ppakkjar li fih il-prodotti  
-tat-tabakk jew prodotti relatati jitqiegħdu fis-suq u li jinkludi  
-pakkett individwali jew aggregazzjoni ta’ pakketti individwali;  
-"konsumatur" tfisser persuna fiżika li qed taġixxi għal għanijiet  
-li m’għandhomx x’jaqsmu mal-attività kummerċjali,  
-imprenditorjali, artiġjanali jew professjonali tiegħu jew tagħha;  
-"kontenitur ta’ rikarika" tfisser kontenitur li fih likwidu li fih in-  
-nikotina, li jista’ jintuża biex wieħed jerġa’ jimla s-sigarett  
-elettroniku;
+"ingredjent" tfisser tabakk, addittiv, kif ukoll kwalunkwe sustanza jew element preżenti fi prodott tat-tabakk lest jew prodotti relatati, inkluż il-karta, il-filtru, il-linka, il-kapsuli u l-kolla;
 
-*3*
+"ippakkjar estern" tfisser kwalunkwe ppakkjar li fih il-prodotti tat-tabakk jew prodotti relatati jitqiegħdu fis-suq u li jinkludi pakkett individwali jew aggregazzjoni ta’ pakketti individwali;
 
-TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
+"konsumatur" tfisser persuna fiżika li qed taġixxi għal għanijiet li m’għandhomx x’jaqsmu mal-attività kummerċjali, imprenditorjali, artiġjanali jew professjonali tiegħu jew tagħha;
+
+"kontenitur ta’ rikarika" tfisser kontenitur li fih likwidu li fih in-nikotina, li jista’ jintuża biex wieħed jerġa’ jimla s-sigarett elettroniku;
 
 "Kummissjoni" tfisser il-Kummissjoni Ewropea;
 
@@ -130,11 +112,7 @@ TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
 
 "sigarett" tfisser romblu tat-tabakk li jista’ jiġi kkonsmat permezz ta’ proċess ta’ kombustjoni u huwa definit ulterjorment fl- Artikolu 3(1) tad-Direttiva tal-Kunsill 2011/64/UE;
 
-"sigarett elettroniku" tfisser prodott li jista’ jintuża għall-konsum ta’ fwar li fih in-nikotina permezz ta’ bokkin, jew kwalunkwe komponent ta’ dak il-prodott, inklużi skrataċ, tank, u l-apparat [L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
-mingħajr l-iskartoċċ jew t-tank. Is-sigaretti elettroniċi jistgħu jkunu jintremew jew jerġgħu jimtlew permezz ta’ kontenitur ta’ rikarika u tank jew jerġgħu jiġu ċċarġjati bi skrataċ ta’ użu waħdieni;
-
-*4*
+"sigarett elettroniku" tfisser prodott li jista’ jintuża għall-konsum ta’ fwar li fih in-nikotina permezz ta’ bokkin, jew kwalunkwe komponent ta’ dak il-prodott, inklużi skrataċ, tank, u l-apparat mingħajr l-iskartoċċ jew t-tank. Is-sigaretti elettroniċi jistgħu jkunu jintremew jew jerġgħu jimtlew permezz ta’ kontenitur ta’ rikarika u tank jew jerġgħu jiġu ċċarġjati bi skrataċ ta’ użu waħdieni;
 
 "sigarru" tfisser romblu tat-tabakk li jista’ jiġi kkonsmat permezz ta’ proċess ta’ kombustjoni u huwa definit ulterjorment fl-Artikolu 4(1) tad-Direttiva tal-Kunsill 2011/64/UE;
 
@@ -162,11 +140,7 @@ mingħajr l-iskartoċċ jew t-tank. Is-sigaretti elettroniċi jistgħu jkunu jin
 
 "togħma karatterizzanti" tfisser riħa jew togħma oħra għajr ta’ tabakk li tista’ tiġi nnotata b’mod ċar, li tirriżulta minn addittiv jew taħlita ta’ addittivi, li tinkludi iżda mhijiex limitata għal frott, ħwawar, ħxejjex aromatiċi, alkoħol, ħelu, mentol jew vanilla, li tista’ tiġi osservata qabel jew matul il-konsum tal-prodott tat-tabakk;
 
-"tossiċità" tfisser il-grad li fih sustanza tista’ tikkawża effetti ta’ ħsara fl-organiżmu uman, inklużi l-effetti li jseħħu matul iż-żmien, TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
-normalment permezz tal-konsum jew l-espożizzjoni ripetuta jew kontinwa;
-
-*5*
+"tossiċità" tfisser il-grad li fih sustanza tista’ tikkawża effetti ta’ ħsara fl-organiżmu uman, inklużi l-effetti li jseħħu matul iż-żmien, normalment permezz tal-konsum jew l-espożizzjoni ripetuta jew kontinwa;
 
 "tqegħid fis-suq" tfisser li l-prodotti, irrispettivament mill-post tal-manifattura tagħhom, isiru disponibbli għall-konsumaturi li jinsabu fl-Unjoni, bi ħlas jew mingħajr ħlas, inkluż permezz ta’ bejgħ mill-bogħod; fil-każ ta’ bejgħ transkonfinali mill-bogħod, il-prodott jitqies li tqiegħed fis-suq fl-Istat Membru fejn jinsab il-konsumatur;
 
@@ -196,10 +170,6 @@ Dawn il-laboratorji m’għandhomx ikunu proprjetà ta’ jew ikkontrollati dire
 
 (5) Is-Suprintendent jista’ jimponi tariffi proporzjonati skont ma l-Ministru jista’ jistabbilixxi permezz ta’ regolamenti, lill-manifatturi u importaturi ta’ prodotti tat-tabakk għall-verifika ta’ kejl imsemmi fis-subartikolu (1).
 
-*6*
-
-[L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
 ## 5. Rappurtar tal-ingredjenti u l-emissjonijiet.
 
 (1) Il-manifatturi u impurtaturi ta’ prodotti tat-tabakk għandhom jibagħtu lis-Suprintendent l-informazzjoni li ġejja skont l-isem tad-ditta u t-tip:
@@ -224,11 +194,7 @@ Barra minn hekk, għal sigaretti u tabakk tal-brim, dokument tekniku li jistabbi
 
 Minbarra għall-qatran, in-nikotina u l-monossidu tal-karbonju u għall-emissjonijiet imsemmija fir-regolament 4(4), il-manifatturi u l-importaturi għandhom jindikaw il-metodi tal-kejl tal-emissjonijiet użati. L-Istati Membri jistgħu jirrikjedu wkoll li l-manifatturi jew l-importaturi jwettqu studji kif jistgħu jkunu stabbiliti mill-awtoritajiet kompetenti sabiex jivvalutaw l-effetti ta’ ingredjent fuq is-saħħa, billi jitqiesu, fost oħrajn, l-effett ta’ dipendenza u t-tossiċità tagħhom.
 
-(4) Is-Suprintendent għandu jiżgura li l-informazzjoni ppreżentata skont is-subregolament (1) u r-regolament 6 tkun disponibbli għall-pubbliku ġenerali fuq websajt. Is-Suprintendent għandu iqis il-ħtieġa li jipproteġi s-sigrieti kummerċjali meta TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
-jagħmel dik l-informazzjoni disponibbli għall-pubbliku u għandu jirrikjedi li l-manifatturi u l-importaturi jispeċifikaw, meta jippreżentaw l-informazzjoni skont is-subregolament (1) u r-regolament 6, l-informazzjoni li huma jqisu li tikkostitwixxi sigriet kummerċjali.
-
-*7*
+(4) Is-Suprintendent għandu jiżgura li l-informazzjoni ppreżentata skont is-subregolament (1) u r-regolament 6 tkun disponibbli għall-pubbliku ġenerali fuq websajt. Is-Suprintendent għandu iqis il-ħtieġa li jipproteġi s-sigrieti kummerċjali meta jagħmel dik l-informazzjoni disponibbli għall-pubbliku u għandu jirrikjedi li l-manifatturi u l-importaturi jispeċifikaw, meta jippreżentaw l-informazzjoni skont is-subregolament (1) u r-regolament 6, l-informazzjoni li huma jqisu li tikkostitwixxi sigriet kummerċjali.
 
 (5) Il-format għall-preżentazzjoni u d-disponibbiltà tal-informazzjoni msemmija fis-subregolament (1) u fir-regolament 6 għandha tkun f’konformità mad-deċiżjoni ta’ implimentazzjoni tal- Kummissjoni (UE) 2186/2015 tal-25 ta’ Novembru 2015 li tistabbilixxi l-format għall-preżentazzjoni tal-informazzjoni dwar il-prodotti tat-tabakk u biex din issir disponibbli.
 
@@ -245,10 +211,6 @@ jagħmel dik l-informazzjoni disponibbli għall-pubbliku u għandu jirrikjedi li
 (a) li għalihom jeżistu indikazzjonijiet inizjali, riċerka, jew regolamentazzjoni f’ġurisdizzjonijiet oħra li tissuġġerixxi li huma għandhom waħda mill-proprjetajiet stabbiliti fis-subregolament (2)(a) sa (d); u
 
 (b) li huma fost l-addittivi l-aktar użati skont il-piż jew l-għadd skont ir-rappurtar ta’ ingredjenti skont ir-regolament 5(1) u (3).
-
-*8*
-
-[L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
 
 (2) Manifatturi u importaturi tas-sigaretti u tat-tabakk tal-brim li fihom addittiv li huwa inkluż fil-lista ta’ prijorità prevista fis-subregolament (1) għandhom iwettqu studji komprensivi, li għandhom jeżaminaw għal kull addittiv jekk huwa:
 
@@ -268,11 +230,7 @@ Il-manifatturi u l-importaturi għandhom jippreżentaw dawn ir-rapporti lill-Kum
 
 Il-Kummissjoni u s-Suprintendent jistgħu jirrikjedu li dawn ir-rapporti ssirilhom reviżjoni bejn il-pari minn korp xjentifiku indipendenti, b’mod partikolari fir-rigward tal-komprensività, il-metodoloġija u l-konklużjonijiet tagħhom. L-informazzjoni li tasal għandha tgħin lill-Kummissjoni u lis-Suprintendent fit-teħid tad-deċiżjonijiet skont ir-regolament 7.
 
-Is-Suprintendent jista’ jimponi tariffi proporzjonati skont ma l-Ministru jista’ jistabbilixxi permezz ta’ regolamenti, lill- TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
-manifatturi u importaturi tal-prodotti tat-tabakk għal dawk ir-reviżjonjiet bejn il-pari.
-
-*9*
+Is-Suprintendent jista’ jimponi tariffi proporzjonati skont ma l-Ministru jista’ jistabbilixxi permezz ta’ regolamenti, lill-manifatturi u importaturi tal-prodotti tat-tabakk għal dawk ir-reviżjonjiet bejn il-pari.
 
 (5) L-intrapriżi żgħar u ta’ daqs medju kif definiti fir- Rakkomandazzjoni tal-Kummissjoni 2003/361/KE għandhom jiġu eżentati mill-obbligi taħt dan ir-regolament, jekk jitħejja rapport dwar dak l-addittiv minn manifattur jew importatur ieħor.
 
@@ -300,11 +258,9 @@ L-użu ta’ addittivi li huma essenzjali għall-manifattura tal-prodotti tat-ta
 
 (5) Is-Suprintendent għandu jiżgura li d-dispożizzjonijiet u l-kondizzjonijiet stipulati fir-Regolament (KE) Nru1907/2006 jiġu applikati fuq il-prodotti tat-tabakk kif adatt.
 
-(6) Abbażi ta’ evidenza xjentifika, is-Suprintendent jista’ jipprojbixxi t-tqegħid fis-suq ta’ prodotti tat-tabakk li fihom addittivi fi kwantitajiet li jżidu l-effett tossiku jew ta’ dipendenza, jew il-proprjetajiet CMR ta’ prodott tat-tabakk fl-istadju tal-konsum b’mod sinifikanti jew li jista’ jitkejjel. Is-Suprintendent għandu jinnotifika lill-Kummissjoni bil-miżuri li jkunu ntħadu. [L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
+(6) Abbażi ta’ evidenza xjentifika, is-Suprintendent jista’ jipprojbixxi t-tqegħid fis-suq ta’ prodotti tat-tabakk li fihom addittivi fi kwantitajiet li jżidu l-effett tossiku jew ta’ dipendenza, jew il-proprjetajiet CMR ta’ prodott tat-tabakk fl-istadju tal-konsum b’mod sinifikanti jew li jista’ jitkejjel. Is-Suprintendent għandu jinnotifika lill-Kummissjoni bil-miżuri li jkunu ntħadu.
 
 (7) Il-prodotti tat-tabakk għajr is-sigaretti, it-tabakk tal-brim u prodotti tat-tabakk imsaħħna għandhom ikunu eżentati mill-projbizzjonijiet stabbiliti fis-subregolamenti (1) u (4):
-
-*10*
 
 (8) Is-Suprintendent jista’ jimponi tariffi proporzjonati skont ma l-Ministru jista’ jistabbilixxi permezz ta’ regolamenti, fuq il-manifatturi u l-importaturi tal-prodotti tat-tabakk għall-evalwazzjoni biex jiddetermina jekk prodott tat-tabakk għandux togħma karatterizzanti, jekk jintużawx addittivi jew aromi pprojbiti u jekk prodott tat-tabakk fihx addittivi fi kwantitajiet li jżidu b’mod sinifikanti u li jitkejjel l-effett tossiku u ta’ dipendenza jew il-proprjetajiet CMR tal-prodott tat-tabakk ikkonċernat.
 
@@ -324,11 +280,7 @@ L-użu ta’ addittivi li huma essenzjali għall-manifattura tal-prodotti tat-ta
 
 (6) It-twissijiet tas-saħħa għandhom ikunu mdawra minn bordura sewda b’wisa’ ta’ 1 mm ġewwa l-wiċċ li huwa riżervat għal dawn it-twissijiet, ħlief għal twissijiet tas-saħħa skont ir-regolament 11.
 
-(7) Stampi ta’ pakketti individwali u xi ppakkjar estern li TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
-għandhom fil-mira tagħhom il-konsumaturi fl-Unjoni għandhom ikunu konformi mad-dispożizzjonijiet ta’ dawn il-regolamenti.
-
-*11*
+(7) Stampi ta’ pakketti individwali u xi ppakkjar estern li għandhom fil-mira tagħhom il-konsumaturi fl-Unjoni għandhom ikunu konformi mad-dispożizzjonijiet ta’ dawn il-regolamenti.
 
 ## 9. Ittikkettar u ippakkjar: twissijiet ġenerali u messaġġi ta’ informazzjoni fuq il-prodotti tat-tabakk għat-tipjip.
 
@@ -356,10 +308,6 @@ Kemm it-twissija ġenerali u kif ukoll il-messaġġ tal-informazzjoni għandhom 
 
 (5) Il-pożizzjoni preċiża tat-twissija ġenerali u tal-messaġġ ta’ informazzjoni fuq it-tabakk tal-brim ikkummerċjalizzat fil-boroż għandha tkun f’konformità mad-Deċiżjoni ta’ Implimentazzjoni tal-Kummissjoni (UE) 1735/2015 dwar il-pożizzjoni preċiża tat-twissija ġenerali u tal-messaġġ ta’ informazzjoni fuq it-tabakk tal-brim ikkummerċjalizzat fil-boroż.
 
-*12*
-
-[L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
 ## 10. Ittikkettar u ippakkjar: twissijiet tas-saħħa kkombinati flimkien għal prodotti tat-tabakk għat-tipjip.
 
 (1) Kull pakkett individwali u kull ippakkjar estern tal-prodotti tat-tabakk għat-tipjip għandu juri twissijiet tas-saħħa kkombinati flimkien. It-twissijiet tas-saħħa kkombinati għandhom:
@@ -386,11 +334,7 @@ Website: health.gov.mt";
 
 (i) f’dawk il-każijiet fejn il-bolla tat-taxxa jew il-marka ta’ identifikazzjoni nazzjonali użata għal finijiet fiskali hija mwaħħla fuq ix-xifer ta’ fuq ta’ pakkett individwali magħmul minn materjal tal-kartun, it-twissija tas-saħħa li għandha tidher fuq il-wiċċ ta’ wara tkun tista’ tiġi pożizzjonata direttament taħt il-bolla tat-taxxa jew il-marka ta’ identifikazzjoni nazzjonali;
 
-(ii) fejn il-pakkett individwali huwa magħmul minn materjal artab, erja rettangolari hi riżervata għall-bolla tat-taxxa b’għoli mhux aktar minn 13-il mm bejn ix-xifer ta’ fuq tal-pakkett u l-wiċċ u n-naħa ta’ fuq tat-twissijiet tas-saħħa TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
-kkombinati.
-
-*13*
+(ii) fejn il-pakkett individwali huwa magħmul minn materjal artab, erja rettangolari hi riżervata għall-bolla tat-taxxa b’għoli mhux aktar minn 13-il mm bejn ix-xifer ta’ fuq tal-pakkett u l-wiċċ u n-naħa ta’ fuq tat-twissijiet tas-saħħa kkombinati.
 
 L-eżenzjonijiet imsemmijin fis-subparagrafi (i) u (ii) għandhom japplikaw għal perijodu ta’ tliet snin mill- 20 ta’ Mejju 2016. Ismijiet tad-ditta u logos ma għandhomx jiġu pożizzjonati ’l fuq mit-twissijiet tas-saħħa;
 
@@ -420,10 +364,6 @@ L-eżenzjonijiet imsemmijin fis-subparagrafi (i) u (ii) għandhom japplikaw għa
 
 (e) Imħassar bl-Avviż Legali 178 tal-2025.
 
-*14*
-
-[L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
 Iżda l-prodotti tat-tabakk imsaħħna li skont il-karatteristiċi tagħhom huma prodotti tat-tabakk li ma jdaħħnux għandhom jiġu regolati skont l-Artikolu 12 tad-Direttiva 2014/40/UE.
 
 (2) It-twissija ġenerali msemmija fis-subregolament (1) għandha tkopri 32% tal-wiċċ rilevanti tal-pakkett individwali jew kull ippakkjar estern.
@@ -450,11 +390,7 @@ It-twissijiet tas-saħħa għandhom ikunu mdawra minn bordura sewda b’wisa’ 
 
 (e) tissuġġerixxi li ċertu prodott tat-tabakk għandu bijodegradabbiltà aħjar jew vantaġġi ambjentali oħra. (2) Il-pakketti individwali u kwalunkwe ippakkjar estern m’għandhomx jissuġġerixxu vantaġġi ekonomiċi billi jinkludu kupuni stampati, joffru skontijiet, distribuzzjoni b’xejn, żewġ prodotti għall-prezz ta’ wieħed jew offerti simili.
 
-(3) L-elementi u l-karatteristiċi li huma pprojbiti skont is-subregolamenti (1) u (2) jistgħu jinkludu, iżda mhumiex limitati għal, kliem, simboli, ismijiet, marki kummerċjali, sinjali figurattivi TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
-jew sinjali oħrajn.
-
-*15*
+(3) L-elementi u l-karatteristiċi li huma pprojbiti skont is-subregolamenti (1) u (2) jistgħu jinkludu, iżda mhumiex limitati għal, kliem, simboli, ismijiet, marki kummerċjali, sinjali figurattivi jew sinjali oħrajn.
 
 ## 13. Ittikkettar u ippakkjar: id-dehra u l-kontenut tal-pakketti individwali.
 
@@ -490,11 +426,7 @@ jew sinjali oħrajn.
 
 (k) il-fattura, in-numru tal-ordni u r-rekords tal-ħlas tax-xerrejja kollha mill-manifattura għall-ewwel stabbiliment tal-bejgħ bl-imnut.
 
-(3) L-informazzjoni msemmija fis-subregolament (2)(a), (b), (ċ), (d), (e), (f), (g) u, fejn applikabbli, (h) għandha tifforma parti [L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
-mill-identifikatur uniku.
-
-*16*
+(3) L-informazzjoni msemmija fis-subregolament (2)(a), (b), (ċ), (d), (e), (f), (g) u, fejn applikabbli, (h) għandha tifforma parti mill-identifikatur uniku.
 
 (4) L-informazzjoni msemmija fis-subregolament (2)(i), (j) u (k) għandha tkun aċċessibbli b’mod elettroniku permezz ta’ konnessjoni mal-identifikatur uniku.
 
@@ -510,11 +442,9 @@ L-attivitajiet tal-parti terza għandhom ikunu sorveljati minn awditur estern, p
 
 (9) Data reġistrata ma għandhiex tiġi modifikata jew imħassra minn kwalunkwe operatur ekonomiku involut fil-kummerċ tal-prodotti tat-tabakk.
 
-*17*
-
-TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10 (10) Id-data personali għandha tiġi pproċessata skont ir-regoli u s-salvagwardji stabbiliti fl-Att dwar il-Protezzjoni u l-Privatezza tad-Data.
-
 *Kap. 586.*
+
+(10) Id-data personali għandha tiġi pproċessata skont ir-regoli u s-salvagwardji stabbiliti fl-Att dwar il-Protezzjoni u l-Privatezza tad-Data.
 
 (11) L-istandards tekniċi għall-istabbiliment u l-operazzjoni tas-sistema tal-provenjenza u t-traċċar kif previst f’dan ir-regolament, inkluż l-immarkar b’identifikatur uniku, ir-reġistrazzjoni, trasmissjoni, proċessar u ħażna ta’ data u aċċess għal data maħżuna għandhom jiġu determinati permezz ta’ Atti ta’ Implimentazzjoni tal-Kummissjoni.
 
@@ -540,10 +470,6 @@ Timbri tat-taxxa jistgħu jintużaw bħala fattur ta’ sigurtà sakemm it-timbr
 
 (2) L-istabbilimenti tal-bejgħ bl-imnut li jinsabu f’Malta involuti fil-bejgħ transkonfinali mill-bogħod ta’ prodotti tat-tabakk ma għandhomx ifornu tali prodotti lill-konsumaturi fl-Istati Membri fejn tali bejgħ ġie pprojbit. L-istabbilimenti tal-bejgħ bl-imnut li jinsabu f’Malta li biħsiebhom jinvolvu ruħhom f’bejgħ transkonfinali mill-bogħod lill-konsumaturi li jinsabu fl-Unjoni għandhom jirreġistraw mas-Suprintendent u mal-awtoritajiet kompetenti fl-Istat Membru fejn jinsabu l-konsumaturi attwali jew potenzjali. L-istabbilimenti kollha tal-bejgħ bl-imnut li jinsabu f’Malta li biħsiebhom jinvolvu ruħhom fil-bejgħ transkonfinali mill-bogħod għandhom jippreżentaw din l-informazzjoni li ġejja lis-Suprintendent meta jirreġistraw:
 
-*18*
-
-[L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
 (a) l-isem jew l-isem korporattiv u l-indirizz permanenti tal-post tal-attività minn fejn il-prodotti tat-tabakk għandhom jiġu fornuti;
 
 (b) id-data ta’ meta bdiet l-attività li qed toffri l-prodotti tat-tabakk għall-bejgħ transkonfinali mill-bogħod lill-konsumaturi permezz tas-servizzi tas-soċjetà tal-informazzjoni;
@@ -560,11 +486,7 @@ Timbri tat-taxxa jistgħu jintużaw bħala fattur ta’ sigurtà sakemm it-timbr
 
 ## 17. Prodotti tat-tabakk ġodda.
 
-(1) Il-manifatturi u l-importaturi tal-prodotti tat-tabakk ġodda għandhom jippreżentaw notifika lis-Suprintendent bi kwalunkwe tali prodott li beħsiebhom iqiegħdu fis-swieq nazzjonali kkonċernati. In-notifika għandha tkun sottomessa f’forma elettronika sitt xhur qabel it-tqegħid maħsub fis-suq. Hija għandha tkun akkumpanjata minn deskrizzjoni dettaljata tal-prodott tat-tabakk ġdid ikkonċernat kif ukoll istruzzjonijiet dwar l-użu TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
-tiegħu u informazzjoni dwar l-ingredjenti u l-emissjonijiet skont ir-regolament 5. Il-manifatturi u l-importaturi li jippreżentaw notifika ta’ prodott tat-tabakk ġdid għandhom ukoll jipprovdu lill-awtoritajiet kompetenti bi:
-
-*19*
+(1) Il-manifatturi u l-importaturi tal-prodotti tat-tabakk ġodda għandhom jippreżentaw notifika lis-Suprintendent bi kwalunkwe tali prodott li beħsiebhom iqiegħdu fis-swieq nazzjonali kkonċernati. In-notifika għandha tkun sottomessa f’forma elettronika sitt xhur qabel it-tqegħid maħsub fis-suq. Hija għandha tkun akkumpanjata minn deskrizzjoni dettaljata tal-prodott tat-tabakk ġdid ikkonċernat kif ukoll istruzzjonijiet dwar l-użu tiegħu u informazzjoni dwar l-ingredjenti u l-emissjonijiet skont ir-regolament 5. Il-manifatturi u l-importaturi li jippreżentaw notifika ta’ prodott tat-tabakk ġdid għandhom ukoll jipprovdu lill-awtoritajiet kompetenti bi:
 
 (a) l-istudji xjentifiċi disponibbli dwar it-tossiċità, l-effett tad-dipendenza u l-attrazzjoni tal-prodott tat-tabakk ġdid, b’mod partikolari fir-rigward tal-ingredjenti u l-emissjonijiet tiegħu;
 
@@ -586,11 +508,7 @@ tiegħu u informazzjoni dwar l-ingredjenti u l-emissjonijiet skont ir-regolament
 
 (b) In-notifika għandha, skont jekk il-prodott ikunx sigarett elettroniku jew kontenitur ta’ rikarika, tinkludi t-tagħrif li ġej:
 
-(i) l-isem u d-dettalji ta’ kuntatt tal-manifattur, persuna ġuridika jew fiżika responsabbli fl- [L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
-Unjoni, u, jekk applikabbli, l-importatur fl- Unjoni;
-
-*20*
+(i) l-isem u d-dettalji ta’ kuntatt tal-manifattur, persuna ġuridika jew fiżika responsabbli fl- Unjoni, u, jekk applikabbli, l-importatur fl- Unjoni;
 
 (ii) lista tal-ingredjenti kollha li fih il-prodott u l-emissjonijiet li jirriżultaw mill-użu tiegħu, skont l-isem tad-ditta u t-tip, inklużi l-kwantitajiet tagħhom;
 
@@ -614,11 +532,7 @@ Unjoni, u, jekk applikabbli, l-importatur fl- Unjoni;
 
 (ċ) il-likwidu li fih in-nikotina ma jkunx fih addittivi elenkati fir-regolament 7(3);
 
-(d) ingredjenti ta’ purità għolja biss jintużaw fil- TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
-manifattura tal-likwidu li fih in-nikotina. Sustanzi għajr l-ingredjenti msemmijin fis-subregolament (2)(b)(ii) ikunu preżenti biss fil-likwidu li fih in-nikotina f’livelli ta’ traċċi, jekk tali traċċi teknikament ma jkunux jistgħu jiġu evitati waqt il-manifattura;
-
-*21*
+(d) ingredjenti ta’ purità għolja biss jintużaw fil-manifattura tal-likwidu li fih in-nikotina. Sustanzi għajr l-ingredjenti msemmijin fis-subregolament (2)(b)(ii) ikunu preżenti biss fil-likwidu li fih in-nikotina f’livelli ta’ traċċi, jekk tali traċċi teknikament ma jkunux jistgħu jiġu evitati waqt il-manifattura;
 
 (e) ħlief għan-nikotina, fil-likwidu li fih in-nikotina jintużaw biss ingredjenti li mhumiex ta’ periklu għas-saħħa tal-bniedem f’forma msaħħna jew mhux imsaħħna;
 
@@ -648,11 +562,7 @@ Iżda l-fuljett bl-informazzjoni stabbilita f’dan il-paragrafu jista’ jiġi 
 
 (i) jinkludu lista tal-ingredjenti kollha li fih il-prodott f’ordni mill-aktar li għandu piż għall-anqas wieħed, u indikazzjoni tal-kontenut tan-nikotina tal-prodott u l-ammont f’kull doża, in-numru tal-lott u rakkomandazzjoni biex il-prodott jinżamm ’il bogħod mit-tfal;
 
-(ii) mingħajr preġudizzju għas-subparagrafu (i), ma jinkludux elementi jew karatteristiċi msemmijin TAT-TABAKK U PRODOTTI RELATATI
-
-fir-regolament 12, bl-eċċezzjoni tar-regolament 12(1)(a) u (ċ) li jirrigwarda l-informazzjoni dwar il-kontenut tan-nikotina u dwar aromi; u (iii) iġorr it-twissijiet ta’ saħħa li ġejjin:
-
-*[L.S.315.10 22*
+(ii) mingħajr preġudizzju għas-subparagrafu (i), ma jinkludux elementi jew karatteristiċi msemmijin fir-regolament 12, bl-eċċezzjoni tar-regolament 12(1)(a) u (ċ) li jirrigwarda l-informazzjoni dwar il-kontenut tan-nikotina u dwar aromi; u (iii) iġorr it-twissijiet ta’ saħħa li ġejjin:
 
 ‘This product contains nicotine which is a highly addictive substance’ u ‘Dan il-prodott fih in-nikotina li hija sustanza li tista’ faċilment twassal għad-dipendenza’;
 
@@ -678,11 +588,7 @@ Dan li ġej għandu japplika wkoll għas-sigaretti elettroniċi:
 
 *(6)*
 
-Ir-regolament 16 għandu japplika għall-bejgħ TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
-transkonfinali mill-bogħod ta’ sigaretti elettroniċi u kontenituri ta’ rikarika. Għall-fini ta’ dan is-subregolament, it-termini "sigaretti elettroniċi" u "kontenituri ta’ rikarika" għandhom jirreferu kemm għal sigaretti elettroniċi u kontenituri ta’ rikarika li fihom in-nikotina u anke dawk li ma fihomx in-nikotina.
-
-*23*
+Ir-regolament 16 għandu japplika għall-bejgħ transkonfinali mill-bogħod ta’ sigaretti elettroniċi u kontenituri ta’ rikarika. Għall-fini ta’ dan is-subregolament, it-termini "sigaretti elettroniċi" u "kontenituri ta’ rikarika" għandhom jirreferu kemm għal sigaretti elettroniċi u kontenituri ta’ rikarika li fihom in-nikotina u anke dawk li ma fihomx in-nikotina.
 
 (7) Il-manifatturi u l-importaturi ta’ sigaretti elettroniċi u kontenituri ta’ rikarika kull sena għandhom jippreżentaw lis- Suprintendent:
 
@@ -703,10 +609,6 @@ L-informazzjoni kollha riċevuta skont dan ir-regolament għandha, fuq talba, tk
 (9) Il-manifatturi, l-importaturi u d-distributuri ta’ sigaretti elettroniċi u kontenituri ta’ rikarika għandhom jistabbilixxu u jżommu sistema biex tinġabar informazzjoni dwar l-effetti negattivi suspettati kollha fuq is-saħħa tal-bniedem ta’ dawn il-prodotti.
 
 Jekk wieħed minn dawn l-operaturi ekonomiċi jqis jew għandu raġuni għaliex jemmen li s-sigaretti elettroniċi jew il-kontenituri ta’ rikarika, li jkunu fil-pussess tagħhom u li jkunu maħsuba biex jitqiegħdu fis-suq jew jitqiegħdu fis-suq, ma jkunux sikuri jew ta’ kwalità għolja jew, b’mod ieħor, ma jkunux f’konformità ma’ dawn ir-regolamenti, dak l-operatur ekonomiku għandu minnufih jieħu l-azzjoni korrettiva meħtieġa biex dak il-prodott ikkonċernat isir konformi ma’ dawn ir-regolamenti, biex jirtirah jew jerġa’ jiġbru, kif xieraq. F’każijiet bħal dawn l-operatur ekonomiku għandu wkoll jintalab jgħarraf minnufih lis- Suprintendent, filwaqt li jagħti dettalji, partikolarment, tar-riskju għas-saħħa tal-bniedem u s-sikurezza u ta’ kwalunkwe azzjoni korrettiva li tkun ittieħdet, u tar-riżultati ta’ din l-azzjoni korrettiva.
-
-*24*
-
-[L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
 
 Is-Suprintendent jista’ jitlob ukoll aktar informazzjoni mill-operaturi ekonomiċi, pereżempju dwar l-aspetti ta’ sikurezza u kwalità jew kwalunkwe effett negattiv tas-sigaretti elettroniċi jew tal-kontenituri ta’ rikarika.
 
@@ -734,10 +636,6 @@ L-istandards tekniċi għall-mekkaniżmu ta’ rikarika għandhom jiġu adottati
 
 (1) Il-manifatturi u l-importaturi tal-prodotti erbali għat-tipjip għandhom jibagħtu lis-Suprintendent lista tal-ingredjenti kollha, u l-kwantitajiet tagħhom, li huma użati fil-manifattura ta’ tali prodotti skont l-isem tad-ditta u t-tip. Il-manifatturi jew l-importaturi għandhom jinfurmaw ukoll lis-Suprintendent meta l-kompożizzjoni ta’ prodott tiġi modifikata b’mod li taffettwa l-informazzjoni ppreżentata skont dan ir-regolament. L-informazzjoni meħtieġa skont dan ir-regolament għandha tiġi ppreżentata qabel it-tqegħid fis-suq ta’ prodott erbali ġdid jew modifikat għat-tipjip.
 
-*25*
-
-TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
 (2) Is-Suprintendent għandu jiżgura li l-informazzjoni ppreżentata skont is-subregolament (1) tkun disponibbli għall-pubbliku ġenerali fuq websajt waqt li titqies kif xieraq il-ħtieġa li jiġu protetti s-sigrieti kummerċjali. L-operaturi ekonomiċi għandhom jispeċifikaw eżatt liema informazzjoni huma jqisu li tikkostitwixxi sigriet kummerċjali.
 
 ## 21. Projbizzjoni tal-importazzjoni, eċċ., ta’ tabakk li ma jitpejjipx.
@@ -762,15 +660,7 @@ Il-prodotti li ġejjin, li mhumiex konformi ma’ dawn ir-regolamenti, jistgħu 
 
 ## 24. Reati u pieni.
 
-Kull min jikser jew jonqos milli jwettaq xi waħda mid-dispożizzjonijiet ta’ dawn ir-regolamenti jkun ħati ta’ reat u jeħel, mingħajr preġudizzju għal kull responsabbiltà li jkollu taħt kull liġi oħra, meta jinsab ħati għall-ewwel darba, multa ta’ mhux inqas minn mitejn euro (€200) u mhux iżjed minn elf euro (€1,000), u meta l-att jew l-ommissjoni li jkunu jagħmlu r-reat jibqgħu għaddejin għal iktar minn ġurnata, il-Qorti għandha iktar minn hekk timponi multa ta’ mhux inqas minn għoxrin euro (€20) u mhux iżjed minn mitt euro (€100) għal kull ġurnata li matulha dak l-att jew ommissjoni jibqa’ għaddej, u meta jkun hemm sejbien ta’ ħtija għat-tieni jew aktar drabi, b’żieda ma’ dawk il-pieni, u, fuq talba tal-prosekuzzjoni, għal priġunerija għal żmien mhux iżjed [L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
-minn tliet xhur.
-
-*26*
-
-*27*
-
-TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
+Kull min jikser jew jonqos milli jwettaq xi waħda mid-dispożizzjonijiet ta’ dawn ir-regolamenti jkun ħati ta’ reat u jeħel, mingħajr preġudizzju għal kull responsabbiltà li jkollu taħt kull liġi oħra, meta jinsab ħati għall-ewwel darba, multa ta’ mhux inqas minn mitejn euro (€200) u mhux iżjed minn elf euro (€1,000), u meta l-att jew l-ommissjoni li jkunu jagħmlu r-reat jibqgħu għaddejin għal iktar minn ġurnata, il-Qorti għandha iktar minn hekk timponi multa ta’ mhux inqas minn għoxrin euro (€20) u mhux iżjed minn mitt euro (€100) għal kull ġurnata li matulha dak l-att jew ommissjoni jibqa’ għaddej, u meta jkun hemm sejbien ta’ ħtija għat-tieni jew aktar drabi, b’żieda ma’ dawk il-pieni, u, fuq talba tal-prosekuzzjoni, għal priġunerija għal żmien mhux iżjed minn tliet xhur.
 
 SKEDA 1
 
@@ -780,23 +670,9 @@ Librerija ta’ twissija tas-saħħa grafika
 
 TAQSIMA 1
 
-*28*
-
-[L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
-*29*
-
-TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10
-
 TAQSIMA 2
 
-*30*
-
-[L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
-
 TAQSIMA 3
-
-TAT-TABAKK U PRODOTTI RELATATI [L.S.315.10 31
 
 Ir-ritratti, ix-xbihat u l-illustrazzjonijiet testwali li jinsabu f’din l-Iskeda ġew żviluppati għall-użu fuq pakketti tat-tabakk skont id-Direttiva ta’ Delega tal- Kummissjoni 2014/109/UE tal-10 ta’ Ottubru 2014 li temenda l-Anness II tad-Direttiva 2014/40/UE tal-Parlament Ewropew u tal-Kunsill billi tistabbilixxi librerija ta’ twissijiet bl-istampi li għandhom jintużaw fuq prodotti tat-tabakk.
 
@@ -837,8 +713,6 @@ It-tipjip iżidlek ir-riskju li tgħama
 (8) Smoking damages your teeth and gums
 
 It-tipjip iħassarlek snienek u l-ħanek
-
-32 [L.S.315.10 TAT-TABAKK U PRODOTTI RELATATI
 
 (9) Smoking can kill your unborn child
 

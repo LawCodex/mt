@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar is-Simplifikazzjoni ta’ Pattijiet u Kundizzjonijiet dwar Prodotti tad-Difiża (S.L. 117.32)
 
-*1*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 LEĠISLAZZJONI SUSSIDJARJA 117.32
+**LEĠISLAZZJONI SUSSIDJARJA 117.32**
 
 **REGOLAMENTI DWAR IS-SIMPLIFIKAZZJONI**
 
@@ -50,13 +48,9 @@ L-għan ta’ dawn ir-regolamenti hu biex jimplimenta l-ħtiġiet:
 
 (f) tad-Direttiva tal-Kummissjoni 2017/433/UE tas-7 ta’ Marzu 2017 li temenda d-Direttiva 2009/43/KE tal- Parlament Ewropew u tal-Kunsill fir-rigward tal-lista ta’ prodotti relatati mad-difiża;
 
-(g) tad-Direttiva tal-Kummissjoni 2017/2054 tas-7 ta’ Novembru 2017 li temenda d-Direttiva 2009/43/KE tal- [L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
+(g) tad-Direttiva tal-Kummissjoni 2017/2054 tas-7 ta’ Novembru 2017 li temenda d-Direttiva 2009/43/KE tal- Parlament Ewropew u tal-Kunsill fir-rigward tal-lista ta’ prodotti relatati mad-difiża;
 
 \*ara r-regolament1(2) ta’ dawn ir-Regolament kif promulgati oriġinarjament, u l- Avviż Legali 241 tal-2012.
-
-Parlament Ewropew u tal-Kunsill fir-rigward tal-lista ta’ prodotti relatati mad-difiża;
-
-*2*
 
 (h) tad-Direttiva tal-Kummissjoni 2019/514 tal-14 ta’ Marzu 2019 li temenda d-Direttiva 2009/43/KE tal-Parlament Ewropew u tal-Kunsill fir-rigward tal-lista ta’ prodotti relatati mad-difiża;
 
@@ -86,11 +80,9 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort
 
 (b) "liċenza ta’ trasferiment globali", li hi awtorizzazzjoni mogħtija minn awtorità nazzjonali lil fornitur individwali, fuq talba tiegħu, li tkun tawtorizza t-trasferimenti ta’ prodotti tad-difiża lil kull riċevitur f’xi stat wieħed jew aktar stati;
 
-(ċ) "liċenza ta’ trasferiment individwali", li hi awtorizzazzjoni mogħtija lil fornitur individwali fuq talba tiegħu li tkun tawtorizza trasferiment wieħed ta’ kwantità speċifikata ta’ prodotti tad-difiża speċifikati li KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 jkunu ser jiġu trasmessi f’tagħbija waħda jew f’diversi tagħbijiet lil persuna waħda li tirċievi fi Stati Membri oħra;
+(ċ) "liċenza ta’ trasferiment individwali", li hi awtorizzazzjoni mogħtija lil fornitur individwali fuq talba tiegħu li tkun tawtorizza trasferiment wieħed ta’ kwantità speċifikata ta’ prodotti tad-difiża speċifikati li jkunu ser jiġu trasmessi f’tagħbija waħda jew f’diversi tagħbijiet lil persuna waħda li tirċievi fi Stati Membri oħra;
 
 "il-Ministru" tfisser il-Ministru responsabbli għall-kummerċ;
-
-*3*
 
 "passaġġ minn" tfisser it-trasport ta’ prodotti tad-difiża minn ġo xi Stat Membru wieħed jew aktar Stati Membri li ma jkunux l-Istati Membri li joriġinaw u li jirċievu;
 
@@ -128,11 +120,7 @@ Il-Kumitat għandu jiddeċiedi dwar il-pattijiet u l-kundizzjonijiet kollha tal-
 
 (b) meta għandhom jintalbu assikurazzjonijiet dwar l-użu finali, inklużi ċertifikati ta’ utent finali:
 
-Iżda l-Kumitat għandu jitlob lill-fornituri ta’ prodotti tad-difiża jgħarrfu lil kull riċevitur bil-pattijiet u l-kundizzjonijiet tal-liċenza ta’ trasferiment inklużi l- [L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
-limitazzjonijiet li għandhom x’jaqsmu mal-użu finali jew mal-esportazzjoni tal-prodott tad-difiża:
-
-*4*
+Iżda l-Kumitat għandu jitlob lill-fornituri ta’ prodotti tad-difiża jgħarrfu lil kull riċevitur bil-pattijiet u l-kundizzjonijiet tal-liċenza ta’ trasferiment inklużi l-limitazzjonijiet li għandhom x’jaqsmu mal-użu finali jew mal-esportazzjoni tal-prodott tad-difiża:
 
 Iżda wkoll fil-każ ta’ liċenzi ta’ trasferimenti għal komponenti, il-Kumitat għandu jiddeċiedi dwar il-pattijiet u l-kundizzjonijiet ta’ dik il-liċenza ta’ trasferiment abbażi ta’ valutazzjoni tas-sensitività tat-trasferiment hekk li tingħata konsiderazzjoni, fost l-oħrajn, lil dawn il-kriterji li ġejjin:
 
@@ -164,11 +152,9 @@ Iżda liċenza ta’ trasferiment ġenerali għandha tiġi pubblikata mill-Kumit
 
 (ii) ir-riċevitur ikun impriża ċertifikata mill-awtorità kompetenti fi Stat Membru ieħor kif hemm fl- Artikolu 9 tad-Direttiva;
 
-(iii) it-trasferiment isir għall-finijiet ta’ KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 dimostrazzjoni, valutazzjoni jew esibizzjoni;
+(iii) it-trasferiment isir għall-finijiet ta’ dimostrazzjoni, valutazzjoni jew esibizzjoni;
 
 (iv) it-trasferiment isir għall-finijiet ta’ manutenzjoni u tiswija, jekk ir-riċevitur ikun il-fornitur li joriġina l-prodotti tad-difiża.
-
-*5*
 
 (3) Il-Kumitat jista’ jippubblika liċenzi ta’ trasferiment ġenerali ta’ prodotti tad-difiża għal trasferimenti lejn Stati Membri oħra li jkunu meħtieġa għall-eżekuzzjoni ta’ programm ta’ kooperazzjoni bejn il-gvernijiet, fejn Malta tipparteċipa flimkien ma’ Stati Membri oħra, dwar l-iżvilupp, produzzjoni u użu ta’ xi wieħed jew aktar mill-prodotti tad-difiża.
 
@@ -196,11 +182,7 @@ Iżda liċenza ta’ trasferiment ġenerali għandha tiġi pubblikata mill-Kumit
 
 (ċ) il-Kumitat ikollu tassew għaliex jaħseb li l-fornitur mhux ser ikun kapaċi jikkonforma ruħu mal-pattijiet u l-kundizzjonijiet kollha meħtieġa biex jingħata liċenza ta’ trasferiment globali.
 
-*6 Trasferimenti ta’ prodotti tad-difiża minn Stati Membri oħra.*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
-## 13.
+## 13. Trasferimenti ta’ prodotti tad-difiża minn Stati Membri oħra.
 
 (1) It-trasferiment ta’ prodotti tad-difiża minn Stati Membri oħra għandu jkun soġġett għal awtorizzazzjoni li tingħata minn qabel ħierġa minn liċenza ta’ trasferiment ġenerali, liċenza ta’ trasferiment globali jew liċenza ta’ trasferiment individwali mill- Istat Membru li mit-territorju tiegħu l-fornitur ikun irid jittrasferixxi l-prodotti tad-difiża.
 
@@ -236,9 +218,7 @@ It-trasferimenti ta’ prodotti tad-difiża jistgħu jiġu eżentati mill-obblig
 
 (f) prova li l-informazzjoni fuq limitazzjoni ta’ esportazzjoni meħmuża ma’ liċenza ta’ trasferiment tkun ġiet trasmessa lir-riċevitur tal-prodotti tad-difiża. (2) Ikun il-Kumitat li jiddeċiedi dwar ħtiġiet ta’ rappurtaġġ li għandhom x’jaqsmu mal-użu ta’ liċenza ġenerali, globali jew ta’ trasferiment individwali u għandu jiżgura li l-fornituri jżommu r-records imsemmija fis-subregolament (1) għal perjodu ta’ mhux inqas minn tliet snin minn tmiem is-sena kalendarja li fiha jkun sar it-trasferiment.
 
-*7*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 (3) Dawk ir-records għandhom jingħataw lill-Kumitat meta dan jitlobhom.
+(3) Dawk ir-records għandhom jingħataw lill-Kumitat meta dan jitlobhom.
 
 ## 16. Ċertifikazzjoni ta’ riċevituri.
 
@@ -264,11 +244,7 @@ Iżda l-affidabilità għandha tiġi valutata kif jidher f’dawn il-kriterji li
 
 (ċ) in-nomina ta’ uffiċjal eżekuttiv anzjan bħala l-uffiċjal dedikat li jkun personalment responsabbli għat-trasferimenti u l-esportazzjonijiet;
 
-(d) impenn bil-miktub mill-impriża, iffirmat mill-uffiċjal eżekuttiv anzjan imsemmi fil-paragrafu (ċ), li l-impriża tkun ser tieħu l-passi kollha meħtieġa biex tosserva u tinforza kull kundizzjoni speċifika li jkollha x’taqsam mal-użu finali u mal-esportazzjoni ta’ xi [L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
-komponent speċifiku jew prodott riċevut;
-
-*8*
+(d) impenn bil-miktub mill-impriża, iffirmat mill-uffiċjal eżekuttiv anzjan imsemmi fil-paragrafu (ċ), li l-impriża tkun ser tieħu l-passi kollha meħtieġa biex tosserva u tinforza kull kundizzjoni speċifika li jkollha x’taqsam mal-użu finali u mal-esportazzjoni ta’ xi komponent speċifiku jew prodott riċevut;
 
 (e) impenn bil-miktub mill-impriża, iffirmat mill-uffiċjal eżekuttiv anzjan imsemmi fil-paragrafu (ċ), li jipprovdi lill-Kumitat b’dokumenti dwar id-diliġenza dovuta, informazzjoni dettaljata b’risposta għal talbiet u inkjesti li jirrigwardaw lill-utenti finali jew l-użu finali ta’ kull prodott esportat, trasferit jew riċevut taħt liċenza ta’ trasferiment minn xi Stat Membru ieħor; u (f) deskrizzjoni iffirmata mill-uffiċjal eżekuttiv anzjan imsemmi fil-paragrafu (ċ), dwar il-programm ta’ konformità interna jew is-sistema ta’ maniġġar ta’ trasferiment u esportazzjoni implimentati fl-impriża, u dik id-deskrizzjoni għandha tkun tipprovdi dettalji dwar ir-riżorsi organizzattivi, umani u tekniċi allokati għall-immaniġġar ta’ trasferimenti u esportazzjonijiet, il-katina ta’ responsabbiltà fi ħdan l-impriża, proċeduri ta’ awditjar intern, konsapevolezza u taħriġ tal-persunal, arranġamenti ta’ sigurezza fiżika u teknika, żamma ta’ records u traċċabilità ta’ trasferimenti u esportazzjonijiet.
 
@@ -300,13 +276,11 @@ komponent speċifiku jew prodott riċevut;
 
 ## 20. Revoka ta’ ċertifikati.
 
-Jekk lill-Kumitat jirriżultalu li d-detentur ta’ ċertifikat li jkun stabbilit f’Malta ma jkunx għadu aktar jissodisfa l-kriterji msemmija fir-regolament 17 jew xi kundizzjoni minn dawk KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 imsemmija fir-regolament 18(2), dan għandu jieħu miżuri adatti, li jistgħu jinkludu r-revoka taċ-ċertifikat u wara dan jgħarraf lill- Kummissjoni u lill-Istati Membri l-oħra kif ikun il-każ.
+Jekk lill-Kumitat jirriżultalu li d-detentur ta’ ċertifikat li jkun stabbilit f’Malta ma jkunx għadu aktar jissodisfa l-kriterji msemmija fir-regolament 17 jew xi kundizzjoni minn dawk imsemmija fir-regolament 18(2), dan għandu jieħu miżuri adatti, li jistgħu jinkludu r-revoka taċ-ċertifikat u wara dan jgħarraf lill- Kummissjoni u lill-Istati Membri l-oħra kif ikun il-każ.
 
 ## 21. Lista ta’ riċevituri ċertifikati.
 
 Il-Kumitat għandu jippubblika u jaġġorna fuq bażi regolari l-lista ta’ riċevituri ċertifikati u jgħarraf lill-Kummissjoni, lill- Parlament Ewropew u lill-Istati Membri l-oħra.
-
-*9*
 
 ## 22. Limitazzjonijiet fl-esportazzjoni.
 
@@ -330,11 +304,9 @@ Ir-riċevituri ta’ prodotti tad-difiża, li jkunu qegħdin japplikaw għal li�
 
 Iżda l-Kumitat jista’ jirrevoka dik il-miżura meta jqis li din ma tkunx aktar waħda ġustifikata.
 
-*10 Kumitat għal Trasferimenti ta’ Prodotti tad-Difiża. Emendat: A.L. 242 tal-2012; A.L. 19 tal-2021.*
+## 25. Kumitat għal Trasferimenti ta’ Prodotti tad-Difiża.
 
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
-## 25.
+*Emendat: A.L. 242 tal-2012; A.L. 19 tal-2021.*
 
 (1) Il-Ministru responsabbli għall-kummerċ bi qbil mal- Ministru responsabbli għad-difiża għandu jaħtar Kumitat għal Trasferimenti ta’ Prodotti tad-Difiża.
 
@@ -370,9 +342,7 @@ Iżda ukoll in-numru ta’ uffiċjali pubbliċi oħra hekk maħtura ma għandux 
 
 (b) li toħroġ liċenzi ta’ trasferimenti;
 
-*11*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 (ċ) li tistipula l-pattijiet u l-kundizzjonijiet ta’ liċenzi ta’ trasferimenti u l-obbligi ta’ dawk il-fornituri li jużaw liċenzi ta’ trasferimenti inklużi f’xi limitazzjonijiet fuq il-esportazzjoni ta’ prodotti tad-difiża lil persuni ġuridiċi jew fiżiċi f’pajjiżi terzi, meta jitqiesu, fost l-oħrajn, ir-riskju għaż-żamma tad-drittijiet tal-bniedem, il-paċi, is-sigurezza u l-istabbiltà li joħorġu mit-trasferiment;
+(ċ) li tistipula l-pattijiet u l-kundizzjonijiet ta’ liċenzi ta’ trasferimenti u l-obbligi ta’ dawk il-fornituri li jużaw liċenzi ta’ trasferimenti inklużi f’xi limitazzjonijiet fuq il-esportazzjoni ta’ prodotti tad-difiża lil persuni ġuridiċi jew fiżiċi f’pajjiżi terzi, meta jitqiesu, fost l-oħrajn, ir-riskju għaż-żamma tad-drittijiet tal-bniedem, il-paċi, is-sigurezza u l-istabbiltà li joħorġu mit-trasferiment;
 
 (d) li jitlob assikurazzjonijiet dwar l-użu finali, inklużi ċ-ċertifikati ta’ utent finali, filwaqt li jikkonforma ruħu mal-liġijiet Komunitarji;
 
@@ -406,10 +376,6 @@ Kull min jinsab ħati ta’ reat taħt dawn ir-regolamenti jeħel, meta jinsab �
 
 (b) multa ta’ mhux iżjed minn elfejn u tliet mija u disgħa u għoxrin euro u sebgħa u tletin ċenteżmu (€2,329.37) jew multa kkalkulata mill-profitt magħmul mill-ħati dwar in-negozju bi ksur tar-regolamenti:
 
-*12*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
 Iżda meta l-multa tiġi hekk ikkalkulata, din ma tistax tkun iżjed mis-somma għal ħames darbiet tal-profitt magħmul mill-ħati;
 
 (ċ) il-konfiska ta’ kull oġġett jew ħaġa li għandhom x’jaqsmu mal-ħtija.
@@ -432,9 +398,7 @@ Nota ML1. ma tapplikax għal:
 
 a. Armi tan-nar iddisinjati apposta għal munizzjon inerti u li mhumiex kapaċi jirrilaxxaw projettili;
 
-*13*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 b. Armi tan-nar iddisinjati apposta biex iwaddbu projettili marbuta mingħajr karga splussiva qawwija jew kollegament ta’ komunikazzjoni, għal distanza ta’ inqas minn jew ekwivalenti għal 500 m;
+b. Armi tan-nar iddisinjati apposta biex iwaddbu projettili marbuta mingħajr karga splussiva qawwija jew kollegament ta’ komunikazzjoni, għal distanza ta’ inqas minn jew ekwivalenti għal 500 m;
 
 ċ. Armi li jużaw munizzjon fi skartoċċ li ma jisparax miċ-ċentru u li mhumiex tat-tip ta’ sparar kompletament awtomatiku;
 
@@ -463,10 +427,6 @@ d. Azzarini jew pistoli tal-idejn, iddisinjati apposta biex jisparaw projettili 
 b. Armi b’kanna lixxa kif ġej:
 
 \1. Armi b’kanna lixxa ddisinjati apposta għall-użu militari;
-
-*14*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 \2. Armi b’kanna lixxa oħrajn kif ġej:
 
@@ -504,9 +464,7 @@ d. Aċċessorji ddisinjati għall-armamenti speċifikati minn ML1.a., ML1.b. jew
 
 \3. "Muntaturi tal-ixkubetti";
 
-*15*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 Nota Teknika
+Nota Teknika
 
 Għall-finijiet ta’ ML1.d.3., "muntatur tal-ixkubetti" huwa apparat iddisinjat biex pistola tiġi mmuntata fuq vettura tal-art, "inġenju tal-ajru", bastiment jew struttura.
 
@@ -531,10 +489,6 @@ d. Armi b’kanna lixxa użati għal skopijiet ta’ kaċċa jew sport. Dawn l-a
 e. Armi b’kanna lixxa ddisinjati apposta għal kwalunkwe wieħed minn dawn li ġejjin:
 
 \1. Qtil ta’ annimali domestiċi;
-
-*16*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 \2. Trankwilizzar ta’ annimali;
 
@@ -576,9 +530,7 @@ b. Apparati tal-issettjar tal-fjus iddisinjati apposta għal munizzjon speċifik
 
 Nota 1 Komponenti ddisinjati apposta speċifikati minn ML3 jinkludu:
 
-*17*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 a. Fabbrikazzjonijiet tal-metall jew tal-plastik bħal inkwini tal-kapsa, bullet cups, links tal-kartriġis, faxex li jduru u partijiet tal-metall tal-munizzjon;
+a. Fabbrikazzjonijiet tal-metall jew tal-plastik bħal inkwini tal-kapsa, bullet cups, links tal-kartriġis, faxex li jduru u partijiet tal-metall tal-munizzjon;
 
 b. Apparati ta’ sikurezza u l-armar, fjusijiet, sensuri u apparati ta’ inizjazzjoni; ċ. Provvisti tal-enerġija b’output operatorju ta’ darba waħda għoli;
 
@@ -610,10 +562,6 @@ N.B. 1: Għal tagħmir ta’ gwida u ta’ navigazzjoni, ara ML11.
 
 N.B. 2: Għal Sistemi ta’ Protezzjoni tal-Missili tal-Inġenji tal-Ajru (AMPS), ara ML4.ċ.
 
-*18*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
 a. Bombi, torpedos, granati, kanisters tad-duħħan, rokits, mini, missili, kargi tal-fond, kargi tad-dimolizzjoni, apparati tad-dimolizzjoni, kits tad-dimolizzjoni, apparati "pirotekniċi", kartriġis, submunizzjonijiet għalihom u simulaturi (jiġifieri, tagħmir li jimita l-karatteristiċi ta’ kwalunkwe wieħed minn dawn l-oġġetti), iddisinjat apposta għal użu militari;
 
 Nota ML4.a. jinkludi:
@@ -642,9 +590,7 @@ b. Kejbil ta’ konduzzjoni elettrika li jżomm fil-wiċċ adatt għall-knis ta�
 
 Nota 2 ML4.b. ma japplikax għal apparati li jinżammu fl-idejn, limitati mid-disinn unikament għas-sejbien ta’ oġġetti tal-metall u li mhumiex kapaċi jiddistingwu bejn mini u oġġetti tal-metall oħrajn.
 
-*19*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 ċ. Sistema ta’ Protezzjoni tal-Inġenji tal- Ajru mill-Missili (AMPS).
+ċ. Sistema ta’ Protezzjoni tal-Inġenji tal- Ajru mill-Missili (AMPS).
 
 Nota ML4.c. ma japplikax għal AMPS li jkollhom dan kollu li ġej:
 
@@ -669,10 +615,6 @@ ekwivalenti rikonoxxut mill- Organizzazzjoni tal-Avjazzjoni Ċivili Internazzjon
 \3. L-AMPS tinkorpora mekkaniżmu attiv li jġiegħel lis-sistema ma tiffunzjonax meta jitneħħa mill- "inġenju tal-ajru ċivili" li fih ikun ġie installat.
 
 ML5 Tagħmir għall-kontroll tal-isparar, ta’ sorveljanza u ta’ twissija, u sistemi relatati, tagħmir ta’ ttestjar u allinjament u kontromiżura, kif ġej, iddisinjat apposta għall-użu militari, u komponenti u aċċessorji ddisinjati apposta għalihom:
-
-*20*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 a. Apparat ta’ mira, kompjuters għall-ibbumbardjar, tagħmir ta’ puntament u sistemi għall-kontroll tal-armi;
 
@@ -712,9 +654,7 @@ Nota 2 Modifika ta’ vettura tal-art għall-użu militari speċifikat minn ML6.
 
 a. Koperturi ta’ tajers pnewmatiċi ta’ għamla ddisinjati apposta biex ikunu tajbin kontra l-balal;
 
-*21*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 b. Protezzjoni blindata ta’ partijiet vitali (pereżempju, it-tankijiet tal-fjuwil jew il-kabini tal-vetturi);
+b. Protezzjoni blindata ta’ partijiet vitali (pereżempju, it-tankijiet tal-fjuwil jew il-kabini tal-vetturi);
 
 ċ. Rinforzi jew muntaturi speċjali għall-armi;
 
@@ -742,11 +682,7 @@ Nota 1 ML6 ma japplikax għal vetturi ċivili ddisinjati jew modifikati biex ji�
 
 Nota 2 ML6. ma japplikax għal vetturi li jissodisfaw dan kollu li ġej;
 
-a. Ġew manifatturati qabel l-1946; [L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
-b. Ma għandhomx l-oġġetti speċifikati fil-Lista Militari tal-UE u manifatturati wara l-1945, minbarra riproduzzjonijiet ta’ komponenti oriġinali jew aċċessorji għall-vettura; u
-
-*22*
+a. Ġew manifatturati qabel l-1946; b. Ma għandhomx l-oġġetti speċifikati fil-Lista Militari tal-UE u manifatturati wara l-1945, minbarra riproduzzjonijiet ta’ komponenti oriġinali jew aċċessorji għall-vettura; u
 
 ċ. Ma jinkorporawx armi speċifikati f’ML1., f’ML2. jew f’ML4. sakemm ma jkunux inoperabbli u ma jkunux jistgħu jisparaw xi projettili.
 
@@ -764,9 +700,7 @@ Soman (GD):O-Pinakolil metilfosfonofluworidat (CAS 96-64-0); b. O-Alkil (daqs je
 
 Tabun (GA):O-Etil N, N-dimetilfosforamidoċjanidat (CAS 77- 81-6);
 
-*23*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 ċ. O-Alkil (H jew daqs jew inqas minn C10, inkluż ċikloalkil) S-2-dialkil (Metil, Etil, n-Propil jew Isopropil)-amminoetil alkil (Metil, Etil, n-Propil jew Isopropil) fosfonotijolati u mluħa alkilati u protonati korrispondenti, bħal:
+ċ. O-Alkil (H jew daqs jew inqas minn C10, inkluż ċikloalkil) S-2-dialkil (Metil, Etil, n-Propil jew Isopropil)-amminoetil alkil (Metil, Etil, n-Propil jew Isopropil) fosfonotijolati u mluħa alkilati u protonati korrispondenti, bħal:
 
 VX: O-Etil S-2-diisopropilamminoetil metil fosfonotijolat (CAS 50782-69-9);
 
@@ -802,11 +736,7 @@ klorovinildikloroarsina (CAS 541-25-3);
 
 \2. Tris (2-klorovinil) arsina (CAS 40334-70-1);
 
-\3. Bis (2-klorovinil) kloroarsina (CAS 40334-69-8); [L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
-ċ. Mustardi tan-nitroġenu, bħal:
-
-*24*
+\3. Bis (2-klorovinil) kloroarsina (CAS 40334-69-8); ċ. Mustardi tan-nitroġenu, bħal:
 
 \1. HN1: bis (2-kloroetil) etilammina (CAS 538- 07-8);
 
@@ -840,9 +770,7 @@ QL: O-Etil O-2-di-isopropilamminoetil metilfosfonit (CAS 57856-11-8);
 
 d. "Aġenti għall-kontroll tal-irvellijiet", sustanzi kimiċi kostitwenti attivi u taħlitiet tagħhom, inkluż:
 
-*25*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 1. α-Bromobenżeneaċetonitril,
+\1. α-Bromobenżeneaċetonitril,
 
 (Bromobenżil ċjanur) (CA) (CAS 5798-79-8);
 
@@ -871,10 +799,6 @@ f. Tagħmir protettiv u ta’ dekontaminazzjoni, iddisinjat jew modifikat appost
 \1. Tagħmir, iddisinjat jew modifikat għad-difiża kontra materjali speċifikati minn ML7.a., ML7.b. jew ML7.d., u komponenti ddisinjati apposta għal dan;
 
 \2. Tagħmir, iddisinjat jew modifikat għad-dekontaminazzjoni ta’ oġġetti kkontaminati b’materjali speċifikati minn ML7.a. jew ML7.b., u komponenti ddisinjati apposta għal dan;
-
-*26*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 \3. Taħlitiet kimiċi żviluppati jew ifformulati apposta għad-dekontaminazzjoni ta’ oġġetti kontaminati minn materjali speċifikati minn ML7.a. jew ML7.b.;
 
@@ -912,9 +836,7 @@ b. "Antikorpi" "anti-idjotipiċi", "monoklonali" jew "poliklonali";
 
 \4. "Antikorpi poliklonali" tfisser taħlita ta’ proteini li jgħaqqdu ma’ sit antiġeniku speċifiku u huma prodotti minn aktar minn klonu wieħed ta’ ċelloli;
 
-*27*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 5. "Riċetturi" tfisser strutturi makromolekulari bijoloġiċi kapaċi li jgħaqqdu l-ligands, u din l-għaqda taffettwa funzjonijiet fiżjoloġiċi.
+\5. "Riċetturi" tfisser strutturi makromolekulari bijoloġiċi kapaċi li jgħaqqdu l-ligands, u din l-għaqda taffettwa funzjonijiet fiżjoloġiċi.
 
 i "Bijokatalisti" għad-dekontaminazzjoni jew id-degradazzjoni ta’ aġenti tal-gwerra kimika, u s-sistemi bijoloġiċi tagħhom, kif ġej:
 
@@ -948,10 +870,6 @@ f. Ma ntużax minn wara l-2004; g. Bromur ksilil, orto: (CAS 89-92- 9), meta: (C
 
 h. Benżil bromur (CAS 100-39-0); i. Benżil jodur (CAS 620-05-3); j. Aċeton bromo (CAS 598-31-2); k. Bromur ċjanoġenu (CAS 506-68- 3);
 
-*28*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
 l. Metiletilketon bromo (CAS 816- 40-0);
 
 m. Aċetun kloro (CAS 78-95-5);
@@ -982,9 +900,7 @@ a. "Splussivi" kif ġej, u "taħlitiet" tagħhom:
 
 \2. BNCP (cis-bis (5-nitrotetrażolatu) tetra ammina-kobalt (III) perklorat) (CAS 117412-28-9);
 
-*29*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 3. CL-14 (diammino dinitrobenżofurossan jew 5,7-diammino–4,6-dinitrobenżofurażan-1-ossidu) (CAS 117907- 74-1);
+\3. CL-14 (diammino dinitrobenżofurossan jew 5,7-diammino–4,6-dinitrobenżofurażan-1-ossidu) (CAS 117907- 74-1);
 
 \4. CL-20 (HNIW jew Eżanitrueżaażajsowurtżitan) (CAS 135285-90- 4); klatrati ta’ CL-20 (ara wkoll ML8.g.3. u ML8.g.4. għall-"prekursuri" tiegħu);
 
@@ -1020,11 +936,9 @@ b. analogi
 
 difluworoamminati ta’ HMX;
 
-c. K-55 (2,4,6,8-tetranitro- 2,4,6,8-tetraażabiċiklo [3,3,0]-ottanon- 3, tetranitrosemiglikouril jew keto-biċikliko HMX) (CAS 130256-72-3); [L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
+c. K-55 (2,4,6,8-tetranitro- 2,4,6,8-tetraażabiċiklo [3,3,0]-ottanon- 3, tetranitrosemiglikouril jew keto-biċikliko HMX) (CAS 130256-72-3);
 
 \14. HNAD (eżanitroadamantan) (CAS 143850-71-9);
-
-*30*
 
 \15. HNS (eżanitrostilben) (CAS 20062-22-0);
 
@@ -1070,9 +984,7 @@ b. Keto-RDX (K-6 jew 2,4,6-trinitro-2,4,6-triażaċikloeżanon) (CAS 115029-35-1
 
 a. NTAT (nitrotriażol amminotetrażol);
 
-*31*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 b. NTNT (1-N-(2-nitrotriażolo)-4-nitrotetrażol);
+b. NTNT (1-N-(2-nitrotriażolo)-4-nitrotetrażol);
 
 ## 26.
 
@@ -1131,10 +1043,6 @@ i. PDNT (1-pikril–3,5-dinitrotriażol);
 j. TACOT
 
 (tetranitrobenżotriażolobenżotriażol) (CAS 25243-36-1);
-
-*32*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 ## 33.
 
@@ -1198,9 +1106,7 @@ b. "Propellanti", kif ġej:
 
 \1. Kwalunkwe "propellant" solidu b’impuls speċifiku teoretiku (taħt kondizzjonijiet standard) ta’ aktar minn:
 
-*33*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 a. 240 sekonda għal "propellant" mhux metallizzat, mhux aloġenizzat;
+a. 240 sekonda għal "propellant" mhux metallizzat, mhux aloġenizzat;
 
 b. 250 sekonda għal "propellant" mhux metallizzat, aloġenizzat; jew
 
@@ -1236,10 +1142,6 @@ b. Omologi tal-boran, kif ġej:
 
 \1. Dekaboran (14) (CAS 17702-41-9);
 
-*34*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
 \2. Pentaboran (9) (CAS 19624-22-7);
 
 \3. Pentaboran (11) (CAS 18433-84-6);
@@ -1266,9 +1168,7 @@ b. "Taħlitiet" li fihom kwalunkwe wieħed minn dawn li ġejjin:
 
 \2. Boron (CAS 7440- 42-8) jew karbur tal-boron (CAS 12069-32-8) ta’ purezza ta’ 85% jew ogħla u daqsijiet ta’ partiċelli ta’ anqas minn 60 μm;
 
-*35*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 Nota 1 ML8.ċ.5. japplika għal "splussivi" u fjuwils, kemm jekk il-metalli jew il-ligi huma maqbuda f’kapsula tal-aluminju, tal-manjeżju, taż-żirkonju, jew tal-berillju, kif ukoll jekk le.
+Nota 1 ML8.ċ.5. japplika għal "splussivi" u fjuwils, kemm jekk il-metalli jew il-ligi huma maqbuda f’kapsula tal-aluminju, tal-manjeżju, taż-żirkonju, jew tal-berillju, kif ukoll jekk le.
 
 Nota 2 ML8.ċ.5.b. japplika biss għall-fjuwils tal-metall f’forma ta’ partiċelli meta jkunu mħallta ma’ sustanzi oħra biex jifformaw "taħlita" fformulata għal finijiet militari bħal sospensjoni magħquda ta’ "propellant" likwidu, "propellanti" solidi, jew "taħlitiet" "pirotekniċi".
 
@@ -1287,10 +1187,6 @@ Nota 3 ML8.ċ.5.b.2. ma japplikax għal boron u karbur tal-boron arrikkit b’bo
 a. Fjuwils mħallta, li jinkludu fjuwils kemm solidi kif ukoll likwidi, (pereżempju tajn tal-boron), b’densità ta’ enerġija bbażata fuq il-massa ta’ 40 MJ/kg jew iktar;
 
 b. Fjuwils u addittivi ta’ fjuwils oħrajn b’densità ta’ enerġija għolja (pereżempju, kuban, soluzzjonijiet joniċi, JP-7, JP-10) li għandhom densità ta’ enerġija bbażata fuq il-volum ta’ 37,5 GJ għal kull metru kubu jew iktar, b’temperatura ta’ 293 K (20 °C) u pressjoni tal-atmosfera (101,325 kPa);
-
-*36*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 Nota ML8.ċ.10.b. ma japplikax għal fjuwils fossili raffinati jew bijofjuwils, jew fjuwils għal magni ċċertifikati għall-użu fl-avjazzjoni ċivili.
 
@@ -1336,9 +1232,7 @@ b. Ossiġenu; jew
 
 Nota 1 ML8.d.3 ma japplikax għal kloru trifluworid (CAS 7790-91-2).
 
-*37*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 Nota 2 ML8.d.3 ma japplikax għal nitroġenu trifluworid (CAS 7783-54-2) fl-istat gassuż tiegħu. Nota 3 ML8.d.3 ma tapplikax għal pentafluworur tal-jodju (CAS 7783-66-6).
+Nota 2 ML8.d.3 ma japplikax għal nitroġenu trifluworid (CAS 7783-54-2) fl-istat gassuż tiegħu. Nota 3 ML8.d.3 ma tapplikax għal pentafluworur tal-jodju (CAS 7783-66-6).
 
 \4. DNAD (1,3-dinitro–1,3-diażetidina) (CAS 78246-06-7);
 
@@ -1376,11 +1270,7 @@ b. Gruppi ta’ ażido;
 
 ċ. Gruppi ta’ nitrati;
 
-d. Gruppi ta’ nitraża; jew [L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
-e. Gruppi ta’ difluworoammin;
-
-*38*
+d. Gruppi ta’ nitraża; jew e. Gruppi ta’ difluworoammin;
 
 \7. FAMAO (3-difluworoamminometil-3-ażidometil ossetan) u l-polimeri tiegħu;
 
@@ -1414,9 +1304,7 @@ a. Poli(epikloroidrindiol); b. Poli(epikloroidrintriol)
 
 \21. TMETN (Trimetiloletan trinitrat) (CAS 3032-55-1);
 
-*39*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 f. "Addittivi", kif ġej:
+f. "Addittivi", kif ġej:
 
 Nota Teknika
 
@@ -1460,10 +1348,6 @@ o. Aċetil ferroċen (CAS 1271-55-2)/1,1’-diaċetil ferroċen (CAS 1273-94-5);
 
 \5. Beta-resorċilat taċ-ċomb (CAS 20936-32-7) jew beta-risorċilat tar-ram (CAS 70983-44-7);
 
-*40*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
 \6. Ċitrat taċ-ċomb (CAS 14450-60- 3);
 
 \7. Kelati taċ-ċomb-ram ta’ beta-risorċilat jew saliċilati (CAS 68411-07-4);
@@ -1498,9 +1382,7 @@ Poliċjanodifluworoamminoetileneossidu;
 
 a. 1,1R,1S-trimesoil-tris(2-etilażiridina) (HX-868, BITA) (CAS 7722-73-8);
 
-*41*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 b. Ammidi ażirdini polifunzjonali bi strutturi ta’ rinforz isoftaliċi, trimesiċi, isoċjanuriċi jew trimetiladipiċi u li għandhom ukoll grupp ażiridiniku ta’ 2-metil jew 2-etil;
+b. Ammidi ażirdini polifunzjonali bi strutturi ta’ rinforz isoftaliċi, trimesiċi, isoċjanuriċi jew trimetiladipiċi u li għandhom ukoll grupp ażiridiniku ta’ 2-metil jew 2-etil;
 
 Nota Il-punt ML.8.f.17.b. jinkludi:
 
@@ -1536,11 +1418,9 @@ N.B. F’ML8.g. ir-referenzi huma għal "Materjali Enerġetiċi" speċifikati ma
 
 \3. Derivati tal-eżaażaisowurtżitan inkluż HBIW (eżabenżileżaażaisowurtżitan) (CAS 124782-15-6) (ara wkoll ML8.a.4.) u TAIW (tetraaċetildibenżileżaażaisowurtżitan) (CAS 182763-60-6) (ara wkoll ML8.a.4.);
 
-\4. Ma ntużax minn wara l-2013; [L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
+\4. Ma ntużax minn wara l-2013;
 
 \5. TAT (1,3,5,7 tetraaċetil-1,3,5,7,-tetraaża ċiklo-ottan) (CAS 41378-98-7) (ara wkoll ML8.a.13.);
-
-*42*
 
 \6. 1,4,5,8-tetraażadekalin (CAS 5409-42-7) (ara wkoll ML8.a.27.);
 
@@ -1586,9 +1466,7 @@ Għall-finijiet ta’ ML8.h.:
 
 \3. Forom ta’ "materjal reattiv" jiġu prodotti, pereżempju, minn sinterizzazzjoni selettiva bil-laser.
 
-*43*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 Nota 1 ML8 ma japplikax għas-sustanzi li ġejjin diment li ma humiex komposti jew imħallta mal-"materjal enerġetiku" speċifikat f’ML8.a. jew metalli fi trab speċifikati f’ML8.ċ.:
+Nota 1 ML8 ma japplikax għas-sustanzi li ġejjin diment li ma humiex komposti jew imħallta mal-"materjal enerġetiku" speċifikat f’ML8.a. jew metalli fi trab speċifikati f’ML8.ċ.:
 
 a. Pikrat tal-ammonju (CAS 131- 74-8);
 
@@ -1625,10 +1503,6 @@ s. Pentaeritritoltetranitrat (PETN) (CAS 78-11-5);
 t. Ażid taċ-ċomb (CAS 13424-46- 9), stifnat taċ-ċomb normali (CAS 15245-44-0) u stifnat taċ- ċomb bażiku (CAS 12403-82-6) u splussivi primarji jew kompożizzjonijiet ta’ innesk li fihom ażidi jew kumplessi ta’ ażid; u. Trietilenglikoldinitrat (TEGDN) (CAS 111-22-8);
 
 v. 2,4,6-trinitroresorċinol (aċidu stifniku) (CAS 82-71-3);
-
-*44*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 w. Dietildifenilurea (CAS 85-98-3); dimetildifenilurea (CAS 611-92-7); metiletildifenil urea [Ċentraliti];
 
@@ -1668,9 +1542,7 @@ N.B. Għal tagħmir ta’ gwida u ta’ navigazzjoni, ara ML11.
 
 a. Bastimenti u komponenti, kif ġej:
 
-*45*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 1. Bastimenti (tal-wiċċ jew ta’ taħt l-ilma) iddisinjati jew modifikati apposta għal użu militari, irrispettivament mill-istat kurrenti ta’ tiswija jew kondizzjoni ta’ ħidma, u kemm jekk fihom sistemi jew armaturi ta’ fornitura ta’ armi kif ukoll jekk le, u bwieq jew partijiet mill-bwieq għal tali bastimenti, u komponenti ddisinjati apposta għalihom għal użu militari;
+\1. Bastimenti (tal-wiċċ jew ta’ taħt l-ilma) iddisinjati jew modifikati apposta għal użu militari, irrispettivament mill-istat kurrenti ta’ tiswija jew kondizzjoni ta’ ħidma, u kemm jekk fihom sistemi jew armaturi ta’ fornitura ta’ armi kif ukoll jekk le, u bwieq jew partijiet mill-bwieq għal tali bastimenti, u komponenti ddisinjati apposta għalihom għal użu militari;
 
 Nota ML9.a.1. jinkludi vetturi ddisinjati jew modifikati apposta għat-twassil tal-bugħaddasa.
 
@@ -1697,10 +1569,6 @@ Għall-finijiet ta’ ML9.a.2.ċ.2., "Sistema pre-wet jew washdown" hija sistema
 d. Sistemi attivi ta’ kontromiżuri għal armi speċifikati f’ML4.b., ML5.c. jew ML11.a. u li għandhom kwalunkwe element minn dawn li ġejjin:
 
 \1. "Protezzjoni CBRN";
-
-*46*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 \2. Buq u sovrastruttura ddisinjati apposta biex inaqqsu s-senjatura li titħalla fuq ir-radar;
 
@@ -1732,11 +1600,9 @@ b. Kontenut "mhux manjetiku" li jaqbeż il-75% tal-massa totali;
 
 Nota Teknika
 
-Għall-fini ta’ ML9.b.3, "mhux manjetiku" tfisser li l-permeabbiltà relattiva hija inqas minn 2. KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 4. Sistemi ta’ "Propulsjoni Indipendenti mill-Arja" (AIP) iddisinjati apposta għas-sottomarini;
+Għall-fini ta’ ML9.b.3, "mhux manjetiku" tfisser li l-permeabbiltà relattiva hija inqas minn 2. 4. Sistemi ta’ "Propulsjoni Indipendenti mill-Arja" (AIP) iddisinjati apposta għas-sottomarini;
 
 Nota ML9.b.4. ma tapplikax għall-enerġija nukleari.
-
-*47*
 
 Nota Teknika
 
@@ -1761,10 +1627,6 @@ Nota 2 ML9.f. ma japplikax għal penetraturi tal-buq control-rod bix-xaft propul
 \2. Kontrolli tas-senjatura attiva; jew
 
 \3. Kontrolli għas-soppressjoni tal-vibrazzjonijiet.
-
-*48*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 h. Tagħmir li jiġġenera enerġija nukleari jew tagħmir ta’ propulsjoni, iddisinjat apposta għall-bastimenti speċifikati f’ML9.a. u komponenti tagħhom iddisinjati jew "modifikati" apposta għall-użu militari.
 
@@ -1798,9 +1660,7 @@ e. Tagħmir għall-għoti tal-fjuwil fl-ajru ddisinjat jew modifikat apposta għ
 
 \2. "Inġenji tal-ajru" mingħajr ekwipaġġ speċifikati minn ML10.ċ.;
 
-*49*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 f. Tagħmir tal-art iddisinjat apposta għall- "inġenji tal-ajru" speċifikati minn ML10.a. jew għall-magni tal-ajru speċifikati minn ML10.d.;
+f. Tagħmir tal-art iddisinjat apposta għall- "inġenji tal-ajru" speċifikati minn ML10.a. jew għall-magni tal-ajru speċifikati minn ML10.d.;
 
 Nota 1 ML10.f. jinkludi tagħmir għall-għoti tal-fjuwil bi pressjoni u tagħmir iddisinjat biex jiffaċilita l-operazzjonijiet f’żoni konfinati, inkluż tagħmir li jinsab abbord vapur.
 
@@ -1838,10 +1698,6 @@ j. "Inġenju suborbitali" u tagħmir relatat, kif ġej, u komponenti ddiżinjati
 
 \3. Tagħmir iddiżinjat għall-kmand jew il-kontroll.
 
-*50*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
 Nota 1 ML10.a. ma japplikax għal "inġenji tal-ajru" u "vetturi eħfef mill-arja" jew varjanti ta’ dawk l-"inġenji tal- ajru" ddisinjati apposta għall-użu militari, u li jkunu dan kollu li ġej:
 
 a. Ma jkunux "inġenji tal-ajru" tal-ġlied;
@@ -1864,9 +1720,7 @@ Nota 5 ML10.a. ma japplikax għal "inġenji tal-ajru" u "vetturi eħfef mill-arj
 
 a. Ġew manifatturati għall-ewwel darba qabel l-1946;
 
-*51*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 b. Ma jinkorporawx oġġetti speċifikati fil-Lista Militari Komuni tal-UE, diment li l-oġġetti ma jkunux meħtieġa biex jiġu ssodisfati standards ta’ sikurezza u ajrunavigabbiltà ta’ awtoritajiet tal-avjazzjoni ċivili ta’ Stat Membru wieħed jew aktar tal-UE jew ta’ Stati Parteċipanti tal-Ftehim ta’ Wassenaar; u
+b. Ma jinkorporawx oġġetti speċifikati fil-Lista Militari Komuni tal-UE, diment li l-oġġetti ma jkunux meħtieġa biex jiġu ssodisfati standards ta’ sikurezza u ajrunavigabbiltà ta’ awtoritajiet tal-avjazzjoni ċivili ta’ Stat Membru wieħed jew aktar tal-UE jew ta’ Stati Parteċipanti tal-Ftehim ta’ Wassenaar; u
 
 ċ. Ma jinkorporawx armi speċifikati fil-Lista Militari Komuni tal-UE, ħlief jekk dawn ma jistgħux jitħaddmu jew jitreġġgħu lura għall-operazzjoni.
 
@@ -1885,10 +1739,6 @@ b. Tubi b’aġilità ta’ frekwenza;
 ċ. Sistemi jew tagħmir elettroniċi, iddisinjati għas-sorveljanza u l-monitoraġġ tal-ispettru elettromanjetiku għal finijiet ta’ intelliġenza militari jew ta’ sigurtà jew b’kontroazzjoni għal tali sorveljanza u monitoraġġ;
 
 d. Tagħmir ta’ kontromiżuri ta’ taħt l-ilma, inkluż iġġammjar u ingannaturi akustiċi u manjetiċi, iddisinjati biex jintroduċu sinjali estranji jew skorretti f’riċevituri tas-sonar;
-
-*52*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 e. Tagħmir ta’ sigurtà għall-ipproċessar tad-data, tagħmir għas-sigurtà tad-data u tagħmir ta’ sigurtà għal linji ta’ trażmissjoni u ta’ senjalazzjoni, bl-użu ta’ funzjonalità kriptografika;
 
@@ -1932,9 +1782,7 @@ deċiżjonijiet fi kwalunkwe stadju matul l-
 
 operazzjoni jew il-battalja; is-simulazzjoni ta’ operazzjonijiet permezz tal-kompjuter.
 
-*53*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 N.B. Għal "software" assoċjat mar-Radju militari Definit permezz ta’ "Software" (SDR) ara ML21.
+N.B. Għal "software" assoċjat mar-Radju militari Definit permezz ta’ "Software" (SDR) ara ML21.
 
 b. Tagħmir ta’ ġġammjar iddisinjat jew modifikat biex ifixkel ir-riċeviment, it-tħaddim jew l-effettività tas-servizzi ta’ pożizzjonament, ta’ navigazzjoni jew ta’ determinazzjoni tal-ħin ipprovduti minn "sistemi ta’ navigazzjoni bis-satellita", u komponenti ddisinjati apposta għalih; ċ. "Inġenji spazjali" ddisinjati jew modifikati apposta għall-użu militari, u komponenti tal-"inġenji spazjali" ddisinjati apposta għall-użu militari.
 
@@ -1951,10 +1799,6 @@ b. Tagħmir ta’ ġenerazzjoni tal-enerġija prima, ta’ armatura elettrika, t
 N.B. Għall-kapaċitaturi li jaħżnu kwantità kbira ta’ enerġija ara wkoll 3.A.1.e.2. fuq il-Lista tal- UE ta’ Użu Doppju.
 
 ċ. Sistemi ta’ akkwist u insegwiment tal-bersall, kontroll tal-isparar jew valutazzjoni tad-dannu;
-
-*54*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 d. Sistemi awtogwidati ta’ riċerka, ta’ gwida jew ta’ propulsjoni devjata (aċċellerazzjoni laterali) għal projettili.
 
@@ -1990,9 +1834,7 @@ N.B. Għal komponenti jew aċċessorji oħra ta’ elmi militari, ara l-entrata 
 
 d. Korazzi tal-ġisem jew ilbies protettiv, u komponenti għalihom, kif ġej:
 
-*55*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 1. Korazzi rotob tal-ġisem jew ilbies protettiv, manifatturati f’konformità ma’ standards jew speċifikazzjonijiet militari, jew l-ekwivalenti tagħhom, u komponenti ddisinjati apposta għalihom;
+\1. Korazzi rotob tal-ġisem jew ilbies protettiv, manifatturati f’konformità ma’ standards jew speċifikazzjonijiet militari, jew l-ekwivalenti tagħhom, u komponenti ddisinjati apposta għalihom;
 
 Nota Għall-finijiet ta’ ML13.d.1., l-istandards jew l-ispeċifikazzjonijiet militari jinkludu, bħala minimu, speċifikazzjonijiet għal protezzjoni minn frammentazzjoni.
 
@@ -2020,10 +1862,6 @@ N.B. 2 Għal "materjali fibrużi jew filamentari" użati fil-manifattura ta’ k
 
 ML14 "Tagħmir speċjalizzat għal taħriġ militari", jew għas-simulazzjoni ta’ xenarji militari, simulaturi ddisinjati apposta għal taħriġ fl-użu ta’ kwalunkwe arma tan-nar jew arma kkontrollata minn ML1 jew ML2, u komponenti u aċċessorji ddisinjati apposta għalihom.
 
-*56*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
 Nota 1 ML14 jinkludi sistemi ta’ ġenerazzjoni tal-immaġnijiet u ta’ ambjent interattiv għas-simulaturi, meta ddisinjati jew modifikati apposta għall-użu militari.
 
 Nota 2 ML14 ma japplikax għal tagħmir iddisinjat apposta għal taħriġ fl-użu ta’ armi tal-kaċċa jew għall-isport.
@@ -2046,9 +1884,7 @@ Nota ML15.f. jinkludi tagħmir iddisinjat sabiex jiddegrada l-operat jew l-effet
 
 Nota ML15 ma japplikax għal "tubi intensifikaturi tal-immaġnijiet tal-ewwel ġenerazzjoni" jew tagħmir iddisinjat apposta sabiex jinkorpora "tubi intensifikaturi tal-immaġni tal-ewwel ġenerazzjoni".
 
-*57*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 N.B. Għall-apparati tal-mira li jinkorporaw "tubi intensifikaturi tal-immaġni tal-ewwel ġenerazzjoni" ara ML1., ML2. u ML5.a.
+N.B. Għall-apparati tal-mira li jinkorporaw "tubi intensifikaturi tal-immaġni tal-ewwel ġenerazzjoni" ara ML1., ML2. u ML5.a.
 
 N.B. Ara wkoll l-entrati 6A002.a.2. u 6A002.b.u 6A003.b. fuq il-Lista tal-UE ta’ Użu Doppju.
 
@@ -2076,10 +1912,6 @@ e. "Robots", kontrulluri tar-"robots" u "tagħmir tat-tarf" tar-"robots", li jko
 
 \2. Jinkorporaw mezzi għall-protezzjoni ta’ linji idrawliċi kontra panċers kkawżati esternament minn frammenti ballistiċi (pereżempju, li jinkorporaw linji awtosiġillanti) u ddisinjati biex jużaw fluwidi idrawliċi b’punti ta’ flaxx ogħla minn 839 K (566°C); jew
 
-*58*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
 \3. Iddisinjati jew klassifikati apposta biex joperaw f’ambjent sottopost għal impulsi elettromanjetiċi (EMP);
 
 **Nota Teknika**
@@ -2106,9 +1938,7 @@ n. Mudelli ta’ ttestjar iddisinjati apposta għall-"iżvilupp" ta’ oġġetti
 
 o. Tagħmir ta’ protezzjoni mil-"laser" (eżempju protezzjoni tal-għajnejn u protezzjoni sensorjali) iddisinjat apposta għall-użu militari;
 
-*59*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 p. "Ċelluli tal-fjuwil", minbarra dawk speċifikati xi mkien ieħor fil-Lista Militari Komuni tal-UE ddisinjati jew "modifikati" apposta għall-użu militari.
+p. "Ċelluli tal-fjuwil", minbarra dawk speċifikati xi mkien ieħor fil-Lista Militari Komuni tal-UE ddisinjati jew "modifikati" apposta għall-użu militari.
 
 Noti Tekniċi
 
@@ -2135,10 +1965,6 @@ b. ‘Sistemi tal-armi’ b’raġġi ta’ partiċelli; ċ. ‘Sistemi tal-armi
 d. Tagħmir iddisinjat apposta biex isib jew jidentifika, jew biex jiddefendi minn, sistemi speċifikati minn ML19.a. sa ML19.c.;
 
 e. Mudelli għal test fiżiku għas-sistemi, tagħmir u komponenti speċifikati minn ML19;
-
-*60*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 f. Sistemi "laser" iddisinjati apposta biex jikkawżaw agħma permanenti lil viżjoni mhux megħjuna, jiġifieri lill-għajn mikxufa jew lill-għajn b’tagħmir li jikkoreġi l-vista.
 
@@ -2172,9 +1998,7 @@ i. Tagħmir biex jillenbuta raġġ negattiv ta’ joni;
 
 j. Tagħmir biex jikkontrolla u jdawwar malajr raġġ ta’ joni ta’ enerġija għolja;
 
-*61*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 k. Fojls "kwalifikati għall-ispazju" biex jinnewtralizzaw raġġi ta’ isotopi tal-idroġenu negattivi.
+k. Fojls "kwalifikati għall-ispazju" biex jinnewtralizzaw raġġi ta’ isotopi tal-idroġenu negattivi.
 
 Nota Teknika
 
@@ -2198,10 +2022,6 @@ a. "Software" ddisinjat jew modifikat apposta għal kwalunkwe wieħed minn dawn 
 
 \3. "Żvilupp", "produzzjoni", tħaddim jew manutenzjoni ta’ "software" speċifikat fil-Lista Militari Komuni tal-UE. b. "Software" speċifiku, minbarra dak speċifikat minn ML21.a., kif ġej:
 
-*62*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
-
 \1. "Software" ddisinjat apposta għal użu militari u ddisinjat apposta għall-immudellar, is-simulazzjoni jew l-evalwazzjoni ta’ sistemi tal-armi militari;
 
 \2. "Software" ddisinjat apposta għall-użu militari u ddisinjat apposta għall-immudellar jew is-simulazzjoni tax-xenarji operazzjonali militari;
@@ -2220,9 +2040,7 @@ N.B. Għall-fini ġenerali "kompjuters diġitali" b’"software" installat speċ
 
 ML22 "Teknoloġija" kif ġej:
 
-*63*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 a. "Teknoloġija" minbarra dik speċifikata f’ML22.b., li hija "meħtieġa" għall-"iżvilupp", il- "produzzjoni", għall-operazzjoni, għall-installazzjoni, għall-manutenzjoni (iċċekkjar), għat-tiswija, it-tiġdid jew ir-rinnovazzjoni ta’ oġġetti speċifikati mil-Lista Militari Komuni tal-UE;
+a. "Teknoloġija" minbarra dik speċifikata f’ML22.b., li hija "meħtieġa" għall-"iżvilupp", il- "produzzjoni", għall-operazzjoni, għall-installazzjoni, għall-manutenzjoni (iċċekkjar), għat-tiswija, it-tiġdid jew ir-rinnovazzjoni ta’ oġġetti speċifikati mil-Lista Militari Komuni tal-UE;
 
 b. "Teknoloġija" kif ġej:
 
@@ -2245,10 +2063,6 @@ Nota 2 ML22 ma japplikax għal:
 a. "Teknoloġija" li hija l-minimu meħtieġ għall-installazzjoni, għall-operazzjoni, għall-manutenzjoni (iċċekkjar) jew għat-tiswija ta’ dawk l-oġġetti li mhumiex ikkontrollati jew li l-esportazzjoni tagħhom ġiet awtorizzata;
 
 b. "Teknoloġija" li hija "fl-isfera pubblika", "riċerka xjentifika bażika" jew l-informazzjoni minima meħtieġa għal applikazzjonijiet għal privattiva;
-
-*64*
-
-[L.S. 117.32 KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA
 
 ċ. "Teknoloġija" għal induzzjoni manjetika għal propulsjoni kontinwa ta’ apparati tat-trasport ċivili.
 
@@ -2281,10 +2095,6 @@ ML7, 22 "Bijokatalisti"
 Nota Teknika
 
 "Enżimi" tfisser "bijokatalisti" għal reazzjonijiet kimiċi jew bijokimiċi speċifiċi.
-
-*65*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32
 
 *ML7*
 
@@ -2322,9 +2132,7 @@ b. Jaħżen id-data jew l-istruzzjonijiet f’apparati b’memorja fissa jew mod
 
 d. Jipprovdi l-output tad-data.
 
-*[L.S. 117.32 66*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA Nota Teknika
+Nota Teknika
 
 Modifiki ta’ sekwenza maħżuna ta’ struzzjonijiet jinkludu s-sostituzzjoni ta’ apparati b’memorja fissa, iżda mhux bidla fiżika fil-wajering jew fl-interkonnessjonijiet.
 
@@ -2365,10 +2173,6 @@ d. Fibri mqattgħin, fibri bażiċi u kutri koerenti tal-fibra;
 e. Whiskers, monokristallini jew polikristallini, ta’ kwalunkwe tul;
 
 f. Polpa ta’ poliammid aromatiku.
-
-*67*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32
 
 *ML15*
 
@@ -2412,11 +2216,9 @@ Nota Teknika
 
 Vettura li ttir bil-magni u li żżomm fl-arja permezz ta’ gass (ġeneralment l-elju, preċedentement l-idroġenu) li huwa eħfef mill-arja.
 
-*[L.S. 117.32 68*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA "Reattur nukleari"
-
 *ML9, 17*
+
+"Reattur nukleari"
 
 Jinkludi l-oġġetti f’reċipjent reattur, jew imwaħħlin direttament miegħu, it-tagħmir li jikkontrolla l-livell ta’ potenza fil-qalba, u l-komponenti li normalment fihom jew jiġu f’kuntatt dirett ma’ jew jikkontrollaw il-likwidu għat-tkessiħ primarju tal-qalba tar-reattur.
 
@@ -2454,15 +2256,11 @@ Kif applikata għal "teknoloġija", tirreferi biss għal dak il-porzjon ta’ "t
 
 "Aġenti għall-kontroll tal-irvellijiet"
 
-Sustanzi li, taħt il-kundizzjonijiet mistennijin tal-użu għal finijiet ta’ kontroll tal-irvellijiet, jipproduċu rapidament fil-bnedmin irritazzjoni tas-sensi jew effetti fiżiċi li jiddiżabilitaw li jitilqu fi żmien qasir wara t-terminazzjoni tal-esponiment. (Il-gassijiet tad-dmugħ huma subsett ta’ "aġenti għall-kontroll tal-irvellijiet".) KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32
-
-*ML17*
-
-"Robot"
-
-*69*
+Sustanzi li, taħt il-kundizzjonijiet mistennijin tal-użu għal finijiet ta’ kontroll tal-irvellijiet, jipproduċu rapidament fil-bnedmin irritazzjoni tas-sensi jew effetti fiżiċi li jiddiżabilitaw li jitilqu fi żmien qasir wara t-terminazzjoni tal-esponiment. (Il-gassijiet tad-dmugħ huma subsett ta’ "aġenti għall-kontroll tal-irvellijiet".) "Robot"
 
 Mekkaniżmu għal manipulazzjoni, li jista’ jkun tal-varjetà mogħdija kontinwa (continuous path) jew punt għal punt, jista’ juża sensuri, u għandu l-karatteristiċi kollha li ġejjin:
+
+*ML17*
 
 a. Huwa multifunzjonali;
 
@@ -2484,9 +2282,7 @@ Nota Id-definizzjoni ta’ hawn fuq ma tinkludix l-apparati li ġejjin:
 
 \2. Mekkaniżmi ta’ manipulazzjoni b’sekwenza fissa li huma apparati awtomatizzati li jiċċaqilqu, li jaħdmu skont movimenti programmati ffissati mekkanikament. Il-programm huwa limitat mekkanikament b’waqfiet iffissati, bħal pinnijiet jew kammijiet. Is-sekwenza ta’ ċaqliq u s-selezzjoni tal-mogħdijiet jew angoli mhumiex varjabbli u ma jistgħux jinbidlu b’mezzi mekkaniċi, elettroniċi jew elettriċi;
 
-*[L.S. 117.32 70*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA 3. Mekkaniżmi ta’ manipulazzjoni ta’ sekwenza varjabbli mekkanikament ikkontrollata li huma apparati awtomatizzati li jiċċaqilqu, li joperaw skont movimenti programmati li huma ffissati mekkanikament. Il-programm huwa mekkanikament limitat b’waqfiet fissi iżda aġġustabbli, bħal pinnijiet jew kammijiet. Is-sekwenza tal-movimenti u l-għażla tal-mogħdijiet jew l-angoli huma varjabbli fil-limiti tad-disinn tal- programm fiss. Varjazzjonijiet jew modifiki tad-disinn tal-programm (eżempju bidliet tal-pinnijiet jew skambji ta’ kammijiet) f’waħda mill-assi taċ-ċaqliq jew aktar jitwettqu biss permezz ta’ operazzjonijiet mekkaniċi;
+\3. Mekkaniżmi ta’ manipulazzjoni ta’ sekwenza varjabbli mekkanikament ikkontrollata li huma apparati awtomatizzati li jiċċaqilqu, li joperaw skont movimenti programmati li huma ffissati mekkanikament. Il-programm huwa mekkanikament limitat b’waqfiet fissi iżda aġġustabbli, bħal pinnijiet jew kammijiet. Is-sekwenza tal-movimenti u l-għażla tal-mogħdijiet jew l-angoli huma varjabbli fil-limiti tad-disinn tal- programm fiss. Varjazzjonijiet jew modifiki tad-disinn tal-programm (eżempju bidliet tal-pinnijiet jew skambji ta’ kammijiet) f’waħda mill-assi taċ-ċaqliq jew aktar jitwettqu biss permezz ta’ operazzjonijiet mekkaniċi;
 
 \4. Mekkaniżmi ta’ manipulazzjoni ta’ sekwenza varjabbli mhux servokontrollati li huma apparati awtomatizzati li jiċċaqilqu, li joperaw skont movimenti programmati ffissati mekkanikament. Il-programm huwa varjabbli iżda s-sekwenza tipproċedi biss bis-sinjal binarju minn tagħmir binarju elettriku ffissat mekkanikament jew b’waqfiet aġġustabbli;
 
@@ -2512,9 +2308,7 @@ Inġenju ddisinjat biex jopera, jippersisti jew jittranżita fl-ispazju fil-form
 
 Nota Teknika 3
 
-*71*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32 "Vettura spazjali"
+"Vettura spazjali"
 
 "Inġenju spazjali" ddisinjat biex jipprovdi trasport għall-merkanzija jew għall-passiġġieri.
 
@@ -2558,11 +2352,9 @@ Iddisinjat, manifatturat, jew kwalifikat permezz ta’ testijiet b’suċċess, 
 
 Nota Deċiżjoni li oġġett speċifiku jkun "kwalifikat għall-ispazju" permezz ta’ testijiet ma tfissirx li oġġetti oħra fl-istess linja ta’ produzzjoni jew sensiela ta’ mudelli jkunu "kwalifikati għall-ispazju" jekk ma jkunux ġew ittestjati individwalment.
 
-*[L.S. 117.32 72*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA "Inġenju suborbitali"
-
 *ML10*
+
+"Inġenju suborbitali"
 
 Inġenju li għandu spazju magħluq iddisinjat għat-trasport tan-nies jew tal-merkanzija, li huwa ddisinjat biex:
 
@@ -2585,10 +2377,6 @@ Nota Teknika
 L-istat "superkonduttiv" ta’ materjal huwa karatterizzat individwalment minn "temperatura kritika", kamp manjetiku kritiku, li hija funzjoni ta’ temperatura, u densità kritika ta’ kurrent li hija funzjoni tal-kamp manjetiku kif ukoll tat- temperatura.
 
 Nota: "Temperaturi kritiċi" (xi kultant nirreferu għalihom bħala t-temperatura ta’ tranżizzjoni) ta’ materjal "superkonduttiv" speċifiku tfisser it-temperatura li fiha l-materjal jitlef ir-reżistenza kollha għall-fluss ta’ kurrent elettriku dirett.
-
-*73*
-
-KONDIZZJONIJIET DWAR PRODOTTI TAD-DIFIŻA [L.S.117.32
 
 *ML22*
 

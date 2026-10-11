@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) - B.Sc. (Hons) - fil-Mediterranean Agro-Ecosystems Management taħt il-patroċinju tal-Istitut tas-Sistemi Ambjentali (S.L. 327.299)
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) - B.SC. (HONS) -
-
-FIL-MEDITERRANEAN AGRO-ECOSYSTEMS MANAGEMNENT
-
-*1*
-
-TA}T IL-PATRO~INJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI [S.L.327.299
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.299**
 
 ORDINAMENTI G}ALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) - B.SC. (HONS) -

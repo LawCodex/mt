@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Allokazzjoni tal-Minuri"
-identifier: "S.L. 16.1"
+identifier: "S.L. 16.01"
 eli: "https://legislation.mt/eli/sl/16.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/16.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Allokazzjoni tal-Minuri (S.L. 16.1)
+# Regolamenti dwar l-Allokazzjoni tal-Minuri (S.L. 16.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 16.01\***
 

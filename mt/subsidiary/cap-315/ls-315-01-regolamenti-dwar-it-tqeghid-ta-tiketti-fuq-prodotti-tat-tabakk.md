@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tqegħid ta' Tiketti fuq Prodotti tat-Tabakk"
-identifier: "S.L. 315.1"
+identifier: "S.L. 315.01"
 eli: "https://legislation.mt/eli/sl/315.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/315.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tqegħid ta' Tiketti fuq Prodotti tat-Tabakk (S.L. 315.1)
+# Regolamenti dwar it-Tqegħid ta' Tiketti fuq Prodotti tat-Tabakk (S.L. 315.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 315.01**
 

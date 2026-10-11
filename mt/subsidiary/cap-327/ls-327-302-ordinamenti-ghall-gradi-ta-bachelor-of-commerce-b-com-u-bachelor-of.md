@@ -16,13 +16,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall- Gradi ta Bachelor of Commerce - B.Com. - u Bachelor of Commerce (Honours) - B.Com. (Hons) - taħt il-patroċinju tal- Fakultà ta’ l-Ekonomija, Management u Accountancy (S.L. 327.302)
 
-BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) -
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TA’ L-EKONOMIJA,
-
-*1*
-
-MANAGEMENT U ACCOUNTANCY [L.S.327.302 LEĠISLAZZJONI SUSSIDJARJA 327.302
+**LEĠISLAZZJONI SUSSIDJARJA 327.302**
 
 ORDINAMENTI GĦALL-GRADI TA’ BACHELOR OF COMMERCE - B.COM. - U BACHELOR OF
 
@@ -62,10 +56,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 Accountancy, Banking and Finance, l-Ekonomija, Insurance, Management, Marketing, Public Policy, u kwalunkwe qasam ieħor approvat mis-Senat fuq ir-rakkomandazzjoni tal-Bord.
 
-BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TA’ L-EKONOMIJA, [L.S.327.302 MANAGEMENT U ACCOUNTANCY
-
-*2*
-
 (2) Il-grad ta’ Bachelor of Commerce (Honours) jingħata fil- Commerce bħala Qasam ta’ Studju Ewlieni bl-Unuri f’wieħed mill-oqsma ta’ speċjalizzazzjoni li ġejjin: Banking and Finance, l- Economics, Insurance and Risk Management, Management, Marketing, Public Policy u kwalunkwe qasam ieħor approvat mis- Senat fuq ir-rakkomandazzjoni tal-Bord.
 
 (3) L-oqsma ta’ studju offruti f’kwalunkwe sena partikolari u l-abbinamenti tal-oqsma ta’ studju permissibbli jkunu ppubblikati mill-Bord qabel il-bidu ta’ kull kors, sakemm li f’kull sena, l-abbinamenti tal-oqsma ta’ studju jkunu offruti skond ir-riżorsi disponibbli u n-numru tal-applikanti li jagħżluhom.
@@ -92,13 +82,7 @@ Biex ikunu rreġistrati bħala studenti regolari fil-kors, l-applikanti għandho
 
 (i) is-Certificate in Insurance taċ-Chartered Institute of Insurance u jkunu għaddew mill-Matematika Pura fil-Livell Intermedju tal-Matrikola; jew
 
-BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) -
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TA’ L-EKONOMIJA,
-
-*3*
-
-MANAGEMENT U ACCOUNTANCY [L.S.327.302 (ii) l-Advanced Diploma in Insurance offruta mill- MCAST u jkunu għaddew mill-Matematika Pura fil-Livell Intermedju tal-Matrikola; jew
+(ii) l-Advanced Diploma in Insurance offruta mill- MCAST u jkunu għaddew mill-Matematika Pura fil-Livell Intermedju tal-Matrikola; jew
 
 (iii) l-International Certificate in Enterprise Risk Management offrut mill-Institute of Risk Management u jkunu għaddew mill-Matematika Pura fil-Livell Intermedju tal-Matrikola; jew
 
@@ -138,11 +122,7 @@ Il-kors jikkonsisti f’żewġ partijiet: l-Ewwel Parti u t-Tieni Parti.
 
 L-Ewwel Sena: 60 krettu li huma komuni għall-istudenti kollha;
 
-It-Tiena Sena: 60 krettu li minnhom għall-anqas 28 krettu huma assenjati lil kull waħda miż-żewġ oqsma ta’ speċjalizzazzjoni magħżula; u BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TA’ L-EKONOMIJA, [L.S.327.302 MANAGEMENT U ACCOUNTANCY
-
-It-Tielet Sena: 60 krettu li minnhom 30 krettu huma assenjati lil kull waħda miż-żewġ oqsma ta’ speċjalizzazzjoni magħżula.
-
-*4*
+It-Tiena Sena: 60 krettu li minnhom għall-anqas 28 krettu huma assenjati lil kull waħda miż-żewġ oqsma ta’ speċjalizzazzjoni magħżula; u It-Tielet Sena: 60 krettu li minnhom 30 krettu huma assenjati lil kull waħda miż-żewġ oqsma ta’ speċjalizzazzjoni magħżula.
 
 ## 10. Oqsma ta’ speċjalizzazzjoni. Enumerat mill-ġdid: A.L. 35 tal-2014.
 
@@ -184,13 +164,9 @@ L-istudenti li ma jtemmux it-Tieni Parti jingħataw il-grad ta’ Bachelor of Co
 
 Il-Bord għandu jippubblika l-programm ta’ studju għall-kors u l-programmi ta’ studju għal kull qasam ta’ speċjalizzazzjoni, imħejjija skond id-disposizzjonjiet rilevanti tar-Regolamenti Prinċipali, u approvati mis-Senat. Suġġett għall-approvazzjoni tas- Senat, il-Bord jista’ jagħmel it-tibdiliet meħtieġa filprogrammi ta’ studju u fit-taqsimiet studju meħtieġa għall-Grad.
 
-BACHELOR OF COMMERCE (HONOURS) - B.COM. (HONS) -
+## 16. Klassifikazzjoni tar- Rikonoxximenti. Enumerat mill-ġdid: A.L. 35 tal-2014.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TA’ L-EKONOMIJA,
-
-*5 Klassifikazzjoni tar- Rikonoxximenti. Enumerat mill-ġdid: A.L. 35 tal-2014.*
-
-MANAGEMENT U ACCOUNTANCY [L.S.327.302 16. (1) Il-Marka Medja Finali Mwieżna għall-klassifikazzjoni tal-grad ta’ Bachelor of Commerce (l-Ewwel Parti tal-kors) għandha tkun ibbażata fuq ir-riżultati miksuba fit-tlett snin tal- Ewwel Parti tal-kors li jkollhom dan il-piż:
+(1) Il-Marka Medja Finali Mwieżna għall-klassifikazzjoni tal-grad ta’ Bachelor of Commerce (l-Ewwel Parti tal-kors) għandha tkun ibbażata fuq ir-riżultati miksuba fit-tlett snin tal- Ewwel Parti tal-kors li jkollhom dan il-piż:
 
 *Sostitwit: A.L. 340 tal-2014*
 

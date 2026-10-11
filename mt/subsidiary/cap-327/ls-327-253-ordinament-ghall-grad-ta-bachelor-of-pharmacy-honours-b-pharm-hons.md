@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinament għall-Grad ta' Bachelor of Pharmacy (Honours) - B. Pharm. (Hons) - taħt il-Patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.253)
 
-B. PHARM. (HONS) - TA}T IL-PATRO~INJU TAL-
-
-*1*
-
-FAKULTÀ TAL-MEDI!INA U L-KIRUR{IJA [S.L.327.253
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.253**
 
 ORDINAMENTI G}ALL-GRAD TA’ BACHELOR OF PHARMACY (HONOURS) - B. PHARM. (HONS) -
@@ -72,12 +66,6 @@ Il-kors jinfirex fuq medda ta’ ]ames snin ta’ studju fuq ba\\i full-time.
 Il-programm ta’ studji g]all-kors g]andu jkun ippubblikat skond id-disposizzjonijiet tar-regolamenti prin`ipali, wara l-approvazzjoni tas-Senat, u g]andu jinkludi:
 
 (a) ta\\ri[ teoriku u prattiku fis-su[[etti li [ejjin:
-
-B. PHARM. (HONS) - TA}T IL-PATRO~INJU TAL-
-
-*2*
-
-[S.L.327.253 FAKULTÀ TAL-MEDI!INA U L-KIRUR{IJA
 
 • Plant and animal biology;
 

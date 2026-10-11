@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-Ħruġ ta' Euro 100,000,000 Stock tal-Gvern ta’ Malta (S.L. 161.125)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [L.S.161.125
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.125**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**
@@ -69,11 +65,7 @@ Is-somma ta’ flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta�
 
 ## 7. Rata ta’ mgħax u dati tal-ħlas.
 
-(1) L-imgħax bir-rata ta’ Euro 2.125 għal kull Euro 100, 4.25% Stock tal-Gvern ta’ Malta 2017 (III) jitħallas kull sitt xhur b’lura fis-6 ta’ Mejju u fis-6 ta’ Novembru ta’ kull sena sakemm idum l-iStock. L-ewwel ħlas pro rata għall-perjodu bejn it-18 ta’ Mejju, 2011 u l-5 ta’ Novembru, 2011 (iż-żewġ dati inklużi) jsir [L.S.161.125 STOCK TAL-GVERN TA’ MALTA
-
-fis-6 ta’ Novembru, 2011.
-
-*2*
+(1) L-imgħax bir-rata ta’ Euro 2.125 għal kull Euro 100, 4.25% Stock tal-Gvern ta’ Malta 2017 (III) jitħallas kull sitt xhur b’lura fis-6 ta’ Mejju u fis-6 ta’ Novembru ta’ kull sena sakemm idum l-iStock. L-ewwel ħlas pro rata għall-perjodu bejn it-18 ta’ Mejju, 2011 u l-5 ta’ Novembru, 2011 (iż-żewġ dati inklużi) jsir fis-6 ta’ Novembru, 2011.
 
 (2) L-imgħax bir-rata ta’ Euro 2.625 għal kull Euro 100, 5.25% Stock tal-Gvern ta’ Malta 2030 (I) jitħallas kull sitt xhur b’lura fit- 23 ta’ Ġunju u fit-23 ta’ Diċembru ta’ kull sena sakemm idum l-iStock. L-ewwel ħlas pro rata għall-perjodu bejn it-18 ta’ Mejju, 2011 u t-22 ta’ Ġunju, 2011 (iż-żewġ dati inklużi) jsir fit-23 ta’ Ġunju, 2011.
 

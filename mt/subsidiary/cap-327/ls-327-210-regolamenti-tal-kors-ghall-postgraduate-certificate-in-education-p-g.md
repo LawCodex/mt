@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Postgraduate Certificate in Education - P.G.C.E. - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.210)
 
-KORS GĦALL-POSTGRADUATE
-
-*1*
-
-CERTIFICATE IN EDUCATION - P.G.C.E. [L.S.327.210
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.210**
 
 **REGOLAMENTI TAL-KORS**

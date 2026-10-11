@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Skambju ta’ Informazzjoni (Materja ta’ Taxxa) (Commonwealth tal-Bahamas) (S.L. 123.139)
 
-*1*
-
-(COMMONWEALTH TAL-BAHAMAS) [L.S.123.139
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.139**
 
 ORDNI DWAR SKAMBJU TA’ INFORMAZZJONI
@@ -44,8 +40,6 @@ B’dan qiegћed jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseћћ fit-30 ta’ Ottubru 2012.
-
-2 [L.S.123.139 (COMMONWEALTH TAL-BAHAMAS)
 
 ## SKEDA
 
@@ -89,8 +83,6 @@ Dan il-Ftehim għandu jkun japplika għal kull taxxa ta’ kull xorta u deskrizz
 
 Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa identika imposta wara d-data meta jiġi ffirmat il-Ftehim b’żieda ma’ jew minflok it-taxxi eżistenti. Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa sostanzjalment bħal dawk imposta wara d-data meta jiġi ffirmat il-Ftehim b’żieda ma’ jew minflok it-taxxi eżistenti jekk l-awtoritajiet kompetenti tal-Partijiet Kontraenti ikunu hekk jaqblu. Barra minn hekk, it-taxxi koperti jistgħu jiġu estiżi jew modifikati bi ftehim reċiproku tal-Partijiet Kontraenti fil-forma ta’ skambju ta’ ittri. L-awtoritajiet kompetenti tal-Partijiet Kontraenti għandhom jinnotifikaw lil xulxin b’kull tibdil sostanzjali fit-tassazzjoni u miżuri ta’ ġbir ta’ informazzjoni relatati koperti minn dan il-Ftehim.
 
-(COMMONWEALTH TAL-BAHAMAS) [L.S.123.139 3
-
 Artikolu 4
 
 Tifsiriet
@@ -127,9 +119,7 @@ Għall-finijiet ta’ dan il-Ftehim, sakemm mhux iddefinit mod ieħor:
 
 (l) il-frażi "klassi ta’ ishma ewlenija" tfisser dik il-klassi jew dawk il-klassijiet ta’ ishma li jkunu jirrappreżentaw il-maġġoranza ta’ ġemgħa ta’ voti u l-valur tal-kumpannija;
 
-(m) il-frażi "kumpannija li tkun tidher fil-borża" tfisser kumpannija li 4 [L.S.123.139 (COMMONWEALTH TAL-BAHAMAS)
-
-jkollha l-klassi ta’ ishma ewlenija tagħha elenkata f’borża rikonoxxuta sakemm l-ishma elenkati tagħha jkunu jistgħu jinxtraw jew jinbiegħu minnufih mill-pubbliku. Ishma jistgħu jinxtraw jew jinbiegħu "mill-pubbliku" jekk ix-xiri jew il-bejgħ ta’ ishma ma jkunx impliċitament jew espliċitament ristrett għal xi grupp limitat ta’ investituri;
+(m) il-frażi "kumpannija li tkun tidher fil-borża" tfisser kumpannija li jkollha l-klassi ta’ ishma ewlenija tagħha elenkata f’borża rikonoxxuta sakemm l-ishma elenkati tagħha jkunu jistgħu jinxtraw jew jinbiegħu minnufih mill-pubbliku. Ishma jistgħu jinxtraw jew jinbiegħu "mill-pubbliku" jekk ix-xiri jew il-bejgħ ta’ ishma ma jkunx impliċitament jew espliċitament ristrett għal xi grupp limitat ta’ investituri;
 
 (n) il-frażi "fond jew skema ta’ investiment kollettiv" tfisser kull vettura ta’ investiment miġmugħ, irrispettivament mill-forma legali tiegħu. Il-frażi "fond jew skema pubbliċi ta’ investiment kollettiv" tfisser kull fond jew skema ta’ investiment kollettiv sakemm l-unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà mill-pubbliku. Unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà "mill-pubbliku" jekk ix-xiri, il-bejgħ jew il-fidwa ma jkunux impliċitament jew espliċitament ristretti għal grupp ta’ investituri limitat;
 
@@ -163,9 +153,7 @@ Kull Parti Kontraenti għandha tiżgura li l-awtoritajiet kompetenti tagħha għ
 
 (a) informazzjoni miżmuma mill-banek, istituzzjonijiet finanzjarji oħra, u minn kull persuna, li tkun tiffunzjona f’aġenzija jew f’xi kapaċità fiduċjarja, inklużi nominees u trustees;
 
-(b) informazzjoni li jkollha x’taqsam mas-sidien ta’ kumpanniji, soċjetajiet, (COMMONWEALTH TAL-BAHAMAS) [L.S.123.139 5
-
-trusts, fondazzjonijiet, "Anstalten" u persuni oħra, inklużi, fil-limiti tal- Artikolu 2, informazzjoni dwar is-sidien fuq dawk il-persuni kollha f’katina ta’ proprjetà; fil-każ ta’ trusts, informazzjoni fuq settlors, trustees u benefiċjarji u; fil-każ ta’ fondazzjonijiet, informazzjoni fuq il-fundaturi, membri tal-kunsill tal-fondazzjoni u benefiċjarji. Iktar minn hekk, dan il-Ftehim ma joħloq ebda obbligu fuq il-Partijiet Kontraenti biex jiksbu jew jipprovdu informazzjoni dwar kumpanniji li jkunu jidhru fil-borża pubblikament jew fondi ta’ investiment kollettiv jew skemi pubbliċi, kemm-il darba dik l-informazzjoni tkun tista’ tinkiseb mingħajr ma jingħata lok għal diffikultajiet sproporzjonati.
+(b) informazzjoni li jkollha x’taqsam mas-sidien ta’ kumpanniji, soċjetajiet, trusts, fondazzjonijiet, "Anstalten" u persuni oħra, inklużi, fil-limiti tal- Artikolu 2, informazzjoni dwar is-sidien fuq dawk il-persuni kollha f’katina ta’ proprjetà; fil-każ ta’ trusts, informazzjoni fuq settlors, trustees u benefiċjarji u; fil-każ ta’ fondazzjonijiet, informazzjoni fuq il-fundaturi, membri tal-kunsill tal-fondazzjoni u benefiċjarji. Iktar minn hekk, dan il-Ftehim ma joħloq ebda obbligu fuq il-Partijiet Kontraenti biex jiksbu jew jipprovdu informazzjoni dwar kumpanniji li jkunu jidhru fil-borża pubblikament jew fondi ta’ investiment kollettiv jew skemi pubbliċi, kemm-il darba dik l-informazzjoni tkun tista’ tinkiseb mingħajr ma jingħata lok għal diffikultajiet sproporzjonati.
 
 *\5.*
 
@@ -199,8 +187,6 @@ L-awtorità kompetenti tal-Parti applikanti għandha tipprovdi din l-informazzjo
 
 L-awtorità kompetenti tal-Parti mitluba għandha tibgħat l-informazzjoni mitluba kemm jista’ jkun malajr lil Parti applikanti. Sabiex tkun żgurata reazzjoni fil-pront, l-awtorità kompetenti tal-Parti mitluba għandha:
 
-6 [L.S.123.139 (COMMONWEALTH TAL-BAHAMAS)
-
 (a) tikkonferma bil-miktub li rċeviet it-talba lill-awtorità kompetenti tal- Parti applikanti u għandha tinnotifika lill-awtorità kompetenti tal-Parti applikanti b’defiċjenzi fit-talba, jekk ikun hemm, fi żmien 60 ġurnata minn meta ġiet riċevuta t-talba;
 
 (b) jekk l-awtorità kompetenti tal-Parti mitluba ma setgħetx tikseb u tipprovdi l-informazzjoni fi żmien 90 ġurnata minn meta ġiet riċevuta t-talba, inkluż jekk tiltaqa’ ma’ ostakli fl-għoti tal-informazzjoni jew jekk tirrifjuta li tagħti l-informazzjoni, għandha tinforma lill-Parti applikanti, tispjega r-raġuni għall-inkapaċità tagħha, in-natura tal-ostakoli jew ir-raġunijiet għar-rifjut tagħha.
@@ -228,8 +214,6 @@ L-awtorità kompetenti tal-Parti mitluba għandha tibgħat l-informazzjoni mitlu
 ## 4.
 
 Talba għal informazzjoni m’għandhiex tiġi rifjutata għar-raġuni li t-talba għat-taxxa li tagħti lok għat-talba hija kkontestata.
-
-(COMMONWEALTH TAL-BAHAMAS) [L.S.123.139 7
 
 ## 5.
 
@@ -275,9 +259,7 @@ Talbiet għall-assistenza u tweġibiet għalihom għandhom jitfasslu bl-Ingliż.
 
 **Bidu fis-Seħħ**
 
-Dan il-Ftehim għandu jibda jseħħ meta kull Parti Kontraenti tinnotifika lill-Parti l-oħra bil-miktub li tkun temmet il-proċeduri interni neċessarji tagħha għall-bidu fis-seħħ. Mal-bidu fis-seħħ, dan għandu jkollu effett għall-materji kollha koperti fl- 8 [L.S.123.139 (COMMONWEALTH TAL-BAHAMAS)
-
-Artikolu 1, fir-rigward ta’ perjodi ta’ taxxa li jibdew fi jew wara l-ewwel ġurnata ta’ Jannar minnufih wara dik id-data jew, meta ma jkunx hemm ebda perjodu ta’ taxxa, dwar kull talba ta’ ħlas ta’ taxxa li toriġina f’dik id-data jew wara.
+Dan il-Ftehim għandu jibda jseħħ meta kull Parti Kontraenti tinnotifika lill-Parti l-oħra bil-miktub li tkun temmet il-proċeduri interni neċessarji tagħha għall-bidu fis-seħħ. Mal-bidu fis-seħħ, dan għandu jkollu effett għall-materji kollha koperti fl- Artikolu 1, fir-rigward ta’ perjodi ta’ taxxa li jibdew fi jew wara l-ewwel ġurnata ta’ Jannar minnufih wara dik id-data jew, meta ma jkunx hemm ebda perjodu ta’ taxxa, dwar kull talba ta’ ħlas ta’ taxxa li toriġina f’dik id-data jew wara.
 
 **Artikolu 14**
 

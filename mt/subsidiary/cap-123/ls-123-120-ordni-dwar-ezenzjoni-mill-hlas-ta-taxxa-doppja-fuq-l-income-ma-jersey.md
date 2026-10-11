@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta’ Taxxa Doppja fuq l-Income ma’ Jersey (S.L. 123.120)
 
-*1*
-
-FUQ L-INCOME MA’ JERSEY [L.S.123.120
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.120**
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’ TAXXA DOPPJA FUQ L-INCOME MA’ JERSEY
@@ -97,9 +93,7 @@ Dan il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment 
 
 \1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx te]tie[ xort’o]ra:
 
-(a) il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta ti[i u\\ata f’sens [eografiku, tfisser il-g\\ira ta’ Malta, il-g\\ira ta’ G]awdex u l-g\\ejjer l-o]ra tal-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti li tinsab adja`enti mal-ib]ra territorjali, li fihom Malta FUQ L-INCOME MA’ JERSEY [L.S.123.120 3
-
-te\\er`ita drittijiet sovrani, [urisdizzjoni, jew kontroll skont id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha g]ar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
+(a) il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta ti[i u\\ata f’sens [eografiku, tfisser il-g\\ira ta’ Malta, il-g\\ira ta’ G]awdex u l-g\\ejjer l-o]ra tal-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti li tinsab adja`enti mal-ib]ra territorjali, li fihom Malta te\\er`ita drittijiet sovrani, [urisdizzjoni, jew kontroll skont id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha g]ar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
 
 (b) il-fra\\i "Jersey" tfisser il-Bailiwick ta’ Jersey u, meta ti[i u\\ata f’sens [eografiku, tfisser il-g\\ira ta’ Jersey, inklu\\ il-ba]ar territorjali tag]ha, skont id-dritt internazzjonali;
 
@@ -181,9 +175,7 @@ Minkejja d-dispo\\izzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabb
 
 (d) i\\-\\amma ta’ post fiss ta’ negozju bl-iskop uniku ta’ xiri ta’ o[[etti jew ta’ merkanzija, jew ta’ [bir ta’ tag]rif, g]all-impri\\a;
 
-(e) i\\-\\amma ta’ post fiss ta’ negozju bl-iskop uniku li ti[i [estita, g]all- FUQ L-INCOME MA’ JERSEY [L.S.123.120 5
-
-impri\\a, kull attività o]ra ta’ xorta preparatorja jew aw\\iljarja;
+(e) i\\-\\amma ta’ post fiss ta’ negozju bl-iskop uniku li ti[i [estita, g]all-impri\\a, kull attività o]ra ta’ xorta preparatorja jew aw\\iljarja;
 
 (f) i\\-\\amma ta’ post ta’ negozju fiss bl-iskop uniku li tkun tista’ ssir xi kombinazzjoni ta’ attivitajiet imsemmija fis-subparagrafi (a) sa (e), sakemm l-attività kollha tal-post tan-negozju fiss li tirri\\ulta minn din il-kombinazzjoni tkun wa]da ta’ xorta preparatorja jew aw\\iljarja.
 
@@ -249,8 +241,6 @@ meta dawk il-profitti li jsiru mill-kiri jew profitti li jsiru minn dak l-u\\u, 
 
 \3. Id-dispo\\izzjonijiet tal-paragrafu 1 g]andhom ikunu japplikaw ukoll g]al profitti miksubin mill-parte`ipazzjoni f’pool, negozju bi s]ab jew a[enzija b’operat internazzjonali.
 
-FUQ L-INCOME MA’ JERSEY [L.S.123.120 7
-
 **Artikolu 9**
 
 **IMPRI|I ASSO¬JATI**
@@ -303,9 +293,7 @@ permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw id-dispo\\iz
 
 \2. Il-fra\\i "royalties" skont ma tintu\\a f’dan l-Artikolu tfisser ]lasijiet ta’ kull xorta li jsiru b’korrispettiv g]all-u\\u ta’, jew g]all-jedd tal-u\\u, ta’ kull dritt tal-awtur ta’ xog]ol letterarju, artistiku jew xjentifiku (inklu\\i films `inematografi`i, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew pro`ess sigrieti, jew g]al informazzjoni dwar konoxxenza industrijali, kummer`jali jew xjentifika.
 
-\3. Id-dispo\\izzjonijiet tal-paragrafu 1 m’g]andhomx japplikaw jekk is-sid FUQ L-INCOME MA’ JERSEY [L.S.123.120 9
-
-benefi`jarju tar-royalties, li jkun residenti ta’ Parti, ikun qed imexxi negozju fil-Parti l-o]ra fejn jinqalg]u r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun qieg]ed jag]mel f’dik il-Parti l-o]ra servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jit]allsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw id-dispo\\izzjonijiet tal-Artikolu 7, jew tal-Artikolu 14, skont il-ka\\.
+\3. Id-dispo\\izzjonijiet tal-paragrafu 1 m’g]andhomx japplikaw jekk is-sid benefi`jarju tar-royalties, li jkun residenti ta’ Parti, ikun qed imexxi negozju fil-Parti l-o]ra fejn jinqalg]u r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun qieg]ed jag]mel f’dik il-Parti l-o]ra servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jit]allsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw id-dispo\\izzjonijiet tal-Artikolu 7, jew tal-Artikolu 14, skont il-ka\\.
 
 \4. Meta, min]abba fir-relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejniethom it-tnejn u xi persuna o]ra, l-ammont tar-royalties, meta ji[i kkunsidrat x’ikun l-u\\u, id-dritt jew l-informazzjoni li jit]allsu g]alihom, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispo\\izzjonijiet ta’ dan l-Artikolu g]andhom ikunu japplikaw biss g]all-a]]ar imsemmi ammont. F’dak il-ka\\, il-parti \\ejda tal- ]lasijiet g]andha tibqa’ taxxabbli skont il-li[ijiet ta’ kull Parti, wara li jitqiesu d-dispo\\izzjonijiet l-o]ra ta’ dan il-Ftehim.
 
@@ -369,9 +357,7 @@ Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti t
 
 **PENSJONIJIET U }LASIJIET TAS-SIGURTÀ SO¬JALI**
 
-\1. Bla ]sara g]ad-dispo\\izzjonijiet tal-paragrafu 2 tal-Artikolu 19, il- FUQ L-INCOME MA’ JERSEY [L.S.123.120 11
-
-pensjonijiet u kull kumpens ie]or b]al dawk li jit]allsu lil residenti ta’ Parti min]abba f’xi impjieg li jkun sar qabel g]andhom ji[u intaxxati biss f’dik il-Parti.
+\1. Bla ]sara g]ad-dispo\\izzjonijiet tal-paragrafu 2 tal-Artikolu 19, il-pensjonijiet u kull kumpens ie]or b]al dawk li jit]allsu lil residenti ta’ Parti min]abba f’xi impjieg li jkun sar qabel g]andhom ji[u intaxxati biss f’dik il-Parti.
 
 \2. Minkejja d-dispo\\izzjonijiet tal-paragrafu 1, ]lasijiet li jsiru u l-pensjonijiet li jit]allsu ta]t il-li[ijiet tas-sigurtà so`jali ta’ Parti g]andhom ji[u intaxxati biss f’dik il-Parti.
 
@@ -433,9 +419,7 @@ Bla ]sara g]ad-dispo\\izzjonijiet tal-li[i ta’ Jersey dwar li jit]alla li jing
 
 \2. It-taxxa fuq stabbiliment permanenti li impri\\a ta’ Parti jkollha fil-Parti l-o]ra m’g]andhiex tin[abar b’mod inqas favorevoli f’dik il-Parti l-o]ra mit-taxxa mi[bura fuq impri\\i ta’ dik il-Parti l-o]ra li tkun qieg]da twettaq l-istess attivitajiet. Din id-dispo\\izzjoni m’g]andhiex tiftiehem b]ala wa]da li tobbliga lil Parti li tikkon`edi lil residenti tal-Parti l-o]ra xi allowances personali, ]elsien u tnaqqis g]all-g]anijiet ta’ taxxa min]abba fl-istatus `ivili jew fir-responsabbiltajiet familjari li dan jikkon`edi lir-residenti tieg]u.
 
-\3. }lief meta japplikaw id-dispo\\izzjonijiet tal-paragrafu 1 tal-Artikolu 9, tal-paragrafu 4 tal-Artikolu 11, jew tal-paragrafu 4 tal-Artikolu 12, mg]ax, royalties u ]lasijiet o]ra li jit]allsu minn impri\\a ta’ Parti lil residenti tal-Parti l-o]ra g]andhom, g]all-fini li ji[u stabbilit x’inhuma l-profitti taxxabbli ta’ dik l-impri\\a, ji[u mnaqqsa ta]t l-istess kondizzjonijiet b]allikieku dawn kienu t]allsu lil residenti FUQ L-INCOME MA’ JERSEY [L.S.123.120 13
-
-tal-Parti l-ewwel imsemmija.
+\3. }lief meta japplikaw id-dispo\\izzjonijiet tal-paragrafu 1 tal-Artikolu 9, tal-paragrafu 4 tal-Artikolu 11, jew tal-paragrafu 4 tal-Artikolu 12, mg]ax, royalties u ]lasijiet o]ra li jit]allsu minn impri\\a ta’ Parti lil residenti tal-Parti l-o]ra g]andhom, g]all-fini li ji[u stabbilit x’inhuma l-profitti taxxabbli ta’ dik l-impri\\a, ji[u mnaqqsa ta]t l-istess kondizzjonijiet b]allikieku dawn kienu t]allsu lil residenti tal-Parti l-ewwel imsemmija.
 
 \4. Impri\\i ta’ Parti, li l-kapital tag]hom ikun g]alkollox jew f’parti minnu proprjetà jew ta]t il-kontroll, sew dirett sew mhux dirett, ta’ xi residenti wie]ed jew aktar tal-Parti l-o]ra, m’g]andhom ikunu asso[[ettati fl-ewwel imsemmija Parti g]al ebda taxxa jew g]al ebda ]tie[a konnessa ma’ dan li tkun xort’o]ra jew ta’ iktar pi\\ mit-taxxa u mill-]ti[iet konnessi li g]alihom ikunu jew jistg]u jkunu asso[[ettati impri\\i o]ra simili tal-Parti l-ewwel imsemmija.
 
@@ -494,8 +478,6 @@ Ebda ]a[a f’dan il-Ftehim m’g]andha tolqot il-privile[[i fiskali tal-membri 
 **TERMINAZZJONI**
 
 Il-Ftehim g]andu jibqa’ jse]] sakemm ji[i terminat minn xi Parti. Kull wa]da mill-Partijiet tista’ ttemm il-Ftehim billi tag]ti avvi\\ tat-terminazzjoni mill-inqas sitt xhur qabel it-tmiem ta’ xi sena kalendarja. F’dak il-ka\\, il-Ftehim m’g]andux jibqa’ fis-se]] g]ar-rigward ta’ taxxi fuq l-income li jinkisbu matul xi perjodu ta’ taxxa jew perjodu ta’ kontijiet, skont il-ka\\, li jibda g]addej fi jew wara l-ewwel jum ta’ Jannar li ji[i minnufih wara d-data meta jing]ata l-avvi\\ tat-terminazzjoni.
-
-FUQ L-INCOME MA’ JERSEY [L.S.123.120 15
 
 B’XHIEDA TA’ DAN is-sottoskritti, li huma awtorizzati kif imiss biex jag]mlu dan mill-Gvernijiet rispettivi tag]hom, iffirmaw dan il-Ftehim.
 

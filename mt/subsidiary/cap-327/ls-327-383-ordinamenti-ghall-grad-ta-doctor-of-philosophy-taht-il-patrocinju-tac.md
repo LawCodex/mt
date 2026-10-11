@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju taċ-Ċentru Ewro-Mediterranju għar-Riċerka fl-Edukazzjoni (S.L. 327.383)
 
-IL-PATRO~INJU TA~-~ENTRU EWRO-MEDITERRANJU
-
-*1*
-
-G}AR-RI~ERKA FL-EDUKAZZJONI [S.L.327.383
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.383**
 
 **ORDINAMENTI G}ALL-GRAD TA’ DOCTOR OF**
@@ -74,10 +68,6 @@ Tliet membri tal-istaff akkademiku minn bordijiet asso`jati ma`-~entru (ji[ifier
 ## 6. Supervi\\joni.
 
 Is-Supervi\\uri Prin`ipali huma me]tie[a jissottomettu rapport bil-miktub lill-Bord, permezz tal-Kumitat g]ad-Dottorat ta`-~entru, kull {unju g]all-istudenti kollha li jaqg]u ta]t is-supervi\\joni tag]hom.
-
-*2*
-
-IL-PATRO~INJU TA~-~ENTRU EWRO-MEDITERRANJU [S.L.327.383 G}AR-RI~ERKA FL-EDUKAZZJONI
 
 ## 7. Progress tal-istudenti.
 

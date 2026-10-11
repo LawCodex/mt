@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Applikazzjoni tat -Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Qorti Kriminali Internazzjonali)"
-identifier: "S.L. 191.2"
+identifier: "S.L. 191.02"
 eli: "https://legislation.mt/eli/sl/191.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/191.2/20111025/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Applikazzjoni tat -Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Qorti Kriminali Internazzjonali) (S.L. 191.2)
-
-APPLIKAZZJONI TAT-TAQSIMA III TAL-ATT DWAR
-
-L-IMMUNITAJIET U L-PRIVILEĠĠI DIPLOMATIĊI
-
-*1*
-
-(QORTI KRIMINALI INTERNAZZJONALI) [S.L.191.02
+# Ordni dwar l-Applikazzjoni tat -Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Qorti Kriminali Internazzjonali) (S.L. 191.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 191.02**
 

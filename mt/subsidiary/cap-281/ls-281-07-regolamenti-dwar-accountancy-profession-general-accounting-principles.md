@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Accountancy Profession (General Accounting Principles in respect of certain Eligible Entities related to the business of Insurance)"
-identifier: "S.L. 281.7"
+identifier: "S.L. 281.07"
 eli: "https://legislation.mt/eli/sl/281.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,15 +14,7 @@ version: "https://legislation.mt/eli/sl/281.7/20251226/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Accountancy Profession (General Accounting Principles in respect of certain Eligible Entities related to the business of Insurance) (S.L. 281.7)
-
-ACCOUNTANCY PROFESSION (GENERAL ACCOUNTING
-
-PRINCIPLES IN RESPECT OF CERTAIN ELIGIBLE
-
-*1*
-
-ENTITIES RELATED TO THE BUSINESS OF INSURANCE) [L.S. 281.07
+# Regolamenti dwar Accountancy Profession (General Accounting Principles in respect of certain Eligible Entities related to the business of Insurance) (S.L. 281.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 281.07**
 

@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions from Maritime Transport) Regulations (S.L. 234.54)
 
-MERCHANT SHIPPING (MONITORING, REPORTING
-
-AND VERIFICATION OF CARBON DIOXIDE EMISSIONS
-
-*1*
-
-FROM MARITIME TRANSPORT) [L.S. 234.54
-
 **LEĠISLAZZJONI SUSSIDJARJA 234.54**
 
 **REGOLAMENTI DWAR BASTIMENTI**

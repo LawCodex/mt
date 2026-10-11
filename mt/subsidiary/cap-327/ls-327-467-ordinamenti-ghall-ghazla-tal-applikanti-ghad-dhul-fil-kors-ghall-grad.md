@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Science (Honours) (Podiatry) taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.467)
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) (PODIATRY)
-
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.467
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.467**
 
 **ORDINAMENTI GĦALL-GĦAŻLA**
@@ -65,10 +59,6 @@ Grad E fil-Livell Avvanzat assimilat ma’ Grad Ċ fil-Livell Intermedju Grad D 
 
 (ċ) L-applikanti li jissodisfaw ir-rekwiżiti ġenerali u speċjali għad-dħul fil-kors skont kif imniżżla fl-ordinamenti tal-kors għandhom ikunu magħżula minn fost l-applikanti eliġibbli kollha skont dawn il-kategoriji li ġejjin, imniżżla f’ordni ta’ preferenza:
 
-*2*
-
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) (PODIATRY) [L.S.327.467 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
 L-ewwel kategorija: dawk bi grad ‘A’ fis-suġġett ewlieni u grad ‘A’ fis-suġġett sekondarju
 
 It-tieni kategorija: dawk bi grad ‘A’ fis-suġġett ewlieni u grad ‘B’ fis-suġġett sekondarju
@@ -105,13 +95,7 @@ Il-ħdax-il kategorija: dawk bi grad ‘Ċ’ fis-suġġett ewlieni u grad ‘E�
 
 (4) Għall-għan tal-għażla, l-applikanti li jissodisfaw ir-rekwiżiti ġenerali u speċjali kollha għad-dħul fil-kors sal-31 ta’ Awwissu ta’ qabel ma jibda l-kors għandhom jitqiesu l-ewwel.
 
-(5) Jekk l-għadd tal-applikanti eliġibbli li jaqgħu fl-aħħar kategorija tal-applikanti eliġibbli biex jidħlu fil-kors skont id-dispożizzjonijiet tal-paragrafu (1) ta’ dan l-ordinament ikun tali li n-numru totali tal-applikanti biex jidħlu jaqbeż l-għadd ta’ postijiet GRAD TA’ BACHELOR OF SCIENCE (HONOURS) (PODIATRY)
-
-*3*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.467
-
-stabbilit mis-Senat, l-ewwel konsiderazzjoni għandha tingħata lil dawn:
+(5) Jekk l-għadd tal-applikanti eliġibbli li jaqgħu fl-aħħar kategorija tal-applikanti eliġibbli biex jidħlu fil-kors skont id-dispożizzjonijiet tal-paragrafu (1) ta’ dan l-ordinament ikun tali li n-numru totali tal-applikanti biex jidħlu jaqbeż l-għadd ta’ postijiet stabbilit mis-Senat, l-ewwel konsiderazzjoni għandha tingħata lil dawn:
 
 (a) il-livell globali milħuq mill-applikanti fis-suġġetti kollha ppreżentati għall-għoti taċ-Ċertifikat tal-Matrikola. Dan għandu jkun determinat mis-somma tal-punti allokati għal kull suġġett, li għandhom ikunu assenjati kif ġej:
 

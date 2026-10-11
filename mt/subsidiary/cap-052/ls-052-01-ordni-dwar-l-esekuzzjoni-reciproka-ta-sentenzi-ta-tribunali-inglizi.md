@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Ġibiltà"
-identifier: "S.L. 52.1"
+identifier: "S.L. 52.01"
 eli: "https://legislation.mt/eli/sl/52.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/52.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Ġibiltà (S.L. 52.1)
-
-TRIBUNALI INGLI|I - {IBILTÀ [ L.S.52.01
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Ġibiltà (S.L. 52.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 52.01**
 

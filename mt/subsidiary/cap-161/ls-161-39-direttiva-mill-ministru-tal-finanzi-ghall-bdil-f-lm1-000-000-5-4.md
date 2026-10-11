@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Bdil f' Lm1,000,000 5.4% Stock tal-Gvern ta Malta 1997 minn Lm1,000,000 5.5% Obbligazzjonijiet Reġistrati 1994 (It-Tieni Ħruġ) (S.L. 161.39)
 
-BDIL F’LM1,000,000 5.4% STOCK TAL-GVERN TA’
-
-MALTA 1997 MINN LM1,000,000 5.5% OBBLI-
-
-*1*
-
-GAZZJONIJIET RE{ISTRATI 1994 (IT-TIENI }RU{) [S.L.161.39
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.39**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

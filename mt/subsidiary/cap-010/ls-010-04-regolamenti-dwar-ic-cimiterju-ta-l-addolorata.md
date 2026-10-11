@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar iċ-Ċimiterju ta' l-Addolorata"
-identifier: "S.L. 10.4"
+identifier: "S.L. 10.04"
 eli: "https://legislation.mt/eli/sl/10.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/10.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar iċ-Ċimiterju ta' l-Addolorata (S.L. 10.4)
+# Regolamenti dwar iċ-Ċimiterju ta' l-Addolorata (S.L. 10.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 10.04**
 

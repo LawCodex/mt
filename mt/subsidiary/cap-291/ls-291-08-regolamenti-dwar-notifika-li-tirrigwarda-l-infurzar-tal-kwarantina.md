@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Notifika li tirrigwarda l-Infurzar tal-Kwarantina"
-identifier: "S.L. 291.8"
+identifier: "S.L. 291.08"
 eli: "https://legislation.mt/eli/sl/291.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,9 @@ version: "https://legislation.mt/eli/sl/291.8/20200326/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Notifika li tirrigwarda l-Infurzar tal-Kwarantina (S.L. 291.8)
+# Regolamenti dwar Notifika li tirrigwarda l-Infurzar tal-Kwarantina (S.L. 291.08)
 
-NOTIFIKA LI TIRRIGWARDA
-
-*1*
-
-L-INFURZAR TAL-KWARANTINA [L.S.291.08 LEĠISLAZZJONI SUSSIDJARJA 291.08
+**LEĠISLAZZJONI SUSSIDJARJA 291.08**
 
 **REGOLAMENTI DWAR NOTIFIKA LI**
 

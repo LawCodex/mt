@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet li jitħallsu fir-rigward ta’ Permessi għal Residenza u Liċenzji għal Impjieg (S.L. 35.39)
 
-*1*
-
-GĦAL RESIDENZA U LIĊENZJI GĦAL IMPJIEG [L.S.35.39
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.39**
 
 **REGOLAMENTI DWAR DRITTIJIET LI JITĦALLSU**
@@ -85,10 +81,6 @@ ta’ min iħaddem
 fir-rigward tar-residenza u l-impjieg - bidla €300
 
 fid-deżinjazzjoni
-
-*2*
-
-[L.S. 35.39 GĦAL RESIDENZA U LIĊENZJI GĦAL IMPJIEG
 
 (g) Applikazzjoni għal permess uniku
 
@@ -172,10 +164,6 @@ permess ta’ residenza għal riċerkaturi fl-
 
 ta’ tiġdid snin jekk l-applikant ikun eliġibbli
 
-*3*
-
-GĦAL RESIDENZA U LIĊENZJI GĦAL IMPJIEG [L.S.35.39
-
 (q) Applikazzjoni għal permess ta’
 
 residenza għal persuni li jaħdmu għal rashom
@@ -256,10 +244,6 @@ intraprenditorija għar-riċerkaturi u l-istudenti
 
 residenza jew tiġdid għall-fini ta’ taħriġ €50
 
-*4*
-
-[L.S. 35.39 GĦAL RESIDENZA U LIĊENZJI GĦAL IMPJIEG
-
 (e) Applikazzjoni għal permess ta’
 
 residenza jew tiġdid skont ir-Regolamenti €50 dwar ir-Rijunifikazzjoni tal-Familji
@@ -325,10 +309,6 @@ li jkun intilef, ġie misruq, inqered, jew li ġie €50 mħassar
 **meta d-dokument ta’ residenza jkun diġà ġie**
 
 €50 approvat
-
-*5*
-
-GĦAL RESIDENZA U LIĊENZJI GĦAL IMPJIEG [L.S.35.39
 
 (r) Applikazzjoni għal permess ta’
 
@@ -403,10 +383,6 @@ għal liċenzja sekondarja ta’ impjieg applikazzjoni: €150 (e) Ċittadini ta
 familja tagħhom, residenti fit-tul li huma applikazzjoni: €60 intitolati għal liċenzja ta’ impjieg datata
 
 b’lura
-
-*6*
-
-[L.S. 35.39 GĦAL RESIDENZA U LIĊENZJI GĦAL IMPJIEG
 
 ## 5.
 

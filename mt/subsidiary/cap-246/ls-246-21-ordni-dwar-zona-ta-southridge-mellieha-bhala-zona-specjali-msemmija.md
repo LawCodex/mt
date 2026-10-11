@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Żona ta’ Southridge, Mellieħa, bħala Żona Speċjali msemmija (S.L. 246.21)
 
-*1*
-
-BĦALA ŻONA SPEĊJALI MSEMMIJA [L.S.246.21 LEĠISLAZZJONI SUSSIDJARJA 246.21
+**LEĠISLAZZJONI SUSSIDJARJA 246.21**
 
 **ORDNI DWAR ŻONA TA’ SOUTHRIDGE,**
 
@@ -40,7 +38,3 @@ Southridge, Mellieħa li tikkonsisti fi proprjetà immobbli sitwata fiż-żona d
 ## 3. Żjieda mal-Ewwel Skeda li tinsab mal-Att. Kap. 246.
 
 Southridge, Mellieħa għandha tiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti.
-
-*2*
-
-[L.S. 246.21 BĦALA ŻONA SPEĊJALI MSEMMIJA

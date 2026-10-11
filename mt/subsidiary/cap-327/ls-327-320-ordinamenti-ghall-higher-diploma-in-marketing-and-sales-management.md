@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Higher Diploma in Marketing and Sales Management taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.320)
 
-AGEMENT TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*1*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.320
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.320**
 
 **ORDINAMENTI GĦALL-HIGHER DIPLOMA IN**
@@ -67,13 +61,11 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) (i) L-applikanti li jidħlu skont ir-regolament 6(ċ) tar- Regolamenti għad-Dħul għandhom ikollhom il-kwalifiki u, jew l-esperjenza li jissodisfaw lill-Bord tal-Istudji li huma laħqu l-livell akkademiku meħtieġ biex isegwu l-kors bi profitt.
 
-(ii) L-applikanti li jidħlu skont is-sotto-paragrafu (i) ta’ AGEMENT TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL- [L.S.327.320 EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY dan l-ordinament għandhom ikunu għaddew mit-test ta’ profiċjenza fil-lingwa Ingliża kif approvat mill- Università qabel ma jidħlu fil-kors, iżda l-applikanti li għandhom iċ-Ċertifikat tal-Edukazzjoni Sekondarja bi grad 5 jew aħjar, jew l-ekwivalenti, fil-Lingwa Ingliża, għandhom ikunu eżentati milli joqogħdu għat-test tal-profiċjenza.
+(ii) L-applikanti li jidħlu skont is-sotto-paragrafu (i) ta’ dan l-ordinament għandhom ikunu għaddew mit-test ta’ profiċjenza fil-lingwa Ingliża kif approvat mill- Università qabel ma jidħlu fil-kors, iżda l-applikanti li għandhom iċ-Ċertifikat tal-Edukazzjoni Sekondarja bi grad 5 jew aħjar, jew l-ekwivalenti, fil-Lingwa Ingliża, għandhom ikunu eżentati milli joqogħdu għat-test tal-profiċjenza.
 
 \*Dawn ir-regolamenti ġew imħassrin bl- Avviż Legali 216 tal-2023.
 
 (iii) L-eliġibbiltà ta’ dawn l-applikanti għandha tkun deċiża mill-Bord tal-Istudji, wara li tkun saret intervista mmexxija minn bord maħtur għal dan il-għan.
-
-*2*
 
 (3) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul mill-anqas minn tliet membri.
 
@@ -109,8 +101,4 @@ Għadda b’Distinzjoni
 
 Għadda b’Mertu
 
-AGEMENT TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*3*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.320 Għadda.
+Għadda.

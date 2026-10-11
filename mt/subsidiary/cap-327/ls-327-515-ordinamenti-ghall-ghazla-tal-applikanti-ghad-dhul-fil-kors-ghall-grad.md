@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Science (Honours) (Applied Food and Nutritional Sciences) taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.515)
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) (APPLIED
-
-FOOD AND NUTRITIONAL SCIENCES) TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.515 LEĠISLAZZJONI SUSSIDJARJA 327.515
-
 **ORDINAMENTI GĦALL-GĦAŻLA**
 
 **TAL-APPLIKANTI GĦAD-DĦUL FIL-KORS**
@@ -65,13 +57,7 @@ Grad Ċ fil-Livell Avvanzat jingħata l-istess punti daqs Grad B fil-Livell Inte
 
 Grad B fil-Livell Avvanzat jingħata l-istess punti daqs Grad A fil-Livell Intermedju
 
-Grad A fil-Livell Avvanzat jingħata l-istess GRAD TA’ BACHELOR OF SCIENCE (HONOURS) (APPLIED FOOD AND NUTRITIONAL SCIENCES) TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
-**punti daqs Grad A fil-Livell Intermedju**
-
-*[L.S.327.515 2*
-
-(ċ) Il-kategoriji tal-kwalifikazzjoni għandhom ikunu kif ġej:
+Grad A fil-Livell Avvanzat jingħata l-istess (ċ) Il-kategoriji tal-kwalifikazzjoni għandhom ikunu kif ġej:
 
 L-ewwel dawk b’żewġ gradi ‘A’ fis-suġġett kategorija: ewlieni u grad ‘A’ fis-suġġett sekondarju
 
@@ -103,13 +89,7 @@ jew dawk bi grad ‘A’ u grad ‘Ċ’ fis-suġġett ewlieni u grad ‘B’ fi
 
 Id-disa’ dawk b’żewġ gradi ‘B’ fis-suġġett kategorija: ewlieni u grad ‘Ċ’ fis-suġġett sekondarju
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) (APPLIED
-
-FOOD AND NUTRITIONAL SCIENCES) TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.515 u dawk bi grad ‘A’ u grad ‘Ċ’ fis-suġġett ewlieni u grad ‘Ċ’ fis-suġġett sekondarju
+u dawk bi grad ‘A’ u grad ‘Ċ’ fis-suġġett ewlieni u grad ‘Ċ’ fis-suġġett sekondarju
 
 L-għaxar dawk b’żewġ gradi ‘B’ fis-suġġett kategorija: ewlieni u grad ‘D’ fis-suġġett sekondarju
 
@@ -141,10 +121,6 @@ Is-sbatax-il dawk b’żewġ gradi ta’ ‘Ċ’ fis-kategorija: suġġetti ewl
 
 (2) L-applikanti li jkollhom ir-Rekwiżiti Ġenerali għad-Dħul jistgħu joffru ċ-ċertifikat li għaddew fis-suġġetti ewlenin u/jew fis-suġġett sekondarju jew bħala parti mir-Rekwiżiti Ġenerali għad- Dħul jew b’żieda mar-Rekwiżiti Ġenerali għad-Dħul.
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) (APPLIED FOOD AND NUTRITIONAL SCIENCES) TAĦT IL-PATROĊINJU [L.S.327.515 TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
-*4*
-
 (3) Meta l-applikanti joffru aktar minn ċertifikat wieħed li għaddew fis-suġġetti ewlenin u/jew fis-suġġett sekondarju, għandu jitqies l-aħjar grad.
 
 (4) Meta l-applikanti jipprezentaw ċertifikati kemm fil-Fiżika kif ukoll fil-Matematika fil-Livell Intermedju, is-suġġett li fih kien miksub l-ogħla grad għandu jkun ikkunsidrat bħala s-suġġett sekondarju.
@@ -175,13 +151,7 @@ It-tmintax-il dawk bi grad ‘A’ u grad ‘D’ fis-kategorija: suġġetti ewl
 
 Id-dsatax-il dawk bi grad ‘A’ u grad ‘D’ fis-kategorija: suġġetti ewlenin u grad ‘B’ fis-suġġett sekondarju
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) (APPLIED
-
-FOOD AND NUTRITIONAL SCIENCES) TAĦT IL-PATROĊINJU
-
-*5*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.515 L-għoxrin dawk bi grad ‘A’ u grad ‘D’ fis-kategorija: suġġetti ewlenin u grad ‘Ċ’ fis-suġġett sekondarju
+L-għoxrin dawk bi grad ‘A’ u grad ‘D’ fis-kategorija: suġġetti ewlenin u grad ‘Ċ’ fis-suġġett sekondarju
 
 Il-wieħed u dawk bi grad ‘A’ u grad ‘D’ fis-għoxrin suġġetti ewlenin u grad ‘D’ fis-kategorija: suġġett sekondarju
 

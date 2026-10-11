@@ -1,6 +1,6 @@
 ---
 title: "Avviż ta Xoljiment tal-Fond għall-Posterità"
-identifier: "S.L. 204.2"
+identifier: "S.L. 204.02"
 eli: "https://legislation.mt/eli/sl/204.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/204.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Avviż ta Xoljiment tal-Fond għall-Posterità (S.L. 204.2)
+# Avviż ta Xoljiment tal-Fond għall-Posterità (S.L. 204.02)
 
 LE{ISLAZZJONI SUSSIDJARJA 204.02
 

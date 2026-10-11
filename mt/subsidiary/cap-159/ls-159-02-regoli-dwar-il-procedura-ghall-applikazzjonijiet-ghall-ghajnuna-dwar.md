@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar il-Proċedura għall-Applikazzjonijiet għall-Għajnuna dwar il-Lukandi"
-identifier: "S.L. 159.2"
+identifier: "S.L. 159.02"
 eli: "https://legislation.mt/eli/sl/159.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/159.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar il-Proċedura għall-Applikazzjonijiet għall-Għajnuna dwar il-Lukandi (S.L. 159.2)
-
-PRO~EDURA G}ALL-APPLIKAZZJONIJIET
-
-*1*
-
-G}ALL-G}AJNUNA DWAR IL-LUKANDI [L.S.159.02
+# Regoli dwar il-Proċedura għall-Applikazzjonijiet għall-Għajnuna dwar il-Lukandi (S.L. 159.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 159.02**
 

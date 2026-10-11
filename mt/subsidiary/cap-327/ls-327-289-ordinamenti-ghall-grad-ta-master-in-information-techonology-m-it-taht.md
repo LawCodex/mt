@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Information Techonology - M.IT. - taħt il-patroċinju tal-Fakultà ta’ l-Information and Communication Technology (S.L. 327.289)
 
-M. IT - TA}T IL-PATRO~INJU TAL-FAKULTÀ TA’ L-
-
-*1*
-
-INFORMATION AND COMMUNICATION TECHNOLOGY [S.L.327.289
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.289**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER IN**
@@ -71,11 +65,7 @@ Il-kors ikun offrut f’oqsma ta’ studju fl-IT fejn il-Fakultà tista’ toffr
 
 (a) grad ta’ l-ewwel `iklu mill-anqas fit-Tieni Klassi bl- Unuri jew fil-Kategorija II f’qasam ta’ studju li mhux l-ICT; jew
 
-(b) grad ta’ l-ewwel `iklu fil-Tielet Klassi bl-Unuri jew fil-Kategorija III f’qasam ta’ studju li mhux l-ICT, jekk huma jkollhom ukoll kwalifiki o]ra, inklu\\a M. IT - TA}T IL-PATRO~INJU TAL-FAKULTÀ TA’ L-
-
-*2*
-
-[S.L.327.289 INFORMATION AND COMMUNICATION TECHNOLOGY esperjenza rilevanti, miksuba wara l-grad ta’ l-ewwel `iklu.
+(b) grad ta’ l-ewwel `iklu fil-Tielet Klassi bl-Unuri jew fil-Kategorija III f’qasam ta’ studju li mhux l-ICT, jekk huma jkollhom ukoll kwalifiki o]ra, inklu\\a esperjenza rilevanti, miksuba wara l-grad ta’ l-ewwel `iklu.
 
 (2) L-applikanti jistg]u jkunu me]tie[a joqog]du g]al intervista qabel ma jkunu a``ettati fil-kors.
 
@@ -115,13 +105,9 @@ Il-programm ta’ studju g]andu jkun ippubblikat wara l-approvazzjoni tas-Senat,
 
 (3) Il-titlu provvi\\orju tad-dissertazzjoni u l-proposta ta’ ri`erka dettaljata g]andhom ikunu mressqa g]all-approvazzjoni tal- Bord sat-tmiem tal-tielet semestru fil-ka\\ ta’ studju fuq ba\\i full-time u sat-tmiem tar-raba’ semestru fil-ka\\ ta’ studju fuq ba\\i part-time.
 
-M. IT - TA}T IL-PATRO~INJU TAL-FAKULTÀ TA’ L-
+## 12. Panel ta’ Supervi\\joni.
 
-*3*
-
-INFORMATION AND COMMUNICATION TECHNOLOGY [S.L.327.289 12. (1) Il-Bord g]andu ja]tar Panel ta’ Supervi\\joni g]al kull student, normalment mag]mul minn tliet membri kif [ej: il-kap tad-dipartiment jew id-delegat tieg]u jew tag]ha, b]ala Chairman, u \\ew[ membri o]ra, li wie]ed minnhom ikun s-supervi\\ur tar-ri`erka, sakemm li meta l-kap tad-dipartiment ikun is-supervi\\ur, huwa jew hija ma jkunux i`-chair tal-Panel.
-
-*Panel ta’ Supervi\\joni.*
+(1) Il-Bord g]andu ja]tar Panel ta’ Supervi\\joni g]al kull student, normalment mag]mul minn tliet membri kif [ej: il-kap tad-dipartiment jew id-delegat tieg]u jew tag]ha, b]ala Chairman, u \\ew[ membri o]ra, li wie]ed minnhom ikun s-supervi\\ur tar-ri`erka, sakemm li meta l-kap tad-dipartiment ikun is-supervi\\ur, huwa jew hija ma jkunux i`-chair tal-Panel.
 
 (2) Il-Panel ta’ Supervi\\joni g]andu jsegwi, skond kif jidhirlu xieraq, il-progress ta’ l-istudenti matul il-kors, sakemm li jiltaqa’ g]all-anqas darbtejn fis-sena biex jirrevedi l-progress.
 

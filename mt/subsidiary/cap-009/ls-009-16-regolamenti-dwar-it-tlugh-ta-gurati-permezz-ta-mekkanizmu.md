@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar it-Tlugħ ta’ Ġurati permezz ta’ Mekkaniżmu Komputerizzat (S.L. 9.16)
 
-*1*
-
-PERMEZZ TA’ MEKKANIŻMU KOMPUTERIZZAT [L.S.9.16
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.16**
 
 **REGOLAMENTI DWAR IT-TLUGĦ TA’ ĠURATI**
@@ -64,10 +60,6 @@ Għall-finijiet ta’ dawn ir-regolamenti l-espressjoni "programm komputerizzat"
 Il-listi tal-ġurati mtellgħa bil-programm komputerizzat għandhom jiġu ppublikati fil-Gazzetta bl-istess mod u manjiera stabbilita fl-artikolu 606(5) tal-Kodiċi Kriminali.
 
 \*ara r-regolamenti 1(2) kif promulgat oriġinarjament.
-
-*2*
-
-[L.S.9.16 PERMEZZ TA’ MEKKANIŻMU KOMPUTERIZZAT
 
 ## 7. Formazzjoni tal-ġuri. Kap. 9.
 

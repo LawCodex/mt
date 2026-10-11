@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti tal-2021 dwar id-Drittijiet tal-Lista ta’ Arkitetti u Inġiniera Ċivili tal-Bord tal-Kera"
-identifier: "S.L. 69.4"
+identifier: "S.L. 69.04"
 eli: "https://legislation.mt/eli/sl/69.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,9 @@ version: "https://legislation.mt/eli/sl/69.4/20211026/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti tal-2021 dwar id-Drittijiet tal-Lista ta’ Arkitetti u Inġiniera Ċivili tal-Bord tal-Kera (S.L. 69.4)
+# Regolamenti tal-2021 dwar id-Drittijiet tal-Lista ta’ Arkitetti u Inġiniera Ċivili tal-Bord tal-Kera (S.L. 69.04)
 
-DRITTIJIET TAL-LISTA TA’ ARKITETTI U INĠINIERA
-
-*1*
-
-ĊIVILI TAL-BORD TAL-KERA [L.S.69.04 LEĠISLAZZJONI SUSSIDJARJA 69.04
+**LEĠISLAZZJONI SUSSIDJARJA 69.04**
 
 **REGOLAMENTI DWAR**
 

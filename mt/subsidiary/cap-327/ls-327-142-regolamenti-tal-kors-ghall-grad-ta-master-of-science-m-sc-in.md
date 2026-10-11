@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta' Master of Science - M.Sc. - in Environmental Planning and Management (S.L. 327.142)
 
-KORS G}ALL-GRAD TA’
-
-MASTER OF SCIENCE - M.SC. -
-
-*1*
-
-IN ENVIRONMENTAL PLANNING AND MANAGEMENT [L.S.327.142
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.142**
 
 **REGOLAMENTI TAL-KORS G}ALL-GRAD TA’**

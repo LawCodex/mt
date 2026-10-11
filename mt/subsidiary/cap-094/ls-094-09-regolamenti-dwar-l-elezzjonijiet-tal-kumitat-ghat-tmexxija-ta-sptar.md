@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Elezzjonijiet tal-Kumitat għat-Tmexxija ta' Sptar"
-identifier: "S.L. 94.9"
+identifier: "S.L. 94.09"
 eli: "https://legislation.mt/eli/sl/94.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/94.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Elezzjonijiet tal-Kumitat għat-Tmexxija ta' Sptar (S.L. 94.9)
+# Regolamenti dwar l-Elezzjonijiet tal-Kumitat għat-Tmexxija ta' Sptar (S.L. 94.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 94.09**
 

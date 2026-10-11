@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Science in Medical Physics taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.434)
 
-PHYSICS TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAX-XJENZI TAS-SAĦĦA [L.S.327.434
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.434**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -78,12 +72,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (ii) L-applikanti li għandhom grad tal-ewwel ċiklu fl-oqsma ta’ studju msemmija hawn fuq, li jinkludu mhux anqas minn 180 krettu ECTS, jistgħu jidħlu wkoll fil-Kors jekk itemmu b’suċċess Programm Preparatorju.
 
-PHYSICS TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.434 TAX-XJENZI TAS-SAĦĦA
-
 (2) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (3) Meta n-numru ta’ postijiet ikun limitat u l-għadd ta’ applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti għandhom jintgħażlu skont dawn il-kriterji li ġejjin, li l-piż tagħhom ikun ippubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
@@ -120,13 +108,9 @@ Il-Kors jinfirex fuq medda ta’ tliet semestri ta’ studju fuq bażi full-time
 
 (2) F’każijiet li l-istudenti għandhom nuqqas ta’ għarfien essenzjali fil-qasam tal-metodoloġija tar-riċerka, il-Bord jista’ jeħtieġ li l-istudenti li jkunu daħlu fil-Kors isegwu u jgħaddu minn taqsima/taqsimiet-studju supplimentari fil-qasam imsemmi li għalihom massimu ta’ 10 kretti ECTS ikunu assenjati apparti l-programm ta’ studju speċifikat f’paragrafu (1) ta’ dan l-ordinament.
 
-PHYSICS TAĦT IL-PATROĊINJU TAL-FAKULTÀ
+## 7. Postgraduate Diploma. Renumerat: A.L. 213 tal-2024.
 
-*3*
-
-TAX-XJENZI TAS-SAĦĦA [L.S.327.434 7. L-istudenti li jiksbu 60 kredtu ECTs assenjati għal taqsimiet studju mgħallma b’marka medja tal-anqas ta’ 50% u li ma jkomplux bl-istudji tagħhom fil-kors, jew li jkunu komplew iżda ma jkunux temmew id-dissertazzjoni b’suċċess, ikunu eliġibbli għall-Postgraduate Diploma.
-
-*Postgraduate Diploma. Renumerat: A.L. 213 tal-2024.*
+L-istudenti li jiksbu 60 kredtu ECTs assenjati għal taqsimiet studju mgħallma b’marka medja tal-anqas ta’ 50% u li ma jkomplux bl-istudji tagħhom fil-kors, jew li jkunu komplew iżda ma jkunux temmew id-dissertazzjoni b’suċċess, ikunu eliġibbli għall-Postgraduate Diploma.
 
 ## 8. Pubblikazzjoni tal-programm ta’ studju. Renumerat: A.L. 213 tal-2024.
 
@@ -160,13 +144,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
-(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent PHYSICS TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*4*
-
-[L.S.327.434 TAX-XJENZI TAS-SAĦĦA
-
-biex jiddefendi l-każ tiegħu.
+(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 
 ## 12. Klassifikazzjoni tar- Rikonoxximenti. Renumerat: A.L. 213 tal-2024.
 

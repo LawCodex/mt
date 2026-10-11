@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Education for Sustainable Development taħt il-patroċinju taċ-Ċentru għall-Edukazzjoni u Riċerka Ambjentali (S.L. 327.427)
 
-DEVELOPMENT TAĦT IL-PATROĊINJU TAĊ-ĊENTRU
-
-*1*
-
-GĦALL-EDUKAZZJONI U RIĊERKA AMBJENTALI [L.S.327.427
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.427**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER IN**
@@ -75,11 +69,9 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (b) L-applikanti li jiksbu anqas minn 50% għall-kriterju tal-kompetenza u d-dispożizzjoni professjonali awtomatikament ma jidħlux fil-Kors.
 
-(4) Is-Senat, fuq il-parir tal-Bord tal-Istudji, għandu jiddeċiedi DEVELOPMENT TAĦT IL-PATROĊINJU TAĊ-ĊENTRU [L.S.327.427 GĦALL-EDUKAZZJONI U RIĊERKA AMBJENTALI fuq l-għadd tal-applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibilità tar-riżorsi. L-għadd ta’ postijiet disponibbli għandu jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
+(4) Is-Senat, fuq il-parir tal-Bord tal-Istudji, għandu jiddeċiedi fuq l-għadd tal-applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibilità tar-riżorsi. L-għadd ta’ postijiet disponibbli għandu jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (5) Meta n-numru jkun limitat u l-għadd ta’ applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti għandhom jintgħażlu skont dawn il-kriterji li ġejjin, li jkunu mwieżna kif ġej:
-
-*2*
 
 (a) it-tip tal-grad u l-klassifikazzjoni - 20%;
 
@@ -115,11 +107,7 @@ Il-programm ta’ studju għandu jkun ippubblikat mill-Bord tal-Istudji wara l-a
 
 (1) L-istudenti jkunu meħtieġa jissottomettu dissertazzjoni individwali ta’ madwar 25,000 kelma skont il-linji gwida maħruġa mill-Bord tal-Istudji.
 
-(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir matul it-tielet semestru tal-kors. Kull student għandu jkun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari matul il-perijodu DEVELOPMENT TAĦT IL-PATROĊINJU TAĊ-ĊENTRU
-
-*3*
-
-GĦALL-EDUKAZZJONI U RIĊERKA AMBJENTALI [L.S.327.427 ta’ studju.
+(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir matul it-tielet semestru tal-kors. Kull student għandu jkun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari matul il-perijodu ta’ studju.
 
 (3) It-titolu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu sottomessi għall-approvazzjoni tal-Bord tal-Istudji sal-aħħar tal-ewwel semestru jekk qegħdin isegwu l-kors full-time, jew sal-aħħar tat-tieni semestru jekk qegħdin isegwu l-kors part-time.
 

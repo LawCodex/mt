@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Ċentru ta' Informazzjoni dwar l-Assigurazzjoni ta' Vetturi bil-Mutur"
-identifier: "S.L. 104.6"
+identifier: "S.L. 104.06"
 eli: "https://legislation.mt/eli/sl/104.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/104.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Ċentru ta' Informazzjoni dwar l-Assigurazzjoni ta' Vetturi bil-Mutur (S.L. 104.6)
-
-*1*
-
-L-ASSIGURAZZJONI TA’ VETTURI BIL-MUTUR [L.S.104.06
+# Regolamenti dwar Ċentru ta' Informazzjoni dwar l-Assigurazzjoni ta' Vetturi bil-Mutur (S.L. 104.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 104.06**
 
@@ -89,11 +85,9 @@ u\\u ta’ vetturi bil-mutur, u li temenda d-Direttivi tal-Kunsill 73/ 239/KEE u
 
 (4) I`-`entru ta’ informazzjoni g]andu jikkopera ma’ kull `entru ta’ informazzjoni barrani b’mod li dawk i`-`entri jkunu jistg]u jwettqu l-funzjonijiet tag]hom skond l-obbligi internazzjonali tag]hom.
 
-*3*
+### 5. L-informazzjoni li g]andha tin\\amm mi`-`entru ta’ informazzjoni.
 
-L-ASSIGURAZZJONI TA’ VETTURI BIL-MUTUR [L.S.104.06 5. I`-`entru ta’ informazzjoni g]andu j\\omm l-informazzjoni li gejja:
-
-*L-informazzjoni li g]andha tin\\amm mi`-`entru ta’ informazzjoni.*
+I`-`entru ta’ informazzjoni g]andu j\\omm l-informazzjoni li gejja:
 
 (a) lista tal-vetturi kollha normalment ibba\\ati f’Malta, l-ismijiet u l-indirizzi tas-sidien re[istrati tag]hom u n-numri tar-re[istrazzjoni u tas-sistema mog]tija lil dawk il-vetturi mill-Awtorità;
 
@@ -178,10 +172,6 @@ u l-parti offi\\a toqg\\od Malta.
 (`) l-isem u l-indirizz tar-rappre\\entant li jag]mel it-talba f’isem min ]are[ il-polza tas-sigurtà fl-Istat tar-residenza tal-parti offi\\a; u
 
 (d) fejn i`-`entru ta’ informazzjoni jkun sodisfatt li l-parti offi\\a g]andha interess le[ittimu biex tikseb dik l-informazzjoni, l-isem u l-indirizz tas-sid re[istrat tal-vettura jew, fejn it-territorju li fih il-vettura tkun normalment ibba\\ata jkun Stat ta\\-|EE li m’hux Malta, il-persuna li g]andha kustodja tal-vettura.
-
-*5*
-
-L-ASSIGURAZZJONI TA’ VETTURI BIL-MUTUR [L.S.104.06
 
 (5) Fejn il-parti offi\\a, jew il-Kummissarju tal-Pulizija jew l- A[enzija tal-Uffiċjali tal-Komunitài titlob informazzjoni dwar vettura li tista’ tintu\\a legalment fit-triq jew xi post pubbliku ie]or f’Malta ming]ajr ma jkun hemm fis-se]] polza ta’ assigurazzjoni ta’ Malta, i`-`entru ta’ informazzjoni g]andu jg]addi lill-parti offi\\a, jew lill-Kummissarju tal-Pulizija jew lill-A[enzija tal- Uffiċjali tal-Komunità, l-isem u l-indirizz tal-persuna jew korp li g]andhom ir-responsabbiltà li jikkumpensaw lill-partijiet offi\\i u li jissemmew fis-subregolament (4)(d).
 

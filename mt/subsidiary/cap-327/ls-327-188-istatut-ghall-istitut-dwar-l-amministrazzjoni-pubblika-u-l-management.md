@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Istatut għall-Istitut dwar l-Amministrazzjoni Pubblika u l-Management (S.L. 327.188)
 
-*1*
-
-U L-MANAGEMENT [L.S.327.188
-
 LEĠISLAZZJONI SUSSIDJARJA 327.188
 
 STATUT GĦALL-ISTITUT
@@ -33,5 +29,3 @@ U L-MANAGEMENT
 L-AVVIŻ LEGALI 8 tal-2013, kif emendat bl-Avviż Legali 18 tal-2014.
 
 Imħassar bl-Avviż Legali 99 tal-2017.
-
-2 [L.S.327.188 U L-MANAGEMENT

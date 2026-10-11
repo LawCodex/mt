@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Postijiet ta' Detenzjoni Stabbiliti"
-identifier: "S.L. 9.8"
+identifier: "S.L. 9.08"
 eli: "https://legislation.mt/eli/sl/9.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/9.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Postijiet ta' Detenzjoni Stabbiliti (S.L. 9.8)
+# Ordni dwar Postijiet ta' Detenzjoni Stabbiliti (S.L. 9.08)
 
 **LEĠISLAZZJONI SUSSIDJARJA 9.08**
 

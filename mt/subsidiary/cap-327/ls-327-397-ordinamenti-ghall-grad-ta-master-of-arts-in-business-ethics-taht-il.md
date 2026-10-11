@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Business Ethics taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.397)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.397
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.397**
 
 **ORDINAMENTI GĦALL-GRAD TA’**
@@ -69,13 +65,11 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 ## 4. Tul tal-kors.
 
-Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi [L.S.327.397 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA full-time jew l-ekwivalenti fi studju fuq bażi part-time.
+Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew l-ekwivalenti fi studju fuq bażi part-time.
 
 ## 5. Programm ta’ studju.
 
 Il-programm ta’ studju għandu jikkonsisti f’taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu, li minnhom 60 kredtu huma assenjati għat-taqsimiet studju mgħallma u 30 kredtu huma assenjati għat-taqsima studju tad-dissertazzjoni.
-
-*2*
 
 ## 6. Postgraduate Certificate u Postgraduate Diploma.
 
@@ -109,11 +103,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (1) L-istudenti jkunu meħtieġa li jżommu kuntatt regolari mas-superviżur tagħhom.
 
-(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.397
-
-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
-
-*3*
+(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 

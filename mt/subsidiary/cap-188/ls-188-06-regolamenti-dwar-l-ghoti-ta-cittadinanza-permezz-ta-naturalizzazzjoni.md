@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Għoti ta’ Ċittadinanza permezz ta’ Naturalizzazzjoni abbażi tal-Mertu"
-identifier: "S.L. 188.6"
+identifier: "S.L. 188.06"
 eli: "https://legislation.mt/eli/sl/188.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,9 @@ version: "https://legislation.mt/eli/sl/188.6/20250729/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Għoti ta’ Ċittadinanza permezz ta’ Naturalizzazzjoni abbażi tal-Mertu (S.L. 188.6)
+# Regolamenti dwar l-Għoti ta’ Ċittadinanza permezz ta’ Naturalizzazzjoni abbażi tal-Mertu (S.L. 188.06)
 
-*1*
-
-NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 LEĠISLAZZJONI SUSSIDJARJA 188.06
+**LEĠISLAZZJONI SUSSIDJARJA 188.06**
 
 **REGOLAMENTI DWAR L-GĦOTI TA’**
 
@@ -62,10 +60,6 @@ L-AVVIŻ LEGALI 437 tal-2020, kif emendat bl-Avviż Legali 159 tal- 2025.
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025. †Vide regolament 25 tal-Avviż Legali 159 tal-2025. ‡Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
-**NATURALIZZAZZJONI ABBAŻI TAL-MERTU**
-
-*[L.S. 188.06 2*
-
 "Bord ta’ Evalwazzjoni" jew il-"Bord" tfisser il-grupp ta’ individwi maħtura skont dawn ir-regolamenti sabiex jevalwaw l-applikazzjonijiet magħmula skont l-artikolu 10(9) tal-Att u sabiex iħejju rakkomandazzjoni fir-rigward ta’ kull applikazzjoni li għandha tiġi riferuta lill-Ministru responsabbli għaċ-ċittadinanza skont dawn ir-regolamenti;
 
 "data ta’ due diligence" tfisser kwalunkwe data personali li tappartjeni lill-applikant jew lid-dipendent jew lid-dipendenti jekk applikabbli, miġbura u pproċessata mill-Aġenzija bħala parti mill-proċess ta’ due diligence, bl-esklużjoni tad-data personali miġbura mill-Aġenzija direttament mingħand l-applikant, jew mid-dipendent jew mid-dipendenti, jekk applikabbli;
@@ -78,11 +72,9 @@ L-AVVIŻ LEGALI 437 tal-2020, kif emendat bl-Avviż Legali 159 tal- 2025.
 
 (ċ) wild tal-applikant prinċipali jew tad-dipendenti tiegħu kif imfisser fil-paragrafu (a) inkluż wild adottat, li kellu tmintax (18)-il sena iżda li jkun għadu ma għalaqx disgħa u għoxrin (29) sena, meta l-applikant prinċipali jissottometti ittra ta’ proposta skont ir-regolament 11A li tiġi aċċettata mill-Aġenzija, u li ma jkunx miżżewweġ u juri, għas-sodisfazzjon tal-Ministru, li huwa għalkollox mantnut jew li fil-biċċa l-kbira sostnut mill-applikant prinċipali;
 
-*3*
-
-NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 (d) wild tal-applikant prinċipali jew tad-dipendenti tiegħu kif imfisser fil-paragrafu (a), inkluż wild adottat, li fil-waqt meta l-applikant prinċipali jissottometti ittra ta’ proposta skont dawn ir-regolamenti jkun għalaq tmintax (18)-il sena u huwa għalkollox mantnut jew li fil-biċċa l-kbira sostnut mill-applikant prinċipali u li huwa persuna kwalifikata b’diżabilità kif imfisser fl-Att dwar Opportunitajiet Indaqs għal Persuni b’Diżabilità:
-
 *         Kap. 413.*
+
+(d) wild tal-applikant prinċipali jew tad-dipendenti tiegħu kif imfisser fil-paragrafu (a), inkluż wild adottat, li fil-waqt meta l-applikant prinċipali jissottometti ittra ta’ proposta skont dawn ir-regolamenti jkun għalaq tmintax (18)-il sena u huwa għalkollox mantnut jew li fil-biċċa l-kbira sostnut mill-applikant prinċipali u li huwa persuna kwalifikata b’diżabilità kif imfisser fl-Att dwar Opportunitajiet Indaqs għal Persuni b’Diżabilità:
 
 Iżda meta tali wild ma jkollux il-kapaċità legali għandhom japplikaw id-dispożizzjonijiet tal-artikolu 21(3) tal- Att;
 
@@ -104,11 +96,7 @@ Iżda meta tali wild ma jkollux il-kapaċità legali għandhom japplikaw id-disp
 
 "Kummissarju" tfisser il-Kummissarju għall- Informazzjoni u l-Protezzjoni tad-Data kif definit fl-Att dwar il-Protezzjoni u l-Privatezza tad-Data;
 
-"Ministru" għandu jkollha l-istess tifsira kif mogħti lilha [L.S. 188.06 NATURALIZZAZZJONI ABBAŻI TAL-MERTU
-
-fl-artikolu 2 tal-Att;
-
-*4*
+"Ministru" għandu jkollha l-istess tifsira kif mogħti lilha fl-artikolu 2 tal-Att;
 
 "persuna" tfisser persuna fiżika u, fejn applikabbli, tfisser persuna ġuridika;
 
@@ -146,9 +134,7 @@ L-Aġenzija għandha tipproċessa l-applikazzjonijiet kollha ppreżentati skont 
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025. †Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
-*5*
-
-NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 (ċ) hija ta’ interess eċċezzjonali għar-Repubblika ta’ Malta.
+(ċ) hija ta’ interess eċċezzjonali għar-Repubblika ta’ Malta.
 
 *Persuni li ma jikkwalifikawx biex ikunu naturalizzati abbażi tal-mertu. Emendat: A.L. 159 tal-2025.*
 
@@ -186,10 +172,6 @@ NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 (ċ) hija ta’ interess eċċez
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
-*6*
-
-[L.S. 188.06 NATURALIZZAZZJONI ABBAŻI TAL-MERTU
-
 (v) tħajjir ta’ persuni taħt l-età għall-prostituzzjoni; u
 
 (vi) serq ta’ persuna;
@@ -214,13 +196,11 @@ Iżda tali applikant jista’ xorta jitqies bħala eliġibbli sabiex japplika je
 
 (4) L-applikazzjonijiet kollha sottomessi għan-naturalizzazzjoni skont dawn ir-regolamenti jistgħu jiġu sottomessi minn applikant flimkien mad-dipendenti tiegħu, fejn applikabbli, jew minn tali professjonist kompetenti ieħor kif approvat mill-Aġenzija u debitament awtorizzat mill-applikant.
 
-(5) L-applikazzjonijiet kollha għandhom jiġu aċċettati u NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 pproċessati biss sakemm il-formoli kollha jimtlew, jiġu ddatati, ikkonfermati b’ġurament, fejn applikabbli, u ffirmati, u akkumpanjati mid-dokumenti u d-drittijiet kollha meħtieġa.
+(5) L-applikazzjonijiet kollha għandhom jiġu aċċettati u pproċessati biss sakemm il-formoli kollha jimtlew, jiġu ddatati, ikkonfermati b’ġurament, fejn applikabbli, u ffirmati, u akkumpanjati mid-dokumenti u d-drittijiet kollha meħtieġa.
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
 (6) L-Aġenzija għandha tiżgura li l-applikazzjonijiet kollha jkunu kompluti u korretti.
-
-*7*
 
 (7) Jekk applikant jew kwalunkwe mid-dipendenti tiegħu, jagħmel dikjarazzjoni falza jew inkella jħalli barra xi informazzjoni materjali, l-applikazzjoni tiegħu tista’ tiġi sospiża u/jew ikkunsidrata inammissibbli.
 
@@ -250,11 +230,9 @@ Iżda tali applikant jista’ xorta jitqies bħala eliġibbli sabiex japplika je
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025. †Vide regolament 25 tal-Avviż Legali 159 tal-2025. ‡Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
-*8 Sostitwit: A.L. 159 tal-2025.*
+**Il-Proċess ta’ Applikazzjoni u Evalwazzjoni**
 
-[L.S. 188.06 NATURALIZZAZZJONI ABBAŻI TAL-MERTU
-
-## Taqsima III\* — Il-Proċess ta’ Applikazzjoni u Evalwazzjoni
+*Sostitwit: A.L. 159 tal-2025.*
 
 *Dispożizzjonijiet speċjaliapplikabbli għal naturalizz-azzjoni abbażi tal-mertu. Sostitwit: A.L. 159 tal-2025.*
 
@@ -280,13 +258,11 @@ Iżda tali applikant jista’ xorta jitqies bħala eliġibbli sabiex japplika je
 
 *L.S. 586.08.*
 
-(a) taċċerta t-twettiq ta’ kontrolli ta’ due diligence anke minn partijiet terzi, inkluż fornitur wieħed (1) jew aktar ta’ servizzi speċjalizzati ta’ due diligence rikonoxxuti internazzjonalment, fir-rigward ta’ kull applikant u d-dipendenti NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 tiegħu, fejn applikabbli. Tali kontrolli tad-due diligence għandhom isiru fuq erba’ (4) livelli jew aktar, kif l-Aġenzija għandha tiddetermina minn żmien għal żmien u jistgħu jinkludu kontrolli tas-sigurtà li għandhom jitwettqu mill-awtoritajiet tal-infurzar tal-liġi f’konformità mar-Regolamenti dwar il- Protezzjoni tad-Data (Ipproċessar ta’ Data Personali minn Awtoritajiet Kompetenti għall-Finijiet tal-Prevenzjoni, l- Investigazzjoni, is-Sejbien jew il-Prosekuzzjoni ta’ Reati Kriminali jew l-Eżekuzzjoni ta’ Pieni Kriminali):
+(a) taċċerta t-twettiq ta’ kontrolli ta’ due diligence anke minn partijiet terzi, inkluż fornitur wieħed (1) jew aktar ta’ servizzi speċjalizzati ta’ due diligence rikonoxxuti internazzjonalment, fir-rigward ta’ kull applikant u d-dipendenti tiegħu, fejn applikabbli. Tali kontrolli tad-due diligence għandhom isiru fuq erba’ (4) livelli jew aktar, kif l-Aġenzija għandha tiddetermina minn żmien għal żmien u jistgħu jinkludu kontrolli tas-sigurtà li għandhom jitwettqu mill-awtoritajiet tal-infurzar tal-liġi f’konformità mar-Regolamenti dwar il- Protezzjoni tad-Data (Ipproċessar ta’ Data Personali minn Awtoritajiet Kompetenti għall-Finijiet tal-Prevenzjoni, l- Investigazzjoni, is-Sejbien jew il-Prosekuzzjoni ta’ Reati Kriminali jew l-Eżekuzzjoni ta’ Pieni Kriminali):
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025. †Vide regolament 25 tal-Avviż Legali 159 tal-2025. ‡Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
 Iżda fir-rigward tal-kontrolli li jikkonċernaw ir-riskji tal-ħasil tal-flus u l-finanzjament tat-terroriżmu, l-awtoritajiet tal-infurzar tal-liġi jistgħu jużaw l-għodod disponibbli użati mill-awtoritajiet pertinenti li jkollhom l-awtorità meħtieġa sabiex iwettqu tali kontrolli;
-
-*9*
 
 (b) ikollha l-informazzjoni rilevanti kollha pprovduta mill-applikant ivverifikata minn fornitur indipendenti wieħed (1) jew aktar ta’ servizzi ta’ due diligence, b’kunsiderazzjoni xierqa għal-leġiżlazzjoni u l-linji gwida dwar il-ġlieda kontra l-ħasil tal-flus u l-finanzjament tat-terroriżmu maħruġa mill-awtoritajiet kompetenti;
 
@@ -300,11 +276,7 @@ Iżda fir-rigward tal-kontrolli li jikkonċernaw ir-riskji tal-ħasil tal-flus u
 
 (3) Hekk kif l-Aġenzija tkun sodisfatta bil-kompletezza u t-twettiq tal-kontrolli kollha skont is-subregolament (2), għandha titlob lill-Bord sabiex jevalwa l-proposta sottomessa mill-applikant skont dawn ir-regolamenti. Matul dan il-proċess, il-Bord jista’, inter alia, jitlob dokumenti jew informazzjoni addizzjonali mingħand l-applikant, permezz tal-Aġenzija, kif iqis meħtieġ.
 
-(4) Il-Bord, wara l-proċess ta’ evalwazzjoni, għandu jkollu l-awtorità li jirrakkomanda l-proposta lill-Aġenzija għall-approvazzjoni jew iċ-ċaħda abbażi tal-valutazzjoni tiegħu. L-Aġenzija għandha sussegwentement tissottometti r-rakkomandazzjoni tal-Bord lill- Ministru għall-approvazzjoni finali jew għaċ-ċaħda. Il-Ministru ma [L.S. 188.06 NATURALIZZAZZJONI ABBAŻI TAL-MERTU
-
-għandux ikun obbligat li jipprovdi xi raġuni sabiex isostni d-deċiżjoni tiegħu, liema deċiżjoni għandha tkun finali.
-
-*10*
+(4) Il-Bord, wara l-proċess ta’ evalwazzjoni, għandu jkollu l-awtorità li jirrakkomanda l-proposta lill-Aġenzija għall-approvazzjoni jew iċ-ċaħda abbażi tal-valutazzjoni tiegħu. L-Aġenzija għandha sussegwentement tissottometti r-rakkomandazzjoni tal-Bord lill- Ministru għall-approvazzjoni finali jew għaċ-ċaħda. Il-Ministru ma għandux ikun obbligat li jipprovdi xi raġuni sabiex isostni d-deċiżjoni tiegħu, liema deċiżjoni għandha tkun finali.
 
 (5) Jekk il-proposta tiġi miċħuda mill-Ministru, l-Aġenzija għandha tavża lill-applikant bil-miktub dwar ir-rifjut.
 
@@ -330,13 +302,11 @@ Iżda fejn l-applikant ikun issottometta ittra ta’ proposta u ma huwiex l-appl
 
 (a) taġġorna d-due diligence tagħha;
 
-(b) titlob lill-applikant sabiex jipproduċi kwalunkwe NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 dokumentazzjoni u informazzjoni ulterjuri li hija tista’ teħtieġ, dwar l-applikant jew id-dipendenti tiegħu, fejn applikabbli fid-diskrezzjoni tagħha;
+(b) titlob lill-applikant sabiex jipproduċi kwalunkwe dokumentazzjoni u informazzjoni ulterjuri li hija tista’ teħtieġ, dwar l-applikant jew id-dipendenti tiegħu, fejn applikabbli fid-diskrezzjoni tagħha;
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
 (ċ) titlob lill-applikant sabiex iħallas kwalunkwe dritt amministrattiv applikabbli mhux rimborsabbli kif jista’ jiġi stabbilit mill-Aġenzija minn żmien għal żmien jew kwalunkwe drittijiet oħra skont il-każ.
-
-*11*
 
 (3) Meta l-Aġenzija tkun sodisfatta bil-kompletezza u t-twettiq tal-kontrolli kollha skont ir-regolament 11B(2), hija għandha titlob lill-Bord sabiex jevalwa l-applikazzjoni sottomessa mill-applikant u d-dipendenti tiegħu, fejn applikabbli, wara l-ittra ta’ proposta sottomessa minnu. Tali evalwazzjoni ulterjuri għandha titwettaq f’perjodu ta’ żmien raġonevoli. Matul dan il-proċess, il-Bord jista’ jitlob dokumenti jew informazzjoni addizzjonali mingħand l-applikant, permezz tal-Aġenzija, kif iqis meħtieġ.
 
@@ -354,13 +324,9 @@ Iżda fejn l-applikant ikun issottometta ittra ta’ proposta u ma huwiex l-appl
 
 (a) president li għandu jinħatar mill-Ministru wara konsultazzjoni mal-Kabinett tal-Ministri, li għandu jkun persuna li tkun ipprattikat il-professjoni ta’ avukat għal mill-inqas seba’ (7) snin; u
 
-(b) żewġ (2) membri li għandhom jintgħażlu mill- President minn fost il-membri ta’ tliet (3) panels li għandhom jiġu maħtura mill-Ministru, liema panels għandhom jinkludu [L.S. 188.06 NATURALIZZAZZJONI ABBAŻI TAL-MERTU
+(b) żewġ (2) membri li għandhom jintgħażlu mill- President minn fost il-membri ta’ tliet (3) panels li għandhom jiġu maħtura mill-Ministru, liema panels għandhom jinkludu persuni li għandhom l-għarfien dwar l-isport, il-kultura, l-arti, ix-xjenza, ir-riċerka, il-filantropija, it-teknoloġija u l-intraprenditorija u kwalunkwe qasam ieħor kif jista’ jiġi stabbilit minn żmien għal żmien.
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025.
-
-persuni li għandhom l-għarfien dwar l-isport, il-kultura, l-arti, ix-xjenza, ir-riċerka, il-filantropija, it-teknoloġija u l-intraprenditorija u kwalunkwe qasam ieħor kif jista’ jiġi stabbilit minn żmien għal żmien.
-
-*12*
 
 (3) Il-President u l-membri maħtura tal-panel tal-Bord ta’ Evalwazzjoni għandu jkollhom il-kariga għal terminu ta’ tliet (3) snin u taħt tali kondizzjonijiet kif jistgħu jiġu stabbiliti fl-ittra tal-ħatra tagħhom, u għandhom, malli jiskadi t-terminu tal-kariga tagħhom, ikunu eliġibbli sabiex jinħatru mill-ġdid.
 
@@ -384,13 +350,11 @@ persuni li għandhom l-għarfien dwar l-isport, il-kultura, l-arti, ix-xjenza, i
 
 (12) Kwalunkwe avviż maħruġ mill-Bord għandu jiġi ffirmat mill-President u kontrofirmat mis-Segretarju.
 
-(13) Is-sejbiet tal-Bord ta’ Evalwazzjoni għandhom jiġu ffirmati mill-President u mis-Segretarju u jintbagħtu lill-Ministru għall- NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 konsiderazzjoni tiegħu permezz tal-Aġenzija.
+(13) Is-sejbiet tal-Bord ta’ Evalwazzjoni għandhom jiġu ffirmati mill-President u mis-Segretarju u jintbagħtu lill-Ministru għall-konsiderazzjoni tiegħu permezz tal-Aġenzija.
 
 *Proċess ta’ evalwazzjoni. Sostitwit: A.L. 159 tal-2025.*
 
 13.\* (1) Il-Bord ta’ Evalwazzjoni għandu jevalwa l-ittra ta’ proposta u l-applikazzjonijiet sottomessi skont dawn ir-regolamenti u jħejji rakkomandazzjoni. Il-Bord jista’, fi kwalunkwe stadju, jintervista personalment lill-applikant u lil kwalunkwe persuna oħra kif jista’ jqis xieraq.
-
-*13*
 
 (2) Il-Bord jista’ wkoll jintervista lir-rappreżentant legali tal-korp kompetenti indikat li japprova lill-applikant u lil kwalunkwe persuna oħra li jista’ jqis xieraq.
 
@@ -430,10 +394,6 @@ Iżda l-Ministru jista’ jestendi l-imsemmi perjodu ta’ sitt (6) xhur f’ċi
 
 \*\*Vide regolament 25 tal-Avviż Legali 159 tal-2025. ††Vide regolament 25 tal-Avviż Legali 159 tal-2025. ‡‡Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
-*14*
-
-[L.S. 188.06 NATURALIZZAZZJONI ABBAŻI TAL-MERTU
-
 ## Taqsima V — Dispożizzjonijiet Varji
 
 ### 20.
@@ -460,15 +420,13 @@ Iżda l-Ministru jista’ jestendi l-imsemmi perjodu ta’ sitt (6) xhur f’ċi
 
 22.† (1) L-applikant għandu, qabel ma jieħu l-ġurament ta’ lealtà, jimpenja ruħu u jikkonferma bil-miktub li għandu jkompli josserva u jissodisfa l-obbligi kontinwi kollha u tali impenji oħra, f’termini tal-applikazzjoni tiegħu u ta’ dawn ir-regolamenti, jew kif jista’ jiġi stipulat xort’oħra mill-Ministru fl-ittra ta’ approvazzjoni kif applikabbli.
 
-(2) L-Aġenzija għandha tiżgura t-twettiq kontinwu tal- NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 impenji u l-obbligi kontinwi, u jekk ikun meħtieġ, tista’ titlob prova tal-osservanza ta’ dawn l-impenji u l-obbligi u twettaq il-verifiki tagħha stess.
+(2) L-Aġenzija għandha tiżgura t-twettiq kontinwu tal-impenji u l-obbligi kontinwi, u jekk ikun meħtieġ, tista’ titlob prova tal-osservanza ta’ dawn l-impenji u l-obbligi u twettaq il-verifiki tagħha stess.
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025. †Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
 *Linji gwida. Emendat: A.L. 159 tal-2025.*
 
 23.\* L-Aġenzija tista’, minn żmien għal żmien, toħroġ linji gwida biex tispeċifika l-aspetti operattivi u l-interpretazzjonijiet skont dawn ir-regolamenti.
-
-*15*
 
 *Ċaħda taċ-ċittadinanza. Sostitwit: A.L. 159 tal-2025.*
 
@@ -496,10 +454,6 @@ Iżda l-Ministru jista’ jestendi l-imsemmi perjodu ta’ sitt (6) xhur f’ċi
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025. †Vide regolament 25 tal-Avviż Legali 159 tal-2025. ‡Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
-*16*
-
-[L.S. 188.06 NATURALIZZAZZJONI ABBAŻI TAL-MERTU
-
 (b) tapplika miżuri tekniċi u organizzattivi xierqa biex jiżguraw livell ta’ sigurtà xierqa għar-riskju kkawżat, u jipprevjenu abbuż jew aċċess illegali għal jew għat trasferiment ta’ data personali li tappartjeni għall-applikanti jew għall-benefiċjarju, u, jew id-dipendenti.
 
 (3) Il-kontrollur għandu jżomm id-data personali tal-benefiċjarju u, jew tad-dipendenti tiegħu sakemm iċ-ċertifikat maħruġ lill-benefiċjarju u d-dipendenti, jekk hemm, skont dawn ir-regolamenti jibqa’ validu:
@@ -522,9 +476,7 @@ Iżda wkoll l-Uffiċjal tal-Protezzjoni tad-Data tal- Aġenzija maħtur skont l-
 
 Iżda tali raġunijiet li jiġġustifikaw ir-restrizzjonijiet għandhom jiġu dokumentati u magħmula disponibbli lill-Kummissarju meta u kif mitlub.
 
-*17*
-
-NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 (7) Fejn ir-raġunijiet għal restrizzjoni ma għadhomx japplikaw aktar, l-Aġenzija għandha tneħħi r-restrizzjoni u tinforma kif xieraq lis-suġġett tad-data kkonċernat u timxi mad-drittijiet u l-obbligazzjonijiet provduti fl-Artikoli 14 sa 20 u l-Artikolu 34 tar- Regolament.
+(7) Fejn ir-raġunijiet għal restrizzjoni ma għadhomx japplikaw aktar, l-Aġenzija għandha tneħħi r-restrizzjoni u tinforma kif xieraq lis-suġġett tad-data kkonċernat u timxi mad-drittijiet u l-obbligazzjonijiet provduti fl-Artikoli 14 sa 20 u l-Artikolu 34 tar- Regolament.
 
 (8) L-Aġenzija għandha tirrevedi l-applikazzjoni tar-restrizzjonijiet msemmija f’dan ir-regolament kull sena u skont ir-riżultat tar-reviżjoni tinforma lis-suġġett tad-data kif xieraq.
 
@@ -542,11 +494,9 @@ Iżda l-Aġenzija tiġġustifika l-preġudizzju mitlub mill-Aġenzija lill-Kummi
 
 (10) F’dawn ir-regolamenti kemm-il darba r-rabta tal-kliem ma teħtieġx xort’ oħra, l-Artikolu 4 tar-Regolament għandu japplika mutatis mutandis.
 
-*18 Kunfidenzjalità. Emendat: A.L. 159 tal-2025.*
+*Kunfidenzjalità. Emendat: A.L. 159 tal-2025.*
 
-[L.S. 188.06 NATURALIZZAZZJONI ABBAŻI TAL-MERTU
-
-27.\* (1) Ħlief għal qadi xieraq tad-dmirijiet jew funzjonijiet tagħhom skont dawn ir-regolamenti u skont it-termini tal- Att, inkluż għall-finijiet tal-kontrolli tad-due diligence msemmija fir-regolamenti 11A(2) u 11B(2), jew kif jista’ jkun provdut xort’oħra fi kwalunkwe liġi oħra, l-Aġenzija u l-uffiċjali u l-impjegati tal-Aġenzija, għandhom jittrattaw f’kull waqt l-informazzjoni kollha provduta skont dawn ir-regolamenti bħala kunfidenzjali u l-Aġenzija għandha tużaha biss għall-finijiet ta’ dawn ir-regolamenti, u ma għandhiex, direttament jew indirettament, tiżvela tali informazzjoni lil kwalunkwe persuna oħra, ħlief bil-kunsens tal-persuna li magħha tirrelata l-informazzjoni. Għall-finijiet ta’ dan is-subregolament "impjegati" u "uffiċjali" għandhom jinkludu impjegati u uffiċjali preċedenti.
+Ħlief għal qadi xieraq tad-dmirijiet jew funzjonijiet tagħhom skont dawn ir-regolamenti u skont it-termini tal- Att, inkluż għall-finijiet tal-kontrolli tad-due diligence msemmija fir-regolamenti 11A(2) u 11B(2), jew kif jista’ jkun provdut xort’oħra fi kwalunkwe liġi oħra, l-Aġenzija u l-uffiċjali u l-impjegati tal-Aġenzija, għandhom jittrattaw f’kull waqt l-informazzjoni kollha provduta skont dawn ir-regolamenti bħala kunfidenzjali u l-Aġenzija għandha tużaha biss għall-finijiet ta’ dawn ir-regolamenti, u ma għandhiex, direttament jew indirettament, tiżvela tali informazzjoni lil kwalunkwe persuna oħra, ħlief bil-kunsens tal-persuna li magħha tirrelata l-informazzjoni. Għall-finijiet ta’ dan is-subregolament "impjegati" u "uffiċjali" għandhom jinkludu impjegati u uffiċjali preċedenti.
 
 (2) Ħadd maħtur jew impjegat mill-Aġenzija fit-twettiq tad-disposizzjonijiet ta’ dawn ir-regolamenti ma jkun meħtieġ jipproduċi f’kull qorti, tribunal, bord jew kumitat ta’ inkjesta kull dokument jew biex jikxef kull kwistjoni li tiġi avżata taħt id-dmirijiet tiegħu skont dawn ir-regolamenti, ħlief kif jista’ jkun meħtieġ skont kull liġi applikabbli jew biex iwettaq id-dispożizzjonijiet ta’ dawn ir-regolamenti, jew għal xi reat kontra xi appell li jkun sar jew proċeduri istitwiti skont dawn ir-regolamenti jew skont dawn ir-regolamenti.
 
@@ -562,13 +512,11 @@ L-informazzjoni kollha miksuba permezz tal-proċess ta’ due diligence u s-sors
 
 Kull persuna tista’ tagħmel żvelar protett lill-Aġenzija:
 
-Iżdaa żvelar jitqies li huwa żvelar protett jekk isir in bona fide, jekk il-persuna li tagħmel l-iżvelar raġonevolment temmen, fil- NATURALIZZAZZJONI ABBAŻI TAL-MERTU [L.S.188.06 waqt li tagħmel l-iżvelar ibbażat fuq l-informazzjoni li għandha f’dak il-mument, li l-informazzjoni żvelata u kwalunkwe allegazzjoni li tinsab fiha jkunu sostanzjalment veri u li l-informazzjoni divulgata għandha t-tendenza li turi prattika mhux xierqa minn applikant prinċipali jew minn kwalunkwe dipendenti u l-iżvelar ma jsirx għal skopijiet ta’ qligħ personali:
+Iżdaa żvelar jitqies li huwa żvelar protett jekk isir in bona fide, jekk il-persuna li tagħmel l-iżvelar raġonevolment temmen, fil-waqt li tagħmel l-iżvelar ibbażat fuq l-informazzjoni li għandha f’dak il-mument, li l-informazzjoni żvelata u kwalunkwe allegazzjoni li tinsab fiha jkunu sostanzjalment veri u li l-informazzjoni divulgata għandha t-tendenza li turi prattika mhux xierqa minn applikant prinċipali jew minn kwalunkwe dipendenti u l-iżvelar ma jsirx għal skopijiet ta’ qligħ personali:
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025.
 
 Iżda wkoll, l-iżvelar għandu isir fuq bażi ta’ tixħim, atti ta’ korruzzjoni u atti mhux xierqa ta’ applikant ewlieni jew ta’ dipendenti.
-
-*19*
 
 *Miżati.*
 
@@ -603,10 +551,6 @@ President/Membru
 Imħassra bl-Avviż Legali 159 tal-2025.
 
 \*Vide regolament 25 tal-Avviż Legali 159 tal-2025. †Vide regolament 25 tal-Avviż Legali 159 tal-2025. ‡Vide regolament 25 tal-Avviż Legali 159 tal-2025. §Vide regolament 25 tal-Avviż Legali 159 tal-2025.
-
-*20*
-
-[L.S. 188.06 NATURALIZZAZZJONI ABBAŻI TAL-MERTU
 
 ## It-Tielet Skeda \*
 

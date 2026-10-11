@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet għall-Użu tal-Faċilitajiet tal-Park Nazzjonali ta’ Malta ġewwa Ta’ Qali (S.L. 35.41)
 
-*1*
-
-NAZZJONALI TA’ MALTA ĠEWWA TA’ QALI [L.S. 35.41]
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.41**
 
 **REGOLAMENTI DWAR DRITTIJIET GĦALL-UŻU**
@@ -62,11 +58,7 @@ Iżda jekk il-faċilitajiet jintużaw għal perjodu ta’ żmien bejn erbat (4) 
 
 ## 4. Garanzija bankarja.
 
-L-organizzaturi ta’ kwalunkwe avveniment miżmum fil- Park jistgħu jkunu mitluba jagħtu garanzija bankarja bħala garanzija [L.S. 35.41] NAZZJONALI TA’ MALTA ĠEWWA TA’ QALI
-
-għall-attività jew l-avveniment. L-ammont tal-garanzija għandu jiġi stabbilit fid-diskrezzjoni tad-Direttur Ġenerali tad-Dipartiment wara konsultazzjoni mal-Korp.
-
-*2*
+L-organizzaturi ta’ kwalunkwe avveniment miżmum fil- Park jistgħu jkunu mitluba jagħtu garanzija bankarja bħala garanzija għall-attività jew l-avveniment. L-ammont tal-garanzija għandu jiġi stabbilit fid-diskrezzjoni tad-Direttur Ġenerali tad-Dipartiment wara konsultazzjoni mal-Korp.
 
 ## 5. Eżenzjoni mill-obbligu ta’ ħlas ta’ drittijiet.
 
@@ -83,10 +75,6 @@ Il-Ministru u, jew id-delegat tiegħu għandu jkollu d-diskrezzjoni li jistabbil
 ## 8. Permessi oħra.
 
 L-awtorizzazzjoni sabiex tinżamm attività jew avveniment fil-Park ma għandhiex teżenta lill-applikant milli jikseb il-permessi uffiċjali kollha meħtieġa sabiex tinżamm l-imsemmija attività jew avveniment.
-
-*3*
-
-NAZZJONALI TA’ MALTA ĠEWWA TA’ QALI [L.S. 35.41]
 
 ## L-EWWEL SKEDA
 
@@ -143,10 +131,6 @@ għal attivitajiet esklussivi
 fil-jum tal-kunċert
 
 6 għal kull jum ta’ prova qabel il-kunċert
-
-*4*
-
-[L.S. 35.41] NAZZJONALI TA’ MALTA ĠEWWA TA’ QALI
 
 ## IT-TIENI SKEDA
 

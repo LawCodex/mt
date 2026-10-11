@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Kreditu ta’ Taxxa (Spejjeż ta’ Terapija provduta lil Tfal b’Diżabilità) (S.L. 123.209)
 
-KREDITU TA’ TAXXA (SPEJJEŻ TA’ TERAPIJA
-
-*1*
-
-PROVDUTA LIL TFAL B’DIŻABILITÀ) [L.S.123.209 LEĠISLAZZJONI SUSSIDJARJA 123.209
+**LEĠISLAZZJONI SUSSIDJARJA 123.209**
 
 **REGOLI DWAR KREDITU TA’ TAXXA**
 
@@ -60,11 +56,9 @@ F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
 (1) Bla ħsara għad-dispożizzjonijiet l-oħra ta’ dawn ir-regoli, għandu jingħata kreditu ta’ taxxa lil kull persuna li fis-sena li tiġi minnufih qabel is-sena ta’ stima li tibda fl-1 ta’ Jannar 2024 jew sussegwenti ħallsu spejjeż kwalifikanti.
 
-(2) Il-kreditu ta’ taxxa li jingħata skont dawn ir-regoli għandu jkun fl-ammont ta’ ħames mitt euro (€500) għal kull wild li fir-rigward tiegħu tħallsu spejjeż kwalifikanti, jew l-ammont tal-ispejjeż kwalifikanti li jkunu attwalment tħallsu, liema minnhom ikun l-inqas. KREDITU TA’ TAXXA (SPEJJEŻ TA’ TERAPIJA PROVDUTA [L.S. 123.209 LIL TFAL B’DIŻABILITÀ)
+(2) Il-kreditu ta’ taxxa li jingħata skont dawn ir-regoli għandu jkun fl-ammont ta’ ħames mitt euro (€500) għal kull wild li fir-rigward tiegħu tħallsu spejjeż kwalifikanti, jew l-ammont tal-ispejjeż kwalifikanti li jkunu attwalment tħallsu, liema minnhom ikun l-inqas.
 
 (3) Il-kreditu ta’ taxxa msemmi f’dawn ir-regoli għandu jingħata biss dwar spejjeż li jiġu rrapportati lill-Kummissarju tat-Taxxi skont ir-regola 4.
-
-*2*
 
 (4) Minkejja d-dispożizzjonijiet l-oħra ta’ din ir-regola, ma għandu jingħata l-ebda kreditu ta’ taxxa taħt dawn ir-regoli fir-rigward ta’ spejjeż inkorsi wara l-31 ta’ Diċembru 2024.
 

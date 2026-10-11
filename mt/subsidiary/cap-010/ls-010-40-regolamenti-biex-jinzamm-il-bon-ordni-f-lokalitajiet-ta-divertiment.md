@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti biex jinżamm il-Bon Ordni f Lokalitajiet ta Divertiment (S.L. 10.40)
 
-*1*
-
-F’LOKALITAJIET TA’ DIVERTIMENT [L.S.10.40
-
 **LEĠISLAZZJONI SUSSIDJARJA 10.40**
 
 **REGOLAMENTI BIEX JINŻAMM IL-BON ORDNI**
@@ -55,11 +51,7 @@ F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma teħtieġx mod ieħor -
 
 "post ta’ kunċert" tfisser lokalità fejn tkun qed tindaqq il-mużika minn wieħed jew iktar minn artist wieħed illi jkunu preżenti u qed jeżegwixxu għal udjenza;
 
-"proprjetarju" dwar kull divertiment tfisser il-persuna li torganizza jew tmexxi d-divertiment jew li tkun responsabbli għall-organizzazzjoni jew għat-tmexxija tiegħu u tinkludi kull persuna li jkollha xi interess finanzjarju fid-divertiment jew f’dak li jidħol minnu, u kull persuna li f ’isimha jiġu riċevuti ħlasijiet għal divertiment; u f’każ ta’ persuna ġuridika, il-frażi "proprjetarju" għandha tinkludi wkoll lill-manager jew lil kull uffiċjal prinċipali ieħor ta’ dik il-persuna ġuridika. "Proprjetarju" ma tinkludix il- Kummissarju tal-artijiet fir-rigward ta’ lokalitajiet ta’ divertiment [L.S.10.40 F’LOKALITAJIET TA’ DIVERTIMENT
-
-jew postijiet ta’ kunċerti illi jikkonsistu f’toroq jew xi proprjetà pubblika oħra.
-
-*2*
+"proprjetarju" dwar kull divertiment tfisser il-persuna li torganizza jew tmexxi d-divertiment jew li tkun responsabbli għall-organizzazzjoni jew għat-tmexxija tiegħu u tinkludi kull persuna li jkollha xi interess finanzjarju fid-divertiment jew f’dak li jidħol minnu, u kull persuna li f ’isimha jiġu riċevuti ħlasijiet għal divertiment; u f’każ ta’ persuna ġuridika, il-frażi "proprjetarju" għandha tinkludi wkoll lill-manager jew lil kull uffiċjal prinċipali ieħor ta’ dik il-persuna ġuridika. "Proprjetarju" ma tinkludix il- Kummissarju tal-artijiet fir-rigward ta’ lokalitajiet ta’ divertiment jew postijiet ta’ kunċerti illi jikkonsistu f’toroq jew xi proprjetà pubblika oħra.
 
 ## 3. Dħul f’post taż-żfin.
 
@@ -97,10 +89,6 @@ Iżda wkoll avvenimenti fil-miftuħ li jsiru f'żona ta’ 750 metru kwadru jew 
 
 (6) Persuni ta’ taħt l-età ta’ sbatax-il sena jistgħu jitħallew jidħlu f’post ta’ kunċert:
 
-*3*
-
-F’LOKALITAJIET TA’ DIVERTIMENT [L.S.10.40
-
 Iżda:
 
 (a) fejn xorb alkoħoliku jinbiegħ jew ikun disponibbli f’post ta’ kunċert li fih jitħallew jidħlu persuni ta’ taħt l-età ta’ sbatax-il sena, dak ix-xorb alkoħoliku għandu jinbiegħ jew jiġi servut biss f’post hekk kif indikat jew approvat mill-Kummissarju fil-post tal-kunċert li jkun fiżikament maqtugħ u li jkollhom aċċess għalih biss persuni ta’ ’l fuq minn sbatax-il sena; u
@@ -126,10 +114,6 @@ Iżda:
 (4) Il-Kummissarju jista’ jkeċċi mill-fond lil kull min jagħmel storbju jew ma jobdix l-ordnijiet tiegħu.
 
 (5) Kemm-il darba jinqala’ xi diżordni kbir, il-Kummissarju jista f’kull ħin iwaqqaf id-divertiment u jagħlaq il-fond u jordna lill-pubbliku biex ibattal il-fond.
-
-*4*
-
-[L.S.10.40 F’LOKALITAJIET TA’ DIVERTIMENT
 
 ## 8. Il-ħlas dovut għad-dħul.
 
@@ -167,10 +151,6 @@ Iżda fejn il-post fil-miftuħ fejn ikun ser isir il-party, kunċert jew disco i
 
 Ma għandu jingħata ebda permess jew liċenza li jkunu jippermettu li party, kunċert jew disco f’lokalità ta’ divertiment jew post ta’ kunċert magħluq ikun jibda, jew ikompli, fi jew bejn l-erbgħa ta’ filgħodu u d-disgħa ta’ filgħodu.
 
-*5*
-
-F’LOKALITAJIET TA’ DIVERTIMENT [L.S.10.40
-
 ## 12. L-akbar numru ta’ persuni li jistgħu jiddaħħlu.
 
 *Miżjud: A.L. 132 tal-1999. Emendat: A.L. 269 tal-2011.*
@@ -204,10 +184,6 @@ Il-Kummissarju tal-Pulizija għandu jiċħad kull applikazzjoni li ssirlu għal 
 ## 16. Piena aktar gravi. Kap. 9.
 
 Meta persuna tinstab ħatja ta’ reat bi ksur ta’ dawn ir-regolamenti, liema reat, sew taħt il-Kodiċi Kriminali sew taħt kull liġi oħra, ikollu piena iktar gravi minn dik mogħtija b’dawn ir-regolamenti, il-qorti għandha twaħħal dik il-piena li tkun l-aktar gravi.
-
-*6*
-
-[L.S.10.40 F’LOKALITAJIET TA’ DIVERTIMENT
 
 ## 17. Bord ta’ Sorveljanza għas- Saħħa u għall- Ħarsien.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta' Bachelor of Dental Surgery - B.Ch.D. - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.134)
 
-KORS G}ALL-GRAD TA’
-
-*1*
-
-BACHELOR OF DENTAL SURGERY - B.CH.D. [L.S.327.134
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.134**
 
 **REGOLAMENTI TAL-KORS GĦALL-GRAD**

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru għall-Finanzi għall-ħruġ ta’ Euro 100,000,000 Stock tal-Gvern ta’ Malta (S.L. 161.132)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [L.S.161.132
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.132**
 
 DIRETTIVA MILL-MINISTRU GĦALL-FINANZI GĦALL-ĦRUĠ TA’ EURO 100,000,000
@@ -69,11 +65,7 @@ Is-somma ta’ flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta�
 
 (1) L-imgħax bir-rata ta’ Euro 2.15 għal kull Euro 100, tal- 4.3% Stock tal-Gvern ta’ Malta 2033 (I) jitħallas kull sitt xhur b’lura fl-1 ta’ Frar u fl-1 ta’ Awwissu ta’ kull sena sakemm idum l-iStock:
 
-(a) l-ewwel ħlas pro rata tal-imgħax fuq l-ammont allokat mill-applikazzjonijiet sottomessi minn membri tal- [L.S.161.132 STOCK TAL-GVERN TA’ MALTA
-
-pubbliku, li jkopri il-perjodu bejn id-9 ta’ Ġunju, 2014 u l-31 ta’ Lulju, 2014 (iż-żewġ dati inklużi) jsir fl-1 ta’ Awwissu, 2014;
-
-*2*
+(a) l-ewwel ħlas pro rata tal-imgħax fuq l-ammont allokat mill-applikazzjonijiet sottomessi minn membri tal-pubbliku, li jkopri il-perjodu bejn id-9 ta’ Ġunju, 2014 u l-31 ta’ Lulju, 2014 (iż-żewġ dati inklużi) jsir fl-1 ta’ Awwissu, 2014;
 
 (b) l-ewwel ħlas pro rata tal-imgħax fuq l-ammont allokat mill-applikazzjonijiet b’irkant sottomessi minn investituri istituzzjonali, li jkopri l-perjodu bejn it-12 ta’ Ġunju, 2014 u l-31 ta’ Lulju, 2014 (iż-żewġ dati inklużi) isir fl-1 ta’ Awwissu, 2014.
 

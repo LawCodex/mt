@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Drittijiet għal Ċertifikati Rigward Mediċini"
-identifier: "S.L. 101.4"
+identifier: "S.L. 101.04"
 eli: "https://legislation.mt/eli/sl/101.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/101.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Drittijiet għal Ċertifikati Rigward Mediċini (S.L. 101.4)
+# Regolamenti dwar Drittijiet għal Ċertifikati Rigward Mediċini (S.L. 101.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 101.04**
 

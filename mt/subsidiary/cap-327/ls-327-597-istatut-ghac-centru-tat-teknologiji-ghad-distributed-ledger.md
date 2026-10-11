@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Istatut għaċ-Ċentru tat-Teknoloġiji għad-Distributed Ledger (S.L. 327.597)
 
-*1*
-
-GĦAD-DISTRIBUTED LEDGER [L.S. 327.597 LEĠISLAZZJONI SUSSIDJARJA 327.597
+**LEĠISLAZZJONI SUSSIDJARJA 327.597**
 
 **STATUT GĦAĊ-ĊENTRU TAT-TEKNOLOĠIJI**
 
@@ -57,9 +55,7 @@ L-għanijiet taċ-Ċentru huma dawn:
 
 (c) li jforni lid-diversi fakultajiet, instituti, ċentri u skejjel b’tagħlim ta’ livelli akkademiċi varji relatati mal- Blockchain u d-DLT;
 
-*2*
-
-[L.S. 327.597 GĦAD-DISTRIBUTED LEDGER (d) li jiżviluppa taqsimiet ta’ studju u programmi ta’ studju li jwasslu għar-rikonoxximent sal-ewwel grad jew wara l-ewwel grad;
+(d) li jiżviluppa taqsimiet ta’ studju u programmi ta’ studju li jwasslu għar-rikonoxximent sal-ewwel grad jew wara l-ewwel grad;
 
 (e) li jgħin fl-isforzi biex jiġġenera u jikkoordina riċerka u fondi li huma relatati mal-Blockchain u d- DLT;
 
@@ -85,13 +81,11 @@ L-Awtorità. 6. Iċ-Ċentru jitmexxa minn Bord li jkun magħmul kif ġej:
 
 (v) mhux aktar minn żewġ rappreżentanti eletti minn u fost l-istudenti rreġistrat fiċ-Ċentru; u
 
-(vi) mhux aktar minn ħames persuni li għandhom il-kompetenza u l-esperjenza fil- qasam tal- DLT u teknoloġiji relatati u li jkunu rrakkomandati mill-Bord u approvati mis- GĦAD-DISTRIBUTED LEDGER [L.S. 327.597 Senat.
+(vi) mhux aktar minn ħames persuni li għandhom il-kompetenza u l-esperjenza fil- qasam tal- DLT u teknoloġiji relatati u li jkunu rrakkomandati mill-Bord u approvati mis- Senat.
 
 ## 7. Ir-Reġistrar jew id-delegat iservi bħala s-Segretarju tal- Bord.
 
 Il-membri kollha tal-Bord, għajr dawk li huma maħtura ex officio, u ż-żewġ rappreżentanti tal-istudenti jinħatru għal perjodu ta’ sena, li jista’ jiġi mġedded sa erba’ snin. Membru li jirtira hu eliġibbli li jerġa’ jinħatar.
-
-*3*
 
 ## 8.
 
@@ -115,11 +109,9 @@ Il-funzjonijiet tal-Bord ikunu dawn li ġejjin:
 
 (vii) jirrakkomanda lill-Kunsill il-ħolqien jew it-tneħħija ta’ postijiet akkademiċi u mhux akkademiċi fiċ-Ċentru; u
 
-(viii) jipproponi għall-approvazzjoni tas-Senat, il- Bordijiet ta’ Studji u l-Bordijiet tal- [L.S. 327.597 GĦAD-DISTRIBUTED LEDGER Eżaminaturi għall-programmi ta’ studji. Il-Ħatra tad- 9. Iċ-Ċentru jkollu Direttur u l-Staff kif ġej:
+(viii) jipproponi għall-approvazzjoni tas-Senat, il- Bordijiet ta’ Studji u l-Bordijiet tal- Eżaminaturi għall-programmi ta’ studji. Il-Ħatra tad- 9. Iċ-Ċentru jkollu Direttur u l-Staff kif ġej:
 
 Direttur u l-Istaff.
-
-*4*
 
 (a) id-Direttur taċ-Ċentru jinħatar skont il-proċedura għall-ħatra tad-Diretturi tal-Istituti, Ċentri u Skejjel kif approvata mill-Kunsill tal-Università, għal perjodu ta’ sena, bil-possibilità li l-ħatra tiġġedded kull sena skont kriterji stabiliti ta’ ħiliet, il-ħtiġijiet taċ-Ċentru u tal-Università, għal perjodu totali li ma jeċċedix l-erba’ (4) snin; u
 

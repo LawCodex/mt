@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Il-Prinċipalità ta’ Liechtenstein) (S.L. 123.155)
 
-*1*
-
-(IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN) [L.S.123.155
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.155**
 
 **ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA**
@@ -58,8 +54,6 @@ B’dan qiegћed jiġi dikjarat:
 (ċ) illi l-Ftehim għandu jidħol fis-seħħ f’dik id-data li tkun mħabbra b’avviż fil-Gazzetta tal-Gvern.\*
 
 \*ara l-artikolu 1(1) ta’ dan l-Ordni kif promulgat oriġinarjament, u l-Avviż Legali 259 tal-2014.
-
-2 [L.S.123.155 (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN)
 
 ## SKEDA
 
@@ -129,8 +123,6 @@ It-taxxi eżistenti li dwarhom japplika dan il-Ftehim huma partikolarment: a) fi
 
 b) f’Malta:
 
-(IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN) [L.S.123.155 3
-
 it-taxxa fuq l-income;
 
 (hawnhekk iżjed ’il quddiem imsejћa "it-taxxa ta’ Malta").
@@ -173,9 +165,7 @@ k) il-frażi "ċittadin", fir-rigward ta’ Stat Kontraenti, tfisser:
 
 (i) kull individwu li jkollu ċ-ċittadinanza ta’ dak l-Istat Kontraenti;
 
-(ii) kull persuna ħlief għal individwu li jiksbu l-istatus tagћhom bћala 4 [L.S.123.155 (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN)
-
-tali mill-liġijiet li jkunu fis-sehh f’dak l-Istat Kontraenti;
+(ii) kull persuna ħlief għal individwu li jiksbu l-istatus tagћhom bћala tali mill-liġijiet li jkunu fis-sehh f’dak l-Istat Kontraenti;
 
 l) il-frażi "fond ta’ investiment" tfisser:
 
@@ -201,9 +191,7 @@ m) il-frażi "fond jew skema ta’ pensjoni" tfisser:
 
 \2. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewg Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
 
-a) huwa gћandu jitqies li jkun residenti biss tal-Istat li fih ikollu dar permanenti gћad-dispożizzjoni tiegћu; jekk huwa jkollu dar permanenti gћad-dispożizzjoni tiegћu fiż-żewg Stati, huwa gћandu jitqies li jkun residenti biss tal-Istat li miegћu r-relazzjonijiet tiegћu personali u (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN) [L.S.123.155 5
-
-ekonomiċi jkunu l-aktar marbuta (ċentru ta’ interessi vitali);
+a) huwa gћandu jitqies li jkun residenti biss tal-Istat li fih ikollu dar permanenti gћad-dispożizzjoni tiegћu; jekk huwa jkollu dar permanenti gћad-dispożizzjoni tiegћu fiż-żewg Stati, huwa gћandu jitqies li jkun residenti biss tal-Istat li miegћu r-relazzjonijiet tiegћu personali u ekonomiċi jkunu l-aktar marbuta (ċentru ta’ interessi vitali);
 
 b) jekk l-Istat li fih huwa jkollu ċ-ċentru ta’ interessi vitali ma jkunx jista’ jiġi stabbilit, jew jekk huwa ma jkollux gћad-dispożizzjoni tiegћu dar permanenti f’xi Stat minnhom, huwa gћandu jitqies li jkun residenti biss tal-Istat li fih ikun soltu jirrisjedi;
 
@@ -253,8 +241,6 @@ e) iż-żamma ta’ post fiss ta’ negozju bl-iskop uniku li tiġi ġestita, g�
 
 f) iż-żamma ta’ post fiss ta’ negozju unikament biex tkun tista’ ssir xi kombinazzjoni ta’ attivitajiet imsemmija fis-subparagrafi a) sa e), sakemm l-attività kollha tal-post tan-negozju fiss li tirriżulta minn din il-kombinazzjoni tkun waħda ta’ xorta preparatorja jew awżiljarja.
 
-6 [L.S.123.155 (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN)
-
 ## 5.
 
 Minkejja d-dispożizzjonijiet tal-paragrafi 1 u 2 meta persuna - minbarra persuna bi status indipendenti li gћaliha japplika l-paragrafu 6 - tkun qegћda taġixxi f’isem xi impriża u jkollha, u tkun abitwalment teżerċita, fi Stat Kontraenti awtorità li tagћmel kuntratti f ’isem l-impriża, dik l-impriża gћandha titqies li jkollha stabbiliment permanenti f’dak l-Istat gћar-rigward ta’ kull attività li dik il-persuna tagћmel gћall-impriża, sakemm l-attivitajiet ta’ dik il-persuna ma jkunux limitati gћal dawk imsemmija fil-paragrafu 4 illi, jekk dawn jiġu eżerċitati minn ġo post tan-negozju fiss, ma jkunux jirrendu lil dan il-post tan-negozju fiss bћala stabbiliment permanenti taћt id-dispożizzjonijiet ta’ dak il-paragrafu.
@@ -285,9 +271,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \1. Il-profitti ta’ impriża ta’ Stat Kontraenti gћandhom jiġu intaxxati biss f’dak l-Istat kemm-il darba l-impriża ma tkunx tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk. Jekk l-impriża tkun qegћda tmexxi negozju kif hawn aktar qabel imsemmi, il-profitti tal-impriża jistgћu jiġu intaxxati fl-Istat l-ieћor iżda biss gћal dik il-parti minnhom daqskemm tkun attribwibbli lil dak l-istabbiliment permanenti.
 
-\2. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 3, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun qiegћed hemmhekk, gћandhom f’kull Stat Kontraenti jiġu attribwiti lil dak l-istabbiliment permanenti l-profitti li kien ikun mistenni jagћmel (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN) [L.S.123.155 7
-
-kieku kien impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet u li taћdem gћalkollox indipendentement mill-impriża li tagћha tkun stabbiliment permanenti.
+\2. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 3, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun qiegћed hemmhekk, gћandhom f’kull Stat Kontraenti jiġu attribwiti lil dak l-istabbiliment permanenti l-profitti li kien ikun mistenni jagћmel kieku kien impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet u li taћdem gћalkollox indipendentement mill-impriża li tagћha tkun stabbiliment permanenti.
 
 \3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis dawk l-ispejjeż li jsiru gћall-gћanijiet tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, sew fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’oћra.
 
@@ -319,9 +303,7 @@ a) impriża ta’ Stat Kontraenti tipparteċipa direttament jew indirettament fi
 
 b) l-istess persuni jipparteċipaw direttament jew indirettament fit-tmexxija, kontroll jew kapital ta’ impriża ta’ Stat Kontraenti u impriża tal-Istat Kontraenti l-ieћor,
 
-u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriżi fir-relazzjonijiet kummerċjali jew finanzjarji tagћhom li ma jkunux jaqblu ma’ dawk li kieku kienu jiġu magћmula bejn impriżi indipendenti, f’dak il-każ il-profitti li kieku kienu jakkumulaw, li ma kienx gћal dawk il-kondizzjonijiet, gћal xi waħda mill-impriżi, iżda, minћabba f’dawk il-kondizzjonijiet, ma jkunux hekk akkumulaw, 8 [L.S.123.155 (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN)
-
-jistgћu jiġu inklużi fil-profitti ta’ dik l-impriża u intaxxati bħala tali.
+u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriżi fir-relazzjonijiet kummerċjali jew finanzjarji tagћhom li ma jkunux jaqblu ma’ dawk li kieku kienu jiġu magћmula bejn impriżi indipendenti, f’dak il-każ il-profitti li kieku kienu jakkumulaw, li ma kienx gћal dawk il-kondizzjonijiet, gћal xi waħda mill-impriżi, iżda, minћabba f’dawk il-kondizzjonijiet, ma jkunux hekk akkumulaw, jistgћu jiġu inklużi fil-profitti ta’ dik l-impriża u intaxxati bħala tali.
 
 \2. Meta Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat - u bħala tali jintaxxa - profitti li fuqhom impriża tal-Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-iStat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinqalgћu mill-impriża tal-ewwel Stat imsemmi li kieku l-kondizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kienu kieku jsiru bejn żewġ impriżi indipendenti, gћaldaqshekk dak l-Istat l-ieћor għandu jagћmel aġġustament adatt fl-ammont tat-taxxa hemmhekk imposta fuq dawk il-profitti. Meta jkun qiegħed jiġi stabbilit dak l-aġġustament, gћandhom jitqiesu kif dovut id-dispożizzjonijiet l-oћra ta’ dan il- Ftehim u l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jekk iqisu li jkun hekk meћtieġ jikkonsultaw lil xulxin.
 
@@ -345,9 +327,7 @@ Dan il-paragrafu m’għandux jaffettwa t-tassazzjoni tal-kumpannija fir-rigward
 
 \1. Mgћax li jinqala’ fi Stat Kontraenti u jitћallas lil residenti tal-Istat Kontraenti l-ieћor jista’ jiġi ntaxxat biss f’dak Istat l-ieћor, kemm il-darba li s-sid benefiċjarju tal-imgħax jkun residenti tal-Istat l-ieħor.
 
-\2. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN) [L.S.123.155 9
-
-sew jekk ikollhom dritt li jipparteċipaw fil-profitti tad-debitur sew jekk ma jkollhomx, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inklużi premiums u premjijiet relatati ma’ dawk it-titoli, bonds jew debentures. Madankollu, il-frażi "mgћax" m’għandhiex tinkludi income msemmi fl- Artikolu 10. Ħlasijiet ta’ penali gћal ћlas tardiv ma jitqiesux bћala mgћax gћall-finijiet ta’ dan l-Artikolu.
+\2. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u sew jekk ikollhom dritt li jipparteċipaw fil-profitti tad-debitur sew jekk ma jkollhomx, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inklużi premiums u premjijiet relatati ma’ dawk it-titoli, bonds jew debentures. Madankollu, il-frażi "mgћax" m’għandhiex tinkludi income msemmi fl- Artikolu 10. Ħlasijiet ta’ penali gћal ћlas tardiv ma jitqiesux bћala mgћax gћall-finijiet ta’ dan l-Artikolu.
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 m’gћandhomx japplikaw jekk is-sid benefiċjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala’ l-imgћax permezz ta’ stabbiliment permanenti sitwat hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti. F’każ bћal dak gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7.
 
@@ -371,9 +351,7 @@ sew jekk ikollhom dritt li jipparteċipaw fil-profitti tad-debitur sew jekk ma j
 
 \1. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli imsemmi fl-Artikolu 6 u li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
 
-\2. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà 10 [L.S.123.155 (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN)
-
-tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieћor, inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien mal-impriża kollha), jista’ jiġi intaxxat f’dak Istat l-ieћor.
+\2. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieћor, inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien mal-impriża kollha), jista’ jiġi intaxxat f’dak Istat l-ieћor.
 
 \3. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ bastimenti jew inġenji tal-ajru li jkunu qegћdin jitћaddmu fi traffiku internazzjonali minn impriża ta’ Stat Kontraenti, jew minn proprjetà mobbli li tkun tappartjeni gћat-tћaddim ta’ dawk il-bastimenti jew inġenji tal-ajru, gћandu jiġi intaxxat biss f’dak l- Istat.
 
@@ -407,9 +385,7 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 **Artisti u sportivi**
 
-\1. Minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, income li jinkiseb minn (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN) [L.S.123.155 11
-
-residenti ta’ Stat Kontraenti bћala persuna li jagћti spettaklu, bћala artisti tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћala mużiċist, jew bћala sportiv, mill-attivitajiet personali tiegħu bћala tali li jiġu eżerċitati fl-Istat Kontraenti l-ieћor, jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
+\1. Minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, income li jinkiseb minn residenti ta’ Stat Kontraenti bћala persuna li jagћti spettaklu, bћala artisti tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћala mużiċist, jew bћala sportiv, mill-attivitajiet personali tiegħu bћala tali li jiġu eżerċitati fl-Istat Kontraenti l-ieћor, jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
 
 \2. Meta income dwar attivitajiet personali eżerċitati minn persuna li tagħti spettaklu jew minn sportiv fil-kapaċità tiegħu bћala tali ma jinġabarx favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iżda favur xi persuna oћra, dak l-income jista’, minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, jiġi intaxxat fl-Istat Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
 
@@ -435,9 +411,7 @@ b) Madankollu, dawk is-salarji, pagi u rimunerazzjoni oћra bћal dawk gћandhom
 
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1, pensjonijiet u rimunerazzjoni bħal dawk (inkluż pagamenti ta’ somma f’daqqa) imћallsa minn, jew li toħroġ minn fond maħluq minn Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegћu (inkluż kull enti legali jew awtorità mwaqqfa taħt il-liġi pubblika ta’ dak l- Istat) lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità (inkluż kull enti legali jew awtorità mwaqqfa taħt il-liġi pubblika ta’ dak l-Istat) gћandhom jiġu intaxxati biss f’dak l-Istat.
 
-\3. Id-dispożizzjonijiet tal-Artikoli 14, 15, 16 u 17 gћandhom japplikaw gћal salarji, pagi, pensjonijiet u rimunerazzjoni bħal dik (inkluż pagamenti ta’ somma f’daqqa) gћar-rigward ta’ servizzi mogħtijin f’konnessjoni ma’ kummerċ immexxi 12 [L.S.123.155 (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN)
-
-minn Stat Kontraenti jew minn sottodiviżjoni politika jew awtorità lokali tiegћu (inkluż kull enti legali jew awtorità mwaqqfa taħt il-liġi pubblika ta’ dak l-Istat).
+\3. Id-dispożizzjonijiet tal-Artikoli 14, 15, 16 u 17 gћandhom japplikaw gћal salarji, pagi, pensjonijiet u rimunerazzjoni bħal dik (inkluż pagamenti ta’ somma f’daqqa) gћar-rigward ta’ servizzi mogħtijin f’konnessjoni ma’ kummerċ immexxi minn Stat Kontraenti jew minn sottodiviżjoni politika jew awtorità lokali tiegћu (inkluż kull enti legali jew awtorità mwaqqfa taħt il-liġi pubblika ta’ dak l-Istat).
 
 **Artikolu 19**
 
@@ -471,9 +445,7 @@ Il-ћlasijiet li student jew apprendist kummerċjali li jkun jew kien minnufih q
 
 \1. Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Liechtenstein rigward l-eliminazzjoni ta’ taxxa doppja, li ma għandux jaffettwa dan il-prinċipju ġenerali, it-taxxa doppja għandha tiġi eliminata kif ġej:
 
-a) Meta residenti ta’ Liechtenstein jikseb income jew ikun sid ta’ kapital li, skont id-dispożizzjonijiet ta’ dan il-Ftehim, jista’ jiġi intaxxat f’Malta, Liechtenstein għandu, bla ħsara għad-dispożizzjonijiet tas-subparagrafi b) u ċ), jeżenta dak l-income jew dak il-kapital mit-taxxa, iżda madankollu jista’, fil-kalkolu tal-ammont ta’ taxxa fuq l-income jew il- (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN) [L.S.123.155 13
-
-kapital ieħor ta’ dak ir-residenti, iqis l-income jew il-kapital li jkun ġie eżentat.
+a) Meta residenti ta’ Liechtenstein jikseb income jew ikun sid ta’ kapital li, skont id-dispożizzjonijiet ta’ dan il-Ftehim, jista’ jiġi intaxxat f’Malta, Liechtenstein għandu, bla ħsara għad-dispożizzjonijiet tas-subparagrafi b) u ċ), jeżenta dak l-income jew dak il-kapital mit-taxxa, iżda madankollu jista’, fil-kalkolu tal-ammont ta’ taxxa fuq l-income jew il-kapital ieħor ta’ dak ir-residenti, iqis l-income jew il-kapital li jkun ġie eżentat.
 
 b) Meta residenti ta’ Liechtenstein jikseb income li, skont id-dispożizzjonijiet tal-Artikoli 14, 15, 16 u 17, jista’ jiġi intaxxat f’Malta, Liechtenstein għandu jagħti bħala kreditu kontra it-taxxa ta’ Liechtenstein fuq dak l-income it-taxxa mħallsa skont il-liġi ta’ Malta u d-dispożizzjonijiet ta’ dan il-Ftehim. L-ammont ta’ taxxa li għandha tiġi kreditata m’għandhiex, madankollu, tkun aktar mit-taxxa ta’ Liechtenstein dovuta fuq l-income li jinkiseb minn Malta.
 
@@ -494,8 +466,6 @@ Bla ħsara għad-dispożizzjonijiet tal-liġi ta’ Malta dwar allowance ta’ k
 \3. L-intaxxar fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieћor m’gћandux jinġabar inqas favorevolment f’dak Istat l-ieћor mit-taxxa miġbura fuq impriżi ta’ dak l-Istat l-ieћor li jkun qiegћed iwettaq l-istess ativitajiet. Din id-dispożizzjoni m’gћandhiex tiftiehem bћala li tobbliga lil Stat Kontraenti li jikkonċedi lil residenti tal-Istat Kontraenti l-ieћor allowances personali, ħelsien u tnaqqis gћall-gћanijiet ta’ taxxa minћabba fl-istatus ċivili jew responsabbiltajiet familjari li dan jikkonċedi lir-residenti tiegћu.
 
 \4. Ħlief meta japplikaw id-dispożizzjonijiet tal-paragrafu 1 tal-Artikolu 9, il-paragrafu 4 tal-Artikolu 11, jew il-paragrafu 4 tal-Artikolu 12, mgћax, royalties u ћlasijiet oћra li jitћallsu minn impriża ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor gћandhom, gћall-fini li jiġu stabbiliti x’inhuma l-profitti taxxabbli ta’ dik l-impriża, jiġu mnaqqsa taћt l-istess kondizzjonijiet bћallikieku dawn kienu mћallsa lil residenti tal-Istat l-ewwel imsemmi. Bl-istess mod, id-debiti kollha ta’ impriża ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor gћandhom, bil-gћan li jiġi stabbilit il-kapital taxxabbli ta’ dik l-impriża, jitnaqqsu taћt l-istess kundizzjonijiet bћallikieku dawn kienu ġew ikkuntrattati lil residenti tal-ewwel imsemmi Stat.
-
-14 [L.S.123.155 (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN)
 
 \4. Impriżi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu proprjetà jew taћt il-kontroll, sew dirett sew mhux dirett, ta’ residenti wieħed jew iktar tal-Istat Kontraenti l-ieћor, m’għandhom ikunu assoġġettati fl-Istat l-ewwel imsemmi gћal ebda taxxa jew ebda ћtieġa konnessa ma’ dan li tkun xort’oћra jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li gћalihom ikunu jew jistgћu jkunu assoġġettati impriżi oħra simili tal-Istat l-ewwel imsemmi.
 
@@ -519,9 +489,7 @@ a) taħt il-paragrafu 1, persuna tkun ippreżentat każ quddiem l-awtorità komp
 
 b) l-awtoritajiet kompetenti ma jkunux jistgħu jilħqu ftehim biex jirrisolvu l-każ skont il-paragrafu 2 fi żmien sentejn mill-preżentazzjoni tal-każ quddiem l-awtorità kompetenti tal-Istat Kontraenti l-ieħor;
 
-kwistjonijiet mhux solvuti li jqumu dwar il-każ għandhom jiġu sottomessi għall-arbitraġġ jekk il-persuna titlob dan. Dawn il-kwistjonijiet mhux solvuti m’għandhomx, iżda, jiġu sottomessi għall-arbitraġġ kemm il-darba deċiżjoni fuq dawn il-kwistjonijiet tkun digà ingħatat minn qorti jew tribunal amministrattiv ta’ xi wieħed mill-Istati. Sakemm persuna li tkun affettwata direttament mill-każ ma taċċettax il-ftehim reċiproku li jimplimenta d-deċiżjoni tatl-arbitraġġ, dik id- (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN) [L.S.123.155 15
-
-deċiżjoni għandha torbot liż-żewġ Stati Kontraenti u għandha tkun implimentata minkejja kull terminu ta’ żmien fil-liġijiet domestiċi ta’ dawk l-Istati. L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom bi ftehim reċiproku jaqblu fuq il-mod kif għandu jkun applikat dan il-paragrafu.
+kwistjonijiet mhux solvuti li jqumu dwar il-każ għandhom jiġu sottomessi għall-arbitraġġ jekk il-persuna titlob dan. Dawn il-kwistjonijiet mhux solvuti m’għandhomx, iżda, jiġu sottomessi għall-arbitraġġ kemm il-darba deċiżjoni fuq dawn il-kwistjonijiet tkun digà ingħatat minn qorti jew tribunal amministrattiv ta’ xi wieħed mill-Istati. Sakemm persuna li tkun affettwata direttament mill-każ ma taċċettax il-ftehim reċiproku li jimplimenta d-deċiżjoni tatl-arbitraġġ, dik id-deċiżjoni għandha torbot liż-żewġ Stati Kontraenti u għandha tkun implimentata minkejja kull terminu ta’ żmien fil-liġijiet domestiċi ta’ dawk l-Istati. L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom bi ftehim reċiproku jaqblu fuq il-mod kif għandu jkun applikat dan il-paragrafu.
 
 **Artikolu 25**
 
@@ -545,9 +513,7 @@ b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew
 
 **Membri ta’ missjonijiet diplomatiċi u karigi konsulari**
 
-Ebda haga f’dan il-Ftehim m’gћandha tolqot il-privileġġi fiskali tal-membri ta’ 16 [L.S.123.155 (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN)
-
-missjonijiet diplomatiċi jew ta’ kariġi konsulari taћt ir-regoli ġenerali tad-dritt internazzjonali jew taћt id-dispożizzjonijiet ta’ kull ftehim speċjali.
+Ebda haga f’dan il-Ftehim m’gћandha tolqot il-privileġġi fiskali tal-membri ta’ missjonijiet diplomatiċi jew ta’ kariġi konsulari taћt ir-regoli ġenerali tad-dritt internazzjonali jew taћt id-dispożizzjonijiet ta’ kull ftehim speċjali.
 
 **Artikolu 27**
 
@@ -585,7 +551,7 @@ George W. Vella Aurelia Frick
 
 Gћall-Gvern tar- Gћall-Gvern tal-
 
-Repubblika ta’ Malta Prinċipalità ta’ Liechtenstein (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN) [L.S.123.155 17
+Repubblika ta’ Malta Prinċipalità ta’ Liechtenstein
 
 **PROTOKOLL**
 
@@ -617,9 +583,7 @@ b) l-informazzjoni skambjata
 
 (ii) m’għandhiex tiġi żvelata lil xi Stat ieħor jew territorju sovran li ma jkunx parti ta’ dan il-Ftehim;
 
-ċ) data personali tista’ tiġi trasmessa sakemm hu neċessarju għall-iskambju ta’ informazzjoni skont l-Artikolu 25 u soġġetta għad-dispożizzjonijiet tal-liġi tal-Istat Kontraenti li jibgħat l-informazzjoni; d) kull talba għall-informazzjoni għandha fil-każijiet kollha tispeċifika bil- 18 [L.S.123.155 (IL-PRINĊIPALITÀ TA’ LIECHTENSTEIN)
-
-miktub:
+ċ) data personali tista’ tiġi trasmessa sakemm hu neċessarju għall-iskambju ta’ informazzjoni skont l-Artikolu 25 u soġġetta għad-dispożizzjonijiet tal-liġi tal-Istat Kontraenti li jibgħat l-informazzjoni; d) kull talba għall-informazzjoni għandha fil-każijiet kollha tispeċifika bil-miktub:
 
 (i) l-identità tal-persuna li tkun qegħda tiġi eżaminata jew investigata, madankollu, ma huwiex neċessarju li tipprovdi l-isem tat-taxpayer sabiex tiddefinixxi l-identità tiegħu, kemm il-darba din l-identità tista’ tasal għaliha minn elementi ekwivalenti;
 

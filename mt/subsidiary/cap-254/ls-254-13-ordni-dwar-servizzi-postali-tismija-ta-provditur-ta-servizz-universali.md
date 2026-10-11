@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Servizzi Postali (Tismija ta' Provditur ta' Servizz Universali) (S.L. 254.13)
 
-SERVIZZI POSTALI
-
-*1*
-
-(TISMIJA TA’ PROVDITUR TA’ SERVIZZI UNIVERSALI) [L.S.254.13
-
 **LEĠISLAZZJONI SUSSIDJARJA 254.13**
 
 **ORDNI DWAR SERVIZZI POSTALI (TISMIJA TA’**

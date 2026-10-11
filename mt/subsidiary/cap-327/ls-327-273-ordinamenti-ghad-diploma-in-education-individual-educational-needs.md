@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Education (Individual Educational Needs) taħt il-patroċinju tal-Fakultà ta' l-Edukazzjoni (S.L. 327.273)
 
-DIPLOMA IN ADULT EDUCATION (INDIVIDUAL
-
-EDUCATIONAL NEEDS) TA}T IL-PATRO~INJU TAL-
-
-*1*
-
-FAKULTÀ TA’ L-EDUKAZZJONI [S.L.327.273
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.273**
 
 ORDINAMENTI G}AD-DIPLOMA IN EDUCATION (INDIVIDUAL EDUCATIONAL NEEDS)

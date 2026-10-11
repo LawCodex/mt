@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Eżami tat-Titolu"
-identifier: "S.L. 55.6"
+identifier: "S.L. 55.06"
 eli: "https://legislation.mt/eli/sl/55.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.6/20121107/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Eżami tat-Titolu (S.L. 55.6)
+# Regolamenti dwar l-Eżami tat-Titolu (S.L. 55.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 55.06**
 

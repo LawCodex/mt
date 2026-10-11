@@ -16,18 +16,14 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta' €23,293,734 5.6% Stock tal-Gvern ta' Malta 2007 (It-Tielet Ħruġ) (S.L. 161.56)
 
-}RU{ TA’ €23,293,734 5.6%
-
-*1*
-
-STOCK TAL-GVERN TA’ MALTA 2007 (IT-TIELET }RU{) [L.S.161.56
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.56**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**
 
 **G}ALL-}RU{ TA’ €23,293,734 5.6% STOCK**
 
-TAL-GVERN TA’ MALTA 2007 (IT-TIELET }RU{) 12 ta’ Mejju, 2000 L-AVVI| LEGALI 85 tal-2000, kif emendat bl-Avvi\\ Legali 410 tal-2007.
+TAL-GVERN TA’ MALTA 2007 (IT-TIELET }RU{)
+
+12 ta’ Mejju, 2000 L-AVVI| LEGALI 85 tal-2000, kif emendat bl-Avvi\\ Legali 410 tal-2007.
 
 Revokat bl-Avviż Legali 434 tal-2014.

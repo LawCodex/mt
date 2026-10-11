@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta' €34,940,601 4.8% Stock tal-Gvern ta' Malta 2016 (It-Tieni Ħruġ) (S.L. 161.72)
 
-}RU{ TA’ €34,940,601 4.8% STOCK
-
-*1*
-
-TAL-GVERN TA’ MALTA 2016 (IT-TIENI }RU{) [L.S.161.72
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.72**
 
 **DIRETTIVA MILL-PRIM MINISTRU U MINISTRU**

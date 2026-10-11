@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta’ Erasmus Mundus Master in Adult Education for Social Change - M. AESC (S.L. 327.561)
 
-ADULT EDUCATION FOR SOCIAL CHANGE - M. AESC -
-
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.561
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.561**
 
 **REGOLAMENTI TAL-KORS GĦALL-GRAD TA’**
@@ -71,11 +65,7 @@ Universiti Sains Malaysis (din l-Istituzzjoni Imsieħba ma tatix grad);
 
 ## 2. Applikabilità.
 
-Dawn ir-regolamenti għandhom japplikaw għall-korsijiet li ADULT EDUCATION FOR SOCIAL CHANGE - M. AESC - [L.S.327.561 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-jibdew f’Settembru 2016 jew wara.
-
-*2*
+Dawn ir-regolamenti għandhom japplikaw għall-korsijiet li jibdew f’Settembru 2016 jew wara.
 
 ## 3. Kwalifiki għad-dħul.
 
@@ -108,12 +98,6 @@ Il-Bord tal-Istudji għandu jħejji katalgu tat-taqsimiet studju kollha. Il-kata
 (1) Ir-riżultati tal-valutazzjoni tat-taqsimiet studju u tad-dissertazzjoni għandhom ikunu ppubblikati bħala grad bl-ittri li ġejjin: A, B, Ċ, D u E.
 
 (2) L-istudenti li jeħlu f’xi taqsima studju mgħallma jitħallew jagħmlu valutazzjoni supplimentari darba biss.
-
-ADULT EDUCATION FOR SOCIAL CHANGE - M. AESC -
-
-*3*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.561
 
 ## 8. Dissertazzjoni.
 

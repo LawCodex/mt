@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta' Master of Science - M.Sc. - in Agricultural Sciences (S.L. 327.63)
 
-*1*
-
-[ L.S.327.63 M.SC. - IN AGRICULTURAL SCIENCES
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.63**
 
 **REGOLAMENTI TAL-KORS G}ALL-GRAD**
@@ -115,11 +111,7 @@ is-subregolament, juri li kapa`i jikteb u jitkellem bl-Ingli\\.
 
 (3) Id-dissertazzjoni g]andha tkun ta’ tul skond kif ikun dirett mill-Bord i\\da m’g]andhiex normalment tkun ta’ anqas minn 30,000 kelma u aktar minn 35,000 kelma.
 
-(4) Id-dissertazzjoni g]andha tkun ippre\\entata f’dik il-forma u g]andha ti[i sottomessa f’dik in-numru ta’ kopji li l-Bord jista’ [ L.S.327.63 M.SC. - IN AGRICULTURAL SCIENCES
-
-jordna.
-
-*3*
+(4) Id-dissertazzjoni g]andha tkun ippre\\entata f’dik il-forma u g]andha ti[i sottomessa f’dik in-numru ta’ kopji li l-Bord jista’ jordna.
 
 ## 10. Bord ta’ l- E\\amijiet.
 

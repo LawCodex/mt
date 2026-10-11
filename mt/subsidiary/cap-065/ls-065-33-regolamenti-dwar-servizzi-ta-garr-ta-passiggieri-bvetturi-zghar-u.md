@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Servizzi ta’ Ġarr ta’ Passiġġieri b’Vetturi Żgħar u Servizzi ta’ Kiri ta’ Vetturi (S.L. 65.33)
 
-*1*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 LEĠISLAZZJONI SUSSIDJARJA 65.33
+**LEĠISLAZZJONI SUSSIDJARJA 65.33**
 
 **REGOLAMENTI DWAR SERVIZZI TA’ ĠARR TA’**
 
@@ -60,10 +58,6 @@ It-Tielet Skeda Lista ta’ suġġetti li jridu jiġu koperti fil-kors tat-taħr
 
 It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar Servizzi ta’ Ġarr ta’ Passiġġieri b’Vetturi Żgħar u Servizzi ta’ Kiri ta’ Vetturi.
 
-**U SERVIZZI TA’ KIRI TA’ VETTURI**
-
-*[L.S. 65.33 2*
-
 TAQSIMA I
 
 PRELIMINARI
@@ -98,11 +92,9 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 
 ''ċikletta b’qawwa baxxa'' tfisser vettura li jkollha piż mingħajr ebda tagħbija ta’ mhux aktar minn 350 kg, li titħaddem kemm bil-pedali biss fil-każ ta’ biċikletta jew triċikletta, jew b’taħlita ta’ pedali u mutur fil-każ ta’ biċikletta jew triċikletta li tista’ taħdem ukoll b’mutur, jew b’magna li jkollha mutur b’forza ta’ 50 cm³ jew anqas, u b’massimu ta’ żewġ brake horsepower, jew mutur li jaħdem bl-elettriku li jipprovdi enerġija netta ta’ mhux aktar minn 1.49Kw, li tista’ ttella veloċità massima ta’ mhux aktar minn 45 kilometru fis-siegħa fir-rigward ta’ scooter jew ċikletta motorizzata;
 
-"diska tal-parkeġġ awtorizzata" tfisser tagħmir magħmul mill-kartun kif indikat fis-Sitt Skeda li jkun jikkonsisti f’diska li ddur fuq fus u li tkun turi, minn ġo tieqa li tkun tinsab fuq il- U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 qoxra ta’ barra, arloġġ li jkun fih tnax (12)-il siegħa b’indikaturi għal segmenti ta’ ħmistax (15)-il minuta kull waħda stampata fuq id-diska li tkun tinsab fuq ġewwa, u li tinġabar b’xejn mill-uffiċini tal-Awtorità mal-ġbir tal-liċenzja relattiva għall-operatur jew xufier jew mingħand provditur ta’ servizz awtorizzat indikat mill-Awtorita fuq is-sit uffiċjali tagħha;
+"diska tal-parkeġġ awtorizzata" tfisser tagħmir magħmul mill-kartun kif indikat fis-Sitt Skeda li jkun jikkonsisti f’diska li ddur fuq fus u li tkun turi, minn ġo tieqa li tkun tinsab fuq il-qoxra ta’ barra, arloġġ li jkun fih tnax (12)-il siegħa b’indikaturi għal segmenti ta’ ħmistax (15)-il minuta kull waħda stampata fuq id-diska li tkun tinsab fuq ġewwa, u li tinġabar b’xejn mill-uffiċini tal-Awtorità mal-ġbir tal-liċenzja relattiva għall-operatur jew xufier jew mingħand provditur ta’ servizz awtorizzat indikat mill-Awtorita fuq is-sit uffiċjali tagħha;
 
 "flotta" tfisser kwalunkwe grupp ta’ vetturi, li tinkludi vettura żgħira għall-ġarr ta’ passiġġieri waħda (1), jew aktar, li huma reġistrati taħt kwalunkwe liċenzja ta’ operatur maħruġa taħt dawn ir-regolamenti;
-
-*3*
 
 "garaxx" tfisser kwalunkwe post li fih l-iggaraxxjar ta’ vetturi bil-mutur huwa permess mill-Awtorità tal-Ippjanar;
 
@@ -130,11 +122,7 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 
 "liċenzja ta’ operatur LPTV2" tfisser liċenzja ta’ operatur li tingħata lill-operaturi li jirreġistraw fuq il-liċenzja tagħhom ħames (5) vetturi żgħar jew aktar ;
 
-"liċenzja ta’ operatur SOV" tfisser liċenzja ta’ operatur li tingħata lill-operaturi li jirreġistraw fuq il-liċenzja tagħhom U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*[L.S. 65.33 4*
-
-vettura waħda (1) jew aktar bil-mutur għal okkażjonijiet speċjali;
+"liċenzja ta’ operatur SOV" tfisser liċenzja ta’ operatur li tingħata lill-operaturi li jirreġistraw fuq il-liċenzja tagħhom vettura waħda (1) jew aktar bil-mutur għal okkażjonijiet speċjali;
 
 "limousine" tfisser vettura ta’ lussu li ġġorr il-passiġġieri li jew ikollha xażi jew bażi tar-roti mtawwal, jew tkun sedan, li l-manifattur tagħha jmexxiha bħala vettura ta’ lussu u li għall-finijiet ta’ dawn ir-regolamenti f’kull każ ikollha tul globali li jeċċedi 5.15m;
 
@@ -154,9 +142,7 @@ vettura waħda (1) jew aktar bil-mutur għal okkażjonijiet speċjali;
 
 "persuna maħtura speċifikament" tfisser persuna naturali, innominata lill-Awtorità minn xi operatur jew minn xi applikant għal liċenzja ta’ operatur, bħala l-persuna li kontinwament u effettivament tmexxi l-operat ta’ ġarr stradali tal-passiġġieri u, jew tas-servizzi ta’ kiri tal-vetturi;
 
-*5*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 "post kummerċjali awtorizzat" tfisser kull post  kummerċjali kif imfisser bl-Att dwar il-Liċenzi tal-Kummerċ u Kap. 441. li jkollu liċenzja biex minnu tkun tista’ ssir attività kummerċjali  skont ir-Regolamenti dwar il-Liċenzi tal-Kummerċ; u għall-fini Kap. 441. 07. ta’ dawn ir-regolamenti jinkludi wkoll kull bini, lokal jew  stabbiliment ieħor li jkollu liċenzja skont l-Att dwar Servizzi Kap. 409. tal-Ivvjaġġar u tat-Turiżmu għal Malta;
+"post kummerċjali awtorizzat" tfisser kull post  kummerċjali kif imfisser bl-Att dwar il-Liċenzi tal-Kummerċ u Kap. 441. li jkollu liċenzja biex minnu tkun tista’ ssir attività kummerċjali  skont ir-Regolamenti dwar il-Liċenzi tal-Kummerċ; u għall-fini Kap. 441. 07. ta’ dawn ir-regolamenti jinkludi wkoll kull bini, lokal jew  stabbiliment ieħor li jkollu liċenzja skont l-Att dwar Servizzi Kap. 409. tal-Ivvjaġġar u tat-Turiżmu għal Malta;
 
 "Reġistru" tfisser ir-Reġistru tas-Servizzi ta’ Ġarr ta’ Passiġġieri b’Vetturi Żgħar u ta’ Kiri ta’ Vetturi mwaqqaf permezz ta’ Taqsima VII;
 
@@ -175,10 +161,6 @@ U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 "post kummerċjali awtorizzat" tf
 "tag tax-xufier" tfisser tag maħruġa mill-Awtorità lil xufier skont it-Taqsima IV;
 
 "tistenna biex tiġi mikrija" tfisser, fir-rigward ta’ vettura żgħira għall-ġarr tal-passiġġieri, li tistenna f’pożizzjoni stazzjonarja biex tħajjar jew taċċetta ordnijiet għall-kiri;
-
-**U SERVIZZI TA’ KIRI TA’ VETTURI**
-
-*[L.S. 65.33 6*
 
 "tivvjaġġa biex tiġi mikrija" tfisser li ssuq vettura żgħira għall-ġarr tal-passiġġieri fit-triq biex tfittex kirja jew biex tkun lesta għall-kiri;
 
@@ -208,11 +190,9 @@ U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 "post kummerċjali awtorizzat" tf
 
 "vettura bil-mutur għal okkażjonijiet speċjali" tfisser vettura bil-mutur ta’ prestiġju, maħsuba sabiex tintuża f’okkażjonijiet speċjali bħal tiġijiet, funerali, riċevimenti, esibizzjonijiet u avvenimenti oħra varji, sabiex twassal numru ristrett ta’ persuni sad-daħla ta’ knejjes, swali, lukandi, mużewijiet u siti oħra fejn jiġu organizzati tali avvenimenti;
 
-"vettura bil-mutur ġdida" tfisser, għall-finijiet ta’ dawn ir-regolamenti, vettura bil-mutur li tkun għadha qatt ma ġiet U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 irreġistrata fl-ebda pajjiż;
+"vettura bil-mutur ġdida" tfisser, għall-finijiet ta’ dawn ir-regolamenti, vettura bil-mutur li tkun għadha qatt ma ġiet irreġistrata fl-ebda pajjiż;
 
 "vettura għall-kiri" tfisser kull vettura li hija reġistrata u liċenzjata biex tinkera u tiġi misjuqa minn kerrej;
-
-*7*
 
 "vettura għall-ġarr tal-merkanzija" tfisser vettura bil-mutur N1, jew N2 jew N3;
 
@@ -232,11 +212,7 @@ U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 "post kummerċjali awtorizzat" tf
 
 "vettura vintage" tfisser vettura awtentika u ġenwina li jkollha tletin sena jew aktar (li jibdew jgħoddu mid-data tal-manifattura), kif ċertifikata mill-kumitat għall-klassifikazzjoni ta’ vetturi vintage, li tkun miżmuma fi stat li jkun qrib kemm jista’ jkun possibbli tal-istat oriġinali kif ikun ipproduċiha l-manifattur u li tkun tirrispetta l-ispirtu tal-preservazzjoni ta’ vetturi klassiċi u vintage;
 
-"vettura żgħira għall-ġarr ta’ passiġġieri" tfisser, għall-finijiet ta’ dawn ir-regolamenti, vettura misjuqa minn persuna li għandha permess ta’ xufier li huwa impjegat ma’ operatur bil-għan li jinġarru l-passiġġieri minn post għall-ieħor; din il- [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*8*
-
-vettura għandha tkun irreġistrata taħt l-Ewwel Sezzjoni ta’ Parti IV tar-Reġistru għall-Ġarr ta’ Passiġġieri b’Vetturi Żgħar u għall-Kiri ta’ Vetturi.
+"vettura żgħira għall-ġarr ta’ passiġġieri" tfisser, għall-finijiet ta’ dawn ir-regolamenti, vettura misjuqa minn persuna li għandha permess ta’ xufier li huwa impjegat ma’ operatur bil-għan li jinġarru l-passiġġieri minn post għall-ieħor; din il-vettura għandha tkun irreġistrata taħt l-Ewwel Sezzjoni ta’ Parti IV tar-Reġistru għall-Ġarr ta’ Passiġġieri b’Vetturi Żgħar u għall-Kiri ta’ Vetturi.
 
 ### 3. Politika ta’ suq miftuħ.
 
@@ -274,9 +250,7 @@ l-Awtorità għandha tippromwovi l-politika ta’ suq miftuħ u ma għandhiex ta
 
 (3) Għandu jkun hemm tliet (3) liċenzji ta’ operaturi differenti maħruġa mill-Awtorità, il-liċenzja ta’ operatur LPTV1, il-liċenzja ta’ operatur LPTV2, u l-liċenzja ta’ operatur SOV u dawn il-liċenzji għandhom jinħarġu skont il-karatteristiċi tal-applikanti u tali applikanti għandhom jikkonformaw mal-kondizzjonijiet ta’ dawn ir-regolamenti u kwalunkwe rekwiżiti oħra li l-Awtorità tista’ tistabbilixxi minn żmien għal żmien sabiex tirregola l-operat tal-operaturi li huma liċenzjati b’dawn it-tliet (3) liċenzji, kif ġej:
 
-*9*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (a) fil-każ tal-liċenzja ta’ operatur LPTV1, l-applikanti jistgħu jkunu persuni fiżiċi jew impriżi li huma intenzjonati li joperaw flotta sa massimu ta’ erba’ (4) vetturi żgħar u tali applikanti għandhom jissottomettu applikazzjoni li tikkonforma mar-rekwiżiti tar-regolament 7 u fil-każ ta’ applikazzjoni għat-tiġdid, għandhom jissodisfaw ir-rekwiżiti tas-subregolament (4)(a), (b), (ċ) u (e);
+(a) fil-każ tal-liċenzja ta’ operatur LPTV1, l-applikanti jistgħu jkunu persuni fiżiċi jew impriżi li huma intenzjonati li joperaw flotta sa massimu ta’ erba’ (4) vetturi żgħar u tali applikanti għandhom jissottomettu applikazzjoni li tikkonforma mar-rekwiżiti tar-regolament 7 u fil-każ ta’ applikazzjoni għat-tiġdid, għandhom jissodisfaw ir-rekwiżiti tas-subregolament (4)(a), (b), (ċ) u (e);
 
 (b) fil-każ tal-liċenzja ta’ operatur LPTV2, l-applikanti jistgħu jkunu persuni fiżiċi jew impriżi li biħsiebhom joperaw flotta ta’ mhux anqas minn ħames (5) vetturi żgħar, u tali applikanti għandhom jissottomettu applikazzjoni li tikkonforma mar-rekwiżiti tar-regolament 7A u fil-każ ta’ applikazzjoni għat-tiġdid, għandhom jissodisfaw ir-rekwiżiti kollha tas-subregolament (4):
 
@@ -286,11 +260,7 @@ Iżda wkoll fi kwalunkwe każ, persuna fiżika jew il-persuna fiżika awtorizzat
 
 (ċ) fil-każ tal-liċenzja ta’ operatur SOV, l-applikanti jistgħu jkunu persuni fiżiċi jew impriżi li biħsiebhom joperaw flotta ta’ vetturi bil-mutur għal okkażjonijiet speċjali, u tali applikanti għandhom jissottomettu applikazzjoni li tikkonforma mar-rekwiżiti tar-regolament 7B u fil-każ ta’ applikazzjoni għat-tiġdid, għandhom jissodisfaw ir-rekwiżiti kollha tas-subregolament (4):
 
-Iżda l-liċenzja applikabbli ta’ operatur għandha tinħareġ f’isem persuna fiżika awtorizzata sabiex tirrappreżenta l-impriża inkwantu tali applikant huwa impriża u tista’, flimkien mal-ħlas stabbilit fl-Ewwel Skeda, tiġi trasferita bil-kunsens u l- [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*10*
-
-awtorizzazzjoni bil-miktub tal-Awtorità lil kwalunkwe persuna oħra li tissodisfa l-kriterji stabbiliti bil-liġi għall-ħruġ tal-liċenzja applikabbli u li jkollha awtorizzazzjoni valida mill-impriża rilevanti:
+Iżda l-liċenzja applikabbli ta’ operatur għandha tinħareġ f’isem persuna fiżika awtorizzata sabiex tirrappreżenta l-impriża inkwantu tali applikant huwa impriża u tista’, flimkien mal-ħlas stabbilit fl-Ewwel Skeda, tiġi trasferita bil-kunsens u l-awtorizzazzjoni bil-miktub tal-Awtorità lil kwalunkwe persuna oħra li tissodisfa l-kriterji stabbiliti bil-liġi għall-ħruġ tal-liċenzja applikabbli u li jkollha awtorizzazzjoni valida mill-impriża rilevanti:
 
 Iżda wkoll fi kwalunkwe każ, persuna fiżika jew il-persuna fiżika awtorizzata li f’isimha tinħareġ il-liċenzja tal-operatur għan-nom tal-impriża kif ukoll is-sid benefiċjarju ta’ impriża, ma għandu jkollhom l-ebda involviment jew interess ta’ parteċipazzjoni f’aktar minn impriża waħda (1) liċenzjata skont dawn ir-regolamenti bħala operatur ta’ servizzi ta’ ġarr ta’ passiġġieri bil-vettura, u għaldaqstant ma għandhomx jissottomettu aktar minn applikazzjoni waħda (1) ġdida għal kwalunkwe liċenzja maħruġa taħt dawn ir-regolamenti, jew aktar minn applikazzjoni waħda (1) rilevanti fis-sena għal tiġdid taħt dawn ir-regolamenti.
 
@@ -310,9 +280,7 @@ Iżda wkoll fi kwalunkwe każ, persuna fiżika jew il-persuna fiżika awtorizzat
 
 (iii) l-indirizz tas-sit u l-pjanti tas-sit ta’ kull faċilità tal-iggaraxxjar deskritta;
 
-*11*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (iv) in-numru totali ta’ spazji ta’ parkeġġ li għandha kull faċilità tal-iggaraxxjar;
+(iv) in-numru totali ta’ spazji ta’ parkeġġ li għandha kull faċilità tal-iggaraxxjar;
 
 (v) dikjarazzjoni li dawn l-ispazji ta’ parkeġġ huma suffiċjenti sabiex jiġu pparkjati l-vetturi żgħar għall-ġarr ta’ passiġġieri kollha li huma rreġistrati taħt il-liċenzja ta’ operatur:
 
@@ -329,10 +297,6 @@ Iżda wkoll id-detentur ta’ liċenzja ta’ operatur LPTV1 għandu jkun soġġ
 (iii) il-permess ta’ żvilupp relattiv li japprova l-użu tal-faċilità tal-iggaraxxar li fiha jkunu pparkjati l-vetturi bil-mutur, bħala garaxx għas-servizz pubbliku u jipprovdi d-dettalji ta’ kwalunkwe tali permess;
 
 (iv) l-indirizz tas-sit u l-pjanti tas-sit ta’ kull faċilità tal-iggaraxxjar deskritta;
-
-*12*
-
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
 
 (v) in-numru totali ta’ spazji ta’ parkeġġjar li għandha kull faċilità tal-iggaraxxjar;
 
@@ -356,9 +320,7 @@ Iżda fejn tali operatur jiddikjara li t-titolu li taħtu qiegħed jagħmel użu
 
 (2) Kull persuna li tapplika għal kwalunkwe liċenzja ta’ operatur għandha tindika persuna maħtura speċifikament. Il-persuna maħtura speċifikament tista’ tkun l-applikant innifsu, meta jkun persuna fiżika, jew, meta l-applikant ikun persuna ġuridika, il-persuna maħtura speċifikament tista’ tkun membru jew uffiċjal ta’ dik il-persuna ġuridika.
 
-*13*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (3) (a) Meta l-applikant għal kwalunkwe liċenzja ta’ operatur ikun kumpanija b’responsabbiltà limitata, ir-rekwiżit tas-subregolament (1) irid jiġi sodisfatt mid-diretturi kollha tal-kumpanija kif ukoll mill-persuna maħtura speċifikament.
+(3) (a) Meta l-applikant għal kwalunkwe liċenzja ta’ operatur ikun kumpanija b’responsabbiltà limitata, ir-rekwiżit tas-subregolament (1) irid jiġi sodisfatt mid-diretturi kollha tal-kumpanija kif ukoll mill-persuna maħtura speċifikament.
 
 *   Kap. 386.*
 
@@ -374,13 +336,9 @@ U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (3) (a) Meta l-applikant għal kw
 
 (7) Kull persuna li tikser is-subregolament (6) tkun ħatja ta’ reat.
 
-*14 Applikazzjoni għal liċenzja ta’ operatur LPTV1 Emendat: A.L. 111 tal-2023; A.L. 246 tal-2023; A.L. 333 tal-2024; A.L. 171 tal-2026.*
+*Applikazzjoni għal liċenzja ta’ operatur LPTV1 Emendat: A.L. 111 tal-2023; A.L. 246 tal-2023; A.L. 333 tal-2024; A.L. 171 tal-2026.*
 
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-### 7.
-
-(1) L-applikazzjoni għall-għoti ta’ liċenzja ta’ operatur LPTV1 għandha ssir lill-Awtorità u għandha tkun fil-forma u jkun fiha tali dettalji kif titlob l-Awtorità u għandha tiġi sottomessa flimkien ma’:
+operatur LPTV1 għandha ssir lill-Awtorità u għandha tkun fil-forma u jkun fiha tali dettalji kif titlob l-Awtorità u għandha tiġi sottomessa flimkien ma’:
 
 (a) ċertifikat maħruġ mill-Pulizija li juri kull reat kriminali li l-applikant u, jew il-persuni msemmija fir-regolament 6(2) u, jew (3) setgħu kienu misjuba ħatja tagħhom flimkien mal-piena għalihom:
 
@@ -400,9 +358,7 @@ Iżda wkoll fejn il-pajjiż tal-oriġini jew il-pajjiż li minnu jkunu ġejjin d
 
 (iii) l-indirizz tas-sit u l-pjanti tas-sit ta’ kull faċilità tal-iggaraxxjar deskritta;
 
-*15*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (iv) in-numru totali ta’ spazji ta’ parkeġġ li għandha kull faċilità tal-iggaraxxjar;
+(iv) in-numru totali ta’ spazji ta’ parkeġġ li għandha kull faċilità tal-iggaraxxjar;
 
 (v) dikjarazzjoni li dawn l-ispazji ta’ parkeġġ huma suffiċjenti sabiex jiġu pparkjati l-vetturi żgħar għall-ġarr ta’ passiġġieri kollha li huma rreġistrati taħt il-liċenzja ta’ operatur:
 
@@ -428,11 +384,7 @@ Iżda meta l-applikant għal-liċenzja ta’ operatur LPTV1 ikollu aktar minn ga
 
 *Kap. 77.*
 
-(a) ċertifikat tal-kondotta maħruġ mid-Direttur, Dipartiment tal-Ġustizzja, fi ħdan il-Ministeru responsabbli U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*[L.S. 65.33 16*
-
-għall-ġustizzja skont id-dispożizzjonijiet tal-artikolu 4 tal- Ordinanza dwar iċ-Ċertifikati tal-Kondotta li jew ikun fih dikjarazzjoni li turi li l-applikant u, jew il-persuna msemmija fir-regolament 6(2) u, jew (3) hija ta’ kondotta tajba, jew dikjarazzjoni li jkun fiha indikazzjoni tal-kundanni tal-persuna minn kwalunkwe qorti tal-ġustizzja, kemm f’Malta kif ukoll barra minn Malta, u li huma reġistrabbli skont l-Ordinanza dwar iċ-Ċertifikati tal-Kondotta:
+(a) ċertifikat tal-kondotta maħruġ mid-Direttur, Dipartiment tal-Ġustizzja, fi ħdan il-Ministeru responsabbli għall-ġustizzja skont id-dispożizzjonijiet tal-artikolu 4 tal- Ordinanza dwar iċ-Ċertifikati tal-Kondotta li jew ikun fih dikjarazzjoni li turi li l-applikant u, jew il-persuna msemmija fir-regolament 6(2) u, jew (3) hija ta’ kondotta tajba, jew dikjarazzjoni li jkun fiha indikazzjoni tal-kundanni tal-persuna minn kwalunkwe qorti tal-ġustizzja, kemm f’Malta kif ukoll barra minn Malta, u li huma reġistrabbli skont l-Ordinanza dwar iċ-Ċertifikati tal-Kondotta:
 
 Iżda jekk l-applikant u, jew il-persuni msemmija fir-regolament 6(2) u, jew (3) ma jkunux normalment residenti f’Malta għandu jkun suffiċjenti jekk jipprovdu estratt bil-postilla mir-rekord ġudizzjarju tagħhom jew, dokument bil-postilla ekwivalenti maħruġ mill-awtorità kompetenti ġudizzjarja jew amministrattiva tal-pajjiż tal-oriġini tagħhom jew il-pajjiż li fih ikunu residenti;
 
@@ -446,9 +398,7 @@ Iżda jekk l-applikant jiddikjara li t-titolu li taħtu qiegħed jagħmel użu e
 
 (i) jinkludi l-indirizzi u l-pjanti tas-sit ta’ kull garaxx elenkat;
 
-*17*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (ii) jinkludi dikjarazzjoni li l-applikant għandu għad-dispożizzjoni tiegħu l-użu esklussiv tal-garaxx elenkat fil-liċenzja u jispeċifika taħt liema titolu qiegħed jagħmel użu esklussiv mill-garaxx elenkat;
+(ii) jinkludi dikjarazzjoni li l-applikant għandu għad-dispożizzjoni tiegħu l-użu esklussiv tal-garaxx elenkat fil-liċenzja u jispeċifika taħt liema titolu qiegħed jagħmel użu esklussiv mill-garaxx elenkat;
 
 (iii) jinkludi l-indirizz taċ-ċentru tal-operat tal-applikant;
 
@@ -469,10 +419,6 @@ Iżda l-Awtorità tista’ taċċetta ftehim ta’ ħlas debitament approvat mil
 (f) dikjarazzjoni ffirmata minn accountant u, jew awditur bil-warrant li turi s-sitwazzjoni finanzjarja tajba tal-applikant.
 
 (2) Id-dokumenti preskritti fis-subregolament (1)(a) ma għandhomx jiġu aċċettati jekk jiġu sottomessi aktar tard minn tliet (3) xhur mid-data tal-ħruġ.
-
-*18*
-
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
 
 (3) L-Awtorità tista’ teħtieġ lill-applikant jissottometti d-dettalji kollha relatati mal-applikazzjoni msemmija fis-subregolament (1) f’dikjarazzjoni formali jew f’affidavit ġuramentat, kif speċifikat mill-Awtorità.
 
@@ -496,11 +442,9 @@ Iżda jekk l-applikant u, jew il-persuni msemmija fir-regolament 6(2) u, jew (3)
 
 (b) id-dettalji tan-numru u l-klassi jew deskrizzjoni ta’ kull vettura bil-mutur għal okkażjonijiet speċjali intiżi sabiex jintużaw fin-negozju tal-ġarr ta’ passiġġieri għall-okkażjonijiet speċjali. Tali vetturi għandhom jiġu reġistrati mal-Awtorità;
 
-(ċ) dikjarazzjoni li l-applikant għandu għad-dispożizzjoni għall-użu esklussiv tiegħu garaxx indikat fuq il- U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 liċenzja tiegħu, li jkun ta’ daqs suffiċjenti sabiex fih jakkomoda l-ipparkjar tal-vetturi kollha rreġistrati taħt il-liċenzja tiegħu, b’mod illi kull vettura tkun tista’ tidħol u toħroġ mill-garaxx mingħajr il-ħtieġa li tiġi mressqa xi vettura oħra. L-applikant għandu wkoll jikkometti ruħu mal-Awtorità li matul il-perjodu ta’ validità tal-liċenzja tiegħu, il-vetturi kollha reġistrati taħt il-liċenzja tiegħu għandhom, meta ma jkunux qed jintużaw għall-provvista ta’ servizzi, u ħlief kif provdut fir-regolament 17, ikunu pparkjati fil-garaxx hekk elenkat mill-applikant:
+(ċ) dikjarazzjoni li l-applikant għandu għad-dispożizzjoni għall-użu esklussiv tiegħu garaxx indikat fuq il-liċenzja tiegħu, li jkun ta’ daqs suffiċjenti sabiex fih jakkomoda l-ipparkjar tal-vetturi kollha rreġistrati taħt il-liċenzja tiegħu, b’mod illi kull vettura tkun tista’ tidħol u toħroġ mill-garaxx mingħajr il-ħtieġa li tiġi mressqa xi vettura oħra. L-applikant għandu wkoll jikkometti ruħu mal-Awtorità li matul il-perjodu ta’ validità tal-liċenzja tiegħu, il-vetturi kollha reġistrati taħt il-liċenzja tiegħu għandhom, meta ma jkunux qed jintużaw għall-provvista ta’ servizzi, u ħlief kif provdut fir-regolament 17, ikunu pparkjati fil-garaxx hekk elenkat mill-applikant:
 
 Iżda fejn tali applikant jiddikjara li ma għandux sjieda assoluta tal-garaxx elenkat f’dan il-paragrafu, l-imsemmi applikant għandu jipprovdi wkoll dikjarazzjoni ffirmata mis-sid u, jew kwalunkwe komproprjetarju, fejn jiddikjaraw li qegħdin jawtorizzaw lill-applikant igawdi l-użu esklussiv tal-garaxx elenkat għal perjodu ta’ mhux inqas minn tnax (12)-il xahar mid-data tal-ħruġ tal-liċenzja;
-
-*19*
 
 (d) rapport iffirmat minn perit bil-warrant fir-rigward ta’ kull garaxx elenkat fl-applikazzjoni tal-applikant għal-liċenzja ta’ operatur li għandu:
 
@@ -516,11 +460,7 @@ Iżda fejn tali applikant jiddikjara li ma għandux sjieda assoluta tal-garaxx e
 
 (vi) jipprovdi l-permess relattiv li japprova l-użu tal-garaxx li fih għandhom jiġu pparkjati l-vetturi, bħala garaxx għas-servizz pubbliku u jipprovdi d-dettalji ta’ kwalunkwe tali permess:
 
-Iżda jekk l-applikant jiddikjara li ma għandux sjieda assoluta tal-garaxx deskritt skont is-subparagrafi (i) u (ii), l-applikant għandu jipprovdi wkoll dikjarazzjoni ffirmata mis-sid u, jew kwalunkwe kompropretarju, fejn jiddikjaraw li qegħdin jawtorizzaw lill-applikant igawdi l-użu esklussiv tal-garaxx għal [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*20*
-
-perjodu ta’ mhux inqas minn tnax (12)-il xahar mid-data tal-ħruġ tal-liċenzja;
+Iżda jekk l-applikant jiddikjara li ma għandux sjieda assoluta tal-garaxx deskritt skont is-subparagrafi (i) u (ii), l-applikant għandu jipprovdi wkoll dikjarazzjoni ffirmata mis-sid u, jew kwalunkwe kompropretarju, fejn jiddikjaraw li qegħdin jawtorizzaw lill-applikant igawdi l-użu esklussiv tal-garaxx għal perjodu ta’ mhux inqas minn tnax (12)-il xahar mid-data tal-ħruġ tal-liċenzja;
 
 Iżda wkoll applikant għal liċenzja ta’ operatur SOV li japplika sabiex jirreġistra u, jew iġedded erba’ (4) vetturi għal okkażjonijiet speċjali jew inqas taħt il-liċenzja tiegħu ma għandux ikun meħtieġ li jippreżenta d-dokumentazzjoni deskritta fis-subparagrafu (vi):
 
@@ -538,11 +478,11 @@ Iżda meta l-applikant ikollu aktar minn garaxx wieħed (1), id-dritt tal-applik
 
 (5) Il-ħruġ ta’ liċenzja ta’ operatur SOV mill-Awtorità awtomatikament jeskludi lil tali operatur milli jirreġistra l-vetturi bil-mutur għal okkażjonijiet speċjali tiegħu fuq, u, jew bi kwalunkwe mod iqiegħed is-servizzi tiegħu għad-dispożizzjoni ta’ kwalunkwe pjattaforma intermedjarja ta’ prenotazzjoni awtorizzata sabiex toffri servizzi globalizzati bl-internet għall-forniment ta’ servizzi ta’ ġarr ta’ passiġġieri.
 
-*21*
+### 8. għoti ta’ liċenzja. 
 
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 8. (1) L-applikazzjoni għall-ħruġ ta’ kwalunkwe Deċiżjoni dwar l-liċenzja ta’ operatur għandha tiġi pproċessata u deċiża mill-Awtorità.
+*Emendat: A.L. 171 tal-2026.*
 
-*għoti ta’ liċenzja.  Emendat: A.L. 171 tal-2026.*
+(1) L-applikazzjoni għall-ħruġ ta’ kwalunkwe Deċiżjoni dwar l-liċenzja ta’ operatur għandha tiġi pproċessata u deċiża mill-Awtorità.
 
 (2) F’każ li tingħata kwalunkwe liċenzja ta’ operatur, l- Awtorità għandha tipprovdi lill-operatur vera kopja attestata tal-liċenzja ta’ operatur għal kull vettura żgħira għall-ġarr tal-passiġġieri koperta b’dik il-liċenzja. Dik il-vera kopja għandha tinżamm f’kull ħin fil-vetturi għall-ġarr tal-passiġġieri u x-xufier għandu juriha meta hekk mitlub minn uffiċjal awtorizzat li jispezzjona.
 
@@ -574,11 +514,9 @@ U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 8. (1) L-applikazzjoni għall-ħr
 
 (iv) fl-artikoli 4, 5, 6(a), 7, 8(b), 8(ċ), 8(e), 11, 13(2), 14(3), 15, 15A, 16, 17, 18, 22(1)(b), (ċ), (d), (e), (f), 22(1Ċ), 22(1D)(a), 22(1E) u 22(3BA)(5) tal- Ordinanza dwar il-Mediċini Perikolużi;
 
-*22 Kap. 220.*
+*Kap. 220.*
 
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-(v) fl-artikoli 37, 38, 44, 50 u 61 tal-Att dwar il-Forzi Armati ta’ Malta;
+il-Forzi Armati ta’ Malta;
 
 (b) għal dak il-perjodu ta’ żmien meta hija tkun qiegħda tiskonta piena ta’ priġunerija ta’ mhux inqas minn xahar (1);
 
@@ -602,13 +540,11 @@ Iżda wkoll meta l-applikant kellu inqas minn tmintax (18)-il sena meta wettaq i
 
 (ċ) sentenza li fil-waqt tal-applikazzjoni tagħha tkun qiegħda taħt appell; jew
 
-(d) sentenza għat-twettiq ta’ reat ta’ pussess għall-użu esklussiv imsemmija fis-subparagrafi (iii) u (iv) tas-subregolament (1)(a), liema sentenza tkun ingħatat mill-anqas U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 tliet (3) snin qabel id-data li fiha tkun saret l-applikazzjoni għal-liċenzja ta’ operatur fejn l-applikant ikun irriabilita ruħu u ma kellux sentenza oħra matul dawn it-tliet (3) snin.
+(d) sentenza għat-twettiq ta’ reat ta’ pussess għall-użu esklussiv imsemmija fis-subparagrafi (iii) u (iv) tas-subregolament (1)(a), liema sentenza tkun ingħatat mill-anqas tliet (3) snin qabel id-data li fiha tkun saret l-applikazzjoni għal-liċenzja ta’ operatur fejn l-applikant ikun irriabilita ruħu u ma kellux sentenza oħra matul dawn it-tliet (3) snin.
 
 ### 10. Ċentru operattiv.
 
 L-operatur għandu jibqa’ jżomm records aġġornati u dettaljati marbuta mal-aspetti kollha tal-operazzjonijiet ta’ ġarr ta’ passiġġieri b’vetturi żgħar, inkluż, iżda mhux biss, records tar-riżervar kollu, id-dokumenti statutorji u l-kotba tal-accounts u ta’ kuntratti ta’ xogħol jew ta’ servizzi fiċ-ċentru operattiv.
-
-*23*
 
 ### 11. Tibdil fin-numru ta’ vetturi fuq il-liċenzja tal-operatur
 
@@ -625,10 +561,6 @@ Iżda wkoll meta operatur inaqqas in-numru tal-vetturi fuq il-liċenzja tiegħu 
 (1) L-Awtorità għandu jkollha l-poter li tagħmel spezzjonijiet sporadiċi, meta jidhirlha hi, sabiex tivverifika li l-operatur qiegħed jopera n-negozju tiegħu b’osservanza ta’ dawn ir-regolamenti. Għal dan il-għan, l-Awtorità tista’ titlob lill-operatur jew lill-uffiċjal jew l-impjegat tal-istess biex jidher quddiemha, jew quddiem persuna maħtura minnha, f’tali ħin u post kif tispeċifika hi, biex iwieġeb għall-mistoqsijiet u jagħti informazzjoni u dokumentazzjoni marbuta mas-servizzi ta’ ġarr tal-passiġġieri b’vetturi żgħar provduti mill-operatur. L-Awtorità tista’ tieħu u żżomm kopji tad-dokumenti kollha mogħtija jew provduti skont dan ir-regolament. L-istqarrija magħmula u d-dokumentazzjoni mogħtija skont dan ir-regolament tista’ tintuża bħala evidenza kontra l-operatur kif ukoll kontra kull persuna li għaliha qed jirreferu. Dawn il-persuni għandhom immedjatament jikkonformaw, u żgur mhux aktar tard minn erbgħa u għoxrin (24) siegħa wara, ma’ kull talba jew ordni li tagħti l- Awtorità skont dan ir-regolament.
 
 (2) Il-liċenzja ta’ operatur tista’ tiġi sospiża jew irtirata minħabba dawn ir-raġunijiet li ġejjin:
-
-*24*
-
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
 
 (a) meta d-detentur ikun ta informazzjoni żbaljata lill- Awtorità b’rabta mal-ħruġ ta’ liċenzja jew kull ħaġa oħra relatata magħha; jew
 
@@ -650,9 +582,7 @@ Iżda wkoll meta l-operatur ma jitqiesx li huwa ta’ reputazzjoni u kondotta ta
 
 Iżda wkoll meta operatur jonqos milli jissodisfa r-rekwiżit imsemmi hawn qabel fi żmien tliet (3) xhur mid-data tas-sentenza jew sentenzi li permezz tagħhom dik il-persuna ma tiġix meqjusa li tissodisfa r-rekwiżiti tar-regolament 6(1), il-liċenzja għandha tiġi rtirata ipso jure.
 
-*25*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (6) Sospensjoni jew revoka skont dan ir-regolament għandha ssir mill-Awtorità minn jeddha jew b’ordni tal-qorti ta’ ġuriżdizzjoni kriminali:
+(6) Sospensjoni jew revoka skont dan ir-regolament għandha ssir mill-Awtorità minn jeddha jew b’ordni tal-qorti ta’ ġuriżdizzjoni kriminali:
 
 Iżda meta l-Awtorità tkun minn jeddha bi ħsiebha tissospendi jew tirrevoka liċenzja tal-operatur, hija għandha, permezz ta’ avviż bil-kitba, tgħarraf lill-operatur konċernat bir-raġunijiet tagħha għal dan. Kull notifika għandha tgħid li l-operatur konċernat jista’, fi żmien għaxart (10) ijiem min-notifika, jagħmel rappreżentazzjonijiet bil-miktub lill-Awtorità fejn jagħti r-raġunijiet għaliex ir-revoka jew sospensjoni ma għandhiex tiġi applikata u l- Awtorità għandha tieħu f’konsiderazzjoni dawn ir-rappreżentazzjonijiet hekk magħmula qabel ma tieħu deċiżjoni finali. L-Awtorità għandha, permezz ta’ avviż bil-miktub, tgħarraf lill-applikant konċernat dwar id-deċiżjoni finali tagħha. L-operatur konċernat għandu d-dritt jappella quddiem it-Tribunal kontra d-deċiżjoni tal-Awtorità li tissospendi jew tirrevoka l-liċenzja tal-operatur fi żmien tletin (30) ġurnata min-notifika tad-deċiżjoni tal- Awtorità:
 
@@ -668,11 +598,7 @@ Iżda wkoll deċiżjoni tal-Awtorità li tirrevoka liċenzja tal-operatur ma tid
 
 (3) Għall-finijiet ta’ kull azzjoni meħuda skont dan ir-regolament, l-Awtorità tista’ titlob l-għajnuna tal-Kummissarju tal- Pulizija, li jista’ għal dan il-għan jeżerċita dawk il-poteri mogħtija lilu bil-liġi għall-prevenzjoni tar-reati u għall-infurzar tal-liġi u l-ordni.
 
-(4) L-Awtorità tista’ tieħu kull dokument misjub fiċ-ċentru operattiv jew kopji tiegħu. Kull dokumentazzjoni miksuba mill- Awtorità skont dan ir-regolament tista’ tintuża’ bħala evidenza kontra [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*26*
-
-l-operatur kif ukoll kontra kull persuna marbuta magħhom.
+(4) L-Awtorità tista’ tieħu kull dokument misjub fiċ-ċentru operattiv jew kopji tiegħu. Kull dokumentazzjoni miksuba mill- Awtorità skont dan ir-regolament tista’ tintuża’ bħala evidenza kontra l-operatur kif ukoll kontra kull persuna marbuta magħhom.
 
 ### 14. Mewt jew inkapaċità fiżika jew ġuridika.
 
@@ -706,11 +632,9 @@ SERVIZZI TA’ ĠARR TA’ PASSIĠĠIERI B’VETTURI ŻGĦAR:
 
 (1) L-operatur għandu jiżgura li kwalunkwe vettura żgħira għall-ġarr ta’ passiġġieri użata fl-operazzjonijiet tiegħu skont il-liċenzja ta’ operatur tiegħu għandha, waqt li ma tkunx qed tintuża tiġi garaxxjata fil-garaxx deskritt fil-liċenzja tiegħu:
 
-Iżda vettura żgħira għall-ġarr ta’ passiġġieri li ma tkunx qiegħda tintuża, iżda li tkun qiegħda tinstaq minn xufier li jkun disponibbli sabiex jiġi bbukkjat għall-kiri matul il-ħin tax-xogħol jew U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 ix-xift tiegħu, jew li tkun ipparkjata skont id-dispożizzjonijiet tas-subregolament (2), ma għandhiex tkun meħtieġa li tiġi garaxxjata:
+Iżda vettura żgħira għall-ġarr ta’ passiġġieri li ma tkunx qiegħda tintuża, iżda li tkun qiegħda tinstaq minn xufier li jkun disponibbli sabiex jiġi bbukkjat għall-kiri matul il-ħin tax-xogħol jew ix-xift tiegħu, jew li tkun ipparkjata skont id-dispożizzjonijiet tas-subregolament (2), ma għandhiex tkun meħtieġa li tiġi garaxxjata:
 
 Iżda wkoll id-dispożizzjonijiet ta’ dan is-subregolament ma għandhomx japplikaw għal vettura bil-mutur għal okkażjonijiet speċjali li tkun ipparkjata quddiem jew viċin xi post li fih tkun għaddejja okkażjoni speċjali, sakemm ix-xufier ikun ġo l-imsemmija vettura jew fil-viċinanza immedjata tagħha:
-
-*27*
 
 Iżda wkoll il-vettura bil-mutur għal okkażjonijiet speċjali li titħalla waħidha pparkjata mix-xufier, ma għandhiex titħalla hekk ipparkjata fit-triq għal aktar minn mija u tmenin (180) minuta.
 
@@ -734,10 +658,6 @@ Iżda dan is-subregolament ma għandux japplika għal dak il-ħin li matulu x-xu
 
 Iżda wkoll ir-rekwiżit tal-ħin stipulat f’dan is-subregolament ma għandux ikun applikabbli kemm-il darba x-xufier ikun u jibqa’ fil-vettura. Iżda r-rekwiżit tad-distanza għandu jibqa’ japplika:
 
-*28*
-
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
 Iżda wkoll it-terminu ta’ żmien provdut fil-paragrafu (a) għandu jiġi estiż għal sagħtejn (2) sa fejn il-vettura żgħira għall-ġarr ta’ passiġġieri reġistrata taħt il-liċenzja ta’ operatur LPTV1 jew liċenzja ta’ operatur LPTV2, kif jista’ jkun applikabbli, tkun ipparkjata legalment fit-triq bejn il-ħinijiet ta’ 05:01AM u 16:59PM:
 
 Iżda wkoll fir-rigward biss ta’ operaturi ta’ liċenzja SOV, id-distanza pprovduta fil-paragrafu (b) ma għandhiex tapplika, iżda għandha tapplika minflok distanza ta’ linja dritta ta’ mhux inqas minn mitt (100) metru minn dawk il-vened tat-taxi li jinsabu fil-postijiet elenkati fil-paragrafu (b).
@@ -758,9 +678,7 @@ Iżda wkoll fir-rigward biss ta’ operaturi ta’ liċenzja SOV, id-distanza pp
 
 (a) id-data u l-ħin tat-tluq u r-ritorn ta’ kull vettura żgħira għall-ġarr ta’ passiġġieri mikrija mingħand l-operatur;
 
-*29*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (b) l-isem u n-numru tal-permess tax-xufier li jkun ta s-servizz ta’ ġarr ta’ passiġġieri b’vettura żgħira;
+(b) l-isem u n-numru tal-permess tax-xufier li jkun ta s-servizz ta’ ġarr ta’ passiġġieri b’vettura żgħira;
 
 (c) l-isem u d-dettalji relattivi tal-kerrej.
 
@@ -804,11 +722,7 @@ Huwa pprojbit li jimtela t-tank tal-fuel ta’ vettura żgħira għall-ġarr ta�
 
 (1) Ebda passiġġier jew xufier ma jista’ jpejjep f’vettura żgħira għall-ġarr ta’ passiġġieri waqt li tkun qiegħda tintuża għall-ġarr tal-passiġġieri.
 
-(2) F’kull vettura żgħira għall-ġarr tal-passiġġieri għandu jitwaħħal, f’post fejn jidher sew mill-passiġġieri, avviż li jistipula li [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*30*
-
-ma jistax isir tipjip f’dik il-vettura.
+(2) F’kull vettura żgħira għall-ġarr tal-passiġġieri għandu jitwaħħal, f’post fejn jidher sew mill-passiġġieri, avviż li jistipula li ma jistax isir tipjip f’dik il-vettura.
 
 ### 28. Kamera ta’ sorveljanza.
 
@@ -846,9 +760,9 @@ L-ebda xufier m’għandu jsuq vettura żgħira għall-ġarr tal-passiġġieri w
 
 L-ebda petrol jew likwidi oħra li jaqbdu ma jistgħu jinġarru f’vettura żgħira għall-ġarr tal-passiġġieri.
 
-*31*
+### 35.
 
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 35. L-operatur għandu jiżgura li kull vettura żgħira għall- Tagħmir ta’ ġarr tal-passiġġieri reġistrata f’ismu jkollha, f’kull ħin, apparat għat- emerġenza. tifi tan-nar, trijangolu tas-sigurtà u kaxxa għall-ewwel għajnuna, f’post fejn ikunu jistgħu jintlaħqu meta jkollhom jintużaw f’każi ta’ emerġenza.
+L-operatur għandu jiżgura li kull vettura żgħira għall- Tagħmir ta’ ġarr tal-passiġġieri reġistrata f’ismu jkollha, f’kull ħin, apparat għat- emerġenza. tifi tan-nar, trijangolu tas-sigurtà u kaxxa għall-ewwel għajnuna, f’post fejn ikunu jistgħu jintlaħqu meta jkollhom jintużaw f’każi ta’ emerġenza.
 
 ### 36. Tracking device.
 
@@ -872,10 +786,6 @@ U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 35. L-operatur għandu jiżgura l
 
 (2) L-Awtorità għandha tirreġistra biss bħala vetturi aċċessibbli b’siġġu tar-roti dawk il-vetturi żgħar għall-ġarr tal-passiġġieri li jipprovdu aċċess faċli u mingħajr ħtieġa ta’ għajnuna lill-persuni li jagħmlu użu mis-siġġu tar-roti.
 
-*32*
-
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
 (3) Ebda vettura żgħira għall-ġarr tal-passiġġieri ħlief dawk liċenzjati bħala vettura aċċessibbli għal min jagħmel użu mis-siġġu tar-roti ma jista’ jkollha mwaħħal is-sinjal preskritt fit-Tieni Skeda jew xi sinjal simili li jista’ jġiegħel lill-pubbliku biex jaħseb li tali vettura hija vettura żgħira għall-ġarr tal-passiġġieri aċċessibbli għal min jagħmel użu mis-siġġu tar-roti.
 
 (4) Kull operatur li jkollu liċenzja LPTV2 li jkollu aktar minn ħamsin (50) vettura żgħira għall-ġarr ta’ passiġġieri rreġistrata taħt il-liċenzja rispettiva tal-operat, għandu jkollu fil-flotta tiegħu mill-inqas vettura waħda (1) żgħira għall-ġarr ta’ passiġġieri li tkun aċċessibbli għal persuni li jużaw siġġu tar-roti għal kull ħamsin (50) vettura żgħira għall-ġarr ta’ passiġġieri fil-flotta tiegħu.
@@ -894,11 +804,9 @@ Iżda perjodu kontinwu ta’ sewqan bi ħlas ma għandux jeċċedi tnax (12)-il 
 
 (3) Kull xufier għandu l-obbligu li jieħu perjodu ta’ mistrieħ meta l-perjodu kontinwu ta’ sewqan bi ħlas ikun itwal minn sitt (6) sigħat. Il-perjodu ta’ mistrieħ tax-xufiera għandu jkun għal perjodu ta’ mhux inqas minn tletin (30) minuta għal kull sitt (6) sigħat ta’ sewqan konsekuttivi b’kiri jew kumpens, u x-xufier għandu jqatta’ dak il-perjodu barra mill-vettura, kemm-il darba tali vettura tkun tista’ tiġi pparkjata b’mod leċitu u sikur.
 
-(4) Bla ħsara għad-dispożizzjonijiet tas-subregolamenti (2) u (3), kull xufier għandu josserva wkoll, b’żjieda mal-perjodu ta’ mistrieħ ta’ kuljum imsemmi fis-subregolament (2), il-perjodu minimu U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 mhux interrot ta’ erbgħa u għoxrin (24) siegħa kull ġimgħa f’kull perjodu ta’ sebat (7) ijiem.
+(4) Bla ħsara għad-dispożizzjonijiet tas-subregolamenti (2) u (3), kull xufier għandu josserva wkoll, b’żjieda mal-perjodu ta’ mistrieħ ta’ kuljum imsemmi fis-subregolament (2), il-perjodu minimu mhux interrot ta’ erbgħa u għoxrin (24) siegħa kull ġimgħa f’kull perjodu ta’ sebat (7) ijiem.
 
 (5) L-Awtorità għandu jkollha l-jedd li titlob lid-detentur ta’ awtorizzazzjoni li jaġixxi bħala pjattaforma intermedjarja għas-servizz ta’ prenotazzjoni sabiex jissospendi jew jinterrompi l-aċċess ta’ xufier għall-applikazzjoni tal-mobile rilevanti, jekk l-Awtorità ssib li tali xufier mhux qiegħed jikkonforma ma’ kwalunkwe mill-obbligi minimi ta’ mistrieħ imposti skont dawn ir-regolamenti.
-
-*33*
 
 (6) Bla ħsara għad-dispożizzjonijiet tas-subregolament (5), kwalunkwe persuna fiżika jew impriża li għandha liċenzja ta’ operatur maħruġa taħt dawn ir-regolamenti għandha tinstab ħatja ta’ reat taħt ir-regolament 67 u għandha teħel dawk il-pieni indikati fl-istess regolament 67 jekk jinstab li hija jew ix-xufiera abbinati mal-liċenzja tagħha ikunu, minkejja t-twissija bil-miktub maħruġa lil tali operatur, jew ix-xufier, naqsu milli josservaw dawn il-perjodi ta’ mistrieħ minimi b’mod ripetut u, jew sistematiku b’detriment għas-saħħa, sigurtà u benesseri tal-istess xufiera u terzi persuni.
 
@@ -928,11 +836,7 @@ Iżda perjodu kontinwu ta’ sewqan bi ħlas ma għandux jeċċedi tnax (12)-il 
 
 (4) Xufier għandu jissodisfa l-kondizzjonijiet ta’ dan ir-regolament f’kull ħin matul il-validità tal-permess ta’ xufier.
 
-(5) Kwalunkwe xufier ta’ permess ta’ xufier maħruġ mill- Awtorità għandu jkun obbligat jinforma lill-Awtorità bil-miktub dwar kwalunkwe sejbien ta’ tali ħtija ta’ xi reat kontrih imsemmi fir-regolament 9(1)(a) fi żmien wieħed u għoxrin (21) ġurnata mis-sejbien [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*34*
-
-ta’ ħtija jew, jekk isir appell, fi żmien għoxrin (20) ġurnata minn meta tali appell jiġi deċiż.
+(5) Kwalunkwe xufier ta’ permess ta’ xufier maħruġ mill- Awtorità għandu jkun obbligat jinforma lill-Awtorità bil-miktub dwar kwalunkwe sejbien ta’ tali ħtija ta’ xi reat kontrih imsemmi fir-regolament 9(1)(a) fi żmien wieħed u għoxrin (21) ġurnata mis-sejbien ta’ ħtija jew, jekk isir appell, fi żmien għoxrin (20) ġurnata minn meta tali appell jiġi deċiż.
 
 (6) Kwalunkwe xufier li jikser is-subregolament (3) għandu jkun ħati ta’ reat.
 
@@ -966,11 +870,9 @@ L-applikazzjoni għall-għoti ta’ permess ta’ xufier għandha ssir lill-Awto
 
 (a) ċertifikat maħruġ mill-Pulizija li juri r-reati kriminali imsemmija fir-regolament 9 li għalihom l-applikant seta’ ngħata sentenza kif ukoll il-piena marbuta magħhom:
 
-Iżda jekk l-applikant ma jkunx normalment residenti f’Malta biżżejjed jekk juri estratt mir-record ġudizzjali tiegħu jew, inkella, dokument ekwivalenti maħruġ mill-awtorità kompetenti U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 ġudizzjali jew amministrattiva tal-pajjiż ta’ l-oriġini jew il-pajjiż li minnu jkun ġej:
+Iżda jekk l-applikant ma jkunx normalment residenti f’Malta biżżejjed jekk juri estratt mir-record ġudizzjali tiegħu jew, inkella, dokument ekwivalenti maħruġ mill-awtorità kompetenti ġudizzjali jew amministrattiva tal-pajjiż ta’ l-oriġini jew il-pajjiż li minnu jkun ġej:
 
 Iżda wkoll fejn il-pajjiż tal-oriġini jew il-pajjiż li minnu jkun ġej l-applikant ma joħroġx tali dokument, id-dokument imsemmi jista’ jiġi sostitwit b’dikjarazzjoni permezz ta’ ġurament jew bi stqarrija magħmula mill-persuna konċernata quddiem l-awtorità kompetenti ġudizzjali jew amministrattiva jew, fejn jixraq, quddiem nutar fil-pajjiż tal-oriġini ta’ dik il-persuna minn fejn ġejjin. Dik l-awtorità jew nutar għandhom joħorġu ċertifikat li jafferma l-awtentiċità tad-dikjarazzjoni b’ġurament jew stqarrija;
-
-*35*
 
 (b) il-ħlas relattiv għall-applikazzjoni stipulat skont l- Ewwel Skeda;
 
@@ -986,9 +888,7 @@ Iżda wkoll fejn il-pajjiż tal-oriġini jew il-pajjiż li minnu jkun ġej l-app
 
 (g) dikjarazzjoni rigward il-kondizzjonijiet tal-impjieg li fiha x-xufier jindika jekk jaħdimx full-time jew part-time, is-sigħat normali tax-xogħol, bl-esklużjoni tas-sahra, u l-kondizzjonijiet tas-sahra stipulati fil-kuntratt tal-impjieg:
 
-*36     L.S. 217.04.   Kap. 594.*
-
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
+*    L.S. 217.04.   Kap. 594.*
 
 Iżda fil-każ ta’ xufier li huwa ċittadin ta’ pajjiż terz, u li jindika fid-dikjarazzjoni msemmija f’dan il-paragrafu li qiegħed jaħdem fuq bażi part-time, għandu jipprovdi wkoll lill- Awtorità vera kopja attestata tal-liċenzja ta’ impjieg applikabbli maħruġa skont id-dispożizzjonijiet tar-regolament 5 tar- Regolamenti dwar l-Immigrazzjoni mill-Korporazzjoni Jobsplus kif stabbilit taħt l-artikolu 5 tal-Att dwar is-Servizzi ta’ Impjieg u Taħriġ.
 
@@ -1014,9 +914,7 @@ Iżda fil-każ ta’ xufier li huwa ċittadin ta’ pajjiż terz, u li jindika f
 
 Iżda fi żmien tliet (3) xhur qabel id-data tal-iskadenza tal-imsemmi permess ta’ xufier u tag ta’ xufier, u wara, id-detentur tagħhom għandu jkun obbligat li jissottometti applikazzjoni għat-tiġdid tagħhom mal-Awtorità b’dak il-mod u soġġett għal dak il-ħlas li tista’ tippreskrivi l-Awtorità flimkien ma’:
 
-*37*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (a) ċertifikat tal-kondotta maħruġ mill-pulizija; u
+(a) ċertifikat tal-kondotta maħruġ mill-pulizija; u
 
 (b) dikjarazzjoni minnu ffirmata li tikkonferma li huwa għadu jissodisfa r-rekwiżit ta’ reputazzjoni u kondotta tajba u li mid-data li fiha nħareġ l-aħħar ċertifikat imsemmi fir-regolament 42(a) huwa ma ġiex misjub ħati ta’ xi reat bi ksur tad-dispożizzjonijiet tar-regolamenti 9 u 41; u
 
@@ -1038,11 +936,7 @@ Iżda d-detentur tat-tag ta’ xufier ikun obbligat li jħallas lill-Awtorità l
 
 (2) Il-permess tax-xufier jista’ jiġi sospiż jew revokat minħabba f’dawn ir-raġunijiet li ġejjin:
 
-(a) meta d-detentur ikun ta informazzjoni żbaljata lill- [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*38*
-
-Awtorità; jew
+(a) meta d-detentur ikun ta informazzjoni żbaljata lill- Awtorità; jew
 
 (b) meta d-detentur ikun kiser xi waħda mill-kondizzjonijiet tal-permess ta’ xufier; jew
 
@@ -1060,13 +954,11 @@ Iżda wkoll li, minkejja li jkun sar appell mid-deċiżjoni, is-sospensjoni tal-
 
 Iżda wkoll meta permess ta’ xufier jiġi sospiż għal kwalunkwe raġuni minbarra li għax ma għadux jissodisfa l-kondizzjoni ta’ kondotta u reputazzjoni tajba kif stabbilit f’dawn ir-regolamenti, ix-xufier konċernat ikollu d-dritt li japplika biex is-sospensjoni tiġi mneħħija wara li jgħaddu ħmistax (15)-il ġurnata mid-data li fiha r-raġuni li tkun wasslet għas-sospensjoni ma tibqax fis-seħħ:
 
-Iżda wkoll deċiżjoni tal-Awtorità li tirrevoka permess ta’ xufier ma tidħolx fis-seħħ qabel ma jiskadi l-perjodu li fih jista’ jsir l-appell taħt dan ir-regolament u, jekk isir appell f’dan il-perjodu, id- U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 deċiżjoni għandha tidħol fis-seħħ fid-data tad-deċiżjoni tat-Tribunal li tkun tiċħad l-appell jew fid-data meta l-appell ikun ġie deżert b’dan pero li l-permess ta’ xufier għandu jibqa’ sospiż.
+Iżda wkoll deċiżjoni tal-Awtorità li tirrevoka permess ta’ xufier ma tidħolx fis-seħħ qabel ma jiskadi l-perjodu li fih jista’ jsir l-appell taħt dan ir-regolament u, jekk isir appell f’dan il-perjodu, id-deċiżjoni għandha tidħol fis-seħħ fid-data tad-deċiżjoni tat-Tribunal li tkun tiċħad l-appell jew fid-data meta l-appell ikun ġie deżert b’dan pero li l-permess ta’ xufier għandu jibqa’ sospiż.
 
 * Kap. 65.*
 
 (5) Kull xufier li l-permess tiegħu ikun ġie rtirat skont dawn ir-regolamenti jew regolamenti maħruġa taħt l-Ordinanza dwar ir- Regolament tat-Traffiku jew l-Att ma jkunx jista’ jerġa’ japplika għal permess ta’ xufier ġdid qabel għeluq sentejn (2) mid-data li fiha l-permess ikun ġie rtirat, u l-Awtorità ma għandha tikkunsidra ebda applikazzjoni magħmula bi ksur ta’ dan ir-regolament:
-
-*39*
 
 Iżda d-dispożizzjonijiet ta’ dan ir-regolament ma għandhomx japplikaw għal każ meta l-permess ikun ġie rtirat għaliex l-applikant ma jkunx ġie meqjus bħala persuna ta’ reputazzjoni u kondotta tajba skont dawn ir-regolamenti u regolamenti oħra magħmula taħt l-Att.
 
@@ -1086,11 +978,7 @@ Iżda ebda awtorizzazzjoni bħal din m’għandha tingħata sakemm l-applikant m
 
 (b) jiddikjara li huwa għandu biżżejjed spazju biex iżomm il-vetturi fil-garaxx waqt li ma jkunux mikrija.
 
-(4) Operatur jista’ jkollu numru ta’ garaxxijiet u postijiet għall-parkeġġ ta’ vetturi mhux fit-triq fejn iżomm il-vetturi li jintużaw għall-iskop tas-servizzi ta’ kiri ta’ vetturi u dawn il-garaxxijiet u postijiet għall-parkeġġ ta’ vetturi mhux fit-triq għandhom jiġu reġistrati taħt il-liċenzja ta’ operatur li tinħareġ mill-Awtorità lill- [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*40*
-
-operatur.
+(4) Operatur jista’ jkollu numru ta’ garaxxijiet u postijiet għall-parkeġġ ta’ vetturi mhux fit-triq fejn iżomm il-vetturi li jintużaw għall-iskop tas-servizzi ta’ kiri ta’ vetturi u dawn il-garaxxijiet u postijiet għall-parkeġġ ta’ vetturi mhux fit-triq għandhom jiġu reġistrati taħt il-liċenzja ta’ operatur li tinħareġ mill-Awtorità lill-operatur.
 
 (5) Il-liċenzja ta’ operatur għandha tinħareġ f’isem persuna naturali awtorizzata biex tirrappreżenta l-impriża u tista’, flimkien mal-ħlas stabbilit fl-Ewwel Skeda, tiġi trasferita bil-kunsens u l-awtorizzazzjoni bil-miktub tal-Awtorità lil kull persuna oħra li tkun tissodisfa l-kriterji stabbiliti bil-liġi għall-ħruġ ta’ tali liċenzja.
 
@@ -1114,11 +1002,9 @@ operatur.
 
 (3) L-applikazzjoni għall-għoti ta’ liċenzja ta’ operatur għandha ssir flimkien mal-ħlas stipulat fl-Ewwel Skeda.
 
-(4) Meta operatur li jkun diġà stabbilit f’Malta japplika għal xi awtorizzazzjoni addizzjonali, jew meta operatur stabbilit fi Stat U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 Membru ieħor japplika għal awtorizzazzjoni mingħand l-Awtorità, ma jkunx meħtieġ li jintalab rekwiżiti u li jsirulu kontrolli li jkunu ekwivalenti jew essenzjalment paragunabbli fir-rigward tal-għanijiet tagħhom li l-applikant ikun diġà soġġett għalihom f’Malta jew fi Stat Membru ieħor.
+(4) Meta operatur li jkun diġà stabbilit f’Malta japplika għal xi awtorizzazzjoni addizzjonali, jew meta operatur stabbilit fi Stat Membru ieħor japplika għal awtorizzazzjoni mingħand l-Awtorità, ma jkunx meħtieġ li jintalab rekwiżiti u li jsirulu kontrolli li jkunu ekwivalenti jew essenzjalment paragunabbli fir-rigward tal-għanijiet tagħhom li l-applikant ikun diġà soġġett għalihom f’Malta jew fi Stat Membru ieħor.
 
 (5) Meta l-applikant ma jkunx diġà stabbilit f’Malta jew f’xi Stat Membru ieħor u jipproponi li jopera f’aktar minn post wieħed f’Malta fl-istess proċess ta’ applikazzjoni (Applikazzjoni Doppja) jew wara li jkun għamel l-ewwel applikazzjoni (Applikazzjoni Sussegwenti), l-applikant:
-
-*41*
 
 (a) fil-każ ta’ Applikazzjoni Doppja, ma jkunx jeħtieġlu jipprovdi l-informazzjoni li tkun komuni għaż-żewġ postijiet aktar minn darba iżda għandu jipprovdi kull informazzjoni li tkun speċifika jew li tkun partikolari għal dawk il-postijiet addizzjonali; u
 
@@ -1136,11 +1022,7 @@ Iżda t-tifsira "applikant" ma għandhiex tinkludi lil dawk l-applikanti li kell
 
 (3) Id-deċiżjoni li tieħu l-Awtorità għandha tintbagħat lill-applikant bil-posta reġistrata fl-indirizz speċifikat fl-applikazzjoni.
 
-(4) Meta l-Awtorità tkun ser tirrifjuta applikazzjoni, għandha, permezz ta’ avviż bil-miktub, tgħarraf lill-applikant bir-raġunijiet tagħha għal dan. Kull avviż ta’ rifjut għandu jgħid li l-applikant għandu dritt li, fi żmien għaxart (10) ijiem, iressaq rappreżentazzjonijiet bil-miktub lill-Awtorità, fejn jagħti r-raġunijiet għaliex l-applikazzjoni m’għandhiex tiġi rifjutata u l-Awtorità [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*42*
-
-għandha tieħu f’konsiderazzjoni dawk ir-rappreżentazzjonijiet hekk magħmula qabel ma tieħu deċiżjoni finali. L-Awtorità għandha, permezz ta’ avviż bil-miktub, tgħarraf lill-applikant konċernat bid-deċiżjoni finali tagħha.
+(4) Meta l-Awtorità tkun ser tirrifjuta applikazzjoni, għandha, permezz ta’ avviż bil-miktub, tgħarraf lill-applikant bir-raġunijiet tagħha għal dan. Kull avviż ta’ rifjut għandu jgħid li l-applikant għandu dritt li, fi żmien għaxart (10) ijiem, iressaq rappreżentazzjonijiet bil-miktub lill-Awtorità, fejn jagħti r-raġunijiet għaliex l-applikazzjoni m’għandhiex tiġi rifjutata u l-Awtorità għandha tieħu f’konsiderazzjoni dawk ir-rappreżentazzjonijiet hekk magħmula qabel ma tieħu deċiżjoni finali. L-Awtorità għandha, permezz ta’ avviż bil-miktub, tgħarraf lill-applikant konċernat bid-deċiżjoni finali tagħha.
 
 (5) Meta l-applikazzjoni tiġi rifjutata mill-Awtorità, l-applikant għandu jkollu d-dritt jappella quddiem it-Tribunal minn dik id-deċiżjoni fi żmien għoxrin (20) ġurnata minn meta din id-deċiżjoni tiġi notifikata lilu.
 
@@ -1172,11 +1054,9 @@ L-operatur għandu jara illi l-vetturi kollha reġistrati taħt il-liċenzja tie
 
 (2) L-operatur huwa obbligat li jżomm ir-records stipulati fis-subregolament (1) għall-perjodu ta’ sena (1) jew kif preskritt mill- Awtorità minn żmien għal żmien.
 
-*43*
+### 54. nodfa u fi stat tajjeb.
 
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 54. Il-vetturi kollha reġistrati taħt il-liċenzja ta’ operatur ta’ Vetturi għandhom servizzi għal kiri ta’ vetturi għandhom, f’kull ħin, jinżammu nodfa, jinżammu f’ordni tajba u fi stat tajjeb ta’ manutenzjoni.
-
-*nodfa u fi stat tajjeb.*
+Il-vetturi kollha reġistrati taħt il-liċenzja ta’ operatur ta’ Vetturi għandhom servizzi għal kiri ta’ vetturi għandhom, f’kull ħin, jinżammu nodfa, jinżammu f’ordni tajba u fi stat tajjeb ta’ manutenzjoni.
 
 ### 55. Vettura ta’ rimpjazzament.
 
@@ -1200,11 +1080,7 @@ Meta vettura tkun ġiet mikrija lil kerrej, l-operatur huwa obbligat li jipprovd
 
 (b) l-isem tal-operatur jew operaturi, kif ikun il-każ, li fl-operazzjonijiet tagħhom ikun ingaġġat ix-xufier.
 
-(5) Il-Parti IV tar-Reġistru għandha tkun maqsuma fis- Sezzjoni 1 u Sezzjoni 2. Fis-Sezzjoni 1 għandhom jiġu elenkati l-vetturi reġistrati taħt il-liċenzji ta’ operaturi ta’ servizzi ta’ ġarr ta’ [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*44*
-
-passiġġieri b’vetturi żgħar. Fis-Sezzjoni 2 għandhom jiġu elenkati l-vetturi reġistrati taħt il-liċenzji ta’ operaturi ta’ servizzi ta’ kiri ta’ vetturi. Dawk il-vetturi li huma aċċessibbli b’siġġu tar-roti għandhom jiġu speċifikament indikati fil-Parti IV tar-Reġistru.
+(5) Il-Parti IV tar-Reġistru għandha tkun maqsuma fis- Sezzjoni 1 u Sezzjoni 2. Fis-Sezzjoni 1 għandhom jiġu elenkati l-vetturi reġistrati taħt il-liċenzji ta’ operaturi ta’ servizzi ta’ ġarr ta’ passiġġieri b’vetturi żgħar. Fis-Sezzjoni 2 għandhom jiġu elenkati l-vetturi reġistrati taħt il-liċenzji ta’ operaturi ta’ servizzi ta’ kiri ta’ vetturi. Dawk il-vetturi li huma aċċessibbli b’siġġu tar-roti għandhom jiġu speċifikament indikati fil-Parti IV tar-Reġistru.
 
 (6) Fil-Parti V tar-Reġistru għandu jkun hemm reġistrat l-isem, l-indirizz u d-dettalji oħra rilevanti ta’ kull persuna jew impriża ti tingħata liċenzja mill-Awtorità biex tipprovdi servizz ta’ pjattaforma intermedjarja għall-prenotazzjoni, inkluż id-dettalji ta’ dawk l-operaturi ta’ servizzi ta’ ġarr ta’ passiġġieri b’vetturi żgħar li jagħmlu użu minn tali pjattaforma.
 
@@ -1226,11 +1102,7 @@ passiġġieri b’vetturi żgħar. Fis-Sezzjoni 2 għandhom jiġu elenkati l-vet
 
 (5) Bla ħsara għad-dispożizzjonijiet tat- Taqsima X, jekk l- Awtorità jkollha suspett raġjonevoli li operatur qiegħed iħaddem xufier fil-flotta tiegħu li ma huwiex impjegat jew ingaġġat skont il-liġi, l- Awtorità għandu jkollha l-jedd li tissospendi l-liċenzja tal-operatur u tordna lil kwalunkwe detentur tal-awtorizzazzjoni li jipprovdi servizz ta’ pjattaforma intermedjarja għall-prenotazzjoni sabiex simultanjament jissospendi r-reġistrazzjoni tiegħu fuq tali pjattaforma, sakemm l-Awtorità tikkonkludi l-investigazzjoni tagħha bl-għajnuna tad-Direttur Ġenerali responsabbli mill-Impjiegi u r-Relazzjonijiet Industrijali bħala l-uffiċjal kompetenti li huwa mogħti s-setgħat li jirregola kwistjonijiet ta’ xogħol u relazzjonijiet industrijali f’Malta skont id-dispożizzjonijiet tal-Att dwar l-Impiegi u r-Relazzjonijiet Industrijali.
 
-*45*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 TAQSIMA VIII
-
-**VETTURI LIĊENZJATI**
+## TAQSIMA VIII — VETTURI LIĊENZJATI
 
 ### 58. Jistgħu jiġu wżati biss vetturi liċenzjati. 
 
@@ -1250,13 +1122,9 @@ Iżda wkoll vettura ċertifikata bħala vettura vintage li ma tkunx reġistrata 
 
 (5) Vettura bil-mutur għal okkażjonijiet speċjali reġistrata taħt il-Parti VI tar-Reġistru għandha tintuża biss fl-operat ta’ dak l-operatur speċifiku li taħt il-liċenzja tiegħu tkun reġistrata.
 
-*46 Speċifikazzjonijiet ta’ vetturi reġistrati taħt Sezzjoni 1 ta’ Parti IV tar- Reġistru.  Emendat: A.L. 336 tal-2022; A.L. 111 tal-2023; A.L. 171 tal-2026.*
+*Speċifikazzjonijiet ta’ vetturi reġistrati taħt Sezzjoni 1 ta’ Parti IV tar- Reġistru.  Emendat: A.L. 336 tal-2022; A.L. 111 tal-2023; A.L. 171 tal-2026.*
 
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-### 59.
-
-(1) Ebda vettura ma għandha tiġi reġistrata taħt Sezzjoni 1 ta’ Parti IV tar-Reġistru jekk ma tkunx tissodisfa l-kondizzjonijiet li ġejjin:
+Sezzjoni 1 ta’ Parti IV tar-Reġistru jekk ma tkunx tissodisfa l-kondizzjonijiet li ġejjin:
 
 *L.S. 368. 02.*
 
@@ -1286,11 +1154,9 @@ Iżda wkoll vettura ċertifikata bħala vettura vintage li ma tkunx reġistrata 
 
 Iżda dawk il-vetturi li, fid-data meta jidħlu fis-seħħ dawn ir-regolamenti, huma diġà liċenzjati taħt liċenzja ta’ garage ta’ servizz pubbliku skont ir-Regolamenti dwar il-Vetturi bil-Mutur għandhom jitqiesu li jissodisfaw ir-rekwiżiti ta’ dan is-subregolament u għalhekk għandhom jiġu awtomatikament inklużi taħt Sezzjoni 1 ta’ Parti IV tar- Reġistru:
 
-Iżda wkoll l-Awtorità ma għandhiex tirreġistra jew U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 tilliċenzja l-ebda vettura żgħira għall-ġarr ta’ passiġġieri addizjonali taħt is-Sezzjoni 1 ta’ Parti IV tar-Reġistru u taħt liċenzja ta’ operatur matul il-perjodu ta’ validità tagħha jekk jirriżulta li n-numru ta’ spazji ta’ parkeġġ disponibbli ddikjarat fir-rapport tal-perit meħtieġ skont ir-regolamenti 5(4)(d) u 7(1)(e) jinqabeż u f’dak il-każ, l-operatur għandu jkollu d-dritt li jissottometti rapport tal-perit aġġornat li jinkludi kwalunkwe spazju ta’ parkeġġ privat addizzjonali li jista’ jkun disponibbli għall-użu esklussiv tiegħu.
+Iżda wkoll l-Awtorità ma għandhiex tirreġistra jew tilliċenzja l-ebda vettura żgħira għall-ġarr ta’ passiġġieri addizjonali taħt is-Sezzjoni 1 ta’ Parti IV tar-Reġistru u taħt liċenzja ta’ operatur matul il-perjodu ta’ validità tagħha jekk jirriżulta li n-numru ta’ spazji ta’ parkeġġ disponibbli ddikjarat fir-rapport tal-perit meħtieġ skont ir-regolamenti 5(4)(d) u 7(1)(e) jinqabeż u f’dak il-każ, l-operatur għandu jkollu d-dritt li jissottometti rapport tal-perit aġġornat li jinkludi kwalunkwe spazju ta’ parkeġġ privat addizzjonali li jista’ jkun disponibbli għall-użu esklussiv tiegħu.
 
 (2) Il-vetturi reġistrati taħt Sezzjoni 1 ta’ Parti IV tar- Reġistru għandu jkollhom pjanċa ta’ reġistrazzjoni li tinkludi ittra segwita bl-ittri ‘GY’ jew ‘LY’ u tliet numri:
-
-*47*
 
 Iżda s-sidien ta’ vetturi li għandhom pjanċa ta’ reġistrazzjoni li tinkludi ittra segwita bl-ittri ‘GY’ se jkunu jistgħu jibdlu l-pjanċa ta’ reġistrazzjoni ma’ waħda li jkollha ittra segwita bl-ittri ‘LY’ sakemm dawn il-vetturi jkunu jissodisfaw ir-rekwiżiti stipulati fis-subregolament (1) ħlief għar-rekwiżit stipulat fil-paragrafu (ċ).
 
@@ -1300,11 +1166,7 @@ Iżda fir-rigward ta’ dawk il-vetturi li ma humiex ċertifikati bħala vetturi
 
 Iżda wkoll tali vetturi għal okkażjonijiet speċjali li għandhom aktar minn tnejn u għoxrin (22) sena, magħduda mid-data tal-ewwel reġistrazzjoni iżda li ma humiex ċertifikati bħala vetturi vintage u ġew liċenzjati mill-Awtorità abbażi tal-proviso preċedenti għandhom jintużaw biss għall-iskopijiet permessi mil-liċenzja għall-vetturi bil-mutur għal okkażjonijiet speċjali.
 
-Iżda wkoll s-sidien ta’ vetturi żgħar għall-ġarr ta’ passiġġieri li diġà huma liċenzjati u qegħdin jintużaw u li għandhom tnejn u għoxrin (22) sena jew aktar fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti jkollhom id-dritt li jibdlu dawn il-vetturi b’vetturi oħra li mhumiex ġodda iżda li ma jkollhomx iżjed minn sentejn (2) magħduda mid-data tal-ewwel reġistrazzjoni u dan sa mhux iżjed tard minn tmienja u erbgħin (48) xahar mid-data tad-dħul fis-seħħ ta’ dawn U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*[L.S. 65.33 48*
-
-ir-regolamenti.
+Iżda wkoll s-sidien ta’ vetturi żgħar għall-ġarr ta’ passiġġieri li diġà huma liċenzjati u qegħdin jintużaw u li għandhom tnejn u għoxrin (22) sena jew aktar fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti jkollhom id-dritt li jibdlu dawn il-vetturi b’vetturi oħra li mhumiex ġodda iżda li ma jkollhomx iżjed minn sentejn (2) magħduda mid-data tal-ewwel reġistrazzjoni u dan sa mhux iżjed tard minn tmienja u erbgħin (48) xahar mid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti.
 
 *\60.*
 
@@ -1332,11 +1194,9 @@ Iżda fir-rigward ta’ vetturi bil-mutur għall-kiri li huma diġà liċenzjati
 
 Iżda wkoll s-sidien ta’ vetturi tal-kiri li diġà huma liċenzjati u qed jintużaw għall-ġarr ta’ passiġġieri u li għandhom ħmistax (15)-il sena jew aktar fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti jkollhom id-dritt li jibdlu dawn il-vetturi b’vetturi oħra li mhumiex ġodda iżda li ma jkollhomx iżjed minn sentejn magħduda mid-data tal-ewwel reġistrazzjoni u dan sa mhux iżjed tard minn tmienja u erbgħin (48) xahar mid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti:
 
-Iżda wkoll is-sidien ta’ vetturi tal-kiri li U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 diġà qed jintużaw u huma liċenzjati għall-ġarr ta’ passiġġieri u li għandhom ħmistax (15)-il sena jew aktar mid-data tar-reġistrazzjoni fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti għandhom jitħallew ikomplu jagħmlu użu minn tali vetturi għall-għoti ta’ servizzi ta’ kiri sal-31 ta’ Diċembru 2025;
+Iżda wkoll is-sidien ta’ vetturi tal-kiri li diġà qed jintużaw u huma liċenzjati għall-ġarr ta’ passiġġieri u li għandhom ħmistax (15)-il sena jew aktar mid-data tar-reġistrazzjoni fid-data tad-dħul fis-seħħ ta’ dawn ir-regolamenti għandhom jitħallew ikomplu jagħmlu użu minn tali vetturi għall-għoti ta’ servizzi ta’ kiri sal-31 ta’ Diċembru 2025;
 
 (iii) vetturi N1 tal-kiri reġistrati għall-ewwel darba fuq l-awtorizzazzjoni tal-operatur ma għandhomx ikunu ta’ iżjed minn erba’ (4) snin magħduda mid-data tal-ewwel reġistrazzjoni u l-liċenzja tagħhom ma għandhiex tiġi mġedda meta jgħaddu ħmistax (15)-il sena magħduda mid-data tal-ewwel reġistrazzjoni tal-vettura;
-
-*49*
 
 (iv) vetturi N2 tal-kiri reġistrati għall-ewwel darba fuq l-awtorizzazzjoni tal-operatur ma għandhomx ikunu ta’ iżjed minn sitt (6) snin magħduda mid-data tal-ewwel reġistrazzjoni u l-liċenzja tagħhom ma għandhiex tiġi mġedda meta jgħaddu għoxrin (20) sena magħduda mid-data tal-ewwel reġistrazzjoni tal-vettura;
 
@@ -1350,13 +1210,9 @@ Iżda fir-rigward ta’ dawk il-vetturi msemmija fis-subparagrafi (iii) u (iv) l
 
 Iżda s-sidien ta’ vetturi li għandhom pjanċa ta’ reġistrazzjoni li tinkludi żewġ ittri segwiti bl-ittri ‘K’ se jkunu jistgħu jibdlu l-pjanċa ta’ reġistrazzjoni ma’ waħda li jkollha ittra segwita bl-ittri ‘QZ’ sakemm dawn il-vetturi jkunu jissodisfaw ir-rekwiżiti stipulati fis-subregolament (1) ħlief għar-rekwiżit stipulat fil-paragrafu (b)(ii).
 
-*50 Rekwiżiti applikabbli għall-vetturi kollha.  Emendat: A.L. 246 tal-2023.*
+*Rekwiżiti applikabbli għall-vetturi kollha.  Emendat: A.L. 246 tal-2023.*
 
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-### 61.
-
-(1) Il-vetturi kollha reġistrati taħt liċenzja ta’ operatur għal servizzi ta’ ġarr tal-passiġġieri b’vetturi żgħar u għal servizzi ta’ kiri ta’ vetturi għandhom:
+għal servizzi ta’ ġarr tal-passiġġieri b’vetturi żgħar u għal servizzi ta’ kiri ta’ vetturi għandhom:
 
 (a) ikunu koperti skont il-liġi b’polza ta’ assigurazzjoni dwar ir-riskji ta’ terzi persuni;
 
@@ -1382,9 +1238,7 @@ Iżda s-sidien ta’ vetturi li għandhom pjanċa ta’ reġistrazzjoni li tinkl
 
 (2) F’każ li jkun hemm xi reklamar, ittri jew materjal stampat ieħor bi ksur ta’ xi liġi jew regolamenti maħruġa taħtha jew ta’ xi ordni tal-Awtorità, l-Awtorità tista’ tissospendi l-liċenzja ta’ dik il-vettura u l-operatur ma jkollux dritt li jkompli jagħmel użu minn tali vettura fl-operazzjonijiet tiegħu sakemm dak il-ksur ma jiġix rimedjat għas-sodisfazzjon tal-Awtorità.
 
-*51*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (3) Mingħajr preġudizzju għad-dispożizzjonijiet fuq imsemmija, ma għandu jkun hemm xejn illi jtellef jew jinterferixxi mal-viżwali tax-xufier jew li jista’ jnaqqas b’mod sostanzjali l-viżwali tal-passiġġieri.
+(3) Mingħajr preġudizzju għad-dispożizzjonijiet fuq imsemmija, ma għandu jkun hemm xejn illi jtellef jew jinterferixxi mal-viżwali tax-xufier jew li jista’ jnaqqas b’mod sostanzjali l-viżwali tal-passiġġieri.
 
 (4) L-Awtorità għandha d-dritt li, fid-diskrezzjoni assoluta tagħha, tordna t-tneħħija ta’ kwalunkwe reklamar.
 
@@ -1410,10 +1264,6 @@ Kull provditur ta’ servizz ta’ pjattaforma intermedjarja għall-prenotazzjon
 
 (ċ) l-isem, indirizz u dettalji relattivi għall-persuna maħtura speċifikament li għandha jkollha r-residenza ordinarja tagħha f’Malta u li għall-finijiet u l-effetti kollha ta’ dawn ir-regolamenti tkun responsabbli għall-operat u l-amministrazzjoni tas-servizz ta’ pjattaforma intermedjarja għall-prenotazzjoni.
 
-*52*
-
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
 (4) L-applikazzjoni għall-għoti ta’ awtorizzazzjoni skont is-subregolament (1) għandha ssir flimkien mal-ħlas preskritt fl-Ewwel Skeda.
 
 (5) L-awtorizzazzjoni għandha tinħareġ f’isem l-impriża li tkun issottomettiet l-applikazzjoni u għandha tiġi mġedda kull sentejn (2), kif soġġetta għall-ħlas tat-tariffa annwali ta’ awtorizzazzjoni fl- Ewwel Skeda, sakemm u diment li ma tkunx revokata, sospiża jew ċeduta:
@@ -1438,11 +1288,9 @@ Iżda meta fornitur ta’ servizz ta’ pjattaforma intermedjarja għall-prenota
 
 (2) Id-deċiżjoni li tieħu l-Awtorità għandha tintbagħat lill-applikant bil-posta reġistrata fl-indirizz speċifikat fl-applikazzjoni.
 
-(3) Meta l-Awtorità tkun ser tirrifjuta applikazzjoni, għandha, permezz ta’ avviż bil-miktub, tgħarraf lill-applikant bir-raġunijiet tagħha għal dan. Kull avviż ta’ rifjut għandu jgħid li l-applikant għandu dritt li, fi żmien għaxart (10) ijiem, iressaq rappreżentazzjonijiet bil- U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 miktub lill-Awtorità, fejn jagħti r-raġunijiet għaliex l-applikazzjoni ma għandhiex tiġi rifjutata u l-Awtorità għandha tieħu f’konsiderazzjoni dawk ir-rappreżentazzjonijiet hekk magħmula qabel ma tieħu deċiżjoni finali. L-Awtorità għandha, permezz ta’ avviż bil-miktub, tgħarraf lill-applikant konċernat bid-deċiżjoni finali tagħha.
+(3) Meta l-Awtorità tkun ser tirrifjuta applikazzjoni, għandha, permezz ta’ avviż bil-miktub, tgħarraf lill-applikant bir-raġunijiet tagħha għal dan. Kull avviż ta’ rifjut għandu jgħid li l-applikant għandu dritt li, fi żmien għaxart (10) ijiem, iressaq rappreżentazzjonijiet bil-miktub lill-Awtorità, fejn jagħti r-raġunijiet għaliex l-applikazzjoni ma għandhiex tiġi rifjutata u l-Awtorità għandha tieħu f’konsiderazzjoni dawk ir-rappreżentazzjonijiet hekk magħmula qabel ma tieħu deċiżjoni finali. L-Awtorità għandha, permezz ta’ avviż bil-miktub, tgħarraf lill-applikant konċernat bid-deċiżjoni finali tagħha.
 
 (4) Meta l-applikazzjoni tiġi rifjutata mill-Awtorità, l-applikant għandu jkollu d-dritt jappella quddiem it-Tribunal minn dik id-deċiżjoni fi żmien għoxrin (20) ġurnata minn meta din id-deċiżjoni tiġi notifikata lilu.
-
-*53*
 
 ### 66A. Obbligi tal-pjattaformi ta’ prenotazzjoni.
 
@@ -1466,10 +1314,6 @@ Iżda meta fornitur ta’ servizz ta’ pjattaforma intermedjarja għall-prenota
 
 (g) fil-każ li l-operatur jopera flotta għall-ġarr ta’ passiġġieri b’vetturi żgħar u jimpjega diversi xufiera:
 
-*54*
-
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
 (i) id-dettalji elenkati fil-paragrafi (a) sa (f) relattivi għal kull vettura u xufier reġistrati taħt il-liċenzja tal-operatur tiegħu, jekk applikabbli;
 
 (ii) id-dettalji tan-numru tal-Permission to Employ (PE) u d-dokument rigward l-Employment History Document maħruġ mill-Aġenzija Jobsplus għal kull xufier impjegat mal-operatur;
@@ -1490,9 +1334,7 @@ Iżda meta fornitur ta’ servizz ta’ pjattaforma intermedjarja għall-prenota
 
 (b) il-liċenzja tat-triq valida tal-vettura żgħira għall-ġarr ta’ passiġġieri;
 
-*55*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (ċ) prova taċ-ċertifikat sħiħ tal-kit tas-sigurtà;
+(ċ) prova taċ-ċertifikat sħiħ tal-kit tas-sigurtà;
 
 (d) sticker valida ta’ aċċess tal-ajruport, fejn applikabbli;
 
@@ -1510,13 +1352,11 @@ Iżda għall-finijiet tar-regolament (5) l-Awtorità għandha taqsam b’mod per
 
 *               Kap. 586.*
 
-Iżda l-fornitur tas-servizz tal-pjattaforma għandu d-dritt jirrifjuta t-talba tal-Awtorità jekk jemmen li t-talba hija bla bżonn, sproporzjonata jew tikser ir-Regolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad-Data), kif implimentat fl-Att dwar il-Protezzjoni u l-Privatezza tad-Data. L-Awtorità u d-detentur tal-awtorizzazzjoni sabiex jipprovdi servizz ta’ pjattaforma intermedjarja għall-prenotazzjoni għandhom jirrikorru għad-deċiżjoni tal-Kummissarju għall-Informazzjoni u l-Protezzjoni tad-Data jekk l- Awtorità ma tirtirax it-talba kkontestata fi żmien erbgħa u għoxrin (24) siegħa min-notifika tar-rifjut u t-trasferiment tad-data jibqa’ pendenti: [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*56     L.S. 595.07.        Kap. 594.*
-
-Iżda wkoll il-fornitur tas-servizz tal-pjattaforma għandu jirrikonoxxi u jaċċetta li l-informazzjoni miġbura mill-Awtorità mingħand il-fornitur tas-servizz tal-pjattaforma tista’ tiġi trażmessa b’mod sigur lil entitajiet pubbliċi oħra fi ħdan l-istruttura amministrattiva usa’ tal-Gvern ta’ Malta li jinkludi, il-Kummissarju, l- Aġenzija Identità Malta stabbilita mill-Ordni li Jwaqqaf l-Aġenzija Identità Malta awtoirizzata mid-Direttur għaċ-Ċittadinanza u l-Affarjiet Espatrijati sabiex tittratta l-materji kollha relatati mal-permessi ta’ residenza u l-liċenzji tal-impjieg, id-Dipartiment għar-Relazzjonijiet Industrijali u tal-Impjiegi u l-Korporazzjoni Jobsplus stabbilita bl-artikolu 5 tal-Att dwar is-Servizzi ta’ Impjieg u Taħriġ.
+Iżda l-fornitur tas-servizz tal-pjattaforma għandu d-dritt jirrifjuta t-talba tal-Awtorità jekk jemmen li t-talba hija bla bżonn, sproporzjonata jew tikser ir-Regolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad-Data), kif implimentat fl-Att dwar il-Protezzjoni u l-Privatezza tad-Data. L-Awtorità u d-detentur tal-awtorizzazzjoni sabiex jipprovdi servizz ta’ pjattaforma intermedjarja għall-prenotazzjoni għandhom jirrikorru għad-deċiżjoni tal-Kummissarju għall-Informazzjoni u l-Protezzjoni tad-Data jekk l- Awtorità ma tirtirax it-talba kkontestata fi żmien erbgħa u għoxrin (24) siegħa min-notifika tar-rifjut u t-trasferiment tad-data jibqa’ pendenti: jirrikonoxxi u jaċċetta li l-informazzjoni miġbura mill-Awtorità mingħand il-fornitur tas-servizz tal-pjattaforma tista’ tiġi trażmessa b’mod sigur lil entitajiet pubbliċi oħra fi ħdan l-istruttura amministrattiva usa’ tal-Gvern ta’ Malta li jinkludi, il-Kummissarju, l- Aġenzija Identità Malta stabbilita mill-Ordni li Jwaqqaf l-Aġenzija Identità Malta awtoirizzata mid-Direttur għaċ-Ċittadinanza u l-Affarjiet Espatrijati sabiex tittratta l-materji kollha relatati mal-permessi ta’ residenza u l-liċenzji tal-impjieg, id-Dipartiment għar-Relazzjonijiet Industrijali u tal-Impjiegi u l-Korporazzjoni Jobsplus stabbilita bl-artikolu 5 tal-Att dwar is-Servizzi ta’ Impjieg u Taħriġ.
 
 (7) Kull meta l-Awtorità toħroġ notifika formali li flotta ta’ vetturi żgħar għall-ġarr ta’ passiġġieri jew parti minnha ġiet sospiża, konfiskata, jew imneħħija mit-toroq jew mir-Reġistru korrispondenti tagħha għal kwalunkwe raġuni, id-detentur ta’ awtorizzazzjoni sabiex jipprovdi servizz ta’ pjattaforma intermedjarja għall-ibbukkjar għandu, fi żmien erbgħa u għoxrin (24) siegħa min-notifika formali tal-Awtorità jaġġorna s-sistemi tiegħu sabiex il-vetturi kkonċernati ma jibqgħux disponibbli u ma jirċevux aktar prenotazzjonijiet permezz tal-pjattaforma intermedjarja.
+
+*    L.S. 595.07.        Kap. 594.*
 
 (8) Id-detentur ta’ awtorizzazzjoni sabiex jipprovdi servizz ta’ pjattaforma intermedjarja għall- prenotazzjoni għandu jieħu l-miżuri kollha neċessarji, inklużi iżda mhux limitatament, għall-inklużjoni ta’ funzjonijiet fis-software rilevanti tal-applikazzjonijiet online tiegħu, sabiex jipprekludi lix-xufier għall-ġarr ta’ passiġġieri b’ vettura żgħira milli jaħdem b’mod li jikser l-obbligi minimi ta’ mistrieħ skont ir-regolament 37A. Id-detentur tal-awtorizzazzjoni għandu jkun obbligat jaġixxi b’mod immedjat ladarba d-database tiegħu tirċievi notifika li sewwieq ta’ vettura żgħira għat-trasport ta’ passiġġieri naqset milli taderixxi mal-obbligi minimi ta’ mistrieħ skont ir-regolament 37A u għandu jissospendi l-prenotazzjonijiet relatati ma’ dak ix-xufier u b’estensjoni, ma’ dik il-vettura sakemm in-nuqqas jiġi rimedjat.
 
@@ -1524,11 +1364,9 @@ Iżda wkoll il-fornitur tas-servizz tal-pjattaforma għandu jirrikonoxxi u jaċ�
 
 (a) qabel l-ewwel log-in tax-xufier imsemmi matul ġurnata kalendarja; u
 
-(b) b’mod perjodiku matul dik il-ġurnata kalendarja sabiex tiġi kkonfermata l-identità tax-xufier permezz ta’ talbiet ta’ verifika bl-għarfien tal-wiċċ kull meta s-sewwieq jeċċedi perjodu ta’ mhux anqas minn tliet (3) sigħat ta’ sewqan U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 kontinwu fuq l-applikazzjoni tal-pjattaforma tal-intermedjarju għall-prenotazzjoni.
+(b) b’mod perjodiku matul dik il-ġurnata kalendarja sabiex tiġi kkonfermata l-identità tax-xufier permezz ta’ talbiet ta’ verifika bl-għarfien tal-wiċċ kull meta s-sewwieq jeċċedi perjodu ta’ mhux anqas minn tliet (3) sigħat ta’ sewqan kontinwu fuq l-applikazzjoni tal-pjattaforma tal-intermedjarju għall-prenotazzjoni.
 
 (10) Id-detentur ta’ awtorizzazzjoni sabiex jipprovdi servizz ta’ pjattaforma intermedjarja għall-prenotazzjoni għandu jaderixxi ma’ korelazzjoni stretta ta’ wieħed għal wieħed (1:1) bejn vetturi attivi rreġistrati skont is-subregolament (4). Id-detentur għandu jiżgura li l-ebda flotta ma tista’ ddaħħal aktar vetturi żgħar għall-ġarr ta’ passiġġieri sakemm dik il-vettura ma jkollhiex xufier korrispondenti li jkun konformi għal kollox ma’ dawn ir-regolamenti u għandu jissorvelja kontinwament id-databases tiegħu sabiex jirrestrinġi u jissospendi kwakunkwe vettura addizzjonali kull meta jseħħ ksur ta’ dan is-subregolament:
-
-*57*
 
 Iżda meta d-detentur ta’ awtorizzazzjoni sabiex jipprovdi servizz ta’ pjattaforma intermedjarja għal prenotazzjoni jonqos milli jżomm il-proporzjon meħtieġ bejn ix-xufier u l-vettura, għandu jkun dovut dritt amministrattiv ta’ elf u mitejn euro (€1,200) għal kull vettura addizzjonali li teċċedi l-proporzjon permissibbli lill-Awtorità għal kull xahar li matulu tali nuqqas jippersisti.
 
@@ -1552,11 +1390,7 @@ Iżda meta d-detentur ta’ awtorizzazzjoni sabiex jipprovdi servizz ta’ pjatt
 
 Iżda għall-finijiet tal-ksur skont is-subparagrafu (d), l- Awtorità għandha biss tiftaħ proċeduri skont is-subregolament (1) jekk taċċerta li l-allegat ħati diġa’ ġie preċedentament imressaq u mmultat skont is-subregolament (2):
 
-Iżda għall-finijiet ta’ dan is-subregolament, l-allegat ħati jista’ jinftiehem jew bħala x-xufier għall-ġarr ta’ passiġġieri b’vetturi [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*58*
-
-żgħar u, jew id-detentur tal-liċenzja tal-operatur. L-Awtorità tista’ wkoll tagħżel li tissospendi l-liċenzja, it-tag tax-xufier rispettiv jew kwalunkwe awtorizzazzjoni oħra, skont il-każ, u timponi tnaqqis ta’ punti penali fid-diskrezzjoni assoluta tagħha.
+Iżda għall-finijiet ta’ dan is-subregolament, l-allegat ħati jista’ jinftiehem jew bħala x-xufier għall-ġarr ta’ passiġġieri b’vetturi żgħar u, jew id-detentur tal-liċenzja tal-operatur. L-Awtorità tista’ wkoll tagħżel li tissospendi l-liċenzja, it-tag tax-xufier rispettiv jew kwalunkwe awtorizzazzjoni oħra, skont il-każ, u timponi tnaqqis ta’ punti penali fid-diskrezzjoni assoluta tagħha.
 
 għandha tkun ħatja ta’ reat u għandha, meta tinstab ħatja, tkun suġġetta għal multa ta’ mhux aktar minn għaxart elef euro (€10,000), jew għall-priġunerija ta’ mhux aktar minn sitt (6) xhur, jew kemm għal multa kif ukoll għall-priġunerija. Barra minn hekk, il-Qorti tista’ tordna li tiġi revokata immedjatament kull awtorizzazzjoni, liċenzja jew permess miżmum skont dawn ir-regolamenti mill-persuna li tinstab ħatja ta’ dak ir-reat.
 
@@ -1580,11 +1414,9 @@ Iżda wkoll għall-finijiet ta’ dan is-subregolament, l-allegat ħati jista’
 
 (3) Kull persuna li tikser ir-regolament 72 għandha tkun ħatja ta’ reat u għandha, meta tinstab ħatja, tkun soġġetta għal multa (ammenda) ta’ mitejn euro (€200).
 
-(4) Kull persuna li tipprovdi servizzi intermedjarji bi ksur ta’ xi waħda mill-kondizzjonijiet stipulati 64, 65 u 66A għandha tkun ħatja ta’ reat u għandha, meta tinstab ħatja, tkun soġġetta għal multa ta’ mhux anqas minn ħames mitt euro (€500) u mhux aktar minn elf u U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 mitejn euro (€1,200):
+(4) Kull persuna li tipprovdi servizzi intermedjarji bi ksur ta’ xi waħda mill-kondizzjonijiet stipulati 64, 65 u 66A għandha tkun ħatja ta’ reat u għandha, meta tinstab ħatja, tkun soġġetta għal multa ta’ mhux anqas minn ħames mitt euro (€500) u mhux aktar minn elf u mitejn euro (€1,200):
 
 Iżda fil-każ li d-detentur tal-awtorizzazzjoni li jipprovdi servizzi ta’ pjattaforma intermedjarja għall-prenotazzjoni jikser kwalunkwe mid-dispożizzjonijiet tar-regolament 66A, bil-konsegwenza li flotta ta’ vetturi żgħar għall-ġarr ta’ passiġġieri jew parti minnha titħalla tibqa’ tidher fuq il-pjattaforma u, jew taċċetta prenotazzjonijet fuq l-istess pjattaforma, kontra kwalunkwe ordni jew deċiżjoni tal-Awtorità, il-qorti kompetenti għandha timponi multa skont is-subregolament (4) separatament fir-rigward ta’ kull vettura li titħalla tidher jew tirċievi prenotazzjonijiet fuq il-pjattaforma intermedjarja.
-
-*59*
 
 (5) Persuna li, bil-għan li tikseb, sew għaliha nnfisha sew għal ħaddieħor, l-għoti jew tiġdid ta’ liċenzja, awtorizzazzjoni jew permess skont dawn ir-regolamenti, tagħmel dikjarazzjoni b’dawn ir-regolamenti li taf li hi falza, jew tissottometti dokument falz, għandha tkun ħatja ta’ reat u għandha, meta tinstab ħatja, tkun soġġetta għal priġunerija għal perjodu ta’ mhux aktar minn sitt (6) xhur jew għal multa ta’ mhux iżjed minn tnax-il elf euro (€12,000), jew kemm il-multa kif ukoll il-priġunerija. Barra minn hekk, il-Qorti għandha tordna li tiġi revokata immedjatament il-liċenzja li għaliha saret dikjarazzjoni falza kif ukoll kull liċenzja, awtorizzazzjoni u, jew permess li għandha skont dawn ir-regolamenti l-persuna li tinstab ħatja ta’ dan ir-reat.
 
@@ -1596,11 +1428,7 @@ Iżda fil-każ li d-detentur tal-awtorizzazzjoni li jipprovdi servizzi ta’ pja
 
 *   Kap. 65.*
 
-(8) B’referenza għall-penali stabbiliti fis-subregolamenti (2) u (3), f’każ li l-istess fatt ikun jikkostitwixxi wkoll kontravvenzjoni ta’ waħda mid-dispożizzjonijiet tal-Ordinanza dwar ir-Regolament tat- Traffiku jew kull regolament magħmul taħtha, jew l-Att jew kull regolament magħmul taħtu, li jġorr miegħu piena akbar minn dik stabbilita fis-subregolamenti (2) u (3), għandha tiġi applikata l-ogħla [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*60*
-
-piena.
+(8) B’referenza għall-penali stabbiliti fis-subregolamenti (2) u (3), f’każ li l-istess fatt ikun jikkostitwixxi wkoll kontravvenzjoni ta’ waħda mid-dispożizzjonijiet tal-Ordinanza dwar ir-Regolament tat- Traffiku jew kull regolament magħmul taħtha, jew l-Att jew kull regolament magħmul taħtu, li jġorr miegħu piena akbar minn dik stabbilita fis-subregolamenti (2) u (3), għandha tiġi applikata l-ogħla piena.
 
 (9) Kull min b’xi mod iżomm jew ifixkel lil xi uffiċjal awtorizzat biex jispezzjona milli jeżerċita s-setgħat jew id-doveri tiegħu, jew jinterfieri meta mhux suppost fl-eżerċizzju ta’ dawk is-setgħat jew doveri, jew jirrifjuta li jikkonforma mal-ordnijiet jew direttivi li jagħti dak l-uffiċjal awtorizzat biex jispezzjona fit-twettiq tas-setgħat tiegħu jew ta’ dmirijietu, għandu, meta jinstab ħati, ikun soġġett, mingħajr preġudizzju għal kull liġi oħra, għal multa ta’ mhux anqas minn mija u għoxrin euro (€120) u mhux aktar minn mitejn u ħamsin euro (€250) għall-ewwel akkuża, u għal multa ta’ mhux anqas minn mitejn u ħamsin euro (€250) u mhux aktar minn elf u mitejn euro (€1,200) għal kull akkuża sussegwenti.
 
@@ -1616,9 +1444,7 @@ piena.
 
 (2) Kull meta l-istess detentur ta’ liċenzja u, jew xufier jinstab ħati tat-tielet ksur tar-regolament 37A, għandu jeħel, meta jinstab ħati, multa (ammenda) ta’ elf euro (€1,000). L-Awtorità għandha wkoll tissospendi l-validità tat-tag tax-xufier rilevanti għal perjodu ta’ mhux anqas minn tnax (12)-il xahar u timponi ħamsin (50) punt penali fuq il-liċenzja tal-operatur.
 
-*61*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 (13) Bla ħsara għal kwalunkwe dispożizzjoni oħra ta’ dawn  ir-regolamenti, l-Awtorità għandha immedjatament tissospendi l-  validità tat-tag ta’ kull xufier li jinstab li jkun qabeż il-limitu legali ta’  alkoħol ta’ żero (0) milligrammi għal kull mitt (100) millilitru demm Kap. 65. skont l-artikolu 15I tal-Ordinanza dwar ir-Regolament tat-Traffiku, sakemm jingħalqu kwalunkwe proċeduri oħra.
+(13) Bla ħsara għal kwalunkwe dispożizzjoni oħra ta’ dawn  ir-regolamenti, l-Awtorità għandha immedjatament tissospendi l-  validità tat-tag ta’ kull xufier li jinstab li jkun qabeż il-limitu legali ta’  alkoħol ta’ żero (0) milligrammi għal kull mitt (100) millilitru demm Kap. 65. skont l-artikolu 15I tal-Ordinanza dwar ir-Regolament tat-Traffiku, sakemm jingħalqu kwalunkwe proċeduri oħra.
 
 ### 68.
 
@@ -1634,11 +1460,7 @@ Iżda, minkejja d-dispożizzjonijiet tas-subregolament (3), meta persuna tikser 
 
 (5) Il-punti tal-penali u l-penalitajiet amministrattivi għandhom jiġu imposti mill-Awtorità mingħajr il-bżonn ta’ rikors għal smigħ fil-qorti u jistgħu jiġu imposti bħala penali ta’ darba jew ta’ kuljum b’mod konsekuttiv sakemm ikunu konformi, pero f’tali każ il-penali akkumulata ma għandhiex taqbeż is-somma ta’ elfejn euro (€2,000) fir-rigward ta’ detentur ta’ permess ta’ xufier u ta’ ħamest elef euro (€5,000) fir-rigward ta’ detentur ta’ liċenzja ta’ operatur.
 
-(6) Qabel ma timponi penali amministrattiva skont dawn ir-regolamenti, l-Awtorità għandha tinforma l-persuna li fuqha tkun se tiġi imposta l-penali bl-intenzjoni tagħha permezz ta’ avviż bil-miktub. Dak l-avviż għandu jindika li l-persuna konċernata għandha d-dritt li tagħmel rappreżentazzjonijiet bil-miktub lill-Awtorità fi żmien għaxart [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*62*
-
-ijiem billi tagħti raġunijiet għaliex il-penali amministrattiva m’għandhiex tiġi imposta u l-Awtorità għandha tikkonsidra kull rappreżentazzjoni li ssir b’dan il-mod qabel ma tasal għal deċiżjoni finali. L-Awtorità għandha tavża lill-applikant konċernat bid-deċiżjoni tagħha bil-miktub.
+(6) Qabel ma timponi penali amministrattiva skont dawn ir-regolamenti, l-Awtorità għandha tinforma l-persuna li fuqha tkun se tiġi imposta l-penali bl-intenzjoni tagħha permezz ta’ avviż bil-miktub. Dak l-avviż għandu jindika li l-persuna konċernata għandha d-dritt li tagħmel rappreżentazzjonijiet bil-miktub lill-Awtorità fi żmien għaxart ijiem billi tagħti raġunijiet għaliex il-penali amministrattiva m’għandhiex tiġi imposta u l-Awtorità għandha tikkonsidra kull rappreżentazzjoni li ssir b’dan il-mod qabel ma tasal għal deċiżjoni finali. L-Awtorità għandha tavża lill-applikant konċernat bid-deċiżjoni tagħha bil-miktub.
 
 (7) Meta dawn ir-regolamenti jinkisru minn operatur li huwa persuna naturali, l-Awtorità għandha żżomm lill-persuna maħtura speċifikament responsabbli in solidum mal-operatur għall-ħlas ta’ kull penali amministrattiva, sakemm il-persuna maħtura speċifikament ma turix li l-att sar mingħajr l-għarfien tagħha u li hi eżerċitat prudenza kif imiss biex iżżomm milli jsir dak il-ksur.
 
@@ -1652,13 +1474,11 @@ ijiem billi tagħti raġunijiet għaliex il-penali amministrattiva m’għandhie
 
 (3) Jekk mat-tiġdid tal-liċenzja u, jew permess mogħti skont dawn ir-regolamenti, il-persuna li f’isimha hi mogħtija dik il-liċenzja u, jew permess ikollha tagħti lill-Awtorità dejn ċivili skont is-subregolament (2), dik il-liċenzja u, jew permess ma jiġġeddux jekk u sakemm dak id-dejn ma jitħallasx kollu.
 
-(4) Jekk waqt li tkun qed issir spezzjoni dwar konformità mill-Awtorità, ikun dovut dejn ċivili mill-operatur lill-Awtorità, il-liċenzja relattiva għandha tiġi sospiża mingħajr il-bżonn ta’ rikors U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 għand it-Tribunal sakemm dak id-dejn jitħallas kollu.
+(4) Jekk waqt li tkun qed issir spezzjoni dwar konformità mill-Awtorità, ikun dovut dejn ċivili mill-operatur lill-Awtorità, il-liċenzja relattiva għandha tiġi sospiża mingħajr il-bżonn ta’ rikors għand it-Tribunal sakemm dak id-dejn jitħallas kollu.
 
 ### 70. L-ebda azzjoni kriminali meta titħallas il-penali amministrattiva.
 
 F’każ li l-Awtorità timponi penali amministrattiva skont ir-regolament 69, u l-persuna li fuqha ġiet imposta dik il-penali tħallas dik il-penali lill-Awtorità fi żmien tletin (30) ġurnata mid-data li fiha tirċievi l-intimazzjoni biex tħallas, ma jinbdew l-ebda proċeduri kriminali kontra l-persuna b’rabta mal-ksur relattiv.
-
-*63*
 
 ### 71. Sospensjoni jew irtirar ta’ liċenzja jew permess. 
 
@@ -1682,13 +1502,9 @@ Iżda wkoll meta operatur jinstab li kiser id-disposizzjonijiet tar-regolament 3
 
 Meta permess ta’ xufier jiġi sospiż jew revokat jew ma jkunx għadu fis-seħħ, għal kwalunkwe raġuni, ix-xufier għandu immedjatament jgħaddi l-liċenzja tas-sewqan tiegħu lill-Awtorità u l- Awtorità għandha temenda tali liċenzja tas-sewqan skont il-każ.
 
-*64 Sospensjoni jew irtirar ta’ liċenzja u, jew permess.*
+*Sospensjoni jew irtirar ta’ liċenzja u, jew permess.*
 
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-### 73.
-
-Fejn ikunu nbdew proċeduri kriminali kontra operatur jew xufier akkużat b’xi wieħed mir-reati elenkati fir-regolament 9(1)(a) fejn, jekk ikun hemm sejbien ta’ ħtija, dak l-operatur u, jew xufier ma jibqax jissodisfa l-kriterju ta’ reputazzjoni u kondotta tajba meħtieġa biex iżomm liċenzja ta’ operatur u, jew permess ta’ xufier, il-liċenzja u, jew il-permess ta’ dik il-persuna għandhom jiġu sospiżi sakemm tingħata sentenza definittiva f’dawk il-proċeduri.
+xufier akkużat b’xi wieħed mir-reati elenkati fir-regolament 9(1)(a) fejn, jekk ikun hemm sejbien ta’ ħtija, dak l-operatur u, jew xufier ma jibqax jissodisfa l-kriterju ta’ reputazzjoni u kondotta tajba meħtieġa biex iżomm liċenzja ta’ operatur u, jew permess ta’ xufier, il-liċenzja u, jew il-permess ta’ dik il-persuna għandhom jiġu sospiżi sakemm tingħata sentenza definittiva f’dawk il-proċeduri.
 
 ### 74. Projbizzjoni ta’ applikazzjoni għal liċenzja u, jew għal permess.  Kap. 65.
 
@@ -1718,9 +1534,7 @@ Persuna naturali jew persuna ġuridika tista’ tapplika għal liċenzja ta’ o
 
 (d) sabiex topera servizzi ta’ kiri ta’ vetturi:
 
-*65*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 Iżda d-drittijiet għal kull waħda minn dawn il-liċenzji għandhom ikunu applikabbli u dovuti minn dik il-persuna naturali jew persuna ġuridika, skont il-każ.
+Iżda d-drittijiet għal kull waħda minn dawn il-liċenzji għandhom ikunu applikabbli u dovuti minn dik il-persuna naturali jew persuna ġuridika, skont il-każ.
 
 ### 78. Dispożizzjoni tranżitorja.
 
@@ -1738,11 +1552,7 @@ Iżda wkoll għall-fini tas-Seba’ Skeda d-detenturi ta’ awtorizzazzjoni sabi
 
 Bla ħsara għad-dispożizzjoniiet tar-Regolamenti dwar l- Uffiċjali tal-Infurzar tat-Trasport, l-ebda dispożizzjoni f’dawn ir-regolamenti ma għandha tiġi interpretata fis-sens li tipprobixxi kwalunkwe uffiċjal awtorizzat mill-Aġenzija tas-Sistema tal-Infurzar Lokali jew kwalunkwe uffiċjal tal-Pulizija Eżekuttiva milli jinforzaw kwalunkwe regolamenti stabbiliti f’dawn ir-regolamenti u kull meta uffiċjal mill-Aġenzija tas-Sistema tal-Infurzar Lokali jew mill-Pulizija Eżekuttiva jinvestiga jew jaġixxi fuq ksur ta’ dawn ir-regolamenti, tali uffiċjali għandhom permezz ta’ dan ir-regolament ikunu vestiti bl-istess setgħat u drittijiet mogħtija lill-uffiċjali tal-infurzar tal-Awtorità, u l-Awtorità għandha mingħajr dewmien, taqsam kwalunkwe informazzjoni meħtieġa ma’ dawn l-uffiċjali u tiffaċilita l-investigazzjonijiet jew l-azzjonijiet ta’ infurzar tagħhom.
 
-*66 Sostitwit: A.L. 171 tal-2026.*
-
-[L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-## L-EWWEL SKEDA
+*Sostitwit: A.L. 171 tal-2026.*
 
 (regolamenti 5(4), 42(b), 44(5), 44(6), 65(4))
 
@@ -1824,9 +1634,7 @@ Taqsima V)
 
 Bidla fil-Liċenzja (taħt it-Taqsima V) €25
 
-*67*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 Ħruġ ta’ liċenzja mitlufa (taħt it-Taqsima V) €10
+Ħruġ ta’ liċenzja mitlufa (taħt it-Taqsima V) €10
 
 Dritt għall-applikazzjoni ta’ Liċenzja ta’ Vettura €50 kull għall-Ġarr ta’ Passiġġieri (taħt it-Taqsima VIII) vettura Dritt għall-applikazzjoni għal Servizz ta’ Pjattaforma €100
 
@@ -1841,10 +1649,6 @@ Dritt annwali għat-Tiġdid (taħt it-Taqsima IX) Skont id-dispożizz-jonijiet t
 (Regolament 37(3))
 
 **Sinjal ta’ aċċessibilità b’siġġu tar-roti**
-
-**U SERVIZZI TA’ KIRI TA’ VETTURI**
-
-*[L.S. 65.33 68*
 
 IT-TIELET SKEDA
 
@@ -1886,9 +1690,7 @@ i. Rifjut min-naħa tal-passiġġier li jħallas il-ħlas dovut
 
 ii. Passiġġieri jitolbu informazzjoni dwar attivitajiet illegali.
 
-*69*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 iii. Passiġġieri li jitolbu lix-xufier biex isuq b’veloċità iżjed milli suppost.
+iii. Passiġġieri li jitolbu lix-xufier biex isuq b’veloċità iżjed milli suppost.
 
 iv. Passiġġieri li jitolbu biex jitilgħu iżjed nies milli suppost iġġorr il-vettura
 
@@ -1930,11 +1732,7 @@ Taħriġ mhux ta’ bilfors rigwardanti l-użu ta’ vetturi zgħar għall-ġarr
 
 a. Iżżomm iċ-ċintorini tar-roti jew il-clamps tar-roti fi stat tajjeb għall-użu; u
 
-b. Abbiltà li tistalla s-siġġu tar-roti fil-vettura b’mod sigur, tressaq is-siġġu għal siġġijiet li jintwew, imbagħad tpoġġi f’posthom iż-żewġ brejkijiet tas-siġġu tar-roti, tiżgura ċ-ċintorini/harness tas-sigurtà kif ukoll, jekk il-vettura tkun mgħammra bihom, iċ-ċintorini/clamps tar-roti u dan biex tiżgura illi s-siġġu tar-roti u l-persuna li tagħmel użu minnu ma [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-*70*
-
-jkunux f’periklu.
+b. Abbiltà li tistalla s-siġġu tar-roti fil-vettura b’mod sigur, tressaq is-siġġu għal siġġijiet li jintwew, imbagħad tpoġġi f’posthom iż-żewġ brejkijiet tas-siġġu tar-roti, tiżgura ċ-ċintorini/harness tas-sigurtà kif ukoll, jekk il-vettura tkun mgħammra bihom, iċ-ċintorini/clamps tar-roti u dan biex tiżgura illi s-siġġu tar-roti u l-persuna li tagħmel użu minnu ma jkunux f’periklu.
 
 PARTI 2:
 
@@ -2000,11 +1798,9 @@ Amministrattivi għal Amministrattivi Amministrattivi Amministrattivi Operaturi 
 
 **100 100 100**
 
-*71*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 regolament 35 50
-
 *50 100*
+
+regolament 35 50
 
 regolament 36 100
 
@@ -2050,21 +1846,11 @@ ta’ reġistrazzjoni tal- 9-10 €400
 
 vettura (number 11 jew aktar €500
 
-plate) tal-vettura li tikkawża l-ksur). [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
+plate) tal-vettura li tikkawża l-ksur). (regolament 17)
 
-## IS-SITT SKEDA
+*Miżjuda: A.L. 171 tal-2026.*
 
-*72 Miżjuda: A.L. 171 tal-2026.*
-
-(regolament 17)
-
-*73*
-
-U SERVIZZI TA’ KIRI TA’ VETTURI [L.S.65.33 [L.S. 65.33 U SERVIZZI TA’ KIRI TA’ VETTURI
-
-**IS-SEBA’ SKEDA**
-
-*74 Miżjuda: A.L. 171 tal-2026.*
+*Miżjuda: A.L. 171 tal-2026.*
 
 (regolament 65(4))
 

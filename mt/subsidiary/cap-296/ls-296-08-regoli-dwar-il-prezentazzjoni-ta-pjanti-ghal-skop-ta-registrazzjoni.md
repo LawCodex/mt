@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar il-Preżentazzjoni ta' Pjanti għal skop ta' Reġistrazzjoni ta' Artijiet"
-identifier: "S.L. 296.8"
+identifier: "S.L. 296.08"
 eli: "https://legislation.mt/eli/sl/296.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/296.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar il-Preżentazzjoni ta' Pjanti għal skop ta' Reġistrazzjoni ta' Artijiet (S.L. 296.8)
-
-*1*
-
-REĠISTRAZZJONI TA’ ARTIJIET [L.S.296.08
+# Regoli dwar il-Preżentazzjoni ta' Pjanti għal skop ta' Reġistrazzjoni ta' Artijiet (S.L. 296.08)
 
 **LEĠISLAZZJONI SUSSIDJARJA 296.08**
 
@@ -87,11 +83,7 @@ Iżda, in-Nutar huwa obbligat li jiddikjara fuq l-applikazzjoni relattiva li huw
 
 (4) Il-pjanti imsemmija fir-regola 2, għandhom ikunu disponibbli fuq talba mill-Aġenzija għar-Reġistrazzjoni tal-Artijiet matul il-ħinijiet normali tal-ftuħ tal-Aġenzija għar-Reġistrazzjoni tal-Artijiet jew ordnati onlajn billi jidħlu fil-portal https:// www.landregistryplans.gov.mt/ bi ħlas ta' miżata kif tista' tiġi stabilit minn żmien għal żmien.
 
-(5) F'każijiet fejn il-proprjetà reġistrata għandha tiġi maqsuma f'diversi unitajiet oħra, qabel ma tiġi ippreżentata kwalunkwe applikazzjoni għar-reġistrazzjoni ta’ kwalunkwe unità jew kwalunkwe applikazzjoni oħra li ma taffettwax l-entità tal-proprjetà, l-iżviluppatur/bejjiegħ għandu jforni l-pjanti dettaljati tal-livelli kollha tal-proprjetà kif żviluppati jew kif għandhom jiġu żviluppati u liema pjanti għandhom ikollhom l-ispeċifikazzjonijiet kollha kif indikat fir-regola 2 u liema pjanti għandhom ikunu ffirmati mill-Perit. Qabel is-sottomissjoni tal-applikazzjoni, ir- REĠISTRAZZJONI TA’ ARTIJIET [L.S.296.08
-
-Reġistratur tal-Artijiet għandu jindika li l-konfigurazzjoni tal-pjanti dettaljati taqbel mal-konfigurazzjoni tal-parcel tal-proprjetà reġistrata. F'każijiet fejn l-iżvilupp jinkludi l-area kollha reġistrata bit-titolu rispettiv, il-pjanta tas-sit provdut mill-Aġenzija għar- Reġistrazzjoni tal-Artijiet tista’ ma tkunx meħtieġa u dan fid-diskrezzjoni tar-Reġistratur tal-Artijiet:
-
-*3*
+(5) F'każijiet fejn il-proprjetà reġistrata għandha tiġi maqsuma f'diversi unitajiet oħra, qabel ma tiġi ippreżentata kwalunkwe applikazzjoni għar-reġistrazzjoni ta’ kwalunkwe unità jew kwalunkwe applikazzjoni oħra li ma taffettwax l-entità tal-proprjetà, l-iżviluppatur/bejjiegħ għandu jforni l-pjanti dettaljati tal-livelli kollha tal-proprjetà kif żviluppati jew kif għandhom jiġu żviluppati u liema pjanti għandhom ikollhom l-ispeċifikazzjonijiet kollha kif indikat fir-regola 2 u liema pjanti għandhom ikunu ffirmati mill-Perit. Qabel is-sottomissjoni tal-applikazzjoni, ir- Reġistratur tal-Artijiet għandu jindika li l-konfigurazzjoni tal-pjanti dettaljati taqbel mal-konfigurazzjoni tal-parcel tal-proprjetà reġistrata. F'każijiet fejn l-iżvilupp jinkludi l-area kollha reġistrata bit-titolu rispettiv, il-pjanta tas-sit provdut mill-Aġenzija għar- Reġistrazzjoni tal-Artijiet tista’ ma tkunx meħtieġa u dan fid-diskrezzjoni tar-Reġistratur tal-Artijiet:
 
 Iżda f'każijiet fejn il-parcel tal-art jew għalqa huwa maqsum f'diversi plottijiet, ikun meħtieġ pjanta ta' sit maħruġa mill-Aġenzija għar-Reġistrazzjoni tal-Artijiet li jkollha l-ispeċifikazzjonijiet indikati fir-regola 2, fejn hemm indikat il-plottijiet differenti u liema pjanta għandha tiġi ffirmata minn Perit.
 
@@ -112,7 +104,3 @@ SKEDA Mi\\juda:
 A.L. 179 ta’ l-1994. (Regola 3)
 
 Pjanta uffi`jali
-
-*5*
-
-REĠISTRAZZJONI TA’ ARTIJIET [L.S.296.08

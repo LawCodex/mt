@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Indirizzar tad-Disseminazzjoni ta’ Kontenut Terroristiku Online (S.L. 9.30)
 
-*1*
-
-TERRORISTIKU ONLINE [L.S.9.30 LEĠISLAZZJONI SUSSIDJARJA 9.30
+**LEĠISLAZZJONI SUSSIDJARJA 9.30**
 
 **REGOLAMENTI DWAR L-INDIRIZZAR TAD-**
 
@@ -58,11 +56,7 @@ F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 (1) Mal-preżentazzjoni ta’ rikors quddiem il-Qorti mressaq minn uffiċjal tal-Pulizija mhux taħt il-grad ta’ spettur, Maġistrat jista’ joħroġ ordni ta’ tneħħija fir-rigward ta’ fornitur ta’ servizzi ta’ hosting, skont l-Artikolu 3 tar-Regolament, li jeħtieġ lill-fornitur ta’ servizzi ta’ hosting f’Malta jew fi Stat Membru ieħor biex ineħħi kontenut terroristiku jew jiddiżattiva l-aċċess għal kontenut terroristiku fl-Istati Membri kollha.
 
-(2) Meta ordni ta’ tneħħija ma tkunx inħarġet preċendament lill-fornitur tas-servizzi ta’ hosting, il-Pulizija għandha tipprovdi lil dak il-fornitur tas-servizzi ta’ hosting b’informazzjoni dwar il-proċeduri u l-iskadenzi applikabbli, mill-inqas tnax-il (12) siegħa [L.S. 9.30 TERRORISTIKU ONLINE
-
-qabel il-ħruġ tal-ordni ta’ tneħħija;
-
-*2*
+(2) Meta ordni ta’ tneħħija ma tkunx inħarġet preċendament lill-fornitur tas-servizzi ta’ hosting, il-Pulizija għandha tipprovdi lil dak il-fornitur tas-servizzi ta’ hosting b’informazzjoni dwar il-proċeduri u l-iskadenzi applikabbli, mill-inqas tnax-il (12) siegħa qabel il-ħruġ tal-ordni ta’ tneħħija;
 
 Iżda għandu japplika perjodu inqas f’każijiet urġenti.
 
@@ -82,9 +76,7 @@ Iżda għandu japplika perjodu inqas f’każijiet urġenti.
 
 (2) Jekk il-Maġistrat jiddeċiedi li l-fornitur tas-servizzi ta’ hosting huwa espost għal kontenut terroristiku, dak li jipprovdi s-servizzi ta’ hosting għandu, fi żmien tliet (3) xhur min-notifika tad-deċiżjoni u sussegwment fuq bażi annwali, jirrapporta lill-Pulizija dwar il-miżuri speċifiċi li jkun ħa skont id-dispożizzjonijiet tal-artikolu 5(5) tar-Regolament.
 
-*3*
-
-TERRORISTIKU ONLINE [L.S.9.30 (3) Fejn, abbażi tar-rapport imsemmi fis-subregolament (2) u, fejn rilevanti, kwalunkwe fattur oġġettiv ieħor, il-Pulizija, fuq il-parir tal-Unit għall-Ħarsien tal-Infrastruttura ta’ Informazzjoni Kritika, kif definit fl-Ordni dwar Miżuri għal Livell Għoli Komuni ta' Sigurtà tan- Netwerks u tas-Sistemi tal-Informazzjoni, tikkunsidra li l-miżuri speċifiċi meħuda ma jikkonformawx mal-paragrafi (2) u (3) tal-Artikolu 5 tar-Regolament, il-Pulizija għandha tissottometti rapport lill-Qorti permezz ta’ rikors ippreżentat minn uffiċjal tal-Pulizija mhux taħt il-grad ta’ spettur. Il-Qorti għandha tisma’ s-sottomissjonijiet tal-Pulizija u tal-fornitur tas-servizzi ta’ hosting u tista’ titlob lill-fornitur tas-servizzi ta’ hosting biex jieħu l-miżuri meħtieġa.
+(3) Fejn, abbażi tar-rapport imsemmi fis-subregolament (2) u, fejn rilevanti, kwalunkwe fattur oġġettiv ieħor, il-Pulizija, fuq il-parir tal-Unit għall-Ħarsien tal-Infrastruttura ta’ Informazzjoni Kritika, kif definit fl-Ordni dwar Miżuri għal Livell Għoli Komuni ta' Sigurtà tan- Netwerks u tas-Sistemi tal-Informazzjoni, tikkunsidra li l-miżuri speċifiċi meħuda ma jikkonformawx mal-paragrafi (2) u (3) tal-Artikolu 5 tar-Regolament, il-Pulizija għandha tissottometti rapport lill-Qorti permezz ta’ rikors ippreżentat minn uffiċjal tal-Pulizija mhux taħt il-grad ta’ spettur. Il-Qorti għandha tisma’ s-sottomissjonijiet tal-Pulizija u tal-fornitur tas-servizzi ta’ hosting u tista’ titlob lill-fornitur tas-servizzi ta’ hosting biex jieħu l-miżuri meħtieġa.
 
 *L.S. 460.35.*
 
@@ -104,11 +96,7 @@ Il-Maġistrat jew il-Pulizija jistgħu jitolbu lil fornitur ta’ servizzi ta’
 
 (3) L-iskrutinju tal-ordni ta’ tneħħija u, fejn applikabbli, l-adozzjoni tad-deċiżjoni motivata, għandhom isiru fi żmien tnejn u sebgħin (72) siegħa minn meta l-Pulizija tirċievi l-kopja tal-ordni ta’ tneħħija.
 
-(4) Fornituri ta’ servizzi ta’ hosting u fornituri tal-kontenut għandu jkollhom id-dritt li jissottomettu, fi żmien tmienja u erbgħin (48) siegħa minn meta jirċievu ordni ta’ tneħħija, rikors flimkien ma’ talba motivata lill-Qorti li titlob skrutinju tal-ordni ta’ tneħħija kif imsemmi [L.S. 9.30 TERRORISTIKU ONLINE
-
-fis-subregolament (1) ta’ dan ir-regolament.
-
-*4*
+(4) Fornituri ta’ servizzi ta’ hosting u fornituri tal-kontenut għandu jkollhom id-dritt li jissottomettu, fi żmien tmienja u erbgħin (48) siegħa minn meta jirċievu ordni ta’ tneħħija, rikors flimkien ma’ talba motivata lill-Qorti li titlob skrutinju tal-ordni ta’ tneħħija kif imsemmi fis-subregolament (1) ta’ dan ir-regolament.
 
 (5) Il-Maġistrat għandu, fi żmien tnejn u sebgħin (72) siegħa minn meta jirċievi r-rikors imsemmi fis-subregolament (4), wara skrutinju tal-ordni ta’ tneħħija, jadotta deċiżjoni motivata li turi s-sejbiet tiegħu dwar jekk l-ordni ta’ tneħħija tiksirx serjament jew manifestament id-dispożizzjonijiet tar-Regolament, jew id-drittijiet u l-libertajiet fundamentali garantiti mill-Karta.
 

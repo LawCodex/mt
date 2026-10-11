@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Qorti Ċivili (Sezzjoni tal-Familja), il-Qorti Ċivili (Sezzjoni ta' Ġurisdizzjoni Ġenerali) u l-Qorti tal-Maġistrati (Għawdex) (Ġurisdizzjoni Superjuri) (Sezzjoni tal-Familja) (S.L. 12.20)
 
-ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI
-
-*1*
-
-SUPERJURI) (SEZZJONI TAL-FAMILJA) [L.S.12.20
-
 **LEĠISLAZZJONI SUSSIDJARJA 12.20**
 
 **REGOLAMENTI DWAR IL-QORTI ĊIVILI**
@@ -65,13 +59,9 @@ F’dawn ir-regolamenti, sakemm il-kuntest ma jindikax mod ieħor:
 
 *Kap. 12.*
 
-(b) Il-Ministru għandu, skont l-artikolu 89 tal-Kodiċi ta’ ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI [L.S.12.20 SUPERJURI) (SEZZJONI TAL-FAMILJA)
+(b) Il-Ministru għandu, skont l-artikolu 89 tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili, jaħtar lista ta’ avukati (minnhawn ’il quddiem f’dawn ir-regolamentimsejħa "avukati tat-tfal") bħala persuni li jkunu fil-pussess tal-warrant biex jipprattikawbħala avukati u li jkollhom esperjenza fil-liġi tal-familja. (2) Il-medjaturi u l-avukati tat-tfal għandhom jitħallsu dawk id-drittijiet għas-servizzi li jagħtu skond ma l-Ministru jista’ minn żmien għal żmien jistabbilixxi. Meta l-partijiet jagħżlu medjatur b’kunsens taż-żewġ naħat minn l-ewwel lista ta’ medjaturi, id-drittijiet dovuti lil dak il-medjatur għandhom jitħallsu mill-partijiet, inkella d-drittijiet dovuti lill-medjaturi u lill-avukati tat-tfal għandhom jitħallsu mir-Reġistratur.
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 216 tal-2026.
-
-Organizzazzjoni u Proċedura Ċivili, jaħtar lista ta’ avukati (minnhawn ’il quddiem f’dawn ir-regolamentimsejħa "avukati tat-tfal") bħala persuni li jkunu fil-pussess tal-warrant biex jipprattikawbħala avukati u li jkollhom esperjenza fil-liġi tal-familja. (2) Il-medjaturi u l-avukati tat-tfal għandhom jitħallsu dawk id-drittijiet għas-servizzi li jagħtu skond ma l-Ministru jista’ minn żmien għal żmien jistabbilixxi. Meta l-partijiet jagħżlu medjatur b’kunsens taż-żewġ naħat minn l-ewwel lista ta’ medjaturi, id-drittijiet dovuti lil dak il-medjatur għandhom jitħallsu mill-partijiet, inkella d-drittijiet dovuti lill-medjaturi u lill-avukati tat-tfal għandhom jitħallsu mir-Reġistratur.
-
-*2*
 
 (3) Qabel ma jagħmel il-ħatriet kif hawn qabel imsemmi, il- Ministru għandu jikkonsulta lill-imħallef jew imħallfin li jkunu qegħdin jippresjedu l-Qorti ċivili (Sezzjoni tal-Familja).
 
@@ -91,13 +81,7 @@ Organizzazzjoni u Proċedura Ċivili, jaħtar lista ta’ avukati (minnhawn ’i
 
 (e) li jipprovdi lill-minuri bi kwalunkwe informazzjoni rilevanti:
 
-Iżda l-Avukat tat-Tfal għandu jipprovdi lill-minuri bl-ispjegazzjonijiet u l-informazzjoni kollha (rilevanti kif imsemmi fil- ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI
-
-*3*
-
-SUPERJURI) (SEZZJONI TAL-FAMILJA) [L.S.12.20
-
-paragrafi (b) u (ċ) biss jekk il-minuri jiġu kkunsidrati mill-Avukat tat- Tfal li jkollhomfehim u maturità suffiċjenti.
+Iżda l-Avukat tat-Tfal għandu jipprovdi lill-minuri bl-ispjegazzjonijiet u l-informazzjoni kollha (rilevanti kif imsemmi fil-paragrafi (b) u (ċ) biss jekk il-minuri jiġu kkunsidrati mill-Avukat tat- Tfal li jkollhomfehim u maturità suffiċjenti.
 
 *Kap. 12.*
 
@@ -131,10 +115,6 @@ paragrafi (b) u (ċ) biss jekk il-minuri jiġu kkunsidrati mill-Avukat tat- Tfal
 
 Id-disposizzjonijiet tar-regolament 3 għandhom jgħoddu għall-finijiet tal-artikolu 66J(1) tal-Kodiċi ¬ivili, hekk li l-listi li hemm riferenza għalihom fl-imsemmi regolament 3 għandhom jitqiesu bħala li huma wkoll ir-reġistru li hemm riferenza għalih fl-imsemmi artikolu 66J(1) tal-Kodiċi ¬ivili u għandu jservi għall-istess funzjoni.
 
-*4*
-
-ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI [L.S.12.20 SUPERJURI) (SEZZJONI TAL-FAMILJA)
-
 ## 4. Awtorizzazzjoni sabiex jinbdew proċeduri għal separazzjoni personali jew għal divorzju.
 
 *Emendat: A.L. 370 tal-2011; A.L. 386 tal-2011. XIII.2018.33*
@@ -157,12 +137,6 @@ Iżda fejn l-ittra msemmija f’dan ir-regolament 4 hija akkumpanjata b’eviden
 
 (7) Il-konjuġi u l-persuni l-oħra kollha ma jkunu meħtieġa jieħdu ebda ġurament u ma tistax tiġi prodotta ebda prova quddiem xi qorti dwar dak li jkun ingħad quddiem il-medjatur fil-proċeduri ta’ konċiljazzjoni jew ta’ medjazzjoni dwar xi proposta li huwa jew xi ħadd ieħor ikun għamel waqt il-proċeduri jew dwar ir-reazzjoni ta’ xi konjuġi minnhom għal dawk il-proposti.
 
-ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI
-
-*5*
-
-SUPERJURI) (SEZZJONI TAL-FAMILJA) [L.S.12.20
-
 (8) Meta l-medjatur jirnexxilu jirrikonċilja l-partijiet huwa għandu jikteb nota li tkun tirreġistra dan fl-inkartament tar-rikors, u jibgħat dak l-inkartament lill-imħallef li għandu jagħlaq il-proċeduri.
 
 (9) Meta l-partijiet ma jkunux irrikonċiljaw bejniethom, imma jkunu bis-saħħa tal-medjatur jew xort’oħra qablu li jagħmlu kuntratt ta’ separazzjoni personali konsenswali jew li jippreżentaw rikors konġunt għad-divorzju, il-medjatur għandu jgħaddi lill-imħallef abbozz tal-kuntratt ta’ separazzjoni personali jew tal-ftehim tad-divorzju, kif ikun il-każ, flimkien ma’ kull kumment dwar dak l-abbozz ta’ kuntratt jew ta’ ftehim mill-avukati jew prokuraturi legali tal-partijiet, l-avukat tat-tfal, jekk ikun hemm, u l-fehmiet tiegħu, sabiex tkun tista’ tingħata l-awtorizzazzjoni mill-imħallef.
@@ -181,11 +155,7 @@ Iżda meta fil-fehma tal-medjatur, x’aktarx li tali konċiljazzjoni ma tkunx t
 
 ## 5. Ftehim li jingħata b’digriet fuq affarijiet kollaterali.
 
-(1) Meta matul l-istadju ta’ konċiljazzjoni jew medjazzjoni l-partijiet jaslu għal ftehim dwar il-ħlas ta’ somma flus għall-manteniment li jista’ jitħallas minn xi parti lill-oħra, dwaru jew dwarha jew dwar it-tfal, jew jintlaħaq ftehim dwar il-kustodja jew ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI [L.S.12.20 SUPERJURI) (SEZZJONI TAL-FAMILJA)
-
-id-drittijiet għall-aċċess ta’ l-ulied, jew dwar min għandu jibqa’ joqgħod fid-dar matrimonjali, il-medjatur għandu jagħmel nota dwar dak il-ftehim, liema nota għandha tiġi ffirmata mill-partijiet, u għandu minnufih jgħaddi dik in-nota lill-Qorti li mbagħad għandha tagħti digriet.
-
-*6*
+(1) Meta matul l-istadju ta’ konċiljazzjoni jew medjazzjoni l-partijiet jaslu għal ftehim dwar il-ħlas ta’ somma flus għall-manteniment li jista’ jitħallas minn xi parti lill-oħra, dwaru jew dwarha jew dwar it-tfal, jew jintlaħaq ftehim dwar il-kustodja jew id-drittijiet għall-aċċess ta’ l-ulied, jew dwar min għandu jibqa’ joqgħod fid-dar matrimonjali, il-medjatur għandu jagħmel nota dwar dak il-ftehim, liema nota għandha tiġi ffirmata mill-partijiet, u għandu minnufih jgħaddi dik in-nota lill-Qorti li mbagħad għandha tagħti digriet.
 
 (2) Meta jew parti waħda jew iż-żewġ partijiet ma jkunux assistiti minn avukat jew prokuratur legali l-medjatur għandu jgħarraf lill-partijiet bl-importanza tal-ftehim u bid-dritt li għandhom li jkunu assistiti minn avukat jew prokuratur legali jew li jieħdu parir legali qabel ma jiffirmaw xi ftehim bħal dak.
 
@@ -208,12 +178,6 @@ Għandhom jiġu assenjati lill-Qorti Ċivili (Sezzjoni tal- Kummerċ) rikorsi li
 (ċ) Il-medjatur għandu mhux aktar minn xahar mill-preżentata tan-nota jeżamina l-abbozz u jekk iħoss il-bżonn jisma’ lill-partijiet fil-preżenza tal-konsulenti legali kif ukoll l-ulied taħt l-eta’ tal-konjuġi, jekk ikun il-każ, u jista’ jitlob lill-Qorti taħtar avukat għall-minuri. Il-medjatur għandu fi żmien imsemmi ta’ xahar jibgħat in-nota lura lill-Qorti flimkien mal-fehmiet tiegħu.
 
 (d) Kif il-Qorti tirċievi dan, din għandha, jekk hi tħoss il-bżonn, li tisma’ lill-konjuġi jew xi wħud mill-ulied, tgħaddi biex tagħti d-digriet tagħha kemm jista’ jkun malajr fejn tapprova jew temenda jew tirrifjuta l-imsemmi abbozz.
-
-ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI
-
-*7*
-
-SUPERJURI) (SEZZJONI TAL-FAMILJA) [L.S.12.20
 
 ## 7. Kawża f’każijiet ta’ firda personali jew divorzju.
 
@@ -244,10 +208,6 @@ Fejn, matul il-proċeduri ta’ medjazzjoni, il-medjatur isir jaf bi, jew ikollu
 ## 9. Bidu fis-seħħ għall-proċeduri taħt dawn ir-regolamenti. Enumerat: XIII.2018.33.
 
 Meta persuna tkun meħtieġa taħt xi liġi tipproċedi quddiem xi qorti f’xi żmien partikolari, dawk il-proċeduri għandhom għall-finijiet ta’ dawn il-proċeduri jitqiesu li jkunu hekk inbdew malli tiġi ppreżentata fir-reġistru tal-Qorti l-ittra msemmija fir-regolament 4(1).
-
-*8*
-
-ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI [L.S.12.20 SUPERJURI) (SEZZJONI TAL-FAMILJA)
 
 ## 10. Il-proċeduri ta’ medjazzjoni japplikaw ukoll f’każijiet oħra.
 
@@ -281,13 +241,7 @@ dik il-parti għandha, fl-ewwel lok, tippreżenta ittra fir-reġistru tal- Qorti
 
 (2) Meta tinbeda l-kawża u malli jagħlqu l-proċeduri bil-miktub, il-Qorti għandha tgħaddi biex taħtar avukat tat-tfal meta fil-fehma tagħha dan ikun meħtieġ fl-aħjar interess tat-tfal taħt l-età tal-konjuġi, u f’dan l-istadju l-Qorti għandha tiffissa żmien li fih il-partijiet għandhom iressqu kull prova dokumentarja in sostenn tal-każ tagħhom u jġibu lil dawk ix-xhieda li x-xiehda tagħhom ma tistax tingħata permezz ta’ affidavit.
 
-(3) Iż-żmien ta’ qabel is-smigħ jagħlaq meta jkunu nġiebu d- ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI
-
-*9*
-
-SUPERJURI) (SEZZJONI TAL-FAMILJA) [L.S.12.20
-
-dokumenti kollha u kull prova oħra tal-partijiet, jew meta jkun skada ż-żmien li fih dawn kellhom hekk jinġiebu. Matul dak il-perjodu l-Qorti tista’ wkoll taħtar lil dawk l-esperti li tista’ tqis li jkunu meħtieġa sabiex jassistuha.
+(3) Iż-żmien ta’ qabel is-smigħ jagħlaq meta jkunu nġiebu d-dokumenti kollha u kull prova oħra tal-partijiet, jew meta jkun skada ż-żmien li fih dawn kellhom hekk jinġiebu. Matul dak il-perjodu l-Qorti tista’ wkoll taħtar lil dawk l-esperti li tista’ tqis li jkunu meħtieġa sabiex jassistuha.
 
 (4) Ħlief għal raġunijiet gravi u serji li l-Qorti għandha tindika x’inhuma, iż-żmien ta’ qabel is-smigħ ma għandux itul iżjed minn sena wara l-għeluq tal-proċeduri bil-miktub.
 
@@ -308,10 +262,6 @@ L-imħallef jew il-maġistrat, skond il-każ, u kull assistent ġudizzjarju li j
 *Miżjud: A.L. 9 tal-2004. Emendat: A.L. 181 tal-2006; A.L. 186 tal-2006. L.S. 12.19 Enumerat: XIII.2018.33.*
 
 Is-sezzjoni tal-Qorti li skond dawn ir-Regolamenti u skond l-Ordni dwar it-Twaqqif tas-Sezzjonijiet tal-Qrati ċivili għandha, skond in-natura ta’ l-istess jew skond il-ġurisdizzjoni territorjali tal-Qorti, tieħu konjizzjoni ta’ xi atti, rikors jew rikors ġuramentat, għandha mal-bidu fis-seħħ ta’ dawn ir-regolamenti tieħu konjizzjoni ta’ dawk l-atti, rikorsi jew rikorsi ġuramentati li minnufih qabel il-bidu fis-seħħ ta’ dawn ir-Regolamenti jew dak l- Ordni kienu pendenti quddiem il-Prim’ Awla tal-Qorti ċivili, is- Sekond’ Awla tal-Qorti ċivili u l-Qorti tal-Maġistrati (Għawdex) (Ġurisdizzjoni Superjuri), u dan skond il-ġurisdizzjoni ta’ kull waħda minn dawk is-sezzjonijiet skond dawn ir-Regolamenti u dak l-Ordni, b’dan illi minkejja kull ħaġa li hemm f’dawn ir- Regolamenti jew f’dak l-Ordni, il-proċedura li għandha tiġi segwita fir-rigward ta’ kull att, rikors jew rikors ġuramentat prezentati qabel id-data tal-bidu fis-seħħ ta’ dawn ir-Regolamenti u ta’ dak l- Ordni, għandha tkun dik viġenti minnufih qabel l-istess data.
-
-*10*
-
-ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI [L.S.12.20 SUPERJURI) (SEZZJONI TAL-FAMILJA)
 
 ## 15. Taħriġ għall-istudenti li qed jistudjaw biex isiru medjaturi.
 
@@ -368,12 +318,6 @@ Lill-Qorti ċivili (Sezzjoni tal-Familja) għandhom jiġu assenjati dawk il-kaw�
 *Kap. 410.*
 
 (e) l-Att dwar is-Sekwestru u l-Kustodja ta’ Minuri.
-
-ĊIVILI U IL-QORTI TAL-MAĠISTRATI (GĦAWDEX) (ĠURISDIZZJONI
-
-*11*
-
-SUPERJURI) (SEZZJONI TAL-FAMILJA) [L.S.12.20
 
 ## 5. Assenjazzjoni ta’ kawżi lill-Qorti Ċivili (Sezzjoni ta’ Ġurisdizzjoni Volontarja). Kap. 16.
 

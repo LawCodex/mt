@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta’ Erasmus Mundus Master of Science in Human Language Science and Technology - M.Sc.(HLST) (S.L. 327.327)
 
-MASTER OF SCIENCE IN HUMAN LANGUAGE
-
-*1*
-
-SCIENCE AND TECHNOLOGY - M.SC. (HLST) [L.S.327.327
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.327**
 
 **REGOLAMENTI TAL-KORS GĦALL-GRAD TA’**
@@ -73,11 +67,11 @@ University of the Basque Country.
 
 (3) Dan il-Grad huwa grad ta’ Master Erasmus Mundus ta’ din l- Università u dan għandu jfisser li l-Kors huwa mgħallem f’din l- Università bil-kollaborazzjoni ta’ Universitajiet Imsieħba fi ħdan qafas ta’ programm għal grad doppju.
 
-*2*
+## 2. Applikabilità.
 
-MASTER OF SCIENCE IN HUMAN LANGUAGE [L.S.327.327 SCIENCE AND TECHNOLOGY - M.SC. (HLST) 2. Dawn ir-regolamenti għandhom japplikaw għall-korsijiet li jibdew minn Ottubru 2020 jew wara.
+*Emendat: A.L. 212 tal-2013; A.L. 122 tal-2014; A.L. 24 tal-2021.*
 
-*Applikabilità. Emendat: A.L. 212 tal-2013; A.L. 122 tal-2014; A.L. 24 tal-2021.*
+Dawn ir-regolamenti għandhom japplikaw għall-korsijiet li jibdew minn Ottubru 2020 jew wara.
 
 ## 3. Kwalifiki għad-dħul.
 
@@ -117,11 +111,7 @@ L-applikanti li jixtiequ jirreġistraw għall-kors għandhom japplikaw fuq il-fo
 
 (1) Il-programm ta’ studji għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 120 kredtu ECTS, li jkun magħmul minn taqsimiet studju mgħallma li għalihom hemm assenjati 90 kredtu ECTS u l-kitba ta’ dissertazzjoni li għaliha hemm assenjati 30 kredtu ECTS.
 
-(2) Il-Bord tal-Istudji, bi qbil ma’ l-Universitajiet Imsieħba, għandu jħejji programm ta’ studji għall-Kors li għandu jinkludi t-taqsimiet studju kollha, il-kredti assenjati għal kull taqsima studju, liema taqsimiet studju huma obbligatorji, liema għandhom jittieħdu flimkien jew qabel taqsimiet studju oħra, u l-metodi ta’ tagħlim u valutazzjoni. MASTER OF SCIENCE IN HUMAN LANGUAGE
-
-*3*
-
-SCIENCE AND TECHNOLOGY - M.SC. (HLST) [L.S.327.327 Il-programm għandu jinkludi wkoll linji gwida dwar it-tħejjija tad-dissertazzjoni u l-valutazzjoni tagħha. Il-programm ta’ studji għandu jkun ippubblikat qabel il-bidu tal-Kors, wara l-approvazzjoni tal- Bordijiet u tas-Senat.
+(2) Il-Bord tal-Istudji, bi qbil ma’ l-Universitajiet Imsieħba, għandu jħejji programm ta’ studji għall-Kors li għandu jinkludi t-taqsimiet studju kollha, il-kredti assenjati għal kull taqsima studju, liema taqsimiet studju huma obbligatorji, liema għandhom jittieħdu flimkien jew qabel taqsimiet studju oħra, u l-metodi ta’ tagħlim u valutazzjoni. Il-programm għandu jinkludi wkoll linji gwida dwar it-tħejjija tad-dissertazzjoni u l-valutazzjoni tagħha. Il-programm ta’ studji għandu jkun ippubblikat qabel il-bidu tal-Kors, wara l-approvazzjoni tal- Bordijiet u tas-Senat.
 
 (3) L-istudenti jkunu meħtieġa jagħmlu sena ta’ studju f’din l- Università u sena oħra fl-Università Msieħba li jagħżlu. Ix-xogħol fuq id-dissertazzjoni għandu jsir f’waħda mill-universitajiet fejn l-istudent ikun qed isegwi t-tieni sena ta’ studji, taħt id-direzzjoni tas-Superviżur Prinċipali maħtur minn dik l-Università.
 
@@ -165,11 +155,7 @@ Firxa tal-Marki Grad
 
 (1) Id-dissertazzjonijiet ippreżentati għall-Grad għandhom:
 
-(a) ikunu xogħol ta’ natura avvanzata jew oriġinali fil- MASTER OF SCIENCE IN HUMAN LANGUAGE [L.S.327.327 SCIENCE AND TECHNOLOGY - M.SC. (HLST)
-
-qasam ta’ studju approvat għall-istudent;
-
-*4*
+(a) ikunu xogħol ta’ natura avvanzata jew oriġinali fil-qasam ta’ studju approvat għall-istudent;
 
 (b) jissodisfaw lill-Bord ta’ l-Eżaminaturi dwar il-kontenut u l-preżentazzjoni; u
 
@@ -199,11 +185,7 @@ qasam ta’ studju approvat għall-istudent;
 
 (1) Is-Senat għandu jaħtar Bord tal-Eżaminaturi għal kull taqsima studju li ssir f’din l-Università, skont il-provvedimenti tar- Regolamenti tal-Valutazzjoni tal-Università.
 
-(2) Għall-eżami tad-dissertazzjoni, il-Bord tal-Eżaminaturi għandu jkun magħmul mill-anqas minn tliet membri, iżda jista’ jinkludi wkoll eżaminatur barrani li jkun maħtur minn istituzzjoni MASTER OF SCIENCE IN HUMAN LANGUAGE
-
-*5*
-
-SCIENCE AND TECHNOLOGY - M.SC. (HLST) [L.S.327.327 għajr din l-Università jew l-Universitajiet Imsieħba li attenda l-istudent.
+(2) Għall-eżami tad-dissertazzjoni, il-Bord tal-Eżaminaturi għandu jkun magħmul mill-anqas minn tliet membri, iżda jista’ jinkludi wkoll eżaminatur barrani li jkun maħtur minn istituzzjoni għajr din l-Università jew l-Universitajiet Imsieħba li attenda l-istudent.
 
 (3) Il-Bord ta’ l-Eżaminaturi għad-dissertazzjoni għandu jeħtieġ li l-istudenti jiddefendu d-dissertazzjoni oralment quddiemhom, sakemm li l-eżaminatur barrani m’għandux għalfejn ikun preżenti għad-difiża orali.
 

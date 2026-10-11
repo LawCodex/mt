@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statut għall-Istitut għall-Iżvilupp Sostenibbli (S.L. 327.363)
 
-*1*
-
-FIL-KLIMA U L-IŻVILUPP SOSTENIBBLI [L.S.327.363
-
 LEĠISLAZZJONI SUSSIDJARJA 327.363
 
 *Sostitwit: A.L. 19 tal-2014.*
@@ -61,11 +57,7 @@ L-għanijiet tal-istitut huma:
 
 (f) li jaħdem fit-trasferiment tat-tagħrif u f’inizzjattivi li jżidu l-għarfien dwar l-iżvilupp sostenibbli u tibdil fil-klima ma’ kumpaniji, organizzazzjonijiet u istituzzjonijiet oħra barra l-Università biex jippromovi l-aħjar prattiċi (eż. li jippromovi l-użu ta’ teknoloġiji aktar indaf; li jimitiga u jadatta għall-impatti ta’ tibdil fil-klima fuq operazzjonijiet tan-negozju u swieq);
 
-(g) li jagħmel użu mis-sistema tan-netwerks u jżomm [L.S.327.363 FIL-KLIMA U L-IŻVILUPP SOSTENIBBLI
-
-kuntatt ma’ istituzzjonijiet universitarji jew ċentri simili jew komplimentari fil-qasam tal-iżvilupp sostenibbli jew tibdil fil-klima barra minn Malta; u (h) li jxerred it-tagħrif miksub permezz tal-medja online, pubblikazzjonijiet, seminars, konferenzi u programmi ta’ tagħlim.
-
-*2*
+(g) li jagħmel użu mis-sistema tan-netwerks u jżomm kuntatt ma’ istituzzjonijiet universitarji jew ċentri simili jew komplimentari fil-qasam tal-iżvilupp sostenibbli jew tibdil fil-klima barra minn Malta; u (h) li jxerred it-tagħrif miksub permezz tal-medja online, pubblikazzjonijiet, seminars, konferenzi u programmi ta’ tagħlim.
 
 ## 3.
 
@@ -111,11 +103,7 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (b) li jiddeċiedi l-politika tal-Istitut, jissorvelja l-attivitajiet u l-amministrazzjoni tiegħu u, mingħajr preġudizzju għall-ġeneralità li ssemmiet qabel, il-Bord jista’:
 
-(i) japprova business plans u l-estimi annwali tad-dħul u l-ħruġ tal-Istitut għall-konsiderazzjoni u FIL-KLIMA U L-IŻVILUPP SOSTENIBBLI [L.S.327.363
-
-l-approvazzjoni tal-Kunsill;
-
-*3*
+(i) japprova business plans u l-estimi annwali tad-dħul u l-ħruġ tal-Istitut għall-konsiderazzjoni u l-approvazzjoni tal-Kunsill;
 
 (ii) bi qbil bil-miktub mar-Rettur jagħmel ftehim ma’ terzi persuni biex jagħtu fondi lill-Istitut jew għall-attivitajiet partikolari;
 
@@ -151,10 +139,6 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur huma li:
 
 (ċ) jiżgura li t-taqsimiet studju offruti mill-membri tal-istaff fl-Istitut huma mogħtija skont il-programm tal-istudji kif irreklamat; id-Direttur għandu jiżgura li l-għalliema, li jaqgħu taħt l-awtorità tiegħu, jagħtu l-lectures, is-seminars u t-tutorials kollha kif assenjat lilhom rispettivament, fil-ħin u fil-post kif indikat fuq it-time-table uffiċjali, u li kull tibdil ikun reġistrat formalment u li l-istudenti jkunu infurmati fil-ħin;
 
-**FIL-KLIMA U L-IŻVILUPP SOSTENIBBLI**
-
-*[L.S.327.363 4*
-
 (d) jiżviluppa u jimplimenta l-pjan strateġiku tal-Istitut;
 
 (e) jamministra l-Istitut b’konsultazzjoni sħiħa mal-membri tiegħu; jimmonitorja u japprova talbiet għal leave of absence mill-membri tal-Istitut. Id-Direttur hu mistenni li jżomm reġistru tal-leave kollu tal-membri u jgħaddi, meta mitlub, din l-informazzjoni lid-Direttur għat-Tmexxija u l-Iżvilupp tar-Riżorsi Umani;
@@ -179,11 +163,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur huma li:
 
 (l) jirrappreżenta lill-Istitut f’funzjonijiet uffiċjali tal- Università;
 
-(m) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fl-Istitut fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet reċenti tal-membri kollha tal-Istitut; ġabra fil-qosor tal-proġetti li fihom huma involuti membri tal-Istitut, li huma finanzjati kollha jew parzjalment minn barra; lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni tal-Istitut ma’ terzi persuni li jinkludi l-industrija lokali, il-Gvern jew is-soċjetà FIL-KLIMA U L-IŻVILUPP SOSTENIBBLI [L.S.327.363
-
-ċivili in ġenerali;
-
-*5*
+(m) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fl-Istitut fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet reċenti tal-membri kollha tal-Istitut; ġabra fil-qosor tal-proġetti li fihom huma involuti membri tal-Istitut, li huma finanzjati kollha jew parzjalment minn barra; lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni tal-Istitut ma’ terzi persuni li jinkludi l-industrija lokali, il-Gvern jew is-soċjetà ċivili in ġenerali;
 
 (n) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani għall-Istitut, li jkopri tagħlim, riċerka u xogħol amministrattiv proġettat għall-Istitut u bbażat fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti tal-Istitut u tal-Visiting Teaching Staff;
 
@@ -207,11 +187,7 @@ Minbarra dan, id-Direttur:
 
 (e) m’għandux jgħaddi informazzjoni lil terzi persuni li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università ta’ Malta; kull xogħol li jkun qed isir fl-Istitut għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien tad-data;
 
-(f) għandu jintrabat bl-istatuti, bir-regolamenti u bil-politika tal-Università ta’ Malta, li huma fis-seħħ jew [L.S.327.363 FIL-KLIMA U L-IŻVILUPP SOSTENIBBLI
-
-li jsiru effettivi fi żmien il-ħatra tiegħu.
-
-*6*
+(f) għandu jintrabat bl-istatuti, bir-regolamenti u bil-politika tal-Università ta’ Malta, li huma fis-seħħ jew li jsiru effettivi fi żmien il-ħatra tiegħu.
 
 ## 9.
 

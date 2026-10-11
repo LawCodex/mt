@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta’ ammont li ma jeċċedix €69,881,201.96 4.8% Stock tal-Gvern ta’ Malta 2016 (It-Tieni Ħruġ) (S.L. 161.105)
 
-ĦRUĠ TA’ AMMONT LI MA JEĊĊEDIX €69,881,201.96
-
-4.8% STOCK TAL-GVERN TA’ MALTA 2016
-
-*1*
-
-(IT-TIENI ĦRUĠ) [L.S.161.105
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.105**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

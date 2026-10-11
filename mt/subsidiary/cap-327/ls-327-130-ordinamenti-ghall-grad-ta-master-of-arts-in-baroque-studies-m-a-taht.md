@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Arts in Baroque Studies – M.A. – taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.130)
 
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.130
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.130**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -66,10 +62,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-kors li jibda f’Ottubru 2014 bis
 
 (2) L-applikanti li għandhom id-Diploma in Baroque Architecture mogħtija minn din l-Università u li għandhom esperjenza ta’ xogħol li huwa relatat mal-Kors, jistgħu, wara intervista, jitħallew jidħlu fi programm preparatorju kif speċifikat fl-ordinament 4 ta’ dawn l-ordinamenti, liema programm, jekk mitmum b’suċċess, jagħti aċċess għall-Grad.
 
-*2*
-
-[L.S.327.130 IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI
-
 (3) L-intervista għandha titmexxa minn bord tal-intervisti maħtur mill-Bord għal dan il-għan u għandu jkun magħmul għall-anqas minn tliet persuni.
 
 ## 4. Programm preparatorju.
@@ -111,10 +103,6 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 (2) Is-superviżuri għandhom jibgħatu lill-Bord tal-Istudji rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-Kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar- Regolamenti Prinċipali; u
-
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.130
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx offra opportunità lill-istudent li jiddefendi l-każ tiegħu.
 

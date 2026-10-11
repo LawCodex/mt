@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (2007) (S.L. 261.30)
 
-*1*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2007) [L.S.261.30
-
 LE{ISLAZZJONI SUSSIDJARJA 261.30
 
 ORDNI DWAR L-AWTORITÀ TAD-DJAR
@@ -81,11 +77,7 @@ proprjetà tal-Gvern, mog]tija b’enfitewsi temporanju lil Anthony Debono b’k
 
 (10) Flat numru 8, Blokk B2, Pjazza Madonna ta’ Fatima, Pietà (Tenement No. 69757 - RTB 79/2005).
 
-(11) Flat numru 6, Blokk XIV B, Triq il-Fontanier, Qormi (TRASFERIMENT TA’ PROPRJETÀ) (2007) [L.S.261.30
-
-(Tenement No. 66434 - RTB 18/2006).
-
-*3*
+(11) Flat numru 6, Blokk XIV B, Triq il-Fontanier, Qormi (Tenement No. 66434 - RTB 18/2006).
 
 (12) Flat numru 2, Blokk A, Bini tal-Gvern, G]ajn Kajjet, Rabat, Malta (Tenement No. 66306 - RTB 75/2005). (13) Flat numru 7, Blokk D, Door 3, Bini tal-Gvern, G]ajn Kajjet, Rabat, Malta (Tenement No. 67271 - RTB 48/ 2006).
 
@@ -148,10 +140,6 @@ jag]mlu parti mill-Qasam tad-Djar Ta’ L-Istabar, Qormi, li tmiss min-Nofsinhar
 (9) Dar bin-numru 6, Area 12, ‘Paulmar’, Triq Hans Stumme, San {iljan (Tenement No. 68049 - HA 349/ 96).
 
 (10) Flat numru 1, Blokk F, Triq Jean Houel, San {iljan (Tenement No. 69008 - RTB 21/2005).
-
-*5*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2007) [L.S.261.30
 
 (11) Dar bin-numru 3, Blokk E, Triq Aka`ja, San {wann (Tenement No. 67322 - HA 57/83).
 

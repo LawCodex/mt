@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Ħwienet għall-Bejgħ ta' l-Inbid, Birra jew Likuri Spiritużi (Liċenzi, Bonordni u Diċenza Pubblika)"
-identifier: "S.L. 10.9"
+identifier: "S.L. 10.09"
 eli: "https://legislation.mt/eli/sl/10.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/10.9/20250829/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Ħwienet għall-Bejgħ ta' l-Inbid, Birra jew Likuri Spiritużi (Liċenzi, Bonordni u Diċenza Pubblika) (S.L. 10.9)
-
-*1*
-
-SPIRITUŻI (LIĊENZI, BONORDNI U DIĊENZA PUBBLIKA) [L.S.10.09
+# Regolamenti dwar Ħwienet għall-Bejgħ ta' l-Inbid, Birra jew Likuri Spiritużi (Liċenzi, Bonordni u Diċenza Pubblika) (S.L. 10.09)
 
 **LEĠISLAZZJONI SUSSIDJARJA 10.09**
 
@@ -107,10 +103,6 @@ Il-Kummissarju tal-Pulizija, meta jidhirlu li l-persuna li għandha l-liċenza t
 (2) Ebda talba għat-trasferiment totali jew parzjali ta’ liċenża ma tiġi milqugħa mill-Kummissarju tal-Pulizija ħlief meta jkun soddisfatt li ma hemm ebda oppożizzjoni, għal raġunijiet xierqa, mill-ġirien li d-dar tagħhom tkun sa tmintax-il metru l-bogħod mill-ħanut, għall-persuna li lilha l-liċenza tkun ser tiġi trasferita, jew l-imseħbin tagħha.
 
 \*Imħassra bl-Att XL tal-1972 (Kap. 231).
-
-*3*
-
-SPIRITUŻI (LIĊENZI, BONORDNI U DIĊENZA PUBBLIKA) [L.S.10.09
 
 (3) Meta l-liċenza tiġi mitluba minn iżjed minn persuna waħda, l-liċenza tista’ tinħareġ f’isem ta’ wieħed minnhom biss illi, għall-finijiet tal-liġi, jitqies bħala l-persuna li għandha l-liċenza.
 
@@ -209,10 +201,6 @@ Ebda persuna bil-liċenza ma tista’ timpjega persuna oħra biex tagħmel flokh
 ## 23. Disturb lill-ġirien.
 
 Ebda persuna bil-liċenza ma għandha tħalli fil-ħanut, la b’inhar u lanqas bil-lejl, kant jew ħsejjes li jistgħu jdejqu jew b’xi mod ieħor jiddisturbaw lill-ġirien, u hija għandha tibgħat ’l barra mill-ħanut lil kull min ikun xurban, jew li bi kliem, b’ġesti jew xort’oħra juri li jrid iqajjem storbju.
-
-*5*
-
-SPIRITUŻI (LIĊENZI, BONORDNI U DIĊENZA PUBBLIKA) [L.S.10.09
 
 ## 24. Makni tad-divertiment u apparat għal-logħob.
 

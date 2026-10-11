@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru għall Finanzi għall-ħruġ ta’ Euro 35,000,000 Stock tal-Gvern ta’ Malta (S.L. 161.138)
 
-ĦRUĠ TA’ EURO €35,000,000
-
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [L.S.161.138
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.138**
 
 DIRETTIVA MILL-MINISTRU GĦALL-FINANZI GĦALL-ĦRUĠ TA’ EURO €35,000,000 STOCK

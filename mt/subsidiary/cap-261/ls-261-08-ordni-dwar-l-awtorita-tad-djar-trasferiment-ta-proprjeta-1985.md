@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1985)"
-identifier: "S.L. 261.8"
+identifier: "S.L. 261.08"
 eli: "https://legislation.mt/eli/sl/261.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/261.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1985) (S.L. 261.8)
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1985) [ L.S.261.08
+# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1985) (S.L. 261.08)
 
 LE{ISLAZZJONI SUSSIDJARJA 261.08
 
@@ -91,7 +89,7 @@ B’se]] mill-15 ta’ Frar, 1985:
 
 B’se]] mid-19 ta’ April, 1985:
 
-(a) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern ta’ l-Iklin, limiti ta’ Birkirkara li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 152 tal-kejl ta’ madwar 482 metru kwadru li tmiss mit- Tramuntana ma’ proprjetà ta’ Anthony Muscat, mill- Punent ma’ proprjetà ta’ Godfrey Vella u o]rajn u (TRASFERIMENT TA’ PROPRJETÀ) (1985) [ L.S.261.08 mix-Xlokk ma’ proprjetà tal-Gvern.
+(a) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern ta’ l-Iklin, limiti ta’ Birkirkara li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 152 tal-kejl ta’ madwar 482 metru kwadru li tmiss mit- Tramuntana ma’ proprjetà ta’ Anthony Muscat, mill- Punent ma’ proprjetà ta’ Godfrey Vella u o]rajn u mix-Xlokk ma’ proprjetà tal-Gvern.
 
 (b) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern Tal-Mit]na, limiti tal-Gudja tal-kejl ta’ madwar 27 metru kwadru liema art se tkun mi\\juda mal-Plot Nru. 70 li tmiss mit-Tramuntana mal-proprjetà ta’ l- Awtorità tad-Djar u min-Nofs in-Nhar u mil-Lbi` ma’ triq pubblika.
 
@@ -149,7 +147,7 @@ B’se]] mid-19 ta’ Lulju, 1985:
 
 (ii) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 17 sa 31 tal-kejl ta’ madwar 4006 metri kwadri li tmiss mit- Tramuntana u mil-Lvant ma’ triq pubblika u mil- Lbi` parti ma’ triq pubblika u parti ma’ proprjetà tal-Gvern;
 
-(iii) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 61 sa 66 tal-kejl ta’ madwar 1609 metru kwadru li tmiss mill-Grigal, (TRASFERIMENT TA’ PROPRJETÀ) (1985) [ L.S.261.08 mil-Lbi` u mix-Xlokk ma’ proprjetà tal-Gvern. (e) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern Ta’ Farzina, limiti ta’ }al Qormi li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 2 sa 5 tal-kejl ta’ madwar 1290 metru kwadru li tmiss mill-Grigal, mil-Lbi` u mill-Majjistral ma’ proprjetà tal-Gvern.
+(iii) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 61 sa 66 tal-kejl ta’ madwar 1609 metru kwadru li tmiss mill-Grigal, mil-Lbi` u mix-Xlokk ma’ proprjetà tal-Gvern. (e) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern Ta’ Farzina, limiti ta’ }al Qormi li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 2 sa 5 tal-kejl ta’ madwar 1290 metru kwadru li tmiss mill-Grigal, mil-Lbi` u mill-Majjistral ma’ proprjetà tal-Gvern.
 
 *(f)*
 
@@ -195,7 +193,7 @@ mag]rufa b]ala Plots Nri. 121 sa 135 tal-kejl ta’ madwar 4220 metru kwadru li 
 
 (iv) Bi``a art tal-kejl ta’ madwar 40 metru kwadru liema art se tkun mi\\juda mal-Plots Nri. 26 u 27 li tmiss mill-Majjistral ma’ triq pubblika, mix- Xlokk parti ma’ proprjetà ta’ Joseph Formosa u parti ma’ proprjetà tal-Gvern u mill-Grigal ma’ proprjetà tal-Gvern;
 
-(v) Bi``a art tal-kejl ta’ madwar 60 metru kwadru liema art se tkun mi\\juda mal-Plots Nri. 29 sa 31 (TRASFERIMENT TA’ PROPRJETÀ) (1985) [ L.S.261.08 li tmiss mill-Majjistral ma’ triq pubblika, mix- Xlokk parti ma’ proprjetà tal-Gvern u parti ma’ proprjetà ta’ Raymond Grech u George Cardona, u mill-Grigal ma’ proprjetà tal-Gvern;
+(v) Bi``a art tal-kejl ta’ madwar 60 metru kwadru liema art se tkun mi\\juda mal-Plots Nri. 29 sa 31 li tmiss mill-Majjistral ma’ triq pubblika, mix- Xlokk parti ma’ proprjetà tal-Gvern u parti ma’ proprjetà ta’ Raymond Grech u George Cardona, u mill-Grigal ma’ proprjetà tal-Gvern;
 
 (vi) Bi``a art tal-kejl ta’ madwar 266 metru kwadru liema art se tkun mi\\juda mal-Plots Nri. 35 sa 41 li tmiss mill-Majjistral u mil-Lvant ma’ triq pubblika u mill-Punent ma’ proprjetà ta’ Maria Assunta Cini;
 

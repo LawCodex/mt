@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Science (Honours) (Communication Therapy) taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.465)
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS)
-
-(COMMUNICATION THERAPY) TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.465 LEĠISLAZZJONI SUSSIDJARJA 327.465
-
 **ORDINAMENTI GĦALL-GĦAŻLA**
 
 **TAL-APPLIKANTI GĦAD-DĠUL FIL-KORS**
@@ -73,13 +65,7 @@ Grad A fil-Livell Avvanzat assimilat ma’ Grad A fil-Livell Intermedju.
 
 (ċ) Il-kategoriji ta’ kwalifi għandhom ikunu kif ġej:
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS)
-
-*2*
-
-(COMMUNICATION THERAPY) TAĦT IL-PATROĊINJU [L.S.327.465 TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
-L-ewwel kategorija: dawk bi grad ‘A’ fis-suġġett ewlieni u grad ‘A’ fis-suġġett sekondarju
+ewlieni u grad ‘A’ fis-suġġett sekondarju
 
 It-tieni kategorija: dawk bi grad ‘A’ fis-suġġett ewlieni u grad ‘B’ fis-suġġett sekondarju
 
@@ -107,13 +93,7 @@ Id-disa’ kategorija: dawk bi grad ‘Ċ’ fis-suġġett ewlieni u grad ‘Ċ�
 
 (6) Jekk l-għadd tal-applikanti eliġibbli li jaqgħu fl-aħħar kategorija tal-applikanti eliġibbli biex jidħlu fil-kors skont id-dispożizzjonijiet tal-paragrafu (1) ta’ dan l-ordinament ikun tali li n-numru totali tal-applikanti biex jidħlu jaqbeż l-għadd ta’ postijiet stabbilit mis-Senat, l-ewwel konsiderazzjoni għandha tingħata lil dawn:
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS)
-
-(COMMUNICATION THERAPY) TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.465 (a) il-livell globali tal-applikanti milħuq fis-suġġetti kollha ppreżentati għall-għoti taċ-Ċertifikat tal- Matrikola. Dan għandu jkun determinat mis-somma tal-punti allokati għal kull suġġett, li għandhom ikunu assenjati kif ġej:
+(a) il-livell globali tal-applikanti milħuq fis-suġġetti kollha ppreżentati għall-għoti taċ-Ċertifikat tal- Matrikola. Dan għandu jkun determinat mis-somma tal-punti allokati għal kull suġġett, li għandhom ikunu assenjati kif ġej:
 
 Livell Avvanżat Livell Intermedju
 

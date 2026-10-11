@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Trattament ta’ Taxxa ta’ Individwi b’Ħiliet Għolja (S.L. 123.219)
 
-*1*
-
-B’ĦILIET GĦOLJA [L.S.123.219] LEĠISLAZZJONI SUSSIDJARJA 123.219
+LEĠISLAZZJONI SUSSIDJARJA 123.219
 
 REGOLI DWAR IT-TRATTAMENT TAT-TAXXA TA’ INDIVIDWI B’ĦILIET GĦOLJA
 
@@ -50,11 +48,7 @@ It-titolu ta’ dawn ir-regoli hu r-Regoli dwar Trattament ta’ Taxxa ta’ Ind
 
 Iżda għall-finijiet ta’ din it-tifsira:
 
-"kwalifika ta’ edukazzjoni" tfisser kwalunkwe prova ta’ kwalifiki formali maħruġa minn stabbiliment edukattiv li tiċċertifika t-tlestija b’suċċess ta’ programm ta’ edukazzjoni [L.S. 123.219] B’ĦILIET GĦOLJA
-
-postsekondarju, jiġifieri sett ta’ korsijiet ipprovduti minn stabbiliment edukattiv rikonoxxut bħala istituzzjoni edukattiva mill-ġurisdizzjoni li jinsab fiha. Kwalifika ta’ edukazzjoni għandha titqies, kemm-il darba l-istudji meħtieġa jkunu ta’ mill-inqas tliet (3) snin;
-
-*2*
+"kwalifika ta’ edukazzjoni" tfisser kwalunkwe prova ta’ kwalifiki formali maħruġa minn stabbiliment edukattiv li tiċċertifika t-tlestija b’suċċess ta’ programm ta’ edukazzjoni postsekondarju, jiġifieri sett ta’ korsijiet ipprovduti minn stabbiliment edukattiv rikonoxxut bħala istituzzjoni edukattiva mill-ġurisdizzjoni li jinsab fiha. Kwalifika ta’ edukazzjoni għandha titqies, kemm-il darba l-istudji meħtieġa jkunu ta’ mill-inqas tliet (3) snin;
 
 "esperjenza professjonali" tfisser l-eżerċizzju attwali u leġittimu tal-professjoni kkonċernata;
 
@@ -78,11 +72,9 @@ Iżda wkoll fejn l-income minimu speċifikat taħt il-leġiżlazzjoni elenkata f
 
 (3) L-uffiċċji li huma eliġibbli għar-rata ta’ taxxa mnaqqsa huma elenkati fl-Iskedi.
 
-*3*
+## 4. Benefiċjarji taħt dawn ir-regoli.
 
-B’ĦILIET GĦOLJA [L.S.123.219] 4. Benefiċjarju huwa individwu li jissodisfa l-kondizzjonijiet kollha li ġejjin:
-
-*Benefiċjarji taħt dawn ir-regoli.*
+Benefiċjarju huwa individwu li jissodisfa l-kondizzjonijiet kollha li ġejjin:
 
 (a) ikun individwu li jikseb income soġġett għat-taxxa taħt l-artikolu 4(1)(b) tal-Att, meta dawn ikunu emolumenti li jitħallsu taħt kuntratt ta’ impjieg kwalifikanti, u li jkunu ġew riċevuti fir-rigward ta’ xogħol jew dmirijiet mwettqa f’Malta, jew fir-rigward ta’ kwalunkwe perjodu mgħoddi barra minn Malta għal dak li għandu x’jaqsam ma’ tali xogħol jew dmirijiet, jew fi btala waqt it-twettiq ta’ tali xogħol jew dmirijiet;
 
@@ -100,11 +92,9 @@ B’ĦILIET GĦOLJA [L.S.123.219] 4. Benefiċjarju huwa individwu li jissodisfa 
 
 (i) jkun qiegħed jirċievi riżorsi stabbli u regolari li jkunu biżżejjed sabiex isostnu lilu u familja f’Malta li hija komparabbli għal tiegħu, mingħajr ma jkollhom jirrikorru għas-sistema ta’ assistenza soċjali f’Malta;
 
-(ii) jkun joqgħod f’akkommodazzjoni li titqies bħala waħda normali f’Malta għalih innifsu u, fejn ikun jifforma parti minn familja li qiegħda tgħix f’Malta, għal familja komparabbli f’Malta, u li tissodisfa standards ġenerali tas-saħħa u s-sigurtà li jkunu fis-seħħ f’Malta; [L.S. 123.219] B’ĦILIET GĦOLJA
+(ii) jkun joqgħod f’akkommodazzjoni li titqies bħala waħda normali f’Malta għalih innifsu u, fejn ikun jifforma parti minn familja li qiegħda tgħix f’Malta, għal familja komparabbli f’Malta, u li tissodisfa standards ġenerali tas-saħħa u s-sigurtà li jkunu fis-seħħ f’Malta;
 
 (iii) jkollu dokument tal-ivvjaġġar validu;
-
-*4*
 
 (iv) jkollu assigurazzjoni medika privata fir-rigward tar-riskji kollha li normalment ikunu koperti għalihom ċittadini Maltin għalih u għall-membri tal-familja tiegħu, irrispettivament minn min ikun responsabbli għall-ispiża ta’ tali assigurazzjoni; u
 
@@ -126,11 +116,9 @@ Iżda wkoll l-ebda tali applikazzjoni ma għandha tiġi aċċettata minn kwalunk
 
 (4) Jekk individwu jonqos, mingħajr l-ebda raġuni valida, milli jikkonforma ruħu ma’ kwalunkwe talba li ssirlu mill-awtorità kompetenti skont is-subregola (3) fil-perjodu indikat, l-awtorità kompetenti għandha tirrifjuta l-applikazzjoni u tinforma lill- Kummissarju b’tali rifjut.
 
-(5) Fil-perjodu imsemmi fis-subregola (2) jew (3), skont il- B’ĦILIET GĦOLJA [L.S.123.219] każ, l-awtorità kompetenti għandha tinforma lill-Kummissarju b’tali determinazzjoni jew rifjut. Il-Kummissarju għandu japprova tali determinazzjoni jew tali rifjut u jinforma lill-applikant b’dan, b’tali mod li l-Kummissarju għandu jistabbilixxi.
+(5) Fil-perjodu imsemmi fis-subregola (2) jew (3), skont il-każ, l-awtorità kompetenti għandha tinforma lill-Kummissarju b’tali determinazzjoni jew rifjut. Il-Kummissarju għandu japprova tali determinazzjoni jew tali rifjut u jinforma lill-applikant b’dan, b’tali mod li l-Kummissarju għandu jistabbilixxi.
 
 (6) L-awtorità kompetenti għandha, fuq bażi annwali, tibgħat lista ta’ applikazzjonijiet riċevuti u l-istatus tagħhom lill- Kummissarju.
-
-*5*
 
 ## 6. Mod kif tiġi eżerċitata l-għażla.
 
@@ -148,11 +136,9 @@ Iżda tali għażla disponibbli ma tistax tiġi eżerċitata fir-rigward ta’ k
 
 Iżda l-għażla taħt l-artikolu 56(21) tal-Att għandha tkun ġiet eżerċitata kif provdut taħt id-dispożizzjonijiet tar-regola 6.
 
-(2) Bla ħsara għad-dispożizzjonijiet tas-subregola (3), kwalunkwe individwu li jibbenefika taħt id-disposizzjonijiet tas-subregola (1), malli jissottometti applikazzjoni fuq tali formola jew b’tali mod li l-awtorità kompetenti, bi ftehim mal-Kummissarju, tista’ teħtieġ, għandu jkun eliġibbli għal żewġ (2) estensjonijiet ulterjuri ta’ ħames (5) snin għall-perjodu kwalifikanti tiegħu, kif soġġett għall-osservanza kontinwa tad-dispożizzjonijiet l-oħra ta’ dawn ir-regoli u l-artikolu 56(21) tal-Att. Tali applikazzjoni għandha ssir matul is-sena qabel it-tmiem tal-perjodu kwalifikanti ta’ ħames (5) snin rilevanti. [L.S. 123.219] B’ĦILIET GĦOLJA
+(2) Bla ħsara għad-dispożizzjonijiet tas-subregola (3), kwalunkwe individwu li jibbenefika taħt id-disposizzjonijiet tas-subregola (1), malli jissottometti applikazzjoni fuq tali formola jew b’tali mod li l-awtorità kompetenti, bi ftehim mal-Kummissarju, tista’ teħtieġ, għandu jkun eliġibbli għal żewġ (2) estensjonijiet ulterjuri ta’ ħames (5) snin għall-perjodu kwalifikanti tiegħu, kif soġġett għall-osservanza kontinwa tad-dispożizzjonijiet l-oħra ta’ dawn ir-regoli u l-artikolu 56(21) tal-Att. Tali applikazzjoni għandha ssir matul is-sena qabel it-tmiem tal-perjodu kwalifikanti ta’ ħames (5) snin rilevanti.
 
 (3) Minkejja kwalunkwe stipulazzjoni kuntrarja f’dawn ir-regoli u fl-artikolu 56(21) tal-Att, il-benefiċċji taħt id-dispożizzjonijiet ta’ dawn ir-regoli u l-artikolu 56(21) tal-Att ma għandhomx japplikaw fir-rigward ta’ income miksub wara l-31 ta’ Diċembru 2040.
-
-*6*
 
 ## 8. Ammont minimu taxxabbli taħt dawn ir-regoli.
 
@@ -174,13 +160,11 @@ Meta individwu jeżerċita l-għażla disponibbli taħt l-artikolu 56(21) tal-At
 
 (1) Għall-fini li jiġi aċċertat id-dritt ta’ individwu li jeżerċita l-għażla msemmija fl-artikolu 56(21) tal-Att u li tiġi żgurata l-applikazzjoni xierqa ta’ dawn ir-regoli, il-Kummissarju u, jew l-awtorità kompetenti jistgħu jeħtieġu lil individwu jipproduċi, fil-perjodu ta’ żmien indikat mill-Kummissarju u, jew mill-awtorità kompetenti f’tali talba, kwalunkwe informazzjoni oħra u dokumenti ulterjuri kif jistgħu jqisu meħtieġ, inklużi ċ-ċertifikazzjonijiet u d-dikjarazzjonijiet tal-prinċipal b’rabta ma’ tali individwu.
 
-(2) Jekk individwu jonqos, mingħajr l-ebda raġuni valida, milli jikkonforma ma’ kwalunkwe talba magħmula lilu fir-rigward tal-income tiegħu li ssirlu mill-Kummissarju u, jew mill-awtorità B’ĦILIET GĦOLJA [L.S.123.219] kompetenti skont din ir-regola, il-Kummissarju jista’ jordna li l-artikolu 56(21) tal-Att ma għandux japplika għal tali income. F’tali każ, il-Kummissarju jista’ jagħmel stima u t-taxxa fuq tali income għandha tiġi kalkulata bir-rati provduti fl-Att mingħajr l-ebda referenza għall-imsemmi artikolu. Fejn individwu jonqos milli jipproduċi l-informazzjoni mitluba skont talba magħmula unikament mill-awtorità kompetenti, l-imsemmija awtorità kompetenti għandha tinforma lill-Kummissarju mingħajr dewmien u fi kwalunkwe każ sa mhux aktar tard minn tletin (30) jum minn tali nuqqas.
+(2) Jekk individwu jonqos, mingħajr l-ebda raġuni valida, milli jikkonforma ma’ kwalunkwe talba magħmula lilu fir-rigward tal-income tiegħu li ssirlu mill-Kummissarju u, jew mill-awtorità kompetenti skont din ir-regola, il-Kummissarju jista’ jordna li l-artikolu 56(21) tal-Att ma għandux japplika għal tali income. F’tali każ, il-Kummissarju jista’ jagħmel stima u t-taxxa fuq tali income għandha tiġi kalkulata bir-rati provduti fl-Att mingħajr l-ebda referenza għall-imsemmi artikolu. Fejn individwu jonqos milli jipproduċi l-informazzjoni mitluba skont talba magħmula unikament mill-awtorità kompetenti, l-imsemmija awtorità kompetenti għandha tinforma lill-Kummissarju mingħajr dewmien u fi kwalunkwe każ sa mhux aktar tard minn tletin (30) jum minn tali nuqqas.
 
 ## 11. Dispożizz-jonijiet kontra l-abbuż
 
 (1) Fejn kwalunkwe persuna, sabiex tikseb benefiċċji taħt dawn ir-regoli, tagħmel użu minn arranġamenti artifiċjali, il- Kummissarju għandu b’ordni bil-miktub, jistabbilixxi kemm għandha tħallas taxxa l-imsemmija persuna, għal kwalunkwe sena ta’ stima, b’tali mod u f’tali ammont kif jista’ jkun meħtieġ skont iċ-ċirkostanzi tal-każ sabiex jannulla l-benefiċċji miksuba taħt dawn ir-regoli.
-
-*7*
 
 *       Kap. 372.*
 
@@ -210,11 +194,7 @@ Meta individwu jeżerċita l-għażla disponibbli taħt l-artikolu 56(21) tal-At
 
 (e) ir-Regoli dwar it-Taxxa għall-Impjegati Għolja ta’ Uffiċċji ta’ Familja, Back Offices u Operat ta’ Amministrazzjoni tat-Teżor,
 
-għandhom, fejn issir applikazzjoni mal-awtorità kompetenti rilevanti, jitqiesu bħala benefiċjarji taħt dawn ir-regoli. L-awtorità kompetenti għandha toħroġ deċiżjoni f’dan ir-rigward fi żmien sittin (60) jum mis-sottomissjoni ta’ tali applikazzjoni u tinforma lill- Kummissarju b’dan b’tali mod li l-Kummissarju jista’ jistabbilixxi. Fejn deċiżjoni tinħareġ taħt din ir-regola, l-individwu għandu jitqies bħala benefiċjarju għal perjodu ta’ ħames (5) snin li jibda jiddekorri [L.S. 123.219] B’ĦILIET GĦOLJA
-
-mis-sena ta’ stima li fiha tkun inħarġet id-deċiżjoni, u d-dispożizzjonijiet tar-regola 7(2) għandhom japplikaw mutatis mutandis għal kwalunkwe individwu li jibbenefika minn din ir-regola:
-
-*8*
+għandhom, fejn issir applikazzjoni mal-awtorità kompetenti rilevanti, jitqiesu bħala benefiċjarji taħt dawn ir-regoli. L-awtorità kompetenti għandha toħroġ deċiżjoni f’dan ir-rigward fi żmien sittin (60) jum mis-sottomissjoni ta’ tali applikazzjoni u tinforma lill- Kummissarju b’dan b’tali mod li l-Kummissarju jista’ jistabbilixxi. Fejn deċiżjoni tinħareġ taħt din ir-regola, l-individwu għandu jitqies bħala benefiċjarju għal perjodu ta’ ħames (5) snin li jibda jiddekorri mis-sena ta’ stima li fiha tkun inħarġet id-deċiżjoni, u d-dispożizzjonijiet tar-regola 7(2) għandhom japplikaw mutatis mutandis għal kwalunkwe individwu li jibbenefika minn din ir-regola:
 
 Iżda tali applikazzjoni għandha ssir sa mhux aktar tard mill- 31 ta’ Diċembru 2028, b’tali mod li l-Kummissarju u l-awtorità kompetenti għandhom jistabbilixxu:
 
@@ -230,9 +210,7 @@ Iżda wkoll minkejja kwalunkwe dispożizzjoni oħra kuntrarja, id-dispożizzjoni
 
 taħt ir-regoli msemmija fis-subregola (1)(a) sa (e).
 
-*9*
-
-B’ĦILIET GĦOLJA [L.S.123.219] SKEDA I
+## SKEDA I
 
 (regoli 2 u 3)
 
@@ -262,11 +240,7 @@ Awtoritàjiet kompetenti:
 
 (iii) kwalunkwe impriża li tqabbad individwu partikolari għal xogħol abbord fuq kwalunkwe vapur, esklużi vapuri li joperaw fuq servizzi regolari kif ukoll vapuri li l-użu jew l-operat tagħhom jeħtieġ ċertifikazzjoni skont ir- Regolamenti dwar il-Bastimenti Kummerċjali u li huma rmiġġati jew ankrati fl-ilmijiet territorjali ta’ Malta jew kwalunkwe port f’Malta għal mill-anqas xahar (1) f’sena kalendarja, kull impriża li tingaġġa f’Shore Based Ship Management (Commercial Management) (hawn aktar’ il quddiem imsejħa "attivitajiet marittimi"). Għall-finijiet ta’ dan l-impjieg, it-terminu "servizzi regolari" għandu jkollha t-tifsira mogħtija lilha fid-Direttiva (UE) 2017/2110 tal-Parlament Ewropew u tal-Kunsill tal-15 ta’ Novembru 2017 dwar sistema ta’ spezzjonijiet għall-operazzjoni bla periklu ta’ vapuri ro-ro tal-passiġġieri u inġenji ta’ veloċità għolja għall-passiġġieri f’servizz regolari u li temenda d-Direttiva 2009/16/KE u li tħassar id-Direttiva tal-Kunsill 1999/35/KE; jew
 
-(iv) kwalunkwe impriża li primarjament twettaq negozju jew kummerċ li jikkonsisti f’Servizzjar tal-industrija [L.S. 123.219] B’ĦILIET GĦOLJA
-
-taż-Żejt u l-Gass Offshore u servizzi anċillari (minn hawn ’il quddiem "Servizzjar tal-industrija taż-Żejt u l-Gass Offshore u servizzi anċillari");
-
-*10*
+(iv) kwalunkwe impriża li primarjament twettaq negozju jew kummerċ li jikkonsisti f’Servizzjar tal-industrija taż-Żejt u l-Gass Offshore u servizzi anċillari (minn hawn ’il quddiem "Servizzjar tal-industrija taż-Żejt u l-Gass Offshore u servizzi anċillari");
 
 (d) l-Uffiċċju tal-Uffiċjal Mediku Ewlieni tal-Gvern; u
 
@@ -296,9 +270,7 @@ Uffiċċji eliġibbli regolati, liċenzjati jew rikonoxxuti mill-awtoritàjiet k
 
 . Uffiċjal tal-Informazzjoni Ewlieni
 
-*11*
-
-B’ĦILIET GĦOLJA [L.S.123.219] SKEDA II
+## SKEDA II
 
 (regoli 2 u 3)
 
@@ -340,11 +312,7 @@ Uffiċċji Eliġibbli mal-Uffiċċji tal-Familja:
 
 *    L.S. 370.02.*
 
-(b) maniġers ta’ fondi stabbiliti f’Malta li huma eżentati mir-rekwiżit għal liċenzja ta’ servizzi ta’ investiment skont ir-regolament 3(1)(t) tar-Regolamenti ta’ Eżenzjoni għall-Att dwar Servizzi ta’ Investiment, [L.S. 123.219] B’ĦILIET GĦOLJA
-
-sal-punt li l-PIF notifikat li jimmaniġġjaw jikkostitwixxi mezz li permezz tiegħu l-uffiċċju ta’ familja jinvesti l-ġid privat tal- investituri tiegħu mingħajr ma jiġbor kapital estern;
-
-*12*
+(b) maniġers ta’ fondi stabbiliti f’Malta li huma eżentati mir-rekwiżit għal liċenzja ta’ servizzi ta’ investiment skont ir-regolament 3(1)(t) tar-Regolamenti ta’ Eżenzjoni għall-Att dwar Servizzi ta’ Investiment, sal-punt li l-PIF notifikat li jimmaniġġjaw jikkostitwixxi mezz li permezz tiegħu l-uffiċċju ta’ familja jinvesti l-ġid privat tal- investituri tiegħu mingħajr ma jiġbor kapital estern;
 
 *       L.S. 370.02.*
 
@@ -366,9 +334,7 @@ sal-punt li l-PIF notifikat li jimmaniġġjaw jikkostitwixxi mezz li permezz tie
 
 . Kap u, jew Uffiċjal tar-Riskji Ewlieni, Kap u, jew Uffiċjal Ewlieni għall-Konformità u Kontra l-Ħasil tal-Flus
 
-*13*
-
-B’ĦILIET GĦOLJA [L.S.123.219] . Portfolio Manager
+. Portfolio Manager
 
 . Uffiċjal tal-Investimenti Ewlieni u, jew Uffiċjal tal-Investimenti
 
@@ -389,10 +355,6 @@ B’ĦILIET GĦOLJA [L.S.123.219] . Portfolio Manager
 "trustee reġistrat" tfisser trustee li jkun reġistrat mal-awtorità kompetenti skont l-artikolu 43B tal-Att dwar Trusts u Trustees;
 
 "Uffiċċju ta’ Familja Waħda" tfisser impriża li timmaniġġja unikament il-ġid ta’ familja waħda (1) ta’ valur nett għoli;
-
-*14*
-
-[L.S. 123.219] B’ĦILIET GĦOLJA
 
 SKEDA III
 
@@ -424,9 +386,7 @@ Avjazzjoni
 
 . Uffiċjal Kap tal-Investiment
 
-*15*
-
-B’ĦILIET GĦOLJA [L.S.123.219] . Uffiċjal Kap tal-Assigurazzjoni
+. Uffiċjal Kap tal-Assigurazzjoni
 
 . Maniġer Responsabbli
 
@@ -480,10 +440,6 @@ B’ĦILIET GĦOLJA [L.S.123.219] . Uffiċjal Kap tal-Assigurazzjoni
 
 . Inġinier Aeronawtiku
 
-*16*
-
-[L.S. 123.219] B’ĦILIET GĦOLJA
-
 . Kap tal-Operat tal-Manutenzjoni
 
 . Żviluppatur tas-Sistemi tal-Avjazzjoni
@@ -532,9 +488,7 @@ L-Industrija tas-Servizzjar taż-Żejt u l-Gass Offshore u Servizzi Anċillari
 
 Kap tal-Akkademja tat-Taħriġ (liema Akkademja għandha tkun iċċertifikata minn istituzzjoni ta’ akkreditar internazzjonali.
 
-*17*
-
-B’ĦILIET GĦOLJA [L.S.123.219] SKEDA IV
+## SKEDA IV
 
 (regoli 2 u 3)
 
@@ -551,10 +505,6 @@ Uffiċċji eliġibbli fit-Teknoloġija tar-Riproduzzjoni Assistita regolati, li�
 . Persuna Responsabbli
 
 . Lead Quality Manager
-
-*18*
-
-[L.S. 123.219] B’ĦILIET GĦOLJA
 
 ## SKEDA V
 
@@ -588,9 +538,7 @@ Uffiċċji eliġibbli regolati, liċenzjati jew rikonoxxuti mill-awtorità kompe
 
 . Uffiċjal Legali Ewlieni
 
-*19*
-
-B’ĦILIET GĦOLJA [L.S.123.219] SKEDA VI
+## SKEDA VI
 
 (regoli 2 u 3)
 
@@ -641,10 +589,6 @@ Inġinerija:
 Matematika:
 
 . Matematiku
-
-*20*
-
-[L.S. 123.219] B’ĦILIET GĦOLJA
 
 . Statistiku
 

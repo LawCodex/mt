@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Istatus tal-Immigrazzjoni taċ-Ċittadini Brittaniċi Residenti f’Malta fid-Data tat-Tluq tar-Renju Unit mill-Unjoni Ewropea (S.L. 217.23)
 
-ISTATUS TAL-IMMIGRAZZJONI TAĊ-ĊITTADINI
-
-BRITTANIĊI RESIDENTI F’MALTA FID-DATA TAT-TLUQ
-
-*1*
-
-TAR-RENJU UNIT MILL-UNJONI EWROPEA [L.S. 217.23
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.23**
 
 **REGOLAMENTI DWAR L-ISTATUS TAL-**

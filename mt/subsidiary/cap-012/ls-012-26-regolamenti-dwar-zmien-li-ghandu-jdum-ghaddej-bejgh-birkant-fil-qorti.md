@@ -16,16 +16,12 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Żmien li għandu jdum għaddej Bejgħ b’Irkant fil-Qorti (S.L. 12.26)
 
-|MIEN LI G}ANDU JDUM G}ADDEJ
-
-*1*
-
-BEJG} B’IRKANT FIL-QORTI [L.S.12.26
-
 **LE{ISLAZZJONI SUSSIDJARJA 12.26**
 
 **REGOLAMENTI DWAR |MIEN LI G}ANDU**
 
-JDUM G}ADDEJ BEJG} B’IRKANT FIL-QORTI 6 ta’ Jannar, 2009 L-AVVI| LEGALI 5 ta’ l-2009.
+JDUM G}ADDEJ BEJG} B’IRKANT FIL-QORTI
+
+6 ta’ Jannar, 2009 L-AVVI| LEGALI 5 ta’ l-2009.
 
 Revokat bl-Att XLV. 2016.9.

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Nursing or Midwifery taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.339)
 
-GRAD TA’ MASTER OF SCIENCE IN NURSING
-
-OR MIDWIFERY TA}T IL-PATRO~INJU
-
-*1*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SA}}A [L.S.327.339
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.339**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER OF**

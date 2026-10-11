@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Żona Fort Cambridge Tigne bħala Żona Speċjali Msemmija (S.L. 246.12)
 
-*1*
-
-B}ALA |ONA SPE~JALI MSEMMIJA [L.S.246.12
-
 **LE{ISLAZZJONI SUSSIDJARJA 246.12**
 
 **ORDNI DWAR |ONA FORT CAMBRIDGE, TIGNÈ**

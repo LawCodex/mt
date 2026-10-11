@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kontroll tat-Tined u l-Arei tad-Dwana"
-identifier: "S.L. 37.4"
+identifier: "S.L. 37.04"
 eli: "https://legislation.mt/eli/sl/37.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/37.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kontroll tat-Tined u l-Arei tad-Dwana (S.L. 37.4)
+# Regolamenti dwar il-Kontroll tat-Tined u l-Arei tad-Dwana (S.L. 37.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 37.04**
 

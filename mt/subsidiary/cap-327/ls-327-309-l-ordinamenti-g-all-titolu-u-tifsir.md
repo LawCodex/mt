@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # l-Ordinamenti g]all- Titolu u tifsir. (S.L. 327.309)
 
-CHEMISTRY TA}T IL-PATRO~INJU
-
-*1*
-
-TAL-FAKULTÀ TAX-XJENZA [S.L.327.309
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.309**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -71,13 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) Applikanti bi grad fix-xjenza bil-kimika bħala l-qasam ta’ studju ewlieni miksub fit-tielet klassi bl-unuri jistgħu jidħlu jekk juru evidenza ta’ esperjenza sinifikanti f’xogħol rilevanti għall-qasam ta’ studju tal-kors miksuba wara l-grad tal-ewwel ċiklu tagħhom.
 
-(3) Il-Bord jista’ jirrakkomanda lis-Senat in-numru ta’ applikanti li jistgħu jirreġistraw għall-kors, skont id-disponibilità CHEMISTRY TA}T IL-PATRO~INJU
-
-*2*
-
-[S.L.327.309 TAL-FAKULTÀ TAX-XJENZA
-
-tar-riżorsi. In-numru tal-postijiet disponibbli għandu jitħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
+(3) Il-Bord jista’ jirrakkomanda lis-Senat in-numru ta’ applikanti li jistgħu jirreġistraw għall-kors, skont id-disponibilità tar-riżorsi. In-numru tal-postijiet disponibbli għandu jitħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (4) Jekk l-għadd ta’ applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti għandhom jintgħażlu wara intervista minn bord, li jkun magħmul mill-anqas minn tliet membri, maħtur għal dan il-għan. Il-Bord għandu jagħżel lill-applikanti skont dawn il-kriterji li ġejjin:
 
@@ -115,11 +103,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 25,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
-CHEMISTRY TA}T IL-PATRO~INJU
-
-*3*
-
-TAL-FAKULTÀ TAX-XJENZA [S.L.327.309 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur mill-Bord, li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perjodu ta’ studju. Kull modifika sostanzjali fit-titlu jew fil-kontenut trid tkun approvata mill-Bord.
+(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur mill-Bord, li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perjodu ta’ studju. Kull modifika sostanzjali fit-titlu jew fil-kontenut trid tkun approvata mill-Bord.
 
 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-bidu tat-tieni semestru.
 

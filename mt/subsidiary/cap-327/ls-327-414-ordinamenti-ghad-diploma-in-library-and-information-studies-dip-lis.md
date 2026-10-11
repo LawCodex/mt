@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Library and Information Studies - Dip. LIS taħt l-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien (S.L. 327.414)
 
-Dip. LIS - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.414
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.414**
 
 ORDINAMENTI GĦAD-DIPLOMA IN LIBRARY AND INFORMATION STUDIES - Dip. LIS - TAĦT
@@ -74,12 +68,6 @@ Il-kors jikkonsisti minn numru ta’ taqsimiet studju li għalihom hemm assenjat
 ## 6. Pubblikazzjoni tal-programm ta’ studju.
 
 Il-Bord jippubblika l-programm ta’ studju skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali u kif approvat mis-Senat, qabel il-bidu ta’ kull kors. Suġġett għal-tibdil li l-Bord jista’ jagħmel, bl-approvazzjoni tas-Senat, l-istudenti għandhom isegwu t-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm għad-Diploma.
-
-Dip. LIS - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.414 TAL-MIDJA U X-XJENZI TAL-GĦARFIEN
 
 ## 7. Klassifikazzjoni tar- Rikonoxximent.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, Ekonomija u Investiment għall-Ħruġ ta’ €13,670,000 7% Stock tal-Gvern ta’ Malta 2019 (II) (S.L. 161.80)
 
-L-EKONOMIJA U INVESTIMENT G}ALL-}RU{ TA’
-
-*1*
-
-€13,670,000 7% STOCK TAL-GVERN TA’ MALTA 2019 (II) [S.L.161.80
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.80**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**
@@ -55,10 +49,6 @@ L-applikazzjoni biex l-iStock jitqieg]ed fuq il-lista uffi`jali u biex ikun nego
 
 L-iStock u l-img]ax fuqu g]andhom ikunu addebitati lid-d]ul u l-assi [enerali tal-Gvern ta’ Malta.
 
-L-EKONOMIJA U INVESTIMENT G}ALL-}RU{ TA’
+## 6. Redenzjoni tal-iStock.
 
-*2*
-
-[S.L.161.80 €13,670,000 7% STOCK TAL-GVERN TA’ MALTA 2019 (II) 6. L-iStock jinfeda bi premium ta’ 10 fil-mija fuq il-valur nominali tieg]u f’data bejn l-1 ta’ Jannar ta’ l-2019 u l-31 ta’ Di`embru, 2019 (i\\-\\ew[ dati inklu\\i) skond kif jistabbilixxi l- Accountant General u skond ma ji[i av\\at fil-Gazzetta.
-
-*Redenzjoni tal-iStock.*
+L-iStock jinfeda bi premium ta’ 10 fil-mija fuq il-valur nominali tieg]u f’data bejn l-1 ta’ Jannar ta’ l-2019 u l-31 ta’ Di`embru, 2019 (i\\-\\ew[ dati inklu\\i) skond kif jistabbilixxi l- Accountant General u skond ma ji[i av\\at fil-Gazzetta.

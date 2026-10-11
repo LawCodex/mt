@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Sustainable Energy taħt il-patroċinju tal-Istitut għall-Enerġija Sostenibbli (S.L. 327.399)
 
-ENERGY TAĦT IL-PATROêINJU TAL-ISTITUT
-
-*1*
-
-GĦALL-ENERĀIJA SOSTENIBBLI [L.S.327.399
-
 **LEĀISLAZZJONI SUSSIDJARJA 327.399**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -73,13 +67,7 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 
 ## 6. Postgraduate Diploma.
 
-L-istudenti li jiksbu s-60 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiëëaw b’suëëess id- ENERGY TAĦT IL-PATROêINJU TAL-ISTITUT
-
-*2*
-
-[L.S.327.399 GĦALL-ENERĀIJA SOSTENIBBLI
-
-dissertazzjoni, jkunu eliāibbli għall-għoti tal-Postgraduate Diploma.
+L-istudenti li jiksbu s-60 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiëëaw b’suëëess id-dissertazzjoni, jkunu eliāibbli għall-għoti tal-Postgraduate Diploma.
 
 ## 7. Pubblikazzjoni tal-programm ta’ studju.
 
@@ -113,13 +101,7 @@ Il-programm ta’ studju għandu jkunu ppubblikat mill-Bord wara l-approvazzjoni
 
 ## 11. Klassifikazzjoni tar- Rikonoxximenti.
 
-Il-Marka Medja Finali MwieŜna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ENERGY TAĦT IL-PATROêINJU TAL-ISTITUT
-
-*3*
-
-GĦALL-ENERĀIJA SOSTENIBBLI [L.S.327.399
-
-ibbaŜata fuq ir-riŜultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piŜ indaqs.
+Il-Marka Medja Finali MwieŜna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbaŜata fuq ir-riŜultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piŜ indaqs.
 
 ## 12. Disposizzjonijiet speëjali għall-korsijiet fuq baŜi part-time.
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Tnaqqis u Krediti ta’ Taxxa (Kwalifiki Rilevanti għall-Industrija) (S.L. 123.107)
 
-*1*
-
-(KWALIFIKI RILEVANTI GĦALL-INDUSTRIJA) [L.S.123.107
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.107**
 
 REGOLI DWAR TNAQQIS U KREDITI TA’ TAXXA
@@ -62,10 +58,6 @@ F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’o�
 
 *Krediti ta’ taxxa. Emendata: A.L. 287 tal-2021.*
 
-*2*
-
-[L.S.123.107 (KWALIFIKI RILEVANTI GĦALL-INDUSTRIJA)
-
 (2) B’effett mill-1 ta’ Jannar 2017, il-kreditu ta’ taxxa msemmi f’din ir-regola għandu jkun ammont kif jista’ jiġi stabbilit mill-Korporazzjoni li ma jkunx jeċċedi sebgħin fil-mija (70%) tal-ispejjeż għall-istudju mħallsa mill-istudent għall-perijodu li jibda fid-data meta jibda l-kors rilevanti, sal-aħħar tal-kors rilevanti jew f’data speċifikata mill-Korporazzjoni.
 
 (3) Il-kreditu ta’ taxxa msemmi f’din ir-regola għandu jkun dovut bħala tnaqqis mit-taxxa li jkollha titħallas minn dak l-individwu fuq il-qligħ taxxabbli tiegħu għas-sena ta’ stima li tibda fl- 1 ta’ Jannar tas-sena li tkun minnufih wara dik is-sena li fiha tinkiseb il-kwalifika rilevanti, u kull ammont li ma jinqatax mit-taxxa li tkun trid titħallas għal dik is-sena ta’ stima jista’ jittieħed ’il quddiem biex jingħata bħala kreditu ta’ taxxa għal għaxar snin ta’ stima ta’ wara:
@@ -86,11 +78,7 @@ Iżda l-Kummissarju jista’ jeħtieġ prova li tkun tikkonferma li dawk l-ispej
 
 ## 5. Ċertifikat ta’ kreditu ta’ taxxa. Emendata: A.L. 207 tal-2017; A.L. 283 tal-2020; A.L. 287 tal-2021; A.L. 266 tal-2023; A.L. 323 tal-2024; A.L. 79 tal-2026.
 
-Iċ-ċertifikat ta’ kreditu ta’ taxxa msemmi fir-regola 4(ċ) għandu jinħareġ mill-Korporazzjoni skont linji gwida li jiġu pubblikati fuq il-website tal-Korporazzjoni, wara li ssir applikazzjoni minn student, meta l-Korporazzjoni jkun sodisfatt li l-applikazzjoni tkun applikazzjoni bona fide li tkun konformi mad-dispożizzjonijiet tar-regola 3, u meta, wara li jkun kiseb dak it-tagħrif kollu u jkun għamel dak l-istħarriġ li jkun qies meħtieġ, jidhirlu li jkun xieraq li jagħmel hekk, jista’ jiddeċiedi li l-kors inkwistjoni jkun kors rilevanti u jistabbilixxi safejn fil-fehma tiegħu, l-infieq imsemmi fl- (KWALIFIKI RILEVANTI GĦALL-INDUSTRIJA) [L.S.123.107
-
-applikazzjoni jkun infieq għal studju u kemm ikun meħtieġ u raġonevoli fil-kuntest tal-għan li għalih intnefaq, u l-ammont hekk stabbilit għandu jkun l-ogħla spiża kwalifikanti għall-istudju:
-
-*3*
+Iċ-ċertifikat ta’ kreditu ta’ taxxa msemmi fir-regola 4(ċ) għandu jinħareġ mill-Korporazzjoni skont linji gwida li jiġu pubblikati fuq il-website tal-Korporazzjoni, wara li ssir applikazzjoni minn student, meta l-Korporazzjoni jkun sodisfatt li l-applikazzjoni tkun applikazzjoni bona fide li tkun konformi mad-dispożizzjonijiet tar-regola 3, u meta, wara li jkun kiseb dak it-tagħrif kollu u jkun għamel dak l-istħarriġ li jkun qies meħtieġ, jidhirlu li jkun xieraq li jagħmel hekk, jista’ jiddeċiedi li l-kors inkwistjoni jkun kors rilevanti u jistabbilixxi safejn fil-fehma tiegħu, l-infieq imsemmi fl-applikazzjoni jkun infieq għal studju u kemm ikun meħtieġ u raġonevoli fil-kuntest tal-għan li għalih intnefaq, u l-ammont hekk stabbilit għandu jkun l-ogħla spiża kwalifikanti għall-istudju:
 
 Iżda l-Korporazzjoni m’għandhiex toħroġ ċertifikat ta’ kreditu ta’ taxxa dwar kors ta’ studju li jibda wara l-31 ta’ Diċembru, 2025 jew wara dik id-data li tiġi qabel kif il-Korporazzjoni jista’ jispeċifika permezz ta’ avviż fil-Gazzetta:
 

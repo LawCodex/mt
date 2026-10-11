@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) - B.Sc. (Hons) - taħt il-patroċinju tal-Fakultà tat-Teknoloġija tal-Informazzjoni u l-Komunikazzjoni (S.L. 327.451)
 
-(HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-
-
-*1*
-
-TEKNOLOĠIJA TAL-INFORMAZZJONI U L-KOMUNIKAZZJONI [L.S.327.451
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.451**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) - B.Sc. (HONS) - TAĦT IL- PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA
@@ -70,13 +64,11 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 \*Dawn ir-regolamenti ġew imħassra bl-Avviż Legali 277 tal-2022.
 
-(HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-
+## 4. Rekwiżiti speċjali għall-kors.
 
-*2*
+*Emendat: A.L. 325 tal-2013; A.L. 19 tal-2016; A.L. 154 tal-2016; A.L. 355 tal-2020; A.L. 169 tal-2022.*
 
-[L.S.327.451 TEKNOLOĠIJA TAL-INFORMAZZJONI U L-KOMUNIKAZZJONI 4. (1)\* Biex ikunu rreġistrati bħala studenti regolari fil-Kors, l-applikanti għandhom:
-
-*Rekwiżiti speċjali għall-kors. Emendat: A.L. 325 tal-2013; A.L. 19 tal-2016; A.L. 154 tal-2016; A.L. 355 tal-2020; A.L. 169 tal-2022.*
+(1)\* Biex ikunu rreġistrati bħala studenti regolari fil-Kors, l-applikanti għandhom:
 
 jew (a) jissodissfaw ir-rekwiżiti speċjali għall-kors kif imniżżla fil-paragrafi (2) sa (3) ta’ dan l-ordinament; jew (b) minn Ottubru 2023 ’il quddiem, ikollhom is-Certificate in ICT Foundation Studies minn din l-Università..
 
@@ -104,15 +96,9 @@ jew
 
 (ii) l-MCAST-BTEC Higher National Diploma (HND) f’qasam meqjus rilevanti għall-Kors mill-Bord; jew
 
-(ċ) ikollhom is-Certificate in Engineering Sciences mill- (HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-
+(ċ) ikollhom is-Certificate in Engineering Sciences mill- Università;
 
 \*Japplikaw għall-korsijiet li jibdew f’Ottubru 2023 jew wara. †Japplikaw għall-korsijiet li jibdew f’Ottubru 2022 jew wara.
-
-*3*
-
-TEKNOLOĠIJA TAL-INFORMAZZJONI U L-KOMUNIKAZZJONI [L.S.327.451
-
-Università;
 
 sakemm li l-istudenti li jkun jonqoshom grad f’wieħed biss mis-suġġetti tar-rekwiżiti speċjali tal-kors meħtieġa fil-Livell Avvanzat tal- Matrikola indikati fis-sottoparagrafu (a) tal-paragrafu (3) ta’ dan l-ordinament għandhom jitħallew jidħlu taħt dawk il-kundizzjonijiet li l- Bord jista’ jimponi biex jagħmlu tajjeb għall-element nieqes. Jekk, sal-aħħar tal-ewwel sena, dawn l-istudenti ma jissodisfawx ir-rekwiżiti kollha biex jipproċedu regolarment għat-tieni sena tal-Kors, huma jkunu meħtieġa jirtiraw mill-Kors u ma jkunux intitolati li la jieħdu sena estensjoni jew li jirrepetu s-sena u lanqas li jipproċedu kundizzjonalment kif normalment hu permess skont ir-Regolamenti Prinċipali.
 
@@ -155,12 +141,6 @@ Il-Marka Medja tal-Ewwel Sena 20%
 Il-Marka Medja tat-Tieni Sena 10%
 
 Il-Marka Medja tat-Tielet Sena 20%
-
-(HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-
-
-*4*
-
-[L.S.327.451 TEKNOLOĠIJA TAL-INFORMAZZJONI U L-KOMUNIKAZZJONI
 
 Il-Marka Medja tar-Raba’ Sena 20%
 

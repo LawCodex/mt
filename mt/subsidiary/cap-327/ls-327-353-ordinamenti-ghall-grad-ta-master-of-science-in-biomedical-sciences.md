@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Biomedical Sciences taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.353)
 
-SUBSTANCES TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDIĊINA U KIRURĠIJA [L.S.327.353
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.353**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -77,10 +71,6 @@ Jekk ikun hemm aktar applikanti eliġibbli mill-għadd ta’ postijiet disponibb
 
 (ċ) il-livell milħuq waqt l-intervista.
 
-*2*
-
-SUBSTANCES TAĦT IL-PATROĊINJU TAL-FAKULTÀ [L.S.327.353 TAL-MEDIĊINA U KIRURĠIJA
-
 ## 6. Rekwiżiti għad-dħul.
 
 (1) Il-kors huwa miftuħ għall-applikanti li għandhom:
@@ -129,13 +119,9 @@ Il-programmi ta’ studju prinċipalment bir-riċerka jikkonsistu minn taqsimiet
 
 Il-programmi ta’ studju għandhom ikunu ppubblikati mill- Bord wara l-approvazzjoni tas-Senat normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
-SUBSTANCES TAĦT IL-PATROĊINJU TAL-FAKULTÀ
+## 14. Valutazzjoni u progress.
 
-*3*
-
-TAL-MEDIĊINA U KIRURĠIJA [L.S.327.353 14. (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
-
-*Valutazzjoni u progress.*
+(1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
 (2) It-taqsimiet studju għandhom ikunu eżaminati minn Bord tal-Eżaminaturi kompost minn tliet membri akkademiċi, li jinkludi l-koordinatur tat-taqsima studju.
 
@@ -169,11 +155,7 @@ TAL-MEDIĊINA U KIRURĠIJA [L.S.327.353 14. (1) Il-valutazzjoni ta’ kull taqsi
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija fil-paragrafu (a) tkun skont id-dispożizzjonjiet tar- Regolamenti Prinċipali; u
 
-(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt SUBSTANCES TAĦT IL-PATROĊINJU TAL-FAKULTÀ [L.S.327.353 TAL-MEDIĊINA U KIRURĠIJA
-
-skont il-paragrafu (b) jekk qabel ma jkunx ta opportunità lill-istudent li jiddefendi l-każ tiegħu.
-
-*4*
+(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont il-paragrafu (b) jekk qabel ma jkunx ta opportunità lill-istudent li jiddefendi l-każ tiegħu.
 
 ## 18. Klassifikazzjoni tar-rikonoxximenti.
 

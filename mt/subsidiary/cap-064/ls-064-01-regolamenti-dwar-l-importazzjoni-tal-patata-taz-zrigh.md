@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Importazzjoni tal-Patata taż-Żrigħ"
-identifier: "S.L. 64.1"
+identifier: "S.L. 64.01"
 eli: "https://legislation.mt/eli/sl/64.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/64.1/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Importazzjoni tal-Patata taż-Żrigħ (S.L. 64.1)
+# Regolamenti dwar l-Importazzjoni tal-Patata taż-Żrigħ (S.L. 64.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 64.01**
 

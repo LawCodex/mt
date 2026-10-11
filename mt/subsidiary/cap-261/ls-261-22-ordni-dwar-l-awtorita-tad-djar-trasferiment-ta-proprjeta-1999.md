@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1999) (S.L. 261.22)
 
-*1*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.22**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -89,11 +85,7 @@ Id-disposizzjonijiet tal-partita (5) fl-A.L. 185 ta’ l-l998 qeg]din b’dan ji
 
 (13) Flat numru 9 f’Numru 178, Triq San Kristofru, Valletta (Tenement No. 62992 - H.A. 313/98).
 
-(14) Dar bin-numru 19, Triq il-}awli, Fuq Tal-}awli, (TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
-Vittoriosa (Tenement No. 69603 - H.A. 319/98).
-
-*3*
+(14) Dar bin-numru 19, Triq il-}awli, Fuq Tal-}awli, Vittoriosa (Tenement No. 69603 - H.A. 319/98).
 
 (15) Flat numru 6, Blokk 1, Bieb A, Qasam tal-Bini tal- Gvern fi Triq ir-Ramija, Si[[iewi (Tenement No. 68698 - H.A. 422/96).
 
@@ -163,10 +155,6 @@ Dawn il-garages flimkien ma’ oqsma ta’ ]amrija u spazji miftu]a, li huma ink
 
 (11 Dar bin-numru 7, Triq Xemxija, Marsa (Tenement No. 72240 - H.A. 178/97).
 
-*5*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
 (12) Flat numru 3, Entratura H, Binja }esri, Triq Dun Anton Vella, Si[[iewi (Tenement No. 77224 - H.A. 153/98).
 
 (13) Flat numru 6, Blokk 1, Bieb A, Triq Tal-Mit]na, Qasam tal-Mit]na, Gudja (Tenement No. 70005 - H.A. 163/98).
@@ -221,11 +209,7 @@ LRA No. 556/97).
 
 (9) Bi``iet art li g]andhom it-Titolu fir-Re[istru ta’ l- Artijiet Nru. 5500 0518 u ta’ kejl totali ta’ madwar 1180 metru kwadru mag]rufa b]ala Plots 1, 2 San Pawl Milqi, Burmarrad (Prog. No. 6033; JO No. A4931/97; LRA No. 522/97).
 
-(10) Bi``iet art li g]andhom it-Titolu fir-Re[istru ta’ l- Artijiet Nri. 1700 0038 u 1700 0039 u ta’ kejl totali ta’ (TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
-madwar 475 metru kwadru mag]rufa b]ala Plots 4, 5 u 6 Tat-Tomol, Fgura (Prog. No. 41043; JO No. A2816/ 97; LRA No. 601/97).
-
-*7*
+(10) Bi``iet art li g]andhom it-Titolu fir-Re[istru ta’ l- Artijiet Nri. 1700 0038 u 1700 0039 u ta’ kejl totali ta’ madwar 475 metru kwadru mag]rufa b]ala Plots 4, 5 u 6 Tat-Tomol, Fgura (Prog. No. 41043; JO No. A2816/ 97; LRA No. 601/97).
 
 (11) Bi``iet art li g]andhom it-Titolu fir-Re[istru ta’ l- Artijiet Nri. 1420 1101 u 1420 1083 u ta’ kejl totali ta’ madwar 440 metru kwadru mag]rufa b]ala Plots 5, 6 Ta’ Calleja/Tal-Merill, Imrie]el (Prog. No. 6026; JO No. A4918/97; LRA No. 505/97).
 
@@ -273,11 +257,7 @@ LRA No. 662/97).
 
 LRA No.587/97).
 
-(30) Bi``iet art li g]andhom t-Titolu fir-Re[istru ta’ l- Artijiet Nri. 5500 0531, 5500 0532 u 5500 0533 u ta’ kejl totali ta’ madwar 1650 metru kwadru mag]rufa (TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
-b]ala Plots 1-5, 8 Tal-Qortin, Qawra (Prog. No. 5743;
-
-*9*
+(30) Bi``iet art li g]andhom t-Titolu fir-Re[istru ta’ l- Artijiet Nri. 5500 0531, 5500 0532 u 5500 0533 u ta’ kejl totali ta’ madwar 1650 metru kwadru mag]rufa b]ala Plots 1-5, 8 Tal-Qortin, Qawra (Prog. No. 5743;
 
 JO No. A4831/97; LRA No. 589/97).
 
@@ -318,10 +298,6 @@ LRA No. 518/97).
 (50) Bi``iet art li g]andhom t-Titolu fir-Re[istru ta’ l- Artijiet Nri. 6200 0043, 6200 0044 u 6200 0045 u ta’ kejl totali ta’ madwar 1200 metru kwadru mag]rufa b]ala Plots 31 - 36 Tal-Qala, Tarxien (Prog. No. 28776; JO No. A 4763/97; LRA No. 543/97).
 
 (51) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 0800 0032 u ta’ kejl totali ta’ madwar 245 metru kwadru mag]rufa b]ala Plot 1 Tal-Fekrun, |abbar (Prog. No. 28781; JO No. A 4911/97; LRA No. 570/ 97).
-
-*11*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
 
 (52) (M]assar bl-A.L. 389 tal-2016).
 
@@ -373,11 +349,7 @@ JO No. A 4879/97; LRA No. 495/97).
 
 (70) }wienet mhux uffi`jalment enumerati 1 sa 5 sottostanti f parti lill-Binja l-Isperanza, li lkoll huma esternament a``essibbli minn Triq il-Veneranda Adeodata Pisani f’Ta\\-|okrija, Mosta. Il-]wienet kollha huma sottostanti g]al grupp ta’ flats b’entratura komuni D li [ew trasferiti lill-Awtorità tad-Djar permezz tal-partita (3) ta’ l-Avvi\\ Legali 6 ta’ l-1994 pubblikat fil-21 ta’ Jannar, 1994, u lkoll flimkien imissu mill-Grigal mal-proprjetà trasferita msemmija u ma’ Triq il-Veneranda Adeodata Pisani, mill-Majistral mal-proprjetà trasferita msemmija u ma’ triq, u mix- Xlokk mal-proprjetà trasferita msemmija. Il-blokk kollu mag]ruf b]ala Binja l-Isperanza jmiss mill- Grigal ma’ Triq il-Veneranda Adeodata Pisani, mix- Xlokk ma’ triq, u mil-Lbi` ma’ Triq Monsinjur Edgar Salomone. Il-]wienet jinsabu delineati bl-a]dar fuq L.D. 52/87/3. (HAM 9/90).
 
-(71) Flat numru 1, Blokk I, Bieb B, Triq Ramija, Qasam tal-Bini tal-Gvern, Si[[iewi (Tenement No. 68701 - (TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
-H.A. 406/96).
-
-*13*
+(71) Flat numru 1, Blokk I, Bieb B, Triq Ramija, Qasam tal-Bini tal-Gvern, Si[[iewi (Tenement No. 68701 - H.A. 406/96).
 
 (72) Flat numru 3, Blokk A2, Triq il-Watar, Ta’ Xbiex (Tenement No. 70547 - H.A. 574/98).
 
@@ -422,10 +394,6 @@ markata C fuq L.D. 89/86/7. (HAM 80/81).
 (15) Flat numru 2, Blokk J, Qasam tad-Djar tal-Gvern, Triq il-{i\\imina, |abbar (Tenement No. 72338 - H.A. 366/ 97).
 
 (16) Dar bin-numru 13, Triq Mons. Mikiel Azzopardi, Si[[iewi (Tenement No. 70722 - H.A. 255/98).
-
-*15*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
 
 (17) Bi``a art tal-kejl ta’ madwar 1709.35 metru kwadru li tag]mel parti mill-Qasam tad-Djar tal-Gvern ta’ Kir`ippu, limiti tas-Si[[iewi, u li tmiss mill-Grigal ma’ Triq Nirien, mix-Xlokk ma’ Triq Nirien, u mil- Lbi` ma’ Triq Karmenu Vassallo. Dik il-bi``a art tinsab delineata bl-a]dar fuq L.D. 52/89/3. (HAM 205/ 81).
 
@@ -493,11 +461,7 @@ Gudja (Tenement No. 70000 - H.A. 597/96).
 
 (HAM 104/88).
 
-(23) Flat numru 2, Bieb B, Blokk B1, Triq G. Grech (TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
-Delicata, Ta’ Paris, Birkirkara (Tenement No.72763 - H.A. 330/98).
-
-*17*
+(23) Flat numru 2, Bieb B, Blokk B1, Triq G. Grech Delicata, Ta’ Paris, Birkirkara (Tenement No.72763 - H.A. 330/98).
 
 (24) Flat numru 3, Blokk C 1, Qasam tal-Bini tal-Gvern, Fgura (Tenement No. 73518 - H.A. 193/97).
 
@@ -557,10 +521,6 @@ madwar 340 metru kwadru mag]rufa b]ala Plot 16 Ta’ L-Imqass, Attard (JO No. A 
 
 (13) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 5500 0518 u ta’ kejl totali ta’ madwar 210 metru kwadru mag]rufa b]ala Plot 25 San Pawl Milqi, Burmarrad (JO No. A 4931/97; LRA No. 522/97).
 
-*19*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
 (14) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 5500 0518 u ta’ kejl totali ta’ madwar 220 metru kwadru mag]rufa b]ala Plot 26 San Pawl Milqi, Burmarrad (JO No. A 4931/97; LRA No. 522/97).
 
 (15) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 5500 0518 u ta’ kejl totali ta’ madwar 220 metru kwadru mag]rufa b]ala Plot 27 San Pawl Milqi, Burmarrad (JO No. A 4931/97; LRA No. 522/97).
@@ -609,11 +569,7 @@ LRA No. 2342/98).
 
 (33) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6200 0005 u 6200 0006 u ta’ kejl totali ta’ madwar 180 metru kwadru mag]rufa b]ala Plot 1 Tal- Qala, Tarxien (JO No. A 4763/97; LRA No. 547/97). (34) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6200 0041 u 6200 0042 u ta’ kejl totali ta’ madwar 125 metru kwadru mag]rufa b]ala Plot 5 Tal- Qala, Tarxien (JO No. A 4763/97; LRA No. 548/97). (35) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6200 0034 u 6200 0035 u ta’ kejl totali ta’ madwar 170 metru kwadru mag]rufa b]ala Plot 8 Tal- Qala, Tarxien (JO No. A 4763/97; LRA No. 549/97). (36) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6200 0046 u ta’ kejl totali ta’ madwar 380 metru kwadru mag]rufa b]ala Plot 10 Tal-Qala, Tarxien (JO No. A 4763/97; LRA No. 550/97).
 
-(37) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6200 0022 u 6200 0023 u ta’ kejl totali ta’ madwar 235 metru kwadru mag]rufa b]ala Plot 11 (TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
-Tal-Qala, Tarxien (JO No. A 4763/97; LRA No. 552/ 97).
-
-*21*
+(37) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6200 0022 u 6200 0023 u ta’ kejl totali ta’ madwar 235 metru kwadru mag]rufa b]ala Plot 11 Tal-Qala, Tarxien (JO No. A 4763/97; LRA No. 552/ 97).
 
 (38) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6200 0021 u 6200 0020 u ta’ kejl totali ta’ madwar 340 metru kwadru mag]rufa b]ala Plot 17 Tal-Qala, Tarxien (JO No. A 4763/97; LRA No. 545/ 97).
 
@@ -659,11 +615,7 @@ madwar 175 metru kwadru mag]rufa b]ala Plot 15 }al Mula, |ebbug, Malta (JO No. A
 
 (57) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 0700 2575 sa 0700 2586 u ta’ kejl totali ta’ madwar 170 metru kwadru mag]rufa b]ala Plot 28 }al Mula, |ebbug, Malta (JO No. A 4985/97; LRA No. 259/98).
 
-(58) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 0700 2575 sa 0700 2586 u ta’ kejl totali ta’ (TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
-madwar 340 metru kwadru mag]rufa b]ala Plot 29 }al Mula, |ebbug, Malta (JO No. A 4986/97; LRA No. 259/98).
-
-*23*
+(58) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 0700 2575 sa 0700 2586 u ta’ kejl totali ta’ madwar 340 metru kwadru mag]rufa b]ala Plot 29 }al Mula, |ebbug, Malta (JO No. A 4986/97; LRA No. 259/98).
 
 (59) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6700 0332 u 6700 0331 u ta’ kejl totali ta’ madwar 205 metru kwadru mag]rufa b]ala Plot 2 Ta’ Xaqqa, |urrieq (JO No. A 4917/97; LRA No. 513/97). (60) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6700 0332 u 6700 0331 u ta’ kejl totali ta’ madwar 145 metru kwadru mag]rufa b]ala Plot 3 Ta’ Xaqqa, |urrieq (JO No. A 4917/97; LRA No. 513/97). (61) Bi``a art li g]andha t-Titolu fir-Re[istru ta’ l-Artijiet Nru. 6700 0327 u ta’ kejl totali ta’ madwar 195 metru kwadru mag]rufa b]ala Plot 4 Ta’ Xaqqa, |urrieq (JO No. A 4826/97; LRA No. 414/97).
 
@@ -714,10 +666,6 @@ llum hemm mibni l-fond numru 12, mag]ruf b]ala "Peridot", Triq il-Kapu``ini kant
 *\7.*
 
 (1) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern Tal-Far, Triq il-Kunsill ~iviku, limiti tar-Rabat (Victoria), G]awdex, kif hawn aktar ’il quddiem indikat -
-
-*25*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
 
 (a) Bi``a art tal-kejl ta’ madwar 926.5 metru kwadru mag]rufa b]ala Plot A, li tmiss mit- Tramuntana ma’ proprjetà tal-Gvern, min-Nofs-in-Nhar ma’ triq pubblika, u mil-Lvant ma’ Triq il-Kunsill ~iviku, u li tinsab delineata bl-a]dar u markata A fuq L.D. 36/99/1;
 
@@ -779,11 +727,7 @@ llum hemm mibni l-fond numru 12, mag]ruf b]ala "Peridot", Triq il-Kapu``ini kant
 
 B’se]] mill-1 ta’ Settembru, 1999:
 
-(1) Bi``a art tal-kejl ta’ madwar 386.81 metru kwadru, (TRASFERIMENT TA’ PROPRJETÀ) (1999) [L.S.261.22
-
-mag]rufa b]ala Plot Nru. 55 fi Triq R. Caruana Dingli u li tag]mel parti mill-Qasam tal-Bini tal-Gvern, San {wann Neighbourhood II, limiti ta’ San {wann, li tmiss mill-Majistral ma’ Triq R. Caruana Dingli, mil- Lbi` ma’ proprjetà ta’ Joseph Portanier et u mill- Grigal ma’ proprjetà ta’ Carmel Ellul, li fuqha hemm mibni l-fond bin-numru 55, mag]ruf b]ala "Risq", Triq R. Caruana Dingli, San {wann u tinsab delineata bl-a]mar u markata P. 55 fuq L.D. 128/80/23. (HAP 612/96).
-
-*27*
+(1) Bi``a art tal-kejl ta’ madwar 386.81 metru kwadru, mag]rufa b]ala Plot Nru. 55 fi Triq R. Caruana Dingli u li tag]mel parti mill-Qasam tal-Bini tal-Gvern, San {wann Neighbourhood II, limiti ta’ San {wann, li tmiss mill-Majistral ma’ Triq R. Caruana Dingli, mil- Lbi` ma’ proprjetà ta’ Joseph Portanier et u mill- Grigal ma’ proprjetà ta’ Carmel Ellul, li fuqha hemm mibni l-fond bin-numru 55, mag]ruf b]ala "Risq", Triq R. Caruana Dingli, San {wann u tinsab delineata bl-a]mar u markata P. 55 fuq L.D. 128/80/23. (HAP 612/96).
 
 (2) Bi``a art tal-kejl ta’ madwar 1,756 metru kwadru, li tag]mel parti mill-Qasam tal-Bini tal-Gvern fl- Imtarfa, limiti tar-Rabat, Malta, li tmiss mill-Punent ma’ triq pubblika, mix-Xlokk ma’ triq pubblika, u mil- Lvant ma’ proprjetà tal-Gvern, u li tinsab delineata bl-a]mar fuq L.D. 124/99. (HAM 174/82).
 

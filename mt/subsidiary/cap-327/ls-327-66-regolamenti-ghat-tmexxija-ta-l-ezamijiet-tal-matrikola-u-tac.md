@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti għat-Tmexxija ta' l-Eżamijiet tal-Matrikola u taċ-Ċertifikat ta' l-Edukazzjoni Sekondarja (S.L. 327.66)
 
-*1*
-
-GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA [L.S.327.66
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.66**
 
 **REGOLAMENTI DWAR IT-TMEXXIJA**
@@ -68,11 +64,9 @@ Il-kompożizzjoni ta’ kull panel għandha tkun kif ġej:
 
 (a) Fil-każ tal-Eżami għaċ-Ċertifikat tal-Edukazzjoni Sekondarja:
 
-(i) il-Panel tas-Sillabu għandu jkun magħmul minn rappreżentanti tal-istaff akkademiku tal- Università, mid-Direttorat kompetenti tal- Ministeru responsabbli għall-Edukazzjoni, mill- Kulleġġ Malti tal-Arti, ix-Xjenza u t- Teknoloġija (MCAST), mill-Istitut għall-Istudji [L.S.327.66 GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA Turistiċi (ITS), mill-Assoċjazzjoni tal-Iskejjel tal-Knisja u mill-Assoċjazzjoni tal-Iskejjel Privati, kif xieraq;
+(i) il-Panel tas-Sillabu għandu jkun magħmul minn rappreżentanti tal-istaff akkademiku tal- Università, mid-Direttorat kompetenti tal- Ministeru responsabbli għall-Edukazzjoni, mill- Kulleġġ Malti tal-Arti, ix-Xjenza u t- Teknoloġija (MCAST), mill-Istitut għall-Istudji Turistiċi (ITS), mill-Assoċjazzjoni tal-Iskejjel tal-Knisja u mill-Assoċjazzjoni tal-Iskejjel Privati, kif xieraq;
 
 (ii) in-numru tal-istaff akkademiku tal-Università m’għandux jeċċedi, sakemm hu possibbli, nofs in-numru totali tal-membri tal-panels; u
-
-*2*
 
 (iii) in-numru tal-Panels tas-Sillabu mmexxija minn membri tal-istaff akkademiku tal-Università m’għandux jeċċedi nofs in-numru tal-panels. (b) Fil-każ tal-Eżami tal-Matrikola, il-Panel tas-Sillabu għas-suġġetti fil-Livell Avvanzat u f’dak Intermedju għandu jkun magħmul minn rappreżentanti tal-istaff akkademiku tal-Università, tal-Junior College G.F Abela, tad-Direttorat kompetenti tal-Ministeru responsabbli għall-Edukazzjoni, tal-Assoċċazzjoni tal-Iskejjel tal-Knisja u tal- Assoċċazzjoni tal-Iskejjel Indipendenti. Il-President tal- Panel tas-Sillabu għandu jkun magħżul mill-Bord tal- MATSEC wara konsultazzjoni mal-kap tad-Dipartiment tal-Università ta’ Malta fejn is-suġġett huma mgħallem, kif applikabbli.
 
@@ -90,11 +84,7 @@ Il-kompożizzjoni ta’ kull panel għandha tkun kif ġej:
 
 (2) Il-Panels tal-Paper Setters:
 
-(a) Il-Panel tal-Paper Setters għandu jkun responsabbli għall-preparazzjoni tal-karti tal-eżamijiet, għall-iskema tal-marki tas-suġġett, u għad-dokumentazzjoni oħra kif meħtieġ mill-Bord tal-MATSEC, għal kull sessjoni tal-eżamijiet. Il-karti tal-eżamijiet għandhom jissodisfaw il-ħtiġiet u l-għanijiet tal-valutazzjoni u għandhom ikopru l-kontenut tas-suġġett speċifikat fis-sillabu. Il-karti tal-eżamijiet għandhom ikunu sottomessi lill-MATSEC għall-istampar sa mhux aktar GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA [L.S.327.66
-
-tard mid-data stabbilita mill-Bord tal-MATSEC.
-
-*3*
+(a) Il-Panel tal-Paper Setters għandu jkun responsabbli għall-preparazzjoni tal-karti tal-eżamijiet, għall-iskema tal-marki tas-suġġett, u għad-dokumentazzjoni oħra kif meħtieġ mill-Bord tal-MATSEC, għal kull sessjoni tal-eżamijiet. Il-karti tal-eżamijiet għandhom jissodisfaw il-ħtiġiet u l-għanijiet tal-valutazzjoni u għandhom ikopru l-kontenut tas-suġġett speċifikat fis-sillabu. Il-karti tal-eżamijiet għandhom ikunu sottomessi lill-MATSEC għall-istampar sa mhux aktar tard mid-data stabbilita mill-Bord tal-MATSEC.
 
 *L.S. 327.55*
 
@@ -120,11 +110,7 @@ tard mid-data stabbilita mill-Bord tal-MATSEC.
 
 (ċ) kienu, f’xi żmien matul it-tnax-il xahar qabel l-eżami kkonċernat, taw xi lezzjonijiet privati fis-suġġett u fil-livell tal-eżami jew f’suġġett li hu qrib tiegħu.
 
-(3) Il-membri tal-Panels tal-Paper Setters u tal-Markers ma jkunux eliġibbli biex jipparteċipaw f’dawn il-Panels jekk ikunu f’relazzjoni doppja ma’ kandidat li jkun se jagħmel xi eżami li huma nvoluti fih. Relazzjoni doppja tfisser li membru ta’ wieħed [L.S.327.66 GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA
-
-minn dawn il-Panels ikun fl-istess waqt f’relazzjoni ma’ kandidat jew ma’ persuna li hija assoċjata mill-qrib mal-kandidat, jew ikun qarib ta’ xi kandidat li ser jagħmel l-eżami.
-
-*4*
+(3) Il-membri tal-Panels tal-Paper Setters u tal-Markers ma jkunux eliġibbli biex jipparteċipaw f’dawn il-Panels jekk ikunu f’relazzjoni doppja ma’ kandidat li jkun se jagħmel xi eżami li huma nvoluti fih. Relazzjoni doppja tfisser li membru ta’ wieħed minn dawn il-Panels ikun fl-istess waqt f’relazzjoni ma’ kandidat jew ma’ persuna li hija assoċjata mill-qrib mal-kandidat, jew ikun qarib ta’ xi kandidat li ser jagħmel l-eżami.
 
 (4) (a) Il-Membri tal-Panels tal-Paper Setters u tal-Markers ikunu jridu jiddikjaraw li huma m’humiex skwalifikati milli jieħdu sehem fix-xogħol tal-panels taħt xi waħda mid-dispożizzjonijiet imsemmija qabel f ’dan ir-regolament.
 
@@ -150,11 +136,7 @@ minn dawn il-Panels ikun fl-istess waqt f’relazzjoni ma’ kandidat jew ma’ 
 
 (a) Il-Panels tal-Paper Setters u tal-Markers għandhom jiddeterminaw il-proċeduri li għandhom jadattaw fi ħdan il-linji gwida u l-parametri stabbiliti mill-Bord tal-MATSEC.
 
-(b) Il-Membri tal-Panels tal-Paper Setters u tal-Markers għandhom iqisu bħala kunfidenzjali kull ħaġa marbuta ma’ dawn il-proċedimenti. Huma għandhom jieħdu l-prekawżjonijiet kollha meħtieġa biex jevitaw tixrid ta’ GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA [L.S.327.66
-
-informazzjoni dwar il-karti tal-mistoqsijiet, l-iskemi tal-marki u l-iskritti tal-eżami lil terzi persuni.
-
-*5*
+(b) Il-Membri tal-Panels tal-Paper Setters u tal-Markers għandhom iqisu bħala kunfidenzjali kull ħaġa marbuta ma’ dawn il-proċedimenti. Huma għandhom jieħdu l-prekawżjonijiet kollha meħtieġa biex jevitaw tixrid ta’ informazzjoni dwar il-karti tal-mistoqsijiet, l-iskemi tal-marki u l-iskritti tal-eżami lil terzi persuni.
 
 (ċ) Il-Membri tal-Panel tal-Markers li qegħdin jikkoreġu l-istess parti tal-eżami jkunu meħtieġa jattendu Laqgħa ta’ Standardizzazzjoni biex tiżgura l-armonizzazzjoni u l-konsistenza fl-immarkar. Iċ-Chairperson għandu jsejjaħ din il-laqgħa ftit wara li jkun sar l-eżami u qabel ma jibda l-immarkar.
 
@@ -175,10 +157,6 @@ Il-valutazzjoni tas-suġġetti mmarkati b'asterisk fir- Regolamenti tal-2014 tal
 (ċ) Il-Verifikaturi Interni, maħtura mill-iskejjel responsabbli għall-istudenti li qegħdin jieħdu s-suġġett, għandhom jivverifikaw li x-xogħol ippreparat mill-għalliema jilħaq il-livelli meħtieġa u li d-deċiżjonijiet tagħhom dwar il-valutazzjoni huma ġusti u konsistenti. Il-Verifikatur Estern għandu jsegwi u jirrapporta dwar il-verifika interna.
 
 (d) Il-Verifikatur Estern għandu jmexxi lill-Panels tal- Paper Setters u tal-Markers għal dawn is-suġġetti. Dawn il-Panels għandhom ikunu responsabbli għall-preparazzjoni tal-valutazzjonijiet kkontrollati u għall-preparazzjoni u għall-immarkar tat-testijiet sinottiċi għal kull Taqsima kif speċifikat fis-sillabu.
-
-*6*
-
-[L.S.327.66 GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA
 
 (e) Il-Verifikatur Estern għandu jimmodera r-riżultati tal-valutazzjonijiet ikkontrollati u tat-testijiet sinottiċi.
 
@@ -210,11 +188,11 @@ Il-membri tal-panels tas-suġġetti huma intitolati għal ħlas, kif stabbilit m
 
 (d) f’kull każ fejn tintalab reviżjoni tar-riżultati, ir- Reviżur irid jikteb rapport qasir, li kopja tiegħu tintbagħat lill-kandidat ikkonċernat.
 
-*7*
+## 11. Kumitat tad- Dixxiplina. Enumerat mill-ġdid: A.L. 160 tal-2015.
 
-GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA [L.S.327.66 11. (1) Każijiet ta’ qerq, attentat ta’ qerq, attentat biex jittieħed vantaġġ inġust waqt eżami b’xi mod ieħor, l-introduzzjoni ta’ materjal mhux awtorizzat fil-kamra tal-eżami u każijiet irrappurtati ta’ kondotta ħażina għandhom ikunu investigati minn Kumitat tad-Dixxiplina maħtur mis-Senat.
+*Sostitwit: A.L. 85 tal-2017.*
 
-*Kumitat tad- Dixxiplina. Enumerat mill-ġdid: A.L. 160 tal-2015. Sostitwit: A.L. 85 tal-2017.*
+(1) Każijiet ta’ qerq, attentat ta’ qerq, attentat biex jittieħed vantaġġ inġust waqt eżami b’xi mod ieħor, l-introduzzjoni ta’ materjal mhux awtorizzat fil-kamra tal-eżami u każijiet irrappurtati ta’ kondotta ħażina għandhom ikunu investigati minn Kumitat tad-Dixxiplina maħtur mis-Senat.
 
 *Emendat: A.L|. 386 tal-2021; A.L. 325 tal-2022.*
 
@@ -244,11 +222,7 @@ GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA [L.S.327.66 11. (1) Każijiet ta�
 
 (i) jadotta kwalunkwe taħlita tal-pieni definiti hawn fuq. (6) Minuti tal-laqgħat kollha li jsiru mill-Kumitat tad- Dixxiplina u tal-pieni li jingħataw bħala riżultat ta’ dawn il-laqgħat għandhom jinżammu mill-Bord tal-MATSEC.
 
-(7) Kull kandidat li l-kondotta tiegħu waqt xi eżami tkun qed tiġi nvestigata għandu jkun infurmat bil-miktub dwar in-natura tal- [L.S.327.66 GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA
-
-allegazzjoni u għandu jkun mistieden biex jattendi għall-laqgħa tal- Kumitat tad-Dixxiplina meta l-każ tiegħu/tagħha jkun se jiġi diskuss. F’każijiet fejn il-kandidati huma minuri, il-ġenituri/ gwardjani tagħhom għandhom ikunu nfurmati wkoll. Il-kandidat jista’ jkun akkumpanjat minn rappreżentat tal-għażla tiegħu. Jekk il-kandidat ikun akkumpanjat minn konsulent legali, ir-rwol tal-konsulent legali għandu jkun li jipprovdi appoġġ lill-kandidat u mhux rappreżentazzjoni legali. Il-kandidat għandu jkun responsabbli għall-arranġamenti kollha tal-konsulent legali. F’dan il-każ, il-partijiet l-oħra għandhom ikunu nfurmati minn qabel.
-
-*8*
+(7) Kull kandidat li l-kondotta tiegħu waqt xi eżami tkun qed tiġi nvestigata għandu jkun infurmat bil-miktub dwar in-natura tal-allegazzjoni u għandu jkun mistieden biex jattendi għall-laqgħa tal- Kumitat tad-Dixxiplina meta l-każ tiegħu/tagħha jkun se jiġi diskuss. F’każijiet fejn il-kandidati huma minuri, il-ġenituri/ gwardjani tagħhom għandhom ikunu nfurmati wkoll. Il-kandidat jista’ jkun akkumpanjat minn rappreżentat tal-għażla tiegħu. Jekk il-kandidat ikun akkumpanjat minn konsulent legali, ir-rwol tal-konsulent legali għandu jkun li jipprovdi appoġġ lill-kandidat u mhux rappreżentazzjoni legali. Il-kandidat għandu jkun responsabbli għall-arranġamenti kollha tal-konsulent legali. F’dan il-każ, il-partijiet l-oħra għandhom ikunu nfurmati minn qabel.
 
 (8) Il-Kumitat tad-Dixxiplina għandu s-saħħa li jressaq persuni bil-għan li jagħtu xhieda fi kwalunkwe seduta.
 
@@ -271,9 +245,5 @@ allegazzjoni u għandu jkun mistieden biex jattendi għall-laqgħa tal- Kumitat 
 *Emendat: A.L|. 386 tal-2021.*
 
 (1) Il-kandidati għandhom jiġbru x-xogħol tagħhom (proġetti, rapporti u xogħol ieħor) li jkun ġie ppreżentat għal valutazzjoni mill-MATSEC skont l-istruzzjonijiet mogħtija mill- Unit. Skritti bil-miktub u xogħol prattiku li jsiru fi ħdan l-eżami formali jinżammu mill-Bord tal-MATSEC.
-
-*9*
-
-GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA [L.S.327.66
 
 (2) Il-MATSEC jirriserva d-dritt biex jiddisponi kif iqis xieraq minn xogħol li ma jiġix miġbur.

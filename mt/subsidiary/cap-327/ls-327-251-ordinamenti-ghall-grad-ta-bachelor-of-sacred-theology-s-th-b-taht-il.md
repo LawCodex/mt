@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Bachelor of Sacred Theology - S.TH.B. - taħt il-Patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.251)
 
-S.TH.B. - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAT-TEOLOĠIJA [S.L.327.251
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.251**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SACRED THEOLOGY - S.TH.B. - TAĦT
@@ -59,15 +53,9 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 ## 4. Rekwiżiti għad-dħul.
 
-Biex ikunu rreġistrati bħala studenti regolari fil-kors, l- S.TH.B. - TAĦT IL-PATROĊINJU
+Biex ikunu rreġistrati bħala studenti regolari fil-kors, l-applikanti għandhom jissodisfaw ir-rekwiżiti ġenerali għad-dħul bħala studenti regolari skond id-disposizzjonijiet tar-Regolamenti għad-Dħul ta’ l-Università ta’ Malta.
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
-
-*2*
-
-[S.L.327.251 TAL-FAKULTÀ TAT-TEOLOĠIJA
-
-applikanti għandhom jissodisfaw ir-rekwiżiti ġenerali għad-dħul bħala studenti regolari skond id-disposizzjonijiet tar-Regolamenti għad-Dħul ta’ l-Università ta’ Malta.
 
 ## 5. Tul tal-kors.
 

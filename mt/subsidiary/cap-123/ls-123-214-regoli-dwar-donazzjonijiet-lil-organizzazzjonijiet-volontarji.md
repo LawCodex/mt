@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Donazzjonijiet lil Organizzazzjonijiet Volontarji (S.L. 123.214)
 
-*1*
-
-ORGANIZZAZZJONIJIET VOLONTARJI [L.S.123.214 LEĠISLAZZJONI SUSSIDJARJA 123.214
+**LEĠISLAZZJONI SUSSIDJARJA 123.214**
 
 **REGOLI DWAR DONAZZJONIJIET LIL**
 
@@ -62,11 +60,7 @@ Kumpanija li għandha intenzjoni li titlob kreditu ta’ taxxa kif provdut f’d
 
 (2) Il-lista għandha tindika, fir-rigward ta’ kull donazzjoni:
 
-(a) l-isem tal-kumpanija li tkun għamlet id- [L.S. 123.214 ORGANIZZAZZJONIJIET VOLONTARJI
-
-donazzjoni u n-numru tar-reġistrazzjoni tat-taxxa tagħha;
-
-*2*
+(a) l-isem tal-kumpanija li tkun għamlet id-donazzjoni u n-numru tar-reġistrazzjoni tat-taxxa tagħha;
 
 (b) l-ammont u d-data tad-donazzjoni; u
 

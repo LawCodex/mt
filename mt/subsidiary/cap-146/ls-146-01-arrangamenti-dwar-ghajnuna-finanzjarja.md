@@ -1,6 +1,6 @@
 ---
 title: "Arranġamenti dwar Għajnuna Finanzjarja"
-identifier: "S.L. 146.1"
+identifier: "S.L. 146.01"
 eli: "https://legislation.mt/eli/sl/146.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/146.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Arranġamenti dwar Għajnuna Finanzjarja (S.L. 146.1)
+# Arranġamenti dwar Għajnuna Finanzjarja (S.L. 146.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 146.01**
 

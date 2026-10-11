@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għas-Certificate in Islands and Small States Studies taħt il-patroċinju ta' l-Institute for Islands and Small States - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.278)
 
-CERTIFICATE IN ISLANDS AND SMALL STATES
-
-STUDIES TAĦT IL-PATROĊINJU TA’
-
-*1*
-
-L-INSTITUTE FOR ISLANDS AND SMALL STATES [S.L.327.278
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.278**
 
 ORDINAMENTI GĦAS-CERTIFICATE IN ISLANDS AND SMALL STATES STUDIES TAĦT

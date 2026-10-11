@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Istitut Internazzjonali għall-Istudji fil-Barokk (S.L. 327.230)
 
-TAĦT IL-PATROêINJU TAL-ISTITUT
-
-*1*
-
-INTERNAZZJONALI GĦALL-ISTUDJI FIL-BAROKK [S.L.327.230
-
 **LEĀISLAZZJONI SUSSIDJARJA 327.230**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR**
@@ -71,13 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw minn Ottubru 2010 ’il quddiem.
 
 ## 4. Formola tal-applikazzjoni.
 
-L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni, flimkien ma’ proposta ta’ riëerka komprensiva li tiddeskrivi l-proāett propost, inkluŜ is-sorsi u l-materjali tar- TAĦT IL-PATROêINJU TAL-ISTITUT
-
-*2*
-
-[L.S.327.230 INTERNAZZJONALI GĦALL-ISTUDJI FIL-BAROKK
-
-riëerka, fi kwalunkwe Ŝmien tas-sena.
+L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni, flimkien ma’ proposta ta’ riëerka komprensiva li tiddeskrivi l-proāett propost, inkluŜ is-sorsi u l-materjali tar-riëerka, fi kwalunkwe Ŝmien tas-sena.
 
 ## 5. Kumitat tal-Istitut għad-Dottorat.
 
@@ -122,11 +110,5 @@ L-istudenti jkunu meħtieāa jiddefendu t-teŜi tagħhom b’mod orali. Huma jku
 ## 13. Kopji tat-teŜi.
 
 (1) L-istudenti jkunu meħtieāa jissottomettu kopja mingħajr legatura tat-teŜi tagħhom għal kull membru tal-Bord tal- EŜaminaturi, skont il-format indikat fil-linji gwida ppubblikati, flimkien ma’ kopja f ’format diāitali. L-uffiëjal inkarigat mill- Istitut għandu joħroā riëevuta datata.
-
-TAĦT IL-PATROêINJU TAL-ISTITUT
-
-*3*
-
-INTERNAZZJONALI GĦALL-ISTUDJI FIL-BAROKK [S.L.327.230
 
 (2) Meta jtemmu b’suëëess l-istudji tagħhom, l-istudenti g ħ andhom jissottomettu lill-Istitut, sa sitt ā img ħ at mill-pubblikazzjoni tar-riŜultat, tliet kopji tat-teŜi b’legatura ħoxna flimkien ma’ kopja f’format diāitali. Kopja waħda tat-teŜi għandha tinŜamm fil-Librerija tal-Istitut u kopja oħra fil-Librerija tal- Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

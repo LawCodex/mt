@@ -1,6 +1,6 @@
 ---
 title: "Avviż dwar il-Lista ta' Postijiet fejn Ħamrija Għammiela tista' tiġi depositata"
-identifier: "S.L. 236.1"
+identifier: "S.L. 236.01"
 eli: "https://legislation.mt/eli/sl/236.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/236.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Avviż dwar il-Lista ta' Postijiet fejn Ħamrija Għammiela tista' tiġi depositata (S.L. 236.1)
-
-G}AMMIELA TISTA’ TI{I DEPOSITATA [ L.S.236.01
+# Avviż dwar il-Lista ta' Postijiet fejn Ħamrija Għammiela tista' tiġi depositata (S.L. 236.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 236.01**
 

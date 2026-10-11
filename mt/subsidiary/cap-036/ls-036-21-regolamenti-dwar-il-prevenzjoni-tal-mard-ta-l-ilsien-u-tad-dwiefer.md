@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Prevenzjoni tal-Mard ta' l-Ilsien u tad-Dwiefer (S.L. 36.21)
 
-PREVENZJONI TAL-MARD TA’
-
-L-ILSIEN U TAD-DWIEFER [ L.S.36.21
-
 **LE{ISLAZZJONI SUSSIDJARJA 36.21**
 
 **REGOLAMENTI DWAR IL-PREVENZJONI**

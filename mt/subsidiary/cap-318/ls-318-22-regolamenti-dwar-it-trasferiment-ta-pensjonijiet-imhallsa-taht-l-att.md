@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar it-Trasferiment ta’ Pensjonijiet imħallsa taħt l-Att dwar is-Sigurtà Soċjali (S.L. 318.22)
 
-*1*
-
-TAĦT L-ATT DWAR IS-SIGURTÀ SOêJALI [ L.S.318.22
-
 **LEĀISLAZZJONI SUSSIDJARJA 318.22**
 
 **REGOLAMENTI DWAR IT-TRASFERIMENT**
@@ -67,10 +63,6 @@ L-AVVIś LEGALI 17 tal-2012, kif emendat bl-AvviŜ Legali 61 tal-2013.
 
 "id-Direttur" għandu jkollha l-istess tifsir mogħti lilha bl-artikolu 2 tal-Att;
 
-*2*
-
-[ L.S.318.22 TAĦT L-ATT DWAR IS-SIGURTÀ SOêJALI
-
 "impjieg attiv" tfisser persuna li tkun qegħda taqdi dmirijiet li jappartjenu għall-kariga li tkun qiegħda tokkupa jew tkun temporanjament assenjata fil-kuntest tal-Artikolu 36 tar- Regolament tal-Kunsill;
 
 "leave għal raāunijiet persunali" tfisser leave li jingħata fil-kuntest tal-Artikolu 40 tar-Regolament tal-Kunsill;
@@ -111,11 +103,7 @@ Għall-finijiet ta’ dawn ir-regolamenti, ‘drittijiet trasferibbli’ tfisser
 
 (1) Id-Direttur għandu, bla ħsara għas-subregolament (4), jipprovdi dikjarazzjoni ta’ jedd lit-trasferent qabel ma jintemm il-perjodu ta’ tletin āurnata li jibda għaddej mid-data tal-kwotazzjoni.
 
-(2) Dikjarazzjoni ta’ jedd għandha tibqa’ valida għal perjodu ta’ disgħin āurnata li jibda għaddej mid-data meta t-trasferiment TAĦT L-ATT DWAR IS-SIGURTÀ SOêJALI [ L.S.318.22
-
-ikun ipprovdut bil-proposta finali ta’ trasferiment mill-amministratur tal-iskema tal-UE.
-
-*3*
+(2) Dikjarazzjoni ta’ jedd għandha tibqa’ valida għal perjodu ta’ disgħin āurnata li jibda għaddej mid-data meta t-trasferiment ikun ipprovdut bil-proposta finali ta’ trasferiment mill-amministratur tal-iskema tal-UE.
 
 (3) Meta t-trasferent ma tkunx togħābu l-preëiŜjoni ta’ xi informazzjoni li tkun tinsab fid-dikjarazzjoni ta’ jedd, huwa għandu javŜa b’dan lid-Direttur fi Ŝmien tletin āurnata minn meta jirëeviha.
 
@@ -147,11 +135,7 @@ It-trasferiment tad-drittijiet trasferibbli ta’ trasferent fl-iskema tal-UE ji
 
 (1) Dan ir-regolament japplika meta l-ekwivalenti ta’ flus kontanti tad-drittijiet trasferibbli tat-trasferent ikun āie trasferit fl-iskema tal-UE kif hemm fil-linji gwida uffiëjali pubblikati minn Ŝmien għal Ŝmien
 
-(2) Ebda ħaāa fl-Att jew f’regolamenti magħmulin taħtu [ L.S.318.22 TAĦT L-ATT DWAR IS-SIGURTÀ SOêJALI
-
-m’għandha tiftiehem b’tali mod li tipproduëi dan l-effett li āej:
-
-*4*
+(2) Ebda ħaāa fl-Att jew f’regolamenti magħmulin taħtu m’għandha tiftiehem b’tali mod li tipproduëi dan l-effett li āej:
 
 (a) il-jedd tat-trasferent għall-ħlas ta’ pensjoni rilevanti bbaŜata fuq kontribuzzjonijiet imħallsa jew akkreditati matul xi perjodi qabel il-āurnata meta jsir it-trasferiment; jew
 

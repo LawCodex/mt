@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Family Therapy and Systemic Practice taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.440)
 
-SYSTEMATIC PRACTICE TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.440
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.440**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -69,13 +63,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) L-applikanti skont il-paragrafu (1) ta’ dan l-ordinament huma wkoll meħtieġa jkollhom sena esperjenza ta’ xogħol normalment f’settur psikosoċjali. L-applikanti għandhom jippreżentaw ittra li turi li għandhom mill-anqas 1200 siegħa ta’ esperjenza f’dan ix-xogħol. Esperjenza ta’ xogħol miksuba minn settur volontarju jkun ikkunsidrata wkoll.
 
-(3) L-applikanti li għandhom kwalifika rikonoxxuta ta’ Postgraduate Diploma in Family Therapy jistgħu jitħallew jidħlu SYSTEMATIC PRACTICE TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.440 TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-fit-Tieni Parti tal-kors, sakemm li dawn l-applikanti juru biċ-ċar lill-Bord tal-Istudji li laħqu l-livell akkademiku meħtieġ sabiex isegwu l-kors bi profitt.
+(3) L-applikanti li għandhom kwalifika rikonoxxuta ta’ Postgraduate Diploma in Family Therapy jistgħu jitħallew jidħlu fit-Tieni Parti tal-kors, sakemm li dawn l-applikanti juru biċ-ċar lill-Bord tal-Istudji li laħqu l-livell akkademiku meħtieġ sabiex isegwu l-kors bi profitt.
 
 (4) L-applikanti kollha jridu juru li ghandhom il-kompetenza u d-dispożizzjoni neċessarji sabiex isegwu l-kors bi profitt.
 
@@ -111,11 +99,7 @@ Il-kors għandu jinfirex fuq erba’ semestri ta’ studju fuq bażi full-time j
 
 (b) it-Tieni Parti li tikkonsisti minn numru ta’ taqsimiet studju mgħallma u prattiċi li għalihom hemm assenjati total ta’ 30 kredtu ECTS, u xogħol ta’ riċerka u l-kitba ta’ dissertazzjoni li għalihom hemm assenjati total ta’ 30 kredtu ECTS ieħor.
 
-SYSTEMATIC PRACTICE TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.440 (2) It-taqsimiet studju prattiċi jistgħu jkunu matul il-ġurnata u/ jew filgħaxija.
+(2) It-taqsimiet studju prattiċi jistgħu jkunu matul il-ġurnata u/ jew filgħaxija.
 
 (3) Fil-każ ta’ applikanti li jkun jonqoshom tagħrif essenzjali fil-qasam tal-metodoloġija tar-riċerka, il-Bord jista’ jitlob lill-istudenti li jidħlu fil-Kors, biex minbarra l-programm ta’ studju kif speċifikat fil-paragrafu (1) tal-ordinament 5, isegwu u jgħaddu minn taqsimiet studju supplimentari f’dan il-qasam li għalihom ikun hemm assenjati massimu ta’ 12 il-krettu ECTS.
 
@@ -141,13 +125,7 @@ Bil-kondizzjoni li dawk l-istudenti li jeħlu minn taqsima studju li tinvolvi pj
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 25,000 kelma skont il-linji gwida maħruġin mill-Bord tal-Istudji.
 
-(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt l-aħħar żewġ semestri tal-kors. Kull student ikun assenjat superviżur, li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu SYSTEMATIC PRACTICE TAĦT IL-PATROĊINJU
-
-*4*
-
-[L.S.327.440 TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-ta’ studju.
+(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt l-aħħar żewġ semestri tal-kors. Kull student ikun assenjat superviżur, li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
 (3) It-titolu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord tal-Istudji mhux iktar tard mid-data indikata mill-Bord tal- Istudji.
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Validazzjoni ta’ Tagħlim Mhux Formali u Informali (S.L. 327.432)
 
-*1*
-
-MHUX FORMALI U INFORMALI [L.S.327.432
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.432**
 
 REGOLAMENTI DWAR IL-VALIDAZZJONI TA’ TAGĦLIM MHUX FORMALI U INFORMALI 24 ta’ Settembru, 2012
@@ -27,7 +23,3 @@ REGOLAMENTI DWAR IL-VALIDAZZJONI TA’ TAGĦLIM MHUX FORMALI U INFORMALI 24 ta�
 L-AVVIŻ LEGALI 295 tal-2012, kif emendat bl-Avviż Legali 194 tal- 2014.
 
 Dawn ir-regolamenti ġew trasposti għall-Kap. 607, Ara L.S. 607.02 - Ara l-Att II tal-2020.
-
-*2*
-
-[L.S.327.432 MHUX FORMALI U INFORMALI

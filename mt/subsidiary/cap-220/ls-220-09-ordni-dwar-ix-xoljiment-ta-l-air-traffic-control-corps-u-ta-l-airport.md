@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar ix-Xoljiment ta l-Air Traffic Control Corps u ta l-Airport Company tal-Forzi Armati ta Malta"
-identifier: "S.L. 220.9"
+identifier: "S.L. 220.09"
 eli: "https://legislation.mt/eli/sl/220.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/220.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar ix-Xoljiment ta l-Air Traffic Control Corps u ta l-Airport Company tal-Forzi Armati ta Malta (S.L. 220.9)
-
-XOLJIMENT TA’ L-AIR TRAFFIC CONTROL CORPS U TA’
-
-*1*
-
-L-AIRPORT COMPANY TAL-FORZI ARMATI TA’ MALTA [ L.S.220.09
+# Ordni dwar ix-Xoljiment ta l-Air Traffic Control Corps u ta l-Airport Company tal-Forzi Armati ta Malta (S.L. 220.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 220.09**
 

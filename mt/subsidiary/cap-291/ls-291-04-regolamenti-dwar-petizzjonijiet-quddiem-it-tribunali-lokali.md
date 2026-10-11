@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Petizzjonijiet quddiem it-Tribunali Lokali"
-identifier: "S.L. 291.4"
+identifier: "S.L. 291.04"
 eli: "https://legislation.mt/eli/sl/291.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/291.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Petizzjonijiet quddiem it-Tribunali Lokali (S.L. 291.4)
+# Regolamenti dwar Petizzjonijiet quddiem it-Tribunali Lokali (S.L. 291.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 291.04**
 

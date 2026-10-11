@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta’ Proprjetà) (2008) (S.L. 261.32)
 
-*1*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2009) [L.S.261.32
-
 LE{ISLAZZJONI SUSSIDJARJA 261.32
 
 ORDNI DWAR L-AWTORITÀ TAD-DJAR
@@ -87,11 +83,7 @@ B’se]] mit-2 ta’ Frar, 2009:
 
 (1) Bi``a art mag]rufa b]ala numru 5 (Plot 90) Triq it- Tulipan, Santa Lu`ija li tmiss minn kull na]a ma’ proprjetà tal-Gvern, jew irjie] verjuri, mog]tija b’enfitewsi perpetwa lis-Sur Paul Meli skond kuntratt datat is-27 ta’ Settembru, 1979, re[istrata b]ala Tenement Nru. 40948 u li fuqha hemm mibnija dar bin-numru 5, (Plot 90), Triq it-Tulipan, Santa Lu`ija, u li tinsab delineata bl-a]mar u markata (P. 90) No. 5 fuq L.D.11/82/71 (HAP 8/2008).
 
-(2) Bi``a art li fuqha jinsabu mibnija Blokkijiet A sa G fis-Sg]ajtar, in-Naxxar, li tmiss minn kull na]a ma’ proprjetà tal-Gvern jew irjie] verjuri. Dawn il- (TRASFERIMENT TA’ PROPRJETÀ) (2009) [L.S.261.32
-
-blokkijiet jikkonsistu fi 42 appartament, 49 garaxx u substation wie]ed, re[istrata b]ala Tenement E20537 u li tinsab delineata bl-a]mar fuq P.D. 2008\_232 (HAM 37/98 Vol 4).
-
-*3*
+(2) Bi``a art li fuqha jinsabu mibnija Blokkijiet A sa G fis-Sg]ajtar, in-Naxxar, li tmiss minn kull na]a ma’ proprjetà tal-Gvern jew irjie] verjuri. Dawn il-blokkijiet jikkonsistu fi 42 appartament, 49 garaxx u substation wie]ed, re[istrata b]ala Tenement E20537 u li tinsab delineata bl-a]mar fuq P.D. 2008\_232 (HAM 37/98 Vol 4).
 
 (3) Flat numru 13, Blokk 14, Bieb B, Triq R. Caruana Dingli, San {wann (Tenement No. 71420 - RTB 81/ 2002).
 
@@ -136,10 +128,6 @@ B’se]] mis-7 ta’ Awissu, 2009:
 Unit 9 jinsab fil-Livelli 2, 3 u 4 u huwa ta’ madwar 8 metri kwadri fil-Livell 2, 138 metru kwadru fil-Livell 3 u 134 metru kwadru fil-livell tal-bejt kif jidher fuq il-pjanti P.D. 194\_2004\_3\_A, P.D. 194\_2004\_4\_A u P.D. 194\_2004\_5\_A. Huwa a``essibbli minn bieb estern li jinsab f’area komuni f’Livell numru 2 impin[i bl-isfar fuq P.D. 194\_2004\_3A sovrastanti proprjetà tal-Gvern u li jmiss mill-Grigal, mill-Majjistral u mix- Xlokk ma’ proprjetà tal-Gvern.
 
 L-ispazju g]al karozza bin-numru 4 jinsab f’Livell 0 kif muri fuq P.D. 194\_2004\_7 u jmiss mill-Majjistral, mix-Xlokk u mil-Lbi` ma’ proprjetà tal-Gvern.
-
-*5*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2009) [L.S.261.32
 
 Il-blokk kollu mag]ruf b]ala Clock Tower Blokk T1 imiss minn kull na]a ma’ proprjetà tal-MIDI plc u Unit 9 u l-ispazju g]al karozza bin-numru 4 ttellg]u fuq proprjetà tal-Gvern li qabel kienet parti minn ES 16355 u re[istrata b]ala Tenement No. 79446 mad- Dipartiment g]at-Tmexxija tal-Proprjetà. (HA 580/ 99).
 

@@ -16,18 +16,14 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet li jitħallsu lil Irkantaturi Pubbliċi jew Sensala f’Bejgħ b’Irkant fil-Qorti (S.L. 12.25)
 
-DRITTIJIET LI JITĦALLSU LIL IRKANTATURI PUBBLIĊI
-
-*1*
-
-JEW SENSALA F’BEJGĦ B’IRKANT FIL-QORTI [L.S.12.25
-
 **LEĠISLAZZJONI SUSSIDJARJA 12.25**
 
 **REGOLAMENTI DWAR DRITTIJIET LI**
 
 **JITĦALLSU LIL IRKANTATURI PUBBLIĊI**
 
-JEW SENSALA F’BEJGĦ B’IRKANT FIL-QORTI 6 ta’ Jannar, 2009 L-AVVIŻ LEGALI 4 tal-2009, kif emendat bl-Avviż Legali 165 tal-2009.
+JEW SENSALA F’BEJGĦ B’IRKANT FIL-QORTI
+
+6 ta’ Jannar, 2009 L-AVVIŻ LEGALI 4 tal-2009, kif emendat bl-Avviż Legali 165 tal-2009.
 
 Revokat bl-Att XLV. 2016.9.

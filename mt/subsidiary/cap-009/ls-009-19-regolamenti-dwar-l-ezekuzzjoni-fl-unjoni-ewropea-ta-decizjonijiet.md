@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Eżekuzzjoni fl-Unjoni Ewropea ta’ Deċiżjonijiet dwar Miżuri ta’ Superviżjoni (S.L. 9.19)
 
-*1*
-
-DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI [L.S.9.19
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.19**
 
 **REGOLAMENTI DWAR L-EŻEKUZZJONI**
@@ -70,10 +66,6 @@ speċifika;
 (f)  obbligu li jiġi evitat kuntatt ma’ persuni speċifiċi fir-  
 rigward tar-reat allegatament imwettaq;
 
-*2*
-
-[L.S.9.19 DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI
-
 (g) obbligu li tiddepożita ċerta somma ta’ flus jew li tagħti tip ieħor ta’ garanzija, li tista’ tingħata jew permezz ta’ għadd speċifikat ta’ ħlasijiet bin-nifs jew f’somma sħiħa f’daqqa;
 
 (h) obbligu li jsirilha trattament terapewtiku jew trattament għal xi vizzju;
@@ -120,11 +112,7 @@ Iżda ma jkunx meħtieġ li d-deċiżjoni dwar miżuri ta’ superviżjoni tkun 
 
 ## 6. Proċedura għat-trasmissjoni ta’ deċiżjoni.
 
-(1) Deċiżjoni dwar miżuri ta’ superviżjoni tista’ tintbagħat lill-Istat Membru li fih il-persuna, li għaliha tapplika d-deċiżjoni, DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI [L.S.9.19
-
-qed tirrisjedi legalment u ordinarjament, f’każijiet fejn il-persuna, wara li tkun ġiet infurmata dwar il-miżuri konċernati, tagħti l-kunsens tagħha biex tirritorna f’dak l-Istat.
-
-*3*
+(1) Deċiżjoni dwar miżuri ta’ superviżjoni tista’ tintbagħat lill-Istat Membru li fih il-persuna, li għaliha tapplika d-deċiżjoni, qed tirrisjedi legalment u ordinarjament, f’każijiet fejn il-persuna, wara li tkun ġiet infurmata dwar il-miżuri konċernati, tagħti l-kunsens tagħha biex tirritorna f’dak l-Istat.
 
 (2) Fuq talba tal-persuna li għaliha tapplika d-deċiżjoni, deċiżjoni dwar miżuri ta’ superviżjoni tista’ tintbagħat lil Stat Membru ieħor, minbarra l-Istat Membru li fih il-persuna qed tirrisjedi legalment u ordinarjament, bil-kondizzjoni li jkun ingħata l-kunsens, mill-Istat l-aħħar imsemmi, biex din tintbagħat.
 
@@ -158,10 +146,6 @@ Iżda f’dawk il-każijiet ma għandux ikun hemm verifika dwar il-kriminalità 
 
 (3) Iċ-ċertifikat li jintbagħat mad-deċiżjoni għandu jkun fih, minbarra xi miżura msemmija fil-paragrafi (a) sa (f) tat-tifsira "miżuri ta’ superviżjoni" fir-regolament 2, dawk il-mizuri l-oħra biss li kieku kienu jiġu notifikati mill-Istat ta’ eżekuzzjoni skont l- Artikolu 8(2) tal-Arranġament, u għandu jindika:
 
-*4*
-
-[L.S.9.19 DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI
-
 (a) fejn jkun japplika, it-tul ta’ żmien li għalih tapplika deċiżjoni dwar miżuri ta’ superviżjoni u jekk ikunx possibbli li d-deċiżjoni tiġi mġedda; u
 
 (b) it-tul ta’ żmien provviżorju li għalih x’aktarx ikun meħtieġ il-monitoraġġ tal-miżuri ta’ superviżjoni, meta jitqiesu ċ-ċirkostanzi kollha tal-każ li jkunu magħrufa meta tinbagħat id-deċiżjoni dwar miżuri ta’ superviżjoni.
@@ -187,10 +171,6 @@ Meta l-Avukat Ġenerali jirċievi deċiżjoni dwar miżuri ta’ superviżjoni f
 (f) hemm immunità jew privileġġ skont il-liġi ta’ Malta, li tagħmel is-sorveljanza tal-miżuri ta’ superviżjoni impossibbli;
 
 (g) id-deċiżjoni ġiet imposta fuq persuna fir-rigward ta’ atti li l-persuna kienet tkun eżentata minn responsabbiltà kriminali taħt il-liġi kriminali ta’ Malta, minħabba fl-età tagħha;
-
-*5*
-
-DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI [L.S.9.19
 
 (h) fil-każ fejn, jekk ikun hemm ksur tal-miżuri ta’ superviżjoni, talba għall-estradizzjoni tiġi miċħuda skont id-dispożizzjonijiet tal-Ordni dwar Pajjiżi Barranin Appuntati dwar l-Estradizzjoni.
 
@@ -226,11 +206,7 @@ Iżda jekk ikun iddaħħal rimedju legali kontra l-infurzar tad-deċiżjoni, iż
 
 (2) Il-kompetenza għall-monitoraġġ fuq il-miżuri ta’ superviżjoni għandha tmur lura għand l-awtorità emittenti:
 
-(a) meta l-persuna kkonċernata tkun stabbiliet ir-residenza DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI
-
-legali u ordinarja tagħha fi Stat li mhuwiex l-Istat ta’ eżekuzzjoni;
-
-*[L.S.9.19 6*
+(a) meta l-persuna kkonċernata tkun stabbiliet ir-residenza legali u ordinarja tagħha fi Stat li mhuwiex l-Istat ta’ eżekuzzjoni;
 
 (b) meta l-Istat emittenti jinnotifika lill-Istat ta’ eżekuzzjoni dwar l-irtirar taċ-ċertifikat skont id-dispożizzjonijiet tal-Artikolu 13(3) tal-Arranġament;
 
@@ -260,11 +236,7 @@ L-awtorità emittenti għandha tkun informata bi kwalunkwe mezz li jħalli rekor
 
 (h) meta ma jkunx possibbli, f’ċirkostanzi eċċezzjonali, li l-awtorità ta’ eżekuzzjoni tosserva ż-żminijiet perentorji stabbiliti fir-regolament 11 waqt li jingħataw ir-raġunijiet għad-dewmien u jiġi indikat meta hu mistenni li tingħata d-deċiżjoni finali;
 
-(i) dwar kull ksur ta’ miżura ta’ superviżjoni u kull riżultanza oħra li tista’ twassal għat-teħid ta’ xi DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI [L.S.9.19
-
-deċiżjoni sussegwenti msemmija fir-regolament 18(1):
-
-*7*
+(i) dwar kull ksur ta’ miżura ta’ superviżjoni u kull riżultanza oħra li tista’ twassal għat-teħid ta’ xi deċiżjoni sussegwenti msemmija fir-regolament 18(1):
 
 Iżda f’dan il-każ għandu jingħata avviż billi tintuża l-formula speċifikata fl-Anness II li jinsab mal- Arranġament.
 
@@ -292,11 +264,7 @@ Kull miżura ta’ superviżjoni li jkun qed isir monitoraġġ fuqha minn qorti 
 
 (3) L-Avukat Ġenerali għandu jiffirma u jawtentika l-kontenut taċ-ċertifikat.
 
-(4) Għall-finijiet ta’ dan ir-regolament, deciżjoni dwar ħelsien mill-arrest għandha tinftiehem bħala referenza għal deċiżjoni dwar [L.S.9.19 DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI
-
-miżuri ta’ superviżjoni msemmija f’dawn ir-regolamenti.
-
-*8*
+(4) Għall-finijiet ta’ dan ir-regolament, deciżjoni dwar ħelsien mill-arrest għandha tinftiehem bħala referenza għal deċiżjoni dwar miżuri ta’ superviżjoni msemmija f’dawn ir-regolamenti.
 
 ## 18. Ġurisdizzjoni tal-awtorità emittenti u diskrezzjoni tal-awtorità ta’eżekuzzjoni.
 
@@ -315,8 +283,6 @@ miżuri ta’ superviżjoni msemmija f’dawn ir-regolamenti.
 (b) tirrifjuta li twettaq monitoraġġ fuq il-miżuri ta’ superviżjoni modifikati jekk dawn il-miżuri ma jaqgħux taħt it-tipi ta’ miżuri ta’ superviżjoni msemmijin fit-tifsira tagħhom fir-regolament 2.
 
 (3) Il-ġurisdizzjoni tal-awtorità emittenti fil-ħruġ ta’ miżura ta’ superviżjoni skont is-subregolament (1) tkun mingħajr preġudizzju għall-proċedimenti li jistgħu jinbdew fl-Istat ta’ eżekuzzjoni kontra l-persuna kkonċernata fir-rigward ta’ reati kriminali mwettqin minnha barra minn dawk li fuqhom hija bbażata d-deċiżjoni dwar il-miżuri ta’ superviżjoni.
-
-DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI [L.S.9.19 9
 
 Skeda 1
 
@@ -388,8 +354,6 @@ atti kriminali li jaqgħu fil-ġurisdizzjoni tal-Qorti Kriminali Internazzjonali
 
 sabutaġġ.
 
-10 [L.S.9.19 DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI
-
 ## Skeda 2
 
 (Regolament 5)
@@ -397,15 +361,3 @@ sabutaġġ.
 **Ċertifikat**
 
 imsemmi fl-Artikolu 10 tad-Deċiżjoni Qafas tal-Kunsill 2009/829/ĠAI ta’ 23 ta’ Ottubru 2009 dwar l-applikazzjoni, bejn l-Istati Membri tal-Unjoni Ewropea, tal-prinċipju ta’ rikonoxximent reċiproku għal deċiżjonijiet dwar miżuri ta’ superviżjoni bħala alternattiva għal detenzjoni proviżorja (1)
-
-*11*
-
-DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI [L.S.9.19 [L.S.9.19 DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI [L.S.9.19 [L.S.9.19 DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI DEĊIŻJONIJIET DWAR MIŻURI TA’ SUPERVIŻJONI [L.S.9.19
-
-*12*
-
-*13*
-
-*14*
-
-*15*

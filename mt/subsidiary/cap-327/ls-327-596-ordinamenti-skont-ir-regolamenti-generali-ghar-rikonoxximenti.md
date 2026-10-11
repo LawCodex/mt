@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad tal-2004 għall-grad ta’ Bachelor of Arts (Honours) in Public Sector Accounting – B.A. (Hons) - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy. (S.L. 327.596)
 
-*1*
-
-ACCOUNTING – B.A. (HONS) [L.S.327.596 LEĠISLAZZJONI SUSSIDJARJA 327.596
+**LEĠISLAZZJONI SUSSIDJARJA 327.596**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -61,13 +59,9 @@ AVVIŻ LEGALI 252 tal-2018.
 
 Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 2018 jew wara.
 
-*2 Ir-Rekwiżiti għad- Dħul*
+*Ir-Rekwiżiti għad- Dħul*
 
-[L.S. 327.596 ACCOUNTING – B.A. (HONS)
-
-## 3.
-
-(1) Biex ikunu rreġistrati bħala studenti regolari fil- Kors, l-applikanti għandhom jissodisfaw ir-rekwiżiti għad-dħul kif speċifikati fir-Regolamenti għad-Dħul tal-Università.
+Kors, l-applikanti għandhom jissodisfaw ir-rekwiżiti għad-dħul kif speċifikati fir-Regolamenti għad-Dħul tal-Università.
 
 (2) L-applikanti li jidħlu skont il-paragrafu (ċ) tar-regolament 6 tar-Regolamenti għad-Dħul għandhom ikollhom il-kwalifiki u / jew l-esperjenza li jissodisfaw lill-Kumitat tad-Dħul tal-Fakultà li huma laħqu l-livell akkademiku meħtieġ biex isegwu l-Kors bi profitt.
 
@@ -91,9 +85,9 @@ Il-programm ta’ studju, li għandu jinkludi taqsimiet studju li għalihom hemm
 
 L-istudenti li jtemmu b’suċċess taqsimiet studju mgħallma li għalihom hemm assenjati 30 krettu ECTS u jagħżlu li ma jkomplux il-Kors, jew wara li jkunu komplew ma jtemmux b’suċċess il-Kors, ikunu eliġibbli għall-għoti taċ-Ċertifikat.
 
-*3*
+## 7.
 
-ACCOUNTING – B.A. (HONS) [L.S.327.596 7. L-istudenti li jtemmu b’suċċess taqsimiet studju mgħallma li għalihom hemm assenjati 60 krettu ECTS u jagħżlu li ma jkomplux il-Kors, jew wara li jkunu komplew ma jtemmux b’suċċess il-Kors, ikunu eliġibbli għall-għoti tad-Diploma.
+L-istudenti li jtemmu b’suċċess taqsimiet studju mgħallma li għalihom hemm assenjati 60 krettu ECTS u jagħżlu li ma jkomplux il-Kors, jew wara li jkunu komplew ma jtemmux b’suċċess il-Kors, ikunu eliġibbli għall-għoti tad-Diploma.
 
 ## 8.
 

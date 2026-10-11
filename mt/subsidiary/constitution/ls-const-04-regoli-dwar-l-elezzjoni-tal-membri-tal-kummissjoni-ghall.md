@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar l-Elezzjoni tal-Membri tal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja"
-identifier: "S.L. const.4"
+identifier: "S.L. const.04"
 eli: "https://legislation.mt/eli/sl/const.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/const.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar l-Elezzjoni tal-Membri tal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja (S.L. const.4)
-
-ELEZZJONI TAL-MEMBRI TAL-KUMMISSJONI
-
-*1*
-
-G}ALL-AMMINISTRAZZJONI TAL-{USTIZZJA [L.S.KOST.04
+# Regoli dwar l-Elezzjoni tal-Membri tal-Kummissjoni għall-Amministrazzjoni tal-Ġustizzja (S.L. const.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA KOST.04**
 

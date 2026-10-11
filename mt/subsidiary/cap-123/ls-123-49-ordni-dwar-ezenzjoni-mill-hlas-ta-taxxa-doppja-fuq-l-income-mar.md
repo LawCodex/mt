@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tal-Libanu (S.L. 123.49)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LIBANU [L.S.123.49
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.49**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -109,8 +105,6 @@ it-taxxa fuq l-income;
 
 Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simili li ji[u imposti wara d-data meta ji[i ffirmat dan il-Ftehim b’\\ieda ma’, jew minflok, it-taxxi e\\istenti msemmija fil-paragrafu 3. L-awtoritajiet kompetenti ta’ l- Istati Kontraenti g]andhom jg]arrfu lil xulxin b’kull tibdil sostanzjali li jkun sar fil-li[ijiet dwar it-taxxa rispettivi tag]hom f’perjodu ta’ \\mien ra[onevoli wara dawk il-bidliet.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LIBANU [L.S.123.49 3
-
 Artikolu 3
 
 TIFSIRIET {ENERALI
@@ -189,9 +183,7 @@ G]ar-rigward ta’ l-applikazzjoni tal-Ftehim minn Stat Kontraenti kull fra\\i l
 
 (f) minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew kull post ie]or ta’ estrazzjoni ta’ ri\\orsi naturali inklu\\ sit ta’ offshore drilling;
 
-(g) art li tkun qeg]da tinbena, pro[ett ta’ kostruzzjoni, assembla[[ jew stallazzjoni jew attivitajiet ta’ sorveljanza li jkollhom x’jaqsmu ma’ dan, i\\da biss meta dik l-art, dak il-pro[ett jew dawk l-attivitajiet FUQ L-INCOME MAR-REPUBBLIKA TAL-LIBANU [L.S.123.49 5
-
-ikomplu g]al perjodu ta’ aktar minn sitt xhur matul xi perjodu ta’ tnax il-xahar li jkun; u
+(g) art li tkun qeg]da tinbena, pro[ett ta’ kostruzzjoni, assembla[[ jew stallazzjoni jew attivitajiet ta’ sorveljanza li jkollhom x’jaqsmu ma’ dan, i\\da biss meta dik l-art, dak il-pro[ett jew dawk l-attivitajiet ikomplu g]al perjodu ta’ aktar minn sitt xhur matul xi perjodu ta’ tnax il-xahar li jkun; u
 
 (h) l-g]oti ta’ servizzi, inklu\\i servizzi ta’ konsulenza, minn impri\\a ta’ Stat Kontraenti permezz ta’ impjegati jew persunal ie]or imqabbad g]aldaqstant fl-Istat Kontraenti l-ie]or, sakemm dawk l-attivitajiet ikomplu g]all-istess pro[ett jew g]al pro[ett konness g]al perjodu jew perjodi li flimkien i[ibu iktar minn sitt xhur matul xi perjodu ta’ tnax il-xahar li jkun.
 
@@ -249,9 +241,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li g]andhom ji[u attribwiti lil stabbiliment permanenti min]abba fi tqassim tal-profitti totali ta’ l-impri\\a lill-partijiet diversi tag]ha, ebda ]a[a fil-paragrafu 2 ma g]andha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li g]andhom ji[u intaxxati b’dak it-tqassim skond ma jista’ jkun konswetudinarju; il-metodu ta’ tqassim li ji[i adottat g]andu, madankollu, jsir hekk li r-ri\\ultat g]andu jkun skond il-prin`ipji li jinsabu f’dan l-Artikolu.
 
-\5. Ebda profitti ma g]andhom ji[u attribwiti lil stabbiliment permanenti FUQ L-INCOME MAR-REPUBBLIKA TAL-LIBANU [L.S.123.49 7
-
-min]abba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ o[[etti jew merkanzija g]all-impri\\a.
+\5. Ebda profitti ma g]andhom ji[u attribwiti lil stabbiliment permanenti min]abba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ o[[etti jew merkanzija g]all-impri\\a.
 
 ## 6.
 
@@ -315,8 +305,6 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal-kumpannija g]ar-rigward tal-profitti 
 
 \*kif emendat bl-Avvi\\ Legali 242 tal-2010.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LIBANU [L.S.123.49 9
-
 \2. Il-fra\\i "mg]ax" kif din tintu\\a f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk ipotekati sew jekk le u sew jekk jag]ti l-jedd g]al sehem fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-gvern u income minn bonds jew debentures, inklu\\i premiums u premjijiet marbutin ma’ titoli, bonds jew debentures simili. Il-penalitajiet g]al ]las tardiv m’g]andhomx jitqiesu b]ala mg]ax g]all-g]anijiet ta’ dan l-Artikolu.
 
 \3. Il-provvedimenti tal-paragrafu 1 m’g]andhomx japplikaw jekk is-sid (benefi`jarju) effettiv ta’ l-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f ’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw il-provvedimenti ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
@@ -363,9 +351,7 @@ i]allashom ikun dak l-Istat innifsu, awtorità lokali, qasam amministrattiv-terr
 
 (a) jekk ikollu ba\\i stabbilita regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u; jew
 
-(b) jekk ikun pre\\enti fl-Istat Kontraenti l-ie]or tkun g]al perjodu jew g]al FUQ L-INCOME MAR-REPUBBLIKA TAL-LIBANU [L.S.123.49 11
-
-perjodi li b’kollox ikunu ta’, jew li fit-total ikunu jaqb\\u l-183 [urnata f’perjodu ta’ 12 il-xahar li jkun u li jibda g]addej jew itemm fis-sena kalendarja involuta:
+(b) jekk ikun pre\\enti fl-Istat Kontraenti l-ie]or tkun g]al perjodu jew g]al perjodi li b’kollox ikunu ta’, jew li fit-total ikunu jaqb\\u l-183 [urnata f’perjodu ta’ 12 il-xahar li jkun u li jibda g]addej jew itemm fis-sena kalendarja involuta:
 
 I\\da, fil-ka\\ijiet imsemmija fis-subparagrafi (a) u (b), l-income jista’ ji[i intaxxat fl-Istat Kontraenti l-ie]or i\\da biss daqstant minnu daqskemm ikun attribwibbli g]all-ba\\i stabbilit jew ikun miksub mill-attivitajiet imwettqin fil-perjodu li fih ir-residenti kien pre\\enti, skond il-ka\\, f’dak l-Istat l-ie]or.
 
@@ -429,9 +415,7 @@ Kontraenti l-ie]or, jistg]u ji[u intaxxati f’dak l-Istat l-ie]or.
 
 (b) Madankollu, dik il-pensjoni g]andha ti[i intaxxata biss fl-Istat Kontraenti l-ie]or jekk l-individwu jkun residenti ta’, u `ittadin ta’, dak l-Istat.
 
-\3. Il-provvedimenti ta’ l-Artikoli 15, 16 u 18 g]andhom japplikaw g]al kull salarju, paga u rimunerazzjonio]ra simili u pensjonijiet g]ar-rigward ta’ servizzi mog]tijin f’dak li g]andu x’jaqsam ma’ negozju li jkun [estit minn Stat Kontraenti FUQ L-INCOME MAR-REPUBBLIKA TAL-LIBANU [L.S.123.49 13
-
-jew minn awtorità lokali tieg]u jew minn qasam amministrattiv-territorjali tieg]u.
+\3. Il-provvedimenti ta’ l-Artikoli 15, 16 u 18 g]andhom japplikaw g]al kull salarju, paga u rimunerazzjonio]ra simili u pensjonijiet g]ar-rigward ta’ servizzi mog]tijin f’dak li g]andu x’jaqsam ma’ negozju li jkun [estit minn Stat Kontraenti jew minn awtorità lokali tieg]u jew minn qasam amministrattiv-territorjali tieg]u.
 
 **Artikolu 20**
 
@@ -484,8 +468,6 @@ Malta income minn sorsi fil-Libanu, it-taxxa tal-Libanu fuq dak l-income g]andu 
 \4. }lief fejn il-provvedimenti tal-paragrafu 1 ta’ l-Artikolu 9, paragrafu 4 ta’ l- Artikolu 11, jew paragrafu 6 ta’ l-Artikolu 12 japplikaw, mg]ax, royalties u ]lasijiet o]ra li jit]allsu minn impri\\a ta’ Stat Kontraenti lil residenti ta’ l-Istat Kontraenti l-ie]or g]andhom, g]all-g]an li ji[u stabbilit x’inhuma l-profitti taxxabbli ta’ dik l-impri\\a, ji[u mnaqqsa ta]t l-istess kondizzjonijiet b]allikieku kienu m]allsa residenti ta’ l-ewwel imsemmi Stat.
 
 \5. Impri\\i ta’ Stat Kontraenti, li l-kapital tag]hom ikun g]alkollox jew f’parti minnu proprjetà jew ta]t il-kontroll, sew dirett sew mhux dirett, minn residenti wie]ed jew iktar ta’ l-Istat Kontraenti l-ie]or, ma jkunux su[[etti fl-Istat l-ewwel imsemmi g]al xi tassazzjoni jew ]tie[a konnessa ma’ dan li tkun xort’o]ra jew ta’ iktar pi\\ mit-tassazzjoni u ]ti[iet konnessi li g]alihom ikun jew jistg]u jkunu su[[etti l-impri\\i ta’ l-ewwel imsemmi Stat.
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LIBANU [L.S.123.49 15
 
 **Artikolu 24**
 
@@ -549,9 +531,7 @@ g]ar-rigward ta’ taxxi fuq l-income miksuba matul xi sena kalendarja jew \\mie
 
 (i) g]ar-rigward ta’ taxxi li jin\\ammu minn ras il-g]ajn fuq l-income miksub matul xi sena kalendarja jew perjodu ta’ kontijiet, skond il-ka\\, li jibda fl-ewwel jum ta’ Jannar, jew wara, minnufih wara s-sena li fiha jing]ata l-avvi\\; u
 
-(ii) g]ar-rigward ta’ taxxi o]ra fuq il-profitti u income miksuba matul FUQ L-INCOME MAR-REPUBBLIKA TAL-LIBANU [L.S.123.49 17
-
-xi sena kalendarja jew perjodu ta’ kontijiet, skond il-ka\\, li jibda fl-ewwel jum ta’ Jannar, jew wara, minnufih wara s-sena li fiha jing]ata l-avvi\\;
+(ii) g]ar-rigward ta’ taxxi o]ra fuq il-profitti u income miksuba matul xi sena kalendarja jew perjodu ta’ kontijiet, skond il-ka\\, li jibda fl-ewwel jum ta’ Jannar, jew wara, minnufih wara s-sena li fiha jing]ata l-avvi\\;
 
 (b) fil-ka\\ ta’ Malta:
 

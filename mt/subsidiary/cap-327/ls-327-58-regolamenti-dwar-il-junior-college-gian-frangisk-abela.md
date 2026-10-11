@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Junior College Ġian Franġisk Abela (S.L. 327.58)
 
-[L.S.327.58
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.58**
 
 **REGOLAMENTI DWAR IL-JUNIOR COLLEGE**
@@ -117,7 +115,7 @@ fuq ir-rakkomandazzjoni tal-Prin`ipal wara li jkun ikkonsulta l-persunal involut
 
 (1) Il-Kulle[[ ikollu Prin`ipal u Persunal.
 
-(a) Il-Prin`ipal jin]atar mill-Kunsill tal-Università (g]al perijodu ta’ erba’ snin) minn fost area u subject co-ordinators fuq ir-rakkomandazzjoni tal-Bord u jkun responsabbli g]all-amministrazzjoni ta’ kuljum tal- Kulle[[. Il-Prin`ipal ikun eli[ibbli g]al ]atra mill- [L.S.327.58 [did.
+(a) Il-Prin`ipal jin]atar mill-Kunsill tal-Università (g]al perijodu ta’ erba’ snin) minn fost area u subject co-ordinators fuq ir-rakkomandazzjoni tal-Bord u jkun responsabbli g]all-amministrazzjoni ta’ kuljum tal- Kulle[[. Il-Prin`ipal ikun eli[ibbli g]al ]atra mill- [did.
 
 (b) Il-Vi`i-Prin`ipal jin]atar mill-Kunsill ta’ l-Università bl-istess mod u huwa g]andu jassisti l-Prin`ipal u jag]milha minfloku.
 
@@ -195,7 +193,7 @@ Kull problema b]al dawk imsemmija fil-paragrafu 10.2 tal- Linji Gwida g]andha ti
 
 ## 9.
 
-(1)Fil-paragrafi 1.5 u 1.9 tar-Regoli Finanzjarji, ir- [L.S.327.58 referenzi g]ad-Direttur {enerali ta’ l-Edukazzjoni g]andhom jinqraw u jiftiehmu b]ala referenzi g]all-Bord.
+(1)Fil-paragrafi 1.5 u 1.9 tar-Regoli Finanzjarji, ir-referenzi g]ad-Direttur {enerali ta’ l-Edukazzjoni g]andhom jinqraw u jiftiehmu b]ala referenzi g]all-Bord.
 
 (2) Il-paragrafu 1.8 tar-Regoli Finanzjarji g]andhom ikunu japplikaw g]al o[[etti li ma kienux akkwistati mill-Junior College jew mill-Kunsill tal-Kulle[[ tramite id-Dipartiment ta’ l- Edukazzjoni jew tramite l-Università u fl-istess paragrafu minflok il-kliem "fid-Dipartiment ta’ l-Edukazzjoni (ara Regolamenti ta’ l- Inventarju 5.1)" g]andhom jid]lu l-kliem "fil-Head Office ta’ l- Università" g]all-g]anijiet ta’ din l-Iskeda.
 

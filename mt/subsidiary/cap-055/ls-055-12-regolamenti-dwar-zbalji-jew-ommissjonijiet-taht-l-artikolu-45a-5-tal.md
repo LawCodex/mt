@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Żbalji jew Ommissjonijiet taħt l-Artikolu 45A(5) tal-Att dwar il-Professjoni Nutarili u l-Arkivji Nutarili (S.L. 55.12)
 
-ŻBALJI JEW OMMISSJONIJIET
-
-TAĦT L-ARTIKOLU 45A(5) TAL-ATT DWAR IL-
-
-*1*
-
-PROFESSJONI NUTARILI U L-ARKIVJI NUTARILI [L.S. 55.12
-
 **LEĠISLAZZJONI SUSSIDJARJA 55.12**
 
 **REGOLAMENTI DWAR ŻBALJI JEW**

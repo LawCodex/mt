@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar id-Dħul ta’ Malta bħala Membru tal-Fond Monetarju Internazzjonali (Ftehim Suċċessur għal Ftehim dwar Self 2020)"
-identifier: "S.L. 209.5"
+identifier: "S.L. 209.05"
 eli: "https://legislation.mt/eli/sl/209.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,15 +14,9 @@ version: "https://legislation.mt/eli/sl/209.5/20250110/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar id-Dħul ta’ Malta bħala Membru tal-Fond Monetarju Internazzjonali (Ftehim Suċċessur għal Ftehim dwar Self 2020) (S.L. 209.5)
+# Ordni dwar id-Dħul ta’ Malta bħala Membru tal-Fond Monetarju Internazzjonali (Ftehim Suċċessur għal Ftehim dwar Self 2020) (S.L. 209.05)
 
-DĦUL TA’ MALTA BĦALA MEMBRU TAL-FOND
-
-MONETARJU INTERNAZZJONALI (FTEHIM SUĊĊESSUR
-
-*1*
-
-GĦAL FTEHIM DWAR SELF 2020) [L.S. 209.05 LEĠISLAZZJONI SUSSIDJARJA 209.05
+LEĠISLAZZJONI SUSSIDJARJA 209.05
 
 ORDNI DWAR ID-DĦUL TA’ MALTA BĦALA
 

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar id-Dħul ta’ Malta bħala Membru tal-Fond Monetarju Internazzjonali (Ftehim ta’ Kontribuzzjoni 2023)"
-identifier: "S.L. 209.4"
+identifier: "S.L. 209.04"
 eli: "https://legislation.mt/eli/sl/209.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/209.4/20230907/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar id-Dħul ta’ Malta bħala Membru tal-Fond Monetarju Internazzjonali (Ftehim ta’ Kontribuzzjoni 2023) (S.L. 209.4)
-
-MONETARJU INTERNAZZJONALI (FTEHIM TA’
-
-*1*
-
-KONTRIBUZZJONI 2023) [L.S.209.04
+# Ordni dwar id-Dħul ta’ Malta bħala Membru tal-Fond Monetarju Internazzjonali (Ftehim ta’ Kontribuzzjoni 2023) (S.L. 209.04)
 
 LEĠISLAZZJONI SUSSIDJARJA 209.04
 
@@ -54,10 +48,6 @@ B’dan qiegħed jiġi dikjarat:
 
 (e) illi l-Bank Ċentrali ta’ Malta għandu jipprovdi l-kontribuzzjoni tar-riżerva wara li jirċievi l-fondi neċessarji mill-Gvern;
 
-(f) illi huwa espedjenti illi dawk l-arranġamenti taħt il-Ftehim ta’ Kontribuzzjoni 2023 għandhom isiru effettivi mad-dħul fis-seħħ tal-Ftehim ta’ Kontribuzzjoni 2023 u skont MONETARJU INTERNAZZJONALI (FTEHIM TA’ [L.S. 209.04 KONTRIBUZZJONI 2023)
-
-id-dispożizzjoniet rilevanti tal-imsemmi Ftehim; u
-
-*2*
+(f) illi huwa espedjenti illi dawk l-arranġamenti taħt il-Ftehim ta’ Kontribuzzjoni 2023 għandhom isiru effettivi mad-dħul fis-seħħ tal-Ftehim ta’ Kontribuzzjoni 2023 u skont id-dispożizzjoniet rilevanti tal-imsemmi Ftehim; u
 
 (g) illi l-Ftehim ta’ Kontribuzzjoni 2023 għandu jidhol fis-seħħ minnufih mal-iffirmar tiegħu.

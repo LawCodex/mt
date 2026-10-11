@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Formuli għal min jaħdem għal rasu għax-Xogħol Part-time (S.L. 123.41)
 
-FORMULI G}AL MIN JA}DEM G}AL RASU
-
-*1*
-
-G}AX-XOG}OL PART-TIME [L.S.123.41
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.41**
 
 REGOLI DWAR FORMULI G}AL MIN JA}DEM

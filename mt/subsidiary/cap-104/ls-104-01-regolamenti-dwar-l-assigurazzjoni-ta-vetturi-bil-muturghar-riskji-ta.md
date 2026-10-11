@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Muturgħar-Riskji ta' Terzi Persuni"
-identifier: "S.L. 104.1"
+identifier: "S.L. 104.01"
 eli: "https://legislation.mt/eli/sl/104.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/104.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Muturgħar-Riskji ta' Terzi Persuni (S.L. 104.1)
-
-*1*
-
-G}AR-RISKJI TA’ TERZI PERSUNI [L.S.104.01
+# Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Muturgħar-Riskji ta' Terzi Persuni (S.L. 104.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 104.01**
 
@@ -93,11 +89,7 @@ I\\da flok dawn jista’ jin[ieb -
 
 (ii) fil-ka\\ meta vettura bil-mutur tkun wa]da jew aktar minn g]axar vetturi bil-mutur li sidhom hija l-istess persuna li g]alihom ikollha polza jew poloz ma]ru[a mill-istess assiguratur, dikjarazzjoni awtentikata kif imiss mill-assiguratur fejn juri illi fid-data meta l-li`enza tibda sse]] polza, skond ma te]tie[ l-Ordinanza tkun fis-se]] dwar il-vettura bil-mutur;
 
-(iii) fil-ka\\ ta’ vetturi bil-mutur inti\\i sabiex ji[u u\\ati biss g]albiex jing]ataw b’kiri u jinsaqu G}AR-RISKJI TA’ TERZI PERSUNI [L.S.104.01
-
-mill-persuna li tikri il-vettura bil-mutur jew minn persuni ta]t il-kontroll tag]ha, dikjarazzjoni b]al Formula D ta’ l-Iskeda.
-
-*3*
+(iii) fil-ka\\ ta’ vetturi bil-mutur inti\\i sabiex ji[u u\\ati biss g]albiex jing]ataw b’kiri u jinsaqu mill-persuna li tikri il-vettura bil-mutur jew minn persuni ta]t il-kontroll tag]ha, dikjarazzjoni b]al Formula D ta’ l-Iskeda.
 
 ## 8. ~ertifikat ittimbrat mill-Kummissarju.
 
@@ -146,10 +138,6 @@ L.S.104.01] G}AR-RISKJI TA’ TERZI PERSUNI
 *Emendat: A.L. 409 ta’ l- 2007.*
 
 Jekk xi persuna ta[ixxi b’kontravvenzjoni ta’ jew tonqos li tobdi dawn ir-regolamenti hija g]al kull reat tkun su[[etta g]al multa ta’ mhux i\\jed minn tlieta u g]oxrin euro u disg]a u g]oxrin `ente\\mu (23.29).
-
-*5*
-
-G}AR-RISKJI TA’ TERZI PERSUNI [L.S.104.01
 
 *Sostitwita: A.L. 6 ta’ l-1985; A.L. 243 ta’ l-2006.*
 

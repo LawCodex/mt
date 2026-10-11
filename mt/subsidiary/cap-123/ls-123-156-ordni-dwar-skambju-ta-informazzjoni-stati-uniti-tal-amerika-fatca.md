@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Skambju ta’ Informazzjoni (Stati Uniti tal-Amerika) (FATCA) (S.L. 123.156)
 
-*1*
-
-(STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.156**
 
 ORDNI DWAR SKAMBJU TA’ INFORMAZZJONI
@@ -44,8 +40,6 @@ B’dan qiegћed jiġi dikjarat:
 (ċ) illi l-Ftehim għandu jidħol fis-seħħ f’dik id-data li tkun mħabbra b’avviż fil-Gazzetta tal-Gvern\*.
 
 \*ara l-artikolu 2 ta’ dan l-Ordni u l-Avviż Legali 290 tal-2014..
-
-2 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
 
 Emendata: SKEDA I
 
@@ -83,9 +77,7 @@ Billi, il-Gvern tal-Istati Uniti tal-Amerika jirrikonoxxi l-bżonn li jiġu koor
 
 Billi, approċċ intergovernattiv għall-implimentazzjoni tal-FATCA ikun jindirizza l-impedimenti legali u jnaqqas il-piż għall-istituzzjonijiet finanzjarji tar-Repubblika ta’ Malta;
 
-Billi, il-Partijiet jixtiequ jagħmlu ftehim biex itejbu l-konformità internazzjonali (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 3
-
-dwar it-taxxa u jipprovdu għall-implimentazzjoni tal-FATCA ibbażat fuq rappurtar domestiku u skambju awtomatiku reċiproku skont il-Ftehim u soġġett għal kunfidenzjalità u protezzjonijiet oħra hemmhekk provduti, inkluż il-provvediment li jillimita l-użu tal-informazzjoni skambjata taħt il-Ftehim;
+Billi, il-Partijiet jixtiequ jagħmlu ftehim biex itejbu l-konformità internazzjonali dwar it-taxxa u jipprovdu għall-implimentazzjoni tal-FATCA ibbażat fuq rappurtar domestiku u skambju awtomatiku reċiproku skont il-Ftehim u soġġett għal kunfidenzjalità u protezzjonijiet oħra hemmhekk provduti, inkluż il-provvediment li jillimita l-użu tal-informazzjoni skambjata taħt il-Ftehim;
 
 Issa, għalhekk, il-Partijiet ftehmu kif ġej:
 
@@ -111,17 +103,13 @@ f) Il-frażi "Awtorità Kompetenti" tfisser:
 
 g) Il-frażi "Istituzzjoni Finanzjarja" tfisser Istituzzjoni ta’ Kustodja, Istituzzjoni Depożitarja, Entità ta’ Investiment, jew Kumpannija ta’ Assigurazzjoni Speċifikata.
 
-h) Il-frażi "Istituzzjoni ta’ Kustodja" tfisser kull Entità li żżomm bħala parti sostanzjali tan-negozju tagħha, assi finanzjarji akkont ta’ oħrajn. Entità żżomm assi finanzjarji akkont ta’ oħrajn bħala parti sostanzjali tan-negozju tagħha kemm-il darba l-income gross attribwibbli għaż-żamma tal-assi finanzjarji u servizzi finanzjarji relatati ikunu daqs jew aktar minn 20 fil-mija tal-income gross tal-entità matul l-iqsar ta’: (i) il-perjodu ta’ tliet snin li jtemm fil-31 ta’ Diċembru (jew l-aħħar ġurnata ta’ perjodu ta’ kontijiet mhux kalendarju) qabel is-sena li fiha dan ikun qed jiġi stabbilit; jew (ii) il-perjodu li matulu l-entità tkun ilha teżisti. [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-*i)*
-
-Il-frażi "Istituzzjoni Depożitarja" tfisser kull Entità li taċċetta depożiti fil-kors ordinarju ta’ negozju bankarju jew negozju simili.
-
-*4*
+h) Il-frażi "Istituzzjoni ta’ Kustodja" tfisser kull Entità li żżomm bħala parti sostanzjali tan-negozju tagħha, assi finanzjarji akkont ta’ oħrajn. Entità żżomm assi finanzjarji akkont ta’ oħrajn bħala parti sostanzjali tan-negozju tagħha kemm-il darba l-income gross attribwibbli għaż-żamma tal-assi finanzjarji u servizzi finanzjarji relatati ikunu daqs jew aktar minn 20 fil-mija tal-income gross tal-entità matul l-iqsar ta’: (i) il-perjodu ta’ tliet snin li jtemm fil-31 ta’ Diċembru (jew l-aħħar ġurnata ta’ perjodu ta’ kontijiet mhux kalendarju) qabel is-sena li fiha dan ikun qed jiġi stabbilit; jew (ii) il-perjodu li matulu l-entità tkun ilha teżisti. Il-frażi "Istituzzjoni Depożitarja" tfisser kull Entità li taċċetta depożiti fil-kors ordinarju ta’ negozju bankarju jew negozju simili.
 
 *j)*
 
 Il-frażi "Entità ta’ Investiment" tfisser kull Entità li tmexxi bħala negozju (jew li tkun immexxija minn entità li tmexxi negozju) waħda jew aktar minn dawn l-attivitajiet jew l-operazzjonijiet għal jew f’isem klijent:
+
+*i)*
 
 (1) negozjar fi strumenti fis-suq tal-flus (cheques, bills tat-teżor, ċertifikati ta’ depożitu, derivattivi, etc,); kambju ta’ munita barraninja; strumenti ta’ kambju, ta’ rati ta’ mgħax u ta’ indiċi; titoli trasferibbli; jew negozjar ta’ commodity futures;
 
@@ -153,9 +141,7 @@ Il-frażi "Istituzzjoni Finanzjarja tal-Istati Uniti ta’ Rappurtar" tfisser (i
 
 *q)*
 
-Il-frażi "Istituzzjoni Finanzjarja ta’ Malta ta’ Non-Rappurtar" tfisser kull Istituzzjoni Finanzjarja, jew Entità oħra residenti f’Malta li hi deskritta fl-Anness II bħala Istituzzjoni Finanzjarja ta’ Malta ta’ Non-Rappurtar jew li xort’oħra tikkwalifika bħala FFI meqjusa (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 5
-
-konformi jew sid benefiċjarju eżenti taħt ir-Regolamenti tat-Teżor tal- Istati Uniti rilevanti.
+Il-frażi "Istituzzjoni Finanzjarja ta’ Malta ta’ Non-Rappurtar" tfisser kull Istituzzjoni Finanzjarja, jew Entità oħra residenti f’Malta li hi deskritta fl-Anness II bħala Istituzzjoni Finanzjarja ta’ Malta ta’ Non-Rappurtar jew li xort’oħra tikkwalifika bħala FFI meqjusa konformi jew sid benefiċjarju eżenti taħt ir-Regolamenti tat-Teżor tal- Istati Uniti rilevanti.
 
 *r)*
 
@@ -175,60 +161,35 @@ Minkejja dak li ntqal qabel, il-frażi "Kont Finanzjarju" ma tinkludix kull kont
 
 *t)*
 
-Il-frażi "Kont Depożitarju" tinkludi kull kont kummerċjali, kurrenti, ta’ tfaddil, għal żmien, jew thrift, jew kont li jkun evidenzjat permezz ta’ ċertifikat ta’ depożitu, ċertifikat thrift, ċertifikat ta’ investiment, [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-ċertifikat ta’ dejn, jew strument ieħor simili miżmum minn Istituzzjoni Finanzjarja fil-kors ordinarju ta’ negozju bankarju jew negozju simili. Kont Depożitarju jinkludi wkoll ammont miżmum minn kumpannija ta’ assigurazzjoni skont kuntratt ta’ investiment garantit jew ftehim simili biex jitħallas jew jiġi kreditat mgħax fuqu.
-
-*6*
+Il-frażi "Kont Depożitarju" tinkludi kull kont kummerċjali, kurrenti, ta’ tfaddil, għal żmien, jew thrift, jew kont li jkun evidenzjat permezz ta’ ċertifikat ta’ depożitu, ċertifikat thrift, ċertifikat ta’ investiment, ċertifikat ta’ dejn, jew strument ieħor simili miżmum minn Istituzzjoni Finanzjarja fil-kors ordinarju ta’ negozju bankarju jew negozju simili. Kont Depożitarju jinkludi wkoll ammont miżmum minn kumpannija ta’ assigurazzjoni skont kuntratt ta’ investiment garantit jew ftehim simili biex jitħallas jew jiġi kreditat mgħax fuqu.
 
 *u)*
 
-Il-frażi "Kont ta’ Kustodja" tfisser kont (barra minn Kuntratt ta’ Assigurazzjoni jew Annutiy Contract) għal benefiċċju ta’ persuna oħra li żżomm kull strument finanzjarju jew kuntratt miżmum għal investiment (inkluż, iżda mhux limitat għal, sehem jew stock f’korporazzjoni, note, bond, debenture, jew evidenza oħra ta’ dejn, transazzjoni ta’ flus jew prodotti, credit default swap, swap ibbażat fuq
+Il-frażi "Kont ta’ Kustodja" tfisser kont (barra minn Kuntratt ta’ Assigurazzjoni jew Annutiy Contract) għal benefiċċju ta’ persuna oħra li żżomm kull strument finanzjarju jew kuntratt miżmum għal investiment (inkluż, iżda mhux limitat għal, sehem jew stock f’korporazzjoni, note, bond, debenture, jew evidenza oħra ta’ dejn, transazzjoni ta’ flus jew prodotti, credit default swap, swap ibbażat fuq indiċi mhux finanzjarju, kuntratt prinċipali ta’ nozzjoni, Kuntratt ta’ Assigurazzjoni jew Annuity Contract, u kull strument ta’ għażla jew derivat ieħor.
 
-indiċi mhux finanzjarju, kuntratt prinċipali ta’ nozzjoni, Kuntratt ta’  
-Assigurazzjoni jew Annuity Contract, u kull strument ta’ għażla jew  
-derivat ieħor.  
-v)  Il-frażi "Interess ta’ Ekwità" tfisser, f’każ ta’ soċjetà li tkun  
-Istituzzjoni Finanzjarja, jew interess fil-kapital jew fil-profitti tas-  
-soċjetà. F’każ ta’ trust li jkun Istituzzjoni Finanzjarja, Interess ta’  
-Ekwità jkun meqjus li jkun miżmum minn persuna li tkun ittrattata  
-bħala settlor jew benefiċjarju tat-trust kollu jew f’parti minnu, jew kull  
-persuna oħra naturali li tkun teżerċita l-kontroll effettiv aħħari fuq it-  
-trust. Persuna tal-Istati Uniti Speċifikata għandha tiġi ittrattata bħala li  
-tkun benefiċjarju ta’ trust barrani jekk dik il-Persuna tal-Istati Uniti  
-Speċifikata għandha d-dritt li tirċievi direttament jew indirettament (per  
-eżempju, permezz ta’ nominee) tqassim obbligatorju jew tista’ tirċievi,  
-direttament jew indirettament, tqassim diskrezzjonali mit-trust.  
-w)  Il-frażi "Kuntratt ta’ Assigurazzjoni" tfisser kuntratt (barra minn  
-Annuity Contract) li taħtu l-emittent jaqbel li jħallas ammont meta tiġri  
-kontinġenza speċifikata li tinvolvi riskju ta’ mortalità, morbidità,  
-inċident, responsabbilità jew proprjetà.  
-x)  Il-frażi "Annuity Contract" tfisser kuntratt li taħtu l-emittent jaqbel li  
-jagħmel pagamenti għal perjodu ta’ żmien stabbilit kollu jew f’parti  
-minnu b’riferenza għal dak li wieħed jistenna li jgħix individwu wieħed  
-jew aktar minn wieħed. Il-frażi tinkludi wkoll kuntratt li hu kkunsidrat  
-li hu Annuity Contract skont il-liġi, ir-regolament, jew il-prattika tal-  
-ġurisdizzjoni li fiha il-kuntratt inħareġ, u li taħtu l-emittent jaqbel li  
-jagħmel pagamenti għal terminu ta’ żmien.  
-y)  Il-frażi "Kuntratt ta’ Assigurazzjoni b’Valur fi Flus" tfisser Kuntratt  
-ta’ Assigurazzjoni (barra minn kuntratt ta’ assigurazzjoni indennizz  
-bejn żewġ kumpanniji ta’ assigurazzjoni) li għandu Valur fi Flus ta’  
-aktar minn $50,000.  
-z)  Il-frażi "Valur fi Flus" tfisser l-akbar minn (i) l-ammont li d-detentur  
-tal-polza hu intitolat li jirċievi meta jissarraf jew jiġi terminat kuntratt  
-(stabbilit mingħajr tnaqqis għal xi ħlas għat-tisrif jew dejn fuq il-polza),  
-u (ii) l-ammont li d-detentur tal-polza jista’ jissellef taħt jew fir-rigward  
-tal-kuntratt. Minkejja dak li ntqal qabel, il-frażi "Valur fi Flus" ma  
-tinkludix xi ammont pagabbli taħt Kuntratt ta’ Assigurazzjoni bħal:  
-(1) benefiċċju ta’ korriment personali jew ta’ mard li jipprovdi  
-indennizz ta’ telf ekonomiku mġarrab meta jiġri l-avveniment li  
-wieħed ikun assigura kontra tiegħu;  
-(2) rifużjoni lid-detentur tal-polza ta’ primjum mħallas qabel taħt  
-Kuntratt ta’ Assigurazzjoni (barra minn kuntratt ta’
+*v)*
 
-(STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 7
+Il-frażi "Interess ta’ Ekwità" tfisser, f’każ ta’ soċjetà li tkun Istituzzjoni Finanzjarja, jew interess fil-kapital jew fil-profitti tas-soċjetà. F’każ ta’ trust li jkun Istituzzjoni Finanzjarja, Interess ta’ Ekwità jkun meqjus li jkun miżmum minn persuna li tkun ittrattata bħala settlor jew benefiċjarju tat-trust kollu jew f’parti minnu, jew kull persuna oħra naturali li tkun teżerċita l-kontroll effettiv aħħari fuq it-trust. Persuna tal-Istati Uniti Speċifikata għandha tiġi ittrattata bħala li tkun benefiċjarju ta’ trust barrani jekk dik il-Persuna tal-Istati Uniti Speċifikata għandha d-dritt li tirċievi direttament jew indirettament (per eżempju, permezz ta’ nominee) tqassim obbligatorju jew tista’ tirċievi, direttament jew indirettament, tqassim diskrezzjonali mit-trust.
 
-assigurazzjoni fuq il-ħajja) minħabba kanċellazzjoni jew terminazzjoni, tnaqqis fl-espożizzjoni tar-riskju matul il-perjodu effettiv tal-Kuntratt tal-Assigurazzjoni, jew li jirriżulta minn redetermination tal-primjum minħabba korezzjoni ta’ kollokament jew żball simili; jew
+*w)*
+
+Il-frażi "Kuntratt ta’ Assigurazzjoni" tfisser kuntratt (barra minn Annuity Contract) li taħtu l-emittent jaqbel li jħallas ammont meta tiġri kontinġenza speċifikata li tinvolvi riskju ta’ mortalità, morbidità, inċident, responsabbilità jew proprjetà.
+
+*x)*
+
+Il-frażi "Annuity Contract" tfisser kuntratt li taħtu l-emittent jaqbel li jagħmel pagamenti għal perjodu ta’ żmien stabbilit kollu jew f’parti minnu b’riferenza għal dak li wieħed jistenna li jgħix individwu wieħed jew aktar minn wieħed. Il-frażi tinkludi wkoll kuntratt li hu kkunsidrat li hu Annuity Contract skont il-liġi, ir-regolament, jew il-prattika tal-ġurisdizzjoni li fiha il-kuntratt inħareġ, u li taħtu l-emittent jaqbel li jagħmel pagamenti għal terminu ta’ żmien.
+
+*y)*
+
+Il-frażi "Kuntratt ta’ Assigurazzjoni b’Valur fi Flus" tfisser Kuntratt ta’ Assigurazzjoni (barra minn kuntratt ta’ assigurazzjoni indennizz bejn żewġ kumpanniji ta’ assigurazzjoni) li għandu Valur fi Flus ta’ aktar minn $50,000.
+
+*z)*
+
+Il-frażi "Valur fi Flus" tfisser l-akbar minn (i) l-ammont li d-detentur tal-polza hu intitolat li jirċievi meta jissarraf jew jiġi terminat kuntratt (stabbilit mingħajr tnaqqis għal xi ħlas għat-tisrif jew dejn fuq il-polza), u (ii) l-ammont li d-detentur tal-polza jista’ jissellef taħt jew fir-rigward tal-kuntratt. Minkejja dak li ntqal qabel, il-frażi "Valur fi Flus" ma tinkludix xi ammont pagabbli taħt Kuntratt ta’ Assigurazzjoni bħal:
+
+(1) benefiċċju ta’ korriment personali jew ta’ mard li jipprovdi indennizz ta’ telf ekonomiku mġarrab meta jiġri l-avveniment li wieħed ikun assigura kontra tiegħu;
+
+(2) rifużjoni lid-detentur tal-polza ta’ primjum mħallas qabel taħt Kuntratt ta’ Assigurazzjoni (barra minn kuntratt ta’ assigurazzjoni fuq il-ħajja) minħabba kanċellazzjoni jew terminazzjoni, tnaqqis fl-espożizzjoni tar-riskju matul il-perjodu effettiv tal-Kuntratt tal-Assigurazzjoni, jew li jirriżulta minn redetermination tal-primjum minħabba korezzjoni ta’ kollokament jew żball simili; jew
 
 (3) dividend lid-detentur tal-polza ibbażat fuq l-esperjenza ta’ sottoskrizzjoni tal-kuntratt jew grupp involut.
 
@@ -238,11 +199,7 @@ aa) Il-frażi "Kont Rapportabbli" tfisser Kont Rapportabbli tal-Istati Uniti jew
 
 dd) Il-frażi "Detentur ta’ Kont" tfisser il-persuna elenkata jew identifikata bħala d-detentur ta’ Kont Finanzjarju mill-Istituzzjoni Finanzjarja li żżomm il-kont. Persuna, barra minn Istituzzjoni Finanzjarja, li żżomm Kont Finanzjarju għall-benefiċċju jew akkont ta’ persuna oħra bħala aġent, kustodju, nominee, firmatarju, konsulent ta’ investiment, jew intermedjarju, ma tkunx ittrattata bħala li tkun iżżomm il-kont għall-għanijiet ta’ dan il-Ftehim, u dik il-persuna l-oħra tiġi ttrattata bħala li qed iżżomm il-kont. Għall-għanijiet tas-sentenza minnufih qabel din, il-frażi "Istituzzjoni Finanzjarja" ma tinkludix Istituzzjoni Finanzjarja organizzata jew inkorporata f’Territorju tal-Istati Uniti. Fil-każ ta’ Kuntratt ta’ Assigurazzjoni b’Valur fi Flus jew Annuity Contract, id- Detentur tal-Kont ikun kull persuna intitolat għall-aċċess tal-Valur fi Flus jew li jibdel il-benefiċjarju tal-kuntratt. Kemm-il darba l-ebda persuna ma tkun tista’ ikollha aċċess għall-Valur fi Flus jew li tibdel il-benefiċjarju, id-Detentur tal-Kont ikun kull persuna nominat bħala is-sid tal-kuntratt u kull persuna b’intitolament vestit għal pagament taħt it-termini tal-kuntratt. Mal-maturità ta’ Kuntratt ta’ Assigurazzjoni b’Valur fi Flus jew Annuity Contract, kull persuna intitolata li tirċievi pagament taħt il-kuntratt tkun ittrattata bħala Detentur ta’ Kont.
 
-ee) Il-frażi "Persuna tal-Istati Uniti" tfisser ċittadin tal-Istati Uniti jew individwu residenti, soċjetà jew korporazzjoni organizzata fl-Istati Uniti jew taħt il-liġijiet tal-Istati Uniti jew xi Stat tagħha, trust kemm-il darba (i) qorti fl-Istati Uniti ikollha l-awtorità taħt il-liġi applikabbli li tagħti [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-ordnijiet jew sentenzi rigward il-kwistjonijiet sostanzjalment kollha dwar l-amministrazzjoni ta’ trust, u (ii) persuna waħda jew aktar tal- Istati Uniti għandhom l-awtorità li jikkontrollaw id-deċiżjonijiet sostanzjali kollha tat-trust, jew l-estate ta’ min miet li jkun ċittadin jew residenti tal-Istati Uniti. Dan is-subparagrafu 1(ee) għandu jkun interpretat skont l-Internal Revenue Code tal-Istati Uniti.
-
-*8*
+ee) Il-frażi "Persuna tal-Istati Uniti" tfisser ċittadin tal-Istati Uniti jew individwu residenti, soċjetà jew korporazzjoni organizzata fl-Istati Uniti jew taħt il-liġijiet tal-Istati Uniti jew xi Stat tagħha, trust kemm-il darba (i) qorti fl-Istati Uniti ikollha l-awtorità taħt il-liġi applikabbli li tagħti ordnijiet jew sentenzi rigward il-kwistjonijiet sostanzjalment kollha dwar l-amministrazzjoni ta’ trust, u (ii) persuna waħda jew aktar tal- Istati Uniti għandhom l-awtorità li jikkontrollaw id-deċiżjonijiet sostanzjali kollha tat-trust, jew l-estate ta’ min miet li jkun ċittadin jew residenti tal-Istati Uniti. Dan is-subparagrafu 1(ee) għandu jkun interpretat skont l-Internal Revenue Code tal-Istati Uniti.
 
 *ff)*
 
@@ -256,9 +213,7 @@ Il-frażi "U.S. Source Withholdable Payment" tfisser kull pagament ta’ mgħax 
 
 *jj)*
 
-Entità tkun "Entità Relatata" ta’ Entità oħra kemm-il darba Entità jew l-oħra tikkontrolla l-Entità l-oħra, jew iż-żewġ Entitajiet ikunu taħt kontroll komuni. Għal dan il-għan kontroll jinkludi li tkun sid (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 9
-
-direttament jew indirettament ta’aktar minn 50 fil-mija tal-vot jew valur ta’ Entità. Minkejja dak li ntqal qabel, l-awtorità kompetenti ta’ Malta tista’ titratta Entità mhux bħala Entità Relatata ta’ Entità oħra kemm-il darba iż-żewġ Entitajiet mhumiex membri tal-istess grupp affiljat estiż kif imfisser fit-taqsima 1471(e)(2) tal-Internal Revenue Code tal-Istati Uniti.
+Entità tkun "Entità Relatata" ta’ Entità oħra kemm-il darba Entità jew l-oħra tikkontrolla l-Entità l-oħra, jew iż-żewġ Entitajiet ikunu taħt kontroll komuni. Għal dan il-għan kontroll jinkludi li tkun sid direttament jew indirettament ta’aktar minn 50 fil-mija tal-vot jew valur ta’ Entità. Minkejja dak li ntqal qabel, l-awtorità kompetenti ta’ Malta tista’ titratta Entità mhux bħala Entità Relatata ta’ Entità oħra kemm-il darba iż-żewġ Entitajiet mhumiex membri tal-istess grupp affiljat estiż kif imfisser fit-taqsima 1471(e)(2) tal-Internal Revenue Code tal-Istati Uniti.
 
 kk) Il-frażi "U.S. TIN" tfisser in-numru li jiddentifika kontribwent federali tal-Istati Uniti.
 
@@ -286,9 +241,7 @@ a) Fil-każ ta’ Malta fir-rigward ta’ kull Kont Rapportabbli tal-Istati Unit
 
 (3) l-isem u n-numru li jiddentifika l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar;
 
-(4) il-bilanċ tal-kont jew valur (inkluż, fil-każ ta’ Kuntratt ta’ Assigurazzjoni b’Valur fi Flus jew Annuity Contract, il-Valur fi Flus jew il-valur tat-tisrif) fl-aħħar tas-sena kalendarja rilevanti jew xi perjodu ieħor xieraq ta’ rappurtar jew, jekk il-kont kien 10 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-ingħalaq matul dik is-sena, minnufih qabel ingħalaq;
+(4) il-bilanċ tal-kont jew valur (inkluż, fil-każ ta’ Kuntratt ta’ Assigurazzjoni b’Valur fi Flus jew Annuity Contract, il-Valur fi Flus jew il-valur tat-tisrif) fl-aħħar tas-sena kalendarja rilevanti jew xi perjodu ieħor xieraq ta’ rappurtar jew, jekk il-kont kien ingħalaq matul dik is-sena, minnufih qabel ingħalaq;
 
 (5) fil-każ ta’ kull Kont ta’ Kustodja:
 
@@ -322,9 +275,7 @@ b) Fil-każ tal-Istati Uniti, fir-rigward ta’ kull Kont Rapportabbli ta’ Mal
 
 ## 2.
 
-Għall-ġħanijiet ta’ obbligu ta’ skambju fl-Artikolu 2 ta’ dan il-Ftehim, l-informazzjoni skambjata għandha tiddentifika f’liema munita kull ammont rilevanti (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 11
-
-jkun denominat.
+Għall-ġħanijiet ta’ obbligu ta’ skambju fl-Artikolu 2 ta’ dan il-Ftehim, l-informazzjoni skambjata għandha tiddentifika f’liema munita kull ammont rilevanti jkun denominat.
 
 ## 3.
 
@@ -362,9 +313,7 @@ L-informazzjoni kollha skambjata għandha tkun soġġetta għall-kunfidenzjalit�
 
 ## 8.
 
-Wara d-dħul fis-seħħ ta’ dan il-Ftehim, kull Awtorità Kompetenti għandha tipprovdi avviż bil-miktub lill-Awtorità Kompetenti l-oħra meta tkun sodisfatta li l-ġurisdizzjoni tal-Awtorità Kompetenti l-oħra għandha f’posthom (i) salvagwardji xierqa biex jiżguraw li l-informazzjoni li tirċievi skont dan il-Ftehim għandha tibqa’ 12 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-kunfidenzjali u tiġi użata unikament għall-finijiet ta’ taxxa; u (ii) l-infrastruttura għall-relazzjoni effettiva ta’ skambju (inkluż proċessi stabbiliti biex jiżguraw skambji ta’ informazzjoni fil-ħin, preċiżi, u kunfidenzjali, komunikazzjonijiet effettivi u ta’ min jorbot fuqhom, u kapaċitajiet li ntwerew biex issolvi fil-pront kwistjonijiet u tħassib dwar skambji u talbiet għall-iskambji u biex tamministra d-dispożizzjonijiet tal-Artikolu 5 ta’ dan il-Ftehim). L-Awtoritajiet Kompetenti għandhom jippruvaw b’rieda tajba li jiltaqgħu, qabel Settembru 2015, biex jistabbilixxu li kull ġurisdizzjoni għandha tali salvagwardji u infrastruttura f’posthom.
+Wara d-dħul fis-seħħ ta’ dan il-Ftehim, kull Awtorità Kompetenti għandha tipprovdi avviż bil-miktub lill-Awtorità Kompetenti l-oħra meta tkun sodisfatta li l-ġurisdizzjoni tal-Awtorità Kompetenti l-oħra għandha f’posthom (i) salvagwardji xierqa biex jiżguraw li l-informazzjoni li tirċievi skont dan il-Ftehim għandha tibqa’ kunfidenzjali u tiġi użata unikament għall-finijiet ta’ taxxa; u (ii) l-infrastruttura għall-relazzjoni effettiva ta’ skambju (inkluż proċessi stabbiliti biex jiżguraw skambji ta’ informazzjoni fil-ħin, preċiżi, u kunfidenzjali, komunikazzjonijiet effettivi u ta’ min jorbot fuqhom, u kapaċitajiet li ntwerew biex issolvi fil-pront kwistjonijiet u tħassib dwar skambji u talbiet għall-iskambji u biex tamministra d-dispożizzjonijiet tal-Artikolu 5 ta’ dan il-Ftehim). L-Awtoritajiet Kompetenti għandhom jippruvaw b’rieda tajba li jiltaqgħu, qabel Settembru 2015, biex jistabbilixxu li kull ġurisdizzjoni għandha tali salvagwardji u infrastruttura f’posthom.
 
 ## 9.
 
@@ -386,11 +335,7 @@ b) għal kull sena 2015 u 2016, tirrapporta kull sena lill-Kummissarju tat- Taxx
 
 ċ) tikkonforma mar-rekwiżiti tar-reġistrazzjoni applikabbli fuq il-website dwar reġistrazzjoni tal-IRS FATCA;
 
-d) sakemm Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tkun (i) taġixxi bħala intermedjarju kwalifikat (għall-għanijiet tat-taqsima 1441 tal- Internal Revenue Code tal-Istati Uniti) li għażel li jassumi responsabbilità primarja ta’ withholding taħt il-kapitolu 3 tas-sub-titolu A tal-Internal Revenue Code tal-Istati Uniti, (ii) soċjetà barranija li għażlet li taġixxi bħala soċjetà barranija ta’ withholding (għall-għanijiet taż-żewġ taqsimiet 1441 u 1471 tal-Internal Revenue Code tal-Istati Uniti), jew (iii) trust barrani li għażel li jaġixxi bħala trust barrani ta’ withholding (għall-għanijiet taż-żewġ taqsimiet 1441 u 1471 tal- Internal Revenue Code tal-Istati Uniti), iżżomm 30 fil-mija ta’ kull U.S.
-
-(STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 13
-
-Source Withholdable Payment lil kull Istituzzjoni Finanzjarja Mhux Parteċipanti; u
+d) sakemm Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tkun (i) taġixxi bħala intermedjarju kwalifikat (għall-għanijiet tat-taqsima 1441 tal- Internal Revenue Code tal-Istati Uniti) li għażel li jassumi responsabbilità primarja ta’ withholding taħt il-kapitolu 3 tas-sub-titolu A tal-Internal Revenue Code tal-Istati Uniti, (ii) soċjetà barranija li għażlet li taġixxi bħala soċjetà barranija ta’ withholding (għall-għanijiet taż-żewġ taqsimiet 1441 u 1471 tal-Internal Revenue Code tal-Istati Uniti), jew (iii) trust barrani li għażel li jaġixxi bħala trust barrani ta’ withholding (għall-għanijiet taż-żewġ taqsimiet 1441 u 1471 tal- Internal Revenue Code tal-Istati Uniti), iżżomm 30 fil-mija ta’ kull U.S. Source Withholdable Payment lil kull Istituzzjoni Finanzjarja Mhux Parteċipanti; u
 
 e) fil-każ ta’ Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar li mhix deskritta fis-subparagrafu 1(d) ta’ dan l-Artikolu u li tagħmel pagament ta’, jew taġixxi bħala intermedjarju fir-rigward ta’, U.S. Source Withholdable Payment lil Istituzzjoni Finanzjarja Mhux Parteċipanti, l- Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tipprovdi lil kull pagatur immedjat ta’ dak il-U.S. Source Withholdable Payment l-informazzjoni meħtieġa għall-withholding u biex isir l-irrappurtar fir-rigward ta’ dak il-pagament.
 
@@ -403,8 +348,6 @@ Minkejja dak li ntqal qabel, Istituzzjoni Finanzjarja ta’ Malta li fir-rigward
 \4. Identifikazzjoni u Trattament ta’ FFI’s Oħra li Huma Meqjusa Konformi u Sidien Benefiċjarji Eżenti. L-Istati Uniti għandha tittratta kull Istituzzjoni Finanzjarja ta’ Malta ta’ Non-Rappurtar bħala FFI meqjusa konformi jew bħala sid benefiċjarju eżenti, kif xieraq, għall-għanijiet tat-taqsima 1471 tal- Internal Revenue Code tal-Istati Uniti.
 
 \5. Regoli Speċjali Dwar Entitajiet Relatati u Fergħat li Huma Istituzzjonijiet Finanzjarji Mhux Parteċipanti. Kemm-il darba Istituzzjoni Finanzjarja ta’ Malta, li xort’oħra tissodisfa r-rekwiżiti deskritti fil-paragrafu 1 ta’ dan l-Artikolu jew hi deskritta fil-paragrafu 3 jew 4 ta’ dan l-Artikolu, għandha Entità Relatata jew fergħa li taħdem f’ġurisdizzjoni li ma tħallix dik l-Entità Relatata jew fergħa milli tissodisfa r-rekwiżiti ta’ FFI parteċipanti jew FFI li hi meqjusa konformi għall-għanijiet tat-taqsima 1471 tal-Internal Revenue Code tal-Istati Uniti jew għandha Entità Relatata jew fergħa li tkun ittrattata bħala Istituzzjoni Finanzjarja Mhux Parteċipanti unikament minħabba l-iskadenza tar-regola transitorja għall-FFIs "limited" jew fergħat "limited" taħt ir-Regolamenti tat-Teżor tal-Istati Uniti rilevanti, dik l-Istituzzjoni Finanzjarja ta’ Malta għandha tkompli tkun konformi mat-termini ta’ dan il-Ftehim u għandha tkompli tkun ittrattata bħala FFI li hi meqjusa konformi jew sid benefiċjarju eżenti, kif xieraq, għall-għanijiet tat-taqsima 1471 tal-Internal Revenue Code tal-Istati Uniti, sakemm li:
-
-14 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
 
 a) l-Istituzzjoni Finanzjarja ta’ Malta titratta kwalunkwe tali Entità Relatata jew fergħa bħala Istituzzjoni Finanzjarja Mhux Parteċipanti separata għall-għanijiet tar-rekwiżiti kollha ta’ rappurtar u withholding ta’ dan il-Ftehim u kull Entità Relatata jew fergħa bħal dik tidddentifika lilha nnifisha lill-aġenti ta’ withholding bħala Istituzzjoni Finanzjarja Mhux Parteċipanti;
 
@@ -428,9 +371,7 @@ d) l-Istati Uniti m’għandhiex tkun obbligata li tibda tiskambja informazzjoni
 
 **Kollaborazzjoni dwar Konformità u Infurzar**
 
-\1. Żbalji Żgħar u Amministrattivi. Awtorità Kompetenti għandha tavża l- Awtorità Kompetenti tal-Parti l-oħra meta l-Awtorita l-ewwel imsemmija jidhrilha li żbalji amministrattivi jew żbalji oħra żgħar setgħu wasslu għal rappurtar ta’ informazzjoni skorrett jew mhux komplut jew irriżultaw fi ksur ieħor ta’ dan il- (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 15
-
-Ftehim. L-Awtorità Kompetenti ta’ dik il-Parti l-oħra għandha tapplika l-liġi domestika tagħha (inkluż il-penali applikabbli) sabiex tikseb informazzjoni korretta u/jew kompleta jew biex tirrisolvi ksur ieħor ta’ dan il-Ftehim.
+\1. Żbalji Żgħar u Amministrattivi. Awtorità Kompetenti għandha tavża l- Awtorità Kompetenti tal-Parti l-oħra meta l-Awtorita l-ewwel imsemmija jidhrilha li żbalji amministrattivi jew żbalji oħra żgħar setgħu wasslu għal rappurtar ta’ informazzjoni skorrett jew mhux komplut jew irriżultaw fi ksur ieħor ta’ dan il- Ftehim. L-Awtorità Kompetenti ta’ dik il-Parti l-oħra għandha tapplika l-liġi domestika tagħha (inkluż il-penali applikabbli) sabiex tikseb informazzjoni korretta u/jew kompleta jew biex tirrisolvi ksur ieħor ta’ dan il-Ftehim.
 
 \2. Nuqqas ta’ Konformità Sinifikanti.
 
@@ -456,9 +397,7 @@ b) Kemm-il darba, f’każ ta’ Istituzzjoni Finanzjarja ta’ Malta ta’ Rapp
 
 \4. Dokumentazzjoni ta’ Kontijiet Miżmuma fit-30 ta’ Ġunju 2014. Fir-rigward ta’ Kontijiet Rapportabbli miżmuma minn Istituzzjoni Finanzjarja fit-30 ta’ Ġunju 2014:
 
-a) L-Istati Uniti timpenja ruħha li tistabbilixxi, sa l-1 ta’ Jannar 2017, 16 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-għar-rappurtar fir-rigward tal-2017 u s-snin sussesgwenti, regoli li jeħtieġu lill-Istituzzjonijiet Finanzjarji tal-Istati Uniti ta’ Rappurtar li jiksbu u jirrapurtaw il-Malta TIN ta’ kull Detentur ta’ Kont ta’ Kont Rapportabbli ta’ Malta kif meħtieġ skont is-subparagrafu 2(b)((1) tal- Artikolu 2 ta’ dan il-Ftehim; u
+a) L-Istati Uniti timpenja ruħha li tistabbilixxi, sa l-1 ta’ Jannar 2017, għar-rappurtar fir-rigward tal-2017 u s-snin sussesgwenti, regoli li jeħtieġu lill-Istituzzjonijiet Finanzjarji tal-Istati Uniti ta’ Rappurtar li jiksbu u jirrapurtaw il-Malta TIN ta’ kull Detentur ta’ Kont ta’ Kont Rapportabbli ta’ Malta kif meħtieġ skont is-subparagrafu 2(b)((1) tal- Artikolu 2 ta’ dan il-Ftehim; u
 
 b) Malta timpenja ruħha li tistabbilixxi, sa l-1 ta’ Jannar 2017, għar-rappurtar fir-rigward tal-2017 u s-snin sussesgwenti, regoli li jeħtieġu lill-Istituzzjonijiet Finanzjarji ta’ Malta ta’ Rappurtar li jiksbu il-U.S. TIN ta’ kull Persuna Speċifikata tal-Istati Uniti kif meħtieġ skont is-subparagrafu 2(a)((1) tal-Artikolu 2 ta’ dan il-Ftehim.
 
@@ -492,9 +431,7 @@ L-Annessi jiffurmaw parti integrali ma’ dan il-Ftehim.
 
 \2. Kull Parti tista’ tittermina dan il-Ftehim billi tagħti avviż ta’ terminazzjoni bil-miktub lill-Parti l-oħra. Dik it-terminazzjoni għandha tkun effettiva mill-ewwel jum tax-xahar li jaħbat wara li jintemm perjodu ta’ 12 il-xahar wara d-data tal-avviż ta’ terminazzjoni.
 
-\3. Il-Partijiet għandhom, qabel il-31 ta’ Diċembru 2016 jikkonsultaw b’rieda (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 17
-
-tajba biex jemendaw dan il-Ftehim kif meħtieġ sabiex jiġi rifless il-progress fl-impenji stabbiliti fl-Artikolu 6 ta’ dan il-Ftehim.
+\3. Il-Partijiet għandhom, qabel il-31 ta’ Diċembru 2016 jikkonsultaw b’rieda tajba biex jemendaw dan il-Ftehim kif meħtieġ sabiex jiġi rifless il-progress fl-impenji stabbiliti fl-Artikolu 6 ta’ dan il-Ftehim.
 
 B’xiehda ta’ dan, is-sottoskritti, awtorizzati kif imiss biex jagħmlu dan mill- Gvernijiet tagħhom, iffirmaw dan il-Ftehim.
 
@@ -538,9 +475,7 @@ Bla ħsara għas-subparagrafu E(1) tat-taqsima II ta’ dan l-Anness I, kont għ
 
 Sakemm mhux provdut xort’oħra, l-informazzjoni fir-rigward ta’ Kont Rapportabbli tal-Istati Uniti għandha tkun irrapurtata kull sena fis-sena kalendarja li taħbat wara s-sena li l-informazzjoni tirrelata għaliha.
 
-Ċ. Bħala alternattiva għall-proċeduri deskritti f’kull taqsima ta’ dan l-Anness I, 18 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-Malta tista’ tippermetti Istituzzjonijiet Finanzjarji ta’ Malta li jistrieħu fuq il-proċeduri deskritti fir-Regolamenti tat-Teżor tal-Istati Uniti rilevanti biex jistabillixxu jekk kont hu Kont Rapportabbli tal-Istati Uniti jew kont miżmum minn Istituzzjoni Finanzjarja Mhux Parteċipanti. Malta tista’ tippermetti Istituzzjonijiet Finanzjarji ta’ Malta ta’ Rappurtar li jagħmlu dik l-għażla separatament għal kull taqsima ta’ dan l-Anness I jew fir-rigward tal-Kontijiet Finanzjarji rilevanti kollha jew, separatament, fir-rigward ta’ grupp ta’ tali kontijiet identifikat b’mod ċar (bħal linja ta’ negozju jew il-post fejn il-kont ikun miżmum).
+Ċ. Bħala alternattiva għall-proċeduri deskritti f’kull taqsima ta’ dan l-Anness I, Malta tista’ tippermetti Istituzzjonijiet Finanzjarji ta’ Malta li jistrieħu fuq il-proċeduri deskritti fir-Regolamenti tat-Teżor tal-Istati Uniti rilevanti biex jistabillixxu jekk kont hu Kont Rapportabbli tal-Istati Uniti jew kont miżmum minn Istituzzjoni Finanzjarja Mhux Parteċipanti. Malta tista’ tippermetti Istituzzjonijiet Finanzjarji ta’ Malta ta’ Rappurtar li jagħmlu dik l-għażla separatament għal kull taqsima ta’ dan l-Anness I jew fir-rigward tal-Kontijiet Finanzjarji rilevanti kollha jew, separatament, fir-rigward ta’ grupp ta’ tali kontijiet identifikat b’mod ċar (bħal linja ta’ negozju jew il-post fejn il-kont ikun miżmum).
 
 II. Kontijiet Individwali Pre-eżistenti. Ir-regoli u l-proċeduri li ġejjin japplikaw għall-għanijiet li jiġu identifikati Kontijiet Rapportabbli tal-Istati Uniti fost Kontijiet Pre-eżistenti miżmuma minn individwi ("Kontijiet Individwali Pre-eżistenti").
 
@@ -561,8 +496,6 @@ B. Proċeduri ta’ Reviżjoni Dwar Kontijiet Individwali Pre-eżistenti b’Bil
 a) Identifikazzjoni tad-Detentur tal-Kont bħala ċittadin jew residenti tal-Istati Uniti;
 
 b) Indikazzjoni li mhix ambigwa ta’ post tat-twelid fl-Istati Uniti; ċ) Indirizz kurrenti tal-posta jew ta’ residenza fl-Istati Uniti (inkluż kaxxa postali tal-Istati Uniti);
-
-(STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 19
 
 d) Numru kurrenti tat-telefon fl-Istati Uniti;
 
@@ -596,11 +529,7 @@ a) Meta l-informazzjoni dwar id-Detentur tal-Kont tindika mingħajr ambigwità p
 
 (b) Ir-raġuni għala d-Detentur tal-Kont ma kisibx ċittadinanza tal-Istati Uniti mat-twelid.
 
-b) Meta l-informazzjoni dwar id-Detentur tal-Kont ikun fiha indirizz postali jew residenzjali attwali fl-Istati Uniti, jew numru tat-telefon jew aktar tal-Istati Uniti li jkunu l-uniċi numri assoċjati [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-mal-kont, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tikseb, jew qabel tkun irrevediet u iżżomm rekord ta’:
-
-*20*
+b) Meta l-informazzjoni dwar id-Detentur tal-Kont ikun fiha indirizz postali jew residenzjali attwali fl-Istati Uniti, jew numru tat-telefon jew aktar tal-Istati Uniti li jkunu l-uniċi numri assoċjati mal-kont, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tikseb, jew qabel tkun irrevediet u iżżomm rekord ta’:
 
 (1) Awto-ċertifikazzjoni li d-Detentur tal-Kont la hu ċittadin tal-Istati Uniti u lanqas residenti tal-Istati Uniti għall-għanijiet tat-taxxa (li tista’ issir fuq il-formola tal-IRS W-8 jew xi formola oħra simili miftiehma);
 
@@ -628,11 +557,9 @@ Reviżjoni ta’ Kontijiet Individwali Pre-eżistenti li huma Kontijiet b’Valu
 
 *\2.*
 
-Kemm-il darba jkun hemm tibdil fiċ-ċirkustanzi fir-rigward ta’ Kont Individwali Pre-eżistenti li hu Kont b’Valur Baxx li jirriżulta f’wieħed jew aktar indizji tal-Istati Uniti deskritti fis-subparagrafu B(1) ta’ din it-taqsima li jkun assoċjat mal-kont, allura l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha titratta l-kont bħala Kont Rapportabbli tal- Istati Uniti sakemm ma japplikax s-subparagrafu B(4) ta’ din it-taqsima. Ħlief għal Kontijiet Depożitarji deskritti fis-subparagrafu A(4) ta’ din it-taqsima, kull Kont Individwali Pre-eżistenti li jkun ġie identifikat bħala Kont Rapportabbli tal-Istati Uniti taħt din it-taqsima għandu jiġi (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 21
+Kemm-il darba jkun hemm tibdil fiċ-ċirkustanzi fir-rigward ta’ Kont Individwali Pre-eżistenti li hu Kont b’Valur Baxx li jirriżulta f’wieħed jew aktar indizji tal-Istati Uniti deskritti fis-subparagrafu B(1) ta’ din it-taqsima li jkun assoċjat mal-kont, allura l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha titratta l-kont bħala Kont Rapportabbli tal- Istati Uniti sakemm ma japplikax s-subparagrafu B(4) ta’ din it-taqsima. Ħlief għal Kontijiet Depożitarji deskritti fis-subparagrafu A(4) ta’ din it-taqsima, kull Kont Individwali Pre-eżistenti li jkun ġie identifikat bħala Kont Rapportabbli tal-Istati Uniti taħt din it-taqsima għandu jiġi itrattat bħala Kont Rapportabbli tal-Istati Uniti għas-snin kollha sussegwenti, sakemm id-Detentur tal-Kont ma jibqax Persuna Speċifikata tal-Istati Uniti.
 
 *\3.*
-
-itrattat bħala Kont Rapportabbli tal-Istati Uniti għas-snin kollha sussegwenti, sakemm id-Detentur tal-Kont ma jibqax Persuna Speċifikata tal-Istati Uniti.
 
 *D.*
 
@@ -664,8 +591,6 @@ a) L-istatus ta’ nazzjonalità jew residenza tad-Detentur tal-Kont; b) L-indir
 
 d) Meta jkun hemm istruzzjonijiet permanenti sabiex jiġu ttrasferiti fondi fil-kont għall-kont ieħor (inkluż kont f’fergħa oħra tal- Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar jew Istituzzjoni Finanzjarja oħra);
 
-22 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
 e) Jekk hemm indirizz "in-care-of" jew "hold mail" attwali għad- Detentur tal-Kont; u
 
 f) Jekk hemm xi prokura jew awtorità għall-firmatarju għall-kont. 4. Inkjesta ta’ Maniġer ta’ Relazzjoni Għal Tagħrif Attwali. B’żieda mat-tfittxijiet ta’ rekords elettroniċi u fuq il-karta deskritti hawn fuq, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha titratta bħala Kont Rapportabbli tal- Istati Uniti kull Kont b’Valur Għoli assenjat lill-maniġer ta’ relazzjoni (inkluż kull Kont Finanzjarju aggregat ma’ tali Kont b’Valur Għoli) kemm-il darba l-maniġer ta’ relazzjoni għandu tagħrif attwali li d-Detentur tal-Kont jkun Persuna Speċifikata tal- Istati Uniti.
@@ -682,9 +607,7 @@ E. Proċeduri Addizzjonali Applikabbli għall-Kontijiet b’Valur Għoli.
 
 \1. Kemm-il darba Kont Individwali Pre-eżistenti jkun Kont b’Valur Għoli fit-30 ta’ Ġunju 2014, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tlesti l-proċeduri ta’ reviżjoni mtejba deskritti fil-paragrafu D ta’ din it-taqsima fir-rigward ta’ dak il-kont sat-30 ta’ Ġunju 2015. Kemm-il darba li bbażat fuq din ir-reviżjoni dak il-kont jiġi identifikat bħala Kont Rapportabbli tal-Istati Uniti fi jew qabel il-31 ta’ Diċembru 2014, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tirrapporta l-informazzjoni meħtieġa dwar dak il-kont fir-rigward tal- 2014 fl-ewwel rapport dwar il-kont u fuq bażi annwali wara.
 
-\2. Kemm-il darba Kont Indivdwali Pre-eżistenti ma jkunx Kont b’Valur Għoli fit-30 ta’ Ġunju 2014, iżda jsir Kont b’Valur Għoli sal-aħħar jum tal-2015 jew kull sena kalendarja sussegwenti, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tlesti l-proċeduri ta’ reviżjoni mtejba deskritti fil-paragrafu D ta’ din it-taqsima fir-rigward ta’ dak il-kont fi żmien sitt xhur wara l-aħħar jum tas-sena kalendarja li fiha l-kont isir Kont b’Valur Għoli. Kemm-il darba li bbażat fuq din ir-reviżjoni dak il- (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 23
-
-kont jiġi identifikat bħala Kont Rapportabbli tal-Istati Uniti, l- Istituzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tirrapporta l-informazzjoni meħtieġa dwar dak il-kont fir-rigward tas-sena li fiha jiġi identifikat bħala Kont Rapportabbli tal-Istati Uniti u fis-snin sussegwenti fuq bażi annwali, sakemm id-Detentur tal-Kont ma jibqax jkun Persuna Speċifikata tal-Istati Uniti.
+\2. Kemm-il darba Kont Indivdwali Pre-eżistenti ma jkunx Kont b’Valur Għoli fit-30 ta’ Ġunju 2014, iżda jsir Kont b’Valur Għoli sal-aħħar jum tal-2015 jew kull sena kalendarja sussegwenti, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tlesti l-proċeduri ta’ reviżjoni mtejba deskritti fil-paragrafu D ta’ din it-taqsima fir-rigward ta’ dak il-kont fi żmien sitt xhur wara l-aħħar jum tas-sena kalendarja li fiha l-kont isir Kont b’Valur Għoli. Kemm-il darba li bbażat fuq din ir-reviżjoni dak il-kont jiġi identifikat bħala Kont Rapportabbli tal-Istati Uniti, l- Istituzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tirrapporta l-informazzjoni meħtieġa dwar dak il-kont fir-rigward tas-sena li fiha jiġi identifikat bħala Kont Rapportabbli tal-Istati Uniti u fis-snin sussegwenti fuq bażi annwali, sakemm id-Detentur tal-Kont ma jibqax jkun Persuna Speċifikata tal-Istati Uniti.
 
 \3. Ladarba l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tapplika l-proċeduri ta’ reviżjoni mtejba deskritti fil-paragrafu D ta’ din it-taqsima għall-Kont b’Valur Għoli, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar ma tkunx meħtieġa ti terġa’ tapplika dawk il-proċeduri, ħlief l-inkjesta tal-maniġer ta’ relazzjoni deskritta fis-subparagrafu D(4) ta’ din it-taqsima, lill-istess Kont b’Valur Għoli f’kull sena sussegwenti. 4. Kemm-il darba jkun hemm tibdil fiċ-ċirkustanzi fir-rigward ta’ Kont b’Valur Għoli li jirriżulta f’wieħed jew aktar mill-indizji tal-Istati Uniti deskritti fis-subparagrafu B(1) ta’ din it-taqsima li jkun assoċjat mal-kont, allura l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tittratta l-kont bħala Kont Rapportabbli tal-Istati Uniti sakemm ma tagħżilx li tapplika s-subparagrafu B(4) ta’ din it-taqsima u waħda mill-eċċezzjonijiet f’dak is-subparagrafu tkun tapplika fir-rigward ta’ dak il-kont.
 
@@ -698,9 +621,7 @@ III. Kontijiet Individwali Ġodda. Ir-regoli u l-proċeduri li ġejjin japplikaw
 
 A. Kontijiet li Mhux Meħtieġa li Jiġu Riveduti, Identifikati, jew Irrapurtati. Sakemm l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar ma tagħżilx xort’oħra fir-rigward tal-Kontijiet Individwali Ġodda kollha, jew separatament, fir-rigward ta’ xi grupp ta’ tali kontijiet identifikat b’mod ċar, meta r-regoli li jimplimentaw f’Malta jipprovdu għal tali għażla, il-Kontijiet Individwali Ġodda li ġejjin ma jkunux meħtieġa li jiġu rreveduti, identifikati, jew irrapurtati bħala Kontijiet Rapportabbli tal-Istati Uniti:
 
-\1. Kont Depożitarju sakemm il-bilanċ tal-kont ma jeċċedix $50,000 fl- 24 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-aħħar ta’ xi sena kalendarja jew perjodu ieħor xieraq ta’ rappurtar.
+\1. Kont Depożitarju sakemm il-bilanċ tal-kont ma jeċċedix $50,000 fl-aħħar ta’ xi sena kalendarja jew perjodu ieħor xieraq ta’ rappurtar.
 
 \2. Kuntratt ta’ Assigurazzjoni b’Valur fi Flus sakemm il-Valur fi Flus ma jeċċedix $50,000 fl-aħħar ta’ xi sena kalendarja jew perjodu ieħor xieraq ta’ rappurtar.
 
@@ -714,9 +635,7 @@ IV. Kontijiet Pre-eżistenti ta’ Entità. Ir-regoli u l-proċeduri li ġejjin 
 
 A. Kontijiet ta’ Entità li Mhux Meħtieġa li Jiġu Riveduti, Identifikati, jew Irrapurtati. Sakemm l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar ma tagħżilx xort’oħra, fir-rigward tal-Kontijiet Pre-eżistenti ta’ Entità kollha, jew separatament, fir-rigward ta’ xi grupp ta’ tali kontijiet identifikat b’mod ċar, meta r-regoli li jimplimentaw f’Malta jipprovdu għal tali għażla, Kont Pre-eżistenti ta’ Entità b’bilanċ ta’ kont jew b’valur li ma jeċċedix $250,000 fit-30 ta’ Ġunju 2014, ma jkunx meħtieġ li jkun rivedut, identifikat, jew irrapurtat bħala Kont rapportabbli tal- Istati Uniti sa ma l-bilanċ tal-kont jew valur jeċċedi $1,000,000.
 
-B. Kontijiet ta’ Entità Soġġetti Għal Reviżjoni. Kont Pre-eżistenti ta’ Entità li għandu bilanċ ta’ kont jew valur li jeċċedi $250,000 fit-30 ta’ Ġunju 2014, u Kont Pre-eżistenti ta’ Entità li ma jeċċedix $250,000 fit-30 ta’ Ġunju 2014, iżda li l-bilanċ tal-kont jew il-valur tiegħu jeċċedi $1,000,00 fl-aħħar jum tal-2015 jew kull sena (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 25
-
-kalendarja sussegwenti, għandu jkun rivedut, skont il-proċeduri stabbiliti fil-paragrafu D ta’ din it-taqsima.
+B. Kontijiet ta’ Entità Soġġetti Għal Reviżjoni. Kont Pre-eżistenti ta’ Entità li għandu bilanċ ta’ kont jew valur li jeċċedi $250,000 fit-30 ta’ Ġunju 2014, u Kont Pre-eżistenti ta’ Entità li ma jeċċedix $250,000 fit-30 ta’ Ġunju 2014, iżda li l-bilanċ tal-kont jew il-valur tiegħu jeċċedi $1,000,00 fl-aħħar jum tal-2015 jew kull sena kalendarja sussegwenti, għandu jkun rivedut, skont il-proċeduri stabbiliti fil-paragrafu D ta’ din it-taqsima.
 
 Ċ. Kontijiet ta’ Entità li fir-Rigward Tagħhom Hu Meħtieġ Rappurtar. Fir-rigward ta’ Kontijiet Pre-eżistenti ta’ Entità deskritti fil-paragrafu B ta’ din it-taqsima, kontijiet biss li huma miżmuma minn waħda jew aktar Entitajiet li huma Persuni Speċifikati tal-Istati Uniti, jew minn NFFEs Passivi b’wieħed jew aktar Persuni li Jikkontrollaw li huma ċittadini jew residenti tal-Istati Uniti, għandhom ikunu ttrattati bħala Kontijiet Rapportabbli tal-Istati Uniti, Minbarra dan, kontijiet miżmuma minn Istituzzjonijiet Finanzjarji Mhux Parteċipanti għandhom ikunu ttrattati bħala kontijiet li dwarhom pagamenti aggregati kif deskritti fis-subparagrafu 1(b) tal-Artikolu 4 tal-Ftehim jkunu rrapurtati lill-Kummissarju tat-Taxxi ta’ Malta. D. Proċeduri ta’ Reviżjoni Sabiex Jiġu Identifikati Kontijiet ta’ Entità li fir-Rigward Tagħhom Hu Meħtieġ Rappurtar. Dwar Kontijiet Pre-eżistenti ta’ Entità deskritti fil-paragrafu B ta’ din it-taqsima, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tapplika l-proċeduri ta’ reviżjoni li ġejjin sabiex tistabbilixxi jekk il-kont hu miżmum minn wieħed jew aktar Persuni Speċifikati tal-Istati Uniti, minn NFFEs Passivi b’wieħed jew aktar Persuni li Jikkontrollaw li huma ċittadini jew residenti tal-Istati Uniti, jew minn Istituzzjonijiet Finanzjarji:
 
@@ -732,11 +651,7 @@ a) Informazzjoni ta’ Reviżjoni miżmuma għall-għanijiet regolatorji jew ta�
 
 b) Kemm-il darba l-informazzjoni tindika li d-Detentur tal-Kont hu Istituzzjoni Finanzjarja, jew l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tivverifika li n-Numru ta’ Identifikazjoni ta’ Intermedjarju Globali tad-Detentur tal-Kont fuq il-lista ppublikata IRS FFI, allura l-kont ma jkunx Kont Rapportabbli tal- Istati Uniti.
 
-\3. Tistabilixxi Jekk Istituzzjoni Finanzjarja Hijiex Istituzzjoni [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-Finanzjarja Mhux Parteċipanti li pagamenti li Jsiru Lilha Huma Soġġetti Għal Rappurtar Aggregat taħt is-Subparagrafu 1(b) tal- Artikolu 4 tal-Ftehim.
-
-*26*
+\3. Tistabilixxi Jekk Istituzzjoni Finanzjarja Hijiex Istituzzjoni Finanzjarja Mhux Parteċipanti li pagamenti li Jsiru Lilha Huma Soġġetti Għal Rappurtar Aggregat taħt is-Subparagrafu 1(b) tal- Artikolu 4 tal-Ftehim.
 
 a) Bla ħsara għas-subparagrafu D(3)(b) ta’ din it-taqsima, Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tista’ tistabbilixxi li d-Detentur tal-Kont hu Istituzzjoni Finanzjarja ta’ Malta jew Istituzzjoni Finanzjarja ta’ Ġurisdizzjoni Sieħba oħra kemm-il darba l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tistabbilixxi raġonevolment li d-Detentur tal-Kont għandu tali status fuq il-bażi tan-Numru ta’ Identifikazjoni ta’ Intermedjarju Globali tad-Detentur tal-Kont fuq il-lista ppublikata IRS FFI jew informazzjoni oħra li tkun disponibbli għall-pubbliku jew fil-pussess tal-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar, skont ma japplika. F’dak il-każ, l-ebda revizjoni, identifikazzjoni, jew rappurtar ma jkun meħtieġ fir-rigward tal-kont.
 
@@ -752,9 +667,7 @@ b) Kemm-il darba d-Detentur tal-Kont jkun Istituzzjoni Finanzjarja ta’ Malta j
 
 Tistabillixxi Jekk Kont Miżmum minn NFEE Huwiex Kont Rapportabbli tal-Istati Uniti. Fir-rigward ta’ Detentur ta’ Kont ta Kont Pre-eżistenti ta’ Entità li ma tkunx identifikata bħala Persuna tal- Istati Uniti jew bħala Istituzzjoni Finanzjarja, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tidentifika (i) jekk id-Detentur tal-Kont għandux Persuni li Jikkontrollaw, (ii) jekk id-Detentur tal-Kont huwiex NFFE Passiv, u (iii) jekk xi ħadd mill-Persuni li Jikkontrollaw tad- Detentur tal-Kont huwiex ċittadin jew residenti tal-Istati Uniti. Sabiex tistabbilixxi dan l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha issegwi l-gwida fis-subparagrafi D(4)(a) sa D(4)(d) ta’ din it-taqsima fl-ordni l-aktar xierqa fiċ-ċirkustanzi.
 
-a) Bil-għan li tistabbilixxi l-Persuni li Jikkontrollaw ta’ Detentur ta’ Kont, Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tista’ toqgħod fuq l-informazzjoni miġbura u miżmuma skont il- (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 27
-
-Proċeduri ta’ AML/KYC.
+a) Bil-għan li tistabbilixxi l-Persuni li Jikkontrollaw ta’ Detentur ta’ Kont, Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tista’ toqgħod fuq l-informazzjoni miġbura u miżmuma skont il- Proċeduri ta’ AML/KYC.
 
 b) Bil-għan li tistabbilixxi jekk Detentur ta’ Kont huwiex NFFE Passiv, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tikseb awto-ċertifikazzjoni (li tista’ tkun fuq il-Formola tal-IRS W-8 jew W-9, jew fuq formola simili miftiehma) mid-Detentur tal-Kont sabiex tistabbilixxi l-istatus tiegħu, sakemm m’għandhiex informazzjoni fil-pussess tagħha jew li hi disponibbli għall-pubbliku, li jekk tibbaża fuqha tista’ tistabbilixxi raġonevolment li d-Detentur tal-Kont huwa NFFE Attiv.
 
@@ -780,11 +693,7 @@ Kontijiet Ġodda ta’ Entità. Ir-regoli u proċeduri li ġejjin japplikaw għa
 
 *A.*
 
-Kontijiet ta’ Entità Mhux Meħtieġa li Jiġu Riveduti, Identifikati [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-jew Irrappurtati. Sakemm l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar ma tagħżilx xort’oħra, jew fir-rigward il-Kontijiet Ġodda ta’ Entità kollha jew, separatament, fir-rigward ta’ grupp ta’ tali kontijiet identifikat b’mod ċar, meta r-regoli li jimplimentaw f’Malta jipprovdu għal tali għażla, kont ta’ karta ta’ kreditu jew faċilità ta’ kreditu li jdur li jkun ittrattat bħala Kont Ġdid ta’ Entità ma jkunx meħtieġ li jiġi rivedut, identifikat, jew irrapurtat, sakemm li l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar li tkun qed iżżomm dak il-kont timplimenta politika u proċeduri li jipprevjenu li l-bilanc tal-kont dovut lid-Detentur tal-Kont jeċċedi $50,000.
-
-*28*
+Kontijiet ta’ Entità Mhux Meħtieġa li Jiġu Riveduti, Identifikati jew Irrappurtati. Sakemm l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar ma tagħżilx xort’oħra, jew fir-rigward il-Kontijiet Ġodda ta’ Entità kollha jew, separatament, fir-rigward ta’ grupp ta’ tali kontijiet identifikat b’mod ċar, meta r-regoli li jimplimentaw f’Malta jipprovdu għal tali għażla, kont ta’ karta ta’ kreditu jew faċilità ta’ kreditu li jdur li jkun ittrattat bħala Kont Ġdid ta’ Entità ma jkunx meħtieġ li jiġi rivedut, identifikat, jew irrapurtat, sakemm li l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar li tkun qed iżżomm dak il-kont timplimenta politika u proċeduri li jipprevjenu li l-bilanc tal-kont dovut lid-Detentur tal-Kont jeċċedi $50,000.
 
 *B.*
 
@@ -798,9 +707,7 @@ Kontijiet Ġodda ta’ Entità Oħra. Fir-rigward ta’ Kontijiet Ġodda ta’ E
 
 a) Kemm-il darba d-Detentur tal-Kont jkun Persuna Speċifikata tal-Istati Uniti, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tittratta l-kont bħala Kont Rapportabbli tal-Istati Uniti.
 
-b) Kemm-il darba d-Detentur tal-Kont jkun NFFE Passiv, l- Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tidentifika l-Persuni li Jikkontrollaw kif stabbilit taħt il- Proċeduri ta’ AML/KYC, u għandha tistabbilixxi jekk xi tali persuna hu ċittadin jew residenti tal-Istati Uniti fuq il-bażi ta’ awto-ċertifkazzjoni mid-Detentur tal-Kont jew tali persuna. Kemm-il darba xi tali persuna jkun ċittadin jew residenti tal-Istati Uniti, l-Istituzzjoni Finanzjarja ta’ Malta (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 29
-
-ta’ Rappurtar għandha tittratta l-kont bħala Kont Rapportabbli tal-Istati Uniti.
+b) Kemm-il darba d-Detentur tal-Kont jkun NFFE Passiv, l- Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tidentifika l-Persuni li Jikkontrollaw kif stabbilit taħt il- Proċeduri ta’ AML/KYC, u għandha tistabbilixxi jekk xi tali persuna hu ċittadin jew residenti tal-Istati Uniti fuq il-bażi ta’ awto-ċertifkazzjoni mid-Detentur tal-Kont jew tali persuna. Kemm-il darba xi tali persuna jkun ċittadin jew residenti tal-Istati Uniti, l-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tittratta l-kont bħala Kont Rapportabbli tal-Istati Uniti.
 
 ċ) Kemm-il darba d-Detentur tal-Kont jkun: (i) Persuna tal- Istati Uniti li mhux Persuna Speċifikata tal-Istati Uniti; (ii) bla ħsara għas-subparagrafu B(3) (d) ta’ din it-taqsima, Istituzzjoni Finanzjarja ta’ Malta jew Istituzzjoni Finanzjarja ta’ Ġurisdizzjoni Sieħba; (iii) FFI Parteċipanti, FFI meqjusa konformi, jew sid benefiċjarju eżenti, kif dawk it-termini huma mfissra fir-Regolamenti tat-Teżor tal- Istati Uniti rilevanti; (iv) NFFE Attiva; jew (v) NFFE Passiva li l-ebda wieħed mill-Persuni li Jikkontollaw tagħha ma hu ċittadin jew residenti tal-Istati Uniti, allura l-kont ma jkunx Kont Rapportabbli tal-Istati Uniti, u l-ebda rappurtar ma hu meħtieġ fir-rigward tal-kont.
 
@@ -822,11 +729,7 @@ Tifsiriet. It-tifsiriet li ġejjin japplikaw għall-għanijiet tal-Anness I.
 
 \4. NFFE Attiva. "NFFE Attiva" tfisser kull NFFE li tissodisfa xi waħda mill-kriterji li ġejjin:
 
-a) Inqas minn 50 fil-mija tal-income gross tal-NFFE għas-sena kalendarja ta’ qabel jew perjodu xieraq ta’ rappurtar ieħor (STATI UNITI TAL-AMERIKA) (FATCA)
-
-jkun income passiv u inqas minn 50 fil-mija tal-assi miżmuma mill-NFFE matul is-sena kalendarja ta’ qabel jew perjodu xieraq ta’ rappurtar ieħor jkunu assi li jippoduċu jew li jkunu miżmuma għall-produzzjoni ta’ income passiv;
-
-*[L.S.123.156 30*
+a) Inqas minn 50 fil-mija tal-income gross tal-NFFE għas-sena kalendarja ta’ qabel jew perjodu xieraq ta’ rappurtar ieħor jkun income passiv u inqas minn 50 fil-mija tal-assi miżmuma mill-NFFE matul is-sena kalendarja ta’ qabel jew perjodu xieraq ta’ rappurtar ieħor jkunu assi li jippoduċu jew li jkunu miżmuma għall-produzzjoni ta’ income passiv;
 
 *b)*
 
@@ -864,8 +767,6 @@ L-NFFE tkun "excepted NFFE" kif deskritta fir- Regolamenti tat-Teżor tal-Istati
 
 L-NFFE tkun tissodisfa r-rekwiżiti kollha li ġejjin:
 
-(STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 31
-
 i. Tkun stabbilita u mmexxija esklussivament fil-ġurisdizzjoni tagħha ta’ residenza għall-għanijiet reliġjużi, xjentifiċi, artistiċi, kulturali, atletiċi jew edukattivi; jew tkun stabbilita u mmexxija fil-ġurisdizzjoni tagħha ta’ residenza u tkun organizzazzjoni professjonali, assoċjazzjoni ta’ negozju, kamra tal-kummerċ, organizzazzjoni ta’ ħaddiema, organizzazzjoni agrikulturali jew ortikulturali, assoċjazzjoni ċivika jew organizzazzjoni mmexxija esklussivament għall-promozzjoni ta’ benesseri soċjali;
 
 ii. Tkun eżenti mit-taxxa fuq l-income fil-ġurisdizzjoni tagħha ta’ residenza;
@@ -883,10 +784,6 @@ Kont Pre-eżistenti. "Kont Pre-eżistenti" tfisser Kont Finanzjarju miżmum minn
 *Ċ. 1.*
 
 Aggregazzjoni ta’ Bilanċ ta’ Kont u Regoli Għall-Qlib ta’ Munita. Aggregazzjoni ta’ Kontijiet Individwali. Għall-għanijiet biex tistabillixxi l-bilanċ jew valur aggregat ta’ Kontijiet Finanzjarji miżmuma minn individwu, Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar hi meħtieġa li tiġbor flimkien il-Kontijiet Finanzjarji kollha miżmuma mill-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar, jew minn Entità Relatata, iżda biss sakemm li s-sistemi ta’ komputerizzazzjoni tal-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar jorbtu l-Kontijiet Finanzjarji b’riferenza għall-element ta’ data bħal numru ta’ klijent jew numru ta’ identifikazzjoni ta’ kontribwent, u jippermettu li l-bilanċi jew valuri tal-kontijiet jiġu aggregati. Kull detentur ta’ Kont Finanzjarju miżmum bi sħab għandu jkun attribwit bil-bilanċ jew valur sħiħ tal-Kont Finanzjarju miżmum bi sħab għall-għanijiet biex jiġu applikati r-rekwiżiti ta aggregazzjoni deskritt fil-paragrafu 1.
-
-*32*
-
-[L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
 
 *\2.*
 
@@ -920,8 +817,6 @@ Fir-rigward ta’ Entità, kull dokumentazzjoni uffiċjali maħruġa minn korp g
 
 Fir-rigward ta’ Kont Finanzjarju miżmum f’ġurisdizzjoni li għandha regoli kontra l-ħasil ta’ flus li kienu approvati mill-IRS b’konnessjoni ma’ ftehim ta’ QI (kif deskritt fir-Regolamenti tat- Teżor tal-Istati Uniti rilevanti), xi wieħed mid-dokumenti, ħlief il- Formola W-8 jew W-9, li riferenza għalihom tinsab fl-attachment tal-ġurisdizzjoni għall-ftehim ta’ QI sabiex jiġu identifikati individwi jew entitajiet.
 
-(STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 33
-
 ## 5.
 
 Kull dikjarazzjoni finanzjarja, rapport dwar kreditu ta’ parti terza, rikors dwar falliment, jew rapport tal-U.S. Securities and Exchange Commission.
@@ -942,9 +837,7 @@ ANNESS II
 
 L-Entitajiet li ġejjin huma ttrattati bħala sidien benefiċjarji eżenti jew FFIs meqjusa konformi, skont kif ikun il-każ, u l-kontijiet li ġejjin huma esklużi mit-tifsira ta’ Kontijiet Finanzjarji.
 
-Dan l-Anness II jista’ jiġi mibdul permezz ta’ ftehim reċiproku magħmul bejn l- 34 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-Awtoritajiet Kompetenti ta’ Malta u l-Istati Uniti: (1) biex jinkludi Entitajiet addizzjonali u kontijiet li jippreżentaw riskju baxx li jkunu użati minn Persuni tal- Istati Uniti biex jevadu t-taxxa tal-Istati Uniti u li għandhom karetteristiċi simili għall-Entitajiet u kontijiet deskritti f’dan l-Anness II filwaqt tad-data tal-iffirmar tal- Ftehim; jew (2) biex jitneħħew Entitajiet u kontijiet li, minħabba tibdil fiċ-ċirkostanzi, ma jippreżentawx aktar riskju baxx li jkunu użati minn Persuni tal-Istati Uniti biex jevadu t-taxxa tal-Istati Uniti. Kull tali żieda jew tneħħija għandha tkun effettiva fid-data tal-iffirmar tal-ftehim reċiproku, sakemm ma jkunx provdut xort’oħra fih. Il-proċeduri sabiex jintlaħaq dak il-ftehim reċiproku jistgħu jiġu inklużi fil-ftehim reċiproku deskritt fil-paragrafu 6 tal-Artikolu 3 tal-Ftehim.
+Dan l-Anness II jista’ jiġi mibdul permezz ta’ ftehim reċiproku magħmul bejn l- Awtoritajiet Kompetenti ta’ Malta u l-Istati Uniti: (1) biex jinkludi Entitajiet addizzjonali u kontijiet li jippreżentaw riskju baxx li jkunu użati minn Persuni tal- Istati Uniti biex jevadu t-taxxa tal-Istati Uniti u li għandhom karetteristiċi simili għall-Entitajiet u kontijiet deskritti f’dan l-Anness II filwaqt tad-data tal-iffirmar tal- Ftehim; jew (2) biex jitneħħew Entitajiet u kontijiet li, minħabba tibdil fiċ-ċirkostanzi, ma jippreżentawx aktar riskju baxx li jkunu użati minn Persuni tal-Istati Uniti biex jevadu t-taxxa tal-Istati Uniti. Kull tali żieda jew tneħħija għandha tkun effettiva fid-data tal-iffirmar tal-ftehim reċiproku, sakemm ma jkunx provdut xort’oħra fih. Il-proċeduri sabiex jintlaħaq dak il-ftehim reċiproku jistgħu jiġu inklużi fil-ftehim reċiproku deskritt fil-paragrafu 6 tal-Artikolu 3 tal-Ftehim.
 
 \1. Sidien Benefiċjarji Eżenti Ħlief Għall-Fondi. L-Entitajiet li ġejjin huma ttrattati bħala Istituzzjonijiet Finanzjarji ta’ Malta ta’ Rappurtar u bħala sidien benefiċjarji eżenti għall-għanijiet tat-taqsimiet 1471 u 1472 tal-U.S. Internal Revenue Code, ħlief għar-rigward ta’ pagament li jinkiseb minn obbligu miżmum b’konnessjoni ma’ attività finanzjarja kummerċjali tat-tip li ssir minn Kumpannija ta’ Assigurazzjoni Speċifikata, Istituzzjoni ta’ Kustodja, jew Istituzzjoni Depożitarja.
 
@@ -960,9 +853,7 @@ b) Il-qligħ nett tal-Entità jiġi kkreditat lill-kont tagħha stess jew lill-k
 
 ċ) L-assi tal-Entità jiġu fil-pussess ta’ waħda jew aktar Entitajiet Governativi ta’ Malta max-xoljiment.
 
-\3. Income ma jmurx għall-benefiċċju ta’ persuni privati kemm-il darba dawk il-persuni jkunu l-benefiċjarji intiżi ta’ programm governattiv, u l-attivitajiet tal-programm jiġu mwettqa għall-pubbliku ġenerali rigward il-benesseri komuni jew ikollhom x’jaqsmu mal-amministrazzjoni ta’ xi fażi ta’ gvern. Minkejja dak li ntqal qabel, madankollu, income ikun ikkunsidrat li jmur għall- (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 35
-
-benefiċċju ta’ persuni privati kemm-il darba l-income jinkiseb mill-użu ta’ entità governattiva biex jitmexxa negozju kummerċjali, bħal negozju bankarju kummerċjali, li jipprovdi servizzi finanzjarji lill-persuni privati.
+\3. Income ma jmurx għall-benefiċċju ta’ persuni privati kemm-il darba dawk il-persuni jkunu l-benefiċjarji intiżi ta’ programm governattiv, u l-attivitajiet tal-programm jiġu mwettqa għall-pubbliku ġenerali rigward il-benesseri komuni jew ikollhom x’jaqsmu mal-amministrazzjoni ta’ xi fażi ta’ gvern. Minkejja dak li ntqal qabel, madankollu, income ikun ikkunsidrat li jmur għall-benefiċċju ta’ persuni privati kemm-il darba l-income jinkiseb mill-użu ta’ entità governattiva biex jitmexxa negozju kummerċjali, bħal negozju bankarju kummerċjali, li jipprovdi servizzi finanzjarji lill-persuni privati.
 
 *B.*
 
@@ -994,11 +885,7 @@ a) Il-fond ikun ġeneralment eżenti mit-taxxa f’Malta fuq l-income minn inves
 
 b) Il-fond jirċievi mill-inqas 50 fil-mija tal-kontribuzzjonijiet totali (ħlief mit-trasferimenti ta’ assi minn pjanijiet oħra deskritti fil-paragrafi A sa D ta’ din it-taqsima jew minn kontijiet ta’ irtirar u pensjoni deskritti fis-subparagrafu A(1) ta’ dan l-Anness II) mingħand sponsoring employers.
 
-ċ) Tqassim jew ġbid mill-fond huma permessi biss meta jiġru avvenimenti speċifiċi relatati ma’ irtirar, diżabilità, jew mewt (ħlief għal tqassim rollover lill-fondi oħra ta’ irtirar [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-deskritti fil-paragrafi A sa D ta’ din it-taqsima jew kontijiet ta’ irtirar jew pensjoni deskritti fis-subparagrafu A(1) tat-taqsima V ta’ dan l-Anness II), jew penali tapplika fuq tqassim jew ġbid li jsir qabel dawk l-avvenimenti speċifiċi; jew
-
-*36*
+ċ) Tqassim jew ġbid mill-fond huma permessi biss meta jiġru avvenimenti speċifiċi relatati ma’ irtirar, diżabilità, jew mewt (ħlief għal tqassim rollover lill-fondi oħra ta’ irtirar deskritti fil-paragrafi A sa D ta’ din it-taqsima jew kontijiet ta’ irtirar jew pensjoni deskritti fis-subparagrafu A(1) tat-taqsima V ta’ dan l-Anness II), jew penali tapplika fuq tqassim jew ġbid li jsir qabel dawk l-avvenimenti speċifiċi; jew
 
 d) Kontribuzzjonijiet (ħlief għal ċerti kontrbuzzjonijiet permessi biex jagħmlu tajjeb) minn impjegati lill-fond jkunu limitati b’riferenza għall-income li jinqala’ mill-impjegat jew ma jkunux jistgħu jeċċedu $50,000 fis-sena, billi jiġu applikati r-regoli stabbiliti fl-Anness I għall-aggregazzjoni tal-kont u qlib ta’ munita.
 
@@ -1026,11 +913,9 @@ Fond ta’ Pensjoni ta’ Sid Benefiċjarju Eżenti. Fond stabbilit f’Malta mi
 
 Entità ta’ Investiment li tkun Għalkollox Proprjetà ta’ Sidien Benefiċjarji Eżenti. Entità li tkun Istituzzjoni Finanzjarja ta’ Malta unikament għaliex tkun Entità ta’ Investiment, sakemm li kull detentur dirett ta’ Interess ta’ Ekwità fl-Entità ikun sid benefiċjarju eżenti, u kull detentur dirett ta’ interess ta’ dejn f’tali Entità jew ikun Istituzzjoni Finanzjarja (fir-rigward ta’ self mogħti lil dik l-Entità) jew sid benefiċjarju eżenti.
 
-III. Istituzzjonijiet Finanzjarji Żgħar jew bi Skop Limitat li Jikkwalifikaw bħala FFIs Meqjusa Konformi. L-Istituzzjonijiet Finanzjarji li ġejjin huma Istituzzjonijiet Finanzjarji ta’ Malta ta’ Non-Rappurtar li huma ttrattati bħala FFIs meqjusa konformi għall-għanijiet tat-taqsima 1471 tal-U.S. Internal Revenue Code. Istituzzjonijiet Finanzjarji b’Bażi ta’ Klijenti Lokali. Istituzzjoni (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 37
+III. Istituzzjonijiet Finanzjarji Żgħar jew bi Skop Limitat li Jikkwalifikaw bħala FFIs Meqjusa Konformi. L-Istituzzjonijiet Finanzjarji li ġejjin huma Istituzzjonijiet Finanzjarji ta’ Malta ta’ Non-Rappurtar li huma ttrattati bħala FFIs meqjusa konformi għall-għanijiet tat-taqsima 1471 tal-U.S. Internal Revenue Code. Istituzzjonijiet Finanzjarji b’Bażi ta’ Klijenti Lokali. Istituzzjoni Finanzjarja li tissodisfa r-rekwiżiti li ġejjin:
 
 *A.*
-
-Finanzjarja li tissodisfa r-rekwiżiti li ġejjin:
 
 *\1.*
 
@@ -1058,11 +943,7 @@ Fl-1 ta’ Lulju 2014 jew qabel, l-Istituzzjoni Finanzjarja għandha tibda jkoll
 
 *\7.*
 
-Tali politika u proċeduri għandhom jipprovdu li kemm-il darba xi Kont Finanzjarju miżmum minn Persuna Speċifikata tal-Istati Uniti li ma tkunx residenti ta’ Malta jew minn NFFE Passiva li jkollha Persuni li Jikkontrollaw li huma residenti tal-Istati Uniti jew ċittadini tal-Istati Uniti li mhumiex residenti ta’ Malta jkun identifikat, l-Istituzzjoni Finanzjarja għandha tirrapporta dak il- [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-Kont Finanzjarju kif kien ikun meħtieġ jekk l-Istituzzjoni Finanzjarja kienet Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar (inkluż li tħares r-rekwiżiti ta’ reġistrazzjoni applikabbli fuq il-website dwar reġistrazzjoni tal-IRS FATCA jew tagħlaq dak il- Kont Finanzjarju;
-
-*38*
+Tali politika u proċeduri għandhom jipprovdu li kemm-il darba xi Kont Finanzjarju miżmum minn Persuna Speċifikata tal-Istati Uniti li ma tkunx residenti ta’ Malta jew minn NFFE Passiva li jkollha Persuni li Jikkontrollaw li huma residenti tal-Istati Uniti jew ċittadini tal-Istati Uniti li mhumiex residenti ta’ Malta jkun identifikat, l-Istituzzjoni Finanzjarja għandha tirrapporta dak il- Kont Finanzjarju kif kien ikun meħtieġ jekk l-Istituzzjoni Finanzjarja kienet Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar (inkluż li tħares r-rekwiżiti ta’ reġistrazzjoni applikabbli fuq il-website dwar reġistrazzjoni tal-IRS FATCA jew tagħlaq dak il- Kont Finanzjarju;
 
 ## 8.
 
@@ -1098,9 +979,7 @@ L-Istituzzjoni Finanzjarja ma jkollhiex aktar minn $175 miljun f’assi fuq il-k
 
 *\5.*
 
-Kull Entità Relatata trid tkun inkorporata jew organizzata f’Malta, u kull Entità Relatata li tkun Istituzzjoni Finanzjarja, bl-eċċezzjoni ta’ kull Entità Relatata li tkun fond ta’ irtirar deskritt (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 39
-
-fil-paragrafi A sa D tat-taqsima II ta’ dan l-Anness II jew Istituzzjoni Finanzjarja li jkollha biss kontijiet b’valur baxx deskritti fil-paragrafu Ċ ta’ din it-taqsima, trid tissodisfa r-rekwiżiti stabbiliti f’dan il-paragrafu B.
+Kull Entità Relatata trid tkun inkorporata jew organizzata f’Malta, u kull Entità Relatata li tkun Istituzzjoni Finanzjarja, bl-eċċezzjoni ta’ kull Entità Relatata li tkun fond ta’ irtirar deskritt fil-paragrafi A sa D tat-taqsima II ta’ dan l-Anness II jew Istituzzjoni Finanzjarja li jkollha biss kontijiet b’valur baxx deskritti fil-paragrafu Ċ ta’ din it-taqsima, trid tissodisfa r-rekwiżiti stabbiliti f’dan il-paragrafu B.
 
 Ċ. Istituzzjoni Finanzjarja b’Kontijiet b’Valur Baxx Biss. Istituzzjoni Finanzjarja ta’ Malta li tissodisfa r-rekwiżiti li ġejjin:
 
@@ -1122,9 +1001,7 @@ A. Trustee-Documented Trust. Trust stabbilit taħt il-liġijiet ta’ Malta sake
 
 B. Entità ta’ Investiment Sponsorjata u Korporazzjonijiet Barranin Kontrollati. Istituzzjoni Finanzjarja deskritta fis-subparagrafu B(1) jew B(2) ta’ din it-taqsima li jkollha entità li tisponsorja li tikkonforma mar-rekwiżiti tas-subparagrafu B(3) ta’ din it-taqsima.
 
-\1. Istituzzjoni Finanzjarja tkun Entità ta’ Investiment Sponsorjata kemm-il darba tkun (a) Entità ta’ Investiment stabbilita f’Malta li ma tkunx intermedjarju kwalifikat, soċjetà barranija ta’ 40 [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
-withholding, jew trust barrani ta’ withholding skont ir- Regolamenti tat-Teżor tal-Istati Uniti rilevanti; u (b) Entità tkun ftehmet mal-Istituzzjoni Finanzjarja li taġixxi bħala entità li tisponsorja dik l-Istituzzjoni Finanzjarja.
+\1. Istituzzjoni Finanzjarja tkun Entità ta’ Investiment Sponsorjata kemm-il darba tkun (a) Entità ta’ Investiment stabbilita f’Malta li ma tkunx intermedjarju kwalifikat, soċjetà barranija ta’ withholding, jew trust barrani ta’ withholding skont ir- Regolamenti tat-Teżor tal-Istati Uniti rilevanti; u (b) Entità tkun ftehmet mal-Istituzzjoni Finanzjarja li taġixxi bħala entità li tisponsorja dik l-Istituzzjoni Finanzjarja.
 
 \2. Istituzzjoni Finanzjarja tkun korporazzjoni barranija kontrollata sponsorjata kemm-il darba (a) l-Istituzzjoni Finanzjarja tkun korporazzjoni barranija kontrollata\* organizzata taħt il-liġijiet ta’ Malta li ma tkunx internmedjarju kwalifikat, soċjetà barranija ta’ withholding, jew trust barrani ta’ withholding skont ir- Regolamenti tat-Teżor tal-Istati Uniti rilevanti; (b) l-Istituzzjoni Finanzjarja tkun proprjetà għalkollox, direttament jew indirettament, ta’ Istituzzjoni Finanzjarja tal-Istati Uniti ta’ Rappurtar li taqbel li taġixxi, jew teħtieġ affiljat tal-Istituzzjoni Finanzjarja li jaġixxi, bħala entità ta’ sponsorjar għall-Istituzzjoni Finanzjarja; u (ċ) l-Istituzzjoni Finanzjarja taqsam sistema komuni ta’ ikkuntjar elettronika mal-entità li tisponsorja sabiex tidentifika d-Detenturi tal-Kontijiet u payees tal-Istituzzjoni Finanzjarja u sabiex taċċessa l-informazzjoni kollha ta’ kontijiet u klijenti miżmuma mill-Istituzzjoni Finanzjarja inkluż, iżda mhux limitat għal, informazzjoni dwar identifikar ta’ klijent, dokumentazzjoni dwar klijent, bilanċ ta’ kont, u l-pagamenti kollha magħmula lid-Detentur tal-kont jew payee.
 
@@ -1138,11 +1015,9 @@ b) L-Entità li tisponsorja tkun irreġistrat bħala entità li tisponsorja skon
 
 d) L-Entità li tisponsorja taqbel li twettaq, f’isem l-Istituzzjoni Finanzjarja, ir-rekwiżiti ta’ diliġenza xierqa, withholding, rappurtar, u rekwiżiti oħra li l-Istituzzjoni Finanzjarja kienet tkun meħtieġa li twettaq li kieku kienet Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar;
 
-e) L-entità li tisponsorja tidentifika l-Istituzzjoni Finanzjarja u (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 41
+e) L-entità li tisponsorja tidentifika l-Istituzzjoni Finanzjarja u tinkludi n-numru li jidentifika l-Istituzzjoni Finanzjarja (li jinkiseb billi tissodisfa r-rekwiżiti ta’ reġistrazzjoni applikabbli) fl-irrapurtar li tlesti f’isem l-Istituzzjoni Finanzjarja; u
 
 \* "Korporazzjoni barranija kontrollata" tfisser kull korporazzjoni barranija kemm-il darba aktar minn 50 fil-mija tas-saħħa tal-vot totali kombinat tal-klassijiet kollha tal-ishma ta’ dawk il-korporazzjonijiet intitolati għall-vot, jew li l-valur totali tal-ishma ta’ dawk il-korporazzjonijiet, ikun proprjetà ta’ jew ikun ikkunsidrat li hu proprjetà ta’ "Detenturi ta’ Ishma tal-Istati Uniti" f’xi jum matul is-sena taxxabbli ta’ dik il-korporazzjoni barranija. Il-frażi "Detentur ta’ Ishma tal-Istati Uniti" tfisser, fir-rigward ta’ xi korporazzjoni barranija, persuna tal-Istati Uniti li tkun propjetarju ta’, jew li tkun ikkunsidrata li hi proprjetarju ta’, 10 fil-mija jew aktar tas-saħħa tal-vot totali kombinat tal-klassijiet tal-ishma intitolati għall-vot ta’ dik il-korporazzjoni barranija.
-
-tinkludi n-numru li jidentifika l-Istituzzjoni Finanzjarja (li jinkiseb billi tissodisfa r-rekwiżiti ta’ reġistrazzjoni applikabbli) fl-irrapurtar li tlesti f’isem l-Istituzzjoni Finanzjarja; u
 
 f) L-entità li tisponsorja ma jkollhiex l-istatus tagħha ta’ sponsor revokat.
 
@@ -1180,17 +1055,13 @@ d) L-entità li tisponsorja ma jkollhiex l-istatus tagħha ta’ sponsor revokat
 
 *D.*
 
-Konsulenti dwar Investiment u Maniġers ta’ Investiment. Entità ta’ Investiment stabbilita f’Malta li tkun Istituzzjoni Finanzjarja unikament [L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
+Konsulenti dwar Investiment u Maniġers ta’ Investiment. Entità ta’ Investiment stabbilita f’Malta li tkun Istituzzjoni Finanzjarja unikament għaliex hi (1) tagħti parir lil, u taġixxi f’isem, jew (2) timmaniġġja portafoll għal, u taġixxi f’isem, klijent għall-għanijiet li tinvesti, timmaniġġja, jew tamministra fondi depożitati f’isem il-klijent ma’ Istituzzjoni Finanzjarja ħlief Istituzzjoni Finanzjarja Mhux Parteċipanti. Mezz ta’ Investiment Kollettiv. Entità ta’ Investiment stabbilita f’Malta li tkun regolata bħala mezz ta’ investiment kollettiv, sakemm l-interessi kollha fil-mezz ta’ investiment kollettiv (inkluż interessi dwar dejn li jeċċedu $50,000) ikunu miżmuma minn jew permezz ta’ wieħed jew aktar sidien benefiċjarji eżenti, NFFEs Attivi deskritti fis-subparagrafu B(4) tat-taqsima VI tal-Anness I, Persuni tal-Istati Uniti li mhumiex Persuni tal-Istati Uniti Speċifikati, jew Istituzzjonijiet Finanzjarji li mhumiex Istituzzjonijiet Finanzjarji Mhux Parteċipanti. Regoli Speċjali. Ir-regoli li ġejjin japplikaw għall-Entità ta’ Investiment:
 
-għaliex hi (1) tagħti parir lil, u taġixxi f’isem, jew (2) timmaniġġja portafoll għal, u taġixxi f’isem, klijent għall-għanijiet li tinvesti, timmaniġġja, jew tamministra fondi depożitati f’isem il-klijent ma’ Istituzzjoni Finanzjarja ħlief Istituzzjoni Finanzjarja Mhux Parteċipanti. Mezz ta’ Investiment Kollettiv. Entità ta’ Investiment stabbilita f’Malta li tkun regolata bħala mezz ta’ investiment kollettiv, sakemm l-interessi kollha fil-mezz ta’ investiment kollettiv (inkluż interessi dwar dejn li jeċċedu $50,000) ikunu miżmuma minn jew permezz ta’ wieħed jew aktar sidien benefiċjarji eżenti, NFFEs Attivi deskritti fis-subparagrafu B(4) tat-taqsima VI tal-Anness I, Persuni tal-Istati Uniti li mhumiex Persuni tal-Istati Uniti Speċifikati, jew Istituzzjonijiet Finanzjarji li mhumiex Istituzzjonijiet Finanzjarji Mhux Parteċipanti. Regoli Speċjali. Ir-regoli li ġejjin japplikaw għall-Entità ta’ Investiment:
-
-*42*
+\1. Fir-rigward ta’ interessi f’Entità ta’ Investiment li tkun mezz ta’ investiment kollettiv deskritt fil-paragrafu E ta’ din it-taqsima, l-obbligi ta’ rappurtar ta’ kull Entità ta’ Investiment (ħlief għall- Istituzzjoni Finanzjarja li permezz tagħha jkunu jinżammu l-interessi fil-mezz ta’ investiment kollettiv) għandhom ikunu meqjusa sodisfatti.
 
 *E.*
 
 *F.*
-
-\1. Fir-rigward ta’ interessi f’Entità ta’ Investiment li tkun mezz ta’ investiment kollettiv deskritt fil-paragrafu E ta’ din it-taqsima, l-obbligi ta’ rappurtar ta’ kull Entità ta’ Investiment (ħlief għall- Istituzzjoni Finanzjarja li permezz tagħha jkunu jinżammu l-interessi fil-mezz ta’ investiment kollettiv) għandhom ikunu meqjusa sodisfatti.
 
 \2. Fir-rigward ta’ interessi fi:
 
@@ -1200,9 +1071,7 @@ b) Entità ta’ Investiment li tkun mezz ta’ investiment kollettiv kwalifikat
 
 l-obbligi ta’ rappurtar ta’ kull Entità ta’ Investiment li tkun Istituzzjoni Finanzjarja ta’ Malta (ħlief għall-Istituzzjoni Finanzjarja li permezz tagħha l-interessi fil-mezz ta’ investiment kollettiv ikunu miżmuma) għandhom ikunu meqjusa sodisfatti. 3. Fir-rigward ta’ interessi f’Entità ta’ Investiment stabbilita f’Malta li ma tkunx deskritta fil-pargrafu E jew is-subparagrafu F(2) ta’ din it-taqsima, konsistenti mal-paragrafu 3 tal-Artikolu 5 tal- Ftehim, l-obbligi ta’ Rappurtar tal-Entitajiet ta’ Investiment l-oħra kollha fir-rigward ta’ dawk l-interessi għandhom ikunu meqjusa sodisfatti kemm-il darba l-informazzjoni meħtieġa li tiġi rrapurtata mill-Entità ta’ Investiment l-ewwel msemmija skont il- Ftehim fir-rigward ta’ dawk l-interessi tkun irrapurtata minn dik l-Entità ta’ Investiment jew persuna oħra.
 
-\4. Entità ta’ investiment stabbilita f’Malta li tkun regolata bħala mezz ta’ investiment kollettiv m’għandhiex tonqos milli tikkwalifika taħt il-paragrafu E jew is-subparagrafu F(2) ta’ din it-taqsima, jew xort’oħra bħala FFI meqjusa konformi, unikament għaliex il-mezz ta’ investiment kollettiv ikun ħareġ ishma fiżiċi (STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 43
-
-f’forma bearer sakemm li:
+\4. Entità ta’ investiment stabbilita f’Malta li tkun regolata bħala mezz ta’ investiment kollettiv m’għandhiex tonqos milli tikkwalifika taħt il-paragrafu E jew is-subparagrafu F(2) ta’ din it-taqsima, jew xort’oħra bħala FFI meqjusa konformi, unikament għaliex il-mezz ta’ investiment kollettiv ikun ħareġ ishma fiżiċi f’forma bearer sakemm li:
 
 a) Il-mezz ta’ investiment kollettiv ma jkunx ħareġ, u ma joħroġx, xi ishma fiżiċi f’forma bearer wara l-31 ta’ Diċembru 2012;
 
@@ -1240,10 +1109,6 @@ Kontijiet ta’ Tifdil Mhux ta’ Irtirar. Kont miżmum f’Malta (ħlief għal 
 
 a) Il-kont ikun soġġett li jkun irrregolat bħala mezz ta’ tifdil għall-għanijiet ħlief dawk ta’ irtirar;
 
-*44*
-
-[L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
-
 b) Il-kont ikun iffavorit għat-taxxa (jiġifieri kontribuzzjonijiet lill-kont li xort’oħra jkunu soġġetti għat-taxxa taħt il-liġijiet ta’ Malta jkunu deduċibbli jew esklużi mill-income gross tad-detentur tal-kont jew ikunu intaxxati b’rata mnaqqsa, jew it-tassazzjoni tal-income minn investiment mill-kont tiġi differita jew isir intaxxar b’rata mnaqqsa);
 
 ċ) Ġbid ikun ikkundizzjonat billi jiġu sodisfatti kriterji speċifiċi relatati mal-għan tal-kont ta’ tifdil (per eżempju, li jiġu pprovduti benefiċċji edukattivi jew mediċi), jew penali tapplika dwar ġbid magħmul qabel dawk il-kriterji jiġu sodisfatti; u
@@ -1276,8 +1141,6 @@ Kont Escrow. Kont miżmum f’Malta stabbilit b’konnessjoni ma’ xi waħda mi
 
 a) Il-kont ikun iffinanzjat biss bi ħlas bil-quddiem, antiċipu, depożitu f’ammont xieraq li jiżgura obbligu relatat direttament mat-transazzjoni, jew pagament simili, jew ikun finanzjat b’assi finanzjarju li jkun depożitat fil-kont b’konnessjoni mal-bejgħ, skambju, jew kiri tal-proprjetà; b) Il-kont ikun stabbilit u użat unikament biex jiżgura l-obbligu tax-xerrej li jħallas il-prezz tax-xiri tal-proprjetà, il-bejjiegħ biex iħallas xi obbligazzjoni kontinġenti, jew min jikri jew il-kerrej li jħallsu għal kull ħsara relatata mal-kiri tal-proprjetà kif miftiehem taħt il-kirja;
 
-(STATI UNITI TAL-AMERIKA) (FATCA) [L.S.123.156 45
-
 ċ) L-assi tal-kont, inkluż l-income li jinqala’ fuqhom, jitħallsu jew xort’oħra jitqassmu għall-benefiċċju tax-xerrej, bejjiegħ, ta’ min jikri, jew il-kerrej (inkluż li jissodisfaw l-obbigu ta’ dik il-persuna) meta l-proprjetà tinbiegħ, tiġi skambjata, jew ċeduta, jew il-kirja tintemm;
 
 d) Il-kont ma jkunx kont margin jew simili stabbilit b’konnessjoni ma’ bejgħ jew skambju ta’ assi finanzjarju; u e) Il-kont ma jkunx assoċjat ma’ kont ta’ karta ta’ kreditu.
@@ -1299,10 +1162,6 @@ Reporting Model 1 FFI. Il-frażi Reporting Model 1 FFI tfisser Istituzzjoni Fina
 *B.*
 
 FFI Parteċipanti. Il-frażi FFI Parteċipanti tfisser Istituzzjoni Finanzjarja li qablet li tikkonforma mar-rekwiżiti ta’ Ftehim ta’ FFI, inkluż Istituzzjoni Finanzjarja deskritta f’Model 2 IGA li qablet li tikkonforma mar-rekwiżiti ta’ Ftehim ta’ FFI. Il-frażi FFI Parteċipanti tinkludi wkoll fergħa ta’ intermedjarju kwalifikat ta’ Istituzzjoni Finanzjarja tal-Istati Uniti ta’ Rappurtar, sakemm il-fergħa ma tkunx Reporting Model 1 FFI. Għall-għanijiet ta’ din it-tifsira, il-frazi Ftehim ta’ FFI tfisser ftehim li jistabbilixxi r-rekwiżiti għall-Istituzzjoni Finanzjarja li tkun ittratata bħala li tikkonforma mar-rekwiżiti tat-taqsima 1471(b) tal-U.S. Intrrnal Revenue Code. B’żieda ma’ dan, għall-għanijiet ta’ din it-tifsira, il-frażi Model 2 IGA tfisser arranġament bejn l-Istati Uniti jew id-Dipartiment tat-Teżor u gvern mhux tal-Istati Uniti jew aġenzija waħda jew aktar tiegħu biex jiffaċilitaw l-implimentazzjoni tal-FATCA permezz ta’ rappurtar minn Istituzzjoni Finanzjarja direttament lill-IRS skont r-rekwiżiti ta’ Ftehim ta’ FFI, supplimentat bl-iskambju ta’ informazzjoni bejn dak il-gvern mhux tal- Istati Uniti jew aġenzija tiegħu u l-IRS.
-
-*46*
-
-[L.S.123.156 (STATI UNITI TAL-AMERIKA) (FATCA)
 
 Mi\\juda: SKEDA II
 

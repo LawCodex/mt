@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Bachelor of Engineering and Architecture (Honours) - B.E. &amp; A. (Hons) - taħt il-patroċinju tal-Fakultà ta' l-Arkitettura u l-Inġinerija Ċivili (S.L. 327.245)
 
-GRAD TA’ BACHELOR OF ENGINEERING AND ARCHITEC-
-
-TURE (HONOURS) - B.E. & A. - TA}T IL-PATRO~INJU TAL-
-
-*1*
-
-FAKULTÀ TA’ L-ARKITETTURA U L-IN{INERIJA ~IVILI [S.L.327.245
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.245**
 
 ORDINAMENTI G}ALL-GRAD TA’ BACHELOR OF ENGINEERING AND ARCHITECTURE (HONOURS) - B.E. & A. (HONS) - TA}T IL-PATRO~INJU

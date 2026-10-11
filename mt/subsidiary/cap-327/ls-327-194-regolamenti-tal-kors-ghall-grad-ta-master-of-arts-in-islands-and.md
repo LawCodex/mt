@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta' Master of Arts in Islands and Small States Studies (S.L. 327.194)
 
-STATES STUDIES TA}T IL-PATRO~INJU TAL-ISTITUT
-
-*1*
-
-G}ALL G|EJJER U STATI |G}AR [L.S.327.194
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.194**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -65,11 +59,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (5) L-applikanti eliġibbli jistgħu jirreġistraw għal taqsimiet studju individwali bħala studenti viżitaturi u jiksbu kretti għalihom. Jekk l-applikanti jiġu aċċettati biex jidħlu fil-Kors fi żmien seba’ snin minn meta segwew l-ewwel taqsima studju, il-Bord jista’ jippermetti t-trasferiment ta’ dawn il-kretti fir-rekord akkademiku tal-Kors tal-istudent.
 
-(6) F'konformità mad-dispożizzjonijiet tal-paragrafi (2) u (3) tar-regolament 9 tar-Regolamenti għad-Dħul, l-applikanti li ma STATES STUDIES TA}T IL-PATRO~INJU TAL-ISTITUT [L.S.327.194 G}ALL G|EJJER U STATI |G}AR
-
-jissodisfawx ir-rekwiżiti msemmija fil-paragrafi (1) u (2) ta’ dan l-ordinament jistgħu jitħallew isegwu taqsimiet studju individwali iżda ma jitħallewx joqogħodu għall-valutazzjoni tat-taqsimiet studju, sakemm li l-lettur ikkonċernat ma jsib l-ebda oġġezzjoni għal dan u jkun sodisfatt li l-individwu għandu l-għarfien akkademiku neċessarju biex isegwi t-taqsima studju bi profitt.
-
-*2*
+(6) F'konformità mad-dispożizzjonijiet tal-paragrafi (2) u (3) tar-regolament 9 tar-Regolamenti għad-Dħul, l-applikanti li ma jissodisfawx ir-rekwiżiti msemmija fil-paragrafi (1) u (2) ta’ dan l-ordinament jistgħu jitħallew isegwu taqsimiet studju individwali iżda ma jitħallewx joqogħodu għall-valutazzjoni tat-taqsimiet studju, sakemm li l-lettur ikkonċernat ma jsib l-ebda oġġezzjoni għal dan u jkun sodisfatt li l-individwu għandu l-għarfien akkademiku neċessarju biex isegwi t-taqsima studju bi profitt.
 
 ## 4. Tul tal-kors.
 
@@ -107,11 +97,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (1) L-istudenti jkunu meħtieġa li jżommu kuntatt regolari mas-superviżur tagħhom.
 
-(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar STATES STUDIES TA}T IL-PATRO~INJU TAL-ISTITUT
-
-*3*
-
-G}ALL G|EJJER U STATI |G}AR [L.S.327.194 il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
+(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-disposizzjonijiet tar-Regolamenti Prineipali; u
 

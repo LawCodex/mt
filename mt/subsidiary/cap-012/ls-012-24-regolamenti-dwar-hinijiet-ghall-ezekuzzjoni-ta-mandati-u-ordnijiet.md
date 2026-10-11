@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Ħinijiet għall-Eżekuzzjoni ta’ Mandati u Ordnijiet (S.L. 12.24)
 
-}INIJIET G}ALL-E|EKUZZJONI
-
-*1*
-
-TA’ MANDATI U ORDNIJIET [L.S.12.24
-
 **LE{ISLAZZJONI SUSSIDJARJA 12.24**
 
 **REGOLAMENTI DWAR }INIJIET G}ALL-**

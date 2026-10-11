@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Impieg Part-time ta' Persuni b'Diżabilità"
-identifier: "S.L. 210.4"
+identifier: "S.L. 210.04"
 eli: "https://legislation.mt/eli/sl/210.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/210.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Impieg Part-time ta' Persuni b'Diżabilità (S.L. 210.4)
+# Regolamenti dwar l-Impieg Part-time ta' Persuni b'Diżabilità (S.L. 210.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 210.04**
 

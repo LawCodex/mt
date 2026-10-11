@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta’ Master in Inclusive Education and Communities - taħt il-patroċinju tal-Fakultà ta’ l-Edukazzjoni. - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.326)
 
-KORS GĦALL-GRAD TA’ MASTER IN INCLUSIVE
-
-EDUCATION AND COMMUNITIES - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TA’ L-EDUKAZZJONI [S.L.327.326
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.326**
 
 REGOLAMENTI TAL-KORS GĦALL-GRAD TA’ MASTER IN INCLUSIVE EDUCATION AND

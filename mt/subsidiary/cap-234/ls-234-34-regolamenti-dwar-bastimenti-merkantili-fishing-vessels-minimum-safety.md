@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Bastimenti Merkantili - Fishing Vessels (Minimum Safety and Health Requirements) (S.L. 234.34)
 
-MERCHANT SHIPPING (FISHING VESSELS) (MINIMUM
-
-SAFETY AND HEALTH REQUIREMENTS) [ L.S.234.34
-
 **LE{ISLAZZJONI SUSSIDJARJA 234.34**
 
 **REGOLAMENTI DWAR BASTIMENTI**

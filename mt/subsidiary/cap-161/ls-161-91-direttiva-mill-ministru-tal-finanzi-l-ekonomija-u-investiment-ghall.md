@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-ħruġ ta' Euro 1,318,800 7% Stock tal-Gvern ta' Malta (S.L. 161.91)
 
-*1*
-
-7% STOCK TAL-GVERN TA’ MALTA [L.S.161.91 LEĠISLAZZJONI SUSSIDJARJA 161.91
+**LEĠISLAZZJONI SUSSIDJARJA 161.91**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**
 
@@ -51,11 +49,7 @@ L-applikazzjoni biex l-iStock jitqiegħed fuq il-lista uffiċjali u biex ikun ne
 
 ## 5. Piż fuq id-dħul u l-attiv.
 
-L-iStock u l-imgħax fuqu għandhom ikunu addebitati lid- [L.S.161.91 7% STOCK TAL-GVERN TA’ MALTA
-
-dħul u l-attiv ġenerali tal-Gvern ta’ Malta.
-
-*2*
+L-iStock u l-imgħax fuqu għandhom ikunu addebitati lid-dħul u l-attiv ġenerali tal-Gvern ta’ Malta.
 
 ## 6. Redenzjoni tal-iStock.
 

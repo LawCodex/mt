@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours)(Pharmaceutical Science) - B.Sc. (Hons) (Pharm. Sc.) - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.412)
 
-PHARMACEUTICAL SCIENCE - B.Sc. (Hons) in Pharm. Sc. - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.412
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.412**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN PARMACEUTICAL
@@ -70,11 +64,7 @@ Dawn l-ordinamenti għandhom japplikaw mill-Ottubru 2018’il quddiem.
 
 (b) għaddew fil-Livell Intermedju jew Avvanzat tal-Matrikola fil-Matematika Pura.
 
-(2) Matul l-ewwel sena tal-Kors, l-applikanti li jiġu aċċettati huma meħtieġa wkoll joqogħdu għall-occupational health assessment kif dettaljat fl-Occupational Health Protocol approvat mill-Bord, biex ikun aċċertat li huma tajbin għad-dmirijiet relatati mal-istudji proposti tagħhom. L-istudenti li ma jissodisfawx dan ir-rekwiżit jistgħu ma jitħallewx ikomplu bl-istudji tagħhom. In-nuqqas li tiżvela informazzjoni dwar problema ta’ saħħa fiżika jew mentali li tista’ PHARMACEUTICAL SCIENCE - B.Sc. (Hons) in Pharm. Sc. - TAĦT [L.S.327.412 IL-PATROĊINJU TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA
-
-teffettwa s-sigurta’ ta’ pazjent hija kkunsidrata bħala ksur serju tar- Regolamenti tal-Università dwar Kompetenza għall-Prattika, 2016.
-
-*2*
+(2) Matul l-ewwel sena tal-Kors, l-applikanti li jiġu aċċettati huma meħtieġa wkoll joqogħdu għall-occupational health assessment kif dettaljat fl-Occupational Health Protocol approvat mill-Bord, biex ikun aċċertat li huma tajbin għad-dmirijiet relatati mal-istudji proposti tagħhom. L-istudenti li ma jissodisfawx dan ir-rekwiżit jistgħu ma jitħallewx ikomplu bl-istudji tagħhom. In-nuqqas li tiżvela informazzjoni dwar problema ta’ saħħa fiżika jew mentali li tista’ teffettwa s-sigurta’ ta’ pazjent hija kkunsidrata bħala ksur serju tar- Regolamenti tal-Università dwar Kompetenza għall-Prattika, 2016.
 
 Għall-kors li jibda f’Ottubru 2011:
 
@@ -132,13 +122,7 @@ Il-programm ta’ studju għandu jinkludi taqsimiet studju li għalihom hemm ass
 
 **• Legislation and professional ethics; u**
 
-(b) proġett dwar aspett tal-farmaċija prattika approvat PHARMACEUTICAL SCIENCE - B.Sc. (Hons) in Pharm. Sc. - TAĦT
-
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.412
-
-mill-Bord.
+(b) proġett dwar aspett tal-farmaċija prattika approvat mill-Bord.
 
 ## 6. Pubblikazzjoni tal-programm ta’ studju.
 

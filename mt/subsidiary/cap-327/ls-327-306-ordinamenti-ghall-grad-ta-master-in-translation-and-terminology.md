@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Translation and Terminology Studies jew għall-Grad ta’ Master in Interpreting Studies taħt il-patroċinju tal-Fakultà tal-Arti (S.L. 327.306)
 
-STUDIES JEW GRAD TA’ MASTER IN INTERPRETING
-
-*1*
-
-STUDIES TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.306
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.306**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -61,11 +55,11 @@ JEW GĦALL-GRAD TA’ MASTER IN INTERPRETING STUDIES TAĦT IL-PATROĊINJU
 
 Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 2018 jew wara.
 
-*2*
+## 3. Rekwiżiti għad-dħul.
 
-STUDIES JEW GRAD TA’ MASTER IN INTERPRETING [L.S.327.306 STUDIES TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI 3. (1) Il-Kors ikun miftuħ għall-applikanti li jissodisfaw dawn ir-rekwiżiti li ġejjin:
+*Sostitwit: A.L. 7 tal-2010; A.L. 393 tal-2012; A.L. 207 tal-2013. Emendat: A.L. 315 tal-2014. Sostitwit: A.L. 324 tal-2017. Emendat: 44 tal-2022.*
 
-*Rekwiżiti għad-dħul. Sostitwit: A.L. 7 tal-2010; A.L. 393 tal-2012; A.L. 207 tal-2013. Emendat: A.L. 315 tal-2014. Sostitwit: A.L. 324 tal-2017. Emendat: 44 tal-2022.*
+(1) Il-Kors ikun miftuħ għall-applikanti li jissodisfaw dawn ir-rekwiżiti li ġejjin:
 
 (a) ikollhom kwalunkwe grad ta’ Bachelor miksub minn din l-Università jew minn istituzzjoni oħra ta’ edukazzjoni għolja rikonoxxuta mis-Senat, tal-anqas fit-Tieni Klassi bl-Unuri jew f’Kategorija II jew l-ekwivalenti; u
 
@@ -95,13 +89,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (1) Il-programm ta’ studju għandu jikkonsisti minn żewġ partijiet, jiġifieri:
 
-(a) l-Ewwel Parti li tkopri numru ta’ taqsimiet studju mgħallma li għalihom hemm assenjati 60 kredtu; u STUDIES JEW GRAD TA’ MASTER IN INTERPRETING
-
-*3*
-
-STUDIES TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.306
-
-(b) it-Tieni Parti li tikkonsisti minn xogħol ta’ riċerka u l-kitba ta’ dissertazzjoni li għalihom hemm assenjati 30 kredtu.
+(a) l-Ewwel Parti li tkopri numru ta’ taqsimiet studju mgħallma li għalihom hemm assenjati 60 kredtu; u (b) it-Tieni Parti li tikkonsisti minn xogħol ta’ riċerka u l-kitba ta’ dissertazzjoni li għalihom hemm assenjati 30 kredtu.
 
 (2) Il-lista tal-lingwi offruti fil-program ta’ studju tkun ippubblikata qabel il-bidu ta’ kull kors.
 
@@ -130,10 +118,6 @@ STUDIES TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.306
 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-bidu tat-tieni semestru.
 
 (4) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom, li għandu jibgħat lill-Bord rapport dwar il-progress ta’ l-istudenti taħt is-superviżjoni tiegħu sa mhux aktar tard minn tliet ġimgħat qabel id-data tas-sottomissjoni. Ir-rapport jista’ jinkludi rakkomandazzjonijiet biex jew (a) il-perjodu ta’ studju ikun imtawwal biex l-istudent ikun jista’ jispiċċa d-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur iqis li dan hu xieraq fiċ-ċirkostanzi, sakemm li:
-
-*4*
-
-STUDIES JEW GRAD TA’ MASTER IN INTERPRETING [L.S.327.306 STUDIES TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI
 
 (i) l-estensjoni tal-perjodu ta’ studju msemmija f’(a) tkun skond id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 

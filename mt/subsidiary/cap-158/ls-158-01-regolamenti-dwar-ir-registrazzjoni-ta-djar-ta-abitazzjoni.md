@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar ir-Reġistrazzjoni ta' Djar ta' Abitazzjoni Dekontrollati"
-identifier: "S.L. 158.1"
+identifier: "S.L. 158.01"
 eli: "https://legislation.mt/eli/sl/158.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/158.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar ir-Reġistrazzjoni ta' Djar ta' Abitazzjoni Dekontrollati (S.L. 158.1)
-
-*1*
-
-ABITAZZJONI DEKONTROLLATI [L.S.158.01
+# Regolamenti dwar ir-Reġistrazzjoni ta' Djar ta' Abitazzjoni Dekontrollati (S.L. 158.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 158.01**
 
@@ -96,10 +92,6 @@ Jekk, wara li j]ares id-disposizzjonijiet tar-regolament 7, l- Uffi`jal jidde`ie
 (7) F’nuqqas ta’ xi sottomissionijiet fil-[urnata tas-smig], b’kontestazzjoni tat-talba msemmija fir-rikors, il-Bord g]andu jilqa’ r-rikors.
 
 (8) Il-Bord jista’, jekk jidhirlu hekk me]tie[, jispezzjona l-fond permezz tal-membri tekni`i tieg]u.
-
-*3*
-
-ABITAZZJONI DEKONTROLLATI [L.S.158.01
 
 (9) Id-dritt li g]andu jit]allas lill-avukat jew prokuratur legali li jidher g]all-partijiet f’appell lill-Bord skond l-artikolu 4(1) ta’ l- Ordinanza jkun mhux anqas minn erba’ euro u sitta u sittin `ente\\mu (4.66) u mhux i\\jed minn disa’ euro u tnejn u tletin `ente\\mu (9.32), skond ma jkun stabbilit mill-Bord.
 

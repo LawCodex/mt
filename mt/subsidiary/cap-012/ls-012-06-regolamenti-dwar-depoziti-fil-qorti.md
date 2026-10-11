@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Depożiti fil-Qorti"
-identifier: "S.L. 12.6"
+identifier: "S.L. 12.06"
 eli: "https://legislation.mt/eli/sl/12.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/12.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Depożiti fil-Qorti (S.L. 12.6)
+# Regolamenti dwar Depożiti fil-Qorti (S.L. 12.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 12.06**
 

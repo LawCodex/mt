@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Diplomacy taħt il-patroċinju tal-Mediterranean Academy of Diplomatic Studies (S.L. 327.20)
 
-IL-PATRO~INJU TAL-MEDITERRANEAN ACADEMY
-
-*1*
-
-OF DIPLOMATIC STUDIES [L.S.327.20
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.20**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER OF**
@@ -80,10 +74,6 @@ Il-programm ta’ studju g]andu jkun ippubblikat wara l-approvazzjoni tas-Senat,
 ## 7. Valutazzjoni u progress.
 
 (1) Il-valutazzjoni ta’ kull taqsima studju mg]allma g]andha tkun kompluta sa l-a]]ar tas-semestru li fih ikun sar it-tag]lim tat-taqsima studju.
-
-*2*
-
-IL-PATRO~INJU TAL-MEDITERRANEAN ACADEMY [ L.S.327.20 OF DIPLOMATIC STUDIES
 
 (2) Dawk l-istudenti li f’xi sena akkademika je]lu fil-valutazzjoni ta’ mhux aktar minn 20 kredtu g]al taqsimiet studju mg]allma, jekk ikunu qeg]din isegwu l-kors full-time, jew mhux aktar minn 10 kredti jekk ikunu qeg]din isegwu l-kors part-time, jing]ataw l-opportunità li joqog]du g]all-valutazzjoni mill-[did fit-taqsimiet studju li we]lu minnhom fis-sessjoni ta’ l-e\\amijiet supplimentari ta’ Settembru.
 

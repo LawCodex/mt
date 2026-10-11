@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Christian Faith Formation - M.A. - taħt il-patrocinju tal-Fakultà tal-Teoloġija. (S.L. 327.531)
 
-FORMATION - M.A. - TAĦT IL-PTROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.531
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.531**
 
 ORDINAMENTI GĦALL-GRAD TA’ MASTER OF ARTS IN CHRISTIAN FAITH FORMATION - M.A. -
@@ -69,13 +63,7 @@ Il-kors ikun miftuħ għall-applikanti li għandhom:
 
 (ċ) grad fl-edukazzjoni jew iċ-Ċertifikat tal-Għalliema, flimkien ma’ mill-anqas sentejn esperjenza fit-tagħlim u kwalifiki oħrajn xierqa miksuba wara l-grad jew wara ċ-Ċertifikat tal-Għalliema; jew
 
-(d) kwalunkwe grad tal-ewwel ċiklu, flimkien ma’ jew kwalifika fit-tagħlim rikonoxxuta, jew id-Diploma in Education, flimkien ma’ ħames snin esperjenza FORMATION - M.A. - TAĦT IL-PTROĊINJU
-
-*2*
-
-[L.S.327.531 TAL-FAKULTÀ TAT-TEOLOĠIJA
-
-f’ambjent tal-edukazzjoni; jew
+(d) kwalunkwe grad tal-ewwel ċiklu, flimkien ma’ jew kwalifika fit-tagħlim rikonoxxuta, jew id-Diploma in Education, flimkien ma’ ħames snin esperjenza f’ambjent tal-edukazzjoni; jew
 
 (e) kwalunkwe grad tal-ewwel ċiklu, flimkien ma’ mill-anqas sentejn esperjenza fit-tagħlim fi kwalunkwe istitut tal-Christian Faith Formation; jew
 
@@ -115,11 +103,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir matul l-aħħar żewġ semestri tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perjodu ta’ studju.
 
-FORMATION - M.A. - TAĦT IL-PTROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.531 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord mhux aktar tard minn sitt ġimgħat qabel it-tmiem tar-raba’ semestru.
+(3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord mhux aktar tard minn sitt ġimgħat qabel it-tmiem tar-raba’ semestru.
 
 ## 11. Superviżur.
 

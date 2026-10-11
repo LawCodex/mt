@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Rimunerazzjoni lill-Assistenti tal-Qorti tal-Minorenni"
-identifier: "S.L. 287.1"
+identifier: "S.L. 287.01"
 eli: "https://legislation.mt/eli/sl/287.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/287.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Rimunerazzjoni lill-Assistenti tal-Qorti tal-Minorenni (S.L. 287.1)
-
-RIMUNERAZZJONI LILL-ASSISTENTI
-
-*1*
-
-TAL-QORTI TAL-MINORENNI [L.S.287.01
+# Regolamenti dwar Rimunerazzjoni lill-Assistenti tal-Qorti tal-Minorenni (S.L. 287.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 287.01**
 

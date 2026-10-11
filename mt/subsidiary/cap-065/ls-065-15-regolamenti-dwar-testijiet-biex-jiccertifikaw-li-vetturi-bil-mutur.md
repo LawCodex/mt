@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Testijiet biex Jiċċertifikaw li Vetturi bil-Mutur huma Tajba għat-Triq (S.L. 65.15)
 
-*1*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
 **LEĠISLAZZJONI SUSSIDJARJA 65.15**
 
 **REGOLAMENTI DWAR TESTIJIET BIEX**
@@ -51,10 +47,6 @@ BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 (d) vetturi bil-mutur iddisinjati u mibnija prinċipalment għall-ġarr ta’ oġġetti b’massa massima li taqbeż it-3.5 tunnellati – kategoriji tal-vetturi N2 u N3;
 
 (e) trailers iddisinjati u mibnijin primarjament għall-ġarr ta’ merkanzija jew ta’ persuni, kif ukoll għall-akkomodazzjoni ta’ persuni, b’massa massima li taqbeż it-3.5 tunellati – kategorija tal-vetturi O3 u O4;
-
-*2*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 (f) tratturi bir-roti tal-kategoriji T1b, T2b, T3b, T4.1b, T4.2b u T4.3b li l-użu tagħhom hu l-aktar f’toroq pubbliċi b’veloċità massima skont id-disinn, li ma taqbiżx l-40 km/h;
 
@@ -90,10 +82,6 @@ F’dawn ir-regolamenti, kemm-il-darba l-kuntest ma jurix xort’oħra -
 
 "id-Direttiva 2014/47/UE" tfisser id-Direttiva 2014/47/UE tal- Parlament Ewropew u tal-Kunsill tat-3 ta’ April 2014 dwar l-ispezzjonijiet tekniċi waqt it-traġitt tal-affidabbiltà stradali ta’ vetturi kummerċjali li jiċċirkolaw fl-Unjoni u li tirrevoka d-Direttiva 2000/ 30/KE;
 
-*3*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
 "l-ewwel reġistrazzjoni" tfisser id-data li fiha vettura tkun ġiet reġistrata għall-ewwel darba f’Malta jew f’pajjiż ieħor;
 
 "ġurnata normali ta’ xogħol" tfisser -
@@ -122,11 +110,7 @@ BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 
 ''motorcycle'' tfisser vettura b’żewġ roti mingħajr sidecar (kategorija L3e) jew b’sidecar (kategorija L4e) li jkollha makna ċilindrata ta’ aktar minn 50 ċm3 tat-tip ta’ kombustjoni interna u, jew li jkollha veloċità massima disinjata ta’ iżjed minn 45 km fis-siegħa;
 
-'' motor tricycle '' tfisser vettura bi tliet roti rranġati simmetrikament (kategorija L5e) li jkollha makna ċilindrata ta’ aktar minn 50 ċm3 tat-tip ta’ kombustjoni interna u, jew li jkollha [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-veloċità massima disinjata ta’ iżjed minn 45 km fis-siegħa;
-
-*4*
+'' motor tricycle '' tfisser vettura bi tliet roti rranġati simmetrikament (kategorija L5e) li jkollha makna ċilindrata ta’ aktar minn 50 ċm3 tat-tip ta’ kombustjoni interna u, jew li jkollha veloċità massima disinjata ta’ iżjed minn 45 km fis-siegħa;
 
 "numru tas-serje" dwar vettura li ix-chassis tagħha ma ġiex maħdum separatament mill-istruttura tagħha, tfisser in-numru li, għall-finijiet ta’ identifikazzjoni, jingħata lil vettura mill-fabbrikant tagħha;
 
@@ -156,11 +140,7 @@ veloċità massima disinjata ta’ iżjed minn 45 km fis-siegħa;
 
 "spezzjoni konġunta waqt it-traġitt" tfisser spezzjoni teknika waqt it-traġitt magħmula b’mod konġunt mill-awtoritajiet kompetenti ta’ żewġ Stati Membri jew aktar;
 
-''spezzjoni teknika tul it-triq'' tfisser spezzjoni ta’ natura teknika, BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
-li ma tkunx ġiet imħabbra mill-Awtorità, ta’ ċerti vetturi li jkunu għaddejjin mit-triq pubblika;
-
-*5*
+''spezzjoni teknika tul it-triq'' tfisser spezzjoni ta’ natura teknika, li ma tkunx ġiet imħabbra mill-Awtorità, ta’ ċerti vetturi li jkunu għaddejjin mit-triq pubblika;
 
 "spezzjoni teknika waqt it-traġitt" tfisser spezzjoni teknika mhux mistennija tal-affidabbiltà stradali ta’ vettura kummerċjali mwettqa mill-Awtorità;
 
@@ -197,10 +177,6 @@ li ma tkunx ġiet imħabbra mill-Awtorità, ta’ ċerti vetturi li jkunu għadd
 ''vettura għall-ġarr ta’ merkanzija tqila'' tfisser vettura bil-mutur li l-ogħla massa permissibbli tagħha tkun iżjed minn 3.5 tunnellati metriċi, li tintuża għall-ġarr ta’ merkanzija;
 
 "vettura kummerċjali" tfisser vettura bil-magna u t-trejler tagħha jew semitrejler użat primarjament għat-trasport ta’ oġġetti jew passiġġieri għal finijiet kummerċjali, bħat-trasport għall-kiri u kumpens jew trasport proprju, jew għal finijiet professjonali oħra;
-
-*6*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 "vettura rreġistrata fi Stat Membru" tfisser vettura li hija rreġistrata jew li daħlet fis-servizz fi Stat Membru;
 
@@ -240,10 +216,6 @@ Kull vettura li għaliha japplikaw dawn ir-regolamenti u litiġi mressqa għal t
 
 (2) Ħlief kif provdut fir-regolament 5, dawn ir-regolamenti għandhom jgħoddu għal kull vettura skont il-klassi tagħha kif speċifikata fit-Tieni Skeda.
 
-*7*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
 ### 5. Eżenzjonijiet.
 
 *Sostitwit: A.L. 43 tal-2008. Emendat: A.L. 49 tal-2012; A.L. 124 tal- 2017; A.L. 161 tal-2025.*
@@ -277,10 +249,6 @@ Ir-Regolamenti dwar il-Vetturi bil-Mutur għandhom jgħoddu għat-testijiet biex
 Ebda persuna ma tista’ żżomm jew topera stazzjon għat-testijiet fuq il-vetturi mingħajr awtorizzazzjoni mill-Awtorità.
 
 ## TAQSIMA II — L-Operaturi
-
-*8*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 ### 8. Applikazzjonijiet għal operaturi b’kuntratt.
 
@@ -330,10 +298,6 @@ Ebda persuna ma tista’ żżomm jew topera stazzjon għat-testijiet fuq il-vett
 
 (b) x’rimedju jkollu l-applikant meta l-Awtorità tiċħad applikazzjoni għal awtorizzazzjoni ta’ operatur; u
 
-*9*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
 (ċ) dikjarazzjoni li f’każ li jibqa’ ma jingħatax tweġiba fil-perijodu msemmi fil-paragrafu (a), l-awtorizzazzjoni għandha titqies li tkun ingħatat.
 
 (2) Fil-każ ta’ applikazzjoni li ma tkunx kompluta, l-applikant għandu jiġi mgħarraf fi żmien sebat ijiem minn meta tkun waslet l-applikazzjoni dwar il-ħtieġa li jipprovdi dokumentazzjoni jew informazzjoni addizzjonali.
@@ -360,11 +324,7 @@ Iżda t-tifsira "applikant" m’għandhiex tinkludi lil dawk l-applikanti li kel
 
 (1) Meta applikazzjoni tkun saret skont ir-regolament 8, l- Awtorità għandha tagħmel dawk l-investigazzjonijiet u tagħmel dawk l-ispezzjonijiet li b’mod raġonevoli jkunu meħtieġa biex tiżgura konformità mal-ispeċifikazzjonijiet tat-tagħmir għat-testijiet kif speċifikat fir-Raba’ Skeda u wkoll konformità mal-ispeċifikazzjonjiet għall-istazzjonijiet kif hemm fil-Ħames Skeda, u l-Awtorità għandha tinforma lill-applikant b’avviż bil-miktub mhux aktar tard minn għoxrin ġurnata ta’ xogħol minn meta tkun irċeviet id-dokumenti kollha rilevanti dwar id-deċiżjoni tal- Awtorità u, meta tkun ser tiċħad l-applikazzjoni, hija tagħti r-raġunijiet għaldaqstant:
 
-Iżda meta ċ-ċirkostanzi jkunu jeħtieġu aktar żmien biex l-applikazzjoni tiġi kkunsidrata, dak il-perijodu jista’ jiġi estiż darba waħda biss mill-Awtorità għal perijodu addizzjonali ta’ mhux aktar [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-minn għaxart ijiem tax-xogħol b’żjieda mal-perijodu hawn qabel imsemmi u l-applikant għandu jiġi avżat bl-estensjoni, it-tul tagħha u r-raġunijiet għaldaqstant.
-
-*10*
+Iżda meta ċ-ċirkostanzi jkunu jeħtieġu aktar żmien biex l-applikazzjoni tiġi kkunsidrata, dak il-perijodu jista’ jiġi estiż darba waħda biss mill-Awtorità għal perijodu addizzjonali ta’ mhux aktar minn għaxart ijiem tax-xogħol b’żjieda mal-perijodu hawn qabel imsemmi u l-applikant għandu jiġi avżat bl-estensjoni, it-tul tagħha u r-raġunijiet għaldaqstant.
 
 (2) Meta l-Awtorità ma tkunx ħadet deċiżjoni fi żmien il-perijodu ordnat jew f’dak estiż imsemmi f’dan ir-regolament l-applikazzjoni għandha titqies li tkun ġiet deċiża favur l-applikant.
 
@@ -392,11 +352,7 @@ minn għaxart ijiem tax-xogħol b’żjieda mal-perijodu hawn qabel imsemmi u l-
 
 (f) l-operatur għandu jagħti avviż ta’ sebat ijiem minn qabel lill-Awtorità dwar -
 
-(i) li jkun ser jingħaqad ma’ soċjetà bl-iskop li BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
-jiġġestixxi negozju li jkun ukoll jinkludi l-għemil ta’ dawk it-testijiet fl-istazzjon, f’każ li huwa jkun l-uniku individwu msemmi f’awtorizzazzjoni; u
-
-*11*
+(i) li jkun ser jingħaqad ma’ soċjetà bl-iskop li jiġġestixxi negozju li jkun ukoll jinkludi l-għemil ta’ dawk it-testijiet fl-istazzjon, f’każ li huwa jkun l-uniku individwu msemmi f’awtorizzazzjoni; u
 
 (ii) xi bidla fl-istatut tal-kumpannija, meta huwa jkun kumpannija,
 
@@ -425,10 +381,6 @@ u dak l-avviż għandu jitqies bħala applikazzjoni skont id-dispożizzjonijiet 
 (ii) meta l-vettura ma tkunx tista’ tiġi misjuqa jew għax ma jkollhiex biżżejjed karburant jew żejt biex jitkompla t-test;
 
 (iii) meta l-vettura tiġi preżentata f’kundizzjoni tant maħmuġa li t-test ikun diffiċli biex isir;
-
-*12*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 (iv) meta l-operatur jikkonsidra li t-tagħbija jew oġġetti oħra mhux marbutin sew ma jkunux jippermettu li t-test isir kif imiss jekk ma jitħattux;
 
@@ -462,10 +414,6 @@ u dak l-avviż għandu jitqies bħala applikazzjoni skont id-dispożizzjonijiet 
 
 (b) jidħol bħala pazjent fi sptar tal-moħħ; jew
 
-*13*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
 (`) jinstab ħati ta’ offiża kontra l-fiduċja pubblika.
 
 (2) Awtorizzazzjoni ta’ soċjetà bħala operatur għandha awtomatikament ma tibqax isseħħ jekk -
@@ -495,10 +443,6 @@ Iżda wkoll meta operatur ma jibqax jopera l-istazzjon għat-testijiet mingħajr
 Iżda kemm-il darba ma jkunx hemm mġiba ħażina jew negliġenza jew raġunijiet aktar serji għal sospensjoni, teħid lura jew tħassir immedjat, id-data operattiva ta’ dak l-avviż m’għandhiex tkun inqas minn tmienja u għoxrin ġurnata mid-data tal-avviż.
 
 (6) Awtorizzazzjoni ma tibqax isseħħ mid-data msemmija fin-notifika, sakemm din ma tiġix imħassra sussegwentement.
-
-*14*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 (7) Meta awtorizzazzjoni ta’ operatur ta’ stazzjon għall-ittestjar tispiċċa jew titħassar, persuna li qabel kienet kwalifikata bħala operatur li tagħżel li tapplika mill-ġdid għal awtorizzazzjoni, għandha tippreżenta applikazzjoni mill-ġdid u l-Awtorità għandha tingħata mill-ġdid kull informazzjoni u dokument li wieħed ikun jeħtieġ jagħti ma’ kull applikazzjoni ġdida.
 
@@ -536,10 +480,6 @@ Iżda kemm-il darba ma jkunx hemm mġiba ħażina jew negliġenza jew raġunijie
 
 (4) Persuna tista’ tikkwalifika bħala persuna li tittestja jekk dik il-persuna -
 
-*15*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
 (i) tkun għalqet id-dsatax-il sena meta tkun qiegħda tapplika;
 
 (ii) ikollha kondotta tajba:
@@ -566,10 +506,6 @@ Iżda b’seħħ mill-20 ta’ Mejju 2018 tali kors għandu jinkludi t-temi msem
 
 (7) Operatur ta’ stazzjon għat-testijiet ta’ vetturi għandu jimpjega biss bħala persuni li jittesjaw lil dawk il-persuni li isimhom ikun jidher fir-reġistru miżmum mill-Awtorità.
 
-*16*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
 ### 14. Kondizzjonijiet għal persuni li jittestjaw.
 
 *Emendat: A.L. 159 tal-2003; A.L. 90 tal-2010; A.L. 49 tal-2012; A.L. 124 tal-2017.*
@@ -594,9 +530,7 @@ Iżda b’seħħ mill-20 ta’ Mejju 2018 tali kors għandu jinkludi t-temi msem
 
 (4) L-Awtorità tista’ tneħħi mir-reġistru l-isem ta’ persuna li tittestja jekk dik il-persuna li tittestja tikser xi kundizzjoni li hemm fis-subregolament (1), (2) u (3).
 
-## TAQSIMA IV — BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15 — Testijiet
-
-*17*
+## TAQSIMA IV — Testijiet
 
 ### 15. Applikazzjonijiet għat-testjiet.
 
@@ -628,11 +562,7 @@ Operatur b’kuntratt m’għandux jagħmel test fuq vettura tal-mutur meta -
 
 (ċ) il-persuna li tittestja ma tistax, bil-faċilitajiet u l-apparat li għandha fil-post, tikkompleta t-test jekk il-vettura għal xi raġuni ma tistax tinsaq fid-distanza meħtieġa għat-test; u
 
-(d) qabel ma jsir test ta’ vettura bil-mutur xi oġġetti li jkunu fil-vettura, u li ma jifformawx parti mit-tagħmir jew aċċessorji tagħha, huma meħtieġa, mill-persuna li [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-tittestja jew mill-ispettur, li jiġu mneħħija mill-vettura jew li jiġu mistura b’dak il-mod li jidhirlu li jkun meħtieġ, u dawn l-oġġetti ma jiġux hekk mneħħija jew mistura.
-
-*18*
+(d) qabel ma jsir test ta’ vettura bil-mutur xi oġġetti li jkunu fil-vettura, u li ma jifformawx parti mit-tagħmir jew aċċessorji tagħha, huma meħtieġa, mill-persuna li tittestja jew mill-ispettur, li jiġu mneħħija mill-vettura jew li jiġu mistura b’dak il-mod li jidhirlu li jkun meħtieġ, u dawn l-oġġetti ma jiġux hekk mneħħija jew mistura.
 
 ### 17. Kondizzjonijiet dwar responsabbiltà għal ħsara lil vetturi jew responsabbiltà lejn terzi persuni.
 
@@ -657,10 +587,6 @@ Din l-assikurazzjoni trid tkun bħal dik ta’ min ikollu l-faċilitajiet biex i
 (a) referenzi għal test, dwar vettura li, wara li jsir test, tibqa’ fil-kustodja ta’ operatur biex ikun jista’ jsir test ieħor fuq dik il-vettura, jinkludu referenzi għal dak it-test l-ieħor; u
 
 (b) referenzi għal perijodu li fih vettura tkun fil-kustodja tal-Awtorità, jinkludu referenzi għal kull perijodu li fih il-vettura tkun, f’konnessjoni mat-test fuq il-vettura minn spettur, taħt il-kontroll u kura tal-ispettur.
-
-*19*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 
 ### 18. Test wara inċidenti serji.
 
@@ -714,10 +640,6 @@ Id-dispożizzjonijiet li ġejjin fir-rigward tal-ittestjar għandhom japplikaw b
 
 (ii) 7.2 (fir-rigward biss ta’ vetturi tal-kategorija M1 li ma jintużawx għall-kiri),
 
-*20*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
 (iii) 7.4 (fir-rigward biss ta’ vetturi tal-kategorija M1 li ma jintużawx għall-kiri, vetturi tal-kategoriji N u O, u vetturi tal-kategoriji T1b, T2b, T3b, T4.1b, T4.2b u T4.3b),
 
 (iv) 7.5 (fir-rigward biss ta’ vetturi tal-kategorija M1 li ma jintużawx għall-kiri, vetturi tal-kategoriji N u O, u vetturi tal-kategoriji T1b, T2b, T3b, T4.1b, T4.2b u T4.3b),
@@ -752,11 +674,7 @@ Id-dispożizzjonijiet li ġejjin fir-rigward tal-ittestjar għandhom japplikaw b
 
 (a) nuqqasijiet minuri li m’għandhom ebda effett sinifikanti fuq is-sikurezza tal-vettura jew ikollhom impatt fuq l-ambjent u nuqqasijiet minuri ta’ konformità oħrajn;
 
-(b) nuqqasijiet kbar li jistgħu jippreġudikaw is-sikurezza tal-vettura jew ikollhom impatt fuq l-ambjent jew iqiegħdu fil-periklu lil utenti oħra tat-triq jew BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
-nuqqasijiet ta’ konformità sinifikanti oħrajn;
-
-*21*
+(b) nuqqasijiet kbar li jistgħu jippreġudikaw is-sikurezza tal-vettura jew ikollhom impatt fuq l-ambjent jew iqiegħdu fil-periklu lil utenti oħra tat-triq jew nuqqasijiet ta’ konformità sinifikanti oħrajn;
 
 (ċ) nuqqasijiet perikolużi li jikkostitwixxu riskju dirett u immedjat għas-sikurezza stradali jew li jkollhom impatt fuq l-ambjent, li jiġġustifikaw li l-Awtorità tipprojbixxi l-użu tal-vettura fuq toroq pubbliċi.
 
@@ -776,11 +694,7 @@ Iżda l-appuntament għal spezzjoni mill-ġdid għandu jkun ġie iffissat qabel 
 
 Iżda wkoll jekk il-vettura ma tinġiebx għal test mill-ġdid fi żmien sittax-il ġurnata, il-liċenzja li tawtorizza l-użu ta’ dik il-vettura fit-triq għandha tiġi sospiża sa dak iż-żmien li n-nuqqasijiet ikunu ġew irrettifikati u jkun inħareġ ċertifikat ġdid tal-affidabbiltà stradali li juri li dik il-vettura tinsab f’kundizzjoni ta’ affidabbiltà stradali;
 
-(ċ) Fil-każ ta’ qbid ta’ nuqqasijiet perikolużi, it-test għandu jitqies li jkun falla u l-użu tal-vettura għandu jkun ipprojbit b’effett immedjat. Ir-riżultat tat-test għandu jinkludi avviż li jinforma lis-sewwieq illi l-vettura hija ipprojbita milli tintuża fit-triq sakemm dawk in-nuqqasijiet jiġu rrettifikati. L-użu ta’ tali vettura għandu jkun permess biss sabiex tasal sa wieħed mill-eqreb ħwienet tax-xogħol fejn dawk in-nuqqasijiet jistgħu jiġu rrettifikati u sabiex tmur lura [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-fl-istazzjon biex titressaq għal spezzjoni mill-ġdid. Dik il-vettura għandha tingħata perjodu li ma jaqbiżx sittax-il ġurnata biex jiġu effettwati t-tiswijiet meħtieġa u biex titressaq għal spezzjoni mill-ġdid:
-
-*22*
+(ċ) Fil-każ ta’ qbid ta’ nuqqasijiet perikolużi, it-test għandu jitqies li jkun falla u l-użu tal-vettura għandu jkun ipprojbit b’effett immedjat. Ir-riżultat tat-test għandu jinkludi avviż li jinforma lis-sewwieq illi l-vettura hija ipprojbita milli tintuża fit-triq sakemm dawk in-nuqqasijiet jiġu rrettifikati. L-użu ta’ tali vettura għandu jkun permess biss sabiex tasal sa wieħed mill-eqreb ħwienet tax-xogħol fejn dawk in-nuqqasijiet jistgħu jiġu rrettifikati u sabiex tmur lura fl-istazzjon biex titressaq għal spezzjoni mill-ġdid. Dik il-vettura għandha tingħata perjodu li ma jaqbiżx sittax-il ġurnata biex jiġu effettwati t-tiswijiet meħtieġa u biex titressaq għal spezzjoni mill-ġdid:
 
 Iżda l-appuntament għal spezzjoni mill-ġdid għandu jkun ġie iffissat qabel ma sid il-vettura jitlaq mill-istazzjon fejn isiru testijiet wara li jkun sar it-test oriġinali, u jekk jiġi jinħareġ riżultat pożittiv wara dan it-test li jkun sar mill-ġdid li jiċċertifika li t-tiswijiet meħtieġa saru fuq il-vettura bil-mutur biex jiġu mħarsa il-ħtiġiet preskritti, għandu jitħallas dritt li ma jkunx aktar minn ħamsin fil-mija tad-dritt għat-test sħiħ kif speċifikat fit-Tmien Skeda:
 
@@ -806,11 +720,7 @@ Iżda wkoll jekk il-vettura ma tinġiebx għal test mill-ġdid fi żmien sittax-
 
 (b) jikkonfermaw in-notifika ta’ riżultat negattiv tat-test, fil-każ fejn il-ħtiġiet preskritti ma ġewx mħarsa, u jagħtu r-raġunijiet:
 
-Iżda jekk it-tiswijiet meħtieġa biex jiġu mħarsa il-ħtiġiet preskritti isiru, il-vettura tista’ tintbagħat għal test mill-ġdid fi żmien sittax-il ġurnata, liema appuntament ikun ġie iffissat qabel ma s-sid tal-vettura jitlaq mill-istazzjon fejn isiru testijiet wara li jsir it-test oriġinali, u jekk jiġi maħruġ riżultat pożittiv ta’ BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
-test wara dan it-test mill-ġdid li jiċċertifika li t-tiswijiet meħtieġa saru fuq il-vettura bil-mutur biex jiġu mħarsa il-ħtiġiet preskritti, għandu jitħallas dritt li ma jkunx aktar minn ħamsin fil-mija tad-dritt għat-test sħiħ kif speċifikat fit-Tmien Skeda:
-
-*23*
+Iżda jekk it-tiswijiet meħtieġa biex jiġu mħarsa il-ħtiġiet preskritti isiru, il-vettura tista’ tintbagħat għal test mill-ġdid fi żmien sittax-il ġurnata, liema appuntament ikun ġie iffissat qabel ma s-sid tal-vettura jitlaq mill-istazzjon fejn isiru testijiet wara li jsir it-test oriġinali, u jekk jiġi maħruġ riżultat pożittiv ta’ test wara dan it-test mill-ġdid li jiċċertifika li t-tiswijiet meħtieġa saru fuq il-vettura bil-mutur biex jiġu mħarsa il-ħtiġiet preskritti, għandu jitħallas dritt li ma jkunx aktar minn ħamsin fil-mija tad-dritt għat-test sħiħ kif speċifikat fit-Tmien Skeda:
 
 Iżda wkoll jekk vettura ma tinġiebx għal test mill-ġdid fi żmien sittax-il ġurnata, id-dispożizzjonijiet kollha ta’ dawn ir-regolamenti rigward testijiet għandhom japplikaw:
 
@@ -839,10 +749,6 @@ u kull firma fuq riżultat pożittiv ta’ test jew notifika ta’ riżultat neg
 (iv) il-klassi tal-vettura;
 
 (v) in-numru taċ-ċertifikat tar-riżultat tat-test tal-vettura maħruġ mill-operatur;
-
-*24*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 (vi) in-numru tal-irċevuta tat-test;
 
@@ -886,10 +792,6 @@ Għal kull vettura li tkun għaddiet minn test tal-affidabbiltà stradali, l-Awt
 
 (a) id-dritt li jitħallas lill-operatur;
 
-*25*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
 (b) il-ħlas għall-amministrazzjoni; u
 
 *Kap. 406.*
@@ -916,15 +818,13 @@ BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 
 (6) Meta jkun stabbilit b’mod ċar li appell minn operatur ikun sar b’mod frivolu u, jew b’mod vessatorju, dak l-operatur għandu jeħel multa amministrattiva ta’ miejn u tletin euro (€230).
 
-(7) In-nuqqas ta’ ħlas, fil-perijodu preskritt, tal-multi msemmija fis-subregolamenti (3) u (4) iwassal għas-sospensjoni tal-awtorizzazzjoni ta’ operatur flimkien ma’ multa amministrattiva ta’ ħdax-il euro (€11) kuljum sakemm titħallas il-multa dovuta. [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
+(7) In-nuqqas ta’ ħlas, fil-perijodu preskritt, tal-multi msemmija fis-subregolamenti (3) u (4) iwassal għas-sospensjoni tal-awtorizzazzjoni ta’ operatur flimkien ma’ multa amministrattiva ta’ ħdax-il euro (€11) kuljum sakemm titħallas il-multa dovuta.
 
 ### 22. Dritt ta’ appell.
 
 *Miżjud: A.L. 43 tal-2008. Emendat: XV. 2009.49. Sostitwit: A.L. 90 tal-2010.*
 
 Persuna li tħoss ruħha aggravata minn deċiżjoni tal- Awtorità li ma tagħtix jew ma ġġeddidx, jew li tissospendi jew tirrevoka awtorizzazzjoni, jew li timponi kundizzjonijiet, limitazzjonijiet jew esklużjonijiet fiha jew dwarha, li tħassar dik il-persuna mir-reġistru ta’ persuni li jittestjaw, ikollha d-dritt li, fi żmien wieħed u għoxrin ġurnata mill-avviż tad-deċiżjoni, tappella quddiem it-Tribunal.
-
-*26*
 
 ### 23. Il-perijodu li fih jibqgħu jgħoddu l-punti ta’ penalità.
 
@@ -960,11 +860,7 @@ Meta operatur jew persuna li tittestja -
 
 (f) tiffalsifika data li tkun ġiet reġistrata waqt li jkun qed isir it-test tal-vettura,
 
-dak l-operatur jew persuna li tittestja, skont ma jkun il-każ, tkun ħatja ta’ reat u tista’, meta tinstab ħatja, teħel dawk il-pieni imposti BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
-mill-Qorti flimkien mar-revoka tal-awtorizzazzjoni tal-operatur jew, fil-każ ta’ persuna li tittestja, mat-tħassir ta’ isem il-persuna li tittestja mir-reġistru għal perijodu ta’ mhux anqas minn għaxar snin.
-
-*27*
+dak l-operatur jew persuna li tittestja, skont ma jkun il-każ, tkun ħatja ta’ reat u tista’, meta tinstab ħatja, teħel dawk il-pieni imposti mill-Qorti flimkien mar-revoka tal-awtorizzazzjoni tal-operatur jew, fil-każ ta’ persuna li tittestja, mat-tħassir ta’ isem il-persuna li tittestja mir-reġistru għal perijodu ta’ mhux anqas minn għaxar snin.
 
 ## TAQSIMA VII — Dispożizzjonijiet Ġenerali
 
@@ -1000,11 +896,7 @@ Iżda ma tittieħed ebda azzjoni biex jiġi rintraċċat riżultat pożittiv ta�
 
 Kull spettur jista’ f’kull ħin, waqt il-ġurnata normali tax-xogħol, wara li juri x’kariga għandu, jekk hekk meħtieġ, jidħol f’xi stazzjon u jkollu d-dritt li -
 
-(a) jispezzjona l-istazzjon u l-apparat li jkun hemm fl- [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-istazzjon u jeżamina u jara xi testijiet li jkunu qegħdin isiru;
-
-*28*
+(a) jispezzjona l-istazzjon u l-apparat li jkun hemm fl-istazzjon u jeżamina u jara xi testijiet li jkunu qegħdin isiru;
 
 (b) jassigura dwar l-effiċjenza ta’ dak l-apparat għal dak li għandu x’jaqsam mal-kalibrazzjoni u, fil-każ ta’ apparat li hu ntiż biex jagħti indikazzjoni ta’ kejl, li jitlob li tingħatalu prova li dak l-apparat ikun jista’ jagħti dak il-kejl b’mod preċiż f’limiti raġonevoli;
 
@@ -1037,10 +929,6 @@ Iżda sakemm is-software jitlesta mill-Awtorità, kull software ieħor użat mil
 *Emendat: A.L. 124 tal-2017.*
 
 (Din it-Taqsima għandha tibqa fis-seħħ sad-19 ta’ Mejju 2018)
-
-*29*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 
 ### 30. Klassijiet ta’ vetturi li għandhom jiġu soġġetti għal spezzjonijiet tul it-triq.
 
@@ -1082,11 +970,7 @@ Oġġetti msemmija fil-partita 10 tal-Anness I tad-Direttiva 2000/30/KE kif emen
 
 (3) Meta uffiċjal li jispezzjona jqis li n-nuqqasijiet fil-manutenzjoni ta’ vettura jistgħu jippreżentaw riskju għas-sigurtà b’tali mod li, b’mod partikolari fir-rigward tal-brejkijiet, tkun ġustifikata aktar spezzjoni, il-vettura għandha tkun soġġetta għal test aktar elaborat fl-aktar ċentru viċin fejn il-vetturi jsirilhom it-test.
 
-(4) Meta jkun jidher ċar li vettura tkun tippreżenta riskju gravi għal dawk li jkunu fiha jew għal utenti oħra tat-triq kemm waqt [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-spezzjoni fil-ġenb ta’ triq jew waqt it-test aktar elaborat imsemmi fis-subregolament (3), l-użu ta’ dik il-vettura għandu jiġi projbit sakemm in-nuqqasijiet perikolużi li jkunu nstabu jiġu rranġati.
-
-*30*
+(4) Meta jkun jidher ċar li vettura tkun tippreżenta riskju gravi għal dawk li jkunu fiha jew għal utenti oħra tat-triq kemm waqt spezzjoni fil-ġenb ta’ triq jew waqt it-test aktar elaborat imsemmi fis-subregolament (3), l-użu ta’ dik il-vettura għandu jiġi projbit sakemm in-nuqqasijiet perikolużi li jkunu nstabu jiġu rranġati.
 
 (5) L-Awtorità għandha, bla ħsara għal kull prosekuzzjoni, tgħaddi rapport dwar in-nuqqasijiet gravi li jinsabu f’vettura ta’ persuna li jkollha r-residenza tagħha fi Stat Membru ieħor, b’mod partikolari dawk in-nuqqasijiet li jwasslu għal projbizzjoni fuq l-użu, lill-awtoritajiet kompetenti ta’ dak l-Istat, fejn jiġi użat ir-rapport li jkun sar mill-uffiċjal li jispezzjona.
 
@@ -1128,10 +1012,6 @@ Għal vetturi fil-Kategorija I, Kategorija II u Kategorija III (trailers O3 u O4
 
 \*Numerat mill-ġdid bħala konsegwenza tal-emendi magħmula bl-Avviż Legali 159 tal-2003.
 
-*31*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
 (2) Għall-finijiet tal-implimentazzjoni tas-subregolament (1), l-Awtorità għandha tuża l-informazzjoni rċevuta minn Stati Membri oħra skont ir-regolament 52(1).
 
 (3) L-Awtorità għandha tippermetti testijiet volontarji ta’ affidabbiltà stradali fuq vetturi suġġetti għad-dispożizzjonijiet ta’ dawn ir-regolamenti. L-informazzjoni dwar il-konformità mar-rekwiżiti ta’ affidabbiltà stradali miksuba minn testijiet volontarji għandhom jitqiesu sabiex jittejjeb il-profil ta’ riskju ta’ impriża.
@@ -1166,11 +1046,7 @@ BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 
 (iv) ikollha minn tal-anqas tlett snin ta’ esperjenza dokumentata jew ekwivalenti, bħal konsulenza personali jew studji dokumentati, u taħriġ xieraq fil-qasam ta’ vettura tat-triq;
 
-(v) ikollha ċertifikat ta’ kompetenza maħruġ mill-Awtorità wara li tkun temmet b’suċċess kors ta’ taħriġ [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-organizzat mill-Awtorità jew minn korp akkreditat mill-Awtorità, liema taħriġ għandu jkun relatat mas-suġġetti elenkati fil-punt 2(a) tal-Anness IV tad- Direttiva 2014/45/KE; jew ikollha ċertifikat ekwivalenti maħruġ mill-awtorità kompetenti ta’ Stat Membru:
-
-*32*
+(v) ikollha ċertifikat ta’ kompetenza maħruġ mill-Awtorità wara li tkun temmet b’suċċess kors ta’ taħriġ organizzat mill-Awtorità jew minn korp akkreditat mill-Awtorità, liema taħriġ għandu jkun relatat mas-suġġetti elenkati fil-punt 2(a) tal-Anness IV tad- Direttiva 2014/45/KE; jew ikollha ċertifikat ekwivalenti maħruġ mill-awtorità kompetenti ta’ Stat Membru:
 
 Iżda r-rekwiżiti elenkati fil-punti (ii) sa (v) għandhom japplikaw biss għall-uffiċjali li jispezzjonaw li huma awtorizzati biex iwettqu spezzjonijiet tekniċi aktar dettaljati waqt it-traġitt skont ir-regolament 42(3):
 
@@ -1202,11 +1078,7 @@ Iżda wkoll l-uffiċjali li jispezzjonaw li huma impjegati bħala tali mal-Awtor
 
 (1) Waqt kull spezzjoni teknika inizjali waqt it-traġitt ta’ vettura, l-uffiċjal li jispezzjona:
 
-(a) għandu jivverifika ċ-ċertifikat tal-affidabbiltà stradali u r-rapport tal-ispezzjoni teknika waqt it-traġitt l-aktar reċenti, fejn ikunu disponibbli, li jkunu qed jinżammu BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
-abbord jew evidenza elettronika ta’ dawn skont ir-regolament 39(1);
-
-*33*
+(a) għandu jivverifika ċ-ċertifikat tal-affidabbiltà stradali u r-rapport tal-ispezzjoni teknika waqt it-traġitt l-aktar reċenti, fejn ikunu disponibbli, li jkunu qed jinżammu abbord jew evidenza elettronika ta’ dawn skont ir-regolament 39(1);
 
 (b) għandu jwettaq valutazzjoni viżiva tal-kundizzjoni teknika tal-vettura;
 
@@ -1231,10 +1103,6 @@ abbord jew evidenza elettronika ta’ dawn skont ir-regolament 39(1);
 (2) Fejn ikollha titwettaq spezzjoni aktar dettaljata fi stazzjon tal-VRT jew f’faċilità magħżula għall-ispezzjoni waqt it-traġitt, din għandha titwettaq malajr kemm jista’ jkun f’wieħed mill-eqreb stazzjonijiet jew faċilitajiet prattikabbli.
 
 (3) L-unitajiet mobbli tal-ispezzjoni u l-faċilitajiet magħżula għall-ispezzjoni waqt it-traġitt għandhom jinkludu tagħmir xieraq għat-twettiq ta’ spezzjoni teknika aktar dettaljata waqt it-traġitt, inkluż it-tagħmir meħtieġ għall-valutazzjoni tal-kundizzjoni tal-brejkijiet u l-effiċjenza tal-brejkijiet, l-istering, is-sospensjoni u l-fastidju kkawżat mill-vettura, kif meħtieġ. Meta l-unitajiet ta’ spezzjoni mobbli jew il-faċilitajiet magħżula tal-ispezzjoni waqt it-traġitt ma jinkludux it-tagħmir meħtieġ biex jivverifika element indikat fi spezzjoni inizjali, il-vettura għandha tiġi diretta lejn stazzjon tal-VRT fejn tkun tista’ ssir verifika dettaljata ta’ dak l-element.
-
-*34*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 ### 44. Valutazzjoni tan-nuqqasijiet.
 
@@ -1264,11 +1132,7 @@ abbord jew evidenza elettronika ta’ dawn skont ir-regolament 39(1);
 
 (2) Mingħajr preġudizzju għar-rekwiżiti applikabbli għat-trasport ta’ ċerti kategoriji ta’ oġġetti bħal dawk koperti mill-ADR, l-irbit tal-merkanzija u l-ispezzjoni tal-irbit tal-merkanzija jistgħu jitwettqu skont il-prinċipji u fejn xieraq, l-istandards stabbiliti fit-taqsima I tal-Anness III tad-Direttiva 2014/47/KE. Tista’ tintuża l-aħħar verżjoni tal-istandards stipulati fil-punt 5 tat-taqsima I tal- Anness III tal-istess Direttiva.
 
-(3) Il-proċeduri ta’ segwitu msemmija fir-regolament 46 jistgħu japplikaw ukoll f’każ ta’ nuqqasijiet kbar jew perikolużi BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
-relatati mal-irbit tal-merkanzija.
-
-*35*
+(3) Il-proċeduri ta’ segwitu msemmija fir-regolament 46 jistgħu japplikaw ukoll f’każ ta’ nuqqasijiet kbar jew perikolużi relatati mal-irbit tal-merkanzija.
 
 (4) L-uffiċjali li jispezzjonaw involuti f'kontrolli tal-irbit tal-merkanzija għandhom jiġu mħarrġin kif xieraq għal dak il-għan mill-Awtorità jew minn korp akkreditat mill-Awtorità.
 
@@ -1290,15 +1154,13 @@ relatati mal-irbit tal-merkanzija.
 
 (1)L-Awtorità għandu jkollha s-setgħa fid-diskrezzjoni tagħha li timponi l-penalitajiet amministrattivi preskritti fl- Erbatax-il Skeda fuq kwalunkwe impriża li tikser id-dispożizzjonijiet tar-regolament 39(1) u/jew li jkollha vettura li jkunu nstabulha nuqqasijiet kbar jew perikolużi wara spezzjoni aktar dettaljata.
 
-(2) Meta tkun ġiet imposta penali amministrattiva skont is-subregolament (1), l-uffiċjal li jispezzjona għandu jitlob lix-xufier iħallas depożitu ugwali għal dik il-penali amministrattiva. L-uffiċjal li jispezzjona jista’ jikklampja l-vettura sakemm jitħallas għal kollox id-depożitu; dejjem jekk tingħata rċevuta uffiċjali mill-uffiċjal li jispezzjona lix-xufier biex turi li sar il-ħlas ta’ dak id-depożitu. Id-depożitu għandu jiġi rimborsat jekk isir appell mill-persuna li fuqha kienet imposta u t-Tribunal jirrevoka l-penali amministrattiva imposta fuq dik il-persuna. Meta ma jsir l-ebda appell fiż-żmien stipulat f’dawn ir-regolamenti jew isir appell u t- Tribunal jikkonferma l-penali amministrattiva, id-depożitu għandu jitqies mill-Awtorità bħala ħlas ta’ dik il-penali amministrattiva. [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
+(2) Meta tkun ġiet imposta penali amministrattiva skont is-subregolament (1), l-uffiċjal li jispezzjona għandu jitlob lix-xufier iħallas depożitu ugwali għal dik il-penali amministrattiva. L-uffiċjal li jispezzjona jista’ jikklampja l-vettura sakemm jitħallas għal kollox id-depożitu; dejjem jekk tingħata rċevuta uffiċjali mill-uffiċjal li jispezzjona lix-xufier biex turi li sar il-ħlas ta’ dak id-depożitu. Id-depożitu għandu jiġi rimborsat jekk isir appell mill-persuna li fuqha kienet imposta u t-Tribunal jirrevoka l-penali amministrattiva imposta fuq dik il-persuna. Meta ma jsir l-ebda appell fiż-żmien stipulat f’dawn ir-regolamenti jew isir appell u t- Tribunal jikkonferma l-penali amministrattiva, id-depożitu għandu jitqies mill-Awtorità bħala ħlas ta’ dik il-penali amministrattiva.
 
 ### 48. Drittijiet li għandhom jitħallsu għal spezzjonijiet, ikklampjar u rmunkar ta’ vetturi.
 
 *Miżjud: A.L. 124 tal-2017.*
 
 (1)Meta jinstabu nuqqasijiet wara spezzjoni aktar dettaljata li tkun twettqet fi stazzjon tal-VRT, għandu jiġi impost fuq l-impriża li taħt isimha l-vettura tkun irreġistrata d-dritt tat-test relattiv għal dik il-vettura kif speċifikat fit-Tmien Skeda.
-
-*36*
 
 (2) Meta l-vettura tkun ġiet ikklampjata jew irmunkata skont ir-regolamenti 46(3) jew 47(2), għandhom jiġu imposti fuq l-impriża li taħt isimha l-vettura tkun irreġistrata d-drittijiet stabbiliti fir-Regolamenti dwar l-Ikklampjar u t-Tneħħija ta’ Vetturi bil- Mutur u Oġġetti ta’ Ingombru.
 
@@ -1336,13 +1198,9 @@ L-Awtorità għandha tkun maħtura bħala l-punt ta’ kuntatt li għandha:
 
 (b) tikkomunika d-data msemmija fir-regolament 53 lill-Kummissjoni Ewropea; u
 
-(ċ) tiżgura, fejn xieraq, kwalunkwe skambju ieħor ta’ informazzjoni ma’ punti ta’ kuntatt tal-Istati Membri l-oħra u għoti ta’ għajnuna lill-punti ta’ kuntatt tal-Istati Membri l-oħra. 52. (1) F’każijiet meta jinstabu nuqqasijiet kbar jew perikolużi, jew nuqqasijiet li jirriżultaw f’restrizzjoni jew f’projbizzjoni tal-użu tal-vettura, f’vettura li mhijiex irreġistrata f’Malta, l-Awtorità għandha tinnotifika r-riżultati tal-ispezzjoni lill-punt ta’ kuntatt tal- Istat Membru tar-reġistrazzjoni tal-vettura. Tali notifika għandu jkun fiha l-elementi tar-rapport tal-ispezzjoni matul it-traġitt kif stipulat fis-Sittax-il Skeda u għandha tiġi kkomunikata permezz BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
+(ċ) tiżgura, fejn xieraq, kwalunkwe skambju ieħor ta’ informazzjoni ma’ punti ta’ kuntatt tal-Istati Membri l-oħra u għoti ta’ għajnuna lill-punti ta’ kuntatt tal-Istati Membri l-oħra. 52. (1) F’każijiet meta jinstabu nuqqasijiet kbar jew perikolużi, jew nuqqasijiet li jirriżultaw f’restrizzjoni jew f’projbizzjoni tal-użu tal-vettura, f’vettura li mhijiex irreġistrata f’Malta, l-Awtorità għandha tinnotifika r-riżultati tal-ispezzjoni lill-punt ta’ kuntatt tal- Istat Membru tar-reġistrazzjoni tal-vettura. Tali notifika għandu jkun fiha l-elementi tar-rapport tal-ispezzjoni matul it-traġitt kif stipulat fis-Sittax-il Skeda u għandha tiġi kkomunikata permezz tar-reġistru elettroniku nazzjonali kif imsemmi fl-Artikolu 16 tar- Regolament (KE) Nru 1071/2009.
 
 *Kooperazzjoni bejn l-Istati Membri. Miżjud: A.L. 74 tal-2024.*
-
-tar-reġistru elettroniku nazzjonali kif imsemmi fl-Artikolu 16 tar- Regolament (KE) Nru 1071/2009.
-
-*37*
 
 (2) F’każijiet fejn jinstabu nuqqasijiet kbar jew perikolużi f’vettura li tkun ġiet spezzjonata, iżda mhux reġistrata f’Malta, l-Awtorità tista’ titlob lill-awtorità kompetenti tal-Istat Membru li fih il-vettura tkun reġistrata, permezz tal-punt ta’ kuntatt ta’ dak l-Istat Membru, sabiex tieħu azzjoni xierqa ta’ segwitu, bħas-sottomissjoni tal-vettura għal test ieħor tal-affidabbiltà stradali kif ipprovdut fir-regolament 46.
 
@@ -1363,10 +1221,6 @@ tar-reġistru elettroniku nazzjonali kif imsemmi fl-Artikolu 16 tar- Regolament 
 (2) L-ewwel rapport għandu jkopri l-perjodu ta’ sentejn li jibda fl-1 ta’ Jannar 2019.
 
 (3) Id-data msemmija fis-subregolament (1) għandha tiġi kkomunikata b’mezzi elettroniċi skont regoli li għandhom jiġu stabbiliti mill-Kummissjoni Ewropea dwar il-format li bih tali data għandha tiġi kkomunikata. Sakemm jiġu stabbiliti l-imsemmija regoli, il-formola standard ta’ rappurtar stipulata fis-Sbatax-il Skeda għandha tintuża.
-
-*38*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 Emendata: L-EWWEL SKEDA
 
@@ -1426,9 +1280,7 @@ Il-vetturi kollha taħt il-Kategorija I u l-Kategorija II li, skont ir-Regolamen
 
 Eżami tas-siġill tal-high pressure fuel pump.
 
-Meta dan ikun japplika, il-vetturi fil-klassijiet kollha li jkunu BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15 39
-
-mgħammra b’magna li taħdem bid-diesel għandhom jiġu eżaminati dwar jekk il-pompa tal-fuel bi pressjoni għolja tkunx issiġillata jew le. F. Eżami tad-dħul ta’ dawl mill-ħġieġ kollu tal-vettura bil-mutur biex ikun żgurat li dawn ikunu konformi mal-livelli preskritti fir-Regolamenti dwar il- Vetturi bil-Mutur.
+Meta dan ikun japplika, il-vetturi fil-klassijiet kollha li jkunu mgħammra b’magna li taħdem bid-diesel għandhom jiġu eżaminati dwar jekk il-pompa tal-fuel bi pressjoni għolja tkunx issiġillata jew le. F. Eżami tad-dħul ta’ dawl mill-ħġieġ kollu tal-vettura bil-mutur biex ikun żgurat li dawn ikunu konformi mal-livelli preskritti fir-Regolamenti dwar il- Vetturi bil-Mutur.
 
 G. Apparat għat-tifi tan-nar li jkun jiffunzjona fil-vetturi N1, N2, N3, M2 u M3 u fit-taxis.
 
@@ -1474,10 +1326,6 @@ KATEGORIJA VII- Mopeds, Motorcycles, Motor Tricycles, Kwadriċikletti u Quad Bik
 
 KATEGORIJA VIII - Tratturi bir-roti b’veloċità massima skont id-disinn li jaqbżu l- 40 km/h, li l-użu tagħhom prinċipalment isir f’toroq pubbliċi (vetturi T1b, T2b, T3b, T4.1b, T4.2b u T4.3b).
 
-*40*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
 *Emendata: A.L. 159 tal-2003; A.L. 90 tal-2010; A.L. 49 tal-2012. Sostitwita: A.L. 87 tal-2012. Emendata: A.L. 124 tal-2017.*
 
 IT-TIELET SKEDA
@@ -1487,10 +1335,6 @@ IT-TIELET SKEDA
 APPLIKAZZJONI GĦAL AWTORIZZAZZJONI BIEX TAĦDEM BĦALA
 
 OPERATUR TA’ STAZZJON FEJN JIĠU TTESTJATI L-VETTURI
-
-*41*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15 42 [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 Emendata: IR-RABA’ SKEDA
 
@@ -1536,8 +1380,6 @@ Tester ta’ pjanċa tal-ibbrejkjar ekwivalenti għal tester bir-romblu għall-b
 
 (ċ) għall-vetturi li għandhom piż massimu li jaqbeż it-3.5 tunnellati, il-pjanċi għandhom jikkonformaw mar-rekwiżiti tekniċi li ġejjin:
 
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15 43
-
 \- ċaqliq lonġitudinali u trasversali ta’ mill-inqas 95 mm,
 
 \- veloċità ta’ ċaqliq lonġitudinali u trasversali minn 5 cm/ s sa 15 cm/s;
@@ -1577,8 +1419,6 @@ Il-passaġġ/passaġġi ta’ testjiet, li għandhom ikunu kompjuterizzati għal
 \2. jittestjaw il-ħruġ ta’ gass ta’ exhaust minn magni tal-petrol mill-inqas għal-livelli ta’ gassijiet ta’ monossidu tal-karbonju u idrokarbonju li ma jeċċedux l-ispeċifikazzjonijiet tal-fabbrikanti ta’ mill-inqas 0% volum u 50 ppm rispettivament;
 
 \3. ikejlu t-tidwiriet sħaħ tal-magna kull minuta u t-temperatura taż-żejt tal-magna waqt il-ħin tat-test;
-
-44 [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 \4. jeżegwixxu test Lambda skont l-ispeċifikazzjoni tal-fabbrikanti u jkollhom 1K bħala l-limitu tal-valur tiegħu;
 
@@ -1620,15 +1460,11 @@ tal-persuni
 
 *x x x*
 
-≤ 3,500 kg M1, M2 P x x x x x BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
-*x x x x x x x x x x x x x*
-
-≤ 3,500 kg M1, M2 D x x x > 3,500 kg M2, M3 P x x x x x x x > 3,500 kg M2, M3 D x x x x x x x 3. Vetturi
-
-*45*
+≤ 3,500 kg M1, M2 P x x x x x ≤ 3,500 kg M1, M2 D x x x > 3,500 kg M2, M3 P x x x x x x x > 3,500 kg M2, M3 D x x x x x x x 3. Vetturi
 
 għall-ġarr
+
+*x x x x x x x x x x x x x*
 
 tal-
 
@@ -1704,10 +1540,6 @@ O2 x x
 
 \> 3,500 kg O3, O4 x x x x x \* Il-kategoriji ta’ vetturi li huma barra l-kamp ta’ applikazzjoni ta’ dawn ir-regolamenti huma inklużi bħala gwida. \*\* P... petrol tqabbid bi spark); D...diesel (tqabbid bil-kompressjoni)".
 
-*46*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
 Emendata: IL-ĦAMES SKEDA
 
 A.L. 43 tal-2008.
@@ -1763,10 +1595,6 @@ IS-SITT SKEDA
 IS-SEBA’ SKEDA
 
 (Mħassra bl-Avviż Legali 90 tal-2010)
-
-*47*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 
 IT-TMIEN SKEDA Sostiwita:
 
@@ -1843,10 +1671,6 @@ tal-merkanzija u li għandhom l-
 ogħla massa permessibbli to 31.10 41.10 46.10 mhux iżjed minn 3.5 tunnellati
 
 metriċi (vetturi N2 u N3)
-
-*48*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 Kategorija III
 
@@ -1932,10 +1756,6 @@ kombustjoni bi spostar ta’ aktar
 
 minn 125 cm³)
 
-*49*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
-
 Kategorija VIII\*\*\*
 
 Tratturi bir-roti b’veloċità
@@ -1992,8 +1812,6 @@ minn dak il-pajjiż jew minn
 
 kwalunkwe Stat Membru ieħor.
 
-50 [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
 Bdil tad-detentur taċ-ċertifikat Bħal dawk Bħal dawk Bħal dawk
 
 ta’ reġistrazzjoni ta’ vetturi ta’ hawn ta’ hawn ta’ hawn
@@ -2049,10 +1867,6 @@ C. Sentejn mid-data tal-ewwel reġistrazzjoni u kull sentejn minn hemm ’il qud
 D. Erba snin mid-data tal-ewwel reġistrazzjoni u kull sentejn minn hemm ’il quddiem
 
 E. Sena minn meta tkun laħqet distanza misjuqa ta’ aktar minn 160,000km f’test tal-affidabbiltà stradali u kull sena minn hemm ’il quddiem
-
-*51*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 
 *Sostiwita: A.L. 157 tal-1999; A.L. 159 tal-2003; A.L. 41 tal-2006; A.L. 69 tal-2006; A.L. 408 tal-2007; A.L. 49 tal-2012. Emendata: A.L. 149 tal-2014; A.L. 124 tal-2017; A.L. 298 tal-2022.*
 
@@ -2120,8 +1934,6 @@ Vetturi bil-mutur li jkollhom għallinqas erba’ roti, jiġu użati għall-ġar
 
 *0.45*
 
-52 [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
 **Kategorija tal-vettura**
 
 *Dritt amministrattiv €*
@@ -2149,10 +1961,6 @@ L-GĦAXAR SKEDA
 IL-ĦDAX-IL SKEDA
 
 (Mħassra bl-Avviż Legali 49 tal-2012)
-
-*53*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 
 Miżjuda: IT-TNAX-IL SKEDA
 
@@ -2231,10 +2039,6 @@ uffiċjali fuq dik il-vettura partikolari
 *10*
 
 sewqan
-
-*54*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 *16 17*
 
@@ -2345,10 +2149,6 @@ Tinjora n-nuqqas tas-sistema biex trażżan it-titjir tal-
 Tinjora difett jew tonqos milli tittestja l-apparat li jwissi
 
 dwar is-sistema tal-ibbrejkar 50
-
-*55*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15
 
 44 Tinjora difett jew tonqos milli tittestja s-sistema tal-
 
@@ -2473,10 +2273,6 @@ korrużjoni fuq punti ta’ stress tal-vettura
 *10*
 
 twissija li tinstema’
-
-*56*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 *67*
 
@@ -2608,8 +2404,6 @@ parti terza mingħajr l-approvazzjoni Awtorità 300
 
 Teqred dokumenti jew form uffiċjali 1,000
 
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15 57
-
 88 Tonqos milli żżomm notamenti kif meħtieġ skont ir-
 
 regolament 26(1) 50
@@ -2670,9 +2464,7 @@ Proċedura dwar it-teħid u l-preżentazzjoni ta’ ritratti tal-vetturi li jkun
 
 \4. Din il-proċedura hija applikabbli għall-vetturi kollha li huma soġġetti għat-test tal-VRT.
 
-\5. Vetturi użati li jiġu importati jew miġjuba f’Malta u li jkunu meħtieġa li jiġu spezzjonati qabel ma jiġu reġistrati mill-Awtorità u li ma jkollhomx numru tar- 58 [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-reġistrazzjoni, għandhom ikollhom ukoll l-aħħar tliet ċifri tan-numru tax-chassis imqiegħda fuq il-windscreen qabel ma jittieħed ir-ritratt. L-istess proċedura tkun applikabbli jekk il-vettura tkun teħtieġ li jsirilha t-tieni test.
+\5. Vetturi użati li jiġu importati jew miġjuba f’Malta u li jkunu meħtieġa li jiġu spezzjonati qabel ma jiġu reġistrati mill-Awtorità u li ma jkollhomx numru tar-reġistrazzjoni, għandhom ikollhom ukoll l-aħħar tliet ċifri tan-numru tax-chassis imqiegħda fuq il-windscreen qabel ma jittieħed ir-ritratt. L-istess proċedura tkun applikabbli jekk il-vettura tkun teħtieġ li jsirilha t-tieni test.
 
 \6. Kull ritratt meħud għandu juri d-data u l-ħin korretti ta’ meta jkun ittieħed; jiġifieri eżatt qabel ma jibda t-test tal-VRT.
 
@@ -2724,8 +2516,6 @@ Vettura misjuba li għandha
 
 nuqqasijiet perikolużi
 
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15 59
-
 Miżjuda: IL-ĦMISTAX-IL SKEDA
 
 A.L. 74 tal-2024.
@@ -2756,25 +2546,11 @@ Iċ-ċertifikat ta’ affidabbiltà stradali maħruġ wara test tal-affidabbilt�
 
 (10) Informazzjoni oħra.
 
-*60*
-
-[L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
 *Miżjuda: A.L. 74 tal-2024.*
 
 IS-SITTAX-IL SKEDA
 
 (regolamenti 49, 52 u 53)
-
-*61*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15 [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-*62*
-
-*63*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15 64 [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
 
 Miżjuda: IS-SBATAX-IL SKEDA
 
@@ -2789,9 +2565,3 @@ Il-formola standard għandha titfassal f’format li jista’ jiġi pproċessat 
 \- tabella unika ta’ sommarju; u
 
 \- għal kull pajjiż ta’ reġistrazzjoni tal-vetturi eżaminati waqt spezzjoni aktar dettaljata, tabella dettaljata separata li tinkludi l-informazzjoni dwar in-nuqqasijiet eżaminati u individwati għal kull kategorija ta’ vettura.
-
-*65*
-
-BIL-MUTUR HUMA TAJBA GĦAT-TRIQ [L.S.65.15 [L.S.65.15 BIL-MUTUR HUMA TAJBA GĦAT-TRIQ
-
-*66*

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Facilitating Inclusive Education taħt il-patroċinju tal-Fakultà ta' l-Edukazzjoni (S.L. 327.291)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.291
-
 **LEĠĠISLAZZJONI SUSSIDJARJA 327.291**
 
 ORDINAMENTI GĦAD-DIPLOMA IN FACILITATING INCLUSIVE EDUCATION TAĦT IL-PATROĊINJU
@@ -124,11 +120,7 @@ L-istudenti li ma jissodisfawx ir-rekwiżiti tal-kors għandhom jingħataw l-opp
 
 (1) Il-Marka Medja Finali Mwieżna għall-għan tal-klassifikazzjoni tad-Diploma għandha tkun ibbażata fuq ir-riżultati miksuba fil-kors, bil-kredti kollha jingħataw piż indaqs.
 
-(2) L-ismijiet ta’ l-istudenti li jikkwalifikaw għall-għoti tad- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.291
-
-Diploma għandhom ikunu ppubblikati f’lista f’ordni alfabetiku kklassifikati kif ġej:
-
-*3*
+(2) L-ismijiet ta’ l-istudenti li jikkwalifikaw għall-għoti tad- Diploma għandhom ikunu ppubblikati f’lista f’ordni alfabetiku kklassifikati kif ġej:
 
 Għadda b’Distinzjoni
 

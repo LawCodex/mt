@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Dmirijiet u l-Kondizzjonijiet ta’ Ħatra ta’ Uffiċjali tal-Pulizija għall-Patrol u għall-Appoġġ tal-Komunità"
-identifier: "S.L. 164.5"
+identifier: "S.L. 164.05"
 eli: "https://legislation.mt/eli/sl/164.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/164.5/20241025/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Dmirijiet u l-Kondizzjonijiet ta’ Ħatra ta’ Uffiċjali tal-Pulizija għall-Patrol u għall-Appoġġ tal-Komunità (S.L. 164.5)
-
-UFFIĊJALI TAL-PULIZIJA GĦALL-PATROL U
-
-*1*
-
-GĦALL-APPOĠĠ TAL-KOMUNITÀ [L.S. 164.05
+# Regolamenti dwar id-Dmirijiet u l-Kondizzjonijiet ta’ Ħatra ta’ Uffiċjali tal-Pulizija għall-Patrol u għall-Appoġġ tal-Komunità (S.L. 164.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 164.05**
 
@@ -62,13 +56,7 @@ Iżda għall-fini ta’ dan ir-regolament u r-Raba’ Skeda li tinsab mal-Att, p
 
 Uffiċjali tal-Pulizija għall-Patrol u għall-Appoġġ tal- Komunità għandhom jassistu lill-Uffiċjali tal-Pulizija fid-dmirijiet li ġejjin:
 
-(a) jipprovdu preżenza ta’ serħan il-moħħ lill- UFFIĊJALI TAL-PULIZIJA GĦALL-PATROL U
-
-*2*
-
-[L.S. 164.05 GĦALL-APPOĠĠ TAL-KOMUNITÀ
-
-pubbliku u jrawwmu relazzjonijiet komunitarji aktar b’saħħithom;
+(a) jipprovdu preżenza ta’ serħan il-moħħ lill-pubbliku u jrawwmu relazzjonijiet komunitarji aktar b’saħħithom;
 
 (b) itejbu l-kwalità tal-ħajja tar-residenti u jsaħħu s-sikurezza taż-żona billi jiġu indirizzati b’mod proattiv il-kriminalità u l-imġiba antisoċjali;
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Setgħat u Proċedura tat-Tribunal ta’ Reviżjoni Amministrattiva (S.L. 117.33)
 
-*1*
-
-TA’ REVIŻJONI AMMINISTRATTIVA [L.S.117.33
-
 **LEĠISLAZZJONI SUSSIDJARJA 117.33**
 
 REGOLAMENTI DWAR SETGĦAT U PROĊEDURA
@@ -59,8 +55,4 @@ It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar Setgħat u Proċedura 
 
 (3) Fil-waqt li jkun qed jittratta dwar appelli magħmul skont ir- Regolamenti dwar il-Kontroll tal-Pitrolju, it-Tribunal ta’ Reviżjoni Amministrattiva għandu jkollu s-setgħat kollha mogħtija bl-Att dwar il- Ġustizzja Amministrattiva u kull appell ippreżentat quddiem l-imsemmi Tribunal għandu jkun regolat bl-Att dwar il-Ġustizzja Amministrattiva u b’kull leġislazzjoni sussidjarja magħmula taħt dak l-Att.
 
-(4) Appell minn deċiżjoni tad-Direttur għandu jiġi ppreżentat fi [L.S.117.33 TA’ REVIŻJONI AMMINISTRATTIVA
-
-żmien għoxrin ġurnata min-notifika ta’ dik id-deċiżjoni lill-appellant, hekk iżda li appelli ppreżentati quddiem it-Tribunal ta’ Reviżjoni Amministrattiva minn deċiżjoni tal-imsemmi Direttur qabel il-bidu fis-seħħ ta’ dawn ir-regolamenti għandhom ikomplu jkunu validi ukoll jekk ma jkunux ġew ippreżentati fi żmien l-imsemmi perjodu ta’ għoxrin ġurnata.
-
-*2*
+(4) Appell minn deċiżjoni tad-Direttur għandu jiġi ppreżentat fi żmien għoxrin ġurnata min-notifika ta’ dik id-deċiżjoni lill-appellant, hekk iżda li appelli ppreżentati quddiem it-Tribunal ta’ Reviżjoni Amministrattiva minn deċiżjoni tal-imsemmi Direttur qabel il-bidu fis-seħħ ta’ dawn ir-regolamenti għandhom ikomplu jkunu validi ukoll jekk ma jkunux ġew ippreżentati fi żmien l-imsemmi perjodu ta’ għoxrin ġurnata.

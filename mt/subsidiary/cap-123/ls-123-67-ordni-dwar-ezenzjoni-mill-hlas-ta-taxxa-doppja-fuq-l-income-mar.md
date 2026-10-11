@@ -15,13 +15,11 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika ta' l-Estonja (S.L. 123.67)
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA [ L.S.123.67
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.67**
 
-ORDNI DWAR E|ENZJONI MILL-}LAS TA’
+**ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
 
-TAXXA DOPPJA FUQ L-INCOME
+**TAXXA DOPPJA FUQ L-INCOME**
 
 **MAR-REPUBBLIKA TA’ L-ESTONJA**
 
@@ -107,8 +105,6 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 (a) il-fra\\i ''Estonja'' tfisser ir-Repubblika ta’ l-Estonja u, meta tintu\\a f’sens [eografiku, tfisser it-territorju ta’ l-Estonja u kull area o]ra adja`enti ma’ l-ib]ra territorjali ta’ l-Estonja li fi ]danhom ta]t l-li[ijiet ta’ l-Estonja u skond id-dritt internazzjonali, id-drittijiet ta’ l-Estonja jistg]u ji[u e\\er`itati g]ar-rigward ta’ qieg] il-ba]ar u s-sottoswol u r-ri\\orsi naturali relattivi;
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA [ L.S.123.67
-
 (b) il-fra\\i ''Malta'' tfisser the Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti u adja`enti g]all-ib]ra territorjali, fejn ir-Repubblika ta’ Malta g]andha drittijiet sovrani, [urisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha g]ar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
 
 (`) il-fra\\ijiet ''Stat Kontraenti'' u ''l-Istat Kontraenti l-ie]or'' ifissru Estonja jew Malta skond ir-rabta tal-kliem;
@@ -183,9 +179,7 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i ''stabb
 
 (a) l-u\\u ta’ fa`ilitajiet g]all-iskop uniku ta’ ]\\in, wiri jew tqassim ta’ o[[etti jew merkanzija li jkunu proprjetà ta’ l-impri\\a;
 
-(b) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA [ L.S.123.67
-
-l-impri\\a g]all-iskop uniku ta’ ]\\in, wiri jew tqassim;
+(b) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ ]\\in, wiri jew tqassim;
 
 (`) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ pro`essar minn impri\\a o]ra;
 
@@ -245,8 +239,6 @@ Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u trattati sep
 
 Ebda ]a[a f’dan l-Artikolu ma g]andha \\\\omm lil xi Stat Kontraenti milli japplika l-li[i tieg]u li tirrigwarda t-tassazzjoni ta’ xi persuna li ti[[estixxi l-kummer` ta’ l-assigurazzjoni.
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA [ L.S.123.67
-
 **Artikolu 8**
 
 **TBA}}IR U TRASPORT BL-AJRU**
@@ -303,9 +295,7 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal- kumpannija g]ar-rigward tal-profitti
 
 \3. Minkejja d-disposizzjonijiet tal-paragrafu 2 mg]ax li jori[ina fi Stat Kontraenti, li l-Gvern ta’ l-Istat Kontraenti l-ie]or jikseb u jkun is-sid beneficjarju tieg]u, inklu\\i l-awtoritajiet lokali tieg]u, il-Bank ~entrali jew xi istituzzjoni finanzjarja li kollha kemm hi tkun proprjetà ta’ dak il-Gvern, jew mg]ax miksub fuq xi self kif garantit minn dak il-Gvern, g]andu jkun e\\enti mit-taxxa fl-Istat l-ewwel imsemmi.
 
-\4. Il-fra\\i ''mg]ax'' kif inhi w\\ata f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assigurati b’ipoteka sew jekk le, u sew jekk ikollhomx dritt li jippartecipaw fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA [ L.S.123.67
-
-inklu\\i premiums u premjijiet relatati ma dawk it-titoli, bonds jew debentures. Il-fra\\i ''mg]ax'' m’g]andhiex tinkludi income li jkun ittrattat b]ala dividend ta]t id-disposizzjonijiet ta’ l-Artikolu 10. }lasijiet ta’ penali g]al ]las tardiv ma jitqiesux b]ala mg]ax g]all-finijiet ta’ dan l-Artikolu.
+\4. Il-fra\\i ''mg]ax'' kif inhi w\\ata f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assigurati b’ipoteka sew jekk le, u sew jekk ikollhomx dritt li jippartecipaw fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inklu\\i premiums u premjijiet relatati ma dawk it-titoli, bonds jew debentures. Il-fra\\i ''mg]ax'' m’g]andhiex tinkludi income li jkun ittrattat b]ala dividend ta]t id-disposizzjonijiet ta’ l-Artikolu 10. }lasijiet ta’ penali g]al ]las tardiv ma jitqiesux b]ala mg]ax g]all-finijiet ta’ dan l-Artikolu.
 
 \5. Id-disposizzjonijiet tal-paragrafi 1, 2 u 3 m’g]andhomx japplikaw jekk is-sid benefi`jarju ta’ l-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
 
@@ -345,9 +335,7 @@ inklu\\i premiums u premjijiet relatati ma dawk it-titoli, bonds jew debentures.
 
 **SERVIZZI PERSONALI INDIPENDENTI**
 
-\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti g]andu jkun intaxxat biss f’dak l-Istat kemm-il darba ma jkollux ba\\i fissa stabbilita regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u. Jekk huwa jkollu tali ba\\i fissa, l-income jista’ ji[i intaxxat fl-Istat l-ie]or i\\da biss daqstant minnu daqskemm ikun attribbwibbli g]al dik il-ba\\i fissa. Jekk individwu li jkun residenti ta’ Stat Kontraenti ma jkollux tali ba\\i fissa, i\\da jkun joqg]od fl-Istat Kontraenti l-ie]or g]al perjodu jew g]al perjodi li b’kollox ikunu ta’, jew li fit-total FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA [ L.S.123.67
-
-ikunu jaqb\\u l-183 [urnata f’perjodu ta’ 12 il-xahar li jkun u li jibda g]addej jew itemm fis-sena fiskali in kwistjoni, huwa g]andu jitqies b]ala li jkollu ba\\i fissa regolarment disponibbli g]alih f’dak l-Istat l-ie]or u l-income li jinkiseb mill-attivitajiet tieg]u hawn aktar qabel imsemmija li jitwettqu f’dak l-Istat l-ie]or g]andhom ikunu attribwibbli g]al dik il-ba\\i fissa.
+\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti g]andu jkun intaxxat biss f’dak l-Istat kemm-il darba ma jkollux ba\\i fissa stabbilita regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u. Jekk huwa jkollu tali ba\\i fissa, l-income jista’ ji[i intaxxat fl-Istat l-ie]or i\\da biss daqstant minnu daqskemm ikun attribbwibbli g]al dik il-ba\\i fissa. Jekk individwu li jkun residenti ta’ Stat Kontraenti ma jkollux tali ba\\i fissa, i\\da jkun joqg]od fl-Istat Kontraenti l-ie]or g]al perjodu jew g]al perjodi li b’kollox ikunu ta’, jew li fit-total ikunu jaqb\\u l-183 [urnata f’perjodu ta’ 12 il-xahar li jkun u li jibda g]addej jew itemm fis-sena fiskali in kwistjoni, huwa g]andu jitqies b]ala li jkollu ba\\i fissa regolarment disponibbli g]alih f’dak l-Istat l-ie]or u l-income li jinkiseb mill-attivitajiet tieg]u hawn aktar qabel imsemmija li jitwettqu f’dak l-Istat l-ie]or g]andhom ikunu attribwibbli g]al dik il-ba\\i fissa.
 
 \2. Il-fra\\i ''servizzi professjonali'' tinkludi attivitajiet letterarji, artisti`i, edukattivi jew ta’ tag]lim li huma spe`jalment indipendenti kif ukoll l-attivitajiet indipendenti ta’ tobba, avukati, in[iniera, periti, dentisti u accountants.
 
@@ -415,8 +403,6 @@ L.S.123.67] FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA 3. Id-disposizzjonijiet 
 
 Student, apprendist jew trainee li jkun pre\\enti fi Stat Kontraenti unikament g]all-fini ta’ l-edukazzjoni jew it-ta]ri[ tieg]u u li jkun, jew li minnufih qabel ma kien hekk pre\\enti kien, residenti ta’ l-Istat Kontraenti l-ie]or, jkun e\\enti mit-taxxa fl-ewwel imsemmi Stat dwar ]lasijiet li huwa jircievi minn barra dak l-ewwel imsemmi Stat g]all-finijiet tal-manteniment, edukazzjoni jew ta]ri[ tieg]u.
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA [ L.S.123.67
-
 **Artikolu 21**
 
 **INCOME IE}OR**
@@ -462,8 +448,6 @@ Bla ]sara g]ad-disposizzjonijiet ta’ l-li[i ta’ Malta li tirrigwarda l-g]oti
 \3. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jist]arr[u kif jirrisolvu permezz ta’ ftehim re`iproku kull diffikultà jew dubbju li jista’ jitnissel dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistg]u wkoll jikkonsultaw flimkien g]all-eliminazzjoni ta’ tassazzjoni doppja f’dawk il-ka\\ijiet li m’hemm xejn provdut dwarhom fil-Ftehim.
 
 \4. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti jistg]u jikkomunikaw ma’ xulxin direttament g]all-iskop li jil]qu ftehim fis-sens tal-paragrafi precedenti.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA [ L.S.123.67
 
 **Artikolu 25**
 
@@ -530,8 +514,6 @@ g]ar-rigward ta’ taxxi fuq l-income miksuba matul xi sena kalendarja jew \\mie
 g]ar-rigward ta’ taxxi fuq l-income miksuba matul xi sena kalendarja jew perjodu ta’ kontijiet, skond il-ka\\, li jibdew fl-ewwel jum ta’ Jannar, jew wara, minnufih wara d-data li fiha jing]ata l-avvi\\.
 
 B’xiehda ta’ dan is-sottoskritti, awtorizzati kif imiss biex jag]mlu dan, iffirmaw dan il-Ftehim.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ESTONJA [ L.S.123.67
 
 Mag]mul in duplikat f’Tallinn, fit-3 ta’ Mejju, 2001, fl-ilsien Ingli\\ u dak Estonjan, i\\-\\ew[ testi awtenti`i ndaqs. Fil-kas li jkun hemm diver[enza fl-interpretazzjoni, jipprevalixxi t-test Ingli\\.
 

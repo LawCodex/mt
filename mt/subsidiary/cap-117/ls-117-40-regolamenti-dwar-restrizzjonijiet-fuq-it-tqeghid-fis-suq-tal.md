@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Restrizzjonijiet fuq it-Tqegħid fis-Suq tal-Basktijiet tal-Plastik Ħfief (S.L. 117.40)
 
-*1*
-
-BASKTIJIET TAL-PLASTIK ĦFIEF [L.S.117.40 LEĠISLAZZJONI SUSSIDJARJA 117.40
+**LEĠISLAZZJONI SUSSIDJARJA 117.40**
 
 REGOLAMENTI DWAR RESTRIZZJONIJIET FUQ IT- TQEGĦID FIS-SUQ TAL-BASKTIJIET TAL-PLASTIK
 
@@ -51,11 +49,7 @@ It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti dwar Restrizzjonijiet fuq i
 
 "basktijiet tal-plastik" tfisser basktijiet bil-widna jew mingħajr widna, magħmula mill-plastik, li huma fornuti lill-konsumaturi fil-punt tal-bejgħ ta’oġġetti jew prodotti;
 
-"basktijiet tal-plastik li jistgħu jerġgħu jintużaw" tfisser basktijiet tal-plastik li nħollqu, li ġew iddisinjati u li tqiegħdu fis-suq biex matul iċ-ċiklu tal-ħajja tagħhom jwettqu diversi vjaġġi jew rotazzjonijiet billi jimtlew mill-ġdid jew jintużaw mill-ġdid għall- [L.S. 117.40 BASKTIJIET TAL-PLASTIK ĦFIEF
-
-istess skop li għalih kienu nħollqu;
-
-*2*
+"basktijiet tal-plastik li jistgħu jerġgħu jintużaw" tfisser basktijiet tal-plastik li nħollqu, li ġew iddisinjati u li tqiegħdu fis-suq biex matul iċ-ċiklu tal-ħajja tagħhom jwettqu diversi vjaġġi jew rotazzjonijiet billi jimtlew mill-ġdid jew jintużaw mill-ġdid għall-istess skop li għalih kienu nħollqu;
 
 "id-disponibilità fis-suq" tfisser kwalunkwe provvista ta’ basktijiet tal-plastik għad-distribuzzjoni, konsum jew użu fis-suq f’Malta waqt attività kummerċjali, kemm bi ħlas jew mingħajr ħlas;
 
@@ -87,11 +81,9 @@ istess skop li għalih kienu nħollqu;
 
 (b) basktijiet tal-plastik bijodegradabbli u kompostabbli; u
 
-(ċ) basktijiet tal-plastik li jistgħu jerġgħu jintużaw. BASKTIJIET TAL-PLASTIK ĦFIEF [L.S.117.40 (4) Produtturi ta’ basktijiet tal-plastik bijodegradabbli u kompostabbli għandhom, meta japplikaw biex iġeddu ir-reġistrazzjoni tagħhom skont ir-regolament 21 (2) tar-Regolamenti dwar l-Ippakkjar u l-Iskart tal-Ippakkjar fil-Maniġġar tal-Iskart, jissottomettu ċ-ċertifikati maħruġa minn korp akkreditat ta’ valutazzjoni ta’ konformità li jindikaw li l-basktijiet tal-plastik bijodegradabbli u kompostabbli kollha mqiegħda fis-suq nazzjonali matul s-sena kalendarja jikkonformaw mal-istandard armonizzat EN 13432:2000:
+(ċ) basktijiet tal-plastik li jistgħu jerġgħu jintużaw. (4) Produtturi ta’ basktijiet tal-plastik bijodegradabbli u kompostabbli għandhom, meta japplikaw biex iġeddu ir-reġistrazzjoni tagħhom skont ir-regolament 21 (2) tar-Regolamenti dwar l-Ippakkjar u l-Iskart tal-Ippakkjar fil-Maniġġar tal-Iskart, jissottomettu ċ-ċertifikati maħruġa minn korp akkreditat ta’ valutazzjoni ta’ konformità li jindikaw li l-basktijiet tal-plastik bijodegradabbli u kompostabbli kollha mqiegħda fis-suq nazzjonali matul s-sena kalendarja jikkonformaw mal-istandard armonizzat EN 13432:2000:
 
 Iżda dawn iċ-ċertifikati għandhom jkunu disponibbli għall-Awtorità għall-Ambjent u r-Riżorsi fuq talba tagħha u għad- Dipartiment tad-Dwana fil-punt ta’ importazzjoni, akkwist intra- Komunitarju, manifattura jew xort’oħra, meta jiġu mitluba.
-
-*3*
 
 *L.S. 549. 43.*
 

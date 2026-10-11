@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Engineering (Honours) - B.Ind.Eng. (Hons) - taħt il-patroċnju tal-Fakultà tal-Inġinerija (S.L. 327.346)
 
-B.IND. ENG. (HONS) - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.346
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.346**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF ENGINEERING - B.IND. ENG. (HONS) - TAĦT
@@ -71,13 +65,7 @@ jew (a) jissodisfaw ir-rekwiżiti ġenerali għad-dħul kif speċifikati fir-Reg
 
 jew (b) għaddew mill-Eżami għaċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 5 jew aħjar fil-Malti u fil-Lingwa Ingli.a u jew mill-MCAST-BTEC Higher National Diploma f’qasam meqjus rilevanti għall-kors mill-Bord, jew mill-MCAST Diploma in Industrial Electronics.
 
-(2) Jekk l-applikanti huma gradwati minn xi università jew għandhom kwalifiki oħra meqjusa suffiċjenti, huma jistgħu jkunu eżentati mill-Bord tad-Dħul tal-Università, fuq il-parir tal-Kumitat tad-Dħul tal-Fakultà, minn dawn ir-rekwiżiti speċjali tal-kors jew B.IND. ENG. (HONS) - TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.346 TAL-FAKULTÀ TAL-INĠINERIJA
-
-minn parti minnhom.
+(2) Jekk l-applikanti huma gradwati minn xi università jew għandhom kwalifiki oħra meqjusa suffiċjenti, huma jistgħu jkunu eżentati mill-Bord tad-Dħul tal-Università, fuq il-parir tal-Kumitat tad-Dħul tal-Fakultà, minn dawn ir-rekwiżiti speċjali tal-kors jew minn parti minnhom.
 
 (3) L-applikanti li jidħlu bħala “Studenti Adulti” (applikanti maturi) skont il-paragrafu (ċ) tar-regolament 6 tar-Regolamenti għad-Dħul għandu jkollhom dawk il-kwalifiki u/jew esperjenza li jissodisfaw lill-Kumitat tad-Dħul tal-Fakultà li huma leħqu l-livell akkademiku meħtieġ biex isegwu l-Kors bi profitt. Flimkien mal-applikazzjoni tagħhom dawn l-applikanti huma meħtieġa jissottomettu ittra miktuba bl-Ingliż fejn jagħtu l-motivazzjoni tagħhom għaliex applikaw għall-Kors flimkien ma’ kopja tal- Curriculum Vitae (C.V.) tagħhom.
 

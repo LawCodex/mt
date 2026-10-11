@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Immaġnijiet Pornografiċi Estremi"
-identifier: "S.L. 9.5"
+identifier: "S.L. 9.05"
 eli: "https://legislation.mt/eli/sl/9.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/9.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Immaġnijiet Pornografiċi Estremi (S.L. 9.5)
+# Regolamenti dwar Immaġnijiet Pornografiċi Estremi (S.L. 9.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 9.05**
 

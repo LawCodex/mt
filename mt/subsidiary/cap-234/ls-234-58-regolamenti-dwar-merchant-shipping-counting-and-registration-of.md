@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Merchant Shipping (Counting and Registration of Persons on Board Passenger Ships) (S.L. 234.58)
 
-MERCHANT SHIPPING (COUNTING AND
-
-REGISTRATION OF PERSONS ON BOARD PASSENGER
-
-*1*
-
-SHIPS) [L.S. 234.58
-
 **LEĠISLAZZJONI SUSSIDJARJA 234.58**
 
 **REGOLAMENTI DWAR MERCHANT SHIPPING**

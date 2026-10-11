@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eden Place, San Ġiljan bħala Żona Speċjali Msemmija (S.L. 246.31)
 
-*1*
-
-BĦALA ŻONA SPEĊJALI MSEMMIJA [L.S.246.31] LEĠISLAZZJONI SUSSIDJARJA 246.31
+**LEĠISLAZZJONI SUSSIDJARJA 246.31**
 
 **ORDNI DWAR EDEN PLACE, SAN ĠILJAN**
 
@@ -39,7 +37,3 @@ Eden Place, San Ġiljan li tikkonsisti fi proprjetà immobbli li tinsab fiż-żo
 ## 3. Żieda fl-Ewwel Skeda li tinsab mal-Att dwar l- Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti. Kap. 246.
 
 Eden Place, San Ġiljan għandha tiġi miżjuda mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti.
-
-*2*
-
-[L.S. 246.31] BĦALA ŻONA SPEĊJALI MSEMMIJA

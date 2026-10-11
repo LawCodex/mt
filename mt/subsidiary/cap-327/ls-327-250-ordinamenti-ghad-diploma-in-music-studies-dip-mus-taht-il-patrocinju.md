@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Music Studies - Dip. Mus. - taħt il-patroċinju ta' l-Istitut tal-Mediterran (S.L. 327.250)
 
-DIPLOMA IN MUSIC STUDIES - DIP. MUS. - TA}T IL-
-
-*1*
-
-PATRO~INJU TA’ L-ISTITUT TAL-MEDITERRAN [L.S.327.250
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.250**
 
 ORDINAMENTI G}AD-DIPLOMA IN MUSIC STUDIES - DIP. MUS. - TA}T IL-PATRO~INJU TA’ L-ISTITUT TAL-MEDITERRAN

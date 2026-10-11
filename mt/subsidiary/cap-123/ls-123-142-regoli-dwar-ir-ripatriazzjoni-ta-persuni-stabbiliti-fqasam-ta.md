@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar ir-Ripatriazzjoni ta’ Persuni stabbiliti f’Qasam ta’ Eċċellenza (S.L. 123.142)
 
-*1*
-
-STABBILITI F’QASAM TA’ EĊĊELLENZA [L.S.123.142
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.142**
 
 REGOLI DWAR IR-RIPATRIAZZJONI TA’ PERSUNI STABBILITI F’QASAM TA’ EĊĊELLENZA
@@ -59,13 +55,9 @@ F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’o�
 
 ## 3. Kuntratt ta’ impjieg kwalifikanti.
 
-(1) Income minn kuntratt ta’ impjieg kwalifikanti jikkwalifika taħt dawn ir-regoli meta dan jiġi riċevut minn persuna eliġibbli u jkun jikkonsisti f’income soġġett għat-taxxa taħt l- [L.S.123.142 STABBILITI F’QASAM TA’ EĊĊELLENZA
+(1) Income minn kuntratt ta’ impjieg kwalifikanti jikkwalifika taħt dawn ir-regoli meta dan jiġi riċevut minn persuna eliġibbli u jkun jikkonsisti f’income soġġett għat-taxxa taħt l-artikolu 4(1)(b) tal-Att (eskluż il-valur annwali ta’ xi benefiċċji addizzjonali) ta’ ħamsa u sebgħin euro (€75,000) u li jkun jikkonsisti f’emolumenti rċevuti minn persuna eliġibbli.
 
 \*ara r-regolament 1(2) ta’ dawn ir-Regolamenti kif promulgati oriġinarjament.
-
-artikolu 4(1)(b) tal-Att (eskluż il-valur annwali ta’ xi benefiċċji addizzjonali) ta’ ħamsa u sebgħin euro (€75,000) u li jkun jikkonsisti f’emolumenti rċevuti minn persuna eliġibbli.
-
-*2*
 
 (2) Kuntratt kwalifikanti ta’ impjieg għandu jitqies bħala tali jekk il-kuntratt tal-impjieg ikun approvat bil-miktub mill- Korporazzjoni.
 
@@ -91,11 +83,7 @@ Iżda r-rata ta’ 15% għandha tapplika mingħajr il-possibilità li jintalab x
 
 *Kap. 372.*
 
-B’dan iżda illi meta individwu jadotta l-għażla li għandu taħt l-artikolu 56(25) tal-Att, l-income li huwa ntaxxat bir-rata ta’ 15% għandu jitqies li jikkostitwixxi l-ewwel parti tal-income totali STABBILITI F’QASAM TA’ EĊĊELLENZA [L.S.123.142
-
-ta’ dak l-individwu għas-sena ta’ stima inkwistjoni u t-taxxa fuq il-bqija tal-income għandha tiġi kalkulata bir-rata jew rati li jkunu applikabbli għal dak il-bqija tal-income li kieku l-għażla ma ġietx adottata.
-
-*3*
+B’dan iżda illi meta individwu jadotta l-għażla li għandu taħt l-artikolu 56(25) tal-Att, l-income li huwa ntaxxat bir-rata ta’ 15% għandu jitqies li jikkostitwixxi l-ewwel parti tal-income totali ta’ dak l-individwu għas-sena ta’ stima inkwistjoni u t-taxxa fuq il-bqija tal-income għandha tiġi kalkulata bir-rata jew rati li jkunu applikabbli għal dak il-bqija tal-income li kieku l-għażla ma ġietx adottata.
 
 (2) L-għażla li ssir taħt l-artikolu 56(25) tal-Att tista’ tiġi adottata kull ebda sena ta’ stima li tiġi qabel is-sena ta’ stima 2013.
 
@@ -116,10 +104,6 @@ Meta persuna, sabiex tikseb xi benefiċċju taħt dawn ir-regoli, tagħmel użu 
 ## 8. Mod kif tiġi adottata l-għażla.
 
 L-għażla li ssir taħt l-artikolu 56(25) tal-Att għandha tiġi adottata permezz ta’ dikjarazzjoni ffirmata mill-benefiċjarju u kontrofirmata mill-Korporazzjoni li ssir fuq dik il-formola jew b’dak il-mod li l-Kummissarju jista’ jeħtieġ u tintehmeż ma’ jew tiġi inkluża fil-prospett tat-taxxa għas-sena ta’ stima relattiva. L-għażla ma titqiesx li tkun ġiet validament adottata kemm-il darba l-income li tkun tapplika għalih ma jkunx ġie ddikjarat għal kollox u b’mod korrett f’dak il-prospett tat-taxxa u kemm-il darba dik id-dikjarazzjoni u l-prospett tat-taxxa ma jiġux ippreżentati sa mhux aktar tard mid-data stabbilita għall-prospett tat-taxxa:
-
-*4*
-
-[L.S.123.142 STABBILITI F’QASAM TA’ EĊĊELLENZA
 
 Iżda meta dik id-dikjarazzjoni jew il-prospett tat-taxxa relattiv jiġu pprezentati aktar tard mid-data stabbilita għall-prospett tat-taxxa, il-Kummissarju jista’ jittratta l-għażla bħallikieku din tkun ġiet validament adottata jekk huwa jkun sodisfatt li d-dewmien kien dovut għal skuża raġonevoli.
 

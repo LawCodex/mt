@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Għoti ta Setgħat lill-Forzi Armati ta Malta"
-identifier: "S.L. 220.6"
+identifier: "S.L. 220.06"
 eli: "https://legislation.mt/eli/sl/220.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/220.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Għoti ta Setgħat lill-Forzi Armati ta Malta (S.L. 220.6)
+# Ordni dwar l-Għoti ta Setgħat lill-Forzi Armati ta Malta (S.L. 220.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 220.06**
 

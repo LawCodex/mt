@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar l-Użu ta' Totalizzatur fl-Imħatri fit-Tiġrijiet"
-identifier: "S.L. 78.1"
+identifier: "S.L. 78.01"
 eli: "https://legislation.mt/eli/sl/78.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/78.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar l-Użu ta' Totalizzatur fl-Imħatri fit-Tiġrijiet (S.L. 78.1)
+# Regoli dwar l-Użu ta' Totalizzatur fl-Imħatri fit-Tiġrijiet (S.L. 78.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 78.01**
 

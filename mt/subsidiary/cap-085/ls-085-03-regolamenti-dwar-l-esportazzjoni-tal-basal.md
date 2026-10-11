@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Esportazzjoni tal-Basal"
-identifier: "S.L. 85.3"
+identifier: "S.L. 85.03"
 eli: "https://legislation.mt/eli/sl/85.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.3/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Esportazzjoni tal-Basal (S.L. 85.3)
+# Regolamenti dwar l-Esportazzjoni tal-Basal (S.L. 85.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 85.03**
 

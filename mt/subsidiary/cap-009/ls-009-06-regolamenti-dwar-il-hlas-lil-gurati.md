@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ħlas lil Ġurati"
-identifier: "S.L. 9.6"
+identifier: "S.L. 9.06"
 eli: "https://legislation.mt/eli/sl/9.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/9.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ħlas lil Ġurati (S.L. 9.6)
+# Regolamenti dwar il-Ħlas lil Ġurati (S.L. 9.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 9.06**
 

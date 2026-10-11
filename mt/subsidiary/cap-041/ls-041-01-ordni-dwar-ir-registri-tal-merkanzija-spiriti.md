@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar ir-Reġistri tal-Merkanzija - Spiriti"
-identifier: "S.L. 41.1"
+identifier: "S.L. 41.01"
 eli: "https://legislation.mt/eli/sl/41.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/41.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar ir-Reġistri tal-Merkanzija - Spiriti (S.L. 41.1)
+# Ordni dwar ir-Reġistri tal-Merkanzija - Spiriti (S.L. 41.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 41.01**
 

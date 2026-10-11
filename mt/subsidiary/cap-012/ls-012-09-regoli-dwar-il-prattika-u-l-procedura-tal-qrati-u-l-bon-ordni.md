@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar il-Prattika u l-Proċedura tal-Qrati u l-Bon-Ordni"
-identifier: "S.L. 12.9"
+identifier: "S.L. 12.09"
 eli: "https://legislation.mt/eli/sl/12.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/12.9/20251014/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar il-Prattika u l-Proċedura tal-Qrati u l-Bon-Ordni (S.L. 12.9)
+# Regoli dwar il-Prattika u l-Proċedura tal-Qrati u l-Bon-Ordni (S.L. 12.09)
 
 **LEĠISLAZZJONI SUSSIDJARJA 12.09**
 

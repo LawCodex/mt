@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju ta' l-Isvezja (S.L. 123.38)
 
-*1*
-
-INCOME MAR-RENJU TAL-ISVEZJA [L.S.123.38
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.38**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -92,8 +88,6 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa bħalhom jew li sostanzjalment
 ## 3.
 
 Minkejja d-dispożizzjonijiet l-oħra ta’ dan l-Artikolu, il-Ftehim ma japplikax għal taxxa mħallsa jew li titħallas f’Malta skont id-dispożizzjonijiet tas-subartikolu (13) tal-artikolu 56 tal-Att dwar it-Taxxa fuq l-Income, dwar l-income taxxabbli ta’ persuna li tkun taħdem fil-produzzjoni ta’ żejt petroleum li jiġi prodott f’Malta, jew kull dispożizzjoni oħra sostanzjalment simili li tiġi imposta wara d-data tal-firma tal-Ftehim.
-
-INCOME MAR-RENJU TAL-ISVEZJA [L.S.123.38 3
 
 **ARTIKOLU 3**
 
@@ -177,9 +171,7 @@ Art li tkun qegħda tinbena jew proġett ta’ kostruzzjoni, assemblaġġ jew st
 
 ## 4.
 
-Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, l-għoti ta’ servizzi, inklużi servizzi ta’ konsulenza, minn impriża permezz ta’ impjegati jew persunal INCOME MAR-RENJU TAL-ISVEZJA [L.S.123.38 5
-
-ieħor imqabbad mill-impriża għal dak l-għan għandu jitqies li jikkostitwixxi stabbiliment permanenti meta l-attivitajiet ta’ dik ix-xorta ikomplu (għall-istess proġett jew wieħed konness) ġewwa Stat Kontraenti għal perijodu jew perijodi li flimkien iġibu iktar minn sitt xhur f’xi perijodu ta’ tnax-il xahar.
+Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, l-għoti ta’ servizzi, inklużi servizzi ta’ konsulenza, minn impriża permezz ta’ impjegati jew persunal ieħor imqabbad mill-impriża għal dak l-għan għandu jitqies li jikkostitwixxi stabbiliment permanenti meta l-attivitajiet ta’ dik ix-xorta ikomplu (għall-istess proġett jew wieħed konness) ġewwa Stat Kontraenti għal perijodu jew perijodi li flimkien iġibu iktar minn sitt xhur f’xi perijodu ta’ tnax-il xahar.
 
 ## 5.
 
@@ -239,9 +231,7 @@ f’kull każ tinkludi proprjetà aċċessorja għal proprjetà immobiljari, bhe
 
 \6. Għall-finijiet tal-paragrafi ta’ qabel, il-profitti li għandhom jiġu attribwiti lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess mod minn sena għal sena kemm-il darba ma jkunx hemm raġuni tajba u biżżejjed biex isir kuntrarju.
 
-\7. Meta profitti jinkludu oġġetti ta’ income li qed jiġu trattati separatament f’Artikoli oħra ta’ dan il-Ftehim, allura d-dispożizzjonijiet ta’ dawk l-Artikoli ma INCOME MAR-RENJU TAL-ISVEZJA [L.S.123.38 7
-
-jkunux milquta bid-dispożizzjonijiet ta’ dan l-Artikolu.
+\7. Meta profitti jinkludu oġġetti ta’ income li qed jiġu trattati separatament f’Artikoli oħra ta’ dan il-Ftehim, allura d-dispożizzjonijiet ta’ dawk l-Artikoli ma jkunux milquta bid-dispożizzjonijiet ta’ dan l-Artikolu.
 
 ## 8.
 
@@ -295,9 +285,7 @@ Dan il-paragrafu ma jolqotx it-tassazzjoni ta’ kumpannija għar-rigward tal-pr
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma għandhomx japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- Istat Kontraenti l-ieħor, li tiegħu tkun residenti l-kumpannija li tħallas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jaqdi f ’dak l-Istat l-ieħor servizz personali indipendenti minn bażi stabbilit sitwat hemmhekk, u l-holding li dwarhom id-dividendi jkunu mħallsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew bażi stabbilit. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 jew l-Artikolu 14, skont il-każ, għandhom japplikaw.
 
-\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief meta dividendi bħal dawn jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew safejn il-holding li dwaru jitħallsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ bażi stabbilit sitwat f’dak l-Istat l-ieħor, jew jissuġġetta l-profitti mhux distribwiti tal-kumpannija INCOME MAR-RENJU TAL-ISVEZJA [L.S.123.38 9
-
-għal taxxa fuq il-profitti mhux distribwiti tal-kumpannija, anki jekk id-dividendi mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
+\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief meta dividendi bħal dawn jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew safejn il-holding li dwaru jitħallsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ bażi stabbilit sitwat f’dak l-Istat l-ieħor, jew jissuġġetta l-profitti mhux distribwiti tal-kumpannija għal taxxa fuq il-profitti mhux distribwiti tal-kumpannija, anki jekk id-dividendi mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
 
 **ARTIKOLU 11**
 
@@ -347,9 +335,7 @@ Għar-rigward ta’ income miksub mill-consortium tat-trasport bl-ajru Scandinav
 
 \1. Qligħ miksub minn residenti ta’ Stat Kontraenti għal servizzi professjonali jew attivitajiet ta’ karattru indipendenti jkun taxxabbli biss f’dak l-Istat. Iżda, dak il-qligħ jista’ fiċ-ċirkostanzi li ġejjin jiġi ntaxxat fl-Istat Kontraenti l-ieħor:
 
-(a) jekk ikollu bażi fiss regolari għad-dispożizzjoni tiegħu fl-Istat Kontraenti l-ieħor għall-qadi tal-attivitajiet tiegħu; f’liema każ dik il-parti biss mill-income tiegħu li hu attribwibbli għal dak il-bażi fiss tista’ INCOME MAR-RENJU TAL-ISVEZJA [L.S.123.38 11
-
-tiġi ntaxxata f’dak l-Istat Kontraenti l-ieħor; jew
+(a) jekk ikollu bażi fiss regolari għad-dispożizzjoni tiegħu fl-Istat Kontraenti l-ieħor għall-qadi tal-attivitajiet tiegħu; f’liema każ dik il-parti biss mill-income tiegħu li hu attribwibbli għal dak il-bażi fiss tista’ tiġi ntaxxata f’dak l-Istat Kontraenti l-ieħor; jew
 
 (b) jekk il-qagħda tiegħu fl-Istat Kontraenti l-ieħor tkun għal żmien jew żminijiet li fit-total ikunu jġibu jew jaqbżu l-183 ġurnata matul xi perijodu ta’ tnax-il xahar li jibda jew itemm fis-sena fiskali involuta: f’dak il-każ, daqstant biss mill-income daqskemm ikun miksub mill-attività eżerċitata fl-Istat Kontraenti l-ieħor jista’ jiġi ntaxxat f’dak l- Istat l-ieħor; jew
 
@@ -413,7 +399,7 @@ Id-drittijiet u ħlasijiet simili tad-diretturi li jinkisbu minn residenti ta’
 
 (b) Iżda, dik il-pensjoni tkun tista’ tiġi intaxxata biss fl-Istat Kontraenti l-ieħor jekk l-individwu jkun residenti u nazzjonali ta’ dak l-Istat.
 
-\3. Id-dispożizzjonijiet tal-Artikoli 15, 16 u 18 għandhom japplikaw għal rimunerazzjoni u pensjonijiet dwar servizzi mogħtija dwar negozju mmexxi minn Stat Kontraenti jew minn sotto-diviżjoni politika jew minn awtorità lokali tiegħu. INCOME MAR-RENJU TAL-ISVEZJA [L.S.123.38 13
+\3. Id-dispożizzjonijiet tal-Artikoli 15, 16 u 18 għandhom japplikaw għal rimunerazzjoni u pensjonijiet dwar servizzi mogħtija dwar negozju mmexxi minn Stat Kontraenti jew minn sotto-diviżjoni politika jew minn awtorità lokali tiegħu.
 
 **ARTIKOLU 20**
 
@@ -461,9 +447,7 @@ L-Awtoritajiet kompetenti jistgħu jiftehmu li jestendu l-applikazzjoni ta’ di
 
 \2. It-tassazzjoni fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor ma għandhiex tinġabar f’dak l-Istat l-ieħor b’mod inqas favorevoli mit-tassazzjoni miġbura fuq impriżi f’dak l-Istat l-ieħor li jmexxu l-istess attivitajiet. Din id-dispożizzjoni ma għandhiex tiftiehem bħala li tobbliga Stat Kontraenti li jikkonċedi lil residenti tal-Istat Kontraenti l-ieħor xi skont, għajnuna u tnaqqis għal għanijiet ta’ taxxa minħabba fl-istatus ċivili jew responsabbiltajiet tal-familja li soltu jikkonċedi lil-residenti tiegħu.
 
-\3. Ħlief meta d-dispożizzjonijiet tal-paragrafu 1 tal-Artikolu 9, tal-paragrafu 4 tal-Artikolu 11 jew tal-paragrafu 4 tal-Artikolu 12 ikunu japplikaw, kull imgħax, royalties u ħlasijiet oħra li jsiru minn impriża ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieħor għandhom bil-għan li jiġi stabbilit il-qligħ taxxabbli ta’ dik l-impriża, jitnaqqsu taħt l-istess kundizzjonijiet daqslikieku kienu tħallsu lil residenti INCOME MAR-RENJU TAL-ISVEZJA [L.S.123.38 15
-
-tal-Istat l-ewwel imsemmi.
+\3. Ħlief meta d-dispożizzjonijiet tal-paragrafu 1 tal-Artikolu 9, tal-paragrafu 4 tal-Artikolu 11 jew tal-paragrafu 4 tal-Artikolu 12 ikunu japplikaw, kull imgħax, royalties u ħlasijiet oħra li jsiru minn impriża ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieħor għandhom bil-għan li jiġi stabbilit il-qligħ taxxabbli ta’ dik l-impriża, jitnaqqsu taħt l-istess kundizzjonijiet daqslikieku kienu tħallsu lil residenti tal-Istat l-ewwel imsemmi.
 
 \4. Impriżi ta’ Stat Kontraenti, li l-kapital tagħhom ikun proprjetà ta’ jew ikkontrollat minn, għal kollox jew f’parti, direttament jew indirettament, residenti wieħed jew aktar tal-Istat l-ieħor, ma jkunux suġġetti fl-Istat l-ewwel imsemmi għal xi tassazzjoni jew xi ħtieġa li għandhom x’jaqsmu magħha li tkun oħra jew ta’ aktar piż mit-tassazzjoni u ħtiġiet li għandhom x’jaqsmu magħha li impriżi oħra bħalhom tal-Istat l-ewwel imsemmi huma jew jistgħu jkunu suġġetti għalihom.
 
@@ -525,9 +509,7 @@ Ebda ħaġa f’dan il-Ftehim ma għandha tolqot il-privileġġi fiskali ta’ a
 
 (b) f’Malta, fuq income miksub matul xi sena kalendarja jew perijodu ta’ kontijiet, skont il-każ, li jibda fi jew wara l-ewwel ta’ Jannar li jiġi minnufih wara d-data li fiha l-Ftehim jibda jseħħ.
 
-\3. Mal-bidu fis-seħħ ta’ dan il-Ftehim, il-Ftehim u l-Protokol anness bejn Malta u l-Isvezja għall-evitar ta’ taxxa doppja dwar taxxi fuq l-income, iffirmat fi Stockholm fit-30 ta’ Mejju, 1975, kif modifikat bi Protokol iffirmat fil-Belt Valletta fil-25 ta’ Ġunju, 1986, għandu jtemm. Id-dispożizzjonijiet tal-Ftehim tal-1975, kif modifikati, għandhom itemmu milli jkollhom effett mid-data meta d- INCOME MAR-RENJU TAL-ISVEZJA [L.S.123.38 17
-
-dispożizzjonijiet korrispondenti ta’ dan il-Ftehim għall-ewwel darba jkollhom effett skont id-dispożizzjonijiet tal-paragrafu (2) ta’ dan l-Artikolu. Għar-rigward tad-dispożizzjonijiet tal-Artikoli 5 u 14 tal-Ftehim tal-1975, meta tkun ġiet offruta għajnuna ikbar mit-taxxa bl-applikazzjoni ta’ dawk id-dispożizzjonijiet, kull dispożizzjoni bħal dik kif imsemmija qabel għandu jibqa’ jkollha effett:
+\3. Mal-bidu fis-seħħ ta’ dan il-Ftehim, il-Ftehim u l-Protokol anness bejn Malta u l-Isvezja għall-evitar ta’ taxxa doppja dwar taxxi fuq l-income, iffirmat fi Stockholm fit-30 ta’ Mejju, 1975, kif modifikat bi Protokol iffirmat fil-Belt Valletta fil-25 ta’ Ġunju, 1986, għandu jtemm. Id-dispożizzjonijiet tal-Ftehim tal-1975, kif modifikati, għandhom itemmu milli jkollhom effett mid-data meta d-dispożizzjonijiet korrispondenti ta’ dan il-Ftehim għall-ewwel darba jkollhom effett skont id-dispożizzjonijiet tal-paragrafu (2) ta’ dan l-Artikolu. Għar-rigward tad-dispożizzjonijiet tal-Artikoli 5 u 14 tal-Ftehim tal-1975, meta tkun ġiet offruta għajnuna ikbar mit-taxxa bl-applikazzjoni ta’ dawk id-dispożizzjonijiet, kull dispożizzjoni bħal dik kif imsemmija qabel għandu jibqa’ jkollha effett:
 
 (a) fl-Isvezja, fuq income miksub fi jew qabel l-aħħar jum tat-tieni sena kalendarja li tiġi minnufih wara dik li fiha jkun ġie fis-seħħ dan il- Ftehim; u
 

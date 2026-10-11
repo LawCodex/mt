@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar il-Projbizzjoni tal-Koltivazzjoni tat-Tabakk"
-identifier: "S.L. 106.1"
+identifier: "S.L. 106.01"
 eli: "https://legislation.mt/eli/sl/106.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/106.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar il-Projbizzjoni tal-Koltivazzjoni tat-Tabakk (S.L. 106.1)
+# Ordni dwar il-Projbizzjoni tal-Koltivazzjoni tat-Tabakk (S.L. 106.01)
 
 LE{ISLAZZJONI SUSSIDJARJA 106.01
 

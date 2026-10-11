@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Residenza tas-Sellum (Proġett Mellieħa) bħala Żona Speċjali Msemmija"
-identifier: "S.L. 246.9"
+identifier: "S.L. 246.09"
 eli: "https://legislation.mt/eli/sl/246.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/246.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Residenza tas-Sellum (Proġett Mellieħa) bħala Żona Speċjali Msemmija (S.L. 246.9)
-
-RESIDENZA TAS-SELLUM (PRO{ETT MELLIE}A)
-
-*1*
-
-B}ALA |ONA SPE~JALI MSEMMIJA [L.S.246.09
+# Ordni dwar Residenza tas-Sellum (Proġett Mellieħa) bħala Żona Speċjali Msemmija (S.L. 246.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 246.09**
 

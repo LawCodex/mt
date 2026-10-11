@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1991) (S.L. 261.14)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1991) [ L.S.261.14
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.14**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -99,7 +97,7 @@ Il-blokk s]i] imiss mit-Tramuntana, Nofs in-Nhar, Lvant u Punent ma’ toroq pub
 
 (2) Bi``a art li tag]mel parti mill-Qasam tad-Djar tal- Gvern tal-Girg]ien, limiti ta’ Bir\\ebbu[a, tal-kejl ta’ madwar 534 metru kwadru, li tmiss mit-Tramuntana u Punent ma’ triq pubblika u minn Nofsinhar ma’ proprjetà tal-Gvern, delineata bl-a]mar fuq L.D. 292/ 90.
 
-(3) Bi``a art li tag]mel parti mill-Qasam tad-Djar tal- Gvern ta’ Triq Ta’ l-Ibra[, limiti ta’ St. Andrews, tal-kejl ta’ madwar 140 metru kwadru, li tmiss mill- Majjistral u mil-Lbi` ma’ proprjetà ta’ l-Awtorità tad- Djar u mix-Xlokk ma’ proprjetà ta’ Emanuel Zammit, delineata bl-a]mar u markata "B" fuq L.D. 190/90 (Rural Tenement No. 82117 u Kuntratt Nru. 338/90 kif (TRASFERIMENT TA’ PROPRJETÀ) (1991) [ L.S.261.14 tran\\unt fl-atti tan-Nutar V. Miceli fit-12 ta’ Di`embru, 1990).
+(3) Bi``a art li tag]mel parti mill-Qasam tad-Djar tal- Gvern ta’ Triq Ta’ l-Ibra[, limiti ta’ St. Andrews, tal-kejl ta’ madwar 140 metru kwadru, li tmiss mill- Majjistral u mil-Lbi` ma’ proprjetà ta’ l-Awtorità tad- Djar u mix-Xlokk ma’ proprjetà ta’ Emanuel Zammit, delineata bl-a]mar u markata "B" fuq L.D. 190/90 (Rural Tenement No. 82117 u Kuntratt Nru. 338/90 kif tran\\unt fl-atti tan-Nutar V. Miceli fit-12 ta’ Di`embru, 1990).
 
 (4) L-art li [ejja li tag]mel parti mill-Qasam tad-Djar tal- Gvern ta’ }al-Farru[, limiti ta’ }al-Luqa:
 
@@ -155,7 +153,7 @@ B’se]] mit-13 ta’ Marzu, 1991:
 
 B’se]] mill-11 ta’ April, 1991:
 
-(1) Bi``a art li tinkludi kull bini li hemm fuqha u li tag]mel parti mill-Qasam tad-Djar tal-Gvern ta’ l- Imtarfa, limiti ta’ l-Imdina, tal-kejl ta’ madwar 66,195 (TRASFERIMENT TA’ PROPRJETÀ) (1991) [ L.S.261.14 metru kwadru, li tmiss mill-Grigal u Xlokk ma’ toroq pubbli`i u mill-Punent ma’ proprjetà tal-Gvern, delineata bl-a]dar fuq L.D. 303A/90, esklu\\i dawk i\\- \\oni u strutturi mpin[ija bl-a]mar u bl-isfar (Ex- Service Property No. 16436, 16503, 16505 u kif tran\\unta fl-atti tan-Nutar V. Miceli fit-12 ta’ Di`embru, 1990).
+(1) Bi``a art li tinkludi kull bini li hemm fuqha u li tag]mel parti mill-Qasam tad-Djar tal-Gvern ta’ l- Imtarfa, limiti ta’ l-Imdina, tal-kejl ta’ madwar 66,195 metru kwadru, li tmiss mill-Grigal u Xlokk ma’ toroq pubbli`i u mill-Punent ma’ proprjetà tal-Gvern, delineata bl-a]dar fuq L.D. 303A/90, esklu\\i dawk i\\- \\oni u strutturi mpin[ija bl-a]mar u bl-isfar (Ex- Service Property No. 16436, 16503, 16505 u kif tran\\unta fl-atti tan-Nutar V. Miceli fit-12 ta’ Di`embru, 1990).
 
 (2) Id-dar bin-numru 195 Triq San {u\\epp, L-Isla (Ex- Service Property No. 16538).
 
@@ -227,7 +225,7 @@ Bi``a art li tag]mel parti mill-Qasam tad-Djar tal- Gvern tal-Manikata, limiti t
 
 B’se]] mit-12 ta’ Mejju, 1989:
 
-Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern Tal-Fuklar, limiti ta’ }’Attard, li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 126 sa 144, li flimkien mal-Plots Nri. 103 sa 119 huma tal- (TRASFERIMENT TA’ PROPRJETÀ) (1991) [ L.S.261.14 kejl ta’ madwar 6,528 metru kwadru, li tmiss mill- Majjistral, Lbi` u Grigal ma’ proprjetà tal-Gvern.
+Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern Tal-Fuklar, limiti ta’ }’Attard, li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 126 sa 144, li flimkien mal-Plots Nri. 103 sa 119 huma tal-kejl ta’ madwar 6,528 metru kwadru, li tmiss mill- Majjistral, Lbi` u Grigal ma’ proprjetà tal-Gvern.
 
 *\10.*
 

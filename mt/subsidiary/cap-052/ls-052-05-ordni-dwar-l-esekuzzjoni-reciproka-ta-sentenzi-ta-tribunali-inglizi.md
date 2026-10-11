@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Victoria"
-identifier: "S.L. 52.5"
+identifier: "S.L. 52.05"
 eli: "https://legislation.mt/eli/sl/52.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/52.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Victoria (S.L. 52.5)
-
-TRIBUNALI INGLI|I - VICTORIA [ L.S.52.05
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Victoria (S.L. 52.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 52.05**
 

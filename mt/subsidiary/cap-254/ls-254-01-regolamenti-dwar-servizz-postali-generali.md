@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Servizz Postali (Ġenerali)"
-identifier: "S.L. 254.1"
+identifier: "S.L. 254.01"
 eli: "https://legislation.mt/eli/sl/254.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/254.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Servizz Postali (Ġenerali) (S.L. 254.1)
+# Regolamenti dwar Servizz Postali (Ġenerali) (S.L. 254.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 254.01**
 
@@ -139,22 +139,13 @@ Mingħajr preġudizzju għall-artikolu 66 tal-Att, ma għandux jiġi impustat, j
 
 (h) jkun fih xi sustanza narkotika jew psikotropika jew ta’ xi droga jew mediċina oħra kemm-il darba t-trasmissjoni tiegħu bil-posta ma jkunx awtorizzat b’xi liġi jew taħtha; jew
 
-(i) jkun fih materjal radjuattiv ħlief meta jkun hemm
+(i) jkun fih materjal radjuattiv ħlief meta jkun hemm arranġament postali għat-trasmissjoni ta’ materjal bħal dak.
 
-arranġament postali għat-trasmissjoni ta’ materjal bħal  
-dak.  
-Ippakkjar u  6. (1) Kull oġġett postali għandu jkun magħmul u magħluq  
-pustaġġ.  
-b’mod li hu maħsub li ma jagħmilx ħsara lil xi oġġett postali ieħor,  
-lil xi kontenitur li dan jinġarr fih, jew korriment lil xi uffiċjal tal-  
-operatur postali jew lil xi persuna oħra li tista’ timmaniġġa dak l-  
-oġġett postali.  
-(2) Meta oġġett postali ħiereġ minn Malta ikun impustat jew  
-mogħti jew mgħoddi lil ħaddieħor biex jintbagħat bil-posta, min  
-jibagħtu għandu jimla dawk iċ-ċertifikati u dokumenti u jwaħħal  
-dawk it-tikketti relatati mal-kontenut tal-oġġett postali skont kif
+### 6. Ippakkjar u pustaġġ.
 
-jista’ jkun mitlub mil-liġi tal-pajjiż li lejh l-oġġett ikun indirizzat, jew xort’oħra skont ma kif l-operatur postali li jkun qed jibgħat dak l-oġġett postali jista’ jordna.
+(1) Kull oġġett postali għandu jkun magħmul u magħluq b’mod li hu maħsub li ma jagħmilx ħsara lil xi oġġett postali ieħor, lil xi kontenitur li dan jinġarr fih, jew korriment lil xi uffiċjal tal-operatur postali jew lil xi persuna oħra li tista’ timmaniġġa dak l-oġġett postali.
+
+(2) Meta oġġett postali ħiereġ minn Malta ikun impustat jew mogħti jew mgħoddi lil ħaddieħor biex jintbagħat bil-posta, min jibagħtu għandu jimla dawk iċ-ċertifikati u dokumenti u jwaħħal dawk it-tikketti relatati mal-kontenut tal-oġġett postali skont kif jista’ jkun mitlub mil-liġi tal-pajjiż li lejh l-oġġett ikun indirizzat, jew xort’oħra skont ma kif l-operatur postali li jkun qed jibgħat dak l-oġġett postali jista’ jordna.
 
 (3) L-indirizz fuq oġġett postali ma għandu b’ebda mod jkun tali li ma jistax jinqara jew li jkun diffiċli biex jinqara.
 

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1981)"
-identifier: "S.L. 261.4"
+identifier: "S.L. 261.04"
 eli: "https://legislation.mt/eli/sl/261.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/261.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1981) (S.L. 261.4)
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1981) [ L.S.261.04
+# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1981) (S.L. 261.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 261.04**
 
@@ -89,7 +87,7 @@ ma’ proprjetà tal-Gvern;
 
 (i) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 1 sa 4 tal-kejl ta’ madwar 1291 metru kwadru li tmiss mit- Tramuntana u mill-Punent ma’ proprjetà tal- Gvern u minn Nofs in-Nhar ma’ proprjetà ta’ Dr Joseph Attard Montaldo LL.D.;
 
-(ii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 24 sa 26 tal- (TRASFERIMENT TA’ PROPRJETÀ) (1981) [ L.S.261.04 kejl ta’ madwar 992 metru kwadru li tmiss mit- Tramuntana, mill-Punent u mix-Xlokk ma’ proprjetà tal-Gvern;
+(ii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 24 sa 26 tal-kejl ta’ madwar 992 metru kwadru li tmiss mit- Tramuntana, mill-Punent u mix-Xlokk ma’ proprjetà tal-Gvern;
 
 (iii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 38 sa 45 tal-kejl ta’ madwar 2117-il metru kwadru li tmiss mill-Grigal, mix-Xlokk u mil-Lbi` ma’ proprjetà tal-Gvern;
 
@@ -133,7 +131,7 @@ L-art li [ejja li tag]mel parti mill-Estate tad-Djar tal- Gvern ta’ Ker`em, G]
 
 (ii) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 30 tal-kejl ta’ madwar 172 metru kwadru li tmiss mit- Tramuntana ma’ triq pubblika u mil-Lvant u mill-Punent ma’ proprjetà ta’ l-Awtorità tad- Djar;
 
-(iii) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 35 tal-kejl ta’ madwar 199 metru kwadru li tmiss mit- Tramuntana ma’ triq pubblika, minn Nofs in- Nhar ma’ proprjetà tal-Gvern u mil-Lvant ma’ (TRASFERIMENT TA’ PROPRJETÀ) (1981) [ L.S.261.04 proprjetà ta’ l-Awtorità tad-Djar;
+(iii) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 35 tal-kejl ta’ madwar 199 metru kwadru li tmiss mit- Tramuntana ma’ triq pubblika, minn Nofs in- Nhar ma’ proprjetà tal-Gvern u mil-Lvant ma’ proprjetà ta’ l-Awtorità tad-Djar;
 
 (iv) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 44 u 45 tal-kejl ta’ madwar 369 metru kwadru li tmiss mit- Tramuntana u mil-Lvant ma’ proprjetà ta’ l- Awtorità tad-Djar u mill-Punent ma’ triq pubblika;
 
@@ -197,7 +195,7 @@ B’se]] mit-12 ta’ {unju, 1981:
 
 (ii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 5 sa l0 tal-kejl ta’ madwar 1481 metru kwadru li tmiss mill- Majjistral u mill-Punent ma’ proprjetà tal-Gvern u mix-Xlokk ma’ triq pubblika;
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1981) [ L.S.261.04 (iii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 11 sa 18 tal-kejl ta’ madwar 1902 metri kwadri li tmiss mill- Majjistral ma’ triq pubblika u mix-Xlokk u mil- Lbi` ma’ proprjetà tal-Gvern.
+(iii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 11 sa 18 tal-kejl ta’ madwar 1902 metri kwadri li tmiss mill- Majjistral ma’ triq pubblika u mix-Xlokk u mil- Lbi` ma’ proprjetà tal-Gvern.
 
 (e) L-art li [ejja li tag]mel parti mill-Estate tad-Djar tal- Gvern ta’ Fleur-de-Lys, limiti ta’ }al Qormi:
 
@@ -241,7 +239,7 @@ tal-kejl ta’ madwar 1691 metru kwadru li tmiss minn Nofs in-Nhar u mil-Lbi` ma
 
 (i) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 33 sa 52 tal-kejl ta’ madwar 5309 metru kwadru li tmiss mill-Majjistral, mil-Lbi` u mix-Xlokk ma’ proprjetà tal-Gvern;
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1981) [ L.S.261.04 (ii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 53 sa 71 tal-kejl ta’ madwar 5372 metru kwadru li tmiss mill-Majjistral, mil-Lbi` u mix-Xlokk ma’ proprjetà tal-Gvern.
+(ii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 53 sa 71 tal-kejl ta’ madwar 5372 metru kwadru li tmiss mill-Majjistral, mil-Lbi` u mix-Xlokk ma’ proprjetà tal-Gvern.
 
 (o) L-art li [ejja li tag]mel parti mill-Estate tad-Djar tal- Gvern ta’ l-G]asri, G]awdex:
 
@@ -295,7 +293,7 @@ B’se]] mill-20 ta’ Ottubru, 1981:
 
 (`) L-art li [ejja li tag]mel parti mill-Estate tad-Djar tal- Gvern Ta’ Kir`ippu, is-Si[[iewi:
 
-(i) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. l sa 7, 20 sa 28 (TRASFERIMENT TA’ PROPRJETÀ) (1981) [ L.S.261.04 u 32 sa 34 tal-kejl ta’ madwar 6455 metru kwadru li tmiss mit-Tramuntana, minn Nofs in- Nhar, mil-Lvant u mill-Punent ma’ proprjetà tal- Gvern;
+(i) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. l sa 7, 20 sa 28 u 32 sa 34 tal-kejl ta’ madwar 6455 metru kwadru li tmiss mit-Tramuntana, minn Nofs in- Nhar, mil-Lvant u mill-Punent ma’ proprjetà tal- Gvern;
 
 (ii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 67 sa 75 tal-kejl ta’ madwar 2469 metru kwadru li tmiss mill-Grigal, minn Nofs in Nhar u mil-Lvant ma’ proprjetà tal-Gvern.
 

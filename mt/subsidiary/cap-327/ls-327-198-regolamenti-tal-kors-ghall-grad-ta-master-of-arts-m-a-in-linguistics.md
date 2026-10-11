@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta' Master of Arts - M.A. - in Linguistics (S.L. 327.198)
 
-*1*
-
-PATRO¬INJU TAL-ISTITUT TAL-LINGWISTIKA [L.S.327.198
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.198**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER OF**

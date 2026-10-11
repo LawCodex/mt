@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Prattiki Kummerċjali Inġusti dwar il-Katina tal-Provvista Alimentari (S.L. 117.42)
 
-*1*
-
-DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI [L.S.117.42 LEĠISLAZZJONI SUSSIDJARJA 117.42
+**LEĠISLAZZJONI SUSSIDJARJA 117.42**
 
 **REGOLAMENTI DWAR IL-PRATTIKI**
 
@@ -50,11 +48,7 @@ Iżda wkoll li dawn ir-regolamenti ma għandhomx japplikaw għal ftehimiet bejn 
 
 (b) fornituri li għandhom fatturat annwali ta’ aktar minn żewġ miljun euro (€2,000,000) u li ma jaqbiżx għaxar miljun euro (€10,000,000) lil xerrejja li għandhom fatturat annwali ta’ aktar minn għaxar miljun euro (€10,000,000);
 
-(ċ) fornituri li għandhom fatturat annwali ta’ aktar minn għaxar miljun euro (€10,000,000) u li ma jaqbiżx il-ħamsin miljun euro (€50,000,000) lil xerrejja li għandhom fatturat annwali ta’ aktar minn ħamsin miljun euro [L.S. 117.42 DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI
-
-(€50,000,000);
-
-*2*
+(ċ) fornituri li għandhom fatturat annwali ta’ aktar minn għaxar miljun euro (€10,000,000) u li ma jaqbiżx il-ħamsin miljun euro (€50,000,000) lil xerrejja li għandhom fatturat annwali ta’ aktar minn ħamsin miljun euro (€50,000,000);
 
 (d) fornituri li għandhom fatturat annwali ta’ aktar minn ħamsin miljun euro (€50,000,000) u li ma jaqbiżx mija u ħamsin miljun euro (€150,000,000) lil xerrejja li għandhom fatturat annwali ta’ aktar minn mija u ħamsin miljun euro (€ 150,000,000); u
 
@@ -80,11 +74,9 @@ Iżda wkoll dawn ir-regolamenti għandhom japplikaw ukoll fir-rigward ta’ bejg
 
 "Bord" tfisser il-bord stabbilit skont ir-regolament 3;
 
-"Direttiva" tfisser id-Direttiva (UE) 2019/633 tal-Parlament Ewropew u tal-Kunsill tas-17 ta’ April 2019 dwar prattiki kummerċjali inġusti f’relazzjonijiet bejn negozju u ieħor fil-katina tal-provvista DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI [L.S.117.42 agrikola u alimentari, kif tista’ tkun fis-seħħ minn żmien għal żmien;
+"Direttiva" tfisser id-Direttiva (UE) 2019/633 tal-Parlament Ewropew u tal-Kunsill tas-17 ta’ April 2019 dwar prattiki kummerċjali inġusti f’relazzjonijiet bejn negozju u ieħor fil-katina tal-provvista agrikola u alimentari, kif tista’ tkun fis-seħħ minn żmien għal żmien;
 
 "fornitur" tfisser kwalunkwe produttur agrikolu, sajjied jew kwalunkwe persuna fiżika jew ġuridika, irrispettivament mill-post tal-stabbiliment tagħhom, li tbigħ prodotti agrikoli u alimentari u t-terminu "fornitur" jista’ jinkludi grupp ta’ tali produtturi agrikoli, sajjieda jew grupp ta’ persuni fiżiċi u ġuridiċi bħal dawn, bħal organizzazzjonijiet ta’ produtturi, organizzazzjonijiet ta’ fornituri u assoċjazzjonijiet ta’ tali organizzazzjonijiet.
-
-*3*
 
 "prodotti agrikoli u alimentari" tfisser il-prodotti elenkati fl- Anness I tat-Trattat dwar il-Funzjonament tal-Unjoni Ewropea, kif ukoll prodotti mhux elenkati f’dak l-Anness, iżda proċessati għall-użu bħala ikel bl-użu tal-prodotti elenkati f’dak l-Anness;
 
@@ -107,10 +99,6 @@ Iżda meta tiġi provduta tifsira fid-Direttiva, tali tifsira għandha tippreval
 (2) Il-Bord għandu jikkonsisti minn seba’ (7) membri, maħtura mill-Ministru responsabbli għall-kummerċ wara rakkomandazzjoni mill-Ministru responsabbli għall-agrikoltura u s-sajd, li huma:
 
 (a) avukat li jkollu mill-inqas ħames (5) snin esperjenza professjonali li għandu jippresjedi l-proċedimenti tal-Bord u li jkollu vot deċiżiv flimkien mal-vot oriġinali tiegħu f’każijiet ta’ voti ndaqs;
-
-*4*
-
-[L.S. 117.42 DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI
 
 (b) rappreżentant tad-dipartiment responsabbli għall-agrikoltura;
 
@@ -136,9 +124,7 @@ Iżda l-membri kollha jistgħu jirriżenjaw il-pożizzjoni tagħhom b’avviż b
 
 (4) Il-Ministru responsabbli għall-agrikoltura u s-sajd jista’ jiddetermina kwalunkwe remunerazzjoni dovuta lill-membri tal-Bord u lir-reġistratur, sakemm l-istess ma jkunux uffiċjali pubbliċi li jistgħu jservu fuq il-Bord minħabba l-kariga tagħhom.
 
-*5*
-
-DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI [L.S.117.42 (5) Il-Bord għandu jkollu s-setgħat, il-funzjonijiet u r-responsabbiltajiet kollha li għandhom jingħataw lil awtorità tal-infurzar jew imwettqa minnha skont id-Direttiva, b’mod partikolari dawk taħt l-Artikoli 6 u 8 tad-Direttiva:
+(5) Il-Bord għandu jkollu s-setgħat, il-funzjonijiet u r-responsabbiltajiet kollha li għandhom jingħataw lil awtorità tal-infurzar jew imwettqa minnha skont id-Direttiva, b’mod partikolari dawk taħt l-Artikoli 6 u 8 tad-Direttiva:
 
 Iżda kull sanzjonar għandu jkun skont id-dispożizzjonijiet ta’ dawn ir-regolamenti.
 
@@ -159,10 +145,6 @@ Iżda l-informazzjoni kollha hekk mitluba għandha titqies kunfidenzjali għall-
 (1) Il-Bord għandu jaġixxi bħala l-awtorità tal-infurzar skont id-Direttiva u dawn ir-regolamenti, bil-ħsieb li jmexxi ’l quddiem l-għanijiet tad-Direttiva skont is-suġġett u l-kamp ta’ applikazzjoni tagħha, u mingħajr preġudizzju għall-ġeneralità ta’ dak imsemmi qabel għandu:
 
 (a) jiddiskuti, jissuġġerixxi u jippubblika l-aħjar prattiki li għandhom jiġu adottati mill-awtoritajiet settorjali u l-operaturi sabiex tiġi evitata l-possibbiltà jew titwaqqaf il-kontinwazzjoni ta’ prattiki li jmorru kontra d-Direttiva jew li jxekklu l-għanijiet tagħha;
-
-**DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI**
-
-*[L.S. 117.42 6*
 
 (b) jissuġġerixxi r-rekwiżiti minimi għall-formoli tal-ilmenti li għandhom jaslu għandu mill-operaturi tas-suq;
 
@@ -190,11 +172,9 @@ Iżda l-informazzjoni kollha hekk mitluba għandha titqies kunfidenzjali għall-
 
 (b) jwettqu spezzjonijiet fil-bini ta’ kull operatur.
 
-(3) Mingħajr preġudizzju għal kwalunkwe obbligu ta’ kunfidenzjalità skont dawn ir-regolamenti, id-Direttiva u l-liġi, il-Bord DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI [L.S.117.42 għandu jippubblika d-deċiżjonijiet tiegħu u jista’ jagħmel dan b’mod regolari, kemm individwalment kif ukoll bħala parti minn ġabra ta’ deċiżjonijiet.
+(3) Mingħajr preġudizzju għal kwalunkwe obbligu ta’ kunfidenzjalità skont dawn ir-regolamenti, id-Direttiva u l-liġi, il-Bord għandu jippubblika d-deċiżjonijiet tiegħu u jista’ jagħmel dan b’mod regolari, kemm individwalment kif ukoll bħala parti minn ġabra ta’ deċiżjonijiet.
 
 (4) Meta jaġixxi bħala l-punt uniku ta’ kuntatt u bħala awtorità tal-infurzar, il-Bord għandu jagħmel dak kollu li huwa meħtieġ mid-Direttiva biex jissodisfa l-funzjoni msemmija, inklużi s-sottomissjoni ta’ rapporti kif imsemmi fid-Direttiva, kif ukoll jipparteċipa fid-diskussjonijiet kollha mal-Kummissjoni Ewropea, kif provdut mid-Direttiva.
-
-*7*
 
 (5) Għall-finijiet tas-subregolament (4) il-Bord jista’ jeħtieġ li jingħata kwalunkwe informazzjoni jew dokument magħruf jew miżmum mill-awtoritajiet settorjali, jekk iqis li jkun meħtieġ jew spedjenti sabiex jissodisfa dawk l-għanijiet.
 
@@ -216,11 +196,7 @@ Iżda xejn f’dan ir-regolament ma għandu jiġi interpretat bħala li qiegħed
 
 (3) Il-Bord għandu jinforma lill-ilmentatur li qiegħed jikkunsidra l-ilment tiegħu sa mhux aktar tard minn għoxrin (20) jum tax-xogħol minn meta jirċievi l-ilment, u għandu jaġġorna lill-ilmentatur dwar l-istat tal-investigazzjoni f’intervalli raġonevoli u jinfurmah dwar l-eżitu tagħha meta jikkonkludiha.
 
-(4) Mingħajr preġudizzju għar-regolament 5, il-Bord jista’ jippermetti, jew jeħtieġ, lill-ilmentatur jemenda l-ilment tiegħu sabiex jiċċara l-ilment innifsu, il-fatti rilevanti għalih jew il-prattiki li [L.S. 117.42 DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI
-
-dwarhom ikun sar l-ilment.
-
-*8*
+(4) Mingħajr preġudizzju għar-regolament 5, il-Bord jista’ jippermetti, jew jeħtieġ, lill-ilmentatur jemenda l-ilment tiegħu sabiex jiċċara l-ilment innifsu, il-fatti rilevanti għalih jew il-prattiki li dwarhom ikun sar l-ilment.
 
 (5) Is-sottomissjoni ta’ ilmenti skont dawn ir-regolamenti għandha tkun soġġetta għal dritt ta’ ħamsin euro (€50) pagabbli lill- Bord.
 
@@ -246,9 +222,7 @@ Iżda l-ilmentatur għandu l-informazzjoni rilevanti skont is-subregolament (1).
 
 (ii) jekk l-msemmija kunsinna tkun fuq bażi regolari u tikkonċerna prodotti agrikoli u alimentari oħra, aktar tard minn sittin (60) jum wara t-tmiem ta’ perjodu miftiehem ta’ kunsinna li fih ikunu saru l-kunsinni jew aktar tard minn (60) jum wara d-data li fiha jiġi stabbilit l-ammont pagabbli għal dak il-perjodu tal-kunsinna, skont liema minn dawk iż-żewġ dati tkun l-aktar tard;
 
-*9*
-
-DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI [L.S.117.42 (iii) jekk l-imsemmija kunsinna ma tkunx fuq bażi regolari u tikkonċerna prodotti agrikoli u alimentari li jitħassru, aktar tard minn tletin (30) jum wara d-data tal-kunsinna jew aktar tard minn tletin (30) jum wara d-data li fiha jiġi stabbilit l-ammont li jrid jitħallas, skont liema minn dawk iż-żewġ dati tkun l-aktar tard; jew
+(iii) jekk l-imsemmija kunsinna ma tkunx fuq bażi regolari u tikkonċerna prodotti agrikoli u alimentari li jitħassru, aktar tard minn tletin (30) jum wara d-data tal-kunsinna jew aktar tard minn tletin (30) jum wara d-data li fiha jiġi stabbilit l-ammont li jrid jitħallas, skont liema minn dawk iż-żewġ dati tkun l-aktar tard; jew
 
 (iv) jekk l-imsemmija kunsinna ma tkunx fuq bażi regolari u tikkonċerna prodotti agrikoli u alimentari oħra, aktar tard minn sittin (60) jum wara d-data tal-kunsinna jew aktar tard minn sittin (60) jum wara d-data li fiha jiġi stabbilit l-ammont li jrid jitħallas, skont liema minn dawk iż-żewġ dati tkun l-aktar tard:
 
@@ -266,11 +240,7 @@ Iżda wkoll il-paragrafu (a) għandu jkun mingħajr preġudizzju għall-għażla
 
 Iżda wkoll avviż ta’ inqas minn tletin (30) jum għandu dejjem jitqies bħala avviż qasir;
 
-(ċ) ix-xerrej ibiddel unilateralment it-termini ta’ ftehim ta’ forniment għal prodotti agrikoli u alimentari li DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI
-
-jikkonċernaw il-frekwenza, il-metodu, il-post, il-ħin jew il-volum tal-provvista jew tal-kunsinna tal-prodotti agrikoli u alimentari, l-istandards tal-kwalità, it-termini tal-ħlas jew il-prezzijiet, jew fir-rigward tal-forniment tas-servizzi sa fejn dawn huma espliċitament imsemmija fis-subregolament (2);
-
-*[L.S. 117.42 10*
+(ċ) ix-xerrej ibiddel unilateralment it-termini ta’ ftehim ta’ forniment għal prodotti agrikoli u alimentari li jikkonċernaw il-frekwenza, il-metodu, il-post, il-ħin jew il-volum tal-provvista jew tal-kunsinna tal-prodotti agrikoli u alimentari, l-istandards tal-kwalità, it-termini tal-ħlas jew il-prezzijiet, jew fir-rigward tal-forniment tas-servizzi sa fejn dawn huma espliċitament imsemmija fis-subregolament (2);
 
 (d) ix-xerrej jeħtieġ ħlasijiet mill-fornitur li mhumiex relatati mal-bejgħ tal-prodotti agrikoli u alimentari tal-fornitur;
 
@@ -288,9 +258,7 @@ jikkonċernaw il-frekwenza, il-metodu, il-post, il-ħin jew il-volum tal-provvis
 
 (2) Il-paragrafu (a) tas-subregolament (1) ma għandux japplika għal pagamenti:
 
-*11*
-
-DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI [L.S.117.42 (a) li jsiru minn xerrej lil fornitur fejn tali pagamenti jsiru fil-qafas tal-iskema għall-iskejjel skont l-Artikolu 23 tar- Regolament (UE) Nru 1308/2013.
+(a) li jsiru minn xerrej lil fornitur fejn tali pagamenti jsiru fil-qafas tal-iskema għall-iskejjel skont l-Artikolu 23 tar- Regolament (UE) Nru 1308/2013.
 
 * Kap. 13.*
 
@@ -313,10 +281,6 @@ Iżda din il-prattika kummerċjali għandha tkun ipprojbita, minkejja ftehim kif
 (d) ix-xerrej jeħtieġ li l-fornitur iħallas għar-reklamar mix-xerrej ta’ prodotti agrikoli u alimentari.
 
 (e) ix-xerrej jeħtieġ li l-fornitur iħallas għat-tqegħid fis-suq mix-xerrej tal-prodotti agrikoli u tal-ikel.
-
-*12*
-
-[L.S. 117.42 DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI
 
 (f) ix-xerrej iħallas lill-fornitur għall-persunal għall-bini għall-armar li jintuża għall-bejgħ tal-prodotti tal-fornitur.
 
@@ -342,9 +306,7 @@ Iżda dak il-ftehim għandu jippermetti li jsiru pagamenti parzjali kif jista’
 
 Iżda wkoll dak il-ftehim jista’ jipprovdi għal penali għal kull ġurnata f’każijiet ta’ inadempjenza:
 
-*13*
-
-DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI [L.S.117.42 Iżda wkoll mal-iskadenza ta’ xi terminu provdut f’dak il-ftehim jew b’nuqqas ta’ xi pagament li jkun hemm miftiehem, il-ftehim għandu jitqies bħala titolu eżekuttiv għall-finijiet u effetti kollha tal-liġi.
+Iżda wkoll mal-iskadenza ta’ xi terminu provdut f’dak il-ftehim jew b’nuqqas ta’ xi pagament li jkun hemm miftiehem, il-ftehim għandu jitqies bħala titolu eżekuttiv għall-finijiet u effetti kollha tal-liġi.
 
 (4) Kwalunkwe proċedura ta’ medjazzjoni jew ftehim skont dan ir-regolament għandhom ikunu soġġetti għal waqfien temporanju tal-prattika stabbilita bħala prattika kummerċjali inġusta waqt li tkun għaddejja l-medjazzjoni u matul il-perjodu rilevanti tal-ftehim milħuq.
 
@@ -361,10 +323,6 @@ Iżda meta t-Tribunal ta’ Reviżjoni Amministrattiva jiddetermina li seħħet 
 (1) Kwalunkwe persuna li tfixkel jew tostakola, b’kull mod, il-Bord jew awtorità settorjali, kif ukoll kull persuna maħtura mill-istess, fl-eżerċizzju tal-funzjonijiet tagħhom skont dawn ir-regolamenti, jew tonqos milli tikkollabora f’investigazzjoni skont dawn ir-regolamenti, għandha tkun ħatja ta’ reat u teħel multa li ma taqbiżx elfejn, tliet mija u disgħa u għoxrin euro u sebgħa u tletin ċenteżmu (€2,329.37).
 
 (2) Kull persuna li, meta ordnata mill-Bord biex twaqqaf prattika kummerċjali inġusta tippersisti f’din il-prattika, u fin-nuqqas ta’ ftehim skont ir-regolament 11, għandha tkun ħatja ta’ reat u tkun soġġetta għal multa li ma taqbiżx elfejn, tliet mija u disgħa u għoxrin euro u sebgħa u tletin ċenteżmu (€2,329.37) jew multa kkalkulata fuq il-profitt magħmul mill-ħati dwar in-negozju bi ksur ta’ dawn ir-regolamenti:
-
-*14*
-
-[L.S. 117.42 DWAR IL-KATINA TAL-PROVVISTA ALIMENTARI
 
 Iżda meta l-multa tkun hekk ikkalkulata ma tistax taqbeż ħames darbiet il-profitt magħmul mill-ħati.
 

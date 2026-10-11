@@ -17,14 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Postgraduate Certificate in Geographic Information Systems taħt il-patroċinju tal-Istitut għall-Iżvilupp Sostenibbli (S.L. 327.430)
 
-POSTGRADUATE CERTIFICATE IN GEOGRAPHIC
-
-INFORMATION SYSTEMS TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-ISTITUT GĦALL-IŻVILUPP SOSTENIBBLI [L.S.327.430
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.430**
 
 **ORDINAMENTI GĦALL-POSTGRADUATE**

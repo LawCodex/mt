@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Pharmacology or Clinical Pharmacology taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.340)
 
-OR CLINICAL PHARMACOLOGY TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.340
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.340**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -67,10 +61,6 @@ Dawn l-ordinamenti għandhom japplikaw mill-24 ta’ Jannar 2014 ’il quddiem.
 
 (d) il-livell milħuq minnhom waqt intervista.
 
-*2*
-
-OR CLINICAL PHARMACOLOGY TAĦT IL-PATROĊINJU [L.S.327.340 TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA
-
 ## 4. Rekwiżiti għad-dħul.
 
 (1) Il-kors huwa miftuħ għall-applikanti li għandhom:
@@ -116,12 +106,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 ## 10. Superviżur.
 
 (1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
-
-OR CLINICAL PHARMACOLOGY TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.340
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

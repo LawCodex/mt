@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tal-Finlandja) (S.L. 123.11)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.11**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -55,7 +51,7 @@ B'dan qiegħed jiġi dikjarat -
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20-%20Fin-land%20DTA%20(synthesised%20text).pdf
 
-2 L.S.123.11] FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11 3
+2 L.S.123.11] FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA
 
 ## SKEDA — FTEHIM — BEJN MALTA
 
@@ -153,9 +149,7 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa identika jew sostanzjalment si
 
 **Residenza**
 
-\1. Għall-finijiet ta' dan il-Ftehim, il-frażi ''residenti ta' Stat Kontraenti'' tfisser FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11 5
-
-kull persuna li, taħt il-liġijiet ta' dak l-Istat, hija suġġetta għat-taxxa hemmhekk minħabba d-domiċilju, r-residenza, post tal-maniġġ, post ta' inkorporazzjoni (reġistrazzjoni) jew xi kriterju ieħor ta' xorta simili, u tinkludi wkoll lil dak l-Istat u lil xi korp statutorju jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun suġġetta għat-taxxa f'dak l-Istat għar-rigward biss ta' income minn għejjun f'dak l-Istat.
+\1. Għall-finijiet ta' dan il-Ftehim, il-frażi ''residenti ta' Stat Kontraenti'' tfisser kull persuna li, taħt il-liġijiet ta' dak l-Istat, hija suġġetta għat-taxxa hemmhekk minħabba d-domiċilju, r-residenza, post tal-maniġġ, post ta' inkorporazzjoni (reġistrazzjoni) jew xi kriterju ieħor ta' xorta simili, u tinkludi wkoll lil dak l-Istat u lil xi korp statutorju jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun suġġetta għat-taxxa f'dak l-Istat għar-rigward biss ta' income minn għejjun f'dak l-Istat.
 
 \2. Meta minħabba l-provvedimenti tal-paragrafu 1 individwu jkun residenti taż-żewġ Stati Kontraenti, allura l-istatus tiegħu għandu jiġi stabbilit kif ġej:
 
@@ -229,9 +223,7 @@ Il-fatt li kumpannija li tkun residenti ta' Stat Kontraenti tkun tikkontrolla je
 
 **Income minn proprjetà immobbli**
 
-\1. Income li jinkiseb minn residenti ta' Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew ħidma fil-boskijiet) li jkunu jinsabu FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11 7
-
-fl-Istat Kontraenti l-ieħor jista' jiġi intaxxat f'dak l-Istat l-ieħor.
+\1. Income li jinkiseb minn residenti ta' Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew ħidma fil-boskijiet) li jkunu jinsabu fl-Istat Kontraenti l-ieħor jista' jiġi intaxxat f'dak l-Istat l-ieħor.
 
 \2. (a) Il-frażi ''proprjetà immobbli'' għandu jkollha, bla ħsara għall-provvedimenti tas-subparagrafi (b) u (`), t-tifsira li għandha taħt il-liġi ta' l-Istat Kontraenti li fih tkun tinsab il-proprjetà involuta.
 
@@ -293,9 +285,7 @@ u f'kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriżi f
 
 (a) meta s-sid benefiċjarju tad-dividendi jkun residenti f'Malta, it-taxxa li tiġi hekk imposta m'għandhiex tkun iżjed minn:
 
-(i) 5 fil-mija ta' l-ammont gross tad-dividendi jekk is-sid benefiċjarju jkun kumpannija (minbarra soċjetà) li jkollha direttament mill- FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11 9
-
-inqas 10 fil-mija mit-total tal-voti fil-kumpannija li tkun qed tħallas id-dividendi;
+(i) 5 fil-mija ta' l-ammont gross tad-dividendi jekk is-sid benefiċjarju jkun kumpannija (minbarra soċjetà) li jkollha direttament mill-inqas 10 fil-mija mit-total tal-voti fil-kumpannija li tkun qed tħallas id-dividendi;
 
 (ii) 15 fil-mija ta' l-ammont gross tad-dividendi fil-każijiet l-oħra kollha;
 
@@ -335,9 +325,7 @@ inqas 10 fil-mija mit-total tal-voti fil-kumpannija li tkun qed tħallas id-divi
 
 \3. Il-provvedimenti tal-paragrafu 1 m'għandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta' Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih ir-royalties jinqalgħu, permezz ta' stabbiliment permanenti sitwat hemmhekk, jew ikun jagħmel servizzi personali indipendenti f'dak Istat l-ieħor minn bażi stabbilita sitwata hemmhekk, u d-dritt jew il-proprjetà li dwarhom jitħallsu r-royalties ikunu effettivament konnessi ma' dak l-istabbiliment permanenti jew bażi stabbilita. F'dak il-każ għandhom japplikaw il-provvedimenti ta' l-Artikolu 7 jew l-Artikolu 14, skond il-każ.
 
-\4. Meta, minħabba r-relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oħra, l-ammont tar-royalties, fil-qies ta' x'ikun l-użu, id-dritt jew l-informazzjoni li jitħallsu għalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta' dik ir-relazzjoni, FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11 11
-
-il-provvedimenti ta' dan l-Artikolu għandhom japplikaw biss għall-ammont l-aħħar imsemmi. F'dak il-każ, il-parti żejda tal-ħlasijiet għandha tibqa' taxxabbli skond il-liġijiet ta' kull Stat Kontraenti, wara li jitqiesu l-provvedimenti l-oħra ta' dan il- Ftehim.
+\4. Meta, minħabba r-relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oħra, l-ammont tar-royalties, fil-qies ta' x'ikun l-użu, id-dritt jew l-informazzjoni li jitħallsu għalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta' dik ir-relazzjoni, il-provvedimenti ta' dan l-Artikolu għandhom japplikaw biss għall-ammont l-aħħar imsemmi. F'dak il-każ, il-parti żejda tal-ħlasijiet għandha tibqa' taxxabbli skond il-liġijiet ta' kull Stat Kontraenti, wara li jitqiesu l-provvedimenti l-oħra ta' dan il- Ftehim.
 
 **Artikolu 13**
 
@@ -398,8 +386,6 @@ Id-drittijiet tad-diretturi u ħlasijiet simili oħra li jinkisbu minn residenti
 \1. Minkejja l-provvedimenti ta' l-Artikoli 14 u 15, income li jinkiseb minn residenti ta' Stat Kontraenti bħala uħud li jagħtu spettaklu, bħal artisti tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bħala mużiċista, jew bħala sportiv, mill-attivitajiet personali tiegħu bħala tali li jiġu eżerċitati fl-Istat Kontraenti l-ieħor, jistgħu jiġu intaxxati f'dak l-Istat l-ieħor.
 
 \2. Meta income dwar attivitajiet personali eżerċitati minn min jagħti spettaklu jew sportiv fil-kapaċità tiegħu bħala tali jinġabar mhux minn min jagħti spettaklu jew l-isportiv innifsu iżda minn xi persuna oħra, dak l-income jista', minkejja l-provvedimenti ta' l-Artikoli 7, 14 u 15, jiġi intaxxat fl-Istat Stat Kontraenti li fih l-attivitajiet ta' min jagħti spettaklu jew ta' l-isportiv jiġu eżerċitati.
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11 13
 
 **Artikolu 18**
 
@@ -469,8 +455,6 @@ Il-provvedimenti ta' l-Artikoli 6 sa 21 m'għandhomx ikunu japplikaw għal persu
 
 (a) xi liġi ta' Stat Kontraenti li jkun ġie identifikat fi Skambju ta' Noti bejn il-Gvernijiet ta' l-Istati Kontraenti; jew
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11 15
-
 (b) xi liġi sostanzjalment simili li ssir sussegwentement.
 
 **Artikolu 24**
@@ -529,9 +513,7 @@ Ebda ħaġa f'dan il-Ftehim ma għandha tolqot il-privileġġi ta' membri ta' mi
 
 (a) fil-Finlandja:
 
-(i) għar-rigward ta' taxxi li jinżammu minn ras il-għajn, fuq income miksub fl-ewwel jum ta' Jannar, jew wara dik id-data, fis-sena FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11 17
-
-kalendarja li tiġi minnufih wara s-sena meta l-Ftehim jibda jseħħ;
+(i) għar-rigward ta' taxxi li jinżammu minn ras il-għajn, fuq income miksub fl-ewwel jum ta' Jannar, jew wara dik id-data, fis-sena kalendarja li tiġi minnufih wara s-sena meta l-Ftehim jibda jseħħ;
 
 (ii) għar-rigward ta' taxxi oħra fuq l-income, għar-rigward ta' taxxi li jitħallsu għal xi sena taxxabbli li tibda fi jew wara l-ewwel jum ta' Jannar fis-sena kalendarja li tiġi minnufih wara s-sena meta l- Ftehim jibda jseħħ;
 
@@ -600,8 +582,6 @@ Ruma, 30 Ottubru 2000 Dieter Vitzthum
 Ambaxxatur tal-Finlandja
 
 Mr Dieter Vitzhum
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-FINLANDJA [L.S.123.11 19
 
 Ambaxxatur tal-Finland
 

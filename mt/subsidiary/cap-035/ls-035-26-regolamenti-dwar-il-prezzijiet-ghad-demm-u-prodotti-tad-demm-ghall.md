@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Prezzijiet għad-Demm u Prodotti tad-Demm għall-Kliniċi Privati (S.L. 35.26)
 
-SERVIZZI MEDI~I MOG}TIJA MIT-TAQSIMA
-
-*1*
-
-TAS-SA}}A OKKUPAZZJONALI [L.S.35.25
-
 **LE{ISLAZZJONI SUSSIDJARJA 35.26**
 
 **REGOLAMENTI DWAR IL-PREZZIJIET**

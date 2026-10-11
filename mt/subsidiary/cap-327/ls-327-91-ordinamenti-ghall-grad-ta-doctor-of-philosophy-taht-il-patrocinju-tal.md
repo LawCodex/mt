@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Fakultà tal-Arti (S.L. 327.91)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.91
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.91**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -67,10 +63,6 @@ Dawn l-ordinamenti għandhom japplikaw minn Ottubru 2019 ’il quddiem.
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 263 tal-2024.
 
-*2*
-
-[L.S.327.91 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI
-
 ## 4. Temm ta’ taqsimiet studju.
 
 *Miżjud: A.L. 308 tal-2014.*
@@ -111,11 +103,9 @@ L-istudenti reġistrati mal-Fakultà jistgħu jiġu mitluba jipparteċipaw fil-p
 
 L-istudenti għandhom jinfurmaw lill-Fakultà li ser jissottomettu t-teżi tagħhom għal eżami mhux anqas minn tliet xhur qabel iż-żmien meta għandha ssir is-sottomissjoni.
 
-*3*
+## 12. Bord tal- Eżaminaturi. Enumerat mill-ġdid: A.L. 308 tal-2014.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.91 12. Il-Bord għandu jirrakkomanda lis-Senat il-ħatra tal-Bord tal-Eżaminaturi skont ir-Regolamenti Prinċipali.
-
-*Bord tal- Eżaminaturi. Enumerat mill-ġdid: A.L. 308 tal-2014.*
+Il-Bord għandu jirrakkomanda lis-Senat il-ħatra tal-Bord tal-Eżaminaturi skont ir-Regolamenti Prinċipali.
 
 ## 13. Preżentazzjoni u l- Format tat-Te\\i. Enumerat mill-ġdid: A.L. 308 tal-2014.
 

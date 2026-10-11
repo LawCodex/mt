@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Skambju ta’ Informazzjoni (Materja ta’ Taxxa) (Gżejjer Cayman) (S.L. 123.154)
 
-*1*
-
-(GŻEJJER CAYMAN) [L.S.123.154
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.154**
 
 ORDNI DWAR SKAMBJU TA’ INFORMAZZJONI
@@ -44,8 +40,6 @@ B’dan qiegћed jiġi dikjarat:
 (ċ) illi l-Ftehim għandu jidħol fis-seħħ f’dik id-data li tkun mħabbra b’avviż fil-Gazzetta tal-Gvern\*.
 
 \*ara l-Avviż Legali 143 tal-2014.
-
-2 [L.S.123.154 (GŻEJJER CAYMAN)
 
 ## SCHEDULE
 
@@ -95,9 +89,7 @@ Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa identika imposta wara
 
 \1. Għall-finijiet ta’ dan il-Ftehim, sakemm mhux imfisser mod iehor:
 
-(a) il-frażi "Gżejjer Cayman" tfisser it-territorju tal-Gżejjer Cayman u (GŻEJJER CAYMAN) [L.S.123.154 3
-
-tinkludi l-baħar territorjali, l-areas fil-konfini marittimi tal-Gżejjer Cayman u kull area li fiha skont id-dritt internazzjonali jistgħu jiġu eżerċitati d-drittijiet tal-Gżejjer Cayman fir-rigward ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom;
+(a) il-frażi "Gżejjer Cayman" tfisser it-territorju tal-Gżejjer Cayman u tinkludi l-baħar territorjali, l-areas fil-konfini marittimi tal-Gżejjer Cayman u kull area li fiha skont id-dritt internazzjonali jistgħu jiġu eżerċitati d-drittijiet tal-Gżejjer Cayman fir-rigward ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom;
 
 (b) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tintuża f’sens ġeografiku, il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra tal-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, u kull area ta’ qiegħ il-baħar, is-sottoswol tiegħu u l-kolonna ta’ baћar sovrajaċenti li tinsab adjaċenti mal-ibћra territorjali, li fihom Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew kontroll kif hemm fid-dritt internazzjonali u d-dritt nazzjonali tagћha, inkluża l-leġislazzjoni tagћha dwar l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagћha;
 
@@ -127,9 +119,7 @@ tinkludi l-baħar territorjali, l-areas fil-konfini marittimi tal-Gżejjer Cayma
 
 (m) il-frażi "kumpannija li tkun tidher fil-borża" tfisser kumpannija li jkollha l-klassi ta’ ishma ewlenija tagħha elenkata f’borża rikonoxxuta sakemm l-ishma elenkati tagħha jkunu jistgħu jinxtraw jew jinbiegħu minnufih mill-pubbliku. Ishma jistgħu jinxtraw jew jinbiegħu "mill-pubbliku" jekk ix-xiri jew il-bejgħ ta’ ishma ma jkunx impliċitament jew espliċitament ristrett għal xi grupp limitat ta’ investituri;
 
-(n) il-frażi "fond jew skema ta’ investiment kollettiv" tfisser kull vettura ta’ investiment miġmugħ, irrispettivament mill-forma legali tiegħu. Il-frażi 4 [L.S.123.154 (GŻEJJER CAYMAN)
-
-"fond jew skema pubbliċi ta’ investiment kollettiv" tfisser kull fond jew skema ta’ investiment kollettiv sakemm l-unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew minnufih mingħajr ebda diffikultà mill-pubbliku. Unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew minnufih mingħajr ebda diffikultà "mill-pubbliku" jekk ix-xiri, il-bejgħ jew il-fidwa ma jkunux impliċitament jew espliċitament ristretti għal grupp limitat ta’ investituri;
+(n) il-frażi "fond jew skema ta’ investiment kollettiv" tfisser kull vettura ta’ investiment miġmugħ, irrispettivament mill-forma legali tiegħu. Il-frażi "fond jew skema pubbliċi ta’ investiment kollettiv" tfisser kull fond jew skema ta’ investiment kollettiv sakemm l-unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew minnufih mingħajr ebda diffikultà mill-pubbliku. Unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew minnufih mingħajr ebda diffikultà "mill-pubbliku" jekk ix-xiri, il-bejgħ jew il-fidwa ma jkunux impliċitament jew espliċitament ristretti għal grupp limitat ta’ investituri;
 
 (o) il-frażi "borża rikonoxxuta" tfisser borża miftiehma mill-awtoritajiet kompetenti tal-Partijiet Kontraenti;
 
@@ -161,9 +151,7 @@ Kull Parti Kontraenti għandha tiżgura li l-awtoritajiet kompetenti tagħha għ
 
 (a) informazzjoni miżmuma mill-banek, istituzzjonijiet finanzjarji oħra, u minn kull persuna li tkun tiffunzjona f’kapaċità ta’ aġent jew fiduċjarju, inklużi nominees u trustees;
 
-(b) informazzjoni li jkollha x’taqsam mas-sidien ta’ kumpanniji, soċjetajiet, trusts, fondazzjonijiet, "Anstalten" u persuni oħra, inklużi, fil-limiti tal- Artikolu 2, informazzjoni dwar is-sidien fuq dawk il-persuni kollha f’katina ta’ proprjetà; fil-każ ta’ trusts, informazzjoni fuq settlors, trustees u benefiċjarji; u fil-każ ta’ fondazzjonijiet, informazzjoni fuq il-fundaturi, membri tal-kunsill tal-fondazzjoni u benefiċjarji. Iktar minn hekk, dan il-Ftehim ma joħloq ebda obbligu fuq il-Partijiet Kontraenti biex jiksbu jew jipprovdu informazzjoni dwar kumpanniji li jkunu jidhru fil-borża jew fondi jew skemi pubbliċi ta’ investiment (GŻEJJER CAYMAN) [L.S.123.154 5
-
-kollettiv, kemm-il darba dik l-informazzjoni tkun tista’ tinkiseb mingħajr ma jingħata lok għal diffikultajiet sproporzjonati.
+(b) informazzjoni li jkollha x’taqsam mas-sidien ta’ kumpanniji, soċjetajiet, trusts, fondazzjonijiet, "Anstalten" u persuni oħra, inklużi, fil-limiti tal- Artikolu 2, informazzjoni dwar is-sidien fuq dawk il-persuni kollha f’katina ta’ proprjetà; fil-każ ta’ trusts, informazzjoni fuq settlors, trustees u benefiċjarji; u fil-każ ta’ fondazzjonijiet, informazzjoni fuq il-fundaturi, membri tal-kunsill tal-fondazzjoni u benefiċjarji. Iktar minn hekk, dan il-Ftehim ma joħloq ebda obbligu fuq il-Partijiet Kontraenti biex jiksbu jew jipprovdu informazzjoni dwar kumpanniji li jkunu jidhru fil-borża jew fondi jew skemi pubbliċi ta’ investiment kollettiv, kemm-il darba dik l-informazzjoni tkun tista’ tinkiseb mingħajr ma jingħata lok għal diffikultajiet sproporzjonati.
 
 ## 5.
 
@@ -197,9 +185,7 @@ L-awtorità kompetenti tal-Parti mitluba għandha tibgħat l-informazzjoni mitlu
 
 \1. Parti Kontraenti tista tippermetti lil rappreżentanti tal-awtorità kompetenti tal-Parti Kontraenti l-oħra jidħlu fit-territorju tal-ewwel imsemmija Parti biex jintervistaw individwi u jeżaminaw records bil-kunsens mogħti bil-miktub tal-persuni kkonċernati. L-awtorità kompetenti tat-tieni imsemmija Parti għandha tinnotifika lill-awtorità kompetenti tal-ewwel imsemmija Parti bil-ħin u l-post meta għandhom jiltaqgħu mal-individwi kkoncernati.
 
-\2. Fuq talba tal-awtorità kompetenti ta’ waħda mill-Parti Kontraenti, l-awtorità kompetenti tal-Parti Kontraenti l-oħra tista’ tippermetti lil rappreżentanti tal- 6 [L.S.123.154 (GŻEJJER CAYMAN)
-
-awtorità kompetenti tal-ewwel imsemmija Parti li jkunu preżenti fil-parti xierqa tal-eżami tat-taxxa fit-tieni imsemmija Parti.
+\2. Fuq talba tal-awtorità kompetenti ta’ waħda mill-Parti Kontraenti, l-awtorità kompetenti tal-Parti Kontraenti l-oħra tista’ tippermetti lil rappreżentanti tal-awtorità kompetenti tal-ewwel imsemmija Parti li jkunu preżenti fil-parti xierqa tal-eżami tat-taxxa fit-tieni imsemmija Parti.
 
 \3. Jekk it-talba msemmija fil-paragrafu 2 tintlaqa’, l-awtorità kompetenti tal- Parti Kontraenti li tkun qegħda tmexxi l-eżami għandha, kemm jista’ jkun malajr, tinnotifika lill-awtorità kompetenti tal-Parti oħra bil-ħin u l-post tal-eżami, l-awtorità jew min ikun l-uffiċjal appuntat biex jagħmel l-eżami u l-proċeduri u l-kundizzjonijiet meħtieġa mill-ewwel imsemmija Parti biex tmexxi l-ezami. Kull deċiżjoni li jkollha x’taqsam mat-tmexxija tal-eżami tat-taxxa għandha ssir mill- Parti li tkun qegħda tmexxi l-eżami.
 
@@ -229,9 +215,7 @@ Il-Parti mitluba tista’ tirrifjuta talba għal informazzjoni jekk l-informazzj
 
 **Kunfidenzjalità**
 
-Kull informazzjoni li tiġi riċevuta minn Parti Kontraenti taħt dan il-Ftehim għandha tiġi ttrattata bħala kunfidenzjali u tista’ tiġi biss żvelata lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) fil-ġurisdizzjoni tal-Parti Kontraenti li jkollha x’taqsam mal-istima jew il-ġbir ta’, infurzar jew prosekuzzjoni fir-rigward ta’, jew id-deċiżjoni ta’ appelli dwar, it-taxxi koperti b’dan il-Ftehim. Dawk il-persuni jew awtoritajiet għandhom jużaw dik l-informazzjoni għal dawk il- (GŻEJJER CAYMAN) [L.S.123.154 7
-
-finijiet biss. Huma jistgħu jiżvelaw l-informazzjoni fi proċedimenti tal-qorti pubbliċi jew f’deċiżjonijiet ġudizzjarji. L-informazzjoni ma tistax tiġi żvelata lil xi persuna jew entità jew awtorità oħra jew lil xi ġurisdizzjoni oħra mingħajr il-kunsens espress mogħti bil-miktub mill-awtorità kompetenti tal-Parti mitluba.
+Kull informazzjoni li tiġi riċevuta minn Parti Kontraenti taħt dan il-Ftehim għandha tiġi ttrattata bħala kunfidenzjali u tista’ tiġi biss żvelata lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) fil-ġurisdizzjoni tal-Parti Kontraenti li jkollha x’taqsam mal-istima jew il-ġbir ta’, infurzar jew prosekuzzjoni fir-rigward ta’, jew id-deċiżjoni ta’ appelli dwar, it-taxxi koperti b’dan il-Ftehim. Dawk il-persuni jew awtoritajiet għandhom jużaw dik l-informazzjoni għal dawk il-finijiet biss. Huma jistgħu jiżvelaw l-informazzjoni fi proċedimenti tal-qorti pubbliċi jew f’deċiżjonijiet ġudizzjarji. L-informazzjoni ma tistax tiġi żvelata lil xi persuna jew entità jew awtorità oħra jew lil xi ġurisdizzjoni oħra mingħajr il-kunsens espress mogħti bil-miktub mill-awtorità kompetenti tal-Parti mitluba.
 
 **Artikolu 9**
 
@@ -272,8 +256,6 @@ Dan il-Ftehim għandu jidħol fis-seħħ meta kull Parti tavża lill-oħra bil-m
 \2. Parti Kontraenti waħda jew l-oħra tista’ ttemm il-Ftehim billi tagħti avviż ta’ terminazzjoni bil-miktub, permezz ta’ kanali diplomatiċi, lill-Parti Kontraenti l-oħra. Tali terminazzjoni għandu ikollha effett mill-ewwel jum tax-xahar li jiġi wara t-tmiem ta’ perjodu ta’ sitt xhur wara d-data li jiġi riċevut l-avviż ta’ terminazzjoni mill-Parti Kontraenti l-oħra.
 
 \3. F’każ ta’ terminazzjoni, il-Partijiet Kontraenti għandhom jibqgħu marbutin bid-dispożizzjonijiet tal-Artikolu 8 dwar kull informazzjoni miksuba taħt dan il- Ftehim.
-
-8 [L.S.123.154 (GŻEJJER CAYMAN)
 
 B’XHIEDA TA’ DAN is-sottoskritti kif debitament awtorizzati għaldaqstant mill- Partijiet rispettivi, iffirmaw il-Ftehim.
 

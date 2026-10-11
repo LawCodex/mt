@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Identifikazzjoni u t-Traċċabilità tà l-Isplussivi għall-Użi Ċivili"
-identifier: "S.L. 33.6"
+identifier: "S.L. 33.06"
 eli: "https://legislation.mt/eli/sl/33.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/33.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Identifikazzjoni u t-Traċċabilità tà l-Isplussivi għall-Użi Ċivili (S.L. 33.6)
-
-*1*
-
-TAL-ISPLUSSIVI GĦALL-UŻI ĊIVILI [L.S.33.06
+# Regolamenti dwar l-Identifikazzjoni u t-Traċċabilità tà l-Isplussivi għall-Użi Ċivili (S.L. 33.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 33.06**
 
@@ -57,13 +53,9 @@ TAL-ISPLUSSIVI GĦALL-UŻI ĊIVILI [L.S.33.06
 
 ## 3. Tifsir.
 
-Għall-finijiet ta’ dawn ir-regolamenti għandhom japplikaw [L.S.33.06 TAL-ISPLUSSIVI GĦALL-UŻI ĊIVILI
+Għall-finijiet ta’ dawn ir-regolamenti għandhom japplikaw it-tifsiriet li ġejjin:
 
 \*ara r-regolament 1(3) ta’ dawn ir-Regolamenti, kif promulgati oriġinarjament, u l- Avviż Legali 150 tal-2012.
-
-it-tifsiriet li ġejjin:
-
-*2*
 
 "Direttorat għas-Sorveljanza fuq is-Suq" tfisser id-Direttorat għas-Sorveljana fuq is-Suq tal-Awtorità Maltija dwar l-iStandards kif imfisser fl-Ordni dwar it-Twaqqif ta’ Direttorati fl-Awtorità Maltija dwar l-iStandards;
 
@@ -91,11 +83,9 @@ it-tifsiriet li ġejjin:
 
 (6) Id-Direttorat għas-Sorveljanza fuq is-Suq għandu jiżgura li d-distributuri li jippakkjaw mill-ġdid l-isplussivi jiżguraw li l-identifikazzjoni unika titwaħħal fuq l-isplussiv u fuq l-iżgħar biċċa tal-ippakkjar.
 
-*3*
+## 5. Immarkar u twaħħil.
 
-TAL-ISPLUSSIVI GĦALL-UŻI ĊIVILI [L.S.33.06 5. L-identifikazzjoni unika għandha tkun immarkata jew imwaħħla sew fuq l-oġġett konċernat b’mod li jibqa’ matul iż-żmien sabiex ikun żgurat li tkun tista’ tinqara b’mod ċar.
-
-*Immarkar u twaħħil.*
+L-identifikazzjoni unika għandha tkun immarkata jew imwaħħla sew fuq l-oġġett konċernat b’mod li jibqa’ matul iż-żmien sabiex ikun żgurat li tkun tista’ tinqara b’mod ċar.
 
 ## 6. Splussivi f’skartoċċ u splussivi fi xkejjer.
 
@@ -129,13 +119,11 @@ Għall-miċeċ ta’ detonazzjoni l-identifikazzjoni unika għandha tikkonsisti 
 
 ## 12. Bottijiet u ċilindri li fihom l-isplussiv.
 
-Għall-bottijiet u ċ-ċilindri li jkun fihom l-isplussiv, l-identifikazzjoni unika għandha tkun tikkonsisti f’tikketta adeżiva jew stampar dirett fuq il-bott jew fuq iċ-ċilindru li fih l-isplussiv. Iżjed minn hekk, l-impriżi jistgħu jużaw tikketta elettronika ta’ materjal inerti u passiv li tkun imwaħħla fuq kull bott u ċilindru. [L.S.33.06 TAL-ISPLUSSIVI GĦALL-UŻI ĊIVILI
+Għall-bottijiet u ċ-ċilindri li jkun fihom l-isplussiv, l-identifikazzjoni unika għandha tkun tikkonsisti f’tikketta adeżiva jew stampar dirett fuq il-bott jew fuq iċ-ċilindru li fih l-isplussiv. Iżjed minn hekk, l-impriżi jistgħu jużaw tikketta elettronika ta’ materjal inerti u passiv li tkun imwaħħla fuq kull bott u ċilindru.
 
 ## 13. Kopji tat-tikketta oriġinali.
 
 L-impriżi jistgħu jwaħħlu kopji adeżivi li jkunu jistgħu jinqalgħu tat-tikketta oriġinali għall-użu tal-klijenti tagħhom. Dawk il-kopji għandhom jidhru b’mod ċar bħala kopji tal-oriġinal biex ikun evitat l-użu ħażin.
-
-*4*
 
 ## 14. Ġbir ta’ data.
 
@@ -164,8 +152,6 @@ Iżda l-impriża għandha, fil-każ ta’ splussivi mmanifatturati jew importati
 (f) jipprovdu lid-Direttorat għas-Sorveljanza fuq is-Suq, meta jitlobha, l-informazzjoni li tikkonċerna l-oriġini u l-lok ta’ kull splussiv matul l-eżistenza tiegħu u matul il-katina ta’ forniment;
 
 (g) jipprovdu lid-Direttorat għas-Sorveljanza fuq is-Suq l-isem u d-dettalji tal-kuntatt ta’ persuna li tkun kapaċi tagħti l-informazzjoni deskritta fil-paragrafu (f) barra l-ħinijiet normali tan-negozju.
-
-TAL-ISPLUSSIVI GĦALL-UŻI ĊIVILI [L.S.33.06 5
 
 SKEDA Emendata:
 

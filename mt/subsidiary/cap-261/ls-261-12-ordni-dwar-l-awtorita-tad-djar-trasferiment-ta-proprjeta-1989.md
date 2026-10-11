@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1989) (S.L. 261.12)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1989) [ L.S.261.12
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.12**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -101,7 +99,7 @@ B’se]] mit-18 ta’ April, 1989:
 
 (b) Id-dar bin-numru Flat 3, Blokk IIl, Estate tad-Djar tal- Gvern, Triq }al Luqa, }al Tarxien.
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1989) [ L.S.261.12 (`) Id-dar bin-numru 136 Triq Ferdinando Falzon, |urrieq.
+(`) Id-dar bin-numru 136 Triq Ferdinando Falzon, |urrieq.
 
 *\5.*
 
@@ -171,7 +169,7 @@ B’se]] mit-12 ta’ Mejju, 1989:
 
 (j) Flat bin-numru 2, Blokk B2, Estate tad-Djar tal-Gvern ta’ }al-Mula, |ebbu[.
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1989) [ L.S.261.12 (k) Flat bin-numru 3, Blokk B3, Estate tad-Djar tal-Gvern ta’ }al-Mula, |ebbu[.
+(k) Flat bin-numru 3, Blokk B3, Estate tad-Djar tal-Gvern ta’ }al-Mula, |ebbu[.
 
 (l) Id-dar bin-numru 107, Triq il-}uxlief, Estate tad-Djar tal-Gvern, |ejtun.
 
@@ -239,7 +237,7 @@ Majjistral, Nofs-in-Nhar u Lbi` ma’ proprjetà tal-Gvern.
 
 B’se]] mit-31 ta’ Lulju, 1989:
 
-(a) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern, Triq id-Difa, Si[[iewi, li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nru. 1 sa 6 tal-kejl ta’ madwar 1,617 metru kwadru, li tmiss minn Nofs in-Nhar ma’ proprjetà ta’ l-eredi ta’ Peter Mifsud, mill-Lvant ma’ triq pubblika u mill-Punent ma’ proprjetà tal-Gvern (Rural Tenement No. 74819). (b) Id-dar bin-numru 30, Estate tad-Djar tal-Gvern, (TRASFERIMENT TA’ PROPRJETÀ) (1989) [ L.S.261.12 Qrendi (Rural Tenement No. 50087).
+(a) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern, Triq id-Difa, Si[[iewi, li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nru. 1 sa 6 tal-kejl ta’ madwar 1,617 metru kwadru, li tmiss minn Nofs in-Nhar ma’ proprjetà ta’ l-eredi ta’ Peter Mifsud, mill-Lvant ma’ triq pubblika u mill-Punent ma’ proprjetà tal-Gvern (Rural Tenement No. 74819). (b) Id-dar bin-numru 30, Estate tad-Djar tal-Gvern, Qrendi (Rural Tenement No. 50087).
 
 (`) Flat bin-numru 1, Blokk VII, Bieb A, Triq il- Buganvilla, San {wann.
 
@@ -337,7 +335,7 @@ B’se]] mid-29 ta’ Awissu, 1989:
 
 (47) L-art li [ejja li tag]mel parti mill-Estate tad-Djar tal- Gvern Ta’ Mliet, limiti tal-Mosta:
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1989) [ L.S.261.12 (a) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 1 u 2 tal-kejl ta’ madwar 429 metru kwadru, li tmiss minn Nofs-in-Nhar ma’ proprjetà tal-Gvern, mil-Lvant ma’ proprjetà tal-Kapitolu tal-Kattidral ta’ l-Imdina, u mill-Punent ma’ triq pubblika;
+(a) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 1 u 2 tal-kejl ta’ madwar 429 metru kwadru, li tmiss minn Nofs-in-Nhar ma’ proprjetà tal-Gvern, mil-Lvant ma’ proprjetà tal-Kapitolu tal-Kattidral ta’ l-Imdina, u mill-Punent ma’ triq pubblika;
 
 (b) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 9 sa 28 tal-kejl ta’ madwar 3631.5 metru kwadru, li tmiss mix- Xlokk ma’ proprjetà tal-Gvern u mill-Punent ma’ proprjetà tal-Kapitolu tal-Kattidral;
 
@@ -423,7 +421,7 @@ B’se]] mit-13 ta’ Settembru, 1989:
 
 (41) Id-dar bin-numru 3, "Rencynth", Qasam tal-Gvern ta’ G]ajn Kajjet, Rabat (Rural Tenement No. 80116).
 
-(42) Blokk ta’ 20 flat bin-numri 1 sa 12, u 14 sa 21, imsemmijin "Flats Indipendenza", fi Triq it-Turisti, (TRASFERIMENT TA’ PROPRJETÀ) (1989) [ L.S.261.12 Bu[ibba, San Pawl il-Ba]ar (Rural Tenement No. 84055).
+(42) Blokk ta’ 20 flat bin-numri 1 sa 12, u 14 sa 21, imsemmijin "Flats Indipendenza", fi Triq it-Turisti, Bu[ibba, San Pawl il-Ba]ar (Rural Tenement No. 84055).
 
 (43) Blokk ta’ 25 flat bin-numri 1 sa 12, u 14 sa 26, imsemmijin "Flats Indipendenza", f’Binja 1-Ehnieq, Naxxar.
 
@@ -495,7 +493,7 @@ B’se]] mis-16 ta’ Ottubru, 1989:
 
 (b) Bi``a art li tikkonsisti fi plots fl-imsemmi qasam mag]rufa b]ala Plot Nri. 100 sa 115 tal-kejl ta’ madwar 4830 metru kwadru li tmiss mill-Grigal ma’ proprjetà tal-Gvern, mil-Lbi` ma’ triq pubblika u mix-Xlokk ma’ proprjetà tal-Gvern (Rural Tenements Nos. 83128 sa 83132 u 83141).
 
-(2) Flat bin-numru 6, Blokk A1, Triq il-Watar, Ta’ Xbiex. (TRASFERIMENT TA’ PROPRJETÀ) (1989) [ L.S.261.12 (3) Id-dar bin-numru 17-18, By the Church Street, Xag]ra, G]awdex (Tenement No. Gozo 327).
+(2) Flat bin-numru 6, Blokk A1, Triq il-Watar, Ta’ Xbiex. (3) Id-dar bin-numru 17-18, By the Church Street, Xag]ra, G]awdex (Tenement No. Gozo 327).
 
 (4) Id-dar bin-numru 4, Triq ir-Rand, San {wann.
 

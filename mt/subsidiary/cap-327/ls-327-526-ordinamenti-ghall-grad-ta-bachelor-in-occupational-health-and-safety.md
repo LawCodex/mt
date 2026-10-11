@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor in Occupational Health and Safety (Honours) - B. O.H.S. (Hons) - taħt il-patroċinju taċ Ċentru ta’ Studji dwar ix-Xogħol (S.L. 327.526)
 
-SAFETY (HONOURS) - B. O.H.S. (Hons) - TAĦT IL-
-
-*1*
-
-PATROĊINJU TAĊ-ĊENTRU TA’ STUDJI DWAR IX-XOGĦOL [L.S.327.526
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.526**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR IN OCCUPATIONAL HEALTH AND SAFETY (HONOURS) - B. O.H.S. (Hons) - TAĦT IL-PATROĊINJU
@@ -68,11 +62,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) L-applikanti li jidħlu skont il-paragrafu (2) ta’ dan l-ordinament għandhom ikunu għaddew minn test ta’ profiċjenza fl- Ilsien Ingliż kif approvat mill-Università ta’ Malta qabel ma jidħlu fil-kors, diment li l-applikanti li għandhom iċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 5 jew ogħla jew fil-livell 3 tas- SEC fl-Ilsien Ingliż jew grad ta’ "Għadda" fl-istess livell fi kwalifika komparabbli, għandhom ikunu eżentati milli joqogħdu għat-test ta’ profiċjenza.
 
-SAFETY (HONOURS) - B. O.H.S. (Hons) - TAĦT IL-
-
-*2*
-
-[L.S.327.526 PATROĊINJU TAĊ-ĊENTRU TA’ STUDJI DWAR IX-XOGĦOL (4) L-applikanti li għandhom id-Diploma in Social Studies (Occupational Health and Safety) ta’ din l-Università b’marka medja ta’ 60% jew ogħla, jew li għandhom kwalifika komparabbli f’qasam relatat mal-Occupational Health and Safety, jew li jkunu kisbu kretti ECTS għal taqsimiet studju kkunsidrati mill-Bord tal- Istudji bħala ekwivalenti għall-dawk fil-programm ta’ studju, ikunu jistgħu jidħlu fil-Kors. Suġġett għall-provvedimenti tar- Regolamenti Prinċipali, dawn l-applikanti jistgħu jitħallew mill- Bord tal-Istudji jittrasferixxu dawn il-kretti għall-Kors, sakemm li:
+(4) L-applikanti li għandhom id-Diploma in Social Studies (Occupational Health and Safety) ta’ din l-Università b’marka medja ta’ 60% jew ogħla, jew li għandhom kwalifika komparabbli f’qasam relatat mal-Occupational Health and Safety, jew li jkunu kisbu kretti ECTS għal taqsimiet studju kkunsidrati mill-Bord tal- Istudji bħala ekwivalenti għall-dawk fil-programm ta’ studju, ikunu jistgħu jidħlu fil-Kors. Suġġett għall-provvedimenti tar- Regolamenti Prinċipali, dawn l-applikanti jistgħu jitħallew mill- Bord tal-Istudji jittrasferixxu dawn il-kretti għall-Kors, sakemm li:
 
 (i) l-għadd ta’ kretti trasferuti m’għandux jaqbeż is- 60 krettu ECTS; u
 

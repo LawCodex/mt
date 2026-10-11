@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (l-Gvern tar-Repubblika tal-Botswana) (S.L. 123.185)
 
-(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*1*
-
-BOTSWANA) [L.S.123.185 LEĠISLAZZJONI SUSSIDJARJA 123.185
+LEĠISLAZZJONI SUSSIDJARJA 123.185
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA (TAXXI FUQ L-INCOME)
 
@@ -44,12 +40,6 @@ B’dan qiegћed jiġi dikjarat -
 (b) li huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett wara li jidħol fis-seħħ il-Ftehim u skont il-provvediment rilevanti tal-Ftehim;
 
 (ċ) li l-Ftehim beda fis-seħħ fil-13 ta’ Novembru, 2018.
-
-(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*2*
-
-[L.S. 123.185 BOTSWANA)
 
 ## SKEDA — Artikolu 2 — FTEHIM
 
@@ -95,11 +85,7 @@ It-taxxi eżistenti li dwarhom japplika dan il-Ftehim huma partikolarment:
 
 (a) fil-Botswana:
 
-(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*3*
-
-BOTSWANA) [L.S.123.185 it-taxxa fuq l-income
+it-taxxa fuq l-income
 
 (hawn iżjed ’il quddiem imsejћa "it-taxxa tal-Botswana"); u
 
@@ -129,13 +115,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 (e) il-frażi "awtorità kompetenti" tfisser:
 
-(i) fil-Botswana: il-Ministru responsabbli għall-finanzi, rappreżentat mill-Kummissarju Ġenerali tas-Servizz tad-Dħul Unifikat tal-Botswana jew minn rappreżentant awtorizzat tal-Kummissarju Ġenerali; u (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*4*
-
-[L.S. 123.185 BOTSWANA)
-
-(ii) f'Malta, il-Ministru responsabbli għall-finanzi jew ir-rappreżentant awtorizzat tiegħu;
+(i) fil-Botswana: il-Ministru responsabbli għall-finanzi, rappreżentat mill-Kummissarju Ġenerali tas-Servizz tad-Dħul Unifikat tal-Botswana jew minn rappreżentant awtorizzat tal-Kummissarju Ġenerali; u (ii) f'Malta, il-Ministru responsabbli għall-finanzi jew ir-rappreżentant awtorizzat tiegħu;
 
 (f) il-frażijiet "impriża ta’ Stat Kontraenti" u "impriża tal-Istat Kontraenti l-ieћor" ifissru rispettivament impriża ġestita minn residenti ta’ Stat Kontraenti u impriża ġestita minn residenti tal-Istat Kontraenti l-ieћor;
 
@@ -157,11 +137,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 **RESIDENTI**
 
-\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet ta’ dak l-Istat, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk, u tinkludi wkoll dak l-Istat u kull sottodiviżjoni politika jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix xi persuna li tkun soġġeta biss (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*5*
-
-BOTSWANA) [L.S.123.185 għat-taxxa f’dak l-Istat dwar income minn għejjun f’dak l-Istat.
+\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet ta’ dak l-Istat, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk, u tinkludi wkoll dak l-Istat u kull sottodiviżjoni politika jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix xi persuna li tkun soġġeta biss għat-taxxa f’dak l-Istat dwar income minn għejjun f’dak l-Istat.
 
 \2. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewġ Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
 
@@ -189,12 +165,6 @@ BOTSWANA) [L.S.123.185 għat-taxxa f’dak l-Istat dwar income minn għejjun f�
 
 (ċ) uffiċċju;
 
-**(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-**
-
-**BOTSWANA)**
-
-*[L.S. 123.185 6*
-
 (d) fabbrika;
 
 (e) ћanut tax-xogћol;
@@ -221,11 +191,7 @@ Minkejja l-provvedimenti ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbilime
 
 (c) iż-żamma ta’ ħażna ta’ oġġetti jew ta’ merkanzija li tkun tappartjeni lill-impriża bl-iskop uniku ta’ ħżin, wiri jew tqassim;
 
-(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*7*
-
-BOTSWANA) [L.S.123.185 (d) iż-żamma ta’ post fiss ta’ negozju bl-iskop uniku ta’ xiri ta’ oġġetti jew ta’ merkanzija, jew ta’ ġbir ta’ tagћrif, gћall-impriża;
+(d) iż-żamma ta’ post fiss ta’ negozju bl-iskop uniku ta’ xiri ta’ oġġetti jew ta’ merkanzija, jew ta’ ġbir ta’ tagћrif, gћall-impriża;
 
 (e) iż-żamma ta’ post fiss ta’ negozju bl-iskop uniku li tiġi ġestita, gћall-impriża, kull attività oћra ta’ xorta preparatorja jew awżiljarja; u
 
@@ -251,13 +217,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 **INCOME MINN PROPRJETÀ IMMOBBLI**
 
-\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*8*
-
-[L.S. 123.185 BOTSWANA)
-
-proprjetà immobbli (inkluż income mill-agrikoltura jew mill-ћidma fil-boskijiet) li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
+\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew mill-ћidma fil-boskijiet) li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
 
 \2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi tal-Istat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, gћejjun u riżorsi oћra naturali. Bastimenti u inġenji tal-ajru ma gћandhomx jitqiesu bћala proprjetà immobbli.
 
@@ -273,11 +233,7 @@ proprjetà immobbli (inkluż income mill-agrikoltura jew mill-ћidma fil-boskiji
 
 \2. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 3, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun qiegћed hemmhekk, gћandhom jiġu attribwiti f’kull Stat Kontraenti lil dak l-istabbiliment permanenti l-profitti li dan kien ikun mistenni jagћmel kieku kien impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet jew simili għalihom u li tkun tittratta gћalkollox b’mod indipendenti mal-impriża li tkun stabbiliment permanenti tagћha.
 
-\3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis l-ispejjeż li jsiru gћall-gћanijiet tal-istabbiliment permanenti inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, kemm jekk isiru fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’oħra. Madankollu, l-ebda (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*9*
-
-BOTSWANA) [L.S.123.185 tnaqqis bħal dan m'għandu jitħalla fir-rigward ta' ammonti, jekk ikun hemm, imħallsa (b'mod ieħor milli għar-rimborż ta' spejjeż attwali) mill-istabbiliment permanenti lejn l-uffiċċju ewlieni tal-impriża jew kwalunkwe uffiċċju ieħor tagħha, bħala royalties, miżati jew ħlasijiet oħra simili bi tpattija għall-użu ta' privattivi jew drittijiet oħra, jew permezz ta' kummissjoni, għal servizzi speċifiċi mwettqa jew għall-immaniġġjar, jew, ħlief fil-każ ta' intrapriża bankarja, b'interess fuq flus mislufa lill-stabbiliment. Bl-istess mod, m'għandu jittieħed l-ebda kont, fid-determinazzjoni tal-profitti ta' stabbiliment permanenti, għall-ammonti imposti (b'mod ieħor milli għar-rimborż ta' spejjeż attwali) mill-istabbiliment permanenti għall-uffiċċju ewlieni tal-impriża jew mod ta' royalties, drittijiet jew ħlasijiet simili oħra bi tpattija għall-użu ta' privattivi jew drittijiet oħra, jew permezz ta' kummissjoni għal servizzi speċifiċi mwettqa jew għall-immaniġġjar, jew ħlief fil-każ ta' intrapriża bankarja b'interess fuq flejjes mislufa lill l-uffiċċju prinċipali tal-intrapriża jew xi waħda mill-uffiċċji l-oħra tagħha.
+\3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis l-ispejjeż li jsiru gћall-gћanijiet tal-istabbiliment permanenti inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, kemm jekk isiru fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’oħra. Madankollu, l-ebda tnaqqis bħal dan m'għandu jitħalla fir-rigward ta' ammonti, jekk ikun hemm, imħallsa (b'mod ieħor milli għar-rimborż ta' spejjeż attwali) mill-istabbiliment permanenti lejn l-uffiċċju ewlieni tal-impriża jew kwalunkwe uffiċċju ieħor tagħha, bħala royalties, miżati jew ħlasijiet oħra simili bi tpattija għall-użu ta' privattivi jew drittijiet oħra, jew permezz ta' kummissjoni, għal servizzi speċifiċi mwettqa jew għall-immaniġġjar, jew, ħlief fil-każ ta' intrapriża bankarja, b'interess fuq flus mislufa lill-stabbiliment. Bl-istess mod, m'għandu jittieħed l-ebda kont, fid-determinazzjoni tal-profitti ta' stabbiliment permanenti, għall-ammonti imposti (b'mod ieħor milli għar-rimborż ta' spejjeż attwali) mill-istabbiliment permanenti għall-uffiċċju ewlieni tal-impriża jew mod ta' royalties, drittijiet jew ħlasijiet simili oħra bi tpattija għall-użu ta' privattivi jew drittijiet oħra, jew permezz ta' kummissjoni għal servizzi speċifiċi mwettqa jew għall-immaniġġjar, jew ħlief fil-każ ta' intrapriża bankarja b'interess fuq flejjes mislufa lill l-uffiċċju prinċipali tal-intrapriża jew xi waħda mill-uffiċċji l-oħra tagħha.
 
 \4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi il-profitti li gћandhom jiġu attribwiti lil stabbiliment permanenti fuq bażi ta’ tqassim tal-profitti totali tal-impriża lill-partijiet diversi tagћha, ebda ћaġa fil-paragrafu 2 m’gћandha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li gћandhom jiġu intaxxati b’dak it-tqassim hekk kif tista’ tkun il-konswetudni; il-metodu ta’ tqassim li jiġi adottat gћandu, madankollu, isir b’tali mod li r-riżultat ikun kif iridu l-prinċipji li jinsabu f’dan l-Artikolu.
 
@@ -293,13 +249,7 @@ BOTSWANA) [L.S.123.185 tnaqqis bħal dan m'għandu jitħalla fir-rigward ta' amm
 
 \1. Il-profitti ta' impriża ta' Stat Kontraenti mit-tħaddim ta' bastimenti jew inġenji tal-ajru fi traffiku internazzjonali għandhom ikunu taxxabbli biss f'dak l-Istat.
 
-\2. Għall-finijiet ta’ dan l-Artikolu, il-profitti mit-tħaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali jinkludu profitti (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*10*
-
-[L.S. 123.185 BOTSWANA)
-
-mill-kiri ta’ bastimenti jew inġenji tal-ajru jekk dawn il-bastimenti jew inġenji tal-ajru huma operati fi traffiku internazzjonali jew tali profitti tal-kiri huma inċidentali għall-profitti l-oħra deskritti fil-paragrafu 1 ta' dan l-Artikolu.
+\2. Għall-finijiet ta’ dan l-Artikolu, il-profitti mit-tħaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali jinkludu profitti mill-kiri ta’ bastimenti jew inġenji tal-ajru jekk dawn il-bastimenti jew inġenji tal-ajru huma operati fi traffiku internazzjonali jew tali profitti tal-kiri huma inċidentali għall-profitti l-oħra deskritti fil-paragrafu 1 ta' dan l-Artikolu.
 
 \3. Il-profitti ta' impriża ta' Stat Kontraenti mill-użu jew kiri ta' kontenituri użati għat-trasport fi traffiku internazzjonali ta' oġġetti jew merkanzija għandhom ikunu taxxabbli biss f'dak l-Istat.
 
@@ -318,12 +268,6 @@ mill-kiri ta’ bastimenti jew inġenji tal-ajru jekk dawn il-bastimenti jew in�
 u f’kull każ isiru jew jiġu imposti kundizzjonijiet bejn iż-żewġ impriżi fir-relazzjonijiet kummerċjali jew finanzjarji tagћhom li ma jkunux jaqblu ma’ dawk li kieku kienu jiġu magћmulin bejn impriżi indipendenti, allura kull profitti li, kieku ma kienx gћal dawk il-kundizzjonijiet, kienu jakkumulaw favur xi waħda mill-impriżi, iżda, minћabba f’dawk il-kundizzjonijiet, ma jkunux ġew hekk akkumulati, jistgћu jiġu inklużi fil-profitti ta’ dik l-impriża u jiġu intaxxati skont hekk.
 
 \2. Meta Stat Kontraenti jinkludi fil-profitti ta’ impriża ta’ dak l-Istat – u skont hekk jintaxxa - profitti li fuqhom impriża tal-Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kundizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor għandu jagћmel tibdil adatt fl-ammont tat-taxxa hemm imposta fuq dawk il-profitti. Biex jiġi stabbilit dak it-tibdil, id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw lil xulxin.
-
-(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*11*
-
-BOTSWANA) [L.S.123.185
 
 Artikolu 10
 
@@ -345,13 +289,7 @@ DIVIDENDI
 
 (ii) 15 fil-mija fuq il-profitti li minnhom jitħallsu d-dividendi, jekk id-dividendi jitħallsu minn qligħ jew profitti miksuba f'xi sena li fir-rigward tagħha l-kumpanija tkun qed tirċievi xi benefiċċju fiskali taħt dispożizzjonijiet li jirregolaw għajnuniet lill-industriji f'Malta, u l-azzjonist jissottometti prospetti u kontijiet lill-awtoritajiet tat-taxxa ta' Malta fir-rigward tad-dħul tiegħu soġġett għat-taxxa ta' Malta għas-sena ta' stima relattiva. Din id-dispożizzjoni għandha tapplika għal perjodu ta' għaxar snin mid-data tad-dħul fis-seħħ ta' dan il-Ftehim. L-Istati Kontraenti jistgħu jaqblu reċiprokament li din id-dispożizzjoni tiġi mġedda għal perjodu ulterjuri.
 
-Dan il-paragrafu m'għandux jaffettwa t-tassazzjoni tal-kumpanija (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*12*
-
-[L.S. 123.185 BOTSWANA)
-
-fir-rigward tal-profitti li minnhom id-dividendi tqassmu.
+Dan il-paragrafu m'għandux jaffettwa t-tassazzjoni tal-kumpanija fir-rigward tal-profitti li minnhom id-dividendi tqassmu.
 
 \3. Il-frażi "dividendi" skont ma tintuża f’dan l-Artikolu tfisser income minn ishma, ishma "jouissance" jew drittijiet "jouissance", ishma fil-minjieri, ishma tal-fondaturi jew jeddijiet oћra (li ma jkunux pretensjonijiet ta’ debitu) li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess trattament dwar it-taxxa bћallikieku kien income minn ishma skont il-liġijiet tat-taxxa tal- Istat Kontraenti fejn il-kumpannija li tkun qiegћda tqassam tkun residenti.
 
@@ -369,11 +307,7 @@ fir-rigward tal-profitti li minnhom id-dividendi tqassmu.
 
 \3. Minkejja d-dispożizzjonijiet tal-paragrafu 2, imgħax imsemmi fil-paragrafu 1 m'għandux ikun taxxabbli fl-Istat Kontraenti fejn jinqala' l-imgħax jekk:
 
-(a) ir-riċevitur tiegħu huwa l-gvern tal-Istat Kontraenti (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*13*
-
-BOTSWANA) [L.S.123.185 l-ieħor jew awtorità lokali tiegħu jew kwalunkwe aġenzija li hija kompletament proprjetà u kkontrollata minn dak il-gvern jew awtorità; u
+(a) ir-riċevitur tiegħu huwa l-gvern tal-Istat Kontraenti l-ieħor jew awtorità lokali tiegħu jew kwalunkwe aġenzija li hija kompletament proprjetà u kkontrollata minn dak il-gvern jew awtorità; u
 
 (b) l-imgħax jitħallas fir-rigward ta' self mogħti jew iggarantit minn istituzzjoni finanzjarja ta' karattru pubbliku bil-għan li jippromwovi esportazzjonijiet u żvilupp, jekk il-kreditu mogħti jew garantit ikun fih element ta' sussidju.
 
@@ -389,13 +323,7 @@ BOTSWANA) [L.S.123.185 l-ieħor jew awtorità lokali tiegħu jew kwalunkwe aġen
 
 **ROYALTIES**
 
-\1. Royalties li jinqalgћu fi Stat Kontraenti u li jitħallsu lil residenti tal-Istat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-Istat l- (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*14*
-
-[L.S. 123.185 BOTSWANA)
-
-ieħor.
+\1. Royalties li jinqalgћu fi Stat Kontraenti u li jitħallsu lil residenti tal-Istat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-Istat l-ieħor.
 
 \2. Madankollu, dawk ir-royalties jistgħu jiġu intaxxati ukoll fl-Istat Kontraenti fejn dawn joriġinaw, u kif hemm fil-liġijiet ta’ dak l- Istat, iżda jekk ir-riċevitur huwa s-sid benefiċjarju tar-royalties, it-taxxa hekk imposta m’gћandhiex teċċedi:
 
@@ -409,11 +337,7 @@ ieħor.
 
 \5. Royalties għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti li f’konnessjoni magħhom l-obbligu li jitħallsu r-royalties tkun effettivament konnessa, u dawk ir-royalties jiġġarrbu minn dak l-istabbiliment permanenti, allura dawk ir-royalties għandhom jitqiesu li jinqalgћu fl-Istat fejn ikun jinsab l-istabbiliment permanenti.
 
-\6. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont tar-royalties, meta jiġi kkunsidrat x’ikun l-użu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*15*
-
-BOTSWANA) [L.S.123.185 jitqiesu l-provvedimenti l-oћra ta’ dan il-Ftehim.
+\6. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont tar-royalties, meta jiġi kkunsidrat x’ikun l-użu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu l-provvedimenti l-oћra ta’ dan il-Ftehim.
 
 **Artikolu 13**
 
@@ -435,13 +359,7 @@ BOTSWANA) [L.S.123.185 jitqiesu l-provvedimenti l-oћra ta’ dan il-Ftehim.
 
 **DĦUL MINN IMPJIEG**
 
-\1. Bla ħsara għad-dispożizzjonijiet tal-Artikoli 15, 17 u 18, salarji, pagi u kumpens ieħor simili li jinkiseb minn residenti ta' Stat Kontraenti dwar impieg għandhom ikunu taxxabbli biss f'dak l-Istat kemm-il darba l-impieg ma jiġix eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impjieg ikun hekk eżerċitat, dik ir-rimunerazzjoni li toħroġ (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*16*
-
-[L.S. 123.185 BOTSWANA)
-
-minnha tista' tiġi intaxxata f'dak l-Istat l-ieħor.
+\1. Bla ħsara għad-dispożizzjonijiet tal-Artikoli 15, 17 u 18, salarji, pagi u kumpens ieħor simili li jinkiseb minn residenti ta' Stat Kontraenti dwar impieg għandhom ikunu taxxabbli biss f'dak l-Istat kemm-il darba l-impieg ma jiġix eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impjieg ikun hekk eżerċitat, dik ir-rimunerazzjoni li toħroġ minnha tista' tiġi intaxxata f'dak l-Istat l-ieħor.
 
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1, ir-rimunerazzjoni miksuba minn residenti ta' Stat Kontraenti fir-rigward ta' impjieg eżerċitat fl-Istat Kontraenti l-ieħor għandha tkun taxxabbli biss fl-Istat l-ewwel imsemmi jekk:
 
@@ -467,11 +385,7 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 \2. Meta income dwar attivitajiet personali eżerċitati minn artist jew minn sportiv fil-kapaċità tiegħu bћala tali ma jinġabarx favur l-artist jew l-isportiv innifsu iżda favur xi persuna oћra, dak l-income jista’, minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, jiġi intaxxat fl-Istat Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-artist jew tal-isportiv.
 
-\3. Income li jinkiseb minn residenti ta' Stat Kontraenti minn attivitajiet eżerċitati fl-Istat Kontraenti l-ieħor kif previst fil-paragrafi 1 u (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*17*
-
-BOTSWANA) [L.S.123.185 2, għandu jkun eżentat mit-taxxa f'dak l-Istat l-ieħor jekk iż-żjara f'dak l- Istat l-ieħor tkun appoġġata kompletament jew prinċipalment minn fondi pubbliki tal-Istat Kontraenti l-ewwel imsemmi, jew awtorità lokali tiegħu, jew iseħħ taħt ftehim jew arranġament kulturali bejn il- Gvernijiet tal-Istati Kontraenti.
+\3. Income li jinkiseb minn residenti ta' Stat Kontraenti minn attivitajiet eżerċitati fl-Istat Kontraenti l-ieħor kif previst fil-paragrafi 1 u 2, għandu jkun eżentat mit-taxxa f'dak l-Istat l-ieħor jekk iż-żjara f'dak l- Istat l-ieħor tkun appoġġata kompletament jew prinċipalment minn fondi pubbliki tal-Istat Kontraenti l-ewwel imsemmi, jew awtorità lokali tiegħu, jew iseħħ taħt ftehim jew arranġament kulturali bejn il- Gvernijiet tal-Istati Kontraenti.
 
 **Artikolu 17**
 
@@ -495,13 +409,7 @@ BOTSWANA) [L.S.123.185 2, għandu jkun eżentat mit-taxxa f'dak l-Istat l-ieħor
 
 (ii) ma jkunx sar residenti ta’ dak l-Istat unikament bil-għan li jagħti dawk is-servizzi.
 
-\2. (a) Minkejja l-provvedimenti tal-paragrafu 1, pensjonijiet u kumpens ieħor bħalhom mћallsa minn, jew li joħorġu minn fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegħu lil individwu gћar-rigward ta’ servizzi (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*18*
-
-[L.S. 123.185 BOTSWANA)
-
-mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandhom jiġu intaxxati biss f’dak l-Istat.
+\2. (a) Minkejja l-provvedimenti tal-paragrafu 1, pensjonijiet u kumpens ieħor bħalhom mћallsa minn, jew li joħorġu minn fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegħu lil individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandhom jiġu intaxxati biss f’dak l-Istat.
 
 (b) Madankollu, dawk il-pensjonijiet u rimunerazzjonijiet simili għandhom ikunu taxxabbli biss fl-Istat Kontraenti l-ieħor jekk l-individwu jkun residenti, u ċittadin ta', dak l- Istat.
 
@@ -523,11 +431,7 @@ Student, apprendist jew apprendist ta' negozju li jkun preżenti fi Stat Kontrae
 
 \3. Il-frażi "drittijiet għal servizzi tekniċi" kif tintuża f’dan l- Artikolu tfisser pagamenti ta’ kull xorta lil kull persuna, ħlief għal impjegat tal-persuna li tagħmel il-pagamenti, b’korrispettiv għal xi servizzi ta’ natura amministrattiva, teknika, maniġerjali jew ta’ konsulenza.
 
-\4. Id-dispożizzjonijiet tal-paragrafu 1 u 2 ta’ dan l-Artikolu m’gћandhomx japplikaw jekk is-sid benefiċjarju tad-drittijiet għal servizzi tekniċi, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*19*
-
-BOTSWANA) [L.S.123.185 negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu d-drittijiet għal servizzi tekniċi, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-drittijiet għal servizzi tekniċi jkunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 gћandhom japplikaw.
+\4. Id-dispożizzjonijiet tal-paragrafu 1 u 2 ta’ dan l-Artikolu m’gћandhomx japplikaw jekk is-sid benefiċjarju tad-drittijiet għal servizzi tekniċi, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu d-drittijiet għal servizzi tekniċi, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-drittijiet għal servizzi tekniċi jkunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 gћandhom japplikaw.
 
 \5. Id-drittijiet għal servizzi tekniċi għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun dak l-istess Stat, sottodiviżjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas id-drittijiet għal servizzi tekniċi, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti li b’konnessjoni magħhom sar l-obbligu li jitħallsu d-drittijiet għal servizzi tekniċi, u dawk id-drittijiet għal servizzi tekniżi ikunu r-responsabbilità ta’ dak l-istabbiliment permanenti, allura dawk id-drittijiet għal servizzi tekniċi għandhom jitqiesu li jinqalgћu fl-Istat fejn ikun jinsab l-istabbiliment permanenti.
 
@@ -547,12 +451,6 @@ BOTSWANA) [L.S.123.185 negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu d-dr
 
 \1. It-taxxa doppja għandha tiġi eliminata kif ġej:
 
-(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*20*
-
-[L.S. 123.185 BOTSWANA)
-
 (a) Fil-Botswana, bla ħsara għad-dispożizzjonijiet tal-liġijiet tal-Botswana dwar l-allowance ta' kreditu kontra t-taxxa Botswana pagabbli taħt il-liġijiet ta' pajjiż barra l-Botswana, taxxa ta' Malta pagabbli taħt il-liġijiet ta' Malta u skond dan il- Ftehim, kemm direttament kif ukoll b'titolu, fuq profitti jew income li għandhom iħallsu taxxa f'Malta għandhom jitħallew bħala kreditu kontra kull taxxa tal-Botswana li titħallas dwar l-istess profitti jew income b'riferenza għaliha t-taxxa ta' Malta hija maħduma. Madankollu, l-ammont ta' dak il-kreditu m'għandux jaqbeż l-ammont tat-taxxa tal-Botswana pagabbli fuq dak l-income skond il-liġijiet tal-Botswana;
 
 (b) Fil-każ ta’ Malta, it-taxxa doppja għandha tiġi eliminata kif ġej: bla ħsara għad-disposizzjonijiet tal-liġi ta’ Malta dwar l-allowance ta' kreditu kontra t-taxxa ta’ Malta fir-rigward ta’ taxxa barranija, fejn, skond il-provvedimenti ta’ dan il-Ftehim, ikun hemm inkluż fi stima ta' Malta income minn sorsi ġewwa l-Botswana, it-taxxa tal-Botswana fuq dak l-income għandha titħalla bħala kreditu kontra t-taxxa relattiva ta' Malta li għandha titħallas fuqu.
@@ -565,11 +463,7 @@ BOTSWANA) [L.S.123.185 negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu d-dr
 
 \2. It-taxxa fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieћor ma gћandhiex tinġabar b’mod inqas favorevoli f’dak Istat l-ieћor mit-taxxa miġbura fuq impriżi ta’ dak l-Istat l-ieћor li jkunu qed iwettqu l-istess attivitajiet. Dan il-provvediment m’għandux jitqies li jobbliga xi Stat Kontraenti li jagħti lil residenti tal-Istat Kontraenti l-ieħor xi allowances personali, ħelsien u tnaqqis għall-għanijiet ta’ tassazzjoni li jingħata minħabba listatus ċivili jew responsabbiltajiet ta’ familja li jagħti lir-residenti tiegħu.
 
-\3. Impriżi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu proprjetà jew taћt il-kontroll, sew dirett sew mhux dirett, ta’ xi residenti wieħed jew aktar tal-Istat Kontraenti l-ieћor, ma gћandhom ikunu assoġġettati fl-Istat l-ewwel imsemmi gћal ebda taxxa jew gћal ebda ћtieġa konnessa ma’ dan li tkun xort’oћra jew ta’ iktar piż mit-taxxa u mill-ħtiġiet konnessi li gћalihom ikunu jew jistgћu (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*21*
-
-BOTSWANA) [L.S.123.185 jkunu assoġġettati impriżi simili tal-Istat l-ewwel imsemmi.
+\3. Impriżi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu proprjetà jew taћt il-kontroll, sew dirett sew mhux dirett, ta’ xi residenti wieħed jew aktar tal-Istat Kontraenti l-ieћor, ma gћandhom ikunu assoġġettati fl-Istat l-ewwel imsemmi gћal ebda taxxa jew gћal ebda ћtieġa konnessa ma’ dan li tkun xort’oћra jew ta’ iktar piż mit-taxxa u mill-ħtiġiet konnessi li gћalihom ikunu jew jistgћu jkunu assoġġettati impriżi simili tal-Istat l-ewwel imsemmi.
 
 \4. Ħlief meta japplikaw il-provvedimenti tal-paragrafu 1 tal- Artikolu 9, paragrafu 7 tal-Artikolu 11, jew tal-paragrafu 6 tal-Artikolu 12, mgћax, royalties, drittijiet għal servizzi tekniċi u ћlasijiet oћra li jitћallsu minn impriża ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor gћandhom, gћall-fini li jiġu stabbiliti x’inhuma l-profitti taxxabbli ta’ dik l-impriża, jiġu mnaqqsa taћt l-istess kundizzjonijiet bћallikieku dawn kienu tћallsu lil residenti tal-Istat l-ewwel imsemmi.
 
@@ -589,12 +483,6 @@ BOTSWANA) [L.S.123.185 jkunu assoġġettati impriżi simili tal-Istat l-ewwel im
 
 \5. Meta,
 
-(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*22*
-
-[L.S. 123.185 BOTSWANA)
-
 (a) taħt il-paragrafu 1, persuna tkun ippreżentat każ lill-awtorità kompetenti ta’ Stat Kontraenti fuq il-bażi li l-azzjonijiet ta’ wiehed mill-Istati Kontraenti jew tat-tnejn li huma jkunu rriżultaw għal dik il-persuna f’tassazzjoni li ma tkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim; u
 
 (b) l-awtoritajiet kompetenti ma jkunux jistgħu jilħqu ftehim biex jirrisolvu l-kaz skont il-paragrafu 2 fi żmien tlett snin minn meta l-kaz jiġi preżentat lill-awtorità kompetenti tal- Istat Kompetenti l-ieħor,
@@ -607,11 +495,7 @@ kwistjonijiet mhux solvuti li joriġinaw mill-każ għandhom jintbagħtu għall-
 
 \1. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tista’ tkun prevista bћala rilevanti gћat-twettiq tal-provvedimenti ta’ dan il-Ftehim jew għall-amministrazzjoni jew l-infurzar tal-liġijiet domestiċi rigward taxxi ta’ kull tip u għamla imposti f’isem l-Istati Kontraenti, jew tas-sottodiviżjonijiet politiċi jew awtoritajiet lokali tagħhom, sakemm it-taxxa li taqa’ taћthom ma tmurx kontra l-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl- Artikoli 1 u 2.
 
-\2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiġi ittrattata bћala waћda sigrieta blistess mod bћal informazzjoni li tinkiseb taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, id-deċizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew it-tћaris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*23*
-
-BOTSWANA) [L.S.123.185 proċeduri tal-qorti bil-miftuħ jew f’deċiżjonijiet ġudizzjarji. Minkejja dak li hawn qabel, informazzjoni li jirċievi Stat Kontraenti tista’ tiġi wżata għal għanijiet oħra meta dik l-informazzjoni tista’ tiġi wżata għal tali għanijiet oħra taħt il-liġijiet taż-żewġ Stati u l-awtorità kompetenti tal-Istat li jagħti l-informazzjoni jawtorizza dak l-użu.
+\2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiġi ittrattata bћala waћda sigrieta blistess mod bћal informazzjoni li tinkiseb taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, id-deċizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew it-tћaris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuħ jew f’deċiżjonijiet ġudizzjarji. Minkejja dak li hawn qabel, informazzjoni li jirċievi Stat Kontraenti tista’ tiġi wżata għal għanijiet oħra meta dik l-informazzjoni tista’ tiġi wżata għal tali għanijiet oħra taħt il-liġijiet taż-żewġ Stati u l-awtorità kompetenti tal-Istat li jagħti l-informazzjoni jawtorizza dak l-użu.
 
 \3. F’ebda każ m’gћandhom il-provvedimenti tal-paragrafi 1 u 2 jinftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
 
@@ -630,12 +514,6 @@ BOTSWANA) [L.S.123.185 proċeduri tal-qorti bil-miftuħ jew f’deċiżjonijiet 
 **ASSISTENZA FIL-ĠBIR TA’ TAXXI**
 
 \1. L-Istati Kontraenti għandhom sal-limitu permess mil-liġi domestika rispettiva tagħhom, jagħtu għajnuna lil xulxin sabiex jiġbru t-taxxi msemmija fl-Artikolu 2 kif ukoll l-imgħax u penali fir-rigward ta' dawn it-taxxi, sakemm passi raġonevoli biex jirkupraw tali taxxi jkunu ttieħdu mill-Istat Kontraenti li jkun talab dik l-assistenza.
-
-(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*24*
-
-[L.S. 123.185 BOTSWANA)
 
 \2. Talbiet li huma s-suġġett ta' talbiet għal assistenza m'għandhomx ikollhom prijorità fuq taxxi dovuti fl-Istat Kontraenti li jagħti assistenza u d-dispożizzjonijiet tal-paragrafu 1 tal-Artikolu 25 għandhom japplikaw ukoll għal kwalunkwe informazzjoni li, bis-saħħa ta' dan l-Artikolu hija fornuta lill-awtorità kompetenti ta' Stat Kontraenti.
 
@@ -669,11 +547,7 @@ Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-mem
 
 **TERMINAZZJONI**
 
-(TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-
-
-*25*
-
-BOTSWANA) [L.S.123.185 1. Dan il-Ftehim għandu jibqa' fis-seħħ sakemm jintemm minn Stat Kontraenti. Kull Stat Kontraenti jista' jtemm il-Ftehim, permezz ta' kanali diplomatiċi, billi jagħti avviż ta' terminazzjoni mill-inqas sitt xhur qabel it-tmiem ta' kwalunkwe sena kalendarja li tibda wara l-iskadenza ta' perjodu ta' ħames snin mid-data tad-dħul fis-seħħ tiegħu.
+\1. Dan il-Ftehim għandu jibqa' fis-seħħ sakemm jintemm minn Stat Kontraenti. Kull Stat Kontraenti jista' jtemm il-Ftehim, permezz ta' kanali diplomatiċi, billi jagħti avviż ta' terminazzjoni mill-inqas sitt xhur qabel it-tmiem ta' kwalunkwe sena kalendarja li tibda wara l-iskadenza ta' perjodu ta' ħames snin mid-data tad-dħul fis-seħħ tiegħu.
 
 \2. F'każ bħal dan, il-Ftehim għandu jieqaf milli jkollu effett:
 

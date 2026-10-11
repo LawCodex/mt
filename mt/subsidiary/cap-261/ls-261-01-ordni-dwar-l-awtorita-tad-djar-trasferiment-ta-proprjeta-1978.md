@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1978)"
-identifier: "S.L. 261.1"
+identifier: "S.L. 261.01"
 eli: "https://legislation.mt/eli/sl/261.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/261.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1978) (S.L. 261.1)
-
-*1*
-
-TAL-KUMMISSARJU TA’ L-ARTIJIET [L.S.169.01
+# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1978) (S.L. 261.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 169.01**
 
@@ -77,11 +73,7 @@ Il-pjanti L.D. 1/92, L.D. 2/92 u L.D. 3/92 huma transunti fl-atti tan-Nutar Vinc
 
 (12) Bi``a art f’}al Safi flimkien mal-bini hemmhekk mibni li tidher delineata bl-a]mar fuq il-pjanta L.D. 177/93, liema pjanta hija transunta fl-atti tan-Nutar Vincent Miceli permezz ta’ l-att pubbliku datat 13 ta’ Ottubru, 1993.
 
-(13) Bi``a art fi\\-|ejtun flimkien mal-bini hemmhekk mibni li tidher delineata bl-a]mar fuq il-pjanta L.D. 8/92/2, liema pjanta TAL-KUMMISSARJU TA’ L-ARTIJIET [L.S.169.01
-
-hija transunta fl-atti tan-Nutar Vincent Miceli permezz ta’ l-att pubbliku datat 12 ta’ Lulju, 1994.
-
-*3*
+(13) Bi``a art fi\\-|ejtun flimkien mal-bini hemmhekk mibni li tidher delineata bl-a]mar fuq il-pjanta L.D. 8/92/2, liema pjanta hija transunta fl-atti tan-Nutar Vincent Miceli permezz ta’ l-att pubbliku datat 12 ta’ Lulju, 1994.
 
 (14) Bi``a art fil-Marsa flimkien mal-bini hemmhekk mibni li tidher delineata bl-a]mar fuq il-pjanta L.D. 7/92/l, liema pjanta hija transunta fl-atti tan-Nutar Vincent Miceli permezz ta’ l-att pubbliku datat 28 ta’ {unju, 1995.
 

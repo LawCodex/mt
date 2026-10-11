@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta' €3,390,635.92 7% Stock tal-Gvern ta' Malta 2016 (III) (S.L. 161.73)
 
-}RU{ TA’ €3,390,635.920 7% STOCK
-
-*1*
-
-TAL-GVERN TA’ MALTA 2016 (III) [L.S.161.73
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.73**
 
 **DIRETTIVA MILL-PRIM MINISTRU U MINISTRU**

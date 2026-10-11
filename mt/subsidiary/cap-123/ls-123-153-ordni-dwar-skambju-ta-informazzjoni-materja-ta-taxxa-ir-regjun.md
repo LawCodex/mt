@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Skambju ta’ Informazzjoni (Materja ta’ Taxxa) (Ir-Reġjun Amministrattiv Speċjali ta’ Macao tar-Repubblika tal-Poplu taċ-Ċina) (S.L. 123.153)
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ MACAO
-
-*1*
-
-TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.153
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.153**
 
 **ORDNI DWAR SKAMBJU TA’ INFORMAZZJONI**
@@ -51,8 +45,6 @@ B’dan qiegћed jiġi dikjarat:
 (ċ) illi l-Ftehim għandu jidħol fis-seħħ f’dik id-data li tkun mħabbra b’avviż fil-Gazzetta tal-Gvern.
 
 \*għadu mhux fis-seħħ.
-
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ MACAO 2 [L.S.123.153 TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)
 
 ## SKEDA — Artikolu 2 — FTEHIM
 
@@ -102,11 +94,9 @@ Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa identika jew taxxi so
 
 \1. Għall-finijiet ta’ dan il-Ftehim, sakemm mhux iddefinit mod iehor:
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ MACAO
-
-TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.153 3 il-frażi "Parti Kontraenti" tfisser Macao jew Malta skont ma teħtieġ ir-rabta tal-kliem;
-
 *a)*
+
+il-frażi "Parti Kontraenti" tfisser Macao jew Malta skont ma teħtieġ ir-rabta tal-kliem;
 
 *b)*
 
@@ -156,8 +146,6 @@ il-frażi "Parti applikanti" tfisser il-Parti Kontraenti li titlob l-informazzjo
 
 m) il-frażi "Parti mitluba" tfisser il-Parti Kontraenti mitluba tipprovdi informazzjoni;
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ MACAO 4 [L.S.123.153 TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)
-
 n) il-frażi "miżuri ta’ ġbir ta’ informazzjoni" tfisser liġijiet u proċeduri amministrattivi jew ġudizzjarji li bihom Parti Kontraenti tkun tista’ tikseb u tipprovdi l-informazzjoni mitluba;
 
 o) il-frażi "informazzjoni" tfisser kull fatt, dikjarazzjoni jew record f’kull għamla li tkun.
@@ -192,9 +180,7 @@ b) informazzjoni li jkollha x’taqsam mas-sidien ta’ kumpanniji, soċjetajiet
 
 L-awtorità kompetenti tal-Parti applikanti għandha tipprovdi din l-informazzjoni li ġejja lill-awtorità kompetenti tal-Parti mitluba meta tkun qegħda tagħmel talba għal informazzjoni taħt il-Ftehim biex turi r-rilevanza prevedibbli tal-informazzjoni għat-talba:
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ MACAO
-
-TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.153 5 a) l-identità tal-persuna li tkun qegħda tiġi eżaminata jew investigata;
+a) l-identità tal-persuna li tkun qegħda tiġi eżaminata jew investigata;
 
 b) il-perjodu taż-żmien li dwarha hija mitluba l-informazzjoni;
 
@@ -226,9 +212,7 @@ b) jekk l-awtorità kompetenti tal-Parti mitluba ma setgħetx tikseb u tipprovdi
 
 \1. Parti Kontraenti tista tippermetti, skont il-liġijiet interni tagħha, lil rappreżentanti tal-awtorità kompetenti tal-Parti Kontraenti l-oħra jidħlu fil-ġurisdizzjoni tal-ewwel imsemmi Parti biex jintervistaw individwi u jeżaminaw records bil-kunsens mogħti bil-miktub tal-persuni kkonċernati. L-awtorità kompetenti tat-tieni imsemmi Parti għandha tinnotifika lill-awtorità kompetenti tal-ewwel imsemmi Parti bil-ħin u l-post meta għandhom jiltaqgħu mal-individwi kkoncernati.
 
-\2. Fuq talba tal-awtorità kompetenti ta’ waħda mill-Parti Kontraenti, l-awtorità (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ MACAO 6 [L.S.123.153 TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)
-
-kompetenti tal-Parti Kontraenti l-oħra tista’ tippermetti lil rappreżentanti tal-awtorità kompetenti tal-ewwel imsemmi Parti li jkunu preżenti fil-parti adatta tal-eżami tat-taxxa fit- tieni imsemmi Parti.
+\2. Fuq talba tal-awtorità kompetenti ta’ waħda mill-Parti Kontraenti, l-awtorità kompetenti tal-Parti Kontraenti l-oħra tista’ tippermetti lil rappreżentanti tal-awtorità kompetenti tal-ewwel imsemmi Parti li jkunu preżenti fil-parti adatta tal-eżami tat-taxxa fit- tieni imsemmi Parti.
 
 \3. Jekk it-talba msemmija fil-paragrafu 2 tintlaqa’, l-awtorità kompetenti tal- Parti Kontraenti li tkun qegħda tmexxi l-eżami għandha, kemm jista’ jkun malajr, tinnotifika lill-awtorità kompetenti tal-Parti oħra bil-ħin u l-post tal-eżami, l-awtorità jew min ikun l-uffiċjal appuntat biex jagħmel l-eżami u l-proċeduri u l-kundizzjonijiet meħtieġa mill-ewwel imsemmi Parti biex tmexxi l-eżami. Kull deċiżjoni li jkollha x’taqsam mat-tmexxija tal-eżami tat-taxxa għandha ssir mill- Parti li tkun qegħda tmexxi l-eżami.
 
@@ -258,9 +242,7 @@ Il-Parti mitluba tista’ tirrifjuta talba għal informazzjoni jekk l-informazzj
 
 **Kunfidenzjalità**
 
-Kull informazzjoni li tiġi riċevuta minn Parti Kontraenti taħt dan il-Ftehim għandha tiġi ttrattata bħala kunfidenzjali u tista’ tiġi biss żvelata lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) fil-ġurisdizzjoni tal-Parti Kontraenti li jkollha x’taqsam mal-istima jew il-ġbir ta’, infurzar jew prosekuzzjoni (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ MACAO
-
-TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.153 7 fir-rigward ta’, jew id-deċiżjoni ta’ appelli dwar, it-taxxi imposti minn Stat Kontraenti. Dawk il-persuni jew awtoritajiet għandhom jużaw dik l-informazzjoni għal dawk il-finijiet biss. Huma jistgħu jiżvelaw l-informazzjoni fi proċedimenti tal-qorti pubbliċi jew f’deċiżjonijiet ġudizzjarji. L-informazzjoni ma tistax tiġi żvelata lil xi persuna jew entità jew awtorità oħra jew lil xi ġurisdizzjoni oħra mingħajr il-kunsens espress mogħti bil-miktub mill-awtorità kompetenti tal-Parti mitluba.
+Kull informazzjoni li tiġi riċevuta minn Parti Kontraenti taħt dan il-Ftehim għandha tiġi ttrattata bħala kunfidenzjali u tista’ tiġi biss żvelata lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) fil-ġurisdizzjoni tal-Parti Kontraenti li jkollha x’taqsam mal-istima jew il-ġbir ta’, infurzar jew prosekuzzjoni fir-rigward ta’, jew id-deċiżjoni ta’ appelli dwar, it-taxxi imposti minn Stat Kontraenti. Dawk il-persuni jew awtoritajiet għandhom jużaw dik l-informazzjoni għal dawk il-finijiet biss. Huma jistgħu jiżvelaw l-informazzjoni fi proċedimenti tal-qorti pubbliċi jew f’deċiżjonijiet ġudizzjarji. L-informazzjoni ma tistax tiġi żvelata lil xi persuna jew entità jew awtorità oħra jew lil xi ġurisdizzjoni oħra mingħajr il-kunsens espress mogħti bil-miktub mill-awtorità kompetenti tal-Parti mitluba.
 
 **Artikolu 9**
 
@@ -298,9 +280,7 @@ Il-Partijiet Kontraenti għandhom jgħaddu kull liġi meħtieġa biex jikkonform
 
 \1. Dan il-Ftehim għandu jibqa’ fis-seħħ sakemm jiġi terminat minn Parti Kontraenti. Parti Kontraenti waħda jew l-oħra tista’ ttemm il-Ftehim billi tagħti avviż ta’ terminazzjoni bil-miktub lill-Parti Kontraenti l-oħra. F’dak il-każ, il- Ftehim ma jibqax ikollu effett mill-ewwel jum tax-xahar li jiġi wara t-tmiem ta’ perjodu ta’ sitt xhur wara d-data li jiġi riċevut l-avviż ta’ terminazzjoni mill-Parti Kontraenti l-oħra.
 
-\2. F’każ ta’ terminazzjoni, il-Partijiet Kontraenti għandhom jibqgħu marbutin bid-dispożizzjonijiet tal-Artikolu 8 dwar kull informazzjoni miksuba taħt dan il- (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ MACAO 8 [L.S.123.153 TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)
-
-Ftehim.
+\2. F’każ ta’ terminazzjoni, il-Partijiet Kontraenti għandhom jibqgħu marbutin bid-dispożizzjonijiet tal-Artikolu 8 dwar kull informazzjoni miksuba taħt dan il- Ftehim.
 
 B’xhieda ta’ dan il-persuni hawn taħt iffirmati, kif debitament awtorizzati għaldaqstant iffirmaw dan il-Ftehim.
 

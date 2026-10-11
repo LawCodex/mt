@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Arts in Health, Medicine and Society – M.A. - taħt il-patroċinju tal-Fakultà tal-Arti (S.L. 327.577)
 
-*1*
-
-AND SOCIETY – M.A. [L.S. 327.577 LEĠISLAZZJONI SUSSIDJARJA 327.577
+**LEĠISLAZZJONI SUSSIDJARJA 327.577**
 
 **L-ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -63,11 +61,7 @@ Il-Kors huwa miftuħ għall-applikanti li għandhom dawn li ġejjin:
 
 (i) grad tal-ewwel ċiklu miksub mill-anqas fit-Tieni Klassi bl-Unuri jew f’Kategorija II fi kwalunkwe suġġett; jew
 
-(ii) grad tal-ewwel ċiklu miksub fit-Tielet Klassi bl-Unuri jew f’Kategorija III fi kwalunkwe suġġett, sakemm li jissodisfaw lill-Bord li għandhom kwalifiki oħra, inkluża esperjenza rilevanti, miksuba wara li ngħataw [L.S.327.577 AND SOCIETY – M.A.
-
-il-grad tal-ewwel ċiklu.
-
-*2*
+(ii) grad tal-ewwel ċiklu miksub fit-Tielet Klassi bl-Unuri jew f’Kategorija III fi kwalunkwe suġġett, sakemm li jissodisfaw lill-Bord li għandhom kwalifiki oħra, inkluża esperjenza rilevanti, miksuba wara li ngħataw il-grad tal-ewwel ċiklu.
 
 ## 4. It-Tul tal-Kors.
 
@@ -111,11 +105,9 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 ## 11.
 
-(1) L-istudenti għandhom iżommu kuntatt regolari mas- AND SOCIETY – M.A. [L.S. 327.577 superviżur tagħhom.
+(1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-Kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew:
-
-*3*
 
 (a) jestendu l-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew
 

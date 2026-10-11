@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Eżenzjoni mill-Ħlas tad-Drittijiet għat-Tagħlim fuq Bastimenti"
-identifier: "S.L. 35.2"
+identifier: "S.L. 35.02"
 eli: "https://legislation.mt/eli/sl/35.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/35.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Eżenzjoni mill-Ħlas tad-Drittijiet għat-Tagħlim fuq Bastimenti (S.L. 35.2)
-
-E|ENZJONI MILL-}LAS TAD-DRITTIJIET
-
-*1*
-
-G}AT-TAG}LIM FUQ BASTIMENTI [L.S.35.02
+# Ordni dwar Eżenzjoni mill-Ħlas tad-Drittijiet għat-Tagħlim fuq Bastimenti (S.L. 35.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 35.02**
 

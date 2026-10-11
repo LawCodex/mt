@@ -1,6 +1,6 @@
 ---
 title: "Ordni ta' Preskrizzjonijiet skond l-Att dwar Sigrieti Uffiċjali"
-identifier: "S.L. 50.1"
+identifier: "S.L. 50.01"
 eli: "https://legislation.mt/eli/sl/50.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/50.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni ta' Preskrizzjonijiet skond l-Att dwar Sigrieti Uffiċjali (S.L. 50.1)
-
-DWAR SIGRIETI UFFI~JALI [ L.S.50.01
+# Ordni ta' Preskrizzjonijiet skond l-Att dwar Sigrieti Uffiċjali (S.L. 50.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 50.01**
 

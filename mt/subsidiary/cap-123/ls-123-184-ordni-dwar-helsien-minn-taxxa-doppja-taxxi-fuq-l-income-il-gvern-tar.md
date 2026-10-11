@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (il-Gvern tar-Repubblika Demokratika Federali tal-Etjopja) (S.L. 123.184)
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*1*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 LEĠISLAZZJONI SUSSIDJARJA 123.184
+LEĠISLAZZJONI SUSSIDJARJA 123.184
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA (TAXXI FUQ L-INCOME)
 
@@ -46,12 +42,6 @@ B’dan qiegћed jiġi dikjarat -
 (b) li huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett wara li jidħol fis-seħħ il-Ftehim u skont il-provvediment rilevanti tal-Ftehim;
 
 (ċ) li l-Ftehim għandu jidħol fis-seħħ f'dik id-data li tista' tiġi mħabbra b'avviż fil-Gazzetta tal-Gvern.
-
-(IL-GVERN TAR-REPUBBLIKA
-
-*2*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
 
 ## SKEDA
 
@@ -99,11 +89,7 @@ it-taxxa fuq l-income;
 
 (b) l-każ tal-Etjopja:
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*3*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 (i) it-taxxa fuq l-income u profitt; u
+(i) it-taxxa fuq l-income u profitt; u
 
 (ii) it-taxxa fuq l-income mill-minjieri, mill-petroleum u mill-attivitajiet agrikoli;
 
@@ -129,13 +115,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 (e) il-frażi "kumpannija" tfisser kull korp magћqud jew kull entità li tkun ittrattata bћala korp magћqud gћall-iskopijiet ta’ taxxa;
 
-(f) il-frażijiet "impriża ta’ Stat Kontraenti" u "impriża (IL-GVERN TAR-REPUBBLIKA
-
-*4*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
-tal-Istat Kontraenti l-ieћor" ifissru rispettivament impriża ġestita minn residenti ta’ Stat Kontraenti u impriża ġestita minn residenti tal-Istat Kontraenti l-ieћor;
+(f) il-frażijiet "impriża ta’ Stat Kontraenti" u "impriża tal-Istat Kontraenti l-ieћor" ifissru rispettivament impriża ġestita minn residenti ta’ Stat Kontraenti u impriża ġestita minn residenti tal-Istat Kontraenti l-ieћor;
 
 (g) il-frażi "traffiku internazzjonali" tfisser kull transport permezz ta’ bastiment jew inġenji tal-ajru mħaddma minn impriża li jkollha l-post ta’ maniġġ effettiv tagħha fi Stat Kontraenti, ћlief meta dak it-trasport jkun imћaddem unikament bejn postijiet fl-Istat Kontraenti l-ieħor;
 
@@ -159,11 +139,7 @@ tal-Istat Kontraenti l-ieћor" ifissru rispettivament impriża ġestita minn res
 
 \1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet ta’ dak l-Istat, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post ta’ inkorporazzjoni, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk, u tinkludi wkoll dak l-Istat u kull sottodiviżjoni politika jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix xi persuna li tkun soġġeta biss għat-taxxa f’dak l-Istat dwar income minn għejjun f’dak l-Istat.
 
-\2. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 (IL-GVERN TAR-REPUBBLIKA
-
-*5*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 individwu jkun residenti taż-żewg Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
+\2. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewg Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
 
 (a) huwa gћandu jitqies li jkun residenti biss tal-Istat li fih ikollu dar permanenti gћad-dispożizzjoni tiegћu; jekk huwa jkollu dar permanenti gћad-dispożizzjoni tiegћu fiż-żewg Stati, huwa gћandu jitqies li jkun residenti biss tal-Istat li miegћu jkunu l-aktar marbuta r-relazzjonijiet personali u ekonomiċi tiegћu (ċentru ta’ interessi vitali);
 
@@ -195,12 +171,6 @@ DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 individwu jkun residenti taż-ż
 
 (f) ћanut tax-xogћol;
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*6*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
 (g) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieћor ta’ estrazzjoni ta’ riżorsi naturali;
 
 (h) maħżen kummerċjali (fir-rigward ta’ persuna li tmexxi negozju fil-qasam tal-ħażna); u
@@ -229,11 +199,9 @@ Minkejja l-provvedimenti ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbilime
 
 (h) iż-żamma ta’ post fiss ta’ negozju unikament biex tkun tista’ ssir xi kombinazzjoni ta’ attivitajiet imsemmija fis-subparagrafi (a) sa (g), sakemm l-attività kollha tal-post tan-negozju fiss li tirriżulta minn dik il-kombinazzjoni tkun waħda ta’ xorta preparatorja jew awżiljarja.
 
-(IL-GVERN TAR-REPUBBLIKA
+## 5.
 
-*7*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 5. Minkejja l-provvedimenti tal-paragrafi 1 u 2, meta persuna- li ma tkunx aġent bi status indipendenti li gћaliha japplika l-paragrafu 7 - tkun qegћda taġixxi f’isem impriża u jkollha, u tkun abitwalment teżerċita, fi Stat Kontraenti l-awtorità li tagћmel kuntratti f’isem l-impriża, dik l-impriża għandha titqies li jkollha stabbiliment permanenti f’dak l-Istat għar-rigward ta’ kull attività li dik il-persuna tagħmel għall-impriża, sakemm l-attivitajiet ta’ dik il-persuna ma jkunux limitati gћal dawk imsemmija fil-paragrafu 4 illi, jekk dawn jiġu eżerċitati minn ġo post tan-negozju fiss, ma jkunux jirrendu lil dak il-post tan-negozju fiss bћala stabbiliment permanenti taћt il-provvedimenti ta’ dak il-paragrafu.
+Minkejja l-provvedimenti tal-paragrafi 1 u 2, meta persuna- li ma tkunx aġent bi status indipendenti li gћaliha japplika l-paragrafu 7 - tkun qegћda taġixxi f’isem impriża u jkollha, u tkun abitwalment teżerċita, fi Stat Kontraenti l-awtorità li tagћmel kuntratti f’isem l-impriża, dik l-impriża għandha titqies li jkollha stabbiliment permanenti f’dak l-Istat għar-rigward ta’ kull attività li dik il-persuna tagħmel għall-impriża, sakemm l-attivitajiet ta’ dik il-persuna ma jkunux limitati gћal dawk imsemmija fil-paragrafu 4 illi, jekk dawn jiġu eżerċitati minn ġo post tan-negozju fiss, ma jkunux jirrendu lil dak il-post tan-negozju fiss bћala stabbiliment permanenti taћt il-provvedimenti ta’ dak il-paragrafu.
 
 ## 6.
 
@@ -253,13 +221,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew mill-ћidma fil-boskijiet) li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
 
-\2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi tal-Istat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tinkludi proprjetà aċċessorja gћal (IL-GVERN TAR-REPUBBLIKA
-
-*8*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
-proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, gћejjun u riżorsi oћra naturali; bastimenti u inġenji tal-ajru ma gћandhomx jitqiesu bћala proprjetà immobbli.
+\2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi tal-Istat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, gћejjun u riżorsi oћra naturali; bastimenti u inġenji tal-ajru ma gћandhomx jitqiesu bћala proprjetà immobbli.
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom japplikaw gћal income li jinkiseb mill-użu dirett, il-kiri, jew l-użu b’kull mod ieћor ta’ proprjetà immobbli.
 
@@ -275,11 +237,7 @@ proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u
 
 \3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis l-ispejjeż li jsiru gћall-gћanijiet tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, kemm jekk isiru fl- Istat li fih ikun jinsab l-istabbiliment permanenti sew band’oħra. Din id-dispożizzjoni għandha tapplika suġġetta għal limitazzjonijiet taħt il-liġi domestika, sakemm dawk il-limitazzjonijiet ikunu konsistenti mal-prinċipji tal-paragrafu 2 tal-Artikolu 24.
 
-\4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi il-profitti li gћandhom jiġu attribwiti lil stabbiliment (IL-GVERN TAR-REPUBBLIKA
-
-*9*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 permanenti fuq bażi ta’ tqassim tal-profitti totali tal-impriża lill-partijiet diversi tagћha, ebda ћaġa fil-paragrafu 2 m’gћandha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li gћandhom jiġu intaxxati b’dak it-tqassim hekk kif tista’ tkun il-konswetudni; il-metodu ta’ tqassim li jiġi adottat gћandu, madankollu, isir b’tali mod li r-riżultat ikun kif iridu l-prinċipji li jinsabu f’dan l- Artikolu.
+\4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi il-profitti li gћandhom jiġu attribwiti lil stabbiliment permanenti fuq bażi ta’ tqassim tal-profitti totali tal-impriża lill-partijiet diversi tagћha, ebda ћaġa fil-paragrafu 2 m’gћandha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li gћandhom jiġu intaxxati b’dak it-tqassim hekk kif tista’ tkun il-konswetudni; il-metodu ta’ tqassim li jiġi adottat gћandu, madankollu, isir b’tali mod li r-riżultat ikun kif iridu l-prinċipji li jinsabu f’dan l- Artikolu.
 
 \5. Ebda profitti ma gћandhom jiġu attribwiti lil stabbiliment permanenti minћabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija gћall-impriża.
 
@@ -303,13 +261,7 @@ DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 permanenti fuq bażi ta’ tqass
 
 (ċ) profitti mill-bejgħ ta' biljetti għal tali trasport f'isem intrapriżi oħra,
 
-meta dak il-kiri, użu, manutenzjoni jew bejgħ ta’ biljetti, skont kif ikun il-każ, ikun inċidentali għat-tħaddim ta’ bastimenti jew inġenji tal-ajru (IL-GVERN TAR-REPUBBLIKA
-
-*10*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
-fi traffiku internazzjonali.
+meta dak il-kiri, użu, manutenzjoni jew bejgħ ta’ biljetti, skont kif ikun il-każ, ikun inċidentali għat-tħaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali.
 
 \4. Għall-finijiet ta’ dan l-Artikolu, l-imgħax fuq fondi direttament konnessi mat-tħaddim ta' vapuri jew inġenji tal-ajru fi traffiku internazzjonali għandu jitqies bħala profitti miksuba mit-tħaddim ta' tali vapuri jew inġenji tal-ajru, u d-dispożizzjonijiet tal- Artikolu 11 m'għandhomx japplikaw fir-rigward ta' tali imgħax.
 
@@ -329,11 +281,7 @@ u f’kull każ isiru jew jiġu imposti kundizzjonijiet bejn iż-żewġ impriżi
 
 \2. Meta Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat – u skont hekk jintaxxa - profitti li fuqhom impriża tal- Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kundizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor għandu jagћmel tibdil adatt fl-ammont tat-taxxa hemm imposta fuq dawk il-profitti. Biex jiġi stabbilit dak it-tibdil, id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw lil xulxin.
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*11*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 Artikolu 10
+**Artikolu 10**
 
 **DIVIDENDI**
 
@@ -349,13 +297,7 @@ Dan il-paragrafu m’għandux jaffettwa t-tassazzjoni tal-kumpannija rigward il-
 
 \3. Il-frażi "dividendi" skont ma tintuża f’dan l-Artikolu tfisser income minn ishma, ishma "jouissance" jew drittijiet "jouissance", ishma fil-minjieri, ishma tal-fondaturi jew jeddijiet oћra, li ma jkunux pretensjonijiet ta’ debitu, li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess trattament dwar it-taxxa bћallikieku kien income minn ishma skont il-liġijiet tat-taxxa tal-Istat fejn tkun residenti l-kumpannija li tkun qegћda tqassam.
 
-\4. Il-provvedimenti tal-paragrafi 1 u 2 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew li tkun twettaq (IL-GVERN TAR-REPUBBLIKA
-
-*12*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
-f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fiss li tkun tinsab hemmhekk, u l-holding li dwarhom jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ id-dispożizzjonijiet tal- Artikolu 7, jew l-Artikolu 14, skont kif ikun il-każ, għandhom japplikaw.
+\4. Il-provvedimenti tal-paragrafi 1 u 2 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew li tkun twettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fiss li tkun tinsab hemmhekk, u l-holding li dwarhom jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ id-dispożizzjonijiet tal- Artikolu 7, jew l-Artikolu 14, skont kif ikun il-każ, għandhom japplikaw.
 
 \5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti jew bażi fissa li jkun jinsab f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
 
@@ -369,11 +311,7 @@ f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi f
 
 \3. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparteċipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew obbligazzjonijiet. Penali rigward ħlas tardiv m’għandhiex titqies bħala mgħax għall-għanijiet ta’ dan l-Artikolu.
 
-\4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk jew ikun iwettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fissa li tkun tinsab hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi (IL-GVERN TAR-REPUBBLIKA
-
-*13*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 fissa. F’dak il-każ, id-dispożizzjonijiet tal-Artikolu 7 jew l-Artikolu 14, skont kif ikun il-każ, gћandhom japplikaw.
+\4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk jew ikun iwettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fissa li tkun tinsab hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ, id-dispożizzjonijiet tal-Artikolu 7 jew l-Artikolu 14, skont kif ikun il-każ, gћandhom japplikaw.
 
 \5. L-imgħax għandu jitqies li jinqala’ fi Stat Kontraenti meta min iħallsu ikun residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas l-imgħax, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew bażi fissa li f’konnessjoni miegħu ikun oriġina d-debitu li fuqu jitћallas l-imgћax, u dak l-imgћax jiġġarrab minn dak l-istabbiliment permanenti jew bażi fissa, gћaldaqstant dak l-imgћax gћandu jitqies li jinqala’ fl-Istat fejn ikun sitwat l-istabbiliment permanenti jew bażi fissa.
 
@@ -389,13 +327,7 @@ DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 fissa. F’dak il-każ, id-dispo
 
 \3. Il-frażi "royalties" skont ma tintuża f’dan l-Artikolu tfisser ћlasijiet ta’ kull xorta li jiġu riċevuti bħala korrispettiv gћall-użu ta’, jew gћall-jedd tal-użu, ta’ kull dritt tal-awtur, ta’ xogћol letterarju, artistiku jew xjentifiku inklużi software ta’ kompjuter, films ċinematografiċi u reġistrazzjoni tal-awdjo fuq tape jew media oħra użati għax-xandir bir-radju jew bit-televiżjoni jew mezzi oħra ta’ riproduzzjoni jew trażmissjoni, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, jew gћal informazzjoni dwar konoxxenza industrijali, kummerċjali jew xjentifika.
 
-\4. Id-dispożizzjonijiet tal-pararafu 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn (IL-GVERN TAR-REPUBBLIKA
-
-*14*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
-jinqalgћu r-royalties permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun iwettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fissa li tkun tinsab hemmhekk, u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 jew l- Artikolu 14, skont kif ikun il-każ, gћandhom japplikaw.
+\4. Id-dispożizzjonijiet tal-pararafu 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun iwettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fissa li tkun tinsab hemmhekk, u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 jew l- Artikolu 14, skont kif ikun il-każ, gћandhom japplikaw.
 
 \5. Ir-royalties għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew bażi fissa li f’konnessjoni magħhom l-obbligu li jitħallsu r-royalties tkun effettivament konnessa, u dawk ir-royalties jiġġarrbu minn dak l-istabbiliment permanenti jew bażi fissa, allura dawk ir-royalties għandhom jitqiesu li jinqalgћu fl- Istat Kontraenti fejn ikun jinsab l-istabbiliment permanenti jew bażi fissa.
 
@@ -409,11 +341,7 @@ jinqalgћu r-royalties permezz ta’ stabbiliment permanenti li jkun jinsab hemm
 
 \2. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor, jew ta’ proprjetà mobbli li tappartjeni lil bażi fissa li tkun disponibbli lil residenti ta’ Stat Kontraenti fl-Istat Kontraenti l-ieħor bil-għan li jitwettqu servizzi personali indipendenti, inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien mal-impriża kollha), jista’ jiġi intaxxat f’dak Istat l-ieћor.
 
-\3. Qligћ li jinkiseb mit-trasferiment ta’ bastimenti jew inġenji tal-ajru li jkunu qegћdin jiġu mħaddma fi traffiku internazzjonali, jew minn proprjetà mobbli li tkun tappartjeni għat- (IL-GVERN TAR-REPUBBLIKA
-
-*15*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 tħaddim ta’ dawk il-bastimenti jew inġenji tal-ajru, gћandu jiġi intaxxat biss fl-Istat Kontraenti fejn ikun jinsab il-post ta’ maniġġ effettiv tal-impriża.
+\3. Qligћ li jinkiseb mit-trasferiment ta’ bastimenti jew inġenji tal-ajru li jkunu qegћdin jiġu mħaddma fi traffiku internazzjonali, jew minn proprjetà mobbli li tkun tappartjeni għat-tħaddim ta’ dawk il-bastimenti jew inġenji tal-ajru, gћandu jiġi intaxxat biss fl-Istat Kontraenti fejn ikun jinsab il-post ta’ maniġġ effettiv tal-impriża.
 
 \4. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ ishma li jkollhom aktar minn 50 fil-mija tal-valur tagħhom ġej direttament jew indirettament minn proprjetà immob bli li tkun tinsab fl-Istat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
 
@@ -437,12 +365,6 @@ DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 tħaddim ta’ dawk il-bastiment
 
 (a) min jirċevih ikun joqgћod fl-Istat l-ieћor gћal perjodu jew perjodi li b’kollox ma jkunux ta’ iżjed minn 183 ġurnata f’xi perjodu ta’ tnax il-xahar li jibda gћaddej jew itemm fis-sena ta’ taxxa involuta, u
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*16*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
 (b) il-kumpens jitћallas minn, jew f’isem, prinċipal li ma jkunx residenti fl-Istat l-ieћor; u
 
 (ċ) il-kumpens ma jkunx ta’ piż fuq l-istabbiliment permanenti jew bażi fissa li l-prinċipal ikollu fl-Istat l-ieћor.
@@ -465,11 +387,7 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 \3. Minkejja d-disposizzjonijiet tal-paragrafi 1 u 2, income miksub mill-attivitajiet imsemmija fil-paragrafu 1 fi ħdan il-qafas ta’ skambji kulturali jew sportivi miftehma mill-Gvernijiet tal-Istati Kontraenti u mwettqa għajr għall-iskop ta’ profitt, għandhom ikunu eżenti minn taxxa fl-Istat Kontraenti li fih dawn l-attivitajiet huma eżerċitati.
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*17*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 Artikolu 18
+**Artikolu 18**
 
 **PENSJONIJIET U ANNWALITAJIET**
 
@@ -495,12 +413,6 @@ DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 Artikolu 18
 
 (b) Madankollu, pensjoni bħal dik jew kumpens ieħor simili għandha tkun taxxabbli biss fl-Istat Kontraenti l-ieħor kemm il-darba l-individwu jkun residenti ta’, u ċittadin ta’, dak l-Istat.
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*18*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
 \3. Il-provvedimenti tal-Artikoli 15, 16, 17 u 18 gћandhom japplikaw gћal salarji, pagi, pensjonijiet u kumpens ieħor bħalhom, gћar-rigward ta’ servizzi mogħtijin f’dak li għandu x’jaqsam ma’ kummerċ ġestit minn Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegħu.
 
 **Artikolu 20**
@@ -519,11 +431,7 @@ DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 Artikolu 18
 
 \2. Id-dispożizzjonijiet tal-paragrafu 1 ta' dan l-Artikolu m'għandhomx japplikaw għal income mir-riċerka jekk dik ir-riċerka titwettaq mhux fl-interess pubbliku iżda għall-benefiċċju privata ta' persuna jew persuni speċifiċi.
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*19*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 Artikolu 22
+**Artikolu 22**
 
 **INCOME IEĦOR**
 
@@ -547,12 +455,6 @@ Meta residenti tal-Etjopja jikseb income li, skont id-disposizzjonijiet ta’ da
 
 Dak it-tnaqqis m’għandux, madankollu, ikun iżjed minn dik il-parti tat-taxxa fuq l-income kif ikkalkulata qabel ma jingħata t-tnaqqis, li huwa attribwibbli għall-income li jista' jiġi intaxxat f'Malta.
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*20*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
 \3. Għall-fini tal-pararafu 1, fejn l-income li jinħoloq fl- Etjopja huwa eżenti jew intaxxat b'rata mnaqqsa fl-Etjopja, għal perjodu ta' żmien limitat skond il-liġijiet u r-regolamenti tal-Etjopja mmirati biex jippromwovu żvilupp ekonomiku, allura t-taxxa fuq dak l-income li ġie eżentat jew intaxxat b'rata mnaqqsa fl-Etjopja għandu jiġi kkreditat kontra t-taxxa fuq l-income dovut f'Malta fejn is-sid benefiċjarju ta' dan l-income huwa residenti.
 
 \4. Id-dispożizzjonijiet tal-paragrafu 3 għandhom japplikaw għall-ewwel għaxar snin li għalihom dan il-Ftehim hija effettiva. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgħu jikkonsultaw lil xulxin biex jiddeterminaw jekk dan il-perjodu jistax jiġi estiż.
@@ -567,11 +469,7 @@ Dak it-tnaqqis m’għandux, madankollu, ikun iżjed minn dik il-parti tat-taxxa
 
 \3. Ħlief meta japplikaw il-provvedimenti tal-paragrafu 1 tal-Artikolu 9, tal-paragrafu 6 tal-Artikolu 11, jew tal-paragrafu 6 tal- Artikolu 12, mgћax, royalties u ћlasijiet oћra li jitћallsu minn impriża ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor gћandhom, gћall-fini li jiġu stabbiliti x’inhuma l-profitti taxxabbli ta’ dik limpriża, jiġu mnaqqsa taћt l-istess kundizzjonijiet bћallikieku dawn kienu tћallsu lil residenti tal-Istat l-ewwel imsemmi.
 
-\4. Impriżi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu proprjetà jew taћt il-kontroll, sew dirett sew mhux dirett, ta’ xi residenti wieħed jew aktar tal-Istat Kontraenti l-ieћor, ma gћandhom ikunu assoġġettati fl-Istat l-ewwel imsemmi gћal ebda taxxa jew gћal ebda ћtieġa konnessa ma’ dan li tkun (IL-GVERN TAR-REPUBBLIKA
-
-*21*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 xort’oћra jew ta’ iktar piż mit-taxxa u mill-ħtiġiet konnessi li gћalihom ikunu jew jistgћu jkunu assoġġettati impriżi simili tal-Istat l-ewwel imsemmi.
+\4. Impriżi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu proprjetà jew taћt il-kontroll, sew dirett sew mhux dirett, ta’ xi residenti wieħed jew aktar tal-Istat Kontraenti l-ieћor, ma gћandhom ikunu assoġġettati fl-Istat l-ewwel imsemmi gћal ebda taxxa jew gћal ebda ћtieġa konnessa ma’ dan li tkun xort’oћra jew ta’ iktar piż mit-taxxa u mill-ħtiġiet konnessi li gћalihom ikunu jew jistgћu jkunu assoġġettati impriżi simili tal-Istat l-ewwel imsemmi.
 
 \5. Il-provvedimenti ta’ dan l-Artikolu għandhom, minkejja l-provvedimenti tal-Artikolu 2, japplikaw għat-taxxi ta’ kull tip u għamla.
 
@@ -591,13 +489,7 @@ DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 xort’oћra jew ta’ iktar pi�
 
 **SKAMBJU TA’ INFORMAZZJONI**
 
-\1. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tista’ tkun prevista bћala rilevanti gћat-twettiq tal-provvedimenti ta’ dan il-Ftehim jew għall- (IL-GVERN TAR-REPUBBLIKA
-
-*22*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
-amministrazzjoni jew l-infurzar tal-liġijiet domestiċi rigward taxxi ta’ kull tip u għamla imposti f’isem l-Istati Kontraenti, jew tas-sottodiviżjonijiet politiċi jew awtoritajiet lokali tagħhom, sakemm it-taxxa li taqa’ taћthom ma tmurx kontra l-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikoli 1 u 2.
+\1. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tista’ tkun prevista bћala rilevanti gћat-twettiq tal-provvedimenti ta’ dan il-Ftehim jew għall-amministrazzjoni jew l-infurzar tal-liġijiet domestiċi rigward taxxi ta’ kull tip u għamla imposti f’isem l-Istati Kontraenti, jew tas-sottodiviżjonijiet politiċi jew awtoritajiet lokali tagħhom, sakemm it-taxxa li taqa’ taћthom ma tmurx kontra l-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikoli 1 u 2.
 
 \2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiġi ittrattata bћala waћda sigrieta bl-istess mod bћal informazzjoni li tinkiseb taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, id-deċiżjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew it-tћaris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuh jew f’deċiżjonijiet ġudizzjarji. Minkejja dak li hawn qabel, informazzjoni li jirċievi Stat Kontraenti tista’ tiġi wżata għal għanijiet oħra meta dik l-informazzjoni tista’ tiġi wżata għal tali għanijiet oħra taħt il-liġijiet taż-żewġ Stati u l-awtorità kompetenti tal-Istat li jagħti l-informazzjoni jawtorizza dak l-użu.
 
@@ -611,11 +503,7 @@ amministrazzjoni jew l-infurzar tal-liġijiet domestiċi rigward taxxi ta’ kul
 
 \4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l-Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
-\5. F’ebda każ ma gћandhom il-provvedimenti tal-paragrafu 3 jiftiehmu bћala li jħallu lil Stat Kontraenti jirrifjuta milli jipprovdi (IL-GVERN TAR-REPUBBLIKA
-
-*23*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’xi kapaċità ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetá f’xi persuna.
+\5. F’ebda każ ma gћandhom il-provvedimenti tal-paragrafu 3 jiftiehmu bћala li jħallu lil Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’xi kapaċità ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetá f’xi persuna.
 
 **Artikolu 27**
 
@@ -643,12 +531,6 @@ dwar taxxi fuq income miksub matul xi sena fiskali li tibda fi jew wara l-ewwel 
 
 (ii) fir-rigward ta’ taxxi oħra, fir-rigward ta' sena fiskali li tibda fi jew wara t-tmien jum ta' Lulju li jiġi wara d-data li fiha l-Ftehim tidħol fis-seħħ.
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*24*
-
-[L.S. 123.184 DEMOKRATIKA FEDERALI TAL ETJOPJA)
-
 **Artikolu 29**
 
 **TERMINAZZJONI**
@@ -667,11 +549,7 @@ dwar taxxi fuq income miksub matul xi sena fiskali li tibda fi jew wara l-ewwel 
 
 (ii) dwar taxxi oħra, dwar sena fiskali li tibda fi jew wara t-tmien jum ta' Lulju li jiġi wara d-data li fiha jingħata l-avviż.
 
-(IL-GVERN TAR-REPUBBLIKA
-
-*25*
-
-DEMOKRATIKA FEDERALI TAL ETJOPJA) [L.S. 123.184 B’XIEHDA TA’ DAN is-sottoskritti, li huma awtorizzati kif imiss mill-Gvernijiet rispettivi tagħhom, iffirmaw dan il-Ftehim.
+B’XIEHDA TA’ DAN is-sottoskritti, li huma awtorizzati kif imiss mill-Gvernijiet rispettivi tagħhom, iffirmaw dan il-Ftehim.
 
 MAGĦMUL u ffirmat fil-Belt Valletta, dan it-12 il-jum ta’ April, 2018 f'żewġ kopji, bl-Ingliż biss.
 

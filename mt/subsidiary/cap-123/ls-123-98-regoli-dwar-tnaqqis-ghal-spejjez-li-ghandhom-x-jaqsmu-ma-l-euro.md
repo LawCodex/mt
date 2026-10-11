@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Tnaqqis għal Spejjeż li għandhom x'jaqsmu ma' l-Euro (S.L. 123.98)
 
-*1*
-
-LI G}ANDHOM X”JAQSMU MA’ L-EURO [L.S.123.98
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.98**
 
 **REGOLI DWAR TNAQQIS G}AL SPEJJE| LI**

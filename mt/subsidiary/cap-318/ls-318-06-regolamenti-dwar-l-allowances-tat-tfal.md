@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Allowances tat-Tfal"
-identifier: "S.L. 318.6"
+identifier: "S.L. 318.06"
 eli: "https://legislation.mt/eli/sl/318.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/318.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Allowances tat-Tfal (S.L. 318.6)
-
-[L.S.318.06
+# Regolamenti dwar l-Allowances tat-Tfal (S.L. 318.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 318.06**
 
@@ -127,6 +125,6 @@ i\\da li ma jkunx, f’ebda ka\\ minnhom wie]ed mill-[enituri ta’ dak it-tifel
 
 (`) fil-ka\\ ta’ tifel jew persuna ta]t l-età ta’ tmintax-il sena, ikollu l-]arsien legali ta’ dak it-tifel jew dik il-persuna u jissodisfa l-kondizzjonijiet stabbiliti fl-artikolu 84(1)(a), (b) u (`) ta’ l-Att.
 
-[L.S.318.06 14. Bla ]sara g]ad-disposizzjonijiet tar-regolament 13, il-]las ta’ allowance jista’xorta jsir lill-omm jew lil dik il-persuna l-o]ra kif jista’ ji[i de`i\\ mid-Direttur meta missier it-tifel jew persuna relattivi g]alkemm ikunu qed jirrisjedu barra minn Malta jkollhom dritt g]all-imsemmija allowance skond il- li[i.
+## 14. }las ta’ allowance metal-missierikun imsiefer. Emendar: A.L. 61 ta’ l-1987.
 
-*}las ta’ allowance metal-missierikun imsiefer. Emendar: A.L. 61 ta’ l-1987.*
+Bla ]sara g]ad-disposizzjonijiet tar-regolament 13, il-]las ta’ allowance jista’xorta jsir lill-omm jew lil dik il-persuna l-o]ra kif jista’ ji[i de`i\\ mid-Direttur meta missier it-tifel jew persuna relattivi g]alkemm ikunu qed jirrisjedu barra minn Malta jkollhom dritt g]all-imsemmija allowance skond il- li[i.

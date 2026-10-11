@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi sabiex €34,940,601 6% Stock tal-Gvern ta Malta 1999 (It-Tieni Ħruġ) jinbidlu f'€34,940,601 5.9% Stock tal-Gvern ta' Malta 2010 (L-Ewwel Ħarġa) (S.L. 161.55)
 
-€34,940,601 6% STOCK TAL-GVERN TA’ MALTA 1999 (IT-
-
-TIENI }AR{A) JINBIDLU F’€34,940,601 5.9% STOCK TAL-
-
-*1*
-
-GVERN TA’ MALTA 2010 (L-EWWEL }AR{A) [S.L.161.55
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.55**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

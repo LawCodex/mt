@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika ta' Singapore (S.L. 123.103)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.103**
 
 **ORDNI DWAR EŻENZJONI MILL-ĦLAS**
@@ -42,8 +38,6 @@ B’dan qiegħed jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti għandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseħħ fid-29 ta’ Frar, 2008.
-
-2 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
 
 ## SKEDA — FTEHIM BEJN — IL-GVERN TAR-REPUBBLIKA TA’ SINGAPORE
 
@@ -107,9 +101,7 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa identika jew sostanzjalment si
 
 \1. Għall-għanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
-(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra Maltin inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103 3
-
-qiegħ il-baħar, is-sottoswol u l-kolonna ta’ baħar sovrajaċenti u adjaċenti għall-ibħra territorjali, fejn ir-Repubblika ta’ Malta tista’, skont id-dritt internazzjonali, teżerċita drittijiet sovrani jew ġurisdizzjoni għar-rigward tal-esplorazzjoni u l-esplojtazzjoni tar-riżorsi naturali;
+(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra Maltin inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ qiegħ il-baħar, is-sottoswol u l-kolonna ta’ baħar sovrajaċenti u adjaċenti għall-ibħra territorjali, fejn ir-Repubblika ta’ Malta tista’, skont id-dritt internazzjonali, teżerċita drittijiet sovrani jew ġurisdizzjoni għar-rigward tal-esplorazzjoni u l-esplojtazzjoni tar-riżorsi naturali;
 
 (b) il-frażi "Singapore" tfisser it-territorji tar-Repubblika ta’ Singapore, l-ibħra territorjali ta’ Singapore u qiegħ il-baħar u s-sottoswol tal-ibħra territorjali, u meta użata f’sens ġeografiku tinkludi kull area li testendi lil hinn mil-limiti tal-ibħra territorjali ta’ Singapore, u qiegħ il-baħar u s-sottoswol ta’ kull area bħal dik, li ġew jew li jistgħu jiġu msemmija minn issa ’l quddiem taħt il-liġijiet ta’ Singapore u skont id-dritt internazzjonali bħala area li fuqha Singapore għandha drittijiet sovrani għall-finijiet tal-esplorazzjoni għal, u l-esplojtazzjoni tar-riżorsi naturali, kemm dawk li jgħixu kemm dawk li ma jgħixux;
 
@@ -144,8 +136,6 @@ qiegħ il-baħar, is-sottoswol u l-kolonna ta’ baħar sovrajaċenti u adjaċen
 \1. Għall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taħt il-liġijiet ta’ dak l-Istat, tkun soġġetta għat-taxxa hemmhekk minħabba d-domiċilju, ir-residenza, il-post tal-maniġġ jew xi kriterju ieħor ta’ xorta simili.
 
 \2. Meta minħabba d-disposizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewġ Stati Kontraenti, allura l-istatus tiegħu għandu jiġi stabbilit kif ġej:
-
-4 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
 
 (a) huwa għandu jitqies li jkun residenti unikament tal-Istat li fih ikollu dar permanenti għad-disposizzjoni tiegħu; jekk huwa jkollu dar permanenti għad-disposizzjoni tiegħu fiż-żewġ Stati, huwa għandu jitqies li huwa residenti tal-Istat li miegħu r-relazzjonijiet personali u ekonomiċi tiegħu jkunu l-aktar marbuta (ċentru ta’ interessi vitali);
 
@@ -189,8 +179,6 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbi
 
 (a) l-użu ta’ faċilitajiet għall-iskop uniku ta’ ħażna, wiri jew kunsinna ta’ oġġetti jew merkanzija li jkunu proprjetà tal-impriża;
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103 5
-
 (b) il-manutenzjoni ta’ ħażna ta’ oġġetti jew merkanzija li jkunu proprjetà tal-impriża għall-iskop uniku ta’ ħażna, wiri jew kunsinna;
 
 (ċ) il-manutenzjoni ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà tal-impriża għall-iskop uniku ta’ proċessar minn impriża oħra;
@@ -223,9 +211,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \3. Id-disposizzjonijiet tal-paragrafu 1 għandhom ikunu japplikaw għal income li jinkiseb mill-użu dirett, kiri, jew użu ta’ kull xorta ta’ proprjetà immobbli.
 
-\4. Id-disposizzjonijiet tal-paragrafi 1 u 3 għandhom japplikaw ukoll għall-income minn proprjetà immobbli ta’ impriża u għal income minn proprjetà immobbli 6 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
-
-użata għall-għemil ta’ servizzi personali indipendenti.
+\4. Id-disposizzjonijiet tal-paragrafi 1 u 3 għandhom japplikaw ukoll għall-income minn proprjetà immobbli ta’ impriża u għal income minn proprjetà immobbli użata għall-għemil ta’ servizzi personali indipendenti.
 
 **Artikolu 7**
 
@@ -255,9 +241,7 @@ Meta l-profitti jkunu jinkludu oġġetti ta’ income li qegħdin jiġu trattati
 
 \2. Għall-għanijiet ta’ dan l-Artikolu, profitti mit-tħaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali għandhom jinkludu:
 
-(a) profitti mill-kiri ta’ bastimenti u inġenji tal-ajru fuq bażi bareboat; u FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103 7
-
-(b) profitti mill-użu, manutenzjoni jew kiri ta’ containers (inklużi trailers u tagħmir relatat għat-trasport ta’ containers) użati għat-trasport ta’ oġġetti jew merkanzija;
+(a) profitti mill-kiri ta’ bastimenti u inġenji tal-ajru fuq bażi bareboat; u (b) profitti mill-użu, manutenzjoni jew kiri ta’ containers (inklużi trailers u tagħmir relatat għat-trasport ta’ containers) użati għat-trasport ta’ oġġetti jew merkanzija;
 
 meta dik il-kirja jew dak l-użu, manutenzjoni jew kirja, skont il-każ, ikunu inċidentali għat-tħaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali.
 
@@ -285,9 +269,7 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriż
 
 \2. Madankollu, dawk id-dividendi jistgħu jiġu intaxxati ukoll fl-Istat Kontraenti li tiegħu l-kumpannija li qed tħallas id-dividendi hija residenti u skont il-liġijiet ta’ dak l-Istat. Taħt is-sistema ta’ imputazzjoni sħiħa fil-preżent addottata miż-żewġ Stati Kontraenti, meta dividendi jitħallsu minn kumpannija residenti ta’ wieħed mill-Istati Kontraenti lil residenti tal-Istat Kontraenti l-ieħor li huwa s-sid benefiċjarju ta’ dawk id-dividendi, it-taxxa fuq l-ammont gross tad-dividendi fl-Istat l-ewwel imsemmi m’għandux ikun aktar mit-taxxa li għandha titħallas fuq il-profitti jew income tal-kumpannija li minnhom jitħallsu id-dividendi.
 
-\3. Taħt is-sistema ta’ imputazzjoni sħiħa addottata miż-żewġ Stati Kontraenti, ma hemm l-ebda taxxa finali miżmuma minn ras il-għajn fuq dividendi bħala żieda 8 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
-
-għat-taxxa li għandha titħallas għar-rigward tal-profitti jew income tal-kumpannija li minnhom jitħallsu id-dividendi. Jekk, wara li jiġi ffirmat il-Ftehim, xi wieħed mill- Istati Kontraenti jintroduċi taxxa finali miżmuma minn ras il-għajn fuq dividendi bħala żieda għat-taxxa li għandha titħallas għar-rigward tal-profitti jew income tal-kumpannija, dividendi mħallsa minn kumpannija residenti ta’ dak l-Istat Kontraenti lill-Gvern tal-Istat Kontraenti l-ieħor għandhom ikunu eżenti minn dik it-taxxa miżmuma minn ras il-għajn fl-Istat l-ewwel imsemmi.
+\3. Taħt is-sistema ta’ imputazzjoni sħiħa addottata miż-żewġ Stati Kontraenti, ma hemm l-ebda taxxa finali miżmuma minn ras il-għajn fuq dividendi bħala żieda għat-taxxa li għandha titħallas għar-rigward tal-profitti jew income tal-kumpannija li minnhom jitħallsu id-dividendi. Jekk, wara li jiġi ffirmat il-Ftehim, xi wieħed mill- Istati Kontraenti jintroduċi taxxa finali miżmuma minn ras il-għajn fuq dividendi bħala żieda għat-taxxa li għandha titħallas għar-rigward tal-profitti jew income tal-kumpannija, dividendi mħallsa minn kumpannija residenti ta’ dak l-Istat Kontraenti lill-Gvern tal-Istat Kontraenti l-ieħor għandhom ikunu eżenti minn dik it-taxxa miżmuma minn ras il-għajn fl-Istat l-ewwel imsemmi.
 
 \4. Għall-finijiet tal-paragrafu 3, il-frażi "Gvern":
 
@@ -317,9 +299,7 @@ Id-disposizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw jekk is-sid benefi
 
 ## 8.
 
-Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief għal dawk id-dividendi li jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew għall-holding li dwaru jitħallsu d-dividendi jkun effettivament konness ma’ dak l-istabbiliment permanenti jew ma’ bażi stabbilita sitwati f’dak Istat l-ieħor, lanqas ma jista’ l-istat jassoġġetta l-profitti mhux imqassma tal-kumpannija għal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mħallsa jew il-profitti mhux imqassma ukoll jekk ikunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103 9
-
-income li jinqalgħu f’dak l-Istat l-ieħor.
+Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief għal dawk id-dividendi li jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew għall-holding li dwaru jitħallsu d-dividendi jkun effettivament konness ma’ dak l-istabbiliment permanenti jew ma’ bażi stabbilita sitwati f’dak Istat l-ieħor, lanqas ma jista’ l-istat jassoġġetta l-profitti mhux imqassma tal-kumpannija għal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mħallsa jew il-profitti mhux imqassma ukoll jekk ikunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
 
 **Artikolu 11**
 
@@ -357,9 +337,7 @@ income li jinqalgħu f’dak l-Istat l-ieħor.
 
 \6. Id-disposizzjonijiet tal-paragrafi 1 u 2 m’għandhomx japplikaw jekk is-sid benefiċjarju tal-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bħal dak għandhom japplikaw id-disposizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-każ.
 
-\7. L-imgħax għandu jitqies li joriġina fi Stat Kontraenti meta min iħallas ikun dak l-Istat innifsu, sottodiviżjoni politika, awtorità lokali, korp statutorju jew residenti ta’ dak l-Istat. Meta, madankollu, l-persuna li tkun qed tħallas l-imgħax, 10 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
-
-sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, jkollha fi Stat Kontraenti stabbiliment permanenti jew bażi stabbilita li f’konnessjoni magħhom kien sar id-dejn li fuqu jitħallas l-imgħax, u dak l-imgħax jiġġarrab minn dak l-istabbiliment permanenti jew bażi stabbilita, għaldaqstant dak l-imgħax għandu jitqies li joriġina fl-Istat fejn ikun jinsab l-istabbiliment permanenti jew bażi stabbilita.
+\7. L-imgħax għandu jitqies li joriġina fi Stat Kontraenti meta min iħallas ikun dak l-Istat innifsu, sottodiviżjoni politika, awtorità lokali, korp statutorju jew residenti ta’ dak l-Istat. Meta, madankollu, l-persuna li tkun qed tħallas l-imgħax, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, jkollha fi Stat Kontraenti stabbiliment permanenti jew bażi stabbilita li f’konnessjoni magħhom kien sar id-dejn li fuqu jitħallas l-imgħax, u dak l-imgħax jiġġarrab minn dak l-istabbiliment permanenti jew bażi stabbilita, għaldaqstant dak l-imgħax għandu jitqies li joriġina fl-Istat fejn ikun jinsab l-istabbiliment permanenti jew bażi stabbilita.
 
 ## 8.
 
@@ -379,9 +357,7 @@ Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju
 
 \5. Ir-royalties jitqiesu li joriġinaw fi Stat Kontraenti meta min iħallas ikun dak l-Istat innifsu, sottodiviżjoni politika, awtorità lokali, korp statutorju jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qed tħallas dawk ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, jkollha fi Stat Kontraenti stabbiliment permanenti jew bażi stabbilita li f’konnessjoni miegħu kienet saret l-obbligazzjoni li fuqu jitħallsu r-royalties u dawk ir-royalties jiġġarbu minn dak l-istabbiliment jew bażi stabbilita, għaldaqstant dawk ir-royalties għandhom jitqiesu li joriġinaw fl-Istat fejn ikun jinsab l-istabbiliment permanenti jew bażi stabbilita.
 
-\6. Meta, minħabba r-relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju effettiv jew bejniethom it-tnejn u xi persuna oħra, l-ammont tar-royalties, fil-qies ta’ x’ikun l-użu, id-dritt jew l-informazzjoni li jitħallsu għalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu għandhom japplikaw biss għall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ħlasijiet għandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d- FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103 11
-
-disposizzjonijiet l-oħra ta’ dan il-Ftehim.
+\6. Meta, minħabba r-relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju effettiv jew bejniethom it-tnejn u xi persuna oħra, l-ammont tar-royalties, fil-qies ta’ x’ikun l-użu, id-dritt jew l-informazzjoni li jitħallsu għalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu għandhom japplikaw biss għall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ħlasijiet għandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-disposizzjonijiet l-oħra ta’ dan il-Ftehim.
 
 **Artikolu 13**
 
@@ -411,9 +387,7 @@ disposizzjonijiet l-oħra ta’ dan il-Ftehim.
 
 **SERVIZZI PERSONALI DIPENDENTI**
 
-\1. Bla ħsara għad-disposizzjonijiet tal-Artikoli 16, 18 u 19, is-salarji, il-pagi u kumpens ieħor bħal dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impjieg għandhom ikunu taxxabbli biss f’dak l-Istat kemm-il darba l-impjieg ma jiġix 12 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
-
-eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak Istat l-ieħor.
+\1. Bla ħsara għad-disposizzjonijiet tal-Artikoli 16, 18 u 19, is-salarji, il-pagi u kumpens ieħor bħal dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impjieg għandhom ikunu taxxabbli biss f’dak l-Istat kemm-il darba l-impjieg ma jiġix eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak Istat l-ieħor.
 
 \2. Minkejja d-disposizzjonijiet tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Stat Kontraenti dwar impjieg eżerċitat fl-Istat Kontraenti l-ieħor għandu jkun taxxabbli biss fl-Istat l-ewwel imsemmi jekk:
 
@@ -447,9 +421,7 @@ Id-drittijiet tad-diretturi u ħlasijiet simili oħra li jinkisbu minn residenti
 
 \1. Bla ħsara għad-disposizzjonijiet tal-paragrafu 2 tal-Artikolu 19, pensjonijiet u ħlas ieħor simili li jitħallsu lil residenti ta’ Stat Kontraenti minħabba f’xi impieg li jkun seħħ qabel għandhom ikunu taxxabbli biss f’dak l-Istat.
 
-\2. Minkejja d-disposizzjonijiet ta’ paragrafu 1, pensjonijiet u ħlasijiet oħra li jingħataw taħt il-leġislazzjoni tal-assigurazzjoni soċjali ta’ Stat Kontraenti FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103 13
-
-għandhom ikunu taxxabbli biss f’dak l-Istat.
+\2. Minkejja d-disposizzjonijiet ta’ paragrafu 1, pensjonijiet u ħlasijiet oħra li jingħataw taħt il-leġislazzjoni tal-assigurazzjoni soċjali ta’ Stat Kontraenti għandhom ikunu taxxabbli biss f’dak l-Istat.
 
 **Artikolu 19**
 
@@ -483,8 +455,6 @@ Student jew apprendist kummerċjali li jkun preżenti fi Stat Kontraenti unikame
 
 \2. Id-disposizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw għal income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, jekk min jirċievi dak l-income, għax ikun residenti ta’ Stat Kontraenti, jiġġestixxi negozju fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab f’dak l-Istat, jew iwettaq f’dak Istat l-ieħor servizzi personali indipendenti minn bażi stabbilita li tkun tinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jitħallas l-income ikun effettivament konness ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ għandhom japplikaw id-disposizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-każ.
 
-14 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
-
 \3. Minkejja d-disposizzjonijiet tal-paragrafi 1 u 2 ta’ dan l-Artikolu, partiti ta’ income ta’ residenti ta’ Stat Kontraenti li ma ssemma xejn dwarhom fl-Artikoli hawn qabel imsemmija ta’ dan il-Ftehim u li jitnisslu fl-Istat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-Istat l-ieħor.
 
 **Artikolu 22**
@@ -509,9 +479,7 @@ Meta residenti ta’ Singapore jikseb income minn Malta li, skont id-disposizzjo
 
 \1. Iċ-ċittadini ta’ Stat Kontraenti m’għandhomx jiġu assoġġettati fl-Istat Kontraenti l-ieħor għal xi tassazzjoni jew għal xi ħtieġa li jkunu konnessi ma’ dan, li tkun diversa Jew ta’ iktar piż mit-tassazzjoni u ħtigiet konnessi li għalihom ċittadini ta’ dak l-Istat l-ieħor fl-istess ċirkostanzi huma jew jistgħu jkunu soġġetti. Din id-disposizzjoni għandha, minkejja d-disposizzjonijiet tal-Artikolu 1, tkun tapplika wkoll għal persuni li ma jkunux residenti ta’ xi Stat Kontraenti wieħed jew it-tnejn li huma.
 
-\2. L-intaxxar fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor m’għandux jinġabar inqas favorevolment f’dak Istat l-ieħor mit-tassazzjoni miġbura fuq impriżi ta’ dak l-Istat l-ieħor li jkun qiegħed FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103 15
-
-iwettaq l-istess attivitajiet.
+\2. L-intaxxar fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor m’għandux jinġabar inqas favorevolment f’dak Istat l-ieħor mit-tassazzjoni miġbura fuq impriżi ta’ dak l-Istat l-ieħor li jkun qiegħed iwettaq l-istess attivitajiet.
 
 \3. Ebda ħaġa f’dan l-Artikolu ma għandha tiftiehem bħala li tobbliga lil Stat Kontraenti li jagħti lil:
 
@@ -533,9 +501,7 @@ iwettaq l-istess attivitajiet.
 
 \3. L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jistħarrġu kif jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jista’ jitnissel dwar l-interpretazzjoni Jew l-applikazzjoni tal-Ftehim. Dawn jistgħu wkoll jikkonsultaw flimkien għall-eliminazzjoni ta’ tassazzjoni doppja f’dawk il-każijiet li m’hemm xejn provdut dwarhom fil-Ftehim.
 
-\4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgħu jikkomunikaw ma’ 16 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
-
-xulxin direttament bil-għan li jilħqu ftehim fis-sens tal-paragrafi preċedenti.
+\4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgħu jikkomunikaw ma’ xulxin direttament bil-għan li jilħqu ftehim fis-sens tal-paragrafi preċedenti.
 
 **Artikolu 25\***
 
@@ -561,11 +527,9 @@ xulxin direttament bil-għan li jilħqu ftehim fis-sens tal-paragrafi preċedent
 
 **MEMBRI TA’ MISSJONIJIET DIPLOMATIĊI U KARIGI KONSULARI**
 
-Ebda ħaġa f ’dan il-Ftehim ma għandha tolqot il-privileġġi ta’ membri ta’ FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103 17
+Ebda ħaġa f ’dan il-Ftehim ma għandha tolqot il-privileġġi ta’ membri ta’ missjonijiet diplomatiċi jew karigi konsulari taħt ir-regoli ġenerali tad-dritt internazzjonali jew taħt id-disposizzjonijiet ta’ kull ftehim speċjali.
 
 \*kif sostitwit bil-Protokoll riprodott fl-Avviż Legali 257 tal-2013.
-
-missjonijiet diplomatiċi jew karigi konsulari taħt ir-regoli ġenerali tad-dritt internazzjonali jew taħt id-disposizzjonijiet ta’ kull ftehim speċjali.
 
 **Artikolu 27**
 
@@ -591,8 +555,6 @@ Ministru għall-Affarijiet Barranin Tieni Ministru għall-Affarijiet Barranin G�
 
 Malta Singapore
 
-18 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
-
 **PROTOKOLL**
 
 Fil-waqt tal-iffirmar tal-Ftehim għall-Ħelsien mit-Taxxa Doppja u l-Prevenzjoni tal-Evażjoni Fiskali għar-rigward ta’ Taxxi fuq l-Income, f’dan il-jum konkluża bejn il-Gvern tar-Repubblika ta’ Singapore u l-Gvern ta’ Malta, is-sottoskritti ftehmu li dawn id-disposizzjonijiet li ġejjin għandhom jifformaw parti integrali mill-Ftehim. Artikolu 10
@@ -612,8 +574,6 @@ Dott. Michael Frendo Is-Sur Raymond Lim
 Ministru għall-Affarijiet Barranin Tieni Ministru għall-Affarijiet Barranin Għall-Gvern ta’ Għall-Gvern tar-Repubblika ta’
 
 Malta Singapore
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE [L.S.123.103 19
 
 **PROTOKOLL LI JEMENDA L-FTEHIM BEJN**
 
@@ -651,9 +611,7 @@ It-test tal-Artikolu 25 tal-Ftehim (Skambju ta’ Informazzjoni) għandu jiġi m
 
 (ċ) li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew informazzjoni, li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
-\4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ taxxa. L-obbligazzjoni li tinsab 20 [L.S.123.103 FUQ L-INCOME MAR-REPUBBLIKA TA’ SINGAPORE
-
-fis-sentenza ta’ qabel hija soġġetta għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
+\4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ taxxa. L-obbligazzjoni li tinsab fis-sentenza ta’ qabel hija soġġetta għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
 \5. F’ebda każ ma gћandhom il-provvedimenti tal-paragrafu 3 jiftiehmu bћala li jħallu lil Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, nominee jew minn xi persuna li tkun qegħda taġixxi f’xi kapaċita’ ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetá f ’xi persuna.".
 

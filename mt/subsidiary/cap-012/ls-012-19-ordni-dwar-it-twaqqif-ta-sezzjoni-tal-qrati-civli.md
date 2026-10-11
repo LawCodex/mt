@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar it-Twaqqif ta' Sezzjoni tal-Qrati Ċivli (S.L. 12.19)
 
-*1*
-
-TAL-QRATI ĊIVILI [L.S.12.19
-
 **LEĠISLAZZJONI SUSSIDJARJA 12.19**
 
 ORDNI DWAR IT-TWAQQIF TA’ SEZZJONIJIET TAL-QRATI ĊIVILI
@@ -106,8 +102,4 @@ Meta jkun hemm nuqqas ta’ qbil dwar jekk kawża għandhiex tiġi assenjata lil
 
 ## 9. Qorti tal-Maġistrati (Għawdex) fil- Ġurisdizzjoni Superjuri tagħha. Kap. 12.
 
-Mingħajr preġudizzju għad-disposizzjonijiet tal-artikolu 54 tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili, għandu jkun hemm fil-Qorti tal-Maġistrati (Għawdex), fil-Ġurisdizzjoni Superjuri tagħha, żewġ Sezzjonijiet li rispettivament jissemmew ''Is-Sezzjoni tal-Familja'' u ''Is-Sezzjoni ta’ Ġurisdizzjoni Ġenerali''. Lis-Sezzjoni tal-Familja għandhom jiġu assenjati kawżi li jaqgħu fil-kompetenza ta’ dik il-Qorti fil-Ġurisdizzjoni Superjuri tagħha u li huma regolati bid-disposizzjonijiet msemmija fl-artikolu 4(a) sa (e) ta’ dan l-Ordni, u lis-Sezzjonijiet ta’ Ġurisdizzjoni Ġenerali għandhom jiġu assenjati kawżi li jaqgħu fil-kompetenza ta’ dik il-Qorti fil-Ġurisdizzjoni Superjuri tagħha li m’humiex assenjati lis-Sezzjoni tal-Familja jew li dwarhom l-imsemmi artikolu 54 tal-imsemmi Kodiċi ma japplikax. L-artikoli 7 u 9 ta’ dan l-Ordni għandhom mutatis mutandis ikunu applikabbli TAL-QRATI ĊIVILI [L.S.12.19
-
-għar-rigward ta’ kawżi li jaqgħu fil-kompetenza tal-imsemmija Qorti fil-Ġurisdizzjoni Superjuri tagħha għar-rigward tal-assenjazzjoni ta’ kawżi lid-diversi Sezzjonijiet.
-
-*3*
+Mingħajr preġudizzju għad-disposizzjonijiet tal-artikolu 54 tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili, għandu jkun hemm fil-Qorti tal-Maġistrati (Għawdex), fil-Ġurisdizzjoni Superjuri tagħha, żewġ Sezzjonijiet li rispettivament jissemmew ''Is-Sezzjoni tal-Familja'' u ''Is-Sezzjoni ta’ Ġurisdizzjoni Ġenerali''. Lis-Sezzjoni tal-Familja għandhom jiġu assenjati kawżi li jaqgħu fil-kompetenza ta’ dik il-Qorti fil-Ġurisdizzjoni Superjuri tagħha u li huma regolati bid-disposizzjonijiet msemmija fl-artikolu 4(a) sa (e) ta’ dan l-Ordni, u lis-Sezzjonijiet ta’ Ġurisdizzjoni Ġenerali għandhom jiġu assenjati kawżi li jaqgħu fil-kompetenza ta’ dik il-Qorti fil-Ġurisdizzjoni Superjuri tagħha li m’humiex assenjati lis-Sezzjoni tal-Familja jew li dwarhom l-imsemmi artikolu 54 tal-imsemmi Kodiċi ma japplikax. L-artikoli 7 u 9 ta’ dan l-Ordni għandhom mutatis mutandis ikunu applikabbli għar-rigward ta’ kawżi li jaqgħu fil-kompetenza tal-imsemmija Qorti fil-Ġurisdizzjoni Superjuri tagħha għar-rigward tal-assenjazzjoni ta’ kawżi lid-diversi Sezzjonijiet.

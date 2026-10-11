@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Bastimenti Merkantili (Maritime Labour Convention) (S.L. 234.51)
 
-BASTIMENTI MERKANTILI
-
-*1*
-
-(MARITIME LABOUR CONVENTION) [L.S.234.51
-
 **LEĠISLAZZJONI SUSSIDJARJA 234.51**
 
 **REGOLI DWAR BASTIMENTI MERKANTILI**

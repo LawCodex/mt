@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika ta' l-Ungerija (S.L. 123.29)
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.29**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -92,8 +90,6 @@ it-taxxa fuq l-income
 **Tifsiriet {enerali**
 
 (1) G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma te]tie[x xort’o]ra:
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
 
 (a) il-fra\\i "Ungerija" meta u\\ata f’sens [eografiku tfisser it-territorju tar- Repubblika ta’ l-Ungerija; u
 
@@ -171,8 +167,6 @@ FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
 
 (e) it-ti\\mim ta’ post fiss ta’ negozju g]all-iskop biss li tag]mel, g]all-impri\\a, xi attività o]ra ta’ xorta preparatorja jew aw\\iljarja;
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
-
 (f) it-ti\\mim ta’ post fiss ta’ negozju biss g]al kull kombinazzjoni ta’ attivitajiet imsemmija fis-subparagrafi (a) sa (e) i\\da li l-attività kollha tal-post fiss ta’ negozju li to]ro[ minn din il-kombinazzjoni tkun ta’ xorta preparatorja jew aw\\iljarja.
 
 (4) Impri\\a ta’ Stat Kontraenti titqies li jkollha stabbiliment permanenti fl-Istat Kontraenti l-ie]or jekk:
@@ -215,9 +209,7 @@ FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
 
 (6) Ma g]andhom ji[u attribwiti ebda profitti lil stabbiliment permanenti min]abba biss ix-xiri minn dak l-istabbiliment permanenti ta’ o[[etti jew merkanzija g]all-impri\\a.
 
-(7) G]all-finijiet tal-paragrafi ta’ qabel, il-profitti li g]andhom ji[u attribwiti lill-istabbiliment permanenti g]andhom ji[u stabbiliti bl-istess mod minn sena g]al FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
-
-sena kemm-il darba ma jkunx hemm ra[uni tajba u bi\\\\ejjed biex isir kuntrarju.
+(7) G]all-finijiet tal-paragrafi ta’ qabel, il-profitti li g]andhom ji[u attribwiti lill-istabbiliment permanenti g]andhom ji[u stabbiliti bl-istess mod minn sena g]al sena kemm-il darba ma jkunx hemm ra[uni tajba u bi\\\\ejjed biex isir kuntrarju.
 
 (8) Id-disposizzjonijiet ta’ dan l-Artikolu m’g]andhomx jolqtu d-disposizzjonijiet tal-li[i ta’ Stat Kontraenti dwar it-tassazzjoni ta’ profitti fuq in-negozju ta’ assikurazzjoni.
 
@@ -272,8 +264,6 @@ Dan il-paragrafu ma jolqotx it-tassazzjoni ta’ kumpannija g]ar-rigward tal-pro
 (4) Id-disposizzjonijiet tal-paragrafi (1) u (2) ma g]andhomx japplikaw jekk is-sid benefi`jarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl-Istat Kontraenti l-ie]or, li tieg]u tkun residenti l-kumpannija li t]allas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jaqdi f’dak l-Istat l-ie]or servizz personali indipendenti minn ba\\i stabbilit sitwat hemmhekk, u l-holding li dwarhom id-dividendi jkunu m]allsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ba\\i stabbilit. F’dak il-ka\\ id-disposizzjonijiet ta’ l-Artikolu 7 jew l-Artikolu 14, skond il-ka\\, g]andhom japplikaw.
 
 (5) Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ie]or, dak l-Istat l-ie]or ma jista’ jimponi ebda taxxa fuq id-dividendi m]allsa mill-kumpannija, ]lief meta dividendi b]al dawn jit]allsu lil residenti ta’ dak l-Istat l-ie]or jew safejn il-holding li dwaru jit]allsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ ba\\i stabbilit sitwat f’dak l-Istat l-ie]or, jew jissu[[etta l-profitti mhux distribwiti tal-kumpannija g]al taxxa fuq il-profitti mhux distribwiti, anki jekk id-dividendi m]allsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalg]u f’dak l-Istat l-ie]or.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
 
 **ARTIKOLU 11**
 
@@ -331,9 +321,7 @@ L.S.123.29] FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA
 
 (5) Royalties g]andhom jitqiesu li jinqalg]u fi Stat Kontraenti meta min i]allashom ikun dak l-Istat innifsu, sottodivi\\joni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, i\\da, il-persuna li t]allas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, ikollha fi Stat Kontraenti stabbiliment permanenti jew ba\\i stabbilit li dwaru jkun sar l-obbligu li jit]allsu r-royalties, u dawk ir-royalties ikunu r-responsabbiltà ta’ dak l-istabbiliment permanenti jew ba\\i stabbilit, allura dawk ir-royalties g]andhom jitqiesu li jinqalg]u fl-Istat li fih ikun qieg]ed l-istabbiliment permanenti jew il-ba\\i stabbilit.
 
-(6) Meta, min]abba r-relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
-
-jew bejniethom stess u xi persuna o]ra, l-ammont tar-royalties, meta jitqies l-u\\u, id-dritt jew l-informazzjoni li g]alih ikunu m]allsa, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni id-disposizzjonijiet ta’ dan l-Artikolu g]andhom japplikaw biss g]all-ammont l-a]]ar imsemmi. F’dak il-ka\\, il-parti \\ejda tal-]lasijiet g]andha tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, meta jitqiesu d-disposizzjonijiet l-o]ra ta’ dan il-Ftehim.
+(6) Meta, min]abba r-relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejniethom stess u xi persuna o]ra, l-ammont tar-royalties, meta jitqies l-u\\u, id-dritt jew l-informazzjoni li g]alih ikunu m]allsa, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni id-disposizzjonijiet ta’ dan l-Artikolu g]andhom japplikaw biss g]all-ammont l-a]]ar imsemmi. F’dak il-ka\\, il-parti \\ejda tal-]lasijiet g]andha tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, meta jitqiesu d-disposizzjonijiet l-o]ra ta’ dan il-Ftehim.
 
 **ARTIKOLU 13**
 
@@ -389,9 +377,7 @@ Id-drittijiet u ]lasijiet simili tad-diretturi li jinkisbu minn residenti ta’ 
 
 (1) B’dak kollu li jinsab fid-disposizzjonijiet ta’ l-Artikoli 14 u 15, income miksub minn residenti ta’ Stat Kontraenti minn u]ud li jag]tu spettaklu, b]al artisti tat-teatru, tal-films `inematografi`i, tar-radju jew tat-televi\\joni, jew mu\\i`ista, jew b]ala atleta, mill-attivitajiet personali tieg]u e\\er`itati fl-Istat Kontraenti l-ie]or, jistg]u ji[u ntaxxati f’dak l-Istat l-ie]or.
 
-(2) Meta income dwar l-attivitajiet personali e\\er`itati minn wie]ed li jag]ti spettaklu jew atleta b]ala hekk jinqala’ mhux minn dak li jag]ti spettaklu jew atleta nnifsu imma minn persuna o]ra, dak l-income jista , minkejja d-disposizzjonijiet ta’ l-Artikoli 7, 14 u 15, ji[i ntaxxat fl-Istat Kontraenti fejn l-attivitajiet ta’ dak li jag]ti spettaklu jew l-atleta ji[u e\\er`itati, jekk dik il-persuna tkun direttament jew FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
-
-indirettament kontrollata minn dak li jag]ti spettaklu jew mill-atleta.
+(2) Meta income dwar l-attivitajiet personali e\\er`itati minn wie]ed li jag]ti spettaklu jew atleta b]ala hekk jinqala’ mhux minn dak li jag]ti spettaklu jew atleta nnifsu imma minn persuna o]ra, dak l-income jista , minkejja d-disposizzjonijiet ta’ l-Artikoli 7, 14 u 15, ji[i ntaxxat fl-Istat Kontraenti fejn l-attivitajiet ta’ dak li jag]ti spettaklu jew l-atleta ji[u e\\er`itati, jekk dik il-persuna tkun direttament jew indirettament kontrollata minn dak li jag]ti spettaklu jew mill-atleta.
 
 (3) Minkejja d-disposizzjonijiet tal-paragrafi (1) u (2) ta’ dan l-Artikolu, income imsemmi f’dan l-Artikolu jkun e\\enti mit-taxxa fl-Istat Kontraenti fejn titwettaq l-attività ta’ min jag]ti spettaklu jew ta’ l-atleta kemm-il darba dik l-attività tkun mg]ejjuna f’parti konsiderevoli tag]ha mill-fondi pubbli`i ta’ dak l- Istat jew ta’ l-Istat l-ie]or jew l-attività titwettaq bis-sa]]a ta’ ftehim jew arran[ament kulturali bejn l-Istati Kontraenti.
 
@@ -457,9 +443,7 @@ jkun e\\enti mit-taxxa f’dak l-Istat l-ie]or fuq:
 
 (1) O[[etti ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalg]u minn fejn jinqalg]u, li ma humiex trattati fl-Artikoli ta’ qabel ta’ dan il-Ftehim g]andhom ikunu taxxabbli biss f’dak l-Istat.
 
-(2) Id-disposizzjonijiet tal-paragrafu (1) ma g]andhomx japplikaw g]al income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu (2) ta’ l- Artikolu 6, jekk min jir`ievi dak l-income, li jkun residenti ta’ Stat Kontraenti, ji[[estixxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab f’dak l-Istat, jew iwettaq f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i fiss li jkun jinsab f’dak l-Istat, u d-dritt jew il-proprjetà li FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
-
-dwarhom jit]allas l-income ikollu x’jaqsam b’mod effettiv ma’ dak l-istabbiliment jew ba\\i fiss. F’dak il-ka\\, g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
+(2) Id-disposizzjonijiet tal-paragrafu (1) ma g]andhomx japplikaw g]al income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu (2) ta’ l- Artikolu 6, jekk min jir`ievi dak l-income, li jkun residenti ta’ Stat Kontraenti, ji[[estixxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab f’dak l-Istat, jew iwettaq f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i fiss li jkun jinsab f’dak l-Istat, u d-dritt jew il-proprjetà li dwarhom jit]allas l-income ikollu x’jaqsam b’mod effettiv ma’ dak l-istabbiliment jew ba\\i fiss. F’dak il-ka\\, g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
 
 ## KAPITOLU V — Kif Titne]]a t-Taxxa Doppja — ARTIKOLU 23
 
@@ -504,8 +488,6 @@ L.S.123.29] FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA
 **Pro`edura g]al Ftehim Re`iproku**
 
 (1) Meta persuna jidhrilha li l-azzjonijiet ta’ l-awtorità kompetenti ta’ wie]ed mill-Istati Kontraenti jew tat-tnejn iwasslu jew jistg]u jwasslu li ti[i ntaxxata mhux skond id-disposizzjonijiet ta’ dan il-Ftehim, hija tista’ minkejja r-rimedji provduti bil-li[i domestika ta’ dawk l-Istati, tippre\\enta l-ka\\ tag]ha lill-awtorità kompetenti ta’ l-Istat Kontraenti li tieg]u hija residenti jew jekk il-ka\\ tag]ha jkun jaqa’ ta]t il-paragrafu (1) ta’ l-Artikolu 24, lill-awtorità kompetenti ta’ l-Istat Kontraenti li tag]ha tkun nazzjonali. Il-ka\\ g]andu ji[i pre\\entat fi \\mien tliet snin mill-ewwel notifika ta’ l-azzjoni li tag]ti lok g]al tassazzjoni li ma tkunx skond id-disposizzjonijiet tal-Ftehim.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
 
 (2) L-awtorità kompetenti g]andha tara, jekk jidhrilha li l-o[[ezzjoni hija [ustifikata u jekk hi nnifisha ma tkunx tista’ tasal g]al soluzzjoni tajba, li tidde`iedi l-ka\\ bi ftehim re`iproku ma’ l-awtorità kompetenti ta’ l-Istat Kontraenti l-ie]or, bil-g]an li ti[i evitata tassazzjoni li ma tkunx skond dan il-Ftehim. Kull ftehim mil]uq g]andu jitwettaq minkejja kull terminu ta’ \\mien li jkun hemm fil-li[i domestika ta’ l-Istat Kontraenti.
 
@@ -569,7 +551,7 @@ Dan il-Ftehim g]andu jibqa’ jse]] sakemm ji[i terminat minn Stat Kontraenti. K
 
 dwar taxxi g]al sena ta’ stima li tibda fl-ewwel jew wara l-ewwel ta’ Jannar fit-tieni sena kalendarja li ti[i wara s-sena meta jing]ata l-avvi\\. B’XIEHDA TA’ DAN is-sottoskritti awtorizzati kif imiss biex jag]mlu dan, iffirmaw dan il-Ftehim.
 
-MAG}MUL in duplikat f’Budapest, illum 6 ta’ Awissu, 1991, fl-ilsien Ingli\\. FUQ L-INCOME MAR-REPUBBLIKA TA’ L-UNGERIJA [ L.S.123.29
+MAG}MUL in duplikat f’Budapest, illum 6 ta’ Awissu, 1991, fl-ilsien Ingli\\.
 
 **Joseph Cassar Torok Bela**
 

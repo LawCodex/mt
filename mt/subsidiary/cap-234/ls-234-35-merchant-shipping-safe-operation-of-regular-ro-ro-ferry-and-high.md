@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Safe Operation of Regular Ro-Ro Ferry and High-Speed Passenger Craft Services Regulations (S.L. 234.35)
 
-SAFE OPERATION OF REGULAR RO-RO FERRY
-
-*1*
-
-AND HIGH-SPEED PASSENGER CRAFT SERVICES [L.S.234.35
-
 **LEĠISLAZZJONI SUSSIDJARJA 234.35**
 
 **MERCHANT SHIPPING (SAFE OPERATION OF**

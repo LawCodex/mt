@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Età li fiha jirtiraw il-Ħaddiema tal-Port"
-identifier: "S.L. 171.1"
+identifier: "S.L. 171.01"
 eli: "https://legislation.mt/eli/sl/171.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/171.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Età li fiha jirtiraw il-Ħaddiema tal-Port (S.L. 171.1)
+# Regolamenti dwar l-Età li fiha jirtiraw il-Ħaddiema tal-Port (S.L. 171.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 171.01**
 

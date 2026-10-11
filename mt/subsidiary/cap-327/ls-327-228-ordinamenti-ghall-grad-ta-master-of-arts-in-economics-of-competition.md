@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Economics of Competition Law taħt il-patroċinju tal-Fakultà ta’ l-Ekonomija, il-Management u l-Accountancy - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.228)
 
-GRAD TA’ MASTER OF ARTS IN ECONOMICS OF
-
-COMPETITION LAW TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TA’ L-EKONOMIJA, L-MANAGEMENT U L-ACCOUNTANCY [L.S.327.228
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.228**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**

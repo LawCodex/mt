@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Eżekuzzjoni ta’ Penali Finanzjarji fl-Unjoni Ewropea (S.L. 9.14)
 
-*1*
-
-FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14.
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.14**
 
 **REGOLAMENTI DWAR L-EŻEKUZZJONI TA’**
@@ -61,10 +57,6 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort
 "piena finanzjarja" tfisser obbligu li jitħallas:
 
 (a) ammont ta’ flus meta persuna tinsab ħatja ta’ reat impost f’deċiżjoni;
-
-*2*
-
-[L.S. 9.14 FINANZJARJI FL-UNJONI EWROPEA
 
 (b) kumpens impost fl-istess deċiżjoni għall-benefiċċju ta’ vittmi ukoll meta l-vittma ma tkunx parti ċivili fil-proċeduri u l-qorti tkun qiegħda taġixxi fl-eżerċizzju tal-ġurisdizzjoni kriminali tagħha;
 
@@ -112,11 +104,7 @@ Deċiżjoni għandu jkun fiha dikjarazzjoni li l-piena finanzjarja tkun tirrigwa
 
 (a) mġieba li tkun reat skedat:
 
-Iżda m’għandu jkun hemm ebda verifika f’każijiet bħal dawk dwar jekk l-imġieba tkunx reat kriminali FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14.
-
-f’Malta; jew
-
-*3*
+Iżda m’għandu jkun hemm ebda verifika f’każijiet bħal dawk dwar jekk l-imġieba tkunx reat kriminali f’Malta; jew
 
 (b) mġieba li tkun tikkostitwixxi reat taħt il-liġi ta’ Malta li kieku din ġrat f’Malta:
 
@@ -154,11 +142,7 @@ Meta l-Avukat Ġenerali jirċievi deċiżjoni fil-kuntest tat-tifsir ta’ dawn 
 
 (h) skont iċ-ċertifikat il-persuna involuta:
 
-(i) fil-każ ta’ proċeduri bil-miktub ma kinetx, skont il-liġi tal-Istat emittenti, mgħarrfa personalment FINANZJARJI FL-UNJONI EWROPEA
-
-jew permezz ta’ rappreżentant, li jkun wieħed kompetenti kif hemm fil-liġi nazzjonali, bid-dritt li jkollha li tikkontesta l-kawża u bit-termini għal dak ir-rimedju legali; jew
-
-*[L.S. 9.14 4*
+(i) fil-każ ta’ proċeduri bil-miktub ma kinetx, skont il-liġi tal-Istat emittenti, mgħarrfa personalment jew permezz ta’ rappreżentant, li jkun wieħed kompetenti kif hemm fil-liġi nazzjonali, bid-dritt li jkollha li tikkontesta l-kawża u bit-termini għal dak ir-rimedju legali; jew
 
 (ii) ma tkunx dehret personalment fil-proċess kriminali li jwassal għad-deċiżjoni, kemm-il darba dak iċ-ċertifikat ma jkunx jiddikjara li l-persuna, skont il-ħtiġiet proċedurali msemmija fil-liġi tal-Istat emittenti:
 
@@ -174,11 +158,7 @@ il-piena finanzjarja tkun inqas minn sebgħin euro (€70);
 
 *(j)*
 
-jekk iċ-ċertifikat jagħti lok għal kontestazzjoni li d- FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14.
-
-drittijiet fundamentali jew il-prinċipji legali fundamentali, inklużi u protetti fit-Trattat, ikunu ġew miksura.
-
-*5*
+jekk iċ-ċertifikat jagħti lok għal kontestazzjoni li d-drittijiet fundamentali jew il-prinċipji legali fundamentali, inklużi u protetti fit-Trattat, ikunu ġew miksura.
 
 (2) Qabel ma tittieħed deċiżjoni li tkun tirrifjuta r-rikonoxximent u l-eżekuzzjoni ta’ deċiżjoni minħabba fir-raġunijiet imsemmija fis-subregolament (1)(a), (d) u (h), sew għalkollox sew biss f’parti, l-Avukat Ġenerali għandu jikkonsulta lill-awtoritajiet kompetenti tal-Istat emittenti b’kull mezz xieraq, u meta jkun xieraq, għandu jitlobhom jipprovdu kull informazzjoni meħtieġa mingħajr ebda dewmien.
 
@@ -208,11 +188,7 @@ Iżda l-Istat li fih jingħad li jkun sar il-ħlas għandu jiġi konsultat dwar 
 
 ## 13. Kif penali ta’ flus jinbidlu fi priġunerija.
 
-(1) Meta ma jkunx possibbli li deċiżjoni tiġi infurzata, jew għalkollox jew biss f ’parti minnha, u l-Istat emittenti jkun ippermetta li jiġu applikati sanzjonijiet alternattivi fiċ-ċertifikat imsemmi fir-regolament 5, il-Qorti Kriminali tista’ tikkonverti l-piena finanzjarja skont id-dispożizzjonijiet tal-Kodiċi li għandhom [L.S. 9.14 FINANZJARJI FL-UNJONI EWROPEA
-
-x’jaqsmu mal-konverżjoni ta’ penali finanzjarji fi priġunerija taħt dak il-Kodiċi.
-
-*6*
+(1) Meta ma jkunx possibbli li deċiżjoni tiġi infurzata, jew għalkollox jew biss f ’parti minnha, u l-Istat emittenti jkun ippermetta li jiġu applikati sanzjonijiet alternattivi fiċ-ċertifikat imsemmi fir-regolament 5, il-Qorti Kriminali tista’ tikkonverti l-piena finanzjarja skont id-dispożizzjonijiet tal-Kodiċi li għandhom x’jaqsmu mal-konverżjoni ta’ penali finanzjarji fi priġunerija taħt dak il-Kodiċi.
 
 (2) Id-dispożizzjonijiet tal-Kodiċi li għandhom x’jaqsmu mal-konverżjoni ta’ penali finanzjarji għandhom japplikaw mutatis mutandis għall-konverżjoni ta’ piena finanzjarja taħt dawn ir-regolamenti, b’dan illi kull riferenza għall-konverżjoni ta’ piena finanzjarja f’dak il-Kodiċi għandha tiftiehem bħala riferenza għal piena finanzjarja taħt dawn ir-regolamenti.
 
@@ -248,11 +224,9 @@ L-awtorità emittenti għandha tiġi mgħarrfa b’kull mezz li jkun, u li jħal
 
 (2) Il-qorti għandha tagħti deċiżjoni, u dik id-deċiżjoni għandu jkollha l-istess effett bħal sentenza li tkun tordna l-ħlas ta’ piena finanzjarja, hekk kif japplika, taħt il-Kodiċi, u d-dispożizzjonijiet ta’ dak il-Kodiċi għandhom japplikaw mutatis mutandis għal deċiżjonijiet mogħtija bis-saħħa ta’ dan ir-regolament.
 
-*7*
+## 17. Partikolaritajiet ta’ deċiżjoni li ser toħroġ barra minn Malta.
 
-FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14. 17. (1) Deċiżjoni mogħtija taħt ir-regolament 16 għandu jkun fiha:
-
-*Partikolaritajiet ta’ deċiżjoni li ser toħroġ barra minn Malta.*
+(1) Deċiżjoni mogħtija taħt ir-regolament 16 għandu jkun fiha:
 
 (a) dikjarazzjoni li tkun tindika jekk l-imġieba li għaliha tirreferi d-deċiżjoni tkunx imġieba skedata; jew
 
@@ -281,10 +255,6 @@ FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14. 17. (1) Deċiżjoni mogħtija taħt ir
 (b) jekk tkun ingħatat l-amnestija, il-maħfra jew ir-reviżjoni tas-sentenza;
 
 (ċ) meta jintemm l-infurzar tad-deċiżjoni.
-
-*8*
-
-[L.S. 9.14 FINANZJARJI FL-UNJONI EWROPEA
 
 *Emendata: A.L. 468 tal-2010; A.L. 252 tal-2023.*
 
@@ -344,10 +314,6 @@ Ungerija
 
 Żvezja.
 
-*9*
-
-FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14.
-
 SKEDA 2
 
 (Regolament 6)
@@ -406,10 +372,6 @@ tqarriq (swindling);
 
 rikattar organizzat (racketeering) u estorsjoni;
 
-**FINANZJARJI FL-UNJONI EWROPEA**
-
-*[L.S. 9.14 10*
-
 *• •*
 
 falsifikazzjoni u piraterija ta’ prodotti;
@@ -454,13 +416,7 @@ serq;
 
 reati stabbiliti mill-Istat emittenti u li jkollhom l-għan li jimplimentaw obbligi li joriġinaw minn strumenti adottati taħt it-Trattat KE jew taħt it-Titolu VI tat-Trattat UE.
 
-*11*
-
-FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14. [L.S. 9.14 FINANZJARJI FL-UNJONI EWROPEA
-
 SKEDA 3 Miżjuda:
-
-*12*
 
 A.L. 468 tal-2010. (Regolament 2)
 
@@ -502,9 +458,7 @@ L-awtorità kompetenti fl-Istat emittenti għall-infurzar tad-deċiżjoni li tim
 
 Isem uffiċjali: ..............................................................................................
 
-Indirizz: ....................................................................................................... ..................................................................................................................... ..................................................................................................................... FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14. 13
-
-Nru. tel.: (kodiċi tal-pajjiż) (kodiċi taż-żona/tal-belt) ..................................
+Indirizz: ....................................................................................................... ..................................................................................................................... ..................................................................................................................... Nru. tel.: (kodiċi tal-pajjiż) (kodiċi taż-żona/tal-belt) ..................................
 
 Nru. tal-fax (kodiċi tal-pajjiż) (kodiċi taż-żona/tal-belt) ..............................
 
@@ -544,11 +498,7 @@ Tista’ tiġi kkuntattjata għal mistoqsijiet dwar: ...........................
 
  Awtorità msemmija fil-punt (ċ)
 
-Tista’ tiġi kkuntattjata għal mistoqsijiet dwar: ............................................ ..................................................................................................................... [L.S. 9.14 FINANZJARJI FL-UNJONI EWROPEA
-
- Awtorità msemmija fil-punt (d)
-
-*14*
+Tista’ tiġi kkuntattjata għal mistoqsijiet dwar: ............................................ .....................................................................................................................  Awtorità msemmija fil-punt (d)
 
 Tista’ tiġi kkuntattjata għal mistoqsijiet dwar: ............................................ .....................................................................................................................
 
@@ -586,8 +536,6 @@ Residenza normali fl-Istat eżekutur: ..........................................
 
 (b) Jekk id-deċiżjoni hija trasmessa lill-Istat eżekutur għaliex il-persuna li kontra tagħha ttieħdet id-deċiżjoni għandha l-proprjetà fl-Istat eżekutur, żid l-informazzjoni li ġejja:
 
-FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14. 15
-
 Deskrizzjoni tal-proprjetà tal-persuna: ............................................... ............................................................................................................
 
 Lok tal-proprjetà tal-persuna: ............................................................. ............................................................................................................
@@ -624,11 +572,7 @@ Lok tal-proprjetà tal-persuna ġuridika: ......................................
 
 Deskrizzjoni tas-sors/i tad-dħul tal-persuna ġuridika:
 
-............................................................................................................ [L.S. 9.14 FINANZJARJI FL-UNJONI EWROPEA
-
-Lok tas-sors/i tad-dħul tal-persuna ġuridika: ...................................... ............................................................................................................
-
-*16*
+............................................................................................................ Lok tas-sors/i tad-dħul tal-persuna ġuridika: ...................................... ............................................................................................................
 
 *(g)*
 
@@ -662,9 +606,7 @@ Ammont: ........................................................................
 
  (ii) Kumpens impost fl-istess deċiżjoni għall-benefiċċju ta’ vittmi, fejn il-vittma tista’ ma tkunx parti ċivili fil-proċedimenti u fejn il-qorti tkun qed taġixxi fl-eżerċizzju tal-kompetenza kriminali tagħha.
 
-Ammont: ............................................................................... FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14. 17
-
- (iii) Somma ta’ flus fir-rigward tal-ispejjeż tal-proċedimenti tal-qorti jew proċedimenti amministrattivi li wasslu għad-deċiżjoni.
+Ammont: ...............................................................................  (iii) Somma ta’ flus fir-rigward tal-ispejjeż tal-proċedimenti tal-qorti jew proċedimenti amministrattivi li wasslu għad-deċiżjoni.
 
 Ammont: ...............................................................................
 
@@ -703,10 +645,6 @@ Safejn ir-reat(i) identifikat(i) taħt il-punt 2 hawn fuq jikkostitwixxi/u wieħ
  laundering ta’ rikavat mill-kriminalità;
 
  falsifikazzjoni ta’ flus, inkluża l-falsifikazzjoni tal-euro;
-
-*18*
-
-[L.S. 9.14 FINANZJARJI FL-UNJONI EWROPEA
 
  reati relatati mal-informatika;
 
@@ -752,9 +690,7 @@ Safejn ir-reat(i) identifikat(i) taħt il-punt 2 hawn fuq jikkostitwixxi/u wieħ
 
  sabotaġġ;
 
- kondotta li tikser ir-regolamenti tat-traffiku tat-triq, inklużi l-ksur tar-regolamenti dwar il-ħinijiet ta’ sewqan u ta’ mistrieħ u FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14. 19
-
-r-regolamenti dwar merkanzija perikoluża;
+ kondotta li tikser ir-regolamenti tat-traffiku tat-triq, inklużi l-ksur tar-regolamenti dwar il-ħinijiet ta’ sewqan u ta’ mistrieħ u r-regolamenti dwar merkanzija perikoluża;
 
  kontrabandu ta’ merkanzija;
 
@@ -794,10 +730,6 @@ Indika jekk il-każ kienx suġġett għal proċedura bil-miktub:
 
  (b) Iva, kien. Huwa konfermat li l-persuna konċernata kienet, skont il-liġi tal-Istat emittenti, informata personalment jew permezz ta’ rappreżentant kompetenti skont il-liġi nazzjonali, dwar id-drittijiet tagħha li tikkuntesta l-każ u dwar il-limiti ta’ żmien għal tali rimedju legali
 
-*20*
-
-[L.S. 9.14 FINANZJARJI FL-UNJONI EWROPEA
-
 *\3.*
 
 Indika jekk il-persuna konċernata dehritx personalment fil-kawża li tirriżulta fid-deċiżjoni:
@@ -822,9 +754,7 @@ JEW
 
  3.3. il-persuna kienet innotifikata bid-deċiżjoni fi ................... (jum/xahar/sena) u kienet infurmata espressament dwar id-dritt għal kawża mill-ġdid jew appell, li fihom hija għandha d-dritt li tipparteċipa u li jippermetti li jiġu eżaminati mill-ġdid il-merti tal-każ, inkluża evidenza ġdida, u li jistgħu jwasslu biex tinbidel id-deċiżjoni oriġinali, u
 
- il-persuna ddikjarat espressament li huwa jew hija ma tikkontestax din id-deċiżjoni, FINANZJARJI FL-UNJONI EWROPEA [L.S. 9.14. 21
-
-JEW
+ il-persuna ddikjarat espressament li huwa jew hija ma tikkontestax din id-deċiżjoni, JEW
 
  il-persuna ma talbitx kawża mill-ġdid jew appell fil-perijodu ta’ żmien applikabbli;
 
@@ -860,17 +790,13 @@ Jekk iva, indika liema sanzjonijiet jistgħu jiġu applikati (natura tas-sanzjon
 
  Servizz komunitarju (jew ekwivalenti). Perjodu massimu ............
 
- Sanzjonijiet oħra. Deskrizzjoni: ................................................... ............................................................................................................ [L.S. 9.14 FINANZJARJI FL-UNJONI EWROPEA
-
-*(j)*
-
-Ċirkostanzi oħra pertinenti għall-każ (informazzjoni mhux obbligatorja): ..................................................................................................................... ..................................................................................................................... .....................................................................................................................
-
-*22*
+ Sanzjonijiet oħra. Deskrizzjoni: ................................................... ............................................................................................................ Ċirkostanzi oħra pertinenti għall-każ (informazzjoni mhux obbligatorja): ..................................................................................................................... ..................................................................................................................... .....................................................................................................................
 
 *(k)*
 
 It-test tad-deċiżjoni li timponi l-penali finanzjarja huwa mehmuż maċ-ċertifikat.
+
+*(j)*
 
 Firma tal-awtorità li toħroġ iċ-ċertifikat u/jew ir-rappreżentant li tiċċertifika li l-kontenut taċ-ċertifikat huwa preċiż: .....................................
 

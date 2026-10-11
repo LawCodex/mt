@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Statut għaċ-Centru Ewro-Mediterranju għar-Riċerka fl-Edukazzjoni (S.L. 327.354)
 
-*1*
-
-GĦAR-RIĊERKA FL-EDUKAZZJONI [L.S.327.354
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.354**
 
 STATUT GĦAĊ-ĊENTRU EWRO-MEDITERRANJU
@@ -121,10 +117,6 @@ Iċ-Ċentru jkollu Direttur u Staff:
 
 Id-dmirijiet tal-Viċi-Chairman/Direttur huma li:
 
-*3*
-
-GĦAR-RIĊERKA FL-EDUKAZZJONI [L.S.327.354
-
 (a) jippromovi l-iżvilupp u l-implimentazzjoni tal-programmi kurrikulari u ta’ riċerka taċ-Ċentru;
 
 (b) jiġbor u jissottometti lir-Reġistratur tal-Università sa mhux aktar tard minn Jannar ta’ kull sena akkademika, prospektus komprensiv aġġornat bid-deskrizzjoni tal-kontenut tat-taqsimiet studju kurrenti u dawk proġettati offruti mill-membri taċ-Ċentru skont il-linji gwida stabbiliti mill-Kumitat għall-Validazzjoni tal- Programmi;
@@ -179,11 +171,7 @@ Minbarra dan, id-Direttur -
 
 (ċ) m’għandux jimpenja ruħu fi kwalunkwe attività barra mill-Università li tista’ tkun f’konflitt, jew ittellfu, mid-dmirijiet tiegħu fl-Università;
 
-(d) hu mistenni li jkun preżenti fuq il-kampus jew GĦAR-RIĊERKA FL-EDUKAZZJONI [L.S.327.354
-
-kwalunkwe sit indikat mill-Università ta’ Malta għallinqas fil-ħinijiet normali tal-uffiċċju mit-Tnejn sal-Ġimgħa matul is-sena skont l-esiġenzi tal-akkademiku u f’konformità mal-prattiċi u l-ħtiġiet tal- Università u bid-dritt għall-leave normali u għall-festi pubbliċi kif provdut fil-liġi; jekk in-nuqqas tiegħu hu meħtieġ u ġustifikat, hu għandu jiżgura li wieħed jista’ jikkuntattja miegħu permezz tas-segretarjat taċ- Ċentru;
-
-*5*
+(d) hu mistenni li jkun preżenti fuq il-kampus jew kwalunkwe sit indikat mill-Università ta’ Malta għallinqas fil-ħinijiet normali tal-uffiċċju mit-Tnejn sal-Ġimgħa matul is-sena skont l-esiġenzi tal-akkademiku u f’konformità mal-prattiċi u l-ħtiġiet tal- Università u bid-dritt għall-leave normali u għall-festi pubbliċi kif provdut fil-liġi; jekk in-nuqqas tiegħu hu meħtieġ u ġustifikat, hu għandu jiżgura li wieħed jista’ jikkuntattja miegħu permezz tas-segretarjat taċ- Ċentru;
 
 (e) m’għandux jgħaddi informazzjoni lil terzi persuni li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università ta’ Malta; kull xogħol li jkun qed isir fiċ-Ċentru għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien tad-data;
 

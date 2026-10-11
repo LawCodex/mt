@@ -1,6 +1,6 @@
 ---
 title: "Ordni Dikjaratorju ta' Reġistrazzjoni dwar il-Belt Valletta u Floriana"
-identifier: "S.L. 296.9"
+identifier: "S.L. 296.09"
 eli: "https://legislation.mt/eli/sl/296.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/296.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni Dikjaratorju ta' Reġistrazzjoni dwar il-Belt Valletta u Floriana (S.L. 296.9)
-
-VALLETTA U FLORIANA [ L.S.296.09
+# Ordni Dikjaratorju ta' Reġistrazzjoni dwar il-Belt Valletta u Floriana (S.L. 296.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 296.09**
 
@@ -54,7 +52,5 @@ SKEDA
 (Artikolu 2)
 
 Mappa X
-
-VALLETTA U FLORIANA [ L.S.296.09
 
 Mappa Y

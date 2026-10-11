@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Istitut għat-Turiżmu, l-Ivvjaġġar u l-Kultura (S.L. 327.435)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA [L.S.327.435
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.435**
 
 ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF PHILOSOPHY TAĦT IL-PATROĊINJU TAL-ISTITUT GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA\* 13 ta’ Novembru, 2012
@@ -59,15 +53,9 @@ L-applikanti għall-Grad offrut mill-Istitut għandhom ikollhom wieħed minn daw
 
 (ċ) grad ta’ Master of Business Administration tal- Università ta’ Malta jew ta’ università approvata oħra flimkien ma’ grad ta’ Bachelor miksub tal-anqas fit- Tieni Klassi bl-Unuri mill-Università ta’ Malta jew minn università approvata oħra;
 
-(d) grad ta’ Bachelor miksub fl-Ewwel Klassi bl-Unuri jew fit-Tieni Klassi bl-Unuri (ta’ Fuq) tal-Università ta’ Malta jew ta’ università oħra fl-oqsma tat-Turiżmu, l-Ekonomija, il-Finanzi, il-Management, il-Marketing, il-Public Policy, is-Social Policy, l-Istorja, l- Arkittettura jew f’qasam ta’ studju relatat kif approvat TAĦT IL-PATROĊINJU TAL-ISTITUT
+(d) grad ta’ Bachelor miksub fl-Ewwel Klassi bl-Unuri jew fit-Tieni Klassi bl-Unuri (ta’ Fuq) tal-Università ta’ Malta jew ta’ università oħra fl-oqsma tat-Turiżmu, l-Ekonomija, il-Finanzi, il-Management, il-Marketing, il-Public Policy, is-Social Policy, l-Istorja, l- Arkittettura jew f’qasam ta’ studju relatat kif approvat mill-Kumitat tal-Istitut għad-Dottorat,
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 159 tal-2024.
-
-*2*
-
-[L.S.327.435 GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA
-
-mill-Kumitat tal-Istitut għad-Dottorat,
 
 sakemm li fil-każijiet kollha msemmija fis-subparagrafi (a) sa (d) ta’ dan l-ordinament, il-Kumitat tal-Istitut ghad-Dottorat:
 
@@ -107,13 +95,9 @@ L-istudenti għandhom jitħallew ikomplu bl-istudji tagħhom biss jekk ir-rappor
 
 L-istudenti registrati fl-istitut jistghu jkunu mehtiega jippartecipaw fil-programmi tar-riċerka u t-tagħlim tal-Istitut.
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
+## 10. Preżentazzjoni tat-teżi.
 
-*3*
-
-GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA [L.S.327.435 10. Sitt xhur qabel iż-żmien meta għandha ssir is-sottomissjoni l-istudenti għandhom ikunu infurmati li huma għandhom jażvaw lill-Istitut li ser jissottomettu t-teżi tagħhom għall-eżami mhux anqas minn tliet xhur qabel iż-żmien meta għandha ssir is-sottomissjoni.
-
-*Preżentazzjoni tat-teżi.*
+Sitt xhur qabel iż-żmien meta għandha ssir is-sottomissjoni l-istudenti għandhom ikunu infurmati li huma għandhom jażvaw lill-Istitut li ser jissottomettu t-teżi tagħhom għall-eżami mhux anqas minn tliet xhur qabel iż-żmien meta għandha ssir is-sottomissjoni.
 
 ## 11. Bord tal- Ezaminaturi.
 

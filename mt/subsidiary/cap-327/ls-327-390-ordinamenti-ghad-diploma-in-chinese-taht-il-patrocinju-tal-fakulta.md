@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Chinese taħt il-patroċinju tal-Fakultà tal-Arti u tal-Confucius Institute (S.L. 327.390)
 
-DIPLOMA IN CHINESE TA}T IL-PATRO~INJU
-
-TAL-FAKULTÀ TAL-ARTI U
-
-*1*
-
-TAL-CONFUCIUS INSTITUTE [S.L.327.390
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.390**
 
 **ORDINAMENTI G}AD-DIPLOMA IN CHINESE**

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar il-Konvenzjoni Multilaterali (Implimentazzjoni tal-Miżuri Relatati ma’ Trattati dwar Taxxa għall-Prevenzjoni tal-Erożjoni tal-Bażi ta’ Tassazzjoni u t-Trasferiment ta’ Profitti) (S.L. 123.183)
 
-*1*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.183**
 
 **ORDNI DWAR IL-KONVENZJONI MULTILATERALI**
@@ -44,10 +40,6 @@ B’dan qiegћed jiġi dikjarat:
 (d) illi l-Konvenzjoni għandha tidħol fis-seħħ skont l-Artikolu 34 tal-Konvenzjoni Multilaterali murija fl-Iskeda li tinsab ma’ dan l-Ordni;
 
 (e) illi d-data tal-bidu fis-seħħ tal-Konvenzjoni f’Malta għandha tiġi mħabbra b’avviż fil-Gazzetta.
-
-*2*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 ## SKEDA 1
 
@@ -75,11 +67,9 @@ Konxji mill-ħtieġa li jiżguraw implimentazzjoni bikrija, koordinata u konsist
 
 Waqt li jinnotaw il-ħtieġa li jiġi żgurat li l-ftehimiet eżistenti għall-ħelsien minn taxxa doppja fuq l-income jiġu interpretati sabiex jeliminaw taxxa doppja fir-rigward ta’ taxxi koperti b’dawk il-ftehimiet mingħajr ma joħolqu opportunitajiet għal nuqqas ta’ taxxa jew tnaqqis mit-taxxa permezz ta’ evażjoni jew evitar ta’ taxxa (inkluż permezz ta’ arranġamenti għal tfittix ta’ trattati mmirati għal ħelsien mit-taxxa previsti f’dawk il-ftehimiet għall-benefiċċju indirett ta’ residenti ta’ ġurisdizzjonijiet terzi);
 
-Waqt li jirrikonoxxu l-ħtieġa għal mekkaniżmu effettiv biex jiġu implimentati l-bidliet miftiehma b’mod sinkronizzat u effiċjenti TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 mal-firxa tan-netwerk ta’ ftehimiet eżistenti sabiex jagħtu ħelsien minn taxxa doppja fuq income mingħajr il-bżonn li jiġi negozjat mill-ġdid bilateralment dak il-ftehim;
+Waqt li jirrikonoxxu l-ħtieġa għal mekkaniżmu effettiv biex jiġu implimentati l-bidliet miftiehma b’mod sinkronizzat u effiċjenti mal-firxa tan-netwerk ta’ ftehimiet eżistenti sabiex jagħtu ħelsien minn taxxa doppja fuq income mingħajr il-bżonn li jiġi negozjat mill-ġdid bilateralment dak il-ftehim;
 
 Ftehmu dwar dan li ġej:
-
-*3*
 
 ## TAQSIMA I — SKOP U TIFSIR TA’ FRAŻIJIET — Artikolu 1 - Skop tal-Konvenzjoni
 
@@ -105,11 +95,7 @@ b) Il-kelma "Parti" tfisser:
 
 i) Stat li dwaru din il-Konvenzjoni hi fis-seħħ f’konformità mal-Artikolu 34 (Bidu fis-Seħħ); jew
 
-ii) Ġurisdizzjoni li ffirmat din il- Konvenzjoni f’konformità mas-subparagrafu b) jew ċ) tal-paragrafu 1 tal-Artikolu 27 (Firma u Ratifika, [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-Aċċettazzjoni jew Approvazzjoni) u li għaliha din il- Konvenzjoni hi fis-seħħ f’konformità mal-Artikolu 34 (Bidu fis-Seħħ).
-
-*4*
+ii) Ġurisdizzjoni li ffirmat din il- Konvenzjoni f’konformità mas-subparagrafu b) jew ċ) tal-paragrafu 1 tal-Artikolu 27 (Firma u Ratifika, Aċċettazzjoni jew Approvazzjoni) u li għaliha din il- Konvenzjoni hi fis-seħħ f’konformità mal-Artikolu 34 (Bidu fis-Seħħ).
 
 ċ) Il-frażi "Ġurisdizzjoni Kontraenti" tfisser parti fi Ftehim dwar Taxxa Koperta.
 
@@ -129,13 +115,11 @@ Dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jeħtieġu li Ġurisdizzjo
 
 ### 3.
 
-Fir-rigward ta’ Ftehimiet dwar Taxxa Koperta li għalihom Parti waħda jew aktar għamlet ir-riżerva msemmija fis-subparagrafu a) tal-paragrafu 3 tal-Artikolu 11 (Applikazzjoni ta’ Ftehimiet dwar Taxxa li Jirrestrinġu d-Dritt ta’ Parti li Tintaxxa r- Residenti Tagħha Stess), għandha tiżdied is-sentenza li ġejja fl-aħħar tal-paragrafu 1: "F’ebda każ ma għandhom id-dispożizzjionijiet ta’ dan il-paragrafu jinftiehmu bħala li jaffettwaw id-dritt ta’ TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 Ġurisdizzjoni Kontraenti li tintaxxa r-residenti ta’ dik il- Ġurisdizzjoni Kontraenti.".
+Fir-rigward ta’ Ftehimiet dwar Taxxa Koperta li għalihom Parti waħda jew aktar għamlet ir-riżerva msemmija fis-subparagrafu a) tal-paragrafu 3 tal-Artikolu 11 (Applikazzjoni ta’ Ftehimiet dwar Taxxa li Jirrestrinġu d-Dritt ta’ Parti li Tintaxxa r- Residenti Tagħha Stess), għandha tiżdied is-sentenza li ġejja fl-aħħar tal-paragrafu 1: "F’ebda każ ma għandhom id-dispożizzjionijiet ta’ dan il-paragrafu jinftiehmu bħala li jaffettwaw id-dritt ta’ Ġurisdizzjoni Kontraenti li tintaxxa r-residenti ta’ dik il- Ġurisdizzjoni Kontraenti.".
 
 ### 4.
 
 Il-paragrafu 1 (kif jista’ jiġi modifikat bil-paragrafu 3) għandu japplika minflok jew fin-nuqqas ta’ dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta sal-limitu li d-dispożizzjonijiet jindirizzaw jekk income miksub minn jew permezz ta’ entitajiet jew arranġamenti li huma ttrattati bħala trasparenti fiskalment taħt il-liġi tat-taxxa ta’ Ġurisdizzjoni Kontraenti waħda jew l-oħra (kemm permezz ta’ regola ġenerali jew billi jiġi identifikat bid-dettall it-trattament ta’ xejriet ta’ fatt speċifiċi u tipi ta’ entitajiet jew arranġamenti) għandu jiġi ttrattat bħala income ta’ resident ta’ Ġurisdizzjoni Kontraenti.
-
-*5*
 
 ### 5.
 
@@ -145,31 +129,15 @@ a) li dan l-Artikolu kollu ma japplikax għall- Ftehimiet dwar Taxxa Koperta tag
 
 b) li l-paragrafu 1 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni msemmija fil-paragrafu 4;
 
-ċ) li l-paragrafu 1 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni msemmija fil-paragrafu 4 li tiċħad benefiċċji tat-trattat fil-każ ta’ income li jinkiseb minn jew permezz ta’ entità jew
+ċ) li l-paragrafu 1 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni msemmija fil-paragrafu 4 li tiċħad benefiċċji tat-trattat fil-każ ta’ income li jinkiseb minn jew permezz ta’ entità jew arranġament stabbilit(a) f’ġurisdizzjoni terza;
 
-arranġament stabbilit(a) f’ġurisdizzjoni terza;  
-d)  li l-paragrafu 1 ma japplikax għall-Ftehimiet  
-dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni  
-msemmija fil-paragrafu 4 li tidentifika fid-dettall it-trattament  
-ta’ xejriet ta’ fatt speċifiċi u tipi ta’ entitajiet jew  
-arranġamenti;  
-e)  li l-paragrafu 1 ma japplikax għall-Ftehimiet  
-dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni  
-msemmija fil-paragrafu 4 li tidentifika fid-dettall it-trattament  
-ta’ xejriet ta’ fatt speċifiċi u tipi ta’ entitajiet jew arranġamenti  
-u tiċħad benefiċċji tat-trattat fil-każ ta’ income li jinkiseb minn  
-jew permezz ta’ entità jew arranġament stabbilit(a)  
-f’ġurisdizzjoni terza;  
-f)  li l-paragrafu 2 ma japplikax għall-Ftehimiet  
-dwar Taxxa Koperta tagħha;  
-g)  li l-paragrafu 1 japplika biss għall-Ftehimiet  
-dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni  
-msemmija fil-paragrafu 4 li tidentifika fid-dettall it-trattament  
-ta’ xejriet ta’ fatt speċifiċi u tipi ta’ entitajiet jew arranġamenti.
+d) li l-paragrafu 1 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni msemmija fil-paragrafu 4 li tidentifika fid-dettall it-trattament ta’ xejriet ta’ fatt speċifiċi u tipi ta’ entitajiet jew arranġamenti;
 
-*6*
+e) li l-paragrafu 1 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni msemmija fil-paragrafu 4 li tidentifika fid-dettall it-trattament ta’ xejriet ta’ fatt speċifiċi u tipi ta’ entitajiet jew arranġamenti u tiċħad benefiċċji tat-trattat fil-każ ta’ income li jinkiseb minn jew permezz ta’ entità jew arranġament stabbilit(a) f’ġurisdizzjoni terza;
 
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
+f) li l-paragrafu 2 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha;
+
+g) li l-paragrafu 1 japplika biss għall-Ftehimiet dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni msemmija fil-paragrafu 4 li tidentifika fid-dettall it-trattament ta’ xejriet ta’ fatt speċifiċi u tipi ta’ entitajiet jew arranġamenti.
 
 ### 6.
 
@@ -183,11 +151,9 @@ Artikolu 4 - Entitajiet ta’ Residenza Doppja
 
 \3. Parti tista’ tirriżerva d-dritt:
 
-a) li dan l-Artikolu kollu ma japplikax għall- TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 Ftehimiet dwar Taxxa Koperta tagħha;
+a) li dan l-Artikolu kollu ma japplikax għall- Ftehimiet dwar Taxxa Koperta tagħha;
 
 b) li dan l-Artikolu kollu ma japplikax għall- Ftehimiet dwar Taxxa Koperta tagħha li diġà jindirizzaw każijiet fejn persuna li ma tkunx individwu tkun resident ta’ aktar minn Ġurisdizzjoni Kontraenti waħda billi titlob lill-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti biex jippruvaw jaslu għal ftehim reċiproku dwar Ġurisdizzjoni Kontraenti waħda ta’ residenza;
-
-*7*
 
 ċ) li dan l-Artikolu kollu ma japplikax għall- Ftehimiet dwar Taxxa Koperta tagħha li diġà jindirizzaw każijiet fejn persuna li ma tkunx individwu tkun resident ta’ aktar minn Ġurisdizzjoni Kontraenti waħda billi tiċħad befefiċċji tat-trattat mingħajr ma teħtieġ lill-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti li jippruvaw jaslu għal ftehim reċiproku dwar Ġurisdizzjoni Kontraenti waħda ta’ residenza;
 
@@ -197,11 +163,7 @@ e) li tissostitwixxi l-aħħar sentenza tal-paragrafu 1 bit-test li ġej għall-
 
 f) li dan l-Artikolu kollu ma japplikax għall- Ftehimiet dwar Taxxa Koperta tagħha ma’ Partijiet li għamlu r-riżerva msemmija fis-subparagrafu e).
 
-\4. Kull Parti li ma tkunx għamlet ir-riżerva msemmija fis-subparagrafu a) tal-paragrafu 3 għandha tinnotifika lid-Depożitarju dwar jekk kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha fihx dispożizzjoni msemmija fil-paragrafu 2 li mhijiex soġġetta għal riżerva taħt is-subparagrafi b) sa d) tal-paragrafu 3, u jekk hu hekk, in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Fejn il-Ġurisdizzjonijiet Kontraenti kollha jkunu għamlu tali notifika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta, dik id-dispożizzjoni għandha tiġi sostitwita bid-dispożizzjonijiet tal-paragrafu 1. F’każijiet oħra, il-paragrafu 1 għandu jieħu post id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta sal-limitu biss li [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-dawk id-dispożizzjoinijiet huma inkompatibbli mal-paragrafu 1.
-
-*8*
+\4. Kull Parti li ma tkunx għamlet ir-riżerva msemmija fis-subparagrafu a) tal-paragrafu 3 għandha tinnotifika lid-Depożitarju dwar jekk kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha fihx dispożizzjoni msemmija fil-paragrafu 2 li mhijiex soġġetta għal riżerva taħt is-subparagrafi b) sa d) tal-paragrafu 3, u jekk hu hekk, in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Fejn il-Ġurisdizzjonijiet Kontraenti kollha jkunu għamlu tali notifika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta, dik id-dispożizzjoni għandha tiġi sostitwita bid-dispożizzjonijiet tal-paragrafu 1. F’każijiet oħra, il-paragrafu 1 għandu jieħu post id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta sal-limitu biss li dawk id-dispożizzjoinijiet huma inkompatibbli mal-paragrafu 1.
 
 Artikolu 5 - Applikazzjoni tal-Metodi għall-Eliminazzjoni ta’ Taxxa Doppja
 
@@ -215,11 +177,9 @@ Għażla A
 
 Għażla B
 
-\4. Dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li mod ieħor, li kieku, jeżentaw income derivat minn resident ta’ Ġurisdizzjoni Kontraenti minn taxxa f’dik il-Ġurisdizzjoni Kontraenti sabiex tiġi eliminata t-taxxa doppja għax dak l-income jiġi ttrattat bħala dividend minn dik il-Ġurisdizzjoni Kontraenti m’għandhomx japplikaw meta dak l-income joħloq tnaqqis sabiex jiġu determinati l-profitti taxxabbli ta’ resident tal-Ġurisdizzjoni Kontraenti l-oħra taħt il-liġijiet ta’ dik il-Ġurisdizzjoni Kontraenti l-oħra. F’dan il-każ, il-Ġurisdizzjoni Kontraenti l-ewwel imsemmija għandha tippermetti bħala tnaqqis mit-taxxa fuq l-income ta’ dak ir-resideni somma ugwali għat-taxxa fuq l-income mħallsa f’dik il- TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 Ġurisdizzjoni Kontraenti l-oħra. Madankollu dak it-tnaqqis m’għandux jeċċedi dik il-parti tat-taxxa fuq l-income, kif komputata qabel ma jingħata t-tnaqqis, li hu attribwibbli għal dak l-income li jista’ jiġi intaxxat f’dik il-Ġurisdizzjoni Kontraenti l-oħra.
+\4. Dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li mod ieħor, li kieku, jeżentaw income derivat minn resident ta’ Ġurisdizzjoni Kontraenti minn taxxa f’dik il-Ġurisdizzjoni Kontraenti sabiex tiġi eliminata t-taxxa doppja għax dak l-income jiġi ttrattat bħala dividend minn dik il-Ġurisdizzjoni Kontraenti m’għandhomx japplikaw meta dak l-income joħloq tnaqqis sabiex jiġu determinati l-profitti taxxabbli ta’ resident tal-Ġurisdizzjoni Kontraenti l-oħra taħt il-liġijiet ta’ dik il-Ġurisdizzjoni Kontraenti l-oħra. F’dan il-każ, il-Ġurisdizzjoni Kontraenti l-ewwel imsemmija għandha tippermetti bħala tnaqqis mit-taxxa fuq l-income ta’ dak ir-resideni somma ugwali għat-taxxa fuq l-income mħallsa f’dik il- Ġurisdizzjoni Kontraenti l-oħra. Madankollu dak it-tnaqqis m’għandux jeċċedi dik il-parti tat-taxxa fuq l-income, kif komputata qabel ma jingħata t-tnaqqis, li hu attribwibbli għal dak l-income li jista’ jiġi intaxxat f’dik il-Ġurisdizzjoni Kontraenti l-oħra.
 
 \5. Il-paragrafu 4 għandu japplika għal Ftehim dwar Taxxa Koperta li mod ieħor, li kieku, jeħtieġ li Ġurisdizzjoni Kontraenti teżenta income msemmi f’dak il-paragrafu.
-
-*9*
 
 Għażla Ċ
 
@@ -239,11 +199,7 @@ Il-paragrafu 6 għandu japplika minflok id-dispożizzjonijiet ta’ Ftehim dwar 
 
 ### 8.
 
-Parti li ma tagħżilx li tapplika Għażla taħt il-paragrafu 1 tista’ tirriżerva d-dritt li dan l-Artikolu kollu ma japplikax fir-rigward [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-ta’ Ftehimiet dwar Taxxa Koperta identifikati wieħed jew aktar (jew fir-rigward tal-Ftehimiet dwar Taxxa Koperta kollha tagħha).
-
-*10*
+Parti li ma tagħżilx li tapplika Għażla taħt il-paragrafu 1 tista’ tirriżerva d-dritt li dan l-Artikolu kollu ma japplikax fir-rigward ta’ Ftehimiet dwar Taxxa Koperta identifikati wieħed jew aktar (jew fir-rigward tal-Ftehimiet dwar Taxxa Koperta kollha tagħha).
 
 ### 9.
 
@@ -267,11 +223,9 @@ Għażla għandha tapplika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Ta
 
 "Waqt li għandhom il-ħsieb li jeliminaw it-taxxa doppja fir-rigward tat-taxxi koperti minn dan il-ftehim mingħajr ma joħolqu opportunitajiet għat-tneħħija ta’ taxxa jew għal taxxa mnaqqsa permezz ta’ evażjoni jew evitar ta’ taxxa (inkluż permezz ta’ arranġamenti dwar tiftix ta’ trattati mmirati sabiex jinkiseb ħelsien mit-taxxa previst f’dan il-ftehim għall-beneficċju indirett ta’ residenti ta’ gurisdizzjonijiet terzi),".
 
-\2. It-test imsemmi fil-paragrafu 1 għandu jiġi inkluż fi TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 Ftehim dwar Taxxa Koperta minflok jew fin-nuqqas ta’ kliem fil-preambolu tal-Ftehim dwar Taxxa Koperta li jirreferi għall-intenzjoni li tiġi eliminata taxxa doppja, kemm jekk dak il-kliem jirreferi kif ukoll jekk ma jirriferix ukoll għall-intenzjoni li ma jinħolqux opportunitajiet għal tneħħija ta’ taxxa jew għal taxxa mnaqqsa.
+\2. It-test imsemmi fil-paragrafu 1 għandu jiġi inkluż fi Ftehim dwar Taxxa Koperta minflok jew fin-nuqqas ta’ kliem fil-preambolu tal-Ftehim dwar Taxxa Koperta li jirreferi għall-intenzjoni li tiġi eliminata taxxa doppja, kemm jekk dak il-kliem jirreferi kif ukoll jekk ma jirriferix ukoll għall-intenzjoni li ma jinħolqux opportunitajiet għal tneħħija ta’ taxxa jew għal taxxa mnaqqsa.
 
 \3. Parti tista’ ukoll tagħżel li tinkludi t-test ta’ preambolu li ġej fir-rigward tal-Ftehimiet dwar Taxxa Koperta tagħha li ma fihomx kliem fil-preambolu li jirreferu għal xewqa li tiġi żviluppata relazzjoni ekonomika jew biex tittejjeb il-kooperazzjoni f’materji ta’ taxxa:
-
-*11*
 
 "Waqt li jixtiequ li jkomplu jiżviluppaw ir-relazzjoni ekonomika tagħhom u jtejbu l-kooperazzjoni taghhom f’materji ta’ taxxa,".
 
@@ -280,10 +234,6 @@ Għażla għandha tapplika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Ta
 \5. Kull Parti għandha tinnotifika lid-Depożitarju dwar jekk kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha, ħlief dawk li jaqgħu fil-kamp ta’ applikazzjoni ta’ riżerva taħt il-paragrafu 4, fihx kliem fil-preambolu kif insemmi fil-paragrafu 2 u jekk hu hekk, it-test tal-preambolu rilevanti. Fejn il-Ġurisdizzjonijiet Kontraenti kollha jkunu għamlu tali notifika fir-rigward ta’ kliem fil-preambolu, dak il-kliem fil-preambolu għandu jiġi sostitwit bid-dispożizzjonijiet tal-paragrafu 1. F’każijiet oħra, it-test msemmi fil-paragrafu 1 għandu jiġi inkluż bħala żieda għall-kliem fil-preanbolu eżistenti.
 
 \6. Kull Parti li tagħżel li tapplika l-paragrafu 3 għandha tinnotifika lid-Depożitarju dwar l-għażla tagħha. Dik in-notifika għandha wkoll ikun fiha l-lista tal-Ftehimiet dwar Taxxa Koperta tagħha li ma fihomx diġà kliem fil-preambolu li jirreferu għal xewqa li tiġi żviluppata relazzjoni ekonomika jew biex tittejjeb il-kooperazzjoni f’materji ta’ taxxa. It-test imsemmi fil-paragrafu 3 għandu jkun inkluż fi Ftehim dwar Taxxa Koperta fil-każ biss fejn il- Ġurisdizzjonijiet Kontraenti kollha jkunu għażlu li japplikaw dak il-paragrafu u għamlu dik in-notifika fir-rigward tal-Ftehim dwar Taxxa Koperta.
-
-*12*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Artikolu 7 - Prevenżjoni ta’ Abbuż ta’ Trattat
 
@@ -295,11 +245,9 @@ Artikolu 7 - Prevenżjoni ta’ Abbuż ta’ Trattat
 
 \4. Meta benefiċċju taħt Ftehim dwar Taxxa Koperta jiġi miċħud lil persuna taħt id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta (kif dan jista’ jiġi modifikat b’din il-Konvenzjoni) li jiċħdu l-benefiċċji kollha jew uħud minnhom li mod ieħor kienu jingħataw taħt il-Ftehim dwar Taxxa Koperta fejn l-għan prinċipali jew wieħed mill-għanijiet prinċipali ta’ xi arranġament jew transazzjoni, jew ta’ xi persuna interessata f’arranġament jew transazzjoni, kien li jinkisbu dawk il-benefiċċji, l-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti li mod ieħor kienet li kieku tagħti dan il-benefiċċju għandha mandankollu tittratta lil dik il-persuna bħala li għandha dritt għal dak il-benefiċċju, jew għal benefiċċji differenti fir-rigward ta’ partita speċifika ta’ income jew kapital, jekk dik l-awtorità kompetenti, fuq talba ta’ dik il-persuna u wara li tikkunsidra l-fatti u ċ-ċirkostanzi rilevanti, tiddeċiedi li dawk il-benefiċċji kienu, li kieku, jingħataw lil dik il-persuna fin-nuqqas tat-transazzjoni jew arranġament. L-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti li lilha tkun saret it-talba taħt dan il-paragrafu minn resident tal- Ġurisdizzjoni Kontraenti l-oħra għandha tikkonsulta mal-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti l-oħra qabel ma tiċħad it-talba.
 
-\5. Il-paragrafu 4 għandu japplika għad-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta (kif jista’ jiġi modifikat b’din il- Konvenzjoni) li jiċħdu l-benefiċċji kollha jew parti minnhom li mod ieħor, li kieku, jingħataw taħt il-Ftehim dwar Taxxa Koperta fejn l- TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 għan prinċipali jew wieħed mill-għanijiet prinċipali ta’ xi arranġament jew transazzjoni, jew ta’ xi persuna interessata f’arranġament jew transazzjoni, kien li jinkisbu dawk il-benefiċċji.
+\5. Il-paragrafu 4 għandu japplika għad-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta (kif jista’ jiġi modifikat b’din il- Konvenzjoni) li jiċħdu l-benefiċċji kollha jew parti minnhom li mod ieħor, li kieku, jingħataw taħt il-Ftehim dwar Taxxa Koperta fejn l-għan prinċipali jew wieħed mill-għanijiet prinċipali ta’ xi arranġament jew transazzjoni, jew ta’ xi persuna interessata f’arranġament jew transazzjoni, kien li jinkisbu dawk il-benefiċċji.
 
 \6. Parti tista’ wkoll tagħżel li tapplika d-dispożizzjonijiet li jinsabu fil-paragrafi 8 sa 13 (hawn iżjed ’il quddiem imsejħa "id- Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji") għall- Ftehimiet dwar Taxxa Koperta tagħha billi tagħmel in-notifika msemmija fis-subparagrafu ċ) tal-paragrafu 17. Id-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji għandha tapplika fir-rigward ta’ Ftehim dwar Taxxa Koperta fil-każ biss fejn il- Ġurisdizzjonijiet Kontraenti kollha jkunu għażlu li japplikawha.
-
-*13*
 
 \7. Fil-każijiet fejn uħud, iżda mhux kollha, mill- Ġurisdizzjonijiet Kontraenti fi Fehim dwar Taxxa Koperta jagħżlu li japplikaw id-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji f’konformità mal-paragrafu 6, allura, minkejja d-dispożizzjonijiet ta’ dak il-paragrafu, id-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji għandha tapplika fir-rigward tal-għoti ta’ benefiċċji taħt il-Ftehim dwar Taxxa Koperta:
 
@@ -313,11 +261,7 @@ b) mill-Ġurisdizzjonijiet Kontraenti biss li jagħżlu li japplikaw id-Dispożi
 
 a) li jiddeterminaw ir-residenza ta’ persuna li ma tkunx indivdwu li jkun resident ta’ aktar minn Ġurisdizzjoni Kontraenti waħda bħala riżultat tad-dispożizzjonijiet li jiddefinixxu resident ta’ Ġurisdizzjoni Kontraenti;
 
-b) li jipprovdu li Ġurisdizzjoni Kontraenti tagħti lil [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-intrapriża ta’ dik il-Ġurisdizzjoni Kontraenti aġġustament korrispondenti wara li jsir aġġustament inizjali mill- Ġurisdizzjoni Kontraenti l-oħra, skont il-Ftehim dwar Taxxa Koperta, għas-somma ta’ taxxa intaxxata fil-Ġurisdizzjoni Kontraenti l-ewwel imsemmija fuq il-profitti ta’ intrapriża assoċjata; jew
-
-*14*
+b) li jipprovdu li Ġurisdizzjoni Kontraenti tagħti lil intrapriża ta’ dik il-Ġurisdizzjoni Kontraenti aġġustament korrispondenti wara li jsir aġġustament inizjali mill- Ġurisdizzjoni Kontraenti l-oħra, skont il-Ftehim dwar Taxxa Koperta, għas-somma ta’ taxxa intaxxata fil-Ġurisdizzjoni Kontraenti l-ewwel imsemmija fuq il-profitti ta’ intrapriża assoċjata; jew
 
 ċ) li jippermettu li residenti ta’ Ġurisdizzjoni Kontraenti jitolbu li l-awtorità kompetenti ta’ dik il- Ġurisdizzjoni Kontraenti tikkunsidra każijiet ta’ tassazzjoni mhux f’konformità mal-Ftehim dwar Taxxa Koperta,
 
@@ -339,9 +283,7 @@ ii) hi entità jew arraġament stabbiliti f’dik il-Ġurisdizzjoni Kontraenti l
 
 A) li hi stabbilita u mħaddma esklussivament jew kważi esklussivament sabiex tamministra jew tipprovdi benefiċċji tal-irtirar u benefiċċji anċillari jew inċidentali lil individwi u li hi regolata bħala tali minn dik il- Ġurisdizzjoni Kontraenti jew waħda mis-suddiviżjonijiet politiċi jew awtoritajiet lokali tagħha; jew
 
-*15*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 B) li hi stabbilita u mħaddma esklussivament jew kważi esklussivament sabiex tinvesti fondi għall-benefiċċju ta’ entitajiet jew arranġamenti msemmija fis-suddivżjoni A);
+B) li hi stabbilita u mħaddma esklussivament jew kważi esklussivament sabiex tinvesti fondi għall-benefiċċju ta’ entitajiet jew arranġamenti msemmija fis-suddivżjoni A);
 
 e) persuna, li ma tkunx individwu, jekk, għall-inqas għal nofs il-ġranet f’perjodu ta’ tnax-il xhar li jinkludi ż-żmien li fih, li kieku, dak il-benefiċċju jingħata mod ieħor, persuni li huma residenti ta’ dik il-Ġurisdizzjoni Kontraenti u għandhom id-dritt għal benefiċċji tal-Ftehim dwar Taxxa Koperta taħt is-subparagrafi a) sa d) huma s-sidien, direttament jew indirettament, ta’ għallinqas 50 fil-mija tal-azzjonijiet ta’ dik il-persuna.
 
@@ -355,11 +297,7 @@ iii) il-provdiment ta’ finanzjament tal-grupp (inkluż pooling monetarju); jew
 
 iv) l-għemil jew l-immaniġġar ta’ investimenti, sakemm dawn l-attivitajiet mhumiex imwettqa minn bank, kumpannija tal-assigurazzjoni jew operatur f’titoli reġistrati fil-kors ordinarju tan-negozju tiegħu bħala tali operatur.
 
-b) Jekk resident ta’ Ġurisdizzjoni Kontraenti fi Ftehim dwar Taxxa Koperta jikseb partita ta’ income minn attività ta’ negozju mwettqa minn dak ir-resident fil-Ġurisdizzjoni Kontraenti l-oħra, jew jikseb partita ta’ income li jinħoloq fil-Ġurisdizzjoni Kontraenti minn persuna konnessa, il-kondizzjonijiet msemmija fis-subparagrafu a) għandhom jitqiesu bħala osservati fir-rigward ta’ dik il-partita fil-każ biss li l-attività ta’ negozju mwettqa mir-resident tal- Ġurisdizzjoni Kontraenti l-ewwel imsemmija li magħha għandha x’taqsam il-partita hija sostanzjali meta mqabbla mal-istess attività jew attività ta’ negozju komplementari mwettqa minn resident jew [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-minn dik il-persuna konnessa fil-Ġurisdizzjoni Kontraenti l-oħra. Jekk attività ta’ negozju tkunx sostanzjali għall-finijiet ta’ dan is-subparagrafu għandu jiġi determinat abbażi tal-fatti u ċirkostanzi kollha.
-
-*16*
+b) Jekk resident ta’ Ġurisdizzjoni Kontraenti fi Ftehim dwar Taxxa Koperta jikseb partita ta’ income minn attività ta’ negozju mwettqa minn dak ir-resident fil-Ġurisdizzjoni Kontraenti l-oħra, jew jikseb partita ta’ income li jinħoloq fil-Ġurisdizzjoni Kontraenti minn persuna konnessa, il-kondizzjonijiet msemmija fis-subparagrafu a) għandhom jitqiesu bħala osservati fir-rigward ta’ dik il-partita fil-każ biss li l-attività ta’ negozju mwettqa mir-resident tal- Ġurisdizzjoni Kontraenti l-ewwel imsemmija li magħha għandha x’taqsam il-partita hija sostanzjali meta mqabbla mal-istess attività jew attività ta’ negozju komplementari mwettqa minn resident jew minn dik il-persuna konnessa fil-Ġurisdizzjoni Kontraenti l-oħra. Jekk attività ta’ negozju tkunx sostanzjali għall-finijiet ta’ dan is-subparagrafu għandu jiġi determinat abbażi tal-fatti u ċirkostanzi kollha.
 
 ċ) Għall-finijiet tal-applikazzjoni ta’ dan il-paragrafu, attivitajiet imwettqa minn persuni konnessi fir-rigward ta’ resident ta’ Ġurisdizzjoni Kontraenti fi Ftehim dwar Taxxa Koperta għandhom jitqiesu bħala li jitwettqu minn dak ir-resident.
 
@@ -381,9 +319,7 @@ i) kull borża stabbilita u regolata bħala tali taħt il-liġijiet ta’ xi wa�
 
 ii) kull borża oħra li hemm qbil dwarha bejn l-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti;
 
-*17*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 b) il-frażi "klassi prinċipali ta’ azzjonijiet" tfisser il-klassi jew klassijiet ta’ azzjonijiet ta’ kumapannija li tirrappreżenta l-maġġoranza tal-vot u valur totali tal-kumpannija jew il-klassi jew klassijiet ta’ interessi benefiċjarji ta’ entità li tirrappreżenta fit-total maġġoranza fil-vot u valur totali tal-entità;
+b) il-frażi "klassi prinċipali ta’ azzjonijiet" tfisser il-klassi jew klassijiet ta’ azzjonijiet ta’ kumapannija li tirrappreżenta l-maġġoranza tal-vot u valur totali tal-kumpannija jew il-klassi jew klassijiet ta’ interessi benefiċjarji ta’ entità li tirrappreżenta fit-total maġġoranza fil-vot u valur totali tal-entità;
 
 ċ) il-frażi "benefiċjarju ekwivalenti" tfisser kull persuna li, li kieku, ikollha dritt għal benefiċċji fir-rigward ta’ partita ta’ income akkordati minn Ġurisdizzjoni Kontraenti fi Ftehim dwar Taxxa Koperta taħt il-liġi domestika ta’ dik il- Ġurisdizzjoni Kontraenti, il-Ftehim dwar Taxxa Koperta jew xi strument internazzjonali ieħor li huma ekwivalenti għal, jew iżjed favorevoli minn, benefiċċji li għandhom jiġu akkordati lil dik il-partita ta’ income taħt il-Ftehim dwar Taxxa Koperta; sabiex jiġi determinat jekk persuna hijiex benefiċjarju ekwivalenti fir-rigward ta’ dividends, il-persuna titqies li għandha l-istess kapital tal-kumpannija li tħallas id-dividends bħal dak il-kapital li għandha l-kumpannija li tippretendi l-benefiċċju fir-rigward tad-dividends;
 
@@ -399,10 +335,6 @@ Id-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji għandha tap
 
 Parti tista’ tirriżerva d-dritt:
 
-*18*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 a) li l-paragrafu 1 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha għax biħsiebha tadotta ċerti miżuri ta’ dispożizzjoni dwar limitazzjoni dettaljata ta’ benefiċċji u jew regoli li jindirizzaw strutturi finanzjarji ta’ passaġġ jew test dwar l-għan prinċipali, biex b’hekk jintlaħaq l-istandard minnimu kontra l-abbuż ta’ trattati taħt il-pakkett tal-OECD/ G20 BEPS; f’każijiet bħal dawn, il-Ġurisdizzjonijiet Kontraenti għandhom jagħmlu minn kollox sabiex jaslu għal soluzzjoni reċiprokament sodisfaċenti li tosserva l-istandard minimu;
 
 b) li l-paragrafu 1 (u l-paragrafu 4, fil-każ ta’ Parti li tkun għażlet li tapplika dak il-paragrafu) ma japplikax għall- Ftehimiet dwar Taxxa Koperta tagħha li diġà fihom dispożizzjonijiet li jċaħdu l-benefiċċji kollha li, li kieku, mod ieħor jingħataw taħt il-Ftehim dwar Taxxa Koperta meta l-għan prinċipali jew wieħed mill-għanijiet prinċipali ta’ xi arraġament jew transazzjoni jew ta’ xi persuna interessata f’arranġament jew transazzjoni, kien li jinkisbu dawk il-benefiċċji.
@@ -413,21 +345,15 @@ b) li l-paragrafu 1 (u l-paragrafu 4, fil-każ ta’ Parti li tkun għażlet li 
 
 Ħlief fejn id-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji tapplika fir-rigward tal-għoti ta’ benefiċċji taħt Ftehim dwar Taxxa Koperta minn Parti waħda jew aktar konformement mal-paragrafu 7, Parti li tagħżel konformement mal-paragrafu 6 li tapplika d-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji tista’ tirriżerva d-dritt li l-Artikolu kollu ma japplikax fir-rigward tal-Ftehimiet dwar Taxxa Koperta tagħha li għalih waħda jew aktar mill-Ġurisdizzjonijiet Kontraenti ma għażlietx li tapplika d-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji. F’każijiet bħal dawn, il-Ġurisdizzjonijiet Kontraenti għandhom jagħmlu minn kollox sabiex jaslu għal soluzzjoni reċiprokament sodisfaċenti li tosserva l-istandard minimu kontra l-abbuż ta’ trattati taħt il-pakkett tal-OECD/G20 BEPS.
 
-\17. a) Kull Parti li ma għamlietx ir-riżerva msemmija fis-subparagrafu a) tal-paragrafu 15 għandha tinnotifika lid- Depożitarju dwar jekk kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha li mhuwiex soġġett għal riżerva msemmija fis-subparagrafu b) tal-paragrafu 15 fihx dispożizzjoni msemmija fil-paragrafu 2, u jekk hu hekk, in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Fejn il-Ġurisdizzjonijiet Kontraenti kollha jagħmlu dik in-notifika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 Taxxa Koperta, dik id-dispożizzjoni għandha tiġi sostitwita bid-dispożizzjonijiet tal-paragrafu 1 (u fejn ikun applikabbli, il-paragrafu 4). F’każijiet oħra, il-paragrafu 1 (u fejn applikabbli, il-paragrafu 4) għandu jieħu post id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta sal-limitu li dawk id-dispożizzjonijiet huma inkompatibbli mal-paragrafu 1 (u fejn applikabbli, mal-paragrafu 4). Parti li tagħmel in-notifika taħt dan is-subparagrafu tista’ tinkludi ukoll dikjarazzjoni li waqt li tali Parti taċċetta l-applikazzjoni tal-paragrafu 1 waħdu bħala miżura interim, biħsiebha fejn ikun possibbli tadotta dispożizzjoni dwar limitazzjoni ta’ benefiċċji, b’żieda ma’ jew minflok il-paragrafu 1, permezz ta’ negozjat bilaterali.
+\17. a) Kull Parti li ma għamlietx ir-riżerva msemmija fis-subparagrafu a) tal-paragrafu 15 għandha tinnotifika lid- Depożitarju dwar jekk kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha li mhuwiex soġġett għal riżerva msemmija fis-subparagrafu b) tal-paragrafu 15 fihx dispożizzjoni msemmija fil-paragrafu 2, u jekk hu hekk, in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Fejn il-Ġurisdizzjonijiet Kontraenti kollha jagħmlu dik in-notifika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta, dik id-dispożizzjoni għandha tiġi sostitwita bid-dispożizzjonijiet tal-paragrafu 1 (u fejn ikun applikabbli, il-paragrafu 4). F’każijiet oħra, il-paragrafu 1 (u fejn applikabbli, il-paragrafu 4) għandu jieħu post id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta sal-limitu li dawk id-dispożizzjonijiet huma inkompatibbli mal-paragrafu 1 (u fejn applikabbli, mal-paragrafu 4). Parti li tagħmel in-notifika taħt dan is-subparagrafu tista’ tinkludi ukoll dikjarazzjoni li waqt li tali Parti taċċetta l-applikazzjoni tal-paragrafu 1 waħdu bħala miżura interim, biħsiebha fejn ikun possibbli tadotta dispożizzjoni dwar limitazzjoni ta’ benefiċċji, b’żieda ma’ jew minflok il-paragrafu 1, permezz ta’ negozjat bilaterali.
 
 b) Kull Parti li tagħżel li tapplika l-paragrafu 4 għandha tinnotifika lid-Depożitarju dwar l-għażla tagħha. Il-paragrafu 4 għandu japplika għal Ftehim dwar Taxxa Koperta fil-każ biss li l-Ġurisdizzjonijiet Kontraenti kollha jkunu għamlu tali notifika.
-
-*19*
 
 ċ) Kull Parti li tagħżel li tapplika d-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji konformement mal-paragrafu 6 għandha tinnotifika lid-Depożitarju dwar l-għażla tagħha. Sakemm tali Parti ma għamlietx ir-riżerva msemmija fis-subparagrafu ċ) tal-paragrafu 15, dik in-notifika għandha tinkludi wkoll il-lista tal-Ftehimiet dwar Taxxa Koperta tagħha li fihom dispożizzjoni msemmija fil-paragrafu 14, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni.
 
 d) Kull Parti li ma tagħzilx li tapplika d- Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji konformement mal-paragrafu 6, iżda tagħżel li tapplika s-subparagrafu a) jew b) tal-paragrafu 7 għandha tinnotifika lid- Depożitarju dwar l-għażla tagħha ta’ subparagrafu. Sakemm dik il- Parti ma għamlietx ir-riżerva msemmija fis-subparagrafu ċ) tal-paragrafu 15, dik in-notifika għandu jkun fiha ukoll il-lista tal- Ftehimiet dwar Taxxa Koperta tagħha li fihom dispożizzjoni msemmija fil-paragrafu 14, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni.
 
 e) Fejn il-Ġurisdizzjonijiet Kontraenti kollha jagħmlu notifika taħt is-subparagrafu ċ) jew d) fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta, dik id-dispożizzjoni għandha tiġi sostitwita bid-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji. F’każijiet oħra, id-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji għandha tieħu post id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta sal-limitu biss li dawk id-dispożizzjonijiet huma inkompatibbli mad-Dispożizzjoni dwar Limitazzjoni Simplifikata ta’ Benefiċċji.
-
-*20*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 **Artikolu 8 - Transazzjonijiet ta’ Trasferiment ta’ Dividend**
 
@@ -449,9 +375,7 @@ iii) perjodu minimu ta’ żamma li hu itwal minn perjodu ta’ 365 ġurnata.
 
 \4. Kull Parti li ma tagħmilx riżerva msemmija fis-subparagrafu a) tal-paragrafu 3 għandha tinnotifika lid-Depożitarju dwar jekk kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha fihx dispożizzjoni msemmija fil-paragrafu 1 li mhijiex soġġetta għal riżerva msemmija fis-subparagrafu b) tal-paragrafu 3, u jekk hu hekk, in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Il-paragrafu 1 għandu japplika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta fil-każ biss li l-Ġurisdizzjonijiet Kontraenti kollha jagħmlu tali notifika fir-rigward ta’ dik id-dispożizzjoni.
 
-*21*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 Artikolu 9 - Qligħ Kapitali minn Trasferiment ta’ Azzjonijiet jew Interessi ta’ Entitajiet li jidderivaw il-Valur tagħhom prinċipalment minn Proprjetà Immobbli
+Artikolu 9 - Qligħ Kapitali minn Trasferiment ta’ Azzjonijiet jew Interessi ta’ Entitajiet li jidderivaw il-Valur tagħhom prinċipalment minn Proprjetà Immobbli
 
 \1. Dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jipprovdu li qligħ derivat minn resident ta’ Ġurisdizzjoni Kontraenti mit-trasferiment ta’ azzjonijiet jew drittijiet oħra ta’ parteċipazzjoni f’entità jistgħu jiġu intaxxati fil-Ġurisdizzjoni Kontraenti l-oħra hekk iżda li dawn l-azzjonijiet jew drittijiet ikunu dderivaw aktar minn ċerta parti tal-valur tagħhom minn proprjetà immobbli (beni immobbli) li jinsabu fil-Ġurisdizzjoni Kontraenti l-oħra (jew hekk iżda li aktar minn ċerta parti tal-proprjetà tal-entità tikkonsisti f’dik il-proprjetà immobbli (beni immobbli)):
 
@@ -465,11 +389,7 @@ b) għandhom japplikaw għal azzjonijiet jew interessi komparabbli, bħal ma hum
 
 \4. Għal finijiet ta’ Ftehim dwar Taxxa Koperta, qligħ derivat minn resident ta’ Ġurisdizzjoni Kontraenti mit-trasferiment ta’ azzjonijiet jew interessi komparabbli, bħal ma huma interessi f’soċjetà jew trust, jistgħu jiġu intaxxati fil-Ġurisdizzjoni Kontraenti l-oħra jekk, f’xi żmien matul it-365 ġurnata qabel it-trasferiment, dawn l-azzjonijiet jew interessi komparabbli dderivaw iżjed minn 50 fil-mija tal-valur tagħhom direttament jew indirettament minn proprjetà immobbli (beni immobbli) li tinsab fil-Ġurisdizzjoni Kontraenti l-oħra.
 
-\5. Il-paragrafu 4 għandu japplika minflok jew fin-nuqqas ta’ dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jipprovdu li qligħ derivat minn resident ta’ Ġurisdizzjoni Kontraenti mit-trasferiment ta’ azzjonijiet jew drittijiet oħra ta’ parteċipazzjoni f’entità jistgħu jiġu intaxxati fil-Ġurisdizzjoni Kontraenti l-oħra hekk iżda li dawn l-azzjonijiet jew drittijiet idderivaw iktar minn ċerta parti tal-valur tagħhom minn proprjetà immobbli (beni immobbli) li tinsab f’dik il-other Ġurisdizzjoni Kontraenti l-oħra, jew hekk iżda li [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-iktar mionn ċerta parti tal-proprjetà tal-entità tikkonsisti f’dik il-proprjetà immobbli (beni immobbli).
-
-*22*
+\5. Il-paragrafu 4 għandu japplika minflok jew fin-nuqqas ta’ dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jipprovdu li qligħ derivat minn resident ta’ Ġurisdizzjoni Kontraenti mit-trasferiment ta’ azzjonijiet jew drittijiet oħra ta’ parteċipazzjoni f’entità jistgħu jiġu intaxxati fil-Ġurisdizzjoni Kontraenti l-oħra hekk iżda li dawn l-azzjonijiet jew drittijiet idderivaw iktar minn ċerta parti tal-valur tagħhom minn proprjetà immobbli (beni immobbli) li tinsab f’dik il-other Ġurisdizzjoni Kontraenti l-oħra, jew hekk iżda li iktar mionn ċerta parti tal-proprjetà tal-entità tikkonsisti f’dik il-proprjetà immobbli (beni immobbli).
 
 \6. Parti tista’ tirriżerva d-dritt:
 
@@ -487,11 +407,9 @@ f) li l-paragrafu 4 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha li 
 
 \7. Kull Parti li ma tagħmilx ir-riżerva msemmija fis-subparagrafu a) tal-paragrafu 6 għandha tinnotifika lid-Depożitarju dwar jekk kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha fihx dispożizzjoni msemmija fil-paragrafu 1, u jekk hekk, in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Il-paragrafu 1 għandu japplika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta fil-każ biss li l-Ġurisdizzjonijiet Kontraenti kollha jagħmlu n-notifika fir-rigward ta’ dik id-dispożizzjoni.
 
-\8. Kull Parti li tagħżel li tapplika l-paragrafu 4 għandha tinnotifika lid-Depożitarju dear l-għażla tagħha. Il-paragrafu 4 għandun japplika għal Ftehim dwar Taxxa Koperta fil-każ biss li l- Ġurisdizzjonijiet Kontraenti kollha jagħmlu tali notifika. F’każ bħal dan, il-paragrafu 1 m’għandux japplika fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta. Fil-każ ta’ Parti li ma għamlietx ir-riżerva msemmija fis-subparagrafu f) tal-paragrafu 6 u għamlet ir-riżerva msemmija fis-subparagrafu a) tal-paragrafu 6, dik in-notifika għandu jkun fiha l-lista tal-Ftehimiet dwar Taxxa Koperta tagħha li fihom dispożizzjoni msemmija fil-paragrafu 5, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Fejn il- Ġurisdizzjonijiet Kontraenti kollha jagħmlu notifika fir-rigward ta’ TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 dispożizzjoni ta’ Ftehim dwar Taxxa Koperta taħt dan il-paragrafu jew il-paragrafu 7, dik id-dispożizzjoni għandha tiġi sostitwita bid-dispożizzjonijiet tal-paragrafu 4. F’każijiet oħra, il-paragrafu 4 għandu jieħu post id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta sal-limitu biss li dawk id-dispożizjjonijiet huma inkompatibbli mal-paragrafu 4.
+\8. Kull Parti li tagħżel li tapplika l-paragrafu 4 għandha tinnotifika lid-Depożitarju dear l-għażla tagħha. Il-paragrafu 4 għandun japplika għal Ftehim dwar Taxxa Koperta fil-każ biss li l- Ġurisdizzjonijiet Kontraenti kollha jagħmlu tali notifika. F’każ bħal dan, il-paragrafu 1 m’għandux japplika fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta. Fil-każ ta’ Parti li ma għamlietx ir-riżerva msemmija fis-subparagrafu f) tal-paragrafu 6 u għamlet ir-riżerva msemmija fis-subparagrafu a) tal-paragrafu 6, dik in-notifika għandu jkun fiha l-lista tal-Ftehimiet dwar Taxxa Koperta tagħha li fihom dispożizzjoni msemmija fil-paragrafu 5, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Fejn il- Ġurisdizzjonijiet Kontraenti kollha jagħmlu notifika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta taħt dan il-paragrafu jew il-paragrafu 7, dik id-dispożizzjoni għandha tiġi sostitwita bid-dispożizzjonijiet tal-paragrafu 4. F’każijiet oħra, il-paragrafu 4 għandu jieħu post id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta sal-limitu biss li dawk id-dispożizjjonijiet huma inkompatibbli mal-paragrafu 4.
 
 Artikolu 10 - Regola kontra l-Abbuż għal Stabbilimenti Permanenti Sitwati f’Ġurisdizzjonijiet Terzi
-
-*23*
 
 \1. Fejn:
 
@@ -503,11 +421,7 @@ il-benefiċċji tal-Ftehim dwar Taxxa Koperta m’għandhomx japplikaw għal xi 
 
 \2. Il-paragrafu 1 m’għandux japplika jekk l-income derivat mill-Ġurisdizzjoni Kontraenti l-oħra msemmija fil-paragrafu 1 hu derivat f’konnessjoni ma’ jew hu inċidentali għall-konduzzjoni attiva ta’ negozju mwettaq permezz tal-istabbiliment permanenti (li ma jkunx in-negozju tal-għemil, l-immaniġġjar jew sempliċement iż-żamma ta’ investimenti għall-benefiċċju tal-intrapriża, sakemm dawk l-attivitajiet mhumiex attivitajiet ta’ kummerċ bankarju, tal-assigurazzjoni jew f’titoli mwettqa minn bank, intrapriża tal-assigurazzjoni jew operatur f’titoli reġistrat, rispettivament).
 
-\3. Jekk benefiċċji taħt Ftehim dwar Taxxa Koperta jiġu miċħuda konformement mal-paragrafu 1 fir-rigward ta’ partita ta’ income derivat minn resident ta’ Ġurisdizzjoni Kontraenti, l-awtorità kontraenti tal-Ġurisdizzjoni Kontraenti l-oħra tista’, madankollu, tagħti dawk il-benefiċċji fir-rigward ta’ dik il-partita ta’ income jekk, b’reazzjoni għal talba minn dak ir-resident, dik l-awtorità kompetenti [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-tiddeċiedi li l-għoti ta’ dawk il-benefiċċji hu ġustifikat fid-dawl tar-raġunijiet li għalihom dak ir-resident ma ssodisfax il-ħtiġiet tal-paragrafi 1 u 2. L-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti li lilha tkun saret it-talba taħt is-sentenza preċedenti minn resident tal- Ġurisdizzjoni Kontraenti l-oħra għandha tkkonsulta mal-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti l-oħra qabel ma tilqa’ jew tiċħad il-talba.
-
-*24*
+\3. Jekk benefiċċji taħt Ftehim dwar Taxxa Koperta jiġu miċħuda konformement mal-paragrafu 1 fir-rigward ta’ partita ta’ income derivat minn resident ta’ Ġurisdizzjoni Kontraenti, l-awtorità kontraenti tal-Ġurisdizzjoni Kontraenti l-oħra tista’, madankollu, tagħti dawk il-benefiċċji fir-rigward ta’ dik il-partita ta’ income jekk, b’reazzjoni għal talba minn dak ir-resident, dik l-awtorità kompetenti tiddeċiedi li l-għoti ta’ dawk il-benefiċċji hu ġustifikat fid-dawl tar-raġunijiet li għalihom dak ir-resident ma ssodisfax il-ħtiġiet tal-paragrafi 1 u 2. L-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti li lilha tkun saret it-talba taħt is-sentenza preċedenti minn resident tal- Ġurisdizzjoni Kontraenti l-oħra għandha tkkonsulta mal-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti l-oħra qabel ma tilqa’ jew tiċħad il-talba.
 
 \4. Il-paragrafi 1 sa 3 għandhom japplikaw minflok jew fin-nuqqas ta’ dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jiċħdu jew jillimitaw benefiċċji li, li kieku, mod ieħor jingħataw lil intrapriża ta’ Ġurisdizzjoni Kontraenti li tidderiva income mill- Ġurisdizzjoni Kontraenti l-oħra li hu attribwibbli għal stabbiliment permanenti tal-intrapriża sitwat f’ġurisdizzjoni terza.
 
@@ -525,11 +439,9 @@ Artikolu 11 - Applikazzjoni ta’ Ftehimiet dwar Taxxa li Jirrestrinġu d-Dritt 
 
 \1. Ftehim dwar Taxxa Koperta ma jaffettwax it-tassazzjoni minn Ġurisdizzjoni Kontraenti tar-residenti tagħha, ħlief għal dak li jirrigwarda l-benefiċċji mogħtija taħt id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta:
 
-a) li jeħtieġu li Ġurisdizzjoni Kontraenti tagħti lil TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 intrapriża ta’ dik il-Ġurisdizzjoni Kontraenti aġġustament korrelativ u korrispondenti wara aġġustament inizjali magħmul mill-Ġurisdizzjoni Kontraenti l-oħra, skont il- Ftehim dwar Taxxa Koperta, għall-ammont ta’ taxxa intaxxata fil-Ġurisdizzjoni Kontraenti l-ewwel imsemmija fuq il-profitti ta’ stabbiliment permanenti tal-intrapriża jew il-profitti ta’ intrapriża assoċjata;
+a) li jeħtieġu li Ġurisdizzjoni Kontraenti tagħti lil intrapriża ta’ dik il-Ġurisdizzjoni Kontraenti aġġustament korrelativ u korrispondenti wara aġġustament inizjali magħmul mill-Ġurisdizzjoni Kontraenti l-oħra, skont il- Ftehim dwar Taxxa Koperta, għall-ammont ta’ taxxa intaxxata fil-Ġurisdizzjoni Kontraenti l-ewwel imsemmija fuq il-profitti ta’ stabbiliment permanenti tal-intrapriża jew il-profitti ta’ intrapriża assoċjata;
 
 b) li jistgħu jaffettwaw kif dik il-Ġurisdizzjoni Kontraenti tintaxxa individwu li hu resident ta’ dik il- Ġurisdizzjoni Kontraenti jekk dak l-individwu jidderiva income fir-rigward ta’ servizzi mwettqa fil-Ġurisdizzjoni Kontraenti l-oħra jew f’suddiviżjoni politika jew awtorità lokali jew korp komparabbli ieħor tagħha;
-
-*25*
 
 ċ) li jistgħu jaffettwaw kif dik il-Ġurisdizzjoni Kontraenti tintaxxa individwu li hu resident ta’ dik il- Ġurisdizzjoni Kontraenti jekk dak l-individwu hu wkoll student, apprendist jew qed jistħarreġ fin-negozju, jew għalliem, professsur, lecturer, istruttur, riċerkatur jew studjuż fir-riċerka li josserva l-kondizzjonijiet tal-Ftehim dwar Taxxa Koperta;
 
@@ -541,11 +453,7 @@ f) li jippermettu lir-residenti ta’ dik il- Ġurisdizzjoni Kontraenti li jitol
 
 g) li jistgħu jaffettwaw kif dik il-Ġurisdizzjoni Kontraenti tintaxxa individwu li hu resident ta’ dik il- Ġurisdizzjoni Kontraenti meta dak l-individwu huwa membru ta’ missjoni diplomatika, missjoni governattiva jew kariga konsulari tal-Ġurisdizzjoni Kontraenti l-oħra;
 
-h) li jipprovdu li pensjonijiet jew ħlasijiet oħra magħmula taħt il-legislazzjoni dwar is-sigurtà soċjali tal- Ġurisdizzjoni Kontraenti l-oħra għandha tkun intaxxata f’dik [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-il-Ġurisdizzjoni Kontraenti l-oħra biss;
-
-*26*
+h) li jipprovdu li pensjonijiet jew ħlasijiet oħra magħmula taħt il-legislazzjoni dwar is-sigurtà soċjali tal- Ġurisdizzjoni Kontraenti l-oħra għandha tkun intaxxata f’dik il-Ġurisdizzjoni Kontraenti l-oħra biss;
 
 i) li jipprovdu li pensjonijiet u ħlasijiet simili, vitalizzji, ħlasijiet għal manteniment jew ħlasijiet oħra ta’ manteniment li jseħħu fil-Ġurisdizzjoni Kontraenti l-oħra għandhom jiġu intaxxati f’dik il-Ġurisdizzjoni Kontraenti l-oħra biss; jew
 
@@ -565,11 +473,9 @@ b) li dan l-Artikolu kollu ma japplikax għall- Ftehimiet dwar Taxxa Koperta tag
 
 Artikolu 12 - Evitar Artifiċjali ta’ Status ta’ Stabbiliment Permanenti permezz ta’ Arranġamenti ta’ Kummissjonijiet u Strateġiji Simili
 
-\1. Minkejja d-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jiddefinixxu l-frażi "stabbiliment permanenti", iżda bla TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 ħsara għall-paragrafu 2, fejn persuna taġixxi f’Ġurisdizzjoni Kontraenti fi Ftehim dwar Taxxa Koperta f’isem intrapriza u, waqt li tagħmel dan, abitwalment tikkonkludi kuntratti, jew abitwalment jkollha rwol prinċipali li jwassal għall-konklużjoni ta’ kuntratti li huma konklużi skont ir-rutina mingħajr modifika materjali mill-intrapriza, u dawn il-kuntratti huma:
+\1. Minkejja d-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jiddefinixxu l-frażi "stabbiliment permanenti", iżda bla ħsara għall-paragrafu 2, fejn persuna taġixxi f’Ġurisdizzjoni Kontraenti fi Ftehim dwar Taxxa Koperta f’isem intrapriza u, waqt li tagħmel dan, abitwalment tikkonkludi kuntratti, jew abitwalment jkollha rwol prinċipali li jwassal għall-konklużjoni ta’ kuntratti li huma konklużi skont ir-rutina mingħajr modifika materjali mill-intrapriza, u dawn il-kuntratti huma:
 
 a) f’isem l-intrapriża; jew
-
-*27*
 
 b) għat-trasferiment tas-sjieda ta’, jew għall-għoti tad-dritt li tintuża, proprjetà li l-intrapriża hi s-sid tagħha jew li l-intrapriża għandha d-dritt li tuża; jew
 
@@ -581,11 +487,7 @@ dik l-intrapriża titqies li għandha stabbiliment permanenti f’dik il- Ġuris
 
 \3. a) Il-paragrafu 1 għandu japplika minflok dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jiddeskrivu l-kondizzjonijiet li taħthom intrapriża titqies li għandha stabbiliment permanenti f’Ġurisdizzjoni Kontraenti (jew persuna titqies li tkun stabbiliment permanenti f’Ġurisdizzjoni Kontraenti) fir-rigward ta’ attività li persuna li ma tkunx aġent ta’ status indipendenti twettaq għall-intrapriża, iżda sal-limitu biss li dawk id-dispożizzjonijiet jindirizzaw is-sitwazzjoni li fiha dik il-persuna għandha, u teżerċita abitwalment, f’dik il-Ġurisdizzjoni Kontraenti awtorità li tikkonkludi kuntratti f’isem l-intrapriża.
 
-b) Il-paragrafu 2 għandu japplika minflok dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jipprovdu li intrapriża ma titqiesx li għandha stabbiliment permanenti [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-f’Ġurisdizzjoni Kontraenti fir-rigward ta’ attività li aġent ta’ status indipendenti jwettaq għall-intrapriża.
-
-*28*
+b) Il-paragrafu 2 għandu japplika minflok dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jipprovdu li intrapriża ma titqiesx li għandha stabbiliment permanenti f’Ġurisdizzjoni Kontraenti fir-rigward ta’ attività li aġent ta’ status indipendenti jwettaq għall-intrapriża.
 
 \4. Parti tista’ tirriżerva d-dritt li dan l-Artikolu kollu ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha.
 
@@ -605,11 +507,9 @@ a) l-attivitajiet speċifikament elenkati fil-Ftehim dwar Taxxa Koperta (qabel i
 
 b) iż-żamma ta’ post fiss ta’ negozju unikament sabiex titwettaq, għall-intrapriża, xi attività li mhijiex imsemmija fis-subparagrafu a);
 
-ċ) iż-żamma ta’ post fiss ta’ negozju unikament għal kull għaqda ta’ attivitajiet imsemmija fis-subparagrafi a) TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 u b),
+ċ) iż-żamma ta’ post fiss ta’ negozju unikament għal kull għaqda ta’ attivitajiet imsemmija fis-subparagrafi a) u b),
 
 hekk iżda li dik l-attività jew, fil-każ tas-subparagrafu ċ), l-azttività totali tal-post fiss ta’ negozju, hi ta’ natura preparatorja jew awżiljajrja.
-
-*29*
 
 Għażla B
 
@@ -625,11 +525,7 @@ b) iż-żamma ta’ post fiss ta’ negozju għall-għan biss tat-twettieq, għa
 
 a) dak il-post jew il-post l-ieħor jikkostitwixxi stabbbiliment permanenti għall-intrapriża jew għall-intrapriża relatata mill-qrib taħt id-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jiddefinixxi stabbiliment permanenti; jew
 
-b) l-attività sħiħa li tirriżulta min-numru ta’ attivitajiet imwettqa minn żewġ intrapriżi fl-istess post, jew mill-istess intrapriża jew mill-intrapriżi relatati mill-qrib fiż- [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-żewġ postijiet, ma tkunx ta’ natura preparatorja jew awżiljarja,
-
-*30*
+b) l-attività sħiħa li tirriżulta min-numru ta’ attivitajiet imwettqa minn żewġ intrapriżi fl-istess post, jew mill-istess intrapriża jew mill-intrapriżi relatati mill-qrib fiż-żewġ postijiet, ma tkunx ta’ natura preparatorja jew awżiljarja,
 
 hekk iżda li l-attivitajiet ta’ negozju mwettaq miż-żewġ intrapriżi fl-istess post, jew mill-istess intrapriża jew mill-intrapriżi relatati mill-qrib fiż-żewġ postijiet, jikkostitwixxu funzjonijiet komplementari li jiffurmaw parti minn operazzjoni ta’ negozju koeżiva.
 
@@ -647,11 +543,9 @@ b) li l-paragrafu 2 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha li 
 
 \7. Kull parti li tagħżel li tapplika Għażla taħt il-paragrafu 1 għandha tinnotifika lid-Depożitarju dwar liema waħda tagħżel bħala Għażla. Dik in-notifika għandha tinkludi wkoll lista tal-Ftehimiet dwar Taxxa Koperta tagħha li fihom dispożizzjoni msemmija fis-subparagrafu a) tal-paragrafu 5, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Għażla għandha tapplika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta fil-każ biss fejn il-Ġurisdizzjonijiet Kontraenti kollha jkunu għażlu li japplikaw l-istess Għażla u għamlu dik in-notifika fir-rigward ta’ dik id-dispożizzjoni.
 
-\8. Kull Parti li ma għamlietx riżerva msemmija fis-subparagrafu a) jew ċ) tal-paragrafu 6 u li ma tagħżilx li tapplika Għażla taħt il-paragrafu 1 għandha tinnotifika lid-Depożitarju dwar TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 jekk kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha fihx dispożizzjoni msemmija fis-subparagrafu b) tal-paragrafu 5, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Il-paragrafu 4 għandu japplika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta fil-każ biss li l-Ġurisdizzjonijiet Kontraenti kollha għamlu dik in-notifika fir-rigward ta’ tali dispożizzjoni taħt dan il-paragrafu jew il-paragrafu 7.
+\8. Kull Parti li ma għamlietx riżerva msemmija fis-subparagrafu a) jew ċ) tal-paragrafu 6 u li ma tagħżilx li tapplika Għażla taħt il-paragrafu 1 għandha tinnotifika lid-Depożitarju dwar jekk kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha fihx dispożizzjoni msemmija fis-subparagrafu b) tal-paragrafu 5, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni. Il-paragrafu 4 għandu japplika fir-rigward ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta fil-każ biss li l-Ġurisdizzjonijiet Kontraenti kollha għamlu dik in-notifika fir-rigward ta’ tali dispożizzjoni taħt dan il-paragrafu jew il-paragrafu 7.
 
 Artikolu 14 - Qsim ta’ Kuntratti
-
-*31*
 
 \1. Għall-għan uniku li jiġi determinat jekk jkun inqabeż perjodu (jew perjodi) msemmi f’dispożizzjoni ta’ Ftehim dwar Taxxa Koperta li jistipula perjodu (jew perjodi) ta’ żmien li, wara li jgħaddi, proġetti speċifiċi jew attivitajiet jikkostitwixxu stabbiliment permanenti:
 
@@ -661,11 +555,7 @@ b) meta l-attivitajiet konnessi jitwettqu f’dik il- Ġurisdizzjoni Kontraenti 
 
 dawn il-perjodi ta’ żmien differenti għandhom jingħaddu mal-perjodu totali ta’ żmien li fih l-intrapriża l-ewwel imsemmija wettqet l-attivitajiet fuq dak is-sit ta’ bini, kostruzzjoni jew proġett ta’ stallazzjoni, jew post ieħor identifikat fid-dispożizzjoni rilevanti tal- Ftehim dwar Taxxa Koperta.
 
-\2. Il-paragrafu 1 għandu japplika minflok jew fin-nuqqas ta’ dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta sal-limitu li tali dispożizzjonijiet jindirizzaw il-qsim ta’ kuntratti f’ħafna partijiet biex tiġi evitata l-applikazzjoni ta’ perjodu jew perjodi ta’ żmien fir- [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-rigward tal-eżistenza ta’ stabbiliment permanenti għal proġetti jew attivitajiet speċifiċi msemmija fil-paragrafu 1.
-
-*32*
+\2. Il-paragrafu 1 għandu japplika minflok jew fin-nuqqas ta’ dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta sal-limitu li tali dispożizzjonijiet jindirizzaw il-qsim ta’ kuntratti f’ħafna partijiet biex tiġi evitata l-applikazzjoni ta’ perjodu jew perjodi ta’ żmien fir-rigward tal-eżistenza ta’ stabbiliment permanenti għal proġetti jew attivitajiet speċifiċi msemmija fil-paragrafu 1.
 
 \3. Parti tista’ tirriżerva d-dritt:
 
@@ -679,9 +569,7 @@ Artikolu 15 - Tifsira ta’ Persuna Relatata mill-Qrib ma’ Intrapriża
 
 \1. Għall-finijiet tad-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li huma modifikati bil-paragrafu 2 tal-Artikolu 12 (Evitar Artifiċjali ta’ Status ta’ Stabbiliment Permanenti permezz ta’ Arranġamenti ta’ Kummissjonijiet u Strateġiji Simili), il-paragrafu 4 tal-Artikolu 13 (Evitar Artifiċjali ta’ Status ta’ Stabbiliment Permanenti permezz tal-Eżenzjonijiet għal Attività Speċifika), jew il-paragrafu 1 tal-Artikolu 14 (Qsim ta’ Kuntratti), persuna hi relatata mill-qrib ma’ intrapriża jekk, abbażi tal-fatti u ċirkostanzi rilevanti kollha, waħda għandha kontroll fuq l-oħra jew it-tnejn huma taħt il-kontroll tal-istess persuni jew intrapriżi. Fi kwalunkwe każ, persuna għandha titqies li hi relatata mill-qrib ma’ intrapriża jekk waħda għandha direttament jew indirettament aktar minn 50 fil-mija tal-interess benefiċjarju fl-oħra (jew, fil-każ ta’ kumpannuja aktar minn 50 fil-mija tal-vot totali u tal-valur tal-azzjonijiet tal-kumpannija jew tal-interess tal-ekwità fil-kumpannija) jew jekk persuna oħra għandha direttament jew indirettament aktar minn 50 fil-mija tal-interess benefiċjarju (jew, fil-każ ta’ kumpannuja aktar minn 50 fil-mija tal-vot totali u tal-valur tal-azzjonijiet tal-kumpannija jew tal-interess tal-ekwità fil-kumpannija) fil-persuna u l-intrapriża.
 
-*33*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 2. Parti li tkun għamlet ir-riżervi msemmija fil-paragrafu 4 tal-Artikolu 12 (Evitar Artifiċjali ta’ Status ta’ Stabbiliment Permanenti permezz ta’ Arranġamenti ta’ Kummissjonijiet u Strateġiji Simili), is-subparagrafu a) jew ċ) tal-paragrafu 6 tal- Artikolu 13 (Evitar Artifiċjali ta’ Status ta’ Stabbiliment Permanenti permezz tal-Eżenzjonijiet għal Attività Speċifika), u s-subparagrafu a) tal-paragrafu 3 tal-Artikolu 14 (Qsim ta’ Kuntratti) tista’ tirriżerva d-dritt li dan l-Artikolu kollu ma japplikax għall-Ftehimiet dwar Taxxa Koperta li għalihom japplikaw dawk ir-riżervi.
+\2. Parti li tkun għamlet ir-riżervi msemmija fil-paragrafu 4 tal-Artikolu 12 (Evitar Artifiċjali ta’ Status ta’ Stabbiliment Permanenti permezz ta’ Arranġamenti ta’ Kummissjonijiet u Strateġiji Simili), is-subparagrafu a) jew ċ) tal-paragrafu 6 tal- Artikolu 13 (Evitar Artifiċjali ta’ Status ta’ Stabbiliment Permanenti permezz tal-Eżenzjonijiet għal Attività Speċifika), u s-subparagrafu a) tal-paragrafu 3 tal-Artikolu 14 (Qsim ta’ Kuntratti) tista’ tirriżerva d-dritt li dan l-Artikolu kollu ma japplikax għall-Ftehimiet dwar Taxxa Koperta li għalihom japplikaw dawk ir-riżervi.
 
 ## TAQSIMA V — TITJIB TAR-RIŻOLUZZJONI TA’ TILWIM — Artikolu 16 - Proċedura dwar Ftehim Reċiproku
 
@@ -691,11 +579,7 @@ TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 2. Parti li tkun għa
 
 \3. L-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti għandhom jippruvaw jirriżolvu permezz ta’ ftehim reċipriku kull diffikultà jew dubju li jinħoloq fir-rigward tal-interpretazzjoni jew l-applikazzjoni tal-Ftehim dwar Taxxa Koperta. Huma jistgħu ukoll jikkonsultaw ma’ xulxin dwar l-eliminazzjoni ta’ tassazzjoni doppja f’każijiet mhux previsti fil-Ftehim dwar Taxxa Koperta.
 
-\4. a) i) L-ewwel sentenza tal-paragrafu 1 għandha tapplika minflok jew fin-nuqqas ta’ dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta (jew partijiet minnhom) li jipprovdu li meta persuna jidhrilha li l-azzjonijiet ta’ waħda mill-Ġurisdizzjonijiet Kontraenti jew tat-tnejn jirriżultaw jew ser jirriżultaw li dik il-persuna tiġi intaxxata b’mod li ma jkunx skont id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta, dik il-persuna tista’, irrispettivament mir- [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-rimedji previsti bil-liġi domestika ta’ dawk il-Ġurisdizzjonijiet Kontraenti, tippreżenta l-każ lill-awtorità kompetenti tal- Ġurisdizzjoni Kontraenti li tagħha dik il-persuna hi resident u tinkludi d-dispożizzjonijiet li taħthom, jekk il-każ ippreżentat minn dik il-persuna jaqa’ taħt id-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jirrigwardaw ebda diskriminazzjoni bbażata fuq in-nazzjonalità, il-każ jista’ jiġi ppreżentat lill-awtorità kompetenti tal- Ġurisdizzjoni Kontraenti li tagħha dik il-persuna hi ċittadin.
-
-*34*
+\4. a) i) L-ewwel sentenza tal-paragrafu 1 għandha tapplika minflok jew fin-nuqqas ta’ dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta (jew partijiet minnhom) li jipprovdu li meta persuna jidhrilha li l-azzjonijiet ta’ waħda mill-Ġurisdizzjonijiet Kontraenti jew tat-tnejn jirriżultaw jew ser jirriżultaw li dik il-persuna tiġi intaxxata b’mod li ma jkunx skont id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta, dik il-persuna tista’, irrispettivament mir-rimedji previsti bil-liġi domestika ta’ dawk il-Ġurisdizzjonijiet Kontraenti, tippreżenta l-każ lill-awtorità kompetenti tal- Ġurisdizzjoni Kontraenti li tagħha dik il-persuna hi resident u tinkludi d-dispożizzjonijiet li taħthom, jekk il-każ ippreżentat minn dik il-persuna jaqa’ taħt id-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jirrigwardaw ebda diskriminazzjoni bbażata fuq in-nazzjonalità, il-każ jista’ jiġi ppreżentat lill-awtorità kompetenti tal- Ġurisdizzjoni Kontraenti li tagħha dik il-persuna hi ċittadin.
 
 ii) It-tieni sentenza tal-paragrafu 1 għandha tapplika minflok id-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jipprovdu li każ imsemmi fl-ewwel sentenza tal-paragrafu 1 għandu jiġi preżentat f’perjodu ta’ żmien speċifiku li hu iqsar minn tliet snin mill-ewwel notifika tal-azzjoni li tirriżulta f’tassazzjoni li ma tkunx skont id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta, jew fin-nuqqas ta’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta li jiddeskrivi l-perjodu ta’ żmien li fih tali każ għandu jiġi ppreżentat.
 
@@ -709,9 +593,7 @@ ii) It-tieni sentenza tal-paragrafu 3 għandha tapplika fin-nuqqas ta’ dispoż
 
 \5. Parti tista’ tirriżerva d-dritt:
 
-*35*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 a) li l-ewwel sentenza tal-paragrafu 1 ma tapplikax għall-Ftehimiet dwar Taxxa Koperta tagħha abbażi tal-fatt li biħsiebha tosserva l-istandard minimu biex ittejjeb ir-riżoluzzjoni ta’ tilwim taħt il-Pakkett OECD/G20 BEPS billi tiżgura li taħt kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha (ħlief Ftehim dwar Taxxa Koperta li jippermetti li persuna tippreżenta każ lill-awtorità kompetenti ta’ xi waħda mill-Ġurisdizzjonijiet Kontraenti), meta persuna jidhrilha li l-azzjonijiet ta’ waħda mill-Ġurisdizzjonijiet Kontraenti jew tat-tnejn jirriżultaw jew ser jirriżultaw li dik il-persuna tiġi intaxxata b’mod li ma jkunx skont id-dispożizzjonijiet tal- Ftehim dwar Taxxa Koperta, irrispettivament mir-rimedji previsti bil-liġi domestika ta’ dawk il-Ġurisdizzjonijiet Kontraenti, dik il-persuna tista’ tippreżenta l-każ lill-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti li tagħha l-persuna hi resident jew, jekk il-każ ippreżentat minn dik il-persuna jaqa’ taħt dispożizzjoni ta’ Ftehim dwar Taxxa Koperta li għandu x’jaqsam ma’ ebda diskriminazzjoni bbażata fuq nazzjonalità, lil dik tal-Ġurisdizzjoni Kontraenti li tagħha dik il-persuna hi ċittadin; u l-awtorità kompetenti ta’ dik il-Ġurisdizzjoni Kontraenti għandha timplimenta proċess ta’ notifika bilaterali jew ta’ konsultazzjoni mal-awtorità kompetenti tal- Ġurisdizzjoni Kontraenti l-oħra għal każijiet li fihom l-awtorità kompetenti li lilha ġie ppreżentat il-każ ta’ proċedura dwar ftehim reċiproku ma jdhirlhiex li l-oġġezzjoni ta’ min jħallas it-taxxa hi ġustifikata;
+a) li l-ewwel sentenza tal-paragrafu 1 ma tapplikax għall-Ftehimiet dwar Taxxa Koperta tagħha abbażi tal-fatt li biħsiebha tosserva l-istandard minimu biex ittejjeb ir-riżoluzzjoni ta’ tilwim taħt il-Pakkett OECD/G20 BEPS billi tiżgura li taħt kull wieħed mill-Ftehimiet dwar Taxxa Koperta tagħha (ħlief Ftehim dwar Taxxa Koperta li jippermetti li persuna tippreżenta każ lill-awtorità kompetenti ta’ xi waħda mill-Ġurisdizzjonijiet Kontraenti), meta persuna jidhrilha li l-azzjonijiet ta’ waħda mill-Ġurisdizzjonijiet Kontraenti jew tat-tnejn jirriżultaw jew ser jirriżultaw li dik il-persuna tiġi intaxxata b’mod li ma jkunx skont id-dispożizzjonijiet tal- Ftehim dwar Taxxa Koperta, irrispettivament mir-rimedji previsti bil-liġi domestika ta’ dawk il-Ġurisdizzjonijiet Kontraenti, dik il-persuna tista’ tippreżenta l-każ lill-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti li tagħha l-persuna hi resident jew, jekk il-każ ippreżentat minn dik il-persuna jaqa’ taħt dispożizzjoni ta’ Ftehim dwar Taxxa Koperta li għandu x’jaqsam ma’ ebda diskriminazzjoni bbażata fuq nazzjonalità, lil dik tal-Ġurisdizzjoni Kontraenti li tagħha dik il-persuna hi ċittadin; u l-awtorità kompetenti ta’ dik il-Ġurisdizzjoni Kontraenti għandha timplimenta proċess ta’ notifika bilaterali jew ta’ konsultazzjoni mal-awtorità kompetenti tal- Ġurisdizzjoni Kontraenti l-oħra għal każijiet li fihom l-awtorità kompetenti li lilha ġie ppreżentat il-każ ta’ proċedura dwar ftehim reċiproku ma jdhirlhiex li l-oġġezzjoni ta’ min jħallas it-taxxa hi ġustifikata;
 
 b) li t-tieni sentenza tal-paragrafu 1 ma tapplikax għall-Ftehimiet dwar Taxxa Koperta tagħha li ma jipprovdux li l-każ imsemmi fl-ewwel sentenza tal-paragrafu 1 għandu jiġi ppreżentat f’perjodu speċifiku ta’ żmien abbażi tal-fatt li biħsiebha tosserva l-istandard minimu biex ittejjeb r-riżoluzzjoni ta’ tilwim taħt il-pakkett OECD/G20 BEPS billi tiżgura li għall-finijiet ta’ dawk il-Ftehimiet kollha dwar Taxxa Koperta min iħallas it-taxxa, imsemmi fil-paragrafu 1, ikun jista’ jppreżenta l-każ f’perjodu ta’ għall-inqas tliet snin minn l-ewwel notifika tal-azzjoni li tirriżulta f’tassazzjoni li ma tkunx skont id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta;
 
@@ -719,11 +601,7 @@ b) li t-tieni sentenza tal-paragrafu 1 ma tapplikax għall-Ftehimiet dwar Taxxa 
 
 i) kull ftehim li jintlaħaq permezz tal-proċedura dwar ftehim reċiproku għandu jiġi implimentat minkejja kull limitu ta’ żmien fil-liġijiet domestiċi tal-Ġurisdizzjonijiet Kontraenti; jew
 
-ii) biħsiebha tosserva l-istandard minimu [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-biex ittejjeb ir-riżoluzzjoni ta’ tilwim taħt il-pakkett OECD/G20 BEPS billi taċċetta, fin-negozjati bilaterali dwar it-trattat, dispożizzjoni fir-trattat li tipprovdi li:
-
-*36*
+ii) biħsiebha tosserva l-istandard minimu biex ittejjeb ir-riżoluzzjoni ta’ tilwim taħt il-pakkett OECD/G20 BEPS billi taċċetta, fin-negozjati bilaterali dwar it-trattat, dispożizzjoni fir-trattat li tipprovdi li:
 
 A) il-Ġurisdizzjonijiet Kontraenti m’għandhom jagħmlu ebda aġġustament għall-profitti li huma attribwibbli għal stabbiliment permanenti ta’ intrapriża ta’ waħda mill- Ġurisdizzjonijiet Kontraenti wara perjodu li jiġi miftiehem reċiprokament bejn iż-żewġ Ġurisdizzjonijiet Kontraenti mit-tmiem tas-sena taxxabbli li fiha l-profitti kienu jkunu attribwibbli għall-istabbiliment permanenti (din id-dispożizzjoni m’għandhiex tapplika fil-każ ta’ frodi, negliġenza kbira jew nuqqas intenzjonat); u
 
@@ -733,11 +611,9 @@ B) il-Ġurisdizzjonijiet Kontraenti m’għandhomx jinkludu fil-profitti ta’ i
 
 b) Kull Parti li ma għamlietx ir-riżerva msemmija fis-subparagrafu b) tal-paragrafu 5 għandha tinnotifika lid- Depożitarju dwar:
 
-i) il-lista tal-Ftehimiet dwar Taxxa Koperta tagħha TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 li fihom dispożizzjoni li tipprovdi li każ imsemmi fl-ewwel sentenza tal-paragrafu 1 għandu jiġi ppreżentat f’perjodu ta’ żmien speċifiku li jkun inqas minn tliet snin mill-ewwel notifika tal-azzjoni li tirriżulta f’tassazzjoni li ma tkunx skont id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni; dispożizzjoni ta’ Ftehim dwar Taxxa Koperta għandha tiġi sostitwita bit-tieni sentenza tal-paragrafu 1 meta l- Ġurisdizzjonijiet Kontraenti kollha jagħmlu dik in-notifika fir-rigward ta’ dik id-dispożizzjoni; f’każijiet oħra, bla ħsara għall-klawsola ii), it-tieni sentenza tal-paragrafu 1 għandha tieħu post id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta sal-limitu biss li dawk id-dispożizzjonijiet huma inkompatibbli mat-tieni sentenza tal-paragrafu 1;
+i) il-lista tal-Ftehimiet dwar Taxxa Koperta tagħha li fihom dispożizzjoni li tipprovdi li każ imsemmi fl-ewwel sentenza tal-paragrafu 1 għandu jiġi ppreżentat f’perjodu ta’ żmien speċifiku li jkun inqas minn tliet snin mill-ewwel notifika tal-azzjoni li tirriżulta f’tassazzjoni li ma tkunx skont id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni; dispożizzjoni ta’ Ftehim dwar Taxxa Koperta għandha tiġi sostitwita bit-tieni sentenza tal-paragrafu 1 meta l- Ġurisdizzjonijiet Kontraenti kollha jagħmlu dik in-notifika fir-rigward ta’ dik id-dispożizzjoni; f’każijiet oħra, bla ħsara għall-klawsola ii), it-tieni sentenza tal-paragrafu 1 għandha tieħu post id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta sal-limitu biss li dawk id-dispożizzjonijiet huma inkompatibbli mat-tieni sentenza tal-paragrafu 1;
 
 ii) il-lista tal-Ftehimiet dwar Taxxa Koperta tagħha li fihom dispożizzjoni li tipprovdi li każ imsemmi fl-ewwel sentenza tal-paragrafu 1 għandu jiġi ppreżentat f’perjodu ta’ żmien speċifiku li hu għall-inqas tliet snin mill-ewwel notifika tal-azzjoni li tirriżulta f’tassazzjoni li ma tkunx skont id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta, kif ukoll in-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni; it-tieni sentenza tal-paragrafu 1 m’għandhiex tapplika għal Ftehim dwar Taxxa Koperta fejn xi Ġurisdizzjoni Kontraenti tkun għamlet tali notifika fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta.
-
-*37*
 
 *dwar:*
 
@@ -751,11 +627,7 @@ ii) fil-każ fejn Parti ma għamlietx ir-riżerva msemmija fis-subparagrafu ċ) 
 
 d) Kull Parti għandha tinnotifika lid-Depożitarju
 
-i) il-lista tal-Ftehimiet dwar Taxxa Koperta tagħha [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-li ma fihomx dispożizzjoni msemmija fil-klawsola i) tas-subparagrafu ċ) tal-paragrafu 4; l-ewwel sentenza tal-paragrafu 3 għandha tapplika għal Ftehim dwar Taxxa Koperta fil-każ biss fein il-Ġurisdizzjonijiet Kontraenti kollha jkunu għamlu tali notifika fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta;
-
-*38*
+i) il-lista tal-Ftehimiet dwar Taxxa Koperta tagħha li ma fihomx dispożizzjoni msemmija fil-klawsola i) tas-subparagrafu ċ) tal-paragrafu 4; l-ewwel sentenza tal-paragrafu 3 għandha tapplika għal Ftehim dwar Taxxa Koperta fil-każ biss fein il-Ġurisdizzjonijiet Kontraenti kollha jkunu għamlu tali notifika fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta;
 
 ii) il-lista tal-Ftehimiet dwar Taxxa Koperta tagħha li ma fihomx dispożizzjoni msemmija fil-klawsola ii) tas-subparagrafu ċ) tal-paragrafu 4; it-tieni sentenza tal-paragrafu 3 għandha tapplika għal Ftehim dwar Taxxa Koperta fil-każ biss fein il-Ġurisdizzjonijiet Kontraenti kollha jkunu għamlu tali notifika fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta.
 
@@ -769,11 +641,9 @@ Artikolu 17 - Aġġustamenti Korrispondenti
 
 a) li dan l-Artikolu kollu ma japplikax għall- Ftehimiet dwar Taxxa Koperta tagħha li diġà fihom dispożizzjoni msemmija fil-paragrafu 2;
 
-b) li dan l-Artikolu kollu ma japplikax għall- Ftehimiet dwar Taxxa Koperta tagħha abbażi tal-fatt li fin- TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 nuqqas ta’ dispożizzjoni msemmija fil-paragrafu 2 tal-Ftehim dwar Taxxa Koperta tagħha:
+b) li dan l-Artikolu kollu ma japplikax għall- Ftehimiet dwar Taxxa Koperta tagħha abbażi tal-fatt li fin-nuqqas ta’ dispożizzjoni msemmija fil-paragrafu 2 tal-Ftehim dwar Taxxa Koperta tagħha:
 
 i) ser tagħmel l-aġġustament xieraq imsemmi fil-paragrafu 1; jew
-
-*39*
 
 ii) l-awtorità kompetenti tagħha ser tipprova tirriżolvi l-każ taħt id-dispożizzjonijiet ta’ Ftehim dwar Taxxa Koperta li jirrigwardaw il-proċedura dwar ftehim reċiproku;
 
@@ -789,10 +659,6 @@ Artikolu 19 - Arbitraġġ Mandatorju Vinkolanti
 
 \1. Meta:
 
-*40*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 a) taħt dispożizzjoni ta’ Ftehim dwar Taxxa Koperta (kif tista’ tiġi modifikata bil-paragrafu 1 tal-Artikolu 16 (Proċedura dwar Ftehim Reċiproku)) li tipprovdi li persuna tista’ tippreżenta każ lil awtorità kompetenti ta’ Ġurisdizzjoni Kontraenti meta dik il-persuna jidhrilha li l-azzjonijiet ta’ Ġurisdizzjoni Kontraenti waħda jew tat-tnejn tirriżulta jew ser tirriżulta li dik il-persuna tiġi intaxxata b’mod mhux skont id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta (kif jista’ jiġi modifikat bil-Konvenzjoni), persuna tkun ippreżentat il-każ lill-awtorità kompetenti ta’ Ġurisdizzjoni Kontraenti abbażi tal-fatt li l-azzjonijiet ta’ Ġurisdizzjoni Kontraenti waħda jew tat-tnejn irriżultaw għal dik il-persuna li tiġi intaxxata b’mod mhux skont id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta (kif jista’ jiġi modifikat bil-Konvenzjoni); u
 
 b) l-awtoritajiet kompetenti ma jistgħux jilħqu ftehim biex jirriżolvu l-każ konformement ma’ dispożizzjoni ta’ Ftehim dwar Taxxa Koperta (kif tista’ tiġi modifikata bil-paragrafu 2 tal-Artikolu 16 (Proċedura dwar Ftehim Reċiproku)) li jipprovdi li l-awtorità kompetenti għandha tipprova tirriżolvi l-każ permezz ta’ ftehim reċiproku mal-awtorità kompetenti tal-Ġurisdizzjoni Kontraenti l-oħra, f’perjodu ta’ sentejn li jibda fid-data tal-bidu msemmija fil-paragrafu 8 jew 9, kif ikun il-każ (sakemm, qabel ma jiskadi dak il-perjodu l-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti ma jkunux qablu dwar perjodu ta’ żmien differenti fir-rigward ta’ dak il-każ u jkunu nnotifikaw lill-persuna li ppreżentat il-każ dwar dak il-ftehim),
@@ -801,11 +667,9 @@ kull kwistjoni li ma tiġix solvuta li għandha x’taqsam mal-każ għandha, je
 
 \2. Meta awtorità kompetenti tkun issospendiet l-proċedura dwar ftehim reċiproku msemmi fil-paragrafu 1 minħabba fil-fatt li każ b’kwistjoni waħda jew aktar ikunu simili għal każijiet pendenti quddiem qorti jew tribunal amministrattiv, il-perjodu previst fis-subparagrafu b) tal-paragrafu 1 għandu jieqaf jiddekorri sa meta jew deċiżjoni finali tkun ingħatat mill-qorti jew tribunal amministrattiv jew il-każ ġie sospiż jew irtirat. B’żjieda ma’ dan, meta persuna li ppreżentat il-każ u awtorità kompetenti jkunu qablu li jissospendu l-proċedura dwar ftehim reċiproku, il-perjodu previst fis-subparagrafu b) tal-paragrafu 1 għandu jieqaf jiddekorri sa meta s-sospensjoni titneħħa.
 
-\3. Meta ż-żewġ awtoritajiet kompetenti jaqblu li persuna TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 affettwata direttament bil-każ naqset milli tipprovdi b’mod f’waqtu kull informazzjoni materjali addizzjonali mitluba minn waħda mill-awtoritajiet kompetenti wara il-bidu tal-perjodu previst fis-subparagrafu b) tal-paragrafu 1, il-perjodu previst fis-subparagrafu b) tal-paragrafu 1 għandu jiġi estiż għal ammont ta’ żmien ugwali għall-perjodu li jibda fid-data li bih ġiet mitluba l-informazzjoni u jintemm fid-data li fiha tingħata dik l-informazzjoni.
+\3. Meta ż-żewġ awtoritajiet kompetenti jaqblu li persuna affettwata direttament bil-każ naqset milli tipprovdi b’mod f’waqtu kull informazzjoni materjali addizzjonali mitluba minn waħda mill-awtoritajiet kompetenti wara il-bidu tal-perjodu previst fis-subparagrafu b) tal-paragrafu 1, il-perjodu previst fis-subparagrafu b) tal-paragrafu 1 għandu jiġi estiż għal ammont ta’ żmien ugwali għall-perjodu li jibda fid-data li bih ġiet mitluba l-informazzjoni u jintemm fid-data li fiha tingħata dik l-informazzjoni.
 
 \4. a) Id-deċiżjoni tal-arbitraġġ dwar il-kwistjonijiet sottomessi għal arbitraġġ għandhom jiġu implimentati permezz tal-ftehim reċiproku li jirrigwada l-każ imsemmi fil-paragrafu 1. Id-deċiżjoni tal-arbitraġġ tkun finali.
-
-*41*
 
 b) Id-deċiżjoni tal-arbitraġġ għandha tkun vinkolanti fuq iż-żewġ Ġurisdizzjonijiet Kontraenti ħlief fil-każijiet li ġejjin:
 
@@ -815,11 +679,7 @@ ii) jekk deċiżjoni finali tal-qrati ta’ waħda mill- Ġurisdizzjonijiet Kont
 
 iii) jekk persuna afftettwata direttament bil-każ tibqa’ għaddejja bil-litigazzjoni fuq il-kwistjonijiet, li kienu ġew solvuti fil-ftehim reciproku li jimplimenta d-deċiżjoni tal-arbitraġġ, f’xi qorti jew tribunal amministrattiv.
 
-\5. L-awtorità kompetenti li tkun irċeviet talba inizjali għal proċedura dwar ftehim reċiproku kif imsemmi fis-subparagrafu a) tal- [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-paragrafu 1 għandha, fi żmien xahrejn kalendarji minn meta tirċievi t-talba:
-
-*42*
+\5. L-awtorità kompetenti li tkun irċeviet talba inizjali għal proċedura dwar ftehim reċiproku kif imsemmi fis-subparagrafu a) tal-paragrafu 1 għandha, fi żmien xahrejn kalendarji minn meta tirċievi t-talba:
 
 a) tibgħat notifika lill-persuna, li ppreżentat il-każ, li rċeviet it-talba; u
 
@@ -845,9 +705,7 @@ b) id-data li taħbat tliet xhur kalendarji wara n-notifika lill-awtorità kompe
 
 \9. Meta tkun ġiet mitluba informazzjoni addizzjonali konformement mas-subparagrafu b) tal-paragrafu 6, id-data dal-bidu msemmija fil-paragrafu 1 tkun dik li tiġi l-aktar kmieni minn:
 
-*43*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 a) l-aktar data tal-aħħar li fiha l-awtoritajiet kompetenti li talbu l-informazzjoni addizzjonali jkunu nnotifikaw lill-persuna li ppreżentat il-każ u lill-awtorità kompetenti l-oħra konformement mas-subparagrafu a) tal-paragrafu 7; u
+a) l-aktar data tal-aħħar li fiha l-awtoritajiet kompetenti li talbu l-informazzjoni addizzjonali jkunu nnotifikaw lill-persuna li ppreżentat il-każ u lill-awtorità kompetenti l-oħra konformement mas-subparagrafu a) tal-paragrafu 7; u
 
 b) id-data li taħbat tliet xhur kalendarji wara li ż-żewġ awtoritajiet kompetenti jkunu rċevew l-informazzjoni kollha mitluba minn waħda mill-awtoritajiet kompetenti mingħand il-presuna li ppreżentat il-każ.
 
@@ -863,10 +721,6 @@ a) kull kwistjoni mhux solvuta li tinħoloq minn każ dwar proċedura dwar ftehi
 
 b) jekk, f’xi żmien wara li tkun saret talba għal arbitraġġ u qabel ma l-panel tal-arbitraġġ ikun wassal id-deċiżjoni tiegħu lill-awtoritajiet kompetenti tal- Ġurisdizzjonijiet Kontraenti, tingħata deċiżjoni dwar il-kwistjoni minn qorti jew tribunal amministrattiv ta’ waħda mill-Ġurisdizzjonijiet Kontraenti, il-proċess tal-arbitraġġ għandu jintemm.
 
-*44*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 Artikolu 20 - Ħatra ta’ Arbitri
 
 \1. Ħlief sal-limitu li l-awtoritajiet kompetenti tal- Ġurisdizzjonijiet Kontraenti jiftiehmu reċiprokament fuq regoli differenti, il-paragrafi 2 sa 4 għandhom japplikaw għall-finijiet ta’ din it-Taqsima.
@@ -881,11 +735,9 @@ b) Kull awtorità kompetenti għandha taħtar membru wieħed tal-panel fi żmien
 
 \3. Fl-eventwalità li l-awtorità kompetenti ta’ Ġurisdizzjoni Kontraenti tonqos milli taħtar membru tal-panel tal-arbitraġġ bil-mod u fil-perjodi ta’ żmien speċifikati fil-paragrafu 2 jew miftiehmin bejn l-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti, għandu jinħatar membru f’isem dik l-awtorità kompetenti mill-uffiċjal l-aħtar għoli taċ-Ċentru għall-Politika dwar it-Taxxa u l-Amministrazzjoni tal-Organizzazzjoni għall-Kooperazzjoni Ekonomika u Żvilupp li ma jkunx ċittadin ta’ xi waħda mill-Ġurisdizzjonijiet Kontraenti.
 
-\4. Jekk iż-żewġ membri inizjali tal-panel tal-arbitraġġ jonqsu milli jaħtru s-Sedja bil-mod u fil-prjodi ta’ żmien speċifikati fil-paragrafu 2 jew miftiehmin bejn l-awtoritajiet kompetenti tal- Ġurisdizzjonijiet Kontraenti, is-Sedja għandha tinħatar mill-uffiċjal l-aħtar għoli taċ-Ċentru għall-Politika dwar it-Taxxa u l- Amministrazzjoni tal-Organizzazzjoni għall-Kooperazzjoni TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 Ekonomika u Żvilupp hekk li ma tkunx ċittadin ta’ xi waħda mill- Ġurisdizzjonijiet Kontraenti.
+\4. Jekk iż-żewġ membri inizjali tal-panel tal-arbitraġġ jonqsu milli jaħtru s-Sedja bil-mod u fil-prjodi ta’ żmien speċifikati fil-paragrafu 2 jew miftiehmin bejn l-awtoritajiet kompetenti tal- Ġurisdizzjonijiet Kontraenti, is-Sedja għandha tinħatar mill-uffiċjal l-aħtar għoli taċ-Ċentru għall-Politika dwar it-Taxxa u l- Amministrazzjoni tal-Organizzazzjoni għall-Kooperazzjoni Ekonomika u Żvilupp hekk li ma tkunx ċittadin ta’ xi waħda mill- Ġurisdizzjonijiet Kontraenti.
 
 **Artikolu 21 - Kunfidenzjalità ta’ Proċeduri ta’ Arbitraġġ**
-
-*45*
 
 \1. Għall-finijiet biss tal-applikazzjoni tad-dispożizzjonijiet ta’ din it-Taqsima u d-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta rilevanti u tal-liġijiet domestiċi tal-Ġurisdizzjonijiet Kontraenti li għandhom x’jaqsmu mal-iskambju ta’ informazzjoni, kunfidenzjalità u assistenza amministrattiva, il-membri tal-panel tal-arbitraġġ u massimu ta’ tliet persuni tal-persunal għal kull membru (u għal kull arbitru prospettiv sal-limitu biss li tiġi verifikata l-kapaċità tagħhom li jilħqu r-rekwiżiti ta’ arbitri) għandhom jitqiesu bħala persuni jew awtoritajiet li lilhom tista’ tiġi żvelata informazzjoni. Informazzjoni li jirċievu l-panel tal-arbitraġġ jew arbitri prospettivi u informazzjoni li l-awtoritajiet kompetenti jirċievu mill-panel tal-arbitraġġ għandha titqies bħala informazzjoni li hi skambjata taħt id-dispożizzjonijiet tal-Ftehim dwar Taxxa Koperta li għandhom x’jaqsmu mal-iskambju ta’ informazzjoni u l-assistenza amministrattiva.
 
@@ -901,21 +753,15 @@ b) il-persuna li ppreżentat il-każ tirtira t-talba għall-arbitraġġ jew it- 
 
 Artikolu 23 - Tip ta’ Proċess ta’ Arbitraġġ
 
-\1. Hlief sal-limitu li l-awtoritajiet kompetenti tal- TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-Ġurisdizzjonijiet Kontraenti jiftiehmu reċiprokament dwr regoli differenti, ir-regoli li ġejjin għandhom japplikaw fir-rigward ta’ proċedura ta’ arbitraġġ konformi ma’ din it-Taqsima:
-
-*[L.S. 123.183 46*
+\1. Hlief sal-limitu li l-awtoritajiet kompetenti tal- Ġurisdizzjonijiet Kontraenti jiftiehmu reċiprokament dwr regoli differenti, ir-regoli li ġejjin għandhom japplikaw fir-rigward ta’ proċedura ta’ arbitraġġ konformi ma’ din it-Taqsima:
 
 a) Wara li każ jiġi sottomess għall-arbitraġġ, l-awtorità kompetenti ta’ kull waħda mill-Ġurisdizzjonijiet Kontraenti għandha tissottometti lill-panel tal-arbitraġġ, sa data stabbilita bi ftehim, soluzzjoni proposta li tindirizza l-kwistjoni(jiet) kollha mhux solvuti fil-każ (meta jitqiesu l-ftehimiet kollha li ntlaħqu qabel fil-każ bejn l-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti). Is-soluzzjoni proposta għandha tkun limitata għal disponiment ta’ ammonti monetarji speċifiċi (pereżempju, ta’ income jew spejjeż) jew, fejn ikun speċifikat, ir-rata massima ta’ taxxa miġbura skont il- Ftehim dwar Taxxa Koperta, għal kull aġġustament jew kwistjoni simili fil-każ. F’każ fejn l-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti ma rnexxielhomx jaslu għal ftehim fuq kwistjoni li tirrigwarda l-kondizzjonijiet għall-applikazzjoni ta’ dispożizzjoni tal-Ftehim dwar Taxxa Koperta rilevanti (hawn iżjed ’il quddiem imsejħa "il-kwistjoni preliminari"), bħal ma hi jekk individwu huwiex resident jew jekk jeżistix stabbiliment permanenti, l-awtoritajiet kompetenti jistgħu jissottomettu soluzzjonijiet proposti alternattivi fir-rigward ta’ kwistjonijiet li d-determinazzjoni tagħhom hi kontinġenti fuq is-soluzzjoni ta’ tali kwistjonijiet preliminari.
 
 b) L-awtorità kompetenti ta’ kull waħda mill- Ġurisdizzjonijiet Kontraenti tista’ tissottometti wkoll dokument ta’ appoġġ dwar il-pożizzjoni għall-konsiderazzjoni tal-panel tal-arbitraġġ. Kull waħda mill-awtoritajiet kompetenti li tissottometti soluzzjoni proposta jew dokument ta’ appoġġ dwar il-pożizzjoni għandha tipprovdi kopja lill-awtorità kompetenti l-oħra sad-data meta kellhom jiġu sottomessi s-soluzzjoni proposta u d-dokument ta’ appoġġ dwar il-pożizzjoni. Kull waħda mill-awtoritajiet kompetenti tista’ wkoll tissottometti lill-panel tal-arbitraġġ, sa data stabbilita bi ftehim, sottomissjoni ta’ tweġiba fir-rigward tas-soluzzjoni proposta u d-dokument ta’ appoġġ dwar il-pożizzjoni sottomessi mill-awtorità kompetenti l-oħra. Kopja tat-tweġiba għandha tingħata lill-awtorità kompetenti l-oħra sad-data meta kella tiġi sottomessa s-sottomissjoni tat-tweġiba.
 
-ċ) Il-panel tal-arbitraġġ għandu jagħżel bħala d-deċiżjoni tiegħu waħda mis-soluzzjonijiet proposti għall-każ sottomessi mill-awtoritajiet kompetenti fir-rigward ta’ kull kwistjoni kif ukoll dwar kull kwistjoni preliminari, u mgħandux jinkludi rationale jew xi spjegazzjoni oħra dwar id- TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 deċiżjoni. Id-deċiżjoni tal-arbitraġġ għandha tiġi adottata b’maġġoranza sempliċi tal-membri tal-panel. Il-panel tal-arbitraġġ għandu jibgħat d-deċiżjoni tiegħu bil-miktub lill-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti. Id-deċizjoni tal-arbitraġġ ma jkollha l-ebda valur bħala preċedent.
+ċ) Il-panel tal-arbitraġġ għandu jagħżel bħala d-deċiżjoni tiegħu waħda mis-soluzzjonijiet proposti għall-każ sottomessi mill-awtoritajiet kompetenti fir-rigward ta’ kull kwistjoni kif ukoll dwar kull kwistjoni preliminari, u mgħandux jinkludi rationale jew xi spjegazzjoni oħra dwar id-deċiżjoni. Id-deċiżjoni tal-arbitraġġ għandha tiġi adottata b’maġġoranza sempliċi tal-membri tal-panel. Il-panel tal-arbitraġġ għandu jibgħat d-deċiżjoni tiegħu bil-miktub lill-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti. Id-deċizjoni tal-arbitraġġ ma jkollha l-ebda valur bħala preċedent.
 
 \2. Għall-finijiet tal-applikazzjoni ta’ dan l-Artikolu fir-rigward tal-Ftehimiet dwar Taxxa Koperta tagħha, Parti tista’ tirriżerva d-dritt li l-paragrafu 1 ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha. F’dan il-każ, ħlief ssal-limitu li l-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti jiftiehmu reċiprokament dwar regoli differenti, ir-regoli li ġejjin għandhom japplikaw fir-rigward ta’ proċedura ta’ arbitraġġ:
-
-*47*
 
 a) Wara li każ jiġi sottomess għall-arbitraġġ, l-awtorità kompetenti ta’ kull waħda mill-Ġurisdizzjonijiet Kontraenti għandha tipprovdi kull informazzjoni li tista’ tkun neċessarja għad-deċiżjoni tal-arbitraġġ lill-membri kollha tal-panel mingħajr wisq dewmien. Sakemm l-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti ma jiftiehmux mod ieħor, l-ebda informazzjoni li ma kienitx disponibbli għaż-żewġ awtoritajiet kompetenti qabel ma ż-żewġ awtoritajiet kompetenti rċevew it-talba għall-arbitraġġ ma għandha tittieħed f’kunsiderazzjoni għall-finijiet tad-deċiżjoni.
 
@@ -923,11 +769,7 @@ b) Il-panel tal-arbitraġġ għandu jiddeċiedi dwar il-kwistjonijiet sottomessi
 
 ċ) Id-deċiżjoni tal-arbitraġġ għandha tintbagħat lill-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti bil-miktub u għandha tindika l-għejjun ta’ liġi li fuqhom ġiet ibbażata u r-raġunament li wassal għar-riżultat tiegħu. Id-deċiżjoni tal-arbitraġġ għandha tiġi adottata b’maġġoranza sempliċi tal-membri tal-panel. Id-deċizjoni tal-arbitraġġ ma jkollha l-ebda valur bħala preċedent.
 
-\3. Parti li ma għamlietx ir-riżerva msemmija fil-paragrafu 2 tista’ tirriżerva d-dritt li l-paragrafi preċedenti ma japplikawx fir-rigward tal-Ftehimiet dwar Taxxa Koperta tagħha ma Partijiet li għamlu tali riżerva. F’każ bħal dan, l-awtoritajiet kompetenti tal- Ġurisdizzjonijiet Kontraenti ta’ kull tali Ftehim dwar Taxxa Koperta għandhom jippruvaw jaslu għal ftehim dwar it-tip ta’ proċess ta’ [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-arbitraġġ li għandu japplika fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta. Sakemm jintlaħaq tali ftehim, l-Artikolu 19 (Arbitraġġ Mandatorju Vinkolanti) m’għandux japplika għal tali Ftehim dwar Taxxa Koperta.
-
-*48*
+\3. Parti li ma għamlietx ir-riżerva msemmija fil-paragrafu 2 tista’ tirriżerva d-dritt li l-paragrafi preċedenti ma japplikawx fir-rigward tal-Ftehimiet dwar Taxxa Koperta tagħha ma Partijiet li għamlu tali riżerva. F’każ bħal dan, l-awtoritajiet kompetenti tal- Ġurisdizzjonijiet Kontraenti ta’ kull tali Ftehim dwar Taxxa Koperta għandhom jippruvaw jaslu għal ftehim dwar it-tip ta’ proċess ta’ arbitraġġ li għandu japplika fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta. Sakemm jintlaħaq tali ftehim, l-Artikolu 19 (Arbitraġġ Mandatorju Vinkolanti) m’għandux japplika għal tali Ftehim dwar Taxxa Koperta.
 
 \4. Parti tista’ wkoll tagħżel li tapplika l-paragrafu 5 fir-rigward tal-Ftehimiet dwar Taxxa Koperta tagħha u għandha tinnotifika lid-Depożitarju skont hekk. Il-paragrafu 5 għandu japplika għal żewġ Ġurisdizzjonijiet Kontraenti fir-rigward ta’ Ftehim dwar Taxxa Koperta meta xi waħda mill-Ġurisdizzjonijiet Kontraenti tkun għamlet tali notifika.
 
@@ -941,11 +783,9 @@ Artikolu 24 - Ftehim fuq Soluzzjoni Differenti
 
 \1. Għall-finijiet li tiġi applikata din it-Taqsima fir-rigward tal-Ftehimiet dwar Taxxa Koperta tagħha, Parti tista’ tagħżel li tapplika l-paragrafu 2 u għandha tinnotifika lid-Depożitarju skont hekk. Il-paragrafu 2 għandu japplika għaż-żewġ Ġurisdizzjonijiet Kontraenti fir-rigward ta’ Ftehim dwar Taxxa Koperta fil-każ biss fejn iż-żewġ Ġurisdizzjonijiet Kontraenti jkunu għamlu tali notifika.
 
-\2. Minkejja l-paragrafu 4 tal-Artikolu 19 (Arbitraġġ Mandatorju Vinkolanti), deċiżjoni ta’ arbitraġġ konformi ma’ din it- Taqsima ma tkunx vinkolanti fuq il-Ġurisdizzjonijiet Kontraenti għal Ftehim dwar Taxxa Koperta u ma tiġix implimentata jekk l-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti jiftiehmu fuq TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 soluzzjoni differenti dwar kwisjonijiet pendenti fi żmien tliet xhur kalendarji wara li d-deċiżjoni tal-arbitraġġ tkun ġiet konsenjata lilhom.
+\2. Minkejja l-paragrafu 4 tal-Artikolu 19 (Arbitraġġ Mandatorju Vinkolanti), deċiżjoni ta’ arbitraġġ konformi ma’ din it- Taqsima ma tkunx vinkolanti fuq il-Ġurisdizzjonijiet Kontraenti għal Ftehim dwar Taxxa Koperta u ma tiġix implimentata jekk l-awtoritajiet kompetenti tal-Ġurisdizzjonijiet Kontraenti jiftiehmu fuq soluzzjoni differenti dwar kwisjonijiet pendenti fi żmien tliet xhur kalendarji wara li d-deċiżjoni tal-arbitraġġ tkun ġiet konsenjata lilhom.
 
 \3. Parti li tagħżel li tapplika l-paragrafu 2 tista’ tirriżerva d-dritt li l-paragrafu 2 japplika fir-rigward biss tal-Ftehimiet dwar Taxxa Koperta tagħha li għalihom japplika l-paragrafu 2 tal-Artikolu 23 (Tip ta’ Proċess ta’ Arbitraġġ).
-
-*49*
 
 Artikolu 25 - Spejjeż ta’ Proċeduri ta’ Arbitraġġ
 
@@ -957,11 +797,7 @@ Artikolu 26 - Kompatibilità
 
 \2. Kull kwistjoni pendenti li tinħoloq mod ieħor minn każ ta’ proċedura għal ftehim reċiproku fi ħdan l-iskop tal-proċess ta’ arbitraġġ previst f’din it-Taqsima m’għandhiex tiġi sottomessa għal arbitraġġ jekk il-kwistjoni taqa’ fi ħdan l-iskop ta’ każ li dwaru ġie stabbilit preċedentement panel tal-arbitraġġ jew korp simili skont konvenzjoni bilaterali jew multilaterali li tipprovdi għal arbitraġġ mandatorju vinkolanti għal kwistjonijiet pendenti li jinħolqu minn każ ta’ proċedura għal ftehim reċiproku.
 
-\3. Bla ħsara għall-paragrafu 1, xejn f’din it-Taqsima ma [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-għandu jaffettwa l-osservanza ta’ obbligi aktar wiesgħa fir-rigward tal-arbitraġġ ta’ kwistjonijiet pendenti li jinħolqu fil-kuntest ta’ proċedura għal ftehim reċiproku li tirriżulta minn konvenzjonijiet oħra li fihom il-Ġurisdizzjonijiet Kontraenti huma jew ser ikunu partijiet.
-
-*50*
+\3. Bla ħsara għall-paragrafu 1, xejn f’din it-Taqsima ma għandu jaffettwa l-osservanza ta’ obbligi aktar wiesgħa fir-rigward tal-arbitraġġ ta’ kwistjonijiet pendenti li jinħolqu fil-kuntest ta’ proċedura għal ftehim reċiproku li tirriżulta minn konvenzjonijiet oħra li fihom il-Ġurisdizzjonijiet Kontraenti huma jew ser ikunu partijiet.
 
 \4. Parti tista’ tirriżerva d-dritt li din it-Taqsima ma tapplikax fir-rigward tal-Ftehimiet dwar Taxxa Koperta identifikati wieħed jew aktar (jew għall-Ftehimiet dwar Taxxa Koperta kollha tagħha) li diġà jipprovdu għal arbitraġġ mandatorju vinkolanti għal kwistjonijiet pendenti li jinħolqu minn każ ta’ proċedura għal ftehim reċiproku.
 
@@ -989,9 +825,7 @@ b) il-paragrafu 3 tal-Artikolu 4 (Entitajiet ta’ Residenza Doppja);
 
 ċ) Il-paragrafi 8 u 9 tal-Artikolu 5 (Applikazzjoni tal-Metodi għall-Eliminazzjoni ta’ Taxxa Doppja);
 
-*51*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 d) Il-paragrafu 4 tal-Artikolu 6 (Għan ta’ Ftehim dwar Taxxa Koperta);
+d) Il-paragrafu 4 tal-Artikolu 6 (Għan ta’ Ftehim dwar Taxxa Koperta);
 
 e) Il-paragrafi 15 u 16 tal-Artikolu 7 (Prevenżjoni ta’ Abbuż ta’ Trattat);
 
@@ -1021,11 +855,7 @@ q) Il-paragrafi 2, 3, 6, u 7 tal-Artikolu 23 (Tip ta’ Proċess ta’ Arbitraġ
 
 r) Il-paragrafu 3 tal-Artikolu 24 (Ftehim fuq Soluzzjoni Differenti);
 
-s) Il-paragrafu 4 tal-Artikolu 26 (Kompatibilità); [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-t) Il-paragrafi 6 u 7 tal-Artikolu 35 (Bidu tal- Effett); u
-
-*52*
+s) Il-paragrafu 4 tal-Artikolu 26 (Kompatibilità); t) Il-paragrafi 6 u 7 tal-Artikolu 35 (Bidu tal- Effett); u
 
 u) Il-paragrafu 2 tal-Artikolu 36 (Bidu tal-Effett tat-Taqsima VI).
 
@@ -1039,11 +869,9 @@ a) timmodifika għal Parti li tagħmel ir-riżerva fir-relazzjonijiet tagħha ma
 
 b) timmodifika dawk id-dispożizzjonijiet sal-istess limitu għall-Parti l-oħra fir-relazzjonijiet tagħha mal-Parti li tagħmel ir-riżerva.
 
-\4. Riżervi applikabbli għal Ftehimiet dwar Taxxa Koperta TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 konklużi minn jew f’isem ġurisdizzjoni jew territorju li Parti tkun responsabbli għar-relazzjonijiet internazzjonali tagħhom, meta dik il-ġurisdizzjoni jew dak it-territorju mhumiex Partijiet fil-Konvenzjoni konformement mas-subparagrafu b) jew ċ) tal-paragrafu 1 tal- Artikolu 27 (Firma u Ratifika, Aċċettazzjoni jew Approvazzjoni), għandhom isiru mill-Parti responsabbli u jistgħu jkunu differenti mir-riżervi magħmula minn dik il-Parti għall-Ftehimiet dwar Taxxa Koperta tagħha stess.
+\4. Riżervi applikabbli għal Ftehimiet dwar Taxxa Koperta konklużi minn jew f’isem ġurisdizzjoni jew territorju li Parti tkun responsabbli għar-relazzjonijiet internazzjonali tagħhom, meta dik il-ġurisdizzjoni jew dak it-territorju mhumiex Partijiet fil-Konvenzjoni konformement mas-subparagrafu b) jew ċ) tal-paragrafu 1 tal- Artikolu 27 (Firma u Ratifika, Aċċettazzjoni jew Approvazzjoni), għandhom isiru mill-Parti responsabbli u jistgħu jkunu differenti mir-riżervi magħmula minn dik il-Parti għall-Ftehimiet dwar Taxxa Koperta tagħha stess.
 
 \5. Rizervi għandhom isiru fiż-żmien tal-firma jew meta l-istrument jiġi depożitat għar-ratifika, aċċettazzjoni jew approvazzjoni, bla ħsara għad-dispożizzjonijiet tal-paragrafi 2, 6 u 9 ta’ dan l-Artikolu, u l-paragrafu 5 tal-Artikolu 29 (Notifiki). Madankollu, għal Parti li tagħżel taħt l-Artikolu 18 (Għażla li tiġi Applikata t-Taqsima VI) li tapplika t-Taqsima VI (Arbitraġġ) wara li tkun saret Parti f’din il-Konvenzjoni, ir-riżervi msemmija fis-subparagrafi p), q), r) u s) tal-paragrafu 1 ta’ dan l-Artikolu għandhom isiru fl-istess żmien tan-notifika ta’ dik il-Parti lid- Depożitarju konformement mal-Artikolu 18 (Għażla li tiġi Applikata t-Taqsima VI).
-
-*53*
 
 \6. Jekk isiru riżervi fiż-żmien tal-firma, dawn għandhom jiġu kkonfermati mad-depożitu tal-istrument ta’ ratifika, aċċettazzjoni jew approvazzjoni, sakemm id-dokument li fih ir-riżervi ma jispeċifikax espliċitament li għandu jitqies bħala definittiv, bla ħsara għad-dispożizzjonijiet tal-paragrafi 2, 5 u 9 ta’ dan l- Artikolu, u l-paragrafu 5 tal-Artikolu 29 (Notifiki).
 
@@ -1057,11 +885,7 @@ b) Is-subparagrafi b), ċ) u d) tal-paragrafu 3 tal- Artikolu 4 (Entitajiet ta�
 
 ċ) Il-paragrafi 8 u 9 tal-Artikolu 5 (Applikazzjoni tal-Metodi għall-Eliminazzjoni ta’ Taxxa Doppja);
 
-d) Il-paragrafu 4 tal-Artikolu 6 (Għan ta’ Ftehim [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-dwar Taxxa Koperta);
-
-*54*
+d) Il-paragrafu 4 tal-Artikolu 6 (Għan ta’ Ftehim dwar Taxxa Koperta);
 
 e) Is-subparagrafi b) u ċ) tal-paragrafu 15 tal- Artikolu 7 (Prevenżjoni ta’ Abbuż ta’ Trattat);
 
@@ -1087,11 +911,9 @@ o) Il-paragrafu 4 tal-Artikolu 26 (Kompatibilità).
 
 Ir-riżervi msemmijin fis-subparagrafi a) sa o) hawn qabel m’għandhomx japplikaw għal xi Ftehim dwar Taxxa Koperta li mhuwiex inkluż fuq il-lista msemmija f’dan il-paragrafu.
 
-\9. Kull Parti li tkun għamlet riżerva skont il-paragrafu 1 jew 2 tista’ fi kwalunkwe żmien tirtiraha jew tissostitwiha b’riżerva aktar limitata permezz ta’ notifika indirizzata lid-Depożitarju. Dik il- Parti għandha tagħmel kull notifika addizzjonali konformement mal-paragrafu 6 tal-Artikolu 29 (Notifiki) li tista’ tkun meħtieġa bħala riżultat tal-irtirar jew is-sostituzzjoni tar-riżerva. Bla ħsara għall-paragrafu 7 tal-Artikolu 35 (Bidu tal-Effett), l-irtirar jew is- TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 sostituzzjoni għandhom ikollhom effett:
+\9. Kull Parti li tkun għamlet riżerva skont il-paragrafu 1 jew 2 tista’ fi kwalunkwe żmien tirtiraha jew tissostitwiha b’riżerva aktar limitata permezz ta’ notifika indirizzata lid-Depożitarju. Dik il- Parti għandha tagħmel kull notifika addizzjonali konformement mal-paragrafu 6 tal-Artikolu 29 (Notifiki) li tista’ tkun meħtieġa bħala riżultat tal-irtirar jew is-sostituzzjoni tar-riżerva. Bla ħsara għall-paragrafu 7 tal-Artikolu 35 (Bidu tal-Effett), l-irtirar jew is-sostituzzjoni għandhom ikollhom effett:
 
 a) fir-rigward ta’ Ftehim dwar Taxxa Koperta unikament mal-Istati jew ġurisdizzjonijiet li huma Partijiet fil- Konvenzjoni meta d-Depożitarju jirċievi n-notifika tal-irtirar jew tas-sostituzzjoni tar-riżerva:
-
-*55*
 
 i) għal riżervi li jirrigwardaw dispożizzjonijiet li għandhom x’jaqsmu ma’ taxxi miżmuma minn ras il-għajn, meta l-avveniment li jagħti lok għal dawk it-taxxi jkun seħħ fi jew wara l-1 ta’ Jannar tas-sena li tiġi minnufih wara li jiskadi perjodu ta’ sitt xhur kalendarji li jibdew fid-data tal-komunikazzjoni mid-Depożitarju dwar in-notifika dwar l-irtirar jew is-sostituzzjoni tar-riżerva; u
 
@@ -1110,10 +932,6 @@ b) il-paragrafu 6 tal-Artikolu 3 (Entitajiet Trasparenti);
 ċ) Il-paragrafu 4 tal-Artikolu 4 (Entitajiet ta’ Residenza Doppja);
 
 d) Il-paragrafu 10 tal-Artikolu 5 (Applikazzjoni tal- Metodi għall-Eliminazzjoni ta’ Taxxa Doppja);
-
-**TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)**
-
-*[L.S. 123.183 56*
 
 e) Il-paragrafi 5 u 6 tal-Artikolu 6 (Għan ta’ Ftehim dwar Taxxa Koperta);
 
@@ -1145,11 +963,9 @@ r) Il-paragrafu 1 tal-Artikolu 24 (Ftehim fuq Soluzzjoni Differenti);
 
 s) Il-paragrafu 1 tal-Artikolu 26 (Kompatibilità); u
 
-t) Il-paragrafi 1, 2, 3, 5 u 7 tal-Artikolu 35 (Bidu TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 tal-Effett).
+t) Il-paragrafi 1, 2, 3, 5 u 7 tal-Artikolu 35 (Bidu tal-Effett).
 
 \2. Notifiki fir-rigward ta’ Ftehimiet dwar Taxxa Koperta konklużi minn jew f’isem ġurisdizzjoni jew territorju li Parti tkun responsabbli għar-relazzjonijiet internazzjonali tagħhom, meta dik il-ġurisdizzjoni jew dak it-territorju mhumiex Partijiet fil-Konvenzjoni konformement mas-subparagrafu b) jew ċ) tal-paragrafu 1 tal- Artikolu 27 (Firma u Ratifika, Aċċettazzjoni jew Approvazzjoni), għandhom isiru mill-Parti responsabbli u jistgħu jkunu differenti mir-riżervi magħmula minn dik il-Parti għall-Ftehimiet dwar Taxxa Koperta tagħha stess.
-
-*57*
 
 \3. Jekk isiru notifiki fiż-żmien tal-firma, dawn għandhom jiġu kkonfermati mad-depożitu tal-istrument ta’ ratifika, aċċettazzjoni jew approvazzjoni, sakemm id-dokument li fih in-notifiki ma jispeċifikax espliċitament li għandu jitqies bħala definittiv, bla ħsara għad-dispożizzjonijiet tal-paragrafi 5 u 6 ta’ dan l-Artikolu, u l-paragrafu 7 tal-Artikolu 35 (Bidu tal-Effett).
 
@@ -1157,11 +973,7 @@ t) Il-paragrafi 1, 2, 3, 5 u 7 tal-Artikolu 35 (Bidu TASSAZZJONI U T-TRASFERIMEN
 
 \5. Parti tista’ testendi fi kwalunkwe żmien il-lista ta’ ftehimiet notifikati taħt il-klawsola ii) tas-subparagrafu a) tal-paragrafu 1 tal-Artikolu 2 (Tifsir ta’ Frażijiet) permezz ta’ notifika indirizzata lid-Depożitarju. Il-Parti għandha tispeċifika f’din in-notifika jekk il-ftehim jaqax fi ħdan l-iskop ta’ xi waħda mir-riżervi magħmula mill-Parti li huma elenkati fil-paragrafu 8 tal-Artikolu 28 (Riżervi). Il-Parti tista’ ukoll tagħmel riżerva ġdida msemmija fil-paragrafu 8 tal-Artikolu 28 (Riżervi) jekk il-ftehim addizzjonali jkun l-ewwel wieħed li jaqa’ fi ħdan l-iskop ta’ tali riżerva. Il-Parti għandha tispeċifika ukoll kull notifika addizzjonali li tista’ tkun meħtieġa taħt is-subparagrafi b) sa s) tal-paragrafu 1 biex tirrifletti l-inklużjoni tal-ftehimiet addizzjonali. B’żieda ma’ dan, jekk l-estensjoni tirriżulta għall-ewwel darba fl-inklużjoni ta’ ftehim dwar taxxa konkluż minn jew f’isem ġurisdizzjoni jew territorju li Parti hi responsabbli għar-relazzjonijiet internazzjonali tagħhom, il-Parti għandha tispeċifika kull riżerva (konformement mal-paragrafu 4 tal- Artikolu 28 (Riżervi)) jew notifika (konformement mal-paragrafu 2 ta’ dan l-Artikolu) applikabbli għal Ftehimiet dwar Taxxa Koperta konlużi minn jew f’isem dik il-ġurisdizzjoni jew territorju. Fid-data li fiha l-ftehim(iet) addizzjonali notifikat(i) taħt il-klawsola ii) tas-subparagrafu a) tal-paragrafu 1 tal-Artikolu 2 (Tifsir ta’ Frażijiet) isir(u) Ftehim(iet) dwar Taxxa Koperta, id-dispożizzjonijiet tal- Artikolu 35 (Bidu tal-Effett) għandhom jirregolaw id-data li fiha l-modifiki għall-Ftehim dwar Taxxa Koperta għandhom ikollhom effett.
 
-\6. Parti tista’ tagħmel modifiki addizzjonali konformement [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-mas-subparagrafi b) sa s) tal-paragrafu 1 permezz ta’ notifika indirizzata lid-Depożitarju. Dawn in-notifiki għandhom ikollhom effett:
-
-*58*
+\6. Parti tista’ tagħmel modifiki addizzjonali konformement mas-subparagrafi b) sa s) tal-paragrafu 1 permezz ta’ notifika indirizzata lid-Depożitarju. Dawn in-notifiki għandhom ikollhom effett:
 
 a) fir-rigward ta’ Ftehimiet dwar Taxxa Koperta unikament mal-Istati jew ġurisdizzjonijiet li huma Partijiet fil- Konvenzjoni meta d-Depożitarju jirċievi n-notifika addizzjonali:
 
@@ -1181,9 +993,7 @@ Artikolu 31 - Konferenza tal-Partijiet
 
 \2. Il-Konferenza tal-Partijiet għandha tiġi notifikata mid- Depożitarju.
 
-*59*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 3. Kull Parti tista’ titlob Konferenza tal-Partijiet billi tikkomunika talba lid-Depozitarju. Id-Depożitarju għandu jinforma l- Partijiet kollha dwar kull talba. Minn hemm ’il quddiem, id- Depożitarju għandu jsejjaħ Konferenza tal-Partijiet, sakemm it-talba tkun appoġġjata b’terz tal-Partijiet fi żmien sitt xhur kalendarji mill-komunikazzjoni tat-talba lid-Depożitarju.
+\3. Kull Parti tista’ titlob Konferenza tal-Partijiet billi tikkomunika talba lid-Depozitarju. Id-Depożitarju għandu jinforma l- Partijiet kollha dwar kull talba. Minn hemm ’il quddiem, id- Depożitarju għandu jsejjaħ Konferenza tal-Partijiet, sakemm it-talba tkun appoġġjata b’terz tal-Partijiet fi żmien sitt xhur kalendarji mill-komunikazzjoni tat-talba lid-Depożitarju.
 
 Artikolu 32 - Interpretazzjoni u Implimentazzjoni
 
@@ -1207,10 +1017,6 @@ Artikolu 35 - Bidu tal-Effett
 
 \1. Id-dispożizzjonijiet ta’ din il-Konvenzjoni għandhom ikollhom effett f’kull Ġurisdizzjoni Kontraenti fir-rigward ta’ Ftehim dwar Taxxa Koperta:
 
-*60*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 a) fir-rigward ta’ taxxi miżmuma minn ras-il għajn fuq ammonti mħallsa jew akkreditati lil persuni li mhumiex residenti, meta l-avveniment li jagħti lok għal dawk it-taxxi jkun seħħ fi jew wara l-ewwel ġurnata tas-sena kalendarja sussegwenti li tibda fi jew wara l-aħħar waħda mid-dati li fihom din il-Konvenzjoni tidħol fis-seħħ għal kull waħda mill- Ġurisdizzjonijiet Kontraenti għall-Ftehim dwar Taxxa Koperta; u
 
 b) fir-rigward tat-taxxi l-oħra kollha imposti minn dik il-Ġurisdizzjoni Kontraenti, għal taxxi imposti fir-rigward ta’ perjodi taxxabbli li jibdew fi jew wara li jiskadi perjodu ta’ sitt xhur kalendarji (jew perjodu iqsar, jekk il-Ġurisdizzjonijiet Kontraenti kollha jinnotifikaw lid-Depożitarju li biħsiebhom japplikaw tali perjodu iqsar) mill-aħħar data li fiha din il- Konvenzjoni tidħol fis-seħħ għal kull waħda mill- Ġurisdizzjonijiet Kontraenti għall-Ftehim dwar Taxxa Koperta.
@@ -1223,11 +1029,9 @@ b) fir-rigward tat-taxxi l-oħra kollha imposti minn dik il-Ġurisdizzjoni Kontr
 
 \5. Għal Ftehim dwar Taxxa Koperta ġdid li jirriżulta minn estensjoni konformement mal-paragrafu 5 tal-Artikolu 29 (Notifiki) tal-lista ta’ ftehimiet innotifikati taħt il-klawsola ii) tas-subparagrafu a) tal-paragrafu 1 tal-Artikolu 2 (Tifsir ta’ Frażijiet), id-dispożizzjonijiet ta’ din il-Konvenzjoni għandhom ikollhom effett f’kull waħda mill-Ġurisdizzjonijiet Kontraenti:
 
-a) fir-rigward ta’ taxxi miżmuma minn ras-il għajn TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 fuq ammonti mħallsa jew akkreditati lil persuni li mhumiex residenti, meta l-avveniment li jagħti lok għal dawk it-taxxi jkun seħħ fi jew wara l-ewwel ġurnata tas-sena kalendarja sussegwenti li tibda fi jew wara 30 ġurnata wara d-data tal-komunikazzjoni mid-Depożitarju dwar in-notifika tal-estensjoni tal-lista ta’ ftehimiet; u
+a) fir-rigward ta’ taxxi miżmuma minn ras-il għajn fuq ammonti mħallsa jew akkreditati lil persuni li mhumiex residenti, meta l-avveniment li jagħti lok għal dawk it-taxxi jkun seħħ fi jew wara l-ewwel ġurnata tas-sena kalendarja sussegwenti li tibda fi jew wara 30 ġurnata wara d-data tal-komunikazzjoni mid-Depożitarju dwar in-notifika tal-estensjoni tal-lista ta’ ftehimiet; u
 
 b) fir-rigward tat-taxxi l-oħra kollha imposti minn dik il-Ġurisdizzjoni Kontraenti, għal taxxi imposti fir-rigward ta’ perjodi taxxabbli li jibdew fi jew wara li jiskadi perjodu ta’ disa’ xhur kalendarji (jew perjodu iqsar, jekk il- Ġurisdizzjonijiet Kontraenti kollha jinnotifikaw lid- Depożitarju li biħsiebhom japplikaw tali perjodu iqsar) mid-data tal-komunikazzjoni mid-Depożitarju dwar in-notifika tal-estensjoni tal-lista ta’ ftehimiet;.
-
-*61*
 
 \6. Parti tista’ tirriżerva d-dritt li l-paragrafu 4 ma japplikax fir-rigward tal-Ftehimiet dwar Taxxa Koperta tagħha.
 
@@ -1243,11 +1047,7 @@ iii) ir-referenzi fis-subparagrafu a) tal-paragrafu 9 tal-Artikolu 28 (Riżervi)
 
 iv) ir-referenza fis-subparagrafu b) tal-paragrafu 9 tal-Artikolu 28 (Riżervi) għal "fl-aħħar waħda mid-dati li fihom il-Konvenzjoni tidħol fis-seħħ għal dawk il- Ġurisdizzjonijiet Kontraenti";
 
-b’referenzi għal "30 ġurnata wara d-data li d-Depożitarju jirċievi l-aħħar notifika minn kull waħda mill-Ġurisdizzjonijiet Kontraenti li jagħmlu r-riżerva msemmija fil-paragrafu 7 tal- TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-Artikolu 35 (Bidu tal-Effett) li kkompletat il-proċeduri interni tagħha għall-bidu tal-effett tal-irtirar jew tas-sostituzzjoni tar-riżerva fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta speċifiku";
-
-*[L.S. 123.183 62*
+b’referenzi għal "30 ġurnata wara d-data li d-Depożitarju jirċievi l-aħħar notifika minn kull waħda mill-Ġurisdizzjonijiet Kontraenti li jagħmlu r-riżerva msemmija fil-paragrafu 7 tal- Artikolu 35 (Bidu tal-Effett) li kkompletat il-proċeduri interni tagħha għall-bidu tal-effett tal-irtirar jew tas-sostituzzjoni tar-riżerva fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta speċifiku";
 
 v) ir-referenzi fis-subparagrafu a) tal-paragrafu 6 tal-Artikolu 29 (Notifiki) għal "fid-data tal-komunikazzjoni mid-Depożitarju dwar in-notifika addizzjonali"; u
 
@@ -1263,11 +1063,9 @@ viii) ir-referenza fil-paragrafu 3 tal-Artikolu 36 (Bidu tal-Effett tat-Taqsima 
 
 ix) ir-referenzi għall-paragrafu 4 tal-Artikolu 36 (Bidu tal-Effett tat-Taqsima VI) għal "id-data tal-komunikazzjoni mid-Depożitarju dwar in-notifika tal-irtirar tar-riżerva", "id-data tal-komunikazzjoni mid-Depożitarju dwar in-notifika tas-sostituzzjoni tar-riżerva" u "id-data tal-komunikazzjoni mid-Depożitarju dwar in-notifika tal-irtirar tal-oġġezzjoni għar-riżerva"; u
 
-x) ir-referenza fil-paragrafu 5 tal-Artikolu 36 (Bidu tal-Effett tat-Taqsima VI) għal "id-data tal-komunikazzjoni TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 mid-Depożitarju dwar in-notifika addizzjonali";
+x) ir-referenza fil-paragrafu 5 tal-Artikolu 36 (Bidu tal-Effett tat-Taqsima VI) għal "id-data tal-komunikazzjoni mid-Depożitarju dwar in-notifika addizzjonali";
 
 b’referenzi għal "30 ġurnata wara l-d-Depożitarju jirċievi l-aħħar komunikazzjoni minn kull waħda mill-Ġurisdizzjonijiet Kontraenti li jagħmlu r-riżerva msemmija fil-paragrafu 7 tal- Artikolu 35 (Bidu tal-Effett) li tkun ikkompletat il-proċeduri interni tagħha għall-bidu tal-effett tad-dispożizzjonijiet tat- Taqsima VI (arbitraġġ) fir-rigward ta’ dak il-Ftehim dwar Taxxa Koperta speċifiku".
-
-*63*
 
 b) Parti li tagħmel riżerva skont is-subparagrafu a) għandha tinnotifika l-konferma tal-kompletament tal-proċeduri interni tagħha simultanjament lid-Depożitarju u lill- Ġurisdizzjoni(jiet) Kontraenti l-oħra.
 
@@ -1279,11 +1077,7 @@ Artikolu 36 - Bidu tal-Effett tat-Taqsima VI
 
 a) fir-rigward ta’ każijiet ippreżentati lill-awtorità kompetenti ta’ Ġurisdizzjoni Kontraenti (kif imsemmija fis-subparagrafu a) tal-paragrafu 1 tal-Artikolu 19 (Arbitraġġ Mandatorju Vinkolanti)), fi jew wara l-aħħar waħda mid-dati li fihom din il-Konvenzjoni tidħol fis-seħħ għal kull waħda mill- Ġurisdizzjonijiet Kontraenti għall-Ftehim dwar Taxxa Koperta; u
 
-b) fir-rigward ta’ każijiet ippreżentati lill-awtorità kompetenti ta’ Ġurisdizzjoni Kontraenti qabel l-aħħar waħda mid-dati li fihom din il-Konvenzjoni tidħol fis-seħħ għal kull waħda mill-Ġurisdizzjonijiet Kontraenti għall-Ftehim dwar Taxxa Koperta, fid-data meta ż-żewġ Ġurisdizzjonijiet Kontraenti jinnotifikaw lid-Depożitarju li waslu għal ftehim reċiproku konformement mal-paragrafu 10 tal-Artikolu 19 (Arbitraġġ Mandatorju Vinkolanti), flimkien ma’ informazzjoni li tirrigwarda d-data jew dati li fihom dawk il-każijiet jitqiesu li ġew ippreżentati lill-awtorità kompetenti ta’ [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-Ġurisdizzjoni Kontraenti (kif imsemmi fis-subparagrafu a) tal-paragrafu 1 tal-Artikolu 19 (Arbitraġġ Mandatorju Vinkolanti)) skont il-pattijiet ta’ dak il-ftehim reċiproku.
-
-*64*
+b) fir-rigward ta’ każijiet ippreżentati lill-awtorità kompetenti ta’ Ġurisdizzjoni Kontraenti qabel l-aħħar waħda mid-dati li fihom din il-Konvenzjoni tidħol fis-seħħ għal kull waħda mill-Ġurisdizzjonijiet Kontraenti għall-Ftehim dwar Taxxa Koperta, fid-data meta ż-żewġ Ġurisdizzjonijiet Kontraenti jinnotifikaw lid-Depożitarju li waslu għal ftehim reċiproku konformement mal-paragrafu 10 tal-Artikolu 19 (Arbitraġġ Mandatorju Vinkolanti), flimkien ma’ informazzjoni li tirrigwarda d-data jew dati li fihom dawk il-każijiet jitqiesu li ġew ippreżentati lill-awtorità kompetenti ta’ Ġurisdizzjoni Kontraenti (kif imsemmi fis-subparagrafu a) tal-paragrafu 1 tal-Artikolu 19 (Arbitraġġ Mandatorju Vinkolanti)) skont il-pattijiet ta’ dak il-ftehim reċiproku.
 
 \2. Parti tista’ tirriżerva d-dritt li t-Taqsima VI (Arbitraġġ) tapplika għal każ ippreżentat lill-awtorità kompetenti ta’ Ġurisdizzjoni Kontraenti qabel l-aħħar waħda mid-dati li fihom din il-Konvenzjoni tidħol fis-seħħ għal kull waħda mill-Ġurisdizzjonijiet Kontraenti għall-Ftehim dwar Taxxa Koperta sal-limitu biss li l-awtoritajiet kompetenti taż-żewġ Ġurisdizzjonijiet Kontraenti jiftiehmu li tapplika għal dak il-każ speċifiku.
 
@@ -1295,9 +1089,7 @@ b) fir-rigward ta’ każijiet ippreżentati lill-awtorità kompetenti ta’ Ġu
 
 Artikolu 37 - Irtirar
 
-*65*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 1. Kull Parti tista’, f’kull żmien, tirtira minn din il- Konvenzjoni permezz ta’ notifika indirizzata lid-Depożitarju.
+\1. Kull Parti tista’, f’kull żmien, tirtira minn din il- Konvenzjoni permezz ta’ notifika indirizzata lid-Depożitarju.
 
 \2. Irtirar konformement mal-paragrafu isir effettiv fid-data li d-Depożitarju jirċievi n-notifika. Fil-każijiet fejn din il- Konvenzjoni daħlet fis-seħħ fir-rigward tal-Ġurisdizzjonijiet Kontraenti kollha għal Ftehim dwar Taxxa Koperta qabel id-data li fiha l-irtirar ta’ Parti jsir effettiv, dak il-Ftehim dwar Taxxa Koperta għandu jibqa’ kif modifikat b’din il-Konvenzjoni.
 
@@ -1327,11 +1119,7 @@ e) kull emenda proposta għal din il-Konvenżjoni konformement mal-Artikolu 33 (
 
 f) kull irtirar minn din il-Konvenzjoni konformement mal-Artikolu 37 (Irtirar); u
 
-g) kull komunikazzjoni oħra li għandha x’taqsam [L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
-ma’ din il-Konvenzjoni.
-
-*66*
+g) kull komunikazzjoni oħra li għandha x’taqsam ma’ din il-Konvenzjoni.
 
 \3. Id-Depożitarju għandu jżomm listi, li jkunu pubblikament disponibbli, dwar:
 
@@ -1344,10 +1132,6 @@ a) Ftehimiet dwar Taxxa Koperta;
 B’xhieda ta’ dan is-sottoskritti, li huma awtorizzati kif imiss għal dan, iffirmaw din il-Konvenzjoni.
 
 Magħmula f’Pariġi, dan l-24 jum ta’ Novembru 2016, fl-ilsien Ingliż u dak Franċiż, biż-żewġ testi awtentiċi ndaqs, fi kopja waħda li għandha tiġi depożitata fl-arkivji tal-Organizzazzjoni għall- Kooperazzjoni Ekonomika u Żvilupp.
-
-*67*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
 
 ## SKEDA 2
 
@@ -1398,10 +1182,6 @@ FISKALI DWAR
 TAXXI FUQ L-
 
 INCOME
-
-*68*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -1533,10 +1313,6 @@ DWAR
 
 FUQ
 
-*69*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -1626,10 +1402,6 @@ TAXXI FUQ L-
 INCOME U L-
 
 KAPITAL
-
-*70*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -1751,10 +1523,6 @@ TAXXI FUQ L-
 
 INCOME U FUQ IL-
 
-*71*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -1832,10 +1600,6 @@ FISKALI DWAR
 TAXXI FUQ L-
 
 INCOME
-
-*72*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -1979,10 +1743,6 @@ TAXXI FUQ L-
 
 U L-
 
-*73*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -2050,10 +1810,6 @@ FISKALI DWAR
 TAXXI FUQ L-
 
 INCOME
-
-*74*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -2181,10 +1937,6 @@ DWAR
 
 TAXXI FUQ L-
 
-*75*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -2274,10 +2026,6 @@ TIĠI EVITATA
 EVAŻJONI
 
 FISKALI
-
-*76*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -2407,10 +2155,6 @@ DWAR
 
 TAXXI FUQ L-
 
-*77*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -2486,10 +2230,6 @@ FISKALI DWAR
 TAXXI FUQ L-
 
 INCOME
-
-*78*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -2627,10 +2367,6 @@ MINN
 
 TAXXA DOPPJA
 
-*79*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -2716,10 +2452,6 @@ DWAR ĦELSIEN
 MINN TAXXA
 
 DOPPJA
-
-*80*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -2859,10 +2591,6 @@ DWAR
 
 FUQ
 
-*81*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -2938,10 +2666,6 @@ FISKALI DWAR
 TAXXI FUQ L-
 
 INCOME
-
-*82*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -3073,10 +2797,6 @@ DWAR
 
 TAXXI FUQ L-
 
-*83*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -3160,10 +2880,6 @@ FISKALI DWAR
 TAXXI FUQ L-
 
 INCOME
-
-*84*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -3275,10 +2991,6 @@ DWAR
 
 TAXXI FUQ L-
 
-*85*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -3370,10 +3082,6 @@ FISKALI DWAR
 TAXXI FUQ L-
 
 INCOME
-
-*86*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Strument
 
@@ -3479,10 +3187,6 @@ TAXXI FUQ L-
 
 INCOME U FUQ IL-
 
-*87*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Strument
 
 Ġurisdizzjoni Data tal- Oriġinali/ Data tal-
@@ -3543,10 +3247,6 @@ Notifika dwar Għażla ta’ Dispożizzjonijiet mhux Obbligatorji
 
 Konformement mal-Artikolu 6(6) tal-Konvenzjoni, Malta b’dan tagħżel li tapplika l-Artikolu 6(3).
 
-*88*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 Notifika ta’ Kliem fil-Preambolu Eżistenti fil-Ftehimijiet Elenkati
 
 Konformement mal-Artikolu 6(5) tal-Konvenzjoni, Malta tikkunsidra li l-ftehimiet li ġejjin mhumiex fil-kamp ta’ applikazzjoni ta’ riżerva taħt l-Artikolu 6(4) u fihom kliem fil-preambolu msemmija fl-Artikolu 6(2). It-test tal-paragrafu rilevanti li fih il-preambolu qed jiġi identifikat hawn aktar ’l isfel.
@@ -3584,10 +3284,6 @@ billi jixtiequ jagħmlu Ftehim għall-ħelsien mit- 8 Belġju
 taxxa doppja u tħaris minn evażjoni fiskali
 
 billi jixtiequ jag]mlu Ftehim għall-ħelsien minn 9 Kanada taxxa doppja u biex tiġi evitata evażjoni fiskali dwar taxxi fuq l-income u l-kapital
-
-*89*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
 
 Numru
 
@@ -3643,10 +3339,6 @@ dwar taxxi fuq l-income
 
 billi jixtiequ jagħmlu Ftehim għall-Ħelsien 25 Ungerija minn Taxxa Doppja u biex tiġi evitata evażjoni fiskali dwar taxxi fuq l-income
 
-*90*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 Numru
 
 Ġurisdizzjoni
@@ -3686,10 +3378,6 @@ billi jixtiequ jagħmlu Ftehim dwar ħelsien minn 36 Latvja taxxa doppja u l-pre
 billi jixtiequ jġibu ’l quddiem u jsaħħu l-kollaborazzjoni ekonomika tagħhom billi 37 Libanu jagħmlu Ftehim għall-evitar ta’ taxxa doppja u l-prevenzjoni ta’ evażjoni fiskali dwar taxxi fuq l-income
 
 ddeċidew li jagħmlu Ftehim għall-ħ]elsien mit- 38 Libja taxxa doppja u l-prevenzjoni ta’ evażjoni fiskali dwar it-taxxi fuq l-income
-
-*91*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
 
 Numru
 
@@ -3736,10 +3424,6 @@ billi jixtiequ jagħmlu ftehim għall-ħelsien minn 48 Olanda taxxa doppja u bie
 billi jixtiequ jagħmlu Ftehim għall-evitar ta’ 49 Norveġja taxxa doppja u l-prevenzjoni ta’ evażjoni fiskali dwar taxxi fuq l-income
 
 billi jixtiequ jagħmlu Ftehim għall-Ħelsien 50 Pakistan minn Taxxa Doppja u biex tiġi Evitata Evażjoni Fiskali dwar taxxi fuq income
-
-*92*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Numru
 
@@ -3797,10 +3481,6 @@ billi jixtiequ jagħmlu Ftehim dwar Ħelsien 63 Spanja minn Taxxa Doppja u l-Pre
 
 billi jixtiequ jagħmlu Ftehim għall-ħelsien 64 Svezja minn taxxa doppja u biex tiġi evitata evażjoni fiskali dwar taxxi fuq l-income
 
-*93*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Numru
 
 Ġurisdizzjoni
@@ -3852,10 +3532,6 @@ Numru tal-Ftehim Elenkat Ġurisdizzjoni Kontraenti l-Oħra 3 Awstralja
 **10 Ċina**
 
 **11 Kroazja**
-
-*94*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Numru tal-Ftehim Elenkat Ġurisdizzjoni Kontraenti l-Oħra
 
@@ -3947,10 +3623,6 @@ Numru tal-Ftehim Elenkat Ġurisdizzjoni Kontraenti l-Oħra
 
 **61 Slovenja**
 
-*95*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Numru tal-Ftehim Elenkat Ġurisdizzjoni Kontraenti l-Oħra 62 Afrika ta’ Isfel
 
 **63 Spanja**
@@ -4021,10 +3693,6 @@ Elenkat l-Oħra
 
 68 Turkija Artikolu 26(3)
 
-*96*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 Numru tal- Ġurisdizzjoni
 
 Ftehim Kontraenti Dispożizzjoni
@@ -4086,10 +3754,6 @@ ta’)
 12 Curaçao Artikolu 13(4)
 
 13 Ċipru Artikolu 13(2)
-
-*97*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
 
 Numru tal-
 
@@ -4187,10 +3851,6 @@ Elenkat
 
 61 Slovenja Artikolu 13(2)
 
-*98*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 Numru tal-
 
 Ġurisdizzjoni Kontraenti
@@ -4247,11 +3907,9 @@ Artikolu 13 - Evitar Artifiċjali ta’ Status ta’ Stabbiliment Permanenti per
 
 Riżerva
 
-Konformement mal-Artikolu 13(6)(a) tal-Konvenzjoni, Malta TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 tirriżerva d-dritt li l-Artikolu 13 kollu ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha.
+Konformement mal-Artikolu 13(6)(a) tal-Konvenzjoni, Malta tirriżerva d-dritt li l-Artikolu 13 kollu ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha.
 
 Artikolu 14 - Qsim ta’ Kuntratti
-
-*99*
 
 Riżerva
 
@@ -4294,10 +3952,6 @@ Elenkat
 6 Baħrejn Artikolu 23(1), l-ewwel sentenza
 
 7 Barbados Artikolu 24(1), l-ewwel sentenza
-
-*100*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Numru tal-
 
@@ -4355,10 +4009,6 @@ Elenkat
 
 30 Iżrael Artikolu 24(1), l-ewwel sentenza
 
-*101*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Numru tal-
 
 Ġurisdizzjoni Kontraenti
@@ -4415,10 +4065,6 @@ Elenkat
 
 53 Qatar Artikolu 25(1), l-ewwel sentenza
 
-*102*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 Numru tal-
 
 Ġurisdizzjoni Kontraenti
@@ -4469,11 +4115,9 @@ Elenkat
 
 73 Viet Nam Artikolu 25(1), l-ewwel sentenza
 
-Konformement mal-Artikolu 16(6)(b)(i) tal-Konvenzjoni, Malta hi tal-fehma li l-ftehimiet li ġejjin fihom dispożizzjoni li tipprovdi li każ imsemmi fl-ewwel sentenza tal-Artikolu 16(1) għandu jiġi ppreżentat f’perjodu ta’ żmien speċifiku li jkun iqsar minn tliet snin mill-ewwel notifika tal-azzjoni li tirriżulta TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 f’tassazzjoni li ma tkunx skont id-dispożuzzjonijiedt tal-Ftehim dwar Taxxa Koperta. In-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni huma identifikati hawn aktar ’l isfel.
+Konformement mal-Artikolu 16(6)(b)(i) tal-Konvenzjoni, Malta hi tal-fehma li l-ftehimiet li ġejjin fihom dispożizzjoni li tipprovdi li każ imsemmi fl-ewwel sentenza tal-Artikolu 16(1) għandu jiġi ppreżentat f’perjodu ta’ żmien speċifiku li jkun iqsar minn tliet snin mill-ewwel notifika tal-azzjoni li tirriżulta f’tassazzjoni li ma tkunx skont id-dispożuzzjonijiedt tal-Ftehim dwar Taxxa Koperta. In-numru tal-artikolu u tal-paragrafu ta’ kull tali dispożizzjoni huma identifikati hawn aktar ’l isfel.
 
 Numru tal-
-
-*103*
 
 Ġurisdizzjoni Kontraenti
 
@@ -4528,10 +4172,6 @@ sentenza
 13 Ċipru Artikolu 26(1), it-tieni sentenza
 
 14 Repubblika Ċeka Artikolu 25(1), it-tieni sentenza
-
-*104*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Numru tal-
 
@@ -4589,10 +4229,6 @@ Elenkat
 
 37 Libanu Artikolu 24(1), it-tieni sentenza
 
-*105*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Numru tal-
 
 Ġurisdizzjoni Kontraenti
@@ -4649,10 +4285,6 @@ Elenkat
 
 62 Afrika ta’ Isfel Artikolu 24(1), it-tieni sentenza
 
-*106*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
-
 Numru tal-
 
 Ġurisdizzjoni Kontraenti
@@ -4707,11 +4339,9 @@ Numru tal-Ftehim Elenkat Ġurisdizzjoni Kontraenti l-Oħra
 
 71 Renju Unit
 
-Konformement mal-Artikolu 16(6)(d)(i) tal-Konvenzjoni, Malta hi tal-fehma li l-ftehimiet li ġejjin ma fihomx dispożizzjoni TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 msemmija fl-Artikolu 16(4)(ċ)(i).
+Konformement mal-Artikolu 16(6)(d)(i) tal-Konvenzjoni, Malta hi tal-fehma li l-ftehimiet li ġejjin ma fihomx dispożizzjoni msemmija fl-Artikolu 16(4)(ċ)(i).
 
 Numru tal-Ftehim Elenkat Ġurisdizzjoni Kontraenti l-Oħra
-
-*107*
 
 **8 Belġju**
 
@@ -4780,10 +4410,6 @@ Elenkat
 20 Ġorġja Artikolu 9(2)
 
 21 Ġermanja Artikolu 9(2)
-
-*108*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Numru tal-
 
@@ -4879,10 +4505,6 @@ Elenkat
 
 67 Tuniżija Artikolu 9(2)
 
-*109*
-
-TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183
-
 Numru tal-
 
 Ġurisdizzjoni Kontraenti
@@ -4926,10 +4548,6 @@ Artikolu 23 - Tip ta’ Proċess ta’ Arbitraġġ
 Riżerva
 
 Konformement mal-Artikolu 23(2) tal-Konvenzjoni, għall-finijiet li jiġi applikat l-Artikolu 23 għall-Ftehimiet dwar Taxxa Koperta tagħha, Malta tirriżerva d-dritt li l-Artikolu 23(1) ma japplikax għall-Ftehimiet dwar Taxxa Koperta tagħha.
-
-*110*
-
-[L.S. 123.183 TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI)
 
 Notifika dwar Għażla ta’ Dispożizzjonijiet mhux Obbligatorji
 
@@ -4977,11 +4595,9 @@ Artikolu 35 - Bidu tal-Effett
 
 Notifika ta’ Għażla ta’ Dispożizzjonijiet mhux Obbligatorji
 
-Konformement mal-Artikolu 35(3) tal-Konvenzjoni, għall- TASSAZZJONI U T-TRASFERIMENT TA’ PROFITTI) [L.S. 123.183 għan biss tal-applikazzjoni tagħha stess tal-Artikolu 35(1)(b) u (5)(b), Malta b’dan tagħżel li tissostitwixxi r-referenzi għal “perjodi taxxabbli li jibdew fi jew wara li jiskadi perjodu” b’referenza għal “perjodu taxxabbli li jibdew fi jew wara l-1 ta’ Jannar tas sena li tigi minnufih wara li jiskadi perjodu”.
+Konformement mal-Artikolu 35(3) tal-Konvenzjoni, għall-għan biss tal-applikazzjoni tagħha stess tal-Artikolu 35(1)(b) u (5)(b), Malta b’dan tagħżel li tissostitwixxi r-referenzi għal “perjodi taxxabbli li jibdew fi jew wara li jiskadi perjodu” b’referenza għal “perjodu taxxabbli li jibdew fi jew wara l-1 ta’ Jannar tas sena li tigi minnufih wara li jiskadi perjodu”.
 
 Artikolu 36 - Bidu tal-Effett tat-Taqsima VI
-
-*111*
 
 Riżerva
 

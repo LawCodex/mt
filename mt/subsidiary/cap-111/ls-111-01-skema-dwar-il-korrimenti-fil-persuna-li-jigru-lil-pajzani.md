@@ -1,6 +1,6 @@
 ---
 title: "Skema dwar il-Korrimenti fil-Persuna li jiġru lil Pajżani"
-identifier: "S.L. 111.1"
+identifier: "S.L. 111.01"
 eli: "https://legislation.mt/eli/sl/111.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/111.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Skema dwar il-Korrimenti fil-Persuna li jiġru lil Pajżani (S.L. 111.1)
+# Skema dwar il-Korrimenti fil-Persuna li jiġru lil Pajżani (S.L. 111.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 111.01**
 

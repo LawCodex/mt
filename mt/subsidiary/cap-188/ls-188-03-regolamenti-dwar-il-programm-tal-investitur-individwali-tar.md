@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Programm tal-Investitur Individwali tar-Repubblika ta’ Malta"
-identifier: "S.L. 188.3"
+identifier: "S.L. 188.03"
 eli: "https://legislation.mt/eli/sl/188.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/188.3/20131226/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Programm tal-Investitur Individwali tar-Repubblika ta’ Malta (S.L. 188.3)
-
-*1*
-
-TAR-REPUBBLIKA TA’ MALTA [L.S.188.03
+# Regolamenti dwar il-Programm tal-Investitur Individwali tar-Repubblika ta’ Malta (S.L. 188.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 188.03**
 
@@ -98,11 +94,7 @@ Iżda dawn il-persuni għandu jkollhom il-kapaċità li jieħdu ġurament ta’ 
 
 "programm" tfisser il-Programm ta’ Investitur Individwali tar- Repubblika ta’ Malta;
 
-"traduzzjoni awtentikata" tfisser traduzzjoni li tkun saret kemm minn traduttur professjonali li jkun uffiċjalment akkredidat ma’ qorti tal-ġustizzja, aġenzija tal-gvern, organizzazzjoni TAR-REPUBBLIKA TA’ MALTA [L.S.188.03
-
-internazzjonali, jew minn istituzzjoni uffiċjali simili, jew f’każ illi issir f’pajjiż fejn m’hemmx tradutturi akkreditati uffiċjalment, traduzzjoni magħmula minn kumpannija, li l-irwol jew in-negozju tagħha ikun ta’ servizzi ta’ traduzzjoni professjonali.
-
-*3*
+"traduzzjoni awtentikata" tfisser traduzzjoni li tkun saret kemm minn traduttur professjonali li jkun uffiċjalment akkredidat ma’ qorti tal-ġustizzja, aġenzija tal-gvern, organizzazzjoni internazzjonali, jew minn istituzzjoni uffiċjali simili, jew f’każ illi issir f’pajjiż fejn m’hemmx tradutturi akkreditati uffiċjalment, traduzzjoni magħmula minn kumpannija, li l-irwol jew in-negozju tagħha ikun ta’ servizzi ta’ traduzzjoni professjonali.
 
 ## 3. Twaqqif tal- Programm ta’ Investitur Individwali.
 
@@ -168,11 +160,7 @@ programm.
 
 (7) Il-kondizzjonijiet li ġejjin għandhom japplikaw għad-dipendenti li għandhom inqas minn tmintax-il sena:
 
-(a) il-formuli għandhom jiġu ffirmati miż-żewġ ġenituri TAR-REPUBBLIKA TA’ MALTA [L.S.188.03
-
-għan-nom tad-dipendenti; u
-
-*5*
+(a) il-formuli għandhom jiġu ffirmati miż-żewġ ġenituri għan-nom tad-dipendenti; u
 
 (b) fil-każ li ġenitur wieħed ikollu l-kustodja ewlenija ta’ dipendenti, jew persuna oħra jkollha kustodja legali ta’ dipendenti, għandhom jiġu provduti dokumenti legali xierqa sabiex jiġi muri li ġiet dekretata kustodja ewlenija jew kustodja legali minn qorti tal-ġustizzja jew awtorità rilevanti oħra.
 
@@ -236,10 +224,6 @@ Applikant li -
 
 (ċ) huwa soġġett għall-investigazzjoni kriminali;
 
-*7*
-
-TAR-REPUBBLIKA TA’ MALTA [L.S.188.03
-
 (d) huwa potenzjalment ta’ theddida kontra s-sigurtà nazzjonali ta’ Malta;
 
 (e) huwa, jew jista’ jkun, involut f’xi attività li tagħti isem ħażin lil Malta; jew
@@ -300,10 +284,6 @@ Iżda fejn applikazzjoni tkun ġiet approvata fil-prinċipju skont il-paragrafu 
 
 Iżda ukoll, il-prova meħtieġa taħt dan is-subregolament għandha tingħata fi żmien erba’ xhur mill-ħruġ tal-Ittra ta’ Approvazzjoni fil-Prinċipju billi jiġi sottomess kuntratt ta’ akkwist jew ta’ kera tal-imsemmija proprjetà lill-Aġenzija. Il-proprjetà li tkun ġiet akkwistata jew mikrija għall-iskop ta’ dawn ir-regolamenti ma tkunx tista’, wara li tkun ġiet akkwistata jew mikrija, tinkera jew tiġi sullokata, iżda dik il-proprjetà għandha tinżamm mill-applikant għal żmien ta’ mill-inqas ħames snin mid-data tal-akkwist jew tal-kirja:
 
-*9*
-
-TAR-REPUBBLIKA TA’ MALTA [L.S.188.03
-
 Iżda ukoll, meta l-applikant ikun akkwista jew kera proprjetà immobbli residenzjali skont dawn ir-regolamenti, huwa jkollu l-jedd illi jiddisponi mill-proprjetà jew li jittermina l-kirja dment illi jġib prova għas-sodisfazzjon tal-Aġenzija li huwa jkun akkwista jew kera proprjetà residenzjali oħra f ’Malta li tkun tissoddisfa l-ħtiġiet stabbiliti f’dawn ir-regolamenti u ta’ regolamenti oħra rilevanti li jistgħu jkunu fis-seħħ minn żmien għal żmien u jobbliga ruħu li jżomm dik il-proprjetà sakemm jiskadi l-perjodu ta’ ħames snin stabbilit f’dan is-subregolament.
 
 (6) L-applikant ewlieni għandu jintrabat bil-miktub biex jagħmel dawk l-investimenti oħra f’Malta sa l-ammont ta’ mija u ħamsin elf euro (EUR 150,000), fost oħrajn, f’dawk l-istocks, bonds, debentures, special purpose vehicles jew mezzi oħra ta’ investiment kif tidentifika l-Aġenzija minn żmien għal żmien b’avviż fil-Gazzetta u li jżomm dawk l-investimenti għal perijodu ta’ mill-inqas ħames snin:
@@ -354,11 +334,11 @@ L-Aġenzija għandha, minn żmien għal żmien, toħroġ linji gwida ta’ proċ
 
 In-numru ta’ applikanti ewlenin aċċettati, mingħajr ma jitqiesu d-dipendenti, m’għandux ikun aktar minn elf u tmien mija għaż-żmien kollu li għalih idum il-programm.
 
-*11*
+## 13. Fond ta’ Żvilupp Nazzjonali u Soċjali.
 
-TAR-REPUBBLIKA TA’ MALTA [L.S.188.03 13. (1) Għandu jkun hemm fond li jkun magħruf bħala l-Fond ta’ Żvilupp Nazzjonali u Soċjali illi fih għandhom jitħallsu għoxrin fil-mija tal-kontribuzzjonijiet li jiġu riċevuti minn l-Aġenzija taħt il-programm.
+*Emendat: A.L. 161 tal-2020.*
 
-*Fond ta’ Żvilupp Nazzjonali u Soċjali. Emendat: A.L. 161 tal-2020.*
+(1) Għandu jkun hemm fond li jkun magħruf bħala l-Fond ta’ Żvilupp Nazzjonali u Soċjali illi fih għandhom jitħallsu għoxrin fil-mija tal-kontribuzzjonijiet li jiġu riċevuti minn l-Aġenzija taħt il-programm.
 
 (2) Il-fondi riċevuti mill-Fond ta’ Żvilupp Nazzjonali u Soċjali għandhom jintużaw fl-interess pubbliku inter alia għall-avvanz tal-edukazzjoni, ir-riċerka, l-innovazzjoni, għanijiet soċjali, il-ġustizzja u l-istat tad-dritt, inizjattivi tal-impjieg, l-ambjent u s-saħħa pubblika.
 
@@ -387,8 +367,6 @@ TAR-REPUBBLIKA TA’ MALTA [L.S.188.03 13. (1) Għandu jkun hemm fond li jkun ma
 *12*
 
 [L,S.188.03 TAR-REPUBBLIKA TA’ MALTA
-
-TAR-REPUBBLIKA TA’ MALTA [L.S.188.03 13
 
 ## SKEDA — Ħtiġiet tal-Kontribuzzjonijiet u Skeda tad-Drittijiet
 

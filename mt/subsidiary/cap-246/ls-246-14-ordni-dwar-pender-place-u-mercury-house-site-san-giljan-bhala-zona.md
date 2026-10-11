@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Pender Place u Mercury House Site, San Ġiljan bħala Żona Speċjali Msemmija (S.L. 246.14)
 
-*1*
-
-SAN {ILJAN B}ALA |ONA SPE~JALI MSEMMIJA [L.S.246.14
-
 **LE{ISLAZZJONI SUSSIDJARJA 246.14**
 
 **ORDNI DWAR PENDER PLACE U MERCURY**

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Religious Studies taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.276)
 
-DIPLOMA IN RELIGIOUS STUDIES TA}T
-
-*1*
-
-IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.276
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.276**
 
 **ORDINAMENTI G}AD-DIPLOMA IN RELIGIOUS**

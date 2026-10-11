@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Avviż dwar Eżenzjoni mit-Taxxa għal Xogħol Filantropiku (S.L. 123.24)
 
-*1*
-
-GĦAL XOGĦOL FILANTROPIKU [L.S.123.24
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.24**
 
 **AVVIŻ DWAR EŻENZJONI MIT-TAXXA**
@@ -106,10 +102,6 @@ Central Office of the Diocesan Commission for Children’s Homes
 ## 17.
 
 Iċ-Ċentru Fidi u Ġustizzja
-
-*[L.S.123.24 2*
-
-GĦAL XOGĦOL FILANTROPIKU
 
 *\18.*
 
@@ -239,10 +231,6 @@ Friends of St Vincent de Paule Residence
 
 Friends of the Cathedral Museum
 
-*3*
-
-GĦAL XOGĦOL FILANTROPIKU [L.S.123.24
-
 \55. Ghana Mission Foundation
 
 \56. L-Għaqda għad-Drittijiet ta’ l-Irġiel - Malta
@@ -317,10 +305,6 @@ GĦAL XOGĦOL FILANTROPIKU [L.S.123.24
 
 \91. Malta Catholic Action
 
-*4*
-
-[L.S.123.24 GĦAL XOGĦOL FILANTROPIKU
-
 \92. Malta Dementia Society
 
 \93. Malta Federation of Organisations Persons with Disability 94. Malta Guide Dogs Foundation
@@ -387,10 +371,6 @@ GĦAL XOGĦOL FILANTROPIKU [L.S.123.24
 
 \126. Old Comrades’ Association KOMR Regiment (ex KOMR Benevolent Fund)
 
-*5*
-
-GĦAL XOGĦOL FILANTROPIKU [L.S.123.24
-
 \127. L-Opri Missjunarji Pontifiċi
 
 \128. Oratorju Maria Immakulata - Mosta
@@ -456,10 +436,6 @@ GĦAL XOGĦOL FILANTROPIKU [L.S.123.24
 \159. St Joseph’s Home - St Venera
 
 \160. St Joseph’s Home - Żabbar
-
-*6*
-
-[L.S.123.24 GĦAL XOGĦOL FILANTROPIKU
 
 \161. St Joseph’s Home - Żejtun
 
@@ -532,7 +508,3 @@ GĦAL XOGĦOL FILANTROPIKU [L.S.123.24
 \200. Victory Kitchen Foundation
 
 \201. Women For Women Foundation
-
-*7*
-
-GĦAL XOGĦOL FILANTROPIKU [L.S.123.24

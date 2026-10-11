@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) - B.Sc. (Hons) - taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.269)
 
-\- B.SC. (HONS) - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.269
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.269**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) - B.SC. (HONS) -
@@ -58,12 +52,6 @@ ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) - B.SC. (HONS) -
 
 Dawn l-ordinamenti japplikaw għall-korsijiet li jibdew f’Ottubru 2020 jew wara.
 
-**\- B.SC. (HONS) - TAĦT IL-PATROĊINJU**
-
-**TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA**
-
-*[L.S.327.269 2*
-
 *\3.*
 
 *Rekwiżiti speċjali għad-dħul fil-kors. Emendat: A.L. 122 tal-2009; A.L. 1 tal-2010. Sostitwit: A.L. 391 tal-2011.*
@@ -90,11 +78,7 @@ Nursing: (i) L-ebda rekwiżiti speċjali għall-kors;
 
 (iii) L-applikanti li m’għandhomx ir-rekwiżiti ġenerali għad-dħul jew studenti adulti li ma jgħaddux mill-intervista msemmija fis-sotto-paragrafu (ii) tal-paragrafu (f) ta’ dan l-ordinament, jistgħu jiddaħħlu fil-Kors Preparatorju speċifikament relatat man- Nursing, kif dettaljat f’Appendiċi I ta’ dawn l-ordinamenti. Dawn l-applikanti jkunu eliġibbli li jkomplu għall-Kors kemm il-darba jtemmu b’suċċess it-taqsimiet-studju kollha inklużi fil-programm tal- Kors Preparatorju, minnufih qabel ma jibda l-Kors. Ir-rekwiżiti għad-dħul u għat-tmiem b’suċċess tal-Kors Preparatorju huma mniżżla f’Appendiċi I ta’ dawn l-ordinamenti
 
-\- B.SC. (HONS) - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.269 (g) Occupational Therapy: għaddew fil-Livell Avvanzat bi Grad Ċ jew aħjar fil-Bijoloġija;
+(g) Occupational Therapy: għaddew fil-Livell Avvanzat bi Grad Ċ jew aħjar fil-Bijoloġija;
 
 (h) Physiotherapy: għaddew fil-Livell Avvanzat bi Grad Ċ jew aħjar fil-Bijoloġija; u għaddew fil-Livell Intermedju fil-Fiżika;
 
@@ -128,11 +112,7 @@ Matul l-ewwel sena tal-Kors, l-istudenti jkunu meħtieġa wkoll joqogħdu għall
 
 (1) Il-Kors għall-oqsma li ġejjin għandu jinfirex fuq medda ta’ erba’ snin ta’ studju fuq bażi full-time, jew l-ekwivalenti tagħhom għal studju fuq bażi part-time: l-Applied Biomedical Science, l-Applied Food and Nutritional Sciences, il-Midwifery, l-Occupational Therapy, il-Physiotherapy, il-Podiatry, ir-Radiography u l-Speech Language Pathology.
 
-(2) Il-Kors għall-oqsma tal-Mental Health Nursing u tan-Nursing għandu jinfirex fuq medda ta’ tliet snin ta’ studju fuq bażi full-time, jew l-ekwivalenti tagħhom għal studju fuq bażi part-time. - B.SC. (HONS) - TAĦT IL-PATROĊINJU
-
-*4*
-
-[L.S.327.269 TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
+(2) Il-Kors għall-oqsma tal-Mental Health Nursing u tan-Nursing għandu jinfirex fuq medda ta’ tliet snin ta’ studju fuq bażi full-time, jew l-ekwivalenti tagħhom għal studju fuq bażi part-time.
 
 ## 7. Oqsma ta’ studju.
 
@@ -174,13 +154,9 @@ Sakemm li l-programmi tal-kors u l-programmi ta’ studju jkunu mfassla skond id
 
 L-istudenti li daħlu skont l-ordinament 4, li jkunu temmew b’suċċess il-kors tas-Certificate in Clinical Nursing Practice bl-istess qasam ta’ studju li għalih ikunu qegħdin jiġu aċċettati, jitħallew jittrasferixxu t-taqsimiet studju li għaddew minnhom matul il-kors taċ- Ċertifikat għall-kors li jwassal għall-Grad bil-kundizzjoni li jirrinunzjaw iċ-Ċertifikat.
 
-\- B.SC. (HONS) - TAĦT IL-PATROĊINJU
+## 14. Kondizzjonijiet għal valutazzjoni mill-ġdid tat-taqsimiet studju prattiċi/kliniċi. Enumerat mill-ġdid: A.L. 290 tal-2011. A.L. 346 tal-2022.
 
-*5*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.269 14. (1) L-istudenti li jeħlu f’taqsima studju ta’ prattika klinika jew f’taqsima studju li tinvolvi pjazzament prattiku jistgħu jkunu meħtieġa jirrepetu t-taqsima studju matul ix-xhur tas-sajf qabel ma jerġgħu jkunu evalwati, jew jekk jidher li arranġament bħal dan mhux possibbli, jerġgħu jagħmlu t-taqsima studju f’sena żejda ta’ studju.
-
-*Kondizzjonijiet għal valutazzjoni mill-ġdid tat-taqsimiet studju prattiċi/kliniċi. Enumerat mill-ġdid: A.L. 290 tal-2011. A.L. 346 tal-2022.*
+(1) L-istudenti li jeħlu f’taqsima studju ta’ prattika klinika jew f’taqsima studju li tinvolvi pjazzament prattiku jistgħu jkunu meħtieġa jirrepetu t-taqsima studju matul ix-xhur tas-sajf qabel ma jerġgħu jkunu evalwati, jew jekk jidher li arranġament bħal dan mhux possibbli, jerġgħu jagħmlu t-taqsima studju f’sena żejda ta’ studju.
 
 (2) Il-kondizzjonijiet għal valutazzjoni mill-ġdid ta’ taqsimiet studju bħal dawn ikunu indikati fid-deskrizzjoni ta’ kull taqsima studju li tkun ippubblikata fil-katalgu.
 
@@ -226,12 +202,6 @@ Il-Marka Medja tat-Tielet Sena 30%
 
 Il-Marka Medja tar-Raba’ Sena 35%.
 
-\- B.SC. (HONS) - TAĦT IL-PATROĊINJU
-
-*6*
-
-[L.S.327.269 TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
 Applied Food and Nutritional Sciences:
 
 Il-Marka Medja tal-Ewwel Sena 15%
@@ -276,11 +246,7 @@ L-applikanti huma wkoll meħtieġa li ma jkollhomx inqas minn 18-il sena fi żmi
 
 ## 3.
 
-Matul l-ewwel semestru tal-Kors Preparatorju, l-applikanti aċċettati jkunu meħtieġa wkoll joqogħdu għal occupational health assessment, biex ikun aċċertat li huma tajbin għad-dmirijiet relatati mal-istudji tagħhom. L-istudenti li ma jissodisfawx dan ir-rekwiżit jistgħu ma jitħallewx ikomplu bl-istudji tagħhom. Jekk ma tiġix żvelata informazzjoni dwar xi problema ta’ saħħa fiżika jew mentali li tista’ taffettwa s-sigurta’ ta’ pazjent din tkun - B.SC. (HONS) - TAĦT IL-PATROĊINJU
-
-*7*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.269 ikkunsidrata bħala ksur serju tar-Regolamenti tal-Università dwar Kompetenza għall-Prattika.
+Matul l-ewwel semestru tal-Kors Preparatorju, l-applikanti aċċettati jkunu meħtieġa wkoll joqogħdu għal occupational health assessment, biex ikun aċċertat li huma tajbin għad-dmirijiet relatati mal-istudji tagħhom. L-istudenti li ma jissodisfawx dan ir-rekwiżit jistgħu ma jitħallewx ikomplu bl-istudji tagħhom. Jekk ma tiġix żvelata informazzjoni dwar xi problema ta’ saħħa fiżika jew mentali li tista’ taffettwa s-sigurta’ ta’ pazjent din tkun ikkunsidrata bħala ksur serju tar-Regolamenti tal-Università dwar Kompetenza għall-Prattika.
 
 ## 4.
 

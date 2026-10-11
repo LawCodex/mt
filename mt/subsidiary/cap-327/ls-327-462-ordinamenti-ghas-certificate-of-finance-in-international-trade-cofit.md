@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għas-Certificate of Finance in International Trade - COFIT - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.462)
 
-COFIT - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*1*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.462
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.462**
 
 ORDINAMENTI GĦAS-CERTIFICATE OF FINANCE IN INTERNATIONAL TRADE - COFIT - TAĦT
@@ -66,12 +60,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew fi Frar 2015 j
 (3) L-applikanti li temmew l-edukazzjoni sekondarja jew għolja tagħhom barra minn Malta għandhom ikollhom ċertifikat fil-profiċjenza tal-Ingliż fil-livell meħtieġ mill-Università.
 
 (4) Id-dħul fil-kors jista’, bl-approvazzjoni tas-Senat, ikun ristrett għall-applikanti li huma nominati mill-FIMBank u mill- International Factors Group sakemm li dawn l-applikanti jkunu eliġibbli għad-dħul skont il-paragrafi (1), (2) u (3) ta’ dan l-ordinament.
-
-COFIT - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*2*
-
-[L.S.327.462 EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY
 
 ## 4. Tul tal-kors.
 

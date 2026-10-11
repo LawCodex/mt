@@ -1,6 +1,6 @@
 ---
 title: "Statut I 00 - Statut dwar Disposizzjonijiet Ġenerali dwar Istituti ta' l-Università"
-identifier: "S.L. 327.7"
+identifier: "S.L. 327.07"
 eli: "https://legislation.mt/eli/sl/327.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/327.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Statut I 00 - Statut dwar Disposizzjonijiet Ġenerali dwar Istituti ta' l-Università (S.L. 327.7)
-
-*1*
-
-DWAR ISTITUTI U ¬ENTRI TAL-UNIVERSITÀ [L.S.327.07
+# Statut I 00 - Statut dwar Disposizzjonijiet Ġenerali dwar Istituti ta' l-Università (S.L. 327.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 327.07**
 
@@ -97,11 +93,7 @@ Minbarra dan, i`-Chairman tal-Bord ta’ Istitut/¬entru:
 
 (b) m’g]andux jimpenja ru]u fi kwalunkwe attività barra mill-Università li tista’ tkun f’konflitt mad-dmirijiet tieg]u fl-Università;
 
-(`) m’g]andux jg]addi informazzjoni lil terzi persuni li mhumiex asso`jati mal-Università ta’ Malta, dwar kwalunkwe xog]ol jew data li jkollha x’taqsam ma’ DWAR ISTITUTI U ¬ENTRI TAL-UNIVERSITÀ [L.S.327.07
-
-xog]lijiet li qeg]din isiru fl-Università ta’ Malta ming]ajr l-approvazzjoni minn qabel tar-Rettur; kull xog]ol li jkun qed isir fl-istitut/fi`-`entru g]andu jsir fid-dawl tal-le[islazzjoni Maltija dwar il-]arsien tad-data;
-
-*3*
+(`) m’g]andux jg]addi informazzjoni lil terzi persuni li mhumiex asso`jati mal-Università ta’ Malta, dwar kwalunkwe xog]ol jew data li jkollha x’taqsam ma’ xog]lijiet li qeg]din isiru fl-Università ta’ Malta ming]ajr l-approvazzjoni minn qabel tar-Rettur; kull xog]ol li jkun qed isir fl-istitut/fi`-`entru g]andu jsir fid-dawl tal-le[islazzjoni Maltija dwar il-]arsien tad-data;
 
 (d) g]andu jintrabat bl-istatuti, bir-regolamenti u bil-politika tal-Università ta’ Malta, li huma fis-se]] jew li jsiru effettivi fi \\mien il-]atra tieg]u;
 

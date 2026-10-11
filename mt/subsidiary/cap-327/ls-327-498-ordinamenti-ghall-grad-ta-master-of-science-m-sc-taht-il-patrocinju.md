@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Science - M.Sc. - taħt il-patroċinju tal-Istitut għax-Xjenzi Spazjali u l-Astronomija (S.L. 327.498)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-GĦAX-XJENZI SPAZJALI U L-ASTRONOMIJA [L.S.327.498
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.498**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -83,12 +77,6 @@ Il-kors ikun miftuħ għall-applikanti li għandhom waħda minn dawn il-kwalifik
 
 Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew l-ekwivalenti ta’ studju fuq bażi part-time.
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*2*
-
-[L.S.327.498 GĦAX-XJENZI SPAZJALI U L-ASTRONOMIJA
-
 ## 6. Programm ta’ studju.
 
 *Emendat: A.L. 252 tal-2015.*
@@ -123,11 +111,7 @@ TAĦT IL-PATROĊINJU TAL-ISTITUT
 
 (1) Il-Bord għandu jaħtar Panil ta’ Superviżjoni għal kull student, normalment magħmul minn tliet membri kif ġej: id- Direttur tal-Istitut, jew id-delegat tiegħu/tagħha bħala Chairman, u żewġ membri oħra, li wieħed minnhom ikun is-superviżur prinċipali, sakemm li meta d-Direttur tal-Istitut ikun is-superviżur, huwa jew hija ma jkunux maħtur bħala ċ-chairman.
 
-(2) Il-Panil ta’ Superviżjoni għandu jsegwi, skont kif jidhirlu TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*3*
-
-GĦAX-XJENZI SPAZJALI U L-ASTRONOMIJA [L.S.327.498 xieraq, il-progress tal-istudenti matul il-kors, sakemm li jiltaqa’ għall-anqas darbtejn fis-sena biex jirrevedu l-progress.
+(2) Il-Panil ta’ Superviżjoni għandu jsegwi, skont kif jidhirlu xieraq, il-progress tal-istudenti matul il-kors, sakemm li jiltaqa’ għall-anqas darbtejn fis-sena biex jirrevedu l-progress.
 
 (3) L-istudenti huma meħtieġa jiltaqgħu mas-superviżuri tagħhom mill-anqas darba kull xahrejn, u barra minn hekk aktar spiss jekk is-superviżur jidhirlu li meħtieġ.
 

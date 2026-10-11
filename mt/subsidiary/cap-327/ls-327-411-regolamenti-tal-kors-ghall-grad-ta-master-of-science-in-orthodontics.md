@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta’ Master of Science in Orthodontics (S.L. 327.411)
 
-*1*
-
-MASTER OF SCIENCE IN ORTHODONTICS [L.S.327.411
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.411**
 
 **REGOLAMENTI TAL-KORS GĦALL-GRAD TA’**
@@ -69,10 +65,6 @@ Dawn ir-regolamenti għandhom japplikaw mid-19 ta’ Settembru 2014 ’il quddie
 
 Il-kors għandu jinfirex fuq perijodu ta’ tlett snin konsekuttivi (inklużi t-tliet semestri tas-sajf) fuq bażi ta’ studju full-time.
 
-*2*
-
-[L.S.327.411 MASTER OF SCIENCE IN ORTHODONTICS
-
 ## 5. Programm ta’ studju.
 
 *Emendat: A.L. 458 tal-2014.*
@@ -117,11 +109,7 @@ L-istudenti li jixtiequ jippostponu d-dħul għal xi proċessi tal-eżamijiet g�
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 8,000-9,000 kelma u mhux aktar minn 25,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
-(2) It-titolu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- MASTER OF SCIENCE IN ORTHODONTICS [L.S.327.411
-
-Bord fl-aħħar tal-ewwel semestru.
-
-*3*
+(2) It-titolu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord fl-aħħar tal-ewwel semestru.
 
 (3) Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju. Ix-xogħol fuq id-dissertazzjoni għandu jsir wara l-approvazzjoni tal-proposta tar-riċerka.
 
@@ -159,11 +147,7 @@ Bord fl-aħħar tal-ewwel semestru.
 
 (2) L-istudenti jistgħu jkunu meħtieġa li jagħmlu eżami viva voce biex jiddefendu d-dissertazzjoni tagħhom u dan jista’ jsir ukoll permezz ta’ mezzi elettroniċi tal-komunikazzjoni jekk hekk approvat mill-Bord Konġunt tal-Eżamijiet.
 
-(3) L-istudenti li d-dissertazzjoni tagħhom ma titqiesx sodisfaċenti jistgħu jew jeħlu jew ikunu meħtieġa mill-Bord Konġunt tal-Eżami jerġgħu jiktbu d-dokument kollu jew parti [L.S.327.411 MASTER OF SCIENCE IN ORTHODONTICS
-
-minnu u jerġgħu jissottomettuh għall-eżami. L-istudenti jistgħu jerġgħu jissottomettu d-dissertazzjoni mhux aktar kmieni minn xahrejn u mhux aktar tard minn sitt xhur minn meta ġew avżati bid-deċiżjoni tal-Bord Konġunt tal-Eżami.
-
-*4*
+(3) L-istudenti li d-dissertazzjoni tagħhom ma titqiesx sodisfaċenti jistgħu jew jeħlu jew ikunu meħtieġa mill-Bord Konġunt tal-Eżami jerġgħu jiktbu d-dokument kollu jew parti minnu u jerġgħu jissottomettuh għall-eżami. L-istudenti jistgħu jerġgħu jissottomettu d-dissertazzjoni mhux aktar kmieni minn xahrejn u mhux aktar tard minn sitt xhur minn meta ġew avżati bid-deċiżjoni tal-Bord Konġunt tal-Eżami.
 
 ## 13. Klassifikazzjoni tar- Rikonoxximent.
 

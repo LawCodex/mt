@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (2006) (S.L. 261.29)
 
-*1*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2006) [L.S.261.29
-
 LE{ISLAZZJONI SUSSIDJARJA 261.29
 
 ORDNI DWAR L-AWTORITÀ TAD-DJAR
@@ -83,11 +79,7 @@ B’se]] mit-13 ta’ Marzu, 2006:
 
 (13) Flat numru 1, Blokk C, Triq il-Gradiljoli, Qasam tad- Djar tal-Gvern, Mosta (Tenement No. 72391 - RTB 190/2003).
 
-(14) Il-fond bin-numru 6, Triq l-Ispi\\jar Joseph Sciberras, Msida (JO No. R/0079/1997 - Title No: 41000778). (15) Dar bin-numru 13 (issa 7), Triq il-Ma]lu[, Qasam tad- Djar tal-Gvern Tas-Sag]jtar, Naxxar (Tenement No. (TRASFERIMENT TA’ PROPRJETÀ) (2006) [L.S.261.29
-
-68592 - RTB 59/2004).
-
-*3*
+(14) Il-fond bin-numru 6, Triq l-Ispi\\jar Joseph Sciberras, Msida (JO No. R/0079/1997 - Title No: 41000778). (15) Dar bin-numru 13 (issa 7), Triq il-Ma]lu[, Qasam tad- Djar tal-Gvern Tas-Sag]jtar, Naxxar (Tenement No. 68592 - RTB 59/2004).
 
 (16) Flat numru 3B, Blokk 3, Triq il-Lampuka, Qasam tad- Djar tal-Gvern, Paola (Tenement No. 61713 - RTB 132/2004).
 
@@ -159,11 +151,7 @@ B’se]] mit-28 ta’ Marzu, 2006:
 
 (13) Fond bin-numru 68, Triq Sant’An[lu, Senglea (JO No. R/0830/1997 Title No. 04000038).
 
-(14) Dar bin-numri 2 u 4 f’Tara[ Nix Mangiari, Valletta (TRASFERIMENT TA’ PROPRJETÀ) (2006) [L.S.261.29
-
-(Tenement No. 60679 - RTB 115/2003).
-
-*5*
+(14) Dar bin-numri 2 u 4 f’Tara[ Nix Mangiari, Valletta (Tenement No. 60679 - RTB 115/2003).
 
 (15) Flat numru 1, Blokk N, Qasam }al Tmiem, |ejtun (Tenement No. 74164 - HA 85/2004).
 
@@ -205,11 +193,7 @@ Il-blokk s]i] jinsab delineat bl-a]mar fuq il-pjanta immarkata P.D. 61\_2003\_1.
 
 (6) Bi``a art ta’ madwar 136 metru kwadru, mag]rufa b]ala Plot 7, u Sit E, Triq il-Fossa tal-Qam], u li tag]mel parti mill-Qasam tad-Djar tal-Gvern Ta’ Ganza fi\\-|ejtun, li tmiss mit-Tramuntana ma’ passa[[ pubbliku, minn Nofs-in-Nhar ma’ Triq il- Fossa tal-Qam] u mil-Lvant ma’ proprjetà tal-Gvern, li fuqha hemm mibni l-fond bin-numru 24, Triq il- Fossa tal-Qam], |ejtun, u li jinsabu delineati bl-a]mar u immarkati P.7 u ‘E’ fuq L.D. 7/80/82. (Tenement No. 66033 - HAP 9/2005).
 
-(7) Bi``a art ta’ madwar 148.6 metru kwadru, mag]rufa (TRASFERIMENT TA’ PROPRJETÀ) (2006) [L.S.261.29
-
-b]ala Plot 14, Triq Forn il-{ir, u li tag]mel parti mill- Qasam tad-Djar tal-Gvern fir-Rabat (Victoria), G]awdex, li tmiss mill-Grigal u mill-Majjistral ma’ proprjetà trasferita lill-Awtorità tad-Djar u mil-Lbi` ma’ Triq Forn il-{ir, li fuqha hemm mibni l-fond bin-numru 14, Triq Forn il-{ir, Rabat (Victoria), G]awdex, u li tinsab delineata bl-a]mar u immarkata P. 14 fuq L.D. 138/91/2. (Tenement No. Z41321 - HAP 2/2006).
-
-*7*
+(7) Bi``a art ta’ madwar 148.6 metru kwadru, mag]rufa b]ala Plot 14, Triq Forn il-{ir, u li tag]mel parti mill- Qasam tad-Djar tal-Gvern fir-Rabat (Victoria), G]awdex, li tmiss mill-Grigal u mill-Majjistral ma’ proprjetà trasferita lill-Awtorità tad-Djar u mil-Lbi` ma’ Triq Forn il-{ir, li fuqha hemm mibni l-fond bin-numru 14, Triq Forn il-{ir, Rabat (Victoria), G]awdex, u li tinsab delineata bl-a]mar u immarkata P. 14 fuq L.D. 138/91/2. (Tenement No. Z41321 - HAP 2/2006).
 
 (8) Flat numru 1, Blokk B5, Triq Mahatma Gandhi, Qasam tad-Djar tal-Gvern, Fgura (Tenement No. 72851 - RTB 10/2005).
 
@@ -273,11 +257,7 @@ B’se]] mis-26 ta’ Settembru, 2006:
 
 Maisonettes 1 sa 3, 53 u 54 huma a``essibbli separatament minn Triq Salvatore Castaldi, 4 sa 22 huma a``essibbli separatament minn Triq il-Kurunell Cocks, 23 sa 28 huma a``essibbli separatament minn Trejqet Giacchino Le Brun u maisonettes 29 sa 52 huma a``essibbli separatament minn Trejqet il-Beatu Dun {or[ Preca.
 
-Garages 1 sa 66 jinsabu sottostanti l-maisonettes imsemmija hawn qabel u huma a``essibbli minn entrati komuni fi Triq Salvatore Castaldi, Trejqet il- Beatu Dun {or[ Preca u Trejqet Giacchino Le Brun. Il-blokk bini s]i] [ie mibni fuq art tal-Gvern li kienet proprjetà tas-servizzi u li tmiss mill-Grigal ma’ Triq Salvatore Castaldi, mil-Lbi` ma’ Trejqet Giacchino Le (TRASFERIMENT TA’ PROPRJETÀ) (2006) [L.S.261.29
-
-Brun u mix-Xlokk ma’ Triq il-Kurunell Cocks.
-
-*9*
+Garages 1 sa 66 jinsabu sottostanti l-maisonettes imsemmija hawn qabel u huma a``essibbli minn entrati komuni fi Triq Salvatore Castaldi, Trejqet il- Beatu Dun {or[ Preca u Trejqet Giacchino Le Brun. Il-blokk bini s]i] [ie mibni fuq art tal-Gvern li kienet proprjetà tas-servizzi u li tmiss mill-Grigal ma’ Triq Salvatore Castaldi, mil-Lbi` ma’ Trejqet Giacchino Le Brun u mix-Xlokk ma’ Triq il-Kurunell Cocks.
 
 Il-bi``a art li fuqha hemm il-blokk bini tinsab delineata bl-a]mar fuq P.D. 2006\_488. (HAM 4/98 vol. 4).
 
@@ -321,11 +301,7 @@ Il-Blokkijiet [ew mibnija fuq Proprjetà tal-Gvern, parti minn ES 16485, u jmiss
 
 (7) Fond residenzjali bin-numru 139, ‘‘Cattleya’’, Triq is- Sardinell, San {wann, li jinsab re[istrat fit-Taqsima Proprjetà tal-Gvern b]ala Tenement No. 66183 u li jmiss minn kull na]a ma’ proprjetà li tappartjeni lill- Gvern, mog]ti b’enfitewsi temporanja lil Nicholas Falzon g]ar-rigward ta’ P. 139 b’kuntratt li j[ib id-data tad-29 ta’ Mejju, 1971 fl-Atti tan-Nutar A. Grech, u g]ar-rigward ta’ bi``a art ‘‘A’’ skond l-Att 225 li j[ib id-data ta’ l-14 ta’ Settembru, 1988 fl-Atti tan-Nutar V. Miceli, it-tnejn skond ma jidher markat bl-a]mar fuq L.D. 128/80/25. (HAP 9/2006).
 
-(8) Blokk li jikkonsisti fi tmien appartamenti u \\ew[ (TRASFERIMENT TA’ PROPRJETÀ) (2006) [L.S.261.29
-
-garages fi Triq il-Kapu``ini, Floriana. L-appartamenti jinsabu enumerati minn 1 sa 8 u huma lkoll a``essibbli minn entrata komuni li g]andha n-numru 56 fi Triq il- Kapu``ini. Il-garages jinsabu sottostanti l-appartamenti msemmija u g]andhom in-numri 1 u 2 u g]andhom entrati separati rispettivament bin-numri 58 u 54 fl-istess Triq il-Kapu``ini.
-
-*11*
+(8) Blokk li jikkonsisti fi tmien appartamenti u \\ew[ garages fi Triq il-Kapu``ini, Floriana. L-appartamenti jinsabu enumerati minn 1 sa 8 u huma lkoll a``essibbli minn entrata komuni li g]andha n-numru 56 fi Triq il- Kapu``ini. Il-garages jinsabu sottostanti l-appartamenti msemmija u g]andhom in-numri 1 u 2 u g]andhom entrati separati rispettivament bin-numri 58 u 54 fl-istess Triq il-Kapu``ini.
 
 Il-blokk imiss mill-Majjistral ma’ Triq il-Kapu``ini, u mix-Xlokk u mil-Lbi` ma’ proprjetà privata, u jinsab delineat bl-a]mar fuq P.D. 2006\_498. (HAM 11/97 vol. 3).
 
@@ -403,10 +379,6 @@ Il-blokk imiss mill-Majjistral ma’ Triq il-Kapu``ini, u mix-Xlokk u mil-Lbi` m
 
 (44) Flat numru 12 f’178, Triq San Kristofru, Valletta (Tenement No. 62995 - RTB 91/2005).
 
-*13*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2006) [L.S.261.29
-
 (45) Flat numru 9 f’188F, Triq Sant’Orsla, Valletta (Tenement No. 62963 - RTB 190/2002).
 
 (46) Dar bin-numru 336, Triq San Pawl, Valletta (Tenement No. 61479 - RTB 324/2002).
@@ -450,10 +422,6 @@ b]ala ‘‘G]alqa Xiolxia’’, |abbar, li tinsab delineata bl-a]mar fuq pjant
 (65) Flat numru 2, Blokk 3B, San {wann T’G]uxa, Cospicua (Tenement No. 68538 - RTB 66/2005).
 
 (66) Flat numru 5, Blokk I, Bieb B, Triq }al-Farru[, Luqa (Tenement No. 78319 - RTB 102/2003).
-
-*15*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2006) [L.S.261.29
 
 *\6.*
 

@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Arts in Marketing Communication – M.A. - taħt il-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien. (S.L. 327.463)
 
-*1*
-
-M.A. [L.S.327.463
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.463**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -79,13 +75,9 @@ Il-kors għandu jinfirex fuq perijodu ta’ tliet semestri ta’ studju fuq baż
 
 ## 5. Programm ta’ studju.
 
-(1) Il-programm ta’ studju huwa magħmul minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu, li jinkludu taqsimiet studju mgħallma li għalihom hemm assenjati 60 krettu u [L.S.327.463 M.A.
+(1) Il-programm ta’ studju huwa magħmul minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu, li jinkludu taqsimiet studju mgħallma li għalihom hemm assenjati 60 krettu u t-taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 30 kredtu.
 
 \*Dawn ir-regolamenti gew imħassrin bl-Avviż Legali 173 tal-2022.
-
-t-taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 30 kredtu.
-
-*2*
 
 (2) Il-programm ta’ studju għandu jkun ippubblikat mill-Bord normalment mhux aktar tard minn tmien xhur qabel il-bidu tal-kors, wara l-approvazzjoni tas-Senat.
 
@@ -118,10 +110,6 @@ t-taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 30 kredtu.
 ## 9. Bord tal- Eżaminaturi.
 
 (1) Kull dissertazzjoni għandha tkun eżaminata minn Bord tal-Eżaminaturi magħmul mill-anqas minn żewġ eżaminaturi u s-superviżur prinċipali.
-
-*3*
-
-M.A. [L.S.327.463
 
 (2) Il-Bord tal-Eżaminaturi għad-dissertazzjoni jista’ jeħtieġ lill-istudenti jiddefendu d-dissertazzjoni tagħhom oralment. L-eżaminatur barrani jista’ ma jkunx preżenti għad-difiża orali, iżda mhux anqas minn tliet membri tal-Bord tal-Eżaminaturi għandhom imexxu l-eżami orali.
 

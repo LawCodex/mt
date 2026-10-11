@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet li jitħallsu fil-Kumpless Sportiv għal Għawdex (S.L. 35.18)
 
-*1*
-
-SPORTIV G}AL G}AWDEX [L.S.35.18
-
 **LE{ISLAZZJONI SUSSIDJARJA 35.18**
 
 **REGOLAMENTI DWAR DRITTIJIET**

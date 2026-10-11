@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Liċenza li tinħareġ lill-Makkinisti Ċinematografiċi (S.L. 10.41)
 
-*1*
-
-LILL-MAKKINISTI ~INEMATOGRAFI~I [L.S.10.41
-
 **LE{ISLAZZJONI SUSSIDJARJA 10.41**
 
 REGOLAMENTI DWAR IL-LI~ENZA LI TIN}ARE{ LILL-MAKKINISTI ~INEMATOGRAFI~I

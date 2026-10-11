@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Adult Education taħt il-patroċinju tal-Fakultà ta’ l-Edukazzjoni (S.L. 327.345)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TA’ L-EDUKAZZJONI [L.S.327.345
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.345**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -112,11 +108,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
 
-(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TA’ L-EDUKAZZJONI [L.S.327.345
-
-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
-
-*3*
+(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studji kif imsemmija f’(a) tkun skond id-disposizzjonijiet tar-Regolamenti Prinċipali; u
 

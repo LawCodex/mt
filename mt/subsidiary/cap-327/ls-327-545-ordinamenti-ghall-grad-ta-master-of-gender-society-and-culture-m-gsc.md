@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Gender, Society and Culture - M. GSC - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.545)
 
-CULTURE - M. GSC - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.545
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.545**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -74,13 +68,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) L-applikanti li għandhom grad ta’ Baċellerat miksub fit- Tielet Klassi bl-Unuri jew f’Kategorija III jistgħu jkunu aċċettati wkoll, diment li l-applikanti jkollhom kwalifiki oħra jew esperjenza relevanti, miksuba wara l-grad tal-ewwel ċiklu.
 
-(3) Il-Kumitat tad-Dħul tal-Fakultà, wara li jkun eżamina bir-reqqa d-dokumenti sottomessi b’sostenn għall-kwalifiki ppreżentati, u wara intervista, jista’ jirrakkomanda d-dħul fil-Kors ta’ dawk l-applikanti li jkunu applikaw għad-dħul skont il-Politika għar-Rikonoxximenti u l- CULTURE - M. GSC - TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.545 TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-Akkreditazzjoni ta’ Tagħlim Preċedenti tal-Università (RPL) u li jkollhom kwalifiki akkademiċi jew professjonali oħra u esperjenza dokumentata jekk dawn ikunu meqjusa komparabbli għall-kwalifiki mitluba fil-paragrafu (1) ta’ dan l-ordinament. Id-dħul ta’ applikanti bħal dawn jista’ jkun soġġett għal dawk il-kondizzjonijiet li jistgħu jkunu imposti biex jagħmlu tajjeb għal xi nuqqasijiet fil-preparazzjoni akkademika tal-applikanti.”
+(3) Il-Kumitat tad-Dħul tal-Fakultà, wara li jkun eżamina bir-reqqa d-dokumenti sottomessi b’sostenn għall-kwalifiki ppreżentati, u wara intervista, jista’ jirrakkomanda d-dħul fil-Kors ta’ dawk l-applikanti li jkunu applikaw għad-dħul skont il-Politika għar-Rikonoxximenti u l- Akkreditazzjoni ta’ Tagħlim Preċedenti tal-Università (RPL) u li jkollhom kwalifiki akkademiċi jew professjonali oħra u esperjenza dokumentata jekk dawn ikunu meqjusa komparabbli għall-kwalifiki mitluba fil-paragrafu (1) ta’ dan l-ordinament. Id-dħul ta’ applikanti bħal dawn jista’ jkun soġġett għal dawk il-kondizzjonijiet li jistgħu jkunu imposti biex jagħmlu tajjeb għal xi nuqqasijiet fil-preparazzjoni akkademika tal-applikanti.”
 
 (4) L-applikanti kollha jkunu meħtieġa juru li huma għandhom il-kapaċità u d-dispożizzjoni biex isegwu l-kors bi profitt permezz ta’ intervista personali mmexxija minn bord tal-intervisti maħtur għal dan il-għan.
 
@@ -118,13 +106,9 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 
 L-istudenti li jiksbu mill-anqas 30 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw il-kors b’suċċess, ikunu eliġibbli għall-għoti tal-Postgraduate Certificate.
 
-CULTURE - M. GSC - TAĦT IL-PATROĊINJU
+## 8. Postgraduate Diploma. Enumerat mill-ġdid: A.L. 381 tal-2016; A.L. 218 tal-2023.
 
-*3*
-
-TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.545 8. L-istudenti li jiksbu s-60 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, ikunu eliġibbli għall-għoti tal-Postgraduate Diploma.
-
-*Postgraduate Diploma. Enumerat mill-ġdid: A.L. 381 tal-2016; A.L. 218 tal-2023.*
+L-istudenti li jiksbu s-60 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, ikunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
 ## 9. Pubblikazzjoni tal-programm ta’ studju. Enumerat mill-ġdid: A.L. 381 tal-2016; A.L. 218 tal-2023.
 
@@ -153,12 +137,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 (2) Is-superviżuri għandhom jibgħatu lill-Bord tal-Istudji rapport dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju, kemm jekk l-istudent qiegħed isegwi l-kors fuq bażi full-time jew fuq bażi part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
-
-CULTURE - M. GSC - TAĦT IL-PATROĊINJU
-
-*4*
-
-[L.S.327.545 TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 

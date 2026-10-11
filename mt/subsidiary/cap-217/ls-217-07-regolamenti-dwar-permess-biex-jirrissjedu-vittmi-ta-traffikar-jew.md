@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Permess biex Jirrissjedu Vittmi ta' Traffikar jew Immigrazzjoni Illlegali li jikkoperaw ma' l-Awtoritajiet Maltin"
-identifier: "S.L. 217.7"
+identifier: "S.L. 217.07"
 eli: "https://legislation.mt/eli/sl/217.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/217.7/20251003/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Permess biex Jirrissjedu Vittmi ta' Traffikar jew Immigrazzjoni Illlegali li jikkoperaw ma' l-Awtoritajiet Maltin (S.L. 217.7)
-
-JEW IMMIGRAZZJONI ILLEGALI LI JIKKOPERAW
-
-*1*
-
-MA’ L-AWTORITAJIET MALTIN [S.L.217.07
+# Regolamenti dwar Permess biex Jirrissjedu Vittmi ta' Traffikar jew Immigrazzjoni Illlegali li jikkoperaw ma' l-Awtoritajiet Maltin (S.L. 217.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 217.07**
 
@@ -62,11 +56,7 @@ F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra -
 
 "Direttur" tfisser id-Direttur għaċ-ċittadinanza u Affarijiet ta’ Espatrijazzjoni;
 
-"koperazzjoni" tfisser l-għotja ta’ informazzjoni miċ-ċittadin ta’ pajjiż terz lill-awtoritajiet ta’ l-immigrazzjoni li għandha x’taqsam, inter alia, mal-wasla tiegħu f’Malta bħala vittma ta’ traffikar jew li għandha x’taqsam mal-wasla tiegħu b’mod illegali f ’Malta u JEW IMMIGRAZZJONI ILLEGALI LI JIKKOPERAW [S.L.217.07 MA’ L-AWTORITAJIET MALTIN
-
-tinkludi, b’mod partikolari, l-ismijiet ta’ persuni ta’ traffikanti jew il-kompliċi tagħhom jew dettalji relatati mal-postijiet ta’ tluq, liema informazzjoni twassal għal, jew tikkonribwixxi b’mod sinjifikanti għall-intraċċar jew għall-prosekuzzjoni tat-traffikant;
-
-*2*
+"koperazzjoni" tfisser l-għotja ta’ informazzjoni miċ-ċittadin ta’ pajjiż terz lill-awtoritajiet ta’ l-immigrazzjoni li għandha x’taqsam, inter alia, mal-wasla tiegħu f’Malta bħala vittma ta’ traffikar jew li għandha x’taqsam mal-wasla tiegħu b’mod illegali f ’Malta u tinkludi, b’mod partikolari, l-ismijiet ta’ persuni ta’ traffikanti jew il-kompliċi tagħhom jew dettalji relatati mal-postijiet ta’ tluq, liema informazzjoni twassal għal, jew tikkonribwixxi b’mod sinjifikanti għall-intraċċar jew għall-prosekuzzjoni tat-traffikant;
 
 "Ministru" tfisser il-Ministru responsabbli għall-immigrazzjoni;
 
@@ -100,11 +90,7 @@ Iżda l-perjodu ta’ riflessjoni m’għandux joħloq xi dritt għal residenza 
 
 u, fejn applikabbli:
 
-JEW IMMIGRAZZJONI ILLEGALI LI JIKKOPERAW
-
-*3*
-
-MA’ L-AWTORITAJIET MALTIN [S.L.217.07 (iii) attenzjoni għall-bżonijiet ta’ dawk l-aktar vulnerabbli;
+(iii) attenzjoni għall-bżonijiet ta’ dawk l-aktar vulnerabbli;
 
 (iv) għajnuna psikoloġika;
 
@@ -136,11 +122,7 @@ Iżda fil-każ meta ċ-ċittadin ta’ pajjiż terz huwa minuri, għandu jkollu 
 
 Iżda, meta ċ-ċittadin ta’ pajjiż terz konċernat jkun minuri, l- Uffiċjal Prinċipali ta’ l-Immigrazzjoni għandu jqis b’mod xieraq l-aħjar interessi tiegħu u jiżgura li l-proċedura hija xierqa skond l-età u l-maturità tiegħu.
 
-(2) Il-perjodu ta’ residenza msemmi fis-subregolament (1) għandu jkun validu għal perjodu ta’ tnax (12)-il xahar li għandu jiġġedded jekk il-kondizzjonijiet imsemmija fl-istess subregolament jissussistu u, b’mod partikolari, għandhom jitqiesu l-aħjar interessi tat-tfal fil- JEW IMMIGRAZZJONI ILLEGALI LI JIKKOPERAW [S.L.217.07 MA’ L-AWTORITAJIET MALTIN
-
-każijiet fejn iċ-ċittadin ta’ pajjiż terz ikun minuri.
-
-*4*
+(2) Il-perjodu ta’ residenza msemmi fis-subregolament (1) għandu jkun validu għal perjodu ta’ tnax (12)-il xahar li għandu jiġġedded jekk il-kondizzjonijiet imsemmija fl-istess subregolament jissussistu u, b’mod partikolari, għandhom jitqiesu l-aħjar interessi tat-tfal fil-każijiet fejn iċ-ċittadin ta’ pajjiż terz ikun minuri.
 
 (3) Id-disposizzjonijiet tar-regolament 3(5) għandhom japplikaw għaċ-ċittadin ta’ pajjiż terz konċernat, meta ma jkollux ir-riżorsi biżżejjed, wara l-ħruġ tal-permess għal residenza u għal kemm idum dak il-permess:
 

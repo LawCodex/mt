@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regolamenti li jimplimentaw id-Direttiva dwar Mekkaniżmi għas-Soluzzjoni tat-Tilwim dwar it-Taxxa fl-Unjoni Ewropea (S.L. 123.191)
 
-*1*
-
-TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 LEĠISLAZZJONI SUSSIDJARJA 123.191
+**LEĠISLAZZJONI SUSSIDJARJA 123.191**
 
 REGOLAMENTI LI JIMPLIMENTAW ID-DIRETTIVA
 
@@ -53,11 +51,9 @@ L-AVVIŻ LEGALI 159 tal-2019, kif emendat bl-Avviż Legali 441 tal-2020.
 
 "kwistjoni ta’ tilwim" tfisser il-każ li jwassal għat-tilwim imsemmi fir-regolament 2(2);
 
-"persuna milquta" tfisser kwalunkwe persuna, inkluż individwu, li għal skopijiet ta’ taxxa hija residenti fi Stat Membru u li t-tassazzjoni tagħha hija milquta direttament minn [L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA kwistjoni ta’ tilwim;
+"persuna milquta" tfisser kwalunkwe persuna, inkluż individwu, li għal skopijiet ta’ taxxa hija residenti fi Stat Membru u li t-tassazzjoni tagħha hija milquta direttament minn kwistjoni ta’ tilwim;
 
 "qorti kompetenti" fil-każ ta’ Malta tfisser il-Prim’Awla tal-Qorti Ċivili u fir-rigward ta’ kwalunkwe Stat Membru ieħor tfisser il-qorti, it-tribunal jew korp ieħor ta’ Stat Membru li jkun inħatar bħala tali minn dak l-Istat Membru kkonċernat;
-
-*2*
 
 "Stat Membru" tfisser membru tal-Unjoni Ewropea;
 
@@ -81,11 +77,9 @@ L-AVVIŻ LEGALI 159 tal-2019, kif emendat bl-Avviż Legali 441 tal-2020.
 
 (2) Persuna milquta għandha dritt li tissottometti lment lill- Kummissarju skont dawn ir-regolamenti irrispettivament mill-fatt jekk għandhiex aċċess għar-rimedji disponibbli fil-liġi ta’ Malta jew fil-liġi ta’ kwalunkwe wieħed (1) mill-Istati Membri l-oħra kkonċernati.
 
-(3) L-ilment għandu jiġi ppreżentat lill-Kummissarju bil- Malti jew bl-Ingliż fi żmien tliet (3) snin minn meta l-persuna milquta TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 tirċievi l-ewwel notifika tal-azzjoni li tirriżulta, jew li tkun ser tirriżulta, fil-kwistjoni ta’ tilwim.
+(3) L-ilment għandu jiġi ppreżentat lill-Kummissarju bil- Malti jew bl-Ingliż fi żmien tliet (3) snin minn meta l-persuna milquta tirċievi l-ewwel notifika tal-azzjoni li tirriżulta, jew li tkun ser tirriżulta, fil-kwistjoni ta’ tilwim.
 
 (4) Il-persuna milquta għandha tindika fl-ilment ippreżentat lill-Kummissarju liema huma l-Istati Membri l-oħra kkonċernati u għandha simultanjament tressaq l-ilment bl-istess informazzjoni lill-awtorità kompetenti ta’ kull wieħed mill-Istati Membri l-oħra kkonċernati.
-
-*3*
 
 ## 5. Informazzjoni li għandha tiġi provduta mill-persuna milquta.
 
@@ -103,9 +97,7 @@ L-AVVIŻ LEGALI 159 tal-2019, kif emendat bl-Avviż Legali 441 tal-2020.
 
 (i) spjegazzjoni ta’ għaliex il-persuna milquta tqis li hemm kwistjoni ta’ tilwim;
 
-*4*
-
-[L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA (ii) id-dettalji ta’ kwalunkwe appell u kawża mibdija mill-persuna milquta rigward it-transazzjonijiet relevanti u ta’ kwalunkwe deċiżjoni tal-qorti dwar il-kwistjoni ta’ tilwim;
+(ii) id-dettalji ta’ kwalunkwe appell u kawża mibdija mill-persuna milquta rigward it-transazzjonijiet relevanti u ta’ kwalunkwe deċiżjoni tal-qorti dwar il-kwistjoni ta’ tilwim;
 
 (iii) impenn mill-persuna milquta li twieġeb bl-aktar mod sħiħ u malajr possibbli għat-talbiet xierqa kollha li jsiru minn awtorità kompetenti u li tipprovdi kwalunkwe dokumentazzjoni mitluba mill-awtoritajiet kompetenti;
 
@@ -121,13 +113,11 @@ L-AVVIŻ LEGALI 159 tal-2019, kif emendat bl-Avviż Legali 441 tal-2020.
 
 ## 6. Konferma tar-riċevuta tal-ilment.
 
-Il-Kummissarju għandu jikkonferma r-riċevuta tal-ilment fi żmien xahrejn (2) mid-data li jkun irċevih. F’dak iż-żmien huwa għandu wkoll jinforma lill-awtoritajiet kompetenti tal-Istati Membri kkonċernati l-oħra dwar il-wasla tal-ilment u dwar liema lingwa jew lingwi beħsiebu juża għall-komunikazzjonijiet matul il-proċedimenti TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 relevanti.
+Il-Kummissarju għandu jikkonferma r-riċevuta tal-ilment fi żmien xahrejn (2) mid-data li jkun irċevih. F’dak iż-żmien huwa għandu wkoll jinforma lill-awtoritajiet kompetenti tal-Istati Membri kkonċernati l-oħra dwar il-wasla tal-ilment u dwar liema lingwa jew lingwi beħsiebu juża għall-komunikazzjonijiet matul il-proċedimenti relevanti.
 
 ## 7. L-aċċettazzjoni jew iċ-ċaħda tal-ilment.
 
 (1) Il-Kummissarju għandu jieħu deċiżjoni dwar l-aċċettazzjoni jew iċ-ċaħda tal-ilment fi żmien sitt (6) xhur mill-wasla tal-ilment jew fi żmien sitt (6) xhur mill-wasla tal-informazzjoni msemmija fir-regolament 5(1)(f), skont liema minnhom tkun l-aktar reċenti. Il-Kummissarju għandu jinforma lill-persuna milquta u lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati bid-deċiżjoni tiegħu mingħajr dewmien.
-
-*5*
 
 (2) Il-Kummissarju jista’ jiddeċiedi li jiċħad ilment fi żmien il-perijodu previst fis-subregolament (1) jekk:
 
@@ -153,9 +143,7 @@ Iżda ż-żmien li fih appell jista’ jsir skont l-artikolu 35(1) tal-Att dwar 
 
 (a) waqt li d-deċiżjoni tkun għadha taħt appell skont id-dispożizzjonijiet tal-liġi nazzjonali ta’ kwalunkwe Stat Membru konċernat;
 
-*6*
-
-[L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA (b) meta d-deċiżjoni ta’ ċaħda tkun għadha tista’ tiġi appellata ulterjorment taħt il-proċedura ta’ appell ta’ kwalunkwe Stat Membru kkonċernat; jew
+(b) meta d-deċiżjoni ta’ ċaħda tkun għadha tista’ tiġi appellata ulterjorment taħt il-proċedura ta’ appell ta’ kwalunkwe Stat Membru kkonċernat; jew
 
 (ċ) meta deċiżjoni ta’ ċaħda tkun ġiet konfermata taħt il-proċedura ta’ appell fis-subparagrafu (5)(a) iżda ma jkunx possibbli li jkun hemm deroga mid-deċiżjoni tal-qorti relevanti jew ta’ korpi ġudizzjarji oħra fi kwalunkwe wieħed (1) mill- Istati Membri kkonċernati.
 
@@ -179,11 +167,9 @@ Iżda ż-żmien li fih appell jista’ jsir skont l-artikolu 35(1) tal-Att dwar 
 
 ## 10. Proċedura ta' ftehim reċiproku.
 
-(1) (a) Meta l-Kummissarju u l-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati jaċċettaw ilment, il- Kummissarju għandu jagħmel ħiltu biex jirrisolvi l-kwistjoni ta’ TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 tilwim permezz ta’ ftehim reċiproku mal-awtoritajiet kompetenti tal- Istati Membri l-oħra kkonċernati fi żmien sentejn (2) li jibdew mill-aħħar notifika ta’ deċiżjoni tal-awtorità kompetenti ta’ wieħed (1) mill-Istati Membri dwar l-aċċettazzjoni tal-ilment.
+(1) (a) Meta l-Kummissarju u l-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati jaċċettaw ilment, il- Kummissarju għandu jagħmel ħiltu biex jirrisolvi l-kwistjoni ta’ tilwim permezz ta’ ftehim reċiproku mal-awtoritajiet kompetenti tal- Istati Membri l-oħra kkonċernati fi żmien sentejn (2) li jibdew mill-aħħar notifika ta’ deċiżjoni tal-awtorità kompetenti ta’ wieħed (1) mill-Istati Membri dwar l-aċċettazzjoni tal-ilment.
 
 (b) It-tali perijodu ta’ sentejn (2) jista’ jiġi estiż b’massimu ta’ sena (1) fuq talba tal-awtorità kompetenti ta’ Stat Membru ieħor kkonċernat lill-Kummissarju:
-
-*7*
 
 Iżda l-awtoritajiet kompetenti tal-Istati Membri kollha kkonċernati jkunu rċevew it-talba u li l-awtorità kompetenti li tagħmel it-talba tipprovdi ġustifikazzjoni bil-miktub.
 
@@ -199,9 +185,7 @@ Iżda fejn il-proċedimenti fir-rigward ta’ tali rimedji oħrajn ikunu diġà 
 
 (1) Fuq talba magħmula mill-persuna milquta, il- Kummissarju għandu jieħu l-passi neċessarji biex jistabbilixxi Kummissjoni Konsultattiva f'konformità mar-regolament 13 fejn:
 
-*8*
-
-[L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA (a) l-ilment imressaq minn tali persuna milquta jkun ġie miċħud mill-Kummissarju skont ir-regolament 7(2) jew, fejn il-Kummissarju ma jkunx ċaħad l-ilment u l-ilment ikun ġie miċħud mill-awtorità kompetenti ta’ mill-inqas wieħed (1) mill-Istati Membri konċernati l-oħra skont il-liġi nazzjonali ta’ dak l-Istat Membru li tikkorrispondi għar-regolament 7(2); jew
+(a) l-ilment imressaq minn tali persuna milquta jkun ġie miċħud mill-Kummissarju skont ir-regolament 7(2) jew, fejn il-Kummissarju ma jkunx ċaħad l-ilment u l-ilment ikun ġie miċħud mill-awtorità kompetenti ta’ mill-inqas wieħed (1) mill-Istati Membri konċernati l-oħra skont il-liġi nazzjonali ta’ dak l-Istat Membru li tikkorrispondi għar-regolament 7(2); jew
 
 (b) il-Kummissarju u l-awtoritajiet kompetenti tal- Istati Membri l-oħra kkonċernati kienu aċċettaw l-ilment li jkun tressaq mill-persuna milquta iżda ma jkunx irnexxielhom jilħqu ftehim dwar kif għandha tiġi riżolta l-kwistjoni ta’ tilwim bi ftehim reċiproku fil-limitu ta’ żmien previst fir-regolament 10(1).
 
@@ -221,11 +205,9 @@ It-talba għandha tinkludi dikjarazzjoni f’dan is-sens.
 
 (4) Il-Kummissarju għandu jieħu l-passi neċessarji biex iwaqqaf il-Kummissjoni Konsultattiva mhux aktar tard minn mija u għoxrin (120) jum mill-wasla tat-talba imsemmija fis-subregolamenti ta’ hawn fuq, u ladarba l-Kummissjoni Konsultattiva tiġi stabbilita, il-persuna milquta għandha tiġi infurmata b'dan mill-President tagħha mingħajr dewmien.
 
-(5) Il-Kummissjoni Konsultattiva stabbilita fil-każ tas-subregolament (1)(a) għandha tadotta deċiżjoni dwar l-aċċettazzjoni tal-ilment fi żmien sitt (6) xhur mid-data tal-istabbiliment tagħha. Hija TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 għandha tinnotifika lill-awtoritajiet kompetenti bid-deċiżjoni tagħha fi żmien tletin (30) jum mill-adozzjoni tagħha.
+(5) Il-Kummissjoni Konsultattiva stabbilita fil-każ tas-subregolament (1)(a) għandha tadotta deċiżjoni dwar l-aċċettazzjoni tal-ilment fi żmien sitt (6) xhur mid-data tal-istabbiliment tagħha. Hija għandha tinnotifika lill-awtoritajiet kompetenti bid-deċiżjoni tagħha fi żmien tletin (30) jum mill-adozzjoni tagħha.
 
 (6) (a) Fejn il-Kummissjoni Konsultattiva mwaqqfa skont is-subregolament (1)(a) tkun ikkonfermat li ġew sodisfatti r-rekwiżiti kollha skont ir-regolamenti 4 u 5, għandha tinbeda il-proċedura ta’ ftehim reċiproku prevista fir-regolament 10 fuq talba tal- Kummissarju jew tal-awtorità kompetenti ta’ kwalunkwe wieħed (1) mill-Istati Membri l-oħra kkonċernati. Fejn it-talba tkun magħmula mill-Kummissarju, huwa għandu jinnotifika lill-Kummissjoni Konsultattiva, lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati u lill-persuna milquta b’dan. Il-perijodu previst fir-regolament 10(1) għandu jibda mid-data tan-notifika tad-deċiżjoni meħuda mill-Kummissjoni Konsultattiva dwar l-aċċettazzjoni tal-ilment.
-
-*9*
 
 (b) Fejn l-ebda waħda mill-awtoritajiet kompetenti tal- Istati Membri kkonċernati ma tkun talbet li tinbeda l-proċedura ta’ ftehim reċiproku skont il-paragrafu (a) fi żmien sittin (60) jum mid-data tan-notifika tad-deċiżjoni tal-Kummissjoni Konsultattiva, il-Kummissjoni Konsultattiva għandha tipprovdi opinjoni dwar kif għandha tiġi riżolta l-kwistjoni ta’ tilwim kif previst fir-regolament 19(1). F'każ bħal dan, għall-finijiet tar-regolament 19(1), il-Kummissjoni Konsultattiva għandha titqies li ġiet stabbilita fid-data li fiha jkun intemm dak il-perijodu ta’ sittin (60) jum.
 
@@ -239,11 +221,9 @@ It-talba għandha tinkludi dikjarazzjoni f’dan is-sens.
 
 Fejn il-Kummissarju jkun naqas milli jaħtar mill-inqas persuna waħda (1) indipendenti ta’ reputazzjoni u sostitut, il-persuna milquta tista’ titlob liċ-Chairman tal-Bord ta’ Gvernaturi taċ-Ċentru dwar l-Arbitraġġ ta’ Malta biex jaħtar persuna indipendenti ta’ reputazzjoni u sostitut mil-lista msemmija fir-regolament 14.
 
-Jekk il-Kummissarju u l-awtoritajiet kompetenti tal-Istati Membri l-oħra kollha kkonċernati jkunu naqsu milli jagħmlu dan, il-persuna milquta tista’ titlob liċ-Chairman tal-Bord ta’ Gvernaturi taċ- Ċentru dwar l-Arbitraġġ ta’ Malta u lill-qrati kompetenti tal-Isati Membru l-oħra kkonċernati jew lil kwalunkwe korp jew persuna oħra inkarigata skont il-liġijiet nazzjonali tagħhom għat-twettiq ta’ tali funzjoni biex jaħtru liż-żewġ (2) persuni indipendenti ta’ reputazzjoni [L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA mil-lista msemmija fir-regolament 14. Dawk il-persuni indipendenti ta’ reputazzjoni għandhom jaħtru l-president billi jtellgħu persuna bix-xorti mil-lista ta’ persuni indipendenti f’konformità mas-subregolament (3) tar-regolament 13.
+Jekk il-Kummissarju u l-awtoritajiet kompetenti tal-Istati Membri l-oħra kollha kkonċernati jkunu naqsu milli jagħmlu dan, il-persuna milquta tista’ titlob liċ-Chairman tal-Bord ta’ Gvernaturi taċ- Ċentru dwar l-Arbitraġġ ta’ Malta u lill-qrati kompetenti tal-Isati Membru l-oħra kkonċernati jew lil kwalunkwe korp jew persuna oħra inkarigata skont il-liġijiet nazzjonali tagħhom għat-twettiq ta’ tali funzjoni biex jaħtru liż-żewġ (2) persuni indipendenti ta’ reputazzjoni mil-lista msemmija fir-regolament 14. Dawk il-persuni indipendenti ta’ reputazzjoni għandhom jaħtru l-president billi jtellgħu persuna bix-xorti mil-lista ta’ persuni indipendenti f’konformità mas-subregolament (3) tar-regolament 13.
 
 Jekk tkun involuta aktar minn persuna milquta waħda fil-proċedimenti, rinviji għall-ħatra ta’ persuni indipendenti ta’ reputazzjoni u s-sostituti tagħhom għandhom jiġu ppreżentati liċ- Chairman tal-Bord ta’ Gvernaturi taċ-Ċentru dwar l-Arbitraġġ ta’ Malta minn dawk il-persuni milquta li jkunu residenti Malta. Jekk tkun involuta persuna milquta waħda biss, rinviju bħal dawk għandu jiġi ppreżentat liċ-Chairman tal-Bord ta’ Gvernaturi taċ-Ċentru dwar l- Arbitraġġ ta’ Malta jekk il-Kummissarju jkun naqas milli jaħtar mill-inqas persuna waħda (1) indipendenti ta’ reputazzjoni u sostitut.
-
-*10*
 
 (2) Il-ħatra tal-persuni indipendenti u s-sostituti tagħhom skont is-subregolament (1) għandha tiġi riferuta liċ-Chairman tal- Bord ta’ Gvernaturi taċ-Ċentru dwar l-Arbitraġġ ta’ Malta biss wara t-tmiem tal-perjodu ta’ mija u għoxrin (120) jum imsemmi fis-subregolament (4) tar-regolament 11, u fi żmien tletin (30) jum wara t-tmiem ta’ dak il-perjodu.
 
@@ -267,9 +247,7 @@ Iċ-Chairman tal-Bord ta’ Gvernaturi taċ-Ċentru dwar l- Arbitraġġ ta’ Ma
 
 (b) rappreżentant wieħed (1) tal-awtorità kompetenti ta’ kull Stat Membru kkonċernat:
 
-*11*
-
-TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 Iżda f’każ ta’ qbil bejn l-awtoritajiet kompetenti, l-għadd ta’ tali rappreżentanti jista’ jiżdied sa tnejn (2) għal kull awtorità kompetenti; u
+Iżda f’każ ta’ qbil bejn l-awtoritajiet kompetenti, l-għadd ta’ tali rappreżentanti jista’ jiżdied sa tnejn (2) għal kull awtorità kompetenti; u
 
 (c) persuna indipendenti waħda (1) ta’ reputazzjoni, li għandha tinħatar mill-awtorità kompetenti ta’ kull Stat Membru kkonċernat mil-lista ta’ persuni indipendenti ta’ reputazzjoni mħatrin mill-Istati Membri:
 
@@ -287,9 +265,7 @@ Iżda f’każ ta’ qbil bejn l-awtoritajiet kompetenti, l-għadd ta’ tali pe
 
 (ċ) dik il-persuna ma toffrix garanzija suffiċjenti ta’ oġġettività għas-soluzzjoni tat-tilwima jew tat-tilwim li jkun irid jiġi deċiż;
 
-*12*
-
-[L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA (d) dik il-persuna tkun impjegata ma’ intrapriża li tipprovdi konsulenza fiskali jew inkella tagħti konsulenza fiskali fuq bażi professjonali, jew kienet f'tali sitwazzjoni fi kwalunkwe żmien matul perijodu ta’ mill-inqas tliet (3) snin qabel id-data tal-ħatra tagħha.
+(d) dik il-persuna tkun impjegata ma’ intrapriża li tipprovdi konsulenza fiskali jew inkella tagħti konsulenza fiskali fuq bażi professjonali, jew kienet f'tali sitwazzjoni fi kwalunkwe żmien matul perijodu ta’ mill-inqas tliet (3) snin qabel id-data tal-ħatra tagħha.
 
 (5) Il-Kummissarju jista’ jitlob li persuna ta’ reputazzjoni li tkun inħatret skont is-subregolamenti (2) jew (3), jew is-sostitut tagħha, tiżvela kwalunkwe interess, relazzjoni jew kwalunkwe kwistjoni oħra li x'aktarx taffettwa l-indipendenza jew l-imparzjalità tagħha jew li tista’ raġonevolment toħloq impressjoni ta’ preġudizzju fil-proċedimenti. Għal perijodu ta’ tnax (12)-il xahar wara li l-opinjoni tal-Kummissjoni Konsultattiva, persuna indipendenti ta’ reputazzjoni li hija parti mill-Kummissjoni Konsultattiva ma għandhiex tkun f'sitwazzjoni li kieku kienet tagħti lok għal oġġezzjoni minn awtorità kompetenti għall-ħatra tagħha kif previst fis-subregolament (4) kieku kellha tkun f'dik is-sitwazzjoni fil-mument tal-ħatra għal din l-istess Kummissjoni Konsultattiva.
 
@@ -305,11 +281,9 @@ Iżda f’każ ta’ qbil bejn l-awtoritajiet kompetenti, l-għadd ta’ tali pe
 
 (4) Il-Kummissarju għandu jistabbilixxi proċeduri għat-tneħħija mil-lista ta’ kwalunkwe persuna li hu jkun ħatar mil-lista’ ta’ persuni indipendenti ta’ reputazzjoni jekk dik il-persuna ma tibqax indipendenti.
 
-(5) Fejn, b'kont meħud tad-dispożizzjonijiet relevanti ta’ dan ir-regolament, il-Kummissarju għandu raġuni valida biex joġġezzjona għal persuna indipendenti ta’ reputazzjoni maħtura mill-awtorità TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 kompetenti ta’ Stat Membru milli tibqa' fil-lista msemmija hawn fuq għal raġunijiet ta’ nuqqas ta’ indipendenza, dan għandu jinforma lill- Kummissjoni u jipprovdi evidenza xierqa biex jappoġġa t-tħassib tiegħu.
+(5) Fejn, b'kont meħud tad-dispożizzjonijiet relevanti ta’ dan ir-regolament, il-Kummissarju għandu raġuni valida biex joġġezzjona għal persuna indipendenti ta’ reputazzjoni maħtura mill-awtorità kompetenti ta’ Stat Membru milli tibqa' fil-lista msemmija hawn fuq għal raġunijiet ta’ nuqqas ta’ indipendenza, dan għandu jinforma lill- Kummissjoni u jipprovdi evidenza xierqa biex jappoġġa t-tħassib tiegħu.
 
 (6) Fejn il-Kummissarju jiġi infurmat mill-Kummissjoni dwar oġġezzjoni għal persuna indipendenti ta’ reputazzjoni maħtura minnu flimkien ma’ evidenza ta’ sostenn, huwa għandu, fi żmien sitt (6) xhur, jieħu l-passi neċessarji biex jinvestiga l-ilment, u għandu jiddeċiedi jekk iżommx jew ineħħix lil dik il-persuna mil-lista. Il- Kummissarju għandu jinnotifika lill-Kummissjoni b'dan mingħajr dewmien.
-
-*13*
 
 (7) Il-lista ta’ persuni indipendenti ta’ reputazzjoni msemmija fir-regolament 13 għandha tikkonsisti minn persuni indipendenti ta’ reputazzjoni nominati mill-Kummissarju f’konformità ma’ dan ir-regolament u mill-persuni indipendenti ta’ reputazzjoni l-oħrajn kollha nominati mill-Istati Membri l-oħra kkonċernati f’konformità mal-liġijiet nazzjonali rispettivi tagħhom.
 
@@ -321,13 +295,11 @@ Iżda f’każ ta’ qbil bejn l-awtoritajiet kompetenti, l-għadd ta’ tali pe
 
 (3) Il-Kummissarju għandu jiddeċiedi dwar ir-Regoli ta’ Funzjonament f'konformità mar-regolament 16, flimkien mal-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati.
 
-(4) Ir-regolamenti 17 u 18 għandhom japplikaw għall- [L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim sakemm ma jiġix maqbul mod ieħor fir-Regoli ta’ Funzjonament imsemmija fir-regolament 16.
+(4) Ir-regolamenti 17 u 18 għandhom japplikaw għall- Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim sakemm ma jiġix maqbul mod ieħor fir-Regoli ta’ Funzjonament imsemmija fir-regolament 16.
 
 ## 16. Regoli ta' Funzjonament.
 
 (1) Fi żmien il-perijodu ta’ mija u għoxrin (120) jum kif previst fir-regolament 11(4), il-Kummissarju għandu jinnotifika lill-persuna milquta b'dan li ġej:
-
-*14*
 
 (a) ir-Regoli ta’ Funzjonament għall-Kummissjoni Konsultattiva jew għall-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim;
 
@@ -347,11 +319,9 @@ Iżda f’każ ta’ qbil bejn l-awtoritajiet kompetenti, l-għadd ta’ tali pe
 
 (e) il-kompożizzjoni tal-Kummissjoni Konsultattiva jew tal-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim (inkluż in-numru u l-ismijiet tal-membri, id-dettalji tal-kompetenza u l-kwalifiki tagħhom, u d-divulgazzjoni ta’ kwalunkwe kunflitt ta’ interessi tal-membri);
 
-(f) ir-regoli li jirregolaw il-parteċipazzjoni tal-persuna(i) milquta u ta’ partijiet terzi fil-proċedimenti, l-iskambji ta’ memoranda, informazzjoni u evidenza, l-ispejjeż, TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 it-tip ta’ proċess għas-soluzzjoni tat-tilwim li għandu jintuża, u kwalunkwe kwistjonijiet proċedurali jew organizzattiva relevanti oħra;
+(f) ir-regoli li jirregolaw il-parteċipazzjoni tal-persuna(i) milquta u ta’ partijiet terzi fil-proċedimenti, l-iskambji ta’ memoranda, informazzjoni u evidenza, l-ispejjeż, it-tip ta’ proċess għas-soluzzjoni tat-tilwim li għandu jintuża, u kwalunkwe kwistjonijiet proċedurali jew organizzattiva relevanti oħra;
 
 (g) l-arranġamenti loġistiċi għall-proċedimenti tal- Kummissjoni Konsultattiva u għall-għoti tal-opinjoni tagħha:
-
-*15*
 
 Iżda jekk Kummissjoni Konsultattiva titwaqqaf biex tagħti opinjoni skont ir-regolament 11(1)(a), fir-Regoli ta’ Funzjonament għandu jkun hemm biss l-informazzjoni msemmija fil-paragrafi (a), (d), (e) u (f) ta’ dan is-subregolament.
 
@@ -367,11 +337,9 @@ Iżda jekk Kummissjoni Konsultattiva titwaqqaf biex tagħti opinjoni skont ir-re
 
 (a) l-ispejjeż tal-persuni indipendenti ta’ reputazzjoni, li għandhom ikunu ta’ ammont ekwivalenti għall-medja tal-ammont normalment rimborżat lill-impjegati taċ-ċivil ta’ grad għoli tal-Istati Membri kkonċernati; u
 
-(b) it-tariffi tal-persuni indipendenti, fejn applikabbli, li għandhom ikunu limitati għal elf euro (€1,000) għal kull persuna għal kull jum, li fih jiltaqgħu l-Kummissjoni [L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA Konsultattiva jew il-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim.
+(b) it-tariffi tal-persuni indipendenti, fejn applikabbli, li għandhom ikunu limitati għal elf euro (€1,000) għal kull persuna għal kull jum, li fih jiltaqgħu l-Kummissjoni Konsultattiva jew il-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim.
 
 (2) Il-Kummissarju ma għandux iħallas l-ispejjeż imġarrba mill-persuna milquta.
-
-*16*
 
 (3) Meta l-persuna milquta tkun għamlet:
 
@@ -393,9 +361,7 @@ u l-awtoritajiet kompetenti tal-Istati Membri kkonċernati hekk jaqblu, l-ispejj
 
 (ċ) l-informazzjoni tikkonċerna sigrieti kummerċjali, sigrieti tan-negozju, sigrieti industrijali, sigrieti professjonali jew proċessi kummerċjali;
 
-*17*
-
-TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 (d) id-divulgazzjoni tal-informazzjoni tmur kontra l-ordni pubbliku.
+(d) id-divulgazzjoni tal-informazzjoni tmur kontra l-ordni pubbliku.
 
 (3) Il-persuni milquta, fuq talba tagħhom u bil-kunsens tal- Kummissarju u tal-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati, jistgħu jidhru jew ikunu rappreżentati quddiem Kummissjoni Konsultattiva jew il-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim. Fuq talba mill-Kummissjoni Konsultattiva jew mill-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim, il-persuni milquta għandhom jidhru jew ikunu rappreżentati quddiemha.
 
@@ -415,11 +381,9 @@ TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 (d) id-divulgazzjoni ta
 
 (1) Kummissjoni Konsultattiva jew Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim għandha tagħti l-opinjoni tagħha lill-Kummissarju u lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati mhux aktar tard minn sitt (6) xhur wara d-data li fiha tkun ġiet stabbilita. Meta l-Kummissjoni Konsultattiva jew il-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim tqis li l-kwistjoni ta' tilwim hija tali li tkun teħtieġ aktar minn sitt (6) xhur biex tingħata opinjoni, dan il-perijodu jista' jiġi estiż bi tliet (3) xhur. Il- Kummissjoni Konsultattiva jew il-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim għandha tinforma lill-Kummissarju, lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati u lill-persuni milquta dwar kwalunkwe estensjoni bħal din.
 
-(2) Il-Kummissjoni Konsultattiva jew il-Kummissjoni għas- Soluzzjoni Alternattiva tat-Tilwim għandha tibbaża l-opinjoni tagħha fuq id-dispożizzjonijiet tal-ftehim jew tal-konvenzjoni applikabbli msemmija fir-regolament 2(2) kif ukoll fuq kwalunkwe regola [L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA nazzjonali applikabbli.
+(2) Il-Kummissjoni Konsultattiva jew il-Kummissjoni għas- Soluzzjoni Alternattiva tat-Tilwim għandha tibbaża l-opinjoni tagħha fuq id-dispożizzjonijiet tal-ftehim jew tal-konvenzjoni applikabbli msemmija fir-regolament 2(2) kif ukoll fuq kwalunkwe regola nazzjonali applikabbli.
 
 (3) Il-Kummissjoni Konsultattiva jew il-Kummissjoni għas- Soluzzjoni Alternattiva tat-Tilwim għandha tadotta l-opinjoni tagħha b'maġġoranza sempliċi tal-membri tagħha. Meta ma tkunx tista' tintlaħaq maġġoranza, il-vot tal-President għandu jiddetermina l-opinjoni finali. Il-President għandu jikkomunika l-opinjoni tal- Kummissjoni Konsultattiva jew tal-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim lill-Kummissarju u lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati.
-
-*18*
 
 ## 20. Deċiżjoni finali.
 
@@ -435,9 +399,7 @@ TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 (d) id-divulgazzjoni ta
 
 (6) Ħlief meta l-qorti relevanti jew korp ġudizzjarju ieħor ta’ Stat Membru kkonċernat ikun iddeċieda skont ir-regoli nazzjonali applikabbli tiegħu dwar ir-rimedji u b'applikazzjoni tal-kriterji taħt ir-regolament 13 li kien hemm nuqqas ta’ indipendenza, id-deċiżjoni finali għandha tiġi implimentata, fejn applikabbli, skont l-Atti dwar it- Taxxi u t-taxxa taħt dawk l-Atti għandha tigi emendata skont il-bżonn, irrispettivament minn kwalunkwe limitu ta’ żmien preskritt mil-liġi ta’ Malta.
 
-*19*
-
-TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 (7) Fejn il-Kummissarju ma jimplimentax id-deċiżjoni finali, il-persuna milquta tista’ tippreżenta rikors sabiex issir appell daqs li kieku n-nuqqas tal-Kummissarju kien stima magħmula skont l- Att dwar l-Amministrazzjoni tat-Taxxa u daqs li kieku l-Kummissarju Kap. 372. rrifjuta oġġezzjoni ta’ stima debitament ippreżentata mill-persuna milquta, u d-dispożizzjonijiet relevanti ta’ dak l-Att relevanti għall-appelli, għandhom japplikaw mutatis mutandis:
+(7) Fejn il-Kummissarju ma jimplimentax id-deċiżjoni finali, il-persuna milquta tista’ tippreżenta rikors sabiex issir appell daqs li kieku n-nuqqas tal-Kummissarju kien stima magħmula skont l- Att dwar l-Amministrazzjoni tat-Taxxa u daqs li kieku l-Kummissarju Kap. 372. rrifjuta oġġezzjoni ta’ stima debitament ippreżentata mill-persuna milquta, u d-dispożizzjonijiet relevanti ta’ dak l-Att relevanti għall-appelli, għandhom japplikaw mutatis mutandis:
 
 Iżda ż-żmien li fih appell jista’ jsir skont l-artikolu 35(1) tal-Att dwar l-Amministrazzjoni tat-Taxxa għandu jiskatta minn żmien sitt (6) xhur mid-data meta l-persuna milquta tiġi notifikata b’kopja tad-deċiżjoni finali.
 
@@ -457,11 +419,9 @@ Iżda ż-żmien li fih appell jista’ jsir skont l-artikolu 35(1) tal-Att dwar 
 
 (a) qabel ma jkun intlaħaq qbil mill-awtoritajiet kompetenti tal-Istati Membri kkonċernati taħt il-proċedura ta’ ftehim reċiproku skont ir-regolament 10 dwar dik il-kwistjoni ta’ tilwim, il-Kummissarju għandu jinnotifika lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati dwar dik id-deċiżjoni u li l-proċedura ser tintemm mid-data ta’ tali notifika;
 
-(b) qabel mal-persuna milquta tkun għamlet talba skont ir-regolament 11(1), id-dispożizzjonijiet tar-regolament 11(1) ma japplikawx jekk il-kwistjoni ta’ tilwim baqgħet ma ġietx riżolta matul il-proċedura sħiħa ta’ ftehim reċiproku skont ir-regolament 10, f'liema każ il-Kummissarju għandu jinforma lill-awtoritajiet kompetenti l-oħra tal-Istati Membri kkonċernati [L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA dwar l-effett ta’ dik id-deċiżjoni;
+(b) qabel mal-persuna milquta tkun għamlet talba skont ir-regolament 11(1), id-dispożizzjonijiet tar-regolament 11(1) ma japplikawx jekk il-kwistjoni ta’ tilwim baqgħet ma ġietx riżolta matul il-proċedura sħiħa ta’ ftehim reċiproku skont ir-regolament 10, f'liema każ il-Kummissarju għandu jinforma lill-awtoritajiet kompetenti l-oħra tal-Istati Membri kkonċernati dwar l-effett ta’ dik id-deċiżjoni;
 
 (ċ) il-proċess għas-soluzzjoni tat-tilwim skont ir-regolament 11 għandu jintemm jekk id-deċiżjoni tkun ingħatat f'xi ħin wara li persuna milquta tkun għamlet talba skont ir-regolament 11(1) iżda qabel mal-Kummissjoni Konsultattiva jew il-Kummissjoni għas-Soluzzjoni Alternattiva tat-Tilwim tkun tat l-opinjoni tagħha lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati f'konformità mar-regolament 19, f'liema każ il-Kummissarju għandu jinforma lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati u lill- Kummissjoni Konsultattiva jew il-Kummissjoni għas- Soluzzjoni Alternattiva tat-Tilwim dwar l-effett ta’ dik id-deċiżjoni.
-
-*20*
 
 (5) It-tressiq ta’ lment kif previst skont ir-regolament 4 għandu jtemm kwalunkwe proċeduri li jkunu għaddejjin taħt il-proċedura ta’ ftehim reċiproku jew il-proċedura għas-soluzzjoni tat-tilwim taħt ftehim jew konvenzjoni li tkun qed tiġi interpretata jew applikata fir-rigward tal-kwistjoni relevanti ta’ tilwim. Tali proċedimenti oħra li jkunu għaddejjin dwar il-kwistjoni ta’ tilwim relevanti għandhom jintemmu b'effett mid-data tal-ewwel riċevuta tal-ilment minn xi waħda (1) mill-awtoritajiet kompetenti tal-Istati Membri kkonċernati.
 
@@ -477,9 +437,7 @@ Iżda ż-żmien li fih appell jista’ jsir skont l-artikolu 35(1) tal-Att dwar 
 
 (b) ma tkunx impriża kbira u ma tifformax parti minn grupp kbir (it-tnejn li huma kif definiti fid-Direttiva 2013/34/ UE tal-Parlament Ewropew u tal-Kunsill),
 
-*21*
-
-TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 il-persuna milquta tista’ tippreżenta l-ilmenti, it-tweġibiet għat-talba għal informazzjoni addizzjonali, l-irtirar u t-talbiet speċifikati fir-regolamenti 4, 5(2), 9 u 11(1) rispettivament jew f’dispożizzjonijiet tal-liġi ta’ kwalunkwe Stat Membru kkonċernat li jikkorrispondu għal dawn ir-regolamenti ("komunikazzjonijiet"), permezz ta’ deroga minn dawk id-dispożizzjonijiet, biss lill-awtorità kompetenti tal-Istat Membru li fih tirrisjedi l-persuna milquta.
+il-persuna milquta tista’ tippreżenta l-ilmenti, it-tweġibiet għat-talba għal informazzjoni addizzjonali, l-irtirar u t-talbiet speċifikati fir-regolamenti 4, 5(2), 9 u 11(1) rispettivament jew f’dispożizzjonijiet tal-liġi ta’ kwalunkwe Stat Membru kkonċernat li jikkorrispondu għal dawn ir-regolamenti ("komunikazzjonijiet"), permezz ta’ deroga minn dawk id-dispożizzjonijiet, biss lill-awtorità kompetenti tal-Istat Membru li fih tirrisjedi l-persuna milquta.
 
 (2) Meta l-Kummissarju jirċievi kwalunkwe tali komunikazzjoni, huwa għandu, fi żmien xahrejn (2), jinnotifika lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati fl-istess ħin.
 
@@ -497,11 +455,9 @@ TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA [L.S. 123.191 il-persuna milquta tist
 
 (2) Il-Kummissarju u l-awtoritajiet kompetenti tal-Istati Membri l-oħra kkonċernati jistgħu jaqblu li jippubblikaw id-deċiżjonijiet finali msemmijin fir-regolament 20 fl-intier tagħhom, soġġett għall-kunsens ta’ kull waħda (1) mill-persuni milquta kkonċernati.
 
-(3) Meta l-awtoritajiet kompetenti jew il-persuna milquta kkonċernati ma jagħtux il-kunsens tagħhom għall-pubblikazzjoni tad-deċiżjoni finali fl-intier tagħha, il-Kummissarju għandu jippubblika sommarju tad-deċiżjoni finali. Dak is-sommarju għandu jkun fih deskrizzjoni tal-kwistjoni u s-suġġett, id-data, il-perijodi tat-taxxa involuti, il-bażi legali, is-settur tal-industrija u deskrizzjoni fil-qosor [L.S. 123.191 TAT-TILWIM DWAR IT-TAXXA FL-UNJONI EWROPEA tal-eżitu finali. Għandu jinkludi wkoll deskrizzjoni tal-metodu ta’ arbitraġġ użat. Qabel ma tiġi ppubblikata, il-Kummissarju għandu jibgħat lill-persuna milquta l-informazzjoni li trid tiġi ppubblikata f'konformità ma’ dan is-subregolament. Il-persuna milquta tista’, mhux aktar tard minn sittin (60) jum mill-wasla ta’ tali informazzjoni, titlob lill-Kummissarju biex ma jippubblikax informazzjoni li tikkonċerna xi sigriet tan-negozju, kummerċjali, industrijali jew professjonali, informazzjoni li tikkonċerna proċess kummerċjali, jew informazzjoni li tmur kontra l-ordni pubbliku.
+(3) Meta l-awtoritajiet kompetenti jew il-persuna milquta kkonċernati ma jagħtux il-kunsens tagħhom għall-pubblikazzjoni tad-deċiżjoni finali fl-intier tagħha, il-Kummissarju għandu jippubblika sommarju tad-deċiżjoni finali. Dak is-sommarju għandu jkun fih deskrizzjoni tal-kwistjoni u s-suġġett, id-data, il-perijodi tat-taxxa involuti, il-bażi legali, is-settur tal-industrija u deskrizzjoni fil-qosor tal-eżitu finali. Għandu jinkludi wkoll deskrizzjoni tal-metodu ta’ arbitraġġ użat. Qabel ma tiġi ppubblikata, il-Kummissarju għandu jibgħat lill-persuna milquta l-informazzjoni li trid tiġi ppubblikata f'konformità ma’ dan is-subregolament. Il-persuna milquta tista’, mhux aktar tard minn sittin (60) jum mill-wasla ta’ tali informazzjoni, titlob lill-Kummissarju biex ma jippubblikax informazzjoni li tikkonċerna xi sigriet tan-negozju, kummerċjali, industrijali jew professjonali, informazzjoni li tikkonċerna proċess kummerċjali, jew informazzjoni li tmur kontra l-ordni pubbliku.
 
 (4) Sabiex jikkomunika l-informazzjoni msemmija fis-subregolamenti (2) u (3), il-Kummissarju għandha juża l-formoli standard imsemmina fil-paragrafu (4) tal-artikolu 18 tad-Direttiva tal- Kunsill (UE) 2017/1852 tal-10 ta’ Ottubru 2017 dwar Mekkaniżmi għas-Soluzzjoni tat-Tilwim dwar it-Taxxa fl-Unjoni Ewropea.
-
-*22*
 
 (5) Il-Kummissarju għandu jinnotifika mingħajr dewmien lill-Kummissjoni l-informazzjoni li għandha tiġi ppubblikata f'konformità mas-subregolament (2).
 

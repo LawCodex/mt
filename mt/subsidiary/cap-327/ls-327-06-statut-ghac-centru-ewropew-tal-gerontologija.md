@@ -1,6 +1,6 @@
 ---
 title: "Statut għaċ-Centru Ewropew tal-Ġerontoloġija"
-identifier: "S.L. 327.6"
+identifier: "S.L. 327.06"
 eli: "https://legislation.mt/eli/sl/327.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/327.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Statut għaċ-Centru Ewropew tal-Ġerontoloġija (S.L. 327.6)
-
-STATUT G}A~-~ENTRU
-
-*1*
-
-EWROPEW TAL-{ERONTOLO{IJA [L.S.327.06
+# Statut għaċ-Centru Ewropew tal-Ġerontoloġija (S.L. 327.06)
 
 LE{ISLAZZJONI SUSSIDJARJA 327.06
 

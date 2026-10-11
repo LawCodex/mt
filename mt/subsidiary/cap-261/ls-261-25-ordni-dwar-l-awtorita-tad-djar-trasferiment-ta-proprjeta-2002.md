@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (2002) (S.L. 261.25)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (2002) [ L.S.261.25
-
 LE{ISLAZZJONI SUSSIDJARJA 261.25
 
 ORDNI DWAR L-AWTORITÀ TAD-DJAR
@@ -85,7 +83,7 @@ B’se]] mit-12 ta’ {unju, 2002:
 
 (1) Bi``a art tal-kejl ta’ madwar 754.28 metru kwadru li tag]mel parti mill-Qasam tal-Bini tal-Gvern ta’ l- M[arr, limiti ta’ l-M[arr, Malta, li tmiss mit- Tramuntana ma’ Triq Il-}arruba, minn Nofs-in-nhar ma’ Triq il-Vanilja, u mill-Punent ma’ proprjetà tal- Gvern/Triq il-{ulepp, li tinsab delineata bl-a]mar u markata P116 sa P121 fuq P.D. 168/88/9. (HAM 911/ 88).
 
-(2) Bi``a art tal-kejl ta’ madwar 754.28 metru kwadru li tag]mel parti mill-Qasam tal-Bini tal-Gvern ta’ l- M[arr, limiti ta’ l-M[arr, Malta, li tmiss mit- (TRASFERIMENT TA’ PROPRJETÀ) (2002) [ L.S.261.25 Tramuntana ma’ Triq Il-}arruba, minn Nofs-in-nhar ma’ Triq il-Vanilja, u mil-Lvant ma’ Triq il- Karamella, li tinsab delineata bl-a]mar u markata P122 sa P127 fuq P.D. 168/88/9. (HAM 911/88).
+(2) Bi``a art tal-kejl ta’ madwar 754.28 metru kwadru li tag]mel parti mill-Qasam tal-Bini tal-Gvern ta’ l- M[arr, limiti ta’ l-M[arr, Malta, li tmiss mit- Tramuntana ma’ Triq Il-}arruba, minn Nofs-in-nhar ma’ Triq il-Vanilja, u mil-Lvant ma’ Triq il- Karamella, li tinsab delineata bl-a]mar u markata P122 sa P127 fuq P.D. 168/88/9. (HAM 911/88).
 
 (3) Bi``a art tal-kejl ta’ madwar 1,910.5 metru kwadru li tifforma parti mill-Qasam tal-Bini tal-Gvern Tal-Wej, fil-limiti tal-Mosta, li tmiss mit-Tramuntana ma’ Triq id-Dura, mil-Lvant ma’ Triq il-G]asel, u mill-Punent ma’ Triq il-Mitba], u li tinsab delineata bl-a]mar u markata A fuq P.D. 131/90/3. (HAM 104/88).
 
@@ -121,7 +119,7 @@ B’se]] mill-31 ta’ Lulju, 2002:
 
 (2) Bi``a art tal-kejl ta’ madwar 122.9 metru kwadru, mag]rufa b]ala Plot Nru. 116 fi Triq il-Gladjoli u li tag]mel parti mill-Qasam tal-Bini tal-Gvern ta’ San {wann, Neighbourhood II, limiti ta’ San {wann, li tmiss mill-Grigal ma’ proprjetà ta' Edmond Grech, mix-Xlokk ma’ Triq il-Gladjoli, u mil-Lbi` ma’ proprjetà ta' Francis Cassar, li fuqha hemm mibni l-fond bin-numru 116, Triq il-Gladjoli, Neighbourhood II, San {wann, u tinsab delineata bl-a]mar u markata P. 116 fuq L.D. 128/80/19. (HAP 5/2002).
 
-(3) Bi``a art tal-kejl ta’ madwar 133.5 metru kwadru u s-sit li hemm warajha ta’ madwar 6 metri kwadri, mag]rufa b]ala Plot Nru. 47 u sit 'F' rispettivament, fi Triq Xandru D’Amato, u li jag]mlu parti mill-Qasam tal-Bini tal-Gvern tan-Nigret, limiti ta\\-|urrieq, li jmissu mit-Tramuntana ma’ Triq Xandru D’Amato, min-Nofsinhar ma’ passa[[ pubbliku, u mil-Lvant ma’ proprjetà ta’ Edward Farrugia, li fuqhom hemm mibni l-fond bin-numru 47, mag]ruf b]ala ''Devona'', Triq Xandru D’Amato, |urrieq u jinsabu delineati bl-a]mar u markati Plot 47 u Sit 'F' fuq L.D. 198/81/17. (HAP (TRASFERIMENT TA’ PROPRJETÀ) (2002) [ L.S.261.25 3/2001).
+(3) Bi``a art tal-kejl ta’ madwar 133.5 metru kwadru u s-sit li hemm warajha ta’ madwar 6 metri kwadri, mag]rufa b]ala Plot Nru. 47 u sit 'F' rispettivament, fi Triq Xandru D’Amato, u li jag]mlu parti mill-Qasam tal-Bini tal-Gvern tan-Nigret, limiti ta\\-|urrieq, li jmissu mit-Tramuntana ma’ Triq Xandru D’Amato, min-Nofsinhar ma’ passa[[ pubbliku, u mil-Lvant ma’ proprjetà ta’ Edward Farrugia, li fuqhom hemm mibni l-fond bin-numru 47, mag]ruf b]ala ''Devona'', Triq Xandru D’Amato, |urrieq u jinsabu delineati bl-a]mar u markati Plot 47 u Sit 'F' fuq L.D. 198/81/17. (HAP 3/2001).
 
 (4) Flat numru 3, Blokk C, Unit Nru. 1, Bini tal-Gvern, Paola (Tenement No. 62184 - 6HA 20/99).
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income ma' l-Afrika t' Isfel (S.L. 123.45)
 
-*1*
-
-FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45
-
 **LEĀISLAZZJONI SUSSIDJARJA 123.45**
 
 ORDNI DWAR EśENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME MAL-AFRIKA TA’ ISFEL 12 ta’ Novembru, 1997 L-AVVIś LEGALI 89 tal-1998, kif emendat bl-AvviŜ Legali 392 tal-2013.
@@ -40,8 +36,6 @@ Qiegħed jiāi hawnhekk dikjarat -
 (iii) it-taxxa sekondarja fuq kumpanniji;
 
 (b) illi huwa spedjenti li dawk l-arranāamenti jkollhom effett.
-
-2 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
 
 ## SKEDA — FTEHIM BEJN MALTA U L-AFRIKA TA’ ISFEL — GĦALL-ĦELSIEN MINN TAXXA DOPPJA
 
@@ -85,8 +79,6 @@ it-taxxa fuq l-income;
 
 Minkejja d-disposizzjonijiet l-oħra ta’ dan l-Artikolu, dan il-Ftehim ma japplikax għal taxxa mħallsa jew li titħallas f’Malta skond id-disposizzjonijiet tas-subartikolu (13) ta’ l-artikolu 56 ta’ l-Att dwar it-Taxxa fuq l-Income dwar l-income taxxabbli ta’ persuna li tkun taħdem fil-produzzjoni ta’ Ŝejt petroleum li jiāi prodott f’Malta jew ta’ kull provvediment ieħor li jkun sostanzjalment simili u li jiāi impost wara d-data tal-firma ta’ dan il-Ftehim.
 
-FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 3
-
 ## KAPITOLU II — Tifsiriet — ARTIKOLU 3
 
 **Tifsiriet Āenerali**
@@ -120,8 +112,6 @@ FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 3
 (ii) persuna āuridika, soëjetà jew assoëjazzjoni li jiksbu l-istatus tagħhom bħala hekk mil-liāijiet li jkunu fis-seħħ fi Stat Kontraenti.
 
 \2. Dwar l-applikazzjoni tal-Ftehim minn Stat Kontraenti, kull fraŜi li ma tkunx imfissra fih għandha, kemm-il darba r-rabta tal-kliem ma teħtieāx xort’oħra, ikollha l-istess tifsir kif mogħti lilha taħt il-liāijiet ta’ dak l-Istat dwar it-taxxi li dan il- Ftehim japplika għalihom.
-
-4 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
 
 **ARTIKOLU 4\***
 
@@ -165,8 +155,6 @@ Meta minħabba d-disposizzjonijiet tal-paragrafu 1 persuna li ma tkunx individwu
 
 \*kif emendat bil-Protokoll li jinsab fl-AvviŜ Legali 392 tal-2013.
 
-FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 5
-
 ### 3.
 
 Il-fraŜi "stabbiliment permanenti" bl-istess mod tkopri wkoll:
@@ -203,8 +191,6 @@ Minkejja d-disposizzjonijiet tal-paragrafi 1 u 2, meta persuna - li ma tkunx aā
 
 ImpriŜa ta’ Stat Kontraenti ma għandhiex titqies li jkollha stabbiliment permanenti fl-Istat Kontraenti l-ieħor għaliex biss tmexxi negozju f’dak l-Istat ieħor permezz ta’ sensal, aāent āenerali b’kummissjoni jew xi aāent ieħor bi status indipendenti, sakemm dawk il-persuni jaāixxu fil-kors ordinarju tan-negozju tagħhom. IŜda, sakemm l-attivitajiet ta’ dak l-aāent ikunu qegħdin jitwettqu għal kollox jew kwaŜi għal kollox għal dik l-impriŜa u t-transazzjonijiet bejn dak l-aāent u l-impriŜa ma jsirux taħt arm’s length conditions, huwa ma għandux jitqies bħala aāent ta’ status indipendenti fis-sens ta’ dan il-paragrafu.
 
-6 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
-
 ### 8.
 
 Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tikkontrolla jew tkun kontrollata minn kumpannija li tkun residenti ta’ l-Istat Kontraenti l-ieħor, jew li tmexxi negozju f’dak l-Istat l-ieħor (sew permezz ta’ stabbiliment permanenti sew xort’oħra), ma għandux fih innifsu jikkostitwixxi xi waħda mill-kumpanniji bħala stabbiliment permanenti ta’ l-oħra.
@@ -229,9 +215,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tikkontrolla jew t
 
 \2. Bla ħsara għad-disposizzjonijiet tal-paragrafu 3, meta impriŜa ta’ Stat Kontraenti tmexxi negozju fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun qiegħed hemmhekk, għandhom jiāu attribwiti lil dak l-istabbiliment permanenti f ’kull Stat Kontraenti l-profitti li kien ikun mistenni jagħmel kieku kien impriŜa distinta u separata li taħdem fl-istess attivitajiet jew oħrajn bħalhom taħt l-istess kundizzjonijiet jew oħrajn bħalhom u li taħdem indipendentement għal kollox mill-impriŜa li tagħha hija stabbiliment permanenti jew minn impriŜi assoëjati oħra li tkun tittratta magħhom.
 
-\3. Biex jiāu stabbiliti l-profitti ta’ stabbiliment permanenti, għandhom ikunu permessi bħala tnaqqis dawk l-ispejjeŜ li jsiru għall-għanijiet ta’ l-istabbiliment permanenti, magħduda l-ispejjeŜ eŜekuttivi u amministtattivi āenerali li jsiru, sew FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 7
-
-jekk ikunu saru fl-Istat Kontraenti li fih ikun hemm l-istabbiliment permanenti sew jekk ikunu saru band’oħra.
+\3. Biex jiāu stabbiliti l-profitti ta’ stabbiliment permanenti, għandhom ikunu permessi bħala tnaqqis dawk l-ispejjeŜ li jsiru għall-għanijiet ta’ l-istabbiliment permanenti, magħduda l-ispejjeŜ eŜekuttivi u amministtattivi āenerali li jsiru, sew jekk ikunu saru fl-Istat Kontraenti li fih ikun hemm l-istabbiliment permanenti sew jekk ikunu saru band’oħra.
 
 \4. Fejn hemm id-drawwa li Stat Kontraenti jistabbilixxi l-profitti attribwibbli lil stabbiliment permanenti fuq il-baŜi tat-tqassim tat-profitti kollha ta’ l-impriŜa lill-ishma diversi tagħha, ebda ħaāa fil-paragrafu 2 m’għandha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi x’ikunu l-profitti li għandhom jiāu intaxxati b’dak it-tqassim skond id-drawwa. Il-mod ta’ tqassim li jiāi adottat għandu, madankollu, ikun wieħed tali li r-riŜultat ikun skond il-prinëipji li jinsabu f’dan l-Artikolu.
 
@@ -271,9 +255,7 @@ jekk dawk il-profitti jkunu inëidentali għall-profitti li għalihom japplikaw 
 
 (b) l-istess persuni jipparteëipaw direttament jew indirettament fit-tmexxija, kontroll jew kapital ta’ impriŜa ta’ Stat Kontraenti u ta’ impriŜa ta’ l-Istat Kontraenti l-ieħor,
 
-u f’kull kaŜ jiāu magħmula jew imposti kundizzjonijiet bejn iŜ-Ŝewā impriŜi fir- 8 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
-
-relazzjonijiet kummerëjali jew finanzjarji ta’ bejniethom li ma jaqblux ma’ dawk li kienu jiāu magħmula bejn impriŜi indipendenti, f ’dak il-kaŜ profitti li, kieku ma kinux dawk il-kundizzjonijiet, kienu jakkumulaw għal waħda mill-impriŜi, iŜda, minħabba dawk il-kundizzjonijiet, ma āewx hekk akkumulati, jistgħu jiāu inkluŜi fil-profitti ta’ dik l-impriŜa u intaxxati skond hekk.
+u f’kull kaŜ jiāu magħmula jew imposti kundizzjonijiet bejn iŜ-Ŝewā impriŜi fir-relazzjonijiet kummerëjali jew finanzjarji ta’ bejniethom li ma jaqblux ma’ dawk li kienu jiāu magħmula bejn impriŜi indipendenti, f ’dak il-kaŜ profitti li, kieku ma kinux dawk il-kundizzjonijiet, kienu jakkumulaw għal waħda mill-impriŜi, iŜda, minħabba dawk il-kundizzjonijiet, ma āewx hekk akkumulati, jistgħu jiāu inkluŜi fil-profitti ta’ dik l-impriŜa u intaxxati skond hekk.
 
 \2. Meta Stat Kontraenti jinkludi fil-profitti ta’ impriŜa ta’ dak l-Istat - u jintaxxa skond hekk - profitti li fuqhom impriŜa ta’ l-Istat Kontraenti l-ieħor āiet intaxxata f ’dak l-Istat l-ieħor u l-profitti hekk magħduda jkunu profitti li kienu jinqalgħu mill-impriŜa ta’ l-ewwel Stat imsemmi kieku l-kundizzjonijiet magħmula bejn iŜ-Ŝewā impriŜi kienu dawk li kienu jsiru bejn Ŝewā impriŜi indipendenti, allura dak l-Istat l-ieħor għandu jagħmel it-tibdil xieraq fl-ammont tat-taxxa imposta hemmhekk fuq dawk il-profitti. Biex jiāi stabbilit it-tibdil, għandu jittieħed qies xieraq tad-disposizzjonijiet l-oħra ta’ dan il-Ftehim u l-awtoritajiet kompetenti ta’ l- Istati Kontraenti għandhom jekk iħossu l-bŜonn jikkonsultaw lil xulxin.
 
@@ -299,11 +281,9 @@ Dan il-paragrafu m’għandux jaffettwa it-tassazzjoni tal-kumpannija għar-rigw
 
 \3. Il-fraŜi "dividendi" kif uŜata f’dan l-Artikolu tfisser income minn azzjonijiet, jew minn drittijiet oħra li jipparteëipaw fil-profitti (li ma jkunux talbiet għal dejn), kif ukoll income minn jeddijiet korporattivi oħra li huwa meqjus għall-fini tat-taxxa l-istess bħal income minn azzjonijiet skond il-liāijiet ta’ l-Istat Kontraenti li fih tkun residenti l-kumpannija li tagħmel it-tqassim.
 
-\4. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma għandhomx japplikaw jekk is-sid benefiëjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 9
+\4. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma għandhomx japplikaw jekk is-sid benefiëjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- Istat l-ieħor, li tiegħu tkun residenti l-kumpannija li tħallas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jaqdi f’dak l-Istat l-ieħor servizzi personali indipendenti minn baŜi stabbilit sitwat hemmhekk, u l-holding li dwarhom id-dividendi jkunu mħallsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew baŜi stabbilit. F’dak il-kaŜ id-disposizzjonijiet ta’ l-Artikolu 7 jew l-Artikolu 14, skond il-kaŜ, għandhom japplikaw.
 
 \*kif emendat bil-Protokoll li jinsab fl-AvviŜ Legali 392 tal-2013.
-
-Istat l-ieħor, li tiegħu tkun residenti l-kumpannija li tħallas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jaqdi f’dak l-Istat l-ieħor servizzi personali indipendenti minn baŜi stabbilit sitwat hemmhekk, u l-holding li dwarhom id-dividendi jkunu mħallsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew baŜi stabbilit. F’dak il-kaŜ id-disposizzjonijiet ta’ l-Artikolu 7 jew l-Artikolu 14, skond il-kaŜ, għandhom japplikaw.
 
 \5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief meta dividendi bħal dawn jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew safejn il-holding li dwaru jitħallsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ baŜi stabbilit sitwat f’dak l-Istat l-ieħor, jew jissuāāetta l-profitti mhux distribwiti tal-kumpannija għal taxxa fuq il-profitti mhux distribwiti tal-kumpannija, anki jekk id-dividendi mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
 
@@ -335,11 +315,9 @@ Istat l-ieħor, li tiegħu tkun residenti l-kumpannija li tħallas id-dividendi,
 
 (ë) kull BorŜa oħra miftiehma bejn l-awtoritajiet kompetenti tal-Istati Kontraenti.
 
-\5. Il-fraŜi "imgħax" kif uŜata f’dan l-Artikolu tfisser income minn drittijiet għal dejn ta’ kull xorta, sew jekk ipotekati sew jekk le, u sew jekk jagħti l-jedd għal sehem fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn 10 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
+\5. Il-fraŜi "imgħax" kif uŜata f’dan l-Artikolu tfisser income minn drittijiet għal dejn ta’ kull xorta, sew jekk ipotekati sew jekk le, u sew jekk jagħti l-jedd għal sehem fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn assigurazzjonijiet tal-Gvern u income minn bonds jew debentures, inkluŜ kull premium u rigal relatat ma’ dawk l-assigurazzjonijiet, bonds jew debentures. Dawk il-penali li jiāu imposti minħabba fi ħlas tardiv ma għandħomx jitqiesu bħala mgħax għall-għanijiet ta’ dan l-Artikolu.
 
 \*kif emendat bil-Protokoll li jinsab fl-AvviŜ Legali 392 tal-2013.
-
-assigurazzjonijiet tal-Gvern u income minn bonds jew debentures, inkluŜ kull premium u rigal relatat ma’ dawk l-assigurazzjonijiet, bonds jew debentures. Dawk il-penali li jiāu imposti minħabba fi ħlas tardiv ma għandħomx jitqiesu bħala mgħax għall-għanijiet ta’ dan l-Artikolu.
 
 \6. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma għandhomx japplikaw jekk is-sid benefiëjarju ta’ l-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagħmel servizzi personali indipendenti f’dak l- Istat l-ieħor minn baŜi stabbilit sitwat hemmhekk, u d-dritt għal dejn li dwaru jitħallas l-imgħax ikollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti jew baŜi stabbilit. F’dak il-kaŜ id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-kaŜ, għandhom japplikaw.
 
@@ -359,9 +337,7 @@ Meta, minħabba relazzjoni speëjali bejn min iħallas u s-sid benefiëjarju jew
 
 \3. Il-fraŜi "royalties" ghall-iskop ta’ dan l-Artikolu tfisser ħlasijiet ta’ kull xorta riëevuti bħala kumpens għall-uŜu, jew għall jedd ta’ l-uŜu, ta’ xi dritt ta’ awtur ta’ xogħlijiet letterarji, artistiëi jew xjentifiëi inkluŜi films ëinematografiëi, ta’ xi invenzjoni, trade mark, disinn jew mudell, pjan, formola jew proëess sigrieti, jew għal tagħrif dwar esperjenza industrijali, kummerëjali jew xjentifika.
 
-\4. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma għandhomx japplikaw jekk is-sid benefiëjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih ir-royalties jinqalgħu permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qed jaqdi f’dak l-Istat l-ieħor servizzi personali indipendenti minn baŜi stabbilit sitwat hemmhekk, u d-dritt jew il-proprjetà illi dwarha jitħallsu r-royalties ikollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ma’ dak il-ba Ŝ i stabbilit. F’dak il-ka Ŝ id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-kaŜ, għandhom FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 11
-
-japplikaw.
+\4. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma għandhomx japplikaw jekk is-sid benefiëjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih ir-royalties jinqalgħu permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qed jaqdi f’dak l-Istat l-ieħor servizzi personali indipendenti minn baŜi stabbilit sitwat hemmhekk, u d-dritt jew il-proprjetà illi dwarha jitħallsu r-royalties ikollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ma’ dak il-ba Ŝ i stabbilit. F’dak il-ka Ŝ id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-kaŜ, għandhom japplikaw.
 
 \5. Royalties għandhom jitqiesu li jinqalgħu fi Stat Kontraenti meta min iħallashom ikun dak l-Istat innifsu, sotto-diviŜjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, iŜda, il-persuna li tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, ikollha fi Stat Kontraenti stabbiliment permanenti jew baŜi stabbilit li dwaru jkun ittieħed l-obbligu li jitħallsu r-royalties u dawk ir-royalties ikunu r-responsabbiltà ta’ dak l-istabbiliment permanenti jew baŜi stabbilit, allura dawk ir-royalties għandhom jitqiesu li jinqalgħu fl-Istat li fih ikun qiegħed l-istabbiliment permanenti jew il-baŜi stabbilit.
 
@@ -387,9 +363,7 @@ japplikaw.
 
 \1. Qligħ miksub minn residenti ta’ Stat Kontraenti għal servizzi professjonali jew attivitajiet oħra ta’ xorta indipendenti jkun taxxabbli biss f’dak l-Istat. IŜda, dak il-qligħ jista’ fië-ëirkostanzi li āejjin jiāi intaxxat fl-Istat Kontraenti l-ieħor:
 
-(a) jekk ikollu baŜi fiss regolari għad-disposizzjoni tiegħu fl-Istat 12 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
-
-Kontraenti l-ieħor għall-qadi ta’ l-attivitajiet tiegħu (f’liema kaŜ dik il-parti biss mill-income tiegħu li hu attribwibbli għal dak il-baŜi fiss tista’ tiāi intaxxata f’dak l-Istat Kontraenti l-ieħor); jew
+(a) jekk ikollu baŜi fiss regolari għad-disposizzjoni tiegħu fl-Istat Kontraenti l-ieħor għall-qadi ta’ l-attivitajiet tiegħu (f’liema kaŜ dik il-parti biss mill-income tiegħu li hu attribwibbli għal dak il-baŜi fiss tista’ tiāi intaxxata f’dak l-Istat Kontraenti l-ieħor); jew
 
 (b) jekk il-qagħda tiegħu fl-Istat Kontraenti l-ieħor tkun għal Ŝmien jew Ŝminijiet li fit-total ikunu jāibu jew jaqbŜu l-183 āurnata matul xi perijodu ta’ tnax-il xahar li jibda jew jintemm fis-sena fiskali relattiva; jew
 
@@ -423,9 +397,7 @@ Id-drittijiet u ħlasijiet simili tad-diretturi li jinkisbu minn residenti ta’
 
 **Spettaklu u Sport**
 
-\1. B’dak kollu li jinsab fid-disposizzjonijiet ta’ l-Artikoli 7, 14 u 15, income miksub minn residenti ta’ Stat Kontraenti minn uħud li jagħtu spettaklu, bħal artisti FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 13
-
-tat-teatru, tal-films ëinematografiëi, tar-radju jew tat-televiŜjoni, jew muŜiëista, jew bħala sportiv, mill-attivitajiet personali tiegħu bħala tali eŜerëitati fl-Istat Kontraenti l-ieħor, jistgħu jiāu intaxxati f’dak l-Istat l-ieħor.
+\1. B’dak kollu li jinsab fid-disposizzjonijiet ta’ l-Artikoli 7, 14 u 15, income miksub minn residenti ta’ Stat Kontraenti minn uħud li jagħtu spettaklu, bħal artisti tat-teatru, tal-films ëinematografiëi, tar-radju jew tat-televiŜjoni, jew muŜiëista, jew bħala sportiv, mill-attivitajiet personali tiegħu bħala tali eŜerëitati fl-Istat Kontraenti l-ieħor, jistgħu jiāu intaxxati f’dak l-Istat l-ieħor.
 
 \2. Meta income dwar l-attivitajiet personali eŜerëitati minn wieħed li jagħti spettaklu jew sportiv bħala hekk jinqala’ mhux minn dak li jagħti spettaklu jew mill-isportiv innifsu imma minn persuna oħra, dak l-income jista’, minkejja d-disposizzjonijiet ta’ l-Artikoli 7, 14 u 15, jiāi ntaxxat fl-Istat Kontraenti fejn l-attivitajiet ta’ dak li jagħti spettaklu jew ta’ l-isportiv jiāu eŜerëitati.
 
@@ -455,9 +427,7 @@ tat-teatru, tal-films ëinematografiëi, tar-radju jew tat-televiŜjoni, jew mu�
 
 \3. Id-disposizzjonijiet ta’ l-Artikoli 15, 16 u 18 għandhom japplikaw għal salarji, pagi u rimunerazzjoni simili, u għal pensjonijiet dwar servizzi mogħtija dwar negozju mmexxi minn Stat Kontraenti jew minn sotto-diviŜjoni politika jew awtorità lokali tiegħu.
 
-\4. Dawk is-salarji, pagi, u rimunerazzjoni simili li jitħallsu bis-saħħa ta’ programm ta’ g ħ ajnuna g ħ all-i Ŝ vilupp ta’ Stat Kontraenti, minn fondi esklussivament provduti minn dak l-Istat lil xi speëjalista jew voluntier li jkun sekondat għal ma’ l-Istat Kontraenti l-ieħor bil-kunsens ta’ dak l-Istat l-ieħor, għandha titqies bħala li tkun tħallset mill-Istat l-ewwel imsemmi u għandha tkun 14 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
-
-taxxabbli biss f’dak l-Istat.
+\4. Dawk is-salarji, pagi, u rimunerazzjoni simili li jitħallsu bis-saħħa ta’ programm ta’ g ħ ajnuna g ħ all-i Ŝ vilupp ta’ Stat Kontraenti, minn fondi esklussivament provduti minn dak l-Istat lil xi speëjalista jew voluntier li jkun sekondat għal ma’ l-Istat Kontraenti l-ieħor bil-kunsens ta’ dak l-Istat l-ieħor, għandha titqies bħala li tkun tħallset mill-Istat l-ewwel imsemmi u għandha tkun taxxabbli biss f’dak l-Istat.
 
 **ARTIKOLU 20**
 
@@ -485,9 +455,7 @@ Bla ħsara għad-disposizzjonijiet tal-liāi ta’ Malta dwar li jiāi permess k
 
 Meta t-taxxa ta’ l-Afrika ta’ Isfel titħallas, skond id-disposizzjonijiet ta’ dan il-Ftehim, minn residenti ta’ l-Afrika ta’ Isfel dwar income li, skond id-disposizzjonijiet ta’ dan il-Ftehim, ikun taxxabbli f’Malta, it-taxxa ta’ Malta fuq dak l-income għandu jitnaqqas mit-taxxa ta’ l-Afrika ta’ Isfel iŜda f’ammont li ma jkunx jeëëedi dak il-proporzjon tat-taxxa ta’ l-Afrika ta’ Isfel li dawk l-oqsma ta’ l-income ikollhom għar-rigward ta’ l-income kollu kemm hu.
 
-\3. Meta l-Ftehim ikun jipprovdi li income li joriāina fi Stat Kontraenti għandu jinħeles mit-taxxa f’dak l-Istat, sew għal kollox sew f’parti minnu, u, skond il-liāi li FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 15
-
-tkun fis-seħħ fl-Istat Kontraenti l-ieħor, dak l-income ikun suāāett għat-taxxa b’referenza għall-ammont minnu li jkun mibgħut jew li jiāi riëevut f’dak l-Istat l-ieħor u mhux b’referenza għall-ammont sħiħ tiegħu, għaldaqshekk il-ħelsien li jkun permess fl-Istat l-ewwel imsemmi għandu jkun japplika biss għal daqstant mill-income daqskemm jintbagħat lura jew jiāi riëevut fl-Istat l-ieħor.
+\3. Meta l-Ftehim ikun jipprovdi li income li joriāina fi Stat Kontraenti għandu jinħeles mit-taxxa f’dak l-Istat, sew għal kollox sew f’parti minnu, u, skond il-liāi li tkun fis-seħħ fl-Istat Kontraenti l-ieħor, dak l-income ikun suāāett għat-taxxa b’referenza għall-ammont minnu li jkun mibgħut jew li jiāi riëevut f’dak l-Istat l-ieħor u mhux b’referenza għall-ammont sħiħ tiegħu, għaldaqshekk il-ħelsien li jkun permess fl-Istat l-ewwel imsemmi għandu jkun japplika biss għal daqstant mill-income daqskemm jintbagħat lura jew jiāi riëevut fl-Istat l-ieħor.
 
 ## KAPITOLU V — Disposizzjonijiet Speëjali — ARTIKOLU 23
 
@@ -507,9 +475,7 @@ tkun fis-seħħ fl-Istat Kontraenti l-ieħor, dak l-income ikun suāāett għat-
 
 **Proëedura għal Ftehim Reëiproku**
 
-\1. Meta persuna jidhrilha li l-azzjonijiet ta’ l-awtorità kompetenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn iwasslu jew jistgħu jwasslu li tiāi intaxxata mhux skond id-disposizzjonijiet ta’ dan il-Ftehim, hija tista’, minkejja r-rimedji provduti bil-liāi domestika ta’ dawk l-Istati, tippreŜenta l-kaŜ tagħha lill-awtorità kompetenti ta’ l-Istat Kontraenti li tiegħu hija residenti jew, jekk il-kaŜ tagħha jkun jaqa’ taħt il- 16 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
-
-paragrafu 1 ta’ l-Artikolu 23, lill-awtorità kompetenti ta’ l-Istat Kontraenti li tagħha tkun ëittadin. Il-kaŜ għandu jiāi preŜentat fi Ŝmien tlett snin mill-ewwel notifika ta’ l-azzjoni li tirriŜulta f’tassazzjoni li ma tkunx skond id-disposizzjonijiet ta’ dan il- Ftehim.
+\1. Meta persuna jidhrilha li l-azzjonijiet ta’ l-awtorità kompetenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn iwasslu jew jistgħu jwasslu li tiāi intaxxata mhux skond id-disposizzjonijiet ta’ dan il-Ftehim, hija tista’, minkejja r-rimedji provduti bil-liāi domestika ta’ dawk l-Istati, tippreŜenta l-kaŜ tagħha lill-awtorità kompetenti ta’ l-Istat Kontraenti li tiegħu hija residenti jew, jekk il-kaŜ tagħha jkun jaqa’ taħt il-paragrafu 1 ta’ l-Artikolu 23, lill-awtorità kompetenti ta’ l-Istat Kontraenti li tagħha tkun ëittadin. Il-kaŜ għandu jiāi preŜentat fi Ŝmien tlett snin mill-ewwel notifika ta’ l-azzjoni li tirriŜulta f’tassazzjoni li ma tkunx skond id-disposizzjonijiet ta’ dan il- Ftehim.
 
 \2. L-awtorità kompetenti għandha tara, jekk din ikun jidhrilha li l-oāāezzjoni tkun āustifikata u jekk hi nnifisha ma tkunx tista’ tasal ghal soluzzjoni sodisfaëenti, li tiddeëiedi l-kaŜ bi ftehim reëiproku ma’ l-awtorità kompetenti ta’ l-Istat Kontraenti l-ieħor, bil-għan li tiāi evitata tassazzjoni mhux skond dan il-Ftehim. Kull ftehim milħuq għandu jitwettaq minkejja kull Ŝmien ta’ skadenza stipulat fil-liāi domestika ta’ l-Istati Kontraenti.
 
@@ -531,11 +497,9 @@ paragrafu 1 ta’ l-Artikolu 23, lill-awtorità kompetenti ta’ l-Istat Kontrae
 
 (b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liāijiet jew fil-kors normali ta’ l-amministrazzjoni ta’ dak l-Istat Kontraenti jew ta’ l- Istat Kontraenti l-ieћor;
 
-(ë) li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerë jew professjoni jew proëess kummerëjali, jew informazzjoni, li meta din tiāi Ŝvelata tkun tmur kontra l-ordni pubbliku FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 17
+(ë) li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerë jew professjoni jew proëess kummerëjali, jew informazzjoni, li meta din tiāi Ŝvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
 \*kif sostitwit bil-Protokoll li jinsab fl-AvviŜ Legali 392 tal-2013.
-
-(ordre public).
 
 \4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- Istat Kontraenti l-ieħor għandu juŜa l-mezzi li jkollu għall-ābir ta’ l-informazzjoni biex jiābor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bŜonn dik l-informazzjoni għall-finijiet tiegħu ta’ ābir ta’ taxxa. L-obbligazzjoni li tinsab fis-sentenza ta’ qabel hija soāāetta għal-limitazzjonijiet tal-paragrafu 3 iŜda dawk il-limitazzjonijiet m’għandhom f’ebda kaŜ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
@@ -567,9 +531,7 @@ Ebda ħaāa f’dan il-Ftehim ma għandha tolqot il-privileāāi fiskali ta’ a
 
 **Terminazzjoni**
 
-Dan il-Ftehim għandu jibqa’ jseħħ sakemm jiāi terminat minn Stat Kontraenti. Kull wieħed mill-Istati Kontraenti jista’ jtemm il-Ftehim, permezz ta’ 18 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
-
-kanali diplomatiëi, billi jagħti avviŜ tat-terminazzjoni mill-anqas sitt xhur qabel it-tmiem ta’ xi sena kalendarja li tibda għaddejja wara l-iskadenza ta’ perijodu ta’ ħames snin minn meta l-Ftehim jibda jseħħ. F’dak il-kaŜ, il-Ftehim ma għandux jibqa’ fis-seħħ:
+Dan il-Ftehim għandu jibqa’ jseħħ sakemm jiāi terminat minn Stat Kontraenti. Kull wieħed mill-Istati Kontraenti jista’ jtemm il-Ftehim, permezz ta’ kanali diplomatiëi, billi jagħti avviŜ tat-terminazzjoni mill-anqas sitt xhur qabel it-tmiem ta’ xi sena kalendarja li tibda għaddejja wara l-iskadenza ta’ perijodu ta’ ħames snin minn meta l-Ftehim jibda jseħħ. F’dak il-kaŜ, il-Ftehim ma għandux jibqa’ fis-seħħ:
 
 (a) f’Malta:
 
@@ -606,8 +568,6 @@ MAGĦMUL in duplikat āewwa Ruma, illum 16 ta’ Mejju, 1997 fl-ilsien IngliŜ.
 GĦALL-GVERN TA’ MALTA GĦALL-GVERN
 
 TA’ L-AFRIKA TA’ ISFEL
-
-FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 19
 
 **PROTOKOLL**
 
@@ -659,11 +619,7 @@ Il-paragrafu 2 tal-Artikolu 10 tal-Ftehim għandu jiāi mħassar u sostitwit bil
 
 (b) meta d-dividendi jitħallsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Afrika ta’ Isfel li jkun is-sid benefiëjarju tad-dividendi, it-taxxa ta’ Malta fuq l-ammont gross tad-dividendi m’għandhiex tkun iŜjed minn dik li titħallas fuq il-profitti li minnhom jitħallsu d-dividendi.
 
-L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom bi ftehim reëiproku jiftiehmu dwar il-mod tal-applikazzjoni ta’ dawn il- [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
-
-limitazzjonijiet.
-
-*20*
+L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom bi ftehim reëiproku jiftiehmu dwar il-mod tal-applikazzjoni ta’ dawn il-limitazzjonijiet.
 
 Dan il-paragrafu m’għandux jaffettwa it-tassazzjoni tal-kumpannija għar-rigward tal-profitti li minnhom jitħallsu d-dividendi.".
 
@@ -709,9 +665,7 @@ L-awtoritajiet kompetenti ta’ l-Istati Kontraenti gћandhom jiskambjaw dik l-i
 
 *\2.*
 
-Kull informazzjoni li tiāi riëevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiāi ittrattata bћala waћda sigrieta bl-istess mod bћal informazzjoni li tinkiseb taħt il-liāijiet domestiëi ta’ dak l-Istat u FUQ L-INCOME MAL-AFRIKA TA’ ISFEL [ L.S.123.45 21
-
-għandha tiāi Ŝvelata biss lil persuni jew awtoritajiet (inkluŜi qrati u korpi amministrattivi) li jkollhom x’jaqsmu ma’ l-istima jew il-ābir ta’, l-infurzar jew prosekuzzjoni dwar, id-deëizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew għat-tħaris ta’ dak ta’ hawn fuq. Dawk il-persuni jew awtoritajiet gћandhom juŜaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiŜvelaw l-informazzjoni fi proëeduri tal-qorti bil-miftuh jew f’deëiŜjonijiet āudizzjarji.
+Kull informazzjoni li tiāi riëevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiāi ittrattata bћala waћda sigrieta bl-istess mod bћal informazzjoni li tinkiseb taħt il-liāijiet domestiëi ta’ dak l-Istat u għandha tiāi Ŝvelata biss lil persuni jew awtoritajiet (inkluŜi qrati u korpi amministrattivi) li jkollhom x’jaqsmu ma’ l-istima jew il-ābir ta’, l-infurzar jew prosekuzzjoni dwar, id-deëizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew għat-tħaris ta’ dak ta’ hawn fuq. Dawk il-persuni jew awtoritajiet gћandhom juŜaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiŜvelaw l-informazzjoni fi proëeduri tal-qorti bil-miftuh jew f’deëiŜjonijiet āudizzjarji.
 
 \3. F’ebda kaŜ m’gћandhom il-provvedimenti tal-paragrafi 1 u 2 jiftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
 
@@ -736,8 +690,6 @@ Kull wieħed mill-Istati Kontraenti għandu javŜa lill-ieħor bil-miktub, perme
 (a) Bla ħsara għas-subparagrafu (b), il-provvedimenti tal-Protokoll għandhom japplikaw mid-data tal-bidu fis-seħħ tiegħu.
 
 (b) l-Artikolu II tal-Protokoll għandu japplika mid-data tal-introduzzjoni fl- Afrika ta’ Isfel tas-sistema tat-taxxa fil-livell tal-azzjonist fuq dividendi dikjarati. L-Afrika ta’ Isfel għandha tavŜa lill-Malta bil-miktub, permezz ta’ kanali diplomatiëi, li āew mħarsa il-proëeduri meħtieāa mil-liāijiet tagħha biex tidħol fis-seħħ is-sistema tat-taxxa fil-livell tal-azzjonist fuq dividendi dikjarati fl-Afrika ta’ Isfel, kif ukoll id-data tal-bidu fis-seħħ ta’ din is-sistema.
-
-22 [ L.S.123.45 FUQ L-INCOME MAL-AFRIKA TA’ ISFEL
 
 **ARTIKOLU VI**
 

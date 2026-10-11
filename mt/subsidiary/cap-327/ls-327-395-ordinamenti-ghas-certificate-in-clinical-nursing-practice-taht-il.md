@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għas-Certificate in Clinical Nursing Practice taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.395)
 
-*1*
-
-IL-PATROêINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.395
-
 **LEĀISLAZZJONI SUSSIDJARJA 327.395**
 
 **ORDINAMENTI GĦAS-CERTIFICATE IN**
@@ -73,11 +69,7 @@ Il-Bord jista’, wara l-approvazzjoni tas-Senat, jiddikjara l-għadd ta’ appl
 
 ## 6. GħaŜla tal-għadd ta’ applikanti.
 
-Jekk l-għadd tal-applikanti eliāibbli jaqbeŜ l-għadd ta’ postijiet disponibbli, il-Bord għandu jagħŜel l-applikanti skont [L.S.327.395 IL-PATROêINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
-dawn il-kriterji li āejjin:
-
-*2*
+Jekk l-għadd tal-applikanti eliāibbli jaqbeŜ l-għadd ta’ postijiet disponibbli, il-Bord għandu jagħŜel l-applikanti skont dawn il-kriterji li āejjin:
 
 (i) esperjenza ta’ xogħol rilevanti f’impjieg bi qligħ (piŜ ta’ 30%):
 

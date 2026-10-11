@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għas-Certificate in the Teaching of Primary School Learning Areas taħt il-patroċinju tal-Fakultà tal-Edukazzjoni - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.478)
 
-CERTIFICATE IN THE TEACHING OF PRIMARY
-
-SCHOOL LEARNING AREAS TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.478
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.478**
 
 ORDINAMENTI GĦAS-CERTIFICATE IN THE TEACHING OF PRIMARY SCHOOL LEARNING AREAS TAĦT IL-PATROĊINJU

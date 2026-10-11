@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli tal-Qorti dwar il-Prattika u l-Proċedura tal-Qrati u l-Bon-Ordni (Kodiċi Kriminali) (S.L. 9.11)
 
-*1*
-
-U L-BON-ORDNI (KODIĊI KRIMINALI) [L.S. 9.11.
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.11**
 
 **REGOLI TAL-QORTI DWAR IL-PRATTIKA U**
@@ -55,11 +51,7 @@ Taqsima II - Żamma tal-Bon-Ordni fil-Qrati tal-Ġustizzja
 
 (d) iħalli kull mekkaniżmu li jċempel ta’ mobile jew telefon ċellulari jew ta’ xi apparat ieħor simili mixgħul f’awla waqt seduta ta’ qorti jew tribunal; jew
 
-(e) iġib fil-bini tal-Qrati tal-Ġustizzja xi tifel jew tifla taħt it-tlettax-il sena, ħlief meta dawk it-tfal ikunu msejjħa bħala xhieda quddiem qorti jew tribunal ieħor li jżomm is-seduti fl-imsemmi bini, jew meta dik il-qorti jew dak it-tribunal ikun tal-fehma li l-preżenza ta’ dawk it-tfal tkun meħtieġa f’konnessjoni ma’ xi proċediment quddiem dik il-qorti jew dak it-tribunal, [L.S. 9.11 U L-BON-ORDNI (KODIĊI KRIMINALI)
-
-jew kif jista’ jiġi awtorizzat xort’oħra mid-Direttur Ġenerali tal-Qrati, bil-kunsens tal-Prim Imħallef; jew (f) jidħol fil-bini tal-Qrati tal-Ġustizzja mingħajr ma josserva l-proċeduri ta’ sigurezza li jkunu fis-seħħ u li jkunu ġew stabbiliti mid-Direttur Ġenerali tal-Qrati; jew
-
-*2*
+(e) iġib fil-bini tal-Qrati tal-Ġustizzja xi tifel jew tifla taħt it-tlettax-il sena, ħlief meta dawk it-tfal ikunu msejjħa bħala xhieda quddiem qorti jew tribunal ieħor li jżomm is-seduti fl-imsemmi bini, jew meta dik il-qorti jew dak it-tribunal ikun tal-fehma li l-preżenza ta’ dawk it-tfal tkun meħtieġa f’konnessjoni ma’ xi proċediment quddiem dik il-qorti jew dak it-tribunal, jew kif jista’ jiġi awtorizzat xort’oħra mid-Direttur Ġenerali tal-Qrati, bil-kunsens tal-Prim Imħallef; jew (f) jidħol fil-bini tal-Qrati tal-Ġustizzja mingħajr ma josserva l-proċeduri ta’ sigurezza li jkunu fis-seħħ u li jkunu ġew stabbiliti mid-Direttur Ġenerali tal-Qrati; jew
 
 (g) waqt is-smigħ ta’ kawża f’awla jieħu, jew jipprova jieħu, ritratt fotografiku jew filmat b’kull mezz li jkun, ħlief meta tali ritratt jew filmat ikun ġie ordnat jew awtorizzat minn qorti jew tribunal bħala parti mill-provi f’konnessjoni ma’ xi proċediment quddiem dik il-qorti jew dak it-tribunal; jew
 
@@ -85,11 +77,7 @@ Iżda jekk dik il-persuna tkun ġiet imsejjħa biex tidher quddiem qorti jew tri
 
 (1) Is-smigħ ta’ akkuża kriminali, att tal-akkuża jew proċedura oħra għandhom, safejn ikun possibbli, ikunu bl-appuntament għal ħin determinat kif tiddeċiedi l-qorti.
 
-(2) Meta waqt xi seduta għandhom jistemgħu bosta akkużi kriminali, atti tal-akkuża u proċeduri oħra, il-qorti għandha tqassam is-smigħ ta’ dawk l-akkużi kriminali, atti tal-akkuża u U L-BON-ORDNI (KODIĊI KRIMINALI) [L.S. 9.11.
-
-proċeduri oħra f’intervalli raġonevoli biex tiżgura li l-partijiet, u x-xhieda jekk ikun hemm, ma jmorrux il-qorti kollha fl-istess ħin.
-
-*3*
+(2) Meta waqt xi seduta għandhom jistemgħu bosta akkużi kriminali, atti tal-akkuża u proċeduri oħra, il-qorti għandha tqassam is-smigħ ta’ dawk l-akkużi kriminali, atti tal-akkuża u proċeduri oħra f’intervalli raġonevoli biex tiżgura li l-partijiet, u x-xhieda jekk ikun hemm, ma jmorrux il-qorti kollha fl-istess ħin.
 
 ## Taqsima IV - Referenzi lill-Qorti tal-Ġustizzja — tal-Komunitajiet Ewropej
 
@@ -119,11 +107,7 @@ proċeduri oħra f’intervalli raġonevoli biex tiżgura li l-partijiet, u x-xh
 
 ### 7. L-ilbies ta’ l-avukati u tal-prokuraturi legali. Emendata: A.L. 336 ta’ l- 2008.
 
-(1) L-avukati li jidhru quddiem xi waħda mill-qrati superjuri ta’ kompetenza kriminali waqt is-smigħ ta’ akkuża kriminali, att tal-akkuża jew proċeduri oħra għandhom jilbsu libsa ta’ lewn ikħal skur, griż skur jew iswed, jew qalziet iswed irrigat u [L.S. 9.11 U L-BON-ORDNI (KODIĊI KRIMINALI)
-
-ġakketta sewda, qmis bajda b’ingravata jew bow-tie suwed, griżi jew bojod u toga sewda. L-avukati nisa li jidhru quddiem l-imsemmija qrati għandhom jilbsu lbiesi ta’ lewn iswed jew ta’ lewn ikħal jew griż skur, jew blouse abjad u dublett jew qalziet iswed u dejjem taħt toga sewda. Imħallef jew Maġistrat jista’ għal raġuni tajba jeżenta avukat milli jilbes toga.
-
-*4*
+(1) L-avukati li jidhru quddiem xi waħda mill-qrati superjuri ta’ kompetenza kriminali waqt is-smigħ ta’ akkuża kriminali, att tal-akkuża jew proċeduri oħra għandhom jilbsu libsa ta’ lewn ikħal skur, griż skur jew iswed, jew qalziet iswed irrigat u ġakketta sewda, qmis bajda b’ingravata jew bow-tie suwed, griżi jew bojod u toga sewda. L-avukati nisa li jidhru quddiem l-imsemmija qrati għandhom jilbsu lbiesi ta’ lewn iswed jew ta’ lewn ikħal jew griż skur, jew blouse abjad u dublett jew qalziet iswed u dejjem taħt toga sewda. Imħallef jew Maġistrat jista’ għal raġuni tajba jeżenta avukat milli jilbes toga.
 
 (2) Avukat li ma jikkonformax ruħu kompletament ma’ dawn il-ħtiġiet ma jkollux jedd ta’ smigħ.
 
@@ -145,10 +129,6 @@ proċeduri oħra f’intervalli raġonevoli biex tiżgura li l-partijiet, u x-xh
 
 *Kap. 9.*
 
-(2) Bla ħsara għad-disposizzjonijiet tal-artikolu 547(2) tal- Kodiċi Kriminali, ħlief fejn Maġistrat ikun imsiefer fuq viżita, jew U L-BON-ORDNI (KODIĊI KRIMINALI) [L.S. 9.11.
-
-biex jattendi seminar, konferenza jew xi laqgħa oħra simili, kif approvat mill-Prim Imħallef jew mill-Kumitat tal-Istudji Ġudizzjarji, Maġistrat għandu japplika għand il-Maġistrat Anzjan għal permess għal assenza mix-xogħol inkluż fejn meħtieġ, permess biex ikun barra minn Malta, għallinqas tliet ijiem qabel ma jkun meħtieġ dan il-permess. Il-Maġistrat Anzjan għandu, qabel ma jagħti dan il-permess, jiżgura li saru arranġamenti xierqa għall-affarijiet ta’ natura urġenti, li jistgħu jinqalgħu fil-qorti li dak il- Maġistrat ikun assenjat, biex jiġu ttrattati minn Maġistrat ieħor.
-
-*5*
+(2) Bla ħsara għad-disposizzjonijiet tal-artikolu 547(2) tal- Kodiċi Kriminali, ħlief fejn Maġistrat ikun imsiefer fuq viżita, jew biex jattendi seminar, konferenza jew xi laqgħa oħra simili, kif approvat mill-Prim Imħallef jew mill-Kumitat tal-Istudji Ġudizzjarji, Maġistrat għandu japplika għand il-Maġistrat Anzjan għal permess għal assenza mix-xogħol inkluż fejn meħtieġ, permess biex ikun barra minn Malta, għallinqas tliet ijiem qabel ma jkun meħtieġ dan il-permess. Il-Maġistrat Anzjan għandu, qabel ma jagħti dan il-permess, jiżgura li saru arranġamenti xierqa għall-affarijiet ta’ natura urġenti, li jistgħu jinqalgħu fil-qorti li dak il- Maġistrat ikun assenjat, biex jiġu ttrattati minn Maġistrat ieħor.
 
 (3) Id-disposizzjonijiet tas-subregoli ta’ hawn fuq, għandhom, mutatis mutandis, japplikaw għall-Imħallef Anzjan Amministrattiv u għall-Maġistrat Anzjan, iżda fil-każ tagħhom għandhom japplikaw lill-Prim Imħallef.

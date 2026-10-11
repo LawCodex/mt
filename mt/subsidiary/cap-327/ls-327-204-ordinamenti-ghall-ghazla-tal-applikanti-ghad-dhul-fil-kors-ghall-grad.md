@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Science (Honours) (Physiotherapy) taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.204)
 
-TA’ BACHELOR OF SCIENCE (HONOURS) (PHYSIOTHERAPY)
-
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.204
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.204**
 
 **ORDINAMENTI GĦALL-GĦAŻLA GĦAD-DĦUL**
@@ -71,10 +65,6 @@ Is-sitt kategorija: dawk bi grad ‘B’ fil-Bioloġija u grad ‘Ċ’ fil-Fiż
 
 Is-seba’ kategorija: dawk bi grad ‘B’ fil-Bioloġija u grad ‘D’ fil-Fiżika dawk bi grad ‘Ċ’ fil-Bioloġija u grad ‘A’ fil-Fiżika
 
-*2*
-
-TA’ BACHELOR OF SCIENCE (HONOURS) (PHYSIOTHERAPY) [L.S.327.204 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
 It-tmien kategorija: dawk bi grad ‘B’ fil-Bioloġija u grad ‘E’ fil-Fiżika dawk bi grad ‘Ċ’ fil-Bioloġija u grad ‘B’ fil-Fiżika
 
 Id-disa’ kategorija: dawk bi grad ‘Ċ’ fil-Bioloġija u grad ‘Ċ’ fil-Fiżika
@@ -109,16 +99,10 @@ Livell Avvanżat Livell Intermedju Grad A 30 punt 10 punti
 
 Grad B 24 punt 8 punti
 
-TA’ BACHELOR OF SCIENCE (HONOURS) (PHYSIOTHERAPY)
+**Grad Ċ 18-il punt 6 punti**
 
-*3*
+**Grad D 12-il punt 4 punti**
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.204
-
-Grad Ċ 18-il punt 6 punti
-
-Grad D 12-il punt 4 punti
-
-Grad E 6 punti 2 punti
+**Grad E 6 punti 2 punti**
 
 (b) jekk dan ma jkunx biżżejjed, l-applikanti eliġibbli li jkun baqa’ f’dik il-kategorija għandhom ikunu intervistati minn Bord tal-Intervisti maħtur mill-Bord għal dan il-għan, sabiex jimtlew il-post jew il-postijiet li jifdal.

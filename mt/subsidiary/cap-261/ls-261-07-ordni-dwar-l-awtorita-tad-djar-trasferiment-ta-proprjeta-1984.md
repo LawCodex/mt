@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1984)"
-identifier: "S.L. 261.7"
+identifier: "S.L. 261.07"
 eli: "https://legislation.mt/eli/sl/261.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/261.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1984) (S.L. 261.7)
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1984) [ L.S.261.07
+# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1984) (S.L. 261.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 261.07**
 
@@ -113,7 +111,7 @@ Estate mag]rufa b]ala Nri. 290 sa 313 tal-kejl ta’ madwar 4628 metri kwadri li
 
 *L.S. 261.06*
 
-( ) Bi``a art li tag]mel parti mill- tad-Djar tal- (TRASFERIMENT TA’ PROPRJETÀ) (1984) [ L.S.261.07 Gvern ta’ Santa Lu`ia li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 142 tal-kejl ta’ madwar 141 metri kwadri li tmiss mit-Tramuntana ma’ proprjeta tas-Sur Joseph Bartolo, minn Nofs in- Nhar ma’ proprjeta tas-Sur Emmanuel Armeni u mill- Punent ma’ triq pubblika.
+( ) Bi``a art li tag]mel parti mill- tad-Djar tal- Gvern ta’ Santa Lu`ia li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 142 tal-kejl ta’ madwar 141 metri kwadri li tmiss mit-Tramuntana ma’ proprjeta tas-Sur Joseph Bartolo, minn Nofs in- Nhar ma’ proprjeta tas-Sur Emmanuel Armeni u mill- Punent ma’ triq pubblika.
 
 *(i)*
 
@@ -197,7 +195,7 @@ Estate tad-Djar tal- (i) Bi``a art li hi mag]mula minn fl-imsemmi Estate
 
 Plots Nri. 1 sa 8 tal-kejl Majjistral u mil-Lbi` ma’ proprjetà
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1984) [ L.S.261.07 ta’ Sant’Anna tal-Birgu u mix-Xlokk ma’ proprjetà tal-Gvern;
+ta’ Sant’Anna tal-Birgu u mix-Xlokk ma’ proprjetà tal-Gvern;
 
 (ii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 9 sa 18 u 21 sa 30 tal-kejl ta’ madwar 3797 metru kwadru li tmiss mill-Majjistral, mix-Xlokk u mil-Lbi` ma’ proprjetà tal-Gvern.
 
@@ -295,7 +293,7 @@ pubbliku.
 
 ( ) Bi``a art li tag]mel parti mill- tad-Djar tal- Gvern tal-Wil[a, limiti ta’ }al Luqa li hi mag]mula plots fl-imsemmi mag]rufa b]ala Plots tmiss mill-Grigal ma’ triq pubblika u mil-Lbi` u mix- Xlokk ma’ proprjet tal-Gvern.
 
-( ) Bi``a art li tag]mel parti mill- tad-Djar tal- Gvern Tad-Daqqaq, limiti tal-Mosta tal-kejl ta’ (TRASFERIMENT TA’ PROPRJETÀ) (1984) [ L.S.261.07 madwar 15.75 metru kwadru liema art se tkun mi\\juda mal-Plot Nru. 1 li tmiss mill-Grigal, min-Nofs in-Nhar u mix-Xlokk ma’ proprjetà tal-Gvern u mill-Majjistral ma’ proprjetà ta’ l-Awtorità tad-Djar.
+( ) Bi``a art li tag]mel parti mill- tad-Djar tal- Gvern Tad-Daqqaq, limiti tal-Mosta tal-kejl ta’ madwar 15.75 metru kwadru liema art se tkun mi\\juda mal-Plot Nru. 1 li tmiss mill-Grigal, min-Nofs in-Nhar u mix-Xlokk ma’ proprjetà tal-Gvern u mill-Majjistral ma’ proprjetà ta’ l-Awtorità tad-Djar.
 
 (e) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern tal-Qrendi tal-kejl ta’ madwar 63.37 metru kwadru liema art se tkun mi\\juda mal-Plot Nru. 70 li tmiss mill-Grigal u mil-Lbi` ma’ proprjetà ta’ l- Awtorità tad-Djar u mill-Majjistral ma’ triq pubblika. (f) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern ta’ Bulebel i\\-|g]ir, limiti ta’ }a\\-|abbar tal-kejl ta’ madwar 181 metri kwadri liema art se tkun mi\\juda mal-Plots Nri. 82 sa 86 li tmiss mit- Tramuntana u min-Nofs in-Nhar ma’ proprjetà tal- Gvern, mil-Lvant ma’ proprjetà ta’ l-Awtorità tad-Djar u mill-Punent parti ma’ proprjetà ta’ l-Awtorità tad- Djar u parti ma’ proprjetà tal-Gvern.
 
@@ -385,7 +383,7 @@ Gvern.
 
 ( ) Bi``a art li tag]mel parti mill- tad-Djar tal- Gvern ta’ Villa Rosa, limiti ta’ San {iljan li tikkonsisti plot fl-imsemmi mag]rufa b]ala Plot
 
-tal-kejl ta’ madwar 536 metru kwadru li tmiss mill- (TRASFERIMENT TA’ PROPRJETÀ) (1984) [ L.S.261.07 Majjistral u mix-Xlokk ma’ proprjetà tal-Gvern u mil- Lbi` ma’ passa[[ pubbliku.
+tal-kejl ta’ madwar 536 metru kwadru li tmiss mill- Majjistral u mix-Xlokk ma’ proprjetà tal-Gvern u mil- Lbi` ma’ passa[[ pubbliku.
 
 (f) L-art li [ejja li tag]mel parti mill-Estate tad-Djar tal- Gvern tar-Rabat, G]awdex:
 
@@ -461,7 +459,7 @@ B’se]] mis-7 ta’ Di`embru, 1984:
 
 (d) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern ta’ l-Imqabba li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 1 sa 11 tal-kejl ta’ madwar 3043 metru kwadru li tmiss mit- Tramuntana u mil-Lvant ma’ proprjetà tal-Gvern u mill-Punent ma’ triq pubblika.
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1984) [ L.S.261.07 (e) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern ta’ }al Tarxien li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri, 5 sa 23 tal-kejl ta’ madwar 7059 metru kwadru li tmiss mit- Tramuntana, min-Nofs in-Nhar u mill-Punent ma’ proprjetà tal-Gvern.
+(e) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern ta’ }al Tarxien li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri, 5 sa 23 tal-kejl ta’ madwar 7059 metru kwadru li tmiss mit- Tramuntana, min-Nofs in-Nhar u mill-Punent ma’ proprjetà tal-Gvern.
 
 (f) Bi``a art li tag]mel parti mill-Estate tad-Djar tal- Gvern tan-Nadur, G]awdex, li hi mag]mula minn plot fl-imsemmi Estate mag]ruf b]ala Plot Nru. 80 tal-kejl ta’ madwar 390 metru kwadru li tmiss mill-Griga1 ma’ triq pubblika, min-Nofs in-Nhar ma’ proprjetà ta’ l- Awtorità tad-Djar u mill-Punent parti ma’ proprjetà tal-Gvern u parti ma’ proprjetà ta’ l-Awtorità tad-Djar. (g) Id-djar numri 8 u 9, Triq Notabile, Birkirkara.
 

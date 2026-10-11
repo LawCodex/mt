@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju tal-Belġju"
-identifier: "S.L. 123.5"
+identifier: "S.L. 123.05"
 eli: "https://legislation.mt/eli/sl/123.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju tal-Belġju (S.L. 123.5)
-
-*1*
-
-FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05
+# Regoli dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju tal-Belġju (S.L. 123.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 123.05**
 
@@ -105,9 +101,7 @@ it-taxxa fuq l-income, inklużi ħlasijiet bil-quddiem ta’ taxxa sew jekk bi t
 
 (hawnhekk iżjed ’il quddiem imsejħa "it-taxxa ta’ Malta").
 
-(4) Dan il-Ftehim għandu japplika wkoll għal kull taxxa bħalhom jew li FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05 3
-
-sostanzjalment tixbaħom li tiġi imposta wara d-data tal-firma ta’ dan il-Ftehim b’żieda ma’, jew minflok, it-taxxi eżistenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom javżaw lil xulxin b’kull tibdil li jkun sar fil-liġijiet dwar it-taxxi rispettivi tagħhom.
+(4) Dan il-Ftehim għandu japplika wkoll għal kull taxxa bħalhom jew li sostanzjalment tixbaħom li tiġi imposta wara d-data tal-firma ta’ dan il-Ftehim b’żieda ma’, jew minflok, it-taxxi eżistenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom javżaw lil xulxin b’kull tibdil li jkun sar fil-liġijiet dwar it-taxxi rispettivi tagħhom.
 
 (5) Meta l-Ftehim jipprovdi li income li jinqala’ fi Stat Kontraenti għandu jiġi meħlus mit-taxxa f’dak l-Istat, jew għal kollox jew f’parti, u, skond il-liġi fis-seħħ fl-Istat Kontraenti l-ieħor, dak l-income ikun suġġett għat-taxxa b’riferenza għal dak l-ammont minnu li jintbagħat jew li jiġi riċevut f ’dak l-Istat l-ieħor u mhux b’riferenza għall-ammont sħiħ tiegħu, allura l-ħelsien li għandu jingħata fl-Istat l-ewwel imsemmi għandu japplika biss għal dik il-parti mill-income li tkun intbagħtet jew li ġiet irċevuta fl-Istat l-ieħor.
 
@@ -167,7 +161,7 @@ imħaddem biss bejn postijiet fl-Istat Kontraenti l-ieħor;
 
 **Stabbiliment Permanenti**
 
-(1) Għall-finijiet ta’ dan il-Ftehim. il-frażi "stabbiliment permanenti" tfisser post fiss ta’ negozju li fih jiġi mmexxi għal kollox jew f’parti x-xogħol ta’ l-impriża. FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05 5
+(1) Għall-finijiet ta’ dan il-Ftehim. il-frażi "stabbiliment permanenti" tfisser post fiss ta’ negozju li fih jiġi mmexxi għal kollox jew f’parti x-xogħol ta’ l-impriża.
 
 (2) Il-frażi "stabbiliment permanenti" għandha tinkludi b’mod speċjali:
 
@@ -237,8 +231,6 @@ proprietà aċċessorja għall-proprjetà immobiljari, id-drittijiet li għaliho
 
 (7) Meta profitti jinkludu oġġetti ta’ income li qed jiġu trattati separatament f’Artikoli oħra ta’ dan il-Ftehim, allura d-disposizzjonijiet ta’ dawk l-Artikoli ma jiġux imfixkla bid-disposizzjonijiet ta’ dan l-Artikolu.
 
-FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05 7
-
 **ARTIKOLU 8**
 
 **Shipping u Trasport bl-Ajru**
@@ -297,8 +289,6 @@ u f’kull każ jiġu magħmula jew imposti kundizzjonijiet bejn iż-żewġ impr
 
 (a) imgħax li jinqala’ fil-Belġju u li jitħallas lill-Istat ta’ Malta, lill-Bank ~entrali ta’ Malta jew lil xi istituzzjoni oħra li l-kapital tagħha jkun għal kollox il-proprjetà ta’ l-Istat ta’ Malta, jkun eżentat mit-taxxa tal- Belġju;
 
-FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05 9
-
 (b) imgħax li jinqala’ f’Malta u li jitħallas lir-Renju tal-Belġju, lill-Bank Nazzjonali tal-Belġju jew lil xi istituzzjoni oħra li l-kapital tagħha jkun għal kollox proprjetà tar-Renju tal-Belġju jkun eżentat mit-taxxa ta’ Malta;
 
 (ċ) imgħax fuq pretensjonijiet debitriċi kummerċjali - inklużi pretensjonijiet debitriċi rappreżentati b’istrumenti negozjabbli - kif jirriżultaw minn pagamenti deferiti għal oġġetti, merkanzija jew servizzi fornuti minn intrapriża ta’ Stat Kontraenti għandhom ikunu eżenti mit-taxxa fl-Istat Kontraenti l-ieħor.
@@ -334,8 +324,6 @@ Kontraenti l-ieħor jistgħu jiġu ntaxxati f’dak l-Istat Kontraenti l-ieħor 
 (l) Qligħ mit-trasferiment ta’ proprjetà immobbli, kif imfisser fil-paragrafu (2) ta’ l-Artikolu 6, jista’ jiġi ntaxxat fl-Istat Kontraenti li fih dik il-proprjetà tkun sitwata.
 
 (2) Qligħ minn trasferiment ta’ proprjetà mobbli li tkun tifforma parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li mpriża ta’ Stat Kontraenti jkollha fi-Istat Kontraenti l-ieħor jew proprjetà mobbli li tkun tappartjeni lil bażi stabbli li jkun għad-disposizzjoni ta’ residenti ta’ Stat Kontraenti fl-Istat Kontraenti l-ieħor għall-fini ta’ qadi ta’ servizzi professjonali, inkluż dak il-qligħ mill-bejgħ ta’ dak l-istabbiliment permanenti (waħdu jew flimkien ma’ l-impriża sħiħa) jew ta’ dak il-bażi stabbli, jista’ jiġi ntaxxat fl-Istat l-ieħor. Iżda, qligħ mit-trasferiment ta’ proprjetà mobbli tax-xorta kif imsemmi fil-paragrafu (3) ta’ l-Artikolu 22 għandu jkun taxabbli biss fl-Istat Kontraenti li fih dik il-proprjetà mobbli tkun taxxabbli skond l-imsemmi Artikolu.
-
-FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05 11
 
 (3) Qligħ mit-trasferiment ta’ kull proprjetà barra minn dik imsemmija fil-paragrafi (1) u (2) ikun taxxabbli biss fl-Istat Kontraenti li tiegħu min ibiegħ ikun residenti.
 
@@ -401,9 +389,7 @@ Din id-disposizzjoni għandha wkoll tkun tapplika għal pagament miksub dwar it-
 
 (ii) ma jkunx sar residenti ta’ dak l-Istat sabiex biss jaqdi dawk is-servizzi.
 
-(2) (a) Kull pensjoni mħallsa minn, jew mill-fondi maħluqa minn Stat Kontraenti jew minn sotto-diviżjoni politika jew awtorità lokali tiegħu lil xi individwu dwar servizzi mogħtija lil dak l-Istat jew sotto-diviżjoni FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05 13
-
-jew awtorità lokali tiegħu tkun tista’ tiġi ntaxxata biss f’dak l-Istat.
+(2) (a) Kull pensjoni mħallsa minn, jew mill-fondi maħluqa minn Stat Kontraenti jew minn sotto-diviżjoni politika jew awtorità lokali tiegħu lil xi individwu dwar servizzi mogħtija lil dak l-Istat jew sotto-diviżjoni jew awtorità lokali tiegħu tkun tista’ tiġi ntaxxata biss f’dak l-Istat.
 
 (b) Iżda, dik il-pensjoni tista’ tiġi ntaxxata biss fl-Istat Kontraenti l-ieħor jekk min jirċeviha jkun nazzjonali ta’ u residenti f’dak l-Istat.
 
@@ -457,9 +443,7 @@ ikun ikun, li ma humiex trattati fl-Artikoli ta’ qabel ta’ dan il-Ftehim iku
 
 (a) Meta residenti tal-Belġju jikseb income jew ikun jippossjedi oġġetti kapitali li jistgħu jiġu intaxxati f’Malta skond id-disposizzjonijiet ta’ dan il-Ftehim, li ma jkunux dawk tas-subparagrafu (b) tal-paragrafu (2) ta’ l-Artikolu 10, tal-paragrafi (2) u (7) ta’ l-Artikolu 11 u tal-paragrafi (2) u (5) ta’ l-Artikolu 12, il-Belġju għandu jeżenta dak l-income jew dawk l-oġġetti kapitali mit-taxxa imma jista’, fil-kalkolu ta’ l-ammont tat-taxxa fuq l-income jew kapital li jifdal ta’ dak ir-residenti, japplika r-rata ta’ taxxa li kien kieku japplika li kieku dak l-income jew oġġetti kapitali ma kienux eżentati.
 
-(b) (i) Bla ħsara għad-disposizzjonijiet tal-liġi tal-Belġju għar-rigward tal-fatt li t-taxxi mħallsa barra l-pajjiż jitqiesu bħala kreditu kontra t-taxxa tal-Belġju, meta residenti tal-Belġju jikseb oġġetti ta’ l-income aggregat tiegħu għall-finijiet tat-taxxa tal-Belġju li huma dividendi taxxabbli skond il-paragrafu (2)(b) ta’ l-Artikolu 10, mhux eżenti mit-taxxa tal- Belġju skond is-subparagrafu (ċ) ta’ dan l-Artikolu, jew imgħax taxxabbli skond il-paragrafi (2) jew (7) ta’ l-Artikolu 11, jew royalties taxxabbli skond il-paragrafi (2) jew (5) ta’ l-Artikolu 12, it-taxxa ta’ Malta li tinġabar fuq dak l-income għandha titqies bħala kreditu kontra FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05 15
-
-t-taxxa tal-Belġju fir-rigward ta’ dak l-income.
+(b) (i) Bla ħsara għad-disposizzjonijiet tal-liġi tal-Belġju għar-rigward tal-fatt li t-taxxi mħallsa barra l-pajjiż jitqiesu bħala kreditu kontra t-taxxa tal-Belġju, meta residenti tal-Belġju jikseb oġġetti ta’ l-income aggregat tiegħu għall-finijiet tat-taxxa tal-Belġju li huma dividendi taxxabbli skond il-paragrafu (2)(b) ta’ l-Artikolu 10, mhux eżenti mit-taxxa tal- Belġju skond is-subparagrafu (ċ) ta’ dan l-Artikolu, jew imgħax taxxabbli skond il-paragrafi (2) jew (7) ta’ l-Artikolu 11, jew royalties taxxabbli skond il-paragrafi (2) jew (5) ta’ l-Artikolu 12, it-taxxa ta’ Malta li tinġabar fuq dak l-income għandha titqies bħala kreditu kontra t-taxxa tal-Belġju fir-rigward ta’ dak l-income.
 
 (ii) Il-Belġju għandu wkoll iqis il-kreditu li hemm provdut dwaru f’(i) ta’ dan is-subparagrafu għar-rigward ta’ taxxa li titħallas fuq dividendi jew imgħax minn investiment dirett li huma taxxabbli f’Malta bis-saħħa tal-Ftehim u tal-liġi ġenerali ta’ Malta meta dik it-taxxa tkun temporanjament mogħtija lura jew imnaqqsa taħt disposizzjonijiet speċjali mfassla biex jippromwovu l-iżvilupp ekonomiku ta’ Malta.
 
@@ -503,9 +487,7 @@ Din id-disposizzjoni ma għandhiex tinftiehem bħala li tobbliga Stat Kontraenti
 
 (2) L-awtorità kompetenti għandha tara, jekk l-oġġezzjoni tidher li tkun ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal għal soluzzjoni xierqa, li tirriżolvi l-każ bi ftehim reċiproku ma’ l-awtorità kompetenti ta’ l-Istat Kontraenti l-ieħor, bil-ħsieb li tiġi evitata tassazzjoni li ma tkunx skond dan il-Ftehim.
 
-(3) L-awtoritajiet kompetenti ta’ l-Istat Kontraenti għandhom jaraw li jirriżolvu bi ftehim reċiproku kull diffikoltajiet jew dubji li jinqalgħu dwar l-applikazzjoni tal- FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05 17
-
-Ftehim.
+(3) L-awtoritajiet kompetenti ta’ l-Istat Kontraenti għandhom jaraw li jirriżolvu bi ftehim reċiproku kull diffikoltajiet jew dubji li jinqalgħu dwar l-applikazzjoni tal- Ftehim.
 
 (4) L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom jiftehmu dwar miżuri amministrattivi meħieġa biex iseħħu d-disposizzjonijiet tal-Ftehim, b’mod partikolari dwar il-provi li għandhom jingħataw minn residenti ta’ kull Stat Kontraenti sabiex ikunu jistgħu jibbenefikaw fl-Istat Kontraenti l-ieħor mill-eżenzjonijiet u mit-tnaqqis provduti f’dan il-Ftehim.
 
@@ -563,9 +545,7 @@ Ftehim.
 
 **Terminazzjoni**
 
-Dan il-Ftehim għandu jibqa’ jseħħ indefinittivament iżda kull wieħed mill-Istati Kontraenti, fit-30 jew qabel it-30 ta’ Ġunju ta’ xi sena kalendarja mit-tielet sena wara dik li fiha d-dokumenti ta’ ratifikazzjoni jkunu ġew skambjati, jista’ jagħti lill- FUQ L-INCOME MAR-RENJU TAL-BELĠJU [L.S.123.05 19
-
-Istat Kontraenti l-iehor, permezz ta’ mezzi diplomatiċi avviż bil-miktub tat-terminazzjoni u, f’dak il-każ, il-Ftehim għandu jieqaf mis-seħħ -
+Dan il-Ftehim għandu jibqa’ jseħħ indefinittivament iżda kull wieħed mill-Istati Kontraenti, fit-30 jew qabel it-30 ta’ Ġunju ta’ xi sena kalendarja mit-tielet sena wara dik li fiha d-dokumenti ta’ ratifikazzjoni jkunu ġew skambjati, jista’ jagħti lill- Istat Kontraenti l-iehor, permezz ta’ mezzi diplomatiċi avviż bil-miktub tat-terminazzjoni u, f’dak il-każ, il-Ftehim għandu jieqaf mis-seħħ -
 
 (a) fil-Belġju:
 

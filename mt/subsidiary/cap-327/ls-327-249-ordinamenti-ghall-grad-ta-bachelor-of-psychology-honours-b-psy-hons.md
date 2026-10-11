@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Psychology (Honours) - B.Psy. (Hons) - taħt il-patrocinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.249)
 
-B.PSY. (HONS) - TA}T IL-PATRO~INJU
-
-*1*
-
-TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.249
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.249**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF PSYCHOLOGY (HONOURS) - B.PSY. (HONS) -
@@ -78,12 +72,6 @@ Il-kors jinfirex fuq medda ta’ tlett snin ta’ studju fuq bażi full-time jew
 ## 6. Programm tal-kors.
 
 L-istudenti għandhom jirreġistraw u jiksbu l-kredti għal taqsimiet studju li għalihom hemm assenjati 180 kredtu, kif indikat fil-programm tal-kors għall-Grad.
-
-B.PSY. (HONS) - TA}T IL-PATRO~INJU
-
-*2*
-
-[L.S.327.249 TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
 
 ## 7. Programm ta’ studju.
 

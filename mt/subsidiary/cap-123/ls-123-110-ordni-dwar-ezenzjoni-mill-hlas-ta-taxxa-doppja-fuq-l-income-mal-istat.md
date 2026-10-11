@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta’ Taxxa Doppja fuq l-Income mal-Istat tal-Qatar (S.L. 123.110)
 
-*1*
-
-FUQ L-INCOME MAL-ISTAT TAL-QATAR [L.S.123.110
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.110**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -111,9 +107,7 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa identika jew sostanzjalment si
 
 \1. Għall-għanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’oħra:
 
-(a) il-frażi "Qatar" tfisser l-artijiet u l-ilmijiet interni ta’ l-Istat tal-Qatar u l-baħar territorjali flimkien mal-qiegħ u s-sottoswol tiegħu, l-ispazju ta’ FUQ L-INCOME MAL-ISTAT TAL-QATAR [L.S.123.110 3
-
-l-ajru fuqhom, iż-żona ekonomika esklużiva u l-blata kontinentali, li fuqhom l-Istat tal-Qatar jeżerċita drittijiet sovrani u ġurisdizzjoni skond id-dispożizzjonijiet tad-dritt internazzjonali u l-liġijiet u r-regolamenti nazzjonali tal-Qatar;
+(a) il-frażi "Qatar" tfisser l-artijiet u l-ilmijiet interni ta’ l-Istat tal-Qatar u l-baħar territorjali flimkien mal-qiegħ u s-sottoswol tiegħu, l-ispazju ta’ l-ajru fuqhom, iż-żona ekonomika esklużiva u l-blata kontinentali, li fuqhom l-Istat tal-Qatar jeżerċita drittijiet sovrani u ġurisdizzjoni skond id-dispożizzjonijiet tad-dritt internazzjonali u l-liġijiet u r-regolamenti nazzjonali tal-Qatar;
 
 (b) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiġi użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra ta’ l-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ qiegħ il-baħar, is-sottoswol tiegħu u l-kolonna ta’ baħar sovrajaċenti li tinsab adjaċenti mal-ibħra territorjali, li fihom Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tagħha, inkluża l-leġislazzjoni tagħha għar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
 
@@ -185,9 +179,7 @@ interess vitali tiegħu, jew residenza fejn soltu jirrisjedi fil-Qatar, u kumpan
 
 (f) fond użat biex isir il-bejgħ minnu; u
 
-(g) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ FUQ L-INCOME MAL-ISTAT TAL-QATAR [L.S.123.110 5
-
-estrazzjoni ta’ riżorsi naturali.
+(g) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ estrazzjoni ta’ riżorsi naturali.
 
 \3. Il-frażi "stabbiliment permanenti" tinkludi wkoll:
 
@@ -251,8 +243,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, għandhom ikunu permessi bħala tnaqqis dawk l-ispejjeż li jsiru għall-għanijiet ta’ l-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, sew fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’oħra, hekk kif ikunu permessi taħt id-dispożizzjonijiet tal-liġi domestika tal-Istat Kontraenti fejn ikun jinsab l-istabbiliment permanenti.
 
-FUQ L-INCOME MAL-ISTAT TAL-QATAR [L.S.123.110 7
-
 \4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jiġu stabbiliti l-profitti li għandhom jiġu attribwiti lil stabbiliment permanenti abbażi ta’ tqassim tal-profitti totali ta’ l-impriża lill-partijiet diversi tagħha, ebda ħaġa fil-paragrafu 2 ma għandha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li għandhom jiġu intaxxati b’dak it-tqassim skond ma tista’ tkun il-konswetudini; il-metodu ta’ tqassim li jiġi adottat għandu, madankollu, isir b’tali mod li r-riżultat ikun skond il-prinċipji li jinsabu f’dan l-Artikolu.
 
 \5. Ebda profitti ma għandhom jiġu attribwiti lil stabbiliment permanenti minħabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija għall-impriża.
@@ -305,9 +295,7 @@ għandhom jitqiesu kif dovut id-dispożizzjonijiet l-oħra ta’ dan il-Ftehim u
 
 \2. Il-frażi "mgħax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assigurati b’ipoteka sew jekk le, u sew jekk ikollhomx dritt li jipparteċipaw fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inklużi premiums u premjijiet relatati ma’ dawk it-titoli, bonds jew debentures. Il-ħlasijiet ta’ penali għal ħlas tardiv ma jitqiesux bħala mgħax għall-finijiet ta’ dan l- Artikolu.
 
-\3. Id-dispożizzjonijiet tal-paragrafu 1 ma għandhomx japplikaw jekk is-sid benefiċjarju ta’ l-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita li tkun tinsab hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ, għandhom japplikaw id- FUQ L-INCOME MAL-ISTAT TAL-QATAR [L.S.123.110 9
-
-dispożizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ.
+\3. Id-dispożizzjonijiet tal-paragrafu 1 ma għandhomx japplikaw jekk is-sid benefiċjarju ta’ l-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita li tkun tinsab hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ, għandhom japplikaw id-dispożizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ.
 
 \4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont ta’ l- imgħax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ħlasijiet għandha tibqa’ taxxabbli skond il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-dispożizzjonijiet l-oħra ta’ dan il-Ftehim.
 
@@ -354,8 +342,6 @@ dispożizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ.
 (b) jekk huwa jkun joqgħod fl-Istat Kontraenti l-ieħor għal perjodu jew perjodi li b’kollox ikunu jammontaw jew jeċċedu 183 ġurnata f’xi perjodu ta’ tnax-il xahar li jibda għaddej jew itemm fis-sena ta’ taxxa inkwistjoni; f’dak il-każ, ikun biss daqstant mill-income daqs kemm jinkiseb mill-attivitajiet li jsiru f’dak l-Istat Kontraenti l-ieħor li jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
 
 \2. Il-frażi "servizzi professjonali" tinkludi l-aktar attivitajiet xjentifiċi, letterarji, artistiċi, edukattivi jew ta’ tagħlim indipendenti kif ukoll l-attivitajiet indipendenti ta’ tobba, avukati, inġiniera, periti, dentisti u accountants.
-
-FUQ L-INCOME MAL-ISTAT TAL-QATAR [L.S.123.110 11
 
 **Artikolu 15**
 
@@ -423,9 +409,7 @@ ieħor tkun għalkollox jew sostanzjalment sostnuta b’fondi ta’ xi Stat Kont
 
 **GĦALLIEMA U RI¬ERKATURI**
 
-\1. Individwu li jkun jew li kien minnufih qabel ma jżur Stat Kontraenti residenti ta’ l-Istat Kontraenti l-ieħor u li, fuq stedina tal-Gvern ta’ l-ewwel imsemmi Stat Kontraenti jew ta’ xi università, kulleġġ skola, mużew jew istituzzjoni kulturali oħra f’dak l-ewwel imsemmi Stat Kontraenti jew taħt programm uffiċjali ta’ skambju kulturali, ikun preżenti f’dak l-Istat Kontraenti għal perjodu ta’ mhux iżjed minn tliet snin konsekuttivi unikament bil-għan li jgħallem, jagħti lectures jew jagħmel riċerka f’dik l-istituzzjoni, ikun eżenti mit-taxxa f’dak l-Istat Kontraenti fuq FUQ L-INCOME MAL-ISTAT TAL-QATAR [L.S.123.110 13
-
-il-kumpens li jirċievi għal dik l-attività.
+\1. Individwu li jkun jew li kien minnufih qabel ma jżur Stat Kontraenti residenti ta’ l-Istat Kontraenti l-ieħor u li, fuq stedina tal-Gvern ta’ l-ewwel imsemmi Stat Kontraenti jew ta’ xi università, kulleġġ skola, mużew jew istituzzjoni kulturali oħra f’dak l-ewwel imsemmi Stat Kontraenti jew taħt programm uffiċjali ta’ skambju kulturali, ikun preżenti f’dak l-Istat Kontraenti għal perjodu ta’ mhux iżjed minn tliet snin konsekuttivi unikament bil-għan li jgħallem, jagħti lectures jew jagħmel riċerka f’dik l-istituzzjoni, ikun eżenti mit-taxxa f’dak l-Istat Kontraenti fuq il-kumpens li jirċievi għal dik l-attività.
 
 \2. Id-dispożizzjonijiet tal-paragrafu 1 ta’ dan l-Artikolu ma għandhomx ikunu japplikaw għal income minn riċerka jekk dik ir-riċerka ssir mhux fl-interess pubbliku imma primarjament għall-benefiċċju privat ta’ xi persuna jew persuni speċifiċi.
 
@@ -475,9 +459,7 @@ Bla ħsara għad-dispożizzjonijiet rilevanti tal-liġijiet ta’ l-Istati Kontr
 
 \1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wieħed jew taż-żewġ Stati Kontraenti jirriżultawlha jew jistgħu jirriżultawlha f’tassazzjoni li ma tkunx skond id-dispożizzjonijiet ta’ dan il-Ftehim, hi tista’, irrispettivament mir-rimedji provduti mil-liġi domestika ta’ dawk l-Istati, tippreżenta l-każ tagħha quddiem l-awtorità kompetenti ta’ l-Istat Kontraenti fejn hi tkun residenti jew, jekk il-każ tagħha jkun jaqa’ taħt il-paragrafu 1 ta’ l-Artikolu 24, quddiem dik ta’ l-Istat Kontraenti li hi tkun ċittadin tiegħu. Il-każ għandu jiġi ppreżentat fi żmien tliet snin minn l-ewwel avviż ta’ l-azzjoni li tirriżulta f’tassazzjoni li ma tkunx skond id-dispożizzjonijiet tal-Ftehim. Id-dispożizzjonijiet ta’ dan il-paragrafu għandhom ikunu wkoll japplikaw għal Stat Kontraenti u għal kull awtorità lokali, sottodiviżjoni politika jew korp statutorju ta’ dak l-Istat Kontraenti
 
-\2. L-awtorità kompetenti għandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waħda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal għal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku ma’ l-awtorità kompetenti ta’ l-Istat FUQ L-INCOME MAL-ISTAT TAL-QATAR [L.S.123.110 15
-
-Kontraenti l-ieħor, bil-għan li tiġi evitata tassazzjoni li ma tkunx skond il-Ftehim.
+\2. L-awtorità kompetenti għandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waħda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal għal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku ma’ l-awtorità kompetenti ta’ l-Istat Kontraenti l-ieħor, bil-għan li tiġi evitata tassazzjoni li ma tkunx skond il-Ftehim.
 
 \3. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jistgħu joriġinaw dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgħu wkoll jikkonsultaw flimkien dwar l-eliminazzjoni ta’ tassazzjoni doppja f’dawk il-każijiet li m’hemm provdut xejn dwarhom fil-Ftehim.
 

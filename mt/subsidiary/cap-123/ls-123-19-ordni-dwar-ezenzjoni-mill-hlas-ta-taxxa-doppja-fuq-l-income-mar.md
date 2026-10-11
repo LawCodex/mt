@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tal-Bulgarija (S.L. 123.19)
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-BULGARIJA [ L.S.123.19
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.19**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -95,8 +93,6 @@ it-taxxa fuq l-income (hawnhekk i\\jed ’il quddiem imsej]a "it-taxxa ta’ Mal
 
 (iii) it-taxxa fuq il-profitti.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-BULGARIJA [ L.S.123.19
-
 (2) Il-Ftehim g]andu japplika g]al kull taxxa b]alhom jew li tkun sostanzjalment tixba]hom li ti[i imposta wara l-iffirmar tal-Ftehim b’\\ieda ma’ jew minflok it-taxxi e\\istenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jav\\aw lil xulxin b’kull tibdil sinjifikanti li jkun sar fil-li[ijiet dwar it-taxxi rispettivi tag]hom. Jekk ikun hemm dubju dwar jekk tkunx saret bidla sinjifikanti fil-li[ijiet tat-tassazzjoni li tkun te]tie[ li ti[i inkorporata fil-Ftehim, l-awtoritajiet kompetenti g]andhom i\\ommu aktar diskussjonijiet sabiex jaslu fi ftehim.
 
 **ARTIKOLU 3**
@@ -171,9 +167,7 @@ il-Ministru responsabbli g]all-finanzi jew ir-rappre\\entant awtorizzat tieg]u;
 
 (d) minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew xi post ie]or ta’ estrazzjoni ta’ ri\\ervi naturali;
 
-(e) pro[ett ta’ kostruzzjoni jew ta’ stallazzjoni jew attivitajiet ta’ FUQ L-INCOME MAR-REPUBBLIKA TAL-BULGARIJA [ L.S.123.19
-
-sorveljanza in konnessjoni mag]hom, meta dak il-pro[ett jew dik l-attività tkompli g]al aktar minn 18-il xahar;
+(e) pro[ett ta’ kostruzzjoni jew ta’ stallazzjoni jew attivitajiet ta’ sorveljanza in konnessjoni mag]hom, meta dak il-pro[ett jew dik l-attività tkompli g]al aktar minn 18-il xahar;
 
 (f) il-provdiment ta’ servizzi, inklu\\i servizzi ta’ konsulenza, minn impri\\a permezz ta’ impjegati jew persunal ie]or, fejn attivitajiet ta’ din ix-xorta jkomplu (g]all-istess pro[ett jew pro[ett in konnessjoni mieg]u) fil-pajji\\ g]al perijodu jew perijodi li jammontaw g]al aktar minn sitt xhur f’xi perijodu ta’ tnax-il xahar.
 
@@ -228,8 +222,6 @@ sorveljanza in konnessjoni mag]hom, meta dak il-pro[ett jew dik l-attività tkom
 (4) Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, ir-rimunerazzjoni miksuba dwar impieg e\\er`itat abbord bastiment, in[enji ta’ l-ajru jew vettura tat-triq im]addma fit-trasport internazzjonali, tista’ ti[i ntaxxata fl-Istat Kontraenti li fih is-sid ta’ l-impri\\a jkun residenti.
 
 (5) Id-disposizzjonijiet tal-paragrafi msemmijin hawn fuq ma jirreferux g]ar-rimunerazzjoni ta’ studenti u trainees li huma su[[etti g]all-Artikolu 13 ta’ dan il- Ftehim.
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-BULGARIJA [ L.S.123.19
 
 **ARTIKOLU 8**
 
@@ -303,8 +295,6 @@ Pensjonijiet u rimunerazzjonijiet o]ra simili li residenti ta’ Stat Kontraenti
 
 (1) Id-drittijiet li jinqalg]u minn residenti ta’ Stat Kontraenti b]ala ri\\ultat tal-e\\er`itar ta’ professjoni libera jew ta’ attività indipendenti o]ra fl-Istat Kontraenti l-ie]or huma taxxabbli fl-Istat l-ewwel imsemmi, kemm-il darba l-persuna ma jkollhiex ba\\i stabbilit disponibbli g]aliha fl-Istat Kontraenti l-ie]or g]all-iskop ta’ qadi ta’ l-attivitajiet tag]ha. Jekk il-persuna jkollha dak il-ba\\i stabbilit l-income jista’ ji[i ntaxxat f’dak l-Istat l-ie]or i\\da biss dik il-parti minnu li tkun attribwita g]al dak il-ba\\i stabbilit.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-BULGARIJA [ L.S.123.19
-
 (2) II-fra\\i "professjoni libera" tinkludi partikolarment attività indipendenti xjentifika, letterarja, artistika, edukattiva jew didattika kif ukoll attività indipendenti ta’ tobba, dentisti, avukati, in[iniera, periti u certified public accountants.
 
 (3) Minkejja d-disposizzjonijiet ta’ l-Artikolu 7 u tal-paragrafu (1) ta’ dan l- Artikolu, id-drittijiet li jinqalg]u minn residenti ta’ Stat Kontraenti b]ala persuna li tag]mel spettakoli ta’ divertiment (b]al artisti tat-teatru, tal-films `inematografi`i, artisti tar-radju jew tat-televi\\joni), jew b]ala mu\\i`ista, jew b]ala atleta mill-attivitajiet personali tag]ha b]ala hekk e\\er`itati fl-Istat Kontraenti l-ie]or, jistg]u ji[u ntaxxati f’dak l-Istat Kontraenti l-ie]or.
@@ -367,9 +357,7 @@ Fil-ka\\ ta’ Malta, it-taxxa doppja g]andha ti[i mne]]ija kif [ej:
 
 (6) Taxxi m]allsin minn residenti ta’ Malta dwar profitti mill-parte`ipazzjoni tag]hom f’so`jetà g]al attività ta’ negozju flimkien, mani[[ u tqassim flimkien tal-profitti u telf minnha u ffurmata skond id-Digriet 535 - 80 tal-Kunsill ta’ l-Istat tar-Repubblika tal-Bulgarija, g]andhom jitnaqqsu kontra t-taxxa rispettiva ta’ Malta f’ammont li kien ikollu jit]allas li kieku dak il-]elsien ma kienx ikun ing]ata f’dan id- Digriet.
 
-(7) Meta l-Ftehim jipprovdi li income li jinqala’ fi Stat Kontraenti g]andu jin]eles mit-taxxa f’dak l-Istat, jew g]al kollox jew f’parti minnu, u ta]t il-li[i fis-se]] fl-Istat Kontraenti l-ie]or, dak l-income ikun su[[ett g]at-taxxa b’riferenza g]all-ammont tieg]u li jintbag]at lil jew li ji[i ri`evut f’dak l-Istat l-ie]or u mhux b’riferenza g]all-ammont s]i] tieg]u, il-]elsien li jing]ata fl-Istat l-ewwel imsemmi g]andu jkun japplika biss g]al dik il-parti mill-income li tintbag]at lil jew li ti[i FUQ L-INCOME MAR-REPUBBLIKA TAL-BULGARIJA [ L.S.123.19
-
-ri`evuta mill-Istat l-ie]or.
+(7) Meta l-Ftehim jipprovdi li income li jinqala’ fi Stat Kontraenti g]andu jin]eles mit-taxxa f’dak l-Istat, jew g]al kollox jew f’parti minnu, u ta]t il-li[i fis-se]] fl-Istat Kontraenti l-ie]or, dak l-income ikun su[[ett g]at-taxxa b’riferenza g]all-ammont tieg]u li jintbag]at lil jew li ji[i ri`evut f’dak l-Istat l-ie]or u mhux b’riferenza g]all-ammont s]i] tieg]u, il-]elsien li jing]ata fl-Istat l-ewwel imsemmi g]andu jkun japplika biss g]al dik il-parti mill-income li tintbag]at lil jew li ti[i ri`evuta mill-Istat l-ie]or.
 
 **ARTIKOLU 18**
 

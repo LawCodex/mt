@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Self Lokali (Stock Reġistrat)"
-identifier: "S.L. 161.1"
+identifier: "S.L. 161.01"
 eli: "https://legislation.mt/eli/sl/161.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/161.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Self Lokali (Stock Reġistrat) (S.L. 161.1)
+# Regolamenti dwar Self Lokali (Stock Reġistrat) (S.L. 161.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 161.01**
 

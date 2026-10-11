@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tneħħija ta Mobbli minn Bini Rekwiżizzjonat"
-identifier: "S.L. 125.1"
+identifier: "S.L. 125.01"
 eli: "https://legislation.mt/eli/sl/125.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/125.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tneħħija ta Mobbli minn Bini Rekwiżizzjonat (S.L. 125.1)
-
-*1*
-
-BINI REKWI|IZZJONAT [L.S.125.01
+# Regolamenti dwar it-Tneħħija ta Mobbli minn Bini Rekwiżizzjonat (S.L. 125.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 125.01**
 

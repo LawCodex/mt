@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika ta' l-Italja (S.L. 123.16)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.16**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -97,11 +93,9 @@ it-taxxa fuq l-income,
 
 (hawnhekk i\\jed ’il quddiem imsej]a "it-taxxa ta’ Malta").
 
-(4) Dan il-Ftehim g]andu japplika wkoll g]al kull taxxi b]alhom jew li sostanzjalment jixb]uhom li ji[u mposti wara d-data li fiha dan il-Ftehim ji[i ffirmat b’\\ieda ma’ jew minflok, it-taxxi e\\istenti. L-awtoritajiet kompetenti ta’ l-Istati FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 3
+(4) Dan il-Ftehim g]andu japplika wkoll g]al kull taxxi b]alhom jew li sostanzjalment jixb]uhom li ji[u mposti wara d-data li fiha dan il-Ftehim ji[i ffirmat b’\\ieda ma’ jew minflok, it-taxxi e\\istenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom javzaw lil xulxin b’kull tibdil sinjifikanti li jkun sar fil-li[ijiet dwar it-taxxi rispettivi tag]hom.
 
 \*kif emendat bil-Protokoll riprodott fl-Avvi\\ Legali 14 tal-2011.
-
-Kontraenti g]andhom javzaw lil xulxin b’kull tibdil sinjifikanti li jkun sar fil-li[ijiet dwar it-taxxi rispettivi tag]hom.
 
 (5) Meta l-Ftehim jipprovdi li income li jinqala’ fi Stat Kontraenti g]andu jkun ]ieles mit-taxxa f’dak l-Istat, sew f’kollox sew f’parti, u, ta]t il-li[i li tkun isse]] fl- Istat Kontraenti l-ie]or, dak l-income jkun su[[ett g]at-taxxa b’riferenza g]all-ammont kollu tieg]u li jintbag]at lil jew li ji[i ri`evut f’dak l-Istat l-ie]or u mhux b’riferenza g]all-ammont kollu tieg]u, allura l-]elsien li g]andu jing]ata fl-Ewwel Stat imsemmi jkun japplika biss g]al dak l-income li jintbag]at lil jew li ji[i ri`evut fl-Istat l-ie]or.
 
@@ -177,8 +171,6 @@ Kontraenti g]andhom javzaw lil xulxin b’kull tibdil sinjifikanti li jkun sar f
 
 (e) ]anut tax-xog]ol;
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 5
-
 (f) minjiera, barriera jew post ie]or ta’ estrazzjoni ta’ ri\\orsi naturali;
 
 (g) sit tal-bini jew pro[ett ta’ kostruzzjoni jew immuntar li jkompli g]al aktar minn 12-il xahar;
@@ -234,8 +226,6 @@ disposizzjonijiet tal-li[i [enerali dwar proprjetà immobiljari. Il-fra\\i g]and
 (6) G]all-finijiet tal-paragrafi ta’ qabel, il-profitti li g]andhom ji[u attribwiti lill-istabbiliment permanenti, g]andhom ji[u stabbiliti bl-istess mod minn sena g]al sena kemm-il darba ma jkunx hemm ra[uni tajba u bi\\\\ejjed biex isir kuntrarju.
 
 (7) Meta l-profitti jinkludu o[[etti ta’ income li qed ji[u trattati separatament f’Artikoli o]ra ta’ dan il-Ftehim, id-disposizzjonijiet ta’ dawk l-Artikoli ma ji[ux imfixkla bid-disposizzjonijiet ta’ dan l-Artikolu.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 7
 
 **ARTIKOLU 8**
 
@@ -299,8 +289,6 @@ Dan il-paragrafu m’g]andux jolqot it-tassazzjoni tal-kumpannija dwar il-profit
 
 (a) min i]allas l-img]ax ikun il-Gvern ta’ dak l-Istat Kontraenti jew awtorità lokali ta’ hemmhekk; jew
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 9
-
 (b) l-img]ax ikun im]allas lill-Gvern ta’ l-Istat Kontraenti l-ie]or jew lill-awtorità lokali ta’ hemmhekk jew lil xi a[enzija jew instrumentalità (inklu\\a istituzzjoni finanzjarja) li tkun kollha kemm hi ta’ dak l-Istat Kontraenti jew ta’ awtorità lokali ta’ hemmhekk; jew
 
 (`) l-img]ax ikun im]allas lil xi a[enzija jew instrumentalità o]ra (inklu\\a istituzzjoni finanzjarja) dwar self mag]mul ta]t ftehim konklu\\ bejn il- Gvernijiet ta’ l-Istati Kontraenti.
@@ -343,9 +331,7 @@ fejn jinqalg]u, u skond il-li[i ta’ dak l-Istat, imma jekk min jir`evihom ikun
 
 **Servizzi Personali Indipendenti**
 
-(1) Income li jinkiseb minn residenti ta’ Stat Kontraenti dwar servizzi personali FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 11
-
-jew dwar attivitajiet indipendenti o]ra b]al dawn g]andu ji[i ntaxxat biss f’dak l- Istat. I\\da, dan l-income jista’ ji[i ntaxxat fl-Istat Kontraenti l-ie]or f’dawn i`- `irkostanzi:
+(1) Income li jinkiseb minn residenti ta’ Stat Kontraenti dwar servizzi personali jew dwar attivitajiet indipendenti o]ra b]al dawn g]andu ji[i ntaxxat biss f’dak l- Istat. I\\da, dan l-income jista’ ji[i ntaxxat fl-Istat Kontraenti l-ie]or f’dawn i`- `irkostanzi:
 
 (a) jekk ikollha ba\\i stabbilit li hi tista’ tu\\a regolarment fl-Istat Kontraenti l-ie]or sabiex taqdi l-attivitajiet tag]ha (f’liema ka\\ dik il-parti biss ta’ l-income li tkun attribwibbli g]all-ba\\i stabbilit tista’ tkun intaxxata f’dak l-Istat Kontraenti l-ie]or); jew
 
@@ -413,9 +399,7 @@ mill-attivitajiet personali tag]hom b]ala hekk jista’ ji[i ntaxxat fl-Istat Ko
 
 (3) Id-disposizzjonijiet ta’ l-Artikoli 15, 16 u 18 g]andhom japplikaw g]al rimunerazzjoni u pensjonijiet dwar servizzi mog]tija dwar kummer` jew negozju mmexxi minn wie]ed mill-Istati Kontraenti jew minn sottodivi\\joni politika jew amministrattiva jew awtorità lokali tieg]u.
 
-(4) Id-disposizzjonijiet tal-paragrafu (l)(a) g]andhom japplikaw bl-istess mod dwar rimunerazzjoni m]allsa, ta]t programm ta’ assistenza g]all-i\\vilupp ta’ Stat Kontraenti, ta’ sottodivi\\joni politika jew amministrattiva jew awtorità lokali tieg]u, FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 13
-
-minn fondi ma]ru[a esklu\\ivament minn dak l-Istat, dawk is-sottodivi\\jonijiet jew awtoritajiet lokali tieg]u, lil spe`jalista jew voluntier sekondat lill-Istat Kontraenti l-ie]or bil-kunsens ta’ dak l-Istat l-ie]or.
+(4) Id-disposizzjonijiet tal-paragrafu (l)(a) g]andhom japplikaw bl-istess mod dwar rimunerazzjoni m]allsa, ta]t programm ta’ assistenza g]all-i\\vilupp ta’ Stat Kontraenti, ta’ sottodivi\\joni politika jew amministrattiva jew awtorità lokali tieg]u, minn fondi ma]ru[a esklu\\ivament minn dak l-Istat, dawk is-sottodivi\\jonijiet jew awtoritajiet lokali tieg]u, lil spe`jalista jew voluntier sekondat lill-Istat Kontraenti l-ie]or bil-kunsens ta’ dak l-Istat l-ie]or.
 
 **ARTIKOLU 20**
 
@@ -467,9 +451,7 @@ It-taxxa m]allsa f’Malta li dwarha jing]ata t-tnaqqis hija biss l-ammont pro r
 
 Din id-disposizzjoni m’g]andhiex tiftiehem b]ala li tobbliga Stat Kontraenti li jag]ti lil residenti ta’ l-Istat Kontraenti l-ie]or xi tnaqqis personali, ]elsien u tnaqqis g]al finijiet ta’ tassazzjoni min]abba l-istat `ivili jew ir-responsabbiltajiet tal-familja jew xi `irkostanzi personali o]ra li jag]ti lil residenti tieg]u stess.
 
-(3) }lief fejn japplikaw id-disposizzjonijiet ta’ l-Artikolu 9, tal-paragrafu (7) ta’ l-Artikolu 11, jew tal-paragrafu (5) ta’ l-Artikolu 12, img]ax, royalties u nfieq ie]or im]allas minn impri\\a ta’ Stat Kontraenti lil residenti ta’ l-Istat Kontraenti l-ie]or g]andhom, sabiex ji[u stabbiliti l-profitti taxxabbli ta’ dik l-impri\\a ikunu jistg]u jitnaqqsu ta]t l-istess kundizzjonijiet b]allikieku kienu t]allsu lil residenti FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 15
-
-ta’ l-Istat imsemmi l-ewwel.
+(3) }lief fejn japplikaw id-disposizzjonijiet ta’ l-Artikolu 9, tal-paragrafu (7) ta’ l-Artikolu 11, jew tal-paragrafu (5) ta’ l-Artikolu 12, img]ax, royalties u nfieq ie]or im]allas minn impri\\a ta’ Stat Kontraenti lil residenti ta’ l-Istat Kontraenti l-ie]or g]andhom, sabiex ji[u stabbiliti l-profitti taxxabbli ta’ dik l-impri\\a ikunu jistg]u jitnaqqsu ta]t l-istess kundizzjonijiet b]allikieku kienu t]allsu lil residenti ta’ l-Istat imsemmi l-ewwel.
 
 (4) Impri\\i ta’ Stat Kontraenti, li l-kapital tag]hom, g]al kollox jew f’parti, ikun proprjetà ta’ jew ikkontrollat minn, direttament jew indirettament, residenti wie]ed jew aktar ta’ l-Istat Kontraenti l-ie]or, m’g]andhomx ikunu su[[etti fl-Istat Kontraenti msemmi l-ewwel g]al xi tassazzjoni jew xi ]ti[iet li g]andhom x’jaqsmu mag]ha li ma tkunx, jew li tkun ta’ pi\\ aktar minn, it-tassazzjoni u ]ti[iet li g]andhom x’jaqsmu mag]ha li g]alihom impri\\i b]al dawk ta’ l-Istat imsemmi l-ewwel huma jew jistg]u jkunu su[[etti.
 
@@ -523,9 +505,7 @@ Ebda ]a[a f’dan il-Ftehim m’g]andha tolqot il-privile[[i fiskali ta’ l-uff
 
 (1) Taxxi mi\\muma minn ras il-g]ajn fi Stat Kontraenti g]andhom ikunu rifu\\i fuq it-talba tat-taxpayer jew ta’ l-Istat Kontraenti li tieg]u jkun residenti, jekk id-dritt li jin[abru t-taxxi msemmija jkun regolat bid-disposizzjonijiet ta’ dan il- Ftehim.
 
-(2) Talbiet g]al rifu\\joni g]andhom isiru fil-limitu ta’ \\mien preskritt mil-li[i ta’ l-Istat Kontraenti li jkun obbligat li jag]mel il-]las lura u g]andhom ikunu akkumpanjati minn `ertifikat uffi`jali mill-awtoritajiet kompetenti ta’ l-Istat l-ie]or FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 17
-
-li tieg]u jkun residenti min qed jag]mel it-talba.
+(2) Talbiet g]al rifu\\joni g]andhom isiru fil-limitu ta’ \\mien preskritt mil-li[i ta’ l-Istat Kontraenti li jkun obbligat li jag]mel il-]las lura u g]andhom ikunu akkumpanjati minn `ertifikat uffi`jali mill-awtoritajiet kompetenti ta’ l-Istat l-ie]or li tieg]u jkun residenti min qed jag]mel it-talba.
 
 (3) L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom bi ftehim re`iproku jaqblu fuq il-mod kif g]andu ji[i applikat dan l-Artikolu, skond id-disposizzjonijiet ta’ l-Artikolu 24 ta’ dan il-Ftehim.
 
@@ -584,8 +564,6 @@ V B’riferenza g]all-paragrafu (1) ta’ l-Artikolu 24, l-espressjoni "minkejja
 VI Id-disposizzjonijiet tal-paragrafu 3 ta’ l-Artikolu 27 ma g]andux i\\omm lill-awtoritajiet kompetenti ta’ l-Istati Kontraenti milli jadottaw, bi ftehim re`iproku, pro`eduri o]ra g]at-tnaqqis ta’ tassazzjoni skond dan il-Ftehim.
 
 VII Minkejja d-disposizzjonijiet tal-paragrafu (2) ta’ l-Artikolu 28, id-disposizzjonijiet ta’ l-Artikolu 8 g]andhom japplikaw dwar income miksub matul xi perijodu taxxabbli li jibda fl-1 ta’ jew wara l-1 ta’ Jannar, 1969.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 19
 
 MAG}MUL fil-Belt Valletta, illum 16 ta’ Lulju, 1981 in duplikat fl-ilsien Taljan u Ingli\\, i\\-\\ew[ testi huma t-tnejn awtenti`i.
 
@@ -675,9 +653,7 @@ L-Artikolu 25 "Tibdil ta’ Informazzjoni" g]andu jit]assar u minfloku g]andu ji
 
 (b) li jag]ti informazzjoni li ma tkunx tista’ tinkiseb ta]t il-li[ijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ie]or;
 
-(`) li jag]ti informazzjoni li tkun tikxef xi sigriet tal-kummer`, tan-negozju, industrijali, kummer`jali jew professjonali jew xi FUQ L-INCOME MAR-REPUBBLIKA TA’ L-ITALJA [L.S.123.16 21
-
-pro`ess tal-kummer`, jew informazzjoni li l-kxif tag]ha jkun imur kontra l-ordni pubbliku (ordre public).
+(`) li jag]ti informazzjoni li tkun tikxef xi sigriet tal-kummer`, tan-negozju, industrijali, kummer`jali jew professjonali jew xi pro`ess tal-kummer`, jew informazzjoni li l-kxif tag]ha jkun imur kontra l-ordni pubbliku (ordre public).
 
 (4) Jekk tintalab xi informazzjoni minn Stat Kontraenti kif hawn f’dan l- Artikolu, l-Istat Kontraenti l-ie]or g]andu ju\\a l-mi\\uri ta’ [bir ta’ informazzjoni li jkollu biex jikseb l-informazzjoni me]tie[a, ukoll jekk dak l-Istat l-ie]or jista’ ma jkunx je]tie[ dik l-informazzjoni g]all-finijiet ta’ taxxa tieg]u nnifsu. L-obbligazzjoni li hemm fis-sentenza ta’ qabel hi so[[etta g]al-limitazzjonijiet tal-paragrafu (3) imma f’ebda ka\\ m’g]andhom dawk il-limitazzjonijiet jiftiehmu li jippermettu lil Stat Kontraenti li jonqos milli jag]ti informazzjoni min]abba biss li ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 

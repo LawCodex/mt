@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet għal Servizzi mill-Ispettorat tas-Saħħa (S.L. 35.27)
 
-*1*
-
-U TAL-BI~~ERIJA [L.S.35.27
-
 **LE{ISLAZZJONI SUSSIDJARJA 35.27**
 
 **REGOLAMENTI DWAR DRITTIJIET**

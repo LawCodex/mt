@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Statut Dwar il-Proprjetà Immobiljari li Fuqha l-Università ta’ Malta Tivvanta Pretensjoni jew Għandha Titolu Legali (S.L. 327.585)
 
-L-UNIVERSITÀ TA’ MALTA TIVVANTA PRETENSJONI JEW
-
-*1*
-
-GĦANDHA TITOLU LEGALI [L.S. 327.585 LEĠISLAZZJONI SUSSIDJARJA 327.585
+**LEĠISLAZZJONI SUSSIDJARJA 327.585**
 
 **L-UNIVERSITÀ TA’ MALTA TIVVANTA**
 

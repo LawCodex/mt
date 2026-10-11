@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Higher Diploma in Psychology taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.415)
 
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.415
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.415**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -71,13 +67,9 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 *Programm tal-kors.*
 
-5.‡ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet [L.S.327.415 IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
+5.‡ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati 60 kredtu.
 
 \*Japplikaw mill-1 ta Mejju, 2018 †Japplikaw mill-1 ta Mejju, 2018
-
-studju li għalihom hemm assenjati 60 kredtu.
-
-*2*
 
 *Klassifikazzjoni tar- Rikonoxximent.*
 

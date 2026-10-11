@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estradizzjoni (Pajjiżi tal-Commonwealth Speċifikati)"
-identifier: "S.L. 276.1"
+identifier: "S.L. 276.01"
 eli: "https://legislation.mt/eli/sl/276.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/276.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estradizzjoni (Pajjiżi tal-Commonwealth Speċifikati) (S.L. 276.1)
-
-ESTRADIZZJONI
-
-(PAJJI|I TAL-COMMONWEALTH SPE~IFIKATI) [ L.S.276.01
+# Ordni dwar l-Estradizzjoni (Pajjiżi tal-Commonwealth Speċifikati) (S.L. 276.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 276.01**
 

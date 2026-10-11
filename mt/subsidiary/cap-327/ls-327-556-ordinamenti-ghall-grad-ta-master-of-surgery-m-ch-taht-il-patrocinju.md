@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Surgery - M.Ch. - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.556)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.556
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.556**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -73,13 +67,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (ċ) il-livell milħuq waqt intervista, jekk meqjus neċessarju.
 
-(4) L-intervisti, jekk neċessarji, għandhom ikunu mmexxija TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.556 TAL-MEDIĊINA U L-KIRURĠIJA
-
-minn bord maħtur mill-Bord għal dan il-għan u magħmul minn tal-anqas tliet membri.
+(4) L-intervisti, jekk neċessarji, għandhom ikunu mmexxija minn bord maħtur mill-Bord għal dan il-għan u magħmul minn tal-anqas tliet membri.
 
 (5) Għall-iskop tal-għażla, l-applikanti li jissodisfaw għal kollox ir-rekwiżiti għad-dħul sal-31 t’Awwissu qabel il-bidu tal-kors għandhom jitqiesu l-ewwel.
 
@@ -115,11 +103,7 @@ Il-kors għandu jinfirex fuq sitt semestri ta’ studju fuq bażi part-time.
 
 ## 8. Panil ta’ Superviżjoni.
 
-(1) Il-Bord għandu jaħtar Panil ta’ Superviżjoni għal kull student, normalment magħmul minn tliet membri kif ġej: il-Kap tad-Dipartiment jew id-delegat tiegħu bħala Chairman, u żewġ TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.556 membri oħra, li wieħed minnhom ikun is-superviżur tar-riċerka, sakemm li meta l-Kap tad-Dipartiment ikun is-superviżur, hu ma jkunx jista’ joqgħod bħala Chairman.
+(1) Il-Bord għandu jaħtar Panil ta’ Superviżjoni għal kull student, normalment magħmul minn tliet membri kif ġej: il-Kap tad-Dipartiment jew id-delegat tiegħu bħala Chairman, u żewġ membri oħra, li wieħed minnhom ikun is-superviżur tar-riċerka, sakemm li meta l-Kap tad-Dipartiment ikun is-superviżur, hu ma jkunx jista’ joqgħod bħala Chairman.
 
 (2) Il-Panil ta’ Superviżjoni għandu jsegwi, kif meħtieġ, il-progress tal-istudenti matul il-kors, sakemm li jiltaqa’ għall-anqas darbtejn fis-sena biex jirrevedi dan il-progress.
 

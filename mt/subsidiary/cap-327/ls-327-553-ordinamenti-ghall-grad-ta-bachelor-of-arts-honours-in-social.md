@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Arts (Honours) in Social Wellbeing Studies – B.A. (Hons) SWB - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.553)
 
-*1*
-
-WELLBEING STUDIES – B.A. (HONS) [L.S.327.553
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.553**
 
 **ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF**
@@ -69,11 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) L-applikanti kkunsidrati bħala “Studenti Adulti” (applikanti maturi) skont il-paragrafu (ċ) tar-regolament 6 tar-Regolamenti għad- Dħul għandu jkollhom dawk il-kwalifiki u / jew l-esperjenza li jissodisfaw lill-Kumitat għad-Dħul tal-Fakultà li jkunu laħqu l-livell akkademiku neċessarju biex isegwu l-Kors bi profitt. Dawn l-applikanti jkunu meħtieġa jissottomettu mal-applikazzjoni tagħhom ittra miktuba bl-Ingliż fejn jagħtu l-motivazzjoni tagħhom biex jidħlu fil-Kors flimkien ma’ kopja tal-Curriculum Vitae (C.V.) tagħhom. L-applikanti jintalbu jattendu intervista matul l-aħħar ġimgħatejn tax-xahar ta’ Settembru.
 
-(3) L-eliġibbilità tal-applikanti msemmija fil-paragrafu (2) ta’ [L.S.327.553 WELLBEING STUDIES – B.A. (HONS)
-
-dan l-ordinament għandha tkun deċiża mill-Bord tad-Dħul tal- Università, fuq ir-rakkomandazzjoni tal-Kumitat għad-Dħul tal- Fakultà, wara intervista li tkun immexxija minn bord tal-intervisti maħtur għal dan il-għan.
-
-*2*
+(3) L-eliġibbilità tal-applikanti msemmija fil-paragrafu (2) ta’ dan l-ordinament għandha tkun deċiża mill-Bord tad-Dħul tal- Università, fuq ir-rakkomandazzjoni tal-Kumitat għad-Dħul tal- Fakultà, wara intervista li tkun immexxija minn bord tal-intervisti maħtur għal dan il-għan.
 
 (4) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul minn tal-anqas tliet persuni.
 
@@ -118,10 +110,6 @@ Marka Medja tat-Tielet Sena 40%.
 Marka Medja tal-Ewwel Sena 10%
 
 Marka Medja tat-Tieni Sena 20%
-
-*3*
-
-WELLBEING STUDIES – B.A. (HONS) [L.S.327.553
 
 Marka Medja tat-Tielet Sena 20%
 

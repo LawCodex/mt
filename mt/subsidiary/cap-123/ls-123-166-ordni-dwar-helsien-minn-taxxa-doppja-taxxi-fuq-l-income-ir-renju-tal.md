@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ir Renju tal-Olanda, fir-rigward ta’ Curaçao) (S.L. 123.166)
 
-*1*
-
-(IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.166**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
@@ -48,7 +44,7 @@ B’dan qiegћed jiġi dikjarat:
 
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett wara li jidħol fis-seħħ il-Ftehim u skont il-provvediment rilevanti tal-Ftehim;
 
-(ċ) illi l-Ftehim beda jseħħ mill-1 ta’ Settembru, 2024. 2 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
+(ċ) illi l-Ftehim beda jseħħ mill-1 ta’ Settembru, 2024.
 
 ## SKEDA — Artikolu 2 — FTEHIM BEJN
 
@@ -120,9 +116,7 @@ it-taxxa fuq l-income;
 
 ## 4.
 
-Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalment simili li tiġi imposta wara d-data meta jiġi ffirmat il-Ftehim b’żjieda mat-taxxi eżistenti jew minflokhom. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jgћarrfu lil xulxin b’kull tibdil sinifikanti li jkun sar fil-liġijiet rispettivi (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 3
-
-tagħhom dwar it-taxxi.
+Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalment simili li tiġi imposta wara d-data meta jiġi ffirmat il-Ftehim b’żjieda mat-taxxi eżistenti jew minflokhom. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jgћarrfu lil xulxin b’kull tibdil sinifikanti li jkun sar fil-liġijiet rispettivi tagħhom dwar it-taxxi.
 
 Kapitolu 2
 
@@ -162,9 +156,7 @@ Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx 
 
 (k) il-frażi "ċittadin" tfisser:
 
-(i) fir-rigward tal-Curaçao, kull individwu li għandu ċittadinanza Olandiża u li jkun eliġibbli biex jivvota fil-Curaçao li kieku jkollu 4 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
-
-l-età meħtieġa u li jkun preżenti fil-Curaçao, iżda madankollu, jekk individwu ma jkunx preżenti fil-Curaçaio huwa jrid jew ikun twieled fil-Curaçao jew ikun residenti hemmhekk għal mill-anqas ħames snin; u kull persuna ġuridika, soċjetà jew assoċjazzjoni li jiksbu l-istatus tagħhom bħala tali mil-liġijiet fis-seħħ fil- Curaçao;
+(i) fir-rigward tal-Curaçao, kull individwu li għandu ċittadinanza Olandiża u li jkun eliġibbli biex jivvota fil-Curaçao li kieku jkollu l-età meħtieġa u li jkun preżenti fil-Curaçao, iżda madankollu, jekk individwu ma jkunx preżenti fil-Curaçaio huwa jrid jew ikun twieled fil-Curaçao jew ikun residenti hemmhekk għal mill-anqas ħames snin; u kull persuna ġuridika, soċjetà jew assoċjazzjoni li jiksbu l-istatus tagħhom bħala tali mil-liġijiet fis-seħħ fil- Curaçao;
 
 (ii) fir-rigward ta’ Malta, kull individwu li jkollu ċ-ċittadinanza ta’ Malta; u kull persuna ġuridika, soċjetà jew assoċjazzjoni li jiksbu l-istatus tagћhom bћala tali mil-liġijiet li jkunu fis-seħħ f’Malta. 2. Dwar l-applikazzjoni tal-Ftehim f’kull waqt minn Stat Kontraenti, kull frażi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra, it-tifsira mogћtija lilha li jkollha f’dak il-waqt taћt il-liġi ta’ dak l- Istat gћall-finijiet tat-taxxi li dwarhom ikun japplika l-Ftehim, hekk li kull tifsira taħt il-liġijiet tat-taxxa li jkunu japplikaw ta’ dak l-Istat tkun tipprevali fuq tifsira mogћtija lil dik il-frażi taћt liġijiet oћra ta’ dak l-Istat.
 
@@ -191,8 +183,6 @@ l-età meħtieġa u li jkun preżenti fil-Curaçao, iżda madankollu, jekk indiv
 **STABBILIMENT PERMANENTI**
 
 \1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "stabbiliment permanenti" tfisser post tan-negozju fiss li minnu jitmexxa n-negozju ta’ impriża gћalkollox jew f’parti minnu.
-
-(IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 5
 
 \2. Il-frażi "stabbiliment permanenti" b’mod speċjali tinkludi:
 
@@ -236,9 +226,7 @@ Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, impriża tal-ass
 
 ## 7.
 
-Impriża ma gћandhiex titqies li jkollha stabbiliment permanenti fl-Istat Kontraenti l-ieħor biss minћabba li tkun tiġġestixxi negozju f’dak l-Istat l-ieħor permezz ta’ sensal, aġent b’kummissjoni ġenerali jew kull aġent ieћor bi status 6 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
-
-indipendenti, sakemm dawk il-persuni jkunu qegћdin jaġixxu fil-kors ordinarju tan-negozju tagћhom.
+Impriża ma gћandhiex titqies li jkollha stabbiliment permanenti fl-Istat Kontraenti l-ieħor biss minћabba li tkun tiġġestixxi negozju f’dak l-Istat l-ieħor permezz ta’ sensal, aġent b’kummissjoni ġenerali jew kull aġent ieћor bi status indipendenti, sakemm dawk il-persuni jkunu qegћdin jaġixxu fil-kors ordinarju tan-negozju tagћhom.
 
 ## 8.
 
@@ -270,9 +258,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis l-ispejjeż li jsiru gћall-gћanijiet tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, kemm jekk isiru fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’oħra.
 
-\4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 7
-
-gћandhom jiġu attribwiti lil stabbiliment permanenti fuq bażi ta’ tqassim tal-profitti totali tal-impriża lill-partijiet diversi tagћha, ebda ћaġa fil-paragrafu 2 m’gћandha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li gћandhom jiġu intaxxati b’dak it-tqassim hekk kif tista’ tkun il-konswetudni; il-metodu ta’ tqassim li jiġi adottat gћandu, madankollu, isir b’tali mod li r-riżultat ikun kif iridu l-prinċipji li jinsabu f’dan l-Artikolu.
+\4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li gћandhom jiġu attribwiti lil stabbiliment permanenti fuq bażi ta’ tqassim tal-profitti totali tal-impriża lill-partijiet diversi tagћha, ebda ћaġa fil-paragrafu 2 m’gћandha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li gћandhom jiġu intaxxati b’dak it-tqassim hekk kif tista’ tkun il-konswetudni; il-metodu ta’ tqassim li jiġi adottat gћandu, madankollu, isir b’tali mod li r-riżultat ikun kif iridu l-prinċipji li jinsabu f’dan l-Artikolu.
 
 \5. Ebda profitti ma gћandhom jiġu attribwiti lil stabbiliment permanenti minћabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija gћall-impriża.
 
@@ -297,8 +283,6 @@ Meta l-profitti jkunu jinkludu elementi ta’ income li jkunu qegћdin jiġu tra
 \4. Id-dispożizzjonijiet tal-paragrafu 1 u 3 għandhom japplikaw ukoll għall-profitti minn parteċipazzjoni f ’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
 
 \5. Kemm il-darba l-post ta’ maniġġ effettiv ta’ impriża ta’ tbaħħir jkun abbord bastiment, allura jkun meqjus li jkun jinsab fl-Istat Kontraenti fejn ikun jinsab il-home harbour tal-bastiment, jew, jekk ma jkunx hemm tali home harbour, fl-Istat Kontraenti fejn l-operatur tal-bastiment ikun residenti.
-
-8 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
 
 **Artikolu 9**
 
@@ -330,8 +314,6 @@ u f ’kull każ isiru jew jiġu imposti kundizzjonijiet bejn iż-żewg impriżi
 
 (b) meta d-dividendi jitħallsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Curaçao li jkun is-sid benefiċjarju tad-dividendi, it-taxxa ta’ Malta fuq l-ammont gross tad-dividendi m’għandhiex tkun iżjed minn dik li titħallas fuq il-profitti li minnhom jitħallsu d-dividendi.
 
-(IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 9
-
 Dan il-paragrafu m’għandux jaffettwa t-tassazzjoni tal-kumpannija rigward il-profitti li minnhom jitħallsu d-dividendi.
 
 L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom bi ftehim reċiproku jaqblu dwar il-mod ta’ kif għandhom japplikaw dawn il-limitazzjonijiet.
@@ -353,8 +335,6 @@ L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom bi ftehim reċiproku j
 \3. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparteċipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew obbligazzjonijiet, inklużi premiums u rigali relatati ma dawk it-titoli, bonds jew obbligazzjonijiet. Ħlasijiet ta’ penali għall-ħlas tardiv ma jitqiesux bħala mgħax għall-għanijiet ta’ dan l-Artikolu.
 
 \4. Id-dispożizzjonijiet tal-paragrafu 1 ma gћandhomx japplikaw jekk is-sid benefiċjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor, li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 gћandhom japplikaw.
-
-10 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
 
 \5. Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont tal-imgћax, meta jiġi kkunsidrat il-pretensjoni ta’ debitu li dwarha tħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont tal-imgħax l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet għandha tibqa’ taxxabbli kif hemm fil-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu l-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
@@ -379,8 +359,6 @@ L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom bi ftehim reċiproku j
 \2. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor, inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien ma’ l-impriża kollha), jista’ jiġi intaxxat f’dak Istat l-ieћor.
 
 \3. Qligћ li jinkiseb mit-trasferiment ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali jew minn proprjetà mobbli li tkun tappartjeni għat-tħaddim ta’ dawk il-bastimenti jew inġenji tal-ajru, gћandu jiġi intaxxat biss fl-Istat Kontraenti fejn ikun jinsab il-post ta’ maniġġ effettiv tal-impriża.
-
-(IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 11
 
 \4. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ ishma li jkollhom aktar minn 50 fil-mija tal-valur tagħhom ġej direttament jew indirettament minn proprjetà immobbli li tkun tinsab fl-Istat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
 
@@ -414,9 +392,7 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 **ARTISTI U SPORTIVI**
 
-\1. Minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, income li jinkiseb minn residenti ta’ Stat Kontraenti bћala persuna li tagћti spettaklu, bћal artisti tat-teatru, 12 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
-
-tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћal mużiċisti, jew bћal sportivi, mill-attivitajiet personali tiegħu bћala tali li jiġu eżerċitati fl-Istat Kontraenti l-ieћor, jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
+\1. Minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, income li jinkiseb minn residenti ta’ Stat Kontraenti bћala persuna li tagћti spettaklu, bћal artisti tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћal mużiċisti, jew bћal sportivi, mill-attivitajiet personali tiegħu bћala tali li jiġu eżerċitati fl-Istat Kontraenti l-ieћor, jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
 
 \2. Meta income dwar attivitajiet personali eżerċitati minn persuna li tagћti spettaklu jew minn sportiv fil-kapaċità tiegħu bћala tali ma jinġabarx favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iżda favur xi persuna oћra, dak l-income jista’, minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, jiġi intaxxat fl-Istat Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
 
@@ -446,9 +422,7 @@ tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћal mużiċis
 
 \2. (a) Minkejja l-dispożizzjonijiet tal-paragrafu 1, pensjonijiet u kumpens ieħor bħalhom mћallsa minn, jew li joħorġu minn fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegħu lil individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandhom jiġu intaxxati biss f’dak l-Istat.
 
-(b) Madankollu, pensjoni bħal dik jew kumpens ieħor simili għandha tkun (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 13
-
-taxxabbli biss fl-Istat Kontraenti l-ieħor kemm il-darba l-individwu jkun residenti ta’, u ċittadin ta’, dak l-Istat.
+(b) Madankollu, pensjoni bħal dik jew kumpens ieħor simili għandha tkun taxxabbli biss fl-Istat Kontraenti l-ieħor kemm il-darba l-individwu jkun residenti ta’, u ċittadin ta’, dak l-Istat.
 
 \3. Id-dispożizzjonijiet tal-Artikoli 14, 15, 16 u 17 gћandhom japplikaw gћal salarji, pagi, pensjonijiet u kumpens ieħor bħalhom, gћar-rigward ta’ servizzi mogħtijin f’dak li għandu x’jaqsam ma’ kummerċ ġestit minn Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegħu.
 
@@ -474,9 +448,7 @@ taxxabbli biss fl-Istat Kontraenti l-ieħor kemm il-darba l-individwu jkun resid
 
 \4. Profitti miksuba minn residenti ta’ Stat Kontraenti mit-trasportazzjoni ta’ provvisti jew persunal għal post, jew bejn postijiet, fejn attivitajiet li għandhom x’jaqsmu mal-esplorazzjoni jew l-esplojtazzjoni ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom huma ġestiti fi Stat Kontraenti, jew mit-tħaddim ta’ bastimenti tal-irmonk u vetturi oħra awżiljarji għall-dawn l-attivitajiet, għandhom jiġu intaxxati biss fl-Istat Kontraenti fejn il-post ta’ maniġġ effettiv ta’ impriża jkun jinsab.
 
-\5. (a) Bla ħsara għas-subparagrafu (b) ta’ dan il-paragrafu, salarji, pagi u kumpens ieħor bћal dawk miksub minn residenti ta’ Stat Kontraenti fir-rigward ta’ impjieg li għandu x’jaqsam mal-esplorazzjoni jew esplojtazzjoni ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom li jinsabu fl-Istat Kontraenti l-ieħor jistgħu, sa fejn il-karigi 14 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
-
-huma eżerċitati offshore f’dak l-Istat l-ieħor, jiġu intaxxati f’dak l-Istat l-ieħor jekk l-impjieg offshore ikompli għal perjodu li fit-total ikun iktar minn 30 ġurnata fi kwalunkwe perjodu ta’ tnax-il xahar.
+\5. (a) Bla ħsara għas-subparagrafu (b) ta’ dan il-paragrafu, salarji, pagi u kumpens ieħor bћal dawk miksub minn residenti ta’ Stat Kontraenti fir-rigward ta’ impjieg li għandu x’jaqsam mal-esplorazzjoni jew esplojtazzjoni ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom li jinsabu fl-Istat Kontraenti l-ieħor jistgħu, sa fejn il-karigi huma eżerċitati offshore f’dak l-Istat l-ieħor, jiġu intaxxati f’dak l-Istat l-ieħor jekk l-impjieg offshore ikompli għal perjodu li fit-total ikun iktar minn 30 ġurnata fi kwalunkwe perjodu ta’ tnax-il xahar.
 
 (b) Salarji, pagi u kumpens ieħor bћal dawk miksuba minn residenti ta’ Stat Kontraenti fir-rigward ta’ impjieg eżerċitat abbord xi bastiment jew inġenju tal-ajru involuti fit-trasport ta’ provvisti jew persunal għal post, jew bejn postijiet, fejn l-attivitajiet li għandhom x’jaqsmu mal-esplorazzjoni jew esplojtazzjoni ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom huma ġestiti fi Stat Kontraenti, jew fir-rigward ta’ impjieg eżerċitat abbord bastimenti ta’ l-irmonk jew vetturi oħra awżiljarji għall-dawn l-attivitajiet, għandhom jiġu intaxxati biss fl-Istat Kontraenti fejn il-post ta’ maniġġ effettiv ta’ impriża jkun jinsab.
 
@@ -510,9 +482,7 @@ F’dan il-paragrafu "drittijiet dwar esplorazzjoni jew esplojtazzjoni" tfisser 
 
 \1. Fil-każ ta’ Malta, it-taxxa doppja għandha tiġi eliminata kif ġej:
 
-Bla ħsara għad-dispożizzjonijiet tal-liġi ta’ Malta fir-rigward li jitħalla li jingħata kreditu kontra it-taxxa ta’ Malta dwar taxxa barranija, meta, skont id-dispożizzjonijiet ta’ dan il-Ftehim, ikun hemm inkluż fi stima ta’ Malta income minn għejjun fil-Curaçao (u għalhekk jiġi eskluż (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 15
-
-income fir-rigward ta’ sehem parteċipanti u stabbilimenti permanenti li huma eżenti mit-taxxa ta’ Malta), it-taxxa tal-Curaçao fuq dak l-income għandha tingħata bħala kreditu kontra t-taxxa ta’ Malta relattiva li titħallas fuq dak l-income.
+Bla ħsara għad-dispożizzjonijiet tal-liġi ta’ Malta fir-rigward li jitħalla li jingħata kreditu kontra it-taxxa ta’ Malta dwar taxxa barranija, meta, skont id-dispożizzjonijiet ta’ dan il-Ftehim, ikun hemm inkluż fi stima ta’ Malta income minn għejjun fil-Curaçao (u għalhekk jiġi eskluż income fir-rigward ta’ sehem parteċipanti u stabbilimenti permanenti li huma eżenti mit-taxxa ta’ Malta), it-taxxa tal-Curaçao fuq dak l-income għandha tingħata bħala kreditu kontra t-taxxa ta’ Malta relattiva li titħallas fuq dak l-income.
 
 \2. Fil-każ tal-Curaçao, it-taxxa doppja għandha tiġi eliminata kif ġej:
 
@@ -533,8 +503,6 @@ income fir-rigward ta’ sehem parteċipanti u stabbilimenti permanenti li huma 
 \1. Iċ-ċittadini ta’ Stat Kontraenti ma gћandhom jiġu assoġġettati fl-Istat Kontraenti l-ieћor gћal ebda tassazzjoni jew ebda ћtieġa li tkun konnessa ma’ dan, li tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li gћalihom ċittadini ta’ dak l-Istat l-ieћor fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgћu jkunu assoġġettati. Din id-dispożizzjoni għandha, minkejja d-dispożizzjonijiet tal-Artikolu 1, tapplika wkoll għal persuni li mhumiex residenti ta’wieħed mill-Istati Kontraenti jew tat-tnejn li huma.
 
 \2. Persuni apolidi li jkunu residenti ta’ Stat Kontraenti ma għandhomx ikunu assoġġettati f’xi Stat Kontraenti wieħed jew l-ieħor għal xi tassazzjoni jew ħtieġa li tkun konness ma’ dan, li tkun xort’oħra jew ta’ iktar piż mit-taxxa u ħtiġiet konnessi li għalihom iċ-ċittadini tal-Istat involut fl-istess ċirkustanzi, partikolarment fir-rigward ta’ residenza, ikunu jew jistgħu jkunu assoġġettati.
-
-16 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
 
 \3. It-taxxa fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl- Istat Kontraenti l-ieћor ma gћandhiex tinġabar b’mod inqas favorevoli f’dak Istat l-ieћor mit-taxxa miġbura fuq impriżi ta’ dak l-Istat l-ieћor li jkunu qed iwettqu l-istess attivitajiet. Din id-dispożizzjoni m’għandhiex titqies li tobbliga xi Stat Kontraenti li jagħti lil residenti tal-Istat Kontraenti l-ieħor xi allowances personali, ħelsien u tnaqqis għall-għanijiet ta’ tassazzjoni li jingħata minħabba l-istatus ċivili jew responsabbiltajiet ta’ familja li jagħti lir-residenti tiegħu.
 
@@ -558,9 +526,7 @@ income fir-rigward ta’ sehem parteċipanti u stabbilimenti permanenti li huma 
 
 \5. Meta
 
-(a) taħt il-paragrafu 1, persuna tkun ippreżentat każ lill-awtorità (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 17
-
-kompetenti ta’ Stat Kontraenti fuq il-bażi li l-azzjonijiet ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma jkunu irriżultaw għal dik il-persuna f’tassazzjoni li ma tkunx skont il-dispożizzjonijiet ta’ dan il- Ftehim; u
+(a) taħt il-paragrafu 1, persuna tkun ippreżentat każ lill-awtorità kompetenti ta’ Stat Kontraenti fuq il-bażi li l-azzjonijiet ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma jkunu irriżultaw għal dik il-persuna f’tassazzjoni li ma tkunx skont il-dispożizzjonijiet ta’ dan il- Ftehim; u
 
 (b) l-awtoritajiet kompetenti ma jkunux jistgħu jilħqu ftehim biex jirrisolvu l-każ skont il-paragrafu 3 fi żmien sentejn minn meta l-każ jiġi preżentat lill-awtorità kompetenti tal-Istat Kontraenti l-ieħor,
 
@@ -582,9 +548,7 @@ SKAMBJU TA’ INFORMAZZJONI
 
 (ċ) li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew informazzjoni, li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
-\4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni 18 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
-
-biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f ’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
+\4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f ’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
 \5. F’ebda każ ma gћandhom id-dispożizzjonijiet tal-paragrafu 3 jiftiehmu bћala li jħallu lil Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’xi kapaċità ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetà f’xi persuna.
 
@@ -601,8 +565,6 @@ biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ m
 \4. Meta pretensjoni ta’ dħul ta’ Stat Konraenti hija pretensjoni li dwarha dak l- Istat jista’, taħt il-liġi tiegħu, jieħu mizuri ta’ konservanza bil-ħsieb li jiżguraw il-ġbir tagħha, dik il-pretensjoni ta’ dħul għandha, fuq it-talba tal-awtorità kompetenti ta’ dak l-Istat, tiġi aċċettata għall-finijiet ta’ teħid ta’ miżuri ta’ konservanza mill-awtorità kompetenti tal-Istat Kontraenti l-ieħor. Dak l-Istat l-ieħor għandu jieħu miżuri ta’ konservanza dwar dik il-pretensjoni ta’ dħul skont id-dispożizzjonijiet tal-liġjijiet tiegħu daqslikieku l-pretensjoni ta’ dħul kienet pretensjoni ta’ dħul ta’ dak l- Istat l-ieħor ukoll jekk, f’dak iż-żmien meta tali miżuri ġew applikati, il-pretensjoni ta’ dħul ma’ tistax tkun infurzata fl-Istat l-ewwel imsemmi jew tkun dovuta minn persuna li għandha dritt li tippreveni l-ġbir tagħha.
 
 \5. Minkejja d-dispożizzjonijiet tal-paragrafi 3 u 4, pretensjoni ta’ dħul aċċettata minn Stat Kontraenti għall-finijiet tal-paragrafi 3 u 4 m’għandhomx, f’dak l-Istat, ikunu soġġetti għal terminu ta’ żmien jew mogħtija xi prijorità li tapplika għal xi pretensjoni ta’ dħul taħt il-liġijiet ta’ dak l-Istat minħabba n-natura tiegħu bħala tali. Barra minn hekk, pretensjoni ta’ dħul aċċettata minn Stat Kontraenti għall-finijiet tal-paragrafu 3 jew 4 m’għandux, f’dak l-Istat, ikollu xi prijorità li tapplika għal dik il-pretensjoni ta’ dħul taħt il-liġijiet ta’ dak l-Istat Kontraenti l-ieħor.
-
-(IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 19
 
 \6. Proċedimenti dwar l-eżistenza, il-validità jew l-ammont tal-pretensjoni ta’ dħul ta’ Stat Kontraenti m’għandhomx jinġiebu quddiem il-qrati jew korpi amministrattivi tal-Istat Kontraenti l-ieħor.
 
@@ -646,9 +608,7 @@ Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-mem
 
 (a) f’Malta:
 
-d war taxxi fuq income li jinkiseb matul xi sena kalendarja jew perjodu ta’ kontijiet, skont kif ikun il-każ, li jibda fi jew wara l-ewwel jum ta’ Jannar li jaħbat minnufih wara d-data li fiha jidħol 20 [L.S.123.166 (IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO)
-
-fis-seħħ il-Ftehim;
+d war taxxi fuq income li jinkiseb matul xi sena kalendarja jew perjodu ta’ kontijiet, skont kif ikun il-każ, li jibda fi jew wara l-ewwel jum ta’ Jannar li jaħbat minnufih wara d-data li fiha jidħol fis-seħħ il-Ftehim;
 
 (b) fil-Curaçao:
 
@@ -684,11 +644,7 @@ fir-rigward ta’ Curaçao
 
 **PROTOKOLL**
 
-Filwaqt tal-iffirmar tal-Ftehim bejn ir-Repubblika ta’ Malta u r-Renju tal-Olanda fir-rigward ta’ Curaçao, gћall-Evitar ta’ Taxxa Doppja u l-Prevenzjoni ta’ Evażjoni Fiskali dwar Taxxi fuq l-Income, is-sottoskritti ftehmu dwar dawn id-dispożizzjonijiet li ġejjin li għandhom ikunu jiffurmaw parti integrali mill-Ftehim.
-
-(IR-RENJU TAL-OLANDA, FIR RIGWARD TA’ CURAÇAO) [L.S.123.166 21
-
-B’riferenza għall-Artikolu 4
+Filwaqt tal-iffirmar tal-Ftehim bejn ir-Repubblika ta’ Malta u r-Renju tal-Olanda fir-rigward ta’ Curaçao, gћall-Evitar ta’ Taxxa Doppja u l-Prevenzjoni ta’ Evażjoni Fiskali dwar Taxxi fuq l-Income, is-sottoskritti ftehmu dwar dawn id-dispożizzjonijiet li ġejjin li għandhom ikunu jiffurmaw parti integrali mill-Ftehim. B’riferenza għall-Artikolu 4
 
 Hu mifhum li għall-finijiet tal-paragrafu 3 fil-każ ta’ trust, jekk trustee ikun residenti fi Stat Kontraenti u ebda wieħed mit-trustees ma jkun residenti fl-Istat Kontraenti l-ieħor, it-trust ikun ikkunsidrat li jkun residenti tal-Istat Kontraenti l-ewwel imsemmi. Kemm il-darba trustees ikunu residenti fiż-żewġ Stati Kontraenti, allura t-trust ikun ikkunsidrat li jkun residenti fl-Istat Kontraenti fejn id-deċiżjonijiet rigward l-amministrazzjoni tat-trust jittieħdu. F’każ tali deċiżjonijiet jittieħdu fiż-żewġ Stati Kontraenti jew f’ebda wieħed minnhom, allura l-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jiddeċiedu dwar ir-residenza tat-trust bi ftehim reċiproku.
 

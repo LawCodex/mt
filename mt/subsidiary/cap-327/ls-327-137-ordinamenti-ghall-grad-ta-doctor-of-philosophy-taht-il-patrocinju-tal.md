@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien (S.L. 327.137)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [S.L.327.137
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.137**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -81,15 +75,9 @@ Il-Kumitat tal-Fakultà għad-Dottorat jista’ jsejjaħ membri oħrajn jekk iku
 
 ## 6. Superviżjoni u l-progress tal-istudenti
 
-Is-Superviżuri Prinċipali huma meħtieġa jissottomettu rapport bil-miktub lill-Bord, permezz tal-Kumitat tal-Fakultà għad- TAĦT IL-PATROĊINJU TAL-FAKULTÀ
+Is-Superviżuri Prinċipali huma meħtieġa jissottomettu rapport bil-miktub lill-Bord, permezz tal-Kumitat tal-Fakultà għad- Dottorat, kull Ġunju għall-istudenti kollha li jaqgħu taħt is-superviżjoni tagħhom.
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 293 tal-2024.
-
-*2*
-
-[L.S.327.137 TAL-MIDJA U X-XJENZI TAL-GĦARFIEN
-
-Dottorat, kull Ġunju għall-istudenti kollha li jaqgħu taħt is-superviżjoni tagħhom.
 
 ## 7. Rapport dwar progress sodisfaċenti.
 

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Postgraduate Diploma in the Regulation of Social Care taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.426)
 
-POSTGRADUATE DIPLOMA IN THE REGULATION OF
-
-SOCIAL CARE TAĦT IL-PATROĊINJU TAL-FAKULTA TAL-
-
-*1*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.426
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.426**
 
 **ORDINAMENTI GĦALL-POSTGRADUATE**

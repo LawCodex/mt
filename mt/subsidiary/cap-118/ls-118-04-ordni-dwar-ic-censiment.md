@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar iċ-Ċensiment"
-identifier: "S.L. 118.4"
+identifier: "S.L. 118.04"
 eli: "https://legislation.mt/eli/sl/118.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/118.4/20211109/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar iċ-Ċensiment (S.L. 118.4)
+# Ordni dwar iċ-Ċensiment (S.L. 118.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 118.04**
 

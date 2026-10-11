@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Rumanja (S.L. 123.42)
 
-*1*
-
-FUQ L-INCOME MAR-RUMANIJA [L.S.123.42
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.42**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -108,8 +104,6 @@ it-taxxa fuq l-income;
 
 Dan il-Ftehim għandu japplika wkoll għal kull taxxa bħalhom jew li sostanzjalment tixbaħhom li jiġu imposti wara d-data tal-firma ta’ dan il-Ftehim b’żieda ma’, jew minflok, it-taxxi eżistenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom javżaw lil xulxin b’kull tibdil sostanzjali li jkun sar fil-liġijiet tagħhom rispettivi li jirrigwardaw it-taxxa.
 
-FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 3
-
 **ARTIKOLU 3**
 
 **Tifsiriet Ġenerali**
@@ -186,9 +180,7 @@ FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 3
 
 (g) art li tkun qegħda tinbena jew proġett ta’ kostruzzjoni jew ta’ assemblaġġ jew attivitajiet superviżorji li għandhom x’jaqsmu ma’ dan meta dawn ikomplu għal iktar minn tnax il-xahar;
 
-(h) l-għoti ta’ servizzi, inklużi servizzi ta’ konsult, minn impriża ta’ Stat FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 5
-
-Kontraenti permezz ta’ l-impjegati tagħha jew ta’ persunal ieħor, meta attivitajiet ta’ dik ix-xorta jkomplu fl-Istat Kontraenti l-ieħor għal perijodu jew perijodi li b’kollox jammontaw għal iktar minn 183 jum f’perijodu wieħed ta’ tnax il-xahar.
+(h) l-għoti ta’ servizzi, inklużi servizzi ta’ konsult, minn impriża ta’ Stat Kontraenti permezz ta’ l-impjegati tagħha jew ta’ persunal ieħor, meta attivitajiet ta’ dik ix-xorta jkomplu fl-Istat Kontraenti l-ieħor għal perijodu jew perijodi li b’kollox jammontaw għal iktar minn 183 jum f’perijodu wieħed ta’ tnax il-xahar.
 
 \3. Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbiliment permanenti" għandha titqies li ma tinkludix:
 
@@ -246,9 +238,7 @@ il-liġi ta’ l-Istat Kontraenti li fih il-proprjetà li tkun hija sitwata. Il-
 
 ## 6.
 
-Għall-finijiet tal-paragrafi ta’ qabel, il-profitti li għandhom jiġu attribwiti FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 7
-
-lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess mod minn sena għal sena kemm-il darba ma jkunx hemm raġuni tajba u biżżejjed biex isir kuntrarju.
+Għall-finijiet tal-paragrafi ta’ qabel, il-profitti li għandhom jiġu attribwiti lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess mod minn sena għal sena kemm-il darba ma jkunx hemm raġuni tajba u biżżejjed biex isir kuntrarju.
 
 ## 7.
 
@@ -304,8 +294,6 @@ Dan il-paragrafu ma jolqotx it-tassazzjoni ta’ kumpannija għar-rigward tal-pr
 
 \5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija ħlief meta dividendi bħal dawn jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew safejn il-holding li dwaru jitħallsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ bażi stabbilit sitwat f’dak l-Istat l-ieħor, jew jissuġġetta l-profitti mhux distribwiti tal-kumpannija għal taxxa fuq il-profitti mhux distribwiti tal-kumpannija, anki jekk id-dividendi mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
 
-FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 9
-
 **ARTIKOLU 11**
 
 **Imgħax**
@@ -355,8 +343,6 @@ Meta, minħabba relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew
 \3. Il-frażi "royalties" f’dan l-Artikolu tfisser ħlasijiet jew krediti, sew jekk perjodiċi sew jekk le, u b’kull mod kif jiġu deskritti jew maħdumin, sal-limitu li jsiru bħala kumpens:
 
 (a) għall-użu ta’, jew għall-jedd ta’ l-użu, ta’ kull copyright, invenzjoni, disinn jew mudell, pjan, formula jew proċess sigriet, trade mark jew kull proprjetà jew jedd ieħor bħal dawk;
-
-FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 11
 
 (b) għall-għoti ta’ tagħrif jew informazzjoni ta’ xorta xjentifika, teknika, industrijali jew kummerċjali;
 
@@ -416,9 +402,7 @@ trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien ma’ l-i
 
 (b) il-kumpens ikun imħallas minn, jew f’isem, prinċipal li ma jkunx residenti ta’ l-Istat l-ieħor, u
 
-(ċ) dak il-kumpens ma jkunx piż fuq l-istabbiliment permanenti jew bażi FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 13
-
-stabbilit li l-prinċipal ikollu fl-Istat l-ieħor.
+(ċ) dak il-kumpens ma jkunx piż fuq l-istabbiliment permanenti jew bażi stabbilit li l-prinċipal ikollu fl-Istat l-ieħor.
 
 \3. Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, kumpens miksub minn residenti ta’ Stat Kontraenti dwar impieg eżerċitat abbord bastiment, opra tal-baħar, inġenji ta’ l-ajru, ferrovija jew vettura fuq l-art imħaddma fi traffiku internazzjonali jista’ jiġi intaxxat fl-Istat Kontraenti fejn ikun jinsab il-post ta’ maniġġ effettiv ta’ l-impriża.
 
@@ -486,9 +470,7 @@ Kull ħlas li student jew apprendist li jkun jew kien minnufih qabel ma jżur St
 
 \1. Oġġetti ta’ income ta’ residenti ta’ Stat Kontraenti li ma jissemmewx espressament fl-Artikoli ta’ qabel ta’ dan il-Ftehim li dwarhom huwa jkun suġġett għat-taxxa f’dak l-Istat għandhom ikunu taxxabbli biss f’dak l-Istat.
 
-\2. Id-disposizzjonijiet tal-paragrafu 1 ma għandhomx japplikaw għal income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 ta’ l-Artikolu 6, jekk min jirċievi dak l-income, li jkun residenti ta’ Stat Kontraenti, jiġġestixxi negozju fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab f’dak I-Istat, jew iwettaq f’dak l-Istat l-ieħor servizzi personali indipendenti minn FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 15
-
-bażi fiss li jkun jinsab f’dak l-Istat, u d-dritt jew il-proprjetà li dwarhom jithallas l-income ikollu x’jaqsam b’mod effettiv ma’ dak l-istabbiliment jew bażi fiss. F’dak il-każ, għandhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 15, skond il-każ.
+\2. Id-disposizzjonijiet tal-paragrafu 1 ma għandhomx japplikaw għal income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 ta’ l-Artikolu 6, jekk min jirċievi dak l-income, li jkun residenti ta’ Stat Kontraenti, jiġġestixxi negozju fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab f’dak I-Istat, jew iwettaq f’dak l-Istat l-ieħor servizzi personali indipendenti minn bażi fiss li jkun jinsab f’dak l-Istat, u d-dritt jew il-proprjetà li dwarhom jithallas l-income ikollu x’jaqsam b’mod effettiv ma’ dak l-istabbiliment jew bażi fiss. F’dak il-każ, għandhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 15, skond il-każ.
 
 **ARTIKOLU 24**
 
@@ -536,11 +518,9 @@ l. Meta persuna jidhrilha li l-azzjonijiet ta’ l-awtorità kompetenti ta’ wi
 
 **Tibdil ta’ Informazzjoni**
 
-\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom jibdlu dik l-informazzjoni li tkun meħtieġa sabiex jitwettqu d-disposizzjonijiet ta’ dan il-Ftehim jew tal-liġijiet domestiċi ta’ l-Istati Kontraenti dwar taxxi milquta bil-Ftehim safejn it-tassazzjoni ma tmurx kontra l-Ftehim. It-tibdil ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li tasal għand Stat Kontraenti għandha titqies sigrieta bl-istess mod bħal informazzjoni miksuba taħt il-liġijiet domestiċi ta’ dak l- Istat u għandha titgħarraf biss lil awtoritajiet (magħduda qrati u korpi amministrattivi) imdaħħla fl-istima jew ġbir ta’, l-infurzar jew prosekuzzjoni dwar, jew il-qtugħ ta’ appelli jew sabiex tiġi evitata l-evażjoni fiskali dwar, it-taxxi li FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 17
+\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom jibdlu dik l-informazzjoni li tkun meħtieġa sabiex jitwettqu d-disposizzjonijiet ta’ dan il-Ftehim jew tal-liġijiet domestiċi ta’ l-Istati Kontraenti dwar taxxi milquta bil-Ftehim safejn it-tassazzjoni ma tmurx kontra l-Ftehim. It-tibdil ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li tasal għand Stat Kontraenti għandha titqies sigrieta bl-istess mod bħal informazzjoni miksuba taħt il-liġijiet domestiċi ta’ dak l- Istat u għandha titgħarraf biss lil awtoritajiet (magħduda qrati u korpi amministrattivi) imdaħħla fl-istima jew ġbir ta’, l-infurzar jew prosekuzzjoni dwar, jew il-qtugħ ta’ appelli jew sabiex tiġi evitata l-evażjoni fiskali dwar, it-taxxi li jaqgħu taħt il-Ftehim. Dawk l-awtoritajiet għandhom jużaw l-informazzjoni għal dawk l-għanijiet biss. Huma jistgħu jikxfu dik l-informazzjoni fi proċedimenti li jsiru f’qorti pubblika jew f’sentenzi tal-qorti.
 
 \*Kif sostitwit bl-Avviż Legali 97 tal-2026.
-
-jaqgħu taħt il-Ftehim. Dawk l-awtoritajiet għandhom jużaw l-informazzjoni għal dawk l-għanijiet biss. Huma jistgħu jikxfu dik l-informazzjoni fi proċedimenti li jsiru f’qorti pubblika jew f’sentenzi tal-qorti.
 
 \2. F’ebda każ ma għandhom id-disposizzjonijiet tal-paragrafu 1 ta’ dan l- Artikolu jitqiesu li jimponu fuq Stat Kontraenti l-obbligu:
 
@@ -595,8 +575,6 @@ MAGĦMUL in duplikat ġewwa Bucharest fit-30 ta’ Novembru, 1995 fl-ilsien Rume
 JOHN DALLI FLORIN GEORGESCU
 
 **Għall-Gvern ta’ Malta Għall-Gvern tar-Rumanija**
-
-FUQ L-INCOME MAR-RUMANIJA [L.S.123.42 19
 
 **PROTOKOLL\***
 

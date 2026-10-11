@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Federali tal-Ġermanja"
-identifier: "S.L. 123.6"
+identifier: "S.L. 123.06"
 eli: "https://legislation.mt/eli/sl/123.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Federali tal-Ġermanja (S.L. 123.6)
-
-*1*
-
-INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06
+# Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Federali tal-Ġermanja (S.L. 123.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 123.06**
 
@@ -111,27 +107,41 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 \1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx te]tie[ xort’o]ra:
 
-INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 3
+*a)*
 
-a) il-fra\\i "Repubblika Federali tal-{ermanja" tfisser it-territorju tar- Repubblika Federali tal-{ermanja, kif ukoll l-area ta’ qieg] il-ba]ar, is-sottoswol tag]ha u l-kolonna ta’ ilma sovraja`enti li hi adja`enti mal-ba]ar territorjali, hekk kif ir-Repubblika Federali tal-{ermanja hemm te\\er`ita drittijiet sovrani u [urisdizzjoni b’mod konformi mad-dritt internazzjonali u l-le[islazzjoni nazzjonali tag]ha biex tesplora l-blata kontinentali u tesplojta r-ri\\orsi naturali tag]ha;
+il-fra\\i "Repubblika Federali tal-{ermanja" tfisser it-territorju tar- Repubblika Federali tal-{ermanja, kif ukoll l-area ta’ qieg] il-ba]ar, is-sottoswol tag]ha u l-kolonna ta’ ilma sovraja`enti li hi adja`enti mal-ba]ar territorjali, hekk kif ir-Repubblika Federali tal-{ermanja hemm te\\er`ita drittijiet sovrani u [urisdizzjoni b’mod konformi mad-dritt internazzjonali u l-le[islazzjoni nazzjonali tag]ha biex tesplora l-blata kontinentali u tesplojta r-ri\\orsi naturali tag]ha;
 
-b) il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tag]ha u l-kolonna ta’ ilma sovraja`enti li hi adja`enti ma’ l-ib]ra territorjali, fejn ir-Repubblika ta’ Malta te\\er`ita drittijiet sovrani, [urisdizzjoni, jew kontroll skond id-dritt internazzjonali u l-li[i nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha li tirrigwarda l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
+*b)*
 
-`) il-fra\\ijiet "Stat Kontraenti" u "l-Istat Kontraenti l-ie]or" ifissru Malta jew ir-Repubblika Federali tal-{ermanja, skond ma tkun te]tie[ ir-rabta tal-kliem;
+il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tag]ha u l-kolonna ta’ ilma sovraja`enti li hi adja`enti ma’ l-ib]ra territorjali, fejn ir-Repubblika ta’ Malta te\\er`ita drittijiet sovrani, [urisdizzjoni, jew kontroll skond id-dritt internazzjonali u l-li[i nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha li tirrigwarda l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
 
-d) il-fra\\i "persuna" tinkludi individwu u kumpannija;
+*`)*
 
-e) il-fra\\i "kumpannija" tfisser korp mag]qud jew enti li jkunu ttrattati b]ala korp mag]qud g]all-iskopijiet ta’ taxxa;
+il-fra\\ijiet "Stat Kontraenti" u "l-Istat Kontraenti l-ie]or" ifissru Malta jew ir-Repubblika Federali tal-{ermanja, skond ma tkun te]tie[ ir-rabta tal-kliem;
 
-f) il-fra\\ijiet "impri\\a ta’ Stat Kontraenti" u "impri\\a ta’ l-Istat Kontraenti l-ie]or" ifissru rispettivament impri\\a [estita minn residenti ta’ Stat Kontraenti u impri\\a [estita minn residenti ta’ l-Istat Kontraenti l-ie]or; [) il-fra\\i "traffiku internazzjonali" tfisser trasport li jsir b’bastiment jew in[enji ta’ l-ajru m]addma minn impri\\a li jkollha l-post ta’ mani[[ effettiv tag]ha fi Stat Kontraenti, ]lief meta l-bastiment jew l-in[enji ta’ l-ajru ji[u unikament im]addma bejn postijiet fl-Istat Kontraenti l-ie]or;
+*d) e)*
 
-]) il-fra\\i "`ittadin" tfisser:
+il-fra\\i "persuna" tinkludi individwu u kumpannija;
+
+il-fra\\i "kumpannija" tfisser korp mag]qud jew enti li jkunu ttrattati b]ala korp mag]qud g]all-iskopijiet ta’ taxxa;
+
+*f)*
+
+il-fra\\ijiet "impri\\a ta’ Stat Kontraenti" u "impri\\a ta’ l-Istat Kontraenti l-ie]or" ifissru rispettivament impri\\a [estita minn residenti ta’ Stat Kontraenti u impri\\a [estita minn residenti ta’ l-Istat Kontraenti l-ie]or; il-fra\\i "traffiku internazzjonali" tfisser trasport li jsir b’bastiment jew in[enji ta’ l-ajru m]addma minn impri\\a li jkollha l-post ta’ mani[[ effettiv tag]ha fi Stat Kontraenti, ]lief meta l-bastiment jew l-in[enji ta’ l-ajru ji[u unikament im]addma bejn postijiet fl-Istat Kontraenti l-ie]or;
+
+*[)*
+
+*])*
+
+il-fra\\i "`ittadin" tfisser:
 
 aa) fil-ka\\ tar-Repubblika Federali tal-{ermanja, kull {ermani\\ kif imfisser fil-Li[i Ba\\i tar-Repubblika Federali tal-{ermanja u kull persuna legali, so`jetà u asso`jazzjoni li tikseb l-istatus tag]ha b]ala tali mil-li[ijiet fis-se]] fir-Repubblika Federali tal- {ermanja ;
 
 bb) fil-ka\\ ta’ Malta, kull individwu li jkollu `-`ittadinanza ta’ Malta, u kull persuna legali, so`jetà jew asso`jazzjoni li tikseb l-istatus tag]ha b]ala tali mil-li[ijiet li jkunu fis-se]] f’Malta;
 
-i) il-fra\\i "awtorità kompetenti" tfisser:
+*i)*
+
+il-fra\\i "awtorità kompetenti" tfisser:
 
 aa) fil-ka\\ tar-Repubblika Federali tal-{ermanja, il-Ministeru Federali tal-Finanzi jew l-a[enzija li tkun [iet delegata bis-setg]at tieg]u;
 
@@ -183,9 +193,7 @@ f) minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew kull post ie]or ta’ est
 
 ## 4.
 
-Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 5
-
-"stabbiliment permanenti" g]andha titqies li ma tinkludix:
+Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabbiliment permanenti" g]andha titqies li ma tinkludix:
 
 a) l-u\\u ta’ fa`ilitajiet g]all-iskop uniku ta’ ]a\\na jew ta’ wiri ta’ o[[etti jew merkanzija li jkunu proprjetà ta’ l-impri\\a;
 
@@ -251,9 +259,7 @@ Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u ttrattati se
 
 \1. Il-profitti mit-t]addim ta’ bastimenti jew in[enji ta’ l-ajru fi traffiku internazzjonali g]andhom ikunu taxxabbli biss fl-Istat Kontraenti fejn ikun jinsab il-post ta’ mani[[ effettiv ta’ l-impri\\a.
 
-\2. G]all-finijiet ta’ dan l-Artikolu l-fra\\i "profitti mit-t]addim ta’ bastimenti INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 7
-
-jew in[enji ta’ l-ajru fi traffiku internazzjonali" tinkludi profitti minn:
+\2. G]all-finijiet ta’ dan l-Artikolu l-fra\\i "profitti mit-t]addim ta’ bastimenti jew in[enji ta’ l-ajru fi traffiku internazzjonali" tinkludi profitti minn:
 
 a) chartering li jsir b’mod okka\\jonali ta’ bastimenti jew in[enji ta’ l-ajru;
 
@@ -300,8 +306,6 @@ b) 15 fil-mija mill-profitti li minnhom jit]allsu d-dividendi, jekk id-dividendi
 \5. Id-disposizzjonijiet tal-paragrafi 1 u 3 m’g]andhomx japplikaw jekk is-sid benefi`jarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- Istat Kontraenti l-ie]or li tieg]u tkun residenti l-kumpannija li t]allas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jag]mel f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita sitwata hemmhekk, u l-holding li dwarhom id-dividendi jkunu mhallsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita.F’dak il-ka\\ g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
 
 \6. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ie]or, dak l-Istat l-ie]or ma jista’ jimponi ebda taxxa fuq id-dividendi m]allsa mill-kumpannija, ]lief daqskemm dawk id-dividendi jit]allsu lil residenti ta’ dak l-Istat l-ie]or jew daqskemm il-holding li dwaru jit]allsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti jew ma’ ba\\i stabbilita sitwati f’dak Istat l-ie]or, lanqas jissu[[etta l-profitti mhux imqassma tal-kumpannija g]al taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi m]allsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalg]u f’dak l-Istat l-ie]or.
-
-INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 9
 
 **Artikolu 11**
 
@@ -355,9 +359,7 @@ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu g]andhom japplikaw 
 
 **SERVIZZI PERSONALI DIPENDENTI**
 
-\1. Bla ]sara g]ad-disposizzjonijiet ta’ l-Artikli 16, 18 u 19, is-salarji, il-pagi u INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 11
-
-kumpens ie]or b]al dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impieg g]andhom ikunu taxxabbli biss f ’dak l-Istat kemm-il darba l-impieg ma ji[ix eser`itat fl-Istat Kontraenti l-ie]or. Jekk l-impieg ji[i hekk eser`itat, dak il-kumpens li jinkiseb minnu jista’ ji[i intaxxat f’dak Istat l-ie]or.
+\1. Bla ]sara g]ad-disposizzjonijiet ta’ l-Artikli 16, 18 u 19, is-salarji, il-pagi u kumpens ie]or b]al dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impieg g]andhom ikunu taxxabbli biss f ’dak l-Istat kemm-il darba l-impieg ma ji[ix eser`itat fl-Istat Kontraenti l-ie]or. Jekk l-impieg ji[i hekk eser`itat, dak il-kumpens li jinkiseb minnu jista’ ji[i intaxxat f’dak Istat l-ie]or.
 
 \2. Minkejja d-disposizzjonijiet tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Stat Kontraenti dwar impieg eser`itat fl-Istat Kontraenti l-ie]or g]andu jkun taxxabbli biss fl-Istat l-ewwel imsemmi jekk:
 
@@ -415,9 +417,7 @@ individwu jkun residenti.
 
 \2. Minkejja d-disposizzjonijiet ta’ l-Artikolu 18, kull pensjoni mhallsa minn Stat Kontraenti, Land, sottodivi\\joni politika jew awtorità lokali tag]hom jew xi entità legali o]ra skond id-dritt pubbliku ta’ dak l-Istat lil xi individwu g]ar-rigward ta’ servizzi mog]tija lil dak l-Istat, Land, sottodivi\\joni politika jew awtorità lokali tag]hom jew xi entità legali o]ra skond id-dritt pubbliku, g]andhom ikunu taxxabbli biss fl-Istat Kontraenti l-ie]or jekk l-individwu jkun residenti f’dak l-Istat u `ittadin ta’ dak l-Istat.
 
-\3. Id-disposizzjonijiet ta’ l-Artikli 15, 16 u 18 g]andhom japplikaw g]al kull rimunerazzjoni u pensjoni g]ar-rigward ta’ servizzi mog]tijin f’dak li g]andu INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 13
-
-x’jaqsam ma’ negozju li jkun [estit minn Stat Kontraenti, Land, sottodivi\\joni politika jew awtorità lokali tag]hom jew xi entità legali o]ra skond id-dritt pubbliku ta’ dak l-Istat.
+\3. Id-disposizzjonijiet ta’ l-Artikli 15, 16 u 18 g]andhom japplikaw g]al kull rimunerazzjoni u pensjoni g]ar-rigward ta’ servizzi mog]tijin f’dak li g]andu x’jaqsam ma’ negozju li jkun [estit minn Stat Kontraenti, Land, sottodivi\\joni politika jew awtorità lokali tag]hom jew xi entità legali o]ra skond id-dritt pubbliku ta’ dak l-Istat.
 
 \4. Id-disposizzjonijiet tal-paragrafu 1 g]andhom bl-istess mod japplikaw dwar rimunerazzjoni m]allsa, ta]t programm ta’ assistenza g]all-i\\vilupp ta’ Stat Kontraenti, Land, sottodivi\\joni politika jew awtorità lokali tag]hom, minn flejjes esklu\\ivament provduti minn dak l-Istat, Land, sottodivi\\joni politika jew awtorità lokali tag]hom, lil xi spe`jalista jew voluntier misluf lill-Istat Kontraenti l-ie]or bil-kunsens ta’ dak l-Istat l-ie]or.
 
@@ -469,8 +469,6 @@ aa) dividendi mhux imsemmija fis-subparagrafu a) hawn aktar qabel; bb) elementi 
 
 ``) drittijiet ta’ diretturi;
 
-INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 15
-
 dd) elementi ta’ income ta’ artisti u sportivi.
 
 *`)*
@@ -515,9 +513,7 @@ Bla ]sara g]ad-disposizzjonijiet tal-li[i ta’ Malta dwar l-g]oti ta’ kreditu
 
 \4. }lief fejn japplikaw id-disposizzjonijiet tal-paragrafu 1 ta’ l-Artikolu 9, tal-paragrafu 4 ta’ l-Artikolu 11, jew tal-paragrafu 4 ta’ l-Artikolu 12, mg]ax, royalties u ]lasijiet o]ra li jit]allsu minn impri\\a ta’ Stat Kontraenti lil residenti ta’ l-Istat Kontraenti l-ie]or g]andhom, g]all-fini li ji[u stabbilit x’inhuma l-profitti taxxabbli ta’ dik l-impri\\a, ji[u mnaqqsa ta]t l-istess kondizzjonijiet b]allikieku dawn kienu m]allsa lil residenti ta’ l-ewwel imsemmi Stat. Bl-istess mod, kull debitu li impri\\a ta’ Stat Kontraenti jkollha ma’ residenti ta’ l-Istat Kontraenti l-ie]or g]andu, g]all-fini li ji[i stabbilit il-kapital taxxabbli ta’ dik l-impri\\a, jitnaqqas ta]t l-istess kondizzjonijiet b]allikieku dan ikun sar ma’ residenti ta’ l-Istat l-ewwel imsemmi.
 
-\5. Impri\\i ta’ Stat Kontraenti, li l-kapital tag]hom ikun g]alkollox jew f’parti minnu proprjetà jew ta]t il-kontroll, sew dirett sew mhux dirett, minn residenti INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 17
-
-wie]ed jew iktar ta’ l-Istat Kontraenti l-ie]or, ma jkunux su[[etti fl-Istat l-ewwel imsemmi g]al xi tassazzjoni jew ]tie[a konnessa ma’ dan li tkun xort’o]ra jew ta’ iktar pi\\ mit-tassazzjoni u ]ti[iet konnessi li g]alihom ikun jew jistg]u jkunu asso[[ettati l-impri\\i ta’ l-Istat l-ewwel imsemmi.
+\5. Impri\\i ta’ Stat Kontraenti, li l-kapital tag]hom ikun g]alkollox jew f’parti minnu proprjetà jew ta]t il-kontroll, sew dirett sew mhux dirett, minn residenti wie]ed jew iktar ta’ l-Istat Kontraenti l-ie]or, ma jkunux su[[etti fl-Istat l-ewwel imsemmi g]al xi tassazzjoni jew ]tie[a konnessa ma’ dan li tkun xort’o]ra jew ta’ iktar pi\\ mit-tassazzjoni u ]ti[iet konnessi li g]alihom ikun jew jistg]u jkunu asso[[ettati l-impri\\i ta’ l-Istat l-ewwel imsemmi.
 
 **Artikolu 25**
 
@@ -567,9 +563,7 @@ a) xi Stat Kontraenti jkun prevenut milli japplika l-provvedimenti legali domest
 
 b) Ir-Repubblika Federali tal-{ermanja hi prevenuta milli ti[bor taxxi fuq ammonti li g]andhom ji[u inklu\\i fl-elementi ta’ income ta’ residenti tar-Repubblika Federali tal-{ermanja ta]t ir-Raba’ Taqsima tal-Li[i tal- {ermanja fuq ir-Relazzjonijiet Esterni dwar it-Taxxa (Aussenteuergesetz).
 
-\2. Id-disposizzjonijiet ta’ dan il-Ftehim ma g]andhomx japplikaw g]al kumpanniji jew persuni o]ra li jkunu jgawdu trattament fiskali spe`jali bis-sa]]a tal- INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 19
-
-li[ijiet jew il-prattika amministrattiva ta’ xi wie]ed mill-Istati Kontraenti.Lanqas ma g]andhom japplikaw g]al income li jinkiseb minn dawk il-kumpanniji jew persuni o]ra miksub minn residenti ta’ l-Istat Kontraenti l-ie]or, lanqas g]al ishma jew drittijiet o]ra f’dawk il-kumpanniji li jkunu jappartjenu lil resident b]al dak.
+\2. Id-disposizzjonijiet ta’ dan il-Ftehim ma g]andhomx japplikaw g]al kumpanniji jew persuni o]ra li jkunu jgawdu trattament fiskali spe`jali bis-sa]]a tal-li[ijiet jew il-prattika amministrattiva ta’ xi wie]ed mill-Istati Kontraenti.Lanqas ma g]andhom japplikaw g]al income li jinkiseb minn dawk il-kumpanniji jew persuni o]ra miksub minn residenti ta’ l-Istat Kontraenti l-ie]or, lanqas g]al ishma jew drittijiet o]ra f’dawk il-kumpanniji li jkunu jappartjenu lil resident b]al dak.
 
 **Artikolu 28**
 
@@ -627,9 +621,7 @@ a) Meta impri\\a ta’ Stat Kontraenti tbieg] o[[etti jew merkanzija jew ti[[est
 
 b) Fil-ka\\ ta’ kuntratti, partikolarment g]as-survey, provvista, stallazzjoni u kostruzzjoni ta’ tag]mir industrjali, kummer`jali jew xjentifiku jew fondijiet, jew ta’ xog]lijiet pubbli`i, fejn l-impri\\a jkollha stabbiliment permanenti fl-Istat Kontraenti l-ie]or, il-profitti ta’ dak l-istabbiliment permanenti ma g]andhomx ji[u stabbiliti abba\\i ta’ l-ammont totali tal-kuntratt, imma biss abba\\i ta’ dik il-parti mill-kuntratt li effettivament ti[i [estita mill-istabbiliment permanenti fl-Istat Kontraenti fejn dan ikun jinsab. Profitti li jinkisbu mill-provvista ta’ o[[etti g]al dak l-istabbiliment permanenti jew profitti li jkollhom x’jaqsmu ma’ dik il-parti tal-kuntratt li ti[i [estita fl-Istat Kontraenti fejn ikun jinsab l-uffi``ju prin`ipali ta’ l-impri\\a g]andhom ikunu taxxabbli biss f’dak l- Istat.
 
-`) }lasijiet li ji[u ri`evuti b]ala korrispettiv g]al servizzi tekni`i, inklu\\i studji jew surveys ta’ xorta xjentifika, [eolo[ika jew teknika, jew g]al INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 21
-
-kuntratti ta’ in[inerija inklu\\i blueprints li g]andhom x’jaqsmu mag]hom, jew g]al servizzi ta’ konsulenza jew ta’ sorveljanza g]andhom jitqiesu b]ala ]lasijiet li dwarhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew l-Artikolu 14 tal-Ftehim.
+`) }lasijiet li ji[u ri`evuti b]ala korrispettiv g]al servizzi tekni`i, inklu\\i studji jew surveys ta’ xorta xjentifika, [eolo[ika jew teknika, jew g]al kuntratti ta’ in[inerija inklu\\i blueprints li g]andhom x’jaqsmu mag]hom, jew g]al servizzi ta’ konsulenza jew ta’ sorveljanza g]andhom jitqiesu b]ala ]lasijiet li dwarhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew l-Artikolu 14 tal-Ftehim.
 
 \2. B’riferenza g]al Artikolu 10:
 
@@ -675,9 +667,7 @@ d) L-iStat li jkun qed jipprovdi d-data jkun marbut li ji\\gura li d-data li g]a
 
 e) Wara li persuna li jkollha interess tapplika g]aldaqstant, hija g]andha ti[i mg]arrfa bid-data provduti li jkunu jirrigwardawha u kif dawk id-data jkunu ser jintu\\aw. M’g]andu jkun hemm ebda obbligu li ting]ata din l-informazzjoni jekk kollox ma’ kollox jirri\\ulta li l-interess pubbliku f’li tin\\amm din l-informazzjoni ikun bilwisq ikbar mill-interess tal-persuna involuta li tkun ser tir`eviha. F’kull rigward ie]or, id-dritt tal-persuna involuta li ti[i mg]arrfa bid-data e\\istenti dwarha g]andu ji[i regolat bil-li[i domestika tal-iStat Kontraenti li fit-territorju sovran tieg]u ssir l-applikazzjoni g]al dik l-informazzjoni.
 
-f) L-iStat li jkun qed jir`ievi d-data g]andu jassumi kull responsabbiltà li tag]tih il-li[i domestika tieg]u dwar kull persuna li [[arrab danni kontra l-li[i b]ala ri\\ultat ta’ dak l-g]oti ta]t l-iskambju ta’ data li jsir kif stipulat f’dan il-Ftehim. G]ar-rigward tal-persuna li [[arrab id-dannu, l-iStat li jkun qed jir`ievi d-data ma jistaqx iqajjem l-e``ezzjoni li d-danni jkunu [ew ka[unati mill-iStat li jkun qed jipprovdi d-data. g) Jekk il-li[i domestika tal-iStat li jkun qed jipprovdi d-data tkun tipprovdi dwar dispo\\izzjonijiet spe`jali g]at-t]assir tad-data personali INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 23
-
-provduti, dak l-iStat g]andu g]aldaqstant jg]arraf b’dan lill-iStat li jkun qed jir`ievi d-data. Irrispettivament minn li[i b]al dik, id-data personali provduta g]andhom jit]assru [aladarba dawn ma jkunux aktar me]tie[a g]all-fini li jkunu [ew provduti g]aliha.
+f) L-iStat li jkun qed jir`ievi d-data g]andu jassumi kull responsabbiltà li tag]tih il-li[i domestika tieg]u dwar kull persuna li [[arrab danni kontra l-li[i b]ala ri\\ultat ta’ dak l-g]oti ta]t l-iskambju ta’ data li jsir kif stipulat f’dan il-Ftehim. G]ar-rigward tal-persuna li [[arrab id-dannu, l-iStat li jkun qed jir`ievi d-data ma jistaqx iqajjem l-e``ezzjoni li d-danni jkunu [ew ka[unati mill-iStat li jkun qed jipprovdi d-data. g) Jekk il-li[i domestika tal-iStat li jkun qed jipprovdi d-data tkun tipprovdi dwar dispo\\izzjonijiet spe`jali g]at-t]assir tad-data personali provduti, dak l-iStat g]andu g]aldaqstant jg]arraf b’dan lill-iStat li jkun qed jir`ievi d-data. Irrispettivament minn li[i b]al dik, id-data personali provduta g]andhom jit]assru [aladarba dawn ma jkunux aktar me]tie[a g]all-fini li jkunu [ew provduti g]aliha.
 
 h) L-iStati Kontraenti jkunu marbutin li j\\ommu records uffi`jali tad-data personali provduti u ri`evuti.
 
@@ -741,8 +731,6 @@ b) li jissupplixxi informazzjoni li ma tkunx tista’ tinkiseb ta]t il-li[ijiet 
 
 (5) F’ebda ka\\ m’g]andhom id-dispo\\izzjonijiet tal-paragrafu 3 jiftiehmu b]ala li jippermettu lil Stat Kontraenti jirrifjuta li jissupplixxi informazzjoni unikament g]aliex l-informazzjoni tkun qeg]da g]and xi bank, istituzzjoni finanzjarja o]ra, nominee jew persuna li tkun qeg]da ta[ixxi fil-kapa`ità ta’ a[enzija jew fidu`jarja jew g]aliex ikollha x’taqsam mal-interessi ta’ proprjetà li xi persuna jkollha.".
 
-INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 25
-
 **Artikolu II**
 
 Minflok in-Numru 4 tal-Protokoll mal-Ftehim g?]andu jid]ol dan li [ej:
@@ -794,8 +782,6 @@ i) L-iStati li jkunu qeg]din jipprovdu u jir`ievu d-data jkunu marbutin li jie]d
 (2) Dan il-Protokoll g]andu jibda jse]] fid-data tal-iskambju tal-istrumenti tar-ratifika. Fid-data tal-bidu fis-se]], dan il-Protokoll g]andu jkun ise]] fi\\-\\ew[ Stati Kontraenti fuq taxxi mi[burin ukoll qabel id-d]ul fis-se]] tieg]u.
 
 (3) Dan il-Protokoll g]andu jifforma parti integrali mill-Ftehim u g]andu jibqa’ fis-se]] g]al kemm idum ise]] il-Ftehim innifsu.
-
-INCOME MAR-REPUBBLIKA FEDERALI TAL-{ERMANJA [L.S.123.06 27
 
 MAG}MUL f’Malta fis-17 ta’ {unju 2010 f’\\ew[ ori[inali, kull wie]ed fl-ilsien {ermani\\ u dak Ingli\\, i\\-\\ew[ testi awtenti`i ndaqs.
 

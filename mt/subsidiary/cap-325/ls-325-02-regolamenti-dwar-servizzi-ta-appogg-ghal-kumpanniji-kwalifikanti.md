@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Servizzi ta' Appoġġ għal Kumpanniji Kwalifikanti"
-identifier: "S.L. 325.2"
+identifier: "S.L. 325.02"
 eli: "https://legislation.mt/eli/sl/325.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/325.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Servizzi ta' Appoġġ għal Kumpanniji Kwalifikanti (S.L. 325.2)
-
-SERVIZZI TA’ APPO{{ G}AL
-
-KUMPANNIJI KWALIFIKANTI [ L.S.325.02
+# Regolamenti dwar Servizzi ta' Appoġġ għal Kumpanniji Kwalifikanti (S.L. 325.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 325.02**
 

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar il-Ħin tas-Sajf"
-identifier: "S.L. 230.2"
+identifier: "S.L. 230.02"
 eli: "https://legislation.mt/eli/sl/230.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/230.2/20180323/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar il-Ħin tas-Sajf (S.L. 230.2)
+# Ordni dwar il-Ħin tas-Sajf (S.L. 230.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 230.02**
 

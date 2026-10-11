@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2004 għall-Higher Diploma of Legal Procurator – H.Dip. L.P. – taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.604)
 
-*1*
-
-L.P. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S. 327.604 LEĠISLAZZJONI SUSSIDJARJA 327.604
+**LEĠISLAZZJONI SUSSIDJARJA 327.604**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -57,9 +55,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (b) għad-dħul f’Ottubru 2020 jew wara, ikollhom grad fil-livell 6 tal-MQF fi kwalunkwe qasam ta’ studju mogħti mill- Università ta’ Malta jew minn kwalunkwe istituzzjoni ta’ edukazzjoni ogħla oħra rikonoxxuta mis-Senat, u għaddew bi Grad Ċ jew aħjar fil-Livell tal-Matrikola Avvanzata jew l-ekwivalenti fil- Malti,
 
-*2*
-
-[L.S. 327.604 L.P. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI sakemm li jekk il-grad ikun fil-Malti, ikun meħtieġ li l-applikanti jkunu għaddew ukoll bi Grad Ċ jew aħjar fil-Livell tal- Matrikola Avvanzata jew l-ekwivalenti fl-Ingliż.
+sakemm li jekk il-grad ikun fil-Malti, ikun meħtieġ li l-applikanti jkunu għaddew ukoll bi Grad Ċ jew aħjar fil-Livell tal- Matrikola Avvanzata jew l-ekwivalenti fl-Ingliż.
 
 (2) Għad-dħul f’Ottubru 2020 jew wara, l-applikanti ikkunsidrati bħala “Studenti Adulti” (applikati maturi) skont il-paragrafu (ċ) tar-regolament 6 tar-Regolamenti għad-Dħul, minbarra li jkollhom dawk il-kwalifiki jew esperjenza li jissodisfaw lill- Kumitat tad-Dħul tal-Fakultà li huma laħqu l-livell meħtieġ biex isegwu l-Kors bi profitt, għandhom ukoll ikunu għaddew bi Grad Ċ jew aħjar fil-Livell tal-Matrikola Avvanzata jew l-ekwivlaneti fl- Ingliż u fil-Malti. Dawn l-applikanti jkunu meħtieġa jissottomettu mal-applikazzjoni tagħhom, ittra miktuba bl-Ingliż fejn jagħtu l-motivazzjoni tagħhom għaliex qegħdin japplikaw għall-Kors kif ukoll kopja tal-Curriculum Vitae (C.V.) tagħhom.
 

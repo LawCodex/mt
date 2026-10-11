@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Verdala Terraces bħala Żona Speċjali Msemmija (S.L. 246.24)
 
-*1*
-
-MSEMMIJA [L.S. 246.24
-
 **LEĠISLAZZJONI SUSSIDJARJA 246.24**
 
 ORDNI DWAR VERDALA TERRACES BĦALA ŻONA SPEĊJALI MSEMMIJA
@@ -39,7 +35,3 @@ Verdala Terraces, li jikkonsisti fi proprjetà immobbli sitwata fiż-żona delin
 ## 3. Jemenda l-Ewwel Skeda li tinsab mal-Att dwar l- Akkwist ta’ Proprjetà Immobbli minn Persuni Mhux Residenti. Kap. 246.
 
 Verdala Terraces għandu jiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni Mhux Residenti.
-
-*2*
-
-[L.S. 246.24 MSEMMIJA

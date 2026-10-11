@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Formuli għad-Dħul fi Sptar"
-identifier: "S.L. 262.1"
+identifier: "S.L. 262.01"
 eli: "https://legislation.mt/eli/sl/262.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/262.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Formuli għad-Dħul fi Sptar (S.L. 262.1)
+# Regolamenti dwar Formuli għad-Dħul fi Sptar (S.L. 262.01)
 
 LE{ISLAZZJONI SUSSIDJARJA 262.01
 

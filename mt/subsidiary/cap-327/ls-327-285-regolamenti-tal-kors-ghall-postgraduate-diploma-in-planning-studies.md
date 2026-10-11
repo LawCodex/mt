@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Postgraduate Diploma in Planning Studies (S.L. 327.285)
 
-KORS G}ALL-POSTGRADUATE
-
-*1*
-
-DIPLOMA IN PLANNING SUDIES [L.S.327.285
-
 LE{ISLAZZJONI SUSSIDJARJA 327.285
 
 REGOLAMENTI TAL-KORS G}ALL-

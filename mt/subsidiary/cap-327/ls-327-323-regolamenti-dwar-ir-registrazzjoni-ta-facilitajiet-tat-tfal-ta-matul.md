@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Reġistrazzjoni ta' Faċilitajiet tat-Tfal ta' Matul il-Jum bħala stabbiliment Edukattiv (S.L. 327.323)
 
-REĠISTRAZZJONI TA’ FAĊILITAJIET TAT-TFAL TA’ MATUL
-
-*1*
-
-IL-JUM BĦALA STABBILIMENTI EDUKATTIVI [L.S.327.323
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.323**
 
 REGOLAMENTI DWAR IR-REĠISTRAZZJONI TA’

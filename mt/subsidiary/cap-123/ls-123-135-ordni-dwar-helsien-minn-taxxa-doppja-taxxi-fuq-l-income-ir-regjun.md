@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ir-Reġjun Amministrattiv Speċjali ta’ Hong Kong tar-Repubblika tal-Poplu taċ-Ċina) (S.L. 123.135)
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-*1*
-
-KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.135
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.135**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
@@ -54,10 +48,6 @@ B’dan qiegћed jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseћћ fit-18 ta’ Lulju, 2012.
-
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**2 [L.S.123.135 KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)**
 
 ## SKEDA
 
@@ -121,9 +111,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 It-taxxi eżistenti, flimkien mat-taxxi imposti wara l-firma tal-Ftehim, qegħdin hawn iżjed ’il quddiem jissejħu "it-taxxa tar-Reġjun Amministrattiv Speċjali ta’ Hong Kong" jew "it-taxxa ta’ Malta", hekk kif ikun jenħtieġ mir-rabta tal-kliem.
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.135 3 Artikolu 3
+Artikolu 3
 
 Tifsiriet Ġenerali
 
@@ -161,13 +149,7 @@ Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx 
 
 (j) il-frażi "persuna" tinkludi individwu, soċjetà, kumpannija u kull korp ieћor ta’ persuni;
 
-(k) il-frażi "taxxa" tfisser it-taxxa tar-Reġjun Amministrattiv Speċjali ta’ Hong Kong jew it-taxxa ta’ Malta, kif ikun jenħtieġ mir-rabta tal-kliem.
-
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**4 [L.S.123.135 KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)**
-
-\2. Fil-Ftehim, il-frażijiet "it-taxxa tar-Reġjun Amministrattiv Speċjali ta’ Hong Kong" u "it-taxxa ta’ Malta" ma jinkludu ebda piena jew mgħax impost taħt il-liġijiet ta’ xi Parti Kontraenti waħda jew l-oħra dwar taxxi li l-Ftehim ikun japplika għalihom bis-saħħa tal-Artikolu 2.
+(k) il-frażi "taxxa" tfisser it-taxxa tar-Reġjun Amministrattiv Speċjali ta’ Hong Kong jew it-taxxa ta’ Malta, kif ikun jenħtieġ mir-rabta tal-kliem. 2. Fil-Ftehim, il-frażijiet "it-taxxa tar-Reġjun Amministrattiv Speċjali ta’ Hong Kong" u "it-taxxa ta’ Malta" ma jinkludu ebda piena jew mgħax impost taħt il-liġijiet ta’ xi Parti Kontraenti waħda jew l-oħra dwar taxxi li l-Ftehim ikun japplika għalihom bis-saħħa tal-Artikolu 2.
 
 \3. Dwar l-applikazzjoni tal-Ftehim f’kull waqt minn Parti Kontraenti, kull frażi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra, it-tifsira mogћtija lilha li jkollha f’dak il-waqt taћt il-liġi ta’ dik il-Parti gћall-finijiet tat-taxxi li dwarhom ikun japplika l-Ftehim, hekk li kull tifsira taħt il-liġijiet tat-taxxa li jkunu japplikaw ta’ dik il-Parti tkun tipprevali fuq tifsira mogћtija lil dik il-frażi taћt liġijiet oћra ta’ dik il-Parti.
 
@@ -193,11 +175,7 @@ Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx 
 
 (a) huwa gћandu jitqies li jkun residenti biss tal-Parti li fiha jkollu dar permanenti gћad-dispożizzjoni tiegћu; jekk huwa jkollu dar permanenti gћad-dispożizzjoni tiegћu fiż-żewg Partijiet, huwa gћandu jitqies li jkun residenti biss tal-Parti li magħha jkunu l-aktar marbuta r-relazzjonijiet personali u ekonomiċi tiegћu (ċentru ta’ interessi vitali);
 
-(b) jekk il-Parti li fiha huwa jkollu ċ-ċentru ta’ interessi vitali ma tkunx (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.135 5**
-
-tista’ tiġi stabbilita, jew jekk huwa ma jkollux gћad-dispożizzjoni tiegћu dar permanenti f’xi Parti waħda jew l-oħra, huwa gћandu jitqies li jkun residenti biss tal-Parti li fiha huwa jkun soltu jirrisjedi;
+(b) jekk il-Parti li fiha huwa jkollu ċ-ċentru ta’ interessi vitali ma tkunx tista’ tiġi stabbilita, jew jekk huwa ma jkollux gћad-dispożizzjoni tiegћu dar permanenti f’xi Parti waħda jew l-oħra, huwa gћandu jitqies li jkun residenti biss tal-Parti li fiha huwa jkun soltu jirrisjedi;
 
 (ċ) jekk huwa soltu jirrisjedi fiż-żewg Partijiet jew f’ebda waħda minnhom, huwa gћandu jitqies li jkun residenti biss tal-Parti fejn ikollu dritt li joqgħod (fil-każ tar-Reġjun Amministrattiv Speċjali ta’ Hong Kong) jew li jkun nazzjonali tagħha;
 
@@ -237,10 +215,6 @@ tista’ tiġi stabbilita, jew jekk huwa ma jkollux gћad-dispożizzjoni tiegћu
 
 (b) iż-żamma ta’ hażna ta’ oġġetti jew merkanzija li tkun tappartjeni lill-impriża bl-iskop uniku ta’ hżin, wiri jew tqassim;
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**6 [L.S.123.135 KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)**
-
 (ċ) iż-żamma ta’ hażna ta’ oġġetti jew merkanzija li tkun tappartjeni lill-impriża bl-iskop uniku ta’ ipproċessar minn impriża oћra;
 
 (d) iż-żamma ta’ post fiss ta’ negozju bl-iskop uniku ta’ xiri ta’ oġġetti jew merkanzija, jew ta’ ġbir ta’ tagћrif, gћall-impriża;
@@ -271,11 +245,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Parti Kontraenti tkun tikkontrolla
 
 \3. Kull proprjetà jew dritt imsemmija fil-paragrafu 2 għandhom jitqiesu bħala li jkunu sitwati fejn ikunu jinsabu l-art, injam wieqaf, depożiti minerali, barrieri, gћejjun jew riżorsi naturali, kif ikun il-każ, jew fejn jista’ jkun qed isir ix-xogħol fuqhom.
 
-\4. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw gћal income (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.135 7**
-
-li jinkiseb mill-użu dirett, il-kiri, jew l-użu b’kull mod ieћor ta’ proprjetà immobbli.
+\4. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw gћal income li jinkiseb mill-użu dirett, il-kiri, jew l-użu b’kull mod ieћor ta’ proprjetà immobbli.
 
 \5. Id-dispożizzjonijiet tal-paragrafi 1 u 4 gћandhom japplikaw ukoll gћal income minn proprjetà immobbli ta’ impriża.
 
@@ -305,11 +275,7 @@ Meta l-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegћdin jiġu tr
 
 \1. Il-profitti li jinkisbu minn impriża ta’ Parti Kontraenti mit-tћaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali gћandhom jiġu intaxxati biss f’dik il-Parti.
 
-\2. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw ukoll gћal (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**8 [L.S.123.135 KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)**
-
-profitti miksubin mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
+\2. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw ukoll gћal profitti miksubin mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
 
 **Artikolu 9**
 
@@ -335,11 +301,7 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewg impriżi
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Parti Kontraenti, ikun imexxi negozju fil-Parti Kontraenti l-oħra li l-kumpannija li tћallas id-dividendi tkun residenti tagħha permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk u l-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal- Artikolu 7.
 
-\4. Meta kumpannija li tkun residenti ta’ Parti Kontraenti tikseb profitti jew (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.135 9**
-
-income mill-Parti Kontraenti l-oħra, dik il-Parti l-oħra ma tista’ timponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dik il-Parti l-oħra jew sakemm il-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ stabbiliment permanenti li jkun jinsab f’dik il-Parti l-oħra, lanqas ma tista’ tassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dik il-Parti l-oħra.
+\4. Meta kumpannija li tkun residenti ta’ Parti Kontraenti tikseb profitti jew income mill-Parti Kontraenti l-oħra, dik il-Parti l-oħra ma tista’ timponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dik il-Parti l-oħra jew sakemm il-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ stabbiliment permanenti li jkun jinsab f’dik il-Parti l-oħra, lanqas ma tista’ tassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dik il-Parti l-oħra.
 
 **Artikolu 11**
 
@@ -362,10 +324,6 @@ income mill-Parti Kontraenti l-oħra, dik il-Parti l-oħra ma tista’ timponi e
 \2. Madankollu, dawk ir-royalties jistgћu jiġu intaxxati wkoll fil-Parti Kontraenti fejn jinqalgћu u kif hemm fil-liġijiet ta’ dik il-Parti, imma jekk is-sid benefiċjarju tar-royalties ikun residenti tal-Parti Kontraenti l-oħra, it-taxxa hekk imposta m’gћandhiex tkun iżjed minn 3 fil-mija ta’ l-ammont kollu u sћiћ tar-royalties.
 
 \3. Il-frażi "royalties" kif din tintuża f’dan l-Artikolu tfisser ћlasijiet ta’ kull xorta li jsiru b’korrispettiv gћall-użu ta’, jew gћall-jedd tal-użu, ta’ kull dritt tal-awtur ta’ xogћol letterarju, artistiku jew xjentifiku inklużi films ċinematografiċi, jew films jew tapes użati għax-xandir bir-radju jew bit-televiżjoni, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, jew għal informazzjoni dwar konoxxenza industrijali, kummerċjali jew xjentifika.
-
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**10 [L.S.123.135 KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)**
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 m’għandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Parti Kontraenti, ikun qed imexxi negozju fil-Parti Kontraenti l-oħra fejn jinqalgћu r-royalties permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikollhom effettivament x’jaqsmu ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal- Artikolu 7.
 
@@ -391,11 +349,7 @@ income mill-Parti Kontraenti l-oħra, dik il-Parti l-oħra ma tista’ timponi e
 
 **Income minn Impjieg**
 
-\1. Bla ћsara gћad-dispożizzjonijiet tal-Artikoli 15, 17 u 18 is-salarji, pagi u kull kumpens ieћor li jinkisbu minn residenti ta’ Parti Kontraenti dwar xi impjieg (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.135 11**
-
-gћandhom jiġu intaxxati biss f’dik il-Parti sakemm l-impjieg ma jiġix eżerċitat fil- Parti Kontraenti l-oħra. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb mill-impjieg jista’ jiġi intaxxat f’dik il-Parti l-oħra.
+\1. Bla ћsara gћad-dispożizzjonijiet tal-Artikoli 15, 17 u 18 is-salarji, pagi u kull kumpens ieћor li jinkisbu minn residenti ta’ Parti Kontraenti dwar xi impjieg gћandhom jiġu intaxxati biss f’dik il-Parti sakemm l-impjieg ma jiġix eżerċitat fil- Parti Kontraenti l-oħra. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb mill-impjieg jista’ jiġi intaxxat f’dik il-Parti l-oħra.
 
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Parti Kontraenti dwar xi impjieg li jkun eżerċitat fil-Parti Kontraenti l-oħra gћandu jiġi intaxxat biss fil-Parti l-ewwel imsemmija jekk:
 
@@ -431,10 +385,6 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn resident 
 
 (a) skema pubblika li tkun tifforma parti mis-sistema ta’ sigurtà soċjali ta’ Parti Kontraenti; jew
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**12 [L.S.123.135 KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)**
-
 (b) skema li fiha individwi jkunu jistgħu jipparteċipaw biex jiżguraw benefiċċji tal-irtir u li tkun rikonoxxuta għal finijiet ta’ taxxa f’Parti Kontraenti,
 
 jkunu jistgħu jiġu biss intaxxati f’dik il-Parti Kontraenti.
@@ -469,11 +419,7 @@ Kull ħlas li student li jkun jew kien minnufih qabel ma jżur Parti Kontraenti 
 
 \1. Elementi ta’ income ta’ residenti ta’ Parti Kontraenti, jinqalgћu minn fejn jinqalgћu, li ma jkunux ittrattati fl-Artikoli ta’ hawn aktar qabel ta’ dan il-Ftehim gћandhom jiġu intaxxati biss f’dik il-Parti.
 
-\2. Id-dispożizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw gћal income, li (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.135 13**
-
-ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, jekk min jirċievi dak l-income, billi jkun residenti ta’ Parti Kontraenti, ikun imexxi negozju fil-Parti Kontraenti l-oħra permezz ta’ stabbiliment permanenti li jkun jinsab fih u d-dritt jew il-proprjetà li dwarhom jitћallas l-income ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7.
+\2. Id-dispożizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw gћal income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, jekk min jirċievi dak l-income, billi jkun residenti ta’ Parti Kontraenti, ikun imexxi negozju fil-Parti Kontraenti l-oħra permezz ta’ stabbiliment permanenti li jkun jinsab fih u d-dritt jew il-proprjetà li dwarhom jitћallas l-income ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7.
 
 \3. L-alimenti jew kull ħlas ieħor ta’ manteniment li jsir minn residenti ta’ Parti Kontraenti lil residenti tal-Parti Kontraenti l-oħra għandhom, fil-limitu li m’humiex permessi bħala tnaqqis lil min iħallas fil-Parti hawn l-ewwel imsemmija, ikunu jistgħu jiġu intaxxati biss f’dik il-Parti.
 
@@ -495,10 +441,6 @@ Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla 
 
 \1. Persuni li, fil-każ tar-Reġjun Amministrattiv Speċjali ta’ Hong Kong, ikollhom id-dritt li joqogħdu jew li jkunu inkorporati jew xort’oħra kostitwiti f’dak il-post, u, fil-każ ta’ Malta, ikunu nazzjonali jew ċittadini Maltin, m’għandhom jiġu assoġġettati fil-Parti Kontraenti l-oħra gћal ebda taxxa jew ebda ћtieġa li jkunu konnessi magħha, jekk din tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li gћalihom persuni li jkollhom id-dritt li joqogħdu jew li jkunu inkorporati jew xort’oħra kostitwiti f’dik il-Parti l-oħra (meta dik il-Parti l-oħra tkun ir-Reġjun Amministrattiv Speċjali ta’ Hong Kong) jew nazzjonali jew ċittadini ta’ dik il-Parti l-oħra (meta dik il-Parti l-oħra tkun Malta) fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgћu jkunu assoġġettati. Din id-dispożizzjonijiet gћandha, minkejja d-dispożizzjonijiet tal-Artikolu 1, tkun tapplika wkoll gћal persuni li ma jkunux residenti ta’ xi waħda jew taż-żewg Partijiet Kontraenti.
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**14 [L.S.123.135 KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)**
-
 \2. Persuni apolidi li jkunu residenti ta’ Parti Kontraenti m’għandhomx ikunu assoġġettati f’xi Parti Kontraenti waħda jew l-oħra għal ebda taxxa jew ħtieġa konnessa magħha, li tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li gћalihom persuni li jkollhom id-dritt li joqogħdu fil-Parti (meta dik il-Parti l-oħra tkun ir-Reġjun Amministrattiv Speċjali ta’ Hong Kong) jew nazzjonali jew ċittadini tal-Parti (meta dik il-Parti tkun Malta) fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgћu jiġu assoġġettati.
 
 \3. It-taxxa fuq stabbiliment permanenti li impriża ta’ Parti Kontraenti jkollha fil-Parti Kontraenti l-oħra m’għandhiex tinġabar b’mod inqas favorevoli f’dik il- Parti l-oħra mit-taxxa miġbura fuq impriżi ta’ dik il-Parti l-oħra li tkun qegħda twettaq l-istess ativitajiet. Din id-dispożizzjonijiet m’għandhiex tiftiehem bћala waћda li tobbliga lil Parti Kontraenti li tagħti lil residenti tal-Parti Kontraenti l-oħra xi allowances personali, ħelsien u tnaqqis gћall-gћanijiet ta’ taxxa minћabba fl-istatus ċivili jew fir-responsabbiltajiet familjari li din tagħti lir-residenti tagħha.
@@ -517,11 +459,7 @@ Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla 
 
 \2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha li hi waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Parti Kontraenti l-oħra, bil-gћan li tiġi evitata taxxa li ma tkunx kif hawn fil-Ftehim. Kull ftehim li jintlaћaq gћandu jiġi implimentat minkejja kull skadenza ta’ terminu fil-liġi domestika tal-Partijiet Kontraenti.
 
-\3. L-awtoritajiet kompetenti tal-Partijiet Kontraenti gћandhom jagħmlu mill-aħjar biex jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.135 15**
-
-jistgħu joriġinaw dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgћu wkoll jikkonsultaw flimkien dwar l-eliminazzjoni ta’ taxxa doppja f’dawk il-każijiet li ma jiġi provdut xejn dwarhom fil-Ftehim.
+\3. L-awtoritajiet kompetenti tal-Partijiet Kontraenti gћandhom jagħmlu mill-aħjar biex jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jistgħu joriġinaw dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgћu wkoll jikkonsultaw flimkien dwar l-eliminazzjoni ta’ taxxa doppja f’dawk il-każijiet li ma jiġi provdut xejn dwarhom fil-Ftehim.
 
 \4. L-awtoritajiet kompetenti tal-Partijiet Kontraenti jistgћu jikkomunikaw direttament ma’ xulxin, ukoll permezz ta’ kummissjoni konġunta li tkun magħmula minnhom infushom jew mir-rappreżentanti tagħhom, bl-iskop li jilħqu ftehim fis-sens tal-paragrafi ta’ qabel dan.
 
@@ -543,11 +481,7 @@ jistgħu joriġinaw dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn
 
 \4. Jekk tintalab xi informazzjoni minn Parti Kontraenti kif hawn f’dan l- Artikolu, il-Parti Kontraenti l-oħra għandha tuża l-mezzi li jkollha għall-ġbir tal-informazzjoni biex tikseb l-informazzjoni mitluba, ukoll jekk dik il-Parti l-oħra tista’ ma tkunx teħtieġ dik l-informazzjoni għall-finijiet li jkollha ta’ ġbir ta’ taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel hija soġġett għal-limitazzjonijiet tal-paragrafu 3 imma f’ebda każ m’għandhom dawk il-limitazzjonijiet jiftiehmu bħala li jħallu lil xi Parti Kontraenti li tonqos milli tagħti xi informazzjoni unikament għaliex ma jkollha ebda interess domestiku f’dik l-informazzjoni.
 
-\5. F’ebda każ m’għandhom id-disposizzjonijiet tal-paragrafu 3 jiftiehmu bћala li jħallu lil Parti Kontraenti tirrifjuta milli tipprovdi informazzjoni unikament għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, xi istituzzjoni finanzjarja oħra, nominee jew persuna li tkun qegħda taġixxi f’xi aġenzija jew għax (IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**16 [L.S.123.135 KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)**
-
-tkun fiduċjarja jew għaliex ikollha x’taqsam ma’ xi interessi dwar il-proprjetà ta’ xi persuna.
+\5. F’ebda każ m’għandhom id-disposizzjonijiet tal-paragrafu 3 jiftiehmu bћala li jħallu lil Parti Kontraenti tirrifjuta milli tipprovdi informazzjoni unikament għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, xi istituzzjoni finanzjarja oħra, nominee jew persuna li tkun qegħda taġixxi f’xi aġenzija jew għax tkun fiduċjarja jew għaliex ikollha x’taqsam ma’ xi interessi dwar il-proprjetà ta’ xi persuna.
 
 **Artikolu 25**
 
@@ -589,10 +523,6 @@ B’XHIEDA TA’ DAN, is-sottoskritti, li huma awtorizzati kif imiss biex jagћm
 
 MAGĦMUL f’żewġ oriġinali f’Hong Kong illum it-8 ta’ Novembru, 2011, bl-ilsien Ingliż.
 
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG
-
-**KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA) [L.S.123.135 17**
-
 Għall-Gvern ta’ Malta Għall-Gvern tar-Reġjun Amministrattiv Speċjali ta’ Hong Kong tar-Repubblika tal-Poplu taċ-Ċina
 
 JOSEPH CASSAR K. C. CHAN
@@ -628,8 +558,6 @@ Jiftiehem li:
 (ċ) fil-każ ta’ Malta. l-awtorità kompetenti tista’ tiżvela l-informazzjoni lill-Uffiċċju Nazzjonali tal-Verifika.
 
 B’XHIEDA TA’ DAN, is-sottoskritti, li huma awtorizzati kif imiss biex jagћmlu dan, iffirmaw dan il-Protokoll.
-
-(IR-REĠJUN AMMINISTRATTIV SPEĊJALI TA’ HONG 18 [L.S.123.135 KONG TAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA)
 
 MAGĦMUL f’żewġ oriġinali f’Hong Kong illum it-8 ta’ Novembru, 2011, bl-ilsien Ingliż.
 

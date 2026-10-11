@@ -1,6 +1,6 @@
 ---
 title: "Regoli ta Proċedura"
-identifier: "S.L. 220.4"
+identifier: "S.L. 220.04"
 eli: "https://legislation.mt/eli/sl/220.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/220.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli ta Proċedura (S.L. 220.4)
+# Regoli ta Proċedura (S.L. 220.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 220.04**
 

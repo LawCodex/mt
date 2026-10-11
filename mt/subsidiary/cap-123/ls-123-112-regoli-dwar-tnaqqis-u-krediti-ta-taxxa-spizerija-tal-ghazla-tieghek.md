@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Tnaqqis u Krediti ta’ Taxxa (Spiżerija tal-Għażla Tiegħek) (S.L. 123.112)
 
-*1*
-
-(SPIŻERIJA TAL-GĦAŻLA TIEGĦEK) [L.S.123.112
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.112**
 
 REGOLI DWAR TNAQQIS U KREDITI TA’ TAXXA
@@ -66,10 +62,6 @@ Dawn ir-regoli japplikaw għal kull persuna li:
 ## 4. Tnaqqis. Emendata: A.L. 113 tal-2012; A.L. 283 tal-2016.
 
 (1) Meta persuna li tikkwalifika tagħmel xi spejjeż skont id-dispożizzjonijiet tar-regola 3, hija għandha tingħata tnaqqis ekwivalenti għal tliet mija fil-mija (300%) tal-ispejjeż magħmulin dwar kull spiżerija li jingħataw fir-rigward tal-income taxxabbli ta’ dik il-persuna għas-sena ta’ stima relattiva:
-
-*2*
-
-[L.S.123.112 (SPIŻERIJA TAL-GĦAŻLA TIEGĦEK)
 
 Iżda meta n-nefqa msemmija f’din ir-regola tkun saret qabel is-sena li taħbat qabel is-sena ta’ stima 2010, dak it-tnaqqis għandu jitgawda fis-sena ta’ stima 2010.
 

@@ -15,16 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Laws (Honours) - LL.B. (Hons), għall-Grad ta’ Bachelor of Laws - LL.B. - u għad-Diploma of Legal Procurator - Dip. L.P. – taħt il-patroċinju tal-Fakultà tal-Liġi - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.260)
 
-GRAD TA’ BACHELOR OF LAWS (HONOURS) - LL.B. (HONS),
-
-GRAD TA’ BACHELOR OF LAWS - LL.B. - U
-
-DIPLOMA OF LEGAL PROCURATOR - DIP. L.P. -
-
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.260 LEĠISLAZZJONI SUSSIDJARJA 327.260
-
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF LAWS (HONOURS) - LL.B. (HONS), GĦALL-GRAD
 
 **TA’ BACHELOR OF LAWS - LL.B. - U GĦAD-**

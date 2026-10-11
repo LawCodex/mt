@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kors għall-Grad ta' Doctor of Laws - LL.D. (S.L. 327.79)
 
-KORS G}ALL-GRAD TA’
-
-*1*
-
-DOCTOR OF LAWS - LL.D. [L.S.327.79
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.79**
 
 **REGOLAMENTI DWAR IL-KORS G}ALL-GRAD**

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Ħażniet ta' Mediċini"
-identifier: "S.L. 234.5"
+identifier: "S.L. 234.05"
 eli: "https://legislation.mt/eli/sl/234.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/234.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Ħażniet ta' Mediċini (S.L. 234.5)
+# Regolamenti dwar Ħażniet ta' Mediċini (S.L. 234.05)
 
 LE{ISLAZZJONI SUSSIDJARJA 234.05
 

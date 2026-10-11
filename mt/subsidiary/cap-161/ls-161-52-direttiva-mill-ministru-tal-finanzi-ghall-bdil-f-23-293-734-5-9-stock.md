@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Bdil f'€23,293,734 5.9% Stock tal-Gvern ta' Malta (Bdil) 2007 (It-Tieni Ħruġ) minn €23,293,734 6% Stock tal-Gvern ta Malta 1999 (L-Ewwel Ħruġ) (S.L. 161.52)
 
-BDIL F’€23,293,734 5.9% STOCK TAL-GVERN TA’ MALTA
-
-(BDIL) 2007 (IT-TIENI }RU{) MINN €23,293,734 6% STOCK
-
-*1*
-
-TAL-GVERN TA’ MALTA 1999 (L-EWWEL }RU{) [S.L.161.52
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.52**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

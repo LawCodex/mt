@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Drittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità"
-identifier: "S.L. 258.3"
+identifier: "S.L. 258.03"
 eli: "https://legislation.mt/eli/sl/258.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,13 +15,7 @@ version: "https://legislation.mt/eli/sl/258.3/20250801/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Drittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità (S.L. 258.3)
-
-DRITTIJIET LI GĦANDHOM JITĦALLSU
-
-*1*
-
-GĦAD-DOKUMENTI TAL-IDENTITÀ [L.S.258.03
+# Regolamenti dwar id-Drittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità (S.L. 258.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 258.03**
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Mutur għar-Riskji ta' Terzi Persuni (Vetturi Eżentati mill-Assigurazzjoni)"
-identifier: "S.L. 104.8"
+identifier: "S.L. 104.08"
 eli: "https://legislation.mt/eli/sl/104.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/104.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Mutur għar-Riskji ta' Terzi Persuni (Vetturi Eżentati mill-Assigurazzjoni) (S.L. 104.8)
-
-*1*
-
-TERZI PERSUNI (VETTURI E|ENTATI MILL-ASSIGURAZZJONI) [L.S.104.08
+# Regolamenti dwar l-Assigurazzjoni ta' Vetturi bil-Mutur għar-Riskji ta' Terzi Persuni (Vetturi Eżentati mill-Assigurazzjoni) (S.L. 104.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 104.08**
 

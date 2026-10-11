@@ -16,19 +16,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Science in Strategic Management and Marketing – M.Sc. – taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.573)
 
-GĦAR-RIKONOXXIMENTI UNIVERSITARJI TA’ WARA
-
-L-EWWEL GRAD GĦALL-GRAD TA’ MASTER OF
-
-SCIENCE IN STRATEGIC MANAGEMENT AND
-
-MARKETING - M.SC. – TAĦT IL-PATROĊINJU
-
-TAL-FAKULTÀ TAL-EKONOMIJA, IL-MANAGEMENT U
-
-*1*
-
-L-ACCOUNTANCY [L.S. 327.573 LEĠISLAZZJONI SUSSIDJARJA 327.573
+**LEĠISLAZZJONI SUSSIDJARJA 327.573**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -76,17 +64,7 @@ Il-Kors ikun miftuħ għall-applikanti li għandhom:
 
 (a) il-grad ta’ Bachelor of Commerce minn din l-Università miksub mill-inqas b’Kategorija II b’waħda miż-żewġ oqsma ta’ studju prinċipali tkun fil-management jew fil-marketing, u b’marka medja minima ta’ 65% miksuba fil-qasam ta’ studju prinċipali tal-management jew fil-marketing; jew
 
-(b) il-grad ta’ Bachelor of Commerce (Honours) minn din GĦAR-RIKONOXXIMENTI UNIVERSITARJI TA’ WARA L-EWWEL GRAD GĦALL-GRAD TA’ MASTER OF
-
-SCIENCE IN STRATEGIC MANAGEMENT AND
-
-MARKETING - M.SC. – TAĦT IL-PATROĊINJU
-
-*2*
-
-TAL-FAKULTÀ TAL-EKONOMIJA, IL-MANAGEMENT U [L.S. 327.573 L-ACCOUNTANCY
-
-l-Università miksub mill-inqas fit-Tieni Klassi bl- Unuri fil-management jew fil-marketing,
+(b) il-grad ta’ Bachelor of Commerce (Honours) minn din l-Università miksub mill-inqas fit-Tieni Klassi bl- Unuri fil-management jew fil-marketing,
 
 sakemm li l-Bord jista’ jikkunsidra wkoll applikanti li għandhom grad miksub fit-Tielet Klassi bl-Unuri jekk jissottomettu portfolio bbażat fuq tliet snin esperjenza fil-qasam tal-management jew tal-marketing; jew
 
@@ -124,21 +102,9 @@ Għall-għan tal-għażla, l-applikanti li l-kwalifiki tagħhom, kif stipulat fl
 
 Il-Kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time li jinkludi l-perijodu tas-sajf.
 
-GĦAR-RIKONOXXIMENTI UNIVERSITARJI TA’ WARA
+## 9. Il-Programm ta’ Studju
 
-L-EWWEL GRAD GĦALL-GRAD TA’ MASTER OF
-
-SCIENCE IN STRATEGIC MANAGEMENT AND
-
-MARKETING - M.SC. – TAĦT IL-PATROĊINJU
-
-TAL-FAKULTÀ TAL-EKONOMIJA, IL-MANAGEMENT U
-
-*3*
-
-L-ACCOUNTANCY [L.S. 327.573 9. (1) Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu ECTS, li minnhom 60 krettu ECTS huma assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS huma assenjati għat-taqsima studju tad-dissertazzjoni.
-
-*Il-Programm ta’ Studju*
+(1) Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu ECTS, li minnhom 60 krettu ECTS huma assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS huma assenjati għat-taqsima studju tad-dissertazzjoni.
 
 (2) L-istudenti li jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju mgħallma u ma jkomplux bil-Kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, ikunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
@@ -166,17 +132,7 @@ L-ACCOUNTANCY [L.S. 327.573 9. (1) Il-programm ta’ studju għandu jikkonsisti 
 
 (1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
 
-(2) Is-superviżuri għandhom jibagħtu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjonijiet li jew (a) jiġi estiż il-perijodu ta’ studju biex GĦAR-RIKONOXXIMENTI UNIVERSITARJI TA’ WARA L-EWWEL GRAD GĦALL-GRAD TA’ MASTER OF
-
-SCIENCE IN STRATEGIC MANAGEMENT AND
-
-MARKETING - M.SC. – TAĦT IL-PATROĊINJU
-
-*4*
-
-TAL-FAKULTÀ TAL-EKONOMIJA, IL-MANAGEMENT U [L.S. 327.573 L-ACCOUNTANCY
-
-l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
+(2) Is-superviżuri għandhom jibagħtu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjonijiet li jew (a) jiġi estiż il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar-Regolamenti Prinċipali; u
 

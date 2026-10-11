@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Għoti, Tħassir u Tiġdid ta' Liċenzi għall-Bejgħ ta' Likuri Mhux Spiritużi (S.L. 10.13)
 
-BEJG} TA’ LIKURI MHUX SPIRITU|I [ L.S.10.13
-
 **LE{ISLAZZJONI SUSSIDJARJA 10.13**
 
 **REGOLAMENTI DWAR L-G}OTI, TI{DID U**
@@ -129,7 +127,7 @@ Il-]wienet bil-li`enza skond dawn ir-Regolamenti ma jistg]ux jift]u qabel l-4 ta
 
 *Sostitwit: N.G. 829 ta’ l- 1949.*
 
-Il-Kummissarju tal-Pulizija jista’ jag]ti li`enzi g]all-ftu] ta’ ]wienet, skond dawn ir-Regolamenti, qabel l-4 ta’ filg]odu u, jew, alternattivament g]all-eg]luq ta’ dawk il-]wienet wara l-11 ta’ bil-lejl jekk, fil-fehma tieg]u, dan ikun me]tie[ g]all-konvenjenza BEJG} TA’ LIKURI MHUX SPIRITU|I [ L.S.10.13 ta’ klassijiet spe`jali tal-pubbliku li g]andhom snajja jew xog]ol partikolari, jew g]al xi okka\\joni jew okka\\jonijiet spe`jali, jew g]al kull ra[uni xierqa.
+Il-Kummissarju tal-Pulizija jista’ jag]ti li`enzi g]all-ftu] ta’ ]wienet, skond dawn ir-Regolamenti, qabel l-4 ta’ filg]odu u, jew, alternattivament g]all-eg]luq ta’ dawk il-]wienet wara l-11 ta’ bil-lejl jekk, fil-fehma tieg]u, dan ikun me]tie[ g]all-konvenjenza ta’ klassijiet spe`jali tal-pubbliku li g]andhom snajja jew xog]ol partikolari, jew g]al xi okka\\joni jew okka\\jonijiet spe`jali, jew g]al kull ra[uni xierqa.
 
 \*Im]assra bl-Att XL ta’ l-1972 (Kap. 231).
 

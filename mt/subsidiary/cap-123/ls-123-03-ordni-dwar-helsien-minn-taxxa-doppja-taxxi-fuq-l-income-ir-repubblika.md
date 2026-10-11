@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ir-Repubblika l-Kbira Għarbija tal-Libja tal-Poplu Soċjalista"
-identifier: "S.L. 123.3"
+identifier: "S.L. 123.03"
 eli: "https://legislation.mt/eli/sl/123.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/123.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ir-Repubblika l-Kbira Għarbija tal-Libja tal-Poplu Soċjalista (S.L. 123.3)
-
-(IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-*1*
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03
+# Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ir-Repubblika l-Kbira Għarbija tal-Libja tal-Poplu Soċjalista (S.L. 123.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 123.03**
 
@@ -48,10 +42,6 @@ B’dan qieg]ed ji[i dikjarat -
 (b) illi huwa spedjenti li dawk l-arran[amenti g]andu jkollhom effett;
 
 (`) illi l-Ftehim beda jse]] fl-20 ta’ Mejju 2010.
-
-(IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-2 [L.S.123.03 TAL-POPLU SO¬JALISTA)
 
 ## SKEDA — FTEHIM BEJN — MALTA U
 
@@ -109,9 +99,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 (a) Il-fra\\ijiet "Stat Kontraenti" u "l-Istat Kontraenti l-ie]or" ifissru l-Libja jew Malta;
 
-(b) Il-fra\\i "Libja" tfisser ir-Repubblika l-Kbira G]arbija tal-Libja tal- Poplu So`jalista; meta ti[i u\\ata f’sens [eografiku, tfisser it-territorju tar-Repubblika l-Kbira G]arbija tal-Libja tal-Poplu So`jalista, inklu\\ il- (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03 3 ba]ar territorjali u kull area o]ra fil-ba]ar u fl-ajru li dwarhom ir- Repubblika l-Kbira G]arbija tal-Libja tal-Poplu So`jalista, skond id-dritt internazzjonali, te\\er`ita d-drittijiet sovrani jew il-[urisdizzjoni tag]ha;
+(b) Il-fra\\i "Libja" tfisser ir-Repubblika l-Kbira G]arbija tal-Libja tal- Poplu So`jalista; meta ti[i u\\ata f’sens [eografiku, tfisser it-territorju tar-Repubblika l-Kbira G]arbija tal-Libja tal-Poplu So`jalista, inklu\\ il-ba]ar territorjali u kull area o]ra fil-ba]ar u fl-ajru li dwarhom ir- Repubblika l-Kbira G]arbija tal-Libja tal-Poplu So`jalista, skond id-dritt internazzjonali, te\\er`ita d-drittijiet sovrani jew il-[urisdizzjoni tag]ha;
 
 (e) Il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u meta ti[i u\\ata f’sens [eografiku tfisser il-g\\ira ta’ Malta, il-g\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti li tinsab adja`enti mal-ib]ra territorjali, li fihom ir- Repubblika ta’ Malta te\\er`ita drittijiet sovrani, [urisdizzjoni jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tag]ha inklu\\a l-le[islazzjoni tag]ha g]ar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
 
@@ -140,10 +128,6 @@ TAL-POPLU SO¬JALISTA) [L.S.123.03 3 ba]ar territorjali u kull area o]ra fil-ba]
 **Domi`ilju g]al Skop ta’ Taxxa**
 
 Ming]ajr pre[udizzju g]al kull dispo\\izzjoni o]ra f’dan il-Ftehim, id-domi`ilju g]al skop ta’ income hu l-Istat Kontraenti fejn jori[ina dak l-income.
-
-(IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-4 [L.S.123.03 TAL-POPLU SO¬JALISTA)
 
 **Artikolu 5**
 
@@ -183,9 +167,7 @@ Ming]ajr pre[udizzju g]al kull dispo\\izzjoni o]ra f’dan il-Ftehim, id-domi`il
 
 (f) Minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew kull post ie]or ta’ estrazzjoni ta’ ri\\orsi naturali;
 
-(g) Sit fejn ikun qed jittella’ bini, kostruzzjoni, pro[ett ta’ assembla[[ jew installazzjoni jew attivitajiet supervi\\orji li jkollhom x’jaqsmu ma’ dan, (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03 5 i\\da biss jekk dak is-sit, pro[ett jew attivitajiet idumu g]al i\\jed minn tliet xhur.
+(g) Sit fejn ikun qed jittella’ bini, kostruzzjoni, pro[ett ta’ assembla[[ jew installazzjoni jew attivitajiet supervi\\orji li jkollhom x’jaqsmu ma’ dan, i\\da biss jekk dak is-sit, pro[ett jew attivitajiet idumu g]al i\\jed minn tliet xhur.
 
 \3. Minkejja l-provvedimenti ta’ qabel ta’ dan l-artikolu, il-fra\\i "stabbiliment permanenti" g]andha titqies li ma tinkludix:
 
@@ -223,10 +205,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inklu\\ income mill-agrikoltura jew mill-]idma fil-boskijiet) li tkun tinsab fl-Istat Kontraenti l-ie]or jista’ ji[i intaxxat f’dak l-Istat l-ie]or.
 
-(IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-6 [L.S.123.03 TAL-POPLU SO¬JALISTA)
-
 \2. Il-fra\\i "proprjetà immobbli" g]andu jkollha t-tifsira li g]andha ta]t il-li[i ta’ l-Istat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-fra\\i g]andha f’kull ka\\ tinkludi proprjetà a``essorja g]al proprjetà immobbli, bhejjem f’razzett u tag]mir li jintu\\a fl-agrikoltura u fil-]idma fil-boskijiet, drittijiet li g]alihom japplikaw il-provvedimenti tal-li[i [enerali dwar il-proprjetà ta’ l-art, l-u\\ufrutt tal-proprjetà immobbli u drittijiet dwar ]lasijiet varjabbli jew fissi b]ala korrispettiv g]al ]idma fi, jew id-dritt li jin]admu, depo\\iti minerali, g]ejjun u ri\\orsi o]ra naturali; bastimenti u in[enji tal-ba]ar u ta’ l-ajru ma g]andhomx jitqiesu b]ala proprjetà immobbli.
 
 \3. Il-provvedimenti tal-paragrafu 1 g]andhom ikunu japplikaw ukoll g]al income li jinkiseb mill-u\\u dirett, kiri jew u\\u b’kull mod ie]or ta’ proprjetà immobbli.
@@ -249,9 +227,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \3. Sabiex ji[u stabbiliti l-profitti ta’ stabbiliment permanenti, g]andhom ikunu permessi b]ala tnaqqis dawk l-ispejje\\ li jsiru g]all-g]anijiet tan-negozju ta’ l-istabbiliment permanenti, inklu\\i l-ispejje\\ e\\ekuttivi u amministrattivi [enerali li jkunu saru, sew fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’o]ra sakemm kull tnaqqis b]al dak ma g]andux ikun i\\jed mit-tnaqqis li kieku kien ikun permess skond il-li[i domestika tal-Istat Kontraenti fejn ikun jinsab stabbiliment permanenti.
 
-\4. Sakemm tkun il-konswetudni fi Stat Kontraenti li ji[u stabbiliti l-profitti li g]andhom ji[u attribwiti lil stabbiliment permanenti abba\\i ta’ tqassim tal-profitti totali ta’ l-impri\\a lill-partijiet diversi tag]ha, ebda ]a[a fil-paragrafu 2 ma g]andha (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03 7 tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li g]andhom ji[u intaxxati b’dak it-tqassim skond ma tista’ tkun il-konswetudini; il-metodu ta’ tqassim li ji[i adottat g]andu, madankollu, isir b’tali mod li r-ri\\ultat ikun skond il-prin`ipji li jinsabu f’dan l-artikolu.
+\4. Sakemm tkun il-konswetudni fi Stat Kontraenti li ji[u stabbiliti l-profitti li g]andhom ji[u attribwiti lil stabbiliment permanenti abba\\i ta’ tqassim tal-profitti totali ta’ l-impri\\a lill-partijiet diversi tag]ha, ebda ]a[a fil-paragrafu 2 ma g]andha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li g]andhom ji[u intaxxati b’dak it-tqassim skond ma tista’ tkun il-konswetudini; il-metodu ta’ tqassim li ji[i adottat g]andu, madankollu, isir b’tali mod li r-ri\\ultat ikun skond il-prin`ipji li jinsabu f’dan l-artikolu.
 
 \5. Jekk l-informazzjoni li tkun disponibbli g]all-awtorità kompetenti ta’ Stat Kontraenti ma tkunx bi\\\\ejjed sabiex ji[u stabbiliti l-profitti li g]andhom ji[u attribwiti lill-istabbiliment permanenti, ebda ]a[a f’dan l-Artikolu ma g]andha taffettwa l-applikazzjoni ta’ xi li[i jew regolament ta’ dak l-Istat Kontraenti li jkollhom x’jaqsmu ma kif ti[i determinata r-responsabbiltà g]at-taxxa ta’ dak l-istabbiliment permanenti billi ssir stima tal-profitti li g]andhom ji[u intaxxati ta’ dak l-istabbiliment permanenti mill-awtorità kompetenti ta’ dak l-Istat Kontraenti, sakemm dik il-li[i jew dawk ir-regolamenti ji[u applikati, fil-qjies ta’ l-informazzjoni disponibbli lill-awtorità kompetenti, konsistentement mal-prin`ipji ta’ dan l-Artikolu.
 
@@ -283,10 +259,6 @@ Meta dak il-kiri jew u\\u jkun supplimentari jew in`identali g]at-t]addim ta’ 
 
 \4. Il-provvedimenti tal-paragrafu 1 g]andhom ikunu japplikaw ukoll g]al profitti miksubin mill-parte`ipazzjoni f’pool, negozju bi s]ab jew a[enzija b’operat internazzjonali.
 
-(IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-8 [L.S.123.03 TAL-POPLU SO¬JALISTA)
-
 **Artikolu 10**
 
 **Impri\\i Asso`jati**
@@ -315,9 +287,7 @@ Meta dak il-kiri jew u\\u jkun supplimentari jew in`identali g]at-t]addim ta’ 
 
 (ii) fil-ka\\ijiet l-o]ra kollha, 15 fil-mija;
 
-(IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03 9 (b) meta d-dividendi jit]allsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Libja li jkun is-sid benefi`jarju tag]hom, it-taxxa ta’ Malta fuq l-ammont totali tad-dividendi ma g]andux ikun i\\jed minn dak li jit]allas fuq il-profitti li minnhom jit]allsu d-dividendi.
+(b) meta d-dividendi jit]allsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Libja li jkun is-sid benefi`jarju tag]hom, it-taxxa ta’ Malta fuq l-ammont totali tad-dividendi ma g]andux ikun i\\jed minn dak li jit]allas fuq il-profitti li minnhom jit]allsu d-dividendi.
 
 L-awtoritajiet kompetenti tal-Istati Kontraenti g]andhom bi ftehim reeiproku jaqblu fuq il-mod ta’ kif g]andhom ji[u applikati dawn il-limitazzjonijiet. Dan il-paragrafu ma g]andux jolqot it-taxxa li tin[abar mill-kumpannija dwar dawk il-profitti li d-dividendi jit]allsu minnhom.
 
@@ -337,11 +307,7 @@ L-awtoritajiet kompetenti tal-Istati Kontraenti g]andhom bi ftehim reeiproku jaq
 
 \3. Minkejja l-provvedimenti tal-paragrafu 2, l-img]ax ikun e\\enti mit-taxxa fl- Istat Kontraenti fejn dan jinqala’ jekk l-img]ax jit]allas lil u jkollu b]ala sid benefi`jarju lill-Istat Kontraenti l-ie]or jew lil awtorità lokali tieg]u, il-Bank ~entrali jew xi istituzzjoni finanzjarja li tkun g]alkollox proprjetà ta’ dak l-Istat Kontraenti l-ie]or, sottodivi\\joni politika jew awtorità lokali.
 
-\4. Il-fra\\i ‘mg]ax’ kif tintu\\a f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparte`ipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-10 [L.S.123.03 TAL-POPLU SO¬JALISTA)
-
-obbligazzjonijiet, inklu\\i premiums u premjijiet relatati ma dawk it-titoli, bonds jew obbligazzjonijiet. Il-]lasijiet ta’ penali g]al ]las tardiv ma jitqiesux b]ala mg]ax g]all-finijiet ta’ dan l-artikolu.
+\4. Il-fra\\i ‘mg]ax’ kif tintu\\a f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparte`ipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew obbligazzjonijiet, inklu\\i premiums u premjijiet relatati ma dawk it-titoli, bonds jew obbligazzjonijiet. Il-]lasijiet ta’ penali g]al ]las tardiv ma jitqiesux b]ala mg]ax g]all-finijiet ta’ dan l-artikolu.
 
 \5. Il-provvedimenti tal-paragrafu 1 ma g]andhomx ikunu japplikaw jekk is-sid benefi`jarju ta’ l-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita li tkun tinsab fih u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\, g]andhom japplikaw il-provvedimenti ta’ l-artikolu 8 jew ta’ l-artikolu 15, skond il-ka\\.
 
@@ -361,9 +327,7 @@ Jitqies li jinqala’ mg]ax fi Stat Kontraenti meta min i]allas ikun residenti t
 
 \3. Il-fra\\i ‘royalties’ skond ma tintu\\a f’dan l-artikolu tfisser ]lasijiet ta’ kull xorta li ji[u ri`evuti b’korrispettiv g]all-u\\u ta’, jew g]all-jedd ta’ l-u\\u, ta’ kull dritt ta’ l-awtur ta’ xog]ol letterarju, artistiku jew xjentifiku inklu\\i films `inematografi`i, jew films jew tapes u\\ati g]ax-xandir bir-radju jew bit-televi\\joni, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew pro`ess sigrieti, jew g]all-u\\u ta’, jew id-dritt li jintu\\a, tag]mir industrijali, kummer`jali jew xjentifiku jew g]al informazzjoni dwar esperjenza industrijali, kummer`jali jew xjentifika.
 
-\4. Il-provvedimenti tal-paragrafi 1 u 2 ma g]andhomx japplikaw jekk is-sid benefi`jarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or fejn jinqalg]u r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab fih, jew ikun qieg]ed jag]mel f’dak Istat l- (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03 11 ie]or servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jit]allsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw il-provvedimenti ta’ l-Artikolu 8 jew ta’ l-Artikolu 15, skond il-ka\\.
+\4. Il-provvedimenti tal-paragrafi 1 u 2 ma g]andhomx japplikaw jekk is-sid benefi`jarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or fejn jinqalg]u r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab fih, jew ikun qieg]ed jag]mel f’dak Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jit]allsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw il-provvedimenti ta’ l-Artikolu 8 jew ta’ l-Artikolu 15, skond il-ka\\.
 
 \5. Ir-royalties g]andhom jitqiesu li jinqalg]u fi Stat Kontraenti meta min i]allashom ikun residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qeg]da t]allas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew ba\\i stabbilita li f’konnessjoni mag]ha tkun ori[inat ir-responsabbiltà li jit]allsu r-royalties, u dawk ir-royalties ji[[arrbu minn dak l-istabbiliment permanenti jew ba\\i stabbilita, allura dawk ir-royalties g]andhom jitqiesu li jinqalg]u fl-Istat fejn ikunu jinsabu l-istabbiliment permanenti jew il-ba\\i stabbilita.
 
@@ -383,11 +347,7 @@ TAL-POPLU SO¬JALISTA) [L.S.123.03 11 ie]or servizzi personali indipendenti minn
 
 (a) Ebda ]a[a li tinsab f’dan il-paragrafu ma g]andha tkun tapplika g]al xi kumpannija, so`jetà, trust jew estate li ma jkunux kumpannija, so`jetà, trust jew estate inga[[[ati fil-kummer` tal-mani[[ ta’ proprjetà immobbli, li l-proprjetà tag]ha tkun tikkonsisti direttament jew mhux direttament prin`ipalment fi proprjetà immobbli u\\ata minn dik il-kumpannija, so`jetà, trust jew estate fl-attivitajiet kummer`jali tag]hom.
 
-(b) G]all-finijiet ta’ dan il-paragrafu, "prin`ipalment" f’dak li g]andu (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-12 [L.S.123.03 TAL-POPLU SO¬JALISTA)
-
-x’jaqsam mal-proprjetà ta’ proprjetà immobbli tfisser il-valur ta’ dik il-proprjetà immobbli li jkun je``edi ]amsin fil-mija tal-valur komplessiv tal-attiv kollu li jkun proprjetà tal-kumpannija, so`jetà, trust jew estate. 5. Kull qlig] mit-trasferiment ta’ ishma li ma jkunux dawk imsemmija fil-paragrafu 4 u li jkunu jag]mlu parti minn parte`ipazzjoni sostanzjali f’kumpannija li tkun residenti ta’ Stat Kontraenti tista’ ti[i intaxxata f’dak l-Istat. L-ishma jitqiesu li jkunu jag]mlu parti minn parte`ipazzjoni sostanzjali f ’kumpannija meta min jittrasferixxi, wa]du jew flimkien ma’ persuni relatati, ikun direttament jew mhux direttament detentur ta’ ishma f’dik il-kumpannija li jkunu lkoll flimkien jag]tuh jedd g]al 25 fil-mija jew i\\jed mill-profitti ta’ dik il-kumpannija.
+(b) G]all-finijiet ta’ dan il-paragrafu, "prin`ipalment" f’dak li g]andu x’jaqsam mal-proprjetà ta’ proprjetà immobbli tfisser il-valur ta’ dik il-proprjetà immobbli li jkun je``edi ]amsin fil-mija tal-valur komplessiv tal-attiv kollu li jkun proprjetà tal-kumpannija, so`jetà, trust jew estate. 5. Kull qlig] mit-trasferiment ta’ ishma li ma jkunux dawk imsemmija fil-paragrafu 4 u li jkunu jag]mlu parti minn parte`ipazzjoni sostanzjali f’kumpannija li tkun residenti ta’ Stat Kontraenti tista’ ti[i intaxxata f’dak l-Istat. L-ishma jitqiesu li jkunu jag]mlu parti minn parte`ipazzjoni sostanzjali f ’kumpannija meta min jittrasferixxi, wa]du jew flimkien ma’ persuni relatati, ikun direttament jew mhux direttament detentur ta’ ishma f’dik il-kumpannija li jkunu lkoll flimkien jag]tuh jedd g]al 25 fil-mija jew i\\jed mill-profitti ta’ dik il-kumpannija.
 
 \6. Kull qlig] mit-trasferiment ta’ proprjetà li ma tkunx dik imsemmija fil-paragrafi 1, 2, 3, 4 u 5 g]andu ji[i intaxxat biss fl-Istat Kontraenti li min jittrasferixxi jkun residenti fih.
 
@@ -413,9 +373,7 @@ x’jaqsam mal-proprjetà ta’ proprjetà immobbli tfisser il-valur ta’ dik i
 
 (a) Min jir`evih ikun joqg]od fl-Istat l-ie]or g]al perjodu jew perjodi li b’kollox ma jkunux ta’ i\\jed minn 183 [urnata f’perjodu ta’ tnax-il xahar li jibda g]addej jew itemm fis-sena ta’ taxxa involuta;
 
-(IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03 13 (b) Il-kumpens jit]allas minn, jew f’isem, prin`ipal li ma jkunx residenti fl- Istat l-ie]or; u
+(b) Il-kumpens jit]allas minn, jew f’isem, prin`ipal li ma jkunx residenti fl- Istat l-ie]or; u
 
 (`) Il-kumpens ma jkunx ta’ pi\\ fuq l-istabbiliment permanenti jew fuq ba\\i stabbilita li l-prin`ipal ikollu fl-Istat l-ie]or.
 
@@ -449,11 +407,7 @@ Id-drittijiet tad-diretturi u ]lasijiet o]ra simili li jinkisbu minn residenti t
 
 \1. (a) Salarji, pagi u kull kumpens ie]or b]al dawk, minbarra pensjoni, im]allsin minn Stat Kontraenti jew minn sottodivi\\joni politika jew awtorità lokali tieg]u lil xi individwu g]ar-rigward ta’ servizzi mog]tijin lil dak l-Istat jew sottodivi\\joni jew awtorità g]andhom ji[u intaxxati biss f’dak l-Istat.
 
-(b) Madankollu, kull salarju, paga u kumpens ie]or b]al dawk g]andhom ji[u intaxxati biss f’dak l-Istat Kontraenti l-ie]or jekk is-servizzi (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-14 [L.S.123.03 TAL-POPLU SO¬JALISTA)
-
-jing]ataw f’dak l-Istat l-ie]or u l-individwu jkun residenti f’dak l-Istat l-ie]or u:
+(b) Madankollu, kull salarju, paga u kumpens ie]or b]al dawk g]andhom ji[u intaxxati biss f’dak l-Istat Kontraenti l-ie]or jekk is-servizzi jing]ataw f’dak l-Istat l-ie]or u l-individwu jkun residenti f’dak l-Istat l-ie]or u:
 
 (i) Ikun eittadin ta’ dak l-Istat; jew
 
@@ -489,9 +443,7 @@ Student jew apprendist li jkun jew kien minnufih qabel ma j\\ur Stat Kontraenti 
 
 \1. Elementi ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalg]u mnejn jinqalg]u, li ma jkunux [ew ittrattati fl-artikoli ta’ hawn aktar qabel ta’ dan il- Ftehim g]andhom ji[u intaxxati biss f’dak l-Istat.
 
-\2. Il-provvedimenti tal-paragrafu 1 ma g]andhomx japplikaw g]al income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 ta’ l-artikolu (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03 15 7, jekk min jir`ievi dak l-income, billi jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab fih, jew iwettaq f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jit]allas l-income ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw il-provvedimenti ta’ l-artikolu 8 jew ta’ l-artikolu 15, skond kif ikun il-ka\\.
+\2. Il-provvedimenti tal-paragrafu 1 ma g]andhomx japplikaw g]al income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 ta’ l-artikolu 7, jekk min jir`ievi dak l-income, billi jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab fih, jew iwettaq f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jit]allas l-income ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw il-provvedimenti ta’ l-artikolu 8 jew ta’ l-artikolu 15, skond kif ikun il-ka\\.
 
 \3. Minkejja l-provvedimenti tal-paragrafi 1 u 2, elementi ta’ income ta’ residenti ta’ Stat Kontraenti li ma jkunux [ew trattati fl-artikoli ta’ qabel ta’ dan il- Ftehim u li jinqalg]u fl-Istat Kontraenti l-ie]or jistg]u ji[u intaxxati ukoll f’dak l- Istat l-ie]or.
 
@@ -515,11 +467,7 @@ TAL-POPLU SO¬JALISTA) [L.S.123.03 15 7, jekk min jir`ievi dak l-income, billi j
 
 \1. I`-`ittadini ta’ Stat Kontraenti ma g]andhom ji[u asso[[ettati fl-Istat Kontraenti l-ie]or g]al ebda tassazzjoni jew ebda ]tie[a li jkunu konnessi ma’ dan jekk din tkun diversa jew ta’ iktar pi\\ mit-taxxa u l-]ti[iet konnessi li g]alihom `ittadini ta’ dak l-Istat l-ie]or fl-istess `irkostanzi, b’mod partikolari g]ar-rigward ta’ residenza, ikunu jew jistg]u jkunu asso[[ettati. Dan il-provvediment g]andu, minkejja l-provvedimenti ta’ l-artikolu 1, ikun japplika ukoll g]al persuni li ma jkunux residenti ta’ xi wie]ed jew ta\\-\\ew[ Stati Kontraenti.
 
-\2. It-taxxa fuq stabbiliment permanenti li impri\\a ta’ Stat Kontraenti jkollha fl- Istat Kontraenti l-ie]or ma g]andhiex tin[abar b’mod inqas favorevoli f’dak Istat l- (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-16 [L.S.123.03 TAL-POPLU SO¬JALISTA)
-
-ie]or mit-taxxa mi[bura fuq impri\\i ta’ dak l-Istat l-ie]or li jkun qed iwettaq l-istess ativitajiet. Dan il-provvediment ma g]andux jiftiehem b]ala wie]ed li jobbliga lil Stat Kontraenti li jikkon`edi lil residenti ta’ l-Istat Kontraenti l-ie]or xi allowances personali, ]elsien u tnaqqis g]al g]anijiet ta’ tassazzjoni min]abba fl-istatus `ivili jew fir-responsabbiltajiet familjari li dan jikkon`edi lir-residenti tieg]u stess.
+\2. It-taxxa fuq stabbiliment permanenti li impri\\a ta’ Stat Kontraenti jkollha fl- Istat Kontraenti l-ie]or ma g]andhiex tin[abar b’mod inqas favorevoli f’dak Istat l-ie]or mit-taxxa mi[bura fuq impri\\i ta’ dak l-Istat l-ie]or li jkun qed iwettaq l-istess ativitajiet. Dan il-provvediment ma g]andux jiftiehem b]ala wie]ed li jobbliga lil Stat Kontraenti li jikkon`edi lil residenti ta’ l-Istat Kontraenti l-ie]or xi allowances personali, ]elsien u tnaqqis g]al g]anijiet ta’ tassazzjoni min]abba fl-istatus `ivili jew fir-responsabbiltajiet familjari li dan jikkon`edi lir-residenti tieg]u stess.
 
 \3. }lief meta japplikaw il-provvedimenti tal-paragrafu 1 ta’ l-artikolu 10, tal-paragrafu 6 ta’ l-artikolu 12, jew tal-paragrafu 6 ta’ l-artikolu 13, mg]ax, royalties u ]lasijiet o]ra li jit]allsu minn impri\\a ta’ Stat Kontraenti lil residenti ta’ l-Istat Kontraenti l-ie]or g]andhom, g]all-fini li ji[u stabbiliti x’inhuma l-profitti li g]andhom ji[u intaxxati ta’ dik l-impri\\a, ji[u mnaqqsa ta]t l-istess kondizzjonijiet b]allikieku dawn kienu t]allsu lil residenti ta’ l-ewwel imsemmi Stat.
 
@@ -536,10 +484,6 @@ ie]or mit-taxxa mi[bura fuq impri\\i ta’ dak l-Istat l-ie]or li jkun qed iwett
 \3. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jippruvaw jirrisolvu permezz ta’ ftehim re`iproku kull diffikultà jew dubbju li jistg]u jori[inaw dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistg]u wkoll jikkonsultaw flimkien dwar l-eliminazzjoni ta’ taxxa doppja f’dawk il-ka\\ijiet li ma jkun hemm provdut xejn dwarhom fil-Ftehim.
 
 \4. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti jistg]u jikkomunikaw direttament ma’ xulxin, ukoll permezz ta’ kummissjoni kon[unta li tkun mag]mula minnhom infushom jew mir-rappre\\entanti tag]hom, bl-iskop li jil]qu ftehim fis-sens tal-paragrafi ta’ qabel dan. L-awtoritajiet kompetenti g]andhom, permezz ta’ konsultazzjonijiet, ji\\viluppaw pro`eduri, kundizzjonijiet, metodi u teknikalitajiet bilaterali adatti g]all-implimentazzjoni tal-pro`edura ta’ ftehim re`iproku kif hemm provdut dwarha f’dan l-artikolu.
-
-(IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03 17
 
 **Artikolu 27**
 
@@ -571,11 +515,7 @@ Dan il-Ftehim g]andu jid]ol fis-se]] 30 [urnata wara d-data li jasal l-avvi\\ l-
 
 **Terminazzjoni**
 
-\1. Dan il-Ftehim g]andu jibqa’ jse]] sakemm xi wie]ed mill-Istati Kontraenti (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-18 [L.S.123.03 TAL-POPLU SO¬JALISTA)
-
-jag]ti avvi\\ bil-miktub li jkun bi ]siebu jtemm il-Ftehim lill-Istat Kontraenti l-ie]or permezz tal-kanali diplomati`i, fi jew qabel it-tletin [urnata ta’ {unju f’xi sena kalendarja wara li jiskadi perjodu ta’ ]ames snin mid-data meta dan jid]ol fis-se]]. F’dak il-ka\\ dan il-Ftehim itemm milli jkollu se]] dwar income miksub matul is-snin ta’ taxxa li jibdew fi jew wara l-ewwel jum ta’ Jannar tas-sena li ti[i minnufih wara dik meta jkun ing]ata l-avvi\\ ta’ terminazzjoni.
+\1. Dan il-Ftehim g]andu jibqa’ jse]] sakemm xi wie]ed mill-Istati Kontraenti jag]ti avvi\\ bil-miktub li jkun bi ]siebu jtemm il-Ftehim lill-Istat Kontraenti l-ie]or permezz tal-kanali diplomati`i, fi jew qabel it-tletin [urnata ta’ {unju f’xi sena kalendarja wara li jiskadi perjodu ta’ ]ames snin mid-data meta dan jid]ol fis-se]]. F’dak il-ka\\ dan il-Ftehim itemm milli jkollu se]] dwar income miksub matul is-snin ta’ taxxa li jibdew fi jew wara l-ewwel jum ta’ Jannar tas-sena li ti[i minnufih wara dik meta jkun ing]ata l-avvi\\ ta’ terminazzjoni.
 
 \2. Il-ftehim bejn Malta u r-Repubblika l-Kbira g]all-E\\enzjoni mit-taxxa doppja dwar taxxi fuq l-Income iffirmat fil-5 ta’ Ottubru 1972 u l-protokoll li hemm mieg]u iffirmat fit-28 ta’ April 1995 g]andhom jintemmu fid-data meta dan il- Ftehim jid]ol fis-se]]. F’dak il-ka\\ il-ftehim hawn qabel imsemmi iffirmat fil-5 ta’ Ottubru 1972 u l-Protokoll li hemm mieg]u hawn qabel imsemmi g]andhom itemmu milli jibqa’ jkollhom se]] dwar income miksub matul is-snin ta’ taxxa li jibdew g]addejin fi jew wara l-ewwel jum ta’ Jannar tas-sena li ti[i minnufih wara dik meta dan il-Ftehim jid]ol fis-se]].
 
@@ -603,9 +543,7 @@ Malta u r-Repubblika l-Kbira G]arbija tal-Libja tal-Poplu So`jalista qablu, meta
 
 (a) kumpannija li tkun residenti ta’ Stat Kontraenti u li tkun Negozju Kon[unt ikollha jedd te]tie[ li l-qlieg] jew profitti li miksubin minnha u li jistg]u jitqassmu, direttament jew mhux direttament, b]ala dividend lil Persuna Eli[ibbli li tkun residenti tal-Istat Kontraenti l-ie]or, minkejja li d-dividend jew parti minnu ma jkunx [ie distribwit, ji[i intaxxat b’rata li ma tkunx ta’ i\\jed minn ]mistax fil-mija (15%);
 
-(b) meta l-qlig] jew profitti ta’ kumpannija jkunu [ew asso[[ettati g]al taxxa b’rata ta’ mhux i\\jed minn ]mistax fil-mija (15%) kif hemm fil-paragrafu (a), ebda taxxa o]ra u aktar ma g]andha tit]allas f’dak l-Istat Kontraenti jew fl-Istat Kontraenti l-ie]or fuq xi dividend im]allas, (IR-REPUBBLIKA L-KBIRA G}ARBIJA TAL-LIBJA
-
-TAL-POPLU SO¬JALISTA) [L.S.123.03 19 direttament jew mhux direttament, minn dak il-qlig] jew profitti.
+(b) meta l-qlig] jew profitti ta’ kumpannija jkunu [ew asso[[ettati g]al taxxa b’rata ta’ mhux i\\jed minn ]mistax fil-mija (15%) kif hemm fil-paragrafu (a), ebda taxxa o]ra u aktar ma g]andha tit]allas f’dak l-Istat Kontraenti jew fl-Istat Kontraenti l-ie]or fuq xi dividend im]allas, direttament jew mhux direttament, minn dak il-qlig] jew profitti.
 
 \3. F’dan il-Protokoll -
 

@@ -15,15 +15,7 @@ retrieved: 2026-10-12
 
 # Avviż dwar Dritt fuq Applikazzjoni skont ir-Regoli dwar Individwi ta’ Valur Nett Gholi Ċittadini tal-UE/ŻEE/Svizzera u r-Regoli dwar Individwi ta’ Valur Nett Għoli - Persuni li mhumiex Ċittadini tal-UE/ŻEE/Svizzera (S.L. 123.131)
 
-DRITT FUQ APPLIKAZZJONI SKONT IR-REGOLI DWAR INDIVIDWI
-
-TA’ VALUR NETT GĦOLI - ĊITTADINI TAL-UE/ŻEE/SVIZZERA U
-
-R-REGOLI DWAR INDIVIDWI TA’ VALUR NETT GĦOLI - PERSUNI
-
-*1*
-
-LI MHUMIEX ĊITTADINI TAL-UE/ŻEE/SVIZZERA [L.S.123.131 LEĠISLAZZJONI SUSSIDJARJA 123.131
+**LEĠISLAZZJONI SUSSIDJARJA 123.131**
 
 **AVVIŻ DWAR DRITT FUQ APPLIKAZZJONI**
 

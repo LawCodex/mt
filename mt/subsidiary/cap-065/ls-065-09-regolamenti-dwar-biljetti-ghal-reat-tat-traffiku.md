@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Biljetti għal Reat tat-Traffiku"
-identifier: "S.L. 65.9"
+identifier: "S.L. 65.09"
 eli: "https://legislation.mt/eli/sl/65.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/65.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Biljetti għal Reat tat-Traffiku (S.L. 65.9)
+# Regolamenti dwar Biljetti għal Reat tat-Traffiku (S.L. 65.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 65.09**
 

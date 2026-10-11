@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Eżenzjonijiet Speċjali għal Klassijiet ta' Qligħ"
-identifier: "S.L. 318.5"
+identifier: "S.L. 318.05"
 eli: "https://legislation.mt/eli/sl/318.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/318.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Eżenzjonijiet Speċjali għal Klassijiet ta' Qligħ (S.L. 318.5)
-
-E|ENZJONIJIET SPE~JALI G}AL
-
-KLASSIJIET TA’ QLIG} [ L.S.318.05
+# Ordni dwar Eżenzjonijiet Speċjali għal Klassijiet ta' Qligħ (S.L. 318.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 318.05**
 

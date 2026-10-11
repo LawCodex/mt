@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1992) (S.L. 261.15)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1992) [ L.S.261.15
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.15**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -95,7 +93,7 @@ B’se]] mis-26 ta’ Di`embru, 1991:
 
 (10) Flat numru 12, Blokk 6, Triq id-Deheb Fin, Qasam tad-Djar tal-Gvern Ta’ Far\\ina, Qormi.
 
-(11) Id-dar bin-numru 21, Triq Karlu Darmanin, Qrendi (TRASFERIMENT TA’ PROPRJETÀ) (1992) [ L.S.261.15 (Rural Tenement No. 50086).
+(11) Id-dar bin-numru 21, Triq Karlu Darmanin, Qrendi (Rural Tenement No. 50086).
 
 (12) Flat numru 12, Bieb B, Blokk 17, Triq l-Ispika, San {wann (Rural Tenement No. 51328).
 
@@ -185,7 +183,7 @@ B’se]] mill-21 ta’ Jannar, 1992:
 
 (8) Flat numru 3, Blokk F, Triq il-Peprin, Santa Lu`ija, Malta.
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1992) [ L.S.261.15 (9) Id-dar bin-numru 8, Vjal l-Oleandri, Santa Lu`ija, Malta.
+(9) Id-dar bin-numru 8, Vjal l-Oleandri, Santa Lu`ija, Malta.
 
 (10) Flat numru 1, Blokk A5, Triq il-Watar, Ta’ Xbiex. (11) Flat numru 4, Blokk C3, Qasam tad-Djar tal-Gvern, Ta’ Xbiex.
 
@@ -279,7 +277,7 @@ B’se]] mis-6 ta’ Mejju, 1992:
 
 (5) Flat numru 3, Blokk l, Bieb A, Misrafi Awrekarja, San {wann (Tenement No. 64995).
 
-(6) Blokk ta’ 10 flats mag]rufin b]ala Bu[ibba Apartments fi Triq it-Turisti, Bu[ibba, San Pawl il- (TRASFERIMENT TA’ PROPRJETÀ) (1992) [ L.S.261.15 Bahar, kull flat a``essibbli minn bieb intern numerat 1 sa 10 a``essibbli minn entrata komuni markata Blokk 2. Il-blokk imiss mill-Majjistral ma’ Triq it-Turisti u mill-Grigal u Lbi` ma’ proprjetà tal-Gvern, u delineata bl-a]dar fuq L.D. 71/92.
+(6) Blokk ta’ 10 flats mag]rufin b]ala Bu[ibba Apartments fi Triq it-Turisti, Bu[ibba, San Pawl il- Bahar, kull flat a``essibbli minn bieb intern numerat 1 sa 10 a``essibbli minn entrata komuni markata Blokk 2. Il-blokk imiss mill-Majjistral ma’ Triq it-Turisti u mill-Grigal u Lbi` ma’ proprjetà tal-Gvern, u delineata bl-a]dar fuq L.D. 71/92.
 
 (7) Id-dar bin-numru 114, Triq Melita, Valletta (Tenement No. 60034E).
 
@@ -343,7 +341,7 @@ Blokk ta’ tmien flats li kull wie]ed minnhom huwa a``essibbli minn bieb intern
 
 (d) Blokk L:
 
-Blokk ta’ tmien flats li kull wie]ed minnhom huwa a``essibbli minn bieb intern numerat 1 sa 8 a``essibbli minn entrata komuni bla numru (TRASFERIMENT TA’ PROPRJETÀ) (1992) [ L.S.261.15 uffi`jali i\\da li g]andha l-kliem Entrata L fuqha. L-imsemmi blokk imiss mill-Majjistral ma’ triq pubblika u mill-Grigal u Lbi` ma’ proprjetà tal- Gvern;
+Blokk ta’ tmien flats li kull wie]ed minnhom huwa a``essibbli minn bieb intern numerat 1 sa 8 a``essibbli minn entrata komuni bla numru uffi`jali i\\da li g]andha l-kliem Entrata L fuqha. L-imsemmi blokk imiss mill-Majjistral ma’ triq pubblika u mill-Grigal u Lbi` ma’ proprjetà tal- Gvern;
 
 (e) Blokk M:
 
@@ -429,7 +427,7 @@ B’se]] mid-19 ta’ {unju, 1992:
 
 (6) Flat numru 3, Blokk D, Bieb B, Triq Pietro Gagliardi, Tarxien (Tenement No. 72003).
 
-(7) Dar bin-numru 27, Is-Sur ta’ Santa Barbara, Valletta (TRASFERIMENT TA’ PROPRJETÀ) (1992) [ L.S.261.15 (Tenement No. 60011).
+(7) Dar bin-numru 27, Is-Sur ta’ Santa Barbara, Valletta (Tenement No. 60011).
 
 (8) Dar bin-numru 22, Triq id-Da]la ta’ San Tumas, |ejtun (Tenement No. 67414).
 
@@ -587,9 +585,7 @@ L-imsemmi blokk huwa konfinat mit- Tramuntana ma’ Triq Gorse, mil-Lvant ma’ 
 
 Dawn il-blokki flats u garages jinsabu delineati bl-a]dar fuq il-pjanta L.D. 184/92/1.
 
-(2) Flat numru 32, Triq Joseph Stivala, Paola (Tenement AWTORITÀ
-
-(TRASFERIMENT TA’ PROPRJETÀ [ L.S.261.15 No. 61799).
+(2) Flat numru 32, Triq Joseph Stivala, Paola (Tenement No. 61799).
 
 (3) numru 1, Blokk III, La La Cruz Avenue, Qormi (Tenement No. 64180).
 

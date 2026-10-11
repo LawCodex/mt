@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Professjoni tal-Accountancy (Standards ta' Accounting u Auditing)"
-identifier: "S.L. 281.2"
+identifier: "S.L. 281.02"
 eli: "https://legislation.mt/eli/sl/281.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/281.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Professjoni tal-Accountancy (Standards ta' Accounting u Auditing) (S.L. 281.2)
-
-PROFESSJONI TA’ L-ACCOUNTANCY
-
-*1*
-
-(STANDARDS TA’ ACCOUNTING U AUDITING) [L.S.281.02
+# Regolamenti dwar il-Professjoni tal-Accountancy (Standards ta' Accounting u Auditing) (S.L. 281.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 281.02**
 

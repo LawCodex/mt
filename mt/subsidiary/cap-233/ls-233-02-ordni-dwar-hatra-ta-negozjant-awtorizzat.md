@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Ħatra ta Negozjant Awtorizzat"
-identifier: "S.L. 233.2"
+identifier: "S.L. 233.02"
 eli: "https://legislation.mt/eli/sl/233.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/233.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Ħatra ta Negozjant Awtorizzat (S.L. 233.2)
+# Ordni dwar Ħatra ta Negozjant Awtorizzat (S.L. 233.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 233.02**
 

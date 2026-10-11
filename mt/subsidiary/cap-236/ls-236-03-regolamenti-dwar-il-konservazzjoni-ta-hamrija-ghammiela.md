@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Konservazzjoni ta’ Ħamrija Għammiela"
-identifier: "S.L. 236.3"
+identifier: "S.L. 236.03"
 eli: "https://legislation.mt/eli/sl/236.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,9 @@ version: "https://legislation.mt/eli/sl/236.3/20201001/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Konservazzjoni ta’ Ħamrija Għammiela (S.L. 236.3)
+# Regolamenti dwar il-Konservazzjoni ta’ Ħamrija Għammiela (S.L. 236.03)
 
-*1*
-
-ĦAMRIJA GĦAMMIELA [L.S.236.03 LEĠISLAZZJONI SUSSIDJARJA 236.03
+**LEĠISLAZZJONI SUSSIDJARJA 236.03**
 
 **REGOLAMENTI DWAR IL-KONSERVAZZJONI TA’**
 
@@ -61,11 +59,7 @@ Iżda li, l-attivitajiet fis-subregolament (1) tar-regolament 3 għandhom jappli
 
 (a) il-pjanti tas-sit li jindikaw:
 
-(i) is-sit minn fejn bi ħsiebha tneħħi dik il- [L.S. 236.03 ĦAMRIJA GĦAMMIELA
-
-*2*
-
-ħamrija għammiela;
+(i) is-sit minn fejn bi ħsiebha tneħħi dik il-ħamrija għammiela;
 
 (ii) is-sit fejn il-ħamrija għammiela għandha tkun koperta temporanjament;
 
@@ -95,11 +89,9 @@ Iżda li, l-attivitajiet fis-subregolament (1) tar-regolament 3 għandhom jappli
 
 (a) jekk il-ħamrija tfornix nutrijenti essenzjali tal-pjanti u żżomm l-ilma f’ammonti u proporzjonijiet adegwati sabiex issostni t-tkabbir u r-riproduzzjoni tal-pjanti;
 
-(b) il-pH tal-ħamrija, is-salinità u l-preżenza ta’ ĦAMRIJA GĦAMMIELA [L.S.236.03 sustanzi tossiċi f’konċentrazzjonijiet li jistgħu jxekklu t-tkabbir tal-pjanti.
+(b) il-pH tal-ħamrija, is-salinità u l-preżenza ta’ sustanzi tossiċi f’konċentrazzjonijiet li jistgħu jxekklu t-tkabbir tal-pjanti.
 
 (4) Id-Direttur jista’ permezz ta’ avviż ippubblikat fil- Gazzetta joħroġ linji gwida u parametri sabiex jiddefinixxi aktar il-ħamrija għammiela.
-
-*3*
 
 ## 5. Deċiżjoni tad- Direttur.
 

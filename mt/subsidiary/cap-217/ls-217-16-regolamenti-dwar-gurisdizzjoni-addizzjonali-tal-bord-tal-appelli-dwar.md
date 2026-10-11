@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Ġurisdizzjoni Addizzjonali tal-Bord tal-Appelli dwar l-Immigrazzjoni (S.L. 217.16)
 
-ĠURISDIZZJONI ADDIZZJONALI TAL-BORD
-
-*1*
-
-TAL-APPELLI DWAR L-IMMIGRAZZJONI [S.L.217.16
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.16**
 
 **REGOLAMENTI DWAR ĠURISDIZZJONI**

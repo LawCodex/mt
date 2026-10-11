@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta ’ Master of Arts in Educational Leadership and Management – M.A. - taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.416)
 
-LEADERSHIP AND MANAGEMENT - M.A. -TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.416
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.416**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -72,11 +66,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew fi Frar 2018 j
 
 (b) kwalunkwe grad ieħor mill-anqas fit-Tielet Klassi bl- Unuri jew fil-Kategorija III mill-Università ta’ Malta jew grad minn università oħra rikonnoxxut bħala ekwivalenti għal dan il-għan, flimkien ma’ kwalifika rikonoxxuta ta’ għalliem jew fl-edukazzjoni u mill-anqas ħames snin esperjenza ta’ tagħlim; jew
 
-(ċ) grad ta’ Master li jikkwalifika lill-applikanti għall- Warrant ta’ Għalliem, flimkien ma’ mill-anqas ħames LEADERSHIP AND MANAGEMENT - M.A. -TAĦT [L.S.327.416 IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-snin esperjenza ta’ tagħlim; jew
-
-*2*
+(ċ) grad ta’ Master li jikkwalifika lill-applikanti għall- Warrant ta’ Għalliem, flimkien ma’ mill-anqas ħames snin esperjenza ta’ tagħlim; jew
 
 (d) kwalunkwe kwalifika rikonoxxuta oħra ta’ għalliem flimkien ma’ mill-anqas ħames snin esperjenza ta’ tagħlim.
 
@@ -118,13 +108,9 @@ sakemm li, jekk approvat mill-Bord, l-istudenti jistgħu jitħallew li minflok i
 
 (3) F’każijiet fejn l-istudenti jkollhom nuqqas ta’ għarfien essenzjali fil-qasam tal-metodoloġija tar-riċerka, il-Bord jista’ jeħtieġ lill-istudenti aċċettati fil-kors biex isegwu u jgħaddu minn taqsima/taqsimiet studju supplimentari f’dan il-qasam li għalihom hemm assenjati sa massimu ta’ 12-il krettu ECTS minbarra il-programm speċifikat fil-paragrafu (1) ta’ dan l-ordinament.
 
-LEADERSHIP AND MANAGEMENT - M.A. -TAĦT
+## 6. Pubblikazzjoni tal-programm ta’ studju.
 
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.416 6. Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
-
-*Pubblikazzjoni tal-programm ta’ studju.*
+Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
 ## 7. Valutazzjoni u progress.
 
@@ -166,8 +152,6 @@ IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.416 6. Il-programm ta’ st
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.
 
-*4*
+## 11. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Enumerat mill-ġdid: A.L. 323 tal-2015.
 
-LEADERSHIP AND MANAGEMENT - M.A. -TAĦT [L.S.327.416 IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI 11. Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba fin-natura part-time tal-kors.
-
-*Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Enumerat mill-ġdid: A.L. 323 tal-2015.*
+Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba fin-natura part-time tal-kors.

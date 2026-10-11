@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għas-Certificate in Language Proficiency - Cert. Lang. Pr. - u għad-Diploma in Language Proficiency - Dip. Lang. Pr. - taħt ilpatroċinju tal-Fakultà tal-Arti (S.L. 327.523)
 
-\- AND DIPLOMA IN LANGUAGE PROFICIENCY - Dip. Lang.
-
-*1*
-
-Pr. - UNDER THE AUSPICES OF THE FACULTY OF ARTS [S.L.327.523
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.523**
 
 **ORDINAMENTI GĦAS-CERTIFICATE IN**
@@ -73,9 +67,7 @@ L-oqsma ta’ studju offruti fi kwalunkwe sena partikolari fil-korsijiet għaċ-
 
 (2) L-applikanti għall-kors għad-Diploma jistgħu jkunu eżentati minn elementi tal-kors għaċ-Ċertifikat jekk jipprovdu ċertifikazzjoni akkreditata fil-lingwa u jekk jitqiesu mill-Bord tal- Istudji għall-qasam ta’ studju li huma kapaċi li jsegwu l-kors bi profitt.
 
-*2*
-
-\- AND DIPLOMA IN LANGUAGE PROFICIENCY - Dip. Lang. [S.L.327.523 Pr. - UNDER THE AUSPICES OF THE FACULTY OF ARTS (3) Il-korsijiet għaċ-Ċertifikat u għad-Diploma jistgħu jittieħdu flimkien ma’ kwalunkwe kors ieħor sal-ewwel grad jew ta’ wara l-ewwel grad tal-Università, kemm jekk ikun segwit fuq bażi full-time jew fuq bazi part-time.
+(3) Il-korsijiet għaċ-Ċertifikat u għad-Diploma jistgħu jittieħdu flimkien ma’ kwalunkwe kors ieħor sal-ewwel grad jew ta’ wara l-ewwel grad tal-Università, kemm jekk ikun segwit fuq bażi full-time jew fuq bazi part-time.
 
 ## 5. Tul tal-korsijiet.
 

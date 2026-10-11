@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Bastimenti Merkantili (Organizzazzjonijiet ta' Bastimenti - Kumpanniji Privati) (S.L. 234.42)
 
-BASTIMENTI MERKANTILI (ORGANIZZAZZJONIJIET
-
-*1*
-
-TA’ BASTIMENTI - KUMPANNIJI PRIVATI) [L.S.234.42
-
 **LEĠISLAZZJONI SUSSIDJARJA 234.42**
 
 **REGOLAMENTI DWAR BASTIMENTI**

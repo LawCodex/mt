@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta’ Master of Arts in International Humanitarian Action – M.A. (S.L. 327.588)
 
-*1*
-
-HUMANITARIAN ACTION – M.A. [L.S. 327.588 LEĠISLAZZJONI SUSSIDJARJA 327.588
+**LEĠISLAZZJONI SUSSIDJARJA 327.588**
 
 IR-REGOLAMENTI TAL-KORS GĦALL-GRAD TA’
 
@@ -72,11 +70,7 @@ Uniwersytet Warszawski;
 
 (3) Dan il-Grad huwa Grad tal-Università mogħti flimkien ma’ istituzzjonijiet oħra u dan għandu jfisser li l-Kors huwa mgħallem fl-Istutizzjojijiet Imsieħba fi ħdan qafas ta’ programm mogħti flimkien ma’ istituzzjoni oħra. Il-Grad jingħata biss jekk l- Istituzzjonijiet Imsieħba jiddikjaraw li l-istudent huwa eliġibbli biex jingħata r-rikonoxximent.
 
-(4) Minkejja d-disposizzjonijiet tal-paragrafu (3) ta’ dan ir- [L.S. 327.588 HUMANITARIAN ACTION – M.A.
-
-regolament, l-Università għandha tipprovdi l-għotja ta’ grad duppliċi kif applikabbli, f’dawk il-każijiet meta studenti li jsegwu parti mill-istudji tagħhom fl-Università, jsegwu l-istudji tagħhom fi kwalunkwe istituzzjonijiet msieħba oħra li huma legalment preklużi li joħorġu għotjiet ta’ gradi flimkien.
-
-*2*
+(4) Minkejja d-disposizzjonijiet tal-paragrafu (3) ta’ dan ir-regolament, l-Università għandha tipprovdi l-għotja ta’ grad duppliċi kif applikabbli, f’dawk il-każijiet meta studenti li jsegwu parti mill-istudji tagħhom fl-Università, jsegwu l-istudji tagħhom fi kwalunkwe istituzzjonijiet msieħba oħra li huma legalment preklużi li joħorġu għotjiet ta’ gradi flimkien.
 
 ## 2. L-Applikabilità.
 
@@ -108,9 +102,7 @@ sakemm li kelliema nattivi tal-lingwa Ingliża u studenti li attendew kors ta’
 
 (4) Meta l-għadd ta’ applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikazzjonijiet jiġu magħżula skont il-kriterji li ġejjin:
 
-*3*
-
-HUMANITARIAN ACTION – M.A. [L.S. 327.588 (a) it-tip u l-livell tal-kwalifiki akkademiċi (25%);
+(a) it-tip u l-livell tal-kwalifiki akkademiċi (25%);
 
 (b) it-tip u l-livell tal-esperjenza fir-riċerka (10%);
 
@@ -152,11 +144,7 @@ HUMANITARIAN ACTION – M.A. [L.S. 327.588 (a) it-tip u l-livell tal-kwalifiki a
 
 ## 7. Il-Katalgu ta’ Taqsimiet Studju.
 
-Il-Bord tal-Istudji għandu jħejji katalgu tat-taqsimiet studju kollha għall-approvazzjoni tas-Senat. Il-katalgu għandu jindika il- [L.S. 327.588 HUMANITARIAN ACTION – M.A.
-
-livell, l-kodiċi, it-titlu, id-deskrizzjoni u t-tip ta’ kull taqsima studju, il-kretti ECTS assenjati għal kull taqsima studju, il-metodi ta’ tagħlim u l-valutazzjoni, kif ukoll l-opportunitajiet ta’ valutazzjoni mill-ġdid għal kull taqsima studju.
-
-*4*
+Il-Bord tal-Istudji għandu jħejji katalgu tat-taqsimiet studju kollha għall-approvazzjoni tas-Senat. Il-katalgu għandu jindika il-livell, l-kodiċi, it-titlu, id-deskrizzjoni u t-tip ta’ kull taqsima studju, il-kretti ECTS assenjati għal kull taqsima studju, il-metodi ta’ tagħlim u l-valutazzjoni, kif ukoll l-opportunitajiet ta’ valutazzjoni mill-ġdid għal kull taqsima studju.
 
 ## 8. Il-Valutazzjoni u l- Progress.
 
@@ -192,9 +180,7 @@ sakemm li jekk student jeħel mid-dissertazzjoni, il-grad/marka massima li jista
 
 (6) L-istudenti li ma jkomplux jew li jeħlu fil-valutazzjoni tar- Regional Training jew tal-Work Placement m’għandhomx dritt għal valutazzjoni mill-ġdid u jkunu meħtieġa jirtiraw mill-Kors.
 
-*5*
-
-HUMANITARIAN ACTION – M.A. [L.S. 327.588 (7) Is-Senat għandu jaħtar Bord tal-Eżaminaturi għal kull taqsima studju li ssir fl-Università, skont il-provvedimenti tar- Regolamenti tal-Valutazzjoni tal-Università.
+(7) Is-Senat għandu jaħtar Bord tal-Eżaminaturi għal kull taqsima studju li ssir fl-Università, skont il-provvedimenti tar- Regolamenti tal-Valutazzjoni tal-Università.
 
 ## 9. Id-Dissertazzjoni.
 
@@ -220,11 +206,7 @@ HUMANITARIAN ACTION – M.A. [L.S. 327.588 (7) Is-Senat għandu jaħtar Bord tal
 
 (ii) il-Bord tal-Istudji ma jistax itemm l-istudji qabel iż-żmien skont (b) sakemm l-istudent ma jingħatax iċ-ċans li jesprimi ruħu.
 
-(3) Ir-rwol tas-superviżur għandu jieqaf meta d-dissertazzjoni tiġi mressqa għall-eżami iżda jista’ jerġa jibda, fuq il-parir tal-Bord tal-Eżaminaturi, biex jipprovdi gwida lill-istudenti li d- [L.S. 327.588 HUMANITARIAN ACTION – M.A.
-
-dissertazzjoni tagħhom ġiet riferuta lura għal korrezzjonijiet sinifikanti sakemm tkun aċċettata l-aħħar verżjoni.
-
-*6*
+(3) Ir-rwol tas-superviżur għandu jieqaf meta d-dissertazzjoni tiġi mressqa għall-eżami iżda jista’ jerġa jibda, fuq il-parir tal-Bord tal-Eżaminaturi, biex jipprovdi gwida lill-istudenti li d-dissertazzjoni tagħhom ġiet riferuta lura għal korrezzjonijiet sinifikanti sakemm tkun aċċettata l-aħħar verżjoni.
 
 ## 11.
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Gender Studies – M.G.S. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Socjetà (S.L. 327.504)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.504
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.504**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -75,12 +69,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (b) l-esperjenza fil-qasam tal-istudju propost; u
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.504 GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
 (ċ) il-livell milħuq waqt l-intervista.
 
 (5) Għall-għan tal-għażla, l-applikanti li jiksbu l-kwalifi tagħhom skont kif stipulat fil-paragrafu (1) ta’ dan l-ordinament sal-31 ta’ Awwissu ta’ qabel ma jibda l-kors għandhom jitqiesu l-ewwel.
@@ -119,11 +107,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir fi kwalunkwe żmien matul il-kors wara l-approvazzjoni tal-proposta tar-riċerka. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
-(3) It-titlu provviżorju u proposta qasira provviżorja għandhom ikunu sottomessi fil-format meħtieġ fil-bidu tat-tieni semestru. It-titlu propost għad-dissertazzjoni u l-proposta tar-riċerka dettaljata li tiddiskrivi l-proġett propost u l-mistoqsijiet ewlenin li għandhom jiġu TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.504 indirizzati għandhom ikunu sottomessi lill-Bord tal-Istudji għall-approvazzjoni sa mhux aktar tard minn sitt ġimgħat wara l-approvazzjoni tal-proposta provviżorja.
+(3) It-titlu provviżorju u proposta qasira provviżorja għandhom ikunu sottomessi fil-format meħtieġ fil-bidu tat-tieni semestru. It-titlu propost għad-dissertazzjoni u l-proposta tar-riċerka dettaljata li tiddiskrivi l-proġett propost u l-mistoqsijiet ewlenin li għandhom jiġu indirizzati għandhom ikunu sottomessi lill-Bord tal-Istudji għall-approvazzjoni sa mhux aktar tard minn sitt ġimgħat wara l-approvazzjoni tal-proposta provviżorja.
 
 ## 8. Panil ta’ supervizjoni.
 

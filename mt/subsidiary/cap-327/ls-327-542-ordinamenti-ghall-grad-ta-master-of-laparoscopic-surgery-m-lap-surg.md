@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Laparoscopic Surgery - M. Lap. Surg. - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.542)
 
-M. Lap. Surg.) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.542
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.542**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -67,11 +61,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) Is-Senat, fuq ir-rakkomandazzjoni tal-Bord, għandu jiddetermina n-numru ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont ir-riżorsi disponibbli. L-għadd ta’ postijiet disponibbli għandu jitħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
-(4) Meta l-għadd ta’ applikanti li jistgħu jidħlu għall-kors ikun M. Lap. Surg.) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ [L.S.327.542 TAL-MEDIĊINA U L-KIRURĠIJA
-
-limitat skont il-paragrafu (3) ta’ dan l-ordinament, u n-numru ta’ applikanti eliġibbli jaqbeż in-numru ta’ postijiet disponibbli, l-applikanti għandhom jintgħażlu skont il-kriterji li ġejjin, li l-piż tagħhom għandu jkun ippubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
-
-*2*
+(4) Meta l-għadd ta’ applikanti li jistgħu jidħlu għall-kors ikun limitat skont il-paragrafu (3) ta’ dan l-ordinament, u n-numru ta’ applikanti eliġibbli jaqbeż in-numru ta’ postijiet disponibbli, l-applikanti għandhom jintgħażlu skont il-kriterji li ġejjin, li l-piż tagħhom għandu jkun ippubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
 
 (a) il-klassifikazzjoni tal-ewwel grad;
 
@@ -105,11 +95,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time, je
 
 (2) L-istudenti li, f’xi sena akkademika’ jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 krettu ECTS għat-taqsimiet studju mgħallma u kliniċi, jekk ikunu qegħdin isegwu l-kors full-time, jew mhux aktar minn 10 kretti ECTS jekk qegħdin isegwu l-kors part-time, għandhom jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
-(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permessi skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li wara M. Lap. Surg.) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.542 valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju, ikunu meqjusa li weħlu mill-kors.
+(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permessi skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju, ikunu meqjusa li weħlu mill-kors.
 
 ## 7. Dissertazzjoni.
 

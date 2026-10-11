@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (L-Istat ta’ Iżrael) (S.L. 123.152)
 
-*1*
-
-(L-ISTAT TA’ IŻRAEL) [L.S.123.152
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.152**
 
 **ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA**
@@ -48,8 +44,6 @@ B’dan qiegћed jiġi dikjarat:
 (ċ) illi l-Ftehim għandu jidħol fis-seħħ f’dik id-data li tkun mħabbra b’avviż fil-Gazzetta tal-Gvern\*.
 
 \*il-Ftehim ġie fis-seħħ fit-8 ta’ Diċembru, 2013 - ara l-A.L. 57 tal-2014.
-
-2 [L.S.123.152 (L-ISTAT TA’ IŻRAEL)
 
 ## SKEDA
 
@@ -113,8 +107,6 @@ it-taxxa fuq l-income;
 
 Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalment simili li tiġi imposta wara d-data meta jiġi ffirmat dan il-Ftehim b’żjieda mat-taxxi eżistenti jew minflokhom. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jgћarrfu lil xulxin b’kull tibdil sinifikanti li jkun sar fil-liġijiet dwar it-taxxi tagћhom.
 
-(L-ISTAT TA’ IŻRAEL) [L.S.123.152 3
-
 Artikolu 3
 
 TIFSIRIET ĠENERALI
@@ -155,9 +147,7 @@ Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx 
 
 *\2.*
 
-Dwar l-applikazzjoni tal-Ftehim f’kull waqt minn Stat Kontraenti, kull frażi 4 [L.S.123.152 (L-ISTAT TA’ IŻRAEL)
-
-li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra, it-tifsira mogћtija lilha li jkollha f’dak il-waqt taћt il-liġi ta’ dik l- Istat gћall-finijiet tat-taxxi li dwarhom ikun japplika l-Ftehim, hekk li kull tifsira taħt il-liġijiet tat-taxxa li jkunu japplikaw ta’ dik l-Istat tkun tipprevali fuq tifsira mogћtija lil dik il-frażi taћt liġijiet oћra ta’ dik l-Istat.
+Dwar l-applikazzjoni tal-Ftehim f’kull waqt minn Stat Kontraenti, kull frażi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra, it-tifsira mogћtija lilha li jkollha f’dak il-waqt taћt il-liġi ta’ dik l- Istat gћall-finijiet tat-taxxi li dwarhom ikun japplika l-Ftehim, hekk li kull tifsira taħt il-liġijiet tat-taxxa li jkunu japplikaw ta’ dik l-Istat tkun tipprevali fuq tifsira mogћtija lil dik il-frażi taћt liġijiet oћra ta’ dik l-Istat.
 
 **Artikolu 4**
 
@@ -186,8 +176,6 @@ li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tku
 \2. Il-frażi "stabbiliment permanenti" b’mod speċjali tinkludi:
 
 (a) post ta’ maniġġ;
-
-(L-ISTAT TA’ IŻRAEL) [L.S.123.152 5
 
 (b) fergћa;
 
@@ -233,9 +221,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 **INCOME MINN PROPRJETÀ IMMOBBLI**
 
-\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew mill-ћidma fil-boskijiet) li tkun tinsab 6 [L.S.123.152 (L-ISTAT TA’ IŻRAEL)
-
-fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
+\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew mill-ћidma fil-boskijiet) li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
 
 \2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi tal-Istat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, kull dritt ta’ għażla jew dritt simili li tiġi akkwistata proprjetà immobbli, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, gћejjun u riżorsi oћra naturali; vapuri, bastimenti u inġenji tal-ajru ma gћandhomx jitqiesu bћala proprjetà immobbli.
 
@@ -258,8 +244,6 @@ fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
 \5. Ebda profitti ma gћandhom jiġu attribwiti lil stabbiliment permanenti minћabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija gћall-impriża.
 
 \6. Gћall-gћanijiet tal-paragrafi ta’ qabel, il-profitti li gћandhom jiġu attribwiti lill-istabbiliment permanenti gћandhom jiġu stabbiliti bl-istess metodu sena wara l-oћra kemm-il darba ma jkunx hemm raġuni tajba u suffiċjenti gћaliex dan m’gћandux isir.
-
-(L-ISTAT TA’ IŻRAEL) [L.S.123.152 7
 
 ## 7.
 
@@ -295,9 +279,7 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriż
 
 **TA’ REAL ESTATE**
 
-\1. Id-dividendi mћallsa minn kumpannija li tkun residenti ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor jistgħu jiġu intaxxati f’dak l-Istat l-ieћor. 8 [L.S.123.152 (L-ISTAT TA’ IŻRAEL)
-
-\2. Madankollu, dawk id-dividendi jistgћu jiġu intaxxati ukoll fl-Istat Kontraenti li tiegћu l-kumpannija li qed tћallas id-dividendi tkun residenti u skont il-liġijiet ta’ dak l-Istat, iżda
+\1. Id-dividendi mћallsa minn kumpannija li tkun residenti ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor jistgħu jiġu intaxxati f’dak l-Istat l-ieћor. 2. Madankollu, dawk id-dividendi jistgћu jiġu intaxxati ukoll fl-Istat Kontraenti li tiegћu l-kumpannija li qed tћallas id-dividendi tkun residenti u skont il-liġijiet ta’ dak l-Istat, iżda
 
 (a) meta dividendi jitћallsu minn kumpannija residenti ta’ Iżrael lil residenti ta’ Malta li jkun is-sid benefiċjarju ta’ dawk id-dividendi, it-taxxa ta’ Iżrael li gћandha hekk titћallas m’gћandhiex teċċedi:
 
@@ -317,9 +299,7 @@ Dan il-paragrafu ma gћandux jolqot it-taxxa li tinġabar mill-kumpannija dwar d
 
 \5. Id-dispożizzjonijiet tal-paragrafi 1, 2 u 3 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi jew tat-tqassim minn kumpannija ta’ investiment real estate, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl- Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk u l-holding li dwaru jitћallsu d-dividendi jew it-tqassim jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal- Artikolu 7.
 
-\6. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal- (L-ISTAT TA’ IŻRAEL) [L.S.123.152 9
-
-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma, jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
+\6. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma, jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
 
 **Artikolu 11**
 
@@ -347,9 +327,7 @@ kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk 
 
 ## 7.
 
-Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont tal-imgћax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitћallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss 10 [L.S.123.152 (L-ISTAT TA’ IŻRAEL)
-
-gћall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet għandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
+Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont tal-imgћax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitћallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet għandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
 **Artikolu 12**
 
@@ -375,9 +353,7 @@ gћall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet
 
 (b) qligh li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ ishma f’kumpannija ta’ investiment ta’ real estate kif imfissra fl- Income Tax Ordinance ta’ Iżrael għandhom ikunu taxxabbli f’Iżrael;
 
-(ċ) fil-każ ta’ qligħ miksub minn residenti ta’ Stat Kontraenti mit- (L-ISTAT TA’ IŻRAEL) [L.S.123.152 11
-
-trasferiment ta’ ishma ta’ kumpannija li tkun residenti tal-Istat Kontraenti l-ieħor li jkunu elenkati f’Borża u li kienu ġew akkwistati qabel id-data tar-reġistrazzjoni fil-Borża jista’ jiġi intaxxat fl-Istat Kontraenti l-ieħor skont il-liġi ta’ dak l-Istat.
+(ċ) fil-każ ta’ qligħ miksub minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ ishma ta’ kumpannija li tkun residenti tal-Istat Kontraenti l-ieħor li jkunu elenkati f’Borża u li kienu ġew akkwistati qabel id-data tar-reġistrazzjoni fil-Borża jista’ jiġi intaxxat fl-Istat Kontraenti l-ieħor skont il-liġi ta’ dak l-Istat.
 
 \3. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien mal-impriża kollha) jista’ jiġi intaxxat f’dak Istat l-ieћor.
 
@@ -407,7 +383,7 @@ trasferiment ta’ ishma ta’ kumpannija li tkun residenti tal-Istat Kontraenti
 
 **DRITTIJIET TAD-DIRETTURI**
 
-Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapaċità tiegћu ta’ membru tal-bord tad-diretturi ta’ kumpannija li tkun residenti fl-Istat Kontraenti l-ieћor jistgћu jiġu intaxxati f’dak l-Istat l-ieћor. 12 [L.S.123.152 (L-ISTAT TA’ IŻRAEL)
+Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapaċità tiegћu ta’ membru tal-bord tad-diretturi ta’ kumpannija li tkun residenti fl-Istat Kontraenti l-ieћor jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
 
 **Artikolu 16**
 
@@ -439,9 +415,7 @@ Bla ћsara gћald-dispożizzjonijiet tal-paragrafu 2 tal-Artikolu 18, il-pensjon
 
 \2. (a) Minkejja id-dispożizzjonijiet tal-paragrafu 1, pensjonijiet u kumpens ieħor bħal dak mћallsa minn, jew li jsir minn fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegћu lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandhom jiġu intaxxati biss f’dak l-Istat.
 
-(b) Madankollu, dawk il-pensjonijiet u kumpens simili gћandhom jiġu intaxxati biss fl-Istat Kontraenti l-ieћor jekk l-individwu jkun residenti (L-ISTAT TA’ IŻRAEL) [L.S.123.152 13
-
-ta’ dak l-Istat u ċittadin tiegħu.
+(b) Madankollu, dawk il-pensjonijiet u kumpens simili gћandhom jiġu intaxxati biss fl-Istat Kontraenti l-ieћor jekk l-individwu jkun residenti ta’ dak l-Istat u ċittadin tiegħu.
 
 \3. Id-dispożizzjonijiet tal-Artikoli 14, 15, 16 u 17 gћandhom japplikaw gћal kull salarju, paga u kumpens ieħor bħalhom gћar-rigward ta’ servizzi mogħtijin f’dak li għandu x’jaqsam ma’ kummerċ ġestit minn Stat Kontraenti jew minn sottodiviżjoni politika jew awtorità lokali tiegћu.
 
@@ -468,8 +442,6 @@ ta’ dak l-Istat u ċittadin tiegħu.
 \2. Id-dispożizzjonijiet tal-paragrafu 1 ma gћandhomx japplikaw gћal income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, jekk is-sid benefiċjarju ta’ dak l-income, billi jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun jinsab fih u d-dritt jew il-proprjetà li dwarhom jitћallas l-income ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 għandhom japplikaw.
 
 \3. Meta, minћabba f’relazzjoni speċjali bejn ir-residenti imsemmi fil-paragrafu 1 u xi persuna oћra, jew bejniethom it-tnejn li huma u xi terza persuna l-ammont ta’ income imsemmi f’dak il-paragrafu jkun aktar mill-ammont (jekk hu hekk) li kien ikun miftiehem bejniethom li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-income għandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-dispożizzjonijiet l-oћra applikabbli ta’ dan il-Ftehim.
-
-14 [L.S.123.152 (L-ISTAT TA’ IŻRAEL)
 
 **Artikolu 22**
 
@@ -499,9 +471,7 @@ Bla ħsara għald-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla
 
 \5. L-ebda ħaġa f’dan l-Artikolu ma għandha titqies li tobbliga lil xi wieħed mill-Istati Kontraenti li jikkonċedi lill-individwi li mhumiex residenti ta’ dak l-Istat xi allowances personali, ħelsien u tnaqqis għall-għanijiet ta’ tassazzjoni li jingħataw lill-individwi li jkunu hekk residenti jew liċ-ċittadini tiegħu.
 
-\6. Id-dispożizzjonijiet ta’ dan l-Artikolu għandhom japplikaw għat-taxxi (L-ISTAT TA’ IŻRAEL) [L.S.123.152 15
-
-imsemmija fl-Artikolu 2 ta’ dan il-Ftehim.
+\6. Id-dispożizzjonijiet ta’ dan l-Artikolu għandhom japplikaw għat-taxxi imsemmija fl-Artikolu 2 ta’ dan il-Ftehim.
 
 **Artikolu 24**
 
@@ -525,9 +495,7 @@ imsemmija fl-Artikolu 2 ta’ dan il-Ftehim.
 
 \3. F’ebda każ m’gћandhom id-dispożizzjonijiet tal-paragrafi 1 u 2 jiftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
 
-(a) li jwettaq miżuri amministrattivi li ma jkunux jaqblu mal-liġijiet u mal-prattika amministrattiva ta’ dak l-Istat Kontraenti jew tal-Istat 16 [L.S.123.152 (L-ISTAT TA’ IŻRAEL)
-
-Kontraenti l-ieћor;
+(a) li jwettaq miżuri amministrattivi li ma jkunux jaqblu mal-liġijiet u mal-prattika amministrattiva ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ieћor;
 
 (b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ieћor;
 
@@ -558,8 +526,6 @@ Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-mem
 \1. Kull Stat Kontraenti gћandu javża lill-Istat Kontraenti l-ieħor bil-miktub, permezz ta’ kanali diplomatiċi, li l-proċeduri meћtieġa bil-liġijiet tiegħu biex dan il- Ftehim jinġieb fis-seћћ ikunu ġew imћarsa. Dan il-Ftehim għandu jidħol fis-seħħ fid-data li tiġi l-aħħar ta’ dawn l-avviżi u wara dan ikollu effett:
 
 (a) gћar-rigward ta’ taxxi li jinżammu minn ras-il għajn, dwar ammonti mħallsa fi jew wara l-ewwel jum ta’ Jannar tas-sena kalendarja li taħbat wara s-sena meta il-Ftehim jidħol fis-seħħ;
-
-(L-ISTAT TA’ IŻRAEL) [L.S.123.152 17
 
 (b) gћar-rigward ta’ taxxi oħra, dwar taxxi imposti għall-perjodi li jibdew għaddejjin fi jew wara l-ewwel jum ta’ Jannar tas-sena kalendarja li taћbat wara s-sena meta dan il-Ftehim jidħol fis-seћћ.
 
@@ -595,9 +561,7 @@ Huwa mifhum li l-Ftehim ma għandux iżomm Stat Kontraenti li japplika id-dispo�
 
 Huwa mifhum li biex jipprvaw li jistabbilixxu r-residenza ta’ trust għal ċertu perjodu, l-awtoritajiet kompetenti għandhom jqisu l-fatturi relevanti kollha, inkluż:
 
-(a) l-Istat li fih it-trustees ikunu residenti fiż-żmien meta it-trust jiġi 18 [L.S.123.152 (L-ISTAT TA’ IŻRAEL)
-
-mwaqqaf u fil-perjodu relevanti;
+(a) l-Istat li fih it-trustees ikunu residenti fiż-żmien meta it-trust jiġi mwaqqaf u fil-perjodu relevanti;
 
 (b) il-liġi tal-Istat li tirregola t-twaqqif u l-operazzjoni tat-trust;
 
@@ -636,8 +600,6 @@ Huwa mifhum li jekk l-awtoritajiet kompetenti jippruvaw jaslu fi ftehim permezz 
 B’riferenza għall-paragrafu 1 tal-Artikolu 14 (Income minn Impjieg)
 
 Income minn severance pay mħallsa lil residenti ta’ Stat Kontraenti minħabba xi impjieg li jkun sar qabel fiż-żewġ Stati Kontraenti, għandu jiġi intaxxat f’kull Stat Kontraenti skont il-perjodu tal-impjieg f’dak l-Istat.
-
-(L-ISTAT TA’ IŻRAEL) [L.S.123.152 19
 
 MAGĦMUL f’duplikat f’Ġerusalem fit-28 jum ta’ Lulju 2011, li jikkorispondi għas-26 jum ta’ Tammuz, 5771, tal-Kalendarju Ebrajk, bl-ilsien Ingliż u Ebrajk, kull wieћed miż-żewġ testi awtentiċi ndaqs. F’każ ta’ diverġenza tad-dispożizzjonijiet tal-Protokoll, it-test Ingliż għandu jipprevali.
 

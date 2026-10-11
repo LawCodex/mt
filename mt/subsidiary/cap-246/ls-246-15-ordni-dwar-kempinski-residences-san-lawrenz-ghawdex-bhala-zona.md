@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Kempinski Residences, San Lawrenz, Għawdex, bħala Żona Speċjali Msemmija (S.L. 246.15)
 
-*1*
-
-G}AWDEX, B}ALA |ONA SPE~JALI MSEMMIJA [L.S.246.15
-
 **LE{ISLAZZJONI SUSSIDJARJA 246.15**
 
 **ORDNI DWAR KEMPINSKI RESIDENCES,**

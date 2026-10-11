@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ħruġ u Validità ta' Karti tal-Identità"
-identifier: "S.L. 258.1"
+identifier: "S.L. 258.01"
 eli: "https://legislation.mt/eli/sl/258.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/258.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ħruġ u Validità ta' Karti tal-Identità (S.L. 258.1)
+# Regolamenti dwar il-Ħruġ u Validità ta' Karti tal-Identità (S.L. 258.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 258.01**
 

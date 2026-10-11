@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Rebate ta’ Taxxa fuq Kirjiet Residenzjali Privati (S.L. 123.201)
 
-*1*
-
-RESIDENZJALI PRIVATI [L.S.123.201 LEĠISLAZZJONI SUSSIDJARJA 123.201
+**LEĠISLAZZJONI SUSSIDJARJA 123.201**
 
 **REGOLI DWAR REBATE TA’ TAXXA FUQ KIRJIET**
 
@@ -73,11 +71,7 @@ Tnejn €400
 
 Tlieta jew iktar €500
 
-(3) Dwar is-sena li fiha tibda jew tiġi terminata kirja, ir-rebate muri fl-aħħar kolonna tat-tabella ta’ hawn fuq għandu jiġi ridott [L.S. 123.201 RESIDENZJALI PRIVATI
-
-*2*
-
-pro rata għan-numru ta’ ġranet li għalihom il-kirja tkun fis-seħħ għal dik is-sena.
+(3) Dwar is-sena li fiha tibda jew tiġi terminata kirja, ir-rebate muri fl-aħħar kolonna tat-tabella ta’ hawn fuq għandu jiġi ridott pro rata għan-numru ta’ ġranet li għalihom il-kirja tkun fis-seħħ għal dik is-sena.
 
 (4) Ir-rebate għal kull sena (1) dwar kirja ma jistax ikun iktar minn ħmistax fil-mija (15%) tal-kera derivat minn dik il-kirja f’dik is-sena.
 

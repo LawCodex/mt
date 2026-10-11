@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Limiti ta’ Responsabbiltà"
-identifier: "S.L. 104.5"
+identifier: "S.L. 104.05"
 eli: "https://legislation.mt/eli/sl/104.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/104.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Limiti ta’ Responsabbiltà (S.L. 104.5)
+# Regolamenti dwar Limiti ta’ Responsabbiltà (S.L. 104.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 104.05**
 

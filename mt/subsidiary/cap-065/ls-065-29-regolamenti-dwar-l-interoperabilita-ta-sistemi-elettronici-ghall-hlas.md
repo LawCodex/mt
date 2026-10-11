@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Interoperabilità ta' Sistemi Elettroniċi għall-Ħlas ta' Taxxi għall-Użu ta' Toroq (S.L. 65.29)
 
-*1*
-
-GĦALL-ĦLAS TA’ TAXXI GĦALL-UŻU TA’ TOROQ [L.S.65.29
-
 **LEĠISLAZZJONI SUSSIDJARJA 65.29**
 
 REGOLAMENTI DWAR L-INTEROPERABILITÀ TA’ SISTEMI ELETTRONIĊI GĦALL-ĦLAS
@@ -92,11 +88,7 @@ L.S.65.29] GĦALL-ĦLAS TA’ TAXXI GĦALL-UŻU TA’ TOROQ
 
 *Miżjud: A.L. 54 tal-2023.*
 
-(1) L-Awtorità tista’ tipprovdi lill-entità responsabbli mill-ġbir tat-tariffa tat-triq id-data miksuba permezz tal-proċedura msemmija fir-regolament 3 unikament jekk jiġu ssodisfati l- GĦALL-ĦLAS TA’ TAXXI GĦALL-UŻU TA’ TOROQ [L.S.65.29
-
-kundizzjonijiet li ġejjin:
-
-*3*
+(1) L-Awtorità tista’ tipprovdi lill-entità responsabbli mill-ġbir tat-tariffa tat-triq id-data miksuba permezz tal-proċedura msemmija fir-regolament 3 unikament jekk jiġu ssodisfati l-kundizzjonijiet li ġejjin:
 
 (a) id-data trasferita tkun limitata għal dak li jkun meħtieġ minn dik l-entità sabiex tikseb it-tariffa tat-triq dovuta;
 
@@ -143,8 +135,6 @@ tariffa tat-triq fi Stat Membru ieħor fis-sens tal-iskop tar-regolament 3.
 *Miżjud: A.L. 54 tal-2023.*
 
 Id-dispożizzjonijiet tad-Direttiva għandhom japplikaw kemm-il darba tiġi stabbilita sistema elettronika ta’ taxxi għal kwalunkwe triq f’Malta.
-
-GĦALL-ĦLAS TA’ TAXXI GĦALL-UŻU TA’ TOROQ [L.S.65.29 5
 
 Sostitwita: L-EWWEL SKEDA
 
@@ -256,9 +246,7 @@ Entità legali M Individwu, assoċjazzjoni, kumpanija, ditta, eċċ.
 
 Post tat-twelid F
 
-Numru tal-karta tal-identità F Identifikatur li jidentifika b'mod uniku lill-persuna jew lill-kumpanija. GĦALL-ĦLAS TA’ TAXXI GĦALL-UŻU TA’ TOROQ [L.S.65.29 7
-
-Data relatata mas-sidien tal- (C.2) Id-data tirreferi għas-sid tal-vettura vettura.
+Numru tal-karta tal-identità F Identifikatur li jidentifika b'mod uniku lill-persuna jew lill-kumpanija. Data relatata mas-sidien tal- (C.2) Id-data tirreferi għas-sid tal-vettura vettura.
 
 L-isem tas-sid (tal-kumpanija) M (C.2.1)
 
@@ -326,7 +314,7 @@ L-ammont tat-tariffa tat-triq li jrid jitħallas hu ta’ ......................
 
 L-iskadenza għall-ħlas hi ...............................................
 
-GĦALL-ĦLAS TA’ TAXXI GĦALL-UŻU TA’ TOROQ [L.S.65.29 9 Jekk ma tħallasx din il-penali finanzjarja (1) jew tariffa tat-triq, int imħeġġeġ timla’ l-formola tat-tweġiba mehmuża (paġna 4) u tibgħatha fl-indirizz indikat.(1)
+Jekk ma tħallasx din il-penali finanzjarja (1) jew tariffa tat-triq, int imħeġġeġ timla’ l-formola tat-tweġiba mehmuża (paġna 4) u tibgħatha fl-indirizz indikat.(1)
 
 Din l-ittra għandha tiġi pproċessata skont il-liġi nazzjonali ta’………………………………..[isem l-Istat Membru li fit-territorju tiegħu kien hemm nuqqas ta' ħlas tat-tariffa tat-triq].
 
@@ -401,8 +389,6 @@ B. Lista ta’ mistoqsijiet:
 Jekk le, id-detentur taċ-ċertifikat tar-reġistrazzjoni huwa/hija: ........................................................................................................................................... .....(kunjom, isem, indirizz)
 
 \2. Tammetti li ma ħallastx tariffa tat-triq? iva jew le (1)
-
-GĦALL-ĦLAS TA’ TAXXI GĦALL-UŻU TA’ TOROQ [L.S.65.29 11
 
 \3. Jekk dan ma tammettihx, jekk jogħġbok agħti r-raġunijiet tiegħek: ........................................................................................................................................... ...........................................................................................................................................
 

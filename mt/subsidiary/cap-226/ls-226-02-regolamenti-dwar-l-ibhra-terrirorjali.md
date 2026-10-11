@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Ibħra Terrirorjali"
-identifier: "S.L. 226.2"
+identifier: "S.L. 226.02"
 eli: "https://legislation.mt/eli/sl/226.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/226.2/20150827/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Ibħra Terrirorjali (S.L. 226.2)
+# Regolamenti dwar l-Ibħra Terrirorjali (S.L. 226.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 226.02**
 

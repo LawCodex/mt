@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Drittijiet għall-Karti ta' l-Għaddasa"
-identifier: "S.L. 35.8"
+identifier: "S.L. 35.08"
 eli: "https://legislation.mt/eli/sl/35.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/35.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Drittijiet għall-Karti ta' l-Għaddasa (S.L. 35.8)
-
-DRITTIJIET G}ALL-KARTI
-
-*1*
-
-TA’ L-G}ADDASA [L.S.35.08
+# Regolamenti dwar id-Drittijiet għall-Karti ta' l-Għaddasa (S.L. 35.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 35.08**
 

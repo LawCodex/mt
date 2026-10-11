@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru għall-Finanzi għall-Ħruġ ta’ €2,404,400 7% Stock tal-Gvern ta’ Malta 2023 (II) (S.L. 161.95)
 
-*1*
-
-7% STOCK TAL-GVERN TA’ MALTA 2023 (II) [L.S.161.95
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.95**
 
 DIRETTIVE MILL-MINISTRU GĦALL-FINANZI GĦALL-ĦRUĠ TA’ €2,404,400 7% STOCK
@@ -48,10 +44,6 @@ L-iStock li hu negozzjabli u ħieles mit-taxxa fuq id-dokumenti, għandu jinħar
 (2) Il-ħlas tal-imgħax għandu jsir b’warrant, li jintbagħat bil-posta għand l-istockholder innifsu għar-riskju tiegħu jew f’xi fergħa ta’ bank lokali, għand persuna jew korp ta’ persuni li lilhom l- istockholder ikun, b’talba bil-miktub, awtorizza lill-Accountant General biex joħroġ il-warrant. L-ebda warrant m’għandu jitħallas sakemm ma tkunx iffirmata irċevuta relattiva u tali irċevuta għandha tkun prova ta’ ħlas favur l-Accountant General u l-Gvern.
 
 (3) F’każijiet li l-iStock ikun reġistrat f’ismijiet ta’ żewġ persuni jew aktar bħala stockholders aġġunti, l-Accountant General jista’ jagħmel il-ħlas bil-mod indikat aktar qabel lil dik il-persuna li isimha jkun jidher l-ewwel fuq ir-reġistru. Irċevuta ta’ ħlas ta’ mgħax mogħtija minn wieħed jew tnejn jew aktar stockholders aġġunti għandha, sakemm ma jkunx hemm avviż kuntrarju li jingħata lill- Accountant General minn xi stockholder ieħor aġġunt, tkun prova ta’ ħlas tal-imgħax favur l-Accountant General u l- Gvern.
-
-*2*
-
-[L.S.161.95 7% STOCK TAL-GVERN TA’ MALTA 2023 (II)
 
 ## 5. Negozjar fil-Borża ta’ Malta. Kap. 345.
 

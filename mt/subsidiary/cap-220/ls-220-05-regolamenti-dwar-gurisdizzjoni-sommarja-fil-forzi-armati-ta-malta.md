@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Ġurisdizzjoni Sommarja fil-Forzi Armati ta Malta"
-identifier: "S.L. 220.5"
+identifier: "S.L. 220.05"
 eli: "https://legislation.mt/eli/sl/220.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/220.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Ġurisdizzjoni Sommarja fil-Forzi Armati ta Malta (S.L. 220.5)
-
-*1*
-
-FIL-FORZI ARMATI TA’ MALTA [L.S.220.05
+# Regolamenti dwar Ġurisdizzjoni Sommarja fil-Forzi Armati ta Malta (S.L. 220.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 220.05**
 
@@ -97,11 +93,7 @@ Uffi`jal li [ie delegat mill-uffi`jal kmandant tieg]u skond ir-regolament 6(1) b
 
 ## 8. Uffi`jal kmandant ta’ persuna `ivili.
 
-L-uffi`jal kmandant ta’ persuna `ivili akku\\ata b’reat u li FIL-FORZI ARMATI TA’ MALTA [L.S.220.05
-
-g]aliha japplikaw it-Taqsimiet III u IV ta’ l-Att bis-sa]]a ta’ l-artikolu 179 tieg]u huwa dak l-uffi`jal, mhux ta]t ir-rank ta’ tenent kurunell, kif jista’ ji[i nominat g]al hekk mill-uffi`jal, mhux ta]t ir-rank ta’ kurunell, li jkollu l-kmand tal-korp ta’ truppi li mieg]u l-persuna `ivili tkun f ’dak i\\-\\mien jew tal-kmand jew area, garrison jew post ie]or li fih, il-persuna `ivili tkun f’dak i\\-\\mien.
-
-*3*
+L-uffi`jal kmandant ta’ persuna `ivili akku\\ata b’reat u li g]aliha japplikaw it-Taqsimiet III u IV ta’ l-Att bis-sa]]a ta’ l-artikolu 179 tieg]u huwa dak l-uffi`jal, mhux ta]t ir-rank ta’ tenent kurunell, kif jista’ ji[i nominat g]al hekk mill-uffi`jal, mhux ta]t ir-rank ta’ kurunell, li jkollu l-kmand tal-korp ta’ truppi li mieg]u l-persuna `ivili tkun f ’dak i\\-\\mien jew tal-kmand jew area, garrison jew post ie]or li fih, il-persuna `ivili tkun f’dak i\\-\\mien.
 
 ## 9. Akku\\i li uffi`jal kmandant jista’ jittratta sommarjament.
 
@@ -184,10 +176,6 @@ Awtorità superjuri xierqa tista’ tittratta sommarjament akku\\a kontra uffi`i
 *Emendat: A.L. 104 ta’ l- 1970.*
 
 (1) Bla ]sara tas-subregolamenti (2) u (3), kull uffi`jal li jkun awtorizzat bl-artikolu 88(2) ta’ l-Att jew bir-regolament 15 biex jag]milha ta’ awtorità superjuri xierqa dwar uffi`jal jew warrant officer jista’ jag]milha ta’ awtorità superjuri xierqa dwar persuna `ivili li tkun akku\\ata b’reat u li tkun su[[etta g]at- Taqsimiet III u IV ta’ l-Att jew skond l-artikolu 179(1) jew (2) ta’ l-Att.
-
-*5*
-
-FIL-FORZI ARMATI TA’ MALTA [L.S.220.05
 
 (2) Fil-ka\\ ta’ persuna `ivili li tkun su[[etta g]at-Taqsimiet III u IV ta’ l-Att skond l-artikolu 179(1) tieg]u awtorità superjuri xierqa tista’ tittratta sommarjament akku\\a skond kull wie]ed mill-artikoli ta’ l-Att li [ejjin: 38(3); 42; 43(`); 46; 47; 48; 49; 51; 52;
 

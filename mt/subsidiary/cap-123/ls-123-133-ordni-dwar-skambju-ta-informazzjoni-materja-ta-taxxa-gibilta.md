@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Skambju ta’ Informazzjoni (Materja ta’ Taxxa) (Ġibiltà) (S.L. 123.133)
 
-*1*
-
-(MATERJA TA’ TAXXA) (ĠIBILTÀ) [L.S.123.133
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.133**
 
 ORDNI DWAR SKAMBJU TA’ INFORMAZZJONI
@@ -42,8 +38,6 @@ B’dan qiegћed jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseћћ fl-1 ta’ April 2012.
-
-2 [L.S.123.133 (MATERJA TA’ TAXXA) (ĠIBILTÀ)
 
 ## SKEDA
 
@@ -93,9 +87,7 @@ Dan il-Ftehim għandu jkun japplika għal kull taxxa ta’ kull xorta u deskrizz
 
 ## 2.
 
-Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa identika imposta wara d-data meta jiġi ffirmat il-Ftehim b’żieda ma’ jew minflok it-taxxi eżistenti. Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa sostanzjalment bħal dawk (MATERJA TA’ TAXXA) (ĠIBILTÀ) [L.S.123.133 3
-
-imposti wara d-data meta jiġi ffirmat il-Ftehim b’żieda ma’ jew minflok it-taxxi eżistenti jekk il-Partijiet ikunu hekk jaqblu. L-awtorità kompetenti ta’ kull Parti għandha tavża lill-oħra b’kull bidla sostanzjali fil-liġijiet li jistgħu jolqtu l-obbligazzjonijiet ta’ dik il-Parti konformement ma’ dan il-Ftehim.
+Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa identika imposta wara d-data meta jiġi ffirmat il-Ftehim b’żieda ma’ jew minflok it-taxxi eżistenti. Dan il-Ftehim għandu jkun japplika wkoll għal kull taxxa sostanzjalment bħal dawk imposti wara d-data meta jiġi ffirmat il-Ftehim b’żieda ma’ jew minflok it-taxxi eżistenti jekk il-Partijiet ikunu hekk jaqblu. L-awtorità kompetenti ta’ kull Parti għandha tavża lill-oħra b’kull bidla sostanzjali fil-liġijiet li jistgħu jolqtu l-obbligazzjonijiet ta’ dik il-Parti konformement ma’ dan il-Ftehim.
 
 **Artikolu 4**
 
@@ -125,9 +117,7 @@ imposti wara d-data meta jiġi ffirmat il-Ftehim b’żieda ma’ jew minflok it
 
 "kumpannija li tkun tidher fil-borża" tfisser kumpannija li jkollha l-klassi ta’ ishma ewlenija tagħha elenkata f’borża rikonoxxuta sakemm l-ishma elenkati tagħha jkunu jistgħu jinxtraw jew jinbiegħu minnufih mill-pubbliku. Ishma jistgħu jinxtraw jew jinbiegħu "mill-pubbliku" jekk ix-xiri jew il-bejgħ ta’ ishma ma jkunx impliċitament jew espliċitament ristrett għal xi grupp limitat ta’ investituri;
 
-"fond jew skema ta’ investiment kollettiv" tfisser kull vettura ta’ investiment miġmugħ, irrispettivament mill-forma legali tiegħu. "Fond 4 [L.S.123.133 (MATERJA TA’ TAXXA) (ĠIBILTÀ)
-
-jew skema pubbliċi ta’ investiment kollettiv" tfisser kull fond jew skema ta’ investiment kollettiv sakemm l-unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà mill-pubbliku. Unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà "mill-pubbliku" jekk ix-xiri, il-bejgħ jew il-fidwa ma jkunux impliċitament jew espliċitament ristretti għal grupp ta’ investituri limitat;
+"fond jew skema ta’ investiment kollettiv" tfisser kull vettura ta’ investiment miġmugħ, irrispettivament mill-forma legali tiegħu. "Fond jew skema pubbliċi ta’ investiment kollettiv" tfisser kull fond jew skema ta’ investiment kollettiv sakemm l-unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà mill-pubbliku. Unitajiet, ishma jew interessi oħra fil-fond jew fl-iskema jistgħu jinxtraw, jinbiegħu jew jinfdew mingħajr ebda diffikultà "mill-pubbliku" jekk ix-xiri, il-bejgħ jew il-fidwa ma jkunux impliċitament jew espliċitament ristretti għal grupp ta’ investituri limitat;
 
 "Parti mitluba" tfisser il-Parti f’dan il-Ftehim li tiġi mitluba tipprovdi jew li tkun ipprovdiet informazzjoni b’risposta għal talba;
 
@@ -160,8 +150,6 @@ Kull Parti għandha tiżgura li l-awtoritajiet kompetenti tagħha, għall-finiji
 (a) informazzjoni miżmuma mill-banek, istituzzjonijiet finanzjarji oħra, u minn kull persuna, inklużi nominees u trustees, li tkun tiffunzjona f’aġenzija jew f’xi kapaċità fiduċjarja;
 
 (b) (i) informazzjoni li jkollha x’taqqsam mal-proprjetà ta’ kumpanniji, soċjetajiet u persuni oħra inklużi, fil-limiti tal-Artikolu 2, informazzjoni dwar il-proprjetà fuq dawk il-persuni kollha f’katina ta’ proprjetà;
-
-(MATERJA TA’ TAXXA) (ĠIBILTÀ) [L.S.123.133 5
 
 (ii) fil-każ ta’ trusts, informazzjoni fuq settlors, trustees, protetturi u benefiċjarji u, fil-każ ta’ fondazzjonijiet, informazzjoni fuq il-fundaturi, membri tal-kunsill tal-fondazzjoni u benefiċjarji.
 
@@ -197,9 +185,7 @@ L-awtorità kompetenti tal-Parti mitluba għandha tikkonferma li tkun irċeviet 
 
 \2. Fuq talba tal-awtorità kompetenti tal-Parti li titlob, l-awtorità kompetenti tal-Parti mitluba tista’ tippermetti lil rappreżentanti tal-awtorità kompetenti tal-Parti li titlob li tkun preżenti għal eżami tat-taxxa fit-territorju tal-Parti mitluba.
 
-\3. Jekk it-talba msemmija fil-paragrafu 2 tintlaqa’, l-awtorità kompetenti tal- 6 [L.S.123.133 (MATERJA TA’ TAXXA) (ĠIBILTÀ)
-
-Parti mitluba li tkun qegħda tmexxi l-eżami għandha, kemm jista’ jkun malajr, tavża lill-awtorità kompetenti tal-Parti li titlob bid-data u l-post tal-eżami, liema tkun l-awtorità jew min ikun l-uffiċjal appuntat biex jagħmel l-eżami u l-proċeduri u l-kundizzjonijiet meħtieġa mill-Parti mitluba biex tmexxi l-eżami. Kull deċiżjoni li jkollha x’taqsam mat-tmexxija tal-eżami tat-taxxa għandha ssir mill-Parti mitluba li tkun qegħda tmexxi l-eżami.
+\3. Jekk it-talba msemmija fil-paragrafu 2 tintlaqa’, l-awtorità kompetenti tal- Parti mitluba li tkun qegħda tmexxi l-eżami għandha, kemm jista’ jkun malajr, tavża lill-awtorità kompetenti tal-Parti li titlob bid-data u l-post tal-eżami, liema tkun l-awtorità jew min ikun l-uffiċjal appuntat biex jagħmel l-eżami u l-proċeduri u l-kundizzjonijiet meħtieġa mill-Parti mitluba biex tmexxi l-eżami. Kull deċiżjoni li jkollha x’taqsam mat-tmexxija tal-eżami tat-taxxa għandha ssir mill-Parti mitluba li tkun qegħda tmexxi l-eżami.
 
 **Artikolu 7**
 
@@ -228,8 +214,6 @@ Il-Parti mitluba tista’ tirrofta talba għal informazzjoni jekk l-informazzjon
 **Kunfidenzjalità**
 
 Kull informazzjoni li tiġi riċevuta mill-awtoritajiet kompetenti ta’ xi Parti għandha tiġi ttrattata bħala kunfidenzjali u tista’ tiġi biss żvelata lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) fil-ġurisdizzjoni tal-Parti li jkollha x’taqsam mal-istima jew il-kollezzjoni, infurzar jew prosekuzzjoni ta’ jew id-deċiżjoni ta’ appelli dwar, it-taxxi koperti b’dan il-Ftehim. Dawk il-persuni jew awtoritajiet għandhom jużaw dik l-informazzjoni għal dawk il-finijiet biss. Jistgħu jiżvelaw l-informazzjoni fi proċedimenti tal-qorti pubbliċi jew f’deċiżjonijiet ġudizzjarji. L-informazzjoni ma tistax tiġi żvelata lil xi persuna jew entità jew awtorità oħra jew lil xi ġurisdizzjoni oħra mingħajr il-kunsens espress mogħti bil-miktub tal-Parti mitluba.
-
-(MATERJA TA’ TAXXA) (ĠIBILTÀ) [L.S.123.133 7
 
 **Artikolu 9**
 
@@ -269,9 +253,7 @@ Dan il-Ftehim għandu jibda jseħħ fl-ewwel jum tat-tieni xahar wara li tiġi r
 
 \2. Parti waħda jew l-oħra tista’ ttemm dan il-Ftehim billi tagħti avviż ta’ terminazzjoni bil-miktub. Dik it-terminazzjoni ssir effettiva fl-ewwel jum tax-xahar li jaħbat wara li jiskadi perjodu ta’ tliet xhur wara d-data meta jiġi riċevut l-avviż ta’ terminazzjoni mill-Parti l-oħra.
 
-\3. Jekk il-Ftehim jiġi terminat il-Partijiet għandhom jibqgħu marbutin bil-provvedimenti tal-Artikolu 8 dwar kull informazzjoni miksuba taħt dan il-Ftehim. 8 [L.S.123.133 (MATERJA TA’ TAXXA) (ĠIBILTÀ)
-
-B’XIEHDA TA’ DAN il-persuni hawn taħt iffirmati kif debitament awtorizzati għaldaqstant mill-Partijiet rispettivi, iffirmaw dan il-Ftehim.
+\3. Jekk il-Ftehim jiġi terminat il-Partijiet għandhom jibqgħu marbutin bil-provvedimenti tal-Artikolu 8 dwar kull informazzjoni miksuba taħt dan il-Ftehim. B’XIEHDA TA’ DAN il-persuni hawn taħt iffirmati kif debitament awtorizzati għaldaqstant mill-Partijiet rispettivi, iffirmaw dan il-Ftehim.
 
 MAGĦMUL f’Londra fl-24 ta’ Jannar, 2012.
 

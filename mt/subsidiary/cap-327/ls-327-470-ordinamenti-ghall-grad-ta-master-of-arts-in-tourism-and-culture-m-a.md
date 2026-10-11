@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Arts in Tourism and Culture – M.A. – taħt il-patroċinju tal-Bord tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.470)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA,
-
-*1*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.470
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.470**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -68,11 +62,7 @@ Il-kors huwa miftuħ għall-applikanti li għandhom:
 
 (a) grad ta’ Bachelor minn din l-Università, jew minn università rikonoxxuta oħra, miksub tal-anqas fit-Tieni Klassi bl-Unuri jew f’Kategorija II fl-Istudji tat- Turiżmu jew f’oqsma oħra relatati meqjusa xierqa mill-Bord; jew
 
-(b) grad ta’ Bachelor minn din l-Università, jew minn università rikonoxxuta oħra, miksub fit-Tielet Klassi bl-Unuri jew f’Kategorija III fl-Istudji tat-Turiżmu jew f’oqsma relatati meqjusa xierqa mill-Bord, sakemm ikunu kisbu kwalifiki oħra, inkluża esperjenza TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA, [L.S.327.470 IL-MANAGEMENT U L-ACCOUNTANCY
-
-rilevanti, wara l-grad tal-ewwel ċiklu tagħhom.
-
-*2*
+(b) grad ta’ Bachelor minn din l-Università, jew minn università rikonoxxuta oħra, miksub fit-Tielet Klassi bl-Unuri jew f’Kategorija III fl-Istudji tat-Turiżmu jew f’oqsma relatati meqjusa xierqa mill-Bord, sakemm ikunu kisbu kwalifiki oħra, inkluża esperjenza rilevanti, wara l-grad tal-ewwel ċiklu tagħhom.
 
 ## 4. Tul tal-kors.
 
@@ -116,10 +106,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandhom ikunu bbażati fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA,
+## 11. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Renumerat: A.L. 99 tal-2024.
 
-*3*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.470 11. Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time tal-kors.
-
-*Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Renumerat: A.L. 99 tal-2024.*
+Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time tal-kors.

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Forma ta' l-Ittra Uffiċjali għall-finijiet ta' l-artikolu 166A(2) tal-Kodiċi ta' Organizzazzjoni u Proċeduri Ċivili (S.L. 12.22)
 
-FORMA TA’ L-ITTRA UFFI~JALI G}ALL-FINIJIET
-
-TA’ L-ARTIKOLU 166A(2) TAL-KODI~I
-
-*1*
-
-TA’ ORGANIZZAZZJONI U PRO~EDURA ~IVILI [S.L.12.22
-
 **LE{ISLAZZJONI SUSSIDJARJA 12.22**
 
 **REGOLAMENTI DWAR IL-FORMA TA’**

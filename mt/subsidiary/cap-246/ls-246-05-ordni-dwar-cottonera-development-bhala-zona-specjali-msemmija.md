@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Cottonera Development bħala Żona Speċjali Msemmija"
-identifier: "S.L. 246.5"
+identifier: "S.L. 246.05"
 eli: "https://legislation.mt/eli/sl/246.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/246.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Cottonera Development bħala Żona Speċjali Msemmija (S.L. 246.5)
-
-*1*
-
-|ONA SPE~JALI IMSEMMIJA [L.S.246.05
+# Ordni dwar Cottonera Development bħala Żona Speċjali Msemmija (S.L. 246.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 246.05**
 
@@ -83,8 +79,6 @@ b]alma jg]oddu dwar l-azzjonisti ori[inali kif preskritt ta]t dan l- Ordni. Dak 
 
 Id-drittijiet li jit]allsu ta]t dan l-Ordni ]uma ta’ €232.94 g]al kull unit akkwistat minn persuna mhux residenti msemmija fl-artikolu 3(1).
 
-|ONA SPE~JALI IMSEMMIJA [L.S.246.05 3
-
 SKEDA
 
 (Artikolu 5)
@@ -148,8 +142,6 @@ APPLIKAZZJONI LILL-MINISTRU RESPONSABBLI G}ALL-FINANZI MINN INDIVIDWU SABIEX JAK
 **Regolamenti dwar Tismija ta’ |oni Spe`jali dwar Proprjetà Immobbli.**
 
 **Ordni dwar Cottonera Development b]ala |ona Spe`jali Msemmija**
-
-|ONA SPE~JALI IMSEMMIJA [L.S.246.05 5
 
 TAQSIMA I
 

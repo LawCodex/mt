@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estensjoni tas-Sigurtà Soċjali"
-identifier: "S.L. 318.7"
+identifier: "S.L. 318.07"
 eli: "https://legislation.mt/eli/sl/318.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/318.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estensjoni tas-Sigurtà Soċjali (S.L. 318.7)
+# Ordni dwar l-Estensjoni tas-Sigurtà Soċjali (S.L. 318.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 318.07**
 

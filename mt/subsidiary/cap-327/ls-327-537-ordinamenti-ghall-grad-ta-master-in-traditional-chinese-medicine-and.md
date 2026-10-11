@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Traditional Chinese Medicine and Culture – M. TCM – taħt il-patroċinju taċ-Ċentru tal-Mediċina Ċiniza Tradizzjonali (S.L. 327.537)
 
-CINE AND CULTURE - M. TCM - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAĊ-ĊENTRU TAL-MEDIĊINA ĊINIŻA TRADIZZJONALI [L.S.327.537
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.537**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER IN**
@@ -67,10 +61,6 @@ Dawn l-ordinamenti għandhom japplikaw f’Ottubru 2019 jew wara.
 
 (2) L-applikanti li m’għandhomx grad tal-ewwel ċiklu fi professjonijiet tal-kura tas-saħħa iżda li għandhom kwalifiki oħra fil- Mediċina Ċiniża Tradizzjonali ta’ livell aċċettabbli mill-Bord tad-Dħul tal-Università u suffiċjenti biex jikkwalifikaw għar-reġistrazzjoni bħala prattikanti tal-Mediċina Ċiniża Tradizzjonali (jew akupunturisti) ma’ korp ta’ reġistrazzjoni nazzjonali (il-Kunsill għal Professjonijiet Kumplimentari għall-Mediċina jew korp ekwivalenti tal-Unjoni Ewropea) għandhom ikunu kkunsidrati wkoll.
 
-*2*
-
-CINE AND CULTURE - M. TCM - TAĦT IL-PATROĊINJU [L.S.327.537 TAĊ-ĊENTRU TAL-MEDIĊINA ĊINIŻA TRADIZZJONALI
-
 (3) L-applikanti li m’għandhomx grad tal-ewwel ċiklu iżda li għandhom kwalifiki jew esperjenza f’qasam tal-kura tas-saħħa jiġu kkunsidrati wkoll. Dawn l-applikanti jiġu msejħa għall-intervista biex jiġi determinat jekk ikunux jistgħu jsegwu l-kors bi profitt.
 
 (4) Il-bord għall-intervisti maħtur mill-Bord għandu jkun magħmul minn tal-anqas minn tliet membri.
@@ -112,12 +102,6 @@ Il-Kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 ## 8. Superviżur.
 
 (1) L-istudenti jkunu meħtieġa jżommu kuntatt regolari mas-superviżur tagħhom.
-
-CINE AND CULTURE - M. TCM - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAĊ-ĊENTRU TAL-MEDIĊINA ĊINIŻA TRADIZZJONALI [L.S.327.537
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord tal-Istudji rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

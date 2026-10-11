@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti ta’ Master in Creativity and Innovation taħt il-patroċinju tal-Istitut Edward de Bono għall-Ħsieb Kreattiv u l-Innovazzjoni (S.L. 327.86)
 
-PATROĊINJU TAL-ISTITUT EDWARD DE BONO GĦALL-
-
-*1*
-
-ĦSIEB KREATTIV U L-INNOVAZZJONI [L.S.327.86
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.86**
 
 *Sostitwit: A.L. 131 tal-2023.*
@@ -72,10 +66,6 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 
 L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spi``aw b’su``ess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
-*2*
-
-PATROĊINJU TAL-ISTITUT EDWARD DE BONO GĦALL- [L.S.327.86 ĦSIEB KREATTIV U L-INNOVAZZJONI
-
 ## 7. Pubblikazzoni tal-programm ta’ studju.
 
 Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
@@ -112,10 +102,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
 
-PATROĊINJU TAL-ISTITUT EDWARD DE BONO GĦALL-
+## 12. Disposizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Enumerat: A.L. 131 tal-2023.
 
-*3*
-
-ĦSIEB KREATTIV U L-INNOVAZZJONI [L.S.327.86 12. Id-disposizzjonijiet ta’ l-ordinamenti pre`edenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala ne`essarji minħabba fin-natura part-time tal-kors.
-
-*Disposizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Enumerat: A.L. 131 tal-2023.*
+Id-disposizzjonijiet ta’ l-ordinamenti pre`edenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala ne`essarji minħabba fin-natura part-time tal-kors.

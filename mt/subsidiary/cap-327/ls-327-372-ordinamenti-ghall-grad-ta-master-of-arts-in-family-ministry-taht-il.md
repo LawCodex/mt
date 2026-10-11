@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Family Ministry taħt il-patroċinju tal-Fakultà tal-Teoloġija (S.L. 327.372)
 
-*1*
-
-TA}T IL-PATRO¬INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.372
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.372**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER OF**
@@ -113,11 +109,7 @@ Il-programm ta’ studju g]andu jkun ippubblikat wara l-approvazzjoni tas-Senat,
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 15,000 – 20,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
-(2) Ix-xog]ol fuq id-dissertazzjoni g]andu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat supervi\\ur li g]andu TA}T IL-PATRO¬INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.372
-
-jipprovdi gwida u pariri fuq ba\\i regolari waqt il-perijodu ta’ studju.
-
-*3*
+(2) Ix-xog]ol fuq id-dissertazzjoni g]andu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat supervi\\ur li g]andu jipprovdi gwida u pariri fuq ba\\i regolari waqt il-perijodu ta’ studju.
 
 (3) It-titlu provvi\\orju tad-dissertazzjoni u l-proposta ta’ ri`erka dettaljata g]andhom ikunu mressqa g]all-approvazzjoni tal- Bord mhux aktar tard mit-tmiem tat-tieni semestru.
 

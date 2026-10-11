@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni tal-2012 dwar Vista Point, Marsalforn, Għawdex, bħala Żona Speċjali Msemmija (S.L. 246.19)
 
-*1*
-
-BĦALA ŻONA SPEĊJALI MSEMMIJA [L.S.246.19
-
 **LEĠISLAZZJONI SUSSIDJARJA 246.19**
 
 **ORDNI DWAR VISTA POINT, MARSALFORN,**
@@ -37,8 +33,4 @@ Vista Point, Marsalforn, Għawdex li tikkonsisti fi proprjetà immobbli sitwata 
 
 ## 3. Żjieda mal- Ewwel Skeda li tinsab mal-Att. Kap. 246.
 
-Vista Point, Marsalforn, Għawdex għandha tiżdied mal- Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l- Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti. [L.S.246.19 BĦALA ŻONA SPEĊJALI MSEMMIJA BĦALA ŻONA SPEĊJALI MSEMMIJA [L.S.246.19
-
-*2*
-
-*3*
+Vista Point, Marsalforn, Għawdex għandha tiżdied mal- Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l- Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti.

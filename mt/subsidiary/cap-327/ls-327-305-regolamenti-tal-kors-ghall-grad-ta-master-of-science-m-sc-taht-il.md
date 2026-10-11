@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta' Master of Science - M.Sc. – taħt il-patroċinju tal-Fakultà tal-Kirurġija Dentali (S.L. 327.305)
 
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAL-KIRURĠIJA DENTALI [L.S.327.305
-
 **SUBSIDIARY LEGISLATION 327.305**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -73,11 +69,9 @@ Il-kors għandu jkun offrut fi kwalunkwe qasam ta’ studju li jaqgħa taħt ir-
 
 (e) grad mill-inqas fit-Tieni Klassi bl-Unuri f’qasam ta’ studju li l-Bord iqis bħala rilevanti għall-qasam ta’ studju propost.
 
-(2) Id-dħul tal-applikanti skont is-sottoparagrafi (ċ) sa (e) tal-paragrafu (1) ta’ dan l-ordinament jista’ jkun kondizzjonali skont [L.S.327.305 PATROĊINJU TAL-FAKULTÀ TAL-KIRURĠIJA DENTALI ir-riżultati ta’ intervista li ssir għal dan il-għan.
+(2) Id-dħul tal-applikanti skont is-sottoparagrafi (ċ) sa (e) tal-paragrafu (1) ta’ dan l-ordinament jista’ jkun kondizzjonali skont ir-riżultati ta’ intervista li ssir għal dan il-għan.
 
 (3) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għal kull qasam ta’ studju offrut fil-kors, skont ir-riżorsi disponibbli. L-għadd ta’ postijiet disponibbli jitħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
-
-*2*
 
 (4) Meta l-għadd ta’ postijiet ikun limitat u n-numru ta’ applikanti eliġibbli jaqbeż in-numru ta’ postijiet disponibbli, l-applikanti jiġu magħżula skont il-kriterji li ġejjin, bil-piż tagħhom jiġi ppubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
 
@@ -117,11 +111,7 @@ Il-valutazzjoni tat-taqsimiet studju mgħallma għandha ssir sal-aħħar tas-sem
 
 ## 9. Panel tas- Superviżjoni.
 
-(1) Il-Bord għandu jaħtar Panel tas-Superviżjoni għal kull student normalment magħmul minn tliet membri kif ġej: il-Kap tad- Dipartiment bħala Chairman, jew id-delegat tiegħu jew tagħha, u PATROĊINJU TAL-FAKULTÀ TAL-KIRURĠIJA DENTALI [L.S.327.305
-
-żewġ membri oħra, li wieħed minnhom ikun is-superviżur tar-riċerka, sakemm li meta l-Kap tad-Dipartiment ikun is-superviżur, ma jkunx / tkunx tista’ tmexxi l-Panel.
-
-*3*
+(1) Il-Bord għandu jaħtar Panel tas-Superviżjoni għal kull student normalment magħmul minn tliet membri kif ġej: il-Kap tad- Dipartiment bħala Chairman, jew id-delegat tiegħu jew tagħha, u żewġ membri oħra, li wieħed minnhom ikun is-superviżur tar-riċerka, sakemm li meta l-Kap tad-Dipartiment ikun is-superviżur, ma jkunx / tkunx tista’ tmexxi l-Panel.
 
 (2) Il-Panel tas-Superviżjoni għandu jsegwi, kif ikun xieraq, il-progress tal-istudenti matul il-kors, iżda għandu jiltaqa’ mill-inqas darbtejn fis-sena biex jirrevedi dan il-progress.
 

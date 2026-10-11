@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq Bastimenti u Inġenji ta' l-Ajru ma' l-Istati Uniti ta' l-Amerika (S.L. 123.44)
 
-IN{ENJI TA’ L-AJRU MA’ L-ISTATI UNITI TA’ L-AMERIKA [ L.S.123.44
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.44**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -59,7 +57,7 @@ Fil-ka\\ ta’ korporazzjoni Maltija, l-e\\enzjoni g]andha tkun biss tapplika je
 
 (1) stock tal-korporazzjoni jkun primarjament u regolarment mqieg]ed fil-kummer` f’suq tat-titoli stabbilit f’Malta, f’pajji\\ ie]or li jag]ti e\\enzjoni re`iproka lil korporazzjonijiet ta’ l-Istati Uniti jew fl- Istati Uniti, jew
 
-(2) li iktar minn ]amsin (50) fil-mija tal-valur ta’ stock tal-korporazzjoni jkun direttamcnt jew indirettament IN{ENJI TA’ L-AJRU MA’ L-ISTATI UNITI TA’ L-AMERIKA [ L.S.123.44 jappartjeni lil individwi li jkunu residenti ta’ Malta jew ta’ xi pajji\\ barrani ie]or li jag]ti e\\enzjoni ekwivalenti lil korporazzjonijiet ta’ l-Istati Uniti jew lil xi korporazzjoni li tkun organizzata f’pajji\\ li jag]ti e\\enzjoni ekwivalenti lil korporazzjonijiet ta’ l-Istati Uniti u li jkollhom stock li jkun primarjament u regolarment mqieg]ed fil-kummer` f’suq tat-titoli stabbilit f’dak il-pajji\\, f’pajji\\ ie]or li jag]ti e\\enzjoni ekwivalenti lil korporazzjoni ta’ l-Istati Uniti, jew fl-Istati Uniti.
+(2) li iktar minn ]amsin (50) fil-mija tal-valur ta’ stock tal-korporazzjoni jkun direttamcnt jew indirettament jappartjeni lil individwi li jkunu residenti ta’ Malta jew ta’ xi pajji\\ barrani ie]or li jag]ti e\\enzjoni ekwivalenti lil korporazzjonijiet ta’ l-Istati Uniti jew lil xi korporazzjoni li tkun organizzata f’pajji\\ li jag]ti e\\enzjoni ekwivalenti lil korporazzjonijiet ta’ l-Istati Uniti u li jkollhom stock li jkun primarjament u regolarment mqieg]ed fil-kummer` f’suq tat-titoli stabbilit f’dak il-pajji\\, f’pajji\\ ie]or li jag]ti e\\enzjoni ekwivalenti lil korporazzjoni ta’ l-Istati Uniti, jew fl-Istati Uniti.
 
 G]all-g]anijiet ta’ e\\enzjoni mit-taxxa ta’ l-Istati Uniti, il- Gvern ta’ Malta ji[i trattat b]ala individwu residenti f’Malta, u s-subparagrafu (2) g]andu jitqies b]ala li hu fis-se]] jekk il-korporazzjoni tkun "korporazzjoni barranija kontrollata" skond ma hemm fl-Internal Revenue Code, b’dan illi l-azzjonisti ta’ l-Istati Uniti ta’ dawk il-korporazzjonijiet g]andhom ji[u trattati b]allikieku kienu residenti ta’ Malta.
 
@@ -89,7 +87,7 @@ Dan il-ftehim g]andu jibqa’ jse]] sa meta l-Gvern ta’ stat kontraenti jew l-
 
 26 ta’ Di`embru, 1996
 
-Ambaxxata ta’ Malta Washington, D.C. IN{ENJI TA’ L-AJRU MA’ L-ISTATI UNITI TA’ L-AMERIKA [ L.S.123.44 Id-Dipartiment ta’ l-Istat jirreferi lill-Ambaxxata ta’ Malta g]an-nota 1065 ta’ l-Ambaxxata tas-26 ta’ Di`embru, 1996, li tirrigwarda l-e\\enzjoni re`iproka mit-taxxa fuq l-income ta’ income li jinkiseb mit-t]addim internazzjonali ta’ bastimenti u in[enji ta’ l-ajru.
+Ambaxxata ta’ Malta Washington, D.C. Id-Dipartiment ta’ l-Istat jirreferi lill-Ambaxxata ta’ Malta g]an-nota 1065 ta’ l-Ambaxxata tas-26 ta’ Di`embru, 1996, li tirrigwarda l-e\\enzjoni re`iproka mit-taxxa fuq l-income ta’ income li jinkiseb mit-t]addim internazzjonali ta’ bastimenti u in[enji ta’ l-ajru.
 
 Id-Dipartiment ta’ l-Istat jikkonferma li l-proposti li jinsabu fin-nota ta’ l-Ambaxxata huma a``ettabbli g]all-Gvern ta’ l-Istati Uniti ta’ l-Amerika. G]aldaqstant, din in-nota u n-nota ta’ l- Ambaxxata tas-26 ta’ Di`embru, 1996, jikkostitwixxu ftehim li jibda jse]] fid-data li [[ib din in-nota b’risposta u dan ikollu se]] dwar income miksub fi jew wara l-1 ta’ Jannar, 1997. Dan il-ftehim ikompli jse]] sa meta l-Gvern ta’ xi wie]ed mill-istati kontraenti jag]ti avvi\\ bil-miktub tat-terminazzjoni tal-ftehim lill-istat kontraenti l-ie]or permezz tal-kanal diplomatiku.
 

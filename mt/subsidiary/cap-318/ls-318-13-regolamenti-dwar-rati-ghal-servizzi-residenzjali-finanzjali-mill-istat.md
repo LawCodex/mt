@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Rati għal Servizzi Residenzjali Finanzjali mill-Istat (S.L. 318.13)
 
-*1*
-
-FINANZJATI MILL-ISTAT [L.S.318.13 LEĠISLAZZJONI SUSSIDJARJA 318.13
+**LEĠISLAZZJONI SUSSIDJARJA 318.13**
 
 **REGOLAMENTI DWAR RATI GĦAL SERVIZZI**
 
@@ -53,10 +51,6 @@ għandu jikkontribwixxi lill-Gvern talli jżommu u jmantnih, ammont ta' flus sko
 
 Iżda l-kontribuzzjoni totali ma għandhiex teċċedi €24.46 kull jum, jew tkun waħda tali li tħalli lil dak ir-resident b'inqas minn €1,397.62 fis-sena għad-dispożizzjoni tiegħu.
 
-*2*
-
-[L.S. 318.13 FINANZJATI MILL-ISTAT
-
 (2) Kull resident li qabel it-3 ta’ Jannar 2004 diġà kien f'xi servizz residenzjali, u kien qed jirċievi trattament tal-livell 2, skont ir-regolament 2(2)(b), għandu jikkontribwixxi 80% minn kull pensjoni, għajnuna soċjali u bonus li jirċievi, nett mit-taxxa fuq l-income, u 60% minn kull qliegħ ieħor li jkun irċieva matul is-sena kalendarja minnufih qabel is-sena li fiha ssir l-istima ta' qliegħ ieħor bħal dak għall-finijiet ta' dawn ir-regolamenti, nett mit-taxxa fuq l-income:
 
 Iżda l-kontribuzzjoni totali ma għandhiex teċċedi €31.45 kull jum, jew tkun waħda tali li tħalli dak ir-residenti b'inqas minn €1,397.62 fis-sena għad-dispożizzjoni tiegħu.
@@ -73,9 +67,7 @@ B'dan illi dik il-kontribuzzjoni li ssir mir-resident ma għandhiex tkun waħda 
 
 (a) jirċievi trattament tal-livell 1, skont ir-regolament 2(2)(a), għandu jikkontribwixxi 40% minn kull pensjoni, għajnuna soċjali u bonus li jirċievi, nett mit-taxxa fuq l-income, u 40% ta' kull qliegħ ieħor li jirċievi matul is-sena kalendarja minnufih qabel is-sena li fiha l-istima ta' qliegħ ieħor bħal dak issir għall-finijiet ta' dawn ir-regolamenti nett mit-taxxa fuq l-income, jekk tali resident jirritorna lura il-proprjetà residenzjali li kienet mikrija lilu mill-Awtorità tad-Djar meta jsir resident ta’ servizz residenzjali bħal dak; u
 
-*3*
-
-FINANZJATI MILL-ISTAT [L.S.318.13 (b) jirċievi trattament tal-livell 2, skont ir-regolament 2(2)(a) għandu jikkontribwixxi 60% minn kull pensjoni, għajnuna soċjali u bonus li jirċievi, nett mit-taxxa fuq l-income, u 40% ta' kull qliegħ ieħor li jirċievi matul is-sena kalendarja minnufih qabel is-sena li fiha l-istima ta' qliegħ ieħor bħal dak issir għall-finijiet ta' dawn ir-regolamenti nett mit-taxxa fuq l-income, jekk tali resident jirritorna lura il-proprjetà residenzjali li kienet mikrija lilu mill-Awtorità tad-Djar meta jsir resident ta’ servizz residenzjali bħal dak.
+(b) jirċievi trattament tal-livell 2, skont ir-regolament 2(2)(a) għandu jikkontribwixxi 60% minn kull pensjoni, għajnuna soċjali u bonus li jirċievi, nett mit-taxxa fuq l-income, u 40% ta' kull qliegħ ieħor li jirċievi matul is-sena kalendarja minnufih qabel is-sena li fiha l-istima ta' qliegħ ieħor bħal dak issir għall-finijiet ta' dawn ir-regolamenti nett mit-taxxa fuq l-income, jekk tali resident jirritorna lura il-proprjetà residenzjali li kienet mikrija lilu mill-Awtorità tad-Djar meta jsir resident ta’ servizz residenzjali bħal dak.
 
 (6) Għall-finijiet ta' dawn ir-regolamenti meta dak ir-resident ikun persuna miżżewġa u tkun teżisti l-komunjoni tal-akkwisti bejn il-miżżewġin, il-frażi kull qliegħ ieħor għandha f'kull każ tinkludi nofs il-qliegħ li jgħaddi fil-komunjoni tal-akkwisti.
 
@@ -95,13 +87,9 @@ Iżda l-valur ta' kull proprjetà immobbli urbana li jittieħed għal dawn il-fi
 
 (d) kull qligħ ieħor jew privileġġ li jkun qiegħed jew li jista' jiġi riċevut jew gawdut minn dak resident, u għal dan l-għan għandu jinkludi kull qligħ jew privileġġ li r-resident ikun direttament jew indirettament ċaħħad lilu nnifsu minnhom biex il-kontribuzzjoni dovuta tiegħu skont dawn ir-regolamenti tiġi stmata b'rata iktar baxxa.
 
-*4 Servizz Residenzjali Finanzjat mill-Istat u Istituzzjoni Finanzjata mill- Istat li huma speċifikati.*
+*Servizz Residenzjali Finanzjat mill-Istat u Istituzzjoni Finanzjata mill- Istat li huma speċifikati.*
 
-[L.S. 318.13 FINANZJATI MILL-ISTAT
-
-## 5.
-
-Skont id-dispożizzjonijiet tal-artikolu 93 tal-Att, u għall-finijiet tar-regolament 2, dawn l-istituzzjonijiet li ġejjin qegħdin jiġu speċifikati għall finijiet hawn qabel imsemmija:-
+finijiet tar-regolament 2, dawn l-istituzzjonijiet li ġejjin qegħdin jiġu speċifikati għall finijiet hawn qabel imsemmija:-
 
 Residenza San Vinċenz de Paule
 

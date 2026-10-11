@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Integrated Product Development taħt il-patroċinju tal-Fakultà tal-Inġinerija (S.L. 327.307)
 
-PRODUCT DEVELOPMENT TA}T IL-PATRO~INJU
-
-*1*
-
-TAL-FAKULTÀ TAL-IN{INERIJA [S.L.327.307
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.307**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER OF**
@@ -75,11 +69,7 @@ Il-kors g]andu jinfirex fuq tliet semestri ta’ studju fuq ba\\i full-time jew 
 
 (1) Il-programm ta’ studju g]andu jikkonsisti minn taqsimiet studju li g]alihom hemm assenjati total ta’ 90 kredtu, li minnhom 60 kredtu jkunu assenjati g]at-taqsimiet studju mg]allma u 30 kredtu g]at-taqsima tad-dissertazzjoni.
 
-(2) L-istudenti li jiksbu s-60 kredtu assenjati g]at-taqsimiet studju mg]allma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spi``aw b’su``ess id- PRODUCT DEVELOPMENT TA}T IL-PATRO~INJU [ S.L.327.307 TAL-FAKULTÀ TAL-IN{INERIJA
-
-dissertazzjoni, jkunu eli[ibbli g]all-g]oti tal-Postgraduate Diploma.
-
-*2*
+(2) L-istudenti li jiksbu s-60 kredtu assenjati g]at-taqsimiet studju mg]allma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spi``aw b’su``ess id-dissertazzjoni, jkunu eli[ibbli g]all-g]oti tal-Postgraduate Diploma.
 
 (3) Il-programm ta’ studju g]andu jkun ippubblikat mill-Bord wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
@@ -111,11 +101,7 @@ dissertazzjoni, jkunu eli[ibbli g]all-g]oti tal-Postgraduate Diploma.
 
 (i) l-estensjoni tal-perjodu ta’ studju msemmija fil-paragrafu (a) tkun skont id-dispo\\izzjonijiet tar- Regolamenti Prin`ipali; u
 
-(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont il-paragrafu (b) jekk qabel ma jkunx ta opportunità lill-istudent li jiddefendi l-ka\\ PRODUCT DEVELOPMENT TA}T IL-PATRO~INJU
-
-*3*
-
-TAL-FAKULTÀ TAL-IN{INERIJA [S.L.327.307 tieg]u.
+(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont il-paragrafu (b) jekk qabel ma jkunx ta opportunità lill-istudent li jiddefendi l-ka\\ tieg]u.
 
 ## 9. Klassifikazzjoni tar- Rikonoxximenti.
 

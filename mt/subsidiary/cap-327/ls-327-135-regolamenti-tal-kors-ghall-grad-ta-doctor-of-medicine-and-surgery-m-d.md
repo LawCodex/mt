@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta' Doctor of Medicine and Surgery - M.D. (S.L. 327.135)
 
-*1*
-
-DOCTOR OF MEDICINE AND SURGERY - M.D. [L.S.327.135
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.135**
 
 **REGOLAMENTI TAL-KORS GĦALL-GRAD TA’**
@@ -66,13 +62,9 @@ Dawn ir-regolamenti għandhom japplikaw għall-korsijiet li jibdew f’15 ta’ 
 
 (b) issodisfaw ir-Rekwiżiti Speċjali għall-Kors skont ir-regolament 4;
 
-(ċ) temmew il-kors tal-istudji, ikkwalifikaw fl-eżamijiet u issodisfaw kull rekwiżit ieħor kif preskritt f’dawn ir- [L.S.327.135 DOCTOR OF MEDICINE AND SURGERY - M.D.
+(ċ) temmew il-kors tal-istudji, ikkwalifikaw fl-eżamijiet u issodisfaw kull rekwiżit ieħor kif preskritt f’dawn ir-regolamenti; u
 
 \*Japplikaw minn Ottubru 2018.
-
-regolamenti; u
-
-*2*
 
 (d) issodisfaw ir-rekwiżiti l-oħra kollha preskritti f’xi statuti u regolamenti rilevanti oħra tal-Università.
 
@@ -94,10 +86,6 @@ diment li r-riżultati kollha f’dawn ir-Rekwiżiti Speċjali għall-Kors ikunu
 
 \*Japplikaw minn Ottubru 2026
 
-*3*
-
-DOCTOR OF MEDICINE AND SURGERY - M.D. [L.S.327.135
-
 (iii) iċ-Ċertifikat tal-Edukazzjoni Sekondarja li juri li għaddew fil-Malti bi Grad 5 jew ogħla jew fil-livell 3 tas-SEC, huwa meħtieġ kemm għad-dħul fl-Ewwel Sena, kif ukoll għad-dħul fit-Tielet Sena tal-Kors, diment li l-applikanti li, skont ir-regolament 13 tar-Regolamenti għad-Dħul, 2016, huma eżentati minn dan ir-rekwiżit, huma meħtieġa li jippreżentaw grad ta’ għadda fil-livell 3 tas-SEC fil-Malti bħala Lingwa Barranija, jew iċ-Ċertifikat ta’ Kompetenza fil-Malti Mediku.
 
 (3) Għall-għan tas-subregolament (2), ir-riżultat ta’ għadda miksub f’sessjoni tal-eżamijiet li ssir wara li r-riżultati tas-sessjoni ta’ qabel ikunu ppubblikati, għandu jitqies li hu riżultat ta’ għadda miksub f ’sessjoni li hi distinta minn dik ta’ qabilha. Dan ir-regolament għandu japplika wkoll għat-tieni sessjoni tal-Eżami tal- Matrikola offrut mill-Bord tal-MATSEC tal-Università ta’ Malta skont id-dispożizzjonijiet tar-Regolamenti tal-Eżami għaċ- Ċertifikat tal-Matrikola u dan minkejja kwalunnkwe regolament ieħor dwar l-għoti taċ-Ċertifikat tal-Matrikola.
@@ -114,13 +102,9 @@ DOCTOR OF MEDICINE AND SURGERY - M.D. [L.S.327.135
 
 (e) il-grad ta’ Bachelor of Dental Surgery ikklassifikat fit- Tieni Klassi bl-Unuri jew aħjar li jkun mogħti minn Lulju 2009 ’il quddiem; jew
 
-(f) il-grad ta’ Master of Dental Surgery mogħti minn [L.S.327.135 DOCTOR OF MEDICINE AND SURGERY - M.D.
+(f) il-grad ta’ Master of Dental Surgery mogħti minn Lulju 2018 ’il quddiem; jew
 
 \*Applikabbli għall-korsijiet li jibdew f’Ottubru 2026 jew wara:
-
-Lulju 2018 ’il quddiem; jew
-
-*4*
 
 (g) il-grad ta’ Bachelor of Science (Honours) in Medical Biochemistry ikklassifikat fit-Tieni Klassi bl- Unurijew aħjar mogħti minn Lulju 2020 ’il quddiem; jew
 
@@ -138,11 +122,7 @@ Lulju 2018 ’il quddiem; jew
 
 (5) L-applikanti li għandhom kwalifiki oħra miksuba minn istituzzjonijiet rikonoxxuti minbarra l-Università ta’ Malta jkunu kkunsidrati mill-Kumitat għad-Dħul tal-Fakultà u jitħallew jidħlu fil- Kors jekk ikun aċċertat li l-kwalifiki tagħhom huma komparabbli għall-kwalifiki msemmija fil-paragrafi (2), (3) u (4) ta’ dan ir-regolament.
 
-(6) L-applikanti jistgħu jkunu meħtieġa jattendu għal intervista u/jew eżami. Il-Bord/Bordijiet tal-Intervisti għandu/ DOCTOR OF MEDICINE AND SURGERY - M.D. [L.S.327.135
-
-għandhom ikun/u magħmul/a mid-Dekan jew id-delegat tiegħu, tliet membri oħra maħtura mill-Bord, li wieħed minnhom għandu jkun minn barra l-Fakultà, u membru ieħor maħtur mis-Senat. Sa tliet Bordijiet tal-Intervisti għandhom ikunu maħtura kull darba li jiftaħ il-kors li jkun se jibda kif determinat mill-Bord.
-
-*5*
+(6) L-applikanti jistgħu jkunu meħtieġa jattendu għal intervista u/jew eżami. Il-Bord/Bordijiet tal-Intervisti għandu/ għandhom ikun/u magħmul/a mid-Dekan jew id-delegat tiegħu, tliet membri oħra maħtura mill-Bord, li wieħed minnhom għandu jkun minn barra l-Fakultà, u membru ieħor maħtur mis-Senat. Sa tliet Bordijiet tal-Intervisti għandhom ikunu maħtura kull darba li jiftaħ il-kors li jkun se jibda kif determinat mill-Bord.
 
 (7) L-applikanti kollha li jkunu aċċettati biex jidħlu fl-Ewwel jew fit-Tielet sena tal-Kors huma meħtieġa joqogħodu għall-occupational health assessment kif dettaljat fl-Occupational Health Protocol approvat mill-Bord, biex ikun aċċertat li huma tajbin għad-dmirijiet relatati mal-istudju tagħhom. L-istudenti li ma jissodisfawx dan ir-rekwiżit jistgħu ma jitħallewx ikomplu bl-istudji tagħhom. In-nuqqas li tiżvela informazzjoni dwar problema ta’ saħħa fiżika jew mentali li tista’ taffettwa s-sigurta’ ta’ pazjent hija kkunsidrata bħala ksur serju tal- Fitness to Practise Policy tal-Università.
 
@@ -170,11 +150,7 @@ Il-Bord jippubblika l-programm ta’ studju, li jinkludi t-taqsimiet studju mgħ
 
 ## 7.
 
-Il-programm ta’ studju għal kull sena tal-kors għandu jinkludi taqsimiet studju li għalihom hemm assenjati 60 kredtu ECTS u jistgħu jinkludu pjazzamenti prattiċi, fil-laboratorju u kliniċi kif spjegat fid-deskrizzjoni ta’ kull taqsima studju offruta [L.S.327.135 DOCTOR OF MEDICINE AND SURGERY - M.D.
-
-matul is-sena.
-
-*6*
+Il-programm ta’ studju għal kull sena tal-kors għandu jinkludi taqsimiet studju li għalihom hemm assenjati 60 kredtu ECTS u jistgħu jinkludu pjazzamenti prattiċi, fil-laboratorju u kliniċi kif spjegat fid-deskrizzjoni ta’ kull taqsima studju offruta matul is-sena.
 
 ## 8.
 
@@ -203,10 +179,6 @@ Matul il-kors, ir-riżultat ta’ kull taqsima studju għandu jkun ippubblikat s
 Medda tal-Marki Grad
 
 90% - 100% A+
-
-*7*
-
-DOCTOR OF MEDICINE AND SURGERY - M.D. [L.S.327.135
 
 80% - 89% A
 
@@ -246,10 +218,6 @@ DOCTOR OF MEDICINE AND SURGERY - M.D. [L.S.327.135
 
 (5) L-istudenti msemmija fis-sotto-paragrafu (a) tal-paragrafu (4) ta’ dan ir-regolament li jagħżlu li jirreferu t-taqsimiet-studju li weħlu fihom għas-sena ta’ wara tal-Kors għandhom jitqiesu li komplew għas-sena ta’ wara kondizzjonalment u m’għandhomx jitħallew ikomplu l-Kors jekk, wara s-sessjoni supplimentari ta’ dik is-sena, jerġgħu ma jgħaddux fit-taqsima/taqsimiet-studju li rriferew.
 
-*8*
-
-[L.S.327.135 DOCTOR OF MEDICINE AND SURGERY - M.D.
-
 (6) (a) L-għażla li l-istudenti jirreferu taqsimiet-studju għas-sena ta’ wara għandha tkun disponibbli darba biss matul il-Kors, ħlief fil-każ tat-taqsimiet-studju msemmija fil-paragrafu (8) ta’ dan ir-regolament, diment li studenti tat-2 Sena m’għandhomx jitħallew jirreferu kwalunkwe taqsima-studju oħra għas-sena ta’ wara.
 
 (b) L-istudenti tat-2 Sena li ma jkunux eliġibbli biex ikomplu għat-3 Sena tal-Kors ikunu meħtieġa jtemmu b’suċċess it-taqsima/taqsimiet-studju li jkunu weħlu fiha/fihom matul sena ta’ studju addizzjonali, jew li jirrepetu s-sena, fiż-żewġ kazijiet jekk ikunu eliġibbli skont il-paragrafi (4), (5) u (6) tar-regolament 5 ta’ dawn ir-regolamenti.
@@ -264,11 +232,7 @@ DOCTOR OF MEDICINE AND SURGERY - M.D. [L.S.327.135
 
 (8) Fil-każ ta’ valutazzjonijiet li jistgħu jsiru darba biss matul sena akkademika u għalhekk sessjoni supplimentari ma tkunx possibbli, l-istudenti li jeħlu f’dawn il-valutazzjonijiet jew li ma jkunux jistgħu jiġu evalwati għal xi raġuni kkunsidrata valida mis- Senat jitħallew ikomplu kondizzjonalment għas-sena ta’ wara tal- Kors, sakemm li huma jgħaddu minn dawn il-valutazzjonijiet f’dik is-sena.
 
-(9) L-istudenti li wara s-sessjoni supplimentari jeħlu DOCTOR OF MEDICINE AND SURGERY - M.D. [L.S.327.135
-
-f’taqsimiet-studju li għalihom hemm assenjati aktar minn 10 kretti ECTS ma jitħallewx ikomplu għas-sena ta’ wara tal-Kors, iżda jkunu meħtieġa jirrepetu s-sena jekk eliġibbli skont il-paragrafi (4) u (5) tar-regolament 5 ta’ dawn ir-regolamenti.
-
-*9*
+(9) L-istudenti li wara s-sessjoni supplimentari jeħlu f’taqsimiet-studju li għalihom hemm assenjati aktar minn 10 kretti ECTS ma jitħallewx ikomplu għas-sena ta’ wara tal-Kors, iżda jkunu meħtieġa jirrepetu s-sena jekk eliġibbli skont il-paragrafi (4) u (5) tar-regolament 5 ta’ dawn ir-regolamenti.
 
 (10) F’sena ta’ ripetizzjoni, l-istudenti jkunu meħtieġa jsegwu u jkunu evalwati fit-taqsimiet-studju kollha tal-programm ta’ studju għal dik is-sena, ukoll f’dawk li setgħu kienu għaddew minnhom qabel. Kwalunkwe marka/grad tista’ tingħata fis-sena ta’ ripetizzjoni u din għandha tissostitwixxi l-marki/gradi li kienu miksuba fis-sena ta’qabel.
 
@@ -285,10 +249,6 @@ f’taqsimiet-studju li għalihom hemm assenjati aktar minn 10 kretti ECTS ma ji
 (1) Fis-Sena Finali (il-5 Sena) tal-kors, il-valutazzjoni tat-taqsimiet studju eżaminati b’karta/karti bil-miktub għandhom isiru fis-sessjoni tal-eżamijiet ta’ Jannar. L-eżami għat-taqsima studju klinika għandha ssir fis-sessjoni tal-eżamijiet ta’ Ġunju.
 
 (2) Qabel ma jitħallew joqogħdu għal kwalunkwe eżami tas-Sena Finali (il-5 sena) tal-Kors, l-istudenti għandhom jippreżentaw ċertifikat lid-Dekan, iffirmat mill-kapijiet tad-dipartimenti konċernati, li juri li huma temmew b’mod sodisfaċenti l-iskeda tal-pjazzamenti kliniċi preskritti għall-Kors. Barra minn hekk, l-istudenti għandhom ukoll jipprovdu ċertifikat li juri li huma attendew mill-inqas 80% tax- "shadowing programme" (perijodu kif jista’ jiġi definit minn żmien għal żmien mill-Fakultà, fejn l-istudenti tal-mediċina jkunu assenjati ma’ tabib tal-Foundation Year u l-istudenti jkunu mistennija jippratikaw ħiliet kliniċi u amministrattivi taħt is-supervizjoni tiegħu/tagħha) sabiex ikunu eliġibbli biex joqogħdu għall-eżami tal-Essential Core Competences.
-
-*10*
-
-[L.S.327.135 DOCTOR OF MEDICINE AND SURGERY - M.D.
 
 ## 12. Re-sit ta’ xi eżami.
 
@@ -336,13 +296,9 @@ Meta student jirtira mill-kors b’għażla tiegħu jew għax majkunx eliġibbli
 
 (a) id-Diploma in General Studies (Dip. Gen. St.) jekk mill-anqas 60 krettu ECTS ikunu nkisbu; jew
 
-(b) il-Higher Diploma in General Studies (H.Dip. Gen. St.) jekk mill-anqas 120 krettu ECTS ikunu nkisbu; jew (ċ) il-grad ta’ Bachelor in General Studies (B.Gen.St.) jekk DOCTOR OF MEDICINE AND SURGERY - M.D. [L.S.327.135
+(b) il-Higher Diploma in General Studies (H.Dip. Gen. St.) jekk mill-anqas 120 krettu ECTS ikunu nkisbu; jew (ċ) il-grad ta’ Bachelor in General Studies (B.Gen.St.) jekk mill-anqas 180 krettu ECTS ikunu nkisbu.
 
 \*Japplikaw minn Ottubru 2025
-
-**mill-anqas 180 krettu ECTS ikunu nkisbu.**
-
-*11*
 
 ## 15. Marka Medja Finali Mwieżna. Enumerat: A.L. 371 tal-2018.
 

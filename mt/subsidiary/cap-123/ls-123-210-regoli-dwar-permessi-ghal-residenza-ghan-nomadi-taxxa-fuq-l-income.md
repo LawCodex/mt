@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Permessi għal Residenza għan-Nomadi (Taxxa fuq l-Income) (S.L. 123.210)
 
-*1*
-
-GĦAN-NOMADI (TAXXA FUQ L-INCOME) [L.S.123.210 LEĠISLAZZJONI SUSSIDJARJA 123.210
+**LEĠISLAZZJONI SUSSIDJARJA 123.210**
 
 **REGOLI DWAR PERMESSI GĦAL RESIDENZA**
 
@@ -58,11 +56,7 @@ Għall-finijiet ta’ dawn ir-regoli, sakemm ir-rabta tal-kliem ma tkunx teħtie
 
 (2) L-income imsemmi fis-subregola (1) għal kwalunkwe sena ta’ stima għandu jitqies li jkun jikkostitwixxi l-ewwel parti tal-income taxxabbli totali tal-persuna għal dik is-sena ta’ stima.
 
-(3) Minkejja d-dispożizzjonijiet ta’ qabel, applikanti eliġibbli prinċipali ma għandux ikun responsabbli għal taxxa fuq [L.S. 123.210 GĦAN-NOMADI (TAXXA FUQ L-INCOME)
-
-income derivat minn xogħol awtorizzat qabel t-tmiem ta’ tnax-il (12) xahar:
-
-*2*
+(3) Minkejja d-dispożizzjonijiet ta’ qabel, applikanti eliġibbli prinċipali ma għandux ikun responsabbli għal taxxa fuq income derivat minn xogħol awtorizzat qabel t-tmiem ta’ tnax-il (12) xahar:
 
 (a) mid-data li fiha jinħareġ il-permess għal residenza għan-nomadi; jew
 
@@ -86,11 +80,9 @@ sakemm ma jkunx ippreżenta dikjarazzjoni bil-miktub lill-Aġenzija Residenza Ma
 
 ## 4. Reġistrazzjoni għat-taxxa fuq l-income u prospett tat-taxxa.
 
-(1) Bla ħsara għad-dispożizzjonijiet l-oħra ta’ din ir-regola, applikant eliġibbli prinċipali li jkollu income li jkun soġġett għat-taxxa f’Malta għandu jkun meħtieġ li jkun reġistrat għall-finijiet GĦAN-NOMADI (TAXXA FUQ L-INCOME) [L.S.123.210 tat-taxxa fuq l-income u li jibgħat prospett tat-taxxa skont dan.
+(1) Bla ħsara għad-dispożizzjonijiet l-oħra ta’ din ir-regola, applikant eliġibbli prinċipali li jkollu income li jkun soġġett għat-taxxa f’Malta għandu jkun meħtieġ li jkun reġistrat għall-finijiet tat-taxxa fuq l-income u li jibgħat prospett tat-taxxa skont dan.
 
 (2) Applikant eliġibbli prinċipali:
-
-*3*
 
 (a) għandu jkun meħtieġ li jkun reġistrat għall-finijiet tat-taxxa fuq l-income wkoll fir-rigward tal-attivitajiet imwettqa qabel it-tmien tal-perjodu ta’ tnax-il (12) xahar imsemmi fir-regola 3(3);
 
@@ -110,11 +102,7 @@ u ż-żmien tas-sena bażi partikolari ma jestendix ulterjorment t-tmiem tal-ims
 
 ## 5. L-Aġenzija Residenza Malta għandha tipprovdi informazzjoni u dokumentazzjoni ulterjuri.
 
-Sabiex jiġi aċċertat l-intitolament ta’ applikant eliġibbli prinċipali għal drittijiet applikabbli skont dawn ir-regoli u sabiex tiġi żgurata l-applikazzjoni xierqa ta’ dawn ir-regoli u tal-Atti dwar it- Taxxi, l-Aġenzija Residenza Malta għandha tipprovdi lill- Kummissarju dik l-informazzjoni u dokumentazzjoni ulterjuri kif il- [L.S. 123.210 GĦAN-NOMADI (TAXXA FUQ L-INCOME)
-
-Kummissarju jista’ jqis meħtieġa.
-
-*4*
+Sabiex jiġi aċċertat l-intitolament ta’ applikant eliġibbli prinċipali għal drittijiet applikabbli skont dawn ir-regoli u sabiex tiġi żgurata l-applikazzjoni xierqa ta’ dawn ir-regoli u tal-Atti dwar it- Taxxi, l-Aġenzija Residenza Malta għandha tipprovdi lill- Kummissarju dik l-informazzjoni u dokumentazzjoni ulterjuri kif il- Kummissarju jista’ jqis meħtieġa.
 
 ## 6. Dispożizzjonijiet kontra l-abbuż.
 

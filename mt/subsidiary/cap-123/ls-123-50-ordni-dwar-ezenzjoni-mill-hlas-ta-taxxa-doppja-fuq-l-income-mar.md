@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Slovakka (S.L. 123.50)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA SLOVAKKA [L.S.123.50
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.50**
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -105,8 +101,6 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 \1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma te]tiegx xort’o]ra:
 
-FUQ L-INCOME MAR-REPUBBLIKA SLOVAKKA [L.S.123.50 3
-
 (a) il-fra\\i "Slovakkja" tfisser ir-Repubblika Slovakka u, meta u\\ata f’sens [eografiku, tfisser it-territorju li fuqu r-Repubblika Slovakka tkun te\\er`ita s-sovranità, d-drittijiet sovrani jew il-[urisdizzjoni tag]ha skond ir-regoli tad-dritt internazzjonali;
 
 (b) il-fra\\i "Malta" tfisser the Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra tal-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti u adja`enti g]all-ib]ra territorjali, fejn ir-Repubblika ta’ Malta g]andha drittijiet sovrani, [urisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha g]ar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
@@ -183,8 +177,6 @@ FUQ L-INCOME MAR-REPUBBLIKA SLOVAKKA [L.S.123.50 3
 
 Minkejja d-dispo\\izzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabbiliment permanenti" g]andha titqies li ma tinkludix:
 
-FUQ L-INCOME MAR-REPUBBLIKA SLOVAKKA [L.S.123.50 5
-
 (a) l-u\\u ta’ fa`ilitajiet g]all-iskop uniku ta’ ]a\\na, wiri jew tqassim ta’ o[[etti jew merkanzija li jkunu proprjetà tal-impri\\a;
 
 (b) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà tal-impri\\a g]all-iskop uniku ta’ ]a\\na, wiri jew tqassim;
@@ -245,8 +237,6 @@ Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u trattati sep
 
 **Artikolu 8**
 
-FUQ L-INCOME MAR-REPUBBLIKA SLOVAKKA [L.S.123.50 7
-
 **TBA}}IR U TRASPORT BL-AJRU**
 
 \1. Il-profitti ta’ impri\\a ta’ Stat Kontraenti mit-t]addim ta’ bastimenti jew in[enji tal-ajru fi traffiku internazzjonali g]andhom ikunu taxxabbli biss f’dak l- Istat.
@@ -299,9 +289,7 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal-kumpannija g]ar-rigward tal-profitti 
 
 \3. Il-provvedimenti tal-paragrafu 1 m’g]andhomx japplikaw jekk is-sid benefi`jarju tal-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw il-provvedimenti tal-Artikolu 7 jew tal-Artikolu 14, skond il-ka\\.
 
-\4. Meta, min]abba f’relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejn it-tnejn li huma u xi persuna o]ra, l-ammont tal-img]ax, wara li titqies xi FUQ L-INCOME MAR-REPUBBLIKA SLOVAKKA [L.S.123.50 9
-
-tkun il-pretensjoni ta’ debitu li dwarha jit]allas, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu g]andhom ikunu japplikaw biss g]all-ammont l-a]]ar imsemmi. F’ka\\ b]al dak, il-parti \\ejda tal-]lasijiet tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, fil-qies tal-provvedimenti l-o]ra ta’ dan il-Ftehim.
+\4. Meta, min]abba f’relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejn it-tnejn li huma u xi persuna o]ra, l-ammont tal-img]ax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jit]allas, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu g]andhom ikunu japplikaw biss g]all-ammont l-a]]ar imsemmi. F’ka\\ b]al dak, il-parti \\ejda tal-]lasijiet tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, fil-qies tal-provvedimenti l-o]ra ta’ dan il-Ftehim.
 
 **Artikolu 12**
 
@@ -348,8 +336,6 @@ tkun il-pretensjoni ta’ debitu li dwarha jit]allas, ikun i\\jed mill-ammont li
 \2. Il-fra\\i "servizzi professjonali" tinkludi attivitajiet letterarji, artisti`i, edukattivi jew ta’ tag]lim li huma spe`jalment indipendenti kif ukoll l-attivitajiet indipendenti ta’ tobba, avukati, in[iniera, periti, dentisti u accountants.
 
 **Artikolu 15**
-
-FUQ L-INCOME MAR-REPUBBLIKA SLOVAKKA [L.S.123.50 11
 
 **SERVIZZI PERSONALI DIPENDENTI**
 
@@ -421,9 +407,7 @@ Student jew apprendist li jkun pre\\enti fi Stat Kontraenti unikament bil-g]an t
 
 \1. Elementi ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalg]u minn fejn jinqalg]u, li ma jkunux ittrattati fl-Artikoli ta’ hawn aktar qabel ta’ dan il-Ftehim g]andhom ikunu taxxabbli biss f’dak l-Istat.
 
-\2. Il-provvedimenti tal-paragrafu 1 ma g]andhomx japplikaw g]al income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, FUQ L-INCOME MAR-REPUBBLIKA SLOVAKKA [L.S.123.50 13
-
-jekk min jir`ievi dak l-income, g]ax ikun residenti ta’ Stat Kontraenti, ji[[estixxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab f’dak l-Istat, jew iwettaq f’dak Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab hemmhekk, u d-dritt jew il-proprjetà li dwarhom jit]allas l-income jkun effettivament konness ma’ dak l-istabbiliment permanenti jew ba\\i fissa, f’dak il-ka\\ g]andhom japplikaw il-provvedimenti tal-Artikolu 7 jew tal- Artikolu 14, skond il-ka\\.
+\2. Il-provvedimenti tal-paragrafu 1 ma g]andhomx japplikaw g]al income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, jekk min jir`ievi dak l-income, g]ax ikun residenti ta’ Stat Kontraenti, ji[[estixxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab f’dak l-Istat, jew iwettaq f’dak Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab hemmhekk, u d-dritt jew il-proprjetà li dwarhom jit]allas l-income jkun effettivament konness ma’ dak l-istabbiliment permanenti jew ba\\i fissa, f’dak il-ka\\ g]andhom japplikaw il-provvedimenti tal-Artikolu 7 jew tal- Artikolu 14, skond il-ka\\.
 
 **Artikolu 22**
 
@@ -469,9 +453,7 @@ Bla ]sara g]all-provvedimenti tal-li[i ta’ Malta li tirrigwarda l-g]oti bi kre
 
 **SKAMBJU TA’ INFORMAZZJONI**
 
-\1. L-awtoritajiet kompetenti tal-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tistra’ tkun me]tie[a g]at-twettiq tal-provvedimenti ta’ dan il- Ftehim jew tal-li[ijiet domesti`i tal-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]thom ma jkunx kuntrarju g]all-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta mill-Istat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) FUQ L-INCOME MAR-REPUBBLIKA SLOVAKKA [L.S.123.50 15
-
-involuti fl-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`i\\joni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f ’de`i\\jonijiet [udizzjarji.
+\1. L-awtoritajiet kompetenti tal-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tistra’ tkun me]tie[a g]at-twettiq tal-provvedimenti ta’ dan il- Ftehim jew tal-li[ijiet domesti`i tal-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]thom ma jkunx kuntrarju g]all-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta mill-Istat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) involuti fl-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`i\\joni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f ’de`i\\jonijiet [udizzjarji.
 
 \2. F’ebda ka\\ ma g]andhom il-provvedimenti tal-paragrafu 1 jiftiehmu b]ala li jimponu fuq Stat Kontraenti l-obbligu:
 

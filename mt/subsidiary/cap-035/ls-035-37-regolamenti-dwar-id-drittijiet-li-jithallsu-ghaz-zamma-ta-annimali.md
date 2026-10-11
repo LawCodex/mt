@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet li jitħallsu għaż-Żamma ta’ Annimali f’Żoos (S.L. 35.37)
 
-DRITTIJIET LI JITĦALLSU GĦAŻ-ŻAMMA TA’ ANNIMALI
-
-*1*
-
-F’ŻOOS [L.S. 35.37
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.37**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET LI**

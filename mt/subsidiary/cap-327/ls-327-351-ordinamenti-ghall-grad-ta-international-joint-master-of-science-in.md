@@ -17,13 +17,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ International Joint Master of Science in Strategic Innovation and Future Creation taħt il-patroċinju tal-Istitut Edward de Bono għat-Tifsil u l-Iżvilupp tal-Ħsieb (S.L. 327.351)
 
-IN STRATEGIC INNOVATION AND FUTURE CREATION
-
-TAĦT IL-PATROĊINJU TAL-ISTITUT EDWARD DE BONO
-
-*1*
-
-GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB [L.S.327.351 LEĠISLAZZJONI SUSSIDJARJA 327.351
+**LEĠISLAZZJONI SUSSIDJARJA 327.351**
 
 **ORDINAMENTI GĦALL-GRAD TA’**
 
@@ -77,17 +71,9 @@ Dawn ir-regolamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 2
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
 
-IN STRATEGIC INNOVATION AND FUTURE CREATION
+*Kwalifiki għad-dħul. Sostitwit: A.L. 232 tal-2014.*
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT EDWARD DE BONO
-
-*2 Kwalifiki għad-dħul. Sostitwit: A.L. 232 tal-2014.*
-
-[L.S.327.351 GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB
-
-## 3.
-
-Biex jidħlu fil-kors, l-applikanti għandhom ikollhom grad ta’ Bachelor mill-Università, jew kwalifika ekwivalenti miksuba minn xi università rikonoxxuta oħra, flimkien ma’ mill-inqas sena ta’ esperjenza ta’ xogħol.
+ta’ Bachelor mill-Università, jew kwalifika ekwivalenti miksuba minn xi università rikonoxxuta oħra, flimkien ma’ mill-inqas sena ta’ esperjenza ta’ xogħol.
 
 ## 4. Tul tal-kors.
 
@@ -129,13 +115,7 @@ L-istudenti jitħallew ikomplu għat-taqsima studju tad-dissertazzjoni jekk ikun
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ bejn 25,000 - 30,000 kelma fuq suġġett relatat mal-kreatività, maniġġjar tal-innovazzjoni, l-ipjanar u t-tfassil tal-futur u/jew intraprenditorija. Id-dissertazzjoni għandha tissodisfa lill- Bord dwar il-kontenut u l-preżentazzjoni.
 
-IN STRATEGIC INNOVATION AND FUTURE CREATION
-
-TAĦT IL-PATROĊINJU TAL-ISTITUT EDWARD DE BONO
-
-*3*
-
-GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB [L.S.327.351 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
+(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
 (3) It-titolu provviżorju tad-dissertazzjoni u proposta ta’ riċerka bażika għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-aħħar tat-tieni semestru.
 
@@ -171,12 +151,4 @@ GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB [L.S.327.351 (2) Ix-xogħol fuq id-dissert
 
 ## 12. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 
-Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time tal- IN STRATEGIC INNOVATION AND FUTURE CREATION
-
-TAĦT IL-PATROĊINJU TAL-ISTITUT EDWARD DE BONO
-
-*4*
-
-[L.S.327.351 GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB
-
-kors.
+Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time tal-kors.

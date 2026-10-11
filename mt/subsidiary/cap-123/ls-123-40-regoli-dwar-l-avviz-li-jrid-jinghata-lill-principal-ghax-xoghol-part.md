@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar l-Avviż li jrid jingħata lill-Prinċipal għax-Xogħol Part-time (S.L. 123.40)
 
-AVVI| LI JRID JING}ATA LILL-PRIN~IPAL
-
-*1*
-
-DWAR XOG}OL PART-TIME [L.S.123.40
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.40**
 
 **REGOLI DWAR L-AVVI| LI JRID JING}ATA**

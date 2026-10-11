@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Kreditu ta' Taxxa (Sidien u Operaturi ta' Mħażen li jinsabu f'Żoni Ħielsa) (S.L. 123.84)
 
-*1*
-
-TA’ M}A|EN LI JINSABU F’|ONI }IELSA) [L.S.123.84
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.84**
 
 **REGOLI DWAR KREDITU TA’ TAXXA**
@@ -103,11 +99,7 @@ I\\da d-detentur tat-titolu ta’ kull proprjetà msemmija fil-paragrafi (ii) u 
 
 (2) Applikazzjoni ta]t din ir-regola g]andha ssir fuq formola li tkun a``ettabbli g]all-Korporazzjoni u:
 
-(a) g]andha tag]ti dawk il-partikolaritajiet dwar l-applikanti li jkunu me]tie[a biex ji[i stabbilit jekk hija tikkwalifikax b]ala intrapri\\a \\g]ira jew ta’ daqs TA’ M}A|EN LI JINSABU F’|ONI }IELSA) [L.S.123.84
-
-medju;
-
-*3*
+(a) g]andha tag]ti dawk il-partikolaritajiet dwar l-applikanti li jkunu me]tie[a biex ji[i stabbilit jekk hija tikkwalifikax b]ala intrapri\\a \\g]ira jew ta’ daqs medju;
 
 (b) g]andha tag]ti deskrizzjoni tal-pro[ett, l-g]an tieg]u, id-data ta’ meta jkun mistenni li jibda u kemm mistenni jdum;
 
@@ -185,10 +177,6 @@ Meta l-Korporazzjoni tapprova pro[ett hija g]andha tidde`iedi sa liema ammont, f
 
 (1) L-infieq ikun nfieq permissibbli jekk u sa fejn jitwettqu l-kondizzjonijiet kollha li [ejjin:
 
-*5*
-
-TA’ M}A|EN LI JINSABU F’|ONI }IELSA) [L.S.123.84
-
 (a) ikun nfieq kwalifikanti li [ie tassew minfuq mill-kumpannija fit-twettiq ta’ pro[ett approvat u li la jkun t]allas lura lilha u l-anqas ma jkollu jin[abar lura minnha;
 
 (b) ikun partita ta’ nfieq imsemmija fl-ittra ta’ approvazzjoni ma]ru[a ta]t ir-regola 7, ma jaqbi\\x l-og]la nfieq kwalifikanti g]al dik il-partita u jkun infieq li dwaru tkun [iet sodisfatta kull kondizzjoni li tkun setg]et [iet mag]mula applikabbli skond ir-regola 5(2);
@@ -246,10 +234,6 @@ L.S.123.84] TA’ M}A|EN LI JINSABU F’|ONI }IELSA)
 (a) l-g]add ta’ individwi li jkunu fl-impjieg tal-kumpannija qabel il-bidu tal-pro[ett tag]ha u l-g]add u l-partikolaritajiet u d-data ta’ l-impjieg ta’ l-individwi li jkunu impjegati minnha b]ala impjegati full-time matul i\\-\\mien tal-pro[ett;
 
 (b) dak it-tag]rif u dettalji o]ra li l-Korporazzjoni tista’ tqis rilevanti.
-
-*7*
-
-TA’ M}A|EN LI JINSABU F’|ONI }IELSA) [L.S.123.84
 
 (2) Id-dikjarazzjoni g]andha ssir kull tant \\mien skond kif titlob il-Korporazzjoni.
 
@@ -315,11 +299,7 @@ Kumpannija li ting]atalha ittra ta’ approvazzjoni skond ir-regola 7 g]andha ta
 
 ## 15. Sorveljanza mill- Korporazzjoni.
 
-(1) Meta l-Korporazzjoni to]ro[ ittra ta’ approvazzjoni lil kumpannija skond ir-regola 7, din tista’, minn \\mien g]al \\mien, tag]mel revi\\jonijiet ta’ kotba u dokumenti, tag]mel spezzjonijiet fuq il-post fil-bini ta’ dik il-kumpannija u tag]mel sorveljanza o]ra skond kif jidhrilha li jkun me]tie[ g]all-g]anijiet ta’ dawn ir-regoli TA’ M}A|EN LI JINSABU F’|ONI }IELSA) [L.S.123.84
-
-u g]al kull ]a[a li tkun rilevanti g]al applikazzjoni approvata.
-
-*9*
+(1) Meta l-Korporazzjoni to]ro[ ittra ta’ approvazzjoni lil kumpannija skond ir-regola 7, din tista’, minn \\mien g]al \\mien, tag]mel revi\\jonijiet ta’ kotba u dokumenti, tag]mel spezzjonijiet fuq il-post fil-bini ta’ dik il-kumpannija u tag]mel sorveljanza o]ra skond kif jidhrilha li jkun me]tie[ g]all-g]anijiet ta’ dawn ir-regoli u g]al kull ]a[a li tkun rilevanti g]al applikazzjoni approvata.
 
 *L.S. 325.06*
 

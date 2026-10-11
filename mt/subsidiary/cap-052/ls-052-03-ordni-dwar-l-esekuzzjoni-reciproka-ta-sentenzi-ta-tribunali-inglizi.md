@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Bermuda"
-identifier: "S.L. 52.3"
+identifier: "S.L. 52.03"
 eli: "https://legislation.mt/eli/sl/52.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/52.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Bermuda (S.L. 52.3)
-
-ESEKUZZJONI RE~IPROKA TA’ SENTENZI TA’
-
-TRIBUNALI INGLI|I - BERMUDA [ L.S.52.03
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Bermuda (S.L. 52.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 52.03**
 

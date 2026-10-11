@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar il-Konvenzjoni Konġunta tal-Kunsill tal-Ewropa/OECD dwar Assistenza Amministrattiva Reċiproka dwar Materja ta’ Taxxa (S.L. 123.150)
 
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-*1*
-
-REĊIPROKA DWAR MATERJI TA’ TAXXA [L.S.123.150
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.150**
 
 **ORDNI DWAR IL-KONVENZJONI KONĠUNTA**
@@ -52,10 +46,6 @@ B’dan qiegħed jiġi dikjarat:
 (d) illi d-data tal-bidu fis-seħħ tal-Konvenzjoni għandha tiġi mħabbra permezz ta’ avviż fil-Gazzetta.\*
 
 \*il-Konvenzjoni ġiet fis-seħħ fl-1 ta’ Settembru, 2013 - ara l-A.L. 282 tal-2013.
-
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-2 [L.S.123.150 REĊIPROKA DWAR MATERJI TA’ TAXXA
 
 ## SKEDA — Artikolu 2 — KONVENZJONI DWAR ASSISTENZA AMMINISTRATTIVA REĊIPROKA
 
@@ -99,9 +89,7 @@ Il-Partijiet għandhom, bla ħsara għad-dispożizzjonijiet tal-Kapitolu IV, jip
 
 Dik l-assistenza amministrattiva għandha tinkludi:
 
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-REĊIPROKA DWAR MATERJI TA’ TAXXA [L.S.123.150 3 a skambju ta’ informazzjoni, inkluż eżamijiet ta’ taxxa simultanji u parteċipazzjoni f’eżamijiet ta’ taxxa barra l-pajjiż;
+a skambju ta’ informazzjoni, inkluż eżamijiet ta’ taxxa simultanji u parteċipazzjoni f’eżamijiet ta’ taxxa barra l-pajjiż;
 
 b assistenza fl-irkupru, inklużi miżuri ta’ konservazzjoni; u
 
@@ -157,11 +145,7 @@ Il-Partijiet għandhom jinnotifikaw lis-Segretarju Ġenerali tal-Kunsill tal- Ew
 
 ## 4.
 
-Il-Konvenzjoni għandha tapplika wkoll, minn meta tiġi addottata, għal kull taxxa identika jew sostanzjalment simili li tkun imposta fi Stat Kontraenti wara li OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-4 [L.S.123.150 REĊIPROKA DWAR MATERJI TA’ TAXXA
-
-tidħol fis-seħħ il-Konvenzjoni dwar dik il-Parti b’żjieda jew minflok it-taxxi eżistenti elenkati f’Anness A u, f’dak il-każ, il-Parti involuta għandha tavża wieħed mid-Depożitarji bl-addozzjoni tat-taxxa inkwistjoni.
+Il-Konvenzjoni għandha tapplika wkoll, minn meta tiġi addottata, għal kull taxxa identika jew sostanzjalment simili li tkun imposta fi Stat Kontraenti wara li tidħol fis-seħħ il-Konvenzjoni dwar dik il-Parti b’żjieda jew minflok it-taxxi eżistenti elenkati f’Anness A u, f’dak il-każ, il-Parti involuta għandha tavża wieħed mid-Depożitarji bl-addozzjoni tat-taxxa inkwistjoni.
 
 Kapitolu II - Tifsiriet ġenerali
 
@@ -199,9 +183,7 @@ Artikolu 4 - Provvediment ġenerali
 
 \3. Kull Parti tista’, b’dikjarazzjoni li tkun indirizzata lil wieħed mid- Depożitarji, tindika li, skont il-leġislazzjoni interna tagħha, l-awtoritajiet tagħha jistgħu jinformaw residenti jew ċittadin tagħha qabel jittrasmettu informazzjoni dwaru, skont ma hemm fl-Artikoli 5 u 7.
 
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-REĊIPROKA DWAR MATERJI TA’ TAXXA [L.S.123.150 5 Artikolu 5 - Skambju ta’ informazzjoni fuq talba
+Artikolu 5 - Skambju ta’ informazzjoni fuq talba
 
 \1. Fuq talba ta’ Stat applikanti, l-Istat mitlub għandu jipprovdi lill-Istat applikant b’kull informazzjoni msemmija fl-Artikolu 4 li tikkonċerna persuni partikolari jew transazzjonijiet.
 
@@ -229,20 +211,11 @@ Artikolu 8 - Eżamijiet tat-taxxa simultanji
 
 \1. Fuq talba ta’ waħda minnhom, żewġ Partijiet jew aktar għandhom jikkonsultaw lil xulxin bil-għan li jiġu stabbiliti każijiet u proċeduri għall-eżamijiet tat-taxxa simultanji. Kull Parti involuta għandha tiddeċiedi jekk tixtieq tipparteċipa jew le f’eżami tat-taxxa simultanju partikolari.
 
-\2. Għall-għanijiet ta’ din il-Konvenzjoni, eżami tat-taxxa simultanju tfisser
+\2. Għall-għanijiet ta’ din il-Konvenzjoni, eżami tat-taxxa simultanju tfisser arranġament bejn żewġ Partijiet jew aktar sabiex jeżaminaw simultanjament, kull wieħed fit-territorju tiegħu, l-affarijiet tat-taxxa ta’ persuna jew persuni li fihom għandhom interess komuni jew relatat, bl-iskop li jiskambjaw kull informazzjoni rilevanti li huma hekk jiksbu.
 
-arranġament bejn żewġ Partijiet jew aktar sabiex jeżaminaw simultanjament, kull  
-wieħed fit-territorju tiegħu, l-affarijiet tat-taxxa ta’ persuna jew persuni li fihom  
-għandhom interess komuni jew relatat, bl-iskop li jiskambjaw kull informazzjoni  
-rilevanti li huma hekk jiksbu.  
-Artikolu 9 - Eżamijiet tat-taxxa barra mill-pajjiż  
-\1.  Fuq talba tal-awtorità kompetenti tal-Istat applikant, l-awtorità kompetenti  
-tal-Istat mitlub tista’ tippermetti rappreżentanti tal-awtorità kompetenti tal-Istat  
-applikant li jkunu preżenti f’parti xierqa ta’ eżami ta’ taxxa fl-Istat mitlub.
+Artikolu 9 - Eżamijiet tat-taxxa barra mill-pajjiż
 
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-6 [L.S.123.150 REĊIPROKA DWAR MATERJI TA’ TAXXA
+\1. Fuq talba tal-awtorità kompetenti tal-Istat applikant, l-awtorità kompetenti tal-Istat mitlub tista’ tippermetti rappreżentanti tal-awtorità kompetenti tal-Istat applikant li jkunu preżenti f’parti xierqa ta’ eżami ta’ taxxa fl-Istat mitlub.
 
 \2. Jekk it-talba tiġi milqugħa, l-awtorità kompetenti tal-Istat mitlub għandha, malajr kemm jista’ ikun, tavża l-awtorità kompetenti tal-Istat applikant rigward il-ħin u l-post tal-eżami, l-awtorità jew l-uffiċjal maħtura biex jagħmlu l-eżami u l-proċeduri u l-kundizzjonijiet meħtieġa mill-Istat mitlub biex isir l-eżami. Id-deċiżjonijiet kollha dwar il mod kif isir l-eżami għandhom isiru mill-Istat mitlub.
 
@@ -276,9 +249,7 @@ a dikjarazzjoni li t-talba tat-taxxa tinvolvi taxxa koperta mill- Konvenzjoni u,
 
 b kopja uffiċjali tal-istrument li jippermetti l-infurzar fl-Istat applikant, u ċ kull dokument ieħor meħtieġ għall-irkupru jew miżuri ta’ konservazzjoni.
 
-\2. L-istrument li jippermetti l-infurzar fl-Istat applikant għandu, meta hu xieraq u skont id-dispożizzjonijiet fis-seħħ fl-Istat mitlub, ikun aċċettat, rikonoxxut, OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-REĊIPROKA DWAR MATERJI TA’ TAXXA [L.S.123.150 7 supplimentat jew sostitwit malajr kemm jista’ ikun wara d-data li fiha tiġi riċevuta t-talba għall-assistenza, minn strument li jippermetti l-infurzar fl-aħħar imsemmi Stat. Artikolu 14 - Limitu ta’ żmien
+\2. L-istrument li jippermetti l-infurzar fl-Istat applikant għandu, meta hu xieraq u skont id-dispożizzjonijiet fis-seħħ fl-Istat mitlub, ikun aċċettat, rikonoxxut, supplimentat jew sostitwit malajr kemm jista’ ikun wara d-data li fiha tiġi riċevuta t-talba għall-assistenza, minn strument li jippermetti l-infurzar fl-aħħar imsemmi Stat. Artikolu 14 - Limitu ta’ żmien
 
 \1. Kwistjonijiet li jikkonċernaw kull perjodu li lil hinn minnu talba ta’ taxxa ma tkunx tista’ tiġi infurzata għandhom ikunu regolati mill-liġi tal-Istat applikant.
 
@@ -315,10 +286,6 @@ Ebda ħaġa fil-Konvenzjoni ma’ għandha titqies li tinvalida notifika ta’ d
 ## 5.
 
 Meta dokument jiġi notifikat skont dan l-artiklu, ma jkunx hemm ħtieġa li jkun akkumpanjat minn traduzzjoni. Iżda, meta ikun sodisfatt li l-indirizzat ma jkunx jifhem il-lingwa tad-dokument, l-Istat mitlub għandu jirranġa biex issir traduzzjoni tiegħu fi jew sommarju miktub bil-lingwa jew waħda mill-lingwi uffiċjali tiegħu. Minflok, jista’ jitlob lill-Istat applikant biex jittraduċi d-dokument fi jew li miegħu jibgħat sommarju f’waħda mill-lingwi uffiċċjali tal-Istat mitlub, tal-Kunsill tal- Ewropa jew tal-OECD.
-
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-8 [L.S.123.150 REĊIPROKA DWAR MATERJI TA’ TAXXA
 
 Kapitolu IV - Provvedimenti dwar kull forma ta’ assistenza
 
@@ -360,9 +327,7 @@ b li jwettaq miżuri li jmorru kontra l-ordni pubbliku (ordre public);
 
 ċ li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew il-prattika amministrattiva tiegħu stess jew taħt il-liġijiet jew il-prattika amministrattiva tal-Istat applikant;
 
-d li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-REĊIPROKA DWAR MATERJI TA’ TAXXA [L.S.123.150 9 informazzjoni, li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public);
+d li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew informazzjoni, li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public);
 
 e li jipprovdi assistenza amministrattiva jekk u sakemm jikkunsidra li t-tassazzjoni fl-Istat applikant tmur kontra il-prinċipji ġenerali tat-taxxa aċċettati jew id-dispożizzjonijiet ta’ ftehim għall-evitar ta’ taxxa doppja, jew ta’ kull ftehim ieħor li l-Istat mitlub ikun għamel mal-Istat applikant;
 
@@ -382,11 +347,7 @@ Artikolu 22 - Segretezza
 
 \2. Dik l-informazzjoni għandha fi kwalunkw każ tiġi biss żvelata lil persuni jew awtoritajiet (inklużi l-qrati u korpi amministrattivi jew ta’ superviżjoni) involuti fl-istima, il-ġbir jew l-irkupru ta’, l-infurzar jew il-prosekezzjoni dwar, jew id-deċiżjoni ta’ appelli dwar, it-taxxi ta’ dik il-Parti, jew is-sorveljanza ta’ dak kollu hawn qabel imsemmi. Il-persuni jew l-awtoritajiet imsemmija hawn fuq biss jistgħu jużaw l-informazzjoni u għal dawk l-għanijiet biss. Huma jistgħu, minkejja d-dispożizzjonijiet tal-paragrafu 1, jiżvelaw l-informazzjoni fi proċediment li jsir fil-qorti bil-miftuħ jew f’deċiżjonijiet tal-qorti dwar dawk it-taxxi.
 
-\3. Jekk Parti tkun għamlet riserva kif previst fis-sub-paragrafu a. tal-paragrafu 1 tal-Artikolu 30, kull Parti oħra li tikseb informazjoni minn dik il-Parti m’għandhiex tużaha għal fini ta’ taxxa f’kategorija li tkun suġġetta għal riserva. Bl- OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-10 [L.S.123.150 REĊIPROKA DWAR MATERJI TA’ TAXXA
-
-istess mod, il-Parti li tagħmel dik ir-riserva m’għandhiex tuża’ informazzjoni miksuba taħt din il-Konvenzjoni għal fini ta’ taxxa f’kategorija suġġetta għar-riserva.
+\3. Jekk Parti tkun għamlet riserva kif previst fis-sub-paragrafu a. tal-paragrafu 1 tal-Artikolu 30, kull Parti oħra li tikseb informazjoni minn dik il-Parti m’għandhiex tużaha għal fini ta’ taxxa f’kategorija li tkun suġġetta għal riserva. Bl-istess mod, il-Parti li tagħmel dik ir-riserva m’għandhiex tuża’ informazzjoni miksuba taħt din il-Konvenzjoni għal fini ta’ taxxa f’kategorija suġġetta għar-riserva.
 
 \4. Minkejja d-dispożizzjonijiet tal-paragrafi 1, 2 u 3, informazzjoni riċevuta minn Parti tista’ tiġi użata għal għanijiet oħra meta dik l-informazzjoni tista’ tiġi użata għal dawk l-għanijiet oħra taħt il-liġijiet tal-Parti li tipprovdi l-informazzjoni u l-awtorità kompetenti ta’ dik il-Parti tawtorizza dak l-użu. Informazzjoni li tkun provduta minn Parti lil Parti oħra tista’ tiġi trasmessa minn din tal-aħħar lil Parti terza, sakemm ikun hemm awtorizzazzjoni minn qabel mill-awtorità kompetenti tal- Parti l-ewwel imsemmija.
 
@@ -408,9 +369,7 @@ Artikolu 24 - Implimentazzjoni tal-Konvenzjoni
 
 \3. Korp ta’ koordinazzjoni magħmul minn rappreżentanti tal-awtoritajiet kompetenti tal-Partijiet għandu jissorvelja l-implimentazzjoni u żvilupp tal- Konvenzjoni, taħt il-patroċinju tal-OECD. Għal dak il-għan, il-korp ta’ koordinazzjoni għandu jirrakkomanda kull azzjoni li probabbilment iżżid mal-miri ġenerali tal-Konvenzjoni. B’mod partikolari għandu jaġixxi bħala forum għall-istudju ta’ metodi u proċeduri ġodda biex tiżdied il-kooperazjoni internazzjonali f’materji ta’ taxxa u, meta hu xieraq, jista’ jirrakkomanda reviżjonijiet jew emendi għall-Konvenzjoni. L-Istati li iffirmaw iżda għadhom ma irratifikawx, ma aċċettawx jew ma approvawx il-Konvenzjoni huma intitolati li jkunu rappreżentati fil-laqgħat tal-korp ta’ koordinazzjoni bħala osservaturi.
 
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-REĊIPROKA DWAR MATERJI TA’ TAXXA [L.S.123.150 11 4. Parti tista’ titlob lill-korp ta’ koordinazzjoni biex jagħti opinjonijiet dwar l-interpretazzjoni tad-dispożizzjonijiet tal-Konvenzjoni.
+\4. Parti tista’ titlob lill-korp ta’ koordinazzjoni biex jagħti opinjonijiet dwar l-interpretazzjoni tad-dispożizzjonijiet tal-Konvenzjoni.
 
 ## 5.
 
@@ -448,11 +407,7 @@ Artikolu 28 - Iffirmar u bidu fis-seħħ tal-Konvenzjoni
 
 \3. Dwar kull membru tal-Kunsill tal-Ewropa jew kull pajjiż membru tal-OECD li sussegwentement jesprimi l-kunsens li jintrabat biha, il-Konvenzjoni għandha tidħol fis-seħħ fl-ewwel ġurnata tax-xahar wara li jintemm perjodu ta’ tliet xhur wara d-data tad-depożitu tal-istrument ta’ ratifika, aċċettazzjoni jew approvazzjoni.
 
-\4. Kull Stat membru tal-Kunsill tal-Ewropa jew kull pajjiż membru tal-OECD li jsir Parti tal-Konvenzjoni wara li jidħol fis-seħħ il-Protokoll li jemenda il- OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-12 [L.S.123.150 REĊIPROKA DWAR MATERJI TA’ TAXXA
-
-Konvenzjoni, li nfetaħ għall-iffirmar fis-27 ta’ Mejju 2010 (il-“Protokoll tal-2010”), għandu jkun Parti tal-Konvenzjoni kif emendata b’dak il-Protokoll, sakemm ma jesprimux intenzjoni differenti f ’komunikazzjoni bil-miktub lil wieħed mid- Depożitarji.
+\4. Kull Stat membru tal-Kunsill tal-Ewropa jew kull pajjiż membru tal-OECD li jsir Parti tal-Konvenzjoni wara li jidħol fis-seħħ il-Protokoll li jemenda il- Konvenzjoni, li nfetaħ għall-iffirmar fis-27 ta’ Mejju 2010 (il-“Protokoll tal-2010”), għandu jkun Parti tal-Konvenzjoni kif emendata b’dak il-Protokoll, sakemm ma jesprimux intenzjoni differenti f ’komunikazzjoni bil-miktub lil wieħed mid- Depożitarji.
 
 \5. Wara li jidħol fis-seħħ il-Protokoll tal-2010, kull Stat li mhux membru tal- Kunsill tal-Ewropa jew tal-OECD jista’ jitlob biex jiġi mistieden biex jiffirma u jirratifika din il-Konvenzjoni kif emendata bil-Protokoll tal-2010. Kull talba għal dan il-għan għandha tkun indirizzata lil wieħed mid-Depożitarji, li għandu jittrasmettiha lil Partijiet. Id-Depożitarju għandu jinforma wkoll il-Kumitat tal- Ministri tal-Kunsill tal-Ewropa u l-Kunsill tal-OECD. Id-deċizjoni li jiġu mistiedna Stati li jitolbu li jsiru Parti tal-Konvenzjoni għandha tittieħed b’kunsens mill- Partijiet tal-Konvenzjoni permezz tal-korp ta’ koordinazzjoni. Dwar kull Stat li jirratifika l-Konvenzjoni kif emendata bil-Protokoll tal-2010 skont dan il-paragrafu, din il-Konvenzjoni għandha tidħol fis-seħħ fl-ewwel ġurnata tax-xahar wara li jintemm perjodu ta’ tliet xhur wara d-data ta’ depożitu tal-istrument ta’ ratifika ma’ wieħed mid-Depożitarji.
 
@@ -476,9 +431,7 @@ Artikolu 30 - Riservi
 
 \1. Kull Stat jista’, filwaqt tal-iffirmar jew meta jiddepożita l-istrument ta’ ratifika, aċċettazzjoni jew approvazzjoni jew f’kull data oħra aktar tard, jiddikjara li jirriserva d-dritt:
 
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-REĊIPROKA DWAR MATERJI TA’ TAXXA [L.S.123.150 13 a li ma jipprovdi ebda forma ta’ assistenza dwar it-taxxi ta’ Partijiet oħra f’xi waħda mill-kategoriji elenkati fis-sub-paragrafu b. tal-paragrafu 1 tal-Artikolu 2, sakemm ma jkunx inkluda xi taxxa domestika f’dik il-kategorija fl-Anness A tal-Konvenzjoni;
+a li ma jipprovdi ebda forma ta’ assistenza dwar it-taxxi ta’ Partijiet oħra f’xi waħda mill-kategoriji elenkati fis-sub-paragrafu b. tal-paragrafu 1 tal-Artikolu 2, sakemm ma jkunx inkluda xi taxxa domestika f’dik il-kategorija fl-Anness A tal-Konvenzjoni;
 
 b li ma jipprovdix assistenza fl-irkupru ta’ xi talba ta’ taxxa, jew fl-irkupru ta’ multa amministrattiva, għat-taxxi kollha jew biss għat-taxxi f’waħda jew aktar tal-kategoriji elenkati fil-paragrafi 1 tal-Artikolu 2; ċ li ma jipprovdix assistenza dwar xi talba ta’ taxxa, li tkun teżisti fid-data tal-bidu fis-seħħ tal-Konvenzjoni dwar dak l-Istat jew, meta riserva tkun saret qabel taħt is-sub-paragrafu a. jew b. ta’ hawn fuq, fid-data tal-irtirar ta’ dik ir-riserva dwar taxxi fil-kategoriji inkwistjoni;
 
@@ -503,10 +456,6 @@ Artikolu 31 - Denunzja
 \2. Dik id-denunzja għandha tkun effettiva fl-ewwel ġurnata tax-xahar wara li jintemm perjodu ta’ tliet xhur wara d-data li fiha tiġi riċevuta n-notifika mid- Depożitarju.
 
 \3. Kull Parti li tiddenunzja l-Konvenzjoni għandha tibqa’ marbuta bid-dispożizzjonijiet tal-Artikolu 22 tul iż-żmien kollu li tibqa’ iżżomm fil-pussess tagħha xi dokumenti jew informazzjoni li kisbet taħt il-Konvenzjoni.
-
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-14 [L.S.123.150 REĊIPROKA DWAR MATERJI TA’ TAXXA
 
 Artikolu 32 - Id-Depożitarji u l-funzjonijiet tagħhom
 
@@ -536,9 +485,7 @@ Aldo Farrugia
 
 26-10-2012
 
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-REĊIPROKA DWAR MATERJI TA’ TAXXA [L.S.123.150 15 Ministeru tal-Affarijiet Barranin
+Ministeru tal-Affarijiet Barranin
 
 Malta
 
@@ -586,10 +533,6 @@ B. Mhux Applikabbli
 
 Ċ. It-Taxxa imposta taħt l-Att dwar it-Taxxa fuq il-Valur Miżjud;
 
-OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-16 [L.S.123.150 REĊIPROKA DWAR MATERJI TA’ TAXXA
-
 D. Mhux Applikabbli
 
 E. Mhux Applikabbli
@@ -636,6 +579,4 @@ Malta tirriserva d-dritt li ma tipprovdix assistenza dwar kull talba ta’ taxxa
 
 \4. Dwar Artikolu 30, paragrafu 1.d -
 
-Malta tirriserva d-dritt li ma tipprovdix assistenza fin-notifika ta’ dokumenti dwar taxxi elenkati fil-paragrafu 1 tal-Artikolu 2 tal-Konvenzjoni ħlief għal OECD DWAR ASSISTENZA AMMINISTRATTIVA
-
-REĊIPROKA DWAR MATERJI TA’ TAXXA [L.S.123.150 17 kategoriji elenkati fis-sub-paragrafi a.i u a.ii ta’ dak il-paragrafu 1.
+Malta tirriserva d-dritt li ma tipprovdix assistenza fin-notifika ta’ dokumenti dwar taxxi elenkati fil-paragrafu 1 tal-Artikolu 2 tal-Konvenzjoni ħlief għal kategoriji elenkati fis-sub-paragrafi a.i u a.ii ta’ dak il-paragrafu 1.

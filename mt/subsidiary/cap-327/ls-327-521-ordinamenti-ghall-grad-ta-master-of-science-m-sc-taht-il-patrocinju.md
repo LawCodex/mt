@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science - M.Sc. - taħt il-patroċinju taċ-Ċentru għaċ-Ċibernetika Biomedika (S.L. 327.521)
 
-*1*
-
-PATROĊINJU TAĊ-ĊENTRU GĦAĊ-ĊIBERNETIKA BIOMEDIKA [L.S.327.521
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.521**
 
 ORDINAMENTI GĦALL-GRAD TA’ MASTER OF SCIENCE - M.Sc. - TAĦT IL-PATROĊINJU TAĊ- ĊENTRU GĦAĊ-ĊIBERNETIKA BIOMEDIKA 6 ta’ Ottubru, 2015
@@ -67,11 +63,7 @@ Il-kors ikun miftuħ għall-applikanti li għandhom dawn il-kwalifiki li ġejjin
 
 (e) il-grad ta’ Master of Dental Surgery miksub minn Lulju 2018 ’il quddiem; jew
 
-(f) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, li hija ekwivalenti jew ogħla għall-kwalifiki [L.S.327.521 PATROĊINJU TAĊ-ĊENTRU GĦAĊ-ĊIBERNETIKA BIOMEDIKA
-
-**msemmija fil-paragrafi (a) sa (e) hawn fuq.**
-
-*2*
+(f) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, li hija ekwivalenti jew ogħla għall-kwalifiki msemmija fil-paragrafi (a) sa (e) hawn fuq.
 
 ## 5. Tul tal-kors.
 
@@ -107,11 +99,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (3) L-istudenti huma meħtieġa jiltaqgħu mas-superviżuri tagħhom mill-anqas darba kull xahrejn, u barra minn hekk, aktar spiss jekk is-superviżur jidhirlu li dan hu meħtieġ.
 
-(4) Fl-aħħar ta’ kull semestru ta’ studju, is-superviżuri jkunu PATROĊINJU TAĊ-ĊENTRU GĦAĊ-ĊIBERNETIKA BIOMEDIKA [L.S.327.521
-
-meħtieġa jissottomettu lill-Panil ta’ Superviżjoni, rapporti dwar l-istudenti taħt is-superviżjoni tagħhom, kemm jekk ikunu qegħdin isegwu l-kors full-time kif ukoll jekk ikunu qegħdin isegwu l-kors part-time.
-
-*3*
+(4) Fl-aħħar ta’ kull semestru ta’ studju, is-superviżuri jkunu meħtieġa jissottomettu lill-Panil ta’ Superviżjoni, rapporti dwar l-istudenti taħt is-superviżjoni tagħhom, kemm jekk ikunu qegħdin isegwu l-kors full-time kif ukoll jekk ikunu qegħdin isegwu l-kors part-time.
 
 (5) L-istudenti għandhom jitolbu għall-approvazzjoni tal-Panil jekk ikollhom bżonn jagħmlu xi modifika sostanzjali fit-titlu jew fil-kontenut tad-dissertazzjoni.
 

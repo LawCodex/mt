@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Federazzjoni Russa) (S.L. 123.146)
 
-*1*
-
-(FEDERAZZJONI RUSSA) [L.S.123.146
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.146**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA (TAXXI FUQ L-INCOME) (FEDERAZZJONI RUSSA) 18 ta’ Ġunju, 2013
@@ -46,8 +42,6 @@ B’dan qiegћed jiġi dikjarat:
 *\**
 
 22 ta’ Mejju, 2014. Ara l-Avviż Legali 150 tal-2014.
-
-2 [L.S.123.146 (FEDERAZZJONI RUSSA)
 
 ## SKEDA
 
@@ -115,9 +109,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 \1. Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra:
 
-(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiġi użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Gћawdex u l-gżejjer l- (FEDERAZZJONI RUSSA) [L.S.123.146 3
-
-oћra tal-arċipelagu Malti inklużi l-ibћra territorjali tagћhom, kif ukoll kull area ta’ qiegћ il-baћar, is-sottoswol tiegћu u l-kolonna ta’ baћar sovrajaċenti li tinsab adjaċenti mal-ibћra territorjali, li fihom Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew kontroll kif hemm fid-dritt internazzjonali u l-liġi nazzjonali tagћha, inkluża l-leġislazzjoni tagћha gћar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagћha;
+(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiġi użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Gћawdex u l-gżejjer l-oћra tal-arċipelagu Malti inklużi l-ibћra territorjali tagћhom, kif ukoll kull area ta’ qiegћ il-baћar, is-sottoswol tiegћu u l-kolonna ta’ baћar sovrajaċenti li tinsab adjaċenti mal-ibћra territorjali, li fihom Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew kontroll kif hemm fid-dritt internazzjonali u l-liġi nazzjonali tagћha, inkluża l-leġislazzjoni tagћha gћar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagћha;
 
 (b) il-frażi "Russja" tfisser il-Federazzjoni Russa; meta użata f’sens ġeografiku, tfisser it-territorju kollu tal-Federazzjoni Russa u kif ukoll iż-żona ekonomika esklussiva tagħha u l-blata kontinentali, mfissra skont il-Konvenzjoni tan-N.U. fuq il-liġi tal-baħar (1982);
 
@@ -149,9 +141,7 @@ oћra tal-arċipelagu Malti inklużi l-ibћra territorjali tagћhom, kif ukoll k
 
 **RESIDENTI**
 
-\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet ta’ dak l-Istat, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post ta’ inkorporazzjoni, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk, u tinkludi wkoll dak l-Istat u kull sottodivizjoni politika jew awtorità lokali tiegħu. Madankollu din il-frażi ma 4 [L.S.123.146 (FEDERAZZJONI RUSSA)
-
-tinkludix lil xi persuna li tkun soġġetta għat-taxxa f’dak l-Istat biss dwar income minn għejjun f’dak l-Istat.
+\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet ta’ dak l-Istat, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post ta’ inkorporazzjoni, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk, u tinkludi wkoll dak l-Istat u kull sottodivizjoni politika jew awtorità lokali tiegħu. Madankollu din il-frażi ma tinkludix lil xi persuna li tkun soġġetta għat-taxxa f’dak l-Istat biss dwar income minn għejjun f’dak l-Istat.
 
 \2. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewg Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
 
@@ -191,9 +181,7 @@ tinkludix lil xi persuna li tkun soġġetta għat-taxxa f’dak l-Istat biss dwa
 
 Meta impriża ta’ Stat Kontraenti twettaq servizzi fl-Istat Kontraenti l-ieħor:
 
-(a) permezz ta’ individwu li jkun preżenti fl-Istat l-ieħor għall-perjodu jew perjodi li jkunu jeċċedu fit-total tagħhom 183 jum f’kull perjodu ta’ tnax il-xahar, u aktar minn 50% tad-dħul gross attribwibbli għall- (FEDERAZZJONI RUSSA) [L.S.123.146 5
-
-attivitajiet ta’ negozju attiv tal-impriża matul dan il-perjodu jew perjodi jinkisbu minn servizzi mwettqa fl-Istat l-ieħor permezz ta’ dak l-individwu, jew
+(a) permezz ta’ individwu li jkun preżenti fl-Istat l-ieħor għall-perjodu jew perjodi li jkunu jeċċedu fit-total tagħhom 183 jum f’kull perjodu ta’ tnax il-xahar, u aktar minn 50% tad-dħul gross attribwibbli għall-attivitajiet ta’ negozju attiv tal-impriża matul dan il-perjodu jew perjodi jinkisbu minn servizzi mwettqa fl-Istat l-ieħor permezz ta’ dak l-individwu, jew
 
 (b) għall-perjodu jew perjodi li jkunu jeċċedu fit-total tagħhom 183 jum f’kull perjodu ta’ tnax il-xahar, u dawn is-servizzi jitwettqu għall-istess proġett jew proġetti konnessi miegħu permezz ta’ individwu jew aktar individwi li jkunu preżenti u li jkunu jwettqu dawk is-servizzi f’dak l- Istat l-ieħor,
 
@@ -225,9 +213,7 @@ Impriża ta’ Stat Kontraenti ma gћandhiex titqies li jkollha stabbiliment per
 
 ## 8.
 
-Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla jew tkun kontrollata minn kumpannija li tkun residenti tal-Istat Kontraenti l-ieћor, jew li tkun tiġġestixxi negozju f’dak l-Istat l-ieћor (sew permezz ta’ stabbiliment permanenti sew xort’oћra), m’gћandux fih innifsu jikkostitwixxi lil kumpannija 6 [L.S.123.146 (FEDERAZZJONI RUSSA)
-
-waħda jew l-oћra stabbiliment permanenti tal-kumpannija l-oћra.
+Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla jew tkun kontrollata minn kumpannija li tkun residenti tal-Istat Kontraenti l-ieћor, jew li tkun tiġġestixxi negozju f’dak l-Istat l-ieћor (sew permezz ta’ stabbiliment permanenti sew xort’oћra), m’gћandux fih innifsu jikkostitwixxi lil kumpannija waħda jew l-oћra stabbiliment permanenti tal-kumpannija l-oћra.
 
 **Artikolu 6**
 
@@ -254,8 +240,6 @@ waħda jew l-oћra stabbiliment permanenti tal-kumpannija l-oћra.
 \4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li gћandhom jiġu attribwiti lil stabbiliment permanenti fuq bażi ta’ tqassim tal-profitti totali tal-impriża lill-partijiet diversi tagћha, ebda ћaġa fil-paragrafu 2 m’gћandha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li gћandhom jiġu intaxxati b’dak it-tqassim hekk kif tista’ tkun il-konswetudni; il-metodu ta’ tqassim li jiġi adottat gћandu, madankollu, isir b’tali mod li r-riżultat ikun kif iridu l-prinċipji li jinsabu f’dan l-Artikolu.
 
 \5. Ebda profitti ma gћandhom jiġu attribwiti lil stabbiliment permanenti minћabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija gћall-impriża.
-
-(FEDERAZZJONI RUSSA) [L.S.123.146 7
 
 \6. Gћall-gћanijiet tal-paragrafi ta’qabel, il-profitti li gћandhom jiġu attribwiti lill-istabbiliment permanenti gћandhom jiġu stabbiliti bl-istess metodu sena wara l-oћra kemm-il darba ma jkunx hemm raġuni tajba u suffiċjenti gћaliex dan m’gћandux isir.
 
@@ -285,8 +269,6 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewg impriżi
 
 \2. Meta Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat - u skont hekk jintaxxa - profitti li fuqhom impriża tal-Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kondizzjonijiet magћmulin bejn iż-żewg impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor jista’ jagћmel tibdil adatt fl-ammont tat-taxxa hemm imposta fuq dawk il-profitti. Biex jiġi stabbilit dak it-tibdil, id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jekk ikun hekk meћtieġ jikkonsultaw lil xulxin.
 
-8 [L.S.123.146 (FEDERAZZJONI RUSSA)
-
 Emendat: Artikolu 10
 
 A.L. 428 tal-
@@ -313,9 +295,7 @@ it-taxxa li għandha hekk titħallas m’għandhiex teċċedi ħamsa fil-mija (5
 
 \4. Il-frażi "dividendi" skont ma tintuża f’dan l-Artikolu tfisser income minn ishma jew jeddijiet oћra, li ma jkunux pretensjonijiet ta’ debitu, li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess trattament dwar it-taxxa bћallikieku kien income minn ishma skont il-liġijiet tat-taxxa ta’ l-Istat fejn tkun residenti l-kumpannija li tkun qegћda tħallas. Din il-frażi tfisser ukoll kull pagament li jsir dwar unitajiet ta’ fondi ta’ investiment mutwi jew vetturi jew skemi ta’ investiment kollettiv simili.
 
-\5. Id-dispożizzjonijiet tal-paragrafi 1, 2 u 3 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk u l-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l- (FEDERAZZJONI RUSSA) [L.S.123.146 9
-
-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet ta’ l-Artikolu 7.
+\5. Id-dispożizzjonijiet tal-paragrafi 1, 2 u 3 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk u l-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet ta’ l-Artikolu 7.
 
 \6. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma, jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
 
@@ -351,9 +331,7 @@ iv. bank; jew
 
 v. kumpannija li l-ishma tagħha huma elenkati fuq borża reġistrata bil-kondizzjoni li mhux inqas minn ħmistax fil-mija (15%) tal-ishma tal-vot ta’ dik il-kumpannija jkunu free float u li żżomm direttament mill-inqas ħmistax fil-mija (15%) tal-kapital tal-kumpannija li tħallas l-imgħax tul perjodu ta’ tlett mija u ħamsa u sittin (365) jum li jinkludi l-jum tal-ħlas tal-imgħax; jew
 
-B) l-imgħax huwa mħallas fir-rigward tat-titoli li ġejjin elenkati f’borża 10 [L.S.123.146 (FEDERAZZJONI RUSSA)
-
-reġistrata:
+B) l-imgħax huwa mħallas fir-rigward tat-titoli li ġejjin elenkati f’borża reġistrata:
 
 i. bonds tal-Gvern;
 
@@ -383,9 +361,7 @@ Id-dispożizzjoni ta’ dan l-Artikolu m’għandhiex tapplika jekk l-għan prin
 
 **ROYALTIES**
 
-\1. Royalties li jinqalgћu fi Stat Kontraenti u li jitħallsu lil residenti tal-Istat Kontraenti l-ieħor, li jkun is-sid benefiċjarju ta’ dawk ir-royalties, jistgħu jiġu (FEDERAZZJONI RUSSA) [L.S.123.146 11
-
-intaxxati f’dak l-Istat l-ieħor.
+\1. Royalties li jinqalgћu fi Stat Kontraenti u li jitħallsu lil residenti tal-Istat Kontraenti l-ieħor, li jkun is-sid benefiċjarju ta’ dawk ir-royalties, jistgħu jiġu intaxxati f’dak l-Istat l-ieħor.
 
 \2. Madankollu, dawk ir-royalties jistgħu jiġu intaxxati ukoll fl-Istat Kontraenti fejn dawn joriġinaw u kif hemm fil-liġijiet ta’ dak l-Istat, iżda jekk is-sid benefiċjarju tar-royalties ikun residenti tal-Istat Kontraenti l-ieħor, it-taxxa hekk mitluba m’gћandhiex teċċedi 5 fil-mija tal-ammont gross tar-royalties.
 
@@ -408,8 +384,6 @@ intaxxati f’dak l-Istat l-ieħor.
 \1. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli imsemmija fl-Artikolu 6 u li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
 
 \2. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien mal-impriża kollha) jista’ jiġi intaxxat f’dak Istat l-ieћor.
-
-12 [L.S.123.146 (FEDERAZZJONI RUSSA)
 
 \3. Qligћ li jinkiseb minn impriża ta’ Stat Kontraenti mit-trasferiment ta’ bastimenti jew inġenji tal-ajru li jkunu qegћdin jiġu mħaddma fi traffiku internazzjonali, jew minn proprjetà mobbli li tkun tappartjeni għat-tħaddim ta’ dawk il-bastimenti jew inġenji tal-ajru, gћandu jiġi intaxxat biss f’dak l-Istat.
 
@@ -445,8 +419,6 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 \1. Minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, income li jinkiseb minn residenti ta’ Stat Kontraenti bћala persuni li jagћtu spettaklu, bћal artisti tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћala mużiċisti, jew bћala sportivi, mill-attivitajiet personali tagћhom bћala tali li jiġu eżerċitati fl-Istat Kontraenti l-ieћor, jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
 
-(FEDERAZZJONI RUSSA) [L.S.123.146 13
-
 \2. Meta income dwar attivitajiet personali eżerċitati minn persuni li jagћtu spettaklu jew minn sportivi fil-kapaċità tagћhom bћala tali ma jinġabarx favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iżda favur xi persuna oћra, dak l-income jista’, minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, jiġi intaxxat fl-Istat Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
 
 \3. Minkejja id-dispożizzjonijiet tal-paragrafi 1 u 2, income li jinkiseb minn dawk l-attivitajiet imsemmija fil-paragrafu 1 li jitwettqu taħt ftehim kulturali jew arranġament bejn l-Istati Kontraenti għandu jkun eżenti mit-taxxa fl-Istat Kontraenti li fih l-attivitajiet jiġu eżerċitati kemm il-darba iż-żjara f’dak l-Istat tkun għalkollox jew prinċipalment sostnuta minn fondi pubbliċi jew tal-Gvern ta’ xi wieħed mill- Istati Kontraenti.
@@ -478,8 +450,6 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 \3. Id-dispożizzjonijiet tal-Artikoli 14, 15, 16 u 17 gћandhom japplikaw gћal kull salarju, paga u kumpens ieħor bħalhom gћar-rigward ta’ servizzi mogħtijin f’dak li għandu x’jaqsam ma’ kummerċ ġestit minn Stat Kontraenti jew minn sottodiviżjoni politika jew awtorità lokali tiegћu.
 
 **Artikolu 19**
-
-14 [L.S.123.146 (FEDERAZZJONI RUSSA)
 
 **PROFESSURI, GĦALLIEMA U RIĊERKATURI**
 
@@ -517,9 +487,7 @@ EBDA DISKRIMINAZZJONI
 
 \2020.
 
-\1. Iċ-ċittadini ta’ Stat Kontraenti ma gћandhom jiġu assoġġettati fl-Istat Kontraenti l-ieћor gћal ebda tassazzjoni jew ebda ћtieġa li tkun konnessa ma’ dan jekk din tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li gћalihom ċittadini ta’ dak l-Istat l-ieћor fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgћu jkunu assoġġettati. Din id-dispożizzjoni għandha, minkejja d-dispożizzjonijiet tal-Artikolu 1, tapplika wkoll għal persuni li mhumiex (FEDERAZZJONI RUSSA) [L.S.123.146 15
-
-residenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma.
+\1. Iċ-ċittadini ta’ Stat Kontraenti ma gћandhom jiġu assoġġettati fl-Istat Kontraenti l-ieћor gћal ebda tassazzjoni jew ebda ћtieġa li tkun konnessa ma’ dan jekk din tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li gћalihom ċittadini ta’ dak l-Istat l-ieћor fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgћu jkunu assoġġettati. Din id-dispożizzjoni għandha, minkejja d-dispożizzjonijiet tal-Artikolu 1, tapplika wkoll għal persuni li mhumiex residenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma.
 
 \2. It-taxxa fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl- Istat Kontraenti l-ieћor ma gћandhiex tinġabar b’mod inqas favorevoli f’dak Istat l-ieћor mit-taxxa miġbura fuq impriżi ta’ dak l-Istat l-ieћor li jkunu qed iwettqu l-istess attivitajiet. Din id-dispożizzjoni m’għandhiex titqies li tobbliga Stat Kontraenti li jagħti lil residenti tal-Istat Kontraenti l-ieħor xi allowances personali, ħelsien u tnaqqis għall-għanijiet ta’ tassazzjoni minħabba l-istatus ċivili jew responsabbiltajiet ta’ familja li jagħti lir-residenti tiegħu stess.
 
@@ -541,8 +509,6 @@ residenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma.
 
 \4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgћu jikkomunikaw direttament ma’ xulxin, inkluż permezz ta’ kummissjoni konġunta li tkun magħmula minnhom stess jew minn rappreżentanti tagħhom, bl-iskop li jilħqu ftehim fis-sens tal-paragrafi ta’ hawn qabel.
 
-16 [L.S.123.146 (FEDERAZZJONI RUSSA)
-
 Emendat: Artikolu 25
 
 A.L. 428 tal-
@@ -563,9 +529,7 @@ A.L. 428 tal-
 
 \4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligazzjoni li tinsab fis-sentenza ta’ qabel hija soġġetta għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
-\5. F’ebda każ ma gћandhom id-disposizzjonijiet tal-paragrafu 3 jiftiehmu bћala li jħallu lil Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’xi kapaċita’ ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar (FEDERAZZJONI RUSSA) [L.S.123.146 17
-
-proprjetá f’xi persuna.
+\5. F’ebda każ ma gћandhom id-disposizzjonijiet tal-paragrafu 3 jiftiehmu bћala li jħallu lil Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’xi kapaċita’ ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetá f’xi persuna.
 
 **Artikolu 26**
 
@@ -610,8 +574,6 @@ Raymond Sarsero Sergey Dmitrievich Shatalov
 **U**
 
 **IL-GVERN TAL-FEDERAZZJONI RUSSA**
-
-18 [L.S.123.146 (FEDERAZZJONI RUSSA)
 
 **GĦALL-EVITAR TA’ TAXXA DOPPJA**
 

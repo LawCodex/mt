@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Arei ta' Reġistrazzjoni (1986)"
-identifier: "S.L. 296.5"
+identifier: "S.L. 296.05"
 eli: "https://legislation.mt/eli/sl/296.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/296.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Arei ta' Reġistrazzjoni (1986) (S.L. 296.5)
+# Ordni dwar Arei ta' Reġistrazzjoni (1986) (S.L. 296.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 296.05**
 

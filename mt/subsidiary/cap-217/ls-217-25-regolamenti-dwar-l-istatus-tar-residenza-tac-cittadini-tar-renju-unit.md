@@ -15,18 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Istatus tar-Residenza taċ-Cittadini tar-Renju Unit u l-Membri tal-Familja tagħhom skont il-Ftehim dwar il-Ħruġ tar-Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq mill-Unjoni Ewropea u mill-Komunità Ewropea tal-Enerġija Atomika (S.L. 217.25)
 
-UNIT U L-MEMBRI TAL-FAMILJA TAGĦHOM SKONT IL-
-
-FTEHIM DWAR IL-ĦRUĠ TAR-RENJU UNIT TAL-GRAN
-
-BRITTANJA U L-IRLANDA TA’ FUQ MILL-UNJONI
-
-EWROPEA U MILL-KOMUNITÀ EWROPEA DWAR L-
-
-*1*
-
-ENERĠIJA ATOMIKA [L.S. 217.25
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.25**
 
 REGOLAMENTI DWAR L-ISTATUS TAR-RESIDENZA TAĊ-CITTADINI TAR-RENJU UNIT U L-MEMBRI TAL-FAMILJA TAGĦHOM SKONT IL-FTEHIM DWAR IL-ĦRUĠ TAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ MILL-UNJONI EWROPEA U MILL-KOMUNITÀ EWROPEA DWAR L-ENERĠIJA
@@ -61,16 +49,6 @@ F’dawn ir-regolamenti, kemm il-darba r-rabta tal-kliem ma tkunx teħtieġ xort
 
 "ċittadin tar-Renju Unit" tfisser ċittadin tar-Renju Unit, kif definit fid-Dikjarazzjoni l-Ġdida mill-Gvern tar-Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq tal-31 ta’ Diċembru 1982 dwar id-definizzjoni tat-terminu "ċittadini" flimkien mad- Dikjarazzjoni Nru 63 annessa mal-Att Finali tal-konferenza intergovernattiva li adottat it-Trattat ta’ Lisbona;
 
-UNIT U L-MEMBRI TAL-FAMILJA TAGĦHOM SKONT IL- FTEHIM DWAR IL-ĦRUĠ TAR-RENJU UNIT TAL-GRAN
-
-**BRITTANJA U L-IRLANDA TA’ FUQ MILL-UNJONI**
-
-**EWROPEA U MILL-KOMUNITÀ EWROPEA DWAR L-**
-
-**ENERĠIJA ATOMIKA**
-
-*[L.S. 217.25 2*
-
 "data tal-ħruġ" tfisser 31 ta’ Jannar 2020;
 
 "dokument ta’ residenza" tfisser id-dokument imsemmi fl-Artikolu 18 tat-Tieni Parti tal-Ftehim;
@@ -96,18 +74,6 @@ UNIT U L-MEMBRI TAL-FAMILJA TAGĦHOM SKONT IL- FTEHIM DWAR IL-ĦRUĠ TAR-RENJU U
 "membri tal-familja" tfisser dawk il-persuni stipulat fl- Artikolu 10 tat-Tieni Parti tal-Ftehim;
 
 "perijodu ta’ transizzjoni" tfisser il-perjodu msemmi fl- Artikolu 126 tar-Raba’ Parti tal-Ftehim;
-
-UNIT U L-MEMBRI TAL-FAMILJA TAGĦHOM SKONT IL-
-
-FTEHIM DWAR IL-ĦRUĠ TAR-RENJU UNIT TAL-GRAN
-
-BRITTANJA U L-IRLANDA TA’ FUQ MILL-UNJONI
-
-EWROPEA U MILL-KOMUNITÀ EWROPEA DWAR L-
-
-*3*
-
-ENERĠIJA ATOMIKA [L.S. 217.25
 
 "Uffiċjal Kap Eżekuttiv" tfisser il-persuna maħtura fil-kariga ta’ Uffiċjal Kap Eżekuttiv, Immaniġjar tal-Identità u Servizzi Anċillari skont ir-regolament 9 tal-Ordni li Jwaqqaf l- Aġenzija Identità Malta;
 
@@ -135,13 +101,7 @@ Iżda ċittadin tar-Renju Unit u membri tal-familja li jkunu qed jakkumpanjawh, 
 
 (iii) il-persuna tissottometti id-dokumenti rilevanti kollha;
 
-(iv) il-persuna tiddikjara, permess ta’ dokumentazzjoni, il-kundanni kriminali li kellha fil-passat u li jidhru fil-fedina penali tagħha f’konformità mad-dritt tal-Istat tal-kundanna fi żmien li l- UNIT U L-MEMBRI TAL-FAMILJA TAGĦHOM SKONT IL- FTEHIM DWAR IL-ĦRUĠ TAR-RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ MILL-UNJONI
-
-*4*
-
-EWROPEA U MILL-KOMUNITÀ EWROPEA DWAR L- [L.S. 217.25 ENERĠIJA ATOMIKA
-
-applikazzjoni tkun qedgħa tiġi sottomessa;
+(iv) il-persuna tiddikjara, permess ta’ dokumentazzjoni, il-kundanni kriminali li kellha fil-passat u li jidhru fil-fedina penali tagħha f’konformità mad-dritt tal-Istat tal-kundanna fi żmien li l-applikazzjoni tkun qedgħa tiġi sottomessa;
 
 (v) l-Uffiċjal Kap Eżekuttiv aċċerta ruħu li saru l-kontrolli neċessarji fuq l-applikant u li l-għotja tal-istatus ma tkunx kuntrarju għall-interess pubbliku jew għas-sigurtà pubblika u li ma kien hemm l-ebda abbuż tad-drittijiet jew frodi abbinata mal-applikazzjoni ta’ tali dokument.
 

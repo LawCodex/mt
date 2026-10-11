@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Sport and Leisure Studies - Dip. S.L.S. - taħt il-patroċinju ta' l-Istitut għall-Edukazzjoni Fiżika u Sport - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.290)
 
-DIPLOMA IN SPORT AND LEISURE STUDIES - DIP.
-
-S.L.S. - TA}T IL-PATRO~INJU TA’ L-ISTITUT G}ALL-EDU-
-
-*1*
-
-KAZZJONI FI|IKA U SPORT [S.L.327.290
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.290**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN SPORT**

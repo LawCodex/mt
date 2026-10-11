@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Servizzi għall-Esportazzjoni għal Kumpanniji Kwalifikanti"
-identifier: "S.L. 325.1"
+identifier: "S.L. 325.01"
 eli: "https://legislation.mt/eli/sl/325.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/325.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Servizzi għall-Esportazzjoni għal Kumpanniji Kwalifikanti (S.L. 325.1)
-
-SERVIZZI G}ALL-ESPORTAZZJONI G}AL
-
-*1*
-
-KUMPANNIJI KWALIFIKANTI [L.S.325.01
+# Regolamenti dwar Servizzi għall-Esportazzjoni għal Kumpanniji Kwalifikanti (S.L. 325.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 325.01**
 

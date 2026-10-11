@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Bastimenti Merkantili (Liċenzjar ta' Organizzazzjonijiet ta' Bastimenti) (S.L. 234.41)
 
-BASTIMENTI MERKANTILI (LI~ENZJAR
-
-*1*
-
-TA’ ORGANIZZAZZJONIJIET TA’ BASTIMENTI) [L.S.234.41
-
 LE{ISLAZZJONI SUSSIDJARJA 234.41
 
 REGOLAMENTI DWAR BASTIMENTI
@@ -29,8 +23,6 @@ MERKANTILI (LI~ENZJAR TA’
 
 ORGANIZZAZZJONIJIET TA’ BASTIMENTI)\*
 
-30 ta’ April, 2005
-
-L-AVVI| LEGALI 238 ta’ l-2005.
+30 ta’ April, 2005 L-AVVI| LEGALI 238 ta’ l-2005.
 
 \*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.

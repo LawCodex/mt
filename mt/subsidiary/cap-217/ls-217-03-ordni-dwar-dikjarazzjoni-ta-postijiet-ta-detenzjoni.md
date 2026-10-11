@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Dikjarazzjoni ta Postijiet ta Detenzjoni"
-identifier: "S.L. 217.3"
+identifier: "S.L. 217.03"
 eli: "https://legislation.mt/eli/sl/217.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/217.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Dikjarazzjoni ta Postijiet ta Detenzjoni (S.L. 217.3)
+# Ordni dwar Dikjarazzjoni ta Postijiet ta Detenzjoni (S.L. 217.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 217.03**
 

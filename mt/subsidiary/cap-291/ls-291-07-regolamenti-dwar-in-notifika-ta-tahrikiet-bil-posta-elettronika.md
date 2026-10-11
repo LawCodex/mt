@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar in-Notifika ta’ Taħrikiet bil-Posta Elettronika"
-identifier: "S.L. 291.7"
+identifier: "S.L. 291.07"
 eli: "https://legislation.mt/eli/sl/291.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/291.7/20230804/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar in-Notifika ta’ Taħrikiet bil-Posta Elettronika (S.L. 291.7)
+# Regolamenti dwar in-Notifika ta’ Taħrikiet bil-Posta Elettronika (S.L. 291.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 291.07**
 

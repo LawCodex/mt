@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet ta' l-Iskola Internazzjonali ta' l-Ingliż (S.L. 327.39)
 
-DRITTIJIET TA’ L-ISKOLA
-
-*1*
-
-INTERNAZZJONALI TA’ L-INGLI| [L.S.327.39
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.39**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET TA’**

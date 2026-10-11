@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizzjarji (S.L. 65.17)
 
-DRITTIJIET LI G}ANDHOM JIT}ALLSU
-
-*1*
-
-G}ALL-PRE|ENTATA TA’ ATTI {UDIZZJARJI [L.S.65.17
-
 **LE{ISLAZZJONI SUSSIDJARJA 65.17**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET LI**

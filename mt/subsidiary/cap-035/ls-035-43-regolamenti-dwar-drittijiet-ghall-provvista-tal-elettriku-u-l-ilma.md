@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet għall-Provvista tal-Elettriku u l-Ilma lis-Sajjieda (S.L. 35.43)
 
-DRITTIJIET GĦALL-PROVVISTA TAL-ELETTRIKU U L-
-
-*1*
-
-ILMA LIS-SAJJIEDA [L.S. 35.43] LEĠISLAZZJONI SUSSIDJARJA 35.43
+**LEĠISLAZZJONI SUSSIDJARJA 35.43**
 
 **REGOLAMENTI DWAR DRITTIJIET GĦALL-**
 

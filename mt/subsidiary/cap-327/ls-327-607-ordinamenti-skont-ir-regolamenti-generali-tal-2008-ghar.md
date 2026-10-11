@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali tal-2008 għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Science – M.Sc. – taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.607)
 
-TAL-FAKULTÀ TAL-EKONOMIJA, IL-MANAGEMENT U
-
-*1*
-
-L-ACCOUNTANCY [L.S. 327.607
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.607**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -72,11 +66,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (1) Il-Kors ikun offrut f’oqsma ta’ studju li jistgħu jittieħdu flimkien u li jaqgħu taħt ir-responsabbilità akkademika tal- Bord. Suġġett għall-approvazzjoni tas-Senat, il-Bord jista’ joffri wkoll kwalunkwe qasam ta’ studju ieħor offrut mill-Fakultà ma oqsma ta’ studju oħra li jaqgħu taħt ir-responsabbilita ta’ entitatijiet akkademiċi oħra fi ħdan l-Università.
 
-(2) L-oqsma ta’ studju li jistgħu jittieħdu flimkien ikunu TAL-FAKULTÀ TAL-EKONOMIJA, IL-MANAGEMENT U [L.S. 327.607 L-ACCOUNTANCY
-
-ppubblikati mill-Bord qabel il-bidu ta’ kull Kors u wara l-approvazzjoni tas-Senat, sakemm li fi kwalunkwe sena, l-oqsma ta’ studju li jistgħu jittieħdu flimkien għandhom ikunu offruti skont id-disponibbilità tar-riżorsi.
-
-*2*
+(2) L-oqsma ta’ studju li jistgħu jittieħdu flimkien ikunu ppubblikati mill-Bord qabel il-bidu ta’ kull Kors u wara l-approvazzjoni tas-Senat, sakemm li fi kwalunkwe sena, l-oqsma ta’ studju li jistgħu jittieħdu flimkien għandhom ikunu offruti skont id-disponibbilità tar-riżorsi.
 
 ## 4. Ir-Rekwiżiti għad-Dħul
 
@@ -103,12 +93,6 @@ sakemm li dawn l-applikanti jkunu meħtieġa jissottomettu portfolio bbażat fuq
 u sakemm li, dawn l-applikanti jkunu meħtieġa jattendu għal intervista biex il-Bord ikun jista’ jevalwa l-ħiliet tagħhom biex isegwu l-Kors bi profitt; jew
 
 (f) grad tal-ewwel ċiklu minn kwalunkwe università li huwa ekwivalenti għall-kwalifiki msemmija fil-paragrafi (a) sa (e) ta’ dan l-ordinament.
-
-TAL-FAKULTÀ TAL-EKONOMIJA, IL-MANAGEMENT U
-
-*3*
-
-L-ACCOUNTANCY [L.S. 327.607
 
 ## 5.
 
@@ -152,11 +136,7 @@ Il-Kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time.
 
 (2) L-istudenti li jiksbu t-30 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ 50%, u ma jkomplux bil-Kors, jew wara li komplew ma jkunux spiċċaw b’suċċess il-Kors, ikunu eliġibbli għall-għoti tal-Postgraduate Certificate.
 
-(3) L-istudenti li jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju mgħallma u ma jkomplux bil-Kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, ikunu TAL-FAKULTÀ TAL-EKONOMIJA, IL-MANAGEMENT U [L.S. 327.607 L-ACCOUNTANCY
-
-eliġibbli għall-għoti tal-Postgraduate Diploma.
-
-*4*
+(3) L-istudenti li jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju mgħallma u ma jkomplux bil-Kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, ikunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
 (4) L-istudenti jkunu eliġibbli għall-għoti tal-Grad jekk jiksbu d-90 krettu ECTS kif imsemmi fil-programm ta’ studju tal-Kors b’marka mejda ta’ mhux inqas minn 50%.
 
@@ -188,13 +168,7 @@ eliġibbli għall-għoti tal-Postgraduate Diploma.
 
 (1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
 
-(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjonijiet li jew (a) jiġi estiż il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq TAL-FAKULTÀ TAL-EKONOMIJA, IL-MANAGEMENT U
-
-*5*
-
-L-ACCOUNTANCY [L.S. 327.607
-
-fiċ-ċirkostanzi, sakemm li:
+(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjonijiet li jew (a) jiġi estiż il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar-Regolamenti Prinċipali; u
 

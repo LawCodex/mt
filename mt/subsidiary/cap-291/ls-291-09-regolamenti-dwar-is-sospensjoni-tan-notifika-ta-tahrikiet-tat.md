@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar is-Sospensjoni tan-Notifika ta’ Taħrikiet tat-Tribunali Lokali"
-identifier: "S.L. 291.9"
+identifier: "S.L. 291.09"
 eli: "https://legislation.mt/eli/sl/291.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/291.9/20200610/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar is-Sospensjoni tan-Notifika ta’ Taħrikiet tat-Tribunali Lokali (S.L. 291.9)
-
-SOSPENSJONI TAN-NOTIFIKA TA’ TAĦRIKIET TAT-
-
-*1*
-
-TRIBUNALI LOKALI [L.S. 291.09
+# Regolamenti dwar is-Sospensjoni tan-Notifika ta’ Taħrikiet tat-Tribunali Lokali (S.L. 291.09)
 
 **LEĠISLAZZJONI SUSSIDJARJA 291.09**
 

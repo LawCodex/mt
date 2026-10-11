@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Notifiki u Formuli taħt it-Tieni Skeda tal-Kodiċi Ċivili"
-identifier: "S.L. 16.8"
+identifier: "S.L. 16.08"
 eli: "https://legislation.mt/eli/sl/16.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/16.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Notifiki u Formuli taħt it-Tieni Skeda tal-Kodiċi Ċivili (S.L. 16.8)
-
-*1*
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08
+# Regolamenti dwar Notifiki u Formuli taħt it-Tieni Skeda tal-Kodiċi Ċivili (S.L. 16.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 16.08**
 
@@ -103,11 +99,7 @@ Organizzazzjonijiet barranin u internazzjonali (sakemm ma jkunux e\\entati b’d
 
 (4) L-istral` ta’ `ellula segregata jista’ jsir volontarjament jew b’ordni tal-Qorti. ~ellula ti[i xjolta u konsegwentement isir l-istral` tag]ha fil-ka\\ijiet li [ejjin:
 
-(a) b’ma[[oranza tal-amministraturi, l-organizzazzjoni TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08
-
-g]addiet ri\\oluzzjoni biex isir l-istral` ta`-`ellula. Kopja `ertifikata tar-ri\\oluzzjoni ta’ l-istral` g]andha tintbag]at lir-Re[istratur g]al Persuni {uridi`i fi \\mien erbatax-il [urnata minn meta tkun g]addiet ir-ri\\oluzzjoni skond il-forma preskritta. Ma jistax isir l-istral` volontarju ta’ `ellula ]lief jekk l-attiv tag]ha jkun i\\jed mill-passiv u d-djun kollha tag]ha jkunu [ew im]allsa. L-amministraturi g]andhom i]ejju skema ta’ distribuzzjoni ta’ l-attiv li jibqa’ ta`-`ellula, liema skema g]andha ti[i notifikata lir-Re[istratur g]al Persuni {uridi`i u lil kull parti interessata fil-fomula preskritta. Fin-nuqqas ta’ dikjarazzjoni `ara fl-istatut ta’ organizzazzjoni, dwar kif g]andu jsir id-disponiment ta’ l-attiv ta’ `ellula partikolari meta tintemm `ellula, l-amministraturi jistg]u jag]mlu rikors li fih jitolbu direttivi u g]andhom jiddisponu mill-attiv kif ji[i ordnat mill-Qorti;
-
-*3*
+(a) b’ma[[oranza tal-amministraturi, l-organizzazzjoni g]addiet ri\\oluzzjoni biex isir l-istral` ta`-`ellula. Kopja `ertifikata tar-ri\\oluzzjoni ta’ l-istral` g]andha tintbag]at lir-Re[istratur g]al Persuni {uridi`i fi \\mien erbatax-il [urnata minn meta tkun g]addiet ir-ri\\oluzzjoni skond il-forma preskritta. Ma jistax isir l-istral` volontarju ta’ `ellula ]lief jekk l-attiv tag]ha jkun i\\jed mill-passiv u d-djun kollha tag]ha jkunu [ew im]allsa. L-amministraturi g]andhom i]ejju skema ta’ distribuzzjoni ta’ l-attiv li jibqa’ ta`-`ellula, liema skema g]andha ti[i notifikata lir-Re[istratur g]al Persuni {uridi`i u lil kull parti interessata fil-fomula preskritta. Fin-nuqqas ta’ dikjarazzjoni `ara fl-istatut ta’ organizzazzjoni, dwar kif g]andu jsir id-disponiment ta’ l-attiv ta’ `ellula partikolari meta tintemm `ellula, l-amministraturi jistg]u jag]mlu rikors li fih jitolbu direttivi u g]andhom jiddisponu mill-attiv kif ji[i ordnat mill-Qorti;
 
 (b) g]andu jsir l-istral` ta’ `ellula fuq ordni tal-Qorti, wara li jsir rikors minn xi parti interessata, g]al ra[unijiet li jkunu legalment validi skond l-istatut ta’ l-organizzazzjoni jew it-Tieni Skeda tal-Kodi`i ~ivili;
 
@@ -151,9 +143,7 @@ Kull de`i\\joni dwar l-amalgamazzjoni jew il-qsim ta’ organizzazzjoni skond l-
 
 ## 12. Formuli. Kap. 16.
 
-Il-formuli li [ejjin preskritti fl-Iskeda g]andhom ikunu l-formuli li g]andhom jintu\\aw ta]t it-Tieni Skeda tal-Kodi`i ~ivili. TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 5
-
-SKEDA Emendata:
+Il-formuli li [ejjin preskritti fl-Iskeda g]andhom ikunu l-formuli li g]andhom jintu\\aw ta]t it-Tieni Skeda tal-Kodi`i ~ivili. SKEDA Emendata:
 
 A.L. 440 tal-2010.
 
@@ -245,8 +235,6 @@ Ma’ din il-formula g]andha ti[i mehmu\\a kopja awtentikata tal-att ta’ kosti
 
 G]andha ti[i mehmu\\a wkoll dikjarazzjoni tal-uffi`jali pre\\enti tal-organizzazzjoni.
 
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 7
-
 **Formula ¬**
 
 **KODI~I ~IVILI, IT-TIENI SKEDA**
@@ -327,8 +315,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 
 \*}assar kif applikabbli
 
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 9
-
 **Formula E**
 
 **KODI~I ~IVILI, IT-TIENI SKEDA**
@@ -392,8 +378,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 (b) Ni\\\\el il-kariga
 
 Ma’ din il-Formula F g]andu ji[i mehmu\\ il-kunsens bil-miktub ta’ l-amministratur, li jkun [ie ma]tur biex ja[ixxi b]ala tali.
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 11
 
 **Formula G**
 
@@ -460,8 +444,6 @@ Firma: ................................................ Isem: ..................
 .............................................................................................................................
 
 \*}assar kif applikabbli
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 13
 
 **Formula I**
 
@@ -541,8 +523,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 
 (b) Ni\\\\el l-isem u r-residenza tar-rappre\\entant legali pre\\enti
 
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 15
-
 **Formula K**
 
 **KODI~I ~IVILI, IT-TIENI SKEDA**
@@ -603,8 +583,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 
 (`) Ni\\\\el id-data ta’ bidla g]al trust
 
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 17
-
 **Formula M**
 
 **KODI~I ~IVILI, IT-TIENI SKEDA**
@@ -658,8 +636,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 .............................................................................................................................
 
 (a) Ni\\\\el l-isem u r-residenza ta’ l-Amministratur
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 19
 
 **Formula O**
 
@@ -716,8 +692,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 .............................................................................................................................
 
 (a) Ni\\\\el id-data tat-temm ta’ l-attivitajiet
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 21
 
 **Formula Q**
 
@@ -787,8 +761,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 
 (a) Ni\\\\el id-datal-]atra tal-likwidatur
 
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 23
-
 **Formula S**
 
 **KODI~I ~IVILI, IT-TIENI SKEDA**
@@ -853,8 +825,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 
 Avvi\\ importanti: l-artikolu 20(5) tat-Tieni Skeda tal-Kodi`i ~ivili jippreskrivi li meta ti[i stabbilita `ellula segregata (a) l-attiv u l-passiv ta`-`ellula jikkostitwixxu patrimonju distint li jkun separat mill-attiv u l-passiv l-o]ra kollha ta’ l-organizzazzjoni jew ta’ `elluli o]ra li jistg]u ji[u stabbiliti; (b) l-attiv ta’ dik i`-`ellula jkun disponibbli g]at-twettiq ta’ l-obbligi ta’ l-organizzazzjoni rigward dik i`-`ellula, i\\da mhux g]al xi passiv ie]or li tkun da]let g]alihom l-organizzazzjoni ma jkunx disponibbli g]at-twettiq ta’ l-obbligi li jkunu n]olqu rigward dik i`-`ellula; u (d) g]andu jkun ta`itament mifhum (]lief sa fejn l-istess ma jkunx [ie espressament esklu\\ bil-miktub) f’kull operazzjoni li tid]ol g]aliha organizzazzjoni b’`elluli segregati l-kondizzjonijiet li [ejjin li (i) l-ebda parti ma tipprova, la waqt xi pro`eduri u lanqas b’xi mezzi o]ra jkunu x’ikunu, tag]mel u\\u jew tittanta tag]mel u\\u ta’ xi attiv li hu attribwibbli lil xi `ellula biex ti[i sodisfatta responsabbiltà li mhijiex attribwibbli g]al dik i`-`ellula; u (ii) jekk xi parti jirnexxilha b’kull mezz li jkun tu\\a xi attiv attribwibbli lil xi `ellula biex ti[i sodisfatta responsabbiltà li mhijiex attribwibbli lil dik i`-`ellula, dik il-parti tkun su[[etta li t]allas lill-organizzazzjoni somma ugwali g]all-valur tal-benefi``ju miksub minn dik il-parti b’dik l-azzjoni; u (iii) kull attiv jew somma mi[burin lura mill-organizzazzjoni skond il-ftehim impli`itu stabbilit f’dan il-paragrafu jew b’xi mezz ie]or ikun x’jkun fis-sitwazzjonijiet hawn imsemmija g]andhom, wara li jitnaqqsu jew jit]allsu l-ispejje\\ tal-[bir lura, ji[u applikati mill-organizzazzjoni biex ti[i kkompensata `-`ellula affettwata.
 
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 25
-
 **Formula U**
 
 **KODI~I ~IVILI, IT-TIENI SKEDA**
@@ -910,8 +880,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 (a) Ni\\\\el id-data tar-ri\\oluzzjoni
 
 (b) Ni\\\\el l-isem ta`-`ellula
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 27
 
 **Formula W**
 
@@ -970,8 +938,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 (a) Ni\\\\el l-isem ta`-`ellula
 
 (b) Ni\\\\el id-data ta’ l-ordni tal-Qorti
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 29
 
 **Formula Y**
 
@@ -1043,8 +1009,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 
 (b) Ni\\\\el id-data tal-]atra tal-likwidatur
 
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 31
-
 **Formula AA**
 
 **KODI~I ~IVILI, IT-TIENI SKEDA**
@@ -1112,8 +1076,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 ............................................................................................................................. (a) Ni\\\\el l-isem/l-ismijiet ta’ l-organizzazzjoni/l-organizzazzjonijiet li qed ti[i amalgamata /qed ji[u amalgamati ma’ l-Organizzazzjoni
 
 (b) Ni\\\\el l-isem ta’ l-organizzazzjoni li [iet amalgamata
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 33
 
 **Formula ~~**
 
@@ -1194,8 +1156,6 @@ Illum ................ jum ta’ ........................ tas-sena .............
 ............................................................................................................................. \* L-inventarju jew in-nota deskrittiva ta’ l-attiv g]andhom ji[u pre\\entati fi \\mien tliet xhur minn meta ssir d-dotazzjoni.
 
 \*\* Minbarra dotazzjonijiet fi flus kontanti li jsiru konformement ma’ skema re[istrata mar- Re[istratur skond l-artikolu 34(4) / artikolu 55 tat-Tieni Skeda tal-Kodi`i ~ivili, f’liema ka\\ g]andha tintu\\a l-Formula EE biex ti[i re[istrata l-iskema u din il-Formula DD g]andha tintu\\a minn hemm ’il quddiem g]all-avvi\\ dwar dotazzjonijiet.
-
-TA}T IT-TIENI SKEDA TAL-KODI~I ~IVILI [L.S.16.08 35
 
 **Formula EE**
 

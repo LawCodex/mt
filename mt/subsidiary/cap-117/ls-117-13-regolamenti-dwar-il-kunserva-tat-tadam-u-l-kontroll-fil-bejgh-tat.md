@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kunserva tat-Tadam u l-Kontroll fil-Bejgħ tat-Tadam li jkun ser jinħadem (S.L. 117.13)
 
-*1*
-
-TAT-TADAM LI JKUN SER JIN}ADEM [L.S.117.13
-
 **LE{ISLAZZJONI SUSSIDJARJA 117.13**
 
 REGOLAMENTI DWAR IL-KUNSERVA TAT-TADAM U L-KONTROLL FIL-BEJG} TAT-TADAM LI JKUN SER JIN}ADEM
@@ -103,11 +99,9 @@ Kull kooperativa g]andha mhux aktar tard minn kull nhar ta’ Erbg]a ta’ kull 
 
 *Emendat: A.L. 15 ta’ l-1964.*
 
-F’din il-parti "Direttur" tfisser id-Direttur tal-Kummerc. TAT-TADAM LI JKUN SER JIN}ADEM [L.S.117.13 9. (1) Ebda fabbrikant ma g]andu ja]dem tadam jew ibig] il-prodott li jinkiseb minn dan ix-xog]ol ming]ajr li`enza spe`jali bil-miktub f’dan is-sens ming]and id-Direttur jew xort’o]ra jekk mhux skond kull wa]da mill-kundizzjonijiet li g]alihom tista’ tkun so[[etta dik il-li`enza.
+F’din il-parti "Direttur" tfisser id-Direttur tal-Kummerc. 9. (1) Ebda fabbrikant ma g]andu ja]dem tadam jew ibig] il-prodott li jinkiseb minn dan ix-xog]ol ming]ajr li`enza spe`jali bil-miktub f’dan is-sens ming]and id-Direttur jew xort’o]ra jekk mhux skond kull wa]da mill-kundizzjonijiet li g]alihom tista’ tkun so[[etta dik il-li`enza.
 
 Kull li`enza minn dawn ma te]lisx lil min je]odha mill-obbligu li jikseb xi li`enza me]tie[a skond xi li[i o]ra.
-
-*3*
 
 *Li`enza spe`jali.*
 
@@ -161,11 +155,7 @@ Kull meta l-kunserva tkun fil-post tan-negozju ta’ fabbrikant, bejjieg] bl-imn
 
 (4) Spettur sanitarju tad-Dipartiment tas-Sa]]a jew id-Direttur jew kull persuna o]ra awtorizzata bil-miktub g]andu jkollhom is-setg]a f’kull ]in ra[onevoli li jid]lu u jispezzjonaw kull fabbrika, ma]\\en jew ]anut li fihom il-kunserva jew kull prodott ie]or tat-tadam ikunu qed ji[u prodotti, ma]\\una jew mibjug]a, li jispezzjonaw it-tadam, il-kunserva, il-prodotti tat-tadam jew kull materjal ie]or u\\at fix-xog]ol jew l-ippakkjar ta’ prodotti tat-tadam u, jekk ikun jidhirlu me]tie[, jie]u kampjuni ta’ dawn l-o[[etti sabiex ji[u e\\aminati jew analizzati.
 
-Fil-ka\\ ta’ kampjuni me]udin ming]and il-fabbrikanti, dawn g]andhom jittie]du ming]ajr ]las; f’ka\\ijiet o]ra g]andu jit]allas il-valur tas-suq ta’ dak i\\-\\mien; f’kull ka\\ g]andha TAT-TADAM LI JKUN SER JIN}ADEM [L.S.117.13
-
-ting]ata ri`evuta lill-persuna li ming]andha ttie]ed il-kampjun.
-
-*5*
+Fil-ka\\ ta’ kampjuni me]udin ming]and il-fabbrikanti, dawn g]andhom jittie]du ming]ajr ]las; f’ka\\ijiet o]ra g]andu jit]allas il-valur tas-suq ta’ dak i\\-\\mien; f’kull ka\\ g]andha ting]ata ri`evuta lill-persuna li ming]andha ttie]ed il-kampjun.
 
 (5) Meta jttie]ed kampjun tal-kunserva jew prodott ie]or tal-kunserva skond is-sub-regolament (4), dan il-kampjun g]andu jitqassam f’\\ew[ partijiet mill-persuna li tie]u dan il-kampjun, u kull wa]da minn dawn il-partijiet g]andha ti[i ssi[[ilata minnha fil-pre\\enza tal-persuna li ming]andha ttie]ed il-kampjun, u g]andha mbag]ad ti[i ffirmata minnhom it-tnejn; parti wa]da g]andha tin\\amm mill-persuna li tie]u l-kampjun u l-parti l-o]ra mill-persuna li ming]andha ttie]ed il-kampjun:
 
@@ -215,11 +205,7 @@ I\\da qabel tag]ti xi ordni b]al dan il-Qorti g]andha permezz ta’ ta]rika tord
 
 (1) Fejn spettur sanitarju tad-Dipartiment tas-Sa]]a jew id-Direttur tal-Kummer` jew xi persuna o]ra awtorizzata minnu bil-miktub g]al dak l-iskop, wara ispezzjoni skond id-disposizzjonijiet tar-regolament 12(4), isib fil-post tal-fabbrikant tadam li [eneralment ikun infettat bl-insetti, imnawwar jew im]assar, huwa g]andu jirrapporta l-kwistjoni lit-tabib anzjan jew uffi`jal mediku tas-sa]]a, li immedjatament g]andu jmur fuq il-post u wara li jisma’ fuq il-post xi tag]rif kemm mill-ispettur sanitarju jew id-Direttur tal-Kummer` jew xi persuna o]ra awtorizzata minnu kif imsemmi hawn fuq u mill-fabbrikant, g]andu jordna li t-tadam ji[i konfiskat jekk huwa jkun tal-fehma li t-tadam ikun [eneralment infettat bl-insetti, imnawwar jew im]assar.
 
-(2) Meta jag]ti ordni b]al dan it-tabib anzjan tas-sa]]a jew l-uffi`jal mediku tas-sa]]a g]andu jkollu s-setg]a li jie]u l-passi kollha li jistg]u jkunu me]tie[a biex ji\\gura li l-ordni ji[i esegwit immedjatament u l-fabbrikant ma jkollu ebda dritt ta’ kumpens TAT-TADAM LI JKUN SER JIN}ADEM [L.S.117.13
-
-kontra kull uffi`jal pubbliku in konnessjoni ma’ xi ordni b]al dan, dment li huwa jkollu d-dritt ta’ rikompens xieraq, jekk ikun il-ka\\, kontra l-persuna li minn g]andha t-tadam ikun inxtara, skond il-li[i.
-
-*7*
+(2) Meta jag]ti ordni b]al dan it-tabib anzjan tas-sa]]a jew l-uffi`jal mediku tas-sa]]a g]andu jkollu s-setg]a li jie]u l-passi kollha li jistg]u jkunu me]tie[a biex ji\\gura li l-ordni ji[i esegwit immedjatament u l-fabbrikant ma jkollu ebda dritt ta’ kumpens kontra kull uffi`jal pubbliku in konnessjoni ma’ xi ordni b]al dan, dment li huwa jkollu d-dritt ta’ rikompens xieraq, jekk ikun il-ka\\, kontra l-persuna li minn g]andha t-tadam ikun inxtara, skond il-li[i.
 
 ### 18. Ir-reati jiqiesu b]ala kontravvenzjoni-jiet. Kap. 9.
 

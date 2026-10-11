@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju ta' Spanja (S.L. 123.94)
 
-*1*
-
-FUQ L-INCOME MAR-RENJU TA’ SPANJA [L.S.123.94
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.94**
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -115,8 +111,6 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 \1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx te]tie[ xort’o]ra:
 
-FUQ L-INCOME MAR-RENJU TA’ SPANJA [L.S.123.94 3
-
 (a) il-fra\\i "Spanja" tfisser ir-Renju ta’ Spanja u, meta tintu\\a f’sens [eografiku, tfisser it-territorju tar-Renju ta’ Spanja, inklu\\ il-ba]ar territorjali u kull area o]ra barra l-ba]ar territorjali li fuqhom, skond id-dritt internazzjonali u bl-applikazzjoni tal-le[islazzjoni domestika tag]ha, ir-Renju ta’ Spanja je\\er`ita jew jista’ je\\er`ita fil-futur il- [urisdizzjoni tieg]u jew id-drittijiet sovrani tieg]u g]ar-rigward ta’ qieg] il-ba]ar, is-sottoswol tieg]u u l-ib]ra sovraja`enti, u r-ri\\orsi naturali tag]hom;
 
 (b) il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, u kull area ta’ qieg] il-ba]ar, is-sottoswol u l-kolonna ta’ ba]ar sovraja`enti u adja`enti g]all-ib]ra territorjali, fejn Malta g]andha drittijiet sovrani, [urisdizzjoni jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-li[i tag]ha g]ar-rigward l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
@@ -193,8 +187,6 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i ''stabb
 
 (a) l-u\\u ta’ fa`ilitajiet g]all-iskop uniku ta’ ]a\\na jew ta’ wiri ta’ o[[etti jew merkanzija li jkunu proprjetà ta’ l-impri\\a;
 
-FUQ L-INCOME MAR-RENJU TA’ SPANJA [L.S.123.94 5
-
 (b) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li jkunu proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ ]a\\na, wiri jew kunsinna;
 
 (`) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ pro`essar minn impri\\a o]ra;
@@ -257,7 +249,7 @@ Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u trattati sep
 
 \1. Il-profitti ta’ impri\\a ta’ Stat Kontraenti mit-t]addim ta’ bastimenti jew in[enji ta’ l-ajru fi traffiku internazzjonali g]andhom ikunu taxxabbli biss f’dak l- Istat.
 
-\2. Id-disposizzjonijiet tal-paragrafu 1 g]andhom ukoll japplikaw g]al profitti mill-parte`ipazzjoni f’pool, negozju bi s]ab jew a[enzija b’operat internazzjonali. FUQ L-INCOME MAR-RENJU TA’ SPANJA [L.S.123.94 7
+\2. Id-disposizzjonijiet tal-paragrafu 1 g]andhom ukoll japplikaw g]al profitti mill-parte`ipazzjoni f’pool, negozju bi s]ab jew a[enzija b’operat internazzjonali.
 
 **Artikolu 9**
 
@@ -307,9 +299,7 @@ rigward tal-profitti li minnhom jit]allsu d-dividendi.
 
 \3. Id-disposizzjonijiet tal-paragrafu 1 m’g]andhomx japplikaw jekk is-sid benefi`jarju ta’ l-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
 
-\4. Meta, min]abba f’relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejn it-tnejn li huma u xi persuna o]ra, l-ammont ta’ l-img]ax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jit]allas, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, id- FUQ L-INCOME MAR-RENJU TA’ SPANJA [L.S.123.94 9
-
-disposizzjonijiet ta’ dan l-Artikolu g]andhom ikunu japplikaw biss g]all-ammont l-a]]ar imsemmi. F’ka\\ b]al dak, il-parti \\ejda tal-]lasijiet tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, fil-qjies tad-disposizzjonijiet l-o]ra ta’ dan il- Ftehim.
+\4. Meta, min]abba f’relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejn it-tnejn li huma u xi persuna o]ra, l-ammont ta’ l-img]ax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jit]allas, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu g]andhom ikunu japplikaw biss g]all-ammont l-a]]ar imsemmi. F’ka\\ b]al dak, il-parti \\ejda tal-]lasijiet tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, fil-qjies tad-disposizzjonijiet l-o]ra ta’ dan il- Ftehim.
 
 **Artikolu 12**
 
@@ -373,9 +363,7 @@ Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti t
 
 **ARTISTI U SPORTIVI**
 
-\1. Minkejja d-disposizzjonijiet ta’ l-Artikoli 14 u 15, income li jinkiseb minn FUQ L-INCOME MAR-RENJU TA’ SPANJA [L.S.123.94 11
-
-residenti ta’ Stat Kontraenti b]ala w]ud li jag]tu spettaklu, b]al artisti tat-teatru, tal-films `inematografi`i, tar-radju jew tat-televi\\joni, jew b]ala mu\\i`ista, jew b]ala sportiv, mill-attivitajiet personali tieg]u b]ala tali li ji[u e\\er`itati fl-Istat Kontraenti l-ie]or, jistg]u ji[u intaxxati f’dak l-Istat l-ie]or.
+\1. Minkejja d-disposizzjonijiet ta’ l-Artikoli 14 u 15, income li jinkiseb minn residenti ta’ Stat Kontraenti b]ala w]ud li jag]tu spettaklu, b]al artisti tat-teatru, tal-films `inematografi`i, tar-radju jew tat-televi\\joni, jew b]ala mu\\i`ista, jew b]ala sportiv, mill-attivitajiet personali tieg]u b]ala tali li ji[u e\\er`itati fl-Istat Kontraenti l-ie]or, jistg]u ji[u intaxxati f’dak l-Istat l-ie]or.
 
 \2. Meta income dwar attivitajiet personali e\\er`itati minn min jag]ti spettaklu jew sportiv fil-kapa`ità tieg]u b]ala tali jin[abar mhux minn min jag]ti spettaklu jew l-isportiv innifsu i\\da minn xi persuna o]ra, dak l-income jista’, minkejja d-disposizzjonijiet ta’ l-Artikoli 7, 14 u 15, ji[i intaxxat fl-Istat Kontraenti li fih ji[u eser`itati l-attivitajiet ta’ min jag]ti spettaklu jew ta’ l-isportiv.
 
@@ -447,9 +435,7 @@ Bla ]sara g]ad-disposizzjonijiet tal-li[i ta’ Malta dwar l-g]oti bi kreditu g]
 
 **EBDA DISKRIMINAZZJONI**
 
-\1. I`-`ittadini ta’ Stat Kontraenti ma g]andhomx ji[u su[[etti fl-Istat Kontraenti l-ie]or g]al xi tassazzjoni jew g]al xi ]tie[a li jkunu konnessi ma’ dan, li tkun diversa jew ta’ iktar pi\\ mit-tassazzjoni u ]ti[iet konnessi li g]alihom `ittadini ta’ dak l-Istat l-ie]or fl-istess `irkostanzi, b’mod partikolari g]ar-rigward ta’ residenza, huma jew jistg]u jkunu su[[etti. Din id-disposizzjoni g]andha, minkejja FUQ L-INCOME MAR-RENJU TA’ SPANJA [L.S.123.94 13
-
-d-disposizzjonijiet ta’ l-Artikolu 1, tkun tapplika wkoll g]al persuni li ma jkunux residenti ta’ xi Stat Kontraenti wie]ed jew it-tnejn li huma.
+\1. I`-`ittadini ta’ Stat Kontraenti ma g]andhomx ji[u su[[etti fl-Istat Kontraenti l-ie]or g]al xi tassazzjoni jew g]al xi ]tie[a li jkunu konnessi ma’ dan, li tkun diversa jew ta’ iktar pi\\ mit-tassazzjoni u ]ti[iet konnessi li g]alihom `ittadini ta’ dak l-Istat l-ie]or fl-istess `irkostanzi, b’mod partikolari g]ar-rigward ta’ residenza, huma jew jistg]u jkunu su[[etti. Din id-disposizzjoni g]andha, minkejja d-disposizzjonijiet ta’ l-Artikolu 1, tkun tapplika wkoll g]al persuni li ma jkunux residenti ta’ xi Stat Kontraenti wie]ed jew it-tnejn li huma.
 
 \2. L-intaxxar ta’ stabbiliment permanenti li impri\\a ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ie]or ma g]andux jin[abar inqas favorevolment f’dak Istat l-ie]or mit-tassazzjoni mi[bura fuq impri\\i ta’ dak l-Istat l-ie]or li jkun qieg]ed iwettaq l-istess attivitajiet. Din id-disposizzjoni ma g]andhiex tiftiehem b]ala li tobbliga lil Stat Kontraenti li jikkon`edi lil residenti ta’ l-Istat Kontraenti l-ie]or xi allowances, ]elsien u tnaqqis personali g]all-g]anijiet ta’ tassazzjoni min]abba fl-istatus `ivili jew responsabbiltajiet familjari li tikkon`edi lir-residenti tag]ha.
 
@@ -496,8 +482,6 @@ d-disposizzjonijiet ta’ l-Artikolu 1, tkun tapplika wkoll g]al persuni li ma j
 **MEMBRI TA’ MISSJONIJIET DIPLOMATI~I U KARIGI KONSULARI**
 
 Ebda ]a[a f’dan il-Ftehim ma g]andha tolqot il-privile[[i ta’ membri ta’ missjonijiet diplomati`i jew karigi konsulari ta]t ir-regoli [enerali tad-dritt internazzjonali jew ta]t id-disposizzjonijiet ta’ kull ftehim spe`jali.
-
-FUQ L-INCOME MAR-RENJU TA’ SPANJA [L.S.123.94 15
 
 **Artikolu 27**
 
@@ -580,8 +564,6 @@ B’riferenza g]al paragrafu 1 (a) ta’ l-Artikolu 27 jiftiehem li:
 Il-fra\\i "frodi tat-taxxa" g]andha ti[i interpretata skond il-linji ta’ interpretazzjoni komuni tal-fra\\i kif iddikjarat f’Taqsima V Ittra A tar-Rapport tal-Progress ta’ l- 2003 ta’ l-OECD: "Titjib fl-A``ess g]all-Informazzjoni tal-Banek g]al Skopijiet ta’ Taxxa".
 
 B’xhieda ta’ dan is-sottoskritti, awtorizzati kif imiss biex jag]mlu dan, iffirmaw dan il-Ftehim.
-
-FUQ L-INCOME MAR-RENJU TA’ SPANJA [L.S.123.94 17
 
 Mag]mul f’\\ew[ ori[inali f’Madrid fit-8 jum ta’ Novembru, 2005, fl-ilsien Spanjol u Ingli\\, i\\-\\ew[ testi awtenti`i ndaqs. F’ka\\ ta’ xi diver[enza fl-interpretazzjoni, din g]andha ti[i ri\\olta skond it-test Ingli\\.
 

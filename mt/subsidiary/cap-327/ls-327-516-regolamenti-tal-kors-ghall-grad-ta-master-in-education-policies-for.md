@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta’ Master in Education Policies for Global Development (S.L. 327.516)
 
-*1*
-
-POLICIES FOR GLOBAL DEVELOPMENT [L.S.327.516
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.516**
 
 **REGOLAMENTI TAL-KORS GĦALL-GRAD**
@@ -65,11 +61,7 @@ Dawn ir-regolamenti għandhom japplikaw għall-Korsijiet li jibdew f’Settembru
 
 ## 3. Kwalifiki għad-dħul.
 
-(1) L-applikanti għandu jkollhom grad tal-ewwel ċiklu minn din l- università jew minn università oħra rikonoxxuta mis- Senat, ikklassifikat mill-anqas fit-Tieni Klassi bl-Unuri (Ta’ Fuq) jew f’Kategorija IIA jew klassifikazzjoni ekwivalenti, f’waħda [L.S.327.516 POLICIES FOR GLOBAL DEVELOPMENT
-
-minn dawn l-oqsma li ġejjin: ix-Xjenzi Edukattivi, is-Soċjoloġija, l-Antropoloġija Soċjali/Kulturali, ix-Xjenzi Politiċi, il-Ġeografija Umana, ir-Relazzjonijiet Internazzjonali, jew l-Istudji tal-Iżvilupp Internazzjonali. It-tul tal-programm tal-grad tal-ewwel ċiklu għandu jkun ta’ minimu ta’ tlett snin u għandu jinkludi 180 krettu ECTS.
-
-*2*
+(1) L-applikanti għandu jkollhom grad tal-ewwel ċiklu minn din l- università jew minn università oħra rikonoxxuta mis- Senat, ikklassifikat mill-anqas fit-Tieni Klassi bl-Unuri (Ta’ Fuq) jew f’Kategorija IIA jew klassifikazzjoni ekwivalenti, f’waħda minn dawn l-oqsma li ġejjin: ix-Xjenzi Edukattivi, is-Soċjoloġija, l-Antropoloġija Soċjali/Kulturali, ix-Xjenzi Politiċi, il-Ġeografija Umana, ir-Relazzjonijiet Internazzjonali, jew l-Istudji tal-Iżvilupp Internazzjonali. It-tul tal-programm tal-grad tal-ewwel ċiklu għandu jkun ta’ minimu ta’ tlett snin u għandu jinkludi 180 krettu ECTS.
 
 (2) (i) L-applikanti huma meħtieġa juru li l-livell tal-Ingliż tagħhom huwa sodisfaċenti. L-offerta ta’ post fuq il-kors għandha tkun suġġetta li l-applikanti jiksbu dawn il-kwalifiki ta’ profiċjenza qabel il-bidu tal-istudji tagħhom.
 
@@ -96,10 +88,6 @@ minn dawn l-oqsma li ġejjin: ix-Xjenzi Edukattivi, is-Soċjoloġija, l-Antropol
 (d) l-esperjenza ta’ xogħol f’qasam rilevanti (inkluż xogħol ta’ volontarjat), bħal f'organizzazzjonijiet nazzjonali jew internazzjonali jew f’organizzazzjonijiet mhux-governattivi fit- Tramuntana Globali jew fin-Nofsinhar Globali (15%);
 
 (e) l-esperjenza fit-twettiq ta’ riċerka kwantitattiva u/jew kwalitattiva (15%); u
-
-*3*
-
-POLICIES FOR GLOBAL DEVELOPMENT [L.S.327.516
 
 (f) l-ittri ta’ rakkomandazzjoni (tnejn huma meħtieġa) (5%).
 
@@ -149,10 +137,6 @@ D (25% li jmiss) 6-6.9 50%-54% 6-6.9
 
 Xogħol Sodisfaċenti
 
-*4*
-
-[L.S.327.516 POLICIES FOR GLOBAL DEVELOPMENT
-
 E (10% li jmiss) 5-5.9 45%-49% 5-5.9
 
 Xogħol Suffiċjenti
@@ -187,11 +171,7 @@ krettu)
 
 (1) Il-Bord tal-Istudji għandu jaħtar superviżur għal kull student. L-istudenti huma meħtieġa li jżommu kuntatt regolari mas-superviżur tagħhom.
 
-(2) Is-superviżuri għandhom jibgħatu lill-Bord tal-Istudji rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji. Dawn ir-rapporti POLICIES FOR GLOBAL DEVELOPMENT [L.S.327.516
-
-jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
-
-*5*
+(2) Is-superviżuri għandhom jibgħatu lill-Bord tal-Istudji rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tal-paragrafu (2) tar-regolament 4; u
 

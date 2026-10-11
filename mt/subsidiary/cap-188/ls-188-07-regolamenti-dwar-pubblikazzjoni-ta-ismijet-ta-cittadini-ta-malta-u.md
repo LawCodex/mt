@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Pubblikazzjoni ta’ Ismijet ta’ Ċittadini ta’ Malta u Persuni Mċaħħda miċ-Ċittadinanza Maltija"
-identifier: "S.L. 188.7"
+identifier: "S.L. 188.07"
 eli: "https://legislation.mt/eli/sl/188.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,15 +14,7 @@ version: "https://legislation.mt/eli/sl/188.7/20260313/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Pubblikazzjoni ta’ Ismijet ta’ Ċittadini ta’ Malta u Persuni Mċaħħda miċ-Ċittadinanza Maltija (S.L. 188.7)
-
-PUBBLIKAZZJONI TA’ ISMIJIET TA’ ĊITTADINI TA’
-
-MALTA U PERSUNI MĊAĦĦDA
-
-*1*
-
-MIĊ-ĊITTADINANZA MALTIJA [L.S.188.07
+# Regolamenti dwar Pubblikazzjoni ta’ Ismijet ta’ Ċittadini ta’ Malta u Persuni Mċaħħda miċ-Ċittadinanza Maltija (S.L. 188.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 188.07**
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Kodiċi ta' Mġieba għall-Għalliema"
-identifier: "S.L. 327.2"
+identifier: "S.L. 327.02"
 eli: "https://legislation.mt/eli/sl/327.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/327.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Kodiċi ta' Mġieba għall-Għalliema (S.L. 327.2)
+# Regolamenti dwar Kodiċi ta' Mġieba għall-Għalliema (S.L. 327.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 327.02**
 

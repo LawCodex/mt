@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patriċinju tal-Istitut tal-Mediterran (S.L. 327.103)
 
-*1*
-
-IL-PATROĊINJU TAL-ISTITUT TAL-MEDITERRAN [L.S.327.103
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.103**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR**
@@ -77,15 +73,13 @@ Id-Direttur tal-Istitut jew delegat
 
 Membru tal-Bord tal-Istitut.
 
-Il-Bord jista’ jitlob ukoll lill-kordinatur tal-qasam ta’ studju kkonċernat u lis-Superviżur prinċipali propost biex jattendu għal-laqgħa tal-kumitat meta tkun qed tiġi kkunsidrata l-applikazzjoni. [L.S.327.103 IL-PATROĊINJU TAL-ISTITUT TAL-MEDITERRAN
+Il-Bord jista’ jitlob ukoll lill-kordinatur tal-qasam ta’ studju kkonċernat u lis-Superviżur prinċipali propost biex jattendu għal-laqgħa tal-kumitat meta tkun qed tiġi kkunsidrata l-applikazzjoni.
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 260 tal-2024.
 
 ## 6. Supervi\\joni.
 
 Is-Superviżuri prinċipali huma meħtieġa jissottomettu rapport bil-miktub lill-Bord, permezz tal-Kumitat tal-Istitut għad- Dottorat, kull Ġunju għall-istudenti kollha li jaqgħu taħt is-superviżjoni tagħhom.
-
-*2*
 
 ## 7. Progress tal-istudenti.
 

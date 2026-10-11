@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Ikel tal-Annimali"
-identifier: "S.L. 36.9"
+identifier: "S.L. 36.09"
 eli: "https://legislation.mt/eli/sl/36.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/36.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Ikel tal-Annimali (S.L. 36.9)
+# Regolamenti dwar l-Ikel tal-Annimali (S.L. 36.09)
 
 LE{ISLAZZJONI SUSSIDJARJA 36.09
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Engineering taħt il-patroċinju tal-Fakultà ta’ l-Inġinerija (S.L. 327.173)
 
-*1*
-
-TAĦT Il-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.173
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.173**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -70,10 +66,6 @@ Il-kors jista’ jkun offrut f’kull qasam ta’ studju li jaqa’ taħt ir-res
 
 (d) kwalifiki ekwivalenti approvati mis-Senat fuq ir-rakkomandazzjoni tal-Bord.
 
-*2*
-
-[L.S.327.173 TAĦT Il-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA
-
 (2) Id-dħul ta’ l-applikanti skond il-paragrafu (1)(ċ) u (d) tal-ordinament tkun skond ir-riżultati ta’ intervista u f’dawn il-każijiet il-Bord jista’ jeħtieġ li l-applikanti jtemmu program preparatorju ta’ mhux aktar minn 30 kreditu qabel ma jirreġistraw għall-kors.
 
 ## 5. Tul tal-kors.
@@ -122,11 +114,7 @@ Il-programmi ta’ studju prinċipalment bir-riċerka jikkonsistu minn taqsimiet
 
 (2) Dawk l-istudenti li jsegwu programm ta’ studju prinċipalment mgħallem li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 kredtu, jekk ikunu qegħdin isegwu l-kors full-time, jew mhux aktar minn 10 kredti jekk ikunu qegħdin isegwu l-kors part-time jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni ta’ l-eżamijiet supplimetari ta’ Settembru.
 
-(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li jeħlu f’aktar minn taqsima-studju waħda mgħallma wara li jkunu lestew il-valutazzjonijiet u l-valutazzjonijiet mill-ġdid kollha permessi għat-taqsimiet-studju TAĦT Il-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.173
-
-mgħallma kollha fil-programm, ikunu meħtieġa jirtiraw mill-Kors.
-
-*3*
+(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li jeħlu f’aktar minn taqsima-studju waħda mgħallma wara li jkunu lestew il-valutazzjonijiet u l-valutazzjonijiet mill-ġdid kollha permessi għat-taqsimiet-studju mgħallma kollha fil-programm, ikunu meħtieġa jirtiraw mill-Kors.
 
 ## 14. Dissertazzjonijiet.
 
@@ -163,10 +151,6 @@ mgħallma kollha fil-programm, ikunu meħtieġa jirtiraw mill-Kors.
 *Miżjud: A.L. 242 tal-2023.*
 
 Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu żewġ kopji tat-teżi b’legatura ħoxna u kopja f’format diġitali sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.
-
-*4*
-
-[L.S.327.173 TAĦT Il-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA
 
 ## 18. Klassifikazzjoni tar- Rikonoxximenti. Enumerat: A.L. 242 tal-2023.
 

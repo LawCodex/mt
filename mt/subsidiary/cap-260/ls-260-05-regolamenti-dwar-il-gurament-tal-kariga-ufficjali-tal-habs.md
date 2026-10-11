@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ġurament tal-Kariga (Uffiċjali tal-Ħabs)"
-identifier: "S.L. 260.5"
+identifier: "S.L. 260.05"
 eli: "https://legislation.mt/eli/sl/260.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/260.5/20130628/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ġurament tal-Kariga (Uffiċjali tal-Ħabs) (S.L. 260.5)
+# Regolamenti dwar il-Ġurament tal-Kariga (Uffiċjali tal-Ħabs) (S.L. 260.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 260.05**
 

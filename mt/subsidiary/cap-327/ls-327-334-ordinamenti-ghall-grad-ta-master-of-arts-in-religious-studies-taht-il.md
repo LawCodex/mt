@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Religious Studies taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.334)
 
-*1*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.334
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.334**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -114,10 +110,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perjodu ta’ studju msemmija f’(a) tkun skond id-dispożizzjonijiet tar- Regolamenti prinċipali; u
-
-*3*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.334
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skond (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 

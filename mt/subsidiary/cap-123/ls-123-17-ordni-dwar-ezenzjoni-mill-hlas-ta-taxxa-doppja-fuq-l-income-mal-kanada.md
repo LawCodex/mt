@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mal-Kanada (S.L. 123.17)
 
-*1*
-
-FUQ L-INCOME MAL-KANADA [L.S.123.17
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.17**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -80,8 +76,6 @@ it-taxxi fuq l-income imposti mill-Gvern tal-Kanada, (hawnhekk iżjed ’il qudd
 it-taxxa fuq l-income, inklużi ħlasijiet bil-quddiem ta’ taxxa sew jekk bi tnaqqis minn ras il-għajn jew xort’oħra, (hawnhekk iżjed ’il quddiem imsejħa "it-taxxa ta’ Malta").
 
 (4) Il-Ftehim għandu japplika wkoll għal kull taxxi bħalhom jew li sostanzjalment jixbħuhom u għal taxxi fuq il-kapital li jiġu mposti wara d-data li fiha dan il-Ftehim jiġi ffirmat b’żieda ma’, jew minflok, it-taxxi eżistenti. L-Istati Kontraenti għandhom javżaw lil xulxin b’kull tibdil sinjifikanti li jkun sar fil-liġijiet tagħhom rispettivi li jirrigwardaw it-taxxa.
-
-FUQ L-INCOME MAL-KANADA [L.S.123.17 3
 
 **II. Tifsiriet**
 
@@ -159,8 +153,6 @@ japplika għalihom dan il-Ftehim.
 
 (f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ estrazzjoni ta’ riżorsi naturali.
 
-FUQ L-INCOME MAL-KANADA [L.S.123.17 5
-
 (3) Sit tal-bini jew proġett ta’ kostruzzjoni jew stallazzjoni, jew stallazzjoni jew rig tat-tħaffir jew bastiment użat għall-esplorazzjoni jew żvilupp tar-riżorsi naturali, jew attivitajiet ta’ superviżjoni li għandhom x’jaqsmu magħhom, jikkostitwixxu stabbiliment permanenti iżda biss jekk is-sit, il-proġett jew l-attività bħal dawn ikomplu għal żmien jew żminijiet li fit-total ikunu aktar minn 183 jum f’xi perjodu ta’ tnax-il xahar, inkluż il-perjodu ta’ attività ta’ superviżjoni li għandu x’jaqsam miegħu.
 
 (4) Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbiliment permanenti" għandha titqies li ma tinkludix:
@@ -214,8 +206,6 @@ FUQ L-INCOME MAL-KANADA [L.S.123.17 5
 (6) Għall-finijiet tal-paragrafi ta’ qabel, il-profitti li għandhom jiġu attribwiti lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess mod minn sena għal sena kemm-il darba ma jkunx hemm raġuni tajba u biżżejjed biex isir kuntrarju.
 
 (7) Id-disposizzjonijiet ta’ dan l-Artikolu m’għandhomx jolqtu d-disposizzjonijiet tal-liġi ta’ Stat Kontraenti dwar it-tassazzjoni ta’ profitti fuq in-negozju ta’ assikurazzjoni li jitwettaq f’dak l-Istat.
-
-FUQ L-INCOME MAL-KANADA [L.S.123.17 7
 
 (8) Meta profitti jinkludu oġġetti ta’ income li qed jiġu trattati separatament f’Artikoli oħra ta’ dan il-Ftehim, allura d-disposizzjonijiet ta’ dawk l-Artikoli ma jkunux milquta bid-disposizzjonijiet ta’ dan l-Artikolu.
 
@@ -275,8 +265,6 @@ Id-disposizzjonijiet ta’ dan il-paragrafu ma għandhomx jolqtu t-tassazzjoni t
 
 (4) Id-disposizzjonijiet tal-paragrafu (2) ma għandhomx japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- Istat Kontraenti l-ieħor, li tiegħu tkun residenti l-kumpannija li tħallas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jaqdi f ’dak l-Istat l-ieħor servizz personali indipendenti minn bażi stabbilit sitwat hemmhekk, u l-holding li dwarhom id-dividendi jkunu mħallsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew bażi stabbilit. F’dak il-każ id-disposizzjonijiet ta’ l-Artikolu 7 jew l-Artikolu 14, skond il-każ, għandhom japplikaw.
 
-FUQ L-INCOME MAL-KANADA [L.S.123.17 9
-
 (5) Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief meta dividendi bħal dawn jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew safejn il-holding li dwaru jitħallsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ bażi stabbilit sitwat f’dak l-Istat l-ieħor, jew jissuġġetta l-profitti mhux distribwiti tal-kumpannija għal taxxa fuq il-profitti mhux distribwiti, anki jekk id-dividendi mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
 
 (6) L-ebda ħaġa f’dan il-Ftehim ma għandha tiftiehem li ma tħallix Stat Kontraenti milli jimponi fuq il-qligħ ta’ kumpannija li jkun attribwit għal stabbiliment permanenti f’dak l-Istat, taxxa b’żieda mat-taxxa li tkun imposta fuq il-qligħ ta’ kumpannija li tkun nazzjonali ta’ dak l-Istat, kemm-il darba taxxa addizzjonali bħal din hekk imposta ma għandhiex tkun iżjed minn 15 fil-mija ta’ l-ammont ta’ dan il-qligħ li ma jkunx ġie suġġett għal taxxa addizzjonali bħal din fi snin ta’ qabel ta’ tassazzjoni. Għall-finijiet ta’ din id-disposizzjoni, il-frażi "qligħ" tfisser il-profitti li jkunu attribwiti lil stabbiliment permanenti fi Stat Kontraenti f’sena u fi snin ta’ qabel wara li taqta’ minnhom it-taxxi kollha, barra t-taxxa addizzjonali msemmija hawnhekk, imposta fuq dawn il-profitti minn dak l-Istat.
@@ -320,8 +308,6 @@ jitħallas l-imgħax ikollu effettivament x’jaqsam ma’ dak l-istabbiliment p
 (4) Il-frażi "royalties" kif użata f’dan l-Artikolu tfisser ħlasijiet ta’ kwalunkwe xorta riċevuti bħala kumpens għall-użu ta’ jew għall-jedd ta’ l-użu ta’ kull copyright, invenzjoni, trade mark, disinn jew mudell, pjan, formula jew proċess sigriet, jew għall-użu ta’ jew għall-jedd ta’ l-użu ta’ tagħmir industrijali, kummerċjali jew xentifiku, jew għall-informazzjoni dwar esperjenza industrijali, kummerċjali jew xjentifika, u tinkludi ħlasijiet ta’ kull xorta dwar films ċinematografiċi u xogħlijiet fuq film jew videotape għall-użu fuq it-television.
 
 (5) Id-disposizzjonijiet tal-paragrafi (2) u (3) ma għandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih ir-royalties jinqalgħu permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qed jaqdi f’dak l-Istat l-ieħor servizzi personali indipendenti minn bażi stabbilit sitwat hemmhekk, u d-dritt jew il-proprjetà li dwarha jitħallsu r-royalties ikollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ma’ dak il-bażi stabbilit. F’dak il-każ id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ, għandhom japplikaw.
-
-FUQ L-INCOME MAL-KANADA [L.S.123.17 11
 
 (6) Royalties għandhom jitqiesu li jinqalgħu fi Stat Kontraenti meta min iħallashom ikun dak l-Istat innifsu, sotto-diviżjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, iżda, il-persuna li tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, ikollha fi Stat Kontraenti stabbiliment permanenti jew bażi stabbilit li dwaru jkun sar l-obbligu li jitħallsu r-royalties, u dawk ir-royalties ikunu r-responsabbilità ta’ dak l-istabbiliment permanenti jew bażi stabbilit, allura dawk ir-royalties għandhom jitqiesu li jinqalgħu fl-Istat li fih ikun qiegħed l-istabbiliment permanenti jew il-bażi stabbilit.
 
@@ -375,7 +361,7 @@ xi wieħed mill-Istati Kontraenti li jagħmel, skond il-liġi tiegħu, taxxa fuq
 
 (b) il-kumpens ikun imħallas minn, jew f’isem, prinċipal li ma jkunx residenti ta’ l-Istat l-ieħor, u dak il-kumpens ma jkunx piż fuq l-istabbiliment permanenti jew bażi stabbilit li l-prinċipal ikollu fl-Istat l-ieħor.
 
-(3) Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, kumpens dwar impieg eżerċitat abbord bastiment jew inġenji ta’ l-ajru mħaddma fi traffiku internazzjonali minn impriża ta’ Stat Kontraenti, ikun taxxabbli biss f’dak l-Istat. FUQ L-INCOME MAL-KANADA [L.S.123.17 13
+(3) Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, kumpens dwar impieg eżerċitat abbord bastiment jew inġenji ta’ l-ajru mħaddma fi traffiku internazzjonali minn impriża ta’ Stat Kontraenti, ikun taxxabbli biss f’dak l-Istat.
 
 **ARTIKOLU 16**
 
@@ -441,9 +427,7 @@ diżabilità minħabba l-gwerra li wieħed jirċievi minn Stat Kontraenti ma għ
 
 (1) Bla ħsara għad-disposizzjonijiet tal-paragrafu (2), oġġetti ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalgħu minn fejn jinqalgħu, li ma humiex trattati fl- Artikoli ta’ qabel ta’ dan il-Ftehim għandhom ikunu taxxabbli biss f’dak l-Istat.
 
-(2) Iżda, jekk income bħal dan jinkiseb minn residenti ta’ Stat Kontraenti minn għejjun fl-Istat Kontraenti l-ieħor, dak l-income jista’ jiġi ntaxxat ukoll fl-Istat fejn jinqala’ u skond il-liġi ta’ dak l-Istat. Iżda, fil-każ ta’ income minn estate jew trust, it-taxxa hekk imposta ma għandhiex, sakemm l-income ikun taxxabbli fl-Istat Kontraenti fejn min jirċevih joqgħod, tkun iżjed minn 15 fil-mija ta’ l-ammont gross FUQ L-INCOME MAL-KANADA [L.S.123.17 15
-
-ta’ l-income.
+(2) Iżda, jekk income bħal dan jinkiseb minn residenti ta’ Stat Kontraenti minn għejjun fl-Istat Kontraenti l-ieħor, dak l-income jista’ jiġi ntaxxat ukoll fl-Istat fejn jinqala’ u skond il-liġi ta’ dak l-Istat. Iżda, fil-każ ta’ income minn estate jew trust, it-taxxa hekk imposta ma għandhiex, sakemm l-income ikun taxxabbli fl-Istat Kontraenti fejn min jirċevih joqgħod, tkun iżjed minn 15 fil-mija ta’ l-ammont gross ta’ l-income.
 
 **IV. Tassazzjoni ta’ Kapital**
 
@@ -499,9 +483,7 @@ Bla ħsara għad-disposizzjonijiet tal-liġi ta’ Malta dwar l-għoti ta’ kre
 
 (3) Xejn li hemm f’dan l-Artikolu ma għandu jitqies li jorbot Stat Kontraenti li jagħti lil residenti ta’ l-Istat Kontraenti l-ieħor xi tnaqqis personali, ħelsien jew tnaqqis għall-finijiet ta’ taxxa minħabba l-istatus ċivili jew ir-responsabbiltajiet tal-familja li huwa jagħti lir-residenti tiegħu stess.
 
-(4) Impriżi ta’ Stat Kontraenti, li l-kapital tagħhom ikun proprjetà ta’ jew ikkontrollat minn, għal kollox jew f’parti, direttament jew indirettament, residenti wieħed jew aktar ta’ l-Istat Kontraenti l-ieħor, ma jkunux suġġetti fl-Istat l-ewwel imsemmi għal xi tassazzjoni jew xi ħtiġiet li għandhom x’jaqsmu magħha li tkun ta’ piż ieħor jew ta’ aktar piż mit-tassazzjoni u ħtiġiet li għandhom x’jaqsmu magħha li għalihom impriżi oħra bħalhom ta’ l-Istat l-ewwel imsemmi, li l-kapital tagħhom ikun proprjetà ta’ jew ikkontrollat minn, għal kollox jew f’parti, direttament jew indirettament, residenti wieħed jew aktar ta’ tielet Stat, huma jew jistgħu jkunu FUQ L-INCOME MAL-KANADA [L.S.123.17 17
-
-suġġetti.
+(4) Impriżi ta’ Stat Kontraenti, li l-kapital tagħhom ikun proprjetà ta’ jew ikkontrollat minn, għal kollox jew f’parti, direttament jew indirettament, residenti wieħed jew aktar ta’ l-Istat Kontraenti l-ieħor, ma jkunux suġġetti fl-Istat l-ewwel imsemmi għal xi tassazzjoni jew xi ħtiġiet li għandhom x’jaqsmu magħha li tkun ta’ piż ieħor jew ta’ aktar piż mit-tassazzjoni u ħtiġiet li għandhom x’jaqsmu magħha li għalihom impriżi oħra bħalhom ta’ l-Istat l-ewwel imsemmi, li l-kapital tagħhom ikun proprjetà ta’ jew ikkontrollat minn, għal kollox jew f’parti, direttament jew indirettament, residenti wieħed jew aktar ta’ tielet Stat, huma jew jistgħu jkunu suġġetti.
 
 (5) F’dan l-Artikolu, il-frażi "tassazzjoni" tfisser taxxi li għalihom jgħodd dan il-Ftehim.
 
@@ -561,9 +543,7 @@ awtoritajiet għandhom jużaw l-informazzjoni għal dawk l-għanijiet biss.
 
 (b) Malta milli tapplika d-disposizzjonijiet ta’ l-artikolu 12(2) ta’ l-Att dwar it-Taxxa fuq l-Income.
 
-(3) Meta l-Ftehim jipprovdi li l-income li jinqala’ fi Stat Kontraenti għandu jkun ħieles mit-taxxa f’dak l-Istat, sew f’kollox sew f’parti, u, taħt il-liġi li tkun isseħħ fl- Istat Kontraenti l-ieħor, dak l-income ikun suġġett għat-taxxa b’riferenza għall-ammont tiegħu li jintbagħat lil jew li jiġi riċevut f’dak l-Istat l-ieħor u mhux b’riferenza għall-ammont kollu tiegħu, allura l-ħelsien li għandu jingħata fl-ewwel Stat imsemmi jkun japplika biss għal dak l-income li jintbagħat lil jew li jiġi riċevut FUQ L-INCOME MAL-KANADA [L.S.123.17 19
-
-fl-Istat l-ieħor.
+(3) Meta l-Ftehim jipprovdi li l-income li jinqala’ fi Stat Kontraenti għandu jkun ħieles mit-taxxa f’dak l-Istat, sew f’kollox sew f’parti, u, taħt il-liġi li tkun isseħħ fl- Istat Kontraenti l-ieħor, dak l-income ikun suġġett għat-taxxa b’riferenza għall-ammont tiegħu li jintbagħat lil jew li jiġi riċevut f’dak l-Istat l-ieħor u mhux b’riferenza għall-ammont kollu tiegħu, allura l-ħelsien li għandu jingħata fl-ewwel Stat imsemmi jkun japplika biss għal dak l-income li jintbagħat lil jew li jiġi riċevut fl-Istat l-ieħor.
 
 (4) Dan il-Ftehim ma għandux japplika għal xi kumpannija, trust jew soċjetà li tkun residenti ta’ Stat Kontraenti u li s-sid benefiċjarju jew min jikkontrollha direttament jew indirettament tkun persuna waħda jew aktar minn waħda li ma tkunx residenti ta’ dak l-Istat, jekk l-ammont tat-taxxa mposta fuq l-income jew il-kapital tal-kumpannija, trust jew partnership minn dak l-Istat tkun sostanzjalment anqas mill-ammont li kellu jkun impost minn dak l-Istat jekk l-ishma kollha ta’ l-istock kapitali tal-kumpannija jew l-interessi kollha fit-trust jew fis-soċjetà, skond il-każ kif ikun, kellu jkun is-sid benefiċjarju tagħhom residenti wieħed jew aktar minn wieħed ta’ dak l-Istat.
 

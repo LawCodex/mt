@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Madliena Village Complex Bħala Żona Speċjali Msemmija (S.L. 246.10)
 
-*1*
-
-B}ALA |ONA SPE~JALI MSEMMIJA [L.S.246.10
-
 **LE{ISLAZZJONI SUSSIDJARJA 246.10**
 
 **ORDNI DWAR MADLIENA VILLAGE COMPLEX**

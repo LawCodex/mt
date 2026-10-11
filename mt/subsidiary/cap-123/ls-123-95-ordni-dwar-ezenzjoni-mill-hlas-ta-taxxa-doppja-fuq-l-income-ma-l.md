@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income ma' l-Islanda (S.L. 123.95)
 
-*1*
-
-FUQ L-INCOME MA’ L-ISLANDA [L.S.123.95
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.95**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME MA’ L-ISLANDA
@@ -101,9 +97,7 @@ Il-Ftehim għandu japplika wkoll ghal kull taxxi identiċi jew sostanzjalment si
 
 \1. Għall-għanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
-(a) il-frażi "Islanda" tfisser ir-Repubblika ta’ l-Islanda u, meta użata f’sens ġeografiku, tfisser it-territorju tar-Repubblika ta’ l-Islanda, inkluż il-baħar territorjali tagħha, u kull area ’l barra mill-baħar territorjali li fuqha l-Islanda, skond id-dritt internazzjonali, għandha ġurisdizzjoni FUQ L-INCOME MA’ L-ISLANDA [L.S.123.95 3
-
-jew drittijiet sovrani għar-rigward ta’ qiegħ il-baħar, is-sottoswol u ta’ l-ibħra sovrajaċenti u r-riżorsi naturali tagħhom;
+(a) il-frażi "Islanda" tfisser ir-Repubblika ta’ l-Islanda u, meta użata f’sens ġeografiku, tfisser it-territorju tar-Repubblika ta’ l-Islanda, inkluż il-baħar territorjali tagħha, u kull area ’l barra mill-baħar territorjali li fuqha l-Islanda, skond id-dritt internazzjonali, għandha ġurisdizzjoni jew drittijiet sovrani għar-rigward ta’ qiegħ il-baħar, is-sottoswol u ta’ l-ibħra sovrajaċenti u r-riżorsi naturali tagħhom;
 
 b) il-frażi ''Malta'' tfisser ir-Repubblika ta’ Malta u, meta użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra ta’ l-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ qiegħ il-baħar, is-sottoswol u l-kolonna ta’ baħar sovrajaċenti u adjaċenti għall-ibħra territorjali, fejn Malta għandha drittijiet sovrani, ġurisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tagħha, inkluż il-liġi tagħha għar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
 
@@ -183,8 +177,6 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi ''stabb
 
 (a) l-użu ta’ faċilitajiet għall-iskop uniku ta’ ħażna jew ta’ wiri ta’ oġġetti jew merkanzija li jkunu proprjetà ta’ l-impriża;
 
-FUQ L-INCOME MA’ L-ISLANDA [L.S.123.95 5
-
 (b) il-manutenzjoni ta’ hażna ta’ oġġetti jew merkanzija li tkun proprjetà ta’ l-impriża għall-iskop uniku ta’ hażna, wiri jew kunsinna;
 
 (ċ) il-manutenzjoni ta’ hażna ta’ oġġetti jew merkanzija li tkun proprjetà ta’ l-impriża għall-iskop uniku ta’ proċessar minn impriża oħra;
@@ -245,7 +237,7 @@ income minn proprjetà immobbli ta’ impriża u għal income minn proprjetà im
 
 \1. Il-profitti ta’ impriża ta’ Stat Kontraenti mit-tħaddim ta’ bastimenti jew inġenji ta’ l-ajru fi traffiku internazzjonali għandhom ikunu taxxabbli biss f’dak l- Istat.
 
-\2. Id-disposizzjonijiet tal-paragrafu 1 għandhom ukoll japplikaw għal profitti mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali. FUQ L-INCOME MA’ L-ISLANDA [L.S.123.95 7
+\2. Id-disposizzjonijiet tal-paragrafu 1 għandhom ukoll japplikaw għal profitti mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
 
 **Artikolu 9**
 
@@ -299,9 +291,7 @@ Dan il-paragrafu m’għandux ikun jolqot it-tassazzjoni tal-kumpannija għar-ri
 
 \3. Id-disposizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw jekk is-sid benefiċjarju ta’ l-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bħal dak għandhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ.
 
-\4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont ta’ l-imgħax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun FUQ L-INCOME MA’ L-ISLANDA [L.S.123.95 9
-
-miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ taxxabbli skond il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-disposizzjonijiet l-oħra ta’ dan il-Ftehim.
+\4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont ta’ l-imgħax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ taxxabbli skond il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-disposizzjonijiet l-oħra ta’ dan il-Ftehim.
 
 **Artikolu 12**
 
@@ -353,9 +343,7 @@ miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazz
 
 **SERVIZZI PERSONALI DIPENDENTI**
 
-\1. Bla ħsara għad-disposizzjonijiet ta’ l-Artikoli 16, 18 u 19, is-salarji, il-pagi FUQ L-INCOME MA’ L-ISLANDA [L.S.123.95 11
-
-u kumpens ieħor bħal dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impjieg għandhom ikunu taxxabbli biss f’dak l-Istat kemm-il darba l-impjieg ma jiġix eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak Istat l-ieħor.
+\1. Bla ħsara għad-disposizzjonijiet ta’ l-Artikoli 16, 18 u 19, is-salarji, il-pagi u kumpens ieħor bħal dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impjieg għandhom ikunu taxxabbli biss f’dak l-Istat kemm-il darba l-impjieg ma jiġix eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak Istat l-ieħor.
 
 \2. Minkejja d-disposizzjonijiet tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Stat Kontraenti dwar impjieg eżerċitat fl-Istat Kontraenti l-ieħor għandu jkun taxxabbli biss fl-Istat l-ewwel imsemmi jekk:
 
@@ -429,8 +417,6 @@ Meta residenti ta’ l-Islanda jikseb income li, skond id-disposizzjonijiet ta�
 
 \2. Fil-każ ta’ Malta, it-tassazzjoni doppja għandha tiġi eliminata kif ġej:
 
-FUQ L-INCOME MA’ L-ISLANDA [L.S.123.95 13
-
 Bla ħsara għad-disposizzjonijiet tal-liġi ta’ Malta dwar l-għoti bi kreditu għat-taxxa ta’ Malta għar-rigward tat-taxxa barranija, meta, skond id-disposizzjonijiet ta’ dan il-Ftehim, ikun hemm inklużi fi stima ta’ Malta income minn sorsi fl-Islanda, it-taxxa ta’ l-Islanda fuq dak l-income għandha tiġi permessa bħala kreditu għat-taxxa ta’ Malta relattiva li titħallas dwarhom.
 
 \3. Meta skond xi disposizzjoni tal-Ftehim income li jinkiseb minn residenti ta’ Stat Kontraenti jkun eżenti mit-taxxa f’dak l-Istat, dak l-Istat jista’ madankollu, meta jkun qed jikkalkola l-ammont ta’ taxxa fuq l-income li jifdal ta’ dak ir-residenti, iqis l-income eżentat.
@@ -485,9 +471,7 @@ Ebda ħaġa f ’dan il-Ftehim ma għandha tolqot il-privileġġi ta’ membri t
 
 **BIDU FIS-SEĦĦ**
 
-\1. Il-Gvernijiet ta’ l-Istati Kontraenti għandhom javżaw lil xulxin, permezz ta’ FUQ L-INCOME MA’ L-ISLANDA [L.S.123.95 15
-
-kanali diplomatiċi, meta jkunu tħarsu l-ħtiġiet legali għad-dħul fis-seħħ ta’ dan il- Ftehim.
+\1. Il-Gvernijiet ta’ l-Istati Kontraenti għandhom javżaw lil xulxin, permezz ta’ kanali diplomatiċi, meta jkunu tħarsu l-ħtiġiet legali għad-dħul fis-seħħ ta’ dan il- Ftehim.
 
 \2. Dan il-Ftehim għandu jibda jseħħ fid-data li fiha jasal l-aħħar wieħed mill-avviżi msemmija fil-paragrafu 1 u d-disposizzjonijiet tiegħu għandu jkollhom effett:
 

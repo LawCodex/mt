@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti hu l-Ordinamenti għall-Grad ta’ Master of Science in Banking and Finance – M.Sc. - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.449)
 
-*1*
-
-FINANCE [L.S.327.449
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.449**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -72,11 +68,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (a) grad ta’ Bachelor fil-Banking and Finance minn din l- Università, miksub mill-inqas fit-Tieni Klassi bl- Unuri; jew
 
-(b) il-grad ta’ Bachelor of Commerce with Banking and Finance bħala wieħed miż-żewġ oqsma ta’ studju [L.S.327.449 FINANCE
-
-ewlenin, miksub mill-inqas f’Kategorija II; jew
-
-*2*
+(b) il-grad ta’ Bachelor of Commerce with Banking and Finance bħala wieħed miż-żewġ oqsma ta’ studju ewlenin, miksub mill-inqas f’Kategorija II; jew
 
 (c) grad mill-inqas fit-Tieni Klassi bl-Unuri jew f’Kategorija II, fi kwalunkwe qasam ieħor meqjus relevanti mill-Bord tal-Istudju; jew
 
@@ -108,11 +100,7 @@ Il-Kors ikun miftuħ għall-applikanti li għandhom:
 
 (a) il-grad ta’ Bachelor of Commerce minn din l-Università, fl-istess qasam jew f’oqsma ta’ studju bħal oqsma ta’ studju magħżula, miksub mill-anqas b’Kategorija II u b’marka medja minima ta’ 65% miksuba f’wieħed miż-żewġ oqsma ta’ studju proposti għall-Grad; jew
 
-(b) il-grad ta’ Bachelor of Commerce (Honours) minn din l-Università, fl-istess qasam jew f’oqsma ta’ studju bħal oqsma ta’ studju magħżula, miksub mill-anqas fit-Tieni Klassi bl-Unuri. Il-Bord jista’ jikkunsidra wkoll applikanti li għandhom grad miksub fit-Tielet Klassi bl-Unuri, sakemm li l-applikanti jkunu kisbu kwalifiki oħra, inkluż esperjenza ta’ xogħol rilevanti, FINANCE [L.S.327.449
-
-**wara l-grad tal-ewwel ċiklu tagħhom; jew**
-
-*3*
+(b) il-grad ta’ Bachelor of Commerce (Honours) minn din l-Università, fl-istess qasam jew f’oqsma ta’ studju bħal oqsma ta’ studju magħżula, miksub mill-anqas fit-Tieni Klassi bl-Unuri. Il-Bord jista’ jikkunsidra wkoll applikanti li għandhom grad miksub fit-Tielet Klassi bl-Unuri, sakemm li l-applikanti jkunu kisbu kwalifiki oħra, inkluż esperjenza ta’ xogħol rilevanti, wara l-grad tal-ewwel ċiklu tagħhom; jew
 
 (ċ) il-grad ta’ Bachelor of Science (Honours) in Business and IT minn din l-Università, miksub mill-anqas fit- Tieni Klassi bl-Unuri; jew
 
@@ -142,11 +130,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
-(2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 kredtu għal taqsimiet studju mgħallma, jekk ikunu qegħdin isegwu l-kors full-time, jew mhux [L.S.327.449 FINANCE
-
-aktar minn 10 kredti jekk ikunu qegħdin isegwu l-kors part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjonijiet mill-ġdid li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
-
-*4*
+(2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 kredtu għal taqsimiet studju mgħallma, jekk ikunu qegħdin isegwu l-kors full-time, jew mhux aktar minn 10 kredti jekk ikunu qegħdin isegwu l-kors part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjonijiet mill-ġdid li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li jeħlu f’aktar minn taqsima-studju waħda mgħallma wara li jkunu lestew il-valutazzjonijiet u l-valutazzjonijiet mill-ġdid kollha permessi għat-taqsimiet-studju mgħallma kollha fil-programm, ikunu meħtieġa jirtiraw mill-Kors.
 

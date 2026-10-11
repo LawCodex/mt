@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tal-Litwanja (S.L. 123.76)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.76**
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -105,9 +101,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 \1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma te]tie[x xort’o]ra:
 
-(a) il-fra\\i "Litwanja" tfisser ir-Repubblika tal-Litwanja u, meta tintu\\a f’sens [eografiku, tfisser it-territorju tar-Repubblika tal-Litwanja u kull area o]ra adja`enti mal-ba]ar territorjali tar-Repubblika tal-Litwanja li fi ]danhom ta]t il-li[ijiet tal-Litwanja u skond id-dritt internazzjonali, FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76 3
-
-id-drittijiet tal-Litwanja jistg]u ji[u e\\er`itati g]ar-rigward ta’ qieg] il-ba]ar u s-sottoswol u r-ri\\orsi naturali relattivi;
+(a) il-fra\\i "Litwanja" tfisser ir-Repubblika tal-Litwanja u, meta tintu\\a f’sens [eografiku, tfisser it-territorju tar-Repubblika tal-Litwanja u kull area o]ra adja`enti mal-ba]ar territorjali tar-Repubblika tal-Litwanja li fi ]danhom ta]t il-li[ijiet tal-Litwanja u skond id-dritt internazzjonali, id-drittijiet tal-Litwanja jistg]u ji[u e\\er`itati g]ar-rigward ta’ qieg] il-ba]ar u s-sottoswol u r-ri\\orsi naturali relattivi;
 
 (b) il-fra\\i "Malta" tfisser the Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra tal-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti u adja`enti g]all-ib]ra territorjali, fejn ir-Repubblika ta’ Malta g]andha drittijiet sovrani, [urisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha g]ar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
 
@@ -185,8 +179,6 @@ ta\\-\\ew[ Stati Kontraenti, allura l-istatus tieg]u g]andu ji[i stabbilit kif [
 
 Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabbiliment permanenti" g]andha titqies li ma tinkludix:
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76 5
-
 (a) l-u\\u ta’ fa`ilitajiet g]all-iskop uniku ta’ ]\\in, wiri jew tqassim ta’ o[[etti jew merkanzija li jkunu proprjetà tal-impri\\a;
 
 (b) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà tal-impri\\a g]all-iskop uniku ta’ ]\\in, wiri jew tqassim;
@@ -247,8 +239,6 @@ jin]admu, jew g]all-esplorazzjoni ta’, depo\\iti minerali, g]ejjun u ri\\orsi 
 
 Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u trattati separatament f’artikoli o]ra ta’ dan il-Ftehim, g]aldaqshekk id-disposizzjonijiet ta’ dawk l-Artikoli ma jintlaqtux bid-disposizzjonijiet ta’ dan l-Artikolu.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76 7
-
 **Artikolu 8**
 
 **TBA}}IR U TRASPORT BL-AJRU**
@@ -307,9 +297,7 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal-kumpannija g]ar-rigward tal-profitti 
 
 \3. Minkejja d-disposizzjonijiet tal-paragrafu 2 mg]ax li jori[ina fi Stat Kontraenti, li l-Gvern tal-Istat Kontraenti l-ie]or jikseb u jkun is-sid benefi`jarju tieg]u, inklu\\i l-awtoritajiet lokali tieg]u, il-Bank ~entrali jew xi istituzzjoni finanzjarja li kollha kemm hi tkun proprjetà ta’ dak il-Gvern, jew mg]ax miksub fuq xi self kif garantit minn dak il-Gvern, g]andu jkun e\\enti mit-taxxa fl-Istat l-ewwel imsemmi.
 
-\4. Il-fra\\i "mg]ax" kif inhi w\\ata f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assigurati b’ipoteka sew jekk le, u sew jekk ikollhomx dritt li jipparte`ipaw fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76 9
-
-inklu\\i premiums u premjijiet relatati ma dawk it-titoli, bonds jew debentures. Il-fra\\i "mg]ax" m’g]andhiex tinkludi income li jkun ittrattat b]ala dividend ta]t id-disposizzjonijiet tal-Artikolu 10. }lasijiet ta’ penali g]al ]las tardiv ma jitqiesux b]ala mg]ax g]all-finijiet ta’ dan l-Artikolu.
+\4. Il-fra\\i "mg]ax" kif inhi w\\ata f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assigurati b’ipoteka sew jekk le, u sew jekk ikollhomx dritt li jipparte`ipaw fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inklu\\i premiums u premjijiet relatati ma dawk it-titoli, bonds jew debentures. Il-fra\\i "mg]ax" m’g]andhiex tinkludi income li jkun ittrattat b]ala dividend ta]t id-disposizzjonijiet tal-Artikolu 10. }lasijiet ta’ penali g]al ]las tardiv ma jitqiesux b]ala mg]ax g]all-finijiet ta’ dan l-Artikolu.
 
 \5. Id-disposizzjonijiet tal-paragrafi 1, 2 u 3 m’g]andhomx japplikaw jekk is-sid benefi`jarju tal-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw id-disposizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skond il-ka\\.
 
@@ -353,9 +341,7 @@ disposizzjonijiet tal-Artikolu 7 jew l-Artikolu 14, skond il-ka\\.
 
 **SERVIZZI PERSONALI INDIPENDENTI**
 
-\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti g]andu jkun intaxxat biss f’dak l-Istat kemm-il darba ma jkollux ba\\i fissa stabbilita regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u. Jekk huwa jkollu tali ba\\i fissa, l-income jista’ ji[i intaxxat fl-Istat l-ie]or i\\da biss daqstant minnu daqskemm ikun attribbwibbli g]al dik il-ba\\i fissa. Jekk individwu li jkun residenti ta’ Stat Kontraenti ma jkollux tali ba\\i fissa, i\\da jkun joqg]od fl-Istat Kontraenti l-ie]or g]al perjodu jew g]al perjodi li b’kollox ikunu ta’, jew li fit-total FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76 11
-
-ikunu jaqb\\u l-183 [urnata f’perjodu ta’ 12 il-xahar li jkun u li jibda g]addej jew itemm fis-sena fiskali in kwistjoni, huwa g]andu jitqies b]ala li jkollu ba\\i fissa regolarment disponibbli g]alih f’dak l-Istat l-ie]or u l-income li jinkiseb mill-attivitajiet tieg]u hawn aktar qabel imsemmija li jitwettqu f’dak l-Istat l-ie]or g]andhom ikunu attribwibbli g]al dik il-ba\\i fissa.
+\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti g]andu jkun intaxxat biss f’dak l-Istat kemm-il darba ma jkollux ba\\i fissa stabbilita regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u. Jekk huwa jkollu tali ba\\i fissa, l-income jista’ ji[i intaxxat fl-Istat l-ie]or i\\da biss daqstant minnu daqskemm ikun attribbwibbli g]al dik il-ba\\i fissa. Jekk individwu li jkun residenti ta’ Stat Kontraenti ma jkollux tali ba\\i fissa, i\\da jkun joqg]od fl-Istat Kontraenti l-ie]or g]al perjodu jew g]al perjodi li b’kollox ikunu ta’, jew li fit-total ikunu jaqb\\u l-183 [urnata f’perjodu ta’ 12 il-xahar li jkun u li jibda g]addej jew itemm fis-sena fiskali in kwistjoni, huwa g]andu jitqies b]ala li jkollu ba\\i fissa regolarment disponibbli g]alih f’dak l-Istat l-ie]or u l-income li jinkiseb mill-attivitajiet tieg]u hawn aktar qabel imsemmija li jitwettqu f’dak l-Istat l-ie]or g]andhom ikunu attribwibbli g]al dik il-ba\\i fissa.
 
 \2. Il-fra\\i "servizzi professjonali" tinkludi attivitajiet letterarji, artisti`i, edukattivi jew ta’ tag]lim li huma spe`jalment indipendenti kif ukoll l-attivitajiet indipendenti ta’ tobba, avukati, in[iniera, periti, dentisti u accountants.
 
@@ -425,8 +411,6 @@ Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti t
 
 Student, apprendist jew trainee li jkun pre\\enti fi Stat Kontraenti unikament g]all-fini tal-edukazzjoni jew it-ta]ri[ tieg]u u li jkun, jew li minnufih qabel ma kien hekk pre\\enti kien, residenti tal-Istat Kontraenti l-ie]or, jkun e\\enti mit-taxxa fl-ewwel imsemmi Stat dwar ]lasijiet li huwa jir`ievi minn barra dak l-ewwel imsemmi Stat g]all-finijiet tal-manteniment, edukazzjoni jew ta]ri[ tieg]u.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76 13
-
 **Artikolu 21**
 
 **ATTIVITAJIET OFFSHORE**
@@ -483,9 +467,7 @@ Bla ]sara g]ad-disposizzjonijiet tal-li[i ta’ Malta li tirrigwarda l-g]oti bi 
 
 **EBDA DISKRIMINAZZJONI**
 
-\1. I`-`ittadini ta’ Stat Kontraenti ma g]andhomx ji[u asso[[ettati fl-Istat Kontraenti l-ie]or g]al xi tassazzjoni jew g]al xi ]tie[a li jkunu konnessi ma’ dan li tkun diversa jew ta’ iktar pi\\ mit-tassazzjoni u ]ti[iet konnessi li g]alihom `ittadini ta’ dak l-Istat l-ie]or fl-istess `irkostanzi, b’mod partikolari g]ar-rigward ta’ FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76 15
-
-residenza, huma jew jistg]u jkunu asso[[ettati. Din id-disposizzjoni g]andha, minkejja d-disposizzjonijiet tal-Artikolu 1, tkun tapplika wkoll g]al persuni li ma jkunux residenti ta’ xi wie]ed jew ta\\-\\ew[ Stati Kontraenti.
+\1. I`-`ittadini ta’ Stat Kontraenti ma g]andhomx ji[u asso[[ettati fl-Istat Kontraenti l-ie]or g]al xi tassazzjoni jew g]al xi ]tie[a li jkunu konnessi ma’ dan li tkun diversa jew ta’ iktar pi\\ mit-tassazzjoni u ]ti[iet konnessi li g]alihom `ittadini ta’ dak l-Istat l-ie]or fl-istess `irkostanzi, b’mod partikolari g]ar-rigward ta’ residenza, huma jew jistg]u jkunu asso[[ettati. Din id-disposizzjoni g]andha, minkejja d-disposizzjonijiet tal-Artikolu 1, tkun tapplika wkoll g]al persuni li ma jkunux residenti ta’ xi wie]ed jew ta\\-\\ew[ Stati Kontraenti.
 
 \2. L-intaxxar fuq stabbiliment permanenti li impri\\a ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ie]or ma g]andux jin[abar inqas favorevolment f’dak Istat l-ie]or mit-tassazzjoni mi[bura fuq impri\\i ta’ dak l-Istat l-ie]or li jkun qieg]ed iwettaq l-istess attivitajiet. Din id-disposizzjoni m’g]andhiex tiftiehem b]ala li tobbliga lil Stat Kontraenti li jikkon`edi lil residenti tal-Istat Kontraenti l-ie]or xi allowances, ]elsien u tnaqqis personali g]all-g]anijiet ta’ tassazzjoni min]abba fl-istatus `ivili jew responsabbiltajiet familjari li jikkon`edi lir-residenti tieg]u.
 
@@ -538,8 +520,6 @@ Ftehim jew tal-li[ijiet domesti`i tal-Istati Kontraenti g]ar-rigward ta’ taxxi
 Ebda ]a[a f’dan il-Ftehim ma g]andha tolqot il-privile[[i fiskali tal-membri ta’ missjonijiet diplomati`i jew ta’ karigi konsulari ta]t ir-regoli [enerali tad-dritt internazzjonali jew ta]t id-disposizzjonijiet ta’ kull ftehim spe`jali.
 
 **Artikolu 29**
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76 17
 
 **BIDU FIS-SE}}**
 
@@ -608,8 +588,6 @@ Jiftiehem li l-ispejje\\ li g]andhom ji[u permessi b]ala tnaqqis minn Stat Kontr
 (ii) persuni u sa dak il-limitu li ta]t id-dispozizzjonijiet tal-Att dwar il-Bastimenti Merkantili, ma jkunux so[[etti g]at-taxxa fuq il-profitti miksubin mit-t]addim ta’ bastimenti fi traffiku internazzjonali; jew
 
 (iii) persuni li jkollhom jedd g]al xi benefi``ju ta’ taxxa spe`jali dwar id-distribuzzjonijiet minn xi trust bla ]sara g]ad-disposizzjonijiet tal-Att dwar it-Trusts fil-kuntest li trust kif stipulata f’dak l-Att ma tkunx vestita b’personalità [uridika u g]aldaqshekk ma tistax tibbenefika ta]t dan il-Ftehim skond il-jeddijiet li g]andha;
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-LITWANJA [L.S.123.76 19
 
 (`) jekk xi li[i li tkun sostanzjalment simili g]al dawk indikati fis-subparagrafu (b) ta’ dan il-paragrafu ti[i le[islata minn xi wie]ed mill- Istati Kontraenti u ji[i miftiehem mill-awtoritajiet kompetenti tal-Istati Kontraenti li din g]andha ti[i inklu\\a skond ma hemm fil-paragrafu 2 tal-Artikolu 27, persuni li jkollhom jedd g]al xi benefi``ju ta’ taxxa spe`jali ta]ta jkunu esklu\\i bl-istess mod mid-disposizzjonijiet ta’ dan il-Ftehim.
 

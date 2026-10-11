@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Bioethics taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.335)
 
-*1*
-
-IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.335
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.335**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -105,11 +101,9 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-bidu tat-tieni semestru.
 
-*3*
+## 10. Superviżur.
 
-IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.335 10. (1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
-
-*Superviżur.*
+(1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

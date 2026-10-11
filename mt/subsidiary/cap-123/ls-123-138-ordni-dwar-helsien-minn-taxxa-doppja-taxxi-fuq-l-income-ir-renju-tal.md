@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ir-Renju tal-Għarabja Sawdita) (S.L. 123.138)
 
-*1*
-
-(IR-RENJU TAL-GĦARABJA SAWDITA) [L.S.123.138
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.138**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
@@ -48,8 +44,6 @@ B’dan qiegћed jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseћћ fl-1 ta’ Diċembru 2012.
-
-2 [L.S.123.138 (IR-RENJU TAL-GĦARABJA SAWDITA)
 
 ## SKEDA
 
@@ -117,8 +111,6 @@ TIFSIRIET ĠENERALI
 
 \1. Għall-għanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’oħra:
 
-(IR-RENJU TAL-GĦARABJA SAWDITA) [L.S.123.138 3
-
 (a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta din tiġi użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra tal-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, kif ukoll kull żona ta’ qiegħ il-baħar, is-sottoswol tiegħu u l-kolonna ta’ baħar sovrajaċenti li tinsab adjaċenti għall-ibħra territorjali, fejn Malta għandha drittijiet sovrani, ġurisdizzjoni, jew kontroll kif hemm fid-dritt internazzjonali u d-dritt nazzjonali tagħha, inkluża l-leġislazzjoni tagħha għar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagћha;
 
 (b) il-frażi "Renju tal-Għarabja Sawdita" tfisser it-territorju tar-Renju tal- Għarabja Sawdita li jinkludi wkoll iż-żona barra l-ibħra territorjali, fejn ir-Renju tal-Għarabja Sawdita jeżercita s-sovranità tiegħu u drittijiet ġurisdizzjonali fl-ibħra tagħhom, f’qiegħ il-baħar, fis-sottoswol u r-riżorsi naturali bis-saħħa tad-dritt tagħha u d-dritt internazzjonali;
@@ -149,9 +141,7 @@ TIFSIRIET ĠENERALI
 
 **RESIDENTI**
 
-\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser 4 [L.S.123.138 (IR-RENJU TAL-GĦARABJA SAWDITA)
-
-kull persuna li, taћt il-liġijiet ta’ dak l-iStat, tkun soġġetta gћat-taxxa hemmhekk minћabba fid-domiċilju tagħha, ir-residenza, il-post tal-inkorporazzjoni, il-post ta-maniġġ jew kull kriterju ieћor ta’ xorta bћal dawk, u tinkludi wkoll dak l-iStat u kull sottodiviżjoni amministrattiva jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun soġġetta gћat-taxxa f’dak l-iStat gћar-rigward biss ta’ income minn gћejjun f’dak l-iStat.
+\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet ta’ dak l-iStat, tkun soġġetta gћat-taxxa hemmhekk minћabba fid-domiċilju tagħha, ir-residenza, il-post tal-inkorporazzjoni, il-post ta-maniġġ jew kull kriterju ieћor ta’ xorta bћal dawk, u tinkludi wkoll dak l-iStat u kull sottodiviżjoni amministrattiva jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun soġġetta gћat-taxxa f’dak l-iStat gћar-rigward biss ta’ income minn gћejjun f’dak l-iStat.
 
 \2. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 ta’ dan l-Artikolu, individwu jkun residenti taż-żewg Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
 
@@ -189,9 +179,7 @@ kull persuna li, taћt il-liġijiet ta’ dak l-iStat, tkun soġġetta gћat-tax
 
 (a) art li tkun qegħda tinbena, proġett ta’ kostruzzjoni, assemblaġġ jew proġett ta’ stallazzjoni, jew attivitajiet ta’ sorveljanza, li jkollhom x’jaqsmu ma’ dan, iżda biss meta dik l-art, proġett jew attivitajiet ikomplu għaddejjin għal perjodu ta’ aktar minn sitt xhur;
 
-(b) l-għoti ta’ servizzi, inklużi servizzi ta’ konsulenza, minn impriża (IR-RENJU TAL-GĦARABJA SAWDITA) [L.S.123.138 5
-
-permezz ta’ impjegati jew persunal ieħor imqabbad mill-impriża għal dak il-għan, iżda biss meta attivitajiet ta’ dik in-natura ikomplu (għall-istess proġett jew wieħed li għandu x’jaqsam miegħu) fi Stat Kontraenti għal perjodu jew perjodi ta’ iżjed minn 6 xhur f’perjodu wieħed ta’ 12 il-xahar.
+(b) l-għoti ta’ servizzi, inklużi servizzi ta’ konsulenza, minn impriża permezz ta’ impjegati jew persunal ieħor imqabbad mill-impriża għal dak il-għan, iżda biss meta attivitajiet ta’ dik in-natura ikomplu (għall-istess proġett jew wieħed li għandu x’jaqsam miegħu) fi Stat Kontraenti għal perjodu jew perjodi ta’ iżjed minn 6 xhur f’perjodu wieħed ta’ 12 il-xahar.
 
 ## 4.
 
@@ -227,9 +215,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 **INCOME MINN PROPRJETÀ IMMOBBLI**
 
-\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà 6 [L.S.123.138 (IR-RENJU TAL-GĦARABJA SAWDITA)
-
-immobbli (inkluż income mill-agrikoltura jew minn ħidma fil-boskijiet) li tkun tinsab fl-iStat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-iStat Kontraenti l-ieћor.
+\1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew minn ħidma fil-boskijiet) li tkun tinsab fl-iStat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-iStat Kontraenti l-ieћor.
 
 \2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi tal-iStat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tkun tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, gћejjun u riżorsi oћra naturali. Bastimenti, dgħajjes u inġenji tal-ajru m’gћandhomx jitqiesu bћala proprjetà immobbli.
 
@@ -245,9 +231,7 @@ immobbli (inkluż income mill-agrikoltura jew minn ħidma fil-boskijiet) li tkun
 
 \2. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 3 ta’ dan l-Artikolu, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-iStat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun qiegћed hemmhekk, gћandhom f’kull Stat Kontraenti jiġu attribwiti lil dak l-istabbiliment permanenti l-profitti li kien ikun mistenni jagћmel kieku kien impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess jew simili kundizzjonijiet u li taћdem gћalkollox indipendentement mill-impriża li tagћha tkun stabbiliment permanenti.
 
-\3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis dawk l-ispejjeż li jsiru gћall-gћanijiet tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, sew fl-iStat li fih ikun jinsab l-istabbiliment permanenti sew band’oћra. Iżda, ebda tali tnaqqis ma jkun permess fir-rigward ta’ ammonti, jekk hemm, imħallsin (ħlief lejn rimbors ta’ spejjeż attwali) mill-istabbiliment permanenti għall-uffiċċju ewlieni tal-impriża jew kwalunkwe mill-uffiċċji l-oħra tagħha, permezz ta’ royalties, drittijiet jew ħlasijiet oħra simili bi tpattija għall-użu tal-privattivi jew drittijiet oħra, jew permezz ta’ kummissjoni, għal servizzi speċifiċi mwettqa jew għall-immaniġġjar, jew, ħlief fil-każ ta’ impriża bankarja, permezz ta’ dħul minn pretensjonijiet ta’ debitu fir-rigward ta’ flejjes mislufa lill-istabbiliment permanenti. Bl-istess mod, m’għandux jittieħed, fid-determinazzjoni tal-profitti ta’ stabbiliment permanenti, għall-ammonti imposti (ħlief lejn rimborż tal-ispejjeż attwali), mill-istabbiliment permanenti għall-uffiċċju ewlieni tal-impriża jew kwalunkwe mill-uffiċċji l-oħra tagħha, permezz ta’ royalties, drittijiet jew ħlasijiet oħra simili bi tpattija għall-użu tal-privattivi jew drittijiet oħra, jew permezz ta’ kummissjoni għal servizzi speċifiċi mwettqa jew għall-ġestjoni, jew, ħlief fil-każ ta’ impriża bankarja, permezz ta’ dħul minn pretensjonijiet ta’ debitu fir-rigward ta’ flejjes mislufa lill-uffiċċju ewlieni tal- (IR-RENJU TAL-GĦARABJA SAWDITA) [L.S.123.138 7
-
-impriża jew kwalunkwe mill-uffiċċji l-oħra tagħha.
+\3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis dawk l-ispejjeż li jsiru gћall-gћanijiet tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, sew fl-iStat li fih ikun jinsab l-istabbiliment permanenti sew band’oћra. Iżda, ebda tali tnaqqis ma jkun permess fir-rigward ta’ ammonti, jekk hemm, imħallsin (ħlief lejn rimbors ta’ spejjeż attwali) mill-istabbiliment permanenti għall-uffiċċju ewlieni tal-impriża jew kwalunkwe mill-uffiċċji l-oħra tagħha, permezz ta’ royalties, drittijiet jew ħlasijiet oħra simili bi tpattija għall-użu tal-privattivi jew drittijiet oħra, jew permezz ta’ kummissjoni, għal servizzi speċifiċi mwettqa jew għall-immaniġġjar, jew, ħlief fil-każ ta’ impriża bankarja, permezz ta’ dħul minn pretensjonijiet ta’ debitu fir-rigward ta’ flejjes mislufa lill-istabbiliment permanenti. Bl-istess mod, m’għandux jittieħed, fid-determinazzjoni tal-profitti ta’ stabbiliment permanenti, għall-ammonti imposti (ħlief lejn rimborż tal-ispejjeż attwali), mill-istabbiliment permanenti għall-uffiċċju ewlieni tal-impriża jew kwalunkwe mill-uffiċċji l-oħra tagħha, permezz ta’ royalties, drittijiet jew ħlasijiet oħra simili bi tpattija għall-użu tal-privattivi jew drittijiet oħra, jew permezz ta’ kummissjoni għal servizzi speċifiċi mwettqa jew għall-ġestjoni, jew, ħlief fil-każ ta’ impriża bankarja, permezz ta’ dħul minn pretensjonijiet ta’ debitu fir-rigward ta’ flejjes mislufa lill-uffiċċju ewlieni tal-impriża jew kwalunkwe mill-uffiċċji l-oħra tagħha.
 
 \4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li gћandhom jiġu attribwiti lil stabbiliment permanenti minћabba fi tqassim tal-profitti totali tal-impriża lill-partijiet diversi tagћha, ebda ћaġa fil-paragrafu 2 m’gћandha tipprekludi lil dak l-iStat Kontraenti milli jistabbilixxi l-profitti li gћandhom jiġu intaxxati b’dak it-tqassim hekk kif tista’ tkun il-konswetudni; il-metodu ta’ tqassim li jiġi adottat gћandu, madankollu, isir b’tali mod li r-riżultat ikun kif iridu l-prinċipji li jinsabu f’dan l-Artikolu.
 
@@ -287,9 +271,7 @@ Meta l-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegћdin jiġu tr
 
 \1. Meta
 
-(a) impriża ta’ Stat Kontraenti tipparteċipa direttament jew indirettament 8 [L.S.123.138 (IR-RENJU TAL-GĦARABJA SAWDITA)
-
-fit-tmexxija, kontroll jew kapital ta’ impriża tal-iStat Kontraenti l-ieћor, jew
+(a) impriża ta’ Stat Kontraenti tipparteċipa direttament jew indirettament fit-tmexxija, kontroll jew kapital ta’ impriża tal-iStat Kontraenti l-ieћor, jew
 
 (b) l-istess persuni jipparteċipaw direttament jew indirettament fit-tmexxija, kontroll jew kapital ta’ impriża ta’ Stat Kontraenti u impriża tal-iStat Kontraenti l-ieћor,
 
@@ -311,9 +293,7 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewg impriżi
 
 Dan il-paragrafu ma jaffettwax it-tassazzjoni tal-kumpannija fir-rigward tal-profitti li minnhom jitħallsu d-dividendi.
 
-\3. Il-frażi "dividendi" kif tintuża f’dan l-Artikolu tfisser income minn ishma, minn ishma ta’ "jouissance" jew drittijiet ta’ "jouissance", ishma fuq minjieri, ishma ta’ fundaturi jew drittijiet oћra, li ma jkunux pretensjonijiet ta’ debitu, li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess trattament fl-intaxxar bћallikieku kien income minn ishma kif hemm fil- (IR-RENJU TAL-GĦARABJA SAWDITA) [L.S.123.138 9
-
-liġijiet tal-iStat li tiegħu tkun residenti l-kumpannija li tkun qegћda tagћmel it-tqassim.
+\3. Il-frażi "dividendi" kif tintuża f’dan l-Artikolu tfisser income minn ishma, minn ishma ta’ "jouissance" jew drittijiet ta’ "jouissance", ishma fuq minjieri, ishma ta’ fundaturi jew drittijiet oћra, li ma jkunux pretensjonijiet ta’ debitu, li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess trattament fl-intaxxar bћallikieku kien income minn ishma kif hemm fil-liġijiet tal-iStat li tiegħu tkun residenti l-kumpannija li tkun qegћda tagћmel it-tqassim.
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ta’ dan l-Artikolu m’gћandhomx japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-iStat Kontraenti l-ieћor li tiegћu tkun residenti l-kumpannija li tћallas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jagћmel f’dak l-iStat l-ieћor servizzi personali indipendenti minn bażi stabbilita sitwata hemmhekk, u l-holding li dwarhom id-dividendi jkunu mћallsa jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14 ta’ dan il-Ftehim, kif ikun il-każ.
 
@@ -330,8 +310,6 @@ liġijiet tal-iStat li tiegħu tkun residenti l-kumpannija li tkun qegћda tagћ
 \3. Id-dispożizzjonijiet tal-paragrafu 1 ta’ dan l-Artikolu ma għandhomx japplikaw jekk is-sid benefiċjarju tal-income minn pretensjonijiet ta’ debitu, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-iStat Kontraenti l-ieħor li fih jinqala’ l-income minn pretensjonijiet ta’ debitu, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew jagħmel servizzi personali indipendenti f’dak l-iStat l-ieħor minn bażi stabbilita li tkun tinsab hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-income tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ, id-dispożizzjonijiet tal- Artikolu 7 jew tal-Artikolu 14 ta’ dan il-Ftehim, skont il-każ, għandhom japplikaw.
 
 \4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont tal-income minn pretensjonijiet ta’ debitu, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l- Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ħlasijiet għandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, meqjusa b’mod xieraq id-dispożizzjonijiet l-oħra ta’ dan il-Ftehim.
-
-10 [L.S.123.138 (IR-RENJU TAL-GĦARABJA SAWDITA)
 
 **Artikolu 12**
 
@@ -357,9 +335,7 @@ liġijiet tal-iStat li tiegħu tkun residenti l-kumpannija li tkun qegћda tagћ
 
 **QLIGĦ KAPITALI**
 
-\1. Qligħ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli imsemmi fl-Artikolu 6 ta’ dan il-Ftehim u li tkun tinsab fl-iStat (IR-RENJU TAL-GĦARABJA SAWDITA) [L.S.123.138 11
-
-Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-iStat l-ieћor.
+\1. Qligħ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli imsemmi fl-Artikolu 6 ta’ dan il-Ftehim u li tkun tinsab fl-iStat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-iStat l-ieћor.
 
 \2. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-iStat Kontraenti l-ieћor jew ta’ proprjetà mobbli li tkun tappartjeni gћal bażi stabbilita li tkun disponibbli gћal residenti ta’ Stat Kontraenti fl-iStat Kontraenti l-ieћor bil-gћan li jitwettqu servizzi personali indipendenti, inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien mal-impriża kollha) jew ta’ dik il-bażi stabbilita, jista’ jiġi intaxxat f’dak Istat l-ieћor.
 
@@ -387,9 +363,7 @@ Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-iStat l-ieћor.
 
 **SERVIZZI PERSONALI DIPENDENTI**
 
-\1. Bla ћsara gћad-dispożizzjonijiet tal-Artikoli 16, 18, 19, 20 u 21 ta’ dan il- Ftehim, salarji, pagi u kull kumpens ieћor bћal dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impjieg gћandhom jiġu intaxxati biss f’dak l-iStat Kontraenti 12 [L.S.123.138 (IR-RENJU TAL-GĦARABJA SAWDITA)
-
-kemm-il darba l-impjieg ma jiġix eżerċitat fl-iStat Kontraenti l-ieћor. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak iStat Kontraenti l-ieћor.
+\1. Bla ћsara gћad-dispożizzjonijiet tal-Artikoli 16, 18, 19, 20 u 21 ta’ dan il- Ftehim, salarji, pagi u kull kumpens ieћor bћal dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impjieg gћandhom jiġu intaxxati biss f’dak l-iStat Kontraenti kemm-il darba l-impjieg ma jiġix eżerċitat fl-iStat Kontraenti l-ieћor. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak iStat Kontraenti l-ieћor.
 
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1 ta’ dan l-Artikolu, il-kumpens li jinkiseb minn residenti ta’ Stat Kontraenti dwar xi impjieg li jkun eżerċitat fl-iStat Kontraenti l-ieћor gћandu jiġi intaxxat biss fl-iStat l-ewwel imsemmi jekk:
 
@@ -419,9 +393,7 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 **PENSJONIJIET**
 
-\1. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 2 tal-Artikolu 19 ta’ dan il- (IR-RENJU TAL-GĦARABJA SAWDITA) [L.S.123.138 13
-
-Ftehim, il-pensjonijiet u kumpens ieћor bћalhom imħallsa lil residenti ta’ Stat Kontraenti minћabba f’xi impjieg imgћoddi gћandhom jiġu intaxxati biss f’dak l-iStat Kontraenti.
+\1. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 2 tal-Artikolu 19 ta’ dan il- Ftehim, il-pensjonijiet u kumpens ieћor bћalhom imħallsa lil residenti ta’ Stat Kontraenti minћabba f’xi impjieg imgћoddi gћandhom jiġu intaxxati biss f’dak l-iStat Kontraenti.
 
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1 ta’ dan l-Artikolu, il-pensjonijiet imħallsa u ħlasijiet oħra magħmula taħt skema pubblika li huwa parti mis-sistema tas-sigurtà soċjali ta’ Stat Kontraenti jew sottodiviżjoni amministrattiva jew awtorità lokali tiegħu għandha tkun taxxabbli biss f’dak l-iStat Kontraenti.
 
@@ -449,7 +421,7 @@ Ftehim, il-pensjonijiet u kumpens ieћor bћalhom imħallsa lil residenti ta’ 
 
 \1. Ħlasijiet li student, apprendist jew apprendist fil-kummerċ li jkun jew kien minnufih qabel ma jżur Stat Kontraenti residenti tal-iStat Kontraenti l-ieћor u li jkun preżenti fl-iStat Kontraenti l-ewwel imsemmi unikament gћall-finijiet tal-edukazzjoni jew tat-taћriġ tiegћu jirċievi gћall-finijiet tal-manteniment, l-edukazzjoni jew it-taħrig tiegћu m’gћandhomx jiġu intaxxati f’dak l-iStat, sakemm dawk il-ћlasijiet ikunu joriġinaw minn gћejjun minn barra dak l-iStat.
 
-\2. Rimunerazzjoni li student, apprendist jew apprendist fil-kummerċ li huwa jew kien residenti ta’ Stat Kontraenti jikseb minn xi impjieg li huwa jeżerċita fl-iStat Kontraenti l-ieħor għal perjodu jew perjodi li ma jeċċedux fit-total 183 ġurnata fis-sena fiskali kkonċernata, m’għandhomx jiġu intaxxati f’dak l-iStat Kontraenti l-ieħor jekk l-impjieg huwa direttament relatat mal-istudju jew apprendistat tiegħu. 14 [L.S.123.138 (IR-RENJU TAL-GĦARABJA SAWDITA)
+\2. Rimunerazzjoni li student, apprendist jew apprendist fil-kummerċ li huwa jew kien residenti ta’ Stat Kontraenti jikseb minn xi impjieg li huwa jeżerċita fl-iStat Kontraenti l-ieħor għal perjodu jew perjodi li ma jeċċedux fit-total 183 ġurnata fis-sena fiskali kkonċernata, m’għandhomx jiġu intaxxati f’dak l-iStat Kontraenti l-ieħor jekk l-impjieg huwa direttament relatat mal-istudju jew apprendistat tiegħu.
 
 **Artikolu 21**
 
@@ -481,9 +453,7 @@ Dan il-kreditu ma għandux, madanakollu, ikun iżjed minn dik il-parti tat-taxxa
 
 \1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wieħed jew taż-żewġ Stati Kontraenti jirriżultawlu jew jistgћu jirriżultawlu f’intaxxar li ma jkunx kif hemm fid-dispożizzjonijiet ta’ dan il-Ftehim, huwa jista’, irrispettivament mir-rimedji provduti mil-liġi domestika ta’ dawk l-iStati, jippreżenta l-każ tiegћu quddiem l-awtorità kompetenti tal-iStat Kontraenti fejn huwa jkun residenti. Il-każ għandu jigi ppreżentat fi żmien tliet snin mill-ewwel notifika tal-azzjoni li tirriżulta f’intaxxar li ma jkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim.
 
-\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidher li hi (IR-RENJU TAL-GĦARABJA SAWDITA) [L.S.123.138 15
-
-waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-iStat Kontraenti l-ieћor, bil-gћan li tiġi evitata tassazzjoni li ma jkunx skont kif hemm fil- Ftehim. Kull ftehim milħuq għandu jiġi implimentat minkejja kull terminu ta’ żmien fil-liġi domestika tal-iStati Kontraenti.
+\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidher li hi waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-iStat Kontraenti l-ieћor, bil-gћan li tiġi evitata tassazzjoni li ma jkunx skont kif hemm fil- Ftehim. Kull ftehim milħuq għandu jiġi implimentat minkejja kull terminu ta’ żmien fil-liġi domestika tal-iStati Kontraenti.
 
 \3. L-awtoritajiet kompetenti tal-iStati Kontraenti gћandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jista’ jirriżulta dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgћu wkoll jikkonsultaw flimkien dwar l-eliminazzjoni ta’ taxxa doppja f’dawk il-każijiet li m’hemm xejn provdut dwarhom fil-Ftehim.
 
@@ -505,9 +475,7 @@ waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni 
 
 (b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l-iStat Kontraenti jew tal-iStat Kontraenti l-ieћor;
 
-(ċ) li jagћti informazzjoni li tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess ta’ kummerċ, jew informazzjoni, li meta tiġi żvelata din tkun tmur kontra l-ordni pubbliku (ordre public). 4. Jekk tintalab informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l-iStat Kontraenti l-ieħor għandu juża l-mezzi ta’ ġbir ta’ informazzjoni li jkollu biex jikseb l-informazzjoni mitluba, ukoll jekk dak l-iStat l-ieħor jista’ ma jkunx jeħtieġ dik l-informazzjoni għall-finijiet tat-taxxa tiegħu. L-obbligu msemmi fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 ta’ dan l-Artikolu iżda 16 [L.S.123.138 (IR-RENJU TAL-GĦARABJA SAWDITA)
-
-f’ebda każ m’għandhom dawk il-limitazzjonijiet jiftiehmu li jippermettu lil Stat Kontraenti li jirrifjuta li jipprovdi xi informazzjoni unikament għax ma jkollu ebda interess domestiku f’dik l-informazzjoni.
+(ċ) li jagћti informazzjoni li tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess ta’ kummerċ, jew informazzjoni, li meta tiġi żvelata din tkun tmur kontra l-ordni pubbliku (ordre public). 4. Jekk tintalab informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l-iStat Kontraenti l-ieħor għandu juża l-mezzi ta’ ġbir ta’ informazzjoni li jkollu biex jikseb l-informazzjoni mitluba, ukoll jekk dak l-iStat l-ieħor jista’ ma jkunx jeħtieġ dik l-informazzjoni għall-finijiet tat-taxxa tiegħu. L-obbligu msemmi fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 ta’ dan l-Artikolu iżda f’ebda każ m’għandhom dawk il-limitazzjonijiet jiftiehmu li jippermettu lil Stat Kontraenti li jirrifjuta li jipprovdi xi informazzjoni unikament għax ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
 \5. F’ebda każ m’għandhom id-dispożizzjonijiet tal-paragrafu 3 ta’ dan l- Artikolu jiftiehmu li jippermettu lil Stat Kontraenti li jirrifjuta li jipprovdi xi informazzjoni unikament għax dik l-informazzjoni tkun qegħda tinżamm minn xi bank, istituzzjoni finanzjarja oħra, nominee jew persuna oħra li taġixxi f’kapaċità ta’ aġenzija jew fiduċjarja jew għax ikollha x’taqsam ma’ interessi fi proprjetà f’xi persuna.
 
@@ -547,8 +515,6 @@ Ebda ħaġa f ’dan il-Ftehim ma għandu jaffettwa l-applikazzjoni tad-dispożi
 
 B’XIEHDA TA’ DAN is-sottoskritti, awtorizzati kif imiss biex jagћmlu dan mill- Gvernijiet rispettivi tagħhom, iffirmaw dan il-Ftehim.
 
-(IR-RENJU TAL-GĦARABJA SAWDITA) [L.S.123.138 17
-
 MAGĦMUL f’żewġ oriġinali f’Riyadh, fl-4 ta’ Jannar, 2012 li tikkorrispondi għall-10 jum ta’ Safar 1433, fl-ilsien Ingliż u fl-ilsien Għarbi, kull wieћed miż-żewġ testi awtentiċi ndaqs.
 
 Gћall-Gvern ta’ Malta Gћall-Gvern tar-Renju tal-Għarabja Sawdita
@@ -579,9 +545,7 @@ Filwaqt tal-iffirmar tal-Ftehim bejn il-Gvern ta’ Malta u l-Gvern tar-Renju ta
 
 (a) Id-dispożizzjonijiet tal-paragrafu 2(b) tal-Artikolu 10 għandhom jibqgħu japplikaw f’Malta sakemm Malta tibqa’ topera s-sistema ta’ imputazzjoni sħiħa ta’ tassazzjoni fuq il-profitti ta’ kumpannija u tad-distribuzzjoni sussegwenti ta’ dawn il-profitti lill-azzjonisti tal-kumpannija. Jekk din is-sistema preżenti tinbidel, l-iStati Kontraenti għandhom jikkonsultaw ma’ xulxin sabiex jikkunsidraw jekk xi tibdil fis-sistema ta’ tassazzjoni f’Malta tkun teħtieġ xi reviżjoni tad-dispożizzjonijiet tal-Artikolu 10.
 
-(b) Minkejja kull dispożizzjoni ta’ dan il-Ftehim, profitti ta’ kumpannija ta’ Stat Kontraenti li tmexxi negozju fl-iStat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jinsab hemmhekk jistgħu, wara li jkunu ġew intaxxati taħt l-Artikolu 7, jiġu intaxxati fuq l-ammont li jibqa’ fl-iStat Kontraenti fejn hemm l-istabbiliment permanenti u t-taxxa hekk 18 [L.S.123.138 (IR-RENJU TAL-GĦARABJA SAWDITA)
-
-imposta ma għandhiex tkun iżjed minn 5 fil-mija.
+(b) Minkejja kull dispożizzjoni ta’ dan il-Ftehim, profitti ta’ kumpannija ta’ Stat Kontraenti li tmexxi negozju fl-iStat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jinsab hemmhekk jistgħu, wara li jkunu ġew intaxxati taħt l-Artikolu 7, jiġu intaxxati fuq l-ammont li jibqa’ fl-iStat Kontraenti fejn hemm l-istabbiliment permanenti u t-taxxa hekk imposta ma għandhiex tkun iżjed minn 5 fil-mija.
 
 \4. B’riferenza għall-Artikolu 25 (Skambju ta’ Informazzjoni) huwa mifhum li informazzjoni riċevuta skont l-istess Artikolu għandha tiġi użata biss għal finijiet ta’ taxxi koperti minn dan il-Ftehim.
 

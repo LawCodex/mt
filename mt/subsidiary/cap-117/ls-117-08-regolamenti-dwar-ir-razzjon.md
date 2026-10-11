@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar ir-Razzjon"
-identifier: "S.L. 117.8"
+identifier: "S.L. 117.08"
 eli: "https://legislation.mt/eli/sl/117.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/117.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar ir-Razzjon (S.L. 117.8)
+# Regolamenti dwar ir-Razzjon (S.L. 117.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 117.08**
 

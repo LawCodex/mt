@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ħabs"
-identifier: "S.L. 260.3"
+identifier: "S.L. 260.03"
 eli: "https://legislation.mt/eli/sl/260.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/260.3/20260407/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ħabs (S.L. 260.3)
+# Regolamenti dwar il-Ħabs (S.L. 260.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 260.03**
 
@@ -260,41 +260,33 @@ Iżda meta lock-up tal-pulizija jkun ġie dikjarat li jkun ħabs, dawn ir-regola
 
 (1) Kull priġunier għandu jiġi provdut, malajr kemm jista’ jkun wara d-dħul tiegħu fil-ħabs b’informazzjoni, stampata jew f’xi għamla adatta oħra, dwar dawk id-disposizzjonijiet ta’ dawn ir-regolamenti u ħwejjeġ oħra li jkun hemm bżonn li huwa jkun jaf sabiex jifhem id-drittijiet u l-obbligi tiegħu u sabiex jadatta ruħu għall-ħajja tal-istituzzjoni, inklużi b’mod partikolari l-ħtiġiet ta’ dixxiplina u l-orarju tal-ħabs.
 
-(2) Priġunieri li jkunu ta’ nazzjonalità barranija u li għalihom jista’ japplika trattat jew arranġament bejn Malta u l-pajjiż tagħhom dwar it-trasferiment ta’ persuni kkundannati għandhom, malajr kemm jista’ jkun wara li jkunu nstabu ħatja, jiġu provduti bl-informazzjoni meħtieġa dwar is-sustanza ta’ dak it-trattat jew
+(2) Priġunieri li jkunu ta’ nazzjonalità barranija u li għalihom jista’ japplika trattat jew arranġament bejn Malta u l-pajjiż tagħhom dwar it-trasferiment ta’ persuni kkundannati għandhom, malajr kemm jista’ jkun wara li jkunu nstabu ħatja, jiġu provduti bl-informazzjoni meħtieġa dwar is-sustanza ta’ dak it-trattat jew arranġament.
 
-arranġament.  
-\17. (1) Kull talba minn priġunier biex jara lid-Direttur, lill-  Talbiet, ilmenti u  
-petizzjonijiet.  
-Bord jew membru tiegħu, u kull ilment magħmul minn priġunier,  
-Emendat:  
-għandhom jiġu rreġistrati mill-uffiċjal tal-ħabs li lilu jkunu saru u  A.L. 15 tal-2016.  
-għandhom fil-pront jiġu mgħoddija lid-Direttur.  
-(2) Id-Direttur għandu, mingħajr dewmien żejjed, jara lill-  
-priġunier li jkun talbu biex jarah u għandu jieħu konjizzjoni ta’ kull  
-talba jew ilment li jsirulu.  
-(3) Meta priġunier ikun talab biex jara l-Bord, jew membru  
-tal-Bord, id-Direttur għandu jiżgura li s-Segretarju tal-Bord ikun  
-mgħarraf bit-talba fi żmien raġonevoli.  
-(4) Uffiċjali tal-ħabs li jkunu f’kuntatt dirett mal-priġunieri  
-għandhom, fuq it-talba tal-priġunieri, jipprovduhom b’formula  
-xierqa approvata mid-Direttur għall-għemil ta’ talbiet, ilmenti jew  
-petizzjonijiet. Il-priġunieri jistgħu, madankollu, jissottomettu kull  
-talba, ilment jew petizzjoni f’kull għamla oħra xierqa bil-miktub u  
-anke verbalment.  
-\18. (1) Jekk priġunier hekk jitlob, id-Direttur  jista’  Konfidenzjalità.  
-Emendat:  
-jintervistah mingħajr ma tkun preżenti xi persuna oħra.  
-A.L. 15 tal-2016.  
-(2) Jekk priġunier jitlob biex jkollu intervista mal-Bord, is-  
-Segretarju u kull żewġ membri oħra jistgħu jintervistawh, mingħajr  
-ma jkunu preżenti d-Direttur jew xi persuna oħra.  
-(3) Kull priġunier għandu jitħalla jagħmel talba jew ilment lid-  
-Direttur, lill-Bord jew lill-Ministru, jew li jagħmel petizzjoni lill-  
-President ta’ Malta, jew lil korp tad-drittijiet tal-bniedem  
-rikonoxxut internazzjonalment, b’mod konfidenzjali.  
-(4) Kull talba, ilment jew petizzjoni ta’ priġunier għandhom  
-jiġu ttrattati u mwieġba mingħajr dewmien żejjed.  
-Kondizzjonijiet fiżiċi u xogħol
+### 17. Talbiet, ilmenti u petizzjonijiet.
+
+*Emendat: A.L. 15 tal-2016.*
+
+(1) Kull talba minn priġunier biex jara lid-Direttur, lill- Bord jew membru tiegħu, u kull ilment magħmul minn priġunier, għandhom jiġu rreġistrati mill-uffiċjal tal-ħabs li lilu jkunu saru u għandhom fil-pront jiġu mgħoddija lid-Direttur.
+
+(2) Id-Direttur għandu, mingħajr dewmien żejjed, jara lill-priġunier li jkun talbu biex jarah u għandu jieħu konjizzjoni ta’ kull talba jew ilment li jsirulu.
+
+(3) Meta priġunier ikun talab biex jara l-Bord, jew membru tal-Bord, id-Direttur għandu jiżgura li s-Segretarju tal-Bord ikun mgħarraf bit-talba fi żmien raġonevoli.
+
+(4) Uffiċjali tal-ħabs li jkunu f’kuntatt dirett mal-priġunieri għandhom, fuq it-talba tal-priġunieri, jipprovduhom b’formula xierqa approvata mid-Direttur għall-għemil ta’ talbiet, ilmenti jew petizzjonijiet. Il-priġunieri jistgħu, madankollu, jissottomettu kull talba, ilment jew petizzjoni f’kull għamla oħra xierqa bil-miktub u anke verbalment.
+
+### 18. Konfidenzjalità.
+
+*Emendat: A.L. 15 tal-2016.*
+
+(1) Jekk priġunier hekk jitlob, id-Direttur jista’ jintervistah mingħajr ma tkun preżenti xi persuna oħra.
+
+(2) Jekk priġunier jitlob biex jkollu intervista mal-Bord, is- Segretarju u kull żewġ membri oħra jistgħu jintervistawh, mingħajr ma jkunu preżenti d-Direttur jew xi persuna oħra.
+
+(3) Kull priġunier għandu jitħalla jagħmel talba jew ilment lid- Direttur, lill-Bord jew lill-Ministru, jew li jagħmel petizzjoni lill- President ta’ Malta, jew lil korp tad-drittijiet tal-bniedem rikonoxxut internazzjonalment, b’mod konfidenzjali.
+
+(4) Kull talba, ilment jew petizzjoni ta’ priġunier għandhom jiġu ttrattati u mwieġba mingħajr dewmien żejjed.
+
+**Kondizzjonijiet fiżiċi u xogħol**
 
 ### 19. Akkomodazzjoni għall-priġunieri.
 

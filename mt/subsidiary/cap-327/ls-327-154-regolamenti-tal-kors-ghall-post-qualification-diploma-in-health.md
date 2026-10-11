@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Post Qualification Diploma in Health Science - PQ Dip. H.Sc. - u għall-Grad ta’ Master of Health Science - M.Sc. (Health) (S.L. 327.154)
 
-KORS G}ALL-POST QUALIFICATION DIPLOMA IN
-
-HEALTH SCIENCE - PQ DIP.H.SC. - U G}ALL-GRAD TA’
-
-*1*
-
-MASTER OF HEALTH SCIENCE - M.SC. (HEALTH) [L.S.327.154
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.154**
 
 **REGOLAMENTI TAL-KORS G}ALL-POST**

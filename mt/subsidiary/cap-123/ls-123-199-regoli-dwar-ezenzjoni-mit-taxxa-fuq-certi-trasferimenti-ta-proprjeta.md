@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Eżenzjoni mit-Taxxa fuq Ċerti Trasferimenti ta’ Proprjetà (S.L. 123.199)
 
-*1*
-
-ĊERTI TRASFERIMENTI TA’ PROPRJETÀ [L.S.123.199 LEĠISLAZZJONI SUSSIDJARJA 123.199
+**LEĠISLAZZJONI SUSSIDJARJA 123.199**
 
 **REGOLI DWAR EŻENZJONI MIT-TAXXA FUQ**
 
@@ -60,13 +58,9 @@ Għall-fini ta’ dawn ir-regoli, f’każ ta’ trasferiment li japplikaw għal
 
 Iżda f’każ ta’ trasferiment ta’ sehem indiviż minn proprjetà, ir-rata’ ta’ ħamsa fil-mija (5%) għandha tapplika biss għal dik il-porzjoni ta’ erba’ mitt elf euro (€400,000) li tikkorrispondi pro rata għas-sehem li jiġi trasferit.
 
-*2 Arranġamenti strutturati. Emendat: A.L. 77 tal-2023.*
+*Arranġamenti strutturati. Emendat: A.L. 77 tal-2023.*
 
-[L.S. 123.199 ĊERTI TRASFERIMENTI TA’ PROPRJETÀ
-
-## 6.
-
-(1) Meta l-Kummissarju jkun tal-opinjoni li żewġ trasferimenti jew aktar ikunu jiffurmaw parti minn arranġament strutturat, huwa jista’ jordna, fi żmien ħames (5) snin mid-data tal-aħħar wieħed minn dawk it-trasferimenti, li l-eżenzjoni mogħtija taħt dawn ir-regoli ma għandha tapplika għal ebda wieħed minn dawk it-trasferimenti u f’każ bħal dak it-taxxa għandha titħallas fuq kull wieħed minn dawk it-trasferimenti skont id-dispożizzjonijiet tal-artikolu 5A tal-Att mingħajr referenza għal dawn ir-regoli.
+trasferimenti jew aktar ikunu jiffurmaw parti minn arranġament strutturat, huwa jista’ jordna, fi żmien ħames (5) snin mid-data tal-aħħar wieħed minn dawk it-trasferimenti, li l-eżenzjoni mogħtija taħt dawn ir-regoli ma għandha tapplika għal ebda wieħed minn dawk it-trasferimenti u f’każ bħal dak it-taxxa għandha titħallas fuq kull wieħed minn dawk it-trasferimenti skont id-dispożizzjonijiet tal-artikolu 5A tal-Att mingħajr referenza għal dawn ir-regoli.
 
 (2) It-taxxa li għandha titħallas kif provdut fis-subregola (1), wara li titnaqqas kull taxxa li tkun diġà tħallset fuq it-trasferimenti in kwistjoni, għandha tkun pagabbli mhux aktar tard mill-aħħar jum tax-xahar li jiġi wara dak li fih ikun ingħata avviż tal-imsemmi ordni lil min ikun għamel it-trasferimenti.
 
@@ -90,6 +84,4 @@ Iżda f’każ ta’ trasferiment ta’ sehem indiviż minn proprjetà, ir-rata�
 
 (b) trasferimenti magħmula minn żewġ persuni għandhom jitqiesu li jkumu trasferimenti magħmula mill-istess persuna jekk waħda minnhom tkun akkwistat il-proprjetà li hija tittrasferixxi mingħand l-oħra fid-9 ta’ Ġunju 2020 jew wara permezz ta’ trasferiment li jkun ikkwalifika għal eżenzjoni jew benefiċċju fiskali skont xi dispożizzjoni tal-Att jew kwalunkwe liġi oħra;
 
-(ċ) trasferimenti magħmula lil kumpanniji jew korpi ĊERTI TRASFERIMENTI TA’ PROPRJETÀ [L.S.123.199 oħra ta’ persuni li jkunu direttament jew indirettament sa iktar minn ħamsin fil-mija (50%) ikkontrollati minn u proprjetà benefika tal-istess persuni għandhom jitqiesu li jkunu trasferimenti lill-istess persuna.
-
-*3*
+(ċ) trasferimenti magħmula lil kumpanniji jew korpi oħra ta’ persuni li jkunu direttament jew indirettament sa iktar minn ħamsin fil-mija (50%) ikkontrollati minn u proprjetà benefika tal-istess persuni għandhom jitqiesu li jkunu trasferimenti lill-istess persuna.

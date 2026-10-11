@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Statut 11 - Statut dwar il-Ħarsien tal-Kwalità u l-Awditjar Akkademiku (S.L. 327.87)
 
-STATUT 11 - }ARSIEN TAL-KWALITÀ
-
-*1*
-
-U L-AWDITJAR AKKADEMIKU [L.S.327.87
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.87**
 
 STATUT 11 - STATUT DWAR IL-}ARSIEN TAL-

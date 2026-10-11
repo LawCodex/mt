@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Merchant Shipping (Ship Inspection and Survey Organisations) Regulations (S.L. 234.37)
 
-MERCHANT SHIPPING (SHIP INSPECTION
-
-*1*
-
-AND SURVEY ORGANISATIONS) [L.S.234.37
-
 **LE{ISLAZZJONI SUSSIDJARJA 234.37**
 
 MERCHANT SHIPPING (SHIP INSPECTION AND

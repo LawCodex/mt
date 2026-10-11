@@ -15,15 +15,7 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, Ekonomija u Investiment għall-Ħuġ ta’ €100,000,000 (S.L. 161.81)
 
-G}ALL-}RU{ TA’ €100,000,000 (I) 3.6% STOCK TAL-GVERN TA’ MALTA 2013
-
-(IR-RABA’ }RU{); JEW 5.2% STOCK TAL-GVERN TA’ MALTA (2020) (L-
-
-EWWEL }RU{); JEW (III) F’AMMONTI MI|-|EW{ STOCKS B’VALUR NOMI-
-
-*1*
-
-NALI FLIMKIEN TA’ €100,000,000 [L.S 161.81 LE{ISLAZZJONI SUSSIDJARJA 161.81
+**LE{ISLAZZJONI SUSSIDJARJA 161.81**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**
 
@@ -68,10 +60,6 @@ Kull persuna u, jew enti jistg]u japplikaw g]al dawn l-iStocks. It-tqassim ta’
 ## 5. Somma ta’ flus li g]andha tin[abar.
 
 Is-somma ta’ flus li g]andha tin[abar bl-iStocks imsemmija flimkien tkun ta’ Ewro 100,000,000. L-Accountant General jirriserva d-dritt li j\\id is-somma li g]andha tin[abar b’massimu ta’ Ewro 20,000,000.
-
-G}ALL-}RU{ TA’ €100,000,000 (I) 3.6% STOCK TAL-GVERN TA’ MALTA 2013 (IR-RABA’ }RU{); JEW 5.2% STOCK TAL-GVERN TA’ MALTA (2020) (L- EWWEL }RU{); JEW (III) F’AMMONTI MI|-|EW{ STOCKS B’VALUR NOMI- NALI FLIMKIEN TA’ €100,000,000
-
-*2 [L.S 161.81*
 
 *\6.*
 

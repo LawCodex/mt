@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Drittijiet tal-Piżaturi tad-Dwana"
-identifier: "S.L. 35.9"
+identifier: "S.L. 35.09"
 eli: "https://legislation.mt/eli/sl/35.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/35.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Drittijiet tal-Piżaturi tad-Dwana (S.L. 35.9)
+# Regolamenti dwar id-Drittijiet tal-Piżaturi tad-Dwana (S.L. 35.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 35.09**
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti dwar għaċ-Certificate in Youth Ministry taħt il-patroċinju tal-Fakultà tat-Teoloġija - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.297)
 
-CERTIFICATE IN YOUTH MINISTRY
-
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.297
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.297**
 
 ORDINAMENTI GĦAS-CERTIFICATE IN YOUTH MINISTRY TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Statut għall-Istitut Edward de Bono għat-Tfassil u l-Iżvilupp tal-Ħsieb (S.L. 327.364)
 
-*1*
-
-ĦSIEB KREATTIV U L-INNOVAZZJONI [L.S.327.364
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.364**
 
 **STATUT GĦALL-ISTITUT EDWARD DE BONO**
@@ -112,11 +108,11 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (viii) jipproponi għall-approvazzjoni tas-Senat, Bordijiet ta’ Studju u ta’ Eżaminaturi għall-korsijiet li jwasslu għal grad jew diploma.
 
-*3*
+*\6.*
 
-ĦSIEB KREATTIV U L-INNOVAZZJONI [L.S.327.364 L-Istitut jkollu Direttur u Staff:
+*Emendat: A.L. 137 tal-2012.*
 
-*\6. Emendat: A.L. 137 tal-2012.*
+L-Istitut jkollu Direttur u Staff:
 
 (a) id-Direttur tal-Istitut jinħatar skont il-proċedura għall-ħatra tad-Diretturi tal-Istituti u ¬entri kif approvata mill-Kunsill tal-Università, għal perijodu ta’ sena, bil-possibilità li l-ħatra tiġġedded kull sena skont kriterji stabiliti ta’ ħiliet, il-ħtiġiet tal-Istitut u tal-Università, għal perijodu li ma jeċċedix l-erba’ (4) snin; u
 
@@ -176,11 +172,7 @@ Minbarra dan, id-Direttur:
 
 (a) għandu jirrapporta direttament liċ-Chairman tal-Bord tal-Istitut u għandu jikkollabora mal-uffiċjali amministrattivi anzjani kollha tal-Università;
 
-(b) għandu jkun normalment Akkademiku Residenti impjegat mal-Università fuq bażi full-time matul iż- ĦSIEB KREATTIV U L-INNOVAZZJONI [L.S.327.364
-
-żmien li jokkupa l-ħatra ta’ Direttur. F’każ li l-Istitut hu impenjat bi programmi ta’ studju mgħallma u li jwasslu għar-rikonoxximent sal-ewwel grad jew wara l-ewwel grad, id-Direttur għandu jkun impjegat mal- Università bħala Akkademiku Residenti fuq bażi full-time;
-
-*5*
+(b) għandu jkun normalment Akkademiku Residenti impjegat mal-Università fuq bażi full-time matul iż-żmien li jokkupa l-ħatra ta’ Direttur. F’każ li l-Istitut hu impenjat bi programmi ta’ studju mgħallma u li jwasslu għar-rikonoxximent sal-ewwel grad jew wara l-ewwel grad, id-Direttur għandu jkun impjegat mal- Università bħala Akkademiku Residenti fuq bażi full-time;
 
 (ċ) m’għandux jimpenja ruħu fi kwalunkwe attività barra mill-Università li tista’ tkun f’konflitt, jew ittellfu, mid-dmirijiet tiegħu fl-Università;
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti għall-Projbizzjoni ta' l-Importazzjoni ta' Fienu, Tiben u Żerriegħa tal-Qoton"
-identifier: "S.L. 36.6"
+identifier: "S.L. 36.06"
 eli: "https://legislation.mt/eli/sl/36.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/36.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti għall-Projbizzjoni ta' l-Importazzjoni ta' Fienu, Tiben u Żerriegħa tal-Qoton (S.L. 36.6)
-
-PROJBIZZJONI TA’ L-IMPORTAZZJONI TA’ FIENU,
-
-TIBEN U |ERRIEG}A TAL-QOTON [ L.S.36.06
+# Regolamenti għall-Projbizzjoni ta' l-Importazzjoni ta' Fienu, Tiben u Żerriegħa tal-Qoton (S.L. 36.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 36.06**
 

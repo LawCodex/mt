@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master Science in Cognitive Science - M.Sc. - taħt il-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien (S.L. 327.534)
 
-SCIENCE - M.Sc. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.534
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.534**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -79,11 +73,7 @@ L-applikanti jiġu magħżula skont il-kriterji li ġejjin, li l-piż tagħhom i
 
 ## 6. Kwalifiki.
 
-Għall-għan tal-għażla, l-applikanti li l-kwalifiki tagħhom kif stipulat fl-ordinament 3 kienu miksuba sal-31 ta’ Awwissu SCIENCE - M.Sc. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ [L.S.327.534 TAL-MIDJA U X-XJENZI TAL-GĦARFIEN
-
-qabel il-bidu tal-kors jiġu kkunsidrati l-ewwel.
-
-*2*
+Għall-għan tal-għażla, l-applikanti li l-kwalifiki tagħhom kif stipulat fl-ordinament 3 kienu miksuba sal-31 ta’ Awwissu qabel il-bidu tal-kors jiġu kkunsidrati l-ewwel.
 
 ## 7. Bord tal-intervisti.
 
@@ -125,11 +115,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time.
 
 (1) L-istudenti jkunu meħtieġa jżommu kuntatt regolari mas-superviżur tagħhom.
 
-(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar SCIENCE - M.Sc. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.534 il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju, kemm jekk l-istudent qiegħed isegwi l-kors fuq bażi full-time jew fuq bażi part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
+(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju, kemm jekk l-istudent qiegħed isegwi l-kors fuq bażi full-time jew fuq bażi part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 

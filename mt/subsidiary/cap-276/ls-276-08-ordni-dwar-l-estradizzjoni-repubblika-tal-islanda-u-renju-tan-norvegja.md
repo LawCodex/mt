@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estradizzjoni (Repubblika tal-Islanda u Renju tan-Norveġja)"
-identifier: "S.L. 276.8"
+identifier: "S.L. 276.08"
 eli: "https://legislation.mt/eli/sl/276.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/276.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estradizzjoni (Repubblika tal-Islanda u Renju tan-Norveġja) (S.L. 276.8)
-
-*1*
-
-U RENJU TAN-NORVEĠJA) [L.S.276.08
+# Ordni dwar l-Estradizzjoni (Repubblika tal-Islanda u Renju tan-Norveġja) (S.L. 276.08)
 
 **LEĠISLAZZJONI SUSSIDJARJA 276.08**
 
@@ -70,13 +66,9 @@ F’dan l-Ordni, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’oħra
 
 "Sistema ta’ Informazzjoni ta’ Schengen" għandha l-istess tifsir mogħti lilha fil-Kodiċi Kriminali;
 
-"is-smigħ dwar l-estradizzjoni" tfisser is-smigħ li matulu l-qorti [L.S.276.08 U RENJU TAN-NORVEĠJA)
+"is-smigħ dwar l-estradizzjoni" tfisser is-smigħ li matulu l-qorti għandha tiddeċiedi jekk persuna li dwarha jkun inħareġ mandat bħal dak imsemmi fl-artikolu 5(2) għandhiex titreġġa’ lura lejn il-pajjiz skedat fejn ikun inħareġ il-mandat;
 
 \*għadu mhux fis-seħħ.
-
-għandha tiddeċiedi jekk persuna li dwarha jkun inħareġ mandat bħal dak imsemmi fl-artikolu 5(2) għandhiex titreġġa’ lura lejn il-pajjiz skedat fejn ikun inħareġ il-mandat;
-
-*2*
 
 *Kap. 460.*
 
@@ -114,10 +106,6 @@ mid-data rilevanti, jibqgħu japplikaw għal ebda pajjiż bħal dak
 dwar talbiet għat-treġġigħ lura ta’ persuni kriminali maħrubin,  
 minn jew lejn pajjiż skedat li Malta tirċievi jew tagħmel wara d-  
 data rilevanti.
-
-*3*
-
-U RENJU TAN-NORVEĠJA) [L.S.276.08
 
 ## TAQSIMA II — Estradizzjoni lejn pajjiżi skedati
 
@@ -159,11 +147,7 @@ Iżda dan il-paragrafu għandu jitqies li ġie mħares minkejja l-fatt li setgħ
 
 (a) daqstant kemm japplika, il-partikolaritajiet imsemmija fl-artikolu 13(2)(b)(i) u (ii) ta’ l-Att rilevanti:
 
-Iżda dan il-paragrafu għandu jitqies li ġie mħares [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-minkejja l-fatt li setgħet ma tkunx ġiet mogħtija kopja tal-liġijiet relattivi jew ta’ dikjarazzjoni tal-liġi rilevanti;
-
-*4*
+Iżda dan il-paragrafu għandu jitqies li ġie mħares minkejja l-fatt li setgħet ma tkunx ġiet mogħtija kopja tal-liġijiet relattivi jew ta’ dikjarazzjoni tal-liġi rilevanti;
 
 (b) il-partikolaritajiet dwar is-sejbien ta’ ħtija;
 
@@ -201,10 +185,6 @@ Mandat taħt it-Taqsima II jitqies bħala talba biex persuna kriminali maħruba 
 
 (a) fl-artikolu 7 minflok il-kliem "li toħroġ mandati ta’ arrest" għandhom jidħlu l-kliem "li titlob il-ħruġ ta’ allerti";
 
-*5*
-
-U RENJU TAN-NORVEĠJA) [L.S.276.08
-
 (b) fl-artikoli 7 u 13A, minflok il-kliem "awtorità li tkun ħarġet mandat taħt it-Taqsima II" għandhom jidħlu l-kliem "awtorità li l-allert ikun inħareġ fuq it-talba tagħha";
 
 (ċ) fl-artikoli 28A(3)(b) u 73D(1) u (2) minflok il-kliem "awtorità li tkun ħarġet il-mandat taħt it-Taqsima II" għandhom jidħlu l-kliem "awtorità li l-allert tkun inħarġet fuq it-talba tagħha", fl-artikoli 34(4)(b) u 35(3)(b) minflok il-kliem "l-awtorità ġudizzjarja li tkun ħarġet il-mandat taħt it-Taqsima II" għandhom jidħlu l-kliem "l-awtorità ġudizzjarja li l-allert tkun inħarġet fuq it-talba tagħha", fl-artikolu 45(3)(b) minflok il-kliem "u l-awtorità ġudizzjarja li jkunu ħarġu l-mandat taħt it-Taqsima II" għandhom jidħlu l-kliem "u l-awtorità ġudizzjarja li l-allert tkun inħarġet minnhom fuq it-talba tagħhom", u fl-artikolu 47(3)(b) minflok il-kliem "u l-awtorità li jkunu ħarġu l-mandat taħt it-Taqsima II" għandhom jidħlu l-kliem "u l-awtorità li l-allert tkun inħarġet minnhom fuq it-talba tagħhom";
@@ -231,11 +211,7 @@ L-Avukat Ġenerali jista’, skond ma jkun jaħsibha hu personalment, joħroġ �
 
 (4) Id-disposizzjonijiet ta’ l-artikolu 15(1) ta’ l-Att rilevanti għandhom japplikaw għall-persuna arrestata taħt dan l-artikolu.
 
-(5) Jekk is-subartikolu (3) ma jitħarisx u l-persuna arrestata tagħmel rikors quddiem il-qorti biex hija tinħeles, il-qorti tista’ [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-tordna l-ħelsien tagħha.
-
-*6*
+(5) Jekk is-subartikolu (3) ma jitħarisx u l-persuna arrestata tagħmel rikors quddiem il-qorti biex hija tinħeles, il-qorti tista’ tordna l-ħelsien tagħha.
 
 (6) Jekk is-subartikolu (4) ma jitħarisx u l-persuna arrestata tagħmel rikors quddiem il-qorti biex tinħeles, il-qorti għandha tordna li hija għandha tinħeles.
 
@@ -279,11 +255,9 @@ tordna l-ħelsien tagħha.
 
 (5) Jekk il-qorti tiddeċiedi billi tilqa’ dik il-kwistjoni, hija għandha tmexxi taħt l-artikolu 11.
 
-*7*
+### 11. Data tas-smigħ dwar l-estradizzjoni, eċċ.
 
-U RENJU TAN-NORVEĠJA) [L.S.276.08 11. (1) Jekk il-qorti tkun meħtieġa tmexxi taħt dan l-artikolu, hija għandha -
-
-*Data tas-smigħ dwar l-estradizzjoni, eċċ.*
+(1) Jekk il-qorti tkun meħtieġa tmexxi taħt dan l-artikolu, hija għandha -
 
 *Emendat: A.L. 224 tal-2006.*
 
@@ -333,11 +307,7 @@ U RENJU TAN-NORVEĠJA) [L.S.276.08 11. (1) Jekk il-qorti tkun meħtieġa tmexxi 
 
 (d) f’xi speċjalità;
 
-(e) fl-estradizzjoni li tkun saret aktar qabel ta’ dik il- [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-persuna lejn Malta minn pajjiż imsemmi ieħor;
-
-*8*
+(e) fl-estradizzjoni li tkun saret aktar qabel ta’ dik il-persuna lejn Malta minn pajjiż imsemmi ieħor;
 
 (f) fl-estradizzjoni li tkun saret aktar qabel ta’ dik il-persuna lejn Malta minn pajjiż li ma jkunx pajjiż skedat;
 
@@ -379,11 +349,7 @@ It-treġġigħ lura ta’ persuna lejn pajjiż skedat huwa impedut minħabba fil
 
 ### 17. Età.
 
-It-treġġigħ lura ta’ persuna lejn pajjiż skedat huwa impedut minħabba fl-età tagħha jekk, u biss jekk, fil-waqt meta jiġi allegat li tkun għamlet ir-reat ta’ estradizzjoni hija kienet tkun, minħabba U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-fl-età tagħha, eżenti minn kull responsabbiltà kriminali taħt il-liġi kriminali ta’ Malta għax jiġi preżunt li -
-
-*9*
+It-treġġigħ lura ta’ persuna lejn pajjiż skedat huwa impedut minħabba fl-età tagħha jekk, u biss jekk, fil-waqt meta jiġi allegat li tkun għamlet ir-reat ta’ estradizzjoni hija kienet tkun, minħabba fl-età tagħha, eżenti minn kull responsabbiltà kriminali taħt il-liġi kriminali ta’ Malta għax jiġi preżunt li -
 
 (a) l-imġieba li tikkostitwixxi r-reat ta’ estradizzjoni kienet kieku tikkostitwxxi reat f’Malta;
 
@@ -423,11 +389,7 @@ fl-età tagħha, eżenti minn kull responsabbiltà kriminali taħt il-liġi krim
 
 It-treġġigħ lura ta’ persuna lejn pajjiż skedat huwa impedut minħabba fl-estradizzjoni tagħha lejn Malta li tkun saret aktar qabel minn pajjiż skedat ieħor jekk, u biss jekk -
 
-(a) il-persuna tkun treġġgħet lura lejn Malta minn pajjiż skedat ieħor, hawn iżjed ’il quddiem f’dan l-artikolu [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-msejjaħ "il-pajjiż li jreġġa’ lura";
-
-*10*
+(a) il-persuna tkun treġġgħet lura lejn Malta minn pajjiż skedat ieħor, hawn iżjed ’il quddiem f’dan l-artikolu msejjaħ "il-pajjiż li jreġġa’ lura";
 
 (b) taħt arranġamenti bejn Malta u l-pajjiż li jreġġa’ lura, ikun meħtieġ il-kunsens ta’ dak il-pajjiż għat-treġġigħ lura ta’ dik il-persuna minn Malta lejn il-pajjiż skedat dwar ir-reat ta’ estradizzjoni li jkun qed jiġi kkunsidrat;
 
@@ -469,11 +431,7 @@ It-treġġigħ lura ta’ persuna lejn pajjiż skedat huwa impedut minħabba fil
 
 (i) ġiet ikkonvokata personalment u għaldaqstant infurmata bid-data u l-post skedati tal-proċedimenti fil-qorti li rriżultaw fid-deċiżjoni, jew b’mezzi oħra fil-fatt irċeviet informazzjoni uffiċjali tad-data u l-post skedati ta’ dawk il-proċedimenti b’tali mod li ġie stabbilit inekwivokabbilment li hija kienet konxja mill-proċedimenti skedati; u
 
-(ii) ġiet infurmata li tista’ tingħata deċiżjoni jekk U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-hija ma tidhirx għall-proċedimenti; jew
-
-*11*
+(ii) ġiet infurmata li tista’ tingħata deċiżjoni jekk hija ma tidhirx għall-proċedimenti; jew
 
 (b) il-persuna mitluba, konxja mill-proċedimenti skedati, kienet tat mandat lil konsulent legali, li kien jew appuntat mill-persuna konċernata jew mill-Istat, biex jiddefendiha fil-proċedimenti, u kienet fil-fatt ġiet difiża minn dak il-konsulent fil-proċedimenti; jew
 
@@ -498,10 +456,6 @@ hija ma tidhirx għall-proċedimenti; jew
 (2) L-awtorità ġudizzjarja li tkun ħarġet il-mandat taħt it- Taqsima II għandha tkun infurmata dwar talba magħmula taħt is-subartikolu (1).
 
 (3) Il-forniment ta’ kopja tal-imsemmija sentenza hu għal finijiet biss ta’ informazzjoni u ma għandux jitqies bħala notifika formali tas-sentenza u lanqas ma jistabbilixxi xi limiti ta’ żmien applikabbli biex jintalbu proċeduri ġodda jew appell.
-
-*12*
-
-[L.S.276.08 U RENJU TAN-NORVEĠJA)
 
 (4) Talba magħmula taħt is-subartikolu (1) m’għandhiex tissospendi l-perjodi ta’ żmien li fihom għandha tittieħed id-deċiżjoni dwar il-konsenja.
 
@@ -551,11 +505,11 @@ Id-deċiżjoni dwar il-konsenja għandha tittieħed mill-qorti fi żmien xahar l
 
 (3) Jekk qabel ma l-qorti tkun aġġornat is-smigħ dwar l-estradizzjoni taħt is-subartikolu (2) il-qorti tkun iddeċidiet taħt l-artikolu 13 dwar jekk ir-ritorn ta’ dik il-persuna jkunx impedut minħabba fir-regola kontra ne bis in idem, il-qorti għandha tiddeċiedi dik il-kwistjoni għal darb’oħra wara li jitkompla s-smigħ.
 
-*13*
+### 28A. Persuna li tkun akkużata ukoll b’reat f’Malta.
 
-U RENJU TAN-NORVEĠJA) [L.S.276.08 28A. (1) Dan l-artikolu japplika jekk f’xi waqt matul is-smigħ dwar l-estradizzjoni l-qorti tiġi mgħarrfa li l-persuna li dwarha jkun inħareġ il-mandat taħt it-Taqsima II tkun ġiet akkużata b’reat f’Malta bażat fuq l-att li ma jkunx dak l-att li fuqu jkun ibbażat il-mandat taħt it-Taqsima II.
+*Miżjud: A.L. 224 tal-2006. Emendat: A.L. 367 tal-2007; A.L. 396 tal-2007.*
 
-*Persuna li tkun akkużata ukoll b’reat f’Malta. Miżjud: A.L. 224 tal-2006. Emendat: A.L. 367 tal-2007; A.L. 396 tal-2007.*
+(1) Dan l-artikolu japplika jekk f’xi waqt matul is-smigħ dwar l-estradizzjoni l-qorti tiġi mgħarrfa li l-persuna li dwarha jkun inħareġ il-mandat taħt it-Taqsima II tkun ġiet akkużata b’reat f’Malta bażat fuq l-att li ma jkunx dak l-att li fuqu jkun ibbażat il-mandat taħt it-Taqsima II.
 
 (2) Jekk qorti tibgħat lill-persuna biex titqiegħed taħt att ta’ akkuża biex tistenna li titreġġa’ lura u jkun għadu qed jitmexxa kontra dik il-persuna għall-akkużi msemmija fis-subartikolu (1), hija tista’:
 
@@ -594,10 +548,6 @@ Dan l-artikolu japplika jekk f’xi waqt fis-smigħ dwar l-estradizzjoni l-qorti
 (b) it-talba ma tkunx ġiet eżawrita;
 
 (ċ) tkun saret ordni taħt l-artikolu 71(2) biex aktar proċedimenti fuq il-mandat jiġu differiti sakemm it-talba tkun ġiet eżawrita.
-
-*14*
-
-[L.S.276.08 U RENJU TAN-NORVEĠJA)
 
 ### 31. Kondizzjoni fiżika jew tal-moħħ.
 
@@ -647,11 +597,9 @@ Id-deċiżjoni tal-Qorti ta’ l-Appell Kriminali għandha tingħata mhux iżjed
 
 (2) L-artikolu 21(2) ta’ l-Att rilevanti għandu japplika bħallikieku minflok il-kliem "ħmistax-il jum" kien hemm il-kliem "sebat ijiem".
 
-(3) Deċiżjoni dwar kull proċedura bħal dawk imfissra fl-artikolu 21(2)(b) tal-Att rilevanti għandha tittieħed mhux aktar tard minn xahar li jibda għaddej fil-ġurnata meta jinbdew il-proċeduri. U RENJU TAN-NORVEĠJA) [L.S.276.08 34. (1) Dan l-artikolu japplika jekk -
+(3) Deċiżjoni dwar kull proċedura bħal dawk imfissra fl-artikolu 21(2)(b) tal-Att rilevanti għandha tittieħed mhux aktar tard minn xahar li jibda għaddej fil-ġurnata meta jinbdew il-proċeduri. 34. (1) Dan l-artikolu japplika jekk -
 
 (a) il-qorti li tordna ż-żamma ta’ persuna tordna li persuna tiġi ċeduta lejn pajjiż skedat taħt dan l-Ordni, u
-
-*15*
 
 *Konsenja meta la jkun hemm appell u lanqas proċedimenti oħra.*
 
@@ -689,11 +637,7 @@ Id-deċiżjoni tal-Qorti ta’ l-Appell Kriminali għandha tingħata mhux iżjed
 
 (b) jekk il-qorti tiġi mgħarrfa li l-awtorità ġudizzjarja li tkun ħarġet il-mandat taħt it-Taqsima II tkun qablet ma data li tiġi aktar tard, ta’ għaxart ijiem li jibdew għaddejin minn dik id-data li tiġi aktar tard.
 
-(4) Jekk is-subartikolu (3) ma jitħarisx u l-persuna tirrikorri [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-quddiem il-qorti biex tinħeles il-qorti għandha tordna li hija għandha tinħeles, kemm-il darba ma jintweriex li jkun hemm xi kawża raġonevoli għal dak id-dewmien.
-
-*16*
+(4) Jekk is-subartikolu (3) ma jitħarisx u l-persuna tirrikorri quddiem il-qorti biex tinħeles il-qorti għandha tordna li hija għandha tinħeles, kemm-il darba ma jintweriex li jkun hemm xi kawża raġonevoli għal dak id-dewmien.
 
 ### 36. Impenn bil-miktub dwar persuna li tkun qed tiskonta sentenza f’Malta.
 
@@ -725,11 +669,7 @@ quddiem il-qorti biex tinħeles il-qorti għandha tordna li hija għandha tinħe
 
 (a) f’każ fejn japplika l-artikolu 34, il-perjodu meħtieġ għall-finijiet ta’ l-artikolu 34(3) ikun ta’ għaxart ijiem li jibdew għaddejin mill-jum meta l-impenn jasal għand il-qorti;
 
-(b) f’każ fejn japplika l-artikolu 35, il-perjodu meħtieġ għall-finijiet ta’ l-artikolu 35(2) ikun ta’ għaxart ijiem U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-li jibdew għaddejin minn l-ewwel jum meta, wara li jitqies l-artikolu 21(2)(b) u (ċ) ta’ l-Att rilevanti, il-persuna setgħet treġġgħet lura jew (jekk iżjed tard) il-jum meta l-impenn jasal għand il-qorti.
-
-*17*
+(b) f’każ fejn japplika l-artikolu 35, il-perjodu meħtieġ għall-finijiet ta’ l-artikolu 35(2) ikun ta’ għaxart ijiem li jibdew għaddejin minn l-ewwel jum meta, wara li jitqies l-artikolu 21(2)(b) u (ċ) ta’ l-Att rilevanti, il-persuna setgħet treġġgħet lura jew (jekk iżjed tard) il-jum meta l-impenn jasal għand il-qorti.
 
 ### 37. Estradizzjoni li tiġi wara differiment għal talba li tikkompeti.
 
@@ -769,11 +709,7 @@ li jibdew għaddejin minn l-ewwel jum meta, wara li jitqies l-artikolu 21(2)(b) 
 
 (5) Jekk, taħt l-Att dwar il-Protezzjoni Internazzjonali, il- Ministru responsabbli għall-immigrazzjoni jikkonċedi t-talba għal asil, ir-rikjesta titqies li tkun ġiet finalment deċiża meta huwa jagħmel id-deċiżjoni tiegħu fuq ir-rikjesta.
 
-(6) Jekk it-talba għal asil ta’ dik il-persuna tkun miċħuda, id- [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-disposizzjonijiet ta’ l-artikolu 21(2)(a) u (b) ta’ l-Att rilevanti għandhom mutatis mutandis japplikaw għal kull proċediment imsemmi fid-disposizzjonijiet imsemmija u li jistgħu jwasslu għar-rivertiment, annullament jew modifikazzjoni tad-deċizjoni li tiċħad it-talba għal asil ta’ dik il-persuna bl-istess mod bħalma japplikaw għal proċedimenti bħal dawk dwar l-ordni tal-qorti dwar li l-persuna tinżamm.
-
-*18*
+(6) Jekk it-talba għal asil ta’ dik il-persuna tkun miċħuda, id-disposizzjonijiet ta’ l-artikolu 21(2)(a) u (b) ta’ l-Att rilevanti għandhom mutatis mutandis japplikaw għal kull proċediment imsemmi fid-disposizzjonijiet imsemmija u li jistgħu jwasslu għar-rivertiment, annullament jew modifikazzjoni tad-deċizjoni li tiċħad it-talba għal asil ta’ dik il-persuna bl-istess mod bħalma japplikaw għal proċedimenti bħal dawk dwar l-ordni tal-qorti dwar li l-persuna tinżamm.
 
 ### 39. Ċertifikat dwar persuna li tagħmel talba għal asil.
 
@@ -814,10 +750,6 @@ disposizzjonijiet ta’ l-artikolu 21(2)(a) u (b) ta’ l-Att rilevanti għandho
 (b) li jtemm meta l-persuna titreġġa’ lura konformement mal-mandat, jew tiġi meħlusa.
 
 (3) Il-qorti għandha tordna l-ħelsien ta’ dik il-persuna.
-
-*19*
-
-U RENJU TAN-NORVEĠJA) [L.S.276.08
 
 (4) Jekk il-persuna ma tkunx quddiem il-qorti fil-waqt li l-qorti tordna li hija għandha tinħeles, il-qorti għandha tgħarrafha bl-ordni kemm jista’ jkun malajr.
 
@@ -863,11 +795,7 @@ U RENJU TAN-NORVEĠJA) [L.S.276.08
 
 (a) tordna li aktar proċeduri dwar il-mandat li jkun qed jiġi kkunsidrat jiġu differiti sakemm il-mandat l-ieħor ikun ġie eżawrit, jekk il-mandat li jkun qed jiġi kkunsidrat ma jkunx ġie eżawrit;
 
-(b) tordna li jiġi differit it-treġġigħ lura ta’ dik il-persuna [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-konformement mal-mandat li jkun qed jiġi kkunsidrat, u dan sakemm il-mandat l-ieħor ikun ġie eżawrit, jekk tkun saret ordni għat-treġġigħ lura tagħha konformement mal-mandat li jkun qed jiġi kkunsidrat. (5) Meta jkun qed jiġi applikat is-subartikolu (4), il-qorti għandha partikolarment tqis iċ-ċirkostanzi fil-paragrafi (a) sa (ċ), it-tnejn inklużi, ta’ l-artikolu 21(4) ta’ l-Att rilevanti, kif ukoll ta’ dan li gej:
-
-*20*
+(b) tordna li jiġi differit it-treġġigħ lura ta’ dik il-persuna konformement mal-mandat li jkun qed jiġi kkunsidrat, u dan sakemm il-mandat l-ieħor ikun ġie eżawrit, jekk tkun saret ordni għat-treġġigħ lura tagħha konformement mal-mandat li jkun qed jiġi kkunsidrat. (5) Meta jkun qed jiġi applikat is-subartikolu (4), il-qorti għandha partikolarment tqis iċ-ċirkostanzi fil-paragrafi (a) sa (ċ), it-tnejn inklużi, ta’ l-artikolu 21(4) ta’ l-Att rilevanti, kif ukoll ta’ dan li gej:
 
 (a) il-post fejn ikun sar kull reat (jew fejn ikun allegat li jkun sar);
 
@@ -905,11 +833,7 @@ konformement mal-mandat li jkun qed jiġi kkunsidrat, u dan sakemm il-mandat l-i
 
 (ċ) tkun ingħatat l-għajnuna legali iżda dik l-għajnuna legali tkun ġiet irtirata.
 
-(7) Fis-subartikolu (6) "l-għajnuna legali" tfisser id-dritt ta’ U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-rappreżentazzjoni bis-saħħa ta’ l-artikolu 77.
-
-*21*
+(7) Fis-subartikolu (6) "l-għajnuna legali" tfisser id-dritt ta’ rappreżentazzjoni bis-saħħa ta’ l-artikolu 77.
 
 (8) Għall-finijiet tas-subartikolu (5), persuna għandha tiġi ttrattata bħala li hi legalment rappreżentata quddiem il-qorti jekk (u biss jekk) hija tkun assistita minn difensur li jirrappreżentaha fil-proċedimenti quddiem il-qorti.
 
@@ -953,10 +877,6 @@ rappreżentazzjoni bis-saħħa ta’ l-artikolu 77.
 
 *Mandat ieħor maħruġ wara l-kunsens.*
 
-*22*
-
-[L.S.276.08 U RENJU TAN-NORVEĠJA)
-
 (a) persuna tagħti l-kunsens tagħha taħt l-artikolu 43 għat-treġġigħ lura tagħha lejn pajjiż skedat, u
 
 (b) il-kondizzjonijiet fis-subartikolu (2) ikunu ġew sodisfatti qabel ma l-qorti tordna t-treġġigħ lura tagħha taħt l-artikolu 44(5).
@@ -999,10 +919,6 @@ rappreżentazzjoni bis-saħħa ta’ l-artikolu 77.
 
 *Meta jinħareġ mandat ieħor il-proċedimenti jiġu differiti.*
 
-*23*
-
-U RENJU TAN-NORVEĠJA) [L.S.276.08
-
 (2) Jekk issir ordni taħt l-artikolu 49(5) biex jitkomplew il-proċedimenti dwar il-mandat, il-perjodu imsemmi fl-artikolu 44(5) għandu jitqies bħala wieħed ta’ għaxart ijiem li jibdew għaddejin mill-jum meta ssir l-ordni taħt l-artikolu 49(5).
 
 ### 49. Talba għal estradizzjoni wara l-kunsens.
@@ -1041,11 +957,7 @@ il-qorti tista’ tagħmel ordni biex il-proċedimenti jitkomplew.
 
 (b) il-persuna tkun qed tiskonta sentenza ta’ priġunerija jew xi forma oħra ta’ detenzjoni f’Malta.
 
-(2) Il-qorti tista’ tagħmel l-ordni għat-treġġigħ lura bla ħsara għall-kondizzjoni li l-estradizzjoni ma għandhiex tibda sseħħ qabel ma jasal l-impenn bil-miktub mogħti f’isem il-pajjiż skedat skond [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-pattijiet imsemmija minnu.
-
-*24*
+(2) Il-qorti tista’ tagħmel l-ordni għat-treġġigħ lura bla ħsara għall-kondizzjoni li l-estradizzjoni ma għandhiex tibda sseħħ qabel ma jasal l-impenn bil-miktub mogħti f’isem il-pajjiż skedat skond pattijiet imsemmija minnu.
 
 (3) Il-pattijiet li jistgħu jiġu imsemmija mill-qorti dwar persuna akkużata f ’pajjiż skedat bl-għemil ta’ reat jinkludu pattijiet -
 
@@ -1083,11 +995,7 @@ pattijiet imsemmija minnu.
 
 (b) qorti tirċievi talba għall-kunsens lill-persuna li tkun qegħda tittieħed azzjoni dwarha fil-pajjiż skedat għal xi reat ieħor;
 
-(ċ) it-talba tiġi ċertifikata taħt dan l-artikolu mill-Avukat U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-Ġenerali.
-
-*25*
+(ċ) it-talba tiġi ċertifikata taħt dan l-artikolu mill-Avukat Ġenerali.
 
 (2) L-Avukat Ġenerali jista’ jiċċertifika talba għall-kunsens taħt dan l-artikolu jekk tassew jaħseb li l-awtorità li tagħmel it-talba -
 
@@ -1125,11 +1033,7 @@ pattijiet imsemmija minnu.
 
 (a) il-persuna kienet f’Malta, u
 
-(b) il-qorti kienet meħtieġa tmexxi taħt l-artikolu 13 dwar [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-**ir-reat li dwaru jkun qed jintalab il-kunsens.**
-
-*26*
+(b) il-qorti kienet meħtieġa tmexxi taħt l-artikolu 13 dwar ir-reat li dwaru jkun qed jintalab il-kunsens.
 
 (6) Jekk il-qorti tiddeċiedi billi tilqa’ l-kwistjoni fis-subartikolu (5), il-qorti għandha tagħti l-kunsens tagħha.
 
@@ -1163,11 +1067,7 @@ pattijiet imsemmija minnu.
 
 (5) Is-smigħ dwar il-kunsens għandu jibda qabel tmiem il-perjodu meħtieġ, li hu ta’ wieħed u għoxrin ġurnata li jibdew għaddejin mill-jum meta tasal it-talba għall-kunsens għand l- Avukat Ġenerali.
 
-(6) Il-qorti tista’ testendi l-perjodu meħtieġ jekk tkun taħseb li U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-jkun fl-interess tal-ġustizzja li hekk tagħmel; u dan is-subartikolu jista’ japplika iktar minn darba.
-
-*27*
+(6) Il-qorti tista’ testendi l-perjodu meħtieġ jekk tkun taħseb li jkun fl-interess tal-ġustizzja li hekk tagħmel; u dan is-subartikolu jista’ japplika iktar minn darba.
 
 (7) Is-setgħa fis-subartikolu (6) tista’ tiġi eżerċitata ukoll wara tmiem il-perjodu meħtieġ.
 
@@ -1205,11 +1105,7 @@ jkun fl-interess tal-ġustizzja li hekk tagħmel; u dan is-subartikolu jista’ 
 
 (9) Il-perjodu permess hu ta’ ħamsa u erbgħin ġurnata li jibdew għaddejin mill-jum meta l-persuna tkun waslet fil-pajjiż rikjedenti wara l-estradizzjoni tagħha hemmhekk skond dan l-Ordni.
 
-(10) Bla ħsara għas-subartikolu (8), il-qorti għandha tiddeċiedi [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-jekk ikunx meħtieġ jingħata kunsens għall-estradizzjoni ta’ dik il-persuna lejn il-pajjiż skedat l-ieħor għal dak ir-reat minn riferenza għal dak li jidhrulha li jkunu l-arranġamenti magħmulin bejn il-pajjiż rikjedenti u Malta.
-
-*28*
+(10) Bla ħsara għas-subartikolu (8), il-qorti għandha tiddeċiedi jekk ikunx meħtieġ jingħata kunsens għall-estradizzjoni ta’ dik il-persuna lejn il-pajjiż skedat l-ieħor għal dak ir-reat minn riferenza għal dak li jidhrulha li jkunu l-arranġamenti magħmulin bejn il-pajjiż rikjedenti u Malta.
 
 ### 56. Kunsens għal estradizzjoni ulterjuri lejn pajjiż li mhux il-pajjiż skedat.
 
@@ -1243,11 +1139,7 @@ jekk ikunx meħtieġ jingħata kunsens għall-estradizzjoni ta’ dik il-persuna
 
 (8) Jekk il-Ministru jiddeċiedi billi jiċħad il-kwistjoni fis-subartikolu (7), huwa għandu jirrofta l-kunsens tiegħu.
 
-(9) Jekk il-Ministru jidde‘iedi billi jilqa’ dik il-kwistjoni, huwa għandu jiddeċiedi jekk, li kieku l-persuna kienet f ’Malta, it-treġġigħ lura tagħha lejn it-tielet pajjiż dwar ir-reat ikunx projbit taħt l-artikolu 10 jew l-artikolu 12 ta l-Att rilevanti jew jekk jiddeċidix li ma jordnax it-treġġigħ lura tiegħu taħt l-artikolu 11 ta’ U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-l-Att rilevanti.
-
-*29*
+(9) Jekk il-Ministru jidde‘iedi billi jilqa’ dik il-kwistjoni, huwa għandu jiddeċiedi jekk, li kieku l-persuna kienet f ’Malta, it-treġġigħ lura tagħha lejn it-tielet pajjiż dwar ir-reat ikunx projbit taħt l-artikolu 10 jew l-artikolu 12 ta l-Att rilevanti jew jekk jiddeċidix li ma jordnax it-treġġigħ lura tiegħu taħt l-artikolu 11 ta’ l-Att rilevanti.
 
 (10) Jekk il-Ministru jiddeċiedi billi jiċħad il-kwistjoni fis-subartikolu (9), huwa jista’ jagħti l-kunsens tiegħu.
 
@@ -1287,11 +1179,7 @@ l-Att rilevanti.
 
 (a) jiġi allegat li l-persuna tkun qegħda tiġġerra barra kontra l-liġi minn ħabs f’xi territorju hawn iżjed ’il quddiem f’dan l-artikolu msejjaħ "it-territorju fejn persuna tinżamm fi priġunerija", fejn kienet qed tiskonta sentenza wara li tkun insabet ħatja ta’ reat imsemmi fil-mandat minn qorti f’territorju ieħor, hawn iżjed ’il quddiem f’dan l-artikolu msejjaħ "it-territorju fejn persuna tinsab ħatja", u
 
-(b) il-persuna kienet qed tiskonta s-sentenza konformement ma’ arranġamenti internazzjonali għal priġunieri li tkun ingħatatilhom sentenza f’xi territorju [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-biex jiġu ripatrijati f’territorju ieħor biex hemm jiskontaw is-sentenza tagħhom, u
-
-*30*
+(b) il-persuna kienet qed tiskonta s-sentenza konformement ma’ arranġamenti internazzjonali għal priġunieri li tkun ingħatatilhom sentenza f’xi territorju biex jiġu ripatrijati f’territorju ieħor biex hemm jiskontaw is-sentenza tagħhom, u
 
 (ċ) il-mandat ikun qed jinħareġ bil-għan ta’ l-arrest u l-estradizzjoni tal-persuna lejn il-pajjiż skedat biex hemmhekk tiskonta sentenza jew xi forma oħra ta’ detenzjoni li tingħata dwar ir-reat.
 
@@ -1325,11 +1213,7 @@ biex jiġu ripatrijati f’territorju ieħor biex hemm jiskontaw is-sentenza tag
 
 (a) tkun akkużata f’pajjiż skedat bl-għemil ta’ reat kostitwit minn dik l-imġieba, jew
 
-(b) jiġi allegat li persuna tkun qegħda tiġġerra barra U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-kontra l-liġi wara li tkun insabet ħatja minn qorti f’pajjiż skedat ta’ reat kostitwit minn dik l-imġieba u ma tkunx ingħatat sentenza għal dak ir-reat.
-
-*31*
+(b) jiġi allegat li persuna tkun qegħda tiġġerra barra kontra l-liġi wara li tkun insabet ħatja minn qorti f’pajjiż skedat ta’ reat kostitwit minn dik l-imġieba u ma tkunx ingħatat sentenza għal dak ir-reat.
 
 (2) L-imġieba tikkostitwixxi reat ta’ estradizzjoni dwar pajjiż skedat jekk ikunu ġew sodisfatti dawn il-kondizzjonijiet:
 
@@ -1360,10 +1244,6 @@ kontra l-liġi wara li tkun insabet ħatja minn qorti f’pajjiż skedat ta’ r
 (ċ) l-imġieba tkun hekk punibbli taħt il-liġi tal-pajjiż skedat (tkun kif tkun deskritta f’dik il-liġi).
 
 (5) L-imġieba tkun ukoll tikkostitwixxi reat ta’ estradizzjoni dwar pajjiż skedat jekk ikunu ġew sodisfatti dawn il-kondizzjonijiet:
-
-*32*
-
-[L.S.276.08 U RENJU TAN-NORVEĠJA)
 
 (a) l-imġieba tiġri barra mill-pajjiż skedat u ebda ħaġa minnha ma tiġri f’Malta;
 
@@ -1405,11 +1285,7 @@ kontra l-liġi wara li tkun insabet ħatja minn qorti f’pajjiż skedat ta’ r
 
 (b) ċertifikat maħruġ minn awtorità adatta tal-pajjiż skedat ikun juri li l-imġieba tkun kondotta skedata;
 
-(ċ) iċ-ċertifikat ikun juri li sentenza ta’ priġunerija jew xi U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-forma oħra ta’ detenzjoni għal żmien tnax-il xahar jew b’piena akbar, tkun ingħatat fil-pajjiż skedat dwar dik l-imġieba.
-
-*33*
+(ċ) iċ-ċertifikat ikun juri li sentenza ta’ priġunerija jew xi forma oħra ta’ detenzjoni għal żmien tnax-il xahar jew b’piena akbar, tkun ingħatat fil-pajjiż skedat dwar dik l-imġieba.
 
 (3) L-imġieba tkun ukoll tikkostitwixxi reat ta’ estradizzjoni dwar il-pajjiż skedat jekk ikunu ġew sodisfatti dawn il-kondizzjonijiet:
 
@@ -1445,11 +1321,7 @@ forma oħra ta’ detenzjoni għal żmien tnax-il xahar jew b’piena akbar, tku
 
 (6) Għall-finijiet tas-subartikoli (3)(b) u (4)(ċ) -
 
-(a) jekk l-imġieba jkollha x’taqsam ma’ xi taxxa jew [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-dazju, dan ma għandu ebda importanza jekk il-liġi ta’ Malta ma tkunx timponi l-istess xorta ta’ taxxa jew dazju jew ma jkollhiex regoli ta’ l-istess xorta bħal dawk tal-liġi tal-pajjiż skedat;
-
-*34*
+(a) jekk l-imġieba jkollha x’taqsam ma’ xi taxxa jew dazju, dan ma għandu ebda importanza jekk il-liġi ta’ Malta ma tkunx timponi l-istess xorta ta’ taxxa jew dazju jew ma jkollhiex regoli ta’ l-istess xorta bħal dawk tal-liġi tal-pajjiż skedat;
 
 (b) jekk l-imġieba jkollha x’taqsam mad-dwana jew mal-kambju, ma hu ta’ ebda importanza jekk il-liġi ta’ Malta ma jkollhiex regoli ta’ l-istess xorta bħal dawk tal-liġi tal-pajjiż skedat.
 
@@ -1489,10 +1361,6 @@ dazju, dan ma għandu ebda importanza jekk il-liġi ta’ Malta ma tkunx timponi
 
 (4) Id-dikjarazzjoni msemmija fis-subartikolu (3)(a) hi waħda li l-persuna li dwarha jinħareġ il-mandat hija mfittxija fil-pajjiż skedat għall-finijiet tat-tmexxija ta’ prosekuzzjoni kriminali għall-għemil ta’ reat imsemmi fil-mandat.
 
-*35*
-
-U RENJU TAN-NORVEĠJA) [L.S.276.08
-
 (5) Id-dikjarazzjoni hi waħda li -
 
 (a) jiġi allegat li l-persuna li dwarha jinħareġ il-mandat tkun qegħda tiġġerra barra kontra l-liġi wara li tkun insabet ħatja ta’ reat ta’ estradizzjoni msemmi fil-mandat minn qorti f’Malta, u
@@ -1531,10 +1399,6 @@ Meta jinħareġ mandat taħt it-Taqsima III fir-rigward ta’ persuna li ħadd m
 
 (ċ) it-treġġigħ lura ta’ dik il-persuna lejn Malta mill-pajjiż skedat konformement mal-mandat issir bla ħsara għal kondizzjoni li jingħata impenn bil-miktub f’isem Malta dwar it-trattament tagħha f’Malta jew it-treġġigħ tagħha lejn il-pajjiż skedat (jew it-tnejn).
 
-*36*
-
-[L.S.276.08 U RENJU TAN-NORVEĠJA)
-
 (2) Il-Ministru jista’ jagħti impenn bil-miktub lil persuna li taġixxi f’isem il-pajjiż skedat dwar xi ħaġa waħda jew dawn iż-żewġ ħwejjeġ flimkien:
 
 (a) it-trattament f’Malta tal-persuna li dwarha jinħareġ il-mandat;
@@ -1567,11 +1431,9 @@ Meta jinħareġ mandat taħt it-Taqsima III fir-rigward ta’ persuna li ħadd m
 
 (4) Jekk is-subartikolu (2) ma jiġix imħares, u l-persuna tagħmel rikors quddiem Maġistrat biex tinħeles, il-Maġistrat għandu jordna li hija għandha tinħeles, kemm-il darba ma jkunx hemm kawża raġonevoli għad-dewmien.
 
-*37*
+### 65. Notifika ta’ sentenza f’pajjiż li jkun qed jeżegwixxi mandat taħt it-Taqsima III.
 
-U RENJU TAN-NORVEĠJA) [L.S.276.08 65. (1) Dan l-artikolu japplika jekk -
-
-*Notifika ta’ sentenza f’pajjiż li jkun qed jeżegwixxi mandat taħt it-Taqsima III.*
+(1) Dan l-artikolu japplika jekk -
 
 (a) jinħareġ mandat taħt it-Taqsima III dwar xi persuna;
 
@@ -1621,10 +1483,6 @@ U RENJU TAN-NORVEĠJA) [L.S.276.08 65. (1) Dan l-artikolu japplika jekk -
 
 (a) persuna titreġġa’ lura lejn Malta minn pajjiż skedat konformement ma’ mandat taħt it-Taqsima III;
 
-*38*
-
-[L.S.276.08 U RENJU TAN-NORVEĠJA)
-
 (b) il-persuna tkun tat il-kunsens tagħha għat-treġġigħ lura tagħha lejn Malta skond il-liġi tal-pajjiż skedat.
 
 (2) L-artikolu 66(2) ma japplikax jekk ikunu ġew sodisfatti l-kondizzjonijiet fis-subartikolu (3) jew il-kondizzjonijiet fis-subartikolu (4).
@@ -1667,10 +1525,6 @@ U RENJU TAN-NORVEĠJA) [L.S.276.08 65. (1) Dan l-artikolu japplika jekk -
 
 (a) l-imġieba tiġri f’Malta;
 
-*39*
-
-U RENJU TAN-NORVEĠJA) [L.S.276.08
-
 (b) tkun ingħatat f’Malta sentenza ta’ priġunerija jew xi forma oħra ta’ detenzjoni għal zmien erba’ xhur jew b’piena akbar, dwar dik l-imġieba.
 
 (5) L-imġieba tkun ukoll tikkostitwixxi reat ta’ estradizzjoni dwar Malta jekk ikunu ġew sodisfatti dawn il-kondizzjonijiet li ġejjin:
@@ -1711,10 +1565,6 @@ Id-disposizzjonijiet ta’ l-artikoli 25 u 26 ta’ l-Att rilevanti għandhom ja
 
 Kull żmien li l-persuna mreġġa’ lura tgħaddi f’detenzjoni preventiva fil-pajjiż skedat bħala riżultat ta’ l-eżekuzzjoni fil-pajjiż skedat ta’ mandat taħt it-Taqsima III għandu jitnaqqas minn kull sentenza li għandha tiġi esegwita f’Malta għar-reati li dwarhom kien esegwit mandat taħt it-Taqsima III mill-pajjiż skedat.
 
-*40*
-
-[L.S.276.08 U RENJU TAN-NORVEĠJA)
-
 ## TAQSIMA IV — Talbiet li jikkompetu dwar l-estradizzjoni
 
 ### 71. Talbiet li jikkompetu dwar l-estradizzjoni.
@@ -1746,10 +1596,6 @@ Kull żmien li l-persuna mreġġa’ lura tgħaddi f’detenzjoni preventiva fil
 (3) Ebda ordni taħt is-subartikolu (2) ma tista’ ssir wara tmiem il-perjodu meħtieġ.
 
 (4) Jekk il-persuna tapplika lill-qorti biex tiġi meħlusa, il-qorti tista’ tordna l-ħelsien tagħha.
-
-*41*
-
-U RENJU TAN-NORVEĠJA) [L.S.276.08
 
 (5) Jekk il-persuna tagħmel rikors quddiem il-qorti biex tiġi meħlusa, il-qorti għandha tordna l-ħelsien tagħha jekk -
 
@@ -1805,10 +1651,6 @@ U RENJU TAN-NORVEĠJA) [L.S.276.08
 
 (3) Dokument ikun awtentikat kif imiss jekk (u biss jekk) tapplika xi waħda minn dawn li ġejjin -
 
-*42*
-
-[L.S.276.08 U RENJU TAN-NORVEĠJA)
-
 (a) jagħti x’tifhem li jkun iffirmat minn imħallef, maġistrat, xi awtorità ġudizzjarja oħra jew xi uffiċjal tal-pajjiż skedat;
 
 (b) jagħti x’tifhem li jkun awtentikat bil-ġurament jew l-affermazzjoni ta’ xi xhud:
@@ -1851,11 +1693,7 @@ Iżda dak il-passaġġ jista’ jiġi miċħud jekk il-persuna li tkun qegħda t
 
 (a) li tista’ tkun meħtieġa bi prova f’dak il-pajjiż; jew
 
-(b) li tkun inkisbet mingħand il-persuna li kontriha jkun inħareġ il-mandat taħt it-Taqsima II bħala riżultat tar-reat u li, fil-waqt ta’ l-arrest tal-persuna li jkun mitlub U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-it-treġġigħ lura tagħha, tkun tinsab fil-pussess ta’ dik il-persuna jew tiġi hekk mikxufa wara.
-
-*43*
+(b) li tkun inkisbet mingħand il-persuna li kontriha jkun inħareġ il-mandat taħt it-Taqsima II bħala riżultat tar-reat u li, fil-waqt ta’ l-arrest tal-persuna li jkun mitlub it-treġġigħ lura tagħha, tkun tinsab fil-pussess ta’ dik il-persuna jew tiġi hekk mikxufa wara.
 
 (2) Il-proprjetà msemmija fis-subartiklu (1) tista’ tiġi mgħoddija lill-awtorità li tkun ħarġet il-mandat taħt it-Taqsima II, ukoll jekk l-estradizzjoni ma tkunx tista’ ssir minħabba fil-mewt, l-għajbien jew il-ħarba jew il-ħrib tal-persuna li jintalab it-treġġigħ lura tagħha.
 
@@ -1887,11 +1725,7 @@ it-treġġigħ lura tagħha, tkun tinsab fil-pussess ta’ dik il-persuna jew ti
 
 (b) is-sentenza li tingħata barra minn Malta ngħatat lill-persuna dwar -
 
-(i) ir-reat imsemmi fil-mandat jew fit-talba, jew (ii) kull reat ieħor magħmul qabel it-treġġigħ lura tagħha li dwaru l-persuna tħalliet li tittieħed [L.S.276.08 U RENJU TAN-NORVEĠJA)
-
-**azzjoni dwarha fit-territorju.**
-
-*44*
+(i) ir-reat imsemmi fil-mandat jew fit-talba, jew (ii) kull reat ieħor magħmul qabel it-treġġigħ lura tagħha li dwaru l-persuna tħalliet li tittieħed azzjoni dwarha fit-territorju.
 
 (6) Il-ħames kondizzjoni hi li qabel ma tiskonta s-sentenza li tingħata barra minn Malta, il-persuna tkun treġġgħet lura lejn Malta biex tiskonta li jifdal mis-sentenza li tingħata Malta.
 
@@ -1933,11 +1767,7 @@ it-treġġigħ lura tagħha, tkun tinsab fil-pussess ta’ dik il-persuna jew ti
 
 (a) fl-artikolu 13(1), il-paragrafi (ċ), (f) u (g) għandhom jitħallew barra;
 
-(b) fl-artikolu 38(2)(a), minflok il-kliem "jinħareġ U RENJU TAN-NORVEĠJA) [L.S.276.08
-
-ċertifikat taħt l-artikolu 7 dwar il-mandat" għandhom jidħlu l-kliem "l-persuna kieku tiġi (ħlief għall-artikolu 75(1)) meħlusa mid-detenzjoni minħabba f’sentenza li tkun ingħatat Malta";
-
-*45*
+(b) fl-artikolu 38(2)(a), minflok il-kliem "jinħareġ ċertifikat taħt l-artikolu 7 dwar il-mandat" għandhom jidħlu l-kliem "l-persuna kieku tiġi (ħlief għall-artikolu 75(1)) meħlusa mid-detenzjoni minħabba f’sentenza li tkun ingħatat Malta";
 
 (ċ) fl-artikolu 42(2)(a), minflok il-kliem "wara l-arrest tagħha taħt dan l-Ordni" għandhom jidħlu l-kliem "taħt l-artikolu 75(1)";
 
@@ -1948,10 +1778,6 @@ it-treġġigħ lura tagħha, tkun tinsab fil-pussess ta’ dik il-persuna jew ti
 ### 77. Għajnuna legali. Kap. 9.
 
 Id-disposizzjonijiet ta’ l-artikoli 570 sa 573, it-tnejn inklużi, tal-Kodiċi Kriminali għandhom mutatis mutandis japplikaw għal talbiet għall-għajnuna legali fi proċedimenti li jsiru taħt dan l-Ordni minn persuna arrestata bis-saħħa ta’ mandat maħrug taħt l-artikolu 5 jew l-artikolu 9.
-
-*46*
-
-[L.S.276.08 U RENJU TAN-NORVEĠJA)
 
 Emendata: SKEDA 1
 
@@ -2026,10 +1852,6 @@ Rikattar organizzat (racketeering) u estorsjoni.
 Falsifikazzjoni u piraterija ta’ prodotti.
 
 Falsifikazzjoni ta’ dokumenti amministrattivi u t-traffikar relattiv.
-
-*47*
-
-U RENJU TAN-NORVEĠJA) [L.S.276.08
 
 24 Falsifikazzjoni ta’ mezzi ta’ pagament.
 

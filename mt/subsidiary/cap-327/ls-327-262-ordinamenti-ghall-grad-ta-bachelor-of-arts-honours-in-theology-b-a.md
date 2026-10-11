@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Bachelor of Arts (Honours) in Theology - B.A. (Hons) Theology - taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.262)
 
-IN THEOLOGY - B.A. (HONS) THEOLOGY - TA}T
-
-*1*
-
-IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [S.L.327.262
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.262**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF ARTS (HONOURS) IN THEOLOGY - B.A. (HONS) THEOLOGY - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA
@@ -76,11 +70,7 @@ Il-Kors għandu jinfirex fuq perijodu ta’ tliet snin ta’ studju fuq bażi fu
 
 *Sostitwit: A.L. 217 tal-2010. A.L. 351 tal-2020.*
 
-(1) Il-programm ta’ studju fit-Teoloġija bħala l-qasam ta’ studju Prinċipali meħud waħdu bl-Unuri għandu jkopri minn taqsimiet studju fit-Teoloġija, fil-Filosofija, u f’oqsma relatati li IN THEOLOGY - B.A. (HONS) THEOLOGY - TA}T [S.L.327.262 IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA
-
-għalihom hemm assenjati 180 krettu ECTS.
-
-*2*
+(1) Il-programm ta’ studju fit-Teoloġija bħala l-qasam ta’ studju Prinċipali meħud waħdu bl-Unuri għandu jkopri minn taqsimiet studju fit-Teoloġija, fil-Filosofija, u f’oqsma relatati li għalihom hemm assenjati 180 krettu ECTS.
 
 (2) Il-programm ta’ studju fit-Teoloġija bħala l-qasam ta’ studju Prinċipali bl-Unuri meħud flimkien ma’ qasam ta’ studju sussidjarju għandu jinkludi taqsimiet studju li għalihom hemm assenjati 180 krettu ECTS, li minnhom hemm assenjati mhux anqas minn 110 kretti ECTS fit-Teoloġija u oqsma relatati, u mhux anqas minn 36 krettu ECTS assenjati għal taqsimiet studju fil-qasam ta’ studju sussidjarju.Pubblikazzjoini tal-programm ta’ studju.
 
@@ -128,11 +118,7 @@ Il-provvedimenti tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandi
 
 *Miżjud: A.L. 22 tal-2024.*
 
-Il-Kors jista’ jkun offrut fuq bażi part-time flessibbli b’dawn il-provvedimenti speċjali skont il-provvedimenti mniżżla fir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal- Ewwel Grad, 2019 applikabbli bit-tibdiliet neċessarji meħtieġa IN THEOLOGY - B.A. (HONS) THEOLOGY - TA}T
-
-*3*
-
-IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [S.L.327.262 (mutatis mutandis) minħabba n-natura part-time tal-Kors:
+Il-Kors jista’ jkun offrut fuq bażi part-time flessibbli b’dawn il-provvedimenti speċjali skont il-provvedimenti mniżżla fir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal- Ewwel Grad, 2019 applikabbli bit-tibdiliet neċessarji meħtieġa (mutatis mutandis) minħabba n-natura part-time tal-Kors:
 
 (a) Matul kull sena akkademika, l-istudenti jitħallew jirreġistraw għal għadd ta’ taqsimiet-studju kif maqbul mal-Koordinatur tal-Kors, li għalihom hemm assenjati mhux anqas minn 12-il krettu ECTS, diment li r-reġistrazzjoni għat-taqsimiet-studju inklużi fil-programm ta’ studju għal kull sena tal-Kors (60 krettu ECTS) tkun mifruxa fuq mhux aktar minn tliet snin akkademiċi.
 
@@ -156,11 +142,7 @@ L-istudenti li, wara li jkunu rreġistraw għat-taqsimiet-studju kollha fil-prog
 
 (g) L-istudenti li, wara li jkunu rreġistraw għat-taqsimiet-studju kollha inklużi fil-programm tas-sena finali tal- Kors, jistgħu, jekk meħtieġ u jekk eliġibbli, jirreferu kwalunkwe taqsima-studju mhux kompluta għal sena akkademika addizzjonali.
 
-(h) Sena akkademika addizzjonali, jekk meħtieġa skont il-provvedimenti tal-paragrafi (f) jew (g) ta’ dan l- IN THEOLOGY - B.A. (HONS) THEOLOGY - TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA
-
-ordinament, tista’ tingħata darba biss matul il-Kors, ħlief f’ċirkostanzi speċjali u bl-approvazzjoni tas- Senat.
-
-*[S.L.327.262 4*
+(h) Sena akkademika addizzjonali, jekk meħtieġa skont il-provvedimenti tal-paragrafi (f) jew (g) ta’ dan l-ordinament, tista’ tingħata darba biss matul il-Kors, ħlief f’ċirkostanzi speċjali u bl-approvazzjoni tas- Senat.
 
 *(i)*
 

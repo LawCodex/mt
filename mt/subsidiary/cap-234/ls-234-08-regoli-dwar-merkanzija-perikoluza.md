@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar Merkanzija Perikoluża"
-identifier: "S.L. 234.8"
+identifier: "S.L. 234.08"
 eli: "https://legislation.mt/eli/sl/234.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/234.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar Merkanzija Perikoluża (S.L. 234.8)
+# Regoli dwar Merkanzija Perikoluża (S.L. 234.08)
 
 \*LE{ISLAZZJONI SUSSIDJARJA 234.08
 

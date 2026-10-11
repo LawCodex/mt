@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Applikazzjonijiet għal Permessi dwar Lotteriji u Tombli"
-identifier: "S.L. 70.1"
+identifier: "S.L. 70.01"
 eli: "https://legislation.mt/eli/sl/70.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/70.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Applikazzjonijiet għal Permessi dwar Lotteriji u Tombli (S.L. 70.1)
-
-APPLIKAZZJONIJIET G}AL PERMESSI
-
-*1*
-
-DWAR LOTTERIJI U TOMBLI [L.S.70.01
+# Regolamenti dwar Applikazzjonijiet għal Permessi dwar Lotteriji u Tombli (S.L. 70.01)
 
 LE{ISLAZZJONI SUSSIDJARJA 70.01
 

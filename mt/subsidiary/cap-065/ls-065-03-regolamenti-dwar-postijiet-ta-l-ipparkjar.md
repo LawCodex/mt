@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Postijiet ta' l-Ipparkjar"
-identifier: "S.L. 65.3"
+identifier: "S.L. 65.03"
 eli: "https://legislation.mt/eli/sl/65.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/65.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Postijiet ta' l-Ipparkjar (S.L. 65.3)
+# Regolamenti dwar Postijiet ta' l-Ipparkjar (S.L. 65.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 65.03**
 

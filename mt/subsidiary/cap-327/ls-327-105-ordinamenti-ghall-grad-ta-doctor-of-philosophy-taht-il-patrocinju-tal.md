@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Fakultà tax-Xjenza (S.L. 327.105)
 
-*1*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAX-XJENZA [L.S.327.105
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.105**
 
 **ORDINAMENTI GĦALL-GRAD TA’**
@@ -126,9 +122,5 @@ Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preż
 ## 14. Kopji. Enumerat mill-ġdid: A.L. 51 tal-2018.
 
 (1) L-istudenti huma meħtieġa jissottomettu kopja mingħajr legatura għal kull membru tal-Bord tal-Eżaminaturi, flimkien ma’ kopja f’format diġitali.
-
-*3*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAX-XJENZA [L.S.327.105
 
 (2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu, sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom, tliet kopji tat-teżi tagħhom b’legatura ħoxna flimkien ma’ kopja f’format diġitali. Kopja waħda tat-teżi tinżamm fil-Librerija tad-dipartiment u kopja oħra fil-Librerija tal- Università. Studenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

@@ -16,15 +16,11 @@ retrieved: 2026-10-12
 
 # Regoli dwar Kreditu ta’ Taxxa (Malta International Airport plc) (Kumpens ta’ Danni dovuti għall-COVID-19) (S.L. 123.206)
 
-*1*
-
-PLC) (KUMPENS TA’ DANNI DOVUTI GĦALL-COVID-19) [L.S.123.206
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.206**
 
 **REGOLI DWAR KREDITU TA’ TAXXA (MALTA**
 
-**INTERNATIONAL AIRPORT PLC) (KUMPENS TA’**
+INTERNATIONAL AIRPORT PLC) (KUMPENS TA’
 
 **DANNI DOVUTI GĦALL-COVID-19)**
 
@@ -58,11 +54,9 @@ Għandu jingħata kreditu ta’ taxxa lill-kumpannija skont dawn ir-regoli f’a
 
 (i) kwalunkwe ammont irkuprat mill-kumpannija permezz ta’ assikurazzjoni, litigazzjoni, arbitraġġ jew sors ieħor għall-istess danni, inkluż kwalunkwe ammont li jkun hekk irkuprat f’xi żmien wara li dawn ir-regoli jidħlu fis-seħħ;
 
-(ii) kwalunkwe danni li għalihom kienet responsabbli l-kumpannija jew li kien attribwibbli għan- [L.S. 123.206 PLC) (KUMPENS TA’ DANNI DOVUTI GĦALL-COVID-19) nuqqas min-naħa tal-kumpannija li twettaq l-attivitajiet tagħha b’diliġenza dovuta u f’konformità mal-liġi applikabbli jew għan-nuqqas tagħha li tieħu miżuri biex tnaqqashom;
+(ii) kwalunkwe danni li għalihom kienet responsabbli l-kumpannija jew li kien attribwibbli għan-nuqqas min-naħa tal-kumpannija li twettaq l-attivitajiet tagħha b’diliġenza dovuta u f’konformità mal-liġi applikabbli jew għan-nuqqas tagħha li tieħu miżuri biex tnaqqashom;
 
 (iii) kwalunkwe għotja, kumpens, ħelsien jew forma oħra ta’ għajnuna mħallsa lill-kumpannija mill- Gvern jew għan-nom tal-Gvern jew aġenzija tal-gvern bi ħlas tal-istess danni sal-limitu li ma tkunx diġà kumpensata fil-kalkolu tal-ispejjeż eliġibbli għal kumpens ta’ danni; u
-
-*2*
 
 (b) tnax-il miljun euro (€12,000,000).
 
@@ -86,8 +80,4 @@ Għandu jingħata kreditu ta’ taxxa lill-kumpannija skont dawn ir-regoli f’a
 
 ## 6. Allokazzjoni ta’ profitti għall-kont tat-taxxa finali.
 
-L-imsemmi ammont mill-income taxxabbli tal-kumpannija għas-sena ta’ stima rispettiva li fuqu ma titħallasx taxxa PLC) (KUMPENS TA’ DANNI DOVUTI GĦALL-COVID-19) [L.S.123.206
-
-b’riżultat ta’ kreditu ta’ taxxa taħt dawn ir-regoli għandu jiġi allokat għall-kont tat-taxxa finali tal-kumpannija.
-
-*3*
+L-imsemmi ammont mill-income taxxabbli tal-kumpannija għas-sena ta’ stima rispettiva li fuqu ma titħallasx taxxa b’riżultat ta’ kreditu ta’ taxxa taħt dawn ir-regoli għandu jiġi allokat għall-kont tat-taxxa finali tal-kumpannija.

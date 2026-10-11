@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Pre-Tertiary Certificate in the Foundations of Coaching (S.L. 327.370)
 
-*1*
-
-IN THE FOUNDATIONS OF COACHING [L.S.327.370
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.370**
 
 **REGOLAMENTI TAL-KORS**
@@ -67,11 +63,7 @@ Biex ikunu eliġibbli għall-għoti taċ-Ċertifikat, l-istudenti għandhom:
 
 (a) għaddew f’ħames suġġetti fil-livell taċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 5 jew aħjar, li jinkludu l-Lingwa Ingliża, il-Malti, il-Matematika u kwalunkwe żewġ suġġetti oħra, jew kwalifiki ekwivalenti kif approvat mis-Senat fuq ir-rakkomandazzjoni tal-Bord;
 
-(b) ma jkollhomx anqas minn 18-il sena sa tliet xhur minn [L.S.327.370 IN THE FOUNDATIONS OF COACHING
-
-meta jibda l-kors; u
-
-*2*
+(b) ma jkollhomx anqas minn 18-il sena sa tliet xhur minn meta jibda l-kors; u
 
 (ċ) jipproduċu ċertifikazzjoni rigward l-involviment preċedenti jew attwali tagħhom fl-Edukazzjoni Fiżika u/jew Sport.
 
@@ -116,10 +108,6 @@ Firxa ta’ Marki Grad
 90% - 100% A+
 
 80% - 89% A
-
-*3*
-
-IN THE FOUNDATIONS OF COACHING [L.S.327.370
 
 75% - 79% B+
 

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Imħatri fuq Riżultati dwar Logħob tal-Futbol"
-identifier: "S.L. 9.2"
+identifier: "S.L. 9.02"
 eli: "https://legislation.mt/eli/sl/9.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/9.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Imħatri fuq Riżultati dwar Logħob tal-Futbol (S.L. 9.2)
-
-IMĦATRI FUQ RIŻULTATI DWAR
-
-*1*
-
-LOGĦOB TAL-FUTBOL [L.S. 9.02.
+# Ordni dwar Imħatri fuq Riżultati dwar Logħob tal-Futbol (S.L. 9.02)
 
 LEĠISLAZZJONI SUSSIDJARJA 9.02
 

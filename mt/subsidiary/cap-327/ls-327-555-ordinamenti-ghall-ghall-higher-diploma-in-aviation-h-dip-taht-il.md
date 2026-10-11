@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-għall-Higher Diploma in Aviation - H. Dip. - taħt il-patroċinju tal-Istitut għat-Teknoloġiji Aerospazjali (S.L. 327.555)
 
-*1*
-
-PATROĊINJU TAL-ISTITUT GĦAT-TEKNOLOĠIJI AEROSPAZJALI [L.S.327.555
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.555**
 
 **ORDINAMENTI GĦALL-HIGHER DIPLOMA IN**
@@ -76,10 +72,6 @@ Il-kors jinfirex fuq medda ta’ tliet semestri ta’ studju fuq bażi full-time
 (1) Il-kors għandu jikkonsisti minn taqsimiet studju mgħallma li għalihom hemm assenjati 90 krettu ECTS.
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
-
-*2*
-
-[L.S.327.555 PATROĊINJU TAL-ISTITUT GĦAT-TEKNOLOĠIJI AEROSPAZJAL
 
 (2) L-istudenti li jtemmu b’suċċess għadd ta’ taqsimiet studju preskritti għal total ta’ 30 krettu ECTS u jagħżlu li ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw il-kors b’suċċess, jkunu eliġibbli għall-għoti tas-Certificate.
 

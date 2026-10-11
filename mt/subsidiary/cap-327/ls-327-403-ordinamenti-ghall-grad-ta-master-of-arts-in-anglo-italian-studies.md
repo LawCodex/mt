@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Anglo-Italian Studies taħt il-patroċinju tal-Istitut għall-Istudji Anglo-Taljani bil-kollaborazzjoni tal-Fakultà tal-Arti (S.L. 327.403)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT GĦALL-ISTUDJI ANGLO-
-
-*1*
-
-TALJANI BIL-KOLLABORAZZJONI TAL-FAKULTÀ TAL-ARTI [L.S.327.403
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.403**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -81,10 +75,6 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 ## 7. Valutazzjoni u progress.
 
 Imħassar bl-Avviż Legali 64 tal-2026.
-
-*2*
-
-TAĦT IL-PATROĊINJU TAL-ISTITUT GĦALL-ISTUDJI ANGLO- [L.S.327.403 TALJANI BIL-KOLLABORAZZJONI TAL-FAKULTÀ TAL-ARTI
 
 ## 8. Dissertazzjoni.
 

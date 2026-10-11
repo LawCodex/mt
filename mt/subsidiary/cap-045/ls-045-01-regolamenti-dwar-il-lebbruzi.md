@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Lebbrużi"
-identifier: "S.L. 45.1"
+identifier: "S.L. 45.01"
 eli: "https://legislation.mt/eli/sl/45.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/45.1/20240716/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Lebbrużi (S.L. 45.1)
+# Regolamenti dwar il-Lebbrużi (S.L. 45.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 45.01**
 

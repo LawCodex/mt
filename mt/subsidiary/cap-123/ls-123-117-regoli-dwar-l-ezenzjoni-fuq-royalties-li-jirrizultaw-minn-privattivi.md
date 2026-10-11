@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar l-Eżenzjoni fuq Royalties li jirriżultaw minn Privattivi (S.L. 123.117)
 
-*1*
-
-LI JIRRI|ULTAW MINN PRIVATTIVI [L.S.123.117
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.117**
 
 **REGOLI DWAR L-E|ENZJONI FUQ ROYALTIES**

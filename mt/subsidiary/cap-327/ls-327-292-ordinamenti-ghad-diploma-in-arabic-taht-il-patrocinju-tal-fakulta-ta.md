@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Arabic taħt il-patroċinju tal-Fakultà ta' l-Arti (S.L. 327.292)
 
-DIPLOMA IN ARABIC TA}T IL-PATRO~INJU
-
-*1*
-
-TAL-FAKULTÀ TA’ L-ARTI [L.S.327.292
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.292**
 
 ORDINAMENTI G}AD-DIPLOMA IN ARABIC TA}T IL-PATRO~INJU TAL-FAKULTÀ TA’ L-ARTI

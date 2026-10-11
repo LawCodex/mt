@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorita tad-Djar (Trasferimenti ta' Proprejta) (2003) (S.L. 261.26)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (2003) [ L.S.261.26
-
 LE{ISLAZZJONI SUSSIDJARJA 261.26
 
 ORDNI DWAR L-AWTORITÀ TAD-DJAR
@@ -93,7 +91,7 @@ Title no. 54000480 part of).
 
 (17) Flat numru 5, Door A, Blokk D, Triq Pietro Gagliardi, Qasam Bini tal-Gvern, Tarxien (Tenement No. 71997 - 6HA 184/2000).
 
-(18) Dar bin-numru 1, Mog]dija |ag]\\ija, Qasam Bini tal- Gvern, |ejtun (Tenement No. 67435 - RTB 31/2002). (TRASFERIMENT TA’ PROPRJETÀ) (2003) [ L.S.261.26 (19) Flat numru 6 in 20 Triq Ani`i, Government Housing Estate, Qormi (Tenement No. 70925 - RTB 38/2002). (20) Flat numru 6, Entrance B, Binja Salvatur, Triq Luigi Pisani, Qasam Bini tal-Gvern, Kalkara (Tenement No. 77060 -RTB 152/2002).
+(18) Dar bin-numru 1, Mog]dija |ag]\\ija, Qasam Bini tal- Gvern, |ejtun (Tenement No. 67435 - RTB 31/2002). (19) Flat numru 6 in 20 Triq Ani`i, Government Housing Estate, Qormi (Tenement No. 70925 - RTB 38/2002). (20) Flat numru 6, Entrance B, Binja Salvatur, Triq Luigi Pisani, Qasam Bini tal-Gvern, Kalkara (Tenement No. 77060 -RTB 152/2002).
 
 (21) Flat numru 3 in 21, Triq San Zakkarija, Qasam Bini tal-Gvern, Valletta (Tenement No. 63245 - RTB 164/ 2002).
 
@@ -163,7 +161,7 @@ B’se]] mill-15 ta’ April, 2003:
 
 (b) l-imsemmija 16-il garage sottostanti il-maisonettes hawn qabel imsemmija huma lkoll a``essibbli minn rampa li twassal g]al area komuni kull wie]ed b’entratura separata bin-numru separat minn 1 sa 16;
 
-(`) is-substation hu a``essibbli minn entratura (TRASFERIMENT TA’ PROPRJETÀ) (2003) [ L.S.261.26 separata.
+(`) is-substation hu a``essibbli minn entratura separata.
 
 Il-blokk imsemmi kollu kemm hu imiss mill-Grigal, Xlokk u Majjistral ma’ proprjetà tal-Gvern, u jinsab mibni fuq art li hi proprjetà tal-Gvern li qabel kienet tag]mel part mill-proprjetà Nru. 16488 li qabel kienet tas-Servizzi, kif murija delineata bl-a]mar fuq il-pjanta P.D. 148/99/3. (HAM 5/98 Vol. iii).
 
@@ -207,7 +205,7 @@ tal-Gvern akkwistata bis-sa]]a ta’ ~edola 281 datata 30 ta’ Marzu, 2001, ~ed
 
 (13) Flat numru 3, Blokk E, Qasam tad-Djar tal-Gvern, Qasam Tal-Men]ir, Kirkop (Tenement Nru. 73425 - RTB 37/2002).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (2003) [ L.S.261.26 (14) Id-dar bin-numru 43, li qabel kienet 12, Triq is-Seb], Qasam tad-Djar tal-Gvern, Marsa (Tenement Nru. 71010 - RTB 169/2002).
+(14) Id-dar bin-numru 43, li qabel kienet 12, Triq is-Seb], Qasam tad-Djar tal-Gvern, Marsa (Tenement Nru. 71010 - RTB 169/2002).
 
 (15) Flat numru 3, Blokk C1, Entratura B, Triq il-Plane`, Qasam tad-Djar tal-Gvern Ta’ Mliet, Mosta (Tenement Nru. 72381 - 6HA 44/2001).
 
@@ -269,7 +267,7 @@ B’se]] mis-6 ta’ {unju, 2003:
 
 (a) l-imsemmija maisonettes huma lkoll a``essibbli separatament minn bieb estern, fejn il-maisonettes bin-numru 1 sa 12 huma a``essibbli minn passa[[ komuni a``essibbli b’tara[ minn Triq Robert Baden Powell u b’rampa minn Triq Florence Nightingale, u l-maisonettes bin-numru 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 42A u 44 huma a``essibbli minn Triq l-Imnarja;
 
-(b) l-imsemmija garages jinsabu f’livell sotterran u f’livell terran; il-garages 1 sa 60 jinsabu f’livell sotterran, u l-garages kollha, ]lief g]all-garages bin-numru 1 u 60, huma a``essibbli minn area (TRASFERIMENT TA’ PROPRJETÀ) (2003) [ L.S.261.26 komuni li hi a``essibbli minn Triq Robert Baden Powell u Triq Florence Nightingale. Il-garage bin-numru 60 huwa a``essibbli esternament minn Triq Robert Baden Powell filwaqt li l-garage bin-numru 1 huwa a``essibbli minn Triq Florence Nightingale. Garages 61 sa 86 huma f’livell terran, sottostanti il-maisonettes 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 42A u 44, u l-istess garages huma a``essibbli minn area komuni li hi a``essibbli minn Triq l-Imnarja. Il-konfini ta’ l-imsemmi bini jinkludu wkoll arei komuni, passa[[i, [onna fuq quddiem u proprjetà o]ra murija delineata bl-a]mar fuq P.D. 63\_2003, u l-imsemmi blokk jinsab mibni fuq proprjetà tal-Gvern u jmiss mit-Tramuntana ma’ Triq Robert Baden Powell, min-Nofsinhar ma’ Triq Florence Nightingale u mill- Punent ma’ Triq l-Imnarja. (HAM 12/97 vol. ii).
+(b) l-imsemmija garages jinsabu f’livell sotterran u f’livell terran; il-garages 1 sa 60 jinsabu f’livell sotterran, u l-garages kollha, ]lief g]all-garages bin-numru 1 u 60, huma a``essibbli minn area komuni li hi a``essibbli minn Triq Robert Baden Powell u Triq Florence Nightingale. Il-garage bin-numru 60 huwa a``essibbli esternament minn Triq Robert Baden Powell filwaqt li l-garage bin-numru 1 huwa a``essibbli minn Triq Florence Nightingale. Garages 61 sa 86 huma f’livell terran, sottostanti il-maisonettes 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 42A u 44, u l-istess garages huma a``essibbli minn area komuni li hi a``essibbli minn Triq l-Imnarja. Il-konfini ta’ l-imsemmi bini jinkludu wkoll arei komuni, passa[[i, [onna fuq quddiem u proprjetà o]ra murija delineata bl-a]mar fuq P.D. 63\_2003, u l-imsemmi blokk jinsab mibni fuq proprjetà tal-Gvern u jmiss mit-Tramuntana ma’ Triq Robert Baden Powell, min-Nofsinhar ma’ Triq Florence Nightingale u mill- Punent ma’ Triq l-Imnarja. (HAM 12/97 vol. ii).
 
 (2) Blokk bini mag]ruf b]ala Blokk G u 40 garages fi triq pubblika, f’}al Farru[, limiti ta’ }al-Luqa, kif [ej - (a) l-imsemmi blokk G hu mag]mul minn sitt flats u erbat i]wienet, fejn il-flats bin-numru 1 sa 6 huma a``essibbli minn bieb intern f’area komuni a``essibbli minn bieb estern indikat Blokk G fi spazju pubbliku miftu], u l-]wienet huma lkoll a``essibbli minn bieb estern bin-numru 1 sa 4 fi spazju pubbliku miftu];
 
@@ -293,7 +291,7 @@ mmarkata P.163 fuq il-pjanta L.D. 383/91/10. (HAP 12/2002).
 
 (8) Bi``a art ta’ madwar 137 metru kwadru, li tag]mel parti mill-Qasam tal-Bini tal-Gvern, San {wann, u li tmiss mit-Tramuntana ma’ proprjetà ta’ E. Vassallo, min-Nofsinhar ma’ Triq il-Fresja, u mil-Lvant ma’ Triq il-Qronfol, li fuqha hemm mibni l-fond bin-numru 33, Triq il-Qronfol, San {wann, u liema art tidher delineata bl-a]mar u mmarkata P.33 fuq L.D. 128/80/ 24. (HAP 9/2002).
 
-(9) Bi``a art ta’ madwar 149 metru kwadru, li tag]mel parti mill-Qasam tal-Bini tal-Gvern Dawret it-Torri, Santa Lu`ija, u li tmiss mill-Majjistral ma’ proprjetà tal-Gvern / Triq in-Nar`is, mil-Lbi` ma’ proprjetà tal- Gvern, u mix-Xlokk ma’ Dawret it-Torri, li fuqha hemm mibni l-fond bin-numru 71, Dawret it-Torri, Santa Lu`ija, u liema art tidher delineata bl-a]mar u mmarkata P. 80 fuq L.D. 11/82/71. (HAP 11/2002). (TRASFERIMENT TA’ PROPRJETÀ) (2003) [ L.S.261.26 (10) Blokk bini li jikkonsisti f’sitt maisonettes u seba’ garages fis-Si[[iewi. Il-maisonettes huma lkoll a``essibbli separatament minn bieb estern bin-numru 1 sa 6. Il-maisonettes bin-numru 1, 3, 7, 11 u 15 jinsabu fi Triq Kircher u l-maisonette bin-numru 33 fi Triq Ta’ Brandin. Il-garages huma lkoll a``essibbli separatament minn bieb estern bin-numru 1 sa 7. Il-garages bin-numru 29, 31 u 35 jinsabu fi Triq Ta’ Brandin u l-garages bin-numru 5, 9, 13 u 17 jinsabu fi Triq Kircher u sottostanti l-imsemmija maisonettes. L-imsemmi blokk ittella’ fuq proprjetà tal-Gvern u jmiss mill-Majjistral ma’ Triq Ta’ Brandin, mil-Lbi` ma’ Triq Kircher u mix-Xlokk ma’ proprjetà ta’ utenti mhux mag]rufa. L-imsemmija maisonettes u garages jidhru delineati bl-a]mar fuq P.D. 156/82/4. (HAM 37/ 97 vol. 2).
+(9) Bi``a art ta’ madwar 149 metru kwadru, li tag]mel parti mill-Qasam tal-Bini tal-Gvern Dawret it-Torri, Santa Lu`ija, u li tmiss mill-Majjistral ma’ proprjetà tal-Gvern / Triq in-Nar`is, mil-Lbi` ma’ proprjetà tal- Gvern, u mix-Xlokk ma’ Dawret it-Torri, li fuqha hemm mibni l-fond bin-numru 71, Dawret it-Torri, Santa Lu`ija, u liema art tidher delineata bl-a]mar u mmarkata P. 80 fuq L.D. 11/82/71. (HAP 11/2002). (10) Blokk bini li jikkonsisti f’sitt maisonettes u seba’ garages fis-Si[[iewi. Il-maisonettes huma lkoll a``essibbli separatament minn bieb estern bin-numru 1 sa 6. Il-maisonettes bin-numru 1, 3, 7, 11 u 15 jinsabu fi Triq Kircher u l-maisonette bin-numru 33 fi Triq Ta’ Brandin. Il-garages huma lkoll a``essibbli separatament minn bieb estern bin-numru 1 sa 7. Il-garages bin-numru 29, 31 u 35 jinsabu fi Triq Ta’ Brandin u l-garages bin-numru 5, 9, 13 u 17 jinsabu fi Triq Kircher u sottostanti l-imsemmija maisonettes. L-imsemmi blokk ittella’ fuq proprjetà tal-Gvern u jmiss mill-Majjistral ma’ Triq Ta’ Brandin, mil-Lbi` ma’ Triq Kircher u mix-Xlokk ma’ proprjetà ta’ utenti mhux mag]rufa. L-imsemmija maisonettes u garages jidhru delineati bl-a]mar fuq P.D. 156/82/4. (HAM 37/ 97 vol. 2).
 
 (11) Blokk bini li jikkonsisti f’]ames blokkijiet B1 sa B5 li g]andhom 39 appartament, 36 garages, \\ew[t i]wienet u sub-station fi Triq il-Porzjunkola kantuniera ma’ spazju pubbliku miftu] u kantuniera ma’ Triq il-Frejgatina, San Pawl il-Ba]ar, kif [ej:
 
@@ -333,9 +331,7 @@ mil-Lbi` ma’ Triq il-Porzjunkola u mill-Grigal ma’ Triq il-Frejgatina, u l-b
 
 Il-bini jmiss mix-Xlokk ma’ Triq il-Qawra, mil-Lbi` ma’ Triq il-Porzjunkola u mill-Grigal ma’ Triq il- Frejgatina u l-imsemmija konfini jinkludu wkoll arei u passa[[i komuni, fejn il-blokk s]i] jidher delineat bl-a]mar fuq P.D. 61/2003/A. (HAM 11/93 vol. v).
 
-(13) Blokk ta’ 14-il garage sottostanti Blokk K f’Ta’ {iorni, limiti ta’ San {iljan, kull wie]ed b’entratura separata minn area komuni li hi a``essibbli minn triq pubblika. L-imsemmija garages huma sottostanti proprjetà tal-Gvern u jmissu mil-Lvant u mill-Punent ma’ passa[[ pubbliku, u min-Nofsinhar ma’ triq pubblika, inklu\\i l-arei komuni kollha, li jidhru delineati bl-a]mar fuq P.D. 216/81/32. (HAM 3/97). (14) Blokk bini li jikkonsisti fi tmien maisonettes u 11-il garage sottostanti fi Triq Erminia Cilia Abela u Triq Mons. Luigi Catania, f’}a\\-|abbar. L-imsemmija maisonettes huma lkoll a``essibbli separatament minn bieb estern bin-numru 1 sa 8, li minnhom il-bibien bin-numru 1 sa 4 jinsabu fi Triq Mons. Luigi Catania, u l-bibien bin-numru 5 sa 8 jinsabu fi Triq Erminia Cilia Abela. L-imsemmija garages bin-numru 1 sa 11 huma lkollha a``essibbli minn area komuni li tinsab fi Triq (TRASFERIMENT TA’ PROPRJETÀ) (2003) [ L.S.261.26 Mons. Luigi Catania u li hi sottostanti l-imsemmija maisonettes. Il-blokk imiss mill-Majjistral ma’ Triq Erminia Cilia Abela, mill-Grigal ma’ Triq {u\\eppi Vella, u mix-Xlokk ma’ Triq Mons. Luigi Cilia, liema konfini jinkludu wkoll rampa, area u art komuni kif ilkoll jidhru delineati bl-a]mar fuq P.D. 97/90/2.
-
-(HAM 35/98 vol. 2).
+(13) Blokk ta’ 14-il garage sottostanti Blokk K f’Ta’ {iorni, limiti ta’ San {iljan, kull wie]ed b’entratura separata minn area komuni li hi a``essibbli minn triq pubblika. L-imsemmija garages huma sottostanti proprjetà tal-Gvern u jmissu mil-Lvant u mill-Punent ma’ passa[[ pubbliku, u min-Nofsinhar ma’ triq pubblika, inklu\\i l-arei komuni kollha, li jidhru delineati bl-a]mar fuq P.D. 216/81/32. (HAM 3/97). (14) Blokk bini li jikkonsisti fi tmien maisonettes u 11-il garage sottostanti fi Triq Erminia Cilia Abela u Triq Mons. Luigi Catania, f’}a\\-|abbar. L-imsemmija maisonettes huma lkoll a``essibbli separatament minn bieb estern bin-numru 1 sa 8, li minnhom il-bibien bin-numru 1 sa 4 jinsabu fi Triq Mons. Luigi Catania, u l-bibien bin-numru 5 sa 8 jinsabu fi Triq Erminia Cilia Abela. L-imsemmija garages bin-numru 1 sa 11 huma lkollha a``essibbli minn area komuni li tinsab fi Triq Mons. Luigi Catania u li hi sottostanti l-imsemmija maisonettes. Il-blokk imiss mill-Majjistral ma’ Triq Erminia Cilia Abela, mill-Grigal ma’ Triq {u\\eppi Vella, u mix-Xlokk ma’ Triq Mons. Luigi Cilia, liema konfini jinkludu wkoll rampa, area u art komuni kif ilkoll jidhru delineati bl-a]mar fuq P.D. 97/90/2. (HAM 35/98 vol. 2).
 
 (15) Blokk mag]mul minn maisonette wa]da, garage wie]ed u \\ew[t i]wienet f’Tal-Bebbux, limiti ta\\- |urrieq. L-imsemmija maisonette hija a``essibbli minn entratura separata fi Triq Napuljun, u l-garage sottostanti il-maisonette imsemmija jinsab fil-pjan terran, g]andu entratura separata u jinsab fi Triq Napuljun. L-imsemmija \\ew[t i]wienet jinsabu wkoll f’livell terran sottostanti l-maisonettes imsemmija, g]andhom entratura separata u jinsabu fi Triq Napuljun. L-imsemmi blokk imiss mix-Xlokk ma’ Triq Napuljun, mill-Majjistral ma’ proprjetà ta’ sidien mhux mag]rufa, u mil-Lbi` ma’ proprjetà tal-Gvern.
 

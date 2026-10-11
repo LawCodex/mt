@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Applied Oceanography - M.Sc. - taħt il-patroċinju tal-Fakultà tax-Xjenza (S.L. 327.479)
 
-OCEANOGRAPHY - M.Sc. - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAX-XJENZA [L.S.327.479
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.479**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -70,11 +64,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (1) Il-kors huwa miftuħ għall-applikanti li għandhom grad tal-ewwel ċiklu minn l-Università ta’ Malta fix-Xjenza, fl- Inġinerija, fl-Arkitettura jew fit-Teknoloġija tal-Informazzjoni, jew fi kwalunkwe qasam ieħor meqjus bħala rilevanti mill-Bord.
 
-(2) F’każijiet eċċezzjonali l-Bord għad-Dħul, fuq ir-rakkomandazzjoni tal-Bord, jista’ jħalli jidħlu fil-kors applikanti li m’għandhomx il-grad ta’ Bachelor, sakemm li jkun sodisfatt li dawn l-applikanti għandhom kwalifiki akkademiċi oħra u esperienza li flimkien ikunu meqjusa komparabbli mal-kwalifiki msemmija fil-paragrafu (1) ta’ dan l-ordinament. Id-dħul tal-applikanti skont dan l-ordinament jista’ jkun kondizzjonalment OCEANOGRAPHY - M.Sc. - TAĦT IL-PATROĊINJU [L.S.327.479 TAL-FAKULTÀ TAX-XJENZA
-
-skont ir-riżultati ta’ intervista li tkun immexxija minn bord maħtur għal dan il-għan.
-
-*2*
+(2) F’każijiet eċċezzjonali l-Bord għad-Dħul, fuq ir-rakkomandazzjoni tal-Bord, jista’ jħalli jidħlu fil-kors applikanti li m’għandhomx il-grad ta’ Bachelor, sakemm li jkun sodisfatt li dawn l-applikanti għandhom kwalifiki akkademiċi oħra u esperienza li flimkien ikunu meqjusa komparabbli mal-kwalifiki msemmija fil-paragrafu (1) ta’ dan l-ordinament. Id-dħul tal-applikanti skont dan l-ordinament jista’ jkun kondizzjonalment skont ir-riżultati ta’ intervista li tkun immexxija minn bord maħtur għal dan il-għan.
 
 (3) L-għarfien tal-Matematika u l-ħiliet tal-programming huma rrakkomandati ħafna.
 
@@ -112,11 +102,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir matul it-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
-(3) It-titlu provviżorju tad-dissertazzjoni u l-proposta OCEANOGRAPHY - M.Sc. - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAX-XJENZA [L.S.327.479 dettaljata tar-riċerka għandhom ikunu ppreżentati għall-approvazzjoni tal-Bord sat-tmiem tat-tieni semestru.
+(3) It-titlu provviżorju tad-dissertazzjoni u l-proposta dettaljata tar-riċerka għandhom ikunu ppreżentati għall-approvazzjoni tal-Bord sat-tmiem tat-tieni semestru.
 
 ## 8. Superviżur.
 

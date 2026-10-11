@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Advocacy - M.Adv. - u għall-Grad ta’ Master of Notarial Studies - M.Not.St. - taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.508)
 
-TA’ MASTER OF NOTARIAL STUDIES - M.Not. St. - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.508
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.508**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -78,11 +72,7 @@ L-istudenti m’għandhomx ikunu impjegati f’xogħol full-time jew f’xogħol
 
 ## 6. Programmi ta’ studju. Enumerat: A.L. 422 tal-2018.
 
-Il-programm ta’ studju għall-kors għandhom jikkonsistu minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu ECTS, li minnhom 60 krettu ECTS huma assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS huma assenjati għall-prattika TA’ MASTER OF NOTARIAL STUDIES - M.Not. St. - TAĦT [L.S.327.508 IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI
-
-professjonali.
-
-*2*
+Il-programm ta’ studju għall-kors għandhom jikkonsistu minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu ECTS, li minnhom 60 krettu ECTS huma assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS huma assenjati għall-prattika professjonali.
 
 ## 7. Postgraduate Diploma in Advocacy jew fin- Notarial Studies. Enumerat: A.L. 422 tal-2018.
 
@@ -120,10 +110,6 @@ Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar l-istudenti taħt is
 
 *Sostitwit: A.L. 243 tal-2025.*
 
-L-istudenti li jeħlu fil-valutazzjoni mill-ġdid ta’ kwalunkwe komponent tal-prattika professjonali u li ma jiksbux marka globali li jgħaddu fit-taqsima-studju kollha, ikunu meqjusa li weħlu mill-Kors. TA’ MASTER OF NOTARIAL STUDIES - M.Not. St. - TAĦT
-
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.508 13. Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.
+L-istudenti li jeħlu fil-valutazzjoni mill-ġdid ta’ kwalunkwe komponent tal-prattika professjonali u li ma jiksbux marka globali li jgħaddu fit-taqsima-studju kollha, ikunu meqjusa li weħlu mill-Kors. 13. Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.
 
 *Klassifikazzjoni tar- Rikonoxximenti. Enumerat: A.L. 422 tal-2018.*

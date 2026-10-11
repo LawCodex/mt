@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Proċedura tal-Bord tal-Appell dwar l-Immigrazzjoni (S.L. 217.28)
 
-*1*
-
-IMMIGRAZZJONI [L.S.217.28 LEĠISLAZZJONI SUSSIDJARJA 217.28
+**LEĠISLAZZJONI SUSSIDJARJA 217.28**
 
 REGOLAMENTI DWAR IL-PROĊEDURA TAL-BORD TAL-APPELL DWAR L-IMMIGRAZZJONI
 
@@ -62,11 +60,7 @@ Il-Bord għandu jkollu l-funzjoni li jisma’ u jiddeċiedi appelli bis-saħħa 
 
 (1) Ċittadin ta’ pajjiż terz li jħossu aggravat bid-deċiżjoni tal-awtorità kompetenti fir-rigward ta’ permess uniku jew viża jista’ jippreżenta appell kontra l-imsemmija deċiżjoni quddiem il- Bord skont l-artikolu 25A tal-Att li għandu jkollu l-ġuriżdizzjoni li jisma’ u jiddeċiedi tali appell:
 
-Iżda għall-finijiet ta’ dan ir-regolament "awtorità kompetenti" għandha tfisser l-awtorità responsabbli għall-ħruġ tal-permess ta’ residenza, viża jew kwalunkwe dokument ieħor, skont il- [L.S. 217.28 IMMIGRAZZJONI
-
-każ.
-
-*2*
+Iżda għall-finijiet ta’ dan ir-regolament "awtorità kompetenti" għandha tfisser l-awtorità responsabbli għall-ħruġ tal-permess ta’ residenza, viża jew kwalunkwe dokument ieħor, skont il-każ.
 
 (2) L-appellant jew ir-rappreżentant legali tiegħu għandu jippreżenta s-sottomissjonijiet bil-miktub lill-Bord fi żmien għaxart (10) ijiem ta’ xogħol mid-data minn meta jkun innotifika l-intenzjoni tiegħu li jappella skont l-artikolu 25A(7) tal-Att.
 
@@ -92,9 +86,7 @@ Iżda għall-finijiet ta’ dan ir-regolament "awtorità kompetenti" għandha tf
 
 (4) Il-Bord għandu jikkomunika d-deċiżjoni tiegħu lill-appellant jew lir-rappreżentant legali tiegħu u lill-awtorità kompetenti fi żmien għaxart (10) ijiem ta’ xogħol mid-data meta jirċievi s-sottomissjonijiet tal-awtorità kompetenti skont is-subregolament (3):
 
-*3*
-
-IMMIGRAZZJONI [L.S.217.28 Iżda f’ċirkostanzi eċċezzjonali u debitament ġustifikati, il-Bord jista’ jestendi l-perjodu ta’ żmien għad-deċiżjoni tiegħu:
+Iżda f’ċirkostanzi eċċezzjonali u debitament ġustifikati, il-Bord jista’ jestendi l-perjodu ta’ żmien għad-deċiżjoni tiegħu:
 
 Iżda wkoll il-perjodu għall-għeluq tal-proċedura kollha ma għandux jeċċedi s-sittin (60) jum.
 
@@ -122,10 +114,6 @@ Iżda wkoll il-perjodu għall-għeluq tal-proċedura kollha ma għandux jeċċed
 
 L-appell quddiem il-Bord għandu jitqies li ġie rtirat jekk l-jiġi determinat li:
 
-(a) naqas milli jipprovdi, fil-perjodu ta’ żmien IMMIGRAZZJONI
-
-stabbilit mill-Bord, informazzjoni u, jew dokumenti essenzjali għall-appell tiegħu, sakemm l-appellant ma jurix, li n-nuqqas tiegħu kien dovut għal ċirkostanzi lil hinn mill-kontroll tiegħu; u, jew
-
-*[L.S. 217.28 4*
+(a) naqas milli jipprovdi, fil-perjodu ta’ żmien stabbilit mill-Bord, informazzjoni u, jew dokumenti essenzjali għall-appell tiegħu, sakemm l-appellant ma jurix, li n-nuqqas tiegħu kien dovut għal ċirkostanzi lil hinn mill-kontroll tiegħu; u, jew
 
 (b) naqas milli jikkonforma mad-dmirijiet ta’ rappurtar lill-Bord jew obbligi oħra fi żmien tletin (30) jum minn talba mill-Bord għall-istess.

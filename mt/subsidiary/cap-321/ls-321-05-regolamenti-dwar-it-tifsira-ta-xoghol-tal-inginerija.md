@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tifsira ta’ Xogħol tal-Inġinerija"
-identifier: "S.L. 321.5"
+identifier: "S.L. 321.05"
 eli: "https://legislation.mt/eli/sl/321.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/321.5/20210723/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tifsira ta’ Xogħol tal-Inġinerija (S.L. 321.5)
+# Regolamenti dwar it-Tifsira ta’ Xogħol tal-Inġinerija (S.L. 321.05)
 
 LEĠISLAZZJONI SUSSIDJARJA 321.05
 

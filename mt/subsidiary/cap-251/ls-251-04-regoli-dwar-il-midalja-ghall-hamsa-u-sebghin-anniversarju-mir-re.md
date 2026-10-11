@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar il-Midalja għall-Ħamsa u Sebgħin Anniversarju mir-Re-introduzzjoni ta' Gvern Responsabbli f'Malta"
-identifier: "S.L. 251.4"
+identifier: "S.L. 251.04"
 eli: "https://legislation.mt/eli/sl/251.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/251.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar il-Midalja għall-Ħamsa u Sebgħin Anniversarju mir-Re-introduzzjoni ta' Gvern Responsabbli f'Malta (S.L. 251.4)
-
-*1*
-
-ANNIVERSARJU MIR-RE-INTRODUZZJONI
-
-TA’ GVERN RESPONSABBLI F’MALTA [L.S.251.04
+# Regoli dwar il-Midalja għall-Ħamsa u Sebgħin Anniversarju mir-Re-introduzzjoni ta' Gvern Responsabbli f'Malta (S.L. 251.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 251.04**
 
@@ -69,13 +63,7 @@ I\\da kull min fis-7 ta’ {unju, 1996 ikun Membru tal- Kamra tad-Deputati g]and
 
 (a) mill-President ta’ Malta; jew
 
-(b) minn Kummissarju G]oli jew Ambaxxatur hekk awtorizzati li jag]mlu l-pre\\entazzjoni f’isem il- ANNIVERSARJU MIR-RE-INTRODUZZJONI
-
-*2*
-
-[L.S.251.04 TA’ GVERN RESPONSABBLI F’MALTA
-
-President; jew
+(b) minn Kummissarju G]oli jew Ambaxxatur hekk awtorizzati li jag]mlu l-pre\\entazzjoni f’isem il- President; jew
 
 (`) minn persuna o]ra li ti[i inkarigata mill-President fuq il-parir tal-Prim Ministru li tag]ti l-Midalja f’isem il- President.
 

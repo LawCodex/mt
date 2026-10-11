@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy - Ph. D. - fil-Fakultà tal-Liġi (S.L. 327.84)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.84
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.84**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -125,8 +121,4 @@ Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preż
 
 (1) L-istudenti huma meħtieġa jissottomettu kopja mingħajr legatura tat-teżi tagħhom għal kull membru tal-Bord tal-Eżaminaturi, skont il-format indikat fil-linji gwida ppubblikati, flimkien ma’ kopja f’format diġitali. L-uffiċjal inkarigat mill-Fakultà għandu joħroġ riċevuta datata.
 
-(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu tliet kopji tat-teżi b’legatura ħoxna flimkien ma’ kopja f ’format diġitali sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat. Kopja tat-teżi tinżamm fil-Librerija tad- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.84
-
-dipartiment u kopja oħra fil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.
-
-*3*
+(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu tliet kopji tat-teżi b’legatura ħoxna flimkien ma’ kopja f ’format diġitali sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat. Kopja tat-teżi tinżamm fil-Librerija tad-dipartiment u kopja oħra fil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

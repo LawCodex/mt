@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Hospitaller Studies taħt il-patroċinju tal-Fakultà tal-Arti (S.L. 327.359)
 
-STUDIES TA}T IL-PATRO~INJU
-
-*1*
-
-TAL-FAKULTÀ TAL-ARTI [S.L.327.359
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.359**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -79,12 +73,6 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 
 (1) L-istudenti li jiksbu għall-anqas 30 kredtu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jkunu eliġibbli għall-għoti tal-Postgraduate Certificate.
 
-STUDIES TA}T IL-PATRO~INJU
-
-*2*
-
-[S.L.327.359 TAL-FAKULTÀ TAL-ARTI
-
 *Enumerat mill-ġdid: A.L. 13 tal-2018.*
 
 (2) L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
@@ -123,11 +111,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 ## 11. Klassifikazzjoni tar- Rikonoxximenti.
 
-Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun STUDIES TA}T IL-PATRO~INJU
-
-*3*
-
-TAL-FAKULTÀ TAL-ARTI [S.L.327.359 ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
+Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
 
 ## 12. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 

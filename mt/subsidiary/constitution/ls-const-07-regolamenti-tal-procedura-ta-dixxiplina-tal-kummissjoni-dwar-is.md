@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti tal-Proċedura ta’ Dixxiplina tal-Kummissjoni dwar is-Servizz Pubbliku"
-identifier: "S.L. const.7"
+identifier: "S.L. const.07"
 eli: "https://legislation.mt/eli/sl/const.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,9 @@ version: "https://legislation.mt/eli/sl/const.7/20231001/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti tal-Proċedura ta’ Dixxiplina tal-Kummissjoni dwar is-Servizz Pubbliku (S.L. const.7)
+# Regolamenti tal-Proċedura ta’ Dixxiplina tal-Kummissjoni dwar is-Servizz Pubbliku (S.L. const.07)
 
-*1*
-
-TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 LEĠISLAZZJONI SUSSIDJARJA KOST.07
+**LEĠISLAZZJONI SUSSIDJARJA KOST.07**
 
 REGOLAMENTI TAL-PROĊEDURA TA’ DIXXIPLINA TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU 1 ta’ Ottubru, 2023
 
@@ -62,10 +60,6 @@ Kariga
 Taqsima X  Mixxellanji  33-41  
 Skeda ta’ Reati u Pieni
 
-*2*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
 Taqsima I
 
 Preliminari
@@ -108,11 +102,9 @@ It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti tal- Proċedura ta’ Dixxi
 
 *  Kap. 595.*
 
-"Kap ta’ Dipartiment" tfisser il-kap ta’ xi dipartiment tal- Gvern elenkat fit-Tieni Skeda tal-Att dwar l-Amministrazzjoni TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 Pubblika, imma għall-fini ta’ dawn ir-regolamenti tinkludi wkoll:
+"Kap ta’ Dipartiment" tfisser il-kap ta’ xi dipartiment tal- Gvern elenkat fit-Tieni Skeda tal-Att dwar l-Amministrazzjoni Pubblika, imma għall-fini ta’ dawn ir-regolamenti tinkludi wkoll:
 
 (a) Segretarji Permanenti, Diretturi Ġenerali u Diretturi li m’humiex Kapijiet ta’ Dipartiment;
-
-*3*
 
 (b) kull uffiċjal pubbliku ieħor jew awtorità oħra, li ma jkunux Kap ta’ Dipartiment, li lilhom tkun ġiet delegata s-setgħa li jeżerċitaw kontroll dixxiplinarju skont l-artikolu 110 tal-Kostituzzjoni;
 
@@ -142,11 +134,7 @@ It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti tal- Proċedura ta’ Dixxi
 
 "salarju" tfisser is-salarju bażiku;
 
-"Segretarju Eżekuttiv" tfisser is-Segretarju Eżekuttiv tal- [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-Kummissjoni dwar is-Servizz Pubbliku;
-
-*4*
+"Segretarju Eżekuttiv" tfisser is-Segretarju Eżekuttiv tal- Kummissjoni dwar is-Servizz Pubbliku;
 
 "Segretarju Permanenti" tfisser uffiċjal pubbliku maħtur bħala Segretarju Permanenti skont l-artikolu 92(3) tal- Kostituzzjoni;
 
@@ -170,9 +158,7 @@ Dispożizzjonijiet Ġenerali li jirregolaw Proċedimenti Dixxiplinarji 3. (1) Eb
 
 (3) Minkejja kull ħaġa oħra f’dawn ir-regolamenti, il- Kummissjoni għandu jkollha s-setgħa li tieħu jew li tonqos milli tieħu dik l-azzjoni li tista’ tqis li tkun xierqa li tieħu jew li tonqos milli tieħu fiċ-ċirkostanzi, u kull talba jew direttiva mill-Kummissjoni, jekk jidhrilha xierqa fiċ-ċirkostanzi partikolari, lil xi uffiċjal pubbliku, bord jew awtorità oħra, minbarra lill-Prim Ministru, li jkunu qegħdin iwettqu funzjonijiet skont dawn ir-regolamenti jew xort’ oħra taħt l-awtorità tal-Kummissjoni jew f’isem il-Kummissjoni, għandhom jiġu osservati minn dak l-uffiċjal pubbliku, bord jew awtorità.
 
-*5*
-
-TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 (4) Il-Kummissjoni tista’, fid-diskrezzjoni tagħha, tistħarreġ dwar it-twettiq ta’ kontroll dixxiplinarju minn Kap ta’ Dipartiment.
+(4) Il-Kummissjoni tista’, fid-diskrezzjoni tagħha, tistħarreġ dwar it-twettiq ta’ kontroll dixxiplinarju minn Kap ta’ Dipartiment.
 
 (5) Meta l-Kummissjoni tqis li Kap ta’ Dipartiment ikun abbuża jew uża ħażin l-awtorità lilu delegata jew li jkun naqas milli jeżerċita kontroll dixxiplinarju xieraq fil-qasam tiegħu ta’ ġurisdizzjoni, hija tista’ tirrakkomanda lill-Prim Ministru li l-istrument ta’ delega fir-rigward ta’ dak il-Kap ta’ Dipartiment jiġi rtirat parzjalment jew kompletament u, meta jkun hekk xieraq, li tittieħed azzjoni dixxiplinarja skont dawn ir-regolamenti.
 
@@ -200,11 +186,7 @@ il-Kummissjoni tista’ tirrapporta l-każ lill-Prim Ministru bir-rakkomandazzjo
 
 (3) Dawn ir-regolamenti ma għandhomx iwaqqfu l-applikazzjoni tat-Titolu IV tat-Taqsima II tal-Att dwar il-Pulizija u tal- Att dwar il-Ħabs, fir-rigward ta’ azzjoni dixxiplinarja li tittieħed mill- Kummissarju tal-Pulizija, taħt awtorità delegata, kontra uffiċjali tal-pulizija.
 
-*6 Reati għandhom jiġu rapportati mingħajr dewmien.*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-### 5.
+### 5. Reati għandhom jiġu rapportati mingħajr dewmien.
 
 (1) Uffiċjal għandu jirrapporta lill-Kap ta’ Dipartiment, b’kull mezz xieraq, kwalunkwe kondotta ħażina ta’ uffiċjal li jkun taħt ir-responsabbiltà tiegħu sa mhux aktar tard minn ħamest (5) ijiem tax-xogħol wara li jsir jaf bir-reat.
 
@@ -228,11 +210,9 @@ Iżda tali rappreżentanza għandha tkun mingħajr preġudizzju għall-konklużj
 
 (4) Uffiċjal li jkun qed iwieġeb għal akkużi dixxiplinarji jkollu l-jedd, kemm jista’ jkun malajr, li jsir jaf bid-deċiżjoni dwar kull rapport jew akkuża u l-piena, jekk ikun il-każ, li tkun ġiet imposta fuqu mill-Kap tad-Dipartiment jew mill-Kummissjoni. Dan kollu għandu jiġi kkomunikat bil-miktub mill-Kap tad-Dipartiment jew mis- Segretarju Eżekuttiv tal-Kummissjoni, skont il-każ.
 
-(5) Meta uffiċjal li jkun qed iwieġeb għal akkużi dixxiplinarji jkollu l-jedd taħt dawn ir-regolamenti li jiġi notifikat dwar xi kwistjoni jew li jingħata xi informazzjoni, tali notifika għandha, kemm-il darba TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 dawn ir-regolamenti ma jippreskrivux mod ieħor, titqies illi tkun saret jekk in-notifika tkun waslet fl-indirizz l-iżjed riċenti pprovdut mill-uffiċjal lid-dipartiment tiegħu bħala l-indirizz tad-dar tiegħu, jew l-indirizz tal-posta elettronika uffiċjali tiegħu u jekk tingħata prova tal-kunsinna. Fl-assenza ta’ indirizz tal-posta elettronika uffiċċjali, tali notifika tista’ wkoll, sakemm dawn ir-regolamenti ma jippreskrivux mod ieħor, titqies li twettqet jekk in-notifika tiġi kkonsenjata lill-uffiċjal permezz tal-posta elettronika fl-indirizz tal-posta elettronika personali pprovdut mill-uffiċjal lid-dipartiment u jekk tinżamm prova tal-kunsinna.
+(5) Meta uffiċjal li jkun qed iwieġeb għal akkużi dixxiplinarji jkollu l-jedd taħt dawn ir-regolamenti li jiġi notifikat dwar xi kwistjoni jew li jingħata xi informazzjoni, tali notifika għandha, kemm-il darba dawn ir-regolamenti ma jippreskrivux mod ieħor, titqies illi tkun saret jekk in-notifika tkun waslet fl-indirizz l-iżjed riċenti pprovdut mill-uffiċjal lid-dipartiment tiegħu bħala l-indirizz tad-dar tiegħu, jew l-indirizz tal-posta elettronika uffiċjali tiegħu u jekk tingħata prova tal-kunsinna. Fl-assenza ta’ indirizz tal-posta elettronika uffiċċjali, tali notifika tista’ wkoll, sakemm dawn ir-regolamenti ma jippreskrivux mod ieħor, titqies li twettqet jekk in-notifika tiġi kkonsenjata lill-uffiċjal permezz tal-posta elettronika fl-indirizz tal-posta elettronika personali pprovdut mill-uffiċjal lid-dipartiment u jekk tinżamm prova tal-kunsinna.
 
 (6) Dan ir-regolament bl-ebda mod ma għandu jitqies li jipprekludi t-twettiq tal-jedd imsemmi permezz tal-kunsinna tan-notifika jew tal-informazzjoni direttament lill-uffiċjal li jkun qed iwieġeb għall-akkużi, jew bi kwalunkwe mezz ieħor, inklużi mezzi elettroniċi, sakemm tkun inżammet prova ta’ dik il-kunsinna.
-
-*7*
 
 ### 7. Drittijiet  tal-Kap ta’ Dipartiment.
 
@@ -246,11 +226,7 @@ Iżda il-Bord ta’ Dixxiplina jew il-Kummissjoni, skont il-każ, għandhom jidd
 
 L-allegata vittma ta’ reat dixxiplinarju għandha, meta tissottometti talba bil-miktub lis-Segretarju Permanenti, tkun intitolata li tkun preżenti f’kull stadju ta’ kwalunkwe proċeduri dixxiplinarji li jistgħu jinbdew biex jiġi investigat l-allegat reat, u tista’ tagħżel li tkun akkumpanjata skont l-għażla tagħha, kif soġġett għall-kondizzjonijiet li ġejjin:
 
-(a) l-allegata vittma jew ir-rappreżentant tagħha ma għandhomx jitqiesu bħala parti fil-proċedimenti, u għalhekk ma għandhomx ikunu intitolati li jressqu evidenza, jagħmlu kontro- [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-eżamijiet ta’ xhieda jew xort’oħra jintervjenu fil-proċedimenti:
-
-*8*
+(a) l-allegata vittma jew ir-rappreżentant tagħha ma għandhomx jitqiesu bħala parti fil-proċedimenti, u għalhekk ma għandhomx ikunu intitolati li jressqu evidenza, jagħmlu kontro-eżamijiet ta’ xhieda jew xort’oħra jintervjenu fil-proċedimenti:
 
 Iżda l-allegata vittma tista’ tissejjaħ bħala xhud minn xi waħda mill-partijiet jew tista’ tissottometti talba bil-miktub lill-Bord ta’ Dixxiplina biex tissejjaħ bħala xhud matul il-proċedimenti; u
 
@@ -276,11 +252,9 @@ Iżda l-Prim Ministru, li jaġixxi fuq ir-rakkomandazzjoni tal-Kummissjoni dwar 
 
 (a) qed jiġi investigat jew ikun ġie arrestat mill-pulizija b’konnessjoni ma’ investigazzjoni kriminali; jew
 
-(b) qed jiġi investigat b’konnessjoni ma’ TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 investigazzjoni dwar reat dixxiplinarju, jew
+(b) qed jiġi investigat b’konnessjoni ma’ investigazzjoni dwar reat dixxiplinarju, jew
 
 (ċ) jista’ jkun ikkommetta allegata mġiba ħażina jew ma obdiex ordnijiet leġittimi, sew miktuba kif ukoll verbali,
-
-*9*
 
 u l-Kap tad-Dipartiment iqis illi jkun meħtieġ li l-uffiċjal taħt ir-responsabbiltà tiegħu għandu jiġi immedjatament imneħħi għal perjodu temporanju mill-post tax-xogħol tiegħu, jista’ jordna lill-uffiċjal sabiex jagħmel użu mill-leave furzat għal perjodu wieħed ta’ mhux iżjed minn tmenin (80) siegħa u l-uffiċjal għandu jikkonforma ma’ din l-ordini:
 
@@ -304,11 +278,7 @@ Iżda wkoll uffiċjal hekk ordnat taħt dan ir-regolament, għandu d-dritt li ji
 
 (b) hi meħtieġa aktar investigazzjoni sabiex jiġi stabbilit jekk hux il-każ li jinbdew proċedimenti dixxiplinarji jew kriminali; jew
 
-(ċ) ser jinġieb quddiem il-qorti jew qed jiġi investigat jew ġie arrestat mill-pulizija b’konnessjoni ma’ reat kriminali, [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-li huwa ta' natura li x'aktarx jiġġustifika azzjoni dixxiplinarja,
-
-*10*
+(ċ) ser jinġieb quddiem il-qorti jew qed jiġi investigat jew ġie arrestat mill-pulizija b’konnessjoni ma’ reat kriminali, li huwa ta' natura li x'aktarx jiġġustifika azzjoni dixxiplinarja,
 
 u l-Kap tad-Dipartiment jidhirlu li hu meħtieġ u li jkun fl-interess pubbliku li l-uffiċjal għandu jiġi mneħħi għal perjodu temporanju mill-post tax-xogħol, jista’ jissospendi lill-uffiċjal mill-eżerċizzju tas-setgħat u l-funzjonijiet tal-kariga tiegħu, għal skopijiet ta’ prekawzjoni.
 
@@ -324,11 +294,9 @@ u l-Kap tad-Dipartiment jidhirlu li hu meħtieġ u li jkun fl-interess pubbliku 
 
 (6) Jekk il-proċedimenti dixxiplinarji jew kriminali ma jwasslux għat-tkeċċija tal-uffiċjal, jew għal kwalunkwe piena oħra, l-uffiċjal ikollu l-jedd għall-ammont sħiħ tas-salarju li kien jirċievi li kieku ma ġiex sospiż għall-finijiet ta’ prekawzjoni. L-uffiċjal għandu wkoll ikun intitolat għal ħlas pro rata minflok kwalunkwe qligħ addizzjonali miżmum minbarra s-salarju tiegħu, liema ħlas għandu jiġi kkalkulat fuq il-medja tal-qligħ addizzjonali tat-tliet (3) snin preċedenti qabel is-sospensjoni ta’ prekawzjoni. Jekk il-piena tkun xort’oħra, u mhux tkeċċija, huwa jista’ jingħata lura dak il-proporzjon mis-salarju li jkun inżamm bħala riżultat tas-sospensjoni ta’ prekawzjoni tiegħu kif rakkomandat mill-Kummissjoni. Jekk il-piena tkun tkeċċija, l-uffiċjal għandu jitlef is-salarju li jkun inżamm bħala riżultat tas-sospensjoni ta’ prekawzjoni tiegħu.
 
-(7) Jekk uffiċjal li kontra tiegħu tkun inbdiet u tkun pendenti azzjoni dixxiplinarja jew kriminali, jieqaf mis-servizz qabel ma dik l- TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 azzjoni tintemm, kull salarju li jkun ġie miżmum bħala riżultat tas-sospensjoni ta’ prekawzjoni tiegħu ma għandux jingħatalu lura kemm-il darba ma jiġix liberat mill-akkużi kollha miġjuba kontra tiegħu. Jekk l-uffiċjal imut waqt li l-proċedimenti jkunu għadhom pendenti, kull salarju li jkun ġie miżmum bħala riżultat tas-sospensjoni ta’ prekawzjoni tiegħu għandu jingħata lura lill-eredi tiegħu:
+(7) Jekk uffiċjal li kontra tiegħu tkun inbdiet u tkun pendenti azzjoni dixxiplinarja jew kriminali, jieqaf mis-servizz qabel ma dik l-azzjoni tintemm, kull salarju li jkun ġie miżmum bħala riżultat tas-sospensjoni ta’ prekawzjoni tiegħu ma għandux jingħatalu lura kemm-il darba ma jiġix liberat mill-akkużi kollha miġjuba kontra tiegħu. Jekk l-uffiċjal imut waqt li l-proċedimenti jkunu għadhom pendenti, kull salarju li jkun ġie miżmum bħala riżultat tas-sospensjoni ta’ prekawzjoni tiegħu għandu jingħata lura lill-eredi tiegħu:
 
 Iżda meta uffiċjal li kellu s-salarju tiegħu miżmum bħala riżultat tas-sospensjoni ta’ prekawzjoni tiegħu jieqaf mis-servizz qabel ma jinħarġu l-akkużi dixxiplinarji jew kriminali, allura l-uffiċjal għandu jingħata lura s-salarju li kien inżamm milli jingħatalu matul il-perjodu tas-sospensjoni ta’ prekawzjoni tiegħu.
-
-*11*
 
 (8) Uffiċjal li jkun ġie sospiż għal raġunijiet ta’ prekawzjoni ma jkun jista’ jidħol fl-ebda fond uffiċjali indikat mill-Kap tad- Dipartiment, u ma għandux ineħħi, jeqred jew iżid ma’, jew iġiegħel li jitneħħa, jinqered jew jiġi mibdul xi dokument uffiċjali, strument jew ħaġa oħra.
 
@@ -342,11 +310,7 @@ Iżda l-proċedura ta' reviżjoni għandha tkun soġġetta għal kull direzzjoni
 
 (11) Meta l-Kap tad-Dipartiment ma’ jneħħix is-sospensjoni ta’ prekawzjoni, wara talba minn uffiċjal skont is-subregolament (10) u l-uffiċjal iqis li d-deċiżjoni tal-Kap tad-Dipartiment hija inġusta fir-rigward tiegħu, l-uffiċjal jista’ jappella bil-miktub lill-Kummissjoni fi żmien ħamest (5) ijiem tax-xogħol, fejn jagħti r-raġunijiet għaliex iqis li d-deċiżjoni fir-rigward tiegħu kienet inġusta u jitlob lill- Kummissjoni tirrevoka jew temenda d-deċiżjoni.
 
-(12) Fit-trattament ta' appell taħt is-subregolament (11), il- Kummissjoni għandha titlob il-fehma tal-Kap tad-Dipartiment. Jekk il- Kummissjoni tqis li appell taħt is-subregolament (11) huwa ġustifikat, [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-għandha tfittex li tannulla d-deċiżjoni tal-Kap tad-Dipartiment permezz ta’ rakkomandazzjoni lill-Prim Ministru jew lill-Kap tas-Servizz Pubbliku, skont il-każ, u mal-approvazzjoni ta’ tali rakkomandazzjoni, tinforma lill-uffiċjal u lill-Kap tad-Dipartiment li tali deċiżjoni ġiet revokata.
-
-*12*
+(12) Fit-trattament ta' appell taħt is-subregolament (11), il- Kummissjoni għandha titlob il-fehma tal-Kap tad-Dipartiment. Jekk il- Kummissjoni tqis li appell taħt is-subregolament (11) huwa ġustifikat, għandha tfittex li tannulla d-deċiżjoni tal-Kap tad-Dipartiment permezz ta’ rakkomandazzjoni lill-Prim Ministru jew lill-Kap tas-Servizz Pubbliku, skont il-każ, u mal-approvazzjoni ta’ tali rakkomandazzjoni, tinforma lill-uffiċjal u lill-Kap tad-Dipartiment li tali deċiżjoni ġiet revokata.
 
 (13) It-tneħħija ta’ sospensjoni ta’ prekawzjoni wara sottomissjonijiet skont is-subregolamenti (10) jew appell skont is-subregolament (11) għandha tkun mingħajr preġudizzju għal kwalunkwe azzjoni skont dawn ir-regolamenti, jekk jinbdew proċeduri dixxiplinarji jew kriminali kontra l-uffiċjal ikkonċernat.
 
@@ -362,11 +326,9 @@ għandha tfittex li tannulla d-deċiżjoni tal-Kap tad-Dipartiment permezz ta’
 
 Iżda la l-uffiċjal u lanqas il-Kummissarju tal-Pulizija ma għandu jkun obbligat li javża lil Kap tad-Dipartiment dwar proċedimenti kriminali mibdija biss f’konnessjoni ma’ kontravvenzjoni, ħlief jekk dik il-kontravvenzjoni hija allegata li seħħet fuq il-post tax-xogħol tal-uffiċjal jew ikollha x’taqsam mar-responsabbiltajiet tiegħu.
 
-(3) Meta Kap ta’ Dipartiment isir jaf li uffiċjal li jaqa’ taħt ir-responsabbiltà tiegħu ser jitressaq il-qorti jew qed jiġi investigat jew ġie arrestat mill-pulizija b’konnessjoni ma’ reat kriminali li hu ta’ natura li x’aktarx tista’ twassal għal azzjoni dixxiplinarja, u l-Kap tad- TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 Dipartiment iqis li l-uffiċjal għandu jiġi mneħħi mill-post tax-xogħol għal perjodu temporanju, huwa jista’ jissospendi lill-uffiċjal għall-finijiet ta’ prekawzjoni mill-eżerċizzju tas-setgħat u l-funzjonijiet tiegħu. Għal dan il-għan, il-Kap tad-Dipartiment għandu jaġixxi skont ir-regolament 12. Ma għandhom jittieħdu l-ebda proċedimenti dixxiplinarji kontra dak l-uffiċjal għal xi raġuni involuta fl-akkuża kriminali qabel il-konklużjoni tal-proċedimenti kriminali u d-deċiżjoni fl-appell, jekk ikun il-każ.
+(3) Meta Kap ta’ Dipartiment isir jaf li uffiċjal li jaqa’ taħt ir-responsabbiltà tiegħu ser jitressaq il-qorti jew qed jiġi investigat jew ġie arrestat mill-pulizija b’konnessjoni ma’ reat kriminali li hu ta’ natura li x’aktarx tista’ twassal għal azzjoni dixxiplinarja, u l-Kap tad- Dipartiment iqis li l-uffiċjal għandu jiġi mneħħi mill-post tax-xogħol għal perjodu temporanju, huwa jista’ jissospendi lill-uffiċjal għall-finijiet ta’ prekawzjoni mill-eżerċizzju tas-setgħat u l-funzjonijiet tiegħu. Għal dan il-għan, il-Kap tad-Dipartiment għandu jaġixxi skont ir-regolament 12. Ma għandhom jittieħdu l-ebda proċedimenti dixxiplinarji kontra dak l-uffiċjal għal xi raġuni involuta fl-akkuża kriminali qabel il-konklużjoni tal-proċedimenti kriminali u d-deċiżjoni fl-appell, jekk ikun il-każ.
 
 (4) Mingħajr preġudizzju għar-regolament 12(9), uffiċjal sospiż għall-finijiet ta’ prekawzjoni skont dan ir-regolament u li fir-rigward tiegħu ma jkunu ġew istitwiti l-ebda akkużi kriminali wara l-iskadenza ta’ sitt (6) xhur mid-data ta’ tali sospensjoni, jista’ jippreżenta sottomissjonijiet bil-miktub b’raġunijiet ġustifikati lill- Kap tad-Dipartiment għall-kunsiderazzjoni tat-tneħħija ta’ tali sospensjoni.
-
-*13*
 
 Iżda l-proċedura ta' reviżjoni għandha tkun soġġetta għal kull direzzjoni u linji gwida maħruġa mill-Kummissjoni minn żmien għal żmien skont ir-regolament 3(1).
 
@@ -379,10 +341,6 @@ Iżda l-proċedura ta' reviżjoni għandha tkun soġġetta għal kull direzzjoni
 ### 14. Azzjoni dixxiplinarja wara l-ħelsien minn akkuża kriminali.
 
 (1) Uffiċjal pubbliku li jiġi meħlus minn akkuża kriminali f’xi Qorti ma għandux jitkeċċa jew xort’oħra jiġi kastigat fuq xi akkuża li jkun liberat minnha, iżda l-ebda ħaġa f’dan ir-regolament ma għandha żżomm milli jiġi mkeċċi jew li jiġi xort’oħra kastigat fuq xi akkuża oħra li tinħoloq mill-imġiba tiegħu fil-kwistjoni, kemm-il darba l-akkuża ma tqajjimx sostanzjalment l-istess kwistjonijiet bħal dawk li minnhom ikun ġie liberat.
-
-*14*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
 
 (2) Jekk Kap ta’ Dipartiment, jew ir-rappreżentant delegat tiegħu, jiddeċiedi li jieħu azzjoni dixxiplinarja kontra uffiċjal skont ir-regolament 17 u f’konformità mas-subregolament (1), hu għandu jissottometti, fi żmien ħamest (5) ijiem tax-xogħol minn meta jsir jaf bis-sentenza tal-qorti li tkun saret res judicata, id-dikjarazzjoni bl-akkuża proposta lill-Avukat Ġenerali għall-approvazzjoni tiegħu. Il- Kap tad-Dipartiment għandu jistenna l-approvazzjoni tal-Avukat Ġenerali qabel ma jibda xi proċediment dixxiplinarju.
 
@@ -402,11 +360,9 @@ Iżda l-Kap tad-Dipartiment jista’ jastjeni milli jirreferi l-konklużjonijiet
 
 Iżda jekk il-Kummissjoni tqis li l-piena xierqa wara l-kundanna ta’ ħtija ta’ akkuża kriminali tkun waħda ta’ tkeċċija jew twissija ta’ tkeċċija jew it-telf ta’ xi salarju li jkun inżamm, hija għandha tgħarraf lill-uffiċjal bid-dritt tiegħu li jagħmel sottomissjonijiet bil-miktub lill-Kummissjoni fi żmien għaxart (10) ijiem tax-xogħol minn meta jiġi mgħarraf u l-Kummissjoni għandha tikkonsidra dawn is-sottomissjonijiet u tista’ wkoll tagħti lill-uffiċjal l-opportunità ta’ smigħ f’seduta qabel ma tgħaddi biex tagħmel ir-rakkomandazzjoni tagħha lill-Prim Ministru jew lill-Kap tas-Servizz Pubbliku, skont il-każ.
 
-(3) Jekk uffiċjal li jkun ġie sospiż għall-finijiet ta’ TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 prekawzjoni bħala riżultat ta’ proċedimenti kriminali jinstab ħati u il- Kap tad-Dipartiment jastjeni milli jirreferi l-każ lill-Kummissjoni skont is-subregolament (1), il-Kap tad-Dipartiment għandu jneħħi s-sospensjoni ta’ prekawzjoni mingħajr dewmien bla bżonn:
+(3) Jekk uffiċjal li jkun ġie sospiż għall-finijiet ta’ prekawzjoni bħala riżultat ta’ proċedimenti kriminali jinstab ħati u il- Kap tad-Dipartiment jastjeni milli jirreferi l-każ lill-Kummissjoni skont is-subregolament (1), il-Kap tad-Dipartiment għandu jneħħi s-sospensjoni ta’ prekawzjoni mingħajr dewmien bla bżonn:
 
 Iżda l-uffiċjal għandu jkun intitolat għall-parti tas-salarju miżmuma matul il-perjodu ta' sospensjoni ta’ prekawzjoni:
-
-*15*
 
 Iżda wkoll fejn il-każ jiġi riferut lill-Kummissjoni mill- Kap tad-Dipartiment u l-penali proposta, wara li l-uffiċjal jkun instab ħati, hi waħda li ma tkunx ta’ tkeċċija, il-Kummissjoni tista’ tirrakkomanda li titneħħa s-sospensjoni prekawzjonarja mingħajr preġudizzju għall-possibbiltà tat-telf tas-salarju miżmum jew l-impożizzjoni ta’ pieni dixxiplinarji.
 
@@ -430,10 +386,6 @@ Iżda fejn il-Kap tad-Dipartiment iqis li huma meħtieġa aktar minn għoxrin (2
 
 (b) il-Kap tad-Dipartiment għandu, fl-ebda każ mhux aktar tard minn għaxart (10) ijiem tax-xogħol mid-data meta jikkonkludi l-ġbir tal-informazzjoni u l-evidenza, jew mhux aktar tard minn disgħin (90) jum tax-xogħol mid-data meta jkun ġie ffirmat rapport magħmul skont l-Att dwar l-Inkjesti, jipprepara dikjarazzjoni bil-miktub bl-akkuża jew l-akkużi kontra dak l-uffiċjal, u għandu wkoll jgħarraf lill-uffiċjal jekk fil-fehma tiegħu l-akkuża jew l-akkużi jkunux jikkostitwixxu reat minuri jew reat serju u jekk ir-reat jistax iwassal għal tkeċċija;
 
-*16*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
 (ċ) l-uffiċjal għandu jingħata għaxart (10) ijiem tax-xogħol minn meta jirċievi d-dikjarazzjoni tal-akkużi, inkluż kopja tal-evidenza kollha li għandha tintuża kontrih skont ir-regolament 6(5) u (6) sabiex iwieġeb bil-miktub għall-akkuża jew akkużi miġjuba kontrih, waqt li jiddikjara r-raġunijiet li fuqhom qed jiddependi sabiex jiskolpa ruħu;
 
 (d) tista’ ssir korrezzjoni għad-dikjarazzjoni bl-akkużi mill-Kap tad-Dipartiment permezz ta’ nota bil-miktub lill-uffiċjal akkużat u lill-Bord ta’ Dixxiplina, skont il-każ, fi kwalunkwe stadju tal-proċedimenti, sakemm il-korrezzjoni ma tibdilx is-sustanza tal-akkużi;
@@ -450,11 +402,9 @@ Iżda fejn il-Kap tad-Dipartiment iqis li jkun fl-aħjar interess tal-uffiċjal 
 
 (ii) jirreferi l-każ lill-Bord ta’ Dixxiplina appuntat taħt ir-regolament 18, skont dan is-subregolament:
 
-Iżda wkoll jekk l-uffiċjal jaqbel li jiġi riferut għal tali għajnuna professjonali fi żmien għaxart (10) ijiem tax-xogħol, tali azzjoni għandha tinżamm pendenti, u l-perjodu preskrittiv indikat f'dan ir-regolament għandu jiġi sospiż temporanjament. Il- TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 Kap tad-Departiment għandu jżomm notament f’dan is-sens:
+Iżda wkoll jekk l-uffiċjal jaqbel li jiġi riferut għal tali għajnuna professjonali fi żmien għaxart (10) ijiem tax-xogħol, tali azzjoni għandha tinżamm pendenti, u l-perjodu preskrittiv indikat f'dan ir-regolament għandu jiġi sospiż temporanjament. Il- Kap tad-Departiment għandu jżomm notament f’dan is-sens:
 
 Iżda wkoll jekk l-uffiċjal jirrifjuta li jitlob l-appoġġ professjonali jew ma jikkompletax b'suċċess programm ta' appoġġ, il-Kap tad-Dipartiment għandu jikkomunika l-piena skont il-paragrafu (f). Il-perjodu preskrittiv stipulat fil-paragrafu (g) għandu jiġi attivat mill-ġdid immedjatament, u l- Kap tad-Dipartiment għandu joħroġ id-dikjarazzjoni tal-akkużi skont dan ir-regolament.
-
-*17*
 
 (2) Minkejja d-dispożizzjonijiet tas-subregolament (1):
 
@@ -468,11 +418,7 @@ Iżda:
 
 (ii) jekk, fi żmien tlett (3) ijiem tax-xogħol, l-uffiċjal akkużat jirreġistra talba bil-miktub biex tissejjaħ laqgħa ta’ riżoluzzjoni bikrija, il-laqgħa għandha tissejjaħ mill-Kap tad-Dipartiment mingħajr dewmien u mhux aktar tard minn ħamest (5) ijiem tax-xogħol mid-data li fiha l-Kap tad-Dipartiment ġie mgħarraf mill-uffiċjal. Il-perjodu preskrittiv indikat fis-subregolament (1)(ċ) għandu jiġi sospiż temporanjament u l-Kap tad- Dipartiment għandu jżomm notament f’dan is-sens;
 
-(iii) fejn il-laqgħa ta’ riżoluzzjoni bikrija tirriżulta fi qbil reċiproku mill-partijiet dwar il-ħtija, jew xort’oħra, tal-uffiċjal akkużat u l-piena li għandha tiġi imposta, jekk ikun il-każ, jew kwalunkwe azzjoni oħra meqjusa xierqa, il-Kap tad-Dipartiment għandu jikkonkludi l-laqgħa ta’ riżoluzzjoni bikrija billi jikkomunika lill-uffiċjal inkarigat id-deċiżjoni miftiehma [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-bil-miktub. L-uffiċjal akkużat għandu jindika l-qbil tiegħu bil-miktub fi żmien jumejn (2) tax-xogħol:
-
-*18*
+(iii) fejn il-laqgħa ta’ riżoluzzjoni bikrija tirriżulta fi qbil reċiproku mill-partijiet dwar il-ħtija, jew xort’oħra, tal-uffiċjal akkużat u l-piena li għandha tiġi imposta, jekk ikun il-każ, jew kwalunkwe azzjoni oħra meqjusa xierqa, il-Kap tad-Dipartiment għandu jikkonkludi l-laqgħa ta’ riżoluzzjoni bikrija billi jikkomunika lill-uffiċjal inkarigat id-deċiżjoni miftiehma bil-miktub. L-uffiċjal akkużat għandu jindika l-qbil tiegħu bil-miktub fi żmien jumejn (2) tax-xogħol:
 
 Iżda wkoll kwalunkwe piena imposta mill- Kap tad-Dipartiment bi qbil reċiproku milħuq waqt il-laqgħa ta’ riżoluzzjoni bikrija, ma għandhiex tkun suġġetta għal appell quddiem il-Kummissjoni, skont dawn ir-regolamenti;
 
@@ -494,11 +440,9 @@ Iżda wkoll fil-każijiet l-oħra kollha Bord ta’ Dixxiplina għandu jkun pres
 
 (a) mhux inqas minn żewġ skali tas-salarji ’l fuq mill-uffiċjal akkużat u mhux taħt l-iskala tas-salarji 7;
 
-(b) fl-iskala tas-salarji 5 jew ogħla jekk ikun speċifikat TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 fid-dikjarazzjoni bl-akkuża li, jekk jiġu ppruvati, l-akkużi jistgħu jwasslu għal tkeċċija;
+(b) fl-iskala tas-salarji 5 jew ogħla jekk ikun speċifikat fid-dikjarazzjoni bl-akkuża li, jekk jiġu ppruvati, l-akkużi jistgħu jwasslu għal tkeċċija;
 
 (ċ) fi skala tas-salarji mhux inqas minn dik tal-uffiċjal akkużat kull meta l-uffiċjal akkużat ikun fl-iskala tas-salarji 3 jew ogħla.
-
-*19*
 
 (3) Uffiċjal pubbliku li jinħatar membru ta’ Bord ta’ Dixxiplina:
 
@@ -516,11 +460,7 @@ Iżda meta l-uffiċjal akkużat ikun fl-iskala tas-salarju 3 jew ogħla, il-memb
 
 (7) Jekk is-Segretarju Permanenti ma jilqax il-petizzjoni taħt is-subregolament (5), huwa għandu jinforma lir-rikorrent dwar dan, li jkollu d-dritt li jirreferi l-petizzjoni tiegħu, fi żmien ħamest (5) ijiem tax-xogħol mid-data li fiha jkun ġie hekk infurmat, lill-Kummissjoni dwar is-Servizz Pubbliku għall-konsiderazzjoni tagħha. Id-deċiżjoni tal-Kummissjoni dwar is-Servizz Pubbliku għandha tkun finali.
 
-*20 Funzjonijiet u setgħat ta’ Bordijiet ta’ Dixxiplina.*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-### 19.
+### 19. Funzjonijiet u setgħat ta’ Bordijiet ta’ Dixxiplina.
 
 (1) Iċ-chairpersons u l-membri tal-Bordijiet ta’ Dixxiplina għandhom jieħdu ġurament jew jagħmlu dikjarazzjoni solenni quddiem Kummissjunarju b’setgħa li jagħti l-ġuramenti qabel il-bidu tal-proċedimenti quddiem il-Bord ta’ Dixxiplina.
 
@@ -544,11 +484,9 @@ Iżda wkoll fil-każijiet l-oħra kollha, fejn ikun hemm raġunijiet ġustifikat
 
 Iżda l-proċeduri quddiem il-Bord ta’ Dixxiplina ma jistgħux, sa fejn hu possibbli, jiġu estiżi għal aktar minn sitt (6) xhur mid-data tal-ewwel seduta. Fejn jeżistu ċirkustanzi estenwanti li jipprekludu lill-Bord tad-Dixxiplina milli jikkonkludi l-proċeduri f'dan iż-żmien, is- Segretarju Permanenti għandu jitlob direzzjoni mingħand il-Kap tas- Servizz Pubbliku jew id-delegat tiegħu, li wara li jikkunsidra ċ-ċirkostanzi estenwanti, jista’ japprova estenzjoni oħra sabiex il-Bord ta’ Dixxiplina jikkonkludi l-proċeduri quddiemu.
 
-*21*
+### 20. Proċedura matul is-seduti ta’ dixxiplina.
 
-TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 20. (1) Mingħajr preġudizzju għad-dispożizzjonijiet tar-regolamenti 6(3) u 7(1), fl-eżerċizzju tal-funzjonijiet tiegħu skont dawn ir-regolamenti, il-Bord ta’ Dixxiplina għandu jagħti opportunità xierqa liż-żewġ naħat li jippreżentaw il-każ tagħhom, iżda għandu jelimina kull formalità żejda u jiżgura li l-ġustizzja ssir bil-ħeffa u skont il-merti sostanzjali tal-każ.
-
-*Proċedura matul is-seduti ta’ dixxiplina.*
+(1) Mingħajr preġudizzju għad-dispożizzjonijiet tar-regolamenti 6(3) u 7(1), fl-eżerċizzju tal-funzjonijiet tiegħu skont dawn ir-regolamenti, il-Bord ta’ Dixxiplina għandu jagħti opportunità xierqa liż-żewġ naħat li jippreżentaw il-każ tagħhom, iżda għandu jelimina kull formalità żejda u jiżgura li l-ġustizzja ssir bil-ħeffa u skont il-merti sostanzjali tal-każ.
 
 (2) Il-Kap tad-Dipartiment u l-uffiċjal akkużat għandhom jiġu avżati bil-ħin u l-post tas-smigħ mhux inqas minn għaxart (10) ijiem tax-xogħol qabel is-smigħ. Kull avviż għandu jkun iffirmat miċ-chairperson u mwassal skont ir-regolament 6(5) u (6). Il-ħin u d-data ta’ kull smigħ sussegwenti għandhom jiġu deċiżi mill-Bord ta’ Dixxiplina wara konsultazzjoni maż-żewġ partijiet fil-każ:
 
@@ -570,11 +508,7 @@ Iżda matul il-proċedimenti dixxiplinarji quddiem il-Bord ta’ Dixxiplina, kul
 
 ### 21. Żvelar ta’ raġunijiet li prima facie jwasslu għal aktar akkużi.
 
-(1) Meta, fl-opinjoni tal-Bord ta’ Dixxiplina, l-evidenza li jkollu quddiemu tiżvela prima facie xi mġiba ħażina oħra relatata tal-uffiċjal akkużat, is-smigħ għandu jiġi sospiż u għandha [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-tapplika din il-proċedura li ġejja:
-
-*22*
+(1) Meta, fl-opinjoni tal-Bord ta’ Dixxiplina, l-evidenza li jkollu quddiemu tiżvela prima facie xi mġiba ħażina oħra relatata tal-uffiċjal akkużat, is-smigħ għandu jiġi sospiż u għandha tapplika din il-proċedura li ġejja:
 
 (a) il-Bord ta’ Dixxiplina għandu jirrapporta l-każ lill- Kap tad-Dipartiment u lill-uffiċjal akkużat;
 
@@ -598,11 +532,9 @@ tapplika din il-proċedura li ġejja:
 
 (b) il-konklużjonijiet tal-investigazzjoni dwar kwistjonijiet materjali ta’ fatt;
 
-(ċ) dikjarazzjoni jekk, fil-fehma tal-Bord, l-uffiċjal akkużat ikunx wettaq jew le r-reat jew ir-reati li tagħhom kien TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 ġie akkużat u dikjarazzjoni fil-qosor tar-raġunijiet għal dik il-fehma;
+(ċ) dikjarazzjoni jekk, fil-fehma tal-Bord, l-uffiċjal akkużat ikunx wettaq jew le r-reat jew ir-reati li tagħhom kien ġie akkużat u dikjarazzjoni fil-qosor tar-raġunijiet għal dik il-fehma;
 
 (d) dettalji dwar kwalunkwe kwistjoni li, fil-fehma tal-Bord, taggrava jew tnaqqas il-gravità tal-każ;
-
-*23*
 
 (e) kwalunkwe rakkomandazzjoni biex l-uffiċjal inkarigat jiġi riferut għall-programmi ta’ appoġġ; u
 
@@ -620,11 +552,7 @@ Iżda fejn il-Kap tad-Dipartiment kien avża lill-uffiċjal akkużat li l-akkuż
 
 (ċ) kull meta uffiċjal jammetti akkuża matul il-proċedimenti jew ma jagħmel l-ebda kummenti lill-Kap tad- Dipartiment fil-perjodu speċifikat fil-paragrafu (a), il-Kap tad- Dipartiment għandu jikkunsidra r-rakkomandazzjoni tal-Bord fir-rigward tal-piena, u jikkomunika lill-uffiċjal inkarigat, sa mhux aktar tard minn għaxart (10) ijiem tax-xogħol, id-deċiżjoni tiegħu dwar is-sejbiet tal-Bord u l-piena imposta, jekk ikun il-każ:
 
-Iżda kull meta l-Kap tad-Dipartiment ma jaqbilx [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-mar-rakkomandazzjoni tal-Bord fir-rigward tal-piena, il-Kap tad-Dipartiment għandu jdaħħal nota fir-rekords tal-każ li tispeċifika r-raġunijiet għal tali nuqqas ta’ qbil;
-
-*24*
+Iżda kull meta l-Kap tad-Dipartiment ma jaqbilx mar-rakkomandazzjoni tal-Bord fir-rigward tal-piena, il-Kap tad-Dipartiment għandu jdaħħal nota fir-rekords tal-każ li tispeċifika r-raġunijiet għal tali nuqqas ta’ qbil;
 
 (d) meta jirriżulta mill-konklużjonijiet tal-Bord li r-reat, kuntrarjament għal dak li oriġinarjament kien imsemmi mill-Kap tad-Dipartiment, ma kienx ta’ natura serja, il-Bord ta’ Dixxiplina jista’ jirrakkomanda piena anqas minn dik li tapplika għal reati serji, iżda f’dawk il-każijiet il-Kap tad-Dipartiment għandu jagħmel nota fir-rekords tal-każ li tkun tispeċifika r-raġunijiet għaliex huwa jkun aċċetta l-konklużjonijiet tal-Bord u konsegwentement ta piena li hi anqas ħarxa.
 
@@ -638,11 +566,9 @@ mar-rakkomandazzjoni tal-Bord fir-rigward tal-piena, il-Kap tad-Dipartiment għa
 
 (d) wara li tqis il-konklużjonijiet tal-Bord u l-kummenti lilha magħmula, il-Kummissjoni għandha tagħmel ir-rakkomandazzjoni tagħha lill-Prim Ministru jew lill-Kap tas- Servizz Pubbliku, skont il-każ, kemm fir-rigward tal-ħtija jew xort’oħra tal-uffiċjal akkużat kif ukoll dwar il-piena, jekk ikun il-każ.
 
-(3) (a) Mingħajr preġudizzju għas-subregolamenti (1) u (2), kull meta uffiċjal jinstab ħati ta’ reat li ma jitqiesx ta’ natura serja li jista’ jwassal għal tkeċċija, u l-Kap tad- Dipartiment jidhirlu li jkun fl-aħjar interess tal-uffiċjal li jingħata l-opportunità li TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 jirrijabilita ruħu, preferibbilment permezz ta’ entità stabbilita mill- Gvern sabiex tassisti uffiċjali pubbliċi li jkollhom problemi personali, emozzjonali jew ta’ imġiba, hu għandu jiddeċiedi dwar il-piena li għandha tingħata skont id-dispożizzjonijiet ta’ subregolament (1), jekk ikun il-każ, iżda għandu jastjeni milli jinforma lill-uffiċjal dwar dan. Jekk l-uffiċjal jaqbel li jitlob tali għajnuna fi żmien għaxart (10) ijiem tax-xogħol, il-piena għandha tinżamm pendenti sakemm jitlesta b’suċċess il-programm. Il-Kap tad-Dipartiment għandu jiġi infurmat bil-progress li jkun qed isir mill-uffiċjal, u għal dawn il-finijiet, għandu jingħata rapport mill-entità kkonċernata. Il-Kap tad-Dipartiment imbagħad għandu jiddeċiedi jekk il-piena għandhiex tidħol fis-seħħ jew le;
+(3) (a) Mingħajr preġudizzju għas-subregolamenti (1) u (2), kull meta uffiċjal jinstab ħati ta’ reat li ma jitqiesx ta’ natura serja li jista’ jwassal għal tkeċċija, u l-Kap tad- Dipartiment jidhirlu li jkun fl-aħjar interess tal-uffiċjal li jingħata l-opportunità li jirrijabilita ruħu, preferibbilment permezz ta’ entità stabbilita mill- Gvern sabiex tassisti uffiċjali pubbliċi li jkollhom problemi personali, emozzjonali jew ta’ imġiba, hu għandu jiddeċiedi dwar il-piena li għandha tingħata skont id-dispożizzjonijiet ta’ subregolament (1), jekk ikun il-każ, iżda għandu jastjeni milli jinforma lill-uffiċjal dwar dan. Jekk l-uffiċjal jaqbel li jitlob tali għajnuna fi żmien għaxart (10) ijiem tax-xogħol, il-piena għandha tinżamm pendenti sakemm jitlesta b’suċċess il-programm. Il-Kap tad-Dipartiment għandu jiġi infurmat bil-progress li jkun qed isir mill-uffiċjal, u għal dawn il-finijiet, għandu jingħata rapport mill-entità kkonċernata. Il-Kap tad-Dipartiment imbagħad għandu jiddeċiedi jekk il-piena għandhiex tidħol fis-seħħ jew le;
 
 (b) meta l-uffiċjal ikun ġie infurmat li l-akkużi, jekk pruvati, jistgħu jwasslu għat-tkeċċija tiegħu, il-Kummissjoni għandha tipproċedi skont is-subregolament (2)(ċ). Jekk il-Kummissjoni, tqis li jkun fl-aħjar interess tal-uffiċjal jekk jiġi offrut l-opportunità li jirrijabilita ruħu, preferibbilment permezz ta’ entità mwaqqfa mill- Gvern biex tassisti uffiċjali pubbliċi li jesperjenzaw problemi personali, emozzjonali jew ta’ mġiba, u l-uffiċjal jaqbel li jitlob tali għajnuna professjonali fi żmien għaxart (10) ijiem tax-xogħol, il- Kummissjoni għandha tiddeċiedi dwar il-piena, jekk ikun hemm, li għandha tiġi rakkomandata sabiex tiġi imposta iżda għandha tastjeni milli tagħmel ir-rakkomandazzjoni tagħha lill-Prim Ministru jew lill- Kap tas-Servizz Pubbliku, skont il-każ, skont is-subregolament (2)(d). Ir-rakkomandazzjoni għandha tinżamm sospiża sakemm jitlesta b'suċċess il-programm ta' rijabilitazzjoni. Il-Kap tad-Dipartiment għandu jżomm lill-Kummissjoni infurmata bil-progress li jkun qed isir mill-uffiċjal, u għal dawn il-finijiet, għandu jingħata rapport mill-entità kkonċernata. Il-Kummissjoni mbagħad għandha tiddeċiedi jekk il-piena għandhiex issir effettiva jew le.
-
-*25*
 
 (4) Fi kwalunkwe każ, jekk uffiċjal jirrifjuta li jitlob l-għajnuna professjonali, jew ma jikkompletax b'suċċess il-programm ta' rijabilitazzjoni, għandha tiġi imposta l-piena oriġinarjament deċiża mill-Kap tad-Dipartiment jew mill-Kummissjoni, skont il-każ.
 
@@ -653,10 +579,6 @@ mar-rakkomandazzjoni tal-Bord fir-rigward tal-piena, il-Kap tad-Dipartiment għa
 (1) Ir-rekords ta’ kwalunkwe proċedimenti dixxiplinarji għandhom jiġbru fihom dan li ġej:
 
 (a) kull rapport bil-miktub li jsir kontra uffiċjal, jew rekord bil-miktub ta’ kull rapport verbali;
-
-*26*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
 
 (b) kull att ta’ akkuża jew akkużi;
 
@@ -686,11 +608,9 @@ Meta l-kontroll dixxiplinarju ma jkunx ġie delegat lil Kap ta’ Dipartiment je
 
 (a) kull meta Kap ta’ Dipartiment isir jaf li xi uffiċjal fid-dipartiment tiegħu jista’ jkun ħati ta’ mġiba ħażina, għandhom japplikaw id-dispożizzjonijiet tar-regolament 17(1)(a) u (b) u (ċ);
 
-(b) jekk l-uffiċjal akkużat jammetti l-akkuża jew l- TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 akkużi qabel ma l-Bord ta’ Dixxiplina jibda jisma’ l-każ, il-Kap ta’ Dipartiment għandu, kemm jista’ jkun malajr u fi kwalunkwe każ mhux aktar tard minn għaxart (10) ijiem tax-xogħol minn dik l-ammissjoni, jirreferi l-każ lill-Kummissjoni, li għandha tagħmel ir-rakkomandazzjoni tagħha lill-Prim Ministru dwar il-piena, jekk ikun il-każ, li għandha tiġi mogħtija lill-uffiċjal;
+(b) jekk l-uffiċjal akkużat jammetti l-akkuża jew l-akkużi qabel ma l-Bord ta’ Dixxiplina jibda jisma’ l-każ, il-Kap ta’ Dipartiment għandu, kemm jista’ jkun malajr u fi kwalunkwe każ mhux aktar tard minn għaxart (10) ijiem tax-xogħol minn dik l-ammissjoni, jirreferi l-każ lill-Kummissjoni, li għandha tagħmel ir-rakkomandazzjoni tagħha lill-Prim Ministru dwar il-piena, jekk ikun il-każ, li għandha tiġi mogħtija lill-uffiċjal;
 
 (ċ) jekk l-uffiċjal akkużat ma jammettix l-akkuża jew l-akkużi jew ma jagħtix risposta fi żmien għaxart (10) ijiem tax-xogħol, il-Kap tad-Dipartiment għandu, fi żmien għoxrin (20) jum tax-xogħol minn meta jirċievi r-risposta jew mid-data meta kellu jirċievi dik ir-risposta, jirreferi l-każ lil Bord ta’ Dixxiplina maħtur skont ir-regolament 18.
-
-*27*
 
 (d) qabel ma l-Bord ta’ Dixxiplina jwassal il-konklużjonijiet tiegħu lill-Kap tad-Dipartiment, lill-uffiċjal akkużat u lill-Kummissjoni, il-Bord għandu jiżgura li l-konklużjonijiet tiegħu jiġu komunikati verbalment lill-partijiet f’sessjoni finali li tinżamm għal dan il-għan;
 
@@ -706,9 +626,7 @@ Iżda jekk l-uffiċjal akkużat jista’ jiġi mkeċċi bħala riżultat tal-akk
 
 Il-kategoriji ta’ reati, f’sens wiesgħa, u tal-pieni korrispondenti li jistgħu jiġu imposti fuq ir-rakkomandazzjoni tal- Kummissjoni, jew minn Kap ta’ Dipartiment li jkun lilu ġie delegat kontroll dixxiplinarju skont l-artikolu 110 tal-Kostituzzjoni, jinsabu elenkati fl-Iskeda ta’ Reati u Pieni:
 
-*28   Kap. 164*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
+*  Kap. 164*
 
 Iżda fir-rigward ta’ uffiċjali tal-Pulizija, il-pieni applikabbli jkunu dawk stabbiliti fl-artikoli 31 u 32 tal-Att dwar il- Pulizija.
 
@@ -728,13 +646,11 @@ Iżda fir-rigward ta’ uffiċjali tal-Pulizija, il-pieni applikabbli jkunu dawk
 
 (6) Il-Kummissjoni, wara li tikkunsidra r-raġunijiet għall-appell, ir-rekords tal-proċedimenti, u kwalunkwe sottomissjonijiet bil-fomm, għandha tgħaddi biex tirrakkomanda lill-Prim Ministru jew il- Kap tas-Servizz Pubbliku, skont il-każ, li għandu jew jikkonferma jew jirrevoka d-deċiżjoni ta’ ħtija tal-appellant u l-piena imposta, jew li, huwa għandu jemenda l-piena mogħtija.
 
-(7) Meta r-rakkomandazzjoni tagħha tiġi approvata, il- Kummissjoni għandha tinforma lill-appellant dwar ir-riżultat tal-appell. TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 (8) L-ebda ħaġa f’dan ir-regolament ma għandha żżomm lill- Kummissjoni, sew qabel is-smigħ jew f’kull waqt matul is-smigħ tal-appell, milli sommarjament tiċħad jew ma tħallix illi jitkompla xi appell mingħajr ma tisimgħu jew tisimgħu ulterjorjament skont il-każ, minħabba li l-appell ikun frivolu jew vessatorju jew wieħed li ma kellux xort’oħra jitressaq jew jsir.
+(7) Meta r-rakkomandazzjoni tagħha tiġi approvata, il- Kummissjoni għandha tinforma lill-appellant dwar ir-riżultat tal-appell. (8) L-ebda ħaġa f’dan ir-regolament ma għandha żżomm lill- Kummissjoni, sew qabel is-smigħ jew f’kull waqt matul is-smigħ tal-appell, milli sommarjament tiċħad jew ma tħallix illi jitkompla xi appell mingħajr ma tisimgħu jew tisimgħu ulterjorjament skont il-każ, minħabba li l-appell ikun frivolu jew vessatorju jew wieħed li ma kellux xort’oħra jitressaq jew jsir.
 
 ### 28. Sospensjoni tal-piena sakemm isir l-appell.
 
 Piena mogħtija minn Kap ta’ Dipartiment li jkun qed jaġixxi b’delega ta’ awtorità ma għandhiex issir effettiva qabel ma jgħaddu mill-anqas għaxart (10) ijiem tax-xogħol minn meta l-uffiċjal ikun ġie avżat bil-piena mill-Kap tad-Dipartiment u, jekk ikun sar appell, dik il-piena ma għandhiex issir effettiva qabel ma jkun hemm deċiżjoni mill-Prim Ministru jew mill-Kap tas-Servizz Pubbliku, skont il-każ, li jaġixxi fuq rakkomandazzjoi tal-Kummissjoni.
-
-*29*
 
 ### 29. Appell mill-Kap tad-Dipartiment.
 
@@ -750,11 +666,7 @@ Piena mogħtija minn Kap ta’ Dipartiment li jkun qed jaġixxi b’delega ta’
 
 (1) Kull min hu jew kien uffiċjal pubbliku u ġie ippenalizzat skont dawn ir-regolamenti jew skont ir-Regolamenti tal- 1977 jew ir-Regolamenti tal-1999, jew ir-Regolamenti tal-2017, wara li ssir rakkomandazzjoni mill-Kummissjoni, jista’ jitlob lill- Kummissjoni sabiex din tirrevedi l-każ tiegħu bil-għan li tiġi revokata jew emendata r-rakkomandazzjoni li l-Kummissjoni kienet għamlet kontra tiegħu.
 
-(2) Il-petizzjoni għandha ssir bil-miktub u għandha [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-tintbagħat lis-Segretarju Eżekuttiv tal-Kummissjoni li għandu jirrikonoxxi li jkun irċieva l-petizzjoni.
-
-*30*
+(2) Il-petizzjoni għandha ssir bil-miktub u għandha tintbagħat lis-Segretarju Eżekuttiv tal-Kummissjoni li għandu jirrikonoxxi li jkun irċieva l-petizzjoni.
 
 (3) Il-Kummissjoni għandha, meta jsir dan, tibgħat kopja tal-petizzjoni lill-Prim Ministru għal kwalunkwe kumment li huwa jkun jixtieq jagħmel fi żmien xahar (1) minn meta huwa jirċievi dik il-kopja. Malli jgħaddi dak iż-żmien, il-Kummissjoni għandha tgħaddi biex teżamina dik il-petizzjoni.
 
@@ -778,11 +690,9 @@ tintbagħat lis-Segretarju Eżekuttiv tal-Kummissjoni li għandu jirrikonoxxi li
 
 (8) Wara li tkun ikkunsidrat petizzjoni taħt dan ir-regolament, il-Kummissjoni għandha tiddeċiedi jekk ir-rakkomandazzjoni oriġinali tagħha għandhiex tiġi konfermata, emendata jew revokata, u għandha tagħmel rakkomandazzjoni lill-Prim Ministru f’dan is-sens.
 
-(9) Meta r-rakkomandazzjoni tagħha tiġi approvata, il- TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 Kummissjoni għandha tgħarraf lil min għamel il-petizzjoni bir-riżultat tal-petizzjoni.
+(9) Meta r-rakkomandazzjoni tagħha tiġi approvata, il- Kummissjoni għandha tgħarraf lil min għamel il-petizzjoni bir-riżultat tal-petizzjoni.
 
 ## Taqsima IX — Tneħħija mill-Kariga
-
-*31*
 
 ### 31. Raġunijiet għat-tneħħija mill-kariga.
 
@@ -806,11 +716,7 @@ Il-ħatra ta’ uffiċjal tista’ tintemm għal dawn ir-raġunijiet li ġejjin:
 
 (4) Jekk l-uffiċjal jidhirlu li d-deċiżjoni tal-Kap tad- Dipartiment hija inġusta fil-konfront tiegħu, hu jista’ jappella lill- Kummissjoni dwar is-Servizz Pubbliku fi żmien għaxart (10) ijiem tax-xogħol, filwaqt li jelenka r-raġunijiet li għalihom jikkonsidra li d-deċiżjoni kienet inġusta fil-konfront tiegħu.
 
-(5) Appell taħt is-subregolament (4) għandu jiġi trattat mill- Kummissjoni b’urġenza. Il-Kummissjoni għandha titlob lill-Kap tad- Dipartiment sabiex jagħtiha l-opinjoni tiegħu dwar l-appell u tista’, fid-diskrezzjoni tagħha, tagħti lill-uffiċjal ikkonċernat u lill-Kap tad- Dipartiment l-opportunità li jagħmlu s-sottomissjonijiet tagħhom bil- [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-fomm.
-
-*32*
+(5) Appell taħt is-subregolament (4) għandu jiġi trattat mill- Kummissjoni b’urġenza. Il-Kummissjoni għandha titlob lill-Kap tad- Dipartiment sabiex jagħtiha l-opinjoni tiegħu dwar l-appell u tista’, fid-diskrezzjoni tagħha, tagħti lill-uffiċjal ikkonċernat u lill-Kap tad- Dipartiment l-opportunità li jagħmlu s-sottomissjonijiet tagħhom bil-fomm.
 
 (6) Jekk il-Kummissjoni tikkunsidra li appell magħmul taħt is-subregolament (4) huwa ġustifikat, hi għandha tannulla d-deċiżjoni tal-Kap tad-Dipartiment permezz ta’ rakkomandazzjoni lill-Prim Ministru jew lill-Kap tas-Servizz Pubbliku, skont il-każ, u meta din tiġi approvata, għandha tinforma lill-uffiċjal u lill-Kap tad-Dipartiment li l-uffiċjal, b’riżultat ta’ dan, għandu jiġi kkunsidrat bħala li għadu fl-impjieg fis-servizz pubbliku.
 
@@ -830,11 +736,9 @@ fomm.
 
 (4) Jekk fiż-żmien stabbilit, l-uffiċjal jonqos milli jiddikjara xi tkun l-għażla li huwa jagħmel, il-każ jiġi sospiż u titniżżel nota fir-rekord tas-servizz tiegħu fejn jiġi dikjarat li meta telaq mis-servizz, l-uffiċjal kellu każ ta’ dixxiplina pendenti.
 
-(5) Jekk persuna li tkun instabet ħatja skont is-subregolament (2) terġa’ tidħol fis-servizz pubbliku, sew fl-istess kariga li kellha sew f’kariga differenti, il-Kap tad-Dipartiment li jkun issa responsabbli għall-uffiċjal għandu, fi żmien tliet (3) xhur minn meta dak l-uffiċjal jerġa’ jidħol fis-servizz, jiddeċiedi dwar jekk għandhomx jitkomplew il-proċedimenti dixxiplinarji jew le bil-għan li tiġi imposta l-piena TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 dixxiplinarja adatta; u jekk il-Kap tad-Dipartiment jiddeċiedi li l-proċedimenti għandhom jitkomplew, huwa għandu jipproċedi skont ir-regolament 23 jew kwalunkwe dispożizzjoni oħra ta’ dawn ir-regolamenti li tista’ tkun applikabbli.
+(5) Jekk persuna li tkun instabet ħatja skont is-subregolament (2) terġa’ tidħol fis-servizz pubbliku, sew fl-istess kariga li kellha sew f’kariga differenti, il-Kap tad-Dipartiment li jkun issa responsabbli għall-uffiċjal għandu, fi żmien tliet (3) xhur minn meta dak l-uffiċjal jerġa’ jidħol fis-servizz, jiddeċiedi dwar jekk għandhomx jitkomplew il-proċedimenti dixxiplinarji jew le bil-għan li tiġi imposta l-piena dixxiplinarja adatta; u jekk il-Kap tad-Dipartiment jiddeċiedi li l-proċedimenti għandhom jitkomplew, huwa għandu jipproċedi skont ir-regolament 23 jew kwalunkwe dispożizzjoni oħra ta’ dawn ir-regolamenti li tista’ tkun applikabbli.
 
 (6) Jekk persuna li jkollha każ ta’ dixxiplina sospiż skont is-subregolamenti (3) jew (4) sussegwentement terġa’ tidħol fis-servizz, sew fl-istess kariga li kellha sew f’kariga differenti, il-Kap tad- Dipartiment li jkun issa responsabbli għall-uffiċjal għandu, fi żmien tliet (3) xhur minn meta dak l-uffiċjal jerġa’ jidħol fis-servizz, jiddeċiedi dwar jekk għandhomx jitkomplew il-proċedimenti dixxiplinarji jew le; u jekk il-Kap tad-Dipartiment jiddeċiedi li l-proċeduri għandhom jitkomplew, dawn għandhom hekk jitkomplew mill-fażi li jkunu waslu fiha qabel ma jkunu twaqqfu, ħlief li:
-
-*33*
 
 (a) kull terminu ta’ żmien li japplika għandu jitqies li jibda għaddej mid-data meta l-Kap tad-Dipartiment jinforma lill-uffiċjal bid-deciżjoni li tali proċedimenti dixxiplinarji għandhom jitkomplew, u
 
@@ -851,10 +755,6 @@ Bla ħsara għad-dispożizzjonijiet tal-artikolu 114 tal- Kostituzzjoni u ta’ 
 ### 36. Segretezza.
 
 L-ebda membru tal-Kummissjoni, la s-Segretarju Eżekuttiv u lanqas xi membru tal-istaff tal-Kummissjoni, lanqas xi uffiċjal pubbliku, bord jew awtorità, li jkollhom setgħat u funzjonijiet skont dawn ir-regolamenti, jew xi persuna oħra, ma għandha, mingħajr il-permess bil-miktub tal-Prim Ministru, tippubblika jew tiżvela lil xi persuna, ħlief fl-eżerċizzju tal-funzjonijiet uffiċjali tagħha, il-kontenut ta’ xi dokument, komunikazzjoni jew informazzjoni oħra ikun li jkun, li jkollu x’jaqsam ma’ xi azzjoni li ttieħdet skont dawn ir-regolamenti u li tkun saret taf biha.
-
-*34*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
 
 In-nuqqas ta’ osservanza tad-dispożizzjonijiet ta’ dan ir-regolament għandu, fil-każ ta’ uffiċjal pubbliku, jikkostitwixxi mġiba ħażina u, jew ksur ta’ dixxiplina.
 
@@ -884,9 +784,7 @@ Il-pieni dixxiplinarji għandhom jibqgħu rreġistrati fir-rekords tal-uffiċjal
 
 (a) jiġi kkonsultat kif xieraq f’waqtu fil-proċess kollu tal-applikazzjoni tar-restrizzjoni; u
 
-*35*
-
-TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 (b) iżomm reġistru sabiex jirreġistra r-restrizzjoni applikata fir-rigward tat-talba magħmula mis-suġġett tad-data, liema reġistru għandu jinkludi d-dettalji tas-suġġett tad-data, id-dritt mitlub li jiġi eżerċitat li kien ristrett, u l-iskop wara tali restrizzjoni.
+(b) iżomm reġistru sabiex jirreġistra r-restrizzjoni applikata fir-rigward tat-talba magħmula mis-suġġett tad-data, liema reġistru għandu jinkludi d-dettalji tas-suġġett tad-data, id-dritt mitlub li jiġi eżerċitat li kien ristrett, u l-iskop wara tali restrizzjoni.
 
 (5) Meta r-raġuni għar-restrizzjoni kif stipulata fis-subregolament (3) ma tibqax tapplika, il-Kummissjoni dwar is-Servizz Pubbliku għandha tneħħi r-restrizzjoni u tinforma lis-suġġett tad-data kkonċernat u tikkonforma mad-drittijiet u l-obbligi provduti fl-artikoli 14 sa 20 u l-artikolu 34 tar-Regolament Ġenerali dwar il-Protezzjoni tad-Data.
 
@@ -903,10 +801,6 @@ Iżda l-Kummissjoni dwar is-Servizz Pubbliku għandha tiġġustifika l-preġudiz
 (2) Meta l-proċedimenti dixxiplinarji jew petizzjonijiet għal reviżjoni ta’ rakkomandazzjoni preċedenti tal-Kummissjoni jkunu nbdew taħt u kif hemm fir-Regolamenti tal-2017, u, jew fir- Regolamenti tal-1999 (revokati taħt ir-Regolamenti tal-2017) u, jew fir-Regolamenti tal-1977 (revokati taħt r-Regolamenti tal-1999), dawk il-proċedimenti jew reviżjoni għandhom jitkomplew u jintemmu taħt u skont ir-regolamenti rispettivi bħallikieku r-regolamenti msemmija ma kinux ġew imħassra:
 
 Iżda d-dispożizzjonijiet dwar pieni dixxiplinarji li japplikaw fil-każ ta’ dawk il-proċedimenti jew reviżjoni għandhom ikunu dawk li jkunu l-aktar favorevoli għall-uffiċjal akkużat.
-
-*36*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
 
 ## Skeda ta’ Reati u Pieni
 
@@ -944,11 +838,9 @@ Imġiba mhux professjonali u mhux etika
 
 (l) aġir li x’aktarx iġib telf ta’ reputazzjoni għad-dipartiment jew jagħti reputazzjoni ħażina lis-servizz pubbliku;
 
-(m) kwalunkwe reat kriminali mwettaq minn uffiċjal fuq il-post tax-xogħol tiegħu jew waqt il-qadi ta’ dmirijietu, bla ħsara għad-dispożizzjonijiet tat-Taqsima IV ta’ dawn TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 irregolamenti.
+(m) kwalunkwe reat kriminali mwettaq minn uffiċjal fuq il-post tax-xogħol tiegħu jew waqt il-qadi ta’ dmirijietu, bla ħsara għad-dispożizzjonijiet tat-Taqsima IV ta’ dawn irregolamenti.
 
 Imġiba bla rispett
-
-*37*
 
 1.2 Uffiċjal pubbliku jkun soġġett għal proċedimenti dixxiplinarji għal imġiba bla rispett lejn kollegi, uffiċjali superjuri jew il-pubbliku u, mingħajr preġudizzju għal dak li ntqal qabel, din l-imġiba għandha tinkludi:
 
@@ -980,11 +872,7 @@ Negliġenza jew traskuraġni fit-twettiq ta’ dmirijiet
 
 (f) ħabi ta’ xogħol difettuż;
 
-(g) nuqqas ta’ osservanza ta’ xi ordni, direttiva jew istruzzjoni legali u raġjonevoli, kemm jekk bil-miktub jew bil- [L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
-
-fomm, li tingħata minn uffiċjal superjuri jew awtorità;
-
-*38*
+(g) nuqqas ta’ osservanza ta’ xi ordni, direttiva jew istruzzjoni legali u raġjonevoli, kemm jekk bil-miktub jew bil-fomm, li tingħata minn uffiċjal superjuri jew awtorità;
 
 (h) nuqqas ta’ twettiq ta’ funzjonijiet ta’ sorveljanza xierqa;
 
@@ -1014,9 +902,7 @@ Pieni għal Każijiet Minuri
 
 (d) għar-Raba’ Każ Dixxiplinarju - Tkeċċija.
 
-*39*
-
-TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU [L.S.KOST.07 3.2 Sabiex jiġi stabbilit jekk l-akkuża dixxiplinarja tkunx l-ewwel, it-tieni, it-tielet jew ir-raba’ każ minuri, ma għandhomx jitqiesu reati li jkunu ġraw qabel erbgħa u għoxrin (24) xahar mid-data tar-reat li jkun qed jiġi investigat.
+3.2 Sabiex jiġi stabbilit jekk l-akkuża dixxiplinarja tkunx l-ewwel, it-tieni, it-tielet jew ir-raba’ każ minuri, ma għandhomx jitqiesu reati li jkunu ġraw qabel erbgħa u għoxrin (24) xahar mid-data tar-reat li jkun qed jiġi investigat.
 
 3.3 Uffiċjal li jikkommetti reat dixxiplinarju minuri jista’ jiġi mkeċċi biss jekk ir-reat jitwettaq waqt li jkun taħt twissija ta’ tkeċċija li toħroġ minn każ minuri preċedenti, anke jekk dan ma jkunx ir-raba’ każ minuri:
 
@@ -1041,10 +927,6 @@ Pieni għal Reati Serji (inklużi kundanni f’każ kriminali)
 4.3 Uffiċjal li jiġi akkużat b’reat dixxiplinarju serju waqt li jkun taħt twissija ta’ tkeċċija għandu, bħala riżultat ta’ dan, ikollu dak ir-reat kategorizzat bi grad ogħla, u l-uffiċjal għandu jkun infurmat li l-każ jista’ jwassal għat-tkeċċija, irrispettivament jekk it-twissija ta’ tkeċċija kinitx ġiet imposta wara każ minuri jew serju jew wara proċedimenti taħt ir-regolament 15.
 
 4.4 L-applikazzjoni tal-pieni taħt dan il-paragrafu għandha tkun soġġetta għad-diskrezzjoni tal-Kap tad-Dipartiment jew tal- Kummissjoni skont ir-regolamenti 23(1) u (2) u 25, kif ikun applikabbli. Fil-każ ta’ uffiċjal li jkun ġie sospiż għal finijiet ta’ prekawzjoni, għandhom japplikaw ukoll id-dispożizzjonijiet tar-regolament 12(6).
-
-*40*
-
-[L.S. KOST.07 TAL-KUMMISSJONI DWAR IS-SERVIZZ PUBBLIKU
 
 ### 5.
 

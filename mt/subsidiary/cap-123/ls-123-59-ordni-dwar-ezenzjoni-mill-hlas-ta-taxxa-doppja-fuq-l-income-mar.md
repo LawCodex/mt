@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Għarbija tas-Sirja (S.L. 123.59)
 
-[ L.S.123.59
-
 LE{ISLAZZJONI SUSSIDJARJA 123.59
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’
@@ -111,9 +109,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 **TIFSIRIET {ENERALI**
 
-\1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma [ L.S.123.59
-
-te]tie[x xort’o]ra:
+\1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma te]tie[x xort’o]ra:
 
 (a) il-fra\\ijiet ''Stat Kontraenti'' u ''l-Istat Kontraenti l-ie]or'' ifissru Malta jew is-Sirja, skond ir-rabta tal-kliem;
 
@@ -197,8 +193,6 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i ''stabb
 
 (`) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ pro`essar minn impri\\a o]ra;
 
-[ L.S.123.59
-
 (d) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku ta’ xiri ta’ o[[etti jew merkanzija jew ta’ [bir ta’ tag]rif g]all-impri\\a;
 
 (e) il-manutenzjoni ta’ post fiss ta’ negozju g]all-iskop uniku li ti[i [estita, g]all-impri\\a, xi attività o]ra ta’ xorta preparatorja jew aw\\iljarja;
@@ -257,8 +251,6 @@ Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u trattati sep
 
 Id-disposizzjonijiet ta’ dan l-Artikolu ma g]andhomx jolqtu d-disposizzjonijiet tal-li[i ta’ l-Istat Kontraenti dwar l-intaxxar ta’ profitti mill-kummer` ta’ l-assigurazzjoni.
 
-[ L.S.123.59
-
 **Artikolu 8**
 
 **TBA}}IR U TRASPORT BL-AJRU**
@@ -313,9 +305,7 @@ profitti ta’ kumpannija u d-dividendi mqassma minn dik il-kumpannija, skond il
 
 (b) dak l-img]ax jit]allas g]ar-rigward ta’ xi pretensjoni ta'’debitu jew self li jkun garantit, assigurat jew appo[[at minn Stat Kontraenti jew minn xi persuna o]ra li ta[ixxi f’isem Stat Kontraenti.
 
-\4. Il-fra\\i ''mg]ax'' kif din tintu\\a f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk ipotekati sew jekk le u sew jekk [ L.S.123.59
-
-jag]ti xi jedd g]al sehem fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-gvern u income minn bonds jew debentures, inklu\\i premiums u premjijiet marbutin ma’ titoli, bonds jew debentures simili. Il-penalitajiet g]al ]las tardiv m’g]andhomx jitqiesu b]ala mg]ax g]all-g]anijiet ta’ dan l-Artikolu.
+\4. Il-fra\\i ''mg]ax'' kif din tintu\\a f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk ipotekati sew jekk le u sew jekk jag]ti xi jedd g]al sehem fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-gvern u income minn bonds jew debentures, inklu\\i premiums u premjijiet marbutin ma’ titoli, bonds jew debentures simili. Il-penalitajiet g]al ]las tardiv m’g]andhomx jitqiesu b]ala mg]ax g]all-g]anijiet ta’ dan l-Artikolu.
 
 \5. Id-disposizzjonijiet tal-paragrafi 1 u 2 m’g]andhomx japplikaw jekk is-sid benefi`jarju ta’ l-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
 
@@ -363,9 +353,7 @@ Meta, madankollu, l-persuna li tkun qed t]allas ir-royalties, sew jekk tkun resi
 
 (a) jekk ikollu ba\\i stabbilita regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u; f’dak il-ka\\ hi biss dik il-parti mill-income tieg]u daqskemm tkun attribwibbli lil dik il-ba\\i stabbilita li tista’ ti[i intaxxata f’dak l-Istat Kontraenti l-ie]or;
 
-(b) jekk il-qag]da tieg]u fl-Istat Kontraenti l-ie]or tkun g]al perjodu jew [ L.S.123.59
-
-g]al perjodi li fit-total ikunu jaqb\\u l-183 [urnata f’perjodu ta’ tnax-il xahar li jibda g]addej jew itemm fis-sena fiskali involuta; f’dak il-ka\\ hi biss dik il-parti mill-income tieg]u daqskemm tinkiseb mill-attività tieg]u eser`itata fl-Istat Kontraenti l-ie]or li tista’ ti[i intaxxata f’dak l- Istat l-ie]or.
+(b) jekk il-qag]da tieg]u fl-Istat Kontraenti l-ie]or tkun g]al perjodu jew g]al perjodi li fit-total ikunu jaqb\\u l-183 [urnata f’perjodu ta’ tnax-il xahar li jibda g]addej jew itemm fis-sena fiskali involuta; f’dak il-ka\\ hi biss dik il-parti mill-income tieg]u daqskemm tinkiseb mill-attività tieg]u eser`itata fl-Istat Kontraenti l-ie]or li tista’ ti[i intaxxata f’dak l- Istat l-ie]or.
 
 \2. Il-fra\\i ''servizzi professjonali'' tinkludi attivitajiet letterarji, artisti`i, edukattivi jew ta’ tag]lim li huma spe`jalment indipendenti kif ukoll l-attivitajiet indipendenti ta’ tobba, avukati, in[iniera, periti u accountants.
 
@@ -437,9 +425,7 @@ spettaklu jew ta’ l-isportiv ji[u e\\er`itati.
 
 **STUDENTI**
 
-Kull ]las li student jew apprendist fil-kummer` li jkun jew kien minnufih [ L.S.123.59
-
-qabel ma j\\ur Stat Kontraenti residenti ta’ l-Istat Kontraenti l-ie]or u li jkun pre\\enti fl-ewwel imsemmi Stat unikament g]all-g]an ta’ l-edukazzjoni jew it-ta]ri[ tieg]u jir`ievi g]all-fini ta’ mantniment, l-edukazzjoni jew it-ta]ri[ tieg]u ma jkunx taxxabbli f’dak l-Istat, sakemm dawk il-]lasijiet jori[inaw minn g]ejjun li ma jkunux f’dak l-Istat.
+Kull ]las li student jew apprendist fil-kummer` li jkun jew kien minnufih qabel ma j\\ur Stat Kontraenti residenti ta’ l-Istat Kontraenti l-ie]or u li jkun pre\\enti fl-ewwel imsemmi Stat unikament g]all-g]an ta’ l-edukazzjoni jew it-ta]ri[ tieg]u jir`ievi g]all-fini ta’ mantniment, l-edukazzjoni jew it-ta]ri[ tieg]u ma jkunx taxxabbli f’dak l-Istat, sakemm dawk il-]lasijiet jori[inaw minn g]ejjun li ma jkunux f’dak l-Istat.
 
 **Artikolu 21**
 
@@ -489,9 +475,7 @@ qabel ma j\\ur Stat Kontraenti residenti ta’ l-Istat Kontraenti l-ie]or u li j
 
 **SKAMBJU TA’ INFORMAZZJONI**
 
-\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tista’ tkun me]tie[a g]at-twettiq tad-disposizzjonijiet ta’ dan il- Ftehim jew tal-li[ijiet domesti`i ta’ l-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]thom ma jkunx kuntrarju g]all-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta mill-Istat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) [ L.S.123.59
-
-involuti fl-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`i\\joni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f’de`i\\jonijiet [udizzjarji.
+\1. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tista’ tkun me]tie[a g]at-twettiq tad-disposizzjonijiet ta’ dan il- Ftehim jew tal-li[ijiet domesti`i ta’ l-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]thom ma jkunx kuntrarju g]all-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta mill-Istat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew awtoritajiet (inklu\\i qrati u korpi amministrattivi) involuti fl-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`i\\joni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f’de`i\\jonijiet [udizzjarji.
 
 \2. F’ebda ka\\ ma g]andhom id-disposizzjonijiet tal-paragrafu 1 jiftiehmu b]ala li jimponu fuq Stat Kontraenti l-obbligu:
 

@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar dwar it-Tribunal ta' Reviżjoni dwar Saħħa Mentali"
-identifier: "S.L. 262.3"
+identifier: "S.L. 262.03"
 eli: "https://legislation.mt/eli/sl/262.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/262.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar dwar it-Tribunal ta' Reviżjoni dwar Saħħa Mentali (S.L. 262.3)
+# Regoli dwar dwar it-Tribunal ta' Reviżjoni dwar Saħħa Mentali (S.L. 262.03)
 
 LE{ISLAZZJONI SUSSIDJARJA 262.03
 

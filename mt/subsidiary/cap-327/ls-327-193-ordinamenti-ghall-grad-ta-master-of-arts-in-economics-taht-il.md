@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Economics taħt il-patroċinju tal-Fakultà ta’ l-Ekonomija, il-Management u l-Accountancy (S.L. 327.193)
 
-PATRO~INJU TAL-FAKULTÀ TA’ L-EKONOMIJA,
-
-*1*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [S.L.327.193
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.193**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER OF**
@@ -75,13 +69,7 @@ Dawn l-ordinamenti g]andhom japplikaw g]all-korsijiet li jibdew f’Ottubru 2011
 
 (1) Il-programm preparatorju g]andu jkun mag]mul minn taqsimiet studju li g]alihom hemm assenjati mhux anqas minn 30 kredtu.
 
-(2) L-istudenti g]andhom ikunu me]tie[a jtemmu b’su``ess il- PATRO~INJU TAL-FAKULTÀ TA’ L-EKONOMIJA,
-
-*2*
-
-[S.L.327.193 IL-MANAGEMENT U L-ACCOUNTANCY
-
-programm preparatoriu ta’ studju b’marka medja ta’ 55% jew a]jar qabel jirre[istraw g]all-kors.
+(2) L-istudenti g]andhom ikunu me]tie[a jtemmu b’su``ess il-programm preparatoriu ta’ studju b’marka medja ta’ 55% jew a]jar qabel jirre[istraw g]all-kors.
 
 (3) Il-Bord jista’ je\\enta lill-istudenti milli jag]mlu l- Programm Preparatorju kollu jew parti minnu jekk ikun sodisfatt li l-istudenti g]andhom esperjenza ta’ xog]ol rilevanti g]all-kors, miksuba wara l-kwalifika ta’ wara l-ewwel `iklu.
 
@@ -119,11 +107,7 @@ Il-programm ta’ studju g]andu jkun ippubblikat wara l-approvazzjoni tas-Senat,
 
 (1) Il-valutazzjoni ta’ kull taqsima studju mg]allma g]andha tkun kompluta sa l-a]]ar tas-semestru li fih ikun sar it-tag]lim tat-taqsimu studju.
 
-(2) Dawk l-istudenti li f’xi sena akkademika je]lu fil- PATRO~INJU TAL-FAKULTÀ TA’ L-EKONOMIJA,
-
-*3*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [S.L.327.193 valulazzjoni ta’ mhux akrar minn 25 kredtu g]al taqsimiet studju mg]allma, jekk ikunu qeg]din isegwu l-kors full-time, jew mhux aktar minn 16-il kredtu jekk ikunu qeg]din isegwu l-kors part-time, jing]ataw l-opportunità li joqog]du g]all-valutazzjoni mill-[did fit-taqsimiet studju li we]lu minnhom fis-sessjoni ta’ l-e\\amijiet supplimentari ta’ Settembru.
+(2) Dawk l-istudenti li f’xi sena akkademika je]lu fil-valulazzjoni ta’ mhux akrar minn 25 kredtu g]al taqsimiet studju mg]allma, jekk ikunu qeg]din isegwu l-kors full-time, jew mhux aktar minn 16-il kredtu jekk ikunu qeg]din isegwu l-kors part-time, jing]ataw l-opportunità li joqog]du g]all-valutazzjoni mill-[did fit-taqsimiet studju li we]lu minnhom fis-sessjoni ta’ l-e\\amijiet supplimentari ta’ Settembru.
 
 (3) L-istudenti li je]lu f’aktar mill-g]add ta’ kredti permess skond il-paragrafu (2) jew l-istudenti li wara valutazzjoni mill-[did ma jiksbux il-kredti g]al xi taqsima studju, jkunu meqjusa li we]lu mill-kors.
 

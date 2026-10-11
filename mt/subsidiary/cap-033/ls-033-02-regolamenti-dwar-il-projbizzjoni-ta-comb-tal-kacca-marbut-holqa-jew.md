@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Projbizzjoni ta' Ċomb tal-Kaċċa Marbut Ħolqa jew Ikkatenat"
-identifier: "S.L. 33.2"
+identifier: "S.L. 33.02"
 eli: "https://legislation.mt/eli/sl/33.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/33.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Projbizzjoni ta' Ċomb tal-Kaċċa Marbut Ħolqa jew Ikkatenat (S.L. 33.2)
-
-PROJBIZZJONI TA’ ~OMB TAL-KA~~A
-
-MARBUT }OLQA JEW IKKATENAT [ L.S.33.02
+# Regolamenti dwar il-Projbizzjoni ta' Ċomb tal-Kaċċa Marbut Ħolqa jew Ikkatenat (S.L. 33.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 33.02**
 

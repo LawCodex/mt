@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, Ekonomija u Investiment għall-Ħruġ ta’ €100,000,000 (S.L. 161.82)
 
-2013 (IR-RABA’ }RU{); JEW 5.2% STOCK TAL-GVERN TA’ MALTA
-
-(2021) (L-EWWEL }RU{); JEW (III) F’AMMONTI MI|-|EW{
-
-*1*
-
-STOCKS B’VALUR NOMINALI FLIMKIEN TA’ €100,000,000 [L.S 161.82 LE{ISLAZZJONI SUSSIDJARJA 161.82
+**LE{ISLAZZJONI SUSSIDJARJA 161.82**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**
 
@@ -69,13 +63,7 @@ Is-somma ta’ flus li g]andha tin[abar bl-iStocks imsemmija flimkien tkun ta’
 
 ## 6. Rata ta’ mg]ax u dati tal-]las.
 
-(a) L-img]ax bir-rata ta’ Ewro 1.80 g]al kull Euro 100, 3.6% Stock tal-Gvern ta’ Malta 2013 (IV) jit]allas kull sitt xhur b’lura fit-18 ta’April u fit-18 ta’ Ottubru ta’ 2013 (IR-RABA’ }RU{); JEW 5.2% STOCK TAL-GVERN TA’ MALTA (2021) (L-EWWEL }RU{); JEW (III) F’AMMONTI MI|-|EW{
-
-**STOCKS B’VALUR NOMINALI FLIMKIEN TA’ €100,000,000**
-
-*[L.S 161.82 2*
-
-kull sena sakemm idum l-iStock. L-ewwel ]las pro rata relattiv g]all-perjodu bejn l-14 ta’ Awwissu, 2009 u s- 17 ta’ Ottubru, 2009 (i\\-\\ew[ dati inklu\\i) jsir fit-18 ta’ Ottubru, 2009.
+(a) L-img]ax bir-rata ta’ Ewro 1.80 g]al kull Euro 100, 3.6% Stock tal-Gvern ta’ Malta 2013 (IV) jit]allas kull sitt xhur b’lura fit-18 ta’April u fit-18 ta’ Ottubru ta’ kull sena sakemm idum l-iStock. L-ewwel ]las pro rata relattiv g]all-perjodu bejn l-14 ta’ Awwissu, 2009 u s- 17 ta’ Ottubru, 2009 (i\\-\\ew[ dati inklu\\i) jsir fit-18 ta’ Ottubru, 2009.
 
 (b) L-img]ax bir-rata ta’ Ewro 2.50 g]al kull Euro100, 5% Stock tal-Gvern ta’ Malta 2021 (I) jit]allas kull sitt xhur b’lura fit-8 ta’ Frar u fit-8 ta’ Awwissu ta’ kull sena sakemm idum l-iStock. L-ewwel ]las pro rata relattiv g]all-perjodu bejn l-14 ta’ Awwissu, 2009 u s- 7 ta’ Frar, 2010 (i\\-\\ew[ dati inklu\\i) jsir fit-8 ta’ Frar, 2010.
 

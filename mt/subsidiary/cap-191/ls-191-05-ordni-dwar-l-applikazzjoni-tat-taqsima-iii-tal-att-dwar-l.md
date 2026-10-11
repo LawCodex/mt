@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Qorti Ewropea tad-Drittijiet tal-Bniedem)"
-identifier: "S.L. 191.5"
+identifier: "S.L. 191.05"
 eli: "https://legislation.mt/eli/sl/191.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/191.5/20130305/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Qorti Ewropea tad-Drittijiet tal-Bniedem) (S.L. 191.5)
-
-APPLIKAZZJONI TAT-TAQSIMA III TAL-ATT DWAR
-
-L-IMMUNITAJIET U L-PRIVILEĠĠI DIPLOMATIĊI
-
-*1*
-
-(QORTI EWROPEA TAD-DRITTIJIET TAL-BNIEDEM) [L.S.191.05
+# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Qorti Ewropea tad-Drittijiet tal-Bniedem) (S.L. 191.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 191.05**
 

@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Preżentata ta’ Ittri Uffiċjali permezz ta’ Mezzi Elettroniċi fil-Qrati ta’ Malta u Għawdex (S.L. 12.29)
 
-PREŻENTATA TA’ ITTRI UFFIĊJALI
-
-PERMEZZ TA’ MEZZI ELETTRONIĊI
-
-*1*
-
-FIL-QRATI TA’ MALTA U GĦAWDEX [L.S.12.29
-
 **LEĠISLAZZJONI SUSSIDJARJA 12.29**
 
 REGOLAMENTI DWAR IL-PREŻENTATA TA’ ITTRI UFFIĊJALI PERMEZZ TA’ MEZZI ELETTRONIĊI

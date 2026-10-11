@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Att dwar il-Bank Ċentrali ta’ Malta (Tariffi tal-Interkambju għat-Transazzjonijiet ta’ Pagament permezz ta’ Kard ta’ Debitu u Kreditu)"
-identifier: "S.L. 204.8"
+identifier: "S.L. 204.08"
 eli: "https://legislation.mt/eli/sl/204.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/204.8/20160802/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Att dwar il-Bank Ċentrali ta’ Malta (Tariffi tal-Interkambju għat-Transazzjonijiet ta’ Pagament permezz ta’ Kard ta’ Debitu u Kreditu) (S.L. 204.8)
-
-ATT DWAR IL-BANK ĊENTRALI TA’ MALTA (TARIFFI TAL-
-
-INTERKAMBJU GĦAT-TRANSAZZJONIJIET TA’ PAGAMENT
-
-*1*
-
-PERMEZZ TA’ KARD TA’ KARD TA’ DEBITU U KREDITU) [L.S.204.08
+# Regolamenti dwar l-Att dwar il-Bank Ċentrali ta’ Malta (Tariffi tal-Interkambju għat-Transazzjonijiet ta’ Pagament permezz ta’ Kard ta’ Debitu u Kreditu) (S.L. 204.08)
 
 **SUBSIDIARY LEGISLATION 204.08**
 

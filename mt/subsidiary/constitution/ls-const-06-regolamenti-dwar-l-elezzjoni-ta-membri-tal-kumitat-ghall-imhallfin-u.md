@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Elezzjoni ta’ Membri tal-Kumitat għall-Imħallfin u l-Maġistrati"
-identifier: "S.L. const.6"
+identifier: "S.L. const.06"
 eli: "https://legislation.mt/eli/sl/const.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,11 @@ version: "https://legislation.mt/eli/sl/const.6/20171127/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Elezzjoni ta’ Membri tal-Kumitat għall-Imħallfin u l-Maġistrati (S.L. const.6)
+# Regolamenti dwar l-Elezzjoni ta’ Membri tal-Kumitat għall-Imħallfin u l-Maġistrati (S.L. const.06)
 
-*1*
+**LEĠISLAZZJONI SUSSIDJARJA KOST.06**
 
-GĦALL-IMĦALLFIN U L-MAĠISTRATI [L.S.KOST.06 LEĠISLAZZJONI SUSSIDJARJA KOST.06 REGOLAMENT DWAR L-ELEZZJONI TA’ MEMBRI
+REGOLAMENT DWAR L-ELEZZJONI TA’ MEMBRI
 
 **TAL-KUMITAT GĦALL-IMĦALLFIN U**
 
@@ -51,11 +51,7 @@ L-elezzjoni ta’ żewġ imħallfin tal-Qrati Superjuri għandha titmexxa kif ġ
 
 ## 4. Meta jiġu nominati żewġ kandidati biss.
 
-Jekk sa mill-bidu jiġu nominati żewġ kandidati biss, dawn għandhom jitqiesu li ġew eletti membri tal-Kumitat għall- [L.S.KOST.06 GĦALL-IMĦALLFIN U L-MAĠISTRATI
-
-Imħallfin u l-Maġistrati.
-
-*2*
+Jekk sa mill-bidu jiġu nominati żewġ kandidati biss, dawn għandhom jitqiesu li ġew eletti membri tal-Kumitat għall- Imħallfin u l-Maġistrati.
 
 ## 5. Il-Prim Imħallef imexxi l-laqgħa u l-elezzjoni.
 

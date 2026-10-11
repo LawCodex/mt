@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Professjoni tal-Accountancy"
-identifier: "S.L. 281.1"
+identifier: "S.L. 281.01"
 eli: "https://legislation.mt/eli/sl/281.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/281.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Professjoni tal-Accountancy (S.L. 281.1)
+# Regolamenti dwar il-Professjoni tal-Accountancy (S.L. 281.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 281.01**
 

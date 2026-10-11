@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Access to Education taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.472)
 
-*1*
-
-TAĦT IL-PATROĊUNJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.472
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.472**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -76,11 +72,9 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 jew
 
-(i) grad tal-ewwel ċiklu fl-Edukazzjoni jew fil- Communciation Therapy ikklassifikat mill-anqas fit-Tieni Klassi (bl-Unuri) flimkien ma’ minimu ta’ sentejn esperjenza ta’ xogħol fl- [L.S.327.472 TAĦT IL-PATROĊUNJU TAL-FAKULTÀ TAL-EDUKAZZJONI edukazzjoni jew fil-communication therapy;
+(i) grad tal-ewwel ċiklu fl-Edukazzjoni jew fil- Communciation Therapy ikklassifikat mill-anqas fit-Tieni Klassi (bl-Unuri) flimkien ma’ minimu ta’ sentejn esperjenza ta’ xogħol fl-edukazzjoni jew fil-communication therapy;
 
 jew
-
-*2*
 
 (ii) grad tal-ewwel ċiklu fi kwalunkwe qasam ieħor ikklassifikat mill-anqas fit-Tieni Klassi (bl- Unuri), flimkien mal-Postgraduate Certificate in Education fi kwalunkwe qasam u minimu ta’ sentejn esperjenza ta’ xogħol fl-edukazzjoni; jew
 
@@ -109,10 +103,6 @@ jew
 (iv) kwalunkwe grad tal-ewwel ċiklu segwit minn kwalifika rikonoxxuta fit-tagħlim flimkien ma’ sena ta’ esperjenza fl-ambjent tal-edukazzjoni.” (2) Il-Bord tal-Istudji għandu jirrakkomanda lis-Senat l-għadd tal-applikanti li jistgħu jirreġistraw għal kull qasam ta’ speċjalizzazzjoni, skont ir-riżorsi disponibbli. L-għadd ta’ postijiet disponibbli għandu jkun imħabbar fiż-żmien meta toħroġ is-sejħa għall-applikazzjonijiet.
 
 (3) Jekk in-numru tal-applikanti jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti għandhom ikunu magħżula skont dawn il-kriterji li ġejjin, li għandhom jingħataw piż kif ġej:
-
-*3*
-
-TAĦT IL-PATROĊUNJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.472
 
 (a) it-tip u l-klassifikazzjoni tal-grad - 20%;
 
@@ -159,10 +149,6 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 ## 9. Pubblikazzjoni tal-programm ta’ studju.
 
 Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
-
-*4*
-
-[L.S.327.472 TAĦT IL-PATROĊUNJU TAL-FAKULTÀ TAL-EDUKAZZJONI
 
 ## 10. Valutazzjoni u progress.
 

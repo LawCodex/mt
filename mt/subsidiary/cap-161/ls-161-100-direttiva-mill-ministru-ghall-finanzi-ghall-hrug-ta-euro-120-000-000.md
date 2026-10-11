@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru għall-Finanzi għall-ħruġ ta’ Euro 120,000,000 Stock tal-Gvern ta’ Malta (S.L. 161.100)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [L.S.161.100
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.100**
 
 DIRETTIVA TAL-MINISTRU GĦALL-FINANZI
@@ -69,11 +65,7 @@ Is-somma ta’ flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta�
 
 (1) L-imgħax bir-rata ta’ Euro 1.00 għal kull Euro 100, tat- 2% Stock tal-Gvern ta’ Malta 2020 (V) jitħallas kull sitt xhur b’lura fis-26 ta’ Marzu u fis-26 ta’ Settembru ta’ kull sena sakemm idum l-iStock:
 
-(a) l-ewwel ħlas pro rata tal-imgħax fuq l-ammont allokat mill-applikazzjonijiet sottomessi minn membri tal- [L.S.161.100 STOCK TAL-GVERN TA’ MALTA
-
-pubbliku, li jkopri il-perjodu bejn it-2 ta’ Marzu, 2015 u l-25 ta’ Marzu, 2015 (iż-żewġ dati inklużi) jsir fis-26 ta’ Marzu, 2015;
-
-*2*
+(a) l-ewwel ħlas pro rata tal-imgħax fuq l-ammont allokat mill-applikazzjonijiet sottomessi minn membri tal-pubbliku, li jkopri il-perjodu bejn it-2 ta’ Marzu, 2015 u l-25 ta’ Marzu, 2015 (iż-żewġ dati inklużi) jsir fis-26 ta’ Marzu, 2015;
 
 (b) l-ewwel ħlas pro rata tal-imgħax fuq l-ammont allokat mill-applikazzjonijiet b’irkant sottomessi minn investituri istituzzjonali, li jkopri l-perjodu bejn l-4 ta’ Marzu, 2015 u l-25 ta’ Marzu, 2015 (iż-żewġ dati inklużi) isir fis-26 ta’ Marzu, 2015.
 

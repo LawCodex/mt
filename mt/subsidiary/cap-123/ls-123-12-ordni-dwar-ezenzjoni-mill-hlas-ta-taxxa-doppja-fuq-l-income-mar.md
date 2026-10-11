@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika ta' l-Awstrja (S.L. 123.12)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-AWSTRJA [L.S.123.12
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.12**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -107,9 +103,7 @@ Dan il-Ftehim japplika għall-persuni li huma residenti ta’ wieħed mill-Istat
 
 (viii) it-taxxa fuq l-impriżi agrikoli u ta’ forestrija (die Abgabe von land und forstwirtschaftlichen Betrieben);
 
-(ix) kontribuzzjonijiet minn impriżi agrikoli u ta’ forestrija għall- Fund for the Equalisation of Family Burdens (die Beitrage von land und forstwirtschaftlichen Betrieben zum Ausgleichsfonds fur FUQ L-INCOME MAR-REPUBBLIKA TAL-AWSTRJA [L.S.123.12 3
-
-Familienbeihilfen);
+(ix) kontribuzzjonijiet minn impriżi agrikoli u ta’ forestrija għall- Fund for the Equalisation of Family Burdens (die Beitrage von land und forstwirtschaftlichen Betrieben zum Ausgleichsfonds fur Familienbeihilfen);
 
 (x) it-taxxa fuq il-valur ta’ plots vakanti (die Abgabe vom Bodenwert bei unbebauten Grundstucken);
 
@@ -177,9 +171,7 @@ persuna, soċjetà jew assoċjazzjoni ġuridika li tikseb dak l-istat tagħha bi
 
 (d) Jekk dan ikun nazzjonali taż-żewġ Stati Kontraenti jew ta’ ebda wieħed minnhom, l-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jippruvaw jiddeċiedu bi ftehim bejniethom.
 
-(3) Meta minħabba d-dispożizzjonijiet tal-paragrafu (1), persuna li ma tkunx individwu tkun residenti taż-żewġ Stati Kontraenti, allura għandha titqies li hi FUQ L-INCOME MAR-REPUBBLIKA TAL-AWSTRJA [L.S.123.12 5
-
-residenti ta’ dak l-Istat Kontraenti li fih ikun sitwat il-post ta’ maniġġ effettiv tagħha.
+(3) Meta minħabba d-dispożizzjonijiet tal-paragrafu (1), persuna li ma tkunx individwu tkun residenti taż-żewġ Stati Kontraenti, allura għandha titqies li hi residenti ta’ dak l-Istat Kontraenti li fih ikun sitwat il-post ta’ maniġġ effettiv tagħha.
 
 **ARTIKOLU 5**
 
@@ -247,9 +239,7 @@ residenti ta’ dak l-Istat Kontraenti li fih ikun sitwat il-post ta’ maniġġ
 
 (4) Safejn ikun soltu li fih Stat Kontraenti jiġu stabbiliti l-profitti li għandhom jiġu attribwiti lil stabbiliment permanenti fuq il-bażi ta’ tqassim tal-profitti totali tal-impriża fuq il-partijiet diversi tagħha, ebda ħaġa fil-paragrafu (2) ma għandha ttellef lil dak l-Istat Kontraenti milli jistabbillixxi l-profitti li għandhom jiġu ntaxxati skond dak it-tqassim kif soltu jsir. Il-metodu tat-tqassim li jiġi wżat għandu, b’danakollu, ikun hekk li r-riżultat ikun skond il-prinċipji stabbiliti f’dan l-Artikolu.
 
-(5) Ma għandhom jiġu attribwiti ebda profitti lil stabbiliment permanenti FUQ L-INCOME MAR-REPUBBLIKA TAL-AWSTRJA [L.S.123.12 7
-
-minħabba biss ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija għall-impriża.
+(5) Ma għandhom jiġu attribwiti ebda profitti lil stabbiliment permanenti minħabba biss ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija għall-impriża.
 
 (6) Għall-finijiet tal-paragrafi ta’ qabel, il-profitti li għandhom jiġu attribwiti lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess mod minn sena għal sena kemm-il darba ma jkunx hemm raġuni tajba u biżżejjed biex isir kuntrarju.
 
@@ -309,8 +299,6 @@ Dan il-paragrafu ma għandux jolqot it-tassazzjoni tal-kumpannija dwar il-profit
 
 (5) Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija lil residenti tal-Istat l-ewwel imsemmi, u ma jistax jissuġġetta l-proftti mhux imqassma tal-kumpannja għal taxxa fuq profitti mhux imqassma, ukoll jekk id-dividendi mħallsa jew il-profitti mhux imqassma jikkonsistu għal kollox jew f’parti minn profitti jew ma jtellfux lill-Istat. Id-dispożizzjonijiet ta’ dan il-paragrafu ma jtellfux lil dak l-Istat l-ieħor milli jintaxxa dividendi mħallsa lil residenti ta’ dak l-Istat jew dividendi dwar holding li jkollu effettivament x’jaqsam ma’ stabbiliment permanenti jew ma’ bażi stabbilit miżmum f’dak l-Istat l-ieħor minn residenti tal-Istat l-ewwel imsemmi.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-AWSTRJA [L.S.123.12 9
-
 **ARTIKOLU 11**
 
 **Imgħax**
@@ -357,9 +345,7 @@ dwar esperjenza industrijali, kummerċjali jew xjentifika. Iżda, dawk ir-royalt
 
 **Servizzi Personali Indipendenti**
 
-(1) Income li jinkiseb minn residenti ta’ Stat Kontraenti dwar servizzi FUQ L-INCOME MAR-REPUBBLIKA TAL-AWSTRJA [L.S.123.12 11
-
-professjonali jew dwar attivitajiet indipendenti oħra bħal dawn għandu jiġi ntaxxat biss f’dak l-Istat kemm-il darba l-persuna ma jkollhiex bażi stabbilit li hi tista’ tuża regolarment fl-Istat Kontraenti l-ieħor sabiex taqdi l-attivitajiet tagħha. Jekk ikollha dak il-bażi stabbilit, l-income jista’ jiġi ntaxxat fl-Istat Kontraenti l-ieħor iżda sa dak l-ammont biss li jkun attribwibbli għal dak il-bażi stabbilit.
+(1) Income li jinkiseb minn residenti ta’ Stat Kontraenti dwar servizzi professjonali jew dwar attivitajiet indipendenti oħra bħal dawn għandu jiġi ntaxxat biss f’dak l-Istat kemm-il darba l-persuna ma jkollhiex bażi stabbilit li hi tista’ tuża regolarment fl-Istat Kontraenti l-ieħor sabiex taqdi l-attivitajiet tagħha. Jekk ikollha dak il-bażi stabbilit, l-income jista’ jiġi ntaxxat fl-Istat Kontraenti l-ieħor iżda sa dak l-ammont biss li jkun attribwibbli għal dak il-bażi stabbilit.
 
 (2) Il-frażi "servizzi professjonali" tinkludi, b’mod speċjali, attivitajiet indipendenti xjentifiċi, letterarji, artistiċi, edukattivi jew ta’ tagħlim kif ukoll attivitajiet indipendenti ta’ physcians, avukati, inġiniera, periti, dentisti u accountants.
 
@@ -423,8 +409,6 @@ Pensjonijiet u rimunerazzjoni oħra simili mħallsa lil residenti ta’ Stat Kon
 
 (a) fuq il-ħlasijiet kollha ta’ barra l-pajjiż għall-fini tal-manteniment, edukazzjoni jew taħriġ tiegħu; u
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-AWSTRJA [L.S.123.12 13
-
 (b) fuq kull rimunerazzjoni għal impieg eżerċitat fl-Istat Kontraenti l-ieħor għal perijodu ta’ mhux iżjed minn 183 jum fis-sena kalendarja għall-fini tat-taħriġ prattiku tiegħu.
 
 (3) Individwu li kien residenti ta’ Stat Kontraenti minnufih qabel ma żar l-Istat Kontraenti l-ieħor u li jkun temporanjament preżenti f’dak l-Istat Kontraenti l-ieħor biss għall-fini ta’ studju, riċerki u taħriġ bħala riċevitur ta’ għotja, allowance jew award minn organizzazzjoni xjentifika, edukattiva, reliġjuża jew ta’ karità jew taħt programm ta’ assistenza teknika magħmula mill-Gvern ta’ Stat Kontraenti għandu, mid-data tal-ewwel wasla tiegħu f’dak l-Istat l-ieħor dwar dik iż-żjara, jkun eżenti mit-taxxa f’dak l-Istat l-ieħor -
@@ -481,9 +465,7 @@ tal-ammont gross tal-income f’kull każ.
 
 (1) Minkejja d-dispożizzjonijiet tal-Artikolu l, in-nazzjonali ta’ Stat Kontraenti, sew jekk ikunu residenti ta’ wieħed mill-Istati Kontraenti sew jekk le, ma jkunux suġġetti fl-Istat Kontraenti l-ieħor għal xi tassazzjoni jew ħtieġa li għandhom x’jaqsmu magħha, li tkun ta’ piż ieħor jew ta’ aktar piż mit-tassazzjoni u ħtiġiet li għandhom x’jaqsmu magħha li għalih in-nazzjonali ta’ dak l-Istat l-ieħor fl-istess ċirkostanzi huma jew jistgħu jkunu suġġetti.
 
-(2) It-tassazzjoni ta’ stabbiliment permanenti li mpriża ta’ Stat Kontraenti FUQ L-INCOME MAR-REPUBBLIKA TAL-AWSTRJA [L.S.123.12 15
-
-jkollha fl-Istat Kontraenti l-ieħor ma għandhiex tinġabar bi żvantaġġ f’dak l-Istat l-ieħor għat-tassazzjoni miġbura minn impriżi f’dak l-Istat l-ieħor li jmexxu l-istess attivitajiet.
+(2) It-tassazzjoni ta’ stabbiliment permanenti li mpriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor ma għandhiex tinġabar bi żvantaġġ f’dak l-Istat l-ieħor għat-tassazzjoni miġbura minn impriżi f’dak l-Istat l-ieħor li jmexxu l-istess attivitajiet.
 
 Din id-dispożizzjoni ma għandhiex titqies li tobbliga Stat Kontraenti li jħalli lil residenti tal-Istat Kontraenti l-ieħor xi allowances personali, ħelsien u tnaqqis għall-finijiet ta’ taxxa minħabba l-istat ċivili jew minħabba responsabilitajiet tal-familja jew ta’ xi ċirkostanzi personali oħra li dan iħalli lir-residenti tiegħu.
 
@@ -545,9 +527,7 @@ Ebda ħaġa f’dan il-Ftehim ma għandha tolqot il-privileġġi fiskali ta’ u
 
 **Terminazzjoni**
 
-Dan il-Ftehim għandu jibqa’ jseħħ għal żmien mhux stabbilit iżda kull wieħed mill-Istati Kontraenti jista’, fit-tletin jew qabel it-tletin ta’ Ġunju ta’ xi sena FUQ L-INCOME MAR-REPUBBLIKA TAL-AWSTRJA [L.S.123.12 17
-
-kalendarja li tibda wara li jgħaddi ż-żmien ta’ tliet snin mid-data tal-bidu fis-seħħ tiegħu, jagħti lill-Istat Kontraenti l-ieħor, permezz tal-mezzi diplomatiċi, avviż ta’ terminazzjoni bil-miktub u, f’dak il-każ, il-Ftehim ma jibqax iseħħ -
+Dan il-Ftehim għandu jibqa’ jseħħ għal żmien mhux stabbilit iżda kull wieħed mill-Istati Kontraenti jista’, fit-tletin jew qabel it-tletin ta’ Ġunju ta’ xi sena kalendarja li tibda wara li jgħaddi ż-żmien ta’ tliet snin mid-data tal-bidu fis-seħħ tiegħu, jagħti lill-Istat Kontraenti l-ieħor, permezz tal-mezzi diplomatiċi, avviż ta’ terminazzjoni bil-miktub u, f’dak il-każ, il-Ftehim ma jibqax iseħħ -
 
 (a) dwar taxxa fuq l-income miksuba fl-ewwel jew wara l-ewwel ta’ Jannar, fis-sena kalendarja li jkun imissha tiġi wara s-sena li fiha ingħata avviż ta’ terminazzjoni;
 

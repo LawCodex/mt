@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti li jistabilixxu il-Kondizzjonijiet Minimi Nazzjonali għall-Iskejjel Kollha (S.L. 327.12)
 
-KONDIZZJONIJIET MINIMI NAZZJONALI
-
-*1*
-
-G}ALL-ISKEJJEL KOLLHA [L.S.327.12
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.12**
 
 **REGOLAMENTI LI JISTABBILIXXU**

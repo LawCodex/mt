@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti tal-2018 dwar it-Tkomplija tal-Kirja (Kriterji ta’ Test tal-Mezzi dwar Kirjiet li joriġinaw mill-Ordinanza li Tneħħi l-Kontroll tad-Djar)"
-identifier: "S.L. 158.2"
+identifier: "S.L. 158.02"
 eli: "https://legislation.mt/eli/sl/158.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/158.2/20180813/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti tal-2018 dwar it-Tkomplija tal-Kirja (Kriterji ta’ Test tal-Mezzi dwar Kirjiet li joriġinaw mill-Ordinanza li Tneħħi l-Kontroll tad-Djar) (S.L. 158.2)
+# Regolamenti tal-2018 dwar it-Tkomplija tal-Kirja (Kriterji ta’ Test tal-Mezzi dwar Kirjiet li joriġinaw mill-Ordinanza li Tneħħi l-Kontroll tad-Djar) (S.L. 158.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 158.02**
 

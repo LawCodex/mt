@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet imħallsin f'Ċentri tal-Bejgħ ta' Prodotti tal-Biedja (S.L. 35.13)
 
-DRITTIJIET IMĦALLSIN F’ĊENTRI
-
-*1*
-
-TAL-BEJGĦ TA’ PRODOTTI TAL-BIEDJA [L.S.35.13
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.13**
 
 **REGOLAMENTI DWAR DRITTIJIET**

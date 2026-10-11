@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali tal-2008 għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master in Theology – M.Th. - taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.605)
 
-*1*
-
-TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S. 327.605 LEĠISLAZZJONI SUSSIDJARJA 327.605
+**LEĠISLAZZJONI SUSSIDJARJA 327.605**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -72,10 +70,6 @@ Il-Kors jgħaqqad tagħlim u riċerka fi kwalunkwe qasam tat-Teoloġija fejn il-
 
 (a) grad ta’ Bachelor miksub tal-anqas fit-Tieni Klassi bl-Unuri jew aħjar fit-Teoloġija b’qasam sussidjarju fil-Filosofija; jew
 
-*2*
-
-[L.S. 327.605 TAL-FAKULTÀ TAT-TEOLOĠIJA
-
 (b) grad ta’ Bachelor miksub f’Kategorija II jew aħjar fit-Teologija.
 
 (2) L-applikanti li għandhom il-grad ta’ Bachelor of Sacred Theology mill-anqas fit-Tieni Klassi bl-Unuri jkunu eliġibbli li japplikaw ukoll.
@@ -110,11 +104,9 @@ L-applikanti li jidħlu skont is-sotto-paragrafu (b) tal-paragrafu (1) tal-ordin
 
 *Sostitwit: A.L. 173 tal-2021.*
 
-(1) Il-programm ta’ studju għall-applikanti li jidħlu skont il-paragrafu (1) tal-ordinament 4 għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 120 krettu ECTS, li TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S. 327.605 minnhom 90 krettu ECTS huma assenjati għal taqsimiet studju mgħallma u 30 krettu assenjati għat-taqsima studju tad-dissertazzjoni.
+(1) Il-programm ta’ studju għall-applikanti li jidħlu skont il-paragrafu (1) tal-ordinament 4 għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 120 krettu ECTS, li minnhom 90 krettu ECTS huma assenjati għal taqsimiet studju mgħallma u 30 krettu assenjati għat-taqsima studju tad-dissertazzjoni.
 
 (2) Il-programm ta’ studju għall-applikanti li jidħlu skont il-paragrafu (2) tal-ordinament 4 għandu jikkonsisti minn total ta’ 30 krettu ECTS assenjati għall-komponent ta’ riċerka.
-
-*3*
 
 ## 8.
 
@@ -148,11 +140,7 @@ sakemm li, il-Bord jista’ jħalli lill-istudenti rreġistrati fuq il-programm 
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjonijiet li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
-(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti [L.S. 327.605 TAL-FAKULTÀ TAT-TEOLOĠIJA
-
-tar-Regolamenti Prinċipali; u
-
-*4*
+(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar-Regolamenti Prinċipali; u
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, għas-Certificate in German – Cert. Ger. - u għad-Diploma in German – Dip. Ger. - taħt il-patroċinju tal-Fakultà tal-Arti (S.L. 327.438)
 
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.438
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.438**
 
 L-ORDINAMENTI SKONT IR-REGOLAMENTI ĠENERALI GĦAR-RIKONOXXIMENTI
@@ -59,11 +55,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew fi Ottubru 201
 
 (b) livell minimu ta’ B1 skont il-Qafas Ewropew Komuni ta’ Riferenza għal-Lingwi (CEFR) fil-Ġermaniż jew iċ-Ċertifikat jekk iridu jidħlu fil-Kors għad-Diploma. (2) L-applikanti għandhom jipprovdu ċertifikazzjoni li turi l-livell tagħhom fil-Ġermaniż, jew jekk ma jkollhomx din iċ-ċertifikazzjoni, huma jkunu meħtieġa joqogħdu għal test ta’ profiċjenza mmexxi mid-Dipartiment tal-Ġermaniż.
 
-(3) L-applikanti li jidħlu skont is-sottoparagrafu (ċ) tar- [L.S.327.438 PATROĊINJU TAL-FAKULTÀ TAL-ARTI
-
-regolament 6 tar-Regolamenti għad-Dħul għandhom ikollhom dawk il-kwalifiki u / jew l-esperjenza li jissodisfaw lill-Kumitat tad-Dħul tal-Fakultà li huma laħqu l-livell akkademiku meħtieġ biex isegwu l-Kors għaċ-Ċertifikat jew għad-Diploma bi profitt. L-eliġibbiltà ta’ dawn l-applikanti għandha tkun deċiża mill-Kumitat tad-Dħul tal-Fakultà wara li tkun saret intervista mmexxija minn bord tal-intervisti maħtur għal dan il-għan.
-
-*2*
+(3) L-applikanti li jidħlu skont is-sottoparagrafu (ċ) tar-regolament 6 tar-Regolamenti għad-Dħul għandhom ikollhom dawk il-kwalifiki u / jew l-esperjenza li jissodisfaw lill-Kumitat tad-Dħul tal-Fakultà li huma laħqu l-livell akkademiku meħtieġ biex isegwu l-Kors għaċ-Ċertifikat jew għad-Diploma bi profitt. L-eliġibbiltà ta’ dawn l-applikanti għandha tkun deċiża mill-Kumitat tad-Dħul tal-Fakultà wara li tkun saret intervista mmexxija minn bord tal-intervisti maħtur għal dan il-għan.
 
 (4) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul mill-anqas minn tliet membri.
 

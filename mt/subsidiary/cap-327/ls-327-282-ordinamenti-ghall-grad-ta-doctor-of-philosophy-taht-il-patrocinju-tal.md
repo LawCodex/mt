@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Istitut tal-Istudji Maltin (S.L. 327.282)
 
-*1*
-
-IL-PATROĊINJU TAL-ISTITUT TAL-ISTUDJI MALTIN [L.S.327.282
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.282**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**

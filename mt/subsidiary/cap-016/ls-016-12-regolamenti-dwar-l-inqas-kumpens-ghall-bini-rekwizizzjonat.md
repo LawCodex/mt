@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Inqas Kumpens għall-Bini Rekwiżizzjonat (S.L. 16.12)
 
-L-INQAS KUMPENS
-
-*1*
-
-GĦAL BINI REKWIŻIZZJONAT [L.S.16.12
-
 LEĠISLAZZJONI SUSSIDJARJA 16.12
 
 REGOLAMENTI DWAR L-INQAS KUMPENS

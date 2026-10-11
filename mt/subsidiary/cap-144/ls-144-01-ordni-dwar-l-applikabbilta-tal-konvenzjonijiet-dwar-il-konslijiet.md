@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Applikabbiltà tal-Konvenzjonijiet dwar il-Konslijiet"
-identifier: "S.L. 144.1"
+identifier: "S.L. 144.01"
 eli: "https://legislation.mt/eli/sl/144.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/144.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Applikabbiltà tal-Konvenzjonijiet dwar il-Konslijiet (S.L. 144.1)
-
-APPLIKABBILTÀ TAL-KONVENZJONIJIET DWAR
-
-IL-KONSLIJIET [ L.S.144.01
+# Ordni dwar l-Applikabbiltà tal-Konvenzjonijiet dwar il-Konslijiet (S.L. 144.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 144.01**
 

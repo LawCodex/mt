@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tipjip f’Postijiet Pubbliċi"
-identifier: "S.L. 315.4"
+identifier: "S.L. 315.04"
 eli: "https://legislation.mt/eli/sl/315.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/315.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tipjip f’Postijiet Pubbliċi (S.L. 315.4)
+# Regolamenti dwar it-Tipjip f’Postijiet Pubbliċi (S.L. 315.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 315.04**
 

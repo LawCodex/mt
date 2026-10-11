@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1996) (S.L. 261.19)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1996) [ L.S.261.19
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.19**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -87,7 +85,7 @@ Dawn il-maisonettes Nri. l sa 20 u garages Nri. l sa 20 jinsabu delineati bl-a]m
 
 (e) Erba’ garages li lkoll g]andhom d]ul minn bieb estern separat li mhux uffi`jalment enumerati 12 sa 15 fi Triq il-Mit]na l-{dida u li huma in parti sottostanti g]all-maisonettes/flats enumerati 11 sa 14.
 
-(f) Erba’ maisonettes/flats li g]andhom d]ul minn (TRASFERIMENT TA’ PROPRJETÀ) (1996) [ L.S.261.19 bieb intern enumerati 15 sa 18 li g]andhom entratura komuni ming]ajr numru fi Triq il- Mit]na l-{dida. Erba’ garages li lkoll g]andhom dhul minn bieb estern separat li mhux uffi`jalment enumerati 16 sa 19 fi Triq il-Mit]na l-{dida u li huma in parti sottostanti g]all-maisonettes/flats enumerati 15 sa 18.
+(f) Erba’ maisonettes/flats li g]andhom d]ul minn bieb intern enumerati 15 sa 18 li g]andhom entratura komuni ming]ajr numru fi Triq il- Mit]na l-{dida. Erba’ garages li lkoll g]andhom dhul minn bieb estern separat li mhux uffi`jalment enumerati 16 sa 19 fi Triq il-Mit]na l-{dida u li huma in parti sottostanti g]all-maisonettes/flats enumerati 15 sa 18.
 
 (g) Erba’ maisonettes/flats li g]andhom d]ul minn bieb intern enumerati 19 sa 22 u li g]andhom entratura komuni ming]ajr numru fi Triq il- Mit]na l-{dida.
 
@@ -133,7 +131,7 @@ Dawn il-maisonettes enumerati 1 sa 5 u garages enumerati 1 sa 5 jinsabu delineat
 
 Il-blokk s]i] ta’ maisonettes u garages hawn iktar qabel imsemmija lkoll flimkien imissu mix-Xlokk ma’ Triq Widnet il-Ba]ar, mil-Lbi` ma’ proprjetà ta’ Paul Farrugia, u mill-Grigal f’parti ma’ proprjetà ta’ Alfred Farrugia, f’parti ma’ proprjetà ta’ Joseph Mary Muscat u f’parti ma’ proprjetà ta’ Joseph u Mary Carmen Micallef.
 
-Dawn il-maisonettes enumerati 1 sa 8 u garages enumerati 1 sa 8 jinsabu delineati bl-a]mar fuq (TRASFERIMENT TA’ PROPRJETÀ) (1996) [ L.S.261.19 L.D. 198/81/15.
+Dawn il-maisonettes enumerati 1 sa 8 u garages enumerati 1 sa 8 jinsabu delineati bl-a]mar fuq L.D. 198/81/15.
 
 *\2.*
 
@@ -195,7 +193,7 @@ B’se]] mit-3 ta’ {unju, 1996:
 
 (b) Blokk ie]or jikkonsisti fi tmien flats. Kull flat g]andu d]ul minn bieb intern separat enumerat minn 1 sa 8, ilkoll bi d]ul minn entratura komuni li g]alkemm mhux uffi`jalment enumerata, g]andha t-tismija Binja Vista (Blokk 2) Ent. "B" fi Triq Gorse. Dan il-blokk kollu ta’ flats imiss mit-Tramuntana ma’ Triq Gorse, mill-Punent u Nofs-in-Nhar ma’ proprjetà tal- Gvern, u jinsab delineat bl-a]dar fuq L.D. 184/ 92/3.
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1996) [ L.S.261.19 (2) Id-dar bin-numru 2, Ringiela D, Triq i`-~e\\alpina, Ta’ Paris, Birkirkara (Tenement No. 68477).
+(2) Id-dar bin-numru 2, Ringiela D, Triq i`-~e\\alpina, Ta’ Paris, Birkirkara (Tenement No. 68477).
 
 (3) Flat numru 6, Triq il-Karmnu, Bini tal-Gvern, Fgura (Tenement No. 68033).
 
@@ -289,7 +287,7 @@ tag]mel parti mill-Qasam tad-Djar tal-Gvern tal- Gudja, limiti Gudja, fi Triq }a
 
 *(4)*
 
-numru 6, Bieb A, Blokk 3, Triq Tal-Mit]na, (TRASFERIMENT TA’ PROPRJETÀ) (1996) [ L.S.261.19 Gudja (Tenement No. 72862).
+numru 6, Bieb A, Blokk 3, Triq Tal-Mit]na, Gudja (Tenement No. 72862).
 
 (5) Flat numru 6, Blokk R, Triq Azzopardi, Marsa (Tenement No. 71533).
 
@@ -381,7 +379,7 @@ B’se]] mill-4 ta’ Novembru, 1996:
 
 (14) Flat numru 7, Blokk C2, Triq il-Prin`ipessa Margerita, Ta’ Xbiex (Tenement No. 69206).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1996) [ L.S.261.19 (15) Flat numru 4, Blokk El, Qasam tal-Bini tal-Gvern, Ta’ Xbiex (Tenement No. 71443).
+(15) Flat numru 4, Blokk El, Qasam tal-Bini tal-Gvern, Ta’ Xbiex (Tenement No. 71443).
 
 (16) Flat numru 3, Blokk C6, Qasam tal-Bini tal-Gvern, }al Mula, |ebbu[, Malta (Tenement No. 73512).
 
@@ -423,4 +421,4 @@ ma’ Triq il-Vjoli, li fuqha llum hemm mibni l-fond numru 4, Triq il-Vjoli, u l
 
 ma’ proprjetà
 
-ma’ Triq il-Vjoli, li fuqha llum hemm mibni l-fond numru 3, Triq il-Vjoli, u li tinsab delineata (TRASFERIMENT TA’ PROPRJETÀ) (1996) [ L.S.261.19 (j) Bi``a art tal-kejl ta’ madwar 125.8 metru kwadru mag]rufa b]ala Plot 36, Triq i\\-|inja, Neighbourhood I, li tmiss mit-Tramuntana ma’ proprjetà ta’ Arthur Joseph Pace u o]rajn, mil- Lvant ma’ Triq i\\-|inja, u mill-Punent ma’ proprjetà ta’ Michael Camilleri, li fuqha llum hemm mibni l-fond numru 14, Triq i\\-|inja, u li tinsab delineata bl-a]mar u markata P. 36 fuq L.D. 11/82/61.
+ma’ Triq il-Vjoli, li fuqha llum hemm mibni l-fond numru 3, Triq il-Vjoli, u li tinsab delineata (j) Bi``a art tal-kejl ta’ madwar 125.8 metru kwadru mag]rufa b]ala Plot 36, Triq i\\-|inja, Neighbourhood I, li tmiss mit-Tramuntana ma’ proprjetà ta’ Arthur Joseph Pace u o]rajn, mil- Lvant ma’ Triq i\\-|inja, u mill-Punent ma’ proprjetà ta’ Michael Camilleri, li fuqha llum hemm mibni l-fond numru 14, Triq i\\-|inja, u li tinsab delineata bl-a]mar u markata P. 36 fuq L.D. 11/82/61.

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tas-Sillabi ta' Studju għall-Korsijiet li jwasslu għall-Professjonijiet fis-Settur tas-Saħħa (S.L. 327.237)
 
-SILLABI U/JEW PROGRAMMI TA’ STUDJU G}ALL-KORSIJIET LI
-
-*1*
-
-JWASSLU G}ALL-PROFESSJONIJIET FIS-SETTUR TAS-SA}}A [L.S.327.237
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.237**
 
 **REGOLAMENTI TAS-SILLABI TA’ STUDJU**

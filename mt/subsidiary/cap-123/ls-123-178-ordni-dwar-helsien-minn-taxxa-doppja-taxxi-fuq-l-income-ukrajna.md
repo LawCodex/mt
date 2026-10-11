@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ukrajna) (S.L. 123.178)
 
-*1*
-
-(TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 LEĠISLAZZJONI SUSSIDJARJA 123.178
+**LEĠISLAZZJONI SUSSIDJARJA 123.178**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
 
@@ -44,10 +42,6 @@ B’dan qiegћed jiġi dikjarat -
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseħħ fit-28 ta’ Awissu 2017.
-
-*2*
-
-[L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
 
 ## SKEDA — Artikolu 2 — FTEHIM BEJN IL-GVERN TAL-UKRAJNA U IL-GVERN TAR-
 
@@ -95,9 +89,9 @@ it-taxxa fuq l-income;
 
 (hawn iżjed ’il quddiem imsejћa "it-taxxa ta’ Malta");
 
-*3*
+## 4.
 
-(TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 4. Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalment simili li tiġi imposta minn xi wieħed mill-Istati Kontraenti wara d-data meta jiġi ffirmat il-Ftehim b’żjieda mat-taxxi eżistenti jew minflokhom. L-awtoritajiet kompetenti tal- Istati Kontraenti gћandhom jgћarrfu lil xulxin b’kull tibdil sinifikanti li jkun sar fil-liġijiet dwar it-taxxi rispettivi tagћhom.
+Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalment simili li tiġi imposta minn xi wieħed mill-Istati Kontraenti wara d-data meta jiġi ffirmat il-Ftehim b’żjieda mat-taxxi eżistenti jew minflokhom. L-awtoritajiet kompetenti tal- Istati Kontraenti gћandhom jgћarrfu lil xulxin b’kull tibdil sinifikanti li jkun sar fil-liġijiet dwar it-taxxi rispettivi tagћhom.
 
 **Artikolu 3**
 
@@ -121,11 +115,7 @@ e) il-frażi "persuna" tinkludi individwu, kumpannija, u kull korp ieћor ta’ 
 
 f) il-frażi "kumpannija" tfisser kull korp magћqud jew kull entità li tkun ittrattata bћala korp magћqud gћall-iskopijiet ta’ taxxa;
 
-g) il-frażijiet "impriża ta’ Stat Kontraenti" u "impriża tal- [L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
-
-Istat Kontraenti l-ieћor" ifissru rispettivament impriża ġestita minn residenti ta’ Stat Kontraenti u impriża ġestita minn residenti tal-Istat Kontraenti l-ieћor;
-
-*4*
+g) il-frażijiet "impriża ta’ Stat Kontraenti" u "impriża tal- Istat Kontraenti l-ieћor" ifissru rispettivament impriża ġestita minn residenti ta’ Stat Kontraenti u impriża ġestita minn residenti tal-Istat Kontraenti l-ieћor;
 
 h) il-frażi "traffiku internazzjonali" tfisser kull trasport permezz ta’ bastiment jew inġenji tal-ajru mħaddma minn impriża ta’ Stat Kontraenti, ћlief meta l-bastiment jew l-inġenji tal-ajru jkunu unikament imћaddma bejn postijiet fl-Istat Kontraenti l-ieħor;
 
@@ -147,15 +137,11 @@ k) il-frażi "negozju" tinkludi l-għoti ta’ servizzi professjonali u ta’ at
 
 a) huwa gћandu jitqies li jkun residenti tal-Istat Kontraenti li fih ikollu dar permanenti gћad-dispożizzjoni tiegћu; jekk huwa jkollu dar permanenti gћad-dispożizzjoni tiegћu fiż-żewg Stati Kontraenti, huwa gћandu jitqies li jkun residenti tal-Istat Kontraenti li miegћu jkunu l-aktar marbuta r-relazzjonijiet personali u ekonomiċi tiegћu (ċentru ta’ interessi vitali);
 
-b) jekk l-Istat Kontraenti li fih huwa jkollu ċ-ċentru ta’ interessi vitali ma jkunx jista’ jiġi stabbilit, jew jekk (TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 huwa ma jkollux gћad-dispożizzjoni tiegћu dar permanenti f’xi Stat Kontraenti wieħed jew l-ieħor, huwa gћandu jitqies li jkun residenti tal-Istat Kontraenti li fih ikun soltu jirrisjedi;
+b) jekk l-Istat Kontraenti li fih huwa jkollu ċ-ċentru ta’ interessi vitali ma jkunx jista’ jiġi stabbilit, jew jekk huwa ma jkollux gћad-dispożizzjoni tiegћu dar permanenti f’xi Stat Kontraenti wieħed jew l-ieħor, huwa gћandu jitqies li jkun residenti tal-Istat Kontraenti li fih ikun soltu jirrisjedi;
 
 ċ) jekk huwa soltu jirrisjedi fiż-żewg Stati Kontraenti jew f’ebda wieħed minnhom, huwa gћandu jitqies li jkun residenti tal-Istat Kontraenti li jkun ċittadin tiegћu; d) jekk huwa ċittadin taż-żewg Stati Kontraenti jew ta’ ebda wieħed minnhom, l-awtoritajiet kompetenti tal- Istati Kontraenti gћandhom jiddeċiedu l-każ bi ftehim reċiproku bejnithom.
 
-*5*
-
-## 3.
-
-Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1, persuna li ma tkunx individwu tkun residenti taż-żewg Stati Kontraenti, allura dik il-persuna gћandha titqies bћala residenti tal- Istat Kontraenti fejn ikun jinsab il-post ta’ maniġġ effettiv tagħha.
+\3. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1, persuna li ma tkunx individwu tkun residenti taż-żewg Stati Kontraenti, allura dik il-persuna gћandha titqies bћala residenti tal- Istat Kontraenti fejn ikun jinsab il-post ta’ maniġġ effettiv tagħha.
 
 **Artikolu 5**
 
@@ -181,19 +167,13 @@ g) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieћor ta’ es
 
 h) maħżen jew struttura oħra użata bħala ħanut tal-bejgħ.
 
-## 3.
-
-Il-frażi "stabbiliment permanenti" ukoll tinkludi art li tkun qegћda tinbena, proġett ta’ kostruzzjoni, assemblaġġ jew stallazzjoni, jew attivitajiet ta’ superviżjoni li jkollhom x’jaqsmu magħhom, iżda biss meta tali art, proġett jew attivitajiet ikomplu għaddejin għall-perjodu ta’ iżjed minn disa’ xhur.
+\3. Il-frażi "stabbiliment permanenti" ukoll tinkludi art li tkun qegћda tinbena, proġett ta’ kostruzzjoni, assemblaġġ jew stallazzjoni, jew attivitajiet ta’ superviżjoni li jkollhom x’jaqsmu magħhom, iżda biss meta tali art, proġett jew attivitajiet ikomplu għaddejin għall-perjodu ta’ iżjed minn disa’ xhur.
 
 ## 4.
 
 Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbiliment permanenti" gћandha titqies li ma tinkludix:
 
-a) l-użu ta’ faċilitajiet bl-iskop uniku ta’ hżin, wiri jew tqassim ta’ oġġetti jew merkanzija li jkunu jappartjenu [L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
-
-lill-impriża;
-
-*6*
+a) l-użu ta’ faċilitajiet bl-iskop uniku ta’ hżin, wiri jew tqassim ta’ oġġetti jew merkanzija li jkunu jappartjenu lill-impriża;
 
 b) iż-żamma ta’ hażna ta’ oġġetti jew merkanzija li tkun tappartjeni lill-impriża bl-iskop uniku ta’ hżin, wiri jew tqassim;
 
@@ -217,9 +197,7 @@ Impriża ta’ Stat Kontraenti ma gћandhiex titqies li jkollha stabbiliment per
 
 Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla jew tkun kontrollata minn kumpannija li tkun residenti tal-Istat Kontraenti l-ieћor, jew li tkun tiġġestixxi negozju f’dak l-Istat l-ieћor (sew permezz ta’ stabbiliment permanenti sew xort’oћra), m’gћandux fih innifsu jikkostitwixxi lil kumpannija waħda jew l-oћra stabbiliment permanenti tal-kumpannija l-oћra.
 
-*7*
-
-(TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 Artikolu 6
+**Artikolu 6**
 
 **INCOME MINN PROPRJETÀ IMMOBBLI**
 
@@ -238,10 +216,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 \1. Il-profitti ta’ impriża ta’ Stat Kontraenti gћandhom jiġu intaxxati biss f’dak l-Istat kemm-il darba l-impriża ma tkunx tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk. Jekk l-impriża tkun qegћda tmexxi negozju kif hawn aktar qabel imsemmi, il-profitti tal-impriża jistgћu jiġu intaxxati fl-Istat l-ieћor iżda biss gћal dik il-parti minnhom daqs kemm tkun attribwibbli lil dak l-istabbiliment permanenti.
 
 \2. Bla ћsara gћald-dispożizzjonijiet tal-paragrafu 3, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun qiegћed hemmhekk, gћandhom jiġu attribwiti f’kull Stat Kontraenti lil dak l-istabbiliment permanenti l-profitti li dan kien ikun mistenni jagћmel kieku kien impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet jew simili għalihom u li tkun tittratta gћalkollox b’mod indipendenti ma’ l-impriża li tkun stabbiliment permanenti tagћha.
-
-*8*
-
-[L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
 
 \3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis l-ispejjeż tal-impriża li jsiru gћall-gћanijiet tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, kemm jekk isiru fl-Istat Kontraenti li fih ikun jinsab l-istabbiliment permanenti sew band’oħra. Madankollu, fil-każ ta’ spejjeż li jkun saru minn stabbiliment permanenti fir-relazzjonijiet tiegħu mal-impriża li tagħha jkun stabbiliment permanenti, dawk l-ispejjeż biss li jkunu permessi bħala tnaqqis taħt il-liġi domestika ta’ kull Stat Kontraenti għandhom jitqiesu sabiex jiġu stabbiliti l-profitti tal-istabbiliment permanenti.
 
@@ -267,9 +241,7 @@ a) income mill-kiri ta’ bastimenti jew inġenji tal-ajru fuq bażi bareboat; u
 
 b) profitti mill-użu jew kiri ta’ containers (inklużi trailers u tagħmir relatat għal trasport ta’ containers) użat għat-trasport ta’ oġġetti jew merkanzija,
 
-*9*
-
-(TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 meta dak il-kiri, jew dak l-użu jew kiri, skont kif ikun il-każ, ikun inċidentali għat-tħaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali.
+meta dak il-kiri, jew dak l-użu jew kiri, skont kif ikun il-każ, ikun inċidentali għat-tħaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali.
 
 \3. Meta l-profiiti msemmija fil-paragrafu 1 jinkisbu minn impriża ta’ Stat Kontraenti mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali, il-profitti attribwiti lil dik l-impriża għandhom jiġu ntaxxat biss f’dak l-Istat Kontraenti.
 
@@ -291,11 +263,7 @@ u f’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewg impriżi 
 
 **DIVIDENDI**
 
-\1. Id-dividendi mћallsa minn kumpannija li tkun residenti ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor jistgħu jiġu [L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
-
-intaxxati f’dak l-Istat l-ieћor.
-
-*10*
+\1. Id-dividendi mћallsa minn kumpannija li tkun residenti ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor jistgħu jiġu intaxxati f’dak l-Istat l-ieћor.
 
 \2. Madankollu, dawk id-dividendi jistgћu jiġu intaxxati ukoll fl-Istat Kontraenti li tiegћu l-kumpannija li qed tћallas id-dividendi tkun residenti u skont il-liġijiet ta’ dak l-Istat, iżda kemm il-darba is-sid benefiċjarju ta’ dawk id-dividendi jkun residenti tal-Istat Kontraenti l-ieħor it-taxxa li għandha hekk titħallas m’għandhiex teċċedi:
 
@@ -311,11 +279,9 @@ Dan il-paragrafu ma gћandux jolqot it-taxxa tal-kumpannija dwar dawk il-profitt
 
 \5. Id-dispożizzjonijiet tal-paragrafu 1 u 2 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk u l-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7.
 
-\6. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li (TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 jkun jinsab f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
+\6. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
 
 **Artikolu 11**
-
-*11*
 
 **MGĦAX**
 
@@ -329,11 +295,7 @@ Dan il-paragrafu ma gћandux jolqot it-taxxa tal-kumpannija dwar dawk il-profitt
 
 \5. Jitqies li jinqala’ mgћax fi Stat Kontraenti meta min iћallas ikun dak l-istess Stat, sottodiviżjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Madankollu, meta l-persuna li tkun qegћda tћallas l-imgћax, kemm jekk din tkun kemm jekk ma tkunx residenti ta’ Stat Kontraenti, ikollha fi Stat Kontraenti stabbiliment permanenti li f’konnessjoni miegħu jkun oriġina d-debitu li fuqu jitћallas l-imgћax, u dak l-imgћax jiġġarrab minn dak l-istabbiliment permanenti, gћaldaqstant dak l-imgћax gћandu jitqies li jinqala’ fl- Istat fejn ikun sitwat l-istabbiliment permanenti.
 
-\6. Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont tal-imgћax, meta jiġi kkunsidrat il-pretensjoni ta’ debitu li dwarha tħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn [L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
-
-min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-ahhar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet għandha tibqa’ taxxabbli kif hemm fil-liġijiet ta’ kull Parti Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
-
-*12*
+\6. Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont tal-imgћax, meta jiġi kkunsidrat il-pretensjoni ta’ debitu li dwarha tħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-ahhar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet għandha tibqa’ taxxabbli kif hemm fil-liġijiet ta’ kull Parti Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
 ## 7.
 
@@ -351,11 +313,9 @@ Minkejja d-dispożizzjonijiet tal-paragrafu 2, mgħax li jinqala’ fi Stat Kont
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 gћandhom japplikaw.
 
-\5. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u (TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont tar-royalties, meta jiġi kkunsidrat x’ikun l-użu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iżjed, għal kwalunkwe raġuni, mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
+\5. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont tar-royalties, meta jiġi kkunsidrat x’ikun l-użu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iżjed, għal kwalunkwe raġuni, mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
 \6. Ir-royalties għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun l-istess Stat, diviżjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti li dwaru jkun ittieħed l-obbligu li jitħallsu r-royalties, u dawk ir-royalties ikunu r-responsabbilita’ ta’ dak l-istabbiliment permanenti allura dawk ir-royalties għandhom jitqiesu li jinqalgћu fl-Istat fejn ikun jinsab l-istabbiliment permanenti.
-
-*13*
 
 **Artikolu 13**
 
@@ -369,11 +329,7 @@ Minkejja d-dispożizzjonijiet tal-paragrafu 2, mgħax li jinqala’ fi Stat Kont
 
 \4. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ ishma li jkollhom aktar minn 50 fil-mija tal-valur tagħhom ġej direttament jew indirettament minn proprjeta’ immobbli li tkun tinsab fl-Istat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-Istat l-ieħor.
 
-\5. Qligћ mit-trasferiment ta’ proprjetà ħlief dik imsemmija [L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
-
-fil-paragrafi 1, 2, 3 u 4, gћandu jiġi intaxxat biss fl-Istat Kontraenti li min jittrasferixxi jkun residenti fih.
-
-*14*
+\5. Qligћ mit-trasferiment ta’ proprjetà ħlief dik imsemmija fil-paragrafi 1, 2, 3 u 4, gћandu jiġi intaxxat biss fl-Istat Kontraenti li min jittrasferixxi jkun residenti fih.
 
 **Artikolu 14**
 
@@ -401,11 +357,9 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 **ARTISTI U SPORTIVI**
 
-\1. Minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, income li jinkiseb minn residenti ta’ Stat Kontraenti bћala persuni li jagћtu spettaklu, bћal artisti tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћala mużiċisti, jew bћala sportivi, mill-attivitajiet personali tagћhom bћala tali li jiġu eżerċitati fl-Istat (TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 Kontraenti l-ieћor, jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
+\1. Minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, income li jinkiseb minn residenti ta’ Stat Kontraenti bћala persuni li jagћtu spettaklu, bћal artisti tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћala mużiċisti, jew bћala sportivi, mill-attivitajiet personali tagћhom bћala tali li jiġu eżerċitati fl-Istat Kontraenti l-ieћor, jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
 
 \2. Meta income dwar attivitajiet personali eżerċitati minn persuni li jagћtu spettaklu jew minn sportivi fil-kapaċità tagћhom bћala tali ma jinġabarx favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iżda favur xi persuna oћra, dak l-income jista’, minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, jiġi intaxxat fl-Istat Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
-
-*15*
 
 \3. Minkejja id-dispożizzjonijiet tal-paragrafi 1 u 2, l-income msemmi f’dan l-Artikolu għandu jkun eżenti mit-taxxa fl- Istat Kontraenti li fih jiġu eżerċitati l-attivitajiet tal-persuni li jagħtu spettaklu jew l-isportivi, kemm il-darba dawk l-attivitajiet jkunu iffinanzjati sostanzjalment minn fondi pubbliċi ta’ xi Stat jew tat-tnejn li huma, jew isiru taħt ftehim ta’ kooperazzjoni kulturali bejn l- Istati Kontraenti.
 
@@ -429,11 +383,7 @@ b) Madankollu, dik ir-rimunerazzjoni gћandha tiġi ntaxxata biss fl-Istat Kontr
 
 (ii) ma jkunx sar residenti ta’ dak l-Istat unikament bil-għan li jagħti dawk is-servizzi.
 
-\2. a) Kull pensjoni mћallsa minn, jew li ssir minn [L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
-
-fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegћu lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandha tiġi intaxxata biss f’dak l-Istat.
-
-*16*
+\2. a) Kull pensjoni mћallsa minn, jew li ssir minn fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegћu lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandha tiġi intaxxata biss f’dak l-Istat.
 
 b) Madankollu, dik il-pensjoni gћandha tiġi ntaxxata biss fl-Istat Kontraenti l-ieћor jekk l-individwu jkun residenti ta’ dak l-Istat u ċittadin tiegħu.
 
@@ -457,11 +407,9 @@ Student jew apprendist fin-negozju li jkun preżenti fi Stat Kontraenti unikamen
 
 **LIMITAZZJONI TA’ BENEFIĊĊJI**
 
-\1. Minkejja d-dispożizzjonijiet ta’ kull Artikolu ieħor ta’ dan il-Ftehim, residenti ta’ Stat Kontraenti m’għandux jirċievi l-benefiċċju ta’ xi tnaqqis ta’ jew eżenzjoni mit-taxxa provdut f’dan il- Ftehim mill-Istat Kontraenti l-ieħor kemm il-darba li l-għan prinċipali (TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 jew wieħed mill-għanijiet prinċipali ta’ dak ir-residenti jew ta’ persuna konnessa ma’ dak ir-residenti kien li jikseb il-benefiċċji tal- Ftehim.
+\1. Minkejja d-dispożizzjonijiet ta’ kull Artikolu ieħor ta’ dan il-Ftehim, residenti ta’ Stat Kontraenti m’għandux jirċievi l-benefiċċju ta’ xi tnaqqis ta’ jew eżenzjoni mit-taxxa provdut f’dan il- Ftehim mill-Istat Kontraenti l-ieħor kemm il-darba li l-għan prinċipali jew wieħed mill-għanijiet prinċipali ta’ dak ir-residenti jew ta’ persuna konnessa ma’ dak ir-residenti kien li jikseb il-benefiċċji tal- Ftehim.
 
 \2. Id-dispożizzjonijiet ta’ qabel m’għandhomx japplikaw meta kumpannija tkun involuta f’operazzjonijiet ta’ negozju sostanzjali fl-Istat Kontraenti li fih tkun residenti u l-ħelsien mit-taxxa mitlub mill-Istat Kontraenti l-ieħor ikun fir-rigward ta’ income li hu konness ma’ tali operazzjonijiet.
-
-*17*
 
 **Artikolu 22**
 
@@ -481,10 +429,6 @@ Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla 
 
 \5. Għall-għanijiet tal-paragrafi 1 u 2, profitti, income, u qligħ kapitali li jinkisbu minn residenti ta’ Stat Kontraenti li jistgħu jiġu ntaxxati fl-Istat Kontraenti l-ieħor skont dan il-Ftehim għandhom jitqiesu li joriġinaw minn għejjun f’dak l-Istat Kontraenti l-ieħor.
 
-*18*
-
-[L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
-
 **Artikolu 23**
 
 **EBDA DISKRIMINAZZJONI**
@@ -503,11 +447,9 @@ Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla 
 
 ## 7.
 
-Id-dispożizzjonijiet ta’ dan l-Artikolu għandhom (TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 japplikaw għat-taxxi koperti b’dan il-Ftehim.
+Id-dispożizzjonijiet ta’ dan l-Artikolu għandhom japplikaw għat-taxxi koperti b’dan il-Ftehim.
 
 **Artikolu 24**
-
-*19*
 
 **PROĊEDURA TA’ FTEHIM REĊIPROKU**
 
@@ -525,11 +467,7 @@ Id-dispożizzjonijiet ta’ dan l-Artikolu għandhom (TAXXI FUQ L-INCOME) (UKRAJ
 
 \1. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tista’ tkun prevista bћala rilevanti gћat-twettiq tad-dispożizzjonijiet ta’ dan il-Ftehim jew gћall-amministrazzjoni jew l-infurzar tal-liġijiet domestiċi tal- Istati Kontraenti dwar it-taxxi ta’ kull tip u għamla imposti f’isem l- Istati Kontraenti, jew is-sottodiviżjonijiet politiċi jew awtoritajiet lokali tagħhom, sakemm it-taxxa li taqa’ taћthom ma tmurx kontra l- Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikoli 1 u 2.
 
-\2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiġi ittrattata bћala waћda sigrieta bl-istess mod bћal informazzjoni li tinkiseb taħt il-liġijiet domestiċi ta’ [L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
-
-dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu ma’ l-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, id-deċizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew it-tћaris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuh jew f’deċiżjonijiet ġudizzjarji.
-
-*20*
+\2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiġi ittrattata bћala waћda sigrieta bl-istess mod bћal informazzjoni li tinkiseb taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu ma’ l-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, id-deċizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew it-tћaris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuh jew f’deċiżjonijiet ġudizzjarji.
 
 \3. F’ebda każ m’gћandhom id-dispożizzjonijiet tal-paragrafi 1 u 2 jiftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
 
@@ -547,11 +485,9 @@ b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew
 
 **KONSULARI**
 
-Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-membri ta’ missjonijiet diplomatiċi jew ta’ kariġi konsulari taћt ir-regoli ġenerali tad-dritt internazzjonali jew taћt id- (TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 dispożizzjonijiet ta’ kull ftehim speċjali.
+Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-membri ta’ missjonijiet diplomatiċi jew ta’ kariġi konsulari taћt ir-regoli ġenerali tad-dritt internazzjonali jew taћt id-dispożizzjonijiet ta’ kull ftehim speċjali.
 
 **Artikolu 27**
-
-*21*
 
 **BIDU FIS-SEĦĦ**
 
@@ -579,11 +515,7 @@ a) fl-Ukrajna:
 
 (i) dwar taxxi miżmuma minn ras il-għajn fuq ammonti mħallsa fi jew wara l-1 ta’ Jannar tas-sena kalendarja li taħbat minnufih wara dik li fiha jingħata l-avviż ta’ terminazzjoni; u
 
-(ii) dwar taxxi oħra għal snin jew perjodi ta’ taxxa li jibdew fi jew wara l-1 ta’ Jannar tas-sena [L.S. 123.178 (TAXXI FUQ L-INCOME) (UKRAJNA)
-
-kalendarja li fiha jingħata l-avviż ta’ terminazzjoni;
-
-*22*
+(ii) dwar taxxi oħra għal snin jew perjodi ta’ taxxa li jibdew fi jew wara l-1 ta’ Jannar tas-sena kalendarja li fiha jingħata l-avviż ta’ terminazzjoni;
 
 b) f’Malta:
 
@@ -599,9 +531,7 @@ Għall-Gvern tar-Repubblika ta’ Malta Għall-Gvern tal-
 
 Ukrajna
 
-*23*
-
-(TAXXI FUQ L-INCOME) (UKRAJNA) [L.S. 123.178 PROTOKOLL
+**PROTOKOLL**
 
 Filwaqt tal-iffirmar tal-Ftehim bejn il-Gvern tal-Ukrajna u l- Gvern tar-Repubblika ta’ Malta gћall-Evitar ta’ Taxxa Doppja u l- Prevenzjoni ta’ Evażjoni Fiskali dwar Taxxi fuq l-Income, iż-żewġ partijiet ftiehmu dwar dawn id-dispożizzjonijiet li ġejjin, li għandhom ikunu jiffurmaw parti integrali mill-Ftehim.
 

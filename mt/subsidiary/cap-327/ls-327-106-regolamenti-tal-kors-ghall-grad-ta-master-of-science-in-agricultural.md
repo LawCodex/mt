@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta' Master of Science in Agricultural and Veterinary Pharmacy - M.Sc (S.L. 327.106)
 
-*1*
-
-AGRICULTURAL AND VETERINARY PHARMACY - M.SC. [ L.S.327.106
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.106**
 
 REGOLAMENTI TAL-KORS G}ALL-GRAD TA’ MASTER OF SCIENCE IN AGRICULTURAL AND
@@ -127,9 +123,7 @@ AGRICULTURAL AND VETERINARY PHARMACY - M.SC. (2) F’ka\\ijiet e``ezzjonali, il-
 
 (d) karta ta’ sag]tejn jew fuq in-Nutrizzjoni tal-Pjanti jew ta’ l-Annimali.
 
-*3*
-
-AGRICULTURAL AND VETERINARY PHARMACY - M.SC. [ L.S.327.106 (2) Il-karti ta’ l-e\\amijiet g]andhom jing]ataw gradi mill-og]la mertu sa l-anqas A, B, C, D u F fejn F tindika li student We]el.
+(2) Il-karti ta’ l-e\\amijiet g]andhom jing]ataw gradi mill-og]la mertu sa l-anqas A, B, C, D u F fejn F tindika li student We]el.
 
 (3) Kandidat li je]el f’mhux aktar minn \\ew[ karti g]andu jing]ata l-permess joqg]od g]all-e\\ami/jiet fis-sessjoni supplimentari li normalment issir f’Settembru, i\\da l-grad li jing]ata g]all-e\\ami supplimentari g]andu jkun D jew F.
 

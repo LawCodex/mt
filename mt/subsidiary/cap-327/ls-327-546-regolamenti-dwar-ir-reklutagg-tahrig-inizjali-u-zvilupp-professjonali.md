@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Reklutaġġ, Taħriġ Inizjali u Żvilupp Professjonali Kontinwu u Protezzjoni ta’ Minorenni fl-Edukazzjoni Obbligatorja (S.L. 327.546)
 
-REKLUTAĠĠ, TAĦRIĠ INIZJALI U ŻVILUPP
-
-PROFESSJONALI KONTINWU U PROTEZZJONI TA’
-
-*1*
-
-MINORENNI FL-EDUKAZZJONI OBBLIGATORJA [L.S.327.546
-
 **SUBSIDIARY LEGISLATION 327.546**
 
 REGOLAMENTI DWAR IR-REKLUTAĠĠ, TAĦRIĠ

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Regolarizzazzjoni ta’ Arretrati dwar id-Drittijiet ta’ Liċenzi ta’ Vetturi bil-Mutur (S.L. 65.24)
 
-*1*
-
-DRITTIJIET TA’ LIĊENZI TA’ VETTURI BIL-MUTUR [L.S.65.24
-
 **LEĠISLAZZJONI SUSSIDJARJA 65.24**
 
 REGOLAMENTI DWAR IR-REGOLARIZZAZZJONI TA’ ARRETRATI DWAR ID-DRITTIJIET TA’
@@ -68,11 +64,11 @@ Iżda kif hemm fl-artikolu 56 tal-Ordinanza, l-Awtorità hi eżentata milli tiġ
 
 Matul il-perjodu mid-data li fiha jibdew iseħħu dawn ir-regolamenti sal-31 ta’ Ottubru, 2027, minn hawn ’il quddiem imsejjaħ il-perjodu ta’ regolarizzazzjoni, kull persuna li għaliha japplika r-regolament 3 għandha tippreżenta l-formola li tkun tapplika lill-Awtorità biex tkun tista’ tirregolarizza l-pożizzjoni tagħha skont dawn ir-regolamenti.
 
-*2*
+## 5. Ħlas għall-ipproċessar.
 
-[L.S.65.24 DRITTIJIET TA’ LIĊENZI TA’ VETTURI BIL-MUTUR 5. (1) Il-formola għandha tiġi preżentata fit-Taqsima tal- Liċenzjar ta’ Xufiera u Vetturi fi ħdan l-Awtorità flimkien -
+*Sostitwit: A.L. 85 tal-2013. Emendat: A.L. 24 tal-2014; A.L. 177 tal-2015; A.L. 261 tal-2025.*
 
-*Ħlas għall-ipproċessar. Sostitwit: A.L. 85 tal-2013. Emendat: A.L. 24 tal-2014; A.L. 177 tal-2015; A.L. 261 tal-2025.*
+(1) Il-formola għandha tiġi preżentata fit-Taqsima tal- Liċenzjar ta’ Xufiera u Vetturi fi ħdan l-Awtorità flimkien -
 
 (a) mal-ħlas ta’ dritt għall-ipproċessar ta’ mija u ħamsa u għoxrin euro (€125):
 
@@ -91,10 +87,6 @@ Iżda wkoll meta persuna li jkollha arretrati ta’ liċenzi tal-vettura bil-mut
 (2) Kull formola li ma jkollhiex magħha l-ħlas għall-ipproċessar, u fejn ikun japplika, il-ħlas tal-ammont mhux imħallas ta’ multi u, jew penali ma tikkostitwixxix talba valida skont ir-regolament 4.
 
 (3) Is-subregolament (1)(a) m’għandux ikun applikabbli fir-rigward ta’ werrieta ta’ persuna mejta, li jkollha vettura bil-mutur reġistrata f’isimha, li għalihom huwa applikabbli r-regolament 3 jekk jiġu preżentati lill-Awtorità ċertifikat tal-mewt tal-mejjet, riċerki testamentarji tal-persuna mejta u digriet tal-Qorti ta’ rinunzja minn dak il-wirt.
-
-*3*
-
-DRITTIJIET TA’ LIĊENZI TA’ VETTURI BIL-MUTUR [L.S.65.24
 
 ## 6. Vetturi skrappjati.
 
@@ -145,10 +137,6 @@ Iżda jekk il-vettura ġiet trasferita lil persuna oħra mingħajr ma dak it-tra
 *L.S. 368.02*
 
 (a) jibbenefika minn tnaqqis ta’ ħamsin fil-mija (50%) tal-arretrati tal-ħlasijiet kollha tal-liċenza dovuti fir-rigward tal-imsemmija vettura,
-
-*4*
-
-[L.S.65.24 DRITTIJIET TA’ LIĊENZI TA’ VETTURI BIL-MUTUR
 
 (b) jiġi eżentat mill-ħlas tal-multi amministrattivi kollha skont id-dispożizzjonijiet tar-regolament 6(2)(b) u minn kull responsabbiltà kriminali jekk u meta dik il-persuna tissodisfa r-rekwiżiti tal-imsemmija provisos u tħallas l-ammont imnaqqas tal-arretrati dovuti minnha:
 

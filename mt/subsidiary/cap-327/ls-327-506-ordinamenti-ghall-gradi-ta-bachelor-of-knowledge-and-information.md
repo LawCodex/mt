@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Gradi ta’ Bachelor of Knowledge and Information Management (Honours) – B.KIM. (Hons) – u l-Bachelor of Knowledge and Information Management – B.KIM. - taħt l-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien (S.L. 327.506)
 
-MANAGEMENT (HONOURS) - B.KIM. (Hons) -U BACHELOR OF
-
-KNOWLEDGE AND INFORMATION MANAGEMENT - B.KIM. - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.506 LEĠISLAZZJONI SUSSIDJARJA 327.506
+**LEĠISLAZZJONI SUSSIDJARJA 327.506**
 
 ORDINAMENTI GĦALL-GRADI TA’ BACHELOR OF KNOWLEDGE AND INFORMATION MANAGEMENT (HONOURS) - B.KIM. (Hons.) - U BACHELOR OF KNOWLEDGE AND INFORMATION MANAGEMENT - B.KIM. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
 
@@ -61,13 +55,11 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) Il-grad ta’ Bachelor of Knowledge and Information Management - B.KIM. - jingħata skont dawn l-ordinamenti f’żewġ oqsma ta’ studju prinċipali ordinarji, li wieħed minnhom għandu jkun in-Knowledge and Information Management.
 
-(3) Il-Bord iħabbar l-oqsma ta’ studju li jistgħu jittieħdu man- Knowledge and Information Management fil-Grad qabel il-bidu tal- MANAGEMENT (HONOURS) - B.KIM. (Hons) -U BACHELOR OF KNOWLEDGE AND INFORMATION MANAGEMENT - B.KIM. - TAĦT [L.S.327.506 IL-PATROĊINJU TAL-FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN Kors.
+(3) Il-Bord iħabbar l-oqsma ta’ studju li jistgħu jittieħdu man- Knowledge and Information Management fil-Grad qabel il-bidu tal- Kors.
 
 ## 4. Għażla tal-oqsma ta’ studju.
 
 L-applikanti huma meħtieġa jindikaw l-għażla tal-oqsma ta’ studju fiż-żmien meta japplikaw għad-dħul.
-
-*2*
 
 ## 5. Rekwiżiti għad-dħul fil-kors.
 
@@ -109,13 +101,7 @@ It-Tieni Parti għandha tikkonsisti f’taqsimiet studju li għalihom hemm assen
 
 (1) L-istudenti fil-kors tal-Bachelor of Knowledge and Information Management (Honours) – B.KIM. (Hons) - ikunu meħtieġa jirreġistraw u jiksbu l-kretti għal taqsimiet studju li għalihom hemm assenjati total ta’ 180 krettu ECTS, li minnhom mhux anqas minn 132 krettu ECTS għandhom ikunu fil-qasam tan- Knowledge and Information Management u mhux anqas minn 36 krettu ECTS għandhom ikunu fil-qasam ta’ studju sussidjarju.
 
-MANAGEMENT (HONOURS) - B.KIM. (Hons) -U BACHELOR OF
-
-KNOWLEDGE AND INFORMATION MANAGEMENT - B.KIM. - TAĦT
-
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.506 (2) L-istudenti fil-kors tal-Bachelor of Knowledge and Information Management – B.KIM. - ikunu meħtieġa jirreġistraw u jiksbu l-kretti għal taqsimiet studju li għalihom hemm assenjati total ta’ 180 krettu ECTS, li minnhom mhux anqas minn 80 krettu ECTS għandhom jinkisbu f ’kull wieħed miż-żewġ oqsma ta’ studju.
+(2) L-istudenti fil-kors tal-Bachelor of Knowledge and Information Management – B.KIM. - ikunu meħtieġa jirreġistraw u jiksbu l-kretti għal taqsimiet studju li għalihom hemm assenjati total ta’ 180 krettu ECTS, li minnhom mhux anqas minn 80 krettu ECTS għandhom jinkisbu f ’kull wieħed miż-żewġ oqsma ta’ studju.
 
 ## 12. Klassifikazzjoni tar- Rikonoxximenti.
 

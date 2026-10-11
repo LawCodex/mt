@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ir-Repubblika Orjentali tal-Urugwaj) (S.L. 123.144)
 
-*1*
-
-(IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ) [L.S.123.144
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.144**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
@@ -54,8 +50,6 @@ B’dan qiegћed jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseћћ fit-13 ta’ Diċembru 2012.
-
-2 [L.S.123.144 (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ)
 
 ## SKEDA
 
@@ -123,8 +117,6 @@ b) fl-Urugwaj:
 
 (iv) it-taxxa għall-assistenza tas-sigurtà soċjali (Impuesto de Asistencia a la Seguridad Social -IASS-); u
 
-(IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ) [L.S.123.144 3
-
 (v) it-taxxa fuq il-kapital (Impuesto al Patrimonio -IP-);
 
 (hawn iżjed ’il quddiem imsejћa "it-taxxa tal-Urugwaj").
@@ -165,8 +157,6 @@ i) il-frażi "awtorità kompetenti" tfisser:
 
 j) il-frażi "nazzjonali" jew "ċittadin", dwar Stat Kontraenti, tfisser, fejn ikun japplika:
 
-4 [L.S.123.144 (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ)
-
 (i) kull individwu li jkollu n-nazzjonalità jew iċ-ċittadinanza ta’ Stat Kontraenti; u
 
 (ii) kull persuna ġuridika, soċjetà jew assoċjazzjoni li jiksbu l-istatus tagћhom bћala tali mil-liġijiet li jkunu fis-sehh f’dak l-iStat Kontraenti;
@@ -199,9 +189,7 @@ Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 persuna li ma tkunx indivi
 
 **STABBILIMENT PERMANENTI**
 
-\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "stabbiliment permanenti" tfisser (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ) [L.S.123.144 5
-
-post tan-negozju fiss li minnu jitmexxa l-kummerċ ta’ impriża gћalkollox jew f’parti minnu.
+\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "stabbiliment permanenti" tfisser post tan-negozju fiss li minnu jitmexxa l-kummerċ ta’ impriża gћalkollox jew f’parti minnu.
 
 \2. Il-frażi "stabbiliment permanenti" b’mod speċjali tinkludi:
 
@@ -247,9 +235,7 @@ Minkejja d-dispożizzjonijiet tal-paragrafi 1 u 2, meta persuna - li ma tkunx a�
 
 ### 6.
 
-Impriża m’għandhiex titqies li jkollha stabbiliment permanenti fi Stat 6 [L.S.123.144 (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ)
-
-Kontraenti biss minћabba li tkun tiġġestixxi negozju f’dak l-iStat Kontraenti permezz ta’ sensal, aġent b’kummissjoni ġenerali jew kull aġent ieћor bi status indipendenti, sakemm dawk il-persuni jkunu qegћdin jaġixxu fil-kors ordinarju tan-negozju tagћhom.
+Impriża m’għandhiex titqies li jkollha stabbiliment permanenti fi Stat Kontraenti biss minћabba li tkun tiġġestixxi negozju f’dak l-iStat Kontraenti permezz ta’ sensal, aġent b’kummissjoni ġenerali jew kull aġent ieћor bi status indipendenti, sakemm dawk il-persuni jkunu qegћdin jaġixxu fil-kors ordinarju tan-negozju tagћhom.
 
 ### 7.
 
@@ -275,9 +261,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \2. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 3, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-iStat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, gћandhom f’kull Stat Kontraenti jiġu attribwiti lil dak l-istabbiliment permanenti l-profitti li dan kien ikun mistenni jagћmel kieku kien impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet jew oћrajn bћalhom u li tkun tittratta gћalkollox b’mod indipendenti mal-impriża li tkun stabbiliment permanenti tagћha.
 
-\3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis dawk l-ispejjeż li jsiru gћall-gћanijiet tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, sew (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ) [L.S.123.144 7
-
-fl-iStat li fih ikun jinsab l-istabbiliment permanenti sew band’oћra.
+\3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis dawk l-ispejjeż li jsiru gћall-gћanijiet tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, sew fl-iStat li fih ikun jinsab l-istabbiliment permanenti sew band’oћra.
 
 \4. Ebda profitti m’għandhom jiġu attribwiti lil stabbiliment permanenti minћabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija gћall-impriża.
 
@@ -307,9 +291,7 @@ b) l-istess persuni jipparteċipaw sew direttament sew indirettament fit-tmexxij
 
 u f’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriżi fir-relazzjonijiet kummerċjali jew finanzjarji tagћhom li ma jkunux jaqblu ma’ dawk li kieku kienu jiġu magћmulin bejn impriżi indipendenti, f’dak il-każ il-profitti li, kieku ma kienx gћal dawk il-kondizzjonijiet, kienu jakkumulaw favur xi waħda mill-impriżi, imma, minћabba f’dawk il-kondizzjonijiet, ma jkunux ġew hekk akkumulati, jistgћu jiġu inklużi fil-profitti ta’ dik l-impriża u jiġu intaxxati b’dak il-mod.
 
-\2. Meta Stat Kontraenti jkun jinkludi fil-profitti ta’ impriża ta’ dak l-iStat - u jkun jintaxxa b’dak il-mod - profitti li fuqhom impriża tal-iStat Kontraenti l-ieħor tkun ġiet intaxxata f’dak l-iStat Kontraenti l-ieħor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinqalgћu mill-impriża tal-ewwel Stat imsemmi li kieku l-kondizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-iStat l-ieħor gћandu jagћmel it-tibdil adatt fl- 8 [L.S.123.144 (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ)
-
-ammont tat-taxxa hemm mitlub fuq dawk il-profitti. Biex jiġi stabbilit dak it-tibdil, gћandhom jitqiesu kif imiss id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim u l-awtoritajiet kompetenti tal-iStati Kontraenti gћandhom jekk ikun hekk meћtieġ jikkonsultaw lil xulxin.
+\2. Meta Stat Kontraenti jkun jinkludi fil-profitti ta’ impriża ta’ dak l-iStat - u jkun jintaxxa b’dak il-mod - profitti li fuqhom impriża tal-iStat Kontraenti l-ieħor tkun ġiet intaxxata f’dak l-iStat Kontraenti l-ieħor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinqalgћu mill-impriża tal-ewwel Stat imsemmi li kieku l-kondizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-iStat l-ieħor gћandu jagћmel it-tibdil adatt fl-ammont tat-taxxa hemm mitlub fuq dawk il-profitti. Biex jiġi stabbilit dak it-tibdil, gћandhom jitqiesu kif imiss id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim u l-awtoritajiet kompetenti tal-iStati Kontraenti gћandhom jekk ikun hekk meћtieġ jikkonsultaw lil xulxin.
 
 \3. Id-dispożizzjonijiet tal-paragrafu 2 m’għandhomx ikunu japplikaw fil-każijiet meta xi operazzjoni waħda jew aktar minn waħda li jwasslu għal aġġustament fil-profitti kif hemm fil-paragrafu 1 jitqiesu li jkunu frawdolenti kif jirriżulta minn xi deċiżjoni ġudizzjarja.
 
@@ -337,9 +319,7 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal-kumpannija gћar-rigward tal-profitti
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-iStat Kontraenti l-ieħor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk u l-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal- Artikolu 7.
 
-\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ) [L.S.123.144 9
-
-income mill-iStat Kontraenti l-ieħor, dak l-iStat Kontraenti l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-iStat l-ieħor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak l-iStat l-ieħor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-iStat l-ieħor.
+\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-iStat Kontraenti l-ieħor, dak l-iStat Kontraenti l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-iStat l-ieħor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak l-iStat l-ieħor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-iStat l-ieħor.
 
 **Artikolu 11**
 
@@ -361,9 +341,7 @@ income mill-iStat Kontraenti l-ieħor, dak l-iStat Kontraenti l-ieħor ma jista�
 
 **ROYALTIES**
 
-\1. Royalties li jinqalgћu fi Stat Kontraenti u li jkunu proprjetà benefiċjarja ta’ 10 [L.S.123.144 (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ)
-
-residenti tal-iStat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-iStat l-ieħor.
+\1. Royalties li jinqalgћu fi Stat Kontraenti u li jkunu proprjetà benefiċjarja ta’ residenti tal-iStat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-iStat l-ieħor.
 
 \2. Madankollu, dawk ir-royalties jistgћu jiġu intaxxati wkoll fl-Istat Kontraenti fejn jinqalgћu u skont il-liġijiet ta’ dak l-Istat, imma jekk is-sid benefiċjarju tar-royalties ikun residenti tal-iStat Kontraenti l-ieħor, it-taxxa hekk imposta m’gћandhiex tkun iżjed minn:
 
@@ -386,8 +364,6 @@ b) 10 fil-mija ta’ l-ammont kollu u sћiћ ta’ royalties, fil-każijiet l-o�
 \1. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli imsemmija fl-Artikolu 6 u li tkun tinsab fl-iStat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-iStat l-ieħor.
 
 \2. Qligћ mit-trasferiment ta’ proprjetà mobbli li tagћmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-iStat Kontraenti l-ieħor, inkluż dak il-qligћ mit-trasferiment ta’ dak l-istabbiliment permanenti (waћdu jew flimkien mal-impriża kollha), jista’ jiġi intaxxat f’dak l-iStat l-ieħor.
-
-(IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ) [L.S.123.144 11
 
 \3. Kull qligћ li jinkiseb minn impriża ta’ Stat Kontraenti mit-trasferiment ta’ bastimenti jew inġenji tal-ajru li jkunu qegћdin jiġu operati fi traffiku internazzjonali jew minn proprjetà mobbli li tkun tappartjeni għall-operazzjoni ta’ dawk il-bastimenti jew inġenji tal-ajru gћandu jiġi intaxxat biss f’dak l-iStat.
 
@@ -423,9 +399,7 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 \1. Minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14 ta’ dan il-Ftehim, income li jinkiseb minn residenti ta’ Stat Kontraenti bћala persuna li tagћti spettaklu, bћal artist tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћala mużiċist, jew bћala sportiv, mill-attivitajiet personali tiegћu bћala tali li jiġu eżerċitati fl-iStat Kontraenti l-ieħor, jistgћu jiġu intaxxati f’dak l-iStat l-ieħor.
 
-\2. Meta income dwar attivitajiet personali eżerċitati minn persuna li tagћti spettaklu jew minn sportiv fil-kapaċità tiegћu bћala tali ma jinġabarx favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iżda favur xi persuna oћra, dak l-income jista’, minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, jiġi intaxxat fl-iStat 12 [L.S.123.144 (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ)
-
-Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
+\2. Meta income dwar attivitajiet personali eżerċitati minn persuna li tagћti spettaklu jew minn sportiv fil-kapaċità tiegћu bћala tali ma jinġabarx favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iżda favur xi persuna oћra, dak l-income jista’, minkejja d-dispożizzjonijiet tal-Artikoli 7 u 14, jiġi intaxxat fl-iStat Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
 
 **Artikolu 17**
 
@@ -461,8 +435,6 @@ Kull ħlas li student jew apprendist fil-kummerċ li jkun jew kien minnufih qabe
 
 \1. Elementi ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalgћu minn fejn jinqalgћu, li ma jkunux ittrattati fl-Artikoli ta’ hawn aktar qabel ta’ dan il-Ftehim gћandhom jiġu intaxxati biss f’dak l-iStat.
 
-(IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ) [L.S.123.144 13
-
 \2. Id-dispożizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw gћal income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, jekk min jirċievi dak l-income, billi jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-iStat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab fih u d-dritt jew il-proprjetà li dwarhom jitћallas l-income ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7.
 
 ## KAPITOLU IV — TAXXA FUQ IL-KAPITAL — Artikolu 21
@@ -489,8 +461,6 @@ Bla ħsara għad-dispożizzjonijiet tal-liġi ta’ Malta dwar li jitћalla li j
 
 a) residenti fl-Urugway, li jkunu qegħdin jiksbu income li jkun, kif hemm fil-liġi ta’ Malta u taħt id-dispożizzjonijiet ta’ dan il-Ftehim, soġġett għal taxxa f’Malta, jistgħu jakkreditaw it-taxxa li tiġi hekk imħallsa għar-rigward ta’ kull taxxa tal-Urugwaj li għandha titħallas dwar l-istess income, bla ħsara għad-dispożizzjonijiet li japplikaw tal-liġi tal- Urugwaj. L-istess ħaġa tkun tapplika wkoll dwar kapitali li jkun, kif hemm fil-liġi ta’ Malta u taħt id-dispożizzjonijiet ta’ dan il-Ftehim, soġġett għal taxxa f’Malta; it-taxxa kapitali hekk imħallsa tista’ tiġi akkreditata għar-rigward ta’ kull taxxa tal-Urugwaj li għandha titħallas dwar l-istess kapital, bla ħsara għad-dispożizzjonijiet li japplikaw tal-liġi tal-Urugwaj. Dak it-tnaqqis m’għandux, madankollu, jeċċedi dik il-parti tat-taxxa tal-Urugwaj fuq l-income jew il-kapital, kif jinħadem qabel ma jingħata t-tnaqqis;
 
-14 [L.S.123.144 (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ)
-
 b) meta, kif jista’ jkun hemm f’xi dispożizzjoni ta’ dan il-Ftehim, xi income miksub minn, jew kapital li jkun proprjetà ta’ residenti tal- Urugwaj ikun eżenti mit-taxxa fl-Urugwaj, l-Urugwaj tista’ madankollu, meta tkun qegħda tikkalkula l-ammont ta’ taxxa fuq l-income jew il-kapital li jifdal ta’ dak ir-residenti, tieħu konsiderazzjoni tal-income jew il-kapital eżentat.
 
 ## KAPITOLU VI — DISPOŻIZZJONIJIET SPEĊJALI — Artikolu 23
@@ -511,9 +481,7 @@ b) meta, kif jista’ jkun hemm f’xi dispożizzjoni ta’ dan il-Ftehim, xi in
 
 **PROĊEDURA TA’ FTEHIM REĊIPROKU**
 
-\1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wiehed jew taż-żewġ Stati Kontraenti jirriżultawlha jew għandhom jirriżultawlha f’taxxa li ma tkunx kif hemm fid-dispożizzjonijiet ta’ dan il-Ftehim, hija tista’, irrispettivament mir-rimedji (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ) [L.S.123.144 15
-
-provduti mil-liġi domestika ta’ dawk l-iStati, tippreżenta l-każ tagћha quddiem l-awtorità kompetenti tal-iStat Kontraenti fejn hija tkun residenti jew, jekk il-każ tagħha jkun jaqa’ taћt il-paragrafu 1 tal-Artikolu 23, quddiem dik tal-iStat Kontraenti li hija tkun nazzjonali jew ċittadin tagћha. Il-każ gћandu jiġi ppreżentat fi żmien tliet snin mill-ewwel avviż tal-azzjoni li tirriżulta f’taxxa li ma tkunx kif hemm fid-dispożizzjonijiet tal-Ftehim.
+\1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wiehed jew taż-żewġ Stati Kontraenti jirriżultawlha jew għandhom jirriżultawlha f’taxxa li ma tkunx kif hemm fid-dispożizzjonijiet ta’ dan il-Ftehim, hija tista’, irrispettivament mir-rimedji provduti mil-liġi domestika ta’ dawk l-iStati, tippreżenta l-każ tagћha quddiem l-awtorità kompetenti tal-iStat Kontraenti fejn hija tkun residenti jew, jekk il-każ tagħha jkun jaqa’ taћt il-paragrafu 1 tal-Artikolu 23, quddiem dik tal-iStat Kontraenti li hija tkun nazzjonali jew ċittadin tagћha. Il-każ gћandu jiġi ppreżentat fi żmien tliet snin mill-ewwel avviż tal-azzjoni li tirriżulta f’taxxa li ma tkunx kif hemm fid-dispożizzjonijiet tal-Ftehim.
 
 \2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha li hi waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-iStat Kontraenti l-ieħor, bil-gћan li tiġi evitata taxxa li ma tkunx kif hemm fil-Ftehim. Kull ftehim li jintlaћaq gћandu jiġi implimentat minkejja kull skadenza ta’ terminu fil-liġi domestika tal-iStati Kontraenti.
 
@@ -535,9 +503,7 @@ a) li jwettaq miżuri amministrattivi li ma jkunux jaqblu mal-liġijiet u mal-pr
 
 b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l-iStat Kontraenti jew tal-iStat Kontraenti l-ieħor;
 
-ċ) li tagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew 16 [L.S.123.144 (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ)
-
-informazzjoni li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public).
+ċ) li tagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew informazzjoni li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
 \4. Jekk tintalab xi informazzjoni minn Stat Kontraenti kif hawn f’dan l- Artikolu, l-iStat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jikseb l-informazzjoni mitluba, ukoll jekk dak l-iStat l-ieħor jista’ ma jkunx jeħtieġ dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 imma f’ebda każ ma għandhom dawk il-limitazzjonijiet jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
@@ -566,8 +532,6 @@ b) għar-rigward ta’ taxxi oħra, għall-perjodi ta’ taxxa li jibdew fl-ewwe
 a) dwar affarijiet ta’ xorta kriminali li għandhom x’jaqsmu mat-taxxa, fid-data meta dan jiibda jseħħ; u
 
 b) dwar kull ħaġa oħra, f’dik id-data, imma biss dwar il-perjodi ta’ taxxa li jibdew f’dik jew wara dik id-data, jew meta ma jkun hemm ebda perjodi ta’ taxxa, kull ħlas ta’ taxxa li jsir f’dik jew wara dik id-data.
-
-(IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ) [L.S.123.144 17
 
 **Artikolu 28**
 
@@ -600,8 +564,6 @@ a) meta soċjetà li tkun stabbilita fi Stat Kontraenti tirċievi income li jinq
 b) skema ta’ investiment kollettiv li tkun stabbilita fi Stat Kontraenti għandha titqies li tkun residenti ta’ dak l-iStat Kontraenti. Skema ta’ investiment kollettiv tfisser skema jew arranġament li jkunu rikonoxxuti taħt il-liġijiet ta’ Stat Kontraenti li jkunu jirregolaw il-flejjes;
 
 ċ) l-entitajiet inklużi fl-Artikolu 7 tat-Titolu 7 Texto Ordenado 1996 taħt il-liġi tal-Urugwaj għandhom jitqiesu li huma residenti tal-Urugway. 2. Fl-Artikolu 10, paragrafu 2:
-
-18 [L.S.123.144 (IR-REPUBBLIKA ORJENTALI TAL-URUGWAJ)
 
 Jiftiehem illi:
 

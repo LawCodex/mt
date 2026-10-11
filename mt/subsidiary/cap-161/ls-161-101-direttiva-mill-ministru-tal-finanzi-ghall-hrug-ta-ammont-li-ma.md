@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta’ ammont li ma jeċċedix €81,528,068.95 5.4% Stock tal-Gvern ta’ Malta 2010 (Ir-Raba’ Ħruġ) (S.L. 161.101)
 
-ĦRUĠ TA’ AMMONT LI MA JEĊĊEDIX €81,528,068.95
-
-5.4% STOCK TAL-GVERN TA’ MALTA 2010
-
-*1*
-
-(IR-RABA’ ĦRUĠ) [L.S.161.101
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.101**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

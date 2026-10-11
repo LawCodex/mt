@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Tismija ta' Żoni Speċjali dwar Proprjetà Immobbli"
-identifier: "S.L. 246.2"
+identifier: "S.L. 246.02"
 eli: "https://legislation.mt/eli/sl/246.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/246.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Tismija ta' Żoni Speċjali dwar Proprjetà Immobbli (S.L. 246.2)
-
-*1*
-
-PROPRJETÀ IMMOBBLI [L.S.246.02
+# Regolamenti dwar Tismija ta' Żoni Speċjali dwar Proprjetà Immobbli (S.L. 246.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 246.02**
 
@@ -79,11 +75,9 @@ It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar Tismija ta’ |oni Spe`j
 
 (3) Qabel ma jo]ro[ dan l-Ordni, il-Ministru g]andu ji\\gura ru]u li jin[iebu provi sodisfa`enti li l-applikant ikun \\amm mal-kondizzjonijiet kollha applikabbli ta’ dawn ir-regolamenti.
 
-*3*
-
-PROPRJETÀ IMMOBBLI [L.S.246.02 (4) Meta ti[i approvata l-applikazzjoni mill-Ministru, imma qabel ma \\ona tkun imsemmija b]ala |ona Spe`jali Msemmija, l-applikant g]andu j]allas g]al darba wa]da biss dritt ta’ tlieta u g]oxrin elf euro (€23,000) b’\\jieda ta’ \\ew[ euro u tlieta u tletin `ente\\mu (€2.33) g]al kull metru kwadru ta’ area ta’ paviment totali li tkun ta’ aktar minn tletin elf metru kwadru (30,000m2).
-
 *Dritt li g]andu jit]allas.*
+
+(4) Meta ti[i approvata l-applikazzjoni mill-Ministru, imma qabel ma \\ona tkun imsemmija b]ala |ona Spe`jali Msemmija, l-applikant g]andu j]allas g]al darba wa]da biss dritt ta’ tlieta u g]oxrin elf euro (€23,000) b’\\jieda ta’ \\ew[ euro u tlieta u tletin `ente\\mu (€2.33) g]al kull metru kwadru ta’ area ta’ paviment totali li tkun ta’ aktar minn tletin elf metru kwadru (30,000m2).
 
 ## 5. Il-Ministru g]andu j\\omm re[istru tat-trasferimenti.
 

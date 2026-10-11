@@ -15,16 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kondizzjonijiet ta’ Dħul u Residenza ta’ Ċittadini ta’ Pajjiżi Terzi għall-Finijiet ta’ Riċerka, Studji, Taħriġ u Servizz Volontarju fil-Proġett ta’ Mobilità għaż-Żgħażagħ: Proġetti Volontarji (S.L. 217.22)
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*1*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.22**
 
 **REGOLAMENTI DWAR IL-KONDIZZJONIJIET TA’**
@@ -59,16 +49,6 @@ Iżda l-kategoriji ta’ ċittadini ta’ pajjiżi terzi li jistgħu jiddaħħlu
 
 *Skop.*
 
-**ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’**
-
-**RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU**
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-**PROĠETTI VOLONTARJI**
-
-*[L.S. 217.22 2*
-
 (a) il-kondizzjonijiet ta’ dħul u residenza għal perjodu ta’ aktar minn 90 jum f'Malta, u d-drittijiet ta’ ċittadini ta’ pajjiżi terzi, u fejn applikabbli tal-membri tal-familja tagħhom, għall-fini ta’ riċerka, studji, taħriġ jew servizz volontarju fil- Proġett ta’ Mobilità għaż-Żgħażagħ: Proġetti Volontarji;
 
 (b) il-kondizzjonijiet ta’ dħul u residenza, u d-drittijiet tar-riċerkaturi, u fejn applikabbli l-membri tal-familja tagħhom u studenti, imsemmija fil-paragrafu (a) f'Malta, fejn ċittadini ta’ pajjiżi terzi ngħataw awtorizzazzjoni f'xi Stat Membru ieħor fuq il-bażi tad-Direttiva 2016/801/UE tal-Kunsill tal-11 ta’ Mejju 2016 dwar il-kondizzjonijiet ta' dħul u residenza ta’ ċittadini ta’ pajjiżi terzi għall-finijiet ta’ riċerka, studji, taħriġ, servizz volontarju, skemi ta’ skambju ta’ studenti jew proġetti edukattivi u au pairing.
@@ -97,17 +77,7 @@ F’dawn ir-regolamenti, kemm-il darba ir-rabta tal-kliem ma teħtieġx xort’o
 
 "entità ospitanti" tfisser organizzazzjoni ta’ riċerka, istituzzjoni ta’ edukazzjoni għolja, stabbiliment edukattiv, organizzazzjoni responsabbli għall-Proġett ta’ Mobilità għaż- Żgħażagħ: skema dwar il-Proġetti Volontarji, jew entità li tospita trainees li għalihom iċ-ċittadin ta’ pajjiż terz ikun assenjat għall-finijiet ta’ dawn ir-regolamenti u li tinsab fit-territorju ta’ Malta, irrispettivament mill-forma legali tagħha, f’konformità mal-liġi nazzjonali;
 
-"impjieg" tfisser l-eżerċizzju ta’ attivitajiet li jkopru kwalunkwe forma ta’ xogħol jew xogħol regolat skont il-liġi nazzjonali jew ftehimiet kollettivi applikabbli jew f’konformità ma’ prattika stabbilita għal jew taħt id-direzzjoni jew is- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*3*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-superviżjoni ta’ min jimpjega;
+"impjieg" tfisser l-eżerċizzju ta’ attivitajiet li jkopru kwalunkwe forma ta’ xogħol jew xogħol regolat skont il-liġi nazzjonali jew ftehimiet kollettivi applikabbli jew f’konformità ma’ prattika stabbilita għal jew taħt id-direzzjoni jew is-superviżjoni ta’ min jimpjega;
 
 "istituzzjoni ta’ edukazzjoni għolja" tfisser provditur ta’ tagħlim jew ta’ riċerka formali mhux formali jew informali li ma tkunx parti mill-edukazzjoni obbligatorja li tista’ sservi sabiex tinkiseb kwalifika nazzjonali klassifikata fil-livell 5 tal- Qafas tal-Kwalifiki ta’ Malta jew ogħla, jew kwalifika barranija ta’ livell komparabbli;
 
@@ -129,16 +99,6 @@ superviżjoni ta’ min jimpjega;
 
 "programmi tal-Unjoni jew multilaterali li jinkludu miżuri ta’ mobilità " tfisser programmi ffinanzjati mill-Unjoni jew minn Stati Membri li jippromwovu l-mobilità ta’ ċittadini ta’ pajjiz terz fl-Unjoni jew fl-Istati Membri parteċipanti fil-programmi rispettivi;
 
-**ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’**
-
-**RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU**
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-**PROĠETTI VOLONTARJI**
-
-*[L.S. 217.22 4*
-
 "riċerka" tfisser xogħol kreattiv eżegwit fuq bażi sistematika sabiex jiżdied l-għarfien, inkluża l-għarfien dwar il-bniedem, il-kultura u s-soċjetà, u l-użu ta’ dan l-għarfien sabiex jiġu żviluppati applikazzjonijiet ġodda;
 
 "riċerkatur" tfisser ċittadin ta’ pajjiż terz li jkollu lawrja dottorali jew kwalifika ta’ edukazzjoni għolja adegwata li tagħti lil dak iċ-ċittadin ta’ pajjiż terz aċċess għal programmi ta’ dottorat, li jiġi magħżul minn organizzazzjoni ta’ riċerka u ammess f’Malta għat-twettiq ta’ attività ta’ riċerka li għaliha tkun normalment meħtieġa dik il-kwalifika;
@@ -156,16 +116,6 @@ FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
 "it-tieni Stat Membru" tfisser l-Istat Membru li fih iċ-ċittadin ta’ pajjiż terz jiċċaqlaq wara li jkun ingħata l-awtorizzazzjoni minn Malta bħala l-Istat Membru l-ieħor;
 
 "trainee" tfisser ċittadin ta’ pajjiż terz li għandu lawrja ta’ edukazzjoni għolja jew li qed isegwi kors ta’ studju f’pajjiż terz li jwassal għal lawrja ta’ edukazzjoni għolja u li jkun ammess fit-territorju ta’ Malta għal programm ta’ taħriġ għall-fini li jikseb għarfien, prattika u esperjenza f’ambjent professjonali;
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*5*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
 
 "Uffiċjal Eżekuttiv Ewlieni" tfisser l-Uffiċjal Eżekuttiv Ewlieni, Immaniġġjar tal-Identità u Servizzi Anċillari’ li jkun responsabbli għall-prestazzjoni, il-funzjonijiet u d-dmirijiet tal- Aġenzija Identità Malta skont l-Ordni li Jwaqqaf l-Aġenzija Identità Malta;
 
@@ -190,16 +140,6 @@ PROĠETTI VOLONTARJI [L.S. 217.22
 (b) li t-tkeċċija tagħhom ġiet sospiża għal raġunijiet ta’ fatt jew ta’ liġi;
 
 (ċ) li huma membri tal-familja ta’ ċittadini tal-Unjoni li eżerċitaw id-dritt tagħhom għall-moviment ħieles fl-Unjoni;
-
-**ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’**
-
-**RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU**
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-**PROĠETTI VOLONTARJI**
-
-*[L.S. 217.22 6*
 
 (d) li jgawdu status ta’ resident fit-tul fi Stat Membru skont ir-Regolamenti dwar Status ta' Residenti li Joqogħdu għal Żmien Twil (Ċittadini ta’ Pajjiżi Terzi) u d-Direttiva tal-Kunsill 2003/109/KE dwar l-istatus ta’ ċittadini ta’ pajjiz terz li jkunu residenti fit-tul;
 
@@ -231,17 +171,7 @@ Kondizzjonijiet għall-ammissjoni
 
 (1) L-ammissjoni ta’ ċittadin ta’ pajjiż terz taħt dawn ir-regolamenti għandha tkun soġġetta għall-verifika ta’ evidenza dokumentata, li għandha tkun bil-lingwa Maltija jew Ingliża, li turi li ċ-ċittadin ta’ pajjiż terz jilħaq:
 
-(a) il-kondizzjonijiet ġenerali stabbiliti fir- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*7*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-regolament 7; u
+(a) il-kondizzjonijiet ġenerali stabbiliti fir-regolament 7; u
 
 (b) il-kondizzjonijiet speċifiċi rilevanti fir-regolamenti 8, 11, 12 jew 13.
 
@@ -267,15 +197,7 @@ Iżda, fir-rigward tal-istudenti, l-awtoritajiet pertinenti jistgħu jew jikkuns
 
 (d) evidenza li kull dritt li jista’ jkun applikabbli ikun tħallas;
 
-(e) evidenza li matul il-permanenza ppjanata, l- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*8*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
-applikant ikollu riżorsi suffiċjenti biex ikopri spejjeż ta’ sussistenza mingħajr ma jirrikorri għas-sistema ta' assistenza soċjali nazzjonali f'Malta kif ukoll biex ikopri l-ispejjeż għall-vjaġġ lura:
+(e) evidenza li matul il-permanenza ppjanata, l-applikant ikollu riżorsi suffiċjenti biex ikopri spejjeż ta’ sussistenza mingħajr ma jirrikorri għas-sistema ta' assistenza soċjali nazzjonali f'Malta kif ukoll biex ikopri l-ispejjeż għall-vjaġġ lura:
 
 Iżda l-valutazzjoni tar-riżorsi suffiċjenti għandha tkun ibbażata fuq eżami individwali tal-każ u għandha tqis ir-riżorsi li jkunu ġejjin, fost l-oħrajn, minn għotja, borża ta’ studju jew fellowship, kuntratt ta' xogħol validu jew offerta vinkolanti ta’ impjieg jew impenn finanzjarju minn entità li tospita t-trainees, jew organizzazzjoni għall-Proġett ta’ Mobilità għaż-Żgħażagħ: skema ta’ Proġetti Volontarji:
 
@@ -293,17 +215,7 @@ Iżda, l-Uffiċjal Eżekuttiv Ewlieni jista’ jaċċetta applikazzjoni ppreżen
 
 (5) L-applikazzjoni għandha tiġi ppreżentata miċ-ċittadin ta’ pajjiż terz u approvata mill-entità ospitanti.
 
-(6) Ċittadin ta’ pajjiż terz li huwa kkunsidrat bħala theddida ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*9*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-għall-ordni pubblika, is-sigurtà pubblika jew is-saħħa pubblika m’għandux jiġi ammess.
+(6) Ċittadin ta’ pajjiż terz li huwa kkunsidrat bħala theddida għall-ordni pubblika, is-sigurtà pubblika jew is-saħħa pubblika m’għandux jiġi ammess.
 
 ### 8. Kondizzjonijiet speċifiċi għar-riċerkaturi.
 
@@ -322,14 +234,6 @@ Iżda, meta d-dritt ta’ residenza tar-riċerkatur jiġi estiż skont ir-regola
 (2) L-approvazzjoni mogħtija mill-Kunsill taħt is-subregolament (1) għandha tkun valida għal perjodu minimu ta’ ħames snin; f’każijiet eċċezzjonali tista’ tingħata approvazzjoni għal perjodu iqsar.
 
 (3) F’Jannar ta’ kull sena, il-Kunsill għandu jippubblika lista ta’ organizzazzjonijiet ta’ riċerka approvati għall-għanijiet ta’ dawn ir-regolamenti fil-Gazzetta tal-Gvern u fis-sit uffiċjali tal-Kunsill.
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*10*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
 
 (4) Il-Kunsill jista’ jirrifjuta li jġedded jew jista’ jiddeċiedi li jirtira l-approvazzjoni tal-organizzazzjoni ta’ riċerka fejn:
 
@@ -353,17 +257,7 @@ RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦ
 
 (a) it-titolu jew il-fini tal-attività ta’ riċerka jew il-qasam ta’ riċerka;
 
-(b) impenn miċ-ċittadin ta’ pajjiż terz biex jaħdem ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*11*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-għat-tlestija tal-attività ta’ riċerka;
+(b) impenn miċ-ċittadin ta’ pajjiż terz biex jaħdem għat-tlestija tal-attività ta’ riċerka;
 
 (ċ) impenn mill-organizzazzjoni ta’ riċerka biex tospita ċittadin ta’ pajjiż terz bil-għan li jlesti l-attività ta’ riċerka;
 
@@ -389,15 +283,7 @@ għat-tlestija tal-attività ta’ riċerka;
 
 (8) Fi żmien xahrejn mid-data tal-iskadenza tal-ftehim ta’ akkoljenza, l-organizzazzjoni ta’ riċerka għandha tipprovdi lill-Kunsill l-konferma li l-attività ta’ riċerka ġiet imwettqa.
 
-(9) Meta l-approvazzjoni tal-ftehim ta’ akkoljenza eżistenti ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*12*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
-tkun irtirata jew ma tiġġeddidx, l-organizzazzjoni tar-riċerka tista’ tappella lill-Bord. Ir-riċerkatur għandu jkollu awtorizzazzjoni biex jibqa’ f’Malta sakemm tittieħed deċiżjoni mill-Bord fir-rigward tiegħu.
+(9) Meta l-approvazzjoni tal-ftehim ta’ akkoljenza eżistenti tkun irtirata jew ma tiġġeddidx, l-organizzazzjoni tar-riċerka tista’ tappella lill-Bord. Ir-riċerkatur għandu jkollu awtorizzazzjoni biex jibqa’ f’Malta sakemm tittieħed deċiżjoni mill-Bord fir-rigward tiegħu.
 
 ### 11. Kondizzjonijiet speċifiċi għall-istudenti.
 
@@ -421,15 +307,7 @@ tkun irtirata jew ma tiġġeddidx, l-organizzazzjoni tar-riċerka tista’ tappe
 
 (a) jippreżenta ftehim ta’ taħriġ, li jipprovdi għal taħriġ teoretiku u prattiku, ma’ entità ospitanti. L-Uffiċjal Eżekuttiv Ewlieni jista’ jesiġi li dak il-ftehim ta’ taħriġ ikun approvat mill-awtorità responsabbli għall-impjieg u mill-awtoritajiet edukattivi pertinenti u li t-termini li fuqhom il-ftehim ikun gie bbażat jilħqu r-rekwiżiti stabbiliti mill-liġi, ftehim kollettiv jew prattiċi. Il-ftehim ta’ taħriġ għandu jinkludi:
 
-(i) deskrizzjoni tal-programm ta’ taħriġ, inkluż l-għan edukattiv jew il-komponenti ta’ tagħlim; ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*13*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
+(i) deskrizzjoni tal-programm ta’ taħriġ, inkluż l-għan edukattiv jew il-komponenti ta’ tagħlim;
 
 (ii) it-tul ta’ żmien ta’ traineeship;
 
@@ -454,14 +332,6 @@ PROĠETTI VOLONTARJI [L.S. 217.22
 (3) L-Uffiċjal Eżekuttiv Ewlieni għandu jesiġi li l-entità ospitanti tissostanzja li t-traineeship ma jiħux il-post ta’ impjieg.
 
 (4) L-Uffiċjal Eżekuttiv Ewlieni għandu jeżiġi impenn bil-miktub mill-entità ospitanti li, f’każijiet fejn trainee jibqa’ illegalment fit-territorju ta’ Malta, dik l-entità ospitanti tkun responsabbli għar-rimborż tal-ispejjeż relatati mal-permanenza u r-ritorn tat-trainee li jkunu tħallsu mill-fondi pubbliċi. Ir-responsabbiltà finanzjarja tal-entità ospitanti għandha tintemm sa mhux iktar tard minn sitt xhur wara li jintemm il-ftehim ta’ taħriġ.
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*14*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
 
 ### 13. Kondizzjonijiet speċifiċi għal voluntiera li jipparteċipaw fil- Proġett ta’ Mobilità għaż- Żgħażagħ: Proġetti Volontarji.
 
@@ -491,16 +361,6 @@ Minbarra l-kondizzjonijiet ġenerali stabbiliti fir-regolament 7, ċittadin ta�
 
 (3) Meta l-quality label tkun ġiet stabbilita skont is-subregolamenti (1) u (2), għandha tipprovdi informazzjoni ċara u trasparenti lill-entitajiet ospitanti konċernati, dwar, fost l-oħrajn, il-kondizzjonijiet u l-kriterji biex tinkiseb il-quality label, il-perjodu ta’ validità tagħha, il-konsegwenzi tan-nonkonformità, inkluż il-possibbilità ta’ rtirar jew nuqqas ta’ tiġdid, kif ukoll dwar kwalunkwe sanzjoni applikabbli.
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*15*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
 ## TAQSIMA III — L-Awtorizzazzjonijiet u t-Tul ta’ Żmien ta’ Residenza
 
 ### 15. Awtorizzaz-zjonijiet.
@@ -523,14 +383,6 @@ Iżda l-perjodu ta’ awtorizzazzjoni għar-riċerkaturi li huma koperti minn pr
 
 Iżda wkoll, jekk il-kondizzjonijiet ġenerali stabbiliti fir-regolament 7 ma jintlaħqux għas-sentejn jew għall-perjodu kollu tal-ftehim ta’ akkoljenza, għandu japplika l-ewwel paragrafu ta’ dan is-subregolament. L-Uffiċjal Eżekuttiv Ewlieni għandu jżomm id–dritt li jivverifika li r-raġunijiet għall-irtirar stabbiliti fir-regolament 18 ma japplikawx.
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*16*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
 (2) Il-perjodu ta’ validità ta’ awtorizzazzjoni għall-istudenti għandu jkun mill-anqas sena, jew għat-tul tal-istudji fejn dan ikun iqsar u l-awtorizzazzjoni għandha tkun imġedda sakemm dan ma jkunx eskluż kif provdut fir-regolament 18:
 
 Iżda, il-perjodu ta’ awtorizzazzjoni għall-istudenti li huma koperti minn programmi tal-Unjoni jew programmi multilaterali li jinkludu miżuri ta’ mobilità jew minn ftehim bejn żewġ istituzzjonijiet ta’ edukazzjoni għolja jew aktar għandu jkun mill-anqas sentejn, jew għat-tul tal-istudji tagħhom fejn dan ikun iqsar:
@@ -546,16 +398,6 @@ Iżda, jekk il-perjodu tal-ftehim ikun ta’ aktar minn sitt xhur, it-tul tal-va
 (5) Il-perjodu ta’ validità ta’ awtorizzazzjoni għall-voluntiera għandu jkun għat-tul tal-ftehim imsemmi fir-regolament (13)(a) fejn dan ikun iqsar minn sena, jew għal perjodu massimu ta’ sena:
 
 Iżda, jekk il-perjodu ta’ validità tal-awtorizzazzjoni għall-voluntiera jkun ta’ aktar minn sena, it-tul tal-validità tal-awtorizzazzjoni jista’ jikkorrispondi mal-perjodu kkonċernat li jkun suġġett għall-approvazzjoni tal-awtoritajiet pertinenti edukattivi. L-Uffiċjal Eżekuttiv Ewlieni, f’konsultazzjoni mal-awtoritajiet pertinent edukattivi, jista’ jiddeċiedi li jippermetti darba t-tiġdid tal-awtorizzazzjoni għall-perjodu meħtieġ biex jitlesta is-servizz volontarju, jekk id-dispożizzjonijiet tar-regolament 18 ma japplikawx.
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*17*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
 
 (6) L-Uffiċjal Eżekuttiv Ewlieni jew l-awtoritajiet responsabbli għal ħruġ ta’ viża jistgħu jiddeterminaw li, fil-każ li l-validità tad-dokument tal-ivvjaġġar taċ-ċittadin ta’ pajjiz terz ikkonċernat tkun inqas minn sena jew inqas minn sentejn fil-każijiet imsemmija fis-subregolamenti (1) u (2), il-perjodu ta’ validità tal-awtorizzazzjoni m’għandiex taqbeż il-perjodu ta’ validità tad-dokument tal-ivvjaġġar.
 
@@ -581,15 +423,7 @@ PROĠETTI VOLONTARJI [L.S. 217.22
 
 (b) fejn applikabbli, it-termini ta’ impjieg kif provduti fil-liġi jew fi ftehim kollettiv jew prattika f’Malta ma jintlaħqux mill-entità ospitanti li ser timpjega ċ-ċittadin ta’ pajjiż terz;
 
-(ċ) l-entità ospitanti jew korp ieħor kif imsemmi fir- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*18*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
-regolament 13(a), ikunu ġew sanzjonati skont il-liġi minħabba xogħol mhux iddikjarat jew impjieg illegali;
+(ċ) l-entità ospitanti jew korp ieħor kif imsemmi fir-regolament 13(a), ikunu ġew sanzjonati skont il-liġi minħabba xogħol mhux iddikjarat jew impjieg illegali;
 
 (d) l-entità ospitanti ġiet stabbilita jew topera bil-għan ewlieni li tiffaċilita d-dħul ta’ ċittadini ta’ pajjiż terz li jaqgħu taħt dawn ir-regolamenti;
 
@@ -615,17 +449,7 @@ regolament 13(a), ikunu ġew sanzjonati skont il-liġi minħabba xogħol mhux id
 
 (2) L-Uffiċjal Eżekuttiv Ewlieni jista’ jirtira jew jirrifjuta li jġedded awtorizzazzjoni fejn:
 
-(a) l-entità ospitanti jew kwalunkwe korp ieħor kif imsemmi fir-regolament 13(a), ikunu naqsu milli jissodisfaw l- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*19*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-obbligi legali tagħhom fir-rigward tas-sigurtà soċjali, tassazzjoni, drittijiet tal-impjieg jew kondizzjonijiet tal-impjieg;
+(a) l-entità ospitanti jew kwalunkwe korp ieħor kif imsemmi fir-regolament 13(a), ikunu naqsu milli jissodisfaw l-obbligi legali tagħhom fir-rigward tas-sigurtà soċjali, tassazzjoni, drittijiet tal-impjieg jew kondizzjonijiet tal-impjieg;
 
 (b) fejn applikabbli, it-termini ta’ impjieg kif provdut fil-liġi nazzjonali jew fi ftehim kolletiv jew prattika f’Malta ma jintlaħqux mill-entità ospitanti li ser timpjega ċ-ċittadin ta’ pajjiż terz;
 
@@ -644,14 +468,6 @@ obbligi legali tagħhom fir-rigward tas-sigurtà soċjali, tassazzjoni, drittiji
 (4) L-Uffiċjal Eżekuttiv Ewlieni għandu jirtira jew jirrifjuta li jġedded awtorizzazzjoni għal raġunijiet ta’ ordni pubblika, sigurtà pubblika jew saħħa pubblika.
 
 (5) Fejn ċittadin ta’ pajjiż terz japplika għat-tiġdid tal-awtorizzazzjoni biex jidħol jew ikompli jkun f’relazzjonijiet ta’ impjieg f’Malta, bl-eċċezzjoni ta’ riċerkatur li jkompli r-relazzjoni ta’ impjieg mal-istess entità ospitanti, l-Uffiċjal Eżekuttiv Ewlieni jista’ jivverifika mal-awtoritajiet responsabbli għall-impjieg, jekk il-post inkwistjoni jistax jimtela’ minn ċittadini Maltin jew minn ċittadini oħra tal-Unjoni, jew minn ċittadini ta’ pajjiż terz li ilhom residenti f’Malta għal żmien twil, f’liema każ jista’ jirrifjuta li jġedded l-awtorizzazzjoni. Din id-dispożizzjoni għandha tapplika mingħajr ħsara għall-prinċipju tal-preferenza għal ċittadini tal-Unjoni kif provdut fid-dispożizzjonijiet rilevanti tat-Trattat tal-Adeżjoni.
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*20*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
 
 (6) Fejn l-Uffiċjal Eżekuttiv Ewlieni jkollu l-ħsieb li jirtira jew ma jġeddidx l-awtorizzazzjoni ta’ student skont is-subregolamenti (2)(a), (ċ), (d) jew (e), l-istudent għandu jitħalla jippreżenta applikazzjoni biex ikun ospitat minn istituzzjoni ta’ edukazzjoni għolja differenti għal kors ta’ studju ekwivalenti sabiex ikunu jistgħu jitlestew l-istudji.
 
@@ -677,19 +493,9 @@ RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦ
 
 (d) l-aċċess għall-akkomodazzjoni.
 
-(3) It-trainees u l-voluntiera, meta jitqiesu li huma f’relazzjoni ta’ impjieg f’Malta, u l-istudenti għandhom ikunu intitolati għal trattament indaqs bħaċ-ċittadini Maltin kif provdut fir-regolament 23 tar-Regolamenti dwar Proċedura ta’ Applikazzjoni Waħda għal Permess Uniku fir-Rigward ta’ Residenza u Xogħol u ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
+(3) It-trainees u l-voluntiera, meta jitqiesu li huma f’relazzjoni ta’ impjieg f’Malta, u l-istudenti għandhom ikunu intitolati għal trattament indaqs bħaċ-ċittadini Maltin kif provdut fir-regolament 23 tar-Regolamenti dwar Proċedura ta’ Applikazzjoni Waħda għal Permess Uniku fir-Rigward ta’ Residenza u Xogħol u Ġabra Komuni ta’ Drittijiet Għal Dawk il-Ħaddiema ta’ Pajjiżi Terzi li Jirrisjedu Legalment f’Malta, suġġett għar-restrizzjonijiet provduti f’dak ir-regolament.
 
 *L.S. 217.17.*
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*21*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-Ġabra Komuni ta’ Drittijiet Għal Dawk il-Ħaddiema ta’ Pajjiżi Terzi li Jirrisjedu Legalment f’Malta, suġġett għar-restrizzjonijiet provduti f’dak ir-regolament.
 
 (4) Trainees u voluntiera, meta ma jitqisux li huma f’relazzjoni ta’ impjieg f’Malta għandhom ikunu intitolati għal trattament indaqs rigward l-aċċess għal beni u servizzi kif ukoll rigward il-forniment ta’ beni u servizzi li jkunu disponibbli għal pubbliku, kif ukoll, fejn applikabbli, rigward ir-rikonoxximent ta’ diplomi, ċertifikati u kwalifiki professjonali oħra skont il-proċeduri nazzjonali rilevanti, ħlief aċċess għall-akkomodazzjoni u trattament indaqs rigward is-servizzi provduti mill-uffiċċji pubbliċi tal-impjieg.
 
@@ -713,15 +519,7 @@ Iżda, l-istudent għandu jkollu fil-pussess tiegħu liċenżja tal-impjieg maħ
 
 Iżda, l-awtoritajiet responsabbli mill-edukazzjoni u l-impjieg f’konsultazzjoni mal-Uffiċjal Eżekuttiv Ewlieni jistgħu jiddeċiedu li jistabbilixxu livell minimu ta’ kwalifiki li l-istudenti għandhom ikunu laħqu sabiex jibbenefikaw minn din il-possibilità, liema livell ma għandux ikun ogħla minn livell 7 tal-Qafas Ewropew tal-Kwalifiki.
 
-(2) Għall-fini tal-permanenza msemmija fis-subregolament ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*22*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
-(1), l-Uffiċjal Eżekuttiv Ewlieni għandu, meta ssir applikazzjoni mir-riċerkatur jew l-istudent, joħroġ permess ta’ residenza lil dak iċ-ċittadin tal-pajjiż terz skont ir-Regolament (KE) Nru 1030/2002, fejn il-kondizzjonijiet stipulati fir-regolament 7(1)(a), (ċ), (d), u (e), ir-regolament 7(6) u, fejn applikabbli, fir-regolament 7(2) għadhom sodisfatti.
+(2) Għall-fini tal-permanenza msemmija fis-subregolament (1), l-Uffiċjal Eżekuttiv Ewlieni għandu, meta ssir applikazzjoni mir-riċerkatur jew l-istudent, joħroġ permess ta’ residenza lil dak iċ-ċittadin tal-pajjiż terz skont ir-Regolament (KE) Nru 1030/2002, fejn il-kondizzjonijiet stipulati fir-regolament 7(1)(a), (ċ), (d), u (e), ir-regolament 7(6) u, fejn applikabbli, fir-regolament 7(2) għadhom sodisfatti.
 
 (3) Fil-każ tar-riċerkaturi, l-Uffiċjal Eżekuttiv Ewlieni għandu jesiġi konferma mill-organizzazzjoni ta’ riċerka tat-tlestija tal-attività ta’ riċerka jew, għall-istudenti, evidenza li kisbu diploma jew ċertifikat ta’ edukazzjoni għolja jew evidenza oħra ta’ kwalifiki formali.
 
@@ -739,17 +537,7 @@ RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦ
 
 (8) Wara minimu ta’ tliet xhur mill-ħruġ tal-permess ta’ residenza taħt dan ir-regolament, l-Uffiċjal Eżekuttiv Ewlieni għandu jeżiġi li ċ-ċittadin ta’ pajjiż terz jagħti prova li huwa għandu ċans ġenwin li jiġi ngaġġat jew li jibda negozju.
 
-(9) Jekk il-kondizzjonijiet provduti fis-subregolamenti (2), (3) jew (8) ma għadhomx iktar sodisfatti, l-Uffiċjal Eżekuttiv Ewlieni jista’ jirtira l-permess ta’ residenza taċ-ċittadin ta’ pajjiż terz u, fejn ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*23*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-applikabbli, tal-familja tiegħu kif provdut fil-liġi.
+(9) Jekk il-kondizzjonijiet provduti fis-subregolamenti (2), (3) jew (8) ma għadhomx iktar sodisfatti, l-Uffiċjal Eżekuttiv Ewlieni jista’ jirtira l-permess ta’ residenza taċ-ċittadin ta’ pajjiż terz u, fejn applikabbli, tal-familja tiegħu kif provdut fil-liġi.
 
 (10) Id-dispożizzjonijiet ta’ dan ir-regolament għandhom japplikaw għar-riċerkaturi u, fejn applikabbli, għall-membri tal-familja tar-riċerkaturi jew għall-istudenti li jirrisjedu jew li rrisjedew f’Malta skont id-dispożizzjonijiet tar-regolamenti 25, 26, 27 jew 28.
 
@@ -771,15 +559,7 @@ Bil-għan li jippermettu lill-membri tal-familja tar-riċerkatur jingħaqdu mieg
 
 *L.S. 217.06.*
 
-(d) b’deroga mid-dispożizzjonijiet tar-regolament 14(2) tar-Regolamenti dwar ir-Rijunifikazzjoni tal-Familja, il-tul tal-validità tal-permess ta’ residenza tal-membri tal-familja għandu, bħala regola ġenerali, jintemm fid-data ta’ skadenza tal-awtorizzazzjoni tar-riċerkatur. Dan jinkludi, fejn applikabbli, awtorizzazzjonijiet maħruġa lir-riċerkatur għall-finijiet ta’ tfittix ta’ impjieg jew intraprenditorja skont r-regolament 22. L-Uffiċjal Eżekuttiv Ewlieni jista’ jesigi li l-perjodu ta’ validità tad-dokumenti tal-ivvjaġġar tal-membri tal- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*24*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
-familja jkopru mill-inqas it-tul ta’ żmien tal-permanenza ppjanata;
+(d) b’deroga mid-dispożizzjonijiet tar-regolament 14(2) tar-Regolamenti dwar ir-Rijunifikazzjoni tal-Familja, il-tul tal-validità tal-permess ta’ residenza tal-membri tal-familja għandu, bħala regola ġenerali, jintemm fid-data ta’ skadenza tal-awtorizzazzjoni tar-riċerkatur. Dan jinkludi, fejn applikabbli, awtorizzazzjonijiet maħruġa lir-riċerkatur għall-finijiet ta’ tfittix ta’ impjieg jew intraprenditorja skont r-regolament 22. L-Uffiċjal Eżekuttiv Ewlieni jista’ jesigi li l-perjodu ta’ validità tad-dokumenti tal-ivvjaġġar tal-membri tal-familja jkopru mill-inqas it-tul ta’ żmien tal-permanenza ppjanata;
 
 *L.S. 217.06.*
 
@@ -800,16 +580,6 @@ familja jkopru mill-inqas it-tul ta’ żmien tal-permanenza ppjanata;
 (1) Ir-riċerkatur li għandu awtorizzazzjoni valida maħruġa mill-Istat Membru l-ieħor għandu jkun intitolat li jibqa f’Malta sabiex iwettaq parti mir-riċerka tiegħu fi kwalunkwe organizzazzjoni ta’ riċerka għal perjodu ta’ mhux aktar minn 180 jum fi kwalunkwe perjodu ta’ 360 jum, suġġett għall-kondizzjonijiet stipulati f’dan ir-regolament.
 
 (2) (a) L-organizzazzjoni ta’ riċerka f’Malta għandha tinnotifika lill-Uffiċjal Eżekuttiv Ewlieni u l-Kunsill wara li r-riċerkatur ikun innotifika l-awtoritajiet kompetenti tal-Istat Membru l-ieħor, tal-intenzjoni tiegħu li jwettaq part mir-riċerka f’Malta.
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*25*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
 
 (b) F’dawn il-każijiet:
 
@@ -833,15 +603,7 @@ PROĠETTI VOLONTARJI [L.S. 217.22
 
 (d) evidenza li waqt il-permanenza r-riċerkatur ser ikollu biżżejjed riżorsi biex ikopri l-ispejjeż ta’ sussistenza mingħajr ma jirrikorri għas-sistema tal-assistenza soċjali f’Malta, kif provdut fir-regolament 7(1)(e), kif ukoll l-ispejjeż tal-ivvjaġġar lejn l-Istat Membru l-ieħor fil-każijiet imsemmija fir-regolament 30(2):
 
-Iżda li, l-Uffiċjal Eżekuttiv Ewlieni għandu jesiġi li l- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*26*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
-organizzazzjoni ta’ riċerka tipprovdi, qabel il-bidu tal-mobilità, l-indirizz tar-riċerkatur f’Malta:
+Iżda li, l-Uffiċjal Eżekuttiv Ewlieni għandu jesiġi li l-organizzazzjoni ta’ riċerka tipprovdi, qabel il-bidu tal-mobilità, l-indirizz tar-riċerkatur f’Malta:
 
 Iżda wkoll, l-organizzazzjoni ta’ riċerka għandha tippreżenta d-dokumenti fil-lingwa Maltija jew fil-lingwa Ingliża u jekk dawn id-dokumenti ma jkunux fil-lingwa Maltija jew fil-lingwa Ingliża, għandha tiġi sottomessa t-traduzzjoni tagħhom.
 
@@ -863,17 +625,7 @@ Iżda wkoll, l-organizzazzjoni ta’ riċerka għandha tippreżenta d-dokumenti 
 
 (1) Fir-rigward tar-riċerkatur li għandu awtorizzazzjoni valida maħruġa mill-Istat Membru l-ieħor u li għandu l-intenzjoni li jibqa’ sabiex iwettaq parti mir-riċerka tiegħu fi kwalunkwe organizzazzjoni ta’ riċerka f’Malta bħala t-tieni Stat Membru għal aktar minn 180 jum, l-Uffiċjal Eżekuttiv Ewlieni għandu japplika il-proċedura provduta fis-subregolamenti (2) sa (7):
 
-Iżda l-mobilità għal perjodu twil tar-riċerkatur ma ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*27*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-għandhiex tkun inqas minn 360 jum.
+Iżda l-mobilità għal perjodu twil tar-riċerkatur ma għandhiex tkun inqas minn 360 jum.
 
 *(2)*
 
@@ -897,16 +649,6 @@ Iżda li, meta l-indirizz ma jkunx magħruf meta ssir l-applikazzjoni għall-mob
 
 Iżda ukoll, l-applikant għandu jippreżenta d-dokumenti fil-lingwa Maltija jew fil-lingwa Ingliża u jekk dawn id-dokumenti ma humiex fil-lingwa Maltija jew fil-lingwa Ingliża, għandha tiġi sottomessa traduzzjoni tagħhom;
 
-**ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’**
-
-**RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU**
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-**PROĠETTI VOLONTARJI**
-
-*[L.S. 217.22 28*
-
 (b) l-Uffiċjal Eżekuttiv Ewlieni għandu jieħu deċiżjoni dwar l-applikazzjoni għall-mobilità għal perjodu twil u jinnotifika id-deċiżjoni bil-miktub lill-applikant mill-aktar fis possibbli, iżda mhux aktar tard minn 90 jum mid-data li fiha ġiet ippreżentata lilu l-applikazzjoni kompluta;
 
 (ċ) l-Uffiċjal Eżekuttiv Ewlieni m’għandux jeżiġi li l-applikant għandu japplika għall-mobilità għal perjodu twil minn barra l-Unjoni Ewropea jew jimponi fuqu r-rekwiżit ta’ viża;
@@ -928,16 +670,6 @@ FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
 (ċ) l-awtorizzazzjoni tar-riċerkatur fl-Istat Membru l-ieħor tiskadi matul il-proċedura; jew
 
 (d) fejn applikabbli, jintlaħaq il-perjodu massimu ta’ permanenza msemmi fis-subregolament (1).
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*29*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
 
 (4) Riċerkatur li jitqies ta’ theddida għall-politika pubblika, is-sigurtà pubblika jew is-saħħa pubblika ma għandux jitħalla jidħol jew jibqa’ f’Malta.
 
@@ -961,15 +693,7 @@ PROĠETTI VOLONTARJI [L.S. 217.22
 
 (b) evidenza li l-membru tal-familja rrisjeda bħala membru tal-familja tar-riċerkatur fl-Istat Membru l-ieħor skont ir-regolament 23:
 
-Iżda l-Uffiċjal Eżekuttiv Ewlieni jista’ joġġezzjona għall-mobilità tal-membru tal-familja meta l-kondizzjonijiet stipulati fis-subregolament (1) ma ġewx sodisfatti u, f’dak il-każ, id-dispożizzjonijiet tar-regolament ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*30*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
-25(7)(b) u (ċ) u (9) għandhom japplikaw għall-membri tal-familja kif meħtieġ.
+Iżda l-Uffiċjal Eżekuttiv Ewlieni jista’ joġġezzjona għall-mobilità tal-membru tal-familja meta l-kondizzjonijiet stipulati fis-subregolament (1) ma ġewx sodisfatti u, f’dak il-każ, id-dispożizzjonijiet tar-regolament 25(7)(b) u (ċ) u (9) għandhom japplikaw għall-membri tal-familja kif meħtieġ.
 
 (3) Fir-rigward ta’ membru tal-familja ta’ riċerkatur li japplikaw għalih id-dispożizzjonijiet tar-regolament 26, l-applikazzjoni għandha tiġi ppreżentata mir-riċerkatur u mill-membri tal-familja tar-riċerkatur lill-Uffiċjal Eżekuttiv Ewlieni. L-Uffiċjal Eżekuttiv Ewlieni għandu jesiġi t-trasmissjoni tad-dokumenti u l-informazzjoni li ġejjin relatati mal-membri tal-familja:
 
@@ -989,17 +713,7 @@ RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦ
 
 ### 28. Mobilità ta’ studenti.
 
-(1) Student li għandu awtorizzazzjoni valida maħruġa mil-Istat Membru l-ieħor u li huwa kopert minn programm tal-Unjoni u programm multilaterali li jinkludi miżuri ta’ mobilità jew minn ftehim bejn żewġ istituzzjonijiet ta’ edukazzjoni għolja jew aktar għandu jkun intitolat jidħol u jibqa’ f’Malta biex iwettaq parti mill-istudji tiegħu f’istituzzjoni ta’ edukazzjoni għolja għal perjodu ta’ mhux aktar minn ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*31*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-360 jum suġġett għal kondizzjonijiet stipulati fis-subregolamenti (3) sa (11).
+(1) Student li għandu awtorizzazzjoni valida maħruġa mil-Istat Membru l-ieħor u li huwa kopert minn programm tal-Unjoni u programm multilaterali li jinkludi miżuri ta’ mobilità jew minn ftehim bejn żewġ istituzzjonijiet ta’ edukazzjoni għolja jew aktar għandu jkun intitolat jidħol u jibqa’ f’Malta biex iwettaq parti mill-istudji tiegħu f’istituzzjoni ta’ edukazzjoni għolja għal perjodu ta’ mhux aktar minn 360 jum suġġett għal kondizzjonijiet stipulati fis-subregolamenti (3) sa (11).
 
 (2) Student li ma huwiex kopert minn programm tal-Unjoni u programm multilaterali li jinkludi miżuri ta’ mobilità jew minn ftehim bejn żewġ istituzzjonijiet ta’ edukazzjoni għolja jew aktar għandu jippreżenta applikazzjoni għal awtorizzazzjoni biex jidħol u jibqa’ f’Malta biex iwettaq parti mill-istudji f’istituzzjoni ta’ edukazzjoni għolja skont ir-regolamenti 7 u 11.
 
@@ -1017,15 +731,7 @@ PROĠETTI VOLONTARJI [L.S. 217.22
 
 (7) L-Uffiċjal Eżekuttiv Ewlieni jista’ jesiġi li n-notifika tinkludi t-trażmissjoni tad-dokumenti u l-informazzjoni li ġejjin:
 
-(a) evidenza li l-istudent iwettaq parti mill-istudji f’Malta fil-qafas ta’ programm tal-Unjoni jew programm multilaterali li jinkludi miżuri ta’ mobilità jew ta’ ftehim bejn żewġ istituzzjonijiet ta’ edukazzjoni għolja jew aktar u evidenza li l-istudent ġie aċċettat minn istituzzjoni ta’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*32*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
-edukazzjoni għolja f’Malta;
+(a) evidenza li l-istudent iwettaq parti mill-istudji f’Malta fil-qafas ta’ programm tal-Unjoni jew programm multilaterali li jinkludi miżuri ta’ mobilità jew ta’ ftehim bejn żewġ istituzzjonijiet ta’ edukazzjoni għolja jew aktar u evidenza li l-istudent ġie aċċettat minn istituzzjoni ta’ edukazzjoni għolja f’Malta;
 
 (b) fejn mhux speċifikat taħt il-paragrafu (a), it-tul ta’ żmien u d-dati ppjanati tal-mobilità;
 
@@ -1049,17 +755,7 @@ Iżda wkoll l-Uffiċjal Eżekuttiv Ewlieni jista’ jesiġi li l-istituzzjoni ta
 
 (9) Student li jitqies ta’ theddida għall-politika pubblika, is-sigurtà pubblika jew is-saħħa pubblika ma għandux ikun permess jidħol jew jibqa’ f’Malta.
 
-(10) L-Uffiċjal Eżekuttiv Ewlieni għandu, mingħajr dewmien, jinforma bil-miktub lill-awtoritatjiet kompetenti tal-Istat Membru l-ieħor u lill-istituzzjoni ta’ edukazzjoni għolja f’Malta dwar l-oġġezzjoni tiegħu għall-mobilità. Meta l-oġġezzjoni għall-mobilità ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*33*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-tkun skont is-subregolament (8), l-istudent ma għandux jitħalla jwettaq parti mill-istudji fl-istituzzjoni ta’ edukazzjoni għolja f’Malta.
+(10) L-Uffiċjal Eżekuttiv Ewlieni għandu, mingħajr dewmien, jinforma bil-miktub lill-awtoritatjiet kompetenti tal-Istat Membru l-ieħor u lill-istituzzjoni ta’ edukazzjoni għolja f’Malta dwar l-oġġezzjoni tiegħu għall-mobilità. Meta l-oġġezzjoni għall-mobilità tkun skont is-subregolament (8), l-istudent ma għandux jitħalla jwettaq parti mill-istudji fl-istituzzjoni ta’ edukazzjoni għolja f’Malta.
 
 (11) Wara li jiskadi l-perjodu ta’ oġġezzjoni, l-Uffiċjal Eżekuttiv Ewlieni jista’ joħroġ dokument għall-istudent li jafferma li dan huwa intitolat jibqa’ f’Malta u jgawdi mid-drittijiet provduti f’dawn ir-regolamenti.
 
@@ -1077,15 +773,7 @@ tkun skont is-subregolament (8), l-istudent ma għandux jitħalla jwettaq parti 
 
 (1) Fejn applikabbli, meta l-Uffiċjal Eżekuttiv Ewlieni jirtira l-awtorizzazzjoni skont id-dispożizzjonijiet tar-regolament 18, huwa għandu jinforma immedjatament lill-awtoritajiet kompetenti tal-Istat Membru fejn iċ-ċittadin ta’ pajjiż terz eżerċita d-dritt ta’ mobilità.
 
-(2) Meta r-riċerkatur jew, fejn applikabbli, il-membri tal-familja tiegħu, jew l-istudent, ma jissodisfawx jew ma għadhomx jissodisfaw il-kondizzjonijiet ta’ mobilità tal-Istat Membru fejn iċ-ċittadin ta’ pajjiż terz eżerċita d-dritt ta’ mobilità, fuq talba ta’ dak l- Istat Membru, l-Uffiċjal Eżekuttiv Ewlieni u l-Uffiċjal Prinċipal tal- Immigrazzjoni għandhom jippermettu d-dħul mill-ġdid tar-riċerkatur ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*34*
-
-[L.S. 217.22 PROĠETTI VOLONTARJI
-
-u, fejn applikabbli, tal-membri tal-familja tiegħu jew tal-istudent, mingħajr formalità u dewmien.
+(2) Meta r-riċerkatur jew, fejn applikabbli, il-membri tal-familja tiegħu, jew l-istudent, ma jissodisfawx jew ma għadhomx jissodisfaw il-kondizzjonijiet ta’ mobilità tal-Istat Membru fejn iċ-ċittadin ta’ pajjiż terz eżerċita d-dritt ta’ mobilità, fuq talba ta’ dak l- Istat Membru, l-Uffiċjal Eżekuttiv Ewlieni u l-Uffiċjal Prinċipal tal- Immigrazzjoni għandhom jippermettu d-dħul mill-ġdid tar-riċerkatur u, fejn applikabbli, tal-membri tal-familja tiegħu jew tal-istudent, mingħajr formalità u dewmien.
 
 (3) Meta l-awtorizzazzjoni biex wieħed jidħol f’Malta, maħruġa mill-Uffiċjal Eżekuttiv Ewlieni, tiskadi jew tiġi rtirata mill- Uffiċjal Eżekuttiv Ewlieni waqt il-perjodu ta’ mobilità taċ-ċittadin ta’ pajjiż terz fit-tieni Stat Membru, l-Uffiċjal Eżekuttiv Ewlieni u l- Uffiċjal Prinċipal tal-Immigrazzjoni għandhom jippermettu d-dħul mill-ġdid tar-riċerkatur f’Malta u, fejn applikabbli, tal-membri tal-familja tiegħu, jew tal-istudent, mingħajr formalità u dewmien.
 
@@ -1107,17 +795,7 @@ Iżda ukoll, l-applikazzjoni tista’ tiġi rifjutata jekk l-informazzjoni addiz
 
 (4) Ir-raġunijiet għal deċiżjoni li tirtira l-awtorizzazzjoni għandhom jingħataw bil-miktub liċ-ċittadin ta’ pajjiż terz u kif ukoll lill-entità ospitanti.
 
-(5) Kwalunkwe deċiżjoni li tiddikjara inammissibbli jew li ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-RIĊERKA, STUDJI, TAĦRIĠ U SERVIZZ VOLONTARJU
-
-FIL-PROĠETT TA’ MOBILITÀ GĦAŻ-ŻGĦAŻAGĦ:
-
-*35*
-
-PROĠETTI VOLONTARJI [L.S. 217.22
-
-ma tilqax l-applikazzjoni, tirrifjuta it-tiġdid, jew li tirtira awtorizzazzjoni għandha tkun miftuha għal appell quddiem il-Bord dwar l-Appelli tal-Immigrazzjoni.
+(5) Kwalunkwe deċiżjoni li tiddikjara inammissibbli jew li ma tilqax l-applikazzjoni, tirrifjuta it-tiġdid, jew li tirtira awtorizzazzjoni għandha tkun miftuha għal appell quddiem il-Bord dwar l-Appelli tal-Immigrazzjoni.
 
 ### 32. Trasparenza u aċċess għall-informazzjoni.
 

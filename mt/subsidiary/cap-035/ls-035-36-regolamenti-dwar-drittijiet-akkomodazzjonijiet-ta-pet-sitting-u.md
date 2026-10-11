@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet (Akkomodazzjonijiet ta’ Pet Sitting u Stabbilimenti ta’ Akkomodazzjoni ta’ Pet Boarding għal Qtates u Klieb) (S.L. 35.36)
 
-DRITTIJIET (AKKOMODAZZJONIJIET TA’ PET SITTING
-
-U STABBILIMENTI TA’ AKKOMODAZZJONI TA’ PET
-
-*1*
-
-BOARDING GĦAL QTATES U KLIEB) [L.S.35.36
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.36**
 
 **REGOLAMENTI DWAR DRITTIJIET**

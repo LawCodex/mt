@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Individwi ta’ Valur Nett Għoli - Persuni li mhumiex Ċittadini tal-UE/ŻEE/ Svizzera (S.L. 123.130)
 
-*1*
-
-MHUMIEX ĊITTADINI TAL-UE/ŻEE/SVIZZERA [L.S.123.130
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.130**
 
 **REGOLI DWAR INDIVIDWI TA’ VALUR NETT**
@@ -59,13 +55,9 @@ Iżda, għall-finijiet ta’ dawn ir-regoli, ċittadini taż-ŻEE u ċittadini t
 
 "interess pubbliku" tinkludi l-interessi ta’ sigurtà pubblika, il-ħarsien tal-ordni pubbliku, is-sigurtà nazzjonali, l-integrità territorjali, is-saħħa pubblika jew il-morali pubblika;
 
-"jum stabbilit" tfisser id-data meta l-Kummissarju jiddetermina bil-miktub li individwu jikkwalifika għal status speċjali ta’ taxxa [L.S.123.130 MHUMIEX ĊITTADINI TAL-UE/ŻEE/SVIZZERA
+"jum stabbilit" tfisser id-data meta l-Kummissarju jiddetermina bil-miktub li individwu jikkwalifika għal status speċjali ta’ taxxa skont dawn ir-regoli;
 
 \*Ara r-regola 1(2) ta’ dawn ir-regoli, kif promulgati oriġinarjament.
-
-skont dawn ir-regoli;
-
-*2*
 
 "kera" tinkludi sullokazzjoni;
 
@@ -97,11 +89,7 @@ Iżda persuna li ma tkunx individwu, li jkollha mill-inqas 75% (direttament jew 
 
 "proprjetà mikrija li tikkwalifika" tfisser proprjeta mikrija għal mhux inqas minn għoxrin elf euro (€20,000) fis-sena:
 
-Iżda, għall-finijiet ta’ din it-tifsira, il-Kummissarju jkollu d-diskrezzjoni, sakemm tingħata raġuni valida, li jqis proprjetà li tkun koperta b’arranġament ta’ kera mibdi qabel l-14 ta’ Settembru 2011 għall-korrispettiv ta’ mhux inqas minn €4,150 fis-sena, minn persuna li tkun ippreżentat applikazzjoni skont ir-Regolamenti dwar Skema għal Residenti, liema applikazzjoni tkun ġiet debitament riċevuta u mgħarrfa mill-Kummissarju qabel l-14 ta’ Settembru 2011, bħala proprjetà mikrija mill-applikant kif imsemmi hawn qabel sakemm MHUMIEX ĊITTADINI TAL-UE/ŻEE/SVIZZERA [L.S.123.130
-
-kopja tal-istess arrangament ta’ kera, attestata minn nutar jew avukat, tiġi depożitata mal-Kummissarju sa mhux iktar tard mill-31 ta’ Marzu 2012;
-
-*3*
+Iżda, għall-finijiet ta’ din it-tifsira, il-Kummissarju jkollu d-diskrezzjoni, sakemm tingħata raġuni valida, li jqis proprjetà li tkun koperta b’arranġament ta’ kera mibdi qabel l-14 ta’ Settembru 2011 għall-korrispettiv ta’ mhux inqas minn €4,150 fis-sena, minn persuna li tkun ippreżentat applikazzjoni skont ir-Regolamenti dwar Skema għal Residenti, liema applikazzjoni tkun ġiet debitament riċevuta u mgħarrfa mill-Kummissarju qabel l-14 ta’ Settembru 2011, bħala proprjetà mikrija mill-applikant kif imsemmi hawn qabel sakemm kopja tal-istess arrangament ta’ kera, attestata minn nutar jew avukat, tiġi depożitata mal-Kummissarju sa mhux iktar tard mill-31 ta’ Marzu 2012;
 
 "proprjetà mixtrija li tikkwalifika" tfisser proprjetà mixtrija wara l-1 ta’ Jannar 2011 għal korrispettiv ta’ mhux inqas minn erba’ mitt elf euro (€400,000), jew proprjetà mixtrija qabel l-14 ta’ Settembru 2011 għal korrispettiv ta’ mhux inqas minn mija u sittax-il elf euro (€116,000) minn persuna li tkun ippreżentat applikazzjoni skont ir- Regolamenti dwar Skema għal Residenti, liema applikazzjoni tkun ġiet debitament riċevuta u mgħarrfa mill-Kummissarju qabel l-14 ta’ Settembru 2011:
 
@@ -130,10 +118,6 @@ u, fiż-żewġ każijiet, jokkupa dik il-proprjetà bħala r-residenza primarja 
 Iżda dan sakemm l-persuni ji jgħixu fil-proprjetà li tikkwalifika ma jkunux persuni oħra ħlief il-benefiċjarju u l-membri tal-familja tiegħu;
 
 "ŻEE" tfisser il-membri ta-Unjoni Ewropea, l-Iżlanda, in- Norveġja u Liechtenstein.
-
-*4*
-
-[L.S.123.130 MHUMIEX ĊITTADINI TAL-UE/ŻEE/SVIZZERA
 
 ## 3. Status speċjali ta’ taxxa. Emendata: A.L. 42 tal-2012; A.L. 178 tal-2013.
 
@@ -168,10 +152,6 @@ Benefiċjarju hu individwu li jagħti prova li tissodisfa lill- Kummissarju li:
 (d) mhuwiex persuna li tikseb xi benefiċċju taħt ir- Regolamenti dwar Skema għal Residenti jew taħt ir- Regoli dwar Persuni li jkollhom Kwalifiki Għolja;
 
 (e) jirċievi riżorsi b’mod stabbli u regolari li huma biżżejjed biex imantni lilu nnifsu u d-dipendenti tiegħu mingħajr ma jirrikorri għas-sistema ta’ assistenza soċjali f’Malta;
-
-*5*
-
-MHUMIEX ĊITTADINI TAL-UE/ŻEE/SVIZZERA [L.S.123.130
 
 (f) għandu dokument validu għas-safar;
 
@@ -211,10 +191,6 @@ Iżda ukoll benefiċjarju li jkollu dipendenti għandu, b’żieda mal-inqas amm
 
 (a) jekk, fi kwalunkwe żmien, wara l-jum stabbilit, dak l-individwu ma jżommx proprjetà li tikkwalifika;
 
-*6*
-
-[L.S.123.130 MHUMIEX ĊITTADINI TAL-UE/ŻEE/SVIZZERA
-
 (b) jekk l-individwu ma jkunx qed jirċievi riżorsi b’mod stabbli u regolari li huma biżżejjed biex imantni lilu nnifsu u lid-dipendenti tiegħu mingħajr ma jirrikorri għas-sistema ta’ assistenza soċjali f’Malta;
 
 (ċ) jekk, wara l-jum stabbilit, ma jkollux assigurazzjoni kontra l-mard għar-rigward tar-riskji kollha, li huma normalment koperti għal ċittadini Maltin, għalih innifsu u għad-dipendenti tiegħu;
@@ -247,11 +223,7 @@ Iżda ukoll benefiċjarju li jkollu dipendenti għandu, b’żieda mal-inqas amm
 
 ## 7. Talba għal informazzjoni.
 
-Sabiex jiġi stabbilit jekk individwu huwiex intitolat għal dritijiet miksuba skont dawn ir-regoli u sabiex tiġi żgurata l- MHUMIEX ĊITTADINI TAL-UE/ŻEE/SVIZZERA [L.S.123.130
-
-applikazzjoni korretta ta’ dawn ir-regoli, il-Kummissarju jista’ jitlob lill-individwu biex jipproduċi, fiż-żmien indikat mill- Kummissarju f’dik it-talba, dik l-informazzjoni u dokumenti li l- Kummissarju jidhirlu li jkunu neċessarji, inklużi ċertifikazzjonijiet u dikjarazzjonijiet.
-
-*7*
+Sabiex jiġi stabbilit jekk individwu huwiex intitolat għal dritijiet miksuba skont dawn ir-regoli u sabiex tiġi żgurata l-applikazzjoni korretta ta’ dawn ir-regoli, il-Kummissarju jista’ jitlob lill-individwu biex jipproduċi, fiż-żmien indikat mill- Kummissarju f’dik it-talba, dik l-informazzjoni u dokumenti li l- Kummissarju jidhirlu li jkunu neċessarji, inklużi ċertifikazzjonijiet u dikjarazzjonijiet.
 
 ## 8. Abbuż ta’ drittijiet.
 

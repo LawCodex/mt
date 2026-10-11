@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1979)"
-identifier: "S.L. 261.2"
+identifier: "S.L. 261.02"
 eli: "https://legislation.mt/eli/sl/261.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/261.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1979) (S.L. 261.2)
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1979) [ L.S.261.02
+# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1979) (S.L. 261.02)
 
 LE{ISLAZZJONI SUSSIDJARJA 261.02
 

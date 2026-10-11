@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ €46,587,467.97 5.7% Stock tal-Gvern ta’ Malta 2012 (It-Tielet Ħruġ) Fungibility Issue (S.L. 161.107)
 
-}RU{ TA’ €46,587,467.97 5.7% STOCK
-
-*1*
-
-TAL-GVERN TA’ MALTA 2012 (IT-TIELET }RU{) [L.S.161.107
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.107**
 
 **DIRETTIVA MILL-PRIM MINISTRU U MINISTRU**

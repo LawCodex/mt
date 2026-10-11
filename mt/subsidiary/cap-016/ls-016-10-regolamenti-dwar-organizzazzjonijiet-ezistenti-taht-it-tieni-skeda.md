@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Organizzazzjonijiet Eżistenti Taħt it-Tieni Skeda tal-Kodiċi Ċivili (S.L. 16.10)
 
-*1*
-
-TAĦT IT-TIENI SKEDA TAL-KODIêI êIVILI [L.S.16.10
-
 **LEĀISLAZZJONI SUSSIDJARJA 16.10**
 
 **REGOLAMENTI DWAR ORGANIZZAZZJONIJIET**
@@ -69,11 +65,7 @@ u li ma kienux reāistrati skont l-Iskeda;
 
 (ii) dikjarazzjoni ffirmata magħmula mill-amministraturi jew id-delegat tagħhom quddiem Nutar Pubbliku li telenka l-att pubbliku kostituttiv u kull att pubbliku li jemenda, jekk ikun hemm, relatati mal-organizzazzjoni eŜistenti; u
 
-(iii) kopja notarizzata tal-iStatement of Compliance [L.S.16.10 TAĦT IT-TIENI SKEDA TAL-KODIêI êIVILI
-
-magħmul skont ir-regolament 6 sabiex l-organizzazzjoni eŜistenti tħares il-ħtiāiet tal- Iskeda fir-rigward tal-kontenut tal-istatut; u
-
-*2*
+(iii) kopja notarizzata tal-iStatement of Compliance magħmul skont ir-regolament 6 sabiex l-organizzazzjoni eŜistenti tħares il-ħtiāiet tal- Iskeda fir-rigward tal-kontenut tal-istatut; u
 
 (ë) ħlas tad-drittijiet applikabbli.
 
@@ -111,10 +103,6 @@ Id-data tat-twaqqif tal-organizzazzjoni eŜistenti għandha tiāi konfermata min
 
 (ë) fil-kaŜ msemmi fir-regolament 4(2)(b), illi ir-riŜoluzzjonijiet, atti jew strumenti konsenjati lin-Nutar Pubbliku huma kopja awtentikata ta’ kull riŜoluzzjoni, att jew strumenti li jemendaw sa dik id-data.
 
-*3*
-
-TAĦT IT-TIENI SKEDA TAL-KODIêI êIVILI [L.S.16.10
-
 (2) In-Nutar Pubbliku għandu iwissi lill-persuni li jagħmlu xi dikjarazzjonijiet imsemmija hawn fuq bl-importanza ta’ verita’ ta’ dawk id-dikjarazzjonijiet.
 
 ## 6. Il-kontenut tal-iStatement of Compliance.
@@ -151,11 +139,7 @@ TAĦT IT-TIENI SKEDA TAL-KODIêI êIVILI [L.S.16.10
 
 (b) l-isem tal-organizzazzjoni eŜistenti, liema kwistjoni hija regolata bir-regolament 7.
 
-(3) L-iStatement of Compliance għandu jkun ffirmat mill-amministraturi kollha fil-kariga jew mid-delegati tagħhom u għall- [L.S.16.10 TAĦT IT-TIENI SKEDA TAL-KODIêI êIVILI
-
-finijiet ta’ dan ir-regolament kull amministratur għandu jkun meqjus li għandu s-setgħa li jiddelega l-funzjoni tiegħu.
-
-*4*
+(3) L-iStatement of Compliance għandu jkun ffirmat mill-amministraturi kollha fil-kariga jew mid-delegati tagħhom u għall-finijiet ta’ dan ir-regolament kull amministratur għandu jkun meqjus li għandu s-setgħa li jiddelega l-funzjoni tiegħu.
 
 (4) Meta l-istatut ta’ organizzazzjoni eŜistenti ikun sar permezz ta’ att pubbliku, kull Statement of Compliance magħmul dwar statut bħal dak għandu wkoll ikun magħmul permezz ta’ att pubbliku.
 
@@ -181,8 +165,4 @@ finijiet ta’ dan ir-regolament kull amministratur għandu jkun meqjus li għan
 
 ## 10. Organizzaz-zjonijiet eŜistenti li huma diāa’ reāistrati qabel id-dħul fis-seħħ ta’ dawn ir-regolamenti.
 
-(1) Meta organizzazzjoni eŜistenti tkun diāa’ reāistrata fuq baŜi ta’ ftehim ad hoc, minħabba fil-fatt li l-istatut jew att kostituttiv ma kienx strettament konformi mal-ħtiāiet tar-regolamenti tal-Iskeda, il-faëilità provduta minn dawn ir-regolamenti tista’ tiāi utilizzata mill-amministraturi ta’ dik l-organizzazzjoni, fid-diskrezzjoni tagħhom, sabiex iāibu l-istatut ta’ dik l-organizzazzjoni konformi b’mod sħiħ mal-ħtiāiet tal-Iskeda. TAĦT IT-TIENI SKEDA TAL-KODIêI êIVILI [L.S.16.10
-
-(2) F’dawk il-kaŜijiet, għandha tiāi preŜentata biss lir- Reāistratur kopja notarizzata tal-iStatement of Compliance magħmul skont ir-regolament 6, li għandu jirreāistra l-istess fir-reāistru tal-organizzazzjoni rilevanti.
-
-*5*
+(1) Meta organizzazzjoni eŜistenti tkun diāa’ reāistrata fuq baŜi ta’ ftehim ad hoc, minħabba fil-fatt li l-istatut jew att kostituttiv ma kienx strettament konformi mal-ħtiāiet tar-regolamenti tal-Iskeda, il-faëilità provduta minn dawn ir-regolamenti tista’ tiāi utilizzata mill-amministraturi ta’ dik l-organizzazzjoni, fid-diskrezzjoni tagħhom, sabiex iāibu l-istatut ta’ dik l-organizzazzjoni konformi b’mod sħiħ mal-ħtiāiet tal-Iskeda. (2) F’dawk il-kaŜijiet, għandha tiāi preŜentata biss lir- Reāistratur kopja notarizzata tal-iStatement of Compliance magħmul skont ir-regolament 6, li għandu jirreāistra l-istess fir-reāistru tal-organizzazzjoni rilevanti.

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tal-Poplu taċ-Ċina (S.L. 123.30)
 
-*1*
-
-MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30
-
 LEĠISLAZZJONI SUSSIDJARJA 123.30
 
 ORDNI DWAR ĦELSIEN MIT-TAXXA DOPPJA FUQ L-INCOME MAR-REPUBBLIKA
@@ -46,8 +42,6 @@ B’dan qiegћed jiġi dikjarat -
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseћћ fil-25 ta’ Awwissu 2011.
-
-2 [L.S.123.30 MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA
 
 ## SKEDA
 
@@ -115,9 +109,7 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa identika jew sostanzjalment si
 
 \1. Għall-għanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’oħra:
 
-a) il-frażi "iċ-Ċina" tfisser ir-Repubblika tal-Poplu taċ-Ċina; meta din tintuża f’sens ġeografiku, tfisser it-territorju kollu tar-Repubblika tal- Poplu taċ-Ċina, fejn ikunu japplikaw il-liġijiet taċ-Ċina dwar it-taxxi, MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30 3
-
-inkluż il-baħar territorjali tagħha, u kull area lil hinn mill-baħar territorjali tagħha, fejn ir-Repubblika tal-Poplu taċ-Ċina jkollha drittijiet sovrani jew ġurisdizzjoni għall-fini tal-esplorazzjoni u l-esplojtazzjoni ta’ riżorsi ta’ qiegħ il-baħar u s-sottoswol tiegħu u riżorsi fl-ilmijiet sovrajaċenti kif hemm fid-dritt internazzjonali u fid-dritt domestiku tagħha;
+a) il-frażi "iċ-Ċina" tfisser ir-Repubblika tal-Poplu taċ-Ċina; meta din tintuża f’sens ġeografiku, tfisser it-territorju kollu tar-Repubblika tal- Poplu taċ-Ċina, fejn ikunu japplikaw il-liġijiet taċ-Ċina dwar it-taxxi, inkluż il-baħar territorjali tagħha, u kull area lil hinn mill-baħar territorjali tagħha, fejn ir-Repubblika tal-Poplu taċ-Ċina jkollha drittijiet sovrani jew ġurisdizzjoni għall-fini tal-esplorazzjoni u l-esplojtazzjoni ta’ riżorsi ta’ qiegħ il-baħar u s-sottoswol tiegħu u riżorsi fl-ilmijiet sovrajaċenti kif hemm fid-dritt internazzjonali u fid-dritt domestiku tagħha;
 
 b) il-frażi "Malta", meta tintuża f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra tal-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, u kull area ’l barra mill-baħar territorjali ta’ Malta li, kif hemm fid-dritt internazzjonali, kienet imsejħa jew tista’ minn hawn ’il quddiem tissejjaħ, taħt il-liġi ta’ Malta dwar il-Blata Kontinentali, bħala area li fiha jistgħu jiġu eżerċitati d-drittijiet ta’ Malta dwar qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom;
 
@@ -145,9 +137,7 @@ i) il-frażi "ċittadin" tfisser:
 
 **RESIDENTI**
 
-\1. Għall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li fih, taħt il-liġijiet ta’ dak l-iStat, tkun soġġetta għat-taxxa minħabba fid-domiċilju, ir-residenza, il-post ta’ inkorporazzjoni, il-post ta’ maniġġ effettiv jew 4 [L.S.123.30 MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA
-
-kull kriterju ieħor ta’ xorta bħal dawk. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun soġġetta għat-taxxa f’dak l-iStat għar-rigward biss ta’ income minn għejjun f’dak l-iStat.
+\1. Għall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li fih, taħt il-liġijiet ta’ dak l-iStat, tkun soġġetta għat-taxxa minħabba fid-domiċilju, ir-residenza, il-post ta’ inkorporazzjoni, il-post ta’ maniġġ effettiv jew kull kriterju ieħor ta’ xorta bħal dawk. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun soġġetta għat-taxxa f’dak l-iStat għar-rigward biss ta’ income minn għejjun f’dak l-iStat.
 
 \2. Meta minħabba fid-disposizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewġ Stati Kontraenti, allura l-istatus tiegħu għandu jiġi stabbilit kif ġej:
 
@@ -183,9 +173,7 @@ f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’est
 
 a) art li tkun qegħda tinbena, jew proġett ta’ kostruzzjoni, assemblaġġ jew stallazzjoni jew attivitajiet ta’ sorveljanza li jkollhom x’jaqsmu ma’ dan, iżda biss meta dik l-art, dak il-proġett jew dawk l-attivitajiet ikomplu għaddejin għal aktar minn tnax-il xahar;
 
-b) l-għoti ta’ servizzi, inklużi servizzi ta’ konsulenza, minn impriża permezz ta’ impjegati jew persunal ieħor imqabbad għal dak l-għan, imma biss meta l-attivitajiet ta’ dik ix-xorta jibqgħu għaddejin għal perjodu jew perjodi li flimkien iġibu aktar minn 183 ġurnata f’perjodu MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30 5
-
-**ta’ tnax il-xahar li jibda jew itemm fis-sena fiskali involuta.**
+b) l-għoti ta’ servizzi, inklużi servizzi ta’ konsulenza, minn impriża permezz ta’ impjegati jew persunal ieħor imqabbad għal dak l-għan, imma biss meta l-attivitajiet ta’ dik ix-xorta jibqgħu għaddejin għal perjodu jew perjodi li flimkien iġibu aktar minn 183 ġurnata f’perjodu ta’ tnax il-xahar li jibda jew itemm fis-sena fiskali involuta.
 
 ## 4.
 
@@ -221,9 +209,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew ħidma fil-boskijiet) li tkun tinsab fl-iStat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-iStat l-ieħor.
 
-\2. Il-frażi "proprjetà immobbli" għandu jkollha t-tifsira li għandha taħt il-liġi tal-iStat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi għandha f’kull każ tkun tinkludi proprjetà aċċessorja għal proprjetà immobbli, bhejjem f’razzett u 6 [L.S.123.30 MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA
-
-tagħmir li jintuża fl-agrikoltura u fil-ħidma fil-boskijiet, drittijiet li għalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ħlasijiet varjabbli jew fissi bħala korrispettiv għal ħidma fi, jew id-dritt li jinħadmu, depożiti minerali, għejjun u riżorsi naturali oħra; bastimenti u inġenji tal-ajru m’għandhomx jitqiesu bħala proprjetà immobbli.
+\2. Il-frażi "proprjetà immobbli" għandu jkollha t-tifsira li għandha taħt il-liġi tal-iStat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi għandha f’kull każ tkun tinkludi proprjetà aċċessorja għal proprjetà immobbli, bhejjem f’razzett u tagħmir li jintuża fl-agrikoltura u fil-ħidma fil-boskijiet, drittijiet li għalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ħlasijiet varjabbli jew fissi bħala korrispettiv għal ħidma fi, jew id-dritt li jinħadmu, depożiti minerali, għejjun u riżorsi naturali oħra; bastimenti u inġenji tal-ajru m’għandhomx jitqiesu bħala proprjetà immobbli.
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 għandhom ikunu japplikaw għal income li jinkiseb mill-użu dirett, il-kiri, jew kull xort’oħra ta’ użu ta’ proprjetà immobbli.
 
@@ -248,8 +234,6 @@ tagħmir li jintuża fl-agrikoltura u fil-ħidma fil-boskijiet, drittijiet li g�
 ## 7.
 
 Meta l-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegħdin jiġu trattati separatament f ’Artikoli oħra ta’ dan il-Ftehim, għaldaqshekk id-dispożizzjonijiet ta’ dawk l-Artikoli m’għandhomx jintlaqtu bid-dispożizzjonijiet ta’ dan l-Artikolu.
-
-MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30 7
 
 **Artikolu 8**
 
@@ -283,9 +267,7 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriż
 
 \1. Id-dividendi mħallsa minn kumpannija li tkun residenti fi Stat Kontraenti lil residenti fl-iStat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-iStat l-ieħor.
 
-\2. Madankollu, dawk id-dividendi jistgħu jiġu intaxxati wkoll fl-iStat Kontraenti li l-kumpannija li tkun tħallas id-dividendi tkun residenti fih u kif hemm fil-liġijiet ta’ dak l-iStat, imma jekk is-sid benefiċjarju tad-dividendi jkun residenti 8 [L.S.123.30 MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA
-
-tal-iStat Kontraenti l-ieħor, it-taxxa li hekk tintalab m’għandhiex tkun ta’ iżjed minn:
+\2. Madankollu, dawk id-dividendi jistgħu jiġu intaxxati wkoll fl-iStat Kontraenti li l-kumpannija li tkun tħallas id-dividendi tkun residenti fih u kif hemm fil-liġijiet ta’ dak l-iStat, imma jekk is-sid benefiċjarju tad-dividendi jkun residenti tal-iStat Kontraenti l-ieħor, it-taxxa li hekk tintalab m’għandhiex tkun ta’ iżjed minn:
 
 a) 5 fil-mija tal-ammont kollu u sħiħ tad-dividendi jekk is-sid benefiċjarju jkun kumpannija (minbarra soċjetà) li jkollha direttament mill-inqas 25 fil-mija tal-kapital tal-kumpannija li tkun qegħda tħallas id-dividendi; b) 10 fil-mija tal-ammont kollu u sħiħ tad-dividendi fil-każijiet l-oħra kollha.
 
@@ -307,9 +289,7 @@ Dan il-paragrafu ma jolqotx it-taxxa li l-kumpannija tħallas għar-rigward tal-
 
 \1. Mgħax li jinqala’ fi Stat Kontraenti u jitħallas lil residenti tal-iStat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak Istat l-ieħor.
 
-\2. Madankollu, dak l-imgħax jista’ wkoll jiġi intaxxat fl-iStat Kontraenti fejn dan jinqala’ u kif hemm fil-liġijiet ta’ dak l-iStat, imma jekk is-sid benefiċjarju tal-imgħax ikun residenti tal-iStat Kontraenti l-ieħor, it-taxxa hekk mitluba m’għandhiex teċċedi 10 fil-mija mill-ammont kollu u sħiħ tal-imgħax. L-awtoritajiet kompetenti tal-iStati Kontraenti għandhom bi ftehim reċiproku jistabbilixxu l-mod MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30 9
-
-kif tkun tapplika din il-limitazzjoni.
+\2. Madankollu, dak l-imgħax jista’ wkoll jiġi intaxxat fl-iStat Kontraenti fejn dan jinqala’ u kif hemm fil-liġijiet ta’ dak l-iStat, imma jekk is-sid benefiċjarju tal-imgħax ikun residenti tal-iStat Kontraenti l-ieħor, it-taxxa hekk mitluba m’għandhiex teċċedi 10 fil-mija mill-ammont kollu u sħiħ tal-imgħax. L-awtoritajiet kompetenti tal-iStati Kontraenti għandhom bi ftehim reċiproku jistabbilixxu l-mod kif tkun tapplika din il-limitazzjoni.
 
 \3. Minkejja d-dispożizzjonijiet tal-paragrafu 2, mgħax li joriġina fi Stat Kontraenti għandu jiġi eżenat mit-taxxa f’dak l-iStat jekk dan jinkiseb mill-Gvern tal-iStat Kontraenti l-ieħor, minn awtorità lokali tieghu jew minn xi istituzzjoni bħal dik li jista’ jsir ftehim dwarha miż-żewġ Stati Kontraenti, sakemm dik l-istituzzjoni tkun għalkollox proprjetà tal-Gvern jew ta’ dik l-awtorità lokali jew kontrollata minnhom.
 
@@ -333,9 +313,7 @@ Id-dispożizzjonijiet ta’ dan l-Artikolu m’għandhomx ikunu japplikaw jekk k
 
 \1. Royalties li jinqalgħu fi Stat Kontraenti u li s-sid benefiċjarju tagħhom ikun residenti tal-iStat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak Istat l-ieħor.
 
-\2. Madankollu, dawk ir-royalties jistgħu jiġu intaxxati wkoll fl-iStat Kontraenti fejn jinqalgħu u kif hemm fil-liġijiet ta’ dak l-iStat, iżda jekk is-sid benefiċjarju tar-royalties ikun residenti tal-iStat Kontraenti l-ieħor, it-taxxa hekk imposta m’għandhiex tkun iżjed minn 10 fil-mija tal-ammont kollu u sħiħ ta’ 10 [L.S.123.30 MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA
-
-royalties. Minkejja d-dispożizzjonijiet ta’ hawn qabel ta’ dan il-paragrafu, it-taxxa fuq royalties li jinkisbu bħala korrispettiv għall-użu ta’, jew id-dritt li jintuża, tagħmir industrjali, kummerċjali, jew xjentifiku m’għandux jeċċedi 10 fil-mija fuq ammont li jikkorrispondi għal 70 fil-mija mill-ammont gross ta’ royalties. L-awtoritajiet kompetenti tal-iStat Kontraenti għandhom jirranġaw bi ftehim reċiproku l-mod kif tkun tapplika din il-limitazzjoni.
+\2. Madankollu, dawk ir-royalties jistgħu jiġu intaxxati wkoll fl-iStat Kontraenti fejn jinqalgħu u kif hemm fil-liġijiet ta’ dak l-iStat, iżda jekk is-sid benefiċjarju tar-royalties ikun residenti tal-iStat Kontraenti l-ieħor, it-taxxa hekk imposta m’għandhiex tkun iżjed minn 10 fil-mija tal-ammont kollu u sħiħ ta’ royalties. Minkejja d-dispożizzjonijiet ta’ hawn qabel ta’ dan il-paragrafu, it-taxxa fuq royalties li jinkisbu bħala korrispettiv għall-użu ta’, jew id-dritt li jintuża, tagħmir industrjali, kummerċjali, jew xjentifiku m’għandux jeċċedi 10 fil-mija fuq ammont li jikkorrispondi għal 70 fil-mija mill-ammont gross ta’ royalties. L-awtoritajiet kompetenti tal-iStat Kontraenti għandhom jirranġaw bi ftehim reċiproku l-mod kif tkun tapplika din il-limitazzjoni.
 
 \3. Il-frażi "royalties", kif tintuża f’dan l-Artikolu tfisser ħlasijiet ta’ kull xorta li jsiru b’korrispettiv għall-użu ta’, jew id-dritt li jintuża, kull dritt tal-awtur ta’ xogħol letterarju, artistiku jew xjentifiku inklużi films ċinematografiċi, jew films jew tapes għal xandir bir-radju jew bit-televiżjoni, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, jew għall-użu ta’, jew id-dritt li jintuża, tagħmir industrijali, kummerċjali, jew xjentifiku, jew għal informazzjoni dwar konoxxenza industrijali, kummerċjali jew xjentifika.
 
@@ -353,9 +331,7 @@ royalties. Minkejja d-dispożizzjonijiet ta’ hawn qabel ta’ dan il-paragrafu
 
 \1. Kull qligħ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ proprjetà immobbli imsemmi fl-Artikolu 6 u li tkun tinsab fl-iStat Kontraenti l-ieħor jista’ jiġi intaxxat f’dak l-iStat l-ieħor.
 
-\2. Qligħ mit-trasferiment ta’ proprjetà mobbli li tagħmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-iStat Kontraenti l-ieħor jew ta’ proprjetà mobbli li tappartjeni għal bażi stabbilita li tkun disponibbli għal residenti ta’ Stat Kontraenti fl-iStat Kontraenti l-ieħor bil-għan li MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30 11
-
-jitwettqu servizzi personali indipendenti, inkluż dak il-qligħ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien mal-impriża kollha) jew ta’ dik il-bażi stabbilita, jista’ jiġi intaxxat f’dak Istat l-ieħor.
+\2. Qligħ mit-trasferiment ta’ proprjetà mobbli li tagħmel parti mill-proprjetà tan-negozju ta’ stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-iStat Kontraenti l-ieħor jew ta’ proprjetà mobbli li tappartjeni għal bażi stabbilita li tkun disponibbli għal residenti ta’ Stat Kontraenti fl-iStat Kontraenti l-ieħor bil-għan li jitwettqu servizzi personali indipendenti, inkluż dak il-qligħ mit-trasferiment ta’ dak l-istabbiliment permanenti (waħdu jew flimkien mal-impriża kollha) jew ta’ dik il-bażi stabbilita, jista’ jiġi intaxxat f’dak Istat l-ieħor.
 
 \3. Qligħ li jinkiseb minn impriża ta’ Stat Kontraenti mit-trasferiment ta’ bastimenti jew inġenji tal-ajru li jitħaddmu fi traffiku internazzjonali jew minn proprjetà mobbli li tkun tappartjeni għat-tħaddim ta’ dawk il-bastimenti jew inġenji tal-ajru, għandhom jiġu intaxxati biss f’dak l-iStat.
 
@@ -384,8 +360,6 @@ b) jekk ikun joqgħod fl-iStat Kontraenti l-ieħor għal perjodu jew perjodi li 
 \1. Bla ħsara għad-dispożizzjonijiet tal-Artikoli 16, 18, 19 u 20, is-salarji, pagi u kull kumpens ieħor bħal dawk li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impjieg għandhom jiġu intaxxati biss f’dak l-iStat kemm-il darba l-impjieg ma jiġix eżerċitat fl-iStat Kontraenti l-ieħor. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak Istat l-ieħor.
 
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Stat Kontraenti dwar xi impjieg li jkun eżerċitat fl-iStat Kontraenti l-ieħor għandu jiġi intaxxat biss fl-iStat l-ewwel imsemmi jekk:
-
-12 [L.S.123.30 MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA
 
 a) min jirċevih ikun joqgħod fl-iStat l-ieħor għal perjodu jew perjodi li b’kollox ma jgħoddux aktar minn 183 ġurnata f’perjodu ta’ tnax-il xahar li jibda għaddej jew itemm fis-sena fiskali involuta; u
 
@@ -423,9 +397,7 @@ Id-drittijiet tad-diretturi u ħlasijiet oħra bħalhom li jinkisbu minn residen
 
 **SERVIZZ TAL-GVERN**
 
-\1. a) Salarji, pagi u kull kumpens ieħor bħal dawk, minbarra pensjoni, MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30 13
-
-mħallsa mill-Gvern ta’ Stat Kontraenti jew minn awtorità lokali tiegħu lil xi individwu għar-rigward ta’ servizzi mogħtijin lill-Gvern ta’ dak l-iStat jew awtorità, għandhom jiġu intaxxati biss f’dak l-iStat.
+\1. a) Salarji, pagi u kull kumpens ieħor bħal dawk, minbarra pensjoni, mħallsa mill-Gvern ta’ Stat Kontraenti jew minn awtorità lokali tiegħu lil xi individwu għar-rigward ta’ servizzi mogħtijin lill-Gvern ta’ dak l-iStat jew awtorità, għandhom jiġu intaxxati biss f’dak l-iStat.
 
 b) Madankollu, kull salarju, paga u kumpens ieħor bħal dawk għandhom jiġu intaxxati biss fl-iStat Kontraenti l-ieħor jekk is-servizzi jingħataw f’dak l-iStat u l-individwu jkun residenti f’dak l-iStat u:
 
@@ -459,9 +431,7 @@ Il-ħlasijiet li student jew apprendist kummerċjali, li jkun jew li kien minnuf
 
 \1. Elementi ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalgħu minn fejn jinqalgħu, li ma jkunux ittrattati fl-Artikoli ta’ qabel ta’ dan il-Ftehim għandhom jiġu intaxxati biss f’dak l-iStat.
 
-\2. Id-dispożizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw għal income, ħlief income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, jekk min jirċievi dak l-income, għax ikun residenti ta’ Stat Kontraenti, jiġġestixxi 14 [L.S.123.30 MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA
-
-negozju fl-iStat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab fih, jew iwettaq f ’dak Istat l-ieħor servizzi personali indipendenti minn bażi stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jitħallas l-income ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ għandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, kif ikun il-każ.
+\2. Id-dispożizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw għal income, ħlief income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, jekk min jirċievi dak l-income, għax ikun residenti ta’ Stat Kontraenti, jiġġestixxi negozju fl-iStat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab fih, jew iwettaq f ’dak Istat l-ieħor servizzi personali indipendenti minn bażi stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jitħallas l-income ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ għandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, kif ikun il-każ.
 
 \3. Id-dispożizzjonijiet ta’ dan l-Artikolu m’għandhomx ikunu japplikaw jekk kien l-għan prinċipali jew wieħed mill-għanijiet prinċipali ta’ min kellu x’jaqsam mal-ħolqien jew l-assenjament tad-drittijiet li dwarhom jitħallas l-income biex jittieħed vantaġġ minn dan l-Artikolu permezz ta’ dak il-ħolqien jew assenjament.
 
@@ -491,8 +461,6 @@ Ebda ħaġa f’dan il-Ftehim m’għandha tippreġudika d-dritt li kull Stat Ko
 
 \1. Iċ-ċittadini ta’ Stat Kontraenti m’għandhom jiġu assoġġettati fl-iStat Kontraenti l-ieħor għal ebda taxxa jew ebda ħtieġa li jkunu konnessi ma’ dan, li tkun diversa jew ta’ aktar piż mit-taxxa u ħtiġiet konnessi li għalihom ċittadini ta’ dak l-iStat l-ieħor fl-istess ċirkostanzi, b’mod partikolari għar-rigward ta’ residenza, huma jew jistgħu jkunu assoġġettati. Dawn id-dispożizzjonijiet għandhom, minkejja d-dispożizzjonijiet tal-Artikolu 1, jkunu japplikaw ukoll għal persuni li ma jkunux residenti ta’ xi wiehed jew taż-żewġ Stati Kontraenti.
 
-MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30 15
-
 \2. L-intaxxar fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-iStat Kontraenti l-ieħor m’għandux jinġabar inqas favorevolment f’dak Istat l-ieħor mit-taxxa miġbura fuq impriżi ta’ dak l-iStat l-ieħor li jkun qiegħed iwettaq l-istess attivitajiet. Din id-dispożizzjoni m’għandhiex tiftiehem bħala li tobbliga lil Stat Kontraenti li jikkonċedi lil residenti tal-iStat Kontraenti l-ieħor xi allowances, ħelsien u tnaqqis personali għall-għanijiet ta’ taxxa minħabba fl-istatus ċivili jew fir-responsabbiltajiet familjari li jikkonċedi lir-residenti tiegħu.
 
 \3. Ħlief meta japplikaw d-dispożizzjonijiet tal-paragrafu 1 tal-Artikolu 9, il-paragrafu 7 tal-Artikolu 11, jew il-paragrafi 6 tal-Artikolu 12, mgħax, royalties u ħlasijiet oħra li jitħallsu minn impriża ta’ Stat Kontraenti lil residenti tal-iStat Kontraenti l-ieħor għandhom, għall-fini li jiġu stabbiliti x’inhuma l-profitti taxxabbli ta’ dik l-impriża, jiġu mnaqqsa taħt l-istess kondizzjonijiet bħallikieku dawn kienu mħallsa lil residenti tal-iStat l-ewwel imsemmi.
@@ -512,8 +480,6 @@ MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30 15
 \3. L-awtoritajiet kompetenti tal-iStati Kontraenti għandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jista’ jirriżulta dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgħu wkoll jikkonsultaw ma’ xulxin dwar l-eliminazzjoni ta’ taxxa doppja f’dawk il-każijiet li m’hemm xejn provdut dwarhom fil-Ftehim.
 
 \4. L-awtoritajiet kompetenti tal-iStati Kontraenti jistgħu jikkomunikaw direttament ma’ xulxin bl-iskop li jilħqu ftehim fis-sens tal-paragrafi 2 u 3. Meta jkun jidher li tajjeb li jsir hekk biex jintlaħaq ftehim, ir-rappreżentanti tal-awtoritajiet kompetenti tal-iStati Kontraenti jistgħu jiltaqgħu flimkien biex jiskambjaw fehmiethom bil-fomm.
-
-16 [L.S.123.30 MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA
 
 **Artikolu 27**
 
@@ -540,8 +506,6 @@ b) li jagħti informazzjoni li ma tkunx tista’ tinkiseb taħt il-liġijiet jew
 \1. L-iStati Kontraenti għandhom jagħmlu mill-aħjar biex jagħtu għajnuna lil xulxin fil-ġbir ta’ taxxi dovuti. L-awtoritajiet kompetenti tal-iStati Kontraenti jistgħu bi ftehim reċiproku jistabbilixxu l-mod kif jiġi applikat dan l-Artikolu.
 
 \2. F’ebda każ m’ghandha d-dispożizzjoni ta’ dan l-Artikolu tiftiehem li tkun qiegħda timponi fuq Stat Kontraenti l-obbligi:
-
-MAR-REPUBBLIKA TAL-POPLU TAĊ-ĊINA [L.S.123.30 17
 
 a) li jmexxu miżuri amministrattivi li jkunu differenti mill-prattika tal-liġi u dik amministrattiva ta’ dak l-iStat Kontraenti jew tal-iStat Kontraenti l-ieħor;
 

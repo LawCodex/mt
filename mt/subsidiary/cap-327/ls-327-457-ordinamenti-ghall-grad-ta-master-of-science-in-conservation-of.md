@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Conservation of Decorative Architectural Surfaces taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.457)
 
-DECORATIVE ARCHITECTURAL SURFACES TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.457
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.457**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER IN**
@@ -69,11 +63,9 @@ Il-kors ikun miftuħ għall-applikanti li għandhom:
 
 (ċ) kwalifiki meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala komparabbli għall-kwalifiki msemmija fil-paragrafi (a) u (b) ta’ dan l-ordinament. Id-dħul tal-applikanti taħt dan il-paragrafu jista’ jkun kondizzjonalment skont ir-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq.
 
-*2*
+## 4. Programm preparatorju.
 
-DECORATIVE ARCHITECTURAL SURFACES TAĦT [L.S.327.457 IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI 4. L-applikanti li jirreġistraw taħt il-paragrafu (b) u, jekk meħtieġ, (ċ) tal-ordinament 3 huma meħtieġa jtemmu programm preparatorju li jkopri mhux inqas minn 60 kredtu ECTS, b’marka medja globali ta’ 55% jew aħjar, qabel ir-reġistrazzjoni tagħhom bħala studenti regolari fil-kors.
-
-*Programm preparatorju.*
+L-applikanti li jirreġistraw taħt il-paragrafu (b) u, jekk meħtieġ, (ċ) tal-ordinament 3 huma meħtieġa jtemmu programm preparatorju li jkopri mhux inqas minn 60 kredtu ECTS, b’marka medja globali ta’ 55% jew aħjar, qabel ir-reġistrazzjoni tagħhom bħala studenti regolari fil-kors.
 
 ## 5. Tul tal-kors.
 
@@ -101,13 +93,9 @@ Il-kors għandu jinfirex fuq erba’ semestri ta’ studju fuq bażi full-time j
 
 (5) It-taqsimiet studju li jinvolvu stadju tas-sajf għandhom ikunu valutati fuq bażi ta’ Għadda / Weħel. L-istudenti li ma jtemmux jew li jeħlu fil-valutazzjoni ta’ kwalunkwe stadju tas-sajf m’għandhomx ikollhom id-dritt li joqogħdu għall-valutazzjoni mill-ġdid u jkunu meħtieġa jirtiraw mill-kors.
 
-DECORATIVE ARCHITECTURAL SURFACES TAĦT
+## 8. Taqsima studju tad-dissertazzjoni.
 
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.457 8. L-istudenti jitħallew ikomplu għat-taqsima studju tad-dissertazzjoni jekk ikunu kisbu t-80 krettu ECTS assenjati għat-taqsimiet studju mgħallma u prattiċi, b’marka medja minima ta’ 65%.
-
-*Taqsima studju tad-dissertazzjoni.*
+L-istudenti jitħallew ikomplu għat-taqsima studju tad-dissertazzjoni jekk ikunu kisbu t-80 krettu ECTS assenjati għat-taqsimiet studju mgħallma u prattiċi, b’marka medja minima ta’ 65%.
 
 ## 9. Dissertazzjoni.
 

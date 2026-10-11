@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Higher Diploma in Food Culture - H.Dip. - taħt il-patroċinju tal-Istitut għat-Turiżmu, l-Ivvjaġġar u l-Kultura (S.L. 327.379)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT GĦAT-TURIŻMU,
-
-*1*
-
-L-IVVJAĠĠAR U L-KULTURA [L.S.327.379
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.379**
 
 **ORDINAMENTI GĦALL-HIGHER DIPLOMA IN**
@@ -73,11 +67,7 @@ Il-kors jinfirex fuq medda ta’ sitt semestri ta’ studju part-time.
 
 (1) Il-kors jikkonsisti minn numru ta’ taqsimiet studju mgħallma li għalihom hemm assenjati 90 kredtu ECTS.
 
-(2) L-istudenti li jtemmu b’suċċess għadd ta’ taqsimiet studju preskritti għal total ta’ 30 kredtu ECTSu jagħżlu li ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw il-kors b’suċċess, TAĦT IL-PATROĊINJU TAL-ISTITUT GĦAT-TURIŻMU, [L.S.327.379 L-IVVJAĠĠAR U L-KULTURA
-
-jkunu eliġibbli għall-għoti tas-Certificate.
-
-*2*
+(2) L-istudenti li jtemmu b’suċċess għadd ta’ taqsimiet studju preskritti għal total ta’ 30 kredtu ECTSu jagħżlu li ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw il-kors b’suċċess, jkunu eliġibbli għall-għoti tas-Certificate.
 
 (3) L-istudenti li jtemmu b’suċċess għadd ta’ taqsimiet studju preskritti għal total ta’ 60 kredtu ECTS u jagħżlu li ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw il-kors b’suċċess, jkunu eliġibbli għall-għoti tad-Diploma.
 

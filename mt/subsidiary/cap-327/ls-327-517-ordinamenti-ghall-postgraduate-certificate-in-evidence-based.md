@@ -17,14 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Postgraduate Certificate in Evidence-Based Management and Effective Decision Making - P.G.Cert. E.B.M. (Melit.) - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy. (S.L. 327.517)
 
-AGEMENT AND EFFECTIVE DECISION MAKING - P.G.Cert.
-
-E.B.M.(Melit.) TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*1*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.517 LEĠISLAZZJONI SUSSIDJARJA 327.517
-
 **ORDINAMENTI GĦALL-POSTGRADUTATE**
 
 CERTIFICATE IN EVIDENCE-BASED MANAGEMENT AND EFFECTIVE DECISION MAKING - P.G.Cert.
@@ -70,10 +62,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 (a) it-tip u l-klassifikazzjoni tal-grad;
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
-
-AGEMENT AND EFFECTIVE DECISION MAKING - P.G.Cert. E.B.M.(Melit.) TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL- [L.S.327.517 EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY (b) l-esperjenza fil-qasam tal-istudju propost; u
-
-*2*
 
 (ċ) il-livell milħuq waqt l-intervista.
 

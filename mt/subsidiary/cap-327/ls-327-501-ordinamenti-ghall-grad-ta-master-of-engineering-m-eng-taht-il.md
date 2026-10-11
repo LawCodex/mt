@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Engineering - M.Eng. - taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.501)
 
-IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-AMBJENT MIBNI [L.S.327.501
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.501**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -69,13 +63,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (b) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala komparabbli għall-kwalifika msemmija f’paragrafu (a) ta’ dan l-ordinament. Id-dħul tal-applikanti skont dan l-ordinament jista’ jkun jiddependi mir-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq.
 
-(2) L-applikanti kollha jkunu meħtieġa jissottomettu transcript tal-istudji li juri li matul il-grad tal-ewwel ċiklu huma temmew b’suċċess in-numru minimu ta’ kretti fit-taqsimiet studju tematiċi relattivi, kif indikat fl-Iskeda approvata mill-Bord. It-taqsimiet IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.501 TAL-AMBJENT MIBNI
-
-studju li jkunu ngħataw ir-riżultat ta’ Għadda b’Kumpens ma jkunux ikkunsidrati suffiċjenti għal dan il-għan, sakemm li, fid-diskrezzjoni tal-Bord, l-applikanti li jippreżentaw ir-riżultat ta’ Għadda b’Kumpens f’sa 4 kretti ECTS jistgħu jitħallew jidħlu fil-kors suġġett għal kwalunkwe kondizzjonijiet li l-Bord jista’ jimponi.
+(2) L-applikanti kollha jkunu meħtieġa jissottomettu transcript tal-istudji li juri li matul il-grad tal-ewwel ċiklu huma temmew b’suċċess in-numru minimu ta’ kretti fit-taqsimiet studju tematiċi relattivi, kif indikat fl-Iskeda approvata mill-Bord. It-taqsimiet studju li jkunu ngħataw ir-riżultat ta’ Għadda b’Kumpens ma jkunux ikkunsidrati suffiċjenti għal dan il-għan, sakemm li, fid-diskrezzjoni tal-Bord, l-applikanti li jippreżentaw ir-riżultat ta’ Għadda b’Kumpens f’sa 4 kretti ECTS jistgħu jitħallew jidħlu fil-kors suġġett għal kwalunkwe kondizzjonijiet li l-Bord jista’ jimponi.
 
 (3) It-taqsimiet studju li jkunu mitmuma b’suċċess matul perijodi ta’ studju f’universitajiet barranin jistgħu jiġu offruti minflok it-taqsimiet studju mniżżla fl-Iskeda, suġġett għal konferma mill-Bord li dawn it-taqsimiet studju għandhom kontenut tematiku li huwa kompatibbli mal-Iskeda rilevanti, u li t-taqsimiet studju ippreżentati huma għall-anqas fl-istess livell tat-taqsimiet studju li qegħdin jissostitwixxu.
 
@@ -95,11 +83,7 @@ Il-kors għandu jinfirex fuq erba’ semestri ta’ studju fuq bażi full-time.
 
 (2) Il-programmi ta’ taqsimiet studju għandu jkollhom mhux anqas minn 60% tal-kretti assenjati għas-suġġetti tal-inġinerija ċivili, strutturali, tal-kostruzzjoni u tal-bini, mhux anqas minn 20% għas-suġetti tax-xjenzi bażiċi, u mhux anqas minn 10% għas-suġġetti mhux tekniċi.
 
-(3) Il-programmi ta’ studju għandhom ikunu ppubblikat wara l-approvazzjoni tas-Senat fuq ir-rakkomandazzjoni tal-Bord, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors. IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-AMBJENT MIBNI [L.S.327.501 (4) Il-programmi għandhom ikunu offurti kif ġej:
+(3) Il-programmi ta’ studju għandhom ikunu ppubblikat wara l-approvazzjoni tas-Senat fuq ir-rakkomandazzjoni tal-Bord, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors. (4) Il-programmi għandhom ikunu offurti kif ġej:
 
 (a) M.Eng. (Structural Engineering) li jinkludi taqsimiet studju tematiċi ewlenin fit-Theory of Structures u fl- Istructural Design, u taqsimiet studju tematiċi sekondarji fil-Geotechinical Engineering;
 
@@ -121,13 +105,7 @@ TAL-AMBJENT MIBNI [L.S.327.501 (4) Il-programmi għandhom ikunu offurti kif ġej
 
 sakemm li jekk student jeħel f’żewġ terzi jew aktar mill-assenjamenti assoċjati mad-Design Workshops li jsiru fl-ewwel sena ta’ studji, u li jikkorrispondu ma’ xogħol li jsir matul porżjon sinifikanti tas-sena akkademika, il-Bord jista’ jiddeċiedi li valutazzjoni mill-ġdid matul is-sessjoni supplimentari ta’ Settembru ta’ wara ma tkunx għażla vijabbli għall-istudent, u jista’ jitlob lill-istudent jissottometti mill-ġdid l-assenjament li weħel fihom matul sena addizzjonali, qabel ma jkompli għat-tieni sena ta’ studji; u
 
-(ii) L-istudenti fit-tieni sena tal-kors għandhom jingħataw biss l-opportunità li joqgħodu mill-ġdid għall-valutazzjonijiet ta’ taqsimiet studju mgħallma ta’ mhux aktar minn 20 krettu ECTS li weħlu fihom matul is-sessjoni tal-eżamijiet supplimentari ta’ Settembru. (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju, IL-PATROĊINJU TAL-FAKULTÀ
-
-*4*
-
-[L.S.327.501 TAL-AMBJENT MIBNI
-
-jkunu meħtieġa li jirtiraw mill-kors.
+(ii) L-istudenti fit-tieni sena tal-kors għandhom jingħataw biss l-opportunità li joqgħodu mill-ġdid għall-valutazzjonijiet ta’ taqsimiet studju mgħallma ta’ mhux aktar minn 20 krettu ECTS li weħlu fihom matul is-sessjoni tal-eżamijiet supplimentari ta’ Settembru. (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju, jkunu meħtieġa li jirtiraw mill-kors.
 
 ## 7. Workshop tal- Proġett Finali.
 
@@ -159,11 +137,9 @@ L-istudenti huma meħtieġa jtemmu l-Workshop tal-Proġett Finali u jiktbu disse
 
 (4) Il-Bord tal-Eżaminaturi għandu jkun magħmul għall-anqas minn erba’ membri, inkluż iċ-Chairman u s-superviżur, kif approvat mis-Senat, sakemm li f ’każijiet fejn il-Kap tad- Dipartiment huwa wkoll is-superviżur, dan ma jistax ikun chairman iżda membru ieħor għandu jiġi hekk maħtur; f’każijiet fejn il-Bord iqis xieraq, persuna oħra minflok il-Kap tad-Dipartiment tista’ tinħatar bħala chairman.
 
-IL-PATROĊINJU TAL-FAKULTÀ
+## 10.
 
-*5*
-
-TAL-AMBJENT MIBNI [L.S.327.501 10. (1) L-istudenti huma meħtieġa jkollhom kuntatt regolari mas-superviżur tagħhom, mhux inqas minn darba fix-xahar.
+(1) L-istudenti huma meħtieġa jkollhom kuntatt regolari mas-superviżur tagħhom, mhux inqas minn darba fix-xahar.
 
 (2) L-istudenti għandhom jagħmlu preżentazzjoni interim f’nofs il-programm ta’ studju kemm dwar id-Dissertazzjoni u l- Worshop tal-Proġett Finali lill-Bord tal-Eżaminaturi rilevanti, matul nofs il-programm ta’ studju, biex ikun aċċertat li kull student qiegħed jagħmel progress sodisfaċenti. Wara dawn il-preżentazzjonijiet interim, għandu jsir rapport dwar il-progress tagħhom, li jista’ jinkludi rakkomandazzjoniet biex jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm ix-xogħol kif suppost; jew (b) jintemmu l-istudji qabel il-waqt jekk il- Bord jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

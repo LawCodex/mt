@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Reġistrazzjoni ta’ Skejjel tas-Sajf bħala Stabbilimenti Edukattivi (S.L. 327.349)
 
-REĠISTRAZZJONI TA’ SKEJJEL TAS-SAJF
-
-*1*
-
-BĦALA STABBILIMENTI EDUKATTIVI [L.S.327.349
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.349**
 
 **REGOLAMENTI DWAR IR-REĠISTRAZZJONI**

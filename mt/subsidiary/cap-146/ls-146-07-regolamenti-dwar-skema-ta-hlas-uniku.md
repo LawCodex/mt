@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Skema ta' Ħlas Uniku"
-identifier: "S.L. 146.7"
+identifier: "S.L. 146.07"
 eli: "https://legislation.mt/eli/sl/146.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/146.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Skema ta' Ħlas Uniku (S.L. 146.7)
+# Regolamenti dwar Skema ta' Ħlas Uniku (S.L. 146.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 146.07**
 

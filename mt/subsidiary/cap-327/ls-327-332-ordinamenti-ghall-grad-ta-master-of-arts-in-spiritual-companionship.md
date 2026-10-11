@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Spiritual Companionship taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.332)
 
-*1*
-
-SHIP TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.332
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.332**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -108,11 +104,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 15,000 – 20,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
-(2) Ix-xogħol fuq id-dissertazzjoni jista’ jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu SHIP TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.332
-
-jipprovdi gwida u pariri fuq bażi regolari waqt il-perjodu ta’ studju.
-
-*3*
+(2) Ix-xogħol fuq id-dissertazzjoni jista’ jsir waqt it-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perjodu ta’ studju.
 
 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-bidu tat-tieni semestru.
 

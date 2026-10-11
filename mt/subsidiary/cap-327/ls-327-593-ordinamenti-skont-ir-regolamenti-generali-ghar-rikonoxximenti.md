@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2004 għall-Grad ta’ Bachelor in Performing Arts (Honours) – B. Perf. Arts (Hons) - taħt il-patroċinju tal-Iskola tal-Arti Performattiva (S.L. 327.593)
 
-*1*
-
-B. PERF. ARTS (HONS) [L.S.327.593 LEĠISLAZZJONI SUSSIDJARJA 327.593
+**LEĠISLAZZJONI SUSSIDJARJA 327.593**
 
 ORDINAMENTI SKONT IR-REGOLAMENTI ĠENERALI GĦAR-RIKONOXXIMENTI
 
@@ -61,11 +59,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (1) Biex ikunu rreġistrati bħala studenti regolari fil- Kors, l-applikanti għandhom jissodisfaw ir-rekwiżiti ġenerali għad-dħul kif speċifikati fir-Regolamenti għad-Dħul tal-Università.
 
-(2) L-applikanti li jidħlu bħala “Studenti Adulti” (studenti maturi) skont il-paragrafu (ċ) tar-regolamenti 6 tar-Regolamenti għad-Dħul għandu jkollhom dawk il-kwalifiki u/jew esperjenza li jissodisfaw lill-Bord li huma laħqu l-livell akkademiku neċessarju biex isegwu l-Kors bi profitt. Dawn l-applikanti huma meħtieġa li [L.S. 327.593 B. PERF. ARTS (HONS)
-
-mal-applikazzjoni tagħhom jissottomettu ittra miktuba bl-Ingliż fejn jagħtu l-motivazzjoni tagħhom għaliex jixtiequ jidħlu fil-Kors flimkien ma kopja tal-Curriculum Vitae (C.V.) tagħhom.
-
-*2*
+(2) L-applikanti li jidħlu bħala “Studenti Adulti” (studenti maturi) skont il-paragrafu (ċ) tar-regolamenti 6 tar-Regolamenti għad-Dħul għandu jkollhom dawk il-kwalifiki u/jew esperjenza li jissodisfaw lill-Bord li huma laħqu l-livell akkademiku neċessarju biex isegwu l-Kors bi profitt. Dawn l-applikanti huma meħtieġa li mal-applikazzjoni tagħhom jissottomettu ittra miktuba bl-Ingliż fejn jagħtu l-motivazzjoni tagħhom għaliex jixtiequ jidħlu fil-Kors flimkien ma kopja tal-Curriculum Vitae (C.V.) tagħhom.
 
 (3) L-eliġibilità tal-applikanti msemmija f’paragrafu (2) ta’ dan l-ordinament tiġi deċiża mill-Bord, wara intervista mmexxija minn bord li jkun maħtur għal dan il-għan.
 
@@ -99,7 +93,9 @@ Marka Medja tat-Tielet Sena 40%.
 
 (2) Il-Marka Medja Finali Mwieżna għall-għan tal-klassifikazzjoni tad-Diploma għandha tkun ibbażata fuq ir-rizultati miksuba fit-taqsimiet studju li temmew b’suċċess.
 
-B. PERF. ARTS (HONS) [L.S.327.593 3 9. Il-provvedimenti tal-ordinamenti preċedenti għandhom Il-Provvedimenti għall-japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, Speċjali
+## 9.
+
+Il-provvedimenti tal-ordinamenti preċedenti għandhom Il-Provvedimenti għall-japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, Speċjali
 
 Korsijiet fuq Bażi u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill- Part-Time
 

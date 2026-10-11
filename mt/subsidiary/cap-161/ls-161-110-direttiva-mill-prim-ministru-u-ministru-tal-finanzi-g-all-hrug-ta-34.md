@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Prim Ministru u Ministru tal-Finanzi g]all-Ħruġ ta’ €34,940,600.98 5% Stock tal-Gvern ta’ Malta 2021 (L-Ewwel Ħruġ) Fungibility Issue (S.L. 161.110)
 
-}RU{ TA’ €34,940,600.98 5% STOCK
-
-*1*
-
-TAL-GVERN TA’ MALTA 2021 (L-EWWEL }RU{) [L.S.161.110
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.110**
 
 **DIRETTIVA MILL-PRIM MINISTRU U MINISTRU**

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Użu ta' Karta biex tqartas"
-identifier: "S.L. 36.1"
+identifier: "S.L. 36.01"
 eli: "https://legislation.mt/eli/sl/36.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/36.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Użu ta' Karta biex tqartas (S.L. 36.1)
+# Ordni dwar l-Użu ta' Karta biex tqartas (S.L. 36.01)
 
 LE{ISLAZZJONI SUSSIDJARJA 36.01
 

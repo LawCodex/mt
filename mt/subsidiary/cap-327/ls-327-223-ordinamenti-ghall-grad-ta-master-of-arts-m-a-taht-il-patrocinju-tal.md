@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts - M.A. - taħt il-patroċinju tal-Fakultà tal-Midja u X-Xjenzi tal-Għarfien (S.L. 327.223)
 
-*1*
-
-TAL-FAKULTÀ TAL-MIDJA U XJENZI TAL-GĦARFIEN [L.S.327.223
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.223**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -68,11 +64,7 @@ Il-Bord għandu joffri l-kors fl-oqsma ta’ studju li jaqgħu taħt il-kompeten
 
 (a) grad ta’ Bachelor miksub fit-Tieni Klassi bl-Unuri jew aħjar fl-istess qasam jew f’qasam ta’ studju relatat mill-qrib mal-qasam ta’ studju li qegħdin japplikaw għalih; jew
 
-(b) grad ta’ Bachelor miksub fl-istess qasam jew f’qasam ta’ studju relatat mill-qrib ma’ dak li qegħdin japplikaw għalih, b’marka medja ta’ mill-anqas 65% f’dak il-qasam ta’ studju, jew kwalifiki simili meqjusin mill-Bord bħala rilevanti għall-qasam [L.S.327.223 TAL-FAKULTÀ TAL-MIDJA U XJENZI TAL-GĦARFIEN
-
-magħżul għall-kors; jew
-
-*2*
+(b) grad ta’ Bachelor miksub fl-istess qasam jew f’qasam ta’ studju relatat mill-qrib ma’ dak li qegħdin japplikaw għalih, b’marka medja ta’ mill-anqas 65% f’dak il-qasam ta’ studju, jew kwalifiki simili meqjusin mill-Bord bħala rilevanti għall-qasam magħżul għall-kors; jew
 
 (ċ) grad minn din jew minn università oħra li l-Bord iqis li huwa komparabbli għal xi wieħed mill-gradi indikati fil-paragrafi (a) u (b) ta’ dan l-ordinament.
 
@@ -107,10 +99,6 @@ Il-programm ta’ studju għal kull qasam ta’ studju offrut fil-kors jista’ 
 (1) Il-programmi ta’ studju prinċipalment mgħallma għandhom jikkonsistu minn taqsimiet studju mgħallma li għalihom hemm assenjati total ta’ 60 kredtu u taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 30 kredtu.
 
 (2) L-istudenti li jiksbu s-60 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma fil-qasam ta’ studju rilevanti.
-
-*3*
-
-TAL-FAKULTÀ TAL-MIDJA U XJENZI TAL-GĦARFIEN [L.S.327.223
 
 ## 10. Programmi prinċipalment bir-riċerka.
 
@@ -148,11 +136,7 @@ Il-programmi ta’ studju għandhom ikunu ppubblikati mill- Bord wara l-approvaz
 
 (1) Fil-każijiet kollha, l-istudenti jkunu meħtieġa jżommu kuntatt regolari mas-superviżur tagħhom.
 
-(2) Għall-istudenti li qegħdin isegwu l-programm prinċipalment mgħallem, is-superviżuri għandhom jibgħatu lill- [L.S.327.223 TAL-FAKULTÀ TAL-MIDJA U XJENZI TAL-GĦARFIEN
-
-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom kif applikabbli.
-
-*4*
+(2) Għall-istudenti li qegħdin isegwu l-programm prinċipalment mgħallem, is-superviżuri għandhom jibgħatu lill- Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom kif applikabbli.
 
 (3 Għall-istudenti li qegħdin isegwu l-programm prinċipalment bir-riċerka, is-superviżuri għandhom jibgħatu lill- Bord rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time.
 

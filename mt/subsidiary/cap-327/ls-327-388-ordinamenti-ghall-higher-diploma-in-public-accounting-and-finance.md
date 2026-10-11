@@ -17,13 +17,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Higher Diploma in Public Accounting and Finance taħt il-patroċinju tal-Istitut dwar l-Amministrazzjoni Pubblika u l-Management u l-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.388)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT DWAR L-AMMINISTRAZZ-
-
-JONI PUBBLIKA UL-MANAGEMENT UL-FAKULTÀ
-
-*1*
-
-TAL-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.388 LEĠISLAZZJONI SUSSIDJARJA 327.388
+**LEĠISLAZZJONI SUSSIDJARJA 327.388**
 
 **ORDINAMENTI GĦALL-HIGHER DIPLOMA IN**
 
@@ -71,11 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT DWAR L-AMMINISTRAZZ- JONI PUBBLIKA UL-MANAGEMENT UL-FAKULTÀ
-
-*2*
-
-[L.S.327.388 TAL-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY (3) Id-dħul għal dan il-kors jista’, bl-approvazzjoni tas-Senat, ikun ristrett għall-applikanti li jkunu nominati mis-Servizz Pubbliku, sakemm dawn ikunu eliġibbli għad-dħul skont il-paragrafi (1) jew (2).
+ikun ristrett għall-applikanti li jkunu nominati mis-Servizz Pubbliku, sakemm dawn ikunu eliġibbli għad-dħul skont il-paragrafi (1) jew (2).
 
 (4) Is-Senat, fuq ir-rakkomandazzjoni tal-Bord tal-Istudji, għandu jiddetermina n-numru ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibbiltà tar-riżorsi. In-numru ta’ postijiet disponibbli għandu jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
@@ -111,13 +101,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (1) Il-valutazzjoni globali tal-livell milħuq minn kull student fil-kors għall-għan tal-klassifikazzjoni tad-Diploma u tal- Higher Diploma tkun ibbażata fuq ir-riżultati miksuba, bil-kredti kollha jingħataw piż indaqs.
 
-(2) L-ismijiet tal-istudenti li jikkwalifikaw għall-għoti tad- Diploma u tal-Higher Diploma għandhom ikunu ppubblikati f’lista TAĦT IL-PATROĊINJU TAL-ISTITUT DWAR L-AMMINISTRAZZ-
-
-JONI PUBBLIKA UL-MANAGEMENT UL-FAKULTÀ
-
-*3*
-
-TAL-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.388 f’ordni alfabetiku kklassifikati kif ġej:
+(2) L-ismijiet tal-istudenti li jikkwalifikaw għall-għoti tad- Diploma u tal-Higher Diploma għandhom ikunu ppubblikati f’lista f’ordni alfabetiku kklassifikati kif ġej:
 
 Għadda b’Distinzjoni
 

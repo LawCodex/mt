@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Akkwist ta' Artijiet (Rati ta' Mgħax)"
-identifier: "S.L. 88.2"
+identifier: "S.L. 88.02"
 eli: "https://legislation.mt/eli/sl/88.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/88.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Akkwist ta' Artijiet (Rati ta' Mgħax) (S.L. 88.2)
+# Regolamenti dwar Akkwist ta' Artijiet (Rati ta' Mgħax) (S.L. 88.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 88.02**
 

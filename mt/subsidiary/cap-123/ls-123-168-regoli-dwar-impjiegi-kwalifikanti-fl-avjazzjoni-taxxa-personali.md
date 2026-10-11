@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Impjiegi Kwalifikanti fl-Avjazzjoni (Taxxa Personali) (S.L. 123.168)
 
-*1*
-
-(TAXXA PERSONALI) [L.S.123.168
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.168**
 
 **REGOLI DWAR IMPJIEGI KWALIFIKANTI**
@@ -65,11 +61,7 @@ għall-protezzjoni tal-ordni pubbliku, is-sigurtà nazzjonali, l-integrità terr
 
 "kwalifka tal-edukazzjoni" tfisser kwalunkwe diploma, ċertifikat jew evidenza oħra ta’ kwalifiki formali maħruġa minn stabbiliment edukattiv li tattesta t-twettiq b’suċċess ta’ programm tal-edukazzjoni postsekondarju, jigifieri sett ta’ korsijiet ipprovduti minn stabbiliment edukattiv rikonoxxut bħala istituzzjoni edukattiva mill-Istat li jinsab fih;
 
-"kwalifiki professjonali" tfisser kwalifiki ċċertifikati b’evidenza ta’ kwalifiki ta’ edukazzjoni jew, b’deroga, meta tkun prevista fil-liġi [L.S.123.168 (TAXXA PERSONALI)
-
-nazzjonali, attestati permezz tal-esperjenza professjonali ta’ livell komparabbli għal kwalifiki ta’ edukazzjoni u li huma rilevanti fil-professjoni jew is-settur speċifikat fil-kuntratt tax-xogħol jew l-offerta ta’ impjieg li torbot;
-
-*2*
+"kwalifiki professjonali" tfisser kwalifiki ċċertifikati b’evidenza ta’ kwalifiki ta’ edukazzjoni jew, b’deroga, meta tkun prevista fil-liġi nazzjonali, attestati permezz tal-esperjenza professjonali ta’ livell komparabbli għal kwalifiki ta’ edukazzjoni u li huma rilevanti fil-professjoni jew is-settur speċifikat fil-kuntratt tax-xogħol jew l-offerta ta’ impjieg li torbot;
 
 "uffiċċju eliġibbli" huwa definit bħala impjieg ewlieni għall-operazzjonijiet tal-kumpannija u li l-funzjoni tiegħu tkun ikkonfermata mill-awtorità kompetenti, abbażi ta’ proċedura ta’ valutazzjoni amministrattiva.
 
@@ -97,11 +89,7 @@ Benefiċjarju huwa individwu li jissodisfa l-kundizzjonijiet li ġejjin:
 
 (ċ) huwa juri għas-sodisfazzjon tal-awtorità kompetenti li huwa fil-pussess ta’ kwalifiki professjonali jew esperjenza;
 
-(d) huwa jiżvela b’mod sħiħ għall-finijiet tat-taxxa u jiddikjara l-emolumenti riċevuti fir-rigward ta’ income minn kuntratt ta’ xogħol kwalifikabbli u kull income li jirċievi minn persuna li timpjegah li tħallas l-income (TAXXA PERSONALI) [L.S.123.168
-
-minn kuntratt li jikkwalifika bħala taxxabbli f’Malta;
-
-*3*
+(d) huwa jiżvela b’mod sħiħ għall-finijiet tat-taxxa u jiddikjara l-emolumenti riċevuti fir-rigward ta’ income minn kuntratt ta’ xogħol kwalifikabbli u kull income li jirċievi minn persuna li timpjegah li tħallas l-income minn kuntratt li jikkwalifika bħala taxxabbli f’Malta;
 
 (e) huwa juri għas-sodisfazzjon tal-awtorità kompetenti li jwettaq l-attivitajiet ta’ uffiċċju eliġibbli; u
 
@@ -139,11 +127,7 @@ Iżda r-rata ta’ 15% għandha tapplika, mingħajr m’għandha l-possibilità 
 
 (2) Id-drittijiet miksuba skont din il-liġi għandhom jitqiesu li jiġu rtirati b’effett immedjat jekk l-għoti ta’ benefiċċji skont dawn ir-regoli u ż-żmien f ’Malta tal-benefiċjarju mhumiex fl-interess pubbliku.
 
-(3) Minkejja kull ħaġa xort’oħra li tinsab f’dawn ir-regoli, kull persuna li taqa’ taħt id-dispożizzjonijiet tas-subregola (1) tkun, irrispettivament jekk tkunx għażlet li tibbenefika mid-dispożizzjonijiet ta’ dawn ir-regoli jew le, eliġibbli, wara [L.S.123.168 (TAXXA PERSONALI)
-
-applikazzjoni, għal żewġ estensjonijiet ta’ ħames snin ’il waħda mal-perjodu kwalifikanti tagħha, sakemm tibqa’ konformi mad-dispożizzjonijiet l-oħra ta’ dawn ir-regoli:
-
-*4*
+(3) Minkejja kull ħaġa xort’oħra li tinsab f’dawn ir-regoli, kull persuna li taqa’ taħt id-dispożizzjonijiet tas-subregola (1) tkun, irrispettivament jekk tkunx għażlet li tibbenefika mid-dispożizzjonijiet ta’ dawn ir-regoli jew le, eliġibbli, wara applikazzjoni, għal żewġ estensjonijiet ta’ ħames snin ’il waħda mal-perjodu kwalifikanti tagħha, sakemm tibqa’ konformi mad-dispożizzjonijiet l-oħra ta’ dawn ir-regoli:
 
 Iżda l-eliġibbilità taħt dawn ir-regoli ma għandhiex teċċedi perjodu konsekuttiv ta’ ħmistax-il sena li jibda mill-ewwel sena ta’ stima li fiha dik il-persuna tkun l-ewwel soġġetta għat-taxxa skont id-dispożizzjonijiet tal-Att.
 
@@ -163,11 +147,7 @@ Iżda wkoll l-obbligu li tħallas taxxa addizzjonali f’termini tal-proviso pre
 
 (1) Sabiex jiġu aċċertati d-drittijiet tal-individwu li jeżerċita l-għażla prevista f’dawn ir-regoli u tiġi żgurata l-applikazzjoni korretta ta’ dawn ir-regoli, il-Kummissarju u l-awtorità kompetenti jistgħu jeħtieġu li individwu li jipproduċi, fiż-żmien indikat mill- Kummissarju u mill-awtorità kompetenti f ’dik it-talba, dik l-informazzjoni addizzjonali u dokumenti kif il-Kummissarju u l-awtorità kompetenti jistgħu jikkunsidraw neċessarji, li jinkludu ċertifikati u dikjarazzjonijiet tal-prinċipal ta’ dak l-individwu.
 
-(2) Jekk individwu jonqos, mingħajr raġuni valida, li jikkonforma ma’ kull talba dwar id-dħul tiegħu li kienet saritlu mill-Kummissarju u mill-awtorità kompetenti skont din ir-regola, il-Kummissarju u l-awtorità kompetenti jistgħu jiddeċiedu li l-artikolu 56(21) tal-Att ma japplikax għal dak l-income. F’dak il-każ, il-Kummissarju jista’ jagħmel stima u t-taxxa fuq dak l-income għandha tiġi kkalkulata (TAXXA PERSONALI) [L.S.123.168
-
-skont ir-rati previsti fl-Att mingħajr ebda referenza għal din is-subregola.
-
-*5*
+(2) Jekk individwu jonqos, mingħajr raġuni valida, li jikkonforma ma’ kull talba dwar id-dħul tiegħu li kienet saritlu mill-Kummissarju u mill-awtorità kompetenti skont din ir-regola, il-Kummissarju u l-awtorità kompetenti jistgħu jiddeċiedu li l-artikolu 56(21) tal-Att ma japplikax għal dak l-income. F’dak il-każ, il-Kummissarju jista’ jagħmel stima u t-taxxa fuq dak l-income għandha tiġi kkalkulata skont ir-rati previsti fl-Att mingħajr ebda referenza għal din is-subregola.
 
 ## 9. Mod kif tiġi adottata l-għażla.
 
@@ -186,10 +166,6 @@ Iżda meta l-imsemmija dikjarazzjoni jew il-prospett tat-taxxa relattiv jintbag�
 ## 11. Kif jittieħed benefiċċju.
 
 Għall-finijiet tar-regola 9, l-awtorità kompetenti, wara applikazzjoni ppreżentata minn benefiċjarju, għandha tapprova l-formola mitluba mill-Kummissarju.
-
-*6*
-
-[L.S.123.168 (TAXXA PERSONALI)
 
 ## SKEDA
 

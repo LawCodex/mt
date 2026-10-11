@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Law taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.209)
 
-*1*
-
-IL-PATRO~INJU TAL-FAKULTÀ TAL-LI{I [L.S.327.209
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.209**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER OF**
@@ -113,11 +109,7 @@ Il-programm ta’ studju g]andu jikkonsisti minn taqsimiet studju li g]alihom he
 
 (1) Il-valutazzjoni tat-taqsimiet studju mg]allma g]andha ssir sal-a]]ar tas-semestru li fih ikun sar it-tag]lim tat-taqsima/ taqsimiet studju, inklu\\ il-perijodu riservat g]all-valutazzjonijiet fit-tmiem tas-semestru.
 
-(2) L-istudenti li qeg]din isegwu programm ta’ studju mg]allem li f’xi sena akkademika je]lu fil-valutazzjoni ta’ mhux aktar minn 20 kredtu, jekk ikunu qeg]din isegwu l-kors full-time, jew mhux aktar minn 10 kredti jekk ikunu qeg]din isegwu l-kors part-time, jing]ataw l-opportunità li joqog]du g]all-valutazzjoni IL-PATRO~INJU TAL-FAKULTÀ TAL-LI{I [L.S.327.209
-
-mill-[did fit-taqsimiet studju li we]lu minnhom fis-sessjoni tal-e\\amijiet supplimentari ta’ Settembru.
-
-*3*
+(2) L-istudenti li qeg]din isegwu programm ta’ studju mg]allem li f’xi sena akkademika je]lu fil-valutazzjoni ta’ mhux aktar minn 20 kredtu, jekk ikunu qeg]din isegwu l-kors full-time, jew mhux aktar minn 10 kredti jekk ikunu qeg]din isegwu l-kors part-time, jing]ataw l-opportunità li joqog]du g]all-valutazzjoni mill-[did fit-taqsimiet studju li we]lu minnhom fis-sessjoni tal-e\\amijiet supplimentari ta’ Settembru.
 
 (3) L-istudenti li je]lu f’aktar mill-g]add ta’ kredti permess skont il-paragrafu (2), jew l-istudenti li wara valutazzjoni mill-[did ma jiksbux il-kredti g]al xi taqsima studju, jkunu me]tie[a jirtiraw mill-kors.
 

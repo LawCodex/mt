@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti li jirregolaw id-Doveri u l-Kondizzjonijiet tal-Ħatra tal-Kap Eżekuttiv"
-identifier: "S.L. 164.3"
+identifier: "S.L. 164.03"
 eli: "https://legislation.mt/eli/sl/164.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,13 +15,11 @@ version: "https://legislation.mt/eli/sl/164.3/20210803/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti li jirregolaw id-Doveri u l-Kondizzjonijiet tal-Ħatra tal-Kap Eżekuttiv (S.L. 164.3)
+# Regolamenti li jirregolaw id-Doveri u l-Kondizzjonijiet tal-Ħatra tal-Kap Eżekuttiv (S.L. 164.03)
 
-REGOLAMENTI LI JIRREGOLAW ID-DOVERI U
+**LEĠISLAZZJONI SUSSIDJARJA 164.03**
 
-*1*
-
-L-KONDIZZJONIJIET TAL-ĦATRA TAL-KAP EŻEKUTTIV [L.S. 164.03 LEĠISLAZZJONI SUSSIDJARJA 164.03 REGOLAMENTI LI JIRREGOLAW ID-DOVERI U L-KONDIZZJONIJIET TAL-ĦATRA TAL-KAP
+REGOLAMENTI LI JIRREGOLAW ID-DOVERI U L-KONDIZZJONIJIET TAL-ĦATRA TAL-KAP
 
 **EŻEKUTTIV**
 

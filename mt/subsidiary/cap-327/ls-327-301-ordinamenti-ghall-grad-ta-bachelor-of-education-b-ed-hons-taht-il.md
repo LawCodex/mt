@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Bachelor of Education - B.Ed. (Hons) - taħt il-patroċinju tal-Fakultà ta' l-Edukazzjoni (S.L. 327.301)
 
-*1*
-
-\- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.301
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.301**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF EDUCTION - B.ED.(HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
@@ -57,11 +53,7 @@ Dawn l-ordinamenti għandhom japplikaw mill-1 ta’ Ottubru 2016 ’il quddiem.
 
 (2) (a) Fl-oqsma ta’ speċjalizzazzjoni tal-Primarja u tal- Edukazzjoni u l-Ħarsien tat-Tfal fl-Età Bikrija, il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw f’dawn l-oqsma ta’ speċjalizzazzjoni, skont l-għadd ta’ pjazzamenti fl-iskejjel disponibbli. L-għadd ta’ postijiet disponibbli għandu jkun imħabbar meta din l-informazzjoni tkun disponibbli għall-Università mill-awtoritajiet rilevanti.
 
-(b) Jekk ikun hemm aktar applikanti eliġibbli mill-għadd ta’ postijiet disponibbli, l-applikanti għandhom jiġu [L.S.327.301 - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-magħżula wara intervista minn bord tal-intervisti maħtur mill-Bord għal dan il-għan u li għandu jkun magħmul mill-anqas minn tliet membri. L-applikanti għandhom jitqiegħdu f’ordni mill-ewwel sal-aħħar skont il-kriterji approvati mis-Senat.
-
-*2*
+(b) Jekk ikun hemm aktar applikanti eliġibbli mill-għadd ta’ postijiet disponibbli, l-applikanti għandhom jiġu magħżula wara intervista minn bord tal-intervisti maħtur mill-Bord għal dan il-għan u li għandu jkun magħmul mill-anqas minn tliet membri. L-applikanti għandhom jitqiegħdu f’ordni mill-ewwel sal-aħħar skont il-kriterji approvati mis-Senat.
 
 ## 4. Edukazzjoni Sekondarja bħala qasam ta’ speċjalizzazzjoni.
 
@@ -109,10 +101,6 @@ L-oqsma ta’ tagħlim fi Grupp Ċ ikunu dawn li ġejjin: il- Kompjuting, in-Nut
 
 (2) Fl-oqsma ta’ tagħlim fejn l-għadd ta’ pjazzamenti fl-iskejjel huwa limitat, il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw f’dawn l-oqsma ta’ tagħlim, skont l-għadd ta’ pjazzamenti fl-iskejjel disponibbli. L-għadd ta’ postijiet disponibbli għandu jkun imħabbar meta din l-informazzjoni tkun disponibbli għall-Università mill-awtoritajiet rilevanti.
 
-*3*
-
-\- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.301
-
 (3) Jekk ikun hemm aktar applikanti eliġibbli mill-għadd ta’ postijiet disponibbli, l-applikanti għandhom jitqiegħdu f’ordni mill-ewwel sal-aħħar skont il-kriterji approvati mis-Senat. Il-Bord tad-Dħul tal-Università, wara li jitlob il-parir tal-Kumitat tad-Dħul tal-Fakultà, għandu l-ewwel jikkunsidra l-applikanti eliġibbli li l-kwalifiki tagħhom ġew miksuba fl-Eżami għaċ-Ċertifikat tal- Matrikola jew minn bord tal-eżamijiet ieħor, jekk il-Kumitat tad- Dħul tal-Fakultà jkun sodisfatt li l-kwalifiki ppreżentati huma komparabbli fil-kontenut u ekwivalenti għall-livell tal-Eżami għaċ- Ċertifikat tal-Matrikola fl-istess suġġett / suġġetti. Għall-iskop tal-għażla, l-applikanti li l-kwalifiki u r-rekwiżiti speċjali għad-dħul tagħhom kif stipulat fl-ordinament 9 ġew miksuba sal-31 ta’ Awwissu qabel il-bidu tal-Kors għandhom ikunu kkunsidrati l-ewwel. Jekk ikun għad hemm postijiet disponibbli, l-applikanti li jiksbu l-kwalifiki neċessarji u li jissodisfaw ir-rekwiżiti speċjali għad-dħul kollha kif stipulat fl-ordinament 9 wara l-31 ta’Awwissu u qabel it-30 ta’ Settembru, għandhom ikunu kkunsidrati għall-mili tal-postijiet li jibqgħu.
 
 ## 9. Rekwiżiti speċjali għad-dħul fil-kors.
@@ -129,11 +117,7 @@ Ghall-korsijiet li jibdew f ’Ottubru 2012 u f’Ottubru 2013:
 
 (b) għaddew fil-Livell Intermedju tal-Matrikola bi Grad Ċ jew aħjar f’żewġ suġġetti minn dawn (minbarra s-suġġgett ippreżentat fil-Livell Avvanzat): l-Arti, il- Bijoloġija, l-Edukazzjoni Reliġjuża, l-Environmental Science, il-Filosofija, il-Fiżika, il-Ġografija, il-Home Economics and Human Ecology, l-Information Technology, l-Ingliz, l-Istorja, il-Kimika, il- Kompjuting, il-Malti, il-Matematika (Applikata jew Pura), il-Mużika u s-Soċjologija; u
 
-(ċ) għaddew fit-testijiet tal-profiċjenza fl-Ingliż u fil- Malti, approvati mill-Fakultà. L-applikanti jkunu eżentati milli joqogħdu għat-test tal-profiċjenza fl- Ingliż jekk ikunu għaddew fiċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 3 jew ogħla, jew fil- Livell Intermedju tal-Matrikola bi Grad Ċ jew ogħla, jew fil-Livell Avvanzat tal-Matrikola bi Grad Ċ jew ogħla fl-Ingliż. L-applikanti jkunu eżentati milli joqogħdu għat-test tal-profiċjenza fil-Malti jekk ikunu [L.S.327.301 - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-għaddew fiċ-Ċertifikat tal-Edukazzjoni Sekondarja bi Grad 3 jew ogħla, jew fil-Livell Intermedju tal- Matrikola bi Grad Ċ jew ogħla, jew fil-Livell Avvanzat tal-Matrikola bi Grad Ċ jew ogħla fil-Malti; u
-
-*4*
+(ċ) għaddew fit-testijiet tal-profiċjenza fl-Ingliż u fil- Malti, approvati mill-Fakultà. L-applikanti jkunu eżentati milli joqogħdu għat-test tal-profiċjenza fl- Ingliż jekk ikunu għaddew fiċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 3 jew ogħla, jew fil- Livell Intermedju tal-Matrikola bi Grad Ċ jew ogħla, jew fil-Livell Avvanzat tal-Matrikola bi Grad Ċ jew ogħla fl-Ingliż. L-applikanti jkunu eżentati milli joqogħdu għat-test tal-profiċjenza fil-Malti jekk ikunu għaddew fiċ-Ċertifikat tal-Edukazzjoni Sekondarja bi Grad 3 jew ogħla, jew fil-Livell Intermedju tal- Matrikola bi Grad Ċ jew ogħla, jew fil-Livell Avvanzat tal-Matrikola bi Grad Ċ jew ogħla fil-Malti; u
 
 (d) kisbu ċ-ċertifikat li juri li għaddew mis-seba’ moduli tal-European Computer Driving License (ECDL).
 
@@ -155,11 +139,7 @@ Għall-korsijiet li jibdew f’Ottubru 2012 u f’Ottubru 2013:
 
 (b) għandhom l-MCAST-BTEC National Diploma in Children’s Care, Learning and Development jew is- Certificate in Pre-School Education (Education Division - Further Studies and Adult Education Department) jew is-Certificate in Childcare (Education Division - Further Studies and Adult Education Department); u
 
-(ċ) għaddew fil-Livell Avvanzat tal-Matrikola bi Grad Ċ jew aħjar f’wieħed minn dawn is-suġġetti li ġejjin: l- Arti, il-Bijoloġija, l-Edukazzjoni Reliġjuża, il- Filosofija, il-Fiżika, il-Ġografija, il-Home Economics and Human Ecology, l-Information Technology, l- Ingliż, l-Istorja, il-Kimika, il-Kompjuting, il-Malti, il- - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.301
-
-Matematika (Applikata jew Pura), il-Mużika u s- Soċjologija; u
-
-*5*
+(ċ) għaddew fil-Livell Avvanzat tal-Matrikola bi Grad Ċ jew aħjar f’wieħed minn dawn is-suġġetti li ġejjin: l- Arti, il-Bijoloġija, l-Edukazzjoni Reliġjuża, il- Filosofija, il-Fiżika, il-Ġografija, il-Home Economics and Human Ecology, l-Information Technology, l- Ingliż, l-Istorja, il-Kimika, il-Kompjuting, il-Malti, il- Matematika (Applikata jew Pura), il-Mużika u s- Soċjologija; u
 
 (d) għaddew f’testijiet ta’ profiċjenza fl-Ingliż u fil-Malti approvati mill-Fakultà (sakemm ma jkunux eżentati minnhom skont l-ordinament 9(2)(ċ); u
 
@@ -183,11 +163,7 @@ Għall-korsijiet li jibdew f’Ottubru 2014 jew wara:
 
 (a) ikollhom l-MCAST–BTEC Higher National Diploma in Advanced Studies in Early Years; u
 
-(b) ikunu għaddew mill-Eżami għaċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 5 jew aħjar fil- [L.S.327.301 - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-**Lingwa Ingliża, il-Malti u l-Matematika; u**
-
-*6*
+(b) ikunu għaddew mill-Eżami għaċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 5 jew aħjar fil- Lingwa Ingliża, il-Malti u l-Matematika; u
 
 (ċ) ikunu għaddew f’testijiet ta’ profiċjenza fl-Ingliż u fil- Malti approvati mill-Fakultà. L-applikanti jkunu eżentati milli joqogħdu għat-test tal-profiċjenza fl- Ingliż jekk ikunu għaddew fiċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 3 jew ogħla, jew fil- Livell Intermedju bi Grad Ċ jew ogħla, jew fil-Livell Avvanzat bi Grad Ċ jew ogħla fl-Ingliż. L-applikanti jkunu eżentati milli joqogħdu għat-test tal-profiċjenza fil-Malti jekk ikunu għaddew fiċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 3 jew ogħla, jew fil- Livell Intermedju bi Grad Ċ jew ogħla, jew fil-Livell Avvanzat bi Grad Ċ jew ogħla fil-Malti; u
 
@@ -211,10 +187,6 @@ sakemm li dawn l-applikanti jkunu meħtieġa jsegwu programm ta’ studju, mifru
 
 (ii) għall-Matematika: għaddew fil-Livell Avvanzat bi Grad Ċ jew aħjar fil-Matematika Pura u f’xi suġġett ieħor;
 
-*7*
-
-\- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.301
-
 (iii) għall-Kompjuting: għaddew fil-Livell Avvanzat bi Grad Ċ jew aħjar fil-Kompjuting u f’xi suġġett ieħor, flimkien ma’ ċertifikat li għaddew fil-Livell Intermedju bi Grad Ċ jew aħjar fil- Matematika Pura (ċertifikati li għaddew fil- Livell Avvanzat fl-Information Technology jew fil-Matematika Pura ma jistgħux jiġu offruti minflok il-Kompjuting);
 
 (iv) għall-Personal and Social Development: għaddew fil-Livell Avvanzat bi Grad Ċ jew aħjar jew fil-Filosofija jew fis-Soċjoloġija u għaddew fil-Livell Avvanzat bi Grad Ċ jew aħjar f’xi suġġett ieħor;
@@ -235,11 +207,7 @@ sakemm li dawn l-applikanti jkunu meħtieġa jsegwu programm ta’ studju, mifru
 
 (d) kisbu ċertifikat li juri li għaddew mill-European Computer Driving Licence (ECDL) Standard Certificate; u
 
-(e) għaddew minn test ta’ profiċjenza fl-edukazzjoni fiżika magħmul fl- [L.S.327.301 - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-istess sena meta jissottomettu l-applikazzjoni; u
-
-*8*
+(e) għaddew minn test ta’ profiċjenza fl-edukazzjoni fiżika magħmul fl-istess sena meta jissottomettu l-applikazzjoni; u
 
 (f) għaddew minn test mediku, skont il-formola preskritta mill-Istitut għall-Edukazzjoni Fiżika u Sport, meħud fl-istess sena meta jissottomettu l-applikazzjoni u jippreżentaw portfolio bħala evidenza tal-interess u l-impenn tagħhom għall-Edukazzjoni Fiżika u Sport; u
 
@@ -255,11 +223,7 @@ istess sena meta jissottomettu l-applikazzjoni; u
 
 l-Advanced Technicians Diploma tas- City and Guilds of London Institute, jew l-MCAST-BTEC Higher National Diploma fl-Electrical Engineering Livell 5, jew
 
-l-MCAST-BTEC Higher National - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.301
-
-Diploma fl-Electronic Engineering Livell 5, jew
-
-*9*
+l-MCAST-BTEC Higher National Diploma fl-Electronic Engineering Livell 5, jew
 
 l-MCAST-BTEC Higher National Diploma fil-Mechanical Engineering Livell 5, jew kwalifika kkunsidrata bħala ekwivalenti mill-Bord tad-Dħul tal-Università fuq ir-rakkomandazzjoni tal-Bord.
 
@@ -291,10 +255,6 @@ L-applikanti li jkollhom kwalifiki oħrajn ikkunsidrati bħala suffiċjenti jist
 
 L-istudenti huma meħtieġa jiksbu 60 kredtu fis-sena, kif indikat fil-programm ta’ studji (inklużi l-pjazzamenti fl-iskejjel u dissertazzjoni) approvat mis-Senat, fuq ir-rakkomandazzjoni tal- Bord, u skont id-dispożizzjonijiet tar-Regolamenti Prinċipali.
 
-*10*
-
-[L.S.327.301 - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
 ## 13. Dispożizzjonmijiet speċjali għall-pjazzamenti fl-iskejjel.
 
 *Emendat: A.L. 119 tal-2009; A.L. 287 tal-2011; A.L. 94 tal-2014.*
@@ -315,11 +275,7 @@ L-istudenti huma meħtieġa jiksbu 60 kredtu fis-sena, kif indikat fil-programm 
 
 (6) (a) L-istudenti li, għal raġunijiet ta’ saħħa, ma jattendux sa erbat ijiem għandhom jippreżentaw ċertifikat mediku fi żmien erbgħa u għoxrin siegħa lill- Office of Professional Practice. Iċ-ċertifikat mediku, miktub minn Tabib Mediku, għandu jiddikjara biċ-ċar ir-raġuni medika li qiegħda timpedixxi lill-istudent milli jattendi l-iskola u għandu jinkludi l-isem u n-Numru tar-Reġistrazzjoni Medika tat-Tabib Mediku.
 
-(b) Meta l-istudenti ma jattendux l-iskola għal erbat ijiem għal xi raġuni valida, inklużi raġunijiet ta’ saħħ]a, kif ukoll f’ċirkostanzi speċjali li għalihom tingħata approvazzjoni minn qabel, huma jiġu mitluba biex ipattu għal xi prattika ta’ tagħlim li ma tkunx saret - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.301
-
-skont l-istruzzjonijiet maħruġa mill-Office of Professional Practice u mill-Kap tad-Dipartiment ikkonċernat.
-
-*11*
+(b) Meta l-istudenti ma jattendux l-iskola għal erbat ijiem għal xi raġuni valida, inklużi raġunijiet ta’ saħħ]a, kif ukoll f’ċirkostanzi speċjali li għalihom tingħata approvazzjoni minn qabel, huma jiġu mitluba biex ipattu għal xi prattika ta’ tagħlim li ma tkunx saret skont l-istruzzjonijiet maħruġa mill-Office of Professional Practice u mill-Kap tad-Dipartiment ikkonċernat.
 
 (ċ) L-istudenti li ma jattendux għal ħamest ijiem jew aktar ikollhom jagħmlu Pjazzament fl-Iskejjel sħiħ matul sena \\żejda ta’ studji.
 

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Science in Health Services Management taħt il-patroċinju ta’ l-Institute of Health Care (S.L. 327.337)
 
-GRAD TA’ MASTER OF SCIENCE IN HEALTH
-
-SERVICES MANAGEMENT TA}T IL-PATRO~INJU
-
-*1*
-
-TA’ L-INSTITUTE OF HEALTH CARE [L.S.327.337
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.337**
 
 ORDINAMENTI G}ALL-GRAD TA’ MASTER OF SCIENCE IN HEALTH SERVICES MANAGEMENT

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar in-Nomina ta' Awtorità Kompetenti (Ordinanza dwar il-Kummissarju ta' l-Artijiet)"
-identifier: "S.L. 169.2"
+identifier: "S.L. 169.02"
 eli: "https://legislation.mt/eli/sl/169.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/169.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar in-Nomina ta' Awtorità Kompetenti (Ordinanza dwar il-Kummissarju ta' l-Artijiet) (S.L. 169.2)
-
-NOMINA TA’ AWTORITÀ KOMPETENTI
-
-*1*
-
-(ORDINANZA DWAR IL-KUMMISSARJU TA’ L-ARTIJIET) [L.S.169.02
+# Regolamenti dwar in-Nomina ta' Awtorità Kompetenti (Ordinanza dwar il-Kummissarju ta' l-Artijiet) (S.L. 169.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 169.02**
 

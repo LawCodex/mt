@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy - Ph.D. – taħt il-patroċinju tal-Istitut għall-Gżejjer u Stati Żgħar (S.L. 327.141)
 
-*1*
-
-PATROĊINJU TAL-ISTITUT GĦALL-GŻEJJER U STATI ŻGĦAR [L.S.327.141
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.141**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -77,11 +73,9 @@ Meta l-Bord iqis neċessarju, jista’ jeħtieġ lill-istudenti biex itemmu b’
 
 \*Dawn l-Ordinamenti ġew imħassrin bl-Avviż Legali 222 tal-2024.
 
-*2*
+## 6. Kumitat tal-Istitut għad-Dottorat.
 
-[L.S.327.141 PATROĊINJU TAL-ISTITUT GĦALL-GŻEJJER U STATI ŻGĦAR 6. Il-Bord għandu jirrakkomanda lis-Senat il-ħatra ta’ Kumitat tal-Istitut għad-Dottorat li jkun magħmul kif ġej:
-
-*Kumitat tal-Istitut għad-Dottorat.*
+Il-Bord għandu jirrakkomanda lis-Senat il-ħatra ta’ Kumitat tal-Istitut għad-Dottorat li jkun magħmul kif ġej:
 
 Id-Direttur tal-Istitut, jew delegat, u
 
@@ -124,9 +118,5 @@ Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preż
 (1) L-istudenti jkunu meħtieġa jissottomettu kopja tat-teżi tagħhom mingħajr legatura għal kull membru tal-Bord tal- Eżaminaturi, flimkien ma’ kopja f ’format diġitali. L-uffiċjal inkarigat għandu joħroġ irċevuta datata.
 
 (2) L-istudenti jistgħu jippubblikaw it-teżi tagħhom kollha jew parti minnha qabel ma jissottomettuha għal eżami. Dan ix-xogħol ippubblikat jista’ jkun inkluż aktar tard fit-teżi sottomessa għal eżami, iżda dikjarazzjoni dwar dan għandha tkun inkluża.
-
-*3*
-
-PATROĊINJU TAL-ISTITUT GĦALL-GŻEJJER U STATI ŻGĦAR [L.S.327.141
 
 (3) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu lill-Istitut, sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom, żewġ kopji tat-teżi b’legatura ħoxna flimkien ma’ verżjoni elettronika, li għandhom jinkludu dikjarazzjoni ffirmata ta’ awtentiċità. Kopja waħda tat-teżi għandha tinżamm fil-Librerija tal-Istitut. Il-verżjoni elettronika għandha tikkonforma mal-livelli stabbiliti mill-Librerija tal- Università ta’ Malta. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

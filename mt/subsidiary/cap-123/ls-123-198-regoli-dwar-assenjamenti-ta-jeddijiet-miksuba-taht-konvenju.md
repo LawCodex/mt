@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Assenjamenti ta’ Jeddijiet Miksuba taħt Konvenju (S.L. 123.198)
 
-*1*
-
-TAĦT KONVENJU [L.S.123.198 LEĠISLAZZJONI SUSSIDJARJA 123.198
+**LEĠISLAZZJONI SUSSIDJARJA 123.198**
 
 **REGOLI DWAR ASSENJAMENTI TA’ JEDDIJIET**
 
@@ -60,13 +58,9 @@ F’dawn ir-regoli, kemm-il darba s-suġġett jew ir-rabta tal-kliem ma jeħtiġ
 
 (3) L-avviż tal-assenjament għandu jingħata lill- Kummissarju fi tliet (3) kopji fi żmien wieħed u għoxrin (21) jum mid-data tal-ftehim bil-miktub relattiv.
 
-*2 Tnaqqis li jista’ jingħata.*
+*Tnaqqis li jista’ jingħata.*
 
-[L.S. 123.198 TAĦT KONVENJU
-
-## 4.
-
-(1) Fil-komputazzjoni tal-income derivat minn assenjament li japplikaw għalih dawn ir-regoli, tnaqqis għandu jkun permissibbli biss dwar l-ispejjeż li se jissemmew, sal-punt li jkunu ntefqu minn min jagħmel l-assenjament u ma jkunux rimborżati jew rimborżabbli minn ebda persuna oħra:
+assenjament li japplikaw għalih dawn ir-regoli, tnaqqis għandu jkun permissibbli biss dwar l-ispejjeż li se jissemmew, sal-punt li jkunu ntefqu minn min jagħmel l-assenjament u ma jkunux rimborżati jew rimborżabbli minn ebda persuna oħra:
 
 (a) drittijiet ta’ senserija dwar l-imsemmi assenjament;
 
@@ -84,13 +78,11 @@ F’dawn ir-regoli, kemm-il darba s-suġġett jew ir-rabta tal-kliem ma jeħtiġ
 
 (1) Meta l-prezz għal assenjament li japplikaw għalih dawn ir-regoli ma jeċċedix mitt elf euro (€100,000), għandha titħallas fuq l-income derivat minn dak l-assenjament, komputat skont ir-regola 4, taxxa bir-rata ta’ ħmistax-il ċenteżmu ta’ euro (€0.15) għal kull euro jew parti minnu.
 
-(2) It-taxxa msemmija fis-subregola (1) għandha tkun finali u għandha tkun separata u distinta minn dik imħallsa jew li għandha titħallas taħt xi dispożizzjonijiet oħra tal-Att jew tal-Att dwar l- Amministrazzjoni tat-Taxxa. Hija ma għandhiex tkun disponibbli bħala kreditu kontra t-taxxa dovuta minn xi persuna oħra jew bħala rifużjoni. TAĦT KONVENJU [L.S.123.198 (3) L-income derivat minn assenjament imsemmi fis-subregola (1) ma għandux jagħmel parti mill-income totali tal-persuna li tirċievi dak l-income. Xi telf li jista’ jiġġarrab f’xi assenjament bħal dak ma għandux ikun disponibbli bħala tnaqqis minn jew jitpatta ma’ income derivat minn xi assenjament ieħor jew minn xi għajn ieħor. Meta min jagħmel l-assenjament ikun individwu, huwa ma għandux ikun meħtieġ juri dak l-income f’xi prospett magħmul skont l-artikolu 10 tal-Att dwar l-Amministrazzjoni tat-Taxxa. Meta min jagħmel l-assenjament tkun kumpannija residenti Malta, hija għandha talloka l-profitti distributibbli derivati mill-assenjament fil-kont tat-taxxa finali tagħha.
+(2) It-taxxa msemmija fis-subregola (1) għandha tkun finali u għandha tkun separata u distinta minn dik imħallsa jew li għandha titħallas taħt xi dispożizzjonijiet oħra tal-Att jew tal-Att dwar l- Amministrazzjoni tat-Taxxa. Hija ma għandhiex tkun disponibbli bħala kreditu kontra t-taxxa dovuta minn xi persuna oħra jew bħala rifużjoni. (3) L-income derivat minn assenjament imsemmi fis-subregola (1) ma għandux jagħmel parti mill-income totali tal-persuna li tirċievi dak l-income. Xi telf li jista’ jiġġarrab f’xi assenjament bħal dak ma għandux ikun disponibbli bħala tnaqqis minn jew jitpatta ma’ income derivat minn xi assenjament ieħor jew minn xi għajn ieħor. Meta min jagħmel l-assenjament ikun individwu, huwa ma għandux ikun meħtieġ juri dak l-income f’xi prospett magħmul skont l-artikolu 10 tal-Att dwar l-Amministrazzjoni tat-Taxxa. Meta min jagħmel l-assenjament tkun kumpannija residenti Malta, hija għandha talloka l-profitti distributibbli derivati mill-assenjament fil-kont tat-taxxa finali tagħha.
 
 *Kap. 372.*
 
 (4) It-taxxa li għandha titħallas fuq l-income derivat minn assenjament imsemmi fis-subregola (1) għandha tkun dovuta minn min jagħmel l-assenjament u għandha titħallas lin-nutar jew l-avukat li jawtentika l-ftehim bil-miktub relattiv. I-nutar jew l-avukat imsemmi għandu jibgħat it-taxxa lill-Kummissarju fi żmien wieħed u għoxrin (21) jum mill-assenjament relattiv u, fin-nuqqas, għandu jkun responsabbli għat-taxxa solidalment bejniethom ma’ min jagħmel l-assenjament:
-
-*3*
 
 *Kap. 372.*
 
@@ -110,11 +102,7 @@ Meta l-prezz għal assenjament li japplikaw għalih dawn ir-regoli jeċċedi mit
 
 ## 8. It-taxxa fuq l-eċċess.
 
-(1) It-tnaqqis li jista’ jingħata kontra l-porzjon tal-eċċess huwa ammont ekwivalenti għad-differenza bejn it-tnaqqis totali li jista’ jingħata fir-rigward tal-assenjament in kwistjoni skont ir- [L.S. 123.198 TAĦT KONVENJU
-
-*4*
-
-regola 4 u t-tnaqqis li jista’ jingħata skont ir-regola 7(1).
+(1) It-tnaqqis li jista’ jingħata kontra l-porzjon tal-eċċess huwa ammont ekwivalenti għad-differenza bejn it-tnaqqis totali li jista’ jingħata fir-rigward tal-assenjament in kwistjoni skont ir-regola 4 u t-tnaqqis li jista’ jingħata skont ir-regola 7(1).
 
 (2) Il-porzjon tal-eċċess, wara t-tnaqqis imsemmi fis-subregola (1), għandu jagħmel parti mill-income taxxabbli ta’ min jagħmel l-assenjament għas-sena ta’ stima in kwistjoni u għandu jkun soġġett għat-taxxa bir-rata jew rati applikabbli skont l-artikolu 56 tal- Att. Hija għandha tirrappreżenta income li japplika għalih l-artikolu 4(1)(a) tal-Att u dak l-income għandu jintwera minn min jagħmel l-assenjament fi prospett preżentat skont id-dispożizzjonijiet tal-Att dwar l-Amministrazzjoni tat-Taxxa flimkien mal-income l-ieħor tiegħu.
 
@@ -138,11 +126,9 @@ Iżda li, r-responsabbiltà tal-imsemmi nutar jew avukat skont din ir-regola għ
 
 (b) meta jeddijiet jiġu assenjati minn żewġ (2) persuni jew aktar flimkien jew f’partijiet indiviżi, il-valur tal-prezz għandu jitqies li jkun il-prezz totali mħallas jew li għandu jitħallas lil dawk il-persuni kollha;
 
-(ċ) meta jeddijiet miksuba taħt konvenju jiġu assenjati permezz ta’ iktar minn transazzjoni waħda (1) bejn l-istess partijiet, il-jeddijiet imsemmija għandhom jitqiesu li jkunu ġew TAĦT KONVENJU [L.S.123.198 assenjati permezz ta’ assenjament wieħed (1) għall-prezz totali mħallas jew li għandu jitħallas skont it-transazzjonijiet kollha in kwistjoni.
+(ċ) meta jeddijiet miksuba taħt konvenju jiġu assenjati permezz ta’ iktar minn transazzjoni waħda (1) bejn l-istess partijiet, il-jeddijiet imsemmija għandhom jitqiesu li jkunu ġew assenjati permezz ta’ assenjament wieħed (1) għall-prezz totali mħallas jew li għandu jitħallas skont it-transazzjonijiet kollha in kwistjoni.
 
 (2) Din ir-regola hija mingħajr preġudizzju għad-dispożizzjonijiet tal-artikolu 51 tal-Att.
-
-*5*
 
 ## 10. Records li għandhom jinżammu. Kap. 372.
 

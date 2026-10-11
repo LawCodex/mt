@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctorate in Pharmacy - Pharm.D. - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.492)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDIĊINA U KIRURĠIJA [L.S.327.492
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.492**
 
 ORDINAMENTI GĦALL-GRAT TA’ DOCTORATE IN PHARMACY - Pharm.D. - TAĦT IL-PATROĊINJU
@@ -73,12 +67,6 @@ Dawn l-ordinamenti għandhom japplikaw mill-1 ta’ Ottubru 2018 ‘il quddiem.
 
 Il-kors għandu jinfirex fuq tlett snin ta’ studju fuq bażi full-time jew l-ekwivalenti fi studju fuq bażi part-time.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.492 TAL-MEDIĊINA U KIRURĠIJA
-
 ## 5. Programm ta’ studju.
 
 *Sostitwit: A.L. 378 tal-2018.*
@@ -113,11 +101,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (3) L-istudenti li jeħlu fil-valutazzjoni mill-ġdid ta’ kwalunkwe komponent jew tat-taqsima studju tal-prattika professjonali sħiħa, jkunu meħtieġa li jirtiraw mill-kors.
 
-(4) Il-Bord, fuq ir-rakkomandazzjoni tal-Bord tal-Istudji, għandu jaħtar għal kull student, Superviżur tal-Prattika Professjonali, li għandu jkun spiżjar prattikant. Is-Superviżuri tal- TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MEDIĊINA U KIRURĠIJA [L.S.327.492 Prattika Professjonali għandhom jipprovdu gwida u pariri fuq bażi regolari matul il-prattika professjonali tal-istudenti.
+(4) Il-Bord, fuq ir-rakkomandazzjoni tal-Bord tal-Istudji, għandu jaħtar għal kull student, Superviżur tal-Prattika Professjonali, li għandu jkun spiżjar prattikant. Is-Superviżuri tal- Prattika Professjonali għandhom jipprovdu gwida u pariri fuq bażi regolari matul il-prattika professjonali tal-istudenti.
 
 (5) L-istudenti jkunu meħtieġa jżommu kuntatt regolari mas- Superviżuri tal-Prattika Professjonali tagħhom.
 
@@ -160,9 +144,3 @@ Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mu
 ## 19. Dispożizzjonijiet ġenerali. S.L. 327.328
 
 Għal materji li m’hemmx dispożizzjonijiet dwarhom f’dawn ir-regolamenti, il-Bord u s-Senat għandhom ikunu ggwidati mid-dispożizzjonijiet tar-Regolamenti Ġenerali għar- Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad, kif applikabbli.
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*4*
-
-[L.S.327.492 TAL-MEDIĊINA U KIRURĠIJA

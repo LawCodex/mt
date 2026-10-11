@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Bachelor of Arts (Honours) (Tourism Studies) - B.A. (Hons) - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.300)
 
-B.A. (HONS) TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*1*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.300
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.300**
 
 **ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF**
@@ -74,11 +68,9 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet (i) L-ordinamenti 3, 5, 
 
 (2) L-applikanti li għandhom kwalifika klassifikata fil-livell 5 tal- Qafas Ewropew tal-Kwalifiki li tinkludi mhux anqas minn 60 krettu ECTS, f’qasam ta’ studju relatat mal-Hospitality Management jew mat- Tourism Studies, jistgħu jidħlu fit-Tieni Sena tal-Kors taħt dawk il-kundizzjonijiet li l-Bord jista’ jimponi.
 
-*2*
+## 4. Tul tal-kors.
 
-B.A. (HONS) TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL- [L.S.327.300 EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY 4. (1) Il-kors għandu jinfirex fuq medda ta’ tlett snin ta’ studju fuq bażi full-time jew l-ekwivalenti fuq bażi part-time.
-
-*Tul tal-kors.*
+(1) Il-kors għandu jinfirex fuq medda ta’ tlett snin ta’ studju fuq bażi full-time jew l-ekwivalenti fuq bażi part-time.
 
 ## 5. Programm tal-kors.
 

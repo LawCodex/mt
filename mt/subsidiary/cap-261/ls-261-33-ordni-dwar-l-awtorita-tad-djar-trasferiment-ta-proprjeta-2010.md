@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta’ Proprjetà) (2010) (S.L. 261.33)
 
-*1*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2010) [L.S.261.33
-
 LE{ISLAZZJONI SUSSIDJARJA 261.33
 
 ORDNI DWAR L-AWTORITÀ TAD-DJAR
@@ -73,11 +69,7 @@ B’se]] mit-12 ta’ April, 2010:
 
 (1) L-art li fuqha jinsab blokk ta’ \\ew[ appartamenti fi Triq An[lu Mallia, Birkirkara, li g]andhom d]ul minn bieb numru 44. Din l-art hi ta’ madwar 10.05 metru kwadru fil-pjan terren, u 44.98 metru kwadru fl-ewwel sular, fit-tieni sular u l-bejt kif indikat delineat bl-a]mar fuq il-pjanta Pd 294\_2004. Din l-art tmiss mill- Majjistral u Nofs-in-Nhar ma’ proprjetà privata u mil- Lvant ma’ Triq An[lu Mallia, u li tinsab re[istrata b]ala Tenement no. E20511 mat-Taqsima Proprjetà tal-Gvern. L-art g]addiet g]and il-Gvern bil-kuntratt 218/88 tal-24 ta’ Awissu, 1988 fl-atti tan-Nutar V. Miceli. (HAM 24/90; L.519/82).
 
-(2) Tliet bi``iet art mag]rufin b]ala Plots 12, 13 u 14, fi Triq San Vin`enz de Paola, Luqa, ta]t l-Iskema biex Persuni Jsiru Sid Darhom, ta’ madwar 472.50 metru kwadru. Din l-art tmiss mill-Grigal, Majjistral u Lbi` ma’ proprjetà tal-Awtorità tad-Djar u mix-Xlokk ma’ Triq San Vin`enz de Paola. Dawn il-bi``iet art huma delineati bl-a]mar fuq il-pjanta PD 2010\_132 u (TRASFERIMENT TA’ PROPRJETÀ) (2010) [L.S.261.33
-
-jinsabu re[istrati mat-Taqsima Proprjetà tal-Gvern b]ala Tenement no. 50107 u [ew akkwistati b’kuntratt 26 tat-3 ta’ Frar, 2010 fl-atti tan-Nutar D. Charles. (HAM 1/87; L. 180/79/V).
-
-*3*
+(2) Tliet bi``iet art mag]rufin b]ala Plots 12, 13 u 14, fi Triq San Vin`enz de Paola, Luqa, ta]t l-Iskema biex Persuni Jsiru Sid Darhom, ta’ madwar 472.50 metru kwadru. Din l-art tmiss mill-Grigal, Majjistral u Lbi` ma’ proprjetà tal-Awtorità tad-Djar u mix-Xlokk ma’ Triq San Vin`enz de Paola. Dawn il-bi``iet art huma delineati bl-a]mar fuq il-pjanta PD 2010\_132 u jinsabu re[istrati mat-Taqsima Proprjetà tal-Gvern b]ala Tenement no. 50107 u [ew akkwistati b’kuntratt 26 tat-3 ta’ Frar, 2010 fl-atti tan-Nutar D. Charles. (HAM 1/87; L. 180/79/V).
 
 (3) Bi``a art, mag]rufa b]ala Plot 33, fi Triq il-Mit]na l- {dida, Qasam tad-Djar tal-Gvern, limiti tal-Mellie]a, ta’ madwar 191 metru kwadru u li tmiss mill-Grigal ma’ Triq il-Mit]na l-{dida, mix-Xlokk ma’ passa[[ pubbliku u mil-Lbi` ma’ proprjetà trasferita lill- Awtorità tad-Djar. Din il-bi``a art hi so[[etta g]al `ens temporanju g]al perjodu ta’ 150 sena skond Kuntratt Nru. 232 tal-11 ta’ Awissu, 1969 fl-atti tan- Nutar A. Grech, u li tinsab re[istrata fir-records tad- Dipartiment g]at-Tmexxija tal-Proprjetà b]ala Tenement no. 65352, u li hi delineata bl-a]mar u markata "P. 33" fuq il-pjanta L.D. 383/91/6. (HAP 6/ 2009; L. 88/66/33).
 
@@ -113,11 +105,7 @@ B’se]] mill-20 ta’ Mejju, 2010:
 
 (a) Plot A, tal-kejl ta’ madwar 1,708 metru kwadru u re[istrat b]ala Tenement No. E21374 mat- Taqsima Proprjetà tal-Gvern. Il-Plot [ie akkwistat mill-Gvern bid-Dikjarazzjoni tal- President 361 datata 15 ta’ April 2010 u bid- Dikjarazzjoni tal-President 431 datata 29 ta’ April 2010. Plot A jmiss mill-Majjistral u mix- Xlokk jmiss ma’ proprjetà tal-Gvern u mil-Lbi` ma’ Triq G]ar Barka;
 
-(b) Plot B, tal-kejl ta’ madwar 7,805.65 metru kwadru u re[istrat b]ala Tenement No. E21375 mat-Taqsima Proprjetà tal-Gvern. Il-Plot [ie akkwistat mill-Gvern bid-Dikjarazzjoni tal- President 361 datata 15 ta’ April 2010, bid- Dikjarazzjoni tal-President 427 datata 29 ta’ (TRASFERIMENT TA’ PROPRJETÀ) (2010) [L.S.261.33
-
-April 2010, bid-Dikjarazzjoni tal-President 428 datata 29 ta’ April 2010 u bid-Dikjarazzjoni tal- President 476 datata 10 ta’ Mejju 2010. Plot B jmiss mill-Majjistral ma’ Triq Mozart, mil-Lbi` ma’ Triq Antonio Nani u mill-Grigal ma’ Triq G]ar Barka;
-
-*5*
+(b) Plot B, tal-kejl ta’ madwar 7,805.65 metru kwadru u re[istrat b]ala Tenement No. E21375 mat-Taqsima Proprjetà tal-Gvern. Il-Plot [ie akkwistat mill-Gvern bid-Dikjarazzjoni tal- President 361 datata 15 ta’ April 2010, bid- Dikjarazzjoni tal-President 427 datata 29 ta’ April 2010, bid-Dikjarazzjoni tal-President 428 datata 29 ta’ April 2010 u bid-Dikjarazzjoni tal- President 476 datata 10 ta’ Mejju 2010. Plot B jmiss mill-Majjistral ma’ Triq Mozart, mil-Lbi` ma’ Triq Antonio Nani u mill-Grigal ma’ Triq G]ar Barka;
 
 (`) Plot C, tal-kejl ta’ madwar 5,678.10 metru kwadru u re[istrat b]ala Tenement No. E21376 mat-Taqsima Proprjetà tal-Gvern. Il-Plot [ie akkwistat mill-Gvern bid-Dikjarazzjoni tal- President 476 datata 10 ta’ Mejju 2010. Plot C jmiss mill-Majjistral ma’ Triq Vivaldi, mix- Xlokk ma’ Triq Mozart u mill-Grigal ma’ Triq G]ar Barka;
 
@@ -147,8 +135,4 @@ B’se]] mis-17 ta’ Awissu, 2010:
 
 (b) Plot B, tal-kejl ta’ madwar 2,650.50 metru kwadru u re[istrat b]ala Tenement No. E21382 mat-Taqsima Proprjetà tal-Gvern. Il-Plot jinsab fuq proprjetà tal-Gvern akkwistata b’Kuntratt 29 datat 3 ta’ Frar, 1988 fl-atti tan-Nutar V. Miceli u bid-Dikjarazzjoni tal-President 471 datata 10 ta’ Mejju, 2010. Plot B jmiss mill-Majjistral ma’ Triq il-Ka]wiela, mil-Lbi` ma’ proprjetà tal- Gvern u mill-Grigal ma’ Triq il-Fortizza;
 
-(`) Plot C, tal-kejl ta’ madwar 2,486.75 metru kwadru u re[istrat b]ala Tenement No. E21383 mat-Taqsima Proprjetà tal-Gvern. Il-Plot jinsab fuq proprjetà tal-Gvern akkwistata b’Kuntratt 128 datat 7 ta’ Ottubru, 2004 u b’kuntratt 8 datat (TRASFERIMENT TA’ PROPRJETÀ) (2010) [L.S.261.33
-
-29 ta’Jannar, 1997, i\\-\\ew[ kuntratti fl-atti tan- Nutar V. Miceli, u bid-Dikjarazzjoni tal- President 483 datata 29 ta’ April, 2010. Plot C jmiss mill-Majjistral ma’ Triq il-Ka]wiela, mix- Xlokk ma’ Triq l-Istefanotis u mill-Grigal ma’ proprjetà trasferita lill-Awtorità tad-Djar (HAM 178/82).
-
-*7*
+(`) Plot C, tal-kejl ta’ madwar 2,486.75 metru kwadru u re[istrat b]ala Tenement No. E21383 mat-Taqsima Proprjetà tal-Gvern. Il-Plot jinsab fuq proprjetà tal-Gvern akkwistata b’Kuntratt 128 datat 7 ta’ Ottubru, 2004 u b’kuntratt 8 datat 29 ta’Jannar, 1997, i\\-\\ew[ kuntratti fl-atti tan- Nutar V. Miceli, u bid-Dikjarazzjoni tal- President 483 datata 29 ta’ April, 2010. Plot C jmiss mill-Majjistral ma’ Triq il-Ka]wiela, mix- Xlokk ma’ Triq l-Istefanotis u mill-Grigal ma’ proprjetà trasferita lill-Awtorità tad-Djar (HAM 178/82).

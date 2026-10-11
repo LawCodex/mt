@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Repubblika Soċjalista tal-Viet Nam) (S.L. 123.172)
 
-*1*
-
-(REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.172**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
@@ -48,8 +44,6 @@ B’dan qiegћed jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett wara li jidħol fis-seħħ il-Ftehim u skont id-dispożizzjonijiet rilevanti tal-Ftehim;
 
 (ċ) illi l-Ftehim beda jseħħ fil-25 ta’ Novembru, 2016.
-
-2 [L.S.123.172 (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM)
 
 ## SKEDA — Artikolu 2 — FTEHIM
 
@@ -117,9 +111,7 @@ Il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalment si
 
 **TIFSIRIET ĠENERALI**
 
-\1. Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172 3
-
-teћtieġ xort’oћra:
+\1. Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra:
 
 (a) il-frażi "Viet Nam" tfisser ir-Repubblika Soċjalista tal-Viet Nam; meta użata f’sens ġeografiku, tfisser it-territorju tal-art, gżejjer, ibħra interni, il-baħar territorjali tiegħu u l-ispazju tal-ajru li jiġi fuqhom, l-areas marittimi lil hinn mill-baħar territorjali u tinkludi qiegħ il-baħar u s-sottoswol tiegħu li dwarhom ir-Repubblika Soċjalista tal-Viet Nam teżerċita is-sovranità, id-drittijiet sovrani u l-ġurisdizzjoni skont id-dritt nazzjonali u d-dritt internazzjonali:
 
@@ -146,8 +138,6 @@ teћtieġ xort’oћra:
 (ii) f’Malta, il-Ministru responsabbli gћall-finanzi jew ir-rappreżentant awtorizzat tiegħu.
 
 \2. Dwar l-applikazzjoni tal-Ftehim f’kull waqt minn Stat Kontraenti, kull frażi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra, it-tifsira mogћtija lilha li jkollha f’dak il-waqt taћt il-liġi ta’ dak l- Istat gћall-finijiet tat-taxxi li dwarhom ikun japplika l-Ftehim, hekk li kull tifsira taħt il-liġijiet tat-taxxa li jkunu japplikaw ta’ dak l-Istat tkun tipprevali fuq tifsira mogћtija lil dik il-frażi taћt liġijiet oћra ta’ dak l-Istat.
-
-4 [L.S.123.172 (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM)
 
 **Artikolu 4**
 
@@ -185,8 +175,6 @@ teћtieġ xort’oћra:
 
 (e) ħanut tax-xogћol; u
 
-(REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172 5
-
 (f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieћor ta’ estrazzjoni ta’ riżorsi naturali.
 
 \3. Il-frażi "stabbiliment permanenti" bl-istess mod tinkludi:
@@ -219,9 +207,7 @@ Minkejja d-dispożizzjonijiet tal-paragrafi 1 u 2, meta persuna - li ma tkunx a�
 
 (a) jkollha u abitwalment teżerċita f’dak l-Istat l-awtorità li tagħmel kuntratti f’isem l-impriża, sakemm l-attivitajiet ta’ tali persuna ma jkunux limitati għal dawk imsemmija fil-paragrafu 4 li, jekk ikunu eżerċitati permezz ta’ post tan-negozju fiss, ma jirrendux dan il-post tan-negozju fiss stabbiliment permanenti taħt id-dispożizzjonijiet ta’ dak il-paragrafu; jew
 
-(b) ma jkollhiex dik l-awtorità, iżda iżżomm abitwalment fl-Istat l-ewwel imsemmi ħażna ta’ oġġetti jew merkanzija li minnha regolarment 6 [L.S.123.172 (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM)
-
-tqassam oġġetti jew merkanzija f’isem l-impriża.
+(b) ma jkollhiex dik l-awtorità, iżda iżżomm abitwalment fl-Istat l-ewwel imsemmi ħażna ta’ oġġetti jew merkanzija li minnha regolarment tqassam oġġetti jew merkanzija f’isem l-impriża.
 
 ## 6.
 
@@ -253,8 +239,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 (b) bejgħ f’dak l-Istat Kontraenti l-ieħor ta’ oġġetti jew merkanzija tal-istess xorta jew simili għal dawk mibjugħa permezz dak l-istabbiliment permanenti. Hu mifhum li l-profitti ta’ impriża għandhom jinkludu profitti attribwibbli għal bejgħ ta’ oġġetti jew merkanzija msemmija f’dan is-subparagrafu biss meta l-awtorità kompetenti tal-Istat Kontraenti fejn ikun jinsab l-istabbiliment permanenti tal-impriża jkun jidrilha li l-impriża tkun daħlet f’xi arranġament fir-rigward tal-bejgħ ta’ dawk l-oġġetti jew merkanzija sabiex tevita it-tassazzjoni ta’ dawk l-profitti f’dak l-Istat Kontraenti.
 
-(REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172 7
-
 \2. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 3, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, gћandhom jiġu attribwiti f’kull Stat Kontraenti lil dak l-istabbiliment permanenti l-profitti li dan kien ikun mistenni jagћmel kieku kien impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet jew simili għalihom u li tkun tittratta gћalkollox b’mod indipendenti mal-impriża li tkun stabbiliment permanenti tagћha.
 
 \3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis l-ispejjeż li jsiru gћall-gћanijiet tan-negozju tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, kemm jekk isiru fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’oħra. Madankollu, ebda tnaqqis bħal dak m’għandu jingħata dwar ammonti, jekk hemm, mħallsa (ħlief għal dawk li jsiru bħala rimbors ta’ spejjeż li attwalment isiru) mill-istabbiliment permanenti lil uffiċċju prinċipali tal-impriża jew lil xi uffiċċju ieħor tagħha, permezz ta’ royalties, drittijiet jew pagamenti oħra simili bi tpattija għall-użu ta’ privattivi jew drittijiet oħra, jew permezz ta’ kummissjoni, għal servizzi speċifiċi mwettqa jew għall-maniġġ, jew, ħlief fil-każ ta’ impriżi bankarji, permezz ta’ mgħax dwar flus msellfa lill-istabbiliment permanenti. Bl-istess mod, biex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti m’għandux jittieħed każ ta’ ammonti mitluba (ħlief għal dawk li jsiru bħala rimbors ta’ spejjeż li attwalment isiru), mill-istabbiliment permanenti lill-uffiċċju prinċipali tal-impriża jew xi uffiċċju ieħor tagħha, permezz ta’ royalties, drittijiet jew pagamenti oħra simili bi tpattija għall-użu ta’ privattivi jew drittijiet oħra jew permezz ta’ kummissjoni għal servizzi speċifiċi mwettqa jew għal maniġġ, jew, ħlief fil-każ ta’ impriża bankarja, permezz ta’ mgħax dwar flus msellfa lill-uffiċċju prinċipali tal-impriża jew xi uffiċċju ieħor tagħha.
@@ -272,8 +256,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 \1. Il-profitti ta’ impriża ta’ Stat Kontraenti mit-tћaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali gћandhom jiġu intaxxati biss f’dak l-Istat.
 
 \2. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw ukoll gћal profitti miksubin mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
-
-8 [L.S.123.172 (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM)
 
 **Artikolu 9**
 
@@ -305,8 +287,6 @@ u f ’kull każ isiru jew jiġu imposti kundizzjonijiet bejn iż-żewg impriżi
 
 Dan il-paragrafu m’gћandux jolqot it-tassazzjoni tal-kumpannija dwar dawk il-profitti li d-dividendi jitћallsu minnhom.
 
-(REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172 9
-
 \3. Il-frażi "dividendi" skont ma tintuża f’dan l-Artikolu tfisser income minn ishma, ishma "jouissance" jew drittijiet "jouissance", ishma tal-minjieri, ishma tal-fundaturi jew jeddijiet oћra, li ma jkunux pretensjonijiet ta’ debitu, li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess trattament dwar it-taxxa bћallikieku kien income minn ishma skont il-liġijiet tal-Istat fejn tkun residenti l-kumpannija li tkun qegћda tagћmel it-tqassim.
 
 \4. Id-dispożizzjonijiet tal-paragrafu 1 u 2 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew li tkun twettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fiss li tkun tinsab hemmhekk, u l-holding li dwarhom jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7, jew l-Artikolu 15, skont kif ikun il-każ, għandhom japplikaw.
@@ -329,9 +309,7 @@ Dan il-paragrafu m’gћandux jolqot it-tassazzjoni tal-kumpannija dwar dawk il-
 
 \4. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparteċipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew obbligazzjonijiet. Penali rigward ħlas tardiv m’għandhiex titqies bħala mgħax għall-għanijiet ta’ dan l-Artikolu.
 
-\5. Id-dispożizzjonijiet tal-paragrafu 1 m’gћandhomx ikunu japplikaw jekk is- 10 [L.S.123.172 (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM)
-
-sid benefiċjarju tal-imgћax li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun iwettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fissa li tkun tinsab hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ, id-dispożizzjonijiet tal- Artikolu 7 jew l-Artikolu 15, skont kif ikun il-każ, gћandhom japplikaw.
+\5. Id-dispożizzjonijiet tal-paragrafu 1 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tal-imgћax li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun iwettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fissa li tkun tinsab hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ, id-dispożizzjonijiet tal- Artikolu 7 jew l-Artikolu 15, skont kif ikun il-każ, gћandhom japplikaw.
 
 \6. L-imgħax jitqies li jinqala’ fi Stat Kontraenti meta min iћallas ikun dak l-istess Stat, awtorità lokali, jew entità tiegħu, jew residenti ta’ dak l-Istat. Madankollu, meta l-persuna li tkun qegћda tћallas l-imgћax, kemm jekk din tkun kemm jekk ma tkunx residenti ta’ Stat Kontraenti, ikollha fi Stat Kontraenti stabbiliment permanenti jew bażi fissa li f’konnessjoni miegħu ikun oriġina d-debitu li fuqu jitћallas l-imgћax, u dak l-imgћax jiġġarrab minn dak l-istabbiliment permanenti jew bażi fissa, gћaldaqstant dak l-imgћax gћandu jitqies li jinqala’ fl- Istat fejn ikun sitwat l-istabbiliment permanenti jew bażi fissa.
 
@@ -355,9 +333,7 @@ Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju
 
 \3. Il-frażi "royalties" skont ma tintuża f’dan l-Artikolu tfisser ћlasijiet ta’ kull xorta li jsiru b’korrispettiv gћall-użu, jew gћall-jedd tal-użu, ta’ kull dritt tal-awtur ta’ xogћol letterarju, artistiku jew xjentifiku, inklużi films ċinematografiċi, jew films jew tapes użati għax-xandir bir-radju jew bit-televiżjoni, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, jew għal informazzjoni dwar konoxxenza industrijali, kummerċjali jew xjentifika;
 
-\4. Id-dispożizzjonijiet tal-paragrafu 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun iwettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fissa li tkun tinsab (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172 11
-
-hemmhekk, u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 jew l-Artikolu 15, skont kif ikun il-każ, gћandhom japplikaw.
+\4. Id-dispożizzjonijiet tal-paragrafu 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun iwettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fissa li tkun tinsab hemmhekk, u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 jew l-Artikolu 15, skont kif ikun il-każ, gћandhom japplikaw.
 
 \5. Ir-royalties għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun dak l-istess Stat, awtorità lokali, jew entità tiegħu, jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew bażi fissa li dwaru jkun ittieħed l-obbligu li jitħallsu r-royalties, u dawk ir-royalties ikunu r-responsabbilità ta’ dak l-istabbiliment permanenti jew bażi fissa, allura dawk ir-royalties għandhom jitqiesu li jinqalgћu fl- Istat fejn ikunu jinsab l-istabbiliment permanenti jew bażi fissa.
 
@@ -375,9 +351,7 @@ hemmhekk, u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu ef
 
 \4. Id-dispożizzjonijiet tal-paragrafu 1 u 2 ta’ dan l-Artikolu m’gћandhomx japplikaw jekk is-sid benefiċjarju tad-drittijiet għal servizzi tekniċi, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu d-drittijiet għal servizzi tekniċi permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun iwettaq f’dak l-Istat Kontraenti l-ieħor servizzi personali indipendenti minn bażi fissa, u d-drittijiet għal servizzi tekniċi jkunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 jew l-Artikolu 15, skont kif ikun il-każ, gћandhom japplikaw.
 
-\5. Id-drittijiet għal servizzi tekniċi għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun dak l-istess Stat, awtorità lokali, jew entità tiegħu, jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas id-drittijiet għal servizzi tekniċi, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew bażi fissa li dwaru jkun ittieħed l-obbligu li jitħallsu d-drittijiet għal servizzi tekniċi, u dawk id-drittijiet għal servizzi tekniżi ikunu r-responsabbilità ta’ dak l-istabbiliment 12 [L.S.123.172 (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM)
-
-permanenti jew bażi fissa, allura dawk id-drittijiet għal servizzi tekniċi għandhom jitqiesu li jinqalgћu fl-Istat fejn ikunu jinsabu l-istabbiliment permanenti jew bażi fissa.
+\5. Id-drittijiet għal servizzi tekniċi għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun dak l-istess Stat, awtorità lokali, jew entità tiegħu, jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas id-drittijiet għal servizzi tekniċi, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew bażi fissa li dwaru jkun ittieħed l-obbligu li jitħallsu d-drittijiet għal servizzi tekniċi, u dawk id-drittijiet għal servizzi tekniżi ikunu r-responsabbilità ta’ dak l-istabbiliment permanenti jew bażi fissa, allura dawk id-drittijiet għal servizzi tekniċi għandhom jitqiesu li jinqalgћu fl-Istat fejn ikunu jinsabu l-istabbiliment permanenti jew bażi fissa.
 
 \6. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont tad-drittijiet għal servizzi tekniċi ikun aktar, għal kwalunkwe raġuni, mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
@@ -403,9 +377,7 @@ permanenti jew bażi fissa, allura dawk id-drittijiet għal servizzi tekniċi g�
 
 \1. Income li jinkiseb minn individwu li jkun residenti ta’ Stat Kontraenti gћal servizzi professjonali jew attivitajiet oћra ta’ xorta indipendenti gћandu jiġi intaxxat biss f’dak l-Istat ħlief f’dawn iċ-ċirkostanzi li ġejjin, meta dak l-income jista’ jiġi intaxxat fl-Istat Kontraenti l-ieћor:
 
-(a) jekk huwa jkollu bażi fissa li tkun regolarment disponibbli gћalih fl- Istat Kontraenti l-ieћor bil-gћan li jwettaq l-attivitajiet tiegћu; f’dak il- (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172 13
-
-każ, ikun biss daqstant mill-income daqs kemm ikun attribwibbli gћal dik il-bażi fissa li jista’ jiġi intaxxat f’dak l-Istat Kontraenti l-ieћor; jew (b) jekk huwa jkun joqgћod fl-Istat Kontraenti l-ieћor gћal perjodu jew perjodi li b’kollox ikunu jammontaw jew jeċċedu 183 gurnata f’xi perjodu ta’ tnax-il xahar li jibda gћaddej jew itemm fis-sena fiskali inkwistjoni; f’dak il-każ, ikun biss daqstant mill-income daqs kemm jinkiseb mill-attivitajiet li jsiru f’dak l-Istat Kontraenti l-ieћor li jista’ jiġi intaxxat f’dak l-Istat Kontraenti l-ieћor.
+(a) jekk huwa jkollu bażi fissa li tkun regolarment disponibbli gћalih fl- Istat Kontraenti l-ieћor bil-gћan li jwettaq l-attivitajiet tiegћu; f’dak il-każ, ikun biss daqstant mill-income daqs kemm ikun attribwibbli gћal dik il-bażi fissa li jista’ jiġi intaxxat f’dak l-Istat Kontraenti l-ieћor; jew (b) jekk huwa jkun joqgћod fl-Istat Kontraenti l-ieћor gћal perjodu jew perjodi li b’kollox ikunu jammontaw jew jeċċedu 183 gurnata f’xi perjodu ta’ tnax-il xahar li jibda gћaddej jew itemm fis-sena fiskali inkwistjoni; f’dak il-każ, ikun biss daqstant mill-income daqs kemm jinkiseb mill-attivitajiet li jsiru f’dak l-Istat Kontraenti l-ieћor li jista’ jiġi intaxxat f’dak l-Istat Kontraenti l-ieћor.
 
 \2. Il-frażi "servizzi professjonali" tinkludi l-aktar attivitajiet xjentifiċi, letterarji, artistiċi, edukattivi jew ta’ tagћlim indipendenti kif ukoll l-attivitajiet indipendenti ta’ tobba, avukati, inginiera, periti, dentisti u accountants.
 
@@ -437,9 +409,7 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 \1. Minkejja d-dispożizzjonijiet tal-Artikoli 15 u 16, income li jinkiseb minn residenti ta’ Stat Kontraenti bћala persuna li tagћti spettaklu, bћal artist tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew bћala mużiċist, jew bћala sportiv, mill-attivitajiet personali tiegħu bћala tali li jiġu eżerċitati fl-Istat Kontraenti l-ieћor, jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
 
-\2. Meta income dwar attivitajiet personali eżerċitati minn persuna li tagћti spettaklu jew minn sportiv fil-kapaċità tiegħu bћala tali ma jinġabarx favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iżda favur xi persuna oћra, dak l-income jista’, minkejja d-dispożizzjonijiet tal-Artikoli 7, 15 u16 jiġi intaxxat fl-Istat 14 [L.S.123.172 (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM)
-
-Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
+\2. Meta income dwar attivitajiet personali eżerċitati minn persuna li tagћti spettaklu jew minn sportiv fil-kapaċità tiegħu bћala tali ma jinġabarx favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iżda favur xi persuna oћra, dak l-income jista’, minkejja d-dispożizzjonijiet tal-Artikoli 7, 15 u16 jiġi intaxxat fl-Istat Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
 
 \3. Minkejja d-dispożizzjonijiet tal-paragrafi 1 u 2, income li jinkiseb minn persuni li jagħtu spettaklu jew minn sportivi li jkunu residenti ta’ Stat Kontraenti minn attivitajiet fl-Istat Kontraenti l-ieħor taħt pjan ta’ skambju kulturali bejn il- Gvernijiet taż-żewġ Stati Kontraenti għandu jkun eżenti mit-taxxa f’dak l-Istat Kontraenti l-ieħor.
 
@@ -473,9 +443,7 @@ Kontraenti fejn jiġu eżerċitati l-attivitajiet tal-persuna li tagћti spettak
 
 **STUDENTI U APPRENDISTI**
 
-\1. Kull ħlas li student jew apprendist fin-negozju li jkun jew kien immedjatament qabel żjar Stat Kontraenti residenti tal-Istat Kontraenti l-ieħor u li jkun preżenti fl-Istat l-ewwel imsemmi unikament bil-gћan tal-edukazzjoni jew it-taħriġ tiegħu jirċievi għall-fini tal-manteniment, l-edukazzjoni jew it-taħriġ tiegħu, (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172 15
-
-m’għandux jiġi intaxxat f’dak l-Istat l-ewwel imsemmi, sakemm dawk il-ħlasijiet jinqalgћu minn għejjun li ma jkunux f’dak l-Istat.
+\1. Kull ħlas li student jew apprendist fin-negozju li jkun jew kien immedjatament qabel żjar Stat Kontraenti residenti tal-Istat Kontraenti l-ieħor u li jkun preżenti fl-Istat l-ewwel imsemmi unikament bil-gћan tal-edukazzjoni jew it-taħriġ tiegħu jirċievi għall-fini tal-manteniment, l-edukazzjoni jew it-taħriġ tiegħu, m’għandux jiġi intaxxat f’dak l-Istat l-ewwel imsemmi, sakemm dawk il-ħlasijiet jinqalgћu minn għejjun li ma jkunux f’dak l-Istat.
 
 \2. Minkejja d-dispożizzjonijiet tal-Artikoli 15 u 16, kumpens għal servizzi mogħtija minn student jew apprendist fin-negozju fi Stat Kontraenti m’għandux jiġi ntaxxat f’dak l-Istat sa somma ta’ 10,000 USD jew l-ekwivalenti fil-munita ta’ dak l- Istat f’sena ta’ taxxa.
 
@@ -505,9 +473,7 @@ Bla ħsara għad-dispożizzjonijiet tal-liġi ta’ Malta dwar li jitћalla li j
 
 **EBDA DISKRIMINAZZJONI**
 
-\1. Iċ-ċittadini ta’ Stat Kontraenti ma gћandhom jiġu assoġġettati fl-Istat Kontraenti l-ieћor gћal ebda tassazzjoni jew ebda ћtieġa li jkunu konnessi ma’ dan, 16 [L.S.123.172 (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM)
-
-jekk din tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li gћalihom ċittadini ta’ dak l-Istat l-ieћor fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgћu jkunu assoġġettati.
+\1. Iċ-ċittadini ta’ Stat Kontraenti ma gћandhom jiġu assoġġettati fl-Istat Kontraenti l-ieћor gћal ebda tassazzjoni jew ebda ћtieġa li jkunu konnessi ma’ dan, jekk din tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li gћalihom ċittadini ta’ dak l-Istat l-ieћor fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgћu jkunu assoġġettati.
 
 \2. It-taxxa fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl- Istat Kontraenti l-ieћor ma gћandhiex tinġabar b’mod inqas favorevoli f’dak Istat l-ieћor mit-taxxa miġbura fuq impriżi ta’ dak l-Istat l-ieћor li jkunu qed iwettqu l-istess attivitajiet. Din id-dispożizzjoni ma għandhiex titqies li tobbliga Stat Kontraenti li jagħti lir-residenti tal-Istat Kontraenti l-ieħor xi allowances personali, ħelsien u tnaqqis għall-finijiet tat-taxxa minħabba status ċivili jew responsbbiltajiet familjari li jagħti lir-residenti tiegħu stess.
 
@@ -528,8 +494,6 @@ jekk din tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li g
 \3. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jistgħu jinqalgħu dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgћu wkoll jikkonsultaw flimkien dwar l-eliminazzjoni ta’ taxxa doppja f’dawk il-każijiet li ma jkun hemm provdut xejn dwarhom fil-Ftehim.
 
 \4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgћu jikkomunikaw direttament ma’ xulxin bl-iskop li jilhqu ftehim fis-sens tal-paragrafi ta’ qabel dan.
-
-(REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172 17
 
 **Artikolu 26**
 
@@ -556,8 +520,6 @@ jekk din tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li g
 **MEMBRI TA’ MISSJONIJIET DIPLOMATIĊI U KARIGI KONSULARI**
 
 Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-membri ta’ missjonijiet diplomatiċi jew ta’ kariġi konsulari taћt ir-regoli ġenerali tad-dritt internazzjonali jew taћt id-dispożizzjonijiet ta’ kull ftehim speċjali.
-
-18 [L.S.123.172 (REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM)
 
 **Artikolu 28**
 
@@ -596,8 +558,6 @@ dwar it-taxxi fuq l-income miksuba matul xi sena kalendarja jew perjodu ta’ ko
 B’XHIEDA ta’ dan is-sottoskritti, li huma awtorizzati kif imiss mill-Gvernijiet rispettivi tagħhom, iffirmaw dan il-Ftehim.
 
 MAGĦMUL in duplikat f’Ulaanbaatar dan il-15 il-jum ta’ Lulju tas-sena elfejn u sittax fl-ilsien Vjetnamiż u dak Ingliż, biż-żewġ testi awtentiċi ndaqs.
-
-(REPUBBLIKA THE SOĊJALISTA TAL-VIET NAM) [L.S.123.172 19
 
 George W. Vella Pham Binh Minh
 

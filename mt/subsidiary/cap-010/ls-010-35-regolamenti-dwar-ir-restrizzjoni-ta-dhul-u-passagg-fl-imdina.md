@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Restrizzjoni ta' Dħul u Passaġġ fl-Imdina (S.L. 10.35)
 
-RESTRIZZJONI TA’ DĦUL
-
-*1*
-
-U PASSAĀĀ FL-IMDINA [L.S.10.35
-
 LEĀISLAZZJONI SUSSIDJARJA 10.35
 
 REGOLAMENTI DWAR IR-RESTRIZZJONI

@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Padiljun Sportiv u Akkwatiku ġewwa Għawdex (Sħubija u Drittijiet) (S.L. 35.42)
 
-*1*
-
-(SĦUBIJA U DRITTIJIET) [L.S.35.42 LEĠISLAZZJONI SUSSIDJARJA 35.42
+**LEĠISLAZZJONI SUSSIDJARJA 35.42**
 
 **REGOLAMENTI DWAR IL-PADILJUN SPORTIV U**
 
@@ -58,13 +56,11 @@ Persuna ma għandhiex tagħmel użu mill-faċilitajiet speċjalizzati elenkati f
 
 ## 4. Aċċess għall-viżitaturi.
 
-Il-Maniġer taċ-Ċentru jista’ joħroġ pass ta’ ġurnata għall-viżitaturi soġġett għas-sigħat ta’ aċċess u d-drittijiet stabbiliti fl- Iskeda II. Il-viżitaturi għandhom jikkonformaw mar-regoli kollha taċ- Ċentru u ma jistgħux jaċċessaw sessjonijiet ristretti għall-membri biss. [L.S. 35.42 (SĦUBIJA U DRITTIJIET)
+Il-Maniġer taċ-Ċentru jista’ joħroġ pass ta’ ġurnata għall-viżitaturi soġġett għas-sigħat ta’ aċċess u d-drittijiet stabbiliti fl- Iskeda II. Il-viżitaturi għandhom jikkonformaw mar-regoli kollha taċ- Ċentru u ma jistgħux jaċċessaw sessjonijiet ristretti għall-membri biss.
 
-## 5.
+## 5. Drittijiet.
 
 (1) Għandhom jiġu imposti mill-Ministru d-drittijiet elenkati fl-Iskeda I għall-użu tal-faċilitajiet fiċ-Ċentru.
-
-*2 Drittijiet.*
 
 (2) Id-drittijiet speċifikati fl-Iskedi I u II għandhom jitħallsu lill-Maniġer taċ-Ċentru mal-prenotazzjoni jew id-dħul.
 
@@ -124,9 +120,7 @@ waħda uffiċjali ta’
 
 uffiċjali)
 
-*3*
-
-(SĦUBIJA U DRITTIJIET) [L.S.35.42 B’fond aġġustabbli Pool tat-Tagħlim –
+B’fond aġġustabbli Pool tat-Tagħlim –
 
 4 2 Kondiviża bejn massimu 14m b’25m
 
@@ -176,11 +170,7 @@ Studio 10 5 Yoga/żfin/laqgħat
 
 Fitness Gym Day 10 (ta’ Eżerċizzji kardjo u 30 (ta’ xahar)
 
-Pass (Viżitatur) ġurnata) muskulari [L.S. 35.42 (SĦUBIJA U DRITTIJIET)
-
-Padel Court fuq
-
-*4*
+Pass (Viżitatur) ġurnata) muskulari Padel Court fuq
 
 *barra*
 

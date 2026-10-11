@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2004 għall-Higher Diploma in Gerontology and Geriatrics – H.Dip. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.468)
 
-*1*
-
-AND GERIATRICS – H.DIP. [L.S.327.468
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.468**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -69,11 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul mill-anqas minn tliet membri.
 
-(4) Il-Bord tad-Dħul tal-Università, fuq il-parir tal-Bord, jista’ [L.S.327.468 AND GERIATRICS – H.DIP.
-
-jħalli jidħlu fil-Kors taħt dawk il-kondizzjonijiet li l-Bord jista’ jimponi, applikanti li għandhom kwalifiki oħra u esperjenza rilevanti li tkun evalwata skont il-University Policy for the Recognition and Accreditation of Prior Learning (RPL).
-
-*2*
+(4) Il-Bord tad-Dħul tal-Università, fuq il-parir tal-Bord, jista’ jħalli jidħlu fil-Kors taħt dawk il-kondizzjonijiet li l-Bord jista’ jimponi, applikanti li għandhom kwalifiki oħra u esperjenza rilevanti li tkun evalwata skont il-University Policy for the Recognition and Accreditation of Prior Learning (RPL).
 
 (5) Il-Bord għandu jirrakkomanda lis-Senat l-għadd tal-applikanti li jistgħu jitħallew jirreġistraw għall-Kors, skont id-disponibbilità tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 

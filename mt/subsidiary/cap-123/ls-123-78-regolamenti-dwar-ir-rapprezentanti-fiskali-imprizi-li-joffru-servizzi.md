@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Rappreżentanti Fiskali (Impriżi li joffru Servizzi Finanzjarji fl-Eżerċizzju ta' Dritt Ewropew) (S.L. 123.78)
 
-RAPPRE|ENTANTI FISKALI (IMPRI|I LI JOFFRU SERVIZZI
-
-*1*
-
-FINANZJARJI FL-E|ER~IZZJU TA’ DRITT EWROPEW) [L.S.123.78
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.78**
 
 REGOLAMENTI DWAR IR-RAPPRE|ENTANTI FISKALI (IMPRI|I LI JOFFRU SERVIZZI

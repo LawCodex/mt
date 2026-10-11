@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall- Grad ta’ Master in Teaching and Learning - MTL - taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.519)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.519
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.519**
 
 **GĦALL-GRAD TA’ MASTER IN TEACHING AND**
@@ -72,11 +68,7 @@ Il-Grad jingħata taħt il-patroċinju tal-Fakultà f’dawn l-oqsma:
 
 ## 4. Oqsma ta’ tagħlim.
 
-Il-Bord għandu jħabbar l-oqsma ta’ tagħlim offruti fi ħdan [L.S.327.519 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-il-qasam tal-Edukazzjoni Sekondarja kif ukoll f ’dak tal- Edukazzjoni Primarja u Sekondarja kif approvat mis-Senat, fiż-żmien tas-sejħa għall-applikazzjonijiet.
-
-*2*
+Il-Bord għandu jħabbar l-oqsma ta’ tagħlim offruti fi ħdan il-qasam tal-Edukazzjoni Sekondarja kif ukoll f ’dak tal- Edukazzjoni Primarja u Sekondarja kif approvat mis-Senat, fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 ## 5. Ir-Rekwiżiti għad- Dħul
 
@@ -102,11 +94,7 @@ Minbarra li jkollhom grad tal-ewwel ċiklu miksub tal-anqas fit-Tieni Klassi bl-
 
 (ii) għall-Business Education: grad tal-ewwel ċiklu mill-anqas b’16-il krettu ECTS fl-Accountancy, 16-il krettu ECTS fl-Ekonomija u 38 krettu ECTS f’oqsma ikkunsidrati rilevanti mill-Bord tal-Istudji;
 
-(iii) għall-Computing (inkluż l-Information Technology u l-Vocational Education & Training IT): grad tal-ewwel ċiklu mill-inqas b’70 krettu ECTS fil-Computer Science, fl- Information Systems jew fil-Computer/ Communications Engineering, li għandhom jinkludu taqsimiet studju f’dawn l-oqsma li ġejjin biex jiżguraw bażi ta’ għerf wiesgħa biżżejjed fis-suġġett: Programming f’livell ogħla minn dak introduttorju f’xi lingwa avvanzata tal-ipprogrammar, Computer Logic and Organisation, Database Management Systems, Systems Analysis and Design, Data Structures and Algorithms, u Operating Systems, sakemm li l-applikanti li ma jkunux temmew taqsimiet studju f’dawn l-oqsma kollha iżda li jkunu temmew b’suċċess taqsimiet studju f’mill-inqas erbgħa minn dawn l-oqsma jistgħu jidħlu wkoll fil- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.519
-
-Kors iżda jkunu meħtieġa jsegwu taqsimiet studju supplimentari kif indikat fl-ordinament 7 f’oqsma li ma jkunux segwew matul il-grad li għamlu qabel;
-
-*3*
+(iii) għall-Computing (inkluż l-Information Technology u l-Vocational Education & Training IT): grad tal-ewwel ċiklu mill-inqas b’70 krettu ECTS fil-Computer Science, fl- Information Systems jew fil-Computer/ Communications Engineering, li għandhom jinkludu taqsimiet studju f’dawn l-oqsma li ġejjin biex jiżguraw bażi ta’ għerf wiesgħa biżżejjed fis-suġġett: Programming f’livell ogħla minn dak introduttorju f’xi lingwa avvanzata tal-ipprogrammar, Computer Logic and Organisation, Database Management Systems, Systems Analysis and Design, Data Structures and Algorithms, u Operating Systems, sakemm li l-applikanti li ma jkunux temmew taqsimiet studju f’dawn l-oqsma kollha iżda li jkunu temmew b’suċċess taqsimiet studju f’mill-inqas erbgħa minn dawn l-oqsma jistgħu jidħlu wkoll fil- Kors iżda jkunu meħtieġa jsegwu taqsimiet studju supplimentari kif indikat fl-ordinament 7 f’oqsma li ma jkunux segwew matul il-grad li għamlu qabel;
 
 (iv) għad-Dance: grad tal-ewwel ċiklu b’mill-inqas 70 krettu ECTS fid-Dance Studies jew f’qasam ta’ studju relatat, flimkien ma’ żewġ ittri ta’ rakkomandazzjoni minn professjonisti fil-qasam taż-żfin. L-applikanti li għandhom grad tal-ewwel ċiklu fi kwalunkwe qasam ta’ studju, flimkien ma’ minimu ta’ 5 snin esperjenza fil-prestazzjoni, fit-tagħlim, jew fil-community dance, iċċertifikati permezz ta’ portfolio u mill-inqas żewġ ittri ta’ rakkomandazzjoni minn professjonisti fil-qasam taż-żfin jistgħu jitqiesu wkoll, sakemm li dawn l-applikanti jistgħu jintalbu joqogħdu għal intervista u jipprovdu aktar informazzjoni dwar l-isfond artistiku tagħhom u l-interess fil-professjoni tat-tagħlim;
 
@@ -120,11 +108,7 @@ sakemm li għall-korsijiet li jibdew f’Ottubru 2016 biss, il-grad għandu jink
 
 (viii) għall-Franċiż: grad tal-ewwel ċiklu b’mill-inqas 70 krettu ECTS fil-Franċiż u/jew fil-Lingwistika relevanti għall-Franċiż; jew, għall-applikanti li jkunu kisbu d-Diplôme du Baccalauréat Général jew l- Option Internationale du Baccalauréat (jew l-ekwivalenti) li jaffermaw it-tmiem b’suċċess tat-tagħlim fil-Franċiż tal-età ta’ 18-il sena (jew aktar), grad tal-ewwel ċiklu fi kwalunkwe qasam ta’ studju;
 
-(ix) għall-Ġermaniż: grad tal-ewwel ċiklu b’mill-inqas 70 krettu ECTS fil-Ġermaniż u/jew fil-Lingwistika TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-relevanti għall-Ġermaniż; jew, għall-applikanti li jkunu kisbu z-Zeugnis der Allgemeinen Hochschulreife / Abitur (jew l-ekwivalenti) li jaffermaw it-tmiem b’suċċess tat-tagħlim fil- Ġermaniż tal-età ta’ 18-il sena (jew aktar), grad tal-ewwel ċiklu fi kwalunkwe qasam ta’ studju;
-
-*[L.S.327.519 4*
+(ix) għall-Ġermaniż: grad tal-ewwel ċiklu b’mill-inqas 70 krettu ECTS fil-Ġermaniż u/jew fil-Lingwistika relevanti għall-Ġermaniż; jew, għall-applikanti li jkunu kisbu z-Zeugnis der Allgemeinen Hochschulreife / Abitur (jew l-ekwivalenti) li jaffermaw it-tmiem b’suċċess tat-tagħlim fil- Ġermaniż tal-età ta’ 18-il sena (jew aktar), grad tal-ewwel ċiklu fi kwalunkwe qasam ta’ studju;
 
 (x) għall-Ġeografija: grad tal-ewwel ċiklu mill-inqas b’70 krettu ECTS fil-Ġeografija;
 
@@ -148,11 +132,7 @@ sakemm li għall-korsijiet li jibdew f’Ottubru 2016 biss, il-grad għandu jink
 
 (xix) għall-Ispanjol: grad tal-ewwel ċiklu b’mill-inqas 70 krettu ECTS fl-Ispanjol u/jew fil-Lingwistika relevanti għall-Ispanjol; jew, għall-applikanti li jkunu kisbu t- Título de Bachiller (jew l-ekwivalenti) li jafferma t-tmiem b’suċċess tat-tagħlim fl-Ispanjol tal-età ta’ 18-il sena (jew aktar), grad tal-ewwel ċiklu fi kwalunkwe qasam ta’ studju; u;
 
-(xx) għall-Edukazzjoni u t-Taħriġ Vokazzjonali fit- Teknoloġija tal-Inġinerija, l-Ospitalità, is-Saħħa TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.519
-
-u l-Ħarsien Soċjali, l-Agribusiness, it-Textiles and Fashion, Haidressing and Beauty, il-Media Literacy, l-Artiġjanat, il-Kostruzzjoni, jew ir- Retailing: grad tal-ewwel ċiklu b’mill-inqas 70 krettu ECTS f’qasam ta’ studju relevanti.
-
-*5*
+(xx) għall-Edukazzjoni u t-Taħriġ Vokazzjonali fit- Teknoloġija tal-Inġinerija, l-Ospitalità, is-Saħħa u l-Ħarsien Soċjali, l-Agribusiness, it-Textiles and Fashion, Haidressing and Beauty, il-Media Literacy, l-Artiġjanat, il-Kostruzzjoni, jew ir- Retailing: grad tal-ewwel ċiklu b’mill-inqas 70 krettu ECTS f’qasam ta’ studju relevanti.
 
 (ċ) l-applikanti li jagħżlu l-qasam tal-Edukazzjoni Primarja u Sekondarja fl-oqsma ta’ tagħlim li ġejjin għandu jkollhom dan li ġej:
 
@@ -176,11 +156,7 @@ u l-Ħarsien Soċjali, l-Agribusiness, it-Textiles and Fashion, Haidressing and 
 
 (1) F’każijiet fejn l-applikanti għandhom nuqqas ta’ għarfien essenzjali f’oqsma partikolari fil-grad tal-ewwel ċiklu tagħhom, il-Bord jista’ jeħtieġ li l-istudenti jsegwu u jgħaddu minn taqsimiet studju supplimentari tal-Livell 4 jew anqas sa massimu ta’ 12-il krettu ECTS.
 
-(2) L-applikanti bi grad tal-ewwel ċiklu jew b’diploma li ma [L.S.327.519 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-jissodisfawx ir-rekwiżiti għad-dħul kollha kif speċifikat fl-ordinamenti 5 u 6 (a), (b) u (ċ), għandhom juru t-tagħlim miksub permezz ta’ esperjenza preċedenti u ċertifikazzjoni skont il-proċeduri ta’ evalwazzjoni stabbiliti mill-University Policy for the Recognition and Accreditation of Prior Learning. Il-Bord imbagħad jista’ jirrakkomanda lill-Bord tad-Dħul tal-Università li jew (i) l-applikanti jidħlu fil-Kors; jew (ii) l-applikanti jidħlu fil-Kors jekk itemmu b’suċċess Programm Preparatorju kif indikat mill-Bord, li jinkludi mhux aktar minn 60 krettu ECTS.
-
-*6*
+(2) L-applikanti bi grad tal-ewwel ċiklu jew b’diploma li ma jissodisfawx ir-rekwiżiti għad-dħul kollha kif speċifikat fl-ordinamenti 5 u 6 (a), (b) u (ċ), għandhom juru t-tagħlim miksub permezz ta’ esperjenza preċedenti u ċertifikazzjoni skont il-proċeduri ta’ evalwazzjoni stabbiliti mill-University Policy for the Recognition and Accreditation of Prior Learning. Il-Bord imbagħad jista’ jirrakkomanda lill-Bord tad-Dħul tal-Università li jew (i) l-applikanti jidħlu fil-Kors; jew (ii) l-applikanti jidħlu fil-Kors jekk itemmu b’suċċess Programm Preparatorju kif indikat mill-Bord, li jinkludi mhux aktar minn 60 krettu ECTS.
 
 ## 8. Għażla tal-applikanti.
 
@@ -196,11 +172,7 @@ Il-Ħames Kategorija: L-applikanti li għandhom grad tal-ewwel ċiklu fil-qasam 
 
 Is-Sitt Kategorija: L-applikanti li għandhom grad tal-ewwel ċiklu fil-qasam tas-suġġett rilevanti indikat fl-ordinament 6 miksub fit-Tieni Klassi bl-Unuri (Klassi ta’ Fuq) jew f’Kategorija IIA
 
-Is-Seba’ Kategorija: L-applikanti li għandhom grad tal-ewwel TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.519
-
-ċiklu fil-qasam tas-suġġett rilevanti indikat fl-ordinament 6 miksub fit-Tieni Klassi bl-Unuri (Klassi ta’ Isfel) jew f’Kategorija IIB,
-
-*7*
+Is-Seba’ Kategorija: L-applikanti li għandhom grad tal-ewwel ċiklu fil-qasam tas-suġġett rilevanti indikat fl-ordinament 6 miksub fit-Tieni Klassi bl-Unuri (Klassi ta’ Isfel) jew f’Kategorija IIB,
 
 sakemm li għall-iskop tal-għażla, dawk l-applikanti li jissodisfaw ir-rekwiżiti għad-dħul kollha sal-31 ta’ Awwissu qabel il-bidu tal-kors jiġu kkunsidrati l-ewwel.
 
@@ -232,11 +204,7 @@ Il-Kors jinfirex fuq perijodu ta’ erba’ semestri ta’ studju fuq bażi full
 
 (a) joqogħdu għall-‘Maltese Proficiency Test’ – Test ta’ Profiċjenza fil-Malti fil-bidu tal-Kors:
 
-sakemm li l-applikanti li għandhom ċertifikat tal-Matrikola fil- Malti fil-Livell Intermedju jew Avvanżat bi Grad Ċ jew ogħla, jew kwalifiki meqjusa bħala ekwivalenti mill-Bord, għandhom ikunu eżentati minn dan ir-rekwiżit. L-istudenti li jeħlu fit-Test ta’ Profiċjenza fil-Malti jkunu meħtieġa li jsegwu u jtemmu b’suċċess kors ta’ profiċjenza fil-Malti approvat mill-Bord qabel it-tmiem tat-tielet semestru tal-Kors. L-istudenti li ma jissodisfawx dan ir-rekwiżit ta’ profiċjenza fil-Malti sa dan il-perijodu jkunu meħtieġa li jwaqqfu l-istudji tagħhom sa massimu ta’ tnax-il xahar fejn matul dan iż-żmien huma jkunu mistennija jiksbu dan ir-rekwiżit. L- [L.S.327.519 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-istudenti jkunu eliġibbli biss li jipproċedu bl-istudji tagħhom jekk jikkonformaw ma’ dan ir-rekwiżit; u
-
-*8*
+sakemm li l-applikanti li għandhom ċertifikat tal-Matrikola fil- Malti fil-Livell Intermedju jew Avvanżat bi Grad Ċ jew ogħla, jew kwalifiki meqjusa bħala ekwivalenti mill-Bord, għandhom ikunu eżentati minn dan ir-rekwiżit. L-istudenti li jeħlu fit-Test ta’ Profiċjenza fil-Malti jkunu meħtieġa li jsegwu u jtemmu b’suċċess kors ta’ profiċjenza fil-Malti approvat mill-Bord qabel it-tmiem tat-tielet semestru tal-Kors. L-istudenti li ma jissodisfawx dan ir-rekwiżit ta’ profiċjenza fil-Malti sa dan il-perijodu jkunu meħtieġa li jwaqqfu l-istudji tagħhom sa massimu ta’ tnax-il xahar fejn matul dan iż-żmien huma jkunu mistennija jiksbu dan ir-rekwiżit. L-istudenti jkunu eliġibbli biss li jipproċedu bl-istudji tagħhom jekk jikkonformaw ma’ dan ir-rekwiżit; u
 
 (b) jsegwu u jtemmu b’suċċess kors ta’ profiċjenza fl-Ingliż approvat mill-Bord qabel it-tmiem tat-tielet semestru tal- Kors. L-istudenti li ma jissodisfawx dan ir-rekwiżit ta’ profiċjenza fl-Ingliż sa dan il-perijodu jkunu meħtieġa li jwaqqfu l-istudji tagħhom sa massimu ta’ tnax-il xahar fejn matul dan iż-żmien huma jkunu mistennija jiksbu dan ir-rekwiżit. L-istudenti jkunu eliġibbli biss li jipproċedu bl-istudji tagħhom jekk jikkonformaw ma’ dan ir-rekwiżit. L-istudenti li meta daħlu fil-Kors kellhom ċertifikat fl- Ingliż fil-Livell Intermedju jew Avvanżat tal-Matrikola bi Grad Ċ jew ogħla, jew kwalifiki meqjusa bħala ekwivalenti mill-Bord, għandhom ikunu eżentati minn dan ir-rekwiżit ta’ profiċjenza fl-Ingliż..
 
@@ -248,11 +216,7 @@ sakemm li l-applikanti li għandhom ċertifikat fil-Malti fil-livell taċ- Ċert
 
 (b) jsegwu u jtemmu b’suċċess kors ta’ profiċjenza fl-Ingliż approvat mill-Bord qabel it-tmiem tat-tielet semestru tal- Kors. L-istudenti li ma jissodisfawx dan ir-rekwiżit ta’ profiċjenza fl-Ingliż sa dan il-perijodu jkunu meħtieġa li jwaqqfu l-istudji tagħhom sa massimu ta’ tnax-il xahar fejn matul dan iż-żmien huma jkunu mistennija jiksbu dan ir-rekwiżit. L-istudenti jkunu eliġibbli biss li jipproċedu bl-istudji tagħhom jekk jikkonformaw ma’ dan ir-rekwiżit. L-istudenti li meta daħlu fil-Kors kellhom ċertifikat fl- Ingliż fil-livell taċ-Ċertifikat tal-Edukazzjoni Sekondarja bi Grad 3 jew ogħla, jew fil-Livell Intermedju jew Avvanżat tal-Matrikola bi Grad Ċ jew ogħla, jew kwalifiki meqjusa bħala ekwivalenti mill-Bord, għandhom ikunu eżentati minn dan ir-rekwiżit ta’ profiċjenza fl-Ingliż..
 
-(4) F’ċirkostanzi eċċezzjonali, il-Fakultà tista’ teżenta student milli jsegwi r-rekwiżiti addizzjonali msemmija fil-paragrafi (2) u (3) ta’ dan l-ordinament, sakemm li f’dawn is-sitwazzjonijiet l- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.519
-
-istudent ikun meħtieġ jissodisfa rekwiżiti oħra kif determinat mill- Bord.
-
-*9*
+(4) F’ċirkostanzi eċċezzjonali, il-Fakultà tista’ teżenta student milli jsegwi r-rekwiżiti addizzjonali msemmija fil-paragrafi (2) u (3) ta’ dan l-ordinament, sakemm li f’dawn is-sitwazzjonijiet l-istudent ikun meħtieġ jissodisfa rekwiżiti oħra kif determinat mill- Bord.
 
 ## 11. Postgraduate Diploma.
 
@@ -284,11 +248,7 @@ istudent ikun meħtieġ jissodisfa rekwiżiti oħra kif determinat mill- Bord.
 
 (4) Kull Bord tal-Eżaminaturi għall-esperjenza fil-qasam tax-xogħol għandu jsegwi r-Regolamenti tal-Valutazzjoni tal- Università u kwalunkwe proċedura oħra li l-Bord jiddetermina għall-għan tal-esperjenza fil-Qasam tal-Xogħol, sakemm li dawn il-proċeduri jkunu f'konformità mar-Regolamenti tal-Valutazzjoni tal- Università.
 
-(5) Il-Bord jista’ jassenja mentor għall-esperjenza fil-qasam tax-xogħol għal kull student. L-espert m’għandux ikun responsabbli għall-valutazzjoni tal-istudent iżda jista’ jkun ikkonsultat mill-Bord tal-Eżaminaturi għall-esperjenza fil-qasam tax-xogħol biex jgħinu fil-proċess ta’ valutazzjoni u deliberazzjoni. [L.S.327.519 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-Rwoli u dmirijiet oħra tal-espert għandhom ikunu determinati mill- Bord.
-
-*10*
+(5) Il-Bord jista’ jassenja mentor għall-esperjenza fil-qasam tax-xogħol għal kull student. L-espert m’għandux ikun responsabbli għall-valutazzjoni tal-istudent iżda jista’ jkun ikkonsultat mill-Bord tal-Eżaminaturi għall-esperjenza fil-qasam tax-xogħol biex jgħinu fil-proċess ta’ valutazzjoni u deliberazzjoni. Rwoli u dmirijiet oħra tal-espert għandhom ikunu determinati mill- Bord.
 
 (6) L-istudenti huma meħtieġa jagħmlu mill-anqas 210 siegħa ta’ osservazzjonijiet taħt superviżjoni f’kull sena akkademika.
 
@@ -306,11 +266,7 @@ Rwoli u dmirijiet oħra tal-espert għandhom ikunu determinati mill- Bord.
 
 (ii) l-istudenti jitħallew jirrepetu waħda biss miż-żewġ esperjenzi fil-qasam tal-xogħol.
 
-(9) L-istudenti jkunu ddikjarati li għaddew mill-Esperjenza fil- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.519
-
-qasam tax-xogħol mill-Bord tal-Eżaminaturi tal-Esperjenza fil-qasam tax-xogħol biss. Il-ġudizzju akkademiku u professjonali tal- Bord tal-Eżaminaturi tal-Esperjenza fil-qasam tax-xogħol ma jistax jiġi rivedut.
-
-*11*
+(9) L-istudenti jkunu ddikjarati li għaddew mill-Esperjenza fil-qasam tax-xogħol mill-Bord tal-Eżaminaturi tal-Esperjenza fil-qasam tax-xogħol biss. Il-ġudizzju akkademiku u professjonali tal- Bord tal-Eżaminaturi tal-Esperjenza fil-qasam tax-xogħol ma jistax jiġi rivedut.
 
 ## 14. Dissertazzjoni.
 
@@ -338,11 +294,7 @@ Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduat
 
 ## 17. Dispożizzjoni transitorja. Enumerat: A.L.55 tal-2019; A.L. 146 tal-2024.
 
-Għall-korsijiet li jibdew f’Ottubru 2016 biss, (i) l-applikanti li jippreżentaw grad tal-ewwel ċiklu fit-Tielet Klassi bl- Unuri, u (ii) l-applikanti li jippreżentaw grad tal-ewwel ċiklu b’60 krettu ECTS minflok 70 krettu ECTS fil-qasam ewlieni/oqsma [L.S.327.519 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-ewlenin ta' studju kif speċifikat fl-ordinament 6, jistgħu jiġu kkunsidrati għad-dħul mill-Bord.
-
-*12*
+Għall-korsijiet li jibdew f’Ottubru 2016 biss, (i) l-applikanti li jippreżentaw grad tal-ewwel ċiklu fit-Tielet Klassi bl- Unuri, u (ii) l-applikanti li jippreżentaw grad tal-ewwel ċiklu b’60 krettu ECTS minflok 70 krettu ECTS fil-qasam ewlieni/oqsma ewlenin ta' studju kif speċifikat fl-ordinament 6, jistgħu jiġu kkunsidrati għad-dħul mill-Bord.
 
 ## 18. Il-Provvedimenti Speċjali għall- Korsijiet fuq Bażi Part-Time.
 

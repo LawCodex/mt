@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statut għall-Istitut tal-Edukazzjoni Fiżika u Sport (S.L. 327.92)
 
-*1*
-
-TAL-EDUKAZZJONI FI|IKA U SPORT [L.S.327.92
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.92**
 
 STATUT G}ALL-ISTITUT TAL-EDUKAZZJONI
@@ -113,11 +109,7 @@ Id-dmirijiet tal-Bord ikunu dawn li [ejjin:
 
 (vi) je\\i[i mill-membri tal-istaff tal-Istitut il-produzzjoni ta’ rapporti fuq materji akkademi`i, li jinkludu l-kurrikulu ta’ korsijiet ta’ studju, il-kwalifiki g]ad-d]ul f’korsijiet, e\\amijiet u `ertifikati ta’ attendenza jew kwalifika;
 
-(vii) jirrakkomanda lill-Kunsill il-]olqien jew l-abolizzjoni ta’ postijiet akkademi`i u mhux TAL-EDUKAZZJONI FI|IKA U SPORT [L.S.327.92
-
-akkademi`i fl-Istitut; u
-
-*3*
+(vii) jirrakkomanda lill-Kunsill il-]olqien jew l-abolizzjoni ta’ postijiet akkademi`i u mhux akkademi`i fl-Istitut; u
 
 (viii) jipproponi g]all-approvazzjoni tas-Senat, Bordijiet ta’ Studju u ta’ E\\aminaturi g]all-korsijiet li jwasslu g]al grad jew diploma.
 
@@ -182,10 +174,6 @@ jitlaqqa’ l-Bord g]all-Klassifikazzjoni li jsir fl-a]]ar sena i\\da, fi kwalun
 *\8.*
 
 Minbarra dan, id-Direttur:
-
-*5*
-
-TAL-EDUKAZZJONI FI|IKA U SPORT [L.S.327.92
 
 (a) g]andu jirrapporta direttament lill-Chairman tal-Bord tal-Istitut u g]andu jikkollabora mal-uffi`jali amministrattivi anzjani kollha tal-Università;
 

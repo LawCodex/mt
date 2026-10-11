@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar ir-Rijunifikazzjoni tal-Familji"
-identifier: "S.L. 217.6"
+identifier: "S.L. 217.06"
 eli: "https://legislation.mt/eli/sl/217.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/217.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar ir-Rijunifikazzjoni tal-Familji (S.L. 217.6)
+# Regolamenti dwar ir-Rijunifikazzjoni tal-Familji (S.L. 217.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 217.06**
 

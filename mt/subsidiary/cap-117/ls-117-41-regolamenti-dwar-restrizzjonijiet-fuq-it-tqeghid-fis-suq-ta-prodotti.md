@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Restrizzjonijiet fuq it-Tqegħid fis-Suq ta’ Prodotti tal-Plastik li Jintużaw Darba Biss (S.L. 117.41)
 
-*1*
-
-PRODOTTI TAL-PLASTIK LI JINTUŻAW DARBA BISS [L.S.117.41 LEĠISLAZZJONI SUSSIDJARJA 117.41
+**LEĠISLAZZJONI SUSSIDJARJA 117.41**
 
 REGOLAMENTI DWAR RESTRIZZJONIJIET FUQ IT- TQEGĦID FIS-SUQ TA’ PRODOTTI TAL-PLASTIK LI JINTUŻAW DARBA BISS
 
@@ -62,9 +60,7 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 
 (1) Mill-1 ta’ Jannar, 2021, it-tqegħid fis-suq ta’ prodotti tal-plastik li jintużaw darba biss elenkati fit-Taqsima A tal- Iskeda u ta’ prodotti magħmula mill-plastik ossodegradabbli, għandhom jiġu pprojbiti:
 
-*2*
-
-[L.S. 117.41 PRODOTTI TAL-PLASTIK LI JINTUŻAW DARBA BISS Iżda d-distribuzzjoni, konsum jew użu tul attività kummerċjali, kemm jekk isir bi ħlas kif ukoll jekk ikun mingħajr ħlas, tal-prodotti tal-plastik li jintużaw darba biss elenkati fit-Taqsima A tal- Iskeda u ta’ prodotti magħmula mill-plastik ossodegradabbli għandu jiġi pprojbit.
+Iżda d-distribuzzjoni, konsum jew użu tul attività kummerċjali, kemm jekk isir bi ħlas kif ukoll jekk ikun mingħajr ħlas, tal-prodotti tal-plastik li jintużaw darba biss elenkati fit-Taqsima A tal- Iskeda u ta’ prodotti magħmula mill-plastik ossodegradabbli għandu jiġi pprojbit.
 
 (1a) It-tqegħid fis-suq ta’ prodotti tal-plastik li jintużaw darba biss elenkati fit-Taqsima B tal-Iskeda għandu jkun ipprojbit.
 
@@ -96,13 +92,11 @@ Iżda sitt (6) xhur wara d-dħul fis-seħħ ta’ dan ir-regolament, kwalunkwe d
 
 (b) meta tinsab ħatja t-tieni darba jew wara, multa li ma taqbiżx l-elfejn u ħames mitt euro (€2,500):
 
-Iżda l-qorti għanda tordna li kull persuna li tkun instabet PRODOTTI TAL-PLASTIK LI JINTUŻAW DARBA BISS [L.S.117.41 ħatja li wettqet reat kontra dawn ir-regolamenti sabiex tħallas għall-ispejjeż magħmula minn xi waħda mill-awtoritajiet kompetenti bħala riżultat tal-imsemmi reat u barra minn hekk tordna l-konfiska tal-prodotti li għalihom ir-reat għandu x’jaqsam, anki jekk is-sid ma jistax ikun parti mil-proċeduri.
+Iżda l-qorti għanda tordna li kull persuna li tkun instabet ħatja li wettqet reat kontra dawn ir-regolamenti sabiex tħallas għall-ispejjeż magħmula minn xi waħda mill-awtoritajiet kompetenti bħala riżultat tal-imsemmi reat u barra minn hekk tordna l-konfiska tal-prodotti li għalihom ir-reat għandu x’jaqsam, anki jekk is-sid ma jistax ikun parti mil-proċeduri.
 
 *Kap. 9.*
 
 (3) Id-dispożizzjonijiet tal-artikoli 23 u 30(1) tal-Kodiċi Kriminali għandhom, mutatis mutandis, japplikaw għal proċedimenti fir-rigward ta’ reati kontra dawn ir-regolamenti.
-
-*3*
 
 ## SKEDA
 
@@ -134,11 +128,9 @@ Taqsima A
 
 (ii) tipikament jiġi kkunsmat mill-kontenitur; u
 
-(iii) huwa lest sabiex jiġi kkunsmat mingħajr l-ebda tħejjija oħra, bħal tisjir, togħlija jew tisħin, inkluż [L.S. 117.41 PRODOTTI TAL-PLASTIK LI JINTUŻAW DARBA BISS kontenituri tal-ikel użati għal fast food jew ikliet oħra lesti għal konsum immedjat, ħlief kontenituri tax-xorb, platti u pakketti u tgeżwir li fihom l-ikel;
+(iii) huwa lest sabiex jiġi kkunsmat mingħajr l-ebda tħejjija oħra, bħal tisjir, togħlija jew tisħin, inkluż kontenituri tal-ikel użati għal fast food jew ikliet oħra lesti għal konsum immedjat, ħlief kontenituri tax-xorb, platti u pakketti u tgeżwir li fihom l-ikel;
 
 (h) kontenituri tax-xorb magħmula minn polistiren espandut, inklużi t-tappijiet u l-għotjien tagħhom;
-
-*4*
 
 (i) tazez għax-xorb magħmula minn polistiren espandut, inkluż l-għotjien tagħhom.
 

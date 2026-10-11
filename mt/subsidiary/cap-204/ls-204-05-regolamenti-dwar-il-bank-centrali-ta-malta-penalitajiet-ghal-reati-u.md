@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Bank Ċentrali ta' Malta (Penalitajiet għal Reati u Ksur ta' Regolamenti)"
-identifier: "S.L. 204.5"
+identifier: "S.L. 204.05"
 eli: "https://legislation.mt/eli/sl/204.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/204.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Bank Ċentrali ta' Malta (Penalitajiet għal Reati u Ksur ta' Regolamenti) (S.L. 204.5)
-
-BANK ~ENTRALI TA’ MALTA (PENALITAJIET
-
-*1*
-
-G}AL REATI U KSUR TA’ REGOLAMENTI) [L.S.204.05
+# Regolamenti dwar il-Bank Ċentrali ta' Malta (Penalitajiet għal Reati u Ksur ta' Regolamenti) (S.L. 204.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 204.05**
 

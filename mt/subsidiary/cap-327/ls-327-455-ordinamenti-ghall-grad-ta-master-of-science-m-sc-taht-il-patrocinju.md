@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science - M.Sc. - taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.455)
 
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.455
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.455**
 
 ORDINAMENTI GĦALL-GRAD TA’ MASTER OF SCIENCE - M.Sc. - TAĦT IL-PATRROĊINJU
@@ -60,15 +56,15 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 *Sostitwit: A.L. 377 tal-2018; A.L. 348 tal-2022.*
 
-L-applikanti jistgħu jkunu meħtieġa jipprovdu evidenza tal-esperjenza tax-xogħol wara li ssir ir-reġistrazzjoni mal-kunsill regolatorju rilevanti fil-qasam tal-istudju propost jew fil-qasam ta’ speċjalizzazzjoni, jekk applikabbli. L-inqas ammont ta’ snin ta’ esperjenza mitlub għandu jkun indikat waqt is-sejħa għall-applikazzjonijiet, iżda għall-qasam tal-istudju tal-Health Systems Management and Leadership, l-applikanti għandu jkollhom mill-anqas tliet snin esperjenza ta’ xogħol fis-settur tas-Servizzi tas-Saħħa, filwaqt li għall-qasam tal-istudju tal-Fiżjoterapija, l-applikanti għandhom ikunu attivi klinikament għal mill-anqas 5 sigħat fil-ġimgħa fit-tieni semestru tal-Kors sabiex iwettqu t-taqsima studju tal-pjazzament kliniku rilevanti. [L.S.327.455 PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA 4. (1) Il-kors ikun miftuh għall-applikanti li għandhom:
+L-applikanti jistgħu jkunu meħtieġa jipprovdu evidenza tal-esperjenza tax-xogħol wara li ssir ir-reġistrazzjoni mal-kunsill regolatorju rilevanti fil-qasam tal-istudju propost jew fil-qasam ta’ speċjalizzazzjoni, jekk applikabbli. L-inqas ammont ta’ snin ta’ esperjenza mitlub għandu jkun indikat waqt is-sejħa għall-applikazzjonijiet, iżda għall-qasam tal-istudju tal-Health Systems Management and Leadership, l-applikanti għandu jkollhom mill-anqas tliet snin esperjenza ta’ xogħol fis-settur tas-Servizzi tas-Saħħa, filwaqt li għall-qasam tal-istudju tal-Fiżjoterapija, l-applikanti għandhom ikunu attivi klinikament għal mill-anqas 5 sigħat fil-ġimgħa fit-tieni semestru tal-Kors sabiex iwettqu t-taqsima studju tal-pjazzament kliniku rilevanti.
+
+## 4. Rekwiżiti għad-dħul.
+
+(1) Il-kors ikun miftuh għall-applikanti li għandhom:
 
 *Emendat: A.L. 355 tal-2014; A.L. 321 tal-2015; A.L. 189 tal-2016; A.L. 311 tal-2019; A.L. 290 tal-2024.*
 
 (a) grad ta’ Baċellerat miksub tal-inqas fit-Tieni Klassi bl- Unuri f’qasam ta’ studju li hu meqjus xieraq mill- Bord; jew
-
-*2*
-
-*Rekwiżiti għad-dħul.*
 
 (b) grad mill-Università ta’ Malta jew minn università oħra li l-Bord jikkunsidra bħala komparabbli mal-grad indikat fis-subparagrafu (a) ta’ dan l-ordinament.
 
@@ -100,11 +96,9 @@ Il-kors jinfirex fuq medda ta’ tliet semestri ta’ studju fuq bażi full-time
 
 L-applikanti jkunu meħtieġa jindikaw l-għażla tal-qasam ta’ studju / qasam ta’ speċjalizzazzjoni fiż-żmien tal-applikazzjonijiet għad-dħul fil-kors.
 
-*3*
+## 7. Taqsimiet studju.
 
-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.455 7. Il-programm ta’ studju għal kull qasam ta’ studju / qasam ta’ speċjalizzazzjoni għandu jinkludi taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu, li minnhom 60 kredtu jkunu assenjati għal taqsimiet studju mgħallma u 30 kredtu jkunu assenjati għat-taqsima studju tad-dissertazzjoni.
-
-*Taqsimiet studju.*
+Il-programm ta’ studju għal kull qasam ta’ studju / qasam ta’ speċjalizzazzjoni għandu jinkludi taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu, li minnhom 60 kredtu jkunu assenjati għal taqsimiet studju mgħallma u 30 kredtu jkunu assenjati għat-taqsima studju tad-dissertazzjoni.
 
 ## 8. Postgraduate Certificate.
 
@@ -138,11 +132,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 ## 13. Superviżur.
 
-(1) L-istudenti għandhom iżommu kuntatt regolari mas- [L.S.327.455 PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
-superviżur tagħhom.
-
-*4*
+(1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

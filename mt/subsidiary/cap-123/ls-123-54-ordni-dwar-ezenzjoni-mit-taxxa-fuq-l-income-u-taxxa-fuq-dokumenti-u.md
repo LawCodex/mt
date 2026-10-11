@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mit-Taxxa fuq l-Income u Taxxa fuq Dokumenti u Trasferimenti fuq Trasferimenti ta Djar ta Residenza lil Azjonisti (S.L. 123.54)
 
-DOKUMENTI U TRASFERIMENTI FUQ TRASFERIMENTI
-
-*1*
-
-TA’ DJAR TA’ RESIDENZA LIL AZJONISTI [L.S.123.54
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.54**
 
 **ORDNI DWAR E|ENZJONI MIT-TAXXA FUQ L-**
@@ -47,19 +41,13 @@ TRASFERIMENTI FUQ TRASFERIMENTI TA’ DJAR TA’ RESIDENZA LIL AZJONISTI
 
 (a) membru tal-familja ta’ min jir`ievi bi trasferiment tfisser il-konju[i tieg]u, axxendent jew dixxendent tieg]u, ]uh jew o]tu, jew dixxendent ta’ ]uh jew o]tu;
 
-(b) "dar ta’ residenza" tinkludi garage imniffed jew li ji[i ta]t dik ir-residenza jew garage ta’ mhux iktar minn 30 metru kwadru li jkun jinsab fil-vi`inanza ta’ 500 metru minn dik ir-residenza u li jkun trasferit mill-istess kumpannija lil min jir`ievi bi trasferiment permezz ta’ l-istess att flimkien ma’ dik ir-residenza. DOKUMENTI U TRASFERIMENTI FUQ TRASFERIMENTI TA’ DJAR TA’ RESIDENZA LIL AZJONISTI
-
-*\3.*
-
-*Termini tat-trasferiment.*
-
-Mat-trasferiment li japplika g]alih dan l-Ordni -
-
-*2 [L.S.123.54*
+(b) "dar ta’ residenza" tinkludi garage imniffed jew li ji[i ta]t dik ir-residenza jew garage ta’ mhux iktar minn 30 metru kwadru li jkun jinsab fil-vi`inanza ta’ 500 metru minn dik ir-residenza u li jkun trasferit mill-istess kumpannija lil min jir`ievi bi trasferiment permezz ta’ l-istess att flimkien ma’ dik ir-residenza. Mat-trasferiment li japplika g]alih dan l-Ordni -
 
 *Emendat: A.L. 409 ta’ l- 2007.*
 
 (a) jekk l-u\\u tad-dar ta’ residenza minn min joqg]od fiha sad-data tat-trasferiment jitqies b]ala li jikkostitwixxi benefi``ju bis-sa]]a ta’ xi mpieg jew kariga skond l-artikolu 4(1)(b) ta’ l-Att dwar it-Taxxa fuq l-Income, ebda taxxa ma g]andha tit]allas ta]t dak l-Att fuq il-valur ta’ dak il-benefi``ju;
+
+*\3. Termini tat-trasferiment.*
 
 *Kap. 123.*
 
@@ -85,11 +73,7 @@ L-e\\enzjonijiet mog]tija b’dan l-Ordni g]andhom ikunu so[[etti g]all-kondizzj
 
 *Kap. 123.*
 
-(`) g]all-fini li ji[i stabbilit il-qlig] kapitali skond l-Att dwar it-Taxxa fuq l-Income li jinqala’ minn trasferiment sussegwenti tad-dar ta’ residenza kollha kemm hi jew parti minnha minn min jir`ievi bi trasferiment, l-ispi\\a ta’ l-akkwist tad-dar ta’ residenza g]andha titqies li tkun il-valur meqjus b]ala l-valur tat-trasferiment kif stabbilit skond il-paragrafu DOKUMENTI U TRASFERIMENTI FUQ TRASFERIMENTI
-
-*3*
-
-TA’ DJAR TA’ RESIDENZA LIL AZJONISTI [L.S.123.54 (a), u minkejja d-disposizzjonijiet ta’ l-artikolu 5(10)(b) u (`) ta’ l-imsemmi Att, ebda telf kapitali li jirri\\ulta minn jew dejn li ma jistax jin[abar mag]mul dwar kull trasferiment ie]or ma g]andha ssir tpa`ija tieg]u ma’ kull qlig] kapitali stabbilit kif hawn qabel imsemmi;
+(`) g]all-fini li ji[i stabbilit il-qlig] kapitali skond l-Att dwar it-Taxxa fuq l-Income li jinqala’ minn trasferiment sussegwenti tad-dar ta’ residenza kollha kemm hi jew parti minnha minn min jir`ievi bi trasferiment, l-ispi\\a ta’ l-akkwist tad-dar ta’ residenza g]andha titqies li tkun il-valur meqjus b]ala l-valur tat-trasferiment kif stabbilit skond il-paragrafu (a), u minkejja d-disposizzjonijiet ta’ l-artikolu 5(10)(b) u (`) ta’ l-imsemmi Att, ebda telf kapitali li jirri\\ulta minn jew dejn li ma jistax jin[abar mag]mul dwar kull trasferiment ie]or ma g]andha ssir tpa`ija tieg]u ma’ kull qlig] kapitali stabbilit kif hawn qabel imsemmi;
 
 (d) meta l-partijiet fit-trasferiment jixtiequ li jie]du l-benefi``ju ta’ l-e\\enzjonijiet mog]tija b’dan l-Ordni huma g]andhom jag]mlu u jag]tu f’formola provduta mill-Kummissarju id-dikjarazzjonijiet u t-tag]rif kollu msemmi fl-Iskeda. Id-dikjarazzjonijiet f’dik il-formola g]andhom ji[u ffirmati g]an-nom tal-kumpannija minn individwu li jkun uffi`jal ta’ dik il-kumpannija debitament awtorizzat g]al dak il-fini, minn min jir`ievi bi trasferiment, minn nutar pubbliku u minn awditur pubbliku `ertifikat kif imsemmi fl-imsemmija Skeda u l-formola g]andha tintbag]at lill- Kummissarju tat-Taxxi Interni flimkien ma’ l-avvi\\ dwar l-att me]tie[ skond l-artikolu 51 ta’ l-Att dwar it- Taxxa fuq Dokumenti u Trasferimenti u r-Regoli dwar it-Taxxa fuq Dokumenti u Trasferimenti fi\\-\\mien preskritt biex jintbag]at dak l-avvi\\; i\\da f’ka\\ ta’ trasferiment mag]mul qabel id-data ta’ dan l-Ordni l-imsemmija formola g]andha tintbag]at lill- Kummissarju fit-Taqsima ta’ Trasferiment Kapitali tad-Dipartiment tat-Taxxi Interni, il-Belt, mhux aktar tard mill-31 ta’ Lulju, 2001;
 
@@ -99,11 +83,9 @@ TA’ DJAR TA’ RESIDENZA LIL AZJONISTI [L.S.123.54 (a), u minkejja d-disposizz
 
 (f) f’ka\\ li xi kondizzjoni murija f’dan ir-regolament ma’ ti[ix sodisfatta jew li xi tag]rif mog]ti jew dikjarazzjoni mag]mula g]all-finijiet ta’ dan l-Ordni jirri\\ultaw li ma jkunux ing]ataw sew f’xi aspett materjali, l-e\\enzjonijiet g]andhom jintilfu;
 
-(g) dan l-Ordni g]andu jkollu dak l-effett retroattiv li jkun me]tie[ biex jing]ata effett g]all-e\\enzjonijiet mog]tija fih dwar kull trasferiment li japplika g]alih dan l-Ordni mag]mul qabel id-data ta’ dan l-Ordni. 5. Ma jistax jittie]ed benefi``ju minn parti mill-e\\enzjonijiet mog]tija b’dan l-Ordni, u meta jittie]ed benefi``ju minnhom b’mod validu il-partijiet kollha fit-trasferiment g]andhom jitqiesu li jkunu a``ettaw il-kondizzjonijiet murija fir-regolament 4 minkejja kull rinunzja jew riserva mag]mula minn xi persuna.
+(g) dan l-Ordni g]andu jkollu dak l-effett retroattiv li jkun me]tie[ biex jing]ata effett g]all-e\\enzjonijiet mog]tija fih dwar kull trasferiment li japplika g]alih dan l-Ordni mag]mul qabel id-data ta’ dan l-Ordni. Ma jistax jittie]ed benefi``ju minn parti mill-e\\enzjonijiet mog]tija b’dan l-Ordni, u meta jittie]ed benefi``ju minnhom b’mod validu il-partijiet kollha fit-trasferiment g]andhom jitqiesu li jkunu a``ettaw il-kondizzjonijiet murija fir-regolament 4 minkejja kull rinunzja jew riserva mag]mula minn xi persuna.
 
-*L-e\\enzjonijiet ma jistg]ux jittie]du parti minnhom.*
-
-DOKUMENTI U TRASFERIMENTI FUQ TRASFERIMENTI 4 [L.S.123.54 TA’ DJAR TA’ RESIDENZA LIL AZJONISTI
+*\5. L-e\\enzjonijiet ma jistg]ux jittie]du parti minnhom.*
 
 ## SKEDA
 
@@ -171,10 +153,6 @@ Timbru uffi`jali ........................................
 
 Data ......................................................
 
-DOKUMENTI U TRASFERIMENTI FUQ TRASFERIMENTI
-
-TA’ DJAR TA’ RESIDENZA LIL AZJONISTI [L.S.123.54 5
-
 ## Taqsima ~
 
 Dikjarazzjoni li ssir u ti[i ffirmata minn individwu li huwa uffi`jal tal-kumpannija debitament awtorizzat g]al dak il-fini
@@ -212,8 +190,6 @@ Numru tal-karta ta’ l-identità ..............................................
 Firma .............................................
 
 Data ....................................................
-
-DOKUMENTI U TRASFERIMENTI FUQ TRASFERIMENTI 6 [L.S.123.54 TA’ DJAR TA’ RESIDENZA LIL AZJONISTI
 
 ## Taqsima E — Dikjarazzjoni dwar ir-residenza — Dikjarazzjoni li g]andha ssir u tigi ffirmata minn individwu li huwa uffi`jal tal-kumpannija
 

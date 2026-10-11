@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Mediterranean Studies - M.A. - taħt ilpatroċinju tal-Fakultà tal-Arti (S.L. 327.497)
 
-STUDIES - M.A. - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-ARTI [L.S.327.497
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.497**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -75,12 +69,6 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu ECTS, li minnhom 60 krettu ECTS għandhom ikunu assenjati għat-taqsimiet studju mgħallma u 30 krettu ECTS għandhom ikunu assenjati għat-taqsima studju tad-dissertazzjoni.
 
-STUDIES - M.A. - TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.497 TAL-FAKULTÀ TAL-ARTI
-
 ## 6. Postgraduate Diploma.
 
 *Emendat: A.L. 31 tal-2018.*
@@ -117,13 +105,7 @@ Il-programm ta’ studju għandu jkun ippubblikat mill-Bord wara l-approvazzjoni
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
-(i) l-estensjoni tal-perjodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali;
-
-STUDIES - M.A. - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAL-ARTI [L.S.327.497 u
+(i) l-estensjoni tal-perjodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent li jiddefendi l-każ tiegħu.
 

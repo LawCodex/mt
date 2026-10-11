@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Servizzi Mediċi mogħtija mit-Taqsima tas-Saħħa Okkupazzjonali (S.L. 35.25)
 
-SERVIZZI MEDI~I MOG}TIJA MIT-TAQSIMA
-
-*1*
-
-TAS-SA}}A OKKUPAZZJONALI [L.S.35.25
-
 **LE{ISLAZZJONI SUSSIDJARJA 35.25**
 
 **REGOLAMENTI DWAR SERVIZZI MEDI~I**

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Drittijiet għall-Eżami ta' Oġġetti ta' l-Arti u ta' Antikità"
-identifier: "S.L. 35.3"
+identifier: "S.L. 35.03"
 eli: "https://legislation.mt/eli/sl/35.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/35.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Drittijiet għall-Eżami ta' Oġġetti ta' l-Arti u ta' Antikità (S.L. 35.3)
-
-DRITTIJIET G}ALL-E|AMI TA’ O{{ETTI TA’
-
-*1*
-
-L-ARTI U TA’ ANTIKITÀ) [L.S.35.03
+# Regolamenti dwar id-Drittijiet għall-Eżami ta' Oġġetti ta' l-Arti u ta' Antikità (S.L. 35.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 35.03**
 

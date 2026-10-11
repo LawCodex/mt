@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Statut 04 - Statut dwar l-Eżamijiet tal-Matrikola u taċ-Ċertifikat ta' l-Edukazzjoni Sekondarja (S.L. 327.18)
 
-*1*
-
-GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA [L.S.327.18
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.18**
 
 **STATUT GĦALL-EŻAMIJIET TAL-MATRKOLA U**
@@ -68,11 +64,9 @@ Dan l-istatut għandu japplika mit-2 ta’ Ġunju 2014 ’il quddiem.
 
 (v) li jagħmel rakkomandazzjonijiet lis-Senat dwar il-materji kollha li għandhom x’jaqsmu mal-assessjar u mal-eżamijiet u dwar materji relatati li jiġu riferuti lilu;
 
-(vi) li jagħmel rakkomandazzjonijiet lill-Kunsill fuq riżorsi [L.S.327.18 GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA biex il-Bord tal-Matrikola u għaċ-Ċertifikat tal- Edukazzjoni Sekondarja ikun jista’ iwettaq l-għanijiet kollha tiegħu.
+(vi) li jagħmel rakkomandazzjonijiet lill-Kunsill fuq riżorsi biex il-Bord tal-Matrikola u għaċ-Ċertifikat tal- Edukazzjoni Sekondarja ikun jista’ iwettaq l-għanijiet kollha tiegħu.
 
 (2) Il-Bord għall-Eżamijiet tal-Matrikola u għaċ-Ċertifikat tal- Edukazzjoni Sekondarja (“il-Bord”) għandu jkun magħmul minn tnax-il membru u chair kif ġej:
-
-*2*
 
 (i) Chair (ir-Rettur jew xi ħadd nominat minnu);
 
@@ -108,8 +102,8 @@ Dan l-istatut għandu japplika mit-2 ta’ Ġunju 2014 ’il quddiem.
 
 Ir-Regolamenti magħmulin mis-Senat għall-eżamijiet li jwasslu għaċ-Ċertifikat tal-Matrikola u għaċ-Ċertifikat tal-Edukazzjoni Sekondarja u s-sillabi jew l-programmi ta’ tagħlim u assessjar għal kull suġġett normalment ikunu ppubblikati kull sena. Is-sillabi fil-Livelli Avvanzat u Intermedju normalment ikunu ppubblikati sentejn qabel l-assessjar finali. Is-sillabi u l-programmi ta’ tagħlim u assessjar fil-Livell SEC u SEAC normalment ikunu ppubblikati tlett snin qabel l-assessjar finali.
 
-*3*
+## 6. Iċ-Ċertifikazzjoni:
 
-GĦAĊ-ĊERTIFIKAT TAL-EDUKAZZJONI SEKONDARJA [L.S.327.18 6. Minkejja kif inhu espress fl-Artikoli 2.2(a) u (ċ) tal-Istatut 6 – L-Uffiċjali Ewlenin u Uffiċjali Oħra tal-Università (Skeda 2 tal-Att dwar l-Edukazzjoni – Kap. 327), iċ-ċertifikazzjoni li jirriflettu l-livell milħuq mill-kandidati li jwassal għaċ-Ċertifikati tal-Matrikola u Ċertifikati tal-Edukazzjoni Sekondarja għandhom ikollhom il-firma tad- Direttur Eżekuttiv tal-MATSEC.
+*Miżjud: A.L. 413 tal-2021.*
 
-*Iċ-Ċertifikazzjoni: Miżjud: A.L. 413 tal-2021.*
+Minkejja kif inhu espress fl-Artikoli 2.2(a) u (ċ) tal-Istatut 6 – L-Uffiċjali Ewlenin u Uffiċjali Oħra tal-Università (Skeda 2 tal-Att dwar l-Edukazzjoni – Kap. 327), iċ-ċertifikazzjoni li jirriflettu l-livell milħuq mill-kandidati li jwassal għaċ-Ċertifikati tal-Matrikola u Ċertifikati tal-Edukazzjoni Sekondarja għandhom ikollhom il-firma tad- Direttur Eżekuttiv tal-MATSEC.

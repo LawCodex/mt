@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Rata ta’ Taxxa (Riċiklaġġ ta’ Skart tal-Kostruzzjoni) (2020 - 2031) (S.L. 123.197)
 
-(RIĊIKLAĠĠ TA’ SKART TAL-KOSTRUZZJONI)
-
-*1*
-
-(2020-2031) [L.S.123.197
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.197**
 
 **REGOLI DWAR EŻENZJONI MIT-TAXXA**
@@ -60,12 +54,6 @@ F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "tariffa totali" tfisser l-ammont totali li persuna awtorizzata titlob jew tirċievi, direttament jew indirettament għall-provvista ta’ servizzi kwalifikanti, inkluż kwalunkwe ħlas ieħor ikunu li jkunu l-isem jew id-deskrizzjoni, inklużi iżda mhux limitatament għal, tariffa ta’ servizz, ħlas amministrattiv, tariffa ta’ proċessar, surcharge, jew kwalunkwe ħlas ieħor ta’ kwalunkwe xorta impost b’konnessjoni mal-istess servizz, iżda bl-esklużjoni tat-taxxa fuq il-valur miżjud.
 
-(RIĊIKLAĠĠ TA’ SKART TAL-KOSTRUZZJONI)
-
-*2*
-
-[L.S. 123.197 (2020-2031)
-
 ## 3. Eżenzjoni mit-taxxa fuq income minn servizzi kwalifikanti.
 
 *Sostitwit: A.L. 218 tal-2020; A.L. 284 tal-2020. Emendat: A.L. 210 tal-2026.*
@@ -92,13 +80,7 @@ Income derivat minn persuna awtorizzata minn servizzi kwalifikanti matul sena ri
 
 Fejn persuna awtorizzata, mingħajr raġuni valida tikser il-kondizzjonijiet stabbiliti fil-paragrafi (e) jew (f) tar-regola 3, għandhom japplikaw id-dispożizzjonijiet li ġejjin:
 
-(a) fejn il-ksur jirrigwarda l-kondizzjoni stabbilita fil-paragrafu (e) tar-regola 3, l-eżenzjoni mit-taxxa mogħtija b’dawn ir-regoli skont il-paragrafu (b) tar-regola 3 għandha titqies li ma tkunx applikabbli għas-sena rilevanti li fiha jkun seħħ il-ksur, u l-income kollu derivat minn servizzi kwalifikanti (RIĊIKLAĠĠ TA’ SKART TAL-KOSTRUZZJONI)
-
-*3*
-
-(2020-2031) [L.S.123.197
-
-matul tali sena għandu minflok, ikun soġġett għat-taxxa skont l-Att daqslikieku l-eżenzjoni ma kinitx tapplika;
+(a) fejn il-ksur jirrigwarda l-kondizzjoni stabbilita fil-paragrafu (e) tar-regola 3, l-eżenzjoni mit-taxxa mogħtija b’dawn ir-regoli skont il-paragrafu (b) tar-regola 3 għandha titqies li ma tkunx applikabbli għas-sena rilevanti li fiha jkun seħħ il-ksur, u l-income kollu derivat minn servizzi kwalifikanti matul tali sena għandu minflok, ikun soġġett għat-taxxa skont l-Att daqslikieku l-eżenzjoni ma kinitx tapplika;
 
 (b) il-Kummissarju għandu joħroġ avviż ta’ stima lill-persuna awtorizzata għall-irkupru tat-taxxa dovuta skont il-paragrafu (a) u l-persuna awtorizzata għandha tħallas dak l-ammont dovut fi żmien tletin (30) jum min-notifika tal-avviż;
 

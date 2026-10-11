@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Eżekuzzjoni fl-Unjoni Ewropea ta’ Ordnijiet ta’ Sentenzi ta’ Infurzar jew Miżuri li jinvolvu Ċaħda tal-Libertà (S.L. 9.17)
 
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*1*
-
-LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.17**
 
 **REGOLAMENTI DWAR L-EŻEKUZZJONI**
@@ -67,12 +61,6 @@ detenzjoni għal perjodu ta’ aktar minn sena;
 "reat skedat" tfisser kull reat fil-lista ta’ reati stabbiliti fl-Iskeda  
 I;
 
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*2*
-
-[L.S.9.17 LI JINVOLVU ĊAĦDA TAL-LIBERTÀ
-
 "Stat emittenti" tfisser l-Istat Membru li fih tkun ingħatat sentenza;
 
 "Stat eżekutur" tfisser l-Istat Membru li lilu tiġi trasmessa sentenza għall-finijiet tal-infurzar tagħha;
@@ -113,11 +101,7 @@ Iżda ma jkunx meħtieġ li s-sentenza tkun bl-ilsien Malti u bl-ilsien Ingliż.
 
 (a) l-Istat Membru li tiegħu l-persuna li tkun instabet ħatja tkun ċittadin tiegħu u li fih dik il-persuna għandha r-residenza ordinarja tagħha; jew
 
-(b) l-Istat Membru li tiegħu l-persuna li tkun instabet ħatja tkun ċittadin u li, għalkemm ma jkunx l-Istat Membru fejn dik il-persuna jkollha r-residenza ordinarja tagħha, dik il-persuna li tkun instabet ħatja ser tiġi deportata lejn dak l-Istat Membru, la darba tiġi rilaxxata mill-infurzar tas-sentenza fuq bażi ta’ TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*3*
-
-LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17 espulzjoni jew deportazzjoni inklużi fis-sentenza jew fid-deċiżjoni amministrattiva jew xi miżura oħra li ttieħdu b’riżultat tas-sentenza; jew
+(b) l-Istat Membru li tiegħu l-persuna li tkun instabet ħatja tkun ċittadin u li, għalkemm ma jkunx l-Istat Membru fejn dik il-persuna jkollha r-residenza ordinarja tagħha, dik il-persuna li tkun instabet ħatja ser tiġi deportata lejn dak l-Istat Membru, la darba tiġi rilaxxata mill-infurzar tas-sentenza fuq bażi ta’ espulzjoni jew deportazzjoni inklużi fis-sentenza jew fid-deċiżjoni amministrattiva jew xi miżura oħra li ttieħdu b’riżultat tas-sentenza; jew
 
 (ċ) kull Stat Membru barra minn dak l-Istat Membru imsemmi fil-paragrafi (a) jew (b), l-awtorità kompetenti li tapprova t-trasmissjoni tas-sentenza u ċ-ċertifikat lil dak l-Istat Membru.
 
@@ -155,12 +139,6 @@ Iżda f’dawk il-każijiet ma għandux ikun hemm verifika dwar il-kriminalità 
 
 (a) lill-Istat Membru li tiegħu l-persuna li tkun instabet ħatja hi ċittadin u li fih dik il-persuna għandha r-residenza ordinarja tagħa; jew
 
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*4*
-
-[L.S.9.17 LI JINVOLVU ĊAĦDA TAL-LIBERTÀ
-
 (b) lill-Istat Membru li l-persuna li tkun instabet ħatja serja tintbagħat fih la darba tiġi rilaxxata mill-infurzar tal-piena fuq il-bażi ta’ ordni ta’ espulsjoni jew deportazzjoni inkluża fis-sentenza jew f’deċiżjoni ġudizzjarja jew amministrattiva jew kull miżura oħra li tirriżulta mis-sentenza; jew
 
 (ċ lill-Istat Membru fejn il-persuna li tkun instabet ħatja tkun ħarbet jew mod ieħor marret lura minħabba fil-proċeduri kriminali li jkun hemm pendenti kontra tagħha fl-Istat emittenti jew wara li tkun instabet ħatja f’dak l-Istat emittenti.
@@ -181,11 +159,7 @@ TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
 
 (1) Meta l-Avukat Ġenerali jirċievi sentenza fil-kuntest tat-tifsir ta’ dawn ir-regolamenti, l-Avukat Ġenerali għandu, skont il-ġudizzju individwali tiegħu u mingħajr ħsara għad-disposizzjonijiet tar-regolamenti 11 u 12, joħroġ ċertifika li jkun jgħid li l-awtorità li tkun ħarġet is-sentenza għandha l-funzjoni li toħroġ sentenzi fl-Istat emittenti u dan iċ-ċertifkat għandu jkun wieħed konklużiv fir-rigward tal-kontenut tiegħu.
 
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*5*
-
-LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17 (2) Iċ-ċertifikat maħruġ taħt subregolament (1), flimkien mas-sentenza li għaliha jirreferixxi, għandu jintbagħat lid-Direttur sabiex jiġi infurzat.
+(2) Iċ-ċertifikat maħruġ taħt subregolament (1), flimkien mas-sentenza li għaliha jirreferixxi, għandu jintbagħat lid-Direttur sabiex jiġi infurzat.
 
 ## 11. Raġunijiet ta’ nuqqas ta’ rikonoxximent.
 
@@ -211,13 +185,7 @@ LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17 (2) Iċ-ċertifikat maħruġ taħt su
 
 (i) kienet ġiet imħarrka personalment fil-ħin dovut u b’hekk ġiet mgħarrfa f’dik it-taħrika bid-data u l-post appuntati għall-kawża li minnha ħarġet is-sentenza, jew li tkun b’mezzi oħra fil-fatt irċeviet informazzjoni uffiċjali bid-data u l-post appuntati għal dik il-kawża hekk illi ma jkun ġie bla ebda dubju stabbilit li hija kienet taf bil-kawża appuntata u li kienet mgħarrfa li setgħet tingħata deċiżjoni jekk ma tidhirx fil-kawża, jew (ii) għal kemm kienet taf bil-kawża appuntata kienet tat prokura lill-avukat tagħha li jkun ġie maħtur minnha jew mill-Istat, biex jiddefendiha fil-kawża u tkun tabilħaqq saritilha dik id-difiża minn dak l-avukta f’dik il-kawża, jew
 
-(iii) wara li tkun ġiet notifikata bid-deċiżjoni u wara li tkun ġiet mgħarrfa b’mod ċar bid-dritt li TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*6*
-
-[L.S.9.17 LI JINVOLVU ĊAĦDA TAL-LIBERTÀ
-
-jkollha għal kawża mill-ġdid, jew appell, li fihom il-persuna jkollha dritt tieħu sehm u li jkunu jippermettu li l-merti tal-kawża, inkluża kull prova ġdida, jiġu eżaminati mill-ġdid u li jistgħu jwasslu għal deċiżjoni differenti minn dik oriġinali dik il-persuna b’mod ċar iddikjarat li ma tkunx qiegħda tikkontesta d-deċiżjoni, jew li ma tkunx talbet għal kawża mill-ġdid jew għal appell fiż-żmien dovut li jkun japplika;
+(iii) wara li tkun ġiet notifikata bid-deċiżjoni u wara li tkun ġiet mgħarrfa b’mod ċar bid-dritt li jkollha għal kawża mill-ġdid, jew appell, li fihom il-persuna jkollha dritt tieħu sehm u li jkunu jippermettu li l-merti tal-kawża, inkluża kull prova ġdida, jiġu eżaminati mill-ġdid u li jistgħu jwasslu għal deċiżjoni differenti minn dik oriġinali dik il-persuna b’mod ċar iddikjarat li ma tkunx qiegħda tikkontesta d-deċiżjoni, jew li ma tkunx talbet għal kawża mill-ġdid jew għal appell fiż-żmien dovut li jkun japplika;
 
 (j) qabel ma tittieħed deċiżjoni dwar ir-rikonoxximent tas-sentenza ssir talba lill-Istat emittenti skont l- Artikolu 18(3) tal-Arranġament, u l-Istat emittenti ma jagħtix il-kunsens, skont l-Artikolu 18(2)(g) tal- Arranġament, li l-persuna konċernata tiġi akkużata, sentenzjata jew mod ieħor imċaħħda mil-libertà fl-Istat eżekutur għal reat imwettaq qabel it-trasferiment minbarra dak li għalih dik il-persuna ġiet trasferita;
 
@@ -233,11 +201,7 @@ Iżda kull deċiżjoni taħt is-subregolament (1)(l) għandha tittieħed mill-Av
 
 (3) L-awtorità kompetenti tal-Istat emittenti tista’ tiġi konsultata mill-Avukat Ġenerali f ’każijiet fejn jitqies li jkun possibbli li jingħata rikonoxximent parzjali tas-sentenza u l-infurzar parzjali tal-piena bil-ħsieb li jinstab ftehim kif previst f’dan is- subregolament:
 
-Iżda jekk ma jintlaħaqx ftehim biex jingħata rikonoxximent u infurzar parzjali il-piena skont il-kondizzjonijiet li jinsabu fl-istess piena, dak ir-rikonoxximent u infurzara ma għandux jirriżulta TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*7*
-
-LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17 f’aggravazzjoni tad-dewmien tal-piena u fin-nuqqas ta’ ftehim bħal dak, iċ-ċertifikat għandu jiġi irtirat.
+Iżda jekk ma jintlaħaqx ftehim biex jingħata rikonoxximent u infurzar parzjali il-piena skont il-kondizzjonijiet li jinsabu fl-istess piena, dak ir-rikonoxximent u infurzara ma għandux jirriżulta f’aggravazzjoni tad-dewmien tal-piena u fin-nuqqas ta’ ftehim bħal dak, iċ-ċertifikat għandu jiġi irtirat.
 
 ## 12. Raġunijiet għall-posponiment tal-eżekuzzjoni.
 
@@ -268,12 +232,6 @@ Iżda dik il-piena jew miżura għandha tikkorrespondi kemm jista’ jkun mal-pi
 (3) L-Avukat Ġenerali għandu, fuq talba, jinforma lill-awtorità kompetenti tal-Istat emittenti dwar id-disposizzjonijiet applikabbli dwar remissmjoni u ir-rilaxx kmieni jew kondizzjonat li jista’ jkun japplika. L-Istat emittenti jista’ jaqbel mal-applikazzjoni ta’ dawk id-disposizzjonijiet jew jista’ jirtira ċ-ċertifikat.
 
 (4) Meta l-Avukat Ġenerali jiġi infurma mill-awtorità kompetenti tal-Istat eżekutur dwar kull deċiżjoni jew miżura li b’riżultat tagħha l-piena ma tistax tibqa tiġi infurzata, minnufih jew wara ċertu perjodu wara, l-infurzar ta’ dik il-piena għandu jiġi terminat minnufih.
-
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*8*
-
-[L.S.9.17 LI JINVOLVU ĊAĦDA TAL-LIBERTÀ
 
 ## 16. Arrest provviżorju.
 
@@ -307,11 +265,7 @@ Iżda f’dan il-każ ir-rinunzja għandha tingħata quddiem il-qorti fil-preże
 
 (1) Amnestija jew maħfra jistgħu jingħataw mill-Istat emittenti kif ukoll mill-Istat eżekutur.
 
-(2) L-Istat emittenti biss jista’ jiddeċiedi dwar rikorsi għar- TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*9*
-
-LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17 reviżjoni ta’ sentenza li timponi piena li trid tiġi infurzata skont l- Arranġament.
+(2) L-Istat emittenti biss jista’ jiddeċiedi dwar rikorsi għar-reviżjoni ta’ sentenza li timponi piena li trid tiġi infurzata skont l- Arranġament.
 
 ## 19. Informazzjoni dwar ir-riżultat tal-eżekuzzjoni.
 
@@ -349,12 +303,6 @@ L-Avukat Ġenerali għandu minnufih jinforma l-awtorità kompetenti tal-Istat e�
 
 (1) Bla ħsara għas-subregolament (2), l-awtoritajiet ta’ Malta ma għandhomx jipproċedu l-infurzar ta’ piena la darba l-infurzar ta’ dik il-piena jkun inbeda fl-Istat eżekutur.
 
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*10*
-
-[L.S.9.17 LI JINVOLVU ĊAĦDA TAL-LIBERTÀ
-
 (2) Id-dritt li tiġi infurzata piena għandu jiġi lura lejn l-awtoritajiet Maltin meta tasal informazzjoni mill-Istat eżekutur tan-nuqqas ta’ infurzar parzjali tal-piena b’riżultat tal-ħarba mill-kustodja taal-persuna li tkun instabet ħatja.
 
 ## 23. Trasferiment ta’ persuni misjuba ħatja.
@@ -380,10 +328,6 @@ TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
 (5) Meta t-trasport tal-persuna li tkun instabet ħatja għandu jsir bl-ajru, ikun biżżejjed li tingħata lill-Kummissarju tal-Pulizija l-informazzjoni meħtieġa fis-subregolament (1) fil-każ fejn ikun hemm inżul mhux skedat.
 
 (6) Persuna li tgħaddi minn Malta matul it-trasferiment tagħha lill-Istat emittenti għandha tinżamm taħt kustodja waqt il-perjodu ta’ transitu.
-
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-**LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17 11**
 
 SKEDA I
 
@@ -461,12 +405,6 @@ reati li jaqgħu fil-ġurisdizzjoni tal-Qorti Kriminali Internazzjonali,
 
 ħtif illegali ta’ inġenji tal-ajru/ta’ bastimenti,
 
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*12*
-
-[L.S.9.17 LI JINVOLVU ĊAĦDA TAL-LIBERTÀ
-
 *•*
 
 sabotaġġ.
@@ -474,34 +412,6 @@ sabotaġġ.
 SKEDA II
 
 (Regolament 5)
-
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*13*
-
-LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17 TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*14*
-
-[L.S.9.17 LI JINVOLVU ĊAĦDA TAL-LIBERTÀ
-
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*15*
-
-LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17 TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*16*
-
-[L.S.9.17 LI JINVOLVU ĊAĦDA TAL-LIBERTÀ
-
-TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-*17*
-
-LI JINVOLVU ĊAĦDA TAL-LIBERTÀ [L.S.9.17 TA’ SENTENZI TA’ INFURZAR JEW MIŻURI
-
-18 [L.S.9.17 LI JINVOLVU ĊAĦDA TAL-LIBERTÀ
 
 ## SKEDA III
 

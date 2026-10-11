@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digriet ta' Manteniment (Isle of Man)"
-identifier: "S.L. 48.6"
+identifier: "S.L. 48.06"
 eli: "https://legislation.mt/eli/sl/48.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/48.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digriet ta' Manteniment (Isle of Man) (S.L. 48.6)
-
-ESTENSJONI TA’ L-APPLIKABBILTÀ TA’
-
-DIGRIETI TA’ MANTENIMENT (ISLE OF MAN) [ L.S.48.06
+# Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digriet ta' Manteniment (Isle of Man) (S.L. 48.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 48.06**
 

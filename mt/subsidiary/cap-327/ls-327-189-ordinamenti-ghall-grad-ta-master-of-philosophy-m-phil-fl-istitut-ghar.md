@@ -15,18 +15,14 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Master of Philosophy - M.Phil. - fl-Istitut għar-Riċerka fil-Ġebla u l-Bini (S.L. 327.189)
 
-GRAD TA’ MASTER OF PHILOSOPHY - M.PHIL. -
-
-*1*
-
-FL-ISTITUT G}AR-RI~ERKA FIL-{EBLA U L-BINI [L.S.327.189
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.189**
 
 **ORDINAMENTI G}ALL-GRAD TA’**
 
 **MASTER OF PHILOSOPHY - M.PHIL. -**
 
-FL-ISTITUT G}AR-RI~ERKA FIl-{EBLA U L-BINI 5 ta’ Mejju, 2000 L-AVVI| LEGALI 80 ta’ l-2000.
+FL-ISTITUT G}AR-RI~ERKA FIl-{EBLA U L-BINI
+
+5 ta’ Mejju, 2000 L-AVVI| LEGALI 80 ta’ l-2000.
 
 Revokat bl-Avviż Legali 275 tal-2015.

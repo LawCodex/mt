@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Stat Imsemmi"
-identifier: "S.L. 104.3"
+identifier: "S.L. 104.03"
 eli: "https://legislation.mt/eli/sl/104.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/104.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Stat Imsemmi (S.L. 104.3)
+# Regolamenti dwar Stat Imsemmi (S.L. 104.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 104.03**
 

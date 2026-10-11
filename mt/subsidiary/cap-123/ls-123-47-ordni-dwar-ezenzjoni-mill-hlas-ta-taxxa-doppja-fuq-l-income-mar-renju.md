@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju tad-Danimarka (S.L. 123.47)
 
-*1*
-
-FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.47**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -103,8 +99,6 @@ it-taxxa fuq l-income,
 
 Il-Ftehim għandu japplika wkoll għal kull taxxa bħalhom jew li sostanzjalment tixbaħhom li tiġi imposta wara d-data tal-Ftehim b’żieda ma’, jew minflok, it-taxxi eżistenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom javżaw lil xulxin b’kull tibdil sostanzjali li jkun sar fil-liġijiet tagħhom rispettivi li jirrigwardaw it-taxxa.
 
-FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47 3
-
 **ARTIKOLU 3**
 
 **Tifsiriet Ġenerali**
@@ -183,8 +177,6 @@ taħt il-liġi ta’ dak l-Istat għall-finijiet tat-taxxi li l-Ftehim japplika 
 
 (f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ estrazzjoni ta’ riżorsi naturali.
 
-FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47 5
-
 \3. Il-frażi "stabbiliment permanenti" bl-istess mod tħaddan art li tkun qegħda tinbena, proġett ta’ kostruzzjoni, assemblaġġ jew stallazzjoni jew attivitajiet superviżorji li għandhom x’jaqsmu ma’ dan, iżda biss meta dik l-art, proġett jew attivitajiet ikomplu għal perijodu ta’ iktar minn sitt xhur.
 
 ## 4.
@@ -249,8 +241,6 @@ immobiljari u drittijiet għal ħlasijiet li jvarjaw jew fissi bħala kumpens g�
 
 Meta profitti jinkludu oġġetti ta’ income li qed jiġu trattati separatament f’Artikoli oħra ta’ dan il-Ftehim, allura d-disposizzjonijiet ta’ dawk l-Artikoli ma jkunux milquta bid-disposizzjonijiet ta’ dan l-Artikolu.
 
-FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47 7
-
 **ARTIKOLU 8**
 
 **Trasport bil-Baħar u bl-Ajru**
@@ -303,9 +293,7 @@ Dan il-paragrafu ma jolqotx it-tassazzjoni ta’ kumpannija għar-rigward tal-pr
 
 \4. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma għandhomx japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- Istat Kontraenti l-ieħor, li tiegħu tkun residenti l-kumpannija li tħallas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jaqdi f ’dak l-Istat l-ieħor servizz personali indipendenti minn bażi stabbilit sitwat hemmhekk, u l-holding li dwarhom id-dividendi jkunu mħallsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew bażi stabbilit. F’dak il-każ id-disposizzjonijiet ta’ l-Artikolu 7 jew l-Artikolu 14, skond il-każ, għandhom japplikaw.
 
-\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief meta dividendi bħal dawn jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew safejn il-holding li dwaru jitħallsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ bażi stabbilit sitwat f’dak l-Istat l-ieħor, jew jissuġġetta l-profitti mhux distribwiti tal-kumpannija għal taxxa fuq il-profitti mhux distribwiti tal-kumpannija, anki jekk id-dividendi FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47 9
-
-mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
+\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief meta dividendi bħal dawn jitħallsu lil residenti ta’ dak l-Istat l-ieħor jew safejn il-holding li dwaru jitħallsu d-dividendi jkollu x’jaqsam effettivament ma’ stabbiliment permanenti jew ma’ bażi stabbilit sitwat f’dak l-Istat l-ieħor, jew jissuġġetta l-profitti mhux distribwiti tal-kumpannija għal taxxa fuq il-profitti mhux distribwiti tal-kumpannija, anki jekk id-dividendi mħallsa jew il-profitti mhux distribwiti jikkonsistu f’kollox jew f’parti minnhom minn profitti jew income li jinqalgħu f’dak l-Istat l-ieħor.
 
 \6. Meta Stat Kontraenti jkun ġabar it-taxxa minn ras il-għajn iktar mill-ammont ta’ taxxa li kellha tinġabar taħt id-disposizzjonijiet ta’ dan il-Ftehim, l-applikazzjoni għall-ħlas lura ta’ l-ammont żejjed miġbur għandha ssir quddiem l-awtorità kompetenti ta’ dak l-Istat fi żmien erba’ snin wara tmiem is-sena kalendarja li fiha tkun inġabret dik it-taxxa. Il-ħlas lura għandu jingħata fi żmien perijodu ta’ sitt xhur mid-data meta tkun ġiet ippreżentata l-applikazzjoni quddiem l-awtorità kompetenti. Dak il-perijodu ta’ sitt xhur jista’ jittawwal jekk iż-żewġ Stati Kontraenti flimkien jiftehmu li d-dokumentazzjoni meħtieġa ma tkunx ġiet ippreżentata lill-awtorità kompetenti ta’ l-Istat l-ewwel imsemmi.
 
@@ -348,8 +336,6 @@ Jekk jiġri li residenti ta’ Stat Kontraenti jiġi miċħud minn ħelsien mit-
 \5. Id-disposizzjonijiet ta’ dan l-Artikolu ma għandhomx japplikaw li kieku l-għan ewlieni jew wieħed mill-għanijiet ewlenin ta’ xi persuna li jkollha x’taqsam mal-ħolqien jew assenjament tal-jeddijiet li għar-tigward tagħhom jitħallsu r-royalties ikun li jittieħed vantaġġ minn dan l-Artikolu permezz ta’ dak il-ħolqien jew assenjament.
 
 Jekk jiġri li residenti ta’ Stat Kontraenti jiġi miċħud minn ħelsien mit-tassazzjoni fl-Istat Kontraenti l-ieħor minħabba fid-disposizzjonijiet ta’ l-ewwel sentenza ta’ dan il-paragrafu, l-awtorità kompetenti ta’ dak l-Istat l-ieħor għandha tavża lill-awtorità kompetenti ta’ l-Istat l-ewwel imsemmi.
-
-FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47 11
 
 **ARTIKOLU 13**
 
@@ -413,8 +399,6 @@ Id-drittijiet u ħlasijiet simili oħra tad-diretturi li jinkisbu minn residenti
 
 \1. B’dak kollu li jinsab fid-disposizzjonijiet ta’ l-Artikoli 14 u 15, income miksub minn residenti ta’ Stat Kontraenti minn uħud li jagħtu spettaklu, bħal artisti tat-teatru, tal-films ċinematografiċi, tar-radju jew tat-televiżjoni, jew mużiċista, jew bħala sportiv, mill-attivitajiet personali tiegħu bħala tali eżerċitati fl-Istat Kontraenti l-ieħor, jistgħu jiġu intaxxati f’dak l-Istat l-ieħor.
 
-FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47 13
-
 \2. Meta income dwar l-attivitajiet personali eżerċitati minn wieħed li jagħti spettaklu jew sportiv bħala hekk jinqala’ mhux minn dak li jagħti spettaklu jew minn sportiv innifsu imma minn persuna oħra, dak l-income jista’, minkejja d-disposizzjonijiet ta’ l-Artikoli 7, 14 u 15, jiġi intaxxat fl-Istat Kontraenti fejn l-attivitajiet ta’ dak li jagħti spettaklu jew ta’ l-isportiv jiġu eżerċitati.
 
 \3. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma għandhomx japplikaw għal income miksub minn attivitajiet imwettqa fi Stat Kontraenti minn artisti jew sportivi jekk il-mawra f’dak l-Istat tkun sostanzjalment sostnuta mill-fondi pubbliċi ta’ l- Istat Kontraenti l-ieħor jew ta’ qasam politiku jew awtorità lokali tiegħu.
@@ -471,8 +455,6 @@ Attivitajiet li għandhom x’jaqsmu ma’ Surveys Preliminari, l-Esplorazzjoni 
 
 \4. Minkejja d-disposizzjonijiet ta’ l-Artikolu 13, kull qligħ kapitali fuq rigs għat-tħaffir użati għal attivitajiet, bħal dawk imsemmija fil-paragrafu 3, li jitqiesu li jkunu miksuba minn residenti ta’ Stat Kontraenti meta dawk l-attivitajiet ma jibqgħux ikunu suġġetti għat-taxxa fl-Istat Kontraenti l-ieħor, għandu jkun eżenti mit-taxxa f’dak l-Istat l-ieħor. Għall-fini ta’ dan il-paragrafu, il-frażi "qligħ kapitali" tfisser dak l-ammont li bih il-valur fis-suq fil-waqt tat-trasferiment ikun jeċċedi l-valur residwu f’dak il-waqt, kif miżjud b’kull deprezzament ikkunsidrat.
 
-FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47 15
-
 **ARTIKOLU 22**
 
 **Income ieħor**
@@ -528,8 +510,6 @@ taħt dan il-Ftehim fl-Istat l-ewwel imsemmi għandu jkun japplika biss għal da
 \5. Impriżi ta’ Stat Kontraenti, li l-kapital tagħhom ikun proprjetà ta’ jew ikkontrollat minn, għal kollox jew f’parti, direttament jew indirettament, residenti wieħed jew aktar ta’ l-Istat l-ieħor, ma jkunux suġġetti fl-Istat l-ewwel imsemmi għal xi tassazzjoni jew xi ħtieġa li għandhom x’jaqsmu magħha li tkun oħra jew ta’ aktar piż mit-tassazzjoni u ħtiġiet li għandhom x’jaqsmu magħha li impriżi oħra bħalhom ta’ l-Istat l-ewwel imsemmi huma jew jistgħu jkunu suġġetti għalihom.
 
 \6. Id-disposizzjonijiet ta’ dan l-Artikolu għandhom japplikaw għal dawk it-taxxi li hemm fil-qofol ta’ dan il-Ftehim.
-
-FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47 17
 
 **ARTIKOLU 26**
 
@@ -593,9 +573,7 @@ dwar taxxi fuq income miksub matul xi sena kalendarja jew perijodu ta’ kontiji
 
 **Terminazzjoni**
 
-Dan il-Ftehim għandu jibqa’ jseħħ sakemm jiġi terminat minn Stat Kontraenti. Kull wieħed mill-Istati Kontraenti jista’ jtemm il-Ftehim, permezz ta’ skambju diplomatiku, billi jagħti avviż tat-terminazzjoni mill-anqas sitt xhur qabel it-tmiem ta’ xi sena kalendarja li tkun tibda wara li jintemm perijodu ta’ ħames snin mid-data meta l-Ftehim ikun beda jseħħ. F’dak il-każ, il-Ftehim ma għandux jibqa’ FUQ L-INCOME MAR-RENJU TAD-DANIMARKA [L.S.123.47 19
-
-jseħħ:
+Dan il-Ftehim għandu jibqa’ jseħħ sakemm jiġi terminat minn Stat Kontraenti. Kull wieħed mill-Istati Kontraenti jista’ jtemm il-Ftehim, permezz ta’ skambju diplomatiku, billi jagħti avviż tat-terminazzjoni mill-anqas sitt xhur qabel it-tmiem ta’ xi sena kalendarja li tkun tibda wara li jintemm perijodu ta’ ħames snin mid-data meta l-Ftehim ikun beda jseħħ. F’dak il-każ, il-Ftehim ma għandux jibqa’ jseħħ:
 
 (a) fid-Danimarka:
 

@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Gradi ta’ Bachelor of European Studies (Honours) - B.Eur.Studies (Hons) – u Bachelor of European Studies - B.Eur.Studies - taħt il-patroċinju tal-Istitut għall-Istudji Ewropej (S.L. 327.248)
 
-B.EUR.STUDIES (HONS) – U BACHELOR OF EUROPEAN
-
-STUDIES - B.EUR.STUDIES - TANT IL-PATROCINJU TAL-
-
-*1*
-
-ISTITUT GĦALL-ISTUDJI EWROPEJ [S.L.327.248
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.248**
 
 *Sostitwit: A.L. 273 tal-2024.*
@@ -70,10 +62,6 @@ Dawn ir-regolamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 2
 
 (3) Il-Bord għandu jħabbar il-lista ta’ l-oqsma ta’ studju li jistgħu jittieħdu mal-European Studies fil-Grad qabel ma jibda l-kors.
 
-B.EUR.STUDIES (HONS) – U BACHELOR OF EUROPEAN STUDIES - B.EUR.STUDIES - TANT IL-PATROCINJU TAL- [S.L.327.248 ISTITUT GĦALL-ISTUDJI EWROPEJ
-
-*2*
-
 ## 4. Rekwiżiti speċjali għad-dħul fil-kors.
 
 *Emendat: A.L. 308 ta’ l- 2006. Sostitwit: A.L. 273 tal-2024.*
@@ -113,14 +101,6 @@ L-istudenti għandhom jirreġistraw jew għall-grad ta’ B.Eur. Studies (Hons) 
 **Marka Medja tat-Tielet Sena 45%.**
 
 (2) Il-marka medja finali mwieżna għall-klassifika tal-grad ta’ Bachelor of European Studies għandha tkun imsejsa fuq ir-riżultati miksuba f’kull sena tal-kors, li jkollhom dan il-piż:
-
-B.EUR.STUDIES (HONS) – U BACHELOR OF EUROPEAN
-
-STUDIES - B.EUR.STUDIES - TANT IL-PATROCINJU TAL-
-
-*3*
-
-ISTITUT GĦALL-ISTUDJI EWROPEJ [S.L.327.248
 
 **Marka Medja ta’ l-Ewwel Sena 20%**
 

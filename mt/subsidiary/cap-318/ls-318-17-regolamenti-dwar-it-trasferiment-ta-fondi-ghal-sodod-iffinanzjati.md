@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar it-Trasferiment ta' Fondi għal Sodod Iffinanzjati mill-Gvern (S.L. 318.17)
 
-TRASFERIMENT TA’ FONDI G}AL-SODOD
-
-IFFINANZJATI MILL-GVERN [ L.S.318.17
-
 **LE{ISLAZZJONI SUSSIDJARJA 318.17**
 
 **REGOLAMENTI DWAR IT-TRASFERIMENT TA’**

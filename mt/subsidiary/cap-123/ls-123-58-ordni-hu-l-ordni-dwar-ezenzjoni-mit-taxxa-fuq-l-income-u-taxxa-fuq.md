@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni hu l-Ordni dwar Eżenzjoni mit-Taxxa fuq l-Income u Taxxa fuq Dokumenti u Trasferimenti fuq Trasferimenti ta' Djar ta Residenza minn Soċjetajiet Kummerċjali (S.L. 123.58)
 
-MENTI U TRASFERIMENTI FUQ TRASFERIMENTI TA’ DJAR TA’
-
-*1*
-
-RESIDENZA MINN SO¬JETAJIET KUMMER¬JALI [L.S.123.58
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.58**
 
 **ORDNI DWAR E|ENZJONI MIT-TAXXA FUQ L-**
@@ -50,10 +44,6 @@ TRASFERIMENTI FUQ TRASFERIMENTI TA’ DJAR TA’ RESIDENZA MINN SO¬JETAJIET
 (a) membru tal-familja ta’ min jir`ievi bi trasferiment tfisser il-konju[i tieg]u, axxendent jew dixxendent tieg]u, ]uh jew o]tu, jew dixxendent ta’ ]uh jew o]tu;
 
 (b) "dar ta’ residenza" tinkludi garage imniffed jew li ji[i ta]t dik ir-residenza jew garage ta’ mhux iktar minn 30 metru kwadru li jkun jinsab fil-vi`inanza ta’ 500 metru minn dik ir-residenza u li jkun trasferit mill-istess so`jetà lil min jir`ievi bi trasferiment permezz ta’ l-istess att flimkien ma’ dik ir-residenza.
-
-*2 [L.S.123.58*
-
-MENTI U TRASFERIMENTI FUQ TRASFERIMENTI TA’ DJAR TA’ RESIDENZA MINN SO¬JETAJIET KUMMER¬JALI
 
 *\3.*
 
@@ -91,12 +81,6 @@ L-e\\enzjonijiet mog]tija b’dan l-Ordni g]andhom ikunu so[[etti g]all-kondizzj
 
 (`) sabiex ji[i stabbilit il-qlig] kapitali skond l-Att dwar it-Taxxa fuq l-Income li jinqala’ minn trasferiment sussegwenti tad-dar ta’ residenza kollha kemm hi jew f’parti minnha minn min jir`ievi bi trasferiment, l-ispi\\a ta’ l-akkwist tad-dar ta’ residenza g]andha titqies li tkun il-valur meqjus b]ala l-valur tat-trasferiment kif stabbilit skond il-paragrafu (a), u minkejja d-disposizzjonijiet ta’ l-artikolu 5(10)(b) u (`) ta’ l-imsemmi Att, ebda telf kapitali li jirri\\ulta minn jew dejn li ma jistax jin[abar mag]mul dwar kull trasferiment ie]or ma g]andha ssir tpa`ija tieg]u ma’ kull qlig] kapitali stabbilit kif hawn qabel imsemmi;
 
-MENTI U TRASFERIMENTI FUQ TRASFERIMENTI TA’ DJAR TA’
-
-*3*
-
-RESIDENZA MINN SO¬JETAJIET KUMMER¬JALI [L.S.123.58
-
 (d) meta l-partijiet fit-trasferiment jixtiequ li jie]du l-benefi``ju ta’ l-e\\enzjonijiet mog]tija b’dan l-Ordni huma g]andhom jag]tu fuq formula provduta mill- Kummissarju kif murija fl-Iskeda, it-tag]rif kollu msemmi f’dik il-formula. Id-dikjarazzjonijiet f’dik il-formola g]andhom ji[u ffirmati g]an-nom tas-so`jetà minn individwu debitament awtorizzat g]al dak il-fini, minn min jir`ievi bi trasferiment, minn awditur pubbliku `ertifikat u minn nutar pubbliku kif imsemmi fl-imsemmija Skeda u l-formula g]andha tintbag]at lill-Kummissarju tat-Taxxi Interni flimkien ma’ l-avvi\\ relattiv dwar l-att me]tie[ skond l-artikolu 51 ta’ l-Att dwar it-Taxxa fuq Dokumenti u Trasferimenti u r- Regoli dwar it-Taxxa fuq Dokumenti u Trasferimenti fi\\-\\mien preskritt biex jintbag]at dak l-avvi\\:
 
 *Kap. 364. L.S.364.06*
@@ -110,8 +94,6 @@ I\\da f’ka\\ ta’ trasferiment mag]mul qabel id-data ta’ dan l-Ordni l-imse
 (g) dan l-Ordni g]andu jkollu dak l-effett retroattiv li jkun me]tie[ biex jing]ata effett g]all-e\\enzjonijiet mog]tija fih dwar kull trasferiment li japplika g]alih dan l-Ordni mag]mul qabel id-data ta’ dan l-Ordni. 5. Ma jistax jittie]ed benefi``ju minn parti mill-e\\enzjonijiet mog]tija b’dan l-Ordni, u meta jittie]ed benefi``ju minnhom b’mod validu il-partijiet kollha fit-trasferiment g]andhom jitqiesu li jkunu a``ettaw il-kondizzjonijiet murija fl-artikolu 4 minkejja kull rinunzja jew riserva mag]mula minn xi persuna.
 
 *Ma jistax jittie]ed benefi``ju mill-e\\enzjonijiet biss f’parti.*
-
-MENTI U TRASFERIMENTI FUQ TRASFERIMENTI TA’ DJAR TA’ 4 [L.S.123.58 RESIDENZA MINN SO¬JETAJIET KUMMER¬JALI
 
 ## SKEDA
 
@@ -179,10 +161,6 @@ Timbru uffi`jali ........................................
 
 Data ......................................................
 
-MENTI U TRASFERIMENTI FUQ TRASFERIMENTI TA’ DJAR TA’
-
-RESIDENZA MINN SO¬JETAJIET KUMMER¬JALI [L.S.123.58 5
-
 ## Taqsima ¬ — Deskrizzjoni ta’ l-ineteressi u d-drittijiet tal-vot fis-so`jetà — Dikjarazzjoni li g]andha ssir u ti[i ffirmata g]an-nom tas-so`jetà minn individwu li huwa
 
 **debitament awtorizzat g]al dan il-fini u minn min jir`ievi bi trasferiment**
@@ -222,8 +200,6 @@ Numru tal-karta ta’ l-identità .......................................
 Firma .......................................................
 
 Data .............................
-
-MENTI U TRASFERIMENTI FUQ TRASFERIMENTI TA’ DJAR TA’ 6 [L.S.123.58 RESIDENZA MINN SO¬JETAJIET KUMMER¬JALI
 
 ## Taqsima E — Dikjarazzjoni minn Nutar Pubbliku
 

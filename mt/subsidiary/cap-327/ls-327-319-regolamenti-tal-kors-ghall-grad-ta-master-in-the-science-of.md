@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta' Master in the Science of Performative Creativity - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.319)
 
-KORS GĦALL-GRAD TA’ MASTER
-
-*1*
-
-IN THE SCIENCE OF PERFORMATIVE CREATIVITY [L.S.327.319
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.319**
 
 **REGOLAMENTI TAL-KORS GĦALL-GRAD**

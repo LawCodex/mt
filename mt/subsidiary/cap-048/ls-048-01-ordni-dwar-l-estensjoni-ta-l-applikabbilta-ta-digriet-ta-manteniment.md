@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digriet ta' Manteniment (Bermudas)"
-identifier: "S.L. 48.1"
+identifier: "S.L. 48.01"
 eli: "https://legislation.mt/eli/sl/48.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/48.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digriet ta' Manteniment (Bermudas) (S.L. 48.1)
-
-ESTENSJONI TA’ L-APPLIKABBILTÀ TA’ DIGRIETI TA’
-
-MANTENIMENT (BERMUDAS) [ L.S.48.01
+# Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digriet ta' Manteniment (Bermudas) (S.L. 48.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 48.01**
 

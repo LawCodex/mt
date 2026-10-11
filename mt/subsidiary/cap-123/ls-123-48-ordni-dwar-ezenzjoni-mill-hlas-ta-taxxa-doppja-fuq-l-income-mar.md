@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tal-Kroazja (S.L. 123.48)
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-KROAZJA [ L.S.123.48
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.48**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -105,9 +103,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 \1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma te]tiegx xort’o]ra-
 
-(a) il-fra\\i "Kroazja", u\\ata f’sens [eografiku, tfisser it-territorju tar- Repubblika tal-Kroazja fil-fruntieri tag]ha kif dawn huma rikonoxxuti FUQ L-INCOME MAR-REPUBBLIKA TAL-KROAZJA [ L.S.123.48
-
-internazzjonalment, kif ukoll kull area ‘l barra mill-ib]ra territorjali tar- Repubblika tal-Kroazja li fiha, skond id-dritt internazzjonali u l-li[ijiet tar-Repubblika tal-Kroazja, ir-Repubblika tal-Kroazja tkun te\\er`ita d-drittijiet sovrani u l-[urisdizzjoni tag]ha;
+(a) il-fra\\i "Kroazja", u\\ata f’sens [eografiku, tfisser it-territorju tar- Repubblika tal-Kroazja fil-fruntieri tag]ha kif dawn huma rikonoxxuti internazzjonalment, kif ukoll kull area ‘l barra mill-ib]ra territorjali tar- Repubblika tal-Kroazja li fiha, skond id-dritt internazzjonali u l-li[ijiet tar-Repubblika tal-Kroazja, ir-Repubblika tal-Kroazja tkun te\\er`ita d-drittijiet sovrani u l-[urisdizzjoni tag]ha;
 
 (b) il-fra\\i "Malta" tfisser the Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, u kull area ’l barra mill-ib]ra territorjali ta’ Malta li [iet jew tista’ minn issa ’l quddiem ti[i msemmija, skond il-li[i internazzjonali u ta]t il-li[i ta’ Malta li tirrigwarda l-blata kontinentali, b]ala area li [ewwa fiha d-drittijiet ta’ Malta g]ar-rigward ta’ qieg] il-ba]ar u s-sottoswol u r-ri\\orsi naturali tag]hom jistg]u ji[u e\\er`itati;
 
@@ -181,8 +177,6 @@ L.S.123.48] FUQ L-INCOME MAR-REPUBBLIKA TAL-KROAZJA 2. Meta min]abba d-disposizz
 
 Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabbiliment permanenti" g]andha titqies li ma tinkludix:
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-KROAZJA [ L.S.123.48
-
 (a) l-u\\u ta’ fa`ilitajiet g]all-iskop uniku ta’ ]a\\na, wiri jew tqassim ta’ o[[etti jew merkanzija li jkunu proprjetà ta’ l-impri\\a;
 
 (b) il-manutenzjoni ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop uniku ta’ ]a\\na, wiri jew tqassim;
@@ -243,8 +237,6 @@ Meta l-profitti jkunu jinkludu o[[etti ta’ income li qeg]din ji[u trattati sep
 
 Il-provvedimenti ta’ dan l-Artikolu ma g]andhomx jolqtu l-provvedimenti tal-li[i ta’ l-Istat Kontraenti dwar l-intaxxar ta’ profitti mill-kummer` ta’ l-assigurazzjoni.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-KROAZJA [ L.S.123.48
-
 **Artikolu 8**
 
 **TRAFFIKU INTERNAZZJONALI**
@@ -297,9 +289,7 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal-kumpannija g]ar-rigward tal-profitti 
 
 \3. Il-provvedimenti tal-paragrafu 1 m’g]andhomx japplikaw jekk is-sid benefi`jarju ta’ l-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw il-provvedimenti ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
 
-\4. Meta, min]abba f’relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejn it-tnejn li huma u xi persuna o]ra, l-ammont ta’ l-img]ax, wara li titqies xi FUQ L-INCOME MAR-REPUBBLIKA TAL-KROAZJA [ L.S.123.48
-
-tkun il-pretensjoni ta’ debitu li dwarha jit]allas, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu g]andhom ikunu japplikaw biss g]all-ammont l-a]]ar imsemmi. F’ka\\ b]al dak, il-parti \\ejda tal-]lasijiet tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, fil-qies tal-provvedimenti l-o]ra ta’ dan il-Ftehim.
+\4. Meta, min]abba f’relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju jew bejn it-tnejn li huma u xi persuna o]ra, l-ammont ta’ l-img]ax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jit]allas, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu g]andhom ikunu japplikaw biss g]all-ammont l-a]]ar imsemmi. F’ka\\ b]al dak, il-parti \\ejda tal-]lasijiet tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, fil-qies tal-provvedimenti l-o]ra ta’ dan il-Ftehim.
 
 **Artikolu 12**
 
@@ -352,8 +342,6 @@ tkun il-pretensjoni ta’ debitu li dwarha jit]allas, ikun i\\jed mill-ammont li
 (b) il-kumpens jit]allas minn, jew f’isem, prin`ipal li ma jkunx residenti ta’ l-Istat l-ie]or, u
 
 (`) il-kumpens ma jkunx pi\\ fuq l-istabbiliment permanenti jew ba\\i stabbilit li l-prin`ipal ikollu fl-Istat l-ie]or.
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-KROAZJA [ L.S.123.48
 
 \3. Minkejja l-provvedimenti pre`edenti ta’ dan l-Artikolu, il-kumpens li jinkiseb dwar impieg e\\er`itat abbord bastiment jew in[enji ta’ l-ajru operati fi traffiku internazzjonali minn impri\\a ta’ Stat Kontraenti jista’ ji[i intaxxat f’dak l- Istat.
 
@@ -419,9 +407,7 @@ Meta residenti tal-Kroazja jikseb income li, skond il-provvedimenti ta’ dan il
 
 \2. Fil-ka\\ ta’ residenti ta’ Malta, it-tassazzjoni doppja g]andha ti[i evitata kif [ej:
 
-(a) bla ]sara g]all-provvedimenti tal-li[i ta’ Malta li tirrigwarda l-g]oti bi kreditu g]at-taxxa ta’ Malta g]ar-rigward tat-taxxa barranija, meta, skond il-provvedimenti ta’ dan il-Ftehim, ikun hemm inklu\\i fi stima ta’ Malta income minn sorsi fil-Kroazja, it-taxxa tal-Kroazja fuq dak l-income g]andu ji[i permess b]ala kreditu g]at-taxxa ta’ Malta relattiva FUQ L-INCOME MAR-REPUBBLIKA TAL-KROAZJA [ L.S.123.48
-
-li tit]allas dwarhom;
+(a) bla ]sara g]all-provvedimenti tal-li[i ta’ Malta li tirrigwarda l-g]oti bi kreditu g]at-taxxa ta’ Malta g]ar-rigward tat-taxxa barranija, meta, skond il-provvedimenti ta’ dan il-Ftehim, ikun hemm inklu\\i fi stima ta’ Malta income minn sorsi fil-Kroazja, it-taxxa tal-Kroazja fuq dak l-income g]andu ji[i permess b]ala kreditu g]at-taxxa ta’ Malta relattiva li tit]allas dwarhom;
 
 (b) meta kumpannija li tkun residenti tal-Kroazja t]allas dividend lil residenti ta’ Malta, it-taxxa tal-Kroazja li tit]allas mill-kumpannija li t]allas id-dividend g]ar-rigward tal-profitti li minnhom dak id-dividend ikun im]allas g]andha ti[i permessa b]ala kreditu g]at-taxxa ta’ Malta li tit]allas g]ar-rigward ta’ dak id-dividend.
 
@@ -467,9 +453,7 @@ li tit]allas dwarhom;
 
 (b) li jag]ti informazzjoni li ma tkunx tista’ tinkiseb ta]t il-li[ijiet jew fil-kors normali ta’ l-amministrazzjoni ta’ dak jew ta’ l-Istat Kontraenti l-ie]or;
 
-(`) li jag]ti informazzjoni li tikxef xi sigriet ta’ seng]a, negozju, industrija, kummer` jew professjoni jew pro`ess tal-kummer`, jew informazzjoni, FUQ L-INCOME MAR-REPUBBLIKA TAL-KROAZJA [ L.S.123.48
-
-li meta ti[i \\velata din tkun tmur kontra l-ordni pubbliku (ordre public).
+(`) li jag]ti informazzjoni li tikxef xi sigriet ta’ seng]a, negozju, industrija, kummer` jew professjoni jew pro`ess tal-kummer`, jew informazzjoni, li meta ti[i \\velata din tkun tmur kontra l-ordni pubbliku (ordre public).
 
 **Artikolu 26**
 

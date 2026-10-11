@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Importazzjoni ta' Apparati Mekkaniċi"
-identifier: "S.L. 37.3"
+identifier: "S.L. 37.03"
 eli: "https://legislation.mt/eli/sl/37.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/37.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Importazzjoni ta' Apparati Mekkaniċi (S.L. 37.3)
+# Regolamenti dwar l-Importazzjoni ta' Apparati Mekkaniċi (S.L. 37.03)
 
 LE{ISLAZZJONI SUSSIDJARJA 37.03
 

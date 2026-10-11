@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Promozzjoni tan-Negozju"
-identifier: "S.L. 325.6"
+identifier: "S.L. 325.06"
 eli: "https://legislation.mt/eli/sl/325.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/325.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Promozzjoni tan-Negozju (S.L. 325.6)
+# Regolamenti dwar il-Promozzjoni tan-Negozju (S.L. 325.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 325.06**
 

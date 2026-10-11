@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Passaporti"
-identifier: "S.L. 61.2"
+identifier: "S.L. 61.02"
 eli: "https://legislation.mt/eli/sl/61.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/61.2/20230728/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Passaporti (S.L. 61.2)
+# Regolamenti dwar il-Passaporti (S.L. 61.02)
 
 LEĠISLAZZJONI SUSSIDJARJA 61.02
 

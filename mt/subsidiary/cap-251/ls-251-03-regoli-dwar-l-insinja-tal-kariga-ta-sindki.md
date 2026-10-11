@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar l-Insinja tal-Kariga ta' Sindki"
-identifier: "S.L. 251.3"
+identifier: "S.L. 251.03"
 eli: "https://legislation.mt/eli/sl/251.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/251.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar l-Insinja tal-Kariga ta' Sindki (S.L. 251.3)
+# Regoli dwar l-Insinja tal-Kariga ta' Sindki (S.L. 251.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 251.03**
 

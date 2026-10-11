@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Organizzazzjoni u l-Kontenut tal-Iskambju ta’ Informazzjoni Estratta mir-Rekords Kriminali bejn Malta u Stati Membri oħra"
-identifier: "S.L. 77.1"
+identifier: "S.L. 77.01"
 eli: "https://legislation.mt/eli/sl/77.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/77.1/20240802/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Organizzazzjoni u l-Kontenut tal-Iskambju ta’ Informazzjoni Estratta mir-Rekords Kriminali bejn Malta u Stati Membri oħra (S.L. 77.1)
-
-TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
-
-*1*
-
-KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA [L.S.77.01
+# Regolamenti dwar l-Organizzazzjoni u l-Kontenut tal-Iskambju ta’ Informazzjoni Estratta mir-Rekords Kriminali bejn Malta u Stati Membri oħra (S.L. 77.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 77.01**
 
@@ -62,13 +56,7 @@ Għall-finijiet ta’ dawn ir-regolamenti:
 
 "kundanna" tfisser kwalunkwe sentenza finali minn qorti ta’ ġurisdizzjoni kriminali kontra persuna fiżika rigward reat kriminali, fil-limitu li dawn is-sentenzi jiġu rreġistrati fir-reġistru nazzjonali tar-rekords kriminali;
 
-"proċedimenti kriminali" tfisser l-istadju qabel il-proċess TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
-
-*2*
-
-[L.S.77.01 KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA
-
-kriminali, l-istadju tal-proċess nnifsu u l-eżekuzzjoni tal-kundanna;
+"proċedimenti kriminali" tfisser l-istadju qabel il-proċess kriminali, l-istadju tal-proċess nnifsu u l-eżekuzzjoni tal-kundanna;
 
 "rekord kriminali" tfisser ir-reġistru nazzjonali tar-rekords kriminali li fih jiġu rreġistrati l-kundanni skont il-liġi ta’ Malta;
 
@@ -100,11 +88,7 @@ Iżda meta jkun magħruf li persuna kundannata tkun ċittadin ta’ diversi Stat
 
 (1) Kwalunkwe informazzjoni kkomunikata mill-awtoritajiet ċentrali ta’ Stati Membri oħra dwar kundanni mogħtija fit-territorju tagħhom kontra ċittadini Maltin għandha tinżamm mill-Awtorità Ċentrali Nazzjonali skont ir-regolament 9(2).
 
-(2) Kwalunkwe tibdil jew tħassir ta’ informazzjoni kkomunikata mill-awtoritajiet ċentrali ta’ Stati Membri oħra lill- Awtorità Ċentrali Nazzjonali għandu jinvolvi l-istess tibdil jew tħassir mill-Awtorità Ċentrali Nazzjonali fir-rigward ta’ informazzjoni miżmuma skont is-subregolament (1) għall-fini ta’ TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
-
-*3*
-
-KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA [L.S.77.01 trasmissjoni mill-ġdid.
+(2) Kwalunkwe tibdil jew tħassir ta’ informazzjoni kkomunikata mill-awtoritajiet ċentrali ta’ Stati Membri oħra lill- Awtorità Ċentrali Nazzjonali għandu jinvolvi l-istess tibdil jew tħassir mill-Awtorità Ċentrali Nazzjonali fir-rigward ta’ informazzjoni miżmuma skont is-subregolament (1) għall-fini ta’ trasmissjoni mill-ġdid.
 
 (3) Għall-fini ta’ transmissjoni mill-ġdid, l-Awtorità Ċentrali Nazzjonali tista’ tuża biss l-informazzjoni li ġiet aġġornata skont is-subregolament (2).
 
@@ -134,12 +118,6 @@ Iżda jekk l-Awtorità Ċentrali Nazzjonali hija l-Istat Membru rikjest, din għ
 
 (b) kwalunkwe kundanni mogħtija fi Stati Membri oħra li ġew ikkomunikati lill-Awtorità Ċentrali Nazzjonali u reġistrati fir-rekord kriminali;
 
-TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
-
-*4*
-
-[L.S.77.01 KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA
-
 (ċ) kwalunkwe kundanni mogħtija f’pajjiżi terzi u sussegwentament ikkomunikati lill-Awtorità Ċentrali Nazzjonali u reġistrati fir-rekord kriminali.
 
 (2) Meta informazzjoni estratta mir-rekord kriminali ta’ ċittadin Malti tkun mitluba mill-Awtorità Ċentrali Nazzjonali għal kwalunkwe għan ieħor ħlief dak tal-proċediment kriminali, l- Awtorità Ċentrali Nazzjonali għandha fir-rigward ta’ kundanni mogħtija fit-territorju tagħha u ta’ kundanni mogħtija f’pajjiżi terzi, li ġew sussegwentement ikkomumikati lilha u reġistrati fir-rekords kriminali, twieġeb skont il-liġi ta’ Malta:
@@ -154,11 +132,7 @@ Iżda wkoll, meta l-awtorità ċentrali tal-Istat Membru l-ieħor tikkomunika in
 
 (4) Fejn tintalab informazzjoni estratta mir-rekords kriminali dwar kundanni mogħtija kontra ċittadin ta’ Stat Membru li mhux ċittadin Malti, l-Awtorità Ċentrali Nazzjonali għandha tibgħat tali informazzjoni bl-istess mod kif stabbilit fl-artikolu 13 tal- Konvenzjoni Ewropea dwar l-Assistenza Reċiproka f ’Materji Kriminali:
 
-Iżda jekk l-Awtorità Ċentrali Nazzjonali hija l-Istat Membru rikjest, l-Awtorità Ċentrali Nazzjonali għandha tittrażmetti t-tweġiba TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
-
-*5*
-
-KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA [L.S.77.01 tagħha fi żmien għoxrin jum ta’ ħidma mid-data tal-wasla tat-talba.
+Iżda jekk l-Awtorità Ċentrali Nazzjonali hija l-Istat Membru rikjest, l-Awtorità Ċentrali Nazzjonali għandha tittrażmetti t-tweġiba tagħha fi żmien għoxrin jum ta’ ħidma mid-data tal-wasla tat-talba.
 
 (4a) Fejn tintalab informazzjoni estratta mir-rekords kriminali dwar kundanni mogħtija lil ċittadin ta’ pajjiż terz, l-Awtorità Ċentrali Nazzjonali għandha tibgħat informazzjoni dwar kull kundanna mogħtija f’Malta u mdaħħla fir-rekords kriminali u fuq kull kundanna mogħtija f’pajjiżi terzi u sussegwentement trażmessi lill-Awtorità Ċentrali Nazzjonali u mdaħħla fir-rekords kriminali:
 
@@ -183,12 +157,6 @@ Iżda meta l-Awtorità Ċentrali Nazzjonali tkun teħtieġ aktar informazzjoni b
 (2) Data personali provduta mill-awtoritajiet ċentrali ta’ Stati Membri oħra għal kwalunkwe għanijiet għajr dawk tal-proċedimenti kriminali, tista’ tintuża mill-Awtorità Ċentrali Nazzjonali skont il-liġi ta’ Malta biss għall-għanijiet li ġiet mitluba għalihom u fil-limitazzjonijiet speċifikati fil-formola stabbilita fl- Iskeda I.
 
 (3) Mingħajr preġudizzju għas-subregolament (1) u (2), data personali provduta mill-awtoritajiet ċentrali ta’ Stati Membri oħra tista’ tintuża biex tiġi evitata theddida immedjata u serja għas-sigurtà pubblika.
-
-TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
-
-*6*
-
-[L.S.77.01 KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA
 
 (4) L-Awtorità Ċentrali Nazzjonali għandha tieħu l-miżuri neċessarji biex tiżgura li data personali li ġiet irċevuta minn Stat Membru ieħor, jekk ikkomunikata lil pajjiż terz skont ir-regolament 6(3), tkun soġġetta għall-istess limitazzjonijiet ta’ użu bħal dawk applikabbli fi Stat Membru rikjedenti skont is-subregolament (2) ta’ dan ir-regolament. L-Awtorità Ċentrali Nazzjonali għandha tispeċifika li data personali, jekk ikkomunikata lil pajjiż terz għall-għanijiet ta’ proċedimenti kriminali, tista’ tkompli tintuża minn dak il-pajjiż terz biss għall-għanijiet ta’ proċedimenti kriminali.
 
@@ -222,11 +190,7 @@ TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
 
 (ċ) informazzjoni li għandha tiġi kkomunikata, jekk disponibbli lill-Awtorità Ċentrali Nazzjonali (informazzjoni addizzjonali):
 
-(i) in-numru tal-identità tal-persuna kundannata jew it-tip u n-numru tad-dokument ta’ TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
-
-*7*
-
-KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA [L.S.77.01 identifikazzjoni tal-persuna;
+(i) in-numru tal-identità tal-persuna kundannata jew it-tip u n-numru tad-dokument ta’ identifikazzjoni tal-persuna;
 
 (ii) il-marki ta’ swaba’, li ttieħdu minn dik il-persuna;
 
@@ -251,12 +215,6 @@ Iżda l-Awtorità Ċentrali Nazzjonali tista’ tikkomunika kwalunkwe informazzj
 (4) Jekk il-mod tat-trażmissjoni msemmi fis-subregolament (3) ma jkunx disponibbli, l-Awtorità Ċentrali Nazzjonali għandha tibgħat l-informazzjoni kollha msemmija fis-subregolament (3) bi kwalunkwe mezz li kapaċi jipproduċi rekord bil-miktub taħt il-kundizzjonijiet li jippermettu lill-awtorità ċentrali tal-Istat Membru riċeventi biex tistabbilixxi l-awtentiċità tal-informazzjoni, b’kont meħud tas-sigurtà tat-trażmissjoni.
 
 (5) Jekk il-mezz ta’ trażmissjoni msemmi fis-subregolament (3) ma jkunx disponibbli għal perijodu estiż ta’ żmien, l-Awtorità Ċentrali Nazzjonali għandha tinforma lill-Istati Membri l-oħra u lill- Kummissjoni Ewropea.
-
-TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
-
-*8*
-
-[L.S.77.01 KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA
 
 ## SKEDA I — [Regolamenti 5(4) u 8(1) u (2)] — Talba għall-informazzjoni estratta mir-rekord kriminali
 
@@ -314,13 +272,9 @@ Informazzjoni oħra għall-identifikazzjoni disponibbli:
 
 Jekk jogħġbok immarka l-kaxxa xierqa
 
-(1) o proċedimenti kriminali (jekk jogħġbok identifika l-awtorità li quddiema huma pendenti l-proċedimenti u, jekk disponibbli, in-numru ta’ referenza tal-każ) ... TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
+(1) o proċedimenti kriminali (jekk jogħġbok identifika l-awtorità li quddiema huma pendenti l-proċedimenti u, jekk disponibbli, in-numru ta’ referenza tal-każ) ... ................................................................................. (2) o talba barra l-kuntest tal-proċedimenti kriminali (jekk jogħġbok identifika l-awtorità li quddiema huma pendenti l-proċedimenti u, jekk disponibbli, in-numru ta’ referenza tal-każ meta timmarka l-kaxxa rilevanti):
 
 \* Biex tiġi faċilitata l-identifikazzjoni tal-persuna għandha tingħata informazzjoni kemm jista’ jkun.
-
-*9*
-
-KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA [L.S.77.01 ................................................................................. (2) o talba barra l-kuntest tal-proċedimenti kriminali (jekk jogħġbok identifika l-awtorità li quddiema huma pendenti l-proċedimenti u, jekk disponibbli, in-numru ta’ referenza tal-każ meta timmarka l-kaxxa rilevanti):
 
 (i) o minn awtorità ġudizzjarja .............................. (ii) o minn awtorità amministrattiva kompetenti ..... ...................................................................... (iii) o minn persuna kkonċernata għal informazzjoni dwar ir-rekord kriminali tagħha stess ............. ...................................................................... L-għan li għalih qed tintalab l-informazzjoni:
 
@@ -356,13 +310,7 @@ o m’hemm l-ebda informazzjoni dwar kundanni fir-rekord kriminali tal-persuna k
 
 o hemm informazzjoni dwar kundanni reġistrata fir-rekord kriminali tal-persuna kkonċernata; lista’ ta’ kundanni hija mehmuża
 
-o hemm informazzjoni oħra reġistrata fir-rekord kriminali tal-persuna kkonċernata; tali informazzjoni hija mehmuża TA’ INFORMAZZJONI ESTRATTA MIR-REKORDS
-
-*10*
-
-[L.S.77.01 KRIMINALI BEJN MALTA U STATI MEMBRI OĦRA
-
-(fakultattiva)
+o hemm informazzjoni oħra reġistrata fir-rekord kriminali tal-persuna kkonċernata; tali informazzjoni hija mehmuża (fakultattiva)
 
 o hemm informazzjoni dwar kundanni reġistrati fir-rekord kriminali tal-persuna kkonċernata iżda l-Istat Membru li jikkundana informa li l-informazzjoni dwar dawn il-kundanni ma jistgħux jiġu ikkomunikati mill-ġdid għal kwalunkwe għan ieħor ħlief għal dak ta’ proċedimenti kriminali. It-talba għal aktar informazzjoni tista’ tintbagħat direttament lil ......................... jekk jogħġbok indika l-Istat Membru li jikkundanna);
 

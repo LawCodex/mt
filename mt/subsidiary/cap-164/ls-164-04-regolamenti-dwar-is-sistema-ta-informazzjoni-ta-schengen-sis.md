@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar is-Sistema ta’ Informazzjoni ta’ Schengen (SIS)"
-identifier: "S.L. 164.4"
+identifier: "S.L. 164.04"
 eli: "https://legislation.mt/eli/sl/164.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/164.4/20230804/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar is-Sistema ta’ Informazzjoni ta’ Schengen (SIS) (S.L. 164.4)
+# Regolamenti dwar is-Sistema ta’ Informazzjoni ta’ Schengen (SIS) (S.L. 164.04)
 
 LEĠISLAZZJONI SUSSIDJARJA 164.04
 

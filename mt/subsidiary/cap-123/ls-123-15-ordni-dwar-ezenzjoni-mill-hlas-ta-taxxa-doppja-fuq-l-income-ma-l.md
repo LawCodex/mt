@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income ma' l-Awstralja (S.L. 123.15)
 
-*1*
-
-FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.15**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -86,8 +82,6 @@ it-taxxa fuq l-income inkluża ħlasijiet bil-quddiem ta’ taxxa sew jekk bi tn
 (1) F’dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
 (a) il-frażi "Awstralja" tfisser il-Commonwealth tal-Awstralja u, meta wżata f’sens ġeografiku, tinkludi:
-
-FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 3
 
 (i) it-Territorju tal-Gżira ta’ Norfolk;
 
@@ -167,8 +161,6 @@ FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 3
 
 (f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ estrazzjoni ta’ riżorsi naturali;
 
-FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 5
-
 (g) proprjetà agrikola, pastorali jew ta’ foresta;
 
 (h) sit tal-bini jew proġett ta’ kostruzzjoni, stallazzjoni jew assemblea li jeżisti għal aktar minn 183 ġurnata f’perijodu ta’ tnax-il xahar.
@@ -241,8 +233,6 @@ Bastimenti, dgħajjes u inġenji tal-ajru ma għandhomx jitqiesu bħala real pro
 
 **ARTIKOLU 7**
 
-FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 7
-
 **Profitti minn Negozju**
 
 (1) Il-profitti ta’ mpriża ta’ wieħed mill-Istati Kontraenti għandhom jiġu ntaxxati biss f’dak l-Istat kemm il-darba l-impriża ma tmexxix negozju fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun qiegħed hemmhekk. Jekk l-impriża tmexxi negozju kif intqal qabel, il-profitti tal-impriża jistgħu jiġu ntaxxati fl-Istat l-ieħor iżda biss għal dik il-parti minnhom li jinqalgħu minn dak l-istabbiliment permanenti.
@@ -291,8 +281,6 @@ u f’kull każ jiġu magħmula kundizzjonijiet bejn iż-żewġ impriżi fir-rel
 
 (2) Xejn f’dan l-Artikolu ma għandu jolqot l-applikazzjoni ta’ xi liġi ta’ Stat Kontraenti dwar kif għandha tiġi stabbilita t-taxxa li għandha tħallas persuna, inkluż il-mod kif din tiġi stabbilita permezz ta’ eżer`izzju ta’ dikrezzjoni jew billi jsir estimu mill-awtorità kompetenti ta’ dak l-Istat f’każijiet fejn, mill-informazzjoni li għandha l-awtorità kompetenti ta’ dak l-Istat, mhux possibbli jew mhux prattikabbli li jiġi stabbilit l-income li jinqala’ minn impriża, kemm il-darba illi dik il-liġi għandha tiġi applikata, sakemm l-informazzjoni li għandha l-awtorità kompetenti tippermetti, konsistentement mal-prin`ipji ta’ dan l-Artikolu.
 
-FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 9
-
 (3) Meta l-profitti li fuqhom impriża ta’ wieħed mill-Istati Kontraenti tkun ġiet intaxxata f’dak l-Istat ikunu ukoll inklużi, bis-saħħa tal-paragrafu (1) jew (2), fil-profitti ta’ mpriża tal-Istat Kontraenti l-ieħor u ntaxxati skont hekk, u l-profitti hekk inklużi huma profitti li kienu jkunu jistgħu jakkumulaw lil dik l-impriża tal-Istat l-ieħor jekk il-kundizzjonijiet magħmula bejn l-impriżi kienu dawk li kienu jiġu magħmula bejn impriżi indipendenti li jaħdmu indipendentement għal kollox bejn xulxin, allura l-Istat l-ewwel imsemmi għandu jagħmel aġġustament xieraq għall-ammomt tat-taxxa mposta fuq dawk il-profitti fl-Istat l-ewwel imsemmi. Fid-de`iżjoni ta’ dak l-aġġustament għandhom jitqiesu sew id-disposizzjonijiet l-oħra ta’ dan il-Ftehim dwar ix-xorta tal-income, u għal dan l-għan l-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jikkonsultaw ma’ xulxin jekk hekk ikun meħtieġ.
 
 **ARTIKOLU 10**
@@ -338,8 +326,6 @@ Id-dispozizzjonijiet ta’ dan il-paragrafu ma jolqtux it-tassazzjoni ta’ kump
 (5) L-imgħax għandu jitqies li jinqala’ fi Stat Kontraenti meta min iħallas ikun dak l-Istat innifsu jew sottodiviżjoni politika jew awtorità lokali ta’ dak l-Istat jew persuna li tkun residenti ta’ dak l-Istat għall-finijiet tat-taxxa tiegħu. Meta, iżda, il-persuna li tħallas l-imgħax, sew jekk tkun residenti ta’ wieħed mill-Istati Kontraenti sew jekk le, ikollha f ’wieħed mill-Istati Kontraenti jew barra miż-żewġ Stati Kontraenti stabbiliment permanenti jew bażi stabbilit li miegħu jkollu x’jaqsam id-dejn li dwaru jkun tħallas l-imgħax, u dak l-imgħax ikun piż ta’ dak l-istabbiliment permanenti jew bażi stabbilit, allura dak l-imgħax għandu jitqies li nqala fl-Istat Kontraenti li fih ikun sitwat l-istabbiliment permanenti jew il-bażi stabbilit.
 
 (6) Meta, minħabba relazzjonijiet spe`jali bejn min iħallas u l-persuna li tkun intitolata bħala benefi`jarju għall-imgħax, jew bejniethom it-tnejn u xi persuna oħra, l-ammont tal-imgħax imħallas, meta jitqies id-dejn li dwaru jkun tħallas, ikun iżjed mill-ammont li kien ikun mistenni li jkun miftiehem bejn min iħallas u l-persuna intitolata għalih fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjoniiet ta’ dan l- Artikolu għandhom japplikaw biss għall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ammont tal-imgħax imħallas tibqa’ taxxabbli skont il-liġi ta’ kull wieħed mill-Istati Kontraenti, imma suġġetta għad-disposizzjonijiet l-oħra ta’ dan il- Ftehim.
-
-FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 11
 
 **ARTIKOLU 12**
 
@@ -405,9 +391,7 @@ F’dak il-każ, il-parti żejda tal-ammont tar-royalties imħallsa jew kreditat
 
 dik il-parti tal-income miksub minnu li hu attribwit għal dan il-qadi tal-attivitajiet jista’ jiġi ntaxxat fl-Istat l-ieħor.
 
-(2) It-Teżorier tal-Awstralja u l-Ministru responsabbli għall-finanzi ta’ Malta jistgħu jiftehmu permezz ta’ ittri għal dan il-għan fuq tibdil fl-ammont spe`ifikat fis- FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 13
-
-sub-paragrafu (`) tal-paragrafu (1) u kull tibdil hekk miftiehem għandu jseħħ skont il-kontenut tal-ittri.
+(2) It-Teżorier tal-Awstralja u l-Ministru responsabbli għall-finanzi ta’ Malta jistgħu jiftehmu permezz ta’ ittri għal dan il-għan fuq tibdil fl-ammont spe`ifikat fis-sub-paragrafu (`) tal-paragrafu (1) u kull tibdil hekk miftiehem għandu jseħħ skont il-kontenut tal-ittri.
 
 (3) Il-frażi "servizzi professjonali" tinkludi qadi ta’ servizzi fl-eżer`izzju indipendenti ta’ attivitajiet xjentifi`i, letterarji, artisti`i, edukattivi jew ta’ tagħlim indipendenti, kif ukoll fl-eżer`izzju ta’ attivitajiet indipendenti ta’ tobba, avukati, inġiniera, periti, dentisti u accountants.
 
@@ -471,9 +455,7 @@ bħala hekk jinqala’ mhux minn dak li jagħti spettakolu imma minn persuna oħ
 
 **Studenti**
 
-Meta student, li jkun residenti ta’ wieħed mill-Istati Kontraenti jew li kien residenti ta’ dak l-Istat minnufih qabel żar l-Istat Kontraenti l-ieħor u li jkun temporanjament preżenti f’dak l-Istat l-ieħor biss għall-iskop tal-edukazzjoni tiegħu f’università, kulleġġ, skola jew istituzzjoni edukattiva oħra bħal dawn, jir`ievi pagamenti minn għejjun barra minn dak l-Istat l-ieħor għall-iskop tal-manteniment FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 15
-
-jew l-edukazzjoni tiegħu, dawk il-pagamenti għandhom ikunu eżenti mit-taxxa f’dak l-Istat l-ieħor.
+Meta student, li jkun residenti ta’ wieħed mill-Istati Kontraenti jew li kien residenti ta’ dak l-Istat minnufih qabel żar l-Istat Kontraenti l-ieħor u li jkun temporanjament preżenti f’dak l-Istat l-ieħor biss għall-iskop tal-edukazzjoni tiegħu f’università, kulleġġ, skola jew istituzzjoni edukattiva oħra bħal dawn, jir`ievi pagamenti minn għejjun barra minn dak l-Istat l-ieħor għall-iskop tal-manteniment jew l-edukazzjoni tiegħu, dawk il-pagamenti għandhom ikunu eżenti mit-taxxa f’dak l-Istat l-ieħor.
 
 **ARTIKOLU 21**
 
@@ -513,9 +495,7 @@ Income miksub minn residenti ta’ wieħed mill-Istati Kontraenti li, taħt xi w
 
 (6) Meta taħt dan il-Ftehim income għandu jiġi meħlus mit-taxxa f’wieħed mill- Istati Kontraenti u, taħt il-liġi fis-seħħ fl-Istat Kontraenti l-ieħor persuna, dwar l-income imsemmi, tkun suġġetta għat-taxxa skont l-ammont minnu li jiġi mibgħut jew ri`evut f’dak l-Istat l-ieħor u mhux skont l-ammont sħiħ tiegħu, hemmhekk il-ħelsien li għandu jingħata taħt dan il-Ftehim fl-Istat l-ewwel imsemmi għandu japplika biss għal dik il-parti mill-income li tiġi mibgħuta jew ri`evuta fl-Istat l-ieħor.
 
-## KAPITOLU V — FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 17 — Disposizzjonijiet Spe`jali
-
-**ARTIKOLU 24**
+## KAPITOLU V — Disposizzjonijiet Spe`jali — ARTIKOLU 24
 
 **Pro`edura għal Ftehim Re`iproku**
 
@@ -574,8 +554,6 @@ dwar taxxi miġbura għas-sena ta’ stima li tibda fi-1 ta’ Jannar tat-tieni 
 **Terminazzjoni**
 
 Dan il-Ftehim għandu jibqa’ jseħħ indefinittivament iżda kull wieħed mill- Istati Kontraenti jista’ fit-30 jew qabel it-30 ta’ Ġunju ta’ xi sena kalendarja li tibda wara l-egħluq ta’ 5 snin mid-data li fiha beda jseħħ, jagħti avviż bil-miktub ta’ terminazzjoni lill-Istat Kontraenti l-ieħor permezz ta’ mezzi diplomati`i, jagħti f’dak il-każ, dan il-Ftehim għandu jieqaf mis-seħħ:
-
-FUQ L-INCOME MAL-AWSTRALJA [L.S.123.15 19
 
 (a) fl-Awstralja:
 

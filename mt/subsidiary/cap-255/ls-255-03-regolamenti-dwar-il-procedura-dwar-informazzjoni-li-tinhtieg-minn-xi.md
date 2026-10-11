@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Proċedura dwar Informazzjoni li tinħtieġ minn xi Qorti ta’ Ġurisdizzjoni Ċivili mingħand it-Tribunal Ekkleżjastiku"
-identifier: "S.L. 255.3"
+identifier: "S.L. 255.03"
 eli: "https://legislation.mt/eli/sl/255.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/255.3/20130311/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Proċedura dwar Informazzjoni li tinħtieġ minn xi Qorti ta’ Ġurisdizzjoni Ċivili mingħand it-Tribunal Ekkleżjastiku (S.L. 255.3)
-
-PROĊEDURA DWAR INFORMAZZJONI LI TINĦTIEĠ
-
-MINN XI QORTI TA’ ĠURISDIZZJONI ĊIVILI
-
-*1*
-
-MINGĦAND IT-TRIBUNAL EKKLEŻJASTIKU [L.S.255.03
+# Regolamenti dwar il-Proċedura dwar Informazzjoni li tinħtieġ minn xi Qorti ta’ Ġurisdizzjoni Ċivili mingħand it-Tribunal Ekkleżjastiku (S.L. 255.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 255.03**
 

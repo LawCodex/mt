@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti tal-2016 skont ir-Regolamenti Ġenerali għall-Grad ta’ Master of Science in Economics - M.Sc. - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.550)
 
-M. SC. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*1*
-
-EKONOMIJA, MANAGEMENT U ACCOUNTANCY [L.S.327.550
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.550**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -75,9 +69,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (ċ) grad miksub mill-inqas fit-Tieni Klassi bl-Unuri jew f’Kategorija II, fi kwalunkwe qasam ieħor meqjus rilevanti mill-Bord tal-Istudji.
 
-*2*
-
-M. SC. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL- [L.S.327.550 EKONOMIJA, MANAGEMENT U ACCOUNTANCY (2) L-istudenti li jidħlu skont is-sotto-paragrafi (b) u (ċ) tal-paragrafu (1) jistgħu jkunu meħtieġa jsegwu u jgħaddu minn taqsima/iet studju, kif rakkomandat mill-Bord tal-Istudji, li għalihom ikun hemm assenjati massimu ta’ 12-il krettu ECTS, minbarra l-programm ta’ studju kif speċifikat fl-ordinament 5 ta’ dawn l-ordinamenti.
+(2) L-istudenti li jidħlu skont is-sotto-paragrafi (b) u (ċ) tal-paragrafu (1) jistgħu jkunu meħtieġa jsegwu u jgħaddu minn taqsima/iet studju, kif rakkomandat mill-Bord tal-Istudji, li għalihom ikun hemm assenjati massimu ta’ 12-il krettu ECTS, minbarra l-programm ta’ studju kif speċifikat fl-ordinament 5 ta’ dawn l-ordinamenti.
 
 ## 4. Tul tal-kors.
 
@@ -115,11 +107,7 @@ Il-Kors għandu jinfirex fuq tliet semestri ta’ studju full-time jew l-ekwival
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir waqt l-aħħar semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
-M. SC. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*3*
-
-EKONOMIJA, MANAGEMENT U ACCOUNTANCY [L.S.327.550 (3)ċIt-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal-Bord sad-data indikata mill-Bord tal-Istudji.
+(3)ċIt-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal-Bord sad-data indikata mill-Bord tal-Istudji.
 
 ## 8. Superviżur.
 

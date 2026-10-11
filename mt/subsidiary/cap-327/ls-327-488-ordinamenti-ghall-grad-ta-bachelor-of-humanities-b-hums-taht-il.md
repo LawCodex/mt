@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Humanities - B.Hums - taħt il-patroċinju tal-Fakultà tal-Arti (S.L. 327.488)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.488
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.488**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF HUMANITIES - B.Hums - TAĦT IL-PATROĊINJU
@@ -71,10 +67,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew mill- 30 ta’
 ## 4. Tul tal-kors.
 
 Il-kors jinfirex fuq medda ta’ tlett snin ta’ studju fuq bażi full-time jew sa sitt snin ta’ studju fuq bażi part-time (matul il-ġurnata).
-
-*2*
-
-[L.S.327.488 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI
 
 ## 5. Programm ta’ studju.
 

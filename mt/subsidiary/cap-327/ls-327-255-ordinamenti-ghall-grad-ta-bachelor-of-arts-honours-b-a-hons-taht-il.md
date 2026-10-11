@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Arts (Honours) - B.A. (Hons) - taħt il-patroċinju tal-Istitut tal-Kriminoloġija (S.L. 327.255)
 
-NOLOGY - B.A. (HONS) IN CRIMINOLOGY - TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.255
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.255**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF ARTS (HONOURS) IN CRIMINOLOGY - B.A. (HONS)
@@ -71,11 +65,9 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 Il-kors jinfirex fuq medda ta’ tlett snin ta’ studju fuq bażi full-time jew ħames snin ta’ studju fuq bażi part-time.
 
-*2*
+## 5. Il-programm ta’ studju.
 
-NOLOGY - B.A. (HONS) IN CRIMINOLOGY - TAĦT IL- [L.S.327.255 PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ 5. (1) Il-kors għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati 180 krettu ECTS.
-
-*Il-programm ta’ studju.*
+(1) Il-kors għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati 180 krettu ECTS.
 
 (2) Il-Bord għandu jippubblika l-programm ta’ studju għall- Grad, imfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali, u kif approvat mis-Senat qabel il-bidu tal-Kors. Suġġett għal tibdiliet li l-Bord jista’ jkun kostrett li jagħmel bl-approvazzjoni tas-Senat, l-istudenti huma marbuta li jsegwu t-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm ta’ studju.
 

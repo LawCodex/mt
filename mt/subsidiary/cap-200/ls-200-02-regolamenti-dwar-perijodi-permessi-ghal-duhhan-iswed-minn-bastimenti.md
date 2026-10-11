@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Perijodi Permessi għal Duħħan Iswed minn Bastimenti"
-identifier: "S.L. 200.2"
+identifier: "S.L. 200.02"
 eli: "https://legislation.mt/eli/sl/200.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/200.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Perijodi Permessi għal Duħħan Iswed minn Bastimenti (S.L. 200.2)
+# Regolamenti dwar Perijodi Permessi għal Duħħan Iswed minn Bastimenti (S.L. 200.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 200.02**
 

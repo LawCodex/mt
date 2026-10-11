@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tribunali Lokali (Twaqqif ta’ Tribunali u Tismija tar-Reġistru, Reġistratur u Uffiċjali Oħra)"
-identifier: "S.L. 291.2"
+identifier: "S.L. 291.02"
 eli: "https://legislation.mt/eli/sl/291.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/291.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tribunali Lokali (Twaqqif ta’ Tribunali u Tismija tar-Reġistru, Reġistratur u Uffiċjali Oħra) (S.L. 291.2)
-
-U TISMIJA TAR-REĠISTRU, REĠISTRATUR
-
-*1*
-
-U UFFIĊJALI OĦRA) [L.S.291.02
+# Regolamenti dwar it-Tribunali Lokali (Twaqqif ta’ Tribunali u Tismija tar-Reġistru, Reġistratur u Uffiċjali Oħra) (S.L. 291.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 291.02**
 
@@ -87,13 +81,7 @@ Għandhom jiġu mwaqqfa tribunali fil-lokalitajiet li ġejjin:
 
 (1) Ikun hemm Reġistratur għal kull Tribunal imsemmi fir-regolament 3.
 
-(2) Ir-Reġistratur ta’ kull Tribunal għandu jkun dik il-persuna li d-Direttur, Dipartiment għall-Gvern Lokali jista’ jaħtar għal dak U TISMIJA TAR-REĠISTRU, REĠISTRATUR
-
-*2*
-
-[L.S.291.02 U UFFIĊJALI OĦRA)
-
-l-għan fuq rakkomandazzjoni tal-Kumitat Konġunt jew Kumitat Reġjonali tat-Tribunal rispettiv.
+(2) Ir-Reġistratur ta’ kull Tribunal għandu jkun dik il-persuna li d-Direttur, Dipartiment għall-Gvern Lokali jista’ jaħtar għal dak l-għan fuq rakkomandazzjoni tal-Kumitat Konġunt jew Kumitat Reġjonali tat-Tribunal rispettiv.
 
 (3) Fl-eżekuzzjoni tal-funzjonijiet tiegħu, ir-Reġistratur ma għandu jkun soġġett għal ebda direzzjoni jew kontroll minn ebda persuna tkun min tkun ħlief minn Kummissarju għall-Ġustizzja u f ’dak il-każ ir-Reġistratur għandu jsegwi d-direzzjonijiet li jingħatawlu mill-Kummissarju għall-Ġustizzja.
 
@@ -129,11 +117,7 @@ Is-seduti tat-Tribunali jistgħu jsiru f’kull ġurnata bejn it- Tnejn u s-Sibt
 
 *Sostitwit: A.L. 159 tal-2004; A.L. 232 tal-2011.*
 
-Għall-finijiet tal-artikolu 10(5) tal-Att penali, inklużi penali addizzjonali u spejjeż li jiġu imposti mit-Tribunali, u inklużi penali għal disprezz tal-qorti, li jkollhom x’jaqsmu ma’ proċedimenti taħt xi liġi jew regolament, li jkollhom l-infurzar U TISMIJA TAR-REĠISTRU, REĠISTRATUR
-
-*3*
-
-U UFFIĊJALI OĦRA) [L.S.291.02 tagħhom delegat lill-kunsilli lokali, għandhom ikunu dovuti lill- Kunsill Lokali u għandhom jinġabru f’isem dak il-Kunsill mill-persuna li jkollha r-rappreżentanza legali ta’ dak il-Kunsill Lokali.
+Għall-finijiet tal-artikolu 10(5) tal-Att penali, inklużi penali addizzjonali u spejjeż li jiġu imposti mit-Tribunali, u inklużi penali għal disprezz tal-qorti, li jkollhom x’jaqsmu ma’ proċedimenti taħt xi liġi jew regolament, li jkollhom l-infurzar tagħhom delegat lill-kunsilli lokali, għandhom ikunu dovuti lill- Kunsill Lokali u għandhom jinġabru f’isem dak il-Kunsill mill-persuna li jkollha r-rappreżentanza legali ta’ dak il-Kunsill Lokali.
 
 ## 8. Penali dovuti lill- Kumitat Reġjonali.
 

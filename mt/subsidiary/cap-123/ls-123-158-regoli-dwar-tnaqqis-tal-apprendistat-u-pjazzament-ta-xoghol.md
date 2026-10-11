@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Tnaqqis tal-Apprendistat u Pjazzament ta’ Xogħol (S.L. 123.158)
 
-TNAQQIS TAL-APPRENDISTAT U
-
-*1*
-
-PJAZZAMENT TA’ XOGĦOL [L.S.123.158
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.158**
 
 **REGOLI DWAR TNAQQIS TAL-APPRENDISTAT**

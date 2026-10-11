@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar is-Sigurtà Soċjali (Forzi Armati)"
-identifier: "S.L. 318.3"
+identifier: "S.L. 318.03"
 eli: "https://legislation.mt/eli/sl/318.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/318.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar is-Sigurtà Soċjali (Forzi Armati) (S.L. 318.3)
+# Ordni dwar is-Sigurtà Soċjali (Forzi Armati) (S.L. 318.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 318.03**
 

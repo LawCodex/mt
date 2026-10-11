@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kondizzjonijiet għad-Dħul ta' Ċittadini ta' Pajjiżi Terzi għall-Finijiet ta' Studji"
-identifier: "S.L. 217.9"
+identifier: "S.L. 217.09"
 eli: "https://legislation.mt/eli/sl/217.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/217.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kondizzjonijiet għad-Dħul ta' Ċittadini ta' Pajjiżi Terzi għall-Finijiet ta' Studji (S.L. 217.9)
-
-KONDIZZJONIJIET G}AD-D}UL TA’ ~ITTADINI
-
-*1*
-
-TA’ PAJJI|I TERZI G}ALL-FINIJIET TA’ STUDJU [L.S.217.09
+# Regolamenti dwar il-Kondizzjonijiet għad-Dħul ta' Ċittadini ta' Pajjiżi Terzi għall-Finijiet ta' Studji (S.L. 217.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 217.09**
 

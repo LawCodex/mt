@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, Ekonomija u Investiment għall-Ħruġ ta’ €430,700 Stock tal-Gvern ta’ Malta bis-7%, 2020 (S.L. 161.85)
 
-*1*
-
-BIS-7%, 2020 (III) [L.S.161.85
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.85**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**

@@ -1,6 +1,6 @@
 ---
 title: "Ordnijiet Permanenti tal-Kumitat għall-Amministrazzjoni ta' Sptar"
-identifier: "S.L. 94.7"
+identifier: "S.L. 94.07"
 eli: "https://legislation.mt/eli/sl/94.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/94.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordnijiet Permanenti tal-Kumitat għall-Amministrazzjoni ta' Sptar (S.L. 94.7)
+# Ordnijiet Permanenti tal-Kumitat għall-Amministrazzjoni ta' Sptar (S.L. 94.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 94.07**
 

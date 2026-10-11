@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Drittijiet li jinġabru mill-Kummissjunarji b setgħa li jagħtu Ġurament"
-identifier: "S.L. 79.2"
+identifier: "S.L. 79.02"
 eli: "https://legislation.mt/eli/sl/79.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/79.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Drittijiet li jinġabru mill-Kummissjunarji b setgħa li jagħtu Ġurament (S.L. 79.2)
-
-DRITTIJIET LI JIN{ABRU MILL-KUMMISSJUNARJI
-
-*1*
-
-B’SETG}A LI JAG}TU {URAMENT [L.S.79.02
+# Regolamenti dwar Drittijiet li jinġabru mill-Kummissjunarji b setgħa li jagħtu Ġurament (S.L. 79.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 79.02**
 

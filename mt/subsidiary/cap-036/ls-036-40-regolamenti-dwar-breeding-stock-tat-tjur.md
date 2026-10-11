@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Breeding Stock tat-Tjur (S.L. 36.40)
 
-[L.S.36.40
-
 **LE{ISLAZZJONI SUSSIDJARJA 36.40**
 
 **REGOLAMENTI DWAR BREEDING STOCK**
@@ -103,9 +101,9 @@ G]all-finijiet ta’ dawn ir-Regolamenti l-espressjonijiet "]asil" u "disinfetta
 
 (`) iktar ]asil bid-disinfettant;
 
-(d) il-]asil u d-disinfettar tal-body ta’ vetturi b’mod illi tali ]asil g]andu jsir b’likwidi li jintefg]u bi pressjoni. [L.S.36.40 L-EWWEL SKEDA
+(d) il-]asil u d-disinfettar tal-body ta’ vetturi b’mod illi tali ]asil g]andu jsir b’likwidi li jintefg]u bi pressjoni.
 
-**Regoli dwar Breeding Stock Lokali**
+## L-EWWEL SKEDA — Regoli dwar Breeding Stock Lokali
 
 (1) Razzett ma g]andux jintu\\a g]al skop ie]or ]lief it-trobbija ta’ breeding stock tat-tjur.
 
@@ -185,7 +183,7 @@ L.S.36.40]
 
 (h) sistema tad-drena[[ li ta]dem sew.
 
-[L.S.36.40 (20) Id-Direttur g]andu ji[i infurmat b’kull medi`inali li jing]ataw lil [emg]a.
+(20) Id-Direttur g]andu ji[i infurmat b’kull medi`inali li jing]ataw lil [emg]a.
 
 (21) Il-li`enzjati li jkollhom breeding stock g]andhom jag]mlu rapport ta’ kull xahar lid-Direttur li jkun fih dan it-tag]rif li [ej:
 

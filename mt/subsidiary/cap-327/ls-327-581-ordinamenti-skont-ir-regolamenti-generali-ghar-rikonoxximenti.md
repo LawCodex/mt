@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2004 għall-Grad ta’ Bachelor of Science (Honours) in Nursing (Elderly Care) - B.Sc. (Hons) – taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.581)
 
-*1*
-
-IN NURSING (ELDERLY CARE) - B.SC. (HONS) [L.S. 327.581 LEĠISLAZZJONI SUSSIDJARJA 327.581
+**LEĠISLAZZJONI SUSSIDJARJA 327.581**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -72,11 +70,9 @@ Dawn l-ordinamenti japplikaw għall-korsijiet li jibdew f’Ottubru 2017 jew war
 
 ## 4.
 
-(1) Il-Bord jista’, wara l-approvazzjoni tas-Senat, jiddetermina l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-Kors skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet. [L.S. 327.581 IN NURSING (ELDERLY CARE) - B.SC. (HONS)
+(1) Il-Bord jista’, wara l-approvazzjoni tas-Senat, jiddetermina l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-Kors skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (2) Jekk l-għadd tal-applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, il-Bord għandu jagħżel l-applikanti skont dawn il-kriterji li ġejjin:
-
-*2*
 
 (i) kwalifiki akkademiċi (piż ta’ 45%):
 
@@ -110,11 +106,9 @@ Dawn l-ordinamenti japplikaw għall-korsijiet li jibdew f’Ottubru 2017 jew war
 
 sakemm li d-data użata għall-iskop biex jiġu kkalkulati s-snin ta’ esperjenza ta’ xogħol f’impjieg bi qliegħ għandha tkun dik tal-bidu tal-Kors;
 
-(iii) it-tmiem b’suċċess tat-taqsima studju ‘Clinical Education in Practice (Mentorship) (HSC4061) jew tat-taqsima studju IN NURSING (ELDERLY CARE) - B.SC. (HONS) [L.S. 327.581 ‘Mentorship’ (NUR3227) jew ta’ taqsima studju li tkun meqjusa bħala ekwivalenti mill-Bord tal-Istudji, u li għandhom sentejn akkademiċi ta’ esperjenza bħala superviżur kliniku fi programmi sal-ewwel grad tax-Xjenzi tas-Saħħa offruti mill- Università ta’ Malta (piż ta’ 20 %); u
+(iii) it-tmiem b’suċċess tat-taqsima studju ‘Clinical Education in Practice (Mentorship) (HSC4061) jew tat-taqsima studju ‘Mentorship’ (NUR3227) jew ta’ taqsima studju li tkun meqjusa bħala ekwivalenti mill-Bord tal-Istudji, u li għandhom sentejn akkademiċi ta’ esperjenza bħala superviżur kliniku fi programmi sal-ewwel grad tax-Xjenzi tas-Saħħa offruti mill- Università ta’ Malta (piż ta’ 20 %); u
 
 (iv) it-tmiem b’suċċess ta’ korsijiet għall-Continuing Professional Development (CPD) ta’ mhux anqas minn 2 kretti ECTS matul l-aħħar tliet snin qabel id-data tal-bidu tal-Kors sa massimu ta’ 5 korsijiet (piż ta’ 15% - 3 marki għall kull kors CPD).
-
-*3*
 
 (3) Għall-għan tal-għażla, l-applikanti li jissodisfaw ir-rekwiżiti kollha għad-dħul sal-31 ta’ Awwissu ta’ qabel ma jibda l- Kors għandhom jitqiegħdu f’ordni mill-ewwel sal-aħħar sabiex dawk li għalihom hemm postijiet disponibbli jiġu aċċettati u infurmati b’dan.
 

@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Eżenzjoni mit-Taxxa għal Organizzazzjonijiet Volontarji Iskritti (S.L. 123.190)
 
-*1*
-
-VOLONTARJI ISKRITTI [L.S.123.190 LEĠISLAZZJONI SUSSIDJARJA 123.190
+**LEĠISLAZZJONI SUSSIDJARJA 123.190**
 
 **REGOLI DWAR EŻENZJONI MIT-TAXXA GĦAL**
 
@@ -63,10 +61,6 @@ Bla ħsara għad-dispożizzjonijiet l-oħra ta’ dawn ir-regoli, organizzazzjon
 
 (2) Meta organizzazzjoni tkun iskritta fir-reġistru f’xi sena, iżda ma tkunx hekk iskritta għal dik is-sena sħiħa, hija għandha titqies li tkun issodisfat il-kondizzjoni msemmija fil-paragrafu (b) tar-regola 3 biss jekk l-introjtu tagħha għal dik is-sena ma qabiżx dik il-porzjoni tal-ammont ta’ ħamsin elf euro (50,000) li tikkorispondi pro rata għan-numru ta’ xhur matul dik is-sena li fihom isimha kien fuq ir-reġistru.
 
-*2*
-
-[L.S. 123.190 VOLONTARJI ISKRITTI
-
 (3) Bla ħsara għall-ġeneralità tad-dispożizzjonijiet tal-paragrafu (ċ) tar-regola 3, organizzazzjoni ma għandhiex titqies li tkun konformi mad-dispożizzjonijiet tal-Att relevanti jekk tkun ġiet imposta xi sanzjoni kontriha skont id-dispożizzjonijiet tal-artikoli 19 jew 22 tal- Att relevanti jew jekk ikunu nbdew xi proċeduri għall-impożizzjoni ta’ xi sanzjoni bħal dik.
 
 ## 5. Applikabbiltà tal-eżenzjoni mit-taxxa.
@@ -88,7 +82,3 @@ l-awtorità kompetenti għandha tirrevoka ċ-ċertifikat u għandha tinforma lil
 ## 7. Ħruġ ta’ ċertifikat wara li jiġu ċeduti jew konklużi l-proċeduri.
 
 Fejn il-ħruġ ta’ ċertifikat kif imsemmi fir-regola 5 ikun miżmum jew fejn ċertifikat hekk maħruġ jiġi revokat fuq il-bażi biss ta’ proċeduri kontra l-organizzazzjoni kif maħsub fis-subregola (3) tar-regola 4 u dawk il-proċeduri jiġu mbagħad ċeduti jew jirriżulta meta jiġu konklużi li ma hemmx raġunijiet li għalihom għandhom jiġu mposti xi sanzjonijiet kontra l-organizzazzjoni, l-awtorità kompetenti għandha toħroġ iċ-ċertifkat jew treġġa’ lura r-revoka b’dak l-effett retroattiv li jista’ jkun meħtieġ fiċ-ċirkostanzi.
-
-*3*
-
-VOLONTARJI ISKRITTI [L.S.123.190

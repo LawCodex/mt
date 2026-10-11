@@ -17,13 +17,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ International Master of Science in Environmental Management and Sustainability - M.Sc. (EMS) - taħt il-patroċinju tal-Istitut tas-Sistemi Ambjentali (S.L. 327.325)
 
-ENVIRONMENTAL MANAGEMENT AND SUSTAINABILITY -
-
-M.SC. (EMS) - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-TAS-SISTEMI AMBJENTALI [L.S.327.325 LEĠISLAZZJONI SUSSIDJARJA 327.325
+**LEĠISLAZZJONI SUSSIDJARJA 327.325**
 
 **ORDINAMENTI GĦALL-GRAD TA’**
 
@@ -69,12 +63,6 @@ TAS-SISTEMI AMBJENTALI [L.S.327.325 LEĠISLAZZJONI SUSSIDJARJA 327.325
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 220 tal-2023.
 
-ENVIRONMENTAL MANAGEMENT AND SUSTAINABILITY - M.SC. (EMS) - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*2*
-
-[L.S.327.325 TAS-SISTEMI AMBJENTALI
-
 ## 2. Applikabilità.
 
 *Emendat: A.L. 396 tal-2012; A.L. 104 tal-2015; A.L. 88 tal-2016.*
@@ -117,13 +105,7 @@ Il-kors għandu jinfirex fuq perijodu ta’ tliet semestri ta’ studju fuq baż
 
 (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
-(2) Għandu jiġi maħtur Bord tal-Eżaminaturi għal kull taqsima ENVIRONMENTAL MANAGEMENT AND SUSTAINABILITY -
-
-M.SC. (EMS) - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*3*
-
-TAS-SISTEMI AMBJENTALI [L.S.327.325 studju evalwata b’eżami bil-miktub jew orali skont id-disposizzjonijiet tar-Regolamenti tal-Valutazzjoni tal-Università.
+(2) Għandu jiġi maħtur Bord tal-Eżaminaturi għal kull taqsima studju evalwata b’eżami bil-miktub jew orali skont id-disposizzjonijiet tar-Regolamenti tal-Valutazzjoni tal-Università.
 
 (3) Dawk l-istudenti li jeħlu fil-valutazzjoni ta’ mhux aktar minn għoxrin kredtu għal taqsimiet studju mgħallma għandhom jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid tat-taqsimiet studju li weħlu fihom, fis-sessjoni supplimentari tal-eżamijiet li jkun imiss (Mejju jew Settembru).
 
@@ -165,13 +147,7 @@ L-istudenti li l-proġett tar-riċerka tagħhom ma jkunx sodisfaċenti jistgħu 
 
 ## 11. Klassifikazzjoni tar- Rikonoxximenti.
 
-Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ENVIRONMENTAL MANAGEMENT AND SUSTAINABILITY - M.SC. (EMS) - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*4*
-
-[L.S.327.325 TAS-SISTEMI AMBJENTALI
-
-ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
+Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
 
 ## 12. Ċertifikat tar- Rikonoxximent.
 

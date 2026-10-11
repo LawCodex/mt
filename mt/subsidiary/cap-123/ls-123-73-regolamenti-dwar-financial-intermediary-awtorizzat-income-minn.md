@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Financial Intermediary Awtorizzat (Income minn Investiment) (S.L. 123.73)
 
-FINANCIAL INTERMEDIARY AWTORIZZAT
-
-*1*
-
-(INCOME MINN INVESTIMENT) [L.S.123.73
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.73**
 
 **REGOLAMENTI DWAR FINANCIAL**

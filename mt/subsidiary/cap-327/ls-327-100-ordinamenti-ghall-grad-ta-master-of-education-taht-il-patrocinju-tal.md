@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Education taħt il-patroċinju tal-Fakultà ta’ l-Edukazzjoni (S.L. 327.100)
 
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.100
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.100**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -120,11 +116,7 @@ Il-programm ta’ studju għal kwalunkwe qasam ta’ studju offrut fil-kors jist
 
 (a) taqsimiet studju mgħallma li għalihom hemm assenjati 30 kredtu u taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 60 kredtu; jew
 
-(b) taqsimiet studju mgħallma li għalihom hemm assenjati 10 kredti u taqsima studju tad-dissertazzjoni li għaliha IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.100
-
-hemm assenjati 80 kredtu.
-
-*3*
+(b) taqsimiet studju mgħallma li għalihom hemm assenjati 10 kredti u taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 80 kredtu.
 
 (2) Waħda biss minn dawn iż-żewġ tipi tista’ tiġi offruta f ’qasam ta’ studju partikolari fi kwalunkwe sejħa għall-applikazzjonijiet.
 
@@ -190,11 +182,7 @@ tal-Bord sal-bidu tat-tieni semestru.
 
 ## 16. Superviżur. Enumerat mill-ġdid: A.L. 292 tal-2013.
 
-Fil-każijiet kollha, l-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom, li għandhom jibgħatu lill-Bord rapporti dwar ii-progress ta’ l-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l- IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.100
-
-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew:
-
-*5*
+Fil-każijiet kollha, l-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom, li għandhom jibgħatu lill-Bord rapporti dwar ii-progress ta’ l-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew:
 
 (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew
 

@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar il-Midalja għall-Ħamsin Anniversarju tal-George Cross ta' Malta"
-identifier: "S.L. 251.2"
+identifier: "S.L. 251.02"
 eli: "https://legislation.mt/eli/sl/251.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/251.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar il-Midalja għall-Ħamsin Anniversarju tal-George Cross ta' Malta (S.L. 251.2)
-
-TAL-GEORGE CROSS TA’ MALTA [ L.S.251.02
+# Regoli dwar il-Midalja għall-Ħamsin Anniversarju tal-George Cross ta' Malta (S.L. 251.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 251.02**
 
@@ -111,7 +109,7 @@ I\\da, meta ma jkunx konvenjenti jew prattiku li l-Midalja ti[i ppre\\entata per
 
 "F’isem il-Gvern u l-poplu, nag]tik il-Midalja Nazzjonali li Tikkommemora l-}amsin Anniversarju ta’ l-g]oti tal-George Cross lil Malta".
 
-TAL-GEORGE CROSS TA’ MALTA [ L.S.251.02 (3) Ir-rappre\\entant tal-President g]andu jindirizza lil min jir`ievi l-midalja b’dan il-mod:
+(3) Ir-rappre\\entant tal-President g]andu jindirizza lil min jir`ievi l-midalja b’dan il-mod:
 
 "F’isem il-President ta’ Malta, u f’isem il-Gvern u l- Poplu ta’ Malta nag]tik il-Midalja Nazzjonali li Tikkommemora l-}amsin Anniversarju mill-g]oti tal- George Cross lil Malta".
 

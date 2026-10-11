@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Pre-Tertiary Faculty Certificate in Youth Ministry taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.298)
 
-*1*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.298
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.298**
 
 ORDINAMENTI G}ALL-PRE-TERTIARY FACULTY

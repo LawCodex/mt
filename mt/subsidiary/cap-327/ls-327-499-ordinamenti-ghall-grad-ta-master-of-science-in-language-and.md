@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Science in Language and Computation - M.Sc. - taħt il-patroċinju tal-Istitut tal-Lingwistika (S.L. 327.499)
 
-COMPUTATION - M.Sc. - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-ISTITUT TAL-LINGWISTIKA [L.S.327.499
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.499**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -75,12 +69,6 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
 
-COMPUTATION - M.Sc. - TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.499 TAL-ISTITUT TAL-LINGWISTIKA
-
 ## 6. Postgraduate Certificate.
 
 L-istudenti li jiksbu s-30 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, ikunu eliġibbli għall-għoti tal- Postgraduate Certificate.
@@ -117,11 +105,7 @@ L-istudenti għandhom jitħallew ikomplu għat-taqsima studju tad-dissertazzjoni
 
 (2) Il-Panil ta’ Superviżjoni għandu jsegwi, skont kif jidhrilu xieraq, il-progress tal-istudenti matul il-kors, sakemm li jiltaqa’ għall-anqas darbtejn fis-sena biex jirrevedu l-progress.
 
-(3) L-istudenti huma meħtieġa jiltaqgħu mas-superviżuri COMPUTATION - M.Sc. - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-ISTITUT TAL-LINGWISTIKA [L.S.327.499 tagħhom mill-anqas darba kull xahrejn, u barra minn hekk aktar spiss jekk is-superviżur jidhirlu li meħtieġ.
+(3) L-istudenti huma meħtieġa jiltaqgħu mas-superviżuri tagħhom mill-anqas darba kull xahrejn, u barra minn hekk aktar spiss jekk is-superviżur jidhirlu li meħtieġ.
 
 (4) Fl-aħħar ta’ kull semestru ta’ studji s-superviżuri huma meħtieġa jagħtu lill-Panils ta’ Superviżjoni rapporti dwar l-istudenti taħt is-superviżjoni tagħhom. L-istudenti għandhom iġibu l-approvazzjoni għal kwalunkwe tibdil sinifikanti fit-titlu u fil-kontenut tad-dissertazzjoni minn dan il-Panil.
 

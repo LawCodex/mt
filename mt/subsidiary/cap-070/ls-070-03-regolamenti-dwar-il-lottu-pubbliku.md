@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Lottu Pubbliku"
-identifier: "S.L. 70.3"
+identifier: "S.L. 70.03"
 eli: "https://legislation.mt/eli/sl/70.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/70.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Lottu Pubbliku (S.L. 70.3)
+# Regolamenti dwar il-Lottu Pubbliku (S.L. 70.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 70.03**
 

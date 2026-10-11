@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Talbiet dwar il-Proprjetà amministrata bħala Proprjetà ta' l-Għadu"
-identifier: "S.L. 179.1"
+identifier: "S.L. 179.01"
 eli: "https://legislation.mt/eli/sl/179.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/179.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Talbiet dwar il-Proprjetà amministrata bħala Proprjetà ta' l-Għadu (S.L. 179.1)
-
-TALBIET DWAR IL-PROPRJETÀ
-
-*1*
-
-AMMINISTRATA B}ALA PROPRJETÀ TA’ L-G}ADU [L.S.179.01
+# Regolamenti dwar Talbiet dwar il-Proprjetà amministrata bħala Proprjetà ta' l-Għadu (S.L. 179.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 179.01**
 

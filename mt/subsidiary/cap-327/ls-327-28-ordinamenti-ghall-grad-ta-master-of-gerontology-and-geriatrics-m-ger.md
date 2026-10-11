@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Gerontology and Geriatrics - M.Ger. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.28)
 
-GERIATRICS - M. GER - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.28
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.28**
 
 REGOLAMENTI GĦALL-GRAD TA’ MASTER OF
@@ -74,13 +68,7 @@ Biex jidħlu fil-kors l-applikanti għandu jkollhom:
 
 (ċ) grad ta’ Bachelor miksub fit-Tielet Klassi bl-Unuri jew fil-Kategorija III jekk l-applikanti jkollhom kwalifiki oħra, inkluża esperjenza rilevanti, miksuba wara l-grad tal-ewwel `iklu tagħhom; jew
 
-(d) f’każijiet eċċezzjonali, kwalifika professjonali f’waħda mill-professjonijiet tal-kura, flimkien ma’ mill-anqas ħames snin esperjenza, li flimkien huma meqjusa bħala komparabbli għall-livell tal-ewwel grad GERIATRICS - M. GER - TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.28 TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-mill-Bord tad-Dħul fuq il-parir tal-Kumitat tad-Dħul tal-Fakultà;
+(d) f’każijiet eċċezzjonali, kwalifika professjonali f’waħda mill-professjonijiet tal-kura, flimkien ma’ mill-anqas ħames snin esperjenza, li flimkien huma meqjusa bħala komparabbli għall-livell tal-ewwel grad mill-Bord tad-Dħul fuq il-parir tal-Kumitat tad-Dħul tal-Fakultà;
 
 (e) L-applikanti li għandhom il-Postgraduate Diploma in Gerontology and Geriatrics jistgħu jitħallew jidħlu għall-komponent tar-riċerka tal-Kors, jekk temmew b’suċċess il-programm tal-postgraduate Diploma għall-anqas b’marka medja ta’ 55%.
 
@@ -128,11 +116,7 @@ Il-programm ta’ studju għandu jkunu ppubblikat wara l-approvazzjoni tas-Senat
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord tal-Istudji rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjonijiet li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
-(i) l-estensjoni tal-perjodu ta’ studju msemmija f’(a) tkun GERIATRICS - M. GER - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.28 skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
+(i) l-estensjoni tal-perjodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 

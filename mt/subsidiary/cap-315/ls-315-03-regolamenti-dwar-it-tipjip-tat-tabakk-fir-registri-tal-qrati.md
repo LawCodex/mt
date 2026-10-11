@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tipjip tat-Tabakk fir-Reġistri tal-Qrati"
-identifier: "S.L. 315.3"
+identifier: "S.L. 315.03"
 eli: "https://legislation.mt/eli/sl/315.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/315.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tipjip tat-Tabakk fir-Reġistri tal-Qrati (S.L. 315.3)
+# Regolamenti dwar it-Tipjip tat-Tabakk fir-Reġistri tal-Qrati (S.L. 315.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 315.03**
 

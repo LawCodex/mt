@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Donazzjonijiet lit-Trust tal-Università għar-Riċerka, Innovazzjoni u Żvilupp (S.L. 123.113)
 
-*1*
-
-G}AR-RI~ERKA, INNOVAZZJONI U |VILUPP [L.S.123.113
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.113**
 
 **REGOLI DWAR DONAZZJONIJIET LIT-TRUST**

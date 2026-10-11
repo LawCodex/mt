@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts - M.A. - taħt il-patroċinju tal-iskola tal-Arti Performattiva (S.L. 327.482)
 
-*1*
-
-PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA [L.S.327.482
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.482**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -69,9 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (a) grad ta’ Bachelor miksub tal-anqas fit-Tieni Klassi bl- Unuri jew aħjar fl-istess qasam jew f’qasam ta’ studju relatat mill-qrib mal-qasam ta’ studju li qegħdin japplikaw għalih; jew
 
-*2*
-
-[L.S.327.482 PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA (b) grad ta’ Bachelor fl-istess qasam jew f’qasam ta’ studju relatat mill-qrib mal-qasam ta’ studju li qegħdin japplikaw għalih, b’marka medja ta’ mhux anqas minn 65% f’dak il-qasam ta’ studju; jew
+(b) grad ta’ Bachelor fl-istess qasam jew f’qasam ta’ studju relatat mill-qrib mal-qasam ta’ studju li qegħdin japplikaw għalih, b’marka medja ta’ mhux anqas minn 65% f’dak il-qasam ta’ studju; jew
 
 (ċ) grad mill-Università ta’ Malta jew università ohra, li l- Bord jikkunsidra bħala komparabbli għal kwalunkwe wieħed mill-gradi indikati fil-paragrafu (1)(a) u (b) ta’ dan l-ordinament; jew
 
@@ -99,11 +93,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju full-time jew l-ekwival
 
 (1) (a) Il-programmi ta’ studju prinċipalment mgħallma jikkonsistu minn taqsimiet studju mgħallma li għalihom hemm assenjati total ta’ 60 kredtu ECTs u taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 30 kredtu ECTs.
 
-(b) L-istudenti li jiksbu s-60 kredtu ECTs assenjati għat- PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA [L.S.327.482
-
-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal- Postgraduate Diploma fil-qasam ta’ studju rilevanti. (2) Il-programmi ta’ studju prinċipalment bir-riċerka jikkonsistu minn taqsimiet studju mgħallma li għalihom hemm assenjati 10 kredtti ECTs u taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 80 kredtu ECTs.
-
-*3*
+(b) L-istudenti li jiksbu s-60 kredtu ECTs assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal- Postgraduate Diploma fil-qasam ta’ studju rilevanti. (2) Il-programmi ta’ studju prinċipalment bir-riċerka jikkonsistu minn taqsimiet studju mgħallma li għalihom hemm assenjati 10 kredtti ECTs u taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 80 kredtu ECTs.
 
 ## 9. Pubblikazzjoni tal-programmi ta’ studju.
 
@@ -131,11 +121,7 @@ Il-programmi ta’ studju għandhom ikunu ppubblikati mill- Bord wara l-approvaz
 
 (1) Fi programmi ta’ studju prinċipalment bir-riċerka, l-istudenti huma meħtieġa:
 
-(a) jippreżentaw dissertazzjoni ta’ massimu ta’ 50,000 [L.S.327.482 PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA
-
-kelma skont il-linji gwida maħruġin mill-Bord; jew (b) jippreżentaw preżentazzjoni ta’ prattika artistika kif ukoll dissertazzjoni ta’ massimu ta’ 30,000 kelma skont il-linji gwida maħruġin mill-Bord.
-
-*4*
+(a) jippreżentaw dissertazzjoni ta’ massimu ta’ 50,000 kelma skont il-linji gwida maħruġin mill-Bord; jew (b) jippreżentaw preżentazzjoni ta’ prattika artistika kif ukoll dissertazzjoni ta’ massimu ta’ 30,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
 (2) Ix-xogħol fuq id-dissertazzjoni jista’ jsir fi kwalunkwe żzmien matul il-kors, wara l-approvazzjoni tal-proposta. L-istudenti jkunu assenjati superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 

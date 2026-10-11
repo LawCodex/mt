@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Estensjoni ta' l-Avviż ta Mard Infettiv jew Kontaġjuż (S.L. 36.35)
 
-ESTENSJONI TA’ L-AVVI| TA’ MARD
-
-INFETTIV JEW KONTA{JU| [ L.S.36.35
-
 **LE{ISLAZZJONI SUSSIDJARJA 36.35**
 
 **ORDNI DWAR L-ESTENSJONI TA’ L-AVVI| TA’**

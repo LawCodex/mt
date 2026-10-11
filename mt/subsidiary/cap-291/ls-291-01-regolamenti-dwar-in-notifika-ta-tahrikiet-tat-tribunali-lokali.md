@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar in-Notifika ta' Taħrikiet tat-Tribunali Lokali"
-identifier: "S.L. 291.1"
+identifier: "S.L. 291.01"
 eli: "https://legislation.mt/eli/sl/291.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/291.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar in-Notifika ta' Taħrikiet tat-Tribunali Lokali (S.L. 291.1)
+# Regolamenti dwar in-Notifika ta' Taħrikiet tat-Tribunali Lokali (S.L. 291.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 291.01**
 

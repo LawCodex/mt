@@ -1,6 +1,6 @@
 ---
 title: "Avviż għall-finijiet ta l-Att dwar l-Għoti ta Artijiet tar-Renju Unit"
-identifier: "S.L. 193.1"
+identifier: "S.L. 193.01"
 eli: "https://legislation.mt/eli/sl/193.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/193.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Avviż għall-finijiet ta l-Att dwar l-Għoti ta Artijiet tar-Renju Unit (S.L. 193.1)
+# Avviż għall-finijiet ta l-Att dwar l-Għoti ta Artijiet tar-Renju Unit (S.L. 193.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 193.01**
 

@@ -17,9 +17,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kummerċ ta’ Prodotti Agrikoli u Swieq għall-Kummerċ ta’ Prodotti Agrikoli (S.L. 117.43)
 
-*1*
-
-GĦALL-KUMMERĊ TA’ PRODOTTI AGRIKOLI [L.S.117.43 LEĠISLAZZJONI SUSSIDJARJA 117.43
+**LEĠISLAZZJONI SUSSIDJARJA 117.43**
 
 **REGOLAMENTI DWAR IL-KUMMERĊ TA’**
 
@@ -63,10 +61,6 @@ imiss skont l-Att dwar is-Soċjetajiet Koperativi;
 Kap. 442.  
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 80 tal-2025.
 
-*2*
-
-[L.S. 117.43 GĦALL-KUMMERĊ TA’ PRODOTTI AGRIKOLI
-
 "negozjant" tfisser kull persuna li tinnegozja jew li hi kkonċernata fi, jew twettaq, kwalunkwe att ta’ kummerċ relatat mal-importazzjoni, bejgħ bl-imnut minn ħanut jew fit-toroq, skambju jew disponiment ta’ prodotti agrikoli, iżda ma tinkludix bidwi jew min irabbi l-annimali;
 
 "persuna" tfisser persuna fiżika, korp magħqud, kemm korporattiv u kemm mhux korporattiv, jew assoċjazzjoni;
@@ -91,11 +85,11 @@ L-Aġenzija tista’, bil-miktub, tawtorizza kwalunkwe uffiċjal pubbliku jew im
 
 (a) jidħlu u jispezzjonaw kwalunkwe mill-posti li jinsabu ġo suq għall-kummerċ fejn isir in-negozju ta’ prodotti agrikoli lokali;
 
-(b) jispezzjonaw u jikkupjaw kwalunkwe dokument, rekords jew xi informazzjoni oħra li għaliha jistgħu japplikaw dawn ir-regolamenti, fi kwalunkwe forma miżmumin, u jittieħdu sabiex jiġu kkupjati jew jeħtieġu rekords diġitali li jkunu prodotti f’forma li tista’ tkun faċilment aċċessibbli sabiex tittieħed mill-uffiċjal jew, jaqbdu kwalunkwe artiklu, jew oġġett konness jew li jista’ jinġieb bħala prova li jkun twettaq reat. GĦALL-KUMMERĊ TA’ PRODOTTI AGRIKOLI [L.S.117.43 TAQSIMA II
+(b) jispezzjonaw u jikkupjaw kwalunkwe dokument, rekords jew xi informazzjoni oħra li għaliha jistgħu japplikaw dawn ir-regolamenti, fi kwalunkwe forma miżmumin, u jittieħdu sabiex jiġu kkupjati jew jeħtieġu rekords diġitali li jkunu prodotti f’forma li tista’ tkun faċilment aċċessibbli sabiex tittieħed mill-uffiċjal jew, jaqbdu kwalunkwe artiklu, jew oġġett konness jew li jista’ jinġieb bħala prova li jkun twettaq reat.
+
+## TAQSIMA II
 
 Swieq għall-Kummerċ ta’ Prodotti Agrikoli: Amministrazzjoni,
-
-*3*
 
 **Attività Kummerċjali u Restrizzjonijiet**
 
@@ -134,10 +128,6 @@ Ebda bidwi ma għandu jikkonsenja għall-bejgħ fis-suq għall-kummerċ, prodott
 (4) L-Aġenzija tista’ toħroġ standards u għandha wkoll tiddetermina:
 
 (a) liema dugħ standardizzati jkunu ġew approvati għall-użu fis-suq għall-kummerċ;
-
-*4*
-
-[L.S. 117.43 GĦALL-KUMMERĊ TA’ PRODOTTI AGRIKOLI
 
 (b) liema prodott agrikolu lokali li jidħol jew joħroġ mis-suq għall-kummerċ għandu jinġarr fl-imsemmija dugħ standardizzati;
 
@@ -185,11 +175,9 @@ F’din it-Taqsima:
 
 (ċ) jiffissa l-ogħla perċentwali ta’ qligħ.
 
-*5*
-
-GĦALL-KUMMERĊ TA’ PRODOTTI AGRIKOLI [L.S.117.43 (3) Kull negozjant għandu, jekk ikun hekk meħtieġ mid- Direttur jew minn xi membru tal-Pulizija Eżekuttiva jew minn xi persuna maħtura skont l-artikolu 4 tal-Att dwar il-Provvisti u s- Servizzi, jew minn xi membru ta’ korp ta’ persuni hekk maħtur, jipproduċi meta hekk mitlub sabiex jiġi eżaminat kull ktieb u dokument li jkunu fil-pussess tiegħu u li jagħtih kull informazzjoni f’dik il-forma u f’dak iż-żmien kif jiġi speċifikat fit-talba.
-
 *   Kap. 117.*
+
+(3) Kull negozjant għandu, jekk ikun hekk meħtieġ mid- Direttur jew minn xi membru tal-Pulizija Eżekuttiva jew minn xi persuna maħtura skont l-artikolu 4 tal-Att dwar il-Provvisti u s- Servizzi, jew minn xi membru ta’ korp ta’ persuni hekk maħtur, jipproduċi meta hekk mitlub sabiex jiġi eżaminat kull ktieb u dokument li jkunu fil-pussess tiegħu u li jagħtih kull informazzjoni f’dik il-forma u f’dak iż-żmien kif jiġi speċifikat fit-talba.
 
 (4) Id-Direttur jista’, fir-rigward ta’ kull prodott agrikolu, jimponi kwalunkwe kundizzjoni kif jidhirlu xieraq dwar il-bejgħ, il-limitazzjoni u l-projbizzjoni tal-bejgħ tiegħu.
 
@@ -219,11 +207,7 @@ Ebda negozjant ma għandu jixtri prodotti agrikoli mingħand persuna mhux magħr
 
 ### 21. Projbizzjoni ta’ rifjut ta’ bejgħ mingħajr raġuni valida.
 
-Ebda negozjant li jbigħ prodotti agrikoli bl-ingrossa ma għandu, mingħajr raġuni valida, jirrifjuta li jbigħ fi kwantitajiet raġonevoli lil kull persuna li tinnegozja bl-imnut kull prodott agrikolu meħtieġ b’rabta mal-kummerċ tagħha, u ebda persuna li tinnegozja bl-imnut ma għandha, mingħajr raġuni valida, tirrifjuta li tbigħ lil kull konsumatur prodotti agrikoli fi kwantitajiet li raġonevolment ikunu [L.S. 117.43 GĦALL-KUMMERĊ TA’ PRODOTTI AGRIKOLI
-
-meħtieġa għall-użu u konsum normali tal-konsumatur jew tad-dar tiegħu jew tal-istabbiliment tiegħu:
-
-*6*
+Ebda negozjant li jbigħ prodotti agrikoli bl-ingrossa ma għandu, mingħajr raġuni valida, jirrifjuta li jbigħ fi kwantitajiet raġonevoli lil kull persuna li tinnegozja bl-imnut kull prodott agrikolu meħtieġ b’rabta mal-kummerċ tagħha, u ebda persuna li tinnegozja bl-imnut ma għandha, mingħajr raġuni valida, tirrifjuta li tbigħ lil kull konsumatur prodotti agrikoli fi kwantitajiet li raġonevolment ikunu meħtieġa għall-użu u konsum normali tal-konsumatur jew tad-dar tiegħu jew tal-istabbiliment tiegħu:
 
 Iżda ebda ħaġa f’dan ir-regolament ma għandha żżomm lil kwalunkwe konsumatur milli jixtri direttament mingħand negozjant li jbigħ bl-ingrossa.
 
@@ -255,11 +239,9 @@ Iżda meta l-multa hija hekk ikkalkulata, ma tistax tkun iżjed mis-somma għal 
 
 (2) Minbarra l-penalitajiet imsemmija fis-subregolament (1), il-qorti għandha, meta mitluba mill-prosekuzzjoni, tordna:
 
-(a) is-sospensjoni tal-permess, biljett, jew liċenza tal-persuna misjuba ħatja, għal perjodu ta’ mhux inqas minn xahar GĦALL-KUMMERĊ TA’ PRODOTTI AGRIKOLI [L.S.117.43 (1) iżda li ma jaqbiżx sitt (6) xhur, jew it-tħassir ta’ kull liċenza tagħha u relatata ma’ xi kummerċ jew negozju li għalih ikun jirreferi r-reat, u għandha tordna li kull liċenza hekk imħassra ma tistax terġa’ tinħareġ lill-persuna misjuba ħatja;
+(a) is-sospensjoni tal-permess, biljett, jew liċenza tal-persuna misjuba ħatja, għal perjodu ta’ mhux inqas minn xahar (1) iżda li ma jaqbiżx sitt (6) xhur, jew it-tħassir ta’ kull liċenza tagħha u relatata ma’ xi kummerċ jew negozju li għalih ikun jirreferi r-reat, u għandha tordna li kull liċenza hekk imħassra ma tistax terġa’ tinħareġ lill-persuna misjuba ħatja;
 
 (b) tordna l-konfiska tal-oġġetti relatati mar-reat, u dawn l-oġġetti għadhom ikunu konfiskati favur il-Gvern;
-
-*7*
 
 (ċ) tikkundanna l-ħati għal perjodu ta’ priġunerija ta’ mhux inqas minn tletin (30) ġurnata iżda li ma jaqbiżxsentejn (2).
 
@@ -286,10 +268,6 @@ Id-dispożizzjonijiet tal-Att dwar il-Probation ma għandhomx japplikaw għal xi
 Il-qorti, li permezz tagħha persuna tinstab ħatja talli biegħet xi prodotti agrikoli bi prezz mhux xieraq jew bi prezz ogħla mill-prezz massimu ta’ dawk il-prodotti agrikoli, tista’ tordna lill-persuna misjuba ħatja sabiex tirrifondi lill-persuna li tkun xtrat dawk il-prodotti agrikoli dak il-porzjon tal-prezz imħallas żejjed jew dak l-ammont li kien iżjed mill-prezz massimu stabbilit mid-Direttur:
 
 Iżda dik ir-rifużjoni għandha tingħata fi żmien xahar (1) mill-ordni tal-qorti:
-
-*8*
-
-[L.S. 117.43 GĦALL-KUMMERĊ TA’ PRODOTTI AGRIKOLI
 
 Iżda wkoll penali għal kull ġurnata ta’ mhux inqas minn erba’ euro u sitta u sittin ċenteżmu (€4.66) għandha tiżdied għal kull ġurnata ta’ inadempjenza mill-ordni tal-qorti:
 

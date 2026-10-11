@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Kooperazzjoni ma’ Ġurisdizzjonijiet Oħra fuq Kwistjonijiet ta’ Taxxa (S.L. 123.127)
 
-*1*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.127**
 
 **REGOLAMENTI DWAR KOPERAZZJONI MA’**
@@ -64,11 +60,7 @@ F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra -
 
 (e) jeħtieġ reġistrazzjoni, liċenza jew xort’oħra ta’ awtorizzazzjoni sabiex imexxi n-negozju f’Malta;
 
-"Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva" tfisser id- [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-Direttiva tal-Kunsill 2011/16/UE tal- 15 ta' Frar 2011 dwar il-kooperazzjoni amministrattiva fil-qasam tat-tassazzjoni u li tħassar id- Direttiva 77/799/KEE kif emendata bid-Direttiva tal-Kunsill 2014/107/ UE, u bid-Direttivi tal-Kunsill (UE) 2015/2376, 2016/881, 2018/822, 2020/876, 2021/514, 2023/2226 u 2025/872;
-
-*2*
+"Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva" tfisser id- Direttiva tal-Kunsill 2011/16/UE tal- 15 ta' Frar 2011 dwar il-kooperazzjoni amministrattiva fil-qasam tat-tassazzjoni u li tħassar id- Direttiva 77/799/KEE kif emendata bid-Direttiva tal-Kunsill 2014/107/ UE, u bid-Direttivi tal-Kunsill (UE) 2015/2376, 2016/881, 2018/822, 2020/876, 2021/514, 2023/2226 u 2025/872;
 
 "express trust" tfisser trust maħluq volontarjament u b’intenzjoni, jew verbalment jew b’dokument miktub -
 
@@ -90,10 +82,6 @@ Direttiva tal-Kunsill 2011/16/UE tal- 15 ta' Frar 2011 dwar il-kooperazzjoni amm
 
 "rappreżentant awtorizzat" tfisser kull uffiċjal li huwa awtorizzat permezz ta’ arranġament sabiex jiskambja informazzjoni b’mod dirett;
 
-*3*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
 "sid benefiċjarju" tfisser il-persuna jew persuni fiżiċi li finalment ikunu jippossjedu jew jikkontrollaw lill-klijent u, jew il-persuna jew persuni fiżiċi li f’isimhom tkun qegħda ssir xi operazzjoni jew attività, u:
 
 (a) fil-każ ta’ entità, is-sid benefiċjarju jkun jikkonsisti f’persuna jew persuni fiżiċi li finalment ikunu jippossjedu jew jikkontrollaw lil dik l-entità permezz ta’ pussess dirett jew indirett ta’ ħamsa u għoxrin fil-mija (25%) u sehem (1) jew aktar tal-ishma jew iżjed minn ħamsa u għoxrin fil-mija (25%) tal-jeddijiet tal-votazzjoni jew interess ta’ pussess ta’ iktar minn ħamsa u għoxrin fil-mija (25%) f’dik l-entità, inkluż permezz ta’ parteċipazzjoni azzjonarja bearer, jew permezz ta’ kontroll b’mezzi oħra, li ma tkunx kumpannija elenkata fuq suq regolat li jkun soġġett għal ħtiġiet ta’ żvelar konsistenti mal-leġiżlazzjoni tal- Unjoni Ewropea jew standards internazzjonali ekwivalenti li jiżguraw trasparenza adegwata ta’ informazzjoni dwar il-pussess:
@@ -114,11 +102,7 @@ Iżda wkoll jekk, wara li jkunu ġew eżawriti l-mezzi kollha possibbli u sakemm
 
 (v) f’kull persuna fiżika oħra li tkun qegħda teżerċita kontroll finali fuq it-trust permezz ta’ pussess dirett jew indirett jew b’mezzi oħra;
 
-(ċ) fil-każ ta’ entitajiet ġuridiċi bħal ma huma fondazzjonijiet, u arranġamenti ġuridiċi simili għal trusts, is-sid benefiċjarju jkun jikkonsisti fil-persuna jew persuni fiżiċi li jkollhom pożizzjonijiet ekwivalenti għal [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-dawk imsemmija fil-paragrafu (b);
-
-*4*
+(ċ) fil-każ ta’ entitajiet ġuridiċi bħal ma huma fondazzjonijiet, u arranġamenti ġuridiċi simili għal trusts, is-sid benefiċjarju jkun jikkonsisti fil-persuna jew persuni fiżiċi li jkollhom pożizzjonijiet ekwivalenti għal dawk imsemmija fil-paragrafu (b);
 
 "skema ta’ investiment kollettiv pubblika" tfisser kwalunkwe skema ta’ investment kollettiv sakemm l-unitajiet, ishma jew xi interessi oħra fl-iskema, jistgħu jiġu faċilment mixtrija, mibjugħa jew mifdija mill-pubbliku. Unitajiet, ishma jew xi interessi oħra fl-iskema jistgħu jiġu faċilment mixtrija, mibjugħa jew mifdija "mill-pubbliku" jekk ix-xiri, bejgħ jew fidwa m’humiex ristretti, b’mod impliċitu jew espliċitu, għal grupp limitat ta’ investituri;
 
@@ -126,52 +110,35 @@ dawk imsemmija fil-paragrafu (b);
 
 "talba dwar grupp" tfisser talba għal informazzjoni dwar grupp ta’ persuni soġġetti għat-taxxa, mingħajr ma dawn il-persuni jkunu msemmija individwalment: iżda tali talba ma tikkostitwix fishing expedition, jiġifieri t-talba ma tkunx fil-forma ta’ talba spekulattiva li ma jkollhiex rabta evidenti ma’ inkjesta miftuħa jew investigazzjoni;
 
-"taxxa" għandha l-istess tifsira kif mogħti lilha f’dak l-
+"taxxa" għandha l-istess tifsira kif mogħti lilha f’dak l-arranġament rilevanti u li huwa fis-seħħ ma’ ġurisdizzjoni oħra;
 
-arranġament rilevanti u li huwa fis-seħħ ma’ ġurisdizzjoni oħra;  
-"warrants dwar azzjonijiet" tfisser warrant lill-portatur imsemmi  
-Kap. 386.  fl-artikolu 121 tal-Att dwar il-Kumpanniji.  
-Għan ta’ dawn ir-  3.  Dawn ir-regolamenti għandhom japplikaw sabiex tiġi  
-regolamenti.  
-żgurata l-kooperazzjoni effettiva fuq kwistjonijiet ta’ taxxa ma’  
-Sostitwit:  
-A.L. 384 tal-2015.  ġurisdizzjonijiet oħra fejn hemm fis-seħħ arranġamenti li  
-jippermettu din il-kooperazzjoni u għandhom hekk jiftiehmu. Tali  
-kooperazzjoni għandha tinkludi l-iskambju ta’ informazzjoni  
-relatata ma’ talba dwar grupp.  
-Disponibbiltà ta’  4. (1) Entitajiet għandhom iżommu informazzjoni aġġornata  
-informazzjoni  
-li tidentifika s-sidien tagħhom u l-livell u t-tip tas-sehem rispettiv  
-dwar sidien.  
-Emendat:  tagħhom fl-istess entitajiet, inkluża informazzjoni dwar is-sidien  
-A.L. 472 tal-2012;  legali u benefiċjarji. Din l-imsemmija informazzjoni għandha tkun  
-A.L. 344 tal-  
-aġġornata u dokumentata mhux iktar tard minn erbatax-il jum mid-  
-2017;  
-A.L. 213 tal-2021.  data li l-istess entità tkun ġiet innotifikata jew mid-data li l-entità  
-ssir taf li hemm sid ġdid jew li hemm xi tibdil li għandu x’jaqsam  
-mas-sidien attwali. Għall-finijiet ta’ dawn ir-regolamenti, "sidien"  
-tinkludi -  
-(a) fil-każ ta’ kumpannija, soċjetà u kull xort’oħra ta’  
-korp ta’ persuni (li ma tkunx fondazzjoni), is-sidien  
-legali u s-sidien benefiċjarji; u  
-(b) fil-każ ta’ fondazzjoni, l-fundaturi tagħhom, l-  
-amministraturi, il-membri tal-kunsill tas-superviżjoni  
-u l-benefiċjarji (fejn applikabbli), kif ukoll kwalunkwe  
-persuna oħra li għandha l-awtorità biex tirrappreżenta  
-l-fondazzjoni;  
-(ċ) għall-finijiet tal-paragrafu (a) jew (b) hawn fuq, it-tifsira  
-"benefiċjarji" għandha tfisser kemm il-benefiċjarji kif  
-identifikati skont l-artikolu 2(1) tal-Att dwar Trusts u  
-Trustees u sidien benefiċjarji kif imfissra fir-regolament  
-2 ta’ dawn ir-regolamenti.  
-Kap. 331.  
-(2)  Id-dispożizzjonijiet tas-subregolament (1) ma japplikawx  
-għal:
+*Kap. 386.*
 
-*5*
+"warrants dwar azzjonijiet" tfisser warrant lill-portatur imsemmi fl-artikolu 121 tal-Att dwar il-Kumpanniji.
 
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 (a) kumpannija nnegozjata pubblikament: iżda fil-każ ta’ kumpannija nnegozjata pubblikament li hija residenti f’Malta jew imwaqqfa taħt il-liġi ta’ Malta, l-informazzjoni dwar is-sidien fir-rigward tal-istess kumpannija li hija meħtieġa, għandha tkun miżmuma jew mill-kumpannija stess jew minn depożitarju ċentrali tat-titoli residenti f’Malta. Għall-finijiet ta’ dan il-paragrafu, "depożitarju ċentrali tat-titoli" għandha t-tifsira mogħtija lilha fl-artikolu 2 tal-Att dwar is-Swieq Finanzjarji; u
+### 3. Għan ta’ dawn ir-regolamenti.
+
+*Sostitwit: A.L. 384 tal-2015.*
+
+Dawn ir-regolamenti għandhom japplikaw sabiex tiġi żgurata l-kooperazzjoni effettiva fuq kwistjonijiet ta’ taxxa ma’ ġurisdizzjonijiet oħra fejn hemm fis-seħħ arranġamenti li jippermettu din il-kooperazzjoni u għandhom hekk jiftiehmu. Tali kooperazzjoni għandha tinkludi l-iskambju ta’ informazzjoni relatata ma’ talba dwar grupp.
+
+### 4. Disponibbiltà ta’ informazzjoni dwar sidien.
+
+*Emendat: A.L. 472 tal-2012; A.L. 344 tal- 2017; A.L. 213 tal-2021.*
+
+(1) Entitajiet għandhom iżommu informazzjoni aġġornata li tidentifika s-sidien tagħhom u l-livell u t-tip tas-sehem rispettiv tagħhom fl-istess entitajiet, inkluża informazzjoni dwar is-sidien legali u benefiċjarji. Din l-imsemmija informazzjoni għandha tkun aġġornata u dokumentata mhux iktar tard minn erbatax-il jum mid-data li l-istess entità tkun ġiet innotifikata jew mid-data li l-entità ssir taf li hemm sid ġdid jew li hemm xi tibdil li għandu x’jaqsam mas-sidien attwali. Għall-finijiet ta’ dawn ir-regolamenti, "sidien" tinkludi -
+
+(a) fil-każ ta’ kumpannija, soċjetà u kull xort’oħra ta’ korp ta’ persuni (li ma tkunx fondazzjoni), is-sidien legali u s-sidien benefiċjarji; u
+
+(b) fil-każ ta’ fondazzjoni, l-fundaturi tagħhom, l-amministraturi, il-membri tal-kunsill tas-superviżjoni u l-benefiċjarji (fejn applikabbli), kif ukoll kwalunkwe persuna oħra li għandha l-awtorità biex tirrappreżenta l-fondazzjoni;
+
+(ċ) għall-finijiet tal-paragrafu (a) jew (b) hawn fuq, it-tifsira "benefiċjarji" għandha tfisser kemm il-benefiċjarji kif identifikati skont l-artikolu 2(1) tal-Att dwar Trusts u Trustees u sidien benefiċjarji kif imfissra fir-regolament 2 ta’ dawn ir-regolamenti.
+
+*Kap. 331.*
+
+(2) Id-dispożizzjonijiet tas-subregolament (1) ma japplikawx għal:
+
+(a) kumpannija nnegozjata pubblikament: iżda fil-każ ta’ kumpannija nnegozjata pubblikament li hija residenti f’Malta jew imwaqqfa taħt il-liġi ta’ Malta, l-informazzjoni dwar is-sidien fir-rigward tal-istess kumpannija li hija meħtieġa, għandha tkun miżmuma jew mill-kumpannija stess jew minn depożitarju ċentrali tat-titoli residenti f’Malta. Għall-finijiet ta’ dan il-paragrafu, "depożitarju ċentrali tat-titoli" għandha t-tifsira mogħtija lilha fl-artikolu 2 tal-Att dwar is-Swieq Finanzjarji; u
 
 *Kap. 345.*
 
@@ -191,11 +158,7 @@ Iżda li d-dispożizzjonijiet tal-paragrafu preċedenti għandhom jibqgħu fis-s
 
 (4) (a) Trustees stabbiliti taħt il-liġijiet ta’ Malta jew li huma residenti f ’Malta għandhom jieħdu kull miżura raġonevoli sabiex jiġi żgurat li tinżamm informazzjoni aġġornata li tidentifika lis-settlor, lil trustees oħra, lil protettur (jekk ikun hemm) u l-benefiċjarji ta’ express trusts, (sew jekk il-liġi proprja ta’ dawn it-trusts tkun il-liġi ta’ Malta jew ta’ xi imkien ieħor).
 
-(b) Persuni li huma stabbiliti taħt il-liġi ta’ Malta jew li huma residenti f’Malta u li huma fdati bl-amminstrazzjoni ta’ express trusts (sew jekk il-liġi [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-proprja tal-istess trust hija l-liġi ta’ Malta jew band’oħra) għandu jkollhom l-istess obbligi kif jinsabu taħt il-paragrafu (a).
-
-*6*
+(b) Persuni li huma stabbiliti taħt il-liġi ta’ Malta jew li huma residenti f’Malta u li huma fdati bl-amminstrazzjoni ta’ express trusts (sew jekk il-liġi proprja tal-istess trust hija l-liġi ta’ Malta jew band’oħra) għandu jkollhom l-istess obbligi kif jinsabu taħt il-paragrafu (a).
 
 (5) Informazzjoni li tidentifika persuna tinkludi -
 
@@ -241,11 +204,9 @@ proprja tal-istess trust hija l-liġi ta’ Malta jew band’oħra) għandu jkol
 
 (10) Records tal-kontijiet għandhom jinżammu f’Malta. Iżda, l-istess records jistgħu jinżammu f ’ġurisdizzjoni li għandha arranġament fis-seħħ ma’ Malta, liema arranġement jippermetti l-iskambju ta’ informazzjoni fir-rigward tal-istess records.
 
-*7*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 (11) Banek li huma meqjusa bħala entitajiet għall-finijiet ta’ dawn ir-regolamenti għandhom jiżguraw li tinżamm informazzjoni bankarja ta’ kwalunkwe detentur ta’ kontijiet bankarji fir-rigward tal-attività bankarja tagħhom f’Malta.Għall-finijiet ta’ dawn ir-regolamenti, "informazzjoni bankarja" tinkludi:
-
 *Disponibbiltà ta’ informazzjoni bankarja. Emendat: A.L. 213 tal-2021.*
+
+(11) Banek li huma meqjusa bħala entitajiet għall-finijiet ta’ dawn ir-regolamenti għandhom jiżguraw li tinżamm informazzjoni bankarja ta’ kwalunkwe detentur ta’ kontijiet bankarji fir-rigward tal-attività bankarja tagħhom f’Malta.Għall-finijiet ta’ dawn ir-regolamenti, "informazzjoni bankarja" tinkludi:
 
 (a) informazzjoni li tidentifika is-sidien legali tal-kontijiet;
 
@@ -268,10 +229,6 @@ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 (11) Banek li huma meqjusa bħala ent
 *Miżjud: A.L. 213 tal-2021. Emendat: A.L. 50 tal-2022.*
 
 (1) Il-Kummissarju jista’ javża bil-miktub lil kull persuna sabiex din tgħaddilu, fi żmien raġonevoli li jissemma’ f’dak l-avviż u li ma jkunx wieħed inqas minn għoxrin ġurnata, dik l-informazzjoni li tista’ tkun meħtieġa sabiex jivverifika li dik il-persuna qed tikkonforma mal-obbligi stabbiliti f’dawn ir-regolamenti. Dawn l- avviżi għandhom jintbagħtu lil dik il-persuna jew b’mezzi elettroniċi lil indirizz tal-email verifikat ta’ dik il-persuna jew mibgħuta bil-posta fl-indirizz irreġistrat tal-persuna. Fejn kwalunkwe informazzjoni mitluba ma tiġix sottomessa lill- Kummissarju, fil-limitu ta’ żmien speċifikat fl-avviż, il-persuna tkun suġġetta għal penali ta’ mhux inqas minn ħames mitt euro (€500) u li ma taqbiżx id-dsatax-il elf mitejn u ħamsin euro (€19,250):
-
-*8*
-
-[L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 Iżda fejn il-Kummissarju ikun sodisfatt li n- nuqqas li fir-rigward tiegħu ġew imposti l-pieni kienu ġustifikabbli, il- Kummissarju jista’ jaħfer il-penali kollha jew parti minnha kif hu jidhirlu xieraq. F’kull każ il-Kummissarju għandu jinforma lill-persuna msemmija b’dan.
 
@@ -303,11 +260,7 @@ Iżda l-ebda persuna ma tista’ tintalab tipprovdi informazzjoni li hija s-suġ
 
 *Kap. 372.*
 
-(2) Minbarra s-setgħat taħt l-artikolu 10A tal-Att dwar l- Amministrazzjoni tat-Taxxa, l-Kummissarju jista’ juża kull setgħa oħra li għandu fir-rigward ta’ ġbir ta’ informazzjoni taħt l-Atti dwar it-Taxxi, inkluż dawk taħt id-dispożizzjonijiet tal-artikolu 20 tal-Att dwar l-Amministrazzjoni tat-Taxxa biex jikseb l-informazzjoni mitluba mill-awtorità kompetenti ta’ ġurisdizzjoni oħra, minkejja illi l-istess informazzjoni ma tkunx meħtieġa għall- FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-finijiet tal-Atti dwar it-Taxxi.
-
-*9*
+(2) Minbarra s-setgħat taħt l-artikolu 10A tal-Att dwar l- Amministrazzjoni tat-Taxxa, l-Kummissarju jista’ juża kull setgħa oħra li għandu fir-rigward ta’ ġbir ta’ informazzjoni taħt l-Atti dwar it-Taxxi, inkluż dawk taħt id-dispożizzjonijiet tal-artikolu 20 tal-Att dwar l-Amministrazzjoni tat-Taxxa biex jikseb l-informazzjoni mitluba mill-awtorità kompetenti ta’ ġurisdizzjoni oħra, minkejja illi l-istess informazzjoni ma tkunx meħtieġa għall-finijiet tal-Atti dwar it-Taxxi.
 
 (3) L-awtorità kompetenti f’Malta għandha tieħu ħsieb l-arranġamenti għat-twettiq ta’ kwalunkwe indaġni amministrattiva meħtieġa sabiex tinkiseb l-informazzjoni mitluba mill-awtorità rikjedenti. It-talba tista’ tinkludi talba motivata għal indaġni amministrattiva. Jekk l-awtorità kompetenti f’Malta tkun tal-fehma li ma tkun meħtieġa l-ebda indaġni amministrattiva, hija għandha minnufih tinnotifika lill-awtorità rikjedenti bir-raġunijiet tagħha.
 
@@ -339,11 +292,7 @@ finijiet tal-Atti dwar it-Taxxi.
 
 Iżda l-penali skond dan il-paragrafu ma tistax teċċedi fit-total dsatax-il elf, mitejn u ħamsin euro (€19,250).
 
-(2) Meta l-persuna tonqos milli turi li l-informazzjoni nżammet jew ġiet aġġornata kif suppost, kif meħtieġ taħt dawn ir-regolamenti, il-persuna li kellha l-obbligu li żżomm jew taġġorna tali informazzjoni [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-tkun suġġetta għal penali ta’ dsatax-il elf, mitejn u ħamsin euro (€19,250).
-
-*10*
+(2) Meta l-persuna tonqos milli turi li l-informazzjoni nżammet jew ġiet aġġornata kif suppost, kif meħtieġ taħt dawn ir-regolamenti, il-persuna li kellha l-obbligu li żżomm jew taġġorna tali informazzjoni tkun suġġetta għal penali ta’ dsatax-il elf, mitejn u ħamsin euro (€19,250).
 
 (3) Minkejja kull azzjoni li tista’ tittieħed skont id-dispożizzjonijiet tas-subregolamenti (1) jew (2), fejn -
 
@@ -371,11 +320,7 @@ il-parti mitluba tkun ħatja ta’ reat u teħel, meta tinstab ħatja, multa ta�
 
 Kull determinazzjoni li tittieħed mill-awtorità kompetenti f ’Malta taħt dan is-subregolament ma tistax tkun rikużata fi kwalunkwe appell.
 
-(2) Minkejja kull dispożizzjoni kuntrarja fil-liġi, kull persuna li tikkonforma ma’ talba taħt dawn ir-regolamenti ma tkunx meqjusa FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-li kisret kwalunkwe restrizzjoni fir-rigward ta’ żvelar ta’ informazzjoni imposta minn xi liġi, kuntratt jew kodiċi ta’ kondotta professjonali. Ħlief kif provdut fir-regolament 6, l-ebda azzjoni ċivili jew kriminali ma tista’ tittieħed kontra xi persuna li tipprovdi informazzjoni skont id-dispożizzjonijiet ta’ dawn ir-regolamenti.
-
-*11*
+(2) Minkejja kull dispożizzjoni kuntrarja fil-liġi, kull persuna li tikkonforma ma’ talba taħt dawn ir-regolamenti ma tkunx meqjusa li kisret kwalunkwe restrizzjoni fir-rigward ta’ żvelar ta’ informazzjoni imposta minn xi liġi, kuntratt jew kodiċi ta’ kondotta professjonali. Ħlief kif provdut fir-regolament 6, l-ebda azzjoni ċivili jew kriminali ma tista’ tittieħed kontra xi persuna li tipprovdi informazzjoni skont id-dispożizzjonijiet ta’ dawn ir-regolamenti.
 
 ### 8. Awtorità kompetenti f’Malta.
 
@@ -405,11 +350,7 @@ Iżda wkoll fejn l-awtorità kompetenti f’Malta ma tistax tipprovdi l-informaz
 
 *Emendat: A.L. 162 tal-2026.*
 
-(1) L-awtorità kompetenti f’Malta għandha tipprovdi lill-awtorità rikjedenti l-informazzjoni mitluba biss jekk l-awtorità rikjedenti tkun eżawriet kull għajn ta’ informazzjoni (inkluż kwalunkwe mezz legalment disponibbli għaliha) li setgħet tuża f’tali ċirkostanzi sabiex tikseb l-informazzjoni mitluba, mingħajr [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-ma tinkorri r-riskju li tikkomprometti l-kisba tal-għanjiet tagħha.
-
-*12*
+(1) L-awtorità kompetenti f’Malta għandha tipprovdi lill-awtorità rikjedenti l-informazzjoni mitluba biss jekk l-awtorità rikjedenti tkun eżawriet kull għajn ta’ informazzjoni (inkluż kwalunkwe mezz legalment disponibbli għaliha) li setgħet tuża f’tali ċirkostanzi sabiex tikseb l-informazzjoni mitluba, mingħajr ma tinkorri r-riskju li tikkomprometti l-kisba tal-għanjiet tagħha.
 
 (2) L-awtorità kompetenti f’Malta tista’ tirrifjuta li tipprovdi l-informazzjoni mitluba fejn:
 
@@ -445,10 +386,6 @@ ma tinkorri r-riskju li tikkomprometti l-kisba tal-għanjiet tagħha.
 
 (a) taxxa fuq il-valur miżjud, dazji tad-dwana u dazji tas-sisa koperti minn liġijiet oħra tal- Unjoni dwar kooperazzjoni amministrattiva bejn l-Istati Membri;
 
-*13*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
 (b) kontribuzzjonijiet obbligatorji tas-sigurtà soċjali li jitħallsu f’Malta;
 
 (ċ) miżati, bħal fil-każ ta’ ċertifikati u dokumenti oħra maħruġa minn awtoritajiet pubbliċi; u
@@ -471,11 +408,7 @@ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
 
 (1) Fuq talba ta’ awtorità kompetenti ta’ Stat Membru tal- UE, l-awtorità kompetenti f ’Malta għandha tikkomunika lill-awtorità rikjedenti kwalunkwe informazzjoni li tidher li hija prevedibbilment rilevanti għall-amministrazzjoni u l-infurzar ta’ liġijiet domestiċi ta’ dak l-Istat Membru dwar it-taxxi msemmija fir-regolament 11(2) li l-awtorità kompetenti f’Malta tkun fil-pussess tagħha u jew li tikseb b’riżultat ta’ indaġnijiet amministrattivi.
 
-(2) Id-dispożizzjonijiet tar-regolamenti 1 sa 10 għandhom [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-japplikaw għall-finijiet tal-iskambju ta’ informazzjoni msemmija fis-subregolament (1).
-
-*14*
+(2) Id-dispożizzjonijiet tar-regolamenti 1 sa 10 għandhom japplikaw għall-finijiet tal-iskambju ta’ informazzjoni msemmija fis-subregolament (1).
 
 (3) Meta speċifikament mitlub minn awtorità rikjedenti ta’ Stat Membru tal-UE, l-awtorità kompetenti f’Malta għandha tibgħat id-dokumenti oriġinali sakemm dan ma jkunx kontra d-dispożizzjonijiet fis-seħħ f’Malta.
 
@@ -499,11 +432,11 @@ japplikaw għall-finijiet tal-iskambju ta’ informazzjoni msemmija fis-subregol
 
 (iv) fejn rilevanti l-fatti u ċ-ċirkostanzi relatati mal-involviment ta’ parti terza li kkontribwiet b’mod attiv għan-nuqqas ta’ konformità potenzjali tal-kontribwenti fil-grupp mal-liġi applikabbli.
 
-*15*
+### 13. Skambju awtomatiku ta’ informazzjoni.
 
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 13. (1) L-awtorità kompetenti f’Malta għandha, permezz ta’ skambju awtomatiku, tikkomunika lill-awtorità kompetenti dwar kwalunkwe Stat Membru ieħor tal-Unjoni Ewropea l-informazzjoni kollha disponibbli li tikkonċerna lir-residenti ta’ dak l-Istat Membru ieħor, dwar il-kategoriji speċifiċi ta’ dħul u ta’ kapital li ġejjin:
+*Miżjud: A.L. 472 tal-2012. Emendat: A.L. 384 tal-2015. Sostitwit: A.L. 400 tal-2016. Emendat: A.L.344 tal-2017; A.L.342 tal-2019; A.L.315 tal-2020; A.L. 18 tal-2025; A.L. 162 tal-2026.*
 
-*Skambju awtomatiku ta’ informazzjoni. Miżjud: A.L. 472 tal-2012. Emendat: A.L. 384 tal-2015. Sostitwit: A.L. 400 tal-2016. Emendat: A.L.344 tal-2017; A.L.342 tal-2019; A.L.315 tal-2020; A.L. 18 tal-2025; A.L. 162 tal-2026.*
+(1) L-awtorità kompetenti f’Malta għandha, permezz ta’ skambju awtomatiku, tikkomunika lill-awtorità kompetenti dwar kwalunkwe Stat Membru ieħor tal-Unjoni Ewropea l-informazzjoni kollha disponibbli li tikkonċerna lir-residenti ta’ dak l-Istat Membru ieħor, dwar il-kategoriji speċifiċi ta’ dħul u ta’ kapital li ġejjin:
 
 (a) dħul minn impjieg;
 
@@ -531,11 +464,7 @@ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 13. (1) L-awtorità kompetenti f’Ma
 
 (ċ) l-isem u n-numru ta’ identifikazzjoni, jekk ikun hemm, tal-Istituzzjoni Finanzjarja Rapportanti;
 
-(d) il-bilanċ tal-kont jew il-valur inkluż, fil-każ ta’ Kuntratt tal-Assigurazzjoni b’Valur fi Flus jew Kuntratt ta’ Annwalità, il-Valur fi Flus jew il-valur ta’ ċessjoni, sa mill-aħħar tas-sena kalendarja rilevanti jew xi perjodu ieħor ta’ rappurtaġġ adatt ieħor jew, FUQ KWISTJONIJIET TA’ TAXXA
-
-jekk il-kont ingħalaq matul tali sena jew perjodu, l-għeluq tal-kont;
-
-*[L.S.123.127 16*
+(d) il-bilanċ tal-kont jew il-valur inkluż, fil-każ ta’ Kuntratt tal-Assigurazzjoni b’Valur fi Flus jew Kuntratt ta’ Annwalità, il-Valur fi Flus jew il-valur ta’ ċessjoni, sa mill-aħħar tas-sena kalendarja rilevanti jew xi perjodu ieħor ta’ rappurtaġġ adatt ieħor jew, jekk il-kont ingħalaq matul tali sena jew perjodu, l-għeluq tal-kont;
 
 (e) fil-każ ta’ Kont ta’ Kustodja:
 
@@ -555,11 +484,7 @@ jekk il-kont ingħalaq matul tali sena jew perjodu, l-għeluq tal-kont;
 
 (k) fil-każ ta’ kwalunkwe Interess ta’ Ekwità miżmum f’Entità ta’ Investiment li jkun arranġament ġuridiku, ir-rwoli li bis-saħħa tagħhom il-Persuna Rapportabbli tkun detentur ta’ Interess ta’ Ekwità:
 
-Iżda għall-finijiet ta’ skambju ta’ informazzjoni taħt dan is-subregolament, sakemm ma jkunx previst xort’oħra f’dan is-subregolament jew fl-Annessi, l-ammont u l-karatterizzazzjoni tal-ħlasijiet magħmula FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-fir-rigward tal-Kontijiet Rapportabbli għandhom jiġu stabbiliti skont il-liġijiet ta’ Malta:
-
-*17*
+Iżda għall-finijiet ta’ skambju ta’ informazzjoni taħt dan is-subregolament, sakemm ma jkunx previst xort’oħra f’dan is-subregolament jew fl-Annessi, l-ammont u l-karatterizzazzjoni tal-ħlasijiet magħmula fir-rigward tal-Kontijiet Rapportabbli għandhom jiġu stabbiliti skont il-liġijiet ta’ Malta:
 
 Iżda wkoll l-ewwel paragrafu ta’ dan is-subregolament għandu jipprevali fuq il-paragrafu (ċ) tas-subregolament (1) jew kwalunkwe strument legali ieħor tal-Unjoni, inkwantu l-iskambju ta’ informazzjoni inkwistjoni jkun jaqa’ fil-kamp tal-applikazzjoni tal-paragrafu (ċ) tas-subregolament (1) jew ta’ kwalunkwe strument legali ieħor tal-Unjoni.
 
@@ -573,11 +498,7 @@ Iżda jekk jinħarġu, jiġu emendati jew jiġġeddu deċiżjonijiet antiċipati
 
 Iżda barra minn hekk jekk jinħarġu, jiġu emendati jew jiġġeddu deċiżjonijiet antiċipati transkonfinali u arranġamenti preliminari ta' prezzijiet ta' trasferiment, bejn l-1 ta’ Jannar 2014 u l-31 ta’ Diċembru 2016, għandha ssir komunikazzjoni ta’ dan it-tip irrispettivament minn jekk dawn ikunux għadhom validi:
 
-Iżda wkoll informazzjoni dwar deċiżjonijiet antiċipati transkonfinali u arranġamenti preliminari ta' prezzijiet ta' trasferiment maħruġa, emendati jew imġedda qabel l-1 ta' April 2016 għal persuna partikolari jew grupp ta' persuni, esklużi dawk li jwettqu prinċipalment attivitajiet finanzjarji jew tal-investiment, li bħala grupp ikollu fatturat nett annwali, kif definit fil-punt (5) tal-Artikolu 2 tad-Direttiva 2013/34/UE, tal- Parlament Ewropew u tal-Kunsill, ta' inqas minn erbgħin miljun euro (€40,000,000), jew l-ammont ekwivalenti f'kwalunkwe munita oħra, fis-sena fiskali ta' qabel id-data tal-ħruġ, emenda jew tiġdid ta' dawk FUQ KWISTJONIJIET TA’ TAXXA
-
-id-deċiżjonijiet antiċipati transkonfinali u arranġamenti preliminari ta' prezzijiet ta' trasferiment għandhom jigu eskluzi mill-komunikazzjoni msemmija f'dan is-subregolament.
-
-*[L.S.123.127 18*
+Iżda wkoll informazzjoni dwar deċiżjonijiet antiċipati transkonfinali u arranġamenti preliminari ta' prezzijiet ta' trasferiment maħruġa, emendati jew imġedda qabel l-1 ta' April 2016 għal persuna partikolari jew grupp ta' persuni, esklużi dawk li jwettqu prinċipalment attivitajiet finanzjarji jew tal-investiment, li bħala grupp ikollu fatturat nett annwali, kif definit fil-punt (5) tal-Artikolu 2 tad-Direttiva 2013/34/UE, tal- Parlament Ewropew u tal-Kunsill, ta' inqas minn erbgħin miljun euro (€40,000,000), jew l-ammont ekwivalenti f'kwalunkwe munita oħra, fis-sena fiskali ta' qabel id-data tal-ħruġ, emenda jew tiġdid ta' dawk id-deċiżjonijiet antiċipati transkonfinali u arranġamenti preliminari ta' prezzijiet ta' trasferiment għandhom jigu eskluzi mill-komunikazzjoni msemmija f'dan is-subregolament.
 
 (ċ) Arranġamenti preliminari ta' prezzijiet ta' trasferiment bilaterali jew multilaterali ma' pajjiżi terzi għandhom jiġu esklużi mill-kamp ta' applikazzjoni tal-iskambju awtomatiku ta' informazzjoni skont dan is-subregolament fil-eventwalità li l-ftehim internazzjonali dwar it-taxxa li skontu kien ġie nnegozjat il-ftehim preliminari ta' prezzijiet ta' trasferiment ma jippermettix l-iżvelar tiegħu lil partijiet terzi. Dawn l-arranġamenti preliminari ta' prezzijiet ta' trasferiment bilaterali jew multilaterali għandhom jiġu skambjati skont ir-regolament 14, fejn il-ftehim internazzjonali dwar it-taxxa li skontu l-arranġament preliminari ta' prezzijiet ta' trasferiment kien ġie nnegozjat jippermetti l-iżvelar tagħha, u l-awtorità kompetenti tal-pajjiż terz tagħti permess biex l-informazzjoni tiġi żvelata:
 
@@ -591,11 +512,7 @@ Iżda fejn tali deċiżjoni antiċipata transkonfinali tkun ġiet mogħtija, eme
 
 (B) id-deċiżjoni antiċipata trans-konfinali tiddetermina jekk persuna tkun jew ma tkunx residenti f’Malta għall-finijiet ta’ taxxa;
 
-(ii) għall-finijiet tal-paragrafu (A) tal-proviso għas-subparagrafu (i) u bla ħsara għall-ammont imsemmi fid-deċiżjoni antiċipata transkonfinali, f’serje ta’ tranżazzjonijiet ta’ oġġetti, servizzi jew assi differenti, l-ammont tad-deċiżjoni antiċipata transkonfinali FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-għandu jinkludi l-valur sottostanti totali. L-ammonti ma għandhomx jiġu aggregati jekk l-istess oġġetti, servizzi jew assi jiġu nnegozjati diversi drabi;
-
-*19*
+(ii) għall-finijiet tal-paragrafu (A) tal-proviso għas-subparagrafu (i) u bla ħsara għall-ammont imsemmi fid-deċiżjoni antiċipata transkonfinali, f’serje ta’ tranżazzjonijiet ta’ oġġetti, servizzi jew assi differenti, l-ammont tad-deċiżjoni antiċipata transkonfinali għandu jinkludi l-valur sottostanti totali. L-ammonti ma għandhomx jiġu aggregati jekk l-istess oġġetti, servizzi jew assi jiġu nnegozjati diversi drabi;
 
 (iii) minkejja d-dispożizzjonijiet tal-paragrafu (B) tal-proviso għas-subparagrafu (i), l-iskambju ta’ informazzjoni dwar deċiżjonijiet antiċipati transkonfinali li jikkonċernaw persuni fiżiċi ma għandux jinkludi tali deċiżjonijiet dwar it-tassazzjoni f’ras l-għajn fir-rigward tal-introjtu ta’ persuni mhux residenti minn impjieg, drittijiet tad-direttur jew pensjonijiet.
 
@@ -614,10 +531,6 @@ għandu jinkludi l-valur sottostanti totali. L-ammonti ma għandhomx jiġu aggre
 (vi) it-tip tad-deċiżjoni antiċipata transkonfinali jew arranġament preliminari ta' prezzijiet ta' trasferiment;
 
 (vii) l-ammont tat-transazzjoni jew serje ta' transazzjonijiet tad-deċiżjoni antiċipata transkonfinali jew arranġament preliminari ta' prezzijiet ta' trasferiment jekk tali ammont ikun imsemmi fid-deċiżjoni antiċipata transkonfinali jew arranġament preliminari ta' prezzijiet ta' trasferiment;
-
-**FUQ KWISTJONIJIET TA’ TAXXA**
-
-*[L.S.123.127 20*
 
 (viii) id-deskrizzjoni tas-sett ta' kriterji użati biex jiġi stabbilit l-ipprezzar ta' trasferiment jew il-prezz tat-trasferiment innifsu fil-każ ta' arranġament preliminari ta' prezzijiet ta' trasferiment;
 
@@ -639,11 +552,7 @@ Iżda l-informazzjoni kif imfissra taħt is-subparagrafi (i), (ii), (viii) u (xi
 
 (a) L-Entità Omm Finali ta' Grupp MNE li hija residenti għal finijiet ta' taxxa f’Malta, jew kwalunkwe Entità Notifikanti oħra skont it-Taqsima II tal-Anness III, għandha tippreżenta lill-Kummissarju rapport għal kull pajjiż fir-rigward tas-Sena Fiskali tar-Rappurtar tagħha f'konformità mat-Taqsima II tal-Anness III.
 
-(b) L-awtorità kompetenti f’Malta għandha, permezz ta’ skambju awtomatiku, tikkomunika r-rapport skont il-paragrafu (a) għal kull pajjiż lil kull Stat Membru ieħor li fih, fuq il-bażi tal-informazzjoni fir-rapport għal kull pajjiż, Entità Kostitwenti waħda jew aktar FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-tal-Grupp MNE tal-Entità Notifikanti tkun residenti għal skopijiet ta’ taxxa, jew inkella tkun soġġetta għat-taxxa fir-rigward tan-negozju li jsir permezz ta’ stabbiliment permanenti fiż-żmien stabbilit fis-subregolament (8)(d). Din l-informazzjoni għandha tiġi skambjata b’mezzi elettroniċi permezz tan- Netwerk CCN.
-
-*21*
+(b) L-awtorità kompetenti f’Malta għandha, permezz ta’ skambju awtomatiku, tikkomunika r-rapport skont il-paragrafu (a) għal kull pajjiż lil kull Stat Membru ieħor li fih, fuq il-bażi tal-informazzjoni fir-rapport għal kull pajjiż, Entità Kostitwenti waħda jew aktar tal-Grupp MNE tal-Entità Notifikanti tkun residenti għal skopijiet ta’ taxxa, jew inkella tkun soġġetta għat-taxxa fir-rigward tan-negozju li jsir permezz ta’ stabbiliment permanenti fiż-żmien stabbilit fis-subregolament (8)(d). Din l-informazzjoni għandha tiġi skambjata b’mezzi elettroniċi permezz tan- Netwerk CCN.
 
 (ċ) Ir-rapport għal kull pajjiż għandu jkollu l-informazzjoni li ġejja fir-rigward tal-Grupp MNE:
 
@@ -669,11 +578,7 @@ tal-Grupp MNE tal-Entità Notifikanti tkun residenti għal skopijiet ta’ taxxa
 
 skont liema minn dawn iseħħ l-ewwel:
 
-Iżda l-intermedjarji msemmijin fil-paragrafu (b) tat-tifsira "intermedjarju" għandhom ukoll ikunu meħtieġa jippreżentaw FUQ KWISTJONIJIET TA’ TAXXA
-
-informazzjoni fi żmien tletin (30) jum mill-jum wara li jagħtu, direttament jew permezz ta’ persuni oħrajn, għajnuna, assistenza jew pariri.
-
-*[L.S.123.127 22*
+Iżda l-intermedjarji msemmijin fil-paragrafu (b) tat-tifsira "intermedjarju" għandhom ukoll ikunu meħtieġa jippreżentaw informazzjoni fi żmien tletin (30) jum mill-jum wara li jagħtu, direttament jew permezz ta’ persuni oħrajn, għajnuna, assistenza jew pariri.
 
 (b) Fil-każ ta’ arranġamenti kummerċjabbli, rapport perjodiku għandu jsir mill-intermedjarju kull tliet (3) xhur, li jagħti aġġornament li jkun fih informazzjoni rapportabbli ġdida kif imsemmi fis-subparagrafi (i), (ii), (iii) u (iv) tal-paragrafu (o), li tkun saret disponibbli minn mindu ġie ppreżentat l-aħħar rapport. (ċ) Intermedjarju jkun responsabbli li jippreżenta informazzjoni dwar arranġamenti transkonfinali rapportabbli lill-Kummissarju tat-Taxxi fil-każijiet li ġejjin, fl-ordni li ġej:
 
@@ -691,11 +596,7 @@ Iżda l-prova għandha tkun f’dik il-forma li l-Kummissarju jista’ jiddeterm
 
 *Kap. 377.*
 
-Iżda wkoll intermedjarju li l-professjoni tiegħu skont l-Att dwar Segretezza Professjonali hija dik ta’ avukat, nutar u prokuratur legali u tali intermedjarju jkun irrinunzja għal tali obbligu ta’ rappurtar, l-intermedjarju għandu jinnotifika, mingħajr dewmien u fi kwalunkwe każ mhux aktar tard minn sebat (7) ijiem tax-xogħol mid-data rilevanti stabbilita mill-paragrafu (a), lill-klijent tiegħu, jekk dak il-klijent ikun intermedjarju jew, fejn ma jkun hemm l-ebda tali intermedjarju, dak il-klijent ikun il-kontribwent rilevanti, dwar l-obbligi ta’ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-rappurtar ta’ dak il-klijent skont is-subregolament (6). Għall-finijiet ta’ dan il-paragrafu, it-terminu "klijent" ifisser kwalunkwe intermedjarju jew kontribwent rilevanti, li jirċievi servizzi, inklużi assistenza, parir, konsulent jew gwida, minn professjonist legali kif imfissra skont id-Direttiva 98/5/KE tal- Parlament Ewropew u tal-Kunsill tas-16 ta’ Frar 1998 sabiex tkun iffaċilitata l-prattika tal-professjoni ta’ avukat fuq bażi permanenti fl-Istati Membri minbarra dak fejn kienet miksuba l-kwalifikazzjoni, fir-rigward ta’ arranġament transkonfinali rapportabbli:
-
-*23*
+Iżda wkoll intermedjarju li l-professjoni tiegħu skont l-Att dwar Segretezza Professjonali hija dik ta’ avukat, nutar u prokuratur legali u tali intermedjarju jkun irrinunzja għal tali obbligu ta’ rappurtar, l-intermedjarju għandu jinnotifika, mingħajr dewmien u fi kwalunkwe każ mhux aktar tard minn sebat (7) ijiem tax-xogħol mid-data rilevanti stabbilita mill-paragrafu (a), lill-klijent tiegħu, jekk dak il-klijent ikun intermedjarju jew, fejn ma jkun hemm l-ebda tali intermedjarju, dak il-klijent ikun il-kontribwent rilevanti, dwar l-obbligi ta’ rappurtar ta’ dak il-klijent skont is-subregolament (6). Għall-finijiet ta’ dan il-paragrafu, it-terminu "klijent" ifisser kwalunkwe intermedjarju jew kontribwent rilevanti, li jirċievi servizzi, inklużi assistenza, parir, konsulent jew gwida, minn professjonist legali kif imfissra skont id-Direttiva 98/5/KE tal- Parlament Ewropew u tal-Kunsill tas-16 ta’ Frar 1998 sabiex tkun iffaċilitata l-prattika tal-professjoni ta’ avukat fuq bażi permanenti fl-Istati Membri minbarra dak fejn kienet miksuba l-kwalifikazzjoni, fir-rigward ta’ arranġament transkonfinali rapportabbli:
 
 Iżda wkoll b’effett mill-1 ta’ Jannar 2027, intermedjarju għandu jkollu biss id-dritt għal rinunzja milli jippreżenta informazzjoni dwar arranġament transkonfinali rapportabbli skont dan is-subregolament jekk tali intermedjarju jkun professjonist legali kif imfisser skont id- Direttiva 98/5/KE tal- Parlament Ewropew u tal-Kunsill.
 
@@ -709,11 +610,7 @@ Iżda l-intermedjarji jistgħu jkunu intitolati għal rinunzja taħt dan il-para
 
 Iżda wkoll fejn intermedjarju jkun irrinunzja għal dak l-obbligu ta’ rappurtar, l-intermedjarju għandu jipprovdi aġġornament annwali lill-Kummissarju, li jkun jikkonsisti f’lista tal-arraġamenti transkonfinali rapportabbli fejn l-obbligu ta’ rappurtar ikun ġie rinunzjat favur intermedjarju ieħor jew favur il-kontribwent rilevanti. Tali informazzjoni għandha tkun f’dik il-forma li l-Kummissarju jista’ jiddetermina.
 
-(f) Fejn ma jkun hemm ebda intermedjarju jew l-intermedjarju jinnotifika lill-kontribwent rilevanti jew intermedjarju ieħor dwar l-applikazzjoni ta’ rinunzja taħt il-paragrafu (e), l-obbligu li tiġi ppreżentata informazzjoni dwar arranġament transkonfinali rapportabbli jkun tal-intermedjarju notifikat l-ieħor, jew, jekk ma jkun hemm ebda tali intermedjarju, tal- FUQ KWISTJONIJIET TA’ TAXXA
-
-kontribwent rilevanti.
-
-*[L.S.123.127 24*
+(f) Fejn ma jkun hemm ebda intermedjarju jew l-intermedjarju jinnotifika lill-kontribwent rilevanti jew intermedjarju ieħor dwar l-applikazzjoni ta’ rinunzja taħt il-paragrafu (e), l-obbligu li tiġi ppreżentata informazzjoni dwar arranġament transkonfinali rapportabbli jkun tal-intermedjarju notifikat l-ieħor, jew, jekk ma jkun hemm ebda tali intermedjarju, tal-kontribwent rilevanti.
 
 (g) Il-kontribwent rilevanti li jkollu l-obbligu ta’ rappurtar għandu jippreżenta l-informazzjoni lill-Kummissarju fi żmien tletin (30) jum:
 
@@ -739,11 +636,7 @@ skont liema minn dawn iseħħ l-ewwel.
 
 Iżda l-prova għandha tkun f’dik il-forma li l- Kummissarju jista’ jiddetermina.
 
-(j) Fejn ikun hemm aktar minn intermedjarju wieħed, l-obbligu li tiġi ppreżentata informazzjoni dwar l-arranġament transkonfinali rapportabbli jkun tal-intermedjarji kollha involuti fl-istess arranġament FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-transkonfinali rapportabbli. Intermedjarju għandu jiġi eżentat milli jippreżenta l-informazzjoni biss sa fejn ikollu prova li l-istess informazzjoni msemmija fil-paragrafu (o) tkun diġà ġiet ippreżentata minn intermedjarju ieħor:
-
-*25*
+(j) Fejn ikun hemm aktar minn intermedjarju wieħed, l-obbligu li tiġi ppreżentata informazzjoni dwar l-arranġament transkonfinali rapportabbli jkun tal-intermedjarji kollha involuti fl-istess arranġament transkonfinali rapportabbli. Intermedjarju għandu jiġi eżentat milli jippreżenta l-informazzjoni biss sa fejn ikollu prova li l-istess informazzjoni msemmija fil-paragrafu (o) tkun diġà ġiet ippreżentata minn intermedjarju ieħor:
 
 Iżda l-prova għandha tkun f’dik il-forma li l-Kummissarju jista’ jiddetermina.
 
@@ -765,11 +658,7 @@ Iżda l-prova għandha tkun f’dik il-forma li l-Kummissarju jista’ jiddeterm
 
 (o) L-informazzjoni li għandha tiġi kkomunikata mill-awtorità kompetenti ta’ Malta skont il-paragrafu (n) għandha tinkludi dan li ġej, kif applikabbli:
 
-(i) l-identifikazzjoni ta’ intermedjarji, għajr l-intermedjarji eżentati mill-obbligu ta’ rapportar skont il-paragrafu (e), u l-kontribwenti rilevanti, FUQ KWISTJONIJIET TA’ TAXXA
-
-inkluż isimhom, id-data u l-post tat-twelid, fil-każ ta’ individwu, ir-residenza għal finijiet ta’ taxxa, in-NIT u, fejn xieraq, il-persuni li huma intrapriżi assoċjati mal-kontribwent rilevanti;
-
-*[L.S.123.127 26*
+(i) l-identifikazzjoni ta’ intermedjarji, għajr l-intermedjarji eżentati mill-obbligu ta’ rapportar skont il-paragrafu (e), u l-kontribwenti rilevanti, inkluż isimhom, id-data u l-post tat-twelid, fil-każ ta’ individwu, ir-residenza għal finijiet ta’ taxxa, in-NIT u, fejn xieraq, il-persuni li huma intrapriżi assoċjati mal-kontribwent rilevanti;
 
 (ii) id-dettalji tal-karatteristiċi distintivi stipulati fl- Anness IV li permezz tagħhom l-arranġamenti transkonfinali jkun rapportabbli;
 
@@ -797,11 +686,7 @@ Il-komunikazzjoni ta’ informazzjoni għandu jseħħ kif ġej:
 
 (a) għall-kategoriji mniżżla fis-subregolament (1) mill-inqas darba fis-sena, fi żmien sitt xhur wara t-tmiem tas-sena minnufih qabel is-sena ta’ stima li matulha l-informazzjoni saret disponibbli;
 
-(b) għall-informazzjoni stabbilita fis-subregolament (2), annwalment, fi żmien disa’ (9) xhur wara t-tmiem tas- FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-sena ta’ stima li matulha l-informazzjoni saret disponibbli:
-
-*27*
+(b) għall-informazzjoni stabbilita fis-subregolament (2), annwalment, fi żmien disa’ (9) xhur wara t-tmiem tas-sena ta’ stima li matulha l-informazzjoni saret disponibbli:
 
 Iżda l-awtorità kompetenti f’Malta għandha tikkomunika l-informazzjoni msemmija fil-paragrafi (h) sa (k) fir-rigward tal-perjodi taxxabbli mill-1 ta’ Jannar 2026;
 
@@ -819,11 +704,7 @@ Iżda b’effett mill-1 ta’ Jannar 2023, il-komunikazzjoni ta’ informazzjoni
 
 (f) għall-informazzjoni mniżżla fis-subregolament (12), fi żmien xahrejn (2) wara tmiem il-Perjodu Rapportabbli li miegħu huma marbuta r-rekwiżiti ta’ rapportar applikabbli għall-Operatur ta’ Pjattaforma Rapportanti ta’ Malta. L-ewwel informazzjoni għandha tiġi kkomunikata għall-Perjodi Rapportabbli mill-1 ta’ Jannar 2023;
 
-(g) għall-informazzjoni stabbilita fis-subregolament (13), fi żmien disa’ (9) xhur wara t-tmiem tas-sena kalendarja li magħha jirrelataw ir-rekwiżiti ta’ rappurtaġġ applikabbli għal Fornituri ta’ Servizzi ta’ Kriptoassi Rapportanti [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-f’Malta. L-ewwel informazzjoni għandha tiġi kkomunikata għas-sena kalendarja rilevanti jew perjodu ieħor xieraq ta’ rappurtar mill-1 ta’ Jannar 2026.
-
-*28*
+(g) għall-informazzjoni stabbilita fis-subregolament (13), fi żmien disa’ (9) xhur wara t-tmiem tas-sena kalendarja li magħha jirrelataw ir-rekwiżiti ta’ rappurtaġġ applikabbli għal Fornituri ta’ Servizzi ta’ Kriptoassi Rapportanti f’Malta. L-ewwel informazzjoni għandha tiġi kkomunikata għas-sena kalendarja rilevanti jew perjodu ieħor xieraq ta’ rappurtar mill-1 ta’ Jannar 2026.
 
 (9) Għall-finijiet ta’ dan ir-regolament:
 
@@ -847,10 +728,6 @@ f’Malta. L-ewwel informazzjoni għandha tiġi kkomunikata għas-sena kalendarj
 
 (d) tkun relatata ma' transazzjoni transkonfinali jew mal-kwistjoni dwar jekk l-attivitajiet imwettqa minn persuna f'ġurisdizzjoni oħra joħolqux stabbiliment permanenti jew għall-kwistjoni dwar jekk persuna fiżika hijiex jew ma hijiex residenti għal finijiet ta’ taxxa fl-Istat Membru li joħroġ id-deċiżjoni jew le; u
 
-*29*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
 (e) issir qabel it-transazzjonijiet jew l-attivitajiet f'ġurisdizzjoni oħra li potenzjalment joħolqu stabbiliment permanenti jew għall-arkivjar ta' dikjarazzjoni tat-taxxa li tkopri l-perijodu li fih it-transazzjoni jew is-serje ta' transazzjonijiet jew attivitajiet ikunu seħħew.
 
 Għall-finijiet ta’ din it-tifsira:
@@ -873,11 +750,7 @@ Għall-finijiet ta’ din it-tifsira:
 
 (a) ikun maħruġ, emendat jew imġedded mill- Kummissarju, jew f'isem il-Gvern ta’ Malta jew minn iktar Stati Membri, irrispettivament minn jekk dan jintużax b'mod effettiv;
 
-(b) ikun maħruġ, emendat jew imġedded, għal persuna [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-partikolari jew grupp ta' persuni, u li dik il-persuna jew grupp ta' persuni huwa intitolat li jinvoka; u
-
-*30*
+(b) ikun maħruġ, emendat jew imġedded, għal persuna partikolari jew grupp ta' persuni, u li dik il-persuna jew grupp ta' persuni huwa intitolat li jinvoka; u
 
 (ċ) jiddetermina b'mod antiċipat għat-transazzjonijiet transkonfinali bejn intrapriżi assoċjati, sett xieraq ta' kriterji għad-determinazzjoni tal-ipprezzar tat-trasferimenti għal dawk it-transazzjonijiet jew jiddetermina l-attribuzzjoni tal-profitti għal stabbiliment permanenti.
 
@@ -889,21 +762,29 @@ Għall-finijiet ta’ din it-tifsira:
 
 (iii) "transazzjoni transkonfinali" tfisser transazzjoni jew serje ta' transazzjonijiet li jinvolvu intrapriżi assoċjati li mhux kollha jkunu residenti għall-finijiet tat-taxxa fit-territorju ta' ġurisdizzjoni waħda jew fejn it-transazzjonijiet jew serje ta' transazzjonijiet ikollhom impatt transkonfinali, u "intrapriża" tfisser kwalunkwe forma ta' twettiq ta' negozju.
 
-"arranġament" għanda tinkludi wkoll sensiela ta’ arranġamenti. Arranġament jista’ jikkomprendi aktar minn pass wieħed jew parti waħda;
+"arranġament" għanda tinkludi wkoll sensiela ta’ arranġamenti.
 
-"arranġament transkonfinali" tfisser arranġament li jikkonċerna jew aktar minn Stat Membru wieħed tal-UE jew xi Stat Membru tal-UE u pajjiż terz fejn tal-inqas tkun sodisfatta waħda mill-kondizzjonijiet li ġejjin:
-
-(a) mhux il-parteċipanti kollha fl-arranġament ikunu residenti għall-finijiet tat-taxxa fl-istess ġurisdizzjoni;
-
-(b) wieħed jew aktar mill-parteċipanti fl-arranġament ikunu simultanjament residenti għall-finijiet tat-taxxa f’aktar minn ġurisdizzjoni waħda;
-
-(ċ) wieħed jew aktar mill-parteċipanti fl-arranġament imexxu negozju f’ġurisdizzjoni oħra permezz ta’ stabbiliment permanenti li jkun jinsab f’dik il-ġurisdizzjoni u l-arranġament ikun jifforma parti jew it-totalità tan-negozju ta’ dak l-istabbiliment permanenti;
-
-(d) wieħed jew aktar mill-parteċipanti fl-arranġament iwettqu attività f’ġurisdizzjoni oħra mingħajr ma jkunu residenti għall-finijiet ta’ taxxa jew mingħajr ma joħolqu stabbiliment permanenti f’dik il-ġurisdizzjoni;
-
-*31*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
+Arranġament jista’ jikkomprendi aktar minn pass wieħed jew parti  
+waħda;  
+"arranġament transkonfinali" tfisser arranġament li jikkonċerna  
+jew aktar minn Stat Membru wieħed tal-UE jew xi Stat Membru  
+tal-UE u pajjiż terz fejn tal-inqas tkun sodisfatta waħda mill-  
+kondizzjonijiet li ġejjin:  
+(a) mhux il-parteċipanti kollha fl-arranġament ikunu  
+residenti għall-finijiet tat-taxxa fl-istess ġurisdizzjoni;  
+(b) wieħed jew aktar mill-parteċipanti fl-arranġament  
+ikunu simultanjament residenti għall-finijiet tat-taxxa  
+f’aktar minn ġurisdizzjoni waħda;  
+(ċ) wieħed jew aktar mill-parteċipanti fl-arranġament  
+imexxu negozju f’ġurisdizzjoni oħra permezz ta’  
+stabbiliment permanenti li jkun jinsab f’dik il-  
+ġurisdizzjoni u l-arranġament ikun jifforma parti jew  
+it-totalità tan-negozju ta’ dak l-istabbiliment  
+permanenti;  
+(d) wieħed jew aktar mill-parteċipanti fl-arranġament  
+iwettqu attività f’ġurisdizzjoni oħra mingħajr ma  
+jkunu residenti għall-finijiet ta’ taxxa jew mingħajr ma  
+joħolqu stabbiliment permanenti f’dik il-ġurisdizzjoni;
 
 (e) tali arranġament ikollu impatt possibbli fuq l-iskambju awtomatiku ta’ informazzjoni jew l-identifikazzjoni ta’ sjieda benefiċjarja;
 
@@ -929,11 +810,7 @@ B’żieda ma’ dak ta’ hawn qabel, biex tkun intermedjarju, persuna għandha
 
 (d) tkun irreġistrata ma’ assoċjazzjoni professjonali relatata m’ servizzi legali, ta’ tassazzjoni jew ta’ konsulenza fi Stat Membru tal-UE;
 
-"kontribwent rilevanti" tfisser kwalunkwe persuna li jkun tqegħdilha għad-dispożizzjoni tagħha arranġament transkonfinali [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-rapportabbli għall-implimentazzjoni, jew li hija lesta li timplimenta arranġament transkonfinali rapportabbli jew tkun implimentat l-ewwel pass ta’ tali arranġament.
-
-*32*
+"kontribwent rilevanti" tfisser kwalunkwe persuna li jkun tqegħdilha għad-dispożizzjoni tagħha arranġament transkonfinali rapportabbli għall-implimentazzjoni, jew li hija lesta li timplimenta arranġament transkonfinali rapportabbli jew tkun implimentat l-ewwel pass ta’ tali arranġament.
 
 Għall-finijiet tas-subregolament (7), "intrapriża assoċjata" tfisser persuna li tkun relatata ma’ persuna oħra f’talinqas wieħed mill-modi li ġejjin:
 
@@ -959,11 +836,7 @@ Iżda:
 
 "arranġament kummerċjabbli" tfisser arranġament transkonfinali li jkun imfassal, kummerċjalizzat, lest għall-implimentazzjoni jew disponibbli għall-implimentazzjoni mingħajr il-ħtieġa li jiġi personalizzat b’mod sostanzjali;
 
-"arranġament imfassal għal għan speċifiku" tfisser kwalunkwe FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-arranġament transkonfinali li mhuwiex arranġament kummerċjabbli;
-
-*33*
+"arranġament imfassal għal għan speċifiku" tfisser kwalunkwe arranġament transkonfinali li mhuwiex arranġament kummerċjabbli;
 
 "dħul minn dividend mingħajr kustodja" tfisser dividendi jew dħul ieħor trattat bħala dividendi fl-Istat Membru ta’ min iħallas, li jitħallsu jew jiġu kkreditati f’kont li ma huwiex Kont ta’ Kustodja kif imfisser fil-subparagrafu (3) tal-paragrafu Ċ tat-Taqsima VIII, tal-Anness I;
 
@@ -993,10 +866,6 @@ Iżda d-dispożizzjonijiet tas-subregolament (1)(f) għandhom jitqiesu li daħlu
 
 (11) L-awtorità kompetenti f’Malta għandha tipprovdi lill- Kummissjoni, fuq bażi annwali, statistika dwar il-volum ta’ skambji awtomatiċi skont dan ir-regolament u, safejn ikun possibbli, l-informazzjoni dwar l-ispejjeż u l-benefiċċji amministrattivi u oħrajn rilevanti relatati ma’ skambji li jkunu saru u ma’ kwalunkwe bidla potenzjali, kemm għall-amministrazzjonijiet tat-taxxa kif ukoll għall-partijiet terzi.
 
-**FUQ KWISTJONIJIET TA’ TAXXA**
-
-*[L.S.123.127 34*
-
 *Skambju awtomatiku ta’ informazzjoni rrappurtata mill- Operaturi tal- Pjattaforma. Miżjud: A.L. 315 tal-2020; Sostitwit: A.L. 18 tal-2025.*
 
 (12) (a) Operatur ta’ Pjattaforma Rapportanti f’Malta għandu japplika l-proċeduri ta’ diliġenza dovuta u jissodisfa r-rekwiżiti ta’ rapportar stabbiliti fit-Taqsimiet II u III tal-Anness V.
@@ -1019,11 +888,7 @@ Iżda d-dispożizzjonijiet tas-subregolament (1)(f) għandhom jitqiesu li daħlu
 
 (vii) id-data tat-twelid tal-Bejjiegħ Rapportabbli li jkun individwu;
 
-(viii) l-Identifikatur tal-Kont Finanzjarju li fih jitħallas jew jiġi kkreditat il-Korrispettiv, sakemm dan ikun disponibbli għall-Operatur ta’ Pjattaforma Rapportanti f’Malta, u sakemm l-awtorità kompetenti tal-Istat Membru fejn huwa resident il-Bejjiegħ Rapportabbli skont it-tifsira tal-paragrafu D tat-Taqsima FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-II tal-Anness V ma tkunx innotifikat lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kollha li mhijiex bi-ħsiebha tuża l-Identifikatur tal-Kont Finanzjarju għal dan il-għan;
-
-*35*
+(viii) l-Identifikatur tal-Kont Finanzjarju li fih jitħallas jew jiġi kkreditat il-Korrispettiv, sakemm dan ikun disponibbli għall-Operatur ta’ Pjattaforma Rapportanti f’Malta, u sakemm l-awtorità kompetenti tal-Istat Membru fejn huwa resident il-Bejjiegħ Rapportabbli skont it-tifsira tal-paragrafu D tat-Taqsima II tal-Anness V ma tkunx innotifikat lill-awtoritajiet kompetenti tal-Istati Membri l-oħra kollha li mhijiex bi-ħsiebha tuża l-Identifikatur tal-Kont Finanzjarju għal dan il-għan;
 
 (ix) fejn ikun differenti mill-isem tal-Bejjiegħ Rapportabbli, minbarra l-Identifikatur tal-Kont Finanzjarju, l-isem tad-detentur tal-kont finanzjarju li fih jitħallas jew jiġi kkreditat il-Korrispettiv, sal-limitu li jkun disponibbli lill-Operatur ta’ Pjattaforma Rapportanti f’Malta, kif ukoll kwalunkwe informazzjoni oħra ta’ identifikazzjoni finanzjarja li tkun disponibbli għand l- Operatur ta’ Pjattaforma Rapportanti f’Malta fir-rigward ta’ tali detentur tal-kont;
 
@@ -1038,10 +903,6 @@ II tal-Anness V ma tkunx innotifikat lill-awtoritajiet kompetenti tal-Istati Mem
 Iżda fejn il-Bejjiegħ Rapportabbli jipprovdi servizzi ta’ kiri ta’ proprjetà immobbli, għandha tiġi kkomunikata l-informazzjoni addizzjonali li ġejja:
 
 (i) l-indirizz ta’ kull Proprjetà Elenkata, iddeterminata abbażi tal-proċeduri stabbiliti fil-paragrafu E tat-Taqsima II tal-Anness V u n-numru rispettiv tar-reġistrazzjoni tal-art jew l-ekwivalenti tiegħu skont il-liġi nazzjonali tal-Istat Membru fejn tkun tinsab, fejn ikun disponibbli;
-
-*36*
-
-[L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 (ii) il-Korrispettiv totali li tħallas jew li ġie kkreditat matul kull trimestru tal-Perjodu Rapportabbli u n-numru ta’ Attivitajiet Rilevanti provduti fir-rigward ta’ kull Proprjetà Elenkata; u
 
@@ -1061,10 +922,6 @@ Iżda wkoll Operatur ta’ Pjattaforma Rapportanti skont it-tifsira tas-subparag
 
 (f) L-Operatur tal-Pjattaforma Rapport-anti, wara li jkun irreġistra b’suċċess mal-Kummissarju f’Malta bħala l-Istat Membru tar-reġistrazzjoni unika tiegħu, għandu jinnotifika lill-awtorità kompetenti f’Malta dwar kwalunkwe bidla fl-informazzjoni pprovduta skont is-subparagrafu B(2) tat- Taqsima III tal-Anness V.
 
-*37*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
 (g) (i) Minkejja l-penali amministrattivi stipulati fir-regolament 52, fejn Operatur ta’ Pjattaforma Rapportanti, wara li jkun irreġistra mal-Kummissarju f’Malta bħala l-Istat Membru tar-reġistrazzjoni unika tiegħu, jonqos milli jirrapporta l-informazzjoni meħtieġa li tiġi rrapurtata skont id-dispożizzjonijiet tas-subparagrafu A(3) tat-Taqsima III tal- Anness V wara żewġ (2) tfakkiriet mill-Kummissarju f’Malta, ir-reġistrazzjoni tiegħu għandha tiġi revokata. Ir-reġistrazzjoni għandha tiġi revokata mhux aktar tard mill-iskadenza ta’ disgħin (90) jum iżda mhux qabel ma jgħaddu tletin (30) jum mit-tieni tfakkira.
 
 (ii) Operatur tal-Pjattaforma Rapportanti li jkollu r-reġistrazzjoni tiegħu revokata jkun jista’ jerġa’ jirreġistra mal-Kummissarju bil-kondizzjoni li jipprovdi assigurazzjonijiet xierqa rigward l-impenn tiegħu li jikkonforma mar-rekwiżiti ta’ rapportar fi ħdan l-Unjoni, inkluż kwalunkwe rekwiżiti ta’ rapportar pendenti mhux imwettqa.
@@ -1083,11 +940,7 @@ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
 
 *Kap. 372.*
 
-(i) Bla ħsara għad-dispożizzjonijiet tal-artikolu 19 tal-Att dwar l-Amministrazzjoni tat-Taxxa, Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jżomm id-dokumentazzjoni u l-informazzjoni kollha li jkun ġabar waqt li jissodisfa l-obbligi tiegħu ta’ rapportar u diliġenza [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-dovuta speċifikati f’dan is-subregolament u fit-Taqsimiet II u III tal-Anness V għal perjodu minimu ta’ ħames (5) snin li jibdew jiddekorru mill-aħħar tas-sena li magħha hija relatata fiha l-informazzjoni. Filwaqt li jagħmel dan, Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jżomm rekords tal-passi li jkunu ttieħdu fir-rigward ta’ kwalunkwe evidenza li fuqha kien jiddependi għat-twettiq tal-obbligi tiegħu u l-miżuri adegwati sabiex jinkisbu l-imsemmija rekords.
-
-*38*
+(i) Bla ħsara għad-dispożizzjonijiet tal-artikolu 19 tal-Att dwar l-Amministrazzjoni tat-Taxxa, Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jżomm id-dokumentazzjoni u l-informazzjoni kollha li jkun ġabar waqt li jissodisfa l-obbligi tiegħu ta’ rapportar u diliġenza dovuta speċifikati f’dan is-subregolament u fit-Taqsimiet II u III tal-Anness V għal perjodu minimu ta’ ħames (5) snin li jibdew jiddekorru mill-aħħar tas-sena li magħha hija relatata fiha l-informazzjoni. Filwaqt li jagħmel dan, Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jżomm rekords tal-passi li jkunu ttieħdu fir-rigward ta’ kwalunkwe evidenza li fuqha kien jiddependi għat-twettiq tal-obbligi tiegħu u l-miżuri adegwati sabiex jinkisbu l-imsemmija rekords.
 
 *Skambju awtomatiku ta’ informazzjoni rappurtata mill- Fornituri ta’ Servizz dwar Kriptoassi. Miżjud: A.L. 162 tal-2026.*
 
@@ -1102,10 +955,6 @@ dovuta speċifikati f’dan is-subregolament u fit-Taqsimiet II u III tal-Anness
 Iżda meta l-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti jiddependi fuq konferma diretta tal-identità u tar-residenza tal-Persuna Rapportabbli permezz ta’ Servizz ta’ Identifikazzjoni magħmul disponibbli minn Stat Membru jew mill-Unjoni sabiex jiġu aċċertati l-identità u r-residenza tat-taxxa tal- Persuna Rapportabbli, l-informazzjoni li għandha tiġi komunikata lill-Istat Membru li jkun ħareġ l-identifikatur tas-Servizz ta’ Identifikazzjoni fir-rigward tal-Persuna Rapportabbli għandha tinkludi l-isem, l-identifikatur tas-Servizz ta’ Identifikazzjoni u l-Istat Membru tal-ħruġ, kif ukoll ir-rwoli li bis-saħħa tagħhom kull Persuna Rapportabbli tkun Persuna Kontrollanti tal-Entità;
 
 (ii) l-isem, l-indirizz, in-NIT u, jekk disponibbli, in-numru ta’ identifikazzjoni individwali msemmi fil-paragrafu (g) u l-identifikatur globali tal-entità ġuridika, tal- Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti;
-
-*39*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
 
 (iii) għal kull tip ta’ Kriptoassi Rapportabbli li fir-rigward tiegħu Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti jkun wettaq Tranżazzjonijiet Rapportabbli matul is-sena kalendarja rilevanti jew f’xi perjodu ieħor xieraq ta’ rapportar, fejn rilevanti:
 
@@ -1126,10 +975,6 @@ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
 (H) il-valur tas-suq ġust aggregat, kif ukoll l-għadd aggregat ta’ unitajiet tat-Tranżazzjonijiet Rapportabbli, u suddiviżi skont it-tip ta’ trasferiment fejn dan ikun magħruf mill-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti, fir-rigward ta’ Trasferimenti mill-Utent Rapportabbli li ma jkunux koperti mill-punti (Ċ), (E) u (F); u
 
 (I) il-valur tas-suq ġust aggregat, kif ukoll l-għadd aggregat ta’ unitajiet tat-Trasferimenti mwettqa mill-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti għall-indirizzi tar-reġistru distribwit imsemmi fir-Regolament (UE) 2023/1114 tal- Parlament Ewropew u tal-Kunsill tal-31 ta’ Mejju 2023 dwar is-swieq fil-kriptoassi, u li jemenda r-Regolamenti (UE) Nru 1093/2010 u (UE) Nru 1095/2010 u d-Direttivi 2013/36/UE u (UE) 2019/1937 mhux magħrufin li huma assoċjati ma’ fornitur ta’ servizzi ta’ assi virtwali jew ma’ Istituzzjoni Finanzjarja:
-
-*40*
-
-[L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 Iżda għall-finijiet tal-punti (B) u (Ċ), l-ammont imħallas jew riċevut għandu jiġi kkomunikat fil- Munita ta’ Kors Legali li fiha jkun tħallas jew ġie riċevut. F’każ li l-ammonti ġew imħallsa jew riċevuti f’diversi Muniti ta’ Kors Legali, l-ammonti għandhom jiġu kkomunikati f’Munita ta’ Kors Legali waħda, ikkonvertiti fiż-żmien ta’ kull Tranżazzjoni Rapportabbli b’mod li jiġi applikat b’mod konsistenti mill-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti:
 
@@ -1157,10 +1002,6 @@ Iżda wkoll l-informazzjoni kkomunikata għandha tispeċifika l-Munita ta’ Kor
 
 (b) persuna suġġetta għat-taxxa tikseb tnaqqis fi, jew xi eżenzjoni minn, taxxa f’Malta li tista’ twassal għal żieda fit-taxxa jew għal responsabbilità għat-taxxa fi Stat Membru ieħor tal-UE; jew
 
-*41*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
 (ċ) transazzjonijiet kummerċjali bejn persuna suġġetta għat-taxxa f’Malta u persuna suġġetta għat-taxxa fi Stat Membru ieħor tal-UE huma mwettqa permezz ta’ wieħed jew aktar pajjiżi b’tali mod li l-iffrankar fit-taxxa jista’ jirriżulta f’Malta jew fl-Istat Membru l-ieħor tal-UE jew fit-tnejn; jew
 
 (d) l-awtorità kompetenti f’Malta jkollha raġunijiet biex taħseb li xi ffrankar fit-taxxa jista’ jirriżulta minn trasferimenti artifiċjali ta’ profitti fi gruppi ta’ impriżi; jew
@@ -1187,11 +1028,7 @@ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
 
 (b) ikunu preżenti waqt l-indaġnijiet amministrattivi mwettqa fit-territorju tal-Istat Membru li ssirlu t-talba;
 
-(ċ) jipparteċipaw fl-indaġnijiet amministrattivi mwettqa [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-mill-Istat Membru li ssirlu t-talba permezz tal-użu ta’ mezzi elettroniċi tal-komunikazzjoni, fejn ikun xieraq:
-
-*42*
+(ċ) jipparteċipaw fl-indaġnijiet amministrattivi mwettqa mill-Istat Membru li ssirlu t-talba permezz tal-użu ta’ mezzi elettroniċi tal-komunikazzjoni, fejn ikun xieraq:
 
 Iżda fejn l-awtorità li ssirilha t-talba hi l-awtorità kompetenti f’Malta, hija għandha twieġeb g ħ a t - talba fi żmien sittin (60) jum mill-irċevuta tat-talba, sabiex tikkonferma l-qbil tagħha jew tikkomunika r-rifjut motivat tagħha lill-awtorità rikjedenti:
 
@@ -1209,11 +1046,7 @@ Iżda wkoll fejn l-informazzjoni mitluba tkun tinsab f’dokumentazzjoni li għa
 
 (2) L-awtorità kompetenti f’Malta għandha tidentifika indipendentement il-persuna jew persuni li fuqhom għandha l-intenzjoni li tipproponi kontrolli simultanji u, meta dik il-persuna jew persuni jiġu identifikati, għandha tinnotifika lill-awtorità kompetenti tal-Istati Membri l-oħra tal-UE kkonċernati li tixtieq tipproponi tali kontroll simultanju, waqt li tagħti raġunijiet għall-għażla tagħha. L-awtorità kompetenti f ’Malta għandha wkoll tispeċifika l-perjodu ta’ żmien li matulu dawk il-kontrolli għandhom isiru.
 
-(3) L-awtorità kompetenti f’Malta għandha, mal-wasla ta’ notifika għal kontroll simultanju mill-awtorità kompetenti ta’ Stat Membru ieħor tal-Unjoni Ewropeja, tiddeċiedi jekk għandhiex l- FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-intenzjoni li tieħu sehem fil-kontrolli simultanji u għandha tikkonferma l-qbil tagħha jew tikkomunika r-rifjut motivat tagħha lill-awtorità li pproponiet kontroll simultanju fi żmien sittin (60) jum mill-wasla tal-proposta.
-
-*43*
+(3) L-awtorità kompetenti f’Malta għandha, mal-wasla ta’ notifika għal kontroll simultanju mill-awtorità kompetenti ta’ Stat Membru ieħor tal-Unjoni Ewropeja, tiddeċiedi jekk għandhiex l-intenzjoni li tieħu sehem fil-kontrolli simultanji u għandha tikkonferma l-qbil tagħha jew tikkomunika r-rifjut motivat tagħha lill-awtorità li pproponiet kontroll simultanju fi żmien sittin (60) jum mill-wasla tal-proposta.
 
 ### 16A. Awditu konġunt.
 
@@ -1232,10 +1065,6 @@ Iżda wkoll filwaqt li jikkonformaw mal-liġijiet tal-Istat Membru fejn isiru l-
 (a) tippermetti li uffiċjali ta’ Stati Membri oħra li jipparteċipaw fl-attivitajiet tal-awditu konġunt jintervistaw persuni u jeżaminaw rekords flimkien mal-uffiċjali tal-amministrazzjoni tat-taxxa f’Malta, kif soġġett għall-arranġamenti proċedurali stabbiliti f’Malta;
 
 (b) tiżgura li l-evidenza miġbura matul l-attivitajiet tal-awditu konġunt tista’ tiġi vvalutata, inkluż dwar l-ammissibbiltà tagħha, taħt l-istess kondizzjonijiet legali bħal fil-każ ta’ awditu mwettaq f’Malta fejn l-uffiċjali tal-amministrazzjoni tat-taxxa f’Malta biss jieħdu sehem, inkluż matul kwalunkwe proċess ta’ lment, eżami mill-ġdid jew appell; u
-
-*44*
-
-[L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 (ċ) tiżgura li l-persuna soġġetta għal awditu konġunt jew affettwata minnu tgawdi l-istess drittijiet u jkollha l-istess obbligi bħal fil-każ ta’ awditu fejn l-uffiċjali tal-amministrazzjoni tat-taxxa f’Malta biss jieħdu sehem, inkluż matul kwalunkwe proċess ta’ lment, eżami mill-ġdid jew appell.
 
@@ -1257,11 +1086,7 @@ Iżda wkoll l-azzjonijiet mill-awtorità kompetenti f’Malta jew minn kwalunkwe
 
 (3) L-awtorità kompetenti f’Malta għandha tinforma lill-awtorità rikjedenti minnufih bir-risposta tagħha u, b’mod partikolari, bid-data tan-notifika tal-istrument jew tad-deċiżjoni lid-destinatarju.
 
-(4) Talba għal notifika skont l-Artikolu 13 tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva għandha tkun ikkunsidrata biss li tkun valida meta l-awtorità kompetenti f’Malta tirċievi assigurazzjonijiet li l-awtorità rikjedenti ma tkunx tista’ tinnotifika FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-skont ir-regoli li jirregolaw in-notifika tal-istrumenti kkonċernati fl-Istat Membru rikjedenti, jew fejn tali notifika tagħti lok għal diffikultajiet sproporzjonati. F’dan il-kuntest, huwa permissibbli għall-awtorità kompetenti ta’ Stat Membru ieħor tal-UE li tinnotifika kwalunkwe dokument permezz tal-posta reġistrata jew elettronika direttament lill-persuna f’Malta.
-
-*45*
+(4) Talba għal notifika skont l-Artikolu 13 tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva għandha tkun ikkunsidrata biss li tkun valida meta l-awtorità kompetenti f’Malta tirċievi assigurazzjonijiet li l-awtorità rikjedenti ma tkunx tista’ tinnotifika skont ir-regoli li jirregolaw in-notifika tal-istrumenti kkonċernati fl-Istat Membru rikjedenti, jew fejn tali notifika tagħti lok għal diffikultajiet sproporzjonati. F’dan il-kuntest, huwa permissibbli għall-awtorità kompetenti ta’ Stat Membru ieħor tal-UE li tinnotifika kwalunkwe dokument permezz tal-posta reġistrata jew elettronika direttament lill-persuna f’Malta.
 
 (5) L-awtorità kompetenti f'Malta tista’ titlob lill-awtorità kompetenti ta’ Stati Membri oħra tal-UE għall-għajnuna fin-notifika lid-destinatarju ta’ kwalunkwe strumenti u deċiżjonijiet li joriġinaw mill-awtoritajiet amministrattivi ta’ Malta u li jkunu jikkonċernaw l-applikazzjoni f’Malta tal-liġijiet tat-taxxa koperti bid-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva. Kull talba bħal din għandha tindika s-suġġett tal-istrument jew deċiżjoni li għandhom jiġu notifikati u għandhom jispeċifikaw l-isem u l-indirizz tad-destinatarju, flimkien ma’ kull informazzjoni oħra li tista’ tiffaċilita l-identifikazzjoni tal-imsemmi destinatarju. Barra minn hekk, dawn it-talbiet jistgħu jsiru biss fejn ma jkunx possibbli li ssir din in-notifika skont ir-regoli li jirregolaw in-notifika tal-istrumenti kkonċernati f’Malta jew fejn tali notifika tagħti lok għal diffikultajiet sproporzjonati. F’dan il-kuntest, huwa permissibbli għall-awtorità kompetenti f ’Malta li tinnotifika kwalunkwe dokument rilevanti bil-posta reġistrata jew elettronika direttament lil persuna fit-territorju ta’ kwalunkwe Stat Membru ieħor tal-UE.
 
@@ -1275,11 +1100,7 @@ Iżda rapporti u dokumenti prodotti mill-Kummissjoni tal-UE msemmija fl-Artikolu
 
 (b) Tali informazzjoni tista’ tintuża wkoll għall-stima u infurzar ta’ taxxi u dazji oħra koperti bl-Artikolu 2 tad-Direttiva 2010/24/UE tas-16 ta’ Marzu 2010 dwar assistenza reċiproka għall-irkupru ta’ talbiet relatati ma’ taxxi, dazji u miżuri oħra, jew għall-valutazzjoni u l-infurzar tal-kontribuzzjonijiet obbligatorji tas-sigurtà soċjali.
 
-(ċ) Barra minn hekk, tali informazzjoni tista’ tintuża b’konnessjoni ma’ proċeduri ġudizzjarji u amministrattivi li jistgħu jinvolvu pieni, mibdija bħala [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-riżultat ta’ ksur tal-liġijiet tat-taxxa, mingħajr preġudizzju għar-regoli ġenerali u d-dispożizzjonijiet li jirregolaw id-drittijiet tal-konvenuti u tax-xhieda f’dawn il-proċeduri.
-
-*46*
+(ċ) Barra minn hekk, tali informazzjoni tista’ tintuża b’konnessjoni ma’ proċeduri ġudizzjarji u amministrattivi li jistgħu jinvolvu pieni, mibdija bħala riżultat ta’ ksur tal-liġijiet tat-taxxa, mingħajr preġudizzju għar-regoli ġenerali u d-dispożizzjonijiet li jirregolaw id-drittijiet tal-konvenuti u tax-xhieda f’dawn il-proċeduri.
 
 (d) L-awtorità kompetenti f’Malta għandha tiżgura li kull Persuna Rapportabbli individwali hija avżata bil-ksur tas-sigurtà fir-rigward tad-data meta dak il-ksur x’aktarx jaffettwa l-protezzjoni tad-data personali jew il-privatezza tagħha.
 
@@ -1291,11 +1112,7 @@ riżultat ta’ ksur tal-liġijiet tat-taxxa, mingħajr preġudizzju għar-regol
 
 (3) Fejn l-awtorità kompetenti ta’ Stat Membru ieħor tal-UE titlob permess għal użu ieħor bħal dak imsemmi fit-tielet paragrafu tal-Artikolu 16(1) tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva, l-awtorità kompetenti f’Malta għandha tagħti dan il-permess biss jekk l-informazzjoni tista’ tintuża għal skopijiet simili f’Malta.
 
-(4) (a) Meta l-awtorità kompetenti f’Malta tqis li l-informazzjoni li tkun irċeviet mill-awtorità kompetenti ta’ Stat Membru ieħor fl-UE x’aktarx li tkun utli għall-finijiet imsemmija fis-subregolament (1)(a) għal awtorità kompetenti ta’ Stat Membru terz, hi tista’ tagħti tali informazzjoni lill-awtorità kompetenti ta’ dan tal-aħħar, diment li t-trażmissjoni tkun skont ir-regoli u l-proċeduri stabbiliti f’dawn ir-regolamenti. L-awtorità kompetenti f’Malta għandha tinforma lill-awtorità kompetenti tal-Istat FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-Membru li minnu tkun oriġinat l-informazzjoni dwar l-intenzjoni tagħha li taqsam l-informazzjoni mal-Istat Membru terz. L-Istat Membru ta’ oriġini tal-informazzjoni jista’ jopponi għal tali tqassim ta’ informazzjoni fi żmien ħmistax (15)-il jum kalendarju minn meta jirċievi l-komunikazzjoni mill-awtorità kompetenti f’Malta li trid taqsam l-informazzjoni.
-
-*47*
+(4) (a) Meta l-awtorità kompetenti f’Malta tqis li l-informazzjoni li tkun irċeviet mill-awtorità kompetenti ta’ Stat Membru ieħor fl-UE x’aktarx li tkun utli għall-finijiet imsemmija fis-subregolament (1)(a) għal awtorità kompetenti ta’ Stat Membru terz, hi tista’ tagħti tali informazzjoni lill-awtorità kompetenti ta’ dan tal-aħħar, diment li t-trażmissjoni tkun skont ir-regoli u l-proċeduri stabbiliti f’dawn ir-regolamenti. L-awtorità kompetenti f’Malta għandha tinforma lill-awtorità kompetenti tal-Istat Membru li minnu tkun oriġinat l-informazzjoni dwar l-intenzjoni tagħha li taqsam l-informazzjoni mal-Istat Membru terz. L-Istat Membru ta’ oriġini tal-informazzjoni jista’ jopponi għal tali tqassim ta’ informazzjoni fi żmien ħmistax (15)-il jum kalendarju minn meta jirċievi l-komunikazzjoni mill-awtorità kompetenti f’Malta li trid taqsam l-informazzjoni.
 
 (b) Meta awtorità kompetenti ta’ Stat Membru ieħor tal- UE titlob permess mingħand l-awtorità kompetenti f’Malta biex tittrasmetti informazzjoni li tkun irċeviet mill-awtorità kompetenti f’Malta lill-Stat Membru terz tal-UE għax tqis li tali informazzjoni aktarx tkun utli għall-amministrazzjoni u infurzar tal-liġijiet ta’ dan l- Istat Membru terz tal-UE dwar it-taxxi msemmija fl- Artikolu 2 tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva, l-awtorità kompetenti ta’ Malta għandha tagħti l-permess tagħha jew inkella, skont il-każ, mhux aktar tard minn għaxart ijiem tax-xogħol minn meta tirċievi dik it-talba.
 
@@ -1305,11 +1122,7 @@ Membru li minnu tkun oriġinat l-informazzjoni dwar l-intenzjoni tagħha li taqs
 
 *Kap. 372.*
 
-(7) Informazzjoni, rapporti, dikjarazzjonijiet u kwalunkwe dokument ieħor, jew kopji awtentikati jew siltiet minnhom, miksuba mill-awtoritajiet kompetenti ta’ Stat Membru ieħor u kkomunikati lill-awtorità kompetenti ta’ Malta skont id-dispożizzjonijiet tad-Direttiva tal-UE dwar il-Kooperazzjoni [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-Amministrattiva jistgħu jiġu invokati bħala evidenza mill-korpi kompetenti ta’ Malta fuq l-istess bażi ta’ informazzjoni, rapporti, dikjarazzjonijiet u kwalunkwe dokument ieħor simili provduti minn awtorità ta’ Malta.
-
-*48*
+(7) Informazzjoni, rapporti, dikjarazzjonijiet u kwalunkwe dokument ieħor, jew kopji awtentikati jew siltiet minnhom, miksuba mill-awtoritajiet kompetenti ta’ Stat Membru ieħor u kkomunikati lill-awtorità kompetenti ta’ Malta skont id-dispożizzjonijiet tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva jistgħu jiġu invokati bħala evidenza mill-korpi kompetenti ta’ Malta fuq l-istess bażi ta’ informazzjoni, rapporti, dikjarazzjonijiet u kwalunkwe dokument ieħor simili provduti minn awtorità ta’ Malta.
 
 ### 19. Pajjiżi terzi.
 
@@ -1339,11 +1152,7 @@ Malta għandha tidħol f’arranġamenti ma’ Stati Membri oħra tal-UE li jipp
 
 (1) (a) Kull skambju ta’ informazzjoni skont dawn ir-regolamenti għandu jsir skont ir-Regolament (UE) 2016/679 tal- Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni ta’ persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id- Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad- Data) u l-Att dwar il-Protezzjoni u l-Privatezza tad-Data, inklużi r-regolamenti magħmula taħtu.
 
-(b) Il-Kummissarju jista’ jirrestrinġi d-drittijiet u l-obbligi stabbiliti fl-Artikolu 13, l-Artikolu 14(1) u l-Artikolu 15 tar- Regolament (UE) 2016/679, fejn tali restrizzjoni tirrispetta l-essenza tad-drittijiet u l-libertajiet fundamentali u hija miżura meħtieġa u FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-proporzjonata f’soċjetà demokratika sabiex tissalvagwardja l-objettiv stabbilit fl-Artikolu 23(1)(e) tar-Regolament (UE) 2016/679. Qabel ma japplika restrizzjoni, il-Kummissarju għandu jwettaq valutazzjoni tal-ħtieġa u tal-proporzjonalità u jkun jista’ juri li l-applikazzjoni tar-restrizzjoni hija meħtieġa u proporzjonata.
-
-*49*
+(b) Il-Kummissarju jista’ jirrestrinġi d-drittijiet u l-obbligi stabbiliti fl-Artikolu 13, l-Artikolu 14(1) u l-Artikolu 15 tar- Regolament (UE) 2016/679, fejn tali restrizzjoni tirrispetta l-essenza tad-drittijiet u l-libertajiet fundamentali u hija miżura meħtieġa u proporzjonata f’soċjetà demokratika sabiex tissalvagwardja l-objettiv stabbilit fl-Artikolu 23(1)(e) tar-Regolament (UE) 2016/679. Qabel ma japplika restrizzjoni, il-Kummissarju għandu jwettaq valutazzjoni tal-ħtieġa u tal-proporzjonalità u jkun jista’ juri li l-applikazzjoni tar-restrizzjoni hija meħtieġa u proporzjonata.
 
 (ċ) Il-Kummissarju għandu jżomm rekord ta’ kwalunkwe tali restrizzjoni u r-raġunijiet għal tali restrizzjoni.
 
@@ -1358,10 +1167,6 @@ Iżda meta r-raġuni għar-restrizzjoni ma tibqax tapplika, il- Kummissarju għa
 (f) L-uffiċjal tal-protezzjoni tad-data għandu jiġi kkonsultat, kif xieraq u fil-ħin, fir-rigward ta’ tali restrizzjoni kif imsemmi fil-paragrafu (a), kemm qabel kif ukoll matul iż-żmien kollu ta’ tali restrizzjoni.
 
 (2) Ir-Regolament (UE) 2018/1725 tal-Parlament Ewropew u tal-Kunsill tat-23 ta’ Ottubru 2018 dwar il-protezzjoni ta’ persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali mill-istituzzjonijiet, korpi, uffiċċji u aġenziji tal-Unjoni u dwar il-moviment liberu ta’ tali data, u li jħassar ir-Regolament (KE) Nru 45/2001 u d-Deċiżjoni Nru 1247/ 2002/KE għandu japplika għal kwalunkwe proċessar ta’ data personali skont id-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva mill-istituzzjonijiet, il-korpi, l-uffiċċji u l-aġenziji tal-Unjoni. Madankollu, għall-finijiet tal-applikazzjoni korretta tad-Direttiva tal-UE dwar il- Kooperazzjoni Amministrattiva, il-kamp ta’ applikazzjoni tal-obbligi u d-drittijiet provduti fl-Artikolu 15, fl-Artikolu 16(1) u fl-Artikoli 17 sa 21 tar-Regolament (UE) 2018/1725 għandu jkun ristrett safejn meħtieġ sabiex jiġu salvagwardjati l-interessi msemmija fil-punt (ċ) tal-Artikolu 25(1) tal-istess Regolament.
-
-*50*
-
-[L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 (3) L-Istituzzjonijiet Finanzjarji Rapportanti f’Malta, l-intermedjarji, l-Operaturi tal-Pjattaforma Rapportanti f’Malta, il- Fornituri ta’ Kriptoassi Rapportanti u l-awtorità kompetenti f’Malta għandhom jiġu meqjusa bħala kontrolluri tad-data meta, filwaqt li jaġixxu waħidhom jew b’mod konġunt ma’ oħrajn, jiddeterminaw l-għanijiet u l-mezzi tal-ipproċessar tad-data personali skont it-tifsira tar-Regolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar il- Protezzjoni tad-Data u l-Att dwar il-Protezzjoni u l-Privatezza tad- Data.
 
@@ -1381,11 +1186,7 @@ Iżda l-informazzjoni li tkun ġiet riċevuta permezz ta’ skambju awtomatiku t
 
 (a) l-awtorità kompetenti f’Malta għandha tirrapporta l-ksur tad-data u kwalunkwe azzjoni ta’ rimedju sussegwenti lill-Kummissjoni mingħajr dewmien; u
 
-(b) l-awtorità kompetenti f’Malta għandha tinvestiga, tikkontrolla u tirrimedja l-ksur tad-data u għandha, billi tinnotifika bil-miktub lill-Kummissjoni, titlob is-sospensjoni FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-tal-aċċess għall-NKK għall-finijiet ta’ dawn ir-regolamenti, jekk il-ksur tad-data ma jkunx jista’ jiġi kkontrollat minnufih u b’mod xieraq.
-
-*51*
+(b) l-awtorità kompetenti f’Malta għandha tinvestiga, tikkontrolla u tirrimedja l-ksur tad-data u għandha, billi tinnotifika bil-miktub lill-Kummissjoni, titlob is-sospensjoni tal-aċċess għall-NKK għall-finijiet ta’ dawn ir-regolamenti, jekk il-ksur tad-data ma jkunx jista’ jiġi kkontrollat minnufih u b’mod xieraq.
 
 (7) F’każ li l-ksur tad-data jsir fi Stat Membru ieħor, l-awtorità kompetenti f’Malta tista’ tissospendi l-iskambju ta’ informazzjoni lill-Istati Membri fejn ikun seħħ il-ksur tad-data billi tinnotifika bil-miktub lill-Kummissjoni u lill-Istati Membri kkonċernati. Tali sospensjoni għandu jkollha effett immedjat.
 
@@ -1405,11 +1206,7 @@ Iżda l-awtorità kompetenti f’Malta tista’, safejn ikun magħruf u f’konf
 
 (2) L-informazzjoni spontanja u l-konferma tal-wasla tagħha skont ir-regolament 14, it-talbiet għal notifiki amministrattivi skont ir-regolament 17, l-informazzjoni dwar il-feedback skont ir-regolament 11(4) u (5), u l-komuniki skont ir-regolament 18(2) u (4) u r-regolament 20(1) għandhom jintbagħtu permezz tal-formoli standard adottati mill-Kummissjoni skont il-proċedura msemmija fl-Artikolu 26(2) tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva.
 
-(3) L-iskambju awtomatiku tal-informazzjoni skont id-dispożizzjonijiet tar-regolament 13(1) u (13) għandu jsir bl-użu ta’ format kompjuterizzat standard bil-għan li jiffaċilita tali skambju awtomatiku, adottat mill-Kummissjoni skont il-proċedura msemmija [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-fl-Artikolu 26(2) tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva.
-
-*52*
+(3) L-iskambju awtomatiku tal-informazzjoni skont id-dispożizzjonijiet tar-regolament 13(1) u (13) għandu jsir bl-użu ta’ format kompjuterizzat standard bil-għan li jiffaċilita tali skambju awtomatiku, adottat mill-Kummissjoni skont il-proċedura msemmija fl-Artikolu 26(2) tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva.
 
 (4) Formola standard, inklużi arranġamenti lingwistiċi, għandha tiġi adottata mill-Kummissjoni Ewropea f'konformità mal-proċedura msemmija fl-Artikolu 26(2) tad-Direttiva tal-UE dwar il- Kooperazzjoni Amministrattiva qabel l-1 ta' Jannar 2017. L-iskambju awtomatiku ta' informazzjoni dwar deċiżjonijiet antiċipati transkonfinali u arranġamenti preliminari ta' prezzijiet ta' trasferiment skont ir-regolament 13(3) għandu jsir bl-użu ta' dik il-formola standard. Din il-formola standard ma għandhiex teċċedi l-komponenti għall-iskambju tal-informazzjoni elenkati fir-regolament 13(3)(e) u oqsma oħra relatati marbuta ma' dawn il-komponenti meħtieġa biex jinkisbu l-objettivi tar-regolament 13(3).
 
@@ -1419,11 +1216,7 @@ fl-Artikolu 26(2) tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva.
 
 (7) Għandha tiġi adottata formola standard, inklużi l-arranġamenti lingwistiċi, mill-Kummissjoni tal-UE skont il-proċedura msemmija fl- Artikolu 26(2) tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva qabel it-30 ta’ Ġunju 2025. L-iskambju awtomatiku ta’ informazzjoni dwar kriptoassi rapportabbli skont ir-regolament 13(13) għandu jitwettaq bl-użu ta’ din il-formola standard. Din il-formola standard ma għandhiex teċċedi id-dettalji għall-iskambju ta’ informazzjoni elenkati fir-regolament 13(13)(ċ) u dettalji oħra relatati marbuta ma’ dawn il-komponenti li huma meħtieġa sabiex jintlaħqu l-objettivi tar-regolament 13(13).
 
-(8) Entità rapportanti tista’ tikseb konferma permezz ta’ mezzi elettroniċi dwar il-validità tal-informazzjoni tan-NIT ta’ kwalunkwe kontribwent, kif soġġett għall-iskambju ta’ informazzjoni taħt ir-regolament 13(1) sa (13). Il-konferma tal-informazzjoni fuq in-NIT tista’ tintalab biss għall-finijiet ta’ validazzjoni tal-korrettezza tad-data msemmija fir-regolament 13(1), (2), (3)(e), (4)(ċ), (7)(o), (12)(ċ) u (13)(ċ). Entità rapportanti tista’ tikkonferma l-validità ta’ informazzjoni tan-NIT permezz ta’ għodda li għandha tiġi provduta FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-mill-Kummissjoni tal-UE, li tippermetti verifika elettronika u awtomatizzata tal-korrettezza tat-NIT provduta minn entità rapportanti jew kontribwenti għall-finijiet tal-iskambju awtomatiku ta’ informazzjoni.
-
-*53*
+(8) Entità rapportanti tista’ tikseb konferma permezz ta’ mezzi elettroniċi dwar il-validità tal-informazzjoni tan-NIT ta’ kwalunkwe kontribwent, kif soġġett għall-iskambju ta’ informazzjoni taħt ir-regolament 13(1) sa (13). Il-konferma tal-informazzjoni fuq in-NIT tista’ tintalab biss għall-finijiet ta’ validazzjoni tal-korrettezza tad-data msemmija fir-regolament 13(1), (2), (3)(e), (4)(ċ), (7)(o), (12)(ċ) u (13)(ċ). Entità rapportanti tista’ tikkonferma l-validità ta’ informazzjoni tan-NIT permezz ta’ għodda li għandha tiġi provduta mill-Kummissjoni tal-UE, li tippermetti verifika elettronika u awtomatizzata tal-korrettezza tat-NIT provduta minn entità rapportanti jew kontribwenti għall-finijiet tal-iskambju awtomatiku ta’ informazzjoni.
 
 ### 23. Implimentazzjoni u interpretazzjoni tal-Ftehim FATCA u r- Regolamenti Fatca.
 
@@ -1471,11 +1264,7 @@ Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha żżomm l-informaz
 
 (1) Għall-għanijiet tar-Regolamenti FATCA, Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tapplika l-proċeduri ta’ diliġenza xierqa speċifikati fl-Anness 1 tal-Ftehim FATCA sabiex tiddentifika Kontijiet Rapportabbli tal-Istati Uniti u kontijiet miżmuma minn Istituzzjonijiet Finanzjarji Mhux Parteċipanti. Għal dan il-għan -
 
-(a) il-proċeduri ta’ diliġenza xierqa fir-rigward ta’ Kontijiet Individwali Pre-eżistenti għandhom ikunu [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-regolati skont id-dispożizzjonijiet tat-taqsima II tal- Anness I tal-Ftehim FATCA;
-
-*54*
+(a) il-proċeduri ta’ diliġenza xierqa fir-rigward ta’ Kontijiet Individwali Pre-eżistenti għandhom ikunu regolati skont id-dispożizzjonijiet tat-taqsima II tal- Anness I tal-Ftehim FATCA;
 
 (b) il-proċeduri ta’ diliġenza xierqa rigward Kontijiet Individwali Ġodda għandhom ikunu regolati skont id-dispożizzjonijiet tat-taqsima III tal-Anness I tal- Ftehim FATCA;
 
@@ -1499,11 +1288,11 @@ Bla ħsara għad-dispożizzjonijiet tal-artikolu 19 tal-Att dwar l-Amministrazzj
 
 (b) iżżomm l-informazzjoni li tkun meħtieġa biex tkun użata bħala evidenza sabiex jiġi stabbilit l-istatus tad-detentur tal-kont taħt ir-regolament 28 tar- Regolamenti FATCA għal perjodu minimu ta’ ħames snin li jibda għaddej mill-aħħar tas-sena li għaliha dik l-informazzjoni tkun tirrelata.
 
-*55*
+### 30. Obbligi ta’ rappurtar.
 
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 30. (1) Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tirrapporta kull sena l-informazzjoni speċifikata fl- Artikolu 2(2)(a) u fl-Artikolu 3(2) tal-Ftehim FATCA dwar il- Kontijiet Rapportabbli tal-Istati Uniti flimkien ma’ rapport annwali dwar il-miżuri u l-proċeduri li żżomm u tapplika sabiex tissodisfa l-obbligi tagħha skont il-Ftehim FATCA bil-mod u fiż-żmien stabbilit fil-linji gwida:
+*Miżjud: A.L. 408 tal-2014. Emendat: A.L. 384 tal-2015; A.L. 18 tal-2025.*
 
-*Obbligi ta’ rappurtar. Miżjud: A.L. 408 tal-2014. Emendat: A.L. 384 tal-2015; A.L. 18 tal-2025.*
+(1) Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar għandha tirrapporta kull sena l-informazzjoni speċifikata fl- Artikolu 2(2)(a) u fl-Artikolu 3(2) tal-Ftehim FATCA dwar il- Kontijiet Rapportabbli tal-Istati Uniti flimkien ma’ rapport annwali dwar il-miżuri u l-proċeduri li żżomm u tapplika sabiex tissodisfa l-obbligi tagħha skont il-Ftehim FATCA bil-mod u fiż-żmien stabbilit fil-linji gwida:
 
 Iżda dak ir-rappurtar għandu jieħu kunsiderazzjoni taż-żmien u l-eskluzzjonijiet speċifikati fl-Artikolu 3 tal-Ftehim FATCA.
 
@@ -1537,10 +1326,6 @@ Kemm-il darba Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tidħol fi tr
 
 (i) elfejn u ħamest mitt euro (€2,500); u
 
-*56*
-
-[L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
 (ii) mitt euro (€100) għal kull ġurnata li n-nuqqas jibqa’ għaddej: iżda din il-penali m’għandhiex teċċedi total ta’ għoxrin elf euro (€20,000);
 
 (d) meta Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tonqos milli tirrapporta l-informazzjoni meħtieġa li tinżamm skont l-Artikolu 2(2)(a) u l-Artikolu 3(2) tal- Ftehim FATCA b’mod sħiħ u preċiż, penali ta’:
@@ -1563,11 +1348,7 @@ Kemm-il darba Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tidħol fi tr
 
 (2) B’żieda u mingħajr preġudizzju għall-pieni imposti skont is-subartikolu (1), fejn Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar tinstab li ssottomettiet informazzjoni li tkun żbaljata b’mod li tiżgwida jew hija qarrieqa jew falza, kull uffiċjal amministratur anzjan ta’ tali Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar ikun ħati ta’ reat u jeħel, meta jinstab ħati, multa ta’ mhux inqas minn għaxart elef euro (€10,000) u mhux iżjed minn tletin elf euro (€30,000), jew priġunerija għal perjodu ta’ mhux iżjed minn sentejn, jew dik il-multa u priġunerija flimkien:
 
-Iżda direttur, manager jew uffiċjal prinċipali ieħor ta’ tali FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar ma jkunx ħati ta’ dak ir-reat bis-saħħa ta’ dan is-subregolament jekk huwa jġib prova li li hu ma kienx jaf u ma setax b’diliġenza raġonevoli jsir jaf b’dak l-għemil jew nuqqas u li huwa għamel kull ma seta’ jagħmel sabiex jżomm milli jsir dak l-għemil jew nuqqqas.
-
-*57*
+Iżda direttur, manager jew uffiċjal prinċipali ieħor ta’ tali Istituzzjoni Finanzjarja ta’ Malta ta’ Rappurtar ma jkunx ħati ta’ dak ir-reat bis-saħħa ta’ dan is-subregolament jekk huwa jġib prova li li hu ma kienx jaf u ma setax b’diliġenza raġonevoli jsir jaf b’dak l-għemil jew nuqqas u li huwa għamel kull ma seta’ jagħmel sabiex jżomm milli jsir dak l-għemil jew nuqqqas.
 
 ### 34. Anness II tal- Ftehim FATCA.
 
@@ -1597,13 +1378,9 @@ Iżda f’dawn il-każijiet, referenza għad-dispożizzjonijiet legali speċifik
 
 (2) L-avviż imsemmi fis-subregolament (1) jista’ jiġi notifikat lill-persuna rilevanti bl-istess mod kif deskritt fl-artikolu 29(1) tal-Att dwar l-Amministrazzjoni tat-Taxxa.
 
-(3) Meta l-penali ma titħallasx fiż-żmien speċifikat fl-avviż imsemmi fis-subregolament (1), il-Kummissarju għandu jinforma lill-dik il-persuna msemmija fis-subregolament (1) u jinnotifikaha b’avviż ta’ talba u javżaha li sakemm dan l-aħħar avviż ma jkunx kontestat f’qorti tal-liġi fi żmien tletin ġurnata mid-data li jkun ġie notifikat dan ikun jikkostitwixxi titolu eżekuttiv għall-finijiet tal-artikolu 40(1)(d) tal-Att dwar l-Amministrazzjoni tat-Taxxa. Għal [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
+(3) Meta l-penali ma titħallasx fiż-żmien speċifikat fl-avviż imsemmi fis-subregolament (1), il-Kummissarju għandu jinforma lill-dik il-persuna msemmija fis-subregolament (1) u jinnotifikaha b’avviż ta’ talba u javżaha li sakemm dan l-aħħar avviż ma jkunx kontestat f’qorti tal-liġi fi żmien tletin ġurnata mid-data li jkun ġie notifikat dan ikun jikkostitwixxi titolu eżekuttiv għall-finijiet tal-artikolu 40(1)(d) tal-Att dwar l-Amministrazzjoni tat-Taxxa. Għal dan il-għan biss, il-penali rilevanti għandha tkun ikkunsidrata li tkun taxxa li kellha titħallas.
 
 *Kap. 372.*
-
-dan il-għan biss, il-penali rilevanti għandha tkun ikkunsidrata li tkun taxxa li kellha titħallas.
-
-*58*
 
 (4) Meta l-Kummissarju jkun sodisfatt li n-nuqqas li fir-rigward tiegħu l-penali jkunu ġew imposti taħt is-subregolament(1) ma kienx dovut għal xi tort jew negliġenza min-naħa tal-persuna rilevanti, hu għandu jaħfer il-penali msemmija kollha u, f’kull każ ieħor, jista’ jaħfer il-penali kollha jew parti minnha kif hu jidhirlu xieraq. F’kull każ il-Kummissarju għandu jinforma lill-persuna msemmija b’dan.
 
@@ -1643,11 +1420,7 @@ Għall-finijiet tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva, Isti
 
 (a) il-proċeduri ta’ diliġenza xierqa fir-rigward ta’ Kontijiet Individwali Pre-eżistenti għandhom ikunu regolati skont id-dispożizzjonijiet tat-Taqsima III tal- Anness I li jinsab ma’ dawn ir-regolamenti;
 
-(b) il-proċeduri ta’ diliġenza xierqa rigward Kontijiet Individwali Ġodda għandhom ikunu regolati skont id-dispożizzjonijiet tat-Taqsima IV tal-Anness I li jinsab FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-ma’ dawn ir-regolamenti;
-
-*59*
+(b) il-proċeduri ta’ diliġenza xierqa rigward Kontijiet Individwali Ġodda għandhom ikunu regolati skont id-dispożizzjonijiet tat-Taqsima IV tal-Anness I li jinsab ma’ dawn ir-regolamenti;
 
 (ċ) il-proċeduri ta’ diliġenza xierqa rigward Kontijiet Pre-eżistenti ta’ Entità għandhom ikunu regolati skont id-dispożizzjonijiet tat-Taqsima V tal-Anness I li jinsab ma’ dawn ir-regolamenti;
 
@@ -1676,10 +1449,6 @@ Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tirrapporta kull sena 
 *Miżjud: A.L. 384 tal-2015. Kap. 372.*
 
 Il-Kummissarju jista’ juża kull setgħa taħt l-Atti dwar it- Taxxi biex jiġbor informazzjoni, inkluża dik taħt id-dispożizzjonijiet tal-artikoli 10A u 20 tal-Att dwar l- Amministrazzjoni tat-Taxxa, biex jikseb kull informazzjoni speċifikata fit-Taqsima I tal-Anness I li jinsab ma’ dawn ir-regolamenti, minkejja li dik l-informazzjoni tista’ ma tkunx meħtieġa għall-għanijiet tal-Atti dwar it-Taxxi. Id-dispożizzjonijiet ta’ dan ir-regolament għandhom ikunu interpretati b’mod wiesa’ bl-istess mod bħall-interpretazzjoni li tinsab fir-regolament 5.
-
-*60*
-
-[L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 ### 43. Miżuri kontra l-evitar ta’ taxxi.
 
@@ -1713,11 +1482,7 @@ Jekk Istituzzjoni Finanzjarja ta’ Malta Rapportanti jew kwalunkwe persuna oħr
 
 (aa) mitejn euro (€200); u
 
-(bb) ħamsin euro (€50) għal kull ġurnata li n-nuqqas jibqa għaddej: iżda din il-penali FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-m’għandhiex teċċedi total ta’ ħamest elef euro (€5,000);
-
-*61*
+(bb) ħamsin euro (€50) għal kull ġurnata li n-nuqqas jibqa għaddej: iżda din il-penali m’għandhiex teċċedi total ta’ ħamest elef euro (€5,000);
 
 (ii) fil-każ ta’ nuqqas ta’ konformità sinifikanti, penali ta’ ħamsin elf euro (€50,000);
 
@@ -1749,11 +1514,7 @@ Iżda għall-finijiet ta’ dan ir-regolament:
 
 *Kap. 123.*
 
-(b) referenzi fir-regolament 13(2), (3)(b), (4), u (5)(b) u fir-regolamenti 36 sa 44 u fl-Anness I u II ta’ dawn ir-regolamenti għal "Stat Membru", "Persuna ta' Stat Membru" u "Direttiva tal-UE dwar l-Kooperazzjoni Amministrattiva" għandhom jinftiehmu bħala referenzi [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-għal "Ġurisdizzjoni Rapportabbli li mhijiex Stat Membru tal-UE", "persuna residenti f’Ġurisdizzjoni Rapportabbli li mhijiex Stat Membru tal-UE" u "Standard ta' Rappurtar Komuni" rispettivament. Għall-finijet ta’ dan ir-regolament, it-terminu "Standard ta' Rappurtar Komuni" ifisser l-Istandard għal Skambju Awtomatiku ta' Informazzjoni dwar Kontijiet Finanzjarji għal Kwistjonijiet ta' Taxxa, kif żviluppat mill-Organizzazzjoni għall-Kooperazzjoni u l-Iżvilupp Ekonomiċi.
-
-*62*
+(b) referenzi fir-regolament 13(2), (3)(b), (4), u (5)(b) u fir-regolamenti 36 sa 44 u fl-Anness I u II ta’ dawn ir-regolamenti għal "Stat Membru", "Persuna ta' Stat Membru" u "Direttiva tal-UE dwar l-Kooperazzjoni Amministrattiva" għandhom jinftiehmu bħala referenzi għal "Ġurisdizzjoni Rapportabbli li mhijiex Stat Membru tal-UE", "persuna residenti f’Ġurisdizzjoni Rapportabbli li mhijiex Stat Membru tal-UE" u "Standard ta' Rappurtar Komuni" rispettivament. Għall-finijet ta’ dan ir-regolament, it-terminu "Standard ta' Rappurtar Komuni" ifisser l-Istandard għal Skambju Awtomatiku ta' Informazzjoni dwar Kontijiet Finanzjarji għal Kwistjonijiet ta' Taxxa, kif żviluppat mill-Organizzazzjoni għall-Kooperazzjoni u l-Iżvilupp Ekonomiċi.
 
 ### 46. Estensjoni tar-regolament 39 għal ġurisdizzjonijiet oħra. Estensjoni tal-applikazzjoni għal ġurisdizzjonijiet li mhumiex Stati Membri tal-UE.
 
@@ -1783,11 +1544,7 @@ Il-Kummissarju jista’ juża kull setgħa li għandu fir-rigward ta’ ġbir ta
 
 (ii) mitt euro (€100) għal kull ġurnata li n-nuqqas jibqa’ għaddej: iżda din il-penali m’għandhiex teċċedi total ta’ għoxrin elf euro (€20,000).
 
-(2) Meta Entità Kostitwenti Maltija tonqos milli tirrapporta l-informazzjoni meħtieġa li tiġi rappurtata skont ir-regolament 13(4) FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
-b’mod sħiħ u preċiż, penali ta’:
-
-*63*
+(2) Meta Entità Kostitwenti Maltija tonqos milli tirrapporta l-informazzjoni meħtieġa li tiġi rappurtata skont ir-regolament 13(4) b’mod sħiħ u preċiż, penali ta’:
 
 (i) f’każ ta’ żbalji minuri -
 
@@ -1823,11 +1580,7 @@ Iżda din il-penali m’għandhiex teċċedi total ta’ ħamest elef euro (€5
 
 (1) Id-dispożizzjonijiet tar-regolament 13(4), (5), (6), (7)(d), (8)(a) u (9)(b), u tar-regolamenti 36 u 47 sa 48 għandhom japplikaw mutatis mutandis fir-rigward ta’ ġurisdizzjonijiet li mhumiex Stati Membri tal-UE u:
 
-(a) li huwa fis-seħħ magħha arranġament li konformement [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-miegħu hemm obbligu li tiġi provduta l-informazzjoni speċifikata fit-Taqsima III tal-Anness III li jinsab ma’ dawn ir-regolamenti; u
-
-*64*
+(a) li huwa fis-seħħ magħha arranġament li konformement miegħu hemm obbligu li tiġi provduta l-informazzjoni speċifikata fit-Taqsima III tal-Anness III li jinsab ma’ dawn ir-regolamenti; u
 
 (b) li huma identifikati fil-lista pubblikata mill-Kummissarju fuq il-website tal-Kummissarju tat-Taxxi, taħt id-dispożizzjonijiet tal-artikolu 96(2) tal-Att dwar it-Taxxa fuq l-Income.
 
@@ -1859,10 +1612,6 @@ miegħu hemm obbligu li tiġi provduta l-informazzjoni speċifikata fit-Taqsima 
 
 (a) elf euro (€1,000); u
 
-*65*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
-
 (b) mitt euro (€100) għal kull ġurnata li matulha jseħħ in-nuqqas: iżda din il-penali m’għandhiex tkun, fit-total, iżjed minn tletin elf euro (€30,000).
 
 ### 51. Notifika ta’ avviżi.
@@ -1889,11 +1638,7 @@ Għall-finijiet tar-regolamenti 4A, 5, 6 u 35, fejn in-notifika ma sseħħx min�
 
 (ii) mitt euro (€100) għal kull ġurnata li n-nuqqas jibqa’ jissussisti, liema penali amministrattiva ma għandhiex teċċedi fit-total għoxrin elf euro (€20,000);
 
-(e) fejn Operatur ta’ Pjattaforma Rapportanti f’Malta jonqos milli jirrapporta l-informazzjoni meħtieġa li tiġi rrappurtata skont it-Taqsima III tal-Anness V b’mod komplut [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-u preċiż, penali amministrattiva ta’:
-
-*66*
+(e) fejn Operatur ta’ Pjattaforma Rapportanti f’Malta jonqos milli jirrapporta l-informazzjoni meħtieġa li tiġi rrappurtata skont it-Taqsima III tal-Anness V b’mod komplut u preċiż, penali amministrattiva ta’:
 
 (i) fil-każ ta’ żbalji minuri:
 
@@ -1922,10 +1667,6 @@ L-effettività tal-kooperazzjoni amministrattiva skont dawn ir-regolamenti u sko
 (a) fejn Fornitur ta’ Servizz ta’ Kriptoassi Rapportanti f’Malta jonqos milli jirreġistra mal-Kummissarju skont ir-regolament 13(13)(e) u b’tali mod u fi żmien li l- Kummissarju jeħtieġ, penali amministrattiva ta’ ħames mitt euro (€500);
 
 (b) fejn Fornitur ta’ Servizz ta’ Kriptoassi Rapportanti f’Malta jonqos milli jżomm id-dokumentazzjoni u l-informazzjoni li jkun ġabar waqt li kien qiegħed josserva l-obbligu ta’ diliġenza dovuta u ta’ rappurtar għal perjodu minimu ta’ ħames (5) snin li jibda mill-aħħar tas-sena li għaliha l-informazzjoni tirrelata, penali amministrattiva ta’ elfejn u ħames mitt euro (€2,500);
-
-*67*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
 
 (ċ) fejn Fornitur ta’ Servizz ta’ Kriptoassi Rapportanti f’Malta jonqos milli jirrapporta l-informazzjoni meħtieġa li tiġi rrapportata skont it-Taqsima II tal-Anness VI sas-żmien stipulat fit-Taqsima III, penali amministrattiva ta’:
 
@@ -1957,15 +1698,7 @@ Iżda uffiċjal anzjan maniġerjali tal-imsemmi Fornitur ta’ Servizz ta’ Kri
 
 (2) Għal perjodi taxxabbli li jibdew fi, jew wara l-1 ta’ Jannar 2030, in-NIT ta’ residenti maħruġ mill-Istat Membru ta’ residenza għandu jiġi rrappurtat, fejn possibbli, fir-rigward tal-informazzjoni msemmija fir-regolament 13(1)(a), (b) u (d).
 
-(3) Għal perjodi taxxabbli li jibdew fi jew wara l-1 ta’ Jannar 2028, in-NIT ta’ individwi u entitajiet maħruġ minn Stat Membru ta’ residenza għandu jiġi rapportat, fejn possibbli, fir-rigward tal-informazzjoni msemmija fir-regolament 13(3)(e)(i) u (xi), kif ukoll ta’ [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-individwi u entitajiet fir-rigward tal-informazzjoni msemmija fir-regolament 13(4)(ċ)(ii) u 13(7)(o). L-awtorità kompetenti f’Malta għandha tinkludi tali informazzjoni fil-komunikazzjoni tagħha ta’ informazjoni msemmija fir-regolament 13(4)(ċ)(ii) u fir-regolament 13(7)(o).
-
-*68*
-
-*69*
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127
+(3) Għal perjodi taxxabbli li jibdew fi jew wara l-1 ta’ Jannar 2028, in-NIT ta’ individwi u entitajiet maħruġ minn Stat Membru ta’ residenza għandu jiġi rapportat, fejn possibbli, fir-rigward tal-informazzjoni msemmija fir-regolament 13(3)(e)(i) u (xi), kif ukoll ta’ individwi u entitajiet fir-rigward tal-informazzjoni msemmija fir-regolament 13(4)(ċ)(ii) u 13(7)(o). L-awtorità kompetenti f’Malta għandha tinkludi tali informazzjoni fil-komunikazzjoni tagħha ta’ informazjoni msemmija fir-regolament 13(4)(ċ)(ii) u fir-regolament 13(7)(o).
 
 Miżjud: ANNESS I
 
@@ -2003,9 +1736,7 @@ A. Kif soġġett għall-paragrafi Ċ sa F, kull Istituzzjoni Finanzjarja Rapport
 
 \5. fil-każ ta’ kwalunkwe Kont ta’ Kustodja:
 
-(a) l-ammont gross totali ta’ interessi, l-ammont gross totali ta’ dividendi u l-ammont gross totali ta’ dħul ieħor iġġenerat fir- 70 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-rigward tal-assi miżmuma fil-kont, f’kull każ imħallas jew ikkreditat lill-kont, jew fir-rigward tal-kont, matul is-sena kalendarja jew perjodu ta’ rappurtaġġ adatt ieħor; u
+(a) l-ammont gross totali ta’ interessi, l-ammont gross totali ta’ dividendi u l-ammont gross totali ta’ dħul ieħor iġġenerat fir-rigward tal-assi miżmuma fil-kont, f’kull każ imħallas jew ikkreditat lill-kont, jew fir-rigward tal-kont, matul is-sena kalendarja jew perjodu ta’ rappurtaġġ adatt ieħor; u
 
 (b) ir-rikavat gross totali mill-bejgħ jew l-ammortament ta’ Assi Finanzjarji mħallas jew ikkreditat lill-kont matul is-sena kalendarja jew perjodu ta’ rappurtaġġ adatt ieħor li fir-rigward tiegħu l-Istituzzjoni Finanzjarja Rapportanti f’Malta aġixxiet bħala kustodju, intermedjarju, persuna nominata, jew inkella bħala aġent tad-Detentur tal-Kont;
 
@@ -2025,9 +1756,7 @@ D. Minkejja s-subparagrafu A(1), it-TIN ma jkunx meħtieġ li jiġi rappurtat je
 
 (2) ikun disponibbli fid-data li tista’ titfittex b’mod elettroniku miżmuma mill-Istituzzjoni Finanzjarja ta’ Malta Rapportanti.
 
-F. Minkejja l-punt (b) tas-subparagrafu A(5), il-punt (b), u sakemm l- Istituzzjoni Finanzjarja Rapportanti f’Malta ma tagħżilx xort’oħra fir-rigward ta’ kwalunkwe grupp ta’ kontijiet identifikat b’mod ċar, ir-rikavat gross mill-bejgħ jew FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 71
-
-mill-ammortament ta’ Assi Finanzjarji ma huwiex meħtieġ li jiġi rrappurtat inkwantu dan ir-rikavat gross mill-bejgħ jew mill-ammortament ta’ tali Assi Finanzjarji jiġi rrappurtat mill-Istituzzjoni Finanzjarja Rapportanti f’Malta skont ir-regolament 13(13).
+F. Minkejja l-punt (b) tas-subparagrafu A(5), il-punt (b), u sakemm l- Istituzzjoni Finanzjarja Rapportanti f’Malta ma tagħżilx xort’oħra fir-rigward ta’ kwalunkwe grupp ta’ kontijiet identifikat b’mod ċar, ir-rikavat gross mill-bejgħ jew mill-ammortament ta’ Assi Finanzjarji ma huwiex meħtieġ li jiġi rrappurtat inkwantu dan ir-rikavat gross mill-bejgħ jew mill-ammortament ta’ tali Assi Finanzjarji jiġi rrappurtat mill-Istituzzjoni Finanzjarja Rapportanti f’Malta skont ir-regolament 13(13).
 
 ## TAQSIMA II — REKWIŻITI ĠENERALI TA’ DILIĠENZA DOVUTA
 
@@ -2053,8 +1782,6 @@ B. Kontijiet ta’ Valur Aktar Baxx. Il-proċeduri li ġejjin japplikaw fir-rigw
 
 (a) identifikazzjoni tad-Detentur ta’ Kont bħala resident ta’ Stat Membru;
 
-72 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
 (b) indirizz postali jew ta’ residenza attwali (inkluż kaxxa postali) fi Stat Membru;
 
 (ċ) numru tat-telefon wieħed jew aktar fi Stat Membru u l-ebda numru tat-telefon fl-Istat Membru tal-Istituzzjoni Finanzjarja ta’ Malta Rapportanti;
@@ -2077,9 +1804,7 @@ B. Kontijiet ta’ Valur Aktar Baxx. Il-proċeduri li ġejjin japplikaw fir-rigw
 
 (i) awtoċertifikazzjoni mid-Detentur ta’ Kont tal-Istat(i) Membru/i jew ġurisdizzjoni(jiet) oħra ta’ residenza ta’ tali Detentur ta’ Kont li ma tinkludix dak l-Istat Membru; u
 
-(ii) Evidenza Dokumentarja li tistabbilixxi l-istatus mhux FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 73
-
-rapportabbli tad-Detentur ta’ Kont;
+(ii) Evidenza Dokumentarja li tistabbilixxi l-istatus mhux rapportabbli tad-Detentur ta’ Kont;
 
 (b) l-informazzjoni dwar id-Detentur ta’ Kont fiha prokura effettiva attwali jew awtorità firmatarja mogħtija lil persuna b’indirizz f’dak l-Istat Membru u l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti tikseb, jew tkun eżaminata minn qabel u żżomm rekord ta’:
 
@@ -2111,9 +1836,7 @@ rapportabbli tad-Detentur ta’ Kont;
 
 (ċ) in-numru(i) tat-telefon ta’ Detentur ta’ Kont attwalment fir-rekords, jekk ikun hemm, mal-Istituzzjoni Finanzjarja ta’ Malta Rapportanti;
 
-(d) fil-każ ta’ Kontijiet Finanzjarji minbarra Kontijiet Depositarji, jekk ikun hemm istruzzjonijiet permanenti biex jiġu ttrasferiti fondi fil-kont 74 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-għal kont ieħor (inkluż kont f’fergħa oħra tal-Istituzzjoni Finanzjarja ta’ Malta Rapportanti jew Istituzzjoni Finanzjarja ta’ Malta oħra);
+(d) fil-każ ta’ Kontijiet Finanzjarji minbarra Kontijiet Depositarji, jekk ikun hemm istruzzjonijiet permanenti biex jiġu ttrasferiti fondi fil-kont għal kont ieħor (inkluż kont f’fergħa oħra tal-Istituzzjoni Finanzjarja ta’ Malta Rapportanti jew Istituzzjoni Finanzjarja ta’ Malta oħra);
 
 (e) jekk ikun hemm istruzzjoni attwali ta’ "in-care-of" jew "hold mail" jew għad-Detentur ta’ Kont; u
 
@@ -2129,9 +1852,7 @@ għal kont ieħor (inkluż kont f’fergħa oħra tal-Istituzzjoni Finanzjarja t
 
 \6. Jekk Kont Individwali Pre-eżistenti ma jkunx Kont ta’ Valur Għoli fil-31 ta’ Diċembru 2015, iżda jsir Kont ta’ Valur Għoli fl-aħħar jum ta’ sena kalendarja sussegwenti, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tikkompleta l-proċeduri mtejba ta’ rieżami deskritti fil-paragrafu Ċ fir-rigward ta’ tali kont fis-sena kalendarja wara s-sena li fiha l-kont isir Kont ta’ Valur Għoli. Jekk, abbażi ta’ dan ir-rieżami tali kont ikun identifikat bħala Kont Rapportabbli, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tirrapporta l-informazzjoni meħtieġa dwar tali kont fir-rigward tas-sena li fiha jkun identifikat bħala Kont Rapportabbli u fis-snin sussegwenti fuq bażi annwali, sakemm id-Detentur tal-Kont ma jibqax Persuna Rapportabbli.
 
-\7. Ladarba Istituzzjoni Finanzjarja ta’ Malta Rapportanti tapplika l-proċeduri mtejba ta’ rieżami deskritti fil-paragrafu Ċ għall-Kont ta’ Valur Għoli, l-Istituzzjoni FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 75
-
-Finanzjarja ta’ Malta Rapportanti ma tkunx meħtieġa tapplika mill-ġdid tali proċeduri, minbarra r-rikjesta tal-maniġer għall-kuntatti deskritta fis-subparagrafu Ċ(4), għall-istess Kont ta’ Valur Għoli fi kwalunkwe sena sussegwenti sakemm il-kont ikun mhux dokumentat f ’liema każ l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha terġa’ tapplikahom mill-ġdid kull sena sakemm tali kont ma jibqax mhux dokumentat.
+\7. Ladarba Istituzzjoni Finanzjarja ta’ Malta Rapportanti tapplika l-proċeduri mtejba ta’ rieżami deskritti fil-paragrafu Ċ għall-Kont ta’ Valur Għoli, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti ma tkunx meħtieġa tapplika mill-ġdid tali proċeduri, minbarra r-rikjesta tal-maniġer għall-kuntatti deskritta fis-subparagrafu Ċ(4), għall-istess Kont ta’ Valur Għoli fi kwalunkwe sena sussegwenti sakemm il-kont ikun mhux dokumentat f ’liema każ l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha terġa’ tapplikahom mill-ġdid kull sena sakemm tali kont ma jibqax mhux dokumentat.
 
 \8. Jekk ikun hemm bidla fiċ-ċirkustanzi fir-rigward ta’ Kont ta’ Valur Għoli li tirriżulta f’wieħed jew aktar indicia deskritti fis-subparagrafu B(2) li jkunu qed jiġu assoċjati mal-kont, imbagħad l-I-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tittratta l-kont bħala Kont Rapportabbli fir-rigward ta’ kull Stat Membru li għalih indicium huwa identifikat sakemm ma jagħżilx li japplika s-subparagrafu B(6) u waħda mill-eċċezzjonijiet f’dak is-subparagrafu tapplika fir-rigward ta’ dak il-kont.
 
@@ -2151,8 +1872,6 @@ B. Jekk l-awtoċertifikazzjoni tistabbilixxi li d-Detentur tal-Kont huwa residen
 
 Ċ. Jekk ikun hemm bidla fiċ-ċirkustanzi fir-rigward ta’ Kont Individwali Ġdid li tikkawża lill-Istituzzjoni Finanzjarja ta’ Malta Rapportanti li tkun taf, jew li jkollha raġuni biex tkun taf, li l-awtoċertifikazzjoni oriġinali hija żbaljata jew mhux affidabbli, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti ma tistax tiddependi fuq l-awtoċertifikazzjoni oriġinali u għandha tikseb awtoċertifikazzjoni valida li tistabbilixxi r-residenza(i) għal finijiet ta’ taxxa tad-Detentur tal-Kont.
 
-76 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
 ## TAQSIMA V — DILIĠENZA DOVUTA GĦAL KONTIJIET TA’ ENTITÀ — PRE-EŻISTENTI
 
 Il-proċeduri li ġejjin japplikaw għal finijiet ta’ identifikazzjoni ta’ Kontijiet Rapportabbli fost il-Kontijiet ta’ Entità Pre-eżistenti.
@@ -2169,9 +1888,7 @@ B. Kontijiet ta’ Entità Soġġetti Għal Eżami. Kont ta’ Entità Pre-eżis
 
 (b) Jekk l-informazzjoni tindika li d-Detentur ta’ Kont ikun residenti fi Stat Membru, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tittratta l-kont bħala Kont Rapportabbli sakemm ma tiksibx awtoċertifikazzjoni mid-Detentur tal-Kont, jew b’mod raġonevoli tiddetermina abbażi tal-informazzjoni li jkollha jew li tkun pubblikament disponibbli, li d-Detentur tal-Kont mhuwiex Persuna Rapportabbli.
 
-\2. Tiddetermina Jekk l-Entità tkunx NFE Passiva b’Persuna Kontrollanti Waħda jew Aktar li Jkunu Persuni Rapportabbli. Fir-rigward ta’ Detentur ta’ Kont ta’ Entità Pre-eżistenti (inkluż Entità li tkun Persuna FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 77
-
-Rapportabbli), l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tiddetermina jekk id-Detentur tal-Kont huwiex NFE Passiva bi Persuna Kontrollanti waħda jew aktar li jkunu Persuni Rapportabbli. Jekk kwalunkwe waħda mill-Persuni Kontrollanti ta’ NFE Passiva tkun Persuna Rapportabbli, il-kont għandu jiġi ttrattat bħala Kont Rapportabbli. Meta tagħmel dawn id-determinazzjonijiet l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha ssegwi l-gwida fis-subparagrafi D(2)(a) sa (ċ) fl-ordni l-aktar adatta taħt iċ-ċirkustanzi.
+\2. Tiddetermina Jekk l-Entità tkunx NFE Passiva b’Persuna Kontrollanti Waħda jew Aktar li Jkunu Persuni Rapportabbli. Fir-rigward ta’ Detentur ta’ Kont ta’ Entità Pre-eżistenti (inkluż Entità li tkun Persuna Rapportabbli), l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tiddetermina jekk id-Detentur tal-Kont huwiex NFE Passiva bi Persuna Kontrollanti waħda jew aktar li jkunu Persuni Rapportabbli. Jekk kwalunkwe waħda mill-Persuni Kontrollanti ta’ NFE Passiva tkun Persuna Rapportabbli, il-kont għandu jiġi ttrattat bħala Kont Rapportabbli. Meta tagħmel dawn id-determinazzjonijiet l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha ssegwi l-gwida fis-subparagrafi D(2)(a) sa (ċ) fl-ordni l-aktar adatta taħt iċ-ċirkustanzi.
 
 (a) Jiġi ddeterminat jekk id-Detentur tal-Kont ikunx NFE Passiva. Għall-finijiet tad-determinazzjoni dwar jekk id-Detentur tal-Kont ikunx NFE Passiva, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tikseb awtoċertifikazzjoni mingħand id- Detentur tal-Kont biex jiġi stabbilit l-istatus tiegħu, sakemm ma tiddeterminax b’mod raġonevoli abbażi ta’ informazzjoni fil-pussess tagħha jew li tkun pubblikament disponibbli, li d- Detentur tal-Kont ikun NFE Attiva jew Istituzzjoni Finanzjarja li ma tkunx Entità tal-Investiment deskritta fis-subparagrafu A(6)(b) tat-Taqsima VIII li ma tkunx Istituzzjoni Finanzjarja Parteċipanti tal-Ġurisdizzjoni.
 
@@ -2197,9 +1914,7 @@ L-eżami ta’ Kontijiet ta’ Entità Pre-eżistenti b’bilanċ tal-kont jew v
 
 *\3.*
 
-Jekk ikun hemm bidla fiċ-ċirkustanzi fir-rigward ta’ Kont ta’ Entità Pre- 78 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-eżistenti li tikkawża lill-Istituzzjoni Finanzjarja ta’ Malta Rapportanti li tkun taf, jew ikollha raġuni li tkun taf, li l-awtoċertifikazzjoni jew dokumentazzjoni oħra assoċjata ma’ kont hija żbaljata jew mhux affidabbli, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha terġa’ tiddetermina l-istatus tal-kont skont il-proċeduri stipulati iktar ’il quddiem fil-paragrafu D.
+Jekk ikun hemm bidla fiċ-ċirkustanzi fir-rigward ta’ Kont ta’ Entità Pre-eżistenti li tikkawża lill-Istituzzjoni Finanzjarja ta’ Malta Rapportanti li tkun taf, jew ikollha raġuni li tkun taf, li l-awtoċertifikazzjoni jew dokumentazzjoni oħra assoċjata ma’ kont hija żbaljata jew mhux affidabbli, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha terġa’ tiddetermina l-istatus tal-kont skont il-proċeduri stipulati iktar ’il quddiem fil-paragrafu D.
 
 ## TAQSIMA VI — DILIĠENZA DOVUTA GĦAL KONTIJIET TA’ ENTITÀ ĠODDA
 
@@ -2215,9 +1930,7 @@ Proċeduri ta’ Rieżami biex jiġu Identifikati Kontijiet tal-Entità li fir-R
 
 \2. Tiddetermina Jekk l-Entità tkunx NFE Passiva bi Persuna Kontrollanti Waħda jew Aktar li Jkunu Persuni Rapportabbli. Fir-rigward ta’ Detentur ta’ Kont ta’ Entità Ġdid (inkluż Entità li tkun Persuna Rapportabbli), l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tiddetermina jekk id-Detentur tal-Kont huwiex NFE Passiva bi Persuna Kontrollanti waħda jew aktar li jkunu Persuni Rapportabbli. Jekk kwalunkwe waħda mill-Persuni Kontrollanti ta’ NFE Passiva tkun Persuna Rapportabbli, il-kont għandu jiġi ttrattat bħala Kont Rapportabbli. Meta tagħmel dawn id-determinazzjonijiet l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha ssegwi l-gwida fis-subparagrafi A(2)(a) sa (ċ) fl-ordni l-aktar adatta taħt iċ-ċirkustanzi.
 
-(a) Jiġi ddeterminat jekk id-Detentur tal-Kont ikunx NFE Passiva. Għall-finijiet tad-determinazzjoni dwar jekk id-Detentur tal-Kont ikunx NFE Passiva, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha toqgħod fuq awtoċertifikazzjoni mingħand id-Detentur tal-Kont biex jiġi stabbilit l-istatus tiegħu, sakemm ma jkollhiex informazzjoni fil-pussess tagħha jew li tkun pubblikament disponibbli, li abbażi tagħha FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 79
-
-tista’ raġonevolment tiddetermina li d-Detentur tal-Kont ikun NFE Attiva jew Istituzzjoni Finanzjarja li ma tkunx Entità tal-Investiment deskritta fis-subparagrafu A(6)(b) tat-Taqsima VIII li ma tkunx Istituzzjoni Finanzjarja Parteċipanti tal-Ġurisdizzjoni.
+(a) Jiġi ddeterminat jekk id-Detentur tal-Kont ikunx NFE Passiva. Għall-finijiet tad-determinazzjoni dwar jekk id-Detentur tal-Kont ikunx NFE Passiva, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha toqgħod fuq awtoċertifikazzjoni mingħand id-Detentur tal-Kont biex jiġi stabbilit l-istatus tiegħu, sakemm ma jkollhiex informazzjoni fil-pussess tagħha jew li tkun pubblikament disponibbli, li abbażi tagħha tista’ raġonevolment tiddetermina li d-Detentur tal-Kont ikun NFE Attiva jew Istituzzjoni Finanzjarja li ma tkunx Entità tal-Investiment deskritta fis-subparagrafu A(6)(b) tat-Taqsima VIII li ma tkunx Istituzzjoni Finanzjarja Parteċipanti tal-Ġurisdizzjoni.
 
 (b) Determinazzjoni tal-Persuni Kontrollanti ta’ Detentur tal-Kont.
 
@@ -2233,9 +1946,7 @@ A. Dipendenza fuq Awtoċertifikazzjonijiet u Evidenza Dokumentata. Istituzzjoni 
 
 B. Proċeduri alternattivi għal Kontijiet Finanzjarji Miżmuma minn Benefiċjarji Individwali ta’ Kuntratt tal-Assigurazzjoni b’Valur fi Flus jew Kuntratt ta’ Annwalità u għal Kuntratt tal-Assigurazzjoni b’Valur fi Flus ta’ Grupp jew Kuntratt ta’ Annwalità ta’ Grupp. L-Istituzzjoni Finanzjarja ta’ Malta Rapportanti tista’ tippreżumi li benefiċjarju individwali (għajr is-sid) ta’ Kuntratt tal-Assigurazzjoni b’Valur fi Flus jew Kuntratt ta’ Annwalità li jirċievi benefiċċju tal-mewt ma jkunx Persuna Rapportabbli u tista’ tittratta tali Kont Finanzjarju bħala differenti minn Kont Rapportabbli sakemm l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti ikollha għarfien dwar il-fatt, jew ikollha raġuni biex tkun taf, li l-benefiċjarju jkun Persuna Rapportabbli. Istituzzjoni Finanzjarja ta’ Malta Rapportanti jkollha raġuni biex tkun taf li benefiċjarju ta’ Kuntratt tal-Assigurazzjoni b’Valur fi Flus jew Kuntratt ta’ Annwalità jkun Persuna Rapportabbli jekk l-informazzjoni miġbura mill-Istituzzjoni Finanzjarja ta’ Malta Rapportanti u assoċjata mal-benefiċjarju jkun fiha indicia kif deskritt fil-paragrafu B tat-Taqsima III. Jekk Istituzzjoni Finanzjarja ta’ Malta Rapportanti tkun attwalment taf, jew ikollha raġuni biex tkun taf, li l-benefiċjarju jkun Persuna Rapportabbli, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha ssegwi l-proċeduri fil-paragrafu B tat-Taqsima III.
 
-Istituzzjoni Finanzjarja ta’ Malta Rapportanti tista’ tittratta Kont Finanzjarju li jkun l-interess ta’ membru f’Kuntratt tal-Assigurazzjoni b’Valur fi Flus ta’ Grupp 80 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-jew Kuntratt ta’ Annwalità ta’ Grupp bħala Kont Finanzjarju li ma jkunx Kont Rapportabbli qabel id-data li fiha jkun pagabbli ammont lill-impjegat/id-detentur taċ-ċertifikat jew il-benefiċjarju, jekk il-Kont Finanzjarju li jkun l-interess ta’ membru f’Kuntratt tal-Assigurazzjoni b’Valur fi Flus ta’ Grupp jew Kuntratt ta’ Annwalità ta’ Grupp jissodisfa r-rekwiżiti li ġejjin:
+Istituzzjoni Finanzjarja ta’ Malta Rapportanti tista’ tittratta Kont Finanzjarju li jkun l-interess ta’ membru f’Kuntratt tal-Assigurazzjoni b’Valur fi Flus ta’ Grupp jew Kuntratt ta’ Annwalità ta’ Grupp bħala Kont Finanzjarju li ma jkunx Kont Rapportabbli qabel id-data li fiha jkun pagabbli ammont lill-impjegat/id-detentur taċ-ċertifikat jew il-benefiċjarju, jekk il-Kont Finanzjarju li jkun l-interess ta’ membru f’Kuntratt tal-Assigurazzjoni b’Valur fi Flus ta’ Grupp jew Kuntratt ta’ Annwalità ta’ Grupp jissodisfa r-rekwiżiti li ġejjin:
 
 (i) il-Kuntratt tal-Assigurazzjoni b’Valur fi Flus ta’ Grupp jew Kuntratt ta’ Annwalità jinħareġ lil impjegatur u jkopri 25 impjegat/detentur taċ-ċertifikat jew aktar;
 
@@ -2251,9 +1962,7 @@ It-terminu "Kuntratt ta’ Annwalità ta’ Grupp" ifisser Kuntratt ta’ Annwal
 
 \2. Aggregazzjoni tal-Kontijiet ta’ Entità. Għall-finijiet biex jiġi determinat il-bilanċ jew il-valur aggregat ta’ Kontijiet Finanzjarji miżmuma minn Entità, Istituzzjoni Finanzjarja ta’ Malta Rapportanti hi meħtieġa li tikkunsidra l-Kontijiet Finanzjarji kollha miżmuma mill-Istituzzjoni Finanzjarja ta’ Malta Rapportanti, jew minn Entità Relatata, iżda biss sal-punt li s-sistemi kompjuterizzati tal-Istituzzjoni Finanzjarja ta’ Malta Rapportanti jkollhom konnessjoni mal-Kontijiet Finanzjarji permezz ta’ referenza għal element ta’ data bħal numru tal-klijent jew TIN, u jippermettu li l-bilanċi jew il-valuri tal-kont jiġu aggregati. Kull detentur ta’ Kont Finanzjarju miżmum konġuntament għandu jiġi attribwit il-bilanċ jew il-valur totali tal-Kont Finanzjarju miżmum konġuntament għall-fini li jiġu applikati r-rekwiżiti ta’ aggregazzjoni deskritti f’dan is-subparagrafu.
 
-\3. Regola ta’ Aggregazzjoni Speċjali Applikabbli għal Maniġers tal-Kuntatti. Għall-finijiet biex jiġi determinat il-bilanċ jew il-valur aggregat ta’ Kontijiet Finanzjarji miżmuma minn persuna biex ikun determinat jekk Kont Finanzjarju FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 81
-
-huwiex Kont ta’ Valur Għoli, Istituzzjoni Finanzjarja ta’ Malta Rapportanti hi meħtieġa wkoll, fil-każ ta’ kwalunkwe Kont Finanzjarju li dwaru maniġer tal-kuntatti jkun jaf jew ikollu raġuni biex ikun jaf, li dan ikun direttament jew indirettament jappartjeni lil, hu kkontrollat, jew stabbilit (ħlief f’kapaċità fiduċjarja) mill-istess persuna, biex jiġbor flimkien dawn il-kontijiet kollha.
+\3. Regola ta’ Aggregazzjoni Speċjali Applikabbli għal Maniġers tal-Kuntatti. Għall-finijiet biex jiġi determinat il-bilanċ jew il-valur aggregat ta’ Kontijiet Finanzjarji miżmuma minn persuna biex ikun determinat jekk Kont Finanzjarju huwiex Kont ta’ Valur Għoli, Istituzzjoni Finanzjarja ta’ Malta Rapportanti hi meħtieġa wkoll, fil-każ ta’ kwalunkwe Kont Finanzjarju li dwaru maniġer tal-kuntatti jkun jaf jew ikollu raġuni biex ikun jaf, li dan ikun direttament jew indirettament jappartjeni lil, hu kkontrollat, jew stabbilit (ħlief f’kapaċità fiduċjarja) mill-istess persuna, biex jiġbor flimkien dawn il-kontijiet kollha.
 
 \4. Ammonti Moqrija bħala li Jinkludu l-Ekwivalenti f’Muniti Oħra. L-ammonti kollha denominati fil-munita domestika ta’ kull Stat Membru għandhom jinqraw li jinkludu ammonti ekwivalenti f’muniti oħrajn, kif iddeterminat mil-liġi domestika.
 
@@ -2284,10 +1993,6 @@ A. Istituzzjoni Finanzjarja Rapportanti f’Malta
 \4. It-terminu "Istituzzjoni Finanzjarja" jfisser Istituzzjoni ta’ Kustodja, Istituzzjoni Depożitorja, Entità ta’ Investiment, jew Kumpanija tal- Assigurazzjoni Speċifika.
 
 \5. It-terminu "Istituzzjoni ta’ Kustodja" jfisser kwalunkwe Entità li żżomm bħala porzjon sostanzjali tan-negozju tagħha Assi Finanzjarji akkont ta’ oħrajn. Entità żżomm Assi Finanzjarji akkont ta’ oħrajn bħala porzjon sostanzjali tan-negozju tagħha jekk l-introjtu gross tal- Entità attribwibbli għaż-żamma ta’ Assi Finanzjarji u servizzi finanzjarji relatati jkun ugwali jew jeċċedi l-għoxrin fil-mija (20%) tal-introjtu gross tal-Entità matul l-iqsar wieħed minn:
-
-*82*
-
-[L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 (i) il-perjodu ta’ tliet (3) snin li jintemm fil-31 ta’ Diċembru, jew l-aħħar jum tal-perjodu tal-kontabilità ta’ sena mhux kalendarja, qabel is-sena li fiha ssir id-determinazzjoni; jew
 
@@ -2323,9 +2028,7 @@ Entità titqies li primarjament twettaq bħala negozju ta’ waħda (1) jew akta
 
 It-terminu "Entità tal-Investiment" ma jinkludix Entità li tkun NFE Attiva għaliex dik l-Entità tissodisfa xi wħud mill-kriterji imsemmija fis-subparagrafu D(8)(d) sa (g).
 
-Dan is-subparagrafu għandu jiġi interpretat b’mod konsistenti ma’ lingwaġġ simili stabbilit fit-tifsira "istituzzjoni finanzjarja" fid- Direttiva (UE) 2015/849 tal-Parlament Ewropew u tal-Kunsill tal- FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 83
-
-20 ta’ Mejju 2015 dwar il-prevenzjoni tal-użu tas-sistema finanzjarja għall-finijiet tal-ħasil tal-flus jew il-finanzjament tat-terroriżmu, li temenda r-Regolament (UE) Nru 648/2012 tal- Parlament Ewropew u tal-Kunsill, u li tħassar id-Direttiva 2005/ 60/KE tal-Parlament Ewropew u tal-Kunsill u d-Direttiva tal- Kummissjoni 2006/70/KE.
+Dan is-subparagrafu għandu jiġi interpretat b’mod konsistenti ma’ lingwaġġ simili stabbilit fit-tifsira "istituzzjoni finanzjarja" fid- Direttiva (UE) 2015/849 tal-Parlament Ewropew u tal-Kunsill tal- 20 ta’ Mejju 2015 dwar il-prevenzjoni tal-użu tas-sistema finanzjarja għall-finijiet tal-ħasil tal-flus jew il-finanzjament tat-terroriżmu, li temenda r-Regolament (UE) Nru 648/2012 tal- Parlament Ewropew u tal-Kunsill, u li tħassar id-Direttiva 2005/ 60/KE tal-Parlament Ewropew u tal-Kunsill u d-Direttiva tal- Kummissjoni 2006/70/KE.
 
 *\8.*
 
@@ -2349,11 +2052,7 @@ It-terminu "Kumpanija Speċifikata tal-Assigurazzjoni" jfisser kwalunkwe Entità
 
 It-terminu "Flus Elettroniċi" ma jinkludix prodott maħluq għall-iskop uniku li jiffaċilita t-trasferiment ta’ fondi minn klijent lil persuna oħra skont l-istruzzjonijiet tal-klijent. Prodott ma jkunx maħluq għall-iskop uniku li jiffaċilita t-trasferiment ta’ fondi jekk, fit-twettiq normali tan-negozju tal-Entità trasferenti, il-fondi marbutin ma’ dan il-prodott jinżammu jew għal aktar minn sittin (60) jum wara li jaslulha l-istruzzjonijiet biex jiġi ffaċilitat it-trasferiment jew, jekk ma jingħataw l-ebda struzzjonijiet, il-fondi marbutin ma’ tali prodott jinżammu għal aktar minn sittin (60) jum wara li jaslulha l-fondi.
 
-\11. It-terminu "Munita ta’ Kors Legali" tfisser il-munita uffiċjali ta’ ġurisdizzjoni, maħruġa minn ġurisdizzjoni jew minn Bank Ċentrali jew awtorità monetarja maħtura ta’ ġurisdizzjoni, kif irrappreżentata minn karti tal-flus jew muniti fiżiċi jew minn flus f’forom diġitali diversi, inkluż riżervi bankarji u Muniti Diġitali tal-Bank Ċentrali. It-terminu jinkludi wkoll flus bankarji kummerċjali u prodotti tal-flus elettroniċi [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-(Flus Elettroniċi).
-
-*84*
+\11. It-terminu "Munita ta’ Kors Legali" tfisser il-munita uffiċjali ta’ ġurisdizzjoni, maħruġa minn ġurisdizzjoni jew minn Bank Ċentrali jew awtorità monetarja maħtura ta’ ġurisdizzjoni, kif irrappreżentata minn karti tal-flus jew muniti fiżiċi jew minn flus f’forom diġitali diversi, inkluż riżervi bankarji u Muniti Diġitali tal-Bank Ċentrali. It-terminu jinkludi wkoll flus bankarji kummerċjali u prodotti tal-flus elettroniċi (Flus Elettroniċi).
 
 \12. It-terminu "Munita Diġitali tal-Bank Ċentrali" jfisser kwalunkwe Munita ta’ Kors Legali diġitali maħruġa minn Bank Ċentrali jew minn awtorità monetarja oħra.
 
@@ -2385,8 +2084,6 @@ It-terminu "Flus Elettroniċi" ma jinkludix prodott maħluq għall-iskop uniku l
 
 (e) trust sal-punt li l-fiduċjarju tat-trust tkun Istituzzjoni Finanzjarja ta’ Malta Rapportanti u tirrapporta l-informazzjoni kollha meħtieġa li tiġi rappurtata skont it-Taqsima I fir-rigward tal-Kontijiet Rapportabbli kollha tat-trust.
 
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 85
-
 \2. It-terminu "Entità Governattiva" jfisser il-gvern ta’ Stat Membru jew ġurisdizzjoni oħra, kwalunkwe suddiviżjoni politika ta’ Stat Membru jew ġurisdizzjoni oħra (li, biex jiġi evitat id-dubju, jinkludi stat, provinċja, kontea, jew muniċipalità), jew kwalunkwe aġenzija jew mezz strumentali b’appartenenza totali ta’ Stat Membru jew ġurisdizzjoni oħra jew ta’ kwalunkwe wieħed jew iktar ta’ dan ta’ qabel (kull waħda minnhom, "Entità Governattiva"). Din il-kategorija hi magħmula mill-partijiet integrali, l-entitajiet ikkontrollati, u s-suddiviżjonijiet politiċi ta’ Stat Membru jew ġurisdizzjoni oħra.
 
 (a) "Parti integrali" ta’ Stat Membru jew ġurisdizzjoni oħra tfisser kwalunkwe persuna, organizzazzjoni, aġenzija, bureau, fond, strument, jew korp ieħor, jissemma kif jissemma, li tikkostitwixxi awtorità governattiva ta’ Stat Membru jew ġurisdizzjoni oħra. Il-qligħ nett tal-awtorità governattiva għandu jiġi akkreditat lill-kont proprju jew kontijiet oħra tal-Istat Membru jew ġurisdizzjoni oħra, u ebda sehem ma għandu jkun għall-benefiċċju ta’ xi persuna privata. Parti integrali ma tinkludix xi individwu li huwa sovran, uffiċjal, jew amministratur li jaġixxi f’kapaċità privata jew personali.
@@ -2405,9 +2102,7 @@ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 85
 
 \4. It-terminu "Bank Ċentrali" ifisser istituzzjoni li hija bil-liġi jew sanzjoni tal-gvern l-awtorità prinċipali, minbarra l-gvern tal-Istat Membru stess, li toħroġ strumenti maħsuba biex jiċċirkolaw bħala munita. Tali istituzzjoni tista’ tinkludi strument li jkun separat mill-gvern tal-Istat Membru, irrispettivament jekk tkunx akkwiżita totalment jew parzjalment mill-Istat Membru.
 
-\5. It-terminu "Fond għall-Irtirar bi Parteċipazzjoni Wiesgħa" ifisser fond 86 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-stabbilit biex jipprovdi benefiċċji għal irtirar, diżabbiltà, jew mewt, jew kwalunkwe kombinazzjoni ta’ dawn, għal benefiċjarji li huma attwalment jew preċedentement impjegati (jew persuni maħtura minn dawn l-impjegati) ta’ wieħed jew aktar persuni li jimpjegaw f’konsiderazzjoni għal servizzi mogħtija, sakemm il-fond:
+\5. It-terminu "Fond għall-Irtirar bi Parteċipazzjoni Wiesgħa" ifisser fond stabbilit biex jipprovdi benefiċċji għal irtirar, diżabbiltà, jew mewt, jew kwalunkwe kombinazzjoni ta’ dawn, għal benefiċjarji li huma attwalment jew preċedentement impjegati (jew persuni maħtura minn dawn l-impjegati) ta’ wieħed jew aktar persuni li jimpjegaw f’konsiderazzjoni għal servizzi mogħtija, sakemm il-fond:
 
 (a) ma jkollux benefiċjarju wieħed bi dritt għal aktar minn 5% tal-assi tal-fond;
 
@@ -2435,9 +2130,7 @@ stabbilit biex jipprovdi benefiċċji għal irtirar, diżabbiltà, jew mewt, jew
 
 (e) il-fond huwa soġġett għal regolamentazzjoni mill-gvern u jipprovdi informazzjoni ta’ rappurtar lill-awtoritajiet tat-taxxa.
 
-\7. It-terminu "Fond għall-Pensjonijiet ta’ Entità Governattiva, Organizzazzjoni FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 87
-
-Internazzjonali jew Bank Ċentrali" jfisser fond stabbilit minn Entità Governattiva, Organizzazzjoni Internazzjonali jew Bank Ċentrali għall-provvediment ta’ benefiċċji għal irtirar, diżabbiltà, jew mewt lil benefiċjarji jew parteċipanti li huma impjegati attwali jew preċedenti (jew persuni maħtura minn dawn l-impjegati), jew li ma jkunux impjegati attwali jew preċedenti, jekk il-benefiċċji pprovduti lil tali benefiċjarji jew parteċipanti huma b’konsiderazzjoni ta’ servizzi personali mwettqa għall-Entità Governattiva, Organizzazzjoni Internazzjonali jew Bank Ċentrali.
+\7. It-terminu "Fond għall-Pensjonijiet ta’ Entità Governattiva, Organizzazzjoni Internazzjonali jew Bank Ċentrali" jfisser fond stabbilit minn Entità Governattiva, Organizzazzjoni Internazzjonali jew Bank Ċentrali għall-provvediment ta’ benefiċċji għal irtirar, diżabbiltà, jew mewt lil benefiċjarji jew parteċipanti li huma impjegati attwali jew preċedenti (jew persuni maħtura minn dawn l-impjegati), jew li ma jkunux impjegati attwali jew preċedenti, jekk il-benefiċċji pprovduti lil tali benefiċjarji jew parteċipanti huma b’konsiderazzjoni ta’ servizzi personali mwettqa għall-Entità Governattiva, Organizzazzjoni Internazzjonali jew Bank Ċentrali.
 
 \8. It-terminu "Emittent Kwalifikat tal-Karti ta’ Kreditu" ifisser Istituzzjoni Finanzjarja li tissodisfa r-rekwiżiti li ġejjin:
 
@@ -2459,9 +2152,7 @@ Entità tal-Investiment li hija rregolat bħala mezz kollettiv ta’ investiment
 
 \1. It-terminu "Kont Finanzjarju" jfisser kont miżmum minn Istituzzjoni Finanzjarja, u jinkludi Kont Depożitorju, Kont ta’ Kustodja u:
 
-(a) fil-każ ta’ Entità tal-Investiment, kwalunkwe interess ta’ ekwità jew ta’ 88 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-dejn fl-Istituzzjoni Finanzjarja. Minkejja dan ta’ hawn fuq, it-terminu "Kont Finanzjarju" ma jinkludi l-ebda interess fuq ekwità jew dejn f’Entità li tkun Entità tal-Investiment sempliċiment minħabba li (i) tagħti pariri dwar l-investiment, u taġixxi f’isem, jew (ii) timmaniġġja portafolji għal klijent u taġixxi f’ismu għall-finijiet ta’ investiment, maniġġjar, jew amministrazzjoni ta’ Assi Finanzjarji depożitati f’isem il-klijent ma’ Istituzzjoni Finanzjarja għajr dik l-Entità;
+(a) fil-każ ta’ Entità tal-Investiment, kwalunkwe interess ta’ ekwità jew ta’ dejn fl-Istituzzjoni Finanzjarja. Minkejja dan ta’ hawn fuq, it-terminu "Kont Finanzjarju" ma jinkludi l-ebda interess fuq ekwità jew dejn f’Entità li tkun Entità tal-Investiment sempliċiment minħabba li (i) tagħti pariri dwar l-investiment, u taġixxi f’isem, jew (ii) timmaniġġja portafolji għal klijent u taġixxi f’ismu għall-finijiet ta’ investiment, maniġġjar, jew amministrazzjoni ta’ Assi Finanzjarji depożitati f’isem il-klijent ma’ Istituzzjoni Finanzjarja għajr dik l-Entità;
 
 (b) fil-każ ta’ Istituzzjoni Finanzjarja mhux deskritta fis-subparagrafu Ċ(1)(a), kwalunkwe interess ta’ ekwità jew ta’ dejn fl-Istituzzjoni Finanzjarja, jekk il-klassi ta’ interessi kienet stabbilita għall-fini li jiġi evitat ir-rappurtar skont it-Taqsima I; u
 
@@ -2485,9 +2176,7 @@ Kont Depożitarju jinkludi wkoll:
 
 \5. It-terminu "Kuntratt ta’ Assigurazzjoni" jfisser kuntratt (minbarra Kuntratt ta’ Annwalità) li taħtu l-emittent jaqbel li jħallas ammont mal-okkorrenza ta’ kontinġenza speċifikata li tinvolvi mortalità, morbożità, inċident, responsabbiltà, jew riskju tal-proprjetà.
 
-\6. It-terminu "Kuntratt ta’ Annwalità" jfisser kuntratt li bih l-emittent jaqbel li jagħmel pagamenti għal perjodu ta’ żmien determinat fl-intier jew f ’parti b’referenza għall-istennija tal-ħajja ta’ individwu wieħed jew aktar. It-terminu FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 89
-
-jinkludi wkoll kuntratt li huwa meqjus bħala kull Kuntratt ta’ Annwalità skont il-liġi, ir-regolamenti jew il-prattika tal-Istat Membru jew ġurisdizzjoni oħra li fiha l-kuntratt inħareġ, u taħt liema l-emittent jaqbel li jagħmel pagamenti għal terminu ta’ snin.
+\6. It-terminu "Kuntratt ta’ Annwalità" jfisser kuntratt li bih l-emittent jaqbel li jagħmel pagamenti għal perjodu ta’ żmien determinat fl-intier jew f ’parti b’referenza għall-istennija tal-ħajja ta’ individwu wieħed jew aktar. It-terminu jinkludi wkoll kuntratt li huwa meqjus bħala kull Kuntratt ta’ Annwalità skont il-liġi, ir-regolamenti jew il-prattika tal-Istat Membru jew ġurisdizzjoni oħra li fiha l-kuntratt inħareġ, u taħt liema l-emittent jaqbel li jagħmel pagamenti għal terminu ta’ snin.
 
 \7. It-terminu "Kuntratt tal-Assigurazzjoni b’Valur fi Flus" ifisser Kuntratt tal- Assigurazzjoni (minbarra kuntratt tar-riassigurazzjoni ta’ indennizz bejn żewġ kumpanniji tal-assigurazzjoni) li għandu Valur fi Flus.
 
@@ -2511,9 +2200,7 @@ jinkludi wkoll kuntratt li huwa meqjus bħala kull Kuntratt ta’ Annwalità sko
 
 (i) id-Detentur tal-Kont ikollu wkoll Kont Finanzjarju li jkun Kont Preeżistenti taħt is-subparagrafu Ċ(9)(a), mal-Istituzzjoni Finanzjarja Rapportanti f’Malta, jew ma’ Entità Relatata f’Malta;
 
-(ii) l-Istituzzjoni Finanzjarja Rapportanti f’Malta, u kif applikabbli, l- Entità Relatata f’Malta, tittratta ż-żewġ Kontijiet Finanzjarji msemmijin hawn fuq, u kwalunkwe Kont Finanzjarju ieħor tad- 90 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-Detentur tal-Kont li jkun ittrattat bħala Kont Preeżistenti skont is-subparagrafu Ċ(9)(b), bħala Kont Finanzjarju uniku bil-għan li jissodisfa r-rekwiżiti tal-istandards tal-għarfien stipulati fit- Taqsima VII, fil-paragrafu A, u bil-għan li jiġi ddeterminat il-bilanċ jew il-valur ta’ kwalunkwe wieħed mill-Kontijiet Finanzjarji meta jiġi applikat kwalunkwe wieħed mil-limiti tal-kontijiet;
+(ii) l-Istituzzjoni Finanzjarja Rapportanti f’Malta, u kif applikabbli, l- Entità Relatata f’Malta, tittratta ż-żewġ Kontijiet Finanzjarji msemmijin hawn fuq, u kwalunkwe Kont Finanzjarju ieħor tad- Detentur tal-Kont li jkun ittrattat bħala Kont Preeżistenti skont is-subparagrafu Ċ(9)(b), bħala Kont Finanzjarju uniku bil-għan li jissodisfa r-rekwiżiti tal-istandards tal-għarfien stipulati fit- Taqsima VII, fil-paragrafu A, u bil-għan li jiġi ddeterminat il-bilanċ jew il-valur ta’ kwalunkwe wieħed mill-Kontijiet Finanzjarji meta jiġi applikat kwalunkwe wieħed mil-limiti tal-kontijiet;
 
 (iii) fir-rigward ta’ Kont Finanzjarju li jkun soġġett għall-Proċeduri tal-AML/KYC, l-Istituzzjoni Finanzjarja Rapportanti f’Malta tkun permessa tissodisfa tali Proċeduri tal-AML/KYC għall-Kont Finanzjarju billi toqgħod fuq il-Proċeduri tal-AML/KYC imwettqa għall-Kont Preeżistenti deskritt fis-subparagrafu Ċ(9)(a); u
 
@@ -2541,8 +2228,6 @@ Detentur tal-Kont li jkun ittrattat bħala Kont Preeżistenti skont is-subparagr
 
 (ii) il-kont jibbenifika minn benefiċċji tat-taxxa, jiġifieri, kontribuzzjonijiet depożitati fil-kont, li kienu jkunu xort’oħra soġġetti għat-taxxa, jiġu mnaqqsa jew esklużi mill-introjtu gross tad-Detentur tal-Kont jew intaxxati b’rata mnaqqsa, jew l-intaxxar tal-introjtu minn investiment mill-kont jiġi differit jew intaxxat b’rata mnaqqsa;
 
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 91
-
 (iii) ir-rappurtar tal-informazzjoni lil awtoritajiet tat-taxxa fir-rigward tal-kont huwa meħtieġ;
 
 (iv) il-ġbid tal-flus huwa soġġett għall-kondizzjoni li tintlaħaq età ta’ rtirar speċifikata, id-diżabilità, jew mewt, jew bl-applikazzjoni ta’ penali f’każ li l-flus jinġibdu qabel l-okkorrenza ta’ tali avvenimenti speċifikati; u
@@ -2567,11 +2252,7 @@ Kont Finanzjarju li xort’oħra jissodisfa r-rekwiżit tas-subparagrafu Ċ(17)(
 
 Kont Finanzjarju li xort’oħra jissodisfa r-rekwiżit tas-subparagrafu Ċ(17)(b)(iv) ma għandux jonqos milli jissodisfa tali rekwiżit unikament minħabba li tali Kont Finanzjarju jista’ jirċievi assi jew fondi trasferiti minn Kont Finanzjarju wieħed (1) jew aktar li jissodisfa r-rekwiżiti tas-subparagrafu Ċ(17)(a) jew (b) jew minn wieħed (1) jew aktar mill-fondi tal-irtirar jew tal-pensjoni li jissodisfaw ir-rekwiżiti ta’ kwalunkwe wieħed mis-subparagrafi B(5) sa (7);
 
-(ċ) kuntratt tal-assigurazzjoni fuq il-ħajja b’perjodu ta’ kopertura li jintemm qabel ma l-individwu assigurat jilħaq l-età ta’ disgħin (90) [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-sena, sakemm il-kuntratt jissodisfa r-rekwiżiti li ġejjin:
-
-*92*
+(ċ) kuntratt tal-assigurazzjoni fuq il-ħajja b’perjodu ta’ kopertura li jintemm qabel ma l-individwu assigurat jilħaq l-età ta’ disgħin (90) sena, sakemm il-kuntratt jissodisfa r-rekwiżiti li ġejjin:
 
 (i) premiums perjodiċi, li ma jonqsux matul iż-żmien, ikunu pagabbli mill-inqas kull sena matul il-perjodu li l-kuntratt ikun fis-seħħ jew sakemm l-assigurat jilħaq l-età ta’ disgħin (90) sena, skont liema perjodu jkun l-iqsar;
 
@@ -2603,9 +2284,7 @@ sena, sakemm il-kuntratt jissodisfa r-rekwiżiti li ġejjin:
 
 (iv) obbligu ta’ Istituzzjoni Finanzjarja unikament sabiex jiġi ffaċilitat il-ħlas ta’ taxxi aktar tard;
 
-(v) fondazzjoni jew żieda kapitali ta’ kumpanija diment li l-kont FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 93
-
-jissodisfa r-rekwiżiti li ġejjin:
+(v) fondazzjoni jew żieda kapitali ta’ kumpanija diment li l-kont jissodisfa r-rekwiżiti li ġejjin:
 
 \- il-kont jintuża esklussivament għad-depożitu ta’ kapital li għandu jintuża għall-finijiet tal-fondazzjoni jew taż-żieda fil-kapital ta’ kumpanija, kif preskritt bil-liġi;
 
@@ -2629,9 +2308,7 @@ jissodisfa r-rekwiżiti li ġejjin:
 
 D. Kont Rapportabbli
 
-\1. It-terminu "Kont Rapportabbli" jfisser Kont Finanzjarju li jkun miżmum 94 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-minn Istituzzjoni Finanzjarja Rapportanti ta’ Stat Membru u minn waħda jew aktar Persuni Rapportabbli jew minn NFE Passiva b’waħda jew aktar Persuni Kontrollanti li hija Persuna Rapportabbli, sakemm dan ikun ġie identifikat bħala tali skont il-proċeduri ta’ diliġenza dovuta deskritti fit-Taqsimiet II sa VII.
+\1. It-terminu "Kont Rapportabbli" jfisser Kont Finanzjarju li jkun miżmum minn Istituzzjoni Finanzjarja Rapportanti ta’ Stat Membru u minn waħda jew aktar Persuni Rapportabbli jew minn NFE Passiva b’waħda jew aktar Persuni Kontrollanti li hija Persuna Rapportabbli, sakemm dan ikun ġie identifikat bħala tali skont il-proċeduri ta’ diliġenza dovuta deskritti fit-Taqsimiet II sa VII.
 
 \2. It-terminu "Persuna Rapportabbli" jfisser Persuna ta’ Stat Membru għajr:
 
@@ -2665,8 +2342,6 @@ It-terminu "Persuni Kontrollanti" għandu jiġi interpretat b’mod konsistenti 
 
 \7. It-terminu "NFE Passiva" jfisser kwalunkwe: (i) NFE li mhijiex NFE Attiva; jew (ii) Entità ta’ Investiment deskritta fis-subparagrafu A(6)(b) li mhijiex Istituzzjoni Finanzjarja Parteċipanti tal-Ġurisdizzjoni.
 
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 95
-
 *\8.*
 
 It-terminu "NFE Attiva" jfisser kwalunkwe NFE li tissodisfa kwalunkwe wieħed mill-kriterji li ġejjin:
@@ -2691,8 +2366,6 @@ It-terminu "NFE Attiva" jfisser kwalunkwe NFE li tissodisfa kwalunkwe wieħed mi
 
 (ii) hija eżenti mit-taxxa fuq l-introjtu fl-Istat Membru tagħha jew ġurisdizzjoni oħra ta’ residenza;
 
-96 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
 (iii) hija ma għandha l-ebda azzjonist jew membru li għandhom dritt jew interess benefiċjarju fl-introjtu jew tal-assi tagħha;
 
 (iv) il-liġijiet applikabbli tal-Istat Membru tal-NFE jew ġurisdizzjoni oħra ta’ residenza jew dokumenti tal-formazzjoni tal-NFE ma jippermettu l-ebda introjtu jew assi tal-NFE li jitqassmu lil, jew jiġu applikati għall-benefiċċju ta’, persuna privata jew Entità mhux ta’ karità għajr skont l-aġir tal-attivitajiet ta’ karità tal- NFE, jew bħala ħlas ta’ kumpens raġonevoli għal servizzi mogħti, jew bħala ħlas li jirrappreżenta l-valur tassuq ġust ta’ proprjetà li tkun xtrat l-NFE; u
@@ -2713,9 +2386,7 @@ E. Mixxellanji
 
 \6. It-terminu "Evidenza Dokumentata" jinkludi kwalunkwe waħda minn dawn li ġejjin:
 
-(a) ċertifikat ta’ residenza maħruġ minn korp governattiv awtorizzat FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 97
-
-(pereżempju, gvern jew aġenzija tiegħu, jew muniċipalità) tal-Istat Membru jew ġurisdizzjoni oħra li fiha l-benefiċjarju jiddikjara li hu residenti;
+(a) ċertifikat ta’ residenza maħruġ minn korp governattiv awtorizzat (pereżempju, gvern jew aġenzija tiegħu, jew muniċipalità) tal-Istat Membru jew ġurisdizzjoni oħra li fiha l-benefiċjarju jiddikjara li hu residenti;
 
 (b) fir-rigward ta’ individwu, kwalunkwe identifikazzjoni valida maħruġa minn korp governattiv awtorizzat (pereżempju, gvern jew aġenzija tiegħu, jew muniċipalità), li tinkludi l-isem tal-individwu tipikament tintuża għal finijiet ta’ identifikazzjoni;
 
@@ -2734,8 +2405,6 @@ Skont l-Artikolu 8(3a) tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiv
 (1) regoli li jipprevjenu kwalunkwe Istituzzjoni Finanzjarja, persuna jew intermedjarju milli jadottaw prattiki maħsuba biex jiġu evitati r-rappurtar u l-proċeduri ta’ diliġenza dovuta;
 
 (2) regoli li jeħtieġu li l-Istituzzjoni Finanzjarja Rapportanti f’Malta żżomm rekords tal-passi li ttieħdu u kwalunkwe prova invokata għat-twettiq tal-proċeduri hawn fuq indikati u miżuri adegwati biex jinkisbu dawk ir-rekords kemm-il darba tali rekords jinżammu għal perjodu mhux itwal minn dak neċessarju sabiex jintlaħqu l-għanijiet ta’ dawn ir-regolamenti iżda, fi kwalunkwe każ, mhux inqas minn ħames (5) snin.
-
-98 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 (3) proċeduri amministrattivi biex jivverifikaw il-konformità tal- Istituzzjonijiet Finanzjarji Rapportanti mar-rappurtar u l-proċeduri ta’ diliġenza dovuta; proċeduri amministrattivi biex tkun segwita Istituzzjoni Finanzjarja ta’ Malta Rapportanti meta jiġu rappurtati kontijiet mhux dokumentati;
 
@@ -2765,9 +2434,7 @@ A.L. 384 tal-2015.
 
 "Bidla fiċ-ċirkostanzi" tinkludi kwalunkwe bidla li tirriżulta fiż-żieda ta’ informazzjoni rilevanti għall-istatus ta’ persuna jew inkella konflitti ma’ tali status ta’ persuna. Barra minn hekk, bidla fiċ-ċirkustanzi tinkludi kwalunkwe bidla jew żieda ta’ informazzjoni għall-kont tad-Detentur tal-Kont (inkluż iż-żieda, is-sostituzzjoni, jew bidla oħra ta’ Detentur tal-Kont) jew kwalunkwe bidla jew żieda ta’ informazzjoni għal kwalunkwe kont assoċjati ma’ tali kont (bl-applikazzjoni tar-regoli ta’ aggregazzjoni tal-kont deskritti fis-subparagrafi Ċ(1) sa (3) tat-Taqsima VII tal-Anness I) jekk tali bidla jew żieda ta’ informazzjoni taffettwa l-istatus tad- Detentur tal-Kont.
 
-Jekk Istituzzjoni Finanzjarja ta’ Malta Rapportanti bbażat ruħha fuq it-test tal-indirizz tar-residenza deskritt fis-subparagrafu B(1) tat-Taqsima III tal-Anness I u jkun hemm bidla fiċ-ċirkostanzi li tikkawża lill-Istituzzjoni Finanzjarja ta’ Malta Rapportanti li tkun taf jew ikollha raġuni biex tkun taf li l-Evidenza Dokumentata oriġinali (jew dokumentazzjoni ekwivalenti oħra) hija żbaljata jew mhux affidabbli, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha, sa aktar tard mill-aħħar jum tas-sena kalendarja rilevanti jew perijodu ta’ rappurtar xieraq oħra, jew 90 jum FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 99
-
-kalendarju wara l-avviż jew l-iskoperta ta’ tali bidla fiċ-ċirkustanzi, biex tikseb awtoċertifikazzjoni u Evidenza Dokumentata ġdida biex tiġi stabbilita r-residenza(i) għal finijiet ta’ taxxa tad-Detentur tal-Kont. Jekk Istituzzjoni Finanzjarja ta’ Malta Rapportanti ma tistax tikseb l-awtoċertifikazzjoni u Evidenza Dokumentata ġdida sa tali data, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tapplika l-proċedura tat-tfittxija tar-rekords elettronika deskritta fis-subparagrafi B(2) sa (6) tat-Taqsima III tal-Anness I.
+Jekk Istituzzjoni Finanzjarja ta’ Malta Rapportanti bbażat ruħha fuq it-test tal-indirizz tar-residenza deskritt fis-subparagrafu B(1) tat-Taqsima III tal-Anness I u jkun hemm bidla fiċ-ċirkostanzi li tikkawża lill-Istituzzjoni Finanzjarja ta’ Malta Rapportanti li tkun taf jew ikollha raġuni biex tkun taf li l-Evidenza Dokumentata oriġinali (jew dokumentazzjoni ekwivalenti oħra) hija żbaljata jew mhux affidabbli, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha, sa aktar tard mill-aħħar jum tas-sena kalendarja rilevanti jew perijodu ta’ rappurtar xieraq oħra, jew 90 jum kalendarju wara l-avviż jew l-iskoperta ta’ tali bidla fiċ-ċirkustanzi, biex tikseb awtoċertifikazzjoni u Evidenza Dokumentata ġdida biex tiġi stabbilita r-residenza(i) għal finijiet ta’ taxxa tad-Detentur tal-Kont. Jekk Istituzzjoni Finanzjarja ta’ Malta Rapportanti ma tistax tikseb l-awtoċertifikazzjoni u Evidenza Dokumentata ġdida sa tali data, l-Istituzzjoni Finanzjarja ta’ Malta Rapportanti għandha tapplika l-proċedura tat-tfittxija tar-rekords elettronika deskritta fis-subparagrafi B(2) sa (6) tat-Taqsima III tal-Anness I.
 
 \2. Awtoċertifikazzjoni għal Kontijiet tal-Entità Ġodda
 
@@ -2793,9 +2460,7 @@ B’mod ġenerali, kont jitqies li huwa miżmuma minn Istituzzjoni Finanzjarja k
 
 (b) fil-każ ta’ Kont Depożitarju, mill-Istituzzjoni Finanzjarja li tkun obbligata tagħmel pagamenti fir-rigward tal-kont (bl-esklużjoni ta’ aġent ta’ Istituzzjoni Finanzjarja irrispettivament minn jekk tali aġent huwiex Istituzzjoni Finanzjarja);
 
-(ċ) fil-każ ta’ kwalunkwe ekwità jew ta’ interess ta’ dejn f’Istituzzjoni Finanzjarja li tikkostitwixxi Kont Finanzjarju, minn tali Istituzzjoni 100 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-Finanzjarja;
+(ċ) fil-każ ta’ kwalunkwe ekwità jew ta’ interess ta’ dejn f’Istituzzjoni Finanzjarja li tikkostitwixxi Kont Finanzjarju, minn tali Istituzzjoni Finanzjarja;
 
 (d) fil-każ ta’ Kuntratt tal-Assigurazzjoni b’Valur fi Flus jew kwalunkwe Kuntratt ta’ Annwalità, mill-Istituzzjoni Finanzjarja li tkun obbligata tagħmel pagamenti fir-rigward tal-kuntratt.
 
@@ -2823,9 +2488,7 @@ A.L. 18 tal-2025.
 
 \2. It-terminu "Intrapriża" ifisser kwalunkwe forma ta’ tmexxija ta' negozju minn kwalunkwe persuna msemmija fil-punti (b), (ċ) u (d) tal-Artikolu 3, il-punt 11 tad-Direttiva tal-UE dwar il-Kooperazzjoni Amministrattiva.
 
-\3. It-terminu "Grupp MNE" ifisser kwalunkwe Grupp li jinkludi żewġ intrapriżi jew iktar li r-residenza tat-taxxa tagħhom tinsab f’ġurisdizzjonijiet differenti, jew li jinkludi intrapriża li hija residenti għal finijiet ta' taxxa f’ġurisdizzjoni waħda u hija soġġetta għat-taxxa fir-rigward tan-negozju li jsir FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 101
-
-permezz ta’ stabbiliment permanenti f’ġurisdizzjoni oħra, u li mhuwiex Grupp MNE Eskluż.
+\3. It-terminu "Grupp MNE" ifisser kwalunkwe Grupp li jinkludi żewġ intrapriżi jew iktar li r-residenza tat-taxxa tagħhom tinsab f’ġurisdizzjonijiet differenti, jew li jinkludi intrapriża li hija residenti għal finijiet ta' taxxa f’ġurisdizzjoni waħda u hija soġġetta għat-taxxa fir-rigward tan-negozju li jsir permezz ta’ stabbiliment permanenti f’ġurisdizzjoni oħra, u li mhuwiex Grupp MNE Eskluż.
 
 \4. It-terminu "Grupp MNE Eskluż" ifisser, fir-rigward ta’ kwalunkwe Sena Finanzjarja tal-Grupp, Grupp li jkollu dħul konsolidat tal-grupp totali ta’ inqas minn EUR 750 000 000 jew ammont fil-munita lokali ekwivalenti għal madwar EUR 750 000 000 minn Jannar 2015 matul is-Sena Fiskali immedjatament qabel is-Sena Fiskali tar-Rappurtar kif rifless fir-Rapporti Finanzjarji Konsolidati tiegħu għal tali Sena Fiskali preċedenti.
 
@@ -2848,8 +2511,6 @@ permezz ta’ stabbiliment permanenti f’ġurisdizzjoni oħra, u li mhuwiex Gru
 \8. It-terminu "Entità Omm Surrogata" ifisser Entità Kostitwenti waħda tal- Grupp MNE li tkun ġiet nominata minn dak il-Grupp MNE, bħala sostitut uniku għall-Entità Omm Finali, sabiex tippreżenta r-rapport għal kull pajjiż fil-ġurisdizzjoni tar-residenza tat-taxxa ta’ dik l-Entità Kostitwenti, f’isem tali Grupp MNE, fejn tkun tapplika kondizzjoni waħda jew aktar stabbiliti fil-punt (b) tal-ewwel paragrafu tal-punt 1 tat-Taqsima II.
 
 \9. It-terminu "Sena Fiskali" ifisser perijodu ta' kontabbiltà annwali li fir-rigward tiegħu l-Entità Omm Finali tal-Grupp MNE tħejji d-dikjarazzjonijiet finanzjarji tagħha.
-
-102 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 \10. It-terminu "Sena Fiskali tar-Rappurtar" ifisser dik is-Sena Fiskali li r-riżultati finanzjarji u operazzjonali tagħha huma riflessi fir-rapport għal kull pajjiż imsemmi fir-regolament 13(4)(ċ).
 
@@ -2875,9 +2536,7 @@ permezz ta’ stabbiliment permanenti f’ġurisdizzjoni oħra, u li mhuwiex Gru
 
 (iii) kien hemm Nuqqas Sistemiku tal-ġurisdizzjoni tar-residenza fiskali tal-Entità Omm Finali li jkun ġie notifikat minn Malta lill- Entità Kostitwenti residenti għal finijiet ta’ taxxa f’Malta.
 
-Mingħajr preġudizzju għall-obbligu tal-Entità Omm Finali msemmija fir-regolament 13(4)(a) jew tal-Entità Omm Surrogata tagħha li tressaq l-ewwel rapport għal kull pajjiż għas-Sena Fiskali tal-Grupp MNE li tibda fl-1 ta’ Jannar 2016 jew wara, l-obbligu għal Entitajiet Kostitwenti stabbilit fil-punt 1 ta’ din it-Taqsima għandu japplika għal rapporti għal kull pajjiż fir-rigward tas-Snin Fiskali tar- FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 103
-
-Rapportar li jibdew fi jew wara l-1 ta’ Jannar 2017 ’il quddiem.
+Mingħajr preġudizzju għall-obbligu tal-Entità Omm Finali msemmija fir-regolament 13(4)(a) jew tal-Entità Omm Surrogata tagħha li tressaq l-ewwel rapport għal kull pajjiż għas-Sena Fiskali tal-Grupp MNE li tibda fl-1 ta’ Jannar 2016 jew wara, l-obbligu għal Entitajiet Kostitwenti stabbilit fil-punt 1 ta’ din it-Taqsima għandu japplika għal rapporti għal kull pajjiż fir-rigward tas-Snin Fiskali tar- Rapportar li jibdew fi jew wara l-1 ta’ Jannar 2017 ’il quddiem.
 
 Entità Kostitwenti residenti f’Malta kif definit fl-ewwel paragrafu ta' dan il-punt għandha titlob lill-Entità Omm Finali tagħha biex tipprovdilha l-informazzjoni kollha meħtieġa biex tkun tista' tissodisfa l-obbligi tagħha li tippreżenta rapport għal kull pajjiż, f'konformità mar-regolament 13(4)(ċ). Jekk minkejja dan, dik l-Entità Kostitwenti ma tkunx kisbet jew akkwistat l-informazzjoni kollha meħtieġa biex tirrapporta għall-Grupp MNE, din l-Entità Kostitwenti għandha tippreżenta rapport għal kull pajjiż li jkun fih l-informazzjoni kollha fil-pussess tagħha, miksuba jew akkwistata, u tinnotifika lill-Kummissarju li l-Entità Omm Finali tkun irrifjutat li tagħmel l-informazzjoni meħtieġa disponibbli. Dan għandu jkun mingħajr preġudizzju għad-dritt tal-Kummissarju li japplika l-penali previsti fil-leġislazzjoni nazzjonali u l-awtorità kompetenti f’Malta għandha tinforma l-Istati Membri kollha b'dan ir-rifjut.
 
@@ -2890,8 +2549,6 @@ Fejn Entità Kostitwenti ma tistax tikseb jew takkwista l-informazzjoni kollha m
 (a) il-ġurisdizzjoni tar-residenza fiskali tal-Entità Omm Surrogata teħtieġ il-preżentazzjoni ta’ rapporti għal kull pajjiż li jikkonformaw mar-rekwiżiti tar-regolament 13(4)(ċ);
 
 (b) il-ġurisdizzjoni tar-residenza fiskali tal-Entità Omm Surrogata għandha fis-seħħ Ftehim Kwalifikanti bejn Awtoritajiet Kompetenti li fih Malta hi parti saż-żmien speċifikat fir-regolament 13(6) għall-preżentazzjoni tar-rapport għal kull pajjiż għas-Sena Fiskali tar-Rappurtar;
-
-104 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 (ċ) il-ġurisdizzjoni tar-residenza fiskali tal-Entità Omm Surrogata ma tkunx innotifikat l-Istat Membru b’Nuqqas Sistemiku;
 
@@ -2932,8 +2589,6 @@ iddikjarat akkumulat impjegati u ekwiva-fiskali Parti mhux Parti Total taxxa fuq
 relatata relatata ment lenti ta' l-introjtu kurrenti
 
 imħallas - flus "cash basis"
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 105
 
 **Tabella 2: Lista tal-Entitajiet Kostitwenti tal-Grupp MNE inklużi f’kull**
 
@@ -3025,9 +2680,7 @@ Id-data dwar l-istabbiliment permanenti għandha tiġi rrappurtata b’referenza
 
 Il-mudell għandu jkopri s-Sena Fiskali tal-MNE notifikanti. Għall-Entitajiet Kostitwenti, fid-diskrezzjoni tal-MNE notifikanti, il-mudell għandu jirrifletti waħda mill-informazzjoni li ġejja fuq bażi konsistenti:
 
-(a) informazzjoni għas-Sena Fiskali tal-Entitajiet Kostitwenti rilevanti li 106 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-tintemm fl-istess data bħas-Sena Fiskali tal-MNE notifikanti, jew li tintemm fi żmien 12-il xahar qabel dik id-data;
+(a) informazzjoni għas-Sena Fiskali tal-Entitajiet Kostitwenti rilevanti li tintemm fl-istess data bħas-Sena Fiskali tal-MNE notifikanti, jew li tintemm fi żmien 12-il xahar qabel dik id-data;
 
 (b) informazzjoni għal kull Entità Kostitwenti rilevanti rappurtata għas- Sena Fiskali tal-MNE notifikanti.
 
@@ -3053,8 +2706,6 @@ Fit-tliet kolonni tal-mudell taħt l-intestatura 'Dħul', l-MNE notifikanti għa
 
 (b) l-ammont tad-dħul tal-Entitajiet Kostitwenti kollha tal-Grupp MNE fil-ġurisdizzjoni fiskali rilevanti ġġenerat minn transazzjonijiet ma’ partijiet indipendenti;
 
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 107
-
 (ċ) it-total tal-ammonti msemmija fil-punti (a) u (b).
 
 Id-dħul għandu jinkludi dħul minn bejgħ ta’ inventarju u proprjetajiet, servizzi, drittijiet dovuti għall-użu ta’ proprjetà, interessi, primjums u kwalunkwe ammont ieħor. Id-dħul għandu jeskludi ħlasijiet riċevuti minn Entitajiet Kostitwenti oħra li huma ttrattati bħala dividendi fil-ġurisdizzjoni fiskali ta’ min iħallas.
@@ -3079,9 +2730,7 @@ Fid-disa’ kolonna tal-mudell, l-MNE notifikanti għandha tirrapporta l-ammont 
 
 1.8. Numru ta’ impjegati
 
-Fl-għaxar kolonna tal-mudell, l-MNE notifikanti għandha tirrapporta n-numru totali ta’ impjegati fuq bażi ekwivalenti għal full-time (FTE) ta’ kull Entità Kostitwenti residenti għal finijiet ta’ taxxa fil-ġurisdizzjoni fiskali rilevanti. In-numru ta’ impjegati jista’ jiġi rappurtat ma’ tmiem is-sena, fuq il-bażi ta’ livelli medji ta’ impjieg għas-sena, jew fuq kwalunkwe bażi oħra applikata b’mod konsistenti fid-diversi ġurisdizzjonijiet fiskali u minn sena għal sena. Għal dan il- 108 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-għan, kuntratturi indipendenti li jipparteċipaw fl-attivitajiet operattivi ordinarji tal- Entità Kostitwenti jistgħu jiġu rrappurtati bħala impjegati. L-arrotondament raġonevoli jew l-approssimazzjoni tan-numru ta’ impjegati huwa permissibbli, sakemm dan l-arrotondament jew l-approssimazzjoni ma jtellfux materjalment id-distribuzzjoni relattiva ta’ impjegati b’mod materjali fid-diversi ġurisdizzjonijiet fiskali. Approċċi konsistenti għandhom ikunu applikati minn sena għal sena u fid-diversi entitajiet.
+Fl-għaxar kolonna tal-mudell, l-MNE notifikanti għandha tirrapporta n-numru totali ta’ impjegati fuq bażi ekwivalenti għal full-time (FTE) ta’ kull Entità Kostitwenti residenti għal finijiet ta’ taxxa fil-ġurisdizzjoni fiskali rilevanti. In-numru ta’ impjegati jista’ jiġi rappurtat ma’ tmiem is-sena, fuq il-bażi ta’ livelli medji ta’ impjieg għas-sena, jew fuq kwalunkwe bażi oħra applikata b’mod konsistenti fid-diversi ġurisdizzjonijiet fiskali u minn sena għal sena. Għal dan il-għan, kuntratturi indipendenti li jipparteċipaw fl-attivitajiet operattivi ordinarji tal- Entità Kostitwenti jistgħu jiġu rrappurtati bħala impjegati. L-arrotondament raġonevoli jew l-approssimazzjoni tan-numru ta’ impjegati huwa permissibbli, sakemm dan l-arrotondament jew l-approssimazzjoni ma jtellfux materjalment id-distribuzzjoni relattiva ta’ impjegati b’mod materjali fid-diversi ġurisdizzjonijiet fiskali. Approċċi konsistenti għandhom ikunu applikati minn sena għal sena u fid-diversi entitajiet.
 
 1.9. Assi tanġibbli barra flus u ekwivalenti ta' flus
 
@@ -3111,9 +2760,7 @@ Fil-kuntest tal-Anness, kull terminu b’ittra kbira għandu jkollu t-tifsira li
 
 Parti I. Il-kriterju tal-benefiċċju prinċipali
 
-Il-karatteristiċi distintivi ġeneriċi fil-kategorija A u l-karatteristiċi distintivi speċifiċi taħt il-kategorija B u taħt is-subparagrafi (b)(i), (ċ) u (d) tal-paragrafu 1 tal- FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 109
-
-kategorija Ċ jistgħu jitqiesu biss meta jissodisfaw "il-kriterju tal-benefiċċju prinċipali".
+Il-karatteristiċi distintivi ġeneriċi fil-kategorija A u l-karatteristiċi distintivi speċifiċi taħt il-kategorija B u taħt is-subparagrafi (b)(i), (ċ) u (d) tal-paragrafu 1 tal-kategorija Ċ jistgħu jitqiesu biss meta jissodisfaw "il-kriterju tal-benefiċċju prinċipali".
 
 Dak il-kriterju ikun issodisfat jekk jista’ jiġi stabbilit li l-benefiċċju prinċipali jew wieħed mill-benefiċċji prinċipali li, meta jittieħdu f’konsiderazzjoni l-fatti u ċ-ċirkostanzi rilevanti kollha, persuna tista’ b’mod raġonevoli tistenna li tikseb minn dan l-arranġament, huwa l-kisba ta’ vantaġġ ta’ taxxa.
 
@@ -3141,9 +2788,7 @@ B. Karatteristiċi distintivi speċifiċi relatati mal-kriterju tal-benefiċċju
 
 \3. Arranġament li jinkludi transazzjonijiet ċirkolari (circular transactions) li jirriżultaw fir-round-tripping ta’ fondi, jiġifieri bl-involviment ta’ entitajiet intermedjarji mingħajr l-ebda funzjoni jew transazzjoni kummerċjali primarja oħra li jikkumpensaw jew jikkanċellaw lil xulxin jew li għandhom karatteristiċi simili oħra. Ċ. Karatteristiċi distintivi speċifiċi relatati mat-transazzjonijiet transkonfinali
 
-\1. Arranġament li jinvolvi arranġamenti transkonfinali li jistgħu jitnaqqsu 110 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-magħmula bejn żewġ intrapriżi assoċjati jew aktar fejn isseħħ mill-inqas waħda mill-kondizzjonijiet li ġejjin:
+\1. Arranġament li jinvolvi arranġamenti transkonfinali li jistgħu jitnaqqsu magħmula bejn żewġ intrapriżi assoċjati jew aktar fejn isseħħ mill-inqas waħda mill-kondizzjonijiet li ġejjin:
 
 (a) ir-riċevitur mhuwiex residenti għall-finijiet ta’ taxxa f’xi ġurisdizzjoni tat-taxxa;
 
@@ -3175,9 +2820,7 @@ D. Karatteristiċi distintivi speċifiċi dwar l-iskambju awtomatiku ta’ infor
 
 (d) it-trasferiment jew il-konverżjoni ta’ Istituzzjoni Finanzjarja jew Kont Finanzjarju jew l-assi tagħhom f’Istituzzjoni Finanzjarja jew Kont Finanzjarju jew assi mhux soġġetti għal rappurtar skont l-iskambju awtomatiku ta’ informazzjoni dwar Kontijiet Finanzjarji;
 
-(e) l-użu ta’ entitajiet ġuridiċi, arranġamenti jew strutturi li jeliminaw jew maħsuba li jeliminaw ir-rappurtar ta’ wieħed jew aktar Detenturi ta’ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 111
-
-Kont jew Persuni Kontrollanti permezz tal-iskambju awtomatiku ta’ informazzjoni dwar Kontijiet Finanzjarji;
+(e) l-użu ta’ entitajiet ġuridiċi, arranġamenti jew strutturi li jeliminaw jew maħsuba li jeliminaw ir-rappurtar ta’ wieħed jew aktar Detenturi ta’ Kont jew Persuni Kontrollanti permezz tal-iskambju awtomatiku ta’ informazzjoni dwar Kontijiet Finanzjarji;
 
 (f) arranġamenti li jdgħajfu, jew jisfruttaw id-dgħjufijiet fi, il-proċeduri ta’ diliġenza dovuta użati minn Istituzzjonijiet Finanzjarji biex jikkonformaw mal-obbligi tagħhom li jirrappurtaw informazzjoni dwar Kontijiet Finanzjarji, inkluż l-użu ta’ ġurisdizzjonijiet b’sistemi inadegwati jew dgħajfa tal-infurzar ta’ leġislazzjoni kontra l-ħasil tal-flus jew b’rekwiżiti ta’ trasparenza dgħajfa għal persuni ġuridiċi jew arranġamenti ġuridiċi.
 
@@ -3200,8 +2843,6 @@ E. Karatteristiċi distintivi dwar il-prezzijiet ta’ trasferiment
 (b) fiż-żmien meta saret it-transazzjoni, il-projezzjonijiet ta’ flussi futuri ta’ flus jew introjtu mistennija li jiġu mill-intanġibbli ttrasferit, jew is-suppożizzjonijiet użati fil-valutazzjoni tal-intanġibbli huma inċerti ħafna, u b’hekk huwa diffiċli li jitbassar il-livell ta’ suċċess aħħari tal-intanġibbli fil-mument tat-trasferiment.
 
 \3. Arranġament li jinvolvi trasferiment tal-funzjonijiet transkonfinali intragrupp sinifikanti u, jew riskji u, jew assi, jekk il-qligħ annwali proġettat qabel l-imgħax u t-taxxi (EBIT), matul il-perijodu ta’ tliet snin wara t-trasferiment, tat-trasferent jew trasferenti, huwa anqas minn 50% tal-EBIT annwali proġettat ta’ tali trasferent jew trasferenti li kieku it-trasferiment ma kienx sar.
-
-112 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
 
 Miżjuda: ANNESS V
 
@@ -3237,9 +2878,7 @@ It-terminu "Pjattaforma" ma jinkludix is-software li mingħajr xi intervent ulte
 
 \3. "Operatur tal-Pjattaforma Eskluż" tfisser Operatur tal-Pjattaforma li jkun wera minn qabel u fuq bażi annwali għas-sodisfazzjon tal-awtorità kompetenti f’Malta li l-mudell tan-negozju tiegħu kollu huwa tali li ma għandux Bejjiegħa Rapportabbli.
 
-\4. "Operatur tal-Pjattaforma Rapportanti" tfisser kwalunkwe Operatur tal- FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 113
-
-Pjattaforma, għajr Operatur tal-Pjattaforma Eskluż, li jkun fi kwalunkwe waħda mis-sitwazzjonijiet li ġejjin:
+\4. "Operatur tal-Pjattaforma Rapportanti" tfisser kwalunkwe Operatur tal- Pjattaforma, għajr Operatur tal-Pjattaforma Eskluż, li jkun fi kwalunkwe waħda mis-sitwazzjonijiet li ġejjin:
 
 (a) huwa residenti għal finijiet ta’ taxxa fi Stat Membru jew, fejn tali Operatur tal-Pjattaforma ma jkollux residenza għal finijiet ta’ taxxa fi Stat Membru, huwa jissodisfa kwalunkwe waħda mill-kondizzjonijiet li ġejjin:
 
@@ -3265,9 +2904,7 @@ Pjattaforma, għajr Operatur tal-Pjattaforma Eskluż, li jkun fi kwalunkwe waħd
 
 (b) residenti għal finijiet ta’ taxxa f’Malta u f’xi Stat Membru ieħor u għażel skont id-dispożizzjonijiet tal-parti A(2) tat-Taqsima III li jaqdi l-obbligi ta’ rapportar tiegħu f’Malta;
 
-(ċ) għandu stabbiliment permanenti f’Malta u mhuwiex residenti f’Malta għat-taxxa jew f’xi Stat membru ieħor u ma jissodisfa l-ebda waħda mill- 114 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-kondizzjonijiet msemmija fil-partita 4(a) f’xi Stat Membru ieħor u mhuwiex Operatur tal-Pjattaforma Kwalifikat Mhux tal-Unjoni;
+(ċ) għandu stabbiliment permanenti f’Malta u mhuwiex residenti f’Malta għat-taxxa jew f’xi Stat membru ieħor u ma jissodisfa l-ebda waħda mill-kondizzjonijiet msemmija fil-partita 4(a) f’xi Stat Membru ieħor u mhuwiex Operatur tal-Pjattaforma Kwalifikat Mhux tal-Unjoni;
 
 (d) għandu stabbiliment permanenti f’Malta u mhuwiex residenti f’Malta għat-taxxa jew f’xi Stat membru ieħor u jissodisfa xi waħda mill-kondizzjonijiet msemmija fil-partita 4(a) f’xi Stat Membru ieħor u mhuwiex Operatur ta’ Pjattaforma Kwalifikat Mhux tal-Unjoni, u għażel skont id-dispożizzjonijiet tal-parti A(2) tat-Taqsima III li jissodisfa l-obbligi ta’ rapportar tiegħu f’Malta; jew
 
@@ -3289,9 +2926,7 @@ Iżda t-terminu "Attività Rilevanti" ma jinkludix attività mwettqa minn Bejjie
 
 \10. "Attivitajiet Rilevanti Kwalifikati" tfisser kwalunkwe Attività Rilevanti koperta mill-iskambju awtomatiku skont Ftehim bejn l-Awtoritajiet Kompetenti Kwalifikanti Effettiv.
 
-\11. "Korrispettiv" tfisser kumpens fi kwalunkwe forma mingħajr id-drittijiet, il-kummissjonijiet jew it-taxxi li jkunu tnaqqsu f’ras il-għajn jew ġew imposti mill-Operatur tal-Pjattaforma Rapportanti, li jitħallas jew jiġi kkreditat lil Bejjiegħ b’rabta ma’ Attività Rilevanti, li l-ammont tiegħu jkun magħruf jew jista’ jkun FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 115
-
-raġonevolment magħruf mill-Operatur tal-Pjattaforma.
+\11. "Korrispettiv" tfisser kumpens fi kwalunkwe forma mingħajr id-drittijiet, il-kummissjonijiet jew it-taxxi li jkunu tnaqqsu f’ras il-għajn jew ġew imposti mill-Operatur tal-Pjattaforma Rapportanti, li jitħallas jew jiġi kkreditat lil Bejjiegħ b’rabta ma’ Attività Rilevanti, li l-ammont tiegħu jkun magħruf jew jista’ jkun raġonevolment magħruf mill-Operatur tal-Pjattaforma.
 
 \12. "Servizz Personali" tfisser servizz li jinvolvi xogħol ibbażat fuq il-ħin jew fuq il-kompiti li jitwettaq minn individwu wieħed (1) jew aktar, li jaġixxu b’mod indipendenti jew f’isem Entità u li jitwettaq fuq talba ta’ utent, online jew fiżikament offline wara li jkun ġie ffaċilitat permezz ta’ Pjattaforma.
 
@@ -3317,9 +2952,7 @@ B. Bejjiegħa Rapportabbli
 
 \1. "Entità" tfisser persuna ġuridika jew arranġament ġuridiku, bħal korporazzjoni, sħubija, trust jew fondazzjoni. Entità hija Entità relatata ta’ Entità oħra jekk kwalunkwe Entità tikkontrolla lill-Entità l-oħra, jew iż-żewġ (2) Entitajiet ikunu taħt kontroll komuni. Għal dan il-għan, kontroll jinkludi sjieda diretta jew indiretta ta’ aktar minn ħamsin fil-mija (50%) tal-vot u l-valur f’Entità. F’parteċipazzjoni indiretta, l-issodisfar tar-rekwiżit ta’ aktar minn ħamsin fil-mija (50%) tad-dritt ta’ sjieda fil-kapital tal-Entità l-oħra għandu jiġi determinat bil-multiplikazzjoni tar-rati ta’ parteċipazzjoni fil-livelli suċċessivi. Persuna li jkollha iżjed minn ħamsin fil-mija (50%) tad-drittijiet tal-vot għandha titqies li għandha mija fil-mija (100%).
 
-\2. "Entità Governattiva" tfisser il-Gvern ta’ Malta jew ta’ ġurisdizzjoni oħra, kwalunkwe suddiviżjoni politika ta’ Malta jew ta’ ġurisdizzjoni oħra li tinkludi stat, 116 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-provinċja, kontea jew muniċipalità jew kwalunkwe aġenzija jew strument bi sjieda totali ta’ Malta jew ta’ ġurisdizzjoni oħra jew kwalunkwe wieħed jew aktar minn dawn ta’ qabel, kull wieħed minnhom ikun "Entità Governattiva".
+\2. "Entità Governattiva" tfisser il-Gvern ta’ Malta jew ta’ ġurisdizzjoni oħra, kwalunkwe suddiviżjoni politika ta’ Malta jew ta’ ġurisdizzjoni oħra li tinkludi stat, provinċja, kontea jew muniċipalità jew kwalunkwe aġenzija jew strument bi sjieda totali ta’ Malta jew ta’ ġurisdizzjoni oħra jew kwalunkwe wieħed jew aktar minn dawn ta’ qabel, kull wieħed minnhom ikun "Entità Governattiva".
 
 \3. "NIT" tfisser in-Numru ta’ Identifikazzjoni tal-Kontribwent, maħruġ minn Stat Membru, jew l-ekwivalenti funzjonali fin-nuqqas ta’ Numru ta’ Identifikazzjoni tal- Kontribwent.
 
@@ -3348,8 +2981,6 @@ Għall-fini li jiġi determinat jekk Bejjiegħ li jkun Entità jikkwalifikax bħ
 Għall-fini li jiġi determinat jekk Bejjiegħ jikkwalifikax bħala Bejjiegħ Eskluż deskritt fil-parti B(4)(ċ) u (d) tat-Taqsima I, Operatur ta’ Pjattaforma Rapportanti f’Malta jista’ jiddependi fuq ir-rekords disponibbli tiegħu.
 
 B. Ġbir ta’ Informazzjoni dwar il-Bejjiegħ
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 117
 
 \1. L-Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jiġbor l-informazzjoni kollha li ġejja għal kull Bejjiegħ li jkun individwu u mhux Bejjiegħ Eskluż:
 
@@ -3387,9 +3018,7 @@ FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 117
 
 Ċ. Verifika tal-Informazzjoni dwar il-Bejjiegħ
 
-\1. L-Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jiddetermina jekk l-informazzjoni li tkun inġabret skont il-parti A, il-parti B(1), il-parti B(2)(a) sa (e) u l- 118 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-parti E hijiex affidabbli, billi juża l-informazzjoni u d-dokumenti kollha disponibbli għall-Operatur ta’ Pjattaforma Rapportanti f’Malta fir-reġistri tiegħu, kif ukoll kwalunkwe interfaċċa elettronika magħmula disponibbli għall-pubbliku mingħajr ħlas minn Stat Membru jew l-Unjoni, sabiex jaċċerta l-validità tan-NIT u, jew in-numru ta’ identifikazzjoni tal-VAT.
+\1. L-Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jiddetermina jekk l-informazzjoni li tkun inġabret skont il-parti A, il-parti B(1), il-parti B(2)(a) sa (e) u l-parti E hijiex affidabbli, billi juża l-informazzjoni u d-dokumenti kollha disponibbli għall-Operatur ta’ Pjattaforma Rapportanti f’Malta fir-reġistri tiegħu, kif ukoll kwalunkwe interfaċċa elettronika magħmula disponibbli għall-pubbliku mingħajr ħlas minn Stat Membru jew l-Unjoni, sabiex jaċċerta l-validità tan-NIT u, jew in-numru ta’ identifikazzjoni tal-VAT.
 
 \2. Minkejja d-dispożizzjonijiet tal-parti Ċ(1), għat-tlestija tal-proċeduri tad-diliġenza dovuta skont il-parti F(2), l-Operatur ta’ Pjattaforma Rapportanti f’Malta jista’ jiddetermina jekk l-informazzjoni miġbura skont il-parti A, il-parti B(1), il-parti B(2) (a) sa (e) u l-parti E hijiex affidabbli billi juża informazzjoni u dokumenti disponibbli għall- Operatur ta’ Pjattaforma Rapportanti f’Malta fir-reġistri tiegħu li fihom jistgħu jsiru tfittxijiet elettroniċi.
 
@@ -3407,9 +3036,7 @@ D. Determinazzjoni tal-Istat Membru tar-residenza tal-Bejjiegħ għall-finijiet 
 
 E. Ġbir ta’ informazzjoni dwar proprjetà immobbli mikrija
 
-Fejn Bejjiegħ ikun involut f’Attività Rilevanti li tinvolvi l-kiri ta’ proprjetà immobbli, l-Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jiġbor l-indirizz ta’ kull Proprjetà Elenkata u fejn ikun inħareġ, in-numru ta’ reġistrazzjoni tal-art rispettiv jew l-ekwivalenti tiegħu skont il-liġi nazzjonali tal-Istat Membru fejn tkun tinsab. Fejn Operatur ta’ Pjattaforma Rapportanti f’Malta jkun iffaċilita aktar minn elfejn (2,000) Attività Rilevanti permezz tal-kiri ta’ Proprjetà Elenkata għall-istess Bejjiegħ li jkun FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 119
-
-Entità, l-Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jiġbor dokumenti, data jew informazzjoni ta’ sostenn li juru li l-Proprjetà Elenkata hija proprjetà tal-istess sid.
+Fejn Bejjiegħ ikun involut f’Attività Rilevanti li tinvolvi l-kiri ta’ proprjetà immobbli, l-Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jiġbor l-indirizz ta’ kull Proprjetà Elenkata u fejn ikun inħareġ, in-numru ta’ reġistrazzjoni tal-art rispettiv jew l-ekwivalenti tiegħu skont il-liġi nazzjonali tal-Istat Membru fejn tkun tinsab. Fejn Operatur ta’ Pjattaforma Rapportanti f’Malta jkun iffaċilita aktar minn elfejn (2,000) Attività Rilevanti permezz tal-kiri ta’ Proprjetà Elenkata għall-istess Bejjiegħ li jkun Entità, l-Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jiġbor dokumenti, data jew informazzjoni ta’ sostenn li juru li l-Proprjetà Elenkata hija proprjetà tal-istess sid.
 
 F. Tempestività u validità tal-proċeduri tad-diliġenza dovuta
 
@@ -3435,9 +3062,7 @@ H. Tlestija tal-proċeduri tad-diliġenza dovuta minn partijiet terzi
 
 **I. Proċedura sabiex tiżgura l-ġbir ta’ informazzjoni dwar il-Bejjiegħ**
 
-Fejn Bejjiegħ ma jipprovdix l-informazzjoni meħtieġa skont il-partijiet A sa E, wara żewġ(2) tfakkiriet sussegwentement għat-talbainizjalimill-Operatur ta’ Pjattaforma Rapportanti f’Malta, iżda mhux qabel l-iskadenza ta’ sittin (60) jum, l- Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jagħlaq il-kont tal-Bejjiegħ u ma jħallix lill-Bejjiegħ jerġa’ jirreġistra fuq il-Pjattaforma. Il-pagament tal-Korrispettiv lill- 120 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-Bejjiegħ għandu jinżamm mill-Operatur ta’ Pjattaforma Rapportanti f’Malta sakemm il- Bejjiegħ jipprovdi l-informazzjoni mitluba.
+Fejn Bejjiegħ ma jipprovdix l-informazzjoni meħtieġa skont il-partijiet A sa E, wara żewġ(2) tfakkiriet sussegwentement għat-talbainizjalimill-Operatur ta’ Pjattaforma Rapportanti f’Malta, iżda mhux qabel l-iskadenza ta’ sittin (60) jum, l- Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jagħlaq il-kont tal-Bejjiegħ u ma jħallix lill-Bejjiegħ jerġa’ jirreġistra fuq il-Pjattaforma. Il-pagament tal-Korrispettiv lill- Bejjiegħ għandu jinżamm mill-Operatur ta’ Pjattaforma Rapportanti f’Malta sakemm il- Bejjiegħ jipprovdi l-informazzjoni mitluba.
 
 ## TAQSIMA III — REKWIŻITI TAR-RAPPORTAR — A. Żmien u mod ta’ rapportar
 
@@ -3449,9 +3074,7 @@ Iżda l-prova tista’ tkun f’dik il-forma kif il-Kummissarju jista’ jiddete
 
 \3. Operatur ta’ Pjattaforma Rapportanti f’Malta skont it-tifsira tal-parti A(7)(e) tat-Taqsima I għandu jirrapporta l-informazzjoni stabbilita fil-parti B fir-rigward tal-Perjodu Rapportabbli lill-Kummissarju sa mhux aktar tard mill-31 ta’ Jannar tas-sena ta’ wara s-sena kalendarja li fiha l-Bejjiegħ jiġi identifikat bħala Bejjiegħ Rapportabbli.
 
-\4. Minkejja d-dispożizzjonijiet tas-subparagrafu A(3), Operatur ta’ Pjattaforma Rapportanti f’Malta ma għandux ikun meħtieġ jipprovdi l-informazzjoni stabbilita fil-paragrafu B fir-rigward ta’ Attivitajiet Rilevanti Kwalifikati, koperti minn Ftehim bejn l-Awtoritajiet Kompetenti Kwalifikanti Effettiv, li diġà jipprovdu għall-iskambju awtomatiku ta’ informazzjoni ekwivalenti ma’ Malta dwar Bejjiegħa FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 121
-
-Rapportabbli residenti f’Malta.
+\4. Minkejja d-dispożizzjonijiet tas-subparagrafu A(3), Operatur ta’ Pjattaforma Rapportanti f’Malta ma għandux ikun meħtieġ jipprovdi l-informazzjoni stabbilita fil-paragrafu B fir-rigward ta’ Attivitajiet Rilevanti Kwalifikati, koperti minn Ftehim bejn l-Awtoritajiet Kompetenti Kwalifikanti Effettiv, li diġà jipprovdu għall-iskambju awtomatiku ta’ informazzjoni ekwivalenti ma’ Malta dwar Bejjiegħa Rapportabbli residenti f’Malta.
 
 \5. Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jipprovdi wkoll l-informazzjoni stabbilita fil-partijiet B(2) u B(3) lill-Bejjiegħ Rapportabbli l i m i e g ħ u h u w a relatat sa mhux aktar tard mill-31 ta’ Jannar tas-sena ta’ wara s-sena kalendarja li fiha l-Bejjiegħ jiġi identifikat bħala Bejjiegħ Rapportabbli.
 
@@ -3481,11 +3104,7 @@ Kull Operatur ta’ Pjattaforma Rapportanti f’Malta għandu jirrapporta l-info
 
 \3. Fir-rigward ta’ kull Bejjiegħ Rapportabbli li wettaq Attività Rilevanti għajr attività li tinvolvi l-kiri ta’ proprjetà immobbli:
 
-(a) il-punti ta’ informazzjoni li jeħtieġ jinġabru skont il-parti B tat- [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-Taqsima II;
-
-*122*
+(a) il-punti ta’ informazzjoni li jeħtieġ jinġabru skont il-parti B tat- Taqsima II;
 
 (b) l-Identifikatur tal-Kont Finanzjarju, meta dan ikun disponibbli għall-Operatur ta’ Pjattaforma Rapportanti f’Malta u l-awtorità kompetenti tal- Istat Membru tar-residenza fejn il-Bejjiegħ Rapportabbli jkun residenti skont it-tifsira tal-parti D tat-Taqsima II, ma tkunx ippubblikat li mhijiex bi-ħsiebha tuża l- Identifikatur tal-Kont Finanzjarju għal dan il-għan;
 
@@ -3507,9 +3126,7 @@ Taqsima II;
 
 (d) kull Stat Membru li fih il-Bejjiegħ Rapportabbli jkun residenti għall-finijiet tar-regolament 13(12) kif iddeterminat skont il-parti D tat-Taqsima II;
 
-(e) l-indirizz ta’ kull Proprjetà Elenkata, iddeterminata abbażi tal-proċeduri stabbiliti fil-parti E tat-Taqsima II u n-numru rispettiv tar-reġistrazzjoni FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 123
-
-tal-art jew l-ekwivalenti tiegħu skont il-liġi nazzjonali tal-Istat Membru fejn il- Proprjetà Elenkata tkun tinsab, fejn jkun disponibbli;
+(e) l-indirizz ta’ kull Proprjetà Elenkata, iddeterminata abbażi tal-proċeduri stabbiliti fil-parti E tat-Taqsima II u n-numru rispettiv tar-reġistrazzjoni tal-art jew l-ekwivalenti tiegħu skont il-liġi nazzjonali tal-Istat Membru fejn il- Proprjetà Elenkata tkun tinsab, fejn jkun disponibbli;
 
 (f) il-Korrispettiv totali li tħallas jew li ġie kkreditat matul kull trimestru tal-Perjodu Rapportabbli u n-numru ta’ Attivitajiet Rilevanti provduti fir-rigward ta’ kull Proprjetà Elenkata;
 
@@ -3533,9 +3150,7 @@ Dan l-Anness jistabbilixxi r-rekwiżiti ta’ rapportar, il-proċeduri ta’ dil
 
 A. Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti mfissra fis-subparagrafu B(3) tat-Taqsima IV, huwa soġġett għar-rekwiżiti ta’ rapportar u ta’ diliġenza dovuta stabbiliti fit-Taqsimiet II u III, rispettivament, f’Malta, jekk:
 
-\1. ikun Entità awtorizzata mill-Awtorità għas-Servizzi Finanzjarji ta’ Malta bħala l-awtorità kompetenti skont l-Artikolu 63 tar-Regolament (UE) 124 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-2023/1114 jew jitħalla jipprovdi Servizzi tal-Kriptoassi wara notifika lil Stat Membru skont l-Artikolu 60 tal-imsemmi Regolament; jew
+\1. ikun Entità awtorizzata mill-Awtorità għas-Servizzi Finanzjarji ta’ Malta bħala l-awtorità kompetenti skont l-Artikolu 63 tar-Regolament (UE) 2023/1114 jew jitħalla jipprovdi Servizzi tal-Kriptoassi wara notifika lil Stat Membru skont l-Artikolu 60 tal-imsemmi Regolament; jew
 
 \2. ma jkunx Entità awtorizzata mill-Awtorità għas-Servizzi Finanzjarji ta’ Malta bħala l-awtorità kompetenti skont l-Artikolu 63 tar- Regolament (UE) 2023/1114 jew jitħalla jipprovdi Servizzi tal-Kriptoassi wara notifika lill-Awtorità għas-Servizzi Finanzjarji ta’ Malta skont l-Artikolu 60 tal-imsemmi Regolament u jkun:
 
@@ -3559,8 +3174,6 @@ D. Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta li jkun Entità 
 
 (a) tkun inkorporata jew organizzata skont il-liġijiet ta’ tali Stat Membru jew Ġurisdizzjoni Kwalifikata Mhux tal-Unjoni; u
 
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 125
-
 (b) ikollha personalità ġuridika fl-Istat Membru l-ieħor jew il- Ġurisdizzjoni Kwalifikata Mhux tal-Unjoni l-oħra jew ikollha obbligu li tippreżenta d-dikjarazzjonijiet tat-taxxa jew dikjarazzjonijiet tal-informazzjoni dwar it-taxxa lill-awtoritajiet tat-taxxa fl-Istat Membru l-ieħor jew il- Ġurisdizzjoni Kwalifikata Mhux tal-Unjoni l-oħra fir-rigward tal-introjtu tal- Entità.
 
 E. Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta li jkun Entità ma huwiex meħtieġ jissodisfa r-rekwiżiti ta’ rapportar u ta’ diliġenza dovuta stabbiliti fit- Taqsimiet II u III, rispettivament, f’Malta jekk jaqa’ fl-ambitu tas-subparagrafu A(2)(d), jekk dawk ir-rekwiżiti jkunu sodisfatti minn tali Fornitur ta’ Servizzi tal- Kriptoassi Rapportanti fi kwalunkwe Stat Membru ieħor jew Ġurisdizzjoni Kwalifikata Mhux tal-Unjoni oħra bis-saħħa tal-fatt li jkun ġestit minn tali Stat Membru jew f’Ġurisdizzjoni Kwalifikata Mhux tal-Unjoni.
@@ -3575,9 +3188,7 @@ H. Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti ma huwiex meħtieġ jissod
 
 A. Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta skont it-tifsira tat- Taqsima I, il-paragrafi A u B, għandu jirrapporta l-informazzjoni imsemmija fil-paragrafu B ta’ din it-Taqsima lill-awtorità kompetenti ta’ Malta, fejn ikun soġġett għar-rekwiżiti ta’ rapportar skont it-Taqsima I.
 
-B. Għal kull sena kalendarja rilevanti jew għal perjodu ta’ rapportar xieraq ieħor, u kif soġġett għall-obbligi ta’ Fornituri ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta stabbiliti fit-Taqsima I u l-proċeduri ta’ diliġenza dovuta stabbiliti fit-Taqsima III, Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti għandu jirrapporta l-informazzjoni 126 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-li ġejja dwar l-Utenti tal-Kriptoassi tiegħu li huma Utenti Rapportabbli jew li għandhom Persuni Kontrollanti li huma Persuni Rapportabbli:
+B. Għal kull sena kalendarja rilevanti jew għal perjodu ta’ rapportar xieraq ieħor, u kif soġġett għall-obbligi ta’ Fornituri ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta stabbiliti fit-Taqsima I u l-proċeduri ta’ diliġenza dovuta stabbiliti fit-Taqsima III, Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti għandu jirrapporta l-informazzjoni li ġejja dwar l-Utenti tal-Kriptoassi tiegħu li huma Utenti Rapportabbli jew li għandhom Persuni Kontrollanti li huma Persuni Rapportabbli:
 
 \1. l-isem, l-indirizz, l-Istati Membri ta’ residenza, in-NITs u, fil-każ ta’ individwu, id-data u l-post tat-twelid ta’ kull Utent Rapportabbli u, fil-każ ta’ kwalunkwe Entità li, wara l-applikazzjoni tal-proċeduri ta’ diliġenza dovuta stabbiliti fit-Taqsima III, jiġi identifikat li jkollha Persuna Kontrollanti waħda (1) jew aktar li tkun Persuna Rapportabbli, l-isem, l-indirizz, l-Istati Membri ta’ residenza u n-NITs tal-Entità, u l-isem, l-indirizz, l-Istati Membri ta’ residenza, in- NITs u d-data u l-post tat-twelid ta’ kull Persuna Rapportabbli tal-Entità li tkun Persuna Rapportabbli, kif ukoll ir-rwoli li bis-saħħa tagħhom kull tali Persuna Rapportabbli tkun Persuna Kontrollanti tal-Entità;
 
@@ -3601,9 +3212,7 @@ Minkejja s-subparagrafu B(1), l-ewwel subparagrafu, fejn il-Fornitur ta’ Servi
 
 (g) il-valur tas-suq ġust aggregat, in-numru aggregat ta’ unitajiet u n-numru ta’ Tranżazzjonijiet Rapportabbli, u suddiviżi skont it-tip ta’ trasferiment fejn dan ikun magħruf mill-Fornitur ta’ Servizzi tal- Kriptoassi Rapportanti f’Malta, fir-rigward ta’ Trasferimenti lill-Utent Rapportabbli mhux koperti mill-punti (b) u (d);
 
-(h) il-valur tas-suq ġust aggregat, in-numru aggregat ta’ unitajiet u n-numru FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 127
-
-ta’ Tranżazzjonijiet Rapportabbli, u suddiviżi skont it-tip ta’ trasferiment fejn dan ikun magħruf mill-Fornitur ta’ Servizzi tal- Kriptoassi Rapportanti f’Malta, fir-rigward ta’ Trasferimenti mill-Utent Rapportabbli li ma jkunux koperti mill-punti (ċ), (e) u (f); u
+(h) il-valur tas-suq ġust aggregat, in-numru aggregat ta’ unitajiet u n-numru ta’ Tranżazzjonijiet Rapportabbli, u suddiviżi skont it-tip ta’ trasferiment fejn dan ikun magħruf mill-Fornitur ta’ Servizzi tal- Kriptoassi Rapportanti f’Malta, fir-rigward ta’ Trasferimenti mill-Utent Rapportabbli li ma jkunux koperti mill-punti (ċ), (e) u (f); u
 
 (i) il-valur tas-suq ġust aggregat, kif ukoll in-numru aggregat ta’ unitajiet ta’ Trasferimenti mwettqa mill-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta għall-indirizzi tal-kotba distribwiti msemmija fir- Regolament (UE) 2023/1114 mhux magħrufa li jkunu assoċjati ma’ fornitur ta’ servizzi ta’ assi virtwali jew ma’ istituzzjoni finanzjarja. Għall-finijiet tas-subparagrafu B(3), il-punti (b) u (ċ), l-ammont imħallas jew riċevut għandu jiġi rrapportat fil-Munita ta’ Kors Legali li fiha jkun tħallas jew ġie riċevut. F’każ li l-ammonti jkunu tħallsu jew ġew riċevuti f’diversi Muniti ta’ Kors Legali, l-ammonti għandhom jiġu rrapportati f’munita waħda, ikkonvertiti fiż-żmien ta’ kull Tranżazzjoni Rapportabbli b’mod li jiġi applikat b’mod konsistenti mill-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta.
 
@@ -3625,8 +3234,6 @@ A. Proċeduri ta’ diliġenza dovuta għall-Utenti tal-Kriptoassi Individwali
 
 Il-proċeduri li ġejjin japplikaw għall-fini li jiġi determinat jekk l-Utent tal- Kriptoassi Individwali huwiex Utent Rapportabbli.
 
-128 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
 \1. Meta tiġi stabbilita r-relazzjoni mal-Utent tal-Kriptoassi Individwali, jew fir-rigward tal-Utenti tal-Kriptoassi Individwali Preeżistenti sal-1 ta’ Jannar 2027, il- Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f ’Malta għandu jikseb awtoċertifikazzjoni li tippermetti lill-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti jiddetermina r-residenza tal-Utent tal-Kriptoassi Individwali għall-finijiet ta’ taxxa u jikkonferma li tali awtoċertifikazzjoni hija raġonevoli abbażi tal-informazzjoni miksuba mill-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f ’Malta, inkluż kwalunkwe dokumentazzjoni li tkun inġabret skont il-Proċeduri ta’ Diliġenza Dovuta tal-Klijent.
 
 \2. Jekk fi kwalunkwe punt ikun hemm bidla fiċ-ċirkostanzi fir-rigward ta’ Utent tal-Kriptoassi Individwali li tikkawża lill-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta jkun jaf, jew ikollu raġuni li jkun jaf, li l-awtoċertifikazzjoni oriġinali ma tkunx korretta jew ma tkunx affidabbli, il-Fornitur ta’ Servizzi tal- Kriptoassi Rapportanti f’Malta ma jistax jibbaża fuq l-awtoċertifikazzjoni oriġinali u għandu jikseb awtoċertifikazzjoni valida, jew spjegazzjoni raġonevoli u, fejn xieraq, id-dokumentazzjoni li tappoġġa l-validità tal-awtoċertifikazzjoni oriġinali.
@@ -3641,9 +3248,7 @@ Il-proċeduri li ġejjin japplikaw għall-fini li jiġi determinat jekkl-Entità
 
 (b) Jekk l-awtoċertifikazzjoni tindika li l-Entità Utent tal-Kriptoassi tkun residenti fi Stat Membru, il-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta għandu jittratta lill-Entità Utent tal-Kriptoassi bħala Utent Rapportabbli, sakemm ma jiddeterminax b’mod raġonevoli abbażi tal-awtoċertifikazzjoni jew tal-informazzjoni fil-pussess tiegħu jew li tkun disponibbli għall-pubbliku, li l-Entità Utent tal-Kriptoassi tkun Persuna Eskluża.
 
-\2. Determinazzjoni dwar jekk l-Entità għandhiex Persuna Kontrollanti waħda (1) jew aktar li huma Persuni Rapportabbli. Fir-rigward ta’ Entità Utent tal- Kriptoassi, għajr Persuna Eskluża, il-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti għandu jiddetermina jekk għandhiex Persuna Kontrollanti waħda (1) jew aktar li jkunu Persuni Rapportabbli, sakemm ma jiddeterminax li l-Entità Utent tal- FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 129
-
-Kriptoassi tkun Entità Attiva, abbażi ta’ awtoċertifikazzjoni mill-Entità Utent tal- Kriptoassi.
+\2. Determinazzjoni dwar jekk l-Entità għandhiex Persuna Kontrollanti waħda (1) jew aktar li huma Persuni Rapportabbli. Fir-rigward ta’ Entità Utent tal- Kriptoassi, għajr Persuna Eskluża, il-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti għandu jiddetermina jekk għandhiex Persuna Kontrollanti waħda (1) jew aktar li jkunu Persuni Rapportabbli, sakemm ma jiddeterminax li l-Entità Utent tal- Kriptoassi tkun Entità Attiva, abbażi ta’ awtoċertifikazzjoni mill-Entità Utent tal- Kriptoassi.
 
 (a) Determinazzjoni tal-Persuni Kontrollanti tal-Entità Utent tal-Kriptoassi. Għall-fini li jiġu determinati l-Persuni Kontrollanti tal-Entità Utent tal- Kriptoassi, Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti jista’ jibbaża ruħu fuq l-informazzjoni miġbura u miżmuma skont il-Proċeduri ta’ Diliġenza Dovuta tal-Klijenti, diment li tali proċeduri jkunu konsistenti mad-Direttiva (UE) 2015/849. Jekk il-Fornitur ta’ Servizzi tal- Kriptoassi Rapportanti f’Malta ma jkunx legalment meħtieġ li japplika Proċeduri ta’ Diliġenza Dovuta tal-Klijenti li jkunu konsistenti mad- Direttiva (UE) 2015/849, huwa għandu japplika proċeduri sostanzjalment simili għall-fini li jiġu determinati l-Persuni Kontrollanti.
 
@@ -3665,9 +3270,7 @@ Kriptoassi tkun Entità Attiva, abbażi ta’ awtoċertifikazzjoni mill-Entità 
 
 (e) id-data tat-twelid.
 
-\2. Awtoċertifikazzjoni pprovduta minn Entità Utent tal-Kriptoassi tkun valida 130 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-biss jekk tkun iffirmata jew jekk tkun xort’oħra affermata b’mod pożittiv mill-Entità Utent tal-Kriptoassi, tkun datata sa mhux aktar tard mid-data meta tkun ġiet riċevuta u jkun fiha l-informazzjoni li ġejja fir-rigward tal-Entità Utent tal-Kriptoassi:
+\2. Awtoċertifikazzjoni pprovduta minn Entità Utent tal-Kriptoassi tkun valida biss jekk tkun iffirmata jew jekk tkun xort’oħra affermata b’mod pożittiv mill-Entità Utent tal-Kriptoassi, tkun datata sa mhux aktar tard mid-data meta tkun ġiet riċevuta u jkun fiha l-informazzjoni li ġejja fir-rigward tal-Entità Utent tal-Kriptoassi:
 
 (a) l-isem ġuridiku;
 
@@ -3698,8 +3301,6 @@ A. Kriptoassi Rapportabbli
 \2. "Munita Diġitali tal-Bank Ċentrali" tfisser kwalunkwe Munita ta’ Kors Legali diġitali maħruġa minn Bank Ċentrali jew minn awtorità monetarja oħra.
 
 \3. "Bank Ċentrali" tfisser istituzzjoni li hija bil-liġi jew b’sanzjoni tal-gvern l-awtorità prinċipali, minbarra l-gvern tal-ġurisdizzjoni stess, li toħroġ strumenti maħsuba sabiex jiċċirkolaw bħala munita. Tali istituzzjoni tista’ tinkludi istrumentalità li tkun separata mill-gvern tal-ġurisdizzjoni, kemm jekk tkun totalment jew parzjalment il-proprjetà tal-ġurisdizzjoni.
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 131
 
 \4. "Kriptoassi Rapportabbli" tfisser kwalunkwe Kriptoassi għajr Munita Diġitali tal-Bank Ċentrali, Flus Elettroniċi, jew kwalunkwe Kriptoassi li għalih il- Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti jkun iddetermina b’mod adegwat li ma jistax jintuża għall-finijiet ta’ pagament jew ta’ investiment.
 
@@ -3735,9 +3336,7 @@ B. Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti
 
 \2. "Tranżazzjoni ta’ Skambju" tfisser kwalunkwe:
 
-(a) skambju bejn il-Kriptoassi Rapportabbli u l-Muniti ta’ Kors Legali; u 132 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-(b) skambju bejn forma ta’ Kriptoassi Rapportabbli waħda (1) jew aktar. 3. "Tranżazzjoni ta’ Pagament bl-Imnut Rapportabbli" tfisser Trasferiment ta’ Kriptoassi Rapportabbli b’korrispettiv għal oġġetti jew servizzi ta’ valur li jaqbeż USD $50,000 jew l-ammont ekwivalenti fi kwalunkwe munita oħra.
+(a) skambju bejn il-Kriptoassi Rapportabbli u l-Muniti ta’ Kors Legali; u (b) skambju bejn forma ta’ Kriptoassi Rapportabbli waħda (1) jew aktar. 3. "Tranżazzjoni ta’ Pagament bl-Imnut Rapportabbli" tfisser Trasferiment ta’ Kriptoassi Rapportabbli b’korrispettiv għal oġġetti jew servizzi ta’ valur li jaqbeż USD $50,000 jew l-ammont ekwivalenti fi kwalunkwe munita oħra.
 
 \4. "Trasferiment" tfisser tranżazzjoni li ċċaqlaq Kriptoassi Rapportabbli mill-indirizz jew mill-kont tal-Kriptoassi ta’ Utent tal-Kriptoassi wieħed (1) jew lejh, għajr dak miżmum mill-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti f’isem l-istess Utent tal-Kriptoassi, fejn, abbażi tal-għarfien disponibbli għall-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti fil-ħin tat-tranżazzjoni, il-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti ma jistax jiddetermina li t-tranżazzjoni hija Tranżazzjoni ta’ Skambju.
 
@@ -3755,9 +3354,7 @@ D. Utent Rapportabbli
 
 \5. "Entità Utent tal-Kriptoassi’ tfisser Utent tal-Kriptoassi li tkun Entità.
 
-\6. "Entità Utent tal-Kriptoassi Preeżistenti" tfisser Entità Utent tal-Kriptoassi li tkun stabbilixxiet relazzjoni mal-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 133
-
-mill-31 ta’ Diċembru 2025.
+\6. "Entità Utent tal-Kriptoassi Preeżistenti" tfisser Entità Utent tal-Kriptoassi li tkun stabbilixxiet relazzjoni mal-Fornitur ta’ Servizzi tal-Kriptoassi Rapportanti mill-31 ta’ Diċembru 2025.
 
 \7. "Persuna Rapportabbli" tfisser Persuna ta’ Stat Membru għajr Persuna Eskluża.
 
@@ -3773,11 +3370,7 @@ mill-31 ta’ Diċembru 2025.
 
 (ċ) l-Entità għadha ma hijiex qed topera negozju u ma għandha l-ebda storja preċedenti ta’ operat, iżda qiegħda tinvesti l-kapital f’assi bl-intenzjoni li topera negozju għajr dak ta’ Istituzzjoni Finanzjarja, diment li l-Entità ma tikkwalifikax għal din l-eċċezzjoni wara d-data li tkun erbgħa u għoxrin (24) xahar wara d-data tal-organizzazzjoni inizjali tal-Entità;
 
-(d) l-Entità ma kinitx Istituzzjoni Finanzjarja f’dawn l-aħħar ħames (5) snin u qiegħda fil-proċess li tillikwida l-assi tagħha jew qiegħda torganizza mill-ġdid bl-intenzjoni li tkompli jew li terġa’ tibda l-operat f’negozju [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-għajr dak ta’ Istituzzjoni Finanzjarja;
-
-*134*
+(d) l-Entità ma kinitx Istituzzjoni Finanzjarja f’dawn l-aħħar ħames (5) snin u qiegħda fil-proċess li tillikwida l-assi tagħha jew qiegħda torganizza mill-ġdid bl-intenzjoni li tkompli jew li terġa’ tibda l-operat f’negozju għajr dak ta’ Istituzzjoni Finanzjarja;
 
 (e) l-Entità primarjament tinvolvi ruħha fil-finanzjament u fi tranżazzjonijiet ta’ hedging ma’, jew għal, Entitajiet Relatati li mhumiex Istituzzjonijiet Finanzjarji, u ma tipprovdi finanzjament jew servizzi ta’ hedging lil ebda Entità li ma tkunx Entità Relatata, diment li l-grupp ta’ tali Entitajiet Relatati jkun primarjament involut f’negozju għajr dak ta’ Istituzzjoni Finanzjarja; jew
 
@@ -3815,7 +3408,7 @@ Persuna Eskluża
 
 *\2.*
 
-"Istituzzjoni Finanzjarja’ tfisser Istituzzjoni ta’ Kustodja, Istituzzjoni Depożitorja, Entità ta’ Investiment, jew Kumpanija tal-Assigurazzjoni Speċifikata. FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 135
+"Istituzzjoni Finanzjarja’ tfisser Istituzzjoni ta’ Kustodja, Istituzzjoni Depożitorja, Entità ta’ Investiment, jew Kumpanija tal-Assigurazzjoni Speċifikata.
 
 \3. "Istituzzjoni ta’ Kustodja" tfisser Entità li żżomm, bħala porzjon sostanzjali tan-negozju tagħha, Assi Finanzjarji għal oħrajn. Entità żżomm Assi Finanzjarji għal oħrajn bħala porzjon sostanzjali tan-negozju tagħha jekk l-introjtu gross tal-Entità attribwibbli għaż-żamma ta’ Assi Finanzjarji u servizzi finanzjarji relatati jkun ugwali għal, jew jeċċedi l-għoxrin fil-mija (20%) tal-introjtu gross tal-Entità matul l-iqsar wieħed minn:
 
@@ -3847,9 +3440,7 @@ Entità titqies li tkun primarjament qed tmexxi bħala negozju waħda (1) jew ak
 
 (ii) il-perjodu li matulu l-Entità tkun ilha teżisti.
 
-Għall-finijiet tas-subparagrafu E(5), il-punt (a)(iii), it-terminu "l-investiment, l-amministrazzjoni, jew il-ġestjoni ta’ Assi Finanzjarji, flus, jew Kriptoassi Rapportabbli b’xi mod ieħor f’isem 136 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-persuni oħrajn" ma jinkludix il-forniment ta’ servizzi li jwettqu Tranżazzjonijiet ta’ Skambju għall-klijenti jew f’isimhom. It-terminu "Entità tal-Investiment" ma jinkludix Entità li tkun Entità Attiva għaliex tissodisfa xi wieħed mill-kriterji fis-subparagrafu D(10), il-punti (b) sa (e).
+Għall-finijiet tas-subparagrafu E(5), il-punt (a)(iii), it-terminu "l-investiment, l-amministrazzjoni, jew il-ġestjoni ta’ Assi Finanzjarji, flus, jew Kriptoassi Rapportabbli b’xi mod ieħor f’isem persuni oħrajn" ma jinkludix il-forniment ta’ servizzi li jwettqu Tranżazzjonijiet ta’ Skambju għall-klijenti jew f’isimhom. It-terminu "Entità tal-Investiment" ma jinkludix Entità li tkun Entità Attiva għaliex tissodisfa xi wieħed mill-kriterji fis-subparagrafu D(10), il-punti (b) sa (e).
 
 Dan is-subparagrafu għandu jkun interpretat b’mod li jkun konsistenti ma’ lingwaġġ simili stipulat fit-tifsira ta’ "istituzzjoni finanzjarja" fl-Artikolu 3, il-punt (2), tad-Direttiva (UE) 2015/849.
 
@@ -3869,9 +3460,7 @@ Dan is-subparagrafu għandu jkun interpretat b’mod li jkun konsistenti ma’ l
 
 (ċ) L-introjtu ma jkunx għall-benefiċċju ta’ persuni privati jekk tali persuni jkunu l-benefiċjarji intenzjonati ta’ programm governattiv, u l-attivitajiet tal-programm jitwettqu għall-pubbliku inġenerali fir-rigward tal-benesseri komuni jew ikunu relatati mal-amministrazzjoni ta’ xi fażi tal-gvern. Madankollu, minkejja dak hawn fuq stipulat, l-introjtu jitqies li jkun għall-benefiċċju ta’ persuni privati jekk l-introjtu jkun idderivat mill-użu ta’ entità governattiva għat-tmexxija ta’ negozju kummerċjali, bħal negozju bankarju kummerċjali, li jipprovdi servizzi finanzjarji lil persuni privati.
 
-\8. "Organizzazzjoni Internazzjonali’ tfisser kwalunkwe organizzazzjoni FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 137
-
-internazzjonali jew aġenzija li tkun totalment proprjetà ta’, jew strument tagħha. Din il-kategorija tinkludi kwalunkwe organizzazzjoni intergovernattiva, inkluż organizzazzjoni supranazzjonali:
+\8. "Organizzazzjoni Internazzjonali’ tfisser kwalunkwe organizzazzjoni internazzjonali jew aġenzija li tkun totalment proprjetà ta’, jew strument tagħha. Din il-kategorija tinkludi kwalunkwe organizzazzjoni intergovernattiva, inkluż organizzazzjoni supranazzjonali:
 
 (a) li tkun primarjament magħmula minn gvernijiet;
 
@@ -3897,8 +3486,6 @@ internazzjonali jew aġenzija li tkun totalment proprjetà ta’, jew strument t
 
 (a) unikament minħabba l-mewt ta’ individwu assigurat skont kuntratt tal-assigurazzjoni fuq il-ħajja;
 
-138 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
 (b) bħala benefiċċju għal korriment personali jew għall-mard, jew benefiċċju ieħor li jipprovdi indennizz ta’ telf ekonomiku li jiġġarrab malli jseħħ l-avveniment kopert mill-assigurazzjoni;
 
 (ċ) bħala rifużjoni ta’ premium li jkun tħallas qabel, bit-tnaqqis tal-kost tal-imposti tal-assigurazzjoni kemm jekk realment imposti jew xort’oħra, skont Kuntratt tal-Assigurazzjoni, għajr kuntratt tal-assigurazzjoni fuq il-ħajja marbut ma’ investiment jew kuntratt ta’ annwalità, minħabba kanċellazzjoni jew terminazzjoni tal-kuntratt, tnaqqis fl-espożizzjoni tar-riskju matul il-perjodu effettiv tal-kuntratt, jew b’riżultat tal-korrezzjoni ta’ kollokament jew żball simili rigward il-premium għall-kuntratt;
@@ -3919,9 +3506,7 @@ F. Mixxellanji
 
 \5. "Ftehim bejn l-Awtoritajiet Kompetenti Kwalifikanti Effettiv" tfisser ftehim bejn l-awtoritajiet kompetenti ta’ Stat Membru u ġurisdizzjoni mhux tal-Unjoni li jirrikjedi l-iskambju awtomatiku tal-informazzjoni li tikkorrispondi ma’ dik speċifikata fit-Taqsima II, il-paragrafu B, ta’ dan l-Anness kif determinat minn att ta’ implimentazzjoni f’konformità mal-Artikolu 8ad(11) tad-Direttiva (UE) dwar il- Kooperazzjoni Amministrattiva.
 
-\6. "Ġurisdizzjoni Kwalifikata Mhux tal-Unjoni" tfisser ġurisdizzjoni mhux tal- Unjoni li jkollha fis-seħħ Ftehim bejn l-Awtoritajiet Kompetenti Kwalifikanti Effettiv mal-awtoritajiet kompetenti tal-Istati Membri kollha li jkunu identifikati FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 139
-
-bħala ġurisdizzjonijiet rapportabbli f’lista ppubblikata mill-ġurisdizzjoni mhux tal- Unjoni.
+\6. "Ġurisdizzjoni Kwalifikata Mhux tal-Unjoni" tfisser ġurisdizzjoni mhux tal- Unjoni li jkollha fis-seħħ Ftehim bejn l-Awtoritajiet Kompetenti Kwalifikanti Effettiv mal-awtoritajiet kompetenti tal-Istati Membri kollha li jkunu identifikati bħala ġurisdizzjonijiet rapportabbli f’lista ppubblikata mill-ġurisdizzjoni mhux tal- Unjoni.
 
 \7. "NIT" tfisser in-Numru ta’ Identifikazzjoni tal-Kontribwent jew l-ekwivalenti funzjonali, fin-nuqqas ta’ Numru ta’ Identifikazzjoni tal-Kontribwent. In-NIT huwa kwalunkwe numru jew kodiċi li awtorità kompetenti tuża sabiex tidentifika kontribwent.
 
@@ -3943,9 +3528,7 @@ B. Regoli li jeħtieġu li l-Fornituri ta’ Servizzi tal-Kriptoassi Rapportanti
 
 Ċ. Proċeduri amministrattivi sabiex tiġi vverifikata l-konformità tal-Fornituri ta’ Servizzi tal-Kriptoassi Rapportanti f’Malta mar-rekwiżiti ta’ rapportar u mal-proċeduri ta’ diliġenza dovuta
 
-Għandhom jiġu stabbiliti proċeduri amministrattivi sabiex jivverifikaw il- 140 [L.S.123.127 FUQ KWISTJONIJIET TA’ TAXXA
-
-konformità tal-Fornituri ta’ Servizzi tal-Kriptoassi Rapportanti f ’Malta mar-rekwiżiti ta’ rapportar u mal-proċeduri ta’ diliġenza dovuta stipulati fit-Taqsimiet II u III, rispettivament.
+Għandhom jiġu stabbiliti proċeduri amministrattivi sabiex jivverifikaw il-konformità tal-Fornituri ta’ Servizzi tal-Kriptoassi Rapportanti f ’Malta mar-rekwiżiti ta’ rapportar u mal-proċeduri ta’ diliġenza dovuta stipulati fit-Taqsimiet II u III, rispettivament.
 
 D. Proċeduri amministrattivi għas-segwitu mal-Fornituri ta’ Servizzi tal- Kriptoassi Rapportanti f’Malta fejn tiġi rrapportata informazzjoni mhux kompluta jew mhux preċiża
 
@@ -3970,8 +3553,6 @@ Minkejja s-subparagrafu F(1), l-ewwel subparagrafu, Operatur tal-Kriptoassi li h
 (ċ) l-indirizzi elettroniċi, inkluż is-siti web;
 
 (d) kwalunkwe NIT maħruġ lill-Operaturi tal-Kriptoassi;
-
-FUQ KWISTJONIJIET TA’ TAXXA [L.S.123.127 141
 
 (e) l-Istati Membri li fihom l-Utenti Rapportabbli huma residenti skont it-tifsira tat-Taqsima III, il-paragrafi A u B;
 

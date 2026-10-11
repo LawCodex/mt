@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Rapport ta' Annimali lill-Pulizija"
-identifier: "S.L. 10.7"
+identifier: "S.L. 10.07"
 eli: "https://legislation.mt/eli/sl/10.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/10.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Rapport ta' Annimali lill-Pulizija (S.L. 10.7)
+# Regolamenti dwar Rapport ta' Annimali lill-Pulizija (S.L. 10.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 10.07**
 

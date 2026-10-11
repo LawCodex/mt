@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kondizzjonijiet ta’ Dħul u Residenza ta’ Ċittadini ta’Pajjiżi Terzi għall-Finijiet ta’ Impjieg bi Kwalifiki Għoljin (S.L. 217.15)
 
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET
-
-*1*
-
-TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.15**
 
 **REGOLAMENTI DWAR IL-KONDIZZJONIJIET**
@@ -69,10 +63,6 @@ Għall-finijiet ta’ dawn ir-regolamenti:
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 303 tal-2023.
 
-*2*
-
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET [L.S.217.15 TA’ IMPJIEG BI KWALIFIKI GĦOLJIN
-
 *L.S. 217.06.*
 
 "membri tal-familja" tfisser ċittadini ta’ pajjiżi terzi kif definit fir-regolament 4 tar-Regolamenti dwar ir-Rijunifikazzjoni tal- Familji;
@@ -105,11 +95,7 @@ Iżda għall-finijiet ta’ dawn ir-regolamenti, kwalifika ta’ edukazzjoni og�
 
 *L.S. 451.03.*
 
-"professjoni regolata" tfisser professjoni regolata kif imfissra fir-regolament 3(1)(a) tar-Regolamenti dwar ir-Rikonoxximent TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET
-
-*3*
-
-TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 Reċiproku ta' Kwalifiki Professjonali;
+"professjoni regolata" tfisser professjoni regolata kif imfissra fir-regolament 3(1)(a) tar-Regolamenti dwar ir-Rikonoxximent Reċiproku ta' Kwalifiki Professjonali;
 
 "ċittadin ta’ pajjiż terz" tfisser kwalunkwe persuna li ma tkunx ċittadin tal-Unjoni fis-sens tal-artikolu 20 tat-Trattat dwar il- Funzjonament tal-Unjoni Ewropea.
 
@@ -134,10 +120,6 @@ TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 Reċiproku ta' Kwalifiki Profess
 (e) li huma membri tal-familja ta’ ċittadini tal-Unjoni li eżerċitaw, jew li qed jeżerċitaw, id-dritt tagħhom għal moviment liberu fil-Komunità f’konformità mad- Direttiva 2004/38/KE tal-Parlament Ewropew u tal- Kunsill tad-29 ta’ April 2004 dwar id-drittijiet taċ-ċittadini tal-Unjoni u tal-membri tal-familja tagħhom biex jiċċaqilqu u jgħixu liberament fit-territorju tal- Istati Membri jew eżerċitaw id-dritt tagħhom ta’ moviment liberu f’Malta skont l-Ordni dwar il- Moviment Liberu ta’ Ċittadini tal-Unjoni Europea u tal-Membri tal-Familji Tagħhom;
 
 *L.S. 460.17.*
-
-*4*
-
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET [L.S.217.15 TA’ IMPJIEG BI KWALIFIKI GĦOLJIN
 
 (f) li jgawdu minn status tal-KE ta’ resident għal perjodu fit-tul fi Stat Membru skont id-Direttiva 2003/109/KE, u d-dispożizzjonijiet tar-Regolamenti dwar Status ta’ Residenti li joqogħdu għal Żmien Twil (Ċittadini ta' Pajjiżi Terzi) u jeżerċitaw id-dritt tagħhom li jirrisjedu f’Malta sabiex iwettqu attività ekonomika f’kapaċità ta’ impjegati jew għal rashom;
 
@@ -167,11 +149,7 @@ TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET [L.S.217.15 TA’ IMPJIEG 
 
 (a) jippreżenta kuntratt tax-xogħol jew dikjarazzjoni li jkun fiha l-kondizzjonijiet tax-xogħol skont l-Att dwar l-Impiegi u r-Relazzjonijiet Industrijali u r-regolamenti maħruġa taħtu għal perjodu ta’ mill-inqas sena f’Malta, liema kuntratt tax-xogħol jew dikjarazzjoni għandhom juru li s-salarju gross annwali illi jirriżulta mis-salarju ta’ kull xahar jew annwali speċifikat fil-kuntratt għax-xogħol jew fid-dikjarazzjoni, m’għandux ikun inqas mil-limitu tas-salarju rilevanti imfisser u ppublikat għal dak il-għan minn Malta, li għandu jkun 1.5 tal-ammont tas-salarju annwali gross medju f’Malta:
 
-Iżda, meta l-Ministru responsabbli għall-impjieg, minn żmien għal żmien, jiddetermina ħtieġa partikolari TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET
-
-*5*
-
-TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 għall-ħaddiema ċittadini ta’ pajjiżi terzi u li jappartjenu għall-gruppi ewlenin 1 u 2 tal-ISCO, il-limitu tas-salarju jista’ jkun 1.2 tal-ammont tas-salarju annwali gross medju f’Malta. F’dan il-każ, il-Ministru responsabbli għall-impjieg kull sena għandu jikkomunika lill-Kummissjoni l-elenku tal-professjonijiet li għalihom ġiet deċiża deroga;
+Iżda, meta l-Ministru responsabbli għall-impjieg, minn żmien għal żmien, jiddetermina ħtieġa partikolari għall-ħaddiema ċittadini ta’ pajjiżi terzi u li jappartjenu għall-gruppi ewlenin 1 u 2 tal-ISCO, il-limitu tas-salarju jista’ jkun 1.2 tal-ammont tas-salarju annwali gross medju f’Malta. F’dan il-każ, il-Ministru responsabbli għall-impjieg kull sena għandu jikkomunika lill-Kummissjoni l-elenku tal-professjonijiet li għalihom ġiet deċiża deroga;
 
 (b) jippreżenta dokument li juri li hu jissodisfa l-kondizzjonijiet stabbiliti għall-eżerċizzju miċ-ċittadini tal-Unjoni tal-professjoni regolata speċifikata fil-kuntratt tax-xogħol jew dikjarazzjoni li jkun fiha l-kondizzjonijiet tax-xogħol;
 
@@ -194,10 +172,6 @@ TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 għall-ħaddiema ċittadini ta�
 (1) Ċittadin ta’ pajjiż terz li applika u ssodisfa l-ħtiġiet stabbiliti fir-regolament 4, u li għalih l-awtoritajiet kompetenti jkunu ħadu deċiżjoni pożittiva skont ir-regolament 7, għandu jingħata Karta Blu tal-UE, u fejn applikabbli l-awtoritajiet pertinenti jagħtu liċ-ċittadin ta’ pajjiż terz kull faċilità biex jikseb il-viżi meħtieġa.
 
 (2) Il-Karta Blu tal-UE għandha tibqa’ valida għal perjodu, ta’ mill-inqas, sena:
-
-*6*
-
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET [L.S.217.15 TA’ IMPJIEG BI KWALIFIKI GĦOLJIN
 
 Iżda f’każ ta’ tiġdid ta’ Karta Blu tal-UE għat-tul tal-perjodu li jibqa’ tal-kuntratt tax-xogħol, meta dan ikun inqas minn sena, din għandha tiġġedded għal perjodu li jibqa’, b’validità addizzjonali ta’ tliet xhur.
 
@@ -231,11 +205,7 @@ Iżda f’każ ta’ tiġdid ta’ Karta Blu tal-UE għat-tul tal-perjodu li jib
 
 (5) Id-Direttur jista’ jirrifjuta applikazzjoni għal Karta Blu tal- UE biex jiżgura reklutaġġ etiku f’setturi li jbatu minn nuqqas ta’ ħaddiema kwalifikati fil-pajjiżi tal-oriġini.
 
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET
-
-*7*
-
-TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 (6) Id-Direttur jista’ jirrifjuta applikazzjoni għal Karta Blu tal- UE jekk min iħaddem kien issanzjonat għal xogħol mhux iddikjarat u, jew impjieg illegali skont dawn ir-regolamenti.
+(6) Id-Direttur jista’ jirrifjuta applikazzjoni għal Karta Blu tal- UE jekk min iħaddem kien issanzjonat għal xogħol mhux iddikjarat u, jew impjieg illegali skont dawn ir-regolamenti.
 
 ### 8. Irtirar jew rifjut ta’ tiġdid tal-Karta Blu tal-UE.
 
@@ -263,11 +233,7 @@ Iżda n-nuqqas ta’ komunikazzjoni taħt r-regolamenti 11(3) u 12(4) m’għand
 
 (1) L-applikazzjoni għandha tiġi kunsidrata u eżaminata jew meta ċ-ċittadin konċernat ta’ pajjiż terz ikun qed jirrisjedi barra minn Malta jew meta hu jkun diġà qed jirrisjedi f’Malta bħala detentur ta’ permess ta’ residenza validu jew viża nazzjonali għal perjodu fit-tul.
 
-(2) Ċittadin ta’ pajjiż terz jista’ jippreżenta applikazzjoni meta TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET [L.S.217.15 TA’ IMPJIEG BI KWALIFIKI GĦOLJIN
-
-ma jkunx fil-pussess ta’ permess ta’ residenza validu iżda jkun legalment preżenti f’Malta.
-
-*8*
+(2) Ċittadin ta’ pajjiż terz jista’ jippreżenta applikazzjoni meta ma jkunx fil-pussess ta’ permess ta’ residenza validu iżda jkun legalment preżenti f’Malta.
 
 ### 10. Salvagwardji proċedurali.
 
@@ -291,11 +257,7 @@ Iżda, f’każ li d-Direttur jonqos milli jagħti deċiżjoni fil-perjodu speċ
 
 (3) Bla ħsara għal xi obbligi oħra li jistgħu jiġu stabbiliti minn kull liġi oħra, wara l-perjodu ta’ sentejn imsemmi fis-subregolamenti (1) u (2), id-detentur ta’ Karta Blu tal-UE għandu jippreżenta applikazzjoni lid-Direttur biex jikkomunika l-bidliet li jaffettwaw il-kondizzjonijiet tar-regolament 4.
 
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET
-
-*9*
-
-TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 (4) Aċċess għall-impjieg għal detentur ta’ Karta Blu tal-UE għandu jkun ristrett fil-każijiet fejn:
+(4) Aċċess għall-impjieg għal detentur ta’ Karta Blu tal-UE għandu jkun ristrett fil-każijiet fejn:
 
 (a) tali attivitajiet ta’ impjieg jitolbu involviment okkażjonali fl-eżerċizzju ta’ awtorità pubblika u responsabbiltà għall-ħarsien tal-interess ġenerali ta’ Malta u fejn, taħt il-liġi nazzjonali jew Komunitarja eżistenti, dawn l-attivitajiet huma riżervati għaċ-ċittadini tal-pajjiż;
 
@@ -323,11 +285,7 @@ TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 (4) Aċċess għall-impjieg għa
 
 (a) il-kondizzjonijiet ta’ impjieg, inklużi l-paga u s-sensja, kif ukoll tar-rekwiżiti dwar is-saħħa u s-sigurtà fuq il-post tax-xogħol;
 
-(b) il-libertà ta’ assoċjazzjoni u affiljazzjoni u sħubija ta’ organizzazzjoni li tirrappreżenta l-ħaddiema jew lil min iħaddem jew ta’ xi organizzazzjoni li l-membri tagħha jkunu jwettqu xi xogħol speċifiku, inklużi l-benefiċċji konferiti minn dawk l-organizzazzjonijiet, mingħajr preġudizzju għad-dispożizzjonijiet nazzjonali dwar il-policy pubblika u s-sigurtà TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET [L.S.217.15 TA’ IMPJIEG BI KWALIFIKI GĦOLJIN
-
-pubblika;
-
-*10*
+(b) il-libertà ta’ assoċjazzjoni u affiljazzjoni u sħubija ta’ organizzazzjoni li tirrappreżenta l-ħaddiema jew lil min iħaddem jew ta’ xi organizzazzjoni li l-membri tagħha jkunu jwettqu xi xogħol speċifiku, inklużi l-benefiċċji konferiti minn dawk l-organizzazzjonijiet, mingħajr preġudizzju għad-dispożizzjonijiet nazzjonali dwar il-policy pubblika u s-sigurtà pubblika;
 
 (ċ) l-edukazzjoni u t-taħriġ vokazzjonali:
 
@@ -359,11 +317,7 @@ Iżda wkoll dan il-paragrafu għandu jkun bla ħsara għal-libertà li jikkuntra
 
 (1) Għandhom japplikaw id-dispożizzjonijiet tar- Regolamenti dwar ir-Rijunifikazzjoni tal-Familji:
 
-Iżda d-dispożizzjonijiet tar-regolamenti 5(2) u 13 dwar ir- Rijunifikazzjoni tal-Familji, rijunifikazzjoni tal-familja m’għandhiex tkun dipendenti fuq ir-rekwiżit tad-detentur ta’ Karta Blu tal-UE li jkollu prospetti raġjonevoli li jikseb id-dritt ta’ TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET
-
-*11*
-
-TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 residenza permanenti u li jkollu perjodu minimu ta’ residenza.
+Iżda d-dispożizzjonijiet tar-regolamenti 5(2) u 13 dwar ir- Rijunifikazzjoni tal-Familji, rijunifikazzjoni tal-familja m’għandhiex tkun dipendenti fuq ir-rekwiżit tad-detentur ta’ Karta Blu tal-UE li jkollu prospetti raġjonevoli li jikseb id-dritt ta’ residenza permanenti u li jkollu perjodu minimu ta’ residenza.
 
 *L.S. 217.06.*
 
@@ -395,11 +349,7 @@ TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 residenza permanenti u li jkollu
 
 (3) Għall-finijiet ta’ dawn ir-regolamenti biss, u mingħajr ħsara għad-dispożizzjonijiet tar-regolament 4(3) tar-Regolamenti dwar Status ta’ Residenti li joqogħdu għal Żmien Twil (Ċittadini ta’ Pajjiżi Terzi), għall-finijiet tal-kalkolu tal-perjodu ta’ residenza legali u kontinwa fil-Komunità, perjodi ta’ assenza mit-territorju tal-UE m’għandhomx jinterrompu l-perjodu msemmi fis-subregolament (2)(a) jekk huma anqas minn tnax-il xahar konsekuttivi u b’kollox ma jeċċedux tmintax-il xahar fil-perjodu msemmi fil-subregolament (2)(a) meta din l-assenza tkun minħabba:
 
-(a) li tiġi eżerċitata attività ekonomika f’kapaċità ta’ TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET [L.S.217.15 TA’ IMPJIEG BI KWALIFIKI GĦOLJIN
-
-impjegat jew impjieg għal rasu;
-
-*12*
+(a) li tiġi eżerċitata attività ekonomika f’kapaċità ta’ impjegat jew impjieg għal rasu;
 
 (b) it-twettiq ta’ servizz volontarju; jew
 
@@ -431,11 +381,7 @@ Iżda wkoll l-applikant m’għandux jitħalla jaħdem sakemm tkun ittieħdet de
 
 Iżda fl-aħħarnett meta d-detentur ta’ Karta Blu tal-UE jiċċaqlaq għal Malta skont dan ir-regolament u tkun għadha ma tteħditx deċiżjoni pożittiva dwar il-ħruġ ta’ Karta Blu tal-UE, trattament ugwali għandu jkun limitat għal dawk il-każijiet elenkati fir-regolament 13, b’eċċezzjoni għar-regolamenti 13(b) u (ċ).
 
-(2) Id-Direttur għandu jaċċetta wkoll applikazzjoni sakemm id- TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET
-
-*13*
-
-TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 detentur ta’ Karta Blu tal-UE ikun għadu qed jirrisjedi fit-territorju tal-ewwel Stat Membru.
+(2) Id-Direttur għandu jaċċetta wkoll applikazzjoni sakemm id-detentur ta’ Karta Blu tal-UE ikun għadu qed jirrisjedi fit-territorju tal-ewwel Stat Membru.
 
 (3) Skont il-proċeduri li jinsabu fir-regolament 10, id-Direttur għandu jipproċessa l-applikazzjoni u jinforma bil-miktub lill-applikant u lill-ewwel Stat Membru bid-deċiżjoni tiegħu li:
 
@@ -456,10 +402,6 @@ Iżda f’każijiet fejn il-permess ta’ residenza tal-membri tal-familja maħr
 (3) Id-Direttur jista’ jeħtieġ li l-membri tal-familja konċernati jippreżentaw mal-applikazzjoni tagħhom għal permess tar-residenza:
 
 (a) il-permess ta’ residenza tagħhom fl-ewwel Stat Membru u dokument validu tal-ivvjaġġar jew il-kopji ċċertifikati tagħhom, kif ukoll viża, jekk meħtieġ;
-
-*14*
-
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET [L.S.217.15 TA’ IMPJIEG BI KWALIFIKI GĦOLJIN
 
 (b) evidenza li jkunu rrisjedew bħala membri tal-familja tad-detentur ta’ Karta Blu tal-UE fl-ewwel Stat Membru;
 
@@ -482,10 +424,6 @@ TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET [L.S.217.15 TA’ IMPJIEG 
 (2) Id-dispożizzjonijiet tas-subregolament (1) għandhom japplikaw jekk il-Karta Blu tal-UE maħruġa minn Malta tkun skadiet jew ġiet irtirata matul l-eżami tal-applikazzjoni mit-Tieni Stat Membru.
 
 (3) Mal-ammissjoni mill-ġdid, id-dispożizzjonijiet tar-regolament 12 għandhom japplikaw.
-
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET
-
-TA’ IMPJIEG BI KWALIFIKI GĦOLJIN [L.S.217.15 15
 
 SKEDA Emendata:
 

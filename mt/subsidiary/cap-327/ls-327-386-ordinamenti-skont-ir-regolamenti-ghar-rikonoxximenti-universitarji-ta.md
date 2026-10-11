@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-Grad ta’ Master in Performance Studies (Dance) – M. PS(Dance) – taħt il-patroċinju tal-Iskola tal-Arti Performattiva (S.L. 327.386)
 
-(DANCE) – M.PS (DANCE) - TAĦT IL-PATROĊINJU TAL-
-
-*1*
-
-ISKOLA TAL-ARTI PERFORMATTIVA [S.L.327.386
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.386**
 
 **L-ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -79,11 +73,7 @@ ISKOLA TAL-ARTI PERFORMATTIVA [S.L.327.386
 
 (b) il-grad ta’ Bachelor f’qasam ieħor għajr iż-Żfin jew qasam relatat maż-Żfin, għall-anqas fit-Tieni Klassi (bl-Unuri) jew f’Kategorija II, flimkien ma’ evidenza ta’ esperjenza sostanzjali fiż-Żfin; jew
 
-(ċ) kwalifika/i professjonali u/jew esperjenza meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, li tissodisfa parti mir-rekwiżiti għad-dħul fil-kors, sakemm li l-applikanti jistgħu jkunu meħtieġa jtemmu (DANCE) – M.PS (DANCE) - TAĦT IL-PATROĊINJU TAL- [S.L.327.386 ISKOLA TAL-ARTI PERFORMATTIVA
-
-programm preparatorju teoriku kif speċifikat fl-ordinament 4.
-
-*2*
+(ċ) kwalifika/i professjonali u/jew esperjenza meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, li tissodisfa parti mir-rekwiżiti għad-dħul fil-kors, sakemm li l-applikanti jistgħu jkunu meħtieġa jtemmu programm preparatorju teoriku kif speċifikat fl-ordinament 4.
 
 (2) L-applikanti li m’għandhomx l-ewwel grad fid-Dance għandu jkollhom intervista u/jew audition minn bord magħmul minn tal-anqas tliet membri. L-applikanti jiġu mitluba jipprovdu evidenza tal-esperjenza professjonali fiż-żfin permezz ta’ kampjun ta’ kitba, dokumentazzjoni performattiva u vidjow. L-applikani li ma jkunux jistgħu jattendu għall-intervista u l-audition taż-żfin jistgħu jagħmlu arranġamenti biex jitlesta l-proċess permezz ta’ mezzi ta’ komunikazzjoni elettroniċi.
 
@@ -117,11 +107,7 @@ Il-kors għandu jinfirex fuq ħames semestri ta’ studju fuq bażi part-time.
 
 (2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 10 kredtu għat-taqsimiet studju mgħallma jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fl-ewwel opportunità prattikabbli, kif determinat mill-Bord.
 
-(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kredti permess skont il-paragrafu (2), jew l-istudenti li wara valutazzjoni mill-ġdid (DANCE) – M.PS (DANCE) - TAĦT IL-PATROĊINJU TAL-
-
-*3*
-
-ISKOLA TAL-ARTI PERFORMATTIVA [S.L.327.386 ma jiksbux il-kredti għal xi taqsima studju, jkunu meqjusa li weħlu mill-kors.
+(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kredti permess skont il-paragrafu (2), jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kredti għal xi taqsima studju, jkunu meqjusa li weħlu mill-kors.
 
 ## 8. Dissertazzjoni.
 

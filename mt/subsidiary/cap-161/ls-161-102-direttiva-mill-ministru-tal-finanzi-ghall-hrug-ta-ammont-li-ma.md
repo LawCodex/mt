@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta’ ammont li ma jeċċedix €46,587,467.97 5.9% Stock tal-Gvern ta’ Malta 2015 (Ir-Raba’ Ħruġ) Fungibility Issue (S.L. 161.102)
 
-ĦRUĠ TA’ AMMONT LI MA JEĊĊEDIX €46,587,467.97
-
-5.9% STOCK TAL-GVERN TA’ MALTA 2015
-
-*1*
-
-(IT-TIENI ĦRUĠ) FUNGIBILITY ISSUE [L.S.161.102
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.102**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

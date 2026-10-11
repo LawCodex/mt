@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Renju Unit"
-identifier: "S.L. 52.6"
+identifier: "S.L. 52.06"
 eli: "https://legislation.mt/eli/sl/52.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/52.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Renju Unit (S.L. 52.6)
-
-TRIBUNALI INGLI|I - RENJU UNIT [ L.S.52.06
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Renju Unit (S.L. 52.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 52.06**
 

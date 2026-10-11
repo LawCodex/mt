@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Att dwar il-Bank Ċentrali ta’ Malta (Ħatra ta’ Awtorità Nazzjonali Rilevanti dwar Parametri Referenzjarji)"
-identifier: "S.L. 204.9"
+identifier: "S.L. 204.09"
 eli: "https://legislation.mt/eli/sl/204.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/204.9/20221129/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Att dwar il-Bank Ċentrali ta’ Malta (Ħatra ta’ Awtorità Nazzjonali Rilevanti dwar Parametri Referenzjarji) (S.L. 204.9)
-
-NAZZJONALI RILEVANTI DWAR PARAMETRI
-
-*1*
-
-REFERENZJARJI) [L.S.204.09
+# Regolamenti dwar l-Att dwar il-Bank Ċentrali ta’ Malta (Ħatra ta’ Awtorità Nazzjonali Rilevanti dwar Parametri Referenzjarji) (S.L. 204.09)
 
 **LEĠISLAZZJONI SUSSIDJARJA 204.09**
 
@@ -49,12 +43,6 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 "parametru referenzjarju" tfisser kwalunkwe indiċi li b’referenza għalih jiġi ddeterminat l-ammont pagabbli taħt strument finanzjarju jew kuntratt finanzjarju, jew il-valur ta’ strument finanzjarju, jew indiċi li jintuża sabiex titkejjel il-prestazzjoni ta’ fond ta’ investiment bil-għan ta’ traċċar tar-rendiment tal-imsemmi indiċi jew sabiex tiġi definita l-allokazzjoni tal-assi ta’ portafoll jew sabiex jiġu kkalkulati drittijiet tal-prestazzjoni;
 
 "Regolament dwar Parametri Referenzjarji" tfisser ir- Regolament (UE) 2021/168 tal-Parlament Ewropew u tal- Kunsill tal-10 ta’ Frar 2021 li jemenda r-Regolament (UE) 2016/1011 fir-rigward tal-eżenzjoni ta’ ċerti parametri referenzjarji tal-kambju spot ta’ pajjiżi terzi u l-iffissar ta’ sostituti għal ċerti parametri referenzjarji li jkunu se jitwaqqfu, u li jemenda r-Regolament (UE) Nru 648/2012.
-
-NAZZJONALI RILEVANTI DWAR PARAMETRI
-
-*2*
-
-[L.S. 204.09 REFERENZJARJI)
 
 ## 3. Awtoritajiet nazzjonali rilevanti.
 

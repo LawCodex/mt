@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall- Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Fakultà tax- Xjenzi tas-Saħħa (S.L. 327.315)
 
-*1*
-
-IL-PATROĊNJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.315
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.315**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -75,13 +71,9 @@ Dawn l-ordinamenti għandhom japplikaw mill-1 ta’ Mejju 2014 ’il quddiem.
 
 ## 4. Applikanti li għandhom grad.
 
-L-applikanti li għandhom grad kif indikat fl-ordinament 3(b) u (ċ) għandhom ikunu temmew b'suċċess komponent ta’ [L.S.327.315 IL-PATROĊNJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
+L-applikanti li għandhom grad kif indikat fl-ordinament 3(b) u (ċ) għandhom ikunu temmew b'suċċess komponent ta’ dissertazzjoni/riċerka sostanzjali, b’mill-anqas grad medju ta’ B+ jew l-ekwivalenti, li għalih hemm assenjati mhux anqas minn 14-il kredtu ECTS.
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 160 tal-2024.
-
-dissertazzjoni/riċerka sostanzjali, b’mill-anqas grad medju ta’ B+ jew l-ekwivalenti, li għalih hemm assenjati mhux anqas minn 14-il kredtu ECTS.
-
-*2*
 
 ## 5. Temm ta’ taqsimiet studju.
 
@@ -131,11 +123,7 @@ L-istudenti reġistrati mal-Fakultà jistgħu jiġu mitluba jipparteċipaw fil-p
 
 ## 12. Proċedura waqt l-eżami orali.
 
-L-istudenti huma meħtieġa li jiddefendu t-teżi tagħhom b’mod orali. Huma jkunu mistennija li jagħmlu preżentazzjoni ta’ madwar 20 sa 30 minuta dwar is-sejbiet ewlenin tax-xogħol tar-riċerka tagħhom u wara jwieġbu għall-mistoqsijiet magħmula mill- IL-PATROĊNJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.315
-
-membri tal-Bord tal-Eżaminaturi. Iċ-Chairman tal-Bord tal- Eżaminaturi għandu jiżgura li l-istudent jaf bil-proċedura li għandha tkun segwita waqt l-eżami orali.
-
-*3*
+L-istudenti huma meħtieġa li jiddefendu t-teżi tagħhom b’mod orali. Huma jkunu mistennija li jagħmlu preżentazzjoni ta’ madwar 20 sa 30 minuta dwar is-sejbiet ewlenin tax-xogħol tar-riċerka tagħhom u wara jwieġbu għall-mistoqsijiet magħmula mill-membri tal-Bord tal-Eżaminaturi. Iċ-Chairman tal-Bord tal- Eżaminaturi għandu jiżgura li l-istudent jaf bil-proċedura li għandha tkun segwita waqt l-eżami orali.
 
 ## 13. Teżi.
 

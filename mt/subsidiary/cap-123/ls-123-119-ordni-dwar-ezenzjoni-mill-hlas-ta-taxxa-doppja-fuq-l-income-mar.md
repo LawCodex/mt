@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta’ Taxxa Doppja fuq l-Income mar-Repubblika tas-Serbja (S.L. 123.119)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TAS-SERBJA [L.S.123.119
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.119**
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’ TAXXA DOPPJA FUQ L-INCOME MAR-REPUBBLIKA
@@ -111,9 +107,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 (2) il-fra\\i "Serbja" tfisser ir-Repubblika tas-Serbja, u meta tintu\\a f’sens [eografiku tfisser it-territorju tar-Repubblika tas-Serbja;
 
-(3) il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta tintu\\a f’sens FUQ L-INCOME MAR-REPUBBLIKA TAS-SERBJA [L.S.123.119 3
-
-[eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra tal-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg]-il ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti li tinsab adja`enti g]all-ib]ra territorjali, fejn Malta te\\er`ita drittijiet sovrani, [urisdizzjoni, jew kontroll skont id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha g]ar-rigward tal-esplorazzjoni tal-blata kontinentali u l-isfruttament tar-ri\\orsi naturali tag]ha;
+(3) il-fra\\i "Malta" tfisser ir-Repubblika ta’ Malta u, meta tintu\\a f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra tal-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg]-il ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti li tinsab adja`enti g]all-ib]ra territorjali, fejn Malta te\\er`ita drittijiet sovrani, [urisdizzjoni, jew kontroll skont id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha g]ar-rigward tal-esplorazzjoni tal-blata kontinentali u l-isfruttament tar-ri\\orsi naturali tag]ha;
 
 (4) il-fra\\i "`ittadin" tfisser:
 
@@ -191,9 +185,7 @@ Minkejja d-dispo\\izzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabb
 
 (2) i\\-\\amma ta’ ]a\\na ta’ o[[etti jew ta’ merkanzija li tkun tappartjeni lill-impri\\a unikament g]all-fini ta’ ]\\in, wiri jew tqassim;
 
-(3) i\\-\\amma ta’ ]a\\na ta’ o[[etti jew ta’ merkanzija li tkun tappartjeni lill- FUQ L-INCOME MAR-REPUBBLIKA TAS-SERBJA [L.S.123.119 5
-
-impri\\a unikament g]all-fini ta’ ippro`essar minn impri\\a o]ra;
+(3) i\\-\\amma ta’ ]a\\na ta’ o[[etti jew ta’ merkanzija li tkun tappartjeni lill-impri\\a unikament g]all-fini ta’ ippro`essar minn impri\\a o]ra;
 
 (4) i\\-\\amma ta’ post fiss ta’ negozju unikament g]all-fini ta’ xiri ta’ o[[etti jew ta’ merkanzija jew ta’ gbir ta’ tag]rif, g]all-impri\\a;
 
@@ -255,8 +247,6 @@ Meta l-profitti jkunu jinkludu o[[etti ta’ income li jkunu qeg]din ji[u tratta
 
 \2. Id-dispo\\izzjonijiet tal-paragrafu 1 g]andhom ukoll japplikaw g]al profitti miksubin mill-parte`ipazzjoni f’pool, negozju bi s]ab jew a[enzija b’operat internazzjonali.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAS-SERBJA [L.S.123.119 7
-
 **Artikolu 9**
 
 **IMPRI|I ASSO¬JATI**
@@ -309,9 +299,7 @@ Dan il-paragrafu ma jolqotx l-intaxxar tal- kumpannija g]ar-rigward tal-profitti
 
 \4. Il-fra\\i "mg]ax" kif tintu\\a f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le, u sew jekk ikollhomx dritt li jipparte`ipaw fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inklu\\i premiums u premjijiet relatati ma’ dawk it-titoli, bonds jew debentures. }lasijiet ta’ penali g]al ]las tardiv ma jitqiesux b]ala mg]ax g]all-finijiet ta’ dan l- Artikolu.
 
-\5. Id-dispo\\izzjonijiet tal-paragrafi 1, 2 u 3 m’g]andhomx japplikaw jekk is-sid benefi`jarju tal-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment FUQ L-INCOME MAR-REPUBBLIKA TAS-SERBJA [L.S.123.119 9
-
-permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw id-dispo\\izzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-ka\\.
+\5. Id-dispo\\izzjonijiet tal-paragrafi 1, 2 u 3 m’g]andhomx japplikaw jekk is-sid benefi`jarju tal-img]ax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqala’ l-img]ax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jit]allas l-img]ax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’ka\\ b]al dak g]andhom japplikaw id-dispo\\izzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-ka\\.
 
 \6. G]andu jitqies li jinqala’ mg]ax fi Stat Kontraenti meta min i]allas ikun residenti ta’ dak l-Istat. Meta, madankollu, l-persuna li tkun qed t]allas l-img]ax, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, ikollha fi Stat Kontraenti stabbiliment permanenti jew ba\\i stabbilita li f’konnessjoni mag]hom tkun inkisbet il-qag]da ta’ debitu li fuqu jit]allas l-img]ax, u dak l-img]ax jin[arr minn dak l-istabbiliment permanenti jew minn dik il-ba\\i stabbilita, allura dak l-img]ax g]andu jitqies b]ala li jinqala’ fl-Istat fejn ikunu jinsabu l-istabbiliment permanenti jew il-ba\\i stabbilita.
 
@@ -365,9 +353,7 @@ i]allashom ikun residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li t]a
 
 \1. Income li jinkiseb minn residenti ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti g]andu ji[i intaxxat biss f’dak l-Istat ]lief f’dawn i`-`irkostanzi li [ejjin, meta dak l-income jista’ ji[i intaxxat fl-Istat l-ie]or:
 
-(1) jekk l-individwu jkollu ba\\i stabbilita li tkun regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u; f’dak il-ka\\, ikun biss daqstant mill-income daqskemm jista’ jkun attribwibbli g]al dik il-ba\\i stabbilita li tkun tista’ tit]allas taxxa fuqu FUQ L-INCOME MAR-REPUBBLIKA TAS-SERBJA [L.S.123.119 11
-
-f’dak l-Istat Kontraenti l-ie]or; jew
+(1) jekk l-individwu jkollu ba\\i stabbilita li tkun regolarment disponibbli g]alih fl-Istat Kontraenti l-ie]or bil-g]an li jwettaq l-attivitajiet tieg]u; f’dak il-ka\\, ikun biss daqstant mill-income daqskemm jista’ jkun attribwibbli g]al dik il-ba\\i stabbilita li tkun tista’ tit]allas taxxa fuqu f’dak l-Istat Kontraenti l-ie]or; jew
 
 (2) jekk l-individwu jkun joqg]od fl-Istat Kontraenti l-ie]or g]al perjodu jew g]al perjodi li jkunu jg]oddu jew b’kollox je``edu aktar minn 183 [urnata f’perjodu ta’ tnax-il xahar li jibda g]addej jew itemm fis-sena fiskali inkwistjoni; f’dak il-ka\\, biss daqstant mill-income daqskemm jista’ jinkiseb mill-attivitajiet tieg]u mwettqa f’dak l-Istat Kontraenti l-ie]or ikun jista’ ji[i intaxxat f’dak l-Istat l-ie]or.
 
@@ -435,8 +421,6 @@ Istat Kontraenti fejn ji[u e\\er`itati l-attivitajiet tal-persuna li tag]ti spet
 
 \3. Id-dispo\\izzjonijiet tal-Artikoli 15, 16, 17 u 18 g]andhom japplikaw g]al salarji, pagi u kull rimunerazzjoni o]ra b]al dawk, u g]al pensjonijiet, g]ar-rigward ta’ servizzi mog]tija f’dak li g]andu x’jaqsam ma’ kummer` [estit minn Stat Kontraenti jew sottodivi\\joni politika jew awtorità lokali tieg]u.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAS-SERBJA [L.S.123.119 13
-
 **Artikolu 20**
 
 **STUDENTI**
@@ -489,9 +473,7 @@ tobbliga lil Stat Kontraenti li jikkon`edi lil residenti tal-Istat Kontraenti l-
 
 **SKAMBJU TA’ INFORMAZZJONI**
 
-\1. L-awtoritajiet kompetenti tal-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tista’ tkun me]tie[a biex jitwettqu d-dispo\\izzjonijiet ta’ dan il- Ftehim jew tal-li[ijiet domesti`i tal-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]thom ma jkunx kuntrarju g]all-Ftehim, partikolarment dwar il-prevenzjoni ta’ frodi jew l-eva\\joni ta’ dawk it-taxxi. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i FUQ L-INCOME MAR-REPUBBLIKA TAS-SERBJA [L.S.123.119 15
-
-ri`evuta mill-Istat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew lil awtoritajiet (inklu\\i qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`i\\joni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f’de`i\\jonijiet [udizzjarji.
+\1. L-awtoritajiet kompetenti tal-Istati Kontraenti g]andhom jiskambjaw dik l-informazzjoni li tista’ tkun me]tie[a biex jitwettqu d-dispo\\izzjonijiet ta’ dan il- Ftehim jew tal-li[ijiet domesti`i tal-Istati Kontraenti g]ar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir ta]thom ma jkunx kuntrarju g]all-Ftehim, partikolarment dwar il-prevenzjoni ta’ frodi jew l-eva\\joni ta’ dawk it-taxxi. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li ti[i ri`evuta mill-Istat Kontraenti g]andha ti[i ttrattata b]ala wa]da sigrieta bl-istess mod b]all-informazzjoni miksuba ta]t il-li[ijiet domesti`i ta’ dak l-Istat u g]andha ti[i \\velata biss lil persuni jew lil awtoritajiet (inklu\\i qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew fil-[bir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-de`i\\joni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet g]andhom ju\\aw dik l-informazzjoni biss g]al dawk l-g]anijiet. Huma jistg]u ji\\velaw l-informazzjoni fi pro`eduri tal-qorti bil-miftu] jew f’de`i\\jonijiet [udizzjarji.
 
 \2. F’ebda ka\\ m’g]andhom id-dispo\\izzjonijiet tal-paragrafu 1 jiftiehmu b]ala li jimponu fuq Stat Kontraenti l-obbligu:
 

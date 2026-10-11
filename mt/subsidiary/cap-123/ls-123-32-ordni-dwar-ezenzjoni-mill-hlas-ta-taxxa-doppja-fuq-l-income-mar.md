@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika ta' Ċipru (S.L. 123.32)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.32**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -97,7 +93,7 @@ it-taxxa fuq l-income,
 
 (hawnhekk iżjed ’il quddiem imsejħa "it-taxxa ta’ Malta").
 
-(4) Il-Ftehim għandu japplika wkoll għal kull taxxa bħalhom jew li sostanzjalment tixbaħhom u għal taxxi fuq il-kapitali li jiġu imposti wara d-data li fiha dan il-Ftehim jiġi ffirmat b’żieda ma’, jew minflok, it-taxxi eżistenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom javżaw lil xulxin b’kull tibdil sinjifikanti li jkun sar fil-liġijiet tagħhom rispettivi li jirrigwardaw it-taxxa. FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32 3
+(4) Il-Ftehim għandu japplika wkoll għal kull taxxa bħalhom jew li sostanzjalment tixbaħhom u għal taxxi fuq il-kapitali li jiġu imposti wara d-data li fiha dan il-Ftehim jiġi ffirmat b’żieda ma’, jew minflok, it-taxxi eżistenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom javżaw lil xulxin b’kull tibdil sinjifikanti li jkun sar fil-liġijiet tagħhom rispettivi li jirrigwardaw it-taxxa.
 
 (5) Minkejja d-disposizzjonijiet l-oħra ta’ dan l-Artikolu dan il-Ftehim ma japplikax għal taxxa mħallsa jew li titħallas f’Malta bir-rata li hemm provdut dwarha fis-subartikolu (13) ta’ l-artikolu 56 ta’ l-Att dwar it-Taxxa fuq l-lncome dwar l-income taxxabbli ta’ persuna li tkun taħdem fil-produzzjoni ta’ żejt petroleum li jiġi prodott f’Malta.
 
@@ -167,8 +163,6 @@ tiegħu;
 
 (b) fergħa;
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32 5
-
 (ċ) uffiċċju;
 
 (d) fabbrika;
@@ -225,8 +219,6 @@ kollox dedikati għal dik l-impriża, huwa ma għandux jitqies bħala aġent bi 
 
 (2) Bla ħsara għad-disposizzjonijiet tal-paragrafu (3), meta impriża ta’ Stat Kontraenti tmexxi negozju fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun qiegħed hemmhekk, għandhom jiġu attribwiti lil dak l-istabbiliment permanenti f’kull Stat Kontraenti l-profitti li kien ikun mistenni jagħmel kieku kien impriża distinta u separata li taħdem fl-istess attivitajiet jew oħrajn bħalhom taħt l-istess kundizzjonijiet jew oħrajn bħalhom u li taħdem indipendentement għal kollox mill-impriża li tagħha hija stabbiliment permanenti jew mill-impriżi oħra assoċjati li tittratta magħhom.
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32 7
-
 (3) Biex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, għandhom ikunu permessi bħala tnaqqis dawk l-ispejjeż li jsiru għall-għanijiet tal-kummerċ ta’ l-istabbiliment permanenti magħduda l-ispejjeż eżekuttivi u amministrattivi ġenerali li jsiru, sew fl-Istat li fih l-istabbiliment permanenti jkun jinsab jew band’oħra. Iżda ebda tnaqqis bħal dak ma għandu jiġi permess dwar ammonti, jekk ikun hemm, imħallsa (b’mod differenti milli bl-iżbors ta’ spejjeż attwali) mill-istabbiliment permanenti lill-uffiċċju prinċipali ta’ l-impriża jew xi wieħed mill-uffiċċji l-oħra tagħha, bħala royalties, drittijiet jew ħlasijiet oħra bħal dawk talli jintużaw patents jew drittijiet oħra, jew bħala kummissjoni, għal għanijiet speċifiċi imwettqa jew għat-tmexxija, jew ħlief fil-każ ta’ impriża bankarja, bħala mgħax fuq flejjes mislufa lill-istabbiliment permanenti. Hekk ukoll, meta jiġu determinati l-profitti ta’ stabbiliment permanenti għal ammonti mitluba (b’mod differenti milli bl-iżbors ta’ spejjeż attwali), mill-istabbiliment permanenti lill-uffiċċju prinċipali ta’ l-impriża jew lil xi wieħed mill-uffiċċji l-oħra tagħha, bħala royalties, drittijiet jew ħlasijiet oħra bħal dawk talli jintużaw patents jew drittijiet oħra, jew bħala kummissjoni għal servizzi speċifiċi imwettqa jew għat-tmexxija, jew, ħlief fil-każ ta’ impriża bankarja bħala mgħax fuq flejjes mislufa lill-uffiċċju prinċipali ta’ l-impriża jew lil xi wieħed mill-uffiċċji l-oħra tagħha.
 
 (4) Ebda ħaġa f’dan l-Artikolu ma għandha tolqot l-applikazzjoni ta’ xi liġi ta’ Stat Kontraenti li jkollha x’taqsam ma’ kif jiġi stabbilit kemm persuna għandha tħallas bħala taxxa, inkluż li jiġi stabbilit kemm għandu jitħallas bl-użu tad-diskrezzjoni jew bl-għemil ta’ stima mill-awtorità kompetenti ta’ dak l-Istat f’każi li fihom, mit-tagħrif li l-awtorità kompetenti ta’ dak l-Istat ikollha, ma jkunx possibbli jew prattiku li jiġu aċċertati xi jkunu l-profitti li kellu stabbiliment permanenti, kemm-il darba dik il-liġi tiġi applikata, daqskemm ikun jippermetti t-tagħrif li jkollha l-awtorità kompetenti, b’mod li jkun konsistenti mal-prinċipji ta’ dan l- Artikolu.
@@ -277,9 +269,7 @@ u f’kull każ jiġu magħmula jew imposti kundizzjonijiet bejn iż-żewġ impr
 
 (a) meta d-dividendi jitħallsu minn kumpannija residenti f’Ċipru lil residenti ta’ Malta li jkun is-sid benefiċjarju tad-dividendi, it-taxxa ta’ Ċipru hekk imposta m’għandhiex tkun iżjed minn 15 fil-mija ta’ l-ammont gross tad-dividendi;
 
-(b) meta d-dividendi jitħallsu minn kumpannija residenti ta’ Malta lil FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32 9
-
-residenti ta’ Ċipru li jkun is-sid benefiċjarju tagħhom it-taxxa ta’ Malta fuq l-ammont gross tad-dividendi ma għandhiex tkun iżjed minn dik imposta fuq il-profitti li minnhom jitħallsu d-dividendi.
+(b) meta d-dividendi jitħallsu minn kumpannija residenti ta’ Malta lil residenti ta’ Ċipru li jkun is-sid benefiċjarju tagħhom it-taxxa ta’ Malta fuq l-ammont gross tad-dividendi ma għandhiex tkun iżjed minn dik imposta fuq il-profitti li minnhom jitħallsu d-dividendi.
 
 Dan il-paragrafu ma jolqotx it-tassazzjoni ta’ kumpannija għar-rigward tal-profitti li minnhom jitħallsu d-dividendi.
 
@@ -325,9 +315,7 @@ Dan il-paragrafu ma jolqotx it-tassazzjoni ta’ kumpannija għar-rigward tal-pr
 
 (ċ) għall-għoti ta’ tagħrif jew informazzjoni ta’ xorta xjentifika, teknika, industrijali jew kummerċjali;
 
-(d) għall-għoti ta’ kull għajnuna li għandha x’taqsam ma’, u hi sussidjarja għal, u li tingħata bħala mod li tippermetti l-applikazzjoni jew it-tgawdija ta’, kull proprjetà jew jedd bħal dawk imsemmija fis-subparagrafu (a), kull tagħmir bħal dak imsemmi fis-subparagrafu (b), FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32 11
-
-jew kull tagħrif jew informazzjoni bħal dawk imsemmija fis-subparagrafu (ċ);
+(d) għall-għoti ta’ kull għajnuna li għandha x’taqsam ma’, u hi sussidjarja għal, u li tingħata bħala mod li tippermetti l-applikazzjoni jew it-tgawdija ta’, kull proprjetà jew jedd bħal dawk imsemmija fis-subparagrafu (a), kull tagħmir bħal dak imsemmi fis-subparagrafu (b), jew kull tagħrif jew informazzjoni bħal dawk imsemmija fis-subparagrafu (ċ);
 
 (e) għall-użu ta’, jew għall-jedd ta’ l-użu ta’:
 
@@ -384,8 +372,6 @@ jew kull tagħrif jew informazzjoni bħal dawk imsemmija fis-subparagrafu (ċ);
 (a) min jirċevih ikun qiegħed fl-Istat l-ieħor għal żmien jew żminijiet li fit-total ma jkunux aktar minn 183 ġurnata f’xi perijodu ta’ tnax-il xahar; u (b) il-kumpens ikun imħallas minn, jew f’isem, prinċipal li ma jkunx residenti ta’ l-Istat l-ieħor, u
 
 (ċ) dak il-kumpens ma jkunx piż fuq l-istabbiliment permanenti jew bażi stabbilit li l-prinċipal ikollu fl-Istat l-ieħor.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32 13
 
 (3) Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, kumpens miksub dwar impieg eżerċitat abbord bastiment, inġenji ta’ l-ajru jew vettura fuq l-art imħaddma fi traffiku internazzjonali tista’ tkun taxxabbli fl-Istat Kontraenti fejn ikun jinsab il-post ta’ tmexxija effettiva ta’ l-impriża.
 
@@ -457,8 +443,6 @@ Individwu li jkun residenti ta’ Stat Kontraenti minnufih qabel ma jagħmel żj
 
 jkun eżenti mit-taxxa f’dak l-Istat l-ieħor fuq:
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32 15
-
 (a) kull ma jirċievi minn barra l-pajjiż għall-finijiet tal-manteniment, edukazzjoni, studju, riċerka jew taħriġ tiegħu;
 
 (b) is-somma ta’ dik l-għotja, allowance jew rigal; u
@@ -509,9 +493,7 @@ Bla ħsara għad-disposizzjonijiet tal-liġi ta’ Malta dwar l-għoti ta’ kre
 
 **Ebda Diskriminazzjoni**
 
-(1) Nazzjonali ta’ Stat Kontraenti ma għandhomx jiġu suġġetti fl-Istat Kontraenti l-ieħor għal xi tassazzjoni jew xi ħtieġa li għandha x’taqsam magħha, li ma tkunx jew li tkun ta’ piż aktar mit-tassazzjoni u ħtiġiet li għandhom x’jaqsmu FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32 17
-
-magħha li għalihom nazzjonali ta’ dak l-Istat l-ieħor fl-istess ċirkostanzi huma jew jistgħu jkunu suġġetti. Din id-disposizzjoni għandha, minkejja d-disposizzjonijiet ta’ l-Artikolu 1, tapplika wkoll għal dawk il-persuni li ma jkunux residenti ta’ xi wieħed minn, jew taż-żewġ Stati Kontraenti.
+(1) Nazzjonali ta’ Stat Kontraenti ma għandhomx jiġu suġġetti fl-Istat Kontraenti l-ieħor għal xi tassazzjoni jew xi ħtieġa li għandha x’taqsam magħha, li ma tkunx jew li tkun ta’ piż aktar mit-tassazzjoni u ħtiġiet li għandhom x’jaqsmu magħha li għalihom nazzjonali ta’ dak l-Istat l-ieħor fl-istess ċirkostanzi huma jew jistgħu jkunu suġġetti. Din id-disposizzjoni għandha, minkejja d-disposizzjonijiet ta’ l-Artikolu 1, tapplika wkoll għal dawk il-persuni li ma jkunux residenti ta’ xi wieħed minn, jew taż-żewġ Stati Kontraenti.
 
 (2) It-tassazzjoni fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor ma għandhiex tinġabar f’dak l-Istat l-ieħor b’mod inqas favorevoli mit-tassazzjoni miġbura fuq impriżi f’dak l-Istat l-ieħor li jmexxu l-istess attivitajiet.
 
@@ -556,8 +538,6 @@ magħha li għalihom nazzjonali ta’ dak l-Istat l-ieħor fl-istess ċirkostanz
 **Aġenti Diplomatiċi u Uffiċjali Konsulari**
 
 Ebda ħaġa f’dan il-Ftehim ma għandha tolqot il-privileġġi fiskali ta’ aġenti diplomatiċi jew ta’ uffiċjali konsulari taħt ir-regoli ġenerali tad-dritt internazzjonali jew taħt id-disposizzjonijiet ta’ kull ftehim speċjali.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ ĊIPRU [L.S.123.32 19
 
 ## KAPITOLU VII — Disposizzjonijiet Finali — ARTIKOLU 29
 

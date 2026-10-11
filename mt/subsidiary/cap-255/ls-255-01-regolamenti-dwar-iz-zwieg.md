@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar iż-Żwieġ"
-identifier: "S.L. 255.1"
+identifier: "S.L. 255.01"
 eli: "https://legislation.mt/eli/sl/255.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/255.1/20210208/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar iż-Żwieġ (S.L. 255.1)
+# Regolamenti dwar iż-Żwieġ (S.L. 255.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 255.01**
 

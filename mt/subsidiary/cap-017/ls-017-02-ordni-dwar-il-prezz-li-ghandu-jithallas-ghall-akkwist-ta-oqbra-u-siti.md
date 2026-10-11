@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar il-Prezz li għandu jitħallas għall-Akkwist ta' Oqbra u Siti għal Oqbra"
-identifier: "S.L. 17.2"
+identifier: "S.L. 17.02"
 eli: "https://legislation.mt/eli/sl/17.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/17.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar il-Prezz li għandu jitħallas għall-Akkwist ta' Oqbra u Siti għal Oqbra (S.L. 17.2)
-
-*1*
-
-OQBRA U SITI G}AL OQBRA [L.S.17.02
+# Ordni dwar il-Prezz li għandu jitħallas għall-Akkwist ta' Oqbra u Siti għal Oqbra (S.L. 17.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 17.02**
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Proċedimenti tal-Bord li Jirregola l-Kera"
-identifier: "S.L. 69.1"
+identifier: "S.L. 69.01"
 eli: "https://legislation.mt/eli/sl/69.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/69.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Proċedimenti tal-Bord li Jirregola l-Kera (S.L. 69.1)
+# Regolamenti dwar il-Proċedimenti tal-Bord li Jirregola l-Kera (S.L. 69.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 69.01**
 

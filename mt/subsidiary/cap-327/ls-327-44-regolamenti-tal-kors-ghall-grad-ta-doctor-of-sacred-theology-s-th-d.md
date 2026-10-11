@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Grad ta’ Doctor of Sacred Theology - S.Th.D. - taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.44)
 
-*1*
-
-S.Th.D. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.44
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.44**
 
 REGOLAMENTI TAl-KORS GĦALL-GRAD TA’ DOCTOR OF THEOLOGY - S.Th.D. -
@@ -79,13 +75,11 @@ Il-qasam ta’ studju prinċipali għandu jkun fit-Teoloġija jew f’qasam rela
 
 ## 7. Reġistrazzjoni għall-Grad.
 
-L-applikazzjonijiet għar-reġistrazzjoni għall-Grad għandhom ikunu aċċettati mis-Senat, fuq ir-rakkomandazzjonijiet [L.S.327.44 S.Th.D. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA tal-Kumitat tal-Fakultà għad-Dottorat u tas-Sotto-Kumitat tal- Ph.D. maħtur mis-Senat skont ir-Regolamenti tal-Ph.D., taħt dawk il-kondizzjonijiet li s-Senat iqis xieraq li jimponi.
+L-applikazzjonijiet għar-reġistrazzjoni għall-Grad għandhom ikunu aċċettati mis-Senat, fuq ir-rakkomandazzjonijiet tal-Kumitat tal-Fakultà għad-Dottorat u tas-Sotto-Kumitat tal- Ph.D. maħtur mis-Senat skont ir-Regolamenti tal-Ph.D., taħt dawk il-kondizzjonijiet li s-Senat iqis xieraq li jimponi.
 
 ## 8. Tul tal-istudji.
 
 (1) Il-teżi għandha tiġi ppreżentata f’perijodu ta’ mhux inqas minn tliet snin u mhux aktar minn sitt snin mid-data tal-approvazzjoni tas-suġġett mis-Senat. Dan il-perijodu jista’, f’ċirkostanzi speċjali, jiġi estiż mis-Senat jekk dan iqis xieraq, fuq ir-rakkomandazzjoni tal-Bord.
-
-*2*
 
 (2) Fuq ir-rakkomandazzjoni tal-Bord u tas-Sotto-Kumitat tal- Ph.D., is-Senat jista’ jagħti lill-istudenti estensjoni tal-istudji sa sentejn sabiex iħallihom itemmu l-istudji tagħhom, irrispettivament minn jekk huma reġistrati fuq bażi full-time jew part-time.
 
@@ -127,11 +121,7 @@ Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preż
 
 (1) L-istudenti huma meħtieġa jissottomettu kopja mingħajr legatura għal kull membru tal-Bord tal-Eżaminaturi, flimkien ma’ kopja f’format diġitali. L-uffiċjal inkarigat mill- Fakultà għandu joħroġ riċevuta datata.
 
-(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu lill-Fakultà żewġ kopji tat-teżi b’legatura ħoxna u verżjoni elettronika sa sitt ġimgħat mill-pubblikazzjoni S.Th.D. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.44
-
-tar-riżultat. Kopja tat-teżi tinżamm fil-Librerija tad-dipartiment u l-verżjoni elettronika tinżamm fil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.
-
-*3*
+(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu lill-Fakultà żewġ kopji tat-teżi b’legatura ħoxna u verżjoni elettronika sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat. Kopja tat-teżi tinżamm fil-Librerija tad-dipartiment u l-verżjoni elettronika tinżamm fil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.
 
 (3) F’konformità mal-Politika tar-Repożitorju Istituzzjonali tal-Università ta’ Malta, il-Librerija tal-Università għandha tipprovdi aċċess miftuħ għall-kopji elettroniċi tat-teżijiet u għandha tagħmilhom disponibbli għall-pubbliku fir-Repożitorju Istituzzjonali tal-Università ta’ Malta.
 

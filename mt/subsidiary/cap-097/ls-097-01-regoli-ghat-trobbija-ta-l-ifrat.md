@@ -1,6 +1,6 @@
 ---
 title: "Regoli għat-Trobbija ta l-Ifrat"
-identifier: "S.L. 97.1"
+identifier: "S.L. 97.01"
 eli: "https://legislation.mt/eli/sl/97.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/97.1/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli għat-Trobbija ta l-Ifrat (S.L. 97.1)
+# Regoli għat-Trobbija ta l-Ifrat (S.L. 97.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 97.01**
 

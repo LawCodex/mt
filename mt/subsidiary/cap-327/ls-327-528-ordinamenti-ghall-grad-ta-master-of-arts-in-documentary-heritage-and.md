@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Documentary Heritage and Melitensia Studies - M.Doc.Mel. - taħt il-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien (S.L. 327.528)
 
-MELITENSIA STUDIES - M.Doc.Mel. - TAĦT IL-PATROĊINJU TAL-
-
-*1*
-
-FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.528
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.528**
 
 **L-ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -69,11 +63,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (a) il-grad ta’ Bachelor of Library Information and Archive Sciences miksub tal-anqas fit-Tieni Klassi bl- Unuri jew f’Kategorija II mill-Università ta’ Malta; jew
 
-(b) grad tal-ewwel ċiklu fi kwalunkwe qasam ta’ studju meqjus bħala rilevanti mill-Bord, miksub tal-anqas fit- Tieni Klassi bl-Unuri jew f’Kategorija II mill- Università ta’ Malta, jew kwalifika ekwivalenti miksuba minn kwalunkwe università rikonoxxuta; jew (ċ) id-Diploma in Library and Information Studies, jew id-Diploma in Archives and Records Management, miksuba mill-Università ta’ Malta, jew kwalifika ekwivalenti minn kwalunkwe università rikonoxxuta, MELITENSIA STUDIES - M.Doc.Mel. - TAĦT IL-PATROĊINJU TAL- [L.S.327.528 FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN
-
-sakemm li dawn l-applikanti jissottomettu portfolio li jispjega u jagħti dokumentazzjoni dwar mininu ta’ erba’ snin ta’ esperjenza professjonali fis-settur tal-libreriji, tal-arkivji jew tal-information management, liema esperjenza kienet miksuba wara li temmew il-kors tad-Diploma in Libarary and Information Studies, jew tad-Diploma in Archives and Records Management.
-
-*2*
+(b) grad tal-ewwel ċiklu fi kwalunkwe qasam ta’ studju meqjus bħala rilevanti mill-Bord, miksub tal-anqas fit- Tieni Klassi bl-Unuri jew f’Kategorija II mill- Università ta’ Malta, jew kwalifika ekwivalenti miksuba minn kwalunkwe università rikonoxxuta; jew (ċ) id-Diploma in Library and Information Studies, jew id-Diploma in Archives and Records Management, miksuba mill-Università ta’ Malta, jew kwalifika ekwivalenti minn kwalunkwe università rikonoxxuta, sakemm li dawn l-applikanti jissottomettu portfolio li jispjega u jagħti dokumentazzjoni dwar mininu ta’ erba’ snin ta’ esperjenza professjonali fis-settur tal-libreriji, tal-arkivji jew tal-information management, liema esperjenza kienet miksuba wara li temmew il-kors tad-Diploma in Libarary and Information Studies, jew tad-Diploma in Archives and Records Management.
 
 (2) L-applikanti li japplikaw skont il-paragrafu (1)(b) u (ċ) ta’ dan l-ordinament għandhom ikunu ntervistati minn bord maħtur għal dan il-għan, biex tkun evalwata l-kompetenza tagħhom biex isegwu l-Kors bi profitt. Il-Bord għandu jħabbar il-kriterji tal-valutazzjoni għad-dħul fil-kors fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
@@ -102,12 +92,6 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 ## 7. Dissertazzjonijiet.
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 25,000 kelma skont il-linji gwida maħruġin mill-Bord.
-
-MELITENSIA STUDIES - M.Doc.Mel. - TAĦT IL-PATROĊINJU TAL-
-
-*3*
-
-FAKULTÀ TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.528
 
 (2) Kull dissertazzjoni tkun assenjata superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 

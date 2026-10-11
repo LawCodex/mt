@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti għall-Programm fil-Liberal Arts and Sciences taħt il-patroċinju taċ-Ċentru għall-Arti u x-Xjenzi Liberali (S.L. 327.490)
 
-TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-ARTI
-
-*1*
-
-U X-XJENZI NATURALI [L.S.327.490
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.490**
 
 REGOLAMENTI GĦALL-PROGRAMM FIL-LIBERAL ARTS AND SCIENCES TAĦT IL-PATROĊINJU TAĊ-
@@ -58,10 +52,6 @@ Katalgu ta’ Il-Katalgu ta’ Taqsimiet huwa kollezzjoni Taqsimiet tat-Taqsimie
 
 Krettu Il-kretti jiġu mogħtija għal kull Taqsima mitmuma b’suċċess.
 
-*2*
-
-TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-ARTI [L.S.327.490 U X-XJENZI NATURALI
-
 Metodu ta’ Il-valutazzjoni tat-Taqsimiet tista’ tkun Valutazzjoni permezz ta’ xogħol matul il-kors, xogħol assenjat, eżamijiet miktuba jew orali, metodi oħra ta’ valutazzjoni kif approvati mis-Senat, jew tiżwiqa ta’ dawn, li ma’ kull wieħed mill-metodi użati jkun marbut perċentwal tal-marka finali. Il-Metodu ta’ Valutazzjoni għal kull Taqsima għandu jkun indikat fid-deskrizzjoni dettaljata tat- Taqsimiet li tkun ippubblikata fil-Katalgu tat-Taqsimiet.
 
 Programm Il-Programm fil-Liberal Arts and Sciences.. Sistema tal-Kretti L-allokazzjoni ta’ kretti għat-Taqsimiet li jagħmlu parti mill-Programm skont is- Sistema Ewropea għat-Trasferiment u l- Ġabra tal-Kretti (ECTS) proposta mill- Kummissjoni Ewropea.
@@ -92,13 +82,11 @@ Il-lingwa tat-tagħlim u tal-valutazzjoni għandha tkun l- Ingliż, ħlief li g�
 
 It-Taqsimiet għandhom ikunu approvati mis-Senat fuq ir-rakkomandazzjoni tal-Bord tal-Istudji.
 
-TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-ARTI
+## 9. Livelli.
 
-*3*
+*Sostitwit: A.L. 95 tal-2023.*
 
-U X-XJENZI NATURALI [L.S.327.490 9. (1) It-Taqsimiet għandhom ikunu offruti fil-Livelli Introduttorju u Għola.
-
-*Livelli. Sostitwit: A.L. 95 tal-2023.*
+(1) It-Taqsimiet għandhom ikunu offruti fil-Livelli Introduttorju u Għola.
 
 (2) It-Taqsimiet offruti fil-Livell Introduttorju m’għandhomx jeħtieġu li l-istudenti jkollhom tħejjija u għarfien akkademiċi, ħiliet u kompetenzi fil-qasam tas-suġġett iżjed minn dawk miksuba fit-tmiem tal-edukazzjoni sekondarja. Il-livell miksub wara t-tmiem b’suċċess tat-Taqsima għandu jkun dak ta’ Taqsima tal-ewwel sena ta’ rikonoxximent Universitarju sal-ewwel grad, ekwivalenti għall- Livell 5 fuq il-Qafas Nazzjonali tal-Kwalifiki Malti.
 
@@ -135,10 +123,6 @@ L-elezzjoni tal-istudenti membri għandha ssir kull sena matul l-ewwel nofs tal-
 ## 14. Kretti.
 
 Il-għadd ta’ Kretti jkunu assenjat għal kull Taqsima, li jindika l-ħin totali ta’ tagħlim, inkluż il-ħin iddedikat għat-tagħlim, studju privat u valutazzjoni, li student medju jista’ jkun mistenni li jagħmel biex jikseb ir-riżultati ta’ tagħlim assoċjati mat-Taqsima;
-
-*4*
-
-TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-ARTI [L.S.327.490 U X-XJENZI NATURALI
 
 Krettu wieħed, nominalment jirrappreżenta ħamsa u għoxrin siegħa ta’ tagħlim, li normalment minn ħames sa seba’ sigħat minnhom jieħdu s-sura ta’ tagħlim dirett meta Taqsima tkun imwassla bil-metodu standard tal-lekċers.
 
@@ -218,12 +202,6 @@ L-ebda xhieda ta’ qari/riċerka/xogħol
 
 supplimentari.
 
-TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-ARTI
-
-*5*
-
-U X-XJENZI NATURALI [L.S.327.490
-
 Għadda marġinalment. 45% - 49% D
 
 Livell marġinali, li bilkemm jista’ jitqies
@@ -264,13 +242,11 @@ Jekk mhux f’ċirkustanzi speċjali u bl-approvazzjoni tas- Senat, l-istudenti 
 
 (b) b’mod finali, jiġifieri b’valutazzjoni waħda fi tmiem it-Taqsima; jew
 
-(ċ) b’mod kontinwu u finali, jiġifieri parti permezz ta’ sensiela ta’ valutazzjonijiet mifruxa matul it-Taqsima u parti permezz ta’ valutazzjoni fi tmiem it-Taqsima. TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-ARTI [L.S.327.490 U X-XJENZI NATURALI
+(ċ) b’mod kontinwu u finali, jiġifieri parti permezz ta’ sensiela ta’ valutazzjonijiet mifruxa matul it-Taqsima u parti permezz ta’ valutazzjoni fi tmiem it-Taqsima.
 
 *L.S. 327.88*
 
 (2) Il-valutazzjonijiet tat-Taqsimiet għandhom jitmexxew skont ir-Regolamenti tal-Valutazzjoni tal-Università.
-
-*6*
 
 ## 22. Xogħol tal-kors.
 
@@ -310,11 +286,7 @@ Il-valutazzjonijiet ripartorji għandhom isiru kif ġej:
 
 (b) Diploma in Liberal Studies jekk jiksbu mill-anqas 60 krettu, li minnhom mill-anqas 56 krettu għandhom ikun fil-Livell Introduttorju;
 
-(c) Higher Diploma in Liberal Studies jekk jiksbu mill-anqas 120 krettu, li minnhom mill-anqas 56 krettu TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-ARTI
-
-*7*
-
-U X-XJENZI NATURALI [L.S.327.490 għandhom ikun fil-Livell Ogħla;
+(c) Higher Diploma in Liberal Studies jekk jiksbu mill-anqas 120 krettu, li minnhom mill-anqas 56 krettu għandhom ikun fil-Livell Ogħla;
 
 (d) Grad ta’ Bachelor in Liberal Studies jekk jiksbu mill-anqas 180 krettu, li minnhom mill-anqas 100 krettu għandhom ikun fil-Livell Ogħla, u li jista’ jinkludi esej twil jew proġett estiż assenjat 12–il krettu, u
 
@@ -367,10 +339,6 @@ Marka Medja Klassifikazzjoni tal-Grad
 **69 - 55% Kategorija IIB**
 
 **54 – 45% Kategorija III.**
-
-*8*
-
-TAĦT IL-PATROĊINJU TAĊ-ĊENTRU GĦALL-ARTI [L.S.327.490 U X-XJENZI NATURALI
 
 ## 30. Imġieba ħażina.
 

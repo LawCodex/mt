@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Archaeological Practice - M.A. - taħt il-patroċinju tal-Fakultà tal-Arti. (S.L. 327.540)
 
-PRACTICE - M.A. - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-ARTI [L.S.327.540
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.540**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -71,12 +65,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew mill 1 ta’ M
 
 (a) it-tip u l-klassifika tal-grad;
 
-PRACTICE - M.A. - TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.540 TAL-FAKULTÀ TAL-ARTI
-
 (b) l-esperjenza fil-qasam tal-istudju propost; u
 
 (ċ) il-livell milħuq waqt l-intervista.
@@ -119,11 +107,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni mis-Senat
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju, ikunu meħtieġa li jirtiraw mill-kors.
 
-PRACTICE - M.A. - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAL-ARTI [L.S.327.540 (4) It-taqsima studju għat-tagħlim u taħriġ ta’ prattika professjonali jkollha valutazzjoni fuq bażi ta’ Għadda/Weħel. L-istudenti li ma jtemmux, jew jeħlu mill-valutazzjoni tat-taqsima studju għat-tagħlim u taħriġ ta’ prattika professjonali, ikunu meħtieġa li jirtiraw mill-kors.
+(4) It-taqsima studju għat-tagħlim u taħriġ ta’ prattika professjonali jkollha valutazzjoni fuq bażi ta’ Għadda/Weħel. L-istudenti li ma jtemmux, jew jeħlu mill-valutazzjoni tat-taqsima studju għat-tagħlim u taħriġ ta’ prattika professjonali, ikunu meħtieġa li jirtiraw mill-kors.
 
 ## 10. Dissertazzjoni.
 

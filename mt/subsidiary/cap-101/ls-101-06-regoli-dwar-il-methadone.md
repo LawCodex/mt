@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar il-Methadone"
-identifier: "S.L. 101.6"
+identifier: "S.L. 101.06"
 eli: "https://legislation.mt/eli/sl/101.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/101.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar il-Methadone (S.L. 101.6)
+# Regoli dwar il-Methadone (S.L. 101.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 101.06**
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Human Rights and Democratization of Governance taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.195)
 
-DEMOCRATIZATION OF GOVERNANCE TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.195
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.195**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -74,10 +68,6 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 kredtu, li minnhom 60 kredtu huma assenjati għal taqsimiet studju mgħallma u 30 kredtu huma assenjati għat-taqsima studju tad-dissertazzjoni.
 
-*2*
-
-DEMOCRATIZATION OF GOVERNANCE TAĦT [L.S.327.195 IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI
-
 ## 6. Postgraduate Diploma.
 
 L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
@@ -112,13 +102,9 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (ii) il-Bord ma jistax itemm l-istudju qabel il-waqt skond (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 
-DEMOCRATIZATION OF GOVERNANCE TAĦT
+## 11. Klassifikazzjoni tar- Rikonoxximenti.
 
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.195 11. Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
-
-*Klassifikazzjoni tar- Rikonoxximenti.*
+Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
 
 ## 12. Disposizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 

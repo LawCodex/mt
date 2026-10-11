@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Policing - Dip. Pol. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.313)
 
-*1*
-
-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.313
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.313**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN POLICING -**
@@ -70,10 +66,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 *Sostitwit: A.L. 235 tal-2019.*
 
 Il-Kors jinfirex fuq perijodu ta’ żewġ semestri ta’ studju full-time jew erba’ semestri ta’ studju part-time.
-
-*2*
-
-[L.S.327.313 PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
 
 ## 5. Programm tal-kors.
 

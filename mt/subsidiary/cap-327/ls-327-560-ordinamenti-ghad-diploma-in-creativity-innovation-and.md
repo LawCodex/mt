@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Creativity, Innovation and Entrepreneurship - Dip. CIE - taħt il-patroċinju tal-Istitut Edward de Bono għat-Tifsil u l-Iżvilupp tal-Ħsieb (S.L. 327.560)
 
-NEURSHIP - DIP. CIE - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-EDWARD DE BONO GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB [L.S.327.560
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.560**
 
 ORDINAMENTI GĦAD-DIPLOMA IN CREATIVITY, INNOVATION AND ENTREPRENEURSHIP - DIP. CIE - TAĦT IL-PATROĊINJU TAL-ISTITUT EDWARD DE BONO GĦT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB 1 ta’ Novembru, 2016
@@ -57,11 +51,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 ## 4. Tul tal-kors.
 
-Il-kors jinfirex fuq perijodu ta’ erba’ semestri ta’ studju NEURSHIP - DIP. CIE - TAĦT IL-PATROĊINJU TAL-ISTITUT [L.S.327.560 EDWARD DE BONO GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB
-
-fuq bażi part-time.
-
-*2*
+Il-kors jinfirex fuq perijodu ta’ erba’ semestri ta’ studju fuq bażi part-time.
 
 ## 5. Programm tal-kors.
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Accountancy – M.Accty. - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.126)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA,
-
-*1*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.126
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.126**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -70,11 +64,7 @@ Il-Kors ikun miftuħ għall-applikanti li għandhom:
 
 (3) il-grad ta’ Bachelor of Accountancy (Honours) jew il-grad ta’ Bachelor of Arts (Honours) in Accountancy (miksuba wara t-tmiem b’suċċess tal-kors ta’ tliet snin għall-grad ta’ Bachelor of Commerce) miksub mill-anqas fit-Tieni Klassi bl-Unuri, jkunu eliġibbli biex japplikaw għall-programm ta’ studju ta’ 40 krettu ECTS; jew
 
-(4) il-grad ta’ Bachelor of Accountancy (Honours) jew il-grad ta’ Bachelor of Arts (Honours) in Accountancy (miksuba wara t-tmiem b’suċċess tal-kors ta’ tliet snin għall-grad ta’ Bachelor of TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA, [L.S.327.126 IL-MANAGEMENT U L-ACCOUNTANCY
-
-Commerce) miksub tal-anqas fit-Tielet Klassi bl-Unuri, sakemm li jissottomettu portfolio li jkopri mill-anqas tliet snin ta’ esperjenza fil-qasam tal-accountancy, jew ċertifikat li juri li għandhom is- Certified Public Accountant Warrant maħruġ mill-Accountancy Board (Malta), jkunu eliġibbli biex japplikaw għall-programm ta’ studju ta’ 40 krettu ECTS.
-
-*2*
+(4) il-grad ta’ Bachelor of Accountancy (Honours) jew il-grad ta’ Bachelor of Arts (Honours) in Accountancy (miksuba wara t-tmiem b’suċċess tal-kors ta’ tliet snin għall-grad ta’ Bachelor of Commerce) miksub tal-anqas fit-Tielet Klassi bl-Unuri, sakemm li jissottomettu portfolio li jkopri mill-anqas tliet snin ta’ esperjenza fil-qasam tal-accountancy, jew ċertifikat li juri li għandhom is- Certified Public Accountant Warrant maħruġ mill-Accountancy Board (Malta), jkunu eliġibbli biex japplikaw għall-programm ta’ studju ta’ 40 krettu ECTS.
 
 (5) Is-Senat, fuq ir-rakkomandazzjoni tal-Bord, għandu jiddetermina l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-programm ta’ 40 krettu ECTS, skont id-disponibbiltà tar-riżorsi. In-numru ta’ postijiet disponibbli jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
@@ -100,11 +90,7 @@ Commerce) miksub tal-anqas fit-Tielet Klassi bl-Unuri, sakemm li jissottomettu p
 
 (4) Il-programm ta’ studju għandu jkun ippubblikat mill-Bord wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
-(5) Il-programm ta’ studju msemmi fl-ordinament 3(2) u (3) li għandu jinkludi taqsimiet studju li għalihom hemm assenjati total TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA,
-
-*3*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.126 ta’ 40 kredtu ECTs, għandu jkun determinat mill-Bord u approvat mis-Senat.
+(5) Il-programm ta’ studju msemmi fl-ordinament 3(2) u (3) li għandu jinkludi taqsimiet studju li għalihom hemm assenjati total ta’ 40 kredtu ECTs, għandu jkun determinat mill-Bord u approvat mis-Senat.
 
 ## 6. Valutazzjoni u progress.
 
@@ -137,10 +123,6 @@ Iżda l-istudenti rreġistrati fuq il-programm ta’ 40 kredtu ECTs għandhom ji
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
-
-*4*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA, [L.S.327.126 IL-MANAGEMENT U L-ACCOUNTANCY
 
 ## 9. Klassifikazzjoni tar- Rikonoxximenti.
 

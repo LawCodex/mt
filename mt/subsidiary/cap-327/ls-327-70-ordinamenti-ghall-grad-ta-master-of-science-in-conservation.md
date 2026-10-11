@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Conservation Technology for Masonry Buildings taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.70)
 
-TECHNOLOGY FOR MASONRY BUILDINGS TA}T
-
-*1*
-
-IL-PATRO~INJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.70
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.70**
 
 **ORDINAMENTI G}ALL-GRAD TA’ MASTER OF**
@@ -69,11 +63,9 @@ Il-kors g]andu jinfirex fuq tliet semestri ta’ studju fuq ba\\i full-time jew 
 
 (1) Il-programm ta’ studju g]andu jikkonsisti minn taqsimiet studju li g]alihom hemm assenjati total ta’ 90 kredtu, li minnhom 60 kredtu huma assenjati g]at-taqsimiet studju mg]allma u 30 kredtu huma assenjati g]at-taqsima studju tad-dissertazzjoni.
 
-(2) L-istudenti li jiksbu s-60 kredtu assenjati g]at-taqsimiet TECHNOLOGY FOR MASONRY BUILDINGS TA}T [ L.S.327.70 IL-PATRO~INJU TAL-FAKULTÀ TAL-AMBJENT MIBNI studju mg]allma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spi``aw b’su``ess id-dissertazzjoni, jkunu eli[ibbli g]all-g]oti tal-Postgraduate Diploma.
+(2) L-istudenti li jiksbu s-60 kredtu assenjati g]at-taqsimiet studju mg]allma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spi``aw b’su``ess id-dissertazzjoni, jkunu eli[ibbli g]all-g]oti tal-Postgraduate Diploma.
 
 (3) Il-programm ta’ studju g]andu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
-
-*2*
 
 ## 6. Valutazzjoni u progress.
 
@@ -103,11 +95,7 @@ L-istudenti jit]allew jippro`edu g]at-taqsima studju tad-dissertazzjoni jekk jik
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-disposizzjonijiet tar-Regolamenti Prin`ipali; u
 
-(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont TECHNOLOGY FOR MASONRY BUILDINGS TA}T
-
-*3*
-
-IL-PATRO~INJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.70 (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-ka\\ tieg]u.
+(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-ka\\ tieg]u.
 
 ## 10. Klassifikazzjoni tar- Rikonoxximenti.
 

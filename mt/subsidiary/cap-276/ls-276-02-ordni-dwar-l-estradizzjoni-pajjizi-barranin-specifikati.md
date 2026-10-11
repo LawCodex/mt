@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estradizzjoni (Pajjiżi Barranin Speċifikati)"
-identifier: "S.L. 276.2"
+identifier: "S.L. 276.02"
 eli: "https://legislation.mt/eli/sl/276.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/276.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estradizzjoni (Pajjiżi Barranin Speċifikati) (S.L. 276.2)
-
-(PAJJI|I BARRANIN SPE~IFIKATI) [ L.S.276.02
+# Ordni dwar l-Estradizzjoni (Pajjiżi Barranin Speċifikati) (S.L. 276.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 276.02**
 
@@ -119,7 +117,7 @@ Chile Peru
 
 China Polonja
 
-(PAJJI|I BARRANIN SPE~IFIKATI) [ L.S.276.02 Costa Rica Portugall
+Costa Rica Portugall
 
 Cote d’Ivoire Qatar
 

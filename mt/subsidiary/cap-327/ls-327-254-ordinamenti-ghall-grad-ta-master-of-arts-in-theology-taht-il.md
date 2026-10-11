@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Theology taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.254)
 
-*1*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.254
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.254**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -117,11 +113,9 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skond (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 
-*3*
+## 13. Klassifikazzjoni tar- Rikonoxximent.
 
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [L.S.327.254 13. Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
-
-*Klassifikazzjoni tar- Rikonoxximent.*
+Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
 
 ## 14. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 

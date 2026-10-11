@@ -1,6 +1,6 @@
 ---
 title: "Regola tal-Qorti dwar il-Postponiment ta' Ġurijiet"
-identifier: "S.L. 9.1"
+identifier: "S.L. 9.01"
 eli: "https://legislation.mt/eli/sl/9.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/9.1/20110211/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regola tal-Qorti dwar il-Postponiment ta' Ġurijiet (S.L. 9.1)
+# Regola tal-Qorti dwar il-Postponiment ta' Ġurijiet (S.L. 9.01)
 
 LEĠISLAZZJONI SUSSIDJARJA 9.01
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet li għandhom jitħallsu għall-Pussess u ż-Żamma ta’ Annimali Perikolużi (S.L. 35.33)
 
-*1*
-
-U Ż-ŻAMMA TA’ ANNIMALI PEROKOLUŻI [S.L.35.33
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.33**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET**
@@ -90,10 +86,6 @@ ukoll bħala owl monkeys),
 titi monkeys u squirrel
 
 monkeys huma esklużi.
-
-*2*
-
-[S.L.35.33 U Ż-ŻAMMA TA’ ANNIMALI PEROKOLUŻI
 
 *Trasferiment*
 
@@ -183,10 +175,6 @@ Urocyon, Vulpes u
 
 Nyctereutes.
 
-**U Ż-ŻAMMA TA’ ANNIMALI PEROKOLUŻI**
-
-*[S.L.35.33 3*
-
 *Trasferiment*
 
 L-ewwel reġistrazzjoni ta’ annimal ta’ ferħ Euro Isem xjentifiku Isem jew ismijiet komuni
@@ -271,10 +259,6 @@ imniżżel fil- jew aktar imsemmi
 
 paragrafu (a); fil-paragrafu (ċ);
 
-*4*
-
-[S.L.35.33 U Ż-ŻAMMA TA’ ANNIMALI PEROKOLUŻI
-
 *Trasferiment*
 
 L-ewwel reġistrazzjoni ta’ annimal ta’ ferħ Euro Isem xjentifiku Isem jew ismijiet komuni
@@ -340,10 +324,6 @@ Familja Hyaenidae: Hyænas. L-aardwolf huwa 1000 eskluż.
 Kollha minbarra l-ispeċi
 
 Proteles cristatus.
-
-**U Ż-ŻAMMA TA’ ANNIMALI PEROKOLUŻI**
-
-*[S.L.35.33 5*
 
 *Trasferiment*
 
@@ -430,10 +410,6 @@ Familja Elephantidae: Iljunfanti. 10,000
 L-ispeċi kollha.
 
 Orkiteropu
-
-*6*
-
-[S.L.35.33 U Ż-ŻAMMA TA’ ANNIMALI PEROKOLUŻI
 
 *Trasferiment*
 
@@ -527,15 +503,11 @@ L-ispeċi kollha.
 
 Ibridi
 
-**U Ż-ŻAMMA TA’ ANNIMALI PEROKOLUŻI**
-
-*[S.L.35.33 7*
-
-*L-ewwel Trasferiment reġistrazzjoni ta’ annimal ta’ ferħ perikoluż Euro Euro*
-
 *250 500*
 
 Isem xjentifiku Isem jew ismijiet komuni Kull ibrida ta’ kull annimal Kwalunkwe mammiferu speċifikat (jekk mhux ibridu tal-inqas b’ġenitur ta’ b’eċċezzjoni) fid- tip speċifiku, u kwalunkwe dispożizzjonijiet msemmija annimal tal-inqas b’ġenitur hawn qabel f’din il-kolonna wieħed li huwa ibridu.
+
+*L-ewwel Trasferiment reġistrazzjoni ta’ annimal ta’ ferħ perikoluż Euro Euro*
 
 fejn tal-inqas ġenitur huwa
 
@@ -582,10 +554,6 @@ Family Colubridae: Ċerti sriep rear-fanged venomous sriep Montpellier L-ispeċi
 Rhabdophis subminiatus,
 
 Rhabdophis tigrinus, Boomslang, red-necked Elapomorphus lemniscatus, keelback, yamakagashi (jew Philodryas olfersii, magħruf ukoll bħala Tachymenis peruviana u Japanese tiger-snake), Xenodon severus. Argentine black-headed, South American green racer, Peruvian racer u Amazon false viper.
-
-*8*
-
-[S.L.35.33 U Ż-ŻAMMA TA’ ANNIMALI PEROKOLUŻI
 
 *Trasferiment*
 
@@ -676,10 +644,6 @@ fiżika lill-bniedem jew lill-
 **eko-sistema.**
 
 Skorpjuni
-
-**U Ż-ŻAMMA TA’ ANNIMALI PEROKOLUŻI**
-
-*[S.L.35.33 9*
 
 *Trasferiment*
 

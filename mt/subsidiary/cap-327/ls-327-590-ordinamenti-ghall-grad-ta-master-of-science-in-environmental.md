@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Science in Environmental Monitoring and Assessment – M.Sc. – taħt il-patroċinju tal-Istitut tas-Sistemi Ambjentali (S.L. 327.590)
 
-*1*
-
-MONITORING AND ASSESSMENT [L.S. 327.590 LEĠISLAZZJONI SUSSIDJARJA 327.590
+**LEĠISLAZZJONI SUSSIDJARJA 327.590**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
 
@@ -68,11 +66,7 @@ Il-Kors għandu jkun offrut fi kwalunkwe qasam ta’ studju li jaqa’ taħt ir-
 
 (1) Biex ikunu reġistrati bħala studenti regolari fil-Kors, l-applikanti għandu jkollhom:
 
-(i) grad tal-ewwel ċiklu miksub fit-Tieni Klassi bl-Unuri [L.S. 327.590 MONITORING AND ASSESSMENT
-
-jew aħjar fix-Xjenza bis-Sistemi Ambjentali meħud bħala qasam ta’ studju prinċipali; jew
-
-*2*
+(i) grad tal-ewwel ċiklu miksub fit-Tieni Klassi bl-Unuri jew aħjar fix-Xjenza bis-Sistemi Ambjentali meħud bħala qasam ta’ studju prinċipali; jew
 
 (ii) grad tal-ewwel ċiklu fix-Xjenza miksub fit-Tieni Klassi bl-Unuri jew aħjar f’qasam meqjus rilevanti mill-Bord.
 
@@ -118,13 +112,11 @@ L-istudenti li jiksbu 30 krettu ECTS għal taqsimiet-studju mgħallma b’marka 
 
 ## 12. Renumerat:  A.L. 101 tal-2024.
 
-L-istudenti li jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma MONITORING AND ASSESSMENT [L.S. 327.590 jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, ikunu eliġibbli għall-għoti tal- Postgraduate Diploma.
+L-istudenti li jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, ikunu eliġibbli għall-għoti tal- Postgraduate Diploma.
 
 ## 13. Renumerat:  A.L. 101 tal-2024.
 
 Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-Kors.
-
-*3*
 
 ## 14. Il-Valutazzjoni u l- Progress.
 

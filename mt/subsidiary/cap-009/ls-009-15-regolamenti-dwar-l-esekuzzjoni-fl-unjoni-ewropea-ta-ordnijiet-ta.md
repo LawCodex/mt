@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Esekuzzjoni fl-Unjoni Ewropea ta’ Ordnijiet ta’ Konfiska (S.L. 9.15)
 
-*1*
-
-TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.15**
 
 **REGOLAMENTI DWAR L-EŻEKUZZJONI**
@@ -54,10 +50,6 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort
 "proprjetà" tinkludi proprjetà tkun kif tkun deskritta, kemm tanġibbli kemm mhux tanġibbli, mobbli jew immobbli, kif ukoll dokumenti legali u strumenti li jiffurmaw prova tat-titolu għal dik il-proprjetà, jew interess fiha, skont ma l-qorti tal-Istat emittenti tkun iddecidiet:
 
 (a) li tkun ir-rikavat ta’ reat rilevanti jew l-ekwivalenti sew għall-valur sħiħ sew għal parti mill-valur ta’ dak ir-rikavat; jew
-
-*2*
-
-[L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
 
 (b) li tkun tikkostitwixxi l-istrumentalitajiet ta’ reat bħal dak, jew
 
@@ -105,10 +97,6 @@ Għall-finijiet ta’ dawn ir-regolamenti:
 
 Iżda ma jkunx meħtieġ li l-ordni ta’ konfiska tkun jew bil-Malti jew bl-Ingliż.
 
-*3*
-
-TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15
-
 (3) L-oriġinal tal-ordni ta’ konfiska, jew kopja ċertifikata tiegħu, u l-oriġinal taċ-ċertifikat għandhom jitwasslu lill-Istat eżekutur jekk dan jenħtieġ minnu.
 
 ## 6. Dettalji ta’ordnijiet ta’ konfiska.
@@ -147,10 +135,6 @@ Iżda f’dawk il-każijiet m’għandux jkun hemm verifika dwar il-kriminalità
 
 Meta l-Avukat Ġenerali jirċievi ordni ta’ konfiska fil-kuntest tat-tifsir ta’ dawn ir-regolamenti, l-Avukat Ġenerali għandu, skont il-ġudizzju tiegħu individwali u bla ħsara għad-disposizzjonijiet tar-regolamenti 8 u 9, joħroġ ċertifikat li jkun jgħid li l-awtorità li tkun ħarġet l-ordni ta’ konfiska jkollha l-funzjoni li toħroġ ordnijiet ta’ konfiska fl-Istat emittenti u dak iċ-ċertifikat għandu jkun wieħed konklużiv fir-rigward tal-kontenut tiegħu.
 
-**TA’ ORDNIJIET TA’ KONFISKA**
-
-*[L.S.9.15 4*
-
 ## 8. Raġunijiet għal nuqqas ta’ rikonoxximent.
 
 (1) L-Avukat Ġenerali m’ghandhux jirrikonoxxi ordni ta’ konfiska jekk:
@@ -173,11 +157,7 @@ Iżda jekk tinbeda xi proċedura quddiem il-qrati ta’ Malta minn xi parti li j
 
 (ii) għalkemm kienet taf bil-kawża appuntata, tkun tat prokura lill-avukat tagħha li jkun ġie maħtur minnha jew mill-Istat, biex jiddefendiha f’dik il-kawża, u tkun tabilħaqq saritilha dik id-difiża minn dak l-avukat waqt il-kawża, jew
 
-(iii) wara li tkun ġiet notifikata bl-ordni ta’ konfiska u tkun ġiet mgħarrfa b’mod ċar bid-dritt li jkollha għal kawża mill-ġdid, jew appell, li fihom ikollha dritt tieħu sehem u li jkunu jippermettu li l-merti tal-kawża, inkluża kull prova ġdida li jista’ jkun hemm, jiġu eżaminati mill-ġdid u li jistgħu jwasslu għal deċiżjoni differenti minn dik oriġinali, hija tkun b’mod ċar iddikjarat li ma tkunx qiegħda tikkontesta l- TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15
-
-ordni ta’ konfiska jew li ma tkunx talbet għal kawża mill-ġdid jew għal appell fiż-żmien dovut li jkun japplika;
-
-*5*
+(iii) wara li tkun ġiet notifikata bl-ordni ta’ konfiska u tkun ġiet mgħarrfa b’mod ċar bid-dritt li jkollha għal kawża mill-ġdid, jew appell, li fihom ikollha dritt tieħu sehem u li jkunu jippermettu li l-merti tal-kawża, inkluża kull prova ġdida li jista’ jkun hemm, jiġu eżaminati mill-ġdid u li jistgħu jwasslu għal deċiżjoni differenti minn dik oriġinali, hija tkun b’mod ċar iddikjarat li ma tkunx qiegħda tikkontesta l-ordni ta’ konfiska jew li ma tkunx talbet għal kawża mill-ġdid jew għal appell fiż-żmien dovut li jkun japplika;
 
 (g) l-ordni ta’ konfiska tkun ibbażata fuq proċedimenti kriminali dwar reati kriminali li:
 
@@ -206,10 +186,6 @@ ordni ta’ konfiska jew li ma tkunx talbet għal kawża mill-ġdid jew għal ap
 ## 9. Raġunijiet għal posponiment tal-eżekuzzjoni.
 
 (1) L-Avukat Ġenerali jista’ jipposponi l-eżekuzzjoni ta’ ordni ta’ konfiska li jiġi trasmess skont ir-regolament 5 f’dawn il-każijiet li ġejjin:
-
-*6*
-
-[L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
 
 (a) jekk, fil-każ ta’ ordni ta’ konfiska li tkun tirrigwarda somma flus, iqis li jkun hemm riskju li l-valur totali miksub mill-eżekuzzjoni tagħha jista’ jkun jeċċedi s-somma speċifikata fl-ordni ta’ konfiska minħabba fl-eżekuzzjoni tal-ordni ta’ konfiska li ssir fl-istess ħin f’aktar minn Stat Membru wieħed;
 
@@ -241,11 +217,7 @@ Meta jkun inħareġ ċertifikat mill-Avukat Ġenerali taħt ir-regolament 7, u m
 
 (4) Ma jistgħu jinġiebu ebda proċeduri quddiem il-qrati ta’ Malta li jkunu jikkontestaw ir-raġunijiet sostantivi li fuqhom tkun inħarġet l-ordni ta’ konfiska.
 
-(5) Kull min jikser ordni ta’ konfiska msemmija f’dawn ir-regolamenti jkun ħati ta’ reat u jeħel, meta jinsab ħati, multa ta’ mhux iżjed minn ħdax-il elf u sitt mija u sitta u erbgħin euro u TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15
-
-sebgħa u tmenin ċenteżmu (11,646.87), jew priġunerija għal żmien mhux iżjed minn tnax-il xahar, jew dik il-multa u priġunerija flimkien, u l-qorti tista’ tordna lill-persuna li tinsab hekk ħatja tiddepożita f’bank bi kreditu tal-persuna akkużata somom ta’ flus jew il-valur ta’ proprjetà mobbli oħra mħallsa jew kunsinnata bi ksur ta’ dik l-ordni tal-qorti.
-
-*7*
+(5) Kull min jikser ordni ta’ konfiska msemmija f’dawn ir-regolamenti jkun ħati ta’ reat u jeħel, meta jinsab ħati, multa ta’ mhux iżjed minn ħdax-il elf u sitt mija u sitta u erbgħin euro u sebgħa u tmenin ċenteżmu (11,646.87), jew priġunerija għal żmien mhux iżjed minn tnax-il xahar, jew dik il-multa u priġunerija flimkien, u l-qorti tista’ tordna lill-persuna li tinsab hekk ħatja tiddepożita f’bank bi kreditu tal-persuna akkużata somom ta’ flus jew il-valur ta’ proprjetà mobbli oħra mħallsa jew kunsinnata bi ksur ta’ dik l-ordni tal-qorti.
 
 ## 12. Eżekuzzjoni alternattiva.
 
@@ -275,11 +247,7 @@ sebgħa u tmenin ċenteżmu (11,646.87), jew priġunerija għal żmien mhux iżj
 
 (b) billi dik il-proprjetà tiġi trasferita lill-Istat emittenti:
 
-Iżda jekk l-ordni ta’ konfiska tkun tkopri somma flus, il-proprjetà tista’ tiġi biss trasferita lill-Istat emittenti [L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
-
-**meta dak l-Istat ikun ta l-kunsens tiegħu.**
-
-*8*
+Iżda jekk l-ordni ta’ konfiska tkun tkopri somma flus, il-proprjetà tista’ tiġi biss trasferita lill-Istat emittenti meta dak l-Istat ikun ta l-kunsens tiegħu.
 
 (4) Minkejja d-dispożizzjonijiet tas-subregolament (3), oġġetti speċifiċi li jinkwadraw fl-ordni ta’ konfiska li jikkonsistu f’oġġetti kulturali li jagħmlu parti mill-patrimonju kulturali nazzjonali m’għandhom la jinbiegħu lanqas jitreġġgħu lura lill-Istat emittenti.
 
@@ -323,10 +291,6 @@ L-Avukat Ġenerali għandu minnufih jgħarraf lil xi wieħed mill-Istati emitten
 
 (b) dikjarazzjoni li tkun tindika li l-ordni tkun inħarġet bil-għan:
 
-*9*
-
-TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15
-
 (i) li jiġi konfiskat xi oġġett speċifiku wieħed jew aktar ta’ proprjetà; jew
 
 (ii) li tiġi konfiskata somma ta’ flus.
@@ -340,10 +304,6 @@ TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15
 (1) Meta tigi trasmessa ordni ta’ konfiska, din m’għandhiex twaqqaf l-eżekuzzjoni tal-ordni ta’ konfiska mill- Qrati ta’ Malta.
 
 (2) Meta ordni ta’ konfiska li tkun tirrigwarda somma flus tiġi trasmessa lil aktar minn Stat eżekutur wieħed, il-valur totali li jinkiseb mill-eżekuzzjoni tagħha ma jistax jeċċedi l-ogħla ammont speċifikat fl-ordni.
-
-*10*
-
-[L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
 
 Skeda 1
 
@@ -421,8 +381,6 @@ qbid illegali ta’ ajruplani/vapuri;
 
 sabutaġġ.
 
-TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15 11
-
 Skeda 2 Emendata:
 
 A.L. 426 tal-2012. (Regolament 5)
@@ -442,8 +400,6 @@ Isem uffiċjali:................................................................
 Isem uffiċjali: ..................................................................................................... Indirizz:
 
 ............................................................................................................................ Nru tat-Tel.: (kodiċi tal-pajjiż) (kodiċi taż-żona/tal-belt) .................................... Nru tal-Fax (kodiċi tal-pajjiż) (kodiċi taż-żona/tal-belt) ..................................... E-mail (fejn disponibbli) ..................................................................................... Lingwi li huwa possibli tikkomunika bihom mal-awtorità kompetenti mill-esekuzzjoni: ........................................................................................................ Dettalji tal-persuna/i li għandha/għandhom tiġi/jiġu kuntattjata/i biex tinkiseb informazzjoni addizzjonali għall-finijiet tal-esekuzzjoni tal-ordni ta’ konfiska jew, fejn applikabbli, għall-finijiet tal-esekuzzjoni ta’ ordni ta’ konfiska trasmessa lil żewġ Stati eżekuturi jew aktar, jew għall-finijiet tat-trasferiment lill-Istat emittenti ta’ flus jew proprjetà miksuba mill-eżekuzzjoni (isem, kariga/grad, nru. tat-tel., nru. tal-fax, u, meta disponibbli, e-mail)
-
-12 [L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
 
 (d) Fejn awtorità ċentrali ġiet mogħtija r-responsabbiltà għat-trasmissjoni amministrattiva u r-riċeviment ta’ ordnijiet ta’ konfiska fl-Istat emittenti:
 
@@ -470,8 +426,6 @@ Tista’ tiġi kuntattjata għal mistoqsijiet dwar: ............................
 ----------------------------------------
 
 \* ĠU L 196, 2.8.2003, p.45.
-
-TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15 13
 
 *2.1.*
 
@@ -509,15 +463,11 @@ L-ordni ta’ konfiska tiġi trasmessa lill-Istat eżekutur peress li (immarka l
 
 (a) l-Istat emittenti għandu raġunijiet raġonevoli biex jemmen li l-persuna li għaliha nħarġet l-ordni ta’ konfiska għandha proprjetà jew dħul fl-Istat eżekutur. Żid l-informazzjoni li ġejja:
 
-Raġunijiet biex wieħed jemmen li l-persuna għandha proprjetà / dħul: ............................................................................................... [L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
-
-Deskrizzjoni tal-proprjetà tal-persuna / fonti ta’ dħul: .................... ........................................................................................................ Post fejn tinsab il-proprjetà tal-persuna / fonti ta’ dħul (jekk magħruf, l-aħħar post magħruf): ..................................................... (b) m’hemm l-ebda raġunijiet raġonevoli, kif imsemmi taħt (a), li jippermettu lill-Istat emittenti li jiddetermina l-Istat Membru lil min tista’ tiġi mibgħuta l-ordni ta’ konfiska, iżda l-persuna li għaliha nħarġet l-ordni ta’ konfiska hija normalment residenti fl- Istat eżekutur. Żid l-informazzjoni li ġejja:
-
-*14*
-
-**
+Raġunijiet biex wieħed jemmen li l-persuna għandha proprjetà / dħul: ............................................................................................... Deskrizzjoni tal-proprjetà tal-persuna / fonti ta’ dħul: .................... ........................................................................................................ Post fejn tinsab il-proprjetà tal-persuna / fonti ta’ dħul (jekk magħruf, l-aħħar post magħruf): ..................................................... (b) m’hemm l-ebda raġunijiet raġonevoli, kif imsemmi taħt (a), li jippermettu lill-Istat emittenti li jiddetermina l-Istat Membru lil min tista’ tiġi mibgħuta l-ordni ta’ konfiska, iżda l-persuna li għaliha nħarġet l-ordni ta’ konfiska hija normalment residenti fl- Istat eżekutur. Żid l-informazzjoni li ġejja:
 
 Residenza normali fl-Istat eżekutur: ............................................... ........................................................................................................ Jekk l-ordni ta’ konfiska tikkonċerna partita/i speċifika/ċi ta’ proprjetà:
+
+**
 
 *1.2.*
 
@@ -551,8 +501,6 @@ L-ordni ta’ konfiska hija trasmessa lill-Istat eżekutur peress li (immarka l-
 
 Fejn deċiżjoni hija trasmessa lill-Istat ta’ eżekuzzjoni minħabba li l-persuna ġuridika li għaliha nħarġet l-ordni ta’ konfiska għandha s-sede reġistrata tagħha f’dak l-Istat, in-numru ta’ Reġistrazzjoni u s-Sede reġistrata għandhom jiġu kompletati.
 
-TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15 15
-
 * (a)*
 
 l-Istat emittenti għandu raġunijiet raġonevoli biex jemmen li l-persuna ġuridika li għaliha nħarġet l-ordni ta’ konfiska għandha proprjetà jew dħul fl-Istat eżekutur. Żid l-informazzjoni li ġejja:
@@ -581,15 +529,11 @@ Raġunijiet biex wieħed jemmen li l-partita/i speċifika/ċi tal-proprjetà tin
 
 * (ċ)*
 
-Sede reġistrata fl-Istat eżekutur: ..................................................... ........................................................................................................ [L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
-
-*(i)*
-
-L-ordni ta’ konfiska
-
-*16*
+Sede reġistrata fl-Istat eżekutur: ..................................................... ........................................................................................................ L-ordni ta’ konfiska
 
 L-ordni ta’ konfiska nħareġ fi (data): .................................................................. L-ordni ta’ konfiska sar finali fi (data): ............................................................... Numru ta’ referenza tal-ordni ta’ konfiska (jekk disponibbli): ............................ 1. Informazzjoni dwar in-natura tal-ordni ta’ konfiska
+
+*(i)*
 
 1.1. Indika (billi timmarka l-kaxxa/i rilevanti) jekk l-ordni ta’ konfiska tikkonċerna:
 
@@ -615,15 +559,13 @@ Deskrizzjoni tal-partita/i speċifika/ċi ta’ proprjetà: ....................
 
 Jekk żewġ kategoriji ta’ konfiska jew iżjed huma involuti, ipprovdi dettalji dwar liema proprjetà hija konfiskata fir-rigward ta’ liema kategorija:
 
-............................................................................................................................ TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15 17
-
-*\2.*
-
-Informazzjoni dwar ir-reat(i) li rriżulta(w) fl-ordni ta’ konfiska
+............................................................................................................................ Informazzjoni dwar ir-reat(i) li rriżulta(w) fl-ordni ta’ konfiska
 
 *2.1.*
 
 Sommarju tal-fatti u deskrizzjoni taċ-ċirkostanzi li fihom ir-reat(i), li rriżulta(w) fl-ordni ta’ konfiska twettaq/qu, inkluż il-ħin u l-post
+
+*\2.*
 
 .................................................................................................................. .................................................................................................................. .................................................................................................................. Natura u klassifikazzjoni legali tar-reat(i) li rriżulta(w) fl-ordni ta’ konfiska u d-dispożizzjoni statutorja applikabbli/l-kodiċi abbażi ta’ liema ttieħdet id-deċiżjoni:
 
@@ -675,10 +617,6 @@ Sommarju tal-fatti u deskrizzjoni taċ-ċirkostanzi li fihom ir-reat(i), li rri�
 
  intrigi ta’ qerq u estorsjoni;
 
-*18*
-
-[L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
-
  falsifikazzjoni u piraterija ta’ prodotti;
 
  falsifikazzjoni ta’ dokumenti amministrattivi u t-traffikar fihom;  falsifikazzjoni ta’ mezzi ta’ pagament;
@@ -727,8 +665,6 @@ JEW
 
 JEW
 
-TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15 19
-
  3.2. konxja mill-kawża skedata, il-persuna kienet tat mandat lill-konsulent legali, li kien jew appuntat mill-persuna konċernata jew mill-Istat, biex jiddefendiha fil-kawża, u kienet fil-fatt ġiet difiża minn dak il-konsulent fil-kawża;
 
 JEW
@@ -765,10 +701,6 @@ Jekk l-ordni ta’ konfiska tikkonċerna ammont ta’ flus, iddikjara jekk propr
 
  le
 
-*20*
-
-[L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
-
 *(l)*
 
 Miżuri alternattivi, inkluż sanzjonijiet ta’ kustodja
@@ -794,8 +726,6 @@ Miżuri alternattivi, inkluż sanzjonijiet ta’ kustodja
 L-ordni ta’ konfiska hija mehmuża maċ-ċertifikat.
 
 Firma tal-awtorità li qed toħroġ iċ-ċertifikat u/jew ir-rappreżentant tagħha li tiċċertifika li l-kontenut taċ-ċertifikat huwa preċiż: ............................................ Isem: .................................................................................................................. Kariga (titlu/grad): ............................................................................................. Data: ................................................................................................................... Timbru uffiċjali (jekk disponibbli)
-
-TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15 21
 
 ## Skeda 3
 
@@ -839,11 +769,7 @@ Billi:
 
 (3) Skont il-paragrafu 50(b) tal-Pjan ta’ Azzjoni ta’ Vjenna, fi żmien ħames snin mid-dħul fis-seħħ tat-Trattat ta’ Amsterdam, id-dispożizzjonijiet nazzjonali li jiggvernaw il-qbid u l-konfiska tar-rikavati tal-kriminalità għandhom jiġu mtejba u approssimati fejn meħtieġ, b’kont meħud tad-drittijiet tat-terzi bona fide.
 
-(4) Il-paragrafu 51 tal-konklużjonijiet tal-Kunsill Ewropew ta’ Tampere tal- 15 u s-16 ta’ Ottubru 1999 jisħaq li l-money laundering jinsab fil-qalba proprja tal-kriminalità organizzata, u li għandu jinqered kull fejn iseħħ u li l-Kunsill Ewropew huwa determinat jiżgura li jittieħdu passi konkreti sabiex jiġu traċċati, iffriżati, maqbuda u konfiskati r-rikavati [L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
-
-tal-kriminalità. Il-Kunsill Ewropew isejjaħ ukoll, fil-paragrafu 55, għall-approssimazzjoni tal-liġi u l-proċedura kriminali fir-rigward tal-money laundering (per eżempju, dwar it-traċċar, l-iffriżar u l-konfiska ta’ fondi).
-
-*22*
+(4) Il-paragrafu 51 tal-konklużjonijiet tal-Kunsill Ewropew ta’ Tampere tal- 15 u s-16 ta’ Ottubru 1999 jisħaq li l-money laundering jinsab fil-qalba proprja tal-kriminalità organizzata, u li għandu jinqered kull fejn iseħħ u li l-Kunsill Ewropew huwa determinat jiżgura li jittieħdu passi konkreti sabiex jiġu traċċati, iffriżati, maqbuda u konfiskati r-rikavati tal-kriminalità. Il-Kunsill Ewropew isejjaħ ukoll, fil-paragrafu 55, għall-approssimazzjoni tal-liġi u l-proċedura kriminali fir-rigward tal-money laundering (per eżempju, dwar it-traċċar, l-iffriżar u l-konfiska ta’ fondi).
 
 (5) Skont ir-Rakkomandazzjoni 19 fil-Pjan ta’ Azzjoni tal-2000 intitolat "Il-prevenzjoni u l-kontroll tal-kriminalità organizzata: strateġija tal- Unjoni Ewropea għall-bidu tal-millennju l-ġdid", li ġie approvat mill- Kunsill fis-27 ta’ Marzu 2000 [3], għandu jsir eżami tal-possibbiltà tal-ħtieġa ta’ strument li, b’kont meħud tal-aqwa prattika fl-Istati Membri u bir-rispett dovut għall-prinċipji legali fundamentali, jintroduċi l-possibbiltà li tiġi mitigata, skont il-liġi kriminali, ċivili jew fiskali, skont il-każ, l-oneru tal-prova dwar id-derivazzjoni tal-assi fil-pussess ta’ persuna kundannata għal reat konness mal-kriminalità organizzata. (6) Skont l-Artikolu 12, dwar il-konfiska u l-qbid, tal-Konvenzjoni tan-NU tat-12 ta’ Diċembru 2000 kontra l-Kriminalità Organizzata Transnazzjonali, il-Partijiet jistgħu jikkunsidraw il-possibbiltà tar-rekwiżit li l-awtur tar-reat juri l-oriġini legali ta’ rikavati preżunti tal-kriminalità jew ta’ proprjetà oħra soġġetta għal konfiska, safejn tali rekwiżit huwa konsistenti mal-prinċipji tal-liġi domestika tagħhom u man-natura tal-proċedimenti ġudizzjarji.
 
@@ -853,9 +779,7 @@ tal-kriminalità. Il-Kunsill Ewropew isejjaħ ukoll, fil-paragrafu 55, għall-ap
 
 (9) L-istrumenti eżistenti f’dan il-qasam ma kisbux suffiċentement koperazzjoni transkonfinali effikaċi fir-rigward tal-konfiska minħabba li għad hemm numru ta’ Stati Membri li ma jistgħux jikkonfiskaw ir-rikavati tar-reati kollha punibbli bi priġunerija għal iżjed minn sena. (10) L-għan ta’ din id-Deċiżjoni Kwadru huwa li jiġi żgurat li l-Istati Membri kollha jkollhom regoli effikaċi li jiggvernaw il-konfiska ta’ rikavati tal-kriminalità, inter alia fir-rigward tal-oneru tal-prova dwar id-derivazzjoni tal-assi fil-pussess tal-persuna kkundannata għal reat konness mal-kriminalità organizzata. Din id-Deċiżjoni Kwadru hija marbuta ma’ abbozz Daniż ta’ Deċiżjoni Kwadru dwar ir-rikonoxximent reċiproku fi ħdan l-Unjoni Ewropea ta’ deċiżjonijiet li jikkonċernaw il-konfiska ta’ rikavati tal-kriminalità u l-kondiviżjoni ta’ assi, li qed jiġi preżentat fl-istess waqt.
 
-(11) Din id-Deċiżjoni Kwadru ma timpedix Stat Membru milli japplika l-prinċipji fundamentali tiegħu konnessi mad-dritt ta’ proċess ġust, b’mod partikolari l-preżunzjoni tal-innoċenza, id-drittijiet ta’ proprjetà, TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15 23
-
-il-libertà ta’ assoċazzjoni, il-libertà tal-istampa u l-libertà tal-espressjoni f’medja oħra,
+(11) Din id-Deċiżjoni Kwadru ma timpedix Stat Membru milli japplika l-prinċipji fundamentali tiegħu konnessi mad-dritt ta’ proċess ġust, b’mod partikolari l-preżunzjoni tal-innoċenza, id-drittijiet ta’ proprjetà, il-libertà ta’ assoċazzjoni, il-libertà tal-istampa u l-libertà tal-espressjoni f’medja oħra,
 
 ADOTTA DIN ID-DEĊIŻJONI KWADRU:
 
@@ -895,9 +819,7 @@ Fir-rigward ta’ reati fiskali, l-Istati Membri jistgħu jużaw proċeduri oħr
 
 \- mid-Deċiżjoni Kwadru tal-Kunsill 2000/383/JHA tad-29 ta’ Mejju 2000 dwar it-tisħiħ tal-protezzjoni permezz ta’ pieni kriminali u sanzjonijiet oħra kontra l-falsifikazzjoni f’konnessjoni mal-introduzzjoni tal-euro [6],
 
-\- mid-Deċiżjoni Kwadru tal-Kunsill 2001/500/JHA tas-26 ta’ Ġunju 2001 dwar il-money laundering, l-identifikazzjoni, it-traċċar, l-iffriżar, il-qbid u l-konfiska tal-mezzi strumentali u l- 24 [L.S.9.15 TA’ ORDNIJIET TA’ KONFISKA
-
-qligħ mill-kriminalità [7],
+\- mid-Deċiżjoni Kwadru tal-Kunsill 2001/500/JHA tas-26 ta’ Ġunju 2001 dwar il-money laundering, l-identifikazzjoni, it-traċċar, l-iffriżar, il-qbid u l-konfiska tal-mezzi strumentali u l-qligħ mill-kriminalità [7],
 
 \- mid-Deċiżjoni Kwadru tal-Kunsill 2002/629/JHA tad-19 ta’ Lulju 2002 dwar il-ġlieda kontra t-traffikar tal-bnedmin [8],
 
@@ -934,8 +856,6 @@ Kull Stat Membru jista’ wkoll jikkunsidra jadotta l-miżuri neċessarji sabiex
 ## 4.
 
 L-Istati Membri jistgħu jużaw proċeduri oħra barra l-proċeduri kriminali sabiex jipprivaw lill-awtur mill-proprjetà inkwistjoni.
-
-TA’ ORDNIJIET TA’ KONFISKA [L.S.9.15 25
 
 **Artikolu 4**
 

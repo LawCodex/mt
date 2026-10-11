@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tabella tal-Ħinijiet tas-Servizz tal-Passiġġieri bl-Aliskaf bejn Malta u Għawdex"
-identifier: "S.L. 65.4"
+identifier: "S.L. 65.04"
 eli: "https://legislation.mt/eli/sl/65.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/65.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tabella tal-Ħinijiet tas-Servizz tal-Passiġġieri bl-Aliskaf bejn Malta u Għawdex (S.L. 65.4)
-
-TABELLA TAL-}INIJIET TAS-SERVIZZ TAL-PASSI{{IERI
-
-*1*
-
-BL-ALISKAF BEJN MALTA U G}AWDEX [L.S.65.04
+# Regolamenti dwar it-Tabella tal-Ħinijiet tas-Servizz tal-Passiġġieri bl-Aliskaf bejn Malta u Għawdex (S.L. 65.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 65.04**
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar it-Tilbis ta' Ċintorini tas-Sigurtà fil-Vetturi bil-Mutur (S.L. 65.12)
 
-*1*
-
-FIL-VETTURI BIL-MUTUR [L.S.65.12
-
 **LE{ISLAZZJONI SUSSIDJARJA 65.12**
 
 REGOLAMENTI DWAR IT-TILBIS TA’ ~INTORINI
@@ -85,11 +81,9 @@ hux sedil ta’ quddiem, jew li ma hux sedil tax-xufier jew sedil ma[enb is-sedi
 
 I\\da g]all-fini ta’ dawn ir-regolamenti vetturi M2 u M3 ma jinkludux il-karrozzi tal-linja;
 
-*3*
-
-FIL-VETTURI BIL-MUTUR [L.S.65.12 ''vetturi bil-mutur N1, N2 u N3'' g]andhom l-istess tifsira mog]tija lilhom fir-Regolamenti dwar il-Pi\\ijiet, Dimensjonijiet u Tag]mir tal-Vetturi bil-Mutur;
-
 *L.S. 65.21*
+
+''vetturi bil-mutur N1, N2 u N3'' g]andhom l-istess tifsira mog]tija lilhom fir-Regolamenti dwar il-Pi\\ijiet, Dimensjonijiet u Tag]mir tal-Vetturi bil-Mutur;
 
 ''xufier'' tfisser persuna li ssuq vettura bil-mutur fi triq pubblika.
 
@@ -171,10 +165,6 @@ Id-disposizzjonijiet ta’ dawn ir-regolamenti ma g]andhomx japplikaw g]al persu
 
 (g) uffi`jal jew assistent mediku waqt li jkun qed jie]u ]sieb pazjenti li jkunu qeg]din jivvja[[aw f’ambulanza; jew
 
-*5*
-
-FIL-VETTURI BIL-MUTUR [L.S.65.12
-
 (h) qed tag]mel test ta’ kompetenza fis-sewqan; jew
 
 (i) persuna b’di\\abilità li tkun liebsa `intorin u\\at minn persuni b’di\\abilità jew persuna b’di\\abilità li ma tkunx tista’ tu\\a `intorin standard; jew
@@ -212,10 +202,6 @@ I\\da dik il-vettura m’g]andhiex tkun vettura bil-mutur M3;
 tmienja u ]amsin euro u tlieta u g]oxrin `ente\\mu (58.23).
 
 *6*
-
-*7*
-
-FIL-VETTURI BIL-MUTUR [L.S.65.12
 
 L-EWWEL SKEDA
 

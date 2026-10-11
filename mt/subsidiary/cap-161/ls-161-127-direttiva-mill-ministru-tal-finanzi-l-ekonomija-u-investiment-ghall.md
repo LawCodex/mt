@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-Ħruġ ta’ Euro 100,000,000 Stock tal-Gvern ta’ Malta (S.L. 161.127)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [S.L.161.126
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.127**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**
@@ -70,10 +66,6 @@ Kull persuna u, jew enti jistgħu japplikaw għal dawn l-iStocks. It-tqassim tal
 ## 6. Somma ta’ flus li għandha tinġabar.
 
 Is-somma ta’ flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta’ Euro 120,000,000. L-Accountant General jirriserva d-dritt li jżid is-somma li għandha tinġabar b’ammont ta’ mhux iżjed minn Euro 60,000,000.
-
-*2*
-
-[S.L.161.127 STOCK TAL-GVERN TA’ MALTA
 
 ## 7. Rata ta’ mgħax u dati tal-ħlas.
 

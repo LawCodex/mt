@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tindif tal-Fosos"
-identifier: "S.L. 10.8"
+identifier: "S.L. 10.08"
 eli: "https://legislation.mt/eli/sl/10.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/10.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tindif tal-Fosos (S.L. 10.8)
+# Regolamenti dwar it-Tindif tal-Fosos (S.L. 10.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 10.08**
 

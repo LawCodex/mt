@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digrieti ta' Manteniment (Tasmania u d-Dipendenzi Tagħha)"
-identifier: "S.L. 48.5"
+identifier: "S.L. 48.05"
 eli: "https://legislation.mt/eli/sl/48.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/48.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digrieti ta' Manteniment (Tasmania u d-Dipendenzi Tagħha) (S.L. 48.5)
-
-ESTENSJONI TA’ L-APPLIKABBILTÀ TA’ DIGRIETI TA’
-
-MANTENIMENT (TASMANIA U D-DIPENDENZI TAG}HA) [ L.S.48.05
+# Ordni dwar l-Estensjoni ta' l-Applikabbiltà ta' Digrieti ta' Manteniment (Tasmania u d-Dipendenzi Tagħha) (S.L. 48.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 48.05**
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Proċedura ta' Tħassir ta' Ismijiet"
-identifier: "S.L. 321.4"
+identifier: "S.L. 321.04"
 eli: "https://legislation.mt/eli/sl/321.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/321.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Proċedura ta' Tħassir ta' Ismijiet (S.L. 321.4)
+# Regolamenti dwar Proċedura ta' Tħassir ta' Ismijiet (S.L. 321.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 321.04**
 

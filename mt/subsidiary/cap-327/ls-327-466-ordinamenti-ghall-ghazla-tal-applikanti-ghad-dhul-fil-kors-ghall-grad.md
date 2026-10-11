@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Science (Honours) (Occupational Therapy) taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.466)
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS)
-
-(OCCUPATIONAL THERAPY) TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.466 LEĠISLAZZJONI SUSSIDJARJA 327.466
+**LEĠISLAZZJONI SUSSIDJARJA 327.466**
 
 **ORDINAMENTI GĦALL-GĦAŻLA**
 
@@ -70,14 +64,6 @@ It-tielet kategorija: dawk bi grad ‘Ċ’ fil-Bioloġija fil- Livell Avvanżat
 (3) Meta l-applikanti joffru aktar minn ċertifikat wieħed li għaddew fil-Bioloġija, għandu jitqies l-aħjar grad.
 
 (4) Għall-għan tal-għażla, l-applikanti li jissodisfaw ir-rekwiżiti ġenerali u speċjali tal-kors sal-31 ta’ Awwissu ta’ qabel ma jibda l-kors, għandhom jitqiesu l-ewwel.
-
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS)
-
-(OCCUPATIONAL THERAPY) TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.466 TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
 
 (5) Jekk l-għadd tal-applikanti eliġibbli li jaqgħu fl-aħħar kategorija tal-applikanti eliġibbli biex jidħlu fil-kors skont id-dispożizzjonijiet tal-paragrafu (1) ta’ dan l-ordinament ikun tali li n-numru totali tal-applikanti biex jidħlu jaqbeż l-għadd ta’ postijiet stabbilit mis-Senat, l-ewwel konsiderazzjoni għandha tingħata lil dawn:
 

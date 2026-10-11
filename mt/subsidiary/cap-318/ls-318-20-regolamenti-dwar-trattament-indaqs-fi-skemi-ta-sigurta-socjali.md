@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Trattament Indaqs fi Skemi ta’ Sigurtà Soċjali Okkupazzjonali U Skemi ta’ Pensjoni oħra (S.L. 318.20)
 
-*1*
-
-OKKUPAZZJONALI U SKEMI TA’ PENSJONI OĦRA [L.S.318.20
-
 **LEĠISLAZZJONI SUSSIDJARJA 318.20**
 
 REGOLAMENTI DWAR TRATTAMENT INDAQS FI SKEMI TA’ SIGURTÀ SOĊJALI OKKUPAZZJONALI U SKEMI TA’ PENSJONI OĦRA
@@ -48,10 +44,6 @@ REGOLAMENTI DWAR TRATTAMENT INDAQS FI SKEMI TA’ SIGURTÀ SOĊJALI OKKUPAZZJONA
 *Kap. 220. Kap. 164. Kap. 260. Kap. 93.*
 
 (5) Dawn ir-regolamenti ma japplikawx għal:
-
-*2*
-
-[L.S.318.20 OKKUPAZZJONALI U SKEMI TA’ PENSJONI OĦRA
 
 (a) kuntratti individwali għal ħaddiema li jaħdmu għal rashom;
 
@@ -91,11 +83,9 @@ REGOLAMENTI DWAR TRATTAMENT INDAQS FI SKEMI TA’ SIGURTÀ SOĊJALI OKKUPAZZJONA
 
 (2) Bla ħsara għad-disposizzjonijiet tas-subregolament (1), kliem u frażijiet użati f’dawn ir-regolamenti għandu jkollhom, kemm-il darba r-rabta tal-kliem ma tkunx titlob mod ieħor, it-tifsira li għandhom fl-Atti.
 
-*3*
+## 3. Kun`ett ta’ trattament diskriminatorju.
 
-OKKUPAZZJONALI U SKEMI TA’ PENSJONI OĦRA [L.S.318.20 3. (1) }add ma għandu jassoġġetta persuna oħra għal trattament diskriminatorju, kemm direttament kemm indirettament, b’mod partikolari għal dak li hu:
-
-*Kun`ett ta’ trattament diskriminatorju.*
+(1) }add ma għandu jassoġġetta persuna oħra għal trattament diskriminatorju, kemm direttament kemm indirettament, b’mod partikolari għal dak li hu:
 
 (a) l-iskop ta’ l-iskemi u tal-kondizzjonijiet biex dawn jintlaħqu;
 
@@ -124,10 +114,6 @@ OKKUPAZZJONALI U SKEMI TA’ PENSJONI OĦRA [L.S.318.20 3. (1) }add ma għandu j
 (e) li jagħmlu kondizzjonijiet differenti għall-għoti ta’ benefiċċji jew li jirrestrinġu dawk il-benefiċċji lill-ħaddiema skond jekk humiex irġiel jew nisa;
 
 (f) li jistabilixxu etajiet ta’ rtirar differenti;
-
-**OKKUPAZZJONALI U SKEMI TA’ PENSJONI OĦRA**
-
-*[L.S.318.20 4*
 
 (g) li jissospendu ż-żamma jew akkwist ta’ drittijiet tul perjodi ta’ leave għall-maternità jew ta’ leave għal raġunijiet familjari, mogħtijin bil-liġi jew skond xi patti u li jitħallsu mill-prinċipal;
 
@@ -165,10 +151,6 @@ Ebda ħaġa f’dawn ir-regolamenti ma għandha:
 
 (a) tippreġudika xi disposizzjoni ta’ xi liġi li għandha x’taqsam mal-ħarsien tan-nisa għax ikunu ommijiet;
 
-*5*
-
-OKKUPAZZJONALI U SKEMI TA’ PENSJONI OĦRA [L.S.318.20
-
 (b) għall-iskopijiet li tingħata pensjoni bis-saħħa ta’ skema, iżżomm lil xi prinċipal milli jagħti lil persuni li jkunu diġà laħqu l-età ta’ l-irtirar iżda li jkunu għadhom ma laħqux l-età ta’ l-irtirar għall-iskopijiet ta’ l-għoti ta’ pensjoni statutorja, pensjoni supplementari li jkollha l-għan li ġġib indaqs l-ammont kollu totali ta’ benefiċċju mħallas lil dawn il-persuni skond l-ammont imħallas lil persuni tas-sess oppost li jkunu jinsabu fl-istess sitwazzjoni u li jkunu diġà laħqu l-età ta’ rtirar stipulat mil-liġi, sa dak il-waqt meta l-persuni li jkunu qegħdin jibbenefikaw mis-supplement ta’ pensjoni jilħqu l-età ta’ rtirar stabbilita mil-liġi.
 
 ## 6. Età tal-pensjoni flessibbli.
@@ -190,10 +172,6 @@ Impjegat li jkun tkeċċa għandu jitqies li jkun tkeċċa inġustament jekk ir-
 ## 9. Difi\\a ta’ drittijiet.
 
 Ebda ħaġa ma għandha żżomm lil xi assoċjazzjoni, organizzazzjoni jew entità legali oħra, li jkollhom interess leġittimu li jiżguraw li jkun hemm konformità ma’ dawn ir-regolamenti, milli tintervjeni jew f’isem jew b’sostenn ta’ min jagħmel l-ilment, bl-approvazzjoni tiegħu jew tagħha, fi proċeduri ġudizzjarji jew amministrattivi li hemm provduti għall-infurzar ta’ obbligi taħt dawn ir-regolamenti.
-
-*6*
-
-[L.S.318.20 OKKUPAZZJONALI U SKEMI TA’ PENSJONI OĦRA
 
 ## 10. Reati.
 

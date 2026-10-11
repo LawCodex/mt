@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar it-Tagħbija ta Qamħ"
-identifier: "S.L. 234.9"
+identifier: "S.L. 234.09"
 eli: "https://legislation.mt/eli/sl/234.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/234.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar it-Tagħbija ta Qamħ (S.L. 234.9)
+# Regoli dwar it-Tagħbija ta Qamħ (S.L. 234.09)
 
 \*LE{ISLAZZJONI SUSSIDJARJA 234.09
 

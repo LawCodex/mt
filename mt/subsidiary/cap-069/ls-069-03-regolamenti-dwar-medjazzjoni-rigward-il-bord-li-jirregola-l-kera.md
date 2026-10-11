@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Medjazzjoni rigward il-Bord li jirregola l-Kera"
-identifier: "S.L. 69.3"
+identifier: "S.L. 69.03"
 eli: "https://legislation.mt/eli/sl/69.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,13 +15,9 @@ version: "https://legislation.mt/eli/sl/69.3/20210528/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Medjazzjoni rigward il-Bord li jirregola l-Kera (S.L. 69.3)
+# Regolamenti dwar Medjazzjoni rigward il-Bord li jirregola l-Kera (S.L. 69.03)
 
-MEDJAZZJONI
-
-*1*
-
-RIGWARD IL-BORD LI JIRREGOLA L-KERA [L.S.69.03 LEĠISLAZZJONI SUSSIDJARJA 69.03
+LEĠISLAZZJONI SUSSIDJARJA 69.03
 
 REGOLAMENTI DWAR MEDJAZZJONI
 

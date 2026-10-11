@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Family Studies taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.428)
 
-*1*
-
-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.428
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.428**
 
 ORDINAMENTI GĦALL-GRAD TA’ MASTER IN FAMILY STUDIES TAĦT IL-PATROĊINJU
@@ -74,13 +70,11 @@ Il-kors għandu jinfirex fuq perjodu ta’ tliet semestri ta’ studju full-time
 
 (1) Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu, li minnhom 30 krettu huma assenjati għat-taqsimiet studju mgħallma u 60 krettu huma assenjati għat-taqsima studju tad-dissertazzjoni.
 
-(2) L-istudenti li jiksbu total ta’ 30 krettu ECTS għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux [L.S.327.428 PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ il-Kors, jew wara li komplew ma jtemmux il-kors b’suċċess, ikunu eliġibbli għall-għoti ta’ Postgraduate Certificate.
+(2) L-istudenti li jiksbu total ta’ 30 krettu ECTS għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jtemmux il-kors b’suċċess, ikunu eliġibbli għall-għoti ta’ Postgraduate Certificate.
 
 \*Dawn ir-regolamenti gew imħassrin bl-L.S. 327.631. Ara l-Ordinament 15.
 
 (3) L-istudenti jkunu eliġibbli għall-għoti tal-Grad jekk ikunu kisbu d-90 krettu ECTS kif spjegat fil-programm ta’ studju tal-kors b’marka medja ta’ mill-anqas 50%.
-
-*2*
 
 ## 6. Pubblikazzjoni tal-programm ta’ studju.
 
@@ -120,11 +114,7 @@ L-istudenti li jeħlu f’aktar minn taqsima studju waħda kif permess skont l-o
 
 (4) Fl-aħħar ta’ kull semestru ta’ studji, is-superviżuri jkunu meħtieġa jissottomettu lill-Panel ta’ Superviżjoni rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom. L-istudenti għandhom jitolbu l-approvazzjoni minn għand dan il-Panel għal kwalunkwe modifika sostanzjali fit-titolu jew fil-kontenut tad-dissertazzjoni.
 
-(5) Il-Panel ta’ Superviżjoni għandu jinforma perjodikament lill-Bord tal-Istudji bil-miktub, dwar il-livell ġenerali milħuq minn PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.428
-
-kull student. Dawn il-pariri jistgħu jinkludu rakkomandazzjoni biex jew (a) il-perjodu ta’ studju jkun imtawwal biex l-istudent ikun jista’ jispiċċa d-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur iqis li dan hu xieraq fiċ-ċirkostanżi, sakemm li:
-
-*3*
+(5) Il-Panel ta’ Superviżjoni għandu jinforma perjodikament lill-Bord tal-Istudji bil-miktub, dwar il-livell ġenerali milħuq minn kull student. Dawn il-pariri jistgħu jinkludu rakkomandazzjoni biex jew (a) il-perjodu ta’ studju jkun imtawwal biex l-istudent ikun jista’ jispiċċa d-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur iqis li dan hu xieraq fiċ-ċirkostanżi, sakemm li:
 
 (i) l-estensjoni tal-perjodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 

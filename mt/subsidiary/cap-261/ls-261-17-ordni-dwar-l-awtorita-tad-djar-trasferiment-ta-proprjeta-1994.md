@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1994) (S.L. 261.17)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1994) [ L.S.261.17
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.17**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -109,7 +107,7 @@ Il-blokk kollu huwa konfinat mill-Grigal ma’ Triq il- Veneranda Adeodata Pisan
 
 (6) Flat numru 1, Blokk 5, Bieb D, Misra] Lew\\a, San {wann (Tenement No. 66278).
 
-(7) Blokk ta’ erba’ maisonettes fil-pjan terren u l-art ta’ madwar mag]rufa b]ala Blokk U fl-Imtarfa, limiti (TRASFERIMENT TA’ PROPRJETÀ) (1994) [ L.S.261.17 Mdina. Il-maisonettes g]andhom d]ul minn entraturi separati enumerati 1 sa 4, u l-bi``a art s]i]a tmiss mit- Tramuntana, Nofs-in-Nhar u Lvant ma’ proprjetà ta’ l- Awtorità tad-Djar, u tinsab delineata bl-a]dar fuq L.D. 303B/90.
+(7) Blokk ta’ erba’ maisonettes fil-pjan terren u l-art ta’ madwar mag]rufa b]ala Blokk U fl-Imtarfa, limiti Mdina. Il-maisonettes g]andhom d]ul minn entraturi separati enumerati 1 sa 4, u l-bi``a art s]i]a tmiss mit- Tramuntana, Nofs-in-Nhar u Lvant ma’ proprjetà ta’ l- Awtorità tad-Djar, u tinsab delineata bl-a]dar fuq L.D. 303B/90.
 
 *\3.*
 
@@ -181,7 +179,7 @@ B’se]] mit-30 ta’ {unju, 1994:
 
 (b) Bi``a art tal-kejl ta’ madwar 136 metru kwadru, li tmiss mill-Grigal ma’ Triq is-Swatar, mil-Lbi` ma’ Marlene Pace u mill-Majjistral ma’ Rose Sammut, markata b]ala Plot 18 u delineata bl-a]dar fuq L.D. 19/91/2;
 
-(`) Bi``a art tal-kejl ta’ madwar 136 metru kwadru, li tmiss mill-Grigal ma’ Triq is-Swatar, mix- Xlokk ma’ Vincent Schembri u mil-Lbi` ma’ (TRASFERIMENT TA’ PROPRJETÀ) (1994) [ L.S.261.17 Marlene Pace, markata b]ala Plot 19 u delineata bl-a]dar fuq L.D. 19/91/2.
+(`) Bi``a art tal-kejl ta’ madwar 136 metru kwadru, li tmiss mill-Grigal ma’ Triq is-Swatar, mix- Xlokk ma’ Vincent Schembri u mil-Lbi` ma’ Marlene Pace, markata b]ala Plot 19 u delineata bl-a]dar fuq L.D. 19/91/2.
 
 (3) Flat numru 2, Blokk Nru. 5, Triq il-Fosos, Floriana (Tenement No. 67977).
 
@@ -251,7 +249,7 @@ G]axar flats o]ra g]andhom d]ul g]alihom minn bieb intern enumerat 1-10 b’entr
 
 G]axar flats o]ra g]andhom d]ul g]alihom minn bieb intern enumerat 1-10 b’entrata komuni mag]rufa b]ala Blokk 3;
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1994) [ L.S.261.17 G]axar flats o]ra g]andhom d]ul g]alihom minn bieb intern enumerat 1-10 b’entrata komuni mag]rufa b]ala Blokk 4;
+G]axar flats o]ra g]andhom d]ul g]alihom minn bieb intern enumerat 1-10 b’entrata komuni mag]rufa b]ala Blokk 4;
 
 }ames flats g]andhom d]ul g]alihom minn bieb intern enumerat 1-5 b’entrata komuni mag]rufa b]ala Blokk 5;
 

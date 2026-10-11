@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Environmental Management and Planning taħt il-patroċinju tal-Istitut tas-Sistemi Ambjentali (S.L. 327.283)
 
-MANAGEMENT AND PLANNING TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-ISTITUT TAS-SISTEMI AMBJENTALI [S.L.327.283
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.283**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER IN**
@@ -75,10 +69,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew fi Frar 2009 j
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
 
-*2*
-
-MANAGEMENT AND PLANNING TAĦT IL-PATROĊINJU [S.L.327.283 TAL-ISTITUT TAS-SISTEMI AMBJENTALI
-
 ## 4. Tul tal-kors.
 
 Il-kors għandu jinfirex fuq erba semestri ta’ studju fuq bażi full-time jew l-ekwivalenti fi studju fuq bażi part-time.
@@ -121,11 +111,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk fuq bażi part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew -
 
-MANAGEMENT AND PLANNING TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-ISTITUT TAS-SISTEMI AMBJENTALI [S.L.327.283 (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew
+(a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew
 
 (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

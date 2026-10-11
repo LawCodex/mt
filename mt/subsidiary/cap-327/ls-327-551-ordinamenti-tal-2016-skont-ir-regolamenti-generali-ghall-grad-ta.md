@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti tal-2016 skont ir-Regolamenti Ġenerali għall-Grad ta’ Master of Science - M.Sc. - taħt il-patroċinju tal-Istitut għat-Tekonoloġiji Aerospazjali (S.L. 327.551)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-GĦAT-TEKNOLOĠIJI AEROSPAZJALI [L.S.327.551
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.551**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -67,12 +61,6 @@ Il-kors għandu jkun offrut fi kwalunkwe qasam ta’ studju li jaqa’ taħt ir-
 
 (3) L-applikanti li l-ewwel grad tagħhom kien miksub iktar minn għaxar snin qabel il-reġistrazzjoni għall-kors jistgħu jitħallew jidħlu wkoll sakemm li jipproduċu evidenza biżżejjed tal-kompetenza tagħhom biex isegwu l-kors bi profitt.
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*2*
-
-[L.S.327.551 GĦAT-TEKNOLOĠIJI AEROSPAZJALI
-
 ## 5. Tul tal-kors.
 
 Il-Kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew l-ekwivalenti fi studju fuq bażi part-time.
@@ -109,11 +97,7 @@ Il-valutazzjoni tat-taqsimiet studju mgħallma għandhom ikunu saru sal-aħħar 
 
 (5) Il-Panil ta’ Superviżjoni għandhom perjodikament jinformaw lill-Bord, bil-miktub, dwar il-livell ġenerali milħuq minn kull student. Dawn il-pariri jistgħu jinkludu rakkomandazzjonijiet li jew (a) jiġi estiż il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*3*
-
-GĦAT-TEKNOLOĠIJI AEROSPAZJALI [L.S.327.551 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
+(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 

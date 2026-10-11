@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tiġdid ta Kiri ta Raba"
-identifier: "S.L. 199.1"
+identifier: "S.L. 199.01"
 eli: "https://legislation.mt/eli/sl/199.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/199.1/20211026/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tiġdid ta Kiri ta Raba (S.L. 199.1)
+# Regolamenti dwar it-Tiġdid ta Kiri ta Raba (S.L. 199.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 199.01**
 

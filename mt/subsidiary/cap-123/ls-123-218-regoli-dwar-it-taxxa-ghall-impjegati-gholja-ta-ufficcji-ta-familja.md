@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar it-Taxxa għall-Impjegati Għolja ta’ Uffiċċji ta’ Familja, Back Offices u Operat ta’ Amministrazzjoni tat-Teżor (S.L. 123.218)
 
-FAMILJA, BACK OFFICES U OPERAT TA’
-
-*1*
-
-AMMINISTRAZZJONI TAT-TEŻOR [L.S.123.218
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.218**
 
 **REGOLI DWAR IT-TAXXA GĦALL-IMPJEGATI**
@@ -58,12 +52,6 @@ F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’o�
 
 \* Dawn ir-regoli għandhom japplikaw b’effett mis-sena ta’ stima 2026. Vide Artikolu 1(2) tal- Avviż Legali 250 tal-2025.
 
-**FAMILJA, BACK OFFICES U OPERAT TA’**
-
-**AMMINISTRAZZJONI TAT-TEŻOR**
-
-*[L.S. 123.218 2*
-
 "kariga eliġibbli" tfisser impjieg jew kariga elenkati fl- Iskeda;
 
 "Kummissarju" tfisser il-Kummissarju tat-Taxxa u d- Dwana;
@@ -88,13 +76,7 @@ F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’o�
 
 ## 3. Kuntratti kwalifikanti u karigi eliġibbli.
 
-(1) Income minn kuntratt ta’ impjieg kwalifikanti li jikkwalifika għall-finijiet ta’ dawn ir-regoli meta jiġi riċevut minn benefiċjarju u jikkonsisti f’income soġġett għat-taxxa skont l-artikolu 4(1)(b) tal-Att, eskluż il-valur annwali ta’ xi benefiċċji addizzjonali, ta’ FAMILJA, BACK OFFICES U OPERAT TA’
-
-*3*
-
-AMMINISTRAZZJONI TAT-TEŻOR [L.S.123.218
-
-minimu ta’ ħamsa u sittin elf euro (€65,000) u li jikkonsisti f’emolumenti minn kariga eliġibbli:
+(1) Income minn kuntratt ta’ impjieg kwalifikanti li jikkwalifika għall-finijiet ta’ dawn ir-regoli meta jiġi riċevut minn benefiċjarju u jikkonsisti f’income soġġett għat-taxxa skont l-artikolu 4(1)(b) tal-Att, eskluż il-valur annwali ta’ xi benefiċċji addizzjonali, ta’ minimu ta’ ħamsa u sittin elf euro (€65,000) u li jikkonsisti f’emolumenti minn kariga eliġibbli:
 
 Iżda l-imsemmi minimu ta’ ħamsa u sittin elf euro (€65,000) għandu jiġi aġġustat b’żieda ta’ għaxart elf euro (€10,000) kull ħames (5) snin b’effett mis-sena sussegwenti tas-sena li fiha jidħlu fis-seħħ dawn ir-regoli.
 
@@ -118,13 +100,7 @@ Iżda l-benefiċjarju ma għandux ikollu l-income imsemmi fl-artikolu 4(1)(a) u 
 
 (e) ma jkunx indivdwu li jkun ibbenefika skont l-artikolu 6 tal-Att;
 
-(f) huwa jiżvela b’mod sħiħ għall-finijiet ta’ taxxa u jiddikjara emolumenti li huwa jkun irċieva fir-rigward ta’ income minn kuntratt ta’ impjieg kwalifikanti u kull income FAMILJA, BACK OFFICES U OPERAT TA’
-
-*4*
-
-[L.S. 123.218 AMMINISTRAZZJONI TAT-TEŻOR
-
-riċevut minn persuna relatata mal-prinċipal tiegħu fir-rigward ta’ attivatijiet li sostanzjalment ikun derivat mill-impjieg kopert mill-kuntratt ta’ impjieg kwalifikanti kif inhuma taxxabbli f’Malta;
+(f) huwa jiżvela b’mod sħiħ għall-finijiet ta’ taxxa u jiddikjara emolumenti li huwa jkun irċieva fir-rigward ta’ income minn kuntratt ta’ impjieg kwalifikanti u kull income riċevut minn persuna relatata mal-prinċipal tiegħu fir-rigward ta’ attivatijiet li sostanzjalment ikun derivat mill-impjieg kopert mill-kuntratt ta’ impjieg kwalifikanti kif inhuma taxxabbli f’Malta;
 
 (g) iġib prova għas-sodisfazzjon tal-awtorità kompetenti li huwa jwettaq attivitajiet ta’ kariga eliġibbli;
 
@@ -150,13 +126,7 @@ Iżda tali applikazzjoni tista’ ssir bejn l-1 ta’ Jannar 2025 u l-31 ta’ D
 
 Iżda wkoll l-ebda tali applikazzjoni ma għandha tiġi aċċettata mill-awtorità kompetenti wara l-31 ta’ Diċembru 2035.
 
-(2) Tali applikazzjoni għandha tiġi sottomessa lill-awtorità FAMILJA, BACK OFFICES U OPERAT TA’
-
-*5*
-
-AMMINISTRAZZJONI TAT-TEŻOR [L.S.123.218
-
-kompetenti li għandha tipproċessa l-applikazzjoni u toħroġ deċiżjoni formali ta’ eliġibbilità taħt dawn ir-regoli u l-artikolu 56(21) tal-Att jew ċaħda tal-applikazzjoni, skont il-każ, fi żmien disgħin (90) jum minn meta tirċievi l-applikazzjoni msemmija b’tali mod li l- Kummissarju għandu jistabbilixxi.
+(2) Tali applikazzjoni għandha tiġi sottomessa lill-awtorità kompetenti li għandha tipproċessa l-applikazzjoni u toħroġ deċiżjoni formali ta’ eliġibbilità taħt dawn ir-regoli u l-artikolu 56(21) tal-Att jew ċaħda tal-applikazzjoni, skont il-każ, fi żmien disgħin (90) jum minn meta tirċievi l-applikazzjoni msemmija b’tali mod li l- Kummissarju għandu jistabbilixxi.
 
 (3) Għall-fini tal-ipproċessar ta’ applikazzjoni skont dawn ir-regoli, l-awtorità kompetenti tista’ teħtieġ lill-applikant li jipproduċi, fiż-żmien indikat minnha f’dik it-talba, tali informazzjoni u dokumenti ulterjuri li hija tista’ tqis li jkunu meħtieġa, inklużi ċertifikazzjonijiet u dikjarazzjonijiet tal-prinċipal ta’ tali individwu. Meta ssir tali talba, il-perjodu ta’ disgħin (90) jum imsemmi fis-subregola (2) għandu jibda mid-data tal-wasla tal-informazzjoni mitluba.
 
@@ -174,13 +144,7 @@ Iżda tali għażla disponibbli ma tistax tiġi eżerċitata fir-rigward ta’ x
 
 (2) L-imsemmija għażla għandha tiġi eżerċitata permezz ta’ dikjarazzjoni ffirmata mill-benefiċjarju u kontrofirmata mill-awtorità kompetenti li ssir fuq dik il-formola disponibbli għall-pubbliku fuq is-sit elettroniku appositu jew b’dak il-mod li l-Kummissarju jista’ jeħtieġ. Tali dikjarazzjoni għandha tispeċifika s-snin ta’ stima li fir-rigward tagħhom huwa relatat l-eżerċizzju tal-għażla.
 
-(3) L-imsemmija għażla ma għandhiex titqies li tkun ġiet validament eżerċitata kemm-il darba l-income li tkun tapplika għalih ma jkunx ġie dikjarat b’mod sħiħ u b’mod korrett fil-prospett tat-taxxa FAMILJA, BACK OFFICES U OPERAT TA’
-
-*6*
-
-[L.S. 123.218 AMMINISTRAZZJONI TAT-TEŻOR
-
-u kemm-il darba l-imsemmija dikjarazzjoni u prospett tat-taxxa ma jiġux preżentati sa mhux aktar tard mid-data stabbilita għall-prospett tat-taxxa relattiv.
+(3) L-imsemmija għażla ma għandhiex titqies li tkun ġiet validament eżerċitata kemm-il darba l-income li tkun tapplika għalih ma jkunx ġie dikjarat b’mod sħiħ u b’mod korrett fil-prospett tat-taxxa u kemm-il darba l-imsemmija dikjarazzjoni u prospett tat-taxxa ma jiġux preżentati sa mhux aktar tard mid-data stabbilita għall-prospett tat-taxxa relattiv.
 
 ## 7. Perjodu ta’ żmien li matulu japplikaw il-benefiċċji.
 
@@ -204,13 +168,7 @@ Iżda wkoll ir-rata ta’ ħmistax fil-mija (15%) għandha tapplika mingħajr il
 
 ## 9. Ammont massimu ta’ emolumenti li jistgħu jibbenefikaw taħt dawn ir-regoli.
 
-Meta individwu jeżerċita l-għażla disponibbli taħt l-artikolu 56(21) tal-Att fir-rigward ta’ sena ta’ stima, ir-rata ta’ ħmistax fil-mija (15%) għandha tapplika fuq ammont ta’ emolumenti pagabbli li ma jeċċedux seba’ miljun euro (€7,000,000). Kwalunkwe FAMILJA, BACK OFFICES U OPERAT TA’
-
-*7*
-
-AMMINISTRAZZJONI TAT-TEŻOR [L.S.123.218
-
-emolumenti li jitħallsu iżjed mill-imsemmi ammont ta’ seba’ miljun euro (€7,000,000) għandu jikkostitwixxi income li jifdal għall-finijiet tal-paragrafu (a) tal-proviso tal-artikolu 56(21) tal-Att u konsegwentement, it-taxxa fuq dak l-income li jifdal għandha tiġi kalkolata bir-rata jew rati li kienu jkunu applikabbli għal tali income li jifdal li kieku l-għażla ma ġietx eżerċitata.
+Meta individwu jeżerċita l-għażla disponibbli taħt l-artikolu 56(21) tal-Att fir-rigward ta’ sena ta’ stima, ir-rata ta’ ħmistax fil-mija (15%) għandha tapplika fuq ammont ta’ emolumenti pagabbli li ma jeċċedux seba’ miljun euro (€7,000,000). Kwalunkwe emolumenti li jitħallsu iżjed mill-imsemmi ammont ta’ seba’ miljun euro (€7,000,000) għandu jikkostitwixxi income li jifdal għall-finijiet tal-paragrafu (a) tal-proviso tal-artikolu 56(21) tal-Att u konsegwentement, it-taxxa fuq dak l-income li jifdal għandha tiġi kalkolata bir-rata jew rati li kienu jkunu applikabbli għal tali income li jifdal li kieku l-għażla ma ġietx eżerċitata.
 
 ## 10. Setgħa li tintalab informazzjoni.
 
@@ -225,12 +183,6 @@ emolumenti li jitħallsu iżjed mill-imsemmi ammont ta’ seba’ miljun euro (�
 *       Kap. 372.*
 
 (2) Persuna li ma tkunx taqbel ma’ xi ordni li tiġi notifikata lilha skont is-subregola (1) għandu jkollha l-istess drittijiet li toġġezzjona għal tali ordni u li tappella minn deċiżjoni tal- Kummissarju billi tiċħad dik l-oġġezzjoni bħallikieku dik l-ordni kienet stima maħruġa skont l-Att dwar l-Amministrazzjoni tat-Taxxa, u għandhom japplikaw mutatis mutandis id-dispożizzjonijiet rilevanti ta’ dak l-Att dwar l-oġġezzjonijiet u l-appelli.
-
-**FAMILJA, BACK OFFICES U OPERAT TA’**
-
-**AMMINISTRAZZJONI TAT-TEŻOR**
-
-*[L.S. 123.218 8*
 
 SKEDA
 
@@ -270,13 +222,7 @@ Il-karigi eliġibbli għandhom jinżammu mill-kumpaniji jew impriżi oħra li ġ
 
 *     L.S. 370.02.*
 
-(ii) maniġers ta’ fondi stabbiliti f’Malta li huma eżentati mir-rekwiżit għal liċenzja ta’ servizzi ta’ investiment skont ir-regolament 3(1) (t) tar-Regolamenti ta’ Eżenzjoni għall-Att dwar Servizzi ta’ Investiment, sal-punt li l-PIF notifikat li jimmaniġġjaw ikun vettura ta’ uffiċċju ta’ familja li jinvesti l-ġid privat tal-investituri FAMILJA, BACK OFFICES U OPERAT TA’
-
-*9*
-
-AMMINISTRAZZJONI TAT-TEŻOR [L.S.123.218
-
-mingħajr ma jiġbor kapital estern;
+(ii) maniġers ta’ fondi stabbiliti f’Malta li huma eżentati mir-rekwiżit għal liċenzja ta’ servizzi ta’ investiment skont ir-regolament 3(1) (t) tar-Regolamenti ta’ Eżenzjoni għall-Att dwar Servizzi ta’ Investiment, sal-punt li l-PIF notifikat li jimmaniġġjaw ikun vettura ta’ uffiċċju ta’ familja li jinvesti l-ġid privat tal-investituri mingħajr ma jiġbor kapital estern;
 
 *       L.S. 370.02.*
 

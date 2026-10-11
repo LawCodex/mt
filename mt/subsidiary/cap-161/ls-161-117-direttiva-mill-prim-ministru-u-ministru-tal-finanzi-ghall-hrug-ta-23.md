@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ €23,293,733.99 5.2% Stock tal-Gvern ta’ Malta 2020 (L-Ewwel Ħruġ) (S.L. 161.117)
 
-ĦRUĠ TA’ €23,293,733.99 5.2%
-
-*1*
-
-STOCK TAL-GVERN TA’ MALTA (L-EWWEL ĦRUĠ) [L.S.161.117
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.117**
 
 **DIRETTIVA MILL-PRIM MINISTRU U MINISTRU**

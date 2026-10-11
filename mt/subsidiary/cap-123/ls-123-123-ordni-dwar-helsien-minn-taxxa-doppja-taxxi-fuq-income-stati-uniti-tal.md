@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq Income) (Stati Uniti tal-Amerika) (S.L. 123.123)
 
-*1*
-
-(STATI UNITI TAL-AMERIKA) [L.S.123.123
-
 **LEĀISLAZZJONI SUSSIDJARJA 123.123**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
@@ -46,8 +42,6 @@ B’dan qiegћed jiāi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranāamenti gћandu jkollhom effett;
 
 (c) lli l-Ftehim beda jseћћ fit-23 ta’ Novembru, 2010.
-
-2 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
 
 ## SKEDA
 
@@ -99,8 +93,6 @@ b) Gћall-finijiet ta’ dan il-paragrafu "miŜura" tfisser xi liāi, regolament
 
 Il-provvedimenti tal-paragrafu 4 m’gћandhomx jolqtu:
 
-(STATI UNITI TAL-AMERIKA) [L.S.123.123 3
-
 a) il-benefiëëji mogћtija minn Stat Kontraenti taћt il-paragrafu 2 tal-Artikolu 9 (ImpriŜi Assoëjati), paragrafi 1 b), 2, u 5 tal-Artikolu 17 (Pensjonijiet, Sigurtà Soëjali, Renti, Manteniment, u Gћajnuna dwar it-Tfal), u l-Artikoli 18 (Fondi gћall-Pensjonijiet), 23 (Ħelsien minn Taxxa Doppja), 24 (Ebda Diskriminazzjoni), u 25 (Proëedura ta’ Ftehim Reëiproku); u
 
 b) il-benefiëëji mogћtija minn Stat Kontraenti taћt l-Artikoli 19 (Servizz tal- Gvern), 20 (Studenti u Apprendisti), u 27 (Membri ta’ Missjonijiet Diplomatiëi u Karigi Konsulari), lil individwi li la huma ëittadini ta’ dak l- Istat, lanqas ma āew ammessi biex ikollhom residenza permanenti f’dak l- Istat.
@@ -135,11 +127,7 @@ a) il-fraŜi "persuna" tinkludi individwu, patrimonju, trust, soëjetà, kumpann
 
 b) il-fraŜi "kumpannija" tfisser kull korp magћqud jew kull enti li jkun ittrattat bћala korp magћqud gћal skopijiet ta’ taxxa kif hemm fil-liāijiet tal-istat fejn ikun organizzat;
 
-ë) il-fraŜi "impriŜa ta’ Stat Kontraenti" u "impriŜa tal-Istat Kontraenti l-ieћor" ifissru rispettivament impriŜa āestita minn residenti ta’ Stat Kontraenti, u impriŜa āestita minn residenti tal-Istat Kontraenti l-ieћor; il-fraŜijiet jinkludu wkoll impriŜa āestita minn residenti ta’ Stat Kontraenti permezz ta’ enti li tkun ittrattata bћala fiskalment trasparenti f’dak l-Istat [L.S.123.123 (STATI UNITI TAL-AMERIKA)
-
-Kontraenti;
-
-*4*
+ë) il-fraŜi "impriŜa ta’ Stat Kontraenti" u "impriŜa tal-Istat Kontraenti l-ieћor" ifissru rispettivament impriŜa āestita minn residenti ta’ Stat Kontraenti, u impriŜa āestita minn residenti tal-Istat Kontraenti l-ieћor; il-fraŜijiet jinkludu wkoll impriŜa āestita minn residenti ta’ Stat Kontraenti permezz ta’ enti li tkun ittrattata bћala fiskalment trasparenti f’dak l-Istat Kontraenti;
 
 *d)*
 
@@ -191,9 +179,7 @@ B) biex jinqala’ income gћall-benefiëëju ta’ persuna waћda jew ta’ akt
 
 *\2.*
 
-Gћar-rigward tal-applikazzjoni tal-Ftehim f’xi Ŝmien minn Stat Kontraenti fraŜi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieā (STATI UNITI TAL-AMERIKA) [L.S.123.123 5
-
-xort’oћra, jew l-awtoritajiet kompetenti ma jaqblux dwar tifsira komuni konformi mal-provvedimenti tal-Artikolu 25 (Proëedura ta’ Ftehim Reëiproku), it-tifsira mogћtija lilha f’dak il-waqt taћt il-liāi ta’ dak l-Istat gћall-finijiet tat-taxxi li dwarhom ikun japplika l- Ftehim, hekk li tifsira taћt il-liāijiet tat-taxxa applikabbli ta’ dak l-Istat tkun tipprevali fuq tifsira mogћtija lill-fraŜi taћt liāijiet oћra ta’ dak l-Istat.
+Gћar-rigward tal-applikazzjoni tal-Ftehim f’xi Ŝmien minn Stat Kontraenti fraŜi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieā xort’oћra, jew l-awtoritajiet kompetenti ma jaqblux dwar tifsira komuni konformi mal-provvedimenti tal-Artikolu 25 (Proëedura ta’ Ftehim Reëiproku), it-tifsira mogћtija lilha f’dak il-waqt taћt il-liāi ta’ dak l-Istat gћall-finijiet tat-taxxi li dwarhom ikun japplika l- Ftehim, hekk li tifsira taћt il-liāijiet tat-taxxa applikabbli ta’ dak l-Istat tkun tipprevali fuq tifsira mogћtija lill-fraŜi taћt liāijiet oћra ta’ dak l-Istat.
 
 **Artikolu 4**
 
@@ -218,8 +204,6 @@ b) jekk l-Istat li fih huwa jkollu ë-ëentru ta’ interessi vitali ma jkunx ji
 ë) jekk huwa soltu jirrisjedi fiŜ-Ŝewā Stati, jew f’ebda wieħed minnhom, huwa gћandu jitqies li jkun residenti biss tal-Istat li jkun nazzjonali tiegћu; d) jekk huwa jkun nazzjonali taŜ-Ŝewg Stati, jew tal-ebda wiehed minnhom, l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom iћabirku biex jiddeëiedu l-kaŜ bi qbil bejnithom.
 
 \4. Meta minћabba fil-provvedimenti tal-paragrafu 1 kumpannija tkun residenti taŜ- Ŝewā Stati Kontraenti, allura jekk din tkun inlorporata taћt il-liāijiet ta’ wieћed mill- Istati Kontraenti jew ta’ xi sotto-diviŜjoni politika tiegћu, iŜda mhux taћt il-liāijiet tal- Istati Kontraenti jew ta’ xi sotto-diviŜjoni politika tiegћu, dik il-kumpannija gћandha titqies li tkun residenti tal-Istat Kontraenti l-ewwel imsemmi. Fil-kaŜijiet l-oћra kollha li jkunu jinvolvu kumpanniji residenti doppji, l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom iћabirku biex jistabbilixxu l-mod li bih gћandu japplika l-Ftehim gћal dik il-kumpannija. Jekk l-awtoritajiet kompetenti ma jaslux biex jiftiehmu dwar dan, dik il-kumpannija ma tiāix ittrattata bћala residenti ta’ xi wieћed jew l-ieћor mill- Istati Kontraenti gћall-finijiet li tkun tista’ titlob xi benefiëëji provduti minn dan il- Ftehim.
-
-6 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
 
 \5. Meta minћabba fil-provvedimenti tal-paragrafi 1 u 2 ta’ dan l-Artikolu persuna li ma tkunx individwu jew kumpannija tkun residenti taŜ-Ŝewg Stati Kontraenti, l-awtoritajiet kompetenti tal-Istati Kontraenti gћanhom bi qbil bejnithom iћabirku biex jistabbilixxu l-mod kif dan il-Ftehim gћandu jkun japplika gћal dik il-persuna.
 
@@ -263,9 +247,7 @@ e) iŜ-Ŝamma ta’ post fiss ta’ negozju bl-iskop uniku li tiāi āestita, g�
 
 ## 6.
 
-ImpriŜa ma gћandhiex titqies li jkollha stabbiliment permanenti fi Stat (STATI UNITI TAL-AMERIKA) [L.S.123.123 7
-
-Kontraenti biss minћabba li tkun tiāāestixxi negozju f’dak l-Istat permezz ta’ sensal, aāent b’kummissjoni āenerali, jew kull aāent ieћor bi status indipendenti, sakemm dawk il-persuni jkunu qegћdin jaāixxu fil-kors ordinarju tan-negozju tagћhom bћala aāenti indipendenti.
+ImpriŜa ma gћandhiex titqies li jkollha stabbiliment permanenti fi Stat Kontraenti biss minћabba li tkun tiāāestixxi negozju f’dak l-Istat permezz ta’ sensal, aāent b’kummissjoni āenerali, jew kull aāent ieћor bi status indipendenti, sakemm dawk il-persuni jkunu qegћdin jaāixxu fil-kors ordinarju tan-negozju tagћhom bћala aāenti indipendenti.
 
 ## 7.
 
@@ -291,9 +273,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tikkontrolla jew t
 
 \1. Il-profitti ta’ impriŜa ta’ Stat Kontraenti gћandhom jiāu intaxxati biss f’dak l- Istat kemm-il darba l-impriŜa ma tkunx tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk. Jekk l-impriŜa tkun qegћda tmexxi negozju kif hawn aktar qabel imsemmi, il-profitti tal-impriŜa jistgћu jiāu intaxxati fl-Istat l-ieћor iŜda biss gћal dik il-parti minnhom daqskemm tkun attribwibbli lil dak l-istabbiliment permanenti.
 
-\2. SBla ћsara gћall-provvedimenti tal-paragrafu 3, meta impriŜa ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun qiegћed hemmhekk, gћandhom f’kull Stat Kontraenti jiāu attribwiti lil dak l-istabbiliment permanenti l-profitti li kien ikun mistenni jagћmel kieku kien impriŜa distinta u indipendenti li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet jew oћrajn bћalhom. Gћal dan l-gћan, il-profitti li gћandhom jiāu attribwiti lill-istabbiliment permanenti gћandhom ikunu jinkludu biss il-profitti miksuba 8 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
-
-mill-kapital attiv uŜat, ir-riskji li jittieћdu u l-attivitajiet li jitwettqu mill-istabbiliment permanenti.
+\2. SBla ћsara gћall-provvedimenti tal-paragrafu 3, meta impriŜa ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun qiegћed hemmhekk, gћandhom f’kull Stat Kontraenti jiāu attribwiti lil dak l-istabbiliment permanenti l-profitti li kien ikun mistenni jagћmel kieku kien impriŜa distinta u indipendenti li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet jew oћrajn bћalhom. Gћal dan l-gћan, il-profitti li gћandhom jiāu attribwiti lill-istabbiliment permanenti gћandhom ikunu jinkludu biss il-profitti miksuba mill-kapital attiv uŜat, ir-riskji li jittieћdu u l-attivitajiet li jitwettqu mill-istabbiliment permanenti.
 
 \3. Sabiex jiāu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis dawk l-ispejjeŜ li jsiru gћall-gћanijiet tal-istabbiliment permanenti, inkluŜi l-ispejjeŜ eŜekuttivi u amministrattivi āenerali li jkunu saru, sew fl- Istat li fih ikun jinsab l-istabbiliment permanenti sew band’oћra.
 
@@ -325,9 +305,7 @@ Il-profitti li jinkisbu minn impriŜa mit-trasport intern ta’ proprjetà jew p
 
 \3. Il-profitti ta’ impriŜa ta’ Stat Kontraenti li jinkisbu mill-uŜu, manutenzjoni, jew kiri ta’ containers (inkluŜi trailers, braken, u tagћmir li gћandu x’jaqsam mat-trasport ta’ containers) gћandu jiāi intaxxat biss f’dak l-Istat Kontraenti, ћlief li dan isir daqstant kemm dawk il-containers jintuŜaw gћat-trasport unikament bejn postijiet āewwa l-Istat Kontraenti l-ieћor.
 
-\4. Il-provvedimenti tal-paragrafi 1 u 3 gћandhom ikunu wkoll japplikaw gћal profitti miksubin mill-parteëipazzjoni f’pool, negozju bi shab, jew agenzija b’operat (STATI UNITI TAL-AMERIKA) [L.S.123.123 9
-
-internazzjonali.
+\4. Il-provvedimenti tal-paragrafi 1 u 3 gћandhom ikunu wkoll japplikaw gћal profitti miksubin mill-parteëipazzjoni f’pool, negozju bi shab, jew agenzija b’operat internazzjonali.
 
 **Artikolu 9**
 
@@ -357,8 +335,6 @@ ii) 15 fil-mija tal-ammont kollu u sћiћ tad-dividendi fil-kaŜijiet l-oћra ko
 
 b) jekk id-dividendi jitћallsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Istati Uniti li jkun is-sid benefiëjarju tad-dividendi, it-taxxa imposta minn Malta fuq l-ammont kollu u sћiћ tad-dividendi m’gћandhiex tkun iŜjed minn dik li titћallas fuq il-profitti li minnhom jitћallsu d-dividendi.
 
-10 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
-
 Dan il-paragrafu ma jolqotx l-intaxxar tal- kumpannija gћar-rigward tal-profitti li minnhom jitћallsu d-dividendi.
 
 \3. Minkejja l-paragrafu 2, id-dividendi ma gћandhomx jiāu intaxxati fl-Istat Kontraenti li l-kumpannija li tkun qegћda tћallas id-dividendi tkun residenti fih jekk: a) is-sid benefiëjarju tad-dividendi jkun fond ta’ pensjoni li jkun residenti fl- Istat Kontraenti l-ieћor; u
@@ -381,9 +357,7 @@ b) Gћall-finijiet ta’ dan il-paragrafu, REIT gћandu jiāi "diversifikat" jek
 
 ## 7.
 
-Stat Kontraenti ma jistax jimponi xi taxxa fuq id-dividendi mћallsa minn residenti tal-Istat l-ieћor, ћlief sakemm id-dividendi jitћallsu lil residenti tal-Istat l-ewwel imsemmi jew id-dividendi jkunu attribwibbli lil stabbiliment permanenti, lanqas ma jista’ jimponi xi taxxa fuq il-profitti mhux imqassma ta’ xi korporazzjoni, ћlief kif hemm provdut fil-paragrafu 8, ukoll jekk id-dividendi mћallsa jew il-profitti mhux distribwiti jkunu gћalkollox jew f’parti minnhom jikkonsistu fi profitti jew income li (STATI UNITI TAL-AMERIKA) [L.S.123.123 11
-
-jinqala’ f’dak l-Istat.
+Stat Kontraenti ma jistax jimponi xi taxxa fuq id-dividendi mћallsa minn residenti tal-Istat l-ieћor, ћlief sakemm id-dividendi jitћallsu lil residenti tal-Istat l-ewwel imsemmi jew id-dividendi jkunu attribwibbli lil stabbiliment permanenti, lanqas ma jista’ jimponi xi taxxa fuq il-profitti mhux imqassma ta’ xi korporazzjoni, ћlief kif hemm provdut fil-paragrafu 8, ukoll jekk id-dividendi mћallsa jew il-profitti mhux distribwiti jkunu gћalkollox jew f’parti minnhom jikkonsistu fi profitti jew income li jinqala’ f’dak l-Istat.
 
 \8. a) Kumpannija li tkun residenti ta’ wieћed mill-Istati u li jkollha stabbiliment permanenti fl-Istat l-ieћor jew li tkun soāāetta gћat-taxxa fl-Istat l-ieћor fuq baŜi netta fuq l-income tagћha li jista’ jiāi intaxxat fl-Istat l-ieћor taћt l- Artikolu 6 (Qligћ minn Proprjetà Immobbli) jew taћt il-paragrafu 1 tal- Artikolu 13 (Qligћ) tista’ tkun soāāetta f’dak l-Istat l-ieћor gћal taxxa b’Ŝjieda mat-taxxa permessa taћt il-provvedimenti l-oћra ta’ dan il-Ftehim. b) Tista’, madankollu, dik it-taxxa tiāi imposta:
 
@@ -408,8 +382,6 @@ b) mgћax li jkun inkluŜjoni ta’ eëëess gћar-rigward ta’ mgћax residwu 
 \4. Il-fraŜi "mgћax" kif tintuŜa f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le, u sew jekk ikollhomx dritt li jipparteëipaw fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew debentures, inkluŜi premiums u premjijiet relatati ma dawk it-titoli, bonds jew debentures, u kull income ieћor li jkun assoāāettat gћall-istess trattament bћal income minn flus mislufa taћt il-liāi tat-taxxa tal-Istat Kontraenti fejn jinqala’ dak l-income. Income imsemmi fl-Artikolu 10 (Dividendi) u ћlasijiet ta’ penali gћal ћlas tardiv ma gћandhomx jitqiesu bћala mgћax gћall-finijiet ta’ dan il-Ftehim.
 
 \5. Il-provvedimenti tal-paragrafi 1, 2 u 3 ma gћandhomx japplikaw jekk is-sid benefiëjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl- Istat Kontraenti l-ieћor, li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti. F’kaŜ bћal dak gћandhom japplikaw il-provvedimenti tal-Artikolu 7 (Profitti minn Negozju).
-
-12 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
 
 \6. L-imgћax gћandu jitqies li jinqala’ fi Stat Kontraenti meta min iћallas ikun residenti ta’ dak l-Istat. Meta, madankollu, l-persuna li tkun qed tћallas l-imgћax, sew jekk dik il-persuna tkun residenti ta’ Stat Kontraenti sew jekk le, ikollha fi Stat Kontraenti stabbiliment permanenti li f’konnessjoni magћhom tkun inkisbet il-qagћda ta’ debitu li fuqu jitћallas l-imgћax, u dak l-imgћax jināarr minn dak l-istabbiliment permanenti, allura dak l-imgћax gћandu jitqies bћala li jinqala’ fl-Istat fejn ikun jinsab l-istabbiliment permanenti.
 
@@ -439,9 +411,7 @@ b) qligћ li jinkiseb mit-trasferiment ta’ proprjetà deskritta fis-subparagra
 
 \5. Ir-royalties gћandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta dawn jingћataw b’korrispettiv gћall-uŜu ta’, jew id-dritt li tintuŜa, proprjetà, informazzjoni jew esperjenza f’dak l-Istat.
 
-\6. Meta, minћabba fir-relazzjoni speëjali bejn min iћallas u s-sid benefiëjarju jew (STATI UNITI TAL-AMERIKA) [L.S.123.123 13
-
-bejniethom it-tnejn u xi persuna oћra, l-ammont tar-royalties, fil-kuntest ta’ x’ikun l-uŜu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iŜjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiëjarju fin-nuqqas ta’ dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-aħħar imsemmi. F’dak il-kaŜ il-parti Ŝejda tal-ћlasijiet gћandha tibqa’ taxxabbli taћt il-liāijiet ta’ kull Stat Kontraenti, wara li jitqiesu l-provvedimenti l-oћra tal-Ftehim.
+\6. Meta, minћabba fir-relazzjoni speëjali bejn min iћallas u s-sid benefiëjarju jew bejniethom it-tnejn u xi persuna oћra, l-ammont tar-royalties, fil-kuntest ta’ x’ikun l-uŜu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iŜjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiëjarju fin-nuqqas ta’ dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-aħħar imsemmi. F’dak il-kaŜ il-parti Ŝejda tal-ћlasijiet gћandha tibqa’ taxxabbli taћt il-liāijiet ta’ kull Stat Kontraenti, wara li jitqiesu l-provvedimenti l-oћra tal-Ftehim.
 
 **Artikolu 13**
 
@@ -473,9 +443,7 @@ ii) interess f’soëjetà jew fi trust sal-limitu li l-assi tas-soëjetà jew t
 
 **INCOME MINN IMPJIEG**
 
-\1. Bla ћsara gћall-provvedimenti tal-Artikoli 15 (Drittijiet tad-Diretturi), 17 (Pensjonijiet, Sigurtà Soëjali, Renti, Manteniment, u Gћajnuna dwar it-Tfal) u 19 (Servizz tal-Gvern), is-salarji, il-pagi u kull kumpens ieћor bћal dak li jinkisbu minn 14 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
-
-residenti ta’ Stat Kontraenti dwar xi impjieg gћandhom jiāu intaxxati biss f’dak l-Istat kemm-il darba l-impjieg ma jiāix eŜerëitat fl-Istat Kontraenti l-ieћor. Jekk l-impjieg jiāi hekk eŜerëitat, dak il-kumpens li jinkiseb minnu jista’ jiāi intaxxat f’dak Istat l-ieћor.
+\1. Bla ћsara gћall-provvedimenti tal-Artikoli 15 (Drittijiet tad-Diretturi), 17 (Pensjonijiet, Sigurtà Soëjali, Renti, Manteniment, u Gћajnuna dwar it-Tfal) u 19 (Servizz tal-Gvern), is-salarji, il-pagi u kull kumpens ieћor bћal dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impjieg gћandhom jiāu intaxxati biss f’dak l-Istat kemm-il darba l-impjieg ma jiāix eŜerëitat fl-Istat Kontraenti l-ieћor. Jekk l-impjieg jiāi hekk eŜerëitat, dak il-kumpens li jinkiseb minnu jista’ jiāi intaxxat f’dak Istat l-ieћor.
 
 \2. Minkejja l-provvedimenti tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Stat Kontraenti dwar xi impjieg li jkun eŜerëitat fl-Istat Kontraenti l-ieћor gћandu jiāi intaxxat biss fl-Istat l-ewwel imsemmi jekk:
 
@@ -507,9 +475,7 @@ PENSJONIJIET, SIGURTA` SOêJALI, RENTI, MANTENIMENT,
 
 **U GĦAJNUNA DWAR IT-TFAL**
 
-\1. a) Il-pensjonijiet u kull kumpens ieћor bћalhom li residenti ta’ Stat Kontraenti (STATI UNITI TAL-AMERIKA) [L.S.123.123 15
-
-jkun sid benefiëjarju tagћhom gћandhom jiāu intaxxati biss f’dak l-Istat; u. b) Minkejja s-subparagrafu a), l-ammont ta’ kull pensjoni jew rimunerazzjoni bћal dawk li jinqalgћu fi Stat Kontraenti li, meta jiāu riëevuti, ikunu eŜenti mit-taxxa f’dak l-Istat li kieku s-sid benefiëjarju kien residenti tiegћu gћandu jkun eŜenti mit-taxxa fl-Istat Kontraenti li s-sid benefiëjarju ikun residenti fih.
+\1. a) Il-pensjonijiet u kull kumpens ieћor bћalhom li residenti ta’ Stat Kontraenti jkun sid benefiëjarju tagћhom gћandhom jiāu intaxxati biss f’dak l-Istat; u. b) Minkejja s-subparagrafu a), l-ammont ta’ kull pensjoni jew rimunerazzjoni bћal dawk li jinqalgћu fi Stat Kontraenti li, meta jiāu riëevuti, ikunu eŜenti mit-taxxa f’dak l-Istat li kieku s-sid benefiëjarju kien residenti tiegћu gћandu jkun eŜenti mit-taxxa fl-Istat Kontraenti li s-sid benefiëjarju ikun residenti fih.
 
 \2. Minkejja l-provvedimenti tal-paragrafu 1, il-ћlasijiet li jsiru minn Stat Kontraenti taћt il-provvedimenti tas-sigurtà soëjali jew ta’ liāijiet simili ta’ dak l-Istat lil residenti tal-Istat Kontraenti l-ieћor jew lil ëittadin tal-Istati Uniti gћandhom jiāu intaxxati biss fl-Istat l-ewwel imsemmi.
 
@@ -534,8 +500,6 @@ Meta individwu li jkun residenti ta’ xi wieћed mill-Istati jkun membru jew be
 a) Salarji, pagi u kull rimunerazzjoni oћra bћal dawk, minbarra pensjoni, mћallsa lil xi individwu gћar-rigward ta’ servizzi mogћtijin lil Stat Kontraenti jew lil xi sottodiviŜjoni politika jew awtorità lokali tiegћu gћandhom, bla ћsara gћall-provvedimenti tas-subparagrafu b), jiāu intaxxati biss f’dak l-Istat;
 
 b) dik ir-rimunerazzjoni gћandha, madankollu, tiāi intaxxati biss fl-Istat Kontraenti l-ieћor jekk is-servizzi jingћataw f’dak l-Istat u l-individwu jkun residenti f’dak l-Istat u:
-
-16 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
 
 i) jkun ëittadin ta’ dak l-Istat; jew
 
@@ -562,8 +526,6 @@ b) dik il-pensjoni gћandha, madankollu, tiāi intaxxata biss fl-Istat Kontraent
 a) li jkun jinsab temporanjament fi Stat Kontraenti gћall-fini li jikseb it-taћriā meћtieā biex jikkwalifika bћala individwu li jista’ jeŜerëita xi professjoni jew xi speëjalità professjonali; jew
 
 b) li jkun jinsab temporanjament fi Stat Kontraenti bћala impjegat ta’, jew taћt kuntratt ma’, residenti tal-Istat Kontraenti l-ieћor, gћall-fini primarja li jikseb esperjenza teknika, professjonali, jew kummerëjali mingћand persuna li ma tkunx residenti tal-Istat Kontraenti l-ieћor (jew persuna relatata ma’ dak ir-residenti tal-Istat Kontraenti l-ieћor).
-
-(STATI UNITI TAL-AMERIKA) [L.S.123.123 17
 
 **Artikolu 21**
 
@@ -599,11 +561,7 @@ B) il-klassi prinëipali ta’ ishma tagћha (u kull klassi sproporzjonata ta’
 
 ii)
 
-A) mill-inqas 75 fil-mija ta’ kull klassi bћal dik ta’ ishma fil-kumpannija tkun tappartjeni direttament jew indirettament lil kumpanniji li jkollhom jedd gћal benefiëëji taћt il-klawsola i), sakemm fil-kaŜ ta’ sidien indiretti, kull sid intermedjarju ikun residenti tal-istess Stat [L.S.123.123 (STATI UNITI TAL-AMERIKA)
-
-Kontraenti li jkollu jedd gћal benefiëëji tal-Ftehim taћt din il-klawsola ii); u
-
-*18*
+A) mill-inqas 75 fil-mija ta’ kull klassi bћal dik ta’ ishma fil-kumpannija tkun tappartjeni direttament jew indirettament lil kumpanniji li jkollhom jedd gћal benefiëëji taћt il-klawsola i), sakemm fil-kaŜ ta’ sidien indiretti, kull sid intermedjarju ikun residenti tal-istess Stat Kontraenti li jkollu jedd gћal benefiëëji tal-Ftehim taћt din il-klawsola ii); u
 
 B) il-kumpannija tissodisfa l-ћtiāiet tal-klawsola ii) tas-subparagrafu f) ta’ dan il-paragrafu;
 
@@ -629,9 +587,7 @@ b) inqas minn 25 fil-mija tal-income kollu u sћiћ tal-kumpannija gћas-sena ta
 
 a) Residenti ta’ Stat Kontraenti ikollu jedd gћall-benefiëëji tal-Ftehim dwar xi element ta’ income miksub mill-Istat l-ieћor, minkejja jekk ir-residenti jkunx persuna kwalifikata, jekk:
 
-i) ir-residenti jkun qed jeŜerëita t-tmexxija attiva ta’ xi kummerë jew negozju fl-Istat l-ewwel imsemmi (li ma jkunx in-negozju li jintgћamlu jew jiāu maniāāati investimenti gћall-kont tar-residenti nfushom, kemm-il darba dawn l-attivitajiet jkunu attivitajiet bankarji jew ta’ assigurazzjoni li jitmexxew minn bank jew minn kumpannija tal-assigurazzjoni), u l-income miksub mill-Istat Kontraenti l-ieћor (STATI UNITI TAL-AMERIKA) [L.S.123.123 19
-
-jinkiseb f’konnessjoni ma’, jew huwa inëidentali gћal, dak il-kummerë jew negozju; u
+i) ir-residenti jkun qed jeŜerëita t-tmexxija attiva ta’ xi kummerë jew negozju fl-Istat l-ewwel imsemmi (li ma jkunx in-negozju li jintgћamlu jew jiāu maniāāati investimenti gћall-kont tar-residenti nfushom, kemm-il darba dawn l-attivitajiet jkunu attivitajiet bankarji jew ta’ assigurazzjoni li jitmexxew minn bank jew minn kumpannija tal-assigurazzjoni), u l-income miksub mill-Istat Kontraenti l-ieћor jinkiseb f’konnessjoni ma’, jew huwa inëidentali gћal, dak il-kummerë jew negozju; u
 
 ii) ir-residenti jkun jissodisfa l-ћtiāiet tal-klawsola ii) tas-subparagrafu f) tal-paragrafu 2.
 
@@ -642,8 +598,6 @@ c) Gћall-finijiet tal-applikazzjoni ta’ dan il-paragrafu, attivitajiet li jit
 \5. Minkejja l-provvedimenti preëedenti ta’ dan l-Artikolu, meta impriŜa ta’ Stat Kontraenti tikseb income mill-Istat Kontraenti l-ieћor, u dak l-income huwa attribwibbli gћal stabbiliment permanenti li dik l-impriŜa gћandha f’āurisdizzjoni terza, il-benefiëëji tat-taxxa li kieku xort’oћra japplikaw taћt il-provvedimenti l-oћra tal-Ftehim ma jkunux japplikaw gћal dak l-income jekk it-taxxa kombinata li attwalment titћallas dwar dak l-income fl-ewwel imsemmi Stat Kontraenti u fil-āurisdizzjoni terza jkun inqas minn 60 fil-mija tat-taxxa li kieku kienet titћallas fl-ewwel imsemmi Stat li kieku l-income inqala’ f’dak l-Istat Kontraenti mill-impriŜa u ma kienx attribwibbli lill-istabbiliment permanenti fil-āurisdizzjoni terza. Dawk id-dividendi, mgћaxijiet jew royalties li japplikaw gћalihom il-provvedimenti ta’ dan il-paragrafu jkunu soāāetti gћat-taxxa b’rata li ma tkunx teëëedi 15 fil-mija tal-ammont kollu u sћiћ tagћhom. Kull income ieћor li dwaru japplikaw il-provvedimenti ta’ dan il-paragrafu jkun soāāett gћat-taxxa taћt il-provvedimenti tal-liāi domestika tal-Istat Kontraenti l-ieћor, minkejja kull provvediment ieћor tal-Ftehim.
 
 \6. Persuna li tkun residenti ta’ xi wieћed mill-Istati Kontraenti, li ma jkollux jedd gћal x’uћud jew il-benefiëëji kollha ta’ dan il-Ftehim minћabba f’dak li hemm fil-paragrafi preëedenti, tista’, madankollu, tingћata l-benefiëëji ta’ dan il-Ftehim jekk l-awtorità kompetenti tal-Istat Kontraenti fejn jinqala’ l-income hekk tiddeëiedi.
-
-20 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
 
 \7. Meta taћt xi provvediment ta’ dan il-Ftehim income jew qligћ li jinqala’ f’xi wieћed mill-Istati Kontraenti jinћeles mit-taxxa f’dak l-Istat Kontraenti u, taћt il-liāi li tkun fis-seћћ fl-Istat Kontraenti l-ieћor, persuna, dwar dak l-income jew qligћ, tkun soāāetta gћat-taxxa b’riferenza gћall-ammont tiegћu li jitћallas lura jew li jiāi riëevut f’dak l-Istat Kontraenti l-ieћor u mhux b’riferenza gћall-ammont sћiћ tiegћu, allura l-ћelsien li jiāi permess taћt dan il-Ftehim fl-ewwel imsemmi Stat Kontraenti gћandu jkun japplika biss gћal daqstant mill-income jew qligћ daqskemm jiāi intaxxat fl-Istat Kontraenti l-ieћor.
 
@@ -667,9 +621,7 @@ d) Għall-finijiet ta’ dan il-paragrafu benefiëjarju ekwivalenti huwa residen
 
 A) ikollu jedd għall-benefiëëji kollha ta’ ftehim komprensiv dwar il-ħelsien mit-taxxa doppja bejn xi stat membru tal-Unjoni Ewropea jew ta’ stat ta’ śona Ekonomika Ewropea jew ta’ xi parti fil-Ftehim dwar il-Kummerë Ħieles tal-Amerika tat-Tramuntana (NAFTA) jew tal-Awstralja u l-Istat li minnu jintalbu l-benefiëëji ta’ dan il-Ftehim taħt provvedimenti li jkunu bħal dawk tas-subparagrafu a), is-subparagrafu b), klawsola i) tas-subparagrafu ë), is-subparagrafu d), jew is-subparagrafu e) tal-paragrafu 2 ta’ dan l-Artikolu, iŜda jekk dak il-Ftehim ma jkunx fih limitazzjoni komprensiva fuq l-Artikolu dwar il-benefiëëji, il-persuna tkun persuna kwalifikata taħt is-subparagrafu a), is-subparagrafu b), klawsola i) tas-subparagrafu ë), is-subparagrafu d), jew is-subparagrafu e) tal-paragrafu 2 ta’ dan l- Artikolu jekk dik il-persuna kienet residenti ta’ wieħed mill-Istati taħt l-Artikolu 14 (Residenti) ta’ dan il-Ftehim; u
 
-B) rigward income imsemmi fl-Artikoli 10 (Dividendi), 11 (Mgħax) jew 12 (Royalties) ta’ dan il-Ftehim, ikollu jedd taħt dak il-Ftehim għal (STATI UNITI TAL-AMERIKA) [L.S.123.123 21
-
-rata ta’ taxxa dwar il-klassi partikolari ta’ income li dwarha jkunu qegħdin jintalbu l-benefiëëji taħt il-Ftehim li mill-inqas ikun baxx daqs ir-rata li tapplika taħt dan il-Ftehim; jew
+B) rigward income imsemmi fl-Artikoli 10 (Dividendi), 11 (Mgħax) jew 12 (Royalties) ta’ dan il-Ftehim, ikollu jedd taħt dak il-Ftehim għal rata ta’ taxxa dwar il-klassi partikolari ta’ income li dwarha jkunu qegħdin jintalbu l-benefiëëji taħt il-Ftehim li mill-inqas ikun baxx daqs ir-rata li tapplika taħt dan il-Ftehim; jew
 
 ii) ikun residenti ta’ Stat Kontraenti li jkun persuna kwalifikata abbaŜi tas-subparagrafu a), is-subparagrafu b), klawsola i) tas-subparagrafu ë), is-subparagrafu d), jew is-subparagrafu e) tal-paragrafu 2 ta’ dan l-Artikolu;
 
@@ -693,8 +645,6 @@ a) meta, kif hemm fil-provvedimenti ta’ dan il-Ftehim, ikun hemm inkluŜ fi st
 
 b) meta kumpannija ta’ Malta tkun sid ta’ mill-inqas 10 fil-mija tal-jeddijiet ta’ votazzjoni ta’ kumpannija li tkun residenti tal-Istati Uniti u li minnha l-kumpannija ta’ Malta tkun tirëievi dividendi li jkunu inkluŜi fi stima ta’ Malta kif hemm fil-provvedimenti ta’ dan il-Ftehim, it-taxxa fuq l-income li titħallas jew li tināema’ favur l-Istati Uniti minn jew f’isem min iħallas dwar il-profitti li minnhom jitħallsu d-dividendi għandha, jekk dawk il-profitti jkunu inkluŜi fi stima ta’ Malta, titħalla bħala kreditu dwar it-taxxa ta’ Malta relattiva li titħallas fuqha.
 
-22 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
-
 \3. Għall-finijiet tal-applikazzjoni tal-paragrafu 1 ta’ dan l-Artikolu, element ta’ income kollu u sħiħ, kif stabbilit taħt il-liāijiet tal-Istati Uniti, miksub minn residenti tal- Istati Uniti li, taħt dan il-Ftehim, jista’ jiāi intaxxat f’Malta għandu jitqies bħala income minn għejjun f’Malta.
 
 \4. Meta ëittadin tal-Istati Uniti jkun residenti ta’ Malta:
@@ -715,9 +665,7 @@ c) bil-għan eskluŜiv li tinħeles it-taxxa doppja fl-Istati Uniti taħt is-sub
 
 \3. Il-provvedimenti ta-paragrafi 1 u 2 m’gћandhomx jiftiehmu bћala li jobbligaw lil Stat Kontraenti li jikkonëedi lil residenti tal-Istat Kontraenti l-ieћor allowances, ħelsien, u tnaqqis personali gћal finijiet ta’ taxxa minћabba fl-istatus ëivili jew ir-responsabbiltajiet familjari li jikkonëedi lir-residenti tiegћu.
 
-\4. Ħlief meta japplikaw l-provvedimenti tal-paragrafu 1 tal-Artikolu 9 (ImpriŜi Assoëjati), tal-paragrafu 7 tal-Artikolu 11 (Mgħax), jew tal-paragrafi 6 tal-Artikolu 12 (Royalties), mgћax, royalties u ћlasijiet oћra li jitћallsu minn residenti ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor gћandhom, gћall-fini li jiāu stabbiliti l-profitti taxxabbli tal-ewwel imsemmi residenti, jiāu mnaqqsa taћt l-istess kundizzjonijiet bћallikieku dawn kienu mћallsa lil residenti tal-ewwel imsemmi Stat. Bl-istess mod, kull (STATI UNITI TAL-AMERIKA) [L.S.123.123 23
-
-dejn ta’ residenti ta’ Stat Kontraenti lil residenti tal-ewwel imsemmi Stat għandu, bil-għan li jiāi stabbilit il-kapital taxxabbli tal-ewwel imsemmi residenti, ikun jista’ jitnaqqas taħt l-istess kundizzjonijiet bħallikieku dan sar lil residenti tal-ewwel imsemmi Stat.
+\4. Ħlief meta japplikaw l-provvedimenti tal-paragrafu 1 tal-Artikolu 9 (ImpriŜi Assoëjati), tal-paragrafu 7 tal-Artikolu 11 (Mgħax), jew tal-paragrafi 6 tal-Artikolu 12 (Royalties), mgћax, royalties u ћlasijiet oћra li jitћallsu minn residenti ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor gћandhom, gћall-fini li jiāu stabbiliti l-profitti taxxabbli tal-ewwel imsemmi residenti, jiāu mnaqqsa taћt l-istess kundizzjonijiet bћallikieku dawn kienu mћallsa lil residenti tal-ewwel imsemmi Stat. Bl-istess mod, kull dejn ta’ residenti ta’ Stat Kontraenti lil residenti tal-ewwel imsemmi Stat għandu, bil-għan li jiāi stabbilit il-kapital taxxabbli tal-ewwel imsemmi residenti, ikun jista’ jitnaqqas taħt l-istess kundizzjonijiet bħallikieku dan sar lil residenti tal-ewwel imsemmi Stat.
 
 \5. ImpriŜi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu proprjetà jew taћt il-kontroll, sew dirett sew mhux dirett, ta’ residenti wieħed jew iktar tal-Istat Kontraenti l-ieћor, ma jkunu assoāāettati fl-Istat l-ewwel imsemmi gћal ebda taxxa jew ebda ћtieāa konnessa ma’ dan li tkun xort’oћra jew ta’ iktar piŜ mit-taxxa u ħtiāiet konnessi li gћalihom ikunu jew jistgћu jkunu assoāāettati impriŜi simili oħra tal- Istat l-ewwel imsemmi.
 
@@ -747,8 +695,6 @@ ii) id-deskrizzjoni ta’ persuni;
 
 iii) l-applikazzjoni ta’ regoli dwar is-sorsi fir-rigward ta’ xi elementi ta’ income partikolari;
 
-24 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
-
 iv) it-tifsir mogħti lil xi fraŜi uŜata fil-Ftehim;
 
 v) s-sinkronizzazzjoni ta’ xi elementi ta’ income partikolari;
@@ -777,9 +723,7 @@ b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liāijiet jew
 
 ë) li jagћti informazzjoni li tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerë, jew professjoni jew proëess ta’ kummerë, jew informazzjoni, li meta tiāi Ŝvelata dan ikun imur kontra l-ordni pubbliku (ordre public).
 
-\4. Jekk tkun meћtieāa informazzjoni minn Stat Kontraenti kif hemm f’dan l- Artikolu, l-Istat Kontraenti l-ieћor gћandu juŜa l-mezzi li jkollu biex jiābor l-informazzjoni biex jikseb l-informazzjoni meћtieāa, ukoll jekk dak l-Isat l-ieћor jista’ ma jkunx jeћtieā dik l-informazzjoni gћall-finijiet tiegћu. L-obbligazzjoni li tinsab fis- (STATI UNITI TAL-AMERIKA) [L.S.123.123 25
-
-sentenza preëedenti hija soāāetta gћal-limitazzjonijiet li hemm fil-paragrafu 3 iŜda f’ebda kaŜ ma gћandha limitazzjoni bћal dik tiftiehem li tippermetti lil Stat Kontraenti li jiddeklina milli jagћti informazzjoni billi dan ma jkollu ebda interess domestiku f’dik l-informazzjoni.
+\4. Jekk tkun meћtieāa informazzjoni minn Stat Kontraenti kif hemm f’dan l- Artikolu, l-Istat Kontraenti l-ieћor gћandu juŜa l-mezzi li jkollu biex jiābor l-informazzjoni biex jikseb l-informazzjoni meћtieāa, ukoll jekk dak l-Isat l-ieћor jista’ ma jkunx jeћtieā dik l-informazzjoni gћall-finijiet tiegћu. L-obbligazzjoni li tinsab fis-sentenza preëedenti hija soāāetta gћal-limitazzjonijiet li hemm fil-paragrafu 3 iŜda f’ebda kaŜ ma gћandha limitazzjoni bћal dik tiftiehem li tippermetti lil Stat Kontraenti li jiddeklina milli jagћti informazzjoni billi dan ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
 \5. F’ebda kaŜ m’gћandhom il-provvedimenti tal-paragrafu 3 jiftiehmu bћala li jippermettu lil xi Stat Kontraenti jiddeklina milli jagћti l-informazzjoni meћtieāa mill- Istat Kontraenti l-ieћor gћax dik l-informazzjoni tkun miŜmuma minn xi bank, istituzzjoni finanzjarja oћra, nominee jew persuna li tkun qegћda taāixxi f’xi aāenzija jew f’poŜizzjoni fiduëjarja jew gћax din ikollha x’taqsam ma’ interessi ta’ proprjetà f’xi persuna.
 
@@ -815,9 +759,7 @@ b) gћar-rigward ta’ taxxi oћra, gћal perjodi ta’ taxxa li jibdew fi jew w
 
 **TERMINAZZJONI**
 
-Dan il-Ftehim gћandu jibqa’ jseħħ sakemm jiāi terminat minn xi Stat Kontraenti 26 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
-
-wieћed jew l-ieћor. Kull wieħed mill-Istati Kontraenti jista’ jtemm il-Ftehim billi jagћti avviŜ ta’ terminazzjoni lill-Istati Kontraenti l-ieћor permezz ta’ kanali diplomatiëi. F’dak il-kaŜ, il-Ftehim ma gћandux jibqa’ jseħħ:
+Dan il-Ftehim gћandu jibqa’ jseħħ sakemm jiāi terminat minn xi Stat Kontraenti wieћed jew l-ieћor. Kull wieħed mill-Istati Kontraenti jista’ jtemm il-Ftehim billi jagћti avviŜ ta’ terminazzjoni lill-Istati Kontraenti l-ieћor permezz ta’ kanali diplomatiëi. F’dak il-kaŜ, il-Ftehim ma gћandux jibqa’ jseħħ:
 
 \1) gћar-rigward ta’ taxxi miŜmuma f’ras il-gћajn, dwar ammonti mћallsa jew akkreditati wara li jgћaddi l-perjodu ta’ sitt xhur li jibda jiddekorri mid-data meta jkun ingћata l-avviŜ ta’ terminazzjoni; u
 
@@ -832,8 +774,6 @@ Tonio Fenech Molly Bordonaro
 Għall-Gvern Għall-Gvern
 
 ta’ Malta tal-Istati Uniti tal-Amerika
-
-(STATI UNITI TAL-AMERIKA) [L.S.123.123 27
 
 **AMBAXXATA TAL-ISTATI UNITI TAL-AMERIKA**
 
@@ -864,8 +804,6 @@ Ambaxxatriëi tal-Istati Uniti
 L-Eëëellenza Tiegħu Tonio Fenech
 
 Ministru tal-Finanzi, l-Ekonomija u Investiment,
-
-28 [L.S.123.123 (STATI UNITI TAL-AMERIKA)
 
 **Repubblika ta’ Malta**
 
@@ -902,8 +840,6 @@ f’Malta
 Tonio Fenech
 
 Ministru tal-Finanzi, l-Ekonomija u Investiment
-
-(STATI UNITI TAL-AMERIKA) [L.S.123.123 29
 
 **DOKUMENT TA’ RATIFIKA**
 

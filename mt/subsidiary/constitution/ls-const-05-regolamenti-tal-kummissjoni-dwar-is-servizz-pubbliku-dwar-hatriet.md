@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti tal-Kummissjoni dwar is-Servizz Pubbliku dwar Ħatriet"
-identifier: "S.L. const.5"
+identifier: "S.L. const.05"
 eli: "https://legislation.mt/eli/sl/const.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/const.5/20240416/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti tal-Kummissjoni dwar is-Servizz Pubbliku dwar Ħatriet (S.L. const.5)
-
-*1*
-
-PUBBLIKU DWAR ĦATRIET [L.S.KOST.05
+# Regolamenti tal-Kummissjoni dwar is-Servizz Pubbliku dwar Ħatriet (S.L. const.05)
 
 **Regolamenti tal-Kummissjoni dwar is-Servizz**
 
@@ -36,10 +32,6 @@ ma tkunx ġiet delegata
 Taqsima VI  Sottomissjonijiet u petizzjonijiet mill-applikanti  22 - 24  
 Taqsima VII  Ħatriet  25 - 32  
 Taqsima VIII  Dispożizzjonijiet addizzjonali ġenerali  33 - 37
-
-*2*
-
-[L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
 
 **LEĠISLAZZJONI SUSSIDJARJA KOST.05**
 
@@ -87,13 +79,9 @@ It-titolu ta’ dawn ir-regolamenti hu r-Regolamenti tal- Kummissjoni dwar is-Se
 
 (d) kull uffiċjal pubbliku ieħor f’livell ta’ direttur jew livell ogħla li huwa responsabbli għall-immaniġġjar tar-riżorsi umani, servizzi korporattivi jew amministrazzjoni f’ministeru; u
 
-(e) kull uffiċjal pubbliku ieħor jew awtorità oħra li lilhom PUBBLIKU DWAR ĦATRIET [L.S.KOST.05
+(e) kull uffiċjal pubbliku ieħor jew awtorità oħra li lilhom ġiet delegata s-setgħa li jaħtru persunal skont l-artikolu 110(1) tal-Kostituzzjoni:
 
 \*ara r-regolament 1(2) ta’ dawn it-Regolamenti kif ippromulgati oriġinarjament.
-
-ġiet delegata s-setgħa li jaħtru persunal skont l-artikolu 110(1) tal-Kostituzzjoni:
-
-*3*
 
 Iżda meta s-setgħa li jinħatar persunal, jew li tittieħed kull azzjoni oħra li għaliha japplikaw dawn ir-regolamenti, tkun ġiet delegata lil xi persuna f’kariga partikolari skont l-artikolu 110(1) tal-Kostituzzjoni, hija biss dik il-persuna li tkun f’dik il-kariga li tista’ teżerċita dik is-setgħa hekk delegata;
 
@@ -145,10 +133,6 @@ Iżda meta s-setgħa li jinħatar persunal, jew li tittieħed kull azzjoni oħra
 
 "sejħa għal applikazzjonijiet" tfisser sejħa għal applikazzjonijiet għal vakanza li għaliha japplika r-regolament 3(1);
 
-*4*
-
-[L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
-
 "servizz pubbliku" għandha t-tifsira mogħtija lilha bl-artikolu 124 tal-Kostituzzjoni;
 
 "uffiċjal pubbliku" jew "uffiċjal" tfisser uffiċjal pubbliku kif imfisser fl-artikolu 124(1) tal-Kostituzzjoni, iżda m’għandhiex, għall-finijiet ta’dawn ir-regolamenti, tinkludi l-imħallfin jew l-maġistrati;
@@ -185,11 +169,9 @@ Iżda meta s-setgħa li jinħatar persunal, jew li tittieħed kull azzjoni oħra
 
 (2) Dan ir-regolament huwa mingħajr preġudizzju għas-setgħat tal-Kummissjoni kif imniżżel aktar ’l isfel, inkluża s-setgħa li tannulla d-dispożizzjonijiet ta’ sejħa u li teħtieġ li sejħa tiġi emendata jew irtirata.
 
-*5*
+### 5. Standards ġenerali applikabbli għas-sejħiet.
 
-PUBBLIKU DWAR ĦATRIET [L.S.KOST.05 5. (1) Kull sejħa għal applikazzjonijiet għandha tiġi ppubblikata jew reklamata b’dak il-mod li jagħti opportunità raġonevoli lil dawk li huma eliġibbli għall-vakanza li jaraw is-sejħa u li jissottomettu l-applikazzjonijiet.
-
-*Standards ġenerali applikabbli għas-sejħiet.*
+(1) Kull sejħa għal applikazzjonijiet għandha tiġi ppubblikata jew reklamata b’dak il-mod li jagħti opportunità raġonevoli lil dawk li huma eliġibbli għall-vakanza li jaraw is-sejħa u li jissottomettu l-applikazzjonijiet.
 
 (2) L-ebda sejħa għal applikazzjonijiet m’għandha tinkludi dispożizzjonijiet li huma inġusti jew mhux raġonevoli meta mqabbla mad-dmirijiet tal-post vakanti u l-bżonnijiet tas-servizz pubbliku.
 
@@ -226,10 +208,6 @@ Meta sejħa għal applikazzjonijiet tkun ippubblikata bil- Malti u b’xi lingwa
 (1) La darba sejħa għal applikazzjonijiet tkun ġiet ippubblikata, il-Kummissjoni għandu jkollha s-setgħa li tiddeċiedi dwar l-interpretazzjoni ta’ kull dispożizzjoni tas-sejħa u, bla ħsara għal kull liġi oħra, id-deċiżjoni tal-Kummissjoni għandha tkun finali u torbot.
 
 (2) Il-Kummissjoni tista’ timmodifika permezz ta’ interpretazzjoni jew tannulla xi dispożizzjoni tas-sejħa, li l- Kummissjoni tikkunsidra bħala -
-
-*6*
-
-[L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
 
 (a) mhux ċara;
 
@@ -275,10 +253,6 @@ Iżda membru tal-Panel jista’ jitneħħa mill-Kummissjoni fid-diskrezzjoni tag
 
 (ċ) persuni oħra b’kompetenza li hija partikolarment rilevanti għall-post vakanti jew għall-proċess tal-għażla:
 
-*7*
-
-PUBBLIKU DWAR ĦATRIET [L.S.KOST.05
-
 Iżda l-bord tal-għażla għandu jinkludi mill-anqas persuna waħda li hija uffiċjal pubbliku li qed iservi.
 
 (2) Sakemm il-Kummissjoni ma tordnax xort’oħra l-ebda bord tal-għażla m’għandu jinkludi:
@@ -317,10 +291,6 @@ Iżda l-bord tal-għażla għandu jinkludi mill-anqas persuna waħda li hija uff
 
 (ċ) it-tmexxija tal-intervisti.
 
-*8*
-
-[L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
-
 (2) Meta l-proċess tal-għażla għal vakanza jinkludi eżami bil-miktub, test tas-snajja’ jew mekkaniżmu ieħor ta’ għażla ta’ natura speċjalizzata, dak il-mekkaniżmu jista’ jiġi amministrat mir- Reġistratur tal-Eżamijiet, jew minn xi persuna oħra jew korp li jista’ jiġi approvat għal dak il-għan mill-Kummissjoni:
 
 Iżda l-bord tal-għażla jista’ hu nnifsu jissupplimenta l-intervisti permezz ta’ mekkaniżmi oħra ta’ għażla li huma fil-kompetenza tal-membri tiegħu li jamministra jekk dawk il-mekkaniżmi jagħtu lok lill-bord li jevalwa aħjar lill-applikanti fuq il-kriterji ta’ għażla għall-post vakanti.
@@ -354,10 +324,6 @@ Id-dispożizzjonijiet ta’ din it-Taqsima għandhom japplikaw meta -
 (a) is-setgħa ta’ ħatra tkun ġiet delegata lil uffiċjal pubbliku jew awtorità oħra, il-Kummissjoni mhux inkluża, permezz ta’ dokument ta’ delega;
 
 (b) dak id-dokument jawtorizza lill-uffiċjal jew awtorità oħra li jaħtru mingħajr ma jirreferu għall- Kummissjoni; u
-
-*9*
-
-PUBBLIKU DWAR ĦATRIET [L.S.KOST.05
 
 (ċ) il-ħatriet huma hekk magħmula wara l-pubblikazzjoni ta’ sejħa għal applikazzjonijiet.
 
@@ -399,11 +365,7 @@ Il-Kummissjoni tista’ toħroġ direzzjonijiet li jirregolaw kull aspett tal-pr
 
 (1) Il-Kummissjoni tista’ fuq inizjattiva tagħha jew fuq petizzjonijiet jew sottomissjonijiet minn applikanti jew sottomissjonijiet mill-Kap ta’ Dipartiment, tindaga u tinvestiga kull proċess ta’ għażla.
 
-(2) Fl-indaġni u l-investigazzjonijiet tagħha skont dan ir-regolament il-Kummissjoni m’għandhiex tissostitwixxi l-ġudizzju ta’ bord tal-għażla rigward dawk l-elementi fil-proċess tal-għażla li huma leġittimament soġġettivi fin-natura tagħhom, kemm-il darba [L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
-
-l-Kummissjoni tkun sodisfatta li -
-
-*10*
+(2) Fl-indaġni u l-investigazzjonijiet tagħha skont dan ir-regolament il-Kummissjoni m’għandhiex tissostitwixxi l-ġudizzju ta’ bord tal-għażla rigward dawk l-elementi fil-proċess tal-għażla li huma leġittimament soġġettivi fin-natura tagħhom, kemm-il darba l-Kummissjoni tkun sodisfatta li -
 
 (a) il-proċess tal-għażla kien immexxi jew qiegħed jitmexxa skont il-prinċipju ta’ mertu;
 
@@ -429,11 +391,11 @@ l-Kummissjoni tkun sodisfatta li -
 
 (5) Il-ħruġ ta’ riżultat tal-għażla emendat ma għandux jaffettwa il-perjodu ta’ validità tar-riżultat, jekk ir-riżultat huwa soġġett għal dak il-perjodu, kemm-il darba l-Kummissjoni ma tiddeċidix xort’oħra.
 
-*11*
+### 20. Setgħa tal- Kummissjoni li tiskwalifika applikanti.
 
-PUBBLIKU DWAR ĦATRIET [L.S.KOST.05 20. (1) Bla ħsara għas-subregolament (2), il-Kummissjoni tista’ tiskwalifika, jew tordna lil bord ta’ għażla sabiex jiskwalifika, applikant jekk -
+*Emendat: A.L. 54 tal-2016; A.L. 195 tal-2021.*
 
-*Setgħa tal- Kummissjoni li tiskwalifika applikanti. Emendat: A.L. 54 tal-2016; A.L. 195 tal-2021.*
+(1) Bla ħsara għas-subregolament (2), il-Kummissjoni tista’ tiskwalifika, jew tordna lil bord ta’ għażla sabiex jiskwalifika, applikant jekk -
 
 (a) il-ħatra ta’ dak l-applikant tkun kontra l-liġi, jew l-applikant jekk ikun maħtur, ma jkunx jista’ jwettaq skont il-liġi d-dmirijiet tal-post vakanti;
 
@@ -459,11 +421,7 @@ PUBBLIKU DWAR ĦATRIET [L.S.KOST.05 20. (1) Bla ħsara għas-subregolament (2), 
 
 (2) Qabel ma l-Kummissjoni tiskwalifika applikant għal xi waħda mir-raġunijiet imsemmija fis-subregolament (1), il-Kummissjoni għandha tagħti lill-applikant l-opportunità li jagħmel sottomissjonijiet bil-miktub.
 
-(3) Is-subregolamenti (1) u (2) għandhom ikunu bla ħsara għal [L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
-
-kull arranġament li bih ħatra tkun temporanjament miżmuma milli tingħata lil applikant li jkun qed jiffaċċja akkużi dixxiplinarji jew kriminali, bil-kondizzjoni li -
-
-*12*
+(3) Is-subregolamenti (1) u (2) għandhom ikunu bla ħsara għal kull arranġament li bih ħatra tkun temporanjament miżmuma milli tingħata lil applikant li jkun qed jiffaċċja akkużi dixxiplinarji jew kriminali, bil-kondizzjoni li -
 
 (a) jekk il-persuna maħtura tkun liberata mill-akkużi, tkun intitolata għall-ħatra; jew
 
@@ -495,11 +453,7 @@ Taqsima V - Il-proċess ta’ għażla meta s-setgħa li ssir il-ħatra ma
 
 (2) Applikant għal post vakanti li ma jkunx ġie short-listed għall-post għandu jkollu d-dritt li jkun jaf ir-raġunijiet għaliex ma ġiex short-listed.
 
-(3) Applikant għal post vakanti li jgħaddi mill-istadji kollha PUBBLIKU DWAR ĦATRIET [L.S.KOST.05
-
-tal-proċess tal-għażla għandu dritt ikollu t-tqassim dettaljat tal-marki tiegħu skont il-kriterji tal-għażla, kemm-il darba il-proċess tal-għażla ikun jinvolvi l-allokazzjoni tal-marki.
-
-*13*
+(3) Applikant għal post vakanti li jgħaddi mill-istadji kollha tal-proċess tal-għażla għandu dritt ikollu t-tqassim dettaljat tal-marki tiegħu skont il-kriterji tal-għażla, kemm-il darba il-proċess tal-għażla ikun jinvolvi l-allokazzjoni tal-marki.
 
 (4) Dan ir-regolament m’għandux japplika għal xi komponent ta’ proċess tal-għażla li huwa amministrat minn persuna jew korp li ma jkunx il-bord tal-għażla kif stabbilit bir-regolament 13(2), jekk dik il-persuna jew dak il-korp għandhom proċedura stabbilita li biha l-applikant jista’ jitlob reviżjoni tal-evalwazzjoni tal-prestazzjoni tiegħu f’dak il-komponent tal-proċess ta’ għażla.
 
@@ -531,11 +485,7 @@ jista’ jagħmel sottomissjonijiet lill-Kummissjoni fi żmien ħamest ijiem tax
 
 (2) Petizzjoni taħt dan ir-regolament għandha tkun sottomessa mill-applikant fi żmien għaxart ijiem tax-xogħol mid-data meta tittieħed azzjoni sabiex jiġi infurmat bir-riżultat.
 
-(3) Il-Kummissjoni tista’ tikkunsidra petizzjoni li tiġi sottomessa wara l-limitu ta’ żmien stabbilit fis-subregolament (2) [L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
-
-jekk, fl-opinjoni tal-Kummissjoni, hemm ġustifikazzjoni partikolari għas-sottomissjoni tardiva tal-imsemmija petizzjoni.
-
-*14*
+(3) Il-Kummissjoni tista’ tikkunsidra petizzjoni li tiġi sottomessa wara l-limitu ta’ żmien stabbilit fis-subregolament (2) jekk, fl-opinjoni tal-Kummissjoni, hemm ġustifikazzjoni partikolari għas-sottomissjoni tardiva tal-imsemmija petizzjoni.
 
 (4) Il-Kummissjoni m’għandhiex tkun obbligata li tikkunsidra xi petizzjoni minn applikant taħt dan ir-regolament sakemm l-applikant ma jindikax b’mod ċar u speċifiku r-raġunijiet għaliex jaħseb li d-deċiżjoni tal-bord ta’ għażla ma tirriflettix il-prinċipju ta’ mertu.
 
@@ -567,11 +517,7 @@ Post vakanti għandu jimtela bil-ħatra tal-aktar applikant adatt minn dawk koll
 
 (3) Meta l-ħatra tiġi miżmuma milli ssir għal xi żmien skont is-subregolament (1), il-Kummissjoni tista’ tirrakkomanda jew tawtorizza ħatra retroattiva jekk il-Kummissjoni tikkunsidra li dik il-ħatra retroattiva hija neċessarja fuq bażi ta’ ekwità:
 
-Iżda uffiċjal pubbliku ma għandux, bis-saħħa ta’ dan is- PUBBLIKU DWAR ĦATRIET [L.S.KOST.05
-
-subregolament, ikun intitolat għal pagament għal xogħol li huwa ma għamilx.
-
-*15*
+Iżda uffiċjal pubbliku ma għandux, bis-saħħa ta’ dan is-subregolament, ikun intitolat għal pagament għal xogħol li huwa ma għamilx.
 
 ### 27. Ħatriet fuq bażi ta’ kuntratti jew ftehim.
 
@@ -603,11 +549,7 @@ Iżda ż-żieda hekk miżmuma għandha tiġi mogħtija lura lill-uffiċjal sakem
 
 (3) Uffiċjal pubbliku li huwa dovut progress għal skala ta’ salarju ogħla skont it-termini u kondizzjonijiet tal-ħatra kurrenti tiegħu jista’ jkollu dak il-progress miżmum mill-Prim Ministru biss fuq rakkommandazzjoni tal-Kummissjoni, li m’għandiex tissottometti ir-rakkomandazzjoni tagħha sakemm l-uffiċjal ma jkunx ingħata l-opportunità li jagħmel sottomissjonijiet u sakemm il-Kummissjoni ma tkunx sodisfatta li hemm raġuni tajba għal dik ir-rakkomandazzjoni.
 
-(4) Is-subregolament (3) huwa bla ħsara għal kull arranġament [L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
-
-li bih progress għal skala ta’ salarju ogħla jista’ jiġi miżmum proviżorjament lil uffiċjal li jkun qed jiffaċċja akkużi dixxiplinarji jew kriminali, bil-kondizzjoni li -
-
-*16*
+(4) Is-subregolament (3) huwa bla ħsara għal kull arranġament li bih progress għal skala ta’ salarju ogħla jista’ jiġi miżmum proviżorjament lil uffiċjal li jkun qed jiffaċċja akkużi dixxiplinarji jew kriminali, bil-kondizzjoni li -
 
 (a) jekk l-uffiċjal jiġi liberat mill-akkużi, huwa jkun intitolat għall-progress b’effett minn dik id-data li kien oriġinarjament dovut, u bl-arretrati tas-salarju; jew (b) jekk l-uffiċjal jinstab ħati tal-akkużi, u l-Kummissjoni tikkunsidra li bħala riżultat il-progress għandu definittivament jiġi miżmum milli jingħata, għandha tapplika l-proċedura stabbilita taħt is-subregolament (3).
 
@@ -629,11 +571,11 @@ Iżda l-Kummissjoni tista’ tiddeċiedi li ma tirrakkomandax il-promozzjoni tal
 
 (3) Dan ir-regolament għandu japplika soġġett għal kull dokument ta’ delega applikabbli li jista’ jkun fis-seħħ minn żmien għal żmien u d-dispożizzjonijiet tad-dokument ta’ delega għandhom jipprevalu f’każ ta’ konflitt ma’ dan ir-regolament.
 
-*17*
+### 32. Setgħa tal- Kummissjoni li tirrakkomanda r-revoka ta’ ħatriet.
 
-PUBBLIKU DWAR ĦATRIET [L.S.KOST.05 32. (1) Minkejja kull dispożizzjoni oħra f’dawn ir-regolamenti jew kull regolament ieħor magħmul taħt l-artikolu 121 tal-Kostituzzjoni, il-Kummissjoni tista’ tirrakommanda r-revoka ta’ ħatra magħmula taħt l-artikolu 110 tal-Kostituzzjoni jekk -
+*Emendat: A.L. 54 tal-2016.*
 
-*Setgħa tal- Kummissjoni li tirrakkomanda r-revoka ta’ ħatriet. Emendat: A.L. 54 tal-2016.*
+(1) Minkejja kull dispożizzjoni oħra f’dawn ir-regolamenti jew kull regolament ieħor magħmul taħt l-artikolu 121 tal-Kostituzzjoni, il-Kummissjoni tista’ tirrakommanda r-revoka ta’ ħatra magħmula taħt l-artikolu 110 tal-Kostituzzjoni jekk -
 
 (a) dik il-ħatra tkun saret wara l-pubblikazzjoni ta’ sejħa għal applikazzjonijiet, iżda kienet manifestament mhux skont il-prinċipju ta’ mertu għal raġunijiet li mhumiex dawk speċifikati fil-paragrafu (b);
 
@@ -659,11 +601,7 @@ PUBBLIKU DWAR ĦATRIET [L.S.KOST.05 32. (1) Minkejja kull dispożizzjoni oħra f
 
 (a) jikseb mingħand il-Kap ta’ kull Dipartiment li fih l-uffiċjal ikun serva matul it-tnax-il sena ta’ qabel, jew mid-data tal-ewwel ħatra tiegħu, skont liema jkun l-iqsar, rapporti dwar ix-xogħol u l-kondotta tiegħu;
 
-(b) jagħti lill-uffiċjal opportunità li jqis kull rapport u dokumentazzjoni oħra li jkunu ser jintużaw mill-Kap tas-Servizz Pubbliku biex iġiegħel l-uffiċjal jirtira, sabiex jippermetti lill-uffiċjal juri għaliex m’għandux [L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
-
-jiġi mġiegħel li jirtira mis-servizz.
-
-*18*
+(b) jagħti lill-uffiċjal opportunità li jqis kull rapport u dokumentazzjoni oħra li jkunu ser jintużaw mill-Kap tas-Servizz Pubbliku biex iġiegħel l-uffiċjal jirtira, sabiex jippermetti lill-uffiċjal juri għaliex m’għandux jiġi mġiegħel li jirtira mis-servizz.
 
 (2) Jekk il-Kap tas-Servizz Pubbliku, wara li jqis ir-rapporti u d-dikjarazzjoni tal-uffiċjal u wara li jittieħed kont taċ-ċirkostanzi kollha tal-każ, ikun tal-fehma li dak l-uffiċjal għandu jiġi mġiegħel jirtira mis-servizz fl-interess pubbliku, hu għandu jibgħat lill- Kummissjoni r-rapporti tal-Kapijiet tad-Dipartimenti u d-dikjarazzjoni tal-uffiċjal flimkien mar-rakkomandazzjoni tiegħu, b’kopja li tintbagħat lill-Kap tad-Dipartiment ta’ dak l-uffiċjal u lill-uffiċjal stess.
 
@@ -693,9 +631,7 @@ jiġi mġiegħel li jirtira mis-servizz.
 
 il-Kummissjoni tista’ tawtorizza l-mili tal-vakanza fuq bażi ta’ dak l-eżami jew evalwazzjoni, soġġett għal kull kondizzjoni li l- Kummissjoni tista’ tistabbilixxi għal dak il-għan.
 
-*19*
-
-PUBBLIKU DWAR ĦATRIET [L.S.KOST.05 (2) Il-Kummissjoni tista’ tawtorizza il-mili ta’ vakanza fuq il-bażi ta’ proċess tal-għażla li jkun sar kollu jew parti minnu minn aġenzija tal-impjieg jew negozju tal-impjieg, soġġett għal kull kondizzjoni li l-Kummissjoni tista’ tistabbilixxi għal dak il-għan, u soġġett ukoll għad-dispożizzjonijiet tar-Regolamenti dwar l- Aġenziji tal-Impjieg.
+(2) Il-Kummissjoni tista’ tawtorizza il-mili ta’ vakanza fuq il-bażi ta’ proċess tal-għażla li jkun sar kollu jew parti minnu minn aġenzija tal-impjieg jew negozju tal-impjieg, soġġett għal kull kondizzjoni li l-Kummissjoni tista’ tistabbilixxi għal dak il-għan, u soġġett ukoll għad-dispożizzjonijiet tar-Regolamenti dwar l- Aġenziji tal-Impjieg.
 
 *L.S.594.18.*
 
@@ -723,13 +659,9 @@ PUBBLIKU DWAR ĦATRIET [L.S.KOST.05 (2) Il-Kummissjoni tista’ tawtorizza il-mi
 
 ### 37. Dispożizzjonijiet transitorji.
 
-(1) Kull proċess ta’ għażla li jkun inbeda taħt u skont id-dispożizzjonijiet tar-Regolamenti dwar il-Kummissjoni dwar is- Servizz Pubbliku\* għandu jitkompla u jintemm taħt u skont l- [L.S.KOST.05 PUBBLIKU DWAR ĦATRIET
+(1) Kull proċess ta’ għażla li jkun inbeda taħt u skont id-dispożizzjonijiet tar-Regolamenti dwar il-Kummissjoni dwar is- Servizz Pubbliku\* għandu jitkompla u jintemm taħt u skont l-imsemmija dispożizzjonijiet daqs li kieku dawk id-dispożizzjonijiet ma ġewx revokati, u kull petizzjoni li toħroġ mill-proċess ta’ għażla għandha tiġi kunsidrata u riżolta taħt l-imsemmija regolamenti.
 
 \*ewvokati b’sawn ir-Regolamenti.
-
-imsemmija dispożizzjonijiet daqs li kieku dawk id-dispożizzjonijiet ma ġewx revokati, u kull petizzjoni li toħroġ mill-proċess ta’ għażla għandha tiġi kunsidrata u riżolta taħt l-imsemmija regolamenti.
-
-*20*
 
 (2) Is-subregolament (1) m’għandux japplika f’każijiet fejn sejħa għal applikazzjonijiet kienet ippubblikata iżda l-bord ta’ għażla ma jkunx laħaq ġie maħtur, u f’dawk il-każijiet il-bord ta’ għażla għandu jiġi maħtur u l-proċess ta’ għażla għandu jinżamm taħt ir-regolamenti preżenti.
 

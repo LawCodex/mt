@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Ageing and Dementia Studies M.A. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.533)
 
-DEMENTIA STUDIES - M.A. - TAĦT IL-PATROĊINJU TAL-
-
-*1*
-
-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.533
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.533**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -68,10 +62,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew fi Frar 2016 j
 
 (5) Meta l-għadd ta’ postijiet ikun limitat u l-għadd tal-applikanti eliġibbli jkun qabeż l-għadd ta’ postijiet disponibbli, l-applikanti jiġu magħżula skont il-kriterji li ġejjin, li l-piż tagħhom ikun ippubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
 
-*2*
-
-DEMENTIA STUDIES - M.A. - TAĦT IL-PATROĊINJU TAL- [L.S.327.533 FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
 (a) it-tip u l-klassifikazzjoni tal-grad;
 
 (b) l-esperjenza fil-qasam tal-istudju propost; u
@@ -114,11 +104,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
-(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent DEMENTIA STUDIES - M.A. - TAĦT IL-PATROĊINJU TAL-
-
-*3*
-
-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.533 biex jiddefendi l-każ tiegħu.
+(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
 
 ## 10. Klassifikazzjoni tar- Rikonoxximenti. Renumerat: A.L. 97 tal-2024.
 

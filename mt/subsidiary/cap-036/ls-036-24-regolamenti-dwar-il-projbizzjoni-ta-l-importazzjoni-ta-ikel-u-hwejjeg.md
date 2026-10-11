@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Projbizzjoni ta' l-Importazzjoni ta' Ikel u Ħwejjeġ Oħra (S.L. 36.24)
 
-TA’ IKEL U }WEJJE{ O}RA [ L.S.36.24
-
 **LE{ISLAZZJONI SUSSIDJARJA 36.24**
 
 **REGOLAMENTI DWAR IL-PROJBIZZJONI TA’**

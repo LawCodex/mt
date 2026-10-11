@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Assigurazzjoni Obbligatorja tan-Nutara"
-identifier: "S.L. 55.7"
+identifier: "S.L. 55.07"
 eli: "https://legislation.mt/eli/sl/55.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.7/20130103/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Assigurazzjoni Obbligatorja tan-Nutara (S.L. 55.7)
+# Regolamenti dwar l-Assigurazzjoni Obbligatorja tan-Nutara (S.L. 55.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 55.07**
 

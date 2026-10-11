@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju tal-Marokk (S.L. 123.100)
 
-*1*
-
-FUQ L-INCOME MAR-RENJU TAL-MAROKK [L.S.123.100
-
 LE{ISLAZZJONI SUSSIDJARJA 123.100
 
 ORDNI DWAR E|ENZJONI MILL-}LAS
@@ -129,9 +125,7 @@ it-taxxa fuq l-income;
 
 ## 4.
 
-Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simili li ji[u imposti wara d-data meta ji[i ffirmat il-Ftehim b’\\ieda ma’, jew minflok, it-taxxi e\\istenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti FUQ L-INCOME MAR-RENJU TAL-MAROKK [L.S.123.100 3
-
-g]andhom jg]arrfu lil xulxin b’kull tibdil sostanzjali li jkun sar fil-li[ijiet rispettivi tag]hom dwar it-taxxa.
+Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simili li ji[u imposti wara d-data meta ji[i ffirmat il-Ftehim b’\\ieda ma’, jew minflok, it-taxxi e\\istenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jg]arrfu lil xulxin b’kull tibdil sostanzjali li jkun sar fil-li[ijiet rispettivi tag]hom dwar it-taxxa.
 
 ARTIKOLU 3
 
@@ -213,8 +207,6 @@ i) it-territorju tar-Renju tal-Marokk, il-ba]ar territorjali tieg]u; u ii) l-are
 
 (f) minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew kull post ie]or ta’ estrazzjoni ta’ ri\\orsi naturali inklu\\ sit ta’ offshore drilling;
 
-FUQ L-INCOME MAR-RENJU TAL-MAROKK [L.S.123.100 5
-
 (g) hanut fejn isir il-bejg];
 
 (h) ma]\\en rigward persuna li tipprovdi fa`ilitajiet ta’ ]a\\na g]al persuni o]ra; u
@@ -279,9 +271,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \2. Bla ]sara g]ad-disposizzjonijiet tal-paragrafu 3, meta impri\\a ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, g]andhom f’kull Stat Kontraenti ji[u attribwiti lil dak l-istabbiliment permanenti l-profitti li kien ikun mistenni jag]mel kieku kien impri\\a distinta u separata li ta]dem fl-istess attivitajiet jew o]rajn b]alhom ta]t l-istess kondizzjonijiet jew o]rajn b]alhom u li ta]dem indipendentement g]alkollox mill-impri\\a li tag]ha tkun stabbiliment permanenti.
 
-\3. a) Sabiex ji[u stabbiliti l-profitti ta’ stabbiliment permanenti, g]andhom ikunu permessi b]ala tnaqqis dawk l-ispejje\\ li jsiru g]all-g]anijiet ta’ l-istabbiliment permanenti, inklu\\i l-ispejje\\ e\\ekuttivi u FUQ L-INCOME MAR-RENJU TAL-MAROKK [L.S.123.100 7
-
-amministrattivi [enerali li jkunu saru, sew fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’o]ra.
+\3. a) Sabiex ji[u stabbiliti l-profitti ta’ stabbiliment permanenti, g]andhom ikunu permessi b]ala tnaqqis dawk l-ispejje\\ li jsiru g]all-g]anijiet ta’ l-istabbiliment permanenti, inklu\\i l-ispejje\\ e\\ekuttivi u amministrattivi [enerali li jkunu saru, sew fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’o]ra.
 
 b) Fil-ka\\ tal-Marokk, ma ji[i permess l-ebda tnaqqis rigward ]lasijiet mag]mulin mill-istabbiliment permanenti lill-uffi``ju `entrali ta’ l-impri\\a jew lil xi wa]da mill-ferg]at tag]ha, b]al ma huma honoraria u kummissjonijiet. G]al dak li jirrigwarda mg]ax fuq ]lasijiet mag]mulin bil-quddiem jew ammonti mislufin lill-istabbiliment permanenti, ji[i permess tnaqqis, i\\da l-ammont m’g]andux je``edi dak li jirri\\ulta mill-komputazzjoni ta’ l-img]ax skond id-disposizzjonijiet tal-li[i nazzjonali. Din il-limitazzjoni dwar l-img]axijiet ma tapplikax g]al stabbilimenti bankarji.
 
@@ -337,9 +327,7 @@ a) meta d-dividendi jit]allsu minn kumpannija li tkun residenti tal-Marokk lil r
 
 (b) meta d-dividendi jit]allsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Marokk li jkun is-sid benefi`jarju tag]hom, it-taxxa ta’ Malta imposta fuq l-ammont gross tad-dividendi ma g]andhiex tkun i\\jed minn dik imposta fuq il-profitti li minnhom jit]allsu d-dividendi. 3. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma g]andhomx jolqtu t-tassazzjoni tal-kumpannija g]ar-rigward tal-profitti li minnhom jit]allsu d-dividendi.
 
-\4. Il-fra\\i ''dividendi'' kif din tintu\\a f’dan l-Artikolu tfisser income minn ishma, ishma ''jouissance'' jew drittijiet ''jouissance'', ishma konnessi mal-minjieri, mal-fundaturi jew drittijiet o]ra, li ma jkunux pretensjonijiet ta’ debitu, il-parte`ipazzjoni fi profitti, kif ukoll income minn drittijiet korporattivi o]ra li FUQ L-INCOME MAR-RENJU TAL-MAROKK [L.S.123.100 9
-
-jing]ata l-istess trattament fl-intaxxar b]allikieku kien income minn ishma skond il-li[ijiet ta’ l-Istat li tieg]u l-kumpannija li tkun qed tag]mel it-tqassim tkun residenti.
+\4. Il-fra\\i ''dividendi'' kif din tintu\\a f’dan l-Artikolu tfisser income minn ishma, ishma ''jouissance'' jew drittijiet ''jouissance'', ishma konnessi mal-minjieri, mal-fundaturi jew drittijiet o]ra, li ma jkunux pretensjonijiet ta’ debitu, il-parte`ipazzjoni fi profitti, kif ukoll income minn drittijiet korporattivi o]ra li jing]ata l-istess trattament fl-intaxxar b]allikieku kien income minn ishma skond il-li[ijiet ta’ l-Istat li tieg]u l-kumpannija li tkun qed tag]mel it-tqassim tkun residenti.
 
 \5. Id-disposizzjonijiet tal-paragrafi 1 u 2 m’g]andhomx japplikaw jekk is-sid benefi`jarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- Istat Kontraenti l-ie]or li tieg]u tkun residenti l-kumpannija li t]allas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jag]mel f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita sitwata hemmhekk, u l-holding li dwarhom id-dividendi jkunu m]allsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
 
@@ -383,9 +371,7 @@ permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak 
 
 \4. Id-disposizzjonijiet tal-paragrafi 1 u 2 m’g]andhomx japplikaw jekk is-sid benefi`jarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or li fih jinqalg]u r-royalties, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun jag]mel servizzi personali indipendenti f’dak l-Istat l-ie]or minn ba\\i stabbilita sitwata hemmhekk, u d-dritt jew il-proprjetà li dwarhom jit]allsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew l-Artikolu 14, skond il-ka\\.
 
-\5. Royalties jitqiesu li jinqalg]u fi Stat Kontraenti meta min i]allashom ikun dak l-Istat stess, suddivi\\joni politika, awtorità lokali jew resident ta’ dak l-Istat. Madankollu, meta l-persuna li t]allas dawk ir-royalties, kemm jekk tkun resident ta’ Stat Kontraenti u kemm jekk le, g]andha fi Stat Kontraenti stabbiliment permanenti jew ba\\i stabbilita li r-responsabbiltà biex jit]allsu r-royalties tkun qamet f’konnessjoni ma’ dak l-istabbiliment permanenti jew dik il-ba\\i stabbilita, u dawk FUQ L-INCOME MAR-RENJU TAL-MAROKK [L.S.123.100 11
-
-ir-royalties jit]allsu minn dak l-istabbiliment permanenti jew minn dik il-ba\\i stabbilita, allura dawk ir-royalties g]andhom jitqiesu li g]andhom jit]allsu fl-Istat fejn ikun hemm sitwat dak l-istabbiliment permanenti jew dik il-ba\\i stabbilita.
+\5. Royalties jitqiesu li jinqalg]u fi Stat Kontraenti meta min i]allashom ikun dak l-Istat stess, suddivi\\joni politika, awtorità lokali jew resident ta’ dak l-Istat. Madankollu, meta l-persuna li t]allas dawk ir-royalties, kemm jekk tkun resident ta’ Stat Kontraenti u kemm jekk le, g]andha fi Stat Kontraenti stabbiliment permanenti jew ba\\i stabbilita li r-responsabbiltà biex jit]allsu r-royalties tkun qamet f’konnessjoni ma’ dak l-istabbiliment permanenti jew dik il-ba\\i stabbilita, u dawk ir-royalties jit]allsu minn dak l-istabbiliment permanenti jew minn dik il-ba\\i stabbilita, allura dawk ir-royalties g]andhom jitqiesu li g]andhom jit]allsu fl-Istat fejn ikun hemm sitwat dak l-istabbiliment permanenti jew dik il-ba\\i stabbilita.
 
 \6. Meta, min]abba r-relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju effettiv jew bejniethom it-tnejn u xi persuna o]ra, l-ammont tar-royalties, fil-qies ta’ x’ikun l-u\\u, id-dritt jew l-informazzjoni li jit]allsu g]alihom, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu g]andhom japplikaw biss g]all-ammont l-a]]ar imsemmi. F’dak il-ka\\, il-parti \\ejda tal-]lasijiet g]andha tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-disposizzjonijiet l-o]ra ta’ dan il-Ftehim.
 
@@ -449,9 +435,7 @@ Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti t
 
 **PENSJONIJIET U }LASIJIET TAS-SIGURTÀ SO~JALI**
 
-\1. Bla ]sara g]ad-disposizzjonijiet tal-paragrafu 2 ta’ l-Artikolu 19, FUQ L-INCOME MAR-RENJU TAL-MAROKK [L.S.123.100 13
-
-pensjonijiet u kumpens ie]or simili li jit]allsu lil residenti ta’ Stat Kontraenti min]abba f’xi impjieg img]oddi, kif ukoll vitalizzji, g]andhom ikunu taxxabbli biss f’dak l-Istat.
+\1. Bla ]sara g]ad-disposizzjonijiet tal-paragrafu 2 ta’ l-Artikolu 19, pensjonijiet u kumpens ie]or simili li jit]allsu lil residenti ta’ Stat Kontraenti min]abba f’xi impjieg img]oddi, kif ukoll vitalizzji, g]andhom ikunu taxxabbli biss f’dak l-Istat.
 
 \2. Pensjonijiet u vitalizzji li jit]allsu, jew ]lasijiet o]ra perjodi`i jew okka\\jonali li jsiru minn [vern ta’ Stat Kontraenti, jew minn wa]da mis-suddivi\\jonijiet politi`i tieg]u, rigward l-assigurazzjoni kontra in`identi personali, ikunu taxxabbli f’dak l-Istat biss.
 
@@ -513,8 +497,6 @@ Bla ]sara g]ad-disposizzjonijiet tal-li[i tal-Marokk, meta resident tal- Marokk 
 
 \3. Meta skond xi disposizzjoni ta’ dan il-Ftehim income li jinkiseb minn resident ta’ Stat Kontraenti jkun e\\enti mit-taxxa f’dak l-Istat, dak l-Istat jista’, madankollu, fil-kalkolu ta’ l-ammont ta’ taxxa fuq l-income rimanenti ta’ dak ir-resident, iqis l-income e\\entat.
 
-FUQ L-INCOME MAR-RENJU TAL-MAROKK [L.S.123.100 15
-
 \4. G]all-finijiet ta’ l-g]oti b]ala kreditu, it-taxxa pagabbli fil-Marokk jew f’Malta, kif tkun te]tie[ ir-rabta tal-kliem, g]andha titqies li tinkludi t-taxxa li mod ie]or tkun pagabbli fi Stat Kontraenti, i\\da li [iet imnaqqsa jew `eduta minn dak l- Istat skond id-disposizzjonijiet legali tieg]u g]al in`entivi ta’ taxxa.
 
 **ARTIKOLU 24**
@@ -569,9 +551,7 @@ Ebda ]a[a f’dan il-Ftehim ma g]andha tolqot il-privile[[i fiskali ta’ membri
 
 **BIDU FIS-SE}}**
 
-\1. L-Istati Kontraenti g]andhom jav\\aw lil xulxin, permezz ta’ kanali FUQ L-INCOME MAR-RENJU TAL-MAROKK [L.S.123.100 17
-
-diplomati`i, meta jkunu t]arsu l-]ti[iet legali g]ad-d]ul fis-se]] ta’ dan il-Ftehim.
+\1. L-Istati Kontraenti g]andhom jav\\aw lil xulxin, permezz ta’ kanali diplomati`i, meta jkunu t]arsu l-]ti[iet legali g]ad-d]ul fis-se]] ta’ dan il-Ftehim.
 
 \2. Dan il-Ftehim g]andu jibda jse]] tletin jum wara d-data ta’ l-a]]ar min-notifiki msemmija fil-paragrafu 1 u d-disposizzjonijiet tieg]u g]andhom jid]lu fis-se]]:
 

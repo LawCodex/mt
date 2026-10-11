@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Fine Arts (M.F.A.) in Digital Arts taħt il-patroċinju tal-Fakultà tal-Midja u x-Xjenzi (S.L. 327.421)
 
-ARTS TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.421
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.421**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -69,12 +63,6 @@ Dawn l-ordinamenti għandhom japplikaw mill-26 ta’ Settembru, 2018 ’il quddi
 
 (2) L-applikanti kollha li m’għandhomx l-ewwel grad fl-Arti għandhom jiġu intervistati u evalwati minn bord tal-intervisti magħmul mill-anqas minn tliet membri. L-applikanti jkunu mitluba jipprovdu evidenza tal-esperjenza professjonali tagħhom fl-Arti permezz ta’ portfolio.
 
-ARTS TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.421 TAL-MIDJA U X-XJENZI TAL-GĦARFIEN
-
 ## 4. Programm preparatorju.
 
 (1) L-applikanti kollha jistgħu jkunu meħtieġa jsegwu programm preparatorju kif speċifikat mill-Bord.
@@ -119,11 +107,7 @@ Il-kors għandu jinfirex fuq erba’ semestri ta’ studju fuq bażi full-time.
 
 (3) It-titolu provviżorju għall-Proġett Finali u għad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu sottomessi lill-Bord għall-approvazzjoni sal-aħħar tat-tieni semestru tal-kors.
 
-(4)ċL-istudenti huma meħtieġa li jorganizzaw b’mod kollettiv wirja pubblika tal-grad fejn jintwerew il-Proġetti Finali kollha fl- ARTS TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.421 aħħar tar-raba’ semestru tal-kors.
+(4)ċL-istudenti huma meħtieġa li jorganizzaw b’mod kollettiv wirja pubblika tal-grad fejn jintwerew il-Proġetti Finali kollha fl-aħħar tar-raba’ semestru tal-kors.
 
 ## 9. Superviżur.
 

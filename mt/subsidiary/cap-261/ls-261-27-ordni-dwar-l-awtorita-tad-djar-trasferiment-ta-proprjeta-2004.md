@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (2004) (S.L. 261.27)
 
-*1*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2004) [L.S.261.27
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.27**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -105,11 +101,7 @@ B’se]] mit-18 ta’ Mejju, 2004:
 
 (2) Bi``a art tal-kejl ta’ madwar 120 metru kwadru, mag]rufa b]ala Plot Nru. 10 fi Triq }alib it-Tajr u li tag]mel parti mill-Qasam tal-Bini tal-Gvern f’Santa Lu`ija, li tmiss mill-Grigal ma’ mog]dija pubblika, mix-Xlokk ma’ Triq G]eneb id-Dib, u mil-Lbi` ma’ proprjetà tas-Sur J. Mifsud, li fuqha hemm mibni l-fond bin-numru 12, "Maria Immakulata", Triq }alib it- Tajr, Santa Lu`ija, u li tinsab delineata bl-a]mar u markata P. 10 fuq L.D. 11/82/64. (HAP 6/003).
 
-(3) Bi``a art tal-kejl ta’ madwar 143 metru kwadru u sit, mag]rufin b]ala Plot Nru. 225 u sit B rispettivament, (TRASFERIMENT TA’ PROPRJETÀ) (2004) [L.S.261.27
-
-fi Triq il-Bruka, u li jag]mlu parti mill-Qasam tal-Bini tal-Gvern f’Santa Lu`ija, li jmissu mill-Majjistral, mix-Xlokk u mil-Lbi` ma’ proprjetà trasferita lill- Awtorità tad-Djar, li fuqhom hemm mibni l-fond bin-numru 29, Triq il-Bruka, Santa Lu`ija u li jinsabu delineati bl-a]mar u markati P. 225 u Sit B fuq L.D. 11/82/75. (HAP 5/2003).
-
-*3*
+(3) Bi``a art tal-kejl ta’ madwar 143 metru kwadru u sit, mag]rufin b]ala Plot Nru. 225 u sit B rispettivament, fi Triq il-Bruka, u li jag]mlu parti mill-Qasam tal-Bini tal-Gvern f’Santa Lu`ija, li jmissu mill-Majjistral, mix-Xlokk u mil-Lbi` ma’ proprjetà trasferita lill- Awtorità tad-Djar, li fuqhom hemm mibni l-fond bin-numru 29, Triq il-Bruka, Santa Lu`ija u li jinsabu delineati bl-a]mar u markati P. 225 u Sit B fuq L.D. 11/82/75. (HAP 5/2003).
 
 (4) Bi``a art tal-kejl ta’ madwar 136 metru kwadru, mag]rufa b]ala Nru. 36 (qabel kienet Plot Nru. 1) fi Triq il-Fossa tal-Qam] u li tag]mel parti mill-Qasam tal-Bini tal-Gvern, limiti ta\\-|ejtun, li tmiss mill- Grigal ma’ proprjetà tal-Gvern, mix-Xlokk ma’ Triq il- Fossa tal-Qam] u mil-Lbi` ma’ proprjetà trasferita lill- Awtorità tad-Djar, li fuqha hemm mibni l-fond bin-numru 36, Triq il-Fossa tal-Qam], |ejtun, u li tinsab delineata bl-a]mar u markata P. 1 fuq L.D. 7/80/82.
 
@@ -158,10 +150,6 @@ fi Triq il-Bruka, u li jag]mlu parti mill-Qasam tal-Bini tal-Gvern f’Santa Lu`
 (2) Bi``a art tal-kejl ta’ madwar 343 metru kwadru li tag]mel parti mill-Qasam tal-Bini tal-Gvern Tal- Blankas, limiti tax-Xewkija, G]awdex, li tmiss mill- Majjistral ma’ proprjetà tas-Sinjura M. Cassar, mix- Xlokk ma proprjetà tas-Sur B. Vella u mill-Grigal ma’ Triq M[arr ix-Xini, u li fuqha jinsab mibni l-fond bin-numru 12, Triq M[arr ix-Xini, Xewkija, G]awdex, liema bi``a art tinsab delineata bl-a]mar u mmarkata P.12 fuq il-pjanta P.D. 65/89/4. (HAP 4/2003).
 
 (3) Flat numru 5, Blokk B, Qasam Bini tal-Gvern Ta’ {iorni, Triq Bertha K. Ilg, San {iljan (Tenement No. 66702 - RTB 82/2003).
-
-*5*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2004) [L.S.261.27
 
 (4) Flat numru 11, Blokk 1, Qasam Bini tal-Gvern, Triq San Duminku, Valletta (Tenement No. 62676 - RTB 55/2003).
 

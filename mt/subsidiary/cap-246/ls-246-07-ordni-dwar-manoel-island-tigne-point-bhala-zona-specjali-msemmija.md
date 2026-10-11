@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Manoel Island/Tigne Point bħala Żona Speċjali Msemmija"
-identifier: "S.L. 246.7"
+identifier: "S.L. 246.07"
 eli: "https://legislation.mt/eli/sl/246.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/246.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Manoel Island/Tigne Point bħala Żona Speċjali Msemmija (S.L. 246.7)
-
-*1*
-
-|ONA SPE~JALI IMSEMMIJA [L.S.246.07
+# Ordni dwar Manoel Island/Tigne Point bħala Żona Speċjali Msemmija (S.L. 246.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 246.07**
 
@@ -82,8 +78,6 @@ dokumenti ohra li g]andhom x’jaqsmu ma’ dik il-persuna b]alma jg]oddu dwar l
 *Emendat: A.L. 411 ta’ l-2007.*
 
 Id-drittijiet li jit]allsu ta]t dan l-Ordni huma ta’ €232.94 g]al kull unit akkwistat minn persuna mhux residenti msemmija fl-artikolu 3(1).
-
-|ONA SPE~JALI IMSEMMIJA [L.S.246.07 3
 
 ## SKEDA
 
@@ -154,8 +148,6 @@ APPLIKAZZJONI LILL-MINISTRU RESPONSABBLI G}ALL-FINANZI MINN INDIVIDWU SABIEX JAK
 **Regolamenti dwar Tismija ta’ |oni Spe`jali dwar Proprjetà Immobbli.**
 
 **Ordni dwar Manoel Island/Tigne Point b]ala |ona Spe`jali Msemmija**
-
-|ONA SPE~JALI IMSEMMIJA [L.S.246.07 5
 
 TAQSIMA I
 

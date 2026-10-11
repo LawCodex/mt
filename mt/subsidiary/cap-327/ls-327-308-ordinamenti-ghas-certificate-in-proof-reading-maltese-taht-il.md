@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għas-Certificate in Proof-Reading:Maltese - taħt il-Patroċinju tal-Fakultà ta' l-Arti (S.L. 327.308)
 
-CERTIFICATE IN PROOF-READING: MALTESE
-
-*1*
-
-\- TA}T IL-PATRO~INJU TAL-FAKULTÀ TA’ L-ARTI [L.S.327.308
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.308**
 
 **ORDINAMENTI G}AS-CERTIFICATE IN PROOF-**

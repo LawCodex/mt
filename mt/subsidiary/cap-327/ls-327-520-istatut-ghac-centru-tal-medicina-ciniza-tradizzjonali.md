@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Istatut għaċ-Ċentru tal-Mediċina Ċiniża Tradizzjonali (S.L. 327.520)
 
-*1*
-
-TAL-MEDIĊINA ĊINIŻA TRADIZZJONALI [L.S.327.520
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.520**
 
 **STATUT GĦAĊ-ĊENTRU**
@@ -77,10 +73,6 @@ Iċ-Ċentru jitmexxa minn Bord li jkun magħmul kif ġej:
 
 (v) żewġ persuni nnominati minn Shanghai Univeristy of Traditional Chinese Medicine;
 
-**TAL-MEDIĊINA ĊINIŻA TRADIZZJONALI**
-
-*[L.S.327.520 2*
-
 (vi) rappreżentant elett mill-istudenti irreġistrati f’kors offrut miċ-Ċentru;
 
 (vii) sa żewġ skulari ta’ fama rrakkomandati minn Shanghai Univeristy of Traditional Chinese Medicine.
@@ -123,11 +115,7 @@ Il-funzjonijiet tal-Bord ikunu dawn li ġejjin:
 
 (ċ) li jgħasses l-istrateġija u l-policy taċ-Ċentru, jissorvelja l-attivitajiet u l-amministrazzjoni tiegħu u, mingħajr preġudizzju għall-ġeneralità li ssemmiet qabel, il-Bord jista’:
 
-(i) japprova business plans u l-estimi annwali tad-dħul u l-ħruġ, jistabbilixxi miri li għandhom TAL-MEDIĊINA ĊINIŻA TRADIZZJONALI [L.S.327.520
-
-jintlaħqu minn din ir-riżorsa; u
-
-*3*
+(i) japprova business plans u l-estimi annwali tad-dħul u l-ħruġ, jistabbilixxi miri li għandhom jintlaħqu minn din ir-riżorsa; u
 
 (ii) janalizza kontijiet perjodiċi tat-tmexxija.
 
@@ -161,10 +149,6 @@ Id-dmirijiet tal-Viċi Chairman/Direttur taċ-Ċentru jinkludu:
 
 • is-sessjoni ta’ Jannar - sal-aħħar tat-tielet ġimgħa ta’ Marzu;
 
-**TAL-MEDIĊINA ĊINIŻA TRADIZZJONALI**
-
-*[L.S.327.520 4*
-
 • is-sessjoni ta’ Mejju/Ġunju - ir-riżultati tal- Aħħar Sena mhux aktar tard minn jumejn qabel jitlaqqa’ l-Bord għall-Klassifikazzjoni li jsir fl-aħħar sena iżda, fi kwalunkwe każ, mhux aktar tard mill-aħħar tat-tielet ġimgħa ta’ Lulju; riżultati oħra għandhom jaslu kemm jista’ jkun malajr iżda mhux aktar tard mill-aħħar tat-tielet ġimgħa ta’ Lulju;
 
 • is-sessjoni ta’ Settembru - sal-aħħar tat-tielet ġimgha ta’ Settembru;
@@ -184,10 +168,6 @@ Id-dmirijiet tal-Viċi Chairman/Direttur taċ-Ċentru jinkludu:
 (n) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fiċ-Ċentru fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet riċenti tal-membri kollha taċ-Ċentru; ġabra fil-qosor tal-proġetti li fihom huma involuti membri taċ-Ċentru, li huma finanzjati kollha jew parzjalment minn barra; lista sħiħa tal-konferenzi/seminars/laqghat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni taċ-Ċentru ma’ terzi partijiet li jinkludi l-industrija lokali, il-Gvern jew is-soċjetà ċivili in ġenerali;
 
 (o) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju kif approvat mill-Bord għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani għaċ-Ċentru, li jkopri t-tagħlim, ir-riċerka u x-xogħol amministrattiv proġettat għaċ-Ċentru u bbażat fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti taċ-Ċentru u tal- Visiting Teaching Staff;
-
-*5*
-
-TAL-MEDIĊINA ĊINIŻA TRADIZZJONALI [L.S.327.520
 
 (p) jimmonitorja l-eżekuzzjoni tax-xogħol tal-istaff mhux akkademiku msieħeb maċ-Ċentru;
 

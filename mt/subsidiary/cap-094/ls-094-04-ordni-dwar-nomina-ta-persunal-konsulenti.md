@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Nomina ta' Persunal Konsulenti"
-identifier: "S.L. 94.4"
+identifier: "S.L. 94.04"
 eli: "https://legislation.mt/eli/sl/94.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/94.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Nomina ta' Persunal Konsulenti (S.L. 94.4)
+# Ordni dwar Nomina ta' Persunal Konsulenti (S.L. 94.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 94.04**
 

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Islamika tal-Pakistan"
-identifier: "S.L. 123.9"
+identifier: "S.L. 123.09"
 eli: "https://legislation.mt/eli/sl/123.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/123.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Islamika tal-Pakistan (S.L. 123.9)
+# Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika Islamika tal-Pakistan (S.L. 123.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 123.09**
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar ir-Reklamar u l-Promozzjoni ta’ Prodotti tat-Tabakk"
-identifier: "S.L. 315.6"
+identifier: "S.L. 315.06"
 eli: "https://legislation.mt/eli/sl/315.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/315.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar ir-Reklamar u l-Promozzjoni ta’ Prodotti tat-Tabakk (S.L. 315.6)
-
-*1*
-
-TA’ PRODOTTI TAT-TABAKK [L.S.315.06
+# Regolamenti dwar ir-Reklamar u l-Promozzjoni ta’ Prodotti tat-Tabakk (S.L. 315.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 315.06**
 

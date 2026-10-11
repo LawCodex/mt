@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet għall-Użu tal-Hard Standing Facility (S.L. 35.45)
 
-*1*
-
-TAL-HARD STANDING FACILITY [L.S.35.45 LEĠISLAZZJONI SUSSIDJARJA 35.45
+**LEĠISLAZZJONI SUSSIDJARJA 35.45**
 
 **REGOLAMENTI DWAR DRITTIJIET GĦALL-UŻU**
 
@@ -60,10 +58,6 @@ L-użu tal-Hard Standing Facility huwa soġġett għall-ħlas tad-drittijiet pro
 
 Iżda meta l-ammont dovut skont dawn ir-regolamenti jeċċedi l-ammont ta’ ħamsa u sebgħin euro (€75) dovut u mħallas skont is-subregolament (2), l-imsemmi ammont imħallas għandu jiġi akkreditat kontra l-ammont totali dovut kif stabbilit fl-Iskeda.
 
-*2*
-
-[L.S. 35.45 TAL-HARD STANDING FACILITY
-
 ## SKEDA — TABELLA I
 
 Drittijiet li għandhom jitħallsu għall-użu tal-Hard Standing Facility Id-drittijiet applikabbli għal kull jum li matulu bastiment jinżamm fil-Hard Standing Facility, sa u inkluż il-jum tat-tneħħija tiegħu, għandhom ikunu dawk ipprovduti fit-tabella ta’ hawn taħt, kif applikabbli għall-bastimenti tas-sajd irreġistrati skont l-Att dwar il- Konservazzjoni u l-Amministrazzjoni tas-Sajd. Tali drittijiet ma għandhomx jinkludu d-drittijiet dovuti għall-irfigħ ta’ bastimenti kif provdut fit-Tabella II sakemm ma jkunx speċifikat mod ieħor f’din it-tabella.
@@ -92,9 +86,7 @@ Aktar minn għoxrin €15 €30
 
 (20) metru
 
-*3*
-
-TAL-HARD STANDING FACILITY [L.S.35.45 TABELLA II
+**TABELLA II**
 
 **Bastimenti tas-sajd**
 
@@ -180,10 +172,6 @@ parank ta’ mitejn u
 
 tunnellata
 
-*4*
-
-[L.S. 35.45 TAL-HARD STANDING FACILITY
-
 **TABELLA III**
 
 **Bastimenti relatati mas-sajd**
@@ -250,9 +238,7 @@ parank ta’ mitejn u
 
 tunnellata
 
-*5*
-
-TAL-HARD STANDING FACILITY [L.S.35.45 TABELLA V
+**TABELLA V**
 
 Id-drittijiet applikabbli għal kull jum li matulu bastiment, li ma jkunx bastiment imsemmi fit-Tabella I jew III u li jkun proprjetà tal- Gvern jew dgħajsa tal-bdot li tipprovdi servizzi fil-portijiet ta’ Malta, jibqa’ fil-Hard Standing Facility, inkluż il-jum tat-tneħħija tiegħu, għandhom ikunu dawk ipprovduti f’din it-tabella ta’ hawn isfel. Tali drittijiet ma jinkludux drittijiet dovuti għall-irfigħ ta’ bastimenti pprovduti fit-Tabella VI.
 
@@ -276,13 +262,9 @@ Minn tnax- €10 €30 €45 €150 Rata ta’ €275 (12)-il miżjuda b’€12
 
 *permanenza*
 
-Aktar minn €20 €50 €75 €200 Rata ta’ €350 għoxrin miżjuda b’€150 (20) metru addizzjonali għal kull tletin (30) jum addizzjonali ta’ [L.S. 35.45 TAL-HARD STANDING FACILITY
+Aktar minn €20 €50 €75 €200 Rata ta’ €350 għoxrin miżjuda b’€150 (20) metru addizzjonali għal kull tletin (30) jum addizzjonali ta’ TABELLA VI
 
 *permanenza*
-
-**TABELLA VI**
-
-*6*
 
 Drittijiet addizzjonali għal dawk dovuti skont it-Tabella V għall-bastimenti msemmija fit-Tabella V, dovuti għal kull irfigħ ta’ tali
 

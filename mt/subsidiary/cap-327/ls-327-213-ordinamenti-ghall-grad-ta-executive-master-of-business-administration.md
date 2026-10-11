@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Executive Master of Business Administration - Executive M.B.A. -taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.213)
 
-TION - EXECUTIVE M.B.A.- TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.213
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.213**
 
 **ORDINAMENTI GĦALL-GRAD TA’ EXECUTIVE**
@@ -75,13 +69,9 @@ Il-kors għandu jkun offrut fi kwalunkwe qasam ta’ studju taħt ir-responsabbi
 
 (a) jkollhom grad ta’ Bachelor mill-anqas fit-Tielet Klassi bl-Unuri jew f’Kategorija III minn din l-Università jew minn istituzzjoni rikonoxxuta għal dan il-għan mis-Senat,
 
-sakemm li l-applikanti li jkollhom grad fit-Tielet Klassi bl-Unuri jew f’Kategorija III għandhom jissodisfaw lill-Bord li huma għandhom kwalifiki oħrajn, inkluża esperjenza rilevanti, miksuba wara l- TION - EXECUTIVE M.B.A.- TAĦT IL-PATROĊINJU TAL-FAKULTÀ [L.S.327.213 TAL-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY
+sakemm li l-applikanti li jkollhom grad fit-Tielet Klassi bl-Unuri jew f’Kategorija III għandhom jissodisfaw lill-Bord li huma għandhom kwalifiki oħrajn, inkluża esperjenza rilevanti, miksuba wara l-grad tal-ewwel ċiklu tagħhom; jew
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 239 tal-2023.
-
-grad tal-ewwel ċiklu tagħhom; jew
-
-*2*
 
 (b) jkunu persuni ’l fuq minn sitta u għoxrin sena li jkollhom higher diploma jew diploma ta’ din l-università li tinkludi mhux anqas minn 90 krettu ECTS f’qasam relatat ikklassifikata mill-anqas b’Mertu, jew kwalifiki ekwivalenti. Dawn l-applikanti jistgħu jkunu meħtieġa juru, b’permezz ta’ intervista, li huma kapaċi jsegwu l-Kors bi profitt.”
 
@@ -116,12 +106,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 (2) L-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn żewġ taqsimiet studju jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ taqsimiet studju permess skont il-paragrafu (2) jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kredti għal xi taqsima studju, jkunu meqjusa li weħlu mill-kors.
-
-TION - EXECUTIVE M.B.A.- TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.213
 
 ## 11. Rapport ta’ proġett applikat. Enumerat mill-ġdid u sostitwit: A.L. 351 tal-2015.
 

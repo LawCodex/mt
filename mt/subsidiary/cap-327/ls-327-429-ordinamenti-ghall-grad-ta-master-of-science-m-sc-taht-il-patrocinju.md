@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Science - M.Sc.- taħt il-patroċinju tal-Istitut tas-Sistemi (S.L. 327.429)
 
-*1*
-
-PATROĊINJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI [L.S.327.429
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.429**
 
 ORDINAMENTI GĦALL-GRAD TA’ MASTER OF SCIENCE - M. Sc. - TAĦT IL-PATROĊINJU
@@ -67,11 +63,9 @@ Il-kors għandu jkun offrut fi kwalunkwe qasam ta’ studju relatat mas-Sistemi 
 
 (2) Il-Bord, fid-diskrezzjoni tiegħu, jista’ jirrakkomanda d-dħul tal-applikanti li għandhom grad tal-ewwel ċiklu miksub fit-Tielet Klassi (bl-Unuri), f’qasam ta’ studju li l-Bord jikkonsidra bħala rilevanti, u miksub fl-aħħar għaxar snin qabel ir-reġistrazzjoni għall-Kors. Dawn l-applikanti jkunu eliġibbli għal Kors tal-Master’s wara li jtemmu b’suċċess il-Programm Preparatorju b’marka medja ta’ mill-anqas 55%.
 
-(3) L-applikanti li jkunu kisbu l-ewwel grad tagħhom aktar minn għaxar snin qabel ir-reġistrazzjoni għall-kors jistgħu jidħlu wkoll, sakemm li jagħtu prova suffiċjenti tal-kompetenza tagħhom biex isegwu l-kors bi profitt. Il-Bord, fid-diskrezzjoni tiegħu, jista’ [L.S.327.429 PATROĊINJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI jitlob lil dawn l-applikanti biex isegwu programm supplimentari jew preparatorju kif speċifikat fl-ordinament 5.
+(3) L-applikanti li jkunu kisbu l-ewwel grad tagħhom aktar minn għaxar snin qabel ir-reġistrazzjoni għall-kors jistgħu jidħlu wkoll, sakemm li jagħtu prova suffiċjenti tal-kompetenza tagħhom biex isegwu l-kors bi profitt. Il-Bord, fid-diskrezzjoni tiegħu, jista’ jitlob lil dawn l-applikanti biex isegwu programm supplimentari jew preparatorju kif speċifikat fl-ordinament 5.
 
 (4) L-applikanti kollha jistgħu jintalbu juru l-kompetenza tagħhom f’dawk il-kapaċitajiet meħtieġa min-natura tar-riċerka proposta permezz ta’ intervista estiża u / jew is-sottomissjoni ta’ dokumentazzjoni xierqa. F’każijiet fejn xi nuqqasijiet sinifikanti jiġu identifikati, il-Bord, fid-diskrezzjoni tiegħu, jista’ jeħtieg lill-applikanti jsegwu programm supplimentari u / jew programm preparatorju kif speċifikat fl-ordinament 5.
-
-*2*
 
 ## 5. Programmi supplimentari u preparatorji.
 
@@ -107,11 +101,9 @@ L-istudenti jkunu meħtieġa jissottomettu dissertazzjoni individwali ta’ madw
 
 It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu sottomessi lill-Bord għall-approvazzjoni fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
-*3*
+## 12. Approvazzjoni tal-proposta.
 
-PATROĊINJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI [L.S.327.429 12. Ix-xogħol fuq id-dissertazzjoni għandu jsir fi kwalunkwe żmien matul il-kors wara l-approvazzjoni tal-proposta.
-
-*Approvazzjoni tal-proposta.*
+Ix-xogħol fuq id-dissertazzjoni għandu jsir fi kwalunkwe żmien matul il-kors wara l-approvazzjoni tal-proposta.
 
 ## 13. Superviżur.
 
@@ -142,10 +134,6 @@ PATROĊINJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI [L.S.327.429 12. Ix-xogħol fuq i
 *Miżjud: A.L. 121 tal-2014.*
 
 L-istudenti jkunu meħtieġa jippreżentaw ix-xogħol li jkunu għamlu waqt ir-riċerka tagħhom, f’seminars interni organizzati mill-Istitut.
-
-*4*
-
-[L.S.327.429 PATROĊINJU TAL-ISTITUT TAS-SISTEMI AMBJENTALI
 
 ## 16. Bord tal- Eżaminaturi. Enumerat mill-ġdid: A.L. 121 tal-2014.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Żona ta' Metropolis Plaza, Gżira, bħala Żona Speċjali Msemmija (S.L. 246.16)
 
-*1*
-
-B}ALA |ONA SPE~JALI MSEMMIJA [L.S.246.16
-
 **LE{ISLAZZJONI SUSSIDJARJA 246.16**
 
 **ORDNI DWAR |ONA TA’ METROPOLIS PLAZA,**

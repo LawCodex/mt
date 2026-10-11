@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Bastimenti li Jitħaddmu Mekkanikament (Passiġġieri u Merkanzija) (S.L. 10.23)
 
-BASTIMENTI LI JIT}ADDMU MEKKANIKAMENT
-
-*1*
-
-(PASSI{{IERI U MERKANZIJA) [L.S.10.23
-
 **LE{ISLAZZJONI SUSSIDJARJA 10.23**
 
 **REGOLAMENTI DWAR BASTIMENTI**

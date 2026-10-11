@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kondizzjonijiet tad-Dħul u tar-Residenza ta’ Ċittadini ta’ Pajjiżi Terzi għall-Finijiet ta’ Impjieg bi Kwalifiki Għoljin (S.L. 217.27)
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*1*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.27**
 
 REGOLAMENTI DWAR IL-KONDIZZJONIJIET TAD-
@@ -62,12 +56,6 @@ Għall-fini ta’ dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma teħtieġx x
 
 "attività tan-negozju" tfisser attività temporanja direttament relatata mal-interessi tan-negozju ta’ min iħaddem u mad-dmirijiet professjonali tad-detentur tal-Karta Blu tal-UE abbażi tal-kuntratt tax-xogħol fl-ewwel Stat Membru, inkluż l-attendenza għal laqgħat tan-negozju interni jew esterni, l-attendenza għal konferenzi jew seminars, in-negozjar ta’ ftehimiet kummerċjali, twettiq ta’ attivitajiet ta’ bejgħ jew ta’ kummerċjalizzazzjoni, esplorazzjoni ta’ opportunitajiet ta’ negozju, jew attendenza u riċeviment ta’ taħriġ;
 
-**ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’**
-
-**IMPJIEG BI KWALIFIKI GĦOLJIN**
-
-*[L.S. 217.27 2*
-
 * L.S. 595.07.*
 
 "awtorità kompetenti" tfisser l-Aġenzija Identità Malta mwaqqfa bl-artikolu 3 tal-Ordni li Jwaqqaf l-Aġenzija Identità Malta;
@@ -96,12 +84,6 @@ Għall-fini ta’ dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma teħtieġx x
 
 "Karta Blu tal-UE" tfisser permess ta’ residenza li jkollu fuqu t-terminu "Karta Blu tal-UE" li jintitola lid-detentur tiegħu sabiex jirrisjedi u jaħdem fit-territorju ta’ Malta;
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*3*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
-
 "kwalifiki professjonali ogħla" tfisser kwalifiki li jagħtu prova b’evidenza ta’ kwalifiki ta’ edukazzjoni ogħla jew ħiliet professjonali ogħla;
 
 "kwalifiki ta' edukazzjoni għolja" tfisser kwalunkwe diploma, ċertifikat jew evidenza oħra ta' kwalifiki formali mogħtija minn istituzzjoni ta' edukazzjoni ogħla li tagħti prova tat-tlestija b'suċċess ta' programm post-sekondarju ta' edukazzjoni ogħla, bħal sett ta' korsijiet provduti minn stabbiliment edukattiv rikonoxxut miċ-Ċentru Malti għal Rikonoxximent ta’ Kwalifiki u ta’ Informazzjoni, kwalunkwe ċentru ieħor li huwa membru tan-netwerks ENIC/NARIC u kif elenkati min-netwerks ENIC/NARIC:
@@ -126,13 +108,7 @@ Iżda għall-finijiet ta’ dawn ir-regolamenti, kwalifika ta’ edukazzjoni og�
 
 "Regolament (KE) Nru 883/2004" tfisser ir-Regolament (KE) Nru 883/2004 tal-Parlament Ewropew u tal-Kunsill tad-29 ta’ April 2004 dwar il-kordinazzjoni ta’ sistemi ta’ sigurtà soċjali;
 
-"salarju annwali gross" tfisser is-salarju annwali gross ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-**IMPJIEG BI KWALIFIKI GĦOLJIN**
-
-*[L.S. 217.27 4*
-
-medju ppublikat mill-Uffiċċju Nazzjonali tal-Istatistika fl- Istħarriġ dwar is-Suq tax-Xogħol;
+"salarju annwali gross" tfisser is-salarju annwali gross medju ppublikat mill-Uffiċċju Nazzjonali tal-Istatistika fl- Istħarriġ dwar is-Suq tax-Xogħol;
 
 "tieni Stat Membru" tfisser kwalunkwe Stat Membru li fih id-detentur tal-Karta Blu tal-UE jkollu l-ħsieb li jeżerċita jew qiegħed jeżerċita d-dritt ta’ mobilità skont dawn ir-regolamenti, għajr l-ewwel Stat Membru.
 
@@ -159,12 +135,6 @@ medju ppublikat mill-Uffiċċju Nazzjonali tal-Istatistika fl- Istħarriġ dwar 
 *        L.S. 217.21.*
 
 (e) li jidħlu f’Malta għal impenji li jinsabu fi ftehim internazzjonali li jiffaċilita d-dħul u s-soġġorn temporanju ta’ persuni fiżiċi relatati ma’ ċerti kategoriji ta’ negozju u l-investiment, għajr ċittadini ta’ pajjiżi terzi li jkunu daħlu fit-territorju ta’ Malta bħala trasferiment intra-ażjendali skont ir- Regolamenti dwar il-Kondizzjonijiet għad-Dħul u r-Residenza ta’ Ċittadini ta’ Pajjiż Terz, fil-Qafas ta’ Trasferimenti Intra-ażjendali;
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*5*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
 
 (f) li t-tkeċċija tagħhom ġiet sospiża għal raġunijiet ta’ fatt jew ta’ liġi;
 
@@ -194,10 +164,6 @@ Iżda wkoll il-Ministru responsabbli għall-impjieg kull sena għandu jikkomunik
 
 (b) għal professjonijiet mhux regolati, jippreżenta dokumenti li jagħtu prova tal-kwalifiki professjonali ogħla relatati max-xogħol li ser isir;
 
-*6*
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
-
 *      L.S. 451.03.*
 
 (ċ) għal professjonijiet regolati, jippreżenta dokumenti li jagħtu prova li jissodisfa l-kondizzjonijiet stabbiliti skont il-liġi għall-eżerċizzju miċ-ċittadini tal-Unjoni Ewropea tal-professjoni regolata speċifikata fil-kuntratt tax-xogħol jew fl-offerta vinkolanti ta’ impjieg, skont ir- Regolamenti dwar ir-Rikonoxximent Reċiproku ta’ Kwalifiki Professjonali;
@@ -219,12 +185,6 @@ Iżda wkoll il-Ministru responsabbli għall-impjieg kull sena għandu jikkomunik
 (a) titlob lill-applikant sabiex jippreżenta d-dokumenti previsti fil-paragrafu (b) jew (ċ) tas-subregolament (1), jekk il-kwalifiki professjonali ogħla rilevanti kienu diġà vverifikati fil-kuntest tal-applikazzjoni għall-permess ta’ residenza;
 
 (b) titlob lill-applikant sabiex jippreżenta l-evidenza prevista fil-paragrafu (e) tas-subregolament (1), sakemm l-applikazzjoni ma tiġix sottomessa fil-kuntest ta’ bidla fl-impjieg, f’liema każ ir-regolament 13 għandu japplika skont dan; u
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*7*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
 
 (ċ) tapplika r-regolament 6(1)(e), sakemm l-applikazzjoni ma tiġix sottomessa fil-kuntest ta’ bidla fl-impjieg, f’liema każ ir-regolament 13 għandu japplika skont dan.
 
@@ -252,12 +212,6 @@ Dawn ir-regolamenti ma għandhomx jaffettwaw id-dritt tal-awtorità kompetenti w
 
 (f) fejn min iħaddem ikun naqas milli jissodisfa l-obbligi legali tiegħu rigward tas-sigurtà soċjali, it-tassazzjoni, id-drittijiet tax-xogħol jew il-kondizzjonijiet tax-xogħol;
 
-**ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’**
-
-**IMPJIEG BI KWALIFIKI GĦOLJIN**
-
-*[L.S. 217.27 8*
-
 (g) fejn in-negozju ta’ min iħaddem ikun qed jiġi, jew ġie, stralċ taħt il-liġijiet nazzjonali tal-insolvenza jew ma jwettaq l-ebda attività ekonomika;
 
 *   L.S. 217.14.*
@@ -284,13 +238,9 @@ Dawn ir-regolamenti ma għandhomx jaffettwaw id-dritt tal-awtorità kompetenti w
 
 (f) min iħaddem ikun naqas milli jissodisfa l-obbligi legali tiegħu rigward tas-sigurtà soċjali, it-tassazzjoni, id-drittijiet tax-xogħol jew il-kondizzjonijiet tax-xogħol;
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*9*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27 (g) id-detentur tal-Karta Blu tal-UE ma jkollux biżżejjed riżorsi sabiex imantni lilu nnifsu u, fejn applikabbli, lill-membri tal-familja tiegħu mingħajr ma jirrikorri għall-għajnuna soċjali skont l-Att dwar is-Sigurtà Soċjali u r-regolamenti magħmula taħtu;
-
 *     Kap. 318.*
+
+(g) id-detentur tal-Karta Blu tal-UE ma jkollux biżżejjed riżorsi sabiex imantni lilu nnifsu u, fejn applikabbli, lill-membri tal-familja tiegħu mingħajr ma jirrikorri għall-għajnuna soċjali skont l-Att dwar is-Sigurtà Soċjali u r-regolamenti magħmula taħtu;
 
 (h) id-detentur tal-Karta Blu jkun qiegħed jirrisjedi f’Malta għal finijiet oħra għajr dawk li għalihom hu kien awtorizzat li jirrisjedi;
 
@@ -306,11 +256,7 @@ Iżda għall-finijiet tal-paragrafu (ċ), l-awtorità kompetenti għandha tevalw
 
 (2) B’deroga mill-paragrafu (f) tas-subregolament (1), in-nuqqas li ssir komunikazzjoni meħtieġa mis-subregolamenti (2)(a), (3) jew (4) tar-regolament 13, ma għandhiex titqies bħala raġuni suffiċjenti sabiex tiġi rtirata jew ma tiġġeddidx il-Karta Blu tal-UE, jekk id-detentur tal-Karta Blu tal-UE jagħti prova li l-komunikazzjoni ma waslitx għand l-awtorità kompetenti għal raġuni barra mill-kontroll tiegħu.
 
-(3) B’deroga mill-paragrafi (b) u (d) tas-subregolament (1), l-awtorità kompetenti tista’ tiddeċiedi li ma tirtirax jew ma tirrifjutax li ġġedded Karta Blu tal-UE fejn id-detentur tal-Karta Blu tal-UE temporanjament, fi kwalunkwe każ għal mhux aktar minn tnax-il (12) xahar, ma jissodisfax il-kriterji għad-dħul stabbiliti fis-subregolamenti (1)(a), (3) jew, fejn applikabbli, (4) jew (5) tar-regolament 4, bħala ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
-
-riżultat ta’ mard, diżabilità jew leave tal-ġenituri.
-
-*10*
+(3) B’deroga mill-paragrafi (b) u (d) tas-subregolament (1), l-awtorità kompetenti tista’ tiddeċiedi li ma tirtirax jew ma tirrifjutax li ġġedded Karta Blu tal-UE fejn id-detentur tal-Karta Blu tal-UE temporanjament, fi kwalunkwe każ għal mhux aktar minn tnax-il (12) xahar, ma jissodisfax il-kriterji għad-dħul stabbiliti fis-subregolamenti (1)(a), (3) jew, fejn applikabbli, (4) jew (5) tar-regolament 4, bħala riżultat ta’ mard, diżabilità jew leave tal-ġenituri.
 
 (4) B’deroga mill-paragrafi (b), (d) u (g) tas-subregolament (1), il-Karta Blu tal-UE ma għandhiex tiġi rtirata u t-tiġdid tagħha ma għandux jiġi rrifjutat f’każ li d-detentur tal-Karta Blu tal-UE jinsab bla xogħol, ħlief fejn:
 
@@ -328,13 +274,7 @@ riżultat ta’ mard, diżabilità jew leave tal-ġenituri.
 
 (1) Meta ċittadin ta’ pajjiż terz jissodisfa l-kriterji stabbiliti fir-regolament 4 u fejn ma tapplika l-ebda raġuni għal rifjut skont ir-regolament 6, għandha tinħariġlu Karta Blu tal-UE. L-awtorità kompetenti għandha toħroġ viża liċ-ċittadin ta’ pajjiż terz sabiex jikseb Karta Blu tal-UE.
 
-(2) L-awtorità kompetenti għandha tistabbilixxi perjodu standard ta’ validità għall-Karta Blu tal-UE, li ma għandux ikun inqas minn erbgħa u għoxrin (24) xahar. Jekk il-kuntratt tax-xogħol tad-detentur tal-Karta Blu tal-UE jkopri perjodu iqsar, il-Karta Blu tal-UE għandha tkun valida għal mill-inqas it-tul taż-żmien tal-kuntratt tax-xogħol flimkien ma’ tliet (3) xhur, iżda għal mhux inqas mill-perjodu standard ta’ erbgħa u għoxrin (24) xhur. Madanakollu, jekk il-perjodu ta’ validità tad-dokument tal-ivvjaġġar tad-detentur tal-Karta Blu tal- UE hu iqsar mill-perjodu ta’ validità tal-Karta Blu tal-UE li jkun ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*11*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
-
-japplika skont dan ir-regolament, il-Karta Blu tal-UE għandha tkun valida tal-inqas għall-perjodu ta’ validità tad-dokument tal-ivvjaġġar.
+(2) L-awtorità kompetenti għandha tistabbilixxi perjodu standard ta’ validità għall-Karta Blu tal-UE, li ma għandux ikun inqas minn erbgħa u għoxrin (24) xahar. Jekk il-kuntratt tax-xogħol tad-detentur tal-Karta Blu tal-UE jkopri perjodu iqsar, il-Karta Blu tal-UE għandha tkun valida għal mill-inqas it-tul taż-żmien tal-kuntratt tax-xogħol flimkien ma’ tliet (3) xhur, iżda għal mhux inqas mill-perjodu standard ta’ erbgħa u għoxrin (24) xhur. Madanakollu, jekk il-perjodu ta’ validità tad-dokument tal-ivvjaġġar tad-detentur tal-Karta Blu tal- UE hu iqsar mill-perjodu ta’ validità tal-Karta Blu tal-UE li jkun japplika skont dan ir-regolament, il-Karta Blu tal-UE għandha tkun valida tal-inqas għall-perjodu ta’ validità tad-dokument tal-ivvjaġġar.
 
 (3) (a) Il-Karta Blu tal-UE għandha tinħareġ mill-awtorità kompetenti skont il-format uniformi stabbilit fir-Regolament (KE) Nru 1030/2002;
 
@@ -349,10 +289,6 @@ Iżda qabel ma l-awtorità kompetenti ddaħħal dik ir-rimarka, għandha tinnoti
 Iżda wkoll l-Istat Membru li għandu jissemma fir-rimarka għandu jwieġeb sa mhux aktar tard minn xahar (1) wara li jirċievi t-talba għall-informazzjoni. Fejn il-protezzjoni internazzjonali tkun ġiet irtirata b’deċiżjoni finali, l-awtorità kompetenti li toħroġ il- Karta Blu tal-UE ma għandhiex iddaħħal dik ir-rimarka:
 
 Iżda wkoll fejn, skont l-istrumenti internazzjonali rilevanti jew il-liġi applikabbli, ir-responsabbiltà għall-protezzjoni internazzjonali tad-detentur tal-Karta Blu tal-UE ġiet trasferita lil Malta wara li tkun ħarġet Karta Blu tal-UE skont l-ewwel proviso, l-awtorità kompetenti għandha temenda r-rimarka kif xieraq fi żmien tliet (3) xhur wara t-trasferiment.
-
-*12*
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
 
 (6) Fejn Karta Blu tal-UE tinħareġ mill-awtorità kompetenti abbażi ta’ ħiliet professjonali ogħla f’impjiegi mhux elenkati fl- Iskeda, l-awtorità kompetenti li toħroġ il-Karta Blu tal-UE għandha ddaħħal ir-rimarka li ġejja f’dik il-Karta Blu tal-UE, taħt l-intestatura "Rimarki": "[Impjieg mhux elenkat fl-Iskeda]".
 
@@ -374,13 +310,7 @@ Iżda wkoll fejn, skont l-istrumenti internazzjonali rilevanti jew il-liġi appl
 
 (2) Meta d-dokumenti ppreżentati jew l-informazzjoni pprovduta b’sostenn għall-applikazzjoni ma jkunux adegwati jew mhux kompluti, l-awtorità kompetenti għandha tinnotifika lill-applikant bid-dokumenti jew informazzjoni addizzjonali li huma meħtieġa u għandha tistabbilixxi skadenza raġonevoli sabiex jiġu ppreżentati jew provduti. Il-perjodu msemmi fis-subregolament (1), għandu jiġi sospiż sakemm l-awtoritajiet ikunu rċevew id-dokumenti jew l-informazzjoni addizzjonali meħtieġa. Jekk id-dokumenti addizzjonali jew l-informazzjoni meħtieġa ma jkunux ġew ipprovduti f’dik l-iskadenza, l-applikazzjoni għandha tiġi miċħuda.
 
-(3) Kwalunkwe deċiżjoni sabiex tiġi miċħuda applikazzjoni għal Karta Blu tal-UE, li tiġi rtirata Karta Blu tal-UE jew li ma tiġġeddidx Karta Blu tal-UE għandha tiġi nnotifikata bil-miktub liċ-ċittadin ta’ pajjiż terz ikkonċernat u fejn rilevanti, lil min iħaddmu. In- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*13*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
-
-notifika għandha tispeċifika r-raġunijiet għad-deċiżjoni, fejn jista’ jitressaq l-appell u l-awtorità kompetenti li fil-konfront tagħha jista’ jintavola appell kif ukoll il-limitu ta’ żmien għall-preżentata ta’ appell:
+(3) Kwalunkwe deċiżjoni sabiex tiġi miċħuda applikazzjoni għal Karta Blu tal-UE, li tiġi rtirata Karta Blu tal-UE jew li ma tiġġeddidx Karta Blu tal-UE għandha tiġi nnotifikata bil-miktub liċ-ċittadin ta’ pajjiż terz ikkonċernat u fejn rilevanti, lil min iħaddmu. In-notifika għandha tispeċifika r-raġunijiet għad-deċiżjoni, fejn jista’ jitressaq l-appell u l-awtorità kompetenti li fil-konfront tagħha jista’ jintavola appell kif ukoll il-limitu ta’ żmien għall-preżentata ta’ appell:
 
 Iżda applikant li jħossu aggravat b’deċiżjoni meħuda skont id-dispożizzjonijiet ta’ dawn ir-regolamenti għandu d-dritt għall-appell quddiem il-Bord tal-Appell dwar l-Immigrazzjoni imwaqqaf bl-artikolu 25A tal-Att u skont id-dispożizzjonijiet tal-imsemmi Att:
 
@@ -400,11 +330,7 @@ Meta toħroġ Karta Blu tal-UE, l-awtorità kompetenti ma għandhiex titlob lill
 
 (1) Kwalunkwe persuna li tikser kwalunkwe dispożizzjoni ta’ dawn ir-regolamenti, għandha tkun ħatja ta’ reat u meta tinstab ħatja, għandha teħel multa li ma taqbiżx elf u ħames mitt euro (€1,500).
 
-(2) Meta l-persuna misjuba ħatja ta’ reat skont dawn ir-regolamenti tkun id-direttur, maniġer, segretarju jew uffiċjal prinċipali ieħor ta’ korp magħqud, jew tkun persuna li jkollha s-setgħa ta’ rappreżentanza ta’ tali korp jew ikollha awtorità li tieħu deċiżjonijiet f’isem dak il-korp jew ikollha awtorità sabiex teżerċita kontroll fi ħdan dak il-korp, u r-reat li tiegħu dik il-persuna nstabet ħatja kien imwettaq għall-benefiċċju, xi parti jew kollu ta’ dak il-korp magħqud, l- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
-
-imsemmija persuna għandha għall-finijiet ta’ dawn ir-regolamenti titqies li hi vestita bir-rappreżentanza legali tal-istess korp magħqud u għandha teħel multa li ma taqbiżx elfejn u ħames mitt euro (€2,500).
-
-*14*
+(2) Meta l-persuna misjuba ħatja ta’ reat skont dawn ir-regolamenti tkun id-direttur, maniġer, segretarju jew uffiċjal prinċipali ieħor ta’ korp magħqud, jew tkun persuna li jkollha s-setgħa ta’ rappreżentanza ta’ tali korp jew ikollha awtorità li tieħu deċiżjonijiet f’isem dak il-korp jew ikollha awtorità sabiex teżerċita kontroll fi ħdan dak il-korp, u r-reat li tiegħu dik il-persuna nstabet ħatja kien imwettaq għall-benefiċċju, xi parti jew kollu ta’ dak il-korp magħqud, l-imsemmija persuna għandha għall-finijiet ta’ dawn ir-regolamenti titqies li hi vestita bir-rappreżentanza legali tal-istess korp magħqud u għandha teħel multa li ma taqbiżx elfejn u ħames mitt euro (€2,500).
 
 ## TAQSIMA III — Drittijiet
 
@@ -428,12 +354,6 @@ Iżda l-aċċess għal impjieg li jinvolvi l-eżerċizzju ta’ awtorità pubbli
 
 (6) Id-detentur tal-Karta Blu tal-UE għandu jgħarraf lill-awtorità kompetenti bil-bidu u, fejn xieraq, bit-tmiem tal-perjodu tal-qgħad, skont il-proċeduri applikabbli.
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*15*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
-
 (7) Bla ħsara għall-kriterji għad-dħul stabbiliti fir-regolament 4, l-awtorità kompetenti tista’ tħalli lid-detenturi tal-Karta Blu tal-UE jidħlu f’attività ta’ impjieg għal rashom b’mod parallel mal-attività f’impjieg bi kwalifiki għoljin, skont il-kondizzjonijiet stabbiliti fil-liġi applikabbli. Dan ma għandux jaffettwa l-kompetenza tal-awtorità kompetenti sabiex tillimita l-ambitu tal-attività permessa ta’ ħaddiem għal rasu:
 
 Iżda kwalunkwe attività ta’ tali impjieg għal rasu għandha tkun sussidjarja għall-attività ewlenija tad-detentur tal-Karta Blu tal-UE.
@@ -454,11 +374,7 @@ Iżda kwalunkwe attività ta’ tali impjieg għal rasu għandha tkun sussidjarj
 
 (ċ) l-edukazzjoni u t-taħriġ vokazzjonali:
 
-Iżda l-awtorità kompetenti tista’ tirrestrinġi t-trattament ugwali fir-rigward ta’ għotjiet u self ta’ studju u manteniment jew għotjiet u self oħra fir-rigward ta’ ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
-
-edukazzjoni sekondarja u ogħla u taħriġ vokazzjonali. L-aċċess għall-edukazzjoni universitarja u post-sekondarja huwa soġġett għal prerekwiżiti speċifiċi skont il-liġijiet applikabbli;
-
-*16*
+Iżda l-awtorità kompetenti tista’ tirrestrinġi t-trattament ugwali fir-rigward ta’ għotjiet u self ta’ studju u manteniment jew għotjiet u self oħra fir-rigward ta’ edukazzjoni sekondarja u ogħla u taħriġ vokazzjonali. L-aċċess għall-edukazzjoni universitarja u post-sekondarja huwa soġġett għal prerekwiżiti speċifiċi skont il-liġijiet applikabbli;
 
 (d) ir-rikonoxximent ta’ diplomi, ċertifikati u kwalifiki professjonali oħra skont il-proċeduri applikabbli rilevanti;
 
@@ -478,13 +394,7 @@ Iżda l-awtorità kompetenti tista’ tirrestrinġi t-trattament ugwali fir-rigw
 
 (5) Dan ir-regolament japplika għad-detenturi tal-Karta Blu tal-UE li huma benefiċjarji ta’ protezzjoni internazzjonali biss meta jirrisjedu fi Stat Membru li ma jkunx l-Istat Membru li tahom protezzjoni internazzjonali.
 
-(6) Fejn l-awtorità kompetenti toħroġ permessi għal residenza għall-fini ta’ impjieg bi kwalifiki għoljin, għandha tagħti lid-detenturi tal-Karta Blu tal-UE l-istess drittijiet ta’ trattament ugwali bħal dawk mogħtija lid-detenturi ta’ permessi għal residenza, fejn tali ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*17*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
-
-drittijiet ta’ trattament ugwali jkunu aktar favorevoli minn dawk previsti f’dan ir-regolament.
+(6) Fejn l-awtorità kompetenti toħroġ permessi għal residenza għall-fini ta’ impjieg bi kwalifiki għoljin, għandha tagħti lid-detenturi tal-Karta Blu tal-UE l-istess drittijiet ta’ trattament ugwali bħal dawk mogħtija lid-detenturi ta’ permessi għal residenza, fejn tali drittijiet ta’ trattament ugwali jkunu aktar favorevoli minn dawk previsti f’dan ir-regolament.
 
 ### 15. Membri tal-familja. L.S. 217.06.
 
@@ -512,11 +422,7 @@ drittijiet ta’ trattament ugwali jkunu aktar favorevoli minn dawk previsti f�
 
 *L.S. 217.06.        Kap. 452.*
 
-(7) B’deroga mir-regolament 15 tar-Regolamenti dwar ir- Rijunifikazzjoni tal-Familji, u bla ħsara għar-restrizzjonijiet imsemmija fir-regolament 13(8), il-membri tal-familja għandu jkollhom aċċess għal kwalunkwe impjieg, u attività ta’ ħaddiema għal rashom skont ir-rekwiżiti applikabbli skont l-Att dwar l-Impiegi u r- ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
-
-Relazzjonijiet Industrijali u r-regolamenti magħmula taħtu.
-
-*18*
+(7) B’deroga mir-regolament 15 tar-Regolamenti dwar ir- Rijunifikazzjoni tal-Familji, u bla ħsara għar-restrizzjonijiet imsemmija fir-regolament 13(8), il-membri tal-familja għandu jkollhom aċċess għal kwalunkwe impjieg, u attività ta’ ħaddiema għal rashom skont ir-rekwiżiti applikabbli skont l-Att dwar l-Impiegi u r- Relazzjonijiet Industrijali u r-regolamenti magħmula taħtu.
 
 *L.S. 217.06.*
 
@@ -536,13 +442,7 @@ Relazzjonijiet Industrijali u r-regolamenti magħmula taħtu.
 
 * L.S. 217.05.*
 
-(a) in-numru ta’ snin ta’ residenza legali u kontinwa meħtieġa skont ir-regolament 4(1) tar-Regolamenti dwar Status ta’ Residenti li joqgħodu għal Żmien Twil (Ċittadini ta’ Pajjiżi Terzi) bħala detentur ta’ Karta Blu tal-UE, permess ta’ residenza għal impjieg bi kwalifi għoljin, awtorizzazzjoni bħala riċerkatur jew, fejn xieraq, awtorizzazzjoni bħala student skont ir-regolament 4(2) tar-Regolamenti dwar Status ta’ Residenti li joqgħodu għal Żmien Twil (Ċittadini ta’ Pajjiżi Terzi) jew bħala benefiċjarju ta’ protezzjoni internazzjonali fi ħdan it-territorju ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*19*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
-
-ta’ Malta; u
+(a) in-numru ta’ snin ta’ residenza legali u kontinwa meħtieġa skont ir-regolament 4(1) tar-Regolamenti dwar Status ta’ Residenti li joqgħodu għal Żmien Twil (Ċittadini ta’ Pajjiżi Terzi) bħala detentur ta’ Karta Blu tal-UE, permess ta’ residenza għal impjieg bi kwalifi għoljin, awtorizzazzjoni bħala riċerkatur jew, fejn xieraq, awtorizzazzjoni bħala student skont ir-regolament 4(2) tar-Regolamenti dwar Status ta’ Residenti li joqgħodu għal Żmien Twil (Ċittadini ta’ Pajjiżi Terzi) jew bħala benefiċjarju ta’ protezzjoni internazzjonali fi ħdan it-territorju ta’ Malta; u
 
 (b) sentejn (2) ta’ residenza legali u kontinwa bħala detentur tal-Karta Blu tal-UE fit-territorju tal-Istat Membru fejn l-applikazzjoni għall-istatus ta’ resident tal-Unjoni Ewropea għal żmien twil tiġi sottomessa immedjatament qabel is-sottomissjoni tal-applikazzjoni rilevanti.
 
@@ -566,10 +466,6 @@ ta’ Malta; u
 
 (2) L-awtorità kompetenti għandha tindika l-kliem "Ex detentur tal-Karta Blu tal-UE" fil-permess ta’ residenza msemmi fis-subregolament (1) taħt l-intestatura "rimarki".
 
-*20*
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
-
 ## TAQSIMA IV — Mobilità bejn l-Istati Membri
 
 ### 18. Mobilità għal żmien qasir.
@@ -585,12 +481,6 @@ ta’ Malta; u
 (2) Fejn il-Karta Blu tal-UE tinħareġ minn Stat Membru ieħor li ma japplikax l-acquis ta’ Schengen b’mod sħiħ, u d-detentur tal-Karta Blu tal-UE jaqsam, għall-fini ta’ mobilità għal żmien twil, fruntiera interna li għaliha l-kontrolli jkunu għadhom ma tneħħewx f’Malta, l-awtorità kompetenti tista’ titlob lid-detentur tal-Karta Blu tal-UE sabiex jippreżenta l-Karta Blu tal-UE valida maħruġa mill-ewwel Stat Membru u kuntratt ta’ xogħol jew offerta ta’ xogħol vinkolanti għal impjieg bi kwalifiki għoljin għal perjodu ta’ mill-inqas sitt (6) xhur f’Malta.
 
 (3) (a) Mill-aktar fis possibbli u mhux aktar tard minn xahar (1) wara li d-detentur tal-Karta Blu tal-UE jkun daħal fit-territorju ta’ Malta, applikazzjoni għal Karta Blu tal-UE għandha tiġi sottomessa lill-awtorità kompetenti minn min iħaddem. Dik l-applikazzjoni għandha tkun akkumpanjata mid-dokumenti kollha li jagħtu prova li l-kondizzjonijiet imsemmija fis-subregolament (4) ikunu ġew sodisfatti.
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*21*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
 
 (b) Id-detentur tal-Karta Blu tal-UE għandu jitħalla jibda jaħdem f’Malta mhux aktar tard minn tletin (30) jum wara d-data tas-sottomissjoni tal-applikazzjoni kompluta.
 
@@ -614,11 +504,7 @@ Iżda għal professjonijiet mhux regolati, fejn l-ewwel Stat Membru jkun ħareġ
 
 (6) Għall-finijiet ta’ applikazzjoni kif imsemmija fis-subregolament 3, l-awtorità kompetenti tista’ titlob lill-applikant:
 
-(a) għal professjonijiet mhux regolati, fejn id-detentur tal-Karta Blu tal-UE jkun ħadem għal inqas minn ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
-
-sentejn (2) fl-ewwel Stat Membru, sabiex jippreżenta dokumenti li jattestaw kwalifiki professjonali ogħla fir-rigward tax-xogħol li jrid jitwettaq, kif previst fil-liġi applikabbli;
-
-*22*
+(a) għal professjonijiet mhux regolati, fejn id-detentur tal-Karta Blu tal-UE jkun ħadem għal inqas minn sentejn (2) fl-ewwel Stat Membru, sabiex jippreżenta dokumenti li jattestaw kwalifiki professjonali ogħla fir-rigward tax-xogħol li jrid jitwettaq, kif previst fil-liġi applikabbli;
 
 * Kap. 318.*
 
@@ -642,13 +528,7 @@ Iżda bla ħsara għas-subregolament (4), deċiżjoni li tiġi miċħuda applika
 
 (10) L-awtorità kompetenti għandha tadotta waħda mid-deċiżjonijiet li ġejjin dwar applikazzjoni għal Karta Blu tal-UE:
 
-(a) fejn il-kondizzjonijiet għall-mobilità stabbiliti f’dan ir-regolament ikunu ġew sodisfatti, li toħroġ Karta Blu tal-UE u tippermetti liċ-ċittadin ta’ pajjiż terz jirrisjedi f’Malta ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*23*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
-
-għall-fini ta’ impjieg bi kwalifiki għoljin; jew
+(a) fejn il-kondizzjonijiet għall-mobilità stabbiliti f’dan ir-regolament ikunu ġew sodisfatti, li toħroġ Karta Blu tal-UE u tippermetti liċ-ċittadin ta’ pajjiż terz jirrisjedi f’Malta għall-fini ta’ impjieg bi kwalifiki għoljin; jew
 
 (b) fejn il-kondizzjonijiet għall-mobilità stabbiliti f’dan ir-regolament ma jiġux sodisfatti, li tiċħad l-applikazzjoni u titlob lill-applikant u lill-membri tal-familja tiegħu, skont il-proċeduri previsti fil-liġi nazzjonali, jitilqu minn Malta:
 
@@ -666,11 +546,7 @@ Iżda b’deroga mir-regolament 9(1), l-awtorità kompetenti għandha tavża lil
 
 *L.S. 217.06.*
 
-Iżda r-Regolamenti dwar ir-Rijunifikazzjoni tal-Familji u r-regolament 15 għandhom japplikaw fil-każijiet imsemmija fis-subregolament (1), soġġetti għad-derogi previsti fis-subregolamenti ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
-
-(2) sa (7):
-
-*24*
+Iżda r-Regolamenti dwar ir-Rijunifikazzjoni tal-Familji u r-regolament 15 għandhom japplikaw fil-każijiet imsemmija fis-subregolament (1), soġġetti għad-derogi previsti fis-subregolamenti (2) sa (7):
 
 Iżda wkoll fejn il-familja ma kinitx diġà kostitwita fl-ewwel Stat Membru, għandu japplika r-regolament 15.
 
@@ -694,13 +570,9 @@ Iżda meta l-permess ta’ residenza ta’ membru tal-familja maħruġ mill-ewwe
 
 (b) evidenza li kienu residenti bħala membri tal-familja tad-detentur tal-Karta Blu tal-UE fl-ewwel Stat Membru;
 
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*25*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27 (ċ) evidenza dokumentata kif imsemmija fir-regolament 12 tar-Regolamenti dwar ir-Rijunifikazzjoni tal- Familji.
-
 * L.S. 217.06.*
+
+(ċ) evidenza dokumentata kif imsemmija fir-regolament 12 tar-Regolamenti dwar ir-Rijunifikazzjoni tal- Familji.
 
 (5) Fejn il-kondizzjonijiet stabbiliti f’dan ir-regolament ikunu ġew sodisfatti u l-applikazzjonijiet ikunu ġew sottomessi simultanjament, l-awtorità kompetenti għandha toħroġ il-permessi ta’ residenza għall-membri tal-familja fl-istess ħin mal-Karta Blu tal-UE:
 
@@ -720,10 +592,6 @@ Iżda wkoll f’ċirkostanzi debitament ġustifikati marbuta mal-kumplessità ta
 
 (3) Id-detentur tal-Karta Blu tal-UE jew min iħaddem fit-tieni Stat Membru jista’ jinżamm responsabbli għall-ispejjeż relatati mad-dħul mill-ġdid tad-detentur tal-Karta Blu tal-UE u tal-membri tal-familja tiegħu kif imsemmi fis-subregolament (2).
 
-*26*
-
-ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’ [L.S. 217.27 IMPJIEG BI KWALIFIKI GĦOLJIN
-
 (4) Meta Stat Membru jirtira jew ma jġeddidx Karta Blu tal- UE li jkollha r-rimarka msemmija fir-regolament 8(5) u jiddeċiedi li jkeċċi ċ-ċittadin ta’ pajjiż terz, għandu jitlob lill-Istat Membru indikat f’dik ir-rimarka sabiex jikkonferma li l-persuna kkonċernata għadha benefiċjarja ta’ protezzjoni internazzjonali f’dak l-Istat Membru. L- Istat Membru indikat f’dik ir-rimarka għandu jwieġeb fi żmien xahar (1) wara li jirċievi t-talba għall-informazzjoni.
 
 (5) Fejn iċ-ċittadin ta’ pajjiż terz ikun għadu benefiċjarju ta’ protezzjoni internazzjonali fl-Istat Membru indikat f’dik ir-rimarka, dik il-persuna għandha tiġi mkeċċija lejn dak l-Istat Membru li għandu, mingħajr preġudizzju għal-liġi applikabbli tal-Unjoni Ewropea jew nazzjonali u għall-prinċipju ta’ għaqda tal-familja, jippermetti minnufih id-dħul mill-ġdid, mingħajr formalitajiet, ta’ dik il-persuna u tal-membri tal-familja tagħha.
@@ -740,13 +608,7 @@ Iżda wkoll f’ċirkostanzi debitament ġustifikati marbuta mal-kumplessità ta
 
 (2) Dik l-informazzjoni għandha tinkludi wkoll informazzjoni dwar:
 
-(a) attivitajiet ta’ negozju fit-territorju ta’ Malta li fihom detentur ta’ Karta Blu tal-UE minn Stat Membru ieħor kif imsemmi fir-regolament 21 huwa ĊITTADINI TA’ PAJJIŻI TERZI GĦALL-FINIJIET TA’
-
-*27*
-
-IMPJIEG BI KWALIFIKI GĦOLJIN [L.S. 217.27
-
-permess li jimpenja ruħu; u
+(a) attivitajiet ta’ negozju fit-territorju ta’ Malta li fihom detentur ta’ Karta Blu tal-UE minn Stat Membru ieħor kif imsemmi fir-regolament 21 huwa permess li jimpenja ruħu; u
 
 (b) il-proċeduri applikabbli għall-kisba ta’ Karta Blu tal-UE u permessi ta’ residenza għal membri tal-familja fit-tieni Stat Membru, skont dawn ir-regolamenti.
 

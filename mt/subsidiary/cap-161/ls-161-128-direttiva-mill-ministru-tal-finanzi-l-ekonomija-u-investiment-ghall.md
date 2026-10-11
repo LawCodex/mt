@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-Ħruġ ta' Euro 50,000,000 Stock tal-Gvern ta' Malta (S.L. 161.128)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [S.L.161.128
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.128**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**
@@ -67,11 +63,7 @@ Is-somma ta’ flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta�
 
 (1) L-imgħax fuq l-iStock tal-Gvern ta’ Malta 2017 (V) b’Rata ta’ Mgħax li Tvarja u marbuta mal-Euribor tas-sitt xhur u li jitħallas bir-rata ta’ mgħax li tvarja kull sitt xhur, skont il-Euribor tas-sitt xhur fis-seħħ fid-data meta tiġi mħabbra flimkien ma’ spread fissa ta’ 90 basis points (bps) u maħduma fuq Day Count Fraction (Actual/360) għal kull Euro 100. Tali spread ta’ 90bps hija fissa u applikabbli għal tul il-ħajja tal-iStock.
 
-(2) L-imgħax fuq l-iStock tal-Gvern ta’ Malta 2018 (IV) b’Rata ta’ Mgħax li Tvarja marbuta mal-Euribor tas-sitt xhur jitħallas bir-rata ta’ mgħax li tvarja kull sitt xhur, marbuta mal-Euribor tas-sitt xhur fis-seħħ fid-data meta tiġi mħabbra flimkien ma’ spread fissa ta’ 110 basis points (bps) u maħduma fuq Day Count Fraction (Actual/360) għal kull Euro 100. Tali spread ta’ 110bps hija fissa u [S.L.161.128 STOCK TAL-GVERN TA’ MALTA
-
-applikabbli għal tul il-ħajja tal-iStock.
-
-*2*
+(2) L-imgħax fuq l-iStock tal-Gvern ta’ Malta 2018 (IV) b’Rata ta’ Mgħax li Tvarja marbuta mal-Euribor tas-sitt xhur jitħallas bir-rata ta’ mgħax li tvarja kull sitt xhur, marbuta mal-Euribor tas-sitt xhur fis-seħħ fid-data meta tiġi mħabbra flimkien ma’ spread fissa ta’ 110 basis points (bps) u maħduma fuq Day Count Fraction (Actual/360) għal kull Euro 100. Tali spread ta’ 110bps hija fissa u applikabbli għal tul il-ħajja tal-iStock.
 
 (3) L-imgħax fuq l-iStock tal-Gvern ta’ Malta 2017 (V) b’Rata ta’ Mgħax li Tvarja marbuta mal-Euribor tas-sitt xhur jitħallas kull sitt xhur b’lura fil-5 ta’ Marzu u fil-5 ta’ Settembru ta’ kull sena sakemm idum l-iStock.
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science - M.Sc. - taħt il-patroċinju tal-Fakultà tax-Xjenza (S.L. 327.174)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZA [L.S.327.174
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.174**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -108,11 +104,7 @@ Il-programmi ta’ studju prinċipalment mgħallma għandhom jikkonsistu minn ta
 
 (1) L-istudenti li jiksbu minimu ta’ 30 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw b’suċċess il- Kors, jkunu eliġibbli għall-għoti tal-Postgraduate Certificate fil-qasam ta’ studju rilevanti.
 
-(2) L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZA [L.S.327.174
-
-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma fil-qasam ta’ studju rilevanti.
-
-*3*
+(2) L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma fil-qasam ta’ studju rilevanti.
 
 ## 11. Programmi ta’ studju bir-riċerka.
 

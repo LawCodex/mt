@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy - Ph.D. Degree - taħt il-patroċinju tal-Istitut għat-Tekonoloġiji Aerospazjali (S.L. 327.536)
 
-DOCTOR OF PHILOSOPHY TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-GĦAT-TEKNOLOĠIJI AEROSPAZJALI [L.S.327.536
-
 **LEĠISLAZZJONI SUSSIDJARJA 527.536**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -73,11 +67,7 @@ L-applikanti għall-Grad offrut mill-Istitut għandhom ikollhom waħda minn dawn
 
 ## 5. Temm ta’ taqsimiet studju.
 
-Meta l-Bord iqis neċessarju, jista’ jeħtieġ lill-istudenti biex itemmu b’suċċess għadd ta’ taqsimiet studju matul l-istudji DOCTOR OF PHILOSOPHY TAĦT IL-PATROĊINJU TAL-ISTITUT [L.S.327.536 GĦAT-TEKNOLOĠIJI AEROSPAZJALI
-
-tagħhom, u, jew li jwettqu b’suċċess xogħol kif irrakkomandat mill-Bord, taħt dawk il-kondizzjonijiet li jista’ jimponi, wara l-approvazzjoni tas-Senat.
-
-*2*
+Meta l-Bord iqis neċessarju, jista’ jeħtieġ lill-istudenti biex itemmu b’suċċess għadd ta’ taqsimiet studju matul l-istudji tagħhom, u, jew li jwettqu b’suċċess xogħol kif irrakkomandat mill-Bord, taħt dawk il-kondizzjonijiet li jista’ jimponi, wara l-approvazzjoni tas-Senat.
 
 ## 6. Kumitat tal-Istitut għad-Dottorat.
 
@@ -122,11 +112,5 @@ Il-Bord għandu japprova u jippubblika l-linji gwida dwar il-format u l-preżent
 ## 14. Kopji tat-teżi.
 
 (1) L-istudenti jkunu meħtieġa jissottomettu kopja mingħajr legatura tat-teżi tagħhom għal kull membru tal-Bord tal- Eżaminaturi, flimkien ma’ verżjoni elettronika. L-uffiċjal inkarigat mill-Istitut għandu joħroġ riċevuta datata.
-
-DOCTOR OF PHILOSOPHY TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*3*
-
-GĦAT-TEKNOLOĠIJI AEROSPAZJALI [L.S.327.536
 
 (2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu lill-Istitut, sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom, żewġ kopji tat-teżi b’legatura ħoxna flimkien ma’ verżjoni elettronika, li għandhom jinkludu dikjarazzjoni ffirmata ta’ awtentiċità. Kopja waħda tat-teżi għandha tinżamm fil-Librerija tal-Istitut. Il-verżjoni elettronika għandha tikkonforma mal-livelli stabbiliti mill-Librerija tal- Università ta’ Malta. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

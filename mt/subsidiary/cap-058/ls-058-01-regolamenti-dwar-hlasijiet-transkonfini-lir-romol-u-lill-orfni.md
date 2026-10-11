@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Ħlasijiet Transkonfini lir-Romol u lill-Orfni"
-identifier: "S.L. 58.1"
+identifier: "S.L. 58.01"
 eli: "https://legislation.mt/eli/sl/58.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/58.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Ħlasijiet Transkonfini lir-Romol u lill-Orfni (S.L. 58.1)
+# Regolamenti dwar Ħlasijiet Transkonfini lir-Romol u lill-Orfni (S.L. 58.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 58.01**
 

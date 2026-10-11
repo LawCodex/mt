@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Statut għaċ-Ċentru għall-Istudji u l-Prattika għar-Riżoluzzjoni ta’ Konflitti (S.L. 327.591)
 
-*1*
-
-GĦAR-RIŻOLUZJONI TA’ KONFLITTI [L.S. 327.591 LEĠISLAZZJONI SUSSIDJARJA 327.591
+**LEĠISLAZZJONI SUSSIDJARJA 327.591**
 
 **STATUT GĦAĊ-ĊENTRU GĦALL-ISTUDJI U L-**
 
@@ -65,10 +63,6 @@ L-għanijiet taċ-Ċentru huma dawn:
 
 (d) li joħloq, imexxi u jevalwa korsijiet qosra ta’ taħriġ fi kwalunkwe qasam fi ħdan l-iskop taċ-Ċentru;
 
-*2*
-
-[L.S. 327.591 GĦAR-RIŻOLUZJONI TA’ KONFLITTI
-
 (e) li jmexxi programmi akkademiċi fid-dixxiplina/i fi ħdan l-iskop taċ-Ċentru;
 
 (f) li jipprovdi edukazzjoni kontinwa kemm f’livell li jwasslu għal rikonoxximenti Universitarji sal-Ewwel Grad kif ukoll f’dak ta’ wara l-Ewwel Grad fi ħdan l-iskop taċ-Ċentru skont l-Istatuti, ir-Regolamenti u l-Ordinamenti tal-Università;
@@ -105,11 +99,9 @@ Id-funzjonijiet tal-Bord ikunu dawn li ġejjin:
 
 (a) li jmexxi l-affarijiet taċ-Ċentru, skont il-provvedimenti ta’ dawn l-istatuti u ta’ dawk ir-regolamenti, il-policies jew id-direzzjonijiet, kif approvati mill-Kunsill u mis-Senat minn żmien għal żmien;
 
-(b) li jifformula l-policy taċ-Ċentru, jissorvelja l-attivitajiet u l-amministrazzjoni tiegħu u, mingħajr preġudizzju għall-ġeneralità li ssemmiet qabel, il-Bord GĦAR-RIŻOLUZJONI TA’ KONFLITTI [L.S. 327.591 jista’:
+(b) li jifformula l-policy taċ-Ċentru, jissorvelja l-attivitajiet u l-amministrazzjoni tiegħu u, mingħajr preġudizzju għall-ġeneralità li ssemmiet qabel, il-Bord jista’:
 
 (i) japprova business plans u l-estimi annwali tad-dħul u l-ħruġ taċ-Ċentru għall-kunsiderazzjoni u l-approvazzjoni tal-Kunsill;
-
-*3*
 
 (ii) bi qbil bil-miktub mar-Rettur jagħmel ftehim ma’ terzi partijiet biex jagħtu fondi liċ-Ċentru jew għall-attivitajiet partikulari;
 
@@ -141,11 +133,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur taċ-Ċentru jinkludu:
 
 (a) li jippromovi l-iżvilupp u l-implimentazzjoni tal-programmi tal-agenda tar-riċerka u l-prattika taċ- Ċentru;
 
-(b) li jiżviluppa u jorganizza l-implimentazzjoni tal-programmi akkademiċi kif meqjus adattat mill-Bord: dan id-dmir jinkludi (i) f’jiġbor u jissottometti lir- Reġistratur saż-żmien stipulat mis-Senat, prospektus komprensiv aġġornat ta’ kwalunkwe kors offrut miċ- Ċentru bid-deskrizzjoni tal-kontenut tat-taqsimiet tal-istudji kurrenti u dawk proġettati skont il-linji-gwida GĦAR-RIŻOLUZJONI TA’ KONFLITTI
-
-stabbiliti mill-Kumitat għall-Validazzjoni tal- Programmi u li jiżgura li t-taqsimiet tal-istudji huma mogħtija skont irreklamat; (ii) li jimmonitorja t-tmessija tal-eżamjiet u jiżgura li r-riżultati kollha tal-valutazzjonijiet u tal-eżamijiet jiġu sottomessi lir- Reġistratur fi żmien stipulat; (iii) li jippromovi l-bżonnijiet akkademiċi u personali tal-istudenti u jipprovdi l-aqwa sapport f’kaz li jiltaqgħu ma’ diffikultajiet matul l-istudji tagħhom relatati mal-attivitajiet taċ-Ċentru;
-
-*[L.S. 327.591 4*
+(b) li jiżviluppa u jorganizza l-implimentazzjoni tal-programmi akkademiċi kif meqjus adattat mill-Bord: dan id-dmir jinkludi (i) f’jiġbor u jissottometti lir- Reġistratur saż-żmien stipulat mis-Senat, prospektus komprensiv aġġornat ta’ kwalunkwe kors offrut miċ- Ċentru bid-deskrizzjoni tal-kontenut tat-taqsimiet tal-istudji kurrenti u dawk proġettati skont il-linji-gwida stabbiliti mill-Kumitat għall-Validazzjoni tal- Programmi u li jiżgura li t-taqsimiet tal-istudji huma mogħtija skont irreklamat; (ii) li jimmonitorja t-tmessija tal-eżamjiet u jiżgura li r-riżultati kollha tal-valutazzjonijiet u tal-eżamijiet jiġu sottomessi lir- Reġistratur fi żmien stipulat; (iii) li jippromovi l-bżonnijiet akkademiċi u personali tal-istudenti u jipprovdi l-aqwa sapport f’kaz li jiltaqgħu ma’ diffikultajiet matul l-istudji tagħhom relatati mal-attivitajiet taċ-Ċentru;
 
 (c) li jwassala u jimplimenta l-pjan strateġiku taċ-Ċentru taħt it-tmexxija tal-Bord;
 
@@ -167,11 +155,9 @@ stabbiliti mill-Kumitat għall-Validazzjoni tal- Programmi u li jiżgura li t-ta
 
 (l) jimmonitorja l-eżekuzzjoni tax-xogħol tal-istaff mhux akkademiku msieħeb maċ-Ċentru;
 
-(m) jawtorizza liċ-Ċentru l-ksib ta’ kwalunkwe tagħmir GĦAR-RIŻOLUZJONI TA’ KONFLITTI [L.S. 327.591 biex jiżgura li ċ-Ċentru jaħdem b’mod sħiħ u effiċjenti; u
+(m) jawtorizza liċ-Ċentru l-ksib ta’ kwalunkwe tagħmir biex jiżgura li ċ-Ċentru jaħdem b’mod sħiħ u effiċjenti; u
 
 (n) li jwettaq dmirijiet oħra li jistgħu jiġu assenjati lilu mill-Università minn żmien għal żmien.
-
-*5*
 
 ## 10.
 

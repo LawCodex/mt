@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Assigurazzjoni għal Indennizz"
-identifier: "S.L. 321.3"
+identifier: "S.L. 321.03"
 eli: "https://legislation.mt/eli/sl/321.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/321.3/20210723/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Assigurazzjoni għal Indennizz (S.L. 321.3)
+# Regolamenti dwar l-Assigurazzjoni għal Indennizz (S.L. 321.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 321.03**
 

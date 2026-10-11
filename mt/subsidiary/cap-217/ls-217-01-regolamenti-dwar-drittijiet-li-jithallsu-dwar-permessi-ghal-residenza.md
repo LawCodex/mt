@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Drittijiet li jitħallsu dwar Permessi għal Residenza u Liċenzi għal Impieg"
-identifier: "S.L. 217.1"
+identifier: "S.L. 217.01"
 eli: "https://legislation.mt/eli/sl/217.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,11 +15,7 @@ version: "https://legislation.mt/eli/sl/217.1/20250801/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Drittijiet li jitħallsu dwar Permessi għal Residenza u Liċenzi għal Impieg (S.L. 217.1)
-
-*1*
-
-G}AL RESIDENZA U LI~ENZI G}AL IMPIEG [L.S.217.01
+# Regolamenti dwar Drittijiet li jitħallsu dwar Permessi għal Residenza u Liċenzi għal Impieg (S.L. 217.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 217.01**
 

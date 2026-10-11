@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti għall-Grad ta' Liċenzjat fit-Teoloġija Mqaddsa (S.L. 327.17)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.17
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.17**
 
 ORDINAMENTI GĦALL-GRAD TA’ LICENTIATE IN SACRED THEOLOGY - S.Th.L. - TAĦT
@@ -73,11 +69,7 @@ Il-kors għandu jinfirex fuq perjodu ta’ erba’ semestri ta’ studju full-ti
 
 (1) Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 120 kredtu, li minnhom 90 kredtu huma assenjati għat-taqsimiet studju mgħallma u 30 kredtu huma assenjati għat-taqsima studju tad-dissertazzjoni.
 
-(2) L-istudenti li jiksbu 60 krettu assenjati għal taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux [L.S.327.17 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA
-
-il-kors jew, wara li komplew, ma jtemmux il-kors b’suċċess, ikunu eliġibbli għall-għoti tal-Postgraduate Diploma.
-
-*2*
+(2) L-istudenti li jiksbu 60 krettu assenjati għal taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors jew, wara li komplew, ma jtemmux il-kors b’suċċess, ikunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
 ## 6. Pubblikazzjoni tal-programm ta’ studju.
 

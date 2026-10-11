@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Higher Diploma in Community Access for Disabled People – H.Dip. C.A.D.P. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.518)
 
-DISABLED PEOPLE - H.Dip.. C.A.D.P. - TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.518
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.518**
 
 **ORDINAMENTI GĦALL-HIGHER DIPLOMA IN**
@@ -69,11 +63,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) Il-Bord tad-Dħul tal-Università, fuq il-parir tal-Bord, jista’ jħalli jidħlu applikanti li għandhom kwalifiki oħra u esperjenza rilevanti evalwata skont il- Policy tal-Akkreditazzjoni ta’ Tagħlim Preċedenti tal- Università (RPL) fit-Tieni Sena tal-Kors taħt dawk il-kondizzjonijiet li l-Bord jista jimponi.
 
-(4) Il-Bord għandu jirrakkomanda lis-Senat n-numru ta’ DISABLED PEOPLE - H.Dip.. C.A.D.P. - TAĦT IL-
-
-*2*
-
-[L.S.327.518 PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont ir-riżorsi disponibbli. Il-Bord għandu jħabbar in-numru ta’ postijiet disponibbli fi żmien tas-sejħa għall-applikazzjonijiet.
+(4) Il-Bord għandu jirrakkomanda lis-Senat n-numru ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont ir-riżorsi disponibbli. Il-Bord għandu jħabbar in-numru ta’ postijiet disponibbli fi żmien tas-sejħa għall-applikazzjonijiet.
 
 (5) Meta n-numru ta’ postijiet ikun ristrett u n-numru tal-applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti jiġu magħżula skont il-kriterji li ġejjin, bil-piż ta’ kull kriterju jkun ippubblikat fiż-żmien tas-sejħa għall-applikazjonijiet:
 

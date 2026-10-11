@@ -1,0 +1,48 @@
+---
+title: "Ordni dwar Standard Nazzjonali dwar l-Inqas Paga Nazzjonali"
+identifier: "S.L. 452.121"
+eli: "https://legislation.mt/eli/sl/452.121"
+type: subsidiary_legislation
+jurisdiction: mt
+language: mt
+parent: "Cap. 452"
+last_amended: 2021-01-20
+status: in_force
+source: "https://legislation.mt/eli/sl/452.121/mlt/pdf"
+version: "https://legislation.mt/eli/sl/452.121/20210120/mlt"
+retrieved: 2026-10-12
+---
+
+# Ordni dwar Standard Nazzjonali dwar l-Inqas Paga Nazzjonali (S.L. 452.121)
+
+**LEĠISLAZZJONI SUSSIDJARJA 452.121**
+
+**ORDNI DWAR STANDARD NAZZJONALI**
+
+**DWAR L-INQAS PAGA NAZZJONALI**
+
+1 ta’ Jannar, 2021
+
+L-AVVIŻ LEGALI 467 tal-2020.
+
+## 1. Titolu.
+
+It-titolu ta’ dan l-ordni hu l-Ordni dwar Standard Nazzjonali dwar l-Inqas Paga Nazzjonali.
+
+## 2. L-inqas paga nazzjonali.
+
+L-inqas paga nazzjonali fil-ġimgħa għal ġimgħa normali ta’ xogħol għandha tkun kif ġej:
+
+(a) Ta’ età 18-il sena u fuqhom …………… € 181.08
+
+(b) Ta’ età 17-il sena ……………………… € 174.30
+
+(ċ) Taħt is-17-il sena ……………………. € 171.46 3. L-inqas paga nazzjonali ta’ impjegati part-time għandha tkun ikkalkulata pro rata bl-istess rata fis-siegħa ta’ impjegat komparabbli whole-time li tkun tapplika skont l-inqas paga tal-Ordni dwar Kunsill tal-Pagi li Jirregola l-Pagi rilevanti, jew f’każijiet fejn Ordni dwar Kunsill tal-Pagi li Jirregola l-Pagi ma tkunx applikabbli, b’rata fis-siegħa li ma tkunx anqas mill-Inqas Paga Nazzjonali Standard li tkun applikabbli, kif stabbilita skont l-artikolu preċedenti u diviża b’erbgħin (40).
+
+*Impjegati part-time.*
+
+## 4. Ordnijiet dwar Kunsilli tal-Pagi li jirregolaw il-Pagi.
+
+Meta xi Ordni dwar Kunsill tal-Pagi li Jirregola l-Pagi jkun japplika għal xi impjegat, il-pagi li jitħallsu lil dak l-impjegat fir-rigward tas-sena 2021 ma għandhomx ikunu anqas minn dawk stabbiliti b’dak l-Ordni dwar Kunsill tal-Pagi li Jirregola l-Pagi applikabbli għas-sena 2020, aġġustat għall-għoli tal-ħajja b’xi żidiet ta’ pagi dikjarati bħala li jkunu ġeneralment japplikaw għall-impjegati whole-time kollha skont l-artikolu 8 tal-Att dwar l-Impiegi u r- Relazzjonijiet Industrijali, jew b’xi żidiet fil-paga għall-għoli tal-ħajja stabbilita b’xi Ordni ta’ Standard Nazzjonali applikabbli fir-rigward tas-sena 2021.
+
+*Kap. 452.*

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Music - M.Mus. - taħt il-patroċinju tal-Iskola tal-Arti Performattiva (S.L. 327.483)
 
-*1*
-
-PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA [L.S.327.483
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.483**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -74,11 +70,9 @@ Il-kors ikun offrut ’dawn l-oqsma ta’ speċjalizzazzjoni: il-Kompożizzjoni,
 
 (3) L-intervisti, meta neċessarji, għandhom ikunu mmexxija minn bord magħmul mill-anqas minn tliet membri maħtura għal dan il-għan.
 
-*2*
+## 5. Sottomissjoni tal-formola tal-applikazzjoni.
 
-[L.S.327.483 PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA 5. L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni tagħhom, flimkien ma’ proposta komprensiva tar-riċerka li tinkludi l-għodod tal-kompozizzjoni u t-teknika fil-każ tal-Grad ibbażat fuq il-kompożizzjoni, u l-għodod analitiċi u l-prattiċi ta’ eżekuzzjoni mużikali fil-każ tal-Grad ibbażat fuq l- Eżekuzzjoni Mużikali, fi kwalunkwe żmien tas-sena.
-
-*Sottomissjoni tal-formola tal-applikazzjoni.*
+L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni tagħhom, flimkien ma’ proposta komprensiva tar-riċerka li tinkludi l-għodod tal-kompozizzjoni u t-teknika fil-każ tal-Grad ibbażat fuq il-kompożizzjoni, u l-għodod analitiċi u l-prattiċi ta’ eżekuzzjoni mużikali fil-każ tal-Grad ibbażat fuq l- Eżekuzzjoni Mużikali, fi kwalunkwe żmien tas-sena.
 
 ## 6. Programmi preparatorji u supplimentari.
 
@@ -103,10 +97,6 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 (1) Mhux anqas minn tliet xhur qabel id-data maħsuba għas-sottomissjoni, l-istudenti li jkunu qegħdin isegwu l-qasam ta’ speċjalizzazzjoni fil-Kompożizzjoni u fl-Eżekuzzjoni Mużikali għandhom jitolbu lill-Bord ghall-permess biex jippreżentaw il-portfolio ta’ kompożizzjoni/kompożizzjonijiet u d-dissertazzjoni fil-każ ta’ qabel, jew in-noti tal-programm u d-dissertazzjoni fil-kaz tal-aħħar. Qabel ma jingħataw il-permess, il-Bord għandu jikkonsulta mas-superviżur tal-istudenti u għandu jiġi aċċertat li l-perijodu ta’ studju huwa konformi ma’ dak stipulat fir-Regolamenti Prinċipali.
 
 (2) Meta jissottomettu portfolio ta’ kompożizzjoni/ kompożizzjonijiet l-istudenti għandhom jinkludu dikjarazzjoni ffirmata li l-portfolio kollu huwa x-xogħol personali tagħhom u li sar wara r-reġistrazzjoni tagħhom għall-Grad.
-
-*3*
-
-PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA [L.S.327.483
 
 (3) Id-dissertazzjoni ma tistax bl-ebda mod tkun diġà ġiet sottomessa għal xi kwalifika x’imkien ieħor, u m’għandhiex tkun diġà ġiet ippubblikata indipendentement mill-istudent, kemm kollha kif ukoll partijiet sostanzjali minnha.
 
@@ -135,10 +125,6 @@ PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA [L.S.327.483
 (2) Wara l-eżami viva voce, il-Bord tal-Eżaminaturi jista’ jirreferi d-dissertazzjoni u n-noti tal-programm lura lill-istudent għall-emendi.
 
 (3) Fil-qasam ta’ speċjalizzazzjoni tal-eżekuzzjoni mużikali, jekk student ma jurix kompetenza sħiħa fit-teknika u l-kapaċitajiet interprettattivi, il-Bord tal-Eżaminaturi jista’ jitlob li l-kunċert jiġi ripetut wara perijodu ta’ żmien deċiż mill-Bord tal-Eżaminaturi. Għandu jkun hemm ripetizzjoni tal-kunċert darba biss għall-għan tal-eżami.
-
-*4*
-
-[L.S.327.483 PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA
 
 ## 12. Format tad-dissertazzjoni.
 
@@ -182,11 +168,7 @@ Kwalunkwe spejjeż marbutin mal-kunċert, id-dissertazzjoni u l-portfolio tal-ko
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar-Regolamenti Prinċipali; u
 
-(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA [L.S.327.483
-
-(b) jekk qabel ma jkunx ta ċans lill-istudent li jinstema’.
-
-*5*
+(ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta ċans lill-istudent li jinstema’.
 
 ## 19. Għoti tal-Grad. Enumerat: A.L. 289 tal-2024.
 
@@ -213,10 +195,6 @@ Taqsimiet studju mgħallma: 10% tal-marka globali; in-noti tal-programm u d-diss
 Mużikoloġija/Etnomużikoloġija:
 
 Taqsimiet studju mgħallma: 10% tal-marka globali u t-taqsima tad-dissertazzjoni: 90% tal-marka globali.
-
-*6*
-
-[L.S.327.483 PATROĊINJU TAL-ISKOLA TAL-ARTI PERFORMATTIVA
 
 ## 21. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Enumerat: A.L. 289 tal-2024.
 

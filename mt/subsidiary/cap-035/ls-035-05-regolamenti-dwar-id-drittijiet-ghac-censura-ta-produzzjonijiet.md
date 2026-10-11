@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Drittijiet għaċ-Ċensura ta' Produzzjonijiet Drammatiċi u ta' Produzzjonijet oħra tal-Palk"
-identifier: "S.L. 35.5"
+identifier: "S.L. 35.05"
 eli: "https://legislation.mt/eli/sl/35.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,9 @@ version: "https://legislation.mt/eli/sl/35.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Drittijiet għaċ-Ċensura ta' Produzzjonijiet Drammatiċi u ta' Produzzjonijet oħra tal-Palk (S.L. 35.5)
+# Regolamenti dwar id-Drittijiet għaċ-Ċensura ta' Produzzjonijiet Drammatiċi u ta' Produzzjonijet oħra tal-Palk (S.L. 35.05)
 
-DRITTIJIET G}A~-~ENSURA TA’ PRODUZZJONIJIET
-
-DRAMMATI~I U TA’ PRODUZZJONIJIET O}RA
-
-*1*
-
-TAL-PALK [L.S.35.05 LE{ISLAZZJONI SUSSIDJARJA 35.05
+**LE{ISLAZZJONI SUSSIDJARJA 35.05**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET**
 

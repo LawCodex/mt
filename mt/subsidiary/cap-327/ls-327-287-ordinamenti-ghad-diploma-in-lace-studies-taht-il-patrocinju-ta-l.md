@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Lace Studies taħt il-patroċinju ta' l-Institute for Islands and Small States (S.L. 327.287)
 
-*1*
-
-L-INSTITUTE FOR ISLANDS AND SMALL STATES [L.S.327.287
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.287**
 
 **ORDINAMENTI G}AD-DIPLOMA IN LACE**

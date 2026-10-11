@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kura Preventiva tat-Tifojde"
-identifier: "S.L. 36.7"
+identifier: "S.L. 36.07"
 eli: "https://legislation.mt/eli/sl/36.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/36.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kura Preventiva tat-Tifojde (S.L. 36.7)
+# Regolamenti dwar il-Kura Preventiva tat-Tifojde (S.L. 36.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 36.07**
 

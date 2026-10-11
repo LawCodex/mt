@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Bastimenti Merkantili (Ġarr ta' Passiġġieri bil-Baħar) (S.L. 234.52)
 
-BASTIMENTI MERKANTILI
-
-*1*
-
-({ARR TA’ PASSI{{IERI BIL-BA}AR) [L.S.234.52
-
 LE{ISLAZZJONI SUSSIDJARJA 234.52 REGOLAMENTI DWAR BASTIMENTI MERKANTILI ({ARR TA’ PASSI{{IERI BIL-BA}AR)\*
 
 23 ta’ April, 2014 L-AVVI| LEGALI 26 tal-2014.

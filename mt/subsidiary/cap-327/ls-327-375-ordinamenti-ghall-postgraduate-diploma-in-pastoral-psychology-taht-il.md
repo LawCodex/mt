@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Postgraduate Diploma in Pastoral Psychology taħt il-patroċinju tal-Fakultà tal-Teoloġija (S.L. 327.375)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.375
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.375**
 
 **ORDINAMENTI GĦALL-POSTGRADUATE**

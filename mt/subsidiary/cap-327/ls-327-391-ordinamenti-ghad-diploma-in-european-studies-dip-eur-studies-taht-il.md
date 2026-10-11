@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in European Studies - Dip. Eur. Studies - taħt il-patroċinju tal-Istitut għall-Istudji Ewropej (S.L. 327.391)
 
-*1*
-
-IL-PATROCINJU TAL-ISTITUT GĦALL-ISTUDJI EWROPEJ [S.L.327.391
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.391**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN EUROPEAN**
@@ -80,14 +76,6 @@ Il-Kors jikkonsisti minn għadd ta' taqsimiet-studju mgħallma li għalihom hemm
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tad-Diploma għandha tkun ibbażata fuq ir-riżultati miksuba matul il-kors, bil-kredti kollha jingħataw piż indaqs.
 
-*2*
+## 8. Dispożizzjonijiet spe`jali għall-korsijiet fuq bażi part-time.
 
-[S.L.327.391 IL-PATROCINJU TAL-ISTITUT GĦALL-ISTUDJI EWROPEJ
-
-*spe`jali għall-*
-
-Dispożizzjonijiet 8. Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-korsijiet fuq bażi
-
-*part-time.*
-
-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba fin-natura part-time tal-kors.
+Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba fin-natura part-time tal-kors.

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta Lm167,127 Stock tal-Gvern bis-7% 2006 (IV) (S.L. 161.48)
 
-}RU{ TA’ LM167,127 STOCK
-
-*1*
-
-TAL-GVERN BIS-7% 2006 (IV) [L.S.161.48
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.48**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

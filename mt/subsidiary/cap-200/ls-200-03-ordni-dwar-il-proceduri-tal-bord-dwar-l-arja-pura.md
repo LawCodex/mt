@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar il-Proċeduri tal-Bord dwar l-Arja Pura"
-identifier: "S.L. 200.3"
+identifier: "S.L. 200.03"
 eli: "https://legislation.mt/eli/sl/200.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/200.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar il-Proċeduri tal-Bord dwar l-Arja Pura (S.L. 200.3)
+# Ordni dwar il-Proċeduri tal-Bord dwar l-Arja Pura (S.L. 200.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 200.03**
 

@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Iskola tal-Arti Performattiva (S.L. 327.476)
 
-TAĦT IL-PATROĊINJU TAL-ISKOLA
-
-*1*
-
-TAL-ARTI PERFORMATTIVA [L.S.327.476
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.476**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -80,12 +74,6 @@ Id-Direttur tal-Iskola jew delegat (Chairperson)
 3 - 4 membri anziani tal-Iskola, normalment Kapijiet tad- Dipartiment.
 
 \*Dawn il-Ordinamenti ġew imħassrin bl-Avviż Legali 28 tal-2024.
-
-TAĦT IL-PATROĊINJU TAL-ISKOLA
-
-*2*
-
-[L.S.327.476 TAL-ARTI PERFORMATTIVA
 
 ## 6. Superviżjoni.
 

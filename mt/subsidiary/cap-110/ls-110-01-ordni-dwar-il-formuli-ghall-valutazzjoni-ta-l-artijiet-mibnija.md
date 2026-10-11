@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar il-Formuli għall-Valutazzjoni ta' l-Artijiet Mibnija"
-identifier: "S.L. 110.1"
+identifier: "S.L. 110.01"
 eli: "https://legislation.mt/eli/sl/110.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/110.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar il-Formuli għall-Valutazzjoni ta' l-Artijiet Mibnija (S.L. 110.1)
-
-TA’ L-ARTIJIET MIBNIJA [ L.S.110.01
+# Ordni dwar il-Formuli għall-Valutazzjoni ta' l-Artijiet Mibnija (S.L. 110.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 110.01**
 
@@ -66,8 +64,6 @@ ng]id/ng]idu illi l-informazzjoni mog]tija minni/ minna hija s]i]a f’kollox, u
 (1) Hawn ni\\\\el l-isem, il-kunjon u l-indirizz, sew permanenti kemm temporanju, ta’ min jag]mel it-tag]rifa, u, jekk f’isem is-sid, l-isem u l-kunjom tas-sid. F’kull ka\\ l-isem tas-sid g]andu jkollu mieg]u l-isem u l-kunjom ta’ missieru u ta’ ommu, u fejn twieled.
 
 (2) Is-sid, e\\ekutur testamentarju, tutur, kuratur, amministratur jew prokuratur, billi ssemmi digrieti tal-qorti jew awtorità o]ra fejn tista’.
-
-TA’ L-ARTIJIET MIBNIJA [ L.S.110.01
 
 (6)
 

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar id-Dħul ta’ Malta Bħala Membru tal-Fond Monetarju Internazzjonali (Estensjoni tal-Ftehim dwar Self)"
-identifier: "S.L. 209.2"
+identifier: "S.L. 209.02"
 eli: "https://legislation.mt/eli/sl/209.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/209.2/20190821/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar id-Dħul ta’ Malta Bħala Membru tal-Fond Monetarju Internazzjonali (Estensjoni tal-Ftehim dwar Self) (S.L. 209.2)
-
-MONETARJU INTERNAZZJONALI (ESTENSJONI TAL-
-
-*1*
-
-FTEHIM DWAR SELF) [L.S.209.02
+# Ordni dwar id-Dħul ta’ Malta Bħala Membru tal-Fond Monetarju Internazzjonali (Estensjoni tal-Ftehim dwar Self) (S.L. 209.02)
 
 LEĠISLAZZJONI SUSSIDJARJA 209.02
 
@@ -51,8 +45,4 @@ B’dan qiegħed jiġi dikjarat:
 
 (d) illi l-Bank Ċentrali ta’ Malta ta’ l-kunsens tiegħu lill-Fond Monetarju Internazzjonali għall-estensjoni ta' sena skont il-paragrafu 2(a) tal-Ftehim dwar Self;
 
-(e) illi d-drittijiet speċjali ta’ ġbid – ammont denominati mislufa mill-Bank Ċentrali ta’ Malta taħt il-Ftehim dwar Self u taħt Estensjoni tal-Ftehim dwar Self ser jibqgħu MONETARJU INTERNAZZJONALI (ESTENSJONI TAL- [L.S. 209.02 FTEHIM DWAR SELF)
-
-jkunu ekwivalenti sa mitejn u sittin miljun euro (€260,000,000).
-
-*2*
+(e) illi d-drittijiet speċjali ta’ ġbid – ammont denominati mislufa mill-Bank Ċentrali ta’ Malta taħt il-Ftehim dwar Self u taħt Estensjoni tal-Ftehim dwar Self ser jibqgħu jkunu ekwivalenti sa mitejn u sittin miljun euro (€260,000,000).

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kumitat dwar is-Sistema ta' Infurzar Lokali"
-identifier: "S.L. 291.6"
+identifier: "S.L. 291.06"
 eli: "https://legislation.mt/eli/sl/291.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/291.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kumitat dwar is-Sistema ta' Infurzar Lokali (S.L. 291.6)
-
-KUMITAT DWAR IS-SISTEMA
-
-*1*
-
-TA’ INFURZAR LOKALI [L.S.291.06
+# Regolamenti dwar il-Kumitat dwar is-Sistema ta' Infurzar Lokali (S.L. 291.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 291.06**
 

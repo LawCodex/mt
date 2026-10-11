@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Health Science - Dip. Health Science - taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.261)
 
-\- DIP. HEALTH SCIENCE - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.261
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.261**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN HEALTH**
@@ -77,10 +71,6 @@ L-applikanti li jkunu eliġibbli biex jidħlu fil-kors skond l-artikolu 6 ta’ 
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
 
-*2*
-
-\- DIP. HEALTH SCIENCE - TAĦT IL-PATROĊINJU [L.S.327.261 TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
 ## 6. Tul tal-kors.
 
 *Sostitwit: A.L. 351 tal-2010.*
@@ -132,10 +122,6 @@ Għadda b’Distinzjoni
 Għadda b’Mertu
 
 Għadda.
-
-\- DIP. HEALTH SCIENCE - TAĦT IL-PATROĊINJU
-
-TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.261 3
 
 APPENDIĊI I Emendat:
 

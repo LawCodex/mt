@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science – M.Sc. – taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.441)
 
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.441
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.441**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -74,11 +70,9 @@ Il-kors għandu jiġi offrut, bl-approvazzjoni tas-Senat, fi kwalunkwe qasam ta�
 
 (ċ) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala ekwivalenti għall-kwalifiki msemmija f’(a) u (b) hawn fuq,
 
-sakemm li għall-oqsma ta’ studju tal-Clinical Biomechanics u tal- Health Systems Management and Leadership, l-applikanti li għandhom [L.S.327.441 PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA l-ewwel grad miksub għall-anqas fit-Tieni Klassi (bl-Unuri) f’dixxiplina meqjusa mill-Bord bħala waħda li għandha x’taqsam mal-qasam ta’ studju li fih tkun se titwettaq ir-riċerka għandhom jitqiesu eliġibbli.
+sakemm li għall-oqsma ta’ studju tal-Clinical Biomechanics u tal- Health Systems Management and Leadership, l-applikanti li għandhom l-ewwel grad miksub għall-anqas fit-Tieni Klassi (bl-Unuri) f’dixxiplina meqjusa mill-Bord bħala waħda li għandha x’taqsam mal-qasam ta’ studju li fih tkun se titwettaq ir-riċerka għandhom jitqiesu eliġibbli.
 
 (2) Il-Bord għandu jirrakomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar l-oqsma ta’ studju u l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
-
-*2*
 
 (3) Meta l-għadd ta’ postijiet jkun limitat u l-għadd ta’ applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti jintgħażlu skont il-kriterji li ġejjin, bil-piż għal kull wieħed ikun ippubblikat fiż-żmien tas-sejħa tal-applikazzjonijiet:
 
@@ -108,11 +102,11 @@ Il-kors jinfirex fuq medda ta’ tliet semestri ta’ studju fuq bażi full-time
 
 (3) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
-*3*
+## 7. Kumitat tal- Masters bir- Riċerka.
 
-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.441 7. Il-Bord għandu jirrakkomanda lis-Senat il-ħatra tal- Kumitat tal-Masters bir-Riċerka tal-Fakultà normalment b’dawn il-membri:
+*Sostitwit: A.L. 119 tal-2014; A.L. 354 tal-2014.*
 
-*Kumitat tal- Masters bir- Riċerka. Sostitwit: A.L. 119 tal-2014; A.L. 354 tal-2014.*
+Il-Bord għandu jirrakkomanda lis-Senat il-ħatra tal- Kumitat tal-Masters bir-Riċerka tal-Fakultà normalment b’dawn il-membri:
 
 Id-Dekan tal-Fakultà tax-Xjenzi tas-Saħħa jew id-delegat tiegħu/tagħha (Chairperson)
 
@@ -144,11 +138,7 @@ Il-Kap tad-Dipartiment fejn ir-riċerka tkun ser issir Is-superviżur akkademiku
 
 (4) F’dawn il-każijiet, il-proposta tar-riċerka dettaljata għandha tiġi sottomessa għall-approvazzjoni tal-Bord sal-bidu tat-tieni semestru.
 
-(5) Fil-każijiet kollha, ix-xogħol fuq id-dissertazzjoni jista’ jsir fi kwalunkwe żmien matul il-kors, wara li tiġi approvata l-proposta ta’ riċerka. Kull student ikun assenjat superviżur li għandu [L.S.327.441 PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
-
-jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
-
-*4*
+(5) Fil-każijiet kollha, ix-xogħol fuq id-dissertazzjoni jista’ jsir fi kwalunkwe żmien matul il-kors, wara li tiġi approvata l-proposta ta’ riċerka. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
 ## 10. Progress tal-istudenti.
 

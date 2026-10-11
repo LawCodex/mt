@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Doctor of Philosophy - Ph.D. - fl-Istitut għar-Riċerka fil-Ġebla u l-Bini (S.L. 327.186)
 
-GRAD TA’ DOCTOR OF PHILOSOPHY - PH.D. -
-
-*1*
-
-FL-ISTITUT G}AR-RI~ERKA FIL-{EBLA U L-BINI [L.S.327.186
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.186**
 
 ORDINAMENTI G}ALL-GRAD TA’ DOCTOR OF PHILOSOPHY - PH.D. - FL-ISTITUT

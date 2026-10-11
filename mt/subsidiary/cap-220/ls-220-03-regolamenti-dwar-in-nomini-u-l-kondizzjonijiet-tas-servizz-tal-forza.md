@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar in-Nomini u l-Kondizzjonijiet tas-Servizz tal-Forza Regolari tal-Forzi Armati ta Malta"
-identifier: "S.L. 220.3"
+identifier: "S.L. 220.03"
 eli: "https://legislation.mt/eli/sl/220.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/220.3/20250117/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar in-Nomini u l-Kondizzjonijiet tas-Servizz tal-Forza Regolari tal-Forzi Armati ta Malta (S.L. 220.3)
-
-*1*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
+# Regolamenti dwar in-Nomini u l-Kondizzjonijiet tas-Servizz tal-Forza Regolari tal-Forzi Armati ta Malta (S.L. 220.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 220.03**
 
@@ -108,11 +104,11 @@ It-titolu ta’ dawn ir-Regolamenti hu Regolamenti dwar in- Nomini u l-Kondizzjo
 
 (4) Il-persuni kollha mogħtija kummissjoni fil-forza u li ma jkunux ġew ingaġġati fil-forza għandhom, qabel ma jidħlu fid-dmirijiet tagħhom, jieħdu ġurament ta’ fedeltà kif muri fl-Ewwel Skeda, u dak il-ġurament jista’ jingħata mill-Kmandant, uffiċjal tal-i staff imsemmi għal hekk mill-Kmandant jew minn Kummissjunarju b’setgħa li jagħti ġurament.
 
-*3*
+*\4.*
 
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03 Bla ħsara ta’ kull modifiki u eċċezzjonijiet awtorizzati mill-Ministru wara konsultazzjoni mal-Kmandant, id-disposizzjonijiet li ġejjin ta’ dan ir-regolament għandhom ikollhom effett dwar in-nomini msemmija hawn taħt:
+*Nomini fil-forza. Emendat: A.L. 37 tal-1973; XXI tal-2020.*
 
-*\4. Nomini fil-forza. Emendat: A.L. 37 tal-1973; XXI tal-2020.*
+Bla ħsara ta’ kull modifiki u eċċezzjonijiet awtorizzati mill-Ministru wara konsultazzjoni mal-Kmandant, id-disposizzjonijiet li ġejjin ta’ dan ir-regolament għandhom ikollhom effett dwar in-nomini msemmija hawn taħt:
 
 *(1)*
 
@@ -204,10 +200,6 @@ Brigadier
 
 B. Uffiċjali li m’humiex tal-Kombattiment:
 
-*5*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
 (i) Tenent (Uffiċjal Mediku)
 
 Kaptan (Uffiċjal Mediku)
@@ -294,11 +286,7 @@ Uffiċjal jista’ jiġi mġiegħel li jiġi trasferit minn corps għal ieħor s
 
 (1) Ħlief kif provdut b’dawn jew taħt dawn ir- Regolamenti, uffiċjal għandu jirtira meta jilħaq l-età ta ħamsa u ħamsin sena iżda jista’ jitħalla jibqa’ fuq il-lista attiva ’il fuq minn dik l-età għal dak iż-żmien jew għal dawk iż-żminijiet kif il- Ministru jista’ minn żmien għal żmien jistabbilixxi:
 
-Iżda uffiċjal ikollu l-għażla li jirtira fil-jum meta, jew f’kull FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
-jum ieħor li jiġi wara l-jum meta, itemm ħamsa u għoxrin sena servizz, suġġett għal kull obbligu ta’ servizz u ta’ termini oħrajn li hu jista’ ikun daħal għalihom permezz ta’ aċċettazzjoni ta’ impenn u sakemm l-uffiċjal jiddikjara l-ħsieb tiegħu li jirtira lill-Ministru bil-miktub, permezz tal-Kmandant, mhux iktar tard minn tliet xhur qabel il-jum maħsub tal-irtir tiegħu.
-
-*7*
+Iżda uffiċjal ikollu l-għażla li jirtira fil-jum meta, jew f’kull jum ieħor li jiġi wara l-jum meta, itemm ħamsa u għoxrin sena servizz, suġġett għal kull obbligu ta’ servizz u ta’ termini oħrajn li hu jista’ ikun daħal għalihom permezz ta’ aċċettazzjoni ta’ impenn u sakemm l-uffiċjal jiddikjara l-ħsieb tiegħu li jirtira lill-Ministru bil-miktub, permezz tal-Kmandant, mhux iktar tard minn tliet xhur qabel il-jum maħsub tal-irtir tiegħu.
 
 (2) Għall-fini li jinħadmu l-ħamsa u għoxrin sena servizz imsemmija qabel, għandu jitqies bħala servizz li għandu jiġi kalkolat dan li ġej:
 
@@ -357,10 +345,6 @@ Iżda fuq talba tal-benefiċjarju, għandhom jitħallsu gratifikazzjonijiet fi t
 (6) Fejn uffiċjal ikun ikkompleta ħamsa u għoxrin (25) sena ta’ servizz u jkun issodisfa wkoll il-kondizzjonijiet stabbiliti fil-partita 11(1) tat-Taqsima II tat-Tielet Skeda jagħżel li jkompli is-servizz tiegħu sussegwentement, l-imsemmi uffiċjal għandu jkun intitolat għall-pensjoni pagabbli mal-għeluq tal-ħamsa u għoxrin (25) sena ta’ servizz, minkejja kwalunkwe avveniment li jista’ jseħħ matul il-perjodu sussegwenti għall-għeluq tal-imsemmija ħamsa u għoxrin (25) sena servizz u li jista’ jagħti lok għall-applikabbiltà tad-dispożizzjonijiet tal-partita 11(2) tat-Taqsima II tat-Tielet Skeda:
 
 Iżda dan għandu jkun bla ħsara għall-possibiltà tal-akkumulazzjoni ta’ benefiċċji tal-pensjoni addizzjonali:
-
-*9*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
 
 Iżda wkoll id-dispożizzjonijiet tal-partita 11(2) tat-Taqsima II tat-Tielet Skeda għandhom japplikaw għall-pensjoni pagabbli lill-uffiċjali msemmija f’dan ir-regolament għall-perjodu sussegwenti għall-għeluq tal-imsemmija ħamsa u għoxrin (25) sena ta’ servizz.
 
@@ -441,10 +425,6 @@ L-iskali ta’ paga u ta’ allowances ta’ uffiċjali għandhom ikunu dawk kif
 Uffiċjali li jkollhom kummissjoni fil-forza għandhom, dwar servizz fil-forza, ikunu intitolati għal dik il-pensjoni jew gratuity kif tista’ tingħata skont l-Ordinanza dwar il-Pensjonijiet lil uffiċjal detentur ta’ kariga pensjonabbli f’Malta skont it-tifsir ta’ dik l-Ordinanza; u l-imsemmija Ordinanza għandha għal dak l-iskop tapplika għall-uffiċjali li jkollhom kummissjoni fis-servizz, għar-romol u għar-rappreżentanti legali tagħhom, kif tapplika għal uffiċjal detentur ta’ kariga pensjonabbli kif intqal qabel, għall-armla u għar-rappreżentant legali tiegħu, suġġett għal dawk l-addatamenti u modifiki li jistgħu jkunu meħtieġa u b’mod partikolari suġġett għall-modifika li l-etajiet ta’ rtir ta’ uffiċjali li jkollhom kummissjoni fil-forza jkunu dawk speċifikati fir-regolament 12, u fl-applikazzjoni tal-artikolu 7, l-artikolu 11(3) u l-artikolu 18 tal-imsemmija Ordinanza u tar-regolamenti 2, 9, 10 u 14 tar-Regolamenti dwar il-Pensjonijiet għal uffiċjali li jkollhom kummissjoni fil-forza, dawk l-artikoli u regolamenti japplikaw kif japplikaw għal membri tal-Korp tal-Pulizija:
 
 Iżda uffiċjal li jkollu kummissjoni fil-forza li jkollu servizz speċjali li għandu jiġi kalkulat għandu jikkwalifika għal pensjoni indipendentement mit-tul tas-servizz tiegħu li għandu jiġi kalkolat kemm-il darba l-irtir tiegħu jsir jew skont ir-regolament 12 jew skont ir-regolament 14(3):
-
-*11*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
 
 Iżda wkoll servizz fil-kmand tal-Korp Territorjali għandu jitqies li hu servizz pensjonabbli.
 
@@ -530,11 +510,7 @@ Iżda l-ingaġġ jitqies li spiċċa -
 
 (ii) fil-każ ta’ kandidati li jkunu ngaġgati għal tliet snin malli jiġu sekondati mis-servizz pubbliku, fid-data li fiha jissejħu lura għas-servizz pubbliku.
 
-(2) Ma jkun hemm ebda benefiċċju fi tmiem is-servizz u, bla FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
-ħsara għad-disposizzjonijiet tas-subregolamenti (3) u (4), ma jkunx hemm obbligu ta’ servizz fir-riżerva meta jispiċċa -
-
-*13*
+(2) Ma jkun hemm ebda benefiċċju fi tmiem is-servizz u, bla ħsara għad-disposizzjonijiet tas-subregolamenti (3) u (4), ma jkunx hemm obbligu ta’ servizz fir-riżerva meta jispiċċa -
 
 (a) l-ingaġg inizjali ta’ tliet snin, jew
 
@@ -610,11 +586,7 @@ Dik il-perċentwali ta’ rġiel fuq ingaġġ ta’ tnejn u għoxrin sena li l-M
 
 (ċ) kull persuna tali titħalla li tkompli fis-servizz wara li tagħlaq il-ħamsa u ħamsin sena jew sakemm tilħaq età oħra wara kif il-Ministru jista’ minn żmien għal żmien jistabbilixxi jekk dan jiġri qabel ma tkun għamlet servizz totali ta’ tnejn u għoxrin sena, kalkolat kif intqal qabel, sakemm tagħmel dak is-servizz totali;
 
-(d) kull persuna tali tista’ tagħżel li tinħall mis-servizz wara kull sitt snin servizz li għandu jiġi kalkolat u wara kull perijodu suċċessiv ta’ tliet snin, billi tagħti avviż sitt xhur bil-quddiem tal-intenzjoni tagħha biex tinħall mis-servizz lill-uffiċjal kmandant tagħha; u kull persuna tali li jkollha sittax-il sena servizz li għandu FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
-jiġi kalkolat tista’ ittemm is-servizz tagħha f’kull żmien billi tagħti avviż tliet xhur bil-quddiem kif intqal qabel;
-
-*15*
+(d) kull persuna tali tista’ tagħżel li tinħall mis-servizz wara kull sitt snin servizz li għandu jiġi kalkolat u wara kull perijodu suċċessiv ta’ tliet snin, billi tagħti avviż sitt xhur bil-quddiem tal-intenzjoni tagħha biex tinħall mis-servizz lill-uffiċjal kmandant tagħha; u kull persuna tali li jkollha sittax-il sena servizz li għandu jiġi kalkolat tista’ ittemm is-servizz tagħha f’kull żmien billi tagħti avviż tliet xhur bil-quddiem kif intqal qabel;
 
 (e) kull persuna tali tkun obbligata li sservi fir-riżerva kif ġej:
 
@@ -677,10 +649,6 @@ Iżda raġel tal-forza li wara li jingaġġa mas-Servizz ta’ Detenzjoni kif st
 *Emendat: A.L. 37 tal-1973.*
 
 (1) Il-promozzjoni għandha ssir skont rakkomandazzjoni bażata fuq effiċjenza, anzjanità, kwalifiki u għażla biex timtela vakanza.
-
-*17*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
 
 (2) Bla ħsara ta’ dawn ir-Regolamenti, il-proċedura li għandha tiġi osservata, l-eżamijiet li għandhom isiru, il-kwalifiki militari u kwalifiki oħra li jkunu meħtieġa, il-limiti ta’ etajiet li għandhom jiġu osservati u l-kondizzjonijiet l-oħra għal promozzjoni għandhom ikunu hekk kif il-Ministru jista’ minn żmien għal żmien jistabbilixxi.
 
@@ -760,11 +728,7 @@ għandu jiġi anness mad-dokumenti tar-raġel.
 
 ### 43. Effett ta’ tnaqqis fir-ranks fuq anzjanità, promozzjoni, eċċ.
 
-(1) Warrant officer jew uffiċjal bla kummissjoni li jitnaqqas għal rank aktar baxx minħabba nuqqas ta’ effiċjenza jew għax ma jkunx adatt skont dawn ir-Regolamenti, għandu jitqiegħed fuq il-lista tal-promozzjoni tar-rank aktar baxx skont id-data li fiha oriġinarjament ngħatatlu promozzjoni għal dak ir-rank. Jekk hu qatt ma jkun serva fir-rank aktar baxx qabel ġie mniżżel, l-Uffiċjal FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
-Inkarigat mir-Records għandu jagħti lil dak ir-raġel dik l-anzjanità fir-rank aktar baxx hekk li tqegħdu fiż-żona għall-promozzjoni għar-rank ogħla sostantiv sussegwenti meta jispiċċa l-perijodu rilevanti speċifikat fis-subregolament (2); u jekk żewġ warrant officers jew uffiċjali bla kummissjoni jew iżjed ikunu mniżżlin flimkien, l-Uffiċjal Inkarigat mir-Records għandu jagħti l-anzjanità fir-rank aktar baxx hekk li tinżamm l-anzjanità relattiva bejniethom.
-
-*19*
+(1) Warrant officer jew uffiċjal bla kummissjoni li jitnaqqas għal rank aktar baxx minħabba nuqqas ta’ effiċjenza jew għax ma jkunx adatt skont dawn ir-Regolamenti, għandu jitqiegħed fuq il-lista tal-promozzjoni tar-rank aktar baxx skont id-data li fiha oriġinarjament ngħatatlu promozzjoni għal dak ir-rank. Jekk hu qatt ma jkun serva fir-rank aktar baxx qabel ġie mniżżel, l-Uffiċjal Inkarigat mir-Records għandu jagħti lil dak ir-raġel dik l-anzjanità fir-rank aktar baxx hekk li tqegħdu fiż-żona għall-promozzjoni għar-rank ogħla sostantiv sussegwenti meta jispiċċa l-perijodu rilevanti speċifikat fis-subregolament (2); u jekk żewġ warrant officers jew uffiċjali bla kummissjoni jew iżjed ikunu mniżżlin flimkien, l-Uffiċjal Inkarigat mir-Records għandu jagħti l-anzjanità fir-rank aktar baxx hekk li tinżamm l-anzjanità relattiva bejniethom.
 
 (2) Warrant officers u uffiċjali bla kummissjoni li jiġu mniżżla għal rank aktar baxx minħabba nuqqas ta’ effiċjenza jew għax ma jkunux adatti ma għandhomx, kemm-il darba ma jkunx ħaqqhom promozzjoni għal servizz eċċezzjonali, ikunu jistgħu jieħdu promozzjoni sostantiva jew temporanja għal rank ogħla -
 
@@ -810,11 +774,7 @@ Id-disposizzjonijiet li ġejjin għandhom ikollhom effett dwar it-trasferiment t
 
 (ii) it-trasferiment jinqala’ minn rakkomandazzjoni għal impieg mill-ġdid u r-raġel ikun ser jitnaqqas fir-rank skont id-disposizzjonijiet tal- Att jew skont xi regolamenti magħmula bis-saħħa tiegħu.
 
-(b) Raġel li jitlob jew li jagħti kunsens għal trasferiment għal corps ieħor ma għandux jitħalla f’xi żmien futur FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
-li jiġi trasferit mill-ġdid għall-corps tiegħu ta’ qabel kemm-il darba dak it-trasferiment mill-ġdid ma jkunx fl-interess tas-servizz.
-
-*21*
+(b) Raġel li jitlob jew li jagħti kunsens għal trasferiment għal corps ieħor ma għandux jitħalla f’xi żmien futur li jiġi trasferit mill-ġdid għall-corps tiegħu ta’ qabel kemm-il darba dak it-trasferiment mill-ġdid ma jkunx fl-interess tas-servizz.
 
 (ċ) Trasferiment ikollu effett mid-data li fiha raġel jingħaqad mal-corps il-ġdid tiegħu u dak ir-raġel għandu jinqata’ minn mal-corps tiegħu ta’ qabel b’effett mill-ġurnata ta’ qabel.
 
@@ -882,10 +842,6 @@ Għall-finijiet ta’ dan il-paragrafu persuna li tkun qegħda taħt probation j
 
 (i) il-Kmandant jista’ jħalli li raġel tal-forza jtemm is-servizz mingħajr ħlas għal raġunijiet ta’ kompassjoni;
 
-*23*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
 (j) raġel tal-forza b’iktar minn tliet xhur servizz jista’ fuq talba tiegħu jitħalla jtemm is-servizz tiegħu mill- Kmandant mal-ħlas ta’ dik is-somma ta’ flus kif il- Ministru jista’ minn żmien għal żmien jistabbilixxi;
 
 (k) raġel tal-forza jista’ jinħall mis-servizz mill-Kmandant f’kull każ fejn il-Kmandant ikun sodisfatt li, fl-interess tas-servizz, servizz ta’ raġel ma jkunx iżjed meħtieġ jew għandu jintemm;
@@ -944,11 +900,11 @@ Iżda wkoll dwar irġiel tal-forza li jkollhom servizz speċjali li jista’ ji�
 
 Irġiel fil-forza, ingaġġati fil-15 ta’ Jannar, 1979, jew wara, ikunu intitolati għal pensjoni kif tista’ tingħata skont l-artikoli u regoli li hemm fit-Tielet Skeda.
 
-*25*
+### 48A. Żieda fl-emolumenti pensjonabbli.
 
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03 48A. (1) Id-dispożizzjonijiet ta’ dan ir-regolament għandhom japplikaw għall-irġiel tal-forza li jkunu fis-servizz fl-1 ta’ Ottubru 2023 jew wara:
+*Miżjud: A.L. 126 tal-2024. Emendat: A.L. 16 tal-2025.*
 
-*Żieda fl-emolumenti pensjonabbli. Miżjud: A.L. 126 tal-2024. Emendat: A.L. 16 tal-2025.*
+(1) Id-dispożizzjonijiet ta’ dan ir-regolament għandhom japplikaw għall-irġiel tal-forza li jkunu fis-servizz fl-1 ta’ Ottubru 2023 jew wara:
 
 Iżda l-irġiel tal-forza li rtiraw matul is-sena 2023 minħabba li laħqu l-età tal-pensjoni jew ġew boarded out minħabba raġunijiet mediċi għandhom ukoll jibbenefikaw minn dawn id-dispożizzjonijiet:
 
@@ -1002,11 +958,7 @@ Iżda wkoll id-dispożizzjonijiet ta’ dan ir-regolament għandhom japplikaw re
 
 (3) Meta jkun meħtieġ li leave jiġi pospost jew imwaqqaf jew individwi bil-leave jissejħu lura, għandhom jingħataw ir-raġunijiet lill-persuni in kwistjoni.
 
-(4) Min jidħol fis-servizz jew jitlaq mis-servizz matul sena tal- FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
-leave ikollu dritt għal-leave fuq bażi ta’ proporzjon; u meta r-rank ta’ individwu jinbidel matul sena tal-leave, dritt għal-leave għandu jiġi kalkolat in proporzjon għall-perijodu ta’ servizz f’kull rank.
-
-*27*
+(4) Min jidħol fis-servizz jew jitlaq mis-servizz matul sena tal-leave ikollu dritt għal-leave fuq bażi ta’ proporzjon; u meta r-rank ta’ individwu jinbidel matul sena tal-leave, dritt għal-leave għandu jiġi kalkolat in proporzjon għall-perijodu ta’ servizz f’kull rank.
 
 (5) Għall-finijiet ta’ dan ir-regolament -
 
@@ -1106,11 +1058,11 @@ Leave qabel terminazzjoni ta’ servizz għal perijodu kontinwu ta’ tmienja u 
 
 L-uffiċjali u l-irġiel ikollhom dritt għal trattament minn dentist mingħajr ma jħallsu xejn.
 
-*29*
+### 58. Applikabbiltà tar-regolamenti 55, 56 u 57.
 
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03 58. B’dak kollu li jinsab fid-disposizzjonijiet tar-regolamenti 55, 56 u 57 uffiċjali u rġiel li jingħaqdu mal-forzi wara d-19 ta’ April, 1973, ikollhom dritt għal dawk il-faċilitajiet ta’ tobba u dentisti kif il-Ministru jista’ minn żmien għal żmien jistabbilixxi.
+*Miżjud: A.L. 37 tal-1973.*
 
-*Applikabbiltà tar-regolamenti 55, 56 u 57. Miżjud: A.L. 37 tal-1973.*
+B’dak kollu li jinsab fid-disposizzjonijiet tar-regolamenti 55, 56 u 57 uffiċjali u rġiel li jingħaqdu mal-forzi wara d-19 ta’ April, 1973, ikollhom dritt għal dawk il-faċilitajiet ta’ tobba u dentisti kif il-Ministru jista’ minn żmien għal żmien jistabbilixxi.
 
 ### 59. Twaqqif u Statut ta’ Staff Association tal- Forzi Armati ta’ Malta.
 
@@ -1167,10 +1119,6 @@ Jekk ingaġġajt diġà taħt ir-regolament 26(l)(ċ) iżżomm id-dritt li tispi
 Servizz mal-forza jfisser servizz militari regolari full-time u matul dak is-servizz inti tista’ tissejjaħ biex isservi fi kwalunkwe parti tad-dinja. Matul servizz fir-riżerva inti terġa’ lura għall-ħajja ċivili iżda inti tkun suġġett li tissejjaħ f’emerġenza.
 
 **Xorta ta’ ingaġġi**
-
-*31*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
 
 *\4.*
 
@@ -1272,11 +1220,7 @@ Meta tiġi konfermat inti tkun suġġett għal-liġi militari, u inti tkun meħt
 
 Ma tista’ tingħatalek ebda garanzija li ser tiġi mpjegat fuq xi dmirijiet partikolari iżda jekk int tingaġġa bil-ħsieb li tiġi mħarreġ u impjegat f’xi sengħa partikolari, inti normalment tiġi mħarreġ u impjegat f’dik is-sengħa kemm-il darba l-ħtiġiet tas-servizz hekk jippermettu. Impieg f’sengħa jiddependi fuq eżami tas-sengħa li wieħed irid jgħaddi minnu u fuq jekk hemmx vakanza f’dik is-sengħa.
 
-\17. a. Jekk dan huwa l-ewwel ingaġġ tiegħek fil-Forza Regolari inti tkun intitolat li titlob il-ħall tiegħek mis-servizz mal- FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
-ħlas ta’ somma li ma tkunx iżjed minn sitta u erbgħin euro u disgħa u ħamsin ċenteżmu (46.59); iżda dik it-talba għandha ssir wara li jgħaddu xahrejn u qabel ma jgħaddu tliet xhur mill-konferma.
-
-*33*
+\17. a. Jekk dan huwa l-ewwel ingaġġ tiegħek fil-Forza Regolari inti tkun intitolat li titlob il-ħall tiegħek mis-servizz mal-ħlas ta’ somma li ma tkunx iżjed minn sitta u erbgħin euro u disgħa u ħamsin ċenteżmu (46.59); iżda dik it-talba għandha ssir wara li jgħaddu xahrejn u qabel ma jgħaddu tliet xhur mill-konferma.
 
 b. Jekk tagħmel xi talba għall-ħall mis-servizz matul il-perijodu xieraq inti mbagħad tiġi maħlul mis-servizz bil-ħeffa kollha konvenjenti kemm-il darba, meta tagħmel it-talba tiegħek, ma jkunx sar Ordni li jordna biex suldati li altrimenti jmisshom jiġu trasferiti għar-riżerva, għandhom ikomplu jservu mal-forza. F’dak il-każ il-ħall mis-servizz tiegħek jiġi trasferit sakemm l-Ordni jibqa’ jseħħ.
 
@@ -1355,10 +1299,6 @@ missierek?
 M.7. Inti ġuvni, M.8. Kemm M.9. X’inhi s-miżżewweġ jew għandek tfal sengħa armel? dipendenti tiegħek? minnek?
 
 M.10. Inti tagħmel parti minn, jew qatt servejt f’xi forza armata ta’ Malta jew ta’ xi Pajjiż tal-Commonwealth? Jekk iva, semmi liema, u l-perijodi ta’ servizz u r-raġunijiet u d-dati tal-ħall mis-servizz.
-
-*35*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
 
 M.11. Qatt ġejt akkużat quddiem xi qorti ċivili b’xi reat li minnu ma ġejtx liberat (ukoll jekk inti ġejt biss liberat għal kollox jew taħt kondizzjoni, jew imqiegħed taħt probation)? Jekk iva, agħti d-dettalji kollha ta’ kull akkuża.
 
@@ -1440,10 +1380,6 @@ M.1. X’jismek? (a) Isem/Ismijiet (b) Kunjom
 
 M.2. X’inhu l-indirizz tiegħek? M.3. X’inhi d-data tat-twelid tiegħek?
 
-*37*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
 M4. Fejn twelidt (agħti l-belt, M.5. X’inhi n-nazzjonalità il-pajjiż)? tiegħek issa?
 
 M.6. X’kienet in-nazzjonalità mat-twelid -
@@ -1520,11 +1456,7 @@ Jiena, ........................................., niddikjara solennement li t-tw
 
 ......................................... ................................... ............................. Data Firma tar-Rekluta Firma tax-Xhud
 
-ĠURAMENT LI JIEĦU REKLUTA MAL-KONFERMA FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
-Jiena, ........................... solennement naħlef/niddikjara li nkun tassew fidili u leali lejn il-Poplu u r-Repubblika ta’ Malta u l- Kostituzzjoni tagħha, u li, kif hu dmir tiegħi, onestament u fedelment niddefendi r-Repubblika ta’ Malta kontra l-egħdewwa kollha, u nosserva u nobdi l-ordnijiet kollha tal-President ta’ Malta, u tal-uffiċjali li jkolli fuqi.
-
-*39*
+ĠURAMENT LI JIEĦU REKLUTA MAL-KONFERMA Jiena, ........................... solennement naħlef/niddikjara li nkun tassew fidili u leali lejn il-Poplu u r-Repubblika ta’ Malta u l- Kostituzzjoni tagħha, u li, kif hu dmir tiegħi, onestament u fedelment niddefendi r-Repubblika ta’ Malta kontra l-egħdewwa kollha, u nosserva u nobdi l-ordnijiet kollha tal-President ta’ Malta, u tal-uffiċjali li jkolli fuqi.
 
 (Hekk Alla jgħini)
 
@@ -1598,13 +1530,11 @@ Data .............. Firma tal-Uffiċjal li Japprova ......................... Po
 
 \2. Jekk ir-Rekluta kellu servizz qabel hu għandu jiġi mistoqsi l-partikolaritajiet tas-servizz tiegħu ta’ qabel, u għandu jipproduċi, jekk hu possibbli, iċ-ċertifikati kollha maħruġa mal-ħall mis-servizz. Iċ-ċertifikati kollha għandhom jingħataw lura lir-Rekluta u f’każijiet ta’ servizz ta’ qabel mal-Forzi Armati ta’ Malta ċertifikati għandhom b’mod li jidhru sewwa jiġu kontrosenjati b’linka ħamra kif ġej:
 
-(Isem) ingaġġa mill-ġdid mal-(Corps) fi ...................... (Data). FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
+(Isem) ingaġġa mill-ġdid mal-(Corps) fi ...................... (Data).
 
 ## IT-TIELET SKEDA
 
 *Miżjuda: A.L. 47 tal-1990. Emendata: A.L. 227 tal-2004; A.L. 411 tal-2007; A.L. 66 tal-2013; A.L. 168 tal-2016; XLI. 2016.39.*
-
-*41*
 
 (Regolamenti 20 u 48)
 
@@ -1688,10 +1618,6 @@ Iżda l-pensjoni fis-sena ma għandha f’ebda każ titnaqqas għal anqas mis-so
 
 billi jitnaqqsu minnhom is-somma ta’ mija u sittax-il euro u s ebgħa u erbgħin ċenteżmu (116.47) fis-sena.
 
-*43*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
 (3) Kull tnaqqis fil-pensjoni taħt is-subartikolu (1) għandu jiġi kalkolat fuq il-bażi tal-pensjoni, ir-rimunerazzjoni jew income ieħor, u s-salarju, li għandhom jiġu riċevuti matul perijodu ta’ tnax-il xahar li jispiċċa fil-31 ta’ Diċembru, iżda bla ħsara għal kull aġġustament li jista’ jkun jew li jista’ jsir meħtieġ għal xi raġuni tkun li tkun, u safejn ikun prattikabbli, għandu jsir mill-ħlasijiet ta’ kull xahar jew ħlasijiet oħra perjodiċi tal-pensjoni.
 
 (4) Kull uffiċjal jew raġel li għalih japplika s-subartikolu (1) għandu mingħajr dewmien igħarraf lid-Direttur Ġenerali (Sigurtà Soċjali) u jżommu mgħarraf f’kull żmien, biċ-ċirkostanzi kollha li jagħmlu l-imsemmi subartikolu (1) applikabbli għalih u l-limiti safejn huma hekk applikabbli, u b’kull tibdil fiċ-ċirkostanzi jew fl-imsemmija limiti, u jagħti lid-Direttur Ġenerali (Sigurtà Soċjali), meta jkun mitlub, it-tagħrif kollu rilevanti; u jekk dak l-uffiċjal jew raġel jonqos li jħares xi waħda mid-disposizzjonijiet ta’ dan is-subartikolu, kull pensjoni li għaliha huwa jista’ jkollu dritt bis-saħħa ta’ dawn l-Artikoli tieqaf minnufih:
@@ -1748,11 +1674,7 @@ Iżda -
 
 (d) il-perijodi li fihom huwa ma kienx jattendi għax-xogħol bil-leave mingħajr salarju, mogħti minħabba raġunijiet ta’ ħtieġa pubblika bl-approvazzjoni tal- President, u li fihom hu ma kienx ikkwalifika għal pensjoni rigward servizz pubbliku ieħor.
 
-(4) F’ebda ċirkostanzi ma għandhom il-ħlasijiet pensjonabbli FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03
-
-li għandhom jitqiesu jkunu iżjed mill-ħlasijiet pensjonabbli annwali sħaħ li kellu l-uffiċjal jew ir-raġel fid-data tal-irtir tiegħu dwar il-kariga li jkollu dak iż-żmien.
-
-*45*
+(4) F’ebda ċirkostanzi ma għandhom il-ħlasijiet pensjonabbli li għandhom jitqiesu jkunu iżjed mill-ħlasijiet pensjonabbli annwali sħaħ li kellu l-uffiċjal jew ir-raġel fid-data tal-irtir tiegħu dwar il-kariga li jkollu dak iż-żmien.
 
 (5) Fil-każ ta’ uffiċjal jew raġel li għalih tapplika r-regola 5(1)(ċ), id-data tal-irtir tiegħu għandha -
 
@@ -1830,9 +1752,7 @@ dak l-uffiċjal għandu jkun intitolat għal pensjoni bħallikieku huwa kien tem
 
 (1) Meta uffiċjal jew raġel, mingħajr ħtija tiegħu, imut bħala konsegwenza diretta u immedjata waqt li jkun qed jaqdi il-funzjonijiet tal-kariga tiegħu, il-ħlas pensjonabbli tiegħu għandu jingħata:
 
-*47*
-
-FORZA REGOLARI TAL-FORZI ARMATI TA’ MALTA [L.S.220.03 (a) lill-konjuġi jew sieħeb superstiti tal-mejjet sakemm dan il-konjuġi jerġa’ jiżżewweġ jew is-sieħeb jidħol f’unjoni oħra ta’ status ekwivalenti skont l-Att dwar l- Unjoni Ċivili, jew jilħaq l-età pensjonabbli, jew fin-nuqqas ta’ konjuġi jew sieħeb eliġibbli;
+(a) lill-konjuġi jew sieħeb superstiti tal-mejjet sakemm dan il-konjuġi jerġa’ jiżżewweġ jew is-sieħeb jidħol f’unjoni oħra ta’ status ekwivalenti skont l-Att dwar l- Unjoni Ċivili, jew jilħaq l-età pensjonabbli, jew fin-nuqqas ta’ konjuġi jew sieħeb eliġibbli;
 
 *Kap. 530.*
 

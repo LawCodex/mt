@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Gozo Studies taħt il-patroċinju tal-Istitut għall-Gżejjer u Stati Żgħar (S.L. 327.443)
 
-*1*
-
-TAL-ISTITUT GĦALL-GŻEJJER U STATI ŻGĦAR [L.S.327.443
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.443**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN GOZO**
@@ -75,9 +71,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (1) Il-Marka Medja Finali Mwieżna fil-kors ta’ kull student għall-iskop tal-klassifikazzjoni tad-Diploma għandha tkun ibbażata fuq ir-riżultati miksuba, bil-kredti kollha jingħataw piż indaqs.
 
-*2*
-
-[L.S.327.443 TAL-ISTITUT GĦALL-GŻEJJER U STATI ŻGĦAR (2) L-ismijiet tal-istudenti li jikkwalifikaw għall-għoti tad- Diploma għandhom ikunu ppubblikati f’lista f’ordni alfabetiku kklassifikati kif ġej:
+(2) L-ismijiet tal-istudenti li jikkwalifikaw għall-għoti tad- Diploma għandhom ikunu ppubblikati f’lista f’ordni alfabetiku kklassifikati kif ġej:
 
 Għadda b’Distinzjoni
 

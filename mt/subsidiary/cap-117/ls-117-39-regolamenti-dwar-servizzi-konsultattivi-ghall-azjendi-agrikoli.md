@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Servizzi Konsultattivi għall-Azjendi Agrikoli (S.L. 117.39)
 
-*1*
-
-GĦALL-AZJENDI AGRIKOLI [L.S.117.39 LEĠISLAZZJONI SUSSIDJARJA 117.39
+**LEĠISLAZZJONI SUSSIDJARJA 117.39**
 
 **REGOLAMENTI DWAR SERVIZZI KONSULTATTIVI**
 
@@ -54,11 +52,7 @@ F’dawn ir-regolamenti, sakemm il-kuntest ma jkunx jeħtieġ mod ieħor –
 
 ''ċertifikat'' ifisser iċ-ċertifikat ta’ rikonoxximent maħruġ skont ir-regolament 17;
 
-''fornituri ta’ servizzi konsultattivi għall-azjendi agrikoli'' GĦALL-AZJENDI AGRIKOLI
-
-*[L.S. 117.39 2*
-
-tfisser kwalunkwe persuna naturali jew legal, pubbliku jew privat, li qiegħda tipprovdi servizz konsultattiv għall-azjendi agrikoli taħt id-dispożizzjonijiet ta’ dawn ir-regolamenti;
+''fornituri ta’ servizzi konsultattivi għall-azjendi agrikoli'' tfisser kwalunkwe persuna naturali jew legal, pubbliku jew privat, li qiegħda tipprovdi servizz konsultattiv għall-azjendi agrikoli taħt id-dispożizzjonijiet ta’ dawn ir-regolamenti;
 
 ''konsulent espert'' tfisser l-individwu kwalifikat li għandu jipprovdi s-servizzi konsultattivi għall-azjendi agrikoli taħt dawn ir-regolamenti;
 
@@ -76,9 +70,7 @@ tfisser kwalunkwe persuna naturali jew legal, pubbliku jew privat, li qiegħda t
 
 "Regolamenti" tfisser ir-Regolament (UE) Nru 1306/2013 tal-Parlament Ewropew u tal-Kunsill tas-17 ta’ Diċembru 2013 dwar il-finanzjament, il-ġestjoni u l-monitoraġġ tal-politika agrikola komuni u li jħassar ir-Regolamenti tal-Kunsill (KEE) Nru 352/78, (KE) Nru 165/94, (KE) Nru 2799/98, (KE) Nru 814/ 2000, (KE) Nru 1290/2005 u (KE) Nru 485/2008, u r- Regolament (UE) 2021/2115 tal-Parlament Ewropew u tal- Kunsill tat-2 ta’ Diċembru 2021 li jistabbilixxi regoli dwar l-appoġġ għall-pjanijiet strateġiċi li għandhom jitfasslu mill-Istati Membri skont il-Politika Agrikola Komuni (Pjanijiet Strateġiċi tal-PAK) u ffinanzjati mill-Fond Agrikolu Ewropew ta’ Garanzija (FAEG) u mill-Fond Agrikolu Ewropew għall- Iżvilupp Rurali (FAEŻR) u li jħassar ir-Regolamenti (UE) Nru 1305/2013 u (UE) Nru 1307/2013, kif fis-seħħ minn żmien għal żmien;
 
-*3*
-
-GĦALL-AZJENDI AGRIKOLI [L.S.117.39 ''sistema ta’ servizzi konsultattivi għall-azjendi agrikoli'' tfisser il-qafas regolatorju li jirregola s-servizzi konsultattivi għall-azjendi agrikoli.
+''sistema ta’ servizzi konsultattivi għall-azjendi agrikoli'' tfisser il-qafas regolatorju li jirregola s-servizzi konsultattivi għall-azjendi agrikoli.
 
 ## 3. L-awtorità kompetenti.
 
@@ -110,11 +102,7 @@ Għall-finijiet ta’ dawn ir-regolamenti, l-awtorità kompetenti għandha tkun 
 
 (7) Il-Bord għandu jinnotifika d-deċiżjoni tiegħu jekk jaċċettax jew jirrifjuta applikazzjoni lir-Reġistratur, fi żmien erba’ (4) xhur mid-data ta’ rċevuta tal-formola tal-applikazzjoni mimlija:
 
-Iżda f’każ li l-Bord jitlob informazzjoni, dokumentazzjoni jew kjarifika addizzjonali, l-erba’ (4) xhur imsemmija fl-ewwel paragrafu ta’ dan ir-regolament għandhom jibdew fil-ġurnata meta l- [L.S. 117.39 GĦALL-AZJENDI AGRIKOLI
-
-*4*
-
-aħħar informazzjoni, dokumentazzjoni jew kjarifika tiġi sottomessa mill-applikant għas-sodisfazzjon tal-Bord.
+Iżda f’każ li l-Bord jitlob informazzjoni, dokumentazzjoni jew kjarifika addizzjonali, l-erba’ (4) xhur imsemmija fl-ewwel paragrafu ta’ dan ir-regolament għandhom jibdew fil-ġurnata meta l-aħħar informazzjoni, dokumentazzjoni jew kjarifika tiġi sottomessa mill-applikant għas-sodisfazzjon tal-Bord.
 
 (8) Il-Bord għandu jirregola l-proċedura tiegħu innifsu.
 
@@ -160,9 +148,7 @@ Persuni naturali jew legali li jkunu debitament eliġibbli u rikonoxxuti skond i
 
 (b) evidenza ta’ kompetenza teknika u professjonali biex jipprovdu servizz konsultattiv kif provdut fir-Regolamenti li tkun għas-sodisfazzjoni tal-Bord;
 
-*5*
-
-GĦALL-AZJENDI AGRIKOLI [L.S.117.39 (ċ) evidenza ta’ riżorsi umani, kapacita amminstrattiva u organizzattiva sodisfaċenti għal Bord;
+(ċ) evidenza ta’ riżorsi umani, kapacita amminstrattiva u organizzattiva sodisfaċenti għal Bord;
 
 (d) ippreżentar tal-pjan ta’ direzzjoni tan-negozju tas-servizz konsultattivi għall-approvazzjoni mill-awtorità kompetenti;
 
@@ -186,13 +172,9 @@ GĦALL-AZJENDI AGRIKOLI [L.S.117.39 (ċ) evidenza ta’ riżorsi umani, kapacita
 
 (3) L-awtorità kompetenti tista’ tikkomunika lill-fornitur rikonoxxut ta’ servizzi konsultattivi għall-azjendi agrikoli, l-kategoriji ta’ benefiċjarji li għandhom jingħataw aċċess prijoritarju għall-fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli skont ir-regolamenti applikabbli.
 
-*6 Taħriġ tal-konsulenti. Emendat: A.L. 189 tal-2024.*
+*Taħriġ tal-konsulenti. Emendat: A.L. 189 tal-2024.*
 
-[L.S. 117.39 GĦALL-AZJENDI AGRIKOLI
-
-## 10.
-
-(1) Il-fornituri rikonoxxuti ta’ servizzi konsultattivi għall-azjendi agrikoli għandhom jiżguraw li l-konsulenti tagħhom huma mħarrġa b’mod regolari. Tali taħriġ għandu jinkludi:
+għall-azjendi agrikoli għandhom jiżguraw li l-konsulenti tagħhom huma mħarrġa b’mod regolari. Tali taħriġ għandu jinkludi:
 
 (a) l-obbligi stipulati fil-liġi fl-oqsma relevanti konsultattivi jew sotto-oqsma li fihom l-esperti jkunu rikonoxxuti u kull emenda tagħhom;
 
@@ -222,15 +204,13 @@ Konsulent espert ma jistax jipprovdi servizzi konsultattivi tħat aktar minn for
 
 Fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli jista’, fid-diskrezzjoni tiegħu, juża s-servizzi u l-għarfien espert ta’ konsulenti terzi. Fi kwalunkwe każ fejn il-fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli jagħmel użu minn konsulenti esperti terzi, il-fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli għandu, għall-iskop ta’ dan l-ingaġġ, jidħol f’kuntratt miktub ta’ servizz ma’ tali konsulenti esperti u għandu jibgħat kopja ta’ dan il-kuntratt lill-Bord, flimkien mal-formola tal-applikazzjoni, għall-approvazzjoni tiegħu, skont dawn ir-regolamenti:
 
-Iżda konsulenti esperti ingaġġati taħt kuntratt ta’ servizz għandhom, għall-perjodu tar-rikonoxximent u fir-rigward tal-benefiċjarji u tal-Bord, ikollhom l-istess status, drittijiet u dmirijiet daqs konsulenti esperti ingaġġati mal-fornitur ta’ servizzi konsultattivi għall-azjendi GĦALL-AZJENDI AGRIKOLI [L.S.117.39 agrikoli taħt kuntratt ta’ impjieg.
+Iżda konsulenti esperti ingaġġati taħt kuntratt ta’ servizz għandhom, għall-perjodu tar-rikonoxximent u fir-rigward tal-benefiċjarji u tal-Bord, ikollhom l-istess status, drittijiet u dmirijiet daqs konsulenti esperti ingaġġati mal-fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli taħt kuntratt ta’ impjieg.
 
 ## 14. Applikazzjoni għar-rikonoxximent
 
 *Emendat: A.L. 189 tal-2024.*
 
 (1) Fornituri ta’ servizzi konsultattivi għall-azjendi agrikoli għandhom ikunu eliġibbli għall-konsiderazzjoni għar-rikonoxximent mill-Bord wara dikjarazzjoni ta interess li ssir permezz ta applikazzjoni skont il-format stabbilit mill-awtorità kompetenti.
-
-*7*
 
 (2) L-applikazzjoni għar-rikonoxximent ta’ servizzi konsultattivi għall-azjendi agrikoli għandhom jinkludu d-dettalji kollha meħtieġa mill-Bord. L-awtorità kompetenti għandha tfassal u tippubblika linji gwida li jistipulaw b’mod dettaljat il-forma u l-kontentut ta’ tali applikazzjonijiet, inklużi dokumenti u evidenza oħra meħtieġa biex turi kompetenza u eliġibbiltà kif stabbilit hawn taħt. Dawn id-dettalji għandhom jinkludu:
 
@@ -257,10 +237,6 @@ Iżda konsulenti esperti ingaġġati taħt kuntratt ta’ servizz għandhom, għ
 (k) dikjarazzjoni ta’ nuqqas ta’ kunflitti ta’ interess;
 
 (l) prova tal-pagamenti għat-tariffa amministrattiva kif stipulat fit-Iskeda II;
-
-*8*
-
-[L.S. 117.39 GĦALL-AZJENDI AGRIKOLI
 
 (m) kull informazzjoni oħra li tista tintalab mill-Bord.
 
@@ -298,9 +274,7 @@ Il-Bord jista’ jitlob kjarifiki minn kull persuna dwar kull kwistjoni msemmija
 
 (2) Iċ-ċertifikati li jinħarġu lill-fornituri ta’ servizzi konsultattivi għall-azjendi agrikoli rikonoxxuti għandhom ikunu validi għal ħames (5) snin mid-data tar-rikonoxximent u jistgħu jiġi mġedda permezz ta’ talba uffiċjali magħmula bil-miktub mill-istess fornituri ta’ servizzi.
 
-*9*
-
-GĦALL-AZJENDI AGRIKOLI [L.S.117.39 (3) Ċertifikati ta’ rikonoxximent għandhom jiġu mġedda biss wara talba bil-miktub mill-fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli. Talba għat-tiġdid għandha tinkludi kwalunkwe dokumentazzjoni msemmija fir-regolament 14 fir-rigward ta’ tibdiliet materjali.
+(3) Ċertifikati ta’ rikonoxximent għandhom jiġu mġedda biss wara talba bil-miktub mill-fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli. Talba għat-tiġdid għandha tinkludi kwalunkwe dokumentazzjoni msemmija fir-regolament 14 fir-rigward ta’ tibdiliet materjali.
 
 ## 18. Notifika mir-reġistratur.
 
@@ -328,11 +302,9 @@ Meta l-fornitur rikonoxxut ta’ servizzi konsultattivi għall-azjendi agrikoli 
 
 Tibdiliet fl-istatus li jaffettwaw il-kriterji li taħthom ingħata r-rikonoxximent, għandhom jiġu rappurtati mill-fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli lill-Bord fi żmien għaxart ijiem (10) ta’ ħidma mill-ġurnata meta tali informazzjoni ġiet mitluba jew mill-ġurnata meta tali tibdiliet kellhom ikunu magħrufa mill-fornitur, skont liema data tiġi l-ewwel. Il-fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli għandu jissospendi l-operat tiegħu sakemm il-Bord japprova bil-miktub it-tibdiliet mitluba.
 
-*10 Protezzjoni tad-data. Sostitwit: A.L. 189 tal-2024.*
+## 22. Protezzjoni tad-data.
 
-[L.S. 117.39 GĦALL-AZJENDI AGRIKOLI
-
-## 22.
+*Sostitwit: A.L. 189 tal-2024.*
 
 (1) Il-fornituri ta’ servizzi konsultattivi għall-azjendi agrikoli għandhom iqisu l-informazzjoni kollha miksuba waqt l-attività konsultattiva bħala strettament kunfidenzjali u kwalunkwe data personali li tali fornituri ta’ servizzi jistgħu jipproċessaw għandha tikkonforma bis-sħiħ mal-prinċipji relatati mal-ipproċessar ta’ data personali skont l-Artikolu 5 tar-Regolament (UE) 2016/679 tal- Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id- Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad- Data).
 
@@ -354,9 +326,9 @@ Il-Bord għandu jfassal rapport annwali dwar il-kwalità u l-effettività tal-ko
 
 (3) Il-fornitur rikonoxxut ta’ servizzi konsultattivi għall-azjendi agrikoli għandu, sa mhux aktar tard mill-31 ta’ Jannar tas-sena ta’ wara, jipprovdi lill-Bord rapport annwali tal-istatus dwar is-servizzi konsultattivi għall-azjendi agrikoli mwettqa, inklużi attivitajiet mwettqa minn esperti esternalizzati, fis-sena kalendarja ta’ qabel. Dan ir-rapport għandu jkun iffirmat minn rappreżentant legali tal-fornitur rikonoxxut ta’ servizzi konsultattivi għall-azjendi agrikoli.
 
-*11*
+## 25.
 
-GĦALL-AZJENDI AGRIKOLI [L.S.117.39 25. (1) Il-Bord għandu d-dritt li jikkanċella kwalunkwe Kanċellazzjonijiet penalitajiet. ċertifikat ta’ rikonoxximent maħruġ lil fornitur ta’ servizzi konsultattivi uEmendat:  għall-azjendi agrikoli bħala entità, jew bħala individwu fi ħdan entità, A.L. 189 tal-2024. meta d-detentur ta’ dak iċ-ċertifikat jew kwalunkwe konsulent jew
+(1) Il-Bord għandu d-dritt li jikkanċella kwalunkwe Kanċellazzjonijiet penalitajiet. ċertifikat ta’ rikonoxximent maħruġ lil fornitur ta’ servizzi konsultattivi uEmendat:  għall-azjendi agrikoli bħala entità, jew bħala individwu fi ħdan entità, A.L. 189 tal-2024. meta d-detentur ta’ dak iċ-ċertifikat jew kwalunkwe konsulent jew
 
 spettur ingaġġat minn fornitur rikonoxxut ta’ servizzi konsultattivi
 
@@ -433,10 +405,6 @@ skont il-liġi.
 l-kompetenza li jiddetermina l-gravità ta’ kull reat, ksur tal-liġi jew
 
 nuqqas, kif ukoll li jiddetermina l-istandard ta’ diliġenza u l-kwalità tax-
-
-*12*
-
-[L.S. 117.39 GĦALL-AZJENDI AGRIKOLI
 
 xogħol meħtieġ mill-fornitur ta’ servizzi konsultattivi għall-azjendi agrikoli.
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) Health Science - B.Sc. (Hons) Health Science - taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.352)
 
-SCIENCE - B.SC. (HONS) HEALTH SCIENCE - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.352
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.352**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) HEALTH SCIENCE - B.SC. (HONS) HEALTH SCIENCE - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA
@@ -64,15 +58,17 @@ L-applikanti għall-Kors għandhom ikollhom dawn il-kwalifiki li ġejjin:
 
 u
 
-(c) il-liċenzja biex jipprattikaw fir-reġistru tal-professjoni konċernata, kif miżmum mill-kunsill regolatorju rilevanti. SCIENCE - B.SC. (HONS) HEALTH SCIENCE - TAĦT [L.S.327.352 IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA 4. (1) Il-Bord jista’, wara l-approvazzjoni tas-Senat, jiddetermina l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
+(c) il-liċenzja biex jipprattikaw fir-reġistru tal-professjoni konċernata, kif miżmum mill-kunsill regolatorju rilevanti.
+
+## 4. Determinazzjoni tal-għadd ta’ applikanti.
+
+*Emendat: A.L. 353 tal-2011. Sostitwit: A.L. 391 tal-2012.*
+
+(1) Il-Bord jista’, wara l-approvazzjoni tas-Senat, jiddetermina l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 *Emendat: A.L. 195 tal-2013; A.L. 325 tal-2014; A.L. 279 tal-2017.*
 
 (2) Jekk l-għadd tal-applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, il-Bord għandu jagħżel l-applikanti skont dawn il-kriterji li ġejjin:
-
-*2*
-
-*Determinazzjoni tal-għadd ta’ applikanti. Emendat: A.L. 353 tal-2011. Sostitwit: A.L. 391 tal-2012.*
 
 (i) kwalifiki akkademiċi (piż ta’ 45%):
 
@@ -99,12 +95,6 @@ u
 (f) l-applikanti li għandhom 4 snin esperjenza ta’ xogħol rilevanti għandhom jingħataw 4 marki;
 
 (g) l-applikanti li għandhom 3 snin esperjenza ta’ xogħol rilevanti għandhom jingħataw 3 marki;
-
-SCIENCE - B.SC. (HONS) HEALTH SCIENCE - TAĦT
-
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.352
 
 (h) l-applikanti li għandhom sentejn esperjenza ta’ xogħol rilevanti għandhom jingħataw 2 marki;
 
@@ -138,11 +128,9 @@ Suġġett għal tibdiliet li l-Bord jista’, bl-approvazzjoni tas- Senat, ikun 
 
 L-istudenti li jkunu temmew b’suċċess il-kors għas- Certificate in Clinical Nursing Practice jkunu jistgħu jitħallew jittrasferixxu t-taqsimiet studju li jkunu segwew matul dan il-kors għall-kors li jwassal għall-Grad bil-kundizzjoni li huma jirrinunzjaw għaċ-Ċertifikat.
 
-*4*
+## 9. Valutazzjoni u progress. Enumerat mill-ġdid: A.L. 353 tal-2011.
 
-SCIENCE - B.SC. (HONS) HEALTH SCIENCE - TAĦT [L.S.327.352 IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA 9. (1) Biex l-istudenti jkunu jistgħu jingħataw krettu għal kwalunkwe taqsima studju inkluża fil-programm, iridu jġibu marka ta’ mhux inqas minn 45% fit-taqsima studju.
-
-*Valutazzjoni u progress. Enumerat mill-ġdid: A.L. 353 tal-2011.*
+(1) Biex l-istudenti jkunu jistgħu jingħataw krettu għal kwalunkwe taqsima studju inkluża fil-programm, iridu jġibu marka ta’ mhux inqas minn 45% fit-taqsima studju.
 
 *Emendat: A.L. 210 tal-2020.*
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Aġenzija ta' Pagamenti"
-identifier: "S.L. 146.3"
+identifier: "S.L. 146.03"
 eli: "https://legislation.mt/eli/sl/146.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/146.3/20240126/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Aġenzija ta' Pagamenti (S.L. 146.3)
+# Regolamenti dwar l-Aġenzija ta' Pagamenti (S.L. 146.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 146.03**
 

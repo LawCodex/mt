@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Gradi ta’ Doctor of Philosophy - Ph.D. - u Master of Philosophy - M.Phil. - fil-Fakultà ta’ l-Information and Communication Technology (S.L. 327.329)
 
-IL-PATRO~INJU TAL- FAKULTÀ TAL-INFORMATION
-
-*1*
-
-AND COMMUNICATION TECHNOLOGY [S.L.327.329
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.329**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -71,10 +65,6 @@ Dawn l-ordinamenti għandhom japplikaw minn Ottubru 2008 ’il quddiem.
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 308 tal-2023.
 
-*2*
-
-IL-PATRO~INJU TAL- FAKULTÀ TAL-INFORMATION [S.L.327.329 AND COMMUNICATION TECHNOLOGY
-
 ## 4. Formola tal-applikazzjoni.
 
 (1) L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni, flimkien ma’ proposta ta’ riċerka komprensiva li tiddeskrivi l-proġett propost, inklużi s-sorsi u l-materjali tar-riċerka, fi kwalunkwe żmien tas-sena. Il-proposta għandha tinkludi l-mistoqsijiet ta’ riċerka li ser jiġu investigati, l-ipoteżi li ser tiġi eżaminata, u l-metodoloġija li ser tintuża biex issir ir-riċerka.
@@ -109,13 +99,7 @@ L-istudenti reġistrati mal-Fakultà jistgħu jiġu mitluba jipparteċipaw fil-p
 
 ## 10. Seminars ta’ ri`erka.
 
-Il-Fakultà tagħti importanza kbira lill-assoċjazzjoni ta’ studenti għad-dottorat ma’ studenti oħra ta’ riċerka u l-membri tal- IL-PATRO~INJU TAL- FAKULTÀ TAL-INFORMATION
-
-*3*
-
-AND COMMUNICATION TECHNOLOGY [S.L.327.329
-
-istaff. Għalhekk l-istudenti huma meħtieġa jieħdu sehem bis-sħiħ fis-seminars ta’ riċerka tal-Fakultà u jippreżentaw għall-anqas seminar wieħed kull sena, jew l-ekwivalenti f’każ ta’ reġistrazzjoni part-time, matul il-kors tal-istudji tagħhom.
+Il-Fakultà tagħti importanza kbira lill-assoċjazzjoni ta’ studenti għad-dottorat ma’ studenti oħra ta’ riċerka u l-membri tal-istaff. Għalhekk l-istudenti huma meħtieġa jieħdu sehem bis-sħiħ fis-seminars ta’ riċerka tal-Fakultà u jippreżentaw għall-anqas seminar wieħed kull sena, jew l-ekwivalenti f’każ ta’ reġistrazzjoni part-time, matul il-kors tal-istudji tagħhom.
 
 ## 11. Tibdil fit-titlu jew fil-kontenut.
 

@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, għall-grad ta’ Bachelor of Science (Honours) in Science for Education and Communication – B.Sc. (Hons) – taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.584)
 
-*1*
-
-EDUCATION AND COMMUNICATION – B.SC. (HONS [L.S. 327.584 LEĠISLAZZJONI SUSSIDJARJA 327.584
+**LEĠISLAZZJONI SUSSIDJARJA 327.584**
 
 **L-ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -67,10 +65,6 @@ Science bi speċjalizzazzjoni fil-Fiżika.
 Biex ikunu rreġistrati bħala studenti regolari fil-Kors, l-applikanti għandhom, minbarra li jissodisfaw ir-rekwiżiti ġenerali għad-dħul kif speċifikati fir-Regolamenti għad-Dħul, ikollhom dawn ir-rekwiżiti speċjali għall-Kors li ġejjin:
 
 (a) għas-Science bi speċjalizzazzjoni fil-Bijoloġija: għaddew fil-Livell Avvanzat bi grad Ċ jew aħjar fil-Bioloġija u għaddew fil-Livell Intermedju bi grad Ċ jew aħjar fil- Kimika;
-
-*2*
-
-[L.S. 327.584 EDUCATION AND COMMUNICATION – B.SC. (HONS
 
 (b) għas-Science bi speċjalizzazzjoni fil-Kimika: għaddew fil-Livell Avvanzat bi grad Ċ jew aħjar fil-Kimika u għaddew fil-Livell Intermedju bi grad Ċ jew aħjar fil- Matematika Pura; u
 

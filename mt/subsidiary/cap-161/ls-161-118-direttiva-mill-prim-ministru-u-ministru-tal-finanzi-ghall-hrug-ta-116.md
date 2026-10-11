@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta’ €116,468,669.93 (S.L. 161.118)
 
-MALTA 2012 JEW (II) 5% STOCK TAL-GVERN TA’ MALTA 2021
-
-*1*
-
-JEW (III) F’AMMONTI MIŻ-ŻEWĠ STOCKS IMSEMMIJA [L.S.161.118
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.118**
 
 **DIRETTIVA MILL-PRIM MINISTRU U MINISTRU**
@@ -64,10 +58,6 @@ Kull persuna u, jew enti jistgħu japplikaw għal dawn l-iStocks. It-tqassim tal
 *Emendat: A.L. 427 tal-2007.*
 
 Is-somma ta’ flus li għandha tinġabar miż-żewġ Stocks imsemmija flimkien m’għandhiex teċċedi €116,468,669.93.
-
-*2*
-
-MALTA 2012 JEW (II) 5% STOCK TAL-GVERN TA’ MALTA 2021 [L.S.161.118 JEW (III) F’AMMONTI MIŻ-ŻEWĠ STOCKS IMSEMMIJA
 
 *\6.*
 

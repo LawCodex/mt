@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Probation Services taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.160)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.160
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.160**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -69,13 +63,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (b) grad ta’ Bachelor miksub mill-anqas f’Kategorija II minn din l-Università f’qasam ta’ studju li l-Bord iqis rilevanti; jew
 
-(ċ) grad ta’ Bachelor minn università oħra rikonoxxuta mis-Senat meqjus komparabbli għall-kwalifiki indikati TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.160 GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-**fil-paragrafi (a) u (b) ta’ dan l-ordinament.**
+(ċ) grad ta’ Bachelor minn università oħra rikonoxxuta mis-Senat meqjus komparabbli għall-kwalifiki indikati fil-paragrafi (a) u (b) ta’ dan l-ordinament.
 
 (2) Id-dħul tal-applikanti skont il-paragrafu (1) għandu jkun jiddependi mir-riżultat ta’ intervista mmexxija minn bord tal-intervisti maħtur għal dan il-għan.
 
@@ -107,19 +95,15 @@ Il-programm ta’ studju għandu jikkonsisti f’żewġ partijiet, jiġifieri:
 
 (a) l-Ewwel Parti li tikkonsisti minn għadd ta’ taqsimiet studju mgħallma li għalihom hemm assenjati 60 krettu; u
 
-(b) it-Tieni Parti li tikkonsisti minn xogħol ta’ riċerka u dissertazzjoni li għalihom hemm assenjati 30 kredtu. 6. L-istudenti li jiksbu mill-anqas 30 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw il-Kors b’suċċess, ikunu eliġibbli għall-għoti tal-Postgraduate Certificate TAĦT IL-PATROĊINJU TAL-FAKULTÀ
+(b) it-Tieni Parti li tikkonsisti minn xogħol ta’ riċerka u dissertazzjoni li għalihom hemm assenjati 30 kredtu. 6. L-istudenti li jiksbu mill-anqas 30 krettu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw il-Kors b’suċċess, ikunu eliġibbli għall-għoti tal-Postgraduate Certificate 7. L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma offruti fl-Ewwel Parti tal-kors, b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw id-dissertazzjoni b’suċċess, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
 *Miżjud: A.L. 291 tal-2017.*
-
-*3*
-
-GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.160 7. L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma offruti fl-Ewwel Parti tal-kors, b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw id-dissertazzjoni b’suċċess, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
-
-*Postgraduate Diploma. Enumerat mill-ġdid: A.L. 291 tal-2017.*
 
 ## 8. Programm ta’ studju. Enumerat mill-ġdid: A.L. 291 tal-2017.
 
 Il-programm ta’ studju għandu jkun ippubblikat mill-Bord mhux aktar tard minn tmien xhur qabel il-bidu tal-kors, wara l-approvazzjoni tas-Senat.
+
+*Postgraduate Diploma. Enumerat mill-ġdid: A.L. 291 tal-2017.*
 
 ## 9. Valutazzjoni u progress.
 
@@ -152,12 +136,6 @@ Il-programm ta’ studju għandu jkun ippubblikat mill-Bord mhux aktar tard minn
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
 (ii) il-Bord tal-Istudji ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent biex jiddefendi l-każ tiegħu.
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*4*
-
-[L.S.327.160 GĦAT-TISĦIĦ TAS-SOĊJETÀ
 
 ## 12. Klassifikazzjoni tar- Rikonoxximenti. Enumerat mill-ġdid: A.L. 291 tal-2017.
 

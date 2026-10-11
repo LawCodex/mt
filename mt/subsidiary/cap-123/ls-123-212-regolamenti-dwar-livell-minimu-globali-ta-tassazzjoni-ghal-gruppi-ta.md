@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Livell Minimu Globali ta' Tassazzjoni għal Gruppi ta' Intrapriżi Multinazzjonali u Gruppi Domestiċi fuq Skala Kbira fl-Unjoni Ewropea (S.L. 123.212)
 
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*1*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.212**
 
 REGOLAMENTI DWAR LIVELL MINIMU GLOBALI
@@ -52,10 +46,6 @@ L-AVVIŻ LEGALI 32 tal-2024, kif emendat bl-Avviżi Legali 130 tal-2024 u 48 tal
 
 (2) Dawn ir-regolamenti għandhom japplikaw għall-entitajiet kostitwenti li jinsabu f’Malta li huma membri ta' grupp intrapriżi multinazzjonali jew grupp domestiku fuq skala kbira, kif imfisser fir-regolament 3, li għandu dħul annwali ta' sebgħa mija u ħamsin miljun euro (€750,000,000) jew aktar, inkluż id-dħul tal-entitajiet esklużi msemmija fis-subregolament (4), fir-rapporti finanzjarji konsolidati tal-entità prinċipali aħħarija tagħha f'mill-inqas sentejn (2) mill-erba' (4) snin fiskali minnufih qabel is-sena fiskali ttestjata.
 
-*2*
-
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI [L.S. 123.212 DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
 (3) Meta waħda (1) jew aktar mill-erba' (4) snin fiskali msemmijin fis-subregolament (2) tkun itwal jew iqsar minn tnax-il (12) xahar, il-limitu tad-dħul imsemmi f'dak is-subregolament għandu jiġi aġġustat proporzjonalment għal kull waħda minn dawk is-snin fiskali.
 
 (4) Dawn ir-regolamenti m’għandhomx japplikaw għall-entitajiet esklużi li ġejjin:
@@ -74,13 +64,7 @@ GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI [L.S. 123.212 DOMESTIĊI FUQ SKA
 
 ### 3. Tifsir.
 
-F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*3*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
-ma teħtieġx xort’oħra:
+F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali" tfisser id-Direttiva (UE) 2022/2523 tal-14 ta’ Diċembru 2022 li tistabbilixxi regoli dwar l-iżgurar ta’ livell minimu globali ta’ tassazzjoni għal gruppi ta’ intrapriżi multinazzjonali u gruppi domestiċi ta’ skala kbira fl-Unjoni Ewropea;
 
@@ -102,11 +86,7 @@ ma teħtieġx xort’oħra:
 
 (i) it-twettiq ta' funzjoni tal-gvern; jew
 
-(ii) il-ġestjoni jew l-investiment tal-assi GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
-ta' dak il-gvern jew tal-ġurisdizzjoni permezz tat-twettiq u ż-żamma ta' investimenti, il-ġestjoni tal-assi, u attivitajiet ta' investiment relatati għall-assi ta' dak il-gvern jew tal-ġurisdizzjoni;
-
-*[L.S. 123.212 4*
+(ii) il-ġestjoni jew l-investiment tal-assi ta' dak il-gvern jew tal-ġurisdizzjoni permezz tat-twettiq u ż-żamma ta' investimenti, il-ġestjoni tal-assi, u attivitajiet ta' investiment relatati għall-assi ta' dak il-gvern jew tal-ġurisdizzjoni;
 
 (ċ) hija responsabbli lejn gvern dwar il-prestazzjoni ġenerali tagħha, u tipprovdi rappurtar ta' informazzjoni annwali għal dak il-gvern; u
 
@@ -132,12 +112,6 @@ ta' dak il-gvern jew tal-ġurisdizzjoni permezz tat-twettiq u ż-żamma ta' inve
 
 (a) entità li tkun is-sid, b'mod dirett jew indirett, ta' interess kontrollanti fi kwalunkwe entità oħra u li ma tkunx proprjetà, b'mod dirett jew indirett, ta' entità oħra b'interess kontrollanti fiha; jew
 
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*5*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
 (b) l-entità ewlenija ta' grupp kif deskritta fil-paragrafu (b) tat-tifsira ta’ "grupp";
 
 "entità omm intermedja" tfisser entità kostitwenti li jkollha, direttament jew indirettament, interess proprjetarju f'entità kostitwenti oħra fl-istess grupp MNE jew grupp domestiku fuq skala kbira u li ma tikkwalifikax bħala entità omm apikali, entità omm posseduta parzjalment, stabbiliment permanenti jew entità ta' investiment;
@@ -150,11 +124,7 @@ DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
 
 (b) entità ibrida inversa fir-rigward tal-introjtu, tan-nefqa, tal-profitt jew tat-telf tagħha sal-punt li ma tkunx fiskalment trasparenti fil-ġurisdizzjoni fejn jinsab is-sid tagħha;
 
-Għall-finijiet ta' din it-tifsira, "entità fiskalment trasparenti" tfisser entità li l-introjtu, in-nefqa, il-profitt jew it-telf tagħha jiġi ttrattat mil-liġijiet ta' ġurisdizzjoni daqslikieku kien derivat jew imġarrab direttament mis-sid ta' dik l-entità bi proporzjon għall-interess ta' dik l-entità. Interess proprjetarju f'entità jew stabbiliment permanenti li huwa entità kostitwenti għandu jiġi ttrattat bħala miżmum permezz ta' struttura trasparenti tat-taxxa jekk dak l-interess proprjetarju jinżamm indirettament permezz ta' katina ta' entitajiet trasparenti tat-taxxa. Entità kostitwenti li ma hijiex residenti tat-taxxa u li ma hijiex soġġetta għal taxxa koperta jew għal taxxa GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
-kumplimentari domestika kwalifikata fuq il-bażi tal-post ta' ġestjoni tagħha, tal-post ta' ħolqien tagħha jew ta' kriterji simili għandha tiġi trattata bħala entità passarella u entità trasparenti fit-taxxa fir-rigward tal-introjtu, tan-nefqa, tal-profitt jew tat-telf tagħha sal-punt li:
-
-*[L.S. 123.212 6*
+Għall-finijiet ta' din it-tifsira, "entità fiskalment trasparenti" tfisser entità li l-introjtu, in-nefqa, il-profitt jew it-telf tagħha jiġi ttrattat mil-liġijiet ta' ġurisdizzjoni daqslikieku kien derivat jew imġarrab direttament mis-sid ta' dik l-entità bi proporzjon għall-interess ta' dik l-entità. Interess proprjetarju f'entità jew stabbiliment permanenti li huwa entità kostitwenti għandu jiġi ttrattat bħala miżmum permezz ta' struttura trasparenti tat-taxxa jekk dak l-interess proprjetarju jinżamm indirettament permezz ta' katina ta' entitajiet trasparenti tat-taxxa. Entità kostitwenti li ma hijiex residenti tat-taxxa u li ma hijiex soġġetta għal taxxa koperta jew għal taxxa kumplimentari domestika kwalifikata fuq il-bażi tal-post ta' ġestjoni tagħha, tal-post ta' ħolqien tagħha jew ta' kriterji simili għandha tiġi trattata bħala entità passarella u entità trasparenti fit-taxxa fir-rigward tal-introjtu, tan-nefqa, tal-profitt jew tat-telf tagħha sal-punt li:
 
 (a) is-sidien tagħha jkunu jinsabu f’ġurisdizzjoni li tittratta lill-entità bħala fiskalment trasparenti;
 
@@ -173,12 +143,6 @@ kumplimentari domestika kwalifikata fuq il-bażi tal-post ta' ġestjoni tagħha,
 "entità tas-servizzi tal-pensjonijiet" tfisser entità li hija stabbilita u operata esklużivament jew kważi esklużivament sabiex tinvesti fondi għall-benefiċċju tal-entitajiet imsemmijin fl-paragrafu (a) tat-tifsira ta’ "fond ta' pensjoni" jew sabiex twettaq attivitajiet li huma anċillari għall-attivitajiet regolati msemmijin fl-paragrafu (a) tat-tifsira ta’ "fond ta' pensjoni", dment li l-entità tas-servizzi tal-pensjonijiet tkun tifforma parti mill-istess grupp bħall-entitajiet li jwettqu dawk l-attivitajiet regolati;
 
 "fond ta' investiment" tfisser entità jew arranġament li jissodisfa l-kondizzjonijiet kollha li ġejjin:
-
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*7*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
 
 (a) huwa mfassal sabiex jiġbor assi finanzjarji jew mhux finanzjarji minn numru ta' investituri, li wħud minnhom mhumiex konnessi;
 
@@ -202,10 +166,6 @@ DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
 
 (ii) dawk il-benefiċċji huma garantiti jew protetti b'xi mod ieħor minn regolamenti nazzjonali u ffinanzjati minn grupp ta' assi miżmuma permezz ta' arranġament fiduċjarju jew fiduċjarju biex jiġi żgurat it-twettiq tal-obbligi tal-pensjoni korrispondenti kontra każ ta' insolvenza tal-grupp MNE u grupp domestiku fuq skala kbira;
 
-*[L.S. 123.212 8*
-
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
 (b) entità tas-servizzi tal-pensjonijiet;
 
 "grupp" tfisser:
@@ -224,13 +184,7 @@ GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI DOMESTIĊI FUQ SKALA KBIRA FL-UN
 
 (a) huwa ekwivalenti għar-regoli stabbiliti fid- Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali jew, fir-rigward ta' ġurisdizzjonijiet ta' pajjiżi terzi, l-Isfidi tat-Taxxa li jirriżultaw mid- Diġitalizzazzjoni tal-Ekonomija tar-Regoli Mudell Globali Kontra l-Erożjoni tal-Bażi tat-Taxxa (it-Tieni Pilastru) (Regoli Mudell tal- OECD ), li f'konformità magħhom l-entità omm ta' grupp MNE jew grupp domestiku fuq skala kbira jikkalkula u jħallas is-sehem allokat tiegħu tat-taxxa kumplimentari fir-rigward tal-entitajiet kostitwenti b'taxxa baxxa ta' dak il-grupp;
 
-(b) hija amministrata b'mod li huwa GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*9*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
-konsistenti mar-regoli stabbiliti fid-Direttiva tal-Unjoni Ewropea Dwar it-Taxxa Minima Globali jew, fir-rigward ta' ġurisdizzjonijiet ta' pajjiżi terzi, mar-Regoli Mudell tal-OECD;
+(b) hija amministrata b'mod li huwa konsistenti mar-regoli stabbiliti fid-Direttiva tal-Unjoni Ewropea Dwar it-Taxxa Minima Globali jew, fir-rigward ta' ġurisdizzjonijiet ta' pajjiżi terzi, mar-Regoli Mudell tal-OECD;
 
 "interess kontrollanti" tfisser interess proprjetarju f'entità li bih id-detentur tal-interess:
 
@@ -250,11 +204,7 @@ Iżda entità ewlenija titqies li jkollha fil-pussess tagħha l-interessi kontro
 
 (b) jekk il-kreditu ta' taxxa jkun parzjalment rimborżabbli, il-porzjon tal-kreditu ta' taxxa rimborżabbli li jkun pagabbli bħala ħlas fi flus jew ekwivalenti ta' flus lil entità kostitwenti fi żmien erba' (4) snin mid-data meta l-entità kostitwenti tkun intitolata tirċievi l-kreditu ta' taxxa rimborżabbli parzjali:
 
-Iżda kreditu ta' taxxa rimborżabbli kwalifikat ma jinkludix kull ammont ta’ taxxa kreditabbli jew rimborżabbli GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
-skont taxxa tal-imputazzjoni kwalifikata jew taxxa tal-imputazzjoni rimborżabbli skwalifikata;
-
-*[L.S. 123.212 10*
+Iżda kreditu ta' taxxa rimborżabbli kwalifikat ma jinkludix kull ammont ta’ taxxa kreditabbli jew rimborżabbli skont taxxa tal-imputazzjoni kwalifikata jew taxxa tal-imputazzjoni rimborżabbli skwalifikata;
 
 "kreditu ta' taxxa rimborżabbli mhux kwalifikat" tfisser kreditu ta' taxxa li mhuwiex kreditu ta' taxxa rimborżabbli kwalifikat iżda li jista' jiġi rimborżat kompletament jew parzjalment;
 
@@ -278,12 +228,6 @@ skont taxxa tal-imputazzjoni kwalifikata jew taxxa tal-imputazzjoni rimborżabbl
 
 (b) sostanzjalment id-dħul kollu mill-attivitajiet imsemmija fil-paragrafu (a) huwa eżentat mit-taxxa fuq id-dħul fil-ġurisdizzjoni tar-residenza tagħha;
 
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*11*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
 (ċ) ma għandha l-ebda azzjonist jew membru li għandhom dritt jew interess benefiċjali fl-introjtu jew tal-assi tagħha;
 
 (d) l-introjtu jew l-assi tal-entità ma jistgħux jitqassmu lil, jew jiġu applikati għall-benefiċċju ta' persuna privata jew entità mhux tal-karità għajr:
@@ -306,10 +250,6 @@ DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
 
 (ċ) ir-rapporti finanzjarji tal-entità omm apikali deskritta f’paragrafi (a) u (b) li ma jkunux imħejjija f'konformità ma' standard tal-kontabilità finanzjarja aċċettabbli u li jkunu ġew sussegwentement aġġustati sabiex jipprevjenu kwalunkwe distorsjoni kompetittiva materjali; u
 
-*[L.S. 123.212 12*
-
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
 (d) meta l-entità omm apikali ma tħejjix ir-rapporti finanzjarji kif deskritti f’paragrafi (a), (b) u (ċ), ir-rapporti finanzjarji li kienu jitħejjew li kieku l-entità omm apikali kienet meħtieġa tħejji tali rapporti finanzjarji f'konformità ma’:
 
 (i) standard tal-kontabilità finanzjarja aċċettabbli; jew
@@ -330,12 +270,6 @@ GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI DOMESTIĊI FUQ SKALA KBIRA FL-UN
 
 (a) timponi taxxa fuq l-introjtu fuq il-profitti biss meta dawk il-profitti jiġu ddistribwiti jew preżunti li jkunu distribwiti lill-azzjonisti, jew meta l-kumpanija ġġarrab ċerti spejjeż mhux tan-negozju;
 
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*13*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
 (b) timponi taxxa b'rata ugwali għar-rata tat-taxxa minima jew ogħla minnha; u
 
 (ċ) kienet fis-seħħ fl-1 ta' Lulju 2021 jew qabel;
@@ -350,11 +284,7 @@ DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
 
 (d) post tan-negozju jew post preżunt tan-negozju li mhuwiex deskritt fil-paragrafi (a) sa (ċ) li permezz tiegħu l-operazzjonijiet jitwettqu barra mill-ġurisdizzjoni fejn tinsab l-entità, dment li tali ġurisdizzjoni teżenta l-introjtu attribwibbli għal tali operazzjonijiet;
 
-"standard aċċettabbli tal-kontabilità finanzjarja" tfisser Standards Internazzjonali ta' Rappurtar Finanzjarju (IFRS jew IFRS kif adottati mill-Unjoni Ewropea skont ir-Regolament (KE) Nru 1606/2002 tal-Parlament Ewropew u tal-Kunsill (8)) u l-prinċipji kontabilistiċi ġeneralment aċċettati tal-Awstralja, tal-Brażil, tal-Kanada, tal-Istati Membri tal-Unjoni Ewropea Ewropea, tal-Istati Membri taż-Żona Ekonomika Ewropea, ta' Hong Kong (iċ-Ċina), tal-Ġappun, tal-Messiku, ta' New Zealand, tar-Repubblika tal-Poplu taċ-Ċina, tar-Repubblika tal- GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
-Indja, tar-Repubblika tal-Korea, tar-Russja, ta' Singapore, tal- Iżvizzera, tar-Renju Unit u tal-Istati Uniti tal-Amerka;
-
-*[L.S. 123.212 14*
+"standard aċċettabbli tal-kontabilità finanzjarja" tfisser Standards Internazzjonali ta' Rappurtar Finanzjarju (IFRS jew IFRS kif adottati mill-Unjoni Ewropea skont ir-Regolament (KE) Nru 1606/2002 tal-Parlament Ewropew u tal-Kunsill (8)) u l-prinċipji kontabilistiċi ġeneralment aċċettati tal-Awstralja, tal-Brażil, tal-Kanada, tal-Istati Membri tal-Unjoni Ewropea Ewropea, tal-Istati Membri taż-Żona Ekonomika Ewropea, ta' Hong Kong (iċ-Ċina), tal-Ġappun, tal-Messiku, ta' New Zealand, tar-Repubblika tal-Poplu taċ-Ċina, tar-Repubblika tal- Indja, tar-Repubblika tal-Korea, tar-Russja, ta' Singapore, tal- Iżvizzera, tar-Renju Unit u tal-Istati Uniti tal-Amerka;
 
 "standard tal-kontabilità finanzjarja awtorizzat" tfisser, fir-rigward ta’ entità, sett ta’ prinċipji kontabilistiċi ġeneralment aċċettabbli permessi minn korp tal-kontabilità awtorizzat fil-ġurisdizzjoni fejn tinsab dik l-entità; għall-finijiet ta’ din it-tifsira, "korp tal-kontabilità awtorizzat" tfisser il-korp b’awtorità legali f’ġurisdizzjoni li jippreskrivi, jistabbilixxi jew jaċċetta standards kontabilistiċi għal finijiet ta’ rapportar finanzjarju;
 
@@ -368,13 +298,7 @@ Indja, tar-Repubblika tal-Korea, tar-Russja, ta' Singapore, tal- Iżvizzera, tar
 
 "taxxa tal-imputazzjoni rimborżabbli skwalifikata" tfisser kwalunkwe taxxa, minbarra taxxa tal-imputazzjoni kwalifikata, dovuta lil jew imħallsa minn entità kostitwenti li tkun:
 
-(a) rimborżabbli lis-sid benefiċjarju ta' dividend distribwit minn tali entità kostitwenti fir-rigward ta' dak id-dividend jew kreditabbli mis-sid benefiċjarju kontra obbligazzjoni ta' taxxa għajr GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*15*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
-obbligazzjoni ta' taxxa fir-rigward ta' tali dividend; jew
+(a) rimborżabbli lis-sid benefiċjarju ta' dividend distribwit minn tali entità kostitwenti fir-rigward ta' dak id-dividend jew kreditabbli mis-sid benefiċjarju kontra obbligazzjoni ta' taxxa għajr obbligazzjoni ta' taxxa fir-rigward ta' tali dividend; jew
 
 (b) rimborżabbli lill-kumpanija distribwenti mad-distribuzzjoni ta' dividend lil azzjonist.
 
@@ -393,10 +317,6 @@ Iżda għall-finijiet tal-paragrafu (d):
 (i) organizzazzjoni mingħajr skop ta' qligħ jew fond tal-pensjoni jkun residenti f’ġurisdizzjoni jekk jinħoloq u jiġi ġestit f'dik il-ġurisdizzjoni;
 
 (ii) entità ta' investiment tkun residenti f’ġurisdizzjoni jekk tkun maħluqa u rregolata f'dik il-ġurisdizzjoni;
-
-*16*
-
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI [L.S. 123.212 DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
 
 (iii) kumpanija tal-assigurazzjoni tal-ħajja hija residenti fil-ġurisdizzjoni fejn tkun tinsab;
 
@@ -418,12 +338,6 @@ Iżda meta ma jkunx possibbli li jiġi determinat il-post ta' entità minbarra e
 
 (2) Entità passarella għandha titqies li hija mingħajr stat, sakemm ma tkunx l-entità omm apikali ta' grupp MNE jew ta' grupp domestiku fuq skala kbira jew ma tkunx meħtieġa tapplika IIR f'konformità mal-Artikoli 5, 6, 7 u 8 tad-Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali, f'liema każ l-entità passarella għandha titqies li tinsab fil-ġurisdizzjoni fejn tkun inħolqot.
 
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*17*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
 (3) (a) Stabbiliment permanenti kif imfisser f’paragrafu (a) tal-istess terminu taħt regolament 3, għandu jiġi determinat bħala li jinsab fil-ġurisdizzjoni fejn jiġi ttrattat bħala stabbiliment permanenti u huwa soġġett għat-taxxa skont it-trattat dwar it-taxxa applikabbli.
 
 (b) Stabbiliment permanenti kif imfisser f’paragrafu (b) tal-istess terminu taħt regolament 3, għandu jiġi determinat bħala li jinsab fil-ġurisdizzjoni fejn ikun soġġett għal tassazzjoni fuq il-bażi netta tal-preżenza kummerċjali tiegħu.
@@ -442,11 +356,7 @@ DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
 
 (b) Għall-finijiet tal-komputazzjoni tal-ammont ta' taxxi koperti msemmija f’paragrafu (a), l-ammont ta' taxxa mħallsa f'konformità ma' reġim tat-taxxa għall-kumpaniji barranin kontrollati ma għandux jitqies.
 
-(ċ) Jekk l-ammont ta' taxxi koperti dovuti fiż-żewġ (2) ġurisdizzjonijiet ikun l-istess jew żero (0), l-entità kostitwenti għandha titqies li tkun tinsab fil-ġurisdizzjoni fejn GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI [L.S. 123.212 DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
-ikollha l-ogħla ammont ta' esklużjoni tal-introjtu bbażat fuq is-sustanza kkalkulat fuq bażi ta' entità f'konformità mal-Artikolu 28 tad-Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali.
-
-*18*
+(ċ) Jekk l-ammont ta' taxxi koperti dovuti fiż-żewġ (2) ġurisdizzjonijiet ikun l-istess jew żero (0), l-entità kostitwenti għandha titqies li tkun tinsab fil-ġurisdizzjoni fejn ikollha l-ogħla ammont ta' esklużjoni tal-introjtu bbażat fuq is-sustanza kkalkulat fuq bażi ta' entità f'konformità mal-Artikolu 28 tad-Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali.
 
 (d) Jekk l-ammont tal-esklużjoni tal-introjtu bbażata fuq is-sustanza fiż-żewġ (2) ġurisdizzjonijiet ikun l-istess jew żero (0), l-entità kostitwenti għandha titqies bħala mingħajr stat, sakemm ma tkunx entità omm apikali, f'liema każ għandha titqies li tinsab fil-ġurisdizzjoni fejn tkun inħolqot.
 
@@ -470,12 +380,6 @@ Iżda t-tali dikjarazzjoni tista' tiġi ppreżentata minn entità lokali desinja
 
 Iżda wkoll dik id-dikjarazzjoni għandha tkun fuq dik il-formula u b'dak il-mod li l-Kummissarju jista' jeħtieġ.
 
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*19*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
 (3) Minkejja d-disposizzjonijiet tas-subregolament (2), entità kostitwenti ma għandhiex ikollha l-obbligu li tissottometti dikjarazzjoni ta' informazzjoni dwar it-taxxa kumplimentari lill- Kummissarju jekk tali dikjarazzjoni tkun ġiet ippreżentata, f'konformità mar-rekwiżiti stipulati fis-subregolament (5), minn din:
 
 (a) l-entità omm apikali li tinsab f’ġurisdizzjoni li jkollha fis-seħħ, għas-sena fiskali ta' rappurtar, ftehim kwalifikanti tal-awtoritajiet kompetenti ma’ Malta; jew
@@ -498,11 +402,7 @@ Iżda dik in-notifika għandha ssir lill-Kummissarju fuq dik il-formula u b'dak 
 
 (ii) it-taxxa kumplimentari ta' membru ta' grupp ta' impriża konġunta;
 
-(iii) l-allokazzjoni ta' taxxa kumplimentari skont GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI [L.S. 123.212 DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
-l-IIR u l-ammont tat-taxxa kumplimentari tal-UTPR għal kull ġurisdizzjoni; u
-
-*20*
+(iii) l-allokazzjoni ta' taxxa kumplimentari skont l-IIR u l-ammont tat-taxxa kumplimentari tal-UTPR għal kull ġurisdizzjoni; u
 
 (d) rekord tal-għażliet magħmulin f'konformità mad- Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali.
 
@@ -522,13 +422,7 @@ l-IIR u l-ammont tat-taxxa kumplimentari tal-UTPR għal kull ġurisdizzjoni; u
 
 (ii) l-informazzjoni kollha li tkun neċessarja sabiex tiġi kkalkulata r-rata tat-taxxa effettiva tal-ġurisdizzjoni tal-entità omm apikali u t-taxxa kumplimentari dovuta tagħha;
 
-(iii) l-informazzjoni kollha neċessarja għall- GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*21*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
-allokazzjoni ta' taxxa kumplimentari bħal din ibbażata fuq il-formula ta' allokazzjoni tal-UTPR stipulata fl- Artikolu 14 tad-Direttiva tal-Unjoni Ewropea dwar it- Taxxa Minima Globali.
+(iii) l-informazzjoni kollha neċessarja għall-allokazzjoni ta' taxxa kumplimentari bħal din ibbażata fuq il-formula ta' allokazzjoni tal-UTPR stipulata fl- Artikolu 14 tad-Direttiva tal-Unjoni Ewropea dwar it- Taxxa Minima Globali.
 
 (ċ) l-informazzjoni kollha li tkun neċessarja għall-applikazzjoni ta’ taxxa kumplimentari domestika kwalifikata minn kwalunkwe Stat Membru li jkun għażel li japplika tali taxxa kumplimentari, f’konformità mal-Artikolu 11 tad- Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali.
 
@@ -550,11 +444,7 @@ Iżda dik l-elezzjoni għandha ssir lill-Kummissarju fuq dik il-formula u b'dak 
 
 ### 7. Penalitajiet amministrattivi.
 
-(1) Fejn entità kostitwenti li tinsab f'Malta jew l-entità lokali nominata f'isimha tonqos milli tippreżenta d-dikjarazzjoni ta' informazzjoni dwar it-taxxa kumplimentari mal-Kummissarju skont ir-regolament 5(2) fiż-żmien stipulat fir-regolament 5(7)(a) hija GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI [L.S. 123.212 DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
-
-għandha tkun soġġetta għal penalitajiet amministrattivi ta':
-
-*22*
+(1) Fejn entità kostitwenti li tinsab f'Malta jew l-entità lokali nominata f'isimha tonqos milli tippreżenta d-dikjarazzjoni ta' informazzjoni dwar it-taxxa kumplimentari mal-Kummissarju skont ir-regolament 5(2) fiż-żmien stipulat fir-regolament 5(7)(a) hija għandha tkun soġġetta għal penalitajiet amministrattivi ta':
 
 (a) mitejn euro (€200); u
 
@@ -586,12 +476,6 @@ Iżda din il-penali amministrattiva ma għandhiex taqbeż b’kollox ħamest ele
 
 Iżda din il-penali amministrattiva ma għandhiex taqbeż b'kollox ħamest elef euro (€5,000).
 
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*23*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
 ## It-Tielet Taqsima — Regoli ta’ Transizzjoni
 
 ### 8. Trattament tat-taxxa ta' assi ta' taxxa differita, obbligazzjonijiet ta' taxxa differita u assi trasferiti mat-transizzjoni.
@@ -615,10 +499,6 @@ DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
 Sena %
 
 2023 10
-
-*24*
-
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI [L.S. 123.212 DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
 
 2024 9.8
 
@@ -670,13 +550,7 @@ Sena %
 
 (b) fl-ewwel ħames (5) snin, li jibdew mill-ewwel jum tas-sena fiskali li fiha l-grupp domestiku fuq skala kbira jaqa' fil-kamp ta' applikazzjoni ta’ dawn ir-regolamenti għall-ewwel darba.
 
-(2) Meta l-entità omm apikali ta' grupp MNE tkun tinsab f’ġurisdizzjoni ta' pajjiż terz, it-taxxa kumplimentari dovuta minn entità kostitwenti li tinsab fi Stat Membru f'konformità mal-Artikolu 14(2) tad-Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali għandha titnaqqas għal żero (0) fl-ewwel ħames (5) snin tal-fażi GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*25*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
-
-inizjali tal-attività internazzjonali ta' dak il-grupp MNE, minkejja r-rekwiżiti stabbiliti fil-Kapitolu V tad-Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali.
+(2) Meta l-entità omm apikali ta' grupp MNE tkun tinsab f’ġurisdizzjoni ta' pajjiż terz, it-taxxa kumplimentari dovuta minn entità kostitwenti li tinsab fi Stat Membru f'konformità mal-Artikolu 14(2) tad-Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali għandha titnaqqas għal żero (0) fl-ewwel ħames (5) snin tal-fażi inizjali tal-attività internazzjonali ta' dak il-grupp MNE, minkejja r-rekwiżiti stabbiliti fil-Kapitolu V tad-Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali.
 
 (3) (a) Grupp MNE għandu jitqies li jkun fil-fażi inizjali tal-attività internazzjonali tiegħu jekk, għal sena fiskali:
 
@@ -693,10 +567,6 @@ inizjali tal-attività internazzjonali ta' dak il-grupp MNE, minkejja r-rekwiżi
 (ċ) Għall-gruppi MNE li jkunu jaqgħu fil-kamp ta' applikazzjoni tad-Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali meta tidħol fis-seħħ, il-perijodu ta' ħames (5) snin imsemmi fil-paragrafu 2 għandu jibda fil-31 ta' Diċembru 2024.
 
 (d) Għall-gruppi domestiċi fuq skala kbira li jkunu jaqgħu fil-kamp ta' applikazzjoni ta’ dawn ir-regolamenti meta jidħlu fis-seħħ skont ir-regolament 1(2), il-perijodu ta' ħames (5) snin imsemmi fis-subregolament (1)(b), għandu jibda fil-31 ta' Diċembru 2023.
-
-*26*
-
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI [L.S. 123.212 DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA
 
 (5) L-entità dikjaranti desinjata msemmija fir-regolament 5 li tinsab f’Malta għandha tinforma lill-Kummissarju dwar il-bidu tal-fażi inizjali tal-attività internazzjonali tal-grupp MNE mhux aktar tard minn tnax-il (12) xahar wara l-aħħar jum tas-sena fiskali ta' rappurtar:
 
@@ -723,12 +593,6 @@ Minkejja d-dispożizzjonijiet tar-regolament 5(7), id-dikjarazzjoni ta' informaz
 Il-qafas legali implimentat fil-liġi domestika ta' ġurisdizzjoni ta' pajjiż terz għandu jitqies bħala li huwa ekwivalenti għal IIR kwalifikata deskritta fil-Kapitolu II tad-Direttiva tal-Unjoni Ewropea dwar it-Taxxa Minima Globali, u ma għandux jiġi ttrattat bħala reġim tat-taxxa għal kumpaniji barranin kkontrollati, jekk jissodisfa l-kondizzjonijiet li ġejjin:
 
 (a) jinforza sett ta' regoli li f'konformità magħhom l-entità omm ta' grupp MNE għandha tikkomputa u tħallas is-sehem allokabbli tagħha tat-taxxa kumplimentari fir-rigward tal-entitajiet kostitwenti b'taxxa baxxa tal-grupp MNE;
-
-GRUPPI TA' INTRAPRIŻI MULTINAZZJONALI U GRUPPI
-
-*27*
-
-DOMESTIĊI FUQ SKALA KBIRA FL-UNJONI EWROPEA [L.S. 123.212
 
 (b) jistabbilixxi rata tat-taxxa effettiva minima ta' mill-inqas ħmistax fil-mija (15%) li taħtha entità kostitwenti titqies li jkollha rata baxxa ta' tassazzjoni;
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Engineering (Honours) - B.Eng. (Hons) - taħt il-patroċinju tal-Fakultà tal-Inġinerija (S.L. 327.267)
 
-(HONOURS) - B.ENG. (HONS) - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.267
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.267**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF ENGINEERING (HONOURS) - B.ENG. (HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
@@ -68,11 +62,7 @@ jew (b) minn Ottubru 2020 ‘il quddiem, ikollhom is- Certificate in Engineering
 
 (3) Il-bord tal-intervisti, li għandu jkun maħtur mill-Bord għal dan il-għan, għandu jkun magħmul għall-anqas minn tliet membri.
 
-(4) Jekk l-applikanti huma gradwati ta’ xi università jew (HONOURS) - B.ENG. (HONS) - TAĦT
-
-*2*
-
-[L.S.327.267 IL-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA għandhom kwalifiki oħra meqjusa suffiċjenti, huma jistgħu jkunu eżentati mill-Bord tad-Dħul tal-Università, fuq il-parir tal-Kumitat tad-Dħul tal-Fakultà, minn dawn ir-rekwiżiti speċjali tal-kors jew minn parti minnhom.
+(4) Jekk l-applikanti huma gradwati ta’ xi università jew għandhom kwalifiki oħra meqjusa suffiċjenti, huma jistgħu jkunu eżentati mill-Bord tad-Dħul tal-Università, fuq il-parir tal-Kumitat tad-Dħul tal-Fakultà, minn dawn ir-rekwiżiti speċjali tal-kors jew minn parti minnhom.
 
 ## 5. Tul tal-kors.
 

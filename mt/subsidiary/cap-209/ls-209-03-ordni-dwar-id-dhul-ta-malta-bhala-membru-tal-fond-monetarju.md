@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar id-Dħul ta’ Malta bħala Membru tal-Fond Monetarju Internazzjonali (Ftehim dwar Self 2020)"
-identifier: "S.L. 209.3"
+identifier: "S.L. 209.03"
 eli: "https://legislation.mt/eli/sl/209.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/209.3/20210211/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar id-Dħul ta’ Malta bħala Membru tal-Fond Monetarju Internazzjonali (Ftehim dwar Self 2020) (S.L. 209.3)
-
-MONETARJU INTERNAZZJONALI
-
-*1*
-
-(FTEHIM DWAR SELF 2020) [L.S.209.03
+# Ordni dwar id-Dħul ta’ Malta bħala Membru tal-Fond Monetarju Internazzjonali (Ftehim dwar Self 2020) (S.L. 209.03)
 
 LEĠISLAZZJONI SUSSIDJARJA 209.03
 
@@ -51,8 +45,4 @@ B’dan qiegħed jiġi dikjarat:
 
 (e) illi huwa espedjenti illi dawk l-arranġamenti taħt il-Ftehim dwar Self 2020 għandhom isiru effettivi mad-dħul fis-seħħ tal-Ftehim dwar Self 2020 u skont id-dispożizzjonijiet relevanti tal-istess Ftehim dwar Self 2020;
 
-(f) illi l-Ftehim dwar Self 2020 ser jidħol fis-seħħ MONETARJU INTERNAZZJONALI [L.S. 209.03 (FTEHIM DWAR SELF 2020)
-
-minnufih mal-iffirmar tiegħu.
-
-*2*
+(f) illi l-Ftehim dwar Self 2020 ser jidħol fis-seħħ minnufih mal-iffirmar tiegħu.

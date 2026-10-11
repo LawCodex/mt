@@ -1,6 +1,6 @@
 ---
 title: "Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi - International Organisation for Migration - IOM Malta)"
-identifier: "S.L. 191.3"
+identifier: "S.L. 191.03"
 eli: "https://legislation.mt/eli/sl/191.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/191.3/20120105/mlt"
 retrieved: 2026-10-12
 ---
 
-# Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi - International Organisation for Migration - IOM Malta) (S.L. 191.3)
-
-APPLIKAZZJONI TAT-TAQSIMA III TAL-ATT DWAR L-IMMUNITA-
-
-JIET U L-PRIVILEĠĠI DIPLOMATIĊI - (INTERNATIONAL
-
-*1*
-
-ORGANISATION FOR MIGRATION - IOM MALTA) [L.S.191.03
+# Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi - International Organisation for Migration - IOM Malta) (S.L. 191.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 191.03**
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Valutazzjoni tal-Art Agrikola"
-identifier: "S.L. 199.2"
+identifier: "S.L. 199.02"
 eli: "https://legislation.mt/eli/sl/199.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/199.2/20230515/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Valutazzjoni tal-Art Agrikola (S.L. 199.2)
+# Regolamenti dwar il-Valutazzjoni tal-Art Agrikola (S.L. 199.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 199.02**
 

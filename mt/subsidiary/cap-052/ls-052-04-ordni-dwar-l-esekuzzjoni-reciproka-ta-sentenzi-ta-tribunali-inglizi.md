@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Western Australia"
-identifier: "S.L. 52.4"
+identifier: "S.L. 52.04"
 eli: "https://legislation.mt/eli/sl/52.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/52.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Western Australia (S.L. 52.4)
-
-TRIBUNALI INGLI|I - WESTERN AUSTRALIA [ L.S.52.04
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Western Australia (S.L. 52.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 52.04**
 

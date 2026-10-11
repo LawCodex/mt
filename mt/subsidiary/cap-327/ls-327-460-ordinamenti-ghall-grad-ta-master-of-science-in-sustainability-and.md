@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Sustainability and Resilience for the Built Environment - M.Sc. - taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.460)
 
-RESILIENCE FOR THE BUILT ENVIRONMENT - M.Sc. - TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.460
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.460**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -72,10 +66,6 @@ Il-kors ikun miftuħ għall-applikanti li għandhom:
 
 (b) grad ta’ Bachelor mill-Università ta’ Malta mill-inqas fit-Tielet Klassi bl-Unuri fid-dixxiplini msemmija fil-paragrafu (a) ta’ dan l-ordinament, jekk ikollhom ukoll kwalifiki oħrajn jew għall-anqas 10 snin esperjenza f’xogħol rilevanti, miksuba wara l-grad tal-ewwel ċiklu. Id-dħul tal-applikanti taħt dan l-ordinament għandu jkun suġġett għar-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq; jew
 
-*2*
-
-RESILIENCE FOR THE BUILT ENVIRONMENT - M.Sc. - TAĦT [L.S.327.460 IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI
-
 (ċ) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala komparabbli għall-kwalifiki msemmija fil-paragrafu (a) ta’ dan l-ordinament. Id-dħul tal-applikanti taħt dan l-ordinament jista’ jkun kondizzjonalment skont ir-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq.
 
 ## 4. Tul tal-kors.
@@ -105,12 +95,6 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir fit-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
 (3) It-titolu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-aħħar tat-tieni semestru.
-
-RESILIENCE FOR THE BUILT ENVIRONMENT - M.Sc. - TAĦT
-
-*3*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.460
 
 ## 8. Superviżur. Enumerat: A.L. 295 tal-2022.
 

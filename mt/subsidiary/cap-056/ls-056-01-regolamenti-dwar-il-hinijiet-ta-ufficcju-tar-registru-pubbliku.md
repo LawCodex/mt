@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ħinijiet ta' Uffiċċju tar-Reġistru Pubbliku"
-identifier: "S.L. 56.1"
+identifier: "S.L. 56.01"
 eli: "https://legislation.mt/eli/sl/56.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/56.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ħinijiet ta' Uffiċċju tar-Reġistru Pubbliku (S.L. 56.1)
+# Regolamenti dwar il-Ħinijiet ta' Uffiċċju tar-Reġistru Pubbliku (S.L. 56.01)
 
 LE{ISLAZZJONI SUSSIDJARJA 56.01
 

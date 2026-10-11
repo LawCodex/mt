@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ħelsien minn Taxxa Doppja (Taxxi fuq Income) (Ir-Renju Ħaxemita tal-Ġordan) (S.L. 123.122)
 
-*1*
-
-(IR-RENJU ĦAXEMITA TAL-ĀORDAN) [L.S.123.122
-
 **LEĀISLAZZJONI SUSSIDJARJA 123.122**
 
 **ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA**
@@ -46,8 +42,6 @@ B’dan qiegћed jiāi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranāamenti gћandu jkollhom effett;
 
 (ë) illi l-Ftehim beda jseћћ fit-13 ta’ Ottubru, 2010.
-
-2 [L.S.123.122 (IR-RENJU ĦAXEMITA TAL-ĀORDAN)
 
 **FTEHIM**
 
@@ -105,9 +99,7 @@ Minkejja d-disposizzjonijiet l-oћra ta’ dan l-Artikolu, il-Ftehim m’gћandu
 
 \1. Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teћtieā xort’oћra:
 
-a. il-fraŜi "Āordan" tfisser it-territorji tar-Renju Ħaxemita tal-Āordan, il- (IR-RENJU ĦAXEMITA TAL-ĀORDAN) [L.S.123.122 3
-
-baћar territorjali tal-Āordan, u qiegћ il-baћar u s-sottoswol tal-ibћra territorjali, u tinkludi kull area li testendi lil hinn mil-limiti tal-ibћra territorjali tal-Āordan, u qiegћ il-baћar u s-sottoswol ta’ dik l-area, li āiet jew tista’ hawn iŜjed ’il quddiem tiāi msemmija, taћt il-liāijiet tal- Āordan, u skond id-dritt internazzjonali bћala area li fuqha l-Āordan gћandu drittijiet nazzjonali gћall-finijiet tal-esplorazzjoni u l-esplojtazzjoni tar-riŜorsi naturali, kemm li jgћixu kemm li ma jgћixux; b. il-fraŜi "Malta" tfisser ir-Repubblika ta’ Malta u, meta uŜata f’sens āeografiku, tfisser il-GŜira ta’ Malta, il-GŜira ta’ Gћawdex u l-gŜejjer l-oћra tal-arëipelagu Malti inkluŜi l-ibћra territorjali tagћhom, kif ukoll kull area ’il barra mill-ibћra territorjali ta’ Malta li āiet jew tista’ hawn iŜjed ’il quddiem tiāi msemmija, skond id-dritt internazzjonali u taћt il-liāi ta’ Malta dwar il-blata kontinentali, bћala area li fiha d-drittijiet ta’ Malta dwar qiegћ il-baћar u s-sottoswol u r-riŜorsi naturali tagћhom jistgћu jiāu eŜerëitati;
+a. il-fraŜi "Āordan" tfisser it-territorji tar-Renju Ħaxemita tal-Āordan, il-baћar territorjali tal-Āordan, u qiegћ il-baћar u s-sottoswol tal-ibћra territorjali, u tinkludi kull area li testendi lil hinn mil-limiti tal-ibћra territorjali tal-Āordan, u qiegћ il-baћar u s-sottoswol ta’ dik l-area, li āiet jew tista’ hawn iŜjed ’il quddiem tiāi msemmija, taћt il-liāijiet tal- Āordan, u skond id-dritt internazzjonali bћala area li fuqha l-Āordan gћandu drittijiet nazzjonali gћall-finijiet tal-esplorazzjoni u l-esplojtazzjoni tar-riŜorsi naturali, kemm li jgћixu kemm li ma jgћixux; b. il-fraŜi "Malta" tfisser ir-Repubblika ta’ Malta u, meta uŜata f’sens āeografiku, tfisser il-GŜira ta’ Malta, il-GŜira ta’ Gћawdex u l-gŜejjer l-oћra tal-arëipelagu Malti inkluŜi l-ibћra territorjali tagћhom, kif ukoll kull area ’il barra mill-ibћra territorjali ta’ Malta li āiet jew tista’ hawn iŜjed ’il quddiem tiāi msemmija, skond id-dritt internazzjonali u taћt il-liāi ta’ Malta dwar il-blata kontinentali, bћala area li fiha d-drittijiet ta’ Malta dwar qiegћ il-baћar u s-sottoswol u r-riŜorsi naturali tagћhom jistgћu jiāu eŜerëitati;
 
 ë. il-fraŜijiet "Stat Kontraenti" u "l-Istat Kontraenti l-ieћor" ifissru l- Āordan jew Malta, skond ir-rabta tal-kliem;
 
@@ -134,8 +126,6 @@ i. il-fraŜi "ëittadin" tfisser:
 **RESIDENTI**
 
 \1. Gћall-finijiet ta’ dan il-Ftehim, il-fraŜi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liāijiet ta’ dak l-Istat, hija soāāetta gћat-taxxa hemmhekk minћabba fid-domiëilju, residenza, post tal-maniāā jew xi kriterju ieћor ta’ xorta simili tagћha. IŜda din il-fraŜi ma tinkludix lil xi persuna li tkun soāāetta gћat-taxxa f’dak l-Istat gћar-rigward biss ta’ income minn gћejjun f’dak l-Istat.
-
-4 [L.S.123.122 (IR-RENJU ĦAXEMITA TAL-ĀORDAN)
 
 \2. Meta minћabba fid-disposizzjonijiet tal-paragrafu 1 individwu jkun residenti taŜ-Ŝewā Stati Kontraenti, allura l-istatus tiegћu gћandu jiāi stabbilit kif āej:
 
@@ -181,8 +171,6 @@ b. l-gћoti ta’ servizzi, inkluŜi servizzi ta’ konsulenza, minn impriŜa pe
 
 Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fraŜi "stabbiliment permanenti" gћandha titqies li ma tinkludix:
 
-(IR-RENJU ĦAXEMITA TAL-ĀORDAN) [L.S.123.122 5
-
 a. l-uŜu ta’ faëilitajiet unikament gћall-iskop ta’ ћŜin, wiri jew kunsinna ta’ oāāetti jew merkanzija li jkunu proprjetà tal-impriŜa;
 
 b. iŜ-Ŝamma ta’ ћaŜna ta’ oāāetti jew merkanzija li jappartjenu lill-impriŜa gћall-iskop uniku ta’ ћŜin, wiri jew kunsinna;
@@ -213,9 +201,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inkluŜ income mill-agrikoltura) li jkunu jinsabu fl-Istat Kontraenti l-ieћor jista’ jiāi intaxxat f’dak l-Istat l-ieћor.
 
-\2. Il-fraŜi "proprjetà immobbli" ikollha t-tifsira li gћandha taћt il-liāi tal-Istat Kontraenti li fih tkun tinsab il-proprjetà involuta. Il-fraŜi gћandha f’kull kaŜ tinkludi proprjetà aëëessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuŜa fl-agrikoltura, drittijiet li gћalihom japplikaw id-disposizzjonijiet tal-liāi āenerali 6 [L.S.123.122 (IR-RENJU ĦAXEMITA TAL-ĀORDAN)
-
-dwar il-proprjetà tal-art, l-uŜufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, jew li jiāu esplorati, depoŜiti minerali, gћejjun u riŜorsi naturali oћra; il-bastimenti, biëëiet tal-baħar jew ināenji tal-ajru m’gћandhomx jitqiesu bћala proprjetà immobbli.
+\2. Il-fraŜi "proprjetà immobbli" ikollha t-tifsira li gћandha taћt il-liāi tal-Istat Kontraenti li fih tkun tinsab il-proprjetà involuta. Il-fraŜi gћandha f’kull kaŜ tinkludi proprjetà aëëessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuŜa fl-agrikoltura, drittijiet li gћalihom japplikaw id-disposizzjonijiet tal-liāi āenerali dwar il-proprjetà tal-art, l-uŜufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, jew li jiāu esplorati, depoŜiti minerali, gћejjun u riŜorsi naturali oћra; il-bastimenti, biëëiet tal-baħar jew ināenji tal-ajru m’gћandhomx jitqiesu bћala proprjetà immobbli.
 
 \3. Id-disposizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw gћal income li jinkiseb mill-uŜu dirett, kiri, jew uŜu ta’ kull xort’oħra ta’ proprjetà immobbli.
 
@@ -243,9 +229,7 @@ Meta l-profitti jkunu jinkludu oāāetti ta’ income li jkunu qiegћdin jiāu t
 
 ### 8.
 
-Id-disposizzjonijiet ta’ dan l-Artikolu ma jaffettwawx id-disposizzjonijiet tal-liāi ta’ Stat Kontraenti dwar it-taxxa fuq il-profitti mill-kummerë ta’ l- (IR-RENJU ĦAXEMITA TAL-ĀORDAN) [L.S.123.122 7
-
-assigurazzjoni.
+Id-disposizzjonijiet ta’ dan l-Artikolu ma jaffettwawx id-disposizzjonijiet tal-liāi ta’ Stat Kontraenti dwar it-taxxa fuq il-profitti mill-kummerë ta’ l-assigurazzjoni.
 
 **Artikolu 8**
 
@@ -281,8 +265,6 @@ u f ’kull kaŜ isiru jew jiāu imposti kondizzjonijiet bejn iŜ-Ŝewā impriŜ
 
 a. meta d-dividendi jitћallsu minn kumpannija li tkun residenti tal-Āordan lil residenti ta’ Malta li jkun is-sid benefiëjarju tad-dividendi, it-taxxa tal-Āordan li hekk titћallas m’gћandhiex tkun iŜjed minn 10 fil-mija tal-ammont gross tad-dividendi;
 
-8 [L.S.123.122 (IR-RENJU ĦAXEMITA TAL-ĀORDAN)
-
 b. meta d-dividendi jitћallsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Āordan li jkun is-sid benefiëjarju tad-dividendi, it-taxxa ta’ Malta fuq l-ammont gross tad-dividendi m’gћandhiex tkun iŜjed minn dik li titћallas fuq il-profitti li minnhom jitћallsu d-dividendi.
 
 Dan il-paragrafu ma jaffettwax l-intaxxar tal-kumpannija gћar-rigward tal-profitti li minnhom jitћallsu d-dividendi.
@@ -305,8 +287,6 @@ Dan il-paragrafu ma jaffettwax l-intaxxar tal-kumpannija gћar-rigward tal-profi
 
 \4. Il-fraŜi "mgћax" kif tintuŜa f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhom dritt li jipparteëipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-gvern u income minn bonds jew obbligazzjonijiet, inkluŜi premiums u premjijiet relatati ma dawk it-titoli, bonds jew obbligazzjonijiet. Il-ћlasijiet ta’ penali gћal ћlas tardiv ma jitqiesx bћala mgћax gћall-finijiet ta’ dan l-Artikolu.
 
-(IR-RENJU ĦAXEMITA TAL-ĀORDAN) [L.S.123.122 9
-
 \5. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx ikunu japplikaw jekk is-sid benefiëjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew jagћmel servizzi personali independenti f’dak l-Istat l-ieћor minn baŜi stabbilita li tkun tinsab fih, u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew baŜi stabbilita. F’dak il-kaŜ, gћandhom japplikaw id-disposizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-kaŜ.
 
 \6. Jitqies li jinqala’ mgћax fi Stat Kontraenti meta min iћallas ikun l-Istat innifsu, subdiviŜjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qed tћallas l-imgћax, kemm jekk tkun residenti ta’ Stat Kontraenti kemm jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew baŜi stabbilita li f’konnessjoni magћhom ikun oriāina d-debitu li fuqu jitћallas l-imgћax, u dak l-imgћax jaqa’ fuq dak l-istabbiliment permanenti jew baŜi stabbilita, gћaldaqstant dak l-imgћax gћandu jitqies li jinqala’ fl-Istat fejn ikunu sitwati l-istabbiliment permanenti jew il-baŜi stabbilita.
@@ -325,9 +305,7 @@ Dan il-paragrafu ma jaffettwax l-intaxxar tal-kumpannija gћar-rigward tal-profi
 
 \4. Id-disposizzjonijiet tal-paragrafi 1 u 2 m’gћandhomx japplikaw jekk is-sid benefiëjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih ir-royalties jinqalgћu, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun jagћmel f ’dak Istat l-ieћor servizzi personali indipendenti minn baŜi stabbilita sitwata hemmhekk, u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew baŜi stabbilita. F’dak il-kaŜ, gћandhom japplikaw id-disposizzjonijiet tal-Artikolu 7 jew l-Artikolu 14, skont il-kaŜ.
 
-\5. Royalties gћandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iћallashom ikun dak l-Istat innifsu, sottodiviŜjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tћallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew baŜi stabbilita li dwarhom jkun ittieћed l-obbligu li 10 [L.S.123.122 (IR-RENJU ĦAXEMITA TAL-ĀORDAN)
-
-jitћallsu r-royalties, u dawk ir-royalties ikunu jaqgћu taћt ir-responsabbiltà ta’ dak l-istabbiliment permanenti jew baŜi stabbilita, allura dawk ir-royalties gћandhom jitqiesu li jinqalgћu fl-Istat fejn ikun jinsab l-istabbiliment permanenti jew baŜi stabbilita.
+\5. Royalties gћandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iћallashom ikun dak l-Istat innifsu, sottodiviŜjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tћallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew baŜi stabbilita li dwarhom jkun ittieћed l-obbligu li jitћallsu r-royalties, u dawk ir-royalties ikunu jaqgћu taћt ir-responsabbiltà ta’ dak l-istabbiliment permanenti jew baŜi stabbilita, allura dawk ir-royalties gћandhom jitqiesu li jinqalgћu fl-Istat fejn ikun jinsab l-istabbiliment permanenti jew baŜi stabbilita.
 
 \6. Meta, minћabba r-relazzjoni speëjali bejn min iћallas u s-sid benefiëjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont tar-royalties, fil-qies ta’ x’ikun l-uŜu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iŜjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiëjarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu gћandhom japplikaw biss gћall-ammont l-aћћar imsemmi. F’dak il-kaŜ, il-parti Ŝejda tal-ћlasijiet gћandha tibqa’ tiāi intaxxata skond il-liāijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-disposizzjonijiet l-oћra ta’ dan il-Ftehim.
 
@@ -351,9 +329,7 @@ jitћallsu r-royalties, u dawk ir-royalties ikunu jaqgћu taћt ir-responsabbilt
 
 \1. Income li jinkiseb minn residenti ta’ Stat Kontraenti gћal servizzi professjonali jew attivitajiet oћra ta’ xorta indipendenti gћandu jkun intaxxat biss f’dak l-Istat. Madankollu, dak l-income jista’ jiāi intaxxat fl-Istat Kontraenti l-ieћor f’dawn ië-ëirkostanzi li āejjin:
 
-a. jekk ikollu baŜi stabbilita regolarment disponibbli gћalih fl-Istat Kontraenti l-ieћor bil-gћan li jwettaq l-attivitajiet tiegћu; f’dak il-kaŜ, biss daqstant mill-income daqskemm ikun attribwibbli gћall-baŜi stabbilita jkun jista’ jiāi intaxxat f’dak l-Istat Kontraenti l-ieћor; jew b. jekk ikun preŜenti fl-Istat Kontraenti l-ieћor gћal perjodu jew gћal perjodi li b’kollox ikunu ta’, jew li fit-total ikunu jeëëedu l-183 āurnata f’perjodu ta’ tnax-il xahar li jkun, u li jibda gћaddej jew itemm fis-sena (IR-RENJU ĦAXEMITA TAL-ĀORDAN) [L.S.123.122 11
-
-ta’ taxxa inkwistjoni; f’dak il-kaŜ, biss daqstant mill-income daqskemm jinkiseb mill-attività eŜerëitata fl-Istat Kontraenti l-ieћor ikun jista’ jiāi intaxxat f’dak l-Istat l-ieћor; jew
+a. jekk ikollu baŜi stabbilita regolarment disponibbli gћalih fl-Istat Kontraenti l-ieћor bil-gћan li jwettaq l-attivitajiet tiegћu; f’dak il-kaŜ, biss daqstant mill-income daqskemm ikun attribwibbli gћall-baŜi stabbilita jkun jista’ jiāi intaxxat f’dak l-Istat Kontraenti l-ieћor; jew b. jekk ikun preŜenti fl-Istat Kontraenti l-ieћor gћal perjodu jew gћal perjodi li b’kollox ikunu ta’, jew li fit-total ikunu jeëëedu l-183 āurnata f’perjodu ta’ tnax-il xahar li jkun, u li jibda gћaddej jew itemm fis-sena ta’ taxxa inkwistjoni; f’dak il-kaŜ, biss daqstant mill-income daqskemm jinkiseb mill-attività eŜerëitata fl-Istat Kontraenti l-ieћor ikun jista’ jiāi intaxxat f’dak l-Istat l-ieћor; jew
 
 ë. jekk il-kumpens gћall-attivitajiet tiegћu fl-Istat Kontraenti l-ieћor jitћallas minn residenti ta’ dak l-Istat Kontraenti jew ikun piŜ fuq stabbiliment permanenti jew fuq baŜi stabbilita sitwata f’dak l-Istat Kontraenti u jkun iŜjed fis-sena ta’ taxxa mill-ekwivalenti ta’ 10,000 dollaru tal-Istati Uniti.
 
@@ -387,9 +363,7 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 \1. Minkejja d-disposizzjonijiet tal-Artikoli 14 u 15, income li jinkiseb minn residenti ta’ Stat Kontraenti bћala persuna li tagћti spettaklu, bћal artisti tat-teatru, tal-films ëinematografiëi, tar-radju jew tat-televiŜjoni, jew bћala muŜiëista, jew bћala sportiv, mill-attivitajiet personali tiegћu bћala tali li jiāu eŜerëitati fl-Istat Kontraenti l-ieћor, jistgћu jiāu intaxxati f’dak l-Istat l-ieћor.
 
-\2. Meta income dwar attivitajiet personali eŜerëitati minn persuna li tagћti spettaklu jew sportiv fil-kwalità tiegћu bћala tali jināabar mhux favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iŜda favur xi persuna oћra, dak l-income jista’, 12 [L.S.123.122 (IR-RENJU ĦAXEMITA TAL-ĀORDAN)
-
-minkejja d-disposizzjonijiet tal-Artikoli 7, 14 u 15, jiāi intaxxat fl-Istat Kontraenti fejn jiāu eŜerëitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
+\2. Meta income dwar attivitajiet personali eŜerëitati minn persuna li tagћti spettaklu jew sportiv fil-kwalità tiegћu bћala tali jināabar mhux favur il-persuna li tagћti spettaklu jew l-isportiv innifsu iŜda favur xi persuna oћra, dak l-income jista’, minkejja d-disposizzjonijiet tal-Artikoli 7, 14 u 15, jiāi intaxxat fl-Istat Kontraenti fejn jiāu eŜerëitati l-attivitajiet tal-persuna li tagћti spettaklu jew tal-isportiv.
 
 **Artikolu 18**
 
@@ -423,8 +397,6 @@ b. Madankollu, dik il-pensjoni gћandha tiāi intaxxata biss fl-Istat Kontraenti
 
 Student jew apprendist kummerëjali li jkun preŜenti fi Stat Kontraenti għall-fini tal-edukazzjoni jew taћriā tiegħu u li jkun, jew li minnufih qabel ma kien hekk preŜenti kien, residenti fl-Istat Kontraenti l-ieћor ikun eŜenti mit-taxxa fl-Istat l-ewwel imsemmi fuq ħlasijiet li huwa jirëievi minn barra dak l-Istat l-ewwel imsemmi għall-fini tal-manteniment, edukazzjoni jew taћriā tiegћu.
 
-(IR-RENJU ĦAXEMITA TAL-ĀORDAN) [L.S.123.122 13
-
 **Artikolu 21**
 
 **INCOME IEĦOR**
@@ -451,9 +423,7 @@ Bla ħsara għad-disposizzjonijiet tal-liāi ta’ Malta dwar li jitħalla jing�
 
 \1. Ië-ëittadini ta’ Stat Kontraenti ma gћandhomx jiāu assoāāettati fl-Istat Kontraenti l-ieћor gћal xi taxxa jew gћal xi ћtieāa li jkunu konnessi ma’ dan, li tkun diversa jew ta’ iktar piŜ mit-taxxa u l-ћtigiet konnessi li gћalihom ëittadini ta’ dak l- Istat l-ieћor fl-istess ëirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, huma jew jistgћu jkunu assoāāettati. Din id-disposizzjoni gћandha, minkejja d-disposizzjonijiet tal-Artikolu 1, tkun tapplika wkoll gћal ëittadini li ma jkunux residenti ta’ xi Stati Kontraenti jew it-tnejn li huma.
 
-\2. It-taxxa fuq stabbiliment permanenti li impriŜa ta’ Stat Kontraenti jkollha fl- Istat Kontraenti l-ieћor ma gћandhiex tināabar b’mod inqas favorevoli f’dak Istat l-ieћor mit-taxxa li tināabar fuq impriŜi ta’ dak l-Istat l-ieћor li jkun qed imexxi l- 14 [L.S.123.122 (IR-RENJU ĦAXEMITA TAL-ĀORDAN)
-
-istess ativitajiet. Din id-disposizzjoni m’gћandhiex tiftehem bћala li tobbliga lil Stat Kontraenti li jagħti lir-residenti ta’ l-Istat Kontraenti l-ieћor xi allowances, ћelsien u tnaqqis personali gћall-gћanijiet ta’ taxxa minћabba f ’xi status ëivili jew responsabbiltajiet familjari li jikkonëedi lir-residenti tiegћu.
+\2. It-taxxa fuq stabbiliment permanenti li impriŜa ta’ Stat Kontraenti jkollha fl- Istat Kontraenti l-ieћor ma gћandhiex tināabar b’mod inqas favorevoli f’dak Istat l-ieћor mit-taxxa li tināabar fuq impriŜi ta’ dak l-Istat l-ieћor li jkun qed imexxi l-istess ativitajiet. Din id-disposizzjoni m’gћandhiex tiftehem bћala li tobbliga lil Stat Kontraenti li jagħti lir-residenti ta’ l-Istat Kontraenti l-ieћor xi allowances, ћelsien u tnaqqis personali gћall-gћanijiet ta’ taxxa minћabba f ’xi status ëivili jew responsabbiltajiet familjari li jikkonëedi lir-residenti tiegћu.
 
 \3. Ħlief meta jkunu japplikaw id-disposizzjonijiet tal-paragrafu 1 tal-Artikolu 9, tal-paragrafu 4 tal-Artikolu 11, jew tal-paragrafu 4 tal-Artikolu 12, mgћax, royalties u ћlasijiet oћra li jitћallsu minn impriŜa ta’ Stat Kontraenti lil residenti tal- Istat Kontraenti l-ieћor gћandhom, gћall-fini li jiāi stabbilit x’ikun il-profitt ta’ dik l-impriŜa li għandu jiāi intaxxat, jiāu mnaqqsa taћt l-istess kondizzjonijiet bћallikieku dawn kienu mћallsa lil residenti tal-ewwel Stat imsemmi.
 
@@ -477,9 +447,7 @@ istess ativitajiet. Din id-disposizzjoni m’gћandhiex tiftehem bћala li tobbl
 
 **SKAMBJU TA’ INFORMAZZJONI**
 
-\1. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tkun meћtieāa gћat-twettiq tad-disposizzjonijiet ta’ dan il-Ftehim jew tal-liāijiet domestiëi tal-Istati Kontraenti gћar-rigward ta’ taxxi koperti bil- Ftehim sakemm it-taxxa li ssir taћthom ma tkunx tmur kontra l-Ftehim. L-iskambju (IR-RENJU ĦAXEMITA TAL-ĀORDAN) [L.S.123.122 15
-
-ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li tiāi riëevuta mill-Istat Kontraenti gћandha tiāi trattata bћala waћda sigrieta bl-istess mod bћall-informazzjoni miksuba taћt il-liāijiet domestiëi ta’ dak l-Istat u gћandha tiāi Ŝvelata biss lil persuni jew awtoritajiet (inkluŜi qrati u korpi amministrattivi) involuti fl-istima jew fil-ābir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-deëizjoni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet gћandhom juŜaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiŜvelaw l-informazzjoni fi proëeduri tal-qorti bil-miftuћ jew f’deëiŜjonijiet āudizzjarji imma biss għall-finijiet ta’ dan il-Ftehim.
+\1. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tkun meћtieāa gћat-twettiq tad-disposizzjonijiet ta’ dan il-Ftehim jew tal-liāijiet domestiëi tal-Istati Kontraenti gћar-rigward ta’ taxxi koperti bil- Ftehim sakemm it-taxxa li ssir taћthom ma tkunx tmur kontra l-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li tiāi riëevuta mill-Istat Kontraenti gћandha tiāi trattata bћala waћda sigrieta bl-istess mod bћall-informazzjoni miksuba taћt il-liāijiet domestiëi ta’ dak l-Istat u gћandha tiāi Ŝvelata biss lil persuni jew awtoritajiet (inkluŜi qrati u korpi amministrattivi) involuti fl-istima jew fil-ābir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-deëizjoni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet gћandhom juŜaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiŜvelaw l-informazzjoni fi proëeduri tal-qorti bil-miftuћ jew f’deëiŜjonijiet āudizzjarji imma biss għall-finijiet ta’ dan il-Ftehim.
 
 \2. F’ebda kaŜ m’gћandhom id-disposizzjonijiet tal-paragrafu 1 jiftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
 
@@ -509,9 +477,7 @@ b. dwar Malta, gћar-rigward ta’ taxxi fuq l-income miksuba matul xi sena kale
 
 **TERMINAZZJONI**
 
-Dan il-Ftehim gћandu jibqa’ jseћћ sakemm jiāi terminat minn xi Stat Kontraenti. Kull wieћed mill-Istati Kontraenti jista’ jtemm il-Ftehim, permezz ta’ kanali diplomatiëi, billi jagћti avviŜ tat-terminazzjoni mill-inqas sitt xhur qabel ma 16 [L.S.123.122 (IR-RENJU ĦAXEMITA TAL-ĀORDAN)
-
-tintemm xi sena kalendarja li tibda gћaddejja wara l-iskadenza ta’ perjodu ta’ ћames snin minn meta dan jidћol fis-seћћ. F’dak il-kaŜ, il-Ftehim ma gћandux jibqa’ jseћћ: a. dwar il-Āordan, gћar-rigward ta’ taxxi fuq l-income miksuba matul xi sena kalendarja jew perjodu ta’ kontijiet, kif jista’ jkun il-kaŜ, li jibda fl-ewwel jum ta’ Jannar jew wara minnufih wara d-data meta jingћata l-avviŜ;
+Dan il-Ftehim gћandu jibqa’ jseћћ sakemm jiāi terminat minn xi Stat Kontraenti. Kull wieћed mill-Istati Kontraenti jista’ jtemm il-Ftehim, permezz ta’ kanali diplomatiëi, billi jagћti avviŜ tat-terminazzjoni mill-inqas sitt xhur qabel ma tintemm xi sena kalendarja li tibda gћaddejja wara l-iskadenza ta’ perjodu ta’ ћames snin minn meta dan jidћol fis-seћћ. F’dak il-kaŜ, il-Ftehim ma gћandux jibqa’ jseћћ: a. dwar il-Āordan, gћar-rigward ta’ taxxi fuq l-income miksuba matul xi sena kalendarja jew perjodu ta’ kontijiet, kif jista’ jkun il-kaŜ, li jibda fl-ewwel jum ta’ Jannar jew wara minnufih wara d-data meta jingћata l-avviŜ;
 
 b. dwar Malta, gћar-rigward ta’ taxxi fuq l-income miksuba matul xi sena kalendarja jew perjodu ta’ kontijiet, kif jista’ jkun il-kaŜ, li jibda fl-ewwel jum ta’ Jannar jew wara minnufih wara d-data meta jingћata l-avviŜ.
 

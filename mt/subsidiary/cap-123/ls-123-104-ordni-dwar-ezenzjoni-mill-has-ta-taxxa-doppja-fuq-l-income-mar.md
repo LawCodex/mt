@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħas ta’ Taxxa Doppja fuq l-Income mar-Repubblika Ellenika (S.L. 123.104)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA ELLENIKA [L.S.123.104
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.104**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS**
@@ -108,8 +104,6 @@ ii) it-taxxa fuq l-income g]al persuni [uridi`i;
 ## 4.
 
 Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simili li ji[u imposti wara d-data meta ji[i ffirmat dan il-Ftehim b’\\jieda ma’, jew minflok, it-taxxi e\\istenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom jg]arrfu lil xulxin b’kull tibdil sostanzjali li jkun sar fil-li[ijiet dwar it-taxxi rispettivi tag]hom.
-
-FUQ L-INCOME MAR-REPUBBLIKA ELLENIKA [L.S.123.104 3
 
 KAPITLU II
 
@@ -205,8 +199,6 @@ e) ]anut tax-xog]ol; u
 
 f) minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew kull post ie]or ta’ estrazzjoni ta’ ri\\orsi naturali.
 
-FUQ L-INCOME MAR-REPUBBLIKA ELLENIKA [L.S.123.104 5
-
 \3. Il-fra\\i "stabbiliment permanenti" bl-istess mod tinkludi:
 
 a) art li tkun qeg]da tinbena, pro[ett ta’ kostruzzjoni, assembla[[ jew stallazzjoni jew attivitajiet ta’ sorveljanza li jkollhom x’jaqsmu ma’ dan, i\\da biss meta dik l-art, dak il-pro[ett jew dawk l-attivitajiet ikomplu g]addejin g]al perjodu ta’ aktar minn sitt xhur;
@@ -271,8 +263,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \4. Il-provvedimenti tal-paragrafi 1 u 3 g]andhom japplikaw ukoll g]al income minn proprjetà immobbli ta’ impri\\a u g]al income minn proprjetà immobbli u\\ata g]all-g]emil ta’ servizzi personali indipendenti.
 
-FUQ L-INCOME MAR-REPUBBLIKA ELLENIKA [L.S.123.104 7
-
 **Artiklu 7**
 
 **PROFITTI MINN NEGOZJU**
@@ -331,9 +321,7 @@ u f ’kull ka\\ isiru jew ji[u imposti kondizzjonijiet bejn i\\-\\ew[ impri\\i 
 
 (ii) 10 fil-mija ta’ l-ammont kollu u s]i] tad-dividendi fil-ka\\ijiet l-o]ra kollha;
 
-b) Minkejja l-provvediment tal-paragrafu 2 meta d-dividendi jit]allsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Repubblika Ellenika li jkun is-sid benefi`jarju tad-dividendi, it-taxxa ta’ Malta fuq l-ammont kollu u s]i] tad-dividendi, skond is-sistema interna tag]ha ta’ kalkolu, m’g]andhiex tkun i\\jed minn dik li tit]allas fuq il-profitti li FUQ L-INCOME MAR-REPUBBLIKA ELLENIKA [L.S.123.104 9
-
-minnhom jit]allsu d-dividendi.
+b) Minkejja l-provvediment tal-paragrafu 2 meta d-dividendi jit]allsu minn kumpannija li tkun residenti ta’ Malta lil residenti tal-Repubblika Ellenika li jkun is-sid benefi`jarju tad-dividendi, it-taxxa ta’ Malta fuq l-ammont kollu u s]i] tad-dividendi, skond is-sistema interna tag]ha ta’ kalkolu, m’g]andhiex tkun i\\jed minn dik li tit]allas fuq il-profitti li minnhom jit]allsu d-dividendi.
 
 Dan il-paragrafu ma jolqotx l-intaxxar tal-kumpannija g]ar-rigward tal-profitti li minnhom jit]allsu d-dividendi. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andhom bi ftehim re`iproku jirran[aw il-mod kif ji[u applikati dawn il-limitazzjonijiet.
 
@@ -373,9 +361,7 @@ permanenti sitwat hemmhekk, jew jag]mel servizzi personali indipendenti f’dak 
 
 \3. Il-fra\\i "royalties", skond ma tintu\\a f’dan l-Artiklu, tfisser ]lasijiet ta’ kull xorta li jsiru b’korrispettiv g]all-u\\u ta’, jew g]all-jedd ta’ l-u\\u, ta’ kull dritt ta’ l-awtur ta’ xog]ol letterarju, artistiku jew xjentifiku inklu\\i films `inematografi`i u films jew tapes g]al xandir bit-televi\\joni jew bir-radju jew xandir bis-satellita, cables, fibri otti`i jew teknolo[iji b]al dawk li jintu\\aw g]ax-xandir, tapes manjeti`i, diski jew diski bil-laser, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew pro`ess sigrieti, jew g]all-u\\u ta’, jew id-dritt li jintu\\a, tag]mir industrijali, kummer`jali jew xjentifiku, jew g]al informazzjoni dwar konoxxenza industrijali, kummer`jali jew xjentifika.
 
-\4. Il-provvedimenti tal-paragrafi 1 u 2 ma g]andhomx japplikaw jekk is-sid benefi`jarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or fejn jinqalg]u r-royalties, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qieg]ed jag]mel f’dak Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab hemmhekk, u d-dritt jew il-proprjetà li dwarhom jit]allsu r-royalties ikunu effettivament konnessi FUQ L-INCOME MAR-REPUBBLIKA ELLENIKA [L.S.123.104 11
-
-ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw il-provvedimenti ta’ l-Artiklu 7 jew ta’ l-Artiklu 14, skond il-ka\\.
+\4. Il-provvedimenti tal-paragrafi 1 u 2 ma g]andhomx japplikaw jekk is-sid benefi`jarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ie]or fejn jinqalg]u r-royalties, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qieg]ed jag]mel f’dak Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita li tkun tinsab hemmhekk, u d-dritt jew il-proprjetà li dwarhom jit]allsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw il-provvedimenti ta’ l-Artiklu 7 jew ta’ l-Artiklu 14, skond il-ka\\.
 
 \5. Ir-royalties g]andhom jitqiesu li jinqalg]u fi Stat Kontraenti meta min i]allashom ikun dak l-Istat innifsu, sottodivi\\joni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li t]allas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew ba\\i stabbilita li dwarhom ikun ittie]ed l-obbligu li jit]allsu r-royalties u dawk ir-royalties ikunu r-responsabbiltà ta’ dak l-istabbiliment permanenti jew ba\\i stabbilita, allura dawk ir-royalties g]andhom jitqiesu li jinqalg]u fl-Istat li fih ikun qieg]ed l-istabbiliment permanenti jew il-ba\\i stabbilita.
 
@@ -431,9 +417,7 @@ b) il-kumpens jit]allas minn, jew f’isem, prin`ipal li ma jkunx residenti fl- 
 
 **DRITTIJIET TAD-DIRETTURI**
 
-Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti ta’ Stat FUQ L-INCOME MAR-REPUBBLIKA ELLENIKA [L.S.123.104 13
-
-Kontraenti fil-kapa`ità tieg]u ta’ membru tal-bord ta’ diretturi ta’ kumpannija li tkun residenti ta’ l-Istat Kontraenti l-ie]or jistg]u ji[u intaxxati f’dak l-Istat l-ie]or.
+Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapa`ità tieg]u ta’ membru tal-bord ta’ diretturi ta’ kumpannija li tkun residenti ta’ l-Istat Kontraenti l-ie]or jistg]u ji[u intaxxati f’dak l-Istat l-ie]or.
 
 **Artiklu 17**
 
@@ -495,9 +479,7 @@ rimunerazzjoni u pensjoni g]ar-rigward ta’ kummer` li jkun [estit minn Stat Ko
 
 \1. Meta residenti ta’ Stat Kontraenti jikseb income li, skond il-provvedimenti ta’ dan il-Ftehim, jista’ jkun intaxxat fl-Istat Kontraenti l-ie]or, l-Istat l-ewwel imsemmi g]andu jippermetti b]ala tnaqqis mit-taxxa fuq l-income ta’ dak ir-residenti, ammont daqsinsew it-taxxa fuq l-income li tit]allas f’dak l-Istat l-ie]or. Dak it-tnaqqis f’kull ka\\ ma g]andux, madankollu, je``edi dik il-parti tat-taxxa fuq l-income, kif din tkun ma]duma skond il-provvedimenti rilevanti tal-li[i tat-taxxa interna ta’ l-Istat l-ewwel imsemmi qabel ma jing]ata t-tnaqqis, li tkun attribwibbli, skond il-ka\\, g]all-income li jista’ ji[i intaxxat f’dak l-Istat l-ie]or.
 
-\2. Meta jit]allsu dividendi minn kumpannija li tkun residenti ta’ Malta lil residenti tar-Repubblika Ellenika, it-taxxa li jittie]ed kont tag]ha g]at-tnaqqis provdut fil-paragragu 1 ma g]andhiex tkun te``edi dik li ti[i attwalment im]allsa minn residenti tar-Repubblika Ellenika. F’ebda okka\\joni, f’ka\\ b]al dak, ma g]andu jittie]ed kont tat-taxxa li g]andha tit]allas mill-kumpannija g]all-profitti li FUQ L-INCOME MAR-REPUBBLIKA ELLENIKA [L.S.123.104 15
-
-minnhom jit]allsu dawk id-dividendi.
+\2. Meta jit]allsu dividendi minn kumpannija li tkun residenti ta’ Malta lil residenti tar-Repubblika Ellenika, it-taxxa li jittie]ed kont tag]ha g]at-tnaqqis provdut fil-paragragu 1 ma g]andhiex tkun te``edi dik li ti[i attwalment im]allsa minn residenti tar-Repubblika Ellenika. F’ebda okka\\joni, f’ka\\ b]al dak, ma g]andu jittie]ed kont tat-taxxa li g]andha tit]allas mill-kumpannija g]all-profitti li minnhom jit]allsu dawk id-dividendi.
 
 \3. Meta skond xi provvediment tal-Ftehim income li jinkiseb minn residenti ta’ Stat Kontreanti jkun e\\enti mit-taxxa f’dak l-Istat, dak l-Istat jista’ madankollu, meta ji[i biex jikkalkula l-ammont ta’ taxxa fuq l-income li jifdal ta’ dak ir-residenti, jie]u kont ta’ l-income li jkun [ie e\\entat.
 
@@ -551,9 +533,7 @@ b) li jag]ti informazzjoni li ma tkunx tista’ tinkiseb ta]t il-li[ijiet jew fi
 
 **MEMBRI TA’ MISSJONIJIET DIPLOMATI~I U KARIGI KONSULARI**
 
-Ebda ]a[a f’dan il-Ftehim ma g]andha tolqot il-privile[[i fiskali tal-membri ta’ FUQ L-INCOME MAR-REPUBBLIKA ELLENIKA [L.S.123.104 17
-
-missjonijiet diplomati`i jew ta’ karigi konsulari ta]t ir-regoli [enerali tad-dritt internazzjonali jew ta]t il-provvedimenti ta’ kull ftehim spe`jali.
+Ebda ]a[a f’dan il-Ftehim ma g]andha tolqot il-privile[[i fiskali tal-membri ta’ missjonijiet diplomati`i jew ta’ karigi konsulari ta]t ir-regoli [enerali tad-dritt internazzjonali jew ta]t il-provvedimenti ta’ kull ftehim spe`jali.
 
 **KAPITLU VI**
 

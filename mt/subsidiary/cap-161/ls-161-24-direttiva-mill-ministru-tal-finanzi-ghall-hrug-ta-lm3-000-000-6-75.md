@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta Lm3,000,000 6.75% Stock tal-Gvern ta Malta 1997 (S.L. 161.24)
 
-}RU{ TA’ LM3,000,000 6.75% STOCK
-
-*1*
-
-TAL-GVERN TA’ MALTA 1997 [L.S.161.24
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.24**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tal-Polonja (S.L. 123.33)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.33**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -95,8 +91,6 @@ it-taxxa fuq l-income,
 
 \*kif emendat bil-Protokoll riprodott fl-Avviż Legali 14 tal-2012.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 3
-
 **ARTIKOLU 3\***
 
 **Tifsiriet Ġenerali**
@@ -169,11 +163,9 @@ FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 3
 
 (f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ estrazzjoni ta’ riżorsi naturali inkluż sit ta’ drilling fuq il-baħar;
 
-(g) art li tkun qegħda tinbena jew proġett ta’ kostruzzjoni jew assemblaġġ jew FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 5
+(g) art li tkun qegħda tinbena jew proġett ta’ kostruzzjoni jew assemblaġġ jew installazzjoni, meta dik l-art jew proġett ikomplu għal iktar minn tnax-il xahar.
 
 \*kif emendat bil-Protokoll riprodott fl-Avviż Legali 14 tal-2012.
-
-installazzjoni, meta dik l-art jew proġett ikomplu għal iktar minn tnax-il xahar.
 
 (3) Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbiliment permanenti" għandha titqies li ma tinkludix:
 
@@ -229,11 +221,9 @@ Istat Kontraenti l-ieħor jista’ jiġi ntaxxat f’dak l-Istat l-ieħor.
 
 (6) Għall-finijiet tal-paragrafi ta’ qabel il-profitti li għandhom jiġu attribwiti lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess mod minn sena għal sena kemm-il darba ma jkunx hemm raġuni tajba u biżżejjed biex isir kuntrarju.
 
-(7) Id-disposizzjonijiet ta’ dan l-Artikolu m’għandhomx jolqtu d- FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 7
+(7) Id-disposizzjonijiet ta’ dan l-Artikolu m’għandhomx jolqtu d-disposizzjonijiet tal-liġi ta’ Stat Kontraenti dwar it-tassazzjoni ta’ profitti fuq in-negozju ta’ assikurazzjoni.
 
 \*kif emendat bil-Protokoll riprodott fl-Avviż Legali 14 tal-2012.
-
-disposizzjonijiet tal-liġi ta’ Stat Kontraenti dwar it-tassazzjoni ta’ profitti fuq in-negozju ta’ assikurazzjoni.
 
 (8) Meta profitti jinkludu oġġetti ta’ income li qed jiġu trattati separatament f’Artikoli oħra ta dan il-Ftehim, allura d-disposizzjonijiet ta’ dawk l-Artikoli ma jkunux milquta bid-disposizzjonijiet ta’ dan l-Artikolu.
 
@@ -291,8 +281,6 @@ Dan il-paragrafu ma jolqotx it-taxxa li tintalab minn kumpannija dwar il-profitt
 
 \*kif emendat bil-Protokoll riprodott fl-Avviż Legali 14 tal-2012.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 9
-
 (5) Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-iStat Kontraenti l-ieħor, dak l-iStat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief meta dividendi bħal dawk jitħallsu lil residenti f’dak l-iStat l-ieħor jew safejn il-parteċipazzjoni li dwarha jitħallsu d-dividendi jkollha effettivament x’taqsam ma’ stabbiliment permanenti li jkun sitwat f’dak l-iStat l-ieħor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija għal xi taxxa fuq profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mħallsa jew il-profitti mhux imqassma jkunu jikkonsistu għalkollox jew biss f’parti minn profitti jew income li jinqalgħu f’dak l-iStat l-ieħor.
 
 (6) Il-benefiċċji ta’ dan l-Artikolu m’għandhomx ikunu japplikaw jekk kien l-għan ewlieni jew wieħed mill-għanijiet ewlenin ta’ xi persuna li jkollha x’taqsam mal-ħolqien jew l-assenjament tal-ishma jew ta’ drittijiet oħra li dwarhom jitħallas id-dividend li tikseb vantaġġ b’dan l-Artikolu permezz ta’ dak il-ħolqien jew assenjament.
@@ -347,9 +335,7 @@ Madankollu, tali royalties jew ħlasijiet għal servizzi tekniċi jistgħu wkoll
 
 (iii) isir minn individwu għal servizzi għal użu personali ta’ individwu;
 
-(iv) jsir għal-servizzi relatati ma’ proprjetà immobbli li tinstab fl- Istat Kontraenti li tiegħu l-persuna li qed tagħmel il-ħlas hija residenti, jekk dawn is-servizzi rriżultaw fi proġett ta’ kostruzzjoni, manutenzjoni, jew FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 11
-
-proġett ta’ pajsaġġ jew proġett tanġibbli simili; jew
+(iv) jsir għal-servizzi relatati ma’ proprjetà immobbli li tinstab fl- Istat Kontraenti li tiegħu l-persuna li qed tagħmel il-ħlas hija residenti, jekk dawn is-servizzi rriżultaw fi proġett ta’ kostruzzjoni, manutenzjoni, jew proġett ta’ pajsaġġ jew proġett tanġibbli simili; jew
 
 (v) jkun akkumula taħt il-liġijiet ta’ Stat Kontraenti għall-valur inizjali tal-makkinarju jew tagħmir industrijali tal-persuna li tagħmel il-ħlas jew għall-manutenzjoni ta’ tali makkinarju jew tagħmir industrijali.
 
@@ -413,8 +399,6 @@ Drittijiet tad-diretturi u ħlasijiet oħra simili li jinkisbu minn residenti ta
 
 \*kif emendat bil-Protokoll riprodott fl-Avviż Legali 14 tal-2012. #kif emendat bil-Protokoll riprodott fl-Avviż Legali 14 tal-2012.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 13
-
 **ARTIKOLU 17**
 
 **Artisti u Sportivi**
@@ -477,8 +461,6 @@ intaxxata biss f’dak l-Istat.
 
 \*kif sostitwit bil-Protokoll riprodott fl-Avviż Legali 14 tal-2012. #kif emendat bil-Protokoll riprodott fl-Avviż Legali 14 tal-2012.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 15
-
 **ARTIKOLU 23\***
 
 **Tneħħija ta’ Taxxa Doppja**
@@ -537,8 +519,6 @@ ikkontrollat minn, għal kollox jew f’parti, direttament jew indirettament, re
 
 (b) l-awtoritajiet kompetenti ma jistgħux jilħqu ftehim biex isolvu dak il-każ skont il-paragrafu 2 fi żmien tliet snin mill-preżentazzjoni tal-każ lill-awtoritajiet kompetenti tal-Istat Kontraenti l-ieħor,
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 17
-
 kwalunkwe kwistjoni mhux solvuta li tirriżulta mill-każ għandha tiġi sottomessa għal arbitraġġ jekk il-persuna hekk titlob bil-miktub. Dawn il-kwistjonijiet mhux solvuti ma għandhomx, madankollu, jiġu sottomessi għal arbitraġġ jekk deċiżjoni dwar dawn il-kwistjonijiet tkun diġà ingħatat minn qorti jew tribunal amministrattiv ta’ kwalunkwe Stat. Sakemm persuna effettwata direttament mill-każ ma taċċettax il-ftehim reċiproku li jimplimenta d-deċiżjoni ta’ arbitraġġ, dik id-deċiżjoni għandha torbot liż-żewġ Stati Kontraenti u għandha tiġi implimentata minkejja kwalunkwe limitu ta’ żmien fil-liġijiet domestiċi ta’ dawn l-Istati. L-awtoritajiet kompetenti tal- Istati Kontraenti għandhom bi ftehim reċiproku jsolvu l-mod ta’ applikazzjoni ta’ dan il-paragrafu.
 
 Għall-finijiet tas-subparagrafu (b), l-awtoritajiet kompetenti tal-Istati Kontraenti jistgħu jaqblu li jsolvu l-każ fi żmien sentejn.
@@ -595,7 +575,7 @@ dwar taxxi għal sena ta’ stima li tibda fl-1 jew wara l-1 ta’ Jannar tat-ti
 
 (i) dwar taxxi miżmuma f’ras il-għajn, għal ammonti ta’ income miksuba fl-1 jew wara l-1 ta’ Jannar tas-sena kalendarja li tiġi minnufih wara s-sena li fiha jibda jseħħ il-Ftehim; u
 
-(ii) dwar taxxi oħra fuq l-income, għal dawk it-taxxi li jinġabru għal xi sena ta’ taxxa li tibda fl-1 jew wara l-1 ta’ Jannar fis-sena kalendarja li tiġi minnufih wara s-sena meta l-Ftehim jibda jseħħ. FUQ L-INCOME MAR-REPUBBLIKA TAL-POLONJA [L.S.123.33 19
+(ii) dwar taxxi oħra fuq l-income, għal dawk it-taxxi li jinġabru għal xi sena ta’ taxxa li tibda fl-1 jew wara l-1 ta’ Jannar fis-sena kalendarja li tiġi minnufih wara s-sena meta l-Ftehim jibda jseħħ.
 
 **ARTIKOLU 29**
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Information and Communication Technology - M.Sc. ICT - taħt il-patroċoinju tal-Fakultà ta’ l-Information and Communication Technology (S.L. 327.342)
 
-CATION TECHNOLOGY - M.SC. ICT - TAĦT IL-PATROĊINJU TAL-
-
-*1*
-
-FAKULTÀ TA’ L-INFORMATION AND COMMUNICATION TECHNOLGY [L.S.327.342
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.342**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -74,11 +68,7 @@ Il-kors ikun offrut f’kull qasam ta’ studju li jaqa’ taħt ir-responsabbil
 
 (b) il-grad ta’ Bachelor of Engineering (Honours).
 
-(2) L-applikanti għall-kors fi kwalunkwe qasam ta’ studju CATION TECHNOLOGY - M.SC. ICT - TAĦT IL-PATROĊINJU TAL- [L.S.327.342 FAKULTÀ TA’ L-INFORMATION AND COMMUNICATION TECHNOLGY
-
-ieħor għandhom, suġġett għall-kundizzjonijiet imniżżla fl-ordinament 5, għandu jkollhom waħda minn dawn il-kwalifiki li ġejjin:
-
-*2*
+(2) L-applikanti għall-kors fi kwalunkwe qasam ta’ studju ieħor għandhom, suġġett għall-kundizzjonijiet imniżżla fl-ordinament 5, għandu jkollhom waħda minn dawn il-kwalifiki li ġejjin:
 
 (a) grad ta’ Bachelor miksub mill-anqas fit-Tieni Klassi bl- Unuri (Ta’ Fuq) b’komponent qawwi fl-ICT u li jinkludi 180 krettu ECTS jew aktar; jew
 
@@ -115,12 +105,6 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 ## 8. Taqsimiet studju.
 
 Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju mgħallma li għalihom hemm assenjati total ta’ 60 kredtu u taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 60 kredtu.
-
-CATION TECHNOLOGY - M.SC. ICT - TAĦT IL-PATROĊINJU TAL-
-
-*3*
-
-FAKULTÀ TA’ L-INFORMATION AND COMMUNICATION TECHNOLGY [L.S.327.342
 
 ## 9. Postgraduate Diploma.
 
@@ -162,11 +146,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (2) Fl-aħħar ta’ kull semestru ta’ studji s-superviżuri huma meħtieġa li jagħtu lill-Bord tal-Istudji rapporti dwar l-istudenti taħt is-superviżjoni tagħhom. L-istudenti għandhom jitolbu l-approvazzjoni tal-Bord tal-Istudji għal xi tibdil sostanzjali fit-titlu jew fil-kontenut tad-dissertazzjoni.
 
-(3) Il-Bord tal-Istudji għandhom perjodikament jinformaw lill- CATION TECHNOLOGY - M.SC. ICT - TAĦT IL-PATROĊINJU TAL- [L.S.327.342 FAKULTÀ TA’ L-INFORMATION AND COMMUNICATION TECHNOLGY
-
-Bord, bil-miktub, dwar il-progress ġenerali ta’ kull student. Dawn il-pariri jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
-
-*4*
+(3) Il-Bord tal-Istudji għandhom perjodikament jinformaw lill- Bord, bil-miktub, dwar il-progress ġenerali ta’ kull student. Dawn il-pariri jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar-Regolamenti Prinċipali; u
 

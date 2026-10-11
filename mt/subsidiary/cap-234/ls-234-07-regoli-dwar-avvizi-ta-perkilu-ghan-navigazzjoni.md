@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar Avviżi ta' Perkilu għan-Navigazzjoni"
-identifier: "S.L. 234.7"
+identifier: "S.L. 234.07"
 eli: "https://legislation.mt/eli/sl/234.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/234.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar Avviżi ta' Perkilu għan-Navigazzjoni (S.L. 234.7)
+# Regoli dwar Avviżi ta' Perkilu għan-Navigazzjoni (S.L. 234.07)
 
 \*LE{ISLAZZJONI SUSSIDJARJA 234.07
 

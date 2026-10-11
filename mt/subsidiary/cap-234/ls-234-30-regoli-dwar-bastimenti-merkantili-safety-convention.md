@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Bastimenti Merkantili - Safety Convention (S.L. 234.30)
 
-*1*
-
-[L.S.234.30
-
-SAFETY CONVENTION
-
 LE{ISLAZZJONI SUSSIDJARJA 234.30
 
 REGOLI DWAR BASTIMENTI MERKANTILI -

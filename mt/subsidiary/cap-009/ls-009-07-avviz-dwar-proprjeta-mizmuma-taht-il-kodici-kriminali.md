@@ -1,6 +1,6 @@
 ---
 title: "Avviż dwar Proprjetà miżmuma taħt il-Kodiċi Kriminali"
-identifier: "S.L. 9.7"
+identifier: "S.L. 9.07"
 eli: "https://legislation.mt/eli/sl/9.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/9.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Avviż dwar Proprjetà miżmuma taħt il-Kodiċi Kriminali (S.L. 9.7)
+# Avviż dwar Proprjetà miżmuma taħt il-Kodiċi Kriminali (S.L. 9.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 9.07**
 

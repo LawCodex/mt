@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2004 għall-grad ta’ Bachelor of Laws (Honours) – LL.B.(Hons) – taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.603)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S. 327.603 LEĠISLAZZJONI SUSSIDJARJA 327.603
+**LEĠISLAZZJONI SUSSIDJARJA 327.603**
 
 ORDINAMENTI SKONT IR-REGOLAMENTI ĠENERALI GĦAR- RIKONOXXIMENTI UNIVERSITARJI SAL-EWWEL GRAD, 2004GĦALL-GRAD TA’ BACHELOR OF LAWS (HONOURS) – LL.B. (HONS) – TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI 30 ta’ Ottubru, 2018
 
@@ -53,10 +51,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (a) għaddew f’żewġ suġġetti bi Grad Ċ jew aħjar fil- Livell tal-Matrikola Avvanzata jew l-ekwivalenti fl-Ingliż u fil-Malti, u għaddew fi tliet suġġetti fil- Livell tal-Matrikola Intermedju jew l-ekwivalenti, b’wieħed minnhom bi grad Ċ jew aħjar, magħżula fis-suġġetti kif ġej: suġġett wieħed minn Grupp 2, suġġett wieħed minn Grupp 3, u suġġett ieħor (ħlief l-Ingliż u l-Malti); jew
 
-*2*
-
-[L.S. 327.603 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI
-
 (b) għad-dħul f’Ottubru 2020 jew wara, ikollhom grad fil-livell 6 tal-MQF fi kwalunkwe qasam ta’ studju mogħti mill-Università ta’ Malta jew minn kwalunkwe istituzzjoni ta’ edukazzjoni ogħla oħra rikonoxxuta mis-Senat, u għaddew bi Grad Ċ jew aħjar fil-Livell tal-Matrikola Avvanzata jew l-ekwivalenti fil-Malti,
 
 sakemm li jekk il-grad ikun fil-Malti, ikun meħtieġ li l-applikanti jkunu għaddew ukoll bi Grad Ċ jew aħjar fil-Livell tal- Matrikola Avvanzata jew l-ekwivalenti fl-Ingliż.
@@ -79,7 +73,9 @@ Il-Kors jinfirex fuq perijodu ta’ erba’ snin ta’ studju fuq bażi full-tim
 
 (5) L-istudenti jkunu eliġibbli għall-għoti tal-Grad bl-Unuri jekk jiksbu l-240 krettu ECTS kif speċifikat fil-programm ta’ studju għall-Kors.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S. 327.603 3 6. (1) Il-valutazzjoni ta’ kull taqsima studju għandha ssir sal- Il-Valutazzjoni u l- Progress
+## 6.
+
+(1) Il-valutazzjoni ta’ kull taqsima studju għandha ssir sal- Il-Valutazzjoni u l- Progress
 
 aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 

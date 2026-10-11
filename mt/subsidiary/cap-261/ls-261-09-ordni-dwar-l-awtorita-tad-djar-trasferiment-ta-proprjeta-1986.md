@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1986)"
-identifier: "S.L. 261.9"
+identifier: "S.L. 261.09"
 eli: "https://legislation.mt/eli/sl/261.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/261.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1986) (S.L. 261.9)
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1986) [ L.S.261.09
+# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1986) (S.L. 261.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 261.09**
 
@@ -99,7 +97,7 @@ mag]rufa b]ala Plot Nri. 1 sa 5 tal-kejl ta’ madwar 1247 metru kwadru, li tmis
 
 (iii) Bi``a art li tikkonsiti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 150, 155, 156, 157, 159, 160, 161, 162, 164, l66 u 167 tal-kejl ta’ madwar 2433 metru kwadru, li tmiss mit- Tramuntana, min-Nofs in Nhar, mil-Lvant u mill-Punent ma’ proprjetà tal-Gvern;
 
-(iv) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri, 168, 170, 173 sa 177 u 179 tal-kejl ta’ madwar 1831 metru kwadru, li (TRASFERIMENT TA’ PROPRJETÀ) (1986) [ L.S.261.09 tmiss mit-Tramuntana, min-Nofs in-Nhar, mil- Lvant u mill-Punent ma’ proprjetà tal-Gvern;
+(iv) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri, 168, 170, 173 sa 177 u 179 tal-kejl ta’ madwar 1831 metru kwadru, li tmiss mit-Tramuntana, min-Nofs in-Nhar, mil- Lvant u mill-Punent ma’ proprjetà tal-Gvern;
 
 (v) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 158, 163, 165, l72, 178, 180, 181, 182, 184 sa 188, 190 sa 192 tal-kejl ta’ madwar 3351 metru kwadru, li tmiss mit- Tramuntana, min-Nofs in-Nhar, mil-Lvant u mill-Punent ma’ proprjetà tal-Gvern.
 

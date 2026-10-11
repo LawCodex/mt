@@ -16,16 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Applied Linguistics and Teaching English to Speakers of Other Languages – M.A. - taħt il-patroċinju taċ-Ċentru tal-Litteriżmi Akkademiċi u l-Ħiliet fil-Komunikazzjoni bl-Ingliż (S.L. 327.532)
 
-TEACHING ENGLISH TO SPEAKERS OF OTHER
-
-LANGUAGES – M.A. - TAĦT IL-PATROĊINJU TAĊ-
-
-ĊENTRU TAL-LITTERIŻMI AKKADEMIĊI U L-ĦILIET FIL-
-
-*1*
-
-KOMUNIKAZZJONI BL-INGLIŻ [L.S.327.532
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.532**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -80,13 +70,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (1) Il-kors ikun miftuħ għall-applikanti li għandhom waħda minn dawn il-kwalifiki li ġejjin:
 
-(a) grad ta’ Bachelor fl-Ingliż minn din l-Università jew minn istituzzjoni ta’ edukazzjoni ogħla rikonoxxuta mis-Senat, bil-kundizzjoni li juru, permezz ta’ TEACHING ENGLISH TO SPEAKERS OF OTHER
-
-LANGUAGES – M.A. - TAĦT IL-PATROĊINJU TAĊ- ĊENTRU TAL-LITTERIŻMI AKKADEMIĊI U L-ĦILIET FIL- [L.S.327.532 KOMUNIKAZZJONI BL-INGLIŻ
-
-*2*
-
-ċertifikazzjoni u referenzi xierqa, li huma wettqu mill-anqas 500 siegħa ta’ tagħlim fl-Ingliż jew li għandhom kwalifika fit-TESOL f’Livell 4 jew ogħla tal-Qafas Malti tal-Kwalifiki; jew
+(a) grad ta’ Bachelor fl-Ingliż minn din l-Università jew minn istituzzjoni ta’ edukazzjoni ogħla rikonoxxuta mis-Senat, bil-kundizzjoni li juru, permezz ta’ ċertifikazzjoni u referenzi xierqa, li huma wettqu mill-anqas 500 siegħa ta’ tagħlim fl-Ingliż jew li għandhom kwalifika fit-TESOL f’Livell 4 jew ogħla tal-Qafas Malti tal-Kwalifiki; jew
 
 (b) grad ta’ Bachelor minn din l-Università jew minn istituzzjoni ta’ edukazzjoni ogħla rikonoxxuta mis- Senat, f’qasam ta’ studju meqjus bħala rilevanti mill- Bord, bil-kundizzjoni li jkollhom jew kwalifika fl- Ingliż f’Livell 4 tal-Qafas Malti tal-Kwalifiki jew l- IELTS 7 jew l-ekwivalenti u li jkunu wettqu mill-anqas 1000 siegħa ta’ tagħlim fl-Ingliż jew, jekk m’għandhom l-ebda esperjenza ta’ tagħlim, huma jkunu meħtieġa li jsegwu u jtemmu b’suċċess is- Certificate in ELT tal-Università ta’ Malta; jew
 
@@ -112,17 +96,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (2) L-istudenti li jiksbu 30 krettu ECTS assenjati għal taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux temmew il-kors b’suċċess, jkunu eliġibbli għall-għoti tal-Postgraduate Certificate.
 
-(3) L-istudenti li jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma TEACHING ENGLISH TO SPEAKERS OF OTHER
-
-LANGUAGES – M.A. - TAĦT IL-PATROĊINJU TAĊ-
-
-ĊENTRU TAL-LITTERIŻMI AKKADEMIĊI U L-ĦILIET FIL-
-
-*3*
-
-KOMUNIKAZZJONI BL-INGLIŻ [L.S.327.532
-
-jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw id-dissertazzjoni b’suċċess, jkunu eliġibbli għall-għoti tal- Postgraduate Diploma.
+(3) L-istudenti li jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw id-dissertazzjoni b’suċċess, jkunu eliġibbli għall-għoti tal- Postgraduate Diploma.
 
 (4) F’każijiet fejn l-applikanti għandhom nuqqas ta’ għarfien essenzjali f’oqsma partikolari mhux ittrattati fil-kwalifiki tagħhom, il-Bord jista’ jeħtieġ lill-istudenti li jidħlu fil-Kors biex isegwu u jgħaddu minn taqsima/taqsimiet studju supplimentari li għalihom hemm assenjati mhux aktar minn 12-il krettu ECTS minbarra il-programm ta’ studju speċifikat fil-paragrafu (1) ta’ dan l-oridnament.
 
@@ -149,12 +123,6 @@ jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw id-dissertazzjoni b’
 ## 9. Superviżur.
 
 (1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
-
-TEACHING ENGLISH TO SPEAKERS OF OTHER
-
-LANGUAGES – M.A. - TAĦT IL-PATROĊINJU TAĊ- ĊENTRU TAL-LITTERIŻMI AKKADEMIĊI U L-ĦILIET FIL- [L.S.327.532 KOMUNIKAZZJONI BL-INGLIŻ
-
-*4*
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

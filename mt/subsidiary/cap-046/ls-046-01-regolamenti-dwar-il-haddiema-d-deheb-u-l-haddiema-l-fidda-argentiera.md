@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ħaddiema d-Deheb u l-Ħaddiema l-Fidda (Arġentiera)"
-identifier: "S.L. 46.1"
+identifier: "S.L. 46.01"
 eli: "https://legislation.mt/eli/sl/46.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/46.1/20210701/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ħaddiema d-Deheb u l-Ħaddiema l-Fidda (Arġentiera) (S.L. 46.1)
-
-*1*
-
-(ARĠENTIERA) [L.S.46.01
+# Regolamenti dwar il-Ħaddiema d-Deheb u l-Ħaddiema l-Fidda (Arġentiera) (S.L. 46.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 46.01**
 
@@ -96,11 +92,7 @@ Mingħajr preġudizzju għal xi regolament ieħor, il-boll ta’ garanzija tal-m
 
 (2) Minkejja kull dispożizzjoni oħra f’dawn ir-regolamenti l-boll ta’ garanzija tal-uffiċċju tal-Konslu fuq oġġetti tad-deheb u tal-fidda jkunu kif se jingħad:
 
-(a) fil-każ ta’ oġġetti tad-deheb li jkollhom standard ta’ finezza ta’ 916 jew 750, dak il-boll ta’ garanzija għandu jkun jikkonsisti f’marka tal-kuruna murali bi swar bid-dars b’pusterli u mdawwra bi tmien turretti ottagonali u fil-każ ta’ oġġetti tad-deheb li jkollhom standard ta’ finezza 585 jew 375, dak il-boll ta’ (ARĠENTIERA) [L.S.46.01
-
-garanzija għandu jkun jikkonsisti f’marka tat-tarka ta’ Malta; dawn il-marki għandhom iktar minn hekk ikunu minnufih segwiti b’numri maġenbhom li juru xi jkun l-istandard ta’ finezza adatt tat-taħlita tad-deheb;
-
-*3*
+(a) fil-każ ta’ oġġetti tad-deheb li jkollhom standard ta’ finezza ta’ 916 jew 750, dak il-boll ta’ garanzija għandu jkun jikkonsisti f’marka tal-kuruna murali bi swar bid-dars b’pusterli u mdawwra bi tmien turretti ottagonali u fil-każ ta’ oġġetti tad-deheb li jkollhom standard ta’ finezza 585 jew 375, dak il-boll ta’ garanzija għandu jkun jikkonsisti f’marka tat-tarka ta’ Malta; dawn il-marki għandhom iktar minn hekk ikunu minnufih segwiti b’numri maġenbhom li juru xi jkun l-istandard ta’ finezza adatt tat-taħlita tad-deheb;
 
 (b) l-imbollatura tal-oġġetti tal-fidda għandha tkun il-marka tas-salib ta’ Malta minnufih segwita b’numru maġenbu 959, 925, 830 jew 800 skond il-każ b’mod li jidher l-istandard ta’ finezza tat-taħlita tal-fidda;
 
@@ -166,11 +158,7 @@ jippreżenta l-oġġett ta’ metall prezzjuż li fiha dak il-manifattur jew pat
 
 ## 13. Tħaddim tar-riżultat tal-assaġġ tal-Konslu.
 
-(1) Ir-riżultat tal-assaġġ magħmul mill-Konslu fuq oġġett ta’ metall prezzjuż jew grupp ta’ tali oġġetti magħmul skond dawn ir-regolamenti għandu jkun ikkunsidrat bħala li japplika għall- (ARĠENTIERA) [L.S.46.01
-
-oġġetti kollha msemmija fil-Formola S fil-Ħames Skeda.
-
-*5*
+(1) Ir-riżultat tal-assaġġ magħmul mill-Konslu fuq oġġett ta’ metall prezzjuż jew grupp ta’ tali oġġetti magħmul skond dawn ir-regolamenti għandu jkun ikkunsidrat bħala li japplika għall-oġġetti kollha msemmija fil-Formola S fil-Ħames Skeda.
 
 (2) Bla ħsara għad-dispossizzjonijiet tar-regolament 2(4):
 
@@ -242,11 +230,7 @@ L-imbollar bil-boll ta’ garanzija tal-uffiċċju tal-Konslu għandu jkun soġ�
 
 (2) Meta tingħata marka awtorizzata tal-manifattur jew patrun mill-Konslu din:
 
-(a) ma tkunx tawtorizza lill-manifattur jew patrun li jimbolla l-boll ta’ garanzija tal-manifattur jew tal- (ARĠENTIERA) [L.S.46.01
-
-patrun;
-
-*7*
+(a) ma tkunx tawtorizza lill-manifattur jew patrun li jimbolla l-boll ta’ garanzija tal-manifattur jew tal-patrun;
 
 (b) ma għandhiex tkunx soġġetta għal xi ħlas;
 
@@ -310,21 +294,13 @@ Il-marki tal-manifattur mogħtija mill-Konslu skond id-dispożizzjonijiet tal-Or
 
 (3) L-oġġetti msemmija fis-subregolament (1) li jkunu nstabu mill-Konslu li jkunu konformi ma’ l-Att għandhom jingħataw lura lill-kustodju jew lis-sid tagħhom fl-istat li jkunu nstabu fih wara kull assaġġ li seta’ sar.
 
-(4) L-oġġetti msemmija fis-subregolament (1) li jinsabu mill- Konslu li ma jkunux konformi ma’ l-Att, għandhom jingħataw lill- Kummissarju tal-Pulizija fl-istat li jkun jinsabu wara l-eżamijiet imsemmija fis-subregolament (1), flimkien ma’ rapport li jindika kull raġuni għan-nuqqas ta’ konformità hawn qabel imsemmija.
-
-*9*
-
-(ARĠENTIERA) [L.S.46.01
-
-## 25. Prezz tal-metalli prezzjużi.
-
-*Emendat: A.L. 105 tal-2008; VII. 2021.13. Sostitwit: VII. 2021.13.*
-
-Il-prezzijiet uffiċjali tad-deheb u l-fidda għandhom ikunu bbażati fuq l-aħħar prezzijiet internazzjonali kif ippubblikati uffiċjalment mill-Bank Ċentrali ta’ Malta u kkonvertiti minn troy ounces għal grammi bl-użu tar-rata ta’ konverżjoni stabbilita fid- Direttiva 80/181/KEE.
+(4) L-oġġetti msemmija fis-subregolament (1) li jinsabu mill- Konslu li ma jkunux konformi ma’ l-Att, għandhom jingħataw lill- Kummissarju tal-Pulizija fl-istat li jkun jinsabu wara l-eżamijiet imsemmija fis-subregolament (1), flimkien ma’ rapport li jindika kull raġuni għan-nuqqas ta’ konformità hawn qabel imsemmija. 25. Il-prezzijiet uffiċjali tad-deheb u l-fidda għandhom ikunu bbażati fuq l-aħħar prezzijiet internazzjonali kif ippubblikati uffiċjalment mill-Bank Ċentrali ta’ Malta u kkonvertiti minn troy ounces għal grammi bl-użu tar-rata ta’ konverżjoni stabbilita fid- Direttiva 80/181/KEE.
 
 ## 26. Stima.
 
 (1) Il-Konslu għandu jistma oġġetti ta’ metall prezzjuż tad-deheb jew tal-fidda u għandu jibbaża l-istima fuq il-prezz tad-deheb u tal-fidda msemmi fir-regolament 25.
+
+*Prezz tal-metalli prezzjużi. Emendat: A.L. 105 tal-2008; VII. 2021.13. Sostitwit: VII. 2021.13.*
 
 (2) Il-Konslu għandu jistma bejn wieħed u ieħor l-oġġetti ta’ metall prezzjuż tad-deheb jew tal-fidda li jkun fihom djamanti jew ħaġar prezzjuż ieħor u għandu jibbaża l-istima tiegħu fuq il-prezz tad-deheb u tal-fidda msemmi fir-regolament 26 u fuq il-prezz tas-suq fid-data tal-istima.
 
@@ -402,8 +378,6 @@ Palladju 500
 
 999
 
-(ARĠENTIERA) [L.S.46.01 11
-
 ## IT-TIELET SKEDA — ID-DWAR TAL-MARKI TA’ FINEZZA FILL-BOLL TA’ GARANZIJA — TAL-MANIFATTUR JEW TAL-PATRUN AWTORIZZATI MILL-KONSLU
 
 ## 1.
@@ -445,8 +419,6 @@ Il-marki fil-boll ta’ garanzija tal-uffiċċju tal-Konslu għandhom ikunu kif 
 (3)
 
 **Għal oġġetti tal-fidda - Standard ta’ finezza 959, 925, 830, 800**
-
-(ARĠENTIERA) [L.S.46.01 13
 
 IL-ĦAMES SKEDA Emendata:
 
@@ -496,8 +468,6 @@ Numru ta’ Dokument ta’ Identifikazzjoni legalment validu jew tal- Passaport 
 
 Firma .................................. Data ............................................
 
-(ARĠENTIERA) [L.S.46.01 15
-
 ## IS-SITT SKEDA — FORMOLA Ċ
 
 Nru. ................................... Nota ta’ oġġetti miġbura mill-Konslu skond l-Att dwar il-Ħaddiema d-Deheb u l- Ħaddiema l-Fidda (Arġentiera).
@@ -534,9 +504,7 @@ VALUR
 
 DRITT IMĦALLAS
 
-Konslu għall-Ħaddlema d-Deheb u l-Ħaddiema l-Fidda (ARĠENTIERA) [L.S.46.01 17
-
-IT-TMIEN SKEDA Sostitwita:
+Konslu għall-Ħaddlema d-Deheb u l-Ħaddiema l-Fidda IT-TMIEN SKEDA Sostitwita:
 
 A.L. 407 tal-2007.
 

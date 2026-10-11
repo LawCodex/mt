@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Proċeduri għal-Liċenzi tal-Pulizija"
-identifier: "S.L. 128.4"
+identifier: "S.L. 128.04"
 eli: "https://legislation.mt/eli/sl/128.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/128.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Proċeduri għal-Liċenzi tal-Pulizija (S.L. 128.4)
+# Regolamenti dwar Proċeduri għal-Liċenzi tal-Pulizija (S.L. 128.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 128.04**
 

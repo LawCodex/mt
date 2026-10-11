@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Kreditu ta’Taxxa li jingħata lil Persuni li Jirritornaw għal Impjieg (S.L. 123.81)
 
-*1*
-
-LI JIRRITORNAW GĦAL IMJIEG [L.S.123.81
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.81**
 
 **REGOLI DWAR KREDITU TA’ TAXXA LI**
@@ -53,11 +49,7 @@ Dawn ir-regoli japplikaw f’xi wieħed minn dawn il-każi:
 
 ## 3. Kreditu ta’ taxxa. Emendata: A.L. 4 tal-2006; A.L. 409 tal-2007; A.L. 104 tal-2009; A.L. 208 tal-2014; A.L. 316 tal-2016. Kap. 123.
 
-(1)(a) Kull persuna li dwarha tapplika r-regola 2, inkluża mara miżżewġa li hi jew ir-raġel tagħha jkunu għażlu li jkollhom komputazzjoni separata għall-iskopijiet ta’ l-artikolu 50 ta’ l-Att dwar it-Taxxa fuq l-Income, hawnhekk iżjed ’il quddiem imsejjaħ "l-Att", u li tkun taxxabbli bir-rati msemmija fl-artikolu 56(1)(b) ta’ l- LI JIRRITORNAW GĦAL IMJIEG
-
-Att, għandha tgawdi minn kreditu ta’ taxxa ta’ elfejn euro (€2,000) li jingħata permezz ta’ tpaċija kontra t-taxxa fuq il-qligħ jew profitti minn dak l-impjieg:
-
-*[L.S.123.81 2*
+(1)(a) Kull persuna li dwarha tapplika r-regola 2, inkluża mara miżżewġa li hi jew ir-raġel tagħha jkunu għażlu li jkollhom komputazzjoni separata għall-iskopijiet ta’ l-artikolu 50 ta’ l-Att dwar it-Taxxa fuq l-Income, hawnhekk iżjed ’il quddiem imsejjaħ "l-Att", u li tkun taxxabbli bir-rati msemmija fl-artikolu 56(1)(b) ta’ l- Att, għandha tgawdi minn kreditu ta’ taxxa ta’ elfejn euro (€2,000) li jingħata permezz ta’ tpaċija kontra t-taxxa fuq il-qligħ jew profitti minn dak l-impjieg:
 
 Iżda fil-każ ta’ applikabilità taħt ir-regola 2(b) jew 2(ċ), mara tgawdi minn kreditu ta’ taxxa kif hawn qabel imsemmi għal kull wild kif imsemmi fir-regola 2.
 
@@ -79,11 +71,7 @@ Iżda fil-każ ta’ applikabilità taħt ir-regola 2(b) jew 2(ċ), mara tgawdi 
 
 (b) Il-kreditu ta’ taxxa msemmi jista’ jitgawda tul perijodu ta’ sentejn ta’ stima konsekuttivi li jibdew għaddejin mis-sena ta’ stima illi matulha jkun seħħ ir-ritorn għal impjieg:
 
-Iżda fil-każ ta’ mara li tikkwalifika taħt ir-regola 2(b) LI JIRRITORNAW GĦAL IMJIEG [L.S.123.81
-
-jew 2(ċ), il-kreditu ta’ taxxa jista’ jitgawda tul numru ta’ snin konsekuttivi li ma jeċċedux in-numru ta’ tfal u waħda, u li f’kull każ ma jaqbiżx l-€2,000 fis-sena:
-
-*3*
+Iżda fil-każ ta’ mara li tikkwalifika taħt ir-regola 2(b) jew 2(ċ), il-kreditu ta’ taxxa jista’ jitgawda tul numru ta’ snin konsekuttivi li ma jeċċedux in-numru ta’ tfal u waħda, u li f’kull każ ma jaqbiżx l-€2,000 fis-sena:
 
 Iżda wkoll li meta mara tkun qiegħda tgawdi minn kreditu ta’ taxxa kif imsemmi hawn qabel wara li tkun ikkwalifikat taħt ir-regola 2(a) jew 2(b) u ssir intitolata għal kreditu ta’ taxxa ieħor taħt ir-regola 2(ċ), il-kreditu ta’ taxxa ġdid għandu jibda fl-aħħar sena li fiha l-kreditu ta’ taxxa taħt ir-regola 2(a) jew 2(b) ikun jista’ jitgawda iżda dan m’għandux jaqbeż l-€2,000 f’xi sena waħda:
 
@@ -112,10 +100,6 @@ Iżda wkoll fil-każ ta’ mara li dwarha tapplika r-regola 2(ċ) u li rritornat
 ## 5. Kjarifika tal-applikabilità. Miżjuda: A.L. 208 tal-2014.
 
 (1) Ir-regola 2(b) jew (ċ) tapplika wkoll f’każ ta’ tfal adottati.
-
-**LI JIRRITORNAW GĦAL IMJIEG**
-
-*[L.S.123.81 4*
 
 *(2)*
 

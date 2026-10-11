@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (2001) (S.L. 261.24)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (2001) [ L.S.261.24
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.24**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -101,7 +99,7 @@ tal-Bini tal-Gvern Tar-Rabbat, }amrun (Tenement No. 66662 - H.A. 308/99).
 
 (22) Dar bin-numru 15 (qabel kien numru 7), Triq il-Peprin, Qasam tal-Bini tal-Gvern, Santa Lu`ija (Tenement No. 66560 - H.A. 498/99).
 
-(23) Flat numru 12, Blokk F, Triq il-Peprin, Qasam tal-Bini (TRASFERIMENT TA’ PROPRJETÀ) (2001) [ L.S.261.24 tal-Gvern, Santa Lu`ija (Tenement No. 70915 - H.A. 34/99).
+(23) Flat numru 12, Blokk F, Triq il-Peprin, Qasam tal-Bini tal-Gvern, Santa Lu`ija (Tenement No. 70915 - H.A. 34/99).
 
 (24) Flat numru 8, Blokk VI, Triq il-{nien, Qasam tal-Bini tal-Gvern, Santa Lu`ija (Tenement No. 64027 - H.A. 489/99).
 
@@ -167,7 +165,7 @@ B’se]] mit-22 ta’ Marzu, 2001:
 
 (12) Flat numru 2, Blokk C-2, Triq il-Plane`, Ta’ Mlit, Qasam tad-Djar tal-Gvern, Mosta (Tenement No. 72386 - H.A. 11/99).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (2001) [ L.S.261.24 (13) Flat numru 1, Blokk C-1, Bieb B, Triq il-Plane`, Ta’ Mlit, Qasam tad-Djar tal-Gvern, Mosta (Tenement No. 72379 - H.A. 165/99).
+(13) Flat numru 1, Blokk C-1, Bieb B, Triq il-Plane`, Ta’ Mlit, Qasam tad-Djar tal-Gvern, Mosta (Tenement No. 72379 - H.A. 165/99).
 
 (14) Flat numru 6, Blokk D-2, Triq l-Istiratur, Ta’ Mlit, Qasam tad-Djar tal-Gvern, Mosta (Tenement No. 70847 - H.A. 28/99).
 
@@ -233,7 +231,7 @@ Ta’ L-Istabal, Qasam tad-Djar tal-Gvern, Qormi (Tenement No. 64258 - H.A. 19/9
 
 (44) Flat numru 5, Da]la L, Binja Binarju, Triq Psaila, Pro[ett ta’ Djar tal-Gvern, Santa Venera (Tenement No. 76477 - H.A. 547/99).
 
-(45) Flat numru 8, Blokk 3, Bieb B, Triq Ramija, Qasam (TRASFERIMENT TA’ PROPRJETÀ) (2001) [ L.S.261.24 tad-Djar tal-Gvern, Si[[iewi (Tenement No. 68740 - H.A. 485/99).
+(45) Flat numru 8, Blokk 3, Bieb B, Triq Ramija, Qasam tad-Djar tal-Gvern, Si[[iewi (Tenement No. 68740 - H.A. 485/99).
 
 (46) Flat numru 1, Blokk C1, Triq il-Prin`ipessa Margerita, Qasam tad-Djar tal-Gvern, Ta’ Xbiex (Tenement No. 69192 - H.A. 202/97).
 
@@ -277,7 +275,7 @@ a``essibbli minn bieb intern bin-numru minn 1 sa 10 b’entratura komuni mag]ruf
 
 (5) Bi``a art tal-kejl ta’ madwar 175.64 metru kwadru, mag]rufa b]ala Plot Nru. 16 fi Blokk I fi Triq Tal- }amrija u li tag]mel parti mill-Qasam tal-Bini tal- Gvern Tal-}amrija, limiti tax-Xewkija, G]awdex, li tmiss mill-Majjistral ma’ proprjetà ta’ Mary Rita Cassar, mix-Xlokk ma’ proprjetà ta’ John Azzopardi, u mil-Lbi` ma’ Triq Tal-}amrija, li fuqha hemm mibni l-fond bin-numru l7, Triq Tal-}amrija, Xewkija, G]awdex, u tinsab delineata bl-a]mar u mmarkata P. 16 fuq L.D. 19/97. (HAP 1/2000).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (2001) [ L.S.261.24 (6) Flat numru 7, Blokk C3, Triq Fonsu Marija Galea, Ta’ Paris, Birkirkara (Tenement No. 66970 - H.A. 526/99). (7) Flat numru 1, Blokk B, Qasam tad-Djar tal-Gvern, Bir\\ebbu[a (Tenement No. 69060 - H.A. 45/2000). (8) Flat numru 2, Blokk G, Triq il-Jum, Marsa (Tenement No. 71024 - H.A. 532/99).
+(6) Flat numru 7, Blokk C3, Triq Fonsu Marija Galea, Ta’ Paris, Birkirkara (Tenement No. 66970 - H.A. 526/99). (7) Flat numru 1, Blokk B, Qasam tad-Djar tal-Gvern, Bir\\ebbu[a (Tenement No. 69060 - H.A. 45/2000). (8) Flat numru 2, Blokk G, Triq il-Jum, Marsa (Tenement No. 71024 - H.A. 532/99).
 
 (9) Flat numru 2, Blokk A5, Triq il-G\\ari, Ta’ Mlit, Mosta (Tenement No. 70789 - H.A. 520/99).
 
@@ -341,6 +339,6 @@ B’se]] mit-8 ta’ Ottubru, 2001:
 
 (2) Bi``a art tal-kejl ta’ madwar 122.95 metru kwadru, mag]rufa b]ala Plot Nru. 114 fi Triq il-Gladjoli, u li tag]mel parti mill-Qasam tal-Bini tal-Gvern (Neighbourhood II) San {wann, limiti ta’ San {wann, li tmiss min-Nofsinhar ma’ Triq il-Gladjoli, mil-Lvant ma’ proprjetà ta’ A. Cassar, u mil-Punent ma’ proprjetà ta’ E. Attard Kingswell, li fuqha hemm mibni l-fond b’Tenement Nru 65561, Plot 114 mag]ruf b]ala "Jocare", Triq il-Gladjoli, San {wann u li tinsab delineata bl-a]mar u mmarkata P. 114 fuq L.D. 128/ 80/19. (HAP 4/2000).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (2001) [ L.S.261.24 (3) Garage bin-numru 8, sottostanti proprjetà tal-Gvern (flats) f’Entratura E, u li tag]mel parti minn blokk bini mag]ruf b]ala Binja Vista (Blokk 2) fi Triq il-Konti G. A. Ciantar, Birkirkara, trasferit bl-Avvi\\ Legali Nru. 154/2000. L-imsemmi garage huwa a``essibbli minn bieb estern numru 8 fl-imsemmi blokk u jmiss mil-Lvant ma’ Triq il-Konti G. A. Ciantar, u mit- Tramuntana u Nofsinhar ma’ proprjetà tal-Gvern, u jinsab delineat bl-a]mar fuq P.D. 184/92/6. (HAM 11/ 89 vol. ii).
+(3) Garage bin-numru 8, sottostanti proprjetà tal-Gvern (flats) f’Entratura E, u li tag]mel parti minn blokk bini mag]ruf b]ala Binja Vista (Blokk 2) fi Triq il-Konti G. A. Ciantar, Birkirkara, trasferit bl-Avvi\\ Legali Nru. 154/2000. L-imsemmi garage huwa a``essibbli minn bieb estern numru 8 fl-imsemmi blokk u jmiss mil-Lvant ma’ Triq il-Konti G. A. Ciantar, u mit- Tramuntana u Nofsinhar ma’ proprjetà tal-Gvern, u jinsab delineat bl-a]mar fuq P.D. 184/92/6. (HAM 11/ 89 vol. ii).
 
 (4) Bi``a art tal-kejl ta’ madwar 282.4 metru kwadru li tag]mel parti mill-Qasam tal-Bini tal-Gvern tal-Fgura, limiti tal-Fgura, li tmiss mit-Tramuntana ma’ proprjetà ta’ Paul Gatt, min-Nofsinhar ma’ Triq Mahatma Ghandi, u mil-Lvant ma’ Triq is-Sur, li jinsab delineat bl-a]mar fuq P.D. 151/83/4. (HAM 1932/78A).

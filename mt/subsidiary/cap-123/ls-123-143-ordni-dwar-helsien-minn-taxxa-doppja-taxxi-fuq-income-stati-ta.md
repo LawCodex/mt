@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq Income) (Stati ta’ Guernsey) (S.L. 123.143)
 
-*1*
-
-(TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY) [L.S.123.143
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.143**
 
 **ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA**
@@ -44,8 +40,6 @@ B’dan qiegћed jiġi dikjarat:
 (ċ) illi l-Ftehim beda jseћћ fil-10 ta’ Marzu 2013.
 
 \*https://cfr.gov.mt/en/inlandrevenue/itu/Documents/Malta%20-%20Guern-sey%20DTA%20(synthesised%20text).pdf
-
-2 [L.S.123.143 (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY)
 
 ## SKEDA — Artikolu 2 — FTEHIM BEJN
 
@@ -109,9 +103,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 (a) il-frażi "Guernsey" tfisser l-Istati ta’ Guernsey u, meta tiġi użata f’sens ġeografiku, tfisser Guernsey, Alderney u Herm, inkluż il-baħar territorjali adjaċenti ma’ dawk il-gżejjer, skont id-dritt internazzjonali;
 
-(b) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiġi użata f’sens (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY) [L.S.123.143 3
-
-ġeografiku, tfisser il-gżira ta’ Malta, il-gżira ta’ Gћawdex u l-gżejjer l-oћra tal-arċipelagu Malti inklużi l-ibћra territorjali tagћhom, kif ukoll kull area ta’ qiegћ il-baћar, is-sottoswol tiegћu u l-kolonna ta’ baћar sovrajaċenti li tinsab adjaċenti mal-ibћra territorjali, li fihom Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew kontroll skont id-dritt internazzjonali u d-dritt nazzjonali tagћha, inkluża l-leġislazzjoni tagћha gћar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagћha;
+(b) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiġi użata f’sens ġeografiku, tfisser il-gżira ta’ Malta, il-gżira ta’ Gћawdex u l-gżejjer l-oћra tal-arċipelagu Malti inklużi l-ibћra territorjali tagћhom, kif ukoll kull area ta’ qiegћ il-baћar, is-sottoswol tiegћu u l-kolonna ta’ baћar sovrajaċenti li tinsab adjaċenti mal-ibћra territorjali, li fihom Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew kontroll skont id-dritt internazzjonali u d-dritt nazzjonali tagћha, inkluża l-leġislazzjoni tagћha gћar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagћha;
 
 (ċ) il-frażi "skema ta’ investiment kollettiv" tfisser kull vettura ta’ investiment miġmugħ, irrispettivament mil-forma legali tiegħu;
 
@@ -142,8 +134,6 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 (j) il-frażi "persuna" tinkludi individwu, skema ta’ investiment kolletiv, kumpannija u kull korp ieћor ta’ persuni.
 
 \2. Dwar l-applikazzjoni tal-Ftehim f’kull żmien minn Parti, kull frażi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra, it-tifsira mogћtija lilha li jkollha f’dak il-waqt taћt il-liġi ta’ dik il-Parti gћall-finijiet tat-taxxi li dwarhom ikun japplika l-Ftehim, hekk li kull tifsira taħt il-liġijiet tat-taxxa li jkunu japplikaw ta’ dik il-Parti tkun tipprevali fuq tifsira mogћtija lil dik il-frażi taћt liġijiet oћra ta’ dik il-Parti.
-
-4 [L.S.123.143 (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY)
 
 **Artikolu 4**
 
@@ -187,9 +177,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 ## 4.
 
-Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY) [L.S.123.143 5
-
-"stabbiliment permanenti" gћandha titqies li ma tinkludix:
+Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbiliment permanenti" gћandha titqies li ma tinkludix:
 
 (a) l-użu ta’ faċilitajiet bl-iskop uniku ta’ ħżin, wiri jew tqassim ta’ oġġetti jew merkanzija li jkunu jappartjenu lill-impriża;
 
@@ -223,9 +211,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Parti tkun tikkontrolla jew tkun k
 
 \2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi tal-Parti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, gћejjun u riżorsi naturali oћra; vapuri, bastimenti u inġenji tal-ajru ma gћandhomx jitqiesu bћala proprjetà immobbli.
 
-\3. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw gћal income li jinkiseb mill-użu dirett, il-kiri, jew l-użu b’kull mod ieћor ta’ proprjetà immobbli. 6 [L.S.123.143 (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY)
-
-\4. Id-dispożizzjonijiet tal-paragrafi 1 u 3 gћandhom japplikaw ukoll gћal income minn proprjetà immobbli ta’ impriża.
+\3. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw gћal income li jinkiseb mill-użu dirett, il-kiri, jew l-użu b’kull mod ieћor ta’ proprjetà immobbli. 4. Id-dispożizzjonijiet tal-paragrafi 1 u 3 gћandhom japplikaw ukoll gћal income minn proprjetà immobbli ta’ impriża.
 
 **Artikolu 7**
 
@@ -255,9 +241,7 @@ Meta l-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegћdin jiġu tr
 
 \2. Gћall-finijiet ta’ dan l-Artikolu, il-profitti li jinkisbu mit-tћaddim fi traffiku internazzjonali ta’ bastimenti jew inġenji tal-ajru jinkludu profitti:
 
-(a) li jinkisbu mill-kiri ta’ bastimenti jew inġenji tal-ajru jekk dawn il-bastimenti jew inġenji tal-ajru jitћaddmu fi traffiku internazzjonali; u (b) li jinkisbu mill-użu, manutenzjoni jew kiri ta’ containers (inklużi (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY) [L.S.123.143 7
-
-trailers u tagћmir li gћandu x’jaqsam magћhom gћat-trasport ta’ containers) użati gћat-trasport ta’ oġġetti u merkanzija,
+(a) li jinkisbu mill-kiri ta’ bastimenti jew inġenji tal-ajru jekk dawn il-bastimenti jew inġenji tal-ajru jitћaddmu fi traffiku internazzjonali; u (b) li jinkisbu mill-użu, manutenzjoni jew kiri ta’ containers (inklużi trailers u tagћmir li gћandu x’jaqsam magћhom gћat-trasport ta’ containers) użati gћat-trasport ta’ oġġetti u merkanzija,
 
 meta dawk il-profitti li jsiru mill-kiri jew profitti li jsiru minn dak l-użu, manutenzjoni jew kiri, skont il-każ, ikunu inċidentali gћall-profitti deskritti fil-paragrafu 1.
 
@@ -287,9 +271,7 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriż
 
 \3. Il-frażi "dividendi" skont ma tintuża f’dan l-Artikolu tfisser income minn ishma, jew jeddijiet oћra, li ma jkunux pretensjonijiet ta’ debitu, li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess trattament dwar it-taxxa bћallikieku kien income minn ishma skont il-liġijiet tal- Parti fejn tkun residenti l-kumpannija li tkun qegћda tagћmel it-tqassim.
 
-\4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Parti, ikun imexxi negozju fil- Parti l-oћra li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk u l-holding li dwarhom jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti. F’dak 8 [L.S.123.143 (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY)
-
-il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 ta’ dan il-Ftehim.
+\4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Parti, ikun imexxi negozju fil- Parti l-oћra li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk u l-holding li dwarhom jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 ta’ dan il-Ftehim.
 
 \6. Meta kumpannija li tkun residenti ta’ Parti tikseb profitti jew income mill- Parti l-oћra, dik il-Parti l-oћra ma tista’ timponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dik il- Parti l-oћra jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dik il-Parti l-oћra, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dik il-Parti l-oћra.
 
@@ -313,9 +295,7 @@ il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 ta’ dan il-Ft
 
 \1. Royalties li jinqalgћu f’Parti u li jitħallsu lil residenti tal-Parti l-oћra għandhom jiġu intaxxati biss f’dik il-Parti l-oћra.
 
-\2. Il-frażi "royalties" skont ma tintuża f’dan l-Artikolu tfisser ћlasijiet ta’ kull xorta li jsiru b’korrispettiv gћall-użu ta’, jew gћall-jedd tal-użu, ta’ kull dritt tal-awtur ta’ xogћol letterarju, artistiku jew xjentifik inklużi films ċinematografiċi, kull (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY) [L.S.123.143 9
-
-privattiva, trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, jew gћal informazzjoni dwar konoxxenza industrijali, kummerċjali jew xjentifika.
+\2. Il-frażi "royalties" skont ma tintuża f’dan l-Artikolu tfisser ћlasijiet ta’ kull xorta li jsiru b’korrispettiv gћall-użu ta’, jew gћall-jedd tal-użu, ta’ kull dritt tal-awtur ta’ xogћol letterarju, artistiku jew xjentifik inklużi films ċinematografiċi, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, jew gћal informazzjoni dwar konoxxenza industrijali, kummerċjali jew xjentifika.
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Parti, ikun qed imexxi negozju fil-Parti l-oћra fejn jinqalgћu r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ gћandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7.
 
@@ -341,9 +321,7 @@ privattiva, trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, 
 
 **INCOME MINN IMPJIEG**
 
-\1. Bla ћsara gћad-dispożizzjonijiet tal-Artikoli 15, 17 u 18, is-salarji, il-pagi u kull kumpens ieћor li jinkisbu minn residenti ta’ Parti dwar xi impjieg gћandhom jiġu intaxxati biss f’dik il-Parti kemm-il darba l-impjieg ma jiġix eżerċitat fil-Parti l-oћra. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb mill-impjieg jista’ 10 [L.S.123.143 (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY)
-
-jiġi intaxxat f’dik il-Parti l-oћra.
+\1. Bla ћsara gћad-dispożizzjonijiet tal-Artikoli 15, 17 u 18, is-salarji, il-pagi u kull kumpens ieћor li jinkisbu minn residenti ta’ Parti dwar xi impjieg gћandhom jiġu intaxxati biss f’dik il-Parti kemm-il darba l-impjieg ma jiġix eżerċitat fil-Parti l-oћra. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb mill-impjieg jista’ jiġi intaxxat f’dik il-Parti l-oћra.
 
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Parti dwar xi impjieg li jkun eżerċitat fil-Parti l-oћra gћandu jiġi intaxxat biss fil-Parti l-ewwel imsemmija jekk:
 
@@ -381,9 +359,7 @@ Pensjonijiet u kull kumpens ieħor bħalhom (inkluż pagamenti ta’ somma f’d
 
 \1. (a) Salarji, pagi u kull kumpens ieħor bћal dawk, imћallsin minn Parti jew minn sottodiviżjoni politika jew minn korp statutorju jew minn awtorità lokali tagћha lil xi individwu gћar-rigward ta’ servizzi mogћtijin lil dik il-Parti jew sottodiviżjoni jew korp jew awtorità gћandhom jiġu intaxxati biss f’dik il-Parti.
 
-(b) Madankollu, kull salarju, paga u kumpens ieћor bћal dawk gћandhom (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY) [L.S.123.143 11
-
-jiġu intaxxati biss f’dik il-Parti l-oћra jekk is-servizzi jingћataw f’dik il-Parti u l-individwu jkun residenti f’dik il-Parti u:
+(b) Madankollu, kull salarju, paga u kumpens ieћor bћal dawk gћandhom jiġu intaxxati biss f’dik il-Parti l-oћra jekk is-servizzi jingћataw f’dik il-Parti u l-individwu jkun residenti f’dik il-Parti u:
 
 (i) ikun ċittadin ta’ dik il-Parti; jew
 
@@ -421,8 +397,6 @@ Bla ħsara għal dispożizzjonijiet tal-liġijiet ta’ Guernsey dwar l-għoti t
 
 \2. Fil-każ ta’ Malta, it-taxxa doppja gћandha tiġi eliminata kif ġej:
 
-12 [L.S.123.143 (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY)
-
 Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla li jingћata kreditu gћat-taxxa ta’ Malta dwar it-taxxa barranija, meta, skont id-dispożizzjonijiet ta’ dan il-Ftehim, jiġi inkluż fi stima li ssir Malta, income minn gћejjun ġewwa Guernsey, it-taxxa ta’ Guernsey fuq dak l-income gћandha titћalla li tingћata bћala kreditu gћat-taxxa relattiva ta’ Malta li titћallas fuqha.
 
 **Artikolu 22**
@@ -445,9 +419,7 @@ Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla 
 
 \1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wieħed jew taż-żewġ Partijiet jirriżultawlha jew jistgћu jirriżultawlha f ’taxxa li ma tkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim, hi tista’, irrispettivament mir-rimedji provduti mil-liġi domestika ta’ dawk il-Partijiet, tippreżenta l-każ tagħha quddiem l-awtorità kompetenti tal-Parti fejn hija tkun residenti jew, jekk il-każ tagћha jkun jaqa’ taћt il-paragrafu 1 tal-Artikolu 22, quddiem dik tal-Parti li hija tkun nazzjonali tagћha. Il-każ gћandu jiġi ppreżentat fi żmien tliet snin minn l-ewwel avviż tal-azzjoni li tirriżulta f’taxxa li ma tkunx skont id-dispożizzjonijiet tal-Ftehim.
 
-\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Parti l-oћra, bil-gћan li tiġi evitata taxxa li ma tkunx skont il-Ftehim. Kull ftehim li (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY) [L.S.123.143 13
-
-jintlaћaq gћandu jiġi implimentat minkejja kull skadenza ta’ terminu fil-liġi domestika tal-Partijiet.
+\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Parti l-oћra, bil-gћan li tiġi evitata taxxa li ma tkunx skont il-Ftehim. Kull ftehim li jintlaћaq gћandu jiġi implimentat minkejja kull skadenza ta’ terminu fil-liġi domestika tal-Partijiet.
 
 \3. L-awtoritajiet kompetenti tal-Partijiet gћandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jistgħu joriġinaw dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgћu wkoll jikkonsultaw flimkien dwar l-eliminazzjoni ta’ taxxa doppja f’dawk il-każijiet li ma jkun hemm provdut xejn dwarhom fil-Ftehim.
 
@@ -471,9 +443,7 @@ jintlaћaq gћandu jiġi implimentat minkejja kull skadenza ta’ terminu fil-li
 
 \4. Jekk tintalab xi informazzjoni minn Parti skont dan l-Artikolu, il-Parti l-oħra għandha tuża l-mezzi li jkollha għall-ġbir tal-informazzjoni biex tikseb l-informazzjoni mitluba, ukoll jekk dik il-Parti l-oћra tista’ ma jkollhiex bżonn dik l-informazzjoni għall-finijiet tagħha ta’ ġbir ta’ taxxa. L-obbligazzjoni li tinsab fis-sentenza ta’ qabel hija soġġetta għal-limitazzjonijiet tal-paragrafu 3 iżda f’ebda każ ma għandhom dawk il-limitazzjonijiet jiftiehmu bħala li jħallu lil xi Parti li tonqos milli tagħti xi informazzjoni biss għaliex ma jkollha ebda interess domestiku f’dik l-informazzjoni.
 
-\5. F’ebda każ ma gћandhom id-dispożizzjonijiet tal-paragrafu 3 jiftiehmu bћala li jħallu lil Parti tirrifjuta milli tipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja 14 [L.S.123.143 (TAXXI FUQ L-INCOME) (STATI TA’ GUERNSEY)
-
-oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’kapaċità ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetá ta’ xi persuna.
+\5. F’ebda każ ma gћandhom id-dispożizzjonijiet tal-paragrafu 3 jiftiehmu bћala li jħallu lil Parti tirrifjuta milli tipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’kapaċità ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetá ta’ xi persuna.
 
 **Artikolu 25**
 

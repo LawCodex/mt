@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordnijiet Permanenti tal-Bord dwar il-Professjonijiet Supplimentari għall-Mediċina (S.L. 94.18)
 
-*1*
-
-SUPPLIMENTARI GĦALL-MEDIĊINA [L.S.94.18
-
 **LEĠISLAZZJONI SUSSIDJARJA 94.18**
 
 **ORDNIJIET PERMANENTI TAL-BORD**
@@ -143,10 +139,6 @@ Min jissekonda mozzjoni jew emenda jista’ jirriżerva li jitkellem f’kull ż
 
 Jekk emenda tiġi proposta, għandha tiġi deċiżaa qabel ma titressaq xi emenda oħra.
 
-*3*
-
-SUPPLIMENTARI GĦALL-MEDIĊINA [L.S.94.18
-
 #### 20. Ħelsien ta’ mozzjonijiet emendanti.
 
 L-emenda għandha l-ewwel titqiegħed għall-voti u, jekk ma tiġix approvata, tista’ titressaq emenda oħra u għandha tiġi deċiża bl-istess mod bħal l-ewwel emenda u jista’ jsir hekk sakemm ma jkunux proposti emendi oħra.
@@ -242,10 +234,6 @@ Il-Bord jista’ jinnomina kif jidhirlu meħtieġ kumitati speċjali u kumitati 
 #### 37. Il-proċeduri għandhom jitqiesu bħala sigrieti.
 
 Il-proċeduri kollha tal-Bord u tal-kumitat tiegħu għandhom jitqiesu bħala sigrieti. Iżda l-Bord jista’ joħroġ dikjarazzjonijiet u direttivi kif jidhirlu xieraq minn żmien għal żmien.
-
-*5*
-
-SUPPLIMENTARI GĦALL-MEDIĊINA [L.S.94.18
 
 ## TAQSIMA IV — Reġistri u Reġistrazzjonijiet
 
@@ -349,11 +337,7 @@ Bla ħsara għal kull ordnijiet li jista’ jagħti l-Bord, għandhom jintbagħt
 
 *Kap. 31.*
 
-(3) Wara li tiġi kunsidrata l-applikazzjoni, il-Bord jista’, jekk jidhirlu xieraq, b’riżoluzzjoni magħmula mis-Sedja, jordna lir- Reġistratur li jneħħi, u r-Reġistratur għandu wara dan ineħħi, l- SUPPLIMENTARI GĦALL-MEDIĊINA [L.S.94.18
-
-isem ta’ 1-applikant mir-reġistru.
-
-*7*
+(3) Wara li tiġi kunsidrata l-applikazzjoni, il-Bord jista’, jekk jidhirlu xieraq, b’riżoluzzjoni magħmula mis-Sedja, jordna lir- Reġistratur li jneħħi, u r-Reġistratur għandu wara dan ineħħi, l-isem ta’ 1-applikant mir-reġistru.
 
 (4) Jekk tkun ordnata t-tneħħija, id-deċiżjoni tal-Bord għandha minnufih tiġi notifikata mir-Reġistratur lill-applikant b’ittra indirizzata fl-indirizz tiegħu reġistrat jew l-aħħar magħruf.
 
@@ -417,11 +401,9 @@ Reġistrazzjoni reġistrazzjoni u Kwalifiki Addizzjonali
 
 ................... ...................
 
-...................... ... ... ..................... ......................... SUPPLIMENTARI GĦALL-MEDIĊINA [L.S.94.18
+...................... ... ... ..................... .........................
 
 ## IT-TIENI SKEDA
-
-*9*
 
 (Ordni permanenti 41)
 
@@ -496,10 +478,6 @@ Siġill BORD DWAR IL-PROFESSJONIJIET SUPPLIMENTARI
 GĦALL-MEDIĊINA - MALTA
 
 REĠISTRATUR
-
-*11*
-
-SUPPLIMENTARI GĦALL-MEDIĊINA [L.S.94.18
 
 **IR-RABA’ SKEDA**
 

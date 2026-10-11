@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Postgraduate Diploma in Social Work - P.G. Dip. S.W (S.L. 327.143)
 
-[ L.S.327.143
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.143**
 
 **REGOLAMENTI TAL-KORS G}ALL-**
@@ -101,7 +99,7 @@ Psikopatolo[ija I.
 
 (4) Katalogu ta’ taqsimiet studju, bin-numru tal-kredti assenjati g]al kull taqsima studju, g]andu jkun ippubblikat mill- Bord qabel il-bidu tal-kors. Taqsima studju tista’ tinkludi, jew tikkonsisti kollha, pjazzamenti pratti`i valutati fejn xieraq. L-istudenti li jie]du taqsima studju b]al din jistg]u jkunu me]tie[a jiktbu rapporti fuq il-pjazzament prattiku. Il-katalogu g]andu jinkludi wkoll il-metodu ta’ valutazzjoni g]al kull taqsima studju, u liema taqsimiet studju huma pre-rekwi\\iti, obbligatorji jew g]andhom jittie]du flimkien.
 
-(5) L-istudenti li jistg]u juru li temmew b’su``ess taqsima studju jew iktar, ekwivalenti g]al dawk li jiffurmaw parti minn dan il-kors, jistg]u japplikaw g]al e\\enzjoni, i\\da l-istudenti [ L.S.327.143 m’g]andhomx ikunu e\\entati minn iktar minn 20% tal-kredti me]tie[a g]all-kors.
+(5) L-istudenti li jistg]u juru li temmew b’su``ess taqsima studju jew iktar, ekwivalenti g]al dawk li jiffurmaw parti minn dan il-kors, jistg]u japplikaw g]al e\\enzjoni, i\\da l-istudenti m’g]andhomx ikunu e\\entati minn iktar minn 20% tal-kredti me]tie[a g]all-kors.
 
 (6) }lief bil-permess tal-Bord, l-istudenti ma jistg]ux jie]du ]lief bil-permess tal-Bord taqsima studju li g]aliha m’g]andhomx il-pre-rekwi\\iti jew jie]du taqsima studju ming]ajr ma jie]du wkoll it-taqsimiet studju li g]andhom jittie]du flimkien skond kif av\\at.
 

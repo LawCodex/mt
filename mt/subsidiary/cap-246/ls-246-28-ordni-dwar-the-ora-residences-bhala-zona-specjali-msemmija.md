@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar The ORA Residences bħala Żona Speċjali Msemmija (S.L. 246.28)
 
-*1*
-
-BĦALA ŻONA SPEĊJALI MSEMMIJA [L.S. 246.28
-
 **LEĠISLAZZJONI SUSSIDJARJA 246.28**
 
 **ORDNI DWAR THE ORA RESIDENCES**
@@ -39,7 +35,3 @@ The ORA Residences, li tikkonsisti fi proprjetà immobbli li tinsab fiż-żona d
 ## 3. Żieda mal-Ewwel Skeda li tinsab mal-Att. Kap. 246.
 
 The ORA Residences għandha tiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni Mhux Residenti.
-
-*2*
-
-[L.S. 246.28 BĦALA ŻONA SPEĊJALI MSEMMIJA

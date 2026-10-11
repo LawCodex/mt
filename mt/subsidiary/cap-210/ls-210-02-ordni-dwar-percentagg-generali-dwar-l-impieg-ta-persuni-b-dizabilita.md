@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Perċentaġġ Ġenerali dwar l-Impieg ta' Persuni b'Diżabilità"
-identifier: "S.L. 210.2"
+identifier: "S.L. 210.02"
 eli: "https://legislation.mt/eli/sl/210.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/210.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Perċentaġġ Ġenerali dwar l-Impieg ta' Persuni b'Diżabilità (S.L. 210.2)
-
-PER~ENTA{{ {ENERALI DWAR
-
-L-IMPIEG TA’ PERSUNI B’DI|ABILITÀ [ L.S.210.02
+# Ordni dwar Perċentaġġ Ġenerali dwar l-Impieg ta' Persuni b'Diżabilità (S.L. 210.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 210.02**
 

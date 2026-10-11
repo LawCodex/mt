@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Lifelong Career Guidance and Development taħt il-patroċinju taċ-Ċentru ta’ Studji dwar ix-Xogħol u tal-Fakultà tal-Edukazzjoni (S.L. 327.304)
 
-DEVELOPMENT TAĦT IL-PATROĊINJU TAĊ-ĊENTRU TA’ STUDJI
-
-*1*
-
-DWAR IX-XOGĦOL U TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.304 LEĠISLAZZJONI SUSSIDJARJA 327.304
+**LEĠISLAZZJONI SUSSIDJARJA 327.304**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER IN**
 
@@ -69,9 +65,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Otturbu 20
 
 (2) L-applikanti li għandhom il-Postgraduate Diploma in Lifelong Career Guidance jistgħu jitħallew jirreġistraw għat-Tieni Parti tal-kors, jekk ikunu temmew b’suċċess il-programm tal- Postgraduate Diploma b’marka medja minima ta’ 65%.
 
-(3) L-applikanti kollha jkunu meħtieġa juru li huma għandhom il-kapaċità u d-dispożizzjoni meħtieġa biex isegwu l-kors bi profitt. DEVELOPMENT TAĦT IL-PATROĊINJU TAĊ-ĊENTRU TA’ STUDJI [L.S.327.304 DWAR IX-XOGĦOL U TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-*2*
+(3) L-applikanti kollha jkunu meħtieġa juru li huma għandhom il-kapaċità u d-dispożizzjoni meħtieġa biex isegwu l-kors bi profitt.
 
 (4) Il-kapaċità u d-dispożizzjoni professjonali għandhom jiġu mkejla permezz ta’ intervista personali mmexxija minn bord maħtur għal dan il-għan.
 
@@ -115,12 +109,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
-DEVELOPMENT TAĦT IL-PATROĊINJU TAĊ-ĊENTRU TA’ STUDJI
-
-*3*
-
-DWAR IX-XOGĦOL U TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.304
-
 (2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ taqsimiet studju mgħallma ta’ mhux aktar minn 20 krettu ECTS, jekk ikunu qegħdin isegwu l-Kors full-time, jew mhux aktar minn 10 kretti ECTS jekk ikunu qegħdin isegwu l-kors part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju, jkunu meqjusa li weħlu mill-kors.
@@ -153,8 +141,4 @@ Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduat
 
 ## 14. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 
-Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord tal-Istudji bħala neċessarji minħabba n-natura DEVELOPMENT TAĦT IL-PATROĊINJU TAĊ-ĊENTRU TA’ STUDJI [L.S.327.304 DWAR IX-XOGĦOL U TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-part-time tal-kors.
-
-*4*
+Id-dispożizzjonijiet tal-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord tal-Istudji bħala neċessarji minħabba n-natura part-time tal-kors.

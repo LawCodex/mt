@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kontroll tal-Bejgħ ta' Majjali għall-Qatla u ta' Porku (S.L. 117.22)
 
-*1*
-
-GĦALL-QATLA U TA’ PORKU [L.S.117.22
-
 **LEĠISLAZZJONI SUSSIDJARJA 117.22**
 
 REGOLAMENTI DWAR IL-KONTROLL TAL-BEJGĦ TAL-MAJJALI GĦALL-QATLA U TAL-PORKU\* 2 ta’ Lulju, 1975 L-AVVIŻ LEGALI 78 tal-1975, kif emendat bl-Avviżi Legali 76 tal-1990 u 409 tal-2007; u bl-Att XIII tal-2015.

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet għall-Eżami ta' Materjal fil-Laboratorju tal-Kwalità f'Ta' Kordin (S.L. 35.23)
 
-DRITTIJIET G}ALL-E|AMI TA’ MATERJAL FIL-
-
-*1*
-
-LABORATORJU TAL-KWALITÀ F’TA’KORDIN [L.S.35.23
-
 **LE{ISLAZZJONI SUSSIDJARJA 35.23**
 
 REGOLAMENTI DWAR DRITTIJIET G}ALL- E|AMI TA’ MATERJAL FIL-LABORATORJU

@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Agriculture - Dip. Agric. - taħt il-patroċinju tal-Istitut tas-Sistemi Ambjentali (S.L. 327.243)
 
-*1*
-
-PATROĊINJU TA’ L-ISTITUT TAS-SISTEMI AMBJENTALI [L.S.327.243
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.243**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN**

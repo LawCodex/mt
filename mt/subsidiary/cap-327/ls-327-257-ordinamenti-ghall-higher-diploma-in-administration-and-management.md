@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Higher Diploma in Administration and Management taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.257)
 
-AGEMENT TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-
-
-*1*
-
-EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.257
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.257**
 
 **ORDINAMENTI GĦALL-HIGHER DIPLOMA IN**
@@ -69,15 +63,13 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) L-applikanti li jidħlu skont ir-regolament 6(ċ) tar- Regolamenti għad-Dħul għandhom ikollhom il-kwalifiki u, jew l-esperjenza li jissodisfaw lill-Bord tal-Istudji li huma laħqu l-livell akkademiku meħtieġ biex isegwu l-kors bi profitt. L-eliġibbiltà ta’ dawn l-applikanti għandha tkun deċiża mill-Bord tal-Istudji, wara li tkun saret intervista mmexxija minn bord tal-intervisti maħtur għal dan il-għan.
 
-(3) Il-bord tal-intervisti maħtur mill-Bord għandu jkun AGEMENT TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL- [L.S.327.257 EKONOMIJA, IL-MANAGEMENT U L-ACCOUNTANCY magħmul mill-anqas minn tliet membri
+(3) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul mill-anqas minn tliet membri
 
 \*Dawn ir-regolamenti ġew imħassrin bl- Avviż Legali 216 tal-2023.
 
 ## 4. Tul tal-kors.
 
 Il-kors jinfirex fuq medda ta’ tliet snin ta’ studju part-time. 5. (1) Il-kors jikkonsisti minn numru ta’ taqsimiet studju mgħallma li għalihom hemm assenjati 90 kredtu.
-
-*2*
 
 *Programm tal-kors.*
 

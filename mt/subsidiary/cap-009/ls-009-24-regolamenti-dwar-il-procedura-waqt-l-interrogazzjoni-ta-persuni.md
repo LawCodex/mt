@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Proċedura waqt l-Interrogazzjoni ta’ Persuni Suspettati u Persuni Akkużati (S.L. 9.24)
 
-*1*
-
-SUSPETTATI U PERSUNI AKKUŻATI [L.S.9.24
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.24**
 
 **REGOLAMENTI DWAR IL-PROĊEDURA WAQT L-**
@@ -45,11 +41,7 @@ SUSPETTATI U PERSUNI AKKUŻATI [L.S.9.24
 
 (2) Il-persuna suspettata jew akkużata li tagħżel li tagħmel użu minn assistenza legali ma tistax tiġi interrogata jew tkompli tiġi interrogata sa qabel ma tkun irċieviet tali assistenza legali sakemm ma jkunx hemm dewmien legalment awtorizzat skont dawn ir-regolamenti.
 
-(3) Jekk avukat ikun ġie kkuntattjat u dan ikun qabel li jipprovdi assistenza legali lil persuna ssuspettata jew akkużata, huwa għandu jattendi fil-post fejn il-persuna suspettata jew akkużata tkun detenuta jew arrestata fil-pront iżda mhux aktar tard minn sagħtejn wara li jkun aċċetta li jipprovdi assistenza legali. Jekk jgħaddu sagħtejn minn meta l-avukat qabel li jipprovdi assistenza legali u l-avukat jkun għandu ma wasalx fil-post fejn tkun meħtieġa l-assistenza legali, mingħajr ma tali dewmien ikun ġie awtorizzati minn uffiċjal tal-Pulizija ta’ grad mhux inqas minn dak ta’ Suprintendent, l-istennija għal iktar ħin għall-wasla tal-avukat għandha titqies li tikkawża dewmien mhux raġonevoli għall- [L.S.9.24 SUSPETTATI U PERSUNI AKKUŻATI
-
-proċess tal-investigazzjoni. F’ċirkostanzi bħal dawn, l-uffiċjal li jinvestiga għandu jitlob lill-Avukat għal Għajnuna Legali tal- Għassa biex jattendi minflok l-imsemmi avukat sabiex tibda l-interrogazzjoni. Ladarba l-interrogazzjoni tkun bdiet, ikun l-Avukat għal Għajnuna Legali tal-Għassa li għandu jassisti lill-persuna suspettata jew akkużata u l-avukat li ma kienx wasal fi żmien sagħtejn minn meta ta l-kunsens biex jipprovdi assistenza legali m’għandhux jitħalla fil-kamra fejn tkun qeda sseħħ l-interrogazzjoni sabiex ma jinterrompix milli titkompla l-interrogazzjoni skond il-liġi.
-
-*2*
+(3) Jekk avukat ikun ġie kkuntattjat u dan ikun qabel li jipprovdi assistenza legali lil persuna ssuspettata jew akkużata, huwa għandu jattendi fil-post fejn il-persuna suspettata jew akkużata tkun detenuta jew arrestata fil-pront iżda mhux aktar tard minn sagħtejn wara li jkun aċċetta li jipprovdi assistenza legali. Jekk jgħaddu sagħtejn minn meta l-avukat qabel li jipprovdi assistenza legali u l-avukat jkun għandu ma wasalx fil-post fejn tkun meħtieġa l-assistenza legali, mingħajr ma tali dewmien ikun ġie awtorizzati minn uffiċjal tal-Pulizija ta’ grad mhux inqas minn dak ta’ Suprintendent, l-istennija għal iktar ħin għall-wasla tal-avukat għandha titqies li tikkawża dewmien mhux raġonevoli għall-proċess tal-investigazzjoni. F’ċirkostanzi bħal dawn, l-uffiċjal li jinvestiga għandu jitlob lill-Avukat għal Għajnuna Legali tal- Għassa biex jattendi minflok l-imsemmi avukat sabiex tibda l-interrogazzjoni. Ladarba l-interrogazzjoni tkun bdiet, ikun l-Avukat għal Għajnuna Legali tal-Għassa li għandu jassisti lill-persuna suspettata jew akkużata u l-avukat li ma kienx wasal fi żmien sagħtejn minn meta ta l-kunsens biex jipprovdi assistenza legali m’għandhux jitħalla fil-kamra fejn tkun qeda sseħħ l-interrogazzjoni sabiex ma jinterrompix milli titkompla l-interrogazzjoni skond il-liġi.
 
 (4) Uffiċjal li jinvestiga għandu jitlob il-parteċipazzjoni tal- Avukat għal Għajnuna Legali tal-Għassa meta l-avukat tal-għażla tal-persuna suspettata jew akkużata:
 
@@ -71,11 +63,7 @@ proċess tal-investigazzjoni. F’ċirkostanzi bħal dawn, l-uffiċjal li jinves
 
 ## 3. Mġiba mhux xierqa mill-avukat.
 
-(1) Avukat ma jistax jaġixxi b’tali mod li jfixkel lil min jagħmel l-interrogazzjoni milli jkun jista’ jagħmel mistoqsijiet kif SUSPETTATI U PERSUNI AKKUŻATI [L.S.9.24
-
-suppost lill-persuna suspettata jew akkużata jew jinterrompi l-interrogazzjoni milli sseħħ. Lanqas ma għandu avukat iwieġeb mistoqsijiet f’isem il-klijent tiegħu jew jaġixxi bi kwalunkwe mod li jipprevjeni, jindaħal jew mingħajr raġuni jostakola l-interrogazzjoni xierqa tal-persuna suspettata jew tal-persuna akkużata jew jwaqqaf ir-risposti tal-persuna suspettata jew persuna akkużata milli jiġu reġistrati jew b’xi mod jfixkel kull att ta’ investigazzjoni jew ġbir ta’ provi.
-
-*3*
+(1) Avukat ma jistax jaġixxi b’tali mod li jfixkel lil min jagħmel l-interrogazzjoni milli jkun jista’ jagħmel mistoqsijiet kif suppost lill-persuna suspettata jew akkużata jew jinterrompi l-interrogazzjoni milli sseħħ. Lanqas ma għandu avukat iwieġeb mistoqsijiet f’isem il-klijent tiegħu jew jaġixxi bi kwalunkwe mod li jipprevjeni, jindaħal jew mingħajr raġuni jostakola l-interrogazzjoni xierqa tal-persuna suspettata jew tal-persuna akkużata jew jwaqqaf ir-risposti tal-persuna suspettata jew persuna akkużata milli jiġu reġistrati jew b’xi mod jfixkel kull att ta’ investigazzjoni jew ġbir ta’ provi.
 
 (2) Min jagħmel l-interrogazzjoni, jekk ikun tal-fehma li l-avukat qed jaġixxi b’imġiba mhux xierqa waqt l-interrogazzjoni, għandu jwissi lill-avukat li jekk ma jġibx ruħu sewwa, allura min jagħmel l-interrogazzjoni jkollu jitlob lill-avukat sabiex jitlaq jew jitneħħa mill-kamra fejn qed isseħħ l-interrogazzjoni, jekk ikun hemm bżonn bil-forza.
 
@@ -87,11 +75,7 @@ Iżda s-sostituzzjoni ta’ avukat b’avukat ieħor jew bl-Avukat għal Għajnu
 
 ## 4. Allegazzjoni ta’ irregolarità fl-interrogazzjoni, eċċ.
 
-Jekk l-avukat jallega li kien hemm xi irregolarità waqt l-interrogazzjoni, jew li kien hemm imġiba ħażina min-naħa min għamel l-interrogazzjoni, huwa għandu jippreżenta rapport bil-miktub lill-Maġistrat tal-Għassa fi żmien tmienja u erbgħin siegħa mill-konklużjoni tal-interrogazzjomni jew minn meta kien mistoqsi biex jitlaq ’il barra mill-interrogazzjoni jew minn meta huwa ddeċieda li jitlaq ’il barra mill-interrogazzjoni. Il-Maġistrat għandu jinvestiga tali rapport u jieħu dik l-azzjoni li jidhirlu pertinenti fiċ- [L.S.9.24 SUSPETTATI U PERSUNI AKKUŻATI
-
-ċirkustanzi u, mingħajr preġudizzju għall-ġeneralità ta’ dak li ntqal qabel, huwa għandu, jekk huwa jqis li dan ikun ġustifikat, jippreżenta r-rapport tiegħu fil-atti tal-proċedimenti relattivi għall-persuna suspettata jew akkużata jew jirrapporta l-kwistjoni lill- Kummissarju tal-Pulizija u lill-Avukat Ġenerali jew jieħu ż-żewġ miżuri msemmija.
-
-*4*
+Jekk l-avukat jallega li kien hemm xi irregolarità waqt l-interrogazzjoni, jew li kien hemm imġiba ħażina min-naħa min għamel l-interrogazzjoni, huwa għandu jippreżenta rapport bil-miktub lill-Maġistrat tal-Għassa fi żmien tmienja u erbgħin siegħa mill-konklużjoni tal-interrogazzjomni jew minn meta kien mistoqsi biex jitlaq ’il barra mill-interrogazzjoni jew minn meta huwa ddeċieda li jitlaq ’il barra mill-interrogazzjoni. Il-Maġistrat għandu jinvestiga tali rapport u jieħu dik l-azzjoni li jidhirlu pertinenti fiċ-ċirkustanzi u, mingħajr preġudizzju għall-ġeneralità ta’ dak li ntqal qabel, huwa għandu, jekk huwa jqis li dan ikun ġustifikat, jippreżenta r-rapport tiegħu fil-atti tal-proċedimenti relattivi għall-persuna suspettata jew akkużata jew jirrapporta l-kwistjoni lill- Kummissarju tal-Pulizija u lill-Avukat Ġenerali jew jieħu ż-żewġ miżuri msemmija.
 
 ## 5. Post u tmexxija tal-interrogazzjoni.
 
@@ -113,11 +97,7 @@ Jekk l-avukat jallega li kien hemm xi irregolarità waqt l-interrogazzjoni, jew 
 
 ## 6. Informazzjoni ġenerali li għandha tingħata lill-persuna suspettata jew lill-persuna akkużata. Kap. 9.
 
-(1) Barra minn dak li hu previst bl-artikolu 355AUA (4) tal-Kodiċi Kriminali, il-persuna suspettata jew akkużata, qabel ma tiddeċiedi jekk għandhiex tfittex assistenza legali, għandha tiġi infurmata bl-identità tal-Avukat għal Għajnuna Legali tal-Għassa sabiex il-persuna suspettata jew akkużata tista’ tiddeċiedi lil min tagħżel, jekk hi tagħżel li tkun assistita minn avukat, jiġifieri, jekk tagħżel avukat tal-għażla tagħha stess jew l-Avukat għal Għajnuna SUSPETTATI U PERSUNI AKKUŻATI [L.S.9.24
-
-Legali tal-Għassa.
-
-*5*
+(1) Barra minn dak li hu previst bl-artikolu 355AUA (4) tal-Kodiċi Kriminali, il-persuna suspettata jew akkużata, qabel ma tiddeċiedi jekk għandhiex tfittex assistenza legali, għandha tiġi infurmata bl-identità tal-Avukat għal Għajnuna Legali tal-Għassa sabiex il-persuna suspettata jew akkużata tista’ tiddeċiedi lil min tagħżel, jekk hi tagħżel li tkun assistita minn avukat, jiġifieri, jekk tagħżel avukat tal-għażla tagħha stess jew l-Avukat għal Għajnuna Legali tal-Għassa.
 
 (2) Jekk il-persuna suspettata tirrifjuta li tagħżel avukat tal-għażla tagħha jew l-Avukat għal Għajnuna Legali tal-Għassa, għandu l-uffiċjal li investiga jista’ jipproċedi bl-interrogazzjoni bħallikieku l-persuna suspettata rrifjutat li tkun rappreżentata waqt l-interrogazzjoni.
 
@@ -143,11 +123,7 @@ Legali tal-Għassa.
 
 (e) l-interruzzjonijiet waqt interrogazzjoni għandhom jiġu rrekordjati b’tali mod li l-irrekordjar għandu jikkostitwixxi stampa awtentika u vera ta’ x’ikun ġara matul l-interrogazzjoni; u
 
-(f) jekk persuna suspettata jew akkużata jkollha taġixxi b’mod mhux xieraq waqt l-interrogazzjoni, tali mġiba [L.S.9.24 SUSPETTATI U PERSUNI AKKUŻATI
-
-għandha wkoll tiġi rrekordjata u għandha tinġieb bħala prova sabiex tikkostitwixxi stampa awtentika u vera ta’ kull ma jkun ġara matul l-interrogazzjoni.
-
-*6*
+(f) jekk persuna suspettata jew akkużata jkollha taġixxi b’mod mhux xieraq waqt l-interrogazzjoni, tali mġiba għandha wkoll tiġi rrekordjata u għandha tinġieb bħala prova sabiex tikkostitwixxi stampa awtentika u vera ta’ kull ma jkun ġara matul l-interrogazzjoni.
 
 (2) Meta jiġu wżati mezzi awdjoviżivi għall-irrekordjar ta’ interrogazzjoni, kull recording bħal dan għandu jkun ammissibbli bħala prova, mingħajr il-ħtieġa ta’ ebda formalità oħra, sakemm il-persuna suspettata jew il-persuna akkużata ma tallegax u ma tagħtix prova li r-recording mhujiex recording oriġinali u li jkun ġie mbagħbas.
 

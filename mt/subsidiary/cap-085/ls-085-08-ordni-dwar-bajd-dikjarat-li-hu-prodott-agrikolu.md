@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Bajd dikjarat li hu Prodott Agrikolu"
-identifier: "S.L. 85.8"
+identifier: "S.L. 85.08"
 eli: "https://legislation.mt/eli/sl/85.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/85.8/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Bajd dikjarat li hu Prodott Agrikolu (S.L. 85.8)
+# Ordni dwar Bajd dikjarat li hu Prodott Agrikolu (S.L. 85.08)
 
 **LEĠISLAZZJONI SUSSIDJARJA 85.08**
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kontroll tal-Prezzijiet tal-Bini (Xogħol ta' Konkos u Ġebel)"
-identifier: "S.L. 288.1"
+identifier: "S.L. 288.01"
 eli: "https://legislation.mt/eli/sl/288.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/288.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kontroll tal-Prezzijiet tal-Bini (Xogħol ta' Konkos u Ġebel) (S.L. 288.1)
-
-*1*
-
-(XOG}OL TA’ KONKOS U {EBEL) [L.S.288.01
+# Regolamenti dwar il-Kontroll tal-Prezzijiet tal-Bini (Xogħol ta' Konkos u Ġebel) (S.L. 288.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 288.01**
 

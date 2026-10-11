@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti Ġenerali għar-Rikonoxximent Universitarji sa l-Ewwel Grad - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.236)
 
-REGOLAMENTI ĠENERALI GĦAR-RIKONOXXIMENTI
-
-*1*
-
-UNIVERSITARJI SA L-EWWEL GRAD [L.S.327.236
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.236**
 
 **REGOLAMENTI ĠENERALI**

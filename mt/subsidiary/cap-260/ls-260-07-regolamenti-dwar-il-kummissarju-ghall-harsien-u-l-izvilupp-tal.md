@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kummissarju għall-Ħarsien u l-Iżvilupp tal-Priġunieri"
-identifier: "S.L. 260.7"
+identifier: "S.L. 260.07"
 eli: "https://legislation.mt/eli/sl/260.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,9 @@ version: "https://legislation.mt/eli/sl/260.7/20211217/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kummissarju għall-Ħarsien u l-Iżvilupp tal-Priġunieri (S.L. 260.7)
+# Regolamenti dwar il-Kummissarju għall-Ħarsien u l-Iżvilupp tal-Priġunieri (S.L. 260.07)
 
-*1*
-
-TAL-PRIĠUNIERI [L.S. 260.07 LEĠISLAZZJONI SUSSIDJARJA 260.07
+**LEĠISLAZZJONI SUSSIDJARJA 260.07**
 
 REGOLAMENTI DWAR IL-KUMMISSARJU GĦALL-
 
@@ -64,11 +62,7 @@ Il-Kummissarju għandu jkollu l-funzjonijiet u r-responsabbiltajiet li ġejjin:
 
 (b) li jirrevedi kwalunkwe politika u jagħmel tali rakkomandazzjonijiet lil kwalunkwe awtorità kompetenti biex tissalvagwardja jew ittejjeb id-drittijiet tal-priġunieri u biex tiffaċilita l-ħarsien psikosoċjali u r-rijabilitazzjoni tagħhom;
 
-(ċ) li jiddiskuti mal-Aġenzija għas-Servizzi Korrettivi, is-salvagwardji u miżuri meħtieġa sabiex jiżguraw li [L.S. 260.07 TAL-PRIĠUNIERI
-
-kwalunkwe trattament, deċiżjoni jew kwalunkwe implimentazzjoni tagħhom tkun skont il-liġi, ir-regolamenti, il-politiki jew standards stabbiliti:
-
-*2*
+(ċ) li jiddiskuti mal-Aġenzija għas-Servizzi Korrettivi, is-salvagwardji u miżuri meħtieġa sabiex jiżguraw li kwalunkwe trattament, deċiżjoni jew kwalunkwe implimentazzjoni tagħhom tkun skont il-liġi, ir-regolamenti, il-politiki jew standards stabbiliti:
 
 Iżda jekk ikun hemm nuqqas ta' qbil dwar xi kwistjoni bejn il-Kummissarju u l-Aġenzija għas-Servizzi Korrettivi, il-Kummissarju għandu jressaq il-kwistjoni quddiem il-Bord għall-aktar investigazzjoni u deċiżjoni finali.
 
@@ -94,9 +88,7 @@ Il-Kummissarju għandu jkollu aċċess bla restrizzjonijiet għall-partijiet kol
 
 (a) L-uffiċċju tal-Kummissarju għandu jinkludi mill-inqas tliet (3) impjegati amministrattivi, li wieħed minnhom għandu jiġi nominat bħala Manager.
 
-*3*
-
-TAL-PRIĠUNIERI [L.S. 260.07 (b) Il-Manager għandu jkun uffiċjal pubbliku impjegat skont ir-Regolamenti tal-Kummissjoni dwar is-Servizz u għandu jkun impjegat għal perjodu indefinit, b'perjodu ta' prova ta' tnax (12)-il xahar.
+(b) Il-Manager għandu jkun uffiċjal pubbliku impjegat skont ir-Regolamenti tal-Kummissjoni dwar is-Servizz u għandu jkun impjegat għal perjodu indefinit, b'perjodu ta' prova ta' tnax (12)-il xahar.
 
 *L.S. Kost. 05.*
 

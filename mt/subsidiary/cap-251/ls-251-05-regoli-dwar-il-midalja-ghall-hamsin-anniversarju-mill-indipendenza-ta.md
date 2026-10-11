@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar il-Midalja għall-Ħamsin Anniversarju mill-Indipendenza ta’ Malta"
-identifier: "S.L. 251.5"
+identifier: "S.L. 251.05"
 eli: "https://legislation.mt/eli/sl/251.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/251.5/20140828/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar il-Midalja għall-Ħamsin Anniversarju mill-Indipendenza ta’ Malta (S.L. 251.5)
-
-*1*
-
-MILL-INDIPENDENZA TA’ MALTA [L.S.251.05
+# Regoli dwar il-Midalja għall-Ħamsin Anniversarju mill-Indipendenza ta’ Malta (S.L. 251.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 251.05**
 
@@ -60,10 +56,6 @@ It-titolu ta’ dawn ir-regoli hu r-Regoli dwar il-Midalja għall-Ħamsin Annive
 (b) minn Kummissarju Għoli, Ambaxxatur, rappreżentant diplomatiku jew konsulari ieħor (inkluż rappreżentant onorarju) ta’ Malta, jew kull persuna hekk awtorizzata, li tagħmel il-preżentazzjoni f’isem il-President ta’ Malta:
 
 Iżda, meta ma jkunx konvenjenti jew prattiku li l-Midalja tiġi ppreżentata personalment, il-Midalja tista tintbagħat b’dawk il-mezzi li jistgħu jitqiesu xierqa.
-
-*2*
-
-[L.S.251.05 MILL-INDIPENDENZA TA’ MALTA
 
 (2) Meta l-Midalja tiġi ppreżentata mill-President ta’ Malta, min jirċeviha għandu jiġi indirizzat b’dan il-mod:
 

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estradizzjoni (Ġemaħarija Għarbija Libjana Popolari Soċjalista)"
-identifier: "S.L. 276.9"
+identifier: "S.L. 276.09"
 eli: "https://legislation.mt/eli/sl/276.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/276.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estradizzjoni (Ġemaħarija Għarbija Libjana Popolari Soċjalista) (S.L. 276.9)
-
-*1*
-
-LIBJANA POPOLARI SO~JALISTA) [L.S.276.09
+# Ordni dwar l-Estradizzjoni (Ġemaħarija Għarbija Libjana Popolari Soċjalista) (S.L. 276.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 276.09**
 

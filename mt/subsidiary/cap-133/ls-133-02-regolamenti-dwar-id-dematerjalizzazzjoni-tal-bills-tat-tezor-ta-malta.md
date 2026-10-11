@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Dematerjalizzazzjoni tal-Bills tat-Teżor ta' Malta"
-identifier: "S.L. 133.2"
+identifier: "S.L. 133.02"
 eli: "https://legislation.mt/eli/sl/133.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/133.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Dematerjalizzazzjoni tal-Bills tat-Teżor ta' Malta (S.L. 133.2)
+# Regolamenti dwar id-Dematerjalizzazzjoni tal-Bills tat-Teżor ta' Malta (S.L. 133.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 133.02**
 

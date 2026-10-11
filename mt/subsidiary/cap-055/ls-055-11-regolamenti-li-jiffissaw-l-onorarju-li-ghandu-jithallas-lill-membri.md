@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti li Jiffissaw l-Onorarju li għandu Jitħallas lill-Membri tal-Bord ta’ Eżaminaturi (S.L. 55.11)
 
-JIFFISSAW L-ONORARJU LI GĦANDU
-
-*1*
-
-JITĦALLAS LILL-MEMBRI TAL-BORD TA’ EŻAMINATURI [L.S.55.11 LEĠISLAZZJONI SUSSIDJARJA 55.11
+**LEĠISLAZZJONI SUSSIDJARJA 55.11**
 
 **REGOLAMENTI LI JIFFISSAW L-ONORARJU LI**
 

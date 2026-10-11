@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Reġistru ta’ Sidien Benefiċjarji - Assoċjazzjonijiet (It-Tieni Skeda) (Kodiċi Ċivili) (S.L. 16.17)
 
-*1*
-
-ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 LEĠISLAZZJONI SUSSIDJARJA 16.17
+**LEĠISLAZZJONI SUSSIDJARJA 16.17**
 
 **REGOLAMENTI DWAR IR-REĠISTRU TA’ SIDIEN**
 
@@ -53,11 +51,9 @@ L-AVVIŻ LEGALI 24 tal-2020, kif emendat bl-Att XLVII tal-2020. 1. (1) It-titolu
 
 (b) fil-każ ta’ assoċjazzjonijiet li mhumiex reġistrati, dawk il-persuni li huma nnominati bħala tali fir-riżoluzzjoni li taħtar l-istess, u li jaqblu bil-miktub li jaġixxu b’dan; u
 
-(ċ) fejn l-amministratur huwa organizzazzjoni legali, il-persuni maħtura biex jaġixxu bħala diretturi, jew ekwivalenti [L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) jekk taħt isem ieħor, ta’ tali organizzazzjoni legali, u li jaqblu bil-miktub li jaġixxu b’dan,
+(ċ) fejn l-amministratur huwa organizzazzjoni legali, il-persuni maħtura biex jaġixxu bħala diretturi, jew ekwivalenti jekk taħt isem ieħor, ta’ tali organizzazzjoni legali, u li jaqblu bil-miktub li jaġixxu b’dan,
 
 u dan, sakemm ikomplu jokkupaw kariga bħal din u kemm jekk residenti f’Malta jew xort’oħra u għall-evitar ta’ dubju fil-każ li assoċjazzjoni tkun ħatret likwidatur fil-proċess ta’ stralċ, dak il-likwidatur għandu jkollu l-istess dmirijiet ta’ amministraturi taħt dawn ir-regolamenti:
-
-*2*
 
 Iżda referenza għal amministratur ta’ assoċjazzjoni b’referenza għat-twettiq ta’ kwalunkwe att jew għall-iffirmar ta’ dokument, għandha titqies li tinkludi kwalunkwe persuna li tkun ingaġġata jew delegata tali funzjoni bil-miktub mill-assoċjazzjoni, l-organizzazzjoni legali jew l-amministratur rilevanti jew direttur li għandu jitqies li għandu l-awtorità li jiddelega tali setgħat bis-saħħa tiegħu;
 
@@ -77,9 +73,7 @@ Iżda kull referenza għal direttur ta’ organizzazzjoni legali b’referenza g
 
 "liġi speċjali'' tfisser Att tal-Parlament jew parti mill-Kodiċi Ċivili li tirregola tip partikolari ta’ assoċjazzjoni;
 
-*3*
-
-ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 "Ministru" tfisser il-Ministru responsabbli għar-reġistrazzjoni ta’ Kumpaniji b’responsabbiltà limitata u soċjetajiet kummerċjali;
+"Ministru" tfisser il-Ministru responsabbli għar-reġistrazzjoni ta’ Kumpaniji b’responsabbiltà limitata u soċjetajiet kummerċjali;
 
 "persuni rilevanti" tfisser:
 
@@ -105,9 +99,7 @@ u għall-finijiet tal-paragrafu (ċ) hawn fuq:
 
 (dd) il-kontinwazzjoni tal-assoċjazzjoni f’pajjiż ieħor;
 
-*4*
-
-[L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) (ee) l-assenjazzjoni jew it-trasferiment tal-assi kollha tal-assoċjazzjoni jew tal-maġġoranza tagħhom; jew
+(ee) l-assenjazzjoni jew it-trasferiment tal-assi kollha tal-assoċjazzjoni jew tal-maġġoranza tagħhom; jew
 
 (ff) it-tmiem tal-assoċjazzjoni;
 
@@ -139,11 +131,9 @@ u għall-finijiet tal-paragrafu (ċ) hawn fuq:
 
 (1) Bla ħsara għall-esklużjonijiet imsemmija fis-subregolament (3), dawn ir-regolamenti għandhom japplikaw għall-assoċjazzjonijiet kollha kemm jekk stabbiliti għal interess privat, benefiċċju jew skop jew għall-kisba ta’ benefiċċju soċjali u/jew pubbliku jew għan leġittimu ieħor u dan, irrispettivament minn jekk humiex reġistrati jew le mar-Reġistratur għal Persuni Ġuridiċi skont it- Tieni Skeda jew regolamenti applikabbli jew ma’ kwalunkwe reġistratur, kummissarju, bord jew awtorità oħra skont xi liġi speċjali u tinkludi soċjetajiet ċivili, soċjetajiet kooperattivi, organizzazzjonijiet sportivi u organizzazzjonijiet volontarji fil-forma ta’ assoċjazzjonijiet.
 
-(2) Assoċjazzjonijiet stabbiliti għal benefiċċju privat huma dawk imsemmija fl-artikolu 48 tat-Tieni Skeda u dawk stabbiliti għal ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 benefiċċju pubbliku huma dawk imsemmija fl-artikolu 48A tat-Tieni Skeda.
+(2) Assoċjazzjonijiet stabbiliti għal benefiċċju privat huma dawk imsemmija fl-artikolu 48 tat-Tieni Skeda u dawk stabbiliti għal benefiċċju pubbliku huma dawk imsemmija fl-artikolu 48A tat-Tieni Skeda.
 
 (3) Dawn ir-regolamenti ma għandhomx japplikaw għal:
-
-*5*
 
 *Kap. 386.*
 
@@ -169,11 +159,9 @@ u għall-finijiet tal-paragrafu (ċ) hawn fuq:
 
 Iżda għall-finijiet tal-imsemmi paragrafu (ċ), meta ssir referenza għal uffiċjal maniġerjali anzjan abbażi tal-kariga tiegħu fl-uffiċċju msemmi u mhux fuq il-bażi tas-sjieda tiegħu jew tal-kontroll eżerċitat fuq l-assoċjazzjoni b’mezzi oħra, dan għandu jkun iddikjarat b’mod ċar u viżibbli fir-reġistru tas-sidien benefiċjarji - persuni rilevanti.
 
-(2) Kull persuna li għandha raġuni motivata sabiex temmen li hija sid benefiċjarju ta’ assoċjazzjoni għandha tkun marbuta li tipprovdi l-informazzjoni meħtieġa taħt is-subregolament (1) lill- [L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) assoċjazzjoni mingħajr dewmien:
+(2) Kull persuna li għandha raġuni motivata sabiex temmen li hija sid benefiċjarju ta’ assoċjazzjoni għandha tkun marbuta li tipprovdi l-informazzjoni meħtieġa taħt is-subregolament (1) lill-assoċjazzjoni mingħajr dewmien:
 
 Iżda, mingħajr preġudizzju għal dak imsemmi qabel, l-assoċjazzjoni għandha tikseb l-informazzjoni meħtieġa taħt is-subregolament (1) mingħand is-sidien benefiċjarji tal-assoċjazzjoni u/ jew minn kull persuna naturali li għandha raġuni motivata sabiex temmen li hija sid benefiċjarju, li għandhom ikunu marbuta li jipprovdu l-imsemmija informazzjoni lill-assoċjazzjoni fi żmien raġonevoli minn meta tintalab, li ma jaqbiżx l-erbatax (14)-il jum, u kull sid benefiċjarju li jakkwista, jiddisponi minn, iżid jew inaqqas l-interess benefiċjarju tiegħu fl-assoċjazzjoni jew li jsir disponiment mill-interess benefiċjarju tiegħu jew jiżdied jew jitnaqqas permezz ta’ azzjoni tal-amministraturi tal-assoċjazzjoni jew ta’ kwalunkwe persuna oħra li għandha s-setgħat li tagħmel hekk skont l-istatut tal-assoċjazzjoni, u kull persuna li tkun maħtura jew tieqaf milli tkun jew li twettaq ir-rwol ta’ persuna rilevanti fl-assoċjazzjoni għandha tkun marbuta li tipprovdi l-imsemmija informazzjoni lill-assoċjazzjoni fi żmien erbatax (14)-il jum minn meta jseħħ dan l-avveniment:
-
-*6*
 
 Iżda wkoll, f’każijiet fejn membru huwa organizzazzjoni legali jew fiduċjarju jew intermedjarju ieħor, l-informazzjoni għandha tinkiseb b’referenza għall-persuna fiżika li tkun is-sid benefiċjarju aħħari tagħha.
 
@@ -183,11 +171,7 @@ Kwalunkwe informazzjoni li tinsab fl-istatut ta’ assoċjazzjoni, prokura, ittr
 
 (4) Kull assoċjazzjoni għandha ddaħħal l-informazzjoni msemmija fis-subregolament (1) f’:
 
-(a) reġistru ta’ sidien benefiċjarji - membri, li għandu jkun fih tali informazzjoni dwar il-membri tal-assoċjazzjoni;
-
-*7*
-
-ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 jew
+(a) reġistru ta’ sidien benefiċjarji - membri, li għandu jkun fih tali informazzjoni dwar il-membri tal-assoċjazzjoni; jew
 
 (b) reġistru ta’ sidien benefiċjarji - persuni rilevanti, li għandu jkun fih din l-informazzjoni dwar il-persuni msemmija fil-paragrafi (a) sa (ċ) tat-tifsira "persuni rilevanti" f’dawn ir-regolamenti,
 
@@ -209,9 +193,7 @@ skont il-każ, liema reġistri għandhom jinżammu u jkunu aġġornati mill-asso
 
 (8) Fin-nuqqas ta’ konformità mad-dispożizzjonijiet tas-subregolamenti (1) jew (2), skont il-każ, ta’ dan ir-regolament:
 
-*8*
-
-[L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) (a) l-assoċjazzjoni u kull amministratur tal-assoċjazzjoni li jkun naqas għandhom ikunu responsabbli in solidum għal penali, u, għal kull jum li matulu jkompli n-nuqqas, għal piena oħra:
+(a) l-assoċjazzjoni u kull amministratur tal-assoċjazzjoni li jkun naqas għandhom ikunu responsabbli in solidum għal penali, u, għal kull jum li matulu jkompli n-nuqqas, għal piena oħra:
 
 Iżda l-assoċjazzjoni u l-amministraturi tal-assoċjazzjoni ma għandhomx ikunu responsabbli jekk ikunu eżerċitaw id-diliġenza dovuta kollha biex jikkonformaw mad-dispożizzjonijiet ta’ dan ir-regolament u n-nuqqas ma kienx dovut għal xi att negliġenti jew ommissjoni min-naħa tagħhom; u
 
@@ -231,11 +213,9 @@ skont liema minnhom jiġi l-ewwel.
 
 ## 5. Assoċjaz-zjonijiet stabbiliti qabel it- 30 ta’ Ġunju 2019.
 
-(1) Meta assoċjazzjoni tkun ġiet stabbilita qabel it-30 ta’ Ġunju 2019, irrispettivament minn jekk din tkunx irreġistrata jew le mar-Reġistratur għal Persuni Ġuridiċi skont it-Tieni Skeda jew regolamenti applikabbli jew ma’ xi reġistratur, kummissarju, bord jew awtorità oħra skont it-termini ta’ kwalunkwe liġi speċjali, għandha tingħata lir-Reġistratur tal-Persuni Ġuridiċi sat-30 ta’ Ġunju, 2019 dikjarazzjoni, fil-forma preskritta, iffirmata minn wieħed mill- ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 amministraturi tal-assoċjazzjoni, li jkun fiha informazzjoni adegwata, preċiża u aġġornata skont ir-regolament 4 dwar is-sidien benefiċjarji kollha tal-assoċjazzjoni. Meta l-amministratur huwa organizzazzjoni legali, dik id-dikjarazzjoni għandha tkun iffirmata minn direttur wieħed tagħha:
+(1) Meta assoċjazzjoni tkun ġiet stabbilita qabel it-30 ta’ Ġunju 2019, irrispettivament minn jekk din tkunx irreġistrata jew le mar-Reġistratur għal Persuni Ġuridiċi skont it-Tieni Skeda jew regolamenti applikabbli jew ma’ xi reġistratur, kummissarju, bord jew awtorità oħra skont it-termini ta’ kwalunkwe liġi speċjali, għandha tingħata lir-Reġistratur tal-Persuni Ġuridiċi sat-30 ta’ Ġunju, 2019 dikjarazzjoni, fil-forma preskritta, iffirmata minn wieħed mill-amministraturi tal-assoċjazzjoni, li jkun fiha informazzjoni adegwata, preċiża u aġġornata skont ir-regolament 4 dwar is-sidien benefiċjarji kollha tal-assoċjazzjoni. Meta l-amministratur huwa organizzazzjoni legali, dik id-dikjarazzjoni għandha tkun iffirmata minn direttur wieħed tagħha:
 
 Iżda jekk l-assoċjazzjoni ma tkunx reġistrata mar- Reġistratur għal Persuni Ġuridiċi skont it-Tieni Skeda jew regolamenti applikabbli, għandha wkoll tiġi konsenjata lir-Reġistratur għal Persuni Ġuridiċi, sad-data hawn fuq imsemmija, flimkien mad-dikjarazzjoni msemmija hawn fuq, kopja awtentikata tal-istatut tal-assoċjazzjoni.
-
-*9*
 
 (2) Assoċjazzjoni msemmija f’dan ir-regolament, ma għandhiex tkun reġistrata, jekk l-assoċjazzjoni mhijiex reġistrata u, fi kwalunkwe każ, u l-forom u d-dokumenti relattivi kollha, ma għandhomx jiġu rreġistrati skont il-liġijiet speċjali applikabbli sakemm ir-Reġistratur għal Persuni Ġuridiċi ma jkunx sodisfatt li r-rekwiżiti ta’ dan ir-regolament ġew imħarsa wkoll, u dan, minkejja d-data massima għall-konformità ddikjarata fis-subregolament preċedenti.
 
@@ -247,11 +227,9 @@ Iżda jekk l-assoċjazzjoni mhijiex rreġistrata mar- Reġistratur għal Persuni
 
 (2) B’referenza għal assoċjazzjoni msemmija fis-subregolament (1):
 
-(a) fil-każ ta’ assoċjazzjoni li mhijiex reġistrata mar- Reġistratur għal Persuni Ġuridiċi skont it-Tieni Skeda jew regolamenti applikabbli jew ma’ kwalunkwe reġistratur, kummissarju, bord jew awtorità oħra skont xi liġi speċjali, l- [L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) assoċjazzjoni għandha tikkonforma ma’ dawn ir-regolamenti qabel ma tibda l-attivitajiet minkejja d-data ta’ konformità skont is-subregolament (1); u
+(a) fil-każ ta’ assoċjazzjoni li mhijiex reġistrata mar- Reġistratur għal Persuni Ġuridiċi skont it-Tieni Skeda jew regolamenti applikabbli jew ma’ kwalunkwe reġistratur, kummissarju, bord jew awtorità oħra skont xi liġi speċjali, l-assoċjazzjoni għandha tikkonforma ma’ dawn ir-regolamenti qabel ma tibda l-attivitajiet minkejja d-data ta’ konformità skont is-subregolament (1); u
 
 (b) fil-każ ta’ assoċjazzjoni li tfittex reġistrazzjoni mar-Reġistratur għal Persuni Ġuridiċi skont it-Tieni Skeda jew regolamenti applikabbli jew ma’ kwalunkwe reġistratur, kummissarju, bord jew awtorità oħra skont xi liġi speċjali, l-assoċjazzjoni ma għandhiex tibda attivitajiet u l-assoċjazzjoni u d-dokumenti relattivi kollha, ma għandhomx jiġu rreġistrati skont il-liġijiet speċjali applikabbli sakemm ir-Reġistratur għal Persuni Ġuridiċi ma jkunx sodisfatt li r-rekwiżiti ta’ dan ir-regolament ikunu ġew imħarsa wkoll u dan, minkejja d-data ta’ konformità skont is-subregolament (1).
-
-*10*
 
 *Assoċjazzjonijiet stabbiliti wara d-dħul fis-seħħ ta’ dawn ir-regolamenti.*
 
@@ -265,13 +243,11 @@ Iżda jekk l-assoċjazzjoni mhijiex rreġistrata mar- Reġistratur għal Persuni
 
 (a) fil-każ ta’ assoċjazzjoni li ma tkunx irreġistrata mar-Reġistratur għal Persuni Ġuridiċi skont it-Tieni Skeda jew regolamenti applikabbli jew ma’ kwalunkwe reġistratur, kummissarju, bord jew awtorità oħra skont xi liġi speċjali, l-assoċjazzjoni għandha tikkonforma ma’ dawn ir-regolamenti qabel ma tibda l-attivitajiet; u
 
-(b) fil-każ ta’ assoċjazzjoni li tfittex reġistrazzjoni mar-Reġistratur għal Persuni Ġuridiċi skont it-Tieni Skeda jew ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 regolamenti applikabbli jew ma’ kwalunkwe reġistratur, kummissarju, bord jew awtorità oħra skont xi liġi speċjali, l-assoċjazzjoni m’għandhiex tibda l-attivitajiet, u l-assoċjazzjoni u d-dokumenti relattivi kollha ma għandhomx jiġu rreġistrati skont il-liġijiet speċjali applikabbli sakemm ir-Reġistratur għal Persuni Ġuridiċi jkun sodisfatt li r-rekwiżiti ta’ dan ir-regolament ġew ukoll imħarsa.
+(b) fil-każ ta’ assoċjazzjoni li tfittex reġistrazzjoni mar-Reġistratur għal Persuni Ġuridiċi skont it-Tieni Skeda jew regolamenti applikabbli jew ma’ kwalunkwe reġistratur, kummissarju, bord jew awtorità oħra skont xi liġi speċjali, l-assoċjazzjoni m’għandhiex tibda l-attivitajiet, u l-assoċjazzjoni u d-dokumenti relattivi kollha ma għandhomx jiġu rreġistrati skont il-liġijiet speċjali applikabbli sakemm ir-Reġistratur għal Persuni Ġuridiċi jkun sodisfatt li r-rekwiżiti ta’ dan ir-regolament ġew ukoll imħarsa.
 
 *Regoli applikabbli għall-każijiet kollha għar-regolamenti 5 u 6.*
 
 (5) (a) Kull data personali sottomessa lir-Reġistratur għal Persuni Ġuridiċi taħt dawn ir-regolamenti għandha tkun kurrenti u għandha tikkorrispondi għas-sidien benefiċjarji attwali tal-assoċjazzjoni fid-data tas-sottomissjoni.
-
-*11*
 
 (b) Fuq bażi kontinwa, jekk l-assoċjazzjoni hija rreġistrata, ir-Reġistratur għal Persuni Ġuridiċi, jew fejn ir-reġistrazzjoni tkun saret taħt liġi speċjali, ir-reġistratur, il-kummissarju, il-bord jew l-awtorità rilevanti, ma għandhomx jipproċedu bir-reġistrazzjoni ta’ kwalunkwe formola reġistrabbli jew dokument tal-assoċjazzjoni kunsinnata skont xi liġi speċjali applikabbli, sakemm ir-Reġistratur għall-Persuni Ġuridiċi ma jkunx sodisfatt li r-rekwiżiti ta’ dawn ir-regolamenti jkunu ġew imħarsa.
 
@@ -287,13 +263,11 @@ Iżda l-assoċjazzjoni u l-amministraturi tal-assoċjazzjoni ma jkunux responsab
 
 *Reġistrazzjoni online.*
 
-(7) Ir-Reġistratur tal-Persuni Ġuridiċi għandu jkun intitolat li jirrikjedi reġistrazzjoni online ta’ kwalunkwe dokument jew formola sottomessa lilu skont dawn ir-regolamenti, u li jistabbilixxi r-regoli u l-proċeduri relattivi għalihom fil-linji gwida li huwa jista’ joħroġ għal [L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) dan il-għan.
+(7) Ir-Reġistratur tal-Persuni Ġuridiċi għandu jkun intitolat li jirrikjedi reġistrazzjoni online ta’ kwalunkwe dokument jew formola sottomessa lilu skont dawn ir-regolamenti, u li jistabbilixxi r-regoli u l-proċeduri relattivi għalihom fil-linji gwida li huwa jista’ joħroġ għal dan il-għan.
 
 ## 7. Reġistru tas-Sidien Benefiċjarji.
 
 (1) L-informazzjoni dwar is-sidien benefiċjarji ta’ kull assoċjazzjoni provduta lir-Reġistratur għal Persuni Ġuridiċi skont dawn ir-regolamenti għandha tiddaħħal u tinżamm mir-Reġistratur għal Persuni Ġuridiċi f’Reġistru ta’ Sidien Benefiċjarji miżmuma għal dan l-iskop, liema reġistru jista’ jkun f’format elettroniku.
-
-*12*
 
 (2) Dokumenti li huma meħtieġa li jiġu kunsinnati lir- Reġistratur għal Persuni Ġuridiċi taħt xi waħda mid-dispożizzjonijiet ta’ dawn ir-regolamenti ma għandhomx jiffurmaw parti jew jiġu rreġistrati fir-Reġistru prinċipali ta’ Persuni Ġuridiċi amministrat mir- Reġistratur għal Persuni Ġuridiċi taħt it-Tieni Skeda u l-informazzjoni dwar is-sidien benefiċjarji ta’ kull assoċjazzjoni pprovduta lir- Reġistratur għal Persuni Ġuridiċi skont dawn ir-regolamenti għandha tiddaħħal u tinżamm mir-Reġistratur għal Persuni Ġuridiċi fir-Reġistru tas-Sidien tal-Benefiċjarji miżmuma mir-Reġistratur għal Persuni Ġuridiċi biss għal dan il-għan.
 
@@ -305,11 +279,9 @@ Iżda l-assoċjazzjoni u l-amministraturi tal-assoċjazzjoni ma jkunux responsab
 
 (1) L-informazzjoni miżmuma fir-Reġistru tas-Sidien Benfiċjarji għandha tkun adegwata, preċiża u aġġornata.
 
-(2) Meta jkun hemm bidla fis-sjieda benefiċjarja ta’ assoċjazzjoni jew kwalunkwe bidla oħra sseħħ li twassal sabiex id-dettalji fir-Reġistru tas-Sidien Benefiċjarji fir-rigward ta’ sid benefiċjarju ma jibqgħux kurrenti, huma żbaljati jew mhux kompluti, l-assoċjazzjoni għandha, fi żmien erbatax (14)-il jum mid-data li fiha l-bidla tkun irreġistrata mal-assoċjazzjoni, tagħti lir-Reġistratur għal Persuni Ġuridiċi avviż, fil-forma preskritta, tal-bidla, li jipprovdi l-informazzjoni meħtieġa taħt ir-regolament 4 dwar kwalunkwe sid benefiċjarju ġdid, informazzjoni aġġornata inkluż dwar in-natura u l-estent tal-interess benefiċjarju miżmum fuq kull wieħed mis-sidien benefiċjarji l-oħra u d-data effettiva tal-bidliet magħmula, u r- ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 Reġistratur għall-Persuni Ġuridiċi għandu jdaħħal l-imsemmija bidliet fir-Reġistru tas-Sidien Benefiċjarji:
+(2) Meta jkun hemm bidla fis-sjieda benefiċjarja ta’ assoċjazzjoni jew kwalunkwe bidla oħra sseħħ li twassal sabiex id-dettalji fir-Reġistru tas-Sidien Benefiċjarji fir-rigward ta’ sid benefiċjarju ma jibqgħux kurrenti, huma żbaljati jew mhux kompluti, l-assoċjazzjoni għandha, fi żmien erbatax (14)-il jum mid-data li fiha l-bidla tkun irreġistrata mal-assoċjazzjoni, tagħti lir-Reġistratur għal Persuni Ġuridiċi avviż, fil-forma preskritta, tal-bidla, li jipprovdi l-informazzjoni meħtieġa taħt ir-regolament 4 dwar kwalunkwe sid benefiċjarju ġdid, informazzjoni aġġornata inkluż dwar in-natura u l-estent tal-interess benefiċjarju miżmum fuq kull wieħed mis-sidien benefiċjarji l-oħra u d-data effettiva tal-bidliet magħmula, u r- Reġistratur għall-Persuni Ġuridiċi għandu jdaħħal l-imsemmija bidliet fir-Reġistru tas-Sidien Benefiċjarji:
 
 Iżda jekk il-bidla fl-informazzjoni dwar is-sjieda benefiċjarja tkun relatata ma’ bidla fl-amministratur, għandu jkun id-dmir tal-amministratur fil-kariga tiegħu minn hemm ‘il quddiem li jinnotifika lir-Reġistratur għal Persuni Ġuridiċi b’tali bidla.
-
-*13*
 
 (3) Ir-Reġistratur għal Persuni Ġuridiċi ma għandux, malli jirċievi l-avviż imsemmi fis-subregolament preċedenti, jirreġistra kwalunkwe tibdil fis-sidien benefiċjarji fir-Reġistru ta’ Sidien Benefiċjarji sakemm ir-rekwiżiti ta’ dawn ir-regolamenti ma jkunux ġew imħarsa, u dan, b’referenza għall-avviż innifsu jew għal kwalunkwe raġuni oħra.
 
@@ -327,11 +299,9 @@ Iżda assoċjazzjoni u l-amministraturi tal-assoċjazzjoni ma għandhomx ikunu r
 
 (a) l-isem ta’ kwalunkwe persuna huwa, mingħajr raġuni suffiċjenti, imdaħħal jew imħolli barra mir-reġistru ta’ sidien benefiċjarji - membri jew mir-reġistru ta’ sidien benefiċjarji - persuni rilevanti miżmuma u aġġornati minn assoċjazzjoni jew mir-Reġistru ta’ Sidien Benefiċjarji miżmuma u aġġornati mir-Reġistratur tal-Persuni Ġuridiċi; jew
 
-(b) dewmien bla bżonn, li jkun mill-inqas aktar minn tletin (30) jum, iseħħ biex jidħlu jew jitneħħa minn tali reġistri l-fatt li persuna saret jew waqfet tkun membru jew persuna [L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) rilevanti ta’ tali assoċjazzjoni,
+(b) dewmien bla bżonn, li jkun mill-inqas aktar minn tletin (30) jum, iseħħ biex jidħlu jew jitneħħa minn tali reġistri l-fatt li persuna saret jew waqfet tkun membru jew persuna rilevanti ta’ tali assoċjazzjoni,
 
 il-persuna aggravata jew kwalunkwe membru jew persuna rilevanti tista’ tapplika lill-Prim’Awla tal-Qorti Ċivili, għar-rettifika tar-reġistru rilevanti u/jew ir-Reġistru tas-Sidien Benefiċjarji.
-
-*14*
 
 (2) Meta jsir rikors taħt is-subregolament (1), il-Prim’Awla tal-Qorti Ċivili tista’:
 
@@ -351,11 +321,9 @@ il-persuna aggravata jew kwalunkwe membru jew persuna rilevanti tista’ tapplik
 
 (4) (a) Persuni suġġetti msemmija fis-subregolament (1)(b) tar-regolament 10 u, jekk xieraq u sal-punt li dan ma jfixkilx bla bżonn il-funzjonijiet tagħhom, l-awtoritajiet kompetenti msemmija fis-subregolament (1)(a) tar-regolament 10, għandhom jirrapportaw lir- Reġistratur għal Persuni Ġuridiċi kull diskrepanza li jsibu bejn l-informazzjoni disponibbli dwar is-sjieda benefiċjarji fir-Reġistru tas- Sidien Benefiċjarji u l-informazzjoni dwar is-sjieda benefiċjarja disponibbli mod ieħor għalihom.
 
-(b) Fil-każ ta’ diskrepanzi rrappurtati, ir-Reġistratur għal Persuni Ġuridiċi għandu, kemm-il darba ma jkunx ipprojbit mod ieħor skont dawn ir-regolamenti u sal-punt permess biss minn dawn ir-regolamenti, jinforma lill-assoċjazzjoni bid-diskrepanza rrappurtata li titlob kjarifika dwarha f’perjodu ta’ żmien indikat hemmhekk, flimkien ma’ kull dokumentazzjoni li huwa għandu jqis neċessarja biex dik id-diskrepanza tiġi riżolta, u jista’ fid-diskrezzjoni tiegħu, idaħħal annotazzjoni fir-Reġistru tas-Sidien Benefiċjarji kif jidhirlu xieraq. ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 (ċ) Ir-Reġistratur għal Persuni Ġuridiċi jista’ jiddetermina, fil-każ ta’ assoċjazzjonijiet reġistrati, li d-diskrepanza hija materjali u tista’ ddgħajjef l-utilità ta’ informazzjoni pubblika fir-Reġistru ta’ Persuni Ġurdiċi u, f’tali każ, tista’ tinnota d-diskrepanza anke fir- Reġistru ta’ Persuni Ġuridiċi sakemm din tiġi kkoreġuta għas-sodisfazzjon tiegħu. Din ir-regola għandha tapplika mutatis mutandis għal reġistraturi, kummissjonarji, bordijiet jew awtoritajiet u reġistri oħra taħt liġijiet speċjali oħra li r-Reġistratur għal Persuni Ġuridiċi jista’ jinnotifika bil-miktub bi kwalunkwe diskrepanza li tista’ tiġi għall-attenzjoni tiegħu.
+(b) Fil-każ ta’ diskrepanzi rrappurtati, ir-Reġistratur għal Persuni Ġuridiċi għandu, kemm-il darba ma jkunx ipprojbit mod ieħor skont dawn ir-regolamenti u sal-punt permess biss minn dawn ir-regolamenti, jinforma lill-assoċjazzjoni bid-diskrepanza rrappurtata li titlob kjarifika dwarha f’perjodu ta’ żmien indikat hemmhekk, flimkien ma’ kull dokumentazzjoni li huwa għandu jqis neċessarja biex dik id-diskrepanza tiġi riżolta, u jista’ fid-diskrezzjoni tiegħu, idaħħal annotazzjoni fir-Reġistru tas-Sidien Benefiċjarji kif jidhirlu xieraq. (ċ) Ir-Reġistratur għal Persuni Ġuridiċi jista’ jiddetermina, fil-każ ta’ assoċjazzjonijiet reġistrati, li d-diskrepanza hija materjali u tista’ ddgħajjef l-utilità ta’ informazzjoni pubblika fir-Reġistru ta’ Persuni Ġurdiċi u, f’tali każ, tista’ tinnota d-diskrepanza anke fir- Reġistru ta’ Persuni Ġuridiċi sakemm din tiġi kkoreġuta għas-sodisfazzjon tiegħu. Din ir-regola għandha tapplika mutatis mutandis għal reġistraturi, kummissjonarji, bordijiet jew awtoritajiet u reġistri oħra taħt liġijiet speċjali oħra li r-Reġistratur għal Persuni Ġuridiċi jista’ jinnotifika bil-miktub bi kwalunkwe diskrepanza li tista’ tiġi għall-attenzjoni tiegħu.
 
 (d) Ir-Reġistratur għal Persuni Ġuridiċi jista’ jirrapporta tali diskrepanzi lill-Korp għall-Analisi ta’ Informazzjoni Finanzjarja f’każ ta’ nuqqas ta’ indirizzar tad-diskrepanza fi żmien raġonevoli.
-
-*15*
 
 ## 10. Aċċess għall-informazzjoni fir- Reġistru tas-Sidien Benefiċjarji.
 
@@ -375,9 +343,7 @@ il-persuna aggravata jew kwalunkwe membru jew persuna rilevanti tista’ tapplik
 
 (a) l-isem;
 
-*16*
-
-[L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) (b) ix-xahar u s-sena tat-twelid jew id-data ta’ twaqqif jew reġistrazzjoni f’każ ta’ organizzazzjoni legali;
+(b) ix-xahar u s-sena tat-twelid jew id-data ta’ twaqqif jew reġistrazzjoni f’każ ta’ organizzazzjoni legali;
 
 (ċ) in-nazzjonalità jew l-Istat ta’ twaqqif jew reġistrazzjoni f’każ ta’ organizzazzjoni legali;
 
@@ -401,11 +367,9 @@ tas-sidien benefiċjarji tal-assoċjazzjoni u dan għandu jingħata fil-ħin. Kw
 
 (a) dettalji ta’ identifikazzjoni u informazzjoni oħra appoġġata minn dokumenti, iċċertifikati bħala awtentiċi, li tidentifika l-persuna li titlob informazzjoni mir-Reġistru tas- Sidien Benefiċjarji;
 
-(b) dikjarazzjoni tal-bażi legali tat-talba tagħhom biex ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 jikkonfermaw li l-iskop tal-inkjesta huwa relatat u se jikkontribwixxi għall-prevenzjoni, il-kxif u l-ġlieda kontra l-money laundering jew ir-reati predikati assoċjati jew il-finanzjament tat-terroriżmu u deskrizzjoni ġenerali ta’ kif l-aċċess għall-informazzjoni se jikkontribwixxi għal hekk;
+(b) dikjarazzjoni tal-bażi legali tat-talba tagħhom biex jikkonfermaw li l-iskop tal-inkjesta huwa relatat u se jikkontribwixxi għall-prevenzjoni, il-kxif u l-ġlieda kontra l-money laundering jew ir-reati predikati assoċjati jew il-finanzjament tat-terroriżmu u deskrizzjoni ġenerali ta’ kif l-aċċess għall-informazzjoni se jikkontribwixxi għal hekk;
 
 (ċ) kull dokument ieħor li r-Reġistratur għal Persuni Ġuridiċi jista’ jqis neċessarju:
-
-*17*
 
 Iżda għal dan il-għan, ir-Reġistratur għal Persuni Ġuridiċi jista’ jippubblika linji gwida li jistabbilixxu d-dokumentazzjoni meħtieġa biex jappoġġjaw din it-talba għall-informazzjoni miżmuma fir-Reġistru tas-Sidien Benefiċjarji kif ukoll il-proċedura biex isiru dawn it-talbiet u kwalunkwe kondizzjoni oħra applikabbli.
 
@@ -423,11 +387,9 @@ disponibbli għall-assoċjazzjoni u/jew is-sid benefiċjarju rilevanti biex din 
 
 (a) l-awtoritajiet kompetenti msemmija fis-subregolament (1)(a) għandhom jingħataw aċċess mingħajr restrizzjoni għall-informazzjoni mitluba li tkun miżmuma fir- Reġistru ta’ Sidien Benefiċjarji bil-preżunzjoni li din il-konsultazzjoni hija relatata mal-funzjonijiet statutorji ta’ tali awtorità kompetenti u mingħajr preġudizzju għall-obbligi tal-awtorità kompetenti rilevanti skont il-liġijiet u r-regolamenti applikabbli dwar il-protezzjoni tad-data;
 
-(b) persuni suġġetti msemmija fis-subregolament (1)(b) għandhom jingħataw aċċess għall-informazzjoni mitluba li tkun miżmuma fir-Reġistru ta’ Sidien Benefiċjarji fuq talba bil-miktub lir-Reġistratur għal Persuni Ġuridiċi abbażi tad-dikjarazzjonijiet magħmula u d-dokumenti sottomessi kif [L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) iddikjarat fis-subregolament (3) bħala sodisfaċenti u mingħajr preġudizzju għall-obbligi tal-persuna suġġetta rilevanti taħt liġijiet u regolamenti applikabbli dwar il-protezzjoni tad-data u liġijiet dwar is-segretezza professjonali; u
+(b) persuni suġġetti msemmija fis-subregolament (1)(b) għandhom jingħataw aċċess għall-informazzjoni mitluba li tkun miżmuma fir-Reġistru ta’ Sidien Benefiċjarji fuq talba bil-miktub lir-Reġistratur għal Persuni Ġuridiċi abbażi tad-dikjarazzjonijiet magħmula u d-dokumenti sottomessi kif iddikjarat fis-subregolament (3) bħala sodisfaċenti u mingħajr preġudizzju għall-obbligi tal-persuna suġġetta rilevanti taħt liġijiet u regolamenti applikabbli dwar il-protezzjoni tad-data u liġijiet dwar is-segretezza professjonali; u
 
 (ċ) il-persuni jew organizzazzjonijiet li jiffurmaw parti mill-pubbliku ġenerali msemmija fis-subregolament (2) għandhom jingħataw l-informazzjoni mitluba dwar konformità sodisfaċenti mas-subregolament (4).
-
-*18*
 
 Iżda kull talba bħal din u kull permess mogħti għandhom ikunu limitati għall-assoċjazzjoni speċifika u s-sid jew sidien benefiċjarji speċifiċi msemmija fit-talba.
 
@@ -439,11 +401,9 @@ Iżda kull talba bħal din u kull permess mogħti għandhom ikunu limitati għal
 
 (8) (a) Ir-Reġistratur għal Persuni Ġuridiċi għandu jkun marbut li jinnotifika lill-assoċjazzjoni li għaliha japplika s-subregolament (7), bil-miktub, b’kull applikazzjoni għall-informazzjoni relatata mal-applikanti msemmija fis-subregolamenti (1)(b), u (2) u l-bażi legali għat-talba.
 
-(b) Ir-Reġistratur għal Persuni Ġuridiċi għandu jagħti lill-assoċjazzjoni mill-inqas għaxart (10) ijiem tax-xogħol biex tagħmel kwalunkwe sottomissjoni bil-miktub lir-Reġistratur għal Persuni Ġuridiċi. L-assoċjazzjoni għandha tikkomunika l-informazzjoni lil kwalunkwe sid benefiċjarju rilevanti għal kwalunkwe kumment li sid benefiċjarju jista’ jkun jixtieq iqajjem f’dak il-ħin u manjiera li tippermetti lill-assoċjazzjoni tirrispondi kif imsemmi hawn fuq. Ir- ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 Reġistratur għal Persuni Ġuridiċi għandu jipproċessa t-tweġiba riċevuta fil-ħin.
+(b) Ir-Reġistratur għal Persuni Ġuridiċi għandu jagħti lill-assoċjazzjoni mill-inqas għaxart (10) ijiem tax-xogħol biex tagħmel kwalunkwe sottomissjoni bil-miktub lir-Reġistratur għal Persuni Ġuridiċi. L-assoċjazzjoni għandha tikkomunika l-informazzjoni lil kwalunkwe sid benefiċjarju rilevanti għal kwalunkwe kumment li sid benefiċjarju jista’ jkun jixtieq iqajjem f’dak il-ħin u manjiera li tippermetti lill-assoċjazzjoni tirrispondi kif imsemmi hawn fuq. Ir- Reġistratur għal Persuni Ġuridiċi għandu jipproċessa t-tweġiba riċevuta fil-ħin.
 
 (ċ) Jekk ir-Reġistratur għal Persuni Ġuridiċi jiddeċiedi li jagħti aċċess, huwa għandu jipprovdi r-raġunijiet għad-deċiżjoni tiegħu lill-assoċjazzjoni bil-miktub qabel ma jinnotifika din id-deċiżjoni lir-rikorrent u l-assoċjazzjoni għandu jkollha d-dritt li tikkontesta din id-deċiżjoni billi tapplika għal reviżjoni ġudizzjarja ta’ tali deċiżjoni fi żmien għoxrin (20) jum tax-xogħol minn meta tirċeviha, u din mingħajr ma tinvolvi lir-rikorrent. Ir-rikors ġuramentat għal reviżjoni ġudizzjarja għandu jiġi nnotifikat lir-Reġistratur għal Persuni Ġuridiċi li għandu jkollu għoxrin (20) jum tax-xogħol biex jirrispondi għal din l-applikazzjoni:
-
-*19*
 
 Iżda r-Reġistratur għal Persuni Ġuridiċi ma għandux jagħti aċċess qabel il-konklużjoni tal-proċeduri ta’ reviżjoni, u f’tali każ biss taħt il-kondizzjonijiet li jistgħu jiġu stabbiliti mill-Qorti.
 
@@ -459,13 +419,11 @@ Iżda r-Reġistratur għal Persuni Ġuridiċi ma għandux jagħti aċċess qabel
 
 *Talbiet online għall-aċċess.*
 
-(12) Ir-Reġistratur għal Persuni Ġuridiċi għandu jkun intitolat li jitlob biss talbiet għall-aċċess għall-informazzjoni online fir- [L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) Reġistru ta’ Sidien Benefiċjarji, kif stabbilit fil-linji gwida li huwa jista’ joħroġ għal dan il-għan.
+(12) Ir-Reġistratur għal Persuni Ġuridiċi għandu jkun intitolat li jitlob biss talbiet għall-aċċess għall-informazzjoni online fir- Reġistru ta’ Sidien Benefiċjarji, kif stabbilit fil-linji gwida li huwa jista’ joħroġ għal dan il-għan.
 
 *Skambju ta’ informazzjoni.*
 
 (13) Minkejja d-dispożizzjonijiet ta’ kwalunkwe liġi oħra, inklużi l-liġijiet dwar is-segretezza professjonali u l-protezzjoni tad-data, l-awtoritajiet kompetenti msemmija fis-subregolament (1)(a) u l- Korp għall-Analisi ta’ Informazzjoni Finanzjarja huma permessi, fil-funzjonijiet tagħhom skont il-liġi applikabbli, jipprovdu l-informazzjoni dwar is-sidien benefiċjarji lill-awtoritajiet kompetenti u lill-Korpi għall-Analisi ta’ Informazzjoni Finanzjarja ta’ Stati Membri oħra tal-Unjoni Ewropea u biex jagħmlu dan fil-ħin u bla ħlas.
-
-*20*
 
 *Statistika.*
 
@@ -485,11 +443,9 @@ Iżda r-Reġistratur għal Persuni Ġuridiċi ma għandux jagħti aċċess qabel
 
 (2) Sabiex jiġi żgurat li r-Reġistratur għal Persuni Ġuridiċi ma jkunx mgħarraq b’talbiet taħt dawn ir-regolamenti li jkunu jistgħu jintlaħqu faċilment bl-osservanza tal-konformità bażika mal-liġijiet applikabbli u sabiex jiġu evitati talbiet lir-Reġistratur għal Persuni Ġuridiċi li ma humiex eliġibbli taħt dawn ir-regolamenti:
 
-(a) il-persuni suġġetti kollha għandhom jittrattaw ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 direttament ma’ assoċjazzjonijiet u sidien benefiċjarji qabel ma japplikaw lir-Reġistratur għal Persuni Ġuridiċi; u
+(a) il-persuni suġġetti kollha għandhom jittrattaw direttament ma’ assoċjazzjonijiet u sidien benefiċjarji qabel ma japplikaw lir-Reġistratur għal Persuni Ġuridiċi; u
 
 (b) l-assoċjazzjonijiet kollha għandhom jipprovdu informazzjoni dwar is-sidien benefiċjarji tagħhom, diretti u indiretti, lil persuni suġġetti, kif ukoll oħrajn intitolati għal tali informazzjoni taħt liġijiet speċjali, fil-ħin, meta:
-
-*21*
 
 (i) tali persuni suġġetti qegħdin iwettqu miżuri ta’ customer due diligence skont Att kontra Money Laundering u r-regolamenti applikabbli; jew
 
@@ -509,11 +465,9 @@ għandu jkun ħati ta’ reat u jeħel meta jinsab ħati, multa ta’ mhux aktar
 
 ## 14. Interkonnessjoni tar-Reġistru tas- Sidien Benefiċjarji.
 
-(1) Ir-Reġistru tas-Sidien tal-Benefiċjarji miżmum mir-Reġistratur għal Persuni Ġuridiċi skont ir-regolament 7 għandu jkun interkonness mas-sistema ta’ interkonnessjoni tar-reġistri ċentrali tal-Istati Membri stabbilit mill-Artikolu 22 tad-Direttiva (UE) 2017/ 1132 u skont il-liġi nazzjonali, permezz tal-Pjattaforma Ċentrali Ewropea u l-portal Ewropew tal-Ġustizzja Elettronika li jservu bħala l-punt ta’ aċċess elettroniku Ewropew. Il-konnessjoni mal-pjattaforma [L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) għandha tkun stabbilita skont l-ispeċifikazzjonijiet tekniċi u l-proċeduri stabbiliti mill-atti ta’ implimentazzjoni adottati mill-Kummissjoni Ewropea.
+(1) Ir-Reġistru tas-Sidien tal-Benefiċjarji miżmum mir-Reġistratur għal Persuni Ġuridiċi skont ir-regolament 7 għandu jkun interkonness mas-sistema ta’ interkonnessjoni tar-reġistri ċentrali tal-Istati Membri stabbilit mill-Artikolu 22 tad-Direttiva (UE) 2017/ 1132 u skont il-liġi nazzjonali, permezz tal-Pjattaforma Ċentrali Ewropea u l-portal Ewropew tal-Ġustizzja Elettronika li jservu bħala l-punt ta’ aċċess elettroniku Ewropew. Il-konnessjoni mal-pjattaforma għandha tkun stabbilita skont l-ispeċifikazzjonijiet tekniċi u l-proċeduri stabbiliti mill-atti ta’ implimentazzjoni adottati mill-Kummissjoni Ewropea.
 
 (2) L-informazzjoni dwar is-sidien benefiċjarji ta’ assoċjazzjoni miżmuma mir-Reġistratur għal Persuni Ġuridiċi fir- Reġistru ta’ Sidien Benefiċjarji għandha tkun disponibbli u aċċessibbli għall-awtoritajiet imsemmija fir-regolament 10(1)(a) permezz tas-sistema ta’ interkonnessjoni tar-reġistri msemmija f’dan ir-regolament.
-
-*22*
 
 (3) L-informazzjoni dwar is-sidien benefiċjarji ta’ assoċjazzjoni miżmuma mir-Reġistratur għal Persuni Ġuridiċi fir- Reġistru ta’ Sidien Benefiċjarji għandha tkun disponibbli permezz tar- Reġistru ta’ Sidien Benefiċjarji u permezz tas-sistema ta’ interkonnessjoni tar-reġistri għal mill-inqas ħames (5) snin wara:
 
@@ -535,11 +489,9 @@ Kull dokument li hu meħtieġ li jintbagħat lir-Reġistratur għal Persuni Ġur
 
 (1) Fejn xi dispożizzjoni ta’ dawn ir-regolamenti tipprovdi għall-impożizzjoni ta’ penali, l-ammont ta’ dik il-penali għandu jiġi determinat b’referenza għall-Iskeda, li tispeċifika l-penali massima li tista’ tiġi mposta mir-Reġistratur għal Persuni Ġuridiċi taħt xi dispożizzjoni ta’ dawn ir-regolamenti.
 
-(2) L-ewwel kolonna tal-Iskeda tindika r-regolament u s-subregolament li jippreskrivi li għandha tiġi mposta penali, it-tieni kolonna tagħti deskrizzjoni ġenerali tal-ksur, liema deskrizzjoni ma għandhiex tiġi kkunsidrata fl-interpretazzjoni ta’ xi dispożizzjoni ta’ ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 dawn ir-regolamenti, it-tielet kolonna tiddeskrivi l-penali massima u r-raba’ kolonna tippreskrivi l-penali massima għal kull ġurnata. Il-penali tkun dovuta fil-ġurnata meta jsir il-ksur tad-dispożizzjoni u l-penali ta’ kuljum għall-ksur tkun dovuta għal kull ġurnata li l-ksur ikompli, u għandha tibda tgħodd mill-ġurnata wara dik meta jitwettaq il-ksur.
+(2) L-ewwel kolonna tal-Iskeda tindika r-regolament u s-subregolament li jippreskrivi li għandha tiġi mposta penali, it-tieni kolonna tagħti deskrizzjoni ġenerali tal-ksur, liema deskrizzjoni ma għandhiex tiġi kkunsidrata fl-interpretazzjoni ta’ xi dispożizzjoni ta’ dawn ir-regolamenti, it-tielet kolonna tiddeskrivi l-penali massima u r-raba’ kolonna tippreskrivi l-penali massima għal kull ġurnata. Il-penali tkun dovuta fil-ġurnata meta jsir il-ksur tad-dispożizzjoni u l-penali ta’ kuljum għall-ksur tkun dovuta għal kull ġurnata li l-ksur ikompli, u għandha tibda tgħodd mill-ġurnata wara dik meta jitwettaq il-ksur.
 
 (3) L-azzjoni tar-Reġistratur għal Persuni Ġuridiċi sabiex jiġbor penali taħt dawn ir-regolamenti tkun preskritta wara li jgħaddu ħames (5) snin mill-ġurnata meta jkun sar ir-reat.
-
-*23*
 
 (4) Assoċjazzjoni, irrispettivament jekk ikollhiex personalità ġuridika jew le, tkun responsabbli in solidum mal-uffiċjali tagħha għall-ħlas ta’ kull penali amministrattiva imposta taħt dawn ir-regolamenti.
 
@@ -557,9 +509,7 @@ Ir-Reġistratur għal Persuni Ġuridiċi għandu jkollu s-setgħa li joħroġ u 
 
 Ir-Reġistratur għall-Persuni Ġuridiċi jista’, minn żmien għal żmien, joħroġ linji gwida għall-implimentazzjoni aħjar ta’ dawn ir-regolamenti f’kuntesti partikolari.
 
-*24*
-
-[L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) SKEDA
+## SKEDA
 
 (Regulation 16)
 
@@ -607,13 +557,11 @@ Id-dispożizzjonijiet li ġejjin għandhom japplikaw għal kull penali mposta mi
 
 (2) Avviż kif imsemmi fil-paragrafu (1) għandu, malli tiġi notifikata kopja tiegħu permezz ta’ ittra uffiċjali lill-assoċjazzjoni u, jew xi persuna indikata fl-avviż, jikkostitwixxi titolu eżekuttiv għall-effetti u għanijiet kollha tat-Titolu VII tat-Taqsima I tat-Tieni Ktieb tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili sakemm dik il-persuna, fi żmien tletin (30) jum mid-data tan-notifika, ma tibdiex proċeduri quddiem il-qorti biex toġġezzjona għal dik il-penali hekk imposta.
 
-(3) Fejn xi assoċjazzjoni u, jew xi persuna tixtieq tibda proċeduri ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) [L.S.16.17 biex toġġezzjona għal penali msemmija fil-paragrafu (1), dawk il-proċeduri għandhom jinbdew permezz ta’ rikors kontra r- Reġistratur għal Persuni Ġuridiċi.
+(3) Fejn xi assoċjazzjoni u, jew xi persuna tixtieq tibda proċeduri biex toġġezzjona għal penali msemmija fil-paragrafu (1), dawk il-proċeduri għandhom jinbdew permezz ta’ rikors kontra r- Reġistratur għal Persuni Ġuridiċi.
 
 *(4)*
 
 L-applikazzjoni għandha, taħt piena ta’ nullità, tiddikjara b’mod ċar u konċiż in-natura tal-ilment, il-fatti li dwarhom seħħ l-ilment, ir-raġunijiet li għalihom dak l-ilment għandu jintlaqa’ u t-talba li l-penali mhijiex dovuta skont il-liġi jew hi dovuta f’ammont inqas biss.
-
-*25*
 
 *(5)*
 
@@ -639,9 +587,7 @@ Ir-Reġistratur għal Persuni Ġuridiċi għandu, fit-tweġiba tiegħu, jiddikja
 
 (11) Il-qorti għandha tisma’ r-rikors sal-konklużjoni fi żmien ħamest (5) ijiem tax-xogħol mid-data ffissata għas-smigħ oriġinali tar-rikors, u ma jingħata l-ebda differiment ħlief jew bil-kunsens taż-żewġ partijiet, jew għal raġuni eċċezzjonali li għandha tiġi reġistrata mill-qorti, u dik id-data tad-differiment ma għandhiex tkun aktar tard minn data ġustifikata għal dik ir-raġuni.
 
-*26*
-
-[L.S. 16.17 ASSOĊJAZZJONIJIET (IT-TIENI SKEDA) (KODIĊI ĊIVILI) (12) Bla ħsara għall-paragrafi ta’ qabel, id-dispożizzjonijiet tal- Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili li għandhom x’jaqsmu ma’ proċeduri quddiem il-Prim’ Awla tal-Qorti Ċivili għandhom japplikaw fir-rigward ta’ kull tali rikors.
+(12) Bla ħsara għall-paragrafi ta’ qabel, id-dispożizzjonijiet tal- Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili li għandhom x’jaqsmu ma’ proċeduri quddiem il-Prim’ Awla tal-Qorti Ċivili għandhom japplikaw fir-rigward ta’ kull tali rikors.
 
 (13) Minkejja d-dispożizzjonijiet tal-artikolu 256(2) tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili, it-titolu eżekuttiv imsemmi fil-paragrafu (2) ma jkunx eżegwibbli qabel ma jgħaddu tletin (30) jum min-notifika tal-att ġudizzjarju msemmi f’dak l-artikolu.
 

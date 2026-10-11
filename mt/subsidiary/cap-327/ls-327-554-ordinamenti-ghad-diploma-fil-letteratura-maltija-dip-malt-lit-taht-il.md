@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma fil-Letteratura Maltija - Dip. Malt. Lit. - taħt il-patroċinju tal-Fakultà tal-Arti (S.L. 327.554)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.554
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.554**
 
 **ORDINAMENTI GĦAD-DIPLOMA FIL-**
@@ -72,10 +68,6 @@ Il-kors jinfirex fuq medda ta’ erba’ semestri ta’ studju fuq bażi part-ti
 ## 6. Programm tal-kors.
 
 (1) Il-kors għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati 60 krettu ECTS.
-
-*2*
-
-[L.S.327.554 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI
 
 (2) L-istudenti jkunu eliġibbli għall-għoti tad-Diploma jekk jiksbu s-60 krettu ECTS kif spjegat fil-programm ta’ studju tal-kors.
 

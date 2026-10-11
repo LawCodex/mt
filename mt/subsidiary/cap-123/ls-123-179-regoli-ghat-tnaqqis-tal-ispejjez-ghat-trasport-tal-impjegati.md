@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regoli għat-Tnaqqis tal-Ispejjeż għat-Trasport tal-Impjegati (S.L. 123.179)
 
-*1*
-
-GĦAT-TRASPORT TAL-IMPJEGATI [L.S. 123.179 LEĠISLAZZJONI SUSSIDJARJA 123.179
+**LEĠISLAZZJONI SUSSIDJARJA 123.179**
 
 **REGOLI GĦAT-TNAQQIS TAL-ISPEJJEŻ GĦAT-**
 
@@ -55,11 +53,7 @@ F'dawn ir-regoli, sakemm il-kuntest ma jeħtieġx xorta oħra:-
 
 (2) Fir-rigward ta’ kwalunkwe sena ta’ stima, it-tnaqqis imsemmi fis-subregola (1) jista’ jintalab biss fuq l-anqas ta’:
 
-(i) €25,000 tal-Ispejjeż tat-Trasport ta’ Impjegati [L.S. 123.179 GĦAT-TRASPORT TAL-IMPJEGATI
-
-mġarrba mill-intrapriża fis-sena ta’ qabel is-sena ta’ stima;
-
-*2*
+(i) €25,000 tal-Ispejjeż tat-Trasport ta’ Impjegati mġarrba mill-intrapriża fis-sena ta’ qabel is-sena ta’ stima;
 
 jew
 
@@ -80,7 +74,3 @@ It-tnaqqis disponibbli taħt dawn ir-regoli jista’ jsir biss jekk l-intrapriż
 ## 5. Effettività.
 
 Dawn ir-regoli għandhom jibqgħu fis-seħħ sas-sena ta’ stima 2020.
-
-*3*
-
-GĦAT-TRASPORT TAL-IMPJEGATI [L.S. 123.179

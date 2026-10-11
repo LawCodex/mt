@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar iċ-Ċertifikazzjonijiet u l-Kwalifiki meħtieġa għall-Industrija (S.L. 123.220)
 
-*1*
-
-GĦALL-INDUSTRIJA [L.S.123.220] LEĠISLAZZJONI SUSSIDJARJA 123.220
+LEĠISLAZZJONI SUSSIDJARJA 123.220
 
 REGOLI DWAR IĊ-ĊERTIFIKAZZJONIJIET U L- KWALIFIKI MEĦTIEĠA GĦALL-INDUSTRIJA
 
@@ -62,11 +60,7 @@ F’dawn ir-regoli, kemm-il darba r-rabta tal-kliem ma teħtieġxxort’oħra:
 
 * Kap. 327.  Kap. 451.*
 
-"kwalifika rilevanti" tfisser kwalifika akkademika li, skont l-Att dwar l-Edukazzjoni jew l-Att dwar ir- Rikonoxximent Reċiproku ta’ Kwalifiki hija kklassifikata jew [L.S. 123.220] GĦALL-INDUSTRIJA
-
-hija rikonoxxuta bħala ekwivalenti għal kwalifika sħiħa f’Livell 6 jew ogħla taħt il-Qafas Malti tal-Kwalifiki;
-
-*2*
+"kwalifika rilevanti" tfisser kwalifika akkademika li, skont l-Att dwar l-Edukazzjoni jew l-Att dwar ir- Rikonoxximent Reċiproku ta’ Kwalifiki hija kklassifikata jew hija rikonoxxuta bħala ekwivalenti għal kwalifika sħiħa f’Livell 6 jew ogħla taħt il-Qafas Malti tal-Kwalifiki;
 
 "noti ta’ gwida" tfisser in-noti ta’ gwida kif ippubblikati mill-Korporazzjoni minn żmien għal żmien sabiex jiġu stabbiliti proċeduri u gwida f’aspetti fejn dawn ir-regoli jagħtu diskrezzjoni u setgħat ta’ deċiżjoni lill-Korporazzjoni;
 
@@ -86,9 +80,7 @@ Individwu jista’ jitlob kreditu ta’ taxxa li ma għandux jeċċedi sebgħin 
 
 (a) elf u ħames mitt euro (€1,500) meta ċ-ċertifikat rilevanti jiġi determinat mill-Korporazzjoni sabiex jikkwalifika bħala Taħriġ Edukattiv Vokazzjonali u jkun ġie kklassifikat mill- Awtorità ta’ Malta għal Edukazzjoni Avvanzata u Ogħla f’ċertifikat ta’ Livell 3 taħt il-Qafas Malti tal-Kwalifiki;
 
-*3*
-
-GĦALL-INDUSTRIJA [L.S.123.220] (b) elfejn u ħames mitt euro (€2,500) meta ċ-ċertifikat rilevanti jiġi determinat mill-Korporazzjoni sabiex jikkwalifika bħala Taħriġ Edukattiv Vokazzjonali u jkun ġie kklassifikat mill-Awtorità ta’ Malta għal Edukazzjoni Avvanzata u Ogħla f’ċertifikat ta’ Livell 4 taħt il-Qafas Malti tal-Kwalifiki;
+(b) elfejn u ħames mitt euro (€2,500) meta ċ-ċertifikat rilevanti jiġi determinat mill-Korporazzjoni sabiex jikkwalifika bħala Taħriġ Edukattiv Vokazzjonali u jkun ġie kklassifikat mill-Awtorità ta’ Malta għal Edukazzjoni Avvanzata u Ogħla f’ċertifikat ta’ Livell 4 taħt il-Qafas Malti tal-Kwalifiki;
 
 (ċ) elfejn u ħames mitt euro (€2,500) meta ċ-ċertifikat rilevanti jiġi determinat mill-Korporazzjoni sabiex jikkwalifika bħala ċertifikazzjoni rikonoxxuta mill-industrija;
 
@@ -106,11 +98,7 @@ Iżda l-kisba ta’ grad ta’ dottorat jew l-ekwivalenti tista’ tiġi appoġ�
 
 Iżda:
 
-(i) il-krediti ta’ taxxa msemmija f’din ir-regola ma jistgħux jintalbu jekk l-ispejjeż tal-istudju jkunu ġew iffinanzjati kompletament jew parzjalment [L.S. 123.220] GĦALL-INDUSTRIJA
-
-permezz ta’ sorsi oħra ta’ finanzjament pubbliku jew permezz ta’ partijiet terzi, sakemm il-finanzjament ma jkunx irid jitħallas lura kollu mill-individwu;
-
-*4*
+(i) il-krediti ta’ taxxa msemmija f’din ir-regola ma jistgħux jintalbu jekk l-ispejjeż tal-istudju jkunu ġew iffinanzjati kompletament jew parzjalment permezz ta’ sorsi oħra ta’ finanzjament pubbliku jew permezz ta’ partijiet terzi, sakemm il-finanzjament ma jkunx irid jitħallas lura kollu mill-individwu;
 
 (ii) il-kreditu ta’ taxxa mogħti kif imsemmi f’din ir-regola għandu jkun dovut bħala tnaqqis mit-taxxa li għandha titħallas mill-individwu fuq l-income taxxabbli tiegħu mis-sena ta’ stima li tiġi wara s-sena kalendarja li fiha tinkiseb l-għotja rilevanti jew is-sena ta’ stima li tiġi wara s-sena kalendarja li fiha jingħata l-kreditu ta’ taxxa kif għandu jiġi determinat mill-Korporazzjoni; u
 
@@ -128,13 +116,11 @@ permezz ta’ sorsi oħra ta’ finanzjament pubbliku jew permezz ta’ partijie
 
 (d) f’Livell 8 tal-Qafas Malti tal-Kwalifiki li huwa determinat mill-Korporazzjoni li jikkwalifika bħala kwalifika STEM għandu jkun intitolat għal kreditu ta’ taxxa fuq il-bonus għall-kisba ta’ għaxart elef euro (€10,000).
 
-(2) Sa nofs il-kreditu ta’ taxxa fuq il-bonus għall-kisba, għandu jiġi utilizzat fit-tielet (3) sena ta’ stima wara s-sena li fiha tinkiseb il-kwalifika u n-nofs li jifdal tal-bonus għall-kisba għandu jiġi utilizzat fir-raba’ (4) sena ta’ stima wara s-sena li fiha tinkiseb il-kwalifika u kwalunkwe kreditu ta’ taxxa fuq il-bonus għall-kisba li ma jistax jiġi utilizzat, għandu jintilef u ma għandux jitmexxa ’l quddiem GĦALL-INDUSTRIJA [L.S.123.220] għal xi snin sussegwenti. Fis-snin rilevanti tal-kreditu ta’ taxxa fuq il-bonus għall-kisba, il-kreditu ta’ taxxa jista’ jiġi utilizzat qabel u flimkien mal-kreditu ta’ taxxa Get Qualified mogħti taħt ir-regola 3.
+(2) Sa nofs il-kreditu ta’ taxxa fuq il-bonus għall-kisba, għandu jiġi utilizzat fit-tielet (3) sena ta’ stima wara s-sena li fiha tinkiseb il-kwalifika u n-nofs li jifdal tal-bonus għall-kisba għandu jiġi utilizzat fir-raba’ (4) sena ta’ stima wara s-sena li fiha tinkiseb il-kwalifika u kwalunkwe kreditu ta’ taxxa fuq il-bonus għall-kisba li ma jistax jiġi utilizzat, għandu jintilef u ma għandux jitmexxa ’l quddiem għal xi snin sussegwenti. Fis-snin rilevanti tal-kreditu ta’ taxxa fuq il-bonus għall-kisba, il-kreditu ta’ taxxa jista’ jiġi utilizzat qabel u flimkien mal-kreditu ta’ taxxa Get Qualified mogħti taħt ir-regola 3.
 
 ## 5. Applikazzjoni.
 
 (1) Meta individwu jikseb għotja rilevanti, l-individwu għandu fi żmien tnax (12)-il xahar mid-data tal-kisba tal-għotja rilevanti jissottometti applikazzjoni lill-Korporazzjoni għall-benefiċċji pprovduti f’dawn ir-regoli.
-
-*5*
 
 (2) Fi kwalunkwe perjodu kontinwu ta’ ħames (5) snin kalendarji, individwu jista’ jissottometti biss erba’ (4) applikazzjonijiet u ma jistax jingħata kreditu ta’ taxxa ieħor fir-rigward tal-kisba ta’ kwalunkwe għotja oħra.
 
@@ -156,8 +142,4 @@ Meta l-individwu li jitlob il-benefiċċju jkun:
 
 (ċ) individwu impjegat, kemm jekk impjegat fuq bażi full-time jew part-time, li jitlob għajnuna fir-rigward ta’ kors ta’ studju li huwa relatat mal-pożizzjoni, il-professjoni jew l-impjieg attwali tiegħu,
 
-l-għajnuna massima ma tistax teċċedi tliet mitt elf euro (€300,000) fuq perjodu ta’ tliet (3) snin skont il-pattijiet u l-kondizzjonijiet tar-Regolament tal-Kummissjoni (UE) 2023/2831 tat- [L.S. 123.220] GĦALL-INDUSTRIJA
-
-13 ta’ Diċembru 2023 dwar l-applikazzjoni tal-Artikoli 107 u 108 tat- Trattat dwar il-Funzjonament tal-Unjoni Ewropea għall-għajnuna de minimis - kif għandu jiġi stabbilit fin-noti ta’ gwida.
-
-*6*
+l-għajnuna massima ma tistax teċċedi tliet mitt elf euro (€300,000) fuq perjodu ta’ tliet (3) snin skont il-pattijiet u l-kondizzjonijiet tar-Regolament tal-Kummissjoni (UE) 2023/2831 tat- 13 ta’ Diċembru 2023 dwar l-applikazzjoni tal-Artikoli 107 u 108 tat- Trattat dwar il-Funzjonament tal-Unjoni Ewropea għall-għajnuna de minimis - kif għandu jiġi stabbilit fin-noti ta’ gwida.

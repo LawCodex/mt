@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Kontroll tal-Bejgħ ta' Bhejjem għall-Qatla u ta' Ċanga (S.L. 117.27)
 
-*1*
-
-G}ALL-QATLA U TA’ ~ANGA [L.S.117.27
-
 **LEĠISLAZZJONI SUSSIDJARJA 117.27**
 
 REGOLAMENTI DWAR IL-KONTROLL TAL-BEJGĦ TA’ BHEJJEM GĦALL-QATLA U TA’ ĊANGA\* 20 ta’ April, 1990 AVVIŻ LEGALI 60 tal-1990, kif emendat bl-Avviżi Legali 75 tal-1990 u 409 tal-2007; u bl-Att XIII tal-2015.

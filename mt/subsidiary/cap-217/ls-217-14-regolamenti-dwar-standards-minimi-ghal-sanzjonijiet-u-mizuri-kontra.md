@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Standards Minimi għal Sanzjonijiet u Miżuri kontra Min Iħaddem lil Ċittadini minn Pajjiżi Terzi b’Residenza Illegali (S.L. 217.14)
 
-KONTRA MIN IĦADDEM LIL êITTADINI MINN PAJJIśI
-
-*1*
-
-TERZI B’RESIDENZA ILLEGALI [L.S.217.14
-
 **SUBSIDIARY LEGISLATION 217.14**
 
 **REGOLAMENTI DWAR STANDARDS MINIMI**
@@ -61,10 +55,6 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieāx xort’o�
 
 "impjieg illegali", għall-finijiet ta’ dawn ir-regolamenti, tfisser impjieg ta’ ëittadin ta’ pajjiŜ terz residenti illegalment;
 
-*2*
-
-KONTRA MIN IĦADDEM LIL êITTADINI MINN PAJJIśI [L.S.217.14 TERZI B’RESIDENZA ILLEGALI
-
 "kondizzjonijiet ta’ xogħol partikolarment abbuŜivi" tfisser kondizzjonijiet ta’ xogħol, inkluŜi dawk li jirriŜultaw minn diskriminazzjoni bbaŜata fuq il-āeneru jew minn diskriminazzjoni oħra, fejn ikun hemm sproporzjon impressjonanti meta mqabbla mat-termini tal-impjieg ta’ ħaddiema impjegati b’mod legali, li, bħala eŜempju, ikun qiegħed jaffettwa lis-saħħa u lis-sikurezza tal-ħaddiema, u jmur kontra d-dinjità tal-bniedem;
 
 "min iħaddem" tfisser kwalunkwe persuna fiŜika jew kwalunkwe entità legali, inkluŜi aāenziji ta’ xogħol temporanju, li għal jew taħt id-direzzjoni u, jew is-superviŜjoni tagħhom jitwettaq l-impjieg;
@@ -99,13 +89,7 @@ KONTRA MIN IĦADDEM LIL êITTADINI MINN PAJJIśI [L.S.217.14 TERZI B’RESIDENZA
 
 (ë) iŜomm, għal mill-inqas it-tul tal-impjieg, kopja jew record tal-permess tar-residenza jew awtorizzazzjoni oħra ta’ residenza disponibbli għall-ispezzjoni possibbli mill-awtoritajiet kompetenti.
 
-(2) Min iħaddem li jkun issodisfa l-obbligi tiegħu stipulati fis- KONTRA MIN IĦADDEM LIL êITTADINI MINN PAJJIśI
-
-*3*
-
-TERZI B’RESIDENZA ILLEGALI [L.S.217.14
-
-subregolament (1) ma jinŜammx responsabbli għal ksur tal-projbizzjoni msemmija fir-regolament 3 sakemm dik il-persuna li tħaddem ma kinitx taf li d-dokument ippreŜentat bħala permess validu ta’ residenza jew awtorizzazzjoni oħra ta’ residenza kien iffalsifikat.
+(2) Min iħaddem li jkun issodisfa l-obbligi tiegħu stipulati fis-subregolament (1) ma jinŜammx responsabbli għal ksur tal-projbizzjoni msemmija fir-regolament 3 sakemm dik il-persuna li tħaddem ma kinitx taf li d-dokument ippreŜentat bħala permess validu ta’ residenza jew awtorizzazzjoni oħra ta’ residenza kien iffalsifikat.
 
 ## 5. Sanzjonijiet finanzjarji u miŜuri oħra.
 
@@ -133,11 +117,7 @@ subregolament (1) ma jinŜammx responsabbli għal ksur tal-projbizzjoni msemmija
 
 (a) l-eskluŜjoni mid-dritt għall-benefiëëji, l-għajnuna jew is-sussidji pubbliëi kollha, jew uħud minnhom, inkluŜ l-iffinanzjar tal-UE mmaniāājat mill-Gvern ta’ Malta għal mhux iktar minn ħames snin;
 
-(b) l-eskluŜjoni mill-parteëipazzjoni f’kuntratt pubbliku kif imfisser f’xi regolamenti dwar kuntratti pubbliëi dwar il-proëeduri ta’ koordinazzjoni għall-għoti ta’ KONTRA MIN IĦADDEM LIL êITTADINI MINN PAJJIśI [L.S.217.14 TERZI B’RESIDENZA ILLEGALI
-
-kuntratti pubbliëi ta’ xogħol, kuntratti pubbliëi ta’ forniment u kuntratti pubbliëi ta’ servizz sa ħames snin; u
-
-*4*
+(b) l-eskluŜjoni mill-parteëipazzjoni f’kuntratt pubbliku kif imfisser f’xi regolamenti dwar kuntratti pubbliëi dwar il-proëeduri ta’ koordinazzjoni għall-għoti ta’ kuntratti pubbliëi ta’ xogħol, kuntratti pubbliëi ta’ forniment u kuntratti pubbliëi ta’ servizz sa ħames snin; u
 
 (ë) ir-radd lura tal-benefiëëji, l-għajnuna u s-sussidji pubbliëi kollha, jew uħud minnhom, inkluŜ il-finanzjament mill-UE amministrat mill-Gvern ta’ Malta, mogħtija lil min iħaddem għal mhux iktar minn tnax-il xahar qabel il-kxif tal-impjieg illegali.
 
@@ -169,13 +149,7 @@ IŜda meta r-reat kriminali jkun aggravat b’xi waħda jew aktar mië-ëirkosta
 
 ## 8. Responsabbiltà ta’ persuni āuridiëi.
 
-(1) Meta l-persuna li tinsab ħatja ta’ reat taħt dawn ir-regolamenti tkun id-direttur, il-manager, is-segretarju jew xi uffiëjal prinëipali ieħor ta’ korp magħqud jew tkun persuna li KONTRA MIN IĦADDEM LIL êITTADINI MINN PAJJIśI
-
-*5*
-
-TERZI B’RESIDENZA ILLEGALI [L.S.217.14
-
-jkollha setgħa ta’ rappreŜentanza ta’ tali korp jew ikollha awtorità li tieħu deëiŜjonijiet f ’isem dak il-korp jew ikollha awtorità li teŜerëita kontroll fi ħdan dak il-korp u r-reat li dik il-persuna tkun instabet ħatja dwaru jkun sar għall-benefiëëju, sew f ’parti sew għalkollox, ta’ dak il-korp magħqud, dik il-persuna għandha għall-finijiet ta’ dawn ir-regolamenti titqies bħala li tkun vestita bir-rappreŜentanza legali tal-istess korp magħqud li għandu jeħel il-ħlas ta’ multa ta’ mhux iŜjed minn elfejn u ħames mitt euro (€2,500).
+(1) Meta l-persuna li tinsab ħatja ta’ reat taħt dawn ir-regolamenti tkun id-direttur, il-manager, is-segretarju jew xi uffiëjal prinëipali ieħor ta’ korp magħqud jew tkun persuna li jkollha setgħa ta’ rappreŜentanza ta’ tali korp jew ikollha awtorità li tieħu deëiŜjonijiet f ’isem dak il-korp jew ikollha awtorità li teŜerëita kontroll fi ħdan dak il-korp u r-reat li dik il-persuna tkun instabet ħatja dwaru jkun sar għall-benefiëëju, sew f ’parti sew għalkollox, ta’ dak il-korp magħqud, dik il-persuna għandha għall-finijiet ta’ dawn ir-regolamenti titqies bħala li tkun vestita bir-rappreŜentanza legali tal-istess korp magħqud li għandu jeħel il-ħlas ta’ multa ta’ mhux iŜjed minn elfejn u ħames mitt euro (€2,500).
 
 (2) Id-disposizzjonijiet tas-subartikolu (1) għandhom japplikaw meta persuna tinsab ħatja ta’ reat taħt dawn ir-regolamenti iŜda b’dan illi l-korp magħqud għandu, mingħajr preāudizzju għal kull piena oħra li tista’ tkun imposta taħt xi liāi oħra, jeħel il-piena ta’ multa ta’ mhux iŜjed minn elfejn u ħames mitt euro (€2,500).
 

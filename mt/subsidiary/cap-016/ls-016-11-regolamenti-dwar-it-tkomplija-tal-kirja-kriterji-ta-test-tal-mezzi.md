@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar it-Tkomplija tal-Kirja (Kriterji ta’ Test tal-Mezzi) (S.L. 16.11)
 
-*1*
-
-(KRITERJI TA’ TEST TAL-MEZZI) [L.S.16.11
-
 **LEĠISLAZZJONI SUSSIDJARJA 16.11**
 
 REGOLAMENTI DWAR IT-TKOMPLIJA TAL-KIRJA (KRITERJI TA’ TEST TAL-MEZZI)
@@ -60,10 +56,6 @@ Mingħajr preġudizzju għad-dispożizzjonijiet tar-regolament 8, l-uniku perjod
 
 \*Ara r-regolament 1(2) ta’ dawn ir-Regolamenti kif oriġinarjament promulgati.
 
-*2*
-
-[L.S.16.11 (KRITERJI TA’ TEST TAL-MEZZI)
-
 (2) Bla ħsara għal kull dritt proċedurali li jista’ jiġi eżerċitat fi proċeduri tat-test tal-mezzi jew dwarhom u għad-dispożizzjonijiet tar-regolament 8, it-test tal-mezzi jista’ jiġi ripetut biss skont id-dispożizzjonijiet tas-subartikolu (8) tal-artikolu 4A tal-Ordinanza li tirregola t-Tiġdid tal-Kera ta’ Bini u tas-subartikolu (8) tal-artikolu 12B tal-Ordinanza li Tneħħi l-Kontroll tad-Djar.
 
 *Kap. 69. Kap. 158.*
@@ -92,11 +84,7 @@ biex il-Bord tal-Kera jkun jista’ jistabbilixxi jekk dik il-persuna tkunx matu
 
 (2) Sabiex persuna li jkollha inqas minn sitta u tletin (36) sena tkun tista’ tissodisfa l-kriterju tad-dħul tat-test tal-mezzi, id-dħul ta’ dik il-persuna matul il-perjodu relevanti m’għandux jeċċedi t-tmienja u għoxrin elf u ħames mitt euro (€28,500).
 
-(3) Sabiex persuna li jkollha bejn sitta u tletin (36) sa ħamsa u (KRITERJI TA’ TEST TAL-MEZZI) [L.S.16.11
-
-erbgħin (45) sena tkun tista’ tissodisfa l-kriterju tad-dħul tat-test tal-mezzi, id-dħul ta’ dik il-persuna matul il-perjodu relevanti m’għandux jeċċedi t-tmienja u tletin elf euro (€38,000).
-
-*3*
+(3) Sabiex persuna li jkollha bejn sitta u tletin (36) sa ħamsa u erbgħin (45) sena tkun tista’ tissodisfa l-kriterju tad-dħul tat-test tal-mezzi, id-dħul ta’ dik il-persuna matul il-perjodu relevanti m’għandux jeċċedi t-tmienja u tletin elf euro (€38,000).
 
 (4) Sabiex persuna li jkollha bejn sitta u erbgħin (46) sa ħamsa u ħamsin (55) sena tkun tista’ tissodisfa l-kriterju tad-dħul tat-test tal-mezzi, id-dħul ta’ dik il-persuna matul il-perjodu relevanti m’għandux jeċċedi t-tnejn u erbgħin elf euro (€42,000).
 
@@ -122,11 +110,7 @@ erbgħin (45) sena tkun tista’ tissodisfa l-kriterju tad-dħul tat-test tal-me
 
 (3) Sabiex persuna li jkollha bejn sitta u erbgħin (46) sa ħamsa u ħamsin (55) sena tkun tista’ tissodisfa l-kriterju tal-kapital tat-test tal-mezzi, il-kapital ta’ dik il-persuna m’għandux jeċċedi l-mija u ħamsa u tmenin elf euro (€185,000).
 
-(4) Sabiex persuna li jkollha bejn sitta u ħamsin (56) sa ħamsa u sittin (65) sena tkun tista’ tissodisfa l-kriterju tal-kapital tat-test tal- [L.S.16.11 (KRITERJI TA’ TEST TAL-MEZZI)
-
-mezzi, il-kapital ta’ dik il-persuna m’għandux jeċċedi l-mitejn u tlettax-il elf euro (€213,000).
-
-*4*
+(4) Sabiex persuna li jkollha bejn sitta u ħamsin (56) sa ħamsa u sittin (65) sena tkun tista’ tissodisfa l-kriterju tal-kapital tat-test tal-mezzi, il-kapital ta’ dik il-persuna m’għandux jeċċedi l-mitejn u tlettax-il elf euro (€213,000).
 
 (5) Sabiex persuna li jkollha bejn sitta u sittin (66) sa ħamsa u sebgħin (75) sena tkun tista’ tissodisfa l-kriterju tal-kapital tat-test tal-mezzi, il-kapital ta’ dik il-persuna m’għandux jeċċedi l-mitejn u ħamsa u erbgħin elf euro (€245,000).
 
@@ -160,9 +144,7 @@ Fil-kalkolu tal-kriterju tal-kapital tat-test tal-mezzi, għandhom jitqiesu:
 
 Iżda għall-iskop tal-paragrafu (a), fejn il-Bord isib li l-pussess tad-dar ta’ abitazzjoni ma jkunx vakanti għax l-użu tagħha jkun ġie konċess lil terz taħt kwalunkwe titolu inkluż kirja, il-Bord għandu jikkunsidra l-kondizzjonijiet li bihom il-kerrej ikun jista’ jirriprendi l-pussess tad-dar ta’ abitazzjoni, u jekk din ir-ripreża tkun tista’ ssir f’xi żmien fil-qrib, dik id-dar ta’ abitazzjoni għandha tiġi inkluża fil-kalkolu tal-kriterju tal-kapital tat-test tal-mezzi xorta waħda:
 
-*5*
-
-(KRITERJI TA’ TEST TAL-MEZZI) [L.S.16.11 Iżda wkoll fil-każ imsemmi fl-ewwel proviso, jekk b’riżultat tal-inklużjoni tad-dar ta’ abitazzjoni fil-kalkolu l-kerrej ma jissodisfax il-kriterji tal-kapital tat-test tal-mezzi, il-Bord għandu jkollu l-jedd li jestendi l-perjodu msemmi taħt is-subartikolu (4) tal-artikolu 4A tal-Ordinanza li tirregola t-Tiġdid tal-Kiri ta’ Bini u tal-artikolu 12B tal-Ordinanza li Tneħħi l-Kontroll tad-Djar:
+Iżda wkoll fil-każ imsemmi fl-ewwel proviso, jekk b’riżultat tal-inklużjoni tad-dar ta’ abitazzjoni fil-kalkolu l-kerrej ma jissodisfax il-kriterji tal-kapital tat-test tal-mezzi, il-Bord għandu jkollu l-jedd li jestendi l-perjodu msemmi taħt is-subartikolu (4) tal-artikolu 4A tal-Ordinanza li tirregola t-Tiġdid tal-Kiri ta’ Bini u tal-artikolu 12B tal-Ordinanza li Tneħħi l-Kontroll tad-Djar:
 
 *Kap. 69. Kap. 158.*
 

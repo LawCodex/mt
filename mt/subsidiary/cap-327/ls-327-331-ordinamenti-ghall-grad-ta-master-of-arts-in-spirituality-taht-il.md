@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Spirituality taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.331)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.331
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.331**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -73,11 +69,7 @@ Il-kors ikun offrut f’oqsma ta’ speċjalizzazzjoni fil- Spirituality kif im�
 
 ## 5. Tul tal-kors.
 
-Il-kors għandu jinfirex fuq perjodu ta’ tliet semestri ta’ studju fuq bażi full-time jew l-ekwivalenti fi studju fuq bażi part- [L.S.327.331 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA
-
-time.
-
-*2*
+Il-kors għandu jinfirex fuq perjodu ta’ tliet semestri ta’ studju fuq bażi full-time jew l-ekwivalenti fi studju fuq bażi part-time.
 
 ## 6. Programm ta’ studju.
 
@@ -119,11 +111,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 ## 11. Superviżur.
 
-(1) L-istudenti għandhom iżommu kuntatt regolari mas- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.331
-
-superviżur tagħhom.
-
-*3*
+(1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

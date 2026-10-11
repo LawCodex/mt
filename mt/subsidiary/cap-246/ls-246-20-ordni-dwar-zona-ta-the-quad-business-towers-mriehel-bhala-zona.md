@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Żona ta’ The Quad Business Towers, Mrieħel, bħala Żona Speċjali Msemmija (S.L. 246.20)
 
-*1*
-
-MRIEĦEL, BĦALA ŻONA SPEĊJALI MSEMMIJA [L.S. 246.20
-
 **LEĠISLAZZJONI SUSSIDJARJA 246.20**
 
 **ORDNI DWAR ŻONA TA’ THE QUAD BUSINESS**
@@ -44,7 +40,3 @@ The Quad Business Towers, Mrieħel li tikkonsisti fi proprjetà immobbli sitwata
 ## 3. Żjieda mal-Ewwel Skeda li tinsab mal-Att. Kap. 246.
 
 The Quad Business Towers, Mrieħel għandha tiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l- Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti.
-
-*2*
-
-[L.S. 246.20 MRIEĦEL, BĦALA ŻONA SPEĊJALI MSEMMIJA

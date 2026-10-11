@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar ir-Rimi u Ġbir ta’ Skart fil-Belt Valletta"
-identifier: "S.L. 206.2"
+identifier: "S.L. 206.02"
 eli: "https://legislation.mt/eli/sl/206.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,9 @@ version: "https://legislation.mt/eli/sl/206.2/20180608/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar ir-Rimi u Ġbir ta’ Skart fil-Belt Valletta (S.L. 206.2)
+# Regolamenti dwar ir-Rimi u Ġbir ta’ Skart fil-Belt Valletta (S.L. 206.02)
 
-*1*
-
-SKART FIL-BELT VALLETTA [L.S.206.02 LEĠISLAZZJONI SUSSIDJARJA 206.02
+**LEĠISLAZZJONI SUSSIDJARJA 206.02**
 
 **REGOLAMENTI DWAR IR-RIMI U ĠBIR TA’**
 
@@ -69,11 +67,7 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 
 "Valletta" tfisser l-arja ġeografika indikata fit-Tieni Skeda tal- Att dwar Gvern Lokali;
 
-"vettura N1" tfisser vettura użata għall-ġarr ta’ merkanzija u li [L.S. 206.02 SKART FIL-BELT VALLETTA
-
-għandha piż massimu ta’ mhux iżjed minn 3.5 tunnellati.
-
-*2*
+"vettura N1" tfisser vettura użata għall-ġarr ta’ merkanzija u li għandha piż massimu ta’ mhux iżjed minn 3.5 tunnellati.
 
 ## 3. Projbizzjonijiet.
 
@@ -99,11 +93,9 @@ Il-ġbir tal-iskart fil-Belt Valletta jista’ jsir biss minn kolletturi tal-isk
 
 (a) għar-rigward ta’ skart solidu muniċipali, bejn 7.00am u 8.30am u bejn 3.00pm u 5.00pm miż-żoni indikati fil-pjanta annessa mat-Tieni Skeda bħala ż-żoni għall-ġbir ta’ skart solidu muniċipali minn trasportatur ta’ skart solidu muniċipali; u
 
-(b) għar-rigward ta’ skart kummerċjali, bejn 3.00pm u 5.00pm u bejn 12.00am u 3.00am miż-żoni indikati fil-pjanta annessa mat-Tieni Skeda bħala ż-żoni għall-ġbir ta’ SKART FIL-BELT VALLETTA [L.S.206.02 skart kummerċjali minn trasportatur ta’ skart kummerċjali.
+(b) għar-rigward ta’ skart kummerċjali, bejn 3.00pm u 5.00pm u bejn 12.00am u 3.00am miż-żoni indikati fil-pjanta annessa mat-Tieni Skeda bħala ż-żoni għall-ġbir ta’ skart kummerċjali minn trasportatur ta’ skart kummerċjali.
 
 (2) It-trasportaturi ta’ skart kummerċjali huma obbligati li jiġbru l-iskart miż-żoni indikati fil-pjanta annessa mat-Tieni Skeda bl-użu ta’ vetturi illi d-daqs u l-ispeċifikazzjonijiet tagħhom huma konformi ma’ dawk stabbiliti fil-paragrafu (b) tal-Ewwel Skeda u għandhom minnufih, f’post li għandu jiġi indikat għal dak il-għan mill-Kunsill Lokali, jittrasferixxu l-iskart kollu minnhom miġbur għal ġo vettura li tagħsar l-iskart.
-
-*3*
 
 (3) Il-ġbir tal-iskart għall-ippakkjar minn operaturi tal-ġbir tal-iskart li huma liċenzjati u kuntrattati biex jiġbru dan it-tip ta’ skart jistgħu jiġbru dan l-iskart biss waqt il-ħinijiet stabbiliti fis-subregolament (1) l-użu ta’ vetturi N1 li, għar-rigward ta’ skart li għandu jinġabar miż-żoni indikati fil-pjanta annessa mat-Tieni Skeda bħala ż-zoni għall-ġbir ta’ skart solidu muniċipali għandhom ikunu tad-daqs u speċifikazzjonijiet indikati fil-paragrafu (a) tal-Ewwel Skeda filwaqt li għar-rigward ta’ skart li għandu jinġabar miż-żoni indikati fil-pjanta annessa mat-Tieni Skeda bħala ż-żoni għall-ġbir ta’ skart kummerċjali għandhom ikunu tad-daqs u speċifikazzjonijiet indikati fil-paragrafu (b) tal-Ewwel Skeda.
 
@@ -117,11 +109,7 @@ Iżda wkoll, f’dak il-każ, l-istabbiliment kummerċjali jkun obbligat li jgħ
 
 (2) Barra minn hekk, kull min, fi kwalunkwe ħin, inkluż f’dawk il-ħinijiet indikati f’dawn ir-Regolamenti għall-ġbir tal-iskart, iħalli jew jiddepożita xi skart fil-Belt Valletta, ikun kif ikun ippakkjat jew iddepożitat, fi kwalunkwe post għajr wara l-bieb tiegħu, ikun ħati ta’ reat kriminali.
 
-(3) Kull min iwaħħal, jabbanduna jew iħalli mwaħħal fi kwalunkwe post fil-beraħ fil-Belt Valletta xi flyers, sinjali, posters, permessi skaduti jew kwalsijasi ħaġa oħra stampata, ikun ħati ta’ reat [L.S. 206.02 SKART FIL-BELT VALLETTA
-
-kriminali.
-
-*4*
+(3) Kull min iwaħħal, jabbanduna jew iħalli mwaħħal fi kwalunkwe post fil-beraħ fil-Belt Valletta xi flyers, sinjali, posters, permessi skaduti jew kwalsijasi ħaġa oħra stampata, ikun ħati ta’ reat kriminali.
 
 (4) Kull min iqiegħed skip fi kwalunkwe post pubbliku fil- Belt Valletta mingħajr il-permess tal-Kunsill Lokali jew, wara li jkun kiseb tali permess mill-Kunsill Lokali, jonqos milli jneħħi l-imsemmi skip sa mhux aktar tard mit-8.00pm tal-istess jum li għalih ikun ingħata l-permess biex iqiegħdu, ikun ħati ta’ reat kriminali.
 
@@ -151,11 +139,9 @@ kriminali.
 
 (5) F’kull każ fejn persuna tiġi akkużata li wettqet reat kriminali bi ksur ta’ dawn ir-regolamenti bl-użu ta’ vettura, il-kawża għandha tinstema’ biss u esklussivament minn qorti ta’ ġurisdizzjoni kriminali.
 
-*5*
+## 9. Reati mwettqa b’vetturi.
 
-SKART FIL-BELT VALLETTA [L.S.206.02 9. (1) Kull meta persuna tinstab ħatja li wettqet reat kontra dawn ir-regolamenti bl-użu ta’ vettura, sid dik il-vettura, fejn applikabbli, għandu jinżamm responsabbli bl-istess mod u grad.
-
-*Reati mwettqa b’vetturi.*
+(1) Kull meta persuna tinstab ħatja li wettqet reat kontra dawn ir-regolamenti bl-użu ta’ vettura, sid dik il-vettura, fejn applikabbli, għandu jinżamm responsabbli bl-istess mod u grad.
 
 (2) Kull meta persuna tinstab ħatja li wettqet reat kontra dawn ir-regolamenti bl-użu ta’ vettura, il-qorti tista’, b’żjieda mal-piena stabbilita skont dawn ir-regolamenti, tiskwalfika lill-ħati minn kull liċenzja tas-sewqan għall-perjodu ta’ mhux inqas minn sitt xhur, fil-każ tal-ewwel reat, u għall-perjodu ta’ mhux inqas minn sena fil-każ tat-tieni reat.
 
@@ -174,10 +160,6 @@ SKART FIL-BELT VALLETTA [L.S.206.02 9. (1) Kull meta persuna tinstab ħatja li w
 (5) Jekk il-persuna timxi skont l-avviż u tħallas il-multa fiż-żmien preskritt, ebda proċeduri oħra m’għandhom jittieħdu fir-rigward tal-reat kriminali in kwistjoni u l-ħlas tal-multa għandu jitqies, għall-finijiet u l-efetti kollha, bħala ammissjoni ta’ ħtija.
 
 (6) Id-dispożizzjonijiet ta’ dan ir-regolament japplikaw biss fil-każ tal-ewwel reat iżda ma japplikawx meta persuna tkun wettqet it-tieni reat jew aktar.
-
-*6*
-
-[L.S. 206.02 SKART FIL-BELT VALLETTA
 
 ## L-EWWEL SKEDA
 
@@ -205,19 +187,11 @@ Wisgħa: 2500 millimetru
 
 Għoli: 2050 millimetru
 
-*7*
-
-SKART FIL-BELT VALLETTA [L.S.206.02
-
 ## IT-TIENI SKEDA
 
 (Regolament 6)
 
 Pjanta tal-Belt Valletta li turi, fejn huwa mmarkat bil-lewn aħmar, iż-żoni li minnhom għandu jinġabar l-iskart kummerċjali matul dawk il-ħinijiet indikati fil-paragrafu (b) tas-subregolament 6(1) filwaqt li ż-żona rimanenti fil-konfini tal-Belt Valletta immarkat bil-linja sewda turi minn fejn għandu jinġabar l-iskart solidu muniċipali matul dawk il-ħinijiet indikati fil-paragrafu (a) tas-subregolament 6(1)
-
-*8*
-
-[L.S. 206.02 SKART FIL-BELT VALLETTA
 
 ## IT-TIELET SKEDA
 

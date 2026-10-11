@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Tnaqqis għall-Faċilitajiet ta’ Childcare fil-Post tax-Xogħol (S.L. 123.118)
 
-TNAQQIS G}ALL-FA¬ILITAJIET
-
-*1*
-
-TA’ CHILDCARE FIL-POST TAX-XOG}OL [L.S.123.118
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.118**
 
 **REGOLI DWAR TNAQQIS G}ALL-FA¬ILITAJIET**

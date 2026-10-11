@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-Bdil ta’ Euro 200,000,000 mill-Euro 428,885,703 5.70% Stock tal-Gvern ta’Malta 2012 (III) f ’Euro 200,000,000 4.30% Stock tal-Gvern ta’ Malta 2016 (IV) (S.L. 161.89)
 
-STOCK TAL-GVERN TA’ MALTA 2012 (III) F’EURO
-
-*1*
-
-200,000,000 4.30% STOCK TAL-GVERN TA’ MALTA 2016 (IV) [L.S.161.89
-
 **LEĀISLAZZJONI SUSSIDJARJA 161.89**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI,**
@@ -71,8 +65,6 @@ L-ammont meħtieā għall-ħolqien u l-ħruā tal-iStock ser ikun ta’ Euro 200
 
 (1) L-imgħax bir-rata ta’ Euro 2.15 għal kull Euro 100, tal- 4.30% Stock tal-Gvern ta’ Malta 2016 (IV) jitħallas kull sitt xhur b’lura fis-16 ta’ Frar u fis-16 ta’ Awwissu ta’ kull sena matul il-kors tal-iStock.
 
-(2) L-ewwel ħlas ta’ mgħax ta’ Euro 2.15 għal kull Euro 100 Stock li jkopri l-perjodu mis-16 ta’ Awwissu, 2011 sal-15 ta’ Frar, STOCK TAL-GVERN TA’ MALTA 2012 (III) F’EURO 2 [L.S.161.89 200,000,000 4.30% STOCK TAL-GVERN TA’ MALTA 2016 (IV)
-
-2012 (iŜ-Ŝewā dati inkluŜi) isir fis-16 ta’ Frar, 2012.
+(2) L-ewwel ħlas ta’ mgħax ta’ Euro 2.15 għal kull Euro 100 Stock li jkopri l-perjodu mis-16 ta’ Awwissu, 2011 sal-15 ta’ Frar, 2012 (iŜ-Ŝewā dati inkluŜi) isir fis-16 ta’ Frar, 2012.
 
 Fidwa ta’ Stock. 8. Il-4.30% Stock tal-Gvern ta’ Malta 2016 (IV) jiāi mifdi b’parità fis- 16 ta’ Awwissu, 2016.

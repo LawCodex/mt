@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Għoti ta’ Ċittadinanza għal Servizzi Eċċezzjonali"
-identifier: "S.L. 188.4"
+identifier: "S.L. 188.04"
 eli: "https://legislation.mt/eli/sl/188.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/188.4/20171129/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Għoti ta’ Ċittadinanza għal Servizzi Eċċezzjonali (S.L. 188.4)
-
-*1*
-
-EĊĊEZZJONALI [L.S. 188.04
+# Regolamenti dwar l-Għoti ta’ Ċittadinanza għal Servizzi Eċċezzjonali (S.L. 188.04)
 
 **LEĠISLAZZJONI SUSSIDJARJA 188.04**
 
@@ -58,10 +54,6 @@ F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra -
 
 \* Imħassrin bl-Avviż Legali 437 tal-2020. Ara regolament 31 tal-istess Avviż Legali.
 
-*2*
-
-[L.S. 188.04 EĊĊEZZJONALI
-
 "kopja ċċertifikata" tfisser fotokopja ta’ dokument oriġinali ċċertifikata li tkun vera kopja tal-oriġinal minn avukat jew nutar pubbliku debitament liċenzjati jew minn uffiċjal konsulari jew diplomatiku Malti;
 
 "korp kompetenti stabbilit" tfisser l-entità reġistrata lokalment f’Malta, speċifikata fl-Ewwel Skeda, li għandha s-setgħa li tiddetermina jekk individwu hu rikonoxxut f’qasam partikolari bħala talent ewlieni, jew ikun wera indikazzjoni eċċezzjonali u x’aktarx ser isir talent ewlieni;
@@ -85,10 +77,6 @@ L-għan ta’ dawn ir-regolamenti hu sabiex jiġu preskritti l-ħtiġiet u sabie
 (ċ) tagħti prova ta’ servizzi eċċezzjonali mogħtija lir-Repubblika ta’ Malta jew lill-umanità, jew jekk l-individwu jiddikjara li n-naturalizzazzjoni tiegħu tkun ta’ interess eċċezzjonali għar-Repubblika ta’ Malta, jipprovdi approvazzjoni mill-korp kompetenti stabbilit;
 
 (d) tkun rakkomandata minn żewġ persuni li jkunu kwalifikati biex jaġixxu ta’ rakkomandanti għal persuni li japplikaw għaċ-ċittadinanza Maltija b’naturalizzazzjoni.
-
-*3*
-
-EĊĊEZZJONALI [L.S. 188.04
 
 (2) Applikazzjonijiet għandhom isiru fuq il-formuli preskritti taħt ir-Regolamenti dwar iċ-Ċittadinanza u għandu jkollhom magħhom l-oriġinali jew kopji ċertifikati ta’ dawn li ġejjin:
 
@@ -114,10 +102,6 @@ Iżda meta l-applikant ikun għadu membru tal-familja tiegħu, il-Ministru jista
 
 (6) L-applikazzjonijiet għandhom ikunu aċċettati u proċessati biss bil-kundizzjoni li l-formuli kollha jkunu mtlew kif suppost, ġew iddatati u ffirmati, u jkollhom magħhom id-dokumenti u d-drittijiet kollha meħtieġa.
 
-**EĊĊEZZJONALI**
-
-*[L.S. 188.04 4*
-
 ## 5. Kriterji ta’ eliġibilità.
 
 B’żjieda mal-kwalifiki u ħtiġiet ġenerali stabbiliti fir-regolament 4, il-kriterji minimi ta’ eliġibilità għandhom ikunu dawn li ġejjin:
@@ -141,10 +125,6 @@ B’żjieda mal-kwalifiki u ħtiġiet ġenerali stabbiliti fir-regolament 4, il-
 (ii) korruzzjoni ta’ minorenni,
 
 (iii) stupru,
-
-*5*
-
-EĊĊEZZJONALI [L.S. 188.04
 
 (iv) attentat vjolenti għall-pudur,
 
@@ -176,11 +156,7 @@ Applikant li -
 
 (f) ma tkunx inħarġitlu viża għal pajjiż li miegħu Malta jkollha arranġamenti ta’ viża u li sussegwentement ma jkunx kiseb viża għall-pajjiż li jkun ħareġ iċ-ċaħda,
 
-m’għandux jingħata ċittadinanza taħt l-artikolu 10(9)(ċ) tal-Att, sakemm il-Bord ma jkunx sodisfatt li l-applikazzjoni tkun xorta [L.S. 188.04 EĊĊEZZJONALI
-
-waħda xierqa li tiġi kkunsidrata għall-approvazzjoni minħabba f’ċirkostanzi speċjali li għandhom jiġu murija mill-applikant innifsu jew mill-korp kompetenti stabbilit. F’dan il-każ, Identità Malta għandha tirreferi l-applikazzjoni lill-Bord, u l-Bord fl-opinioni tiegħu, bir-raġunijiet għaliha, għandu jispjega għaliex dik l-applikazzjoni għandha tibqa’ tiġi kkunsidrata sabiex tiġi approvata. Il-Ministru fl-aħħar ikollu l-awtorità waħdanija li jagħti approvazzjoni bħal din.
-
-*6*
+m’għandux jingħata ċittadinanza taħt l-artikolu 10(9)(ċ) tal-Att, sakemm il-Bord ma jkunx sodisfatt li l-applikazzjoni tkun xorta waħda xierqa li tiġi kkunsidrata għall-approvazzjoni minħabba f’ċirkostanzi speċjali li għandhom jiġu murija mill-applikant innifsu jew mill-korp kompetenti stabbilit. F’dan il-każ, Identità Malta għandha tirreferi l-applikazzjoni lill-Bord, u l-Bord fl-opinioni tiegħu, bir-raġunijiet għaliha, għandu jispjega għaliex dik l-applikazzjoni għandha tibqa’ tiġi kkunsidrata sabiex tiġi approvata. Il-Ministru fl-aħħar ikollu l-awtorità waħdanija li jagħti approvazzjoni bħal din.
 
 ## 7. Bord ta’ Evalwazzjoni.
 
@@ -200,13 +176,9 @@ waħda xierqa li tiġi kkunsidrata għall-approvazzjoni minħabba f’ċirkostan
 
 (6) Membru tal-Bord jista’ jitneħħa mill-Kariga mill-Prim Ministru, iżda dak il-membru jista’ jitneħħa biss għal inabilità, bil-provi, li jaqdi l-funzjonijiet tal-kariga tiegħu (kemm jekk bħala riżultat ta’ mard tal-moħħ jew tal-ġisem jew għal xi raġuni oħra) jew għal kondotta ħażina.
 
-(7) Iċ-Chairperson u kull membru tal-Bord jista’ jastjeni milli jattendi, jew jista’ jiġi rikużat għal kwalunkwe waħda mir-raġunijiet imsemmija fl-artikolu 734 tal-Kodiċi ta’ Organizzazzjoni u EĊĊEZZJONALI [L.S. 188.04
+(7) Iċ-Chairperson u kull membru tal-Bord jista’ jastjeni milli jattendi, jew jista’ jiġi rikużat għal kwalunkwe waħda mir-raġunijiet imsemmija fl-artikolu 734 tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili.
 
 *Kap. 12.*
-
-Proċedura Ċivili.
-
-*7*
 
 (8) Bla ħsara għal dak kollu espressament previst f’dawn ir-regolamenti, il-Bord jista’ jagħmel ir-regoli tiegħu stess u mod ieħor jirregola l-proċeduri tiegħu.
 
@@ -232,11 +204,7 @@ Proċedura Ċivili.
 
 (ċ) b’validazzjoni taċ-ċertifikat minn konslu jew rappreżentant diplomatiku Malti, fil-każ ta’ ġurisdizzjoni li mhijiex parti f’dik il-Konvenzjoni.
 
-(4) Fi żmien disgħin jum minn meta tiġi ppreżentata applikazzjoni għaċ-ċittadinanza, l-Unità dwar iċ-Ċittadinanza fi ħdan [L.S. 188.04 EĊĊEZZJONALI
-
-Identità Malta għandha tivverifika li:
-
-*8*
+(4) Fi żmien disgħin jum minn meta tiġi ppreżentata applikazzjoni għaċ-ċittadinanza, l-Unità dwar iċ-Ċittadinanza fi ħdan Identità Malta għandha tivverifika li:
 
 (a) l-applikazzjoni hi formalment korretta;
 
@@ -254,19 +222,11 @@ Identità Malta għandha tivverifika li:
 
 ## 9. Privazzjoni ta’ ċittadinanza.
 
-Mingħajr preġudizzju għad-dispożizzjonijiet tal-artikolu 14 tal-Att, il-Ministru għandu jitqies illi fil-każijiet kollha ikun irriżerva d-dritt li jippriva lil persuna li tkun ingħatat ċittadinanza Maltija jekk applikant li jkun ingħata ċ-ċittadinanza jkun sar theddida għas-sigurtà nazzjonali jew ikun involut f’imġiba li tkun tippreġudika serjament l-interessi ta’ Malta jew fil-każ ta’ individwu li n-naturalizzazzjoni tiegħu kienet ġiet meqjusa bħala ta’ interess eċċezzjonali għar-Repubblika ta’ Malta, dak l-individwu jonqos milli juża l-ħiliet tiegħu għall-benefiċċju tar-Repubblika ta’ Malta. F’dawk EĊĊEZZJONALI [L.S. 188.04
-
-il-każijiet il-proċedura għall-privazzjoni taċ-ċittadinanza stipulata fl-artikolu 14 tal-Att u f’kull regolament magħmul taħt l-Att dwar dik il-privazzjoni, għandhom japplikaw mutatis mutandis.
-
-*9*
+Mingħajr preġudizzju għad-dispożizzjonijiet tal-artikolu 14 tal-Att, il-Ministru għandu jitqies illi fil-każijiet kollha ikun irriżerva d-dritt li jippriva lil persuna li tkun ingħatat ċittadinanza Maltija jekk applikant li jkun ingħata ċ-ċittadinanza jkun sar theddida għas-sigurtà nazzjonali jew ikun involut f’imġiba li tkun tippreġudika serjament l-interessi ta’ Malta jew fil-każ ta’ individwu li n-naturalizzazzjoni tiegħu kienet ġiet meqjusa bħala ta’ interess eċċezzjonali għar-Repubblika ta’ Malta, dak l-individwu jonqos milli juża l-ħiliet tiegħu għall-benefiċċju tar-Repubblika ta’ Malta. F’dawk il-każijiet il-proċedura għall-privazzjoni taċ-ċittadinanza stipulata fl-artikolu 14 tal-Att u f’kull regolament magħmul taħt l-Att dwar dik il-privazzjoni, għandhom japplikaw mutatis mutandis.
 
 ## 10. Żvelar.
 
 Il-Ministru għandu ta’ kull sena jippubblika fil-Gazzetta l-ismijiet tal-persuni kollha illi matul it-tnax-il xahar kalendarji ta’ qabel ikunu ingħataw iċ-ċittadinanza Maltija b’reġistrazzjoni jew b’naturalizazzjoni, inklużi dawk il-persuni illi jkunu ingħataw iċ-ċittadinanza Maltija għal servizzi eċċezzjonali.
-
-*10*
-
-[L.S. 188.04 EĊĊEZZJONALI
 
 ## L-Ewwel Skeda
 
@@ -306,13 +266,9 @@ Hekk Alla jgħini.
 
 ....................................
 
-Chairperson/Membru EĊĊEZZJONALI [L.S. 188.04
-
-## It-Tielet Skeda
+Chairperson/Membru It-Tielet Skeda
 
 *Miżjud: A.L. 213 tal-2019.*
-
-*11*
 
 (Regolament 4)
 

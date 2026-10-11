@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statut għall-Istitut tas-Sistemi Ambjentali (S.L. 327.356)
 
-*1*
-
-TAS-SISTEMI AMBJENTALI [L.S.327.356
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.356**
 
 **STATUT G}ALL-ISTITUT TAS-SISTEMI**
@@ -105,10 +101,6 @@ L-Istitut jitmexxa minn Bord li jkun mag]mul kif [ej:
 
 (v) il-Kordinaturi tad-Divizjonijiet;
 
-*3*
-
-TAS-SISTEMI AMBJENTALI [L.S.327.356
-
 (vi) il-Kap ta`-~entru Ewro-Mediterranju dwar id-Dinamika tal-Kosta;
 
 (vii) mhux aktar minn \\ew[ rappre\\entanti tal-istaff akkademiku li jg]allmu jew qeg]din jag]mlu ri`erka fi ]dan l-Istitut;
@@ -187,11 +179,7 @@ Id-dmirijiet tal-Vi`i-Chairman/Direttur huma li:
 
 (f) jippromovi l-b\\onnijiet akkademi`i u personali tal-istudenti, sabiex l-istudenti jing]ataw l-aqwa appo[[ f’ka\\ li jiltaqg]u ma’ diffikultajiet matul l-istudji tag]hom relatati mal-attivitajiet tal-Istitut;
 
-(g) iwettaq monitora[[ fuq it-tmexxija ta’ testijiet u TAS-SISTEMI AMBJENTALI [L.S.327.356
-
-e\\amijiet tal-Istitut u ji\\gura li r-ri\\ultati kollha tal-valutazzjonijiet u tal-e\\amijiet ji[u sottomessi fl- Uffi``ju tar-Re[istratur kif [ej:
-
-*5*
+(g) iwettaq monitora[[ fuq it-tmexxija ta’ testijiet u e\\amijiet tal-Istitut u ji\\gura li r-ri\\ultati kollha tal-valutazzjonijiet u tal-e\\amijiet ji[u sottomessi fl- Uffi``ju tar-Re[istratur kif [ej:
 
 • is-sessjoni ta’ Jannar - sal-a]]ar ta’ Marzu;
 
@@ -252,10 +240,6 @@ Id-dmirijiet tal-kordinatur huma li:
 (b) jidderie[i x-xog]ol akkademiku u jwettaq monitora[[ fuq l-i\\vilupp tal-kors ta’ studji fis-su[[ett tieg]u b’konsultazzjoni mal-letturi involuti fis-su[[ett;
 
 (`) jwettaq monitora[[ fuq u jassigura l-i\\vilupp akkademiku in [enerali g]all-a]jar tal-istudenti u jittratta ma’ ka\\ijiet ta’ nuqqas ta’ dixxiplina li jistg]u jitressqu quddiemu;
-
-*7*
-
-TAS-SISTEMI AMBJENTALI [L.S.327.356
 
 (d) jwettaq monitora[[ fuq il-kors ta’ studju u l-evalwazzjonijiet b’konsultazzjoni mal-letturi li jg]allmu s-su[[ett rispettivament.
 
@@ -327,9 +311,7 @@ It-Tmexxija u l-Organizzazzjoni ta`-~entru
 
 (iii) g]all-ippjanar tal-programm tal-attivitajiet ta`-~entru b’konsultazzjoni mal-Bord tal-Istitut, il-Kunsill Xjentifiku Konsultattiv u l-Kunsill tal- Ewropa;
 
-(iv) jipprepera r-rapport annwali tal-attivitajiet ta`-~entru u jissottomettih, TAS-SISTEMI AMBJENTALI [L.S.327.356 9
-
-flimkien mal-programm tas-sena li jmiss, lill-Bord tal-Istitut u lill- Kunsill Xjentifiku Konsultattiv.
+(iv) jipprepera r-rapport annwali tal-attivitajiet ta`-~entru u jissottomettih, flimkien mal-programm tas-sena li jmiss, lill-Bord tal-Istitut u lill- Kunsill Xjentifiku Konsultattiv.
 
 \9. Konformi mal-ewwel paragrafu ta’ din il-Ftehim, i`-~entru jgawdi minn e\\enzjoni fiskali s]i]a u kull kon`essjoni simili li l-Gvern jikkon`edi.
 

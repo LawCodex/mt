@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Bdil ta Lm5,000,000 mill-Lm40,000,000 6% Stock Lokali Reġistrat għall-Iżvilupp 1994 (II) f Lm5,000,000 5.65% Stock tal-Gvern ta Malta (Bdil) 1998 (IV) (S.L. 161.42)
 
-BDIL TA’ LM5,000,000 MILL-LM40,000,000 6% STOCK LOKALI
-
-RE{ISTRAT G}ALL-I|VILUPP 1994 (II) F’LM5,000,000 5.65%
-
-*1*
-
-STOCK TAL-GVERN TA’ MALTA (BDIL) 1998 (IV) [S.L.161.42
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.42**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

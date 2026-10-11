@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Fakultà tal-Kirurġija Dentali (S.L. 327.153)
 
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAL-KIRURĠIJA DENTALI [L.S.327.153
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.153**
 
 **ORDINAMENTI GĦALL-GRAD TA’**

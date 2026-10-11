@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali tal-2008 għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Arts in European Legal Studies – M.A. - taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.602)
 
-*1*
-
-M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S. 327.602 LEĠISLAZZJONI SUSSIDJARJA 327.602
+**LEĠISLAZZJONI SUSSIDJARJA 327.602**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -65,13 +63,11 @@ Il-Kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 ## 5. Il-Programm ta’ Studju
 
-Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu ECTS, li minnhom 60 krettu ECTS huma assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS huma assenjati għat-taqsima studju tad- [L.S. 327.602 M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI dissertazzjoni.
+Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 90 krettu ECTS, li minnhom 60 krettu ECTS huma assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS huma assenjati għat-taqsima studju tad-dissertazzjoni.
 
 ## 6.
 
 L-istudenti li jiksbu 30 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw il-Kors b’suċċess, jkunu eliġibbli għall-għoti tal-Postgraduate Certificate.
-
-*2*
 
 ## 7.
 
@@ -103,11 +99,9 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 ## 12.
 
-(1) L-istudenti jkunu meħtieġa jżommu kuntatt regolari M.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S. 327.602 mas-superviżur tagħhom.
+(1) L-istudenti jkunu meħtieġa jżommu kuntatt regolari mas-superviżur tagħhom.
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord, fl-aħħar ta’ kull semestru ta’ studji, rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom, kemm jekk l-istudent qiegħed isegwi l-Kors fuq bażi full-time kif ukoll fuq bażi part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
-
-*3*
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont il-provvedimenti tar-Regolamenti Prinċipali; u
 

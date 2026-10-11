@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Tractors bil-Mutur"
-identifier: "S.L. 65.8"
+identifier: "S.L. 65.08"
 eli: "https://legislation.mt/eli/sl/65.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/65.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Tractors bil-Mutur (S.L. 65.8)
+# Regolamenti dwar Tractors bil-Mutur (S.L. 65.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 65.08**
 

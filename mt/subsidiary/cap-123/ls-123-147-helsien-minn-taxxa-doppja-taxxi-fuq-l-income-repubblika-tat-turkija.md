@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Repubblika tat-Turkija) (S.L. 123.147)
 
-*1*
-
-(REPUBBLIKA TAT-TURKIJA) [L.S.123.147
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.147**
 
 **ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA**
@@ -50,8 +46,6 @@ B’dan qiegћed jiġi dikjarat:
 (ċ) illi l-Ftehim għandu jidħol fis-seħħ f’dik id-data li tkun mħabbra b’avviż fil-Gazzetta tal-Gvern.\*
 
 \*il-Ftehim ġie fis-seħħ fit-13 ta’ Ġunju, 2013 - ara l-A.L. 177 tal-2013.
-
-2 [L.S.123.147 (REPUBBLIKA TAT-TURKIJA)
 
 ## SKEDA
 
@@ -121,8 +115,6 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 \1. Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra:
 
-(REPUBBLIKA TAT-TURKIJA) [L.S.123.147 3
-
 a) il-frażi "Turkija" jew "Malta" tfisser it-territorju tal-art, l-ilmijiet interni, il-baћar territorjali u l-ispazju tal-ajru li hemm fuqhom, kif ukoll l-areas marittimi li dwarhom għandhom ġurisdizzjoni u drittijiet sovrani għall-għan ta’ esplorazzjoni, esplojtazzjoni jew konservazzjoni tar-riżorsi naturali, skont id-dritt internazzjonali;
 
 b) il-frażijiet "Stat Kontraenti" u "l-Istat Kontraenti l-ieћor" ifissru t- Turkija jew Malta skont ir-rabta tal-kliem;
@@ -154,8 +146,6 @@ j) il-frażi "traffiku internazzjonali" tfisser kull trasport permezz ta’ bast
 \1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet ta’ dak l-Istat, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, l-uffiċċju ewlieni legali, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk. Madankollu din il-frażi ma tinkludix lil xi persuna li tkun soġġetta għat-taxxa f’dak l-Istat biss dwar income minn għejjun f’dak l-Istat.
 
 \2. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewg Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
-
-4 [L.S.123.147 (REPUBBLIKA TAT-TURKIJA)
 
 a) huwa gћandu jitqies li jkun residenti tal-Istat li fih ikollu dar permanenti gћad-dispożizzjoni tiegћu; jekk huwa jkollu dar permanenti gћad-dispożizzjoni tiegћu fiż-żewg Stati, huwa gћandu jitqies li jkun residenti tal-Istat li miegћu jkunu l-aktar marbuta r-relazzjonijiet personali u ekonomiċi tiegћu (ċentru ta’ interessi vitali);
 
@@ -193,9 +183,7 @@ b) l-gћoti ta’ servizzi, inklużi servizzi ta’ konsulenza minn impriża per
 
 ## 4.
 
-Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi (REPUBBLIKA TAT-TURKIJA) [L.S.123.147 5
-
-"stabbiliment permanenti" gћandha titqies li ma tinkludix:
+Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbiliment permanenti" gћandha titqies li ma tinkludix:
 
 a) l-użu ta’ faċilitajiet bl-iskop uniku ta’ ħżin, wiri jew tqassim ta’ oġġetti jew merkanzija li jkunu jappartjenu lill-impriża;
 
@@ -227,9 +215,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \1. Income li jinkiseb minn residenti ta’ Stat Kontraenti minn proprjetà immobbli (inkluż income mill-agrikoltura jew mill-ћidma fil-boskijiet) li tkun tinsab fl-Istat Kontraenti l-ieћor jista’ jiġi intaxxat f’dak l-Istat l-ieћor.
 
-\2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi tal-Istat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura (inkluż it-trobbija u l-kultivazzjoni tal-ħut) u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, gћejjun u riżorsi oћra naturali; vapuri, bastimenti u inġenji tal-ajru ma 6 [L.S.123.147 (REPUBBLIKA TAT-TURKIJA)
-
-gћandhomx jitqiesu bћala proprjetà immobbli.
+\2. Il-frażi "proprjetà immobbli" gћandu jkollha t-tifsira li gћandha taћt il-liġi tal-Istat Kontraenti fejn tkun tinsab il-proprjetà involuta. Il-frażi gћandha f’kull każ tinkludi proprjetà aċċessorja gћal proprjetà immobbli, bhejjem f’razzett u tagћmir li jintuża fl-agrikoltura (inkluż it-trobbija u l-kultivazzjoni tal-ħut) u fil-ћidma fil-boskijiet, drittijiet li gћalihom japplikaw id-dispożizzjonijiet tal-liġi ġenerali dwar il-proprjetà tal-art, l-użufrutt tal-proprjetà immobbli u drittijiet dwar ћlasijiet varjabbli jew fissi bћala korrispettiv gћal ћidma fi, jew id-dritt li jinћadmu, depożiti minerali, gћejjun u riżorsi oћra naturali; vapuri, bastimenti u inġenji tal-ajru ma gћandhomx jitqiesu bћala proprjetà immobbli.
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw gћal income li jinkiseb mill-użu dirett, il-kiri, jew l-użu b’kull mod ieћor ta’ proprjetà immobbli.
 
@@ -263,9 +249,7 @@ gћandhomx jitqiesu bћala proprjetà immobbli.
 
 \1. Meta
 
-a) impriża ta’ Stat Kontraenti tipparteċipa sew direttament sew (REPUBBLIKA TAT-TURKIJA) [L.S.123.147 7
-
-indirettament fit-tmexxija, il-kontroll jew il-kapital ta’ impriża tal-Istat Kontraenti l-ieћor, jew
+a) impriża ta’ Stat Kontraenti tipparteċipa sew direttament sew indirettament fit-tmexxija, il-kontroll jew il-kapital ta’ impriża tal-Istat Kontraenti l-ieћor, jew
 
 b) l-istess persuni jipparteċipaw sew direttament sew indirettament fit-tmexxija, il-kontroll jew il-kapital ta’ impriża ta’ Stat Kontraenti u ta’ impriża tal-Istat Kontraenti l-ieћor,
 
@@ -287,9 +271,7 @@ i) 10 fil-mija mill-ammont gross tad-dividendi jekk is-sid benefiċjarju jkun ku
 
 ii) 15 fil-mija mill-ammont gross tad-dividendi fil-każijiet l-oћra kollha.
 
-b) Meta d-dividendi jitħallsu minn kumpannija li tkun residenti ta’ Malta lil residenti tat-Turkija li jkun is-sid benefiċjarju tagħha għandhom ikunu eżenti minn kull taxxa f’Malta li għandha titħallas fuq id-dividendi barra t-taxxa li għandha titħallas fuq il-profitti tal-kumpannija. Barra minn hekk, it-taxxa ta’ Malta li għandha titħallas dwar il-profitti distribwiti mill-kumpannija m’għandiex teċċedi 15 fil-mija mill-ammont gross tal-profitti distribwiti kemm il-darba l-profitti distribwiti jkunu jikkonsistu fi qligħ jew profitti li jkunu nqalgħu f’xi sena li dwarha dik il-kumpannija tkun irċeviet xi benefiċċju taħt id-dispożizzjonijiet li jirregolaw l-għajnuna lill-industrija f’Malta: sakemm il-kumpannija li tirċievi l-benefiċċji tkun bagħtet il-prospetti u l-kontijiet lil l-awtoritajiet ta’ Malta dwar l-income tagħha li jkun 8 [L.S.123.147 (REPUBBLIKA TAT-TURKIJA)
-
-**suġġett għat-taxxa ta’ Malta għas-sena ta’ stima relattiva.**
+b) Meta d-dividendi jitħallsu minn kumpannija li tkun residenti ta’ Malta lil residenti tat-Turkija li jkun is-sid benefiċjarju tagħha għandhom ikunu eżenti minn kull taxxa f’Malta li għandha titħallas fuq id-dividendi barra t-taxxa li għandha titħallas fuq il-profitti tal-kumpannija. Barra minn hekk, it-taxxa ta’ Malta li għandha titħallas dwar il-profitti distribwiti mill-kumpannija m’għandiex teċċedi 15 fil-mija mill-ammont gross tal-profitti distribwiti kemm il-darba l-profitti distribwiti jkunu jikkonsistu fi qligħ jew profitti li jkunu nqalgħu f’xi sena li dwarha dik il-kumpannija tkun irċeviet xi benefiċċju taħt id-dispożizzjonijiet li jirregolaw l-għajnuna lill-industrija f’Malta: sakemm il-kumpannija li tirċievi l-benefiċċji tkun bagħtet il-prospetti u l-kontijiet lil l-awtoritajiet ta’ Malta dwar l-income tagħha li jkun suġġett għat-taxxa ta’ Malta għas-sena ta’ stima relattiva.
 
 Dan il-paragrafu ma gћandux jolqot it-taxxa li tinġabar mill-kumpannija dwar dawk il-profitti li d-dividendi jitћallsu minnhom, iżda min jirċievi xi profitti distribwiti għandu jkun intitolat għal kull rifużjoni li tkun possibbli taħt il-liġi ta’ Malta rigward it-taxxa mħallsa mill-kumpannija, kemm il-darba it-taxxa hekk mħallsa tkun teċċedi dik li jkollha titħallas dwar il-profitti distribwiti skont id-dispożizzjonijiet ta’ dan il-paragrafu jew tal-liġi ta’ Malta.
 
@@ -311,8 +293,6 @@ Dan il-paragrafu ma gћandux jolqot it-taxxa li tinġabar mill-kumpannija dwar d
 
 \3. Minkejja d-dispożizzjonijiet tal-paragrafu 2 ta’ dan l-Artikolu, imgħax li joriġina fi Stat Kontraenti għandu jkun eżenti mit-taxxa f’dak l-Istat jekk jinqala’ minn u s-sid benefiċjarju tiegħu jkun il-Gvern jew il-Bank Ċentrali tal-Istat Kontraenti l-ieħor.
 
-(REPUBBLIKA TAT-TURKIJA) [L.S.123.147 9
-
 \4. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparteċipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew obbligazzjonijiet, inklużi premiums relatati ma dawk it-titoli, bonds jew obbligazzjonijiet kif ukoll kull income ieħor li jkun assimilat ma’ income minn flus mislufa mill-liġijiet tat-taxxa tal-Istat li fih joriġina l-income.
 
 \5. Id-dispożizzjonijiet tal-paragrafu 1 u 2 ma gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew jagћmel servizzi personali indipendenti f’dak Istat l-ieћor minn bażi stabbilita li tkun tinsab fih u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-każ, gћandhom japplikaw.
@@ -333,9 +313,7 @@ Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju
 
 \3. Il-frażi "royalties" skont ma tintuża f’dan l-Artikolu tfisser ћlasijiet ta’ kull xorta li jsiru b’korrispettiv gћall-użu ta’, jew gћall-jedd tal-użu, jew il-bejgħ (li jkun kontinġenti għal produttività, użu jew disposizzjoni) ta’ kull dritt tal-awtur ta’ xogћol letterarju, artistiku jew xjentifiku inklużi films ċinematografiċi u recordings għar-radju u t-televiżjoni, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, jew gћal informazzjoni dwar konoxxenza industrijali, kummerċjali jew xjentifika, jew għall-użu ta’, jew għall-jedd tal-użu ta’ tagħmir industrijali, kummerċjali jew xjentifiku.
 
-\4. Id-dispożizzjonijiet tal-paragrafu 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties, permezz ta’ 10 [L.S.123.147 (REPUBBLIKA TAT-TURKIJA)
-
-stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun qiegћed jagћmel f’dak Istat l-ieћor servizzi personali indipendenti minn bażi stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14 ta’ dan il-Ftehim, skont il-każ, gћandhom japplikaw.
+\4. Id-dispożizzjonijiet tal-paragrafu 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun qiegћed jagћmel f’dak Istat l-ieћor servizzi personali indipendenti minn bażi stabbilita li tkun tinsab fih, u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14 ta’ dan il-Ftehim, skont il-każ, gћandhom japplikaw.
 
 \5. Ir-royalties għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun dak l-Istat, sottodivizzjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew bażi stabbilita li f’konnessjoni magħha d-dritt jew il-proprjetà li permezz tagħhom jinqalgħu ir-royalties tkun effettivament konnessa, u dawk ir-royalties jiġġarrbu minn dak l-istabbiliment permanenti jew bażi stabbilita, allura dawk ir-royalties għandhom jitqiesu li jinqalgћu fl-Istat fejn ikunu jinsabu l-istabbiliment permanenti jew il-bażi stabbilita.
 
@@ -354,8 +332,6 @@ stabbiliment permanenti li jkun jinsab hemmhekk, jew ikun qiegћed jagћmel f’
 \4. Qligћ li jinkiseb minn impriża ta’ Stat Kontraenti mit-trasferiment ta’ bastimenti, inġenji tal-ajru jew vetturi fuq l-art li jkunu qegћdin jiġu mħaddma fi traffiku internazzjonali, jew minn proprjetà mobbli li tkun tappartjeni għall-operazzjoni ta’ dawk il-bastimenti, inġenji tal-ajru jew vetturi fuq l-art gћandu jiġi intaxxat biss f’dak l-Istat.
 
 \5. Qligћ mit-trasferiment ta’ proprjetà li ma tkunx dik imsemmija fil-paragrafi 1, 2, 3 u 4 gћandu jiġi intaxxat biss fl-Istat Kontraenti li min jittrasferixxi jkun residenti fih. Madankollu, il-qligh kapitali imsemmi fis-sentenza ta’ qabel u li jinqala’ mill-Istat Kontraenti l-ieħor ghandu ikun taxxabbli biss fl-Istat Kontraenti l-ieħor kemm il-darba il-perijodu ta’ żmien ma’ ikunx jeċċedi sena bejn l-akkwist u t-trasferiment.
-
-(REPUBBLIKA TAT-TURKIJA) [L.S.123.147 11
 
 **Artikolu 14**
 
@@ -389,7 +365,7 @@ b) il-kumpens jitћallas minn, jew f’isem, prinċipal li ma jkunx residenti fl
 
 **DRITTIJIET TAD-DIRETTURI**
 
-Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapaċità tiegћu ta’ membru tal-bord tad-diretturi ta’ kumpannija li tkun residenti fl-Istat Kontraenti l-ieћor jistgћu jiġu intaxxati f’dak l-Istat l-ieћor. 12 [L.S.123.147 (REPUBBLIKA TAT-TURKIJA)
+Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapaċità tiegћu ta’ membru tal-bord tad-diretturi ta’ kumpannija li tkun residenti fl-Istat Kontraenti l-ieћor jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
 
 **Artikolu 17**
 
@@ -421,9 +397,7 @@ i) jkun ċittadin ta’ dak l-Istat; jew
 
 ii) ma jkunx sar residenti ta’ dak l-Istat unikament bil-għan li jagħti dawk is-servizzi.
 
-\2. a) Kull pensjoni mћallsa minn, jew li toħroġ minn fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegћu lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandhom jiġu intaxxati biss f’dak l-Istat. b) Madankollu, dik il-pensjoni gћandha tiġi intaxxata biss fl-Istat (REPUBBLIKA TAT-TURKIJA) [L.S.123.147 13
-
-Kontraenti l-ieћor jekk l-individwu jkun residenti ta’ dak l-Istat u ċittadin tiegħu.
+\2. a) Kull pensjoni mћallsa minn, jew li toħroġ minn fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegћu lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandhom jiġu intaxxati biss f’dak l-Istat. b) Madankollu, dik il-pensjoni gћandha tiġi intaxxata biss fl-Istat Kontraenti l-ieћor jekk l-individwu jkun residenti ta’ dak l-Istat u ċittadin tiegħu.
 
 \3. Id-dispożizzjonijiet tal-Artikoli 15, 16 u 18 gћandhom japplikaw gћal kull salarju, paga u kumpens ieħor bħalhom u għal pensjonijiet gћar-rigward ta’ servizzi mogħtijin f’dak li għandu x’jaqsam ma’ kummerċ ġestit minn Stat Kontraenti jew minn sottodiviżjoni politika jew awtorità lokali tiegћu.
 
@@ -453,9 +427,7 @@ Kontraenti l-ieћor jekk l-individwu jkun residenti ta’ dak l-Istat u ċittadi
 
 Meta residenti tat-Turkija jikseb income li, skont id-dispożizzjonijiet ta’ dan il- Ftehim, jista’ jiġi intaxxat f’Malta, it-Turkija gћandha, bla ħsara għad-dispożizzjonijiet tal-liġijiet tat-taxxa tat-Turkija rigward kreditu ta’ taxxa barranija, tagħti tnaqqis mit-taxxa fuq l-income ta’ dak ir-residenti, ammont li jkun daqs dak tat-taxxa fuq l-income li tħallas f’Malta.
 
-Dak it-tnaqqis ma gћandux, madankollu, jeċċedi dik il-parti mit-taxxa kif din tkun 14 [L.S.123.147 (REPUBBLIKA TAT-TURKIJA)
-
-ġiet kalkolata fit-Turkija qabel ma jingћata t-tnaqqis, li tkun attribwibbli gћall-income li jista’ jiġi intaxxat f’Malta.
+Dak it-tnaqqis ma gћandux, madankollu, jeċċedi dik il-parti mit-taxxa kif din tkun ġiet kalkolata fit-Turkija qabel ma jingћata t-tnaqqis, li tkun attribwibbli gћall-income li jista’ jiġi intaxxat f’Malta.
 
 \2. Fil-każ ta’ Malta, it-taxxa doppja gћandha tiġi eliminata kif ġej:
 
@@ -481,9 +453,7 @@ Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla 
 
 \1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wieħed jew taż-żewġ Stati Kontraenti jirriżultawlu jew jistgћu jirriżultawlu f’taxxa li ma tkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim, hi tista’, irrispettivament mir-rimedji provduti mil-liġi domestika ta’ dawk l-Istati, tippreżenta l-każ tagћha quddiem l-awtorità kompetenti tal-Istat Kontraenti fejn hi tkun residenti jew, jekk il-każ tagћha jkun jaqa’ taћt il-paragrafu 1 tal-Artikolu 23, quddiem dik tal-Istat Kontraenti li hi tkun ċittadin tiegћu. Il-każ gћandu jiġi ppreżentat fi żmien 3 snin minn l-ewwel avviż tal-azzjoni li tirriżulta f’taxxa li jingħad li ma tkunx skont dan il-Ftehim.
 
-\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha (REPUBBLIKA TAT-TURKIJA) [L.S.123.147 15
-
-bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieћor, bil-gћan li tiġi evitata taxxa li ma tkunx skont il-Ftehim. Is-soluzzjoni hekk miftiehma gћandha tiġi implimentata minkejja kull skadenza ta’ terminu fil-liġi domestika tal-Istati Kontraenti. Iżda fil-każ tat-Turkija, it-taxpayer għandu jitlob rifużjoni li tista’ tirriżulta minn ftehim reċiproku bħal dan matul perijodu ta’ sena wara li l-amministrazzjoni tat-taxxa tkun avżat lit-taxpayer bir-riżultat tal-ftehim reċiproku.
+\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieћor, bil-gћan li tiġi evitata taxxa li ma tkunx skont il-Ftehim. Is-soluzzjoni hekk miftiehma gћandha tiġi implimentata minkejja kull skadenza ta’ terminu fil-liġi domestika tal-Istati Kontraenti. Iżda fil-każ tat-Turkija, it-taxpayer għandu jitlob rifużjoni li tista’ tirriżulta minn ftehim reċiproku bħal dan matul perijodu ta’ sena wara li l-amministrazzjoni tat-taxxa tkun avżat lit-taxpayer bir-riżultat tal-ftehim reċiproku.
 
 \3. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jistgħu joriġinaw dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgћu wkoll jikkonsultaw flimkien dwar l-eliminazzjoni ta’ taxxa doppja f’dawk il-każijiet li ma jkun hemm provdut xejn dwarhom fil-Ftehim.
 
@@ -505,9 +475,7 @@ bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal solu
 
 (ċ) li jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew informazzjoni, li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
-\4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- 16 [L.S.123.147 (REPUBBLIKA TAT-TURKIJA)
-
-Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligazzjoni li tinsab fis-sentenza ta’ qabel hija soġġetta għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
+\4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir tal-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligazzjoni li tinsab fis-sentenza ta’ qabel hija soġġetta għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
 \5. F’ebda każ ma gћandhom id-disposizzjonijiet tal-paragrafu 3 jiftiehmu bћala li jħallu lil Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni biss għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, minn xi istituzzjoni finanzjarja oħra, minn xi nominee jew minn xi persuna li tkun qegħda taġixxi f’xi kapaċità ta’ aġent jew fiduċjarju jew għaliex ikollha x’taqsam ma’ xi interessi dwar proprjetá f’xi persuna.
 
@@ -532,8 +500,6 @@ Lanqas m’għandhom japplikaw għal income li jinkiseb minn dawn il-persuni min
 **MEMBRI TA’ MISSJONIJIET DIPLOMATIĊI U KARIGI KONSULARI**
 
 Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-membri ta’ missjonijiet diplomatiċi jew ta’ kariġi konsulari taћt ir-regoli ġenerali tad-dritt internazzjonali jew taћt id-dispożizzjonijiet ta’ kull ftehim speċjali.
-
-(REPUBBLIKA TAT-TURKIJA) [L.S.123.147 17
 
 **Artikolu 28**
 
@@ -576,8 +542,6 @@ L-Onor. Dr Tonio BORG Mehmet ŞIMŞEK
 Deputat Prim Ministru u Ministru Ministru tal-Finanzi
 
 tal-Affarijiet Barranin
-
-18 [L.S.123.147 (REPUBBLIKA TAT-TURKIJA)
 
 **PROTOKOLL**
 

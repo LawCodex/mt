@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar tal-Blakk"
-identifier: "S.L. 10.3"
+identifier: "S.L. 10.03"
 eli: "https://legislation.mt/eli/sl/10.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/10.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar tal-Blakk (S.L. 10.3)
+# Regolamenti dwar tal-Blakk (S.L. 10.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 10.03**
 

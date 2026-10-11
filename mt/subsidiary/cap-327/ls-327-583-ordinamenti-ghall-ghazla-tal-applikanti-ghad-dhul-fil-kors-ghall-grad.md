@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti Għall-Għażla Tal-Applikanti Għad-Dħul Fil-Kors Għall-Grad Ta’ Bachelor Of Science (Honours) In Medical Biochemistry – B.Sc. (Hons) Med. Biochem. - Taħt Il-Patroċinju Tal-Fakultà Tal-Mediċina U L-Kirurġija U Tal-Fakultà Tax-Xjenza (S.L. 327.583)
 
-*1*
-
-BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM. [L.S. 327.583 LEĠISLAZZJONI SUSSIDJARJA 327.583
+**LEĠISLAZZJONI SUSSIDJARJA 327.583**
 
 **L-ORDINAMENTI GĦALL-GĦAŻLA TAL-**
 
@@ -63,10 +61,6 @@ Grad B fil-Livell Avvanzat jingħata l-istess valur bħal Grad A fil-Livell Inte
 
 Grad A fil-Livell Avvanzat jingħata l-istess valur bħal Grad A fil-Livell Intermedju
 
-*2*
-
-[L.S. 327.583 BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM.
-
 (ċ) L-applikanti li jissodisfaw ir-rekwiżiti ġenerali u speċjali għad-dħul fil-kors skont kif imniżżla fl-ordinamenti tal-kors għandhom ikunu magħzula minn fost l-applikanti eliġibbli kollha skont il-kategoriji li ġejjin, imniżżla fl-ordni tal-preferenza:
 
 L-ewwel kategorija: dawk b’żewġ gradi ta’ ‘A’ fis-suġġetti ewlenin u grad ‘A’ fis-suġġett sekondarju It-tieni kategorija: dawk b’żewġ gradi ta’ ‘A’ fis-suġġetti ewlenin u grad ‘B’ fis-suġġett sekondarju It-tielet kategorija: dawk b’żewġ gradi ta’ ‘A’ fis-suġġetti ewlenin u grad ‘Ċ’ fis-suġġett sekondarju Ir-raba' kategorija: dawk b’żewġ gradi ta’ ‘A’ fis-suġġetti ewlenin u grad ‘D’ fis-suġġett sekondarju u dawk bi grad ‘A’ u grad ‘B’ fis-suġġetti ewlenin u grad ‘A’ fis-suġġett sekondarju Il-ħames kategorija: dawk b’żewġ gradi ta’ ‘A’ fis-suġġetti ewlenin u grad ‘E’ fis-suġġett sekondarju u dawk bi grad ‘A’ u grad ‘B’ fis-suġġetti ewlenin u grad ‘B’ fis-suġġett sekondarju Is-sitt kategorija: dawk bi grad ‘A’ u grad ‘B’ fis-suġġetti ewlenin u grad ‘Ċ’ fis-suġġett sekondarju Is-seba’ kategorija: dawk bi grad ‘A’ u grad ‘B’ fis-suġġetti ewlenin u grad ‘D’ fis-suġġett sekondarju u dawk b’żewġ gradi ‘B’ fis-suġġetti ewlenin u grad ‘A’ fis-suġġett sekondarju jew dawk bi grad ‘A’ u grad ‘Ċ’ fis-suġġetti ewlenin u grad ‘A’ fis-suġġett sekondarju
@@ -75,11 +69,9 @@ It-tmien kategorija: dawk bi grad ‘A’ u grad ‘B’ fis-suġġetti ewlenin 
 
 Id-disa’ kategorija: dawk b’żewġ gradi ta’ ‘B’ fis-suġġetti ewlenin u grad ‘Ċ’ fis-suġġett sekondarju u dawk bi grad ‘A’ u grad ‘Ċ’ fis-suġġetti ewlenin u grad ‘Ċ’ fis-suġġett sekondarju L-għaxar kategorija: dawk b’żewġ gradi ta’ ‘B’ fis-suġġetti ewlenin u grad ‘D’ fis-suġġett sekondarju u dawk bi grad ‘A’ u grad ‘Ċ’ fis-suġġetti ewlenin u grad ‘D’ fis-suġġett sekondarju jew dawk bi grad ‘B’ u grad ‘Ċ’ fis-suġġetti ewlenin u grad ‘A’ fis-suġġett sekondarju
 
-Il-ħdax-il kategorija: dawk b’żewġ gradi ta’ ‘B’ fis-suġġetti ewlenin u grad ‘E’ fis-suġġett sekondarju BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM. [L.S. 327.583 u dawk bi grad ‘A’ u grad ‘Ċ’ fis-suġġetti ewlenin u grad ‘E’ fis-suġġett sekondarju jew dawk bi grad ‘B’ u grad ‘Ċ’ fis-suġġetti ewlenin u grad ‘B’ fis-suġġett sekondarju
+Il-ħdax-il kategorija: dawk b’żewġ gradi ta’ ‘B’ fis-suġġetti ewlenin u grad ‘E’ fis-suġġett sekondarju u dawk bi grad ‘A’ u grad ‘Ċ’ fis-suġġetti ewlenin u grad ‘E’ fis-suġġett sekondarju jew dawk bi grad ‘B’ u grad ‘Ċ’ fis-suġġetti ewlenin u grad ‘B’ fis-suġġett sekondarju
 
 Il-tnax-il kategorija: dawk bi grad ‘B’ u ‘Ċ’ fis-suġġetti ewlenin u grad ‘Ċ’ fis-suġġett sekondarju Il-tlettax-il kategorija: dawk bi grad ‘B’ u ‘Ċ’ fis-suġġetti ewlenin u grad ‘D’ fis-suġġett sekondarju u dawk b’żewġ gradi ta’ ‘Ċ’ fis-suġġetti ewlenin u grad ‘A’ fis-suġġett sekondarju L-erbatax-il kategorija:dawk bi grad ‘B’ u ‘Ċ’ fis-suġġetti ewlenin u grad ‘E’ fis-suġġett sekondarju u dawk b’żewġ gradi ta’ ‘Ċ’ fis-suġġetti ewlenin u grad ‘B’ fis-suġġett sekondarju Il-ħmistax-il kategorija:dawk b’żewġ gradi ta’ ‘Ċ’ fis-suġġetti ewlenin u grad ‘Ċ’ fis-suġġett sekondarju Is-sittax-il kategorija: dawk b’żewġ gradi ta’ ‘Ċ’ fis-suġġetti ewlenin u grad ‘D’ fis-suġġett sekondarju Is-sbatax-il kategorija:dawk b’żewġ gradi ta’ ‘Ċ’ fis-suġġetti ewlenin u grad ‘E’ fis-suġġett sekondarju (2) L-applikanti li jkollhom ir-Rekwiżiti Ġenerali għad-Dħul jistgħu joffru ċ-ċertifikat li għaddew fis-suġġetti ewlenin u/jew fis-suġġett sekondarju, jew bħala parti mir-Rekwiżiti Ġenerali għad- Dħul jew b’żieda mar-Rekwiżiti Ġenerali għad-Dħul.
-
-*3*
 
 (3) Meta l-applikanti joffru aktar minn ċertifikat wieħed li għaddew fis-suġġetti ewlenin jew fis-suġġett sekondarju, għandu jitqies l-aħjar grad.
 
@@ -87,11 +79,9 @@ Il-tnax-il kategorija: dawk bi grad ‘B’ u ‘Ċ’ fis-suġġetti ewlenin u 
 
 (5) Jekk l-għadd tal-applikanti eliġibbli li jaqgħu fl-aħħar kategorija tal-applikanti eliġibbli biex jidħlu fil-kors skont id-dispożizzjonijiet tal-paragrafu (1)(ċ) ta’ dan l-ordinament ikun tali li n-numru totali tal-applikanti biex jidħlu jaqbeż l-għadd ta’ postijiet stabbilit mis-Senat, l-ewwel konsiderazzjoni għandha tingħata lil dawn:
 
-(a) il-livell globali tal-applikanti milħuq fis-suġġetti kollha ppreżentati għall-għoti taċ-Ċertifikat tal-Matrikola. Dan għandu jkun determinat mis-somma tal-punti allokati għal kull suġġett, li għandhom ikunu assenjati kif ġej: [L.S. 327.583 BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM.
+(a) il-livell globali tal-applikanti milħuq fis-suġġetti kollha ppreżentati għall-għoti taċ-Ċertifikat tal-Matrikola. Dan għandu jkun determinat mis-somma tal-punti allokati għal kull suġġett, li għandhom ikunu assenjati kif ġej:
 
 Livell Avvanżat Livell Intermedju
-
-*4*
 
 **Grad A 30 punt 10 punti**
 
@@ -125,11 +115,9 @@ It-tlieta u għoxrin kategorija: dawk bi grad ‘B’ u grad ‘D’ fis-suġġe
 
 L-erbgħa u għoxrin kategorija: dawk bi grad ‘B’ u grad ‘D’ fis-suġġetti ewlenin u grad ‘D’ fis-suġġett sekondarju
 
-u dawk bi grad ‘Ċ’ u grad ‘D’ fis-suġġetti ewlenin u grad ‘A’ fis- BIOCHEMISTRY - B.SC. (HONS) MED. BIOCHEM. [L.S. 327.583 suġġett sekondarju
+u dawk bi grad ‘Ċ’ u grad ‘D’ fis-suġġetti ewlenin u grad ‘A’ fis-suġġett sekondarju
 
 Il-ħames u għoxrin kategorija: dawk bi grad ‘B’ u grad ‘D’ fis-suġġetti ewlenin u grad ‘E’ fis-suġġett sekondarju
-
-*5*
 
 u dawk bi grad ‘Ċ’ u grad ‘D’ fis-suġġetti ewlenin u grad ‘B’ fis-suġġett sekondarju
 

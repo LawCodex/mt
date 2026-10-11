@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Formuli ta' l-Att taż-Żwieġ"
-identifier: "S.L. 255.2"
+identifier: "S.L. 255.02"
 eli: "https://legislation.mt/eli/sl/255.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/255.2/20210208/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Formuli ta' l-Att taż-Żwieġ (S.L. 255.2)
+# Regolamenti dwar Formuli ta' l-Att taż-Żwieġ (S.L. 255.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 255.02**
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income ma’ l-Irlanda (S.L. 123.105)
 
-*1*
-
-FUQ L-INCOME MAL-IRLANDA [L.S.123.105
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.105**
 
 **ORDNI DWAR EŻENZJONI MILL-ĦLAS**
@@ -113,8 +109,6 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa identika jew sostanzjalment si
 
 (a) il-frażi "Irlanda" tfisser kull area ’l barra mill-ibħra territorjali tal- Irlanda li, skont id-dritt internazzjonali, ġiet jew tista’ minn issa ’l quddiem tiġi msemmija taħt il-liġijiet tal-Irlanda għar-rigward tal-Blata Kontinentali, bħala area li fiha jistgħu jiġu eżerċitati d-drittijiet tal- Irlanda għall-finijiet ta’ qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom;
 
-FUQ L-INCOME MAL-IRLANDA [L.S.123.105 3
-
 (b) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra tal-Arċipelagu Malti, inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ qiegħ il-baħar, is-sottoswol u l-kolonna ta’ baħar sovrajaċenti u adjaċenti għall-ibħra territorjali, fejn Malta teżerċita drittijiet sovrani, ġurisdizzjoni jew kontroll skont id-dritt internazzjonali u d-dritt nazzjonali tagħha, inklużi l-liġijiet tagħha dwar l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
 
 (ċ) il-frażijiet "Stat Kontraenti" u "l-Istat Kontraenti l-ieħor" ifissru Malta jew l-Irlanda, skont ma tkun teħtieġ ir-rabta tal-kliem;
@@ -193,8 +187,6 @@ Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabb
 
 (a) l-użu ta’ faċilitajiet għall-iskop uniku ta’ ħażna, wiri jew kunsinna ta’ oġġetti jew merkanzija li jkunu proprjetà tal-impriża;
 
-FUQ L-INCOME MAL-IRLANDA [L.S.123.105 5
-
 (b) il-manutenzjoni ta’ ħażna ta’ oġġetti jew merkanzija li jkunu proprjetà ta’ l-impriża għall-iskop uniku ta’ ħażna, wiri jew kunsinna;
 
 (ċ) il-manutenzjoni ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà tal-impriża għall-iskop uniku ta’ proċessar minn impriża oħra;
@@ -255,7 +247,7 @@ użata għall-għemil ta’ servizzi personali indipendenti.
 
 \1. Il-profitti ta’ impriża ta’ Stat Kontraenti mit-tħaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali għandhom ikunu taxxabbli biss f’dak l- Istat.
 
-\2. Id-dispożizzjonijiet tal-paragrafu 1 għandhom ukoll japplikaw għal profitti mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali. FUQ L-INCOME MAL-IRLANDA [L.S.123.105 7
+\2. Id-dispożizzjonijiet tal-paragrafu 1 għandhom ukoll japplikaw għal profitti mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
 
 **Artikolu 9**
 
@@ -307,9 +299,7 @@ Dan il-paragrafu m’għandux jaffettwa l-intaxxar tal-kumpannija fuq dawk il-pr
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw jekk is-sid benefiċjarju tal-imgħax, li jkun resident ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bħal dak għandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-każ.
 
-\4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont ta’ mgħax imħallas, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li FUQ L-INCOME MAL-IRLANDA [L.S.123.105 9
-
-kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-dispożizzjonijiet l-oħra ta’ dan il-Ftehim.
+\4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont ta’ mgħax imħallas, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-dispożizzjonijiet l-oħra ta’ dan il-Ftehim.
 
 **Artikolu 12**
 
@@ -361,9 +351,7 @@ parti mill-valur tagħhom direttament jew indirettament minn proprjetà immobbli
 
 **SERVIZZI PERSONALI DIPENDENTI**
 
-\1. Bla ħsara għad-dispożizzjonijiet tal-Artikoli 16, 18 u 19, is-salarji, il-pagi u kumpens ieħor bħal dak li jinkisbu minn resident ta’ Stat Kontraenti dwar xi impjieg għandhom ikunu taxxabbli biss f’dak l-Istat kemm-il darba l-impjieg ma jiġix FUQ L-INCOME MAL-IRLANDA [L.S.123.105 11
-
-eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak Istat l-ieħor.
+\1. Bla ħsara għad-dispożizzjonijiet tal-Artikoli 16, 18 u 19, is-salarji, il-pagi u kumpens ieħor bħal dak li jinkisbu minn resident ta’ Stat Kontraenti dwar xi impjieg għandhom ikunu taxxabbli biss f’dak l-Istat kemm-il darba l-impjieg ma jiġix eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impjieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak Istat l-ieħor.
 
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1, il-kumpens li jinkiseb minn resident ta’ Stat Kontraenti dwar impjieg eżerċitat fl-Istat Kontraenti l-ieħor għandu jkun taxxabbli biss fl-Istat l-ewwel imsemmi jekk:
 
@@ -437,9 +425,7 @@ Dawk il-ħlasijiet li student jew apprendist kummerċjali, li jkun jew li minnuf
 
 **ELIMINAZZJONI TA’ TASSAZZJONI DOPPJA**
 
-\1. Bla ħsara għad-dispożizzjonijiet tal-liġijiet tal-Irlanda dwar li jitħalla FUQ L-INCOME MAL-IRLANDA [L.S.123.105 13
-
-jingħata kreditu f’akkont tat-taxxa tal-Irlanda li titħallas fit-territorju barra mill- Irlanda (li ma jaffettwax il-prinċipju ta’ dan l-Artikolu) -
+\1. Bla ħsara għad-dispożizzjonijiet tal-liġijiet tal-Irlanda dwar li jitħalla jingħata kreditu f’akkont tat-taxxa tal-Irlanda li titħallas fit-territorju barra mill- Irlanda (li ma jaffettwax il-prinċipju ta’ dan l-Artikolu) -
 
 (a) it-taxxa ta’ Malta mħallsa taħt il-liġijiet ta’ Malta u skont dan il-Ftehim, sew direttament jew bi tnaqqis fuq profitti, income jew qligħ minn għejjun ġewwa Malta (eskluża fil-każ ta’ dividendi taxxa li għandha titħallas fuq il-profitti li d-dividend jitħallas minnha) għandha tingħata bħala kreditu f’akkont ta’ kull taxxa tal-Irlanda kalkolata b’riferenza għall-istess profitti, income jew qligħ li b’riferenza għalihom tinħadem it-taxxa ta’ Malta;
 
@@ -479,9 +465,7 @@ jingħata kreditu f’akkont tat-taxxa tal-Irlanda li titħallas fit-territorju 
 
 \2. L-awtorità kompetenti għandha tistħarreġ, jekk ikunx jidhrilha li l-oġġezzjoni tkun ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal għal soluzzjoni sodisfaċenti, li tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieħor, bil-għan li tiġi evitata tassazzjoni li ma tkunx skont il-Ftehim. Meta jintlaħaq ftehim dan għandu jiġi implimentat minkejja kull terminu ta’ żmien fil-liġi domestika tal-Istati Kontraenti.
 
-\3. L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jistħarrġu kif jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jista’ jitnissel dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgħu wkoll FUQ L-INCOME MAL-IRLANDA [L.S.123.105 15
-
-jikkonsultaw flimkien għall-eliminazzjoni ta’ tassazzjoni doppja f’dawk il-każijiet li m’hemm xejn provdut dwarhom fil-Ftehim.
+\3. L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jistħarrġu kif jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jista’ jitnissel dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgħu wkoll jikkonsultaw flimkien għall-eliminazzjoni ta’ tassazzjoni doppja f’dawk il-każijiet li m’hemm xejn provdut dwarhom fil-Ftehim.
 
 \4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgħu jikkomunikaw ma’ xulxin direttament bil-għan li jilħqu ftehim fis-sens tal-paragrafi preċedenti.
 
@@ -542,8 +526,6 @@ Dan il-Ftehim għandu jibqa’ jseħħ sakemm jiġi terminat minn xi Stat Kontra
 (b) f’Malta:
 
 dwar taxxi fuq l-income miksuba matul xi sena kalendarja jew perjodu ta’ kontijiet, skont il-każ, li jibda għaddej fi jew wara l-ewwel ta’ Jannar minnufih wara d-data meta jingħata l-avviż.
-
-FUQ L-INCOME MAL-IRLANDA [L.S.123.105 17
 
 B’XIEHDA TA’ DAN is-sottoskritti, awtorizzati kif imiss biex jagħmlu dan mill- Gvernijiet rispettivi tagħhom, iffirmaw dan il-Ftehim.
 

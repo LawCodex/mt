@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy - Ph.D. – taħt il-patroċinju tal-Istitut għall-Bidla fil-Klima u l-Iżvilupp Sostenibbli (S.L. 327.474)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT GĦALL-BIDLA
-
-*1*
-
-FIL-KLIMA U L-IŻVILUPP SOSTENIBBLI [L.S.327.474
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.474**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -71,13 +65,9 @@ Dawn l-ordinamenti għandhom japplikaw minn Ottubru 2019 ’il quddiem.
 
 ## 4. Formola tal-applikazzjoni.
 
-(1) L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni tagħhom, flimkien ma’ proposta ta’ riċerka komprensiva li tiddeskrivi l-proġett propost, inklużi s-sorsi u l- TAĦT IL-PATROĊINJU TAL-ISTITUT GĦALL-BIDLA [L.S.327.474 FIL-KLIMA U L-IŻVILUPP SOSTENIBBLI
+(1) L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni tagħhom, flimkien ma’ proposta ta’ riċerka komprensiva li tiddeskrivi l-proġett propost, inklużi s-sorsi u l-materjali tar-riċerka, fi kwalunkwe żmien tas-sena.
 
 \*Dawn ordinamenti ġew imħassrin bl-Avviż Legali 216 tal-2024.
-
-materjali tar-riċerka, fi kwalunkwe żmien tas-sena.
-
-*2*
 
 (2) L-applikanti jistgħu jiġu mitluba wkoll biex juru l-kompetenza tagħhom f’dawk il-ħiliet meħtieġa min-natura tar-riċerka proposta.
 
@@ -119,8 +109,4 @@ Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preż
 
 (1) L-istudenti jkunu meħtieġa jissottomettu kopja tat-teżi tagħhom mingħajr legatura għal kull membru tal-Bord tal- Eżaminaturi, flimkien ma’ kopja f ’format diġitali. L-uffiċjal inkarigat mill-Istitut għandu joħroġ riċevuta datata.
 
-(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu lill-Istitut tliet kopji tat-teżi b’legatura ħoxna flimkien ma’ kopja f’format diġitali sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom. Kopja waħda tat-teżi għandha TAĦT IL-PATROĊINJU TAL-ISTITUT GĦALL-BIDLA
-
-*3*
-
-FIL-KLIMA U L-IŻVILUPP SOSTENIBBLI [L.S.327.474 tinżamm fil-Librerija tal-Istitut u kopja oħra fil-Librerija tal- Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.
+(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu lill-Istitut tliet kopji tat-teżi b’legatura ħoxna flimkien ma’ kopja f’format diġitali sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom. Kopja waħda tat-teżi għandha tinżamm fil-Librerija tal-Istitut u kopja oħra fil-Librerija tal- Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

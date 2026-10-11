@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Bdil ta Lm6,885,000 6% Stock Lokali Reġistrat għall-Iżvilupp 1994 (I) f Lm6,885,000 5.65% Stock tal-Gvern ta Malta (Bdil) 1998 (It-Tielet Ħruġ) (S.L. 161.40)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [L.S.161.140
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.140**
 
 DIRETTIVA MILL-MINISTRU GĦALL-FINANZI GĦALL-ĦRUĠ TA’ EURO €50,000,000 STOCK
@@ -67,11 +63,7 @@ Is-somma ta’ flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta�
 
 (1) L-imgħax bir-rata ta’ Euro 0.75 għal kull Euro 100, tal- 1.5% Stock tal-Gvern ta’ Malta 2022 (IV) jitħallas kull sitt xhur b’lura fil-11 ta’ Jannar u fil-11 ta’ Lulju ta’ kull sena sakemm idum l-iStock.
 
-L-ewwel ħlas pro rata tal-imgħax li jkopri il-perjodu bejn l- [L.S.161.140 STOCK TAL-GVERN TA’ MALTA
-
-4 ta’ April, 2016 u l-10 ta’ Lulju, 2016 (iż-żewġ dati inklużi) isir fil-11 ta’ Lulju, 2016.
-
-*2*
+L-ewwel ħlas pro rata tal-imgħax li jkopri il-perjodu bejn l- 4 ta’ April, 2016 u l-10 ta’ Lulju, 2016 (iż-żewġ dati inklużi) isir fil-11 ta’ Lulju, 2016.
 
 (2) L-imgħax bir-rata ta’ Euro 1.25 għal kull Euro 100, tat- 2.5% Stock tal-Gvern ta’ Malta 2036 (I) jitħallas kull sitt xhur b’lura fis-17 ta’ Mejju u fis-17 ta’ Novembru ta’ kull sena sakemm idum l-iStock.
 

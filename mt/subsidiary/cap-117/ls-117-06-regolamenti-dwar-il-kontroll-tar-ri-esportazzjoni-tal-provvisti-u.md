@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kontroll tar-Ri-Esportazzjoni tal-Provvisti u Servizzi"
-identifier: "S.L. 117.6"
+identifier: "S.L. 117.06"
 eli: "https://legislation.mt/eli/sl/117.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/117.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kontroll tar-Ri-Esportazzjoni tal-Provvisti u Servizzi (S.L. 117.6)
-
-*1*
-
-TAL-PROVVISTI U SERVIZZI [L.S.117.06
+# Regolamenti dwar il-Kontroll tar-Ri-Esportazzjoni tal-Provvisti u Servizzi (S.L. 117.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 117.06**
 
@@ -102,8 +98,6 @@ Apparat ta’ `irkwit mag]luq u nofsu mag]luq (li minnu ter[a’ tie]u n-nifs). 
 O[[etti mag]mulin b’mod spe`jali g]al u\\u militari b’apparat li ja]dem wa]du meta jg]ods u jg]um ta]t l-ilma.
 
 Tag]mir telemetering u telecontrol tajjeb g]all-u\\u ma’ in[enji ta’ l-ajru (bil-pilota jew ming]ajr pilota) u missili (iggwidati jew mhux iggwidati).
-
-TAL-PROVVISTI U SERVIZZI [L.S.117.06 3
 
 Bastimenti tal-gwerra u makkinarju ta’ propulsjoni g]al dawn il-bastimenti; b`ejje`, partijiet, a`essorji u attachments mag]mulin b’mod spe`jali g]alihom.
 
@@ -205,8 +199,6 @@ Capacitors, tantalum electrolytic.
 
 Apparat `entrifigu biex jittestja li jkollu xi wa]da mill-karatteristi`i li [ejjin:
 
-TAL-PROVVISTI U SERVIZZI [L.S.117.06 5
-
 (a) immexxi b’mutur jew muturi li jkollhom sa]]a ta’ \\wiemel totali aktar minn 400 \\iemel;
 
 (b) li jkun jifla] pi\\ ta’ 250 libbra jew i\\jed;
@@ -297,9 +289,7 @@ Apparat ta’ kontroll, li [ej:
 
 (2) Tipi torque:
 
-(i) Trasmitturi u trasmitturi differenzjali meqjusa li jkollhom \\ball TAL-PROVVISTI U SERVIZZI [L.S.117.06 7
-
-elettriku ta’ 18-il minuta jew anqas meta ji[u ittestjati bil-metodu ta’ volta[[ proporzjonali.
+(i) Trasmitturi u trasmitturi differenzjali meqjusa li jkollhom \\ball elettriku ta’ 18-il minuta jew anqas meta ji[u ittestjati bil-metodu ta’ volta[[ proporzjonali.
 
 (ii) Ri`evituri u ri`evituri differenzjali meqjusa li jkollhom e\\atteza ta’ 1.5 gradi jew anqas meta ji[u ittestjati bil-metodu dinamiku. (bb) Resolvers, inklu\\i tipi ta’ single-phase/single phase, single-phase/two phase, two-phase/two-phase, u three-phase/two-phase -
 
@@ -400,8 +390,6 @@ D. Tubi jew valvoli tal-vakwu elettroniku, ji[ifieri:
 (2) Tubi tal-Hydrogen thyratron ta’ kull kwalità.
 
 (`) Valvoli li l-proporzjon ta’ ]ru[ u d]ul fi 300 mega`ikli kull sekonda jew i\\jed ikun ta’ 50 fil-mija jew i\\jed mill-proporzjon tal-]ru[ u d]ul f’20 mega`ikli kull sekonda meta titkejjel skond l-istess volta[[i u load impedance.
-
-TAL-PROVVISTI U SERVIZZI [L.S.117.06 9
 
 (d) Valvoli mag]mula b’mod spe`jali g]all-u\\u bi frekwenzi ta’ i\\jed minn 300 mega`ikli kull sekonda.
 
@@ -505,9 +493,7 @@ Kristalli piezo-electric quartz, blanks, plates, bars, vireg, u toroids, ma]dumi
 
 *H.*
 
-Re`ivituri tar-radjo, panorami`i, li jkunu ri`evituri li jfittxu awtomatikament TAL-PROVVISTI U SERVIZZI [L.S.117.06 11
-
-parti mir-radio frequency spectrum u juru is-sinjali li jir`ievu, u partijiet mag]mulin b’mod spe`jali g]al dawn ir-ri`evituri.
+Re`ivituri tar-radjo, panorami`i, li jkunu ri`evituri li jfittxu awtomatikament parti mir-radio frequency spectrum u juru is-sinjali li jir`ievu, u partijiet mag]mulin b’mod spe`jali g]al dawn ir-ri`evituri.
 
 Apparat g]ar-ritrasmissjoni ta’ kumnikazzjoni bir-radjo li ma jkunux ta’ rotta qasira u ta’ konnessjoni ta’ qawwa baxxa g]at-trasmissjonijiet bejn kaxxa tar-ritratti jew studio u t-trasmettitur tat-televi\\joni; komponenti spe`jalizzati u sub-assemblies mag]mulin g]alihom.
 
@@ -604,8 +590,6 @@ Diethylenetriamine.
 symDimethylsynzdiphenylurea (carbamite jew centralite).
 
 asymDimethylhydrazine.
-
-TAL-PROVVISTI U SERVIZZI [L.S.117.06 13
 
 Dinitrophenol.
 
@@ -729,8 +713,6 @@ Germanium ta’ testjar li jkollu 50 ohms kull `entimetru jew i\\jed, f’forom 
 
 (b) li jkollhom wie]ed jew i\\jed mill-kostitwenti li [ejjin fil-proporzjonijiet imsemmija -
 
-TAL-PROVVISTI U SERVIZZI [L.S.117.06 15
-
 (i) 10 fil-mija jew i\\jed ta’ molybdenum;
 
 (ii) 5 fil-mija jew i\\jed ta’ molybdenum flimkien ma’ i\\jed minn 14 fil-mija ta’ kromju;
@@ -839,8 +821,6 @@ Wire u filament tungsten, li [ejjin:
 
 (ii) ta’ dijametru ta’ 19 microns jew anqas;
 
-TAL-PROVVISTI U SERVIZZI [L.S.117.06 17
-
 (iii) ta’ dijametru ta’ 250 microns jew i\\jed u tul ta’ mhux i\\jed minn 100 millimetru.
 
 L-uranju, li [ejjin:
@@ -927,9 +907,7 @@ Apparat g]al-likwifikazzjoni tal-gass, li [ejjin:
 
 Apparat g]as-separazzjoni ta’ l-helium minn gassijiet naturali.
 
-Apparat mag]mul b’mod spe`jali g]all-produzzjoni ta’ gassijiet f’forma likwida, li jkun jista’ ja]dem bi pressjonijiet ta’ 300 libbra g]al kull kejl ta’ pulzier kwadru u aktar u jipprodu`i tunnellata jew i\\jed kull jum ta’ gass TAL-PROVVISTI U SERVIZZI [L.S.117.06 19
-
-f’forma likwida, li ma jkunx:
+Apparat mag]mul b’mod spe`jali g]all-produzzjoni ta’ gassijiet f’forma likwida, li jkun jista’ ja]dem bi pressjonijiet ta’ 300 libbra g]al kull kejl ta’ pulzier kwadru u aktar u jipprodu`i tunnellata jew i\\jed kull jum ta’ gass f’forma likwida, li ma jkunx:
 
 (a) Impjanti mhux kapa`i li jipprodu`u i\\jed mmn 25 fil-mija tal-produzzjoni tag]hom ta’ kull jum b]ala gass li jista’ ji[i estratt f’forma likwida.
 
@@ -1019,9 +997,7 @@ Partijiet tal-g]odod tal-makna, a``essorji u apparat li g]andu x’jaqsam mog]ho
 
 Kontrolli closed look feed back elettroni`i biex jikkontrollaw g]odod tal-makna li fihom feed back kontinwu ta’ informazzjoni mill-work piece jew g]odda jew work piece carrier jew tool-holder stess li jwassal g]all-korrezzjoni kontinwa tal-kmandi ta’ kontroll.
 
-Grinding heads u spindle assemblies g]all-makni li jsinnu minn [ewwa, ma]suba jew meqjusa u g]al xog]ol f’velo`itajiet ta’ i\\jed minn 80,000 TAL-PROVVISTI U SERVIZZI [L.S.117.06 21
-
-rivoluzzjoni kull minuta.
+Grinding heads u spindle assemblies g]all-makni li jsinnu minn [ewwa, ma]suba jew meqjusa u g]al xog]ol f’velo`itajiet ta’ i\\jed minn 80,000 rivoluzzjoni kull minuta.
 
 Kaldaruni ta’ l-isteam tal-ba]ar ma]suba biex ja]dmu f’temperaturi ta’ 593º ~entigradi u aktar.
 
@@ -1118,8 +1094,6 @@ Fluwidi idrawli`i, li [ejjin:
 (a) saturated aliphatic monohydric alcohols, meta i\\-\\ew[ konstitwenti jkun fihom sitt atomi jew i\\jed ta’ karbon, u
 
 (b) polyglycols, meta wie]ed jew it-tnejn ta\\-\\ew[ kostitwenti li jkun fihom sitt atomi jew i\\jed ta’ karbon; jew
-
-TAL-PROVVISTI U SERVIZZI [L.S.117.06 23
 
 (2) fluoro-alcohol esters;
 
@@ -1273,8 +1247,6 @@ ir-Renju Unit
 
 ir-Ruanda Urundi
 
-TAL-PROVVISTI U SERVIZZI [L.S.117.06 25
-
 l-Istati Uniti ta’ l-Amerika
 
 it-Turkija
@@ -1370,8 +1342,6 @@ Pi\\ nett:
 Firma:
 
 L-Esportatur jew tar-rappre\\entant tieg]u.
-
-TAL-PROVVISTI U SERVIZZI [L.S.117.06 27
 
 III. G]andha timtela mid-Dwana tal-pajji\\ ta’ l-esportazzjoni
 

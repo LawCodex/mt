@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Ġibiltà"
-identifier: "S.L. 242.3"
+identifier: "S.L. 242.03"
 eli: "https://legislation.mt/eli/sl/242.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/242.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Ġibiltà (S.L. 242.3)
-
-ESEKUZZJONI RE~IPROKA TA’ ORDNIJIET
-
-TA’ MANTENIMENT - {IBILTÀ [ L.S.242.03
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Ġibiltà (S.L. 242.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 242.03**
 

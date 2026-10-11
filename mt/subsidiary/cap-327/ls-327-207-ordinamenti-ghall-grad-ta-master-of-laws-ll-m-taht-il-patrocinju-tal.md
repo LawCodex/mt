@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Laws (LL.M) taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.207)
 
-*1*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAL-LI{I [L.S.327.207
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.207**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -116,11 +112,11 @@ Il-programmi ta’ studju prinċipalment bir-riċerka jikkonsistu minn taqsimiet
 
 Il-programmi ta’ studju għandhom ikunu ppubblikati mill- Bord wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
-*3*
+## 13. Valutazzjoni u progress. Enumerat mill-ġdid: A.L. 382 tal-2010.
 
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAL-LI{I [L.S.327.207 13. (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sa l-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
+*Emendat: A.L. 201 tal-2013. Enumerat mill-ġdid: A.L. 199 tal-2016. Emendat: A.L. 168 tal-2022.*
 
-*Valutazzjoni u progress. Enumerat mill-ġdid: A.L. 382 tal-2010. Emendat: A.L. 201 tal-2013. Enumerat mill-ġdid: A.L. 199 tal-2016. Emendat: A.L. 168 tal-2022.*
+(1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sa l-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
 (2) L-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 krettu għal taqsimiet studju mgħallma jekk ikunu qegħdin isegwu l-Kors fuq bażi full-time, jew mhux aktar minn 10 kretti jekk ikunu qegħdin isegwu l-Kors fuq bażi part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 

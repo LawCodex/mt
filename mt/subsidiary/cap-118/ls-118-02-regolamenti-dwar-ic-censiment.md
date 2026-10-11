@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar iċ-Ċensiment"
-identifier: "S.L. 118.2"
+identifier: "S.L. 118.02"
 eli: "https://legislation.mt/eli/sl/118.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/118.2/20211109/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar iċ-Ċensiment (S.L. 118.2)
+# Regolamenti dwar iċ-Ċensiment (S.L. 118.02)
 
 LEĠISLAZZJONI SUSSIDJARJA 118.02
 

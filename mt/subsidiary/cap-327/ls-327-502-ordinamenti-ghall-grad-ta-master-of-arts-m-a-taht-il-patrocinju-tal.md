@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts - M.A. - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.502)
 
-IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA
-
-*1*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.502
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.502**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -72,13 +66,7 @@ Il-kors ikun offrut fi kwalunkwe qasam ta’ studju li jaqa’ taħt ir-responsa
 
 (1) Il-Kors ikun miftuħ għall-applikanti li għandhom grad tal-ewwel ċiklu miksub tal-anqas fit-Tieni Klassi bl-Unuri jew b’Kategorija II f’qasam ta’ studju li l-Bord tal-Istudji responsabbli għall-qasam ta’ studju li qiegħed jiġi applikat għalih iqis rilevanti. L-applikanti li għandhom grandhom grad miksub fit-Tielet Klassi bl-Unuri jew Kategorija III ukoll jiġu kkunsidrati, sakemm li l-programm ta’ studju li jkunu se jsegwu ikun maqsum mhux inqas minn 30 krettu ECTS għall-taqsimiet studju mgħallma.
 
-(2) L-applikanti li għandhom grad fit-Tielet Klassi bl-Unuri jew Kategorija III għandhom jissodisfaw lill-Bord tal-Istudji li IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA
-
-*2*
-
-[L.S.327.502 IL-MANAGEMENT U L-ACCOUNTANCY
-
-għandhom kwalifiki oħra, inkluż esperjenza rilevant. Dawn l-applikanti jistgħu jitħallew ikomplu l-komponent tar-riċerka jekk iġibu marka medja tal-anqas 55% fil-komponent mgħallem.
+(2) L-applikanti li għandhom grad fit-Tielet Klassi bl-Unuri jew Kategorija III għandhom jissodisfaw lill-Bord tal-Istudji li għandhom kwalifiki oħra, inkluż esperjenza rilevant. Dawn l-applikanti jistgħu jitħallew ikomplu l-komponent tar-riċerka jekk iġibu marka medja tal-anqas 55% fil-komponent mgħallem.
 
 (3) L-applikanti li għandhom kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord tal-Istudji, li hi komparabbli għall-kwalifiki mniżżla fil-paragrafi (1) u (2) ta’ dan l-ordinament jiġu meqjusa:
 
@@ -106,11 +94,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (3) L-istudenti jkunu eliġibbli għall-għoti tal-Grad jekk jiksbu d-90 krettu ECTS kif imsemmi fil-programm ta’ studju tal-Kors b’marka mejda ta’ mhux inqas minn 50%.
 
-(4) Il-programm ta’ studju għandu jkun ippubblikat mill-Bord wara IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA
-
-*3*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.502 l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-Kors.
+(4) Il-programm ta’ studju għandu jkun ippubblikat mill-Bord wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-Kors.
 
 ## 7. Valutazzjoni u progress. Enumerat mil-ġdid: A.L. 101 tal-2015.
 
@@ -141,12 +125,6 @@ IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.502 l-approvazzjoni tas-Senat, normalment
 (2) Il-Panil ta’ Superviżjoni għandu jsegwi, skont kif jidhirlu xieraq, il-progress tal-istudenti matul il-kors, sakemm li jiltaqa’ mill-anqas darbtjen fis-sena biex jirrevedi dan il-progress.
 
 (3) L-istudenti huma meħtieġa jiltaqgħu mas-superviżuri tagħhom mill-anqas darba kull xahrejn, u barra minn hekk, aktar spiss jekk is-superviżuri jidhirlhom li dan hu meħtieġ.
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA
-
-*4*
-
-[L.S.327.502 IL-MANAGEMENT U L-ACCOUNTANCY
 
 (4) Fl-aħħar ta’ kull semestru ta’ studju, is-superviżuri jkunu meħtieġa jissottomettu lill-Panil ta’ Superviżjoni, rapporti dwar l-istudenti taħt is-superviżjoni tagħhom. L-istudenti għandhom jitolbu għall-approvazzjoni tal-Panil jekk ikollhom bżonn jagħmlu xi modifika sostanzjali fit-titlu u fil-kontenut tad-dissertazzjoni.
 

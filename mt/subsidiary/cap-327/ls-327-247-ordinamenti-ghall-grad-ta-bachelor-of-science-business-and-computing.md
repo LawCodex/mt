@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Bachelor of Science (Business and Computing) - B.SC. (Bus. &amp; Comp.) - taħt il-patroċinju tal-Fakultà ta' l-Ekonomija, Management u Accountancy - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.247)
 
-GRAD TA’ BACHELOR OF SCIENCE (BUSINESS AND COMPUT-
-
-ING) - B.SC. (BUS. & COMP) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-EKONOMIJA, MANAGEMENT U ACCOUNTANCY [L.S.327.247
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.247**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (BUSINESS AND COMPUTING) - B.SC.

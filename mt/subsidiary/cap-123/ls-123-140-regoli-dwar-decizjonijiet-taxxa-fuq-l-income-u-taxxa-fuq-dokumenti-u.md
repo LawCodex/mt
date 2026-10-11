@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Deċiżjonijiet (Taxxa fuq l-Income u Taxxa fuq Dokumenti u Trasferimenti ta’ Amalgamazzjonijiet u Diviżjonijiet) (S.L. 123.140)
 
-FUQ DOKUMENTI U TRASFERIMENTI TA’
-
-*1*
-
-AMALGAMAZZJONIJIET U DIVIŻJONIJIET) [L.S.123.140
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.140**
 
 **REGOLI DWAR DEĊIŻJONIJIET (TAXXA FUQ**
@@ -61,12 +55,6 @@ Il-Kummissarju għandu, fuq applikazzjoni ta’ kumpannija waħda jew aktar invo
 
 Iżda meta l-Kummissarju, fid-diskrezzjoni assoluta tiegħu, jkun sodisfatt li it-transazzjoni jew it-transazzjonijiet se issir, jew jsiru għal raġunijiet bona fide, u ma jagħmlux parti minn skema jew arranġamenti liema għan, jew wieħed mill-għaniet prinċipali, jkun l-evitar tat-taxxa fuq l-income u t-taxxa fuq dokumenti u trasferimenti.
 
-FUQ DOKUMENTI U TRASFERIMENTI TA’
-
-*2*
-
-[L.S.123.140 AMALGAMAZZJONIJIET U DIVIŻJONIJIET)
-
 ## 3. Kondizzjonijiet.
 
 Meta l-Kummissarju jagħti l-permess tiegħu għal finijiet ta’ dawn ir-regoli, huwa għandu, fid-diskrezzjoni assoluta tiegħu, jimponi dawk il-kondizzjonijiet li jidhirlu meħtieġa u xierqa, u tali kondizzjonijiet għandhom jiġu applikati lil kull kumpannija involuta f ’amalgamazzjoni jew diviżjoni skont il-każ, lil kull azzjonista u kull persuna oħra (kemm jekk eżistenti jew le meta ssir l-applikazzjoni għal deċiżjoni), kif jista’ jiġi indikat mill- Kummissarju f’deċiżjoni partikolari, u għandha tapplika minkejja kull dispożizzjoni oħra tal-Att dwar it-Taxxa fuq l-Income u l-Att dwar it-Taxxa fuq Dokumenti u Trasferimenti. Kull deċiżjoni li tirriżulta skont dak speċifikat fir-regola 2 hija bla effett jekk tali kondizzjonijiet mhumiex imħarsa f’kull perjodu.
@@ -87,11 +75,7 @@ Il-ħruġ u n-notifika ta’ deċiżjoni skont ir-regola 2 trid issir qabel ma s
 
 (d) Il-Kummissarju għandu jinnotifika lill-applikant u kull kumpannija oħra eżistenti u involuta f’amalgamazzjoni jew diviżjoni partikolari, bid-deċiżjoni tiegħu fi żmien tletin jum wara li jirċievi l-applikazzjoni jew, jekk jagħti avviż skont subregola (ċ), fi żmien tletin jum miż-żmien li tali avviż ġie mħares. Id-deċiżjoni ma ssirx effettiva jekk ma tkunx iffirmata għallinqas minn direttur wieħed minn kull kumpannija involuta fl-amalgamazzjoni jew diviżjoni skont il-każ, u liema kumpanniji jkunu jeżistu meta toħroġ id-deċiżjoni.
 
-(e) Meta xi tagħrif mogħti skont dan l-artikolu ma jkunx FUQ DOKUMENTI U TRASFERIMENTI TA’
-
-*3*
-
-AMALGAMAZZJONIJIET U DIVIŻJONIJIET) [L.S.123.140 juri l-fatti u l-kunsiderazzjonijiet kollha materjali għad-deċiżjoni tal-Kummissarju, b’mod komplet u preċiż, kull deċiżjoni li b’konsegwenza tingħata tkun bla effett.
+(e) Meta xi tagħrif mogħti skont dan l-artikolu ma jkunx juri l-fatti u l-kunsiderazzjonijiet kollha materjali għad-deċiżjoni tal-Kummissarju, b’mod komplet u preċiż, kull deċiżjoni li b’konsegwenza tingħata tkun bla effett.
 
 *(f)*
 

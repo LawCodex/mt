@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika ta' Franza (S.L. 123.14)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.14**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -99,8 +95,6 @@ it-taxxa fuq l-income,
 
 \*kif emendat bil-Protokoll riprodott fl-Avviż Legali 329 tal-2010.
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 3
-
 (4) Il-Ftehim għandu wkoll japplika għal kull taxxi bħalhom jew li sostanzjalment jixbħuhom li jiġu mposti wara d-data tal-firmar ta’ dan il-Ftehim b’żieda ma’, jew minflok, it-taxxi eżistenti. L-awtojritajiet kompetenti tal-lstati għandhom javżaw lil xulxin b’kull tibdil sinjifikanti li jkunu għamlu fil-liġijiet ta’ tassazzjoni rispettivi tagħhom.
 
 ## KAPITOLU II — Tifsiriet — ARTIKOLU 3
@@ -175,9 +169,7 @@ imfissra fih għandu jkollha l-istess tifsir kif mogħti lilha taħt il-liġijie
 
 (e) ħanut tax-xogħol; u
 
-(f) minjiera, bir taż-żejt jew tal-gass, barriera jew post ieħor ta’ estrazzjoni FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 5
-
-ta’ riżorsi naturali nkluż sit tat-tħaffir fuq il-baħar.
+(f) minjiera, bir taż-żejt jew tal-gass, barriera jew post ieħor ta’ estrazzjoni ta’ riżorsi naturali nkluż sit tat-tħaffir fuq il-baħar.
 
 (3) Sit tal-bini jew kostruzzjoni jew proġett ta’ immuntar jew attivitajiet superviżorji in konnessjoni magħhom, għandhom jikkostitwixxu stabbiliment permanenti sakemm dak il-proġett jew l-attivitajiet tas-sit idumu iżjed minn tnax-il xahar.
 
@@ -227,9 +219,7 @@ fih dik il-proprjetà tkun qegħda.
 
 (4) Safejn ikun soltu li fi Stat Kontraenti jiġu stabbiliti l-profitti li għandhom jiġu attribwiti lil stabbiliment permanenti fuq il-bażi ta’ tqassim tal-profitti totali tal-impriża fuq il-partijiet diversi tagħha, ebda ħaġa fil-paragrafu (2) ma għandha tellef lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li għandhom jiġu ntaxxati skont dak it-tqassim kif soltu jsir; il-metodu tat-tqassim li jiġi wżat għandu, b’danakollu, ikun hekk li r-riżultat ikun skont il-prinċipji li jinsabu f’dan l-Artikolu.
 
-(5) Ma għandhom jiġu attribwiti ebda profitti lil stabbiliment permanenti minħabba biss ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 7
-
-għall-impriża.
+(5) Ma għandhom jiġu attribwiti ebda profitti lil stabbiliment permanenti minħabba biss ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija għall-impriża.
 
 (6) Għall-finijiet tal-paragrafi ta’ qabel, il-profitti li għandhom jiġu attribwiti lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess mod minn sena għal sena kemm-il darba ma jkunx hemm raġuni tajba u biżżejjed biex isir kuntrarju.
 
@@ -287,9 +277,7 @@ Dan il-paragrafu ma għandux jolqot it-tassazzjoni tal-kumpannija dwar il-profit
 
 (i) individwu; jew
 
-(ii) kumpannija li ma tikkontrollax il-kumpannija li tħallas id-dividendi; għall-finijiet ta’ dan is-sub-paragrafu, kumpannija għandha titqies li tikkontrolla kumpannija oħra meta, jew waħedha jew flimkien ma’ kumpannija waħda jew iżjed minn waħda assoċjati magħha tikkontrolla direttament jew indirettament għall-inqas 10 fil-mija tas-saħħa tal-vot tal-kumpannija l-oħra, u ż-żewġ kumpanniji għandhom jitqiesu li jkunu assoċjati jekk waħda tkun kontrollata direttament jew indirettament FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 9
-
-mill-oħra jew it-tnejn ikunu kontrollati direttament jew indirettament minn terza kumpannija bil-metodu msemmi hawn fuq.
+(ii) kumpannija li ma tikkontrollax il-kumpannija li tħallas id-dividendi; għall-finijiet ta’ dan is-sub-paragrafu, kumpannija għandha titqies li tikkontrolla kumpannija oħra meta, jew waħedha jew flimkien ma’ kumpannija waħda jew iżjed minn waħda assoċjati magħha tikkontrolla direttament jew indirettament għall-inqas 10 fil-mija tas-saħħa tal-vot tal-kumpannija l-oħra, u ż-żewġ kumpanniji għandhom jitqiesu li jkunu assoċjati jekk waħda tkun kontrollata direttament jew indirettament mill-oħra jew it-tnejn ikunu kontrollati direttament jew indirettament minn terza kumpannija bil-metodu msemmi hawn fuq.
 
 (ċ) Id-dispożizzjonijiet tas-sub-paragrafu (a) ta’ dan il-paragrafu ma japplikawx jekk min jirċievi l-ħlas mit-Teżor Franċiż miksub taħt is-sub-paragrafu (a) ta’ dan il-paragrafu ma jkunx suġġett għat-taxxa ta’ Malta dwar dak il-ħlas.
 
@@ -339,11 +327,9 @@ bażi stabbilit hemmhekk u d-dritt għal dejn li minnu jinqala’ l-imgħax ikol
 
 (4) Il-frażi "royalties" kif użata f’dan l-Artikolu tfisser ħlasijiet ta’ kull xorta riċevuti bħala kumpens għall-użu ta’, jew għall-jedd tal-użu ta’ kull dritt tal-awtur ta’ xogħol letterarju, artistiku jew xjentifiku inklużi films ċinematografiċi, u films jew xogħol għal xandir televiżiv jew bir-radju, kull invenzjoni, trade mark, disinn jew mudell, pjan, formula jew proċess sigriet, jew għal kull informazzjoni dwar esperjenza ndustrijali, kummerċjali jew xjentifika.
 
-(5) Id-dispożizzjonijiet tal-paragrafi (1), (2) u (3) ma għandhomx japplikaw jekk min jirċievi r-royalties li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih ir-royalties jinqagħlu permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qed jaqdi f’dak l-Istat l-ieħor FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 11
+(5) Id-dispożizzjonijiet tal-paragrafi (1), (2) u (3) ma għandhomx japplikaw jekk min jirċievi r-royalties li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih ir-royalties jinqagħlu permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew ikun qed jaqdi f’dak l-Istat l-ieħor servizz professjonali minn bażi stabbilit sitwat hemmhekk, u d-dritt jew il-proprjetà li dwarha jitħallsu r-royalties ikollha x’taqsam effettivament ma’ dak l-istabbiliment permanenti jew ma’ dak il-bażi stabbilit. F’dak il-każ għandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-każ.
 
 \*kif emendat bil-Protokoll riprodott fl-Avviż Legali 329 tal-2010.
-
-servizz professjonali minn bażi stabbilit sitwat hemmhekk, u d-dritt jew il-proprjetà li dwarha jitħallsu r-royalties ikollha x’taqsam effettivament ma’ dak l-istabbiliment permanenti jew ma’ dak il-bażi stabbilit. F’dak il-każ għandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-każ.
 
 (6) Royalties għandhom jitqiesu li jinqagħlu fi Stat Kontraenti meta min iħallashom ikun dak l-Istat innifsu, sotto-diviżjoni politika, awtorità lokali, korp statutorju jew residenti ta’ dak l-Istat. Meta, iżda, il-persuna li tħallas ir-royalties, sew jekk tkun residenti ta’ wieħed mill-Istati sew jekk le, ikollha fi Stat Kontraenti stabbiliment permanenti li dwaru jkun sar l-obbligu jitħallsu r-royalties jew il-proprjetà li fuqhom ikollhom x’jaqsmu u dawk ir-royalties ikun r-responsabbiltà ta’ dak l-istabbiliment permanenti, allura dawk ir-royalties għandhom jitqiesu li jinqalgħu fl-Istat Kontraenti li fih ikun qiegħed l-istabbiliment permanenti.
 
@@ -395,9 +381,7 @@ servizz professjonali minn bażi stabbilit sitwat hemmhekk, u d-dritt jew il-pro
 
 **Drittijiet tad-Diretturi**
 
-Id-drittijiet tad-diretturi u ħlasijiet simili li jinqalgħu minn residenti ta’ Stat Kontraenti fil-kariga tiegħu bħala membru tal-bord tad-diretturi jew ta’ organu ieħor FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 13
-
-simili ta’ kumpannija li tkun residenti tal-Istat Kontraenti l-ieħor jistgħu jiġu ntaxxati fi-Istat l-ieħor.
+Id-drittijiet tad-diretturi u ħlasijiet simili li jinqalgħu minn residenti ta’ Stat Kontraenti fil-kariga tiegħu bħala membru tal-bord tad-diretturi jew ta’ organu ieħor simili ta’ kumpannija li tkun residenti tal-Istat Kontraenti l-ieħor jistgħu jiġu ntaxxati fi-Istat l-ieħor.
 
 **ARTIKOLU 17**
 
@@ -457,9 +441,7 @@ ta’ żmien speċifikat jew li jista’ jiġi aċċertat, taħt l-obbligazzojni
 
 **Għalliema u Riċerkaturi**
 
-(1) Għalliem jew riċerkatur li kien jew li minnufih qabel ma jżur Stat Kontraenti kien residenti tal-Istat Kontraenti l-ieħor, u li jkun fi-Istat Kontraenti l-ewwel FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 15
-
-imsemmi sabiex igħallem jew sabiex jagħmel riċerki jkun eżentat minn taxxa f’dak l-Istat għal perijodu ta’ mhux iżjed minn sentejn fuq rimunerazzjoni dwar dawk l-attivitajiet.
+(1) Għalliem jew riċerkatur li kien jew li minnufih qabel ma jżur Stat Kontraenti kien residenti tal-Istat Kontraenti l-ieħor, u li jkun fi-Istat Kontraenti l-ewwel imsemmi sabiex igħallem jew sabiex jagħmel riċerki jkun eżentat minn taxxa f’dak l-Istat għal perijodu ta’ mhux iżjed minn sentejn fuq rimunerazzjoni dwar dawk l-attivitajiet.
 
 (2) Dan l-Artikolu ma għandux japplika għal income minn riċerki jekk dawk ir-riċerki ma jkunux ġew użati fl-interess pubbliku iżda primarjament ġew użati għall-benefiċċju privat ta’ persuna jew persuni speċifiċi.
 
@@ -519,11 +501,9 @@ Fil-każ ta’ Franza, it-taxxa doppja għandha tiġi evitata kif ġej:
 
 (ii) meta t-taxxa fuq dak l-income tiġi kalkolata billi tiġi applikata skala progressiva, l-ammont ta’ income nett involut moltiplikat bir-rata li tirriżulta mill-proporzjon li joħroġ mit-taxxa li attwalment titħallas fuq l-income nett sħiħ taxxabbli skont il-liġi ta’ Franza u mill-ammont ta’ dak l-income nett sħiħ.
 
-Din it-tifsira għandha b’analoġija tkun tapplika għall-frażi "ammont ta’ FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 17
+Din it-tifsira għandha b’analoġija tkun tapplika għall-frażi "ammont ta’ taxxa ta’ Franza li għandha tinġabar fuq dak il-kapital" kif użata fis-subparagrafu (b).
 
 \*kif emendat bil-Protokoll riprodott fl-Avviż Legali 329 tal-2010.
-
-taxxa ta’ Franza li għandha tinġabar fuq dak il-kapital" kif użata fis-subparagrafu (b).
 
 (d) (i) Jinftiehmu li l-frażi "ammont ta’ taxxa mħallsa f’Malta" kif użata fis-subparagrafi (a) u (b) tfisser l-ammont ta’ taxxa ta’ Malta li b’mod effettiv u definittiv titħallas għar-rigward ta’ income jew tal-oġġetti li jiffurmaw il-kapital konċernat, skont id-dispożizzjonijiet tal-Ftehim, mill-benefiċjarju jew mill-proprjetarju tiegħu li jkun resdenti ta’ Franza.
 
@@ -569,9 +549,7 @@ Bl-istess mod, kull dejn ta’ mpriża ta’ Stat Kontraenti lil residenti tal-I
 
 (1) Meta residenti ta’ Stat Kontraenti jidhirlu li l-azzjonijiet ta’ wieħed mill- Istati Kontraenti jew tat-tnejn iwasslu jew jistgħu jwasslu li jiġi ntaxxat mhux skont dan il-Ftehim, hu jista’, minkejja r-rimedji provduti bil-liġijiet nazzjonali ta’ dawk l- Istati, jippreżenta l-każ tiegħu lill-awtorità kompetenti tal-Istat Kontraenti li tiegħu jkun residenti, jew, f’kull każ imsemmi fil-paragrafu (1) tal-Artikolu 25, għal dak l- Istat Kontraenti li tiegħu jkun nazzjonali. Dan il-każ għandu jiġi ppreżentat fi żmien tliet snin mill-ewwel avviż tal-azzjoni li toħloq it-tassazzjoni mhux skont dan il- Ftehim.
 
-(2) L-awtorità kompetenti għandha tara, jekk l-oġġezzjoni tidher li tkun ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal għal soluzzjoni xierqa, li tiddeċiedi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieħor, bil-ħsieb li tiġi evitata tassazzjoni li ma tkunx skont dan il-Ftehim. Kull ftehim milħuq għandu jiġi implimentat minkejja kull termini fil-liġijiet nazzjonali tal-Istati FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 19
-
-Kontraenti.
+(2) L-awtorità kompetenti għandha tara, jekk l-oġġezzjoni tidher li tkun ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal għal soluzzjoni xierqa, li tiddeċiedi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieħor, bil-ħsieb li tiġi evitata tassazzjoni li ma tkunx skont dan il-Ftehim. Kull ftehim milħuq għandu jiġi implimentat minkejja kull termini fil-liġijiet nazzjonali tal-Istati Kontraenti.
 
 (3) L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jaraw li jiddeċiedu bi ftehim reċiproku kull diffikultajiet jew dubji li jinqalgħu dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim.
 
@@ -637,9 +615,7 @@ F’ebda każ m’għandhom id-dispożizzjonijiet tal-paragrafu 3 jiftiehmu li j
 
 **Estensjoni ta’ Territorju**
 
-(1) Dan il-Ftehim jista’ jiġi estiż, kollu kemm hu jew b’xi tibdil meħtieġ, għat-territorji tar-Repubblika ta’ Franza li jimponu taxxi sostanzjalment li jixbħu x-xorta ta’ dawk li għalihom japplika dan il-Ftehim. Kull estensjoni bħal din għandha tibda sseħħ minn dik id-data u tkun suġġetta għal dak it-tibdil u kundizzjonijiet, inkużi FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 21
-
-kundizzjonijiet dwar terminazzjoni, kif jista’ jiġi speċifikat u miftiehem bejn l-Istati Kontraenti f’noti li għandhom jinbidlu permezz ta’ mezzi diplomatiċi, jew b’xi mod ieħor skont il-proċeduri kostituzzjonali tagħhom.
+(1) Dan il-Ftehim jista’ jiġi estiż, kollu kemm hu jew b’xi tibdil meħtieġ, għat-territorji tar-Repubblika ta’ Franza li jimponu taxxi sostanzjalment li jixbħu x-xorta ta’ dawk li għalihom japplika dan il-Ftehim. Kull estensjoni bħal din għandha tibda sseħħ minn dik id-data u tkun suġġetta għal dak it-tibdil u kundizzjonijiet, inkużi kundizzjonijiet dwar terminazzjoni, kif jista’ jiġi speċifikat u miftiehem bejn l-Istati Kontraenti f’noti li għandhom jinbidlu permezz ta’ mezzi diplomatiċi, jew b’xi mod ieħor skont il-proċeduri kostituzzjonali tagħhom.
 
 (2) Kemm-il darba ma jkunx hemm qbil kuntrarju bejn iż-żewġ Stati Kontraenti, it-terminazzjoni tal-Ftehim minn xi wieħed minnhom, taħt t-Artikolu 31, twaqqaf ukoll, bil-mod kif provdut għalih f’dak l-Artikolu, l-applikazzjoni tal-Ftehim għal xi territorju li għalih ikun ġie estiż taħt dan l-Artikolu.
 
@@ -693,11 +669,9 @@ IV. Dwar l-Artikolu 8:
 
 (b) meta persuna li tkun residenti ta’ Franza tipparteċipa direttament jew indirettament fil-maniġġ, kontroll jew fil-kapital ta’ xi mpriża bħal din, din il-persuna għandha tkun taxxabbli fi Franza dwar dik il-parti tal-qligħ, miksuba minn dik l-impriża u eżentat minn taxxa f’Malta kif intqal qabel, li jkun xieraq għall-parteċipazzjoni ta’ dik il-persuna fl-impriża.
 
-V. Dwar l-Artikoli 11 u 12, meta xi imgħax jew royalties miksuba minn Malta jiġu riċevuti minn residenti ta’ Franza, it-taxxa f’Malta tkun dovuta fuq l-ammont tal-imgħax jew tar-royalties imnaqqsa bl-ispejjeż xierqa li jkun hemm attribwibbli FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 23
+V. Dwar l-Artikoli 11 u 12, meta xi imgħax jew royalties miksuba minn Malta jiġu riċevuti minn residenti ta’ Franza, it-taxxa f’Malta tkun dovuta fuq l-ammont tal-imgħax jew tar-royalties imnaqqsa bl-ispejjeż xierqa li jkun hemm attribwibbli fuqhom. Jekk it-taxxa hekk dovuta tkun iżjed minn 10 fil-mija ta l-ammont gross tal-imgħax jew tar-royalties (qabel it-tnaqqis tal-ispejjeż imsemmija qabel), it-taxxa titnaqqas sabiex ma tkunx iżjed minn 10 fil-mija tal-imgħax jew tar-royalties gross. VI. Dwar l-Artikolu 25:
 
 \*kif emendat bil-Protokoll riprodott fl-Avviż Legali 329 tal-2010.
-
-fuqhom. Jekk it-taxxa hekk dovuta tkun iżjed minn 10 fil-mija ta l-ammont gross tal-imgħax jew tar-royalties (qabel it-tnaqqis tal-ispejjeż imsemmija qabel), it-taxxa titnaqqas sabiex ma tkunx iżjed minn 10 fil-mija tal-imgħax jew tar-royalties gross. VI. Dwar l-Artikolu 25:
 
 (a) Ebda ħaġa fil-paragrafu (1) m’għandha titqies li timpedixxi lil Franza milli tagħti biss lil persuni li jkollhom nazzjonalità Franċiża l-benefiċċju ta l-eżenzjoni tal-qligħ mit-tneħħija ta’ proprjetà immobiljari jew partijiet ta’ proprjetà immobiljari li tikkostitwixxi jew jikkostitwixxu r-residenza fi Franza ta’ persuni Franċiżi li ma humiex residenti ta’ Franza, kif provdut fl-Artikolu 6 - 11 tal-liġi nru 76.660 tad-19 ta’ Lulju, 1976; u
 
@@ -781,9 +755,7 @@ Artikolu 10 tal-Ftehim qiegħed jiġi emendat kif ġej:
 
 "2.a) Meta d-dividendi jitħallsu minn kumpannija residenti ta’ Franza lil residenti ta’ Malta li jkun is-sid benefiejarju tagħhom, it-taxxa ta’ Franza hekk dovuta m’għandhiex tkun iżjed minn 15 fil-mija tal-ammont gross tad-dividendi. Madankollu, dividendi mħallsa minn kumpannija li tkun residenti ta’ Franza u li jkollha bħala sidt benefiċjarja lil kumpannija li tkun residenti ta’ Malta u li jkollha direttament mill-inqas 10 fil-mija tal-kapital tal-kumpannija li tħallas id-dividendi tkun taxxabbli biss f’Malta.".
 
-\2. Fil-paragrafu 3, il-kliem "income minn drittijiet korporati oħra li hu suġġett għall-istess trattament ta’ tassazzjoni bħal income minn azzjonijiet skont il-liġi fuq tassazzjoni tal-Istat li hi tkun residenti l-kumpannija li tagħmel it-tqassim" qegħdin FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 25
-
-jiġu mħassra u sostitwiti b’dawn il-kliem li ġejjin "income meqjus bħala tqassim skont il-liġijiet tat-taxxa tal-Istat Kontraenti li l-kumpannija li tagħmel it-tqassim tkun residenti fih".
+\2. Fil-paragrafu 3, il-kliem "income minn drittijiet korporati oħra li hu suġġett għall-istess trattament ta’ tassazzjoni bħal income minn azzjonijiet skont il-liġi fuq tassazzjoni tal-Istat li hi tkun residenti l-kumpannija li tagħmel it-tqassim" qegħdin jiġu mħassra u sostitwiti b’dawn il-kliem li ġejjin "income meqjus bħala tqassim skont il-liġijiet tat-taxxa tal-Istat Kontraenti li l-kumpannija li tagħmel it-tqassim tkun residenti fih".
 
 \3. Fis-subparagrafu 5 a), il-kliem "sub-paragrafu (a)(ii)" għandhom jiġu sostitwiti bil-kliem "sub-paragrafu (a)".
 
@@ -844,8 +816,6 @@ a) li jwettaq miżuri amministrattivi differenti mil-liġijiet u l-prattika ammi
 ### 5.
 
 F’ebda każ m’għandhom id-dispożizzjonijiet tal-paragrafu 3 jiftiehmu li jippermettu lil xi Stat Kontraenti li jonqos milli jipprovdi informazzjoni unikament għaliex l-informazzjoni tkun miżmuma minn xi bank, istituzzjoni finanzjarja oħra, nominee jew persuna li tkun qegħda taġixxi f’aġenzija jew li jkollha kapaċità fiduċjarja jew għaliex ikollha x’taqsam ma’ interessi proprjetarji f’xi persuna.".
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ FRANZA [L.S.123.14 27
 
 **Artikolu 8**
 

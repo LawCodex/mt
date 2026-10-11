@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statut għaċ-Ċentru għall-Arti u x-Xjenzi Liberali (S.L. 327.494)
 
-*1*
-
-GĦALL-ARTI U X-XJENZI LIBERALI [L.S.327.494
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.494**
 
 **STATUT GĦAĊ-ĊENTRU**
@@ -73,10 +69,6 @@ Iċ-Ċentru jitmexxa minn Bord li jkun magħmul kif ġej:
 
 (ii) Viċi-Chairman: Id-Direttur taċ-Ċentru;
 
-**GĦALL-ARTI U X-XJENZI LIBERALI**
-
-*[L.S.327.494 2*
-
 (iii) persuna maħtura mill-Kunsill tal-Università;
 
 (iv) żewġ Akkademiċi Residenti li jkollhom sfond fl-Arti u fl-Istudji Umanistiċi maħtura mis-Senat tal-Università;
@@ -119,11 +111,7 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (vii) jirrakkomanda lill-Kunsill il-ħolqien jew l-abolizzjoni ta’ postijiet akkademiċi u mhux akkademiċi fiċ-Ċentru; u
 
-(viii) jipproponi għall-approvazzjoni tas-Senat, il- Bordijiet tal-Eżaminaturi għall-programm ta’ GĦALL-ARTI U X-XJENZI LIBERALI [L.S.327.494
-
-studji taċ-Ċentru;
-
-*3*
+(viii) jipproponi għall-approvazzjoni tas-Senat, il- Bordijiet tal-Eżaminaturi għall-programm ta’ studji taċ-Ċentru;
 
 *L.S. 327.236*
 
@@ -159,11 +147,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur jinkludu:
 
 • is-sessjoni ta’ Jannar - sal-aħħar ta’ Marzu;
 
-• is-sessjoni ta’ Mejju/Ġunju – ir-riżultati tal- Aħħar Sena mhux aktar tard minn jumejn qabel jitlaqqa’ l-Bord għall-Klassifikazzjoni li jsir fl-aħħar sena iżda, fi kwalunkwe każ, mhux aktar GĦALL-ARTI U X-XJENZI LIBERALI
-
-tard mill-aħħar ta’ Lulju; riżultati oħra għandhom jaslu kemm jista’ jkun malajr iżda mhux aktar tard mill-aħħar ta’ Lulju;
-
-*[L.S.327.494 4*
+• is-sessjoni ta’ Mejju/Ġunju – ir-riżultati tal- Aħħar Sena mhux aktar tard minn jumejn qabel jitlaqqa’ l-Bord għall-Klassifikazzjoni li jsir fl-aħħar sena iżda, fi kwalunkwe każ, mhux aktar tard mill-aħħar ta’ Lulju; riżultati oħra għandhom jaslu kemm jista’ jkun malajr iżda mhux aktar tard mill-aħħar ta’ Lulju;
 
 • is-sessjoni ta’ Settembru - sal-aħħar ta’ Settembru;
 
@@ -195,11 +179,7 @@ tard mill-aħħar ta’ Lulju; riżultati oħra għandhom jaslu kemm jista’ jk
 
 Minbarra dan, id-Direttur taċ-Ċentru:
 
-(a) għandu jirrapporta direttament liċ-Chairman tal-Bord taċ-Ċentru u għandu jikkollabora mal-uffiċjali GĦALL-ARTI U X-XJENZI LIBERALI [L.S.327.494
-
-amministrattivi anzjani kollha tal-Università;
-
-*5*
+(a) għandu jirrapporta direttament liċ-Chairman tal-Bord taċ-Ċentru u għandu jikkollabora mal-uffiċjali amministrattivi anzjani kollha tal-Università;
 
 (b) għandu jkun Akkademiku Residenti impjegat mal- Università fuq bażi full-time matul iż-żmien li jokkupa l-ħatra ta’ Direttur;
 

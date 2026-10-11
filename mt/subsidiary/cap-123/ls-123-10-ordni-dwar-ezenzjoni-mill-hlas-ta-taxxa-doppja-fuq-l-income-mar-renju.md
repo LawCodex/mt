@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju ta' l-Olanda (S.L. 123.10)
 
-*1*
-
-FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.10**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -101,8 +97,6 @@ it-taxxa fuq l-income u soprataxxa, inklużi ħlasijiet bil-quddiem ta’ taxxa 
 
 (hawnhekk iżjed ’il quddiem imsejħa "it-taxxa ta’ Malta").
 
-FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 3
-
 (4) Dan il-Ftehim għandu japplika wkoll għal kull taxxi bħalhom jew li sostanzjalment jixbħuhom li jiġu mposti wara d-data tal-firmar ta’ dan il-Ftehim b’żieda ma’, jew minflok, it-taxxi eżistenti. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom javżaw lil xulxin b’kull tibdil sinjifikanti li jkunu għamlu fil-liġijiet fiskali rispettivi tagħhom.
 
 (5) Meta l-Ftehim jipprovdi li income li jinqala’ fi Stat Kontraenti għandu jiġi meħlus mit-taxxa f’dak l-Istat, jew għal kollox jew f’parti, u, skond il-liġi fis-seħħ fl-Istat l-ieħor dwar l-imsemmi income persuna tkun suġġetta għat-taxxa b’riferenza għal dak l-ammont minnu li jintbagħat jew li jiġi riċevut f’dak l-Istat l-ieħor u mhux b’riferenza għall-ammont sħiħ tiegħu, allura l-ħelsien li għandu jingħata taħt dan il- Ftehim fl-Istat l-ewwel imsemmi għandu japplika għal dik il-parti mill-income li tkun intbagħtet jew li ġiet riċevuta fl-Istat l-ieħor.
@@ -162,8 +156,6 @@ b’inġenji ta’ l-ajru mħaddma minn impriża li għandha l-post tal-maniġġ
 (d) jekk dan ikun nazzjonali taż-żewġ Stati jew ta’ ebda wieħed minnhom, l-awtoritajiet kompetenti ta’ l-Istati għandhom jiddeċiedu bi ftehim bejniethom.
 
 (4) Meta minħabba d-disposizzjonijiet tal-paragrafu (1), persuna li ma tkunx individwu tkun residenti taż-żewġ Stati, allura għandha titqies li hi persuna residenti ta’ l-Istat li fih ikun qiegħed il-post tal-maniġġ effettiv tagħha.
-
-FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 5
 
 **ARTIKOLU 5**
 
@@ -233,8 +225,6 @@ FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 5
 
 (5) Ma għandhom jiġu attribwiti ebda profitti lil stabbiliment permanenti minħabba biss ix-xiri minn dak l-istabbiliment permanenti ta’ oġġetti jew merkanzija għall-impriża.
 
-FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 7
-
 (6) Għall-finijiet tal-paragrafi ta’ qabel, il-profitti li għandhom jiġu attribwiti lill-istabbiliment permanenti għandhom jiġu stabbiliti bl-istess mod minn sena għal sena kemm-il darba ma jkunx hemm raġuni tajba u biżżejjed biex isir kuntrarju.
 
 (7) F’każ li profitti jinkludu oġġetti ta’ income li qed jiġu trattati separatament f’Artikoli oħra ta’ dan il-Ftehim, id-disposizzjonijiet ta’ dawk l-Artikoli ma jiġux imfixkla bid-disposizzjonijiet ta’ dan l-Artikolu.
@@ -285,9 +275,7 @@ Dan il-paragrafu ma jolqotx it-tassazzjoni tal-kumpannija dwar il-profitti li mi
 
 (5) Id-disposizzjonijiet tal-paragrafi (1), (2) u (3) m’għandhomx japplikaw jekk minn jirċievi id-dividendi, li jkun residenti ta’ wieħed mill-Istati, jmexxi negozju fl- Istat l-ieħor li tiegħu tkun residenti il-kumpannija li tħallas id-dividendi, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew tagħmel f’dak l-Istat l-ieħor servizzi professjonali minn bażi stabbilit hemmhekk, u l-holding li dwarhom jitħallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti jew mal-bażi stabbilit. F’dak il-każ, għandhom japplikaw id-disposizzjonijiet ta’ l-Artilolu 7 jew ta’ l-Artikolu 15, skond il-każ.
 
-(6) Meta kumpannija li tkun residenti ta’ wieħed mill-Istati tikseb profitti jew income mill-Istat l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief safejn dawn id-dividendi jkunu mħallsa lil FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 9
-
-residenti ta’ dak l-Istat l-ieħor u safejn il-holding li dwaru d-dividendi ikunu tħallsu ikollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ma’ dak il-bażi stabbilit li jkun qiegħed f’dak l-Istat l-ieħor, lanqas jissuġġetta l-profitti mhux imqassma tal-kumpannija għal taxxa fuq profitti mhux imqassma, ukoll jekk id-dividendi mħallsa fuq il-profitti mhux imqassma jikkonsistu għal kollox jew f’parti fi profitti jew income li jinqala’ minn dak l-Istat l-ieħor.
+(6) Meta kumpannija li tkun residenti ta’ wieħed mill-Istati tikseb profitti jew income mill-Istat l-ieħor, dak l-Istat l-ieħor ma jista’ jimponi ebda taxxa fuq id-dividendi mħallsa mill-kumpannija, ħlief safejn dawn id-dividendi jkunu mħallsa lil residenti ta’ dak l-Istat l-ieħor u safejn il-holding li dwaru d-dividendi ikunu tħallsu ikollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ma’ dak il-bażi stabbilit li jkun qiegħed f’dak l-Istat l-ieħor, lanqas jissuġġetta l-profitti mhux imqassma tal-kumpannija għal taxxa fuq profitti mhux imqassma, ukoll jekk id-dividendi mħallsa fuq il-profitti mhux imqassma jikkonsistu għal kollox jew f’parti fi profitti jew income li jinqala’ minn dak l-Istat l-ieħor.
 
 **ARTIKOLU 11**
 
@@ -327,7 +315,7 @@ bejniethom it-tnejn u xi persuna oħra, l-ammont ta’ l-imgħax li tħallas, me
 
 (4) Royalties għandhom jitqiesu li jinqalgħu f’wieħed mill-Istati meta min iħallashom ikun dak l-Istat innifsu, sotto-diviżjoni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, iżda, il-persuna li tħallas ir-royalties, sew jekk tkun residenti ta’ wieħed mill-Istati sew jekk le, ikollha f’wieħed mill-Istati stabbiliment permanenti li dwaru ikun sar l-obbligu li jitħallsu r-royalties u dawk ir-royalties ikunu r-responsabbiltà ta’ dak l-istabbiliment permanenti, allura dawk ir-royalties għandhom jitqiesu li jinqalgħu fl-Istat li fih ikun qiegħed l-istabbiliment permanenti.
 
-(5) Meta, minħabba relazzjoni speċjali bejn min iħallas u min jirċievi jew bejniethom it-tnejn u xi persuna oħra, l-ammont tar-royalties imħallsa, meta jitqies l-użu, id-dritt jew l-informazzjoni li għalih ikunu mħallsa jkun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u min jirċievi fin-nuqqas ta’ dik ir-relazzjoni, d-disposizzjonijiet ta’ dan l-Artikolu għandhom japplikaw biss għall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ħlasijiet għandha tibqa’ taxxabbli skond il-liġi ta’ kull Stat, meta jitqiesu d-disposizzjonijiet l-oħra ta’ dan il-Ftehim. FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 11
+(5) Meta, minħabba relazzjoni speċjali bejn min iħallas u min jirċievi jew bejniethom it-tnejn u xi persuna oħra, l-ammont tar-royalties imħallsa, meta jitqies l-użu, id-dritt jew l-informazzjoni li għalih ikunu mħallsa jkun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u min jirċievi fin-nuqqas ta’ dik ir-relazzjoni, d-disposizzjonijiet ta’ dan l-Artikolu għandhom japplikaw biss għall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ħlasijiet għandha tibqa’ taxxabbli skond il-liġi ta’ kull Stat, meta jitqiesu d-disposizzjonijiet l-oħra ta’ dan il-Ftehim.
 
 **ARTIKOLU 13**
 
@@ -391,8 +379,6 @@ indipendenti xjentifiċi, letterarji, artistiċi, edukattivi jew ta’ tagħilim
 
 (2) Meta income dwar attivitajiet personali ta’ artista jew atleta bħala tali jmur mhux għal dak l-artista jew l-atleta nnifsu iżda għal persuna oħra, dak l-income jista’, b’dak kollu li jinsab fid-disposizzjonijiet ta’ l-Artikoli 7, 15 u 16, jigi ntaxxat fl-Istat li fih l-attivitajiet ta’ l-artista jew ta’ l-atleta jkunu eżerċitati.
 
-FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 13
-
 **ARTIKOLU 19**
 
 **Pensjonijiet, Annwalitajiet u Ħlasijiet tas-Sigurtà So`jali**
@@ -455,8 +441,6 @@ massimu ta’ sentejn f’università, kulleġġ jew istituzzjoni oħra sabiex j
 
 (2) Id-disposizzjonijiet tal-paragrafu (1) ma għandhomx japplikaw jekk min jirċievi l-income, li jkun residenti ta’ wieħed mill-Istati, imexxi negozju fl-Istat l-ieħor permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jaqdi f’dak l-Istat l-ieħor servizzi professjonali minn bażi stabbilit sitwat hemmhekk, u d-dritt jew il-proprjetà li dwarha jitħallas l-income jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti jew mal-bażi stabbilit. F’dak il-każ għandhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 15, skond il-każ.
 
-FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 15
-
 ## KAPITOLU IV — Tassazzjoni ta’ Kapital — ARTIKOLU 24
 
 **Kapital**
@@ -501,9 +485,7 @@ L-ammont ta’ dan it-tnaqqis għandu jkun l-inqas mill-ammonti li ġejjin:
 
 (1) 1ċ-ċittadini ta’ wieħed mill-Istati, ikunu residenti ta’ dak l-Istat jew le, ma ikunux suġġetti fl-Istat l-ieħor għal xi tassazzioni jew ħtieġa li għandhom x’jaqsmu magħha li tkun ta’ piż ieħor jew aktar mit-tassazzioni u ħtiġiet li għandhom x’jaqsmu magħha li għalih iċ-ċittadini ta’ dak l-Istat l-ieħor fl-istess ċirkostanzi huma jew jistgħu jkunu suġġetti.
 
-(2) It-tassazzjoni ta’ stabbiliment permanenti li mpriża ta’ wieħed mill-Istati jkollha fl-Istat l-ieħor ma għandhiex tinġabar bi żvantaġg f’dak l-Istat l-ieħor għat-tassazzjoni miġbura minn impriżi f’dak l-Istat l-ieħor li jmexxu l-istess attivitajiet. Din id-disposizzjoni ma għandhiex tiftiehem li tobbliga wieħed mill-Istati li jagħti lil residenti ta’ l-Istat l-ieħor xi tnaqqis, ħelsien u riduzzjonijiet personali għal FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 17
-
-finijiet ta’ tassazzjoni minħabba l-istat ċivili jew ir-responsabbilitajiet tal-familja li jagħti lil residenti tiegħu stess.
+(2) It-tassazzjoni ta’ stabbiliment permanenti li mpriża ta’ wieħed mill-Istati jkollha fl-Istat l-ieħor ma għandhiex tinġabar bi żvantaġg f’dak l-Istat l-ieħor għat-tassazzjoni miġbura minn impriżi f’dak l-Istat l-ieħor li jmexxu l-istess attivitajiet. Din id-disposizzjoni ma għandhiex tiftiehem li tobbliga wieħed mill-Istati li jagħti lil residenti ta’ l-Istat l-ieħor xi tnaqqis, ħelsien u riduzzjonijiet personali għal finijiet ta’ tassazzjoni minħabba l-istat ċivili jew ir-responsabbilitajiet tal-familja li jagħti lil residenti tiegħu stess.
 
 (3) Ħlief meta japplikaw id-disposizzjonijiet tal-paragrafu (1) ta’ l-Artikolu 9, tal-paragrafu (7) ta’ l-Artikolu 11, jew tal-paragrafu (5) ta’ l-Artikolu 12, imgħax, royalties u nfieq ieħor imħallsa minn impriża ta’ wieħed mill-Istati lil residenti ta’ l- Istat l-ieħor għandhom, sabiex jiġu stabbiliti l-profitti taxxabbli ta’ dik l-impriża, ikunu jistgħu jitnaqqsu taħt l-istess kondizzjonijiet bħallikieku kienu tħallsu lil residenti ta’ l-Istat l-ewwel imsemmi. Bl-istess mod, kull dejn ta’ mpriża ta’ wieħed mill-Istati lil residenti ta’ l-Istat l-ieħor għandu, sabiex jiġi stabbilit il-kapital taxxabbli ta’ dik l-impriża, ikun jitnaqqas bħallikieku kien kuntrattat lil residenti ta’ l-Istat l-ewwel imsemmi.
 
@@ -561,7 +543,7 @@ Id-disposizzjonijiet tal-paragrafu (1) japplikaw ukoll għal kull leġislazzjoni
 
 **Regolamenti**
 
-(1) L-awtoritajiet kompetenti ta’ l-Istati għandhom bi ftehim bejniethom jiftiehmu dwar il-mod ta’ l-applikazzjoni tal-paragrafi (2) u (3) ta’ l-Artikolu 10 u tal-paragrafi (2) u (3) ta’ l-Artikolu 11, u tal-paragrafi (1) u (2) ta’ l-Artikolu 12. FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 19
+(1) L-awtoritajiet kompetenti ta’ l-Istati għandhom bi ftehim bejniethom jiftiehmu dwar il-mod ta’ l-applikazzjoni tal-paragrafi (2) u (3) ta’ l-Artikolu 10 u tal-paragrafi (2) u (3) ta’ l-Artikolu 11, u tal-paragrafi (1) u (2) ta’ l-Artikolu 12.
 
 (2) L-awtoritajiet kompetenti ta’ kull wieħed mill-Istati, skond il-prattika ta’ dak l-Istat, jistgħu jippreskrivu regolamenti li huma meħtieġa biex jitwettqu d-disposizzjonijiet l-oħra ta’ dan il-Ftehim.
 
@@ -632,8 +614,6 @@ IV. AD ARTIKLU 10
 (2) Jingħad li r-referenza fit-tieni sentenza tal-paragrafu (3) ta’ l-Artikolu 10 għad-disposizzjonijiet tal-liġi ta’ l-Olanda għall-fini li l-kumpannija li tkun qed tirċievi ma tkunx intaxxata għal taxxa ta’ l-Olanda fuq kumpannija dwar il-profitti mqassma minn kumpannija ta’ Malta, hu għall-applikazzjoni ta’ l-hekk imsejħa "holding privilege" fin-Netherlands Company Tax Act. Għall-finijiet tad-disposizzjonijiet ta’ l-imsemmi Att u għall-emendi għaliha li jsiru ’il quddiem, dan il-"holding privilege" iġib ir-riżultat li kumpannija li tkun residenti ta’ l-Olanda tista’ tħalli barra, fil-komputazzjoni tal-profitti taxxabbli tagħha, id-dividendi li tirċievi minn kumpannija li tkun residenti ta’ Malta, jekk ikollha għall-anqas 5 fil-mija tal-kapital mħallas tal-kumpannija l-aħħar imsemmija.
 
 V. AD ARTIKOLI 10, 11 u 12
-
-FUQ L-INCOME MAR-RENJU TA’ L-OLANDA [L.S.123.10 21
 
 Applikazzjoni għall-ħlas lura ta’ taxxa mħallsa kuntrarjament għad-disposizzjonijiet ta’ l-Artikoli 10, 11 u 12 għandhom jintbagħtu lill-awtorità kompetenti ta’ l-Istat, li jkun ġabar it-taxxa, fi żmien tliet snin wara li tgħaddi s-sena kalendarja li fiha tkun tħallset it-taxxa.
 

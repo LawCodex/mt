@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in the Laws of Procedure taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.401)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.401
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.401**
 
 **ORDINAMENTI GĦAD-DIPLOMA**
@@ -66,10 +62,6 @@ Dawn l-ordinamenti għandhom japplikaw f’Ottubru 2018 jew wara.
 (3) L-applikanti li jidħlu skont il-paragrafu (2) ta’ dan l-ordinament għandu jkollhom ċertifikat li huma għaddew fit-test ta’ profiċjenza tal-lingwa Ingliża kif approvat mill-Università qabel ma jidħlu fil-Kors, sakemm li l-applikanti li għandhom iċ-Ċertifikat tal-Edukazzjoni Sekondarja bi Grad 5 jew ogħla fil-lingwa Ingliża għandhom jiġu eżentati milli joqogħdu għat-test ta’ profiċjenza.
 
 (4) L-eliġibilità tal-applikanti msemmija f’paragrafu (2) ta’ dan l-ordinament għandu jkun deċiż minn bord tal-intervisti, magħmul għall-inqas minn tliet membri, maħtura mill-Bord għal dan il-għan.
-
-*2*
-
-[L.S.327.401 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI
 
 ## 4. Tul tal-istudju.
 

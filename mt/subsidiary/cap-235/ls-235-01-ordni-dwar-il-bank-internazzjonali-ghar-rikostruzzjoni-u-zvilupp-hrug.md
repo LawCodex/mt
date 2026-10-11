@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar il-Bank Internazzjonali għar-Rikostruzzjoni u Żvilupp (Ħruġ ta' Titoli)"
-identifier: "S.L. 235.1"
+identifier: "S.L. 235.01"
 eli: "https://legislation.mt/eli/sl/235.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/235.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar il-Bank Internazzjonali għar-Rikostruzzjoni u Żvilupp (Ħruġ ta' Titoli) (S.L. 235.1)
-
-*1*
-
-|VILUPP (}RU{ TA’ TITOLI) [L.S.235.01
+# Ordni dwar il-Bank Internazzjonali għar-Rikostruzzjoni u Żvilupp (Ħruġ ta' Titoli) (S.L. 235.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 235.01**
 

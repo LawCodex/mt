@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kundizzjonijiet tal-Ħatra ta' Tobba tas-Saħħa u ta' Tobba Distrettwali"
-identifier: "S.L. 94.1"
+identifier: "S.L. 94.01"
 eli: "https://legislation.mt/eli/sl/94.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/94.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kundizzjonijiet tal-Ħatra ta' Tobba tas-Saħħa u ta' Tobba Distrettwali (S.L. 94.1)
-
-KUNDIZZJONIJIET TAL-}ATRA TAT-TOBBA
-
-TAS-SA}}A U TAT-TOBBA DISTRETTWALI [ L.S.94.01
+# Regolamenti dwar il-Kundizzjonijiet tal-Ħatra ta' Tobba tas-Saħħa u ta' Tobba Distrettwali (S.L. 94.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 94.01**
 

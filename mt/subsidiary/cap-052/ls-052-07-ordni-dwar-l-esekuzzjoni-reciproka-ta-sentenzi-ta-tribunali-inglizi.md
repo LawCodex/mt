@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Tasmania u d-Dipendenzi tagħha"
-identifier: "S.L. 52.7"
+identifier: "S.L. 52.07"
 eli: "https://legislation.mt/eli/sl/52.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/52.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Tasmania u d-Dipendenzi tagħha (S.L. 52.7)
-
-ESEKUZZJONI RE~IPROKA TA’ SENTENZI TA’ TRIBUNALI
-
-INGLI|I - TASMANIA U D-DIPENDENZI TAG}HA) [ L.S.52.07
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi - Tasmania u d-Dipendenzi tagħha (S.L. 52.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 52.07**
 

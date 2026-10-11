@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Projbizzjoni ta' Tabakk li ma Jitpejjipx"
-identifier: "S.L. 315.2"
+identifier: "S.L. 315.02"
 eli: "https://legislation.mt/eli/sl/315.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/315.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Projbizzjoni ta' Tabakk li ma Jitpejjipx (S.L. 315.2)
+# Regolamenti dwar Projbizzjoni ta' Tabakk li ma Jitpejjipx (S.L. 315.02)
 
 LE{ISLAZZJONI SUSSIDJARJA 315.02
 

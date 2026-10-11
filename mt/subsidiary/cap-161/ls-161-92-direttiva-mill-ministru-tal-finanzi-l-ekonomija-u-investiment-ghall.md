@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi, l-Ekonomija u Investiment għall-Bdil ta’ Euro 150,000,000 mill-Euro 287,014,800 3.60% Stock tal-Gvern ta’ Malta 2013 (IV) f’Ammont Aggregat ta’ Euro 150,000,000 f’wieħed jew aktar miż-żewġ stocks, tat-3.75% Stock tal-Gvern ta’ Malta 2017 (Iv) Fungibility Issue, U 3.85% Stock tal-Gvern ta’ Malta 2018 (V) (S.L. 161.92)
 
-3.60% STOCK TAL-GVERN TA’ MALTA 2013 (IV)
-
-*1*
-
-F’AMMONT AGGREGAT TA’ EURO 150,000,000 [L.S.161.92
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.92**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI, L-**
@@ -75,13 +69,7 @@ Fl-20 ta’ Frar, 2013 wara l-pagament tal-ewwel imgħax, kif muri fl-artikolu 6
 
 ## 5. Ammont ta’ ħruġ ta’ Stock meħtieġ għal bdil.
 
-L-ammont meħtieġ għall-ħolqien u l-ħruġ ta’ wieħed jew aktar miż-żewġ Destination Stocks (Conversion Stocks) flimkien 3.60% STOCK TAL-GVERN TA’ MALTA 2013 (IV)
-
-*2*
-
-[L.S.161.92 F’AMMONT AGGREGAT TA’ EURO 150,000,000
-
-għandu jkun ta’ Euro 150,000,000.
+L-ammont meħtieġ għall-ħolqien u l-ħruġ ta’ wieħed jew aktar miż-żewġ Destination Stocks (Conversion Stocks) flimkien għandu jkun ta’ Euro 150,000,000.
 
 ## 6. Rata ta’ mgħax u dati tal-ħlas.
 

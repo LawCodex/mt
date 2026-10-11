@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regolamenti Ġenerali għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Arts in Community Action and Development – M.A. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.586)
 
-*1*
-
-COMMUNITY ACTION AND DEVELOPMENT – M.A. [L.S. 327.586 LEĠISLAZZJONI SUSSIDJARJA 327.586
+**LEĠISLAZZJONI SUSSIDJARJA 327.586**
 
 **L-ORDINAMENTI SKONT IR-REGOLAMENTI**
 
@@ -67,11 +65,9 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul tal-anqas minn tliet membri.
 
-(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-Kors, skont id-disponibbilità tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ [L.S. 327.586 COMMUNITY ACTION AND DEVELOPMENT – M.A. postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
+(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-Kors, skont id-disponibbilità tar-riżorsi. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (5) Meta l-għadd ta’ postijiet ikun limitat u l-għadd tal-applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti jiġu magħżula skont il-kriterji li ġejjin, li l-piż tagħhom ikun ippubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
-
-*2*
 
 (a) it-tip u l-klassifikazzjoni tal-grad;
 
@@ -109,13 +105,11 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 krettu ECTS għal taqsimiet studju mgħallma jekk qegħdin isegwu l-Kors fuq bażi full-time, jew mhux aktar minn 10 kretti ECTS għal taqsimiet studju mgħallma jekk qegħdin isegwu l-Kors fuq bażi part-time, jingħataw l-opportunità li jagħmlu mill-ġdid il-valutazzjonijiet li weħlu minnhom matul is-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
-(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju COMMUNITY ACTION AND DEVELOPMENT – M.A. [L.S. 327.586 jkunu meqjusa li weħlu mill-Kors.
+(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju jkunu meqjusa li weħlu mill-Kors.
 
 ## 10.
 
 L-istudenti jitħallew jipproċedu għat-taqsima studju tad-dissertazzjoni jekk jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja minima ta’ 65%.
-
-*3*
 
 ## 11. Id-Dissertazzjoni.
 

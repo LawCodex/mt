@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Statut għaċ-Ċentru tal-Profiċjenza fil-Lingwa Ingliża (S.L. 327.447)
 
-DEMIĊI U L-ĦILIET FIL-KOMUNIKAZZJONI BL-
-
-*1*
-
-INGLIŻ [L.S.327.447
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.447**
 
 **STATUT GĦAĊ-ĊENTRU TAL-LITTERIŻMI**
@@ -68,10 +62,6 @@ Iċ-Ċentru għandu dawn l-iskopijiet:
 
 (e) li jiżviluppa u jagħti lill-Università kif ukoll lill-istituzzjonijiet mhux universitarji servizzi professjonali relatati u proporzjonati mal-impenn taċ- Ċentru biex imexxi ’l quddiem il-Profiċjenza tal- Lingwa Ingliża;
 
-*2*
-
-DEMIĊI U L-ĦILIET FIL-KOMUNIKAZZJONI BL- [L.S.327.447 INGLIŻ
-
 (f) riċerka dwar il-Profiċjenza tal-Lingwa Ingliża f’bosta livelli u fl-aspetti differenti u kuntesti tagħha;
 
 (g) li jżomm kuntatt, kif u fejn xieraq, ma’ istituzzjonijiet mhux universitarji dwar kwistjonijiet li jistgħu jkollhom effett fuq l-Profiċjenza tal-Lingwa Ingliża fi ħdan kuntesti edukattivi, professjonali u nazzjonali aktar wiesa’;
@@ -114,13 +104,7 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (b) li jiddeċiedi l-politika taċ-Ċentru, jissorvelja l-attivitajiet u l-amministrazzjoni tiegħu u, mingħajr preġudizzju għall-ġeneralità li ssemmiet qabel, il-Bord jista’:
 
-(i) japprova business plans u l-estimi annwali tad-dħul u l-ħruġ taċ-Ċentru għall-kunsiderazzjoni u DEMIĊI U L-ĦILIET FIL-KOMUNIKAZZJONI BL-
-
-*3*
-
-INGLIŻ [L.S.327.447
-
-l-approvazzjoni tal-Kunsill;
+(i) japprova business plans u l-estimi annwali tad-dħul u l-ħruġ taċ-Ċentru għall-kunsiderazzjoni u l-approvazzjoni tal-Kunsill;
 
 (ii) bi qbil bil-miktub mar-Rettur jagħmel ftehim ma’ terzi persuni biex jagħtu fondi liċ-Ċentru jew għall-attivitajiet partikulari;
 
@@ -160,13 +144,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur jinkludu li:
 
 (ċ) jiġbor u jissottometti lir-Reġistratur tal-Università sa mhux aktar tard minn Jannar ta’ kull sena akkademika, prospektus komprensiv aġġornat bid-deskrizzjoni tal-kontenut tat-taqsimiet studju kollha kurrenti u dawk proġettati u servizzi offruti maċ-Ċentru kif approvati mill-Bord u skont il-linji gwida stabbiliti mill-Kumitat għall-Validazzjoni tal-Programmi;
 
-(d) jiżgura li t-taqsimiet studju offruti mill-membri tal-istaff taċ-Ċentru huma mogħtija skont il-programm tal-istudji kif irreklamat; id-Direttur għandu jiżgura li l-għalliema, li jaqgħu taħt l-awtorità tiegħu, jagħtu l- DEMIĊI U L-ĦILIET FIL-KOMUNIKAZZJONI BL-
-
-**INGLIŻ**
-
-*[L.S.327.447 4*
-
-lectures, is-seminars u t-tutorials kollha kif assenjat lilhom rispettivament, fil-ħin u fil-post kif indikat fuq it-time-table uffiċjali, u li kull tibdil ikun reġistrat formalment u li l-istudenti jkunu infurmati fil-ħin;
+(d) jiżgura li t-taqsimiet studju offruti mill-membri tal-istaff taċ-Ċentru huma mogħtija skont il-programm tal-istudji kif irreklamat; id-Direttur għandu jiżgura li l-għalliema, li jaqgħu taħt l-awtorità tiegħu, jagħtu l-lectures, is-seminars u t-tutorials kollha kif assenjat lilhom rispettivament, fil-ħin u fil-post kif indikat fuq it-time-table uffiċjali, u li kull tibdil ikun reġistrat formalment u li l-istudenti jkunu infurmati fil-ħin;
 
 (e) jiżviluppa u jimplimenta l-pjan strateġiku taċ-Ċentru;
 
@@ -192,13 +170,7 @@ lectures, is-seminars u t-tutorials kollha kif assenjat lilhom rispettivament, f
 
 (m) jirrappreżenta ċ-Ċentru f’funzjonijiet uffiċjali tal- Università;
 
-(n) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fiċ-Ċentru fis-sena li tkun għaddiet u għandu jinkludi, fost l- DEMIĊI U L-ĦILIET FIL-KOMUNIKAZZJONI BL-
-
-*5*
-
-INGLIŻ [L.S.327.447
-
-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet reċenti tal-membri kollha taċ-Ċentru; ġabra fil-qosor tal-proġetti li fihom huma involuti membri taċ-Ċentru, li huma finanzjati kollha jew parzjalment minn barra; lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni taċ-Ċentru ma’ terzi persuni li jinkludu l-industrija lokali, il-Gvern jew is-soċjetà ċivili in ġenerali;
+(n) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fiċ-Ċentru fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet reċenti tal-membri kollha taċ-Ċentru; ġabra fil-qosor tal-proġetti li fihom huma involuti membri taċ-Ċentru, li huma finanzjati kollha jew parzjalment minn barra; lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni taċ-Ċentru ma’ terzi persuni li jinkludu l-industrija lokali, il-Gvern jew is-soċjetà ċivili in ġenerali;
 
 (o) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju kif approvat mill-Bord għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani għaċ-Ċentru, li jkopri t-tagħlim, ir-riċerka u x-xogħol amministrattiv proġettat għaċ-Ċentru u bbażat fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti taċ-Ċentru u tal- Visiting Teaching Staff;
 
@@ -220,11 +192,7 @@ Minbarra dan, id-Direttur taċ-Ċentru:
 
 (d) hu mistenni li jkun preżenti fuq il-kampus jew kwalunkwe sît indikat mill-Università ta’ Malta għallinqas fil-ħinijiet normali tal-uffiċċju mit-Tnejn sal-Ġimgħa matul is-sena skont l-esiġenzi tal-akkademiku u f’konformità mal-prattiċi u l-ħtiġiet tal- Università u bid-dritt għall-leave normali u għall-festi pubbliċi kif provdut fil-liġi; jekk in-nuqqas tiegħu hu meħtieġ u ġustifikat, hu għandu jiżgura li wieħed jista’ jikkuntattja miegħu permezz tas-segretarjat taċ- Ċentru;
 
-(e) m’għandu jgħaddi l-ebda informazzjoni lil terzi persuni li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam DEMIĊI U L-ĦILIET FIL-KOMUNIKAZZJONI BL- [L.S.327.447 INGLIŻ
-
-ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università ta’ Malta; kull xogħol li jkun qed isir fiċ-Ċentru għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien tad-data; u
-
-*6*
+(e) m’għandu jgħaddi l-ebda informazzjoni lil terzi persuni li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università ta’ Malta; kull xogħol li jkun qed isir fiċ-Ċentru għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien tad-data; u
 
 (f) għandu jintrabat bl-istatuti, bir-regolamenti u bil-politika tal-Università ta’ Malta, li huma fis-seħħ jew li jsiru effettivi fi żmien il-ħatra tiegħu.
 

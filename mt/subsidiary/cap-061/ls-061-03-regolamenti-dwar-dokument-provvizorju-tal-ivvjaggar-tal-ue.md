@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Dokument Provviżorju tal-Ivvjaġġar tal-UE"
-identifier: "S.L. 61.3"
+identifier: "S.L. 61.03"
 eli: "https://legislation.mt/eli/sl/61.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/61.3/20260113/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Dokument Provviżorju tal-Ivvjaġġar tal-UE (S.L. 61.3)
+# Regolamenti dwar Dokument Provviżorju tal-Ivvjaġġar tal-UE (S.L. 61.03)
 
 LEĠISLAZZJONI SUSSIDJARJA 61.03
 

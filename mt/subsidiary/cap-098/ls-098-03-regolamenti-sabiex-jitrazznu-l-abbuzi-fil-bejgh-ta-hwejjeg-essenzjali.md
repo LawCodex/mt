@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti sabiex jitrażżnu l-Abbużi fil-Bejgħ ta Ħwejjeġ Essenzjali"
-identifier: "S.L. 98.3"
+identifier: "S.L. 98.03"
 eli: "https://legislation.mt/eli/sl/98.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/98.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti sabiex jitrażżnu l-Abbużi fil-Bejgħ ta Ħwejjeġ Essenzjali (S.L. 98.3)
+# Regolamenti sabiex jitrażżnu l-Abbużi fil-Bejgħ ta Ħwejjeġ Essenzjali (S.L. 98.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 98.03**
 

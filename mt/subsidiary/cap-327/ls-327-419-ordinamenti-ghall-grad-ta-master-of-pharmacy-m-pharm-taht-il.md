@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Pharmacy - M.Pharm. - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.419)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.419
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.419**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -66,12 +60,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 (3) L-applikanti li għandhom il-grad ta’ Bachelor of Pharmacy (Honours) miksub tal-anqas fit-Tieni Klassi bl-Unuri wara li jkunu temmew b’suċċess programm ta’ studju mifrux fuq ħames snin ikunu eliġibbli biex japplikaw għall-programm ta’ studju ta’ 30 kredtu fuq bażi part-time.
 
 (4) L-applikanti li għandhom il-grad ta’ Bachelor of Pharmacy (Honours) miksub fit-Tielet Klassi bl-Unuri jew Għadda wara li jkunu temmew b’suċċess programm ta’ studju mifrux fuq ħames snin ikunu eliġibbli biex japplikaw għall-programm ta’ studju ta’ 30 kredtu fuq bażi part-time jekk jissottomettu portafoll li jkopri tliet snin prattika f’qasam relatat mal-farmaċija.
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.419 TAL-MEDIĊINA U L-KIRURĠIJA
 
 ## 4. Tul tal-kors.
 
@@ -125,11 +113,7 @@ Il-valutazzjoni tat-taqsimiet studju mgħallma għandha ssir sal-aħħar tas-sem
 
 (1) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom.
 
-(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l- TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.419 istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
+(2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 

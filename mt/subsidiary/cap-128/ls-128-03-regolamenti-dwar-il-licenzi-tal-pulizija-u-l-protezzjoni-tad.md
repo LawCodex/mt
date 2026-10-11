@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Liċenzi tal-Pulizija u l-Protezzjoni tad-Drittijiet ta' l-Awtur"
-identifier: "S.L. 128.3"
+identifier: "S.L. 128.03"
 eli: "https://legislation.mt/eli/sl/128.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/128.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Liċenzi tal-Pulizija u l-Protezzjoni tad-Drittijiet ta' l-Awtur (S.L. 128.3)
-
-*1*
-
-L-PROTEZZJONI TAD-DRITTIJIET TA’ L-AWTUR [L.S.128.03
+# Regolamenti dwar il-Liċenzi tal-Pulizija u l-Protezzjoni tad-Drittijiet ta' l-Awtur (S.L. 128.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 128.03**
 

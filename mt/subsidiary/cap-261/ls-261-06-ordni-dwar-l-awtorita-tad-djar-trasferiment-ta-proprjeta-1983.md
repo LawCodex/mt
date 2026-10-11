@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1983)"
-identifier: "S.L. 261.6"
+identifier: "S.L. 261.06"
 eli: "https://legislation.mt/eli/sl/261.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/261.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1983) (S.L. 261.6)
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1983) [ L.S.261.06
+# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1983) (S.L. 261.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 261.06**
 
@@ -101,7 +99,7 @@ kejl ta’ madwar 4,701 metri kwadri li tmiss mit- Tramuntana, minn Nofs in-Nhar
 
 (i) Flat numru 1, 26, Triq il-Knisja, Estate tad-Djar tal-Gvern, Paceville, limiti ta’ San {iljan;
 
-(TRASFERIMENT TA’ PROPRJETÀ [ L.S.261.06 (ii)
+(ii)
 
 Flat
 
@@ -173,7 +171,7 @@ liema art se tkun mi\\juda mal-Plot Nru. 73 li tmiss mit-Tramuntana, minn Nofs i
 
 (i) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 39, 40 u 71 sa 75 tal-kejl ta’ madwar 1985 metri kwadri li tmiss mit-Tramuntana, minn Nofs in-Nhar, mil- Lvant u mill-Punent ma’ proprjetà tal-Gvern;
 
-(ii) Bi``a art li hi maghmula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 59 u 60 tal-kejl ta’ madwar 437 metri kwadri li tmiss mit- (TRASFERIMENT TA’ PROPRJETÀ [ L.S.261.06 Tramuntana, minn Nofs in-Nhar u mil-Lvant ma’ proprjet tal-Gvern;
+(ii) Bi``a art li hi maghmula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri. 59 u 60 tal-kejl ta’ madwar 437 metri kwadri li tmiss mit- Tramuntana, minn Nofs in-Nhar u mil-Lvant ma’ proprjet tal-Gvern;
 
 (iii) plots fl-imsemmi mag]rufa b]ala Plots
 
@@ -265,7 +263,7 @@ Gvern.
 
 **Bi``a art li hi mag]mula minn plots**
 
-Estate mag]rufa b]ala Nri. 1 sa 3, 6 sa 11, 13, 15 u 16, 18 sa 20 u 22 sa 27 tal-kejl ta’ (TRASFERIMENT TA’ PROPRJETÀ) (1983) [ L.S.261.06 madwar 4382.5 metri kwadri li tmiss mit- Tramuntana, minn Nofs in-Nhar, mill-Grigal u mill-Punent ma’ proprjetà tal-Gvern;
+Estate mag]rufa b]ala Nri. 1 sa 3, 6 sa 11, 13, 15 u 16, 18 sa 20 u 22 sa 27 tal-kejl ta’ madwar 4382.5 metri kwadri li tmiss mit- Tramuntana, minn Nofs in-Nhar, mill-Grigal u mill-Punent ma’ proprjetà tal-Gvern;
 
 (ii) Bi``a art li hi mag]mula minn plots fl-imsemmi Estate mag]ufa b]ala Plots Nri, 4, 5, 14 u 30 sa 34 tal-kejl ta’ madwar 1846 metri kwadri li tmiss mill-Majjistral ma’ Triq il-Belt u minn Nofs in- Nhar u mill-Grigal ma’ proprjetà tal-Gvern.
 
@@ -337,7 +335,7 @@ Gvern, in-Naxxar;
 
 (ii) Estate tad-Djar tal- (l Id-djar li [ejjin f’Ra]al {did:
 
-(i) flat numru 60B, Triq San {u\\epp, Ra]al (ii) Id-djar numri 55 u 67, Triq Tal-Borg, tad- (TRASFERIMENT TA’ PROPRJETÀ) (1983) [ L.S.261.06 Djar tal-Gvern, Ra]al {did;
+(i) flat numru 60B, Triq San {u\\epp, Ra]al (ii) Id-djar numri 55 u 67, Triq Tal-Borg, tad- Djar tal-Gvern, Ra]al {did;
 
 (iii) Id-dar numru 2, Blokk E, Unit 3, Triq Temi Zammit, Ra]al {did.
 

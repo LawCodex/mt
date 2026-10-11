@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Preżentata ta' Atti Ġudizzjarji fuq Appelli (S.L. 318.15)
 
-DRITTIJIET LI G}ANDHOM JIT}ALLSU G}ALL-
-
-*1*
-
-PRE|ENTATA TA’ ATTI {UDIZZJARJI FUQ APPELLI [L.S.318.15
-
 **LE{ISLAZZJONI SUSSIDJARJA 318.15**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET LI**

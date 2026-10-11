@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income ma' Barbados (S.L. 123.65)
 
-*1*
-
-FUQ L-INCOME MA’ BARBADOS [L.S.123.65
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.65**
 
 ORDNI DWAR E|ENZJONI MILL-}LAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -103,9 +99,7 @@ Il-Ftehim g]andu japplika wkoll g]al kull taxxa identika jew sostanzjalment simi
 
 \1. G]all-g]anijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx te]tie[ xort’o]ra:
 
-a) il-fra\\i "Barbados" tfisser il-g\\ira tal-Barbados u l-ib]ra territorjali FUQ L-INCOME MA’ BARBADOS [L.S.123.65 3
-
-rispettivi, inklu\\a kull area o]ra ’l barra minn dawk l-ib]ra territorjali li skond id-dritt internazzjonali u l-li[ijiet tal-Barbados tkun area fejn id-drittijiet tal-Barbados g]ar-rigward ta’ qieg] il-ba]ar u s-sottoswol u tar-ri\\orsi naturali tag]hom jistg]u ji[u e\\er`itati;
+a) il-fra\\i "Barbados" tfisser il-g\\ira tal-Barbados u l-ib]ra territorjali rispettivi, inklu\\a kull area o]ra ’l barra minn dawk l-ib]ra territorjali li skond id-dritt internazzjonali u l-li[ijiet tal-Barbados tkun area fejn id-drittijiet tal-Barbados g]ar-rigward ta’ qieg] il-ba]ar u s-sottoswol u tar-ri\\orsi naturali tag]hom jistg]u ji[u e\\er`itati;
 
 b) il-fra\\i "Malta" tfisser the Repubblika ta’ Malta u, meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti inklu\\i l-ib]ra territorjali tag]hom, kif ukoll kull area ta’ qieg] il-ba]ar, is-sottoswol tieg]u u l-kolonna ta’ ba]ar sovraja`enti u adja`enti g]all-ib]ra territorjali, fejn ir-Repubblika ta’ Malta g]andha drittijiet sovrani, [urisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tag]ha, inklu\\a l-le[islazzjoni tag]ha g]ar-rigward ta’ l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-ri\\orsi naturali tag]ha;
 
@@ -179,9 +173,7 @@ f) minjiera, bir ta\\-\\ejt jew tal-gass, barriera jew kull post ie]or ta’ est
 
 \3. Il-fra\\i "stabbiliment permanenti" g]andha tkun tinkludi wkoll:?
 
-a) art li tkun qeg]da tinbena, pro[ett ta’ kostruzzjoni, assembla[[ jew stallazzjoni jew attivitajiet ta’ sorveljanza li jkollhom x’jaqsmu ma’ FUQ L-INCOME MA’ BARBADOS [L.S.123.65 5
-
-dan, i\\da biss meta dik l-art, dak il-pro[ett jew dawk l-attivitajiet ikomplu g]al perjodu ta’ i\\jed minn sitt xhur;
+a) art li tkun qeg]da tinbena, pro[ett ta’ kostruzzjoni, assembla[[ jew stallazzjoni jew attivitajiet ta’ sorveljanza li jkollhom x’jaqsmu ma’ dan, i\\da biss meta dik l-art, dak il-pro[ett jew dawk l-attivitajiet ikomplu g]al perjodu ta’ i\\jed minn sitt xhur;
 
 b) l-g]oti ta’ servizzi, inklu\\i servizzi ta’ konsulenza, minn impri\\a permezz ta’ impjegati jew persunal ie]or imqabbad mill-impri\\a g]aldaqstant, i\\da biss sakemm dawk l-attivitajiet ikomplu (g]all-istess pro[ett jew g]al wie]ed konness) fi Stat Kontraenti g]al perjodu jew perjodi li flimkien i[ibu i\\jed minn sitt xhur matul xi perjodu ta’ tnax-il xahar li jkun.
 
@@ -238,8 +230,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 \3. Bla ]sara g]ald-disposizzjonijiet tal-paragrafu 4, meta impri\\a ta’ Stat Kontraenti tkun qed tmexxi negozju fl-Istat Kontraenti l-ie]or permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, g]andhom f’kull Stat Kontraenti ji[u attribwiti lil dak l-istabbiliment permanenti l-profitti li kien ikun mistenni jag]mel kieku kien impri\\a distinta u separata li ta]dem fl-istess attivitajiet jew o]rajn b]alhom ta]t l-istess kundizzjonijiet jew o]rajn b]alhom u li ta]dem indipendentement g]alkollox mill-impri\\a li tag]ha tkun stabbiliment permanenti.
 
 \4. Sabiex ji[u stabbiliti l-profitti ta’ stabbiliment permanenti, g]andhom ikunu permessi b]ala tnaqqis dawk l-ispejje\\ li jsiru g]all-g]anijiet ta’ l-istabbiliment permanenti, inklu\\i l-ispejje\\ e\\ekuttivi u amministrattivi [enerali li jkunu saru, sew fl-Istat li fih ikun jinsab l-istabbiliment permanenti sew band’o]ra.
-
-FUQ L-INCOME MA’ BARBADOS [L.S.123.65 7
 
 \5. Sakemm tkun il-konswetudni fi Stat Kontraenti li jistabbilixxi l-profitti li g]andhom ji[u attribwiti lil stabbiliment permanenti min]abba fi tqassim tal-profitti totali ta’ l-impri\\a lill-partijiet diversi tag]ha, ebda ]a[a fil-paragrafu 3 ma g]andha tipprekludi lil dak l-Istat Kontraenti milli jistabbilixxi l-profitti li g]andhom ji[u intaxxati b’dak it-tqassim skond ma jista’ jkun konswetudinarju; il-metodu ta’ tqassim li ji[i adottat g]andu, madankollu, jkun tali li r-ri\\ultat g]andu jkun skond il-prin`ipji li jinsabu f’dan l-Artikolu.
 
@@ -299,9 +289,7 @@ Dan il-paragrafu m’g]andux ikun jolqot it-tassazzjoni tal-kumpannija g]ar-rigw
 
 \4. Id-disposizzjonijiet tal-paragrafi 1 u 2 m’g]andhomx japplikaw jekk is-sid benefi`jarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, imexxi negozju fl- Istat Kontraenti l-ie]or li tieg]u tkun residenti l-kumpannija li t]allas id-dividendi, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, jew li jkun jag]mel f’dak l-Istat l-ie]or servizzi personali indipendenti minn ba\\i stabbilita sitwata hemmhekk, u l-holding li dwarhom id-dividendi jkunu mhallsa jkollu x’jaqsam effettivament ma’ dak l-istabbiliment permanenti jew ba\\i stabbilita. F’dak il-ka\\ g]andhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-ka\\.
 
-\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ie]or, dak l-Istat l-ie]or ma jista’ jimponi ebda taxxa fuq id-dividendi m]allsa mill-kumpannija, ]lief daqskemm dawk id-dividendi jit]allsu lil residenti ta’ dak l-Istat l-ie]or jew daqskemm il-holding li dwaru jit]allsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti jew ma’ ba\\i stabbilita sitwati f’dak Istat l-ie]or, lanqas jissu[[etta l-profitti mhux FUQ L-INCOME MA’ BARBADOS [L.S.123.65 9
-
-imqassma tal-kumpannija g]al taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi m]allsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalg]u f’dak l-Istat l-ie]or.
+\5. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ie]or, dak l-Istat l-ie]or ma jista’ jimponi ebda taxxa fuq id-dividendi m]allsa mill-kumpannija, ]lief daqskemm dawk id-dividendi jit]allsu lil residenti ta’ dak l-Istat l-ie]or jew daqskemm il-holding li dwaru jit]allsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti jew ma’ ba\\i stabbilita sitwati f’dak Istat l-ie]or, lanqas jissu[[etta l-profitti mhux imqassma tal-kumpannija g]al taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi m]allsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalg]u f’dak l-Istat l-ie]or.
 
 \6. Meta kumpannija, li tkun residenti ta’ Stat Kontraenti li jkollha stabbiliment permanenti fl-Istat Kontraenti l-ie]or, tikseb profitti jew income minn dak l-istabbiliment permanenti, kull flus mibg]uta jew meqjusa li jintbag]tu ta’ dawk il-profitti jew income mill-istabbiliment permanenti lill-kumpannija li tkun residenti ta’ l-Istat Kontraenti l-ewwel imsemmi jistg]u, minkejja kull provvediment ie]or ta’ dan il-Ftehim, ji[u intaxxati skond il-li[i ta’ l-Istat Kontraenti l-ie]or, imma r-rata ta’ taxxa imposta fuq dawk il-flus mibg]uta ma g]andhiex tkun te``edi 5 fil-mija.
 
@@ -341,9 +329,7 @@ imqassma tal-kumpannija g]al taxxa fuq il-profitti mhux imqassma tal-kumpannija,
 
 \6. Royalties g]andhom jitqiesu li jinqalg]u fi Stat Kontraenti meta min i]allashom ikun dak l-Istat innifsu, sottodivi\\joni politika, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, l-persuna li t]allas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti jew ba\\i stabbilit li dwaru jkun ittie]ed l-obbligu li jit]allsu r-royalties, u dawk ir-royalties ikunu r-responsabbiltà ta’ dak l-istabbiliment permanenti jew ba\\i stabbilit, allura dawk ir-royalties g]andhom jitqiesu li jinqalg]u fl-Istat li fih ikun qieg]ed l-istabbiliment permanenti jew ba\\i stabbilit.
 
-\7. Meta, min]abba r-relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju effettiv jew bejnithom it-tnejn u xi persuna o]ra, l-ammont tar-royalties, fil-qies ta’ x’ikun l-u\\u, d-dritt jew l-informazzjoni li jit]allsu g]alihom, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu g]andhom japplikaw biss g]all-ammont l-a]]ar imsemmi. F’dak il-ka\\, il-parti \\ejda tal-]lasijiet g]andha tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, wara li jitqiesu d- FUQ L-INCOME MA’ BARBADOS [L.S.123.65 11
-
-disposizzjonijiet l-o]ra ta’ dan il-Ftehim.
+\7. Meta, min]abba r-relazzjoni spe`jali bejn min i]allas u s-sid benefi`jarju effettiv jew bejnithom it-tnejn u xi persuna o]ra, l-ammont tar-royalties, fil-qies ta’ x’ikun l-u\\u, d-dritt jew l-informazzjoni li jit]allsu g]alihom, ikun i\\jed mill-ammont li kien ikun miftiehem bejn min i]allas u s-sid benefi`jarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu g]andhom japplikaw biss g]all-ammont l-a]]ar imsemmi. F’dak il-ka\\, il-parti \\ejda tal-]lasijiet g]andha tibqa’ taxxabbli skond il-li[ijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-disposizzjonijiet l-o]ra ta’ dan il-Ftehim.
 
 **ARTIKOLU 13**
 
@@ -403,9 +389,7 @@ Id-drittijiet tad-diretturi u ]lasijiet simili o]ra li jinkisbu minn residenti t
 
 \2. Meta income dwar attivitajiet personali eser`itati minn min jag]ti spettaklu jew sportiv fil-kapa`ità tieg]u b]ala tali jin[abar mhux minn min jag]ti spettaklu jew l-isportiv innifsu imma minn xi persuna o]ra, dak l-income jista’, minkejja d-disposizzjonijiet ta’ l-Artikoli 7, 14 u 15, ji[i intaxxat fl-Istat Stat Kontraenti li fih ji[u eser`itati l-attivitajiet ta’ min jag]ti spettaklu jew ta’ l-isportiv.
 
-\3. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma g]andhomx ikunu japplikaw ghal income li jinkiseb minn attivitajiet li jsiru fi Stat Kontraenti minn min jag]ti spettaklu jew sportivi jekk il-vi\\ta f’dak l-Istat tkun sostanzjalment appo[[ata b’fondi pubbli`i ta’ l-Istat Kontraenti l-ie]or jew sottodivi\\joni politika jew awtorità lokali tieg]u. F’tali ka\\ l-income g]andu jkun taxxabbli biss fl-Istat fejn ikun FUQ L-INCOME MA’ BARBADOS [L.S.123.65 13
-
-residenti min jag]ti spettaklu jew l-isportiv.
+\3. Id-disposizzjonijiet tal-paragrafi 1 u 2 ma g]andhomx ikunu japplikaw ghal income li jinkiseb minn attivitajiet li jsiru fi Stat Kontraenti minn min jag]ti spettaklu jew sportivi jekk il-vi\\ta f’dak l-Istat tkun sostanzjalment appo[[ata b’fondi pubbli`i ta’ l-Istat Kontraenti l-ie]or jew sottodivi\\joni politika jew awtorità lokali tieg]u. F’tali ka\\ l-income g]andu jkun taxxabbli biss fl-Istat fejn ikun residenti min jag]ti spettaklu jew l-isportiv.
 
 **ARTIKOLU 18**
 
@@ -465,9 +449,7 @@ b) fil-ka\\ ta’ dividend im]allas minn kumpannija li tkun residenti ta’ Malt
 
 meta, skond id-disposizzjonijiet ta’ dan il-Ftehim, ikun hemm inklu\\i fi stima ta’ Malta income minn sorsi fil-Barbados, it-taxxa tal-Barbados fuq dak l-income g]andu ji[i permess bhala kreditu g]at-taxxa ta’ Malta relattiva li tit]allas dwarhom.
 
-\3. G]all-finijiet ta’ g]oti bi kreditu tat-taxxa li tit]allas fi Stat Kontraenti, skond ma tkun te]tie[ ir-rabta tal-kliem, dan g]andu jitqies li jinkludi t-taxxa li tkun xort’o]ra tit]allas fi Stat Kontraenti imma li tkun [iet imnaqqsa jew imwarrba minn FUQ L-INCOME MA’ BARBADOS [L.S.123.65 15
-
-dak l-Istat ta]t id-disposizzjonijiet legali tieg]u dwar in`entivi tat-taxxa li jkunu je\\istu fil-waqt tad-d]ul fis-se]] ta’ dan il-Ftehim jew disposizzjonijiet legali dwar in`entivi tat-taxxa li jistg]u jsiru b’li[i aktar tard u li l-awtoritajiet kompetenti jaqblu li jkunu ta’ xorta sostanzjalment simili.Id-disposizzjonijiet ta’ dan il-paragrafu g]andhom ikunu japplikaw g]all-ewwel g]axar snin li matulhom ikun effettiv dan il-Ftehim. Dan il-perjodu jista’ jittawwal bi ftehim re`iproku bejn l-awtoritajiet kompetenti.
+\3. G]all-finijiet ta’ g]oti bi kreditu tat-taxxa li tit]allas fi Stat Kontraenti, skond ma tkun te]tie[ ir-rabta tal-kliem, dan g]andu jitqies li jinkludi t-taxxa li tkun xort’o]ra tit]allas fi Stat Kontraenti imma li tkun [iet imnaqqsa jew imwarrba minn dak l-Istat ta]t id-disposizzjonijiet legali tieg]u dwar in`entivi tat-taxxa li jkunu je\\istu fil-waqt tad-d]ul fis-se]] ta’ dan il-Ftehim jew disposizzjonijiet legali dwar in`entivi tat-taxxa li jistg]u jsiru b’li[i aktar tard u li l-awtoritajiet kompetenti jaqblu li jkunu ta’ xorta sostanzjalment simili.Id-disposizzjonijiet ta’ dan il-paragrafu g]andhom ikunu japplikaw g]all-ewwel g]axar snin li matulhom ikun effettiv dan il-Ftehim. Dan il-perjodu jista’ jittawwal bi ftehim re`iproku bejn l-awtoritajiet kompetenti.
 
 **ARTIKOLU 23**
 
@@ -514,8 +496,6 @@ pprovduti mil-li[i domestika ta’ dawk l-Istati, jippre\\enta l-ka\\ tieg]u qud
 (b) li jag]ti informazzjoni li ma tkunx tista’ tinkiseb ta]t il-li[ijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ie]or;
 
 \*kif sostitwit bil-Protokoll li jinsab fl-Iskeda g]all-Avvi\\ Legali 447 tal-2013 (ara l-A,L. 142 tal-2014).
-
-FUQ L-INCOME MA’ BARBADOS [L.S.123.65 17
 
 (`) li jag]ti informazzjoni li tkun tikxef xi sigriet ta’ seng]a, negozju, industrija, kummer` jew professjoni jew pro`ess kummer`jali, jew informazzjoni, li meta din ti[i \\velata tkun tmur kontra l-ordni pubbliku (ordre public).
 
@@ -591,9 +571,7 @@ L-Artikolu 25 tal-Ftehim g]andu ji[i m]assar u sostitwit b’dan li [ej:
 
 \3. F’ebda ka\\ m’g]andhom id-dispo\\izzjonijiet tal-paragrafi 1 u 2 jiftiehmu b]ala li jimponu fuq Stat Kontraenti l-obbligu:
 
-(a) li jwettaq mi\\uri amministrattivi li ma jkunux jaqblu mal-li[ijiet u mal- FUQ L-INCOME MA’ BARBADOS [L.S.123.65 19
-
-prattika amministrattiva ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ie]or;
+(a) li jwettaq mi\\uri amministrattivi li ma jkunux jaqblu mal-li[ijiet u mal-prattika amministrattiva ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ie]or;
 
 (b) li jag]ti informazzjoni li ma tkunx tista’ tinkiseb ta]t il-li[ijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ie]or;
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar iċ-Ċittadinanza"
-identifier: "S.L. 188.1"
+identifier: "S.L. 188.01"
 eli: "https://legislation.mt/eli/sl/188.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/188.1/20250729/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar iċ-Ċittadinanza (S.L. 188.1)
+# Regolamenti dwar iċ-Ċittadinanza (S.L. 188.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 188.01**
 

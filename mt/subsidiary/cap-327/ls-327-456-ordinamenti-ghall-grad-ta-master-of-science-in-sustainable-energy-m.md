@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Master of Science in Sustainable Energy - M.Sc. - taħt il-patroċinju tal-Istitut għall-Enerġija Sostenibbli (S.L. 327.456)
 
-ENERGY - M.Sc. - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-GĦALL-ENERĠIJA SOSTENIBBLI [L.S.327.456
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.456**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -73,11 +67,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (a) grad tal-ewwel ċiklu mill-Università ta’ Malta miksub mill-inqas fit-Tieni Klassi (bl-Unuri) f’dixxiplina relatata mal-Enerġija Sostenibbli jew fi kwalunkwe qasam ta’ studju ieħor relatat mar-riċerka proposta li l- Bord jikkunsidra bħala xieraq, b’minimu ta’ 240 kredtu ECTS, miksub fl-aħħar għaxar snin qabel ir-reġistrazzjoni għall-kors; jew
 
-(b) kwalifika u esperjenza ta’ xogħol meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, li huma ekwivalenti għall-kwalifiki msemmija fis-subparagrafu (a) ta’ dan il-paragrafu. Id-dħul tal-applikanti taħt dan is-sottoparagrafu għandu jkun kondizzjonalment skont ir-riżultati ta’ intervista, sakemm li dawn l-applikanti ENERGY - M.Sc. - TAĦT IL-PATROĊINJU TAL-ISTITUT [L.S.327.456 GĦALL-ENERĠIJA SOSTENIBBLI
-
-jistgħu jkunu meħtieġa jtemmu programm preparatorju kif speċifikat fl-ordinament 5.
-
-*2*
+(b) kwalifika u esperjenza ta’ xogħol meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, li huma ekwivalenti għall-kwalifiki msemmija fis-subparagrafu (a) ta’ dan il-paragrafu. Id-dħul tal-applikanti taħt dan is-sottoparagrafu għandu jkun kondizzjonalment skont ir-riżultati ta’ intervista, sakemm li dawn l-applikanti jistgħu jkunu meħtieġa jtemmu programm preparatorju kif speċifikat fl-ordinament 5.
 
 (2) L-applikanti jistgħu jiġu mitluba juru l-kompetenza fil-ħiliet meħtieġa min-natura tar-riċerka proposta permezz ta’ intervista estiża u s-sottomissjoni ta’ dokumentazzjoni xierqa, sakemm li fejn jiġu jdentifikati xi nuqqasijiet l-applikanti jkunu meħtieġa jsegwu taqsimiet studju speċifiċi sabiex jikkumpensaw għan-nuqqasijiet.
 
@@ -115,11 +105,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ bejn il-25,000 u 50,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
-ENERGY - M.Sc. - TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*3*
-
-GĦALL-ENERĠIJA SOSTENIBBLI [L.S.327.456 (2) Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari matul il-perijodu ta’ studju.
+(2) Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari matul il-perijodu ta’ studju.
 
 (3) It-titolu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord fiż-żmien tal-applikazzjoni.
 

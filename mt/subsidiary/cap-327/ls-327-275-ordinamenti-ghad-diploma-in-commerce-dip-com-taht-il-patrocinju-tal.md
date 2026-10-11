@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Commerce - Dip.Com. - taħt il-patroċinju tal-Fakultà ta' l-Ekonomija, Management u Accountancy (S.L. 327.275)
 
-DIPLOMA IN COMMERCE - DIP. COM. TA}T IL-
-
-PATRO~INJU TAL-FAKULTÀ TA’ L-EKONOMIJA,
-
-*1*
-
-MANAGEMENT U ACCOUNTANCY [S.L.327.275
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.275**
 
 ORDINAMENTI G}AD-DIPLOMA IN COMMERCE - DIP. COM. - TA}T IL-PATRO~INJU TAL-FAKULTÀ TA’ L-EKONOMIJA, MANAGEMENT U

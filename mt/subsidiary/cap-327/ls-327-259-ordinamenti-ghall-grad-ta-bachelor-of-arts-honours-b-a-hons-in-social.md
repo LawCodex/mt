@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Arts (Honours) - B.A. (Hons) - in Social Policy or in Social Work taħt il-patrocinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.259)
 
-\- IN SOCIAL POLICY OR IN SOCIAL WORK TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.259
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.259**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF ARTS (HONOURS) - B.A. (HONS) - IN SOCIAL
@@ -68,15 +62,13 @@ Il-grad ta’ Bachelor of Arts (Honours) fis-Social Policy jew fis-Social Work j
 
 (1) Biex ikunu rreġistrati bħala studenti regolari fil-kors, l-applikanti għandhom jissodisfaw ir-rekwiżiti ġenerali għad-dħul kif speċifikati fir-Regolamenti għad-Dħul ta’ l-Università ta’ Malta.
 
-(2) L-applikanti li għandhom id-Diploma in Social Work mogħtija mill-Università ta’ Malta, jew xi kwalifika komparabbli f’qasam relatat mas-Social Work jew mas-Social Policy jew li jkunu kisbu xi kredti għall-taqsimiet studju kkunsidrati mill-Bord bħala ekwivalenti għal dawk fil-kors jistgħu jidħlu fil-kors ukoll. Suġġett għad-dispożizzjonijiet tar-regolamenti prinċipali, dawn l-applikanti jistgħu jitħallew mill-Bord jittrasferixxu dawn il-kredti fil-kors. L-għadd ta’ kredti li jiġu trasferiti b’dan il-mod - IN SOCIAL POLICY OR IN SOCIAL WORK TAĦT IL- [L.S.327.259 PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ m’għandux jaqbeż dak li jista’ jinkiseb f’sena tal-kors.
+(2) L-applikanti li għandhom id-Diploma in Social Work mogħtija mill-Università ta’ Malta, jew xi kwalifika komparabbli f’qasam relatat mas-Social Work jew mas-Social Policy jew li jkunu kisbu xi kredti għall-taqsimiet studju kkunsidrati mill-Bord bħala ekwivalenti għal dawk fil-kors jistgħu jidħlu fil-kors ukoll. Suġġett għad-dispożizzjonijiet tar-regolamenti prinċipali, dawn l-applikanti jistgħu jitħallew mill-Bord jittrasferixxu dawn il-kredti fil-kors. L-għadd ta’ kredti li jiġu trasferiti b’dan il-mod m’għandux jaqbeż dak li jista’ jinkiseb f’sena tal-kors.
 
 ## 5. Tul tal-kors.
 
 *Sostitwit: A.L. 96 tal-2015.*
 
 (1) Il-grad ta’ Bachelor of Arts (Honours) in Social Work jinfirex fuq medda ta’ erba’ snin ta’ studji fuq bażi full-time jew l-ekwivalenti tagħhom fuq bażi part-time.
-
-*2*
 
 (2) L-istudenti li jidħlu għall-grad ta’ Bachelor of Arts (Honours) in Social Work skont id-dispożizzjonijiet tal-ordinament 4(2) jistgħu jispiċċaw il-kors ta’ studji tagħhom f’medda ta’ tlett snin ta’ studji fuq bażi full-time jew l-ekwivalenti tagħhom fuq bażi part-time.
 
@@ -114,13 +106,11 @@ Fl-aħħar ta’ l-Ewwel Parti, l-istudenti jkunu meħtieġa jagħżlu s-Social 
 
 Il-Bord għandu jippubblika l-programmi ta’ studji mfassla skond id-dispożizzjonijiet rilevanti tar-regolamenti prinċipali, u approvati mis-Senat. Suġġett għall-approvazzjoni mis-Senat, il- Bord jista’ jaghmel it-tibdiliet neċessarji fil-programmi ta’ studji u fit-taqsimiet studju meħtieġa għall-Grad kif ikun hemm bżonn.
 
-\- IN SOCIAL POLICY OR IN SOCIAL WORK TAĦT IL-
+## 11. Klassifikazzjoni tar-rikonoxximent.
 
-*3*
+*Sostitwit: A.L. 96 tal-2015. Emendat: A.L. 153 tal-2022.*
 
-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.259 11. (1)Il-Marka Medja Finali Mwieżna għall-klassifikazzjonital-grad tal-Bachelor of Arts (Honours) in Social Work għandhatkun ibbażata fuq ir-riżultati miksuba fl-erba’ snin tal-kors lijkollhom dan il-piż:
-
-*Klassifikazzjoni tar-rikonoxximent. Sostitwit: A.L. 96 tal-2015. Emendat: A.L. 153 tal-2022.*
+(1)Il-Marka Medja Finali Mwieżna għall-klassifikazzjonital-grad tal-Bachelor of Arts (Honours) in Social Work għandhatkun ibbażata fuq ir-riżultati miksuba fl-erba’ snin tal-kors lijkollhom dan il-piż:
 
 Marka Medja tal-Ewwel Sena 10%
 

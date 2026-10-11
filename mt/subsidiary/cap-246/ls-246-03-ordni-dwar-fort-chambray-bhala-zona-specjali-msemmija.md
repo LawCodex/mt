@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Fort Chambray bħala Żona Speċjali Msemmija"
-identifier: "S.L. 246.3"
+identifier: "S.L. 246.03"
 eli: "https://legislation.mt/eli/sl/246.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/246.3/20240830/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Fort Chambray bħala Żona Speċjali Msemmija (S.L. 246.3)
+# Ordni dwar Fort Chambray bħala Żona Speċjali Msemmija (S.L. 246.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 246.03**
 

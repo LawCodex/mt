@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy - Ph.D.- taħt il-patroċinju tal-Isititut tal-Logħob Diġitali (S.L. 327.487)
 
-*1*
-
-IL-PATROĊINJU TAL-ISTITUT TAL-LOGĦOB DIĠITALI [L.S.327.487
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.487**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR**
@@ -69,11 +65,9 @@ Dawn l-ordinamenti għandhom japplikaw mill-1 ta’ Ottubru 2013 ’il quddiem.
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 294 tal-2024.
 
-*2*
+## 5. Kumitat tal-Istitut għad-Dottorat.
 
-[L.S.327.487 IL-PATROĊINJU TAL-ISTITUT TAL-LOGĦOB DIĠITALI 5. Il-Bord għandu jirrakkomanda lis-Senat il-ħatra tal- Kumitat tal-Istitut għad-Dottorat li jkun magħmul minn:
-
-*Kumitat tal-Istitut għad-Dottorat.*
+Il-Bord għandu jirrakkomanda lis-Senat il-ħatra tal- Kumitat tal-Istitut għad-Dottorat li jkun magħmul minn:
 
 (a) id-Direttur tal-Istitut jew id-delegat tiegħu (Chairman);
 
@@ -103,11 +97,7 @@ L-istudenti għandhom jitħallew ikomplu bl-istudji tagħhom biss jekk ir-rappor
 
 ## 9. Rrapport dwar ix-xogħol tar-riċerka.
 
-(1) Wara tnax-il xahar u mhux aktar tard minn erbgħa u għoxrin xahar ta’ studju full-time, l-istudenti jkunu meħtieġa jissottomettu rapport dwar ix-xogħol tar-riċerka tagħhom għall-konsiderazzjoni ta’ bord ad hoc maħtur mill-Bord. Il-bord ad hoc ikun magħmul minn chairman, li jkun id-Direttur tal-Istitut jew id-delegat tiegħu, u żewġ eżaminaturi, li wieħed minnhom ikun is- Superviżur Prinċipali u l-membru l-ieħor ikun membru tal-Istitut sakemm li d-Direttur ma jkunx is-Superviżur. F’dak il-każ, membru IL-PATROĊINJU TAL-ISTITUT TAL-LOGĦOB DIĠITALI [L.S.327.487
-
-ieħor għandu jkun ċ-Chairman.
-
-*3*
+(1) Wara tnax-il xahar u mhux aktar tard minn erbgħa u għoxrin xahar ta’ studju full-time, l-istudenti jkunu meħtieġa jissottomettu rapport dwar ix-xogħol tar-riċerka tagħhom għall-konsiderazzjoni ta’ bord ad hoc maħtur mill-Bord. Il-bord ad hoc ikun magħmul minn chairman, li jkun id-Direttur tal-Istitut jew id-delegat tiegħu, u żewġ eżaminaturi, li wieħed minnhom ikun is- Superviżur Prinċipali u l-membru l-ieħor ikun membru tal-Istitut sakemm li d-Direttur ma jkunx is-Superviżur. F’dak il-każ, membru ieħor għandu jkun ċ-Chairman.
 
 (2) Il-bord ad hoc għandu jagħmel eżami orali lill-istudent fuq ix-xogħol ippreżentat u għandu l-ewwel jissottometti rapport bil-miktub għall-konsiderazzjoni tal-Kumitat tal-Istitut għad-Dottorat. Ir-rapport għandu jinkludi rakkomandazzjonijiet skont id-dispożizzjonijiet tar-Regolamenti Prinċipali.
 

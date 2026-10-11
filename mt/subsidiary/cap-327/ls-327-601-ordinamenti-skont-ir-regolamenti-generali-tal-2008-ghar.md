@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali tal-2008 għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Science in Biomedical Engineering (Biomechanics) – M.Sc. – offrut taħt il-patroċinju tal-Fakultà tal-Inġinerija u tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.601)
 
-(BIOMECHANICS) – M.SC. – TAĦT IL-PATROĊINJU TAL-
-
-FAKULTÀ TAL-INĠINERIJA U TAL-FAKULTÀ TAL-
-
-*1*
-
-MEDIĊINA U L-KIRURĠIJA [L.S. 327.601
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.601**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -65,12 +57,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 Il-Kors ikun miftuħ għall-applikanti li għandhom waħda minn dawn il-kwalifiki li ġejjin:
 
-(BIOMECHANICS) – M.SC. – TAĦT IL-PATROĊINJU TAL- FAKULTÀ TAL-INĠINERIJA U TAL-FAKULTÀ TAL-
-
-*2*
-
-[L.S. 327.601 MEDIĊINA U L-KIRURĠIJA
-
 (a) il-grad ta’ Bachelor of Engineering (Honours) minn din l-Università, jew minn xi istituzzjoni ta’ edukazzjoni għolja oħra rikonoxxuta mis-Senat, miksub tal-inqas fit-Tieni Klassi bl-Unuri ; jew
 
 (b) il-grad ta’ Doctor of Medicine and Surgery minn din l-Università, jew minn xi istituzzjoni ta’ edukazzjoni għolja oħra rikonoxxuta mis-Senat ; jew
@@ -97,15 +83,7 @@ Il-Kors jinfirex fuq medda ta’ sentejn (erba’ semestri) ta’ studju fuq ba�
 
 ## 6. Il-Programm ta’ Studju
 
-(1) Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 120 krettu ECTS, li minnhom 90 krettu ECTS ikunu assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS assenjati għat-taqsima studju tad- (BIOMECHANICS) – M.SC. – TAĦT IL-PATROĊINJU TAL-
-
-FAKULTÀ TAL-INĠINERIJA U TAL-FAKULTÀ TAL-
-
-*3*
-
-MEDIĊINA U L-KIRURĠIJA [L.S. 327.601
-
-dissertazzjoni.
+(1) Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 120 krettu ECTS, li minnhom 90 krettu ECTS ikunu assenjati għal taqsimiet studju mgħallma u 30 krettu ECTS assenjati għat-taqsima studju tad-dissertazzjoni.
 
 (2) L-istudenti li jiksbu s-60 krettu ECTS assenjati għal taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw id-dissertazzjoni b’suċċess, ikunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
@@ -129,13 +107,7 @@ dissertazzjoni.
 
 (3) Ix-xogħol fuq id-dissertazzjoni għandu jsir matul l-aħħar sena tal-Kors. Kull student jew grupp ta’ studenti normalment ikun assenjat żewġ superviżuri li għandhom jipprovdu gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
-(4) It-titlu provviżorju tad-dissertazzjoni u proposta dettaljata ta’ riċerka għandhom ikunu mressqa għall-approvazzjoni tal-Bord (BIOMECHANICS) – M.SC. – TAĦT IL-PATROĊINJU TAL- FAKULTÀ TAL-INĠINERIJA U TAL-FAKULTÀ TAL-
-
-*4*
-
-[L.S. 327.601 MEDIĊINA U L-KIRURĠIJA
-
-tal-Istudji qabel it-tmiem tat-tieni semestru.
+(4) It-titlu provviżorju tad-dissertazzjoni u proposta dettaljata ta’ riċerka għandhom ikunu mressqa għall-approvazzjoni tal-Bord tal-Istudji qabel it-tmiem tat-tieni semestru.
 
 (5) L-istudenti għandhom jitolbu l-approvazzjoni mill-Bord tal-Istudji permezz tas-superviżuri tagħhom għal modifikazzjonijiet sostanzjali fit-titlu jew fil-kontenut tad-dissertazzjoni.
 

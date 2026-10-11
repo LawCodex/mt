@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Clinical Ethics and Law - M.Sc. - taħt il-patroċinju tal-Fakultà tal-Mediċina u l-Kirurġija (S.L. 327.491)
 
-AND LAW - M.Sc. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.491
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.491**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -75,11 +69,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (g) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala ekwivalenti għall-kwalifiki msemmija fis-subparagrafi (a) sa (f).
 
-(2) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont ir-riżorsi disponibbli. Il-Bord għandu jħabbar l-għadd ta’ postijiet AND LAW - M.Sc. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ [L.S.327.491 TAL-MEDIĊINA U L-KIRURĠIJA
-
-disponibbli fiż-żmien meta toħroġ is-sejħa għall-applikazzjonijiet.
-
-*2*
+(2) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont ir-riżorsi disponibbli. Il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien meta toħroġ is-sejħa għall-applikazzjonijiet.
 
 (3) Meta l-għadd ta’ postijiet ikun limitat u n-numru ta’ applikanti eliġibbli ikun aktar mill-għadd ta’ postijiet disponibbli, l-applikanti jintgħażlu wara intervista minn bord, maħtur għal dan il-għan li jkun magħmul mill-anqas minn tliet membri. ll-bord għandu jagħżel l-applikanti skont il-kriterji li ġejjin, li l-piż tagħhom għandu jkun ippubblikat fiż-żmien meta toħroġ is-sejħa għall-applikazzjonijiet:
 
@@ -115,11 +105,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jista’ jsir matul it-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
-AND LAW - M.Sc. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-MEDIĊINA U L-KIRURĠIJA [L.S.327.491 (3)ċIt-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal-Bord, sal-bidu tat-tieni semestru.
+(3)ċIt-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal-Bord, sal-bidu tat-tieni semestru.
 
 ## 8. Superviżur.
 

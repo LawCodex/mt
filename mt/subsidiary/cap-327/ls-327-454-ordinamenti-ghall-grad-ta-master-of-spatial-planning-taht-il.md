@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Spatial Planning taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.454)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-AMBJENT MIBNI [L.S.327.454
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.454**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -64,13 +58,7 @@ Il-kors ikun miftuħ għall-applikanti li għandhom:
 
 (b) grad ta’ Bachelor mill-Università ta’ Malta mill-inqas fit-Tielet Klassi bl-Unuri fid-dixxiplini msemmija fil-paragrafu (a) ta’ dan l-ordinament, jekk ikollhom ukoll kwalifiki oħrajn jew għall-anqas 10 snin esperjenza f’xogħol rilevanti, miksuba wara l-grad tal-ewwel ċiklu. Id-dħul tal-applikanti taħt dan l-ordinament għandu jkun suġġett għar-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq; jew
 
-(ċ) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala komparabbli għall-kwalifiki msemmija TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.454 TAL-AMBJENT MIBNI
-
-fil-paragrafu (a) ta’ dan l-ordinament. Id-dħul tal-applikanti taħt dan l-ordinament jista’ jkun kondizzjonalment skont ir-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq.
+(ċ) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala komparabbli għall-kwalifiki msemmija fil-paragrafu (a) ta’ dan l-ordinament. Id-dħul tal-applikanti taħt dan l-ordinament jista’ jkun kondizzjonalment skont ir-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq.
 
 ## 4. Tul tal-kors.
 
@@ -102,13 +90,9 @@ Il-kors għandu jinfirex fuq erba’ semestri ta’ studju fuq bażi full-time j
 
 (3) It-titolu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-aħħar tat-tieni semestru tal-kors. Id-dissertazzjoni għandha tiffoka fuq l-istess dixxiplina magħżula minn kull student fil-Planning Workshops kif imsemmija fl-ordinament 5(2).
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
+## 8. Superviżur. Enumerat: A.L. 292 tal-2022.
 
-*3*
-
-TAL-AMBJENT MIBNI [L.S.327.454 8. (1) L-istudenti huma meħtieġa jkollhom kuntatt regolari mas-superviżur tagħhom, mhux inqas minn darba fix-xahar.
-
-*Superviżur. Enumerat: A.L. 292 tal-2022.*
+(1) L-istudenti huma meħtieġa jkollhom kuntatt regolari mas-superviżur tagħhom, mhux inqas minn darba fix-xahar.
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

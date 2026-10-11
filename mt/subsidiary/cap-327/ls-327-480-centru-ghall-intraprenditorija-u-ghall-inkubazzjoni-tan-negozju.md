@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ċentru għall-Intraprenditorija u għall-Inkubazzjoni tan-Negozju (S.L. 327.480)
 
-*1*
-
-U GĦALL-INKUBAZZJONI TAN-NEGOZJU [L.S.327.480
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.480**
 
 **STATUT GĦAĊ-ĊENTRU**
@@ -61,11 +57,7 @@ Iċ-Ċentru għandu dawn l-għanijiet:
 
 (e) li jimpenja ruħu fl-isforzi biex jiġġenera u jikkordina fondi li huma relatati mal-Intraprenditorija u l- Inkubazzjoni tan-Negozju;
 
-(f) li jistimula u jimpenja ruħu fl-aħjar prattiċi ta’ Intraprenditorija u l-Inkubazzjoni tan-Negozju li huma U GĦALL-INKUBAZZJONI TAN-NEGOZJU
-
-ta’ klassi mondjali u l-aktar avvanzata;
-
-*[L.S.327.480 2*
+(f) li jistimula u jimpenja ruħu fl-aħjar prattiċi ta’ Intraprenditorija u l-Inkubazzjoni tan-Negozju li huma ta’ klassi mondjali u l-aktar avvanzata;
 
 (g) li jistimula u jimpenja ruħu f’riċerka aktar avvanzata u ta’ klassi mondjali fl-Intraprenditorija u l- Inkubazzjoni tan-Negozju li tiġi mxerrda fl-aqwa konferenzi, journals u kotba f’dan il-qasam;
 
@@ -113,11 +105,7 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (a) li jmexxi l-affarijiet taċ-Ċentru, skont il-provvedimenti ta’ dawn l-istatuti u ta’ dawk ir-regolamenti, deċiżjonijiet jew direzzjonijiet, kif approvati mill-Kunsill u mis-Senat minn żmien għal żmien;
 
-(b) li jiddeċiedi l-politika taċ-Ċentru, jissorvelja l-attivitajiet u l-amministrazzjoni tiegħu u, mingħajr U GĦALL-INKUBAZZJONI TAN-NEGOZJU [L.S.327.480
-
-preġudizzju għall-ġeneralità li ssemmiet qabel, il-Bord jista’:
-
-*3*
+(b) li jiddeċiedi l-politika taċ-Ċentru, jissorvelja l-attivitajiet u l-amministrazzjoni tiegħu u, mingħajr preġudizzju għall-ġeneralità li ssemmiet qabel, il-Bord jista’:
 
 (i) japprova business plans u l-estimi annwali tad-dħul u l-ħruġ taċ-Ċentru għall-kunsiderazzjoni u l-approvazzjoni tal-Kunsill;
 
@@ -146,10 +134,6 @@ preġudizzju għall-ġeneralità li ssemmiet qabel, il-Bord jista’:
 (iv) bi qbil bil-miktub mar-Rettur, japprova ftehim ma’ terzi persuni għall-iffinanzjar ta’ negozji u tentattivi intraprenditorjali fi ħdan l-inkubatur, li jinkludi, fost ħwejjeġ oħra, Business Angels, Business Angel Netorks, kumpanniji Ventura Capital, Banek u entitajiet ta’ Finanzi oħra, li jinkludu l-ministeri tal-Gvern, istituzzjonijiet u aġenziji;
 
 (v) jirreġistra lill-inkubatur tan-negozju f’assoċjazzjonijiet u f’istituzzjonijiet li għandhom l-istess għanijiet u interessi.
-
-**U GĦALL-INKUBAZZJONI TAN-NEGOZJU**
-
-*[L.S.327.480 4*
 
 *\8.*
 
@@ -183,11 +167,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur jinkludu li:
 
 • is-sessjoni ta’ Jannar - sal-aħħar ta’ Marzu;
 
-• is-sessjoni ta’ Mejju/Ġunju - ir-riżultati tal- Aħħar Sena mhux aktar tard minn jumejn qabel jitlaqqa’ l-Bord għall-Klassifikazzjoni li jsir fl-aħħar sena iżda, fi kwalunkwe każ, mhux aktar tard mill-aħħar ta’ Lulju; riżultati oħra U GĦALL-INKUBAZZJONI TAN-NEGOZJU [L.S.327.480
-
-għandhom jaslu kemm jista’ jkun malajr iżda mhux aktar tard mill-aħħar ta’ Lulju;
-
-*5*
+• is-sessjoni ta’ Mejju/Ġunju - ir-riżultati tal- Aħħar Sena mhux aktar tard minn jumejn qabel jitlaqqa’ l-Bord għall-Klassifikazzjoni li jsir fl-aħħar sena iżda, fi kwalunkwe każ, mhux aktar tard mill-aħħar ta’ Lulju; riżultati oħra għandhom jaslu kemm jista’ jkun malajr iżda mhux aktar tard mill-aħħar ta’ Lulju;
 
 • is-sessjoni ta’ Settembru - sal-aħħar ta’ Settembru.
 
@@ -207,11 +187,7 @@ għandhom jaslu kemm jista’ jkun malajr iżda mhux aktar tard mill-aħħar ta�
 
 (o) jikkompila u jissottometti rapport annwali, kif approvat mill-Bord, lis-Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fiċ-Ċentru u l-Inkubatur tan-Negozju fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet riċenti tal-membri kollha taċ-Ċentru; ġabra fil-qosor tal-proġetti li fihom huma involuti membri taċ-Ċentru, li huma finanzjati kollha jew parzjalment minn barra; u lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri taċ-Ċentru attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni taċ-Ċentru ma’ terzi persuni li jinkludi l-industrija lokali, il-Gvern jew is-soċjetà ċivili in ġenerali; u rapport maniġerjali li joffoka fuq l-attivitajiet tal-Inkubatur tan-Negozju;
 
-(p) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani għaċ-Ċentru u l-Inkubatur tan-Negozju, li jkopri tagħlim, riċerka u xogħol amministrattiv proġettat għaċ-Ċentru l-Inkubatur u bbażat fuq ix- U GĦALL-INKUBAZZJONI TAN-NEGOZJU
-
-xogħol proġettat ta’ kull Akkademiku Residenti taċ- Ċentru u tal-Visiting Teaching Staff, u tal-istaff amministrattiv tal-Inkubatur tan-Negozju;
-
-*[L.S.327.480 6*
+(p) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani għaċ-Ċentru u l-Inkubatur tan-Negozju, li jkopri tagħlim, riċerka u xogħol amministrattiv proġettat għaċ-Ċentru l-Inkubatur u bbażat fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti taċ- Ċentru u tal-Visiting Teaching Staff, u tal-istaff amministrattiv tal-Inkubatur tan-Negozju;
 
 (q) jimmonitorja l-eżekuzzjoni tax-xogħol tal-istaff mhux akkademiku msieħeb maċ-Ċentru;
 

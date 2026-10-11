@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy - Ph.D. - taħt il-patroċinju tal-Istitut Edward de Bono għat-Tifsil u l-Iżvilupp tal-Ħsieb (S.L. 327.543)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT EDWARD DE BONO
-
-*1*
-
-GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB [L.S.327.543
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.543**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -75,10 +69,6 @@ Meta l-Bord iqis li hu meħtieġ, jista’ jitlob li studenti jtemmu b’suċċe
 
 \*Dawn regolamenti ġew imħassrin bl-Avviż Legali 264 tal-2024.
 
-*2*
-
-TAĦT IL-PATROĊINJU TAL-ISTITUT EDWARD DE BONO [L.S.327.543 GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB
-
 (2) L-applikanti jistgħu jiġu mitluba wkoll li juru l-kompetenza tagħhom f’dawk il-ħiliet meħtieġa min-natura tar-riċerka proposta.
 
 ## 6. Kumitat tal-Istitut għad-Dottorat.
@@ -125,8 +115,4 @@ Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preż
 
 (1) L-istudenti jkunu meħtieġa jissottomettu kopja mingħajr legatura tat-teżi tagħhom għal kull membru tal-Bord tal- Eżaminaturi, flimkien ma’ kopja f ’format diġitali. L-uffiċjal inkarigat mill-Istitut għandu joħroġ riċevuta datata.
 
-(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu lill-Istitut, tliet kopji tat-teżi b’legatura ħoxna u kopja f’format diġitali, li għandhom jinkludu dikjarazzjoni TAĦT IL-PATROĊINJU TAL-ISTITUT EDWARD DE BONO
-
-*3*
-
-GĦAT-TIFSIL U L-IŻVILUPP TAL-ĦSIEB [L.S.327.543 ffirmata ta’ awtentiċità, fi żmien sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom. Kopja waħda tat-teżi għandha tinżamm fil- Librerija tal-Istitut u kopja oħra fil-Librerija tal-Università. Kopja waħda tat-teżi għandha tinżamm fil-Librerija tal-Istitut u kopja oħra fil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.
+(2) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu lill-Istitut, tliet kopji tat-teżi b’legatura ħoxna u kopja f’format diġitali, li għandhom jinkludu dikjarazzjoni ffirmata ta’ awtentiċità, fi żmien sitt ġimgħat mill-pubblikazzjoni tar-riżultat tagħhom. Kopja waħda tat-teżi għandha tinżamm fil- Librerija tal-Istitut u kopja oħra fil-Librerija tal-Università. Kopja waħda tat-teżi għandha tinżamm fil-Librerija tal-Istitut u kopja oħra fil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

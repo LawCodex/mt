@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Drittijiet li jitħallsu għall-Akkwist ta' Proprjetà Immobbli minn Persuni mhux Residenti"
-identifier: "S.L. 246.1"
+identifier: "S.L. 246.01"
 eli: "https://legislation.mt/eli/sl/246.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/246.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Drittijiet li jitħallsu għall-Akkwist ta' Proprjetà Immobbli minn Persuni mhux Residenti (S.L. 246.1)
-
-DRITTIJIET LI JIT}ALLSU G}ALL-AKKWIST TA’
-
-*1*
-
-PROPRJETÀ IMMOBBLI MINN PERSUNI MHUX REIDENTI [L.S.246.01
+# Regolamenti dwar id-Drittijiet li jitħallsu għall-Akkwist ta' Proprjetà Immobbli minn Persuni mhux Residenti (S.L. 246.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 246.01**
 

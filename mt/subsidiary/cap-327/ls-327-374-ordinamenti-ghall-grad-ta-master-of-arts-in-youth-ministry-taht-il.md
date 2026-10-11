@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Youth Ministry taħt il-patroċinju tal-Fakultà tal-Teoloġija (S.L. 327.374)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.374
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.374**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -111,11 +107,9 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (2) L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal-Postgraduate Diploma.
 
-*3*
+## 7. Pubblikazzjoni tal-programm ta’ studju.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAT-TEOLOĠIJA [L.S.327.374 7. Il-programm ta’ studju għandu jkun ppubblikat wara l-approvazzjoni tas-Senat normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
-
-*Pubblikazzjoni tal-programm ta’ studju.*
+Il-programm ta’ studju għandu jkun ppubblikat wara l-approvazzjoni tas-Senat normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
 ## 8. Valutazzjoni u progress.
 

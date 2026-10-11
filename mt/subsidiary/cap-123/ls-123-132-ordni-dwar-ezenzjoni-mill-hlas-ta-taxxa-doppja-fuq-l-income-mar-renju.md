@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-ħlas ta’ Taxxa Doppja fuq l-Income mar-Renju tal-Baħrejn (S.L. 123.132)
 
-*1*
-
-FUQ L-INCOME MAR-RENJU TAL-BAHREJN [L.S.123.132
-
 **LEĀISLAZZJONI SUSSIDJARJA 123.132**
 
 ORDNI DWAR EśENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME MAR-RENJU
@@ -44,8 +40,6 @@ Qiegћed b’dan jiāi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranāamenti gћandu jkollhom effett;
 
 (ë) illi l-Ftehim beda jseћћ fit-28 ta’ Frar 2012.
-
-2 [L.S.123.132 FUQ L-INCOME MAR-RENJU TAL-BAHREJN
 
 ## SKEDA
 
@@ -111,9 +105,7 @@ Il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew taxxi sostanzjalm
 
 \1. Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teћtieā xort’oћra:
 
-(a) il-fraŜi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiāi uŜata f’sens āeografiku, tfisser il-GŜira ta’ Malta, il-GŜira ta’ Gћawdex u l-gŜejjer l- FUQ L-INCOME MAR-RENJU TAL-BAHREJN [L.S.123.132 3
-
-oћra tal-arëipelagu Malti inkluŜi l-ibћra territorjali tagћhom, kif ukoll kull area ta’ qiegћ il-baћar, is-sottoswol tiegћu u l-kolonna ta’ baћar sovrajaëenti li tinsab adjaëenti mal-ibћra territorjali, li fihom Malta teŜerëita drittijiet sovrani, āurisdizzjoni, jew kontroll kif hemm fid-dritt internazzjonali u d-dritt nazzjonali tagћha, inkluŜa l-leāislazzjoni tagћha gћar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riŜorsi naturali tagћha;
+(a) il-fraŜi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiāi uŜata f’sens āeografiku, tfisser il-GŜira ta’ Malta, il-GŜira ta’ Gћawdex u l-gŜejjer l-oћra tal-arëipelagu Malti inkluŜi l-ibћra territorjali tagћhom, kif ukoll kull area ta’ qiegћ il-baћar, is-sottoswol tiegћu u l-kolonna ta’ baћar sovrajaëenti li tinsab adjaëenti mal-ibћra territorjali, li fihom Malta teŜerëita drittijiet sovrani, āurisdizzjoni, jew kontroll kif hemm fid-dritt internazzjonali u d-dritt nazzjonali tagћha, inkluŜa l-leāislazzjoni tagћha gћar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riŜorsi naturali tagћha;
 
 (b) il-fraŜi "Baħrejn" tfisser it-territorji tar-Renju tal-Baħrejn kif ukoll iŜ- Ŝoni marittimi, qiegћ il-baћar u s-sottoswol li fuqhom il-Baħrejn teŜerëita, kif hemm fid-dritt internazzjonali, id-drittijiet sovrani u l-āurisdizzjoni tagħha;
 
@@ -148,8 +140,6 @@ oћra tal-arëipelagu Malti inkluŜi l-ibћra territorjali tagћhom, kif ukoll k
 **RESIDENTI**
 
 \1. Gћall-finijiet ta’ dan il-Ftehim, il-fraŜi "residenti ta’ Stat Kontraenti" tfisser:
-
-4 [L.S.123.132 FUQ L-INCOME MAR-RENJU TAL-BAHREJN
 
 (a) fil-kaŜ ta’ Malta, kull persuna li, taћt il-liāijiet ta’ Malta, tkun soāāetta gћat-taxxa hemmhekk minћabba fid-domiëilju, ir-residenza, il-post tal-inkorporazzjoni, il-post tal-maniāā jew kull kriterju ieħor ta’ xorta bћal dawk, u tinkludi wkoll lil dak l-iStat, u kull sottodiviŜjoni politika jew awtorità lokali tagħha;
 
@@ -188,8 +178,6 @@ Din il-fraŜi, madankollu, ma tinkludix lil xi persuna li tkun soāāetta għat-
 (ë) uffiëëju;
 
 (d) fabbrika;
-
-FUQ L-INCOME MAR-RENJU TAL-BAHREJN [L.S.123.132 5
 
 (e) ћanut tax-xogћol;
 
@@ -233,9 +221,7 @@ ImpriŜa m’gћandhiex titqies li jkollha stabbiliment permanenti fi Stat Kontr
 
 ## 8.
 
-Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla jew tkun kontrollata minn kumpannija li tkun residenti tal-iStat Kontraenti l-ieћor, 6 [L.S.123.132 FUQ L-INCOME MAR-RENJU TAL-BAHREJN
-
-jew li tkun tiāāestixxi negozju f’dak l-iStat l-ieћor (sew permezz ta’ stabbiliment permanenti sew xort’oћra), m’gћandux fih innifsu jikkostitwixxi lil xi kumpannija waћda jew l-oћra stabbiliment permanenti tal-kumpannija l-oћra.
+Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla jew tkun kontrollata minn kumpannija li tkun residenti tal-iStat Kontraenti l-ieћor, jew li tkun tiāāestixxi negozju f’dak l-iStat l-ieћor (sew permezz ta’ stabbiliment permanenti sew xort’oћra), m’gћandux fih innifsu jikkostitwixxi lil xi kumpannija waћda jew l-oћra stabbiliment permanenti tal-kumpannija l-oћra.
 
 **Artikolu 6**
 
@@ -261,9 +247,7 @@ jew li tkun tiāāestixxi negozju f’dak l-iStat l-ieћor (sew permezz ta’ st
 
 \4. Sakemm tkun il-konswetudni fi Stat Kontraenti li jiāu stabbiliti l-profitti li gћandhom jiāu attribwiti lil stabbiliment permanenti abbaŜi ta’ tqassim tal-profitti totali tal-impriŜa lill-partijiet diversi tagћha, ebda ћaāa fil-paragrafu 2 m’gћandha tipprekludi lil dak l-iStat Kontraenti milli jistabbilixxi l-profitti li gћandhom jiāu intaxxati b’dak it-tqassim hekk kif jista’ jkun konswetudinarju; il-metodu ta’ kunsinna li jiāi adottat gћandu, madankollu, ikun tali li r-riŜultat ikun kif hawn fil-prinëipji li jinsabu f’dan l-Artikolu.
 
-\5. Ebda profitti m’gћandhom jiāu attribwiti lil stabbiliment permanenti FUQ L-INCOME MAR-RENJU TAL-BAHREJN [L.S.123.132 7
-
-minћabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oāāetti jew merkanzija gћall-impriŜa.
+\5. Ebda profitti m’gћandhom jiāu attribwiti lil stabbiliment permanenti minћabba biss f’li jsir ix-xiri minn dak l-istabbiliment permanenti ta’ oāāetti jew merkanzija gћall-impriŜa.
 
 \6. Gћall-finijiet tal-paragrafi preëedenti, il-profitti li gћandhom jiāu attribwiti lill-istabbiliment permanenti gћandhom jiāu stabbiliti bl-istess metodu sena wara l-oћra kemm-il darba ma jkunx hemm raāuni tajba u suffiëjenti biex dan ma jsirx.
 
@@ -293,8 +277,6 @@ u f ’kaŜ wieħed jew l-ieħor isiru jew jiāu imposti kondizzjonijiet bejn i�
 
 \2. Meta Stat Kontraenti jinkludi fil-profitti ta’ impriŜa ta’ dak l-iStat - u hekk jintaxxa - profitti li fuqhom impriŜa tal-iStat Kontraenti l-ieћor tkun āiet intaxxata f’dak l-iStat l-ieћor u l-profitti hekk inkluŜi jkunu profitti li kienu jinqalgћu mill-impriŜa tal-iStat l-ewwel imsemmi jekk il-kondizzjonijiet magћmulin bejn iŜ-Ŝewā impri Ŝ i kienu dawk li kieku kienu jsiru bejn Ŝ ew ā impri Ŝ i indipendenti, gћaldaqshekk dak l-iStat l-ieћor għandu jagћmel it-tibdil li jmiss fl-ammont tat-taxxa imposta fih fuq dawk il-profitti. Biex jiāi stabbilit dak it-tibdil, gћandhom jitqiesu kif dovut id-dispoŜizzjonijiet l-oћra ta’ dan il-Ftehim u l-awtoritajiet kompetenti tal-iStati Kontraenti gћandhom jekk ikun meħtieā jikkonsultaw lil xulxin.
 
-8 [L.S.123.132 FUQ L-INCOME MAR-RENJU TAL-BAHREJN
-
 **Artikolu 10**
 
 **DIVIDENDI**
@@ -316,8 +298,6 @@ u f ’kaŜ wieħed jew l-ieħor isiru jew jiāu imposti kondizzjonijiet bejn i�
 \2. Il-fraŜijiet "income minn pretensjonijiet ta’ debitu" jew "income" kif tintuŜa f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhom dritt li jipparteëipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-gvern u income minn bonds jew obbligazzjonijiet, inkluŜi premiums u premjijiet relatati ma dawk it-titoli, bonds jew obbligazzjonijiet. Il-ћlasijiet ta’ penali gћal ћlas tardiv m’għandhomx jitqiesu bћala income minn pretensjoni ta’ debitu gћall-finijiet ta’ dan l-Artikolu.
 
 \3. Id-dispoŜizzjonijiet tal-paragrafu 1 m’gћandhomx ikunu japplikaw jekk is-sid benefiëjarju tal-income, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-iStat Kontraenti l-ieћor li fih jinqala l-imgћax, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti. F’dak il-kaŜ, gћandhom japplikaw id-dispoŜizzjonijiet tal-Artikolu 7.
-
-FUQ L-INCOME MAR-RENJU TAL-BAHREJN [L.S.123.132 9
 
 \4. Meta, minћabba f’relazzjoni speëjali bejn min iћallas u s-sid benefiëjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont tal-income, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitћallas, ikun iŜjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiëjarju fin-nuqqas ta’ dik ir-relazzjoni, id-dispoŜizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-ahhar imsemmi. F’dak il-kaŜ, il-parti Ŝejda tal-ћlasijiet għandha tibqa’ tiāi intaxxata kif ikun hemm fil-liāijiet ta’ kull Stat Kontraenti, fil-qjies tad-dispoŜizzjonijiet l-oћra ta’ dan il-Ftehim.
 
@@ -344,8 +324,6 @@ FUQ L-INCOME MAR-RENJU TAL-BAHREJN [L.S.123.132 9
 \3. Qligћ li jinkiseb minn impriŜa ta’ Stat Kontraenti mit-trasferiment ta’ bastimenti jew ināenji tal-ajru mħaddma fi traffiku internazzjonali, jew minn proprjetà mobbli li tappartjeni għat-tħaddim ta’ dawk il-bastimenti jew ināenji tal-ajru, gћandhom jiāu intaxxati biss f’dak l-iStat.
 
 \4. Qligћ li jinkiseb minn residenti ta’ Stat Kontraenti mit-trasferiment ta’ ishma li jiksbu iŜjed minn 50 fil-mija tal-valur tagħhom direttament jew indirettament minn proprjetà immobbli li tkun sitwata fl-iStat Kontraenti l-ieћor jista’ jiāi intaxxat f’dak l-Istat l-ieћor.
-
-10 [L.S.123.132 FUQ L-INCOME MAR-RENJU TAL-BAHREJN
 
 \5. Qligћ mit-trasferiment ta’ xi proprjetà, li ma tkunx dik imsemmija fil-paragrafi 1, 2, 3 u 4, gћandu jiāi intaxxat biss fl-iStat Kontraenti li min jittrasferixxi jkun residenti fih.
 
@@ -385,8 +363,6 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 Bla ћsara gћad-dispoŜizzjonijiet tal-paragrafu 2 tal-Artikolu 18, pensjonijiet u kumpens ieћor simili li jitћallsu lil residenti ta’ Stat Kontraenti minћabba f ’xi impjieg li kellhom gћandhom jiāu intaxxati biss f’dak l-iStat.
 
-FUQ L-INCOME MAR-RENJU TAL-BAHREJN [L.S.123.132 11
-
 **Artikolu 18**
 
 **SERVIZZ MAL-GVERN**
@@ -419,8 +395,6 @@ Kull ħlas li student jew apprendist fil-kummerë li jkun jew kien minnufih qabe
 
 \2. Id-dispoŜizzjonijiet tal-paragrafu 1 ma gћandhomx japplikaw gћal income, li ma jkunx income minn proprjetà immobbli kif imfisser fil-paragrafu 2 tal-Artikolu 6, jekk min jirëievi dak l-income, gћax ikun residenti ta’ Stat Kontraenti, imexxi n-negozju fl-iStat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun sitwat fih u d-dritt jew il-proprjetà li dwarhom jitћallas l-income jkun effettivament konness ma’ dak l-istabbiliment permanenti. F’dak il-kaŜ, gћandhom japplikaw id-dispoŜizzjonijiet tal-Artikolu 7.
 
-12 [L.S.123.132 FUQ L-INCOME MAR-RENJU TAL-BAHREJN
-
 **Artikolu 21**
 
 **ELIMINAZZJONI TA’ TAXXA DOPPJA**
@@ -445,7 +419,7 @@ Bla ħsara għad-dispoŜizzjonijiet tal-liāi ta’ Malta dwar li jitħalla jing
 
 \4. ImpriŜi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu jappartjeni jew kontrollat, direttament jew mhux, minn residenti wieћed jew iktar tal-iStat Kontraenti l-ieћor, ma jkunux assoāāettati fl-iStat l-ewwel imsemmi gћal xi taxxa jew ћtieāa konnessa ma’ dan li tkun xort’oћra jew ta’ aktar piŜ mit-taxxa u l-ћtiāiet konnessi li gћalihom ikunu jew jistgћu jkunu assoāāettati impriŜi simili oħra tal-iStat l-ewwel imsemmi.
 
-\5. Id-dispoŜizzjonijiet ta’ dan l-Artikolu għandhom, minkejja d-dispoŜizzjonijiet tal-Artikolu 2, japplikaw għal taxxi ta’ kull xorta u deskrizzjoni. FUQ L-INCOME MAR-RENJU TAL-BAHREJN [L.S.123.132 13
+\5. Id-dispoŜizzjonijiet ta’ dan l-Artikolu għandhom, minkejja d-dispoŜizzjonijiet tal-Artikolu 2, japplikaw għal taxxi ta’ kull xorta u deskrizzjoni.
 
 **Artikolu 23**
 
@@ -471,9 +445,7 @@ Bla ħsara għad-dispoŜizzjonijiet tal-liāi ta’ Malta dwar li jitħalla jing
 
 (a) li jwettqu miŜuri amministrattivi li ma jkunux jaqblu mal-liāijiet u mal-prattika amministrattiva ta’ dak l-iStat Kontraenti jew tal-iStat Kontraenti l-ieћor;
 
-(b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liāijiet jew fil- 14 [L.S.123.132 FUQ L-INCOME MAR-RENJU TAL-BAHREJN
-
-kors normali tal-amministrazzjoni ta’ dak l-iStat Kontraenti jew tal-iStat Kontraenti l-ieћor;
+(b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liāijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l-iStat Kontraenti jew tal-iStat Kontraenti l-ieћor;
 
 (ë) li jagћti informazzjoni li tikxef xi sigriet ta’ sengћa, negozju, industrija, sigriet kummerëjali jew professjonali jew ta’ xi proëess tan-negozju, jew informazzjoni, li meta din tiāi Ŝvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
@@ -507,9 +479,7 @@ gћar-rigward ta’ taxxi fuq l-income miksuba matul xi sena kalendarja jew perj
 
 **TERMINAZZJONI**
 
-Dan il-Ftehim gћandu jibqa’ jseћћ sakemm jiāi terminat minn xi Stat Kontraenti. Kull wieћed mill-iStati Kontraenti jista’ jtemm il-Ftehim, permezz ta’ kanali diplomatiëi, billi jagћti avviŜ tat-terminazzjoni mill-inqas sitt xhur qabel ma tintemm xi sena kalendarja li tibda gћaddejja wara l-iskadenza ta’ perjodu ta’ ћames FUQ L-INCOME MAR-RENJU TAL-BAHREJN [L.S.123.132 15
-
-snin minn meta dan jidћol fis-seћћ. F’dak il-kaŜ, il-Ftehim ma gћandux jibqa’ jseћћ:
+Dan il-Ftehim gћandu jibqa’ jseћћ sakemm jiāi terminat minn xi Stat Kontraenti. Kull wieћed mill-iStati Kontraenti jista’ jtemm il-Ftehim, permezz ta’ kanali diplomatiëi, billi jagћti avviŜ tat-terminazzjoni mill-inqas sitt xhur qabel ma tintemm xi sena kalendarja li tibda gћaddejja wara l-iskadenza ta’ perjodu ta’ ћames snin minn meta dan jidћol fis-seћћ. F’dak il-kaŜ, il-Ftehim ma gћandux jibqa’ jseћћ:
 
 (a) f’Malta:
 

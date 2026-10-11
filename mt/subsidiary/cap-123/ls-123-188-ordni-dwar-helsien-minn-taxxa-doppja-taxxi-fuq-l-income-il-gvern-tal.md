@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (il-Gvern tal-Prinċipat ta’ Monaco) (S.L. 123.188)
 
-*1*
-
-(IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 LEĠISLAZZJONI SUSSIDJARJA 123.188
+**LEĠISLAZZJONI SUSSIDJARJA 123.188**
 
 **ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA**
 
@@ -45,11 +43,9 @@ B’dan qiegћed jiġi dikjarat -
 
 (b) li huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett wara li jidħol fis-seħħ il-Ftehim u skont il-provvediment rilevanti tal-Ftehim;
 
-(ċ) li l-Ftehim beda fis-seħħ fil-16 ta’ Mejju, 2019. [L.S. 123.188 (IL-GVERN TAL-PRINĊIPAT TA’ MONACO)
+(ċ) li l-Ftehim beda fis-seħħ fil-16 ta’ Mejju, 2019.
 
 ## SKEDA
-
-*2*
 
 FTEHIM BEJN IL-GVERN TAR-REPUBBLIKA TA’ MALTA U IL-GVERN TAL-PRINĊIPAT TA’ MONACO
 
@@ -95,11 +91,9 @@ it-taxxa fuq l-income;
 
 ## 4.
 
-Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalment simili li tiġi imposta wara d-data meta jiġi ffirmat il-Ftehim b’żjieda, jew minflok, it-taxxi eżistenti. L-awtoritajiet (IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 kompetenti tal-Istati Kontraenti gћandhom jgћarrfu lil xulxin b’kull tibdil sinifikanti li jkun sar fil-liġijiet rispettivi tagħhom dwar it-taxxi.
+Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalment simili li tiġi imposta wara d-data meta jiġi ffirmat il-Ftehim b’żjieda, jew minflok, it-taxxi eżistenti. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jgћarrfu lil xulxin b’kull tibdil sinifikanti li jkun sar fil-liġijiet rispettivi tagħhom dwar it-taxxi.
 
 ARTIKOLU 3
-
-*3*
 
 TIFSIRIET ĠENERALI
 
@@ -119,11 +113,7 @@ TIFSIRIET ĠENERALI
 
 (g) il-frażijiet "impriża ta’ Stat Kontraenti" u "impriża tal-Istat Kontraenti l-ieћor" ifissru rispettivament impriża ġestita minn residenti ta’ Stat Kontraenti u impriża ġestita minn residenti tal-Istat Kontraenti l-ieћor;
 
-(h) il-frażi "traffiku internazzjonali" tfisser kull transport permezz ta’ bastiment jew inġenji tal-ajru mħaddma [L.S. 123.188 (IL-GVERN TAL-PRINĊIPAT TA’ MONACO)
-
-*4*
-
-minn impriża ta’ Stat Kontraenti, ћlief meta dak il-bastiment jew inġenju tal-ajru jkun imћaddem unikament bejn postijiet fl-Istat Kontraenti l-ieħor;
+(h) il-frażi "traffiku internazzjonali" tfisser kull transport permezz ta’ bastiment jew inġenji tal-ajru mħaddma minn impriża ta’ Stat Kontraenti, ћlief meta dak il-bastiment jew inġenju tal-ajru jkun imћaddem unikament bejn postijiet fl-Istat Kontraenti l-ieħor;
 
 (i) il-frażi ''negozju" tinkludi l-prestazzjoni ta' servizzi professjonali u ta' attivitajiet oħra ta' karattru indipendenti;
 
@@ -151,9 +141,7 @@ minn impriża ta’ Stat Kontraenti, ћlief meta dak il-bastiment jew inġenju t
 
 kull persuna li, taћt il-liġijiet ta’ dak l-Istat, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk, u tinkludi wkoll dak l-Istat u kull sottodiviżjoni politika jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix xi persuna li tkun soġġetta biss għat-taxxa f’dak l-Istat fir-rigward biss ta' income minn għejjun f'dak l-Istat jew kapital li jinsab fih;
 
-*5*
-
-(IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 (b) fil-każ ta’ Monaco
+(b) fil-każ ta’ Monaco
 
 kull persuna li, taћt il-liġijiet tal-Prinċipat ta’ Monaco, gћandu ġo Monaco domiċilju, residenza, post fejn issoltu jirrisjedi jew post tal-maniġġ, u tinkludi wkoll l-Istat ta’ Monaco, kumpanniji jew soċjetajiet statali u kwalunkwe awtorità lokali tagħhom.
 
@@ -178,10 +166,6 @@ kull persuna li, taћt il-liġijiet tal-Prinċipat ta’ Monaco, gћandu ġo Mon
 \2. Il-frażi "stabbiliment permanenti" b’mod speċjali tinkludi :
 
 (a) post ta’ maniġġ;
-
-*6*
-
-[L.S. 123.188 (IL-GVERN TAL-PRINĊIPAT TA’ MONACO)
 
 (b) fergћa;
 
@@ -213,13 +197,11 @@ Minkejja l-provvedimenti ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbilime
 
 ## 5.
 
-Minkejja l-provvedimenti tal-paragrafi 1 u 2, meta persuna - li ma tkunx aġent bi status indipendenti li gћaliha japplika l-paragrafu 6 - tkun qegћda taġixxi f’isem impriża u jkollha, u tkun abitwalment teżerċita, fi Stat Kontraenti l-awtorità li tagћmel kuntratti f’isem l-impriża, dik l-impriża għandha titqies li jkollha stabbiliment permanenti f’dak l-Istat għar-rigward ta’ kull attività li dik il-persuna tagħmel għall-impriża, sakemm l-attivitajiet ta’ dik il-persuna ma (IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 jkunux limitati gћal dawk imsemmija fil-paragrafu 4 illi, jekk dawn jiġu eżerċitati minn ġo post tan-negozju fiss, ma jkunux jirrendu lil dak il-post tan-negozju fiss bћala stabbiliment permanenti taћt il-provvedimenti ta’ dak il-paragrafu
+Minkejja l-provvedimenti tal-paragrafi 1 u 2, meta persuna - li ma tkunx aġent bi status indipendenti li gћaliha japplika l-paragrafu 6 - tkun qegћda taġixxi f’isem impriża u jkollha, u tkun abitwalment teżerċita, fi Stat Kontraenti l-awtorità li tagћmel kuntratti f’isem l-impriża, dik l-impriża għandha titqies li jkollha stabbiliment permanenti f’dak l-Istat għar-rigward ta’ kull attività li dik il-persuna tagħmel għall-impriża, sakemm l-attivitajiet ta’ dik il-persuna ma jkunux limitati gћal dawk imsemmija fil-paragrafu 4 illi, jekk dawn jiġu eżerċitati minn ġo post tan-negozju fiss, ma jkunux jirrendu lil dak il-post tan-negozju fiss bћala stabbiliment permanenti taћt il-provvedimenti ta’ dak il-paragrafu
 
 ## 6.
 
 Impriża m'għandhiex titqies li għandha stabbiliment permanenti fi Stat Kontraenti sempliċement għax tmexxi negozju f'dak l-Istat permezz ta' sensal, aġent ta' kummissjoni ġenerali jew kwalunkwe aġent ieħor ta' status indipendenti, sakemm dawn il-persuni jkunu qegħdin jaġixxu fil-kors ordinarju tan-negozju tagħhom.
-
-*7*
 
 ## 7.
 
@@ -235,11 +217,9 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom japplikaw gћal income li jinkiseb mill-użu dirett, il-kiri, jew l-użu b’kull mod ieћor ta’ proprjetà immobbli.
 
-\4. Id-dispożizzjonijiet tal-paragrafi 1 u 3 gћandhom japplikaw ukoll gћal income minn proprjetà immobbli ta’ impriża. [L.S. 123.188 (IL-GVERN TAL-PRINĊIPAT TA’ MONACO)
+\4. Id-dispożizzjonijiet tal-paragrafi 1 u 3 gћandhom japplikaw ukoll gћal income minn proprjetà immobbli ta’ impriża.
 
 **ARTIKOLU 7**
-
-*8*
 
 **PROFITTI MINN NEGOZJU**
 
@@ -259,9 +239,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 Meta l-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegћdin jiġu trattati separatament f’Artikoli oћra ta’ dan il-Ftehim, gћaldaqshekk id-dispożizzjonijiet ta’ dawk l-Artikoli ma gћandhomx jintlaqtu bid-dispożizzjonijiet ta’ dan l-Artikolu.
 
-*9*
-
-(IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 ARTIKOLU 8
+**ARTIKOLU 8**
 
 **TBAĦĦIR U TRASPORT BL-AJRU**
 
@@ -283,11 +261,7 @@ Meta l-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegћdin jiġu tr
 
 u f’kull każ isiru jew jiġu imposti kundizzjonijiet bejn iż-żewġ impriżi fir-relazzjonijiet kummerċjali jew finanzjarji tagћhom li ma jkunux jaqblu ma’ dawk li kieku kienu jiġu magћmulin bejn impriżi indipendenti, f’dak il-każ il-profitti li, kieku ma kienx gћal dawk il-kundizzjonijiet, kienu jakkumulaw favur xi waħda mill-impriżi, iżda, minћabba f’dawk il-kundizzjonijiet, ma jkunux ġew hekk akkumulati, jistgћu jiġu inklużi fil-profitti ta’ dik l-impriża u jiġu intaxxati skont hekk.
 
-\2. Meta Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat – u skont hekk jintaxxa - profitti li fuqhom impriża tal- Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kundizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor għandu jagћmel tibdil adatt fl-ammont tat-taxxa hemm imposta fuq dawk il-profitti. Biex jiġi stabbilit dak it-tibdil, id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti tal-Istati [L.S. 123.188 (IL-GVERN TAL-PRINĊIPAT TA’ MONACO)
-
-*10*
-
-Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw lil xulxin.
+\2. Meta Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat – u skont hekk jintaxxa - profitti li fuqhom impriża tal- Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kundizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor għandu jagћmel tibdil adatt fl-ammont tat-taxxa hemm imposta fuq dawk il-profitti. Biex jiġi stabbilit dak it-tibdil, id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw lil xulxin.
 
 **ARTIKOLU 10**
 
@@ -307,11 +281,9 @@ Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw lil xulxin.
 
 \1. Mgћax li jinqala’ fi Stat Kontraenti u jitћallas lil residenti tal-Istat Kontraenti l-ieћor gћandu jiġi intaxxat f’dak Istat l-ieћor.
 
-\2. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparteċipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew (IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 obbligazzjonijiet, inklużi primjums u premjijiet marbuta ma' tali titoli, bonds jew obbligazzjonijiet. Penali rigward ħlas tardiv m’għandhiex titqies bħala mgħax għall-għanijiet ta’ dan l-Artikolu.
+\2. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparteċipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew obbligazzjonijiet, inklużi primjums u premjijiet marbuta ma' tali titoli, bonds jew obbligazzjonijiet. Penali rigward ħlas tardiv m’għandhiex titqies bħala mgħax għall-għanijiet ta’ dan l-Artikolu.
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 ma gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanent. F’dak il-każ, id-dispożizzjonijiet tal-Artikolu 7 gћandhom japplikaw.
-
-*11*
 
 \4. Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont tal-imgћax, meta jiġi kkunsidrat il-pretensjoni ta’ debitu li dwarha tħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet għandha tibqa’ taxxabbli kif hemm fil-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu l-provvedimenti l-oћra ta’ dan il- Ftehim.
 
@@ -325,11 +297,7 @@ Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw lil xulxin.
 
 \3. Il-provvedimenti tal-paragrafu 1 m’gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ il-provvedimenti tal-Artikolu 7 gћandhom japplikaw.
 
-\4. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont tar-royalties, meta jiġi kkunsidrat x’ikun l-użu, id-dritt jew l- [L.S. 123.188 (IL-GVERN TAL-PRINĊIPAT TA’ MONACO)
-
-*12*
-
-informazzjoni li jitћallsu gћalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu l-provvedimenti l-oћra ta’ dan il-Ftehim.
+\4. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont tar-royalties, meta jiġi kkunsidrat x’ikun l-użu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, il-provvedimenti ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu l-provvedimenti l-oћra ta’ dan il-Ftehim.
 
 **ARTIKOLU 13**
 
@@ -353,9 +321,7 @@ informazzjoni li jitћallsu gћalihom, ikun iżjed mill-ammont li kien ikun mift
 
 \2. Minkejja l-provvedimenti tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Stat Kontraenti dwar xi impjieg li jkun eżerċitat fl-Istat Kontraenti l-ieћor gћandu jiġi intaxxat biss fl-Istat l-ewwel imsemmi jekk:
 
-*13*
-
-(IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 (a) min jirċevih ikun joqgћod fl-Istat l-ieћor gћal perjodu jew perjodi li b’kollox ma jkunux ta’ iżjed minn 183 ġurnata f’kull perjodu ta’ tnax il-xahar li jibda gћaddej jew itemm fis-sena ta’ taxxa involuta; u
+(a) min jirċevih ikun joqgћod fl-Istat l-ieћor gћal perjodu jew perjodi li b’kollox ma jkunux ta’ iżjed minn 183 ġurnata f’kull perjodu ta’ tnax il-xahar li jibda gћaddej jew itemm fis-sena ta’ taxxa involuta; u
 
 (b) il-kumpens jitћallas minn, jew f’isem, prinċipal li ma jkunx residenti tal-Istat l-ieћor; u
 
@@ -383,10 +349,6 @@ Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn residenti
 
 Bla ħsara għad-dispożizzjonijiet tal-paragrafu 2 tal-Artikolu 18, il-pensjonijiet u kull kumpens ieħor li jitħallsu lil residenti ta’ Stat Kontraenti fil-kunsiderazzjoni ta’ impjieg imgħoddi mħallsa lil dak ir-residenti għandhom jiġu intaxxati biss f’dak l-Istat.
 
-*14*
-
-[L.S. 123.188 (IL-GVERN TAL-PRINĊIPAT TA’ MONACO)
-
 **ARTIKOLU 18**
 
 **SERVIZZI TAL-GVERN**
@@ -411,9 +373,7 @@ Bla ħsara għad-dispożizzjonijiet tal-paragrafu 2 tal-Artikolu 18, il-pensjoni
 
 Ħlasijiet li student jew apprendist fin-negozju li jkun jew kien minnufih qabel iżur Stat Kontraenti residenti tal-Istat Kontraenti l-ieħor u li jkun preżenti fl-Istat l-ewwel imsemmi unikament għall-għan tal-edukazzjoni jew taħriġ tiegħu jirċievi għall-għan tal-manteniment, edukazzjoni jew taħriġ tiegħu m’għandux ikun intaxxat f’dak l-Istat, sakemm dawk il-ħlasijiet jinqalgħu minn għejjun li jkunu barra dak l- Istat.
 
-*15*
-
-(IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 ARTIKOLU 20
+**ARTIKOLU 20**
 
 **INCOME IEĦOR**
 
@@ -437,11 +397,7 @@ Meta residenti ta' Monaco jikseb income li, skond id-disposizzjonijiet ta' dan i
 
 **EBDA DISKRIMINAZZJONI**
 
-\1. Iċ-ċittadini ta’ Stat Kontraenti ma gћandhom jiġu assoġġettati fl-Istat Kontraenti l-ieћor gћal ebda tassazzjoni jew ebda ћtieġa li tkun konnessa ma’ dan, li tkun diversa jew ta’ iktar piż mittaxxa u l-ħtiġiet konnessi li gћalihom ċittadini ta’ dak l-Istat l-ieћor fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgћu jkunu assoġġettati. Dan il-provvediment għandu, minkejja l-provvedimenti tal-Artikolu 1, japplika wkoll għal persuni li [L.S. 123.188 (IL-GVERN TAL-PRINĊIPAT TA’ MONACO)
-
-*16*
-
-mhumiex residenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma.
+\1. Iċ-ċittadini ta’ Stat Kontraenti ma gћandhom jiġu assoġġettati fl-Istat Kontraenti l-ieћor gћal ebda tassazzjoni jew ebda ћtieġa li tkun konnessa ma’ dan, li tkun diversa jew ta’ iktar piż mittaxxa u l-ħtiġiet konnessi li gћalihom ċittadini ta’ dak l-Istat l-ieћor fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgћu jkunu assoġġettati. Dan il-provvediment għandu, minkejja l-provvedimenti tal-Artikolu 1, japplika wkoll għal persuni li mhumiex residenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma.
 
 \2. It-taxxa fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieћor ma gћandhiex tinġabar b’mod inqas favorevoli f’dak Istat l-ieћor mit-taxxa miġbura fuq impriżi ta’ dak l-Istat l-ieћor li jkunu qed iwettqu l-istess attivitajiet. Dan il-provvediment m’għandux jitqies li jobbliga xi Stat Kontraenti li jagħti lil residenti tal-Istat Kontraenti l-ieħor xi allowances personali, ħelsien u tnaqqis għall-għanijiet ta’ tassazzjoni li jingħata minħabba l-istatus ċivili jew responsabbiltajiet ta’ familja li jagħti li r-residenti tiegħu.
 
@@ -457,11 +413,9 @@ mhumiex residenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma.
 
 \1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wiehed jew taż-żewġ Stati Kontraenti jirriżultawlha jew jistgћu jirriżultawlha f’taxxa li ma tkunx skont il-provvedimenti ta’ dan il-Ftehim, huwa jista’, irrispettivament mir-rimedji provduti mil-liġi domestika ta’dawk l-Istati, jippreżenta l-każ tiegћu quddiem l-awtorità kompetenti tal-Istat Kontraenti fejn huwa jkun residenti jew, jekk il-każ tiegћu jkun jaqa’ taћt il-paragrafu 1 tal-Artikolu 22, quddiem dik tal-Istat Kontraenti li huwa jkun ċittadin tiegћu. Il-każ gћandu jiġi ppreżentat fi żmien tliet snin mill-ewwel avviż tal-azzjoni li tirriżulta f’taxxa li ma tkunx skont il-provvedimenti tal-Ftehim.
 
-\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim (IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieћor, bil-gћan li tiġi evitata taxxa li ma tkunx skont il-Ftehim. Kull ftehim milħuq gћandu jiġi implimentat minkejja kull skadenza ta’ terminu fil- Liġi domestika tal-Istati Kontraenti.
+\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieћor, bil-gћan li tiġi evitata taxxa li ma tkunx skont il-Ftehim. Kull ftehim milħuq gћandu jiġi implimentat minkejja kull skadenza ta’ terminu fil- Liġi domestika tal-Istati Kontraenti.
 
 \3. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jistgħu joriġinaw dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Huma jistgħu wkoll jikkonsultaw flimkien bil-għan li tiġi eliminata t-taxxa doppja f’każijiet li dan il-Ftehim ma jipprovdix għalihom.
-
-*17*
 
 \4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgħu jikkomunikaw direttament ma’ xulxin, inkluż permezz ta’ kummissjoni konġunta li tkun tikkonsisti minnhom stess jew mir-rappreżentanti tagħhom, bil-għan li jintlaħaq ftehim fis-sens tal-paragrafi ta’ qabel.
 
@@ -475,11 +429,7 @@ mhumiex residenti ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma.
 
 \3. F’ebda każ m’gћandhom il-provvedimenti tal-paragrafi 1 u 2 jiftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
 
-(a) li jwettaq miżuri amministrattivi li ma jkunux [L.S. 123.188 (IL-GVERN TAL-PRINĊIPAT TA’ MONACO)
-
-*18*
-
-jaqblu mal-liġijiet u mal-prattika amministrattiva ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ieћor;
+(a) li jwettaq miżuri amministrattivi li ma jkunux jaqblu mal-liġijiet u mal-prattika amministrattiva ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ieћor;
 
 (b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l- Istat Kontraenti jew tal-Istat Kontraenti l-ieћor;
 
@@ -503,11 +453,9 @@ Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-mem
 
 \1. Istati Kontraenti għandhom javżaw lil xulxin, permezz ta’ kanali diplomatiċi, li l-ħtiġiet legali għall-bidu fis-seħħ ta’ dan il- Ftehim ġew sodisfatti.
 
-\2. Dan il-Ftehim għandu jidħol fis-seħħ tletin jum wara d-data tal-aħħar mill-avviżi msemmija fil-paragrafu 1 u l-provvedimenti tiegħu għandu jkollhom effett fir-rigward ta' taxxi fuq l-income miksuba matul kwalunkwe sena kalendarja jew perjodu ta' kontabilità, skond kif ikun il-każ, li jibdew fl-ewwel jum ta' Jannar ta’ wara (IL-GVERN TAL-PRINĊIPAT TA’ MONACO) [L.S.123.188 immedjatament wara d-data li fiha l-Ftehim jidħol fis-seħħ.
+\2. Dan il-Ftehim għandu jidħol fis-seħħ tletin jum wara d-data tal-aħħar mill-avviżi msemmija fil-paragrafu 1 u l-provvedimenti tiegħu għandu jkollhom effett fir-rigward ta' taxxi fuq l-income miksuba matul kwalunkwe sena kalendarja jew perjodu ta' kontabilità, skond kif ikun il-każ, li jibdew fl-ewwel jum ta' Jannar ta’ wara immedjatament wara d-data li fiha l-Ftehim jidħol fis-seħħ.
 
 ARTIKOLU 27
-
-*19*
 
 TERMINAZZJONI
 

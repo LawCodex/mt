@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estensjoni taż-Żmien Applikabbli"
-identifier: "S.L. 62.1"
+identifier: "S.L. 62.01"
 eli: "https://legislation.mt/eli/sl/62.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/62.1/20130730/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estensjoni taż-Żmien Applikabbli (S.L. 62.1)
+# Ordni dwar l-Estensjoni taż-Żmien Applikabbli (S.L. 62.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 62.01**
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Qafas Malti tal-Kwalifiki għal Tagħlim Tul il-Ħajja (S.L. 327.431)
 
-QAFAS MALTI TAL-KWALIFIKI
-
-*1*
-
-GĦAL TAGĦLIM TUL IL-ĦAJJA [L.S.327.431
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.431**
 
 **REGOLAMENTI DWAR IL-QAFAS MALTI**

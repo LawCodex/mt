@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Projbizzjoni ta' l-Importazzjoni ta' Annimali u Ikel ta' l-Annimali (S.L. 36.25)
 
-ANNIMALI U IKEL TA’ L-ANNIMALI [ L.S.36.25
-
 **LE{ISLAZZJONI SUSSIDJARJA 36.25**
 
 **REGOLAMENTI DWAR IL-PROJBIZZJONI TA’**

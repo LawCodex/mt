@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Master of Philosophy - M.Phil. - fl-Istitut għat-Teknoloġija ta' l-Enerġija (S.L. 327.161)
 
-GRAD TA’ MASTER OF PHILOSOPHY - M.PHIL. -
-
-**FL-ISTITUT G}AT-TEKNOLO{IJA TA’ L-ENER{IJA [L.S.327.161**
-
-*1*
-
 LE{ISLAZZJONI SUSSIDJARJA 327.161
 
 ORDINAMENTI G}ALL-GRAD TA’
@@ -29,8 +23,6 @@ MASTER OF PHILOSOPHY - M.PHIL. - FL-ISTITUT
 
 G}AT-TEKNOLO{IJA TA’ L-ENER{IJA
 
-12 ta’ Jannar, 1999
-
-L-AVVI| LEGALI 7 tal-1999.
+12 ta’ Jannar, 1999 L-AVVI| LEGALI 7 tal-1999.
 
 Revokat bl-Avviż Legali 300 tal-2012.

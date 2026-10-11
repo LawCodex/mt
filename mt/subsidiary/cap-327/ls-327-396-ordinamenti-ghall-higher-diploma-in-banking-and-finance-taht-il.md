@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Higher Diploma in Banking and Finance taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.396)
 
-HIGHER DIPLOMA IN BANKING AND FINANCE TAĦT
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA
-
-*1*
-
-MANAGEMENT U ACCOUNTANCY [L.S.327.396
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.396**
 
 **ORDINAMENTI GĦALL-HIGHER DIPLOMA IN**

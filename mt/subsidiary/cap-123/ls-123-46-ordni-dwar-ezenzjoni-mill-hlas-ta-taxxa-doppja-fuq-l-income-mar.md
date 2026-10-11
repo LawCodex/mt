@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika tal-Korea (S.L. 123.46)
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA [ L.S.123.46
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.46**
 
 **ORDNI DWAR E|ENZJONI MILL-}LAS TA’**
@@ -107,9 +105,7 @@ Dan il-Ftehim g]andu japplika wkoll g]al kull taxxa b]alhom jew li sostanzjalmen
 
 (a) il-fra\\i "Korea" tfisser it-territorju tar-Repubblika tal-Korea inklu\\a kull area li tinsab biswit il-ba]ar territorjali tar-Repubblika tal-Korea li, skond il-li[i internazzjonali, hi hekk imsemmija jew aktar ’il quddiem tista’ tissejja] ta]t il-li[ijiet tar-Repubblika tal-Korea b]ala area li fiha d-drittijiet sovrani tar-Repubblika tal-Korea dwar qieg] il-ba]ar u s-sottoswol u r-ri\\orsi naturali tag]hom jistg]u ji[u e\\er`itati;
 
-(b) il-fra\\i "Malta", meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il- FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA [ L.S.123.46
-
-G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti flimkien ma’ l-ib]ra territorjali tag]hom, u kull area barra mill-ba]ar territorjali tar-Repubblika ta’ Malta li, skond il-li[i internazzjonali, hi hekk imsemmija jew aktar ’il quddiem tista’ tissejja], ta]t il-li[i tar-Repubblika ta’ Malta dwar il-Blata Kontinentali, b]ala area li fiha d-drittijiet tar-Repubblika ta’ Malta dwar qieg] il-ba]ar u s-sottoswol u r-ri\\orsi naturali tag]hom jistg]u ji[u e\\er`itati;
+(b) il-fra\\i "Malta", meta u\\ata f’sens [eografiku, tfisser il-G\\ira ta’ Malta, il- G\\ira ta’ G]awdex u l-g\\ejjer l-o]ra ta’ l-ar`ipelagu Malti flimkien ma’ l-ib]ra territorjali tag]hom, u kull area barra mill-ba]ar territorjali tar-Repubblika ta’ Malta li, skond il-li[i internazzjonali, hi hekk imsemmija jew aktar ’il quddiem tista’ tissejja], ta]t il-li[i tar-Repubblika ta’ Malta dwar il-Blata Kontinentali, b]ala area li fiha d-drittijiet tar-Repubblika ta’ Malta dwar qieg] il-ba]ar u s-sottoswol u r-ri\\orsi naturali tag]hom jistg]u ji[u e\\er`itati;
 
 (`) il-fra\\i "Stat Kontraenti" u "l-Istat Kontraenti l-ie]or" ifissru, skond ma te]tie[ ir-rabta tal-kliem, ir-Repubblika tal-Korea jew ir-Repubblika ta’ Malta;
 
@@ -193,9 +189,7 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-fra\\i "stabbi
 
 (a) l-u\\u ta’ fa`ilitajiet g]all-iskop biss ta’ ]a\\na, wiri jew tqassim ta’ o[[etti jew merkanzija li jkunu proprjetà ta’ l-impri\\a;
 
-(b) it-ti\\mim ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l- FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA [ L.S.123.46
-
-impri\\a g]all-iskop biss ta’ ]a\\na, wiri jew tqassim;
+(b) it-ti\\mim ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop biss ta’ ]a\\na, wiri jew tqassim;
 
 (`) it-ti\\mim ta’ ]a\\na ta’ o[[etti jew merkanzija li tkun proprjetà ta’ l-impri\\a g]all-iskop biss ta’ pro`essar minn impri\\a o]ra;
 
@@ -261,9 +255,7 @@ ri\\orsi o]ra naturali; bastimenti, opri tal-ba]ar u in[enji ta’ l-ajru ma g]a
 
 **Traffiku Internazzjonali**
 
-\1. Il-profitti ta’ impri\\a ta’ Stat Kontraenti mit-t]addim ta’ bastimenti, in[enji FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA [ L.S.123.46
-
-ta’ l-ajru jew vetturi fuq l-art fi traffiku internazzjonali g]andhom ikunu taxxabbli biss f’dak l-Istat.
+\1. Il-profitti ta’ impri\\a ta’ Stat Kontraenti mit-t]addim ta’ bastimenti, in[enji ta’ l-ajru jew vetturi fuq l-art fi traffiku internazzjonali g]andhom ikunu taxxabbli biss f’dak l-Istat.
 
 \2. Id-disposizzjonijiet tal-paragrafu 1 japplikaw ukoll g]al profitti [ejjin mill-parte`ipazzjoni f’pool, negozju bi s]ab jew a[enzija operattiva internazzjonali.
 
@@ -319,9 +311,7 @@ L.S.123.46] FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA
 
 (`) img]ax li jinqala’ fi Stat Kontraenti u jit]allas lil xi istituzzjoni finanzjarja ta’ l-Istat Kontraenti l-ie]or li tkun qed twettaq funzjonijiet ta’ xorta governattiva hekk kif jista’ ji[i spe`ifikat u miftihem f’ittri skambjati bejn l-awtoritajiet kompetenti ta’ l-Istati Kontraenti g]andu jkun e\\enti mit-taxxa fl-Istat l-ewwel imsemmi;
 
-(d) img]ax li jinqala’ b’konnessjoni mal-bejg] bi kreditu ta’ xi tag]mir industrijali, kummer`jali jew xjentifiku jew li jit]allas b’konnessjoni FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA [ L.S.123.46
-
-mal-bejg] bi kreditu ta’ merkanzija minn impri\\a wa]da lil impri\\a o]ra g]andu jkun taxxabbli biss fl-Istat Kontraenti li tieg]u il-benefi`jarju jkun residenti.
+(d) img]ax li jinqala’ b’konnessjoni mal-bejg] bi kreditu ta’ xi tag]mir industrijali, kummer`jali jew xjentifiku jew li jit]allas b’konnessjoni mal-bejg] bi kreditu ta’ merkanzija minn impri\\a wa]da lil impri\\a o]ra g]andu jkun taxxabbli biss fl-Istat Kontraenti li tieg]u il-benefi`jarju jkun residenti.
 
 \4. Il-fra\\i "img]ax" kif u\\ata f’dan l-Artikolu tfisser income minn drittijiet g]al dejn ta’ kull xorta, sew jekk ipotekati sew jekk le, u sew jekk jag]ti l-jedd g]al sehem fil-profitti tad-debitur sew jekk le, u b’mod partikolari, income minn assigurazzjonijiet tal-Gvern u income minn bonds jew debentures, inklu\\ kull premium u rigal relatat ma’ dawk l-assigurazzjonijiet, bonds jew debentures.
 
@@ -365,9 +355,7 @@ istabbiliment permanenti jew ma’ dak il-ba\\i stabbiIit. F’dak il-ka\\ id-di
 
 **Servizzi Personali Indipendenti**
 
-\1. Qlig] miksub minn residenti ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti jkun taxxabbli biss f’dak l-Istat. I\\da, dak FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA [ L.S.123.46
-
-il-qlig] jista’ fi`-`irkostanzi li [ejjin ji[i intaxxat fl-Istat Kontraenti l-ie]or:
+\1. Qlig] miksub minn residenti ta’ Stat Kontraenti g]al servizzi professjonali jew attivitajiet o]ra ta’ xorta indipendenti jkun taxxabbli biss f’dak l-Istat. I\\da, dak il-qlig] jista’ fi`-`irkostanzi li [ejjin ji[i intaxxat fl-Istat Kontraenti l-ie]or:
 
 (a) jekk ikollu ba\\i fiss regolari g]ad-disposizzjoni tieg]u fl-Istat Kontraenti l-ie]or g]all-qadi ta’ l-attivitajiet tieg]u (f’liema ka\\ dik il-parti biss mill-income tieg]u li hu attribwibbli g]al dak il-ba\\i fiss tista’ ti[i intaxxata f’dak l-Istat Kontraenti l-ie]or); jew
 
@@ -433,8 +421,6 @@ l. (a) Dik ir-rimunerazzjoni, barra minn pensjoni, m]allsa minn Stat Kontraenti 
 
 \3. Id-disposizzjonijiet ta’ l-Artikoli 15, 16 u 18 g]andhom japplikaw g]al rimunerazzjoni u pensjonijiet dwar servizzi mog]tija dwar negozju mmexxi minn Stat Kontraenti jew minn sotto-divi\\joni politika jew awtorità lokali jew korp statutorju tieg]u.
 
-FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA [ L.S.123.46
-
 \4. Id-disposizzjonijiet tal-paragrafi 1 u 2 ta’ dan l-Artikolu g]andhom bl-istess mod ikunu japplikaw dwar rimunerazzjoni jew pensjonijiet im]allsa, fil-ka\\ tal- Korea, mill-Bank of Korea, l-Export-Import Bank of Korea, il-Korea Development Bank, il-Korea Trade Promotion Corporation u istituzzjonijiet o]ra li g]andhom b]ala sid lill-Gvern u li jkunu qeg]din iwettqu funzjonijiet ta’ xorta governattiva.
 
 **ARTIKOLU 20**
@@ -485,9 +471,7 @@ Bla ]sara g]ad-disposizzjonijiet tal-li[i ta’ Malta dwar li ji[i permess kredi
 
 \2. It-tassazzjoni fuq stabbiliment permanenti li impri\\a ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ie]or ma g]andhiex tin[abar f’dak l-Istat l-ie]or b’mod inqas favorevoli mit-tassazzjoni mi[bura fuq impri\\i f’dak l-Istat l-ie]or li jmexxu l-istess attivitajiet. Din id-disposizzjoni m’g]andhiex tiftiehem b]ala li tobbliga lil Stat Kontraenti li jikkon`edi lir-residenti ta’ l-Istat Kontraenti l-ie]or xi allowance, ]elsien jew tnaqqis personali g]all-g]anijiet tat-tassazzjoni min]abba fl-istat `ivili jew fir-responsabbiltajiet tal-familja li jikkon`edi lir-residenti tieg]u nnifsu.
 
-\3. }lief meta d-disposizzjonijiet tal-paragrafu 1 ta’ l-Artikolu 9, tal-paragrafu 7 ta’ l-Artikolu 11, jew tal-paragrafu 5 ta’ l-Artikolu 12 ikunu japplikaw, kull img]ax, royalties u ]lasijiet o]ra li jsiru minn impri\\a ta’ Stat Kontraenti lil residenti ta’ l-Istat Kontraenti l-ie]or g]andhom, bil-g]an li ji[i stabbilit il-qlig] taxxabbli ta’ dik l-impri\\a, jitnaqqsu ta]t l-istess kundizzjonijiet daqslikieku kienu FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA [ L.S.123.46
-
-t]allsu lil residenti ta’ l-Istat l-ewwel imsemmi.
+\3. }lief meta d-disposizzjonijiet tal-paragrafu 1 ta’ l-Artikolu 9, tal-paragrafu 7 ta’ l-Artikolu 11, jew tal-paragrafu 5 ta’ l-Artikolu 12 ikunu japplikaw, kull img]ax, royalties u ]lasijiet o]ra li jsiru minn impri\\a ta’ Stat Kontraenti lil residenti ta’ l-Istat Kontraenti l-ie]or g]andhom, bil-g]an li ji[i stabbilit il-qlig] taxxabbli ta’ dik l-impri\\a, jitnaqqsu ta]t l-istess kundizzjonijiet daqslikieku kienu t]allsu lil residenti ta’ l-Istat l-ewwel imsemmi.
 
 \4. Impri\\i ta’ Stat Kontraenti, li l-kapital tag]hom ikun proprjetà ta’ jew ikkontrollat minn, g]al kollox jew f’parti, direttament jew indirettament, residenti wie]ed jew aktar ta’ l-Istat Kontraenti l-ie]or, ma jkunux su[[etti fl-Istat l-ewwel imsemmi g]al xi tassazzjoni jew xi ]tie[a li g]andha x’taqsam mag]ha li tkun ta’ xort’o]ra jew ta’ aktar pi\\ mit-tassazzjoni u ]ti[iet li g]andhom x’jaqsmu mag]ha li impri\\i o]ra b]alhom ta’ l-Istat l-ewwel imsemmi huma jew jistg]u jkunu su[[etti g]alihom.
 
@@ -550,8 +534,6 @@ dwar it-taxxa ta’ Malta g]al xi sena ta’ stima li tibda fi jew wara l-ewwel 
 **Terminazzjoni**
 
 Dan il-Ftehim g]andu jibqa’ fis-se]] g]al \\mien indefinit i\\da kull wie]ed mill-Istati Kontraenti jista’, fi jew qabel it-tletin jum ta’ {unju ta’ liema sena kalendarja tkun mill-]ames sena li ti[i wara dik li fiha dan il-Ftehim ikun da]al fis-se]], jag]ti lill-Istat Kontraenti l-ie]or tramite kanali diplomati`i, avvi\\ bil-miktub tat-tmiem tieg]u u, f’dak il-ka\\, dan il-Ftehim g]andu jtemm milli jibqa’ jkollu se]]:
-
-FUQ L-INCOME MAR-REPUBBLIKA TAL-KOREA [ L.S.123.46
 
 (a) fil-Korea:
 

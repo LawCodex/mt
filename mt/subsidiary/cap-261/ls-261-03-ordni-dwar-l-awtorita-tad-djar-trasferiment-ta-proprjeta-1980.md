@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1980)"
-identifier: "S.L. 261.3"
+identifier: "S.L. 261.03"
 eli: "https://legislation.mt/eli/sl/261.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/261.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1980) (S.L. 261.3)
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1980) [ L.S.261.03
+# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1980) (S.L. 261.03)
 
 LE{ISLAZZJONI SUSSIDJARJA 261.03
 
@@ -91,7 +89,7 @@ Majjistral ma’ proprjetà tal-Gvern.
 
 (i) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 37 tal-kejl ta’ madwar 137 metru kwadru li tmiss mill- Majjistral ma’ triq pubblika ming]ajr isem, mil- Lbi` ma’ proprjetà tas-Sur George Fenech u mill-Grigal ma’ proprjetà tas-Sur Mario Mifsud;
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1980) [ L.S.261.03 (ii) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 55 tal-kejl ta’ madwar 135 metru kwadru li tmiss mill- Majjistral ma’ triq pubblika ming]ajr isem u mil-Lbi` u mill-Grigal ma’ proprjetà tal-Gvern;
+(ii) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 55 tal-kejl ta’ madwar 135 metru kwadru li tmiss mill- Majjistral ma’ triq pubblika ming]ajr isem u mil-Lbi` u mill-Grigal ma’ proprjetà tal-Gvern;
 
 (iii) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 86 tal-kejl ta’ madwar 152 metru kwadru li tmiss mix-Xokk ma’ triq [dida pro[ettata, mill-Grigal parti ma’ proprjetajiet tas-Sur Emanuel Sammut u tas-Sur Anthony Attard u parti ma’ proprjetà tal-Gvern u mil-Lbi` ma’ proprjetà tas-Sur John Sammut. (g) Bi``a art fil-Pietà li hi mag]mula minn plots mag]rufa b]ala Plots Nri. 1 sa 12 tal-kejl ta’ madwar 3294 metru kwadru li tmiss mill-Majjistral, mill-Punent u mil- Lvant ma’ toroq [odda ming]ajr isem.
 
@@ -127,7 +125,7 @@ Tramuntana ma’ proprjetà tal-Gvern, minn Nofs in-Nhar parti ma’ proprjetà 
 
 (o) Id-djar li [ejjin fl-Estate tad-Djar tal-Gvern tal-Marsa:
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1980) [ L.S.261.03 (i) Id-djar numri 13 u 14, Triq Xemxija, il-Marsa;
+(i) Id-djar numri 13 u 14, Triq Xemxija, il-Marsa;
 
 (ii) Id-djar numri 15 sa 28, Triq il-Jum, il-Marsa. (p) Id-djar li [ejjin fl-Estate tad-Djar tal-Gvern ta’ Santa Lucia:
 
@@ -181,7 +179,7 @@ Estate mag]rufa b]ala Plots Nri. 23 sa 26 tal-kejl ta’ madwar 742 metru kwadru
 
 (i) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 212 tal-kejl ta’ madwar 144.9 metri kwadri li tmiss minn Nofs in-Nhar ma’ proprjetà tas-Sur Carmelo Dingli, mil-Lvant ma’ triq pubblika u mill-Punent ma’ proprjetà tas-Sur Ramon Xuereb;
 
-(ii) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 220 tal-kejl ta’ madwar 214-il metru kwadru li tmiss mit- Tramuntana ma’ proprjetà tas-Sur Ramon (TRASFERIMENT TA’ PROPRJETÀ) (1980) [ L.S.261.03 Xuereb u minn Nofs in-Nhar u mill-Punent ma’ proprjetà pubblika;
+(ii) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 220 tal-kejl ta’ madwar 214-il metru kwadru li tmiss mit- Tramuntana ma’ proprjetà tas-Sur Ramon Xuereb u minn Nofs in-Nhar u mill-Punent ma’ proprjetà pubblika;
 
 (iii) Bi``a art li hi mag]mula minn plot fl-imsemmi Estate mag]rufa b]ala Plot Nru. 236 tal-kejl ta’ madwar 156 metru kwadru li tmiss mit- Tramuntana ma’ proprjetà tas-Sur Joseph Farrugia, minn Nofs in-Nhar ma’ triq pubblika, u mill-Punent parti ma’ proprjetà tas-Sur Joe Caruana Smith u parti ma’ proprjetà pubblika. (e) Bi``a art fl-Estate tad-Djar tal-Gvern f’Ta’ Xbiex li hi mag]mula minn plots fl-imsemmi Estate mag]rufa b]ala Plots Nri: 41 u 42 tal-kejl ta’ madwar 464 metru kwadru li tmiss mill-Majjistral ma’ proprjetà tas-Sur Salvino Testaferrata Moroni Viani u mil-Lbi` u mix- Xlokk ma’ proprjetà tal-Gvern.
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Ikklampjar u t-Tneħħija ta' Vetturi bil-Mutur u Oġġetti ta' Ingombru (S.L. 65.13)
 
-*1*
-
-VETTURI BIL-MUTUR U OĠĠETTI TA’ INGOMBRU [L.S.65.13
-
 **LEĠISLAZZJONI SUSSIDJARJA 65.13**
 
 **REGOLAMENTI DWAR L-IKKLAMPJAR**
@@ -94,11 +90,7 @@ Iżda oġġett ta’ ingombru li jkun ġie mneħħi jew maħżun jew li jkun għ
 
 (1) Il-Kummissarju jew il-Kunsill jew l-Aġenzija jew l- Awtorità jista’ jqiegħed klampi mar-roti ta’ kull vettura li tkun qegħda pparkjata jew imħollija f’area speċifikament indikata bħala żona ta’ klampjar.
 
-(2) Il-Kummissarju jew l-Awtorità jew il-Kunsill jew l-Aġenzija VETTURI BIL-MUTUR U OĠĠETTI TA’ INGOMBRU [L.S.65.13
-
-jistgħu wkoll jneħħu, jaħżnu u jiddisponu jew iqiegħdu klampi mar-roti ta’:
-
-*3*
+(2) Il-Kummissarju jew l-Awtorità jew il-Kunsill jew l-Aġenzija jistgħu wkoll jneħħu, jaħżnu u jiddisponu jew iqiegħdu klampi mar-roti ta’:
 
 (a) kull vettura bil-mutur li ma jkollhiex liċenza ta’ ċirkolazzjoni valida maħruġa mill-Awtorità mwaħħla mal-ħġieġa ta’ quddiem tagħha;
 
@@ -156,11 +148,7 @@ Iżda għal dak li jirrigwarda vetturi mitluqa, il-Kummissarju jew l-Awtorità j
 
 Iżda wkoll fir-rigward ta’ vetturi, kemm jekk abbandunati jew mitluqa, li jkunu nbiegħu b’kuntratt ta’ hire purchase, il-Kummissarju jew l-Awtorità jew il-Kunsill jew l-Aġenzija, qabel qabel ma tipproċedi bil-bejgħ bl-irkant jew biex teqridhom, skont il-każ, għandha l-ewwel tibgħat avviż bil-miktub permezz ta’ posta reġistrata lill-bejjiegħ li bih tavża illi l-vettura tinsab fil-kustodja ta’ tali entità u li din se tinbiegħ jew tinqered, skont il-każ, sakemm il-bejjiegħ ma jipproċedix biex jieħu lura tali vettura fi żmien ħmistax (15)-il ġurnata mid-data tan-notifika tal-avviż billi jħallas bis-sħiħ kull ammont li jkun dovut lill- Awtorità u, jew lil kull entità pubblika oħra fir-rigward ta’ tali vettura.
 
-(2) Il-Kummissarju jew l-Awtorità jew il-Kunsill jew l- Aġenzija għandu jutilizza l-flus tal-bejgħ l-ewwel sabiex jitħallas kull dritt dovut lilu għar-rimozzjoni jew għall-magazzinaġġ, kif VETTURI BIL-MUTUR U OĠĠETTI TA’ INGOMBRU [L.S.65.13
-
-ukoll il-ħlas tat-taxxa ta’ reġistrazzjoni, multi amministrattivi, tariffi amministrattivi, xi multi imposti b’ordni jew b’deċiżjoni tal-Qorti jew ta’ xi tribunal, arretrati tal-ħlasijiet tal-liċenza taċ-ċirkolazzjoni u kull ammont ieħor dovut lill-Awtorità; u mbagħad wara sabiex jirrifondi kull bilanċ li jifdal favur dawk il-persuni li kien ikollhom jedd li jieħdu lura l-oġġett ta’ ingombru jew vettura bil-mutur.
-
-*5*
+(2) Il-Kummissarju jew l-Awtorità jew il-Kunsill jew l- Aġenzija għandu jutilizza l-flus tal-bejgħ l-ewwel sabiex jitħallas kull dritt dovut lilu għar-rimozzjoni jew għall-magazzinaġġ, kif ukoll il-ħlas tat-taxxa ta’ reġistrazzjoni, multi amministrattivi, tariffi amministrattivi, xi multi imposti b’ordni jew b’deċiżjoni tal-Qorti jew ta’ xi tribunal, arretrati tal-ħlasijiet tal-liċenza taċ-ċirkolazzjoni u kull ammont ieħor dovut lill-Awtorità; u mbagħad wara sabiex jirrifondi kull bilanċ li jifdal favur dawk il-persuni li kien ikollhom jedd li jieħdu lura l-oġġett ta’ ingombru jew vettura bil-mutur.
 
 (3) Kull bejgħ li jsir skont is-subregolament (1) għandu jsir jew b’irkant pubbliku jew wara sejħa għall-offerti.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Bastimenti Merkantili - Load Line Convention (S.L. 234.29)
 
-[L.S.234.29
-
-LOAD LINE CONVENTION
-
 LE{ISLAZZJONI SUSSIDJARJA 234.29
 
 REGOLI DWAR BASTIMENTI MERKANTILI -

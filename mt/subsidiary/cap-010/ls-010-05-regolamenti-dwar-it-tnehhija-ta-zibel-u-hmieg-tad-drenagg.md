@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Tneħħija ta Żibel u Ħmieġ tad-Drenaġġ"
-identifier: "S.L. 10.5"
+identifier: "S.L. 10.05"
 eli: "https://legislation.mt/eli/sl/10.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/10.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Tneħħija ta Żibel u Ħmieġ tad-Drenaġġ (S.L. 10.5)
+# Regolamenti dwar it-Tneħħija ta Żibel u Ħmieġ tad-Drenaġġ (S.L. 10.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 10.05**
 

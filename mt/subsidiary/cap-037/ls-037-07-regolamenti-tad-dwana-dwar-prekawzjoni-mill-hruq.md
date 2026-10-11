@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti tad-Dwana dwar Prekawzjoni mill-Ħruq"
-identifier: "S.L. 37.7"
+identifier: "S.L. 37.07"
 eli: "https://legislation.mt/eli/sl/37.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/37.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti tad-Dwana dwar Prekawzjoni mill-Ħruq (S.L. 37.7)
+# Regolamenti tad-Dwana dwar Prekawzjoni mill-Ħruq (S.L. 37.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 37.07**
 

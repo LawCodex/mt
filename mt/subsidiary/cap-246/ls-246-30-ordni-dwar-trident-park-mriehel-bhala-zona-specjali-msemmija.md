@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Trident Park, Mrieħel bħala Żona Speċjali Msemmija (S.L. 246.30)
 
-*1*
-
-MSEMMIJA [L.S.246.30 LEĠISLAZZJONI SUSSIDJARJA 246.30
+**LEĠISLAZZJONI SUSSIDJARJA 246.30**
 
 **ORDNI DWAR TRIDENT PARK, MRIEĦEL BĦALA**
 
@@ -39,11 +37,3 @@ Trident Park, Mrieħel li tikkonsisti fi proprjetà immobbli li tinsab fiż-żon
 ## 3. Żieda fl-Ewwel Skeda li tinsab mal-Att dwar l- Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti. Kap. 246.
 
 Trident Park, Mrieħel għandha tiġi miżjuda mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni mhux Residenti.
-
-*2*
-
-[L.S. 246.30 MSEMMIJA
-
-*3*
-
-MSEMMIJA [L.S.246.30

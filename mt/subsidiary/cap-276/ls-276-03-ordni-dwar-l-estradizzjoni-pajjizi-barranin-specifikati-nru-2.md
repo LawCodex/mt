@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estradizzjoni (Pajjiżi Barranin Speċifikati) (Nru. 2)"
-identifier: "S.L. 276.3"
+identifier: "S.L. 276.03"
 eli: "https://legislation.mt/eli/sl/276.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/276.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estradizzjoni (Pajjiżi Barranin Speċifikati) (Nru. 2) (S.L. 276.3)
-
-*1*
-
-(PAJJI|I BARRANIN SPE~IFIKATI)(NRU. 2) [L.S.276.03
+# Ordni dwar l-Estradizzjoni (Pajjiżi Barranin Speċifikati) (Nru. 2) (S.L. 276.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 276.03**
 
@@ -135,11 +131,7 @@ Polonja
 
 Portugall
 
-Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq inklu\\i Channel (PAJJI|I BARRANIN SPE~IFIKATI)(NRU. 2) [L.S.276.03
-
-Islands u Isle of Man
-
-*3*
+Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq inklu\\i Channel Islands u Isle of Man
 
 Repubblika ~eka
 

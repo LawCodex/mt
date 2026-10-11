@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Commonwealth ta' l-Awstralja"
-identifier: "S.L. 242.2"
+identifier: "S.L. 242.02"
 eli: "https://legislation.mt/eli/sl/242.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/242.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Commonwealth ta' l-Awstralja (S.L. 242.2)
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Commonwealth ta' l-Awstralja (S.L. 242.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 242.02**
 

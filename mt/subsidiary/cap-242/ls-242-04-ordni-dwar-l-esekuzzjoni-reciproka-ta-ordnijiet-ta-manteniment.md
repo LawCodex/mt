@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Manitoba (Kanada)"
-identifier: "S.L. 242.4"
+identifier: "S.L. 242.04"
 eli: "https://legislation.mt/eli/sl/242.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/242.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Manitoba (Kanada) (S.L. 242.4)
-
-ESEKUZZJONI RE~IPROKA TA’ ORDNIJIET TA’
-
-MANTENIMENT - MANITOBA (KANADA) [ L.S.242.04
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Manitoba (Kanada) (S.L. 242.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 242.04**
 

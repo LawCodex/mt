@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Kreditu ta’ Taxxa (Kwalifiki Għolja ta’ Edukazzjoni) (S.L. 123.180)
 
-*1*
-
-(KWALIFIKI GĦOLJA TA’ EDUKAZZJONI) [L.S.123.180 LEĠISLAZZJONI SUSSIDJARJA 123.180
+**LEĠISLAZZJONI SUSSIDJARJA 123.180**
 
 **REGOLI DWAR KREDITU TA’ TAXXA**
 
@@ -60,9 +58,7 @@ It-titolu ta’ dawn ir-regoli hu Regoli dwar Kreditu ta’ Taxxa (Kwalifiki Għ
 
 (d) meta l-individwu jkun impjegat f’kapaċità professjonali, il-kwalifika ma tkunx inġiebet biex jiġu mseħħa l-kondizzjonijiet, jew parti minnhom, li huwa kien meħtieġ li jissodisfa biex ikun jista’ jeżerċita dik il-professjoni. Għall-fini ta’ dan il-paragrafu, professjoni tfisser kariga li jista’ jkollhom dawk l-individwi biss li jkollhom kwalifiki akkademiċi definiti.
 
-*2    Kap. 452.   Kap. 594.*
-
-[L.S. 123.180 (KWALIFIKI GĦOLJA TA’ EDUKAZZJONI)
+*   Kap. 452.   Kap. 594.*
 
 (2) Individwu ma għandux jitqies li jkun impjegat whole-time sakemm ma jkunx impjegat whole-time jew impjegat whole-time b’sigħat imnaqqsa kif imfissra fl-Att dwar Impiegi u r-Relazzjonijiet Industrijali u attwalment jagħti servizzi taħt ingaġġ bejn prinċipal u impjegat li jkun ġie notifikat lill-Korporazzjoni mwaqqfa skont l-Att dwar is-Servizzi ta’ Impjieg u Taħriġ.
 
@@ -90,11 +86,9 @@ It-titolu ta’ dawn ir-regoli hu Regoli dwar Kreditu ta’ Taxxa (Kwalifiki Għ
 
 (2) Meta l-kwalifika rilevanti tkun kwalifika MQF 8, il-kreditu ta’ taxxa għandu jingħata kontra t-taxxa fuq l-income li jinqala’ matul is-sentejn li jiġu minnufih wara s-sena li fiha jkun intemm b’suċċess il-kors jew programm ta’ studju in kwistjoni.
 
-(3) Minkejja s-subregola (2), meta l-kwalifika rilevanti tkun kwalifika MQF 8 u qabel ikun ġab dik il-kwalifika l-individwu jkun ġab kwalifika MQF 7 u ħa kreditu ta’ taxxa skont dawn ir-regoli dwar dik il-kwalifika ta’ qabel, il-kreditu ta’ taxxa dwar il-kwalifika MQF 8 għandu jingħatalu biss għal dik is-sena ta’ stima li tibda fl-1 ta’ Jannar (KWALIFIKI GĦOLJA TA’ EDUKAZZJONI) [L.S.123.180 tas-sena li tiġi minnufih wara dik li fiha jkun intemm b’suċċess il-kors jew programm ta’ studju li jkun wassal għall-kwalifika MQF 8.
+(3) Minkejja s-subregola (2), meta l-kwalifika rilevanti tkun kwalifika MQF 8 u qabel ikun ġab dik il-kwalifika l-individwu jkun ġab kwalifika MQF 7 u ħa kreditu ta’ taxxa skont dawn ir-regoli dwar dik il-kwalifika ta’ qabel, il-kreditu ta’ taxxa dwar il-kwalifika MQF 8 għandu jingħatalu biss għal dik is-sena ta’ stima li tibda fl-1 ta’ Jannar tas-sena li tiġi minnufih wara dik li fiha jkun intemm b’suċċess il-kors jew programm ta’ studju li jkun wassal għall-kwalifika MQF 8.
 
 (4) Ħlief kif provdut fis-subregola (3), kreditu ta’ taxxa taħt dawn ir-regoli jista’ jingħata biss dwar kwalifika rilevanti waħda.
-
-*3*
 
 ## 5. Ma jingħatawx benefiċċi kumulattivi għall-istess kwalifika.
 
@@ -122,11 +116,7 @@ B = is-sena li fiha jkun inbeda l-kors jew programm ta’ studju
 
 ## 7. Kundizzjoni li l-benefiċjarju jibqa’ impjegat.
 
-(1) Il-kreditu ta’ taxxa taħt dawn ir-regoli jingħata bil-kondizzjoni li l-individwu jibqa’ impjegat whole-time kontinwament u jibqa’ jagħti s-servizzi tiegħu kollha jew il-biċċa l-kbira tagħhom f’Malta sat-tmiem tar-raba’ sena jew, fil-każ li tapplika għalih ir-regola 4(2), tal-ħames sena, wara s-sena li fiha jkun intemm [L.S. 123.180 (KWALIFIKI GĦOLJA TA’ EDUKAZZJONI)
-
-b’suċċess il-kors jew programm ta’ studju in kwistjoni.
-
-*4*
+(1) Il-kreditu ta’ taxxa taħt dawn ir-regoli jingħata bil-kondizzjoni li l-individwu jibqa’ impjegat whole-time kontinwament u jibqa’ jagħti s-servizzi tiegħu kollha jew il-biċċa l-kbira tagħhom f’Malta sat-tmiem tar-raba’ sena jew, fil-każ li tapplika għalih ir-regola 4(2), tal-ħames sena, wara s-sena li fiha jkun intemm b’suċċess il-kors jew programm ta’ studju in kwistjoni.
 
 *      L.S. 372.28*
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar it-Tisqija tal-Ħxejjex (Prekawzjonijiet dwar is-Saħħa) (S.L. 36.30)
 
-TISQIJA TAL-}XEJJEX
-
-(PREKAWZJONIJIET DWAR IS-SA}}A) [ L.S.36.30
-
 **LE{ISLAZZJONI SUSSIDJARJA 36.30**
 
 REGOLAMENTI DWAR IT-TISQIJA TAL-}XEJJEX (PREKAWZJONIJIET DWAR IS-SA}}A)

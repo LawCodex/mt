@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Bank Ċentrali ta’ Malta (Ħatra ta’ Awtorità Kompetenti dwar it-Tariffi tal-Interkambju għat-Transazzjonijiet ta’ Pagament permezz ta’ Kard"
-identifier: "S.L. 204.7"
+identifier: "S.L. 204.07"
 eli: "https://legislation.mt/eli/sl/204.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/204.7/20151016/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Bank Ċentrali ta’ Malta (Ħatra ta’ Awtorità Kompetenti dwar it-Tariffi tal-Interkambju għat-Transazzjonijiet ta’ Pagament permezz ta’ Kard (S.L. 204.7)
-
-ATT DWAR IL-BANK ĊENTRALI TA’ MALTA (HATRA TA’
-
-AWTORITÀ KOMPETENTI DWAR IT-TARIFFI TAL-INTERKAMBJU
-
-*1*
-
-GĦAT-TRANSAZZJONIJIET TA’ PAGAMENT PERMEZZ TA’ KARD) [L.S.204.07
+# Regolamenti dwar il-Bank Ċentrali ta’ Malta (Ħatra ta’ Awtorità Kompetenti dwar it-Tariffi tal-Interkambju għat-Transazzjonijiet ta’ Pagament permezz ta’ Kard (S.L. 204.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 204.07**
 

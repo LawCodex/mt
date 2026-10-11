@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income Mar-Repubblika tas-Slovenja (S.L. 123.70)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TAS-SLOVENJA [L.S.123.70
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.70**
 
 ORDNI DWAR EŻENZJONI MILL-ĦLAS TA’ TAXXA DOPPJA FUQ L-INCOME
@@ -103,9 +99,7 @@ Il-Ftehim għandu japplika wkoll għal kull taxxa identika jew sostanzjalment si
 
 \1. Għall-għanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma teħtiegx xort’oħra:
 
-(a) il-frażi ''Slovenja'' tfisser ir-Repubblika tas-Slovenja u, meta tiġi użata f’sens ġeografiku, tfisser it-territorju tas-Slovenja, inkluża l-area tal-baħar, qiegħ il-baħar u s-sottoswol adjaċenti għall-baħar territorjali, li FUQ L-INCOME MAR-REPUBBLIKA TAS-SLOVENJA [L.S.123.70 3
-
-fuqhom ir-Repubblika tas-Slovenja tista’ teżerċita d-drittijiet sovrani u l-ġurisdizzjoni tagħha skont il-leġislazzjoni tagħha u skont id-dritt internazzjonali;
+(a) il-frażi ''Slovenja'' tfisser ir-Repubblika tas-Slovenja u, meta tiġi użata f’sens ġeografiku, tfisser it-territorju tas-Slovenja, inkluża l-area tal-baħar, qiegħ il-baħar u s-sottoswol adjaċenti għall-baħar territorjali, li fuqhom ir-Repubblika tas-Slovenja tista’ teżerċita d-drittijiet sovrani u l-ġurisdizzjoni tagħha skont il-leġislazzjoni tagħha u skont id-dritt internazzjonali;
 
 (b) il-frażi ''Malta'' tfisser ir-Repubblika ta’ Malta u, meta użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra tal-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, kif ukoll kull area ta’ qiegħ il-baħar u s-sottoswol tagħha u l-kolonna tal-ilma sovrajaċenti u li tinsab adjaċenti għall-ibħra territorjali, fejn Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew kontroll skont il-liġi internazzjonali u skont il-liġi nazzjonali tagħha, inkluża l-leġislazzjoni tagħha li tirrigwarda l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
 
@@ -183,8 +177,6 @@ fuqhom ir-Repubblika tas-Slovenja tista’ teżerċita d-drittijiet sovrani u l-
 
 Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi ''stabbiliment permanenti'' għandha titqies li ma tinkludix:
 
-FUQ L-INCOME MAR-REPUBBLIKA TAS-SLOVENJA [L.S.123.70 5
-
 (a) l-użu ta’ faċilitajiet għall-iskop uniku ta’ ħażna, wiri jew kunsinna ta’ oġġetti jew merkanzija li jkunu proprjetà tal-impriża;
 
 (b) il-manutenzjoni ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà tal-impriża għall-iskop uniku ta’ ħażna, wiri jew kunsinna;
@@ -249,7 +241,7 @@ Meta l-profitti jkunu jinkludu oġġetti ta’ income li qegħdin jiġu trattati
 
 \1. Il-profitti ta’ impriża ta’ Stat Kontraenti mit-tħaddim ta’ bastimenti jew inġenji tal-ajru fi traffiku internazzjonali għandhom ikunu taxxabbli biss f’dak l- Istat.
 
-\2. Id-dispożizzjonijiet tal-paragrafu 1 għandhom ukoll japplikaw għal profitti mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali. FUQ L-INCOME MAR-REPUBBLIKA TAS-SLOVENJA [L.S.123.70 7
+\2. Id-dispożizzjonijiet tal-paragrafu 1 għandhom ukoll japplikaw għal profitti mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
 
 **Artikolu 9**
 
@@ -303,9 +295,7 @@ ishma, ishma konnessi mal-minjieri jew mal-fundaturi jew ma’ drittijiet oħra,
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 m’għandhomx japplikaw jekk is-sid benefiċjarju tal-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bħal dak għandhom japplikaw id-dispożizzjonijiet tal-Artikolu 7 jew tal-Artikolu 14, skont il-każ.
 
-\5. L-imgħax għandu jitqies li joriġina fi Stat Kontraenti meta min iħallas ikun dak l-Istat innifsu, sottodiviżjoni politika tiegħu, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, l-persuna li tkun qed tħallas l-imgħax, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, jkollha fi Stat Kontraenti stabbiliment FUQ L-INCOME MAR-REPUBBLIKA TAS-SLOVENJA [L.S.123.70 9
-
-permanenti jew bażi fissa li f’konnessjoni magħhom kien sar id-dejn li fuqu jitħallas l-imgħax, u dak l-imgħax jiġġarrab minn dak l-istabbiliment jew bażi fissa, għaldaqstant dak l-imgħax għandu jitqies li joriġina fl-Istat fejn ikunu jinsabu l-istabbiliment permanenti jew il-bażi fissa.
+\5. L-imgħax għandu jitqies li joriġina fi Stat Kontraenti meta min iħallas ikun dak l-Istat innifsu, sottodiviżjoni politika tiegħu, awtorità lokali jew residenti ta’ dak l-Istat. Meta, madankollu, l-persuna li tkun qed tħallas l-imgħax, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk le, jkollha fi Stat Kontraenti stabbiliment permanenti jew bażi fissa li f’konnessjoni magħhom kien sar id-dejn li fuqu jitħallas l-imgħax, u dak l-imgħax jiġġarrab minn dak l-istabbiliment jew bażi fissa, għaldaqstant dak l-imgħax għandu jitqies li joriġina fl-Istat fejn ikunu jinsabu l-istabbiliment permanenti jew il-bażi fissa.
 
 \6. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont tal-imgħax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-dispożizzjonijiet l-oħra ta’ dan il-Ftehim.
 
@@ -357,9 +347,7 @@ permanenti jew bażi fissa li f’konnessjoni magħhom kien sar id-dejn li fuqu 
 
 **Servizzi personali dipendenti**
 
-\1. Bla ħsara għad-dispożizzjonijiet tal-Artikoli 16, 18, 19 u 20, is-salarji, il-pagi u kumpens ieħor bħal dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi FUQ L-INCOME MAR-REPUBBLIKA TAS-SLOVENJA [L.S.123.70 11
-
-impieg għandhom ikunu taxxabbli biss f’dak l-Istat kemm-il darba l-impieg ma jiġix eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak Istat l-ieħor.
+\1. Bla ħsara għad-dispożizzjonijiet tal-Artikoli 16, 18, 19 u 20, is-salarji, il-pagi u kumpens ieħor bħal dak li jinkisbu minn residenti ta’ Stat Kontraenti dwar xi impieg għandhom ikunu taxxabbli biss f’dak l-Istat kemm-il darba l-impieg ma jiġix eżerċitat fl-Istat Kontraenti l-ieħor. Jekk l-impieg jiġi hekk eżerċitat, dak il-kumpens li jinkiseb minnu jista’ jiġi intaxxat f’dak Istat l-ieħor.
 
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Stat Kontraenti dwar impieg eżerċitat fl-Istat Kontraenti l-ieħor għandu jkun taxxabbli biss fl-Istat l-ewwel imsemmi jekk:
 
@@ -427,9 +415,7 @@ intaxxati f’dak l-Istat.
 
 **Studenti u apprendisti fil-kummerċ**
 
-Kull ħlas li student jew apprendist fil-kummerċ li jkun jew kien minnufih qabel ma jżur Stat Kontraenti residenti tal-Istat Kontraenti l-ieħor u li jkun preżenti FUQ L-INCOME MAR-REPUBBLIKA TAS-SLOVENJA [L.S.123.70 13
-
-fl-ewwel imsemmi Stat unikament għall-għan tal-edukazzjoni jew it-taħriġ tiegħu, jirċievi għall-fini tal-mantniment, l-edukazzjoni jew it-taħriġ tiegħu m’għandux jiġi intaxxat f’dak l-Istat, sakemm dawk il-ħlasijiet joriġinaw minn għejjun li ma jkunux f’dak l-Istat.
+Kull ħlas li student jew apprendist fil-kummerċ li jkun jew kien minnufih qabel ma jżur Stat Kontraenti residenti tal-Istat Kontraenti l-ieħor u li jkun preżenti fl-ewwel imsemmi Stat unikament għall-għan tal-edukazzjoni jew it-taħriġ tiegħu, jirċievi għall-fini tal-mantniment, l-edukazzjoni jew it-taħriġ tiegħu m’għandux jiġi intaxxat f’dak l-Istat, sakemm dawk il-ħlasijiet joriġinaw minn għejjun li ma jkunux f’dak l-Istat.
 
 **Artikolu 22**
 
@@ -485,9 +471,7 @@ fl-Istat Kontraenti l-ieħor ma għandux jinġabar inqas favorevolment f’dak I
 
 **Skambju ta’ informazzjoni**
 
-\1. L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jiskambjaw dik l-informazzjoni li tista’ tkun meħtieġa għat-twettiq tad-dispożizzjonijiet ta’ dan il- FUQ L-INCOME MAR-REPUBBLIKA TAS-SLOVENJA [L.S.123.70 15
-
-Ftehim jew tal-liġijiet domestiċi tal-Istati Kontraenti għar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir taħthom ma jkunx kuntrarju għall-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li tiġi riċevuta mill-Istat Kontraenti għandha tiġi ttrattata bħala waħda sigrieta bl-istess mod bħall-informazzjoni miksuba taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-deċiżjoni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet għandhom jużaw dik l-informazzjoni biss għal dawk l-għanijiet. Huma jistgħu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuħ jew f’deċiżjonijiet ġudizzjarji.
+\1. L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jiskambjaw dik l-informazzjoni li tista’ tkun meħtieġa għat-twettiq tad-dispożizzjonijiet ta’ dan il- Ftehim jew tal-liġijiet domestiċi tal-Istati Kontraenti għar-rigward ta’ taxxi koperti bil-Ftehim sakemm l-intaxxar li jsir taħthom ma jkunx kuntrarju għall-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikolu 1. Kull informazzjoni li tiġi riċevuta mill-Istat Kontraenti għandha tiġi ttrattata bħala waħda sigrieta bl-istess mod bħall-informazzjoni miksuba taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, jew id-deċiżjoni ta’ appelli dwar, it-taxxi koperti bil-Ftehim. Dawk il-persuni jew awtoritajiet għandhom jużaw dik l-informazzjoni biss għal dawk l-għanijiet. Huma jistgħu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuħ jew f’deċiżjonijiet ġudizzjarji.
 
 \2. F’ebda każ ma għandhom id-dispożizzjonijiet tal-paragrafu 1 jiftiehmu bħala li jimponu fuq Stat Kontraenti l-obbligu:
 
@@ -551,7 +535,7 @@ Joseph Scicluna Samuel Zbogar
 
 Segretarju Permanenti Segretarju għall-Istat
 
-Ministeru tal-Finanzi Ministeru tal-Affarijiet Barranin FUQ L-INCOME MAR-REPUBBLIKA TAS-SLOVENJA [L.S.123.70 17
+Ministeru tal-Finanzi Ministeru tal-Affarijiet Barranin
 
 **PROTOKOLL**
 

@@ -17,13 +17,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science in Information Technology (Honours) - B.Sc. IT (Hons) - taħt il-patroċinju tal-Fakultà tat-Teknoloġija tal-Informazzjoni u l-Komunikazzjoni (S.L. 327.270)
 
-TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - TAĦT IL-
-
-PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA TAL-
-
-*1*
-
-INFORMAZZJONI U L-KOMUNIKAZZJONI [L.S.327.270 LEĠISLAZZJONI SUSSIDJARJA 327.270
+**LEĠISLAZZJONI SUSSIDJARJA 327.270**
 
 ORDINAMENTI GĦALL GRAD TA’ BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY
 
@@ -73,12 +67,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew fl-1 ta’ Di�
 
 \*Dawn ir-regolamenti ġew imħassra bl-Avviż Legali 282 tal-2022.
 
-TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - TAĦT IL- PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA TAL-
-
-*2*
-
-[L.S.327.270 INFORMAZZJONI U L-KOMUNIKAZZJONI
-
 (ċ) Software Development.
 
 (2) L-oqsma ta’ studju offruti f’xi sena partikolari u l-oqsma li jistgħu jew ma jistgħux jittieħdu flimkien ikunu ppubblikati mill- Bord fiż-żmien tas-sejħa għall-applikazzjonijiet.
@@ -115,13 +103,7 @@ jew
 
 \*Dawn japplikaw għall-korsijiet li jibdew minn Ottubru 2023 jew wara.
 
-TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - TAĦT IL-
-
-PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA TAL-
-
-*3*
-
-INFORMAZZJONI U L-KOMUNIKAZZJONI [L.S.327.270 (ii) wieħed minn dawn li ġejjin:
+(ii) wieħed minn dawn li ġejjin:
 
 (1) id-Diploma tas-City and Guilds of London Institute Course No. 7235 fl-Applied Information Technology; jew
 
@@ -151,13 +133,7 @@ jew
 
 (1) id-Diploma tas-City and Guilds of London Institute Course No. 7235 fl-Applied Information Technology; jew
 
-(2) l-MCAST-BTEC Extended Diploma in IT; jew TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - TAĦT IL- PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA TAL-
-
-*4*
-
-[L.S.327.270 INFORMAZZJONI U L-KOMUNIKAZZJONI
-
-(3) l-MCAST Advanced Diploma in IT; jew
+(2) l-MCAST-BTEC Extended Diploma in IT; jew (3) l-MCAST Advanced Diploma in IT; jew
 
 (4) l-MCAST-BTEC Higher National Diploma (HND) fil-Computing,
 
@@ -185,13 +161,7 @@ jew
 
 (iv) waħda minn dawn:
 
-(1) id-Diploma tas-City and Guilds of London TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - TAĦT IL-
-
-PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA TAL-
-
-*5*
-
-INFORMAZZJONI U L-KOMUNIKAZZJONI [L.S.327.270 Institute Course No. 7235 fl-Applied Information Technology;
+(1) id-Diploma tas-City and Guilds of London Institute Course No. 7235 fl-Applied Information Technology;
 
 (2) l-MCAST-BTEC Higher National Diploma (HND) fil-Computing;
 
@@ -218,12 +188,6 @@ jew
 (ii) ċertifikat li għaddew fis-Systems of Knowledge fil-Livell Intermedju tal-Matrikola; u
 
 (iii) ċertifikat li għaddew fil-Livell Avvanzat tal- Matrikola bi Grad Ċ jew aħjar fil-Matematika Pura jew f’livell simili ta’ eżamijiet oħra rikonoxxuti mis-Senat għall-għan tar- Regolamenti għad-Dħul; u
-
-TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - TAĦT IL- PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA TAL-
-
-*6*
-
-[L.S.327.270 INFORMAZZJONI U L-KOMUNIKAZZJONI
 
 (iv) waħda minn dawn:
 
@@ -265,15 +229,11 @@ L-istudenti li jtemmu b’suċċess taqsimiet studju li għalihom hemm assenjati
 
 L-istudenti li jtemmu b’suċċess taqsimiet studju li għalihom hemm assenjati 120 krettu ECTS u li jagħżlu li ma jkomplux il-Kors jew, wara li komplew, ma jtemmux il-Kors b’suċċess, jkunu eliġibbli għall-Higher Diploma.
 
-TECHNOLOGY (HONOURS) - B.SC. IT (HONS) - TAĦT IL-
+## 10. Klassifikazzjoni tar- Rikonoxximent.
 
-PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA TAL-
+*Sostitwit: A.L. 13 tal-2020.*
 
-*7*
-
-INFORMAZZJONI U L-KOMUNIKAZZJONI [L.S.327.270 10. (1) Il-Marka Medja Finali Mwieżna għall-klassifikazzjoni tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-Kors, b’kull sena tingħata l-piż kif ġej:
-
-*Klassifikazzjoni tar- Rikonoxximent. Sostitwit: A.L. 13 tal-2020.*
+(1) Il-Marka Medja Finali Mwieżna għall-klassifikazzjoni tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-Kors, b’kull sena tingħata l-piż kif ġej:
 
 Il-Marka Medja tal-Ewwel Sena 20%
 

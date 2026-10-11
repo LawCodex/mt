@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Kirjiet li Jirrigwardaw l-Uffiċċju tal-Posta"
-identifier: "S.L. 254.9"
+identifier: "S.L. 254.09"
 eli: "https://legislation.mt/eli/sl/254.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/254.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Kirjiet li Jirrigwardaw l-Uffiċċju tal-Posta (S.L. 254.9)
+# Ordni dwar Kirjiet li Jirrigwardaw l-Uffiċċju tal-Posta (S.L. 254.09)
 
 **LEĠISLAZZJONI SUSSIDJARJA 254.09**
 

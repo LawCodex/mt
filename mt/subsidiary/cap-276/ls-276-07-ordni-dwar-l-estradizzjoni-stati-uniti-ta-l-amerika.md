@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estradizzjoni (Stati Uniti ta' l-Amerika)"
-identifier: "S.L. 276.7"
+identifier: "S.L. 276.07"
 eli: "https://legislation.mt/eli/sl/276.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/276.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estradizzjoni (Stati Uniti ta' l-Amerika) (S.L. 276.7)
+# Ordni dwar l-Estradizzjoni (Stati Uniti ta' l-Amerika) (S.L. 276.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 276.07**
 

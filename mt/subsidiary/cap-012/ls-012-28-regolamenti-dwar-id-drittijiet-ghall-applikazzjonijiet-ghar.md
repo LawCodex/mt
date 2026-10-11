@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet għall-Applikazzjonijiet għar-Rikonoxximent Reċiproku ta’ Kwalifiki għall-Avukati (S.L. 12.28)
 
-DRITTIJIET GĦALL-APPLIKAZZJONIJIET GĦAR-
-
-RIKONOXXIMENT REĊIPROKU TA’ KWALIFIKI
-
-*1*
-
-GĦALL-AVUKATI [L.S.12.28 LEĠISLAZZJONI SUSSIDJARJA 12.28
+**LEĠISLAZZJONI SUSSIDJARJA 12.28**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET GĦALL-**
 

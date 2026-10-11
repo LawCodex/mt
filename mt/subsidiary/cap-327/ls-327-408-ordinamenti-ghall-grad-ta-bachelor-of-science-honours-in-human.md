@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Bachelor of Science (Honours) in Human Language Technology - B.Sc. (Hons) HLT - taħt il-patroċinju tal-Istitut tal-Lingwistika (S.L. 327.408)
 
-HUMAN LANGUAGE TECHNOLOGY - B.Sc. (Hons) HLT
-
-*1*
-
-\- TAĦT IL-PATROêINJU TAL-ISTITUT TAL-LINGWISTIKA [L.S.327.408
-
 **LEĀISLAZZJONI SUSSIDJARJA 327.408**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN HUMAN LANGUAGE TECHNOLOGY - B.Sc. (Hons) HLT - TAĦT IL-
@@ -67,11 +61,7 @@ Il-kors jinfirex fuq medda ta’ tliet snin ta’ studju fuq baŜi full-time jew
 
 ## 6. Pubblikazzjoni tal-programm ta’ studju.
 
-Il-programm ta’ studju jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur HUMAN LANGUAGE TECHNOLOGY - B.Sc. (Hons) HLT [L.S.327.408 - TAĦT IL-PATROêINJU TAL-ISTITUT TAL-LINGWISTIKA
-
-qabel il-bidu tal-Kors.
-
-*2*
+Il-programm ta’ studju jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-Kors.
 
 ## 7. Klassifikazzjoni tar- Rikonoxximenti għall-Higher Diploma.
 

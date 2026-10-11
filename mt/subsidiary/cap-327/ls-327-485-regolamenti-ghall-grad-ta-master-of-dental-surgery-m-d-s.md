@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti għall-Grad ta’ Master of Dental Surgery - M.D.S (S.L. 327.485)
 
-*1*
-
-MASTER OF DENTAL SURGERY - M.D.S. [L.S.327.485
-
 **SUBSIDIARY LEGISLATION 327.485**
 
 **REGOLAMENTI TAL-KORS GĦALL-GRAD TA’**
@@ -68,11 +64,7 @@ Biex ikunu eliġibbli għall-għoti tal-Grad, l-istudenti jridu jkunu:
 
 (2) Biex japplikaw għad-dħul fil-kors l-applikanti għandhom, barra li jissodisfaw ir-rekwiżiti għad-dħul bħala studenti regolari skont ir-Regolamenti għad-Dħul, jissodisfaw ir-Rekwiżiti Speċjali għall-kors li ġejjin u jkunu:
 
-(a) għaddew bi Grad Ċ jew aħjar fil-Livell Avvanzat tal- [L.S.327.485 MASTER OF DENTAL SURGERY - M.D.S.
-
-Eżami tal-Matrikola fil-Bijoloġija u fil-Kimika; u
-
-*2*
+(a) għaddew bi Grad Ċ jew aħjar fil-Livell Avvanzat tal- Eżami tal-Matrikola fil-Bijoloġija u fil-Kimika; u
 
 (b) għaddew bi Grad Ċ jew aħjar fil-Livell Intermedju tal- Eżami tal-Matrikola fil-Fiżika,
 
@@ -95,10 +87,6 @@ sakemm li r-riżultati kollha f’dawn ir-Rekwiżiti Speċjali għall-kors ikunu
 (1) Il-kors għandu jinfirex fuq perijodu ta’ ħames snin u jkun maqsum f’żewġ partijiet: il-Parti ta’ Qabel il-Klinika, li tieħu sentejn, jiġifieri l-Ewwel u t-Tieni Sena, u l-Parti Klinika, li tieħu tlett snin, jiġifieri, it-Tielet, ir-Raba’ u l-Hames Sena.
 
 (2) Ħlief bil-permess tal-Bord, l-istudenti għandhom isegwu l-kors mingħajr sospensjoni jew ripetizzjoni. Il-Bord jista’ jħalli lill-istudenti jissospendu l-istudji tagħhom jew jirrepetu sena darba biss f’kull waħda mill-partijiet tal-kors.
-
-*3*
-
-MASTER OF DENTAL SURGERY - M.D.S. [L.S.327.485
 
 (3) Il-Bord jista’ jħalli lill-istudenti jagħmlu sena ta’ studju addizzjonali, jekk eliġibbli skont dawn ir-regolamenti.
 
@@ -148,11 +136,7 @@ Medda tal-Marki Grad
 
 (1) Il-metodu tal-valutazzjoni għall kull taqsima studju għandu jkun indikat fid-deskrizzjoni tat-taqsima studju u ppubblikat fil-katalgu tat-taqsimiet studju. Ir-riżultat ta’ kull taqsima studju għandu jinkludi l-komponenti kollha tal-valutazzjoni ta’ dik it-taqsima studju.
 
-(2) Fi kwalunkwe sena akkademika, l-istudenti li jeħlu f’taqsimiet studju li għalihom hemm assenjati mhux aktar minn 16- [L.S.327.485 MASTER OF DENTAL SURGERY - M.D.S.
-
-il krettu ECTS, jew żewġ taqsimiet studju li bejniethom hemm assenjati mhux aktar minn 20 krettu ECTS, u li ma jkunux eliġibbli biex jgħaddu b’kumpens, għandhom jitħallew jagħmlu valutazzjoni supplimentari f’Settembru tal-istess sena.
-
-*4*
+(2) Fi kwalunkwe sena akkademika, l-istudenti li jeħlu f’taqsimiet studju li għalihom hemm assenjati mhux aktar minn 16-il krettu ECTS, jew żewġ taqsimiet studju li bejniethom hemm assenjati mhux aktar minn 20 krettu ECTS, u li ma jkunux eliġibbli biex jgħaddu b’kumpens, għandhom jitħallew jagħmlu valutazzjoni supplimentari f’Settembru tal-istess sena.
 
 (3) L-istudenti li wara s-sessjoni supplimentari jeħlu f’taqsimiet-studju li għalihom hemm assenjati 10 kretti ECTS jew anqas, wara pariri akkademiċi mid-Dekan u/jew mill-Kap tad- Dipartiment ikkonċernat, jistgħu jingħataw l-għażla mill-Bord, li jew:
 
@@ -170,11 +154,7 @@ il krettu ECTS, jew żewġ taqsimiet studju li bejniethom hemm assenjati mhux ak
 
 (7) Minkejja d-dispożizzjonijiet tas-subregolament (3), fil-każ ta’ valutazzjonijiet li jistgħu jsiru darba biss matul sena akkademika u għalhekk sessjoni supplimentari ma tkunx possibbli, l-istudenti li jeħlu f’dawn il-valutazzjonijiet jew li ma jkunux jistgħu jiġu evalwati f’dawn it-taqsimiet studju għal xi raġuni li s- Senat jikkunsidra bħala valida jitħallew ikomplu għas-sena ta’ wara tal-Kors, sakemm li dawn l-istudenti jgħaddu minn dawn il-valutazzjonijiet f’dik is-sena, jew f’sena addizzjonali ta’ studju, jekk eliġibbli skont dawn ir-regolamenti.
 
-(8) L-istudenti li wara s-sessjoni supplimentari jeħlu f’taqsimiet studju li għalihom hemm assenjati aktar minn 10 kretti ECTS ma jitħallewx ikomplu għas-sena ta’ wara tal-kors, iżda MASTER OF DENTAL SURGERY - M.D.S. [L.S.327.485
-
-jkunu meħtieġa li jirrepetu s-sena jekk eliġibbli skont dawn ir-regolamenti.
-
-*5*
+(8) L-istudenti li wara s-sessjoni supplimentari jeħlu f’taqsimiet studju li għalihom hemm assenjati aktar minn 10 kretti ECTS ma jitħallewx ikomplu għas-sena ta’ wara tal-kors, iżda jkunu meħtieġa li jirrepetu s-sena jekk eliġibbli skont dawn ir-regolamenti.
 
 (9) F’sena ta’ ripetizzjoni, l-istudenti jkunu meħtieġa jsegwu u jkunu evalwati fit-taqsimiet studju kollha tal-programm ta’ studju ta’ dik is-sena, anke f’dawk li jistgħu jkunu għaddew minnhom qabel. Kwalunkwe marka/grad tista’ tingħata fis-sena ta’ ripetizzjoni u din għandha tissostitwixxi l-marki/gradi li kienu miksuba fis-sena ta’ qabel.
 
@@ -212,10 +192,6 @@ Marka Medja Mwieżna tar-Raba’ Sena 25%
 
 **70% - 79% Għadda b’Mertu**
 
-*6*
-
-[L.S.327.485 MASTER OF DENTAL SURGERY - M.D.S.
-
 45% - 69% Għadda.
 
 (4) Il-Bord għall-Klassifikazzjoni tal-Grad, fid-diskrezzjoni tiegħu, jista’ jagħti Grad bi klassifikazzjoni ogħla minn dik indikata fis-subregolament (3) lil studenti li l-Marka Medja Finali Mwieżna tagħhom hija sa tliet marki anqas mill-minimu għall-klassifikazzjoni, sakemm li l-istudenti kollha li jiksbu l-istess Marka Medja Finali Mwieżna jew ogħla f’dik il- klassi għandhom jingħataw il-klassifikazzjoni l-għolja. F’dawn il-każijiet, il-Bord għall-Klassifikazzjoni tal-Grad ikun meħtieġ iżomm il-minuti tad-deċiżjoni tiegħu u l-ġustifikazzjoni għaliha.
@@ -248,8 +224,6 @@ Il-Marka Medja Finali Mwieżna għall-grad ta’ Bachelor in General Studies (B.
 
 **45% - 54% Kategorija III.**
 
-*7*
+## 14. Dispożizzjoni ġenerali. L.S. 327.236
 
-MASTER OF DENTAL SURGERY - M.D.S. [L.S.327.485 14. Għal materji li m’hemmx dispożizzjonijiet dwarhom f’dawn ir-regolamenti, il-Bord għandu jkun iggwidat mid-dispożizzjonijiet tar-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, kif applikabbli.
-
-*Dispożizzjoni ġenerali. L.S. 327.236*
+Għal materji li m’hemmx dispożizzjonijiet dwarhom f’dawn ir-regolamenti, il-Bord għandu jkun iggwidat mid-dispożizzjonijiet tar-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, kif applikabbli.

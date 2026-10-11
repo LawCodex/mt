@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science - M.Sc. - taħt il-patroċinju tal-Fakultà tat-Teknoloġija tal-Informazzjoni u l-Komunikazzjoni (S.L. 327.344)
 
-IL-PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA
-
-*1*
-
-TAL-INFORMAZZJONI U L-KOMUNIKAZZJONI [L.S.327.344
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.344**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER**
@@ -74,11 +68,7 @@ Il-kors ikun offrut f’kull qasam ta’ studju li jaqa’ taħt ir-responsabbil
 
 (a) grad tal-ewwel ċiklu f’Livell 6 skont il-Qafas Malti tal- Kwalifiki u miksub mill-anqas fit-Tieni Klassi bl- Unuri jew Kategorija II fl-ICT jew f’qasam b’komponent qawwi fl- ICT, jew fl-Inġinerija;
 
-sakemm li f’oqsma ta’ Signal Processing and Machine IL-PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA [L.S.327.344 TAL-INFORMAZZJONI U L-KOMUNIKAZZJONI
-
-Learning, jew Data Science, l-applikanti jistgħu jippreżentaw grad f’qasam ta’ studju meqjus xieraq mill-Bord; jew
-
-*2*
+sakemm li f’oqsma ta’ Signal Processing and Machine Learning, jew Data Science, l-applikanti jistgħu jippreżentaw grad f’qasam ta’ studju meqjus xieraq mill-Bord; jew
 
 (b) grad tal-ewwel ċiklu f’Livell 6 skont il-Qafas Malti tal- Kwalifiki miksub mill-anqas fit-Tielet Klassi bl-Unuri jew Kategorija III fl-oqsma kif imsemmi f’paragrafu (a) hawn fuq, sakemm li l-applikanti għandhom jissodisfaw lill-Bord tal-Istudju li huma għandhom kwalifiki oħra, jew esperjenza ta’ xogħol rilevanti, miksub wara li lestew il-grad tal-ewwel ċiklu. Il-Bord tal-Istudji jista’ jirrakkomanda lill-Kumitat tad-Dħul tal-Fakultà li d-dħul ta’ dawn l-applikanti jsir kondizzjonalment skont ir-riżultat ta’ intervista li ssir għal dan il-għan; jew
 
@@ -102,11 +92,7 @@ Learning, jew Data Science, l-applikanti jistgħu jippreżentaw grad f’qasam t
 
 (1) Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew l-ekwivalenti fi studju fuq bażi part-time.
 
-(2) Il-kors jista’ jinkludi perijodu tas-sajf kif speċifikat fil- IL-PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA
-
-*3*
-
-TAL-INFORMAZZJONI U L-KOMUNIKAZZJONI [L.S.327.344 programm ta’ studju.
+(2) Il-kors jista’ jinkludi perijodu tas-sajf kif speċifikat fil-programm ta’ studju.
 
 ## 6. Programm ta’ studju.
 
@@ -150,11 +136,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 krettu ECTS, jekk ikunu qegħdin isegwu l-kors full-time, jew mhux aktar minn 10 kretti ECTS jekk ikunu qegħdin isegwu l-kors part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom matul is-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
-(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju, IL-PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA [L.S.327.344 TAL-INFORMAZZJONI U L-KOMUNIKAZZJONI
-
-jkunu meqjusa li weħlu mill-kors.
-
-*4*
+(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju, jkunu meqjusa li weħlu mill-kors.
 
 ## 12. Dissertazzjonijiet fi programmi ta’ studju prinċipalment mgħallma.
 
@@ -180,13 +162,11 @@ jkunu meqjusa li weħlu mill-kors.
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir matul il-kors wara l-approvazzjoni tal-proposta dettaljata li għandha tinkludi titlu proviżorju għad-dissertazzjoni. Din il-proposta dettaljata ta’ riċerka għandha tkun sottomessa lill-Bord tal-Istudji għall-approvazzjoni qabel it-tmiem tal-ewwel semestru. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
-IL-PATROĊINJU TAL-FAKULTÀ TAT-TEKNOLOĠIJA
+## 14. Dissertazzjoni individwali.
 
-*5*
+*Emendat: A.L. 334 tal-2016; A.L. 274 tal-2020.*
 
-TAL-INFORMAZZJONI U L-KOMUNIKAZZJONI [L.S.327.344 14. (1) Fi programmi ta’ studju prinċipalment bir-riċerka, imfassla skont il-paragrafu (b) tal-ordinament 8, l-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali (80 krettu ECTS) ta’ mhux aktar minn 35,000 kelma skont il-linji gwida maħruġin mill-Bord. Id-dissertazzjoni għandha tissodisfa wkoll lill-Bord rigward il-kontenut u l-preżentazzjoni.
-
-*Dissertazzjoni individwali. Emendat: A.L. 334 tal-2016; A.L. 274 tal-2020.*
+(1) Fi programmi ta’ studju prinċipalment bir-riċerka, imfassla skont il-paragrafu (b) tal-ordinament 8, l-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali (80 krettu ECTS) ta’ mhux aktar minn 35,000 kelma skont il-linji gwida maħruġin mill-Bord. Id-dissertazzjoni għandha tissodisfa wkoll lill-Bord rigward il-kontenut u l-preżentazzjoni.
 
 (2) L-applikazzjonijiet għal dan it-tip ta’ Master ta’ riċerka għandhom ikunu approvati mill-Bord u għandhom jinkludu d-dettalji li ġejjin:
 

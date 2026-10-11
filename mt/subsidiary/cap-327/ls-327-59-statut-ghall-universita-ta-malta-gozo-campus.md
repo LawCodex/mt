@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Statut għall-Università ta’ Malta - Gozo Campus (S.L. 327.59)
 
-STATUT G}ALL-UNIVERSITÀ TA’ MALTA -
-
-*1*
-
-GO|O CAMPUS [L.S.327.59
-
 LE{ISLAZZJONI SUSSIDJARJA 327.59
 
 STATUT G}ALL-UNIVERSITÀ TA’ MALTA - GOZO

@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Gradi ta’ Bachelor of Communications (Honours) - B.Comms(Hons) - u Bachelor of Communications - B.Comms - taħt il-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien (S.L. 327.239)
 
-*1*
-
-OURS) - B.COMMS (HONS) [L.S.327.239 LEĠISLAZZJONI SUSSIDJARJA 327.239
+**LEĠISLAZZJONI SUSSIDJARJA 327.239**
 
 **ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF**
 
@@ -71,10 +69,6 @@ Media Studies and Journalism.
 ## 4. Ir-Rekwiżiti għad- Dħul fil-Kors. Renumerat: A.L. 10 tal-2026.
 
 Biex ikunu rreġistrati bħala studenti regolari fil-Kors, l-applikanti għandhom, minbarra li jissodisfaw ir-rekwiżiti ġenerali għad-dħul speċifikati fir-Regolamenti għad-Dħul, ikunu għaddew mill-Ingliż fil-Livell tal-Matrikola Intermedju, jew l-ekwivalenti tiegħu.
-
-*2*
-
-[L.S.327.239 OURS) - B.COMMS (HONS)
 
 ## 5. It-Tul tal-Kors. Enumerat: A.L. 10 tal-2026.
 

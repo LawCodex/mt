@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar ir-Reġistrazzjoni ta' l-Artijiet"
-identifier: "S.L. 296.1"
+identifier: "S.L. 296.01"
 eli: "https://legislation.mt/eli/sl/296.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/296.1/20240712/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar ir-Reġistrazzjoni ta' l-Artijiet (S.L. 296.1)
+# Regoli dwar ir-Reġistrazzjoni ta' l-Artijiet (S.L. 296.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 296.01**
 

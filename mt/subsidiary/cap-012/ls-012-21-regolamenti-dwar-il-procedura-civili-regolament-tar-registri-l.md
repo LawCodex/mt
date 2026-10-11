@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Proċedura Ċivili (Regolament tar-Reġistri, l-Arkivji u l-Funzjonijiet tad-Direttur tal-Qrati (Għawdex) u Uffiċjali Eżekuttivi oħra tal-Qorti) (S.L. 12.21)
 
-ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI
-
-*1*
-
-(GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI) [S.L.12.21
-
 **LEĠISLAZZJONI SUSSIDJARJA 12.21**
 
 **REGOLAMENTI DWAR IL-PROĊEDURA ĊIVILI**
@@ -58,11 +52,11 @@ Għall-finijiet ta’ dawn ir-regolamenti:
 
 "tribunal" tinkludi dak it-tribunal, bord jew kummissjoni mwaqqfa bil-liġi jew dak l-uffiċjal pubbliku li jkollu l-kariga mwaqqfa bil-liġi li, skond ma hemm fil-leġislazzjoni rispettiva li twaqqaf dawk it-tribunali, bordijiet, kumitati u uffiċċji pubbliċi, jużaw is-servizzi ta’ reġistru mmexxi mid-Direttur Ġenerali tal- Qrati jew mid-Direttur tal-Qrati u t-Tribunali f’Għawdex, skond il-każ.
 
-*2*
+## 3. Diviżjoni tal-Qrati tal-Ġustizzja u funzjonijiet tad- Direttur Ġenerali tal-Qrati.
 
-ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI [S.L.12.21 (GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI) 3. (1) Għandu jibqa’ jkun hemm f’Malta diviżjoni tal-gvern imsejħa "Diviżjoni tal-Qrati tal-Ġustizzja" li jkollħa bħala kap tagħha d-Direttur Ġenerali tal-Qrati.
+*Emendat: A.L. 46 tal-2008.*
 
-*Diviżjoni tal-Qrati tal-Ġustizzja u funzjonijiet tad- Direttur Ġenerali tal-Qrati. Emendat: A.L. 46 tal-2008.*
+(1) Għandu jibqa’ jkun hemm f’Malta diviżjoni tal-gvern imsejħa "Diviżjoni tal-Qrati tal-Ġustizzja" li jkollħa bħala kap tagħha d-Direttur Ġenerali tal-Qrati.
 
 (2) Id-Direttur Ġenerali tal-Qrati għandu jaqdi l-funzjonijiet tiegħu jew personalment jew tramiti xi uffiċjal eżekuttiv tal-qorti elenkat fir-regolament 8(2)(a) u (ċ) sa (m) (it-tnejn inklużi).
 
@@ -90,13 +84,7 @@ ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI [S.L.12.21 (GĦAWDEX) U UFFIĊJA
 
 (7) Seduti li ma jkunux presjeduti minn imħallfin u maġistrati għandhom isiru, jekk ma jkun hemm ebda spazju disponibbli matul l-għodwa, wara li jintemmu s-seduti presjeduti minn imħallfin u maġistrati.
 
-(8) Meta jkunu meħtieġa faċilitajiet ta’ video conferencing, id- ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI
-
-*3*
-
-(GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI) [S.L.12.21
-
-Direttur Ġenerali tal-Qrati jew id-delegat tiegħu għandhom jiżġuraw li l-ewwel preferenza għandha tingħata lil dik il-qorti li jkollha bżonn tuża awla li jkollha faċilitajiet bħal dawk u kull qorti oħra jew tribunal ieħor li normalment jużaw dik l-awla partikolari jew li kienu digà ġew assenjati dik l-awla għandhom, bla ħsara għad-disponibilità ta’ spazju, ikunu provduti b’awla alternattiva.
+(8) Meta jkunu meħtieġa faċilitajiet ta’ video conferencing, id- Direttur Ġenerali tal-Qrati jew id-delegat tiegħu għandhom jiżġuraw li l-ewwel preferenza għandha tingħata lil dik il-qorti li jkollha bżonn tuża awla li jkollha faċilitajiet bħal dawk u kull qorti oħra jew tribunal ieħor li normalment jużaw dik l-awla partikolari jew li kienu digà ġew assenjati dik l-awla għandhom, bla ħsara għad-disponibilità ta’ spazju, ikunu provduti b’awla alternattiva.
 
 (9) Kull awla fil-bini tad-Diviżjoni tal-Qrati tal-Ġustizzja għandu jkollha numru.
 
@@ -124,11 +112,7 @@ Direttur Ġenerali tal-Qrati jew id-delegat tiegħu għandhom jiżġuraw li l-ew
 
 (6) Seduti li ma jkunux presjeduti minn imħallfin u maġistrati għandhom isiru, jekk ma jkun hemm ebda spazju disponibbli matul l-għodwa, wara li jintemmu s-seduti presjeduti minn imħallfin u maġistrati.
 
-(7) Meta jkunu meħtieġa faċilitajiet ta’ video conferencing, id- Direttur tal-Qrati (Għawdex) jew id-delegat tiegħu għandhom jiżġuraw li l-ewwel preferenza tingħata lil dik il-qorti li jkollha bżonn tuża awla li jkollha dawk il-faċilitajiet u kull qorti oħra jew tribunal ieħor li normalment jużaw dik l-awla partikolari jew li ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI [S.L.12.21 (GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI)
-
-kienu digà ġew assenjati dik l-awla għandhom, bla ħsara għad-disponibilità ta’ spazju, ikunu provduti b’awla alternattiva.
-
-*4*
+(7) Meta jkunu meħtieġa faċilitajiet ta’ video conferencing, id- Direttur tal-Qrati (Għawdex) jew id-delegat tiegħu għandhom jiżġuraw li l-ewwel preferenza tingħata lil dik il-qorti li jkollha bżonn tuża awla li jkollha dawk il-faċilitajiet u kull qorti oħra jew tribunal ieħor li normalment jużaw dik l-awla partikolari jew li kienu digà ġew assenjati dik l-awla għandhom, bla ħsara għad-disponibilità ta’ spazju, ikunu provduti b’awla alternattiva.
 
 (8) Kull awla fil-bini tal-Qrati ta’ Għawdex għandu jkollha numru.
 
@@ -178,13 +162,7 @@ kienu digà ġew assenjati dik l-awla għandhom, bla ħsara għad-disponibilità
 
 (2) Ir-Reġistru msemmi fis-subregolament (1) għandu jkun jinsab ġewwa Victoria, Għawdex.
 
-(3) Ir-Reġistru tal-Qrati Ċivili u Tribunali, Għawdex ikun ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI
-
-*5*
-
-(GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI) [S.L.12.21
-
-kompetenti jirċievi kull att ġudizzjarju, atti bil-miktub u dokumenti oħra li skond kull liġi għandhom jiġu preżentati fir-Reġistru tal-qrati u tribunali li ġejjin:
+(3) Ir-Reġistru tal-Qrati Ċivili u Tribunali, Għawdex ikun kompetenti jirċievi kull att ġudizzjarju, atti bil-miktub u dokumenti oħra li skond kull liġi għandhom jiġu preżentati fir-Reġistru tal-qrati u tribunali li ġejjin:
 
 (a) il-Qorti tal-Appell, fil-ġurisdizzjoni inferjuri tagħha;
 
@@ -224,11 +202,7 @@ kompetenti jirċievi kull att ġudizzjarju, atti bil-miktub u dokumenti oħra li
 
 (3) Atti ġudizzjarji ppreżentati online għandhom jitqiesu għall-finijiet u effetti kollha tal-liġi daqslikieku ġew ippreżentati direttament fir-reġistru tal-istess qrati:
 
-Iżda meta att ġudizzjarju jiġi ppreżentat online barra mill-ħinijiet tal-ftuħ tar-reġistru stabbiliti skont dawn ir-regolamenti, dak l-att għandu jitqies illi ġie ppreżentat fl-ewwel ġurnata li jkun imiss tal-ftuħ ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI [S.L.12.21 (GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI)
-
-tal-istess reġistru.
-
-*6*
+Iżda meta att ġudizzjarju jiġi ppreżentat online barra mill-ħinijiet tal-ftuħ tar-reġistru stabbiliti skont dawn ir-regolamenti, dak l-att għandu jitqies illi ġie ppreżentat fl-ewwel ġurnata li jkun imiss tal-ftuħ tal-istess reġistru.
 
 ## 7. Funzjonijiet tar- Reġistraturi.
 
@@ -278,13 +252,7 @@ tal-istess reġistru.
 
 *Kap. 79.*
 
-(3) Għall-għanijiet tal-Ordinanza dwar il-Kummissjonarji b’Setgħa li jaghtu Ġurament, l-Uffiċjali Eżekuttivi tal-Qorti msemmija fis-subregolament (2)(a) sa (d) (it-tnejn inklużi) u (h) ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI
-
-*7*
-
-(GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI) [S.L.12.21
-
-għandhom ikunu Kummissjonarji b’Setgħa li jagħtu Ġurament.
+(3) Għall-għanijiet tal-Ordinanza dwar il-Kummissjonarji b’Setgħa li jaghtu Ġurament, l-Uffiċjali Eżekuttivi tal-Qorti msemmija fis-subregolament (2)(a) sa (d) (it-tnejn inklużi) u (h) għandhom ikunu Kummissjonarji b’Setgħa li jagħtu Ġurament.
 
 (4) L-Uffiċjali Eżekuttivi tal-Qorti msemmija fis-subregolament (2)(a) sa (d) (it-tnejn inklużi) u (h) u (i), għandhom jeżerċitaw is-setgħat vestiti bl-artikolu 68 tal-Kodiċi.
 
@@ -328,11 +296,7 @@ Iżda fil-każ ta’ xi emerġenza li tkun taffettwa l-funzjonament tajjeb ta’
 
 (2) Ikun hemm arkivju wieħed għall-atti kollha preżentati fir- Reġistru tal-Qrati Ċivili u Tribunali, Għawdex.
 
-(3) L-arkivju mwaqqaf skond is-subregolament (1) għandu ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI [S.L.12.21 (GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI)
-
-jkun jinsab f ’Malta filwaqt li l-arkivju mwaqqaf skond is-subregolament (2) għandu jkun jinsab f’Għawdex b’dan illi kull Reġistratur imsemmi fis-subregolamenti preċedenti għandu jagħmel mill-aħjar biex ikollu kemm jista’ jkun viċin tar-Reġistru kif hawn qabel imsemmi sezzjoni bl-arkivji l-aktar reċenti.
-
-*8*
+(3) L-arkivju mwaqqaf skond is-subregolament (1) għandu jkun jinsab f ’Malta filwaqt li l-arkivju mwaqqaf skond is-subregolament (2) għandu jkun jinsab f’Għawdex b’dan illi kull Reġistratur imsemmi fis-subregolamenti preċedenti għandu jagħmel mill-aħjar biex ikollu kemm jista’ jkun viċin tar-Reġistru kif hawn qabel imsemmi sezzjoni bl-arkivji l-aktar reċenti.
 
 (4) Kull arkivju jista’ jinqasam f’Sezzjonijiet skond ma jista’ jiddeċiedi r-Reġistratur, Qrati Ċivili u Tribunali u d-Direttur Qrati u Tribunali f’Għawdex, skond il-każ.
 
@@ -358,11 +322,7 @@ kull paġna ............................................. €0.58
 
 *Miżjud: A.L. 46 tal-2008.*
 
-Minkejja d-disposizzjonijiet ta’ qabel ta’ dawn ir-regolamenti, id-Direttur Ġenerali jew kull persuna awtorizzata minnu skond dawn ir-regolamenti, fil-qadi tal-funzjonijiet tiegħu taħt dawn ir-regolamenti, għandu jiżgura li ma jindaħal bl-ebda mod fl-eżerċizzju tal-funzjonijiet ġudizzjarji mill-membri tal-ġudikatura u, jekk jiġri dan, il-Prim Imħallef għandu b’avviż bil-miktub taħt il-firma tiegħu u skond dan ir-regolament, iwarrab dik id-deċiżjoni tad-Direttur Ġenerali; u meta jagħmel hekk il-Prim Imħallef jista’ jagħti dawk id-direttivi lid-Direttur Ġenerali, jew lil rappreżentant tiegħu, li l-Prim Imħallef iqis li huma fl-aħjar interess tal-amministrazzjoni tajba tal-ġustizzja fil-każ partikolari. ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI
-
-*9*
-
-(GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI) [S.L.12.21
+Minkejja d-disposizzjonijiet ta’ qabel ta’ dawn ir-regolamenti, id-Direttur Ġenerali jew kull persuna awtorizzata minnu skond dawn ir-regolamenti, fil-qadi tal-funzjonijiet tiegħu taħt dawn ir-regolamenti, għandu jiżgura li ma jindaħal bl-ebda mod fl-eżerċizzju tal-funzjonijiet ġudizzjarji mill-membri tal-ġudikatura u, jekk jiġri dan, il-Prim Imħallef għandu b’avviż bil-miktub taħt il-firma tiegħu u skond dan ir-regolament, iwarrab dik id-deċiżjoni tad-Direttur Ġenerali; u meta jagħmel hekk il-Prim Imħallef jista’ jagħti dawk id-direttivi lid-Direttur Ġenerali, jew lil rappreżentant tiegħu, li l-Prim Imħallef iqis li huma fl-aħjar interess tal-amministrazzjoni tajba tal-ġustizzja fil-każ partikolari.
 
 ## Skeda
 
@@ -400,11 +360,7 @@ Il-Qorti Ċivili (Sezzjoni ta’ (i) Rikors skont l- Ġurisdizzjoni Volontarja)
 
 artikolu 4(4) tal-Att dwar Reġistrazzjoni għall- Protezzjoni tal-Minuri
 
-(ii) Rikors għal talbiet ta’ awtorizzazzjoni fir-rigward ta’ persuni vulnerabbli u minur ARKIVJI U L-FUNZJONIJIET TAD-DIRETTUR TAL-QRATI [S.L.12.21 (GĦAWDEX) U UFFIĊJALI EŻEKUTTIVI OĦRA TAL-QORTI)
-
-Il-Qorti tal-Maġistrati (i) Ittri uffiċjali li ma (Malta)
-
-*10*
+(ii) Rikors għal talbiet ta’ awtorizzazzjoni fir-rigward ta’ persuni vulnerabbli u minur Il-Qorti tal-Maġistrati (i) Ittri uffiċjali li ma (Malta)
 
 jirrikjedux illi l-persuna li tkun qiegħda tippreżenta l- Il-Qorti tal-Maġistrati
 

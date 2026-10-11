@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju tan-Norveġja"
-identifier: "S.L. 123.8"
+identifier: "S.L. 123.08"
 eli: "https://legislation.mt/eli/sl/123.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/123.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju tan-Norveġja (S.L. 123.8)
-
-*1*
-
-(TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08
+# Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Renju tan-Norveġja (S.L. 123.08)
 
 **LEĠISLAZZJONI SUSSIDJARJA 123.08**
 
@@ -52,8 +48,6 @@ B’dan qiegћed jiġi dikjarat:
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett;
 
 (ċ) illi l-Ftehim beda jseћћ fl-14 ta’ Frar 2013.
-
-2 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
 
 ## SKEDA
 
@@ -115,8 +109,6 @@ It-taxxi eżistenti li għalihom japplika dan il-Ftehim huma partikolarment: a) 
 
 (v) it-taxxa nazzjonali fuq il-kumpens lil persuni artisti mhux residenti (skatt til staten på honorar til utenlandske artister);
 
-(TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 3
-
 (hawnhekk iżjed ’il quddiem imsejħa "it-taxxa tan-Norveġja").
 
 b) fil-każ ta’ Malta:
@@ -125,15 +117,21 @@ it-taxxa fuq l-income;
 
 (hawnhekk iżjed ’il quddiem imsejћa "it-taxxa ta’ Malta");
 
-### 4.
+*\4.*
 
 Il-Ftehim għandhu japplika wkoll għal kull taxxa identika jew sostanzjalment simili li tiġi imposta wara d-data meta jiġi ffirmat dan il-Ftehim b’żjieda ma’, jew minflok, it-taxxi eżistenti. L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jgħarrfu lil xulxin b’kull tibdil sostanzjali li jkun sar fil-liġijiet dwar it-taxxi rispettivi tagħhom.
 
-## Kapitolu II — Tifsiriet — Artikolu 3
+Kapitolu II
 
-**Tifsiriet Ġenerali**
+Tifsiriet
 
-\1. Għall-finijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx tehtieġ xort’oħra:
+Artikolu 3
+
+Tifsiriet Ġenerali
+
+*\1.*
+
+Għall-finijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx tehtieġ xort’oħra:
 
 a) il-frażi "Norveġja" tfisser ir-Renju tan-Norveġja, u tinkludi t-territorju tal-art, l-ilmijiet interni, il-baħar territorjali u ż-żona lil hinn mill-baħar territorjali fejn ir-Renju tan-Norveġja, skont il-liġijiet tan-Norveġja u skont il-ligi internazzjonali, tista’ tħaddem id-drittijiet tagħha dwar qiegħ il-baħar u s-sottoswol u r-riżorsi naturali tagħhom; il-frażi ma tinkludix Svalbard, Jan Mayen u d-dipendenzi Norveġiżi ("biland"); b) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta wżata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Għawdex u l-gżejjer l-oħra tal-arċipelagu Malti flimkien ma’ l-ibħra territorjali tagħhom, kif ukoll kull żona ta’ qiegħ il-baħar, is-sottoswol tiegħu u l-kolonna ta’ baħar sovrajaċenti li tinsab adjaċenti għall-ibħra territorjali, fejn Malta tħaddem drittijiet sovrani, ġurisdizzjoni, jew kontroll kif hemm fid-dritt internazzjonali u d-dritt nazzjonali tagħha, inkluża l-leġislazzjoni tagħha għar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
 
@@ -150,8 +148,6 @@ g) il-frażijiet "impriża ta’ Stat Kontraenti" u "impriża tal-Istat Kontraen
 i) il-frażi "negozju" tinkludi l-għoti ta’ servizzi professjonali u ta’ attivitajiet oħra ta’ xorta indipendenti;
 
 j) il-frażi "awtorità kompetenti" tfisser:
-
-4 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
 
 (i) fin-Norveġja, il-Ministru tal-Finanzi jew ir-rappreżentant awtorizzat tal-Ministru;
 
@@ -179,9 +175,9 @@ b) jekk l-Istat li fih huwa jkollu ċ-ċentru ta’ interessi vitali ma jkunx ji
 
 d) jekk huwa jkun ċittadin taż-żewġ Stati jew ta’ ebda wieħed minnhom, l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiddeċiedu l-każ bi ftehim bejniethom.
 
-\3. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1, persuna li ma tkunx individwu tkun residenti taż-żewġ Stati Kontraenti, allura dik il-persuna gћandha titqies bћala residenti biss fl-Istat fejn ikun jinsab il-post ta’ maniġġ effettiv tiegћu.
+### 3.
 
-(TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 5
+Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1, persuna li ma tkunx individwu tkun residenti taż-żewġ Stati Kontraenti, allura dik il-persuna gћandha titqies bћala residenti biss fl-Istat fejn ikun jinsab il-post ta’ maniġġ effettiv tiegћu.
 
 **Artikolu 5**
 
@@ -203,7 +199,9 @@ e) ħanut tax-xogћol; u
 
 f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post iehor ta’ estrazzjoni ta’ riżorsi naturali.
 
-\3. Sit tal-bini jew kostruzzjoni jew proġett ta’ stallazzjoni jikkostitwixxi stabbiliment permanenti biss jekk idumu aktar minn tnax-il xahar.
+### 3.
+
+Sit tal-bini jew kostruzzjoni jew proġett ta’ stallazzjoni jikkostitwixxi stabbiliment permanenti biss jekk idumu aktar minn tnax-il xahar.
 
 ### 4.
 
@@ -225,9 +223,7 @@ b) iż-żamma ta’ ħażna ta’ oġġetti jew ta’ merkanzija li tkun tappart
 
 ċ) iż-żamma ta’ ħażna ta’ oġġetti jew merkanzija li tkun tappartjeni lill-impriża bl-iskop uniku ta’ ipproċessar minn impriża oћra;
 
-d) iż-żamma ta’ post tan-negozju fiss bl-iskop uniku ta’ xiri ta’ oġġetti jew 6 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
-
-ta’ merkanzija, jew ta’ gbir ta’ tagћrif, gћall-impriża;
+d) iż-żamma ta’ post tan-negozju fiss bl-iskop uniku ta’ xiri ta’ oġġetti jew ta’ merkanzija, jew ta’ gbir ta’ tagћrif, gћall-impriża;
 
 e) iż-żamma ta’ post tan-negozju fiss bl-iskop uniku li tiġi ġestita, gћall-impriża, kull attività ta’ xorta preparatorja jew awżiljarja;
 
@@ -257,9 +253,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \4. Biex jiġi stabbilit l-income minn proprjetà immobli li residenti ta’ Stat Kontraenti għandu fl-Istat Kontraenti l-ieħor spejjeż (inklużi interessi fuq talbiet għal dejn) li jsiru għall-finijiet ta’ dik il-proprjetà għandhom jingħataw bħala tnaqqis bl-istess kundizzjonijiet bħal ma hemm maħsub għal residenti ta’ dak l-Istat l-ieħor.
 
-\5. Id-disposizzjonijiet tal-paragrafi 1 u 3 gћandhom japplikaw ukoll gћal (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 7
-
-income minn proprjetà immobbli ta’ impriża.
+\5. Id-disposizzjonijiet tal-paragrafi 1 u 3 gћandhom japplikaw ukoll gћal income minn proprjetà immobbli ta’ impriża.
 
 **Artikolu 7**
 
@@ -287,9 +281,7 @@ income minn proprjetà immobbli ta’ impriża.
 
 \3. Id-disposizzjonijiet tal-paragrafu 1 u 2 gћandhom japplikaw ukoll gћal profitti miksubin mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
 
-\4. Id-disposizzjonijiet tal-paragrafi 1, 2 u 3 għandhom japplikaw għal profitti miksuba mill-konsorzju Norveġiż, Daniż u Svediż konġunt tat-trasport bl-ajru Scandinavian Airlines System (SAS), imma biss sakemm il-profitti miksuba mill- SAS Scandinavian Airlines Norge AS, is-soċju Norveġiż tal-iScandinavian Airlines 8 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
-
-System (SAS), ikunu fi proporzjon għall-ishma tiegħu f’dik l-organizzazzjoni.
+\4. Id-disposizzjonijiet tal-paragrafi 1, 2 u 3 għandhom japplikaw għal profitti miksuba mill-konsorzju Norveġiż, Daniż u Svediż konġunt tat-trasport bl-ajru Scandinavian Airlines System (SAS), imma biss sakemm il-profitti miksuba mill- SAS Scandinavian Airlines Norge AS, is-soċju Norveġiż tal-iScandinavian Airlines System (SAS), ikunu fi proporzjon għall-ishma tiegħu f’dik l-organizzazzjoni.
 
 **Artikolu 9**
 
@@ -321,8 +313,6 @@ a) fejn id-dividendi jitħallsu minn kumpannija residenti tan-Norveġja lill-res
 
 b) fejn id-dividendi jitħallsu minn kumpannija residenti ta’ Malta lill-residenti tan-Norveġja li huwa s-sid benefiċjarju tad-dividendi, it-taxxa f’Malta fuq l-ammont totali tad-dividenti m’għandhiex tkun ta’ iżjed minn dik dovuta fuq il-profitti li minnhom tħallsu d-dividendi.
 
-(TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 9
-
 Dan il-paragrafu ma jolqotx it-tassazzjoni tal-kumpannija fir-rigward tal-profitti li minnhom jitħallsu d-dividendi.
 
 \3. Fejn dividendi huma miksuba u jkollhom bħala s-sid benefiċjarju tagħhom il-Gvern ta’ Stat Kontraenti, dawk id-dividendi gћandhom jiġu intaxxati biss f’dak l- Istat. Għall-finijiet ta’ dan il-paragrafu, il-frażi "Gvern ta’ Stat Kontraenti" għandha tinkludi:
@@ -351,8 +341,6 @@ b) Fil-każ ta’ Malta:
 
 Fil-każ li residenti ta’ Stat Kontraenti jigi miċhud ħelsien mit-taxxa fl-Istat Kontraenti l-ieħor minħabba d-disposizzjonijiet tal-ewwel sentenza ta’ dan il-paragrafu, l-awtorità kompetenti ta’ dak l-Istat l-ieħor għandha tinnotifika lill-awtorità kompetenti tal-ewwel imsemmi Stat.
 
-10 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
-
 **Artikolu 11**
 
 **Imgħax**
@@ -376,8 +364,6 @@ Fil-każ li residenti ta’ Stat Kontraenti jigi miċhud ħelsien mit-taxxa fl-I
 \3. Id-disposizzjonijiet tal-paragrafu 1 m’gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikolhhom effettivament x’jaqsmu ma’ dak l-istabbiliment permanenti. F’dak il-każ id-disposizzjonijiet tal- Artikolu 7 gћandhom japplikaw.
 
 \4. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejniethom it-tnejn u xi persuna oћra, l-ammont tar-royalties, meta jiġi kkunsidrat x’ikun l-użu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu gћandhom japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-disposizzjonijiet l-oћra ta’ dan il-Ftehim.
-
-(TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 11
 
 **Artikolu 13**
 
@@ -411,9 +397,7 @@ b) il-kumpens jitħallas minn, jew f’isem, prinċipal li ma jkunx residenti fl
 
 a) min jirċievi jagħti servizzi fil-kors ta’ dik l-impjieg lil persuna barra mill-prinċipal u dik il-persuna, direttament jew indirettament, tissorvelja, tmexxi jew tikkontrolla l-mod li bih dawn is-servizzi jiġu mwettqa; u
 
-b) dawk is-servizzi jikkostitwixxu parti integrali tal-attivitajiet tan- 12 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
-
-negozju ġestiti minn dik il-persuna.
+b) dawk is-servizzi jikkostitwixxu parti integrali tal-attivitajiet tan-negozju ġestiti minn dik il-persuna.
 
 \4. Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, kumpens li jinkiseb minn impjieg eżerċitat abbord xi bastiment jew inġenji tal-ajru operati fi traffiku internazzjonali minn impriża ta’ Stat Kontraenti jista’ jiġi intaxxat f’dak l-Istat.
 
@@ -445,11 +429,7 @@ Id-drittijiet tad-diretturi u ħlasijiet simili oħra li jinkisbu minn residenti
 
 \2. Il-frażi "ħlasijiet fis-sena" kif użata f’dan l-Artikolu tfisser somma ddikjarata mħallsa perjodikament fi żminijiet dikjarati matul numru speċifikat ta’ snin, jew għall-ħajja, b’obbligu li tagħmel il-ħlasijiet bi tpattija għall-konsiderazzjoni adegwata u sħiħa.
 
-\3. Ħlasijiet għall-manteniment u ħlastijiet ta’ manteniment oħra mħallsa lil residenti ta’ Stat Kontraenti għandhom ikunu intaxxati biss f ’dak l-Istat.
-
-(TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 13
-
-Madanakollu, kwalunkwe ħlasijiet għall-manteniment jew ħlastijiet ta’ manteniment oħra mħallsa minn residenti ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieħor għandhom, sa fejn dan ma jkunx jista’ jingħata bhala ħelsien lil min iħallas, ikun taxxabbli biss fl-ewwel imsemmi Stat.
+\3. Ħlasijiet għall-manteniment u ħlastijiet ta’ manteniment oħra mħallsa lil residenti ta’ Stat Kontraenti għandhom ikunu intaxxati biss f ’dak l-Istat. Madanakollu, kwalunkwe ħlasijiet għall-manteniment jew ħlastijiet ta’ manteniment oħra mħallsa minn residenti ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieħor għandhom, sa fejn dan ma jkunx jista’ jingħata bhala ħelsien lil min iħallas, ikun taxxabbli biss fl-ewwel imsemmi Stat.
 
 **Artikolu 18**
 
@@ -481,9 +461,7 @@ b) Madankollu, dawk is-salarji, pagi u kumpens ieħor simili gћandhom jiġu int
 
 \3. Id-disposizzjonijiet tal-paragrafu 2 u s-subparagrafu b) tal-paragrafu 5 m’għandhomx japplikaw fejn l-attivitajiet jiġu ġestiti għal perjodu jew perjodi li fit-total ma jkunux iktar minn 30 ġurnata fi kwalunkwe perjodu ta’ tnax-il xahar li jibda jew jispiċċa fis-sena fiskali kkonċernata. Madanakollu, għall-finijiet ta’ dan il-paragrafu:
 
-a) attivitajiet ġestiti minn impriża assoċjata ma’ impriża oħra għandhom jitqiesu li huma ġestiti mill-impriża li magħha hija assoċjata jekk l- 14 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
-
-attivitajiet inkwistjoni jkunu sostanzjalment l-istess bħal dawk imwettqa mill-impriża l-aħħar imsemmija;
+a) attivitajiet ġestiti minn impriża assoċjata ma’ impriża oħra għandhom jitqiesu li huma ġestiti mill-impriża li magħha hija assoċjata jekk l-attivitajiet inkwistjoni jkunu sostanzjalment l-istess bħal dawk imwettqa mill-impriża l-aħħar imsemmija;
 
 b) żewġ impriżi għandhom jitqiesu li jkunu assoċjati jekk:
 
@@ -509,9 +487,7 @@ jistgħu jiġu intaxxati f’dak l-Istat l-ieħor.
 
 **Income ieħor**
 
-\1. Elementi ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalgћu minn fejn jinqalgћu, li ma jkunux ittrattati fl-Artikoli ta’ hawn aktar qabel ta’ dan il-Ftehim (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 15
-
-gћandhom jiġu intaxxati biss f’dak l-iStat.
+\1. Elementi ta’ income ta’ residenti ta’ Stat Kontraenti, jinqalgћu minn fejn jinqalgћu, li ma jkunux ittrattati fl-Artikoli ta’ hawn aktar qabel ta’ dan il-Ftehim gћandhom jiġu intaxxati biss f’dak l-iStat.
 
 \2. Id-disposizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw għal income, li ma jkunx income minn proprjetà immobbli kif imfissra fil-paragrafu 2 tal-Artikolu 6, jekk min jirċievi dak l-income, li jkun residenti ta’ Stat Kontraenti, ikun imexxi kummerċ fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew proprjetà li dwarhom ikun qed jitħallas l-income ikun effettivament konness ma’ dak l-istabbiliment permanenti. F’dak il-każ għandhom japplikaw id-disposizzjonijiet tal-Artikolu 7.
 
@@ -535,9 +511,7 @@ Bla ħsara għad-disposizzzjonijiet tal-liġi ta’ Malta dwar l-għoti ta’ kr
 
 \1. Iċ-ċittadini ta’ Stat Kontraenti m’gћandhomx jiġu assoġġettati fl-Istat Kontraenti l-ieћor gћal ebda taxxa jew ebda ћtieġa li jkollha x’taqsam ma’ dan, li tkun diversa jew ta’ iktar piż mit-taxxa u ħtiġiet li jkollhom x’jaqsmu ċittadini ta’ dak l-Istat l-ieћor fl-istess ċirkostanzi, b’mod partikolari fir-rigward ta’ residenza, jkunu jew jistgћu jkunu assoġġettati. Din id-disposizzjoni gћandha, minkejja d-disposizzjoni tal-Artikolu 1, tapplika wkoll gћal persuni li ma jkunux residenti ta’ xi Stati Kontraenti wieħed jew tat-tnejn li huma.
 
-\2. Persuni apolidi li jkunu residenti ta’ Stat Kontraenti m’għandhomx ikunu 16 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
-
-assoġġettati f’xi Stat Kontraenti wieħed jew l-ieħor għal ebda taxxa jew ħtieġa konnessa magħha, li tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li għalihom ċittadini ta’ dak l-Istat kkonċernat fl-istess ċirkostanzi, b’mod partikolari fir-rigward ta’ residenza, jkunu jew jistgħu jkunu assoġġettati.
+\2. Persuni apolidi li jkunu residenti ta’ Stat Kontraenti m’għandhomx ikunu assoġġettati f’xi Stat Kontraenti wieħed jew l-ieħor għal ebda taxxa jew ħtieġa konnessa magħha, li tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li għalihom ċittadini ta’ dak l-Istat kkonċernat fl-istess ċirkostanzi, b’mod partikolari fir-rigward ta’ residenza, jkunu jew jistgħu jkunu assoġġettati.
 
 \3. It-taxxa fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl- Istat Kontraenti l-ieħor m’għandhiex tinġabar b’mod inqas favorevoli f’dak l-Istat l-ieħor mit-taxxa miġbura fuq impriżi ta’ dak l-Istat l-ieħor li tkun qegħda twettaq l-istess attivitajiet. Din id-disposizzjoni m’għandhiex tiftiehem bħala waħda li tobbliga lil Stat Kontraenti li tagħti lil residenti tal-Istat Kontraenti l-ieħor xi allowances personali, ħelsien u tnaqqis għall-finijiet ta’ taxxa minħabba fl-istatus ċivili jew responsabbilitajiet familjari li din tagħti lir-residenti tagħha.
 
@@ -557,9 +531,7 @@ assoġġettati f’xi Stat Kontraenti wieħed jew l-ieħor għal ebda taxxa jew 
 
 \3. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom permezz ta’ ftehim reċiproku jippruvaw jirrisolvu kull diffikultà jew dubbju li jista’ jirriżulta dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgћu wkoll jikkonsultaw flimkien dwar it-tnehhija ta’ taxxa doppja f’dawk il-każijiet li m’hemm xejn provdut dwarhom fil-Ftehim.
 
-\4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgћu jikkomunikaw direttament ma’ xulxin, ukoll permezz ta’ kummissjoni konġunta li tkun tikkonsisti (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 17
-
-fihom infushom jew f’rappreżentanti tagħhom, bl-iskop li jilħqu ftehim fis-sens tal-paragrafi preċedenti.
+\4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgћu jikkomunikaw direttament ma’ xulxin, ukoll permezz ta’ kummissjoni konġunta li tkun tikkonsisti fihom infushom jew f’rappreżentanti tagħhom, bl-iskop li jilħqu ftehim fis-sens tal-paragrafi preċedenti.
 
 **Artikolu 25**
 
@@ -578,8 +550,6 @@ b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew
 ċ) li jagћti informazzjoni li tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess ta’ kummerċ, jew informazzjoni, li meta tiġi żvelata din tkun tmur kontra l-ordni pubbliku (ordre public). 4. Jekk tintalab informazzjoni minn Stat Kontraenti li tkun kif hawn f’dan l- Artikolu, l-Istat Kontraenti l-ieħor għandu juża l-mezzi ta’ ġbir ta’ informazzjoni li jkollu biex jikseb l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkunx jeħtieġ dik l-informazzjoni għall-finijiet tiegħu tat-taxxa. L-obbligu msemmi fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3, iżda f’ebda każ m’għandhom dawk il-limitazzjonijiet jiftiehmu li jippermettu lil Stat Kontraenti li jirrifjuta li jipprovdi xi informazzjoni unikament għax ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
 \5. F’ebda każ m’għandhom id-disposizzjonijiet tal-paragrafu 3 jinftiehmu li jippermettu lil Stat Kontraenti li jirrifjuta li jipprovdi xi informazzjoni unikament għax dik l-informazzjoni tkun qegħda tinżamm minn xi bank, istituzzjoni finanzjarja oħra, nominee jew persuna oħra li taġixxi f’kapaċità ta’ aġenzija jew fiduċjarja jew għax ikollha x’taqsam ma’ interessi proprjetarji f’persuna.
-
-18 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
 
 **Artikolu 26**
 
@@ -600,8 +570,6 @@ b) li jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew
 \7. Meta, f’kull ħin wara li talba tkun saret minn Stat Kontraenti taħt il-paragrafu 3 jew 4 u qabel ma l-Istat Kontraenti l-ieħor ikun ġabar u bagħat id-dħul rilevanti lill-Istat l-ewwel imsemmi, il-pretensjoni ta’ dħul rilevanti ma tibqax
 
 a) fil-każ ta’ talba taħt il-paragrafu 3, pretensjoni ta’ dħul tal-ewwel imsemmi Stat li tista’ tigi infurzata taħt il-liġijiet ta’ dak l-Istat u huwa dovut minn persuna li, f’dak iż-żmien, ma tistax, taħt il-liġijiet ta’ dak l- Istat, tippreveni l-ġbir, jew
-
-(TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 19
 
 b) fil-każ ta’ talba taħt il-paragrafu 4, pretensjoni ta’ dħul tal-ewwel imsemmi Stat li dwarha dak l-Istat jista’, taħt il-ligijiet tiegħu, jieħu miżuri ta’ konservanza bil-ħsieb li jiġi żgurat il-ġbir tagħha
 
@@ -641,8 +609,6 @@ a) il-liġi ta’ xi wieħed mill-Istati Kontraenti li tkun ġiet identifikata f
 
 b) kull liġi sostanzjalment simili sussegwentement promulgata.
 
-20 [L.S.123.08 (TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA)
-
 **Kapitolu 7**
 
 **Disposizzjonijiet Finali**
@@ -678,8 +644,6 @@ Filwaqt tal-iffirmar tal-Ftehim bejn Malta u r-Renju tan-Norveġja għall-evitar
 B’riferenza għall-Artikolu 28(3), id-disposizzjonijiet ta’ dan il-Ftehim m’għandhomx japplikaw għal persuni li huma intitolati għal:
 
 (i) eżenzjoni jew xi benefiċċju ieħor ta’ taxxa speċjali taħt id-disposizzjonijiet tal-Att tal-1973 dwar il-Bastimenti Merkantili, kif emendat. Madanakollu, dan ma japplikax għal income li huwa suġġett għat-taxxa fuq l-income f’Malta; jew
-
-(TAXXI FUQ L-INCOME) (IR-RENJU TAN-NORVEĠJA) [L.S.123.08 21
 
 (ii) kwalunkwe benefiċċju fiskali fir-rigward ta’ distribuzzjonijiet minn trust suġġett għad-disposizzjonijiet tal-Att dwar Trusts u Trustees peress li trust kif stipulat f’dak l-Att m’huwiex vestit b’personalità ġuridika u għalhekk ma jistax jibbenefika mill-Ftehim fid-dritt tiegħu stess, jew
 

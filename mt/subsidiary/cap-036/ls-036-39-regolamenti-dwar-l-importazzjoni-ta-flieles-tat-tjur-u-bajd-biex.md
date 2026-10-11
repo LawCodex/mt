@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Importazzjoni ta' Flieles tat-Tjur u Bajd biex jitfaqqas (S.L. 36.39)
 
-TAT-TJUR U BAJD BIEX JITFAQQAS [ L.S.36.39
-
 **LE{ISLAZZJONI SUSSIDJARJA 36.39**
 
 **REGOLAMENTI DWAR L-IMPORTAZZJONI TA’**
@@ -87,11 +85,7 @@ Kull min jimporta jew jittanta jimporta f’Malta, jew ibig], jesponi, i\\omm je
 
 Bajd biex jitfaqqas u flieles ta’ [urnata g]andhom jissodisfaw, g]all-importazzjoni, il-kundizzjonijiet stabbiliti fl- Ewwel Skeda.
 
-TAT-TJUR U BAJD BIEX JITFAQQAS [ L.S.36.39 L-EWWEL SKEDA
-
-Regoli li jirregolaw l-Importazzjoni ta’ Bajd biex jitfaqqas u
-
-**Flieles ta’ [urnata**
+## L-EWWEL SKEDA — Regoli li jirregolaw l-Importazzjoni ta’ Bajd biex jitfaqqas u — Flieles ta’ [urnata
 
 (1) Il-bajd biex jitfaqqas g]andu jkun immarkat individwalment mill-produttur b’inka sewda indelibbli. Il-marka g]andha tindika l-istabbiliment ta’ ori[ini u l-batch numher b’figuri li ta’ mill-inqas g]andhom ikunu 2 millimetri f’dak li hu g]oli u millimetru f’dak li hu wisa’.
 
@@ -195,7 +189,7 @@ It-tag]rif sanitarju me]tie[ huwa `ertifikazzjoni minn veterinarju uffi`jali ill
 
 (g) firma u timbru.
 
-TAT-TJUR U BAJD BIEX JITFAQQAS [ L.S.36.39 IT-TIENI SKEDA
+## IT-TIENI SKEDA
 
 (I) Avvi\\ tal-}sieb g]all-Importazzjoni ta’ Bajd biex jitfaqqas jew Flieles g]at-Tjur
 

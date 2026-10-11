@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Rekwiżizzjoni ta' Braken u Bastimenti ta' l-Irmonk (S.L. 117.19)
 
-*1*
-
-BASTIMENTI TA’ L-IRMONK [L.S.117.19
-
 **LE{ISLAZZJONI SUSSIDJARJA 117.19**
 
 **REGOLAMENTI DWAR IR-REKWI|IZZJONI TA’**

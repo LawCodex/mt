@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar in-Nomini u l-Kondizzjonijiet tal-Forza ta Riżerva Individwali"
-identifier: "S.L. 220.8"
+identifier: "S.L. 220.08"
 eli: "https://legislation.mt/eli/sl/220.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/220.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar in-Nomini u l-Kondizzjonijiet tal-Forza ta Riżerva Individwali (S.L. 220.8)
-
-*1*
-
-TA’ RIŻERVA INDIVIDWALI [L.S.220.08
+# Regolamenti dwar in-Nomini u l-Kondizzjonijiet tal-Forza ta Riżerva Individwali (S.L. 220.08)
 
 **LEĠISLAZZJONI SUSSIDJARJA 220.08**
 
@@ -67,11 +63,7 @@ Iżda li membri tal-Forza ta’ Riżerva Individwali jistgħu jkunu wkoll parti 
 
 ### 4. Il-ġuramenti u dikjarazzjonijiet jibqgħu validi.
 
-Il-Ġurament ta’ fedeltà li jittieħed minn uffiċjali u d-dikjarazzjoni solenni ta’ suldati, ma’ l-għoti tal-kummissjoni jew meta jiġu ingaġġati rispettivament fil-Forza Regolari, jibqgħu validi u vinkolanti għal kemm idum is-servizz fil-Forza ta’ Riżerva [L.S.220.08 TA’ RIŻERVA INDIVIDWALI
-
-Individwali.
-
-*2*
+Il-Ġurament ta’ fedeltà li jittieħed minn uffiċjali u d-dikjarazzjoni solenni ta’ suldati, ma’ l-għoti tal-kummissjoni jew meta jiġu ingaġġati rispettivament fil-Forza Regolari, jibqgħu validi u vinkolanti għal kemm idum is-servizz fil-Forza ta’ Riżerva Individwali.
 
 ### 5. Nomini, promozzjonijiet u irtir. L.S. 220.03
 

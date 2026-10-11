@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Tnaqqis u Krediti ta' Taxxa (Kwalifiki Ġenerali u Speċifiċi) (S.L. 123.87)
 
-*1*
-
-(KWALIFIKI {ENERALI U SPE~IFI~I) [L.S.123.87
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.87**
 
 REGOLI DWAR TNAQQIS U KREDITI TA’ TAXXA
@@ -99,10 +95,6 @@ tista’ tapprova;
 
 (a) tag]ti dawk il-partikolaritajiet dwar l-applikanti li jkunu me]tie[a biex ji[i stabbilit jekk tikkwalifikax jew le b]ala intrapri\\a \\g]ira jew ta’ daqs medju;
 
-*3*
-
-(KWALIFIKI {ENERALI U SPE~IFI~I) [L.S.123.87
-
 (b) tag]ti deskrizzjoni dettaljata ta’ kull kors ta’ studji li tirreferi g]alih, inklu\\a d-data tal-bidu u t-tmiem tal-kors, il-kwalifika involuta u l-partikolaritajiet ta’ l-impjegat rispettiv;
 
 (`) ikun fiha deskrizzjoni ta’ kull partita ta’ nfieq kwalifikanti f’pagi u spejje\\ g]al studju, liema partiti g]andhom ikunu migbura skond il-kategoriji ta’ nfieq mnizzla fis-subregola (2);
@@ -171,10 +163,6 @@ Nfieq ikun infieq f’pagi u spejje\\ g]al studju permissibbli jekk u safejn ise
 
 (a) ikun infieq kwalifikanti f’pagi u spejje\\ g]al studju li jkun tassew intefaq minn kumpannija u li la jkun [ie m]allas lura lilha u li lanqas ma jkun jista’ xort’o]ra jin[abar lura minnha;
 
-*5*
-
-(KWALIFIKI {ENERALI U SPE~IFI~I) [L.S.123.87
-
 (b) ikun partita ta’ nfieq imsemmija f’ittra ta’ approvazzjoni ma]ru[a ta]t ir-regola 5, li ma jaqbi\\x l-og]la nfieq kwalifikanti f’pagi u spejje\\ g]al studju g]al dik il-partita, u li dwaru jkunu [ew sodisfatti dawk il-kondizzjonijiet li jkunu setg]u [ew mag]mula jg]oddu g]alih skond ir-regola 5(2);
 
 (`) ikun intefaq bil-mod u g]all-g]an dikjarat fl-applikazzjoni mag]mula mill-kumpannija ta]t ir-regola 4 jew ikun [ie xort’o]ra dikjarat lill- Korporazzjoni;
@@ -239,11 +227,7 @@ I\\da -
 
 (a) ma g]andu jing]ata ebda kreditu ta’ taxxa ta]t din ir-regola dwar infieq li dwaru jittie]ed tnaqqis jew kreditu ta’ taxxa ta]t it-Taqsima I;
 
-(b) il-kreditu ta’ taxxa li jkun dovut lil kumpannija ta]t din it-Taqsima ma g]andux jaqbe\\, fit-total tieg]u, il-limitu provdut fl-Artikolu 4 tar-Regolament tal- Kunsill (KE) 2204/2002 dwar l-applikazzjoni ta’ l- Artikoli 87 u 88 tat-Trattat tal-Komunità Ewropea g]al G]ajnuna mog]tija mill-Istat, kif jista’ ji[i emendat (KWALIFIKI {ENERALI U SPE~IFI~I) [L.S.123.87
-
-sussegwentement;
-
-*7*
+(b) il-kreditu ta’ taxxa li jkun dovut lil kumpannija ta]t din it-Taqsima ma g]andux jaqbe\\, fit-total tieg]u, il-limitu provdut fl-Artikolu 4 tar-Regolament tal- Kunsill (KE) 2204/2002 dwar l-applikazzjoni ta’ l- Artikoli 87 u 88 tat-Trattat tal-Komunità Ewropea g]al G]ajnuna mog]tija mill-Istat, kif jista’ ji[i emendat sussegwentement;
 
 (`) meta l-kumpannija involuta tkun ]adet g]ajnuna mog]tija mill-Istat dwar infieq li jirreferi g]alih il-kreditu ta’ taxxa, xort’o]ra minn dik provduta f’din it- Taqsima, l-imsemmi limitu g]andu jitnaqqas bil-valur ta’ dak l-g]ajnuna l-o]ra;
 
@@ -301,11 +285,7 @@ Kumpannija li ting]atalha ittra ta’ approvazzjoni skond ir-regola 5 jew 10(4) 
 
 ### 14. Sorveljanza mill- Korporazzjoni.
 
-(1) Meta l-Korporazzjoni to]ro[ ittra ta’ approvazzjoni lil (KWALIFIKI {ENERALI U SPE~IFI~I) [L.S.123.87
-
-kumpannija skond ir-regola 5 jew 10(4), din tista’, minn \\mien g]al \\mien, tag]mel revi\\jonijiet ta’ kotba u dokumenti, tag]mel spezzjonijiet fuq il-post fil-fondi ta’ dik il-kumpannija u tag]mel sorveljanza o]ra skond kif tqis li jkun me]tie[ g]all-g]anijiet ta’ dawn ir-regoli u g]al kull ]a[a li tkun rilevanti g]al applikazzjoni approvata.
-
-*9*
+(1) Meta l-Korporazzjoni to]ro[ ittra ta’ approvazzjoni lil kumpannija skond ir-regola 5 jew 10(4), din tista’, minn \\mien g]al \\mien, tag]mel revi\\jonijiet ta’ kotba u dokumenti, tag]mel spezzjonijiet fuq il-post fil-fondi ta’ dik il-kumpannija u tag]mel sorveljanza o]ra skond kif tqis li jkun me]tie[ g]all-g]anijiet ta’ dawn ir-regoli u g]al kull ]a[a li tkun rilevanti g]al applikazzjoni approvata.
 
 *L.S. 325.06*
 
@@ -357,13 +337,9 @@ L.S.123.87] (KWALIFIKI {ENERALI U SPE~IFI~I)
 
 ### 19. Ittra ta’ approvazzjoni tal- Korporazzjoni. Emendata: A.L. 174 tal-2007.
 
-\*L-ittra ta’ approvazzjoni msemmija fir-regola 18(4)(`) g]andha tin]are[ mill-Korporazzjoni wara applikazzjoni li ssir minn individwi meta l-Korporazzjoni tkun sodisfatta li l-applikazzjoni hija applikazzjoni bona fide li tkun saret skond id-disposizzjonijiet tar-regola 18, u meta, wara li tkun kisbet dak it-tag]rif kollu u g]amlet dak l-ist]arri[ li tkun qieset me]tie[, jidhrilha li jkun xieraq li tag]mel hekk, hija tista’ tidde`iedi li l-kors ta’ studji in kwistjoni jkun kors li jwassal g]al kwalifika (KWALIFIKI {ENERALI U SPE~IFI~I) [L.S.123.87
+\*L-ittra ta’ approvazzjoni msemmija fir-regola 18(4)(`) g]andha tin]are[ mill-Korporazzjoni wara applikazzjoni li ssir minn individwi meta l-Korporazzjoni tkun sodisfatta li l-applikazzjoni hija applikazzjoni bona fide li tkun saret skond id-disposizzjonijiet tar-regola 18, u meta, wara li tkun kisbet dak it-tag]rif kollu u g]amlet dak l-ist]arri[ li tkun qieset me]tie[, jidhrilha li jkun xieraq li tag]mel hekk, hija tista’ tidde`iedi li l-kors ta’ studji in kwistjoni jkun kors li jwassal g]al kwalifika rilevanti u tistabbilixxi safejn, fil-fehma tag]ha, l-infieq imsemmi fl-applikazzjoni jkun infieq kwalifikanti fi spejje\\ g]al studju u jkun me]tie[ u ra[onevoli fil-kuntest ta’ l-g]an li g]alih ikun jew kien ma]sub li jintefaq, u l-ammont hekk stabbilit ikun l-og]la nfieq kwalifikanti fi spejje\\ g]al studju:
 
 \*Din is-subregola tapplika g]al infieq kwalifikanti li jsir fl-1 ta’ {unju 2007 jew wara dik id-data.
-
-rilevanti u tistabbilixxi safejn, fil-fehma tag]ha, l-infieq imsemmi fl-applikazzjoni jkun infieq kwalifikanti fi spejje\\ g]al studju u jkun me]tie[ u ra[onevoli fil-kuntest ta’ l-g]an li g]alih ikun jew kien ma]sub li jintefaq, u l-ammont hekk stabbilit ikun l-og]la nfieq kwalifikanti fi spejje\\ g]al studju:
-
-*11*
 
 I\\da l-Korporazzjoni m’g]andhiex to]ro[ ittra ta’ approvazzjoni dwar kors ta’ studju li -
 

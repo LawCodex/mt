@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar is-Sigurtà Soċjali (Ftehim Reċiproku mar-Renju Unit)"
-identifier: "S.L. 318.4"
+identifier: "S.L. 318.04"
 eli: "https://legislation.mt/eli/sl/318.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/318.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar is-Sigurtà Soċjali (Ftehim Reċiproku mar-Renju Unit) (S.L. 318.4)
-
-(FTEHIM RE~IPROKU MAR-RENJU UNIT) [ L.S.318.04
+# Ordni dwar is-Sigurtà Soċjali (Ftehim Reċiproku mar-Renju Unit) (S.L. 318.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 318.04**
 
@@ -84,8 +82,6 @@ Artikolu 2
 Id-disposizzjonijiet ta’ dan il-Ftehim g]andhom japplikaw -
 
 (a) fil-ka\\ tar-Renju Unit, g]al-
-
-(FTEHIM RE~IPROKU MAR-RENJU UNIT) [ L.S.318.04
 
 (i) in-National Insurance Act, 1946, in-National Insurance Act (Northern Ireland), 1946, in-National Insurance (Isle of Man) Act, 1948, u l-le[islazzjoni li kienet isse]] qabel il-5 ta’ Lulju, 1948, u li flokha sar dawk l-Atti;
 
@@ -156,8 +152,6 @@ Ebda wa]da mid-disposizzjonijiet ta’ l-Artikoli 3, 4 u 6 ta’ dan il-Ftehim m
 (3) Jekk persuna, li soltu tkun residenti f’territorju wie]ed, tkun impjegata b]ala kaptan jew membru ta’ l-ekwipa[[ ta’ vapur tat-territorju l-ie]or li-
 
 (a) ikun re[istrat fl-ewwel territorju;
-
-(FTEHIM RE~IPROKU MAR-RENJU UNIT) [ L.S.318.04
 
 (b) ikun stazzjonat fl-ewwel territorju;
 
@@ -231,9 +225,7 @@ Benefi``ju ta’ Territorju wie]ed dwar Tifel jew Tifla li tkun qiedha fit-Terri
 
 **Artikolu 13**
 
-(1) Meta persuna tkun f’territorju wie]ed u, minn meta waslet l-a]]ar f’dak it-territorju, tkun saret obbligata li t]allas kontribuzzjonijiet skond il-le[islazzjoni ta’ dak it-territorju, g]andha tkun meqjusa dwar xi talba biex tir`ievi benefi``ju g]al (FTEHIM RE~IPROKU MAR-RENJU UNIT) [ L.S.318.04
-
-disimpieg skond dik il-le[islazzjoni b]allikieku -
+(1) Meta persuna tkun f’territorju wie]ed u, minn meta waslet l-a]]ar f’dak it-territorju, tkun saret obbligata li t]allas kontribuzzjonijiet skond il-le[islazzjoni ta’ dak it-territorju, g]andha tkun meqjusa dwar xi talba biex tir`ievi benefi``ju g]al disimpieg skond dik il-le[islazzjoni b]allikieku -
 
 (a) kienet ]allset kontribuzzjoni skond dik il-le[islazzjoni g]al kull [img]a li dwarha tkun ]allset kontribuzzjoni skond il-le[islazzjoni tat-territorju l-ie]or;
 
@@ -287,9 +279,7 @@ Dwar kull talba biex ting]ata allowance ta’ tutur skond il-le[islazzjoni ta’
 
 (1) Sabiex ji[i de`i\\, skond id-disposizzjonijiet ta’ l-Artikoli 12, 13, 14, 15 u 16, jekk persuna jkollhiex dritt li tir`ievi benefi``ju skond il-le[islazzjoni ta’ Malta, u sabiex ji[i de`i\\ skond id-disposizzjonijiet ta’ l-Artikoli 14 u 166 liema benefi``ju kien jit]allas skond dik il-le[islazzjoni jekk kull kontribuzzjoni m]allsa minn persuna jew akkreditata lilha skond il-le[islazzjoni tar-Renju Unit kienet kontribuzzjoni m]allsa minnha jew akkreditata lilha rispettivament skond il-le[islazzjon ta’ Malta, ma jittie]ed l-ebda kont ta’ kontribuzzjoni m]allsa jew akkreditata skond il-le[islazzjoni tar-REnju Unit dwar kull [img]a qabel il-[img]a li tibda fis-7 ta’ Mejju, 1956.
 
-(2) Sabiex ji[u applikati d-disposizzjonijiet tas-subparagrafu (b) ta’ lArtikolu 14 u subparagrafu (b) tal-paragrafu (1) ta’ l-Artikolu 16, ma jittie]ed l-ebda kont ta’ [ L.S.318.04
-
-xi kontribuzzjoni li persuna tkun ]allset jew kellha akkreditata lilha skond il-le[islazzjoni tar-Renju Unit jekk, meta, ji[i ikkalkolat l-g]add minn sena g]al o]ra le[islazzjoni, ebda kont ma jittie]ed ta’ dik il-kontribuzzjoni.
+(2) Sabiex ji[u applikati d-disposizzjonijiet tas-subparagrafu (b) ta’ lArtikolu 14 u subparagrafu (b) tal-paragrafu (1) ta’ l-Artikolu 16, ma jittie]ed l-ebda kont ta’ xi kontribuzzjoni li persuna tkun ]allset jew kellha akkreditata lilha skond il-le[islazzjoni tar-Renju Unit jekk, meta, ji[i ikkalkolat l-g]add minn sena g]al o]ra le[islazzjoni, ebda kont ma jittie]ed ta’ dik il-kontribuzzjoni.
 
 **Korriment u Mard min]abba x-Xog]ol**
 
@@ -353,9 +343,7 @@ Kull e\\enzjoni minn, jew riduzzjoni ta’ drittijiet, ]lasijiet u spejje\\ lega
 
 Kull talba, avvi\\ jew appell li, g]all-finijiet tal-le[islazzjoni ta’ territorju à ta’ dak it-territorju, i\\da à kompetenti tat-territorju l-à ta’ l-ewwel à tat-territorju ta’ l-a]]ar g]andha, kemm à kompetenti ta’ l-ewwel territorju.
 
-Fil-ka\\ ta’ tmiem ta’ dan il-Ftehim kull dritt miksub minn persuna skond id-disposizzjonijiet tieg]u g]andu ji[i mi\\mum, u g]andhom isiru ta]ditiet g]all- [ L.S.318.04
-
-ftehim ta’ kull dritt li jkun qed jinkiseb bis-sa]]a ta’ dawk id-disposizzjonijiet.
+Fil-ka\\ ta’ tmiem ta’ dan il-Ftehim kull dritt miksub minn persuna skond id-disposizzjonijiet tieg]u g]andu ji[i mi\\mum, u g]andhom isiru ta]ditiet g]all-ftehim ta’ kull dritt li jkun qed jinkiseb bis-sa]]a ta’ dawk id-disposizzjonijiet.
 
 **Artikolu 30**
 

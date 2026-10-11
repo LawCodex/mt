@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Tfal u Żgħażagħ (Ordnijiet għall-Ħarsien)"
-identifier: "S.L. 285.1"
+identifier: "S.L. 285.01"
 eli: "https://legislation.mt/eli/sl/285.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/285.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Tfal u Żgħażagħ (Ordnijiet għall-Ħarsien) (S.L. 285.1)
+# Regolamenti dwar Tfal u Żgħażagħ (Ordnijiet għall-Ħarsien) (S.L. 285.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 285.01**
 

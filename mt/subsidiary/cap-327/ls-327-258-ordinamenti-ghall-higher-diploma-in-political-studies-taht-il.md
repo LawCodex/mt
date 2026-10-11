@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Higher Diploma in Political Studies taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.258)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA,
-
-*1*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.258
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.258**
 
 **ORDINAMENTI GĦALL-HIGHER DIPLOMA IN**
@@ -71,13 +65,9 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul mill-anqas minn tliet membri.
 
-(4) Il-Bord għad-Dħul, li jaġixxi fuq il-parir tal-Bord tal- Istudji u permezz tar-regolament 15(1) tar-Regolamenti għad-Dħul TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA, [L.S.327.258 IL-MANAGEMENT U L-ACCOUNTANCY
+(4) Il-Bord għad-Dħul, li jaġixxi fuq il-parir tal-Bord tal- Istudji u permezz tar-regolament 15(1) tar-Regolamenti għad-Dħul tal-Università, jista’ jaċċetta li l-applikanti li kisbu d-Diploma in Political Studies jidħlu fit-tielet sena tal-kors.
 
 \*Dawn l-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
-
-tal-Università, jista’ jaċċetta li l-applikanti li kisbu d-Diploma in Political Studies jidħlu fit-tielet sena tal-kors.
-
-*2*
 
 ## 4. Tul tal-kors.
 

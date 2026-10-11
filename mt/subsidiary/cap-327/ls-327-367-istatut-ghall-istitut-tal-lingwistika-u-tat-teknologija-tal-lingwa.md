@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Istatut għall-Istitut tal-Lingwistika u tat-Teknoloġija tal-Lingwa (S.L. 327.367)
 
-*1*
-
-U TAT-TEKNOLOĠIJA TAL-LINGWA [L.S. 327.367
-
 LEĠISLAZZJONI SUSSIDJARJA 327.367
 
 L-ISTATUT GĦALL-ISTITUT TAL-LINGWISTIKA U TAT-TEKNOLOĠIJA TAL-LINGWA
@@ -67,11 +63,7 @@ L-Istitut jitmexxa minn Bord li jkun magħmul kif ġej:
 
 (iv) persuna maħtura mis-Senat tal-Università;
 
-(v) mhux aktar minn żewġ rappreżentanti tal-istaff [L.S. 327.367 U TAT-TEKNOLOĠIJA TAL-LINGWA
-
-akkademiku li jgħallmu fl-Istitut;
-
-*2*
+(v) mhux aktar minn żewġ rappreżentanti tal-istaff akkademiku li jgħallmu fl-Istitut;
 
 (vi) mhux aktar minn żewġ rappreżentanti tal-istudenti rreġistrati fl-Istitut;
 
@@ -113,10 +105,6 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (vii) jirrakkomanda lill-Kunsill il-ħolqien jew l-abolizzjoni ta’ postijiet akkademiċi u mhux akkademiċi fl-Istitut; u
 
-*3*
-
-U TAT-TEKNOLOĠIJA TAL-LINGWA [L.S. 327.367
-
 (viii) jipproponi għall-approvazzjoni tas-Senat, Bordijiet ta’ Studju u ta’ Eżaminaturi għall-korsijiet li jwasslu għal grad jew diploma.
 
 *\6.*
@@ -149,11 +137,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur huma li:
 
 • is-sessjoni ta’ Jannar - sal-aħħar ta’ Marzu;
 
-• is-sessjoni ta’ Mejju/Ġunju - ir-riżultati tal- U TAT-TEKNOLOĠIJA TAL-LINGWA
-
-Aħħar Sena mhux aktar tard minn jumejn qabel jitlaqqa’ l-Bord għall-Klassifikazzjoni li jsir fl-aħħar sena iżda, fi kwalunkwe każ, mhux aktar tard mill-aħħar ta’ Lulju; riżultati oħra għandhom jaslu kemm jista’ jkun malajr iżda mhux aktar tard mill-aħħar ta’ Lulju;
-
-*[L.S. 327.367 4*
+• is-sessjoni ta’ Mejju/Ġunju - ir-riżultati tal- Aħħar Sena mhux aktar tard minn jumejn qabel jitlaqqa’ l-Bord għall-Klassifikazzjoni li jsir fl-aħħar sena iżda, fi kwalunkwe każ, mhux aktar tard mill-aħħar ta’ Lulju; riżultati oħra għandhom jaslu kemm jista’ jkun malajr iżda mhux aktar tard mill-aħħar ta’ Lulju;
 
 • is-sessjoni ta’ Settembru - sal-aħħar ta’ Settembru;
 
@@ -176,10 +160,6 @@ Aħħar Sena mhux aktar tard minn jumejn qabel jitlaqqa’ l-Bord għall-Klassif
 (p) jawtorizza lill-Istitut il-ksib ta’ apparat; jiżgura li r-riżorsi assenjati lill-Istitut - kemm jekk umani kif ukoll oħrajn - jiġu utilizzati b’mod sħiħ u effiċjenti;
 
 (q) iwettaq dawk id-dmirijiet oħra li jistgħu jiġu assenjati lilu mill-Università minn żmien għal żmien.
-
-*5*
-
-U TAT-TEKNOLOĠIJA TAL-LINGWA [L.S. 327.367
 
 *\8.*
 

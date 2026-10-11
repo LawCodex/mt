@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (il-Gvern tar-Repubblika tal-Kosovo) (S.L. 123.192)
 
-*1*
-
-(IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 LEĠISLAZZJONI SUSSIDJARJA 123.192
+LEĠISLAZZJONI SUSSIDJARJA 123.192
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA (TAXXI FUQ L-INCOME) (IL-GVERN TAR-
 
@@ -44,10 +42,6 @@ B’dan qiegћed jiġi dikjarat -
 (b) illi huwa spedjenti li dawk l-arranġamenti gћandu jkollhom effett wara li jidħol fis-seħħ il-Ftehim u skont id-dispożizzjonijiet rilevanti tal-Ftehim;
 
 (ċ) illi l-Ftehim beda fis-seħħ fil-20 ta’ Settembru, 2019.
-
-*2*
-
-[L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
 
 ## SKEDA — ARTIKOLU 2
 
@@ -87,9 +81,7 @@ It-taxxi eżistenti li dwarhom japplika dan il-Ftehim huma partikolarment:
 
 it-taxxa fuq l-income;
 
-*3*
-
-(IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 (hawn iżjed ’il quddiem imsejћa "it-taxxa ta’ Malta")
+(hawn iżjed ’il quddiem imsejћa "it-taxxa ta’ Malta")
 
 (b) fil-Kosovo:
 
@@ -117,11 +109,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 (d) il-frażi "persuna" tinkludi individwu, skema ta’ investiment kollettiv, kumpanija u kull korp ieћor ta’ persuni;
 
-(e) il-frażi "kumpanija" tfisser kull korp magћqud jew kull entità li tkun ittrattata bћala korp magћqud gћall- (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
-
-*[L.S. 123.192 4*
-
-iskopijiet ta’ taxxa;
+(e) il-frażi "kumpanija" tfisser kull korp magћqud jew kull entità li tkun ittrattata bћala korp magћqud gћall-iskopijiet ta’ taxxa;
 
 (f) il-frażi "impriża" japplika għat-tmexxija ta’kwalunkwe negozju;
 
@@ -147,11 +135,9 @@ iskopijiet ta’ taxxa;
 
 (i) li hu stabbilit u mħaddem esklussivament jew kważi esklussivament biex jamministra jew jipprovdi benefiċċji għall-irtirar u benefiċċji anċillari jew inċidentali lil individwi u li hu rregolat bħala tali minn dak l-Istat jew minn waħda mis-sottodiviżjonijiet politiċi tiegħu jew awtoritajiet lokali; jew
 
-(ii) li hu stabbilit u mħaddem esklussivament (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 jew kważi esklussivament biex jinvesti fondi għall-benefiċċju ta’ entitajiet jew arranġamenti msemmija fis-subdiviżjoni (i).
+(ii) li hu stabbilit u mħaddem esklussivament jew kważi esklussivament biex jinvesti fondi għall-benefiċċju ta’ entitajiet jew arranġamenti msemmija fis-subdiviżjoni (i).
 
 \2. Dwar l-applikazzjoni tal-Ftehim f’kull waqt minn Stat Kontraenti, kull frażi li ma tkunx imfissra fih gћandu jkollha, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra jew l-awtoritajiet kompetenti jaqblu ma’ tifsira differenti skont id-dispożizzjonijiet tal- Artikolu 23, it-tifsira mogћtija lilha li jkollha f’dak il-waqt taћt il-liġi ta’ dak l-Istat gћall-finijiet tat-taxxi li dwarhom ikun japplika l- Ftehim, hekk li kull tifsira taħt il-liġijiet tat-taxxa li jkunu japplikaw ta’ dak l-Istat tkun tipprevali fuq tifsira mogћtija lil dik il-frażi taћt liġijiet oћra ta’ dak l-Istat.
-
-*5*
 
 **ARTIKOLU 4**
 
@@ -167,11 +153,7 @@ iskopijiet ta’ taxxa;
 
 (ċ) jekk huwa soltu jirrisjedi fiż-żewġ Stati jew f’ebda wieħed minnhom, huwa gћandu jitqies li jkun residenti biss tal-Istat li jkun ċittadin tiegћu;
 
-(d) jekk huwa jkun ċittadin taż-żewġ Stati jew ta’ ebda wieħed minnhom, l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiddeċiedu l-każ bi ftehim reċiproku [L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
-
-*6*
-
-bejniethom.
+(d) jekk huwa jkun ċittadin taż-żewġ Stati jew ta’ ebda wieħed minnhom, l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiddeċiedu l-każ bi ftehim reċiproku bejniethom.
 
 \3. Fejn minћabba fid-dispożizzjonijiet tal-paragrafu 1 persuna li ma tkunx individwu tkun residenti taż-żewg Stati Kontraenti, allura dik il-persuna gћandha titqies bћala residenti biss tal-Istat fejn ikun jinsab il-post ta’ maniġġ effettiv tagħha.
 
@@ -207,9 +189,7 @@ Minkejja d-dispożizzjonijiet preċedenti ta’ dan l-Artikolu, il-frażi "stabb
 
 (a) l-użu ta’ faċilitajiet għall-iskop biss ta’ ħażna, wiri jew kunsinna ta’ oġġetti jew merkanzija li tappartjeni lill-impriża;
 
-*7*
-
-(IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 (b) il-manutenzjoni ta’ ħażna ta’ merkanzija jew merkanzija li tappartjeni lill-impriża għall-iskop uniku ta’ ħażna, wiri jew kunsinna;
+(b) il-manutenzjoni ta’ ħażna ta’ merkanzija jew merkanzija li tappartjeni lill-impriża għall-iskop uniku ta’ ħażna, wiri jew kunsinna;
 
 (ċ) il-manutenzjoni ta’ ħażna ta’ merkanzija jew merkanzija li tappartjeni lill-impriża għall-iskop uniku ta' pproċessar minn impriża oħra;
 
@@ -231,10 +211,6 @@ Impriża ma għandhiex titqies li għandha stabbiliment permanenti fi Stat Kontr
 
 Il-fatt li kumpanija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla jew tkun kontrollata minn kumpanija li tkun residenti tal-Istat Kontraenti l-ieћor, jew li tkun tiġġestixxi negozju f’dak l-Istat l-ieћor (sew permezz ta’ stabbiliment permanenti sew xort’oћra), ma gћandux fih innifsu jikkostitwixxi lil kumpanija waħda jew l-oћra stabbiliment permanenti tal-kumpanija l-oћra.
 
-*8*
-
-[L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
-
 **ARTIKOLU 6**
 
 **Income Minn Proprjetà Immobbli**
@@ -255,11 +231,9 @@ Il-fatt li kumpanija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla j
 
 \2. Għall-finijiet ta’ dan l-Artikolu u l-Artikolu 21 il-profitti li huma attribwibbli f'kull Stat Kontraenti għall-istabbiliment permanenti msemmi fil-paragrafu 1 huma l-profitti li jista’ jkun mistenni li jagħmlu, partikolarment fit-trattati tiegħu ma’ partijiet oħra tal-impriża, jekk hija kienet impriża separata u indipendenti ingaġġata fl-istess attivitajiet jew attivitajiet simili taħt l-istess kondizzjonijiet jew kundizzjonijiet simili, b'kont meħud tal-funzjonijiet imwettqa, l-assi użati u r-riskji assunti mill-impriża permezz tal-istabbiliment permanenti u permezz tal-partijiet l-oħra tal-impriża.
 
-\3. Fejn, skont il-paragrafu 2, Stat Kontraenti jaġġusta l-profitti li huma attribwibbli għal stabbiliment permanenti ta’ impriża ta’ wieħed mill-Istati Kontraenti u għaldaqstant jintaxxa l-profitti tal-impriża li ġew imposti fuq it-taxxa fl-Istat l-ieħor, l-Istat l-ieħor (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 għandu, sal-limitu meħtieġ biex tiġi eliminata t-taxxa doppja fuq dawn il-profitti, jagħmel aġġustament xieraq għall-ammont tat-taxxa imposta fuq dawk il-profitti. Fid-determinazzjoni ta’ dan l-aġġustament, l-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jekk meħtieġ jikkonsultaw lil xulxin.
+\3. Fejn, skont il-paragrafu 2, Stat Kontraenti jaġġusta l-profitti li huma attribwibbli għal stabbiliment permanenti ta’ impriża ta’ wieħed mill-Istati Kontraenti u għaldaqstant jintaxxa l-profitti tal-impriża li ġew imposti fuq it-taxxa fl-Istat l-ieħor, l-Istat l-ieħor għandu, sal-limitu meħtieġ biex tiġi eliminata t-taxxa doppja fuq dawn il-profitti, jagħmel aġġustament xieraq għall-ammont tat-taxxa imposta fuq dawk il-profitti. Fid-determinazzjoni ta’ dan l-aġġustament, l-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jekk meħtieġ jikkonsultaw lil xulxin.
 
 \4. Fejn il-profitti jinkludu oġġetti ta' income li huma trattati separatament f'Artikoli oħra ta’ dan il-Ftehim, allura d-dispożizzjonijiet ta’ dawk l-Artikoli ma għandhomx jiġu affettwati mid-dispożizzjonijiet ta’ dan l-Artikolu.
-
-*9*
 
 **ARTIKOLU 8**
 
@@ -281,11 +255,7 @@ Il-fatt li kumpanija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla j
 
 u f’kull każ isiru jew jiġu imposti kundizzjonijiet bejn iż-żewġ impriżi fir-relazzjonijiet kummerċjali jew finanzjarji tagћhom li ma jkunux jaqblu ma’ dawk li kieku kienu jiġu magћmulin bejn impriżi indipendenti, f’dak il-każ il-profitti li, kieku ma kienx gћal dawk il-kundizzjonijiet, kienu jakkumulaw favur xi waħda mill-impriżi, iżda, minћabba f’dawk il-kundizzjonijiet, ma jkunux ġew hekk akkumulati, jistgћu jiġu inklużi fil-profitti ta’ dik l-impriża u jiġu intaxxati skont hekk.
 
-\2. Fejn Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat – u skont hekk jintaxxa - profitti li fuqhom impriża tal- Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kundizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi [L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
-
-*10*
-
-indipendenti, allura dak l-Istat l-ieћor għandu jagћmel aġġustament xieraq dwar l-ammont ta’taxxa li għandha titħallas hemm fuq dawk il-profitti. Biex jiġi stabbilit dak l-aġġustament, id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw lil xulxin.
+\2. Fejn Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat – u skont hekk jintaxxa - profitti li fuqhom impriża tal- Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kundizzjonijiet magћmulin bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor għandu jagћmel aġġustament xieraq dwar l-ammont ta’taxxa li għandha titħallas hemm fuq dawk il-profitti. Biex jiġi stabbilit dak l-aġġustament, id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw lil xulxin.
 
 **ARTIKOLU 10**
 
@@ -305,11 +275,9 @@ indipendenti, allura dak l-Istat l-ieћor għandu jagћmel aġġustament xieraq 
 
 Dan il-paragrafu ma għandux jaffettwa t-tassazzjoni tal-kumpanija rigward il-profitti li minnhom jitħallsu d-dividendi.
 
-\3. Il-frażi "dividendi" skont ma tintuża f’dan l-Artikolu tfisser income minn ishma, ishma "jouissance" jew drittijiet "jouissance", ishma fil-minjieri, ishma tal-fondaturi jew jeddijiet oћra, li ma jkunux pretensjonijiet ta’ debitu, li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 trattament dwar it-taxxa bћallikieku kien income minn ishma skont il-liġijiet tat-taxxa tal-Istat fejn tkun residenti l-kumpanija li tkun qiegћda tqassam.
+\3. Il-frażi "dividendi" skont ma tintuża f’dan l-Artikolu tfisser income minn ishma, ishma "jouissance" jew drittijiet "jouissance", ishma fil-minjieri, ishma tal-fondaturi jew jeddijiet oћra, li ma jkunux pretensjonijiet ta’ debitu, li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess trattament dwar it-taxxa bћallikieku kien income minn ishma skont il-liġijiet tat-taxxa tal-Istat fejn tkun residenti l-kumpanija li tkun qiegћda tqassam.
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpanija li tћallas id-dividendi tkun residenti tiegћu permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, u l-holding li dwaru jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti jew bażi fissa. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 għandhom japplikaw.
-
-*11*
 
 \5. Fejn kumpanija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpanija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpanija gћal taxxa fuq il-profitti mhux imqassma tal-kumpanija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jirriżulta f’dak l-Istat l-ieћor.
 
@@ -328,10 +296,6 @@ Dan il-paragrafu ma għandux jaffettwa t-tassazzjoni tal-kumpanija rigward il-pr
 (b) fuq kwalunkwe self ta’ kwalunkwe tip mogħti minn bank;
 
 (ċ) għal skema ta’ investiment kollettiv;
-
-*12*
-
-[L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
 
 (d) għal dak l-Istat l-ieħor jew il-bank ċentrali jew awtorità lokali tiegħu; jew
 
@@ -353,11 +317,9 @@ Fejn, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju
 
 \1. Royalties li jirriżultaw fi Stat Kontraenti u li s-sid benefiċjarju tagħhom ikun residenti tal-Istat Kontraenti l-ieħor għandhom ikunu intaxxati biss f’dak l-Istat l-ieħor.
 
-\2. Il-frażi "royalties" skont ma tintuża f’dan l-Artikolu tfisser ћlasijiet ta’ kull xorta li jiġu riċevuti bħala korrispettiv gћall-użu ta’, jew gћall-jedd tal-użu, ta’ kull dritt tal-awtur ta’ xogћol letterarju, artistiku jew xjentifiku inklużi films ċinematografiċi, kull privattiva, (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, jew gћal informazzjoni dwar konoxxenza industrijali, kummerċjali jew xjentifika.
+\2. Il-frażi "royalties" skont ma tintuża f’dan l-Artikolu tfisser ћlasijiet ta’ kull xorta li jiġu riċevuti bħala korrispettiv gћall-użu ta’, jew gћall-jedd tal-użu, ta’ kull dritt tal-awtur ta’ xogћol letterarju, artistiku jew xjentifiku inklużi films ċinematografiċi, kull privattiva, trade mark, disinn jew mudell, pjan, formula jew proċess sigrieti, jew gћal informazzjoni dwar konoxxenza industrijali, kummerċjali jew xjentifika.
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 gћandhom japplikaw.
-
-*13*
 
 \4. Fejn, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejniethom it-tnejn u xi persuna oћra, l-ammont tar-royalties, meta jiġi kkunsidrat x’ikun l-użu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, jeċċedi l-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju fl-assenza ta’ dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
@@ -372,10 +334,6 @@ Fejn, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju
 \3. Qligħ li impriża ta’ Stat Kontraenti li topera bastimenti jew inġenji tal-ajru fi traffiku internazzjonali li ġejja mill-aljenazzjoni ta’ tali bastimenti jew inġenji tal-ajru, jew ta’ proprjetà mobbli li għandha x’taqsam mat-tħaddim ta’ tali bastimenti jew inġenji tal-ajru, għandha tkun taxxabbli biss f’dak l-Istat.
 
 \4. Qligħ derivat minn resident ta’ Stat Kontraenti mit-trasferiment ta’ azzjonijiet jew interessi komparabbli, bħal ma huma interessi f’soċjetà jew trust, jistgħu jiġu intaxxati fl-Istat Kontraenti l-ieħor jekk, f’xi żmien matul it-365 ġurnata qabel it-trasferiment, dawn l-azzjonijiet jew interessi komparabbli dderivaw iżjed minn 50 fil-mija tal-valur tagħhom direttament jew indirettament minn proprjetà immobbli (kif imfisser fl-Artikolu 6) li tinsab fl-Istat Kontraenti l-ieħor.
-
-*14*
-
-[L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
 
 \5. Qligћ mit-trasferiment ta’ kull proprjetà, ħlief dik imsemmija fil-paragrafi 1, 2, 3 u 4, gћandu jiġi intaxxat biss fl-Istat Kontraenti li min jittrasferixxi jkun residenti fih.
 
@@ -403,9 +361,7 @@ Fejn, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju
 
 \2. Salarji, pagi u rimunerazzjoni oħra simili derivata minn residenti ta’ Stat Kontraenti fil-kapaċità tiegħu bħala uffiċjal f'pożizzjoni maniġerjali tal-ogħla livell li tipprovdi pariri lill-bord tad-diretturi ta’ kumpanija li hija residenti tal-Istat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-Istat l-ieħor.
 
-*15*
-
-(IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 ARTIKOLU 16
+**ARTIKOLU 16**
 
 **Artisti U Sportivi**
 
@@ -433,10 +389,6 @@ Bla ħsara għad-dispożizzjonijiet tal-paragrafu 2 tal-Artikolu 19, pensjonijie
 
 \2. (a) Minkejja d-dispożizzjonijiet tal-paragrafu 1, pensjonijiet u kumpens ieħor bħalhom mћallsa minn, jew li joħorġu minn fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegħu lil individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandhom jiġu intaxxati biss f’dak l-Istat.
 
-*16*
-
-[L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
-
 (b) Madankollu, pensjoni bħal dik jew kumpens ieħor simili għandha tkun taxxabbli biss fl-Istat Kontraenti l-ieħor kemm il-darba l-individwu jkun residenti ta’, u ċittadin ta’, dak l-Istat.
 
 \3. Id-dispożizzjonijiet tal-Artikoli 14, 15, 16 u 17 gћandhom japplikaw gћal salarji, pagi, pensjonijiet u kumpens ieħor bħalhom, gћar-rigward ta’ servizzi mogħtija f’dak li għandu x’jaqsam ma’ kummerċ ġestit minn Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegħu.
@@ -463,9 +415,7 @@ Pagamenti ta’ għotjiet jew boroż ta’ studju li student jew apprendist tan-
 
 Bla ħsara għad-dispożizzjonijiet tal-liġi ta’ Malta fir-rigward li jitħalla li jingħata kreditu kontra t-taxxa ta’ Malta dwar taxxa barranija, meta, skont id-dispożizzjonijiet ta’ dan il-Ftehim, ikun hemm inkluż fi stima ta’ Malta income minn għejjun fil-Kosovo, it-taxxa tal-Kosovo fuq dak l-income għandha tingħata bħala kreditu kontra t-taxxa ta’ Malta relattiva li titħallas fuq dak l-income.
 
-*17*
-
-(IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 2. Fil-każ tal-Kosovo, it-taxxa doppja għandha tiġi eliminata kif ġej:
+\2. Fil-każ tal-Kosovo, it-taxxa doppja għandha tiġi eliminata kif ġej:
 
 (a) bħala tnaqqis mit-taxxa fuq l-income ta’ dak ir-resident, ammont daqs it-taxxa fuq l-income imħallsa f'Malta;
 
@@ -483,11 +433,7 @@ Tali tnaqqis fi kwalunkwe każ ma għandux, madankollu, jeċċedi dik il-parti t
 
 \3. It-taxxa fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieћor ma gћandhiex tinġabar b’mod inqas favorevoli f’dak Istat l-ieћor mit-taxxa miġbura fuq impriżi ta’ dak l-Istat l-ieћor li jkunu qed iwettqu l-istess attivitajiet. Din id-dipożizzjoni ma għandhiextitqies li tobbliga xi Stat Kontraenti li jagħti lil residenti tal-Istat Kontraenti l-ieħor xi allowances personali, ħelsien u tnaqqis għall-għanijiet ta’ tassazzjoni li jingħata minħabba l-istatus ċivili jew responsabbiltajiet ta’ familja li jagħti lir-residenti tiegħu.
 
-\4. Ħlief meta japplikaw id-dispożizzjonijiet tal-paragrafu 1 tal-Artikolu 9, tal-paragrafu 7 tal-Artikolu 11, jew tal-paragrafu 4 tal- Artikolu 12, mgћax, royalties u ћlasijiet oћra li jitћallsu minn impriża ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor gћandhom, gћall-fini li jiġu stabbiliti x’inhuma l-profitti taxxabbli ta’ dik l-impriża, jiġu mnaqqsa taћt l-istess kundizzjonijiet bћallikieku dawn kienu tћallsu lil residenti tal-Istat l-ewwel imsemmi. Bl-istess mod, kwalunkwe dejn ta’ impriża ta’ Stat Kontraenti lil residenti tal-Istat [L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
-
-*18*
-
-Kontraenti l-ieħor għandu, għall-iskop li jiddetermina l-kapital taxxabbli ta’ dik l-impriża, ikun jista’ jitnaqqas bl-istess kondizzjonijiet bħallikieku kienu ġew ikkuntrattati lil residenti tal-Istat imsemmi l-ewwel.
+\4. Ħlief meta japplikaw id-dispożizzjonijiet tal-paragrafu 1 tal-Artikolu 9, tal-paragrafu 7 tal-Artikolu 11, jew tal-paragrafu 4 tal- Artikolu 12, mgћax, royalties u ћlasijiet oћra li jitћallsu minn impriża ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieћor gћandhom, gћall-fini li jiġu stabbiliti x’inhuma l-profitti taxxabbli ta’ dik l-impriża, jiġu mnaqqsa taћt l-istess kundizzjonijiet bћallikieku dawn kienu tћallsu lil residenti tal-Istat l-ewwel imsemmi. Bl-istess mod, kwalunkwe dejn ta’ impriża ta’ Stat Kontraenti lil residenti tal-Istat Kontraenti l-ieħor għandu, għall-iskop li jiddetermina l-kapital taxxabbli ta’ dik l-impriża, ikun jista’ jitnaqqas bl-istess kondizzjonijiet bħallikieku kienu ġew ikkuntrattati lil residenti tal-Istat imsemmi l-ewwel.
 
 \5. Impriżi ta’ Stat Kontraenti, li l-kapital tagћhom ikun gћalkollox jew f’parti minnu proprjetà jew taћt il-kontroll, sew dirett sew mhux dirett, ta’ xi residenti wieħed jew aktar tal-Istat Kontraenti l-ieћor, ma gћandhom ikunu assoġġettati fl-Istat l-ewwel imsemmi gћal ebda taxxa jew gћal ebda rekwiżit konnessa ma’ dan li tkun xort’oћra jew ta’ iktar piż mit-taxxa u mir-rekwiżiti konnessi li gћalihom ikunu jew jistgћu jkunu assoġġettati impriżi simili tal-Istat l-ewwel imsemmi.
 
@@ -503,11 +449,9 @@ Kontraenti l-ieħor għandu, għall-iskop li jiddetermina l-kapital taxxabbli ta
 
 \3. L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom jippruvaw jirriżolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubju li jinħoloq fir-rigward tal-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Huma jistgħu wkoll jikkonsultaw ma’ xulxin dwar l-eliminazzjoni ta’ tassazzjoni doppja f’każijiet mhux previsti fil-Ftehim.
 
-\4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgħu jikkomunikaw direttament ma’ xulxin, inkluż permezz ta’ kummissjoni konġunta li tkun tikkonsisti minnhom stess jew mir-rappreżentanti tagħhom, bl-għan li jintlaħaq ftehim fis-sens tal-paragrafi ta’ qabel. (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 5. Fejn,
+\4. L-awtoritajiet kompetenti tal-Istati Kontraenti jistgħu jikkomunikaw direttament ma’ xulxin, inkluż permezz ta’ kummissjoni konġunta li tkun tikkonsisti minnhom stess jew mir-rappreżentanti tagħhom, bl-għan li jintlaħaq ftehim fis-sens tal-paragrafi ta’ qabel. 5. Fejn,
 
 (a) taħt il-paragrafu 1, persuna tkun ippreżentat każ quddiem l-awtorità kompetenti ta’ Stat Kontraenti fuq il-bażi li l-azzjonijiet ta’ wieħed mill-Istati Kontraenti jew tat-tnejn li huma jkunu irriżulataw f’intaxxar fuq dik il-persuna li ma jkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim, u
-
-*19*
 
 (b) l-awtoritajiet kompetenti ma jkunux jistgħu jilħqu ftehim biex jirrisolvu l-każ skont il-paragrafu 2 fi żmien sentejn mid-data meta l-informazzjoni kollha meħtieġa mill-awtoritajiet kompetenti sabiex jindirizzaw il-każ tkun ġiet provduta liż-żewġ awtoritajiet kompetenti,
 
@@ -519,11 +463,7 @@ kwistjonijiet mhux solvuti li jirriżultaw dwar il-każ għandhom jiġu sottomes
 
 \1. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jiskambjaw dik l-informazzjoni li tista’ tkun prevista bћala rilevanti gћat-twettiq tad-dispożizzjonijiet ta’ dan il-Ftehim jew għal l-amministrazzjoni jew l-infurzar tal-liġijiet domestiċi rigward taxxi ta’ kull tip u għamla imposti f’isem l-Istati Kontraenti, jew tas-sottodiviżjonijiet politiċi jew awtoritajiet lokali tagħhom, sakemm it-taxxa li taqa’ taћthom ma tmurx kontra l-Ftehim. L-iskambju ta’ informazzjoni mhuwiex ristrett bl-Artikoli 1 u 2.
 
-\2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiġi ttrattata bћala waћda sigrieta bl-istess mod bћal informazzjoni li tinkiseb taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, id-deċizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew it-tћaris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuh jew f’deċiżjonijiet ġudizzjarji. Minkejja dak li hawn qabel, informazzjoni [L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
-
-*20*
-
-li jirċievi Stat Kontraenti tista’ tiġi wżata għal għanijiet oħra meta dik l-informazzjoni tista’ tiġi wżata għal tali għanijiet oħra taħt il-liġijiet taż-żewġ Stati u l-awtorità kompetenti tal-Istat li jagħti linformazzjoni jawtorizza dak l-użu.
+\2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiġi ttrattata bћala waћda sigrieta bl-istess mod bћal informazzjoni li tinkiseb taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, id-deċizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew it-tћaris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuh jew f’deċiżjonijiet ġudizzjarji. Minkejja dak li hawn qabel, informazzjoni li jirċievi Stat Kontraenti tista’ tiġi wżata għal għanijiet oħra meta dik l-informazzjoni tista’ tiġi wżata għal tali għanijiet oħra taħt il-liġijiet taż-żewġ Stati u l-awtorità kompetenti tal-Istat li jagħti linformazzjoni jawtorizza dak l-użu.
 
 \3. F’ebda każ magћandhom id-dispożizzjonijiet tal-paragrafi 1 u 2 jiftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
 
@@ -543,9 +483,7 @@ li jirċievi Stat Kontraenti tista’ tiġi wżata għal għanijiet oħra meta d
 
 Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-membri ta’ missjonijiet diplomatiċi jew ta’ kariġi konsulari taћt ir-regoli ġenerali tad-dritt internazzjonali jew taћt id-dispożizzjonijiet ta’ kull ftehim speċjali.
 
-*21*
-
-(IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO) [L.S.123.192 ARTIKOLU 26
+**ARTIKOLU 26**
 
 **Dritt Għal Benefiċċji**
 
@@ -564,10 +502,6 @@ Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-mem
 (a) fir-rigward ta' taxxi miżmuma f'ras il-għajn fir-rigward ta’ ammonti mħallsa jew ikkreditati fi jew wara l-ewwel jum ta’ Jannar wara d-data li fiha dan il-Ftehim jidħol fis-seħħ; u
 
 (b) fir-rigward ta’ taxxi oħra, fir-rigward ta’ snin fiskali li jibdew fl-ewwel jum ta’ Jannar jew wara d-data li fiha dan il-Ftehim jidħol fis-seħħ.
-
-*22*
-
-[L.S. 123.192 (IL-GVERN TAR-REPUBBLIKA TAL-KOSOVO)
 
 **ARTIKOLU 28**
 

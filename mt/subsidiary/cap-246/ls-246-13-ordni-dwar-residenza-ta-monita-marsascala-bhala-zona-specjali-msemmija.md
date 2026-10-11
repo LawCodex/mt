@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Residenza Ta' Monita, Marsascala bħala Żona Speċjali Msemmija (S.L. 246.13)
 
-*1*
-
-B}ALA |ONA SPE~JALI MSEMMIJA [L.S.246.13
-
 **LE{ISLAZZJONI SUSSIDJARJA 246.13**
 
 **ORDNI DWAR RESIDENZA TA’ MONITA,**

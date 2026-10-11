@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Bord għall-Governanza tal-Ħabsijiet"
-identifier: "S.L. 260.6"
+identifier: "S.L. 260.06"
 eli: "https://legislation.mt/eli/sl/260.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/260.6/20180611/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Bord għall-Governanza tal-Ħabsijiet (S.L. 260.6)
+# Regolamenti dwar il-Bord għall-Governanza tal-Ħabsijiet (S.L. 260.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 260.06**
 

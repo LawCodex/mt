@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Timijiet ta’ Investigazzjoni Konāunta (Stati Membri tal-UE) (S.L. 9.18)
 
-*1*
-
-(STATI MEMBRI TAL-UE) [L.S.9.18
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.18**
 
 **REGOLAMENTI DWAR TIMIJIET**
@@ -62,11 +58,7 @@ F’dawn ir-regolamenti, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 (4) Membri sekondati tat-tim ta’ investigazzjoni konġunta jistgħu, skont il-liġi tal-Istat Membru li minnu t-tim jopera, jingħatalhom il-kompitu, mill-kap tat-tim, li jieħdu ċerti miżuri investigattivi meta dan ikun ġir approvat mill-awtoritajiet kompetenti tal-Istat Membru tal-operazzjoni u tal-Istat Membru li jissekonda.
 
-(5) Meta tim ta’ investigazzjoni konġunta jeħtieġ li jittieħdu miżuri investigattivi fi Stat Membru li jkun stabbilixxa t-tim, il- [L.S.9.18 (STATI MEMBRI TAL-UE)
-
-membri senkondati mat-tim minn dak l-Istat Membru jistgħu jitolbu l-awtoritajiet kompetenti tagħhom stess biex jieħdu dawk il-miżuri, u dawk il-miżuri għandhom jiġi kkunsidrati, f’dak l-Istat Membru, skont il-kondizzjonijiet li kienu japplikaw li kieku dawk il-miżuri kienu ġew mitluba li jittieħdu f ’investigazzjoni nazzjonali.
-
-*2*
+(5) Meta tim ta’ investigazzjoni konġunta jeħtieġ li jittieħdu miżuri investigattivi fi Stat Membru li jkun stabbilixxa t-tim, il-membri senkondati mat-tim minn dak l-Istat Membru jistgħu jitolbu l-awtoritajiet kompetenti tagħhom stess biex jieħdu dawk il-miżuri, u dawk il-miżuri għandhom jiġi kkunsidrati, f’dak l-Istat Membru, skont il-kondizzjonijiet li kienu japplikaw li kieku dawk il-miżuri kienu ġew mitluba li jittieħdu f ’investigazzjoni nazzjonali.
 
 (6) Meta t-tim ta’ investigazzjoni konġunta jkun jeħtieġ għajnuna minn Stat Membru li ma jkunx wieħed mill-Istati Membri li stabbilixxew it-tim, jew minn Stat terz, it-talba għall-għajnuna tista’ ssir mill-awtoritajiet kompetenti tal-Istat tal-operazzjonijiet lill-awtoritajiet kompetenti tal-Istat l-ieħor interessat skont l-istrumenti u l-arranġamenti relevanti.
 

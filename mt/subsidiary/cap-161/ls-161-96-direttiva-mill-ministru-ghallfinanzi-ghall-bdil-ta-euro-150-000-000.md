@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru għallFinanzi għall-Bdil ta’ Euro 150,000,000 mill-Euro 388,915,541 5.1% Stock tal-Gvern ta’ Malta 2014 (III) f’ammont aggregat ta’ Euro 150,000,000 (S.L. 161.96)
 
-5.1% STOCK TAL-GVERN TA’ MALTA 2014 (III)
-
-*1*
-
-F’AMMONT AGGREGAT TA’ EURO 150,000,000 [L.S.161.96
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.96**
 
 **DIRETTIVA MILL-MINISTRU GĦALL-FINANZI**
@@ -73,13 +67,7 @@ L-ammont meħtieġ għall-ħolqien u l-ħruġ ta’ wieħed jew aktar miż-żew�
 
 ## 7. Rata ta’ mgħax u dati tal-ħlas.
 
-(1) L-imgħax bir-rata ta’ Euro 1.60 għal kull Euro 100, tat- 3.2% Stock tal-Gvern ta’ Malta 2019 (V) jitħallas kull sitt xhur b’lura fil-31 ta’ Jannar u fil-31 ta’ Lulju ta’ kull sena matul il-kors 5.1% STOCK TAL-GVERN TA’ MALTA 2014 (III)
-
-*2*
-
-[L.S.161.96 F’AMMONT AGGREGAT TA’ EURO 150,000,000
-
-tal-iStock. L-ewwel ħlas tal-imgħax ta’ Euro 1.60 għal kull Euro 100 Stock li jkopri l-perjodu bejn il-31 ta’ Lulju, 2013 u t-30 ta’ Jannar, 2014 (iż-żewġ dati inklużi) isir fil-31 ta’ Jannar, 2014.
+(1) L-imgħax bir-rata ta’ Euro 1.60 għal kull Euro 100, tat- 3.2% Stock tal-Gvern ta’ Malta 2019 (V) jitħallas kull sitt xhur b’lura fil-31 ta’ Jannar u fil-31 ta’ Lulju ta’ kull sena matul il-kors tal-iStock. L-ewwel ħlas tal-imgħax ta’ Euro 1.60 għal kull Euro 100 Stock li jkopri l-perjodu bejn il-31 ta’ Lulju, 2013 u t-30 ta’ Jannar, 2014 (iż-żewġ dati inklużi) isir fil-31 ta’ Jannar, 2014.
 
 (2) L-imgħax bir-rata ta’ Euro 1.675 għal kull Euro 100, tat- 3.35% Stock tal-Gvern ta’ Malta 2020 (IV) jitħallas kull sitt xhur b’lura fil-31 ta’ Jannar u fil-31 ta’ Lulju ta’ kull sena matul il-kors tal-iStock. L-ewwel ħlas ta’ mgħax ta’ Euro 1.675 għal kull Euro 100 Stock li jkopri l-perjodu bejn il-31 ta’ Lulju, 2013 u t-30 ta’ Jannar, 2014 (iż-żewġ dati inklużi) isir fil-31 ta’ Jannar, 2014.
 

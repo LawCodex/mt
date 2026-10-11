@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Korp li Jagħti Kumpens"
-identifier: "S.L. 104.4"
+identifier: "S.L. 104.04"
 eli: "https://legislation.mt/eli/sl/104.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/104.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Korp li Jagħti Kumpens (S.L. 104.4)
+# Regolamenti dwar Korp li Jagħti Kumpens (S.L. 104.04)
 
 LE{ISLAZZJONI SUSSIDJARJA 104.04
 

@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet li għandhom jitħallsu għall-Operazzjonijiet tal-Akkwakultura (S.L. 35.44)
 
-*1*
-
-OPERAZZJONIJIET TAL-AKKWAKULTURA [L.S. 35.44] LEĠISLAZZJONI SUSSIDJARJA 35.44
+**LEĠISLAZZJONI SUSSIDJARJA 35.44**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET LI**
 
@@ -66,11 +64,7 @@ L-AVVIŻ LEGALI 211 tal-2026
 
 *   L.S. 425.12.*
 
-(2) Għall-finijiet ta’ dawn ir-regolamenti, kliem u espressjonijiet użati f’dawn ir-regolamenti li huma wkoll użati fl-Att u fir-Regolamenti dwar l-Operazzjonijiet tal-Akkwakultura iżda li mhumiex imfissra hawn għandu jkollhom l-istess tifsira assenjata [L.S. 35.44] OPERAZZJONIJIET TAL-AKKWAKULTURA
-
-lilhom fl-Att u, jew fir-Regolamenti dwar l-Operazzjonijiet tal- Akkwakultura.
-
-*2*
+(2) Għall-finijiet ta’ dawn ir-regolamenti, kliem u espressjonijiet użati f’dawn ir-regolamenti li huma wkoll użati fl-Att u fir-Regolamenti dwar l-Operazzjonijiet tal-Akkwakultura iżda li mhumiex imfissra hawn għandu jkollhom l-istess tifsira assenjata lilhom fl-Att u, jew fir-Regolamenti dwar l-Operazzjonijiet tal- Akkwakultura.
 
 ## 3. Drittijiet dovuti għal applikazzjoni ġdida għal permess. L.S. 425.12.
 
@@ -92,9 +86,7 @@ lilhom fl-Att u, jew fir-Regolamenti dwar l-Operazzjonijiet tal- Akkwakultura.
 
 Id-Direttur għandu jissospendi kwalunkwe proċess ta’ applikazzjoni, tiġdid jew kontinwazzjoni ta’ permess fejn kwalunkwe dritt jew kontribuzzjoni annwali dovuti skont dawn ir-regolamenti ma jitħallsux fiż-żmien preskritt.
 
-*3*
-
-OPERAZZJONIJIET TAL-AKKWAKULTURA [L.S. 35.44] L-EWWEL SKEDA
+## L-EWWEL SKEDA
 
 (regolament 3)
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar is-Sorveljanza fuq l-Għajnuna Mogħtija mill-Istat"
-identifier: "S.L. 325.7"
+identifier: "S.L. 325.07"
 eli: "https://legislation.mt/eli/sl/325.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/325.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar is-Sorveljanza fuq l-Għajnuna Mogħtija mill-Istat (S.L. 325.7)
-
-*1*
-
-MOG}TIJA MILL-ISTAT [L.S.325.07
+# Regolamenti dwar is-Sorveljanza fuq l-Għajnuna Mogħtija mill-Istat (S.L. 325.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 325.07**
 
@@ -99,11 +95,7 @@ I\\da, tista’ wkoll ting]ata g]ajnuna b]al dik li taqbel mal-prin`ipji u l-pra
 
 (1) Il-provditur ta’ l-g]ajnuna [dida g]andu jg]arraf lill- Bord bil-proposti kollha g]al kull g]ajnuna b]al dik.
 
-(2) Il-provditur ta’ l-g]ajnuna [dida g]andu jag]ti lill-Bord l-informazzjoni kollha me]tie[a mill-istess Bord biex ikun jista’ MOG}TIJA MILL-ISTAT [L.S.325.07
-
-jag]ti l-opinjoni tieg]u.
-
-*3*
+(2) Il-provditur ta’ l-g]ajnuna [dida g]andu jag]ti lill-Bord l-informazzjoni kollha me]tie[a mill-istess Bord biex ikun jista’ jag]ti l-opinjoni tieg]u.
 
 (3) L-avvi\\ g]andu jsir fuq prospett fl-g]amla skond kif jidher fl-Iskeda.
 
@@ -144,8 +136,6 @@ Il-provditur tal-g]ajnuna g]andu, mhux iktar tard mill-ewwel tliet xhur ta’ ku
 formola preskritta, id-dettalji ta’ kull g]ajnuna mog]tija matul is-sena li tkun g]addiet minnufih qabel.
 
 *4*
-
-MOG}TIJA MILL-ISTAT [L.S.325.07 5
 
 ## SKEDA — Regolament 5(3) — Avvi\\ dwar G]ajnuna
 

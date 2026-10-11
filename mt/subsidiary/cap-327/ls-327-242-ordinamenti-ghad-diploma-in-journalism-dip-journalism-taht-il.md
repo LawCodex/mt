@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Journalism - Dip. Journalism - taħt il-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien (S.L. 327.242)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-MIDJA
-
-*1*
-
-U X-XJENZI TAL-GĦARFIEN [L.S.327.242
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.242**
 
 ORDINAMENTI GĦAD-DIPLOMA IN JOURNALISM - DIP. JOURNALISM - TAĦT IL-PATROĊINJU
@@ -75,12 +69,6 @@ Il-kors jinfirex fuq medda ta’ sena akkademika ta’ studju fuq bażi full-tim
 (1) Il-programm ta’ studju jikkonsisti minn taqsimiet-studju li għalihom hemm assenjati 60 kretti.
 
 (2) Il-Bord jippubblika l-programm tal-kors skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali u kif approvati mis-Senat, qabel il-bidu ta’ kull kors. Suġġett għat-tibdiliet li l-Bord jista’ li jagħmel bl-approvazzjoni tas-Senat, l-istudenti għandhom isegwu t-taqsimiet studju u jiksbu l-kredti kif indikat fil-programm tal-kors għad-Diploma.
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-MIDJA
-
-*2*
-
-[L.S.327.242 U X-XJENZI TAL-GĦARFIEN
 
 ## 6. Klassifikazzjoni tar- Rikonoxximent.
 

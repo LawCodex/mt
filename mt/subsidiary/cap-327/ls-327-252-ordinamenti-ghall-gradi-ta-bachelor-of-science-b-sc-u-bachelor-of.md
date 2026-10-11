@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Gradi ta' Bachelor of Science - B.SC. - u Bachelor of Science (Honours) - B.SC. (Hons) - taħt il-Patroċinju tal-Fakultà tax-Xjenza (S.L. 327.252)
 
-BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) -
-
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZA [L.S.327.252
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.252**
 
 ORDINAMENTI GĦALL-GRADI TA’ BACHELOR OF SCIENCE - B. SC. - U BACHELOR OF SCIENCE
@@ -76,11 +70,9 @@ Regolamenti għad-Dħul, ikollhom ir-rekwiżiti speċjali għall-kors kif imniż
 
 (b) Bijoloġija: għaddew fil-Bijoloġija (Avvanzata, grad Ċ jew aħjar) u fil-Kimika (Intermedja, grad Ċ jew aħjar);
 
-(ċ) Kimika: għaddew fil-Kimika (Avvanzata, grad Ċ jew BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) - [L.S.327.252 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZA aħjar) u jew fil-Fiżika jew fil-Matematika Pura (Intermedja, grad Ċ jew aħjar);
+(ċ) Kimika: għaddew fil-Kimika (Avvanzata, grad Ċ jew aħjar) u jew fil-Fiżika jew fil-Matematika Pura (Intermedja, grad Ċ jew aħjar);
 
 (d) Computational Physics: għaddew fil-Matematika Pura (Avvanzata, grad Ċ jew aħjar) u fil-Fiżika (Intermedja, grad Ċ jew aħjar);
-
-*2*
 
 (e) Xjenza tal-Kompjuter: għaddew fil-Matematika Pura (Avvanzata, grad Ċ jew aħjar);
 
@@ -118,13 +110,11 @@ jew għaddew fil-Computing jew fl-Information Technology (Avvanzata, grad Ċ jew
 
 (2) Il-Kors li jwassal għall-grad tal-Bachelor of Science (Honours) f’żewġ suġġetti bħala oqsma ewlenin ta’ studju għandu jinfirex fuq perjodu ta’ erba’ snin ta’ studju full-time jew l-ekwivalenti fi studju part-time.
 
-BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) -
+## 5. Oqsma ta’ studju.
 
-*3*
+*Emendat: A.L. 408 tal-2013; A.L. 198 tal-2018.*
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZA [L.S.327.252 5. (1) Il-grad ta’ Bachelor of Science (Honours) f’qasam ta’ studju ewlieni jista’ jiġi offrut f’kull qasam ta’ studju li jaqa’ taħt ir-responsabbilità tal-Fakultà, kif approvat mill-Bord.
-
-*Oqsma ta’ studju. Emendat: A.L. 408 tal-2013; A.L. 198 tal-2018.*
+(1) Il-grad ta’ Bachelor of Science (Honours) f’qasam ta’ studju ewlieni jista’ jiġi offrut f’kull qasam ta’ studju li jaqa’ taħt ir-responsabbilità tal-Fakultà, kif approvat mill-Bord.
 
 (2) \*Il-grad ta’ Bachelor of Science (Honours) jista’ jiġi offrut ukoll f’żewġ oqsma ta’ studju ewlenin mill-lista (a) ta’ l-oqsma ta’ studju, jew f’qasam ta’ studju ewlieni wieħed mill-għażla (a) u f’qasam ta’ studju ewlieni wieħed mill-għażla (b), kif approvat mill-Bord:
 
@@ -154,13 +144,11 @@ Il-Bord għandu jippubblika l-programm ta’ l-istudju għal kull qasam ta’ st
 
 (3) Il-programmi ta’ studju għall-oqsma li jistgħu jittieħdu bħala oqsma sussidjarji għandhom ikunu ppubblikati mill-bordijiet ta’ l-entitajiet akkademiċi responsabbli għalihom.
 
-(4)‡ It-tielet sena tal-Kors għandha tinkludi dissertazzjoni li BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) - [L.S.327.252 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZA għaliha hemm assenjati mhux inqas minn 10 kredti u mhux aktar minn 20 kredtu:
+(4)‡ It-tielet sena tal-Kors għandha tinkludi dissertazzjoni li għaliha hemm assenjati mhux inqas minn 10 kredti u mhux aktar minn 20 kredtu:
 
 \* Applikabbli minn Ottubru 2018. † Applikabbli minn Ottubru 2018. ‡ Applikabbli minn Ottubru 2018.
 
 sakemm li fil-każ tal-Matematika u l-Computational Physics, waħda jew aktar taqsimiet studju mgħallma addizzjonali jistgħu jsiru minflok id-dissertazzjoni.
-
-*4*
 
 (5) L-istudenti li jtemmu b’suċċess taqsimiet studju li għalihom hemm assenjati 60 krettu ECTS u jagħżlu li ma jkomplux il-Kors, jew wara li komplew ma jkunux spiċċaw il-Kors b’suċċess, jkunu eliġibbli għall-għoti tad-Diploma.
 
@@ -198,13 +186,11 @@ sakemm li, fil-każ tal-Matematika, waħda jew aktar taqsimiet studju mgħallma 
 
 \* Applikabbli minn Ottubru 2018.
 
-BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) -
+## 12. Għoti tal-Grad CP (Għadda b’kumpens).
 
-*5*
+*Miżjud: A.L. 23 tal-2012. Sostitwit: A.L. 292 tal-2016.*
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZA [L.S.327.252 12. (1) Fi programm għal grad f’żewġ oqsma ta’ studju prinċipali, l-istudenti li f’xi taqsima studju, ħlief f’taqsima studju obbligatorja li tkun iddikjarata bħala mhux kumpensabbli fi programm ta’ studju, jeħlu b’marka ta’ mhux anqas minn 35% fit-taqsima u li l-Marka Medja tas-Sena kurrenti fil-programm ta’ studju għall-qasam ta’ studju li għalih it-taqsima studju tkun assenjata tkun ta’ mhux anqas minn 50%, jingħatalhom il-grad CP (Għadda b’kumpens) u jingħatalhom krettu b’kumpens għat-taqsima u ma jkunux mitluba jerġgħu jiġu valutati.
-
-*Għoti tal-Grad CP (Għadda b’kumpens). Miżjud: A.L. 23 tal-2012. Sostitwit: A.L. 292 tal-2016.*
+(1) Fi programm għal grad f’żewġ oqsma ta’ studju prinċipali, l-istudenti li f’xi taqsima studju, ħlief f’taqsima studju obbligatorja li tkun iddikjarata bħala mhux kumpensabbli fi programm ta’ studju, jeħlu b’marka ta’ mhux anqas minn 35% fit-taqsima u li l-Marka Medja tas-Sena kurrenti fil-programm ta’ studju għall-qasam ta’ studju li għalih it-taqsima studju tkun assenjata tkun ta’ mhux anqas minn 50%, jingħatalhom il-grad CP (Għadda b’kumpens) u jingħatalhom krettu b’kumpens għat-taqsima u ma jkunux mitluba jerġgħu jiġu valutati.
 
 (2) L-istudenti li jtemmu b’suċċess taqsimiet studju li għalihom hemm assenjati 60 krettu ECTS u jagħżlu li ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw il-kors b’suċċess, jkunu eliġibbli għall-għoti tad-Diploma.
 
@@ -232,11 +218,9 @@ Il-Kors jista’ jiġi offrut fuq bażi part-time flessibbli bid-dispożizzjonij
 
 (b) Sabiex isir progress regolari minn sena tal-Kors għal oħra, is-60 krettu ECTS ta’ kull sena tal-Kors iridu jitlestew f’mhux aktar minn tliet snin akkademiċi;
 
-(c) L-istudenti li jkunu assenti għall-valutazzjoni ta’ taqsima-studju, jew ma jgħaddux mill-valutazzjoni ta’ taqsima-studju, jekk eliġibbli, ikunu meħtieġa joqogħdu għall-valutazzjoni ta’ kwalunkwe għadd ta’ taqsimiet-studju mhux kompluti fis-sessjoni ta’ valutazzjoni ta’ Settembru jew fl-opportunità BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZA disponibbli li jkun imiss;
+(c) L-istudenti li jkunu assenti għall-valutazzjoni ta’ taqsima-studju, jew ma jgħaddux mill-valutazzjoni ta’ taqsima-studju, jekk eliġibbli, ikunu meħtieġa joqogħdu għall-valutazzjoni ta’ kwalunkwe għadd ta’ taqsimiet-studju mhux kompluti fis-sessjoni ta’ valutazzjoni ta’ Settembru jew fl-opportunità disponibbli li jkun imiss;
 
 (d) Jekk neċessarju, l-istudenti jistgħu jitħallew jirreferu l-valutazzjoni ta’ taqsima-studju għas-sena akkademika li jkun imiss, diment li mhux aktar minn 12-il krettu ECTS jistgħu jiġu riferuti minn sena tal-Kors għal oħra;
-
-*[L.S.327.252 6*
 
 (e) Il-valutazzjoni tat-taqsimiet-studju li jistgħu jiġu riferuti għas-sena akkademika ta’ wara għandhom jitqiesu bħala addizzjonali għan-numru minimu ta’ 12-il krettu li l-istudenti huma obbligati jirreġistraw għalihom matul kwalunkwe sena akkademika;
 
@@ -250,8 +234,4 @@ Il-Kors jista’ jiġi offrut fuq bażi part-time flessibbli bid-dispożizzjonij
 
 (j) Suġġett għall-approvazzjoni tal-Bord, l-istudenti reġistrati fil-Kors jistgħu jitħallew ibiddlu l-mod ta’ attendenza tagħhom minn full-time għal part-time flessibbli jew viċeversa fil-bidu tat-tieni sena tal-programm ta’ studju regolari. Il-bidliet fil-mod ta’ attendenza fi kwalunkwe sena sussegwenti tal-Kors jistgħu jkunu ikkunsidrati mill-Bord, jekk il-programm tal-Kors jippermetti; u
 
-(k) Minkejja l-provvedimenti fir-Regolamenti Prinċipali, minħabba n-natura tal-Kors meta offrut fuq bażi part-time flessibbli li tippermetti perjodu itwal min-normal, l-istudenti reġistrati fuq programm ta’ Kors flessibbli part-time bħal dan m’għandhom qatt ikunu intitolati li jirrepetu sena ta’ Kors fis-sħuħija kollha tagħha, u BACHELOR OF SCIENCE (HONOURS) - B. SC. (HONS) -
-
-*7*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZA [L.S.327.252 lanqas għal sena ta’ estensjoni wara kull sena ta’ Kors.
+(k) Minkejja l-provvedimenti fir-Regolamenti Prinċipali, minħabba n-natura tal-Kors meta offrut fuq bażi part-time flessibbli li tippermetti perjodu itwal min-normal, l-istudenti reġistrati fuq programm ta’ Kors flessibbli part-time bħal dan m’għandhom qatt ikunu intitolati li jirrepetu sena ta’ Kors fis-sħuħija kollha tagħha, u lanqas għal sena ta’ estensjoni wara kull sena ta’ Kors.

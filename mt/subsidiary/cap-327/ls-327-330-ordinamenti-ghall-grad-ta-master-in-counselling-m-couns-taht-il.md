@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master in Counselling - M.Couns. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.330)
 
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.330
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.330**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER IN**
@@ -70,11 +66,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) L-applikanti kollha jkunu mitluba juru li huma għandhom il-kapaċità u d-disposizzjoni meħtieġa biex isegwu l-kors bi profitt.
 
-(4) (a) Il-kapacità u l-personalità professjonali għandhom jiġu [L.S.327.330 IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-eżaminati permezz ta’ eżerċizzji li jinvolvu intervista personali estiża u test tal-personalità.
-
-*2*
+(4) (a) Il-kapacità u l-personalità professjonali għandhom jiġu eżaminati permezz ta’ eżerċizzji li jinvolvu intervista personali estiża u test tal-personalità.
 
 (b) L-applikanti li jiksbu anqas minn 60% għall-kapacità u l-personalità professjonali awtomatikament ma jitħallewx jidħlu fil-kors.
 
@@ -116,11 +108,7 @@ Il-kors għandu jinfirex fuq erba’ semestri ta’ studju fuq bażi full-time j
 
 (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
-(2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn erba’ taqsimiet studju mgħallma fil-każ tal-kors fuq bażi full-time jingħataw l-opportunità li IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.330
-
-joqogħdu għall-valutazzjoni mill-ġdid fil-valutazzjonijiet li weħlu minnhom fis-sessjoni supplimentari tal-eżamijiet ta’ Settembru.
-
-*3*
+(2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn erba’ taqsimiet studju mgħallma fil-każ tal-kors fuq bażi full-time jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fil-valutazzjonijiet li weħlu minnhom fis-sessjoni supplimentari tal-eżamijiet ta’ Settembru.
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ taqsimiet studju permessi skont il-paragrafu (2), jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kredti għal xi taqsima studju, jkunu meqjusa li weħlu mill-kors.
 
@@ -155,10 +143,6 @@ joqogħdu għall-valutazzjoni mill-ġdid fil-valutazzjonijiet li weħlu minnhom 
 ## 9. Klassifikazzjoni tar- Rikonoxximenti.
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
-
-*4*
-
-[L.S.327.330 IL-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
 
 ## 10. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 

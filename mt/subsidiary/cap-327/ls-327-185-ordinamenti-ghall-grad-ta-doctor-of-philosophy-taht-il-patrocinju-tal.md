@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Istitut għall-Istudji Ewropej (S.L. 327.185)
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-GĦALL-ISTUDJI EWROPEJ [S.L.327.185
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.185**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR**
@@ -71,12 +65,6 @@ Dawn l-ordinamenti għandhom japplikaw mill-1 ta’ Ottubru, 2014 ’il quddiem.
 
 \*Dawn l-ordinamenti ġew imħassrin bl-Avviż Legali 220 tal-2024.
 
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*2*
-
-[S.L.327.185 GĦALL-ISTUDJI EWROPEJ
-
 ## 4. Formola tal-applikazzjoni.
 
 (1) L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni, flimkien ma’ proposta ta’ riċerka komprensiva li tiddeskrivi l-proġett propost, inkluż is-sorsi u l-materjali tar-riċerka, fi kwalunkwe żmien tas-sena.
@@ -119,11 +107,7 @@ L-istudenti reġistrati mal-Istitut jistgħu jiġu mitluba jipparteċipaw fil-pr
 
 ## 11. Teżi. Enumerat mill-ġdid u sostitwit: A.L. 388 tal-2014.
 
-Sitt xhur qabel iż-żmien meta għandha ssir is-sottomissjoni l-istudenti għandhom jiġu infurmati li huma meħtieġa jinfurmaw lill-Istitut li ser jissottomettu t-teżi tagħhom għall-eżami mhux anqas minn tliet xhur qabel id-data meta għandha ssir is- TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*3*
-
-GĦALL-ISTUDJI EWROPEJ [S.L.327.185 sottomissjoni.
+Sitt xhur qabel iż-żmien meta għandha ssir is-sottomissjoni l-istudenti għandhom jiġu infurmati li huma meħtieġa jinfurmaw lill-Istitut li ser jissottomettu t-teżi tagħhom għall-eżami mhux anqas minn tliet xhur qabel id-data meta għandha ssir is-sottomissjoni.
 
 ## 12. Bord tal- Eżaminaturi. Enumerat mill-ġdid: A.L. 388 tal-2014.
 

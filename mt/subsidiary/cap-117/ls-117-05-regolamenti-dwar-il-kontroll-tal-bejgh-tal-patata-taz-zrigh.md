@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kontroll tal-Bejgħ tal-Patata taż-Żrigħ"
-identifier: "S.L. 117.5"
+identifier: "S.L. 117.05"
 eli: "https://legislation.mt/eli/sl/117.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/117.5/20231017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kontroll tal-Bejgħ tal-Patata taż-Żrigħ (S.L. 117.5)
+# Regolamenti dwar il-Kontroll tal-Bejgħ tal-Patata taż-Żrigħ (S.L. 117.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 117.05**
 

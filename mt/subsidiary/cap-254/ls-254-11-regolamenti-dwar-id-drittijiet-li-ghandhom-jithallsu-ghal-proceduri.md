@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet li għandhom jitħallsu għal Proċeduri bil-Miktub fuq Appelli (S.L. 254.11)
 
-DRITTIJIET LI G}ANDHOM JIT}ALLSU G}AL
-
-*1*
-
-PRO~EDURI BIL-MIKTUB FUQ APPELLI [L.S.254.11
-
 **LE{ISLAZZJONI SUSSIDJARJA 254.11**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET**

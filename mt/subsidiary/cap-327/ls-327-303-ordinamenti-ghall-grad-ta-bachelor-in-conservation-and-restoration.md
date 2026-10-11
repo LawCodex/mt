@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Bachelor in Conservation and Restoration Studies (Honours) - B.Cons. (Hons) - taħt il-Patroċinju ta' l-Institute of Conservation and Management of Cultural Heritage (S.L. 327.303)
 
-STUDIES (HONOURS) - B.CONS. (HONS) - TA}T IL-PATRO~INJU
-
-TA’ L-INSTITUTE OF CONSERVATION AND MANAGEMENT
-
-*1*
-
-OF CULTURAL HERITAGE [S.L.327.303 LE{ISLAZZJONI SUSSIDJARJA 327.303
+**LE{ISLAZZJONI SUSSIDJARJA 327.303**
 
 ORDINAMENTI G}ALL-GRAD TA’ BACHELOR IN
 
@@ -71,11 +65,7 @@ Il-Bord ta’ l-Istudji g]andu jirrakkomanda lis-Senat il-qasam/l-oqsma ta’ st
 
 ## 6. E\\ami g]ad-d]ul.
 
-Jekk ikun hemm aktar applikanti eligibbli mill-g]add ta’ STUDIES (HONOURS) - B.CONS. (HONS) - TA}T IL-PATRO~INJU TA’ L-INSTITUTE OF CONSERVATION AND MANAGEMENT [S.L.327.303 OF CULTURAL HERITAGE
-
-*2*
-
-postijiet disponibbli, l-applikanti jkunu mag]\\ula skond il-livell li la]qu fl-e\\ami g]ad-d]ul.
+Jekk ikun hemm aktar applikanti eligibbli mill-g]add ta’ postijiet disponibbli, l-applikanti jkunu mag]\\ula skond il-livell li la]qu fl-e\\ami g]ad-d]ul.
 
 ## 7. Id-d]ul u r-rekwi\\iti spe`jali g]all-kors.
 
@@ -113,13 +103,7 @@ Il-Bord ta’ l-Istudji g]andu jippubblika l-programm ta’ studju, imfassal sko
 
 ## 14. Id-Dissertazzjoni.
 
-Fir-Raba’ Sena tal-kors, l-istudenti huma me]tie[a jissottomettu dissertazzjoni, li g]andha tinkludi parti prattika, ta’ STUDIES (HONOURS) - B.CONS. (HONS) - TA}T IL-PATRO~INJU
-
-TA’ L-INSTITUTE OF CONSERVATION AND MANAGEMENT
-
-*3*
-
-OF CULTURAL HERITAGE [S.L.327.303 bejn l-10,000 u t-12,000 kelma dwar su[[ett approvat mill-Bord ta’ l-Istudji.
+Fir-Raba’ Sena tal-kors, l-istudenti huma me]tie[a jissottomettu dissertazzjoni, li g]andha tinkludi parti prattika, ta’ bejn l-10,000 u t-12,000 kelma dwar su[[ett approvat mill-Bord ta’ l-Istudji.
 
 ## 15. Il-Progress u l-valutazzjoni.
 

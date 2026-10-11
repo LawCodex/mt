@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kontroll tal-Bejgħ ta' l-Ilma ta' Taħt l-Art"
-identifier: "S.L. 117.1"
+identifier: "S.L. 117.01"
 eli: "https://legislation.mt/eli/sl/117.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/117.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kontroll tal-Bejgħ ta' l-Ilma ta' Taħt l-Art (S.L. 117.1)
+# Regolamenti dwar il-Kontroll tal-Bejgħ ta' l-Ilma ta' Taħt l-Art (S.L. 117.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 117.01**
 

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Tribunal Internazzjonali dwar il-Liġi tal-Baħar)"
-identifier: "S.L. 191.6"
+identifier: "S.L. 191.06"
 eli: "https://legislation.mt/eli/sl/191.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,7 @@ version: "https://legislation.mt/eli/sl/191.6/20130305/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Tribunal Internazzjonali dwar il-Liġi tal-Baħar) (S.L. 191.6)
-
-APPLIKAZZJONI TAT-TAQSIMA III TAL-ATT DWAR
-
-L-IMMUNITAJIET U L-PRIVILEĠĠI DIPLOMATIĊI
-
-*1*
-
-(TRIBUNAL INTERNAZZJONALI DWAR IL-LIĠI TAL-BAĦAR) [L.S.191.06
+# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Tribunal Internazzjonali dwar il-Liġi tal-Baħar) (S.L. 191.06)
 
 **LEĠISLAZZJONI SUSSIDJARJA 191.06**
 

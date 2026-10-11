@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar il-Projbizzjoni ta' l-Esportazzjoni ta' Ċerti Ħwejjeġ"
-identifier: "S.L. 24.1"
+identifier: "S.L. 24.01"
 eli: "https://legislation.mt/eli/sl/24.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/24.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar il-Projbizzjoni ta' l-Esportazzjoni ta' Ċerti Ħwejjeġ (S.L. 24.1)
+# Ordni dwar il-Projbizzjoni ta' l-Esportazzjoni ta' Ċerti Ħwejjeġ (S.L. 24.01)
 
 LE{ISLAZZJONI SUSSIDJARJA 24.01
 

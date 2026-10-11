@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Arei ta' Reġistrazzjoni (1984)"
-identifier: "S.L. 296.4"
+identifier: "S.L. 296.04"
 eli: "https://legislation.mt/eli/sl/296.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/296.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Arei ta' Reġistrazzjoni (1984) (S.L. 296.4)
+# Ordni dwar Arei ta' Reġistrazzjoni (1984) (S.L. 296.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 296.04**
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta' €69,881,201.96 6.1% Stock tal-Gvern ta' Malta 2015 (L-Ewwel Ħruġ) (S.L. 161.58)
 
-}RU{ TA’ €69,881,201.96 6.1%
-
-*1*
-
-STOCK TAL-GVERN TA’ MALTA 2015 (L-EWWEL }RU{) [L.S.161.58
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.58**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI**

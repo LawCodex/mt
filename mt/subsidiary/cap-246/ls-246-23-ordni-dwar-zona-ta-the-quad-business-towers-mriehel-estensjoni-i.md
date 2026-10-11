@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar Żona ta’ The Quad Business Towers, Mrieħel, Estensjoni I, bħala Żona Speċjali Msemmija (S.L. 246.23)
 
-*1*
-
-BĦALA ŻONA SPEĊJALI MSEMMIJA [L.S.246.23 LEĠISLAZZJONI SUSSIDJARJA 246.23
+**LEĠISLAZZJONI SUSSIDJARJA 246.23**
 
 **ORDNI DWAR ŻONA TA’ THE QUAD BUSINESS**
 
@@ -43,7 +41,3 @@ The Quad Business Towers, Mrieħel, Estensjoni I, li tikkonsisti fi proprjetà i
 ## 3. Jemenda l-Ewwel Skeda li tinsab mal-Att dwar l- Akkwist ta’ Proprjetà Immobbli minn Persuni Mhux Residenti. Kap. 246.
 
 The Quad Business Towers, Mrieħel, Estensjoni I għandha tiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni Mhux Residenti.
-
-*2*
-
-[L.S. 246.23 BĦALA ŻONA SPEĊJALI MSEMMIJA

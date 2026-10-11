@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Dental Surgery Assistance - Dip. D.S.A. - taħt il-patroċinju tal-Fakultà tal-Kirurġija Dentali (S.L. 327.527)
 
-D.S.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-KIRURĠIJA DENTALI [L.S.327.527
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.527**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN DENTAL**
@@ -79,12 +73,6 @@ Il-kors jinfirex fuq medda ta’żewġ semestri ta’ studju fuq bażi full-time
 ## 6. Programm ta’ studju. Enumerat: A.L. 327 tal-2022.
 
 Il-programm ta’ studju għandu jinkludi taqsimiet studju li għalihom hemm assenjati 60 krettu ECTS.
-
-D.S.A. - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.527 TAL-KIRURĠIJA DENTALI
 
 ## 7. Taqsimiet studju. Enumerat: A.L. 327 tal-2022.
 

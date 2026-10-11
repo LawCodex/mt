@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Offshore Safety (Oil and Gas)"
-identifier: "S.L. 156.2"
+identifier: "S.L. 156.02"
 eli: "https://legislation.mt/eli/sl/156.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/156.2/20221206/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Offshore Safety (Oil and Gas) (S.L. 156.2)
+# Regolamenti dwar Offshore Safety (Oil and Gas) (S.L. 156.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 156.02**
 

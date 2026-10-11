@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Applikazzjoni għall-Ħruġ ta' Warrant"
-identifier: "S.L. 321.1"
+identifier: "S.L. 321.01"
 eli: "https://legislation.mt/eli/sl/321.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/321.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Applikazzjoni għall-Ħruġ ta' Warrant (S.L. 321.1)
+# Regolamenti dwar Applikazzjoni għall-Ħruġ ta' Warrant (S.L. 321.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 321.01**
 

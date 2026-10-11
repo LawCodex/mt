@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Dritt għal Xiri ta' Kopji ta' Tapes"
-identifier: "S.L. 284.1"
+identifier: "S.L. 284.01"
 eli: "https://legislation.mt/eli/sl/284.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/284.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Dritt għal Xiri ta' Kopji ta' Tapes (S.L. 284.1)
+# Regolamenti dwar Dritt għal Xiri ta' Kopji ta' Tapes (S.L. 284.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 284.01**
 

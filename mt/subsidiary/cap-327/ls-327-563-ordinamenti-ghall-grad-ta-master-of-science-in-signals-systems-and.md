@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Signals, Systems and Control - M.Sc. - taħt il-patroċinju tal-Fakultà tal-Inġinerija (S.L. 327.563)
 
-TEMS, SIGNALS AND CONTROL - M.SC. - TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.563
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.563**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -70,11 +64,7 @@ Il-kors ikun miftuħ għall-applikanti li għandhom waħda minn dawn il-kwalifik
 
 (ċ) il-grad ta’ Bachelor of Science in Information Technology (Honours) miksub tal-anqas fit-Tieni Klassi bl-Unuri; jew
 
-(d) il-grad ta’ Bachelor of Science in Information and Communication Technology (Honours) miksub tal- TEMS, SIGNALS AND CONTROL - M.SC. - TAĦT IL- [L.S.327.563 PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA
-
-anqas fit-Tieni Klassi bl-Unuri; jew
-
-*2*
+(d) il-grad ta’ Bachelor of Science in Information and Communication Technology (Honours) miksub tal-anqas fit-Tieni Klassi bl-Unuri; jew
 
 (e) kwalunkwe grad bl-Unuri ieħor b’komponent adattat fil-mathematical u computer programming li l-Bord iqis komparabbli mal-kwalifiki indikati fil-paragrafi (a), (b), (ċ) jew (d) ta’ dan l-ordinament.
 
@@ -108,11 +98,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (3) It-titlu provviżorju tad-dissertazzjoni u proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal-Bord tal-Istudji qabel it-tmiem tat-tieni semestru.
 
-TEMS, SIGNALS AND CONTROL - M.SC. - TAĦT IL-
-
-*3*
-
-PATROĊINJU TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.563 (4) L-istudenti għandhom ifittxu l-approvazzjoni mill-Bord tal-Istudji permezz tas-superviżuri tagħhom għal modifikazzjonijiet sostanzjali fit-titlu jew fil-kontenut tad-dissertazzjoni.
+(4) L-istudenti għandhom ifittxu l-approvazzjoni mill-Bord tal-Istudji permezz tas-superviżuri tagħhom għal modifikazzjonijiet sostanzjali fit-titlu jew fil-kontenut tad-dissertazzjoni.
 
 (5) L-istudenti għandhom iżommu kuntatt regolari mas-superviżur tagħhom, li għandu jibgħat lill-Bord tal-Istudji rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studju, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jiġi estiż il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

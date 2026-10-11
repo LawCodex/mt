@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Ħatra tal-Bank Ċentrali biex jagħmilha ta' Aġent"
-identifier: "S.L. 233.5"
+identifier: "S.L. 233.05"
 eli: "https://legislation.mt/eli/sl/233.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/233.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Ħatra tal-Bank Ċentrali biex jagħmilha ta' Aġent (S.L. 233.5)
+# Ordni dwar Ħatra tal-Bank Ċentrali biex jagħmilha ta' Aġent (S.L. 233.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 233.05**
 

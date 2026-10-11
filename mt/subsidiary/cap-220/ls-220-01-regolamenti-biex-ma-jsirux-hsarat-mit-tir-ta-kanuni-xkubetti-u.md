@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti biex ma jsirux Ħsarat mit-tir ta Kanuni, Xkubetti u Torpedini"
-identifier: "S.L. 220.1"
+identifier: "S.L. 220.01"
 eli: "https://legislation.mt/eli/sl/220.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/220.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti biex ma jsirux Ħsarat mit-tir ta Kanuni, Xkubetti u Torpedini (S.L. 220.1)
+# Regolamenti biex ma jsirux Ħsarat mit-tir ta Kanuni, Xkubetti u Torpedini (S.L. 220.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 220.01**
 

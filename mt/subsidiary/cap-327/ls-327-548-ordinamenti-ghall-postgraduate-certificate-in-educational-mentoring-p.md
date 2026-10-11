@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Postgraduate Certificate in Educational Mentoring - P.G. Cert. - taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.548)
 
-MENTORING - P.G.Cert. - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.548
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.548**
 
 **ORDINAMENTI GĦALL-POSTGRADUATE**
@@ -75,13 +69,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (ċ) għandhom ikollhom minimu ta’ erba’ snin esperjenza ta’ tagħlim.
 
-(2) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont ir- MENTORING - P.G.Cert. - TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.548 TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-riżorsi disponibbli. In-numru ta’ postijiet disponibbli fl-oqsma ta’ tagħlim differenti, jiġi mħabbar meta jkunu qed jintlaqgħu l-applikazzjonijiet. Jekk ikun għad fadal xi postijiet vakanti f’xi qasam ta’ tagħlim partikolari, dawn il-postijiet għandhom ikunu mqassma fost l-oqsma ta’ tagħlim l-oħra.
+(2) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont ir-riżorsi disponibbli. In-numru ta’ postijiet disponibbli fl-oqsma ta’ tagħlim differenti, jiġi mħabbar meta jkunu qed jintlaqgħu l-applikazzjonijiet. Jekk ikun għad fadal xi postijiet vakanti f’xi qasam ta’ tagħlim partikolari, dawn il-postijiet għandhom ikunu mqassma fost l-oqsma ta’ tagħlim l-oħra.
 
 (3) Meta l-għadd ta’ postijiet ikun limitat u l-għadd tal-applikanti eliġibbli jkun qabeż l-għadd ta’ postijiet disponibbli, l-applikanti jiġu magħżula skont il-kriterji li ġejjin, li l-piż tagħhom ikun ippubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
 

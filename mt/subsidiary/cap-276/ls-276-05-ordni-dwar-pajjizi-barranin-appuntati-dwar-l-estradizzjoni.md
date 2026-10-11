@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Pajjiżi Barranin Appuntati dwar l-Estradizzjoni"
-identifier: "S.L. 276.5"
+identifier: "S.L. 276.05"
 eli: "https://legislation.mt/eli/sl/276.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/276.5/20260901/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Pajjiżi Barranin Appuntati dwar l-Estradizzjoni (S.L. 276.5)
+# Ordni dwar Pajjiżi Barranin Appuntati dwar l-Estradizzjoni (S.L. 276.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 276.05**
 

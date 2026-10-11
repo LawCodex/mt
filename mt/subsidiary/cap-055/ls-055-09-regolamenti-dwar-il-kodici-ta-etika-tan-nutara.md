@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kodiċi ta' Etika tan-Nutara"
-identifier: "S.L. 55.9"
+identifier: "S.L. 55.09"
 eli: "https://legislation.mt/eli/sl/55.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.9/20180524/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kodiċi ta' Etika tan-Nutara (S.L. 55.9)
+# Regolamenti dwar il-Kodiċi ta' Etika tan-Nutara (S.L. 55.09)
 
 LEĠISLAZZJONI SUSSIDJARJA 55.09
 

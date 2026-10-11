@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Postgraduate Diploma in Education (Inclusion and Individual Educational Needs in Primary Schools) (S.L. 327.284)
 
-KORS G}ALL-POSTGRADUATE DIPLOMA
-
-IN EDUCATION (INCLUSION AND INDIVIDUAL
-
-*1*
-
-EDUCATIONAL NEEDS IN PRIMARY SCHOOLS) [S.L.327.284
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.284**
 
 **REGOLAMENTI TAL-KORS G}ALL-**

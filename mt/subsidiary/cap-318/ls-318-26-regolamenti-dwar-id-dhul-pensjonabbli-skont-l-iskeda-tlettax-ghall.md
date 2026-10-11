@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Dħul Pensjonabbli skont l-Iskeda Tlettax għall-persuni mwielda mill-1 ta’ Jannar 1956 sal-31 ta’ Diċembru 1961 (S.L. 318.26)
 
-DĦUL PENSJONABBLI SKONT L-ISKEDA TLETTAX
-
-GĦALL-PERSUNI MWIELDA MILL-1 TA’ JANNAR 1956
-
-*1*
-
-SAL-31 TA’ DIĊEMBRU 1961 [L.S. 318.26
-
 **LEĠISLAZZJONI SUSSIDJARJA 318.26**
 
 **REGOLAMENTI DWAR ID-DĦUL PENSJONABBLI**

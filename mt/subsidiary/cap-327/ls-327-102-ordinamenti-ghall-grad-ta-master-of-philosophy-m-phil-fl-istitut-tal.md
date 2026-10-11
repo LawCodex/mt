@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Master of Philosophy - M.Phil. - fl-Istitut tal-Mediterran (S.L. 327.102)
 
-GRAD TA’ MASTER OF PHILOSOPHY - M. PHIL.-
-
-*1*
-
-FL-ISTITUT TAL-MEDITERRAN [L.S.327.102
-
 LE{ISLAZZJONI SUSSIDJARJA 327.102
 
 ORDINAMENTI G}ALL-GRAD TA’
@@ -29,8 +23,6 @@ MASTER OF PHILOSOPHY - M. PHIL.-
 
 FL-ISTITUT TAL-MEDITERRAN
 
-30 ta’ Jannar, 1998
-
-L-AVVI| LEGALI 35 tal-1998.
+30 ta’ Jannar, 1998 L-AVVI| LEGALI 35 tal-1998.
 
 Revokat bl-Avvi\\ Legali 310 tal-2009.

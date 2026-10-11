@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar ir-Rekwiżizzjoni ta' Impjant, Makkinarju u Tagħmir ta' Prodotti taċ-Ċeramika (S.L. 117.21)
 
-*1*
-
-TAG}MIR TA’ PRODOTTI TA~-~ERAMIKA [L.S.117.21
-
 **LE{ISLAZZJONI SUSSIDJARJA 117.21**
 
 **REGOLAMENTI DWAR IR-REKWI|IZZJONI TA’**

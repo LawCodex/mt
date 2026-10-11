@@ -15,11 +15,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Kreditu ta’ Taxxa (Riċiklaġġ ta’ Skart ta’ Kostruzzjoni) (S.L. 123.186)
 
-KREDITU TA’ TAXXA
-
-*1*
-
-(RIĊIKLAĠĠ TA’ SKART TA’ KOSTRUZZJONI) [L.S.123.186 LEĠISLAZZJONI SUSSIDJARJA 123.186
+**LEĠISLAZZJONI SUSSIDJARJA 123.186**
 
 **REGOLI DWAR KREDITU TA’ TAXXA**
 

@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Taxxa Finali fuq l-Income Mingħajr Imputazzjoni (S.L. 123.217)
 
-*1*
-
-MINGĦAJR IMPUTAZZJONI [L.S.123.217 LEĠISLAZZJONI SUSSIDJARJA 123.217
+LEĠISLAZZJONI SUSSIDJARJA 123.217
 
 REGOLAMENTI DWAR TAXXA FINALI FUQ L-
 
@@ -60,11 +58,7 @@ Iżda tali dħul taxxabbli ma għandux jinkludi:
 
 (ii) dħul li diġà ġie soġġett għal rata finali ta’ taxxa skont kwalunkwe dispożizzjoni ohra tal-Att u li ħlief għad-dispożizzjonijiet ta’ dawn ir-regolamenti, jiġu allokati lill-kont tat-taxxa finali.
 
-(2) Entità li jkollha l-intenzjoni tinvoka d-dispożizzjonijiet [L.S. 123.217 MINGĦAJR IMPUTAZZJONI
-
-tas-subregolament (1)(b) tista’ tagħmel dan:
-
-*2*
+(2) Entità li jkollha l-intenzjoni tinvoka d-dispożizzjonijiet tas-subregolament (1)(b) tista’ tagħmel dan:
 
 (a) fir-rigward ta’ dħul li jkun dovut lil jew derivat mill-entità fis-sena fiskali li tippreċedi s-sena ta’ stima 2025 u snin sussegwenti;
 
@@ -88,6 +82,4 @@ Iżda tali notifika:
 
 (b) it-taxxa imposta skont is-subregolament (1)(b), għandha titqies bħala finali u ma għandhiex tkun disponibbli bħala kreditu jew tpaċija kontra taxxa dovuta minn kwalunkwe individwu jew entità oħra, jew bħala rifużjoni lil kwalunkwe persuna;
 
-(ċ) minkejja kwalunkwe dispożizzjoni oħra tal-Att, il-profitti li fuqhom it-taxxa tkun ġiet ikkalkulata skont is-subregolament (1)(b) għandhom, sakemm ma jkunux profitti li jkunu diġà ġew allokati lill-kont tat-taxxa finali, jiġu allokati MINGĦAJR IMPUTAZZJONI [L.S.123.217 mill-ġdid lill-kont tat-taxxa finali ta’ tali entità.
-
-*3*
+(ċ) minkejja kwalunkwe dispożizzjoni oħra tal-Att, il-profitti li fuqhom it-taxxa tkun ġiet ikkalkulata skont is-subregolament (1)(b) għandhom, sakemm ma jkunux profitti li jkunu diġà ġew allokati lill-kont tat-taxxa finali, jiġu allokati mill-ġdid lill-kont tat-taxxa finali ta’ tali entità.

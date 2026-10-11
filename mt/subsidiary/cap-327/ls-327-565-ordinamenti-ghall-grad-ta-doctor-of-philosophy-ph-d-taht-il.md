@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy - Ph.D. - taħt il-patroċinju taċ-Ċentru tal-Profiċjenza fil-Lingwa Ingliża (S.L. 327.565)
 
-TAĦT IL-PATROĊINJU TAĊ-ĊENTRU TAL-PROFIĊJENZA
-
-*1*
-
-FIL-LINGWA INGLIŻA [L.S.327.565
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.565**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -77,10 +71,6 @@ Meta l-Bord iqis neċessarju, jista’ jeħtieġ lill-istudenti biex itemmu b’
 
 \*Dawn l-ordinamenti ġew imħassrin bl-Avviż Legali 218 tal-2024.
 
-*2*
-
-TAĦT IL-PATROĊINJU TAĊ-ĊENTRU TAL-PROFIĊJENZA [L.S.327.565 FIL-LINGWA INGLIŻA
-
 (2) L-applikanti jistgħu jiġu mitluba wkoll juru l-kompetenza tagħhom fil-ħiliet meħtieġa min-natura tar-riċerka proposta.
 
 ## 6. Kumitat taċ-Ċentru għad-Dottorat.
@@ -125,10 +115,6 @@ Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preż
 
 (1) L-Istudenti ikunu meħtieġa jissottomettu kopja mingħajr legatura għal kull membru tal-Bord tal-Eżaminaturi skont il-format indikat fil-linji gwida ppubblikati, flimkien ma’ kopja f’format diġitali. L-uffiċjal inkarigat miċ-Ċentru għandu joħroġ riċevuta datata.
 
-(2) L-istudenti jistgħu jippubblikaw it-teżi kollha jew parti TAĦT IL-PATROĊINJU TAĊ-ĊENTRU TAL-PROFIĊJENZA
-
-*3*
-
-FIL-LINGWA INGLIŻA [L.S.327.565 minnha qabel ma jissottomettuha għall-eżami. Dan ix-xogħol ippubblikat jista’ aktar tard ikun inkorporat fit-teżi mogħtija għall-eżami, sakemm li ssir dikjarazzjoni dwar dan fiha.
+(2) L-istudenti jistgħu jippubblikaw it-teżi kollha jew parti minnha qabel ma jissottomettuha għall-eżami. Dan ix-xogħol ippubblikat jista’ aktar tard ikun inkorporat fit-teżi mogħtija għall-eżami, sakemm li ssir dikjarazzjoni dwar dan fiha.
 
 (3) Meta jtemmu b’suċċess l-istudji tagħhom, l-istudenti għandhom jissottomettu liċ-Ċentru, sa sitt ġimgħat mill-pubblikazzjoni tar-riżultat, żewġ kopji tat-teżi b’legatura ħoxna flimkien ma’ kopja f’format diġitali. Il-verżjoni elettronika trid tkun konformi mal-livelli stabbiliti mil-Librerija tal-Università. L-istudenti li ma jikkonformawx ma’ dan l-ordinament ma jingħatawx il-Grad.

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Eżenzjoni mill-Ħlas ta' Taxxa Doppja fuq l-Income mar-Repubblika ta' San Marino (S.L. 123.97)
 
-*1*
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.97**
 
 **ORDNI DWAR EŻENZJONI MILL-ĦLAS**
@@ -114,9 +110,7 @@ Il-Ftehim għandu japplika wkoll għal kull taxxi identiċi jew sostanzjalment s
 
 \1. Għall-għanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
-(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Għira ta’ Għawdex u l-gżejjer l-oħra ta’ l-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, u kull FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97 3
-
-area ta’ qiegħ il-baħar, is-sottoswol u l-kolonna ta’ baħar sovrajaċenti u adjaċenti għall-ibħra territorjali, fejn Malta għandha drittijiet sovrani, ġurisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tagħha, inkluż id-dritt tagħha għar-rigward l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
+(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Għira ta’ Għawdex u l-gżejjer l-oħra ta’ l-arċipelagu Malti inklużi l-ibħra territorjali tagħhom, u kull area ta’ qiegħ il-baħar, is-sottoswol u l-kolonna ta’ baħar sovrajaċenti u adjaċenti għall-ibħra territorjali, fejn Malta għandha drittijiet sovrani, ġurisdizzjoni, jew kontroll skond id-dritt internazzjonali u d-dritt nazzjonali tagħha, inkluż id-dritt tagħha għar-rigward l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagħha;
 
 (b) il-frażi "San Marino" tfisser ir-Repubblika ta’ San Marino u, meta użata f’sens ġeografiku, tfisser it-territorju ta’ San Marino, inkluża kull area oħra li fiha r-Repubblika ta’ San Marino Marino, skond id-dritt intenazzjonali, għandha drittijiet sovrani jew il-ġurisdizzjoni tagħha;
 
@@ -198,8 +192,6 @@ Minkejja d-disposizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi ''stabb
 
 (b) il-manutenzjoni ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà ta’ l-impriża għall-iskop uniku ta’ ħażna, wiri jew kunsinna;
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97 5
-
 (ċ) il-manutenzjoni ta’ ħażna ta’ oġġetti jew merkanzija li tkun proprjetà ta’ l-impriża għall-iskop uniku ta’ proċessar minn impriża oħra;
 
 (d) il-manutenzjoni ta’ post fiss ta’ negozju għall-iskop uniku ta’ xiri ta’ oġġetti jew merkanzija jew ta’ ġbir ta’ tagħrif, għall-impriża;
@@ -268,8 +260,6 @@ Meta l-profitti jkunu jinkludu oġġetti ta’ income li qegħdin jiġu trattati
 
 \1. Meta:
 
-FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97 7
-
 (a) impriża ta’ Stat Kontraenti tipparteċipa direttament jew indirettament fit-tmexxija, kontroll jew kapital ta’ impriża ta’ l-Istat Kontraenti l-ieħor, jew
 
 (b) l-istess persuni jipparteċipaw direttament jew indirettament fit-tmexxija, kontroll jew kapital ta’ impriża ta’ Stat Kontraenti u ta’ impriża ta’ l-Istat Kontraenti l-ieħor,
@@ -312,7 +302,7 @@ income minn ishma skond il-liġijiet ta’ l-Istat li tiegħu l-kumpannija li tk
 
 \3. Id-disposizzjonijiet tal-paragrafi 1 u 2 m’għandhomx japplikaw jekk is-sid benefiċjarju ta’ l-imgħax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor li fih jinqala’ l-imgħax, permezz ta’ stabbiliment permanenti sitwat hemmhekk, jew jagħmel servizzi personali indipendenti f’dak Istat l-ieħor minn bażi stabbilita sitwata hemmhekk, u l-pretensjoni ta’ debitu li dwarha jitħallas l-imgħax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti jew bażi stabbilita. F’każ bħal dak għandhom japplikaw id-disposizzjonijiet ta’ l-Artikolu 7 jew ta’ l-Artikolu 14, skond il-każ.
 
-\4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont ta’ l-imgħax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ taxxabbli skond il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-disposizzjonijiet l-oħra ta’ dan il-Ftehim. FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97 9
+\4. Meta, minħabba f’relazzjoni speċjali bejn min iħallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oħra, l-ammont ta’ l-imgħax, wara li titqies xi tkun il-pretensjoni ta’ debitu li dwarha jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iħallas u s-sid benefiċjarju fin-nuqqas ta’ dik ir-relazzjoni, id-disposizzjonijiet ta’ dan l-Artikolu għandhom ikunu japplikaw biss għall-ammont l-aħħar imsemmi. F’każ bħal dak, il-parti żejda tal-ħlasijiet tibqa’ taxxabbli skond il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-disposizzjonijiet l-oħra ta’ dan il-Ftehim.
 
 **Artikolu 12**
 
@@ -374,7 +364,7 @@ income minn ishma skond il-liġijiet ta’ l-Istat li tiegħu l-kumpannija li tk
 
 **DRITTIJIET TAD-DIRETTURI**
 
-Id-drittijiet tad-diretturi u ħlasijiet simili oħra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapaċità tiegħu ta’ membru tal-bord ta’ diretturi ta’ kumpannija li tkun residenti ta’ l-Istat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-Istat l-ieħor. FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97 11
+Id-drittijiet tad-diretturi u ħlasijiet simili oħra li jinkisbu minn residenti ta’ Stat Kontraenti fil-kapaċità tiegħu ta’ membru tal-bord ta’ diretturi ta’ kumpannija li tkun residenti ta’ l-Istat Kontraenti l-ieħor jistgħu jiġu intaxxati f’dak l-Istat l-ieħor.
 
 **Artikolu 17**
 
@@ -442,7 +432,7 @@ Bla ħsara għad-disposizzjonijiet tal-liġi ta’ Malta dwar l-għoti bi kredit
 
 (a) Bla ħsara għad-disposizzjonijiet tal-liġi ta’ San Marino dwar l-għoti bi kreditu għat-taxxa ta’ San Marino għar-rigward tat-taxxa barranija, u skond id-disposizzjonijiet ta’ dan il-Ftehim, it-taxxa fuq l-income imħallsa f’Malta għandha tiġi permessa bħala kreditu għat-taxxa ta’ San Marino relattiva li titħallas dwaru;
 
-(b) meta residenti ta’ San Marino jikseb income li, skond id-disposizzjonijiet ta’ dan il-Ftehim, ma jkunx intaxxat f’San Marino, San Marino jista’ madankollu, meta jkun qed jikkalkola l-ammont ta’ taxxa fuq l-income li jifdal ta’ dak ir-residenti, japplika l-istess rata ta’ taxxa li kienet tkun tapplika kieku l-income in kwistjoni ma kienx eżentat. FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97 13
+(b) meta residenti ta’ San Marino jikseb income li, skond id-disposizzjonijiet ta’ dan il-Ftehim, ma jkunx intaxxat f’San Marino, San Marino jista’ madankollu, meta jkun qed jikkalkola l-ammont ta’ taxxa fuq l-income li jifdal ta’ dak ir-residenti, japplika l-istess rata ta’ taxxa li kienet tkun tapplika kieku l-income in kwistjoni ma kienx eżentat.
 
 **Artikolu 23**
 
@@ -493,8 +483,6 @@ b) li jagħtu informazzjoni li ma tkunx tista’ tinkiseb taħt il-liġijiet jew
 \5. F’ebda każ ma għandhom id-dispożizzjonijiet tal-paragrafu 3 jiftiehmu li jippermettu lil xi Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni unikament għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, istituzzjoni finanzjarja oħra, nominee jew persuna li tkun qegħda taġixxi f’aġenzija jew li jkollha kapaċità fiduċjarja jew għax ikollha x’taqsam ma’ interessi fil-proprjetà ta’ persuna.
 
 \*kif sostitwit bl-Avviż Legali 192 tal-2010.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97 15
 
 **Artikolu 26**
 
@@ -555,8 +543,6 @@ Ministru għall-Affarijiet Barranin Segretarju ta’ l-Istat
 għall-Affarijiet Barranin u Politiċi Għall-Gvern ta’ Malta Għall-Gvern tar-
 
 Repubblika ta’ San Marino
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97 17
 
 **PROTOKOLL**
 
@@ -625,8 +611,6 @@ b) li jagħtu informazzjoni li ma tkunx tista’ tinkiseb taħt il-liġijiet jew
 \4. Meta tintalab informazzjoni minn Stat Kontraenti kif hemm f’dan l- Artikolu, l-Istat Kontraenti l-ieħor għandu juża l-miżuri li jkollu għall-ġbir tal-informazzjoni biex jikseb l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkunx jeħtieġ dik l-informazzjoni għall-finijiet tiegħu tat-taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel din hu soġġett għal-limitazzjonijiet tal-paragrafu 3 iżda f’ebda każ m’għandhom dawk il-limitazzjonijiet jiftiehmu bħala li jippermettu lil Stat Kontraenti jirrifjuta milli jipprovdi xi informazzjoni unikament għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
 
 \*fis-seħħ mill-15 ta’ Frar, 2010.
-
-FUQ L-INCOME MAR-REPUBBLIKA TA’ SAN MARINO [L.S.123.97 19
 
 \5. F’ebda każ ma għandhom id-dispożizzjonijiet tal-paragrafu 3 jiftiehmu li jippermettu lil xi Stat Kontraenti jirrifjuta milli jipprovdi informazzjoni unikament għaliex dik l-informazzjoni tkun qegħda tinżamm minn xi bank, istituzzjoni finanzjarja oħra, nominee jew persuna li tkun qegħda taġixxi f’aġenzija jew li jkollha kapaċità fiduċjarja jew għax ikollha x’taqsam ma’ interessi fil-proprjetà ta’ persuna.
 

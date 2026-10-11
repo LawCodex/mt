@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Bastimenti Merkantili (Responsabbiltà għal Ħsara minn Tniġġiż minn Bunker Oil) (S.L. 234.46)
 
-BASTIMENTI MERKANTILI (RESPONSABBILTÀ
-
-**G}AL }SARA MINN TNI{{I| MINN BUNKER OIL) [L.S.234.46**
-
-*1*
-
 LE{ISLAZZJONI SUSSIDJARJA 234.46
 
 REGOLAMENTI DWAR BASTIMENTI
@@ -29,8 +23,6 @@ MERKANTILI (RESPONSABBILTA G}AL }SARA
 
 MINN TNI{{I| MINN BUNKER OIL)\*
 
-12 ta’ Frar, 2009
-
-L-AVVI| LEGALI 40 ta’ l-2009.
+12 ta’ Frar, 2009 L-AVVI| LEGALI 40 ta’ l-2009.
 
 \*Dawn ir-Regolamenti [ew pubblikati bl-ilsien Ingli\\ biss.

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Statut għall-Istitut għax-Xjenza Spazjali u l-Astronomija (S.L. 327.495)
 
-*1*
-
-GĦAX-XJENZA SPAZJALI U L-ASTRONOMIJA [L.S.327.495
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.495**
 
 **STATUT GĦALL-ISTITUT GĦAX-XJENZA**
@@ -53,11 +49,7 @@ F’dan l-Istatut, kemm-il darba r-rabta ta’ kliem ma teħtieġx xort’oħra:
 
 L-Istitut għandu dawn l-għanijiet:
 
-(a) li jippromwovi u jorganizza r-riċerka multidixxiplinari [L.S.327.495 GĦAX-XJENZA SPAZJALI U L-ASTRONOMIJA
-
-u interdixxiplinari, l-iżvilupp u servizzi fl-oqsma tax-xjenza spazjali u l-astronomija;
-
-*2*
+(a) li jippromwovi u jorganizza r-riċerka multidixxiplinari u interdixxiplinari, l-iżvilupp u servizzi fl-oqsma tax-xjenza spazjali u l-astronomija;
 
 (b) li jorganizza u jmexxi programmi ta’ taħriġ, it-taqsimiet-studju, korsijiet ta’ ċertifikat, ta’ diploma, u oħrajn li jwasslu għal rikonoxximenti sal-Ewwel Grad u għal rikonoxximenti ta’ wara l-Ewwel Grad, kif ukoll lekċers pubbliċi u korsijiet professjonali relatati mal-astronomija, informatika, il-kosmoloġija, teknoloġija spazjali, f'kollaborazzjoni ma’ istituzzjonijiet universitarji oħra, kif meħtieġ;
 
@@ -97,11 +89,7 @@ Il-membri kollha tal-Bord, għajr dawk li huma maħtura ex officio, iż-żewġ r
 
 Il-funzjonijiet tal-Bord ikunu dawn li ġejjin:
 
-(a) li jmexxi l-affarijiet tal-Istitut, skont id-dispożizzjonijiet ta’ dan l-istatut u ta’ dawk ir- GĦAX-XJENZA SPAZJALI U L-ASTRONOMIJA [L.S.327.495
-
-regolamenti, deċiżjonijiet jew id-direzzjonijiet, kif approvati mill-Kunsill u mis-Senat minn żmien għal żmien;
-
-*3*
+(a) li jmexxi l-affarijiet tal-Istitut, skont id-dispożizzjonijiet ta’ dan l-istatut u ta’ dawk ir-regolamenti, deċiżjonijiet jew id-direzzjonijiet, kif approvati mill-Kunsill u mis-Senat minn żmien għal żmien;
 
 (b) li jifformula l-politika tal-Istitut u jissorvelja l-attivitajiet u l-amministrazzjoni tiegħu u mingħajr preġudizzju għall-ġeneralità li ssemmiet qabel, il-Bord jista’:
 
@@ -139,11 +127,7 @@ Id-dmirijiet tal-Viċi Chairman/Direttur tal-Istitut jinkludu
 
 (a) jippromovi l-iżvilupp u l-implimentazzjoni tal-programmi kurrikulari u ta’ riċerka tal-Istitut;
 
-(b) jiġbor u jissottometti lir-Reġistrar tal-Università sa GĦAX-XJENZA SPAZJALI U L-ASTRONOMIJA
-
-mhux aktar tard minn Jannar ta’ kull sena akkademika, prospektus komprensiv aġġornat bid-deskrizzjoni tal-kontenut tat-taqsimiet-studji kurrenti u dawk proġettati offruti mill-membri tal-Istitut skont il-linji-gwida stabbiliti mill-Kumitat għall-Validazzjoni tal- Programmi;
-
-*[L.S.327.495 4*
+(b) jiġbor u jissottometti lir-Reġistrar tal-Università sa mhux aktar tard minn Jannar ta’ kull sena akkademika, prospektus komprensiv aġġornat bid-deskrizzjoni tal-kontenut tat-taqsimiet-studji kurrenti u dawk proġettati offruti mill-membri tal-Istitut skont il-linji-gwida stabbiliti mill-Kumitat għall-Validazzjoni tal- Programmi;
 
 (ċ) jiżgura li t-taqsimiet-studju offruti mill-membri tal-istaff tal-Istitut huma mogħtija skont il-programm tal-istudji kif irreklamat; id-Direttur għandu jiżgura li l-għalliema, li jaqgħu taħt l-awtorità tiegħu, jagħtu l-lekċers, is-seminars u t-tutorials kollha kif assenjati lilhom rispettivament, fil-ħin u fil-post kif indikat fuq it-time-table uffiċjali, u li kull tibdil ikun reġistrat formalment u li l-istudenti jkunu infurmati fil-ħin;
 
@@ -171,10 +155,6 @@ mhux aktar tard minn Jannar ta’ kull sena akkademika, prospektus komprensiv a�
 
 (l) jirrapreżenta l-Istitut f’funzjonijiet uffiċjali tal- Università;
 
-*5*
-
-GĦAX-XJENZA SPAZJALI U L-ASTRONOMIJA [L.S.327.495
-
 (m) jikkompila u jissottometti rapport annwali lis- Segretarju tal-Università sal-aħħar ta’ Settembru ta’ kull sena akkademika. F’dan ir-rapport għandu jingħata tagħrif dwar l-attivitajiet li saru fl-Istitut fis-sena li tkun għaddiet u għandu jinkludi, fost l-oħrajn, informazzjoni li tista’ tintalab mis-Segretarju bħal lista komprensiva ta’ pubblikazzjonijiet riċenti tal-membri kollha tal-Istitut; ġabra fil-qosor tal-proġetti li fihom huma involuti membri tal-Istitut, li huma finanzjati kollha jew parzjalment minn barra; lista sħiħa tal-konferenzi/seminars/laqgħat li l-membri tal-Istitut attendew barra minn Malta, fi żmien it-term; u tagħrif ġenerali dwar il-kollaborazzjoni tal-Istitut ma’ terzi partijiet li jinkludu l-industrija Maltija, il-Gvern jew is-soċjetà ċivili in ġenerali;
 
 (n) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju għas-sena li jmiss. Dan ikun jinkludi l-ħtiġijiet dwar riżorsi umani fl-Istitut li jkopri it-tagħlim, ir-riċerka u x-xogħol amministrattiv proġettat għall-Istitut u bbażat fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti tal-Istitut u tal-Visiting Teaching Staff;
@@ -197,11 +177,7 @@ Minbarra dan, id-Direttur -
 
 (ċ) m’għandux jimpenja ruħu fi kwalunkwe attività barra mill-Università li tista’ tkun f’konflitt, jew ittellfu, mid-dmirijiet tiegħu fl-Università;
 
-(d) hu mistenni li jkun preżenti fuq il-kampus jew kwalunkwe sît indikat mill-Università ta’ Malta għallinqas fil-ħinijiet normali tal-uffiċċju mit-Tnejn sal-Ġimgħa matul is-sena skont l-esiġenzi ta’ akkademiku u inkonformi mal-prattiċi u l-ħtiġijiet tal- Università u bid-dritt għal-leave normali u għall-festi GĦAX-XJENZA SPAZJALI U L-ASTRONOMIJA
-
-pubbliċi kif provdut fil-liġi; jekk l-assenza tiegħu tkun meħtieġa u ġġustifikata, hu għandu jiżgura li wieħed jista’ jikkuntattja miegħu permezz tas-segretarjat tal- Istitut;
-
-*[L.S.327.495 6*
+(d) hu mistenni li jkun preżenti fuq il-kampus jew kwalunkwe sît indikat mill-Università ta’ Malta għallinqas fil-ħinijiet normali tal-uffiċċju mit-Tnejn sal-Ġimgħa matul is-sena skont l-esiġenzi ta’ akkademiku u inkonformi mal-prattiċi u l-ħtiġijiet tal- Università u bid-dritt għal-leave normali u għall-festi pubbliċi kif provdut fil-liġi; jekk l-assenza tiegħu tkun meħtieġa u ġġustifikata, hu għandu jiżgura li wieħed jista’ jikkuntattja miegħu permezz tas-segretarjat tal- Istitut;
 
 (e) m’għandux jgħaddi informazzjoni lil terzi partijiet li mhumiex assoċjati mal-Università ta’ Malta, dwar kwalunkwe xogħol jew data li jkollha x’taqsam ma’ xogħlijiet li qegħdin isiru fl-Università ta’ Malta mingħajr l-approvazzjoni minn qabel tal-Università ta’ Malta; kull xogħol li jkun qed isir fl-Istitut għandu jsir fid-dawl tal-leġislazzjoni Maltija dwar il-ħarsien tad-data;
 

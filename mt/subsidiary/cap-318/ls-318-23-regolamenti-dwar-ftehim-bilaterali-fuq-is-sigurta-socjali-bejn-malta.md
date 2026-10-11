@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Ftehim Bilaterali fuq is-Sigurtà Soċjali bejn Malta u New Zealand (S.L. 318.23)
 
-*1*
-
-BEJN MALTA U NEW ZEALAND [L.S.318.23
-
 **LEĠISLAZZJONI SUSSIDJARJA 318.23**
 
 **REGOLAMENTI DWAR FTEHIM BILATERALI**
@@ -44,8 +40,6 @@ Id-dispożizzjonijiet tal-Att dwar is-Sigurtà Soċjali għandu jkollhom seħħ 
 Pensjonijiet għar-Romol.
 
 \*ara r-regolament 1(2) ta’ dawn ir-Regolamenti, kif promulgati oriġinarjament.
-
-2 [L.S.318.23 BEJN MALTA U NEW ZEALAND
 
 ## L-EWWEL SKEDA
 
@@ -97,8 +91,6 @@ day means a calendar day
 
 deduction, in relation to a New Zealand benefit, includes a reduction of the rate of the benefit under the legislation of New Zealand
 
-BEJN MALTA U NEW ZEALAND [L.S.318.23 3
-
 legislation, in relation to a Party, means the laws, orders, and regulations of that Party specified in Article 2 of this Agreement
 
 Maltese benefit means either of the following benefits:
@@ -144,8 +136,6 @@ social security purposes include:
 (e) the conduct of any proceedings under the social security laws of a Party before any court or tribunal
 
 third country means a country other than Malta or New Zealand
-
-4 [L.S.318.23 BEJN MALTA U NEW ZEALAND
 
 widow in relation to a Maltese benefit, shall have the meaning assigned to it by the Social Security Act (Cap 318)
 
@@ -205,8 +195,6 @@ This Agreement applies to any person who:
 
 (c) is a dependent or survivor of a person referred to in paragraph (a) or paragraph (b) of this Article on whom the legislation of Malta confers eligibility to Maltese benefits.
 
-BEJN MALTA U NEW ZEALAND [L.S.318.23 5
-
 **Article 4**
 
 **Equality of Treatment**
@@ -247,9 +235,7 @@ All persons to whom this Agreement applies shall be treated equally by a Party i
 
 #### 5.
 
-A person who is ordinarily resident in Malta who has not reached the age of entitlement to New Zealand superannuation shall be considered not qualified for or 6 [L.S.318.23 BEJN MALTA U NEW ZEALAND
-
-entitled to receive a veteran’s pension.
+A person who is ordinarily resident in Malta who has not reached the age of entitlement to New Zealand superannuation shall be considered not qualified for or entitled to receive a veteran’s pension.
 
 **Article 6**
 
@@ -291,8 +277,6 @@ Number of whole months in 45 years
 
 (i) for a single person, the weekly rate before the deduction of income tax of New Zealand superannuation or veteran’s pension payable to a single person who is not living alone, after any deduction required to be made from a benefit under the legislation of New Zealand (not being a deduction on account of any debt, fine, reparation, penalty, or of the kind prohibited by paragraph 4 of this Article); or
 
-BEJN MALTA U NEW ZEALAND [L.S.318.23 7
-
 (ii) for a person who is married, in a civil union, or in a de facto relationship, the weekly rate before the deduction of income tax of New Zealand superannuation or veteran’s pension payable to a person whose spouse or partner is also entitled to New Zealand superannuation or a veteran’s pension after any deduction required to be made from a benefit under the legislation of New Zealand (not being a deduction on account of any debt, fine, reparation, penalty, or of the kind prohibited by paragraph 4 of this Article).
 
 \3. Where a person:
@@ -332,8 +316,6 @@ For the avoidance of doubt, a person who is entitled to receive New Zealand supe
 \1. Paragraph 2 of this Article applies to a person who:
 
 (a) is ordinarily resident in New Zealand;
-
-8 [L.S.318.23 BEJN MALTA U NEW ZEALAND
 
 (b) is receiving a Maltese benefit from which any tax is levied by Malta; and
 
@@ -379,9 +361,7 @@ then any period of New Zealand working age residence by that person shall be dee
 
 #### 5.
 
-For the purposes of this Article, where a claim by a person for a Maltese BEJN MALTA U NEW ZEALAND [L.S.318.23 9
-
-benefit in respect of widowhood is submitted, only the working age residence in New Zealand of the deceased spouse shall be taken into account.
+For the purposes of this Article, where a claim by a person for a Maltese benefit in respect of widowhood is submitted, only the working age residence in New Zealand of the deceased spouse shall be taken into account.
 
 **Article 12**
 
@@ -421,9 +401,7 @@ Totalised Contributions (TC)
 
 \1. Subject to the laws of the Parties, the competent institutions of the Parties shall exchange information for social security purposes, including such information as is necessary for the competent institutions to give effect to the provisions of this Agreement, and such information will not be used for any other purpose.
 
-\2. Paragraph 1 is subject to the respective privacy laws of the Parties; in particular for New Zealand, the terms and conditions set out in section 19C of the Social Welfare (Transitional Provisions) Act 1990 of New Zealand and for Malta, 10 [L.S.318.23 BEJN MALTA U NEW ZEALAND
-
-Article 27 of the Data Protection Act 2001. To this effect both Parties agree that:
+\2. Paragraph 1 is subject to the respective privacy laws of the Parties; in particular for New Zealand, the terms and conditions set out in section 19C of the Social Welfare (Transitional Provisions) Act 1990 of New Zealand and for Malta, Article 27 of the Data Protection Act 2001. To this effect both Parties agree that:
 
 (a) In exchanging the personal data or personal information for the purposes of this agreement, the competent institutions of both Parties shall implement appropriate technical and organisational security measures to protect the personal data or personal information against accidental or unlawful destruction or loss, alteration, unauthorised disclosure or access;
 
@@ -452,8 +430,6 @@ For the purpose of implementing this Agreement, the competent authorities and co
 \2. Where a person applies to the competent institution of a Party (the "First Party") for a benefit payable under this Agreement:
 
 (a) the application shall be considered as an application for the corresponding benefit under the legislation of the other Party if the person:
-
-BEJN MALTA U NEW ZEALAND [L.S.318.23 11
 
 (i) so requests; or
 
@@ -499,8 +475,6 @@ shall, subject to this Agreement, be taken into account in so far as those perio
 
 \2. The commencement date for payment of a benefit payable by virtue of this Agreement shall be determined in accordance with the legislation of the Party concerned but in no case shall that date be a date earlier than the date on which this Agreement enters into force.
 
-12 [L.S.318.23 BEJN MALTA U NEW ZEALAND
-
 **Article 18**
 
 **Payment of Benefits**
@@ -537,9 +511,7 @@ shall, subject to this Agreement, be taken into account in so far as those perio
 
 **Duration and termination**
 
-\1. Subject to paragraph 2 of this Article, this Agreement shall remain in force until the expiration of 12 months from the date on which a Party receives from the other Party written notice through the diplomatic channel of the intention of that BEJN MALTA U NEW ZEALAND [L.S.318.23 13
-
-Party to terminate the Agreement.
+\1. Subject to paragraph 2 of this Article, this Agreement shall remain in force until the expiration of 12 months from the date on which a Party receives from the other Party written notice through the diplomatic channel of the intention of that Party to terminate the Agreement.
 
 \2. In the event that this Agreement is terminated in accordance with paragraph 1 of this Article, the Agreement shall continue to be in force in relation to all persons who as a result of this Agreement:
 
@@ -591,9 +563,7 @@ Frequency of Information Exchange
 
 Exchanges of information for changes in circumstances will occur on an ad hoc basis as soon as practicably possible following either Liaison Agency becoming aware of a mutual client’s change of circumstances.
 
-General adjustments to benefit rates will be advised by each Liaison Agency to the 14 [L.S.318.23 BEJN MALTA U NEW ZEALAND
-
-other as soon as practicably possible.
+General adjustments to benefit rates will be advised by each Liaison Agency to the other as soon as practicably possible.
 
 For New Zealand the annual general adjustment to benefit rates occurs in April. For Malta the general adjustment of benefit rates occurs in January.
 
@@ -643,8 +613,6 @@ Subject to compliance with section 19D of the Social Welfare (Transitional Provi
 
 • client reference number for New Zealand
 
-BEJN MALTA U NEW ZEALAND [L.S.318.23 15
-
 • client reference numbers for Malta
 
 • date of birth
@@ -688,8 +656,6 @@ Neither Liaison Agency will re-use or re-assign their benefit reference numbers 
 ### Section 3 — Commencement
 
 This Supplementary Administrative Arrangement will commence on the same day the Agreement and Administrative Arrangement enters into force and will operate for the duration of the Agreement.
-
-16 [L.S.318.23 BEJN MALTA U NEW ZEALAND
 
 SIGNED at Valletta this 08th day of July 2013
 
@@ -741,7 +707,7 @@ The Liaison Agencies will be able to communicate directly with each other and wi
 
 #### 3.
 
-Application forms and associated documents will be sent between Liaison Agencies by airmail through registered mail, or via an equivalent air courier service. BEJN MALTA U NEW ZEALAND [L.S.318.23 17
+Application forms and associated documents will be sent between Liaison Agencies by airmail through registered mail, or via an equivalent air courier service.
 
 ### Section 3 — Forms, Documents and Procedures
 
@@ -797,8 +763,6 @@ Except as provided for in section 4, or unless the Liaison Agencies jointly deci
 
 • Amount of benefit granted
 
-18 [L.S.318.23 BEJN MALTA U NEW ZEALAND
-
 • Date of grant of benefit and any changes in the rate of payment and date of effect of those changes following the date of grant of the benefit
 
 • Periods of residence and/or periods of insurance contribution
@@ -842,8 +806,6 @@ Where Liaison Agencies exchange information about an individual or individuals u
 (iii) New Zealand Client Number(s)
 
 (iv) Maltese Identity Card number
-
-BEJN MALTA U NEW ZEALAND [L.S.318.23 19
 
 (v) Maltese Social Security number
 
@@ -902,8 +864,6 @@ Recipients of New Zealand and Maltese benefits will be advised of the exchange o
 #### 10.
 
 Provided that the Liaison Agencies have obtained any necessary consent from their respective Privacy Authorities, the Liaison Agencies may jointly decide in writing to add, amend or delete items of information to be exchanged.
-
-20 [L.S.318.23 BEJN MALTA U NEW ZEALAND
 
 ### Section 8 — Exchange Rates
 

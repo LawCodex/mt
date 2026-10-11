@@ -16,8 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Ġarr Stradali ta' Merkanzija Perikoluża bil-Vetturi bil-Mutur (S.L. 65.22)
 
-BIL-VETTURI BIL-MUTUR [L.S.65.22 1
-
 **LEĠISLAZZJONI SUSSIDJARJA 65.22**
 
 **REGOLAMENTI DWAR IL-ĠARR STRADALI**
@@ -92,10 +90,6 @@ F’dawn ir-regolamenti, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’o�
 
 ''l-Anness A u l-Anness B mal-ADR'' ifissru l-annessi mal-ADR, kif applikabbli b'effett mill-mill-1 ta’ Jannar 2025, huwa mifhum li l-frażi "parti kontraenti" hija sostitwita bil-frażi "Stat Membru" kif xieraq. ''impriża'' tfisser kull persuna naturali jew legali, kemm jekk tagħmel jew ma tagħmilx qligħ, kull assoċjazzjoni jew grupp ta’ persuni mingħajr personalità ġuridika, kemm jekk tagħmel jew ma tagħmilx qligħ, u kull korp ieħor li jiġi taħt awtorità pubblika, kemm jekk għandu l-personalità ġuridika tiegħu jew li hu dipendenti fuq awtorità li għandha tali personalità, li jġorru, jgħabbu, iħottu jew jimmaniġġjaw oġġetti perikolużi jew igiegħlu li jinġarru u dawk li temporanjament jaħżnu, jiġbru, jippakkjaw jew jirċievu oġġetti bħal dawn bħala parti minn operazzjoni ta’ trasport u huma lokalizzati fit-territorju ta’ Malta jew tal-Komunità;
 
-*3*
-
-BIL-VETTURI BIL-MUTUR [L.S.65.22
-
 ''Malta'' għandha l-istess tifsira assenjata lilha fl-artikolu 124 tal- Kostituzzjoni ta’ Malta;
 
 ''MEGC'' tfisser kontenitur tal-gass b’element multiplu;
@@ -154,11 +148,7 @@ BIL-VETTURI BIL-MUTUR [L.S.65.22
 
 (3) Bla ħsara għal dak maħsub f’dawn ir-regolamenti, id-definizzjonijiet kollha msemmija fl-Anness A u l-Anness B ta’ l- ADR għandu jkollhom l-istess tifsira għall-finijiet ta’ dawn ir-regolamenti.
 
-(4) Bla ħsara għal dak maħsub f’dawn ir-regolamenti, il-klassifikazzjoni ta’ sustanzi jew oġġetti, kodiċi jew gruppi ta’ klassifikazzjoni ta’ gruppi ta’ ippakkjar, u n-numri tan-Nazzjonijiet Uniti msemmija fl-Anness A u l-Anness B ta’ l-ADR għandhom BIL-VETTURI BIL-MUTUR [L.S.65.22
-
-japplikaw għal dawn ir-regolamenti.
-
-*5*
+(4) Bla ħsara għal dak maħsub f’dawn ir-regolamenti, il-klassifikazzjoni ta’ sustanzi jew oġġetti, kodiċi jew gruppi ta’ klassifikazzjoni ta’ gruppi ta’ ippakkjar, u n-numri tan-Nazzjonijiet Uniti msemmija fl-Anness A u l-Anness B ta’ l-ADR għandhom japplikaw għal dawn ir-regolamenti.
 
 ### 6. Derogi.
 
@@ -228,11 +218,7 @@ Iżda bla ħsara għad-disposizzjonijiet tal-paragrafu ta’ qabel dan, il-Minis
 
 (2) Il-vetturi kollha hekk immobilizzati jkunu jeħtieġu li jirrettifikaw kull nuqqas qabel ma jkomplu l-vjaġġ tagħhom jew ikunu soġġetti għal miżuri oħra xierqa, skond iċ-ċikostanzi jew rekwiżiti tas-sigurtà, inkluż fejn meħtieġ, ir-rifjut biex vetturi bħal dawn jitħallew jidħlu f’Malta jew joħorġu minn Malta.
 
-(3) Fejn infrazzjoni waħda jew aktar, partikolarment dawk imsemmija fit-Tieni Skeda, kienu stabbiliti fil-każ ta’ vetturi li BIL-VETTURI BIL-MUTUR [L.S.65.22
-
-f’dak il-waqt ikunu għand l-impriża, il-vettura ma titħalliex titlaq mill-bini kemm-il darba n-nuqqasijiet kollha ma jkunux ġew rettifikati u tkun f’konformità ma’ miżuri oħra xierqa imposti fuq l-imsemmija vettura mill-awtorità kompetenti.
-
-*7*
+(3) Fejn infrazzjoni waħda jew aktar, partikolarment dawk imsemmija fit-Tieni Skeda, kienu stabbiliti fil-każ ta’ vetturi li f’dak il-waqt ikunu għand l-impriża, il-vettura ma titħalliex titlaq mill-bini kemm-il darba n-nuqqasijiet kollha ma jkunux ġew rettifikati u tkun f’konformità ma’ miżuri oħra xierqa imposti fuq l-imsemmija vettura mill-awtorità kompetenti.
 
 ## TAQSIMA IV — KONSULENTI TAS-SIGURTÀ
 
@@ -300,11 +286,7 @@ Iżda dan ir-rapport ma għandu jissostitwixxi ebda rapport li jsir mit-tmexxija
 
 (`) splużivi li, abbażi tal-periklu predominanti tagħhom, huma klassifikati bħala perossidi organiċi;
 
-(d) oġġetti li jkollhom fihom sustanzi splużivi jew pirotekniċi f’ammonti żgħar jew ta’ xorta li l-ħruq jew inizjazzjoni involontarja jew aċċidentali tagħhom waqt il-ġarr ma jkun jikkawża ebda manifestazzjoni esterna BIL-VETTURI BIL-MUTUR [L.S.65.22
-
-lill-oġġett permezz ta’ projezzjoni, nar, duħħan, sħana jew ħoss qawwi.
-
-*9*
+(d) oġġetti li jkollhom fihom sustanzi splużivi jew pirotekniċi f’ammonti żgħar jew ta’ xorta li l-ħruq jew inizjazzjoni involontarja jew aċċidentali tagħhom waqt il-ġarr ma jkun jikkawża ebda manifestazzjoni esterna lill-oġġett permezz ta’ projezzjoni, nar, duħħan, sħana jew ħoss qawwi.
 
 (2) Ir-regolamenti f’din it-Taqsima għandhom ikunu bla preġudizzju għal xi regolamenti oħra maħruġa mill-Ministru minn żmien għal żmien dwar il-ġarr ta’ materjal ta’ Klassi 1 jew ta’ xi merkanzija perikoluża oħra.
 
@@ -374,11 +356,7 @@ L.S.65.22] BIL-VETTURI BIL-MUTUR
 
 (1) L-applikazzjoni ta’ din it-Taqsima hi bla preġudizzju għall-applikabbiltà tat-Taqsimiet l-oħra u ta’ l-Iskedi li jinsabu ma’ dawn ir-regolamenti u l-Anness A u l-Anness B ta’ l-ADR.
 
-(2) Din it-Taqsima hi applikabbli għal vetturi klassifikati ''FL'', BIL-VETTURI BIL-MUTUR [L.S.65.22
-
-''OX'' u ''AT''.
-
-*11*
+(2) Din it-Taqsima hi applikabbli għal vetturi klassifikati ''FL'', ''OX'' u ''AT''.
 
 Għall-fini ta’ din it-Taqsima:
 
@@ -434,11 +412,7 @@ Il-vetturi kollha, inklużi tractors u trailers użati għat-trasport ta’ merk
 
 (1) Ix-xufiera kollha kemm ta’ vetturi ġodda u użati għandu jkollhom Ċertifikat ta’ Taħriġ ADR għal Xufiera ta’ Vetturi li Jġorru Merkanzija Perikoluża, kif indikat fis-Seba’ Skeda, maħruġ mill-awtorità kompetenti jew mill-awtorità kompetenti ta’ Parti oħra li tkun Stat, li jkun validu għall-forma ta’ trasport in kwistjoni.
 
-(2) Kandidati li jixtiequ jakkwistaw Ċertifikat ta’ Taħriġ ADR għal Xufiera ta’ Vetturi li Jġorru Merkanzija Perikoluża għandhom isegwu taħriġ u jgħaddu minn eżami approvati mill-awtorità BIL-VETTURI BIL-MUTUR [L.S.65.22
-
-kompetenti.
-
-*13*
+(2) Kandidati li jixtiequ jakkwistaw Ċertifikat ta’ Taħriġ ADR għal Xufiera ta’ Vetturi li Jġorru Merkanzija Perikoluża għandhom isegwu taħriġ u jgħaddu minn eżami approvati mill-awtorità kompetenti.
 
 (3) L-għanijiet ewlenin tat-taħriġ għandhom jipprovdu lill-kandidati b’għarfien suffiċjenti tar-riskji inerenti fit-trasport ta’ sustanzi u oġġetti perikolużi, tal-liġijiet, regolamenti u disposizzjonijiet amministrattivi applikabbli għall-forom ta’ trasport in kwistjoni u tad-dmirijiet imsemmija fl-Anness A u l- Anness B ta’ l-ADR.
 
@@ -498,11 +472,7 @@ L-awtorità kompetenti tista’ f’kull żmien tissospendi l-użu ta’ kull ta
 
 (1) It-tankijiet, kontenituri tat-tankijiet, kontenituri ta’ gass b’element multiplu (MEGCs), tankijiet demountable u tagħmir trasportabbli ta’ pressa kollha għandhom juru marka ċara u leġibbli li tindika li t-tank, kontenitur jew tagħmir ta’ pressa jkunu konformi ma’ dawn ir-regolamenti.
 
-(2) Fejn it-tankijiet, kontenituri tat-tankijiet, kontenituri ta’ gass b’element multiplu (MEGCs), tankijiet demountable u tagħmir trasportabbli ta’ pressa ma jkollhomx il-marka kif mitlub fis-subregolament (1), it-tankijiet, kontenituri tat-tankijiet, kontenituri ta’ gass b’element multiplu (MEGCs), tankijiet demountable u tagħmir trasportabbli ta’ pressa ma għandhomx jinħarġu għall- BIL-VETTURI BIL-MUTUR [L.S.65.22
-
-bejgħ fis-suq jew jintużaw għall-ġarr ta’ merkanzija perikoluża.
-
-*15*
+(2) Fejn it-tankijiet, kontenituri tat-tankijiet, kontenituri ta’ gass b’element multiplu (MEGCs), tankijiet demountable u tagħmir trasportabbli ta’ pressa ma jkollhomx il-marka kif mitlub fis-subregolament (1), it-tankijiet, kontenituri tat-tankijiet, kontenituri ta’ gass b’element multiplu (MEGCs), tankijiet demountable u tagħmir trasportabbli ta’ pressa ma għandhomx jinħarġu għall-bejgħ fis-suq jew jintużaw għall-ġarr ta’ merkanzija perikoluża.
 
 ### 39. Dokumentazzjoni.
 
@@ -546,9 +516,7 @@ L.S.65.22] BIL-VETTURI BIL-MUTUR
 
 (3) L-awtorità kompetenti tista’ f’kull żmien titlob il-produzzjoni tad-dettalji dwar it-taħriġ ta’ kull impjegat.
 
-(4) Jekk l-awtorità kompetenti tkun tal-fehma li xi impjegat ma jkunx kwalifikat jew imħarreġ kif suppost, u konsegwentement is-sigurtà fil-ġarr ta’ merkanzija perikoluża tista’ tkun qiegħda tiġi ipperikolata, l-awtorità kompetenti tista’ tieħu l-passi meħtieġa biex tissospendi, jew biex tordna t-taħriġ ta’ l-imsemmi impjegat. BIL-VETTURI BIL-MUTUR [L.S.65.22 17
-
-L-EWWEL SKEDA Sostitwita:
+(4) Jekk l-awtorità kompetenti tkun tal-fehma li xi impjegat ma jkunx kwalifikat jew imħarreġ kif suppost, u konsegwentement is-sigurtà fil-ġarr ta’ merkanzija perikoluża tista’ tkun qiegħda tiġi ipperikolata, l-awtorità kompetenti tista’ tieħu l-passi meħtieġa biex tissospendi, jew biex tordna t-taħriġ ta’ l-imsemmi impjegat. L-EWWEL SKEDA Sostitwita:
 
 A.L. 349 tal-2005. (Regolament 12)
 
@@ -629,8 +597,6 @@ misjuba
 (2) Għandu jingħata taħt 'rimarki' fir-rigward ta’ operazzjonijiet ta’ trasport fi gruppi
 
 (3) Verifika ta’ vjolazzjonijiet viżibbli
-
-BIL-VETTURI BIL-MUTUR [L.S.65.22 19
 
 IT-TIENI SKEDA Sostitwita:
 
@@ -758,10 +724,6 @@ Numru ta’ forom ta’ trasport
 
 immobilizzati
 
-*21*
-
-BIL-VETTURI BIL-MUTUR [L.S.65.22
-
 Numru ta’ infrazzjonijiet L-I
 
 innu tati, s kon d il- Kategorija
@@ -845,8 +807,6 @@ j) l-introduzzjoni ta’ miżuri biex jitkabbar l-għarfien tar-riskji inerenti 
 k) l-implimentazzjoni ta’ pro`eduri ta’ verifika biex tkun a``ertata l-preżenza abbord il-mezzi ta’ trasport tad-dokumenti u tagħmir ta’ sigurtà li jmorru mat-trasport u l-konformità tat-tali dokumenti u tagħmir mar-regolamenti;
 
 l) l-implimentazzjoni ta’ pro`eduri ta’ verifika biex tkun a``ertata l-konformità mar-regoli dwar tagħbija u ħatt.
-
-BIL-VETTURI BIL-MUTUR [L.S.65.22 23
 
 IR-RABA’ SKEDA
 
@@ -970,8 +930,6 @@ regolamenti tat-traffiku u navigazzjoni u restrizzjonijiet;
 
 rekwiżiti relatati ma’ tagħmir ta’ trasport.
 
-BIL-VETTURI BIL-MUTUR [L.S.65.22 25
-
 ## IL-ĦAMES SKEDA
 
 (Regolament 17)
@@ -1083,8 +1041,6 @@ Validu sa: Timbru ta’ min qed joħroġ iċ-ċertifikat
 Post, Data, Firma
 
 1 Skond it-tifsiriet ta’ vetturi li jaħdmu b’mutur u ta’ trailers tal-kategoriji N u O kif imfisser fl-Anness 7 tar- Riżoluzzjoni Konsolidata fuq il-Kostruzzjoni ta’ Vetturi (R.E.3) jew fid-Direttiva 97/27/KE. 2. Ħassar fejn m’hux adatt.
-
-BIL-VETTURI BIL-MUTUR [L.S.65.22 27
 
 \3. Immarka fejn adatt.
 

@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kontroll ta’ Prodotti u Rekwiżiti għat-Tipjip li Jixbħu Sigarretti jew Tabakk"
-identifier: "S.L. 315.9"
+identifier: "S.L. 315.09"
 eli: "https://legislation.mt/eli/sl/315.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/315.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kontroll ta’ Prodotti u Rekwiżiti għat-Tipjip li Jixbħu Sigarretti jew Tabakk (S.L. 315.9)
-
-KONTROLL TA’ PRODOTTI U REKWI|ITI G}AT-TIPJIP
-
-*1*
-
-LI JIXB}U SIGARRETTI JEW TABAKK [L.S.315.09
+# Regolamenti dwar il-Kontroll ta’ Prodotti u Rekwiżiti għat-Tipjip li Jixbħu Sigarretti jew Tabakk (S.L. 315.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 315.09**
 

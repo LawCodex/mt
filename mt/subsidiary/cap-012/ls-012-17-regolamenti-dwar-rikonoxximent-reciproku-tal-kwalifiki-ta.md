@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Rikonoxximent Reċiproku tal-Kwalifiki ta' Professjonisti Legali (S.L. 12.17)
 
-*1*
-
-TA’ PROFESSJONISTI LEGALI [L.S.12.17
-
 **LE{ISLAZZJONI SUSSIDJARJA 12.17**
 
 REGOLAMENTI DWAR IR-RIKONOXXIMENT
@@ -97,10 +93,6 @@ L.S.12.17] TA’ PROFESSJONISTI LEGALI
 
 (3) Tkun ir-responsabbiltà tal-professjonist legali involut li jissupplixxi lill-awtorità nominata prova ta’ dak l-e\\er`izzju regolari effettiv g]al perjodu ta’ mill-inqas tliet snin ta’ xi attività fil-li[i ta’ Malta. G]al dak 1-iskop:
 
-*3*
-
-TA’ PROFESSJONISTI LEGALI [L.S.12.17
-
 (a) il-professjonist legali g]andu jag]ti lill-awtorità nominata kull informazzjoni u dokumentazzjoni rilevanti, notevolment dwar l-g]add ta’ su[[etti li jkun ittratta u x-xorta tag]hom;
 
 (b) l-awtorità nominata tista’ tivverifika ix-xorta effettiva u regolari ta’ l-attività e\\er`itata u tista’, jekk ikun me]tie[, titlob lill-professjonist legali jipprovdi, bil-fomm jew bil-miktub, kjarifika jew dettalji ulterjuri dwar l-informazzjoni u d-dokumentazzjoni msemmija fil-paragrafu (a).
@@ -151,11 +143,7 @@ Irrespettivament mir-regoli ta’ m[ieba professjonali li professjonist legali j
 
 (1) Fil-ka\\ ta’ nuqqas minn professjonist legali li jkun je\\er`ita ta]t it-titolu professjonali domestiku tieg]u li jwettaq l-obbligazzjonijiet li jkunu fis-se]] f’Malta, g]andhom japplikaw ir-regoli ta’ pro`edura, penalitajiet u rimedji li hemm provdut dwarhom f’Malta.
 
-(2) Qabel ma jinbdew pro`edimenti dixxiplinari kontra professjonist legali li jkun je\\er`ita ta]t it-titolu professjonali tieg]u li jintu\\a f’pajji\\u, il-Kummissjoni g]andha tg]arraf lill- TA’ PROFESSJONISTI LEGALI [L.S.12.17
-
-awtorità kompetenti fl-Istat Membru kemm jista’ jkun malajr, billi jibg]atlu d-dettalji kollha rilevanti.
-
-*5*
+(2) Qabel ma jinbdew pro`edimenti dixxiplinari kontra professjonist legali li jkun je\\er`ita ta]t it-titolu professjonali tieg]u li jintu\\a f’pajji\\u, il-Kummissjoni g]andha tg]arraf lill-awtorità kompetenti fl-Istat Membru kemm jista’ jkun malajr, billi jibg]atlu d-dettalji kollha rilevanti.
 
 (3) Is-subregolament (2) g]andu japplika mutatis mutandis meta pro`edimenti dixxiplinari jkunu [ew mibdija mill-awtorità kompetenti ta’ l-Istat Membru domestiku, li g]andu jg]arraf lill- Kummissjoni skond hekk.
 
@@ -188,10 +176,6 @@ L.S.12.17] TA’ PROFESSJONISTI LEGALI
 (1) Sabiex ti[i fa`ilitata l-applikazzjoni ta’ dawn ir-regolamenti u sabiex jipprevjeni li dawn il-provvedimenti ji[u applikati ]a\\in g]all-fini unika li wie]ed ja]rab b’qerq mir-regoli applikabbli f’Malta, l-awtorità nominata u l-korp li jkun kontroparti fl-Istat Membru domestiku, g]andhom jikkollaboraw mill-qrib u jag]tu lil xulxin kull assistenza re`iproka o]ra.
 
 (2) I\\-\\ew[ awtoritajiet imsemmija fis-subregolament (1) g]andhom i\\ommu kull informazzjoni skambjata bejniethom b]ala wa]da konfidenzjali.
-
-*7*
-
-TA’ PROFESSJONISTI LEGALI [L.S.12.17
 
 SKEDA Mi\\juda:
 

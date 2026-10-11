@@ -16,11 +16,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet li għandhom jitħallsu għad-Dokumenti tal-Identità (S.L. 35.40)
 
-DRITTIJIET LI GĦANDHOM JITĦALLSU GĦAD-
-
-*1*
-
-DOKUMENTI TAL-IDENTITÀ [L.S.35.40 LEĠISLAZZJONI SUSSIDJARJA 35.40
+**LEĠISLAZZJONI SUSSIDJARJA 35.40**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET LI**
 

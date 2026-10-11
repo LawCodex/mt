@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Kontroll ta' Flus"
-identifier: "S.L. 233.7"
+identifier: "S.L. 233.07"
 eli: "https://legislation.mt/eli/sl/233.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/233.7/20250613/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Kontroll ta' Flus (S.L. 233.7)
+# Regolamenti dwar il-Kontroll ta' Flus (S.L. 233.07)
 
 LEĠISLAZZJONI SUSSIDJARJA 233.07
 

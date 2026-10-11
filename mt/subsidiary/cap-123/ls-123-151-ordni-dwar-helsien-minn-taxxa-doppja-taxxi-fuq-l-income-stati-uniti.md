@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Stati Uniti Messikani) (S.L. 123.151)
 
-*1*
-
-(STATI UNITI MESSIKANI) [L.S.123.151
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.151**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
@@ -50,8 +46,6 @@ B’dan qiegћed jiġi dikjarat:
 (c) illi l-Ftehim għandu jidħol fis-seħħ f’dik id-data li tkun mħabbra b’avviż fil-Gazzetta.
 
 \*9 ta’ Awwissu, 2014 - ara l-Avviż Legali 332 tal-2014.
-
-2 [L.S.123.151 (STATI UNITI MESSIKANI)
 
 ## SKEDA — Artikolu 2 — FTEHIM BEJN L-ISTATI UNITI MESSIKANI U MALTA
 
@@ -111,9 +105,7 @@ Il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalment si
 
 \1. Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra:
 
-a) il-frażi "Messiku" tfisser l-Istati Uniti Messikani, li meta użata f’sens ġeografiku tinkludi it-territorju tal-Istati Uniti Messikani, kif ukoll il-partijiet integrati tal-Federazzjoni, il-gżejjer, inklużi is-sikek u l-cays tal-ibħra adjaċenti, il-gżejjer ta’ Guadalupe u Revillagigedo, il-blata kontinentali u l-area ta’ qiegħ il-baħar u s-sottoswol tal-gżejjer, cays u (STATI UNITI MESSIKANI) [L.S.123.151 3
-
-sikek, l-ilma tal-ibħra territorjali u l-ilmijiet interni u lil hinn minnhom l-areas li dwarhom, skont id-dritt internazzjonali, il-Messiku jista’ jeżerċita d-drittijiet sovrani tiegħu dwar l-esplorazzjoni u l-esplojtazzjoni tar-riżorsi naturali ta’ qiegħ il-baħar, is-sottoswol u l-ibħra sovrajaċenti, u l-ispazju tal-ajru tat-territorju nazzjonali sal-limitu u taħt il-kundizzjonijiet stabbiliti bid-dritt internazzjonali;
+a) il-frażi "Messiku" tfisser l-Istati Uniti Messikani, li meta użata f’sens ġeografiku tinkludi it-territorju tal-Istati Uniti Messikani, kif ukoll il-partijiet integrati tal-Federazzjoni, il-gżejjer, inklużi is-sikek u l-cays tal-ibħra adjaċenti, il-gżejjer ta’ Guadalupe u Revillagigedo, il-blata kontinentali u l-area ta’ qiegħ il-baħar u s-sottoswol tal-gżejjer, cays u sikek, l-ilma tal-ibħra territorjali u l-ilmijiet interni u lil hinn minnhom l-areas li dwarhom, skont id-dritt internazzjonali, il-Messiku jista’ jeżerċita d-drittijiet sovrani tiegħu dwar l-esplorazzjoni u l-esplojtazzjoni tar-riżorsi naturali ta’ qiegħ il-baħar, is-sottoswol u l-ibħra sovrajaċenti, u l-ispazju tal-ajru tat-territorju nazzjonali sal-limitu u taħt il-kundizzjonijiet stabbiliti bid-dritt internazzjonali;
 
 b) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiġi użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Gћawdex u l-gżejjer l-oћra tal-arċipelagu Malti inklużi l-ibћra territorjali tagћhom, kif ukoll kull area ta’ qiegћ il-baћar, is-sottoswol tiegћu u l-kolonna ta’ baћar sovrajaċenti li tinsab adjaċenti mal-ibћra territorjali, li fihom Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew kontroll kif hemm fid-dritt internazzjonali u d-dritt nazzjonali tagћha, inkluża l-leġislazzjoni tagћha dwar l-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagћha;
 
@@ -145,9 +137,7 @@ k) il-frażi "ċittadin" rigward Stat Kontraenti tfisser:
 
 **RESIDENTI**
 
-\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser 4 [L.S.123.151 (STATI UNITI MESSIKANI)
-
-kull persuna li, taћt il-liġijiet ta’ dak l-Istat, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk u tinkludi ukoll dak l-Istat, u kull sottodiviżjoni politika jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun soġġetta għat-taxxa f’dak l-Istat biss dwar income minn għejjun f’dak l-Istat.
+\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet ta’ dak l-Istat, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk u tinkludi ukoll dak l-Istat, u kull sottodiviżjoni politika jew awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun soġġetta għat-taxxa f’dak l-Istat biss dwar income minn għejjun f’dak l-Istat.
 
 \2. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewg Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
 
@@ -183,8 +173,6 @@ e) ħanut tax-xogћol; u
 
 f) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieћor ta’ estrazzjoni ta’ riżorsi naturali.
 
-(STATI UNITI MESSIKANI) [L.S.123.151 5
-
 \3. Il-frażi "stabbiliment permanenti" bl-istess mod tinkludi:
 
 a) art li tkun qegћda tinbena jew proġett ta’ kostruzzjoni, assemblaġġ jew stallazzjoni jew attivitajiet ta’ sorveljanza li jkollhom x’jaqsmu ma’ dan, iżda biss meta dik l-art, dak il-proġett jew dawk l-attivitajiet ikomplu gћaddejin gћal perjodu ta’ aktar minn 6 (sitt) xhur;
@@ -219,9 +207,7 @@ Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, impriża ta’ a
 
 ## 7.
 
-Impriża ma gћandhiex titqies li jkollha stabbiliment permanenti f’Istat 6 [L.S.123.151 (STATI UNITI MESSIKANI)
-
-Kontraenti biss minћabba li tkun tiġġestixxi negozju f’dak l-Istat permezz ta’ sensal, aġent b’kummissjoni ġenerali jew kull aġent ieћor bi status indipendenti, sakemm dawk il-persuni jkunu qegћdin jaġixxu fil-kors ordinarju tan-negozju tagћhom u fir-relazzjonijiet kummerċjali jew finanzjarji tagħhom mal-impriża ma jagħmlux jew ma jimponux kundizzjonijiet li ma jkunux bħal dawk li ġeneralment ikunu miftiehma bejn aġenti indipendenti.
+Impriża ma gћandhiex titqies li jkollha stabbiliment permanenti f’Istat Kontraenti biss minћabba li tkun tiġġestixxi negozju f’dak l-Istat permezz ta’ sensal, aġent b’kummissjoni ġenerali jew kull aġent ieћor bi status indipendenti, sakemm dawk il-persuni jkunu qegћdin jaġixxu fil-kors ordinarju tan-negozju tagћhom u fir-relazzjonijiet kummerċjali jew finanzjarji tagħhom mal-impriża ma jagħmlux jew ma jimponux kundizzjonijiet li ma jkunux bħal dawk li ġeneralment ikunu miftiehma bejn aġenti indipendenti.
 
 ## 8.
 
@@ -251,9 +237,7 @@ b) bejgħ fl-Istat l-ieħor ta’ oġġetti jew merkanzija tal-istess xorta jew 
 
 Iżda, il-profitti miksuba mill-bejgħ deskritti fis-subparagrafu b) ma jkunux taxxabbli fl-Istat Kontraenti l-ieħor jekk l-impriża turi li dak il-bejgħ kien sar għal raġunijiet oħra milli biex tikseb benefiċċju taħt dan il-Ftehim.
 
-\2. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 3, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun qiegћed hemmhekk, gћandhom jiġu attribwiti f ’kull Stat Kontraenti lil dak l-istabbiliment permanenti l-profitti li dan kien ikun mistenni (STATI UNITI MESSIKANI) [L.S.123.151 7
-
-jagћmel kieku kien impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet jew simili għalihom u li tkun tittratta gћalkollox b’mod indipendenti mal-impriża li tkun stabbiliment permanenti tagћha.
+\2. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 3, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun qiegћed hemmhekk, gћandhom jiġu attribwiti f ’kull Stat Kontraenti lil dak l-istabbiliment permanenti l-profitti li dan kien ikun mistenni jagћmel kieku kien impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bћalhom taћt l-istess kundizzjonijiet jew simili għalihom u li tkun tittratta gћalkollox b’mod indipendenti mal-impriża li tkun stabbiliment permanenti tagћha.
 
 \3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom ikunu permessi bћala tnaqqis l-ispejjeż li jsiru gћall-gћanijiet tan-negozju tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, kemm jekk isiru fl-Istat Kontraenti li fih ikun jinsab l-istabbiliment permanenti sew band’oħra.
 
@@ -279,8 +263,6 @@ jagћmel kieku kien impriża distinta u separata li taћdem fl-istess attivitaji
 
 \5. Id-dispożizzjonijiet tal-paragrafu 1 gћandhom ikunu japplikaw ukoll gћal profitti miksubin mill-parteċipazzjoni f’pool, negozju bi sħab jew aġenzija b’operat internazzjonali.
 
-8 [L.S.123.151 (STATI UNITI MESSIKANI)
-
 **Artikolu 9**
 
 **IMPRIŻI ASSOĊJATI**
@@ -305,9 +287,7 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewg impriżi
 
 \3. Id-dispożizzjonijiet tal-paragrafu 1 u 2 m’gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu, permezz ta’ stabbiliment permanenti li jkun sitwat hemmhekk u l-holding li dwarhom jitћallsu d-dividendi jkollu effettivament x’jaqsam ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet ta’ l-Artikolu 7 għandhom japplikaw.
 
-\4. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab (STATI UNITI MESSIKANI) [L.S.123.151 9
-
-f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
+\4. Meta kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li dwaru jitћallsu d-dividendi jkun effettivament konness ma’ stabbiliment permanenti li jkun jinsab f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
 
 **Artikolu 11**
 
@@ -335,9 +315,7 @@ d) l-imgħax joriġina fil-Messiku u jitħallas dwar self għall-perjodu ta’ m
 
 \5. Id-dispożizzjonijiet tal-paragrafu 1, 2 u 3 ma gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tal-imgћax li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 gћandhom japplikaw.
 
-\6. Jitqies li jinqala’ mgћax fi Stat Kontraenti meta min iћallas ikun residenti ta’ dak l-Istat. Madankollu, meta l-persuna li tkun qegћda tћallas l-imgћax, kemm jekk din tkun kemm jekk ma tkunx residenti ta’ Stat Kontraenti, ikollha fi Stat Kontraenti 10 [L.S.123.151 (STATI UNITI MESSIKANI)
-
-stabbiliment permanenti u dak l-imgћax jiġġarrab minn dak l-istabbiliment permanenti, gћaldaqstant dak l-imgћax gћandu jitqies li jinqala’ fl-Istat fejn ikunu sitwat l-istabbiliment permanenti.
+\6. Jitqies li jinqala’ mgћax fi Stat Kontraenti meta min iћallas ikun residenti ta’ dak l-Istat. Madankollu, meta l-persuna li tkun qegћda tћallas l-imgћax, kemm jekk din tkun kemm jekk ma tkunx residenti ta’ Stat Kontraenti, ikollha fi Stat Kontraenti stabbiliment permanenti u dak l-imgћax jiġġarrab minn dak l-istabbiliment permanenti, gћaldaqstant dak l-imgћax gћandu jitqies li jinqala’ fl-Istat fejn ikunu sitwat l-istabbiliment permanenti.
 
 \7. Meta, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont tal-imgћax ikun iżjed, tkun xi tkun ir-raġuni, mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l- Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet għandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, fil-qies tad-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
@@ -365,9 +343,7 @@ Minkejja d-dispożizzjonijiet tal-Artikolu 13, il-frażi "royalties" tinkludi wk
 
 \5. Ir-royalties għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti u dawk ir-royalties ikunu ta’ piż fuq dak l-istabbiliment permanenti, allura dawk ir-royalties għandhom jitqiesu li jinqalgћu fl-Istat fejn ikun jinsab l-istabbiliment permanenti.
 
-\6. Meta minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont ikun iżjed, tkun xi tkun ir-raġuni, mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom (STATI UNITI MESSIKANI) [L.S.123.151 11
-
-ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
+\6. Meta minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejnithom it-tnejn u xi persuna oћra, l-ammont ikun iżjed, tkun xi tkun ir-raġuni, mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
 **Artikolu 13**
 
@@ -397,9 +373,7 @@ a) min jirċevih ikun joqgћod fl-Istat l-ieћor gћal perjodu jew perjodi li b�
 
 b) il-kumpens jitћallas minn, jew f’isem, prinċipal li ma jkunx residenti fl- Istat l-ieћor; u
 
-ċ) il-kumpens ma jkunx ta’ piż fuq l-istabbiliment permanenti li l-prinċipal 12 [L.S.123.151 (STATI UNITI MESSIKANI)
-
-ikollu fl-Istat l-ieћor.
+ċ) il-kumpens ma jkunx ta’ piż fuq l-istabbiliment permanenti li l-prinċipal ikollu fl-Istat l-ieћor.
 
 \3. Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, kumpens li jinkiseb minn impjieg eżerċitat abbord xi bastiment jew inġenji tal-ajru mħaddma minn residenti ta’ Stat Kontraenti fi traffiku internazzjonali jista’ jiġi ntaxxat f’dak l-Istat.
 
@@ -435,8 +409,6 @@ b) Madankollu, kull salarju, paga u kumpens ieћor bћal dawk gћandhom jiġu in
 
 i) jkun ċittadin ta’ dak l-Istat; jew
 
-(STATI UNITI MESSIKANI) [L.S.123.151 13
-
 ii) ma jkunx sar residenti ta’ dak l-Istat unikament bil-għan li jagħti dawk is-servizzi.
 
 \2. a) Minkejja d-dispożizzjonijiet tal-paragrafu 1, kull pensjoni u kull kumpens ieħor simili mћallsa minn, jew li toħroġ minn fondi maħluqa minn, Stat Kontraenti jew sottodiviżjoni politika jew awtorità lokali tiegћu lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat jew sottodiviżjoni jew awtorità gћandhom jiġu intaxxati biss f’dak l- Istat.
@@ -471,8 +443,6 @@ b) fil-każ ta’ kumpannija li tkun is-sid ta’ mill-anqas 10 fil-mija tal-kap
 
 Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla li jingћata kreditu gћat-taxxa ta’ Malta dwar it-taxxa barranija, meta, skont id-dispożizzjonijiet ta’ dan il-Ftehim, jiġi inkluż fi stima li ssir Malta income minn gћejjun fil-Messiku, it-taxxa tal-Messiku fuq dak l-income gћandha titћalla li tingћata bћala kreditu gћat-taxxa relattiva ta’ Malta li titћallas fuqha.
 
-14 [L.S.123.151 (STATI UNITI MESSIKANI)
-
 \3. Meta skont xi dispożizzjoni tal-Ftehim income li jinkiseb minn residenti ta’ Stat Kontraenti jkun eżenti mit-taxxa f’dak l-Istat, dak l-Istat jista’ madankollu, sabiex jikkalkula l-ammont ta’ taxxa fuq l-income l-ieħor ta’ dak ir-residenti, jieħu konsiderazzjoni tal-income eżentat.
 
 **Artikolu 22**
@@ -495,9 +465,7 @@ Bla ħsara għad-dispożizzjonijiet tal-liġijiet ta’ Malta dwar li jitћalla 
 
 \1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wieħed jew taż-żewġ Stati Kontraenti jirriżultawlu jew jistgћu jirriżultawlu f’taxxa li ma tkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim, huwa jista’, irrispettivament mir-rimedji provduti mil-liġi domestika ta’ dawk l-Istati, jippreżenta l-każ tiegћu quddiem l-awtorità kompetenti tal-Istat Kontraenti fejn huwa jkun residenti jew, jekk il-każ tiegћu jkun jaqa’ taћt il-paragrafu 1 tal-Artikolu 22, quddiem dik tal-Istat Kontraenti li huwa jkun ċittadin tiegћu. Il-każ gћandu jiġi ppreżentat fi żmien 3 (tliet) snin minn l-ewwel avviż tal-azzjoni li tirriżulta f’taxxa li ma tkunx skont id-dispożizzjonijiet tal- Ftehim.
 
-\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieћor, bil-gћan li tiġi evitata taxxa li ma tkunx skont il-Ftehim, kemm (STATI UNITI MESSIKANI) [L.S.123.151 15
-
-il-darba l-awtorità kompetenti tal-Istat Kontraenti l-ieħor tiġi notifikata bil-każ fi żmien 4 (erbgħa) snin u nofs mid-due date jew mid-data ta’ meta ntbagħat il-prospett f’dak l-Istat l-ieħor, skont liema minnhom tiġi l-aħħar. F’dak il-każ, kull ftehim milħuq għandu jiġi implimentat fi żmien 10 (għaxar) snin mid-due date jew id-data ta’ meta ntbagħat il-prospett f’dak l-Istat l-ieħor, skont liema minnhom tiġi l-aħħar, jew perjodu itwal jekk permess mill-liġi domestika tal-Istat l-ieħor.
+\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieћor, bil-gћan li tiġi evitata taxxa li ma tkunx skont il-Ftehim, kemm il-darba l-awtorità kompetenti tal-Istat Kontraenti l-ieħor tiġi notifikata bil-każ fi żmien 4 (erbgħa) snin u nofs mid-due date jew mid-data ta’ meta ntbagħat il-prospett f’dak l-Istat l-ieħor, skont liema minnhom tiġi l-aħħar. F’dak il-każ, kull ftehim milħuq għandu jiġi implimentat fi żmien 10 (għaxar) snin mid-due date jew id-data ta’ meta ntbagħat il-prospett f’dak l-Istat l-ieħor, skont liema minnhom tiġi l-aħħar, jew perjodu itwal jekk permess mill-liġi domestika tal-Istat l-ieħor.
 
 \3. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jistgħu jinqalgħu dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Dawn jistgћu wkoll jikkonsultaw flimkien dwar l-eliminazzjoni ta’ taxxa doppja f’dawk il-każijiet li ma jkun hemm provdut xejn dwarhom fil-Ftehim.
 
@@ -519,8 +487,6 @@ a) jwettaq miżuri amministrattivi li ma jkunux jaqblu mal-liġijiet u mal-pratt
 
 b) jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew fil-kors normali tal-amministrazzjoni ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ieћor;
 
-16 [L.S.123.151 (STATI UNITI MESSIKANI)
-
 ċ) jagћti informazzjoni li tkun tikxef xi sigriet ta’ sengћa, negozju, industrija, kummerċ jew professjoni jew proċess kummerċjali, jew informazzjoni, li meta din tiġi żvelata tkun tmur kontra l-ordni pubbliku (ordre public).
 
 \4. Jekk tintalab xi informazzjoni minn Stat Kontraenti skont dan l-Artikolu, l- Istat Kontraenti l-ieħor għandu juża l-mezzi li jkollu għall-ġbir ta’ l-informazzjoni biex jiġbor l-informazzjoni mitluba, ukoll jekk dak l-Istat l-ieħor jista’ ma jkollux bżonn dik l-informazzjoni għall-finijiet tiegħu ta’ ġbir ta’ taxxa. L-obbligu li jinsab fis-sentenza ta’ qabel hu soġġett għal-limitazzjonijiet tal-paragrafu 3 iżda dawk il-limitazzjonijiet m’għandhom f ’ebda każ jiftiehmu bħala li jħallu lil xi Stat Kontraenti li jonqos milli jagħti xi informazzjoni biss għaliex ma jkollu ebda interess domestiku f’dik l-informazzjoni.
@@ -539,9 +505,7 @@ b) jagћti informazzjoni li ma tkunx tista’ tinkiseb taћt il-liġijiet jew fi
 
 \4. Meta pretensjoni ta’ dħul ta’ Stat Konraenti hija pretensjoni li dwarha dak l- Istat jista’, taħt il-liġi tiegħu, jieħu mizuri ta’ konservanza bil-ħsieb li jiżguraw il-ġbir tagħha, dik il-pretensjoni ta’ dħul għandha, fuq it-talba tal-awtorità kompetenti ta’ dak l-Istat, tiġi aċċettata għall-finijiet ta’ teħid ta’ miżuri ta’ konservanza mill-awtorità kompetenti tal-Istat Kontraenti l-ieħor. Dak l-Istat l-ieħor għandu jieħu miżuri ta’ konservanza dwar dik il-pretensjoni ta’ dħul skont id-disposizzjonijiet tal-liġjijiet tagħha daqslikieku l-pretensjoni ta’ dħul kienet pretensjoni ta’ dħul ta’ dak l- Istat l-ieħor ukoll jekk, f’dak iż-żmien meta tali miżuri ġew applikati, il-pretensjoni ta’ dħul ma’ tistax tkun infurzata fl-Istat l-ewwel imsemmi jew hija dovuta minn persuna li għandha dritt li tippreveni l-ġbir tagħha.
 
-\5. Minkejja d-disposizzjonijiet tal-paragrafi 3 u 4, pretensjoni ta’ dħul aċċettata minn Stat Kontraenti għall-finijiet tal-paragrafi 3 u 4 m’għandhomx, f’dak l-Istat, ikunu soġġetti għal terminu ta’ żmien jew mogħtija xi prijorità li tapplika (STATI UNITI MESSIKANI) [L.S.123.151 17
-
-għal xi pretensjoni ta’ dħul taħt il-liġijiet ta’ dak l-Istat minħabba fin-natura tiegħu bħala tali. Barra minn hekk, pretensjoni ta’ dħul aċċettata minn Stat Kontraenti għall-finijiet tal-paragrafu 3 jew 4 m’għandhiex, f’dak l-Istat, ikollha xi prijorità li tapplika għal dik il-pretensjoni ta’ dħul taħt il-liġijiet ta’ dak l-Istat Kontraenti l-ieħor.
+\5. Minkejja d-disposizzjonijiet tal-paragrafi 3 u 4, pretensjoni ta’ dħul aċċettata minn Stat Kontraenti għall-finijiet tal-paragrafi 3 u 4 m’għandhomx, f’dak l-Istat, ikunu soġġetti għal terminu ta’ żmien jew mogħtija xi prijorità li tapplika għal xi pretensjoni ta’ dħul taħt il-liġijiet ta’ dak l-Istat minħabba fin-natura tiegħu bħala tali. Barra minn hekk, pretensjoni ta’ dħul aċċettata minn Stat Kontraenti għall-finijiet tal-paragrafu 3 jew 4 m’għandhiex, f’dak l-Istat, ikollha xi prijorità li tapplika għal dik il-pretensjoni ta’ dħul taħt il-liġijiet ta’ dak l-Istat Kontraenti l-ieħor.
 
 \6. Proċedimenti dwar l-eżistenza, validità jew l-ammont tal-pretensjoni ta’ dħul ta’ Stat Kontraenti m’għandhomx jinġiebu quddiem il-qrati jew korpi amministrattivi tal-Istat Kontraenti l-ieħor.
 
@@ -581,8 +545,6 @@ Ebda ħaġa f’dan il-Ftehim ma gћandha tolqot il-privileġġi fiskali tal-mem
 
 a) f’Malta:
 
-18 [L.S.123.151 (STATI UNITI MESSIKANI)
-
 dwar it-taxxi fuq l-income miksub matul xi sena kalendarja jew perjodu ta’ kontijiet, skont il-każ, li jibda għaddej fi jew wara l-ewwel jum ta’ Jannar li jiġi minnufih wara d-data meta l-Ftehim jidħol fis-seħħ.
 
 b) fit-Messiku:
@@ -615,8 +577,6 @@ GĦALL-ISTATI UNITI MESSIKANI GĦAL MALTA
 
 Miguel Ruiz-Cabañas Izquierdo Carmel Inguanez
 
-(STATI UNITI MESSIKANI) [L.S.123.151 19
-
 **PROTOKOLL**
 
 Filwaqt tal-iffirmar tal-Ftehim konkluż illum bejn l-Istati Uniti tal-Messiku u Malta gћall-evitar ta’ taxxa doppja u l-prevenzjoni ta’ evażjoni fiskali dwar taxxi fuq l-income, is-sottoskritti ftehmu dwar dawn id-dispożizzjonijiet li ġejjin li għandhom ikunu jiffurmaw parti integrali mill-Ftehim.
@@ -643,9 +603,7 @@ Minkejja dak li jingħad qabel, kemm il-darba jiġu riċevuti flus kontanti jew 
 
 B. Il-qligħ kien inqala’ minn kumpannija tal-assigurazzjoni jew fond ta’ pensjoni. Il-frażi "fond ta’ pensjoni" tfisser, kull persuna, entità jew trust, inkluż fil-każ tal-Messiku, "Afores y Siefores", stabbiliti fi Stat Kontraenti:
 
-1° li tamministra skemi ta’ pensjoni jew tipprovdi benefiċċji tal-irtirar; jew 20 [L.S.123.151 (STATI UNITI MESSIKANI)
-
-2° li taqla’ income f’isem persuna jew aktar persuni li joperaw biss, jamminsistraw skemi ta’ pensjoni jew jipprovdu benefiċji tal-irtirar; u sakemm tkun:
+1° li tamministra skemi ta’ pensjoni jew tipprovdi benefiċċji tal-irtirar; jew 2° li taqla’ income f’isem persuna jew aktar persuni li joperaw biss, jamminsistraw skemi ta’ pensjoni jew jipprovdu benefiċji tal-irtirar; u sakemm tkun:
 
 1° fil-każ tal-Messiku, regolata minn wieħed jew aktar mill-awtoritajiet li ġejjin, il-Kummissjoni Nazzjonali għas-Sistema tal-Pensjoni ("CONSAR"), Il-Kummisjoni Nazzjonali għall-Assigurazzjoni u Surety ("CNSF"), il-Kummissjoni Nazzjonali dwar Banek u Titoli ("CNBV") jew il-Ministeru tal-Finanzi u Kreditu Pubbliku; jew
 
@@ -669,9 +627,7 @@ II. L-ebda d-dispożizzjoni tal-Ftehim, ħlief għall-Artikolu 24 "Skambju ta’
 
 a) elementi ta’ income li jkun eżenti mit-taxxa fi Stat Kontraenti li tiegħu s-sid benefiċjarju tal-income ikun residenti jew ikun taxxabbli f’dak l- Istat f’idejn ir-residenti b’rata li tkun aktar baxxa mir-rata applikabbli lill-istess element ta’ income li jinqala’ minn residenti oħra ta’ dak l- Istat li ma jkunux igawdu minn dik l-eżenzjoni jew rata; jew
 
-b) element ta’ income li s-sid benefiċjarju tiegħu jkun residenti ta’ Stat (STATI UNITI MESSIKANI) [L.S.123.151 21
-
-Kontraenti li jibbenifika minn tnaqqis, rebate jew konċessjoni oħra jew benefiċċju li jkun provdut direttament jew indirettament dwar dak l-element ta’ income, ħlief għal kreditu ta’ taxxa barranija mħallsa, u li ma jkunx disponibbli għal residenti oħra ta’ dak l-Istat.
+b) element ta’ income li s-sid benefiċjarju tiegħu jkun residenti ta’ Stat Kontraenti li jibbenifika minn tnaqqis, rebate jew konċessjoni oħra jew benefiċċju li jkun provdut direttament jew indirettament dwar dak l-element ta’ income, ħlief għal kreditu ta’ taxxa barranija mħallsa, u li ma jkunx disponibbli għal residenti oħra ta’ dak l-Istat.
 
 III. Qabel residenti ta’ Stat Kontraenti jiġi miċħud ħelsien mit-taxxa fl-Istat Kontraenti l-ieħor minħabba fil-paragrafi ta’ qabel, l-awtoritajiet kompetenti tal- Istati Kontraenti għandhom jikkonsultaw lil xulxin. Bl-istess mod, l-awtoritajiet kompetenti tal-Istati Kontraenti jistgħu jikkonsultaw lil xulxin rigward l-applikazzjoni tal-Ftehim.
 

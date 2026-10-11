@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Istitut tal-Linguistika (S.L. 327.176)
 
-*1*
-
-IL-PATROĊINJU TAL-ISTITUT TAL-LINGUISTIKA [L.S.327.176
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.176**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**

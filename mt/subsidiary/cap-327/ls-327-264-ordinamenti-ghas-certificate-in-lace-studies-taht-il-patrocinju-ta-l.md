@@ -15,22 +15,14 @@ retrieved: 2026-10-12
 
 # Ordinamenti għas-Certificate in Lace Studies taħt il-patroċinju ta' l-Institute for Islands and Small States - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.264)
 
-CERTIFICATE IN LACE STUDIES TAĦT IL-PATROĊINJU
-
-*1*
-
-TA’ L-INSTITUTE FOR ISLANDS AND SMALL STATES [L.S.327.264
-
-LEĠISLAZZJONI SUSSIDJARJA 327.264
+**LEĠISLAZZJONI SUSSIDJARJA 327.264**
 
 ORDINAMENTI GĦAS-CERTIFICATE IN LACE
 
-STUDIES TAĦT IL-PATROĊINJU TA’
+**STUDIES TAĦT IL-PATROĊINJU TA’**
 
 L-INSTITUTE FOR ISLANDS AND SMALL STATES
 
-31 ta’ Mejju, 2005
-
-L-AVVIŻ LEGALI 173 ta’ l-2005.
+31 ta’ Mejju, 2005 L-AVVIŻ LEGALI 173 ta’ l-2005.
 
 Imħassrin bl-Avviż Legali 3 tal-2020

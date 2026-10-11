@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Trasport ta' Bhejjem, Annimali u Bajd bejn Malta u Għawdex"
-identifier: "S.L. 36.8"
+identifier: "S.L. 36.08"
 eli: "https://legislation.mt/eli/sl/36.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/36.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Trasport ta' Bhejjem, Annimali u Bajd bejn Malta u Għawdex (S.L. 36.8)
-
-TRASPORT TA’ BHEJJEM, ANNIMALI U
-
-*1*
-
-BAJD BEJN MALTA U G}AWDEX [L.S.36.08
+# Regolamenti dwar it-Trasport ta' Bhejjem, Annimali u Bajd bejn Malta u Għawdex (S.L. 36.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 36.08**
 

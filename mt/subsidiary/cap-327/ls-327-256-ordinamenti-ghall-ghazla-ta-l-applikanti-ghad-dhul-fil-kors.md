@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla ta' l-Applikanti għad-Dħul fil-Kors Preparatorju għad-Diploma in Health Science taħt il-patroċinju ta' l-Institutue of Health Care (S.L. 327.256)
 
-RATORJU G}AD-DIPLOMA IN HEALTH SCIENCE TA}T IL-
-
-*1*
-
-PATRO~INJU TA’ L-INSTITUTE OF HEALTH CARE [S.L.327.256
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.256**
 
 **ORDINAMENTI GĦALL-GĦAŻLA**
@@ -77,9 +71,7 @@ Punti Grad fil- Grad fil- Grad fil- Grad fil- Grad mil- Livell Livell Livell Liv
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
 
-*2*
-
-RATORJU G}AD-DIPLOMA IN HEALTH SCIENCE TA}T IL- [S.L.327.256 PATRO~INJU TA’ L-INSTITUTE OF HEALTH CARE (2) Jekk l-applikanti jgħaddu aktar minn darba fl-istess suġġett, jitqies l-aħjar grad biss. Is-suggetti jistgħu jkunu offruti f’livell wieħed biss.
+(2) Jekk l-applikanti jgħaddu aktar minn darba fl-istess suġġett, jitqies l-aħjar grad biss. Is-suggetti jistgħu jkunu offruti f’livell wieħed biss.
 
 (3) Għall-għan ta’ l-għażla, jitqiesu biss il-kwalifiki miksuba sal-31 ta’ Awissu ta’ qabel ma jibda l-kors.
 

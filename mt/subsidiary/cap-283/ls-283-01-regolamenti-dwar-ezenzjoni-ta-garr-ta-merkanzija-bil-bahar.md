@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Eżenzjoni ta' Ġarr ta' Merkanzija bil-Baħar"
-identifier: "S.L. 283.1"
+identifier: "S.L. 283.01"
 eli: "https://legislation.mt/eli/sl/283.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/283.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Eżenzjoni ta' Ġarr ta' Merkanzija bil-Baħar (S.L. 283.1)
+# Regolamenti dwar Eżenzjoni ta' Ġarr ta' Merkanzija bil-Baħar (S.L. 283.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 283.01**
 

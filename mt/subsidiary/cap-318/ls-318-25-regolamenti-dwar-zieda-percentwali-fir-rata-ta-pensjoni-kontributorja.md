@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Żieda Perċentwali fir-Rata ta’ Pensjoni Kontributorja għall-Irtirar (S.L. 318.25)
 
-*1*
-
-KONTRIBUTORJA GĦALL-IRTIRAR [L.S.318.25 LEĠISLAZZJONI SUSSIDJARJA 318.25
+**LEĠISLAZZJONI SUSSIDJARJA 318.25**
 
 **REGOLAMENTI DWAR ŻIEDA PERĊENTWALI**
 
@@ -61,11 +59,7 @@ Kull persuna li tirrinunzja għal pensjoni msemmija għal mhux inqas minn sena m
 
 ## 5. Kundizzjonijiet oħra dwar kif titħallas din iż-żieda. Kap. 318.
 
-(1) L-ammont addizzjonali li jirriżulta skont ir-regolament 4 jibqa’ fiss u jibqa’ jitħallas b’żieda mar-rata tal-pensjoni hekk kif maħduma kull sena skont it-Taqsima V tal-Att dwar is- [L.S. 318.25 KONTRIBUTORJA GĦALL-IRTIRAR
-
-*2*
-
-Sigurtà Soċjali.
+(1) L-ammont addizzjonali li jirriżulta skont ir-regolament 4 jibqa’ fiss u jibqa’ jitħallas b’żieda mar-rata tal-pensjoni hekk kif maħduma kull sena skont it-Taqsima V tal-Att dwar is- Sigurtà Soċjali.
 
 (2) L-ammont addizzjonali skont is-subregolament (1) jista’ jitħallas lis-superstiti tal-benefiċjarju jekk is-superstiti jibbenefika minn pensjoni skont it-Taqsima IV tal-Att dwar is-Sigurtà Soċjali mħallsa wara l-mewt tal-benefiċjarju.
 

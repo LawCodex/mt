@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Arei ta' Reġistrazzjoni (1991)"
-identifier: "S.L. 296.7"
+identifier: "S.L. 296.07"
 eli: "https://legislation.mt/eli/sl/296.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/296.7/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Arei ta' Reġistrazzjoni (1991) (S.L. 296.7)
+# Ordni dwar Arei ta' Reġistrazzjoni (1991) (S.L. 296.07)
 
 **LE{ISLAZZJONI SUSSIDJARJA 296.07**
 

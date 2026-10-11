@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar it-Trattament tal-Lira Maltija għal Skopijiet ta Kontabilità"
-identifier: "S.L. 204.4"
+identifier: "S.L. 204.04"
 eli: "https://legislation.mt/eli/sl/204.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/204.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar it-Trattament tal-Lira Maltija għal Skopijiet ta Kontabilità (S.L. 204.4)
-
-TRATTAMENT TAL-LIRA MALTIJA G}AL
-
-*1*
-
-SKOPIJIET TA’ KONTABILITÀ [L.S.204.04
+# Regolamenti dwar it-Trattament tal-Lira Maltija għal Skopijiet ta Kontabilità (S.L. 204.04)
 
 LE{ISLAZZJONI SUSSIDJARJA 204.04
 
@@ -30,8 +24,6 @@ TAL-LIRA MALTIJA G}AL SKOPIJIET
 
 TA’ KONTABILITÀ
 
-15 ta’ Novembru, 1994
-
-L-AVVI| LEGALI 165 tal-1994.
+15 ta’ Novembru, 1994 L-AVVI| LEGALI 165 tal-1994.
 
 Revokat bl-Avvi\\ Legali 436 tal-2014.

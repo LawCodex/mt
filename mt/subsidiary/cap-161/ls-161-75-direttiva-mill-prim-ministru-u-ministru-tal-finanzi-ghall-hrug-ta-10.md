@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Prim Ministru u Ministru tal-Finanzi għall-Ħruġ ta' €10,337,759 7% Stock tal-Gvern ta' Malta 2017 (II) (S.L. 161.75)
 
-*1*
-
-TAL-GVERN TA’ MALTA 2017 (II) [L.S.161.75
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.75**
 
 **DIRETTIVA MILL-PRIM MINISTRU U MINISTRU**

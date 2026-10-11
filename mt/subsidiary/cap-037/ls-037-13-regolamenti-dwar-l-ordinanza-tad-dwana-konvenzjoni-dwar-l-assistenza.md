@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar l-Ordinanza tad-Dwana (Konvenzjoni dwar l-Assistenza Reċiproka u Kooperazzjoni bejn Amministrazzjonijiet Doganali) (Naples II) (S.L. 37.13)
 
-L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
-
-*1*
-
-AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [L.S.37.13
-
 **LE{ISLAZZJONI SUSSIDJARJA 37.13**
 
 **REGOLAMENTI DWAR L-ORDINANZA**
@@ -52,8 +46,6 @@ It-titolu ta’ dawn ir-regolamenti hu Regolamenti dwar l- Ordinanza tad-Dwana (
 ### 3. L-infurzar tal- Konvenzjoni u Riservi g]aliha.
 
 Id-dispo\\izzjonijiet tal-Konvenzjoni li jinsabu fl-Ewwel Skeda u r-Riservi li jinsabu fit-Tieni Skeda, g]andhom ise]]u f’Malta.
-
-L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN 2 [L.S.37.13 AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II)
 
 ## L-EWWEL SKEDA
 
@@ -96,10 +88,6 @@ Fejn issir investigazzjoni kriminali minn awtorità [uridika jew ta]t id-direzzj
 **Definizzjonijiet**
 
 G]all-iskopijiet ta’ din il-Konvenzjoni, g]andhom japplikaw id-definizzjonijiet li [ejjin:
-
-L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
-
-**AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [L.S.37.13 3**
 
 \1. "dispo\\izzjonijiet doganali nazzjonali": il-li[ijiet, regolamenti u dispo\\izzjonijiet amministrattivi kollha ta’ Stat Membru li l-applikazzjoni tag]hom jew ta’ parti minnhom taqa’ ta]t il-[urisdizzjoni tal-amministrazzjoni doganali tal- Istat Membru fir-rigward ta’:
 
@@ -149,7 +137,7 @@ L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
 
 ### 9.
 
-"kooperazzjoni transkonfini": kooperazzjoni bejn l-amministrazzjonijiet L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN 4 [L.S.37.13 AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) doganali lil hinn mill-fruntieri ta’ kull Stat Membru.
+"kooperazzjoni transkonfini": kooperazzjoni bejn l-amministrazzjonijiet doganali lil hinn mill-fruntieri ta’ kull Stat Membru.
 
 **Artikolu 5**
 
@@ -184,10 +172,6 @@ L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
 (e) kull dmir ie]or li l-Istati Membri jistg]u jiftiehmu bejniethom.
 
 \4. L-Istati Membri jistg]u jiftiehmu, b’mod bilaterali jew multilaterali, dwar it-termini ta’ referenza u l-lok tal-uffi`jali ta’ kooperazzjoni. L-uffi`jali ta’ kooperazzjoni jistg]u ukoll jirrappre\\entaw l-interessi ta’ Stat Membru wie]ed jew aktar.
-
-L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
-
-**AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [L.S.37.13 5**
 
 **Artikolu 7**
 
@@ -231,8 +215,6 @@ Sakemm mhux spe`ifikat mod ie]or f’din il-Konvenzjoni, l-uffi`jali tal-awtorit
 
 \6. L-awtorità mitluba g]andha taqbel li tapplika pro`edura partikolari biex tirrispondi g]al talba, sakemm dik il-pro`edura ma tmurx kontra d-dispo\\izzjonijiet legali u amministrattivi tal-Istat Membru li jir`ievi t-talba.
 
-L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN 6 [L.S.37.13 AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II)
-
 **Artikolu 10**
 
 **Talbiet g]al informazzjoni**
@@ -263,11 +245,7 @@ L-awtorità mitluba g]andha tikkomunika r-ri\\ultati ta’ dan l-ist]arri[ lill-
 
 **Notifika**
 
-\1. Meta hekk tinstab tag]mel mill-awtorità applikanti, l-awtorità mitluba g]andha, skond ir-regoli nazzjonali tal-Istat Membru li tkun ibba\\ata fih, tinnotifika L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
-
-**AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [L.S.37.13 7**
-
-lid-destinatarju jew tara li dan ji[i notifikat bl-istrumenti legali jew de`i\\jonijiet kollha li jo]or[u mill-awtoritajiet kompetenti tal-Istat Membru li fih l-awtorità applikanti tkun ibba\\ata u li jikkon`ernaw l-applikazzjoni ta’ din il-Konvenzjoni.
+\1. Meta hekk tinstab tag]mel mill-awtorità applikanti, l-awtorità mitluba g]andha, skond ir-regoli nazzjonali tal-Istat Membru li tkun ibba\\ata fih, tinnotifika lid-destinatarju jew tara li dan ji[i notifikat bl-istrumenti legali jew de`i\\jonijiet kollha li jo]or[u mill-awtoritajiet kompetenti tal-Istat Membru li fih l-awtorità applikanti tkun ibba\\ata u li jikkon`ernaw l-applikazzjoni ta’ din il-Konvenzjoni.
 
 \2. Talbiet g]al notifika, fejn jissemma s-su[[ett tal-istrument legali jew de`i\\joni li g]andha tkun notifikata, g]andu jkollhom mag]hom traduzzjoni fil-lingwa uffi`jali jew f’lingwa uffi`jali tal-Istat Membru li fih tkun ibba\\ata l-awtorità mitluba, ming]ajr pre[udizzju g]al dan tal-a]]ar li jirrifjuta din it-traduzzjoni.
 
@@ -305,8 +283,6 @@ Madankollu, dawn g]andhom ikollhom a``ess g]all-istess postijiet u l-istess doku
 
 Rapporti ta’ sorveljanza u informazzjoni miksuba minn uffi`jali ta’ Stat Membru u komunikati lil Stat Membru ie]or matul l-assistenza spontanja kif provdut fl-Artikoli 15 sa 17 jistg]u jintu\\aw skond il-li[i nazzjonali b]ala evidenza mill-korpi kompetenti tal-Istat Membru li jir`ievi l-informazzjoni.
 
-L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN 8 [L.S.37.13 AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II)
-
 ## TITOLU IV — FOROM SPE¬JALI TA’ KOOPERAZZJONI — Artikolu 19
 
 **Prin`ipji**
@@ -329,11 +305,7 @@ Il-koordinazzjoni u l-ippjanar ta’ operazzjonijiet transkonfini g]andhom ikunu
 
 \4. Jekk ikun ne`essarju ta]t il-li[i nazzjonali tal-Istati Membri, l-awtoritajiet parte`ipanti g]andhom jitolbu l-approvazzjoni tal-awtoritajiet [udizzjarji g]all-investigazzjonijiet ippjanati. Meta l-awtoritajiet [udizzjarji kompetenti jag]tu l-approvazzjoni tag]hom so[[etta g]al `erti kundizzjonijiet u rekwi\\iti, l-awtoritajiet parte`ipanti g]andhom ji\\guraw li dawk il-kundizzjonijiet u rekwi\\iti ji[u osservati matul l-investigazzjonijiet.
 
-\5. Meta uffi`jali ta’ Stat Membru jipparte`ipaw f’attivitajiet ta]t dan it-Titolu fit-territorju ta’ Stat Membru ie]or u jikkaw\\aw ]sara bl-attivitajiet tag]hom, l-Istat L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
-
-**AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [L.S.37.13 9**
-
-Membru li tkun saret il-]sara fit-territorju tieg]u g]andu jag]mel tajjeb g]all-]sara mag]mula, skond il-le[islazzjoni nazzjonali tieg]u bl-istess mod li kien jag]mel li kieku l-]sara [iet ikkaw\\ata mill-uffi`jali tieg]u stess. L-Istat Membru g]andu jing]ata rimbor\\ s]i] mill-Istat Membru li l-uffi`jali tieg]u jkunu ikkaw\\aw il-]sara g]all-ammonti li jkun ]allas lill-vittmi jew lil persuni jew istituzzjonijiet o]ra intitolati.
+\5. Meta uffi`jali ta’ Stat Membru jipparte`ipaw f’attivitajiet ta]t dan it-Titolu fit-territorju ta’ Stat Membru ie]or u jikkaw\\aw ]sara bl-attivitajiet tag]hom, l-Istat Membru li tkun saret il-]sara fit-territorju tieg]u g]andu jag]mel tajjeb g]all-]sara mag]mula, skond il-le[islazzjoni nazzjonali tieg]u bl-istess mod li kien jag]mel li kieku l-]sara [iet ikkaw\\ata mill-uffi`jali tieg]u stess. L-Istat Membru g]andu jing]ata rimbor\\ s]i] mill-Istat Membru li l-uffi`jali tieg]u jkunu ikkaw\\aw il-]sara g]all-ammonti li jkun ]allas lill-vittmi jew lil persuni jew istituzzjonijiet o]ra intitolati.
 
 \6. Ming]ajr pre[udizzju g]all-e\\er`izzju tad-drittijiet tieg]u fir-rigward ta’ partijiet terzi u minkejja l-obbligu li jag]mel tajjeb g]all-]sara skond it-tieni sentenza tal-paragrafu 5, kull Stat Membru g]andu jibqa’ lura, fil-ka\\ li hemm provdut dwaru fl-ewwel sentenza tal-paragrafu 5, milli jitlob rimbor\\ g]all-ammont ta’ danni kaw\\ati lilu minn Stat Membru ie]or.
 
@@ -361,7 +333,7 @@ L-awtorità mitluba g]andha tie]u kontroll tal-konsenja meta l-o[[etti jaqsmu l-
 
 \1. Bi ftehim re`iproku, l-awtoritajiet ta’ diversi Stati Membri jistg]u jwaqqfu skwadra kon[unta ta’ investigazzjoni spe`jali li tkun ibba\\ata fi Stat Membru u li tkun tinkludi uffi`jali bi spe`jalizzazzjonijiet rilevanti.
 
-L-iskwadra kon[unta ta’ investigazzjoni spe`jali g]andu jkollha dan x-xog]ol li L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN 10 [L.S.37.13 AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [ej:
+L-iskwadra kon[unta ta’ investigazzjoni spe`jali g]andu jkollha dan x-xog]ol li [ej:
 
 \- implimentazzjoni ta’ investigazzjonijiet diffi`li ta’ ksur spe`ifiku, li jirrikjedu azzjoni simultanja, koordinata fl-Istati Membri kon`ernati, - koordinazzjoni ta’ attivitajiet kon[unti g]all-prevenzjoni u l-identifikazzjoni ta’ tipi partikolari ta’ ksur, u biex jiksbu informazzjoni dwar il-persuni involuti, il-persuni asso`jati mag]hom u l-metodi u\\ati. 2. L-iskwadri kon[unti ta’ investigazzjoni spe`jali g]andhom ja]dmu ta]t il-kundizzjonijiet [enerali li [ejjin:
 
@@ -385,9 +357,7 @@ L-iskwadra kon[unta ta’ investigazzjoni spe`jali g]andu jkollha dan x-xog]ol l
 
 (a) l-ippro`essar tad-data personali mill-awtorità mitluba g]andu jkun awtorizzat biss g]all-iskop imsemmi fl-Artikolu 1(1). Dik l-awtorità tista’ tg]addihom, ming]ajr kunsens pre`edenti mill-Istat Membru li jipprovdihom, lill-amministrazzjonijiet doganali tag]ha, lill-awtoritajiet ta’ investigazzjoni tag]ha, u lill-korpi [udizzjarji tag]ha sabiex dawn ikunu jistg]u jippro`edu g]all-prosekuzzjoni u jikkastigaw ksur fis-sens tal-Artikolu 4(3). Fil-ka\\ijiet l-o]ra kollha ta’ trasmissjoni tad-data, huwa me]tie[ il-kunsens tal-Istat Membru li jkun ipprovda l-informazzjoni;
 
-(b) l-awtorità tal-Istat Membru li tikkomunika d-data g]andha ti\\gura li din hija kollha e\\atta u a[[ornata. Jekk jirri\\ulta li jkunu [ew komunikati L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
-
-AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [L.S.37.13 11 data mhux e\\atti, jew li jkunu [ew komunikati data li ma kellhomx ikunu komunikati, jew li jkun me]tie[ li data komunikati b’mod legali jit]assru skond il-li[i tal-Istat Membru li jikkomunikhom, l-awtorità mitluba g]andha tkun infurmata b’dan immedjatament. Din tkun obbligata li tikkore[i dawn id-data jew li t]assarhom. Jekk l-awtorità mitluba jkollha g]alfejn ta]seb li d-data komunikati mhix e\\atti jew li g]andhom jit]assru, din g]andha tinforma lill-Istat Membru li jikkomunikaha b’dan;
+(b) l-awtorità tal-Istat Membru li tikkomunika d-data g]andha ti\\gura li din hija kollha e\\atta u a[[ornata. Jekk jirri\\ulta li jkunu [ew komunikati data mhux e\\atti, jew li jkunu [ew komunikati data li ma kellhomx ikunu komunikati, jew li jkun me]tie[ li data komunikati b’mod legali jit]assru skond il-li[i tal-Istat Membru li jikkomunikhom, l-awtorità mitluba g]andha tkun infurmata b’dan immedjatament. Din tkun obbligata li tikkore[i dawn id-data jew li t]assarhom. Jekk l-awtorità mitluba jkollha g]alfejn ta]seb li d-data komunikati mhix e\\atti jew li g]andhom jit]assru, din g]andha tinforma lill-Istat Membru li jikkomunikaha b’dan;
 
 (`) f’ka\\ijiet fejn id-data komunikati jkollhom, skond il-li[i tal-Istat Membru li jikkomunikhom, jit]assru jew ji[u emendati, il-persuni kon`ernati g]andhom jing][ataw id-dritt effettiv biex jikkore[u d-data;
 
@@ -403,9 +373,9 @@ AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [L.S.37.13 11 data mhux e\\atti, jew 
 
 (i) kull Stat Membru g]andu jie]u mi\\uri adatti biex ji\\gura li jkun hemm konformità ma’ dan l-Artikolu bl-applikazzjoni ta’ kontrolli effettivi. Kull Stat Membru jista’ jag]ti x-xog]ol tal-kontroll lill-awtorità nazzjonali ta’ supervi\\joni msemmija fl-Artikolu 17 tal-Konvenzjoni li jikkon`erna l-u\\u tat-teknolo[ija tal-informatika g]al skopijiet ta’ dwana.
 
-\3. G]all-iskopijiet ta’ dan l-Artikolu, ‘l-ippro`essar ta’ data personali’ g]andu jinftiehem skond id-definizzjoni fl-Artikolu 2(b) tad-Direttiva 95/46/KE tal- Parlament Ewropew u tal-Kunsill tal-24 ta’ Ottubru 1995 dwar il-protezzjoni ta’ individwi fir-rigward tal-ippro`essar ta’ data personali u dwar il-moviment liberu ta’ dawk id-data.
+*\3.*
 
-L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN 12 [L.S.37.13 AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II)
+G]all-iskopijiet ta’ dan l-Artikolu, ‘l-ippro`essar ta’ data personali’ g]andu jinftiehem skond id-definizzjoni fl-Artikolu 2(b) tad-Direttiva 95/46/KE tal- Parlament Ewropew u tal-Kunsill tal-24 ta’ Ottubru 1995 dwar il-protezzjoni ta’ individwi fir-rigward tal-ippro`essar ta’ data personali u dwar il-moviment liberu ta’ dawk id-data.
 
 ## TITOLU VI — INTERPRETAZZJONI TAL-KONVENZJONI — Artikolu 26
 
@@ -429,11 +399,7 @@ L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN 12 [L.S.37.13 AMMINISTRAZZJONIJIET 
 
 \7. Kull Stat Membru, kemm jekk ikun g]amel dikjarazzjoni skond il-paragrafu 4, kemm jekk ma jkunx g]amel, g]andu jkollu l-jedd jippre\\enta d-dokumenti tal-ka\\ jew osservazzjonijiet bil-miktub lill-Qorti f’ka\\ijiet li jinqalg]u ta]t il-paragrafu 5.
 
-\8. Il-Qorti tal-{ustizzja m’g]andhiex ikollha [urisdizzjoni tivverifika l-validità jew il-proporzjonalità tal-operazzjonijiet imwettqa minn a[enziji kompetenti g]all-infurzar tal-li[i ta]t din il-Konvenzjoni u lanqas li tidde`iedi dwar l-e\\er`izzju L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
-
-**AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [L.S.37.13 13**
-
-tar-responsabilitajiet li jaqg]u fuq l-Istati Membri biex i\\ommu l-li[i u l-ordni u biex jissalvagwardjaw is-sigurtà interna.
+\8. Il-Qorti tal-{ustizzja m’g]andhiex ikollha [urisdizzjoni tivverifika l-validità jew il-proporzjonalità tal-operazzjonijiet imwettqa minn a[enziji kompetenti g]all-infurzar tal-li[i ta]t din il-Konvenzjoni u lanqas li tidde`iedi dwar l-e\\er`izzju tar-responsabilitajiet li jaqg]u fuq l-Istati Membri biex i\\ommu l-li[i u l-ordni u biex jissalvagwardjaw is-sigurtà interna.
 
 ## TITOLU VII — IMPLIMENTAZZJONI U DISPO|IZZJONIJIET FINALI — Artikolu 27
 
@@ -467,8 +433,6 @@ L-amministrazzjonijiet doganali g]andhom jikkunsidraw, g]al kull ka\\ spe`ifiku 
 
 \3. Bl-istess mod, l-obbligi li jirri\\ultaw mid-dispo\\izzjonijiet tal-Konvenzjoni tad-19 ta’ {unju 1990 li timplimenta l-Ftehim ta’ Schengen tal-14 ta’ {unju 1985 dwar it-tne]]ija gradwali ta’ kontrolli fil-fruntieri komuni tag]hom li jipprevedu kooperazzjoni aktar mill-qrib, m’g]andhomx ikunu affetwati minn din il- Konvenzjoni fil-kuntest tar-relazzjonijiet bejn l-Istati Membri li huma marbuta b’dawn id-dispo\\izzjonjiet.
 
-L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN 14 [L.S.37.13 AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II)
-
 **Artikolu 31**
 
 **Applikazzjoni territorjali**
@@ -499,11 +463,7 @@ L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN 14 [L.S.37.13 AMMINISTRAZZJONIJIET 
 
 \1. Din il-Konvenzjoni g]andha tkun miftu]a g]all-ade\\joni ta’ kull Stat li jsir Stat Membru tal-Unjoni Ewropea.
 
-\2. It-test tal-Konvenzjoni fil-lingwa tal-Istat Membru li jkun qed jissie]eb, kif L-ASSISTENZA RE¬IPROKA U KOOPERAZZJONI BEJN
-
-**AMMINISTRAZZJONIJIET DOGANALI) (NAPLES II) [L.S.37.13 15**
-
-ippreparat mill-Kunsill tal-Unjoni Ewropea, g]andu jkun awtentiku.
+\2. It-test tal-Konvenzjoni fil-lingwa tal-Istat Membru li jkun qed jissie]eb, kif ippreparat mill-Kunsill tal-Unjoni Ewropea, g]andu jkun awtentiku.
 
 \3. L-istrumenti tal-ade\\joni g]andhom ji[u depo\\itati mad-depo\\itarju.
 

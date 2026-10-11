@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Pulizija ta Malta"
-identifier: "S.L. 164.1"
+identifier: "S.L. 164.01"
 eli: "https://legislation.mt/eli/sl/164.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/164.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Pulizija ta Malta (S.L. 164.1)
+# Regolamenti dwar il-Pulizija ta Malta (S.L. 164.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 164.01**
 

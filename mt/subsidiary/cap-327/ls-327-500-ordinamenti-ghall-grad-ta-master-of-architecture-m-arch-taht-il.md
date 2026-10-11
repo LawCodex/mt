@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Architecture – M.Arch. - taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.500)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-AMBJENT MIBNI [L.S.327.500
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.500**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -69,13 +63,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (b) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala komparabbli għall-kwalifika msemmija fil-paragrafu (a) ta’ dan l-ordinament. Id-dħul tal-applikanti skont dan l-ordinament jista’ jiddependi mir-rizultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq.
 
-(2) L-applikanti kollha jkunu meħtiega jissottomettu transcript tal-istudji li juri li matul il-grad tal-ewwel ċiklu huma temmew b’suċċess in-numru minimu ta’ kretti fit-taqsimiet studju tematiċi relattivi, kif indikat fl-Iskeda approvata mill-Bord. It-taqsimiet TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.500 TAL-AMBJENT MIBNI
-
-studju li jkunu ngħataw ir-riżultat ta’ Għadda b’Kumpens ma jkunux ikkunsidrati suffiċjenti għal dan il-għan, sakemm li, fid-diskrezzjoni tal-Bord, l-applikanti li jippreżentaw ir-riżultat ta’ Għadda b’Kumpens f’sa 4 kretti ECTS jistgħu jitħallew jidħlu fil-kors suġġett għal kwalunkwe kondizzjonijiet li l-Bord jista’ jimponi,
+(2) L-applikanti kollha jkunu meħtiega jissottomettu transcript tal-istudji li juri li matul il-grad tal-ewwel ċiklu huma temmew b’suċċess in-numru minimu ta’ kretti fit-taqsimiet studju tematiċi relattivi, kif indikat fl-Iskeda approvata mill-Bord. It-taqsimiet studju li jkunu ngħataw ir-riżultat ta’ Għadda b’Kumpens ma jkunux ikkunsidrati suffiċjenti għal dan il-għan, sakemm li, fid-diskrezzjoni tal-Bord, l-applikanti li jippreżentaw ir-riżultat ta’ Għadda b’Kumpens f’sa 4 kretti ECTS jistgħu jitħallew jidħlu fil-kors suġġett għal kwalunkwe kondizzjonijiet li l-Bord jista’ jimponi,
 
 (3) It-taqsimiet studju li jkunu mitmuma b’suċċess matul perijodi ta’ studju f’universitajiet barranin jistgħu jiġu offruti minflok it-taqsimiet studju mniżżla fl-Iskeda, suġġett għal konferma mill-Bord li dawn it-taqsimiet studju għandhom kontenut tematiku li huwa kompatibbli mal-Iskeda rilevanti, u li t-taqsimiet studju ippreżentati huma għall-anqas fl-istess livell tat-taqsimiet studju li qegħdin jissostitwixxu.
 
@@ -95,11 +83,7 @@ Il-kors għandu jinfirex fuq erba’ semestri ta’ studju fuq bażi full-time.
 
 (2) Il-programmi ta’ studju għandhom ikollhom partikolarment is-suġġetti tal-architectural design, il-history and theory of architecture, il-fine arts, l-urban design u planning, l-environmental performances, il-construction process and costs, u l-istructural behaviour.
 
-(3) Il-programmi ta’ studju għandhom ikunu ppubblikati wara l-approvazzjoni tas-Senat fuq ir-rakkomandazzjoni tal-Bord, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors. TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-AMBJENT MIBNI [L.S.327.500 (4) Il-programmi għandhom ikunu offurti kif ġej:
+(3) Il-programmi ta’ studju għandhom ikunu ppubblikati wara l-approvazzjoni tas-Senat fuq ir-rakkomandazzjoni tal-Bord, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors. (4) Il-programmi għandhom ikunu offurti kif ġej:
 
 M.Arch. (Architectural Design), li jinkludi taqsimiet studju tematiċi ewlenin fl-Architectural Design, u fl- Architectural Science and Technology, u taqsimiet studju tematiċi sekondarji fil-Managment Studies;
 
@@ -124,12 +108,6 @@ sakemm li jekk student jeħel f’żewġ terzi jew aktar mill-assenjamenti asso�
 ## 7. Workshop tal- Proġett Finali.
 
 L-istudenti huma meħtieġa jtemmu l-Workshop tal-Proġett Finali u jiktbu dissertazzjoni skont il-linji gwida maħruġin mill- Bord.
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*4*
-
-[L.S.327.500 TAL-AMBJENT MIBNI
 
 ## 8. Xogħol fuq il- Workshop tal- Proġett Finali.
 
@@ -161,11 +139,7 @@ TAĦT IL-PATROĊINJU TAL-FAKULTÀ
 
 (1) L-istudenti huma meħtieġa jkollhom kuntatt regolari mas-superviżur tagħhom, mhux inqas minn darba fix-xahar.
 
-(2) L-istudenti għandhom jagħmlu preżentazzjonijiet interim f’nofs il-programm ta’ studju kemm dwar id-Dissertazzjoni u tal- Worshop tal-Proġett Finali lill-Bord tal-Eżaminaturi rilevanti, biex TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*5*
-
-TAL-AMBJENT MIBNI [L.S.327.500 ikun aċċertat li kull student qiegħed jagħmel progress sodisfaċenti. Wara dawn il-preżentazzjonijiet interim, rapport dwar il-progress tagħhom għandu jsir, li jista’ jinkludi rakkomandazzjoni biex jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm ix-xogħol kif suppost; jew (b) jintemmu l-istudji qabel il-waqt jekk il-Bord jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
+(2) L-istudenti għandhom jagħmlu preżentazzjonijiet interim f’nofs il-programm ta’ studju kemm dwar id-Dissertazzjoni u tal- Worshop tal-Proġett Finali lill-Bord tal-Eżaminaturi rilevanti, biex ikun aċċertat li kull student qiegħed jagħmel progress sodisfaċenti. Wara dawn il-preżentazzjonijiet interim, rapport dwar il-progress tagħhom għandu jsir, li jista’ jinkludi rakkomandazzjoni biex jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikun jista’ jtemm ix-xogħol kif suppost; jew (b) jintemmu l-istudji qabel il-waqt jekk il-Bord jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 

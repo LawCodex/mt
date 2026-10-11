@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għas- Certificate in Arabic for Business and Communication taħt ilpatroċinju tal-Fakultà tal-Arti (S.L. 327.496)
 
-COMMUNICATION TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-ARTI [L.S.327.496
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.496**
 
 **ORDINAMENTI GĦAS-CERTIFICATE IN ARABIC**
@@ -78,12 +72,6 @@ Il-kors għandu jikkonsisti f’għadd ta’ taqsimiet studju li għalihom hemm 
 Il-Bord għandu jippubblika l-programm ta’ studju mfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali u approvat mis-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors. Bl-approvazzjoni tas-Senat, fil-każ li l-Bord ikun kostrett jagħmel xi tibdiliet, l-istudenti għandhom isegwu t-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm ta’ studju.
 
 \*Dawn l-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
-
-COMMUNICATION TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.496 TAL-FAKULTÀ TAL-ARTI
 
 ## 7. Riżultat tar- Rikonoxximent.
 

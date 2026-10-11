@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in European Integration Studies – M.A. - taħt il-patroċinju tal-Istitut għall-Istudji Ewropej (S.L. 327.509)
 
-INTEGRATION STUDIES - M.A. - TAĦT IL-
-
-*1*
-
-PATROĊINJU TAL-ISTITUT GĦALL-ISTUDJI EWROPEJ [L.S.327.509
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.509**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -65,11 +59,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew fi Frar 2015 j
 
 (4) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul minn għall-anqas minn tliet membri. Dan għandu jkun immexxi mid-Direttur jew mid-delegat tiegħu/tagħha.
 
-(5) Meta l-għadd ta’ postijiet ikun limitat u n-numru ta’ applikanti eliġibbli jaqbeż in-numru ta’ postijiet disponibbli, l- INTEGRATION STUDIES - M.A. - TAĦT IL-
-
-*2*
-
-[L.S.327.509 PATROĊINJU TAL-ISTITUT GĦALL-ISTUDJI EWROPEJ applikanti jiġu magħżula skont il-kriterji li ġejjin, bil-piż tagħhom jiġi ppubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
+(5) Meta l-għadd ta’ postijiet ikun limitat u n-numru ta’ applikanti eliġibbli jaqbeż in-numru ta’ postijiet disponibbli, l-applikanti jiġu magħżula skont il-kriterji li ġejjin, bil-piż tagħhom jiġi ppubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
 
 (a) it-tip u l-klassifikazzjoni tal-grad;
 
@@ -111,11 +101,7 @@ Il-programm ta’ studju għandu jkun ippubblikat mill-Bord wara l-approvazzjoni
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir fi kwalunkwe żmien matul il-kors wara l-approvazzjoni tal-proposta tar-riċerka. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
-(3) It-titolu provviżorju tad-dissertazzjoni u l-proposta tar- INTEGRATION STUDIES - M.A. - TAĦT IL-
-
-*3*
-
-PATROĊINJU TAL-ISTITUT GĦALL-ISTUDJI EWROPEJ [L.S.327.509 riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord flimkien mal-applikazzjoni. Il-proposta tar-riċerka għandha tkun approvata minn membru tal-istaff akkademiku tal-Istitut li jkun iggwida lill-istudent fil-preparazzjoni tagħha.
+(3) It-titolu provviżorju tad-dissertazzjoni u l-proposta tar-riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord flimkien mal-applikazzjoni. Il-proposta tar-riċerka għandha tkun approvata minn membru tal-istaff akkademiku tal-Istitut li jkun iggwida lill-istudent fil-preparazzjoni tagħha.
 
 ## 10. Panel ta’ Superviżjoni.
 

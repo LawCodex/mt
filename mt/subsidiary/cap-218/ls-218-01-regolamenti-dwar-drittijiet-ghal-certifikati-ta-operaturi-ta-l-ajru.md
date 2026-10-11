@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Drittijiet għal Ċertifikati ta Operaturi ta l-Ajru"
-identifier: "S.L. 218.1"
+identifier: "S.L. 218.01"
 eli: "https://legislation.mt/eli/sl/218.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/218.1/20240101/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Drittijiet għal Ċertifikati ta Operaturi ta l-Ajru (S.L. 218.1)
-
-*1*
-
-OPERATURI TA’ L-AJRU [L.S.218.01
+# Regolamenti dwar Drittijiet għal Ċertifikati ta Operaturi ta l-Ajru (S.L. 218.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 218.01**
 
@@ -125,10 +121,6 @@ jekk l-inġenju ta’ l-ajru jkollu l-għola piż
 totali massimu awtorizzat li jaqbeż 4000 kg
 
 imma mhux 15,000 kg. €3,494.06
-
-*3*
-
-OPERATURI TA’ L-AJRU [L.S.218.01
 
 jekk l-inġenju ta’ l-ajru jkollu l-għola piż
 

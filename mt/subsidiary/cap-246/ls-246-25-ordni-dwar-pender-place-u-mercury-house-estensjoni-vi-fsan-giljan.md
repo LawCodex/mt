@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Pender Place u Mercury House, Estensjoni VI, f’San Ġiljan bħala Żona Speċjali Msemmija (S.L. 246.25)
 
-ESTENSJONI VI, F’SAN ĠILJAN BĦALA ŻONA SPEĊJALI
-
-*1*
-
-MSEMMIJA [L.S.246.25
-
 **LEĠISLAZZJONI SUSSIDJARJA 246.25**
 
 ORDNI DWAR PENDER PLACE U MERCURY HOUSE, ESTENSJONI VI, F’SAN ĠILJAN BĦALA ŻONA
@@ -45,7 +39,3 @@ Is-Sit Pender Place u Mercury House, Estensjoni VI, San Ġiljan, li jikkonsisti 
 ## 3. Żieda mal-Ewwel Skeda li tinsab mal-Att. Kap. 246.
 
 Pender Place u Mercury House, Estensjoni VI, San Ġiljan għandha tiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni Mhux Residenti.
-
-*2*
-
-ESTENSJONI VI, F’SAN ĠILJAN BĦALA ŻONA SPEĊJALI [L.S. 246.25 MSEMMIJA

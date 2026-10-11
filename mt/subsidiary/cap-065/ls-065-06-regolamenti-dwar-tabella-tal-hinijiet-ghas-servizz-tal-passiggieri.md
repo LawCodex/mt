@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Tabella tal-Ħinijiet għas-Servizz tal-Passiġġieri għal Kemuna"
-identifier: "S.L. 65.6"
+identifier: "S.L. 65.06"
 eli: "https://legislation.mt/eli/sl/65.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/65.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Tabella tal-Ħinijiet għas-Servizz tal-Passiġġieri għal Kemuna (S.L. 65.6)
-
-TABELLA TAL-}INIJIET G}AS-SERVIZZ
-
-*1*
-
-TAL-PASSI{{IERI G}AL KEMMUNA [L.S.65.06
+# Regolamenti dwar Tabella tal-Ħinijiet għas-Servizz tal-Passiġġieri għal Kemuna (S.L. 65.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 65.06**
 

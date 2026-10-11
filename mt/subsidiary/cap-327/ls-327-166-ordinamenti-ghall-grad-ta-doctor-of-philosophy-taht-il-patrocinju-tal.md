@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.166)
 
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.166
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.166**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**

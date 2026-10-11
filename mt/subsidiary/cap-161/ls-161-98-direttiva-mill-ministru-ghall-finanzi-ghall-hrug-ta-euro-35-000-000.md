@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru għall-Finanzi għall-ħruġ ta’ Euro 35,000,000 Stock tal-Gvern ta’ Malta (S.L. 161.98)
 
-*1*
-
-STOCK TAL-GVERN TA’ MALTA [L.S.161.98
-
 **LEĠISLAZZJONI SUSSIDJARJA 161.98**
 
 DIRETTIVA TAL-MINISTRU GĦALL-FINANZI
@@ -69,11 +65,7 @@ Is-somma ta’ flus li għandha tinġabar bl-iStocks imsemmija flimkien tkun ta�
 
 (1) L-imgħax bir-rata ta’ Euro 1.60 għal kull Euro 100, tat- 3.2% Stock tal-Gvern ta’ Malta 2019 (V) jitħallas kull sitt xhur b’lura fil-31 ta’ Jannar u fil-31 ta’ Lulju ta' kull sena sakemm idum l-iStock.
 
-L-ewwel ħlas pro rata tal-imgħax li jkopri il-perjodu bejn id-9 ta’ April, 2014 u t-30 ta’ Lulju, 2014 (iż-żewġ dati inklużi) jsir [L.S.161.98 STOCK TAL-GVERN TA’ MALTA
-
-fil-31 ta’ Lulju, 2014.
-
-*2*
+L-ewwel ħlas pro rata tal-imgħax li jkopri il-perjodu bejn id-9 ta’ April, 2014 u t-30 ta’ Lulju, 2014 (iż-żewġ dati inklużi) jsir fil-31 ta’ Lulju, 2014.
 
 (2) L-imgħax bir-rata ta’ Euro 2.225 għal kull Euro 100, tal- 4.45% Stock tal-Gvern ta’ Malta 2032 (II) jitħallas kull sitt xhur b’lura fit-3 ta’ Marzu u fit-3 ta’ Settembru ta' kull sena sakemm idum l-iStock.
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Liċenzjar, Akkreditament u Assikurazzjoni ta’ Kwalità fl-Edukazzjoni Avvanzata u Ogħla (S.L. 327.433)
 
-LIĊENZJAR, AKKREDITAMENT U ASSIKURAZZJONI
-
-*1*
-
-TA’ KWALITÀ FL-EDUKAZZJONI AVVANZATA U OGĦLA [L.S.327.433
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.433**
 
 **REGOLAMENTI DWAR IL-LIĊENZJAR,**

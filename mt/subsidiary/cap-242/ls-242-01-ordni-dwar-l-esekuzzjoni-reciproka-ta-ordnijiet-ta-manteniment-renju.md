@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Renju Unit tal-Gran Brittanja u l-Irlanda ta' Fuq"
-identifier: "S.L. 242.1"
+identifier: "S.L. 242.01"
 eli: "https://legislation.mt/eli/sl/242.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/242.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Renju Unit tal-Gran Brittanja u l-Irlanda ta' Fuq (S.L. 242.1)
-
-ESEKUZZJONI RE~IPROKA TA’ ORDNIJIET TA’ MANTENIMENT
-
-\- RENJU UNIT TAL-GRAN BRITTANJA U L-IRLANDA TA’ FUQ [ L.S.242.01
+# Ordni dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment - Renju Unit tal-Gran Brittanja u l-Irlanda ta' Fuq (S.L. 242.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 242.01**
 

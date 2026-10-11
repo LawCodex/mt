@@ -17,13 +17,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors għall-Grad ta’ Bachelor of Science (Honours) taħt il-patroċinju tal-Fakultà tax-Xjenza (S.L. 327.296)
 
-GRAD TA’ BACHELOR OF SCIENCE (HONOURS)
-
-(MIDWIFERY) U (RADIOGRAPHY) TAĦT
-
-*1*
-
-IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA [L.S.327.296 LEĠISLAZZJONI SUSSIDJARJA 327.296
+**LEĠISLAZZJONI SUSSIDJARJA 327.296**
 
 **ORDINAMENTI GĦALL-GĦAŻLA**
 
@@ -73,15 +67,9 @@ Ir-raba’ kategorija: dawk bi grad ‘D’ fil-Bijoloġija fil-Livell Avvanzat
 
 Il-ħames kategorija: dawk bi grad ‘E’ fil-Bijoloġija fil-Livell Avvanzat.
 
-(2) L-applikanti li jkollhom ir-Rekwiżiti Ġenerali għad-Dħul GRAD TA’ BACHELOR OF SCIENCE (HONOURS)
+(2) L-applikanti li jkollhom ir-Rekwiżiti Ġenerali għad-Dħul jistgħu joffru l-Bijoloġija fil-Livell Avvanzat jew bħala parti mir- Rekwiżiti Ġenerali għad-Dħul jew b’żieda mar-Rekwiżiti Ġenerali għad-Dħul.
 
 \*Imħassrin bl-Avviżi Legali 128 u 129 tal-2023.
-
-(MIDWIFERY) U (RADIOGRAPHY) TAĦT
-
-*2*
-
-[L.S.327.296 IL-PATROĊINJU TAL-FAKULTÀ TAX-XJENZI TAS-SAĦĦA jistgħu joffru l-Bijoloġija fil-Livell Avvanzat jew bħala parti mir- Rekwiżiti Ġenerali għad-Dħul jew b’żieda mar-Rekwiżiti Ġenerali għad-Dħul.
 
 (3) Meta l-applikanti joffru aktar minn ċertifikat wieħed li għaddew fil-Bijoloġija, għandu jitqies l-aħjar grad.
 

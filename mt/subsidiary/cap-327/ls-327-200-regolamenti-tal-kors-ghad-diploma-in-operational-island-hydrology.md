@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għad-Diploma in Operational Island Hydrology (S.L. 327.200)
 
-KORS G}AD-DIPLOMA IN
-
-*1*
-
-OPERATIONAL ISLAND HYDROLOGY [L.S.327.200
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.200**
 
 REGOLAMENTI TAL-KORS G}AD-DIPLOMA IN

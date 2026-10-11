@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1987) (S.L. 261.10)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1987) [ L.S.261.10
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.10**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -95,7 +93,7 @@ mag]rufa b]ala Plot Nri. 1 sa 8 tal-kejl ta’ madwar 2521 metru kwadru, li tmis
 
 (i) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 130 sa 145 tal-kejl ta’ madwar 5170 metru kwadru, li tmiss mit- Tramuntana ma’ triq pubblika, mix-Xlokk u Punent ma’ proprjetà tal-Gvern;
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1987) [ L.S.261.10 (ii) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 146 sa 159 tal-kejl ta’ madwar 4173 metru kwadru, li tmiss mit- Tramuntana, Nofs in-Nhar u Lvant ma’ proprjetà tal-Gvern;
+(ii) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 146 sa 159 tal-kejl ta’ madwar 4173 metru kwadru, li tmiss mit- Tramuntana, Nofs in-Nhar u Lvant ma’ proprjetà tal-Gvern;
 
 (iii) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 160 sa 171 tal-kejl ta’ madwar 3685 metru kwadru, li tmiss mill- Grigal, Lbi` u Nofs in-Nhar ma’ proprjetà tal- Gvern;
 
@@ -143,7 +141,7 @@ ma’ proprjetà ta’ Salvina Marguerat, minn Nofs in-Nhar u Punent ma’ toroq
 
 (viii) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 51 sa 62 tal-kejl ta’ madwar 2448 metru kwadru, li tmiss mill- Majjistral, Lbi` u Grigal ma’ proprjetà tal- Gvern;
 
-(ix) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 63 sa 81 tal-kejl ta’ madwar 4285 metru kwadru, li tmiss mill- Majjistral, Lbi` u Grigal ma’ proprjetà tal- (TRASFERIMENT TA’ PROPRJETÀ) (1987) [ L.S.261.10 Gvern.
+(ix) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 63 sa 81 tal-kejl ta’ madwar 4285 metru kwadru, li tmiss mill- Majjistral, Lbi` u Grigal ma’ proprjetà tal- Gvern.
 
 (`) Flat li jinsab fl-ewwel sular fil-fond numru 19, Triq San Luqa, Ra]al {did.
 

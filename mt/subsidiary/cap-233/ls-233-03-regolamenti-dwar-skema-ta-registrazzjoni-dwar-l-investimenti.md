@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Skema ta' Reġistrazzjoni dwar l-Investimenti"
-identifier: "S.L. 233.3"
+identifier: "S.L. 233.03"
 eli: "https://legislation.mt/eli/sl/233.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/233.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Skema ta' Reġistrazzjoni dwar l-Investimenti (S.L. 233.3)
+# Regolamenti dwar Skema ta' Reġistrazzjoni dwar l-Investimenti (S.L. 233.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 233.03**
 

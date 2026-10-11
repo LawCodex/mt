@@ -15,13 +15,7 @@ retrieved: 2026-10-12
 
 # Ordinamenti hu l-Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) in Business and Information Technology – B.Sc. (Hons) Bus. &amp; IT (Hons) - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.448)
 
-INFORMATION TECHNOLOGY - B.Sc. (HONS.) BUS. & IT -
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA
-
-*1*
-
-IL-MANAGEMENT U L-ACCOUNTANCY [L.S.327.448 LEĠISLAZZJONI SUSSIDJARJA 327.448
+**LEĠISLAZZJONI SUSSIDJARJA 327.448**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN BUSINESS &
 
@@ -71,15 +65,7 @@ Il-kors jinfirex fuq perijodu ta’ tlett snin ta’ studju fuq bażi full-time.
 
 ## 5. Programm tal-kors. Enumerat mill-ġdid: A.L. 37 tal-2014.
 
-Il-Bord għandu jippubblika l-programm ta’ studju qabel il-bidu ta’ kull kors, wara l-approvazzjoni tas-Senat. Suġġett għal tibdiliet li l-Bord, bl-approvazzjoni tas-Senat, jista’ jkun kostrett li jagħmel, l-istudenti huma marbuta li jsegwu t-taqsimiet studju u jiksbu l-kredti kif indikat fil-programm ta’ studju tal-Grad, sakemm li l-programm ta’ studju jkun imfassal skont id-dispożizzjonijiet INFORMATION TECHNOLOGY - B.Sc. (HONS.) BUS. & IT -
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA
-
-*2*
-
-[L.S.327.448 IL-MANAGEMENT U L-ACCOUNTANCY
-
-rilevanti tar-Regolamenti Prinċipali.
+Il-Bord għandu jippubblika l-programm ta’ studju qabel il-bidu ta’ kull kors, wara l-approvazzjoni tas-Senat. Suġġett għal tibdiliet li l-Bord, bl-approvazzjoni tas-Senat, jista’ jkun kostrett li jagħmel, l-istudenti huma marbuta li jsegwu t-taqsimiet studju u jiksbu l-kredti kif indikat fil-programm ta’ studju tal-Grad, sakemm li l-programm ta’ studju jkun imfassal skont id-dispożizzjonijiet rilevanti tar-Regolamenti Prinċipali.
 
 ## 6. Kredti. Enumerat mill-ġdid: A.L. 37 tal-2014.
 

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti tal-2012 għall-Grad ta’ Master of Arts in Mediation taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.405)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.405
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.405**
 
 ORDINAMENTI GĦALL-GRAD TA’ MASTER OF
@@ -70,11 +66,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (a) grad ta’ Bachelor miksub għall-anqas fit-Tieni Klassi bl-Unuri jew f’Kategorija II f’wieħed minn dawn l-oqsma: il-Counselling, l-ICT, l-Ippjanar u l-Ambjent, il-Kriminoloġija, il-Liġi, il-Management, il- Psikoloġija, l-Istudji Soċjali, is-Social Work, is-Social Policy is-Soċjoloġija, l, jew il-Youth and Community Studies; jew
 
-(b) grad ta’ Bachelor miksub għall-anqas fit-Tieni Klassi bl- Unuri jew f’Kategorija II minn din l-Università jew [L.S.327.405 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI
-
-università oħra f’qasam li hu meqjus bħala komparabbli jew rilevanti mill-Bord tal-Istudji.
-
-*2*
+(b) grad ta’ Bachelor miksub għall-anqas fit-Tieni Klassi bl- Unuri jew f’Kategorija II minn din l-Università jew università oħra f’qasam li hu meqjus bħala komparabbli jew rilevanti mill-Bord tal-Istudji.
 
 (2) L-applikanti kollha jkunu meħtieġa juru li huma għandhom il-kapaċità u d-dispożizzjoni meħtieġa biex isegwu l-kors bi profitt.
 
@@ -112,11 +104,9 @@ Il-kors għandu jinfirex fuq perijodu ta’ ħames semestri ta’ studju part-ti
 
 (4) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
-*3*
+## 6. Valutazzjoni u progress.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.405 6. (1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
-
-*Valutazzjoni u progress.*
+(1) Il-valutazzjoni ta’ kull taqsima studju mgħallma għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
 (2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 10 kredti jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari.
 

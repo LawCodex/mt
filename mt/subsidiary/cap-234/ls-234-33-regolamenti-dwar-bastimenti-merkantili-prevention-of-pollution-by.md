@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Bastimenti Merkantili - Prevention of Pollution by Garbage (S.L. 234.33)
 
-[L.S.234.33
-
-PREVENTION OF POLLUTION BY GARBAGE
-
 LE{ISLAZZJONI SUSSIDJARJA 234.33
 
 REGOLAMENTI DWAR BASTIMENTI

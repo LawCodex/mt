@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Kors għall-Pre-Tertiary Institute Certificate in Baroque Architecture (S.L. 327.529)
 
-*1*
-
-IN BAROQUE ARCHITECTURE [L.S.327.529
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.529**
 
 REGOLAMENTI TAL-KORS GĦALL-PRE-TERTIARY INSTITUTE CERTIFICATE IN BAROQUE
@@ -74,10 +70,6 @@ Il-kors għandu jinfirex fuq żewġ semestri ta’ studju fuq bażi part-time.
 ## 6. Bord tal-Istudji.
 
 L-amministrazzjoni ġenerali tal-kors għandha tkun fdata lil Bord tal-Istudji, approvat mis-Senat.
-
-*2*
-
-[L.S.327.529 IN BAROQUE ARCHITECTURE
 
 ## 7. Programm ta’ Studju.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Bini u Strutturi Industrijali (Tnaqqis Kapitali) (S.L. 123.173)
 
-*1*
-
-(TNAQQIS KAPITALI) [L.S.123.173
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.173**
 
 REGOLI DWAR BINI U STRUTTURI INDUSTRIJALI (TNAQQIS KAPITALI)
@@ -53,11 +49,7 @@ Għal fini tal-artikolu 14(1)(j) tal-Att, in-nefqa kapitali fuq bini u struttura
 
 ## 5. Tqassim tal-medda tal-art.
 
-Meta bini jew struttura industrijali tifforma parti minn binja li tinkludi fondijiet oħra, l-art li fuqha ġiet mibnija għandha titqies li hija porzjon mill-medda totali tal-art okkupata mill-bini kollu li huwa proporzjonat għall-medda superfiċjali tal-bini jew struttura [L.S.123.173 (TNAQQIS KAPITALI)
-
-industrijali.
-
-*2*
+Meta bini jew struttura industrijali tifforma parti minn binja li tinkludi fondijiet oħra, l-art li fuqha ġiet mibnija għandha titqies li hija porzjon mill-medda totali tal-art okkupata mill-bini kollu li huwa proporzjonat għall-medda superfiċjali tal-bini jew struttura industrijali.
 
 ## 6. Valur tal-arja ta’ fuq il-fond.
 

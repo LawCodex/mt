@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts - M.A. - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.562)
 
-*1*
-
-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.562
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.562**
 
 ORDINAMENTI GĦALL-GRAD TA’ MASTER OF ARTS - M.A. - TAĦT IL-PATROĊINJU TAL-
@@ -65,11 +61,9 @@ Il-kors ikun offrut f’kull qasam ta’ studju li jaqa’ taħt ir-responsabbil
 
 (3) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul tal-anqas minn tliet membri.
 
-(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibbilità tar-riżorsi. Il-Bord għandu jħabbar l-oqsma ta’ studju u l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall- [L.S.327.562 PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ applikazzjonijiet.
+(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibbilità tar-riżorsi. Il-Bord għandu jħabbar l-oqsma ta’ studju u l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (5) Meta l-għadd ta’ postijiet ikun limitat u l-għadd tal-applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti jiġu magħżula skont il-kriterji li ġejjin, li l-piż tagħhom ikun ippubblikat fiż-żmien tas-sejħa għall-applikazzjonijiet:
-
-*2*
 
 (a) it-tip u l-klassifikazzjoni tal-grad;
 
@@ -105,11 +99,9 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kretti permess skont il-paragrafu (2) ta’ dan l-ordinament, jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju jkunu meqjusa li weħlu mill-kors.
 
-*3*
+## 9. Dissertazzjoni.
 
-PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.562 9. (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 35,000 sa 40,000 kelma skont il-linji gwida maħruġin mill-Bord tal-Istudji.
-
-*Dissertazzjoni.*
+(1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 35,000 sa 40,000 kelma skont il-linji gwida maħruġin mill-Bord tal-Istudji.
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir fi kwalunkwe żmien matul il-kors wara l-approvazzjoni tal-proposta tar-riċerka. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
@@ -134,10 +126,6 @@ PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.562 9. (1) L-istu
 ## 11. Klassifikazzjoni tar- Rikonoxximent.
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.
-
-*4*
-
-[L.S.327.562 PATROĊINJU TAL-FAKULTÀ GĦAT-TISĦIĦ TAS-SOĊJETÀ
 
 ## 12. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 

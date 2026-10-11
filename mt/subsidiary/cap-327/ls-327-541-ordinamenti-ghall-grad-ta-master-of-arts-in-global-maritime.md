@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Global Maritime Archaeology - M.A. - taħt il-patroċinju tal-Fakultà tal-Arti (S.L. 327.541)
 
-ARCHAEOLOGY - M.A. - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-ARTI [L.S.327.541
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.541**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -67,12 +61,6 @@ sakemm li l-applikanti li jkollhom grad fit-Tielet Klassi bl-Unuri jew f’Kateg
 
 (b) l-esperjenza fil-qasam tal-istudju propost; u
 
-ARCHAEOLOGY - M.A. - TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.541 TAL-FAKULTÀ TAL-ARTI
-
 (ċ) il-livell milħuq waqt intervista.
 
 (4) Għall-iskop tal-għażla, l-applikanti li l-kwalifiki tagħhom kif stipulati fil-paragrafu (1) ta’ dan l-ordinament ikunu miksuba sal-31 ta’ Awwissu qabel il-bidu tal-kors għandhom jitqiesu l-ewwel.
@@ -105,13 +93,11 @@ L-istudenti li jiksbu s-60 krettu ECTS assenjati għat-taqsimiet studju u għall
 
 Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
-ARCHAEOLOGY - M.A. - TAĦT IL-PATROĊINJU
+## 9. Valutazzjoni u progress.
 
-*3*
+*Emendat: A.L. 290 tal- 2017; A.L. 12 tal-2022.*
 
-TAL-FAKULTÀ TAL-ARTI [L.S.327.541 9. (1) Il-valutazzjoni ta’ kull taqsima studju għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
-
-*Valutazzjoni u progress. Emendat: A.L. 290 tal- 2017; A.L. 12 tal-2022.*
+(1) Il-valutazzjoni ta’ kull taqsima studju għandha tkun kompluta sal-aħħar tas-semestru li fih ikun sar it-tagħlim tat-taqsima studju.
 
 (2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 krettu ECTS għal taqsimiet studju mgħallma, jekk isegwu l-kors fuq bażi ta’ full-time, jew mhux aktar minn 10 kretti ECTS għal taqsimiet studju mgħallma jekk isegwu l-Kors fuq bażi ta’ part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
@@ -139,13 +125,7 @@ TAL-FAKULTÀ TAL-ARTI [L.S.327.541 9. (1) Il-valutazzjoni ta’ kull taqsima stu
 
 ## 12. Klassifikazzjoni tar- Rikonoxximenti.
 
-Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ARCHAEOLOGY - M.A. - TAĦT IL-PATROĊINJU
-
-*4*
-
-[L.S.327.541 TAL-FAKULTÀ TAL-ARTI
-
-ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.
+Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kretti kollha jingħataw piż indaqs.
 
 ## 13. Dispożizzjonijiet speċjali għall-korsijiet fuq bażi part-time.
 

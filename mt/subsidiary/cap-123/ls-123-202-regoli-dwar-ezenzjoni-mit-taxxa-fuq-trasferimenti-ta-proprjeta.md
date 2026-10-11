@@ -16,9 +16,7 @@ retrieved: 2026-10-12
 
 # Regoli dwar Eżenzjoni mit-Taxxa fuq Trasferimenti ta’ Proprjetà (Tpaċija ta’ Arretrati ta’ Taxxa) (S.L. 123.202)
 
-*1*
-
-PROPRJETÀ (TPAĊIJA TA’ ARRETRATI TA’ TAXXA) [L.S.123.202 LEĠISLAZZJONI SUSSIDJARJA 123.202
+LEĠISLAZZJONI SUSSIDJARJA 123.202
 
 REGOLI DWAR EŻENZJONI MIT-TAXXA FUQ
 
@@ -66,9 +64,7 @@ F’dawn ir-regoli, sakemm ir-rabta tal-kliem ma tkunx teħtieġ xort’oħra �
 
 *Kap. 318. Kap. 406.*
 
-*2*
-
-[L.S. 123.202 PROPRJETÀ (TPAĊIJA TA’ ARRETRATI TA’ TAXXA) "ħlas kwalifikanti" tfisser ħlas li jissodisfa l-kondizzjonijiet tas-subregola (1) tar-regola 5 iżda li ma jkunx iktar mill-ammont li għandu jittieħed kont tiegħu għall-fini ta’ dawn ir-regoli skont is-subregoli (2) u (3) ta’ dik ir-regola;
+"ħlas kwalifikanti" tfisser ħlas li jissodisfa l-kondizzjonijiet tas-subregola (1) tar-regola 5 iżda li ma jkunx iktar mill-ammont li għandu jittieħed kont tiegħu għall-fini ta’ dawn ir-regoli skont is-subregoli (2) u (3) ta’ dik ir-regola;
 
 *Kap. 123.*
 
@@ -90,11 +86,9 @@ Dawn ir-regoli japplikaw għal kull trasferiment li tkun dovuta fuqu taxxa skont
 
 (a) meta persuna, hawn iżjed ’il quddiem f’dan il-paragrafu msejħa wkoll "min jagħmel it-trasferiment", tagħmel trasferiment li għalih japplikaw dawn ir-regoli, arretrati ta’ taxxa relevanti ta’ persuna oħra, hawn iżjed ’il quddiem f’dan il-paragrafu msejħa wkoll "il-parti l-oħra", jistgħu, bl-għażla magħmula flimkien minn min jagħmel it-trasferiment u l-parti l-oħra, jiġu trattati għall-finijiet ta’ dawn ir-regoli daqslikieku kienu arretrati ta’ taxxa relevanti ta’ min jagħmel it-trasferiment fil-każ li:
 
-(i) min jagħmel it-trasferiment tkun kumpanija, u l-parti l-oħra tkun individwu li, matul il-perjodu mill-31 ta’ Marzu 2021 sad-data tat-trasferiment, kien proprjetarju, direttament jew indirettament, ta’ mill-inqas disgħa u PROPRJETÀ (TPAĊIJA TA’ ARRETRATI TA’ TAXXA) [L.S.123.202 disgħin fil-mija (99%) tal-kapital azzjonarju maħruġ u tad-drittijiet tal-vot ta’ dik il-kumpanija;
+(i) min jagħmel it-trasferiment tkun kumpanija, u l-parti l-oħra tkun individwu li, matul il-perjodu mill-31 ta’ Marzu 2021 sad-data tat-trasferiment, kien proprjetarju, direttament jew indirettament, ta’ mill-inqas disgħa u disgħin fil-mija (99%) tal-kapital azzjonarju maħruġ u tad-drittijiet tal-vot ta’ dik il-kumpanija;
 
 (ii) il-parti l-oħra tkun kumpanija, u min jagħmel it-trasferiment ikun individwu li, matul il-perjodu mill-31 ta’ Marzu 2021 sad-data tat-trasferiment, kien proprjetarju, direttament jew indirettament, ta’ mill-inqas disgħa u disgħin fil-mija (99%) tal-kapital azzjonarju maħruġ u tad-drittijiet tal-vot ta’ dik il-kumpanija; jew
-
-*3*
 
 (iii) min jagħmel it-trasferiment u l-parti l-oħra jkunu t-tnejn kumpaniji u, matul il-perjodu mill-31 ta’ Marzu 2021 sad-data tat-trasferiment, proprjetarji benefiċjarji individwali diretti jew indiretti taż-żewġ kumpaniji kienu l-istess u kull wieħed minn dawk l-individwi kellu, direttament jew indirettament, l-istess perċentwali ta’ interess fil-kapital azzjonarju nominali u drittijiet tal-vot f’kull waħda mill-imsemmija kumpaniji;
 
@@ -116,11 +110,7 @@ Dawn ir-regoli japplikaw għal kull trasferiment li tkun dovuta fuqu taxxa skont
 
 (ċ) dik il-persuna tagħti avviż lill-Kummissarju tat-talba tagħha għal eżenzjoni taħt dawn ir-regoli, liema avviż:
 
-(i) għandu jingħata lill-Kummissarju mhux [L.S. 123.202 PROPRJETÀ (TPAĊIJA TA’ ARRETRATI TA’ TAXXA)
-
-*4*
-
-iktar tard minn ħmistax (15)-il xahar wara d-data tal-imsemmi trasferiment iżda mhux aktar tard mill-31 ta’ Marzu 2023;
+(i) għandu jingħata lill-Kummissarju mhux iktar tard minn ħmistax (15)-il xahar wara d-data tal-imsemmi trasferiment iżda mhux aktar tard mill-31 ta’ Marzu 2023;
 
 (ii) għandu jingħata fuq dik il-formola u b’dak il-mod kif il-Kummissarju jista’ japprova u jkollu l-informazzjoni u l-partikolaritajiet kollha li jkunu meħtieġa minn dik il-formola;
 
@@ -148,11 +138,9 @@ L-eżenzjoni mit-taxxa fuq l-income li tingħata taħt dawn ir-regoli għandha t
 
 ## 7. Tpaċija kontra l-arretrati.
 
-(1) It-total ta’ ħlas kwalifikanti u tal-ammont tal-eżenzjoni rispettiva li tingħata taħt dawn ir-regoli għandu jikkostitwixxi ħlas mill-peruna li tagħmel it-trasferiment in kwistjoni li għandu jinqata’ kontra l-arretrati ta’ taxxa relevanti ta’ dik il-persuna. PROPRJETÀ (TPAĊIJA TA’ ARRETRATI TA’ TAXXA) [L.S.123.202 (2) Meta l-ammont li għandu jinqata’ skont is-subregola (1) ikun inqas mill-arretrati ta’ taxxa relevanti, għandu jinqata’ kontra dawk il-kategoriji ta’ arretrati ta’ taxxa relevanti kif il-Kummissarju jista’, fid-diskrezzjoni tiegħu, jiddeċidi, u t-tpaċija għandha tkun mingħajr preġudizzju għall-poteri tal-Kummissarju li jieħu azzjoni skont id-dispożizzjonijiet relevanti tal-Atti dwar it-Taxxa, l-Att dwar is-Sigurtà Soċjali u l-Att dwar it-Taxxa fuq il-Valur Miżjud għall-ġbir tal-bilanċ tal-arretrati ta’ taxxa relevanti li jkun għadu dovut fiż-żmien li ssir it-tpaċija msemmija.
+(1) It-total ta’ ħlas kwalifikanti u tal-ammont tal-eżenzjoni rispettiva li tingħata taħt dawn ir-regoli għandu jikkostitwixxi ħlas mill-peruna li tagħmel it-trasferiment in kwistjoni li għandu jinqata’ kontra l-arretrati ta’ taxxa relevanti ta’ dik il-persuna. (2) Meta l-ammont li għandu jinqata’ skont is-subregola (1) ikun inqas mill-arretrati ta’ taxxa relevanti, għandu jinqata’ kontra dawk il-kategoriji ta’ arretrati ta’ taxxa relevanti kif il-Kummissarju jista’, fid-diskrezzjoni tiegħu, jiddeċidi, u t-tpaċija għandha tkun mingħajr preġudizzju għall-poteri tal-Kummissarju li jieħu azzjoni skont id-dispożizzjonijiet relevanti tal-Atti dwar it-Taxxa, l-Att dwar is-Sigurtà Soċjali u l-Att dwar it-Taxxa fuq il-Valur Miżjud għall-ġbir tal-bilanċ tal-arretrati ta’ taxxa relevanti li jkun għadu dovut fiż-żmien li ssir it-tpaċija msemmija.
 
 (3) Eżenzjoni li tingħata taħt dawn ir-regoli ma għandhiex tagħti lok għal xi rifużjoni, kreditu jew jedd ieħor ħlief għat-tpaċija msemmija f’din ir-regola.
-
-*5*
 
 *Kap. 318. Kap. 406.*
 

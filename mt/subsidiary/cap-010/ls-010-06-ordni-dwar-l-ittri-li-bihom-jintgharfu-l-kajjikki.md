@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Ittri li bihom jintgħarfu l-Kajjikki"
-identifier: "S.L. 10.6"
+identifier: "S.L. 10.06"
 eli: "https://legislation.mt/eli/sl/10.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/10.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Ittri li bihom jintgħarfu l-Kajjikki (S.L. 10.6)
+# Ordni dwar l-Ittri li bihom jintgħarfu l-Kajjikki (S.L. 10.06)
 
 LEĀISLAZZJONI SUSSIDJARJA 10.06
 

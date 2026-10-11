@@ -1,6 +1,6 @@
 ---
 title: "Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta Lm500,000 4.5% Stock Lokali Reġistrat għall-Iżvilupp 1996/98"
-identifier: "S.L. 161.9"
+identifier: "S.L. 161.09"
 eli: "https://legislation.mt/eli/sl/161.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,13 +14,7 @@ version: "https://legislation.mt/eli/sl/161.9/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta Lm500,000 4.5% Stock Lokali Reġistrat għall-Iżvilupp 1996/98 (S.L. 161.9)
-
-}RU{ TA’ LM500,000 4.5% STOCK LOKALI
-
-*1*
-
-RE{ISTRAT G}ALL-I|VILUPP 1996/98 [L.S.161.09
+# Direttiva mill-Ministru tal-Finanzi għall-Ħruġ ta Lm500,000 4.5% Stock Lokali Reġistrat għall-Iżvilupp 1996/98 (S.L. 161.09)
 
 **LE{ISLAZZJONI SUSSIDJARJA 161.09**
 

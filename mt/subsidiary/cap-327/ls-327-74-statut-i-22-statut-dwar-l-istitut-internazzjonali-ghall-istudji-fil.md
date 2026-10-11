@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Statut I 22 - Statut dwar l-Istitut Internazzjonali għall-Istudji fil-Barokk (S.L. 327.74)
 
-*1*
-
-G}ALL-ISTUDJI FIL-BAROKK [L.S.327.74
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.74**
 
 STATUT GĦALL-ISTITUT INTERNAZZJONALI
@@ -121,11 +117,7 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 L-Istitut jkollu Direttur u Staff:
 
-(a) id-Direttur tal-Istitut jinħatar skont il-proċedura għall-ħatra tad-Diretturi tal-Istituti u Ċentri kif approvata mill-Kunsill tal-Università, għal perjodu ta’ sena, bil- G}ALL-ISTUDJI FIL-BAROKK [L.S.327.74
-
-possibilità li l-ħatra tiġġedded kull sena skont kriterji stabiliti ta’ ħiliet, il-ħtiġiet tal-Istitut u tal-Università, għal perjodu li ma jeċċedix l-erba’ (4) snin; u
-
-*3*
+(a) id-Direttur tal-Istitut jinħatar skont il-proċedura għall-ħatra tad-Diretturi tal-Istituti u Ċentri kif approvata mill-Kunsill tal-Università, għal perjodu ta’ sena, bil-possibilità li l-ħatra tiġġedded kull sena skont kriterji stabiliti ta’ ħiliet, il-ħtiġiet tal-Istitut u tal-Università, għal perjodu li ma jeċċedix l-erba’ (4) snin; u
 
 (b) l-istaff fl-Istitut jinħatar mill-Università skont in-normi stabbiliti.
 
@@ -183,11 +175,7 @@ Minbarra dan, id-Direttur:
 
 (a) għandu jirrapporta direttament lill-Chairman tal-Bord tal-Istitut u għandu jikkollabora mal-uffiċjali amministrattivi anzjani kollha tal-Università;
 
-(b) għandu jkun normalment Akkademiku Residenti impjegat mal-Università fuq bażi full-time matul iż-żmien li jokkupa l-ħatra ta’ Direttur. F’każ li l-Istitut hu impenjat bi programmi ta’ studju mgħallma u li jwasslu għar-rikonoxximent sal-ewwel grad jew wara l-ewwel grad, id-Direttur għandu jkun impjegat mal- Università bħala Akkademiku Residenti fuq bażi full- G}ALL-ISTUDJI FIL-BAROKK [L.S.327.74
-
-time;
-
-*5*
+(b) għandu jkun normalment Akkademiku Residenti impjegat mal-Università fuq bażi full-time matul iż-żmien li jokkupa l-ħatra ta’ Direttur. F’każ li l-Istitut hu impenjat bi programmi ta’ studju mgħallma u li jwasslu għar-rikonoxximent sal-ewwel grad jew wara l-ewwel grad, id-Direttur għandu jkun impjegat mal- Università bħala Akkademiku Residenti fuq bażi full-time;
 
 (ċ) m’għandux jimpenja ruħu fi kwalunkwe attività barra mill-Università li tista’ tkun f’konflitt, jew ittellfu, mid-dmirijiet tiegħu fl-Università;
 

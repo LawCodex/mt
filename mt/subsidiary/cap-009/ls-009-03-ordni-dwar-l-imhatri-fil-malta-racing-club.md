@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Imħatri fil-Malta Racing Club"
-identifier: "S.L. 9.3"
+identifier: "S.L. 9.03"
 eli: "https://legislation.mt/eli/sl/9.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/9.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Imħatri fil-Malta Racing Club (S.L. 9.3)
+# Ordni dwar l-Imħatri fil-Malta Racing Club (S.L. 9.03)
 
 LEĠISLAZZJONI SUSSIDJARJA 9.03
 

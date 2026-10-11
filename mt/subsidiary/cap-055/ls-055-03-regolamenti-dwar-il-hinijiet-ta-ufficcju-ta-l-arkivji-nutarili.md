@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Ħinijiet ta' Uffiċċju ta' l-Arkivji Nutarili"
-identifier: "S.L. 55.3"
+identifier: "S.L. 55.03"
 eli: "https://legislation.mt/eli/sl/55.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/55.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Ħinijiet ta' Uffiċċju ta' l-Arkivji Nutarili (S.L. 55.3)
+# Regolamenti dwar il-Ħinijiet ta' Uffiċċju ta' l-Arkivji Nutarili (S.L. 55.03)
 
 **LE{ISLAZZJONI SUSSIDJARJA 55.03**
 

@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Mekkaniżmu Ewropew ta’ Stabbilità)"
-identifier: "S.L. 191.7"
+identifier: "S.L. 191.07"
 eli: "https://legislation.mt/eli/sl/191.7"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/191.7/20140730/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Mekkaniżmu Ewropew ta’ Stabbilità) (S.L. 191.7)
-
-L-IMMUNITAJIET U L-PRIVILEĠĠI DIPLOMATIĊI
-
-*1*
-
-(MEKKANIŻMU EWROPEW TA’ STABBILITÀ) [L.S.191.07
+# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (Mekkaniżmu Ewropew ta’ Stabbilità) (S.L. 191.07)
 
 **LEĠISLAZZJONI SUSSIDJARJA 191.07**
 
@@ -73,10 +67,6 @@ Il-MES għandu jkollu personalità ġuridika sħiħa; għandu jkollu kapaċità 
 
 (a) jakkwista u jiddisponi minn proprjetà mobbli u immobbli;
 
-*2*
-
-L-IMMUNITAJIET U L-PRIVILEĠĠI DIPLOMATIĊI [L.S.191.07 (MEKKANIŻMU EWROPEW TA’ STABBILITÀ)
-
 (b) jagћmel kuntratti;
 
 (c) ikun parti fi proċedimenti legali; u
@@ -117,11 +107,7 @@ Il-MES għandu jiġi eżentat minn kull rekwiżit sabiex jiġi awtorizzat jew li
 
 \1. Fl-interess tal-MES, il-President tal-Bord tal-Gvernaturi, il-Gvernaturi, is-sostituti Gvernaturi, id-Diretturi, is-sostituti Diretturi, kif ukoll id-Direttur Maniġerjali u l-membri l-oħra tal-persunal għandhom ikollhom immunità minn proċedimenti legali fir-rigward tal-atti mwettqa minnhom fil-kapaċità uffiċjali tagħhom u għandhom igawdu minn invjolabbiltà fir-rigward tal-karti u d-dokumenti uffiċjali tagћhom.
 
-\2. Il-Bord tal-Gvernaturi jista’ jirrinunzja safejn u taħt dawk il-kondizzjonijiet li huwa jiddetermina għal kwalunkwe immunità L-IMMUNITAJIET U L-PRIVILEĠĠI DIPLOMATIĊI
-
-*3*
-
-(MEKKANIŻMU EWROPEW TA’ STABBILITÀ) [L.S.191.07 konferita taħt dan l-Artikolu fir-rigward tal-President tal-Bord tal- Gvernaturi, ta’ Gvernatur, ta’ sostitut Gvernatur, ta’ Direttur, ta’ sostitut Direttur jew tad-Direttur Maniġerjali.
+\2. Il-Bord tal-Gvernaturi jista’ jirrinunzja safejn u taħt dawk il-kondizzjonijiet li huwa jiddetermina għal kwalunkwe immunità konferita taħt dan l-Artikolu fir-rigward tal-President tal-Bord tal- Gvernaturi, ta’ Gvernatur, ta’ sostitut Gvernatur, ta’ Direttur, ta’ sostitut Direttur jew tad-Direttur Maniġerjali.
 
 \3. Id-Direttur Maniġerjali jista’ jirrinunzja għal kwalunkwe immunità bћal dik fir-rigward ta’ kwalunkwe membru tal-persunal tal-MES għajr tiegћu nnifsu.
 

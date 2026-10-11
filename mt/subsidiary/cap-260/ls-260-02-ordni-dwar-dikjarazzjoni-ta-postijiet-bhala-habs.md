@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Dikjarazzjoni ta' Postijiet bħala Ħabs"
-identifier: "S.L. 260.2"
+identifier: "S.L. 260.02"
 eli: "https://legislation.mt/eli/sl/260.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/260.2/20260818/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Dikjarazzjoni ta' Postijiet bħala Ħabs (S.L. 260.2)
+# Ordni dwar Dikjarazzjoni ta' Postijiet bħala Ħabs (S.L. 260.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA 260.02**
 

@@ -1,6 +1,6 @@
 ---
 title: "Regoli għall-Kontroll Intern fuq id-Drogi Perikolużi"
-identifier: "S.L. 101.2"
+identifier: "S.L. 101.02"
 eli: "https://legislation.mt/eli/sl/101.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/101.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli għall-Kontroll Intern fuq id-Drogi Perikolużi (S.L. 101.2)
+# Regoli għall-Kontroll Intern fuq id-Drogi Perikolużi (S.L. 101.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 101.02**
 

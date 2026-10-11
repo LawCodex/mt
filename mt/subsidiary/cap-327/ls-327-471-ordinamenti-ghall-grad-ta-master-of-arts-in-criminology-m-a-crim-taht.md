@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Criminology - M.A. (Crim.) - taħt il-patroċinju tal-Fakultà għat-Tisħiħ tas-Soċjetà (S.L. 327.471)
 
-(CRIM.) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.471
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.471**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -75,13 +69,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) Il-bord għall-intervisti maħtur mill-Bord għandu jkun magħmul minn tal-anqas minn tliet membri.
 
-(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ (CRIM.) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.471 GĦAT-TISĦIĦ TAS-SOĊJETÀ
-
-applikanti li għandhom jitħallew jirreġistraw għall-kors, skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar in-numru ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
+(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li għandhom jitħallew jirreġistraw għall-kors, skont id-disponibbiltà tar-riżorsi. Il-Bord għandu jħabbar in-numru ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (5) Meta l-għadd ta’ postijiet ikun limitat u l-għadd ta’ applikanti eliġibbli jkun akbar mill-għadd ta’ postijiet disponibbli, l-applikanti jintgħażlu skont dawn il-kriterji li ġejjin, li l-piż tagħhom jiġi ppubblikat fiż-żmien tas-sejħa għall-applikazzjonjiet:
 
@@ -117,11 +105,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (2) Dawk l-istudenti li jeħlu fil-valutazzjoni tat-taqsimiet studju mgħallma jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fi-valutazzjonijiet li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
-(CRIM.) - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-GĦAT-TISĦIĦ TAS-SOĊJETÀ [L.S.327.471 (3) L-istudenti li wara l-valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju jkunu meħtieġa jirtiraw mill-kors.
+(3) L-istudenti li wara l-valutazzjoni mill-ġdid ma jiksbux il-kretti għal xi taqsima studju jkunu meħtieġa jirtiraw mill-kors.
 
 ## 8. Dissertazzjoni.
 

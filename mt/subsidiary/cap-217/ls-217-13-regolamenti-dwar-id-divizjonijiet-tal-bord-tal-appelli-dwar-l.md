@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Diviżjonijiet tal-Bord tal-Appelli dwar l-Immigrazzjoni (S.L. 217.13)
 
-DIVIŻJONIJIET TAL-BORD
-
-*1*
-
-TAL-APPELLI DWAR L-IMMIGRAZZJONI [S.L.217.13
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.13**
 
 **REGOLAMENTI DWAR ID-DIVIŻJONIJIET**

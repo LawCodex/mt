@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Gradi ta' Bachelor of Arts - B.A. - u Bachelor of Arts (Honours) - B.A. (Hons.) - tal-Link Campus (S.L. 327.180)
 
-KORS G}ALL-GRADI TA’ BACHELOR OF ARTS - B.A. - U
-
-BACHELOR OF ARTS (HONOURS) -
-
-*1*
-
-B.A. (HONS.) - TAL-LINK CAMPUS [L.S.327.180
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.180**
 
 **REGOLAMENTI TAL-KORS G}ALL-GRADI TA’**

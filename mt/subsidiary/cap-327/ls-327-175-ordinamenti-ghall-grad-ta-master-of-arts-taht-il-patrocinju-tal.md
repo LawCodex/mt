@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts taħt il-patroċinju tal-Fakultà ta’ l-Arti (S.L. 327.175)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.175
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.175**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -62,10 +58,6 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew fi October 201
 
 Il-kors ikun offrut f’kull qasam ta’ studju li jaqa’ taħt ir-responsabbilità akkademika tal-Bord, wara l-approvazzjoni tas- Senat.
 
-*2*
-
-[L.S.327.175 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI
-
 ## 4. Rekwiżiti għad-dħul.
 
 *Emendat: A.L. 304 tal-2010. Sostitwit: A.L. 49 tal-2013. Emendat: A.L. 208 tal-2013; A.L. 314 tal-2014; A.L. 343 tal-2014; A.L. 271 tal-2015; A.L. 349 tal-2015; A.L. 23 tal-2016; A.L. 200 tal-2016: A.L. 235 tal-2017; A.L. 78 tal-2018; A.L. 375 tal-2018.*
@@ -84,11 +76,7 @@ Il-kors ikun offrut f’kull qasam ta’ studju li jaqa’ taħt ir-responsabbil
 
 (4) L-applikanti għall-kors fil-Fine Arts ikunu mitluba jipprovdu evidenza tal-esperjenza professjonali tagħhom fil-Fine Arts permezz ta’ portfolio.
 
-(5) Il-Bord għad-Dħul fil-qasam ta’ studju tal-‘Film Studies’ jistgħu jdaħħlu sa żewġ applikanti li m’għandhomx grad tal-ewwel ċiklu, jekk ikunu sodisfatti li dawn l-applikanti għandhom kwalifika professjonali jew esperjenza f’qasam ta’ studju relatat mill-qrib, li fil-ġudizzju tal-bord tal-intervisti tippermetti applikanti bħal dawn li jsegwu l-kors bi profitt. Id-dħul ta’ applikanti bħal dawn m’għandux ikun soġġett għall-kriterji tal-għażla approvati mis-Senat skont dawn l-ordinamenti. Jekk ikun hemm iktar minn żewġ applikanti bħal dawn, l-għażla tkun ibbażata fuq it-tul ta’ esperjenza relevanti jew fuq il-kwalità ta’ relevanti. TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.175
-
-(6) Skont id-disponibbiltà tar-riżorsi, il-Bord għandu jiddetermina n-numru ta’ applikanti li jistgħu jitħallew jirreġistraw f'oqsma partikolari ta’ studju. Għal oqsma fejn ir-reġistrazzjoni tal-istudenti hija limitata, il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli, u l-kriterji għall-għażla tal-applikanti fiż-żmien tas-sejħa għall-applikazzjonijiet.
-
-*3*
+(5) Il-Bord għad-Dħul fil-qasam ta’ studju tal-‘Film Studies’ jistgħu jdaħħlu sa żewġ applikanti li m’għandhomx grad tal-ewwel ċiklu, jekk ikunu sodisfatti li dawn l-applikanti għandhom kwalifika professjonali jew esperjenza f’qasam ta’ studju relatat mill-qrib, li fil-ġudizzju tal-bord tal-intervisti tippermetti applikanti bħal dawn li jsegwu l-kors bi profitt. Id-dħul ta’ applikanti bħal dawn m’għandux ikun soġġett għall-kriterji tal-għażla approvati mis-Senat skont dawn l-ordinamenti. Jekk ikun hemm iktar minn żewġ applikanti bħal dawn, l-għażla tkun ibbażata fuq it-tul ta’ esperjenza relevanti jew fuq il-kwalità ta’ relevanti. (6) Skont id-disponibbiltà tar-riżorsi, il-Bord għandu jiddetermina n-numru ta’ applikanti li jistgħu jitħallew jirreġistraw f'oqsma partikolari ta’ studju. Għal oqsma fejn ir-reġistrazzjoni tal-istudenti hija limitata, il-Bord għandu jħabbar l-għadd ta’ postijiet disponibbli, u l-kriterji għall-għażla tal-applikanti fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (7) Għall-iskop tal-għażla, l-applikanti li l-kwalifiki tagħhom, kif stipulat fil-paragrafu (1) ta’ dan l-ordinament, kienu miksuba sal-31 ta’ Awwissu qabel il-bidu tal-kors għandhom jitqiesu l-ewwel.
 
@@ -118,11 +106,7 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 
 (2) (a) Il-programmi ta’ studju prinċipalment mgħallma jikkonsistu minn taqsimiet studju mgħallma li għalihom hemm assenjati total ta’ 60 kredtu u taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 30 kredtu.
 
-(b) L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal- Postgraduate Diploma fil-qasam ta’ studju rilevanti. (ċ) L-istudenti li jiksbu t-30 kredtu assenjati għat-taqsimiet studju mgħallma u ma jkomplux il-kors, jkunu eliġibbli għall-għoti tal-Postgraduate [L.S.327.175 TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI
-
-**Certificate fil-qasam ta’ studju rilevanti.**
-
-*4*
+(b) L-istudenti li jiksbu s-60 kredtu assenjati għat-taqsimiet studju mgħallma b’marka medja ta’ mill-anqas 50% u ma jkomplux il-kors, jew wara li komplew ma jkunux spiċċaw b’suċċess id-dissertazzjoni, jkunu eliġibbli għall-għoti tal- Postgraduate Diploma fil-qasam ta’ studju rilevanti. (ċ) L-istudenti li jiksbu t-30 kredtu assenjati għat-taqsimiet studju mgħallma u ma jkomplux il-kors, jkunu eliġibbli għall-għoti tal-Postgraduate Certificate fil-qasam ta’ studju rilevanti.
 
 (3) Il-programmi ta’ studju prinċipalment bir-riċerka jikkonsistu minn taqsimiet studju mgħallma li għalihom hemm assenjati 10 kredti u taqsima studju tad-dissertazzjoni li għaliha hemm assenjati 80 kredtu.
 
@@ -154,11 +138,7 @@ Il-programm ta’ studju għandu jikkonsisti minn taqsimiet studju li għalihom 
 
 *Emendat: A.L. 10 tal-2017.*
 
-(1) Fi programmi ta’ studju prinċipalment bir-riċerka, l-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 50,000 kelma skond il-linji gwida maħruġin mill-Bord, sakemm li f’każijiet fejn huma meħtieġa proġett u dissertazzjoni, id-dissertazzjoni għandha tkun madwar 20,000 u 25,000 kelma. TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-ARTI [L.S.327.175
-
-(2) Ix-xogħol fuq id-dissertazzjoni jista’ jsir fi kwalunkwe żmien matul il-kors wara l-approvazzjoni tal-proposta. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
-
-*5*
+(1) Fi programmi ta’ studju prinċipalment bir-riċerka, l-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 50,000 kelma skond il-linji gwida maħruġin mill-Bord, sakemm li f’każijiet fejn huma meħtieġa proġett u dissertazzjoni, id-dissertazzjoni għandha tkun madwar 20,000 u 25,000 kelma. (2) Ix-xogħol fuq id-dissertazzjoni jista’ jsir fi kwalunkwe żmien matul il-kors wara l-approvazzjoni tal-proposta. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord fiż-żmien tal-applikazzjoni.
 

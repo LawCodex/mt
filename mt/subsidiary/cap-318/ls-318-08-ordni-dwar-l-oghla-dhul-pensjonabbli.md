@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Ogħla Dħul Pensjonabbli"
-identifier: "S.L. 318.8"
+identifier: "S.L. 318.08"
 eli: "https://legislation.mt/eli/sl/318.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/318.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Ogħla Dħul Pensjonabbli (S.L. 318.8)
+# Ordni dwar l-Ogħla Dħul Pensjonabbli (S.L. 318.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 318.08**
 

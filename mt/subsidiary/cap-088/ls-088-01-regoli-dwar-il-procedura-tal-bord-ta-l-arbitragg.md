@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar il-Proċedura tal-Bord ta' l-Arbitraġġ"
-identifier: "S.L. 88.1"
+identifier: "S.L. 88.01"
 eli: "https://legislation.mt/eli/sl/88.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/88.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar il-Proċedura tal-Bord ta' l-Arbitraġġ (S.L. 88.1)
+# Regoli dwar il-Proċedura tal-Bord ta' l-Arbitraġġ (S.L. 88.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 88.01**
 

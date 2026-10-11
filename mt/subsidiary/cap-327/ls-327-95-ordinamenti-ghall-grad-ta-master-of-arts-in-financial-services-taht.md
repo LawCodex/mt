@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Financial Services taħt il-patroċinju tal-Fakultà tal-Liġi (S.L. 327.95)
 
-*1*
-
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.95
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.95**
 
 **ORDINAMENTI GĦALL-GRAD TA’**
@@ -112,8 +108,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 Il-Marka Medja Finali Mwieżna għall-iskop tal-klassifikazzjoni tal-Postgraduate Diploma u tal-Grad għandha tkun ibbażata fuq ir-riżultati miksuba fil-komponenti kollha tal-programm ta’ studju, bil-kredti kollha jingħataw piż indaqs.
 
-*3*
+## 11. Disposizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Renumerat: A.L. 96 tal-2024.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-LIĠI [L.S.327.95 11. Id-disposizzjonijiet ta’ l-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time tal-kors.
-
-*Disposizzjonijiet speċjali għall-korsijiet fuq bażi part-time. Renumerat: A.L. 96 tal-2024.*
+Id-disposizzjonijiet ta’ l-ordinamenti preċedenti għandhom japplikaw mutatis mutandis għall-korsijiet li jsiru fuq bażi part-time, u suġġett għal dawk it-tibdiliet li jistgħu raġonevolment jitqiesu mill-Bord bħala neċessarji minħabba n-natura part-time tal-kors.

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet għas-Servizzi Veterinarji u tal-Biċċerija (S.L. 35.10)
 
-*1*
-
-U TAL-BI~~ERIJA [L.S.35.10
-
 **LE{ISLAZZJONI SUSSIDJARJA 35.10**
 
 **REGOLAMENTI DWAR ID-DRITTIJIET**
@@ -160,10 +156,6 @@ importazzjoni:
 lejn Malta (ma tinkludiex vi\\ta [ol-
 
 barumbari(lofts)............................ €25.70 kull 1000
-
-*3*
-
-U TAL-BI~~ERIJA [L.S.35.10
 
 Tajr Imqaxxar (Bird Skins) ............. €51.30 kull importazzjoni G]asafar,]amiemufniek............... €51.30 kull importazzjoni (B) (i) G]all-vi\\ta ta’ esportazzjoni ta’
 

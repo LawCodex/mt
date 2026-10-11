@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Postgraduate Diploma in Nutrition and Dietetics taħt il-patroċinju ta’ l-Institute of Health Care (S.L. 327.338)
 
-AND DIETETICS TA}T IL-PATRO~INJU
-
-*1*
-
-TA’ L-INSTITUTE OF HEALTH CARE [L.S.327.338
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.338**
 
 **ORDINAMENTI GĦALL-POSTGRADUATE**
@@ -70,12 +64,6 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 (2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 kredtu għal taqsimiet studju mgħallma, jekk ikunu qegħdin isegwu l-kors full-time, jew mhux aktar minn 10 kredti jekk ikunu qegħdin isegwu l-kors part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni ta’ l-eżamijiet supplimentari ta’ Settembru.
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
-
-AND DIETETICS TA}T IL-PATRO~INJU
-
-*2*
-
-[L.S.327.338 TA’ L-INSTITUTE OF HEALTH CARE
 
 (3) L-istudenti li jeħlu f’aktar mill-għadd ta’ kredti permess skond il-paragrafu (2) jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kredti għal xi taqsima studju, jkunu meqjusa li weħlu mill-kors.
 

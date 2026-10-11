@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għas-Certificate in Foundation Studies (S.L. 327.196)
 
-*1*
-
-IN FOUNDATION STUDIES [L.S.327.196
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.196**
 
 REGOLAMENTI TAL-KORS GĦAS-CERTIFICATE
@@ -66,11 +62,7 @@ Dawn ir-regolamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 2
 
 (ċ) għandhom il-kwalifiki li jagħtuhom aċċess għal kors sal-ewwel grad fid-dixxiplina magħżula fil-pajjiż minn fejn oriġinaw dawn il-kwalifiki; iżda
 
-(d) huma meqjusa li jeħtieġu aktar studju qabel ma jidħlu f’korsijiet sal-ewwel grad fl-Università ta’ Malta, sakemm li l-programmi tax-Xjenzi Medikali u Dentali u tax-Xjenzi tas-Saħħa li hemm referenza għalihom fil-paragrafu (1) tar-regolament 6 għandhom ikunu miftuħa biss għall-applikanti kwalifikati minn barra l-pajjiżi tal-UE/ŻEE skont id-dispożizzjonijiet ta’ ftehim iffirmati mill- [L.S.327.196 IN FOUNDATION STUDIES
-
-Università mal-Istat tal-Kuwajt, mas-Sultanat tal-Oman u mar-Renju tal-Għarabja Sawdita u għall-applikanti kwalifikati oħra minn pajjiżi barra l-UE/ŻEE.
-
-*2*
+(d) huma meqjusa li jeħtieġu aktar studju qabel ma jidħlu f’korsijiet sal-ewwel grad fl-Università ta’ Malta, sakemm li l-programmi tax-Xjenzi Medikali u Dentali u tax-Xjenzi tas-Saħħa li hemm referenza għalihom fil-paragrafu (1) tar-regolament 6 għandhom ikunu miftuħa biss għall-applikanti kwalifikati minn barra l-pajjiżi tal-UE/ŻEE skont id-dispożizzjonijiet ta’ ftehim iffirmati mill- Università mal-Istat tal-Kuwajt, mas-Sultanat tal-Oman u mar-Renju tal-Għarabja Sawdita u għall-applikanti kwalifikati oħra minn pajjiżi barra l-UE/ŻEE.
 
 (2) Fid-diskrezzjoni tal-Bord, l-applikanti huma meħtieġa jgħaddu minn intervista u / jew test bil-miktub.
 
@@ -128,11 +120,7 @@ Xjenzi Mediċi u Dentali; u
 
 Xjenzi tas-Saħħa (f’oqsma ta’ studju approvati mill-Bord).
 
-(2) Il-Bord tal-Istudji għandu jfassal programmi ta’ studju li jindikaw il-kodiċi, it-titlu, it-tip ta’ kull taqsima studju, u l-kretti IN FOUNDATION STUDIES [L.S.327.196
-
-assenjati għal kull taqsima studju, kif ukoll id-deskrizzjonijiet tat-taqsimiet studju li jinkludu l-metodi ta’ tagħlim u ta’ valutazzjoni. Il-Bord tal-Istudji għandu jipproponi lill-Bord tal-Iskola l-programmi ta’ studju u d-deskrizzjonijiet tat-taqsimiet studju qabel il-bidu ta’ kull kors. Dawn għandhom jiġu ppubblikati wara l-approvazzjoni tas-Senat. Suġġett għall-approvazzjoni tas-Senat, il- Bord tal-Istudji jista’ jagħmel it-tibdiliet neċessarji għall-programmi ta’ studju u għad-deskrizzjonijiet tat-taqsimiet studju kif meħtieġ.
-
-*3*
+(2) Il-Bord tal-Istudji għandu jfassal programmi ta’ studju li jindikaw il-kodiċi, it-titlu, it-tip ta’ kull taqsima studju, u l-kretti assenjati għal kull taqsima studju, kif ukoll id-deskrizzjonijiet tat-taqsimiet studju li jinkludu l-metodi ta’ tagħlim u ta’ valutazzjoni. Il-Bord tal-Istudji għandu jipproponi lill-Bord tal-Iskola l-programmi ta’ studju u d-deskrizzjonijiet tat-taqsimiet studju qabel il-bidu ta’ kull kors. Dawn għandhom jiġu ppubblikati wara l-approvazzjoni tas-Senat. Suġġett għall-approvazzjoni tas-Senat, il- Bord tal-Istudji jista’ jagħmel it-tibdiliet neċessarji għall-programmi ta’ studju u għad-deskrizzjonijiet tat-taqsimiet studju kif meħtieġ.
 
 ## 7. Attendenza u valutazzjoni.
 
@@ -174,10 +162,6 @@ L-istudenti jistgħu jkunu valutati mill-ġdid fi kwalunkwe għadd ta’ taqsimi
 
 Xogħol prattiku li jikkostitwixxi taqsima studju sħiħa jew parti minnha jew xogħol li huwa valutat perjodikament matul semestru ma jistax jiġi valutat mill-ġdid.
 
-*4*
-
-[L.S.327.196 IN FOUNDATION STUDIES
-
 ## 11. Għoti taċ- Ċertifikat. Enumerat mill-ġdid: A.L. 185 tal-2016.
 
 *Emendat: A.L. 220 tal-2017; A.L. 279 tal-2024.*
@@ -214,11 +198,7 @@ Il-Foundation Commencement Programme għandu jikkonsisti minn għadd ta’ taqsi
 
 ## 3.
 
-L-istudenti għandhom jitqiesu li temmew b’suċċess il- IN FOUNDATION STUDIES [L.S.327.196
-
-Foundation Commencement Programme jekk jiksbu l-kretti kif spjegat fil-programm ta’ studju u jiksbu marka medja ta’ 45%. Fid-deskrizzjoni tal-Bord, l-istudenti li ma jissodissfawx dan ir-rekwiżit jistgħu jitħallew jirrepetu l-Foundation Commencement Programme.
-
-*5*
+L-istudenti għandhom jitqiesu li temmew b’suċċess il- Foundation Commencement Programme jekk jiksbu l-kretti kif spjegat fil-programm ta’ studju u jiksbu marka medja ta’ 45%. Fid-deskrizzjoni tal-Bord, l-istudenti li ma jissodissfawx dan ir-rekwiżit jistgħu jitħallew jirrepetu l-Foundation Commencement Programme.
 
 ## 4.
 

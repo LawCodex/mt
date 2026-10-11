@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet għall-Faċilitajiet tal-Park Nazzjonali Ġewwa Ta’ Qali (S.L. 35.22)
 
-*1*
-
-TAL-PARK NAZZJONALI ĠEWWA TA’ QALI [L.S.35.22
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.22**
 
 **REGOLAMENTI DWAR DRITTIJIET**
@@ -82,10 +78,6 @@ Il-Ministru għandu jkollu d-diskrezzjoni li jistabbilixxi d-dritt għal attivit
 ## 8. Permessi oħra.
 
 L-awtorizzazzjoni biex issir xi attività jew avveniment fil- Park ma teżentax lil min japplika milli jikseb kull permess uffiċjali ieħor meħtieġ biex dik 1-attività jew dak 1-avveniment ikunu jistgħu iseħħu.
-
-*3*
-
-TAL-PARK NAZZJONALI ĠEWWA TA’ QALI [L.S.35.22
 
 L-EWWEL SKEDA
 

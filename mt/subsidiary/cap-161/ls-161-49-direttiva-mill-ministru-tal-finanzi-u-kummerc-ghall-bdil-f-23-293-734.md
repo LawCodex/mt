@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Direttiva mill-Ministru tal-Finanzi u Kummerċ għall-Bdil f'€23,293,734 7.2% Stock tal-Gvern ta' Malta (Bdil) 2008 (L-Ewwel Ħruġ) minn €23,293,734 6% Stock tal-Gvern ta' Malta 1998 (Il-Ħames Ħruġ) (S.L. 161.49)
 
-BDIL F’€23,293,734 7.2% STOCK TAL-GVERN TA’ MALTA
-
-(BDIL) 2008 (L-EWWEL }RU{) MINN €23,293,734 6% STOCK
-
-*1*
-
-TAL-GVERN TA’ MALTA 1998 (IL-}AMES }RU{) [S.L.161.49
-
 **LE{ISLAZZJONI SUSSIDJARJA 161.49**
 
 **DIRETTIVA MILL-MINISTRU TAL-FINANZI U**
@@ -32,6 +24,8 @@ TAL-GVERN TA’ MALTA 1998 (IL-}AMES }RU{) [S.L.161.49
 
 **STOCK TAL-GVERN TA’ MALTA (BDIL) 2008**
 
-(L-EWWEL }RU{) MINN €23,293,734 6% STOCK TAL-GVERN TA’ MALTA 1998 (IL-}AMES }RU{) 15 ta’ Mejju, 1998 L-AVVI| LEGALI 132 tal-1998, kif emendat bl-Avvi\\ Legali 410 tal- 2007.
+(L-EWWEL }RU{) MINN €23,293,734 6% STOCK TAL-GVERN TA’ MALTA 1998 (IL-}AMES }RU{)
+
+15 ta’ Mejju, 1998 L-AVVI| LEGALI 132 tal-1998, kif emendat bl-Avvi\\ Legali 410 tal- 2007.
 
 Revokat bl-Avviż Legali 434 tal-2014.

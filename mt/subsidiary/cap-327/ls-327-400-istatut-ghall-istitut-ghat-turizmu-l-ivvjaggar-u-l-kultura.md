@@ -17,10 +17,6 @@ retrieved: 2026-10-12
 
 # Istatut għall-Istitut għat-Turiżmu, l-Ivvjaġġar u l-Kultura (S.L. 327.400)
 
-*1*
-
-GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA [L.S.327.400
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.400**
 
 **STATUT GĦALL-ISTITUT**
@@ -66,10 +62,6 @@ L-Istitut għandu dawn l-għanijiet:
 (f) li jattira riċerki ffinanzjati u li jistabilixxu l-Istitut bħala Ċentru ta’ Eċċellenza bħala riċerka fit-turiżmu, l-ivvjaġġar u l-kultura fil-Mediterran.
 
 \*Dan Statut ġie imħassar bl-Avviż Legali 235 tal-2024.
-
-*2*
-
-[L.S.327.400 GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA
 
 *Tmexxija. Sostitwit: A.L. 157 tal-2015; A.L. 190 tal-2017.*
 
@@ -121,11 +113,7 @@ Id-dmirijiet tal-Bord ikunu dawn li ġejjin:
 
 (v) jipproponi Regolamenti u Ordinamenti lis-Senat;
 
-(vi) jeżiġi mill-membri tal-istaff tal-Istitut il- GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA [L.S.327.400
-
-produzzjoni ta’ rapporti fuq materji akkademiċi, li jinkludu l-kurrikulu ta’ korsijiet ta’ studju, il-kwalifiki għad-dħul f’korsijiet, eżamijiet u ċertifikati ta’ attendenza jew kwalifika;
-
-*3*
+(vi) jeżiġi mill-membri tal-istaff tal-Istitut il-produzzjoni ta’ rapporti fuq materji akkademiċi, li jinkludu l-kurrikulu ta’ korsijiet ta’ studju, il-kwalifiki għad-dħul f’korsijiet, eżamijiet u ċertifikati ta’ attendenza jew kwalifika;
 
 (vii) jirrakkomanda lill-Kunsill il-ħolqien jew l-abolizzjoni ta’ postijiet akkademiċi u mhux akkademiċi fl-Istitut;
 
@@ -159,11 +147,7 @@ Id-dmirijiet tal-Viċi-Chairman/Direttur huma li:
 
 (e) jamministra l-Istitut b’konsultazzjoni sħiħa mal-membri tiegħu; iwettaq monitoraġġ fuq, u japprova, talbiet għal leave of absence mill-membri tal-Istitut. Id-Direttur hu mistenni li jżomm reġistru tal-leave kollu tal-membri u jgħaddi, meta mitlub, din l-informazzjoni lid-Direttur għat-Tmexxija u l-Iżvilupp tar-Riżorsi Umani;
 
-(f) jippromovi l-bżonnijiet akkademiċi u personali tal-istudenti, sabiex l-istudenti jingħataw l-aqwa sapport GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA
-
-f’każ li jiltaqgħu ma’ diffikultajiet matul l-istudji tagħhom relatati mal-attivitajiet tal-Istitut;
-
-*[L.S.327.400 4*
+(f) jippromovi l-bżonnijiet akkademiċi u personali tal-istudenti, sabiex l-istudenti jingħataw l-aqwa sapport f’każ li jiltaqgħu ma’ diffikultajiet matul l-istudji tagħhom relatati mal-attivitajiet tal-Istitut;
 
 (g) iwettaq monitoraġġ fuq it-tmexxija ta’ eżamijiet tal- Istitut u jiżgura li r-riżultati kollha tal-valutazzjonijiet u tal-eżamijiet jiġu sottomessi fl-Uffiċċju tar- Reġistratur kif ġej:
 
@@ -187,11 +171,7 @@ f’każ li jiltaqgħu ma’ diffikultajiet matul l-istudji tagħhom relatati ma
 
 (n) jikkompila u jissottometti lid-Direttur tal-Finanzi tal- Università mhux aktar tard mill-aħħar ta’ Mejju ta’ kull sena akkademika, l-estimi għall-baġit finanzjarju għas-sena li jmiss. Dan ikun jinkludi l-ħtiġiet dwar riżorsi umani fl-Istitut li jkopri tagħlim, riċerka u xogħol amministrattiv proġettat għall-Istitut u bbażat fuq ix-xogħol proġettat ta’ kull Akkademiku Residenti tal-Istitut u tal-Visiting Teaching Staff;
 
-(o) iwettaq monitoraġġ fuq l-eżekuzzjoni tax-xogħol tal- GĦAT-TURIŻMU, L-IVVJAĠĠAR U L-KULTURA [L.S.327.400
-
-istaff mhux akkademiku msieħeb mal-Istitut;
-
-*5*
+(o) iwettaq monitoraġġ fuq l-eżekuzzjoni tax-xogħol tal-istaff mhux akkademiku msieħeb mal-Istitut;
 
 (p) jawtorizza lill-Istitut il-ksib ta’ apparat; jiżgura li r-riżorsi assenjati lill-Istitut - kemm jekk umani kif ukoll oħrajn - jiġu utilizzati b’mod sħiħ u effiċjenti;
 

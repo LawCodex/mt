@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Drittijiet dwar Prodotti Mediċinali Veterinarji u Spiżeriji Veterinarji (S.L. 35.38)
 
-*1*
-
-VETERINARJI U SPIŻERIJI VETERINARJI [L.S. 35.38
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.38**
 
 **REGOLAMENTI DWAR DRITTIJIET DWAR**
@@ -88,9 +84,7 @@ finijiet ta’ riċerka u
 
 żvilupp;
 
-*2*
-
-[L.S. 35.38 VETERINARJI U SPIŻERIJI VETERINARJI (ċ) għall- sena 60 ħruġ u t-tiġdid ta’
+(ċ) għall- sena 60 ħruġ u t-tiġdid ta’
 
 awtorizzazzjoni
 
@@ -175,10 +169,6 @@ Prodotti Mediċinali
 Veterinarji (L.S.
 
 437.115);
-
-*3*
-
-VETERINARJI U SPIŻERIJI VETERINARJI [L.S. 35.38
 
 (b) għar- 5 snin 300
 
@@ -266,9 +256,7 @@ jkunu relatati
 
 ma' xulxin.
 
-*4*
-
-[L.S. 35.38 VETERINARJI U SPIŻERIJI VETERINARJI (b) għall- kif determinat Żgħir (inqas minn 15-il ħruġ u t-tiġdid tal- mid-Direttur impjegat) -980 awtorizzazzjoni tal- wara
+(b) għall- kif determinat Żgħir (inqas minn 15-il ħruġ u t-tiġdid tal- mid-Direttur impjegat) -980 awtorizzazzjoni tal- wara
 
 manifattura li ma spezzjoni Medju (minn 15 sa 75 teħtieġx spezzjoni ta' (massimu 3 impjegat) -1,500 GMP; snin)
 
@@ -333,10 +321,6 @@ u tal-akkomodazzjoni
 tal-ispetturi, jekk
 
 applikabbli;
-
-*5*
-
-VETERINARJI U SPIŻERIJI VETERINARJI [L.S. 35.38
 
 (i) 465 għall-ħruġ ta’ ħruġ ta’ awtorizz-azzjoni ġdida awtorizzazzjon
 
@@ -422,9 +406,7 @@ tinvolvi spezzjoni
 
 f’Malta;
 
-*6*
-
-[L.S. 35.38 VETERINARJI U SPIŻERIJI VETERINARJI (i) 465 reġistrazzjoni
+(i) 465 reġistrazzjoni
 
 **inizjali bi jew**
 
@@ -502,10 +484,6 @@ tinvestiga ilment,
 
 wara varjazzjoni;
 
-*7*
-
-VETERINARJI U SPIŻERIJI VETERINARJI [L.S. 35.38
-
 (i) 60
 
 għal bidliet fiċ-
@@ -554,9 +532,7 @@ tinvestiga ilment,
 
 wara varjazzjoni;
 
-*8*
-
-[L.S. 35.38 VETERINARJI U SPIŻERIJI VETERINARJI (d) għas- 50 superviżjoni tal-qerda
+(d) għas- 50 superviżjoni tal-qerda
 
 ta’ prodotti
 
@@ -635,10 +611,6 @@ bl-imnut ta’ Prodotti
 Mediċinali Veterinarji u
 
 sustanzi attivi:
-
-*9*
-
-VETERINARJI U SPIŻERIJI VETERINARJI [L.S. 35.38
 
 (a) għall- kif determinat
 

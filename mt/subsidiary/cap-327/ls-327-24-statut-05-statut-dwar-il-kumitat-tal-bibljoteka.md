@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Statut 05 - Statut dwar il-Kumitat tal-Bibljoteka (S.L. 327.24)
 
-IL-KUMITAT TAL-BIBLJOTEKA [ L.S.327.24
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.24**
 
 **STATUT 05 - STATUT DWAR**

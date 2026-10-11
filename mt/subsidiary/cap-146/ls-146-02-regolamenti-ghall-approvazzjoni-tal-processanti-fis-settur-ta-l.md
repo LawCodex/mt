@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti għall-Approvazzjoni tal-Proċessanti fis-Settur ta' l-Ipproċessar tal-Prodotti"
-identifier: "S.L. 146.2"
+identifier: "S.L. 146.02"
 eli: "https://legislation.mt/eli/sl/146.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/146.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti għall-Approvazzjoni tal-Proċessanti fis-Settur ta' l-Ipproċessar tal-Prodotti (S.L. 146.2)
-
-*1*
-
-TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02
+# Regolamenti għall-Approvazzjoni tal-Proċessanti fis-Settur ta' l-Ipproċessar tal-Prodotti (S.L. 146.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 146.02**
 
@@ -95,10 +91,6 @@ mill-prodotti elenkati fl-Ewwel Skeda wara li jkun kiseb l-approvazzjoni skond d
 
 (a) indikazzjoni tal-kwantità u x-xorta ta’ prodott li primarjament se ji[i ppro`essat mill-applikant sabiex jiffabbrika l-prodotti lesti;
 
-*3*
-
-TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02
-
 (b) pjanti dettaljati li jindikaw l-g]add ta’ stabbilimenti, li juru l-konfigurazzjoni ta’ kull stabbiliment jew stabbilimenti, u l-impjant jew l-impjanti tal-pro`essar fl-istess stabbiliment;
 
 (`) dikjarazzjoni mill-applikant dwar il-kapa`ità g]all-impieg f’kull stabbiliment li g]andu ji[i utilizzat mill-applikant g]all-ippro`essar, kemm fil-]in normali tax-xog]ol, kif ukoll barra minnu;
@@ -147,11 +139,7 @@ I\\da fil-ka\\ ta’ modifika li ssir fl-impjant ta’ l-ippro`essar li jista’
 
 ## 5. Re[istru tal-pro`essanti.
 
-(1) Wara li l-awtorità kompetenti tkun approvat l-applikazzjoni g]all-approvazzjoni kif provdut fir-regolament 3, l-awtorità kompetenti g]andha tinforma lis-Segretarju Permanenti li g]andu, qabel il-31 ta’ Di`embru ta’ kull sena, jippubblika fil- TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02
-
-Gazzetta l-lista tal-pro`essanti re[istrati fir-Re[istru tal-pro`essanti.
-
-*5*
+(1) Wara li l-awtorità kompetenti tkun approvat l-applikazzjoni g]all-approvazzjoni kif provdut fir-regolament 3, l-awtorità kompetenti g]andha tinforma lis-Segretarju Permanenti li g]andu, qabel il-31 ta’ Di`embru ta’ kull sena, jippubblika fil- Gazzetta l-lista tal-pro`essanti re[istrati fir-Re[istru tal-pro`essanti.
 
 (2) Mid-data tal-pubblikazzjoni tar-Re[istru tal-pro`essanti fil- Gazzetta kif provdut fis-subregolament (1), kull pro`essant li jkollu ismu ppubblikat fir-Re[istru tal-pro`essanti jista’ jie]u sehem fl-iskema ta’ g]ajnuna.
 
@@ -229,11 +217,7 @@ L.S.146.02] TA’ L-IPPRO~ESSAR TAL-PRODOTTI
 
 (a) (i) fil-ka\\ fejn g]andu ji[i ppro`essat it-tadam, l-isem u l-indirizz tal-produttur individwali jew l-isem u l-indirizz ta’ l-g]aqda tal-produtturi;
 
-(ii) fil-ka\\ fejn g]andu ji[i ppro`essat il-]aw], il-lan[as, l-g]anbaqar imnixxef u`jew it-tin imnixxef, l-isem u l-indirizz ta’ l-g]aqda tal- TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02
-
-produtturi;
-
-*7*
+(ii) fil-ka\\ fejn g]andu ji[i ppro`essat il-]aw], il-lan[as, l-g]anbaqar imnixxef u`jew it-tin imnixxef, l-isem u l-indirizz ta’ l-g]aqda tal-produtturi;
 
 (b) l-isem u l-indirizz tal-pro`essant;
 
@@ -295,11 +279,11 @@ I\\da dawk id-disposizzjonijiet g]andhom ji[u mg]arrfa lill-partijiet interessat
 
 (2) Din l-informazzjoni g]andha tintbag]at qabel il-31 ta’ Mejju fil-ka\\ ta’ kuntratti li jirrigwardaw it-tadam u qabel ma jiskadi \\-\\mien stabbilit fir-regolament 11(2) fil-ka\\ ta’ kuntratti li jinteressaw il-]aw], l-g]anbaqar imnixxef, il-lan[as jew it-tin imnixxef. Wara din id-data, l-awtorità kompetenti tista’ g]al ra[unijiet [ustifikati tag]ti permess g]a\\-\\jieda tal-bi``a art agrikola li ma tkunx [iet dikjarata qabel jew g]at-tibdil fl-u\\u ori[inali tag]ha. |idiet jew tibdil b]al dawn g]andhom jigu notifikati bil-miktub lill-IACS sat-30 ta’ {unju.
 
-*9*
+## 11. Regoli dwar il-kuntratti.
 
-TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02 11. (1) Fil-ka\\ ta’ kuntratti ta]t ir-regolament 7 bejn pro`essant u produttur, fir-rigward ta’ l-ippro`essar tat-tadam, tal- ]aw], tal-lan[as, ta’ l-g]anbaqar imnixxef u tat-tin imnixxef, dawk il-kuntratti g]andhom jing]ataw mill-pro`essant lill-awtorita’ kompetenti, flimkien ma’ kull emenda li ssirilhom.
+*Emendat: A.L. 404 tal-2004.*
 
-*Regoli dwar il-kuntratti. Emendat: A.L. 404 tal-2004.*
+(1) Fil-ka\\ ta’ kuntratti ta]t ir-regolament 7 bejn pro`essant u produttur, fir-rigward ta’ l-ippro`essar tat-tadam, tal- ]aw], tal-lan[as, ta’ l-g]anbaqar imnixxef u tat-tin imnixxef, dawk il-kuntratti g]andhom jing]ataw mill-pro`essant lill-awtorita’ kompetenti, flimkien ma’ kull emenda li ssirilhom.
 
 (2) Madankollu, il-kwantità totali koperta mill-kuntratti kollha ffirmati bejn pro`essant u produttur ma’ tistax taqbe\\, g]al kull prodott, il-kwantità ma]suba g]all-pro`essar indikata minn dak il-produttur fil-kuntratt kif provdut fir-regolamenti 7, 9 u 12.
 
@@ -365,11 +349,7 @@ I\\da wkoll, f’ka\\i b]al dawk, l-ebda g]ajnuna ma ting]ata ta]t l-iskema ta�
 
 (a) il-kwantità ta’ kon`entrat tat-tadam me]ud mill-kwantitajiet li hemm provvdut dwarhom fis-subregolament (2)(a), u l-kwantità li tkun g]adha mi\\muma fl-istokk mill-pro`essant fl-a]]ar tas-sena tas-suq ta’ qabel, kif ukoll jekk il-kwantitajiet tat-tadam ippro`essati sabiex isir il-kon`entrat tat-tadam kienux ri`evuti ta]t il-kuntratt jew le;
 
-(b) il-kwantità ta’ tadam s]i], imqaxxar u ppreservat, me]ud mill-kwantitajiet ipprovvduti fis-subregolament (2)(a), u l-kwantità li tkun g]adha qed TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02
-
-tin\\amm fl-istokk mill-pro`essant fl-a]]ar tas-sena tas-suq ta’ qabel; hekk li ssir distinzjoni o]ra bejn jekk il-kwantitajiet tat-tadam li ji[i pro`essat biex isir it-tadam s]i] imqaxxar u ippreservat kinux ri`evuti skond il-kuntratt jew le;
-
-*11*
+(b) il-kwantità ta’ tadam s]i], imqaxxar u ppreservat, me]ud mill-kwantitajiet ipprovvduti fis-subregolament (2)(a), u l-kwantità li tkun g]adha qed tin\\amm fl-istokk mill-pro`essant fl-a]]ar tas-sena tas-suq ta’ qabel; hekk li ssir distinzjoni o]ra bejn jekk il-kwantitajiet tat-tadam li ji[i pro`essat biex isir it-tadam s]i] imqaxxar u ippreservat kinux ri`evuti skond il-kuntratt jew le;
 
 (`) il-kwantità ta’ kull prodott ie]or tat-tadam ippro`essat, g]andu ji[i indikat b’mod separat, me]ud mill-kwantitajiet li hemm provvdut dwarhom skond is-subregolament (2)(a), u l-kwantità li tkun g]adha mi\\muma fl-istokk mill-pro`essant fl-a]]ar tas-sena tas-suq ta’ qabel; hekk li ssir ukoll distinzjoni bejn jekk il-kwantitajiet tat-tadam fl-ippro`essar biex isiru l-prodotti ta’ tadam ippro`essat involuti kinux ri`evuti ta]t kuntratt jew le:
 
@@ -433,11 +413,7 @@ I\\da fir-rigward tal-paragrafu (e), il-prezz li g]andu jit]allas mill-pro`essan
 
 (ii) kemm huwa misjur, fejn g]all-iskopijiet ta’ dan ir-regolament, kemm il-frott li g]adu ma sarx jew li hu misjur i\\\\ejjed ikun difettu\\. Il-qies ta’ kemm huwa misjur ji[i mkejjel u mqabbel ma’ skala ta’ limiti stabbilita mill-partijiet fil-kuntratt;
 
-(iii) ]sara kkaw\\ata mis-sil[ li tid]ol ’il [ewwa fil- TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02
-
-qoxra u tiksi aktar minn g]oxrin fil-mija (20%) tal-wi`` tal-frotta;
-
-*13*
+(iii) ]sara kkaw\\ata mis-sil[ li tid]ol ’il [ewwa fil-qoxra u tiksi aktar minn g]oxrin fil-mija (20%) tal-wi`` tal-frotta;
 
 (d) fil-ka\\ tal-]aw], frotta miftu]a li tidher fejn, g]all-iskopijiet ta’ dan ir-regolament, l-g]adma li tidher bejn i\\-\\ew[ nofsijiet tal-]aw]a fuq in-na]a taz-zokk, titqies b]ala frotta jew g]adma miftu]a.
 
@@ -493,10 +469,6 @@ qoxra u tiksi aktar minn g]oxrin fil-mija (20%) tal-wi`` tal-frotta;
 
 (i) il-pro`essanti g]andhom ja[[ornaw kuljum ir-re[istri ta’ l-istokk g]all-prodotti li jkollhom imsemmija fil-paragrafi (a), (b), (`), (d) u (e), g]al kull fabbrika.
 
-*15*
-
-TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02
-
 (2) Il-pro`essanti g]andhom i\\ommu prova tal-]las g]all-materja prima kollha mixtrija ta]t il-kuntratt u prova tal-]las g]al kull bejg] u xiri ta’ prodotti lesti g]al ]ames snin mill-a]]ar tas-sena ta’ l-ippro`essar in kwistjoni.
 
 (3) Il-pro`essanti g]andhom ja``ettaw kull spezzjoni u kontroll me]tie[a mill-awtorità kompetenti u g]andhom i\\ommu kull dokumentazzjoni addizzjonali me]tie[a minnhom g]all-iskopijiet tal-kontrolli me]tie[a.
@@ -543,9 +515,7 @@ A.L. 404 tal-2004.
 
 \1. l-]aw] fix-xropp u, jew fil-meraq tal-frott naturali: il-]aw] s]i] jew il-bi``iet tal-]aw], ming]ajr qoxra, li jkunu mg]oddija minn pro`ess ta’ s]ana, ippakkettjati f’kontenituri ssi[illati b’mod li ma tg]addix arja miksija bix-xropp taz-zokkor jew bil-meraq tal-frott naturali u li jaqg]u ta]t il-kodi`i NM ex 2008 70 61, ex 2008 70 69, ex 2008 70 71, ex 2008 70 79, ex 2008 70 92, ex 2008 70 94 u ex 2008 70 99 ipprovvduta fl-Anness (1) tar-Regolament (KE) 2201/1996;
 
-\2. Il-lan[as fix-xropp u, jew fil-meraq tal-frott naturali: il-lan[as mill-varjetajiet Williams jew Rocha, s]i] jew imqatta’ bi``iet, ming]ajr qoxra, li jkun mg]oddi minn pro`ess ta’ s]ana, ippakkettjat f’kontenituri ssi[illati b’mod li ma tg]addix arja, miksi bix-xropp taz-zokkor jew bil- meraq tal-frott naturali u li jaqa’ TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02 17
-
-ta]t il-kodi`i NM ex 2008 40 51, ex 2008 40 59, 2008 40 71, ex 2008 40 79, ex 2008 40 91 u ex 2008 40 99 ipprovvduta fl-Anness (1) tar-Regolament (KE) 2201/1996;
+\2. Il-lan[as fix-xropp u, jew fil-meraq tal-frott naturali: il-lan[as mill-varjetajiet Williams jew Rocha, s]i] jew imqatta’ bi``iet, ming]ajr qoxra, li jkun mg]oddi minn pro`ess ta’ s]ana, ippakkettjat f’kontenituri ssi[illati b’mod li ma tg]addix arja, miksi bix-xropp taz-zokkor jew bil- meraq tal-frott naturali u li jaqa’ ta]t il-kodi`i NM ex 2008 40 51, ex 2008 40 59, 2008 40 71, ex 2008 40 79, ex 2008 40 91 u ex 2008 40 99 ipprovvduta fl-Anness (1) tar-Regolament (KE) 2201/1996;
 
 \3. Il-frott im]allat: ta]litiet ta’ frott s]i] jew imqatta’ bi``iet, ming]ajr qoxra, li jkun mg]oddi minn pro`ess ta’ s]ana, ippakkettjat f’kontenituri ssi[illati b’mod li ma tg]addix arja, miksi bix-xropp taz-zokkor jew bil-meraq tal-frott naturali, fejn il-pi\\ nett tal-]aw] u tal-lan[as Williams u Rocha msoffija ma jkunx inqas minn 60% tal-pi\\ nett imsoffi, u li jaqa’ ta]t il-kodi`i NM ex 2008 92 u ex 2008 99 ipprovvduta fl-Anness (1) tar-Regolament (KE) 2201/1996, u li jkun mag]mul direttament mill- ]aw] u, jew lan[as Williams u Rocha frisk li jkunu [ew ikkunsinnati fil-perijodi indikati fir-regolament 3(2)(b) u (`);
 
@@ -582,8 +552,6 @@ ta]t il-kodi`i NM ex 2008 40 51, ex 2008 40 59, 2008 40 71, ex 2008 40 79, ex 20
 ## 18.
 
 Il-meraq tal-frott naturali: likwidu g]all-kisi b’minimu ta’ 9,5° Brix li jikkonsisti biss f’meraq li jista’ jiffermenta, i\\da mhux iffermentat, mag]sur b’mod mekkaniku mill-frott, jew f’meraq miksub mill-meraq tal-frott kon`entrat billi jer[a’ ji\\died il-proporzjon ta’ l-ilma estratt fil-pro`ess tal-kon`entrazzjoni, definit fid- Direttiva tal-Kunsill tal-Komunità Ewropea 2001/112/KE(14), ming]ajr zokkor mi\\jud.
-
-TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02 19
 
 IT-TIENI SKEDA Sostitwita:
 
@@ -683,7 +651,7 @@ Il-pagamenti g]all-materja prima kkunsinnata g]andhom ji[u mag]mula lill- Produt
 
 ? Fi zmien xahrejn li jibdew jg]oddu mill-a]]ar tax-xahar li fih il-prodott ikun gie kkunsinnat
 
-? ..................................................................................................................... TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02 21
+? .....................................................................................................................
 
 **Garanziji**
 
@@ -762,8 +730,6 @@ Area Utilizzata Kuntratt Prodott Mistennija a]]ar sentejn
 (3)
 
 Tadam
-
-TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02 23
 
 Ka\\ijiet ta’ prezzijiet differenzjali
 
@@ -868,8 +834,6 @@ Somma totali g]all-]las € / 1000 Kg
 Firma tal-Produttur Firma tar-Rappre\\entant tal-Pro`essant .................................. .....................................
 
 (\*) Il-prodott jikkonforma mal-]ti[iet minimi tal-kwalita stabbiliti fir-Reg. KE Nru. 217/2002.
-
-TA’ L-IPPRO~ESSAR TAL-PRODOTTI [L.S.146.02 25
 
 IL-}AMES SKEDA Sostitwita:
 

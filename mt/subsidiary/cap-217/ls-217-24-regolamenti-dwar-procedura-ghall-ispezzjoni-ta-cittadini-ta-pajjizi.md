@@ -15,16 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Proċedura għall-Ispezzjoni ta’ Ċittadini ta’ Pajjiżi Terzi li jkunu qed joqogħdu u jaħdmu Illegalment, u l-Monitoraġġ ta’ Ċittadini ta’ Pajjiżi Terzi li jkunu iskritti fi Stabbilimenti Edukattivi (S.L. 217.24)
 
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI LI JKUNU QED
-
-JOQOGĦDU U JAĦDMU ILLEGALMENT, U L-
-
-MONITORAĠĠ TA’ ĊITTADINI TA’ PAJJIŻI TERZI LI
-
-*1*
-
-JKUNU ISKRITTI FI STABBILIMENTI EDUKATTIVI [L.S. 217.24
-
 **LEĠISLAZZJONI SUSSIDJARJA 217.24**
 
 **REGOLAMENTI DWAR PROĊEDURA GĦALL-**
@@ -61,16 +51,6 @@ F’dawn ir-regolamenti, kemm-il darba ir-rabta tal-kliem ma teħtieġx xort’o
 
 "Ministru" tfisser il-Ministru responsabbli mill-immigrazzjoni;
 
-**TA’ ĊITTADINI TA’ PAJJIŻI TERZI LI JKUNU QED**
-
-**JOQOGĦDU U JAĦDMU ILLEGALMENT, U L-**
-
-**MONITORAĠĠ TA’ ĊITTADINI TA’ PAJJIŻI TERZI LI**
-
-**JKUNU ISKRITTI FI STABBILIMENTI EDUKATTIVI**
-
-*[L.S. 217.24 2*
-
 "permess għal residenza" tinkludi permess maħruġ taħt l- Att u l-leġiżlazzjoni sussidjarja li jawtorizza ċittadin ta’ pajjiż terz, li mhuwiex dipendenti fuq ċittadin tal-Unjoni Ewropea kif imfisser fid-dispożizzjonijiet tal-Ordni dwar il-Moviment Liberu ta’ ċittadini tal-Unjoni Ewropea u tal-Membri tal- Familji tagħhom, biex jgħixu f’Malta;
 
 *L.S. 460.17.*
@@ -93,17 +73,7 @@ Iżda t-Taqsima ta’ Rapportaġġ tista’ tidħol f’postijiet ta’ residenz
 
 (b) twettaq, fi kwalukwe minn dawn il-postijiet, kull tip ta’ eżaminazzjoni jew inkjesta li tqis li hija meħtieġa sabiex tissodisfa lilha nnfisha li d-dispożizzjonijiet tal-Att jew ta’ kwalunkwe regolamenti magħmulin taħtu, kif ukoll kwalunkwe kondizzjonijiet maħruġa fil-permess ta’ residenza jew viża qegħdin jiġu osservati;
 
-(ċ) titlob lil kwalunkwe persuna biex tipproduċi għall-finijiet ta’ spezzjoni, dokumentazzjoni ta’ residenza u tieħu estratti minn kotba, reġistri, attendenzi, dokumenti jew rekords relatati ma’ kwalunkwe attivitajiet regolati minn, jew TA’ ĊITTADINI TA’ PAJJIŻI TERZI LI JKUNU QED
-
-JOQOGĦDU U JAĦDMU ILLEGALMENT, U L-
-
-MONITORAĠĠ TA’ ĊITTADINI TA’ PAJJIŻI TERZI LI
-
-*3*
-
-JKUNU ISKRITTI FI STABBILIMENTI EDUKATTIVI [L.S. 217.24
-
-taħt l-Att jew kwalunkwe regolamenti magħmulin taħtu, li huma fil-kontroll ta’ dik il-persuna u, fil-każ ta’ informazzjoni f’forma illeġibbli li tirriproduċiha f’forma leġibbli, u li tagħti lit-Taqsima ta’ Rapportaġġ l-informazzjoni li tista’ raġonevolment tirrikjedi, fir-rigward ta’ kwalunkwe informazzjoni mniżżla f’tali kotba, attendenzi, dokumenti jew rekords; u
+(ċ) titlob lil kwalunkwe persuna biex tipproduċi għall-finijiet ta’ spezzjoni, dokumentazzjoni ta’ residenza u tieħu estratti minn kotba, reġistri, attendenzi, dokumenti jew rekords relatati ma’ kwalunkwe attivitajiet regolati minn, jew taħt l-Att jew kwalunkwe regolamenti magħmulin taħtu, li huma fil-kontroll ta’ dik il-persuna u, fil-każ ta’ informazzjoni f’forma illeġibbli li tirriproduċiha f’forma leġibbli, u li tagħti lit-Taqsima ta’ Rapportaġġ l-informazzjoni li tista’ raġonevolment tirrikjedi, fir-rigward ta’ kwalunkwe informazzjoni mniżżla f’tali kotba, attendenzi, dokumenti jew rekords; u
 
 (d) żżomm kopji ta’ tali kotba, reġistri, attendenzi, dokumenti jew rekords għal dak il-perijodu raġonevoli għall-eżaminazzjoni ulterjuri.
 
@@ -124,14 +94,6 @@ Kwalunkwe persuna li:
 (a) tostakola, timpedixxi jew tattakka uffiċjal tat- Taqsima ta’ Rapportaġġ waqt it-twettiq tal-funzjonijiet mogħtija minn dawn ir-regolamenti;
 
 (b) tonqos jew tirrifjuta li tikkonforma ma’ xi rekwiżit taħt ir-regolament 3;
-
-TA’ ĊITTADINI TA’ PAJJIŻI TERZI LI JKUNU QED
-
-JOQOGĦDU U JAĦDMU ILLEGALMENT, U L-
-
-*4*
-
-MONITORAĠĠ TA’ ĊITTADINI TA’ PAJJIŻI TERZI LI [L.S. 217.24 JKUNU ISKRITTI FI STABBILIMENTI EDUKATTIVI
 
 (ċ) tbiddel, trażżan jew teqred kwalunkwe kotba, reġistri, attendenzi, dokumenti jew rekords li l-persuna konċernata tkun intalbet tipproduċi, jew li raġonevolment tistenna li tkun mitluba tipproduċi;
 

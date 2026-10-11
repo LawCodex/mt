@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Master Chef Diploma - M. Chef Dip. - taħt il-patroċinju tal-Fakultà tal-Ekonomija, il-Management u l-Accountancy (S.L. 327.514)
 
-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA, IL-MAN-
-
-*1*
-
-AGEMENT U L-ACCOUNTANCY [L.S.327.514
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.514**
 
 *Sostitwit: A.L. 119 tal-2024.*
@@ -72,11 +66,7 @@ Il-kors jinfirex fuq medda ta’ erba’ semestri ta’ studju part-time li għa
 
 (1) Il-kors jikkonsisti minn numru ta’ taqsimiet studju mgħallma li għalihom hemm assenjati 60 krettu ECTS.
 
-(2) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA, IL-MAN- [L.S.327.514 AGEMENT U L-ACCOUNTANCY
-
-qabel il-bidu tal-kors.
-
-*2*
+(2) Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu tal-kors.
 
 ## 6. Klassifikazzjoni tar- Rikonoxximent.
 

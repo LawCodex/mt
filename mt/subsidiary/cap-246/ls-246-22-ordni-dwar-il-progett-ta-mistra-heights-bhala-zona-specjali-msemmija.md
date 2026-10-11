@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Ordni dwar il-Proġett ta’ Mistra Heights bħala Żona Speċjali Msemmija (S.L. 246.22)
 
-*1*
-
-BĦALA ŻONA SPEĊJALI MSEMMIJA [L.S.246.22 LEĠISLAZZJONI SUSSIDJARJA 246.22
+**LEĠISLAZZJONI SUSSIDJARJA 246.22**
 
 **ORDNI DWAR IL-PROĠETT TA’ MISTRA HEIGHTS**
 
@@ -40,7 +38,3 @@ Il-proġett ta’ Mistra Heights, li jikkonsisti fi proprjetà immobbli sitwata 
 ## 3. Żieda mal-Ewwel Skeda li tinsab mal-Att. Kap. 246.
 
 Il-proġett ta’ Mistra Heights għandu jiżdied mal-Lista ta’ Żoni Skedati fl-Ewwel Skeda li tinsab mal-Att dwar l-Akkwist ta’ Proprjetà Immobbli minn Persuni Mhux Residenti.
-
-*2*
-
-[L.S. 246.22 BĦALA ŻONA SPEĊJALI MSEMMIJA

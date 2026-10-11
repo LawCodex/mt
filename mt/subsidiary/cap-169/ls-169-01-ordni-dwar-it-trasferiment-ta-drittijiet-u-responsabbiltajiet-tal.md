@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar it-Trasferiment ta' Drittijiet u Responsabbiltajiet tal-Kummissarju tal-Artijiet"
-identifier: "S.L. 169.1"
+identifier: "S.L. 169.01"
 eli: "https://legislation.mt/eli/sl/169.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/169.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar it-Trasferiment ta' Drittijiet u Responsabbiltajiet tal-Kummissarju tal-Artijiet (S.L. 169.1)
-
-*1*
-
-TAL-KUMMISSARJU TAL-ARTIJIET [L.S.169.01
+# Ordni dwar it-Trasferiment ta' Drittijiet u Responsabbiltajiet tal-Kummissarju tal-Artijiet (S.L. 169.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 169.01**
 
@@ -44,10 +40,6 @@ Id-drittijiet u r-responsabbiltajiet rigward l-artijiet speċifikati għandhom b
 ## 4. Trasferiment lura ta’ drittijiet u responsabbiltajiet.
 
 Id-drittijiet u r-responsabbiltajiet fir-rigward ta’ l-artijiet imsemmija fit-Tieni Skeda huma, b’effett mid-data speċifikata fl-istess Skeda, trasferiti lura lill-Kummissarju tal-Artijiet.
-
-*2*
-
-[L.S.169.01 TAL-KUMMISSARJU TAL-ARTIJIET
 
 ## L-EWWEL SKEDA — Deskrizzjoni.
 
@@ -81,10 +73,6 @@ Il-pjanti L.D. 1/92, L.D. 2/92 u L.D. 3/92 huma transunti fl-atti tan-Nutar Vinc
 
 (12) Biċċa art fiż-Żejtun flimkien mal-bini hemmhekk mibni li tidher delineata bl-aħmar fuq il-pjanta L.D. 8/92/2, liema pjanta hija transunta fl-atti tan-Nutar Vincent Miceli permezz ta’ l-att pubbliku datat 12 ta’ Lulju, 1994.
 
-*3*
-
-TAL-KUMMISSARJU TAL-ARTIJIET [L.S.169.01
-
 (13) (Revokat bl-A.L. 69 tal-2012).
 
 (14) Biċċa art fix-Xewkija, Għawdex, flimkien mal-bini hemmhekk mibni li tidher delineata bil-blu fuq il-pjanta L.D. 205/ 93, liema pjanta hija transunta fl-atti tan-Nutar Vincent Miceli permezz ta’ l-att pubbliku datat 24 ta’ Novembru, 1993.
@@ -117,11 +105,7 @@ Biċċa art, flimkien mal-bini hemmhekk mibni, f’Ħal Kirkop li tidher delinea
 
 VI. Mill-1 ta’ Novembru, 1999:
 
-Biċċa art, flimkien mal-bini hemmhekk mibni, f’Ħal [L.S.169.01 TAL-KUMMISSARJU TAL-ARTIJIET
-
-Kirkop li tidher delineata bl-aħmar fuq il-pjanta L.D. No. 180/99, liema pjanta ġiet transunta fl-atti tan-Nutar Vincenti Miceli fis-26 ta’ Ottubru, 1999.
-
-*4*
+Biċċa art, flimkien mal-bini hemmhekk mibni, f’Ħal Kirkop li tidher delineata bl-aħmar fuq il-pjanta L.D. No. 180/99, liema pjanta ġiet transunta fl-atti tan-Nutar Vincenti Miceli fis-26 ta’ Ottubru, 1999.
 
 VII. Mill-1 ta’ Settembru, 2001:
 
@@ -157,11 +141,7 @@ Biċċa art ġewwa Ħal-Luqa, inkluż kull bini li hemm fuqha, li tidher delinea
 
 XVI. Mill-1 ta’ Jannar, 2008:
 
-Biċċa art ġewwa San Ġwann, inkluż kull bini li hemm fuqha, li tidher delineata bl-aħmar fuq il-pjanta P.D. 6\_92\_2 liema pjanta ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att TAL-KUMMISSARJU TAL-ARTIJIET [L.S.169.01
-
-pubbliku tal-10 ta’ Marzu, 2009.
-
-*5*
+Biċċa art ġewwa San Ġwann, inkluż kull bini li hemm fuqha, li tidher delineata bl-aħmar fuq il-pjanta P.D. 6\_92\_2 liema pjanta ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att pubbliku tal-10 ta’ Marzu, 2009.
 
 XVII. Mill-1 ta’ Diċembru, 2009:
 
@@ -189,11 +169,7 @@ XX. Mill-1 ta’ Lulju, 2010:
 
 XXI. Mill-1 ta’ Novembru, 2010:
 
-Biċċa art, inkluż kull bini li hemm fuqha, ġewwa l-Pietà li tidher immarkata bl-aħmar fuq il-pjanta P.D. 2011\_654, liema pjanta ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att pubbliku [L.S.169.01 TAL-KUMMISSARJU TAL-ARTIJIET
-
-tal-5 ta’ Settembru 2011.
-
-*6*
+Biċċa art, inkluż kull bini li hemm fuqha, ġewwa l-Pietà li tidher immarkata bl-aħmar fuq il-pjanta P.D. 2011\_654, liema pjanta ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att pubbliku tal-5 ta’ Settembru 2011.
 
 XXII. Mill-1 ta’ Jannar, 2011:
 
@@ -223,11 +199,7 @@ Biċċa art, inkluż kull bini li hemm fuqha, ġewwa il-Mellieħa Tat-Tomna li t
 
 XXVII. Mill-1 ta’ Jannar, 2012:
 
-Biċċa art, inkluż kull bini li hemm fuqha, ġewwa ż-Żejtun li tidher immarkata bl-aħmar fuq il-pjanta P.D. 2012 312, u dik il-pjanta ġiet transunta fl-Atti tan-Nutar Tania Spiteri permezz ta’ att TAL-KUMMISSARJU TAL-ARTIJIET [L.S.169.01
-
-pubbliku tat-28 ta’ Marzu 2012.
-
-*7*
+Biċċa art, inkluż kull bini li hemm fuqha, ġewwa ż-Żejtun li tidher immarkata bl-aħmar fuq il-pjanta P.D. 2012 312, u dik il-pjanta ġiet transunta fl-Atti tan-Nutar Tania Spiteri permezz ta’ att pubbliku tat-28 ta’ Marzu 2012.
 
 XXVIII. Mill-1 ta’ Novembru, 2012:
 
@@ -259,11 +231,7 @@ XXXIII. Mill-1 ta’ Settembru, 2014:
 
 (a) Biċċa art, inkluż kull bini li hemm fuqha, ġewwa Raħal Ġdid li tidher immarkata bl-aħmar u bin-numru 2 fuq il-pjanta P.D.2006\_82\_B, u dik il-pjanta ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att pubbliku tat-12 ta’ Settembru 2014.
 
-(b) Biċċa art, inkluż kull bini li hemm fuqha, ġewwa Raħal Ġdid li tidher immarkata bl-aħmar u bin-numru 3 fuq il-pjanta P.D.2006\_82\_B, u dik il-pjanta ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att pubbliku datat 12 ta’ Settembru [L.S.169.01 TAL-KUMMISSARJU TAL-ARTIJIET
-
-\2014.
-
-*8*
+(b) Biċċa art, inkluż kull bini li hemm fuqha, ġewwa Raħal Ġdid li tidher immarkata bl-aħmar u bin-numru 3 fuq il-pjanta P.D.2006\_82\_B, u dik il-pjanta ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att pubbliku datat 12 ta’ Settembru 2014.
 
 (ċ) Biċċa art, inkluż kull bini li hemm fuqha, ġewwa Ħal Luqa li tidher immarkata bl-aħmar fuq il-pjanta PD2009\_620, u dik il-pjanta ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att pubbliku tat-12 ta’ Settembru 2014.
 
@@ -288,10 +256,6 @@ b
 XXXVI. Mit-12 ta’ Lulju, 2016:
 
 Biċtejn art, inkluż kull bini, strutturi u baċir li hemm fuqhom, ġewwa l-Marsa li jidhru murija b’bordura ħamra fuq il-pjanta P.D.2008\_397\_1D u mmarkati bl-ittri ‘A’ u ‘B’ rispettivament, u dik il-pjanta ġiet transunta fl-Atti tan-Nutar Anthony Hili permezz ta’ att pubbliku datat 13 ta’ Lulju 2016.
-
-*9*
-
-TAL-KUMMISSARJU TAL-ARTIJIET [L.S.169.01
 
 ## IT-TIENI SKEDA — Drittijiet u responsabbiltajiet dwar artijiet trasferiti lura — lill-Kummissarju ta’ l-Artijiet
 
@@ -329,11 +293,7 @@ Riferenza għal din l-art tinsab fl-Ordni ta’ l-1993 dwar il- Kummissarju ta�
 
 VI. Mill-1 ta’ Jannar, 2010:
 
-Art ġewwa Birżebbugia, inkluż kull bini li hemm fuqha, li tidher delineata bl-aħmar fuq il-pjanta P.D. 2009 572, liema pjanta [L.S.169.01 TAL-KUMMISSARJU TAL-ARTIJIET
-
-ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att pubbliku tat-8 ta’ Jannar, 2010.
-
-*10*
+Art ġewwa Birżebbugia, inkluż kull bini li hemm fuqha, li tidher delineata bl-aħmar fuq il-pjanta P.D. 2009 572, liema pjanta ġiet transunta fl-Atti tan-Nutar Diana Charles permezz ta’ att pubbliku tat-8 ta’ Jannar, 2010.
 
 VII. Mill-1 ta’ Lulju, 2011:
 
@@ -366,10 +326,6 @@ XIII. Mill-1 ta’ Ottubru, 2014:
 Biċċa art, inkluż kull bini li hemm fuqha, ġewwa Raħal Ġdid li tidher immarkata bl-aħmar fuq il-pjanta P.D.2014\_585, u dik il-pjanta ġiet transunta fl-Atti tan-Nutar Tania Spiteri permezz ta’ att pubbliku tal-1 ta’ Ottubru 2014.
 
 XIV. Mill-1 ta’ Jannar, 2015:
-
-*11*
-
-TAL-KUMMISSARJU TAL-ARTIJIET [L.S.169.01
 
 (a) Clubhouse mingħajr l-arja tagħha u l-pitch tal-boċċi fil-kumpless sportiv, fi Triq Diċembru Tlettax, Marsa, reġistrata bħala Tenement Numru 78913 u li tidher immarkata fuq il-pjanta P.D. 112\_2001.
 

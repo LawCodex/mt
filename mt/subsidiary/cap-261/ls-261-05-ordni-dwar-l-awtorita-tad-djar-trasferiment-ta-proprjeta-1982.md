@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1982)"
-identifier: "S.L. 261.5"
+identifier: "S.L. 261.05"
 eli: "https://legislation.mt/eli/sl/261.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,9 +13,7 @@ version: "https://legislation.mt/eli/sl/261.5/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1982) (S.L. 261.5)
-
-(TRASFERIMENT TA’ PROPRJETÀ) (1982) [ L.S.261.05
+# Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1982) (S.L. 261.05)
 
 **LE{ISLAZZJONI SUSSIDJARJA 261.05**
 
@@ -101,7 +99,7 @@ B’se]] mis-26 ta’ Jannar, 1982:
 
 (ii) Flat Numru 4, Blokk Q, Triq Hawthorn, Estate tad-Djar tal-Gvern, Santa Lucia;
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1982) [ L.S.261.05 (iii) Id-dar numru 135, Triq Helen Buhagiar, Estate tad-Djar tal-Gvern, Santa Lncia.
+(iii) Id-dar numru 135, Triq Helen Buhagiar, Estate tad-Djar tal-Gvern, Santa Lncia.
 
 (p) Id-dar numru 4, Area 9, Estate tad-Djar tal-Gvern, Ta’ Giorni, limiti ta’ San {iljan.
 
@@ -183,9 +181,9 @@ Paris, Birkirkara.
 
 (ii) Id-dar numru 21, Triq 7 ta’ {unju 1919, Estate tad-Djar tal-Gvern Ta`-~awla, ir-Rabat, G]awdex.
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1982) [ L.S.261.05 B’se]] mill-11 ta’ {unju, 1982:
-
 *\3.*
+
+B’se]] mill-11 ta’ {unju, 1982:
 
 (a) Id-dar numru 79, Estate tad-Djar tal-Gvern, }ad Dingli.
 
@@ -283,7 +281,7 @@ B’se]] mill-14 ta’ Settembru, 1982:
 
 *\5.*
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1982) [ L.S.261.05 (a) Id-dar numru 3, Row E3, Estate tad-Djar tal-Gvern Ta’ Paris, Birkirkara,
+(a) Id-dar numru 3, Row E3, Estate tad-Djar tal-Gvern Ta’ Paris, Birkirkara,
 
 (b) Id-dar numru 97, Estate tad-Djar tal-Gvern, }ad- Dingli.
 

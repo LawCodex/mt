@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Estradizzjoni (Repubblika tat-Tuniżija)"
-identifier: "S.L. 276.6"
+identifier: "S.L. 276.06"
 eli: "https://legislation.mt/eli/sl/276.6"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/276.6/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Estradizzjoni (Repubblika tat-Tuniżija) (S.L. 276.6)
+# Ordni dwar l-Estradizzjoni (Repubblika tat-Tuniżija) (S.L. 276.06)
 
 **LE{ISLAZZJONI SUSSIDJARJA 276.06**
 

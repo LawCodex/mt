@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar il-Liċenzi tal-Aġenti"
-identifier: "S.L. 188.5"
+identifier: "S.L. 188.05"
 eli: "https://legislation.mt/eli/sl/188.5"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/188.5/20260313/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar il-Liċenzi tal-Aġenti (S.L. 188.5)
+# Regolamenti dwar il-Liċenzi tal-Aġenti (S.L. 188.05)
 
 **LEĠISLAZZJONI SUSSIDJARJA 188.05**
 

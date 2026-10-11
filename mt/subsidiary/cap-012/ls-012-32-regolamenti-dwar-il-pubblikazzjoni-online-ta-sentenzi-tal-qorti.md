@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar il-Pubblikazzjoni Online ta’ Sentenzi tal-Qorti (Protezzjoni tad-Data) Għoti ta’ Funzjonijiet (S.L. 12.32)
 
-PUBBLIKAZZJONI ONLINE TA’ SENTENZI TAL-QORTI
-
-*1*
-
-(PROTEZZJONI TAD-DATA) GĦOTI TA’ FUNZJONIJIET [L.S. 12.32
-
 **LEĠISLAZZJONI SUSSIDJARJA 12.32**
 
 **REGOLAMENTI DWAR IL-PUBBLIKAZZJONI**

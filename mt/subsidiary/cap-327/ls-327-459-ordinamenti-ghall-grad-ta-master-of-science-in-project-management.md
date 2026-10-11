@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Project Management taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.459)
 
-MANAGEMENT TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.459
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.459**
 
 ORDINAMENTI GĦALL-GRAD TA’ MASTER OF
@@ -70,13 +64,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (b) grad tal-ewwel ċiklu mill-Università ta’ Malta miksub mill-inqas fit-Tielet Klassi bl-Unuri fid-dixxiplini msemmija fil-paragrafu (a) ta’ dan l-ordinament, jekk ikollhom ukoll kwalifiki oħrajn jew għall-anqas 3 snin esperjenza f’xogħol rilevanti, miksuba wara l-grad tal-ewwel ċiklu. Id-dħul tal-applikanti skont dan l-ordinament għandu jkun suġġett għar-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq; jew
 
-(ċ) sħubija ma’ istituzzjoni professjonali chartered rikonoxxuta fil-qasam tal-kostruzzjoni. Id-dħul tal-applikanti skont dan l-ordinament jista’ jkun suġġett għar-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis MANAGEMENT TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.459 TAL-FAKULTÀ TAL-AMBJENT MIBNI
-
-xieraq, iżda li tinkludi intervista; jew
+(ċ) sħubija ma’ istituzzjoni professjonali chartered rikonoxxuta fil-qasam tal-kostruzzjoni. Id-dħul tal-applikanti skont dan l-ordinament jista’ jkun suġġett għar-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq, iżda li tinkludi intervista; jew
 
 (d) kwalifika meqjusa mis-Senat, fuq ir-rakkomandazzjoni tal-Bord, bħala komparabbli għall-kwalifiki msemmija fil-paragrafi (a) u (b) ta’ dan l-ordinament, partikolarment fejn l-applikant jista’ juri li għandu mill-inqas 10 snin esperjenza fl-immaniġġjar fil-qasam tal-kostruzzjoni. Id-dħul tal-applikanti skont dan l-ordinament jista’ jkun suġġett għar-riżultati ta’ valutazzjoni kif il-Bord jista’ jqis xieraq, iżda li tinkludi intervista.
 
@@ -106,11 +94,7 @@ Il-kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (1) L-istudenti huma meħtieġa jippreżentaw dissertazzjoni individwali ta’ madwar 25,000 kelma skont il-linji gwida maħruġin mill-Bord.
 
-(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir fit-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ MANAGEMENT TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAL-AMBJENT MIBNI [L.S.327.459 studju.
+(2) Ix-xogħol fuq id-dissertazzjoni għandu jsir fit-tielet semestru tal-kors. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
 (3) It-titolu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-aħħar tat-tieni semestru.
 

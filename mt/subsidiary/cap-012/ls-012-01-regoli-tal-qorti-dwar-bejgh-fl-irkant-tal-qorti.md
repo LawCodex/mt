@@ -1,6 +1,6 @@
 ---
 title: "Regoli tal-Qorti dwar Bejgħ fl-Irkant tal-Qorti"
-identifier: "S.L. 12.1"
+identifier: "S.L. 12.01"
 eli: "https://legislation.mt/eli/sl/12.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/12.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli tal-Qorti dwar Bejgħ fl-Irkant tal-Qorti (S.L. 12.1)
+# Regoli tal-Qorti dwar Bejgħ fl-Irkant tal-Qorti (S.L. 12.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 12.01**
 

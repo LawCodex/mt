@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar Ordnijiet Permanenti tal-Kamra tad-Deputati"
-identifier: "S.L. const.2"
+identifier: "S.L. const.02"
 eli: "https://legislation.mt/eli/sl/const.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/const.2/20250716/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar Ordnijiet Permanenti tal-Kamra tad-Deputati (S.L. const.2)
-
-*1*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
+# Ordni dwar Ordnijiet Permanenti tal-Kamra tad-Deputati (S.L. const.02)
 
 **LEĠISLAZZJONI SUSSIDJARJA KOST.02**
 
@@ -65,10 +61,6 @@ Maħruġa skont id-dispożizzjonijiet tal-artikolu 7 (3) tal-Ordni tal- 1964 dwa
 
 "membru" tfisser membru tal-Kamra;
 
-*2*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
 "Ministru" tfisser membru maħtur bħala hekk skont id-dispożizzjonijiet tal-artikolu 81 tal-Kostituzzjoni;
 
 "mozzjoni" tinkludi emenda;
@@ -104,10 +96,6 @@ Meta l-Kamra tiltaqa’ l-ewwel darba wara xi elezzjoni ġenerali u qabel ma tip
 *Emendat: A.L. 46 tal-1965.*
 
 Meta l-Kamra tiltaqa’ l-ewwel darba wara xi elezzjoni ġenerali u qabel ma tipproċedi għat-tmexxija ta’ xi xogħol ieħor barra mill-elezzjoni tal-iSpeaker, il-Kamra għandha teleġġi membru tal-Kamra li ma jkunx Ministru jew Segretarju Parlamentari biex ikun Deputy Speaker tal-Kamra; u, jekk il-kariga ta’ Deputy Speaker issir vakanti f’xi żmien, qabel il-xoljiment sussegwenti tal-Parlament, il-Kamra għandha, malli jkun konvenjenti, teleġġi membru ieħor għal dik il-kariga.
-
-*3*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
 
 ## 5. Il-membri għandhom jieħdu ġurament.
 
@@ -145,11 +133,7 @@ Ebda ħaġa f’dawn id-dispożizzjonijiet ma għandha tiftiehem li timpedixxi l
 
 ## 8. Ġranet ta’ laqgħat.
 
-(1) Kemm-il darba l-Kamra ma tordnax xort’oħra, il- Kamra għandha tiltaqa’ fil-5 p.m. nhar ta’ Tnejn u nhar ta’ Ħamis f’kull ġimgħa (ħlief fil-festi pubbliċi) u f’dawk il-ġranet l-oħra u [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-f’dak il-ħin l-ieħor kif il-Kamra tista’ tiddeċiedi minn żmien għal żmien, jew kif l-iSpeaker jista’ jistabbilixxi għal raġunijiet ta’ urġenza.
-
-*4*
+(1) Kemm-il darba l-Kamra ma tordnax xort’oħra, il- Kamra għandha tiltaqa’ fil-5 p.m. nhar ta’ Tnejn u nhar ta’ Ħamis f’kull ġimgħa (ħlief fil-festi pubbliċi) u f’dawk il-ġranet l-oħra u f’dak il-ħin l-ieħor kif il-Kamra tista’ tiddeċiedi minn żmien għal żmien, jew kif l-iSpeaker jista’ jistabbilixxi għal raġunijiet ta’ urġenza.
 
 (2) Bla ħsara għad-dispożizzjonijiet tal-ordni permanenti 7 (3) xogħol ta’ membri privati għandu jkollu preċedenza fuq xogħol tal-gvern kull nhar ta’ Ħamis alternattiv li fih tagħmel seduta l-Kamra.
 
@@ -183,10 +167,6 @@ F’każ li l-Kamra għal xi raġuni tkun li tkun ma tiltaqax f’xi ġurnata st
 
 (1) Ebda mozzjoni għall-Aġġornament tal-Kamra fuq ħaġa definita ta’ importanza pubblika urġenti ma tista’ ssir kemm-il darba membru fil-bidu tax-xogħol (jiġifieri wara l-mistoqsijiet u qabel il-mozzjonijiet jew l-ordnijiet tal-ġurnata, skont il-każ) ma jqumx minn postu u jitlob il-permess li jressaq l-Aġġornament tal- Kamra sabiex tiġi diskussa ħaġa definita ta’ importanza pubblika urġenti, u wara hekk huwa jsemmi l-ħaġa u jagħti lill-iSpeaker dikjarazzjoni miktuba dwar is-suġġett li għandu jiġi diskuss.
 
-*5*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
 (2) L-iSpeaker għandu wara hekk jitlob lill-membri li jappoġġaw il-mozzjoni biex iqumu minn posthom, u jekk mhux anqas minn għaxra jqumu, il-mozzjoni tibqa’ għas-7 p.m. tal-istess ġurnata. Iżda, jekk anqas minn għaxra iżda mhux anqas minn ħamsa jkunu hekk qamu, il-membru jista’, jekk jidhirlu xieraq, jitlob votazzjoni, wara 1i tkun ġiet imressqa għall-voti minnufih u ġiet deċiża bla emenda jew diskussjoni, biex jiġi deċiż jekk dik il-mozzjoni tistax issir.
 
 (3) Ebda mozzjoni għall-Aġġornament skont dan l-ordni permanenti ma tista’ ssir matul xi diskussjoni.
@@ -209,11 +189,7 @@ Jekk 1-iSpeaker jew il-President ta’ Kumitat tal-Kamra kollha jkun tal-fehma i
 
 (1) Wara li l-kwistjoni tkun ġiet proposta u diskussa għal mhux anqas minn siegħa membru jista’ jitlob li jressaq il-mozzjoni "Li l-kwistjoni titqiegħed issa għall-voti", u, kemm-il darba l-iSpeaker jew il-President ma jidhirlux illi dik il-mozzjoni tkun abbuż tar-regoli tal-Kamra, jew ksur tad-drittijiet tal-minoranza, il-mozzjoni "Li l-kwistjoni titqiegħed issa għall-voti" għandha titqiegħed minnufih għall-voti u deċiża mingħajr emenda jew diskussjoni.
 
-(2) Meta l-mozzjoni "Li l-kwistjoni titqiegħed issa għall-voti" tkun ġiet approvata, u l-kwistjoni konsegwenzjali tkun ġiet deċiża, tista’ ssir kull mozzjoni oħra (jekk il-President, kif intqal, ikun ta l-kunsens tiegħu) li tkun meħtieġa biex tinġieb għal deċiżjoni xi kwistjoni li tkun ġa proposta mill-President; u wkoll jekk ikun hemm klawsola li tkun qed tiġi kkonsidrata, tista’ ssir mozzjoni (jekk il-President, kif intqal, ikun ta l-kunsens tiegħu), li l-kwistjoni, li ċerti kliem tal-klawsola mfissra fil-mozzjoni jsiru parti mill-klawsola, jew li l-klawsola ssir parti ta’, jew tiżdied mal-abbozz ta’ liġi, tiġi mqiegħda għall-voti. Dawn il-mozzjonijiet għandhom minnufih jitqiegħdu għall-voti, u jiġu deċiżi mingħajr [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-emenda jew diskussjoni.
-
-*6*
+(2) Meta l-mozzjoni "Li l-kwistjoni titqiegħed issa għall-voti" tkun ġiet approvata, u l-kwistjoni konsegwenzjali tkun ġiet deċiża, tista’ ssir kull mozzjoni oħra (jekk il-President, kif intqal, ikun ta l-kunsens tiegħu) li tkun meħtieġa biex tinġieb għal deċiżjoni xi kwistjoni li tkun ġa proposta mill-President; u wkoll jekk ikun hemm klawsola li tkun qed tiġi kkonsidrata, tista’ ssir mozzjoni (jekk il-President, kif intqal, ikun ta l-kunsens tiegħu), li l-kwistjoni, li ċerti kliem tal-klawsola mfissra fil-mozzjoni jsiru parti mill-klawsola, jew li l-klawsola ssir parti ta’, jew tiżdied mal-abbozz ta’ liġi, tiġi mqiegħda għall-voti. Dawn il-mozzjonijiet għandhom minnufih jitqiegħdu għall-voti, u jiġu deċiżi mingħajr emenda jew diskussjoni.
 
 (3) Iżda dejjem li din ir-regola ma tiġix infurzata -
 
@@ -265,10 +241,6 @@ Fil-ġranet riżervati għax-xogħol tal-gvern, il-Gvern jista’ jirranġa dak 
 
 Ħlief bil-permess tal-Kamra, li jkun deċiż mingħajr emenda jew diskussjoni, l-ordnijiet tal-ġurnata għandhom jiġu trattati fl-ordni li jkunu fuq l-aġenda.
 
-*7*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
 ## 21. Kwistjonijiet għandhom jiġu deċiżi b’maġġoranza ta’ voti.
 
 *Emendat: A.L. 46 tal-1965.*
@@ -315,11 +287,7 @@ L-iskop xieraq ta’ interpellanza jkun li jinkiseb tagħrif dwar ħaġa ta’ f
 
 (3) interpellanza ma għandha jkollha ebda argument, opinjoni, inferenza, imputazzjoni, epitetu jew espressjoni ironika;
 
-(4) ma għandhiex issir interpellanza dwar proċeduri [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-f’kumitat li ma jkunux tqiegħdu quddiem il-Kamra b’rapport tal-kumitat;
-
-*8*
+(4) ma għandhiex issir interpellanza dwar proċeduri f’kumitat li ma jkunux tqiegħdu quddiem il-Kamra b’rapport tal-kumitat;
 
 (5) interpellanza ma għandhiex titlob għoti ta’ opinjoni jew soluzzjoni ta’ kwistjoni legali astratta jew proposizzjoni ipotetika;
 
@@ -359,17 +327,13 @@ Membru jista’, jekk ikun hekk awtorizzat minn membru ieħor li ma jkunx dak il
 
 ## 34. Ebda mozzjoni ma titressaqfil-ġurnata ta’ l-avviż.
 
-(1) Ebda mozzjoni ma għandha titressaq fl-istess ġurnata li fiha jingħata l-avviż ħlief kif maħsub fl-ordni permanenti 13. TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
-*Meta mozzjoni titqies bħala rtirata.*
-
-(2) Mozzjoni titqies bħala rtirata jekk ma titressaqx għeluq xahar mill-ġurnata li fiha l-avviż ikun ingħata, kemm-il darba l-avviż ma jiġix imġedded.
-
-*9*
+(1) Ebda mozzjoni ma għandha titressaq fl-istess ġurnata li fiha jingħata l-avviż ħlief kif maħsub fl-ordni permanenti 13. (2) Mozzjoni titqies bħala rtirata jekk ma titressaqx għeluq xahar mill-ġurnata li fiha l-avviż ikun ingħata, kemm-il darba l-avviż ma jiġix imġedded.
 
 ## 35. Mozzjonijiet bla avviż.
 
 Kull mozzjoni teħtieġ avviż kemm-il darba ma taqax taħt wieħed minn dawn il-każijiet eċċetwati li ġejjin:
+
+*Meta mozzjoni titqies bħala rtirata.*
 
 (1) mozzjoni bħala emenda għall-kwistjoni ġa proposta mill-iSpeaker jew mill-president;
 
@@ -409,11 +373,7 @@ Jekk membru ma jkunx f’postu meta l-mozzjoni mressqa f’ismu tiġi msejħa, j
 
 ## 39. Mozzjonijiet jew emendi jistgħu jiġu rtirati.
 
-Membru li jkun għamel emenda jew mozzjoni jista’ jirtirahom bil-permess tal-Kamra li jiġi deċiż mingħajr emenda jew diskussjoni. Meta tiġi proposta emenda għal mozzjoni, il-mozzjoni [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-oriġinali ma tistax tiġi rtirata qabel ma tiġi trattata l-emenda.
-
-*10*
+Membru li jkun għamel emenda jew mozzjoni jista’ jirtirahom bil-permess tal-Kamra li jiġi deċiż mingħajr emenda jew diskussjoni. Meta tiġi proposta emenda għal mozzjoni, il-mozzjoni oriġinali ma tistax tiġi rtirata qabel ma tiġi trattata l-emenda.
 
 ## 40. Mozzjoni rtirata tista’ terġa’ titressaq.
 
@@ -459,10 +419,6 @@ Meta membru jqum biex jitkellem, jiġi msejjaħ mill-iSpeaker jew mill-president
 
 Membru ma għandux jaqra d-diskors tiegħu, iżda jista’ jgħin il-memorja tiegħu billi jirriferixxi għal noti.
 
-*11*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
 ## 48. Il-membri għandhom jitkellmu fuq il-kwistjoni.
 
 Id-diskussjoni għandha tkun rilevanti għall-ħaġa jew kwistjoni quddiem il-Kamra jew il-kumitat u, meta iżjed minn kwistjoni waħda tkun ġiet proposta, d-diskussjoni għandha tkun rilevanti għall-aħħar kwistjoni proposta sakemm tiġi meħlusa:
@@ -499,11 +455,7 @@ Membru li jkun ressaq jew issekonda mozzjoni (ħlief mozzjoni ta’ Aġġornamen
 
 Dritt ta’ replika hu permess biss lil membru li jkun ressaq mozzjoni sostantiva, mhux magħduda emenda għal dik il-mozzjoni, jew li jkun ressaq ordni tal-ġurnata, jew li jkun ippreżenta d- Dikjarazzjoni Finanzjarja.
 
-Ebda membru ma għandu jitkellem wara r-replika ta’ min [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-ikun ressaq mozzjoni.
-
-*12*
+Ebda membru ma għandu jitkellem wara r-replika ta’ min ikun ressaq mozzjoni.
 
 ## 54. Id-diskussjoni tispiċċa meta kwistjoni titqiegħed għal kollox għall-voti.
 
@@ -545,10 +497,6 @@ Kull membru li jkun uża kliem oġġezzjonabbli u li ma jirtirax l-istess, jew m
 
 Fuq kwistjoni ta’ ordni li tiġi mqanqla fil-Kamra, il-membru msejjaħ għall-ordni għandu jerġa’ jieħu postu u wara li tingħad il-kwistjoni ta’ ordni lill-iSpeaker mill-membru li jqum fuq il-kwistjoni ta’ ordni, l-iSpeaker għandu jagħti d-deċiżjoni tiegħu dwarha u dik id-deċiżjoni ma għandhiex tiġi diskussa matul dik is-seduta; iżda kull membru jkun jista’ b’mozzjoni magħmula wara avviż u fi żmien jumejn mill-għoti ta’ dik id-deċiżjoni, jagħmel mozzjoni 1i dik id-deċiżjoni tal-iSpeaker tiġi riveduta u li jsir rapport fuqha mill-Kamra; dak ir-rapport għandu jitniżżel fil-minuti tal-proċeduri tal-Kamra.
 
-*13*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
 ## 63. Kif tiġi trattata mġieba ta’ diżordni fil-Kamra.
 
 (1) L-iSpeaker jew il-President jista’ jordna lil kull membru li l-imġieba tiegħu tkun ta’ diżordni kbir biex jirtira minnufih mill-Kamra għal matul il-bqija tas-seduta ta’ dik il-ġurnata; u l-Marixxall jew uffiċjal ieħor awtorizzat mill-iSpeaker għandu jaġixxi fuq dawk l-ordnijiet li jista’ jirċievi mill-iSpeaker jew mill-President skont dan l-ordni permanenti.
@@ -570,10 +518,6 @@ TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
 *Membru jista’ jitlob skuża.*
 
 (2) Iżda meta l-iSpeaker jirċievi mingħand il-membru hekk sospiż dikjarazzjoni bil-miktub u kif jixraq ta’ dispjaċir, li titniżżel fil-minuti tal-proċeduri tal-Kamra, l-iSpeaker għandu jqegħedha quddiem il-Kamra u, wara mozzjoni magħmula minnufih, iqiegħed għall-voti l-proposta għat-tneħħija tal-ordni tas-sospensjoni, bla emenda jew Aġġornament, u wara dan, jekk il-proposta tiġi milqugħa, l-ordni għandu jitneħħa u l-membru ammess mill-ġdid; iżda dejjem li s-sospensjoni mis-servizz tal-Kamra ma teżentax lill-membru hekk sospiż milli jservi fuq xi kumitat permanenti jew kumitat magħżul li kien ġie maħtur biex fih iservi qabel is-sospensjoni tiegħu; iżda wkoll li mhux iżjed minn membru wieħed ma għandu jiġi msemmi fl-istess ħin, ħlief jekk diversi membri, preżenti flimkien, ikunu flimkien injoraw l-awtorità tal-iSpeaker jew tal-president.
-
-*14*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
 
 ## 65. Membru għandu jirtira waqt li l-imġieba tiegħu tkun qed tiġi diskussa.
 
@@ -613,11 +557,7 @@ Kull rakkomandazzjoni tal-President ta’ Malta tiġi komunikata minn Ministru k
 
 ## 71. Rimedju għall-ilmenti jista’ jiġi kkonsidrat.
 
-(1) Fl-okkażjoni ta’ mozzjoni li l-Kamra tirriżolvi ruħha f’Kumitat ta’ Provvista għall-konsiderazzjoni tal-Estimi Ġenerali jew ta’ xi Estimu Supplementarju (sew jekk jikkonsisti f ’kap wieħed sew f’iżjed) jistgħu jiġu kkonsidrati lmenti u r-rimedji tagħhom u tista’ ssir diskussjoni ġenerali tal-policy tal-Gvern u jistgħu jsiru emendi għall-proposta formali li l-iSpeaker għandu TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
-jħalli postu.
-
-*15*
+(1) Fl-okkażjoni ta’ mozzjoni li l-Kamra tirriżolvi ruħha f’Kumitat ta’ Provvista għall-konsiderazzjoni tal-Estimi Ġenerali jew ta’ xi Estimu Supplementarju (sew jekk jikkonsisti f ’kap wieħed sew f’iżjed) jistgħu jiġu kkonsidrati lmenti u r-rimedji tagħhom u tista’ ssir diskussjoni ġenerali tal-policy tal-Gvern u jistgħu jsiru emendi għall-proposta formali li l-iSpeaker għandu jħalli postu.
 
 *Meta l-iSpeaker iħalli postu mingħajr votazzjoni.*
 
@@ -650,10 +590,6 @@ Fuq mozzjoni, li tagħha jingħata avviż, u li tkun deċiża mingħajr emenda j
 *Fid-9 p.m. fl-aħħar ġurnata titqiegħed proposta fuq il-voti kollha li jkun fadal.*
 
 (f) Fid-9 p.m. fl-aħħar tal-ġranet hekk imħollija, il- President għandu minnufih iqiegħed għall-voti l-proposta li f’dak il-ħin tkun qed tiġi kkonsidrata u għandu mbagħad iqiegħed il-proposta dwar il-voti li jkun baqa’ tal-Estimi wieħed wieħed. Dawn il-proposti kollha jiġu deċiżi mingħajr ebda emenda jew diskussjoni. Huwa għandu mbagħad iħalli postu, mingħajr votazzjoni, u jagħmel ir-rapport tiegħu lill- Kamra.
-
-*16*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
 
 ## 72. Proċedura f’Kumitat ta’ Provvista.
 
@@ -703,10 +639,6 @@ Meta l-iSpeaker jerġa’ jieħu postu, il-President għandu jirrapporta li l-Ku
 
 Għandha titressaq imbagħad riżoluzzjoni li tawtorizza l-għoti mill-Fond Konsolidat tal-flus, jew tal-bilanċ tal-flus meħtieġa, u li tordna lill-Ministru tal-Finanzi jew Ministru ieħor biex iressaq l-abbozz ta’ liġi dwar Approprjazzjoni. Meta dan l-abbozz ta’ liġi jiġi ppreżentat għandu jitqies li jkun inqara l-ewwel darba u għandu jiġi stampat.
 
-*17*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
 **VII. Votazzjonijiet**
 
 ## 83. Membru jista’ jitlob li ssir votazzjoni.
@@ -742,10 +674,6 @@ Ebda membru ma jkollu dritt jivvota fil-Kamra jew f ’kumitat tal-Kamra kollha 
 Wara mozzjoni li tkun avżata kif imiss, il-Kamra tkun tista’ tissospendi kull membru li jkun ivvota fuq xi kwistjoni bħal dik milli jattendi s-seduti tagħha għall-bqija tas-sessjoni.
 
 Iżda kull membru jkollu dritt jivvota fuq kull kwistjoni dwar ħlasijiet personali jew allowance parlamentari li għalihom jista’ jkollu dritt.
-
-*18*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
 
 **VIII. Abbozzi ta’ liġijiet**
 
@@ -789,11 +717,7 @@ Meta tiġi ffissata ġurnata għat-tieni qari ta’ xi abbozz ta’ liġi, l-Isk
 
 Iżda ebda abbozz ta’ liġi ma għandu jintbagħat quddiem kumitat permanenti jew kumitat magħżul kif imsemmi qabel, meta dak l-abbozz ta’ liġi jkun jipprovdi dwar l-approprjazzjoni ta’ flus mill-Fond Konsolidat jew ikun jipprovdi li kull nefqa għandha tkun spiża fuq dak il-Fond mingħajr il-ħtieġa ta’ xi approprjazzjoni oħra minbarra d-dispożizzjonijiet tiegħu.
 
-(2) Jekk il-mozzjoni li ssir skont il-paragrafu (1) ta’ din l-ordni permanenti ma tgħaddix, l-iSpeaker għandu minnufih jiddikjara li l-abbozz ta’ liġi jkollu jinġieb quddiem kumitat tal-Kamra kollha. TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
-(3) Id-dispożizzjonijiet tal-ordni permanenti 120B għandhom ikunu mutatis mutandis japplikaw għall-għamla u għall-ħatra ta’ membri f’kumitat permanenti jew f’kumitat magħżul li jkun inħatar b’mozzjoni mressqa skont il-paragrafu (1) ta’ dan l-ordni permanenti.
-
-*19*
+(2) Jekk il-mozzjoni li ssir skont il-paragrafu (1) ta’ din l-ordni permanenti ma tgħaddix, l-iSpeaker għandu minnufih jiddikjara li l-abbozz ta’ liġi jkollu jinġieb quddiem kumitat tal-Kamra kollha. (3) Id-dispożizzjonijiet tal-ordni permanenti 120B għandhom ikunu mutatis mutandis japplikaw għall-għamla u għall-ħatra ta’ membri f’kumitat permanenti jew f’kumitat magħżul li jkun inħatar b’mozzjoni mressqa skont il-paragrafu (1) ta’ dan l-ordni permanenti.
 
 (4) Minkejja d-dispożizzjonijiet tal-paragrafi ta’ qabel ta’ dan l-ordni permanenti ma għandhiex tgħaddi mozzjoni li jitressaq abbozz ta’ liġi biex jemenda l-Kostituzzjoni jew abbozz ta’ liġi bħal ma hemm imsemmi fil-paragrafu (a) tal-artikolu 73 tal- Kostituzzjoni jekk ikun hemm xi membru minn dawk preżenti li jqajjem xi oġġezzjoni.
 
@@ -829,11 +753,7 @@ Mal-għeluq tal-proċeduri ta’ kumitat tal-Kamra dwar abbozz ta’ liġi, il-P
 
 ## 104. Konsiderazzjoni mill-ġdid fil- Kumitat.
 
-Meta abbozz ta’ liġi jkun ġie rapportat b’emendi jew mingħajr emendi, għandu jiġi ordnat li jinqara t-tielet darba f’dik il-ġurnata li tista’ tiġi stabbilita mill-Kamra, kemm-il darba l-membru inkarigat minnu ma jixtieqx jipposponi l-konsiderazzjoni tiegħu jew ma ssirx mozzjoni għall-konsiderazzjoni mill-ġdid tal-abbozz ta’ liġi sew kollu sew biss dwar dispożizzjonijiet partikolari [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-jew dispożizzjonijiet proposti li għandhom jiġu msemmija fil-mozzjoni mill-membru responsabbli.
-
-*20*
+Meta abbozz ta’ liġi jkun ġie rapportat b’emendi jew mingħajr emendi, għandu jiġi ordnat li jinqara t-tielet darba f’dik il-ġurnata li tista’ tiġi stabbilita mill-Kamra, kemm-il darba l-membru inkarigat minnu ma jixtieqx jipposponi l-konsiderazzjoni tiegħu jew ma ssirx mozzjoni għall-konsiderazzjoni mill-ġdid tal-abbozz ta’ liġi sew kollu sew biss dwar dispożizzjonijiet partikolari jew dispożizzjonijiet proposti li għandhom jiġu msemmija fil-mozzjoni mill-membru responsabbli.
 
 *Meta l-konsiderazzjoni mill-ġdid tiġi opposta.*
 
@@ -882,10 +802,6 @@ Meta l-President ta’ Kumitat tal-Kamra kollha jirrapporta li, mingħajru, ma j
 ## 113. Proċedura f’Kumitat.
 
 Ħlief fejn jingħad xort’oħra, ir-regoli dwar proċedura f’Kumitat tal-Kamra kollha huma dawk li japplikaw għal proċedura meta jippresjedi l-iSpeaker, ħlief li -
-
-*21*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
 
 (1) mhux meħtieġ li mozzjoni tiġi sekondata;
 
@@ -951,10 +867,6 @@ Kemm jista’ jkun malajr, u f’kull każ mhux iktar tard minn xahar wara li l-
 
 (ix) il-Kumitat Permanenti dwar il-Petizzjonijiet;
 
-*22*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
 (x) Il-Kumitat Permanenti għall-Affarijiet ta’ Għawdex (xi) il-Kumitat Permanenti għall-Informatika, Teknoloġija u Intelliġenza Artifiċjali.
 
 (xii) il-Kumitat Permanenti għall-Edukazzjoni.
@@ -983,11 +895,7 @@ Kemm jista’ jkun malajr, u f’kull każ mhux iktar tard minn xahar wara li l-
 
 (a) jqassam abbozzi ta’ liġi u xogħol ieħor fost il-kumitati permanenti maħtura skont id-dispożizzjonijiet tal-ordnijiet permanenti 96, 120A u 120B;
 
-(b) (i) jiddeċiedi dwar l-għadd ta’ seduti li għandhom TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
-jiġu allokati għad-diskussjoni fuq abbozz ta’ liġi minn kumitat permanenti;
-
-*23*
+(b) (i) jiddeċiedi dwar l-għadd ta’ seduti li għandhom jiġu allokati għad-diskussjoni fuq abbozz ta’ liġi minn kumitat permanenti;
 
 (ii) jalloka x-xogħol għal kull seduta ta’ kumitat permanenti;
 
@@ -1015,11 +923,7 @@ jiġu allokati għad-diskussjoni fuq abbozz ta’ liġi minn kumitat permanenti;
 
 (3) Id-dispożizzjonijiet tal-paragrafi (3), (4) u (5) tal-ordni permanenti 120Ċ għandhom ikunu japplikaw mutatis mutandis għall-Kumitat Permanenti dwar il-Privileġġi.
 
-(4) Il-Kumitat Permanenti dwar il-Privileġġi għandu jkollu s-setgħa u l-awtorità, mingħajr preġudizzju għad-dispożizzjonijiet tal-ordni permanenti 164, li jħarrek xhieda u li jordna li jinġiebu dokumenti quddiemu. Il-Kumitat Permanenti dwar il-Privileġġi jista’ jitlob li l-Avukat Ġenerali jew ir-rappreżentant tiegħu jattendu quddiemu, u dan jista’ jiġi wkoll awtorizzat li jipparteċipa fil-proċedimenti, iżda li f’ebda każ ma jkollu l-jedd ta’ vot f’dak il- [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-kumitat.
-
-*24*
+(4) Il-Kumitat Permanenti dwar il-Privileġġi għandu jkollu s-setgħa u l-awtorità, mingħajr preġudizzju għad-dispożizzjonijiet tal-ordni permanenti 164, li jħarrek xhieda u li jordna li jinġiebu dokumenti quddiemu. Il-Kumitat Permanenti dwar il-Privileġġi jista’ jitlob li l-Avukat Ġenerali jew ir-rappreżentant tiegħu jattendu quddiemu, u dan jista’ jiġi wkoll awtorizzat li jipparteċipa fil-proċedimenti, iżda li f’ebda każ ma jkollu l-jedd ta’ vot f’dak il-kumitat.
 
 ## 120E. Il-Kumitat Permanenti dwar il-Kontijiet Pubbliċi.
 
@@ -1049,17 +953,11 @@ kumitat.
 
 (4) Wieħed minn dawk il-membri nominati mill-Kap tal- Oppożizzjoni u hekk magħżul minnu wara li jkun ikkonsulta lill- Kap tal-Kamra għandu jinħatar bħala President tal-Kumitat Permanenti dwar il-Kontijiet Pubbliċi. Il-President ikollu vot oriġinali iżda ma jkollux vot deċiżiv.
 
-(5) F’każ li Ministru, Segretarju Parlamentari jew Membru jkun membru tal-Kumitat u għall-iskrutinju ta’ dan l-istess Kumitat ikun hemm suġġett jew qasam li tiegħu dak il-membru tal-Kumitat ikun jew kien direttament responsabbli jew involut fih għal perjodu taħt diskussjoni, dak il-membru tal-Kumitat għandu jċedi postu lil membru ieħor għal dawk il-laqgħat fejn ikun qed jiġi diskuss dak is-suġġett jew qasam skont il-mod provdut fl-Ordnijiet Permanenti. TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
-## 120F. Il-Kumitat Permanenti dwar l- Affarijiet Barranin u Ewropej.
-
-*Miżjud: Riżoluzzjoni 198 tal-1995. Sostitwit: Riżoluzzjoni 67 tal- 2003.*
-
-(1) Il-Kumitat Permanenti dwar l-Affarijiet Barranin u Ewropej għandu jkun magħmul minn mhux aktar minn disa’ membri li minnhom ħamsa jikkostitwixxu quorum. Il-membri għandhom jintgħażlu hekk li jkunu ġustament jirrappreżentaw lill- Kamra b’mod ġenerali u l-proporzjon tal-għadd ta’ membri tal- Gvern u tal-Oppożizzjoni b’mod partikolari:
-
-*25*
+(5) F’każ li Ministru, Segretarju Parlamentari jew Membru jkun membru tal-Kumitat u għall-iskrutinju ta’ dan l-istess Kumitat ikun hemm suġġett jew qasam li tiegħu dak il-membru tal-Kumitat ikun jew kien direttament responsabbli jew involut fih għal perjodu taħt diskussjoni, dak il-membru tal-Kumitat għandu jċedi postu lil membru ieħor għal dawk il-laqgħat fejn ikun qed jiġi diskuss dak is-suġġett jew qasam skont il-mod provdut fl-Ordnijiet Permanenti. 120F. (1) Il-Kumitat Permanenti dwar l-Affarijiet Barranin u Ewropej għandu jkun magħmul minn mhux aktar minn disa’ membri li minnhom ħamsa jikkostitwixxu quorum. Il-membri għandhom jintgħażlu hekk li jkunu ġustament jirrappreżentaw lill- Kamra b’mod ġenerali u l-proporzjon tal-għadd ta’ membri tal- Gvern u tal-Oppożizzjoni b’mod partikolari:
 
 Iżda l-membri magħżula min-naħa tal-Gvern biex joqogħdu fil-kumitat permanenti għandhom jinkludu lill-Ministru tal-Affarijiet Barranin li jkollu d-dritt li jipparteċipa u li jivvota:
+
+*Il-Kumitat Permanenti dwar l- Affarijiet Barranin u Ewropej. Miżjud: Riżoluzzjoni 198 tal-1995. Sostitwit: Riżoluzzjoni 67 tal- 2003.*
 
 Iżda wkoll illi dawk il-membri tal-Parlament Ewropew eletti minn Malta għandu jkollhom id-dritt li jipparteċipaw fix-xogħol tal-kumitat permanenti, iżda ma jkollhomx id-dritt jivvotaw jew id-dritt li jressqu mozzjonijiet u emendi.
 
@@ -1081,11 +979,7 @@ Iżda l-kompożizzjoni ta’ kull sottokumitat appuntat mill-kumitat permanentii
 
 (b) kull dokument li jkun ġie ppubblikat biex ikun ippreżentat lill-Kunsill Ewropew, lill-Kunsill jew lill-Bank Ċentrali Ewropew;
 
-(ċ) kull proposta għal strateġija komuni, azzjoni konġunta jew pożizzjoni komuni taħt it-Titolu V tat-Trattat dwar l-Unjoni Ewropea li tkun ġiet imħejjija biex tkun ippreżentata lill-Kunsill jew [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-lill-Kunsill Ewropew;
-
-*26*
+(ċ) kull proposta għal strateġija komuni, azzjoni konġunta jew pożizzjoni komuni taħt it-Titolu V tat-Trattat dwar l-Unjoni Ewropea li tkun ġiet imħejjija biex tkun ippreżentata lill-Kunsill jew lill-Kunsill Ewropew;
 
 (d) kull proposta dwar pożizzjoni komuni, qafas ta’ azzjoni, deċiżjoni jew konvenzjoni taħt it-Titolu VI tat-Trattat dwar l-Unjoni Ewropea li tkun ġiet imħejjija biex tiġi ppreżentata lill-Kunsill;
 
@@ -1121,13 +1015,9 @@ lill-Kunsill Ewropew;
 
 (a) fuq inizjattiva tiegħu stess, jikkonsidra minn perspettiva ekonomika u finanzjarja, kull deċiżjoni, rakkomandazzjoni jew rapport ippubblikat lokalment, mill-Istituzzjonijiet Ewropej jew minn organizzazzjonijiet internazzjonali, li jista’ jkollhom impatt fuq l-ekonomija Maltija;
 
-(b) jitlob persuni appuntati mill-Gvern ta’ Malta fuq l-organi governattivi u amministrattivi tal-Mekkaniżmu Ewropew ta’ Stabilità (MES), kif provdut fl-artikolu 7 tal-Att dwar il-Parteċipazzjoni u l-Għoti ta’ Appoġġ TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
+(b) jitlob persuni appuntati mill-Gvern ta’ Malta fuq l-organi governattivi u amministrattivi tal-Mekkaniżmu Ewropew ta’ Stabilità (MES), kif provdut fl-artikolu 7 tal-Att dwar il-Parteċipazzjoni u l-Għoti ta’ Appoġġ għall-Istabbiltà, jidhru quddiem il-kumitat sabiex jagħtu rendikont tal-ħidma tal-MES u tal-faċilità għall-istabilità finanzjarja Ewropea (EFSF);
 
 *Kap. 523.*
-
-għall-Istabbiltà, jidhru quddiem il-kumitat sabiex jagħtu rendikont tal-ħidma tal-MES u tal-faċilità għall-istabilità finanzjarja Ewropea (EFSF);
-
-*27*
 
 (ċ) jitlob lill-Gvernatur tal-Bank Ċentrali ta’ Malta jidher quddiem il-kumitat kif provdut fl-artikolu 8(6) tal-Att dwar il-Bank Ċentrali ta’ Malta;
 
@@ -1163,11 +1053,7 @@ għall-Istabbiltà, jidhru quddiem il-kumitat sabiex jagħtu rendikont tal-ħidm
 
 (g) jitlob lill-Kummissarju għas-Saħħa biex jidher quddiem il-Kumitat dwar materji relatati mal-ħidma tiegħu; u
 
-(h) jitlob biex persuni jidhru quddiem l-istess Kumitat sabiex jagħmlu espożizzjoni jew jagħtu rendikont tal- [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-ħidma u tar-responsabbiltajiet tagħhom fl-oqsma li jaqgħu taħt dan l-istess Kumitat.
-
-*28*
+(h) jitlob biex persuni jidhru quddiem l-istess Kumitat sabiex jagħmlu espożizzjoni jew jagħtu rendikont tal-ħidma u tar-responsabbiltajiet tagħhom fl-oqsma li jaqgħu taħt dan l-istess Kumitat.
 
 (2) Il-Kumitat Permanenti dwar is-Saħħa għandu jkun magħmul minn mhux aktar minn ħames membri li minnhom tlieta jikkostitwixxu quorum. Il-membri għandhom jintgħażlu b’dak il-mod li jkunu ġustament jirrapreżentaw lill-Kamra b’mod ġenerali u proporzjonali skont l-għadd ta' Membri tal-Gvern u tal- Oppożizzjoni, b’mod partikolari.
 
@@ -1200,10 +1086,6 @@ Dawn il-linji gwida għandhom jiġu sussegwentement approvati mill-Kumitat Perma
 (3) Wieħed minn dawk il-Membri nominati min-naħa tal- Gvern għandu jinħatar bħala president tal-Kumitat
 
 (4) Id-dispożizzjonijiet tal-paragrafi (3) u (4) tal-Ordni Permanenti 120B japplikaw mutatis mutandis għall-Kumitat Permanenti għall-Affarijiet ta’ Għawdex.
-
-*29*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
 
 ## 120M. Kumitat Permanenti għall- Informatika, Teknoloġija u Intelliġenza Artifiċjali.
 
@@ -1245,10 +1127,6 @@ TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
 
 Il-Kamra tista’ taħtar kumitat magħżul tal-membri tagħha biex jinvestiga kull suġġett. L-iSpeaker ikun jista’ jiġi maħtur membru ta’ kumitat magħżul.
 
-*30*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
 ## 122. Numru ta’ membri.
 
 Għandu dejjem jingħata avviż għall-mozzjoni biex jinħatar kumitat magħżul, kif ukoll biex, bil-permess tal-Kamra, jinħatru aktar minn seba’ membri għall-kumitat. Wara l-ewwel ħatra, kull żieda jew bidla trid tkun avżata u tinkludi l-ismijiet tal-membri li jkunu ser jinbidlu jew jiżdiedu. In-numru tal-membri għandu jkun dejjem numru bil-fard.
@@ -1285,11 +1163,7 @@ Iżda:
 
 (i) jekk fil-fehma tal-president, il-proċedimenti fuq l-abbozz ta’ liġi jew xogħol ieħor jistgħu jintemmu b’estensjoni qasira tas-seduta, il-president jista’ jipposponi l-aġġornament tal-kumitat sa mhux aktar tard minn ħmistax-il minuta wara l-ħin stabbilit għall-interruzzjoni tax-xogħol;
 
-(ii) jekk skont xi ordni mogħti bis-saħħa tal-partita (i) tas-subparagrafu (b) tal-paragrafu (1) tal-ordni permanenti 120Ċ, il-proċedimenti jenħtieġu li jintemmu fil-ħin meta l-president hu meħtieġ li jaġġorna l-kumitat skont dan il-paragrafu, il-president ma għandux jaġġorna l-kumitat sakemm ma jkunux ġew deċiżi l-proposta għall-għeluq tad-dibattitu, il-proposta jew proposti li joħorġu minnha u kull mozzjoni oħra kif TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
-ikun hemm propost f’dik l-ordni.
-
-*31*
+(ii) jekk skont xi ordni mogħti bis-saħħa tal-partita (i) tas-subparagrafu (b) tal-paragrafu (1) tal-ordni permanenti 120Ċ, il-proċedimenti jenħtieġu li jintemmu fil-ħin meta l-president hu meħtieġ li jaġġorna l-kumitat skont dan il-paragrafu, il-president ma għandux jaġġorna l-kumitat sakemm ma jkunux ġew deċiżi l-proposta għall-għeluq tad-dibattitu, il-proposta jew proposti li joħorġu minnha u kull mozzjoni oħra kif ikun hemm propost f’dik l-ordni.
 
 ## 127. Lista tal-membri tal-kumitat.
 
@@ -1326,10 +1200,6 @@ Kull kumitat permanenti u kull kumitat magħżul ikollu s-setgħa li jħarrek xh
 ## 133. Il-proċeduri u r-rapporti jiġu ffirmati.
 
 Il-minuti tal-proċeduri tal-kumitat f’kull ġurnata kif ukoll ir-rapport ta’ dak il-kumitat, għandhom jiġu ffirmati mill-president tiegħu.
-
-*32*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
 
 ## 133A. Abbozzi ta’ liġijiet li jintbagħtu lill-kumitati permanenti.
 
@@ -1374,10 +1244,6 @@ Kull kumitat permanenti u kull kumitat magħżul jista’ jirriżolvi, fid-diskr
 ## 138. M’għandux jiltaqa’ waqt li l-Kamra tkun f’seduta.
 
 (Imħassar bir-Riżoluzzjoni 198 tal-1995).
-
-*33*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
 
 ## 139. Il-konsulent legali joqgħod għar-regoli magħmula mill-president.
 
@@ -1431,10 +1297,6 @@ Kull petizzjoni għandha, qabel ma tiġi ppreżentata, tkun iffirmata fil-bidu t
 
 Qabel ma xi membru jippreżenta petizzjoni għandu jivverifika n-numru ta’ firem fil-petizzjoni, u għandu jikteb l-istess numru fil-bidu tal-petizzjoni. Dawn l-istess verifiki mill-Iskrivan tal-Kamra għandhom isiru wkoll f’każ ta’ petizzjoni ppreżentata minn ċittadin.
 
-*34*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
 ## 147. Għandha tkun eżaminata mill-membru inkarigat.
 
 Ikun id-dmir ta’ kull membru li jippreżenta petizzjoni li jkun jaf il-kontenut tagħha u li jiżgura ruħu li ma jkunx fiha kliem ta’ nuqqas ta’ rispett lejn il-Kamra.
@@ -1477,10 +1339,6 @@ Il-Kamra tista’ taħtar Viċi President tal-Kumitati li għandu jokkupa s-Siġ
 
 **XIII. Membri u Privileġġi tal-Kamra**
 
-*35*
-
-TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
 ## 155. Il-membri għandhom iħallu l-indirizz għand l- Iskrivan.
 
 Kull membru għandu fil-bidu ta’ kull sessjoni jew minnufih kif jokkupa postu, iniżżel ismu u l-indirizz tiegħu kif ukoll l-indirizz tiegħu matul is-sessjoni fi ktieb li jinżamm mill- Iskrivan tal-Kamra.
@@ -1521,11 +1379,7 @@ Għall-fini ta’ dan l-Ordni Permanenti "ġurnata parlamentari" tfisser ġurnat
 
 ## 160. Membri li jidħlu jew joħorġu mill- Kamra.
 
-Kull membru meta jidħol jew joħroġ mill-Kamra jew imur għal xi parti tal-Kamra waqt diskussjoni għandu jkun xuxa, u għandu jagħmel sinjal ta’ rispett lejn l-iSpeaker jew il-President waqt li jkun għaddej minn jew għal postu jew min-naħa għal oħra tal-Kamra. Ebda membru ma għandu jgħaddi bejn l-iSpeaker jew il-President u xi membru li jkun qed jitkellem lanqas bejn l- [L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
-
-iSpeaker jew il-President u l-Mejda, u lanqas ma għandu joqgħod bilwieqfa f’xi wieħed mill-passaġġi.
-
-*36*
+Kull membru meta jidħol jew joħroġ mill-Kamra jew imur għal xi parti tal-Kamra waqt diskussjoni għandu jkun xuxa, u għandu jagħmel sinjal ta’ rispett lejn l-iSpeaker jew il-President waqt li jkun għaddej minn jew għal postu jew min-naħa għal oħra tal-Kamra. Ebda membru ma għandu jgħaddi bejn l-iSpeaker jew il-President u xi membru li jkun qed jitkellem lanqas bejn l-iSpeaker jew il-President u l-Mejda, u lanqas ma għandu joqgħod bilwieqfa f’xi wieħed mill-passaġġi.
 
 ## 161. Privileġġi.
 
@@ -1577,11 +1431,7 @@ Ebda membru tal-Kamra ma għandu jieħu lil xi barrani f’xi parti tal-Kamra ri
 
 ## 170. Biex jirtiraw il-barranin.
 
-Wara mozzjoni ta’ xi membru biex il-barranin jirtiraw, l-iSpeaker jew il-President (skont il-każ) għandu jqiegħed minnufih il-proposta "Illi l-barranin jiġu ordnati biex jirtiraw" mingħajr ma jippermetti ebda diskussjoni jew emenda; iżda l-iSpeaker jew il- TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
-President jista’, kull meta jidhirlu xieraq, jordna li l-barranin jirtiraw minn kull parti tas-Sala.
-
-*37*
+Wara mozzjoni ta’ xi membru biex il-barranin jirtiraw, l-iSpeaker jew il-President (skont il-każ) għandu jqiegħed minnufih il-proposta "Illi l-barranin jiġu ordnati biex jirtiraw" mingħajr ma jippermetti ebda diskussjoni jew emenda; iżda l-iSpeaker jew il- President jista’, kull meta jidhirlu xieraq, jordna li l-barranin jirtiraw minn kull parti tas-Sala.
 
 **XVII. Reġistri tal-Kamra - Dmirijiet tal-Iskrivan**
 
@@ -1622,10 +1472,6 @@ Kull membru tal-Kamra jkollu dritt li jaqra, u jekk ikun hekk jixtieq, jieħu es
 ## 175. Dmirijiet tal- Iskrivan tal- Kamra.
 
 L-Iskrivan tal-Kamra, li lilu għandha tkun indirizzata 1-korrispondenza kollha, ikun responsabbli lejn il-Kamra taħt id-direzzjoni tal-iSpeaker, biex jirregola l-ħwejjeġ kollha li għandhom x’jaqsmu max-xogħol tal-Kamra, u jkollu d-direzzjoni u l-kontroll fuq l-uffiċjali u l-iskrivani kollha impjegati mill-Kamra, salvi dawk l-ordnijiet li jista’ minn żmien għal żmien jirċievi mingħand l-iSpeaker.
-
-*38*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
 
 ## 176. Ħinijiet tal-uffiċċju fil-ferjat.
 
@@ -1683,11 +1529,7 @@ Messaġġ mill-President ta’ Malta għandu jinġieb quddiem il-Kamra minn Mini
 
 ## 185. Xi jsir minnu.
 
-Jekk ikun meħtieġ għandha tiġi stabbilita data sabiex il- TAL-KAMRA TAD-DEPUTATI [L.S.Kost.02
-
-messaġġ jiġi kkonsidrat, jew tista’ ssir mozzjoni bla avviż sabiex il-messaġġ jiġi kkonsidrat fl-istess seduta malli x-xogħol quddiem il-Kamra jkun tlesta.
-
-*39*
+Jekk ikun meħtieġ għandha tiġi stabbilita data sabiex il-messaġġ jiġi kkonsidrat, jew tista’ ssir mozzjoni bla avviż sabiex il-messaġġ jiġi kkonsidrat fl-istess seduta malli x-xogħol quddiem il-Kamra jkun tlesta.
 
 ## 186. Messaġġi verbali.
 
@@ -1744,10 +1586,6 @@ Is-sospensjoni tal-ordnijiet permanenti hija limitata fl-applikazzjoni tagħha g
 *Emendat: A.L. 46 tal-1965.*
 
 Fil-każijiet kollha li mhumiex regolati b’dawn l-Ordnijiet Permanenti, wieħed għandu jirrikorri għar-regoli, modi, użanzi u drawwiet tal-House of Commons tal-Parlament tar-Renju Unit, li għandhom jiġu segwiti safejn jistgħu jiġu applikati għall-proċeduri tal-Kamra b’konsiderazzjoni xierqa għan-natura speċjali tal- Kostituzzjoni.
-
-*40*
-
-[L.S.Kost.02 TAL-KAMRA TAD-DEPUTATI
 
 ## APPENDIĊI — Forma ta’ petizzjoni lill-Kamra tad-Deputati
 

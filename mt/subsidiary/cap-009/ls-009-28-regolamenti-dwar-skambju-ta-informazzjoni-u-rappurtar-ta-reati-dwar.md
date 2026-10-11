@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Skambju ta’ Informazzjoni u Rappurtar ta’ Reati dwar Frodi u Falsifikazzjoni ta’ mezzi ta’ Pagament Mhux bi Flus Kontanti (S.L. 9.28)
 
-REATI DWAR FRODI U FALSIFIKAZZJONI TA’ MEZZI TA’
-
-*1*
-
-PAGAMENT MHUX BI FLUS KONTANTI [L.S. 9.28
-
 **LEĠISLAZZJONI SUSSIDJARJA 9.28**
 
 **REGOLAMENTI DWAR SKAMBJU TA’**
@@ -65,10 +59,6 @@ Il-punt ta’ kuntatt nazzjonali għandu jinkoraġġixxi r-rappurtar, mingħajr 
 (a) joffri informazzjoni speċifika u pariri dwar kif jistgħu jipproteġu lilhom infushom kontra l-konsegwenzi negattivi tar-reati, bħall-ħsara għar-reputazzjoni; u
 
 (b) jipprovdi lista ta’ istituzzjonijiet speċjalizzati li jittrattaw aspetti differenti ta’ reati relatati mal-identità u l-appoġġ għall-vittmi,
-
-*2*
-
-REATI DWAR FRODI U FALSIFIKAZZJONI TA’ MEZZI TA’ [L.S. 9.28 PAGAMENT MHUX BI FLUS KONTANTI
 
 għal persuni fiżiċi u ġuridiċi li jkunu sofrew dannu bħala riżultat ta’ xi wieħed mir-reati msemmija fl-artikolu 310F u fl-artikolu 310H tal-Kodiċi Kriminali, meta tali reati twettqu bl-użu ħażin tad-data personali.
 

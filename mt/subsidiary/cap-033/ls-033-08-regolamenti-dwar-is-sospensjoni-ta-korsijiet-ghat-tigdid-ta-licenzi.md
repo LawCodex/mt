@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar is-Sospensjoni ta’ Korsijiet għat-Tiġdid ta’ Liċenzi tal-Kategoriji \"A\", \"B\" u \"C\" taħt ir-Regolamenti dwar il-Kontroll ta’ Xogħlijiet tan-Nar u Esplożivi oħra"
-identifier: "S.L. 33.8"
+identifier: "S.L. 33.08"
 eli: "https://legislation.mt/eli/sl/33.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,17 +14,9 @@ version: "https://legislation.mt/eli/sl/33.8/20210702/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar is-Sospensjoni ta’ Korsijiet għat-Tiġdid ta’ Liċenzi tal-Kategoriji "A", "B" u "C" taħt ir-Regolamenti dwar il-Kontroll ta’ Xogħlijiet tan-Nar u Esplożivi oħra (S.L. 33.8)
+# Regolamenti dwar is-Sospensjoni ta’ Korsijiet għat-Tiġdid ta’ Liċenzi tal-Kategoriji "A", "B" u "C" taħt ir-Regolamenti dwar il-Kontroll ta’ Xogħlijiet tan-Nar u Esplożivi oħra (S.L. 33.08)
 
-SOSPENSJONI TA’ KORSIJIET GĦAT-TIĠDID TA’ LIĊENZI
-
-TAL-KATEGORIJI "A", "B" U "C" TAĦT IR-REGOLAMENTI
-
-DWAR IL-KONTROLL TA’ XOGĦLIJIET TAN-NAR U
-
-*1*
-
-ESPLOŻIVI OĦRA [L.S.33.08 LEĠISLAZZJONI SUSSIDJARJA 33.08
+**LEĠISLAZZJONI SUSSIDJARJA 33.08**
 
 **REGOLAMENTI DWAR IS-SOSPENSJONI TA’**
 

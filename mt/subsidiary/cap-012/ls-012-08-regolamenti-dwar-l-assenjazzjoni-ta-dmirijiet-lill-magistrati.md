@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Assenjazzjoni ta' Dmirijiet lill-Maġistrati"
-identifier: "S.L. 12.8"
+identifier: "S.L. 12.08"
 eli: "https://legislation.mt/eli/sl/12.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/12.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Assenjazzjoni ta' Dmirijiet lill-Maġistrati (S.L. 12.8)
+# Regolamenti dwar l-Assenjazzjoni ta' Dmirijiet lill-Maġistrati (S.L. 12.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 12.08**
 

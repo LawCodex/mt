@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju taċ-Ċentru għaċ-Ċibernetika Biomedika (S.L. 327.522)
 
-TAĦT IL-PATROĊINJU TAĊ-ĊENTRU
-
-*1*
-
-GĦAĊ-ĊIBERNETIKA BIOMEDIKA [L.S.327.522
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.522**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -75,15 +69,9 @@ Meta jqis neċessarju, il-Bord jista’ jeħtieġ li l-istudenti jtemmu b’suċ
 
 ## 5. Applikazzjoni.
 
-(1) L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni tagħhom, flimkien ma’ proposta ta’ riċerka TAĦT IL-PATROĊINJU TAĊ-ĊENTRU
+(1) L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni tagħhom, flimkien ma’ proposta ta’ riċerka komprensiva li tiddeskrivi l-proġett propost, inkluż is-sorsi u l-materjali tar-riċerka, fi kwalunkwe żmien tas-sena.
 
 \*Dawn ordinamenti ġew imħassrin bl-Avviż Legali 215 tal-2024.
-
-*2*
-
-[L.S.327.522 GĦAĊ-ĊIBERNETIKA BIOMEDIKA
-
-komprensiva li tiddeskrivi l-proġett propost, inkluż is-sorsi u l-materjali tar-riċerka, fi kwalunkwe żmien tas-sena.
 
 (2) L-applikanti jistgħu jiġu mitluba wkoll biex juru l-kompetenza tagħhom f’dawk il-ħiliet meħtieġa min-natura tar-riċerka proposta.
 
@@ -129,11 +117,7 @@ Il-Bord għandu japprova u jippubblika l-linji gwida rigward il-format u l-preż
 
 ## 14. Kopji tat-teżi.
 
-(1) L-istudenti jkunu meħtieġa jissottomettu kopja mingħajr legatura tat-teżi tagħhom għal kull membru tal-Bord tal- Eżaminaturi, flimkien ma’ kopja f ’format diġitali. L-uffiċjal TAĦT IL-PATROĊINJU TAĊ-ĊENTRU
-
-*3*
-
-GĦAĊ-ĊIBERNETIKA BIOMEDIKA [L.S.327.522 inkarigat miċ-Ċentru għandu joħroġ riċevuta datata.
+(1) L-istudenti jkunu meħtieġa jissottomettu kopja mingħajr legatura tat-teżi tagħhom għal kull membru tal-Bord tal- Eżaminaturi, flimkien ma’ kopja f ’format diġitali. L-uffiċjal inkarigat miċ-Ċentru għandu joħroġ riċevuta datata.
 
 (2) L-istudenti jistgħu jippubblikaw it-teżi tagħhom kollha jew parti minnha qabel ma jissottomettuha għall-eżami. Dan ix-xogħol ippubblikat jista’ mbagħad jiġi nkluż fit-teżi li tiġi mdaħħla għall-eżami, sakemm li dikjarazzjoni dwar dan tiġi nkluża.
 

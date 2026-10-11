@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Skema ta' Reġistrazzjoni dwar l-Investimenti (Nru. 2)"
-identifier: "S.L. 233.8"
+identifier: "S.L. 233.08"
 eli: "https://legislation.mt/eli/sl/233.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/233.8/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Skema ta' Reġistrazzjoni dwar l-Investimenti (Nru. 2) (S.L. 233.8)
-
-*1*
-
-DWAR L-INVESTIMENTI (NRU. 2) [L.S.233.08
+# Regolamenti dwar Skema ta' Reġistrazzjoni dwar l-Investimenti (Nru. 2) (S.L. 233.08)
 
 **LE{ISLAZZJONI SUSSIDJARJA 233.08**
 
@@ -99,10 +95,6 @@ L-Iskema g]andha tibqa’ g]addejja sat-30 ta’ {unju 2005.
 
 Ir-re[istrazzjoni ta’ l-assi eli[ibbli ta]t l-Iskema tkun miftu]a g]al:
 
-*3*
-
-DWAR L-INVESTIMENTI (NRU. 2) [L.S.233.08
-
 (a) l-assi eli[ibbli li kienu qed jin\\ammu barra minn Malta fi jew wara l-1 ta’ Jannar, 2000 u li kienu rimpatrijati lejn Malta qabel il-31 ta’ Marzu, 2005;
 
 (b) l-assi eli[ibbli li kienu qed jin\\ammu barra minn Malta fil-31 ta’ Marzu, 2005 u li jkunu rimpatrijati lejn Malta qabel is-16 ta’ {unju, 2005;
@@ -173,10 +165,6 @@ minn Malta jew [urisdizzjoni barranija, prova li dak il-fidu`jarju jkun tassew h
 
 *Kap. 123.*
 
-*5*
-
-DWAR L-INVESTIMENTI (NRU. 2) [L.S.233.08
-
 (iii) reat kontra xi li[i o]ra;
 
 (f) l-assi re[istrati kienu qed jin\\ammu barra minn Malta bejn l-1 ta’ Jannar, 2000 u l-30 ta’ Marzu, 2005 f’ka\\ ta’ assi msemmija fir-regolament 6(a), jew fil-31 ta’ Marzu, 2005 fil-ka\\ijiet l-o]ra kollha;
@@ -237,17 +225,11 @@ L-a[ent g]ar-re[istrazzjoni ma]tur ikollu jedd jiri`evi dritt g]al servizzi mog]
 
 Id-detenturi ta’ `ertifikat ta’ re[istrazzjoni li jikkonvertu l-assi eli[ibbli re[istrati tag]hom f’assi o]ra g]andhom, wara dik ir-re[istrazzjoni, i\\ommu kull prova dokumentarja li jkollha x’taqsam ma’ dawk il-konver\\jonijiet.
 
-*7*
-
-DWAR L-INVESTIMENTI (NRU. 2) [L.S.233.08
-
 SKEDA Emendata:
 
 A.L. 411 ta’ l-2007. L.S.233.08] DWAR L-INVESTIMENTI (NRU. 2)
 
 *8*
-
-DWAR L-INVESTIMENTI (NRU. 2) [L.S.233.08 9
 
 B’referenza g]at-Tieni Parti ta’ dan id-Dokument, jien/a]na niddikjaraw li:
 

@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar il-Proċedura tal-Bord għall-Kontroll tat-Traffiku"
-identifier: "S.L. 65.2"
+identifier: "S.L. 65.02"
 eli: "https://legislation.mt/eli/sl/65.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/65.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar il-Proċedura tal-Bord għall-Kontroll tat-Traffiku (S.L. 65.2)
-
-*1*
-
-G}ALL-KONTROLL TAT-TRAFFIKU [L.S.65.02
+# Regoli dwar il-Proċedura tal-Bord għall-Kontroll tat-Traffiku (S.L. 65.02)
 
 LE{ISLAZZJONI SUSSIDJARJA 65.02
 

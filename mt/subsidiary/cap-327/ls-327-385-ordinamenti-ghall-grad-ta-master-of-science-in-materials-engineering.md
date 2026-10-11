@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Science in Materials Engineering taħt il-patroċinju tal-Fakultà tal-Inġinerija (S.L. 327.385)
 
-ENGINEERING TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.385
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.385**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -69,13 +63,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 sakemm li l-applikanti li japplikaw skont is-subparagrafi (b), (ċ) u jekk ikun meqjus neċessarju (d), ikunu meħtieġa li jtemmu programm preparatorju kif speċifikat fl-ordinament 4.
 
-(2) Il-Bord għandu jirrakkomanda lis-Senat in-numru ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id- ENGINEERING TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.385 TAL-FAKULTÀ TAL-INĠINERIJA
-
-disponibilità tar-riżorsi. L-għadd ta’ postijiet disponibbli jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
+(2) Il-Bord għandu jirrakkomanda lis-Senat in-numru ta’ applikanti li jistgħu jitħallew jirreġistraw għall-kors, skont id-disponibilità tar-riżorsi. L-għadd ta’ postijiet disponibbli jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (3) Meta l-g]add ta’ studenti jkun limitat u l-għadd ta’ applikanti eliġibbli jaqbeż l-għadd ta’ postijiet disponibbli, l-applikanti jintgħażlu permezz ta’ intervista li ssir minn bord maħtur għal dan l-iskop li jkun magħmul mill-anqas minn tliet membri. Il-bord għandu jagħżel lill-applikanti skont dawn il-kriterji li ġejjin, li jkunu mwieżna kif ġej:
 
@@ -115,11 +103,7 @@ Il-programm ta’ studju għandu jkun ippubblikat mill-Bord wara l-approvazzjoni
 
 (2) Dawk l-istudenti li matul xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn 20 kredtu għal taqsimiet studju mgħallma, jekk ikunu qegħdin isegwu l-kors full-time, jew mhux aktar minn 10 kredti jekk ikunu qegħdin isegwu l-kors part-time, għandhom jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fil-valutazzjonijiet li weħlu minnhom fl-ewwel opportunità prattikabbli, kif determinat mill-Bord.
 
-(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ taqsimiet studju permess skont il-paragrafu (2), jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kredti għal xi taqsima studju jkunu meqjusa ENGINEERING TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAL-INĠINERIJA [L.S.327.385 li weħlu mill-kors.
+(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ taqsimiet studju permess skont il-paragrafu (2), jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kredti għal xi taqsima studju jkunu meqjusa li weħlu mill-kors.
 
 ## 10. Dissertazzjoni.
 

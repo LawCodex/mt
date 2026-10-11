@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Għażla tal-Applikanti għad-Dħul fil-Kors Preparatorju għad-Diploma in Health Science taħt il-patroċinju tal-Fakultà tax-Xjenza (S.L. 327.295)
 
-PREPARATORJU G}AD-DIPLOMA IN HEALTH SCIENCE
-
-*1*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAX-XJENZI TAS-SA}}A [S.L.327.295
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.295**
 
 **ORDINAMENTI G}ALL-G}A|LA**
@@ -95,11 +89,7 @@ Globali)
 
 *A*
 
-6 E C 2 A PREPARATORJU G}AD-DIPLOMA IN HEALTH SCIENCE [ S.L.327.295 TA}T IL-PATRO~INJU TAL-FAKULTÀ TAX-XJENZI TAS-SA}}A
-
-BTEC
-
-*2*
+6 E C 2 A BTEC
 
 National
 
@@ -152,12 +142,6 @@ Globali)
 Distinzjoni
 
 Mertu
-
-PREPARATORJU G}AD-DIPLOMA IN HEALTH SCIENCE
-
-*3*
-
-TA}T IL-PATRO~INJU TAL-FAKULTÀ TAX-XJENZI TAS-SA}}A [S.L.327.295
 
 12 G]adda
 

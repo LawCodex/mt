@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar in-Notifika ta' Rikors Ġuramentat u Dokumenti Oħra Mehmużin Magħha (S.L. 12.18)
 
-NOTIFIKA TA’ RIKORS {URAMENTAT U
-
-*1*
-
-DOKUMENTI O}RA MEHMU|IN MAG}HA [L.S.12.18
-
 **LE{ISLAZZJONI SUSSIDJARJA 12.18**
 
 **REGOLAMENTI DWAR IN-NOTIFIKA TA’**

@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Regoli dwar Tnaqqis ta' Taxxa Addizzjonali (Nuqqasijiet meta jsir Prospett) (S.L. 123.69)
 
-*1*
-
-(NUQQASIJIET META JSIR PROSPETT) [L.S.123.69
-
 **LE{ISLAZZJONI SUSSIDJARJA 123.69**
 
 **REGOLI DWAR TNAQQIS TA’ TAXXA**

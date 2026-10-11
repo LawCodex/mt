@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi - (Regional Marine Pollution Emergency Response Centre for the Mediterranean Sea – REMPEC)"
-identifier: "S.L. 191.4"
+identifier: "S.L. 191.04"
 eli: "https://legislation.mt/eli/sl/191.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,15 +13,9 @@ version: "https://legislation.mt/eli/sl/191.4/20120105/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi - (Regional Marine Pollution Emergency Response Centre for the Mediterranean Sea – REMPEC) (S.L. 191.4)
+# Ordni dwar l-Applikazzjoni tat-Taqsima III tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi - (Regional Marine Pollution Emergency Response Centre for the Mediterranean Sea – REMPEC) (S.L. 191.04)
 
-U L-PRIVILEĠĠI DIPLOMATIĊI (REGIONAL MARINE POLLUTION
-
-EMERGENCY RESPONSE CENTRE FOR THE MEDITERRANEAN SEA
-
-*1*
-
-\- REMPEC) [L.S.191.04 LEĠISLAZZJONI SUSSIDJARJA 191.04
+**LEĠISLAZZJONI SUSSIDJARJA 191.04**
 
 **ORDNI DWAR L-APPLIKAZZJONI TAT-TAQSIMA**
 
@@ -62,8 +56,6 @@ Il-persuni speċifikati fit-Tieni Skeda huma funzjonarji u impjegati tar-Regiona
 ## 6. Estensjoni tal-immunitajiet u privileġġi għal funzjonarji u impjegati. Kap. 191.
 
 Il-funzjonarji u l-impjegati għandhom igawdu mill-immunitajiet u l-privileġġi msemmija fit-Taqsima III tat-Tieni Skeda tal-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi matul iż-żmien tal-kariga tagħhom mar-Regional Marine Pollution Emergency Response Centre for the Mediterranean Sea (REMPEC) f’Malta.
-
-U L-PRIVILEĠĠI DIPLOMATIĊI (REGIONAL MARINE POLLUTION EMERGENCY RESPONSE CENTRE FOR THE MEDITERRANEAN SEA 2 [L.S.191.04 - REMPEC)
 
 Sostitwita: L-EWWEL SKEDA
 

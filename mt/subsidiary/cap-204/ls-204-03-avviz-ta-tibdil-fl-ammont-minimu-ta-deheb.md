@@ -1,6 +1,6 @@
 ---
 title: "Avviż ta Tibdil fl-Ammont Minimu ta Deheb"
-identifier: "S.L. 204.3"
+identifier: "S.L. 204.03"
 eli: "https://legislation.mt/eli/sl/204.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/204.3/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Avviż ta Tibdil fl-Ammont Minimu ta Deheb (S.L. 204.3)
+# Avviż ta Tibdil fl-Ammont Minimu ta Deheb (S.L. 204.03)
 
 LE{ISLAZZJONI SUSSIDJARJA 204.03
 

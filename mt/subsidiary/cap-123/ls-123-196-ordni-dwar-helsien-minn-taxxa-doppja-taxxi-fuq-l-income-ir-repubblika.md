@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ir-Repubblika tal-Armenja) (S.L. 123.196)
 
-(TAXXI FUQ L-INCOME)
-
-*1*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.196**
 
 **ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA**
@@ -49,9 +43,7 @@ B’dan qiegħed jiġi dikjarat:
 
 \*Ara l-Avviż Legali 41 tal-2022.
 
-*2*
-
-[L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) SKEDA
+## SKEDA
 
 (Artikolu 2)
 
@@ -71,7 +63,9 @@ Dan il-Ftehim gћandu japplika gћal persuni li jkunu residenti fi Stat Kontraen
 
 **Taxxi Koperti**
 
-\1. Dan il-ftehim gћandu japplika gћat-taxxi fuq l-income imposti f’isem Stat Kontraenti irrispettivament mill-mod kif dawn imposti.
+## 1.
+
+Dan il-ftehim gћandu japplika gћat-taxxi fuq l-income imposti f’isem Stat Kontraenti irrispettivament mill-mod kif dawn imposti.
 
 ## 2.
 
@@ -93,15 +87,7 @@ it-taxxa fuq l-income;
 
 (ii) it-taxxa fuq l-income.
 
-(hawn iżjed ’il quddiem imsejћa "it-taxxa tal-Armenja"). (TAXXI FUQ L-INCOME)
-
-*3*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
-
-## 4.
-
-Il-Ftehim gћandu japplika wkoll gћal kwalunkwe taxxi identiċi jew sostanzjalment simili li huma imposti wara d-data meta jiġi ffirmat il-Ftehim b’żjieda mat-taxxi eżistenti jew minflokhom. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti gћandhom jgћarrfu lil xulxin b’kull tibdil sinifikanti li jkun sar fil-liġijiet dwar it-taxxa tagћhom.
+(hawn iżjed ’il quddiem imsejћa "it-taxxa tal-Armenja"). 4. Il-Ftehim gћandu japplika wkoll gћal kwalunkwe taxxi identiċi jew sostanzjalment simili li huma imposti wara d-data meta jiġi ffirmat il-Ftehim b’żjieda mat-taxxi eżistenti jew minflokhom. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti gћandhom jgћarrfu lil xulxin b’kull tibdil sinifikanti li jkun sar fil-liġijiet dwar it-taxxa tagћhom.
 
 **ARTIKOLU 3**
 
@@ -123,9 +109,7 @@ Il-Ftehim gћandu japplika wkoll gћal kwalunkwe taxxi identiċi jew sostanzjalm
 
 (ġ) il-frażijiet "impriża ta’ Stat Kontraenti" u "impriża tal-Istat Kontraenti l-ieћor" ifissru rispettivament impriża ġestita minn residenti ta’ Stat Kontraenti u impriża ġestita minn residenti tal-Istat Kontraenti l-ieħor;
 
-*4*
-
-[L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) (h) il-frażi "traffiku internazzjonali" tfisser kull trasport permezz ta’ bastiment jew inġenju tal-ajru mħaddma minn impriża ta’ Stat Kontraenti ħlief meta l-bastiment jew l-inġenju tal-ajru huwa mħaddem biss bejn postijiet fi Stat Kontraenti l-ieħor;
+(h) il-frażi "traffiku internazzjonali" tfisser kull trasport permezz ta’ bastiment jew inġenju tal-ajru mħaddma minn impriża ta’ Stat Kontraenti ħlief meta l-bastiment jew l-inġenju tal-ajru huwa mħaddem biss bejn postijiet fi Stat Kontraenti l-ieħor;
 
 (i) il-frażi "negozju" tinkludi l-prestazzjoni ta’ servizzi professjonali u ta’ attivitajiet oħra ta’ karattru indipendenti;
 
@@ -151,12 +135,6 @@ Il-Ftehim gћandu japplika wkoll gћal kwalunkwe taxxi identiċi jew sostanzjalm
 
 \2. Fejn minћabba fid-dispożizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewġ Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
 
-(TAXXI FUQ L-INCOME)
-
-*5*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
-
 (a) huwa gћandu jitqies li jkun residenti biss tal-Istat li fih ikollu dar permanenti gћad-dispożizzjoni tiegћu; jekk huwa jkollu dar permanenti gћad-dispożizzjoni tiegћu fiż-żewġ Stati, huwa gћandu jitqies li jkun residenti biss tal-Istat li miegћu jkunu l-aktar marbuta r-relazzjonijiet personali u ekonomiċi tiegћu (ċentru ta’ interessi vitali);
 
 (b) jekk l-Istat li fih huwa jkollu ċ-ċentru ta’ interessi vitali ma jkunx jista’ jiġi stabbilit, jew jekk huwa ma jkollux gћad-dispożizzjoni tiegћu dar permanenti f’xi Stat wieħed jew l-ieħor, huwa gћandu jitqies li jkun residenti biss tal-Istat li fih ikun soltu jirrisjedi;
@@ -165,7 +143,9 @@ Il-Ftehim gћandu japplika wkoll gћal kwalunkwe taxxi identiċi jew sostanzjalm
 
 (d) jekk huwa ċittadin taż-żewġ Stati jew ta’ ebda wiehed minnhom, l-awtoritajiet kompetenti ta’ l-Istati Kontraenti gћandhom jiddeċiedu l-każ bi ftehim reċiproku bejniethom.
 
-\3. Fejn minћabba fid-dispożizzjonijiet tal-paragrafu 1 persuna li ma tkunx individwu tkun residenti taż-żewġ Stati Kontraenti, allura għandha titqies li tkun residenti biss tal-Istat li fih ikun jinsab il-post ta’ maniġġ effettiv tagħha. Fejn jkun hemm tilwima bejn l-awtoritajiet kompetenti dwar fejn jinstab il-maniġġ effettiv ta’ tali persuna, u ma` jistax jintlaħaq ftehim bejn l-awtoritajiet kompetenti, allura għandu jitqies li tali persuna hija residenti biss ta’ l- Istat li fih hija inkorporata.
+## 3.
+
+Fejn minћabba fid-dispożizzjonijiet tal-paragrafu 1 persuna li ma tkunx individwu tkun residenti taż-żewġ Stati Kontraenti, allura għandha titqies li tkun residenti biss tal-Istat li fih ikun jinsab il-post ta’ maniġġ effettiv tagħha. Fejn jkun hemm tilwima bejn l-awtoritajiet kompetenti dwar fejn jinstab il-maniġġ effettiv ta’ tali persuna, u ma` jistax jintlaħaq ftehim bejn l-awtoritajiet kompetenti, allura għandu jitqies li tali persuna hija residenti biss ta’ l- Istat li fih hija inkorporata.
 
 **ARTIKOLU 5**
 
@@ -185,11 +165,11 @@ Il-Ftehim gћandu japplika wkoll gћal kwalunkwe taxxi identiċi jew sostanzjalm
 
 (e) ħanut tax-xogћol; u
 
-*6*
+(f ) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ esplorazzjoni jew estrazzjoni ta’ riżorsi naturali.
 
-[L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) (f ) minjiera, bir taż-żejt jew tal-gass, barriera jew kull post ieħor ta’ esplorazzjoni jew estrazzjoni ta’ riżorsi naturali.
+## 3.
 
-\3. (a) Sit tal-bini jew kostruzzjoni, immuntar, jew proġett ta’ installazzjoni jew attivitajiet supervisorji b’konnessjoni magħhom jikkostitwixxi stabbiliment permanenti iżda biss meta tali sit, proġett jew attivitajiet ikomplu għaddejjin għal perjodu ta’ aktar minn 9 xhur.
+(a) Sit tal-bini jew kostruzzjoni, immuntar, jew proġett ta’ installazzjoni jew attivitajiet supervisorji b’konnessjoni magħhom jikkostitwixxi stabbiliment permanenti iżda biss meta tali sit, proġett jew attivitajiet ikomplu għaddejjin għal perjodu ta’ aktar minn 9 xhur.
 
 (b) L-għoti ta’ servizzi, inklużi servizzi konsultattivi minn impriża permezz ta’ impjegati jew persunal ieħor ingaġġat mill-impriża għal dan l-għan jikkostitwixxi stabbiliment permanenti iżda biss fejn l-attivitajiet ta’ dik in-natura jkomplu (għall-istess proġett jew proġett konness) fil-pajjiż għall-perjodu jew perjodi li jammontaw għal aktar min 6 xhur fi kwalunkwe perjodu ta’ tnax-il xahar.
 
@@ -211,13 +191,7 @@ Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabb
 
 ## 5.
 
-Minkejja d-dispożizzjonijiet tal-paragrafi 1 u 2, fejn persuna - li ma tkunx aġent bi status indipendenti li gћaliha japplika l-paragrafu 6 - tkun qegћda taġixxi f’isem impriża u jkollha, u tkun abitwalment teżerċita fi Stat Kontraenti l-awtorità li tikkonkludi kuntratti f’isem l-impriża, dik l-impriża gћandha titqies li jkollha stabbiliment permanenti f’dak l-Istat għar-rigward ta’ kull attività li dik il-persuna tagħmel għall-impriża, sakemm l-attivitajiet ta’ dik il- (TAXXI FUQ L-INCOME)
-
-*7*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
-
-persuna jkunu limitati għal dawk imsemmija fil-paragrafu 4, illi, jekk dawn jiġu eżerċitati minn ġo post fiss tan-negozju ma’ jagħmlux dan il-post tan-negozju fiss bħala stabbiliment permanenti taħt id-dispożizzjonijiet ta’ dak il-paragrafu.
+Minkejja d-dispożizzjonijiet tal-paragrafi 1 u 2, fejn persuna - li ma tkunx aġent bi status indipendenti li gћaliha japplika l-paragrafu 6 - tkun qegћda taġixxi f’isem impriża u jkollha, u tkun abitwalment teżerċita fi Stat Kontraenti l-awtorità li tikkonkludi kuntratti f’isem l-impriża, dik l-impriża gћandha titqies li jkollha stabbiliment permanenti f’dak l-Istat għar-rigward ta’ kull attività li dik il-persuna tagħmel għall-impriża, sakemm l-attivitajiet ta’ dik il-persuna jkunu limitati għal dawk imsemmija fil-paragrafu 4, illi, jekk dawn jiġu eżerċitati minn ġo post fiss tan-negozju ma’ jagħmlux dan il-post tan-negozju fiss bħala stabbiliment permanenti taħt id-dispożizzjonijiet ta’ dak il-paragrafu.
 
 ## 6.
 
@@ -243,11 +217,9 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 **Profitti Minn Negozju**
 
-\1. Il-profitti ta’ impriża ta’ Stat Kontraenti gћandhom jiġu [L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) intaxxati biss f’dak l-Istat kemm-il darba l-impriża ma tkunx tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk. Jekk l-impriża tkun qiegћda tmexxi negozju kif hawn aktar qabel imsemmi, il-profitti tal-impriża jistgћu jiġu intaxxati fl-Istat l-ieћor iżda biss gћal dik il-parti minnhom daqs kemm tkun attribwibbli lil dak l-istabbiliment permanenti.
+\1. Il-profitti ta’ impriża ta’ Stat Kontraenti gћandhom jiġu intaxxati biss f’dak l-Istat kemm-il darba l-impriża ma tkunx tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk. Jekk l-impriża tkun qiegћda tmexxi negozju kif hawn aktar qabel imsemmi, il-profitti tal-impriża jistgћu jiġu intaxxati fl-Istat l-ieћor iżda biss gћal dik il-parti minnhom daqs kemm tkun attribwibbli lil dak l-istabbiliment permanenti.
 
 \2. Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 3, meta impriża ta’ Stat Kontraenti tkun tmexxi negozju fl-Istat Kontraenti l-ieћor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, gћandhom jiġu attribwiti f’kull Stat Kontraenti lil dak l-istabbiliment permanenti l-profitti li dan kien ikun mistenni jagћmel kieku kienet impriża distinta u separata li taћdem fl-istess attivitajiet jew oћrajn bħalhom taћt l-istess kondizzjonijiet jew simili għalihom u li tkun tittratta gћalkollox b’mod indipendenti mal-impriża li tkun stabbiliment permanenti tagћha.
-
-*8*
 
 \3. Sabiex jiġu stabbiliti l-profitti ta’ stabbiliment permanenti, gћandhom jkunu permessi bћala tnaqqis l-ispejjeż li jsiru gћall-gћanijiet tan-negozju tal-istabbiliment permanenti, inklużi l-ispejjeż eżekuttivi u amministrattivi ġenerali li jkunu saru, kemm jekk isiru fl-Istat li fih ikun jinsab l-istabbiliment permanenti jew band’oħra. Huwa mifhum li l-ispejjeż li għandhom jiġu mħollija bħala tnaqqis minn Stat Kontraenti għandhom jinkludu biss spejjeż li jistghu jitnaqqsu taħt il-liġijiet domestiċi ta’ dak l-Istat.
 
@@ -260,12 +232,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 ## 7.
 
 Fejn il-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegħdin jiġu trattati separatament f’Artikoli oħra ta’ dan il-Ftehim, għaldaqshekk id-dispożizzjonijiet ta’ dawk l-Artikoli m’għandhomx jintalqtu bid-dispożizzjonijiet ta’ dan l-Artikolu.
-
-(TAXXI FUQ L-INCOME)
-
-*9*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
 
 **ARTIKOLU 8**
 
@@ -289,11 +255,9 @@ Fejn il-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegħdin jiġu t
 
 u f’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewġ impriżi fir-relazzjonijiet kummerċjali jew finanzjarji tagћhom li ma jkunux jaqblu ma’ dawk li kieku kienu jiġu magћmula bejn impriżi indipendenti, f’dak il-każ il-profitti li, kieku ma kienx gћal dawk il-kondizzjonijiet, kienu jakkumulaw favur xi waħda mill-impriżi, iżda, minћabba f’dawk il-kondizzjonijiet, ma jkunux ġew hekk akkumulati, jistgћu jiġu inklużi fil-profitti ta’ dik l-impriża u jiġu intaxxati skont hekk.
 
-\2. Fejn Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat - u skont hekk jintaxxa - profitti li fuqhom impriża tal- Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kieku kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kondizzjonijiet magћmula bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor għandu jagћmel tibdil xieraq fl-ammont tat-taxxa hekk imposta fuq dawk il-profitti fejn dak l-Istat l-ieħor iqis li dak it-tibdil huwa ġustifikat. Sabiex jiġi stabbilit dak it- [L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) tibdil, għandhom jitqiesu kif imiss id-dispożizzjonijiet l-oћra ta’ dan il- Ftehim u l-awtoritajiet kompetenti ta’ l-Istati Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw ma xulxin.
+\2. Fejn Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat - u skont hekk jintaxxa - profitti li fuqhom impriża tal- Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kieku kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kondizzjonijiet magћmula bejn iż-żewġ impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor għandu jagћmel tibdil xieraq fl-ammont tat-taxxa hekk imposta fuq dawk il-profitti fejn dak l-Istat l-ieħor iqis li dak it-tibdil huwa ġustifikat. Sabiex jiġi stabbilit dak it-tibdil, għandhom jitqiesu kif imiss id-dispożizzjonijiet l-oћra ta’ dan il- Ftehim u l-awtoritajiet kompetenti ta’ l-Istati Kontraenti gћandhom, jekk ikun hekk meћtieġ, jikkonsultaw ma xulxin.
 
 **ARTIKOLU 10**
-
-*10*
 
 **Dividendi**
 
@@ -313,13 +277,7 @@ L-awtoritajiet kompetenti tal-Istati Kontraenti għandhom bi ftehim reċiproku j
 
 \3. Il-frażi "dividendi" kif użata f’dan l-Artikolu tfisser income minn ishma jew minn drittijiet oħra li ma jkunux pretensjonijiet ta’ debitu, li jipparteċipaw fi profitti, kif ukoll income minn drittijiet korporattivi oћra li jingћata l-istess trattament dwar it-taxxa bћallikieku kien income minn ishma skont il-liġijiet tal-Istat fejn tkun residenti l-kumpannija li tkun qegћda tagћmel it-tqassim.
 
-\4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx (TAXXI FUQ L-INCOME)
-
-*11*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
-
-japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, u il-holding li permezz tiegħu jitħallsu dawn id-dividendi jkun effettivament marbut ma’ dan l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 għandhom japplikaw.
+\4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tad-dividendi, li jkun residenti ta’ Stat Kontraenti, ikun imexxi negozju fl-Istat Kontraenti l-ieћor li l-kumpannija li tћallas id-dividendi tkun residenti tiegћu permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk, u il-holding li permezz tiegħu jitħallsu dawn id-dividendi jkun effettivament marbut ma’ dan l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 għandhom japplikaw.
 
 \5. Fejn kumpannija li tkun residenti ta’ Stat Kontraenti tikseb profitti jew income mill-Istat Kontraenti l-ieћor, dak l-Istat l-ieћor ma jista’ jimponi ebda taxxa fuq id-dividendi mћallsa mill-kumpannija, ћlief sakemm dawk id-dividendi jitћallsu lil residenti ta’ dak l-Istat l-ieћor jew sakemm il-holding li permezz tiegħu jitћallsu d-dividendi jkun effettivament marbut ma’ stabbiliment permanenti li jkun jinsab f’dak Istat l-ieћor, lanqas ma jista’ jassoġġetta l-profitti mhux imqassma tal-kumpannija gћal taxxa fuq il-profitti mhux imqassma tal-kumpannija, ukoll jekk id-dividendi mћallsa jew il-profitti mhux imqassma jkunu kollha kemm huma jew f’parti minnhom jikkonsistu fi profitti jew income li jinqalgћu f’dak l-Istat l-ieћor.
 
@@ -335,11 +293,9 @@ L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom bi ftehim reċipro
 
 \3. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparteċipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew obbligazzjonijiet, inkluż premiums u premijiet marbuta ma dawn it-titoli, bonds jew obbligazzjonijiet. Penali rigward ħlas tardiv m’għandhomx jitqiesu bħala mgħax għall-għanijiet ta’ dan l-Artikolu.
 
-\4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tal-imgћax li jkun residenti ta’ [L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti. F’dak il-każ, id-dispożizzjonijiet ta’ l-Artikolu 7 gћandhom japplikaw.
+\4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx ikunu japplikaw jekk is-sid benefiċjarju tal-imgћax li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala’ l-imgћax, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti. F’dak il-każ, id-dispożizzjonijiet ta’ l-Artikolu 7 gћandhom japplikaw.
 
 \5. L-imgħax għandu jitqies li jinqala’ fi Stat Kontraenti meta min iћallas ikun resident ta’ dak l-Istat. Fejn, madankollu, l-persuna li tkun qegћda tћallas l-imgћax, kemm jekk din tkun kemm jekk ma tkunx residenti ta’ Stat Kontraenti, ikollha fi Stat Kontraenti stabbiliment permanenti li f’rabta miegħu ikun oriġina d-debitu li fuqu jitћallas l-imgћax, u dak l-imgћax jiġġarrab minn dak l-istabbiliment permanenti, gћaldaqstant dak l-imgћax gћandu jitqies li jinqala’ fl-Istat fejn ikun jinsab l-istabbiliment permanenti.
-
-*12*
 
 \6. Fejn, minћabba f’relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju jew bejn it-tnejn li huma u xi persuna oћra, l-ammont ta’ l-imgћax, wara li jiġi ikkunsidrat il-pretensjoni ta’ debitu li dwarha qed jitħallas, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l-Artikolu gћandhom ikunu japplikaw biss gћall-ammont l-aħħar imsemmi. F’dak il-każ, il-parti żejda tal-ћlasijiet għandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu id-dispożizzjonijiet l-oћra skont ta’ dan il-Ftehim.
 
@@ -354,12 +310,6 @@ L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom bi ftehim reċipro
 L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom bi ftehim reċiproku jiftehmu bejniethom il-mod ta’ l-applikazzjoni ta’ din il-limitazzjoni.
 
 \3. Il-frażi "royalties" skont ma tintuża f’dan l-Artikolu tfisser ћlasijiet ta’ kull xorta li jiġu ricevuti bħala korrispettiv gћall-użu ta’, jew gћall-jedd tal-użu, ta’ kull dritt tal-awtur ta’ xogћol letterarju, artistiku jew xjentifiku, inklużi film jew films ċinematografiċi jew tapes użati għax-xandir bir-radju jew bit-televiżjoni, kull privattiva, trade mark, disinn jew mudell, pjan, formula sigrieta jew proċess, jew għall-informazzjoni li tikkonċerna esperjenza industrijali, kummerċjali jew xjentifika.
-
-(TAXXI FUQ L-INCOME)
-
-*13*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties, permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet ta’ l-Artikolu 7 gћandhom japplikaw.
 
@@ -377,11 +327,9 @@ L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom bi ftehim reċipro
 
 \3. Qligħ li jinkiseb minn impriża ta’ Stat Kontraenti mit-trasferiment ta’ bastimenti jew inġenji ta’ l-ajru li jkunu qegћdin jiġu mħaddma fi traffiku internazzjonali, jew minn proprjetà mobbli li tkun tappartjeni għat-tħaddim ta’ dawk il-bastimenti jew inġenji ta’ l-ajru, gћandu jiġi intaxxat biss f’dak l-Istat.
 
-\4. Qligħ li jinkiseb minn resident mit-trasferiment ta’ ishma [L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) jew interessi komparabbli, bħal interessi f'soċjetà jew trusts, jistgħu jiġu ntaxxati fl-Istat Kontraenti l-ieħor jekk, fi kwalunkwe ħin matul il- 365 jum ta' qabel it-trasferiment, dawn l-ishma jew interessi komparabbli ġejjin minn aktar minn 50 fil-mija tal-valur tagħhom direttament jew indirettament minn proprjetà immobbli (kif definit fl- Artikolu 6), li jinsab f'dak l-Istat Kontraenti l-ieħor.
+\4. Qligħ li jinkiseb minn resident mit-trasferiment ta’ ishma jew interessi komparabbli, bħal interessi f'soċjetà jew trusts, jistgħu jiġu ntaxxati fl-Istat Kontraenti l-ieħor jekk, fi kwalunkwe ħin matul il- 365 jum ta' qabel it-trasferiment, dawn l-ishma jew interessi komparabbli ġejjin minn aktar minn 50 fil-mija tal-valur tagħhom direttament jew indirettament minn proprjetà immobbli (kif definit fl- Artikolu 6), li jinsab f'dak l-Istat Kontraenti l-ieħor.
 
 \5. Qligħ mit-trasferiment ta’ kull proprjetà, li ma jkunx dak imsemmi fil-paragrafi 1, 2, 3 u 4 gћandu jiġi intaxxat biss fl-Istat Kontraenti li min jittrasferixxi jkun residenti fih.
-
-*14*
 
 **ARTIKOLU 14**
 
@@ -404,12 +352,6 @@ L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom bi ftehim reċipro
 **Drittijiet tad-Diretturi**
 
 Id-drittijiet tad-diretturi u ћlasijiet simili oћra li jinkisbu minn resident ta’ Stat Kontraenti fil-kapaċità tiegћu ta’ membru tal-bord tad-diretturi ta’ kumpannija li tkun residenti tal-Istat Kontraenti l-ieћor jistgћu jiġu intaxxati f’dak l-Istat l-ieћor.
-
-(TAXXI FUQ L-INCOME)
-
-*15*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
 
 **ARTIKOLU 16**
 
@@ -439,9 +381,7 @@ Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 2 ta’ l-Artikolu 18, pensjon
 
 (ii) ma sarx residenti ta’ dak l-Istat bil-għan biss biex jagħti dawk is-servizzi.
 
-*16*
-
-[L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) 2. (a) Minkejja id-dispożizzjonijiet tal-paragrafu 1 pensjonijiet u rimunerazzjoni oħra simili mħallsa minn, jew minn fondi maħluqa minn Stat Kontraenti lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat gћandhom jiġu ntaxxati biss f’dak l-Istat.
+\2. (a) Minkejja id-dispożizzjonijiet tal-paragrafu 1 pensjonijiet u rimunerazzjoni oħra simili mħallsa minn, jew minn fondi maħluqa minn Stat Kontraenti lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat gћandhom jiġu ntaxxati biss f’dak l-Istat.
 
 (b) Madankollu, pensjonijiet bħal dawk u rimunerazzjoni simili gћandhom jiġu ntaxxati biss fl-Istat Kontraenti l-ieћor jekk l-individwu jkun residenti u ċittadin ta’ dak l-Istat.
 
@@ -467,13 +407,7 @@ Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 2 ta’ l-Artikolu 18, pensjon
 
 \1. Elementi ta’ income ta’ resident ta’ Stat Kontraenti, jinqalgħu min fejn jinqalgħu, u li ma jkunux ittrattati fl-Artikoli ta’ qabel ta’ dan il-Ftehim għandhom jiġu intaxxati biss f’dak l-Istat.
 
-\2. Id-dispożizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw għal income, ħlief għal income minn proprjetà immobbli kif (TAXXI FUQ L-INCOME)
-
-*17*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
-
-definit fil-paragrafu 2 tal-Artikolu 6, kemm il-darba min jirċievi dak l-income, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jkun jitħallas l-income ikunu marbuta effettivament ma’ dak l-istabbiliment permanenti. F’dak il-każ, id-dispożizzjonijiet tal-Artikolu 7 għandhom japplikaw.
+\2. Id-dispożizzjonijiet tal-paragrafu 1 m’għandhomx japplikaw għal income, ħlief għal income minn proprjetà immobbli kif definit fil-paragrafu 2 tal-Artikolu 6, kemm il-darba min jirċievi dak l-income, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieħor permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jkun jitħallas l-income ikunu marbuta effettivament ma’ dak l-istabbiliment permanenti. F’dak il-każ, id-dispożizzjonijiet tal-Artikolu 7 għandhom japplikaw.
 
 \3. Minkejja id-dispożizzjonijiet ta’ paragrafu 1, jekk residenti ta’ Stat Kontraenti jikseb income minn għejjun fl-Istat Kontraenti l-ieħor fil-forma ta’ rebħ minn lotteriji, tisliba, tiġrijiet li jinkludu tiġrijiet taz-zwiemel, logħob tal-karti, u logħob ta’ kwalunkwe tip jew logħob tal-ażżard jew imħatri ta’ kwalunkwe forma jew natura, tkun xi tkun, dak l-income jista jiġi intaxxat fl-Istat Kontraenti l-ieħor.
 
@@ -491,11 +425,9 @@ definit fil-paragrafu 2 tal-Artikolu 6, kemm il-darba min jirċievi dak l-income
 
 \1. Iċ-ċittadini ta’ Stat Kontraenti ma għandhom jiġu assoġġettati fl-Istat Kontraenti l-ieћor gћal ebda tassazzjoni jew ebda ћtieġa li jkunu konnessi ma’ dan, jekk din tkun diversa jew ta’ iktar piż mit-taxxa u l-ħtiġiet konnessi li gћalihom ċittadini ta’ dak l-Istat l-ieћor fl-istess ċirkostanzi, b’mod partikolari gћar-rigward ta’ residenza, ikunu jew jistgħu jkunu assoġġettati. Din id-dispożizzjoni għandha, minkejja d-dispożizzjonijiet tal-Artikolu 1, tapplika wkoll għall-persuni li mhumiex residenti ta’ wiehed mill-Istati Kontraenti jew tat-tnejn li huma.
 
-\2. Persuni apolidi li jkunu residenti ta’ Stat Kontraenti m’għandhomx jkunu soġġetti f’xi Stat Kontraenti wieħed jew l-ieħor [L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) għal xi tassazzjoni jew ħtieġa li jkunu b’rabta ma’ dan li tkun xort’oħra jew ta’ aktar piż mit-taxxa jew ħtiġiet konnessi li għalihom ċittadini tal- Istat involut fl-istess ċirkostanzi, b’mod partikolari għar-rigward ta’ residenza, jkunu jew jistgħu jkunu assoġġetati.
+\2. Persuni apolidi li jkunu residenti ta’ Stat Kontraenti m’għandhomx jkunu soġġetti f’xi Stat Kontraenti wieħed jew l-ieħor għal xi tassazzjoni jew ħtieġa li jkunu b’rabta ma’ dan li tkun xort’oħra jew ta’ aktar piż mit-taxxa jew ħtiġiet konnessi li għalihom ċittadini tal- Istat involut fl-istess ċirkostanzi, b’mod partikolari għar-rigward ta’ residenza, jkunu jew jistgħu jkunu assoġġetati.
 
 \3. It-taxxa fuq stabbiliment permanenti li impriża ta’ Stat Kontraenti jkollha fl-Istat Kontraenti l-ieħor m’għandhiex tiġi imposta b’mod inqas favorevoli f’dak Istat l-ieħor mit-taxxa mposta fuq impriżi ta’ dak l-Istat l-ieħor li jkunu qegħdin iwettqu l-istess attivitajiet. Din id-dispożizzjoni m’għandhiex titqies li tobbliga xi Stat Kontraenti li jagħti lil residenti tal-Istat Kontraenti l-ieħor xi allowances personali, ħelsien u tnaqqis għall-għanijiet ta’ tassazzjoni li jingħata minħabba l-istatus ċivili jew responsabbiltajiet ta’ familja li jagħti lir-residenti tiegħu.
-
-*18*
 
 \4. Ħlief meta japplikaw id-dispożizzjonijiet tal-paragrafu 1 tal-Artikolu 9, tal-paragrafu 6 tal-Artikolu 11, jew tal-paragrafu 6 tal- Artikolu 12, mgħax, royalties, drittijiet ta’ servizzi u ħlasijiet oħra li jitħallsu minn impriża ta’ Stat Kontraenti lil resident tal-Istat Kontraenti l-ieħor gћandhom, gћall-fini li jiġu stabbiliti x’inhuma l-profitti taxxabbli ta’ dik l-impriża, jiġu mnaqqsa taћt l-istess kondizzjonijiet bħallikieku dawn kienu tħallsu lil resident tal-Istat l-ewwel imsemmi.
 
@@ -509,13 +441,7 @@ definit fil-paragrafu 2 tal-Artikolu 6, kemm il-darba min jirċievi dak l-income
 
 \1. Fejn persuna tqis li l-azzjonijiet ta’ wieħed mill-Istati Kontraenti jew tat-tnejn jirriżultawlu jew se jirriżultawlu f’taxxa li ma tkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim, huwa jista’, irrispettivament mir-rimedji provduti mil-liġi domestika ta’ dawk l- Istati, jippreżenta l-każ tiegħu lill-awtorità kompetenti ta’ xi wiehed mill-Istati Kontraenti. Il-każ gћandu jiġi ppreżentat fi żmien tliet snin minn l-ewwel notifika ta’ l-azzjoni li tirriżulta f’taxxa li ma tkunx skont id-dispożizzjonijiet tal-Ftehim.
 
-\2. L-awtorità kompetenti għandha tipprova, jekk jidhrilha li l-oġġezzjoni hi ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal (TAXXI FUQ L-INCOME)
-
-*19*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
-
-soluzzjoni sodisfaċenti, issolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti ta’ l-Istat Kontraenti l-ieħor, bil-għan li tiġi evitata taxxa li ma tkunx skont il-Ftehim. Kull ftehim milħuq għandu jiġi implimentat minkejja kwalunkwe limitu ta’ żmien fil-liġi domestika tal-Istati Kontraenti.
+\2. L-awtorità kompetenti għandha tipprova, jekk jidhrilha li l-oġġezzjoni hi ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, issolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti ta’ l-Istat Kontraenti l-ieħor, bil-għan li tiġi evitata taxxa li ma tkunx skont il-Ftehim. Kull ftehim milħuq għandu jiġi implimentat minkejja kwalunkwe limitu ta’ żmien fil-liġi domestika tal-Istati Kontraenti.
 
 \3. L-awtoritajiet kompetenti ta’ l-Istati Kontraenti għandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubji li jistgħu jinqalgħu fir-rigward tal-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Huma jistgħu wkoll jikkonsultaw flimkien għall-eliminazzjoni ta’ taxxa doppja f’każijiet mhux previsti f’dan il-Ftehim.
 
@@ -531,9 +457,7 @@ soluzzjoni sodisfaċenti, issolvi l-każ bi ftehim reċiproku mal-awtorità komp
 
 \3. F’ebda każ ma’ għandhom id-dispożizzjonijiet tal-paragrafi 1 u 2 jiftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
 
-*20*
-
-[L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) (a) li jwettaq miżuri amministrattivi li ma jkunux jaqblu mal-liġijiet u mal-prattika amministrattiva ta’ dak l-Istat Kontraenti jew ta’ l-Istat Kontraenti l-ieħor;
+(a) li jwettaq miżuri amministrattivi li ma jkunux jaqblu mal-liġijiet u mal-prattika amministrattiva ta’ dak l-Istat Kontraenti jew ta’ l-Istat Kontraenti l-ieħor;
 
 (b) li jagћti informazzjoni li ma tkunx tista tinkiseb taħt il-liġijiet jew fil-kors normali ta’ l-amministrazzjoni ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ieħor;
 
@@ -554,12 +478,6 @@ Ebda ħaġa f’dan il-Ftehim ma gћandu jolqot il-privileġġi fiskali tal-memb
 **Dritt Għal Benefiċċji**
 
 Minkejja d-dispożizzjonijiet l-oħra ta’ dan il-Ftehim, benefiċċju taħt dan il-Ftehim ma jingħatax fir-rigward ta’ element ta’ income jekk wieħed jista’ raġjonevolment jasal għall-konklużjoni, meta jitqiesu l-fatti rilevanti u ċ-ċirkostanzi kollha, li l-ksib ta’ dak il-benefiċċju kien wieħed mill-għanijiet prinċipali ta’ xi arranġament jew transazzjoni li wasslu direttament jew indirettament għal dak il-benefiċċju, sakemm ma jiġix stabbilit li l-għoti ta’ dak il-benefiċċju f’dawn iċ-ċirkostanzi jkun konformi mal-oġġettiv u l-għan tad-dispożizzjonijiet rilevanti ta’ dan il-Ftehim.
-
-(TAXXI FUQ L-INCOME)
-
-*21*
-
-(IR-REPUBBLIKA TAL-ARMENJA) [L.S.123.196
 
 ARTIKOLU 28
 
@@ -587,11 +505,9 @@ Dan il-Ftehim gћandu jibqa’ fis-seħħ sakemm jintemm minn Stat Kontraenti. K
 
 (b) fl-Armenja:
 
-(i) fir-rigward ta’ taxxi miżmuma f’ras il-għajn, fuq income miksub fi jew wara l-ewwel jum ta’ Jannar fis-sena kalendarja li jmiss wara li fiha jingħata l- [L.S. 123.196 (TAXXI FUQ L-INCOME) (IR-REPUBBLIKA TAL-ARMENJA) avviż tat-terminazzjoni; u
+(i) fir-rigward ta’ taxxi miżmuma f’ras il-għajn, fuq income miksub fi jew wara l-ewwel jum ta’ Jannar fis-sena kalendarja li jmiss wara li fiha jingħata l-avviż tat-terminazzjoni; u
 
 (ii) fir-rigward ta’ taxxi oħra fuq income għal snin taxxabbli li jibdew fi jew wara l-ewwel jum ta’ Jannar tas-sena kalendarja li jmiss wara li jinghata l-avviż tat-terminazzjoni.
-
-*22*
 
 B’XHIEDA ta’ dan is-sottoskritti, li huma awtorizzati kif imiss mill-Gvernijiet rispettivi tagħhom iffirmaw dan il-Ftehim.
 

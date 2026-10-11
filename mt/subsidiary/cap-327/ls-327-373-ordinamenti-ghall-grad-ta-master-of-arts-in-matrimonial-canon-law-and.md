@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Arts in Matrimonial Canon Law and Jurisprudence taħt il-patroċinju tal-Fakultà tat-Teoloġija (S.L. 327.373)
 
-CANON LAW AND JURISPRUDENCE TA}T
-
-*1*
-
-IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [S.L.327.373
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.373**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -69,13 +63,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (3) (a) Il-Bord, wara l-approvazzjoni tas-Senat, għandu jiddetermina l-għadd ta’ applikanti li jistgħu jitħallew jirriġestraw skont ir-riżorsi disponibbli. Il-Bord iżda, għandu jħabbar l-għadd ta’ postijiet disponibbli fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
-(b) Meta l-għadd ta’ applikanti eliġibbli jaqbeż in-numru CANON LAW AND JURISPRUDENCE TA}T
-
-*2*
-
-[S.L.327.373 IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA
-
-ta’ postijiet disponibbli, il-Bord jagħżel lill-applikanti skont dawn il-kriterji li ġejjin:
+(b) Meta l-għadd ta’ applikanti eliġibbli jaqbeż in-numru ta’ postijiet disponibbli, il-Bord jagħżel lill-applikanti skont dawn il-kriterji li ġejjin:
 
 (i) it-tip u l-klassi tal-grad;
 
@@ -121,13 +109,9 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (3) It-titlu provviżorju tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata għandhom ikunu mressqa għall-approvazzjoni tal- Bord sal-aħħar tat-tieni semestru.
 
-CANON LAW AND JURISPRUDENCE TA}T
+## 10. Superviżur.
 
-*3*
-
-IL-PATRO~INJU TAL-FAKULTÀ TAT-TEOLO{IJA [S.L.327.373 10. (1) L-istudenti jkunu meħtieġa li jżommu kuntatt regolari mas-superviżur tagħhom.
-
-*Superviżur.*
+(1) L-istudenti jkunu meħtieġa li jżommu kuntatt regolari mas-superviżur tagħhom.
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord rapporti dwar il-progress ta’ kull student taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji, kemm jekk l-istudent ikun qiegħed isegwi l-kors fuq bażi full-time u kemm jekk part-time. Dawn ir-rapporti jistgħu jinkludu rakkomandazzjoni li jew (a) jittawwal il-perjodu ta’ studju biex l-istudent ikun jista’ jtemm id-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 

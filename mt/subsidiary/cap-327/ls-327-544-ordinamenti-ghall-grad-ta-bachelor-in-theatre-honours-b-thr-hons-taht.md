@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor in Theatre (Honours) - B.Thr.(Hons) - taħt il-patroċinju tal-Iskola tal-Arti Performattiva (S.L. 327.544)
 
-*1*
-
-B. THEATRE (HONS) [L.S.327.544
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.544**
 
 **ORDINAMENTI GĦALL-GRAD TA’ BACHELOR IN**
@@ -71,11 +67,7 @@ Il-kors jinfirex fuq medda ta’ tliet snin ta’ studju full-time jew ħames sn
 
 ## 5. Programm ta’ studju.
 
-Il-programm ta’ studju, li jikkonsisti minn taqsimiet studju [L.S.327.544 B. THEATRE (HONS)
-
-li għalihom hemm assenjati total ta’ 180 krettu ECTS, għandu jkun ippubblikat wara l-approvazzjoni mis-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu ta’ kull kors. Suġġett għal tibdiliet li l-Bord jista’ jkun kostrett li jagħmel, bl-approvazzjoni tas-Senat, l-istudenti jistgħu jkunu meħtieġa jsegwu t-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm ta’ studju għall- Grad, sakemm li l-programm ta’ studju jkun imfassal skont id-dispożizzjonijiet relevanti tar-Regolamenti Prinċipali.
-
-*2*
+Il-programm ta’ studju, li jikkonsisti minn taqsimiet studju li għalihom hemm assenjati total ta’ 180 krettu ECTS, għandu jkun ippubblikat wara l-approvazzjoni mis-Senat, normalment mhux anqas minn tmien xhur qabel il-bidu ta’ kull kors. Suġġett għal tibdiliet li l-Bord jista’ jkun kostrett li jagħmel, bl-approvazzjoni tas-Senat, l-istudenti jistgħu jkunu meħtieġa jsegwu t-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm ta’ studju għall- Grad, sakemm li l-programm ta’ studju jkun imfassal skont id-dispożizzjonijiet relevanti tar-Regolamenti Prinċipali.
 
 ## 6. Diploma.
 

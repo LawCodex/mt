@@ -15,26 +15,16 @@ retrieved: 2026-10-12
 
 # Regolamenti tal-Kors għall-Postgraduate Diploma in Education (Administration and Management) - P.G. Dip.Ed (S.L. 327.268)
 
-KORS G}ALL-POSTGRADUATE DIPLOMA IN EDUCATION
+**LE{ISLAZZJONI SUSSIDJARJA 327.268**
 
-*1*
+**REGOLAMENTI TAL-KORS G}ALL-**
 
-(ADMINISTRATION AND MANAGEMENT) - P.G. DIP. ED. [L.S.327.268
+**POSTGRADUATE DIPLOMA IN EDUCATION**
 
-LE{ISLAZZJONI SUSSIDJARJA 327.268
+**(ADMINISTRATION AND MANAGEMENT) -**
 
-REGOLAMENTI TAL-KORS G}ALL-
+**P.G. DIP. ED.**
 
-POSTGRADUATE DIPLOMA IN EDUCATION
-
-(ADMINISTRATION AND MANAGEMENT) -
-
-P.G. DIP. ED.
-
-10 ta’ {unju, 2005
-
-L-AVVI| LEGALI 185 ta’ l-2005, kif emendat bl-Avvi\\ Legali 92 ta’ l-
-
-\2006.
+10 ta’ {unju, 2005 L-AVVI| LEGALI 185 ta’ l-2005, kif emendat bl-Avvi\\ Legali 92 ta’ l- 2006.
 
 Revokat bl-Avviż Legali 275 tal-2015.

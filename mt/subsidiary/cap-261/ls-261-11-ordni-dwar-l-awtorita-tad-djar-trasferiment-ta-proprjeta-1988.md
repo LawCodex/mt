@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1988) (S.L. 261.11)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1988) [ L.S.261.11
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.11**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -97,7 +95,7 @@ B’se]] mis-6 ta’ Mejju, 1988:
 
 (v) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 259 sa 281 ta’ madwar 4287.5 metru kwadru li tmiss mit-Tramuntana, Nofs-in-Nhar, Lvant u Punent ma’ proprjetà tal- Gvern;
 
-(vi) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 257, 258 u 282 sa 305 ta’ madwar 4901 metru kwadru li tmiss mit- Tramuntana, Nofs-in-Nhar, Lvant u Punent ma’ (TRASFERIMENT TA’ PROPRJETÀ) (1988) [ L.S.261.11 proprjetà tal-Gvern;
+(vi) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 257, 258 u 282 sa 305 ta’ madwar 4901 metru kwadru li tmiss mit- Tramuntana, Nofs-in-Nhar, Lvant u Punent ma’ proprjetà tal-Gvern;
 
 (vii) Bi``a art li tikkonsisti fi plots fl-imsemmi Estate mag]rufa b]ala Plot Nri. 239 sa 256 u 306 sa 323 ta’ madwar 6616 metru kwadru li tmiss mit- Tramuntana, Nofs-in-Nhar, Lvant u Punent ma’ proprjetà tal-Gvern;
 

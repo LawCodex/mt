@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar l-Oppju mhux Maħdum"
-identifier: "S.L. 101.1"
+identifier: "S.L. 101.01"
 eli: "https://legislation.mt/eli/sl/101.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/101.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar l-Oppju mhux Maħdum (S.L. 101.1)
+# Regoli dwar l-Oppju mhux Maħdum (S.L. 101.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 101.01**
 

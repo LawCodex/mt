@@ -1,6 +1,6 @@
 ---
 title: "Regolament dwar l-Għajnuna Finanzjarja lill-Katina tal-Valur Agrikolu"
-identifier: "S.L. 146.8"
+identifier: "S.L. 146.08"
 eli: "https://legislation.mt/eli/sl/146.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/146.8/20130311/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolament dwar l-Għajnuna Finanzjarja lill-Katina tal-Valur Agrikolu (S.L. 146.8)
+# Regolament dwar l-Għajnuna Finanzjarja lill-Katina tal-Valur Agrikolu (S.L. 146.08)
 
 **SUBSIDIARY LEGISLATION 146.08**
 

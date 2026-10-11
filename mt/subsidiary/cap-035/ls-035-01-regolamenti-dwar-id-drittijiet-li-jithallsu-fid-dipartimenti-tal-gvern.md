@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Drittijiet li jitħallsu fid-Dipartimenti tal-Gvern"
-identifier: "S.L. 35.1"
+identifier: "S.L. 35.01"
 eli: "https://legislation.mt/eli/sl/35.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,11 +14,7 @@ version: "https://legislation.mt/eli/sl/35.1/20250930/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Drittijiet li jitħallsu fid-Dipartimenti tal-Gvern (S.L. 35.1)
-
-*1*
-
-FID-DIPARTIMENTI TAL-GVERN [L.S.35.01
+# Regolamenti dwar id-Drittijiet li jitħallsu fid-Dipartimenti tal-Gvern (S.L. 35.01)
 
 **LEĠISLAZZJONI SUSSIDJARJA 35.01**
 
@@ -90,7 +86,7 @@ Stazzjon tal-Ajru, dritt fis-sena:
 
 *11.60 230 465 695 930*
 
-(i) mhux iżjed minn 100 kHz ................................................. (ii) iżjed minn 100KHz sa 1MHz ........................................... (iii) iżjed minn 1MHz sa 10MHz ............................................. (iv) iżjed minn 10MHz sa 100MHz ......................................... FID-DIPARTIMENTI TAL-GVERN [L.S.35.01 3
+(i) mhux iżjed minn 100 kHz ................................................. (ii) iżjed minn 100KHz sa 1MHz ........................................... (iii) iżjed minn 1MHz sa 10MHz ............................................. (iv) iżjed minn 10MHz sa 100MHz .........................................
 
 (v) iżjed minn 100MHz, kull 100MHz bandwidth .................. 930 (b) Fixed radio link li topera fil-bandi ta’ frekwenza ’l fuq
 
@@ -199,8 +195,6 @@ radju, dritt fis-sena ........................................................ 6
 frekwenza tar-radju, dritt fis-sena ................................... 6,500 (b) għal kull stazzjon, għat-trasmissjoni ta’
 
 komunikazzjonijiet, użat għal kull avveniment:
-
-FID-DIPARTIMENTI TAL-GVERN [L.S.35.01 5
 
 (i) li jdum 30 ġurnata jew parti minnhom, għal kull 1 MHz
 
@@ -368,9 +362,7 @@ massima ta’ 50 dBW e.i.r.p.............................................. ebda 
 
 massima lejn horizon 20.8 dBW e.i.r.p., densità tal-
 
-ispektrum massima lejn horizon 17 dBW ......................... ebda ħlas FID-DIPARTIMENTI TAL-GVERN [L.S.35.01 7
-
-(b) li joperaw fil-faxxi 14.0-14.5 GHz (Earth-to-space), 10.7-
+ispektrum massima lejn horizon 17 dBW ......................... ebda ħlas (b) li joperaw fil-faxxi 14.0-14.5 GHz (Earth-to-space), 10.7-
 
 11.7 GHz (space-to Earth) u 12.5-12.75 GHz (space-to
 
@@ -476,10 +468,6 @@ Iżda għal finijiet ta’ din it-Taqsima "dinjatarju barrani" ifisser kull pers
 
 Iżda wkoll it-tul taż-żmien ta’ żjara ta’ din ix-xorta ma għandhiex tkun ta’ aktar minn tletin ġurnata konsekuttiva.
 
-*9*
-
-FID-DIPARTIMENTI TAL-GVERN [L.S.35.01
-
 MINISTERU GĦALL-AFFARIJIET BARRANIN
 
 N.G. 367 tal-1934 Id-drittijiet li jitħallsu lill-uffiċjali konsulari jew uffiċjali oħra A.L. 17 tal-1970 li jirrappreżentaw il-Gvern ta’ Malta f’territorji oħra għas- A.L. 65 tal-1973 servizzi speċifikati hawn taħt:
@@ -574,17 +562,13 @@ Għall-kustodja tal-ftehim mal-ekwipaġġ u għal kontrosenjar meħtieġ li jsir
 
 ## 28. 3.00
 
-Biex jiġi riċevut testment skont id-dispożizzjonijiet tal-artikolu 679 (2) tal- Kodiċi Ċivili (Kapitolu 16) ............... 29. Għall-firma taċ-ċertifikat meħtieġ bl-artikolu 14 tal-Att dwar is-Sigurtà fl-Ikel (Kapitolu 449) .............................. 30. Biex issir xi reġistrazzjoni li għaliha mhux provdut xort’oħra ......................................................................... 31. Biex tingħata l-firma konsulari, u siġill jekk meħtieġ, fuq xi dokument li għalih mhux provdut xort’oħra ................. FID-DIPARTIMENTI TAL-GVERN [L.S.35.01
+Biex jiġi riċevut testment skont id-dispożizzjonijiet tal-artikolu 679 (2) tal- Kodiċi Ċivili (Kapitolu 16) ............... 29. Għall-firma taċ-ċertifikat meħtieġ bl-artikolu 14 tal-Att dwar is-Sigurtà fl-Ikel (Kapitolu 449) .............................. 30. Biex issir xi reġistrazzjoni li għaliha mhux provdut xort’oħra ......................................................................... 31. Biex tingħata l-firma konsulari, u siġill jekk meħtieġ, fuq xi dokument li għalih mhux provdut xort’oħra ................. N.G. 7 tal-1930; MINISTERU GĦALL-ĠUSTIZZJA
 
 *10.00*
 
 *2.00*
 
 *5.00*
-
-N.G. 7 tal-1930; MINISTERU GĦALL-ĠUSTIZZJA
-
-*11*
 
 N.G. 51 tal-1932
 
@@ -710,15 +694,11 @@ Fil-ħinijiet tal-uffiċċju tad-dipartiment, meta jingħata avviż ta’ 24 sie
 
 *0.82 0.52*
 
-Għal kull tagħbija ta’ dgħajsa ta’ Għawdex ............................. Għal kull tagħbija ta’ dgħajsa tat-tagħbija ............................... FID-DIPARTIMENTI TAL-GVERN [L.S.35.01
-
-*0.12 0.06 2.33*
-
-Għal kull tagħbija ta’ dgħajsa żgħira tat-tagħbija jew ta’ dgħajsa tal-pass ...................................................................... Għal kull tagħbija ta’ karrettun ............................................... Warrant għall-professjoni ta’ Perit u Inġinier Ċivili ...............
-
-*13*
+Għal kull tagħbija ta’ dgħajsa ta’ Għawdex ............................. Għal kull tagħbija ta’ dgħajsa tat-tagħbija ............................... Għal kull tagħbija ta’ dgħajsa żgħira tat-tagħbija jew ta’ dgħajsa tal-pass ...................................................................... Għal kull tagħbija ta’ karrettun ............................................... Warrant għall-professjoni ta’ Perit u Inġinier Ċivili ...............
 
 **MINISTERU GĦAT-TRASPORT**
+
+*0.12 0.06 2.33*
 
 Awtorità għat-Trasport f’Malta
 
@@ -826,7 +806,7 @@ Fil-Port il-Kbir jew fil-Port ta’ Marsamxett:
 
 *0.47 0.58*
 
-għall-ewwel 12 il-siegħa jew parti minnhom ............................ għall-ewwel 12 il-siegħa jew parti minnhom ............................ għall-ewwel 6 siegħat jew parti minnhom, wara l-ewwel 12 il-siegħa ...................................................................................... Għal kull dgħajsa mpjegata biex tgħasses fuq bastiment, id-dritt li jiħallas, li jinkludi l-gwardji sanitarji, għal kull ġurnata ta’ 24 siegħa jew parti minn ġurnata. jkun ta’ .......................... Għal kull gwardja sanitarja li teskorta persuni jew merkanzija: għall-ewwel żewġ vjaġġi, fl-istess ġurnata, għal kull vjaġġ ...... għal aktar minn żewġ vjaġġi, fl-istess ġurnata, għal kull vjaġġ . FID-DIPARTIMENTI TAL-GVERN [L.S.35.01
+għall-ewwel 12 il-siegħa jew parti minnhom ............................ għall-ewwel 12 il-siegħa jew parti minnhom ............................ għall-ewwel 6 siegħat jew parti minnhom, wara l-ewwel 12 il-siegħa ...................................................................................... Għal kull dgħajsa mpjegata biex tgħasses fuq bastiment, id-dritt li jiħallas, li jinkludi l-gwardji sanitarji, għal kull ġurnata ta’ 24 siegħa jew parti minn ġurnata. jkun ta’ .......................... Għal kull gwardja sanitarja li teskorta persuni jew merkanzija: għall-ewwel żewġ vjaġġi, fl-istess ġurnata, għal kull vjaġġ ...... għal aktar minn żewġ vjaġġi, fl-istess ġurnata, għal kull vjaġġ . għal kull gwardja sanitarja li tgħasses fuq merkanzija, għal ġurnata ta’ 12 il-siegħa jew parti minn ġurnata ........................ Disinfezzjoni ta’ bastimenti, braken, eċċ.
 
 *0.23*
 
@@ -834,13 +814,9 @@ għall-ewwel 12 il-siegħa jew parti minnhom ............................ għall
 
 *0.23 0.17*
 
-*0.26 N.G. 338 tal-1925 4.66 2.33 0.17 0.12*
-
-għal kull gwardja sanitarja li tgħasses fuq merkanzija, għal ġurnata ta’ 12 il-siegħa jew parti minn ġurnata ........................ Disinfezzjoni ta’ bastimenti, braken, eċċ.
-
-*15*
-
 Bastimenti tal-isteam ............................................................... Bastimenti bil-qlugħ ................................................................ Braken .................................................................................... Dgħajjes .................................................................................. Meta bastiment jkun qiegħed jgħabbi faħam fil-kwarantina, għal kull parti tal-gverta li tiġi diżinfettata .............................. Passiġġieri fil-kwarantina
+
+*0.26 N.G. 338 tal-1925 4.66 2.33 0.17 0.12*
 
 *0.23*
 
@@ -932,11 +908,7 @@ eżami bir-ritratti minn 0.23 sa 4.66 barra mill-ispejjeż tal-films u biex jiġ
 
 N.G. 338 tal-1925 Ċertifikati
 
-Ċertifikati meħtieġa biex wieħed jieħu l-paga jew il-pensjoni ... b’xejn Ċertifikati maħruġa lil pazjenti li ma jħallsux .......................... b’xejn FID-DIPARTIMENTI TAL-GVERN [L.S.35.01
-
-Għall-eżami ta’ materjal patoloġiku fil-Laboratorju Kliniku:
-
-*17*
+Ċertifikati meħtieġa biex wieħed jieħu l-paga jew il-pensjoni ... b’xejn Ċertifikati maħruġa lil pazjenti li ma jħallsux .......................... b’xejn Għall-eżami ta’ materjal patoloġiku fil-Laboratorju Kliniku:
 
 *3.49 1.75 1.16 1.16 2.33 2.33 N.G. 464 tal-1934 0.23 1.16*
 
@@ -1028,11 +1000,7 @@ Dritt li għandu jitħallas minn kull student fl-Istadju Bażiku tal-programm Ji
 
 *144.09*
 
-Dritt li għandu jitħallas minn kull student fl-Istadju Bażiku tal-programm Jien Nappartjeni għar-ripetizzjoni tal-Iskill kit intitolat Ħiliet Diġitali.............................................................. 72.05 FID-DIPARTIMENTI TAL-GVERN [L.S.35.01
-
-Dritt li għandu jitħallas minn kull student fi Stadju I tal-programm Jien Nappartjeni għar-ripetizzjoni ta’ kwalunkwe wieħed mill-I skill k i t s 90.82 ...................................................................
-
-*19*
+Dritt li għandu jitħallas minn kull student fl-Istadju Bażiku tal-programm Jien Nappartjeni għar-ripetizzjoni tal-Iskill kit intitolat Ħiliet Diġitali.............................................................. 72.05 Dritt li għandu jitħallas minn kull student fi Stadju I tal-programm Jien Nappartjeni għar-ripetizzjoni ta’ kwalunkwe wieħed mill-I skill k i t s 90.82 ...................................................................
 
 Dritt li għandu jitħallas minn kull student fi Stadju II tal-programm Jien Nappartjeni għar-ripetizzjoni tal-Iskill kit intitolat il-Malti għall-Integrazzjoni ..............................
 

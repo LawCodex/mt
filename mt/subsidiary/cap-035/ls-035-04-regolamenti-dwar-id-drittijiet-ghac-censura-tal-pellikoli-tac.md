@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar id-Drittijiet għaċ-Ċensura tal-Pellikoli taċ-Ċinematografu"
-identifier: "S.L. 35.4"
+identifier: "S.L. 35.04"
 eli: "https://legislation.mt/eli/sl/35.4"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/35.4/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar id-Drittijiet għaċ-Ċensura tal-Pellikoli taċ-Ċinematografu (S.L. 35.4)
-
-DRITTIJIET G}A~-~ENSURA TAL-PELLIKOLI
-
-*1*
-
-TA~-~INEMATOGRAFU [L.S.35.04
+# Regolamenti dwar id-Drittijiet għaċ-Ċensura tal-Pellikoli taċ-Ċinematografu (S.L. 35.04)
 
 **LE{ISLAZZJONI SUSSIDJARJA 35.04**
 

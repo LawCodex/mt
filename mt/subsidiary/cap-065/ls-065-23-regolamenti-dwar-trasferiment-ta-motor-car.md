@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar Trasferiment ta' Motor-Car (S.L. 65.23)
 
-[L.S.65.23 TRASFERIMENT TA’ MOTOR-CAR
-
 **LE{ISLAZZJONI SUSSIDJARJA 65.23**
 
 **REGOLAMENTI DWAR TRASFERIMENT**

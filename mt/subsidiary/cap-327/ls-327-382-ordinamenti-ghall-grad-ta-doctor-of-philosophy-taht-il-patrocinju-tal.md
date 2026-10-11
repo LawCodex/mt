@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Doctor of Philosophy taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.382)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-AMBJENT MIBNI [S.L.327.382
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.382**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR OF**
@@ -67,12 +61,6 @@ Dawn l-ordinamenti għandhom japplikaw minn Ottubru 2009 ’il quddiem.
 
 \*Dawn ir-regolamenti ġew imħassrin bl-Avviż Legali 258 tal-2024.
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[S.L.327.382 TAL-AMBJENT MIBNI
-
 ## 4. Formola tal-applikazzjoni.
 
 (1) L-applikanti jistgħu jissottomettu l-formola tal-applikazzjoni tagħhom, flimkien ma’ proposta ta’ riċerka komprensiva li tiddeskrivi l-proġett propost, inklużi s-sorsi tar-riċerka u bibljografija, fi kwalunkwe żmien tas-sena.
@@ -103,11 +91,7 @@ L-istudenti għandhom jitħallew ikomplu bl-istudji tagħhom biss jekk ir-rappor
 
 ## 9. Programmi ta’ ri`erka u ta’ tagħlim.
 
-L-istudenti reġistrati mal-Fakultà jistgħu jkunu meħtieġa jipparteċipaw fil-programmi ta’ riċerka u ta’ tagħlim tal-Fakultà. Huma jistgħu jkunu meħtieġa jattendu Postgraduate Research TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-AMBJENT MIBNI [S.L.327.382 Seminars organizzati mill-Fakultà. Jistgħu wkoll ikunu meħtieġa jagħtu preżentazzjoni/jiet waqt is-seminars li jsiru matul ir-reġistrazzjoni tagħhom għall-Grad.
+L-istudenti reġistrati mal-Fakultà jistgħu jkunu meħtieġa jipparteċipaw fil-programmi ta’ riċerka u ta’ tagħlim tal-Fakultà. Huma jistgħu jkunu meħtieġa jattendu Postgraduate Research Seminars organizzati mill-Fakultà. Jistgħu wkoll ikunu meħtieġa jagħtu preżentazzjoni/jiet waqt is-seminars li jsiru matul ir-reġistrazzjoni tagħhom għall-Grad.
 
 ## 10. Teżi.
 

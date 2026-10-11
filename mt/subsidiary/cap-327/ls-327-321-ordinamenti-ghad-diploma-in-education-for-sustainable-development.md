@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Education for Sustainable Development taħt il-Patroċinju tal-Fakultà ta' l-Edukazzjoni (S.L. 327.321)
 
-DIPLOMA IN EDUCATION FOR SUSTAINABLE
-
-DEVELOPMENT TA}T IL-PATRO~INJU
-
-*1*
-
-TAL-FAKULTÀ TA’ L-EDUKAZZJONI [S.L.327.321
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.321**
 
 **ORDINAMENTI G}AD-DIPLOMA IN EDUCATION**

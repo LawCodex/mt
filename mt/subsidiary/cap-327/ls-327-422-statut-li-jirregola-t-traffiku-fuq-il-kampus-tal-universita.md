@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Statut li Jirregola t-Traffiku fuq il-Kampus tal-Università - Ikklampjar u Tneħħija ta’ Oġġetti li Jingumbraw (S.L. 327.422)
 
-TAL-UNIVERSITÀ - IKKLAMPJAR U TNEĦĦIJA
-
-*1*
-
-TA’ OĠĠETTI LI JINGUMBRAW [L.S.327.422
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.422**
 
 **STATUT LI JIRREGOLA T-TRAFFIKU FUQ**
@@ -64,13 +58,7 @@ L-Uffiċċju għall-Iżvilupp tal-Kampus huwa responsabbli għall-ġestjoni tat-
 
 ## 5. Responsabbiltà għal telf, ħsara jew serq.
 
-Is-sidien tal-vetturi huma responsabbli għat-telf, ħsara jew serq lill-vetturi tagħhom u, jew il-kontenut tagħhom filwaqt li l-vetturi jkunu fuq il-proprjetà tal-Università. L-Università ma tassumi l-ebda responsabbiltà għall-ħsara jew serq ta’ xi vettura TAL-UNIVERSITÀ - IKKLAMPJAR U TNEĦĦIJA
-
-*2*
-
-[L.S.327.422 TA’ OĠĠETTI LI JINGUMBRAW
-
-jew il-kontenut tagħha filwaqt li l-vettura tkun ipparkjata jew misjuqa fuq il-kampus. L-Università mhix responsabbli għad-danni li jistgħu jseħħu waqt li l-vettura tkun issekwestrata, rilokata, jew meta Uffiċjal tas-Sigurtà Pubblika jew impjegat ieħor qed jassisti f’servizz ta’ għajnuna.
+Is-sidien tal-vetturi huma responsabbli għat-telf, ħsara jew serq lill-vetturi tagħhom u, jew il-kontenut tagħhom filwaqt li l-vetturi jkunu fuq il-proprjetà tal-Università. L-Università ma tassumi l-ebda responsabbiltà għall-ħsara jew serq ta’ xi vettura jew il-kontenut tagħha filwaqt li l-vettura tkun ipparkjata jew misjuqa fuq il-kampus. L-Università mhix responsabbli għad-danni li jistgħu jseħħu waqt li l-vettura tkun issekwestrata, rilokata, jew meta Uffiċjal tas-Sigurtà Pubblika jew impjegat ieħor qed jassisti f’servizz ta’ għajnuna.
 
 ## 6. Infurzar tal-Istatut li Jirregola t- Traffiku.
 
@@ -100,11 +88,7 @@ Huwa projbit li vetturi (inklużi l-motor homes jew campers) jiġu użati bħala
 
 ## 12. Ipparkjar jew sewqan ta’ vetturi f’żoni projbiti.
 
-Kwalunkwe pparkjar jew sewqan ta’ vetturi ġewwa kull proprjetà tal-Università fejn tali użu ta’ vetturi huwa pprojbit, se TAL-UNIVERSITÀ - IKKLAMPJAR U TNEĦĦIJA
-
-*3*
-
-TA’ OĠĠETTI LI JINGUMBRAW [L.S.327.422 jinħarġu b’taħrika xierqa u l-vettura titneħħa spejjeż tas-sid.
+Kwalunkwe pparkjar jew sewqan ta’ vetturi ġewwa kull proprjetà tal-Università fejn tali użu ta’ vetturi huwa pprojbit, se jinħarġu b’taħrika xierqa u l-vettura titneħħa spejjeż tas-sid.
 
 ## 13. Azzjoni kriminali jew ċivili.
 
@@ -140,13 +124,7 @@ Ipparkjar mhux permess:
 
 (b) f’żoni li huma allokati għal vetturi elettriċi; b’dan illi dawn iż-żoni jistgħu jintużaw minn studenti, impjegati tal- Università jew viżitaturi li jkollhom jidher il-permess għall-ipparkjar maħruġ skont dan l-Istatut sabiex jiċċarġ- jaw il-vettura elettrika tagħhom għal mhux aktar minn erba’sigħat;
 
-(ċ) fi kwalunkwe żona mmarkata b’mod ċar, bħal “Keep TAL-UNIVERSITÀ - IKKLAMPJAR U TNEĦĦIJA
-
-*4*
-
-[L.S.327.422 TA’ OĠĠETTI LI JINGUMBRAW
-
-Clear”;
+(ċ) fi kwalunkwe żona mmarkata b’mod ċar, bħal “Keep Clear”;
 
 (d) fil-crosswalks fejn in-nies ikunu mexjin, driveways, żoni landscaped jew soft areas, fuq bankini jew b’xi mod li timpedixxi lil min ikun miexi, jew il-fluss faċli ta’ traffiku tal-vetturi;
 
@@ -180,11 +158,7 @@ Permessi għall-parkeġġ huma disponibbli kif ġej:
 
 (b) lil impjeġati akkademiċi kollha maħtura mill-Kunsill fuq bażi ta’ full-time u part-time. Parkeġġ għall-istaff akkademiku huwa ristrett għal spazji ta’ parkeġġ immarkati b’linja safra li mhux riservati;
 
-(ċ) lil impjeġati mhux akkademiċi kollha maħtura mill- TAL-UNIVERSITÀ - IKKLAMPJAR U TNEĦĦIJA
-
-*5*
-
-TA’ OĠĠETTI LI JINGUMBRAW [L.S.327.422 Kunsill. Parkeġġ għall-istaff mhux akkademiku huwa ristrett għal spazji ta’ parkeġġ immarkati b’linja bajda li mhux riservati;
+(ċ) lil impjeġati mhux akkademiċi kollha maħtura mill- Kunsill. Parkeġġ għall-istaff mhux akkademiku huwa ristrett għal spazji ta’ parkeġġ immarkati b’linja bajda li mhux riservati;
 
 (d) lil impjeġati akkademiċi, amministrattivi u tekniċi tal- Junior College. Parkeġġ għall-istaff akkademiku tal- Junior College huwa ristrett għall-ispazji mmarkati b’linja safra li mhux riservati filwaqt li l-parkeġġ għal-istaff amministrattiv u tekniku huwa ristrett għal spazji ta’ parkeġġ immarkati b’linja bajda li mhux riservati;
 
@@ -202,13 +176,7 @@ Nuqqas ta’ osservanza ta’ regoli u regolamenti f’dan l- Istatut jista’ j
 
 (a) l-Università tista’ tneħħi u tirriloka kwalunkwe oġġett li joħloq tfixkil li jikkawża inkonvenjent jew ostaklu għat-traffiku u kwalunkwe oġġett li jinsab f’post jew spazju fejn mhux permess l-użu għal dawn l-iskopijiet, jew jekk tali post jew spazju hu speċifikament indikata bħala żona ta’ rmonk;
 
-(b) għandu jkun legali għall-Università li tagħmel mrabat mar-roti għal kull vettura li tkun ipparkjata jew li titħalla waħedha f’żona speċifikament indikata bħala żona ta’ ikklampjar. Vetturi se jkunu klampjati jekk TAL-UNIVERSITÀ - IKKLAMPJAR U TNEĦĦIJA
-
-*6*
-
-[L.S.327.422 TA’ OĠĠETTI LI JINGUMBRAW
-
-mhumiex identifikati jew huma pparkjati fl-ispazji tal-parkeġġ ħażin;
+(b) għandu jkun legali għall-Università li tagħmel mrabat mar-roti għal kull vettura li tkun ipparkjata jew li titħalla waħedha f’żona speċifikament indikata bħala żona ta’ ikklampjar. Vetturi se jkunu klampjati jekk mhumiex identifikati jew huma pparkjati fl-ispazji tal-parkeġġ ħażin;
 
 (ċ) ir-rilokazzjoni ta’ vetturi tista’ sseħħ meta vettura tkun ipparkjata fi spazju riservat, żona riservata, jew meqjusa bħala ostaklu għat-traffiku, parkeġġ jew aċċess għall-bini. Vetturi li huma rilokati għal żoni oħra fuq il-kampus jistgħu jinkisbu mis-sid irreġistrat kontra l-ħlas ta’ multa. Vetturi ikkonfiskati jistgħu jitneħħew mill-kampus minn persuna jew aġenzija awtoriżżata mill-Università. Vetturi jiġu ingħatati lura lill-sidien fuq min il-vettura hija rreġistrata wara l-ħlas tal-miżata rilevanti. Matul il-kors tar-rilokazzjoni jew konfiska, jista’ jkun meħtieġ li impjegat awtoriżżat tal- Università jew l-aġenzija tal-irmonk sabiex jiddettermina l-istat għall-vettura u dan se jiġi kkunsidrat kif suppost u legali;
 
@@ -238,11 +206,7 @@ Minbarra l-possibiltà li jiġi rtirat permess għall-ipparkjar skont l-istatut 
 
 (iii) ippermetta lil xi terza persuna li tuża permess ta ’parkeġġ maħruġ lilhom skond dan l-Istatut; jew
 
-TAL-UNIVERSITÀ - IKKLAMPJAR U TNEĦĦIJA
-
-*7*
-
-TA’ OĠĠETTI LI JINGUMBRAW [L.S.327.422 (iv) ikkommetta reat kontra dan l-Istatut aktar minn darba, sew jekk ir-reati jkunu l-istess ta’ l-istess tip jew tipi ta’ reati differenti.
+(iv) ikkommetta reat kontra dan l-Istatut aktar minn darba, sew jekk ir-reati jkunu l-istess ta’ l-istess tip jew tipi ta’ reati differenti.
 
 (b) Il-multi għandhom jitħallsu fil-fergħa tal-Maltapost ġewwa l-Univeristà. Dawk li jixtiequ jappellaw il-multa imposta jridu jagħmlu appell lill- Kumitat tal- Appell fi żmien erbatax-il (14) jum kalendarju mid-data tat- taħrika maħruġa. Il-Multi dovuti għandhom jitħallsu b’mod sħiħ, qabel it- tnedija tal-appell. Il- Kumitat tal-Appell jiltaqà tal-inqas darba fix-xahar sabiex jikkunsidra, u jiddeciedi, dwar l-appelli maghmula skond dan l-istatut.
 

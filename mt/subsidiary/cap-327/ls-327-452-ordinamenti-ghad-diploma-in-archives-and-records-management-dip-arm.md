@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Archives and Records Management - Dip. ARM - taħt il-patroċinju tal-Fakultà tal-Midja u x-Xjenzi tal-Għarfien (S.L. 327.452)
 
-DIP. ARM - TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-MIDJA U X-XJENZI TAL-GĦARFIEN [L.S.327.452
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.452**
 
 **ORDINAMENTI GĦAD-DIPLOMA IN ARCHIVES**
@@ -80,8 +74,6 @@ Il-Bord għandu jippubblika l-programm ta’ studju skont id-dispożizzjonijiet 
 Taqsimiet studju, il-pjazzament u l-essay twil 60%
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
-
-DIP. ARM - TAĦT IL-PATROĊINJU TAL-FAKULTÀ 2 [L.S.327.452 TAL-MIDJA U X-XJENZI TAL-GĦARFIEN
 
 **Taqsimiet studju sinottiċi**
 

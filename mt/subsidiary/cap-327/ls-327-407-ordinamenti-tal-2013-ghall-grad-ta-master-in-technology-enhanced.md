@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti tal-2013 għall-Grad ta’ Master in Technology-Enhanced Learning (MiTeL) taħt il-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.407)
 
-LEARNING (DiTeL) TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.407
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.407**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER IN**
@@ -77,15 +71,9 @@ Dawn l-ordinamenti għandhom japplikaw minn Ottubru 2013 ’il quddiem.
 
 (3) Preferenza tingħata lill-applikanti li jkunu qegħdin jaħdmu bħala għalliema fis-settur primarju jew sekondarju.
 
-(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ LEARNING (DiTeL) TAĦT IL-PATROĊINJU
+(4) Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’ applikanti li jistgħu jirreġistraw għall-kors, skont ir-rizorsi disponibbli. L-għadd ta’ postijiet disponibbli għandu jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 \*Dawn il-ordinamenti ġew imħassrin bl-Avviż Legali 185 tal-2022.
-
-*2*
-
-[L.S.327.407 TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-applikanti li jistgħu jirreġistraw għall-kors, skont ir-rizorsi disponibbli. L-għadd ta’ postijiet disponibbli għandu jkun imħabbar fiż-żmien tas-sejħa għall-applikazzjonijiet.
 
 (5) Jekk l-għadd ta’ applikanti eliġibbli jaqbeż in-numru ta’ postijiet disponibbli, l-applikanti jkunu mistiedna għal intervista. Il-kriterji għall-proċess tal-għażla huma:
 
@@ -127,11 +115,7 @@ Il-programm ta’ studju mgħallem għandu jkun ippubblikat wara l-approvazzjoni
 
 (2) Dawk l-istudenti li f’xi sena akkademika jeħlu fil-valutazzjoni ta’ mhux aktar minn erba’ taqsimiet studju mgħallma, jekk qegħdin isegwu il-kors full-time, jew mhux aktar minn żewġ taqsimiet studju mgħallma, jekk qegħdin isegwu il-kors part-time, jingħataw l-opportunità li joqogħdu għall-valutazzjoni mill-ġdid fit-taqsimiet studju li weħlu minnhom fis-sessjoni tal-eżamijiet supplimentari ta’ Settembru.
 
-(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ taqsimiet studju permess skont il-paragrafu (2), jew l-istudenti li wara valutazzjoni LEARNING (DiTeL) TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.407 mill-ġdid ma jiksbux il-kredti għal xi taqsima studju, għandhom jitqiesu li weħlu mill-kors.
+(3) L-istudenti li jeħlu f’aktar mill-għadd ta’ taqsimiet studju permess skont il-paragrafu (2), jew l-istudenti li wara valutazzjoni mill-ġdid ma jiksbux il-kredti għal xi taqsima studju, għandhom jitqiesu li weħlu mill-kors.
 
 (4) L-istudenti jitħallew jipproċedu għat-taqsima tad-dissertazzjoni jekk jiksbu s-60 kredtu ECTS assenjati għat-taqsimiet studju mgħallma b’marka medja minima ta’ 65%.
 

@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) in Sport and Physical Activity - B.Sc. (Hons.) SPA taħt il-patroċinju tal-Istitut għall-Edukazzjoni Fiżika u Sport (S.L. 327.450)
 
-PHYSICAL ACTIVITY - B. Sc. (HONS.) SPA - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-ISTITUT GĦALL-EDUKAZZJONI FIŻIKA U SPORT [L.S.327.450
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.450**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN SPORT AND PHYSICAL ACTIVITY - B. Sc. (HONS.) SPA - TAĦT IL-
@@ -70,11 +64,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (2) L-applikanti li jidħlu taħt ir-regolament 2(2)(a)(iii) tar- Regolamenti għad-Dħul għandu jkollhom dawk il-kwalifiki u/jew l-esperjenza li jissodisfaw lill-Bord li huma laħqu l-livell akkademiku meħtieġ biex isegwu l-kors bi profitt. L-eligibbiltà ta’ dawn l-applikanti għandha tkun deċiża mill-Bord, wara li tkun saret intervista minn bord tal-intervisti maħtur għal dan il-għan. Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul minn għall-inqas tliet persuni.
 
-(3) L-applikanti li jidħlu skont il-paragrafu (2) ta’ dan l- PHYSICAL ACTIVITY - B. Sc. (HONS.) SPA - TAĦT IL-PATROĊINJU [L.S.327.450 TAL-ISTITUT GĦALL-EDUKAZZJONI FIŻIKA U SPORT
-
-ordinament għandhom ikunu għaddew f’test ta’ profiċjenza fil-lingwa ingliża kif approvat mill-Università qabel ma jidħlu fil-kors, iżda l-applikanti li jkunu għaddew fl-ingliż fiċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 3 jew ogħla jew ikunu għaddew fl-istess livell fi kwalifika komparabbli, għandhom ikunu eżentati milli joqgħodu għat-test ta’ proficjenza.
-
-*2*
+(3) L-applikanti li jidħlu skont il-paragrafu (2) ta’ dan l-ordinament għandhom ikunu għaddew f’test ta’ profiċjenza fil-lingwa ingliża kif approvat mill-Università qabel ma jidħlu fil-kors, iżda l-applikanti li jkunu għaddew fl-ingliż fiċ-Ċertifikat tal- Edukazzjoni Sekondarja bi Grad 3 jew ogħla jew ikunu għaddew fl-istess livell fi kwalifika komparabbli, għandhom ikunu eżentati milli joqgħodu għat-test ta’ proficjenza.
 
 (4) L-applikanti li għandhom id-Diploma in Sport and Leisure Studies jistgħu jidħlu wkoll għall-kors. Skont id-dispożizzjonijiet tar-Regolamenti Prinċipali, dawn l-applikanti jistgħu jitħallew mill-Bord jittrasferixxu il-kredti miksuba fid-Diploma. L-għadd ta’ kredti trasferiti m’għandux jaqbeż id-90 kredtu ECTs.
 
@@ -101,12 +91,6 @@ ordinament għandhom ikunu għaddew f’test ta’ profiċjenza fil-lingwa ingli
 (4) Il-bord tal-intervisti maħtur mill-Bord għandu jkun magħmul mill-anqas minn tliet membri.
 
 (5) Għall-iskop tal-għażla, l-applikanti li l-kwalifiki tagħhom ġew miksuba sal-31 ta’ Awwissu qabel il-bidu tal-Kors għandhom ikunu kkunsidrati l-ewwel. Jekk ikun għad hemm postijiet disponibbli, l-applikanti li jiksbu l-kwalifiki neċessarji kollha wara l-31 ta’Awwissu u qabel it-30 ta’ Settembru, għandhom ikunu kkunsidrati għall-milital-postijiet li jibqgħu.
-
-PHYSICAL ACTIVITY - B. Sc. (HONS.) SPA - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-ISTITUT GĦALL-EDUKAZZJONI FIŻIKA U SPORT [L.S.327.450
 
 ## 5. Tul tal-kors.
 
@@ -150,28 +134,26 @@ Il-Kors jista’ jkun offrut fuq bażi part-time flessibbli b’dawn il-provvedi
 
 (b) Sabiex jgħaddu minn sena tal-Kors għall-oħra b’mod regolari, is-60 krettu ECTS assenjati għal kull sena tal- Kors għandhom ikunu kompletati f’mhux aktar minn tlett snin akkademiċi;
 
-*[L.S.327.450 4*
-
-PHYSICAL ACTIVITY - B. Sc. (HONS.) SPA - TAĦT IL-PATROĊINJU TAL-ISTITUT GĦALL-EDUKAZZJONI FIŻIKA U SPORT
-
 (ċ) L-istudenti li ma jattendux għall-valutazzjoni ta’ taqsima-studju, jew li jeħlu fil-valutazzzjoni ta’ taqsima-studju, għandhom, jekk eliġibbli, ikunu meħtieġa jagħmlu l-valutazzjoni ta’ kwalunkwe għadd ta’ taqsimiet-studju mhux kompluti bħal dawn fis-sessjoni ta’ valutazzjoni ta’ Settembru jew fl-ewwel opportunità li jmiss;
 
 (d) Jekk neċessarju, l-istudenti jistgħu jitħallew jirreferu l-valutazzjoni ta’ taqsimiet-studju għas-sena akkademika li jmiss, diment li mhux aktar minn 12-il krettu ECTS jistgħu jkunu riferuti minn sena tal-Kors għall-oħra;
 
-(e) Il-valutazzjoni tat-taqsimiet-studju li jistgħu jkunu riferuti għas-sena akkademika li jmiss għandhom jitqiesu bħala miżjuda mal-għadd minimu ta’ kretti (12-il krettu ECTS) li l-istudenti huma obbligati jirreġistraw għalihom matul kwalunkwe sena akkademika;
+*(e)*
 
-(f) L-istudenti li, wara li jkunu rreġistraw għat-taqsimiet-studju kollha fil-programm ta’ sena tal-Kors, u li wara s-sessjoni ta’ valutazzjoni ta’ Settembru jonqoshom aktar minn 12-il krettu ECTS biex itemmu l-programm tas-sena tal-Kors, jistgħu jitħallew, jekk eliġibbli u wara parir akkademiku, jirreferuhom għas-sena akkademika li jmiss li matulha huma ma jitħallewx jirreġistraw għal xi taqsimiet-studju oħrajn. Jekk sena akkademika bħal din tkun meħtieġa b’żieda mal-perijodu massimu ta’ tlett snin li hemm referenza għalih fis-sottoparagrafu (b) ta’ dan l-ordinament, din tkun meqjusa bħala sena akkademika addizzjonali;
+Il-valutazzjoni tat-taqsimiet-studju li jistgħu jkunu riferuti għas-sena akkademika li jmiss għandhom jitqiesu bħala miżjuda mal-għadd minimu ta’ kretti (12-il krettu ECTS) li l-istudenti huma obbligati jirreġistraw għalihom matul kwalunkwe sena akkademika;
+
+*(f)*
+
+L-istudenti li, wara li jkunu rreġistraw għat-taqsimiet-studju kollha fil-programm ta’ sena tal-Kors, u li wara s-sessjoni ta’ valutazzjoni ta’ Settembru jonqoshom aktar minn 12-il krettu ECTS biex itemmu l-programm tas-sena tal-Kors, jistgħu jitħallew, jekk eliġibbli u wara parir akkademiku, jirreferuhom għas-sena akkademika li jmiss li matulha huma ma jitħallewx jirreġistraw għal xi taqsimiet-studju oħrajn. Jekk sena akkademika bħal din tkun meħtieġa b’żieda mal-perijodu massimu ta’ tlett snin li hemm referenza għalih fis-sottoparagrafu (b) ta’ dan l-ordinament, din tkun meqjusa bħala sena akkademika addizzjonali;
 
 (g) L-istudenti li, wara li jkunu rreġistraw għat-taqsimiet-studju kollha inklużi fil-programm tas-sena finali tal- Kors, jistgħu, jekk meħtieġ u jekk eliġibbli, jirreferu kwalunkwe taqsimiet-studju mhux kompluti għal sena akkademika addizzjonali;
 
 (h) Sena akkademika addizzjonali, jekk meħtieġa skont il-provvedimenti tas-sottoparagrafi (f) jew (g) ta’ dan l-ordinament, tista’ tingħata darba biss matul il-Kors, ħlief f’ċirkostanzi speċjali u bl-approvazzjoni tas- Senat;
 
-(i) L-istudenti reġistrati fuq programm fuq bażi part-time flessibbli għandhom jiksbu l-approvazzjoni tal- Koordinatur tal-Kors qabel ma jirreġistraw għat-taqsimiet-studju li huma jixtiequ jsegwu f’xi sena akkademika;
+*(i)*
 
-(j) Suġġett għall-approvazzjoni tal-Bord, l-istudenti reġistrati għall-Kors jistgħu jitħallew jibdlu l-mod tal-attendenza minn full-time għall-part-time flessibbli jew viċiversa fil-bidu tat-tieni sena tal-programm ta’ studju regolari. Tibdiliet fil-mod tal-attendenza f’xi PHYSICAL ACTIVITY - B. Sc. (HONS.) SPA - TAĦT IL-PATROĊINJU
+L-istudenti reġistrati fuq programm fuq bażi part-time flessibbli għandhom jiksbu l-approvazzjoni tal- Koordinatur tal-Kors qabel ma jirreġistraw għat-taqsimiet-studju li huma jixtiequ jsegwu f’xi sena akkademika;
 
-*5*
+*(j)*
 
-TAL-ISTITUT GĦALL-EDUKAZZJONI FIŻIKA U SPORT [L.S.327.450
-
-sena sussegwenti tal-Kors jistgħu jkunu kkunsidrati mill-Bord jekk il-programm tal-Kors jippermetti; u (k) Minkejja l-provvedimenti tar-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2019 minħabba n-natura tal-Kors meta offrut fuq bażi part-time flessibbli li jippermetti tul aktar min-normal, l-istudenti reġistrati fuq programm tal-Kors part-time flessibbli bħal dan m’għandhomx ikunu la intitolati li qatt jirrepetu sena tal-Kors sħiħa, u lanqas għal sena ta’ estensjoni wara kull sena tal-Kors.
+Suġġett għall-approvazzjoni tal-Bord, l-istudenti reġistrati għall-Kors jistgħu jitħallew jibdlu l-mod tal-attendenza minn full-time għall-part-time flessibbli jew viċiversa fil-bidu tat-tieni sena tal-programm ta’ studju regolari. Tibdiliet fil-mod tal-attendenza f’xi sena sussegwenti tal-Kors jistgħu jkunu kkunsidrati mill-Bord jekk il-programm tal-Kors jippermetti; u (k) Minkejja l-provvedimenti tar-Regolamenti Ġenerali għar-Rikonoxximenti Universitarji sal-Ewwel Grad, 2019 minħabba n-natura tal-Kors meta offrut fuq bażi part-time flessibbli li jippermetti tul aktar min-normal, l-istudenti reġistrati fuq programm tal-Kors part-time flessibbli bħal dan m’għandhomx ikunu la intitolati li qatt jirrepetu sena tal-Kors sħiħa, u lanqas għal sena ta’ estensjoni wara kull sena tal-Kors.

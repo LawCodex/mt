@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar Ċerti Setgħat ta' l-Uffiċjali tad-Dwana"
-identifier: "S.L. 37.9"
+identifier: "S.L. 37.09"
 eli: "https://legislation.mt/eli/sl/37.9"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/37.9/20200101/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar Ċerti Setgħat ta' l-Uffiċjali tad-Dwana (S.L. 37.9)
+# Regolamenti dwar Ċerti Setgħat ta' l-Uffiċjali tad-Dwana (S.L. 37.09)
 
 **LEĠISLAZZJONI SUSSIDJARJA 37.09**
 

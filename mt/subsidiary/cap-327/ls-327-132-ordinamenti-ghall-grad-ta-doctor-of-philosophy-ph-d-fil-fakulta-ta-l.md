@@ -17,12 +17,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta' Doctor of Philosophy - Ph.D. - fil-Fakultà ta' l-Ekonomija, Management u Accountancy (S.L. 327.132)
 
-IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA,
-
-*1*
-
-MANAGEMENT U ACCOUNTANCY [L.S.327.132
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.132**
 
 **ORDINAMENTI GĦALL-GRAD TA’ DOCTOR**
@@ -113,13 +107,9 @@ L-istudenti għandhom jitħallew ikomplu bl-istudji tagħhom biss jekk ir-rappor
 
 (2) Il-bord ad hoc għandu jeżamina x-xogħol tal-istudent b’mod orali u għandu jissottometti l-ewwel rapport bil-miktub għall-konsiderazzjoni tal-Kumitat tal-Fakultà għad-Dottorat. Ir-rapport għandu jinkludi r-rakkomandazzjonijiet skont id-dispożizzjonijiet tar-Regolamenti Prinċipali.
 
-IL-PATROĊINJU TAL-FAKULTÀ TAL-EKONOMIJA,
+## 9. Programmi ta’ riċerka u ta’ tagħlim. Enumerat mill-ġdid: A.L. 105 tal-2015; A.L. 433 tal-2021.
 
-*3*
-
-MANAGEMENT U ACCOUNTANCY [L.S.327.132 9. L-istudenti reġistrati mal-Fakultà jistgħu jkunu meħtieġa jipparteċipaw fil-programmi ta’ riċerka u ta’ tagħlim tal-Fakultà.
-
-*Programmi ta’ riċerka u ta’ tagħlim. Enumerat mill-ġdid: A.L. 105 tal-2015; A.L. 433 tal-2021.*
+L-istudenti reġistrati mal-Fakultà jistgħu jkunu meħtieġa jipparteċipaw fil-programmi ta’ riċerka u ta’ tagħlim tal-Fakultà.
 
 ## 10. Teżi. Enumerat mill-ġdid: A.L. 105 tal-2015; A.L. 433 tal-2021.
 

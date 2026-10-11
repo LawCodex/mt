@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar l-Elezzjonijiet tal-Bord Konsultattiv u Eżekuttiv"
-identifier: "S.L. 94.8"
+identifier: "S.L. 94.08"
 eli: "https://legislation.mt/eli/sl/94.8"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -15,7 +15,7 @@ version: "https://legislation.mt/eli/sl/94.8/20251017/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar l-Elezzjonijiet tal-Bord Konsultattiv u Eżekuttiv (S.L. 94.8)
+# Regolamenti dwar l-Elezzjonijiet tal-Bord Konsultattiv u Eżekuttiv (S.L. 94.08)
 
 **LEĠISLAZZJONI SUSSIDJARJA 94.08**
 

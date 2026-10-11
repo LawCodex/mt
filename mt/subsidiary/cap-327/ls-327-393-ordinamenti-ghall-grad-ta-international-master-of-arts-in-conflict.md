@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ International Master of Arts in Conflict Resolution and Mediterranean Security - M.A. (S.L. 327.393)
 
-*1*
-
-RESOLUTION AND MEDITERRANEAN SECURITY – M.A. [L.S.327.393
-
 **LE{ISLAZZJONI SUSSIDJARJA 327.393**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -60,10 +56,6 @@ RESOLUTION AND MEDITERRANEAN SECURITY – M.A. [L.S.327.393
 “l-Università” tfisser l-Università ta’ Malta; u
 
 “l-Università Msieħba” tfisser il-George Mason University, USA.” (3) Dan il-Grad huwa grad ta’ Master Internazzjonali tal- Università u dan g]andu jfisser li l-kors huwa mg]allem fl- Università bil-kollaborazzjoni ta’ Università Msie]ba fi ]dan qafas ta’ programm g]al grad doppju. Il-Grad jing]ata biss jekk i\\-\\ew[ universitajiet jiddikjaraw li l-istudent huwa eli[ibbli biex jing]ata r-rikonoxximent.
-
-*2*
-
-[L.S.327.393 RESOLUTION AND MEDITERRANEAN SECURITY – M.A.
 
 ## 2. Applikabilità.
 
@@ -107,11 +99,7 @@ Il-kors g]andu jinfirex fuq perijodu ta’ tliet semestri ta’ studju fuq ba\\i
 
 (1) L-istudenti huma me]tie[a j\\ommu kuntatt regolari mas-supervi\\ur tag]hom.
 
-(2) Is-supervi\\uri g]andhom jissottomettu lill-Bord rapporti dwar il-progress tal-istudenti ta]t is-supervi\\joni tag]hom. Dawn ir-rapporti jistg]u jinkludu rakkomandazzjoni biex jew (a) il-perjodu ta’ studju jkun imtawwal biex l-istudent ikun jista’ jispi``a d-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is- RESOLUTION AND MEDITERRANEAN SECURITY – M.A. [L.S.327.393
-
-supervi\\ur iqis li dan hu xieraq fi`-`irkostanzi, sakemm li:
-
-*3*
+(2) Is-supervi\\uri g]andhom jissottomettu lill-Bord rapporti dwar il-progress tal-istudenti ta]t is-supervi\\joni tag]hom. Dawn ir-rapporti jistg]u jinkludu rakkomandazzjoni biex jew (a) il-perjodu ta’ studju jkun imtawwal biex l-istudent ikun jista’ jispi``a d-dissertazzjoni; jew (b) jintemmu l-istudji qabel il-waqt jekk is-supervi\\ur iqis li dan hu xieraq fi`-`irkostanzi, sakemm li:
 
 (i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) tkun skont id-disposizzjonijiet tar-Regolamenti Prin`ipali; u
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Master of Fine Arts – M.F.A. - taħt il-patroċinju tal-Fakultà tal-Ambjent Mibni (S.L. 327.566)
 
-TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*1*
-
-TAL-AMBJENT MIBNI [L.S.327.566
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.566**
 
 **ORDINAMENTI GĦALL-GRAD TA’ MASTER OF**
@@ -67,13 +61,7 @@ Il-kors ikun offrut fi kwalunkwe qasam ta’ studju li jibbenifika minn mod ta�
 
 iżda l-applikanti jistgħu jkunu mitluba juru l-kompetenza tagħhom f’dawk il-ħiliet meħtieġa min-natura tar-riċerka proposta, permezz ta’ intervista estiża u s-sottomissjoni ta’ dokumentazzjoni xierqa.
 
-(2) L-applikanti li l-grad tal-ewwel ċiklu tagħhom kien miksub aktar minn għaxar snin qabel ir-reġistrazzjoni għall-kors jistgħu jidħlu fil-kors ukoll sakemm li jipprovvdu evidenza suffiċjenti tal-kompetenza tagħhom biex isegwu l-kors bi profitt. Il-Bord, fid- TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*2*
-
-[L.S.327.566 TAL-AMBJENT MIBNI
-
-diskrezzjoni tiegħu, jista’ jeħtieġ li dawn l-applikanti jsegwu programm preparatorju kif speċifikat fl-ordinament 5.
+(2) L-applikanti li l-grad tal-ewwel ċiklu tagħhom kien miksub aktar minn għaxar snin qabel ir-reġistrazzjoni għall-kors jistgħu jidħlu fil-kors ukoll sakemm li jipprovvdu evidenza suffiċjenti tal-kompetenza tagħhom biex isegwu l-kors bi profitt. Il-Bord, fid-diskrezzjoni tiegħu, jista’ jeħtieġ li dawn l-applikanti jsegwu programm preparatorju kif speċifikat fl-ordinament 5.
 
 ## 5. Programm preparatorju.
 
@@ -113,11 +101,7 @@ Il-programm ta’ studju għandu jkun ippubblikat wara l-approvazzjoni tas-Senat
 
 (1) Il-portfolio għandu jinkludi xogħol ta’ proġett ibbażat fi studio jew prattika jew permezz ta’ proġett relatat mat-tema tar-riċerka kif approvat mill-Bord.
 
-(2) Kull student għandu jkun assenjat superviżur li jipprovvdi TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*3*
-
-TAL-AMBJENT MIBNI [L.S.327.566 gwida u pariri fuq bażi regolari matul il-perijodu ta’ studju.
+(2) Kull student għandu jkun assenjat superviżur li jipprovvdi gwida u pariri fuq bażi regolari matul il-perijodu ta’ studju.
 
 (3) Mhux anqas minn tliet xhur qabel id-data ndikata għas-sottomissjoni tal-portfolio, l-istudenti għandhom jitolbu permess lill-Bord biex jippreżentaw il-portfolio. Qabel ma jagħti permess, il-Bord għandu jikkonsulta mas-superviżur tal-istudent u għandu jaċċerta ruħu li l-perijodu ta’ studju huwa skont dak stipulat mir- Regolamenti Prinċipali.
 
@@ -141,13 +125,7 @@ TAL-AMBJENT MIBNI [L.S.327.566 gwida u pariri fuq bażi regolari matul il-perijo
 
 (5) Il-Panil tas-Superviżjoni għandu perjodikament jinforma bil-miktub lill-Bord dwar il-prestazzjoni ġenerali ta’ kull student għad-dissertazzjoni u għall-portfolio. Dawn ir-pariri jistgħu jinkludu rakkomandazzjonijiet li jew (a) jittawwal il-perijodu ta’ studju biex l-istudent ikunu jista’ jtemm id-dissertazzjoni jew il-portfolio; jew (b) jintemmu l-istudji qabel il-waqt jekk is-superviżur jidhirlu li dan huwa xieraq fiċ-ċirkostanzi, sakemm li:
 
-(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) TAĦT IL-PATROĊINJU TAL-FAKULTÀ
-
-*4*
-
-[L.S.327.566 TAL-AMBJENT MIBNI
-
-jkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
+(i) l-estensjoni tal-perijodu ta’ studju msemmija f’(a) jkun skont id-dispożizzjonijiet tar-Regolamenti Prinċipali; u
 
 (ii) il-Bord ma jistax itemm l-istudji qabel il-waqt skont (b) jekk qabel ma jkunx ta opportunità lill-istudent li jiddefendi l-każ tiegħu.
 

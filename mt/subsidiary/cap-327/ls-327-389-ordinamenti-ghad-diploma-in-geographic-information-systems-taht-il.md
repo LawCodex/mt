@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għad-Diploma in Geographic Information Systems taħt il-patroċinju tal-Istitut għall-Iżvilupp Sostenibbli - Imħassrin bl-Avviż Legali 3 tal-2020 (S.L. 327.389)
 
-DIPLOMA IN GEOGRAPHIC INFORMATION SYSTEMS
-
-TAĦT IL-PATROĊINJU TAL-ISTITUT
-
-*1*
-
-GĦALL-IŻVILUPP SOSTENIBBLI [S.L.327.389
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.389**
 
 ORDINAMENTI GĦAD-DIPLOMA IN GEOGRAPHIC INFORMATION SYSTEMS TAĦT IL-PATROĊINJU

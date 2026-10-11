@@ -1,6 +1,6 @@
 ---
 title: "Ordni dwar l-Applikazzjoni tat-Taqsima III ta l-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi"
-identifier: "S.L. 191.1"
+identifier: "S.L. 191.01"
 eli: "https://legislation.mt/eli/sl/191.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,13 +13,7 @@ version: "https://legislation.mt/eli/sl/191.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Ordni dwar l-Applikazzjoni tat-Taqsima III ta l-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (S.L. 191.1)
-
-APPLIKAZZJONI TAT-TAQSIMA III TA’ L-ATT DWAR
-
-*1*
-
-L-IMMUNITAJIET UL-PRIVILE{{IDIPLOMATI~I [L.S.191.01
+# Ordni dwar l-Applikazzjoni tat-Taqsima III ta l-Att dwar l-Immunitajiet u l-Privileġġi Diplomatiċi (S.L. 191.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 191.01**
 

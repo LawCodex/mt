@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Higher Diploma in Health Science - H.Dip. - taħt il-patroċinju tal-Fakultà tax-Xjenzi tas-Saħħa (S.L. 327.524)
 
-TAĦT IL-PATROĊINJU TAL FAKULTÀ
-
-*1*
-
-TAX-XJENZI TAS-SAĦĦA [L.S.327.524
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.524**
 
 **ORDINAMENTI GĦALL-HIGHER DIPLOMA IN**
@@ -73,12 +67,6 @@ Il-kors jinfirex fuq medda ta’ sentejn ta’ studju fuq bażi full-time segwit
 
 Il-Higher Diploma tista’ tingħata skont dawn l-ordinamenti fin-Nursing Studies jew fi kwalunkwe qasam ieħor relatat max- Xjenzi tas-Saħħa, wara l-approvazzjoni tas-Senat.
 
-TAĦT IL-PATROĊINJU TAL FAKULTÀ
-
-*2*
-
-[L.S.327.524 TAX-XJENZI TAS-SAĦĦA
-
 ## 8. Pubblikazzjoni tal-oqsma ta’ studju
 
 L-oqsma ta’ studju offruti f’xi sena partikolari jkunu ppubblikati mill-Bord qabel il-bidu ta’ kull kors.
@@ -119,12 +107,6 @@ Għadda b’Mertu
 
 Għadda.
 
-TAĦT IL-PATROĊINJU TAL FAKULTÀ
-
-*3*
-
-TAX-XJENZI TAS-SAĦĦA [L.S.327.524
-
 **L-APPENDIĊI I**
 
 *Emendat: A.L. 198 tal-2016; A.L. 315 tal-2019.*
@@ -153,13 +135,7 @@ Sakemm li l-applikanti li jixtiequ jidħlu f’Kors Preparatorju li jwassal għa
 
 \4. Il-Kors Preparatorju għandu jikkonsisti f’għadd ta’ taqsimiet studju li għalihom hemm assenjati 60 krettu ECTS u li jkun mifrux fuq perijodu ta’ sena fuq bażi full-time.
 
-\5. Suġġett għal tibdiliet li l-Bord, bl-approvazzjoni tas-Senat, TAĦT IL-PATROĊINJU TAL FAKULTÀ
-
-*4*
-
-[L.S.327.524 TAX-XJENZI TAS-SAĦĦA
-
-jista’ ikun kostrett jagħmel, l-istudenti huma marbuta li jsegwu t-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm ta’ studju għall-Kors Preparatorju li qed isegwu.
+\5. Suġġett għal tibdiliet li l-Bord, bl-approvazzjoni tas-Senat, jista’ ikun kostrett jagħmel, l-istudenti huma marbuta li jsegwu t-taqsimiet studju u jiksbu l-kretti kif indikat fil-programm ta’ studju għall-Kors Preparatorju li qed isegwu.
 
 \6. L-istudenti jkunu kkunsidrati li temmew b’suċċess il-Kors Preparatorju jekk jiksbu l-kretti kif indikat fil-programm ta’ studju u jiksbu marka globali ta’ 55%.
 

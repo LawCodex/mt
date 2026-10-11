@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Regolamenti dwar id-Drittijiet li jitħallsu għall-Ħruġ ta’ Faxex jew Bolli tas-Sisa taħt it-Taqsima Ċ tas-Sitt Skeda li tinsab mal-Att dwar Dazju tas-Sisa (S.L. 35.32)
 
-DRITTIJIET LI JITĦALLSU GĦALL-ĦRUĠ TA’ FAXEX JEW
-
-BOLLI TAS-SISA TAĦT IT-TAQSIMA Ċ TAS-SITT SKEDA LI
-
-*1*
-
-TINSAB MAL-ATT DWAR DAZJU TAS-SISA [L.S.35.32
-
 **LEĠISLAZZJONI SUSSIDJARJA 35.32**
 
 **DRITTIJIET LI JITĦALLSU GĦALL-ĦRUĠ TA’**

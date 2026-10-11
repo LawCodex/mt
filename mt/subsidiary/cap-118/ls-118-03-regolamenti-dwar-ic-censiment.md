@@ -1,6 +1,6 @@
 ---
 title: "Regolamenti dwar iċ-Ċensiment"
-identifier: "S.L. 118.3"
+identifier: "S.L. 118.03"
 eli: "https://legislation.mt/eli/sl/118.3"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -14,7 +14,7 @@ version: "https://legislation.mt/eli/sl/118.3/20211109/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regolamenti dwar iċ-Ċensiment (S.L. 118.3)
+# Regolamenti dwar iċ-Ċensiment (S.L. 118.03)
 
 **LEĠISLAZZJONI SUSSIDJARJA 118.03**
 

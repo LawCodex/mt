@@ -1,6 +1,6 @@
 ---
 title: "Direttiva dwar id-Depożitarju Elettroniku Ċentrali għall-Bills tat-Teżor ta' Malta"
-identifier: "S.L. 133.1"
+identifier: "S.L. 133.01"
 eli: "https://legislation.mt/eli/sl/133.1"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,11 +13,7 @@ version: "https://legislation.mt/eli/sl/133.1/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Direttiva dwar id-Depożitarju Elettroniku Ċentrali għall-Bills tat-Teżor ta' Malta (S.L. 133.1)
-
-*1*
-
-G}ALL-BILLS TAT-TE|OR TA’ MALTA [L.S.133.01
+# Direttiva dwar id-Depożitarju Elettroniku Ċentrali għall-Bills tat-Teżor ta' Malta (S.L. 133.01)
 
 **LE{ISLAZZJONI SUSSIDJARJA 133.01**
 

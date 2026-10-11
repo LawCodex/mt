@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (2005) (S.L. 261.28)
 
-*1*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2005) [L.S.261.28
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.28**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -101,11 +97,7 @@ B’se]] mill-15 ta’ Di`embru, 2004:
 
 (26) Flat numru 3, Blokk E, Entratura C, Qasam tad-Djar tal-Gvern, Tal-}awli, Triq Mons. Pawlu Galea, Vittoriosa (Tenement No. 72682 (143/79/3) - RTB 85/ 2003).
 
-(27) Flat numru 1, Blokk 1, Qasam tad-Djar tal-Gvern, Triq Sciortino, |ebbu[, Malta (Tenement No. 64264 - RTB (TRASFERIMENT TA’ PROPRJETÀ) (2005) [L.S.261.28
-
-247/2002).
-
-*3*
+(27) Flat numru 1, Blokk 1, Qasam tad-Djar tal-Gvern, Triq Sciortino, |ebbu[, Malta (Tenement No. 64264 - RTB 247/2002).
 
 (28) Flat numru 4, Blokk 1, Qasam tad-Djar tal-Gvern, Triq Sciortino, |ebbu[, Malta (Tenement No. 64267 - RTB 269/2002).
 
@@ -159,11 +151,7 @@ B’se]] mit-30 ta’ Marzu, 2005:
 
 B’se]] mill-20 ta’ Mejju, 2005:
 
-(1) Bi``a art fi Mtarfa kif murija delineata bl-a]mar fuq kopja ta’ pjanta P.D. 2005/19, inklu\\i artijiet, strutturi u parti minn triq, ji[ifieri Triq San David, kompri\\i f’dik l-art li tmiss mit-Tramuntana, mil-Lvant u minn (TRASFERIMENT TA’ PROPRJETÀ) (2005) [L.S.261.28
-
-Nofsinhar ma’ proprjetà li kienet qabel trasferita lill- Awtorità tad-Djar (HAA 9/93).
-
-*5*
+(1) Bi``a art fi Mtarfa kif murija delineata bl-a]mar fuq kopja ta’ pjanta P.D. 2005/19, inklu\\i artijiet, strutturi u parti minn triq, ji[ifieri Triq San David, kompri\\i f’dik l-art li tmiss mit-Tramuntana, mil-Lvant u minn Nofsinhar ma’ proprjetà li kienet qabel trasferita lill- Awtorità tad-Djar (HAA 9/93).
 
 (2) Bi``a art ta’ madwar 156 metru kwadru, mag]rufa b]ala Plot No. P.23 fi Triq i\\-|ernieq u li tag]mel parti mill-Qasam tad-Djar tal-Gvern f’San Pawl il-Ba]ar, li tmiss mill-Grigal ma’ proprjetà tas-Sur C. Dimech, mil-Lbi` ma’ proprjetà tal-Gvern, u mix-Xlokk ma’ Triq i\\-|ernieq, li fuqha hemm mibni l-fond bin-numru 23, Triq i\\-|ernieq, San Pawl il-Ba]ar, u li tinsab delineata u mlewna bl-a]mar u markata P. 23 fuq L.D. 84/87/2. (HAP 1/2005).
 
@@ -225,10 +213,6 @@ B’se]] mit-8 ta’ Lulju, 2005:
 
 (b) Entratura B tikkonsisti fi tmien flats, kull wie]ed a``essibbli minn bieb intern enumerat minn 1 sa 8, ilkoll a``essibbli minn entratura komuni li [[ib l-isem Entratura ‘B’ fi Triq Dom Mauro Inguanez;
 
-*7*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2005) [L.S.261.28
-
 (`) Garages 1 sa 12 li kull wie]ed minnhom g]andu bieb fuq barra separat minn Triq Dom Mauro Inguanez;
 
 (d) }wienet 1 u 2 li kull wie]ed minnhom g]andu bieb fuq barra separat minn Triq Dom Mauro Inguanez.
@@ -265,11 +249,7 @@ kienet mag]rufa b]ala Tenements No. 50709 u 78273 kif murija delineata bl-a]mar 
 
 (5) |ew[ bi``iet art li jag]mlu parti mill-Qasam tad-Djar tal-Gvern f’}a\\-|abbar u li huma mag]rufin b]ala Plot A ta’ madwar 162 metru kwadru, u Plot B ta’ madwar 88 metru kwadru. Dawn il-bi``iet art jinsabu re[istrati mad-Dipartiment ta’ l-Art b]ala Tenement Nos. 41436 u 40986 u jag]mlu parti minn proprjetà tal-Gvern akkwistata b’Att Nru. 43]77 tas-16 ta’ Frar, 1977 fl-atti tan-Nutar Grech. Plot A hi so[[etta g]al `ens perpetwu bis-sa]]a ta’ att li j[ib id-data ta’ l-1 ta’ Ottubru, 1976 fl-atti tan-Nutar A. Grech, u Plot B hi so[[etta g]al `ens perpetwu bis-sa]]a ta’ att li j[ib id-data tat-8 ta’ Ottubru, 1980 fl-atti tan-Nutar Godwin Grima. I\\-\\ew[ bi``iet art imissu mit-Tramuntana u minn Nofs-in-Nhar ma’ proprjetà tal-Gvern, u mill- Punent ma’ passa[[ pubbliku, u hemm mibni fuq dawk il-bi``iet art il-fond li j[ib in-numru 1(99), Triq il- {ilju, |abbar, u dawn jinsabu delineati bl-a]mar u markati bl-ik]al ‘A’ u ‘B’ fuq L.D. 217/78/A. (HAP 5/ 2005).
 
-(6) Bi``a art ta’ madwar 307.2 metru kwadru, li tinsab re[istrata mad-Dipartiment ta’ l-Art b]ala Z41051 u li (TRASFERIMENT TA’ PROPRJETÀ) (2005) [L.S.261.28
-
-tag]mel parti minn proprjetà tal-Gvern li qabel kienet mag]rufa b]ala Rural Tenement No. Z50272. L-art tag]mel parti minn Qasam tad-Djar tal-Gvern Tal- Blankas fix-Xewkija, G]awdex, u tmiss mill-Grigal ma’ Triq il-Kanal, mix-Xlokk ma’ proprjetà trasferita lill-Awtorità tad-Djar, u mil-Lbi` ma’ proprjetà tal- Gvern, u hi so[[etta g]al `ens perpetwu bis-sa]]a ta’ att li j[ib id-data tal-25 ta’ April, 1974 fl-atti tan-Nutar J. Busuttil. Hemm mibni fuq dik il-bi``a art il-fond li j[ib in-numru 16, Triq il-Kanal, Xewkija, G]awdex, u din tinsab delineata bl-a]mar u markata P. 16 fuq L.D. 65/89/4. (HAP 5/2004).
-
-*9*
+(6) Bi``a art ta’ madwar 307.2 metru kwadru, li tinsab re[istrata mad-Dipartiment ta’ l-Art b]ala Z41051 u li tag]mel parti minn proprjetà tal-Gvern li qabel kienet mag]rufa b]ala Rural Tenement No. Z50272. L-art tag]mel parti minn Qasam tad-Djar tal-Gvern Tal- Blankas fix-Xewkija, G]awdex, u tmiss mill-Grigal ma’ Triq il-Kanal, mix-Xlokk ma’ proprjetà trasferita lill-Awtorità tad-Djar, u mil-Lbi` ma’ proprjetà tal- Gvern, u hi so[[etta g]al `ens perpetwu bis-sa]]a ta’ att li j[ib id-data tal-25 ta’ April, 1974 fl-atti tan-Nutar J. Busuttil. Hemm mibni fuq dik il-bi``a art il-fond li j[ib in-numru 16, Triq il-Kanal, Xewkija, G]awdex, u din tinsab delineata bl-a]mar u markata P. 16 fuq L.D. 65/89/4. (HAP 5/2004).
 
 (7) Flat numru 6, Blokk K2, Qasam tad-Djar tal-Gvern Ta’ Mlit, Triq it-Trin`etta, Mosta (Tenement No. 73458 - RTB 45/2004).
 
@@ -325,11 +305,7 @@ tad-Djar tal-Gvern ta’ Santa Lu`ija, limiti ta’ Santa Lu`ija, li tmiss mill-
 
 B’se]] mit-22 ta’ Novembru, 2005:
 
-(1) Bi``a art ta’ madwar 263 metru kwadru, li tag]mel parti mill-Qasam tad-Djar tal-Gvern ta’ l-Mqabba, limiti ta’ l-Mqabba, li tmiss mill-Majjistral ma’ triq (TRASFERIMENT TA’ PROPRJETÀ) (2005) [L.S.261.28
-
-pubblika, mix-Xlokk ma’ proprjetà tas-Sur Carmelo Mercieca, u mil-Lvant ma’ triq pubblika. Dik il-bi``a art tag]mel parti minn Government Rural Tenement No. 50928 u parti minn art tal-Gvern akkwistata bis-sa]]a ta’ kuntratt Nru. 57/89 datat 29 ta’ Marzu, 1989 fl-atti tan-Nutar V. Miceli u tinkorpora Home Ownership Plot No. 74 u tinsab delineata bl-a]mar fuq P.W. Drawing MQ/17/82. (HAM 80/81).
-
-*11*
+(1) Bi``a art ta’ madwar 263 metru kwadru, li tag]mel parti mill-Qasam tad-Djar tal-Gvern ta’ l-Mqabba, limiti ta’ l-Mqabba, li tmiss mill-Majjistral ma’ triq pubblika, mix-Xlokk ma’ proprjetà tas-Sur Carmelo Mercieca, u mil-Lvant ma’ triq pubblika. Dik il-bi``a art tag]mel parti minn Government Rural Tenement No. 50928 u parti minn art tal-Gvern akkwistata bis-sa]]a ta’ kuntratt Nru. 57/89 datat 29 ta’ Marzu, 1989 fl-atti tan-Nutar V. Miceli u tinkorpora Home Ownership Plot No. 74 u tinsab delineata bl-a]mar fuq P.W. Drawing MQ/17/82. (HAM 80/81).
 
 (2) Tliet bi``iet art fil-Qasam tad-Djar Ta’ Xlejli, fil- Gudja, kif [ej:
 
@@ -373,10 +349,6 @@ pubblika, mix-Xlokk ma’ proprjetà tas-Sur Carmelo Mercieca, u mil-Lvant ma’
 
 (20) Flat numru 2, Blokk B, Ex-Kulle[[ Flores, Triq l- Ifran, Valletta (Tenement No. 68784 - RTB 238/2003). (21) Dar bin-numru 8, Triq il-{dida, Valletta (Tenement No. 60685 - RTB 216/2003).
 
-*13*
-
-(TRASFERIMENT TA’ PROPRJETÀ) (2005) [L.S.261.28
-
 (22) Flat numru 7, Blokk 2, Triq il-Mit]na, Qasam tad-Djar tal-Gvern, }a\\-|ebbu[, Malta (Tenement No. 67026 - RTB 77/2004).
 
 (23) Flat numru 6, Blokk 1,Triq Sciortino, Qasam tad-Djar tal-Gvern, }a\\-|ebbu[, Malta (Tenement No. 64307 - RTB 235/2002).
@@ -407,11 +379,7 @@ mill-Uffi``ju Kon[unt et. (J.O. Ref. A 4050/1997, HAM 14/2003, Parti minn titlu 
 
 (36) Bi``a art ta’ madwar 127 metru kwadru mag]rufa b]ala ‘}abel }esri’, Triq Dun Manwel Zammit, Si[[iewi, delineata bl-a]mar fuq pjanta numru 90049M, li tmiss mill-Majjistral ma’ Triq Dun Manwel Zammit, minn Nofs-in-nhar ma’ proprjetà tal-Gvern amministrata mill-Uffi``ju Kon[unt u mill-Grigal ma’ proprjetà li tappartjeni lill-Awtoritajiet tal-Knisja jew lis-su``essuri tag]hom fit-titlu. (J.O. Ref. A 4084/ 1997, HAM 23/2003, Titlu 09001194).
 
-(37) Bi``a art ta’ madwar 1,235.37 metru kwadru, li tag]mel parti mill-Qasam tad-Djar tal-Gvern f’Misra] Kola, limiti ta’ }’Attard, li tmiss mit-Tramuntana ma’ proprjetà trasferita lill-Awtorità tad-Djar, minn Nofs-in-nhar ma’ Triq il-Qarsajja, u mill-Lvant ma’ Triq is- Sag]trija. L-imsemmija art tifforma parti minn art tal- Gvern akkwistata bis-sa]]a ta’ kuntratt Nru. 39/87 datat 25 ta’ Frar, 1987 fl-atti tan-Nutar V. Miceli, art akkwistata bis-sa]]a ta’ kuntratt Nru. 91/89 datat 10 ta’ Mejju, 1989 fl-atti tan-Nutar V. Miceli, u art akkwistata bis-sa]]a ta’ Dikjarazzjoni tal-Gvern 514 datata 19 ta’ {unju, 2003 u li tinsab delineata bl- (TRASFERIMENT TA’ PROPRJETÀ) (2005) [L.S.261.28
-
-a]mar u markata ‘B’ fuq L.D. 55/90/A. (HAM 124/ 80).
-
-*15*
+(37) Bi``a art ta’ madwar 1,235.37 metru kwadru, li tag]mel parti mill-Qasam tad-Djar tal-Gvern f’Misra] Kola, limiti ta’ }’Attard, li tmiss mit-Tramuntana ma’ proprjetà trasferita lill-Awtorità tad-Djar, minn Nofs-in-nhar ma’ Triq il-Qarsajja, u mill-Lvant ma’ Triq is- Sag]trija. L-imsemmija art tifforma parti minn art tal- Gvern akkwistata bis-sa]]a ta’ kuntratt Nru. 39/87 datat 25 ta’ Frar, 1987 fl-atti tan-Nutar V. Miceli, art akkwistata bis-sa]]a ta’ kuntratt Nru. 91/89 datat 10 ta’ Mejju, 1989 fl-atti tan-Nutar V. Miceli, u art akkwistata bis-sa]]a ta’ Dikjarazzjoni tal-Gvern 514 datata 19 ta’ {unju, 2003 u li tinsab delineata bl-a]mar u markata ‘B’ fuq L.D. 55/90/A. (HAM 124/ 80).
 
 (38) Bi``a art ta’ madwar 162 metru kwadru, li tag]mel parti mill-Qasam tad-Djar tal-Gvern, limiti tar-Rabat (Victoria), G]awdex, li tmiss mill-Majjistral ma’ proprjetà tas-Sur V. Theuma Xerri, mil-Lbi` ma’ proprjetà tas-Sur E. Cini, u mill-Grigal ma’ Triq Mattia Preti. L-imsemmija art tifforma parti minn proprjetà tal-Gvern, li qabel kienet Rural Tenement No. Z50178 u so[[etta g]al `ens perpetwu li beda jiddekorri fil-11 ta’ Marzu, 1976 skond kuntratt datat 11 ta’ Marzu, 1976 fl-Atti tan-Nutar J. Busuttil, li fuqha hemm mibni l-fond bin-numru 37, Triq Mattia Preti, Rabat (Victoria), G]awdex u li tinsab delineata bl-a]mar u markata P. 37 fuq L.D. 138/91/2. (HAP 10/ 2005).
 

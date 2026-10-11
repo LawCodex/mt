@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti skont ir-Regolamenti Ġenerali tal-2008 għar-Rikonoxximenti Universitarji ta’ wara l-Ewwel Grad għall-grad ta’ Master of Arts (Research on Islands and Small States) – M.A. - taħt il-patroċinju tal-Istitut għall-Gżejjer u Stati Żgħar (S.L. 327.594)
 
-*1*
-
-AND SMALL STATES) – M.A [L.S.327.594
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.594**
 
 **ORDINAMENTI SKONT IR-REGOLAMENTI**
@@ -63,10 +59,6 @@ Suġġett għad-disponibbilità ta’ riżorsi, il-Kors ikun offrut fi kwalunkwe
 
 (1) Il-Kors ikun miftuħ għall-applikanti li għandhom grad tal-ewwel ċiklu miksub tal-anqas fit-Tieni Klassi bl-Unuri jew b’Kategorija II f’qasam ta’ studju li l-Bord tal-Istudji iqis rilevanti għall-qasam ta’ studju propost għad-dissertazzjoni:
 
-*2*
-
-[L.S. 363.201 AND SMALL STATES) – M.A
-
 sakemm li l-applikanti li għandhom grad bit-Tielet Klassi bl- Unuri għandhom jissodisfaw lill-Bord tal-Istudji li għandhom kwalifiki oħra, inkluż esperjenza rilevanti miksuba wara l-gra tal-ewwel ċiklu.
 
 (2) Id-dħul tal-applikanti jista’ jkun kondizzjonalment fuq ir-riżultat ta’ intervista mmexxija minn bord tal-intervisti maħtur mill- Bord għal dan il-għan u li jkun magħmul minn għall-anqas tliet membri.
@@ -95,13 +87,11 @@ Il-Kors għandu jinfirex fuq tliet semestri ta’ studju fuq bażi full-time jew
 
 (2) Ix-xogħol fuq id-dissertazzjoni għandu jsir fi kwalunkwe żmien tal-Kors wara l-approvazzjoni tal-proposta tar-riċerka. Kull student ikun assenjat superviżur li għandu jipprovdi gwida u pariri fuq bażi regolari waqt il-perijodu ta’ studju.
 
-(3) It-titlu proviżjonali tad-dissertazzjoni u l-proposta ta’ riċerka proviżjonali ta’ madwar 300 kelma għandha tkun sottomessa fiż-żmien tas-sejħa għall-applikazzjonijiet. It-titlu tad-dissertazzjoni u l- AND SMALL STATES) – M.A [L.S.327.594 proposta ta’ riċerka dettaljata li tiddeskrivi l-proġett propost u l-mistoqsijiet ewlenin li għandhom jiġu indirizzati għandhom ikunu mressqa għall-approvazzjoni tal-Bord tal-Istudji sal-aħħar tal-ewwel semestru.
+(3) It-titlu proviżjonali tad-dissertazzjoni u l-proposta ta’ riċerka proviżjonali ta’ madwar 300 kelma għandha tkun sottomessa fiż-żmien tas-sejħa għall-applikazzjonijiet. It-titlu tad-dissertazzjoni u l-proposta ta’ riċerka dettaljata li tiddeskrivi l-proġett propost u l-mistoqsijiet ewlenin li għandhom jiġu indirizzati għandhom ikunu mressqa għall-approvazzjoni tal-Bord tal-Istudji sal-aħħar tal-ewwel semestru.
 
 ## 9.
 
 (1) L-istudenti jkunu meħtieġa li jagħmlu kuntatt mas-superviżur tagħhom mill-anqas darba kull xahrejn, u, kif ukoll, kemm-il darba s-superviżur iqis li hemm bżonn.
-
-*3*
 
 (2) Is-superviżuri għandhom jibgħatu lill-Bord tal-Istudji rapporti dwar il-progress tal-istudenti taħt is-superviżjoni tagħhom fit-tmiem ta’ kull semestru ta’ studji. L-istudenti għandhom jitolbu għall-approvazzjoni tal-Bord tal-Istudji għal kwalunkwe modifika sostanzjali fit-titlu jew fil-kontenut tad-dissertazzjoni.
 

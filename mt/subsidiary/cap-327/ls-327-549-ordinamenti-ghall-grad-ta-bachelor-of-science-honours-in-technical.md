@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-grad ta’ Bachelor of Science (Honours) in Technical Design and Technology - B.Sc. (Hons) TDT - taħt l-patroċinju tal-Fakultà tal-Edukazzjoni (S.L. 327.549)
 
-TECHNICAL DESIGN AND TECHNOLOGY - B.Sc. (HONS) TDT
-
-*1*
-
-\- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.549
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.549**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) IN TECHNICAL DESIGN AND TECHNOLOGY - B.Sc. (HONS) TDT - TAĦT IL-
@@ -62,11 +56,7 @@ Dawn l-ordinamenti għandhom japplikaw għall-korsijiet li jibdew f’Ottubru 20
 
 (a) għaddew fil-Livell Avvanzat bi grad Ċ jew aħjar fi kwalunkwe suġġett; jew
 
-(b) (i) għaddew f’ħames suġġetti bi grad 5 jew aħjar fl-Eżami għaċ-Ċertifikat tal-Edukazzjoni Sekondarja jew fil-livell 3 tas-SEC, inkluż fl-Ilsien Ingliż u fil-Malti, flimkien mal-Advanced Technicians Diploma tas-City and Guilds of London Institute, jew l-MCAST-BTEC Higher National Diploma fl-Electrical Engineering Livell 5, jew l- MCAST-BTEC Higher National Diploma fl-Electronic Engineering Livell 5, jew l-MCAST-BTEC Higher National Diploma fil-Mechanical Engineering Livell 5, jew kwalifika kkunsidrata bħala ekwivalenti mill- Bord tad-Dħul tal-Università fuq ir-rakkomandazzjoni tal-Bord; jew TECHNICAL DESIGN AND TECHNOLOGY - B.Sc. (HONS) TDT [L.S.327.549 - TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI
-
-(ii) għaddew f’ħames suġġetti bi grad 5 jew aħjar fl-Eżami għaċ-Ċertifikat tal-Edukazzjoni Sekondarja jew fil-livell 3 tas-SEC, inkluż fl-Ilsien Ingliż u fil-Malti, flimkien ma’ Advanced Diploma tal- MCAST Livell 4 mogħtija f’qasam relatat ma dawn li ġejjin: tal- Inġinerija u t-Trasport, tal-Arti Kreattiva, it-Teknoloġija tal- Informazzjoni u l-Komunikazzjoni, ix-Xjenzi Applikati.
-
-*2*
+(b) (i) għaddew f’ħames suġġetti bi grad 5 jew aħjar fl-Eżami għaċ-Ċertifikat tal-Edukazzjoni Sekondarja jew fil-livell 3 tas-SEC, inkluż fl-Ilsien Ingliż u fil-Malti, flimkien mal-Advanced Technicians Diploma tas-City and Guilds of London Institute, jew l-MCAST-BTEC Higher National Diploma fl-Electrical Engineering Livell 5, jew l- MCAST-BTEC Higher National Diploma fl-Electronic Engineering Livell 5, jew l-MCAST-BTEC Higher National Diploma fil-Mechanical Engineering Livell 5, jew kwalifika kkunsidrata bħala ekwivalenti mill- Bord tad-Dħul tal-Università fuq ir-rakkomandazzjoni tal-Bord; jew (ii) għaddew f’ħames suġġetti bi grad 5 jew aħjar fl-Eżami għaċ-Ċertifikat tal-Edukazzjoni Sekondarja jew fil-livell 3 tas-SEC, inkluż fl-Ilsien Ingliż u fil-Malti, flimkien ma’ Advanced Diploma tal- MCAST Livell 4 mogħtija f’qasam relatat ma dawn li ġejjin: tal- Inġinerija u t-Trasport, tal-Arti Kreattiva, it-Teknoloġija tal- Informazzjoni u l-Komunikazzjoni, ix-Xjenzi Applikati.
 
 (2) L-applikanti li għandhom d-Diploma in Design Foundation Studies jew is-Certificate in Foundation Studies fl-Inġinerija u l-ICT jew is-Certificate in Engineering Sciences mogħti mill-Università ta’ Malta jistgħu wkoll ikunu kkunsidrati.
 
@@ -93,12 +83,6 @@ L-applikanti bi kwalifiki oħra li jkunu kkunsidrati bħala suffiċjenti jistgħ
 (3) Meta jkun hemm aktar minn għaxar postijiet disponibbli, il-bord tal-intervisti għandu jintervista għadd ta’ applikanti li jkun 25% aktar mill-għadd ta’ postijiet disponibbli. Gruppi oħra ta’ applikanti kif deċiż mill-bord tal-intervisti għandhom jiġu intervistati biss jekk il-postijiet kollha ma jimtlewx.
 
 (4) Il-bord tal-intervisti maħtur mill-Bord għal dan il-għan, għandu jkun magħmul tal-anqas minn tliet membri mid- Dipartiment tat-Technology and Entrepreneurship Education.
-
-TECHNICAL DESIGN AND TECHNOLOGY - B.Sc. (HONS) TDT
-
-*3*
-
-\- TAĦT IL-PATROĊINJU TAL-FAKULTÀ TAL-EDUKAZZJONI [L.S.327.549
 
 ## 6. Konsiderazzjoni ta’ applikanti eliġibbli.
 

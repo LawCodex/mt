@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Ordinamenti għall-Grad ta’ Bachelor of Science (Honours) - B. Sc. (Hons) - taħt il-patroċinju tal-Fakultà tal-Kirurġija Dentali (S.L. 327.424)
 
-B.Sc. (HONS) - TAĦT IL-PATROĊINJU
-
-*1*
-
-TAL-FAKULTÀ TAL-KIRURĠIJA DENTALI [L.S.327.424
-
 **LEĠISLAZZJONI SUSSIDJARJA 327.424**
 
 ORDINAMENTI GĦALL-GRAD TA’ BACHELOR OF SCIENCE (HONOURS) - B.Sc. (HONS) - TAĦT IL-
@@ -72,12 +66,6 @@ Il-Grad ghandu jigi offrut f’wiehed mill-oqsma ta’ studju ligejjin: l-Igjene
 
 (a) l-applikanti Maltin li, skont ir-regolament 13 tar- Regolamenti għad-Dħul, 2016, huma eżentati milli jkollhom iċ-Ċertifikat tal-Edukazzjoni Sekondarja fil- Malti bi Grad 5 jew ogħla jew fil-livell 3 tas-SEC, huma meħtieġa jippreżentaw iċ-Ċertifikat ta’ Kompetenza fil-Malti Mediku mogħti mill-Università ta’ Malta, jew grad ta’ għadda fil-livell 3 tas-SEC fil- Malti bħala Lingwa Barranija qabel il-bidu tal-Kors;
 
-B.Sc. (HONS) - TAĦT IL-PATROĊINJU
-
-*2*
-
-[L.S.327.424 TAL-FAKULTÀ TAL-KIRURĠIJA DENTALI
-
 (b) l-applikanti mhux Maltin li, skont ir-regolament 13 tar- Regolamenti għad-Dħul, 2016, huma eżentati milli jkollhom grad ta’ għadda fil-livell 3 tas-SEC fil-Malti bħala Lingwa Barranija, huma meħtieġa li jippreżentaw iċ-Ċertifikat ta’ Kompetenza fil-Malti Mediku mogħti mill-Università ta’ Malta, jew li għaddew mit-taqsima-studju fil-Malti Mediku bħala parti mill-Kors għas-Certificate in Foundation Studies (Medical, Dental and Health Sciences), qabel il-bidu tal-Kors. L-applikanti li jippreżentaw kwalifiki barranin u jew ikunu għaddew mill-Eżami għaċ- Ċertifikat tal-Edukazzjoni Sekondarja fil-Malti bi Grad 5 jew aħjar jew fil-livell 3 tas-SEC, jew jippreżentaw grad ta’ għadda fil-livell 3 tas-SEC fil- Malti bħala Lingwa Barranija, għandhom ikunu eżentati milli jippreżentaw iċ-Ċertifikat ta’ Kompetenza fil-Malti Mediku.
 
 (2) L- L-applikanti li jkollhom id-Diploma in Dental Surgery Assistance għandhom ikunu kkunsidrati li ssodisfaw ir-rekwiżiti ġenerali u speċjali għad-dħul fil-Kors fl-oqsma ta’ studju tad-Dental Hygiene u tad-Dental Technology.
@@ -99,12 +87,6 @@ Il-Bord għandu jirrakkomanda lis-Senat l-għadd ta’applikanti li jistgħu jit
 ## 7. Tul tal-kors. Enumerat mill-ġdid u sostitwit: A.L. 40 tal-2013.
 
 Il-kors jinfirex fuq medda ta’ tliet snin ta’ studju fuq bażi full-time.
-
-B.Sc. (HONS) - TAĦT IL-PATROĊINJU
-
-*3*
-
-TAL-FAKULTÀ TAL-KIRURĠIJA DENTALI [L.S.327.424
 
 ## 8. Programm ta’ studju. Enumerat mill-ġdid: A.L. 40 tal-2013.
 

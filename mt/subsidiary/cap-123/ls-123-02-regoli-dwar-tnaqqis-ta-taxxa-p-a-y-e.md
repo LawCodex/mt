@@ -1,6 +1,6 @@
 ---
 title: "Regoli dwar Tnaqqis ta Taxxa (P.A.Y.E)"
-identifier: "S.L. 123.2"
+identifier: "S.L. 123.02"
 eli: "https://legislation.mt/eli/sl/123.2"
 type: subsidiary_legislation
 jurisdiction: mt
@@ -13,7 +13,7 @@ version: "https://legislation.mt/eli/sl/123.2/20100722/mlt"
 retrieved: 2026-10-12
 ---
 
-# Regoli dwar Tnaqqis ta Taxxa (P.A.Y.E) (S.L. 123.2)
+# Regoli dwar Tnaqqis ta Taxxa (P.A.Y.E) (S.L. 123.02)
 
 **LE{ISLAZZJONI SUSSIDJARJA 123.02**
 

@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar l-Awtorità tad-Djar (Trasferiment ta' Proprjetà) (1993) (S.L. 261.16)
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1993) [ L.S.261.16
-
 **LE{ISLAZZJONI SUSSIDJARJA 261.16**
 
 **ORDNI DWAR L-AWTORITÀ TAD-DJAR**
@@ -115,7 +113,7 @@ Ix-showrooms imsemmija jinsabu fi pjan terran u huma a``essibbli minn bieb ester
 
 (28) Dar bin-numru 69, Triq il-Kammumilla, |ejtun (Tenement No. 67600).
 
-(29) Flat numru 6, Blokk D, Qasam }al-Tmiem, |ejtun (TRASFERIMENT TA’ PROPRJETÀ) (1993) [ L.S.261.16 (Tenement No. 74094).
+(29) Flat numru 6, Blokk D, Qasam }al-Tmiem, |ejtun (Tenement No. 74094).
 
 (30) Flat numru 20, Blokk I, Binja San Martin, |ejtun (Tenement No. 76252).
 
@@ -201,7 +199,7 @@ Garages 1 sa 3 sottostanti flats fl-Entratura "A"
 
 Garages 4 sa 7 sottostanti flats fl-Entratura "~"
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1993) [ L.S.261.16 Garages 8 sa 10 sottostanti flats fl-Entratura "D".
+Garages 8 sa 10 sottostanti flats fl-Entratura "D".
 
 Garages 1 sa 3 huma sottostanti proprjetà tal-Gvern u jmissu mill-Grigal u Xlokk ma’ proprjetà tal-Gvern u mil-Lbi` ma’ triq pubblika.
 
@@ -289,7 +287,7 @@ B’se]] mit-3 ta’ {unju, 1993:
 
 (24) Flat numru 1, Bini tal-Gvern, Triq it-Tabib Anton Tabone, Victoria (Rabat), G]awdex (Tenement No. 60266).
 
-(TRASFERIMENT TA’ PROPRJETÀ) (1993) [ L.S.261.16 (25) Flat numru 4, Bieb A, Blokk F, Triq ta`-~awla, Victoria (Rabat), G]awdex (Tenement No. 60538). (26) Tmien garages li jag]mlu parti minn blokk li jismu Appartamenti 21 ta’ Settembru, 1964 fil-Qasam tad- Djar tal-Gvern Ta\\-|wejt, limiti Birkirkara.
+(25) Flat numru 4, Bieb A, Blokk F, Triq ta`-~awla, Victoria (Rabat), G]awdex (Tenement No. 60538). (26) Tmien garages li jag]mlu parti minn blokk li jismu Appartamenti 21 ta’ Settembru, 1964 fil-Qasam tad- Djar tal-Gvern Ta\\-|wejt, limiti Birkirkara.
 
 L-imsemmija garages huma a``essibbli minn bieb estern separat li kull wie]ed i[ib in-numru mhux uffi`jali minn 1 sa 8 u li jinsabu kif [ej:
 
@@ -373,7 +371,7 @@ Il-blokk kollu huwa konfinat mit-Tramuntana, Nofsinhar u Lvant b’passa[[ pubbl
 
 (9) Flat numru 6, Blokk X4, Triq ir-Rebbieg]a, Qasam tad-Djar tal-Gvern Ta’ Far\\ina, Qormi (Tenement No. 74048).
 
-(10) Maisonette bin-numru 1, Blokk l, Triq G]eriexem, (TRASFERIMENT TA’ PROPRJETÀ) (1993) [ L.S.261.16 Rabat, Malta (Tenement No. 63824).
+(10) Maisonette bin-numru 1, Blokk l, Triq G]eriexem, Rabat, Malta (Tenement No. 63824).
 
 (11) Flat numru 2, Blokk F, Triq Jean Houel, Ta’ {iorni, Qasam tad-Djar tal-Gvern Area 19, San {iljan (Tenement No. 69009).
 
@@ -461,7 +459,7 @@ Dawn il-flats jinsabu delineati bl-a]dar fuq L.D. 156/ 93.
 
 (16) Sittax-il maisonette li jag]mlu parti minn blokk imsemmi Binja Vilhena fi Pjazza Sir Luigi Preziosi, Floriana.
 
-Dawn il-maisonettes huma a``essibbli minn bieb estern separat mhux uffi`jalment enumerat minn 1 sa 16 fi blokk imsemmi Binja Vilhena. Il-blokk kollu jikkonfina mill-Majjistral ma’ Pjazza Sir Luigi (TRASFERIMENT TA’ PROPRJETÀ) (1993) [ L.S.261.16 Preziosi, mil-Lbi` u mix-Xlokk ma’ proprjetà tal- Gvern.
+Dawn il-maisonettes huma a``essibbli minn bieb estern separat mhux uffi`jalment enumerat minn 1 sa 16 fi blokk imsemmi Binja Vilhena. Il-blokk kollu jikkonfina mill-Majjistral ma’ Pjazza Sir Luigi Preziosi, mil-Lbi` u mix-Xlokk ma’ proprjetà tal- Gvern.
 
 Dawn il-maisonettes jinsabu delineati bl-a]dar fuq L.D. 157/93.
 
@@ -535,4 +533,4 @@ Il-blokk kollu huwa konfinat mit-Tramuntana ma’ Triq il-{i\\imin, mill-Punent 
 
 (6) Id-dar imsemmija "St. Rita", Triq it-Tabib Anton Tabone, Qasam tal-Bini tal-Gvern Ta`-~awla, Victoria, G]awdex (Tenement No: 60373).
 
-(7) Bi``a art f’\\ona mag]rufa b]ala Ta’ l-G]e\\ien, ix- Xag]ra, G]awdex, tal-kejl ta’ madwar 1232.37 metru kwadru, li tmiss mit-Tramuntana u Lvant ma’ proprjetà tal-Gvern u mill-Punent ma’ Triq Jannar, li tag]mel parti minn Gozo Government Rural Tenement No. 50010 u tidher delineata bl-a]dar fuq L.D. 184/93. (8) Id-dar bin-numru 7, Ringiela D, Triq i`-~e\\alpina, Qasam tad-Djar tal-Gvern Ta’ Paris, Birkirkara (TRASFERIMENT TA’ PROPRJETÀ) (1993) [ L.S.261.16 (Tenement No. 68482).
+(7) Bi``a art f’\\ona mag]rufa b]ala Ta’ l-G]e\\ien, ix- Xag]ra, G]awdex, tal-kejl ta’ madwar 1232.37 metru kwadru, li tmiss mit-Tramuntana u Lvant ma’ proprjetà tal-Gvern u mill-Punent ma’ Triq Jannar, li tag]mel parti minn Gozo Government Rural Tenement No. 50010 u tidher delineata bl-a]dar fuq L.D. 184/93. (8) Id-dar bin-numru 7, Ringiela D, Triq i`-~e\\alpina, Qasam tad-Djar tal-Gvern Ta’ Paris, Birkirkara (Tenement No. 68482).

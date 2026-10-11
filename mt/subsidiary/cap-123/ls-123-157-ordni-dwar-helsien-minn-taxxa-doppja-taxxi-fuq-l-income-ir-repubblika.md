@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordni dwar Ħelsien minn Taxxa Doppja (Taxxi fuq l-Income) (Ir-Repubblika tal-Moldova) (S.L. 123.157)
 
-*1*
-
-(IR-REPUBBLIKA TAL-MOLDOVA) [L.S.123.157
-
 **LEĠISLAZZJONI SUSSIDJARJA 123.157**
 
 ORDNI DWAR ĦELSIEN MINN TAXXA DOPPJA
@@ -50,8 +46,6 @@ B’dan qiegћed jiġi dikjarat:
 *\**
 
 17 ta’ Ġunju, 2015 - ara l-Avviż Legali 228 tal-2015.
-
-2 [L.S.123.157 (IR-REPUBBLIKA TAL-MOLDOVA)
 
 ## SKEDA — Artikolu 2 — FTEHIM BEJN
 
@@ -113,9 +107,7 @@ Dan il-Ftehim gћandu japplika wkoll gћal kull taxxa identika jew sostanzjalmen
 
 \1. Gћall-gћanijiet ta’ dan il-Ftehim, kemm-il darba r-rabta tal-kliem ma tkunx teћtieġ xort’oћra:
 
-(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiġi użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Gћawdex u l-gżejjer l-oћra tal-arċipelagu Malti inklużi l-ibћra territorjali tagћhom, kif ukoll kull area ta’ qiegћ il-baћar, is-sottoswol tiegћu u l-kolonna ta’ baћar sovrajaċenti li tinsab adjaċenti mal-ibћra territorjali, li fihom Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew (IR-REPUBBLIKA TAL-MOLDOVA) [L.S.123.157 3
-
-kontroll kif hemm fid-dritt internazzjonali u l-liġi nazzjonali tagћha, inkluża l-leġislazzjoni tagћha gћar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagћha;
+(a) il-frażi "Malta" tfisser ir-Repubblika ta’ Malta u, meta tiġi użata f’sens ġeografiku, tfisser il-Gżira ta’ Malta, il-Gżira ta’ Gћawdex u l-gżejjer l-oћra tal-arċipelagu Malti inklużi l-ibћra territorjali tagћhom, kif ukoll kull area ta’ qiegћ il-baћar, is-sottoswol tiegћu u l-kolonna ta’ baћar sovrajaċenti li tinsab adjaċenti mal-ibћra territorjali, li fihom Malta teżerċita drittijiet sovrani, ġurisdizzjoni, jew kontroll kif hemm fid-dritt internazzjonali u l-liġi nazzjonali tagћha, inkluża l-leġislazzjoni tagћha gћar-rigward tal-esplorazzjoni tal-blata kontinentali u l-esplojtazzjoni tar-riżorsi naturali tagћha;
 
 (b) il-frażi "Moldova" tfisser ir-Repubblika tal-Moldova u, meta tiġi użata f’sens ġeografiku, tfisser it-territorju fil-konfini tagħha, li jikkonsisti fl-art, is-sottoswol, l-ibħra u l-ispazju ta’ l-ajru fuq l-art u l-ibħra, li dwarhom ir-Repubblika tal-Moldova teżerċita s-sovranità u l-ġurisdizzjoni assoluta u esklussiva tagħha, skont il-leġislazzjoni nazzjonali u l-liġi internazzjonali;
 
@@ -151,9 +143,7 @@ kontroll kif hemm fid-dritt internazzjonali u l-liġi nazzjonali tagћha, inklu�
 
 **RESIDENTI**
 
-\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet tal-Istat rispettiv, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post ta’ reġistrazzjoni jew ta’ 4 [L.S.123.157 (IR-REPUBBLIKA TAL-MOLDOVA)
-
-inkorporazzjoni, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk, u tinkludi wkoll l-Istat rispettiv u kull unità territorjali-amministrattiva, sottodiviżjoni politika u awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun soġġetta għat-taxxa fl-Istat rispettiv biss dwar income minn għejjun f’dak l-Istat rispettiv.
+\1. Gћall-finijiet ta’ dan il-Ftehim, il-frażi "residenti ta’ Stat Kontraenti" tfisser kull persuna li, taћt il-liġijiet tal-Istat rispettiv, tkun soġġetta gћat-taxxa fih minћabba fid-domiċilju, ir-residenza, il-post ta’ reġistrazzjoni jew ta’ inkorporazzjoni, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xorta bћal dawk, u tinkludi wkoll l-Istat rispettiv u kull unità territorjali-amministrattiva, sottodiviżjoni politika u awtorità lokali tiegħu. Din il-frażi, madankollu, ma tinkludix lil xi persuna li tkun soġġetta għat-taxxa fl-Istat rispettiv biss dwar income minn għejjun f’dak l-Istat rispettiv.
 
 \2. Meta minћabba fid-dispożizzjonijiet tal-paragrafu 1 individwu jkun residenti taż-żewg Stati Kontraenti, allura l-istatus tiegћu gћandu jiġi stabbilit kif ġej:
 
@@ -193,9 +183,7 @@ inkorporazzjoni, il-post tal-maniġġ tagħha jew kull kriterju ieħor ta’ xor
 
 Minkejja d-dispożizzjonijiet ta’ qabel ta’ dan l-Artikolu, il-frażi "stabbiliment permanenti" gћandha titqies li ma tinkludix:
 
-(a) l-użu ta’ faċilitajiet bl-iskop uniku ta’ ħżin, wiri jew tqassim ta’ oġġetti (IR-REPUBBLIKA TAL-MOLDOVA) [L.S.123.157 5
-
-jew merkanzija li jkunu jappartjenu lill-impriża;
+(a) l-użu ta’ faċilitajiet bl-iskop uniku ta’ ħżin, wiri jew tqassim ta’ oġġetti jew merkanzija li jkunu jappartjenu lill-impriża;
 
 (b) iż-żamma ta’ ħażna ta’ oġġetti jew merkanzija li tkun tappartjeni lill-impriża bl-iskop uniku ta’ ħżin, wiri jew tqassim;
 
@@ -231,8 +219,6 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 3 gћandhom japplikaw ukoll gћal income minn proprjetà immobbli ta’ impriża.
 
-6 [L.S.123.157 (IR-REPUBBLIKA TAL-MOLDOVA)
-
 **Artikolu 7**
 
 **PROFITTI MINN NEGOZJU**
@@ -251,9 +237,7 @@ Il-fatt li kumpannija li tkun residenti ta’ Stat Kontraenti tkun tikkontrolla 
 
 ## 7.
 
-Meta l-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegћdin jiġu trattati separatament f ’Artikoli oћra ta’ dan il-Ftehim, gћaldaqshekk il- (IR-REPUBBLIKA TAL-MOLDOVA) [L.S.123.157 7
-
-dispożizzjonijiet ta’ dawk l-Artikoli ma gћandhomx jintlaqtu bil-dispożizzjonijiet ta’ dan l-Artikolu.
+Meta l-profitti jkunu jinkludu oġġetti ta’ income li jkunu qegћdin jiġu trattati separatament f ’Artikoli oћra ta’ dan il-Ftehim, gћaldaqshekk il-dispożizzjonijiet ta’ dawk l-Artikoli ma gћandhomx jintlaqtu bil-dispożizzjonijiet ta’ dan l-Artikolu.
 
 **Artikolu 8**
 
@@ -285,8 +269,6 @@ u f ’kull każ isiru jew jiġu imposti kondizzjonijiet bejn iż-żewg impriżi
 
 \2. Meta Stat Kontraenti ikun jinkludi fil-profitti ta’ impriża ta’ dak l-Istat - u skont hekk jintaxxa - profitti li fuqhom impriża tal-Istat Kontraenti l-ieћor tkun ġiet intaxxata f’dak l-Istat l-ieћor u l-profitti li jiġu hekk inklużi jkunu profitti li kienu jinkisbu mill-impriża tal-Istat l-ewwel imsemmi li kieku l-kondizzjonijiet magћmulin bejn iż-żewg impriżi kienu dawk li kieku kienu jsiru bejn impriżi indipendenti, allura dak l-Istat l-ieћor jista’ jagћmel tibdil adatt fl-ammont tat-taxxa hemm imposta fuq dawk il-profitti. Biex jiġi stabbilit dak it-tibdil, id-dispożizzjonijiet l-oћra ta’ dan il-Ftehim gћandhom jitqiesu kif imiss u l-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jekk ikun hekk meћtieġ jikkonsultaw lil xulxin.
 
-8 [L.S.123.157 (IR-REPUBBLIKA TAL-MOLDOVA)
-
 **Artikolu 10**
 
 **DIVIDENDI**
@@ -315,8 +297,6 @@ Dan il-paragrafu m’għandux jaffettwa t-tassazzjoni tal-kumpannija rigward il-
 
 \2. Madankollu, dak l-imgћax jista’ wkoll jiġi intaxxat fl-Istat Kontraenti fejn dan joriġina u kif hemm fil-liġijiet ta’ dak l-Istat, iżda jekk is-sid benefiċjarju ta’ dak l-imgћax ikun residenti tal-Istat Kontraenti l-ieħor, it-taxxa hekk mitluba m’gћandhiex tkun iżjed minn 5 fil-mija tal-ammont gross tal-imgћax.
 
-(IR-REPUBBLIKA TAL-MOLDOVA) [L.S.123.157 9
-
 \3. Il-frażi "mgћax" kif tintuża f’dan l-Artikolu tfisser income minn pretensjonijiet ta’ debitu ta’ kull xorta, sew jekk assikurati b’ipoteka sew jekk le u kemm jekk ikollhomx dritt li jipparteċipaw fil-profitti tad-debitur kemm jekk le, u b’mod partikolari, income minn titoli tal-Gvern u income minn bonds jew obbligazzjonijiet, inklużi premiums u rigali relatati ma dawk it-titoli, bonds jew obbligazzjonijiet. Ħlasijiet ta’ penali għall-ħlas tardiv ma jitqiesux bħala mgħax għall-għanijiet ta’ dan l-Artikolu.
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tal-imgћax, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor li fih jinqala’ l-imgћax permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u l-pretensjoni ta’ debitu li dwarha jitћallas l-imgћax tkun effettivament konnessa ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet tal-Artikolu 7 gћandhom japplikaw.
@@ -337,9 +317,7 @@ Dan il-paragrafu m’għandux jaffettwa t-tassazzjoni tal-kumpannija rigward il-
 
 \4. Id-dispożizzjonijiet tal-paragrafi 1 u 2 ma gћandhomx japplikaw jekk is-sid benefiċjarju tar-royalties, li jkun residenti ta’ Stat Kontraenti, ikun qed imexxi negozju fl-Istat Kontraenti l-ieћor fejn jinqalgћu r-royalties permezz ta’ stabbiliment permanenti li jkun jinsab hemmhekk u d-dritt jew il-proprjetà li dwarhom jitћallsu r-royalties ikunu effettivament konnessi ma’ dak l-istabbiliment permanenti. F’dak il-każ id-dispożizzjonijiet ta’ l-Artikolu 7 gћandhom japplikaw.
 
-\5. Ir-royalties għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda 10 [L.S.123.157 (IR-REPUBBLIKA TAL-MOLDOVA)
-
-tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti li dwaru jkun ittieħed l-obbligu li jitħallsu r-royalties, u dawk ir-royalties ikunu r-responsabbilità ta’ dak l-istabbiliment permanenti, allura dawk ir-royalties għandhom jitqiesu li jinqalgћu fl- Istat fejn ikunu jinsab l-istabbiliment permanenti.
+\5. Ir-royalties għandhom jitqiesu li jinqalgћu fi Stat Kontraenti meta min iħallashom ikun residenti ta’ dak l-Istat. Meta, madankollu, il-persuna li tkun qegħda tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma tkunx, ikollha fi Stat Kontraenti stabbiliment permanenti li dwaru jkun ittieħed l-obbligu li jitħallsu r-royalties, u dawk ir-royalties ikunu r-responsabbilità ta’ dak l-istabbiliment permanenti, allura dawk ir-royalties għandhom jitqiesu li jinqalgћu fl- Istat fejn ikunu jinsab l-istabbiliment permanenti.
 
 \6. Meta, minћabba fir-relazzjoni speċjali bejn min iћallas u s-sid benefiċjarju tar-royalties jew bejnithom it-tnejn u xi persuna oћra, l-ammont tar-royalties, meta jiġi kkunsidrat x’ikun l-użu, id-dritt jew l-informazzjoni li jitћallsu gћalihom, ikun iżjed mill-ammont li kien ikun miftiehem bejn min iћallas u s-sid benefiċjarju tar-royalties li kieku ma kienx hemm dik ir-relazzjoni, id-dispożizzjonijiet ta’ dan l- Artikolu gћandhom ikunu japplikaw biss gћall-aħħar imsemmi ammont. F’dak il-każ, il-parti żejda tal-ћlasijiet gћandha tibqa’ taxxabbli skont il-liġijiet ta’ kull Stat Kontraenti, wara li jitqiesu d-dispożizzjonijiet l-oћra ta’ dan il-Ftehim.
 
@@ -366,8 +344,6 @@ tħallas ir-royalties, sew jekk tkun residenti ta’ Stat Kontraenti sew jekk ma
 \2. Minkejja d-dispożizzjonijiet tal-paragrafu 1, il-kumpens li jinkiseb minn residenti ta’ Stat Kontraenti dwar xi impjieg li jkun eżerċitat fl-Istat Kontraenti l-ieћor gћandu jiġi intaxxat biss fl-Istat l-ewwel imsemmi jekk:
 
 (a) min jirċevih ikun joqgћod fl-Istat l-ieћor gћal perjodu jew perjodi li b’kollox ma jkunux ta’ iżjed minn 183 ġurnata f’kull perjodu ta’ tnax il-xahar li jibda gћaddej jew itemm fis-sena ta’ taxxa involuta, u
-
-(IR-REPUBBLIKA TAL-MOLDOVA) [L.S.123.157 11
 
 (b) il-kumpens jitћallas minn, jew f’isem, prinċipal li ma jkunx residenti fl- Istat l-ieћor, u
 
@@ -407,9 +383,7 @@ Bla ћsara gћad-dispożizzjonijiet tal-paragrafu 2 tal-Artikolu 18, il-pensjoni
 
 (ii) ma jkunx sar residenti ta’ dak l-Istat unikament bil-għan li jagħti dawk is-servizzi.
 
-\2. (a) Minkejja d-dispożizzjonijiet tal-paragrafu 1, pensjonijiet u kumpens ieħor bħal dak mћallsa minn, jew li jsir minn fondi maħluqa minn, Stat Kontraenti, unità territorjali-amministrattiva, sottodiviżjoni politika jew 12 [L.S.123.157 (IR-REPUBBLIKA TAL-MOLDOVA)
-
-awtorità lokali tiegħu lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat, unità territorjali-amministrattiva, sottodiviżjoni politika jew awtorità lokali gћandhom jiġu intaxxati biss f’dak l-Istat.
+\2. (a) Minkejja d-dispożizzjonijiet tal-paragrafu 1, pensjonijiet u kumpens ieħor bħal dak mћallsa minn, jew li jsir minn fondi maħluqa minn, Stat Kontraenti, unità territorjali-amministrattiva, sottodiviżjoni politika jew awtorità lokali tiegħu lil xi individwu gћar-rigward ta’ servizzi mogћtija lil dak l-Istat, unità territorjali-amministrattiva, sottodiviżjoni politika jew awtorità lokali gћandhom jiġu intaxxati biss f’dak l-Istat.
 
 (b) Madankollu, dawk il-pensjonijiet u kumpens ieħor simili gћandhom jiġu intaxxati biss fl-Istat Kontraenti l-ieћor jekk l-individwu jkun residenti ta’ dak l-Istat u ċittadin tiegħu.
 
@@ -441,9 +415,7 @@ Bla ħsara għad-dispożizzjonijiet tal-liġi ta’ Malta dwar allowance ta’ k
 
 (a) Meta residenti tal-Moldova jikseb income li, skont id-dispożizzjonijiet ta’ dan il-Ftehim, jista’ jiġi ntaxxat f’Malta, allura l-Moldova għandha tippermetti bħala tnaqqis mit-taxxa fuq l-income ta’ dak ir-residenti, ammont li jkun daqs it-taxxa fuq l-income li tħallset f’Malta. Dak it-tnaqqis m’għandux, madankollu, ikun aktar minn dik il-parti tat-taxxa fuq l-income, kif ikkalkulata qabel ma jingħata t-tnaqqis, li tkun attribwibbli għal income li jista’ jiġi ntaxxat f’Malta.
 
-(b) Meta, skont xi dispożizzjoni tal-Ftehim income li jinkiseb minn (IR-REPUBBLIKA TAL-MOLDOVA) [L.S.123.157 13
-
-residenti tal-Moldova ikun eżenti mit-taxxa fil-Moldova, il-Moldova tista’ madankollu, meta tikkalkula l-ammont ta’ taxxa fuq l-income l-ieħor ta’ dak ir-residenti, tieħu f’kunsiderazzjoni l-income li jkun ġie eżentat.
+(b) Meta, skont xi dispożizzjoni tal-Ftehim income li jinkiseb minn residenti tal-Moldova ikun eżenti mit-taxxa fil-Moldova, il-Moldova tista’ madankollu, meta tikkalkula l-ammont ta’ taxxa fuq l-income l-ieħor ta’ dak ir-residenti, tieħu f’kunsiderazzjoni l-income li jkun ġie eżentat.
 
 **Artikolu 22**
 
@@ -465,9 +437,7 @@ residenti tal-Moldova ikun eżenti mit-taxxa fil-Moldova, il-Moldova tista’ ma
 
 \1. Meta persuna jidhrilha li l-azzjonijiet ta’ xi wiehed jew taż-żewg Stati Kontraenti jirriżultawlha jew jistgћu jirriżultawlha f’taxxa li ma tkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim, hi tista’, irrispettivament mir-rimedji provduti mil-liġi domestika ta’ dawk l-Istati, tippreżenta l-każ tagћha quddiem l-awtorità kompetenti tal-Istat Kontraenti fejn hi tkun residenti jew, jekk il-każ tagћha jkun jaqa’ taћt il-paragrafu 1 tal-Artikolu 23, quddiem dik ta’ l-Istat Kontraenti li hi tkun ċittadin tiegћu. Il-każ gћandu jiġi ppreżentat fi żmien tliet snin mill-ewwel avviż tal-azzjoni li tirriżulta f’taxxa li ma tkunx skont id-dispożizzjonijiet tal-Ftehim.
 
-\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieћor, bil-gћan li tiġi evitata taxxa li ma tkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim. Kull ftehim milħuq gћandu jiġi implimentat minkejja kull 14 [L.S.123.157 (IR-REPUBBLIKA TAL-MOLDOVA)
-
-skadenza ta’ terminu fil-liġi domestika tal-Istati Kontraenti.
+\2. L-awtorità kompetenti gћandha tipprova, jekk l-oġġezzjoni tkun tidhrilha bħala waћda ġustifikata u jekk hi nnifisha ma tkunx tista’ tasal gћal soluzzjoni sodisfaċenti, tirrisolvi l-każ bi ftehim reċiproku mal-awtorità kompetenti tal-Istat Kontraenti l-ieћor, bil-gћan li tiġi evitata taxxa li ma tkunx skont id-dispożizzjonijiet ta’ dan il-Ftehim. Kull ftehim milħuq gћandu jiġi implimentat minkejja kull skadenza ta’ terminu fil-liġi domestika tal-Istati Kontraenti.
 
 \3. L-awtoritajiet kompetenti tal-Istati Kontraenti gћandhom jippruvaw jirrisolvu permezz ta’ ftehim reċiproku kull diffikultà jew dubbju li jistgħu joriġinaw dwar l-interpretazzjoni jew l-applikazzjoni tal-Ftehim. Huma jistgћu ukoll jikkonsultaw ma’ xulxin bl-iskop li tiġi eliminata taxxa doppja f’każijiet li ma jipprovdix għalihom il-Ftehim.
 
@@ -490,8 +460,6 @@ kwistjonijiet mhux solvuti li jqumu dwar il-każ għandhom jiġu sottomessi għa
 \2. Kull informazzjoni li tiġi riċevuta taħt il-paragrafu 1 minn Stat Kontraenti gћandha tiġi ttrattata bћala waћda sigrieta bl-istess mod bћal informazzjoni li tinkiseb taħt il-liġijiet domestiċi ta’ dak l-Istat u għandha tiġi żvelata biss lil persuni jew awtoritajiet (inklużi qrati u korpi amministrattivi) li jkollhom x’jaqsmu mal-istima jew il-ġbir ta’, l-infurzar jew prosekuzzjoni dwar, id-deċizjoni ta’ appelli dwar it-taxxi msemmija fil-paragrafu 1, jew it-tћaris ta’ dak hawn qabel imsemmi. Dawk il-persuni jew awtoritajiet gћandhom jużaw dik l-informazzjoni biss gћal dawk l-gћanijiet. Huma jistgћu jiżvelaw l-informazzjoni fi proċeduri tal-qorti bil-miftuh jew f’deċiżjonijiet ġudizzjarji.
 
 \3. F’ebda każ m’gћandhom id-dispożizzjonijiet tal-paragrafi 1 u 2 jiftiehmu bћala li jimponu fuq Stat Kontraenti l-obbligu:
-
-(IR-REPUBBLIKA TAL-MOLDOVA) [L.S.123.157 15
 
 (a) li jwettaq miżuri amministrattivi li ma jkunux jaqblu mal-liġijiet u mal-prattika amministrattiva ta’ dak l-Istat Kontraenti jew tal-Istat Kontraenti l-ieћor;
 
@@ -523,9 +491,7 @@ Dan il-Ftehim għandu jidħol fis-seħħ fid-data li tiġi l-aħħar tal-avviżi
 
 **TERMINAZZJONI**
 
-Dan il-Ftehim gћandu jibqa’ jseħħ sakemm jiġi tterminat minn Stat Kontraenti. Kull wieħed mill-Istati Kontraenti jista’ jittermina l-Ftehim, permezz tal-kanali diplomatiċi, billi jagħti avviż ta’ terminazzjoni bil-miktub mill-inqas sitt xhur qabel l-aħħar ta’ xi sena kalendarja li tibda wara li jintemm perjodu ta’ ħames snin mid-data ta’ meta jidħol fis-seħħ il-Ftehim. F’dak il-każ, il-Ftehim għandu jieqaf milli 16 [L.S.123.157 (IR-REPUBBLIKA TAL-MOLDOVA)
-
-jkollu effett:
+Dan il-Ftehim gћandu jibqa’ jseħħ sakemm jiġi tterminat minn Stat Kontraenti. Kull wieħed mill-Istati Kontraenti jista’ jittermina l-Ftehim, permezz tal-kanali diplomatiċi, billi jagħti avviż ta’ terminazzjoni bil-miktub mill-inqas sitt xhur qabel l-aħħar ta’ xi sena kalendarja li tibda wara li jintemm perjodu ta’ ħames snin mid-data ta’ meta jidħol fis-seħħ il-Ftehim. F’dak il-każ, il-Ftehim għandu jieqaf milli jkollu effett:
 
 (a) rigward taxxi miżmuma minn ras il-għajn, fuq income li jinkiseb fi jew wara l-1 ta’ Jannar tas-sena kalendarja li taħbat minnufih wara s-sena li fiha jingħata l-avviż ta’ terminazzjoni;
 
@@ -563,9 +529,7 @@ B’riferenza għall-paragrafu 2 subparagrafu (b) il-kliem "il-profitti li minnh
 
 B’xiehda ta’ dan is-sottoskritti, li huma awtorizzati kif imiss mill-Gvernijiet rispettivi tagħhom, iffirmaw dan il-Protokoll.
 
-Magħmul fil-Belt Valletta fl-10 ta’ April 2014 f’żewġ oriġinali kull wieħed, fl- (IR-REPUBBLIKA TAL-MOLDOVA) [L.S.123.157 17
-
-ilsien Rumen u dak Ingliż, kull wieћed miż-żewġ versjonijiet awtentiċi ndaqs.
+Magħmul fil-Belt Valletta fl-10 ta’ April 2014 f’żewġ oriġinali kull wieħed, fl-ilsien Rumen u dak Ingliż, kull wieћed miż-żewġ versjonijiet awtentiċi ndaqs.
 
 George W. Vella Natalia Gherman
 
