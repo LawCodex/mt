@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Self tal-Gvern u l-Għoti ta’ Self lil Air Malta plc (Cap. 506)
 
-*1*
-
-TA’ SELF LIL AIR MALTA PLC [KAP. 506.
-
 **KAPITOLU 506**
 
 **ATT DWAR SELF TAL-GVERN U L-GĦOTI**

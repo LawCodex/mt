@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Ratifika ta' Konvenzjonijiet dwar Proċeduri Legali (Cap. 443)
 
-*1*
-
-DWAR PROĊEDURI LEGALI [KAP. 443.
-
 **KAPITOLU 443**
 
 ATT DWAR IR-RATIFIKA TA’ KONVENZJONIJIET
@@ -101,9 +97,7 @@ Il-Konvenzjoni tal-Aja dwar in-Notifika Barra mill-Pajjiż ta’ Dokumenti ġudi
 
 (2) Dokumenti li jaqgħu taħt id-disposizzjonijiet ta’ din it- Taqsima ta’ dan l-Att, u li joriġinaw f’Malta, jkunu trasmessi -
 
-*3*
-
-DWAR PROĊEDURI LEGALI [KAP. 443. (a) direttament mill-awtorità ċentrali, fil-każ ta’ dokumenti estraġudizzjarji; u
+(a) direttament mill-awtorità ċentrali, fil-każ ta’ dokumenti estraġudizzjarji; u
 
 (b) mir-Reġistratur tal-Qrati, lill-awtorità ċentrali, fil-każ ta’ dokumenti ġudizzjarji,
 
@@ -167,11 +161,9 @@ ikunu oriġinaw id-dokumenti; dik in-notifika għandha ssir permezz ta’ dak il
 
 (2) Dik il-parti tat-talba li jkun fiha sommarju tad-dokument li jkollu jiġi notifikat, għandha tiġi notifikata mad-dokument, fil-forma stabbilita fit-Tielet Skeda li tinsab ma’ dan l-Att.
 
-*5*
+#### 13. Riferta tan-notifika.
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 13. (1) Meta tkun saret notifika, l-awtorità ċentrali għandha timla riferta tan-notifika, li tkun fl-ilsien Ingliż, skont il-formola stabbilita fit-Taqsima B tat-Tielet Skeda li tinsab ma’ dan l-Att.
-
-*Riferta tan-notifika.*
+(1) Meta tkun saret notifika, l-awtorità ċentrali għandha timla riferta tan-notifika, li tkun fl-ilsien Ingliż, skont il-formola stabbilita fit-Taqsima B tat-Tielet Skeda li tinsab ma’ dan l-Att.
 
 (2) Ir-riferta għandha tkun tgħid li d-dokument ikun ġie notifikat u għandha tinkludi l-mod, il-post u d-data tan-notifika, u l-persuna li lilha jkun ingħata d-dokument. Jekk id-dokument ma jkunx ġie notifikat, ir-riferta għandu jkun fiha dak il-fatt u tagħti r-raġunijiet li żammew in-notifika milli ssir. Ir-riferta għandha wkoll issemmi x’ikunu l-ħlasijiet mitluba għall-ispejjeż li jkunu saru għas-servizzi li jkunu ngħataw mill-awtorità ċentrali, li jiġu stabbiliti kif provdut fl-artikolu 14.
 
@@ -230,10 +222,6 @@ Għall-finijiet tal-Artikolu 8 tal-Konvenzjoni tal-Aja tal- 1970, il-persunal ta
 *Emendat: III. 2004.60.*
 
 Konformi mar-riserva, li għamlet Malta, skont il-paragrafu 2 tal-Artikolu 4 tal-Konvenzjoni tal-Aja tal-1970, li t-test tagħha jinsab riprodott fit-Taqsima B tat-Tieni Skeda, ittri rogatorji trasmessi permezz tal-awtorità ċentrali għandhom isiru f’xi waħda mill-ilsna uffiċjali ta’ Malta.
-
-*7*
-
-DWAR PROĊEDURI LEGALI [KAP. 443.
 
 ## Taqsima IV — Il-Konvenzjoni tal-Aja dwar l-Aċċess Internazzjonali — għall-ġustizzja
 
@@ -305,11 +293,9 @@ It-Taqsima V - l-artikoli 29 sa 40 (it-tnejn inklużi) - imħassra bl- Att III. 
 
 (1) Il-Ministru jista’ jagħmel regolamenti li bihom jippreskrivi kull ħaġa li bis-saħħa ta’ dan l-Att tenħtieġ li tiġi preskritta u ġeneralment għat-twettiq tad-disposizzjonijiet ta’ dan l- Att.
 
-(2) Mingħajr preġudizzju għall-ġeneralità tas-subartikolu (1) jistgħu jsiru regolamenti, b’mod partikolari, sabiex jistabbilixxu il-kriterji li għandhom jiġu applikati mill-awtorità ċentrali biex jiġu DWAR PROĊEDURI LEGALI [KAP. 443. determinati l-ispejjeż li jkunu saru minnha skont id-disposizzjonijiet tal-artikolu 14.
+(2) Mingħajr preġudizzju għall-ġeneralità tas-subartikolu (1) jistgħu jsiru regolamenti, b’mod partikolari, sabiex jistabbilixxu il-kriterji li għandhom jiġu applikati mill-awtorità ċentrali biex jiġu determinati l-ispejjeż li jkunu saru minnha skont id-disposizzjonijiet tal-artikolu 14.
 
 (3) Mingħajr preġudizzju għall-ġeneralità tas-subartikolu (1), dawk ir-regolamenti jistgħu, mutatis mutandis, ikunu jipprovdu dwar il-proċedura għal rikorsi quddiem il-qorti taħt xi disposizzjoni tat-Taqsima V ta’ dan l-Att u dwar id-dokumenti li għandhom jinġiebu u l-avviżi u l-informazzjoni li għandhom jingħataw f’dak li għandu x’jaqsam ma’ xi rikors bħal dak.
-
-*9*
 
 #### 42. Konflitt bejn it-testi.
 
@@ -361,7 +347,7 @@ Id-dokument li għandu jiġi notifikat jew kopja tiegħu għandu jiġi anness ma
 
 **Artikolu 4**
 
-Jekk l-Awtorità Ċentrali tqis li t-talba ma tkunx konformi mad-disposizzjonijiet tal-preżenti Konvenzjoni, hija għandha minnufih tgħarraf lill-applikant u tispeċifika DWAR PROĊEDURI LEGALI [KAP. 443. 11 x’ikunu l-oġġezzjonijiet tagħha għal dik it-talba.
+Jekk l-Awtorità Ċentrali tqis li t-talba ma tkunx konformi mad-disposizzjonijiet tal-preżenti Konvenzjoni, hija għandha minnufih tgħarraf lill-applikant u tispeċifika x’ikunu l-oġġezzjonijiet tagħha għal dik it-talba.
 
 **Artikolu 5**
 
@@ -435,7 +421,7 @@ L-applikant għandu jħallas jew jirrifondi l-ispejjeż li jitnisslu minn -
 
 Meta talba għal notifika tkun konformi mal-pattijiet tal-preżenti Konvenzjoni, l-iStat indirizzat jista’ jirrofta li jħares dawk il-pattijiet biss jekk dan ikun iqis li dak it-tħaris ikun jikser is-sovranità jew is-sigurtà tiegħu.
 
-Ma jistax jirrofta li jħarishom unikament għaliex, taħt il-liġijiet tiegħu, l-iStat ikun qed jippretendi li jkollu ġurisdizzjoni esklusiva fuq il-mertu tal-azzjoni jew li l-liġijiet tiegħu ma jkunux jippermettu l-azzjoni li fuqha l-applikazzjoni tkun imsejsa. DWAR PROĊEDURI LEGALI [KAP. 443. 13 L-Awtorità Ċentrali għandha, fil-każ ta’ rifjut, minnufih tgħarraf lill-applikant u tiddikjara r-raġunijiet għal dak ir-rifjut.
+Ma jistax jirrofta li jħarishom unikament għaliex, taħt il-liġijiet tiegħu, l-iStat ikun qed jippretendi li jkollu ġurisdizzjoni esklusiva fuq il-mertu tal-azzjoni jew li l-liġijiet tiegħu ma jkunux jippermettu l-azzjoni li fuqha l-applikazzjoni tkun imsejsa. L-Awtorità Ċentrali għandha, fil-każ ta’ rifjut, minnufih tgħarraf lill-applikant u tiddikjara r-raġunijiet għal dak ir-rifjut.
 
 **Artikolu 14**
 
@@ -504,8 +490,6 @@ Il-preżenti Konvenzjoni m’għandhiex tipprevjeni ftehim bejn xi żewġ Stati 
 (ċ) mid-disposizzjonijiet tar-raba’ paragrafu tal-Artikolu 5,
 
 (d) mid-disposizzjonijiet tat-tieni paragrafu tal-Artikolu 12.
-
-DWAR PROĊEDURI LEGALI [KAP. 443. 15
 
 **Artikolu 21**
 
@@ -583,7 +567,7 @@ Kull denunzja għandha tiġi avżata lill-Ministeru għall-Affarijiet Barranin t
 
 Din tista’ tkun limitata għal x’uħud mit-territorji li għalihom tapplika l- Konvenzjoni.
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 17 Id-denunzja għandu jkollha seħħ biss dwar dak l-iStat li jkun ta avviż dwarha. Il- Konvenzjoni għandha tibqa’ sseħħ għal kull Stat Kontraenti ieħor.
+Id-denunzja għandu jkollha seħħ biss dwar dak l-iStat li jkun ta avviż dwarha. Il- Konvenzjoni għandha tibqa’ sseħħ għal kull Stat Kontraenti ieħor.
 
 **Artikolu 31**
 
@@ -641,7 +625,7 @@ L-applikant hawn taħt iffirmat għandu l-unur li jittrasmetti - b’żewġ kopj
 
 L-awtorità hija mitluba li tirritorna jew tara li tiġi ritornata lill-applikant kopja tad-dokumenti - u tal-annessi\* - flimkien ma’ ċertifikat kif hemm provdut fuq in-naħa ta’ wara.
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 19 Lista ta’ dokumenti
+Lista ta’ dokumenti
 
 ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... ......................................................................................................................... Magħmula ġewwa........................, illum....................................
 
@@ -691,7 +675,7 @@ Ittra Rogatorja għandha tispeċifika -
 
 (b) l-ismijiet u l-indirizzi tal-partijiet fil-proċedimenti u r-rappreżentanti tagħhom, jekk ikun hemm;
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 21 (ċ) ix-xorta tal-proċedimenti li dwarha tkun meħtieġa x-xiehda, filwaqt li tingħata l-informazzjoni kollha meħtieġa dwar dan;
+(ċ) ix-xorta tal-proċedimenti li dwarha tkun meħtieġa x-xiehda, filwaqt li tingħata l-informazzjoni kollha meħtieġa dwar dan;
 
 (d) ix-xiehda li għandha tinkiseb jew xi att ġudizzjarju ieħor li jkollu jsir.
 
@@ -767,7 +751,7 @@ Jista’ Stat Kontraenti jiddikjara li, b’żieda, ikun se jirrispetta dawk il-
 
 L-esekuzzjoni ta’ Ittra Rogatorja tista’ tiġi rifjutata biss sal-limitu li -
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 23 (a) fl-iStat ta’ esekuzzjoni l-esekuzzjoni tal-Ittra ma jkunx jinkwadra fil-funzjonijiet tal-ġudizzjarju; jew
+(a) fl-iStat ta’ esekuzzjoni l-esekuzzjoni tal-Ittra ma jkunx jinkwadra fil-funzjonijiet tal-ġudizzjarju; jew
 
 (b) l-iStat indirizzat ikun iqis li s-sovranità jew is-sigurtà tiegħu se jkunu preġudikati biha.
 
@@ -826,8 +810,6 @@ Jekk l-awtorità tikkonċedi l-applikazzjoni, din għandha tapplika kull miżura
 **Artikolu 19**
 
 L-awtorità kompetenti, meta tkun qed tagħti l-permess imsemmi fl-Artikoli 15, 16 jew 17, jew meta tkun qed tikkonċedi l-applikazzjoni msemmija fl-Artikolu 18, tista’ tistipula dawk il-kondizzjonijiet hekk kif tista’ tqis li jkunu xierqa, fost l-oħrajn, dwar iż-żmien u l-post fejn tkun se tinġabar ix-xiehda. Bl-istess mod tista’ titlob li hija tingħata avviż raġonevoli bil-quddiem dwar il-ħin, id-data u l-post tal-ġbir tax-xiehda; f’dak il-każ, rappreżentant tal-awtorità jkollu jedd li jkun preżenti fil-ġbir ta’ dik ix-xiehda.
-
-DWAR PROĊEDURI LEGALI [KAP. 443. 25
 
 **Artikolu 20**
 
@@ -900,8 +882,6 @@ Il-preżenti Konvenzjoni m’għandhiex tipprevjeni ftehim bejn xi żewġ Stati 
 (f) tal-Artikolu 14 dwar id-drittijiet u l-ispejjeż;
 
 (g) tal-Kapitolu II.
-
-DWAR PROĊEDURI LEGALI [KAP. 443. 27
 
 **Artikolu 29**
 
@@ -983,7 +963,7 @@ Stat jista’, fil-waqt tal-firma, ratifika jew aċċessjoni, jiddikjara li l-pr
 
 F’kull waqt wara dan, dawk l-estensjonijiet għandhom jiġu avżati lill-Ministeru għall-Affarijiet Barranin tal-Olanda.
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 29 Il-Konvenzjoni għandha tibda sseħħ għat-territorji msemmija f’dik l-estensjoni fis-sittin jum wara li jingħata l-avviż indikat fil-paragrafu preċedenti.
+Il-Konvenzjoni għandha tibda sseħħ għat-territorji msemmija f’dik l-estensjoni fis-sittin jum wara li jingħata l-avviż indikat fil-paragrafu preċedenti.
 
 **Artikolu 41**
 
@@ -1053,7 +1033,7 @@ Kull Stat Kontraenti għandu jsemmi xi awtorità trasmittenti waħda jew iktar g
 
 Applikazzjonijiet għall-għajnuna legali għandhom jiġu trasmessi, mingħajr l-intervent ta’ ebda awtorità oħra, fl-għamla tal-mudell anness ma’ din il- Konvenzjoni.
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 31 Ebda ħaġa f ’dan l-Artikolu m’għandha tipprevjeni applikazzjoni milli tiġi ppreżentata permezz tal-kanali diplomatiċi.
+Ebda ħaġa f ’dan l-Artikolu m’għandha tipprevjeni applikazzjoni milli tiġi ppreżentata permezz tal-kanali diplomatiċi.
 
 **Artikolu 5**
 
@@ -1121,7 +1101,7 @@ Meta persuna tkun irċeviet għajnuna legali skont ma hemm fl-Artikolu 1 għal p
 
 Ebda garanzija, bond jew depożitu ta’ liema xorta tkun ma tista’ tenħtieġ, minħabba biss taċ-ċittadinanza barranija tagħhom jew għaliex ma jkunux domiċiljati jew residenti fl-iStat fejn jinbdew il-proċedimenti, mingħand persuni (inklużi persuni legali) li soltu jkunu residenti fi Stat Kontraenti u li jkunu atturi jew partijiet li jintervjenu fi proċedimenti quddiem il-qrati jew tribunali ta’ xi Stat Kontraenti ieħor.
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 33 L-istess regola għandha tkun tapplika għal xi ħlas li jkun dovut mingħand l-atturi jew il-partijiet li jintervjenu bħala garanzija għall-ispejjeż tal-qorti.
+L-istess regola għandha tkun tapplika għal xi ħlas li jkun dovut mingħand l-atturi jew il-partijiet li jintervjenu bħala garanzija għall-ispejjeż tal-qorti.
 
 **Artikolu 15**
 
@@ -1171,7 +1151,7 @@ L-immunità li hemm provdut dwarha fil-paragrafu preċedenti għandha tibda seba
 
 ### KAPITOLU V — DISPOSIZZJONIJIET ĠENERALI — Artikolu 21
 
-Mingħajr preġudizzju għad-disposizzjonijiet tal-Artikolu 22, ebda ħaġa f’din il-konvenzjoni m’għandha tiftiehem bħala li tillimita xi drittijiet dwar affarijiet regolati b’din il-Konvenzjoni li jistgħu jingħataw lil xi persuna taħt il-liġi ta’ xi Stat DWAR PROĊEDURI LEGALI [KAP. 443. 35 Kontraenti jew taħt xi konvenzjoni oħra li tagħha tkun, jew tista’ ssir parti.
+Mingħajr preġudizzju għad-disposizzjonijiet tal-Artikolu 22, ebda ħaġa f’din il-konvenzjoni m’għandha tiftiehem bħala li tillimita xi drittijiet dwar affarijiet regolati b’din il-Konvenzjoni li jistgħu jingħataw lil xi persuna taħt il-liġi ta’ xi Stat Kontraenti jew taħt xi konvenzjoni oħra li tagħha tkun, jew tista’ ssir parti.
 
 **Artikolu 22**
 
@@ -1239,7 +1219,7 @@ Dan għandu bl-istess mod jgħarraf lill-Ministeru, fejn hekk xieraq, b’dan li
 
 **Artikolu 30**
 
-Il-formoli mudell annessi ma’ din il-Konvenzjoni jistgħu jiġu emendati b’deċiżjoni tal-Kummissjoni Speċjali li titlaqqa’ mis-Segretarju Ġenerali tal- DWAR PROĊEDURI LEGALI [KAP. 443. 37 Konferenza tal-Aja li għaliha għandhom jiġu mistiedna kull Stat Kontraenti u kull Stat Membru. Avviż dwar il-proposta li jiġu emendati l-formoli għandu jkun inkluż fl-aġenda tal-laqgħa.
+Il-formoli mudell annessi ma’ din il-Konvenzjoni jistgħu jiġu emendati b’deċiżjoni tal-Kummissjoni Speċjali li titlaqqa’ mis-Segretarju Ġenerali tal- Konferenza tal-Aja li għaliha għandhom jiġu mistiedna kull Stat Kontraenti u kull Stat Membru. Avviż dwar il-proposta li jiġu emendati l-formoli għandu jkun inkluż fl-aġenda tal-laqgħa.
 
 Emendi adottati minn maġġoranza ta’ Stati Kontraenti preżenti u votanti fil- Kummissjoni Speċjali għandhom jibdew iseħħu għall-iStati Kontraenti kollha fl-ewwel jum tas-seba’ xahar kalendarju li jiġi wara d-data li dawn ikunu ġew imwassla mis-Segretarju Ġenerali lill-iStati Kontraenti kollha.
 
@@ -1307,7 +1287,7 @@ Il-Ministeru għall-Affarijiet Barranin tar-Renju tal-Olanda għandu javża lill
 
 B’xiehda ta’ dan is-sottofirmatarji, li ġew debitament awtorizzati jagħmlu dan, iffirmaw din il-Konvenzjoni.
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 39 Magħmul fl-Aja fil- 25 ta’ Ottubru, 1980, fil-lingwa Ingliża u dik Franċiża, iż-żewġ testi awtentiċi ndaqs, f’kopja unika li se tiġi depożitata fl-arkivji tal-Gvern tar- Renju tal-Olanda u li tagħha kopja awtentikata għandha tintbagħat, permezz ta’ kanali diplomatiċi, lil kull wieħed mill-iStati Membri tal-konferenza tal-Aja fuq id- Dritt Internazzjonali Privat fid-data tal-Erbatax-il Sessjoni tagħha u lil kull Stat ieħor li jkun ipparteċipa fit-tħejjija ta’ din il-Konvenzjoni f’din is-Sessjoni.
+Magħmul fl-Aja fil- 25 ta’ Ottubru, 1980, fil-lingwa Ingliża u dik Franċiża, iż-żewġ testi awtentiċi ndaqs, f’kopja unika li se tiġi depożitata fl-arkivji tal-Gvern tar- Renju tal-Olanda u li tagħha kopja awtentikata għandha tintbagħat, permezz ta’ kanali diplomatiċi, lil kull wieħed mill-iStati Membri tal-konferenza tal-Aja fuq id- Dritt Internazzjonali Privat fid-data tal-Erbatax-il Sessjoni tagħha u lil kull Stat ieħor li jkun ipparteċipa fit-tħejjija ta’ din il-Konvenzjoni f’din is-Sessjoni.
 
 ## ANNESS MAL-KONVENZJONI — Formola għat-trasmissjoni ta’ applikazzjoni għall-għajnuna legali
 
@@ -1441,7 +1421,7 @@ proprjetà ta' beni
 
 immobbli
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 41 (g) għejjun oħra ta'
+(g) għejjun oħra ta'
 
 qliegħ
 
@@ -1527,8 +1507,6 @@ Il-Gvern ta’ Malta jiddikjara, skont ma hemm fl-Artikolu 10 tal- Konvenzjoni d
 
 l. Il-Gvern ta’ Malta jiddikjara, skont ma hemm fit-tieni paragrafu tal-Artikolu 4 tal-Konvenzjoni dwar il-Ġbir ta’ Xiehda Barra mill-Pajjiż f’Affarijiet Ċivili u Kummerċjali (L-Aja, 1970), li jirriserva d-driitt li jaċċetta Ittri Rogatorji magħmulin bl-ilsien Ingliż biss.
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 43
-
 ## IT-TIELET SKEDA
 
 (Artikoli 10, 12 u 13)
@@ -1599,7 +1577,7 @@ Firma u/jew timbru
 
 (Jekk it-talba u d-dokumenti mhumiex fl-ilsien Ingliż, għandhom jintehmżu magħhom żewġ traduzzjonijiet `ertifikati tagħhom fl-ilsien Ingliż.)
 
-DWAR PROĊEDURI LEGALI [KAP. 443. 45 Fuq wara tat-talba
+Fuq wara tat-talba
 
 **ĊERTIFIKAT**
 
@@ -1671,7 +1649,7 @@ Xorta u skop tad-dokument:
 
 ......................................................................................................................... ......................................................................................................................... Data tas-sentenza\*\*:
 
-......................................................................................................................... DWAR PROĊEDURI LEGALI [KAP. 443. 47 Termini ta’ żmien dikjarati fid-dokument\*\*:
+......................................................................................................................... Termini ta’ żmien dikjarati fid-dokument\*\*:
 
 ......................................................................................................................... Dokument Estraġudizzjarju\*\*
 

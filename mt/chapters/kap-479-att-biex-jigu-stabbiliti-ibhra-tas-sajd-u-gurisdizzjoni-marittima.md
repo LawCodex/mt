@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Att biex jiġu stabbiliti Ibħra tas-Sajd u Ġurisdizzjoni Marittima Estiża (Cap. 479)
 
-IBĦRA TAS-SAJD U
-
-*1*
-
-ĠURISDIZZJONI MARITTIMA ESTIŻA [KAP. 479.
-
 **KAPITOLU 479**
 
 **ATT BIEX JIĠU STABBILITI IBĦRA TAS-SAJD U**

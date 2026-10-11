@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Aġenti tal-Proprjetà Immobbli u tas-Sensara u Konsulenti tal-Proprjetà (Cap. 615)
 
-*1*
-
-KONSULENTI TAL-PROPRJETÀ [KAP. 615.
-
 **KAPITOLU 615**
 
 ATT DWAR L-AĠENTI TAL-PROPRJETÀ IMMOBBLI UTAS-SENSARA UKONSULENTI TAL-PROPRJETÀ\* ATT sabiex jipprovdi għall-ħruġ ta’ liċenzji għal aġenti tal-proprjetà immobbli, sensara tal-proprjetà u konsulenti tal-proprjetà.
@@ -61,12 +57,6 @@ aktar;
 Kap. 16.  
 \*Dan l-Att ġie mħassar bl-Att XXVII tal-2024.
 
-**KONSULENTI TAL-PROPRJETÀ**
-
-*[KAP. 615.*
-
-*2*
-
 miżmuma fil-Kodiċi Ċivili u li mhijiex extra commercium;
 
 *Att XXXII tal- 2020.*
@@ -90,10 +80,6 @@ miżmuma fil-Kodiċi Ċivili u li mhijiex extra commercium;
 "reġistru" tfisser ir-reġistru ta’ liċenzji maħruġ biex jiġi eżerċitat l-attività ta’ sensara tal-proprjetà, aġenti tal-proprjetà immobbli, maniġers tal-fergħa u konsulenti tal-proprjetà kif provdut fit-Taqsima III tal-Att;
 
 "sensar tal-proprjetà" tfisser kwalunkwe persuna fiżika li għandha liċenzja biex taġixxi bħala intermedjarju fil-proċess li permezz tiegħu jiġu nnegozjati u jsiru tranżazzjonijiet li jinvolvu l-akkwist, il-bejgħ jew il-kiri ta’ art skont dan l-Att u li la timpjega u/jew lanqas tqabbad (sew jekk taħt kuntratt ta’ servizz jew taħt kuntratt għal servizzi) ebda maniġer ta’ fergħa u/jew konsulent tal-proprjetà;
-
-*3*
-
-KONSULENTI TAL-PROPRJETÀ [KAP. 615.
 
 * L.S. 373.01.*
 
@@ -123,11 +109,7 @@ Iżda wkoll il-Bord jista’ jitlob lil tali persuni li jwettqu l-attività fuq 
 
 (4) Għall-finijiet ta’ dan l-artikolu:
 
-"bażi okkażjonali" tfisser li taġixxi bħala intermedjarju fil-proċess tan-negozjar jew l-arranġament ta’ mhux aktar minn żewġ (2) tranżazzjonijiet fis-sena li jinvolvu l-akkwist jew il- [KAP. 615. KONSULENTI TAL-PROPRJETÀ
-
-bejgħ jew il-kiri tal-art.
-
-*4*
+"bażi okkażjonali" tfisser li taġixxi bħala intermedjarju fil-proċess tan-negozjar jew l-arranġament ta’ mhux aktar minn żewġ (2) tranżazzjonijiet fis-sena li jinvolvu l-akkwist jew il-bejgħ jew il-kiri tal-art.
 
 *     Kap. 386.*
 
@@ -157,11 +139,7 @@ Iżda meta l-ekwivalenza tal-kwalifiki titqies bħala parzjali biss, l-applikant
 
 (a) tkun għalqet it-tmintax (18)-il sena jew li tkun ġiet emanċipata għall-kummerċ skont l-artikolu 9 tal-Kodiċi tal- Kummerċ; u
 
-(b) ikollha ċertifikat fil-proprjetà immobbli li jkollu bħala suġġett tiegħu l-kwistjonijiet legali, finanzjarji, tekniċi u KONSULENTI TAL-PROPRJETÀ [KAP. 615.
-
-ta’ komunikazzjoni relatati mal-proprjetà immobbli, il-kummerċjalizzazzjoni u l-bejgħ tagħha, b’tal-inqas tmien (8) ECTS f’livell erbgħa (4) tal-Qafas tal-Kwalifiki ta’ Malta miksub minn istituzzjoni ta’ taħriġ illiċenzjata b’mod sħiħ b’liċenzja regolari mill-Kummissarju Nazzjonali għall- Edukazzjoni Ulterjuri u Ogħla; jew
-
-*5*
+(b) ikollha ċertifikat fil-proprjetà immobbli li jkollu bħala suġġett tiegħu l-kwistjonijiet legali, finanzjarji, tekniċi u ta’ komunikazzjoni relatati mal-proprjetà immobbli, il-kummerċjalizzazzjoni u l-bejgħ tagħha, b’tal-inqas tmien (8) ECTS f’livell erbgħa (4) tal-Qafas tal-Kwalifiki ta’ Malta miksub minn istituzzjoni ta’ taħriġ illiċenzjata b’mod sħiħ b’liċenzja regolari mill-Kummissarju Nazzjonali għall- Edukazzjoni Ulterjuri u Ogħla; jew
 
 (ċ) kwalunkwe kwalifika oħra li ċ-Ċentru ta’ Informazzjoni dwar ir-Rikonoxximent tal-Kwalifiki ta’ Malta jirrikonoxxu bħala ekwivalenti:
 
@@ -187,10 +165,6 @@ Iżda meta l-ekwivalenza tal-kwalifiki titqies bħala parzjali biss, l-applikant
 
 (4) Kull applikazzjoni skont is-subartikolu (3) għandha tiddikjara:
 
-*6*
-
-[KAP. 615. KONSULENTI TAL-PROPRJETÀ
-
 (a) l-isem sħiħ u n-numru ta’ reġistrazzjoni uffiċjali tas-sħubija;
 
 (b) id-data ta’ inkorporazzjoni jew ta’ reġistrazzjoni tas-sħubija;
@@ -215,11 +189,7 @@ Iżda meta l-ekwivalenza tal-kwalifiki titqies bħala parzjali biss, l-applikant
 
 (9) Il-Bord għandu jiġi informat ukoll kull meta:
 
-(a) xi wieħed (1) mid-diretturi jew mis-sħab ta’ sħubija ffurmata għall-finijiet tas-subartikoli (4) jew (5) tal- KONSULENTI TAL-PROPRJETÀ [KAP. 615.
-
-artikolu 3 jirriżenja jew jitneħħa b’xi mod ieħor; jew
-
-*7*
+(a) xi wieħed (1) mid-diretturi jew mis-sħab ta’ sħubija ffurmata għall-finijiet tas-subartikoli (4) jew (5) tal-artikolu 3 jirriżenja jew jitneħħa b’xi mod ieħor; jew
 
 *Kap. 386.*
 
@@ -247,11 +217,7 @@ Iżda wkoll meta tkun meħtieġa estensjoni taż-żmien, il-Bord għandu jinnoti
 
 (1) Ebda detentur ta’ liċenzja ma għandu jeżerċita l-attività ta’ sensar tal-proprjetà jew ta’ aġent tal-proprjetà immobbli taħt kwalunkwe isem sakemm l-isem ma jkunx ġie approvat l-ewwel mill- Bord.
 
-(2) Applikant għal liċenzja, jew detentur ta’ liċenzja, jista’ fi kwalunkwe żmien japplika bil-miktub lill-Bord biex japprova isem [KAP. 615. KONSULENTI TAL-PROPRJETÀ
-
-għall-finijiet tas-subartikolu (1), liema isem ma għandux jiġi approvat jekk il-Bord jidhirlu li l-isem jixbah ħafna l-isem ta’ kwalunkwe persuna, ditta, jew kumpanija oħra li teżerċita l-attività bħala sensar tal-proprjetà jew aġent tal-proprjetà immobbli b’liċenzja f’Malta jew lil hinn minnha li x’aktarx iqarraq, jew li l-isem ikun dak ta’ kwalunkwe persuna, ditta, jew kumpanija.
-
-*8*
+(2) Applikant għal liċenzja, jew detentur ta’ liċenzja, jista’ fi kwalunkwe żmien japplika bil-miktub lill-Bord biex japprova isem għall-finijiet tas-subartikolu (1), liema isem ma għandux jiġi approvat jekk il-Bord jidhirlu li l-isem jixbah ħafna l-isem ta’ kwalunkwe persuna, ditta, jew kumpanija oħra li teżerċita l-attività bħala sensar tal-proprjetà jew aġent tal-proprjetà immobbli b’liċenzja f’Malta jew lil hinn minnha li x’aktarx iqarraq, jew li l-isem ikun dak ta’ kwalunkwe persuna, ditta, jew kumpanija.
 
 (3) Il-Bord għandu joħroġ dokument ta’ identità lid-detentur ta’ liċenzja skont dan l-Att. Id-dokument ta’ identità għandu jkun fih ritratt tad-detentur ta’ liċenzja u tali informazzjoni oħra li l-Bord jista’ jqis meħtieġa. Din għandha tinkludi, inter alia, ismu, it-tip ta’ liċenzja, in-numru tar-reġistrazzjoni u t-terminu tal-validità. Id-dokument ta’ identità għandu jibqa’ proprjetà tal-Bord u għandu jintradd lura lill- Bord mas-sospensjoni jew ir-revoka ta’ liċenzja maħruġa skont dan l- Att.
 
@@ -275,10 +241,6 @@ Liċenzja għandha, sakemm ma tiġix ikkanċellata qabel, jew skont id-dispożiz
 
 (2) Meta l-Bord jiddeċiedi li ma jġeddidx liċenzja, dan għandu jinforma lid-detentur ta’ liċenzja u jiddikjara r-raġunijiet għad-deċiżjoni tiegħu fin-notifika.
 
-*9*
-
-KONSULENTI TAL-PROPRJETÀ [KAP. 615.
-
 ### 10. Ċediment, sospensjoni jew kanċellazzjoni ta’ liċenzja.
 
 (1) Detentur ta’ liċenzja jista’ fi kwalunkwe żmien iċedi l-liċenzja tiegħu billi jibgħat notifika bil-miktub għal dan il-għan, flimkien mal-liċenzja, lill-Bord.
@@ -301,11 +263,7 @@ KONSULENTI TAL-PROPRJETÀ [KAP. 615.
 
 (b) fejn kwalunkwe sid benefiċjarju, membru tal-bord tad-diretturi jew sieħeb fi sħubija ffurmata għall-finijiet tas-subartikoli (4) jew (5) tal-artikolu 3, ma jibqax jissodisfa l-kondizzjonijiet stabbiliti fl-artikolu 5(5):
 
-Iżda mingħajr preġudizzju għall-ġeneralità ta’ dan is-subartikolu, il-Bord għandu jkun intitolat li jikkanċella jew jissospendi liċenzja jew awtorizzazzjoni kull meta jirċievi kwalunkwe informazzjoni avversa minn kwalunkwe awtorità oħra inklużi awtoritajiet oħrajn responsabbli għas-superviżjoni u [KAP. 615. KONSULENTI TAL-PROPRJETÀ
-
-l-infurzar ta’ kwalunkwe obbligu ieħor li għalih jista’ jkun soġġett it-twettiq tal-attività ta’ sensar tal-proprjetà jew ta’ aġent tal-proprjetà immobbli;
-
-*10*
+Iżda mingħajr preġudizzju għall-ġeneralità ta’ dan is-subartikolu, il-Bord għandu jkun intitolat li jikkanċella jew jissospendi liċenzja jew awtorizzazzjoni kull meta jirċievi kwalunkwe informazzjoni avversa minn kwalunkwe awtorità oħra inklużi awtoritajiet oħrajn responsabbli għas-superviżjoni u l-infurzar ta’ kwalunkwe obbligu ieħor li għalih jista’ jkun soġġett it-twettiq tal-attività ta’ sensar tal-proprjetà jew ta’ aġent tal-proprjetà immobbli;
 
 (ċ) fejn sħubija kummerċjali ffurmata għall-finijiet tas-subartikoli (4) jew (5) tal-artikolu 3 tiġi xolta u konsegwentement tiġi stralċjata.
 
@@ -332,10 +290,6 @@ l-infurzar ta’ kwalunkwe obbligu ieħor li għalih jista’ jkun soġġett it-
 (iii) l-indirizz jew il-post prinċipali tal-attività rreġistrat; u
 
 (iv) l-ismijiet tad-diretturi, tas-sħab, tas-segretarji tal-kumpanija u tas-sidien benefiċjarji kollha;
-
-*11*
-
-KONSULENTI TAL-PROPRJETÀ [KAP. 615.
 
 (ċ) meta l-aġenti tal-proprjetà immobbli jimpjegaw jew jirreklutaw konsulenti tal-proprjetà, lista aġġornata li tinkludi d-dettalji personali tal-konsulenti tal-proprjetà kollha li huma impjegati jew reklutati mal-aġent tal-proprjetà immobbli;
 
@@ -367,10 +321,6 @@ Iżda jekk id-detentur ta’ liċenzja kien attiv waqt in-negozjati bejn il-part
 
 (b) erba’ (4) membri magħżula minn fost persuni ta’ integrità magħrufa u b’għarfien u esperjenza f’wieħed minn dawn is-suġġetti:
 
-*12*
-
-[KAP. 615. KONSULENTI TAL-PROPRJETÀ
-
 (i) kummerċ, ekonomija u industrija;
 
 (ii) kwistjonijiet marbuta mal-affarijiet soċjali u tal-komunità;
@@ -394,10 +344,6 @@ Iżda jekk id-detentur ta’ liċenzja kien attiv waqt in-negozjati bejn il-part
 Mingħajr preġudizzju għall-ġeneralità ta’ dan is-subartikolu, tali regolamenti jistgħu, b’mod partikolari jipprovdu għal kwalunkwe kwistjoni marbuta ma’ persuni li jaġixxu bħala intermedjarju fil-proċess li permezz tiegħu jiġu nnegozjati jew isiru tranżazzjonijiet li jinvolvu l-akkwist, il-bejgħ jew il-kiri ta’ art, inklużi dawk fuq bażi okkażjonali, kif ukoll kwalunkwe kwistjoni oħra marbuta magħhom, filwaqt li jitqiesu l-kunsiderazzjonijiet rilevanti kollha, inklużi l-istandards ta’ kwalifiki jew l-imġiba etika. Tali rekwiżiti jistgħu jinkludu regoli, kundizzjonijiet u/jew eżenzjonijiet fir-rigward tat-twettiq tal-attivitajiet kollha provduti skont dan l-Att.
 
 (2) Il-Bord jista’ joħroġ regolamenti b’rekwiżiti li għandhom jiġu ssodisfati minn persuni li jaġixxu bħala intermedjarju fil-proċess li permezz tiegħu jiġu nnegozjati jew isiru tranżazzjonijiet li jinvolvu l-akkwist, il-bejgħ jew il-kiri ta’ art, inklużi dawk fuq bażi okkażjonali. Tali rekwiżiti jistgħu jinkludu regoli, kondizzjonijiet u/jew eżenzjonijiet fir-rigward tat-twettiq tal-attivitajiet kollha provduti skont dan l-Att.
-
-*13*
-
-KONSULENTI TAL-PROPRJETÀ [KAP. 615.
 
 ## TAQSIMA VII — Appelli mid-Deċiżjonijiet tal-Bord
 

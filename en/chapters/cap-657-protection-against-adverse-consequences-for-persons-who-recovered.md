@@ -14,12 +14,6 @@ retrieved: 2026-10-12
 
 # Protection against Adverse Consequences for Persons who recovered from Oncological Diseases (Right to be Forgotten) Act (Cap. 657)
 
-FOR PERSONS WHO RECOVERED FROM
-
-*1*
-
-ONCOLOGICAL DISEASES (RIGHT TO BE FORGOTTEN) [CAP. 657.
-
 **CHAPTER 657**
 
 **PROTECTION AGAINST ADVERSE**
@@ -58,13 +52,9 @@ In this Act, unless the context otherwise requires:
 
 "financial services agreement" means any life insurance contract, bank loan agreement, or any other contract or agreement ancillary thereto;
 
-"medical history" means any medical records relating to FOR PERSONS WHO RECOVERED FROM ONCOLOGI- [CAP. 657. CAL DISEASES (RIGHT TO BE FORGOTTEN)
+"medical history" means any medical records relating to the diagnosis and treatment of any oncological disease, including any records which may pre-date the diagnosis if they refer to the related testing, and also includes any follow-up medical check-ups, tests, and results following the end of treatment in so far as they relate to the oncological disease, and it shall also include any inquiry, request, or disclosure, whether oral or written, regarding whether a person has ever been diagnosed with or treated for any oncological disease;
 
 \*Not yet in force.
-
-the diagnosis and treatment of any oncological disease, including any records which may pre-date the diagnosis if they refer to the related testing, and also includes any follow-up medical check-ups, tests, and results following the end of treatment in so far as they relate to the oncological disease, and it shall also include any inquiry, request, or disclosure, whether oral or written, regarding whether a person has ever been diagnosed with or treated for any oncological disease;
-
-*2*
 
 "Minister" means the Minister responsible for health;
 
@@ -82,11 +72,7 @@ the diagnosis and treatment of any oncological disease, including any records wh
 
 Provided that in the case of diagnosis before the age of twenty five (25) years, the established period shall be shortened to five (5) years from the end of treatment:
 
-Provided further that the Minister, with the concurrence of the Minister responsible for finance and the Minister responsible for employment, may by means of regulations prescribe shorter established periods under such conditions as may be specified and in such case the shorter established periods and the conditions applicable FOR PERSONS WHO RECOVERED FROM
-
-*3*
-
-ONCOLOGICAL DISEASES (RIGHT TO BE FORGOTTEN) [CAP. 657. thereto may be included in a Schedule.
+Provided further that the Minister, with the concurrence of the Minister responsible for finance and the Minister responsible for employment, may by means of regulations prescribe shorter established periods under such conditions as may be specified and in such case the shorter established periods and the conditions applicable thereto may be included in a Schedule.
 
 (2) The medical history referred to in this article may not be requested or acquired even from sources other than the recovered person or the other party, and in case it is made known or made available to the other party, such medical history shall not be considered or used in order to refuse access to any contract of service, contract of employment or financial services agreement, or to impose more onerous conditions or to affect in any way the content of the contract of service, contract of employment or financial services agreement, if the established period as established in this Act has elapsed.
 
@@ -100,11 +86,7 @@ Provided that the medical history of the recovered person which was held by the 
 
 (5) Where medical history of a recovered person was requested when the person entered into a contract of service or a contract of employment prior to the coming into force of this Act and the medical history is still being held by the other party, it shall, subsequent to the lapse of the established period, be anonymised and the recovered person shall be notified in writing that such anonymisation has taken place.
 
-(6) In all cases mentioned in sub-articles (3) to (5) it shall be the FOR PERSONS WHO RECOVERED FROM ONCOLOGI- [CAP. 657. CAL DISEASES (RIGHT TO BE FORGOTTEN)
-
-responsibility of the recovered person to inform the other party that the established period has elapsed, and the effect of the aforementioned sub-articles shall only operate from the date when this information reaches the other party:
-
-*4*
+(6) In all cases mentioned in sub-articles (3) to (5) it shall be the responsibility of the recovered person to inform the other party that the established period has elapsed, and the effect of the aforementioned sub-articles shall only operate from the date when this information reaches the other party:
 
 Provided that in case of a dispute as to the date of the end of the treatment any of the parties may refer the matter to the Board in accordance with article 7.
 
@@ -127,12 +109,6 @@ Provided further that the Minister may also appoint substitute Chairpersons and 
 (3) The Chairperson and members of the Board shall be appointed for a period of three (3) years, and shall be eligible for re-appointment.
 
 (4) In the exercise of their functions the Chairperson and members of the Board shall not be subject to the direction or control of any other person or authority.
-
-FOR PERSONS WHO RECOVERED FROM
-
-*5*
-
-ONCOLOGICAL DISEASES (RIGHT TO BE FORGOTTEN) [CAP. 657.
 
 (5) The Board may act notwithstanding any vacancy in its composition.
 
@@ -162,10 +138,6 @@ ONCOLOGICAL DISEASES (RIGHT TO BE FORGOTTEN) [CAP. 657.
 
 Provided that the report may include anonymised information for statistical purposes.
 
-*6*
-
-FOR PERSONS WHO RECOVERED FROM ONCOLOGI- [CAP. 657. CAL DISEASES (RIGHT TO BE FORGOTTEN)
-
 ## 7. Determination of dates of diagnosis and end of treatment.
 
 (1) In cases to which the provisions of articles 3(3), 3(4), and 3(5) apply, if a dispute arises as to the date of diagnosis and, or the date of the end of treatment, either party may submit an application before the Board for determination of the dispute.
@@ -191,12 +163,6 @@ Provided that if the Board makes a request for data the above referred time limi
 The Minister may make regulations as authorized under this Act, including Schedules annexed to this Act within the parameters of article 3, and in general for the better implementation of the provisions of this Act:
 
 Provided that any Schedules which the Minister may make shall be revised at least once a year.
-
-FOR PERSONS WHO RECOVERED FROM
-
-*7*
-
-ONCOLOGICAL DISEASES (RIGHT TO BE FORGOTTEN) [CAP. 657.
 
 ## 9. Offences.
 

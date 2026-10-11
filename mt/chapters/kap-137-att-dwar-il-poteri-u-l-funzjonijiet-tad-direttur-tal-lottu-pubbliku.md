@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Poteri u l-Funzjonijiet tad-Direttur tal-Lottu Pubbliku (Cap. 137)
 
-POTERI U L-FUNZJONIJIET
-
-*1*
-
-TAD-DIRETTUR TAL-LOTTU PUBBLIKU [KAP. 137.
-
 **KAPITOLU 137**
 
 **ATT DWAR IL-POTERI U L-FUNZJONIJIET TAD-**

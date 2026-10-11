@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Opportunitajiet Indaqs għal Persuni b'Diżabilità (Cap. 413)
 
-PERSUNI B’DIŻABILITÀ
-
 **KAPITOLU 413**
 
 **ATT DWAR OPPORTUNITAJIET INDAQS**
@@ -69,9 +67,7 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra -
 
 (e) tutur legali jew kuratur, ta’ dak l-individwu;
 
-"Ministru" tfisser il-Ministru responsabbli mid-diżabilità u l-iżvilupp ta’ dan il-qasam, u tinkludi kull persuna li tkun debitament awtorizzata PERSUNI B’DIŻABILITÀ
-
-mill-Ministru msemmi biex taġixxi f’ismu għal għan speċifiku jew kategorija ta’ għanijiet taħt dan l-Att;
+"Ministru" tfisser il-Ministru responsabbli mid-diżabilità u l-iżvilupp ta’ dan il-qasam, u tinkludi kull persuna li tkun debitament awtorizzata mill-Ministru msemmi biex taġixxi f’ismu għal għan speċifiku jew kategorija ta’ għanijiet taħt dan l-Att;
 
 *Kap. 492.*
 
@@ -105,8 +101,6 @@ mill-Ministru msemmi biex taġixxi f’ismu għal għan speċifiku jew kategorij
 
 **IMĦASSRA BL-ATT LVIII TAL-2021**
 
-PERSUNI B’DIŻABILITÀ
-
 ## TAQSIMA V — EŻAMI LI JIDDETERMINA X’INHU RAĠONEVOLI
 
 *Emendata: XXIV. 2016.3.*
@@ -133,9 +127,7 @@ PERSUNI B’DIŻABILITÀ
 
 (4) Il-Bord għandu jkun ippresedut miċ-Chairperson, assistit minn Viċi Chairperson, illi għandhom ikunu t-tnejn li huma persuni b’diżabilità, appuntati mill-Kummissarju għal perjodi rinnovabbli ta’ tliet (3) snin, u li jibqgħu fir-rwoli tagħhom matul tali perjodu għas-sejħiet kollha tal-Bord imlaqqgħa matul tali perjodu.
 
-(5) Il-Bord għandu jkollu Segretarju maħtur minn fost il- PERSUNI B’DIŻABILITÀ
-
-funzjonarji jew impjegati maħtura mill-Kummissarju.
+(5) Il-Bord għandu jkollu Segretarju maħtur minn fost il-funzjonarji jew impjegati maħtura mill-Kummissarju.
 
 (6) Il-quorum tal-Bord ikun ta’ tliet membri, li wieħed minnhom ikun iċ-Chairperson jew il-Viċi Chairperson.
 
@@ -175,8 +167,6 @@ funzjonarji jew impjegati maħtura mill-Kummissarju.
 
 (b) tkun qed isservi bħala mħallef jew maġistrat; jew
 
-PERSUNI B’DIŻABILITÀ
-
 (ċ) tkun falluta, jew tkun għamlet arranġament mal-kredituri tagħha, jew tkun insolventi jew tkun instabet ħatja ta’ xi delitt volontarju kontra l-persuna; jew
 
 (d) tkun instabet ħatja ta’ delitt li jolqot il-fiduċja pubblika jew ta’ serq jew frodi, jew li tkun xjentement irċeviet proprjetà miksuba b’serq jew frodi, ta’ delitt li jolqot il-bon ordni tal-familji, jew ksur ta’ xi dispożizzjoni ta’ dan l-Att jew tal-Konvenzjoni; jew (e) ma tkunx kapaċi twettaq dmirijietha; jew
@@ -196,8 +186,6 @@ PERSUNI B’DIŻABILITÀ
 (8) Il-Kummissarju jista’ f’kull żmien jitneħħa jew ikun sospiż mill-kariga mill-Prim Ministru wara konsultazzjoni mal-Ministru għal raġunijiet ta’ nuqqas ta’ ħila bil-provi biex jaqdi l-funzjonijiet ta’ kariga ta’ Kummissarju jew imġiba ħażina bil-provi jew assenza mhux ġustifikata ta’ aktar minn erbatax-il jum konsekuttivi jew għal tmienja u għorxin jum f’perjodu ta’ tnax-il xahar.
 
 (9) Il-Prim Ministru jista’, f’kull żmien waqt xi assenza tal- Kummissarju, jew għal xi fini temporanju ieħor meta l- Kummissarju jidhirlu meħtieġ li jagħmel hekk, jaħtar persuna sabiex taġixxi fil-kariga ta’ Kummissarju skont dan l-artikolu, sakemm il-Kummissarju jerġa’ jassumi r-responsabilitajiet tiegħu taħt dan l-Att; dan sakemm il-persuna maħtura tkun persuna eliġibbli għal din il-kariga skont dan l-Att.
-
-**PERSUNI B’DIŻABILITÀ**
 
 #### 22. Funzjonijiet tal- Kummissjoni.
 
@@ -233,9 +221,7 @@ PERSUNI B’DIŻABILITÀ
 
 (n) tipprovdi dawk is-servizzi kollha li jistgħu jinħtieġu jew jintalbu mill-Kummissjoni sabiex din tkun tista’ tilħaq l-għanijiet tagħha;
 
-(o) tiġbor, tanalizza u tippubblika statistika dwar il-qasam tal-persuni b’diżabilità li, fost ħwejjeġ oħra, tkun turi l-livell nazzjonali milħuq fil-politika dwar l- PERSUNI B’DIŻABILITÀ
-
-inklużjoni;
+(o) tiġbor, tanalizza u tippubblika statistika dwar il-qasam tal-persuni b’diżabilità li, fost ħwejjeġ oħra, tkun turi l-livell nazzjonali milħuq fil-politika dwar l-inklużjoni;
 
 (p) is-setgħa li tieħu kull azzjoni adatta, li tkun tinkludi miżuri amministrattivi proporzjonati u azzjoni ġudizzjarja, sabiex telimina d-diskriminazzjoni fuq il-bażi ta’ diżabilità kif imfissra f’dan l-Att;
 
@@ -264,8 +250,6 @@ inklużjoni;
 (1) Il-Kummissarju jista’ jaħtar lil xi funzjonarju jew impjegat wieħed jew iktar biex jidhru f ’ismu u għalih f ’kull proċediment ġudizzjarju u fuq kull att, kuntratt, ftehim jew dokument ieħor li jkun.
 
 (2) Dokument li juri li jkun strument magħmul jew maħruġ u ffirmat mill-Kummissarju għandu jintlaqa’ bi prova u għandu, sakemm ma jiġix ippruvat il-kuntrarju, jitqies bħala strument magħmul jew maħruġ mill-Kummissarju.
-
-PERSUNI B’DIŻABILITÀ
 
 #### 24. Kunsill għad- Drittijiet ta' Persuni b’Diżabilità.
 
@@ -302,8 +286,6 @@ B’dan illi mill-inqas nofs l-għadd totali tal-membri tal- Kunsill għandhom i
 (5) Bla ħsara għad-dispożizzjonijiet tas-subartikolu (6), il-membri tal-Kunsill għandhom jibqgħu fil-kariga għal żmien tliet snin, u għandhom ikunu eliġibbli biex jerġgħu jinħatru bħala membri mill-ġdid meta jiskadi dak iż-żmien tal-kariga.
 
 (6) Membru jista’ f’kull żmien jirriżenja mill-kariga tiegħu billi jikteb lill-Ministru.
-
-PERSUNI B’DIŻABILITÀ
 
 (7) Membru jista’ f’kull żmien jitneħħa jew ikun sospiż mill-kariga mill-Kummissarju minħabba:
 
@@ -343,9 +325,7 @@ PERSUNI B’DIŻABILITÀ
 
 (2) Il-perijodu li matulu ordni kif intqal qabel għandu japplika għal kull uffiċjal speċifikat fih, kemm-il darba l-uffiċjal ma jirtirax mis-servizz pubbliku, jew xort’oħra ma jtemmx qabel milli jżomm kariga, jew kemm-il darba ma tkunx speċifikata fl-ordni data differenti, għandu jtemm malli sseħħ xi waħda mill-ġrajjiet li ġejjin, jiġifieri -
 
-(a) l-aċċettazzjoni minn dak l-uffiċjal ta’ offerta ta’ PERSUNI B’DIŻABILITÀ
-
-trasferiment għas-servizz ta’, u impieg permanenti mal-Kummissjoni li ssir skont is-subartikolu (8); jew (b) ir-revoka mill-Prim Ministru ta’ xi ordni magħmul minnu taħt dan l-artikolu dwar dak l-uffiċjal.
+(a) l-aċċettazzjoni minn dak l-uffiċjal ta’ offerta ta’ trasferiment għas-servizz ta’, u impieg permanenti mal-Kummissjoni li ssir skont is-subartikolu (8); jew (b) ir-revoka mill-Prim Ministru ta’ xi ordni magħmul minnu taħt dan l-artikolu dwar dak l-uffiċjal.
 
 (3) Meta ordni dwar xi uffiċjal kif imsemmi qabel ikun revokat mill-Prim Ministru, il-Prim Ministru jista’, b’ordni ieħor, jalloka lil dak l-uffiċjal biex jagħmel xogħol mal-Kummissjoni, f’dik il-kariga u b’effett minn dik id-data li tista’ tkun speċifikata fl-ordni l-ieħor, u d-dispożizzjonijiet tas-subartikolu (2) għandhom japplikaw sakemm idum iseħħ l-ordni l-ieħor dwar dak l-uffiċjal.
 
@@ -365,9 +345,7 @@ trasferiment għas-servizz ta’, u impieg permanenti mal-Kummissjoni li ssir sk
 
 (6) Meta ssir applikazzjoni kif provdut fis-subartikolu (5)(a)(i), din għandha tingħata l-istess konsiderazzjoni bħallikieku l-applikant ma kienx allokat għal xogħol mal-Kummissjoni.
 
-(7) Il-Kummissjoni għandha tħallas lill-Gvern dawk il-kontribuzzjonijiet li jistgħu minn żmien għal żmien ikunu stabbiliti mill-Ministru responsabbli għall-Finanzi għal kemm jiswew il-pensjonijiet u l-gratifikazzjonijiet dovuti lil uffiċjal allokat għal PERSUNI B’DIŻABILITÀ
-
-xogħol mal-Kummissjoni kif imsemmi qabel matul il-perijodu li fih ikun hekk allokat.
+(7) Il-Kummissjoni għandha tħallas lill-Gvern dawk il-kontribuzzjonijiet li jistgħu minn żmien għal żmien ikunu stabbiliti mill-Ministru responsabbli għall-Finanzi għal kemm jiswew il-pensjonijiet u l-gratifikazzjonijiet dovuti lil uffiċjal allokat għal xogħol mal-Kummissjoni kif imsemmi qabel matul il-perijodu li fih ikun hekk allokat.
 
 (8) Il-Kummissjoni tista’, bl-approvazzjoni tal-Prim Ministru, toffri lil kull uffiċjal pubbliku allokat għal xogħol mal- Kummissjoni taħt is-subartikolu (2) impieg permanenti mal- Kummissjoni b’rimunerazzjoni u b’pattijiet u kondizzjonijiet speċifikati fl-offerta.
 
@@ -397,9 +375,7 @@ Mill-anqas xahrejn qabel tmiem is-sena finanzjarja, il- Kummissjoni għandha tis
 
 (4) Il-Ministru għandu, mal-ewwel opportunità, jieħu ħsieb li jqiegħed kopja tal-kontijiet tal-Kummissjoni fuq il-Mejda tal- Kamra tad-Deputati.
 
-(5) Is-sena finanzjarja tal-Kummissjoni tkun ta’ tnax-il xahar li jintemmu fil-31 ta’ Diċembru, b’dan illi l-ewwel sena finanzjarja tal-Kummissjoni wara d-dħul fis-seħħ ta’ dan l-Att għandha tibda fid-data li fiha dan l-Att jiġi fis-seħħ u tispiċċa fil-31 ta’ Diċembru PERSUNI B’DIŻABILITÀ
-
-tas-sena li tiġi minnufih wara.
+(5) Is-sena finanzjarja tal-Kummissjoni tkun ta’ tnax-il xahar li jintemmu fil-31 ta’ Diċembru, b’dan illi l-ewwel sena finanzjarja tal-Kummissjoni wara d-dħul fis-seħħ ta’ dan l-Att għandha tibda fid-data li fiha dan l-Att jiġi fis-seħħ u tispiċċa fil-31 ta’ Diċembru tas-sena li tiġi minnufih wara.
 
 #### 30. Rapport Annwali.
 
@@ -435,8 +411,6 @@ Il-Kummisjoni tkun eżenti mid-dover li tħallas taxxa fuq id-dħul.
 
 (a) kull min iħoss ruħu aggravat b’dak l-att; jew
 
-PERSUNI B’DIŻABILITÀ
-
 (b) kull persuna msemmija fl-artikolu 33A ta’ dan l-Att.
 
 (3) Jekk il-Kummissarju jidhirlu li persuna tkun tixtieq tagħmel ilment bis-saħħa tas-subartikolu (2) u li dik il-persuna tkun teħtieġ l-għajnuna biex tifformola dak l-ilment bil-fomm u, jew, bil-miktub, ikun id-dmir tal-Kummissarju li jieħu passi raġonevoli biex jipprovdi għajnuna xierqa lil dik il-persuna.
@@ -458,8 +432,6 @@ PERSUNI B’DIŻABILITÀ
 (b) li taċċerta illi xejn li huwa kuntrarju għad-dispożizzjonijiet tal-Att, għar-regolamenti magħmula taħtu, jew għal xi kundizzjoni imposta mit-Taqsima dwar l-Investigazzjonjiet jew tal-Bord li jiddetermina x’inhu raġonevoli, qiegħed iseħħ jew inkella seħħ, u tieħu kull azzjoni skont dan;
 
 (ċ) li taċċerta jew tirriproduċi kull data jew informazzjoni skont kif rikjesta mill-Kummissarju;
-
-PERSUNI B’DIŻABILITÀ
 
 (d) li tagħmel pjanti ta’ kwalunkwe fond u tiġbed materjal awdjo-viżiv tal-istess fond wara d-dħul f’tali fond, f’konformità ma’ dan is-subartikolu;
 
@@ -486,8 +458,6 @@ Iżda dik il-persuna illi kontriha tali miżuri jkunu kontemplati għandha susse
 *Miżjud: LVIII.2021.8.*
 
 Fit-twettiq tal-investigazzjonijiet tagħha t-Taqsima dwar l- Investigazzjonijiet għandha tkun iggwidata mill-prinċipju ta’ raġonevolezza kif stabbilit fl-artikolu 20, u tista’ tikkonsulta mal-Bord sabiex tiddetermina x’inhu raġonevoli, skont ma jkun il-każ, bl-investigazzjonijiet ikunu sospiżi pendenti l-eżitu ta’ kull tali referenza magħmula mit-Taqsima dwar l-Investigazzjonijiet lill-Bord.
-
-PERSUNI B’DIŻABILITÀ
 
 *Multi amministrattivi. Miżjud: LVIII.2021.8.*
 
@@ -531,9 +501,7 @@ Fid-determinazzjoni ta’ appell, it-Tribunal għandu jqis il-merti tal-appell, 
 
 (2) Kull regolament li jsir bis-saħħa tas-subartikolu (1) għandu jippreskrivi, fil-każ ta’ diskriminazzjoni allegata ta’ persuna kontra persuna oħra, l-arranġamenti li bihom il-Kummissarju jista’ hu nnifsu jirreferi l-kwistjoni lill-Prim’ Awla tal-Qorti Ċivili:
 
-Iżda ebda riferiment simili m’għandu jżomm lil xi individwu li jkollu interess legali milli jressaq pretenzjoni ta’ diskriminazzjoni bħala l-mertu ta’ azzjoni, inkluża azzjoni għad- PERSUNI B’DIŻABILITÀ
-
-danni quddiem dik il-Qorti.
+Iżda ebda riferiment simili m’għandu jżomm lil xi individwu li jkollu interess legali milli jressaq pretenzjoni ta’ diskriminazzjoni bħala l-mertu ta’ azzjoni, inkluża azzjoni għad-danni quddiem dik il-Qorti.
 
 ### TITOLU 2 – RIMEDJI LEGALI
 
@@ -565,8 +533,6 @@ Kull assoċjazzjoni, organizzazzjoni jew entità legali oħra li jkollhom intere
 
 (6) Għandu jkun hemm numru ta’ kmamar tal-Panel skont ma l- Kummissarju jippreskrivi. It-talbiet għandhom jiġu assenjati lill-varji Panels abbażi ta’ rotazzjoni minn dawk l-uffiċċjali maħtura mir- Reġistru tal-Panel.
 
-PERSUNI B’DIŻABILITÀ
-
 *Il-proċeduri quddiem il-Panel għal Rimedji taħt il- Konvenzjoni. Miżjud; LVIII.2021.8.*
 
 33Ċ. Il-proċeduri quddiem il-Panel għandhom jiġu regolati permezz ta’ regolamenti magħmula mill-Ministru taħt dan l-Att.
@@ -591,9 +557,7 @@ PERSUNI B’DIŻABILITÀ
 
 Iżda l-Qorti tista’, jekk tqis li jkun spedjenti li hekk tagħmel, tirrifjuta li teżerċita s-setgħat tagħha skont dan is-subartikolu f’kull każ meta tkun sodisfatta li mezzi xierqa ta’ rimedju għall-allegat ksur huma, jew kienu disponibbli lil dik il-persuna skont xi liġi ordinarja oħra.
 
-(3) Jekk f’xi proċeduri f’xi Qorti li ma tkunx il-Prim’Awla tal- Qorti Ċivili, jew il-Qorti Kostituzzjonali, tqum xi kwistjoni dwar il-ksur ta’ xi wieħed mid-drittijiet sostantivi tal-Konvenzjoni, dik il- Qorti għandha tibgħat il-kwistjoni quddiem il-Panel jew il-Prim’Awla tal-Qorti Ċivili, kemm-il darba tali kwistjoni taqa’ fl-iskop tal-artikoli 33B(4) u 33Ċ moqrija flimkien, jew tal-artikolu 33E(1) ta’ dan l-Att, sakemm fil-fehma tagħha t-tqanqil tal-kwistjoni ma tkunx sempliċement frivola jew vessatorja; u l-istess Qorti għandha tagħti d-deċiżjoni tagħha fuq kull kwistjoni mibgħuta quddiemha skont dan is-subartikolu u, bla ħsara għad-dispożizzjonijiet tal-artikolu 33E(4), l- PERSUNI B’DIŻABILITÀ
-
-imsemmija Qorti li quddiemha tkun qamet il-kwistjoni għandha tiddisponi mill-istess kwistjoni skont dik id-deċiżjoni.
+(3) Jekk f’xi proċeduri f’xi Qorti li ma tkunx il-Prim’Awla tal- Qorti Ċivili, jew il-Qorti Kostituzzjonali, tqum xi kwistjoni dwar il-ksur ta’ xi wieħed mid-drittijiet sostantivi tal-Konvenzjoni, dik il- Qorti għandha tibgħat il-kwistjoni quddiem il-Panel jew il-Prim’Awla tal-Qorti Ċivili, kemm-il darba tali kwistjoni taqa’ fl-iskop tal-artikoli 33B(4) u 33Ċ moqrija flimkien, jew tal-artikolu 33E(1) ta’ dan l-Att, sakemm fil-fehma tagħha t-tqanqil tal-kwistjoni ma tkunx sempliċement frivola jew vessatorja; u l-istess Qorti għandha tagħti d-deċiżjoni tagħha fuq kull kwistjoni mibgħuta quddiemha skont dan is-subartikolu u, bla ħsara għad-dispożizzjonijiet tal-artikolu 33E(4), l-imsemmija Qorti li quddiemha tkun qamet il-kwistjoni għandha tiddisponi mill-istess kwistjoni skont dik id-deċiżjoni.
 
 *L-appelli lill-Qorti Kostituzzjonali.*
 
@@ -621,17 +585,15 @@ Iżda jekk tkun diġà ngħatat deċiżjoni finali fuq rikors mill- Qrati fit-te
 
 *Miżjud; LVIII.2021.8.*
 
-(1) L-ebda persuna ma għandha tkun imfixkla fl-eżerċizzju tad-dritt tagħha li tikkomunika mal-Kumitat tal-Ġnus Magħquda skont id-dispożizzjonijiet tal-Protokoll mhux Obbligatorju. PERSUNI B’DIŻABILITÀ
-
-*Drittijiet taħt l-Att mingħajr preġudizzju għal drittijiet oħra.*
-
-(2) Id-dispożizzjonijiet ta’ dan l-Att għandhom ikunu mingħajr preġudizzju għal kwalunkwe azzjoni oħra li tista’ tkun disponibbli taħt l-Att, jew taħt kwalunkwe liġi oħra.
+(1) L-ebda persuna ma għandha tkun imfixkla fl-eżerċizzju tad-dritt tagħha li tikkomunika mal-Kumitat tal-Ġnus Magħquda skont id-dispożizzjonijiet tal-Protokoll mhux Obbligatorju. (2) Id-dispożizzjonijiet ta’ dan l-Att għandhom ikunu mingħajr preġudizzju għal kwalunkwe azzjoni oħra li tista’ tkun disponibbli taħt l-Att, jew taħt kwalunkwe liġi oħra.
 
 #### 34. Proċedimenti ċivili.
 
 *Emendat: A.L. 426 tal-2007; II. 2012.35.*
 
 (Imħassar bl-Att LVIII tal-2021).
+
+*Drittijiet taħt l-Att mingħajr preġudizzju għal drittijiet oħra.*
 
 #### 34A. Il-konvenut għandu juri li ma kienx hemm ksur tal-Att.
 

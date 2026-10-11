@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Awtorità għas-Saħħa u s-Sigurtà fuq il-Post tax-Xogħol (Cap. 424)
 
-*1*
-
-FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
 **KAPITOLU 424**
 
 **ATT DWAR L-AWTORITÀ GĦAS-SAĦĦA U S-**
@@ -91,11 +87,7 @@ Iżda s-sena finanzjarja li bdiet fl-1 ta’ Ottubru, 2007 għandha tkun għal p
 
 "Uffiċjal Eżekuttiv Ewlieni" tfisser l-Uffiċjal Eżekuttiv Ewlieni maħtur taħt l-artikolu 10;
 
-"uffiċjal pubbliku", għal dak li jirrigwarda l-artikolu 24, għandha l-istess tifsir mogħti lilha bl-artikolu 124 tal-Kostituzzjoni, iżda ma tinkludix imħallef tal-Qrati Superjuri jew maġistrat tal-Qrati FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
-Inferjuri;
-
-*3*
+"uffiċjal pubbliku", għal dak li jirrigwarda l-artikolu 24, għandha l-istess tifsir mogħti lilha bl-artikolu 124 tal-Kostituzzjoni, iżda ma tinkludix imħallef tal-Qrati Superjuri jew maġistrat tal-Qrati Inferjuri;
 
 "xogħol" tfisser kull dmir, attività, ħidma jew servizz li jipproduċi prodott jew riżultat u li jkun bi skop ta’ ħlas jew bla ħlas, għoti ta’ oġġetti, ta’ servizzi, ta’ profitt jew ta’ benefiċċju.
 
@@ -165,13 +157,7 @@ KAP. 424.] FUQ IL-POST TAX-XOGĦOL
 
 (2) Huwa d-dmir ta’ kull ħaddiem li jikkoopera ma’ min iħaddem u mar-Rappreżentant jew Rappreżentanti għas-Saħħa u s- Sigurtà tal-ħaddiema fuq il-post tax-xogħol għal dak li għandu x’jaqsam mas-saħħa u s-sigurtà.
 
-## TAQSIMA III
-
-*5*
-
-FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
-**Twaqqif, Funzjonijiet u Proċedura tal-Awtorità**
+## TAQSIMA III — Twaqqif, Funzjonijiet u Proċedura tal-Awtorità
 
 ### 8. Twaqqif u għamla tal-Awtorità.
 
@@ -239,10 +225,6 @@ Iżda n-nuqqas li tiġi pubblikata n-nomina jew ir-riżenja minn kariga, kif iku
 
 (1) L-Awtorità jkollha l-funzjonijiet għal dak li jirrigwarda l-istrutturi tagħha kif imfissra f’dan l-Att u dawk il-funzjonijiet l-oħra li jistgħu jingħatawlha taħt kull liġi oħra, jew hekk kif jistgħu jiġu lilha assenjati mill-Ministru.
 
-*7*
-
-FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
 *(2)*
 
 Tkun funzjoni tal-Awtorità li -
@@ -295,11 +277,7 @@ Iżda l-Awtorità tista’ tistabbilixxi l-kwalifiki minimi meħtieġa qabel ma 
 
 ### 10. Tmexxija tal-affarijiet tal- Awtorità.
 
-(1) Mingħajr ħsara għad-disposizzjonijiet l-oħra ta’ dan l- Att, l-Awtorità nnifisha tkun responsabbli għall-affarijiet u għall-operat tagħha, iżda mingħajr ħsara għal dak hawn aktar qabel imsemmi, l-Uffiċjal Eżekuttiv Ewlieni jkun responsabbli għax-xogħol eżekuttiv tal-Awtorità, l-amministrazzjoni u l- FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
-organizzazzjoni tagħha u l-kontroll amministrattiv tal-uffiċjali u tal-impjegati tagħha; l-Uffiċjal Eżekuttiv Ewlieni jkollu wkoll dawk is-setgħat li jiġu, minn żmien għal żmien, delegati mill- Awtorità.
-
-*9*
+(1) Mingħajr ħsara għad-disposizzjonijiet l-oħra ta’ dan l- Att, l-Awtorità nnifisha tkun responsabbli għall-affarijiet u għall-operat tagħha, iżda mingħajr ħsara għal dak hawn aktar qabel imsemmi, l-Uffiċjal Eżekuttiv Ewlieni jkun responsabbli għax-xogħol eżekuttiv tal-Awtorità, l-amministrazzjoni u l-organizzazzjoni tagħha u l-kontroll amministrattiv tal-uffiċjali u tal-impjegati tagħha; l-Uffiċjal Eżekuttiv Ewlieni jkollu wkoll dawk is-setgħat li jiġu, minn żmien għal żmien, delegati mill- Awtorità.
 
 (2) L-Uffiċjal Eżekuttiv Ewlieni jiġi nominat mill-Ministru, wara konsultazzjoni mal-Awtorità, għal perjodu ta’ tliet snin, u dan il-perjodu jista’ jiġi mtawwal għal perjodi oħra ta’ tliet snin kull wieħed:
 
@@ -353,11 +331,7 @@ Iżda wkoll il-Ministru jista’, meta jidhirlu li l-materja tkun urġenti, jav�
 
 (f) dwar in-notifika, ir-rapport u l-investigazzjoni ta’ imwiet, mard, korrimenti jew inċidenti oħra jew inċidenti li jinvolvu s-saħħa u s-sigurtà fil-post tax-xogħol;
 
-(g) dwar il-ħinijiet li ħaddiem jista’ jkun meħtieġ li FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
-jaħdem;
-
-*11*
+(g) dwar il-ħinijiet li ħaddiem jista’ jkun meħtieġ li jaħdem;
 
 (h) dwar is-sigurtà ta’ kull apparat, makkinarju, tagħmir, materjal, kimika, proċess, ħwejjeġ jew ħaġa oħra tkun li tkun li tiġi wżata jew hija maħsuba li tkun użata fil-post tax-xogħol;
 
@@ -421,10 +395,6 @@ Iżda l-Uffiċjal Eżekuttiv Ewlieni għandu jitqies bħala uffiċjal u d-dokume
 
 (e) li jieħu pussess, billi jagħti riċevuta, ta’ kull ħaġa meħtieġa għal testijiet jew bħala prova f’xi inċident, korriment jew mard fuq xi post tax-xogħol, jew ta’ xi ksur allegat ta’ dan l-Att jew ta’ xi regolamenti magħmulin bis-saħħa tiegħu;
 
-*13*
-
-FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
 (f) li jeżamina jew jordna l-eżami ta’ postijiet tax-xogħol u ta’ kull ħaġa li jkun hemm fihom, u li jieħu kampjuni għall-eżami ta’ kull ħaġa, sustanza jew materjal li jinstab f’xi post tax-xogħol jew id-dintorni tiegħu bil-għan li jiġu protetti s-saħħa u s-sigurtà fuq il-post tax-xogħol, u li jiżgura li dawn il-kampjuni jinżammu biex jintużaw bħala prova f’xi proċeduri li jittieħdu skont dan l-Att;
 
 (g) li jordna li ma jiċċaqlaq xejn f’xi post tax-xogħol għal xi perjodu li jista’ jkun meħtieġ raġonevolment għall-għan ta’ xi eżami, investigazzjoni jew spezzjon imsemmija fil-paragrafi ta’ hawn fuq;
@@ -479,11 +449,7 @@ Iżda wkoll kull ordni li jingħata verbalment għandu jiġi konfermat bil-miktu
 
 ### 19. Ebda responsabbiltà.
 
-Ma jkunx hemm, u ma tistax tiġi istitwita, l-ebda azzjoni, dixxiplinarji jew mod ieħor, jew xi proċedura oħra għad-danni, kontra l-Uffiċjal Eżekuttiv Ewlieni jew kontra xi uffiċjali tal- Awtorità għal xi att magħmul jew li ma ġiex magħmul minnhom bonafidi fl-eżekuzzjoni jew fl-eżekuzzjoni maħsuba ta’ xi setgħa, dritt jew dmir skont dan l-Att jew skont xi regolament magħmul FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
-taħtu.
-
-*15*
+Ma jkunx hemm, u ma tistax tiġi istitwita, l-ebda azzjoni, dixxiplinarji jew mod ieħor, jew xi proċedura oħra għad-danni, kontra l-Uffiċjal Eżekuttiv Ewlieni jew kontra xi uffiċjali tal- Awtorità għal xi att magħmul jew li ma ġiex magħmul minnhom bonafidi fl-eżekuzzjoni jew fl-eżekuzzjoni maħsuba ta’ xi setgħa, dritt jew dmir skont dan l-Att jew skont xi regolament magħmul taħtu.
 
 ### 20. Appelli minn ordnijiet mogħtija minn uffiċjal.
 
@@ -545,11 +511,7 @@ L-Awtorità għandha taħtar u timpjega, b’dik ir-rimunerazzjoni u skont dawk 
 
 (1) Il-Prim Ministru jista’, fuq talba tal-Awtorità, minn żmien għal żmien, jordna li xi uffiċjal pubbliku jiġi mqabbad fuq xogħol mal-Awtorità f’dik il-kariga u b’effett minn dik id-data li jiġu speċifikati f’dak l-ordni.
 
-(2) Il-perjodu li għalih ordni bħal dak hawn fuq imsemmi FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
-għandu japplika lil xi uffiċjal imsemmi f ’dak l-ordni għandu, sakemm l-uffiċjal ma jirtirax mis-servizz pubbliku, jew sakemm ma jieqafx mis-servizz f ’data aktar qabel, jew sakemm ma tiġix stabbilita data differenti fl-ordni, jieqaf milli jkollu seħħ wara sena mid-data effettiva ta’ ordni bħal dak, sakemm l-ordni ma jiġix revokat qabel mill-Prim Ministru.
-
-*17*
+(2) Il-perjodu li għalih ordni bħal dak hawn fuq imsemmi għandu japplika lil xi uffiċjal imsemmi f ’dak l-ordni għandu, sakemm l-uffiċjal ma jirtirax mis-servizz pubbliku, jew sakemm ma jieqafx mis-servizz f ’data aktar qabel, jew sakemm ma tiġix stabbilita data differenti fl-ordni, jieqaf milli jkollu seħħ wara sena mid-data effettiva ta’ ordni bħal dak, sakemm l-ordni ma jiġix revokat qabel mill-Prim Ministru.
 
 ### 25. Status ta’ uffiċjali pubbliċi mqabbdin fuq xogħol mal- Awtorità.
 
@@ -593,11 +555,7 @@ KAP. 424.] FUQ IL-POST TAX-XOGĦOL
 
 (b) Il-klassifikazzjoni li hemm riferenza għaliha fil-paragrafu (a) għandha ssir minn bord li jkun magħmul minn Chairperson nominat mill-Ministru responsabbli għall-finanzi u minn żewġ membri oħra, wieħed nominat mill-Ministeru responsabbli ċentralment għall-politika dwar riżorsi umani fis-settur pubbliku u ieħor nominat mill-Awtorità. Il-klassifikazzjoni tkun suġġetta għall-approvazzjoni finali tal-Ministru responsabbli għall-finanzi.
 
-(ċ) Din il-klassifikazzjoni għandha ssir fi żmien tliet xhur FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
-minn xi modifika fis-salarji ta’ impjegati fis-servizz pubbliku, u, jew, ta’ impjegati tal-Awtorità.
-
-*19*
+(ċ) Din il-klassifikazzjoni għandha ssir fi żmien tliet xhur minn xi modifika fis-salarji ta’ impjegati fis-servizz pubbliku, u, jew, ta’ impjegati tal-Awtorità.
 
 (d) Ebda kariga ma għandha tiġi klassifikata fi grad ogħla minn dik ta’ grad 3 fis-servizz tal-Gvern jew xi grad ieħor li l-Ministru responsabbli għall-finanzi jista’ minn żmien għal żmien jordna b’avviż fil-Gazzetta. (e) Mingħajr ħsara għad-disposizzjonijiet tal-artikolu 113 tal-Kostituzzjoni, l-ebda persuna ma tista’, wara li ssir klassifikazzjoni kif hawn aktar qabel imsemmi, tkun intitolata għal drittijiet skont l-Ordinanza dwar il- Pensjonijiet li jkunu inqas favorevoli minn dawk li għalihom kienet tkun intitolata qabel ma saret dik il-klassifikazzjoni.
 
@@ -649,10 +607,6 @@ Il-Ministru responsabbli għall-finanzi jista’, wara konsultazzjoni mal-Minist
 
 (1) L-Awtorità għandha tara li f’kull sena finanzjarja jitlestew, u mhux aktar tard minn tmien ġimgħat qabel l-għeluq ta’ kull sena finanzjarja tadotta, estimi tad-dħul u ħruġ tal-Awtorità għas-sena finanzjarja ta’ wara:
 
-*21*
-
-FUQ IL-POST TAX-XOGĦOL [KAP. 424.
-
 Iżda dwar l-ewwel sena finanzjarja, l-Awtorità għandha tlesti u tadotta estimi mhux aktar tard minn dak iż-żmien li l- Ministru jista’ jispeċifika lill-Awtorità permezz ta’ avviż bil-miktub.
 
 (2) Fil-preparazzjoni ta’ dawn l-estimi l-Awtorità tieħu in konsiderazzjoni xi fondi jew flejjes oħra li jistgħu jitħallsu lilha mill-Fond Konsolidat matul is-sena finanzjarja rilevanti, sew permezz ta’ dan l-Att jew permezz ta’ Att ta’ approprjazzjoni jew xi liġi oħra u l-Awtorità għandha tipprepara dawk l-estimi b’tali mod illi tiżgura illi d-dħul totali tal-Awtorità ikun għall-inqas suffiċjenti biex jagħmel tajjeb għal kull somma li tiġi addebitata lill-kont tad-dħul tagħha inkluż id-deprezzament, iżda mingħajr ħsara għall-ġeneralità ta’ dik l-espressjoni.
@@ -700,10 +654,6 @@ Iżda l-Ministru responsabbli għall-finanzi jista’ jeħtieġ li l-kotba u dok
 (2) Il-ħlasijiet kollha mill-fondi tal-Awtorità, minbarra ħlasijiet żgħar li ma jkunux iżjed minn dak l-ammont li jista’ jiġi stabbilit mill-Awtorità, għandhom isiru minn dak l-uffiċjal jew minn dawk l-uffiċjali tal-Awtorità li jkunu ġew maħtura jew nominati għal dak il-għan.
 
 (3) Ċekkijiet magħmulin fuq kont tal-bank u flejjes miġbudin minn dak il-kont tal-Awtorità għandhom ikunu iffirmati minn dak l-uffiċjal tal-Awtorità li jkun ġie maħtur jew nominat mill-Awtorità għal dak il-għan u għandhom ikunu kontrofirmati miċ- Chairperson, jew minn xi membru ieħor jew uffiċjal kif jista’ jkun awtorizzat mill-Awtorità għal dak il-għan.
-
-*23*
-
-FUQ IL-POST TAX-XOGĦOL [KAP. 424.
 
 (4) L-Awtorità għandha tagħmel provvediment għal dak li għandu x’jaqsam ma’ -
 
@@ -762,10 +712,6 @@ Iżda ebda proċedimenti ma jittieħdu kontra xi persuna li, wara li tkun irċev
 (4) Minkejja d-disposizzjonijiet tal-artikolu 370 tal-Kodiċi Kriminali, proċedimenti għal reat kontra dan l-Att għandhom jittieħdu quddiem il-Qorti tal-Maġistrati (Malta) jew il-Qorti tal- Maġistrati (Għawdex), kif ikun il-każ, bħala qrati ta’ ġudikatura kriminali.
 
 (5) F’kull proċedimenti msemmija fis-subartikolu ta’ qabel dan, l-Uffiċjal Eżekuttiv Ewlieni jew kull uffiċjal delegat mill-imsemmi Uffiċjal Eżekuttiv Ewlieni, jista’ jeżamina jew jikkontro-eżamina x-xhieda, jipproduċi provi, jagħmel sottomissjonijiet biex isostni l-akkuża u b’mod ġenerali jmexxi l-prosekuzzjoni f’isem il- Pulizija, u d-dikjarazzjoni bil-ġurament tal-uffiċjal li huwa ġie hekk delegat għal dak il-għan għandha tkun prova konklużiva ta’ dak il-fatt.
-
-*25*
-
-FUQ IL-POST TAX-XOGĦOL [KAP. 424.
 
 (6) Minkejja d-disposizzjonijiet tas-subartikolu ta’ qabel dan, l-Uffiċjal Eżekuttiv Ewlieni jew l-uffiċjal delegat skont is-subartikolu (5) jistgħu jinġiebu bħala xhieda, iżda jekk ix-xiehda tagħhom tkun meħtieġa bħala parti mill-każ tal-prosekuzzjoni, huma għandhom jinstemgħu qabel ma jibdew jaġixxu kif stabbilit fis-subartikolu (5) sakemm il-ħtieġa tax-xiehda tagħhom ma tinqalax sussegwentement.
 

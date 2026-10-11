@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # United Nations Convention on the Rights of Persons with Disabilities Act (Cap. 627)
 
-*1*
-
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 CHAPTER 627
+**CHAPTER 627**
 
 UNITED NATIONS CONVENTION ON THE RIGHTS
 
@@ -47,12 +45,6 @@ The short title of this Act is the United Nations Convention on the Rights of Pe
 
 "Optional Protocol" means the Optional Protocol to the Convention, which the Government of Malta signed on 30 March 2007 and ratified on 10 October 2012;
 
-**RIGHTS OF PERSONS WITH DISABILITIES**
-
-*[CAP. 627.*
-
-*2*
-
 *                Cap. 319.*
 
 "substantive Convention rights" means those rights as set out in Articles 5 to 30 (both inclusive) of the Convention, which Articles are reproduced in the Second Schedule, and are enforceable subject to the Declaration and Reservations made by the Government of Malta on the signing of the Convention on 30 March 2007, as amended from time to time, and reproduced in the Third Schedule:
@@ -77,11 +69,9 @@ Provided that the substantive Convention rights shall not be understood to mean 
 
 (iv) the UNCRPD Redress Panel, the Administrative Review Tribunal and the Civil Courts shall, in determining any decision on any claim brought before them, avail themselves of a margin of appreciation that considers the national circumstances at any point in time, in relation to the interpretation of the substantive Convention rights and their application.
 
-*3*
+## 3. Claims of discrimination based on disability proceedings before the UNCRPD Redress Panel. Cap. 413.
 
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 3. (1) Any person indicated in article 33B(4) of the Equal Opportunities (Persons with Disability) Act who alleges discrimination on the basis of disability, in respect of any of the substantive Convention rights, may submit a petition to the UNCRPD Redress Panel, in respect of the claim of alleged discrimination, in order that such Panel could examine the said petition and decide upon it.
-
-*Claims of discrimination based on disability proceedings before the UNCRPD Redress Panel. Cap. 413.*
+(1) Any person indicated in article 33B(4) of the Equal Opportunities (Persons with Disability) Act who alleges discrimination on the basis of disability, in respect of any of the substantive Convention rights, may submit a petition to the UNCRPD Redress Panel, in respect of the claim of alleged discrimination, in order that such Panel could examine the said petition and decide upon it.
 
 *Civil proceedings in respect of a claim based upon discrimination due to disability.     Cap. 413.*
 
@@ -105,10 +95,6 @@ When another law, not being the Constitution, the European Convention Act, the E
 
 (b) undertake efforts in the field of disability-related research, together with local and foreign stakeholders;
 
-*4*
-
-[CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
-
 (c) compile and collate necessary feedback and statistics required for reporting to national and international entities, concerning Malta’s legal obligations in the field of disability, and coordinate or contribute towards any reviews conducted by the said national and international entities;
 
 (d) encourage self-advocacy by persons with disability, including through training and empowerment schemes, alongside general disability advocacy, and assist with the advancement and development of initiatives towards this end, while supporting existing initiatives;
@@ -131,7 +117,7 @@ In the First, Second, Third, and Fifth Schedules, if there is any conflict betwe
 
 The Minister may make regulations to give effect to the provisions of this Act, and the enforcement thereof.
 
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 5 FIRST SCHEDULE
+FIRST SCHEDULE
 
 [ARTICLE 2(2)(i)]
 
@@ -152,8 +138,6 @@ For the purposes of the present Convention:
 • "Reasonable accommodation" means necessary and appropriate modification and adjustments not imposing a disproportionate or undue burden, where needed in a particular case, to ensure to persons with disabilities the enjoyment or exercise on an equal basis with others of all human rights and fundamental freedoms;
 
 • Universal design" means the design of products, environments, programmes and services to be usable by all people, to the greatest extent possible, without the need for adaptation or specialized design. "Universal design" shall not exclude assistive devices for particular groups of persons with disabilities where this is needed.
-
-6 [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
 
 ## SECOND SCHEDULE — [ARTICLE 2(1)] — Articles 5 to 30 of the United Nations Convention on the Rights of Persons with
 
@@ -195,7 +179,9 @@ Specific measures which are necessary to accelerate or achieve de facto equality
 
 \2. In all actions concerning children with disabilities, the best interests of the child shall be a primary consideration.
 
-\3. States Parties shall ensure that children with disabilities have the right to express their views freely on all matters affecting them, their views being given due weight in accordance with their age and maturity, on an equal basis with other children, and to be provided with disability and age-appropriate assistance to realize that right. RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 7 Article 8
+\3. States Parties shall ensure that children with disabilities have the right to express their views freely on all matters affecting them, their views being given due weight in accordance with their age and maturity, on an equal basis with other children, and to be provided with disability and age-appropriate assistance to realize that right.
+
+**Article 8**
 
 **Awareness-raising**
 
@@ -227,9 +213,7 @@ Specific measures which are necessary to accelerate or achieve de facto equality
 
 **Accessibility**
 
-\1. To enable persons with disabilities to live independently and participate fully in all aspects of life, States Parties shall take appropriate measures to ensure to persons with disabilities access, on an equal basis with others, to the physical environment, to transportation, to information and communications, including information and communications technologies and systems, and to other facilities and services open or provided to the public, both in urban and in rural areas. These measures, which shall include the identification and elimination of obstacles and 8 [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
-
-barriers to accessibility, shall apply to, inter alia:
+\1. To enable persons with disabilities to live independently and participate fully in all aspects of life, States Parties shall take appropriate measures to ensure to persons with disabilities access, on an equal basis with others, to the physical environment, to transportation, to information and communications, including information and communications technologies and systems, and to other facilities and services open or provided to the public, both in urban and in rural areas. These measures, which shall include the identification and elimination of obstacles and barriers to accessibility, shall apply to, inter alia:
 
 (a) Buildings, roads, transportation and other indoor and outdoor facilities, including schools, housing, medical facilities and workplaces;
 
@@ -263,7 +247,7 @@ States Parties reaffirm that every human being has the inherent right to life an
 
 **Situations of risk and humanitarian emergencies**
 
-States Parties shall take, in accordance with their obligations under international law, including international humanitarian law and international human rights law, all necessary measures to ensure the protection and safety of persons with disabilities in RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 9 situations of risk, including situations of armed conflict, humanitarian emergencies and the occurrence of natural disasters.
+States Parties shall take, in accordance with their obligations under international law, including international humanitarian law and international human rights law, all necessary measures to ensure the protection and safety of persons with disabilities in situations of risk, including situations of armed conflict, humanitarian emergencies and the occurrence of natural disasters.
 
 **Article 12**
 
@@ -299,8 +283,6 @@ Subject to the provisions of this article, States Parties shall take all appropr
 
 (a) enjoy the right to liberty and security of person;
 
-10 [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
-
 (b) are not deprived of their liberty unlawfully or arbitrarily, and that any deprivation of liberty is in conformity with the law, and that the existence of a disability shall in no case justify a deprivation of liberty.
 
 \2. States Parties shall ensure that if persons with disabilities are deprived of their liberty through any process, they are, on an equal basis with others, entitled to guarantees in accordance with international human rights law and shall be treated in compliance with the objectives and principles of this Convention, including by provision of reasonable accommodation.
@@ -327,7 +309,7 @@ Freedom from torture or cruel, inhuman or degrading treatment or punishment 1. N
 
 States Parties shall put in place effective legislation and policies, including women and child-focused legislation and policies, to ensure that instances of exploitation, violence and abuse against persons with disabilities are identified, investigated and, where appropriate, prosecuted.
 
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 11 Article 17
+**Article 17**
 
 **Protecting the integrity of the person**
 
@@ -360,8 +342,6 @@ States Parties to this Convention recognize the equal right of all persons with 
 (b) Persons with disabilities have access to a range of in-home, residential and other community support services, including personal assistance necessary to support living and inclusion in the community, and to prevent isolation or segregation from the community;
 
 (c) Community services and facilities for the general population are available on an equal basis to persons with disabilities and are responsive to their needs.
-
-12 [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
 
 **Article 20**
 
@@ -397,7 +377,7 @@ States Parties shall take all appropriate measures to ensure that persons with d
 
 **Respect for privacy**
 
-\1. No person with disabilities, regardless of place of residence or living RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 13 arrangements, shall be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence or other types of communication or to unlawful attacks on his or her honour and reputation. Persons with disabilities have the right to the protection of the law against such interference or attacks.
+\1. No person with disabilities, regardless of place of residence or living arrangements, shall be subjected to arbitrary or unlawful interference with his or her privacy, family, home or correspondence or other types of communication or to unlawful attacks on his or her honour and reputation. Persons with disabilities have the right to the protection of the law against such interference or attacks.
 
 \2. States Parties shall protect the privacy of personal, health and rehabilitation information of persons with disabilities on an equal basis with others.
 
@@ -422,8 +402,6 @@ States Parties shall take all appropriate measures to ensure that persons with d
 ## 5.
 
 States Parties shall, where the immediate family is unable to care for a child with disabilities, undertake every effort to provide alternative care within the wider family, and failing that, within the community in a family setting.
-
-14 [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
 
 **Article 24**
 
@@ -455,7 +433,7 @@ States Parties shall, where the immediate family is unable to care for a child w
 
 (b) Facilitating the learning of sign language and the promotion of the linguistic identity of the deaf community;
 
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 15 (c) Ensuring that the education of persons, and in particular children, who are blind, deaf or deaf blind, is delivered in the most appropriate languages and modes and means of communication for the individual, and in environments which maximize academic and social development.
+(c) Ensuring that the education of persons, and in particular children, who are blind, deaf or deaf blind, is delivered in the most appropriate languages and modes and means of communication for the individual, and in environments which maximize academic and social development.
 
 \4. In order to help ensure the realization of this right, States Parties shall take appropriate measures to employ teachers, including teachers with disabilities, who are qualified in sign language and/or Braille, and to train professionals and staff who work at all levels of education. Such training shall incorporate disability awareness and the use of appropriate augmentative and alternative modes, means and formats of communication, educational techniques and materials to support persons with disabilities.
 
@@ -478,8 +456,6 @@ States Parties recognize that persons with disabilities have the right to the en
 (d) Require health professionals to provide care of the same quality to persons with disabilities as to others, including on the basis of free and informed consent by, inter alia, raising awareness of the human rights, dignity, autonomy and needs of persons with disabilities through training and the promulgation of ethical standards for public and private health care;
 
 (e) Prohibit discrimination against persons with disabilities in the provision of health insurance, and life insurance where such insurance is permitted by national law, which shall be provided in a fair and reasonable manner;
-
-16 [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
 
 (f) Prevent discriminatory denial of health care or health services or food and fluids on the basis of disability.
 
@@ -507,7 +483,7 @@ States Parties recognize that persons with disabilities have the right to the en
 
 (b) Protect the rights of persons with disabilities, on an equal basis with others, to just and favourable conditions of work, including equal opportunities and equal remuneration for work of equal value, safe and healthy working conditions, including protection from harassment, and the redress of grievances;
 
-(c) Ensure that persons with disabilities are able to exercise their RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 17 labour and trade union rights on an equal basis with others;
+(c) Ensure that persons with disabilities are able to exercise their labour and trade union rights on an equal basis with others;
 
 (d) Enable persons with disabilities to have effective access to general technical and vocational guidance programmes, placement services and vocational and continuing training;
 
@@ -537,11 +513,7 @@ States Parties recognize that persons with disabilities have the right to the en
 
 (a) To ensure equal access by persons with disabilities to clean water services, and to ensure access to appropriate and affordable services, devices and other assistance for disability-related needs;
 
-(b) To ensure access by persons with disabilities, in particular women and girls with disabilities and older persons with disabilities, to social protection [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
-
-programmes and poverty reduction programmes;
-
-*18*
+(b) To ensure access by persons with disabilities, in particular women and girls with disabilities and older persons with disabilities, to social protection programmes and poverty reduction programmes;
 
 (c) To ensure access by persons with disabilities and their families living in situations of poverty to assistance from the State with disability-related expenses, including adequate training, counselling, financial assistance and respite care;
 
@@ -569,7 +541,7 @@ States Parties shall guarantee to persons with disabilities political rights and
 
 (ii) Forming and joining organizations of persons with disabilities to represent persons with disabilities at international, national, regional and local levels.
 
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 19 Article 30
+**Article 30**
 
 **Participation in cultural life, recreation, leisure and sport**
 
@@ -599,8 +571,6 @@ With a view to enabling persons with disabilities to participate on an equal bas
 
 (e) To ensure that persons with disabilities have access to services from those involved in the organization of recreational, tourism, leisure and sporting activities.
 
-20 [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
-
 ## THIRD SCHEDULE — [ARTICLE 2(1)]
 
 Declaration and Reservations made by the Republic of Malta upon the signing of the Convention on the Rights of Persons with Disabilities and its Optional Protocol Interpretative statement made upon ratification:
@@ -627,7 +597,7 @@ Interpretative statement and reservation made upon signature:
 
 Malta’s national legislation considers the termination of pregnancy through induced abortion as illegal.
 
-(b) Pursuant to Article 29(a)(i) and (iii) of the Convention, while the RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 21 Government of Malta is fully committed to ensure the effective and full participation of persons with disabilities in political and public life, including the exercise of their right to vote by secret ballot in elections and referenda, and to stand for elections, Malta makes the following reservations:
+(b) Pursuant to Article 29(a)(i) and (iii) of the Convention, while the Government of Malta is fully committed to ensure the effective and full participation of persons with disabilities in political and public life, including the exercise of their right to vote by secret ballot in elections and referenda, and to stand for elections, Malta makes the following reservations:
 
 With regard to (a)(i):
 
@@ -636,12 +606,6 @@ At this stage, Malta reserves the right to continue to apply its current elector
 With regard to (a)(iii):
 
 Malta reserves the right to continue to apply its current electoral legislation insofar as assistance in voting procedures is concerned.".
-
-**RIGHTS OF PERSONS WITH DISABILITIES**
-
-*[CAP. 627.*
-
-*22*
 
 FOURTH SCHEDULE
 
@@ -675,9 +639,7 @@ Interpretative Guidance on Discrimination on the basis of Disability In this Sch
 
 (d) foster carers; and
 
-*23*
-
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 (e) a legal tutor or curator of that individual;
+(e) a legal tutor or curator of that individual;
 
 * Cap. 491.*
 
@@ -709,11 +671,7 @@ A person would be discriminating with another person due to disability if such p
 
 (c) fails to provide full access to a person with disability for all those actions provided by law;
 
-(d) fails to furnish information with regard to the RIGHTS OF PERSONS WITH DISABILITIES
-
-rights of the other person by means of communication which the other person can understand;
-
-*[CAP. 627. 24*
+(d) fails to furnish information with regard to the rights of the other person by means of communication which the other person can understand;
 
 (e) fails to offer help to the other person in procedures linked to an investigation, the giving of evidence and other similar procedures;
 
@@ -729,11 +687,9 @@ rights of the other person by means of communication which the other person can 
 
 (k) treats or proposes to treat such other person less favourably than he treats or would treat others who do not have such a disability because of the fact that such other person is accompanied by or possesses any assistive means that is used by such other person or because of any matter related to that fact, whether or not it is the practice to treat in such less favourable manner any person who is accompanied by or is in possession of such assistive means;
 
-(l) victimises any person for having made a complaint to the lawful authorities or for having initiated or participated in the proceedings for redress on grounds of an alleged breach of any of the provisions of this Act, or for RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 having disclosed any information, confidential or otherwise, to a lawful authority regarding alleged discriminatory behaviour, activities or practices;
+(l) victimises any person for having made a complaint to the lawful authorities or for having initiated or participated in the proceedings for redress on grounds of an alleged breach of any of the provisions of this Act, or for having disclosed any information, confidential or otherwise, to a lawful authority regarding alleged discriminatory behaviour, activities or practices;
 
 (m) subjects such other person to a particular disadvantage through an apparently neutral provision, criterion or practice;
-
-*25*
 
 (n) fails to publicise, in an effective manner, those goods, facilities and services provided by him to persons with disability, in order to eliminate discrimination prohibited under this Act;
 
@@ -759,10 +715,6 @@ B. EMPLOYMENT
 
 (a) limits, segregates or classifies such a person in a way that adversely affects the opportunities or status of such a person; or
 
-*26*
-
-[CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
-
 (b) participates in any contract, or other arrangement or relationship, the implementation of which has the effect of subjecting such a person to discrimination; or
 
 (c) uses standards, criteria or methods of administration that have an adverse effect on the opportunities, status or benefits of such a person; or
@@ -783,9 +735,7 @@ B. EMPLOYMENT
 
 (b) the overall financial resources of the workplace involved in the making of the alterations;
 
-*27*
-
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 (c) the number of employees at the workplace requiring alterations;
+(c) the number of employees at the workplace requiring alterations;
 
 (d) the effect on expenses and resources and the impact of the required alterations upon the operation of the workplace;
 
@@ -809,11 +759,7 @@ RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 (c) the number of employees at the
 
 (1) Save as provided for in paragraphs (2) and (3), an employer shall not conduct or require any medical examination or otherwise make any enquiries of an applicant for employment or of any of his employees as to whether such applicant or employee is a person with a disability or as to the nature or severity of such disability except to ascertain the ability of the applicant to perform job-related functions or to identify the cost involved in any adaptations that may be required as a result of such disability.
 
-(2) After an offer of employment has been made to an applicant for employment, and prior to the commencement of such employment, an employer may conduct or require a medical examination or make the offer of such employment conditional on the results of such examination if all applicants for [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
-
-this same kind of employment are made subject to such an examination.
-
-*28*
+(2) After an offer of employment has been made to an applicant for employment, and prior to the commencement of such employment, an employer may conduct or require a medical examination or make the offer of such employment conditional on the results of such examination if all applicants for this same kind of employment are made subject to such an examination.
 
 (3) Whenever an examination as is referred to in paragraphs (1) and (2) is in fact conducted, any information obtained regarding the medical condition and history of the applicant in relation to his disability shall be:
 
@@ -841,9 +787,7 @@ It shall be unlawful for a registered organisation under the Employment and Indu
 
 (i) by refusing or failing to accept his application for membership; or
 
-*29*
-
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 (ii) in the terms or conditions on which such organisation is prepared to accept his application for membership; and, or
+(ii) in the terms or conditions on which such organisation is prepared to accept his application for membership; and, or
 
 (b) a member of such registered organisation, on the grounds of the disability of such member or a disability of any of his family member by:
 
@@ -869,11 +813,7 @@ C. EDUCATION
 
 (i) by refusing or failing to accept his application for such admission; or
 
-(ii) in the terms or conditions on which such educational authority or institution is prepared to [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
-
-admit him as a student; and, or
-
-*30*
+(ii) in the terms or conditions on which such educational authority or institution is prepared to admit him as a student; and, or
 
 (b) a student on the grounds of his disability or disability of any of his family members by:
 
@@ -893,11 +833,9 @@ D. ACCESS TO PROPERTY
 
 (b) in the terms or conditions on which such person is prepared to allow such other person access to, or the use of any such property or facilities; or
 
-(c) in relation to the provision of means of access to such property including any necessary alterations to such RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 property or facilities so as to make such access possible; or
+(c) in relation to the provision of means of access to such property including any necessary alterations to such property or facilities so as to make such access possible; or
 
 (d) by requiring such other person to leave such property or to cease to use such facilities or to unjustifiably restrict in any way such use.
-
-*31*
 
 (2) Where:
 
@@ -920,10 +858,6 @@ E. PROVISION OF GOODS, FACILITIES OR SERVICES
 (d) facilities by way of banking, insurance or for grants, loans, credit or finance;
 
 (e) participation in occupational and other pension schemes;
-
-*32*
-
-[CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
 
 (f) facilities for education;
 
@@ -953,11 +887,9 @@ This also includes, but is not limited to, the refusal to administer food and fl
 
 (b) an assessment which reflects the actual needs and health conditions of the person with disability; and
 
-(c) rehabilitation and habilitation services designed RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 to minimise and prevent further disabilities:
+(c) rehabilitation and habilitation services designed to minimise and prevent further disabilities:
 
 so however that the State shall offer all support as the case may be.
-
-*33*
 
 G. ACCOMMODATION
 
@@ -983,11 +915,7 @@ G. ACCOMMODATION
 
 (2) The provisions of paragraph (1) shall not apply if:
 
-(a) the person who provides or proposes to provide the accommodation or a near relative of that person, resides [CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
-
-**and intends to continue to reside in that property; and**
-
-*34*
+(a) the person who provides or proposes to provide the accommodation or a near relative of that person, resides and intends to continue to reside in that property; and
 
 (b) the accommodation provided in that property could cater for no more than four persons.
 
@@ -1009,11 +937,7 @@ Nothing under this Act shall in any way be construed as prohibiting any form of 
 
 The provisions of this Act shall not affect any provision in a charitable instrument that confers charitable benefits, or enables charitable benefits to be conferred, wholly or in part on persons who have a disability or a particular disability.
 
-*35*
-
-RIGHTS OF PERSONS WITH DISABILITIES [CAP. 627 FIFTH SCHEDULE
-
-**[ARTICLE 2(2)(iii)]**
+## FIFTH SCHEDULE — [ARTICLE 2(2)(iii)]
 
 General Comments issued by the United Nations Committee on the Rights of Persons with Disabilities
 
@@ -1052,10 +976,6 @@ F. GENERAL COMMENT No. 6
 Article 5: Equality and non-discrimination
 
 Document number CRPD/C/GC/6 in the Official Document System of the United Nations (ODS), as amended from time to time, shall apply mutatis mutandis.
-
-*36*
-
-[CAP. 627. RIGHTS OF PERSONS WITH DISABILITIES
 
 G. GENERAL COMMENT No. 7
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Identità tal-Ġeneru, l-Espressjoni tal-Ġeneru u l-Karatteristiċi tas-Sess (Cap. 540)
 
-*1*
-
-U L-KARATTERISTIĊI TAS-SESS [KAP. 540.
-
 **KAPITOLU 540**
 
 **ATT DWAR L-IDENTITA TAL-ĠENERU,**
@@ -111,10 +107,6 @@ Iżda d-drittijiet u l-interessi tat-tfal stipulati fil-Konvenzjoni dwar id-Drit
 
 (1) Kull ċittadin Malti għandu jkollu d-dritt li jitlob lid- Direttur sabiex ibiddel il-ġeneru reġistrat għall-ġeneru femminili, għall-ġeneru maskili, jew għal ġeneru mhux binarju u, jew l-isem, jekk il-persuna tagħżel li tibdel l-isem, sabiex jirrifletti l-identità tal-ġeneru magħżula minn dik il-persuna:
 
-*3*
-
-U L-KARATTERISTIĊI TAS-SESS [KAP. 540.
-
 Iżda mingħajr ħsara għad-dispożizzjonijiet ta’ kwalunkwe liġi oħra, persuna tista’ biss titlob bidla fl-isem permezz tal-proċeduri skont dan l-Att, jekk flimkien ma’ dik it-talba tkun qiegħda tagħmel talba għal bidla fil-ġeneru reġistrat:
 
 Iżda wkoll f’każ ta’ ġeneru mhux binarju, l-identifikatur tal-ġeneru għandu fi kwalunkwe att jew dokument jiġi indikat bl-ittra "X".
@@ -159,11 +151,11 @@ Iżda qabel l-għeluq ħmistax-il ġurnata mill-għoti tad-digriet kif korrett, 
 
 (2) Meta d-digriet ta’ adozzjoni jiġi emendat kull kopja awtentikata tar-reġistrazzjoni relattiva fir-Reġistru tal-Persuni Adottati li tista’ tinħareġ bis-saħħa tal-artikolu 269(5) tal-Kodiċi Ċivili għandha tkun kopja tar-reġistrazzjoni kif emendata, mingħajr ir-riproduzzjoni ta’ xi nota jew markar dwar l-emenda jew ta’ xi ħaġa mħassra bis-saħħa ta’ hekk; u kopja awtentika ta’ reġistrazzjoni f’xi reġistru, li tkun reġistrazzjoni li l-immarkar tagħha jkun ġie mħassar, għandha titqies li tkun kopja eżatta fil-każ biss li jekk kemm l-immarkar kif ukoll it-tħassir ma jkunux jidhru fiha.
 
-*5*
+## 5. Funzjonijiet tan- Nutar.
 
-U L-KARATTERISTIĊI TAS-SESS [KAP. 540. 5. (1) It-tfassil tal-att pubbliku dikjaratorju għandu jkun fih l-elementi li ġejjin:
+*Emendat: XXV.2024.7.*
 
-*Funzjonijiet tan- Nutar. Emendat: XXV.2024.7.*
+(1) It-tfassil tal-att pubbliku dikjaratorju għandu jkun fih l-elementi li ġejjin:
 
 (a) kopja tal-att tat-twelid tal-applikant;
 
@@ -235,10 +227,6 @@ Iżda wkoll kwalunkwe persuna li ppreżentat talba skont l-artikolu 4(1) qabel i
 
 (1) Deċiżjoni finali dwar l-identità tal-ġeneru ta’ kwalunkwe persuna li ġiet iddeterminata minn qorti kompetenti barranija jew awtorità responsabbli li taġixxi skont il-liġi ta’ dak il-pajjiż għandha tkun rikonoxxuta f’Malta permezz ta’ att pubbliku ta’ rikonoxximent u d-dispożizzjonijiet tal-artikolu 5(2) u (3) għandhom japplikaw mutatis mutandis.
 
-*7*
-
-U L-KARATTERISTIĊI TAS-SESS [KAP. 540.
-
 (2) L-att pubbliku ta’ rikonoxximent għandu jkun fih l-elementi li ġejjin:
 
 (a) kopja legali tad-deċiżjoni finali li ser tiġi rikonoxxuta, u meta din ma tkunx bil-lingwa Maltija jew Ingliża għandha tiġi tradotta għal waħda (1) minn dawn il-lingwi;
@@ -309,11 +297,11 @@ Iżda l-kopji tal-att pubbliku li ssir riferenza għalih fl-artikolu 5 magħmul 
 
 *Kap. 55.*
 
-*9*
+## 13. Anti-diskriminaz-zjoni u promozzjoni tal-ugwaljanza.
 
-U L-KARATTERISTIĊI TAS-SESS [KAP. 540. 13. (1) Kull norma, regolament jew proċedura għandhom jirrispettaw id-dritt għall-identità tal-ġeneru. L-ebda norma, regolament jew proċedura ma għandhom jillimitaw, jirrestrinġu jew jannullaw l-eżerċizzju tad-dritt għall-identità tal-ġeneru, u n-normi kollha għandhom jiġu interpretati u infurzati b’mod li jiffavorixxu l-aċċess għal dan id-dritt.
+*Emendat: XXV.2024.13.*
 
-*Anti-diskriminaz-zjoni u promozzjoni tal-ugwaljanza. Emendat: XXV.2024.13.*
+(1) Kull norma, regolament jew proċedura għandhom jirrispettaw id-dritt għall-identità tal-ġeneru. L-ebda norma, regolament jew proċedura ma għandhom jillimitaw, jirrestrinġu jew jannullaw l-eżerċizzju tad-dritt għall-identità tal-ġeneru, u n-normi kollha għandhom jiġu interpretati u infurzati b’mod li jiffavorixxu l-aċċess għal dan id-dritt.
 
 (2) Is-servizz pubbliku għandu dmir li jiżgura li diskriminazzjoni illegali u fastidju dwar l-orjentazzjoni sesswali, l-identità tal-ġeneru, l-espressjoni tal-ġeneru u l-karatteristiċi tas-sess huma eliminati, filwaqt li s-servizzi tiegħu jippromwovu l-opportunitajiet indaqs għal kulħadd, irrispettivament mill-orjentazzjoni sesswali, l-identità tal-ġeneru, l-espressjoni tal-ġeneru u l-karatteristiċi tas-sess.
 

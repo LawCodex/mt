@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Promozzjoni ta’ Stili ta’ Ħajja Sana u Kura ta’ Mard li ma Jitteħidx (Cap. 550)
 
-*1*
-
-U KURA TA’ MARD LI MA JITTEĦIDX [KAP. 550.
-
 **KAPITOLU 550**
 
 **ATT DWAR IL-PROMOZZJONI TA’ STILI**
@@ -114,10 +110,6 @@ L-għan ewlieni ta’ dan l-Att huwa li jistabbilixxi u jiżgura approċċ inter
 (1) Għandu jkun id-dmir tal-Kunsill Konsultattiv, b’mod ġenerali, biex jipprovdi pariri dwar kwalunkwe kwistjoni relatata mal-istili ta’ ħajja sana.
 
 (2) B’mod partikolari, iżda mingħajr preġudizzju għall-ġeneralità ta’ dak imsemmi hawn taħt, ikun id-dmir tal-Kunsill Konsultattiv li:
-
-*3*
-
-U KURA TA’ MARD LI MA JITTEĦIDX [KAP. 550.
 
 (a) jagħti pariri lill-Ministru kkonċernat dwar materji relatati mas-saħħa u mal-attività fiżika u nutrizzjoni;
 

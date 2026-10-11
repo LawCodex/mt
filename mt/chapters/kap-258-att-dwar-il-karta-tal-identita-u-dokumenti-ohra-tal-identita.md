@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Karta tal-Identità u Dokumenti oħra tal-Identità (Cap. 258)
 
-*1*
-
-DOKUMENTI OĦRA TAL-IDENTITÀ [KAP.258
-
 **KAPITOLU 258**
 
 **ATT DWAR IL-KARTA TAL-IDENTITÀ U**
@@ -65,10 +61,6 @@ F’dan l-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 \*Ara l-artikolu 1(2) kif promulgat bl-Avviż Legali 308 tal-2012 kif sar liġi oriġinarja-ment, li ġie mħolli barra taħt l-Att tal-1980 dwar ir-Reviżjoni tal-Liġijiet Statutarji, u l- Avviż Legali 466 tal-2012. †L-Artikoli 10(2) u 10(3) daħlu fis-seħħ. Ara l-Avviż Legali 466 tal-2012.
 
-*2*
-
-[KAP.258 DOKUMENTI OĦRA TAL-IDENTITÀ
-
 *Kap. 490.*
 
 "Tribunal" tfisser it-Tribunal tar-Reviżjoni Amministrattiva mwaqqaf bl-artikolu 5 tal-Att dwar il-Ġustizzja Amministrattiva.
@@ -107,11 +99,7 @@ u tista’ tinkludi dawk id-dettalji jew informazzjoni oħra kif l-uffiċjal awt
 
 Iżda d-dokument jista’ jinkludi wkoll isem u, jew kunjom li bihom il-persuna tkun komunement magħrufa, liema isem u, jew kunjom għandhom jiġu indikati bil-kliem "magħruf bħala" skont id-diskrezzjoni tal-uffiċjal awtorizzat. L-inklużjoni tal-kliem "magħruf bħala" qabel l-isem u, jew il-kunjom għandhom ikunu permessi biss jekk l-uffiċjal awtorizzat ikun sodisfatt li hemm raġunijiet suffiċjenti li jistħoqqilhom li jiġu inklużi. Id-deċiżjoni tal-uffiċjal awtorizzat għandha tkun ibbażata fuq il-kriterji preskritti.
 
-(3) Il-karta tal-identità għandha tkun magħmula minn dak il-materjal u b’dak il-mod li fl-opinjoni tal-uffiċjal awtorizzat DOKUMENTI OĦRA TAL-IDENTITÀ [KAP.258
-
-jipprovdi sigurtà xierqa kontra l-falsifikazzjoni, it-tbagħbis jew il-modifikazzjoni tagħha, u għandha f’kull każ, tinkludi parti limitata fejn tista’ tiddaħħal informazzjoni kodifikata li tinqara fuq magna sabiex tkun tista’ ssir l-identifikazzjoni elettronika tad-detentur u liema informazzjoni tista’ tinkludi informazzjoni rilevanti tad-data biometrika tad-detentur kif preskritt.
-
-*3*
+(3) Il-karta tal-identità għandha tkun magħmula minn dak il-materjal u b’dak il-mod li fl-opinjoni tal-uffiċjal awtorizzat jipprovdi sigurtà xierqa kontra l-falsifikazzjoni, it-tbagħbis jew il-modifikazzjoni tagħha, u għandha f’kull każ, tinkludi parti limitata fejn tista’ tiddaħħal informazzjoni kodifikata li tinqara fuq magna sabiex tkun tista’ ssir l-identifikazzjoni elettronika tad-detentur u liema informazzjoni tista’ tinkludi informazzjoni rilevanti tad-data biometrika tad-detentur kif preskritt.
 
 (4) L-użu ta’ kull informazzjoni biometrika kif tista’ tiġi miksuba tista’ tintuża biss bħala mezz li permezz tagħha tiġi identifikata persuna waqt transazzjoni li fiha dik il-persuna hija involuta, u l-użu tal-verifikazzjoni tal-identità għandha teħtieġ il-kunsens tad-detentur. L-użu ta’ din l-informazzjoni biometrika, għal xi raġuni oħra inklużi f’investigazzjonijiet kriminali, huwa pprojbit u jmur kontra l-Att dwar il-Protezzjoni u l-Privatezza tad- Data.
 
@@ -137,11 +125,7 @@ jipprovdi sigurtà xierqa kontra l-falsifikazzjoni, it-tbagħbis jew il-modifika
 
 Iżda l-Prim Ministru jista’ f’kull żmien (barra mill-perjodu bejn ix-xoljiment tal-Parlament u t-tmiem tal-ewwel elezzjoni ġenerali li tkun saret wara dak ix-xoljiment), permezz ta’ avviż fil- Gazzetta, jtemm b’dak il-mod u f’dik id-data partikolari kif jidhirlu xieraq, il-validità ta’ kull, jew xi numri ta’ karti tal-identità:
 
-Iżda wkoll fil-każ li karta tal-identità tkun ġiet maħruġa lil persuna ta’ nazzjonalità Maltija taħt is-sittax jew it-tmintax-il sena, dik il-karta tal-identità ma tibqax valida ġaladarba d-detentur tagħha jagħlaq is-sittax jew it-tmintax-il sena, skont il-każ. Dan id-detentur għandu l-obbligu li jara li l-karta tal-identità tiegħu tiġi maħruġa mill-ġdid mhux aktar tard minn xahar wara li jkun għalaq [KAP.258 DOKUMENTI OĦRA TAL-IDENTITÀ
-
-is-sittax jew it-tmintax-il sena.
-
-*4*
+Iżda wkoll fil-każ li karta tal-identità tkun ġiet maħruġa lil persuna ta’ nazzjonalità Maltija taħt is-sittax jew it-tmintax-il sena, dik il-karta tal-identità ma tibqax valida ġaladarba d-detentur tagħha jagħlaq is-sittax jew it-tmintax-il sena, skont il-każ. Dan id-detentur għandu l-obbligu li jara li l-karta tal-identità tiegħu tiġi maħruġa mill-ġdid mhux aktar tard minn xahar wara li jkun għalaq is-sittax jew it-tmintax-il sena.
 
 (2) Meta d-detentur tal-karta tal-identità tkun il-persuna li japplikaw għaliha d-disposizzjonijiet tal-artikolu 4, din il-persuna għandha, mhux aktar tard minn xahar minn meta tkun skadiet il-validità tal-karta tal-identità, jew mhux aktar tard minn xahar wara li tintemm il-validità tal-karta tal-identità, skont kif jeħtieġ il-każ, tapplika għal karta tal-identità ġdida skont id-disposizzjonijiet ta’ dan l-Att u għandha tirritorna lura l-kartà tal-identità invalida għal waħda ġdida.
 
@@ -177,11 +161,7 @@ L-uffiċjal awtorizzat jista’ jikkanċella karta tal-identità, u jista’ jit
 
 (1) Dokumenti għal residenza kif imsemmija fl-artikolu 9, għandhom jinħarġu mill-uffiċjal awtorizzat u għandhom ikunu awtentikati skont kif jista’ jiġi preskritt.
 
-(2) Dokument għal residenza għandu jkollu ritratt ta’ dik il-persuna li għaliha d-dokument inħareġ, u li fl-opinjoni tal-uffiċjal awtorizzat, ir-ritratt juri xebh vera ta’ dik il-persuna f’dak iż-żmien DOKUMENTI OĦRA TAL-IDENTITÀ [KAP.258
-
-li inħareġ id-dokument għal residenza. Dan id-dokument għandu wkoll ikollu l-firma jew kopja tal-firma reċenti tad-detentur, kif ukoll id-dettalji tal-persuna konċernata li ġejjin:
-
-*5*
+(2) Dokument għal residenza għandu jkollu ritratt ta’ dik il-persuna li għaliha d-dokument inħareġ, u li fl-opinjoni tal-uffiċjal awtorizzat, ir-ritratt juri xebh vera ta’ dik il-persuna f’dak iż-żmien li inħareġ id-dokument għal residenza. Dan id-dokument għandu wkoll ikollu l-firma jew kopja tal-firma reċenti tad-detentur, kif ukoll id-dettalji tal-persuna konċernata li ġejjin:
 
 (a) isem u kunjom;
 
@@ -219,11 +199,7 @@ Kull persuna li qed tfittex l-ażil u kull persuna li ma rnexxilhiex tikseb l-a�
 
 (1) Dokumenti ta’ identifikazzjoni għandhom jinħarġu mill-uffiċjal awtorizzat u għandhom jiġu awtentikati skont kif jista’ jiġi preskritt.
 
-(2) Dokument ta’ identifikazzjoni għandu jkollu ritratt tal-persuna li lilha jkun inħareġ, liema fl-opinjoni tal-uffiċjal [KAP.258 DOKUMENTI OĦRA TAL-IDENTITÀ
-
-awtorizzat, ikun verament jixbaħ lil dik il-persuna fil-ħin li ġie maħruġ id-dokument għal residenza u għandu jkun hemm fuqu d-data li fiha tindika l-bidu tal-validità tiegħu u meta jiskadi. Għandu wkoll ikollu l-firma tad-detentur jew kopja tal-firma riċenti tad-detentur, kif ukoll id-dettalji tal-persuna konċernata li ġejjin:
-
-*6*
+(2) Dokument ta’ identifikazzjoni għandu jkollu ritratt tal-persuna li lilha jkun inħareġ, liema fl-opinjoni tal-uffiċjal awtorizzat, ikun verament jixbaħ lil dik il-persuna fil-ħin li ġie maħruġ id-dokument għal residenza u għandu jkun hemm fuqu d-data li fiha tindika l-bidu tal-validità tiegħu u meta jiskadi. Għandu wkoll ikollu l-firma tad-detentur jew kopja tal-firma riċenti tad-detentur, kif ukoll id-dettalji tal-persuna konċernata li ġejjin:
 
 (a) isem u kunjom;
 
@@ -259,10 +235,6 @@ Il-validità ta’ dokument ta’ identifikazzjoni għandu jkun regolat skont id
 
 (1) Kull persuna li lilha jkun inħareġ dokument ta’ identità għandha tħarsu sew u għandha tipprovdih meta tiġi mitluba, jew kif preskritt, jew kif ikun meħtieġ bil-liġi, u, meta meħtieġ b’xi liġi, għandha tikkonsenja d-dokument lil xi awtorità leġittima:
 
-*7*
-
-DOKUMENTI OĦRA TAL-IDENTITÀ [KAP.258
-
 Iżda persuna ma tkunx meħtieġa tikkonsenja dokument validu tal-identità kemm-il darba ma tkunx ġiet mogħtija riċevuta għalih mill-persuna li tkun teħtieġ il-konsenja tiegħu.
 
 (2) Għall-finijiet ta’ dan l-artikolu "awtorità leġittima" tfisser kull persuna jew awtorità awtorizzata bil-liġi li teħtieġ il-produzzjoni jew il-konsenja ta’ karta tal-identità.
@@ -288,10 +260,6 @@ Dokument tal-identità li ma jkun ġiex imbagħbas għandu, sakemm jispiċċa je
 (2) Meta ssir applikazzjoni għall-ħruġ ta’ dokument tal-identità minflok dokument mitluf, misruq, distrutt jew sfigurat, u mal-ħlas ta’ dritt kif preskritt, l-uffiċjal awtorizzat, jekk sodisfatt li d-dokument ikun ġie mitluf, distrutt jew sfigurat u, fil-każ ta’ dokument sfigurat, ikun ġie konsenjata kif meħtieġ b’dan l-Att, għandu joħroġ dokument ġdid.
 
 (3) Ħlief kif provdut fis-subartikolu (2), jew kemm-il darba l-uffiċjal awtorizzat ma jkunx tal-fehma illi għandu, suġġett għal xi kondizzjonijiet li jidhirlu xieraq jaġixxi mod ieħor fiċ-ċirkostanzi, l-ebda dokument tal-identità ma għandu jiġi maħruġ dwar l-istess persuna kemm-il darba l-karti kollha maħruġa qabel dwar dik il-persuna, magħdud dokument li l-validità tiegħu tkun spiċċat, ma jkunux ġew konsenjati lil dak l-uffiċjal.
-
-*8*
-
-[KAP.258 DOKUMENTI OĦRA TAL-IDENTITÀ
 
 (4) Għall-finijiet ta’ dan l-artikolu dokument tal-identità jitqies bħala mitluf jekk l-uffiċjal awtorizzat ikun sodisfatt li ma tkunx jista’ jinstab.
 
@@ -328,10 +296,6 @@ Il-Prim Ministru jista’ jagħmel regolamenti biex jippreskrivi kull ħaġa li 
 (ċ) tiffalsifika dokument tal-identità jew xi dokument ieħor ikun li jkun meħtieġ minn, jew maħsub għal, xi wieħed mill-għanijiet ta’ dan l-Att; jew
 
 (d) tgħin jew tħajjar l-egħmil ta’ xi reat kontra l-paragrafi ta’ qabel ta’ dan is-subartikolu,
-
-*9*
-
-DOKUMENTI OĦRA TAL-IDENTITÀ [KAP.258
 
 teħel, meta tinsab ħatja, priġunerija għal żmien ta’ mhux inqas minn sentejn u mhux iżjed minn ħames snin.
 

@@ -53,67 +53,47 @@ F’dan l-Att kemm-il darba r-rabta tal-kliem ma teħtieġx mod ieħor -
 
 Għandha tintalab u tinġabar mid-Dwana f’isem il-Gvern ta’ Malta taxxa fuq żjut elenkati fl-Iskeda li tinsab ma’ dan l-Att, li jiġu fornuti, bla ħlas ta’ kull dazju ta’ dwana jew dazju ieħor, għall bunkering tal-bastimenti bir-rati murija fl-Iskeda li tinsab ma’ dan l-Att.
 
-Żmien u mod kif  4. (1) Il-ħlas tat-taxxa jkun dovut minnufih malli ż-żejt jiġi  
-titħallas it-taxxa.  
-rilaxxat mill-istallazzjoni ta’ depożt, terminal marittimu jew  
-faċilità marittima fuq il-kwantità ta’ żejt meqjusa jew kalkolata  
-mid-Dwana bħala dik meħlusa.  
-(2) Minkejja d-disposizzjonijiet tas-subartikolu (1), id-Dwana  
-tista’ tagħmel kull arranġament, kif suġġett għal dawk il-garanziji u  
-kondizzjonijiet li tista’ timponi, għall-ħlas tat-taxxa li tinġabar bis-  
-saħħa ta’ dan l-Att meta dan il-ħlas ma jsirx mal-ħelsien taż-żjut kif  
-hemm imsemmi fis-subartikolu (1), u f’dawk l-intervalli ta’ żmien  
-li jista’ jsir ftehim dwarhom.  
-Responsabbiltà  5.  Imħassar bl-Att XXV. 2000.36.  
-għall-bunkering ta’  
-żjut.  
-Għoti ta’ liċenzi  6. Ħadd ma għandu jqassam, ibiegħ, jesporta jew jiddisponi  
-mill-awtorità  
-b’kull mod ieħor li jkun żjut mogħtija bi provvista għall-bunkering  
-regolatorja.  
-Sostitwit:  jekk ma jkollux liċenza maħruġa minn, jew xi ftehim jew  
-XXV. 2000.36.  arranġament magħmul mar-Regolatur għas-Servizzi tal-Enerġija u  
-Emendat:  
-l-Ilma skont l-Att dwar ir-Regolatur għas-Servizzi tal-Enerġija u l-  
-XXV. 2015.41.  
-Kap. 545.  Ilma.  
-Setgħa għall-  7. (1) Il-Ministru jista’ b’avviż fil-Gazzetta jemenda jew  
-egħmil ta’  
-jissostitwixxi r-rati ta’ taxxa li jidhru fl-Iskeda li tinsab ma’ dan l-  
-regolamenti.  
-Emendat:  Att:  
-XXV. 2000.36;  
-A.L. 425 tal-2007;  Iżda l-Ministru ma jistax b’dak l-avviż iżid ir-rata ta’ taxxa  
-V. 2012.49.  li għandha tinġabar skont dan l-Att għal iktar minn għaxar euro  
-(€10.00) għal kull tunnellata metrika jew parti minnha.  
-(2) Il-Ministru responsabbli għall-portijiet jista’, f’konsultaz-  
-zjoni mal-Awtorità, u bi ftehim mal-Ministru jagħmel regolamenti  
-għar-rigward ta’ kull ħaġa li tista’ jew li tkun meħtieġa li tiġi  
-preskritta b’dan l-Att u għar-rigward ta’ kull ħaġ‘oħra li tista’  
-tidher li tkun meħtieġa jew spedjenti għall-aħjar twettiq tal-  
-provvedimenti ta’ dan l-Att.  
-Setgħat tal-  8. (1) Ir-rilaxx ta’ żejt għall-bunkering għandu jingħata taħt  
-Awtorità, tal-  
-is-superviżjoni tad-Dwana. L-Awtorità jkollha jedd tissorvelja kull  
-Pulizija u tad-  
-Dwana.  operazzjoni ta’ bunkering u tista’ titlob ħlasijiet għal kull  
-superviżjoni bħal dik hekk kif jista’ jiġi preskritt b’regolamenti.  
-(2) Kull uffiċjal tal-Awtorità, tal-Pulizija jew tad-Dwana  
-għandu jedd f’kull ħin li jispezzjona kull imkien fejn jinħażen jew  
-jinżamm xi żejt sabiex jiżgura li d-disposizzjonijiet ta’ dan l-Att  
-ikunu qegħdin jiġu osservati u li ma jkunx hemm evażjoni tat-  
-taxxa, drittijiet u ħlasijiet imposti b’dan l-Att.  
-Reati u pieni.  9.  (1)  Kull min -  
-Emendat:  
-A.L. 425 tal-2007.  (a) huwa b’xi mod involut f’xi evażjoni bi frodi jew  
-tentattiv ta’ evażjoni ta’ taxxa imposta b’dan l-Att; jew  
-(b) jgħin, iħajjar jew jassisti fit-twettiq tar-reati msemmija  
-fil-paragrafu ta’ qabel; jew  
-(ċ) xjentement jostakola, iwaqqaf jew idewwem lil xi  
-uffiċjal tal-Awtorità, tad-Dwana jew tal-Pulizija fl-  
-eżekuzzjoni tad-dmirijiet u setgħat tiegħu taħt dan l-
+## 4. Żmien u mod kif titħallas it-taxxa.
 
-Att; jew
+(1) Il-ħlas tat-taxxa jkun dovut minnufih malli ż-żejt jiġi rilaxxat mill-istallazzjoni ta’ depożt, terminal marittimu jew faċilità marittima fuq il-kwantità ta’ żejt meqjusa jew kalkolata mid-Dwana bħala dik meħlusa.
+
+(2) Minkejja d-disposizzjonijiet tas-subartikolu (1), id-Dwana tista’ tagħmel kull arranġament, kif suġġett għal dawk il-garanziji u kondizzjonijiet li tista’ timponi, għall-ħlas tat-taxxa li tinġabar bis-saħħa ta’ dan l-Att meta dan il-ħlas ma jsirx mal-ħelsien taż-żjut kif hemm imsemmi fis-subartikolu (1), u f’dawk l-intervalli ta’ żmien li jista’ jsir ftehim dwarhom.
+
+## 5. Responsabbiltà għall-bunkering ta’ żjut.
+
+Imħassar bl-Att XXV. 2000.36.
+
+## 6. Għoti ta’ liċenzi mill-awtorità regolatorja.
+
+*Sostitwit: XXV. 2000.36. Emendat: XXV. 2015.41. Kap. 545.*
+
+Ħadd ma għandu jqassam, ibiegħ, jesporta jew jiddisponi b’kull mod ieħor li jkun żjut mogħtija bi provvista għall-bunkering jekk ma jkollux liċenza maħruġa minn, jew xi ftehim jew arranġament magħmul mar-Regolatur għas-Servizzi tal-Enerġija u l-Ilma skont l-Att dwar ir-Regolatur għas-Servizzi tal-Enerġija u l- Ilma.
+
+## 7. Setgħa għall-egħmil ta’ regolamenti.
+
+*Emendat: XXV. 2000.36; A.L. 425 tal-2007; V. 2012.49.*
+
+(1) Il-Ministru jista’ b’avviż fil-Gazzetta jemenda jew jissostitwixxi r-rati ta’ taxxa li jidhru fl-Iskeda li tinsab ma’ dan l- Att:
+
+Iżda l-Ministru ma jistax b’dak l-avviż iżid ir-rata ta’ taxxa li għandha tinġabar skont dan l-Att għal iktar minn għaxar euro (€10.00) għal kull tunnellata metrika jew parti minnha.
+
+(2) Il-Ministru responsabbli għall-portijiet jista’, f’konsultaz-zjoni mal-Awtorità, u bi ftehim mal-Ministru jagħmel regolamenti għar-rigward ta’ kull ħaġa li tista’ jew li tkun meħtieġa li tiġi preskritta b’dan l-Att u għar-rigward ta’ kull ħaġ‘oħra li tista’ tidher li tkun meħtieġa jew spedjenti għall-aħjar twettiq tal-provvedimenti ta’ dan l-Att.
+
+## 8. Setgħat tal- Awtorità, tal- Pulizija u tad- Dwana.
+
+(1) Ir-rilaxx ta’ żejt għall-bunkering għandu jingħata taħt is-superviżjoni tad-Dwana. L-Awtorità jkollha jedd tissorvelja kull operazzjoni ta’ bunkering u tista’ titlob ħlasijiet għal kull superviżjoni bħal dik hekk kif jista’ jiġi preskritt b’regolamenti.
+
+(2) Kull uffiċjal tal-Awtorità, tal-Pulizija jew tad-Dwana għandu jedd f’kull ħin li jispezzjona kull imkien fejn jinħażen jew jinżamm xi żejt sabiex jiżgura li d-disposizzjonijiet ta’ dan l-Att ikunu qegħdin jiġu osservati u li ma jkunx hemm evażjoni tat-taxxa, drittijiet u ħlasijiet imposti b’dan l-Att.
+
+## 9. Reati u pieni.
+
+*Emendat: A.L. 425 tal-2007.*
+
+(1) Kull min -
+
+(a) huwa b’xi mod involut f’xi evażjoni bi frodi jew tentattiv ta’ evażjoni ta’ taxxa imposta b’dan l-Att; jew (b) jgħin, iħajjar jew jassisti fit-twettiq tar-reati msemmija fil-paragrafu ta’ qabel; jew
+
+(ċ) xjentement jostakola, iwaqqaf jew idewwem lil xi uffiċjal tal-Awtorità, tad-Dwana jew tal-Pulizija fl-eżekuzzjoni tad-dmirijiet u setgħat tiegħu taħt dan l- Att; jew
 
 (d) jikser xi jew kull disposizzjoni oħra ta’ dan l-Att,
 

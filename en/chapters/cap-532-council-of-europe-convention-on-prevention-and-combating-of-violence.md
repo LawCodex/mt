@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Council of Europe Convention on Prevention and Combating of Violence against Women and Domestic Violence (Ratification) Act (Cap. 532)
 
-COUNCIL OF EUROPE CONVENTION ON PREVENTION AND
-
-COMBATING OF VIOLENCE AGAINST WOMEN AND
-
-*1*
-
-DOMESTIC VIOLENCE (RATIFICATION) [CAP. 532.
-
 **CHAPTER 532**
 
 **COUNCIL OF EUROPE CONVENTION ON**

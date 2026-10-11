@@ -14,12 +14,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Protezzjoni kontra Konsegwenzi Negattivi għal Persuni li fiequ minn Mard Onkoloġiku (Dritt li Tintesa) (Cap. 657)
 
-GĦAL PERSUNI LI FIEQU MINN MARD ONKOLOĠIKU
-
-*1*
-
-(DRITT LI TINTESA) [KAP. 657.
-
 **KAPITOLU 657**
 
 **ATT DWAR IL-PROTEZZJONI KONTRA**
@@ -64,10 +58,6 @@ F’dan l-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 \*Għadu mħux fis-seħħ.
 
-*2*
-
-GĦAL PERSUNI LI FIEQU MINN MARD ONKOLOĠIKU [KAP. 657. (DRITT LI TINTESA)
-
 "parti l-oħra" tfisser il-parti li toffri ftehim dwar servizzi finanzjarji, kuntratt ta’ servizz jew kuntratt ta’ impieg;
 
 "perjodu stabbilit" tfisser il-perjodu ta’ żmien li jkun iddekorra mid-data tat-tmiem tat-trattament mingħajr rikaduta;
@@ -86,12 +76,6 @@ Iżda fil-każ ta’ dijanjożi qabel l-età ta’ ħamsa u għoxrin (25) sena, 
 
 Iżda wkoll il-Ministru, bi qbil mal-Ministru responsabbli għall-finanzi u mal-Ministru responsabbli għax-xogħol, jista’ b’regolamenti jippreskrivi perjodi stabbiliti iqsar taħt tali kundizzjonijiet li jistgħu jiġu speċifikati u f’dak il-każ il-perjodi stabbiliti iqsar u l-kundizzjonijiet applikabbli għalihom jistgħu jiġu inklużi permezz ta’ Skeda.
 
-GĦAL PERSUNI LI FIEQU MINN MARD ONKOLOĠIKU
-
-*3*
-
-(DRITT LI TINTESA) [KAP. 657.
-
 (2) L-istorja medika msemmija f’dan l-artikolu ma tistax tintalab jew tinkiseb lanqas minn sorsi oħra li mhumiex il-persuna li fieqet jew il-parti l-oħra, u f’każ li tkun magħrufa jew disponibbli għall-parti l-oħra, tali storja medika ma għandhiex tiġi kkunsidrata jew użata sabiex jiġi rrifjutat aċċess għal kwalunkwe kuntratt ta’ servizz, kuntratt ta’ impieg, jew ftehim dwar servizzi finanzjarji, jew sabiex jiġu imposti kundizzjonijiet aktar onerużi jew sabiex jiġi bi kwalunkwe mod affettwat il-kontenut tal-kuntratt ta’ servizz, kuntratt ta’ impieg, jew ftehim dwar servizzi finanzjarji, jekk il-perjodu stabbilit f’dan l-Att ikun iddekorra.
 
 (3) Fejn fil-waqt tad-dħul tal-ftehim dwar servizzi finanzjarji wara l-bidu fis-seħħ ta’ dan l-Att il-perjodu stabbilit ikun għadu ma għaddiex, il-ftehim dwar servizzi finanzjarji għandu jispeċifika li wara li jiddekorri l-perjodu stabbilit rilevanti, l-istorja medika tal-persuna li fieqet ma tistax tibqa’ titqies, u kwalunkwe klawsola li taffettwa l-kontenut tal-ftehim dwar servizzi finanzjarji bbażata fuq l-istorja medika ma għandux ikollha effett mid-data tal-iskadenza tal-perjodu stabbilit:
@@ -104,11 +88,7 @@ Iżda l-istorja medika tal-persuna li fieqet miżmuma mill-parti l-oħra għandh
 
 (5) Fejn l-istorja medika ta’ persuna li fieqet tkun ġiet rikjesta meta l-persuna daħlet f’kuntratt ta’ servizz jew kuntratt ta’ impieg qabel id-dħul fis-seħħ ta’ dan l-Att u l-istorja medika għadha tinżamm mill-parti l-oħra, din għandha, wara t-tmiem tal-perjodu stabbilit, tiġi anonimizzata u l-persuna li fieqet għandha tiġi avżata bil-miktub li tkun saret tali anonimizzazzjoni.
 
-(6) Fil-każijiet kollha msemmija fis-subartikoli (3) sa (5) għandha tkun ir-responsabiltà tal-persuna li fieqet li tinforma lill-parti l-oħra li l-perjodu stabbilit ikun għadda, u l-effetti tas-subartikoli msemmija għandhom joperaw biss mid-data meta din l-informazzjoni GĦAL PERSUNI LI FIEQU MINN MARD ONKOLOĠIKU [KAP. 657. (DRITT LI TINTESA)
-
-tasal għand il-parti l-oħra:
-
-*4*
+(6) Fil-każijiet kollha msemmija fis-subartikoli (3) sa (5) għandha tkun ir-responsabiltà tal-persuna li fieqet li tinforma lill-parti l-oħra li l-perjodu stabbilit ikun għadda, u l-effetti tas-subartikoli msemmija għandhom joperaw biss mid-data meta din l-informazzjoni tasal għand il-parti l-oħra:
 
 Iżda f’każ ta’ tilwima dwar id-data tat-tmiem tat-trattament, kwalunkwe parti tista’ tirreferi l-kwistjoni quddiem il-Bord skont l-artikolu 7.
 
@@ -133,12 +113,6 @@ Iżda wkoll il-Ministru jista’ jaħtar ukoll Presidenti u membri sostituti jek
 (4) Fl-eżerċizzju tal-funzjonijiet tagħhom il-President u l-membri tal-Bord ma għandhomx ikunu soġġetti għad-direzzjoni jew għall-kontroll ta’ kwalunkwe persuna jew awtorità oħra.
 
 (5) Il-Bord jista’ jaġixxi minkejja kwalunkwe post battal fil-kompożizzjoni tiegħu.
-
-GĦAL PERSUNI LI FIEQU MINN MARD ONKOLOĠIKU
-
-*5*
-
-(DRITT LI TINTESA) [KAP. 657.
 
 (6) Il-Ministru għandu jaħtar persuna sabiex taġixxi bħala Segretarju tal-Bord.
 
@@ -166,10 +140,6 @@ GĦAL PERSUNI LI FIEQU MINN MARD ONKOLOĠIKU
 
 Iżda r-rapport jista’ jinkludi informazzjoni anonimizzata għal skopijiet statistiċi.
 
-*6*
-
-GĦAL PERSUNI LI FIEQU MINN MARD ONKOLOĠIKU [KAP. 657. (DRITT LI TINTESA)
-
 ## 7. Determinazzjoni tad-dati tad-dijanjożi u t-tmiem tat-trattament.
 
 (1) F’każijiet li għalihom japplikaw id-dispożizzjonijiet tal-artikoli 3(3), 3(4), u 3(5), jekk tinqala’ tilwima dwar id-data tad-dijanjożi u, jew id-data tat-tmiem tat-trattament, kwalunkwe parti tista’ tressaq applikazzjoni quddiem il-Bord għad-determinazzjoni tat-tilwim.
@@ -193,12 +163,6 @@ Iżda jekk il-Bord jagħmel talba għal data, il-limitu ta’ żmien hawn fuq im
 ## 8. Setgħa tal-Ministru li jagħmel regolamenti.
 
 Il-Ministru jista’ jagħmel regolamenti kif awtorizzat taħt dan l-Att, inkluż Skedi annessi ma’ dan l-Att fil-parametri tal-artikolu 3, u b’mod ġenerali għall-aħjar twettiq tad-dispożizzjonijiet ta’ dan l- Att:
-
-GĦAL PERSUNI LI FIEQU MINN MARD ONKOLOĠIKU
-
-*7*
-
-(DRITT LI TINTESA) [KAP. 657.
 
 Iżda kwalunkwe Skedi li l-Ministru jista’ jagħmel għandhom jiġu riveduti mill-inqas darba kull sena.
 

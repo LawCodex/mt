@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinanza dwar it-Tħollija għall-Fergħa tal-Arti u Snajja tal-Conservatorio Vincenzo Bugeja (Applikkazzjoni Provviżorja tad-Dħul) (Cap. 173)
 
-TĦOLLIJA GĦALL-FERGĦA TAL-ARTI U SNAJJA’
-
-TAL-CONSERVATORIO VINCENZO BUGEJA
-
-*1*
-
-(APPLIKAZZJONI PROVVIŻORJA TAD-DĦUL) [KAP. 173.
-
 **KAPITOLU 173**
 
 **ORDINANZA DWAR IT-TĦOLLIJA GĦALL-**

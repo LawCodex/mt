@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Test tal-Proporzjonalità Qabel l-Adozzjoni ta’ Regolamentazzjoni Ġdida tal-Professjonijiet (Cap. 612)
 
-*1*
-
-REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET [KAP. 612.
-
 **KAPITOLU 612**
 
 ATT DWAR TEST TAL-PROPORZJONALITÀ QABEL L-ADOZZJONI TA’ REGOLAMENTAZZJONI ĠDIDA
@@ -51,10 +47,6 @@ ATT XXV tal-2020.
 
 *  Kap. 451.  L.S. 451. 03.*
 
-*2*
-
-[KAP. 612. REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET
-
 ## 3. Valutazzjoni ex ante ta’ miżuri ġodda u monitoraġġ.
 
 (1) L-ebda dispożizzjonijiet leġiżlattivi, regolatorji jew amministrattivi ġodda li jirrestrinġu l-aċċess għal, jew l-eżerċitar ta’, professjoni regolata ma jistgħu jiġu introdotti, u l-ebda dispożizzjonijiet leġiżlattivi, regolatorji jew amministrattivi eżistenti li jirrestrinġu l-aċċess għal, jew l-eżerċitar ta’, professjonijiet regolati ma jistgħu jiġu emendati, qabel il-Ministeru responsabbli għall-imsemmija professjoni regolata jkun wettaq valutazzjoni tal-proporzjonalità b’konformità mar-regoli stabbiliti f’dan l-Att.
@@ -72,10 +64,6 @@ ATT XXV tal-2020.
 ## 4. Non-diskriminaz-zjoni.
 
 Meta jkunu ser jiġu introdotti dispożizzjonijiet leġiżlattivi, regolatorji jew amministrattivi ġodda, li jirrestrinġu l-aċċess għal, jew l-eżerċitar ta’, professjoni regolata, jew ikunu ser jiġu emendati dawk eżistenti, il-Ministeru responsabbli għall-imsemmija professjoni regolata għandu jiżgura li dawk id-dispożizzjonijiet ma jkunux diskriminatorji, kemm direttament kif ukoll indirettament, abbażi tan-nazzjonalità jew tar-residenza.
-
-*3*
-
-REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET [KAP. 612.
 
 ## 5. Ġustifikazzjoni minħabba objettivi ta’ interess pubbliku.
 
@@ -95,12 +83,6 @@ REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET [KAP. 612.
 
 (ii) jekk ir-regoli eżistenti ta’ natura speċifika jew iżjed ġenerali, bħal dawk li jinsabu fil-liġi dwar is-sikurezza tal-prodotti jew fil-liġi dwar il-protezzjoni tal-konsumatur, humiex biżżejjed biex jintlaħaq l-objettiv segwit;
 
-*[KAP. 612.*
-
-*4*
-
-REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET
-
 (iii) l-idoneità tad-dispożizzjoni fir-rigward tal-adegwatezza tagħha sabiex jintlaħaq l-objettiv segwit u jekk din verament tirriflettix dan l-objettiv b’mod koerenti u sistematiku u għaldaqstant tindirizzax ir-riskji identifikati b’mod simili bħal f’attivitajiet komparabbli;
 
 (iv) l-impatt fuq il-moviment liberu tal-persuni u tas-servizzi fl-Unjoni Ewropea, fuq l-għażla tal-konsumatur u fuq il-kwalità tas-servizz ipprovdut;
@@ -116,10 +98,6 @@ REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET
 (ii) il-konnessjoni bejn il-kumplessità tal-kompiti kkonċernati u l-ħtieġa li dawk li jwettquhom jkollhom kwalifiki professjonali speċifiċi, b’mod partikolari fir-rigward tal-livell, in-natura u t-tul tat-taħriġ jew l-esperjenza meħtieġa;
 
 (iii) il-possibbiltà li tinkiseb il-kwalifika professjonali permezz ta’ possibbiltajiet alternattivi;
-
-*5*
-
-REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET [KAP. 612.
 
 (iv) jekk, u għaliex, l-attivitajiet riżervati għal ċerti professjonijiet jistgħu jew ma jistgħux ikunu maqsuma ma’ professjonijiet oħra;
 
@@ -143,11 +121,7 @@ REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET [KAP. 612.
 
 (f) rekwiżiti ta’ forma legali speċifika jew rekwiżiti relatati mal-parteċipazzjoni azzjonarja jew il-ġestjoni ta’ kumpanija, sa fejn dawn ir-rekwiżiti huma marbuta direttament mal-eżerċitar tal-professjoni regolata;
 
-(g) rekwiżiti li jirrestrinġu l-eżerċitar ta’ professjoni regolata b’mod konġunt jew bi sħab, kif ukoll regoli ta’ [KAP. 612. REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET
-
-inkompatibbiltà;
-
-*6*
+(g) rekwiżiti li jirrestrinġu l-eżerċitar ta’ professjoni regolata b’mod konġunt jew bi sħab, kif ukoll regoli ta’ inkompatibbiltà;
 
 (h) rekwiżiti li jikkonċernaw il-koperatura tal-assigurazzjoni jew mezzi oħra ta’ protezzjoni personali jew kollettiva li jirrigwardaw ir-responsabbiltà professjonali;
 
@@ -174,10 +148,6 @@ inkompatibbiltà;
 Iżda dan is-subartikolu ma għandux japplika għal miżuri mfassla biex jiżguraw il-konformità mat-termini u l-kundizzjonijiet tal-impjieg applikabbli li Malta tapplika skont id-dritt tal-Unjoni Ewropea.
 
 (5) Meta d-dispożizzjonijiet imsemmija f’dan l-artikolu jikkonċernaw ir-regolamentazzjoni tal-professjonijiet fis-settur tal-kura tas-saħħa u jkollhom implikazzjonijiet fuq is-sikurezza tal-pazjenti, il-Ministeru responsabbli għall-professjoni regolata relattiva għandu jqis l-objettiv li jiġi żgurat livell għoli ta’ protezzjoni tas-saħħa tal-bniedem.
-
-*7*
-
-REGOLAMENTAZZJONI ĠDIDA TAL-PROFESSJONIJIET [KAP. 612.
 
 ## 7. Informazzjoni u involviment tal-partijiet ikkonċernati.
 

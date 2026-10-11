@@ -67,14 +67,11 @@ In this Act unless the context otherwise requires -
 
 "duty" and "excise duty" mean the duty imposed by this Act;
 
-"duty suspension arrangement" means a tax arrangement applied to the production, processing, holding, storage or movement of excisable goods not covered by a customs suspensive procedure or
+"duty suspension arrangement" means a tax arrangement applied to the production, processing, holding, storage or movement of excisable goods not covered by a customs suspensive procedure or arrangement, excise duty being suspended;
 
-arrangement, excise duty being suspended;  
-"endangered duty" means the difference between all the duty due  
-on the goods and the duty which has been paid on the same goods;  
-"excise duty due" means all the excise duty due on the goods and
+"endangered duty" means the difference between all the duty due on the goods and the duty which has been paid on the same goods;
 
-includes also the excise duty which has already been paid on those goods;
+"excise duty due" means all the excise duty due on the goods and includes also the excise duty which has already been paid on those goods;
 
 "excisable goods" means any goods of a class or description as listed in the First Schedule, excluding tobacco which is not listed in the Third Schedule;
 

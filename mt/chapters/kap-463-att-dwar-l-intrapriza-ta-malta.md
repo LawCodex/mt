@@ -259,35 +259,15 @@ Iżda sa’ fejn huma milquta l-proġetti eżistenti, ebda ħaġa f’kull regol
 
 (a) toħroġ u tippubblika linji gwida li jistabbilixxu fost ħwejjeġ oħra:
 
-(i) il-pattijiet u l-kondizzjonijiet ta’ kull
+(i) il-pattijiet u l-kondizzjonijiet ta’ kull arranġament, inċentiv jew skema inkluż l-iffissar ta’ regoli għall-eliġibilità ta’ impriżi għal xi benefiċċju u inċentiv taħt xi waħda minn dawk l-iskemi u l-aspetti kollha relatati u anċillari għalihom;
 
-arranġament, inċentiv jew skema inkluż l-  
-iffissar ta’ regoli għall-eliġibilità ta’ impriżi  
-għal xi benefiċċju u inċentiv taħt xi waħda minn  
-dawk l-iskemi u l-aspetti kollha relatati u  
-anċillari għalihom;  
-(ii) l-applikabilità ta’ dawk l-iskemi għal proġetti  
-jew impriżi partikolari; u  
-(iii) kull ħtieġa u kondizzjoni addizzjonali fir-  
-rigward tal-attivitajiet ta’ impriżi, l-imġiba tan-  
-negozju tagħhom, ir-responsabilitajiet tagħhom  
-lejn il-Korporazzjoni, il-ħtiġiet ta’ rapporti lill-  
-Korporazzjoni, riżorsi finanzjarji u ħtiġiet  
-relatati, u kull aspett ieħor skont kif il-  
-Korporazzjoni tista’ tqis xieraq;  
-(b) konformement mad-delega mill-Ministru permezz ta’  
-regolament relevanti, tagħmel traspożizzjoni ta’ kull  
-dispożizzjoni fil-liġi relevanti f’linji gwida b’dawk il-  
-modifiki skont kif il-Ministru jew il-Korporazzjoni,  
-skont il-każ, jistgħu jqisu xierqa jew meħtieġa:  
-Iżda sa’ fejn huma milquta l-proġetti eżistenti, ebda  
-ħaġa f’kull linja gwida magħmula skont din is-setgħa  
-ma għandha tolqot xi jedd, benefiċċju jew inċentiv  
-attwalment fis-seħħ favur xi impriża jew benefiċjarju u  
-lanqas ma għandha timponi xi kondizzjonijiet jew  
-obbligi aktar iebsa minn dawk attwalment fis-seħħ u
+(ii) l-applikabilità ta’ dawk l-iskemi għal proġetti jew impriżi partikolari; u
 
-f’każ ta’ konflitt bejn il-linji gwida u l-liġi relevanti, għandhom jirbħu d-dispożizzjonijiet tal-liġi relevanti;
+(iii) kull ħtieġa u kondizzjoni addizzjonali fir-rigward tal-attivitajiet ta’ impriżi, l-imġiba tan-negozju tagħhom, ir-responsabilitajiet tagħhom lejn il-Korporazzjoni, il-ħtiġiet ta’ rapporti lill- Korporazzjoni, riżorsi finanzjarji u ħtiġiet relatati, u kull aspett ieħor skont kif il- Korporazzjoni tista’ tqis xieraq;
+
+(b) konformement mad-delega mill-Ministru permezz ta’ regolament relevanti, tagħmel traspożizzjoni ta’ kull dispożizzjoni fil-liġi relevanti f’linji gwida b’dawk il-modifiki skont kif il-Ministru jew il-Korporazzjoni, skont il-każ, jistgħu jqisu xierqa jew meħtieġa:
+
+Iżda sa’ fejn huma milquta l-proġetti eżistenti, ebda ħaġa f’kull linja gwida magħmula skont din is-setgħa ma għandha tolqot xi jedd, benefiċċju jew inċentiv attwalment fis-seħħ favur xi impriża jew benefiċjarju u lanqas ma għandha timponi xi kondizzjonijiet jew obbligi aktar iebsa minn dawk attwalment fis-seħħ u f’każ ta’ konflitt bejn il-linji gwida u l-liġi relevanti, għandhom jirbħu d-dispożizzjonijiet tal-liġi relevanti;
 
 (ċ) konformement mad-delega mill-Ministru permezz ta’ regolament relevanti, tirrifletti direttivi tal-Unjoni Ewropea li jistgħu jkunu relevanti jew meħtieġa fir-rigward tal-funzjonijiet u oqsma ta’ responsabbiltà tal- Korporazzjoni u komformement mal-artikolu 4(2) tal- Att dwar l-Unjoni Ewropea, tinnomina l-Ministru bħala l-Ministru relevanti u l-Korporazzjoni bħala l-awtorità relevanti għall-finijiet li jistgħu jiġu preskritti.
 

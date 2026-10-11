@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Gender Identity, Gender Expression and Sex Characteristics Act (Cap. 540)
 
-*1*
-
-AND SEX CHARACTERISTICS [CAP. 540.
-
 **CHAPTER 540**
 
 GENDER IDENTITY, GENDER EXPRESSION AND
@@ -107,11 +103,7 @@ Provided that the rights and interests of children stipulated in the Convention 
 
 (1) It shall be the right of every Maltese citizen to request the Director to change the recorded gender to the female gender, to the male gender, or to a non-binary gender and, or name, if the person so chooses to change the name, in order to reflect that person’s self-determined gender identity:
 
-Provided that without prejudice to the dispositions of any other law, a person may only request to change the name by means of the procedure in accordance with this Act, if together with that AND SEX CHARACTERISTICS [CAP. 540.
-
-request that person is also requesting to change the recorded gender:
-
-*3*
+Provided that without prejudice to the dispositions of any other law, a person may only request to change the name by means of the procedure in accordance with this Act, if together with that request that person is also requesting to change the recorded gender:
 
 Provided further that in the case of a non-binary gender, the gender marker shall in any act or document be marked with the letter "X".
 
@@ -157,11 +149,11 @@ Provided that before the end of the fifteen days from the award of the amending 
 
 (2) When the adoption decree is amended every authenticated copy of the relative registration in the Register of Adopted Persons that can be issued by virtue of article 269(5) of the Civil Code shall be a copy of the registration so amended, without the reproduction of any note or marker of the amendment or something which has been deleted by virtue of such power; and every authentic copy of registration in any registry that is a registration the marker of which has been deleted shall be considered as an exact copy only if the marker and also the deletion are not shown therein.
 
-*5*
+## 5. Functions of the Notary.
 
-AND SEX CHARACTERISTICS [CAP. 540. 5. (1) The drawing up of the declaratory public deed shall contain the following elements:
+*Amended by: XXV.2024.7.*
 
-*Functions of the Notary. Amended by: XXV.2024.7.*
+(1) The drawing up of the declaratory public deed shall contain the following elements:
 
 (a) a copy of the act of birth of the applicant;
 
@@ -237,10 +229,6 @@ Provided further that any person who had made a request in accordance with artic
 
 (2) The public deed of recognition shall contain the following elements:
 
-*7*
-
-AND SEX CHARACTERISTICS [CAP. 540.
-
 (a) a legal copy of the final decision which is to be recognised, and when it is not in the Maltese or English language it shall be translated to one (1) of these languages;
 
 (b) a legal copy of a valid identification document issued by the country where the decision was determined;
@@ -314,10 +302,6 @@ Provided that the copies of the public deed referred to in article 5 published i
 *Amended by: XXV.2024.13.*
 
 (1) Every norm, regulation or procedure shall respect the right to gender identity. No norm or regulation or procedure may limit, restrict, or annul the exercise of the right to gender identity, and all norms must always be interpreted and enforced in a manner that favours access to this right.
-
-*9*
-
-AND SEX CHARACTERISTICS [CAP. 540.
 
 (2) The public service has the duty to ensure that unlawful sexual orientation, gender identity, gender expression and sex characteristics discrimination and harassment are eliminated, whilst its services must promote equality of opportunity to all, irrespective of sexual orientation, gender identity, gender expression and sex characteristics.
 

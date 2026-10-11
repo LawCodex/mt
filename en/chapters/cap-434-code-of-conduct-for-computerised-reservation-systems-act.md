@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Code of Conduct for Computerised Reservation Systems Act (Cap. 434)
 
-*1*
-
-COMPUTERISED RESERVATION SYSTEMS [CAP. 434.
-
 **CHAPTER 434**
 
 **CODE OF CONDUCT FOR COMPUTERISED**
@@ -101,11 +97,7 @@ services;
 
 "scheduled air service" means a series of flights all possessing the following characteristics:
 
-(a) performed by aircraft for the transport of passengers or passengers and cargo and, or, mail for remuneration, in COMPUTERISED RESERVATION SYSTEMS [CAP. 434.
-
-such a manner that seats are available on each flight for individual purchase by consumers, either directly from the air carrier or from its authorized agents;
-
-*3*
+(a) performed by aircraft for the transport of passengers or passengers and cargo and, or, mail for remuneration, in such a manner that seats are available on each flight for individual purchase by consumers, either directly from the air carrier or from its authorized agents;
 
 (b) operated so as to serve traffic between the same two or more points, either -
 
@@ -113,46 +105,27 @@ such a manner that seats are available on each flight for individual purchase by
 
 (ii) with flights so regular or frequent that they constitute a recognizably systematic series;
 
-"subscriber" means a person, other than a consumer, or an undertaking, other than a participating carrier, using a computerized reservation system under contract or other financial
+"subscriber" means a person, other than a consumer, or an undertaking, other than a participating carrier, using a computerized reservation system under contract or other financial arrangement with a system vendor. A financial arrangement shall be deemed to exist where a specific payment is made for the services of the system vendor or where an air transport product is purchased;
 
-arrangement with a system vendor. A financial arrangement shall  
-be deemed to exist where a specific payment is made for the  
-services of the system vendor or where an air transport product is  
-purchased;  
-"system vendor" means any entity and its affiliates which is  
-responsible for the operation or marketing of a computerized  
-reservation system;  
-"ticket" means a valid document giving entitlement to transport,  
-or an equivalent in paperless, including electronic, form issued or  
-authorised by the carrier or its authorised agent;  
-"unbundled air transport product" means the carriage by air of a  
-passenger between two airports, including any related ancillary  
-services and additional benefits offered for sale and, or, sold as an  
-integral part of that product;  
-"unbundled rail transport product" means the carriage of a  
-passenger between two stations by rail, including any related  
-ancillary services and additional benefits offered for sale or sold as  
-an integral part of that product.  
-\3. (1) A system vendor shall have the capacity, in its own  Conduct of system  
-vendors.  
-name as a separate entity from the parent carrier, to have rights and  
-obligations of all kinds, to enter into contracts, inter alia, with  
-parent carriers, participating carriers and subscribers, or to  
-accomplish other legal acts and to sue and be sued.  
-(2) A system vendor shall, subject to any technical constraints  
-outside the control of the system vendor, allow any air carrier to  
-participate, on an equal and non-discriminatory basis, in its  
-distribution facilities within the available capacity of the system  
-concerned.  
-(3)  (a) A system vendor shall not -  
-(i)  attach unreasonable conditions to any contract  
-with a participating carrier;  
-(ii) require the acceptance of supplementary  
-conditions which, by their nature or according to  
-commercial usage, have no connection with  
-participation in its computerized reservation  
-system and shall apply the same conditions for  
-the same level of service.
+"system vendor" means any entity and its affiliates which is responsible for the operation or marketing of a computerized reservation system;
+
+"ticket" means a valid document giving entitlement to transport, or an equivalent in paperless, including electronic, form issued or authorised by the carrier or its authorised agent;
+
+"unbundled air transport product" means the carriage by air of a passenger between two airports, including any related ancillary services and additional benefits offered for sale and, or, sold as an integral part of that product;
+
+"unbundled rail transport product" means the carriage of a passenger between two stations by rail, including any related ancillary services and additional benefits offered for sale or sold as an integral part of that product.
+
+## 3. Conduct of system vendors.
+
+(1) A system vendor shall have the capacity, in its own name as a separate entity from the parent carrier, to have rights and obligations of all kinds, to enter into contracts, inter alia, with parent carriers, participating carriers and subscribers, or to accomplish other legal acts and to sue and be sued.
+
+(2) A system vendor shall, subject to any technical constraints outside the control of the system vendor, allow any air carrier to participate, on an equal and non-discriminatory basis, in its distribution facilities within the available capacity of the system concerned.
+
+(3) (a) A system vendor shall not -
+
+(i) attach unreasonable conditions to any contract with a participating carrier;
+
+(ii) require the acceptance of supplementary conditions which, by their nature or according to commercial usage, have no connection with participation in its computerized reservation system and shall apply the same conditions for the same level of service.
 
 *4*
 
@@ -176,11 +149,7 @@ Provided further that a participating carrier may give a longer notice than that
 
 (c) The parent carrier shall be entitled to carry out controls to ensure that the provisions of article 7(1) are adhered to by the competing computerized reservation system.
 
-(2) The provisions of this article shall not apply in relation to a competing computerized reservation system which has been found, COMPUTERISED RESERVATION SYSTEMS [CAP. 434.
-
-by the Board, to have obtained information by any unauthorised means.
-
-*5*
+(2) The provisions of this article shall not apply in relation to a competing computerized reservation system which has been found, by the Board, to have obtained information by any unauthorised means.
 
 ## 5. Conduct of participating carriers.
 
@@ -232,11 +201,7 @@ by the Board, to have obtained information by any unauthorised means.
 
 (1) The following provisions shall govern the availability of information, statistical or otherwise, by a system vendor from its computerized reservation system:
 
-(a) information concerning identifiable individual bookings shall be provided on an equal basis and only to the air carrier or carriers participating in the service covered and to the subscribers involved in the booking. Information under the control of the system vendor concerning identifiable individual bookings COMPUTERISED RESERVATION SYSTEMS [CAP. 434.
-
-shall be archived off-line within seventy-two hours of the completion of the last element in the individual booking and destroyed within three years. Access to such data shall, without prejudice to any power of the police or other authority in connection with criminal investigations or national security, be allowed only for reasons relating to disputes concerning billing;
-
-*7*
+(a) information concerning identifiable individual bookings shall be provided on an equal basis and only to the air carrier or carriers participating in the service covered and to the subscribers involved in the booking. Information under the control of the system vendor concerning identifiable individual bookings shall be archived off-line within seventy-two hours of the completion of the last element in the individual booking and destroyed within three years. Access to such data shall, without prejudice to any power of the police or other authority in connection with criminal investigations or national security, be allowed only for reasons relating to disputes concerning billing;
 
 (b) any marketing, booking and sales data shall only be made available on the basis that -
 
@@ -294,11 +259,7 @@ Provided further that a subscriber may give a longer notice than that stipulated
 
 (b) the subscriber not to manipulate material supplied by computerized reservation systems in a manner which would lead to inaccurate, misleading or discriminatory presentation of information to consumers.
 
-(6) A system vendor may not impose an obligation on a subscriber to accept an offer of technical equipment or software, but may require that equipment and software used be compatible COMPUTERISED RESERVATION SYSTEMS [CAP. 434.
-
-with its own system.
-
-*9*
+(6) A system vendor may not impose an obligation on a subscriber to accept an offer of technical equipment or software, but may require that equipment and software used be compatible with its own system.
 
 ## 12. Subscribers’ obligations and consumers’ rights.
 
@@ -366,10 +327,6 @@ CAP. 434.] COMPUTERISED RESERVATION SYSTEMS
 
 (a) in its own office or offices and sales counters clearly identified as such; or
 
-*11*
-
-COMPUTERISED RESERVATION SYSTEMS [CAP. 434.
-
 (b) to provide information and, or distribution facilities accessible through a public telecommunications network, clearly and continuously identifying the information provider or providers as such.
 
 (2) Where booking is performed directly by an air carrier, the provisions of article 12(1)(d) and (f) shall apply.
@@ -425,10 +382,6 @@ Provided that the Prime Minister may renew any appointment from year to year and
 (6) The chairman of the Board shall have, for the purpose of collecting the evidence and establishing the facts relating to any matter before the Board, all such powers as are by the Code of Organization and Civil Procedure vested in the Civil Court, First Hall, for the like purpose in relation to any matter before it.
 
 (7) Subject to any regulations made under article 21, the Board shall regulate its own procedure.
-
-*13*
-
-COMPUTERISED RESERVATION SYSTEMS [CAP. 434.
 
 (8) The Prime Minister shall appoint a public officer to act as secretary to the Board.
 
@@ -498,13 +451,9 @@ A consumer shall at least be afforded the possibility of having, on request, a p
 
 ## 3.
 
-Where a system vendor chooses to display information for any city-pair in relation to the schedules or fares of non- COMPUTERISED RESERVATION SYSTEMS [CAP. 434.
+Where a system vendor chooses to display information for any city-pair in relation to the schedules or fares of non-participating carriers, but not necessarily all such carriers, such information shall be displayed in an accurate, non-misleading and non-discriminatory manner between carriers displayed.
 
 \*All references to "flights" in this Schedule are in accordance with article 16(6) of the Act.
-
-participating carriers, but not necessarily all such carriers, such information shall be displayed in an accurate, non-misleading and non-discriminatory manner between carriers displayed.
-
-*15*
 
 *\4.*
 
@@ -576,8 +525,4 @@ A subscriber shall, where practicable, request or process all reservations for a
 
 *\7.*
 
-A subscriber shall ensure that a ticket is issued in accordance with the reservation status of each segment and in accordance with the applicable time limit. A subscriber shall not issue a COMPUTERISED RESERVATION SYSTEMS [CAP. 434.
-
-ticket indicating a definite reservation and a particular flight unless confirmation of that reservation has been received.
-
-*17*
+A subscriber shall ensure that a ticket is issued in accordance with the reservation status of each segment and in accordance with the applicable time limit. A subscriber shall not issue a ticket indicating a definite reservation and a particular flight unless confirmation of that reservation has been received.

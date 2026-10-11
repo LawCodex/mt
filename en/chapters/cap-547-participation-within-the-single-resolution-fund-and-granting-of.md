@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Participation within the Single Resolution Fund and granting of financial support under the Single Resolution Mechanism Act (Cap. 547)
 
-AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-*1*
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547.
-
 **CHAPTER 547**
 
 **PARTICIPATION WITHIN THE SINGLE**
@@ -93,10 +87,6 @@ The Minister may make regulations to carry out any of the obligations under the 
 
 The Minister shall appear at least once a year before the Public Accounts Committee or before another committee of the House of Representatives which from time to time may be tasked with the economic and financial scrutiny of Government for the purpose of rendering account of the workings of the Single Resolution Fund insofar as this is in conformity with the obligations of Malta.
 
-AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547. 3
-
 ## SCHEDULE
 
 (Article 2)
@@ -151,9 +141,7 @@ the European Banking Authority (EBA) established by Regulation (EU) No. 1093/ 20
 
 \## Directive of the European Parliament and of the Council establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No. 1093/ 2010 and (EU) No. 648/2012, of the European Parliament and of the Council
 
-AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547. 5 single resolution mechanism should be based on contributions by the financial sector itself and include appropriate and effective backstop arrangements. This backstop should be fiscally neutral over the medium term, by ensuring that public assistance is recouped by means of ex post levies on the financial industry.". The Union has, in that context, adopted the SRM Regulation which creates a centralised system of decision making for resolution, endowed with the adequate financing means through the establishment of the Fund. The SRM Regulation applies to the entities located in the participating Member States.
+single resolution mechanism should be based on contributions by the financial sector itself and include appropriate and effective backstop arrangements. This backstop should be fiscally neutral over the medium term, by ensuring that public assistance is recouped by means of ex post levies on the financial industry.". The Union has, in that context, adopted the SRM Regulation which creates a centralised system of decision making for resolution, endowed with the adequate financing means through the establishment of the Fund. The SRM Regulation applies to the entities located in the participating Member States.
 
 (7) The SRM Regulation establishes, in particular, the Fund as well as the modalities for its use. The BRR Directive and the SRM Regulation lay down the general criteria to determine the fixing and calculation of ex ante and ex post contributions of institutions necessary for the financing of the Fund, as well as the obligation of Member States to levy them at national level. Nonetheless, the participating Member States who raise the contributions on the institutions located in their respective territories according to the BRR Directive and the SRM Regulation, remain competent to transfer those contributions towards the Fund. The obligation to transfer the contributions raised at national level towards the Fund does not derive from the law of the Union. Such obligation will be established by this Agreement which lays down the conditions upon which the Contracting Parties, in accordance with their respective constitutional requirements, jointly agree to transfer the contributions that they raise at national level to the Fund.
 
@@ -179,9 +167,7 @@ under the SRM Regulation will be, in principle, applicable as from 1 January 201
 
 (16) On 21 May 2014, the representatives of the Governments of the Member States authorized the Contracting Parties to request the European Commission and the Single Resolution Board ("the Board") to perform the tasks provided for in this Agreement.
 
-(17) Article 15 of the SRM Regulation, as on the date of its initial adoption, establishes general principles governing resolution, pursuant to which the shareholders of the institution under resolution bear first losses and the creditors of the institution under resolution bear losses after the shareholders in accordance with the order of priority of their claims. Article 27 of the SRM Regulation lays down accordingly a bail-in tool that requires that a contribution to loss absorption and recapitalisation equal to an amount not less than 8% of the total liabilities including own funds of the institution under resolution, measured at the time of resolution action in accordance with the valuation provided for in Article 20 of the SRM AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547. 7 Regulation, has been made by shareholders, the holders of relevant capital instruments and other eligible liabilities through write down, conversion or otherwise, and also requires that the contribution from the Fund does not exceed 5% of the total liabilities including own funds of the institution under resolution, measured at the time of resolution action in accordance with the valuation provided for in Article 20 of the SRM Regulation, unless all unsecured, non-preferred liabilities, other than eligible deposits, have been written down or converted in full. Moreover, Articles 18, 52 and 55 of the SRM Regulation, as on the date of its initial adoption, establish a number of procedural rules on decision making of the Board and the institutions of the Union. Those elements of the SRM Regulation constitute an essential basis for the consent of the Contracting Parties to be bound by this Agreement.
+(17) Article 15 of the SRM Regulation, as on the date of its initial adoption, establishes general principles governing resolution, pursuant to which the shareholders of the institution under resolution bear first losses and the creditors of the institution under resolution bear losses after the shareholders in accordance with the order of priority of their claims. Article 27 of the SRM Regulation lays down accordingly a bail-in tool that requires that a contribution to loss absorption and recapitalisation equal to an amount not less than 8% of the total liabilities including own funds of the institution under resolution, measured at the time of resolution action in accordance with the valuation provided for in Article 20 of the SRM Regulation, has been made by shareholders, the holders of relevant capital instruments and other eligible liabilities through write down, conversion or otherwise, and also requires that the contribution from the Fund does not exceed 5% of the total liabilities including own funds of the institution under resolution, measured at the time of resolution action in accordance with the valuation provided for in Article 20 of the SRM Regulation, unless all unsecured, non-preferred liabilities, other than eligible deposits, have been written down or converted in full. Moreover, Articles 18, 52 and 55 of the SRM Regulation, as on the date of its initial adoption, establish a number of procedural rules on decision making of the Board and the institutions of the Union. Those elements of the SRM Regulation constitute an essential basis for the consent of the Contracting Parties to be bound by this Agreement.
 
 (18) The Contracting Parties acknowledge that the relevant provisions of the Vienna Convention on Law of Treaties as well as international customary law shall apply in respect of any fundamental change of circumstances that has taken place against their will and that affects the essential basis of the consent of the Contracting Parties to be bound by the provisions of this Agreement, as referred to in recital (17). The Contracting Parties may accordingly invoke the consequences of any fundamental change of circumstances that has taken place against their will, pursuant to public international law. If a Contracting Party invokes such consequences, any other Contracting Party can submit the matter to the Court of Justice of the European Union ("Court of Justice"). The Court of Justice should be granted the power to verify the existence of any fundamental change of circumstances and the consequences deriving from it. The Contracting Parties recognise that such invocation of consequences after the repeal or the amendment of any of the elements of the SRM Regulation referred to in recital (17), that has taken place against the will of any of the Contracting Parties and which is susceptible of affecting the essential basis of their consent to be bound by the provisions of this Agreement, will amount to a dispute concerning the application of this Agreement for the purposes of Article 273 of the Treaty on the Functioning of the European Union (TFEU) that can therefore be submitted to the Court of Justice by virtue of that provision. Any Contracting Party may also ask the Court of Justice for interim measures, in accordance with Article 278 TFEU and Articles 160 to 162 of the Rules of Procedure of the Court of Justice.\* When deciding on the dispute, as well as on the granting of interim measures, the Court of Justice should take into account the obligations of the Contracting Parties under TEU and TFEU, including those relating to the Single Resolution Mechanism and its integrity.
 
@@ -207,9 +193,7 @@ The Board and the Court of Justice should be granted the power to determine and 
 
 (25) While fully respecting the procedures and requirements of the Treaties on which the European Union is founded, the Contracting Parties’ objective is to incorporate the substance provisions of this Agreement, in accordance with the TEU and the TFEU as soon as possible into the legal framework of the Union.
 
-AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547. 9 HAVE AGREED UPON THE FOLLOWING PROVISIONS:
+HAVE AGREED UPON THE FOLLOWING PROVISIONS:
 
 ## TITLE I — PURPOSE AND SCOPE — ARTICLE 1
 
@@ -281,9 +265,7 @@ The Contracting Parties shall transfer ex post contributions immediately after t
 
 (a) In the first place, costs shall be borne by the compartments corresponding to the Contracting Parties where the institution or the group under resolution are established or authorised. When a cross-border group is under resolution, costs shall be distributed between the different compartments corresponding to the Contracting Parties where the parent undertaking and subsidiaries are established or authorised in proportion to the relative amount of contributions that each of the entities of the group under resolution has provided to their respective compartments with respect to the aggregate amount of contributions that all the entities of the group have provided to their national compartments.
 
-AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547. 11 In case a Contracting Party where the parent undertaking or subsidiary are established or authorised considers that the application of this criterion for distribution of costs referred to in the first subparagraph leads to a large asymmetry between the distribution of costs between compartments and the risk profile of the entities concerned by resolution, it may request to the Board to consider, additionally and without any delay, the criteria laid down under Article 107(5) of the BRR Directive. If the Board does not follow the request submitted by the Contracting Party concerned, it shall explain its position publicly. Recourse shall be had to the financial means available within the compartments corresponding to the Contracting Parties referred to in the first subparagraph, up to the cost that each national compartment is due to contribute according to the criteria for distribution of costs laid down in the first and second subparagraphs, in the following manner: - during the first year of the transitional period, recourse shall be had to all the financial means available within the said compartments;
+In case a Contracting Party where the parent undertaking or subsidiary are established or authorised considers that the application of this criterion for distribution of costs referred to in the first subparagraph leads to a large asymmetry between the distribution of costs between compartments and the risk profile of the entities concerned by resolution, it may request to the Board to consider, additionally and without any delay, the criteria laid down under Article 107(5) of the BRR Directive. If the Board does not follow the request submitted by the Contracting Party concerned, it shall explain its position publicly. Recourse shall be had to the financial means available within the compartments corresponding to the Contracting Parties referred to in the first subparagraph, up to the cost that each national compartment is due to contribute according to the criteria for distribution of costs laid down in the first and second subparagraphs, in the following manner: - during the first year of the transitional period, recourse shall be had to all the financial means available within the said compartments;
 
 \- during the second and third year of the transitional period, recourse shall be had to the 60% and 40% respectively of financial means available within the said compartments;
 
@@ -325,9 +307,7 @@ In case the Board decides to exercise the powers referred to in the first subpar
 
 *\2.*
 
-Returns of investments of the amounts transferred to the Fund, in accordance with Article 75 of the SRM Regulation, shall be allocated to each of the compartments pro rata on the basis of their respective available financial means, excluding any claims or irrevocable payment commitments for the purposes of Article 76 of the SRM Regulation attributable to each compartment. Returns of AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547. 13 investments of the resolution operations that the Fund may undertake, in accordance with Article 76 of the SRM Regulation, shall be allocated to each of the compartments pro rata on the basis of their respective contribution to a particular resolution action.
+Returns of investments of the amounts transferred to the Fund, in accordance with Article 75 of the SRM Regulation, shall be allocated to each of the compartments pro rata on the basis of their respective available financial means, excluding any claims or irrevocable payment commitments for the purposes of Article 76 of the SRM Regulation attributable to each compartment. Returns of investments of the resolution operations that the Fund may undertake, in accordance with Article 76 of the SRM Regulation, shall be allocated to each of the compartments pro rata on the basis of their respective contribution to a particular resolution action.
 
 \3. All the compartments shall be merged and shall cease to exist after the elapsing of the transitional period.
 
@@ -385,9 +365,7 @@ The Board shall specify general criteria determining the conditions upon which t
 
 **Contracting Parties whose currency is not the euro**
 
-\1. In the case that at a date subsequent to the one of application of this Agreement under Article 12(2) a decision is adopted by the Council of the European Union abrogating the derogation of a Contracting Party whose currency is not the euro, as defined in Article 139(1) TFEU or its exemption, as referred to in Protocol (No. 16) on certain provisions related to Denmark annexed to the TEU and the TFEU ("Protocol on certain provisions related to Denmark") or if, in the absence of any such decision, a Contracting Party whose currency is not the euro becomes part of the Single Supervisory Mechanism and of the Single Resolution Mechanism, it shall transfer towards the Fund an amount of contributions raised in its territory equivalent to the part of the total target level for its national compartment calculated in accordance with Article 4(2), thus equal to that which would have been transferred by the Contracting Party concerned if it had participated in the Single Supervisory Mechanism and the Single Resolution Mechanism since the date of AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547. 15 application of this Agreement under Article 12(2).
+\1. In the case that at a date subsequent to the one of application of this Agreement under Article 12(2) a decision is adopted by the Council of the European Union abrogating the derogation of a Contracting Party whose currency is not the euro, as defined in Article 139(1) TFEU or its exemption, as referred to in Protocol (No. 16) on certain provisions related to Denmark annexed to the TEU and the TFEU ("Protocol on certain provisions related to Denmark") or if, in the absence of any such decision, a Contracting Party whose currency is not the euro becomes part of the Single Supervisory Mechanism and of the Single Resolution Mechanism, it shall transfer towards the Fund an amount of contributions raised in its territory equivalent to the part of the total target level for its national compartment calculated in accordance with Article 4(2), thus equal to that which would have been transferred by the Contracting Party concerned if it had participated in the Single Supervisory Mechanism and the Single Resolution Mechanism since the date of application of this Agreement under Article 12(2).
 
 \2. Any amount disbursed by the resolution financing arrangement of a Contracting Party referred to in paragraph 1 in respect of resolution actions within its territory shall be deducted from those to be transferred by that Contracting Party towards the Fund by virtue of paragraph 1. In such a case, the Contracting Party in question shall remain bound to transfer towards the Fund an amount equivalent to that which would have been necessary to achieve the target level of its resolution financing arrangement, in accordance with Article 102 of the BRR Directive and within the deadlines therein provided.
 
@@ -441,10 +419,6 @@ In case the Board finds that a Contracting Party has failed to comply with its o
 
 \3. Decisions of the Board under this Article shall be taken by simple majority of the Chair and the members referred to in point (b) of Article 43(1) of the SRM Regulation.
 
-AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547. 17
-
 ## TITLE IV — GENERAL AND FINAL PROVISIONS — ARTICLE 11
 
 **Ratification, approval or acceptance and entry into force**
@@ -495,9 +469,7 @@ If the Court of Justice finds that a Contracting Party has failed to comply with
 
 \1. The Contracting Parties commit to reimburse jointly, promptly and with interest each Member State that is not participating in the Single Supervisory Mechanism and in the Single Resolution Mechanism ("non-participating Member State") for the amount that that non-participating Member State has paid in own resources corresponding to the use of the general budget of the Union in cases of non-contractual liability and costs related thereto, in respect of the exercise of powers by the institutions of the Union under the SRM Regulation.
 
-\2. The amount that each of the non-participating Member States is deemed to have contributed to the non-contractual liability and costs related thereto shall be AND GRANTING OF FINANCIAL SUPPORT UNDER
-
-THE SINGLE RESOLTION MECHANISM [CAP. 547. 19 determined pro rata on the basis of their respective gross national income determined in accordance with Article 2(7) of Council Decision 2007/436/EC, Euratom\* or with any ensuing Union act amending or repealing it.
+\2. The amount that each of the non-participating Member States is deemed to have contributed to the non-contractual liability and costs related thereto shall be determined pro rata on the basis of their respective gross national income determined in accordance with Article 2(7) of Council Decision 2007/436/EC, Euratom\* or with any ensuing Union act amending or repealing it.
 
 \3. Compensation costs shall be distributed among the Contracting Parties pro rata on the basis of the weight of their respective gross national income, as determined in accordance with Article 2(7) of Council Decision 2007/436/EC, Euratom or with any ensuing Union act amending or repealing it.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Malta Competition and Consumer Affairs Authority Act (Cap. 510)
 
-*1*
-
-AFFAIRS AUTHORITY ACT [CAP. 510.
-
 ARRANGEMENT OF ACT  
 Articles  
 Part I  Preliminary  1-2  
@@ -44,10 +40,6 @@ Third Schedule  List of EU legislative acts for the Purposes of which the
 Office for Consumer Affairs is the National Competent  
 Authority  
 Fourth Schedule  Directorates
-
-*2*
-
-[CAP. 510. AFFAIRS AUTHORITY ACT
 
 **CHAPTER 510**
 
@@ -97,10 +89,6 @@ In this Act, unless the context otherwise requires:-
 
 \*See Legal Notice 270 of 2021. †See Legal Notice 338 of 2021. ‡See Legal Notice 339 of 2021. §See sub-article (2) of article 1 as originally promulgated, and Legal Notice 190 of 2011.
 
-*3*
-
-AFFAIRS AUTHORITY ACT [CAP. 510.
-
 "conformity mark" means a mark, issued in accordance with regulations made under article 24, showing compliance with an applicable standard;
 
 "consumer association" or "registered consumer association" means an association registered in terms of Part IV of the Consumer Affairs Act;
@@ -139,11 +127,7 @@ AFFAIRS AUTHORITY ACT [CAP. 510.
 
 "Minister" means the Minister responsible for competition, consumer affairs, standardization, metrology and technical regulations;
 
-"Ministry" means the Ministry responsible for competition, [CAP. 510. AFFAIRS AUTHORITY ACT
-
-consumer affairs, standardization, metrology and technical regulations;
-
-*4*
+"Ministry" means the Ministry responsible for competition, consumer affairs, standardization, metrology and technical regulations;
 
 "national competent authority" for the purposes of article 17(1)(o) shall have the same meaning assigned to "competent authority" in article 3(c) of the Consumer Protection Co-operation Regulation;
 
@@ -187,11 +171,7 @@ consumer affairs, standardization, metrology and technical regulations;
 
 \- International Standard: a standard adopted by an international standardization organisation, other than a European standardization body, and made available to the public;
 
-\- European Standard: a standard adopted by a European AFFAIRS AUTHORITY ACT [CAP. 510.
-
-standardization body and made available to the public; - National Standard: a standard adopted by the Authority and made available to the public;
-
-*5*
+\- European Standard: a standard adopted by a European standardization body and made available to the public; - National Standard: a standard adopted by the Authority and made available to the public;
 
 "standards programme" means a work programme listing the subjects on which standardization work is being carried out;
 
@@ -217,11 +197,7 @@ standardization body and made available to the public; - National Standard: a st
 
 (3) (a) The legal and judicial representation of the Authority shall be vested in the Chairman:
 
-Provided that the Board may appoint any one or more of the Authority’s officers or employees to appear in the name and on behalf of the Authority in any proceedings and in any act, contract, instrument or other document whatsoever, or in the case of a vacancy [CAP. 510. AFFAIRS AUTHORITY ACT
-
-in the post of Chairman:
-
-*6*
+Provided that the Board may appoint any one or more of the Authority’s officers or employees to appear in the name and on behalf of the Authority in any proceedings and in any act, contract, instrument or other document whatsoever, or in the case of a vacancy in the post of Chairman:
 
 Provided further that in matters relating exclusively to the responsibilities of an entity forming part of the Authority as established in Parts IV to VII of this Act, the legal and judicial representation of the Authority in those matters shall vest in the Director General heading the entity.
 
@@ -255,11 +231,7 @@ Provided further that in matters relating exclusively to the responsibilities of
 
 ### 5. Establishment of the Co-ordination Committee.
 
-(1) There shall be established a Co-ordination Committee, composed of the Chairman and the Directors General of the four AFFAIRS AUTHORITY ACT [CAP. 510.
-
-respective entities.
-
-*7*
+(1) There shall be established a Co-ordination Committee, composed of the Chairman and the Directors General of the four respective entities.
 
 (2) The Co-ordination Committee shall be responsible for co-ordinating the implementation of the policies of the Authority established by the Board and shall act as the point of contact and the principal channel of communication and co-ordination between the Board of Governors and the entities. The Co-ordination Committee shall also have such other duties as may from time to time be delegated to it by the Board.
 
@@ -289,11 +261,7 @@ respective entities.
 
 (3) The responsibilities vested in each entity shall be exercised by the Director General heading the respective entity and in doing so each Director General shall act independently and autonomously, free from the direction or control of any person or authority without prejudice to article 12:
 
-Provided that in the exercise of the responsibilities vested in the entities, the Directors General shall ensure that they implement the policies set by the Board and give effect to AFFAIRS AUTHORITY ACT
-
-government policy and for this purpose, they shall be subject to the overall supervision and control of the Board.
-
-*[CAP. 510. 8*
+Provided that in the exercise of the responsibilities vested in the entities, the Directors General shall ensure that they implement the policies set by the Board and give effect to government policy and for this purpose, they shall be subject to the overall supervision and control of the Board.
 
 PART III
 
@@ -335,11 +303,7 @@ There shall be established a Board of Governors within the Authority.
 
 Provided that in the eventuality that there should be no such association the Minister may appoint a temporary member from the workers’ organisations until such time wherein a member representing a national consumer association is nominated; and
 
-(c) one of the members as appointed in paragraph (b)(i) to AFFAIRS AUTHORITY ACT [CAP. 510.
-
-(v) shall be appointed as Deputy Chairman by the Minister.
-
-*9*
+(c) one of the members as appointed in paragraph (b)(i) to (v) shall be appointed as Deputy Chairman by the Minister.
 
 (2) The Deputy Chairman shall have all the powers and perform all the functions of the Chairman during the latter’s absence or inability to act as Chairman or while the Chairman is on vacation or during any vacancy in the office of Chairman, or alternatively the Minister may also, in any circumstances aforesaid, appoint another person to act as Chairman.
 
@@ -369,10 +333,6 @@ Provided that in the eventuality that there should be no such association the Mi
 
 (vi) has a financial or other interest in any enterprise or activity which is likely to affect the discharge of his functions:
 
-*10*
-
-[CAP. 510. AFFAIRS AUTHORITY ACT
-
 Provided that the Minister may determine that the person’s interest is not likely to affect the discharge of his functions and upon such determination that person shall be qualified to hold the office of member of the Authority provided that the declared interest and the Minister’s determination are published in the Gazette; or
 
 (vii) is otherwise not a fit and proper person to hold that office in accordance with paragraph (b).
@@ -390,10 +350,6 @@ Provided that the Minister may determine that the person’s interest is not lik
 (6) The Chairman and the other members of the Board may be paid such honoraria as the Minister may determine.
 
 (7) Any member of the Board who has any direct or indirect interest in any matter made or proposed to be made by the Board, not being an interest which disqualifies such member from remaining a member, shall, not later than the first meeting held after the relevant circumstances have come to his knowledge, disclose the nature of his interest to the Board, and the member having an interest as aforesaid shall withdraw from any meetings at which such matter is discussed. Any such disclosure shall be communicated to the Minister without delay. Where the interest of the member is such as to disqualify him from remaining a member, he shall report the fact immediately to the Minister and tender his resignation.
-
-*11*
-
-AFFAIRS AUTHORITY ACT [CAP. 510.
 
 (8) If a member resigns or if the office of a member of the Board is otherwise vacant or if a member is for any reason unable to perform the functions of his office, the Minister may appoint a person who is qualified to be appointed to be a member, to be a temporary member of the Board; and any person so appointed shall, subject to the provisions of sub-article (3), cease to be such a member when a person has been appointed to fill the vacancy or, as the case may be, when the member who was unable to perform the functions of his office resumes those functions.
 
@@ -423,11 +379,7 @@ AFFAIRS AUTHORITY ACT [CAP. 510.
 
 (a) to determine the policies to be pursued by the Authority within the context of the policies established by Government and in line with the functions set out in article 4 and to ensure their proper and effective implementation by the entities;
 
-(b) to ensure that the entities execute their responsibilities [CAP. 510. AFFAIRS AUTHORITY ACT
-
-under this Act in line with related government policies;
-
-*12*
+(b) to ensure that the entities execute their responsibilities under this Act in line with related government policies;
 
 (c) to ensure that the entities have the necessary resources to effectively carry out their responsibilities;
 
@@ -459,9 +411,7 @@ Provided that the members of the Board shall not have access to confidential inf
 
 (2) Save as otherwise provided in this Act, the Consumer Affairs Act, the Competition Act, the Product Safety Act, the Metrology Act, the Food Safety Act, the Pesticides Control Act, the Goldsmiths and Silvermiths Act and any other Act or regulations administered by the Authority, the Authority shall be under the general direction and control of the Minister and, subject to such direction and control, under the supervision of the Permanent Secretary responsible for the Ministry.
 
-*13*
-
-AFFAIRS AUTHORITY ACT [CAP. 510. (3) The Minister may, in relation to matters that appear to him to affect the public interest, from time to time give to the Authority directions in writing of a general character not inconsistent with the provisions of this Act, the Consumer Affairs Act, the Competition Act, the Product Safety Act, the Metrology Act, the Food Safety Act, the Pesticides Control Act, the Goldsmiths and Silvermiths Act and any other Act or regulations administered by the Authority, on the policy to be followed by the Authority in the carrying out of its functions, by or under this Act, and the Authority shall, as soon as possible, give effect to all such directions.
+(3) The Minister may, in relation to matters that appear to him to affect the public interest, from time to time give to the Authority directions in writing of a general character not inconsistent with the provisions of this Act, the Consumer Affairs Act, the Competition Act, the Product Safety Act, the Metrology Act, the Food Safety Act, the Pesticides Control Act, the Goldsmiths and Silvermiths Act and any other Act or regulations administered by the Authority, on the policy to be followed by the Authority in the carrying out of its functions, by or under this Act, and the Authority shall, as soon as possible, give effect to all such directions.
 
 *Cap. 378. Cap. 379. Cap. 427. Cap. 454. Cap. 449. Cap. 430. Cap. 46.*
 
@@ -493,11 +443,7 @@ AFFAIRS AUTHORITY ACT [CAP. 510. (3) The Minister may, in relation to matters th
 
 (2) The Director General (Competition) shall be a person with professional qualifications, recognised competence, experience and specialisation in the domain of competition law and, or industrial organisation economics and, preferably, with knowledge of consumer matters, and shall be appointed by the Board, following consultation with the Minister, for a period of three years and such period may be extended for further periods of three years each:
 
-Provided that the first Director General (Competition) shall [CAP. 510. AFFAIRS AUTHORITY ACT
-
-be appointed by the Minister.
-
-*14*
+Provided that the first Director General (Competition) shall be appointed by the Minister.
 
 (3) The Office for Competition shall have a sufficient number of qualified staff and sufficient financial, technical and technological resources that are necessary for the effective performance of their duties, and for the exercise of their powers for the application of articles 5 and, or 9 of the Competition Act and, or Articles 101 and, or 102 of the TFEU.
 
@@ -523,13 +469,9 @@ be appointed by the Minister.
 
 *Cap. 379.*
 
-(b) Any person who takes decisions at the Office for Competition exercising the powers contemplated in the Competition Act or under any regulations made thereunder shall not be dismissed from the Office for Competition for reasons relating to the proper performance of their duties, or to the proper AFFAIRS AUTHORITY ACT [CAP. 510.
+(b) Any person who takes decisions at the Office for Competition exercising the powers contemplated in the Competition Act or under any regulations made thereunder shall not be dismissed from the Office for Competition for reasons relating to the proper performance of their duties, or to the proper exercise of their powers for the application of articles 5 and, or 9 of the Competition Act and, or Articles 101 and, or 102 of the TFEU:
 
 *Cap. 379.*
-
-exercise of their powers for the application of articles 5 and, or 9 of the Competition Act and, or Articles 101 and, or 102 of the TFEU:
-
-*15*
 
 Provided that the person may be dismissed only if he no longer fulfills the conditions required for the performance of his duties, or if he has been found guilty of serious misconduct under national law, which includes the following:
 
@@ -558,10 +500,6 @@ Provided that the person may be dismissed only if he no longer fulfills the cond
 Provided that for the purposes of this sub-article, the competent competition authority with regard to the application of Articles 101 and 102 of the TFEU, pursuant to Council Regulation (EC) No. 1/2003 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty, OJ L1 of 04/ 01/2003, p.1 (Regulation 1/2003) shall be:
 
 (a) the Civil Court for the adoption of decisions and imposition of penalties and other remedies; and (b) the Office for Competition for investigating and instituting proceedings before the Civil Court;
-
-*16*
-
-[CAP. 510. AFFAIRS AUTHORITY ACT
 
 (d) to keep under review markets and commercial activities relating to the supply of goods and services and to collect information and evidence for the purpose of ascertaining whether such markets and activities may adversely affect the interests of consumers;
 
@@ -597,11 +535,7 @@ Provided that for the purposes of this sub-article, the competent competition au
 
 (1) The Office for Competition may allocate different degrees of priority to the cases brought or pending before it and in doing so it shall take into consideration, inter alia, the following factors:
 
-(a) the degree of consumer harm resulting from the AFFAIRS AUTHORITY ACT [CAP. 510.
-
-alleged or suspected infringement;
-
-*17*
+(a) the degree of consumer harm resulting from the alleged or suspected infringement;
 
 (b) the extent of consumer benefit resulting from the intervention of the Office for Competition;
 
@@ -635,11 +569,7 @@ Provided that the first Director General (Consumer Affairs) shall be appointed b
 
 (b) to monitor trading practices relating to the provision of goods and services to consumers, and to take measures for the suppression and prevention of any practices which may be detrimental to the interests of consumers;
 
-(c) to receive and investigate complaints from consumers relative to the supply of goods and services and to take AFFAIRS AUTHORITY ACT
-
-such action as in its power to redress any justified grievance that may come to its notice;
-
-*[CAP. 510. 18*
+(c) to receive and investigate complaints from consumers relative to the supply of goods and services and to take such action as in its power to redress any justified grievance that may come to its notice;
 
 (d) to provide consumers with ongoing advice concerning their rights;
 
@@ -675,11 +605,9 @@ such action as in its power to redress any justified grievance that may come to 
 
 (t) to submit an annual report on its work to the Board; and
 
-*19*
-
-AFFAIRS AUTHORITY ACT [CAP. 510. (u) generally to exercise the powers conferred upon it under this Act, the Consumer Affairs Act or any other law or regulations in relation to consumer affairs.
-
 *Cap. 378.*
+
+(u) generally to exercise the powers conferred upon it under this Act, the Consumer Affairs Act or any other law or regulations in relation to consumer affairs.
 
 (2) In exercise of the responsibilities mentioned in paragraphs (i) and (j) and article 14(2) shall mutatis mutandis apply to the Director General (Consumer Affairs).
 
@@ -716,12 +644,6 @@ Provided that the first Director General (Technical Regulations) shall be appoin
 (c) to assist all sectors of industry to understand and meet the essential requirements imposed by technical regulations, issued by virtue of the Product Safety Act and by any other law, and the technical, quality and safety requirements of harmonised European and international standards;
 
 *Cap. 427.*
-
-**AFFAIRS AUTHORITY ACT**
-
-*[CAP. 510.*
-
-*20*
 
 (d) to co-ordinate and implement its regulatory programme in the areas falling under its remit and, in particular, to exercise the advisory functions assigned to it by article 38 of the Product Safety Act and by any other law;
 
@@ -761,11 +683,7 @@ Provided that the first Director General (Technical Regulations) shall be appoin
 
 (a) Regulation (EC) No 764/2008 of the European Parliament and of the Council of 9 July 2008 laying down the procedures relating to the application of certain national technical rules to products lawfully marketed in another Member State;
 
-(b) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting AFFAIRS AUTHORITY ACT [CAP. 510.
-
-out the requirements for accreditation and market surveillance relating to the marketing of products; and (c) related activities.
-
-*21*
+(b) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products; and (c) related activities.
 
 ## PART VII — ESTABLISHMENT OF THE STANDARDS AND METROLOGY INSTITUTE
 
@@ -796,12 +714,6 @@ For the purpose of this paragraph, "supporting related services" include:
 (iii) the offer of certification services;
 
 (c) to act as the competent body for the purposes of Regulation (EC) No 66/2010 of the European Parliament and of the Council of 25 November 2009 on the EU Ecolabel (Text with EEA relevance) and Regulation (EC) No 1221/2009 of the European Parliament and of the Council of 25 November 2009 on the voluntary participation by organisations in a community eco-management and audit scheme (EMAS), repealing Regulation (EC) No 761/2001 and Commission Decisions 2001/681/EC and 2006/193/ EC;
-
-**AFFAIRS AUTHORITY ACT**
-
-*[CAP. 510.*
-
-*22*
 
 (d) to consider all applications for a permit to use a conformity mark and to grant permits for such purpose;
 
@@ -839,9 +751,7 @@ For the purpose of this paragraph, "supporting related services" include:
 
 (q) to bring to the attention of the authorities any fraud in relation to measurements in the provision of goods and services;
 
-*23*
-
-AFFAIRS AUTHORITY ACT [CAP. 510. (r) to provide for the holding of examinations for the purpose of ascertaining whether persons possess sufficient skill, knowledge and professional integrity for the proper performance of their functions to be performed by virtue of the Metrology Act;
+(r) to provide for the holding of examinations for the purpose of ascertaining whether persons possess sufficient skill, knowledge and professional integrity for the proper performance of their functions to be performed by virtue of the Metrology Act;
 
 *Cap 454.*
 
@@ -879,10 +789,6 @@ AFFAIRS AUTHORITY ACT [CAP. 510. (r) to provide for the holding of examinations 
 
 (1) The Standards and Metrology Institute shall grant a permit for the use of a conformity mark in relation to any product and, or, services which satisfy the standards, technical regulations and code of practices and fulfil the conditions prescribed therein, conformity to which is being declared.
 
-*24*
-
-[CAP. 510. AFFAIRS AUTHORITY ACT
-
 (2) The Standards and Metrology Institute shall not grant a permit unless it is furnished with such proof and it is given such opportunities and facilities as may be reasonably necessary in order that it may satisfy itself that the product and, or, services in relation to which the application has been made qualify for such permit.
 
 (3) In any permit granted in relation to any product and, or service, the Standards and Metrology Institute besides describing such product and, or service shall also:-
@@ -911,9 +817,7 @@ In this Part, unless otherwise specified, any reference to the "Offices" shall b
 
 *Cap. 379. Cap. 378.*
 
-*25*
-
-AFFAIRS AUTHORITY ACT [CAP. 510. (3) The Offices on the one hand and public authorities on the other hand shall provide each other with the information necessary for the application of the provisions of this Act, the Competition Act, the Consumer Affairs Act and any other Act, or regulations made under the said Acts and such information shall be provided within a reasonable time as dictated by the particular circumstances of the issues involved.
+(3) The Offices on the one hand and public authorities on the other hand shall provide each other with the information necessary for the application of the provisions of this Act, the Competition Act, the Consumer Affairs Act and any other Act, or regulations made under the said Acts and such information shall be provided within a reasonable time as dictated by the particular circumstances of the issues involved.
 
 *Cap. 379. Cap. 378.*
 
@@ -939,11 +843,9 @@ AFFAIRS AUTHORITY ACT [CAP. 510. (3) The Offices on the one hand and public auth
 
 *Cap. 379. Cap. 378.*
 
-(a) a complainant lodging a complaint under the Competition Act or under the Consumer Affairs Act; [CAP. 510. AFFAIRS AUTHORITY ACT
+(a) a complainant lodging a complaint under the Competition Act or under the Consumer Affairs Act;
 
 (b) a person, undertaking or association of undertakings or any other body complying with a request for the provision of information under the provisions of this Act, the Competition Act, the Consumer Affairs Act and any other Act, or regulations made thereunder;
-
-*26*
 
 *Cap. 379. Cap. 378.*
 
@@ -973,11 +875,7 @@ AFFAIRS AUTHORITY ACT [CAP. 510. (3) The Offices on the one hand and public auth
 
 (c) provide a concise description of each part of the deleted information.
 
-(5) In the event that persons, undertakings or an association of undertakings or any other body fail to comply with sub-articles (1) to (3), the Director General may deem that the documents or statements concerned do not contain confidential information and AFFAIRS AUTHORITY ACT [CAP. 510.
-
-may consequently assume that the persons, undertakings or association of undertakings or other body have no objections to the disclosure of the documents or statements concerned in their entirety.
-
-*27*
+(5) In the event that persons, undertakings or an association of undertakings or any other body fail to comply with sub-articles (1) to (3), the Director General may deem that the documents or statements concerned do not contain confidential information and may consequently assume that the persons, undertakings or association of undertakings or other body have no objections to the disclosure of the documents or statements concerned in their entirety.
 
 (6) Where persons, undertakings or an association of undertakings or any other body meet the conditions set out in sub-articles (1) to (3), the Director General shall:
 
@@ -996,10 +894,6 @@ Provided that the Civil Court shall appoint and decide any matter under this sub
 Provided further that the decision of the Civil Court shall be final and no appeal or challenge shall lie from such decision.
 
 (10) Complainants or undertakings or an association of undertakings or any other body or any person collaborating in an investigation carried out by the Offices shall, should they wish to remain anonymous, make a request to that effect to the Director General. The Director General shall accede to such request for anonymity if he considers the request to be justified. The Director General shall protect anonymity by providing access to a non-confidential version or summary of the documents submitted. Sub-articles (6) and (7) shall apply to requests for anonymity. Where the Director General does not consider the request for anonymity to be justified, sub-articles (8) and (9) shall apply.
-
-*28*
-
-[CAP. 510. AFFAIRS AUTHORITY ACT
 
 ### 30. Publication of Information.
 
@@ -1033,11 +927,7 @@ The Board shall appoint and employ, at such remuneration and upon such terms and
 
 (2) The period during which a direction as aforesaid shall apply to any officer specified therein, shall, unless the officer retires from the public service, or otherwise ceases to hold office at an earlier date, or unless a different period is specified in such direction, end on the happening of any of the following events:
 
-(a) the acceptance by such officer of an offer of transfer to AFFAIRS AUTHORITY ACT [CAP. 510.
-
-the service of, and permanent employment with, the Authority made in accordance with the provisions of article 42; or
-
-*29*
+(a) the acceptance by such officer of an offer of transfer to the service of, and permanent employment with, the Authority made in accordance with the provisions of article 42; or
 
 (b) the revocation of such direction by the Principal Permanent Secretary following the direction of the Prime Minister.
 
@@ -1057,13 +947,9 @@ the service of, and permanent employment with, the Authority made in accordance 
 
 Provided that such terms and conditions shall not be deemed to be less favourable because they are not in all respects identical or superior to those enjoyed by the officer concerned at the date of such detailing, if in the opinion of the Prime Minister, such terms and conditions, taken as a whole, offer substantially equivalent or greater benefits; and
 
-(b) shall be entitled to have his service with the Authority considered as service with the Government for the purposes of any pension, gratuity or benefit under the Pensions Ordinance and the Widows’ and Orphans’ [CAP. 510. AFFAIRS AUTHORITY ACT
+(b) shall be entitled to have his service with the Authority considered as service with the Government for the purposes of any pension, gratuity or benefit under the Pensions Ordinance and the Widows’ and Orphans’ Pensions Act and for the purpose of any other right or privilege to which he would be entitled, and shall be liable to any liability to which he would be liable, but for the fact of his being detailed for duty with the Authority:
 
 *Cap. 93. Cap. 58.*
-
-Pensions Act and for the purpose of any other right or privilege to which he would be entitled, and shall be liable to any liability to which he would be liable, but for the fact of his being detailed for duty with the Authority:
-
-*30*
 
 Provided that in assessing the pensionable emoluments of such officer for the purposes of any law relating to government service pensions, no account shall be taken of any allowances, bonuses or gratuities paid to such officer by the Authority in excess of what he is entitled to as a public officer.
 
@@ -1085,11 +971,7 @@ Provided that in assessing the pensionable emoluments of such officer for the pu
 
 *Cap. 58.*
 
-(5) The Authority shall pay to the Government such contributions as may from time to time be determined by the Minister responsible for Finance in respect of the cost of pensions and gratuities earned by an officer who has accepted permanent AFFAIRS AUTHORITY ACT [CAP. 510.
-
-employment with the Authority as aforesaid during the period commencing on the date of such officer’s acceptance.
-
-*31*
+(5) The Authority shall pay to the Government such contributions as may from time to time be determined by the Minister responsible for Finance in respect of the cost of pensions and gratuities earned by an officer who has accepted permanent employment with the Authority as aforesaid during the period commencing on the date of such officer’s acceptance.
 
 *Cap. 93.*
 
@@ -1121,11 +1003,7 @@ Every person appointed as an officer of the Authority shall, before assuming suc
 
 (1) Where a public officer or an employee of the Authority, or a consultant, an advisor or any other person engaged by the Authority, has any interest in, or material to, any matter which falls to be considered by the Authority, he shall-
 
-(a) disclose to the Board the nature of his interest at the [CAP. 510. AFFAIRS AUTHORITY ACT
-
-first meeting of the Board after such interest is acquired or in advance of any consideration of the matter, whichever is the earlier;
-
-*32*
+(a) disclose to the Board the nature of his interest at the first meeting of the Board after such interest is acquired or in advance of any consideration of the matter, whichever is the earlier;
 
 (b) neither influence nor seek to influence a decision in relation to such matter; and
 
@@ -1152,10 +1030,6 @@ Provided that the Directors General shall, with the approval of the Co-ordinatio
 *Exemption from liability.*
 
 (3) No action shall lie against the Authority, the organs of the Authority, the members of the Board, officers and employees of the Authority and advisors, consultants and other persons engaged with the Authority for any act or omission in connection with this Act or any regulations made thereunder unless the act or omission is shown to have been done or omitted to be done, as the case may be, in bad faith.
-
-*33*
-
-AFFAIRS AUTHORITY ACT [CAP. 510.
 
 ## PART XI — FINANCIAL PROVISIONS
 
@@ -1185,11 +1059,7 @@ Provided that where the entities are specifically entrusted by law to charge fee
 
 (2) The Authority may also, from time to time, borrow, by way of overdraft or otherwise, such sums as it may require for carrying out its functions under this Act:
 
-Provided that for any amount in excess of one hundred and twenty thousand euro (€120,000), there shall be required the [CAP. 510. AFFAIRS AUTHORITY ACT
-
-written approval of the Minister.
-
-*34*
+Provided that for any amount in excess of one hundred and twenty thousand euro (€120,000), there shall be required the written approval of the Minister.
 
 ### 50. Advances from Government.
 
@@ -1213,11 +1083,7 @@ The Minister responsible for Finance may, after consultation with the Minister, 
 
 Provided that the estimates for the first financial year of the Authority shall be prepared and adopted within such time as the Minister may by notice in writing to the Authority specify.
 
-(2) In the preparation of such estimates, the Authority shall take account of any funds and other monies that may be due to be paid to it out of the Consolidated Fund during the relevant financial AFFAIRS AUTHORITY ACT [CAP. 510.
-
-year, whether by virtue of this Act or of an appropriation Act or of any other law and it shall so prepare the said estimates as to ensure that its total revenues are at least sufficient to meet all sums properly chargeable to its revenue account including, but without prejudice to the generality of that expression, depreciation.
-
-*35*
+(2) In the preparation of such estimates, the Authority shall take account of any funds and other monies that may be due to be paid to it out of the Consolidated Fund during the relevant financial year, whether by virtue of this Act or of an appropriation Act or of any other law and it shall so prepare the said estimates as to ensure that its total revenues are at least sufficient to meet all sums properly chargeable to its revenue account including, but without prejudice to the generality of that expression, depreciation.
 
 (3) The estimates shall be made out in such form and shall contain such information and such comparison with previous estimates as the Minister responsible for Finance may direct.
 
@@ -1239,11 +1105,7 @@ year, whether by virtue of this Act or of an appropriation Act or of any other l
 
 ### 54. Publication of approved estimates.
 
-The Minister shall, at the earliest opportunity and not later than eight weeks after he has received a copy of the estimates and supplementary estimates of the Authority, or if at any time during that period the House is not in session, within eight weeks from the beginning of the next following session, cause such estimates to be [CAP. 510. AFFAIRS AUTHORITY ACT
-
-laid on the Table of the House.
-
-*36*
+The Minister shall, at the earliest opportunity and not later than eight weeks after he has received a copy of the estimates and supplementary estimates of the Authority, or if at any time during that period the House is not in session, within eight weeks from the beginning of the next following session, cause such estimates to be laid on the Table of the House.
 
 ### 55. Accounts and audit.
 
@@ -1269,13 +1131,9 @@ laid on the Table of the House.
 
 (b) the title of any account held with the bank or banks into which its monies are to be paid, and the transfer of funds from one account to the other; and
 
-(c) the method to be adopted in making payments out of its funds, and generally with respect to any matter which is relevant to the proper keeping and control of the accounts and books and the control of its finances. 57. The Authority shall not award or enter into any contract for the supply of goods or materials or for the execution of works, or for the rendering of services, to or for the benefit of the Authority, except in accordance with regulations in force regulating the AFFAIRS AUTHORITY ACT [CAP. 510.
+(c) the method to be adopted in making payments out of its funds, and generally with respect to any matter which is relevant to the proper keeping and control of the accounts and books and the control of its finances. 57. The Authority shall not award or enter into any contract for the supply of goods or materials or for the execution of works, or for the rendering of services, to or for the benefit of the Authority, except in accordance with regulations in force regulating the procurement of all goods and services in the public sector.
 
 *Contracts of supply or works.*
-
-procurement of all goods and services in the public sector.
-
-*37*
 
 ### 58. Annual Report.
 
@@ -1297,11 +1155,7 @@ The Minister shall cause a copy of the report presented to him in terms of artic
 
 (b) The immovable assets from time to time specified in an order made by the President of Malta and published in the Gazette, hereinafter referred to as "the immovable assets", being immovable assets which, immediately before the coming into force of this Part, were owned by the Government and used by it for the exercise of any of the functions which by this Act are being transferred to or vested in the Authority shall, with effect from such day as may be specified in any such order, and by virtue of this Act and without any further assurance, be transferred to and vested in the Authority under the same title by which they were held by the Government before such day.
 
-(2) The transfer and vesting aforesaid shall extend to the whole of such property and undertakings and, without prejudice to the [CAP. 510. AFFAIRS AUTHORITY ACT
-
-generality of the aforesaid, shall include all plant, equipment, apparatus, instruments, vehicles, crafts, buildings, structures, installations, land, works, stocks and other property, movable or immovable, assets, powers, rights and privileges and all things necessary or ancillary thereto which are held or enjoyed in connection therewith or appertaining thereto, as well as all obligations affecting or relating to any of the aforesaid property or undertakings or other thing included therein as aforesaid.
-
-*38*
+(2) The transfer and vesting aforesaid shall extend to the whole of such property and undertakings and, without prejudice to the generality of the aforesaid, shall include all plant, equipment, apparatus, instruments, vehicles, crafts, buildings, structures, installations, land, works, stocks and other property, movable or immovable, assets, powers, rights and privileges and all things necessary or ancillary thereto which are held or enjoyed in connection therewith or appertaining thereto, as well as all obligations affecting or relating to any of the aforesaid property or undertakings or other thing included therein as aforesaid.
 
 ### 61. Construction of laws and related matters.
 
@@ -1315,11 +1169,7 @@ generality of the aforesaid, shall include all plant, equipment, apparatus, inst
 
 (2) Where, immediately before the coming into force of this Part of the Act, any legal proceedings are pending to which the Government, the Consumer and Competition Department, the Malta Standards Authority and the Malta National Laboratory Company Limited is or is entitled to be a party, and such proceedings are related to any of the properties or undertakings, or any right or liability transferred by or under this Act, the Authority shall, as from the date aforesaid, be substituted in such proceedings for the Government or for the aforesaid Department, Authority or Company, as the case may be, or shall be made a part thereto in like manner as the Government, any such Department, Authority or Company could have become a party as aforesaid, and such proceedings shall not abate by reason of the substitution.
 
-(3) The Minister may, by order, make such incidental, consequential and supplemental provisions as he may deem necessary or expedient for the purpose of determining, as AFFAIRS AUTHORITY ACT [CAP. 510.
-
-appropriate, the assets transferred to the Authority by this Act and securing and giving full effect to the transfer of any property or undertaking or any right or liability to the Authority by this Act and make such orders as may be necessary to make any powers and duties exercisable by the Government, the Consumer and Competition Department, the Malta Standards Authority and the Malta National Laboratory Company Limited in relation to any of the transferred property or undertakings exercisable by or on behalf of the Authority.
-
-*39*
+(3) The Minister may, by order, make such incidental, consequential and supplemental provisions as he may deem necessary or expedient for the purpose of determining, as appropriate, the assets transferred to the Authority by this Act and securing and giving full effect to the transfer of any property or undertaking or any right or liability to the Authority by this Act and make such orders as may be necessary to make any powers and duties exercisable by the Government, the Consumer and Competition Department, the Malta Standards Authority and the Malta National Laboratory Company Limited in relation to any of the transferred property or undertakings exercisable by or on behalf of the Authority.
 
 ## PART XIII — MISCELLANEOUS
 
@@ -1345,10 +1195,6 @@ Provided further that where a person to whom a notice is addressed refuses to re
 
 (b) by sending it by registered post to the person at the address at which the person ordinarily resides or carries on business; or
 
-*40*
-
-[CAP. 510. AFFAIRS AUTHORITY ACT
-
 (c) if an address for the service of notices has been provided by the person, by leaving it at, or sending it by registered post addressed to the person to that address; or
 
 (d) in any case where the Authority considers that the immediate delivery of the act is required, by sending it, by means of a facsimile machine or by electronic mail, to a device or facility for the reception of facsimiles or electronic mail located at the address at which the person ordinarily resides or carries on business or, if an address for the service of acts has been furnished by the person, that address, provided that the facsimile machine of the Authority generates a message confirming successful transmission of the total number of pages of the notice or the facility of the Authority for the reception of electronic mail generates a message confirming receipt of the electronic mail:
@@ -1361,11 +1207,7 @@ Provided that the provisions of paragraph (d) shall not apply to the notificatio
 
 (a) at its registered office, principal office, or place of business or postal address of the person or persons vested with the legal or judicial representation thereof or by any company secretary or with an employee of such body; or
 
-(b) with the person or persons vested with the legal or judicial representation thereof or by any company secretary in the manner provided for in sub-article (2). AFFAIRS AUTHORITY ACT [CAP. 510.
-
-(5) The provisions of this article shall also apply with respect to the notification of acts issued by the entities of the Authority under this Act or any other law enforced by them.
-
-*41*
+(b) with the person or persons vested with the legal or judicial representation thereof or by any company secretary in the manner provided for in sub-article (2). (5) The provisions of this article shall also apply with respect to the notification of acts issued by the entities of the Authority under this Act or any other law enforced by them.
 
 ### 65. Power of Minister to make regulations.
 
@@ -1392,10 +1234,6 @@ Provided that the provisions of paragraph (d) shall not apply to the notificatio
 (1) There shall be established the Directorates as listed in the Fourth Schedule, which shall have the responsibilities as described therein. The Minister may, after consulting the Board, by Order in the Gazette, abolish any one or more of the said Directorates, vary their responsibilities and establish such other Directorate as he may from time to time deem appropriate:
 
 Provided that the Board may, temporarily or for a specific purpose, authorise the Director General heading the entity concerned, to allow that a particular function of one Directorate be performed by another Directorate within the same entity, should this be expedient for the proper exercise of that function or for that specific purpose.
-
-*42*
-
-[CAP. 510. AFFAIRS AUTHORITY ACT
 
 (2) Each Directorate, so established, shall be headed by a person who shall be in possession of recognised professional qualifications and experience in relation to the area of operation of such Directorate and who shall be appointed by the Board, following consultation with the Minister, for a period of three years and such period may be extended for further periods of three years each:
 
@@ -1433,11 +1271,9 @@ Deleted by XVI.2019.66.
 
 (c) decisions and judgments which are not yet res judicata.
 
-*43*
-
-AFFAIRS AUTHORITY ACT [CAP. 510. (2) The provisions of the Competition Act and of the Consumer Affairs Act, existing after the 23rd May 2011, but prior to the coming into force of the Competition Act and Consumer Affairs Act and other Laws (Amendment) Act, 2019 shall also continue to apply, as the case may be, to all:
-
 *Cap. 379. Cap. 378.*
+
+(2) The provisions of the Competition Act and of the Consumer Affairs Act, existing after the 23rd May 2011, but prior to the coming into force of the Competition Act and Consumer Affairs Act and other Laws (Amendment) Act, 2019 shall also continue to apply, as the case may be, to all:
 
 *Cap. 379. Cap. 378.*
 
@@ -1458,10 +1294,6 @@ Provided further that with regard to appeals from any decision of the Competitio
 such appeals, whichever is later, to file any further grounds of appeal on points of fact.
 
 (3) For the purposes of sub-article (1):
-
-*44*
-
-[CAP. 510. AFFAIRS AUTHORITY ACT
 
 (a) the Director General (Competition) shall be vested with the powers of the Director of the Office for Fair Competition as provided for in the Competition Act; and
 
@@ -1507,13 +1339,11 @@ Provided that the provisions of the Consumer Affairs Act existing after the entr
 
 *Cap. 378. Act No. XLIV of 2021.*
 
-(7) The provisions of article 12A of the Consumer Affairs Act, existing prior to the entry into force of the Consumer Affairs Act and other Laws (Amendment) Act, 2021, shall continue to apply to any undertaking obtained prior to the said entry into force of the Consumer Affairs Act and other Laws (Amendment) Act, 2021. AFFAIRS AUTHORITY ACT [CAP. 510. "(8) The provisions of the Competition Act as amended by virtue of the Competition Act and the Malta Competition and Consumer Affairs Authority (Amendment) Act, 2021 shall not apply to investigations instituted by the Director General (Competition) and to any judicial proceedings filed by the Director General (Competition) in accordance with the Competition Act before the entry into force of the Competition Act and the Malta Competition and Consumer Affairs Authority (Amendment) Act, 2021.
+(7) The provisions of article 12A of the Consumer Affairs Act, existing prior to the entry into force of the Consumer Affairs Act and other Laws (Amendment) Act, 2021, shall continue to apply to any undertaking obtained prior to the said entry into force of the Consumer Affairs Act and other Laws (Amendment) Act, 2021. "(8) The provisions of the Competition Act as amended by virtue of the Competition Act and the Malta Competition and Consumer Affairs Authority (Amendment) Act, 2021 shall not apply to investigations instituted by the Director General (Competition) and to any judicial proceedings filed by the Director General (Competition) in accordance with the Competition Act before the entry into force of the Competition Act and the Malta Competition and Consumer Affairs Authority (Amendment) Act, 2021.
 
 ### 71. Regulations. Cap. 419.
 
 Regulations made under the Malta Standards Authority Act shall continue to be in force as if made under the provisions of this Act and may be amended and revoked accordingly.
-
-*45*
 
 *Cap. 379.*
 
@@ -1521,17 +1351,13 @@ Regulations made under the Malta Standards Authority Act shall continue to be in
 
 ### 72. National standards.
 
-National standards shall be designated as SM XXX:YYYY, where XXX is an integer number and YYYY the year of adoption. 46 [CAP. 510. AFFAIRS AUTHORITY ACT
+National standards shall be designated as SM XXX:YYYY, where XXX is an integer number and YYYY the year of adoption.
 
 ## FIRST SCHEDULE — (ARTICLE 44) — FORM OF OATH
 
 I, ............................ swear/solemnly affirm that I will fully and honestly fulfil my duties as an officer of the Authority in conformity with the requirements of the Malta Competition and Consumer Affairs Authority Act 2011, and any other laws that the Authority administers and of all orders made thereunder, and that I will not, except in the performance of my duties under that Act and such other laws and orders, disclose or make known during my service as an officer within such Authority or at any time thereafter, any matter which comes to my knowledge relating to any person, household or undertaking by reason of my service as an officer within such Authority.
 
 So help me God.
-
-*47*
-
-AFFAIRS AUTHORITY ACT [CAP. 510.
 
 SECOND SCHEDULE
 
@@ -1540,8 +1366,6 @@ SECOND SCHEDULE
 RULES OF PROCEDURE RELATIVE TO THE COMPETITION AND CONSUMER APPEALS TRIBUNAL
 
 Deleted by XVI.2019.68.
-
-48 [CAP. 510. AFFAIRS AUTHORITY ACT
 
 Substituted by: THIRD SCHEDULE
 
@@ -1593,9 +1417,7 @@ Regulation (EU) No. 181/2011 of the European Parliament and of the Council of 16
 
 ### 10.
 
-Regulation (EU) No. 1177/2010 of the European Parliament and of the Council of 24 November 2010 concerning the rights of passengers when travelling by AFFAIRS AUTHORITY ACT [CAP. 510. 49
-
-sea and inland waterway and amending Regulation (EC) 2006/2004.
+Regulation (EU) No. 1177/2010 of the European Parliament and of the Council of 24 November 2010 concerning the rights of passengers when travelling by sea and inland waterway and amending Regulation (EC) 2006/2004.
 
 ### 11.
 
@@ -1633,11 +1455,7 @@ Subject to the powers of the Minister under article 66, the Office for Competiti
 
 \2. Communications, Energy, Transport and Financial Services Markets Directorate focusing on competition concerns, infringements, and concentrations in regulated markets.
 
-\3. Primary, Manufacturing and Retail Markets Directorate focusing on restrictive practices and concentrations in other sectors of the economy. [CAP. 510. AFFAIRS AUTHORITY ACT
-
-Office for Consumer Affairs
-
-*50*
+\3. Primary, Manufacturing and Retail Markets Directorate focusing on restrictive practices and concentrations in other sectors of the economy. Office for Consumer Affairs
 
 *\1.*
 

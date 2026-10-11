@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Malta-Libya Continental Shelf Delimitation (Ratification) Act (Cap. 316)
 
-*1*
-
-(RATIFICATION) [CAP. 316.
-
 **CHAPTER 316**
 
 **MALTA-LIBYA CONTINENTAL SHELF**
@@ -96,8 +92,6 @@ The position of the points in this Article are defined by latitude and longitude
 **Article 2**
 
 For illustrative purposes only the boundary line defined by the coordinates indicated in Article 1 above is depicted on the Admiralty Chart No. 176 Scale 1:1,100,000 at latitude 39°00 published by Taunton, 31st October 1969, which is annexed to and forms an integral part of this Agreement.
-
-(RATIFICATION) [CAP. 316. 3
 
 **Article 3**
 

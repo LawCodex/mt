@@ -16,8 +16,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Bord għal Kumpens f'Emerġenza (Disposizzjonijiet Transitorji) (Cap. 126)
 
-(DISPOSIZZJONIJIET TRANSITORJI)
-
 **KAPITOLU 126**
 
 **ATT DWAR IL-BORD GĦAL KUMPENS**

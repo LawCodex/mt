@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Uffiċċju Nazzjonali għall-Iskrinjar tal-Investiment Dirett Barrani (Cap. 620)
 
-*1*
-
-INVESTIMENT DIRETT BARRANI [KAP. 620.
-
 **KAPITOLU 620**
 
 **ATT DWAR L-UFFIĊĊJU NAZZJONALI GĦALL-**
@@ -57,12 +53,6 @@ jekk le;
 "Bord" tfisser il-Bord imwaqqaf skont is-subartikolu  
 5(2);
 
-**INVESTIMENT DIRETT BARRANI**
-
-*[KAP. 620.*
-
-*2*
-
 "Chairperson" tfisser iċ-Chairperson tal-Bord;
 
 "deċiżjoni ta’ skrinjar" tfisser miżura adottata fl-applikazzjoni ta’ mekkaniżmu ta’ skrinjar;
@@ -83,11 +73,7 @@ jekk le;
 
 "Kummissjoni" tfisser il-Kummissjoni tal-Unjoni Ewropea kif imwaqqfa permezz tat-Trattat dwar l-Unjoni Ewropea;
 
-"kumpanija formanti parti minn grupp" fir-rigward ta’ kull kumpanija tfisser kull korp ġuridiku li jkun is-sussidjarju jew parent ta’ dik il-kumpanija, jew is-sussidjarju tal-kumpanija parent ta’ dik il-kumpanija, u t-tifsira "grupp" għandha tinftiehem b’dan il-mod kif ukoll li tfisser impriża INVESTIMENT DIRETT BARRANI [KAP. 620.
-
-parent u l-impriżi sussidjarji kollha tagħha;
-
-*3*
+"kumpanija formanti parti minn grupp" fir-rigward ta’ kull kumpanija tfisser kull korp ġuridiku li jkun is-sussidjarju jew parent ta’ dik il-kumpanija, jew is-sussidjarju tal-kumpanija parent ta’ dik il-kumpanija, u t-tifsira "grupp" għandha tinftiehem b’dan il-mod kif ukoll li tfisser impriża parent u l-impriżi sussidjarji kollha tagħha;
 
 "Kunsill" ifisser il-Kunsill tal-Unjoni Ewropea kif imwaqqaf permezz tat-trattat dwar l-Unjoni Ewropea;
 
@@ -107,11 +93,7 @@ parent u l-impriżi sussidjarji kollha tagħha;
 
 "sid benefiċjarju" tfisser il-persuna jew persuni fiżiċi li finalment ikunu jippossjedu jew jikkontrollaw lill-klijent u, jew il-persuna jew persuni fiżiċi li f’isimhom tkun qiegħda ssir xi operazzjoni jew attività, u:
 
-(a) fil-każ ta’ korp magħqud jew korp ta’ persuni, is-sid benefiċjarju jkun jikkonsisti f’persuna jew persuni fiżiċi li finalment ikunu jippossjedu jew jikkontrollaw lil dak il-korp magħqud jew korp ta’ persuni permezz ta’ pussess dirett jew indirett ta’ għaxra fil-mija (10%) u sehem (1) jew aktar tal-ishma jew iżjed INVESTIMENT DIRETT BARRANI
-
-minn għaxra fil-mija (10%) tal-jeddijiet tal-votazzjoni jew interess ta’ pussess ta’ iktar minn għaxra fil-mija (10%) f’dak il-korp magħqud jew korp ta’ persuni, inkluż permezz ta’ parteċipazzjoni azzjonarja bearer, jew permezz ta’ kontroll b’mezzi oħra, li ma tkunx kumpanija elenkata fuq suq regolat li jkun soġġett għal ħtiġijiet ta’ żvelar konsistenti mal-leġiżlazzjoni tal- Unjoni Ewropea jew standards internazzjonali ekwivalenti li jiżguraw trasparenza adegwata ta’ informazzjoni dwar il-pussess:
-
-*[KAP. 620. 4*
+(a) fil-każ ta’ korp magħqud jew korp ta’ persuni, is-sid benefiċjarju jkun jikkonsisti f’persuna jew persuni fiżiċi li finalment ikunu jippossjedu jew jikkontrollaw lil dak il-korp magħqud jew korp ta’ persuni permezz ta’ pussess dirett jew indirett ta’ għaxra fil-mija (10%) u sehem (1) jew aktar tal-ishma jew iżjed minn għaxra fil-mija (10%) tal-jeddijiet tal-votazzjoni jew interess ta’ pussess ta’ iktar minn għaxra fil-mija (10%) f’dak il-korp magħqud jew korp ta’ persuni, inkluż permezz ta’ parteċipazzjoni azzjonarja bearer, jew permezz ta’ kontroll b’mezzi oħra, li ma tkunx kumpanija elenkata fuq suq regolat li jkun soġġett għal ħtiġijiet ta’ żvelar konsistenti mal-leġiżlazzjoni tal- Unjoni Ewropea jew standards internazzjonali ekwivalenti li jiżguraw trasparenza adegwata ta’ informazzjoni dwar il-pussess:
 
 Iżda parteċipazzjoni azzjonarja ta’ għaxra fil-mija (10%) u sehem (1) jew aktar mill-ishma, jew iż-żamma ta’ interess ta’ pussess jew jeddijiet tal-votazzjoni ta’ iżjed minn għaxra fil-mija (10%) fil-klijent għandhom jindikaw li jkun hemm pussess dirett meta dawn jinżammu direttament minn persuna fiżika, u ta’ pussess indirett meta dawn jinżammu minn xi korp magħqud jew korp ta’ persuni, wieħed (1) jew aktar, jew permezz ta’ trust jew ta’ xi arranġament ġuridiku simili, jew ta’ xi tagħqid tagħhom:
 
@@ -128,10 +110,6 @@ Iżda wkoll jekk wara li jkunu ġew eżawriti l-mezzi kollha possibbli u sakemm 
 (iv) fil-benefiċjarji jew fil-klassi ta’ benefiċjarji, kif jista’ jkun il-każ; u
 
 (v) f’kull persuna fiżika oħra li tkun qiegħda teżerċita kontroll finali fuq it-trust permezz ta’ pussess dirett jew indirett jew b’mezzi oħra;
-
-*5*
-
-INVESTIMENT DIRETT BARRANI [KAP. 620.
 
 (ċ) fil-każ ta’ entitajiet ġuridiċi bħalma huma fondazzjonijiet u arranġamenti ġuridiċi simili għal trusts, is-sid benefiċjarju jkun jikkonsisti fil-persuna jew persuni fiżiċi li jkollhom pożizzjonijiet ekwivalenti għal dawk imsemmija fil-paragrafu (b);
 
@@ -163,10 +141,6 @@ Dan l-Att jimplimenta r-Regolament (UE) 2019/452 tal- Parlament Ewropew u tal-Ku
 
 (2) Dan l-Att ma għandux japplika għal investimenti tal-portafoll.
 
-*6*
-
-[KAP. 620. INVESTIMENT DIRETT BARRANI
-
 ## TAQSIMA III
 
 Twaqqif, Funzjonijiet u Tmexxija tal-Affarijiet tal-Uffiċċju Nazzjonali għall-Iskrinjar tal-Investimenti Diretti Barranin 5. (1) Għandu jkun imwaqqaf uffiċċju li jkun magħruf bħala l-Uffiċċju Nazzjonali għall-Iskrinjar tal-Investiment Dirett Barrani.
@@ -193,10 +167,6 @@ Twaqqif, Funzjonijiet u Tmexxija tal-Affarijiet tal-Uffiċċju Nazzjonali għall
 
 (b) Sabiex ikun stabbilit jekk persuna tkunx adatta u xierqa skont il-paragrafu (a)(vi), il-Ministru għandu jqis l-integrità ta’ dik il-persuna, il-kompetenza tagħha u l-kapaċità tagħha biex twettaq ir-responsabbiltajiet ta’ dik il-kariga, id-diliġenza li biha dik il-persuna tkun qed twettaq jew x’aktarx twettaq dawk ir-responsabbiltajiet u jekk l-interessi ta’ xi persuna huma, jew x’aktarx ikunu mhedda bil-fatt li tali persuna tokkupa dik il-kariga.
 
-*7*
-
-INVESTIMENT DIRETT BARRANI [KAP. 620.
-
 (ċ) Kull persuna li l-Ministru jaħtar jew jipproponi li jaħtar bħala membru tal-Bord għandha, kull darba li tkun hekk mitluba mill-Ministru, tagħtih dik l-informazzjoni li l-Ministru jidhirlu meħtieġa għat-twettiq tad-dmirijiet tal-Ministru skont il-paragrafi (a) u (b).
 
 (5) Mingħajr ħsara għad-dispożizzjonijiet tas-subartikoli (6) u (7), il-membri tal-Bord għandhom jiġu maħtura għal terminu ta’ sentejn (2), u jistgħu jkunu maħtura mill-ġdid għal perjodu ieħor jew għal perjodi oħra ta’ sentejn (2).
@@ -222,10 +192,6 @@ Iżda l-Ministru jew rappreżentant tiegħu jista’ jaħtar segretarju sostitut
 ### 6. Personalità ġuridika distinta.
 
 L-Uffiċċju għandu jkun korp ġuridiku li jkollu personalità ġuridika distinta u jkun kapaċi, bla ħsara għad-dispożizzjonijiet ta’ dan l-Att, li jagħmel kull kuntratt, li jakkwista, iżomm u jiddisponi minn kull xorta ta’ proprjetà għall-għanijiet tal-funzjonijiet tiegħu, li jħarrek u jkun imħarrek, u li jagħmel dawk l-affarijiet kollha u li jidħol f’dawk it-tranżazzjonijiet kollha li jkunu inċidentali jew li jwasslu għall-eżerċizzju jew għat-twettiq tal-funzjonijiet tiegħu skont dan l-Att.
-
-*8*
-
-[KAP. 620. INVESTIMENT DIRETT BARRANI
 
 ### 7. Rappreżentanza legali u ġuridika.
 
@@ -261,10 +227,6 @@ Iżda ċ-Chairperson jista’, minn żmien għal żmien, jinnomina wieħed jew a
 
 (g) jimplimenta deċiżjonijiet ta’ skrinjar kif imfissra f’dan l-Att;
 
-*9*
-
-INVESTIMENT DIRETT BARRANI [KAP. 620.
-
 (h) jimponi kwalunkwe obbligazzjoni sabiex jiżgura li l-kundizzjonijiet li jistgħu jkunu imposti bħala parti minn deċiżjoni ta’ skrinjar jiġu osservati;
 
 (i) iwettaq monitoraġġ bħala parti minn xi kundizzjoni li tkun imposta bħala parti minn deċiżjoni ta’ skrinjar;
@@ -287,11 +249,9 @@ INVESTIMENT DIRETT BARRANI [KAP. 620.
 
 Iżda persuni ingaġġati fis-settur pubbliku għandhom ikunu obbligati li jipprovdu kull informazzjoni li tista’ tiġi mitluba mingħandhom skont dan is-subartikolu fi żmien għaxart (10) ijiem ta’ xogħol minn meta jirċievu t-talba.
 
-(3) Fl-eżerċizzju tal-poteri u l-funzjonijiet tiegħu skont dan l- Att, l-Uffiċċju għandu d-dritt li jkollu aċċess għall-informazzjoni rilevanti kollha, u jista’ jitlob kjarifiki u spjegazzjonijiet li jidhirlu li jkunu neċessarji għad-deliberazzjonijiet u l-konklużjonijiet tiegħu. [KAP. 620. INVESTIMENT DIRETT BARRANI
+(3) Fl-eżerċizzju tal-poteri u l-funzjonijiet tiegħu skont dan l- Att, l-Uffiċċju għandu d-dritt li jkollu aċċess għall-informazzjoni rilevanti kollha, u jista’ jitlob kjarifiki u spjegazzjonijiet li jidhirlu li jkunu neċessarji għad-deliberazzjonijiet u l-konklużjonijiet tiegħu.
 
 (4) Bla ħsara għal kif jista’ jkun xort’oħra meħtieġ għall-għanijiet ta’ dan l-Att, fl-eżerċizzju tal-poteri u l-funzjonijiet tiegħu skont dan l-Att, l-Uffiċċju għandu jaġixxi b’mod trasparenti u mingħajr diskriminazzjoni:
-
-*10*
 
 Iżda sabiex ikunu żgurati t-trasparenza u n-nuqqas ta’ diskriminazzjoni fil-proċess, l-Uffiċċju ma għandux jippreġudika s-sensittività kummerċjali tal-investiment dirett barrani.
 
@@ -306,10 +266,6 @@ Iżda sabiex ikunu żgurati t-trasparenza u n-nuqqas ta’ diskriminazzjoni fil-
 (7) Minkejja d-dispożizzjonijiet tas-subartikolu (6), l-awditur intern tal-Uffiċċju għandu jkollu s-setgħa jara kwalunkwe rekords u dokumenti skont ma jkun meħtieġ fit-twettiq ta’ dmirijietu, skont kif permess mil-liġi.
 
 (8) Kull persuna li, ħlief kif provdut jew permess skont dan l- Att jew għall-finijiet tiegħu, tikkomunika jew tipprova tikkomunika lil xi persuna oħra xi kwistjoni jew ħaġa oħra li tkun ġiet għall-attenzjoni tagħha jew li kienet fil-pussess tagħha fil-qadi ta’ dmirijietha skont dan l-Att bħala uffiċjal jew impjegat tal-Uffiċċju, tkun ħatja ta’ reat u jekk tinstab ħatja tista’ teħel multa ta’ mhux anqas minn elf (€1,000) euro u mhux aktar minn għoxrin elf (€20,000) euro, jew priġunerija għal żmien ta’ mhux iżjed minn sitt (6) xhur, jew tali multa u priġunerija flimkien.
-
-*11*
-
-INVESTIMENT DIRETT BARRANI [KAP. 620.
 
 ### 10. Kunflitt ta’ interess.
 
@@ -333,11 +289,7 @@ Iżda fejn l-uffiċjal jew l-impjegat ma jiżvelax dan l-interess, tkun biss fid
 
 (2) L-informazzjoni msemmija fis-subartikolu (1) għandha tinkludi:
 
-(a) l-istruttura ta’ sjieda tal-investitur barrani u tal-impriża li fiha l-investiment dirett barrani jkun ippjanat jew tlesta, inkluż informazzjoni dwar l-investitur aħħari u, jew is- [KAP. 620. INVESTIMENT DIRETT BARRANI
-
-sid benefiċjarju u l-parteċipazzjoni fil-kapital;
-
-*12*
+(a) l-istruttura ta’ sjieda tal-investitur barrani u tal-impriża li fiha l-investiment dirett barrani jkun ippjanat jew tlesta, inkluż informazzjoni dwar l-investitur aħħari u, jew is-sid benefiċjarju u l-parteċipazzjoni fil-kapital;
 
 (b) il-valur approssimattiv tal-investiment dirett barrani;
 
@@ -359,13 +311,9 @@ sid benefiċjarju u l-parteċipazzjoni fil-kapital;
 
 (b) impriża, organizzazzjoni, fondazzjoni jew entità oħra tal-istess kumpanija minn grupp li jappartjeni lill-investitur barrani; jew
 
-(ċ) membru tal-familja tal-investitur barrani, li jkun qarib tal-investitur barrani mid-demm jew biż-żwieġ, fil-linja diretta f’kull grad jew fil-linja kollaterali sat-tielet grad inklużivament jew minn impriża, organizzazzjoni, fondazzjoni jew entità oħra li fuqha l-imsemmi membru jeżerċita awtorità. 12. (1) Fi żmien ħamest (5) ijiem ta’ xogħol minn meta jirċievi n-notifika msemmija fl-artikolu (5), u mhux iktar tard minn INVESTIMENT DIRETT BARRANI [KAP. 620.
+(ċ) membru tal-familja tal-investitur barrani, li jkun qarib tal-investitur barrani mid-demm jew biż-żwieġ, fil-linja diretta f’kull grad jew fil-linja kollaterali sat-tielet grad inklużivament jew minn impriża, organizzazzjoni, fondazzjoni jew entità oħra li fuqha l-imsemmi membru jeżerċita awtorità. 12. (1) Fi żmien ħamest (5) ijiem ta’ xogħol minn meta jirċievi n-notifika msemmija fl-artikolu (5), u mhux iktar tard minn ħamest (5) ijiem ta’ xogħol mill-imsemmija rċevuta, l-Uffiċċju għandu jiddetermina jekk l-investiment dirett barrani għandux ikun soġġett għal skrinjar.
 
 *Proċess ta’ skrinjar.*
-
-ħamest (5) ijiem ta’ xogħol mill-imsemmija rċevuta, l-Uffiċċju għandu jiddetermina jekk l-investiment dirett barrani għandux ikun soġġett għal skrinjar.
-
-*13*
 
 (2) Sabiex jasal għad-deċiżjoni tiegħu, l-Uffiċċju jista’ jitlob kull informazzjoni addizzjonali meħtieġa mill-investitur barrani, u jista’ jitlob il-kjarifiki u l-ispjegazzjonijiet li jqis li jkunu meħtieġa għad-deliberazzjonijiet u l-konklużjonijiet tiegħu. Il-proċess mibdi skont is-subartikolu (1) u l-imsemmi perjiodu ta’ żmien stabbilit għandu jkun meqjus sospiż sakemm l-informazzjoni kollha u l-kjarifiki mitluba jkunu pprovduti lill-Uffiċċju.
 
@@ -379,11 +327,7 @@ Iżda fejn iqis li huwa meħtieġ, l-Uffiċċju jista’ jestendi l-perjodu meħ
 
 (6) Meta l-Uffiċċju jikkonkludi li l-investiment dirett barrani ma jaffettwax is-sigurtà jew l-ordni pubblika ta’ Malta, skont il-proċess stabbilit fis-subartikolu (4), huwa għandu, fi żmien ħamest (5) ijiem ta’ xogħol mid-data tad-deċiżjoni, jinforma lill-investitur barrani bid-deċiżjoni tiegħu.
 
-(7) Meta l-Uffiċċju jikkonkludi li l-investiment dirett barrani jmur kontra s-sigurtà u l-ordni pubblika ta’ Malta, huwa jista’ jikkundizzjona, jipprojbixxi jew ixolji tali investiment, kif ikun il-każ, u għandu jinforma bil-miktub lill-investitur barrani bid-deċiżjoni tiegħu. In-notifika bid-deċiżjoni għandha tinkludi ġustifikazzjoni [KAP. 620. INVESTIMENT DIRETT BARRANI
-
-sempliċi u raġonevoli.
-
-*14*
+(7) Meta l-Uffiċċju jikkonkludi li l-investiment dirett barrani jmur kontra s-sigurtà u l-ordni pubblika ta’ Malta, huwa jista’ jikkundizzjona, jipprojbixxi jew ixolji tali investiment, kif ikun il-każ, u għandu jinforma bil-miktub lill-investitur barrani bid-deċiżjoni tiegħu. In-notifika bid-deċiżjoni għandha tinkludi ġustifikazzjoni sempliċi u raġonevoli.
 
 (8) Meta investiment jiġi kkundizzjonat, ipprojbit jew xolt wara d-deċiżjoni tal-Uffiċċju skont is-subartikolu (7), l-investitur barrani u kull persuna, impriża, organizzazzjoni, fondazzjoni jew entità oħra li jkollha interess fl-imsemmi investiment, ma għandhomx ikollhom il-jedd li jieħdu xi kumpens jew rimborż, tkun xi tkun ir-raġuni.
 
@@ -403,11 +347,7 @@ sempliċi u raġonevoli.
 
 (d) fil-każ ta’ persuna ġuridika jew għaqda oħra ta’ persuni, billi jingħata f’idejn uffiċjal jew impjegat tagħhom fl-uffiċċju reġistrat jew prinċipali, jew billi jintbagħat permezz ta’ ittra reġistrata indirizzata lil tali korp f’dak l-uffiċċju; jew
 
-(e) f’kull każ li fih ma jkunx raġonevolment possibbli li ssir notifika b’xi wieħed mill-mezzi hawn imsemmija, kemm lil kull waħda mill-persuni li lilhom għandha ssir in-notifika jew jingħata avviż, kif ukoll lil xi waħda jew aktar minnhom, in-notifika, id-deċiżjoni jew xi strument jew INVESTIMENT DIRETT BARRANI [KAP. 620.
-
-dokument ieħor, li għandhom jiġu notifikati jew mogħtija, għandhom jitwaħħlu f’post prominenti fil-fond li jkun jirreferi għalih u jibqgħu hekk imwaħħla għal ħamest (5) ijiem ta’ xogħol u billi l-imsemmi avviż, deċiżjoni jew strument jew dokument jiġu ppubblikati f’gazzetta lokali. Meta n-notifika, id-deċiżjoni jew xi strument jew dokument ieħor li għandhom jiġu notifikati jew mogħtija jitwaħħlu f’post fil-fond, iżda jitneħħew qabel l-iskadenza tal-ħamest (5) ijiem ta’ xogħol, l-imsemmija notifika, deċiżjoni jew strument jew dokument għandhom jerġgħu jitwaħħlu u jibqgħu hekk imwaħħla għall-perjodu rimanenti minn meta d-dokument ikun tneħħa.
-
-*15*
+(e) f’kull każ li fih ma jkunx raġonevolment possibbli li ssir notifika b’xi wieħed mill-mezzi hawn imsemmija, kemm lil kull waħda mill-persuni li lilhom għandha ssir in-notifika jew jingħata avviż, kif ukoll lil xi waħda jew aktar minnhom, in-notifika, id-deċiżjoni jew xi strument jew dokument ieħor, li għandhom jiġu notifikati jew mogħtija, għandhom jitwaħħlu f’post prominenti fil-fond li jkun jirreferi għalih u jibqgħu hekk imwaħħla għal ħamest (5) ijiem ta’ xogħol u billi l-imsemmi avviż, deċiżjoni jew strument jew dokument jiġu ppubblikati f’gazzetta lokali. Meta n-notifika, id-deċiżjoni jew xi strument jew dokument ieħor li għandhom jiġu notifikati jew mogħtija jitwaħħlu f’post fil-fond, iżda jitneħħew qabel l-iskadenza tal-ħamest (5) ijiem ta’ xogħol, l-imsemmija notifika, deċiżjoni jew strument jew dokument għandhom jerġgħu jitwaħħlu u jibqgħu hekk imwaħħla għall-perjodu rimanenti minn meta d-dokument ikun tneħħa.
 
 ## TAQSIMA V — Poteri Eżekuttivi
 
@@ -428,10 +368,6 @@ Iżda jekk l-investitur barrani ma jissodisfax il-kundizzjonijiet imposti mill-U
 ### 16. Nuqqas ta’ notifika.
 
 Meta kwalunkwe persuna involuta f’investiment dirett barrani tonqos milli tinnotifika l-Uffiċċju skont id-dispożizzjonijiet tal-artikolu 11, l-investiment għandu jkun awtomatikament meqjus bħala wieħed li jikser id-dispożizzjonijiet ta’ dan l-Att u l-Uffiċċju jista’, fid-diskrezzjoni tiegħu, jieħu dawk il-miżuri kollha meħtieġa sabiex ixolji l-investiment.
-
-*16*
-
-[KAP. 620. INVESTIMENT DIRETT BARRANI
 
 ## TAQSIMA VI — Penali amministrattivi
 
@@ -463,11 +399,7 @@ Iżda l-impożizzjoni ta’ kwalunkwe piena amministrattiva għandha tkun mingħ
 
 u għandha ssir b’referenza speċifika għad-dispożizzjonijiet ta’ dan l-artikolu.
 
-(4) Kull penali amministrattiva li persuna tista’ teħel skont dan l-Att għandha tkun dovuta u titħallas minn dik il-persuna, u tali persuna ma għandhiex tkun eżentata minn xi penali ogħla jew ulterjuri li tista’ tkun weħlet jew tista’ teħel skont id-dispożizzjonijiet rilevanti INVESTIMENT DIRETT BARRANI [KAP. 620.
-
-ta’ dan l-Att.
-
-*17*
+(4) Kull penali amministrattiva li persuna tista’ teħel skont dan l-Att għandha tkun dovuta u titħallas minn dik il-persuna, u tali persuna ma għandhiex tkun eżentata minn xi penali ogħla jew ulterjuri li tista’ tkun weħlet jew tista’ teħel skont id-dispożizzjonijiet rilevanti ta’ dan l-Att.
 
 (5) Pieni taħt is-subartikolu (2) għandhom ikomplu jakkumulaw sakemm tinġieb prova suffiċjenti li l-miżuri neċessarji ġew effettivament meħuda.
 
@@ -492,10 +424,6 @@ Iżda sakemm ma jkunx preskritt mod ieħor bil-liġi, oġġezzjoni magħmula sko
 *Kap. 490.*
 
 (2) Minkejja kull ħaġa li tinsab fl-Att dwar il-Ġustizzja Amministrattiva, it-Tribunal ta’ Reviżjoni Amministrattiva għandu jinnotifika r-rikors tal-appell, ippreżentat fir-reġistru tiegħu lill-intimat mingħajr dewmien. L-intimat għandu jkollu d-dritt li jippreżenta risposta bil-miktub fi żmien għoxrin (20) ġurnata mid-data tan-notifika. Sussegwentement it-Tribunal għandu jiffissa data għas-smigħ fi żmien tmint (8) ijiem ta’ xogħol mill-preżentata tar-risposta mill-intimat fil-limitu ta’ żmien imsemmi jew, jekk l-ebda risposta ma tkun ġiet ippreżentata, mill-iskadenza ta’ dak iż-żmien. It-Tribunal għandu, wara li jappunta r-rikors għas-smigħ, jiddeċiedi fuq il-mertu wara li jisma’ kull prova li jidhirlu xierqa, fl-iqsar żmien possibbli, iżda mhux aktar tard minn sitt (6) xhur mill-jum meta l-applikazzjoni tkun ġiet debitament notifikata.
-
-*18*
-
-[KAP. 620. INVESTIMENT DIRETT BARRANI
 
 * Kap. 490.     Kap. 12.*
 
@@ -526,10 +454,6 @@ Attivitajiet
 (a) infrastruttura essenzjali, kemm fiżika kif ukoll virtwali, inklużi faċilitajiet tal-enerġija, trasport, ilma, saħħa, komunikazzjonijiet, midja, proċessar jew ħażna ta’ data, ajru spazjali, difiża, infrastruttura elettorali jew finanzjarja, u faċilitajiet sensittivi, kif ukoll artijiet u proprjetà immobbli kruċjali għall-użu ta’ tali infrastruttura;
 
 (b) teknoloġiji essenzjali u oġġetti b’użu doppju kif definiti fil-punt 1 tal-Artikolu 2 tar-Regolament tal-Kunsill (KE) Nru 428/2009 (15), inklużi intelliġenza artifiċjali, robotika, semi-kondutturi, ċibersigurtà, ajru spazjali, difiża, ħażna tal-enerġija, teknoloġiji kwantum u nukleari, kif ukoll nanoteknoloġiji u bijoteknoloġiji;
-
-*19*
-
-INVESTIMENT DIRETT BARRANI [KAP. 620.
 
 (ċ) provvista ta’ inputs essenzjali, inklużi l-enerġija jew materja prima, kif ukoll is-sigurtà tal-ikel;
 

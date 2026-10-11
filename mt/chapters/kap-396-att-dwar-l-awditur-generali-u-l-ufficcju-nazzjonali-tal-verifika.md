@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Awditur Ġenerali u l-Uffiċċju Nazzjonali tal-Verifika (Cap. 396)
 
-*1*
-
-L-UFFIĊĊJU NAZZJONALI TAL-VERIFIKA [KAP. 396.
-
 **KAPITOLU 396**
 
 **ATT DWAR L-AWDITUR ĠENERALI U**
@@ -95,13 +91,11 @@ Jekk l-Awditur Ġenerali, matul jew wara xi investigazzjoni, ikun tal-fehma li j
 
 *Kap. 601.*
 
-(d) Jekk l-Awditur Ġenerali jagħmel xi oġġezzjoni għal xi parti minn dawk id-dikjarazzjonijiet, huwa għandu jiċċertifika dan billi jagħmel fuqhom dawk ir-rimarki li huwa jaħseb li jkunu adatti, u d-dikjarazzjonijiet għandhom jiġu pubblikati u mqegħdin fuq il-Mejda L-UFFIĊĊJU NAZZJONALI TAL-VERIFIKA [KAP. 396. tal-Kamra tad-Deputati flimkien ma’ dawn ir-rimarki. (e) L-Awditur Ġenerali għandu jeżamina d-dikjarazzjonijiet u l-kontijiet imħejjijin u lilu mibgħuta mill-Accountant General skont ma hemm fl-Att dwar il-Ġestjoni tal-Finanzi Pubbliċi u għandu jagħmel rapport skont ma hemm provdut u hu meħtieġ b’dan l- Att, bl-Att dwar il-Ġestjoni tal-Finanzi Pubbliċi u ta’ kull regolament magħmul bis-saħħa tagħhom, jew hekk kif l-Awditur Ġenerali jista’ jaħseb li jkun sewwa u xieraq.
+(d) Jekk l-Awditur Ġenerali jagħmel xi oġġezzjoni għal xi parti minn dawk id-dikjarazzjonijiet, huwa għandu jiċċertifika dan billi jagħmel fuqhom dawk ir-rimarki li huwa jaħseb li jkunu adatti, u d-dikjarazzjonijiet għandhom jiġu pubblikati u mqegħdin fuq il-Mejda tal-Kamra tad-Deputati flimkien ma’ dawn ir-rimarki. (e) L-Awditur Ġenerali għandu jeżamina d-dikjarazzjonijiet u l-kontijiet imħejjijin u lilu mibgħuta mill-Accountant General skont ma hemm fl-Att dwar il-Ġestjoni tal-Finanzi Pubbliċi u għandu jagħmel rapport skont ma hemm provdut u hu meħtieġ b’dan l- Att, bl-Att dwar il-Ġestjoni tal-Finanzi Pubbliċi u ta’ kull regolament magħmul bis-saħħa tagħhom, jew hekk kif l-Awditur Ġenerali jista’ jaħseb li jkun sewwa u xieraq.
 
 ### 2.
 
 L-Awditur Ġenerali għandu jeżamina, b’mod partikolari, dawk il-kotba u notamenti li d-dipartimenti tal-Gvern huma meħtieġa li jżommu bl-Att dwar il-Ġestjoni tal-Finanzi Pubbliċi jew bis-saħħa tiegħu jew b’kull liġi oħra li tista’ minn żmien għal żmien temenda, tissupplimenta jew tissostitwixxi dak l-Att, u għandu f’dak ir-rapport jiddikjara l-fehma tiegħu dwar jekk dawk il-kotba u notamenti jkunx tassew fihom dak it-tagħrif li jkun meħtieġ skont policies dikjarati dwar il-verifika tal-Gvern ta’ Malta.
-
-*3*
 
 *Kap. 601.*
 
@@ -165,10 +159,6 @@ Kull rapport li jsir mill-Awditur Ġenerali skont il-paragrafu 5 ta’ din l-Isk
 
 (ii) dawk il-kontijiet u rapporti finanzjarji li jitqiegħdu quddiem il-Kamra tad-Deputati bis-saħħa ta’ xi liġi jew skontha.
 
-*5*
-
-L-UFFIĊĊJU NAZZJONALI TAL-VERIFIKA [KAP. 396.
-
 (iii) il-kontijiet ta’ dawk l-awtoritajiet pubbliċi jew korpi li jamministraw, ikollhom f’idejhom jew jużaw fondi li jappartjenu direttament jew indirettament lill-Gvern ta’ Malta;
 
 (iv) il-funzjonijiet ta’ kumpanniji jew entijiet oħra fejn il-Gvern ta’ Malta jkollu mhux anqas minn 51 fil-mija tal-ishma;
@@ -225,13 +215,11 @@ Dawk il-funzjonarji jinħatru b’dawk il-patti u jirċievu dik ir-rimunerazzjon
 
 ### 3.
 
-Ħlief hekk kif jista’ jiġi espressament provdut b’xi liġi, l- Awditur Ġenerali, u kull uffiċjal awtorizzat tal-Uffiċċju Nazzjonali tal-Verifika, ikollu jedd ta’ aċċess ħieles f’kull żmien raġonevoli dwar dik l-informazzjoni mingħand funzjonarji u persunal ieħor ta’ L-UFFIĊĊJU NAZZJONALI TAL-VERIFIKA [KAP. 396. dipartimenti u uffiċċji tal-Gvern, jew mingħand dawk il-korpi li jkunu suġġetti għall-verifika tiegħu, li huma jistgħu jenħtieġu biex iwettqu dmirijiethom sew skont il-liġi, u huma jkollhom jedd li jirċievu mingħand dawk il-funzjonarji u persunal ieħor dawk ir-rapporti u spjegazzjonijiet li huma jistgħu jqisu li jkunu meħtieġa għal dawk l-għanijiet.
+Ħlief hekk kif jista’ jiġi espressament provdut b’xi liġi, l- Awditur Ġenerali, u kull uffiċjal awtorizzat tal-Uffiċċju Nazzjonali tal-Verifika, ikollu jedd ta’ aċċess ħieles f’kull żmien raġonevoli dwar dik l-informazzjoni mingħand funzjonarji u persunal ieħor ta’ dipartimenti u uffiċċji tal-Gvern, jew mingħand dawk il-korpi li jkunu suġġetti għall-verifika tiegħu, li huma jistgħu jenħtieġu biex iwettqu dmirijiethom sew skont il-liġi, u huma jkollhom jedd li jirċievu mingħand dawk il-funzjonarji u persunal ieħor dawk ir-rapporti u spjegazzjonijiet li huma jistgħu jqisu li jkunu meħtieġa għal dawk l-għanijiet.
 
 ### 4.
 
 L-Awditur Ġenerali jista’ wkoll jordna li jsiru riċerki, u li jittieħdu estratti, minn kull ktieb, dokument jew record li jkun hemm ġewwa xi fond ta’ dipartiment jew uffiċċju tal-Gvern, jew ta’ korpi li dwarhom ikollu s-setgħa li jagħmel verifika, mingħajr ma jkollu jħallas ebda dritt għal dak li jagħmel minkejja kull liġi jew regolament li jkun jgħid xort’oħra.
-
-*7*
 
 ### 5.
 
@@ -293,13 +281,11 @@ Il-Kumitat għandu jeleġġi chairman minn fost il-membri tiegħu, u jista’ ji
 
 ### 16.
 
-Max-xoljiment tal-Kamra tad-Deputati, għandu jitqies li l- Kumitat ikun ġie xolt sakemm jiġi kostitwit għal darb’oħra wara li l-Kamra terġa’ tiltaqa’ għall-ewwel darba. Meta max-xoljiment tal- Kamra tad-Deputati s-somma li jkollha tiġi stabbilita għall-għanijiet tal-paragrafu 8 tat-Taqsima III ma tkunx ġiet hekk stabbilita jew il-Kamra ma tkunx wara t-tmiem ta’ sena finanzjarja L-UFFIĊĊJU NAZZJONALI TAL-VERIFIKA [KAP. 396. stabbiliet dik is-somma, l-Awditur Ġenerali jkollu l-jedd jonfoq kull xahar somma li tkun ekwivalenti għal wieħed minn tnax tas-somma jew somom stabbiliti għas-sena finanzjarja ta’ qabel, sakemm dik is-somma tiġi hekk stabbilita.
+Max-xoljiment tal-Kamra tad-Deputati, għandu jitqies li l- Kumitat ikun ġie xolt sakemm jiġi kostitwit għal darb’oħra wara li l-Kamra terġa’ tiltaqa’ għall-ewwel darba. Meta max-xoljiment tal- Kamra tad-Deputati s-somma li jkollha tiġi stabbilita għall-għanijiet tal-paragrafu 8 tat-Taqsima III ma tkunx ġiet hekk stabbilita jew il-Kamra ma tkunx wara t-tmiem ta’ sena finanzjarja stabbiliet dik is-somma, l-Awditur Ġenerali jkollu l-jedd jonfoq kull xahar somma li tkun ekwivalenti għal wieħed minn tnax tas-somma jew somom stabbiliti għas-sena finanzjarja ta’ qabel, sakemm dik is-somma tiġi hekk stabbilita.
 
 ### 17.
 
 Ma għandhiex tintlaqat il-validità ta’ kull proċediment tal- Kumitat meta jkun hemm xi vakanza fost il-membri tiegħu jew xi difett fil-ħatra jew nomina ta’ xi wieħed mill-membri tiegħu.
-
-*9*
 
 ## TAQSIMA V — Kontijiet tal-Uffiċċju Nazzjonali tal-Verifika
 

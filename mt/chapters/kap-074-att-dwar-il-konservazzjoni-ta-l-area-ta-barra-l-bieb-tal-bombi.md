@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Konservazzjoni ta' l-Area ta' Barra l-Bieb tal-Bombi (Cap. 74)
 
-*1*
-
-L-BIEB TAL-BOMBI [KAP. 74.
-
 **KAPlTOLU 74**
 
 **ATT DWAR IL-KONSERVAZZJONI TAL-AREA TA’**

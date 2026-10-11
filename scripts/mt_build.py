@@ -101,7 +101,7 @@ def plan():
             typ = "code" if re.search(r"\bCode\b", x["title"]) else "act"
             d = {"kind": "cap", "type": typ, "dir": "chapters",
                  "fname": {"en": f"cap-{num_pad(num)}-{slugify(x['title'])}", "mt": f"kap-{num_pad(num)}-{slugify(x.get('title_mt') or x['title'])}"},
-                 "identifier": f"Cap. {num}"}
+                 "identifier": re.sub(r"\s*\(R\)\s*$", "", label).strip()}
         else:
             parent_dir = "other"
             d = {"kind": "other", "type": "act", "dir": "other",
@@ -116,7 +116,7 @@ def plan():
             crep = "(R)" in c["label"] or bool(re.search(r"\b(Repealed|Imħassar|Imħassrin|Imħassra|Revoked|Revokati)\b", c.get("note", "")))
             docs.append({"kind": "sl", "type": "subsidiary_legislation", "dir": f"subsidiary/{parent_dir}",
                          "fname": {"en": f"sl-{num_pad(n)}-{slugify(c['title'])}", "mt": f"ls-{num_pad(n)}-{slugify(c.get('title_mt') or c['title'])}"},
-                         "identifier": f"S.L. {n}", "base": cb, "label": c["label"],
+                         "identifier": re.sub(r"\s*\(R\)\s*$", "", c["label"]).strip() or f"S.L. {n}", "base": cb, "label": c["label"],
                          "title": {"en": c["title"], "mt": c.get("title_mt") or ""},
                          "note": {"en": c.get("note", ""), "mt": c.get("note_mt", "")}, "repealed": crep,
                          "parent": d["identifier"]})

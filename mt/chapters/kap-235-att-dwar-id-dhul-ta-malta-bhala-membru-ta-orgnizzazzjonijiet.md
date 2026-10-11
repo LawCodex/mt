@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar id-Dħul ta' Malta bħala membru ta' Orgnizzazzjonijiet Finanzjarji Internazzjonali (Cap. 235)
 
-*1*
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235.
-
 **KAPITOLU 235**
 
 **ATT DWAR ID-DĦUL TA’ MALTA BĦALA**
@@ -31,11 +27,11 @@ Biex Malta tkun tista’ ssir membru tal-Bank Internazzjonali għar- Rikostruzzj
 
 (26 ta’ Ġunju, 1973)\* Sar liġi bl-ATT XXVIII tal-1973.
 
-## 1. Titolu fil-qosor.
+### 1. Titolu fil-qosor.
 
 Dan l-Att jista’ jissejjaħ l-Att dwar id-Dħul ta’ Malta bħala membru ta’ Organizzazzjonijiet Finanzjarji Internazzjonali.
 
-## 2. Tifsir.
+### 2. Tifsir.
 
 F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra -
 
@@ -57,7 +53,7 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra -
 
 "Riżoluzzjoni dwar Membri" tfisser ir-riżoluzzjonijiet adottati mill-Bord tal-Gvernaturi tal-Bank, tal-Korporazzjoni u tal- Assoċjazzjoni, rispettivament, li jispeċifikaw il-pattijiet u l-kondizzjonijiet li taħthom Malta tidħol membru f ’dawn l- Organizzazzjonijiet.
 
-## 3. Awtorizzazzjoni biex jiġi firrmat u aċċettat kull Ftehim minn dawn.
+### 3. Awtorizzazzjoni biex jiġi firrmat u aċċettat kull Ftehim minn dawn.
 
 Il-Ministru huwa b’dan l-Att awtorizzat li f’isem il-Gvern ta’ Malta jiffirma xi wieħed jew aktar mill-ftehim li ġej, jiġifieri, il- Ftehim tal-Bank, il-Ftehim tal-Korporazzjoni u l-Ftehim tal- Assoċjazzjoni u biex jiddepożita, fil-każ tal-Ftehim tal-Bank, għand il-Gvern tal-Istati Uniti, u, fil-każijiet tal-Ftehim tal- Korporazzjoni u tal-Ftehim tal-Assoċjazzjoni għand il-Bank, l-atti ta’ aċċettazzjoni tal-imsemmija Ftehim u tal-pattijiet u l- KAP. 235.] ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI
 
@@ -67,11 +63,11 @@ kondizzjonijiet preskritti bis-saħħa tagħhom rispettivament għad-dħul ta’
 
 *2*
 
-## 4. Effett tal-firmar ta’ kull Ftehim.
+### 4. Effett tal-firmar ta’ kull Ftehim.
 
 Id-disposizzjonijiet tal-artikoli li ġejjin għandu jkollhom effett dwar kull Ftehim imsemmi fl-artikolu 3 minnufih kif il- Ftehim relattiv jiġi ffirmat skont id-disposizzjonijiet ta’ dak l-artikolu.\*
 
-## 5. Disposizzjonijiet finanzjarji dwar id-dħul bħala membru.
+### 5. Disposizzjonijiet finanzjarji dwar id-dħul bħala membru.
 
 (1) Jistgħu jitħallsu mill-Fond Konsolidat fuq mandat tal- Ministru s-somom kollha meħtieġa sabiex isiru -
 
@@ -85,15 +81,11 @@ Id-disposizzjonijiet tal-artikoli li ġejjin għandu jkollhom effett dwar kull F
 
 Iżda meta l-Ministru jkun ta direttiva lill-Bank Ċentrali ta’ Malta biex joħloq u joħroġ biljetti ta’ flus jew obbligazzjonijiet oħra kif intqal qabel, il-Ministru għandu wkoll jintrabat fermament u irrevokabbilment li jħallas lura lill-Bank Ċentrali ta’ Malta dak l-ammont jew dawk l-ammonti ta’ biljetti ta’ flus jew obbligazzjonijiet oħra li jistgħu jiġu mitluba li jitħallsu mill-Bank jew mill-Assoċjazzjoni, u li dawk il-ħlasijiet lura jsiru kemm jista’ jkun malajr u f’ebda każ aktar tard minn xahar wara d-data tal-ħlas lill-Bank jew lill-Assoċjazzjoni; u f’każ ta’ kull ħlas bħal dak il-ħlasijiet lura kollha dovuti kif intqal qabel ikunu għall-karigu tal- Fond Konsolidat u s-somom meħtieġa għal dawk il-ħlasijiet lura huma b’dan l-Att approprjati għal dak l-għan.
 
-(3) Kull somma riċevuta mill-Bank Ċentrali ta’ Malta mingħand il-Bank jew il-Korporazzjoni akkont tas-sottoskrizzjoni ta’ Malta għall-istock tal-kapital tagħhom u kull somma riċevuta ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235.
+(3) Kull somma riċevuta mill-Bank Ċentrali ta’ Malta mingħand il-Bank jew il-Korporazzjoni akkont tas-sottoskrizzjoni ta’ Malta għall-istock tal-kapital tagħhom u kull somma riċevuta mill-Bank Ċentrali ta’ Malta mingħand l-Assoċjazzjoni akkont tas-sottoskrizzjonijiet ta’ Malta fihom jew kull riżorsi supplementari provduti minnha għandhom jitħallsu fil-Fond Konsolidat.
 
 \*Il-Ftehim tal-Bank ġie iffirmat fis-26 ta’ Settembru, 1983.
 
-mill-Bank Ċentrali ta’ Malta mingħand l-Assoċjazzjoni akkont tas-sottoskrizzjonijiet ta’ Malta fihom jew kull riżorsi supplementari provduti minnha għandhom jitħallsu fil-Fond Konsolidat.
-
-*3*
-
-## 6. Ċerti disposizzjonijiet tal-Ftehim mogħtija forza ta’ liġi f’Malta.
+### 6. Ċerti disposizzjonijiet tal-Ftehim mogħtija forza ta’ liġi f’Malta.
 
 Id-disposizzjonijiet ta’:
 
@@ -109,11 +101,11 @@ ikollhom forza ta’ liġi f’Malta, hekk iżda, li ebda ħaġa li tinsab fl- A
 
 (iii) li tagħti lill-Bank, lill-Korporazzjoni jew lill- Assoċjazzjoni xi eżenzjoni minn taxxi jew dazji li fil-fatt ma jkunux ħlief drittijiet għal servizzi mogħtija.
 
-## 7. Setgħa tal-Ministru li jagħmel ordnijiet.
+### 7. Setgħa tal-Ministru li jagħmel ordnijiet.
 
 Il-Ministru jista’ b’ordni jagħmel dawk id-disposizzjonijiet li jkunu meħtieġa biex jagħti effett lil kull waħda mid-disposizzjonijiet tal-Ftehim tal-Bank, tal-Ftehim tal-Korporazzjoni u tal-Ftehim tal-Assoċjazzjoni.
 
-## 8. It-test Ingliż jipprevali fl-Iskedi.
+### 8. It-test Ingliż jipprevali fl-Iskedi.
 
 Fl-Iskedi li jinsabu ma’ dan l-Att, fil-każ ta’ konflitt bejn it-test Malti u t-test Ingliż, it-test Ingliż għandu jipprevali.
 
@@ -152,8 +144,6 @@ L-Assoċjazzjoni tkun immexxija fid-deċiżjonijiet kollha tagħha bid-disposizz
 ARTIKOLU l.Dħul bħala Membru
 
 (a) Il-membri oriġinali tal-Assoċjazzjoni jkunu dawk il-membri tal-Bank imniżżlin fl-Iskeda A li tinsab ma’ dan il-Ftehim li, fid-data jew qabel id-data speċifikata fis-Sezzjoni XI, Artikolu 2(ċ), jaċċettaw li jidħlu membri fl- Assoċjazzjoni.
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 5
 
 (b) Id-dħul bħala membri jkun miftuħ għal membri oħra tal-Bank f’dawk iż-żminijiet u skont dawk il-kondizzjonijiet li l-Assoċjazzjoni tista’ tistabbilixxi.
 
@@ -205,8 +195,6 @@ ARTIKOLU 2.Riżorsi Supplementari Provduti minn Membru fil-Flus ta’ Membru Ie�
 
 (b) L-Assoċjazzjoni għandha tagħti lill-membru li jikkontribwixxi Ċertifikat Speċjali tal-Iżvilupp li juri l-ammont u l-flus tar-riżorsi hekk kontribwiti u l-pattijiet u l-kondizzjonijiet tal-arranġament dwar dawk ir-riżorsi. Ċertifikat Speċjali tal- Iżvilupp ma jagħti ebda drittijiet għall-votazzjoni u jista’ jiġi trasferit biss lill- Assoċjazzjoni.
 
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 7
-
 (ċ) Ebda ħaga f’dan l-Artikolu ma tfixkel lill-Assoċjazzjoni milli taċċetta riżorsi minn membru fil-flus tiegħu stess taħt dawk il-kondizzjonijiet li jistgħu jiġu miftehma.
 
 **Sezzjoni IV**
@@ -253,9 +241,7 @@ ARTIKOLU 1.Użu ta’ Riżorsi u Kondizzjonijiet għall-għoti ta’ Finanzjamen
 
 (e) L-Assoċjazzjoni ma tipprovdix finanzjament għal xi proġett jekk il-membru li fit-territorju tiegħu l-proġett ikun qiegħed joġġezzjona għal dak il-finanzjament, ħlief li ma jkunx hemm ħtieġa li l-Assoċjazzjoni tassigura lilha nfisha li membri individwali ma jkunux joġġezzjonaw fil-każ ta’ finanzjament provdut lil organizzazzjoni pubblika internazzjonali jew reġjonali.
 
-(f) L-Assoċjazzjoni ma timponi ebda kondizzjonijiet li dak li tipprovdi bħala finanzjament jintefaq fit-territorji ta’ xi membru jew membri partikolari. Dan li ntqal ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 9
-
-ma jfixkilx lill-Assoċjazzjoni milli tħares xi restrizzjonijiet dwar l-użu ta’ fondi mposti skont id-disposizzjonijiet ta’ dan l-Istatut, inklużi restrizzjonijiet li għandhom x’jaqsmu ma’ riżorsi supplimentari skont ftehim bejn l-Assoċjazzjoni u l-kontributur.
+(f) L-Assoċjazzjoni ma timponi ebda kondizzjonijiet li dak li tipprovdi bħala finanzjament jintefaq fit-territorji ta’ xi membru jew membri partikolari. Dan li ntqal ma jfixkilx lill-Assoċjazzjoni milli tħares xi restrizzjonijiet dwar l-użu ta’ fondi mposti skont id-disposizzjonijiet ta’ dan l-Istatut, inklużi restrizzjonijiet li għandhom x’jaqsmu ma’ riżorsi supplimentari skont ftehim bejn l-Assoċjazzjoni u l-kontributur.
 
 (g) L-Assoċjazzjoni għandha tagħmel arranġamenti biex tiżgura li dak li tipprovdi bħala finanzjament jintuża biss għall-finijiet li għalih il-finanzjament jiġi provdut, u tingħata attenzjoni xierqa dwar ekonomija, effiċjenza u kummerċ internazzjonali kompetittiv u mingħajr ma jiġu meqjusa influwenzi jew konsiderazzjonijiet politiċi jew oħrajn mhux ta’ ekonomija.
 
@@ -323,9 +309,7 @@ ARTIKOLU 2.Bord tal-Gvernaturi
 
 (ċ) Il-Bord tal-Gvernaturi jista’ jiddelega lid-Diretturi Esekuttivi l-awtorità li jeżerċitaw kull waħda mis-setgħat tiegħu, ħlief is-setgħa li:
 
-(i) idaħħlu membri ġodda u jistabbilixxu l-kondizzjonijiet tad-dħul ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 11
-
-tagħhom;
+(i) idaħħlu membri ġodda u jistabbilixxu l-kondizzjonijiet tad-dħul tagħhom;
 
 (ii) jawtorizzaw sottoskrizzjonijiet addizzjonali u jistabbilixxu l-pattijiet u l-kondizzjonijiet dwarhom;
 
@@ -388,8 +372,6 @@ ARTIKOLU 5.President u Persunal
 (d) Fil-ħatra ta’ uffiċjali u ta’ persunal il-President għandu, bla ħsara għall-importanza li jiżgura l-ogħla livelli ta’ effiċjenza u ta’ kompetenza teknika, jikkunsidra b’mod xieraq l-importanza li jaħtar persunal fuq bażi ġeografika kbira kemm jista’ jkun possibbli.
 
 ARTIKOLU 6.Relazzjoni mal-Bank
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 13
 
 (a) L-Assoċjazzjoni għandha tkun entità separata u distinta mill-Bank u l-fondi tal-Assoċjazzjoni għandhom jinżammu separati u apparti minn dawk tal-Bank. L- Assoċjazzjoni ma għandhiex tissellef mingħand jew tislef lill-Bank, ħlief li dan ma jflxkilx lill-Assoċjazzjoni milli tinvesti fondi li ma jkunux meħtieġa għall-ħidma finanzjarja tagħha f’titoli mal-Bank.
 
@@ -455,7 +437,7 @@ ARTIKOLU 4.Drittijiet u Dmirijiet ta’ Gvernijiet li ma Jibqgħux Membri
 
 (i) Il-gvern ikun meħlus minn kull obbligu ieħor lejn l-Assoċjazzjoni akkont tas-sottoskrizzjoni tiegħu, ħlief li l-gvern għandu jħallas minnufih lill- Assoċjazzjoni ammonti dovuti u li jkunu għadhom ma tħallsux fid-data meta l-gvern spiċċa minn membru u li fil-fehma tal-Assoċjazzjoni jkollha bżonnhom biex tħallas l-obbligi li kellha f’dik il-ġurnata taħt il-ħidma tagħha tal-finanzjament.
 
-(ii) L-Assoċjazzjoni għandha tagħti lura lill-gvern fondi mħallsin mill-gvern akkont tas-sottoskrizzjoni tiegħu jew li jinkisbu minnha bħala ħlasijiet lura ta’ kapital u li jkunu miżmuma mill-Assoċjazzjoni fid-data li fiha l-gvern ma jkunx baqa’ membru, ħlief meta fil-fehma tal-Assoċjazzjoni dawk il-fondi tkun teħtieġhom biex tħallas l-obbligi li kellha f’dik il-ġurnata taħt il-ħidma tagħha tal-finanzjament. ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 15
+(ii) L-Assoċjazzjoni għandha tagħti lura lill-gvern fondi mħallsin mill-gvern akkont tas-sottoskrizzjoni tiegħu jew li jinkisbu minnha bħala ħlasijiet lura ta’ kapital u li jkunu miżmuma mill-Assoċjazzjoni fid-data li fiha l-gvern ma jkunx baqa’ membru, ħlief meta fil-fehma tal-Assoċjazzjoni dawk il-fondi tkun teħtieġhom biex tħallas l-obbligi li kellha f’dik il-ġurnata taħt il-ħidma tagħha tal-finanzjament.
 
 (iii) L-Assoċjazzjoni għandha tħallas lill-gvern parti pro rata ta’ ħlasijiet lura ta’ kapital riċevuti mill-Assoċjazzjoni wara d-data li fiha l-gvern spiċċa minn membru fuq self li jkun sar qabel dik id-data, ħlief dak li jkun sar minn riżorsi supplementari mogħtija lill-Assoċjazzjoni skont arranġamenti li jispeċifikaw drittijiet ta’ likwidazzjoni speċjali. Dik il-parti għandha tkun f’dak il-proporzjon tal-ammont kollu tal-kapital ta’ dak is-self kif l-ammont kollu mħallas mill-gvern akkont tas-sottoskrizzjoni tiegħu u li ma jkunx ingħata lura skont il-klawżola (ii) ta’ hawn fuq għandu mal-ammont kollu mħallas mill-membri kollha akkont tas-sottoskrizzjonijiet tagħhom li jkunu ġew użati jew fil-fehma tal-Assoċjazzjoni jkunu meħtieġa minnha biex tħallas l-obbligi tagħha taħt il-ħidma finanzjarja tagħha kif kienu fid-data li fiha l-gvern ma jkunx baqa’ membru. Dak il-ħlas mill- Assoċjazzjoni għandu jsir f’pagamenti meta u kif il-ħlasijiet lura ta’ kapital jiġu riċevuti mill-Assoċjazzjoni, iżda mhux iktar kmieni minn kull sena. Dawk il-pagamenti għandhom jitħallsu fil-flejjes riċevuti mill-Assoċjazzjoni iżda l- Assoċjazzjoni tista’ fid-diskrezzjoni tagħha tħallas fil-flus tal-gvern li jkun.
 
@@ -508,8 +490,6 @@ Proprjetà u attiv tal-Assoċjazzjoni, ikunu fejn ikunu qegħdin u jkunu miżmum
 ARTIKOLU 5.Immunità ta’ Arkivji
 
 L-arkivji tal-Assoċjazzjoni jkunu invjolabbli.
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 17
 
 ARTIKOLU 6.Ħelsien ta’ Attiv minn Restrizzjonijiet
 
@@ -577,8 +557,6 @@ Kull membru għandu jagħmel dak kollu li hu meħtieġ fit-territorji tiegħu st
 
 (ċ) Kull meta jkun hemm nuqqas ta’ ftehim bejn l-Assoċjazzjoni u pajjiż li ma jkunx baqa’ membru, jew bejn l-Assoċjazzjoni u xi membru waqt is-sospensjoni permanenti tal-Assoċjazzjoni, dak in-nuqqas ta’ ftehim għandu jintbagħat għall-arbitraġġ minn tribunal ta’ tliet arbitri, wieħed maħtur mill-Assoċjazzjoni, ieħor mill-pajjiż li jkollu x’jaqsam u umpire li, sakemm il-partijiet ma jiftehmux xort’oħra, jiġi nominat mill-President tal-Qorti tal-Ġustizzja Internazzjonali jew minn dik l-awtorità l-oħra kif jista’ jkun ġie preskritt b’regolament magħmul mill- Assoċjazzjoni. L-umpire ikollu s-setgħa sħiħa li jaqtal-kwistjonijiet kollha ta’ proċedura f’kull każ meta l-partijiet ma jkunux jaqblu dwarhom.
 
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 19
-
 **Sezzjoni XI**
 
 **Disposizzjonijiet Finali**
@@ -615,77 +593,33 @@ MAGĦMUL f’Wasħington, f’kopja waħda li tibqa’ depożitata fl-arkivji ta
 
 fl-Iskeda A d-data meta dan il-Ftehim ikun beda jseħħ skont is-Sezzjoni XI, Artikolu 1 ta’ dan il-Ftehim.
 
-*21*
+## SKEDA A - SOTTOSKRIŻŻJONIJIET INIŻJALI
 
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235.
+(U.S. $ Miljuni)\*
 
-SKEDA A - SOTTOSKRIŻŻJONIJIET INIŻJALI (U.S. $ Miljuni)\*
+## TAQSIMA I
 
-TAQSIMA I
+Awstralja 20.18 Ġermanja 52.96 Unjoni tas-Sud Afrika 10.09 Awstrija 5.04 Italja 18.16
 
-*10.09*
-
-Awstralja 20.18 Ġermanja 52.96 Unjoni tas-Sud Afrika Awstrija 5.04 Italja 18.16
-
-*131.14 320.29*
-
-Belġju 22.70 Ġapan 33.59 Renju Unit
-
-Kanada 37.83 Lussemburgu 1.01 Stati Uniti
-
-Danimarka 8.74 Olanda 27.74
+Belġju 22.70 Ġapan 33.59 Renju Unit 131.14 Kanada 37.83 Lussemburgu 1.01 Stati Uniti 320.29 Danimarka 8.74 Olanda 27.74
 
 Finlandja 3.83 Norveġja 6.72
 
-*763.07*
-
 Franza 52.96 Svezja 10.09
 
-TAQSIMA II
+763.07
 
-*5.04 3.70 10.09 1.01 3.03 1.51 5.80*
+## TAQSIMA II
 
-Afghanistan 1.01 Honduras 0.30 Filippini
-
-Arġentina 18.83 Iżlanda 0.10 Saudi Arabia Bolivja 1.06 Indja 40.35 Spanja
-
-Brażil 18.83 Indonesja 11.10 Sudan
-
-Burma 2.02 Iran 4.54 Tajlandja
-
-Ceylon 3.03 Iraq 0.76 Tuniżija
-
-Ċili 3.53 Irlanda 3.03 Turkija
-
-Ċina 30.26 Iżrael 1.68 Repubblika
+Afghanistan 1.01 Honduras 0.30 Filippini 5.04 Arġentina 18.83 Iżlanda 0.10 Saudi Arabia 3.70 Bolivja 1.06 Indja 40.35 Spanja 10.09 Brażil 18.83 Indonesja 11.10 Sudan 1.01 Burma 2.02 Iran 4.54 Tajlandja 3.03 Ceylon 3.03 Iraq 0.76 Tuniżija 1.51 Ċili 3.53 Irlanda 3.03 Turkija 5.80 Ċina 30.26 Iżrael 1.68 Repubblika
 
 Kolumbja 3.53 Ġordan 0.30 Għarbija
 
-*6.03 1.06 7.06 1.51 4.04*
+Costa Rica 0.20 Korea 1.26 Magħquda 6.03 Kuba 4.71 Lebanon 0.45 Urugwaj 1.06 Repubblika Libja 1.01 Venezwela 7.06 Dominikana 0.40 Malaja 2.52 Viet-Nam 1.51 Ekwador 0.65 Messiku 8.74 Jugożlavja 4.04 El Salvador 0.30 Marokk 3.53
 
-Costa Rica 0.20 Korea 1.26 Magħquda
+Etjopja 0.50 Nikaragwa 0.30 236.93 Ghana 2.36 Pakistan 10.09
 
-Kuba 4.71 Lebanon 0.45 Urugwaj
-
-Repubblika Libja 1.01 Venezwela
-
-Dominikana 0.40 Malaja 2.52 Viet-Nam
-
-Ekwador 0.65 Messiku 8.74 Jugożlavja
-
-El Salvador 0.30 Marokk 3.53
-
-*236.93*
-
-Etjopja 0.50 Nikaragwa 0.30
-
-Ghana 2.36 Pakistan 10.09
-
-*1000.00*
-
-Gre`ja 2.52 Panama 0.02 TOTAL
-
-Gwatemala 0.40 Paragwaj 0.30
+Gre`ja 2.52 Panama 0.02 TOTAL 1000.00 Gwatemala 0.40 Paragwaj 0.30
 
 Haiti 0.76 Peru 1.77
 
@@ -726,8 +660,6 @@ Il-Bank ikun immexxi fid-deċiżjonijiet kollha tiegħu skont l-għanijiet hawn 
 ARTIKOLU 1.Membri
 
 (a) Il-membri oriġinali tal-Bank ikunu dawk il-membri tal-Fond Monetarju Internazzjonali li jaċċettaw li jkunu membri tal-Bank qabel id-data speċifikata fis- Sezzjoni XI, Artikolu 2 (e).
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 23
 
 (b) Membri oħra tal-Fond jistgħu jidħlu membri, f’dawk iż-żminijiet u skont dawk il-kondizzjonijiet li jistgħu jiġu preskritti mill-Bank.
 
@@ -795,9 +727,7 @@ ARTIKOLU 9.Tiżmim tal-valur ta’ ċerti holdings ta’ flejjes tal-Bank
 
 (a) Kull meta (i) il-valur pari ta’ flejjes ta’ membru jiġi mnaqqas, jew (ii) il-valur tal-kambju barrani ta’ flejjes ta’ membru jkun, fil-fehma tal-Bank, diprezzat b’mod sinifikanti fit-territorji ta’ dak il-membru, il-membru għandu jħallas lill-Bank fi żmien raġonevoli ammont addizzjonali tal-flejjes tiegħu stess li jkun biżżejjed biex iżomm il-valur, kif kien fiż-żmien tas-sottoskrizzjoni inizjali, tal-ammont tal-flejjes ta’ dak il-membru li jkun miżmum mill-Bank u li jkun miksub minn flejjes li oriġinarjament tħallsu lill-Bank mill-membru taħt is-Sezzjoni II, Artikolu 7 (i), minn flejjes imsemmija fis-Sezzjoni IV, Artikolu 2 (b), jew minn xi flejjes addizzjonali li jkunu ġew mogħtija skont id-disposizzjonijiet ta’ dan il-paragrafu, u li ma jkunux inxtraw lura mill-membru b’deheb jew bi flejjes ta’ xi membru ieħor li jkunu aċċettabbli għall-Bank.
 
-(b) Kull meta l-valur pari tal-flejjes ta’ membru jiżdied, il-Bank għandu jagħti ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 25
-
-lura lil dak il-membru fi żmien raġonevoli ammont fil-flejjes ta’ dak il-membru li jkun daqs iż-żieda fil-valur tal-ammont ta’ dawk il-flejjes kif deskritt fil-paragrafu (a) ta’ hawn fuq.
+(b) Kull meta l-valur pari tal-flejjes ta’ membru jiżdied, il-Bank għandu jagħti lura lil dak il-membru fi żmien raġonevoli ammont fil-flejjes ta’ dak il-membru li jkun daqs iż-żieda fil-valur tal-ammont ta’ dawk il-flejjes kif deskritt fil-paragrafu (a) ta’ hawn fuq.
 
 (ċ) Id-disposizzjonijiet tal-paragrafi ta’ qabel dan jistgħu ma jiġux infurzati mill-Bank meta tibdil proporzjonat uniformi fil-valuri pari tal-flejjes tal-membri tiegħu kollha jkun sar mill-Fond Monetarju Internazzjonali.
 
@@ -865,8 +795,6 @@ ARTIKOLU 1.Mod tal-għoti jew faċilitazzjoni ta’ self
 
 \*Artikolu miżjud b’emenda b’seħħ mis-17 ta’ Diċembru, 1965.
 
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 27
-
 (ii) Billi jagħti jew jipparteċipa f’self dirett mill-fondi miġbura fis-suq ta’ membru, jew xort’oħra li l-Bank ikun issellef
 
 (iii) Billi jiggarantixxi għal kollox jew f’parti s-self mogħti minn investituri privati bil-mezzi ta’ investiment tas-soltu.
@@ -911,9 +839,7 @@ Fil-każ ta’ self magħmul taħt l-Artikolu 1 (a) (ii) ta’ din is-Sezzjoni m
 
 (i) Fil-każ ta’ self li jingħata taħt l-Artikolu 1 (a) (i) ta’ din is-Sezzjoni, il-kuntratti ta’ self għandhom jipprovdu li l-ħlasijiet lill-Bank tal-imgħax, drittijiet oħra u l-ammortizzament isiru fil-flejjes mislufa, kemm-il darba l-membru li fi flejjes tiegħu s-self ikun ġie mogħti ma jaqbilx li dawk il-ħlasijiet isiru fi flus jew flejjes oħra speċifikati. Bla ħsara għad-disposizzjonijiet tas-Sezzjoni II, Artikolu 9 (ċ), dawn il-ħlasijiet għandhom ikunu daqs il-valur ta’ dawk il-ħlasijiet skont il-kuntratt kif kien fiż-żmien li fih ikun ingħata s-self, f’dawk il-flejjes speċifikati għal hekk mill-Bank b’maġġoranza ta’ tliet-kwarti tal-voti kollha.
 
-(ii) Fil-każ ta’ self li jingħata taħt l-Artikolu 1 (a) (ii) ta’ din is-Sezzjoni, l- ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 29
-
-ammont totali pendenti u li jkollu jitħallas lill-Bank f’xi xorta waħda ta’ flus ma għandu f’ebda żmien ikun iktar mill-ammont totali tas-self pendenti li l-Bank ikun issellef taħt l-Artikolu 1 (a) (ii) u li jkollu jitħallas fl-istess flus.
+(ii) Fil-każ ta’ self li jingħata taħt l-Artikolu 1 (a) (ii) ta’ din is-Sezzjoni, l-ammont totali pendenti u li jkollu jitħallas lill-Bank f’xi xorta waħda ta’ flus ma għandu f’ebda żmien ikun iktar mill-ammont totali tas-self pendenti li l-Bank ikun issellef taħt l-Artikolu 1 (a) (ii) u li jkollu jitħallas fl-istess flus.
 
 (ċ) Jekk membru jbati b’xi restrizzjoni akuta ta’ kambju, hekk li s-servizz ta’ xi self kuntrattat minn dak il-membru jew garantit minnu jew minn waħda mill-aġenziji tiegħu ma jistax jingħata bil-mod stipulat, il-membru li jkun jista’ japplika għand il- Bank biex jinħall mill-kondizzjonijiet tal-ħlas. Jekk il-Bank ikun sodisfatt li xi ħall jkun fl-interess tal-membru partikolari u tal-operazzjonijiet tal-Bank u tal-membri kollha tiegħu b’mod ġenerali, il-Bank jista’ jaġixxi skont wieħed minn, jew skont iż-żewġ, paragrafi li ġejjin dwar is-servizz fis-sena kollu jew parti minnu:
 
@@ -972,8 +898,6 @@ ARTIKOLU 9.Twissija fuq it-titoli
 Kull titolu garantit jew maħruġ mill-Bank għandu juri fuq il-wiċċ tiegħu dikjarazzjoni li tidher sewwa fis-sens li ma jkunx obbligazzjoni ta’ xi gvern jekk ma jkunx dikjarat espressament fuq it-titolu.
 
 ARTIKOLU 10.Attività politika ipprojbita
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 31
 
 Il-Bank u l-uffiċjali tiegħu ma għandhomx jindaħlu fl-affarijiet politiċi ta’ xi membru; lanqas ma għandhom ikunu influwenzati fid-deċiżjonijiet tagħhom mix-xorta politika tal-membru jew tal-membri li jkunu. Konsiderazzjonijiet ekonomiċi biss ikunu rilevanti għad-deċiżjonijiet tagħhom, u dawn il-konsiderazzjonijiet jiġu meqjusa b’imparzjalità sabiex jintlaħqu l-għanijiet imsemmija fis-Sezzjoni I.
 
@@ -1047,9 +971,7 @@ Id-Diretturi Esekuttivi jkunu nominati jew eletti kull sentejn.
 
 (f) Quorum għal kull laqgħa tad-Diretturi Esekuttivi jkun b’maġġoranza tad- Diretturi, li jeżerċitaw mhux inqas minn nofs il-voti kollha.
 
-(g) Kull direttur nominat ikollu d-dritt li jitfa’ n-numru ta’ voti mogħtija skont ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 33
-
-l-Artikolu 3 ta’ din is-Sezzjoni lill-membru li jinnominah. Kull direttur elett ikollu d-dritt li jitfa’ n-numru ta’ voti li għaddew għall-elezzjoni tiegħu. Il-voti kollha li direttur ikollu d-dritt jitfa’ jiġu mitfugħa bħala unità.
+(g) Kull direttur nominat ikollu d-dritt li jitfa’ n-numru ta’ voti mogħtija skont l-Artikolu 3 ta’ din is-Sezzjoni lill-membru li jinnominah. Kull direttur elett ikollu d-dritt li jitfa’ n-numru ta’ voti li għaddew għall-elezzjoni tiegħu. Il-voti kollha li direttur ikollu d-dritt jitfa’ jiġu mitfugħa bħala unità.
 
 (h) Il-Bord tal-Gvernaturi għandu jadotta regolamenti li taħthom membru li ma jkollux dritt jinnomina direttur skont il-paragrafu (b) ta’ hawn fuq jista’ jibgħat rappreżentant biex jattendi għal xi laqgħa tad-Diretturi Esekuttivi meta talba magħmula minn, jew xi kwistjoni li tolqot partikolarment lil, dak il-membru tkun qed tiġi kunsidrata.
 
@@ -1103,9 +1025,7 @@ ARTIKOLU 11.Depożitarji
 
 ARTIKOLU 12.Xorta ta’ holdings ta’ flus
 
-Il-Bank jaċċetta mingħand kull membru, minflok xi parti tal-flus tal-membru, imħallsa lill-Bank taħt is-Sezzjoni II, Artikolu 7 (i), jew biex isiru l-ħlasijiet tal-ammortizzament fuq self li jkun ingħata b’dawk il-flus, u li ma tkunx meħtieġa mill- Bank għall-operazzjonijiet tiegħu, biljetti ta’ flus jew obbligazzjonijiet bħal dawn maħruġa mill-Gvern tal-membru jew mid-depożitarju nominat minn dak il-membru, li ma jkunux negozjabbli, li jkunu bla imgħax u li jkunu jitħallsu bil-valur pari ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 35
-
-tagħhom fuq talba bi kreditu akkont tal-Bank fid-depożitarju nominat.
+Il-Bank jaċċetta mingħand kull membru, minflok xi parti tal-flus tal-membru, imħallsa lill-Bank taħt is-Sezzjoni II, Artikolu 7 (i), jew biex isiru l-ħlasijiet tal-ammortizzament fuq self li jkun ingħata b’dawk il-flus, u li ma tkunx meħtieġa mill- Bank għall-operazzjonijiet tiegħu, biljetti ta’ flus jew obbligazzjonijiet bħal dawn maħruġa mill-Gvern tal-membru jew mid-depożitarju nominat minn dak il-membru, li ma jkunux negozjabbli, li jkunu bla imgħax u li jkunu jitħallsu bil-valur pari tagħhom fuq talba bi kreditu akkont tal-Bank fid-depożitarju nominat.
 
 ARTIKOLU 13.Pubblikazzjoni ta’ Rapporti u għoti ta’ informazzjoni
 
@@ -1160,8 +1080,6 @@ ARTIKOLU 4.Likwidazzjoni ta’ kontijiet ma gvernijiet li ma jibqgħux membri
 (d) Jekk il-Bank permanentement jissospendi l-operazzjonijiet tiegħu skont l- Artikolu 5 (b) ta’ din is-Sezzjoni, fi żmien sitt xhur mid-data li fiha dak il-gvern ma jibqax membru, id-drittijiet kollha ta’ dak il-gvern għandhom jiġu stabbiliti bid-disposizzjonijiet tal-Artikolu 5 ta’ din is-Sezzjoni.
 
 ARTIKOLU 5.Sospensjoni ta’ operazzjonijiet u likwidazzjoni ta’ obbligazzjonijiet (a) F’emerġenza d-Diretturi Esekuttivi jistgħu temporanjament jissospendu l-operazzjonijiet dwar self u garanziji ġodda sakemm ikun hemm opportunità għal aktar konsiderazzjoni u azzjoni mill-Bord tal-Gvernaturi.
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 37
 
 (b) Il-Bank jista’ permanentement jissospendi l-operazzjonijiet tiegħu dwar self u garanziji ġodda b’vot ta’ maġġoranza tal-Gvernaturi, li jeżerċitaw maġġoranza tal-voti kollha. Wara dik is-sospensjoni tal-operazzjonijiet il-Bank għandu minnufih jieqaf mill-attivitajiet kollha, ħlief dawk li għandhom x’jaqsmu mal-likwidazzjoni, konservazzjoni u ippreżervar xieraq tal-attiv tiegħu u mal-likwidazzjoni tal-obbligazzjonijiet tiegħu.
 
@@ -1233,9 +1151,7 @@ Il-komunikazzjonijiet uffiċjali tal-Bank jingħataw minn kull membru l-istess t
 
 ARTIKOLU 8.Immunitajiet u privileġġi ta’ uffiċjali u impjegati
 
-Il-gvernaturi, id-diretturi esekuttivi, l-alternati, l-uffiċjali u l-impjegati tal-Bank (i) ikunu immuni minn proċedimenti legali dwar l-egħmil tagħhom fil- ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 39
-
-kariga uffiċjali tagħhom ħlief meta l-Bank ineħħi din l-immunità;
+Il-gvernaturi, id-diretturi esekuttivi, l-alternati, l-uffiċjali u l-impjegati tal-Bank (i) ikunu immuni minn proċedimenti legali dwar l-egħmil tagħhom fil-kariga uffiċjali tagħhom ħlief meta l-Bank ineħħi din l-immunità;
 
 (ii) li ma jkunux nazzjonali lokali, jingħataw l-istess immunitajiet minn restrizzjonijiet ta’ immigrazzjoni, ħtiġijiet ta’ reġistrazzjoni ta’ barranin u minn obbligi ta’ servizz nazzjonali u jingħataw l-istess faċilitajiet dwar restrizzjonijiet fuq il-kambju kif jingħataw minn membri lil rappreżentanti, uffiċjali u impjegati tal-istess grad ta’ membri oħra;
 
@@ -1301,8 +1217,6 @@ Kull meta l-approvazzoni ta’ xi membru tkun meħtieġa qabel ma jsir xi egħmi
 
 ARTIKOLU 1.Bidu fis-seħħ
 
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 41
-
 Dan il-Ftehim għandu jibda jseħħ meta jkun ġie iffirmat f’isem il-gvernijiet li l-anqas sottoskrizzjonijiet tagħhom jinkludu mhux inqas minn ħamsa u sittin fil-mija tas-sottoskrizzjonijiet kollha murija fl-Iskeda A u meta jkunu ġew depożitati f’isimhom l-atti msemmija fl-Artikolu 2 (a) ta’ din is-Sezzjoni, iżda f’ebda każ ma għandu dan il-Ftehim jibda jseħħ qabel l-1 ta’ Mejju, 1945.
 
 ARTIKOLU 2.Firmar
@@ -1351,33 +1265,31 @@ Kuba 35 Iraq 6 So`jalisti
 
 \*Danimarka Lussemburgu 10 Renju Unit 1300 Repubblika Messiku 65 Stati Uniti 3175 Dominikana 2 Olanda 275 Urugwaj 10.5 Ekwador 3.2 New Zealand 50 Venezwela 10.5 Eġittu 40 Nikaragwa .8 Jugożlavja 40 El Salvador 1 Norveġja 50
 
-TOTAL 9100 ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 43
-
-\*Il-kwota tad-Danimarka għandha tiġi stabbilitia mill-Bank wara li d-Danimarka taċċetta li tidħol membru skont dan l-Istatut.
+TOTAL 9100 \*Il-kwota tad-Danimarka għandha tiġi stabbilitia mill-Bank wara li d-Danimarka taċċetta li tidħol membru skont dan l-Istatut.
 
 ## SKEDA B — ELEZZJONI TA’ DIRETTURI EŻEKUTTIVI
 
-## 1.
+### 1.
 
 L-elezzjoni tad-diretturi esekuttivi li għandhom jiġu eletti għandha ssir bil-voti tal-Gvernaturi li jistgħu jivvotaw skont is-Sezzjoni V, Artikolu 4 (b).
 
-## 2.
+### 2.
 
 Fil-votazzjoni tad-diretturi esekuttivi li għandhom jiġu eletti, kull gvernatur li jista’ jivvota għandu jivvota għal persuna waħda l-voti kollha li l-membru li jinnominah ikollu dritt għalihom skont l-Artikolu 3 tas-Sezzjoni V. Is-seba’ persuni li jirċievu l-akbar numru ta’ voti jkunu diretturi esekuttivi, iżda ebda persuna li tirċievi inqas minn erbatax fil-mija tal-voti kollha li jistgħu jingħataw (voti eliġibbli) ma għandha titqies eletta.
 
-## 3.
+### 3.
 
 Meta ma jiġux eletti seba’ persuni mal-ewwel votazzjoni, issir votazzjoni oħra li fiha l-persuna li tkun irċeviet l-anqas numru ta’ voti ma tkunx eliġibbli għall-elezzjoni u li fiha għandhom jivvotaw biss (a) dawk il-gvernaturi li jkunu ivvotaw fl-ewwel votazzjoni għal persuna li ma ġietx eletta u (b) dawk il-gvernaturi li l-voti tagħhom għal persuna eletta jitqiesu skont il-paragrafu 4 ta’ hawn taħt li jkunu għollew il-voti mogħtija lil dik il-persuna b’iktar minn ħmistax fil-mija tal-voti eliġibbli.
 
-## 4.
+### 4.
 
 Biex jiġi stabbilit jekk il-voti mogħtija minn gvernatur għandhomx jitqiesu li jkunu għollew il-voti kollha ta’ xi persuna b’iktar minn ħmistax fil-mija, il-ħmistax fil-mija għandhom jitqiesu li jinkludu, l-ewwel, il-voti tal-gvernatur li jkun ta l-akbar numru ta’ voti għal dik il-persuna, imbagħad il-voti tal-gvernatur li jagħti l-aktar numru ta’ voti li jiġi wara, u tibqa’ sejjer hekk sakemm jintlaħaq il-ħmistax fil-mija.
 
-## 5.
+### 5.
 
 Kull gvernatur, li parti mill-voti tiegħu għandhom jingħaddu sabiex jiġi mgħolli t-total ta’ voti ta’ xi persuna fuq l-erbatax fil-mija għandu jitqies li jitfa’ l-voti tiegħu kollha għal dik il-persuna wkoll jekk il-voti kollha għal dik il-persuna jkunu b’daqshekk iktar minn ħmistax fil-mija.
 
-## 6.
+### 6.
 
 Jekk, wara t-tieni votazzjoni, ma jiġux eletti seba’ persuni, isiru aktar votazzjonijiet fuq l-istess prinċipji sakemm jiġu eletti seba’ persuni, iżda wara li jiġu eletti sitt persuni, is-seba’ persuna tista’ tiġi eletta b’maġġoranza sempliċi tal-voti li jibqa’ u għandha titqies li ġiet eletta b’dawk il-voti kollha.
 
@@ -1424,8 +1336,6 @@ ARTIKOLU I.Membri
 ARTIKOLU 2.Stock tal-Kapital
 
 (a) L-istock tal-kapital awtorizzat tal-Korporazzjoni jkun ta’ $100,000,000, f’dollari tal-Istati Uniti.\*
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 45
 
 (b) L-istock tal-kapital awtorizzat ikun maqsum f’100,000 azzjoni tal-valur pari ta’ elf dollaru tal-Istati Uniti il-waħda. Kull azzjonijiet li ma jiġux sottoskritti fil-bidu mill-membri oriġinali jkunu jistgħu jiġu sottoskritti wara skont l-Artikolu 3 (d) ta’ din is-Sezzjoni.
 
@@ -1492,8 +1402,6 @@ L-operazzjonijiet tal-Korporazzjoni jkunu mmexxija skont il-prinċipji li ġejji
 (vi) il-Korporazzjoni għandha tfittex li tagħmel rotazzjoni tal-fondi tagħha billi tbiegħ l-investimenti tagħha lil investituri privati kull meta tkun tista’ tagħmel hekk taħt kondizzjonijiet sodisfaċenti;
 
 \* Emendat 21 ta’ Settembru, 1961. Test Oriġinali: (a) Il-finanzjament tal-Korporazzjoni ma għandux ikun bħala investimenti fi stock tal-kapital. Bla ħsara għal dak li ntqal qabel, il-Korporazzjoni tista’ tagħmel investimenti mill-fondi tagħha ta’ dik ix-xorta li jidhrilħa xierqa fiċ-ċirkostanzi, inklużi (iżda bla limitazzjoni) investimenti skont id-detentur tagħhom, id-dritt għal parteċipazzjoni fi qliegħ u d-dritt għas-sottoskrizzjoni għal, jew it-tibdil ta’ investiment fi, stock ta’ kapital. (b) Il-Korporazzjoni ma għandhiex hi stess tissottoskrivi għal, jew tibdel xi investiment fi, stock tal-kapital. #Emendat 21 ta’ Settembru, 1961. Test Oriġinali: (iv) Il-Korporazzjoni ma għandhiex tieħu r-responsabbiltà li tidderieġi xi intrapriża li fiha tkun investiet;
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 47
 
 (vii) il-Korporazzjoni għandha tfittex li żżomm diversifikazzjoni raġonevoli fl-investimenti tagħha.
 
@@ -1567,9 +1475,7 @@ ARTIKOLU 2.Bord tal-Gvernaturi
 
 (viii) jemenda dan il-Ftehim.
 
-(d) Il-Bord tal-Gvernaturi għandu jagħmel laqgħa ta’ kull sena u dawk il-laqgħat l-oħra kif il-Bord tal-Gvernaturi jista’ jipprovdi jew li jkunu msejħa mill- ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 49
-
-Bord tad-Diretturi.
+(d) Il-Bord tal-Gvernaturi għandu jagħmel laqgħa ta’ kull sena u dawk il-laqgħat l-oħra kif il-Bord tal-Gvernaturi jista’ jipprovdi jew li jkunu msejħa mill- Bord tad-Diretturi.
 
 (e) Il-laqgħa ta’ kull sena tal-Bord tal-Gvernaturi ssir flimkien mal-laqgħa ta’ kull sena tal-Bord tal-Gvernaturi tal-Bank.
 
@@ -1627,11 +1533,9 @@ Il-Korporazzjoni, li taġixxi permezz tal-Bank, għandha tagħmel arranġamenti 
 
 ARTIKOLU 8.Lokalità tal-Uffiċċji
 
-L-uffiċċju prinċipali tal-Korporazzjoni jkun fl-istess lokalità tal-uffiċċju prinċipali tal-Bank. Il-Korporazzjoni tista’ twaqqaf uffiċċji oħra fit-territorji ta’ kull membru. ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 51
+L-uffiċċju prinċipali tal-Korporazzjoni jkun fl-istess lokalità tal-uffiċċju prinċipali tal-Bank. Il-Korporazzjoni tista’ twaqqaf uffiċċji oħra fit-territorji ta’ kull membru. ARTIKOLU 9.Depożitarji
 
 \*Emendat 1 ta’ Settembru, 1965. It-test oriġinali kien jinkludi dan li ġej: "Il-Korporazzjoni ma għandhiex tislef lil jew tissellef mingħand il-Bank."
-
-ARTIKOLU 9.Depożitarji
 
 Kull membru għandu jinnomina l-bank ċentrali tiegħu bħala depożitarju li fih il- Korporazzjoni tista’ żżomm holdings tal-flus ta’ dak il-membru jew attiv ieħor tal- Korporazzjoni jew, jekk ma jkollux bank ċentrali, għandu jinnomina għal dak il-għan dik l-istituzzjoni l-oħra li tkun aċċettabbli mill-Korporazzjoni.
 
@@ -1689,9 +1593,7 @@ ARTIKOLU 4.Drittijiet u Dmirijiet ta’ Gvernijiet li ma Jibqgħux Membri
 
 (d) F’ebda każ ma għandu xi ammont dovut lil gvern għall-istock tal-kapital tiegħu skont dan l-Artikolu jitħallas qabel sitt xhur mid-data li fiha l-gvern ikun spiċċa minn membru. Jekk fi żmien sitt xhur mid-data li fiha xi gvern jispiċċa minn membru l-Korporazzjoni tissospendi l-operazzjonijiet tagħha skont l-Artikolu 5 ta’ din is-Sezzjoni, id-drittijiet kollha ta’ dak il-gvern għandhom jiġu stabbiliti bid-disposizzjonijiet ta’ dak l-Artikolu 5 u dak il-gvern jitqies li għadu membru tal- Korporazzjoni għall-finijiet ta’ dak l-Artikolu 5, ħlief li ma jkollu ebda drittijiet għal votazzjoni.
 
-ARTIKOLU 5.Sospensjoni ta’ Operazzonijiet u Likwidazzjoni ta’ Obbligazzjonijiet (a) Il-Korporazzjoni tista’ tissospendi permanentement l-operazzjonijiet tagħha b’vot ta’ maġġoranza tal-Gvernaturi li jeżerċitaw maġġoranza tal-voti kollha. Wara ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 53
-
-dik is-sospensjoni tal-operazzjonijiet il-Korporazzjoni għandha minnufih tieqaf mill-attivitajiet kollha, ħlief dawk li għandhom x’jaqsmu mal-likwidazzjoni, konservazzjoni u t-tħaris xieraq tal-attiv tagħha u mal-likwidazzjoni tal-obbligazzjonijiet tagħha. Sakemm isiru l-likwidazzjoni finali ta’ dawk l-obbligazzjonijiet u t-tqassim ta’ dak l-attiv, il-Korporazzjoni għandha tibqa’ teżisti u d-drittijiet u l-obbligazzjonijiet kollha reċiproki tal-Korporazzjoni u tal-membri skont dan il-Ftehim għandhom ikomplu kif kienu, ħlief li ebda membru ma għandu jiġi sospiż jew jirtira u ebda tqassim ma għandu jsir lil membri ħlief kif provdut f’dan l-Artikolu.
+ARTIKOLU 5.Sospensjoni ta’ Operazzonijiet u Likwidazzjoni ta’ Obbligazzjonijiet (a) Il-Korporazzjoni tista’ tissospendi permanentement l-operazzjonijiet tagħha b’vot ta’ maġġoranza tal-Gvernaturi li jeżerċitaw maġġoranza tal-voti kollha. Wara dik is-sospensjoni tal-operazzjonijiet il-Korporazzjoni għandha minnufih tieqaf mill-attivitajiet kollha, ħlief dawk li għandhom x’jaqsmu mal-likwidazzjoni, konservazzjoni u t-tħaris xieraq tal-attiv tagħha u mal-likwidazzjoni tal-obbligazzjonijiet tagħha. Sakemm isiru l-likwidazzjoni finali ta’ dawk l-obbligazzjonijiet u t-tqassim ta’ dak l-attiv, il-Korporazzjoni għandha tibqa’ teżisti u d-drittijiet u l-obbligazzjonijiet kollha reċiproki tal-Korporazzjoni u tal-membri skont dan il-Ftehim għandhom ikomplu kif kienu, ħlief li ebda membru ma għandu jiġi sospiż jew jirtira u ebda tqassim ma għandu jsir lil membri ħlief kif provdut f’dan l-Artikolu.
 
 (b) Ma jsir ebda tqassim lill-membri akkont tas-sottoskrizzjonijiet tagħhom għall-istock tal-kapital tal-Korporazzjoni qabel ma l-passiv kollu dovut lil kredituri jkun tħallas jew ikun ġie provdut għalih u qabel il-Bord tal-Gvernaturi, b’vot ta’ maġġoranza tal-Gvernaturi li jeżerċitaw maġġoranza tal-voti kollha, ikun iddeċieda li jagħmel dak it-tqassim.
 
@@ -1759,9 +1661,7 @@ ARTIKOLU 9.Immunitajiet minn Taxxi
 
 (i) li tiddistingwi kontra dik l-obbligazzjoni jew dak it-titolu minħabba biss li jkun maħruġ mill-Korporazzjoni; jew
 
-(ii) jekk l-uniku bażi ta’ ġurisdizzjoni għal dik it-taxxa jkun il-post jew il- ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 55
-
-flus li fihom ikun maħruġ, jistgħu jitħallsu jew tħallsu, jew il-lokal ta’ xi uffiċċju jew post tan-negozju miżmum mill-Korporazzjoni.
+(ii) jekk l-uniku bażi ta’ ġurisdizzjoni għal dik it-taxxa jkun il-post jew il-flus li fihom ikun maħruġ, jistgħu jitħallsu jew tħallsu, jew il-lokal ta’ xi uffiċċju jew post tan-negozju miżmum mill-Korporazzjoni.
 
 (d) Ma għandha tinġabar ebda taxxa ta’ liema xorta tkun fuq xi obbligazzjoni jew titolu garantit mill-Korporazzjoni (inkluż kull dividend jew imgħax fuqu) ikun miżmum minn min ikun:
 
@@ -1828,8 +1728,6 @@ ARTIKOLU 3.Inawgurazzjoni tal-Korporazzjoni
 (b) Il-Korporazzjoni għandha tibda l-operazzjonijiet fid-data li fiha ssir dik l-ewwel laqgħa.
 
 (ċ) Sakemm issir l-ewwel laqgħa tal-Bord tal-Gvernaturi, il-Bord tad-Diretturi jista’ jeżerċita s-setgħat kollha tal-Bord tal-Gvernaturi ħlief dawk riżervati għall- Bord tal-Gvernaturi skont dan il-Ftehim.
-
-ORGANIZZAZZJONIJIET FINANZJARJI INTERNAZZJONALI [KAP. 235. 57
 
 MAGĦMUL f’Washington, f’kopja waħda li tibqa’ depożitata fl-arkivji tal-Bank Internazzjonali għar-Rikostruzzjoni u Żvilupp, li wera bil-firma tiegħu hawn taħt li jaċċetta li jkun depożitarju ta’ dan il-Ftehim u li jinnotifika l-gvernijiet kollha li isimhom jidher fl-Iskeda A bid-data meta dan il-Ftehim għandu jibda jseħħ skont is- Sezzjoni IX, Artikolu 1 ta’ dan il-Ftehim.
 

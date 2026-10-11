@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Malta Membership of the Asian Infrastructure Investment Bank Act (Cap. 548)
 
-*1*
-
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548.
-
 **CHAPTER 548**
 
 **MALTA MEMBERSHIP OF THE ASIAN**
@@ -90,8 +86,6 @@ CAP. 548.] ASIAN INFRASTRUCTURE INVESTMENT BANK
 ### 7. Power of the Minister to make orders.
 
 The Minister may by order make such provisions as are necessary for carrying into effect any of the provisions of the Agreement.
-
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 3
 
 ## SCHEDULE
 
@@ -173,8 +167,6 @@ The authorized capital stock of the Bank may be increased by the Board of Govern
 
 The term “dollar” and the symbol “$” wherever used in this Agreement shall be understood as being the official currency of payment of the United States of America.
 
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 5
-
 Article 5 Subscription of Shares
 
 \1. Each member shall subscribe to shares of the capital stock of the Bank. Each subscription to the original authorized capital stock shall be for paid-in shares and callable shares in the proportion two (2) to eight (8). The initial number of shares available to be subscribed by countries which become members in accordance with Article 58 shall be that set forth in Schedule A.
@@ -221,9 +213,7 @@ A member considered as a less developed country for purposes of this paragraph m
 
 ### 6.
 
-The Bank shall accept from any member paying its subscription under sub-paragraph 5 (b) of this Article promissory notes or other obligations issued by the Government of the member, or by the depository designated by such member, in lieu of the amount to be paid in the currency of the member, provided such amount is not ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 7
-
-required by the Bank for the conduct of its operations. Such notes or obligations shall be non-negotiable, non-interest-bearing, and payable to the Bank at par value upon demand.
+The Bank shall accept from any member paying its subscription under sub-paragraph 5 (b) of this Article promissory notes or other obligations issued by the Government of the member, or by the depository designated by such member, in lieu of the amount to be paid in the currency of the member, provided such amount is not required by the Bank for the conduct of its operations. Such notes or obligations shall be non-negotiable, non-interest-bearing, and payable to the Bank at par value upon demand.
 
 Article 7 Terms of Shares
 
@@ -292,8 +282,6 @@ Article 11 Recipients and Methods of Operation
 Article 12 Limitations on Ordinary Operations
 
 \1. The total amount outstanding of loans, equity investments, guarantees and other types of financing provided by the Bank in its ordinary operations under sub-paragraphs 2 (i), (ii), (iii) and (vi) of Article 11 shall not at any time be increased, if by such increase the total amount of its unimpaired subscribed capital, reserves and retained earnings included in its ordinary resources would be exceeded. Notwithstanding the provisions of the preceding sentence, the Board of Governors may, by a Super Majority vote as provided in Article 28, determine at any time that, based on the Bank’s financial position and financial standing, the limitation under this paragraph may be increased, up to 250% of the Bank’s unimpaired subscribed capital, reserves and retained earnings included in its ordinary resources.
-
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 9
 
 \2. The amount of the Bank’s disbursed equity investments shall not at any time exceed an amount corresponding to its total unimpaired paid-in subscribed capital and general reserves.
 
@@ -376,8 +364,6 @@ In addition to the powers specified elsewhere in this Agreement, the Bank shall 
 \9. The Bank may exercise such other powers and establish such rules and regulations as may be necessary or appropriate in furtherance of its purpose and functions, consistent with the provisions of this Agreement.
 
 Article 17 Special Funds
-
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 11
 
 \1. The Bank may accept Special Funds which are designed to serve the purpose and come within the functions of the Bank; such Special Funds shall be resources of the Bank. The full cost of administering any Special Fund shall be charged to that Special Fund.
 
@@ -465,8 +451,6 @@ Article 23 Board of Governors: Powers
 
 (xi) exercise such other powers as are expressly assigned to the Board of Governors in this Agreement.
 
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 13
-
 \3. The Board of Governors shall retain full power to exercise authority over any matter delegated to the Board of Directors under paragraph 2 of this Article. Article 24 Board of Governors: Procedure
 
 \1. The Board of Governors shall hold an annual meeting and such other meetings as may be provided for by the Board of Governors or called by the Board of Directors. Meetings of the Board of Governors shall be called by the Board of Directors whenever requested by five (5) members of the Bank.
@@ -529,9 +513,7 @@ Article 27 Board of Directors: Procedure
 
 \3. The Board of Governors shall adopt Regulations under which, if there is no Director of its nationality, a member may send a representative to attend, without right to vote, any meeting of the Board of Directors when a matter particularly affecting that member is under consideration.
 
-\4. The Board of Directors shall establish procedures whereby the Board can ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 15
-
-hold an electronic meeting or vote on a matter without holding a meeting.
+\4. The Board of Directors shall establish procedures whereby the Board can hold an electronic meeting or vote on a matter without holding a meeting.
 
 Article 28 Voting
 
@@ -592,8 +574,6 @@ Article 31 The International Character of the Bank
 \1. The principal office of the Bank shall be located in Beijing, People’s Republic of China.
 
 \2. The Bank may establish agencies or offices elsewhere.
-
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 17
 
 Article 33 Channel of Communication; Depositories
 
@@ -657,8 +637,6 @@ Article 39 Settlement of Accounts
 
 (iii) Payments shall be made in such available currencies as the Bank determines, taking into account its financial position.
 
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 19
-
 (iv) If losses are sustained by the Bank on any loans, guarantees, equity investments or other financing which were outstanding on the date when a country ceased to be a member and the amount of such losses exceeds the amount of the reserve provided against losses on that date, the country concerned shall repay, upon demand, the amount by which the repurchase price of its shares would have been reduced if the losses had been taken into account when the repurchase price was determined. In addition, the former member shall remain liable on any call for unpaid subscriptions in accordance with paragraph 3 of Article 6, to the same extent that it would have been required to respond if the impairment of capital had occurred and the call had been made at the time the repurchase price of its shares was determined.
 
 \4. If the Bank terminates its operations pursuant to Article 41 within six (6) months of the date upon which any country ceases to be a member, all rights of the country concerned shall be determined in accordance with the provisions of Articles 41 to 43. Such country shall be considered as still a member for purposes of such Articles but shall have no voting rights.
@@ -721,9 +699,7 @@ Article 46 Immunity from Judicial Proceedings
 
 Article 47 Immunity of Assets and Archives
 
-\1. Property and assets of the Bank, wheresoever located and by whomsoever ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 21
-
-held, shall be immune from search, requisition, confiscation, expropriation or any other form of taking or foreclosure by executive or legislative action.
+\1. Property and assets of the Bank, wheresoever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of taking or foreclosure by executive or legislative action.
 
 \2. The archives of the Bank, and, in general, all documents belonging to it, or held by it, shall be inviolable, wheresoever located and by whomsoever held.
 
@@ -788,8 +764,6 @@ Article 54 Interpretation
 \1. Any question of interpretation or application of the provisions of this Agreement arising between any member and the Bank, or between two or more members of the Bank, shall be submitted to the Board of Directors for decision. If there is no Director of its nationality on that Board, a member particularly affected by the question under consideration shall be entitled to direct representation in the Board of Directors during such consideration; the representative of such member shall, however, have no vote. Such right of representation shall be regulated by the Board of Governors.
 
 \2. In any case where the Board of Directors has given a decision under paragraph 1 of this Article, any member may require that the question be referred to the Board of Governors, whose decision shall be final. Pending the decision of the Board of Governors, the Bank may, so far as it deems necessary, act on the basis of the decision of the Board of Directors.
-
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 23
 
 Article 55 Arbitration
 
@@ -888,8 +862,6 @@ Mongolia 411 41.1
 Myanmar 2,645 264.5
 
 Nepal 809 80.9
-
-ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 25
 
 New Zealand 4,615 461.5
 
@@ -1015,9 +987,7 @@ Nominations. Each Governor may only nominate one person. Candidates for the offi
 
 ### 6.
 
-Voting. Each Governor may vote for one candidate, casting all of the votes to which the member appointing him is entitled under paragraph 1 of Article 28. The election of Regional Directors shall be by ballot of Regional Governors. The election ASIAN INFRASTRUCTURE INVESTMENT BANK [CAP. 548. 27
-
-of Non-Regional Directors shall be by ballot of Non-Regional Governors.
+Voting. Each Governor may vote for one candidate, casting all of the votes to which the member appointing him is entitled under paragraph 1 of Article 28. The election of Regional Directors shall be by ballot of Regional Governors. The election of Non-Regional Directors shall be by ballot of Non-Regional Governors.
 
 ### 7.
 

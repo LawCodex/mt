@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Kunsill Malti għall-Iżvilupp Ekonomiku u Soċjali (Cap. 431)
 
-*1*
-
-EKONOMIKU U SOĊJALI [KAP. 431.
-
 **KAPITOLU 431**
 
 **ATT DWAR IL-KUNSILL MALTI GĦALL-**
@@ -101,11 +97,11 @@ L-organizzazzjonijiet u korpi kostitwiti msemmija fis-subparagrafu (i) għandhom
 
 Iżda l-Uffiċjal Kap Eżekuttiv ma għandux ikollu d-dritt li jivvota waqt tali laqgħat.
 
-*3*
+## 5. Funzjonijiet tal- Kunsill.
 
-EKONOMIKU U SOĊJALI [KAP. 431. 5. (1) Il-Kunsill għandu jkun korp konsultattiv u biex jagħti pariri bil-funzjoni li jagħti parir lill-Gvern, permezz tal-Ministru, fuq ħwejjeġ li għandhom x’jaqsmu mal-iżvilupp ekonomiku nazzjonali soċjali u sostenibbli u jkun kompetenti biex -
+*Emendat: V. 2017.4.*
 
-*Funzjonijiet tal- Kunsill. Emendat: V. 2017.4.*
+(1) Il-Kunsill għandu jkun korp konsultattiv u biex jagħti pariri bil-funzjoni li jagħti parir lill-Gvern, permezz tal-Ministru, fuq ħwejjeġ li għandhom x’jaqsmu mal-iżvilupp ekonomiku nazzjonali soċjali u sostenibbli u jkun kompetenti biex -
 
 (a) jippromwovi djalogu soċjali u konsensus bejn l-imsieħba soċjali kollha fuq ħwejjeġ li għandhom x’jaqsmu mal-iżvilupp ekonomiku soċjali u sostenibbli;
 
@@ -163,11 +159,7 @@ Bla ħsara għad-dispożizzjonijiet tal-artikoli 3 u 4(1) u jew għal kull dispo
 
 (ċ) il-Gruppi ta’ Ħidma li jkunu kostitwiti mill-iMsieħba Soċjali kif xieraq u skont il-ħtieġa:
 
-Iżda l-ebda komunikazzjoni lill-pubbliku ġenerali u, jew lill-midja mill-Bureau jew mil-Gruppi ta’ Ħidma ma tista’ tinħareġ f ’isem il-Kunsill jekk ma jkunx hemm l-approvazzjoni b’vot EKONOMIKU U SOĊJALI [KAP. 431.
-
-unanimu mill-Plenarja:
-
-*5*
+Iżda l-ebda komunikazzjoni lill-pubbliku ġenerali u, jew lill-midja mill-Bureau jew mil-Gruppi ta’ Ħidma ma tista’ tinħareġ f ’isem il-Kunsill jekk ma jkunx hemm l-approvazzjoni b’vot unanimu mill-Plenarja:
 
 Iżda wkoll il-Kunsill jista’, bla ħsara għad-dispożizzjonijiet ta’ dan l-Att u ta’ xi regolamenti magħmulin taħtu, jaħtar sottokumitati u, b’mod ġenerali, għandu jirregola l-proċedura tiegħu stess.
 
@@ -228,10 +220,6 @@ Iżda wkoll il-Kunsill jista’, bla ħsara għad-dispożizzjonijiet ta’ dan l
 (ċ) jiffaċilita d-djalogu interġenerazzjonali u l-kooperazzjoni sabiex jiġu indirizzati kwistjonijiet li huma ta’ interess kemm għat-tfal ta’ bejn ħdax (11) u ħmistax (15)-il sena u kif ukoll għall-Kunsill.
 
 (5) Il-ħatriet tal-membri kollha fil-Forum għandhom ikunu għal perjodu ta’ sena (1) li għandu jibda jiddekorri mid-data tal-ħatra, u l-membri jistgħu jinħatru mill-ġdid għal perjodi ulterjuri.
-
-*7*
-
-EKONOMIKU U SOĊJALI [KAP. 431.
 
 (6) Il-Forum għandu jiġi mistieden mill-Kunsill mill-anqas ħames (5) darbiet fis-sena, sabiex jippreżenta l-opinjonijiet tal-Forum u jiddiskuti kwistjonijiet riferuti lilu mill-Kunsill.
 
@@ -311,11 +299,7 @@ Il-Kunsill u l-korpi kollha msemmija fl-artikoli 5A sa 6A, inklużi Kumitati u s
 
 *Emendat: V. 2017.11.*
 
-(1) Il-Kunsill jista’, bl-approvazzjoni tal-Ministru, jaħtar dawk l-uffiċjali li jistgħu, minn żmien għal żmien, ikunu meħtieġa għat-twettiq xieraq u effiċjenti tal-funzjonijiet tal-Kunsill. It- EKONOMIKU U SOĊJALI [KAP. 431.
-
-termini u l-kondizzjonijiet tal-impieg għandhom jiġu stabbiliti mill-Kunsill bl-approvazzjoni tal-Ministru.
-
-*9*
+(1) Il-Kunsill jista’, bl-approvazzjoni tal-Ministru, jaħtar dawk l-uffiċjali li jistgħu, minn żmien għal żmien, ikunu meħtieġa għat-twettiq xieraq u effiċjenti tal-funzjonijiet tal-Kunsill. It-termini u l-kondizzjonijiet tal-impieg għandhom jiġu stabbiliti mill-Kunsill bl-approvazzjoni tal-Ministru.
 
 (2) Il-Prim Ministru jista’, fuq talba tal-Ministru, minn żmien għal żmien, jordna li xi uffiċjal pubbliku jiġi assenjat biex jaqdi dmirijietu mal-Kunsill f’dik il-kariga u b’seħħ minn dik id-data li jiġu speċifikati fl-ordni tal-Prim Ministru:
 
@@ -367,8 +351,8 @@ Iżda l-kontijiet tal-Kunsill għas-sena 2025 għandhom ikopru l-perjodu minn Se
 
 (3) Il-Ministru għandu, mal-ewwel opportunità, u mhux aktar tard minn tmien ġimgħat wara li jkun irċieva kopja ta’ kull rapport bħal dan jew, jekk f’dak iż-żmien il-Kamra tad-Deputati ma tkunx qed tiltaqa’, fi żmien tmien ġimgħat mill-bidu tal-ewwel sessjoni ta’ wara, jara li kopja ta’ kull rapport bħal dan jitqiegħed fuq il- Mejda tal-Kamra tad-Deputati.
 
-*11*
+## 15. Setgħa li jsiru regolamenti.
 
-EKONOMIKU U SOĊJALI [KAP. 431. 15. Il-Ministru jista’ jagħmel regolamenti b’mod ġenerali biex jagħti effett lid-dispożizzjonijiet ta’ dan l-Att u għat-twettiq aħjar ta’ kull waħda mid-dispożizzjonijiet ta’ dan l-Att inklużi regolamenti li jistabilixxu l-kriterji li għandhom jintużaw għal kif ikun kompost il-Kumitat tas-Soċjetà Ċivili u l-Kumitat Reġjonali Għawdex, in-numru ta’ membri u kull materja oħra għall-funzjonament xieraq ta’ dawn il-kumitati.
+*Sostitwit: IV. 2012.4; V. 2017.14.*
 
-*Setgħa li jsiru regolamenti. Sostitwit: IV. 2012.4; V. 2017.14.*
+Il-Ministru jista’ jagħmel regolamenti b’mod ġenerali biex jagħti effett lid-dispożizzjonijiet ta’ dan l-Att u għat-twettiq aħjar ta’ kull waħda mid-dispożizzjonijiet ta’ dan l-Att inklużi regolamenti li jistabilixxu l-kriterji li għandhom jintużaw għal kif ikun kompost il-Kumitat tas-Soċjetà Ċivili u l-Kumitat Reġjonali Għawdex, in-numru ta’ membri u kull materja oħra għall-funzjonament xieraq ta’ dawn il-kumitati.

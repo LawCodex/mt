@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Att dwar Responsabbiltà Ċivili u Kumpens għal Tinġis miż-Żejt (Cap. 351)
 
-RESPONSABBILTÀ ĊIVILI U KUMPENS
-
-GĦAL TINĠIS MIŻ-ŻEJT [KAP. 351. 1
-
 **KAPITOLU 351**
 
 **ATT DWAR RESPONSABBILTÀ ĊIVILI U KUMPENS GĦAL**

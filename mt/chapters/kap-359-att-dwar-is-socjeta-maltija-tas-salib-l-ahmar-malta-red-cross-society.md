@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Is-Soċjetà Maltija tas-Salib L-Aħmar - Malta Red Cross Society (Cap. 359)
 
-*1*
-
-L-AĦMAR - MALTA RED CROSS SOCIETY [KAP. 359.
-
 **KAPITOLU 359**
 
 **ATT DWAR IS-SOĊJETÀ MALTIJA TAS-SALIB**
@@ -67,7 +63,7 @@ L-Istatut tas-Soċjetà kif muri fl-Ewwel Skeda jista’ bla ħsara għall-artik
 
 Il-Kamra tista’ f’kull żmien fejn jidhrilha li s-Soċjetà ma tkunx qed timxi in konformità mal-artikolu 3 ta’ dan l-Att, tgħaddi riżoluzzjoni li biha tneħħi l-għarfien mogħti lis-Soċjetà bis-saħħa ta’ dan l-Att u tista’ b’riżoluzzjoni simili terġa’ tagħti dak l-għarfien; u fejn dak l-għarfien ikun imneħħi d-dritt tas-Soċjetà li tuża l-emblema tas-Salib l-Aħmar imsemmi fl-artikolu 4(1), jkun sospiż kif ukoll l-eċċezzjoni favur is-Soċjetà li hemm fl-artikolu 4(2).
 
-L-AĦMAR - MALTA RED CROSS SOCIETY [KAP. 359. 3 L-EWWEL SKEDA
+L-EWWEL SKEDA
 
 (Artikoli 2 u 5)
 
@@ -145,7 +141,7 @@ Għal dan il-fini x-xogħol tagħha huwa partikolarment:
 
 (1) li taġixxi fil-każ ta’ konflitt armat, u fil-paċi tipprepara li taġixxi fl-oqsma kollha koperti mill-Konvenzjonijiet ta’ Ġinevra u f’ġieh il-vittmi kollha tal-gwerra, kemm pajżana kif ukoll militari.
 
-L-AĦMAR - MALTA RED CROSS SOCIETY [KAP. 359. 5 (2) li tikkontribwixxi għat-titjib tas-saħħa, il-prevenzjoni tal-mard u l-mitigazzjoni tat-tbatija bi programmi ta’ taħriġ u servizzi għall-benefiċċju tal-komunità adattati għall-ħtiġiet u ċirkostanzi nazzjonali u lokali.
+(2) li tikkontribwixxi għat-titjib tas-saħħa, il-prevenzjoni tal-mard u l-mitigazzjoni tat-tbatija bi programmi ta’ taħriġ u servizzi għall-benefiċċju tal-komunità adattati għall-ħtiġiet u ċirkostanzi nazzjonali u lokali.
 
 (3) li torganizza, fil-limiti tal-pjan nazzjonali, servizzi ta’ emerġenza ta’ solliev għall-vittmi ta’ diżastri, ikunu kif ikunu kaġunati.
 
@@ -231,8 +227,6 @@ Għajr fejn huwa provdut xort’oħra f’dan l-Istatut, l-Assemblea Ġenerali t
 
 Kull wieħed mill-membri tagħha għandu vot wieħed.
 
-L-AĦMAR - MALTA RED CROSS SOCIETY [KAP. 359. 7
-
 ## KAPITOLU V — Kumitat ta’ Tmexxija — ARTIKOLU 15
 
 Kompożizzjoni
@@ -309,7 +303,7 @@ Hija tista’ taċċetta kontribuzzjonijiet bla limitazzjoni u għajnuna f’kul
 
 Hija tista’ taċċetta bħala aġent jew trustee fondi jew proprjetà fi trust jew assenjati għal użu partikolari, basta li dak l-użu jkun fil-kamp ġenerali tal-attivitajiet, skopijiet u setgħat tagħha.
 
-Hija tista’ taċċetta kull trasferiment ta’ bini immobbli għall-użu jew benefiċċju L-AĦMAR - MALTA RED CROSS SOCIETY [KAP. 359. 9 tagħha.
+Hija tista’ taċċetta kull trasferiment ta’ bini immobbli għall-użu jew benefiċċju tagħha.
 
 Hija tista’ tikkostitwixxi u tamministra kull fondi ta’ riżerva, ta’ assigurazzjoni u fondi oħra għall-persunal tagħha jew għal kwalunkwe attività tagħha.
 
@@ -387,7 +381,7 @@ Il-Kumitat ta’ Tmexxija jifformula u jemenda dawk il-Bye-Laws u regolamenti ko
 
 Emendi għall-Istatut
 
-Dan l-Istatut jista’ jiġi emendat biss wara li jiġi eżaminat mill-Kumitat ta’ Tmexxija u b’deċiżjoni tal-Assemblea Ġenerali meħuda b’maġġoranza ta’ żewġ terzi ta’ dawk preżenti u li jivvotaw. Kull emenda proposta għandha tiġi komunikata lill- Federazzjoni Internazzjonali u lill-Konferenza Internazzjonali tar-Red Cross skont l- Artikolu 5.2.d tal-Kostituzzjoni tal-Federazzjoni Internazzjonali, Riżoluzzjoni VI adottata mit-XXII Konferenza Internazzjonali tar-Red Cross (Teheran 1973), u r- L-AĦMAR - MALTA RED CROSS SOCIETY [KAP. 359. 11 Riżoluzzjoni XX adottata mill-XXIV Konferenza Internazzjonali tar-Red Cross (Manila 1981).
+Dan l-Istatut jista’ jiġi emendat biss wara li jiġi eżaminat mill-Kumitat ta’ Tmexxija u b’deċiżjoni tal-Assemblea Ġenerali meħuda b’maġġoranza ta’ żewġ terzi ta’ dawk preżenti u li jivvotaw. Kull emenda proposta għandha tiġi komunikata lill- Federazzjoni Internazzjonali u lill-Konferenza Internazzjonali tar-Red Cross skont l- Artikolu 5.2.d tal-Kostituzzjoni tal-Federazzjoni Internazzjonali, Riżoluzzjoni VI adottata mit-XXII Konferenza Internazzjonali tar-Red Cross (Teheran 1973), u r- Riżoluzzjoni XX adottata mill-XXIV Konferenza Internazzjonali tar-Red Cross (Manila 1981).
 
 **ARTIKOLU 31**
 

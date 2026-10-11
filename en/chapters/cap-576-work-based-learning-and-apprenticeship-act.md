@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Work-Based Learning and Apprenticeship Act (Cap. 576)
 
-*1*
-
-AND APPRENTICESHIP [CAP. 576.
-
 **CHAPTER 576**
 
 **WORK-BASED LEARNING AND**
@@ -61,10 +57,6 @@ In this Act unless the context otherwise requires:
 
 "European Credit Transfer and Accumulation System (ECTS)" means the standard mechanism for comparing the study attainment and performance of students of higher education across the European Union and other collaborating European countries;
 
-*2*
-
-[CAP. 576. AND APPRENTICESHIP
-
 "European Qualifications Framework" means the translation tool that helps communication and comparison between qualifications systems in Europe regarding learning outcomes;
 
 "European Quality Assurance Reference Framework" means the tool to recognise qualifications and awards received by learners across different countries or learning environments, thereby promoting modernisation, mutual trust and mobility in vocational education and training;
@@ -93,10 +85,6 @@ In this Act unless the context otherwise requires:
 
 \*The National Commission for Further and Higher Education has been superseded by the Malta Further and Higher Education Authority - see article 3(1) of the Further and Higher Education Act
 
-*3*
-
-AND APPRENTICESHIP [CAP. 576.
-
 *   S.L. 607.02*
 
 "occupational standards" means the standards, as set by the National Commission for Further and Higher Education as stipulated in the Validation of Non-Formal and Informal Learning Regulations;
@@ -119,11 +107,7 @@ AND APPRENTICESHIP [CAP. 576.
 
 "training logbook" means a reflective work-based logbook, which presents a systematic report of activities conducted during the periods of work-based learning in accordance to the vocational competences and, or the programme learning outcomes;
 
-"training programme" means an accredited learning [CAP. 576. AND APPRENTICESHIP
-
-programme for post-compulsory education, administered by a VET provider based on learning outcomes which shall address the needs of one or more skills and technical occupation by combining systematic, structured alternating periods of work-based learning delivered by the sponsor and school-based learning delivered by a VET provider;
-
-*4*
+"training programme" means an accredited learning programme for post-compulsory education, administered by a VET provider based on learning outcomes which shall address the needs of one or more skills and technical occupation by combining systematic, structured alternating periods of work-based learning delivered by the sponsor and school-based learning delivered by a VET provider;
 
 "training programme plan" means the definition of the specific requirements of a training programme set by the VET provider, which provides detailed information on learning outcomes, duration, timetables, examinations, credits, certification, equivalence and recognition;
 
@@ -146,10 +130,6 @@ programme for post-compulsory education, administered by a VET provider based on
 "young persons" shall have the same meaning as assigned to it in regulation 2 of the Young Persons (Employment) Regulations.
 
 \*The National Commission for Further and Higher Education has been superseded by the Malta Further and Higher Education Authority - see article 3(1) of the Further and Higher Education Act
-
-*5*
-
-AND APPRENTICESHIP [CAP. 576.
 
 ## 3. Objective.
 
@@ -187,11 +167,7 @@ There shall be a training programme plan that shall be part of the training agre
 
 (c) eligibility and entry requirements;
 
-(d) calendar dates and hours to be spent at the [CAP. 576. AND APPRENTICESHIP
-
-school-based and work-based learning locations including number of hours or working days for each week of the calendar year when a learner will be engaged in work-based learning with the sponsors and engaged in school-based learning with the VET provider;
-
-*6*
+(d) calendar dates and hours to be spent at the school-based and work-based learning locations including number of hours or working days for each week of the calendar year when a learner will be engaged in work-based learning with the sponsors and engaged in school-based learning with the VET provider;
 
 (e) learning outcomes and credits for school-based and work-based learning, defining the knowledge, skills behaviours and attitudes to be gained;
 
@@ -217,10 +193,6 @@ school-based and work-based learning locations including number of hours or work
 
 (d) review and update the training programmes periodically at least every three years;
 
-*7*
-
-AND APPRENTICESHIP [CAP. 576.
-
 (e) conduct internal quality audits on training programmes and their support administrative processes;
 
 (f) develop internal training programme regulations on educational and operational matters of the respective programmes;
@@ -244,12 +216,6 @@ AND APPRENTICESHIP [CAP. 576.
 (4) With respect to qualifications and awards, it shall be the duty of the VET provider to:
 
 (a) issue the qualification or award for each training programme in accordance with the Malta Qualifications Framework or on international qualification structures recognized by industry;
-
-**AND APPRENTICESHIP**
-
-*[CAP. 576.*
-
-*8*
 
 (b) exercise the voluntary option to issue a skills card as specified in this Act, to the learner on the successful completion of the training programme;
 
@@ -281,10 +247,6 @@ AND APPRENTICESHIP [CAP. 576.
 
 (h) provide counselling and guidance services to learners;
 
-*9*
-
-AND APPRENTICESHIP [CAP. 576.
-
 (i) take all necessary action to ensure the wellbeing of learners during the work-placement, apprenticeship and, or internship opportunities provided by sponsors;
 
 (j) mediate on issues relating to work-based learning and training which may arise between the learner and sponsor;
@@ -307,10 +269,6 @@ AND APPRENTICESHIP [CAP. 576.
 
 Provided that for the purpose of this Act, training programmes shall not apply to vocational training programmes that are conducted in their entirety either in vocational schools, or in simulated environments whereby work processes and systems are replicated in an artificial environment.
 
-*10*
-
-[CAP. 576. AND APPRENTICESHIP
-
 ## 11. Suitability of sponsors and trainers.
 
 (1) The VET provider shall identify and supervise the suitability of sponsors and trainers who engage learners for the purposes of this Act, which sponsors and trainers must have the sufficient technical experience, technical qualifications and personal competences:
@@ -331,11 +289,7 @@ Provided that a person shall not be deemed to have the necessary personal compet
 
 (1) The VET provider shall provide regular monitoring of the learners during the work-based period with the sponsor. Visits to learners should be at least twice per academic year, which can be part of visits pertaining to interim and final assessments.
 
-(2) The VET provider may conduct any inspection and request information from the sponsor as it may deem necessary to ascertain that the learner is receiving adequate training in relation to AND APPRENTICESHIP [CAP. 576.
-
-the agreed learning outcomes:
-
-*11*
+(2) The VET provider may conduct any inspection and request information from the sponsor as it may deem necessary to ascertain that the learner is receiving adequate training in relation to the agreed learning outcomes:
 
 Provided that if the VET provider deems that the learner is not receiving adequate training, it shall order the sponsor to remedy the situation and in the event that the sponsor fails to comply, the learner may be withdrawn from the sponsorship.
 
@@ -365,11 +319,7 @@ Provided that training premises where the necessary vocational knowledge, skills
 
 (b) ensure that learners are provided with the environment to achieve the learning outcomes as defined in the training programme plan;
 
-(c) run the work-based training process systematically, in accordance with the training programme plan, syllabus and timetable, in an appropriate form so that the AND APPRENTICESHIP
-
-training is achieved within the specified period;
-
-*[CAP. 576. 12*
+(c) run the work-based training process systematically, in accordance with the training programme plan, syllabus and timetable, in an appropriate form so that the training is achieved within the specified period;
 
 (d) allow learners to attend school-based learning sessions, assessments or any other commitments, which are related to the training programme, as specified in the training programme plan;
 
@@ -389,11 +339,7 @@ training is achieved within the specified period;
 
 (l) allow learners to attend at another workplace for a specified period of time to receive essential training that cannot be delivered within their establishment as specified in the training programme plan:
 
-Provided that such allowance shall only be possible by prior agreement with the sponsor before the commencement of the learning programme as specified in the AND APPRENTICESHIP [CAP. 576.
-
-training agreement;
-
-*13*
+Provided that such allowance shall only be possible by prior agreement with the sponsor before the commencement of the learning programme as specified in the training agreement;
 
 (m) oblige learners to keep a written training logbook record up to date, and to inspect the records insofar as such records are required as part of the work placement, apprenticeship or internship;
 
@@ -421,11 +367,7 @@ training agreement;
 
 (a) learners may be eligible to benefit from student’s maintenance grant in terms of the Student Maintenance Grant Regulations;
 
-(b) learners on apprenticeship programmes have the [CAP. 576. AND APPRENTICESHIP
-
-right to an income equivalent to the national minimum wage per hour for the hours spent at the workplace as stipulated in the training programme plan. The income per hour is calculated as the income derived from the sponsor and from the student maintenance grant.
-
-*14*
+(b) learners on apprenticeship programmes have the right to an income equivalent to the national minimum wage per hour for the hours spent at the workplace as stipulated in the training programme plan. The income per hour is calculated as the income derived from the sponsor and from the student maintenance grant.
 
 (2) Learners shall have the following obligations:
 
@@ -450,10 +392,6 @@ right to an income equivalent to the national minimum wage per hour for the hour
 (1) There shall be a training agreement for work placements, apprenticeships and internships as outlined in Schedule 2, which agreements have to be signed before the commencement of the training programmes by the sponsor, the learner and the VET provider:
 
 Provided that if the learner is a young person, the learner’s parents or legal guardians shall sign the training agreement before the commencement of the training programme.
-
-*15*
-
-AND APPRENTICESHIP [CAP. 576.
 
 (2) The sponsor shall provide all signatories with a copy of the signed contract on the date of signing.
 
@@ -481,10 +419,6 @@ Provided that if upon expiration of the term of training the learner fails to su
 
 A learner who discontinues the work-based period before the time specified by the training agreement shall not be liable to pay the sponsor any amount in respect of the training received during the time spent at work as well as for the remainder of time specifically agreed upon for the work-based period.
 
-*16*
-
-[CAP. 576. AND APPRENTICESHIP
-
 ## 19. Register of Training Agreements.
 
 (1) It shall be the duty of the VET providers to set up and maintain a register for the training programmes that they administer.
@@ -511,11 +445,7 @@ Provided that the National Commission for Further and Higher Education shall hav
 
 (2) Interim assessments shall occur at least once every six months during the training programme.
 
-(3) Interim assessments can take place at the place of work or at the premises of the VET provider or any other premises, which may be designated by the VET provider. The object of the final AND APPRENTICESHIP [CAP. 576.
-
-assessment shall be to determine whether learners have achieved the learning outcomes defined in the training programme plan for both the school-based and work-based components. The final assessment shall demonstrate that Learners have mastered the necessary knowledge, skills, behaviours, attitudes and vocational competences required to carry out a skilled and technical occupation.
-
-*17*
+(3) Interim assessments can take place at the place of work or at the premises of the VET provider or any other premises, which may be designated by the VET provider. The object of the final assessment shall be to determine whether learners have achieved the learning outcomes defined in the training programme plan for both the school-based and work-based components. The final assessment shall demonstrate that Learners have mastered the necessary knowledge, skills, behaviours, attitudes and vocational competences required to carry out a skilled and technical occupation.
 
 (4) The sponsor may withdraw from the training agreement with the VET provider and the learner if the learner fails the final assessment.
 
@@ -540,10 +470,6 @@ Provided that no member appointed to serve on the Work- Based Learning Operation
 (a) adapt where possible existing curricula into training programmes including a work-based learning component;
 
 (b) review training programmes;
-
-*18*
-
-[CAP. 576. AND APPRENTICESHIP
 
 (c) set up a Board of Examiners for each training programme;
 
@@ -577,10 +503,6 @@ Provided that at least three members are present to form a quorum.
 
 (2) No such transfer shall be deemed to be complete until it has been registered in the Register of Training Agreements:
 
-*19*
-
-AND APPRENTICESHIP [CAP. 576.
-
 Provided that the VET provider shall not register a transfer if such transfer is not in the interest of the learner or if it infringes the right of the previous sponsor.
 
 (3) The VET provider may, upon the request of the sponsor, or learner, or both, or upon its own discretion, terminate the agreement by giving written notice of such decision to both parties, and transfer the learner to complete the training programme with another sponsor in the eventuality that:
@@ -609,11 +531,9 @@ Provided that the VET provider shall not register a transfer if such transfer is
 
 (4) Appeals provided for in sub-article (3) shall be filed in the Registry of the Appeals Board within fifteen working days from the date when the decision of the VET provider is communicated to the party.
 
-(5) In the event of a dispute between the sponsor and the VET provider, either party can raise the issue to the Appeals Board. [CAP. 576. AND APPRENTICESHIP
+(5) In the event of a dispute between the sponsor and the VET provider, either party can raise the issue to the Appeals Board.
 
 (6) The Appeals Board shall consist of an independent chairperson and two independent members appointed by the Minister from among persons of known integrity who appear to him to be qualified by reason of experience of and capacity in matters deemed appropriate for such purpose.
-
-*20*
 
 *    Cap. 12.*
 
@@ -631,17 +551,7 @@ Provided that the VET provider shall not register a transfer if such transfer is
 
 (3) Without prejudice to his powers under the provisions of this Act, the Minister may direct any person or any department, agency, corporation or authority established by law to carry out any functions or duties in terms of this Act or of any regulations made in terms of this Act, and, or to ensure the proper implementation of this Act or of any regulations made in terms of this Act, and the Minister may by regulations prescribe and regulate the procedures and methods to be adopted by such person or department, agency, corporation or authority in exercise of such functions.
 
-(4) The Minister may, from time to time, give to any of the entities or to any of its officers or employees such directives and orders, not being inconsistent with the provisions of this Act, as the Minister may deem opportune with regard to the policy that has to be followed by them and to the operation and implementation of their functions, and on any other matter which appears to the Minister to be connected with work-based learning, and the entity, officer or AND APPRENTICESHIP [CAP. 576.
-
-employee concerned shall, as much as possible, without delay comply with and act in accordance with these directives and orders and shall conduct their functioning in accordance with these principles.
-
-*21*
-
-**AND APPRENTICESHIP**
-
-*[CAP. 576.*
-
-*22*
+(4) The Minister may, from time to time, give to any of the entities or to any of its officers or employees such directives and orders, not being inconsistent with the provisions of this Act, as the Minister may deem opportune with regard to the policy that has to be followed by them and to the operation and implementation of their functions, and on any other matter which appears to the Minister to be connected with work-based learning, and the entity, officer or employee concerned shall, as much as possible, without delay comply with and act in accordance with these directives and orders and shall conduct their functioning in accordance with these principles.
 
 SCHEDULE 1
 
@@ -695,8 +605,6 @@ The apprentice receives remuneration for the work-based learning portion of the 
 
 ECVET credits or similar are allocated by a VET provider for learning outcomes achieved during the work period and assessed as part of the apprenticeship programme.
 
-AND APPRENTICESHIP [CAP. 576. 23
-
 *Malta Qualifications Framework  Levels 5 and above or similar*
 
 Internship
@@ -722,10 +630,6 @@ ECVET and ECTS credits or similar are allocated by a VET provider to learning ou
 *•*
 
 Training programmes at these levels may also take the form of apprenticeships as described in this Act.
-
-*24*
-
-[CAP. 576. AND APPRENTICESHIP
 
 ## SCHEDULE 2
 
@@ -761,11 +665,7 @@ A. Training Agreements for Work-Placements
 
 (c) identification of the sponsor and the lead trainer within the organisation throughout the training programme;
 
-(d) start, end date, duration and hours of the work- AND APPRENTICESHIP [CAP. 576.
-
-based period;
-
-*25*
+(d) start, end date, duration and hours of the work-based period;
 
 (e) activities taking place outside the training premises;
 
@@ -803,11 +703,7 @@ based period;
 
 (4) Where the learner is a young person such learner shall still be regulated in terms of the Young Persons (Employment) Regulations throughout the training period.
 
-(5) During the VET providers’ Christmas, Easter and [CAP. 576. AND APPRENTICESHIP
-
-summer breaks, learners may attend the work-based learning component of the training programme as agreed with the sponsor in the training programme plan.
-
-*26*
+(5) During the VET providers’ Christmas, Easter and summer breaks, learners may attend the work-based learning component of the training programme as agreed with the sponsor in the training programme plan.
 
 (6) Learners on a training programme for work placements, whether paid or unpaid, continue to receive any social benefits due to them in the form of, but not limited to, disability and single parent benefits.
 
@@ -843,11 +739,7 @@ B. Training Agreements for Apprenticeship
 
 (k) rights to social security benefits;
 
-(l) hours a learner spends with the sponsor shall be AND APPRENTICESHIP [CAP. 576.
-
-considered as the hours spent on the work-based learning component of the training programme as defined in the training programme plan.
-
-*27*
+(l) hours a learner spends with the sponsor shall be considered as the hours spent on the work-based learning component of the training programme as defined in the training programme plan.
 
 (4) The training agreement shall also establish the apprentice’s eligibility to work overtime provided that the sponsor has obtained the necessary written consent from the VET provider.
 
@@ -872,12 +764,6 @@ considered as the hours spent on the work-based learning component of the traini
 (c) identification of the sponsor and the lead trainer within the organisation throughout the training programme;
 
 (d) start, end date, duration and hours of the work-based period;
-
-**AND APPRENTICESHIP**
-
-*[CAP. 576.*
-
-*28*
 
 (e) activities taking place outside the training premises;
 
@@ -917,11 +803,7 @@ considered as the hours spent on the work-based learning component of the traini
 
 *Cap. 452.*
 
-(b) imposes penalties on the learner other than AND APPRENTICESHIP [CAP. 576.
-
-penalties regulated by the Employment and Industrial Relations Act;
-
-*29*
+(b) imposes penalties on the learner other than penalties regulated by the Employment and Industrial Relations Act;
 
 (c) excludes or limits claims to compensation for damages, and, or determines the rate of compensation for damages as a lump sum.
 
@@ -950,12 +832,6 @@ C. Training Agreement for Internships
 (4) A training agreement for internships that are remunerated shall, under pain of nullity, contain the following conditions:
 
 (a) identification of the recognised skilled and technical occupation for which the training programme is conducted;
-
-**AND APPRENTICESHIP**
-
-*[CAP. 576.*
-
-*30*
 
 (b) identification of the VET provider that is acting as the overseer of the training programme;
 
@@ -993,11 +869,7 @@ C. Training Agreement for Internships
 
 (s) location of the premises where the work-based learning shall be provided;
 
-(t) identification of the sponsor and the lead trainer AND APPRENTICESHIP [CAP. 576.
-
-responsible for the apprentice.
-
-*31*
+(t) identification of the sponsor and the lead trainer responsible for the apprentice.
 
 *S.L. 452.92*
 

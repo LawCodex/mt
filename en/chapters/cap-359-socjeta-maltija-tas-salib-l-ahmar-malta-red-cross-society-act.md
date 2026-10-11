@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Soċjetà Maltija tas-Salib l-Aħmar - Malta Red Cross Society Act (Cap. 359)
 
-**MALTA RED CROSS SOCIETY**
-
 **CHAPTER 359**
 
 **SO¬JETÀ MALTIJA TAS-SALIB L-A}MAR -**
@@ -62,8 +60,6 @@ The Statute of the Society as set in the First Schedule to this Act may subject 
 ### 6. Withdrawal of recognition.
 
 The House may at any time where it considers that the Society is not acting in conformity with article 3, pass a resolution, whereby the recognition given to the Society in virtue of this Act, may be withdrawn and may by a similar resolution restore such recognition; and where such recognition is withdrawn the right of the Society to use the Emblem of the Red Cross referred to in article 4(1) shall be suspended as shall also be the exception in favour of the Society contained in article 4(2).
-
-MALTA RED CROSS SOCIETY
 
 ## FIRST SCHEDULE
 
@@ -120,8 +116,6 @@ The Malta Red Cross Society has an emblem the heraldic sign of the red cross on 
 General Object and Principal Aims
 
 The general object of the Malta Red Cross Society is to prevent and alleviate suffering with complete impartiality, making no discrimination as to nationality, race, gender, religious beliefs, class or political opinions.
-
-MALTA RED CROSS SOCIETY
 
 For this purpose its task is in particular:
 
@@ -199,9 +193,7 @@ It discusses all items entered on the final agenda which it has adopted.
 
 Sessions
 
-The General Assembly meets each year in ordinary session, at a time and place MALTA RED CROSS SOCIETY
-
-laid down by the previous General Assembly, or by the Managing Committee acting under authority delegated to it by the General Assembly. It meets in extraordinary session on the initiative of the Managing Committee or at the request of one fifth of the members of the General Assembly.
+The General Assembly meets each year in ordinary session, at a time and place laid down by the previous General Assembly, or by the Managing Committee acting under authority delegated to it by the General Assembly. It meets in extraordinary session on the initiative of the Managing Committee or at the request of one fifth of the members of the General Assembly.
 
 **ARTICLE 14**
 
@@ -274,8 +266,6 @@ Functions of the President
 The President ensures the general supervision of the administration of the Malta Red Cross Society and the carrying out of decisions taken by its committees and commissions. He is competent to take any urgent measures in the interval between their sessions or when it is impossible for them to meet owing to exceptional circumstances; he is responsible for giving an account of such measures at the next meeting of the committees in question.
 
 If the President is prevented from carrying out his functions, his place is taken by one of the Vice-Presidents or by the Director General.
-
-MALTA RED CROSS SOCIETY
 
 **ARTICLE 20**
 
@@ -350,8 +340,6 @@ Decision as to the handling and investment of the available funds are taken by t
 Finance Commission
 
 The Finance Commission, whose members are elected by the Managing Committee and of which the Treasurer is an ex officio member, gives its advice on all financial questions and in particular on the budgets, on the annual accounts and on the Treasurer's report.
-
-11
 
 ## CHAPTER VIII — International Relations — ARTICLE 28
 

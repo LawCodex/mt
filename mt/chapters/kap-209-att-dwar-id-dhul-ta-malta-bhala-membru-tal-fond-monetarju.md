@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar id-Dħul ta' Malta bħala membru tal-Fond Monetarju Internazzjonali (Cap. 209)
 
-*1*
-
-TAL-FOND MONETARJU INTERNAZZJONALI [KAP. 209.
-
 **KAPITOLU 209**
 
 **ATT DWAR ID-DĦUL TA’ MALTA BĦALA**
@@ -104,10 +100,6 @@ Id-dispożizzjonijiet tal-artikoli li ġejjin għandu jkollhom effett minnufih i
 (b) li tagħti lill-Fond xi eżenzjoni minn taxxi jew dazji li jifformaw parti mill-prezz tal-merkanzija miksuba mill-Fond f’Malta; jew
 
 \*Il-Ftehim tal-Fond ġie ffirmat fil-11 ta’ Settembru, 1968 u l-att imsemmi fl-artikolu 4 ġie depożitat fit-28 ta’ Novembru, 1969.
-
-*3*
-
-TAL-FOND MONETARJU INTERNAZZJONALI [KAP. 209.
 
 (ċ) li jagħti lill-Fond xi eżenzjoni minn taxxi jew dazji li jkunu fil-fatt drittijiet għal servizzi mogħtija.
 
@@ -197,11 +189,9 @@ Indja ................................ 400
 
 ## 1.
 
-Biex jiġi stabbilit safejn xiri mill-ġdid ta’ flejjes ta’ membru mill-Fond skont is-Sezzjoni V, Artikolu 7 (b), għandu jsir b’kull klassi ta’ riżerva monetarja, jiġifieri f’deheb u fi flejjes konvertibbli, ir-regola li ġejja, salv it-2 ta’ hawn taħt, TAL-FOND MONETARJU INTERNAZZJONALI [KAP. 209. 5
+Biex jiġi stabbilit safejn xiri mill-ġdid ta’ flejjes ta’ membru mill-Fond skont is-Sezzjoni V, Artikolu 7 (b), għandu jsir b’kull klassi ta’ riżerva monetarja, jiġifieri f’deheb u fi flejjes konvertibbli, ir-regola li ġejja, salv it-2 ta’ hawn taħt, għandha tapplika:
 
 \*L-Iskeda "Articles of Agreement of the International Monetary Fund" tinsab fil-verżjoni bl-Ingliż ta’ dan l-Att.
-
-għandha tapplika:
 
 (a) Jekk ir-riżervi monetarji tal-membru ma jkunux żdiedu matul is-sena, l-ammont li għandu jitħallas lill-Fond għandu jitqassam fost il-klassijiet kollha ta’ riżervi fi proporzjon tal-holdings tagħhom mill-membru fl-aħħar tas-sena.
 
@@ -279,9 +269,7 @@ Jekk il-holdings tal-Fond tal-flejjes tal-membru li jirtira ma jkunux biżżejje
 
 ## 3.
 
-Jekk il-Fond jonqos milli jħallas xi rata li tkun dovuta skont il-paragrafi ta’ TAL-FOND MONETARJU INTERNAZZJONALI [KAP. 209. 7
-
-qabel, il-membru li jirtira jkollu dritt li jitlob lill-Fond li jħallas ir-rata fi kwalunkwe flejjes miżmuma mill-Fond barra minn f’xi flejjes li jkunu ġew dikjarati skarsi skont is-Sezzjoni VII, Artikolu 3.
+Jekk il-Fond jonqos milli jħallas xi rata li tkun dovuta skont il-paragrafi ta’ qabel, il-membru li jirtira jkollu dritt li jitlob lill-Fond li jħallas ir-rata fi kwalunkwe flejjes miżmuma mill-Fond barra minn f’xi flejjes li jkunu ġew dikjarati skarsi skont is-Sezzjoni VII, Artikolu 3.
 
 ## 4.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Protezzjoni tal-Interessi Finanzjarji tal-Komunitajiet Ewropej (Cap. 508)
 
-*1*
-
-TAL-KOMUNITAJIET EWROPEJ [KAP. 508.
-
 **KAPITOLU 508**
 
 **ATT DWAR IL-PROTEZZJONI TAL-INTERESSI**
@@ -48,10 +44,6 @@ F’dan il-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 "Stat Membru" tfisser kull Stat li huwa membru tal-Unjoni Ewropea;
 
 "it-Trattat" tfisser it-Trattat bejn ir-Renju tal-Belġju, ir-Renju tad-Danimarka, ir-Repubblika Federali tal-Ġermanja, ir- Repubblika Ellenika, ir-Renju ta’ Spanja, ir-Repubblika Franċiża, l-Irlanda, ir-Repubblika Taljana, il-Gran Dukat tal-Lussemburgu, ir-Renju tal-Olanda, ir-Repubblika tal-Awstrija, ir-Repubblika Portugiża, ir-Repubblika tal-Finlandja, ir-Renju tal-Isvezja, ir- Renju Unit tal-Gran Brittanja u l-Irlanda ta’ Fuq (Stati Membri tal- Unjoni Ewropea) u r-Repubblika Ċeka, ir-Repubblika tal-Estonja, ir-Repubblika ta’ Ċipru, ir-Repubblika tal-Latvja, ir-Repubblika tal-Litwanja, ir-Repubblika tal-Ungerija, ir-Repubblika ta’ Malta, ir-Repubblika tal-Polonja, ir-Repubblika tas-Slovenja u r- Repubblika Slovakka, dwar l-adeżjoni tar-Repubblika Ċeka, ir- Repubblika tal-Estonja, ir-Repubblika ta’ Ċipru, ir-Repubblika tal- Latvja, ir-Repubblika tal-Litwanja, ir-Repubblika tal-Ungerija, ir- Repubblika ta’ Malta, ir-Repubblika tal-Polonja, ir-Repubblika tas- Slovenja u r-Repubblika Slovakka mal-Unjoni Ewropea, iffirmat f’Ateni fis-16 ta’ April, 2003, u jinkludi kull trattat, ftehim jew protokoll ieħor li Malta saret parti fih jew li sar japplika għal Malta bis-saħħa tiegħu stess;
-
-*2*
-
-[KAP. 508. TAL-KOMUNITAJIET EWROPEJ
 
 *Kap. 460.*
 

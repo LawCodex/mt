@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Dipendenza fuq id-Droga (Trattament mhux Priġunerija) (Cap. 537)
 
-*1*
-
-(TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
-
 **KAPITOLU 537**
 
 **ATT DWAR DIPENDENZA FUQ ID-DROGA**
@@ -91,10 +87,6 @@ Iżda l-Ministru jista’ permezz ta’ regolamenti magħmula bis-saħħa ta’ 
 
 Iżda fejn akkuża li għaliha japplika dan is-subartikolu tiġi kontestata jew fejn ma jsir l-ebda ħlas tal-penali kif previst hawn qabel f ’dan is-subartikolu, id-dispożizzjonijiet ta’ dan l-Att għandhom jieqfu milli japplikaw fir-rigward tal-persuna mixlija u l-każ għandu jkompli skont id-dispożizzjonijiet tal-liġijiet dwar id-droga.
 
-*3*
-
-(TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
-
 Għall-finijiet ta’ dan is-subartikolu "kontestat" tfisser avviż ta’ kontestazzjoni wkoll b’mod verbali.
 
 ## 4A. Pussess għall-użu personali u konsum tad-droga kannabis.
@@ -145,13 +137,9 @@ Iżda meta l-persuna li tinsab ħatja għat-tieni darba jew għal darba sussegwe
 
 *Nuqqas ta’ dehra quddiem il-Bord.*
 
-(3) Il-Kummissarju għall-Ġustizzja għandu fil-każijiet kollha joħroġ ordni ta’ dehra quddiem il-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga fil-każ li persuna tiġi akkużata bit-tieni reat jew reat sussegwenti skont it-termini tas-subartikoli (1) jew (2) u li jew tagħżel li tħallas il-penali mingħajr proċeduri skont it-termini tal-Att dwar il-Kummissarji għall-Ġustizzja jew tonqos milli tidher quddiem il-Kummissarju meta debitament imħarrka. (TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
+(3) Il-Kummissarju għall-Ġustizzja għandu fil-każijiet kollha joħroġ ordni ta’ dehra quddiem il-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga fil-każ li persuna tiġi akkużata bit-tieni reat jew reat sussegwenti skont it-termini tas-subartikoli (1) jew (2) u li jew tagħżel li tħallas il-penali mingħajr proċeduri skont it-termini tal-Att dwar il-Kummissarji għall-Ġustizzja jew tonqos milli tidher quddiem il-Kummissarju meta debitament imħarrka. (4) Fejn persuna tinbagħat quddiem il-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga skont it-termini tas-subartikoli (1), (2) jew (3), l-imsemmi Bord għandu jħarrek lill-imsemmija persuna sabiex tidher quddiemu u għandu, wara li jagħmel dak l-istħarriġ dwar dik l-imsemmija persuna kif huwa proporzjonat u kif iqis neċessarju, u jekk isib li l-imsemmija persuna għandha problema ta’ dipendenza fuq id-droga li għandha bżonn trattament, l-imsemmi Bord għandu joħroġ dawk l-ordnijiet lil dik il-persuna li l-Bord iqis neċessarji għall-għan li jassisti lil dik il-persuna sabiex toħroġ mid-dipendenza fuq id-droga.
 
 *Kap. 291.*
-
-(4) Fejn persuna tinbagħat quddiem il-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga skont it-termini tas-subartikoli (1), (2) jew (3), l-imsemmi Bord għandu jħarrek lill-imsemmija persuna sabiex tidher quddiemu u għandu, wara li jagħmel dak l-istħarriġ dwar dik l-imsemmija persuna kif huwa proporzjonat u kif iqis neċessarju, u jekk isib li l-imsemmija persuna għandha problema ta’ dipendenza fuq id-droga li għandha bżonn trattament, l-imsemmi Bord għandu joħroġ dawk l-ordnijiet lil dik il-persuna li l-Bord iqis neċessarji għall-għan li jassisti lil dik il-persuna sabiex toħroġ mid-dipendenza fuq id-droga.
-
-*5*
 
 (5) Kull persuna li wara li tiġi riferita lill-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga tonqos, mingħajr ġustifikazzjoni raġonevoli, milli tidher quddiem il-Bord f ’xi okkażjoni li tkun mistennija tidher, jew tonqos mingħajr ġustifikazzjoni raġonevoli milli tosserva xi ordni maħruġ lilha mill- Bord tkun ħatja ta’ reat kontra dan l-Att u teħel meta tinsab ħatja mill-Qorti tal-Maġistrati multa ta’ bejn mitt euro (€100) u ħames mitt euro (€500) jew priġunerija għal perjodu ta’ tliet xhur jew dik il-multa u priġunerija flimkien.
 
@@ -201,11 +189,7 @@ Iżda l-persuni maħtura skont il-paragrafi (b), (ċ) u (d) għandhom jinħatru 
 
 (h) li jaħdem b’mod koordinat mal-awtoritajiet tal-ġustizzja, tal-politika soċjali, tal-pulizija, tas-saħħa u tat-taħriġ ġudizzjarju għall-organizzazzjoni ta’ taħriġ għall-prattikanti involuti f’attivitajiet relatati mal-kontroll tal-abbuż mid-droga u mġiba relatata mad-droga;
 
-(i) li jaqdi kull funzjoni oħra li tirrigwarda r-riabilitazzjoni ta’ persuni li jabbużaw mid-droga kif il- Ministru jista’ jassenjalu minn żmien għal żmien, (TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
-
-permezz ta’ regolamenti.
-
-*7*
+(i) li jaqdi kull funzjoni oħra li tirrigwarda r-riabilitazzjoni ta’ persuni li jabbużaw mid-droga kif il- Ministru jista’ jassenjalu minn żmien għal żmien, permezz ta’ regolamenti.
 
 (5) B’mod ġenerali, sabiex jeżerċita s-setgħat u l-funzjonijiet tiegħu, il-Bord ikollu, mutatis mutandis, is-setgħat kollha li huma vestiti fil-Qorti tal-Maġistrati skont id-dispożizzjonijiet tat-Tieni Ktieb tal-Kodiċi Kriminali.
 
@@ -257,11 +241,7 @@ Iżda f’tali ċirkostanzi, il-Pulizija Eżekuttiva jew kwalunkwe awtorità jew
 
 Iżda f’tali ċirkostanzi, il-Pulizija Eżekuttiva jew kwalunkwe awtorità jew korp regolatorju awtorizzat mil-liġi għandu jkollhom l-awtorità li jaqbdu u jikkonfiskaw il-pjanti tal-kannabis.
 
-(6) Il-Ministru responsabbli għall-Att li jwaqqaf l-Awtorità dwar l-Użu Responsabbli tal-Kannabis jista’ jagħmel regolamenti (TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
-
-għall-implimentazzjoni aħjar tad-dispożizzjonijiet ta’ dan l-artikolu u, bla ħsara għall-ġeneralità ta’ dak li ngħad qabel, dawk ir-regolamenti jistgħu wkoll jipprovdu kundizzjonijiet sabiex jiżguraw it-tħaris tar-rekwiżiti hawn stabbiliti.
-
-*9*
+(6) Il-Ministru responsabbli għall-Att li jwaqqaf l-Awtorità dwar l-Użu Responsabbli tal-Kannabis jista’ jagħmel regolamenti għall-implimentazzjoni aħjar tad-dispożizzjonijiet ta’ dan l-artikolu u, bla ħsara għall-ġeneralità ta’ dak li ngħad qabel, dawk ir-regolamenti jistgħu wkoll jipprovdu kundizzjonijiet sabiex jiżguraw it-tħaris tar-rekwiżiti hawn stabbiliti.
 
 ## 7A. Organizzaz-zjonijiet ta’ individwi.
 
@@ -313,11 +293,7 @@ għandux ikun f’distanza ta’ anqas minn mitejn u ħamsin metru (250m) mill-e
 
 (p) illi kull tliet (3) xhur tagħti rendikont bil-miktub lill- Awtorità dwar l-Użu Responsabbli tal-Kannabis dwar il-kwantità ta’ kannabis li tkun ġiet imqassma fost il-membri tal-organizzazzjoni, u dwar in-numru ta’ membri tal-organizzazzjoni;
 
-(q) li żżomm reġistru tal-membri tagħha liema reġistru (TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
-
-għandu jkollu bħala minimu l-ismijiet u kopja tal-karta tal-identità jew ta’ dokument tal-identità uffiċjali ieħor jew tal-passaport tal-istess membri. Dak ir-reġistru għandu jinżamm b’mod li jkun konformi mal-liġijiet dwar il-protezzjoni tad-data kif applikabbli minn żmien għal żmien:
-
-*11*
+(q) li żżomm reġistru tal-membri tagħha liema reġistru għandu jkollu bħala minimu l-ismijiet u kopja tal-karta tal-identità jew ta’ dokument tal-identità uffiċjali ieħor jew tal-passaport tal-istess membri. Dak ir-reġistru għandu jinżamm b’mod li jkun konformi mal-liġijiet dwar il-protezzjoni tad-data kif applikabbli minn żmien għal żmien:
 
 Iżda l-Awtorità dwar l-Użu Responsabbli tal-Kannabis għandha tivverifika l-konformità ta’ dan ir-rekwiżit abbażi ta’ kunfidenzjalità u nuqqas ta’ żvelar:
 
@@ -363,13 +339,9 @@ KAP. 537.] (TRATTAMENT MHUX PRIĠUNERIJA)
 
 (2) L-ebda proċeduri kriminali skont l-artikolu preċedenti jew kwalunkwe strumenti regolatorji oħra ma għandhom jiġu istitwiti ħlief fuq it-talba jew bil-permess tal-Awtorità dwar l-Użu Responsabbli tal- Kannabis u kwalunkwe proċeduri li jkunu ġew hekk istitwiti jistgħu, fi kwalunkwe waqt qabel is-sentenza finali, jiġu rtirati fuq talba tal- Awtorità dwar l-Użu Responsabbli tal-Kannabis:
 
-Iżda dan għandu japplika kemm-il darba l-fatt ma jkunx relatat ukoll ma’ reat aktar serju taħt il-Kodiċi Kriminali jew (TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
+Iżda dan għandu japplika kemm-il darba l-fatt ma jkunx relatat ukoll ma’ reat aktar serju taħt il-Kodiċi Kriminali jew kwalunkwe liġi oħra, f ’liema każ għandhom japplikaw id-dispożizzjonijiet tal-Kodiċi Kriminali jew ta’ tali liġi oħra.
 
 *Kap. 9.*
-
-kwalunkwe liġi oħra, f ’liema każ għandhom japplikaw id-dispożizzjonijiet tal-Kodiċi Kriminali jew ta’ tali liġi oħra.
-
-*13*
 
 *Kap. 9.*
 
@@ -411,11 +383,7 @@ KAP. 537.] (TRATTAMENT MHUX PRIĠUNERIJA)
 
 (b) li r-reat kontra xi liġi oħra li mhix il-liġijiet dwar id-droga li bih il-persuna akkużata hi mixlija ma jikkonsistix f’reat volontarju kontra l-persuna jew f’att kriminali mwettaq waqt li l-persuna akkużata kienet fil-pussess ta’ armi regulari jew bl-użu ta’ nar jew splussiv:
 
-Iżda l-Qorti fid-diskrezzjoni tagħha għandu jkollha d-dritt, wara li tqis il-gravità tar-reat li l-persuna tkun akkużata bih, li ma tapplikax l-esklużjoni stipulata f’dan il-paragrafu jekk ir-reat volontarju fil-konfront tal-persuna ma jkunx wieħed li jkun soġġett għal piena ta’ priġunerija għal perjodu ta’ aktar minn sentejn (2) u li ma jkunx twettaq bl-użu jew bil-pussess ta’ arma tan-nar, ta’ nar jew splussiv, u wara li l-Qorti tkun sodisfatta li l-applikazzjoni tal-imsemmija esklużjoni tkun ser toħloq preġudizzju li jkun sproporzjonat għall-gravità attwali (TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
-
-tar-reat b’detriment għall-opportunità li l-akkużat jirriabilita ruħu mid-dipendenza fuq id-droga;
-
-*15*
+Iżda l-Qorti fid-diskrezzjoni tagħha għandu jkollha d-dritt, wara li tqis il-gravità tar-reat li l-persuna tkun akkużata bih, li ma tapplikax l-esklużjoni stipulata f’dan il-paragrafu jekk ir-reat volontarju fil-konfront tal-persuna ma jkunx wieħed li jkun soġġett għal piena ta’ priġunerija għal perjodu ta’ aktar minn sentejn (2) u li ma jkunx twettaq bl-użu jew bil-pussess ta’ arma tan-nar, ta’ nar jew splussiv, u wara li l-Qorti tkun sodisfatta li l-applikazzjoni tal-imsemmija esklużjoni tkun ser toħloq preġudizzju li jkun sproporzjonat għall-gravità attwali tar-reat b’detriment għall-opportunità li l-akkużat jirriabilita ruħu mid-dipendenza fuq id-droga;
 
 (ċ) li hemm raġunijiet oġġettivi li jindikaw li l-persuna akkużata x’aktarx tiġi riabilitata mid-dipendenza fuq id-droga jew li għamlet progress jew sforz sostanzjali sabiex teħles mid-dipendenza mid-droga.
 
@@ -463,11 +431,7 @@ Iżda wkoll f’dawk il-kawżi fejn il-Qorti tkun irċeviet rapport imħejji sko
 
 (9) M’għandu jkun hemm l-ebda dritt ta’ appell minn deċiżjoni tal-Qorti li tassumi l-funzjonijiet ta’ Qorti dwar id-Droga jew li tiċħad talba sabiex tagħmel dan, jew minn xi deċiżjoni tal-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga.
 
-(10) Fejn il-persuna akkużata ġiet riferita lill-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga kif previst f’dan l-artikolu l-persuna akkużata għandha, matul il-perjodu li fih il- (TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
-
-persuna tkun hekk riferita, titressaq quddiem il-Qorti f’intervalli ta’ mhux aktar minn tliet xhur sabiex il-Qorti tkun aġġornata, verbalment jew bil-miktub, mill-Bord fir-rigward tal-progress tar-riabilitazzjoni jew it-trattament tal-persuna akkużata.
-
-*17*
+(10) Fejn il-persuna akkużata ġiet riferita lill-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga kif previst f’dan l-artikolu l-persuna akkużata għandha, matul il-perjodu li fih il-persuna tkun hekk riferita, titressaq quddiem il-Qorti f’intervalli ta’ mhux aktar minn tliet xhur sabiex il-Qorti tkun aġġornata, verbalment jew bil-miktub, mill-Bord fir-rigward tal-progress tar-riabilitazzjoni jew it-trattament tal-persuna akkużata.
 
 (11) Matul iż-żmien meta l-persuna akkużata tkun riferita quddiem il-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid- Droga il-Qorti għandha tkompli tisma’ l-każ kontra l-persuna akkużata daqslikieku dik ir-referenza ma saritx iżda m’għandhiex tagħti deċiżjoni.
 
@@ -525,11 +489,7 @@ Iżda l-ebda preskrizzjonijiet urġenti ma għandhom jitħallew isiru fir-rigwar
 
 (1) Il-Ministru jista’ jagħmel regolamenti għall-implimentazzjoni aħjar ta’ kull dispożizzjoni ta’ dan l-Att u, mingħajr preġudizzju għall-ġeneralità ta’ dak hawn qabel imsemmi dawn ir-regolamenti jistgħu jagħmlu dispożizzjonijiet:
 
-(a) għat-twaqqif ta’ proċeduri li għandhom jiġu segwiti (TRATTAMENT MHUX PRIĠUNERIJA) [KAP. 537.
-
-mill-Kummissarji għall-Ġustizzja li jisimgħu każijiet taħt dan l-Att u fir-rigward tal-proċedura li għandha tiġi segwita mill-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga;
-
-*19*
+(a) għat-twaqqif ta’ proċeduri li għandhom jiġu segwiti mill-Kummissarji għall-Ġustizzja li jisimgħu każijiet taħt dan l-Att u fir-rigward tal-proċedura li għandha tiġi segwita mill-Bord ta’ Riabilitazzjoni ta’ Persuni li Nqabdu bid-Droga;
 
 (b) għall-organizzazzjoni ta’ skemi ta’ servizz għall-komunità u biex jipprovdu li dawn l-iskemi jistgħu, bl-awtorizzazzjoni ta’ Qorti jew tal-Kummissarju għall- Ġustizzja skont il-każ, jintużaw bħala alternattiva għal penali pekunjarja li tista’ tiġi imposta minn Qorti jew mill-Kummissarju għall-Ġustizzja taħt dan l-Att;
 

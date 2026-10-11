@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Att dwar Tfal u Żgħażagħ (Ordnijiet għall-Ħarsien) (Cap. 285)
 
-*1*
-
-(ORDNIJIET GĦALL-ĦARSIEN) [KAP. 285.
-
 ## KAPITOLU 285\* — ATT DWAR TFAL U ŻGĦAŻAGĦ — (ORDNIJIET GĦALL-ĦARSIEN)
 
 Biex jipprovdi għall-ħarsien ta’ tfal u żgħażagħ.
@@ -86,13 +82,11 @@ KAP. 285.] (ORDNIJIET GĦALL-ĦARSIEN)
 
 (5) Jekk il-Qorti tal-Minorenni tikkonferma li l-ordni saret taħt is-subartikolu (1), il-persuna msemmija fl-imsemmi subartikolu tista’, wara erba’ xhur wara dik il-konferma, titlob lill-Qorti tal- Minorenni biex tirrevedi l-ordni. Dik it-talba għandha ssir permezz ta’ ittra reġistrata lil-Uffiċjal Eżekuttiv Ewlieni tal-Awtorità ta’ Standards ta’ Ħarsien Soċjali. L-Uffiċjal Eżekuttiv Ewlieni tal- Awtorità ta’ Standards ta’ Ħarsien Soċjali għandu, mhux iżjed minn sebat ijiem mid-data tal-wasla ta’ dik l-ittra, jirreferi l-każ lill-Qorti tal-Minorenni bl-istess mod hekk kif preskritt bir-regolamenti magħmulin taħt l-artikolu 13, b’dan illi dik il-Qorti għandha tiddeċiedi dwar dik ir-referenza fi żmien wieħed u għoxrin ġurnata minn meta saret dik ir-referenza.
 
-(6) Ordni magħmul taħt is-subartikolu (1) għandu, kemm-il darba (ORDNIJIET GĦALL-ĦARSIEN) [KAP. 285. ma jkunx waqaf l-effett tiegħu qabel, jieqaf milli jkollu effett fid-data li fiha t-tifel jew iż-żagħżugħ li dwaru jsir l-ordni jilħaq l-età ta’ tmintax-il sena.
+(6) Ordni magħmul taħt is-subartikolu (1) għandu, kemm-il darba ma jkunx waqaf l-effett tiegħu qabel, jieqaf milli jkollu effett fid-data li fiha t-tifel jew iż-żagħżugħ li dwaru jsir l-ordni jilħaq l-età ta’ tmintax-il sena.
 
 ### 5. Ordni temporanju.
 
 Jekk, fuq rappreżentazzjonijiet li jsirulu minn xi persuna, ukoll verbalment, il-Ministru jkun sodisfatt -
-
-*3*
 
 (a) li tifel jew żagħżugħ ikun jinħtieġ ħarsien, protezzjoni jew kontroll, u
 
@@ -152,11 +146,9 @@ Iżda jekk fil-fehma tal-Ministru jkun meħtieġ, sabiex jiġi mħares il-pubbli
 
 (3) Bla ħsara għad-disposizzjonijiet ta’ qabel ta’ dan l-artikolu u għas-setgħat u għad-dmirijiet tiegħu taħt l-artikoli 8 u 9, il- Ministru jista’ jħalli li tifel jew żagħżugħ taħt il-ħarsien tiegħu, għal kull żmien li l-Ministru jistabbilixxi jew sakemm il-Ministru jordna xort’oħra, ikun taħt il-ħarsien u l-kontroll ta’ xi wieħed mill-ġenituri, ta’ kustodju, qarib jew ħabib.
 
-(4) Il-Ministru jista’, f’kull żmien u fid-diskrezzjoni tiegħu, jitlaq minn taħt il-ħarsien tiegħu jew minn taħt il-ħarsien tal-persuna jew istituzzjoni fejn ikun ġie alloġġat, skond il-każ, tifel (ORDNIJIET GĦALL-ĦARSIEN) [KAP. 285. jew żagħżugħ li jkun ittieħed taħt il-ħarsien tiegħu skond l-artikolu 4(1), taħt l-artikolu 5 jew taħt l-artikolu 6(1), u jista’ hekk jitilqu jew b’mod assolut jew taħt dawk il-kondizzjonijiet li l-Ministru jista’ jistabbilixxi.
+(4) Il-Ministru jista’, f’kull żmien u fid-diskrezzjoni tiegħu, jitlaq minn taħt il-ħarsien tiegħu jew minn taħt il-ħarsien tal-persuna jew istituzzjoni fejn ikun ġie alloġġat, skond il-każ, tifel jew żagħżugħ li jkun ittieħed taħt il-ħarsien tiegħu skond l-artikolu 4(1), taħt l-artikolu 5 jew taħt l-artikolu 6(1), u jista’ hekk jitilqu jew b’mod assolut jew taħt dawk il-kondizzjonijiet li l-Ministru jista’ jistabbilixxi.
 
 (5) Il-Ministru jista’ wkoll minn żmien għal żmien, kif jidhirlu xieraq, jibdel xi wieħed mill-arranġamenti magħmula taħt dan l-artikolu.
-
-*5*
 
 ### 11. Bord Konsultattiv dwar it-Tfal u ż- Żgħażagħ.
 

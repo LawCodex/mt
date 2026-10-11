@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Reġistrazzjoni u l-Ħruġ ta’ Warrants lill-Interpreti tal-Lingwa tas-Sinjali (Cap. 654)
 
-*1*
-
-INTERPRETI TAL-LINGWA TAS-SINJALI [KAP. 654.
-
 **KAPITOLU 654**
 
 **ATT DWAR IR-REĠISTRAZZJONI U L-ĦRUĠ TA’**
@@ -69,10 +65,6 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "Ministru" tfisser il-Ministru responsabbli għad-diżabilità u għall-iżvilupp ta’ dan is-settur;
 
-*2*
-
-[KAP. 654. INTERPRETI TAL-LINGWA TAS-SINJALI
-
 "pajjiż terz" tfisser pajjiż li ma huwiex Stat ŻEE jew l- Isvizzera;
 
 "Stat ŻEE" tfisser Stat li jkun parti kontraenti fil-ftehim dwar iż-Żona Ekonomika Ewropea ffirmat f’Oporto fit-2 ta’ Mejju, 1992 kif emendat bil-Protokol iffirmat fi Brussell fis-17 ta’ Marzu 1993 u kif emendat minn żmien għal żmien;
@@ -103,11 +95,7 @@ Iżda dawn ir-rekwiżiti ma għandhomx japplikaw għal kwalunkwe persuna li tkun
 
 (ċ) żewġ (2) membri maħtura wara li l-Kunsill ikun ikkonsulta l-Assoċjazzjoni, minn fost il-membri tal- Assoċjazzjoni li jkunu ilhom bil-warrant għall-inqas għal sentejn (2); u
 
-(d) membru wieħed (1) li għandu jiġi elett b’vot INTERPRETI TAL-LINGWA TAS-SINJALI [KAP. 654.
-
-sigriet minn fost id-detenturi tal-warrant innifishom.
-
-*3*
+(d) membru wieħed (1) li għandu jiġi elett b’vot sigriet minn fost id-detenturi tal-warrant innifishom.
 
 (2) Iċ-chairperson għandu jinħatar għal terminu ta’ tliet (3) snin, u taħt dawk il-kondizzjonijiet li jistgħu jiġu stabbiliti fl-ittra tal-ħatra tal-istess chairperson, kif soġġett għal perjodi ta’ ħatriet ulterjuri.
 
@@ -133,11 +121,7 @@ Iżda ċ-chairperson għandu jkollu vot inizjali u f’każ ta’ voti ndaqs, vo
 
 (a) li jikkunsidra applikazzjonijiet għar-reġistrazzjoni skont l-artikolu 7 jew 12, jew l-għoti ta’ warrant skont l-artikolu 9 jew dikjarazzjonijiet fir-rigward tal-forniment ta’ servizz fuq bażi temporanja jew okkażjonali skont l-artikolu 13;
 
-(b) li jagħti pariri lill-Kunsill dwar ir- [KAP. 654. INTERPRETI TAL-LINGWA TAS-SINJALI
-
-regolamentazzjoni tal-kondizzjonijiet ta’ taħriġ prattiku, inkluż ta’ perjodi meħtieġa, b’żieda mad-dispożizzjonijiet tal-artikoli 7 u 9;
-
-*4*
+(b) li jagħti pariri lill-Kunsill dwar ir-regolamentazzjoni tal-kondizzjonijiet ta’ taħriġ prattiku, inkluż ta’ perjodi meħtieġa, b’żieda mad-dispożizzjonijiet tal-artikoli 7 u 9;
 
 (ċ) li jagħti pariri lill-Kunsill fir-rigward tal-approvazzjoni ta’ universitajiet jew istituzzjonijiet akkademiċi, b’żieda mad-dispożizzjonijiet tal-artikoli 7 u 9; u
 
@@ -167,10 +151,6 @@ Persuna għandha tikkwalifika għal reġistrazzjoni bħala interpretu mal-Kunsil
 
 (a) tkun ċittadina ta’ Malta jew ċittadina ta’ Stat Membru jew xort’oħra jkollha l-permess li taħdem f’Malta bis-saħħa ta’ kwalunkwe liġi oħra;
 
-*5*
-
-INTERPRETI TAL-LINGWA TAS-SINJALI [KAP. 654.
-
 (b) tkun ta’ kondotta tajba; u
 
 (ċ) tissodisfa lill-Kunsill illi:
@@ -189,11 +169,7 @@ INTERPRETI TAL-LINGWA TAS-SINJALI [KAP. 654.
 
 Iżda interpretu jista’ jitlob li jiġi rreġistrat għal par wieħed (1) jew aktar ta’ lingwi, bis-Sinjali Internazzjonali jkun potenzjalment komponent ta’ kwalunkwe tali par:
 
-Iżda wkoll persuna nieqsa mis-smigħ li tapplika sabiex tirreġistra bħala interpretu għal kwalunkwe lingwa tas- INTERPRETI TAL-LINGWA TAS-SINJALI
-
-sinjali jew għas-Sinjali Internazzjonali għandha tkun meħtieġa biss li tissodisfa r-rekwiżiti tas-subparagrafi (i) u (ii):
-
-*[KAP. 654. 6*
+Iżda wkoll persuna nieqsa mis-smigħ li tapplika sabiex tirreġistra bħala interpretu għal kwalunkwe lingwa tas-sinjali jew għas-Sinjali Internazzjonali għandha tkun meħtieġa biss li tissodisfa r-rekwiżiti tas-subparagrafi (i) u (ii):
 
 Iżda wkoll il-Kunsill, wara li jkun ikkonsulta lill- Assoċjazzjoni, jista’ jippermetti derogi limitati fiż-żmien minn xi waħda (1) jew aktar mid-dispożizzjonijiet li jinsabu f’dan il-paragrafu, jekk jitqies li dawn id-derogi jkunu meħtieġa sabiex jiġi żgurat il-forniment kontinwu ta’ servizzi ta’ interpretazzjoni lil kwalunkwe parti tal-komunità tal-persuni neqsin mis-smigħ li tirrisjedi lokalment:
 
@@ -217,11 +193,7 @@ Reġistrazzjoni maħruġa skont id-dispożizzjonijiet tal-artikolu 7 tista’ ti
 
 (ċ) ikun talab lill-Kunsill jikkanċella r-reġistrazzjoni preċedenti:
 
-Iżda reġistrazzjoni ġdida tista’ tiġi sottomessa fi INTERPRETI TAL-LINGWA TAS-SINJALI [KAP. 654.
-
-kwalunkwe waqt jekk il-kondizzjonijiet għal tali reġistrazzjoni jkunu sodisfatti.
-
-*7*
+Iżda reġistrazzjoni ġdida tista’ tiġi sottomessa fi kwalunkwe waqt jekk il-kondizzjonijiet għal tali reġistrazzjoni jkunu sodisfatti.
 
 ## 9. L-għoti ta’ warrant ta’ interpretu tal- Lingwa tas-Sinjali Maltija.
 
@@ -244,10 +216,6 @@ kwalunkwe waqt jekk il-kondizzjonijiet għal tali reġistrazzjoni jkunu sodisfat
 Jiena,...............................................................naħ lef/solennement niddikjara li ser naqdi fedelment u bl-onestà u bir-reqqa kollha d-dmirijiet ta’ interpretu tal- Lingwa tas-Sinjali Maltija u mill-aħjar li naf u li nista’. [Hekk Alla jgħinni.]:
 
 Iżda r-rekwiżiti li jinsabu f’dan is-subartikolu, u fl-artikolu 10 fir-rigward tat-tiġdid ta’ warrants, għandhom jitpoġġew għad-dispożizzjoni tal-pubbliku b’mod aċċessibbli fuq siti elettroniċi appositi mill-Kunsill.
-
-*8*
-
-[KAP. 654. INTERPRETI TAL-LINGWA TAS-SINJALI
 
 (2) Detentur ta’ warrant għandu jkollu d-dritt illi jindika tali fatt fit-titolu professjonali tiegħu u li jispeċifika wkoll in-numru rilevanti ta’ reġistrazzjoni tal-warrant meta jagħmel dan.
 
@@ -273,11 +241,7 @@ Warrant mogħti skont id-dispożizzjonijiet tal-artikolu 9 jista’ jiġi sospi�
 
 (iii) nuqqas ta’ konformità mar-regoli dwar l-istandards jew prattiċi professjonali, u speċifikament tal- Kodiċi ta’ Etika tal-Assoċjazzjoni jekk interpretu jkun ukoll membru ta’ tali Assoċjazzjoni; jew
 
-(b) ikun instab ħati minn qorti kompetenti ta’ reat li jolqot il-fiduċja pubblika jew serq jew frodi jew li xjentement ikun irċieva proprjetà miksuba b’serq jew frodi, u wara proċeduri quddiem il-Bord, tali Bord jiddeċiedi li jissospendi INTERPRETI TAL-LINGWA TAS-SINJALI [KAP. 654.
-
-jew jikkanċella l-warrant tal-interpretu; jew
-
-*9*
+(b) ikun instab ħati minn qorti kompetenti ta’ reat li jolqot il-fiduċja pubblika jew serq jew frodi jew li xjentement ikun irċieva proprjetà miksuba b’serq jew frodi, u wara proċeduri quddiem il-Bord, tali Bord jiddeċiedi li jissospendi jew jikkanċella l-warrant tal-interpretu; jew
 
 (ċ) ikun talab lill-Ministru jikkanċella l-warrant mogħti preċedentement:
 
@@ -301,11 +265,7 @@ Iżda interpretu jista’ jitlob li jiġi reġistrat għal par wieħed (1) jew a
 
 (b) l-applikant ikollu attestazzjoni waħda (1) jew iktar ta’ kompetenza jew evidenza ta’ kwalifiki formali maħruġa minn pajjiż ieħor li ma jkunx pajjiż terz u li ma jirregolax il-professjoni:
 
-Iżda l-evidenza ta’ kwalifiki formali maħruġa minn pajjiż terz għandha titqies bħala evidenza ta’ kwalifiki [KAP. 654. INTERPRETI TAL-LINGWA TAS-SINJALI
-
-formali għall-finijiet ta’ dan l-artikolu, jekk l-applikant:
-
-*10*
+Iżda l-evidenza ta’ kwalifiki formali maħruġa minn pajjiż terz għandha titqies bħala evidenza ta’ kwalifiki formali għall-finijiet ta’ dan l-artikolu, jekk l-applikant:
 
 (i) ikun kiseb ċertifikazzjoni ta’ tali evidenza ta’ kwalifiki formali maħruġa minn pajjiż terz mingħand pajjiż ieħor li ma jkunx pajjiż terz; u
 
@@ -325,11 +285,7 @@ Iżda meta minħabba bidla materjali fl-istatus ta’ tali persuna, id-dikjarazz
 
 Iżda wkoll meta persuna tkun trid teżerċita l-professjoni ta’ interpretu fuq bażi temporanja jew okkażjonali f’Malta fis-sena kalendarja minnufih wara s-sena li fiha tkun ġiet sottomessa jew sottomessa mill-ġdid dikjarazzjoni bil-miktub, skont il-każ, tali dikjarazzjoni bil-miktub għandha tiġġedded jew tiġi sottomessa mill-ġdid lill-Bord u, fi kwalunkwe każ, dik id-dikjarazzjoni bil-miktub għandha tiġġedded jew tiġi sottomessa mill-ġdid qabel il-bidu tal-forniment tas-servizz f’Malta f’dik is-sena partikolari.
 
-(3) Id-determinazzjoni ta’ jekk persuna tkunx qed teżerċita l-professjoni ta’ interpretu fuq bażi temporanja jew okkażjonali f’Malta INTERPRETI TAL-LINGWA TAS-SINJALI [KAP. 654.
-
-għandha tiġi vvalutata mill-Bord, b’referenza għaċ-ċirkostanzi partikolari kollha tat-talba rilevanti magħmula skont is-subartikolu (2) inklużi, iżda mhux limitat għat-tul ta’ żmien, il-frekwenza, ir-regolarità u l-kontinwità tas-servizzi li għandhom jiġu pprovduti f'Malta, u:
-
-*11*
+(3) Id-determinazzjoni ta’ jekk persuna tkunx qed teżerċita l-professjoni ta’ interpretu fuq bażi temporanja jew okkażjonali f’Malta għandha tiġi vvalutata mill-Bord, b’referenza għaċ-ċirkostanzi partikolari kollha tat-talba rilevanti magħmula skont is-subartikolu (2) inklużi, iżda mhux limitat għat-tul ta’ żmien, il-frekwenza, ir-regolarità u l-kontinwità tas-servizzi li għandhom jiġu pprovduti f'Malta, u:
 
 (a) meta l-Bord jiddetermina li s-servizzi rilevanti jkunu pprovduti fuq bażi temporanja jew okkażjonali f’Malta, tali persuna għandha tingħata reġistrazzjoni temporanja mill- Bord, u tiddaħħal fir-Reġistru mwaqqaf permezz tal-artikolu 12 flimkien ma’ indikazzjoni li tali reġistrazzjoni hija waħda temporanja, u tal-perjodu ta’ żmien li matulu dik ir-reġistrazzjoni temporanja għadha tissussisti. Tali perjodu ma għandu fl-ebda każ jeċċedi l-perjodu ta’ sena (1);
 

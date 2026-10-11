@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Rome Convention on Contractual Obligations (Ratification) Act (Cap. 482)
 
-*1*
-
-CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482.
-
 **CHAPTER 482**
 
 **ROME CONVENTION ON CONTRACTUAL**
@@ -70,8 +66,6 @@ CAP. 482.] CONTRACTUAL OBLIGATIONS (RATIFICATION)
 ### 6. Power to make regulations.
 
 The Minister may make regulations prescribing anything that in virtue of this Act is required to be or may be prescribed and generally for carrying out the provisions of this Act and for doing anything that may be required for the purpose of satisfying the obligations of Malta under the Rome Convention.
-
-CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 3
 
 ## FIRST SCHEDULE — CONVENTION — ON THE ACCESSION OF THE CZECH REPUBLIC, THE REPUBLIC OF
 
@@ -173,8 +167,6 @@ Naczelny Sad Administracyjny”
 
 Ustavno sodišče Republike Slovenije
 
-CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 5
-
 Vrhovno sodišče Republike Slovenije
 
 \- in Slovakia:
@@ -247,9 +239,7 @@ declare themselves ready to organise, in cooperation with the Court of Justice o
 
 \- the classification and the documentary exploitation of these judgments by the Court of Justice including, as far as necessary, the drawing up of abstracts and translations, and the publication of judgments of particular importance,
 
-\- the communication by the Court of Justice of the documentary material CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 7
-
-to the competent national authorities of the States parties to the Protocol and to the Commission and the Council of the European Communities.
+\- the communication by the Court of Justice of the documentary material to the competent national authorities of the States parties to the Protocol and to the Commission and the Council of the European Communities.
 
 ## SECOND SCHEDULE
 
@@ -343,9 +333,7 @@ The existence and validity of the consent of the parties as to the choice of the
 
 **Applicable law in the absence of choice**
 
-\1. To the extent that the law applicable to the contract has not been chosen in accordance with Article 3, the contract shall be governed by the law of the country with which it is most closely connected. Nevertheless, a separable part of the CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 9
-
-contract which has a closer connection with another country may by way of exception be governed by the law of that other country.
+\1. To the extent that the law applicable to the contract has not been chosen in accordance with Article 3, the contract shall be governed by the law of the country with which it is most closely connected. Nevertheless, a separable part of the contract which has a closer connection with another country may by way of exception be governed by the law of that other country.
 
 \2. Subject to the provisions of paragraph 5 of this Article, it shall be presumed that the contract is most closely connected with the country where the party who is to effect the performance which is characteristic of the contract has, at the time of conclusion of the contract, his habitual residence, or, in the case of a body corporate or unincorporate, its central administration. However, if the contract is entered into in the course of that party’s trade or profession, that country shall be the country in which the principal place of business is situated or, where under the terms of the contract the performance is to be effected through a place of business other than the principal place of business, the country in which that other place of business is situated.
 
@@ -415,9 +403,7 @@ unless it appears from the circumstances as a whole that the contract is more cl
 
 \1. The existence and validity of a contract, or of any term of a contract, shall be determined by the law which would govern it under this Convention if the contract or term were valid.
 
-\2. Nevertheless a party may rely upon the law of the country in which he has CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 11
-
-his habitual residence to establish that he did not consent if it appears from the circumstances that it would not be reasonable to determine the effect of his conduct in accordance with the law specified in the preceding paragraph.
+\2. Nevertheless a party may rely upon the law of the country in which he has his habitual residence to establish that he did not consent if it appears from the circumstances that it would not be reasonable to determine the effect of his conduct in accordance with the law specified in the preceding paragraph.
 
 **Article 9**
 
@@ -500,8 +486,6 @@ The application of the law of any country specified by this Convention means the
 ‘Ordre public’
 
 The application of a rule of the law of any country specified by this Convention may be refused only if such application is manifestly incompatible with the public policy (‘ordre public’) of the forum.
-
-CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 13
 
 **Article 17**
 
@@ -587,8 +571,6 @@ Any Contracting State may request the revision of this Convention. In this event
 
 \1. This Convention shall enter into force on the first day of the third month following the deposit of the seventh instrument of ratification, acceptance or approval.
 
-CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 15
-
 \2. This Convention shall enter into force for each signatory State ratifying, accepting or approving at a later date on the first day of the third month following the deposit of its instrument of ratification, acceptance or approval.
 
 **Article 30**
@@ -662,8 +644,6 @@ In witness whereof the undersigned, being duly authorized thereto, have signed t
 Done at Rome on the nineteenth day of June in the year one thousand nine hundred and eighty.
 
 (Signatures of the Plenipotentiaries)
-
-CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 17
 
 **JOINT DECLARATION**
 
@@ -773,8 +753,6 @@ the ‘Oberste Gerichtshof’, the ‘Verwaltungsgerichtshof’ and the ‘Verfa
 
 ‘Högsta domstolen’, ‘Regeringsrätten’, ‘Arbetsdomstolen’ and ‘Marknadsdomstolen’,
 
-CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 19
-
 \- in the United Kingdom:
 
 the House of Lords and other courts from which no further appeal is possible;
@@ -853,9 +831,7 @@ The Governments of the Kingdom of Belgium, the Kingdom of Denmark, the Federal R
 
 On signing the First Protocol on the interpretation by the Court of Justice of the European Communities of the Convention on the law applicable to contractual obligations, opened for signature in Rome on 19 June 1980,
 
-Desiring to ensure that the Convention is applied as effectively and as uniformly CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 21
-
-as possible,
+Desiring to ensure that the Convention is applied as effectively and as uniformly as possible,
 
 Declare themselves ready to organize, in cooperation with the Court of Justice of the European Communities, an exchange of information on judgments which have become res judicata and have been handed down pursuant to the Convention on the law applicable to contractual obligations by the courts referred to in Article 2 of the said Protocol. The exchange of information will comprise:
 
@@ -924,8 +900,6 @@ This Protocol shall enter into force on the first day of the third month followi
 **Article 4**
 
 This Protocol, drawn up in a single original in the Danish, Dutch, English, French, German, Greek, Irish, Italian, Portuguese and Spanish languages, all 10 texts being equally authentic, shall be deposited in the archives of the General Secretariat of the Council of the European Communities. The Secretary-General shall transmit a certified copy to the Government of each signatory.
-
-CONTRACTUAL OBLIGATIONS (RATIFICATION) [CAP. 482. 23
 
 In witness whereof, the undersigned Plenipotentiaries have affixed their signature below this Protocol.
 

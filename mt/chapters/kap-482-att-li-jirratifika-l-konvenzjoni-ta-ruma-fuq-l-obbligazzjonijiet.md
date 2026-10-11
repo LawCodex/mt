@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att li Jirratifika l-Konvenzjoni ta' Ruma fuq l-Obbligazzjonijiet Kuntrattwali (Cap. 482)
 
-*1*
-
-L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482.
-
 **KAPITOLU 482**
 
 ATT LI JIRRATIFIKA L-KONVENZJONI TA’ RUMA FUQ L-OBBLIGAZZJONIJIET KUNTRATTWALI Biex jipprovdi għar-Ratifika tal-Konvenzjoni ta’ Adeżjoni tal-14 ta’ April 2005 għall-Konvenzjoni ta’ Ruma tal-1980 fuq il-liġi li tapplika għal obbligazzjonijiet kuntrattwali u għall-Ewwel u t-Tieni Protokolli relattivi.
@@ -66,10 +62,6 @@ KAP. 482.] L-OBBLIGAZZJONIJIET KUNTRATTWALI
 ### 6. Setgħa li jsiru regolamenti.
 
 Il-Ministru jista’ jagħmel regolamenti fejn jordna kull ma hu, bis-saħħa ta’ dan l-Att, meħtieġ li jiġi ordnat jew li jista’ jiġi ordnat u ġeneralment sabiex jitwettqu d-dispożizzjonijiet ta’ dan l- Att u biex issir kull ħaġa li tista’ tinħtieġ għall-fini li jiġu sodisfatti l-obbligazzjonijiet ta’ Malta taħt il-Konvenzjoni ta’ Ruma.
-
-*3*
-
-L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482.
 
 ## L-EWWEL SKEDA — KONVENZJONI DWAR L-ADEŻJONI TAR-REPUBBLIKA
 
@@ -141,9 +133,7 @@ Avþôáôï ÄéêáóôÞñéï"
 
 \- fil-Latvja:
 
-*5*
-
-L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482. Augstâkâs Tiesas Senâts
+Augstâkâs Tiesas Senâts
 
 "- fil-Litwanja:
 
@@ -233,11 +223,9 @@ Regolament dwar il-liġi applikabbli għal obbligi kuntrattwali "L-Istati Membri
 
 **informazzjoni**
 
-Il-gvernijiet tar-Renju tal-Belġju, ir-Repubblika Ċeka, ir-Renju tad-Danimarka, ir-Repubblika Federali tal-Ġermanja, ir- L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482. Repubblika tal-Estonja, ir-Repubblika Ellenika, ir-Renju ta’ Spanja, ir-Repubblika Franċiża, l-Irlanda, ir-Repubblika Taljana, ir-Repubblika ta’ Ċipru, ir-Repubblika tal-Latvja, ir-Repubblika tal-Litwanja, il-Gran Dukat tal-Lussemburgu, ir-Repubblika tal- Ungerija, ir-Repubblika ta’ Malta, ir-Renju tal-Olanda, ir- Repubblika tal-Awstrija, ir-Repubblika tal-Polonja, ir-Repubblika Portugiża, ir-Repubblika tas-Slovenja, ir-Repubblika Slovakka, ir- Repubblika tal-Finlandja, ir-Renju tal-Isvezja u r-Renju Unit tal- Gran Brittanja u tal-Irlanda ta’ Fuq,
+Il-gvernijiet tar-Renju tal-Belġju, ir-Repubblika Ċeka, ir-Renju tad-Danimarka, ir-Repubblika Federali tal-Ġermanja, ir- Repubblika tal-Estonja, ir-Repubblika Ellenika, ir-Renju ta’ Spanja, ir-Repubblika Franċiża, l-Irlanda, ir-Repubblika Taljana, ir-Repubblika ta’ Ċipru, ir-Repubblika tal-Latvja, ir-Repubblika tal-Litwanja, il-Gran Dukat tal-Lussemburgu, ir-Repubblika tal- Ungerija, ir-Repubblika ta’ Malta, ir-Renju tal-Olanda, ir- Repubblika tal-Awstrija, ir-Repubblika tal-Polonja, ir-Repubblika Portugiża, ir-Repubblika tas-Slovenja, ir-Repubblika Slovakka, ir- Repubblika tal-Finlandja, ir-Renju tal-Isvezja u r-Renju Unit tal- Gran Brittanja u tal-Irlanda ta’ Fuq,
 
 fil-mument tal-firma tal-Konvenzjoni dwar l-Adeżjoni tal-2005 għall-Konvenzjoni dwar il-Liġi applikabbli għal Obbligi Kuntrattwali, miftuħa għall-firma f’Ruma fl-1980, u għall-Ewwel u t-Tieni Protokolli dwar l-interpretazzjoni tagħha mill-Qorti tal- Ġustizzja, hekk kif emendati,
-
-*7*
 
 xewqana li jiżguraw applikazzjoni mill-iżjed effettiva u uniformi possibbli tad-dispożizzjonijiet tal-Ewwel Protokoll imsemmi hawn fuq,
 
@@ -305,11 +293,9 @@ Huma m’għandhomx japplikaw għal:
 
 (d) ftehim dwar arbitraġġ u ftehim dwar l-għażla ta’ qorti;
 
-(e) kwistjonijiet regolati bil-liġi tal-kumpanniji u korpi oħra ġuridiċi jew mhux ġuridiċi bħalma huma l-ħolqien, b’reġistrazzjoni jew mod ieħor, kapaċità legali, organizzazzjoni interna jew stralċ ta’ kumpanniji u korpi oħra ġuridiċi jew mhux ġuridiċi u r-responsabbiltà personali ta’ uffiċjali u membri bħala L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482. tali għall-obbligazzjonijiet tal-kumpannija jew korp;
+(e) kwistjonijiet regolati bil-liġi tal-kumpanniji u korpi oħra ġuridiċi jew mhux ġuridiċi bħalma huma l-ħolqien, b’reġistrazzjoni jew mod ieħor, kapaċità legali, organizzazzjoni interna jew stralċ ta’ kumpanniji u korpi oħra ġuridiċi jew mhux ġuridiċi u r-responsabbiltà personali ta’ uffiċjali u membri bħala tali għall-obbligazzjonijiet tal-kumpannija jew korp;
 
 (f) il-kwistjoni dwar jekk aġent jistax jorbot lil prinċipal, jew organu lil kumpannija jew korp ġuridiku jew mhux ġuridiku, ma’ terzi;
-
-*9*
 
 (g) il-kostituzzjoni ta’ trusts u r-relazzjoni bejn settlors, trustees u benefiċjarji;
 
@@ -373,11 +359,9 @@ Il-paragrafu 2 m’għandux japplika jekk il-karatteristika tal-eżekuzzjoni ma 
 
 \2. Minkejja d-dispożizzjonijiet tal-Artikolu 3, għażla ta’ liġi magħmula mill-partijiet m’għandhiex ikollha r-riżultat li ċċaħħad lill-konsumatur mill-protezzjoni mogħtija lilu mir-regoli mandatarji tal-liġi tal-pajjżz li fih huwa jkollu r-residenza abitwali tiegħu
 
-\- jekk f’dak il-pajjiż il-kuntratt ikun konkluż wara L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482. stedina speċifika indirizzata lilu jew permezz ta’ avviż, u huwa jkun għamel f’dak il-pajjiż dak kollu meħtieġ minnu biex il-kuntratt ikun konkluż, jew
+\- jekk f’dak il-pajjiż il-kuntratt ikun konkluż wara stedina speċifika indirizzata lilu jew permezz ta’ avviż, u huwa jkun għamel f’dak il-pajjiż dak kollu meħtieġ minnu biex il-kuntratt ikun konkluż, jew
 
 \- jekk il-parti l-oħra jew l-aġent tagħha jkunu rċevew l-ordni tal-konsumatur, jew
-
-*11*
 
 \- jekk il-kuntratt ikun għal bejgħ ta’ oġġetti u l-konsumatur ikun mar minn dak il-pajjiż għal pajjiż ieħor u hemmhekk huwa jkun għamel l-ordni tiegħu, bil-kondizzjoni li l-vjaġġ tal-konsumatur ikun tħejja mill-bejjiegħ bl-iskop li jħajjar lill-konsumatur biex jixtri.
 
@@ -445,11 +429,9 @@ Id-dispożizzjonijiet tal-paragrafu ta’ qabel dan m’għandhomx japplikaw għ
 
 ### 6.
 
-Minkejja l-paragrafi 1 sa 4 ta’ dan l-Artikolu, kuntratt dwar dritt ta’ proprjetà immobbli jew dritt ta’ użu ta’ proprjetà immobbli għandu jkun skont il-ħtiġiet mandatarji tal-forma tal-liġi tal-pajjiż fejn il-proprjetà tkun tinsab jekk skont dik il-liġi dawk il-ħtiġiet L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482. ikunu imposti irrispettivament mill-pajjiż fejn il-kuntratt jiġi konkluż u irrispettivament mill-liġi li tirregola l-kuntratt.
+Minkejja l-paragrafi 1 sa 4 ta’ dan l-Artikolu, kuntratt dwar dritt ta’ proprjetà immobbli jew dritt ta’ użu ta’ proprjetà immobbli għandu jkun skont il-ħtiġiet mandatarji tal-forma tal-liġi tal-pajjiż fejn il-proprjetà tkun tinsab jekk skont dik il-liġi dawk il-ħtiġiet ikunu imposti irrispettivament mill-pajjiż fejn il-kuntratt jiġi konkluż u irrispettivament mill-liġi li tirregola l-kuntratt.
 
 **Artikolu 10**
-
-*13*
 
 **Skop tal-liġi applikabbli**
 
@@ -531,11 +513,9 @@ Fl-interpretazzjoni u applikazzjoni tar-regoli uniformi imsemmijin hawn qabel, g
 
 \1. Fejn Stat jinkludi numru ta’ unitajiet territorjali, li kull waħda minnhom ikollha r-regoli tagħha tal-liġi applikabbli għall-materji msemmija fil-paragrafu 1, kull unità territorjali għandha titqies bħala Stat biex issir magħrufa l-liġi applikabbli skont dan l- Artikolu.
 
-\2. Stat li jkollu fih unitajiet territorjali differenti b’regoli tagħhom tal-liġi dwar l-obbligazzjonijiet kuntrattwali m’għandux ikun marbut li japplika din il-Konvenzjoni għal konflitti li jkunu L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482. biss bejn il-liġijiet ta’ dawk l-unitajiet.
+\2. Stat li jkollu fih unitajiet territorjali differenti b’regoli tagħhom tal-liġi dwar l-obbligazzjonijiet kuntrattwali m’għandux ikun marbut li japplika din il-Konvenzjoni għal konflitti li jkunu biss bejn il-liġijiet ta’ dawk l-unitajiet.
 
 **Artikolu 20**
-
-*15*
 
 **Preċedenza tal-liġi Komunitarja**
 
@@ -603,10 +583,6 @@ Kull Stat Kontraenti jista’ jitlob li ssir reviżjoni ta’ din il- Konvenzjon
 
 \2. Din il-Konvenzjoni għandha tidħol fis-seħħ għal kull Stat firmatarju li jkun irratifika, aċċetta jew approva wara fl-ewwel jum tat-tielet xahar wara d-depożitu tal-istrumenti ta’ ratifika, aċċettazzjoni jew approvazzjoni tagħha.
 
-*17*
-
-L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482.
-
 **Artikolu 30**
 
 \1. Din il-Konvenzjoni għandha tibqa’ fis-seħħ għal 10 snin mid-data tad-dħul tagħha fis-seħħ skont l-Artikolu 29(1), ukoll għall-Istati li għalihom tidħol fis-seħħ f’data wara.
@@ -673,11 +649,9 @@ I. Ħerqana biex jevitaw, kemm jista’ jkun, it-tixrid tar-regoli tal-għażla 
 
 II. Jiddikjaraw l-intenzjoni tagħhom mid-data tal-firma ta’ din il-Konvenzjoni sakemm jintrabtu bl-Artikolu 24, li jikkonsultaw lil xulxin jekk xi wieħed mill-Istati firmatarji jixtieq isir parti f’xi konvenzjoni li tapplika għaliha l-proċedura msemmija fl-Artikolu 24;
 
-III Wara li titqies il-kontribuzzjoni tal-Konvenzjoni fuq il-liġi applikabbli għall-obbligazzjonijiet kuntrattwali għall-unifikazzjoni tar-regoli tal-għażla tal-liġi ġewwa L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482. l-Komunitajiet Ewropej, jesprimu l-veduta li kull Stat li jsir membru tal-Komunitajiet Ewropej għandu jaderixxi għal din il-Konvenzjoni.
+III Wara li titqies il-kontribuzzjoni tal-Konvenzjoni fuq il-liġi applikabbli għall-obbligazzjonijiet kuntrattwali għall-unifikazzjoni tar-regoli tal-għażla tal-liġi ġewwa l-Komunitajiet Ewropej, jesprimu l-veduta li kull Stat li jsir membru tal-Komunitajiet Ewropej għandu jaderixxi għal din il-Konvenzjoni.
 
 B’xiehda ta’ dan il-firmatarji ta’ hawn taħt, awtorizzati debitament għal dan, iffirmaw din id-Dikjarazzjoni konġunta.
-
-*19*
 
 Magħmula f’Ruma fid-dsatax-il jum ta’ Ġunju tas-sena elf disa’ mija u tmenin.
 
@@ -773,9 +747,7 @@ Kull qorti msemmija isfel tista’ titlob lill-Qorti tal-Ġustizzja biex tagħti
 
 ‘la Corte suprema di cassazione’ u ‘il Consiglio di Stato’,
 
-*21*
-
-L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482. - fil-Lussemburgu:
+\- fil-Lussemburgu:
 
 ‘la Cour Supérieure de Justice’, meta tkun sedenti bħala ‘Cour de cassation’,
 
@@ -853,10 +825,6 @@ Is-Segretarju Ġenerali tal-Kunsill tal-Komunitajiet Ewropej għandu jinnotifika
 
 (d) kull komunikazzjoni magħmula bis-saħħa ta' l- Artikolu 8.
 
-*23*
-
-L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482.
-
 **Artikolu 8**
 
 L-Istat Kontraenti għandhom jikkomunikaw lis-Segretarju Ġenerali tal-Kunsill tal-Komunitajiet Ewropej it-testi ta’ kull dispożizzjoni tal-liġijiet tagħhom li jeħtieġu emenda għal-lista tal-qrati fl-Artikolu 2(a).
@@ -926,10 +894,6 @@ B’xiehda ta’ dan, il-Plenipotenzjarji hawn taħt iffirmat niżżlu l-firem t
 Magħmula fi Brussel fid-dsatax-il jum ta’ Diċembru tas-sena elf disa’ mija u tmienja u tmenin.
 
 (Firem tal-Plenipotenzjarji)
-
-*25*
-
-L-OBBLIGAZZJONIJIET KUNTRATTWALI [KAP. 482.
 
 **IT-TIENI PROTOKOLL**
 

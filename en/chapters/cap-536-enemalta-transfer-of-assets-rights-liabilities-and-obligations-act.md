@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Enemalta (Transfer of Assets, Rights, Liabilities and Obligations) Act (Cap. 536)
 
-LIABILITIES AND OBLIGATIONS)
-
 **CHAPTER 536**
 
 **ENEMALTA (TRANSFER OF ASSETS, RIGHTS,**
@@ -87,9 +85,7 @@ Transfer of Assets and Liabilities of Enemalta Corporation 3. (1) With effect fr
 
 *Cap. 386.*
 
-(3) Notwithstanding the provisions of the Companies Act, with effect from the date referred to in sub-article (1), the Corporation shall for all purposes of law and by virtue of this sub-article be deemed to have been amalgamated into the Company and the provisions of sub-article (1) or article 354 of the Companies Act shall, mutatis mutandis apply, without the need of and to the LIABILITIES AND OBLIGATIONS)
-
-exclusion of any formalities other than this Act, and for such purpose:
+(3) Notwithstanding the provisions of the Companies Act, with effect from the date referred to in sub-article (1), the Corporation shall for all purposes of law and by virtue of this sub-article be deemed to have been amalgamated into the Company and the provisions of sub-article (1) or article 354 of the Companies Act shall, mutatis mutandis apply, without the need of and to the exclusion of any formalities other than this Act, and for such purpose:
 
 (a) the Corporation shall cease to exist as a separate legal entity at law, and this without prejudice to any other provisions of this Act;
 
@@ -143,9 +139,7 @@ Notwithstanding the provisions of the Disposal of Government Land Act:
 
 ### 6. Installations.
 
-For the purposes of any of its functions, a distribution system operator may, subject to the provisions of this Act and to any requirement under any other law, install any installation in LIABILITIES AND OBLIGATIONS)
-
-public roads, and open and break up the surface of any street:
+For the purposes of any of its functions, a distribution system operator may, subject to the provisions of this Act and to any requirement under any other law, install any installation in public roads, and open and break up the surface of any street:
 
 Provided that any of these powers may not be exercised without the approval of the Authority for Transport in Malta.
 
@@ -206,8 +200,6 @@ Any person who -
 (a) obstructs or impedes a member of a distribution system operator in the exercise of his duties under this Act or under any regulations made under this Act; or (b) contravenes or fails to comply with any of the provisions of this Act or of any such regulations as aforesaid or any order lawfully given under the provisions of this Act or of such regulations; or
 
 (c) where any licence or permission is required under the provisions of this Act or under any regulations made under this Act, for the use of the services or facilities of a distribution system operator, makes use of such services or facilities without such a licence or permission or contravenes or fails to comply with the conditions of any such licence or permissions,
-
-LIABILITIES AND OBLIGATIONS)
 
 shall be guilty of an offence under this Act.
 

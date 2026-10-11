@@ -183,49 +183,37 @@ Iżda skema jew arranġament deskritti fil-paragrafu (a) jistgħu, b’avviż bi
 
 (3) Bla ћsara gћad-dispożizzjonijiet tas-subartikolu (6), ebda persuna m’gћandha taċċetta flus jew xi korrispettiv ieћor minn kontributur dwar l-iskema tal-irtirar jekk din tkun qegћda twettaq xi attività gћall-provdiment ta’ benefiċċji tal-irtirar f’Malta jew minn ġewwa Malta kemm-il darba l-amministrazzjoni prinċipali ta’ dik l-iskema tal-irtirar ma tkunx tinsab f’Malta u ma tkunx debitament liċenzjata taћt dan l-Att.
 
-(4) L-awtorità kompetenti tista’, b’avviż bil-miktub mogћti lil persuna, tistabbilixxi li gћall-finijiet ta’ dan l-Att, skema jew
+(4) L-awtorità kompetenti tista’, b’avviż bil-miktub mogћti lil persuna, tistabbilixxi li gћall-finijiet ta’ dan l-Att, skema jew arranġament ieћor ikunu skema tal-irtirar -
 
-arranġament ieћor ikunu skema tal-irtirar -  
-(a) li jkunu jinsabu f’Malta; jew  
-(b) li jkunu qegћdin iwettqu xi attività f’Malta jew minn  
-ġewwa Malta,  
-u bla ћsara gћal kull appell taћt l-artikolu 44, dwar dik il-persuna,  
-dak li tistabbilixxi l-awtorità kompetenti jkun konklużiv gћall-  
-finijiet kollha ta’ dan l-Att.  
-(5) Gћall-finijiet tas-subartikolu (4), "li jkunu qegћdin iwettqu  
-xi attività f’Malta jew minn ġewwa Malta" tinkludi imma mhix  
-limitata gћal, tqegћid fis-suq, reklamar jew xort’oћra li tagћmel  
-promozzjoni, kif jista’ jiġi aktar stipulat f’Regoli tal-Pensjonijiet.  
-(6) Ebda skema tal-irtirar m’gћandha tkun prekluża, bid-  
-dispożizzjonijiet tas-subartikoli (1) sa (3), milli tieћu dawk il-passi  
-li jistgћu jkunu meћtieġa gћall-inkorporazzjoni jew, kif jista’ jkun  
-il-każ, it-twaqqif tal-iskema tal-irtirar jew milli tieћu dawk il-passi  
-li jistgћu jkunu meћtieġa biex jiġi assikurat l-gћoti ta’ liċenza tal-  
-iskema tal-irtirar mill-awtorità kompetenti.  
-(7) Skema tal-irtirar li jkollha liċenza taћt dan l-Att ma tkun  
-Kap. 370.  soġġetta gћal ebda gћoti ta’ liċenza meћtieġa taћt l-Att dwar  
-Servizzi ta’ Investiment.  
-Għoti ta’ Liċenza għal Fondi għall-Irtirar  
-Ħtieġa ta’ liċenza  5. (1) Bla ћsara gћad-dispożizzjonijiet tas-subartikolu (5),  
-gћal fondi għall-  
-ebda fond gћall-irtirar m’gћandu jwettaq ebda attività f’Malta jew  
-irtirar.  
-Emendat:  minn ġewwa Malta f’dak li gћandu x’jaqsam ma’ skema tal-irtirar  
-V.2020.63.  barranija, kemm-il darba l-amministrazzjoni prinċipali ta’ dak il-fond  
-tal-irtirar ma jkunx jinsab f’Malta u ma jkollux debitament liċenzja  
-taħt dan l-Att.  
-(2) Bla ћsara gћad-dispożizzjonijiet tas-subartikolu (5), ebda  
-fond gћall-irtirar magћmul kif hemm fil-liġijiet ta’ Malta jew li  
-jeżisti taћthom m’gћandu jwettaq ebda attività f’dak li gћandu  
-x’jaqsam ma’ skema tal-irtirar u, jew skema tal-irtirar barranija,  
-f’xi jew minn ġewwa xi pajjiż, territorju jew lok ieћor barra minn  
-Malta, kemm-il darba dan ma jkollux liċenza taћt dan l-Att.  
-(3) L-awtorità kompetenti tista’ b’avviż bil-miktub mogћti lil  
-persuna tistabbilixxi li gћall-finijiet ta’ dan l-Att, fond ikun fond  
-gћall-irtirar:  
-(a) li jkun jinsab f’Malta, jew  
-(b) li jkun qiegћed iwettaq xi attività f’Malta jew minn  
-ġewwa Malta,
+(a) li jkunu jinsabu f’Malta; jew
+
+(b) li jkunu qegћdin iwettqu xi attività f’Malta jew minn ġewwa Malta,
+
+u bla ћsara gћal kull appell taћt l-artikolu 44, dwar dik il-persuna, dak li tistabbilixxi l-awtorità kompetenti jkun konklużiv gћall-finijiet kollha ta’ dan l-Att.
+
+(5) Gћall-finijiet tas-subartikolu (4), "li jkunu qegћdin iwettqu xi attività f’Malta jew minn ġewwa Malta" tinkludi imma mhix limitata gћal, tqegћid fis-suq, reklamar jew xort’oћra li tagћmel promozzjoni, kif jista’ jiġi aktar stipulat f’Regoli tal-Pensjonijiet.
+
+(6) Ebda skema tal-irtirar m’gћandha tkun prekluża, bid-dispożizzjonijiet tas-subartikoli (1) sa (3), milli tieћu dawk il-passi li jistgћu jkunu meћtieġa gћall-inkorporazzjoni jew, kif jista’ jkun il-każ, it-twaqqif tal-iskema tal-irtirar jew milli tieћu dawk il-passi li jistgћu jkunu meћtieġa biex jiġi assikurat l-gћoti ta’ liċenza tal-iskema tal-irtirar mill-awtorità kompetenti.
+
+*Kap. 370.*
+
+(7) Skema tal-irtirar li jkollha liċenza taћt dan l-Att ma tkun soġġetta gћal ebda gћoti ta’ liċenza meћtieġa taћt l-Att dwar Servizzi ta’ Investiment.
+
+**Għoti ta’ Liċenza għal Fondi għall-Irtirar**
+
+### 5. Ħtieġa ta’ liċenza gћal fondi għall-irtirar.
+
+*Emendat: V.2020.63.*
+
+(1) Bla ћsara gћad-dispożizzjonijiet tas-subartikolu (5), ebda fond gћall-irtirar m’gћandu jwettaq ebda attività f’Malta jew minn ġewwa Malta f’dak li gћandu x’jaqsam ma’ skema tal-irtirar barranija, kemm-il darba l-amministrazzjoni prinċipali ta’ dak il-fond tal-irtirar ma jkunx jinsab f’Malta u ma jkollux debitament liċenzja taħt dan l-Att.
+
+(2) Bla ћsara gћad-dispożizzjonijiet tas-subartikolu (5), ebda fond gћall-irtirar magћmul kif hemm fil-liġijiet ta’ Malta jew li jeżisti taћthom m’gћandu jwettaq ebda attività f’dak li gћandu x’jaqsam ma’ skema tal-irtirar u, jew skema tal-irtirar barranija, f’xi jew minn ġewwa xi pajjiż, territorju jew lok ieћor barra minn Malta, kemm-il darba dan ma jkollux liċenza taћt dan l-Att.
+
+(3) L-awtorità kompetenti tista’ b’avviż bil-miktub mogћti lil persuna tistabbilixxi li gћall-finijiet ta’ dan l-Att, fond ikun fond gћall-irtirar:
+
+(a) li jkun jinsab f’Malta, jew
+
+(b) li jkun qiegћed iwettaq xi attività f’Malta jew minn ġewwa Malta,
 
 u bla ћsara gћal xi appell taћt l-artikolu 44, dwar dik il-persuna, dak li tistabbilixxi l-awtorità kompetenti gћandu jkun konklużiv gћall-finijiet kollha ta’ dan l-Att.
 

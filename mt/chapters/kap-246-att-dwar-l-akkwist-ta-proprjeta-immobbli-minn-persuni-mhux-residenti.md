@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Akkwist ta' Proprjetà Immobbli minn Persuni mhux Residenti (Cap. 246)
 
-*1*
-
-MINN PERSUNI MHUX RESIDENTI [KAP. 246.
-
 **KAPITOLU 246**
 
 **ATT DWAR L-AKKWIST TA’ PROPRJETÀ**
@@ -91,9 +87,7 @@ ta’ ħames snin f’kull waqt li jiġi qabel id-data tal-akkwist; jew
 
 ''post ta’ residenza ewlieni'' tfisser id-dar ta’ abitazzjoni fejn individwu jkun abitwalment joqgħod, jew ikollu l-ħsieb li abitwalment joqgħod, bħala l-post ta’ abitazzjoni prinċipali tiegħu, kemm f’Malta jew band’oħra;
 
-*3*
-
-MINN PERSUNI MHUX RESIDENTI [KAP. 246. "proprjetà immobbli" tfisser u tinkludi l-ħwejjeġ, il-jeddijiet u l-azzjonijiet kollha li huma immobbli minnhom infushom jew minħabba l-ħaġa li għandhom x’jaqsmu magħha skont l-artikoli 308 u 310 tal-Kodiċi Ċivili;
+"proprjetà immobbli" tfisser u tinkludi l-ħwejjeġ, il-jeddijiet u l-azzjonijiet kollha li huma immobbli minnhom infushom jew minħabba l-ħaġa li għandhom x’jaqsmu magħha skont l-artikoli 308 u 310 tal-Kodiċi Ċivili;
 
 *Kap. 16.*
 
@@ -159,10 +153,6 @@ mingħajr effett u, kif u meta jixraq, l-oġġett tagħhom għandu jiġi mogħti
 
 (2) Il-parti li tkun qed takkwista l-proprjetà immobbli jew li lilha tiġi assenjata l-proprjetà immobbli b’qasma jew li tgħaddi għal għandha skont xi waħda jew iktar mill-eċċezzjonijiet elenkati taħt is-subartikolu (1) għandha tiddikjara fil-kuntratt li dak it-trasferiment ikun ġie hekk kopert, u n-nutar li jkun qed jippubblika dak il-kuntratt għandu javża lil dik il-persuna bl-importanza tal-verità ta’ dik id-dikjarazzjoni u jinnota fil-kuntratt li huwa jkun hekk wissa lil dik il-persuna.
 
-*5*
-
-MINN PERSUNI MHUX RESIDENTI [KAP. 246.
-
 (3) Nutar li jirċievi xi att li ma jkunx fih dikjarazzjoni bħalma tkun meħtieġa taħt id-dispożizzjonijiet ta’ dan l-artikolu, jew li jonqos milli javża lill-partijiet partikolarment dwar l-importanza li tingħad il-verità f’dik id-dikjarazzjoni jew milli jirreġistra fl-att li huwa jkun ikkonforma ruħu ma’ dik il-ħtieġa, ikun ħati ta’ reat taħt dan l-Att, u meta jinsab ħati jista’ jeħel multa ta’ mhux inqas minn elfejn u tliet mitt euro (2,300) u mhux iżjed minn tlieta u għoxrin elf euro (23,000).
 
 ### 6. Kunsens lil persuni mhux residenti li jakkwistaw proprjetà immobbli f’każijiet partikolari.
@@ -207,11 +197,7 @@ Iżda dan is-subartikolu ma japplikax, u l-artikolu 4 għandu jseħħ għal koll
 
 *Sostitwit: IX. 2003.40. Emendat: III. 2004.85; A.L. 411 tal-2007.*
 
-(2) Persuna awtorizzata takkwista proprjetà immobbli f’Malta skont id-dispożizzjonijiet tal-artikolu 3 għandha, fil-kuntratt li jittrasferixxi t-titlu, tiddikjara li hija tkun tikkwalifika biex takkwista dik il-proprjetà immobbli u għandha iktar minn hekk tiddikjara r-raġunijiet għal dik il-kwalifika kif ukoll, meta tkun hekk meħtieġa tagħmel b’dan l-Att, il-fini ta’ dak l-akkwist, u n-nutar li jkun qed jippubblika l-kuntratt għandu javża lil dik il-persuna kemm ikun importanti li dik id-dikjarazzjoni tkun waħda vera u għandu wkoll iniżżel dik id-dikjarazzjoni f’dak il-kuntratt. MINN PERSUNI MHUX RESIDENTI [KAP. 246.
-
-(3) Nutar li jirċievi kuntratt li ma jkunx fih dikjarazzjoni skont ma hemm meħtieġ taħt id-dispożizzjonijiet ta’ dan l-artikolu, jew li jonqos milli javża lill-partijiet partikolarment dwar kemm ikun importanti li tingħad il-verità f ’dik id-dikjarazzjoni jew li jirreġistra fil-kuntratt li jkun ħares dik il-ħtieġa, ikun ħati ta’ reat taħt dan l-Att, u meta jinsab ħati jista’ jeħel multa ta’ mhux anqas minn elfejn u tliet mitt euro (2,300) u mhux iżjed minn tlieta u għoxrin elf euro (23,000).
-
-*7*
+(2) Persuna awtorizzata takkwista proprjetà immobbli f’Malta skont id-dispożizzjonijiet tal-artikolu 3 għandha, fil-kuntratt li jittrasferixxi t-titlu, tiddikjara li hija tkun tikkwalifika biex takkwista dik il-proprjetà immobbli u għandha iktar minn hekk tiddikjara r-raġunijiet għal dik il-kwalifika kif ukoll, meta tkun hekk meħtieġa tagħmel b’dan l-Att, il-fini ta’ dak l-akkwist, u n-nutar li jkun qed jippubblika l-kuntratt għandu javża lil dik il-persuna kemm ikun importanti li dik id-dikjarazzjoni tkun waħda vera u għandu wkoll iniżżel dik id-dikjarazzjoni f’dak il-kuntratt. (3) Nutar li jirċievi kuntratt li ma jkunx fih dikjarazzjoni skont ma hemm meħtieġ taħt id-dispożizzjonijiet ta’ dan l-artikolu, jew li jonqos milli javża lill-partijiet partikolarment dwar kemm ikun importanti li tingħad il-verità f ’dik id-dikjarazzjoni jew li jirreġistra fil-kuntratt li jkun ħares dik il-ħtieġa, ikun ħati ta’ reat taħt dan l-Att, u meta jinsab ħati jista’ jeħel multa ta’ mhux anqas minn elfejn u tliet mitt euro (2,300) u mhux iżjed minn tlieta u għoxrin elf euro (23,000).
 
 (4) Jekk issir jew tonqos milli ssir xi ħaġa bi ksur ta’ xi waħda mid-dispożizzjoni tas-subartikoli (1) jew (2) jew ta’ xi kondizzjoni, restrizzjoni, limitazzjoni jew kwalifika li tkun tinsab f’xi kunsens jew sensja mogħtija taħt dan l-Att, il-persuna li lilha jkunu l-aħħar ingħataw il-kunsens jew is-sensja u kull persuna oħra li tkun qed tagħmel jew tonqos milli tagħmel jew li tkun qed tippermetti li ssir jew tonqos milli ssir dik il-ħaġa kif hawn qabel imsemmi, tkun ħatja ta’ reat taħt dan l-Att u tista’ teħel, meta tinsab ħatja, multa ta’ mhux iżjed minn tlieta u għoxrin elf euro (23,000) jew id-doppju tal-prezz tas-suq tal-proprjetà immobbli hekk akkwistata, skont liema jkun l-ogħla ammont, u, fil-każ ta’ reat kontinwat, multa oħra ta’ mhux anqas minn mitejn u tletin euro (230.00) u mhux iżjed minn elfejn, u tliet mitt euro (2,300) għal kull ġurnata, esklużi l-ewwel mija u tmenin ġurnata, li matulhom ikompli r-reat:
 
@@ -246,8 +232,6 @@ l-Att, li bihom jew taħthom kunsens jista’ jingħata skont l-artikolu 6;
 *Miżjud: IX. 2003.43.*
 
 Id-dispożizzjonijiet ta’ dan l-Att għandhom japplikaw ukoll fejn persuna takkwista ishma jew interess ta’ ekwità ieħor f’soċjetà kummerċjali biex iddur madwar u tevadi l-ħtieġa ta’ kunsens taħt dan l-Att, u fejn xi persuna hekk takkwista dawk l-ishma jew interess ta’ ekwità għal dak l-iskop mingħajr ma qabel tottjeni kunsens, id-dispożizzjonijiet ta’ dan l-Att, inklużi, mingħajr preġudizzju għall-ġeneralità ta’ dan, id-dispożizzjonijiet tal-artikoli 4 u 7 tiegħu, għandhom japplikaw għall-akkwist ta’ dawk l-ishma jew interess ta’ ekwità daqs li kieku l-akkwist kien tal-proprjetà immobbli li jkollha dik is-soċjetà.
-
-MINN PERSUNI MHUX RESIDENTI [KAP. 246. 9
 
 L-EWWEL SKEDA Miżjuda:
 
@@ -425,8 +409,6 @@ XXII. 2011.5.
 
 \3. Meta jkun qed joħroġ permess skont l-artikolu 6 tal-Att, il-Ministru għandu jimponi dawn il-kondizzjonijiet li ġejjin:
 
-MINN PERSUNI MHUX RESIDENTI [KAP. 246. 11
-
 A. Fil-każ ta’ dar ta’ abitazzjoni:
 
 (i) li l-proprjetà immobbli tintuża biss bħala residenza mill-applikant u l-familja tiegħu u għal ebda raġuni oħra;
@@ -505,9 +487,7 @@ B. Partikolaritajiet dwar il-proprjetà immobbli li tkun se tiġi akkwistata min
 
 \5. Skop għaliex tkun se tiġi akkwistata l-proprjetà immobbli: ........................... 6. Mnejn ikunu ġejjin il-flus għall-akkwist tal-proprjetà immobbli: .................. 7. Partikolaritajiet oħra: ........................................................................................ ................................................................................................................................. Ċ. Partikolaritajiet tal-persuna li tkun qegħda tiġi akkwistata l-proprjetà immobbli mingħandha.
 
-\1. Isem: ........................................................................................................... 2. Indirizz:....................................................................................................... MINN PERSUNI MHUX RESIDENTI [KAP. 246. 13
-
-D. Dettalji ta’ kull proprjetà immobbli f’Malta li l-applikant diġà jkollu pussess tagħha jew ikun proprjetarju tagħha b’xi jew taħt liema titlu jkun: ............................ ................................................................................................................................. ................................................................................................................................. Jiena qiegħed hawn niddikjara li l-partikolaritajiet hawn qabel mogħtija huma veri u korretti u li hu maħsub li l-proprjetà immobbli tintuża għall-iskop hawn qabel imsemmi.
+\1. Isem: ........................................................................................................... 2. Indirizz:....................................................................................................... D. Dettalji ta’ kull proprjetà immobbli f’Malta li l-applikant diġà jkollu pussess tagħha jew ikun proprjetarju tagħha b’xi jew taħt liema titlu jkun: ............................ ................................................................................................................................. ................................................................................................................................. Jiena qiegħed hawn niddikjara li l-partikolaritajiet hawn qabel mogħtija huma veri u korretti u li hu maħsub li l-proprjetà immobbli tintuża għall-iskop hawn qabel imsemmi.
 
 Data .................................
 
@@ -577,11 +557,7 @@ Firma tal-Applikant/Mandatarju/Prokuratur
 
 ......................................................
 
-NOTA: L-applikant jinsab mgħarraf li l-informazzjoni mogħtija fl-applikazzjoni ta’ importanza għar-rigward tal-għoti ta’ permess mill-Ministru, li tkun skorretta jew qarrieqa, tirrendi fost affarijiet oħra kontemplati fl-Att kuntratt jew att relattiv null u MINN PERSUNI MHUX RESIDENTI [KAP. 246.
-
-bla effett.
-
-*15*
+NOTA: L-applikant jinsab mgħarraf li l-informazzjoni mogħtija fl-applikazzjoni ta’ importanza għar-rigward tal-għoti ta’ permess mill-Ministru, li tkun skorretta jew qarrieqa, tirrendi fost affarijiet oħra kontemplati fl-Att kuntratt jew att relattiv null u bla effett.
 
 TAQSIMA II
 

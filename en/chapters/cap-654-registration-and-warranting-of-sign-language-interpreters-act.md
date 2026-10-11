@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Registration and Warranting of Sign Language Interpreters Act (Cap. 654)
 
-*1*
-
-LANGUAGE INTERPRETERS [CAP. 654.
-
 CHAPTER 654
 
 REGISTRATION AND WARRANTING OF SIGN
@@ -71,11 +67,7 @@ In this Act, unless the context otherwise requires:
 
 "Maltese Sign Language" shall have the same meaning as assigned to it in the Maltese Sign Language Recognition Act;
 
-"Minister" means the Minister responsible for disability [CAP.654. LANGUAGE INTERPRETERS
-
-and the development of this sector;
-
-*2*
+"Minister" means the Minister responsible for disability and the development of this sector;
 
 "third country" means a country that is not an EEA State or Switzerland;
 
@@ -109,11 +101,7 @@ Provided that this requirement shall not apply to any person supporting another 
 
 (d) one (1) member who shall be elected by secret ballot by warrant holders from among themselves.
 
-(2) The chairperson shall be appointed for a term of three (3) LANGUAGE INTERPRETERS [CAP. 654.
-
-years and under such conditions as may be set out in the letter of appointment for the said chairperson, subject to further periods of renewal.
-
-*3*
+(2) The chairperson shall be appointed for a term of three (3) years and under such conditions as may be set out in the letter of appointment for the said chairperson, subject to further periods of renewal.
 
 (3) The other members of the Board shall hold office for a term of two (2) years and under such conditions as may be set out in their letter of appointment, subject to further periods of renewal:
 
@@ -139,11 +127,7 @@ Provided that the chairperson shall have an initial vote and in the case of an e
 
 (b) to advise the Council in respect of regulating the conditions of practical training, including required periods thereof, further to the provisions of articles 7 and 9;
 
-(c) to advise the Council in respect of the approval of [CAP.654. LANGUAGE INTERPRETERS
-
-universities or academic institutions further to the provisions of articles 7 and 9; and
-
-*4*
+(c) to advise the Council in respect of the approval of universities or academic institutions further to the provisions of articles 7 and 9; and
 
 (d) to advise the Council in respect of the organisation and regulation of the appropriate tests, further to the provisions of articles 7 and 9.
 
@@ -175,11 +159,7 @@ A person shall qualify for registration as an interpreter with the Council, foll
 
 (c) satisfies the Council in respect of:
 
-(i) being in possession of academic qualifications obtained after successful completion of a course of study at undergraduate level, in respect of which a prescribed score or classification would have LANGUAGE INTERPRETERS [CAP. 654.
-
-been obtained or exceeded, at the University of Malta or such other university or academic institution as may be recognised for the purpose by the Council, after having consulted the Association;
-
-*5*
+(i) being in possession of academic qualifications obtained after successful completion of a course of study at undergraduate level, in respect of which a prescribed score or classification would have been obtained or exceeded, at the University of Malta or such other university or academic institution as may be recognised for the purpose by the Council, after having consulted the Association;
 
 *                            S.L. 451.02.*
 
@@ -195,11 +175,7 @@ Provided that an interpreter may request to be registered for one (1) or more la
 
 Provided further that a deaf person applying to register as an interpreter for any sign language or for International Sign shall only be required to fulfil the requirements of sub-paragraphs (i) and (ii):
 
-Provided further that the Council, after having consulted the Association, may allow for time-limited derogations from any one (1) or more of the provisions contained in this paragraph, should it be deemed that such derogations would be necessary to ensure continued provision of [CAP.654. LANGUAGE INTERPRETERS
-
-interpretation services to any part of the deaf community residing locally:
-
-*6*
+Provided further that the Council, after having consulted the Association, may allow for time-limited derogations from any one (1) or more of the provisions contained in this paragraph, should it be deemed that such derogations would be necessary to ensure continued provision of interpretation services to any part of the deaf community residing locally:
 
 Provided further that the requirements in respect of sub-paragraphs (i) and (ii), as amended from time to time, as well as the general rules on registration stipulated in this Act, and any derogation thereto promulgated from time to time shall be made publicly available in an accessible manner by the Council on apposite websites.
 
@@ -225,10 +201,6 @@ Provided that a fresh warrant may be awarded at any time if the conditions for s
 
 (1) A person shall qualify for the award of a warrant of Maltese Sign Language interpreter by the Minister, on the advice of the Council, following a decision of the Board, and such warrant shall be valid for a period of (5) years from the date of such award, if such person:
 
-*7*
-
-LANGUAGE INTERPRETERS [CAP. 654.
-
 (a) is a citizen of Malta or a citizen of a Member State or otherwise permitted to work in Malta under any law;
 
 (b) is of good conduct;
@@ -251,11 +223,7 @@ Provided that the requirements contained in this sub-article, and in article 10 
 
 ## 10. Renewal of warrant of Maltese Sign Language interpreter.
 
-On the expiration of five (5) years from the date of the initial award of a warrant in terms of article 9, or of a renewal of a warrant in accordance with this article, a warrant of Maltese Sign [CAP.654. LANGUAGE INTERPRETERS
-
-Language interpreter shall be renewed for a subsequent period of five (5) years by the Minister, on the advice of the Council after a decision of the Board, provided that the Council be satisfied that during the previous five (5) years, the warrant holder has:
-
-*8*
+On the expiration of five (5) years from the date of the initial award of a warrant in terms of article 9, or of a renewal of a warrant in accordance with this article, a warrant of Maltese Sign Language interpreter shall be renewed for a subsequent period of five (5) years by the Minister, on the advice of the Council after a decision of the Board, provided that the Council be satisfied that during the previous five (5) years, the warrant holder has:
 
 (a) worked as a Maltese Sign Language interpreter and had a minimum of thirty-five (35) contact hours annually;
 
@@ -281,10 +249,6 @@ A warrant awarded in accordance with the provisions of article 9 may be suspende
 
 Provided that a fresh warrant may be awarded at any time if the conditions for such award are satisfied.
 
-*9*
-
-LANGUAGE INTERPRETERS [CAP. 654.
-
 ## 12. Register of registered and warranted sign language interpreters.
 
 (1) The Council shall keep a Register of interpreters registered in accordance with articles 7 or 12, warrant holders awarded in terms of article 9, and interpreters exercising the profession on a temporary or occasional basis further to a determination under article 13, that shall be made publicly available in an accessible manner by the Council on apposite websites, and shall not later than three (3) months after the end of every year, publish in the Gazette a list of persons whose names, on the 31st December of the said year appear on the Register.
@@ -305,11 +269,7 @@ Provided that an interpreter may request to be registered for one (1) or more la
 
 Provided that evidence of formal qualifications issued by a third country shall be regarded as evidence of formal qualifications for the purposes of this article, if the applicant:
 
-(i) has obtained certification of the said evidence of formal qualifications issued by a third country from a country that is not a third country; and [CAP.654. LANGUAGE INTERPRETERS
-
-(ii) furnishes proof of three (3) years professional experience as an interpreter in the territory of such other country that is not a third country:
-
-*10*
+(i) has obtained certification of the said evidence of formal qualifications issued by a third country from a country that is not a third country; and (ii) furnishes proof of three (3) years professional experience as an interpreter in the territory of such other country that is not a third country:
 
 Provided further that an applicant may request to be registered for one (1) or more language pairs, with International Sign able to be a component of any such pair.
 
@@ -329,11 +289,7 @@ Provided further that where a person wants to exercise the profession of interpr
 
 (3) The determination of whether a person would be exercising the profession of interpreter on a temporary or occasional basis in Malta shall be assessed by the Board, by reference to all the particular circumstances of the relevant request entered in terms of sub-article (2) including, but not limited to the duration, frequency, regularity and continuity of the services to be provided in Malta, and:
 
-(a) where the Board determines that relevant services LANGUAGE INTERPRETERS [CAP. 654.
-
-would be provided on a temporary or occasional basis in Malta, such person shall be granted temporary registration by the Board, and entered into the Register established by article 12 in addition to an indication that such registration is a temporary one, and of the time period during which the said temporary registration shall subsist. Such period shall in no case exceed the period of one (1) year;
-
-*11*
+(a) where the Board determines that relevant services would be provided on a temporary or occasional basis in Malta, such person shall be granted temporary registration by the Board, and entered into the Register established by article 12 in addition to an indication that such registration is a temporary one, and of the time period during which the said temporary registration shall subsist. Such period shall in no case exceed the period of one (1) year;
 
 (b) where the Board determines that relevant services would not be provided on a temporary or occasional basis in Malta, such person shall, upon notification by the Board of such a determination, be prohibited from exercising the profession of interpreter in Malta unless he fulfils any of the requirements in article 3:
 

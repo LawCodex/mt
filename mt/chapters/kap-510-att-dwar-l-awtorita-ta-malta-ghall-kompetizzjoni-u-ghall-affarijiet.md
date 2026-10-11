@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Awtorità ta’ Malta għall-Kompetizzjoni u għall-Affarijiet tal-Konsumatur (Cap. 510)
 
-*1*
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
 TAQSIM TAL-ATT  
 Artikoli  
 Taqsima I  Preliminari  1-2  
@@ -44,12 +40,6 @@ It-Tielet Skeda  Lista ta’ atti leġiżlattivi tal-UE għal-liema finijiet
 l-Uffiċċju għall-Affarijiet tal-Konsumatur huwa  
 l-Awtorità Kompetenti Nazzjonali  
 Ir-Raba Skeda  Direttorati
-
-**U GĦALL-AFFARIJIET TAL-KONSUMATUR**
-
-*[KAP. 510.*
-
-*2*
 
 **KAPITOLU 510**
 
@@ -91,13 +81,9 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "Bord" tfisser il-Bord tal-Gvernaturi mwaqqaf bl-artikolu 8;
 
-"Chairman" tfisser iċ-Chairman tal-Bord li jkun ċ-Chairman tal- U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
+"Chairman" tfisser iċ-Chairman tal-Bord li jkun ċ-Chairman tal- Awtorità maħtur skont l-artikolu 9(1);
 
 \*Ara l-Avviż Legali 270 tal-2021. †Ara l-Avviż Legali 338 tal-2021. ‡Ara l-Avviż Legali 339 tal-2021. §ara s-subartikolu (2) tal-artikolu 1 kif oriġinarjament promulgat, u l-Avviż Legali 190 tal-2011.
-
-Awtorità maħtur skont l-artikolu 9(1);
-
-*3*
 
 "Direttur Ġenerali (Affarijiet tal-Konsumatur)" tfisser il-persuna hekk maħtura bis-saħħa tal-artikolu 16(2);
 
@@ -147,10 +133,6 @@ Awtorità maħtur skont l-artikolu 9(1);
 
 "marka ta’ konformità" tfisser marka, maħruġa skont ir-regolamenti magħmula taħt l-artikolu 24, li turi konformità ma’ standard applikabbli;
 
-*4*
-
-[KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
 "Ministru" tfisser il-Ministru responsabbli għall-kompetizzjoni, affarijiet tal-konsumatur, standardizzazzjoni, metroloġija u regolamenti tekniċi;
 
 "Ministeru" tfisser il-Ministeru responsabbli għall-kompetiz-zjoni, affarijiet tal-konsumatur, standardizzazzjoni, metroloġija u regolamenti tekniċi;
@@ -183,11 +165,7 @@ Awtorità maħtur skont l-artikolu 9(1);
 
 "sena finanzjarja" tfisser kull perjodu ta’ tnax-il xahar li jispiċċa fil-31 ta’ Diċembru; iżda l-ewwel sena finanzjarja għandha tibda fid-data tad-dħul fis-seħħ ta’ dan l-Att u tispiċċa fil-31 ta’ Diċembru tas-sena ta’ wara;
 
-"speċifikazzjoni teknika" tfisser speċifikazzjoni li tinsab f’xi dokument li tistipola l-karatteristiċi meħtieġa minn prodott u, jew, servizz bħalma huma livelli ta’ kwalità, funzjonalità, sigurezza jew dimensjonijiet, inklużi l-ħtiġiet applikabbli għall-prodott u, jew, is-servizzi għar-rigward tal-isem li bih il-prodott, u, jew, servizz jinbiegħ, terminoloġija, simboli, ittestjar u metodi ta’ ttestjar, ippakkettjar, immarkar jew ittikkettjar użati u proċeduri ta’ stima ta’ konformità. Din il-frażi tkopri wkoll metodi ta’ produzzjoni u proċessi li jintużaw għar-rigward ta’ prodotti agrikoli, prodotti maħsuba għall-konsum mill-bnedmin u mill-annimali, u prodotti mediċinali, kif ukoll metodi ta’ produzzjoni u proċessi li U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-jirrigwardaw prodotti oħra, meta dawn ikollhom effett fuq il-karatteristiċi tagħhom.
-
-*5*
+"speċifikazzjoni teknika" tfisser speċifikazzjoni li tinsab f’xi dokument li tistipola l-karatteristiċi meħtieġa minn prodott u, jew, servizz bħalma huma livelli ta’ kwalità, funzjonalità, sigurezza jew dimensjonijiet, inklużi l-ħtiġiet applikabbli għall-prodott u, jew, is-servizzi għar-rigward tal-isem li bih il-prodott, u, jew, servizz jinbiegħ, terminoloġija, simboli, ittestjar u metodi ta’ ttestjar, ippakkettjar, immarkar jew ittikkettjar użati u proċeduri ta’ stima ta’ konformità. Din il-frażi tkopri wkoll metodi ta’ produzzjoni u proċessi li jintużaw għar-rigward ta’ prodotti agrikoli, prodotti maħsuba għall-konsum mill-bnedmin u mill-annimali, u prodotti mediċinali, kif ukoll metodi ta’ produzzjoni u proċessi li jirrigwardaw prodotti oħra, meta dawn ikollhom effett fuq il-karatteristiċi tagħhom.
 
 Għall-finijiet ta’ din it-tifsira, "proċeduri ta’ stima ta’ konformità" tfisser kull proċedura użata, direttament u indirettament, sabiex jiġi stabbilit li ħtiġiet rilevanti f’regolamenti tekniċi jew standards jitwettqu, inklużi fost l-oħrajn, proċeduri għat-teħid ta’ kampjuni, ttestjar u spezzjoni; valutazzjoni, verifika u assigurazzjoni ta’ konformità, reġistrazzjoni, akkreditament u approvazzjoni kif ukoll kull kombinazzjoni ta’ dawn kollha;
 
@@ -217,11 +195,7 @@ Għall-finijiet ta’ din it-tifsira, "proċeduri ta’ stima ta’ konformità"
 
 (1) Ikun hemm korp, li jkun magħruf bħala l-Awtorità ta' Malta għall-Kompetizzjoni u għall-Affarijiet tal-Konsumatur.
 
-(2) L-Awtorità tkun korp magħqud li jkollha personalità ġuridika separata u distinta u li tista’, fil-qadi tal-funzjonijiet tagħha tagħmel kuntratti, takkwista, ikollha fil-pussess tagħha jew tiddisponi minn proprjetà reali u personali, tħarrek jew tiġi mħarrka u tagħmel dak kollu li jkun inċidentali jew li jirriżulta fit-twettiq [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-tal-funzjonijiet tagħha, inkluż li tislef jew tissellef il-flus.
-
-*6*
+(2) L-Awtorità tkun korp magħqud li jkollha personalità ġuridika separata u distinta u li tista’, fil-qadi tal-funzjonijiet tagħha tagħmel kuntratti, takkwista, ikollha fil-pussess tagħha jew tiddisponi minn proprjetà reali u personali, tħarrek jew tiġi mħarrka u tagħmel dak kollu li jkun inċidentali jew li jirriżulta fit-twettiq tal-funzjonijiet tagħha, inkluż li tislef jew tissellef il-flus.
 
 (3) (a) Iċ-Chairman għandu jkollu ir-rappreżentazzjoni legali u ġudizzjarja tal-Awtorità:
 
@@ -252,10 +226,6 @@ Iżda wkoll f’kwistjonijiet li jirreletaw esklussivament għar-responsabbiltaj
 (ċ) li tippromwovi standards volontarji u tipprovdi servizzi relatati mal-għemil tal-istandards;
 
 (d) li tippromwovi l-istrateġija nazzjonali tal-metroloġija;
-
-*7*
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 
 (e) li tippromwovi it-trasposizzjoni u l-adozzjoni mingħajr xkiel ta’ regolamenti tekniċi; u
 
@@ -289,11 +259,7 @@ U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 
 (2) L-Awtorità għandha tottjeni l-funzjonijiet mniżżla fl-artikolu 4 permezz tar-responsabbiltajiet vestiti fl-entitajiet rispettivi, kif provdut taħt is-subartikolu (1).
 
-(3) Ir-responsabbiltajiet vestiti f’kull entità għandhom ikunu eżerċitati mid-Direttur Ġenerali li jmexxi l-entità rispettiva u permezz [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-t’hekk kull Direttur Ġenerali għandu jaġixxi b’mod independenti u awtonomu, liberu mid-direzzjoni jew kontroll ta’ kull persuna jew awtorità mingħajr ħsara għall-artikolu 12:
-
-*8*
+(3) Ir-responsabbiltajiet vestiti f’kull entità għandhom ikunu eżerċitati mid-Direttur Ġenerali li jmexxi l-entità rispettiva u permezz t’hekk kull Direttur Ġenerali għandu jaġixxi b’mod independenti u awtonomu, liberu mid-direzzjoni jew kontroll ta’ kull persuna jew awtorità mingħajr ħsara għall-artikolu 12:
 
 Iżda fit-twettiq tar-responsabbiltajiet vestiti fl-entitajiet, id- Diretturi Ġenerali għandhom jiżguraw illi jimplimentaw il-politika mwaqqfa mill-Bord jagħtu effett lill-politika tal-Gvern u għal dan il-għan, huma għandhom ikunu soġġetti għas-superviżjoni u l-kontroll ġenerali tal-Bord.
 
@@ -327,11 +293,7 @@ Ikun hemm mwaqqaf Bord tal-Gvernaturi fi ħdan l- Awtorità.
 
 (vii) membru ieħor, wara konsultazzjoni ma’ għaqdiet nazzjonali rikonoxxuti tal-konsumatur:
 
-Iżda fl-eventwalità li ma jkunx hemm għaqda bħal dik, il-Ministru jista’ jaħtar membru temporanju mill-għaqdiet li jirrappreżentaw il-ħaddiema sakemm jiġi U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-nominat membru li jirrapreżenta l-għaqda nazzjonali tal-konsumatur; u
-
-*9*
+Iżda fl-eventwalità li ma jkunx hemm għaqda bħal dik, il-Ministru jista’ jaħtar membru temporanju mill-għaqdiet li jirrappreżentaw il-ħaddiema sakemm jiġi nominat membru li jirrapreżenta l-għaqda nazzjonali tal-konsumatur; u
 
 (ċ) wieħed mill-membri kif maħtur fil-paragrafi (b)(i) sa (v) għandu jkun maħtur Deputat Chairman mill- Ministru.
 
@@ -355,11 +317,7 @@ nominat membru li jirrapreżenta l-għaqda nazzjonali tal-konsumatur; u
 
 *Kap. 13.*
 
-(v) kienet ġiet misjuba ħatja minn qorti kompetenti fuq reat li jinvolvi frodi jew xi ħaġa diżonesta oħra, jew tkun kisret xi dispożizzjoni tal-liġi li jkollha l-għan li tipproteġi l-membri tal-pubbliku kontra telf finanzjarju li jiġi kkawżat minn diżonestà, inkompetenza jew għemil ħażin minn persuni involuti f’attivitajiet tal-kummerċ jew fit-twettiq ta’ professjoni, jew tkun ħadet sehem f’xi prattika tan-negozju li l-Ministru jidhirlu li tkun oppressiva jew qarrieqa jew inkella mhux xierqa (kemm jekk tkun kontra l-liġi jew le) jew li inkella turi diskreditu fil-metodi ta’ kif tmexxi n-negozju jew il-professjoni tagħha, jew kienet ġiet misjuba ħatja ta’ xi reat kontra dan l-Att jew xi Att ieħor illi l- Awtorità tamministra jew xi regolamenti [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-magħmula taħtha; jew
-
-*10*
+(v) kienet ġiet misjuba ħatja minn qorti kompetenti fuq reat li jinvolvi frodi jew xi ħaġa diżonesta oħra, jew tkun kisret xi dispożizzjoni tal-liġi li jkollha l-għan li tipproteġi l-membri tal-pubbliku kontra telf finanzjarju li jiġi kkawżat minn diżonestà, inkompetenza jew għemil ħażin minn persuni involuti f’attivitajiet tal-kummerċ jew fit-twettiq ta’ professjoni, jew tkun ħadet sehem f’xi prattika tan-negozju li l-Ministru jidhirlu li tkun oppressiva jew qarrieqa jew inkella mhux xierqa (kemm jekk tkun kontra l-liġi jew le) jew li inkella turi diskreditu fil-metodi ta’ kif tmexxi n-negozju jew il-professjoni tagħha, jew kienet ġiet misjuba ħatja ta’ xi reat kontra dan l-Att jew xi Att ieħor illi l- Awtorità tamministra jew xi regolamenti magħmula taħtha; jew
 
 (vi) ikollha interess finanzjarju jew xi interess ieħor f’xi impriża jew attività li x’aktarx taffettwa l-esekuzzjoni tad-dmirijiet tagħha:
 
@@ -375,11 +333,7 @@ Iżda l-Ministru jista’ jiddetermina illi l-interess ta’ dik il-persuna x’
 
 (6) Iċ-Chairman u l-membri l-oħra tal-Bord għandhom jitħallsu dak l-ħlas kif il-Ministru jista’ jistabbilixxi.
 
-(7) Kull membru tal-Bord li għandu interess dirett jew indirett f’xi ħaġa magħmula jew li hi maħsuba li ssir mill-Bord, li ma jkunx interess li jiskwalifika dak il-membru milli jibqa’ membru, għandu, mhux aktar tard mill-ewwel laqgħa li tinżamm wara li jkun sar jaf biċ-ċirkostanzi rilevanti, jiżvela n-natura tal-interess tiegħu lill- Bord, u l-membru li għandu dan l-interess għandu jirtira minn kull laqgħa li fiha dik il-ħaġa tkun qed tiġi diskussa. L-iżvelar ta’ dan it-tagħrif għandu jingħata lill-Ministru mingħajr dewmien. Meta l-interess ta’ dak il-membru jkun tali li jiskwalifikah milli jibqa’ U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-membru, hu għandu jirraporta dan il-fatt lill-Ministru minnufih u joffri r-riżenja tiegħu.
-
-*11*
+(7) Kull membru tal-Bord li għandu interess dirett jew indirett f’xi ħaġa magħmula jew li hi maħsuba li ssir mill-Bord, li ma jkunx interess li jiskwalifika dak il-membru milli jibqa’ membru, għandu, mhux aktar tard mill-ewwel laqgħa li tinżamm wara li jkun sar jaf biċ-ċirkostanzi rilevanti, jiżvela n-natura tal-interess tiegħu lill- Bord, u l-membru li għandu dan l-interess għandu jirtira minn kull laqgħa li fiha dik il-ħaġa tkun qed tiġi diskussa. L-iżvelar ta’ dan it-tagħrif għandu jingħata lill-Ministru mingħajr dewmien. Meta l-interess ta’ dak il-membru jkun tali li jiskwalifikah milli jibqa’ membru, hu għandu jirraporta dan il-fatt lill-Ministru minnufih u joffri r-riżenja tiegħu.
 
 (8) Jekk membru jirriżenja jew jekk il-kariga ta’ membru tal- Bord tkun mod ieħor vakanti jew jekk membru jkun għal xi raġuni inkapaċi li jwettaq il-funzjonijiet tal-kariga tiegħu, il-Ministru jista’ jaħtar persuna li tkun kwalifikata biex tiġi maħtura bħala membru, biex tkun membru temporanju tal-Bord; u kull persuna hekk maħtura għandha, bla ħsara għad-dispożizzjonijiet tas-subartikolu (3), tieqaf milli tibqa’ membru meta tiġi maħtura persuna biex timla l-vakanza jew, kif ikun il-każ, meta l-membru li ma kienx kapaċi jwettaq il-funzjonijiet tal-kariga tiegħu jerġa’ jibda jwettaq dawk il-funzjonijiet.
 
@@ -407,11 +361,7 @@ membru, hu għandu jirraporta dan il-fatt lill-Ministru minnufih u joffri r-riż
 
 (1) Bla ħsara għal xi dmir ieħor mogħti lilu b’dan l-Att jew b’xi liġi jew regolamenti oħra, il-Bord għandu jkollu dawn id-dmirijiet li ġejjin:
 
-(a) li jistabbilixxi l-politika li għandha tiġi segwita mill- Awtorità fi ħdan il-kuntest tal-politika stabbilita mill- [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-Gvern u skont il-funzjonijiet mniżżla fl-artikolu 4 u biex jiżgura l-implimentazzjoni proprja u xierqa tagħhom mill-entitajiet;
-
-*12*
+(a) li jistabbilixxi l-politika li għandha tiġi segwita mill- Awtorità fi ħdan il-kuntest tal-politika stabbilita mill- Gvern u skont il-funzjonijiet mniżżla fl-artikolu 4 u biex jiżgura l-implimentazzjoni proprja u xierqa tagħhom mill-entitajiet;
 
 (b) li jiżgura li l-entitajiet iwettqu r-responsabbiltajiet tagħhom taħt dan l-Att skont il-politika relatata tal- Gvern;
 
@@ -443,10 +393,6 @@ Iżda l-membri tal-Bord ma jkollhomx aċċess għal informazzjoni kunfidenzjali 
 
 (2) Ħlief kif provdut f’dan l-Att, l-Att dwar l-Affarijiet tal- Konsumatur, l-Att dwar il-Kompetizzjoni, l-Att dwar is-Sigurezza tal-Prodotti, l-Att dwar il-Metroloġija, l-Att dwar is-Sigurtà fl-Ikel, l-Att dwar il-Kontroll tal-Pestiċidi, l-Att dwar il-Ħaddiema d- Deheb u l-Ħaddiema l-Fidda (Arġentiera) u kull Att jew regolamenti oħra amministrat mill-Awtorità, l-Awtorità għandha tkun taħt id-direzzjoni ġenerali u kontroll tal-Ministru, u soġġetta għal dik id-direzzjoni u kontroll, taħt is-superviżjoni tas-Segretarju Permanenti responsabbli għall-Ministeru.
 
-*13*
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
 (3) Il-Ministru jista’, għar-rigward ta’ dawk l-affarijiet li jkunu jidhrulu li jolqtu l-interess pubbliku, minn żmien għal żmien, jagħti lill-Awtorità direttivi bil-miktub ta’ xorta ġenerali, li ma jkunux inkonsistenti mad-dispożizzjonijiet ta’ dan l-Att, l-Att dwar l- Affarijiet tal-Konsumatur, l-Att dwar il-Kompetizzjoni, l-Att dwar is-Sigurezza tal-Prodotti, l-Att dwar il-Metroloġija, l-Att dwar is- Sigurtà fl-Ikel, l-Att dwar il-Kontroll tal-Pestiċidi, l-Att dwar il- Ħaddiema d-Deheb u l-Ħaddiema l-Fidda (Arġentiera) u kull Att jew regolamenti oħra amministrati mill-Awtorità, dwar il-politika li għandha tiġi segwita mill-Awtorità fit-twettiq tal-funzjonijiet tagħha, b’dan l-Att jew taħtu, u l-Awtorità għandha, kemm jista’ jkun malajr, iġġib fis-seħħ dawk id-direttivi kollha.
 
 *Kap. 378. Kap. 379. Kap. 427. Kap. 454. Kap. 449. Kap. 430. Kap. 46.*
@@ -475,11 +421,7 @@ U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 
 (1) Għandu jiġi mwaqqaf uffiċċju, li jkun magħruf bħala l- Uffiċċju għall-Kompetizzjoni, li għandu jkun immexxi mid- Direttur Ġenerali (Kompetizzjoni).
 
-(2) Id-Direttur Ġenerali (Kompetizzjoni) għandu jkun persuna bi kwalifiki professjonali, kompetenza rikonoxxuta, esperjenza u speċjalizzazzjoni fil-kamp tal-liġi tal-kompetizzjoni, u, jew fl-ekonomija tal-organizzazzjoni industrijali, u, preferibbilment, [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-b’għarfien tal-affarijiet tal-konsumatur, u għandu jiġi maħtur mill- Bord wara konsultazzjoni mal-Ministru, għal perjodu ta’ tliet snin u dan il-perjodu jista’ jiġi mtawwal għal perjodi oħra ta’ tliet snin kull wieħed:
-
-*14*
+(2) Id-Direttur Ġenerali (Kompetizzjoni) għandu jkun persuna bi kwalifiki professjonali, kompetenza rikonoxxuta, esperjenza u speċjalizzazzjoni fil-kamp tal-liġi tal-kompetizzjoni, u, jew fl-ekonomija tal-organizzazzjoni industrijali, u, preferibbilment, b’għarfien tal-affarijiet tal-konsumatur, u għandu jiġi maħtur mill- Bord wara konsultazzjoni mal-Ministru, għal perjodu ta’ tliet snin u dan il-perjodu jista’ jiġi mtawwal għal perjodi oħra ta’ tliet snin kull wieħed:
 
 Iżda l-ewwel Direttur Ġenerali (Kompetizzjoni) għandu jiġi maħtur mill-Ministru.
 
@@ -505,13 +447,9 @@ Iżda l-ewwel Direttur Ġenerali (Kompetizzjoni) għandu jiġi maħtur mill-Mini
 
 *Kap. 379.*
 
-(iii) jastjenu milli jieħdu kwalunkwe azzjoni li ma tkunx kompatibbli mat-twettiq ta’ dmirijiethom u, jew mal-eżerċizzju tas-setgħat tagħhom għall-applikazzjoni tal-artikoli 5 u, jew 9 tal-Att dwar il-Kompetizzjoni u, jew l-Artikoli 101 u, jew 102 tat-TFUE u jkunu soġġetti għal proċeduri li jiżguraw li, għal perjodu raġonevoli wara li jitilqu mill-kariga, jastjenu milli jittrattaw kawżi li jkollu jew kellu quddiemu l-Uffiċċju għall- U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
+(iii) jastjenu milli jieħdu kwalunkwe azzjoni li ma tkunx kompatibbli mat-twettiq ta’ dmirijiethom u, jew mal-eżerċizzju tas-setgħat tagħhom għall-applikazzjoni tal-artikoli 5 u, jew 9 tal-Att dwar il-Kompetizzjoni u, jew l-Artikoli 101 u, jew 102 tat-TFUE u jkunu soġġetti għal proċeduri li jiżguraw li, għal perjodu raġonevoli wara li jitilqu mill-kariga, jastjenu milli jittrattaw kawżi li jkollu jew kellu quddiemu l-Uffiċċju għall- Kompetizzjoni, li jistgħu jagħtu lok għal kunflitti ta’ interess, kif ipprovdut fl-artikolu 46 ta’ dan l-Att.
 
 *Kap. 379.*
-
-Kompetizzjoni, li jistgħu jagħtu lok għal kunflitti ta’ interess, kif ipprovdut fl-artikolu 46 ta’ dan l-Att.
-
-*15*
 
 *Kap. 379.*
 
@@ -541,11 +479,7 @@ Iżda l-persuna tista’ titneħħa biss jekk hija ma tibqax tissodisfa l-kundiz
 
 (ċ) li jaġixxi flimkien mal-Qorti Ċivili bħala l-awtorità kompetenti nazzjonali f’Malta kif magħruf bis-saħħa tal-artikolu 35(1) tar-Regolament tal-Kunsill (KE) Nru. 1/2003:
 
-Iżda għall-għanijiet ta’ dan is-subartikolu l-awtoritajiet tal-kompetizzjoni kompetenti fir-rigward tal-applikazzjoni tal-Artikoli 101 u 102 tat-TFUE, skont ir-Regolament tal-Kunsill (KE) Nru 1/2003 fuq l-implimentazzjoni tar-regoli dwar il-kompetizzjoni mniżżlin fl-Artikoli 81 u [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-82 tat-Trattat, ĠU L1 tal-04/01/2003, p.1 (Regolament 1/2003) għandhom ikunu:
-
-*16*
+Iżda għall-għanijiet ta’ dan is-subartikolu l-awtoritajiet tal-kompetizzjoni kompetenti fir-rigward tal-applikazzjoni tal-Artikoli 101 u 102 tat-TFUE, skont ir-Regolament tal-Kunsill (KE) Nru 1/2003 fuq l-implimentazzjoni tar-regoli dwar il-kompetizzjoni mniżżlin fl-Artikoli 81 u 82 tat-Trattat, ĠU L1 tal-04/01/2003, p.1 (Regolament 1/2003) għandhom ikunu:
 
 (a) il-Qorti Ċivili sabiex tieħu deċiżjoni u timponi penalitajiet u rimedji oħra; u
 
@@ -580,10 +514,6 @@ Iżda għall-għanijiet ta’ dan is-subartikolu l-awtoritajiet tal-kompetizzjon
 (2) Fit-twettiq tar-responsabbiltajiet imsemmija fis-subartikolu (1)(d) u (e), id-Direttur Ġenerali (Kompetizzjoni) għandu jikkopera mad-Direttur Ġenerali (Affarijiet tal-Konsumatur) jekk dan tal-aħħar ikun qed jirrevedi jew jistudja l-istess suq.
 
 (3) Xejn f’dan l-Att ma għandu jiftiehem bħala li jagħti lil xi persuna, konsumatur jew intrapriża d-dritt li jitlob lid-Direttur Ġenerali (Kompetizzjoni) li jaġixxi f’ismu u fl-interessi tiegħu f’xi materja jew tilwima partikolari ma’ xi kummerċjant, fornitur ta’ servizzi jew intrapriża quddiem xi qorti, tribunal jew x’imkien ieħor.
-
-*17*
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 
 ### 15. Gradi differenti ta’ prijorità.
 
@@ -621,11 +551,7 @@ Iżda l-ewwel Direttur Ġenerali (Affarijiet tal-Konsumatur) għandu jiġi maħt
 
 (1) Ir-responsabbiltajiet tal-Uffiċċju għall-Affarijiet tal- Konsumatur għandhom ikunu dawn li ġejjin:
 
-(a) li jipprovdi informazzjoni, pariri u linji ta’ gwida lill- U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-pubbliku li għandhom x’jaqsmu mal-affarijiet tal-konsumatur;
-
-*[KAP. 510. 18*
+(a) li jipprovdi informazzjoni, pariri u linji ta’ gwida lill-pubbliku li għandhom x’jaqsmu mal-affarijiet tal-konsumatur;
 
 (b) li jsegwi l-prattiċi ta’ negozju relatati mal-provvista ta’ oġġetti u servizzi lill-konsumatur, u li jieħu miżuri għat-trażżin u l-prevenzjoni ta’ kull prattika li tista’ tkun ta’ detriment lill-konsumatur;
 
@@ -655,11 +581,7 @@ pubbliku li għandhom x’jaqsmu mal-affarijiet tal-konsumatur;
 
 (o) li jaġixxi bħala jew iwettaq il-funzjonijiet tal-awtorità kompetenti nazzjonali skont ir-Regolament dwar il- Koperazzjoni u l-Protezzjoni tal-Konsumatur;
 
-(p) li jaġixxi bħala u jwettaq l-funzjonijiet ta’ uffiċċju uniku ta’ kooperazzjoni f’Malta responsabbli biex U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-jikkordina l-applikazzjoni tar-Regolament dwar il- Koperazzjoni u l-Protezzjoni tal-Konsumatur;
-
-*19*
+(p) li jaġixxi bħala u jwettaq l-funzjonijiet ta’ uffiċċju uniku ta’ kooperazzjoni f’Malta responsabbli biex jikkordina l-applikazzjoni tar-Regolament dwar il- Koperazzjoni u l-Protezzjoni tal-Konsumatur;
 
 (q) li jiżviluppa l-istrateġiji neċessarji għat-twettiq tar-responsabbiltajiet tiegħu;
 
@@ -699,12 +621,6 @@ Iżda l-ewwel Direttur Ġenerali (Regolamenti Tekniċi) għandu jiġi maħtur mi
 
 (a) li tabbozza leġislazzjoni dwar l-oqsma ta’ kompetenza u maħruġa bis-saħħa tal-artikolu 38 tal-Att dwar is- Sigurezza tal-Prodotti u b’kull liġi oħra;
 
-**U GĦALL-AFFARIJIET TAL-KONSUMATUR**
-
-*[KAP. 510.*
-
-*20*
-
 (b) li tagħti parir lill-Bord u aġenziji tal-Gvern oħra u lis-settur privat;
 
 (ċ) li tassisti s-setturi kollha tal-industrija biex jifhmu u jikkonformaw mal-ħtiġiet essenzjali imposti b’regolamenti tekniċi, maħruġa bis-saħħa tal-Att dwar is-Sigurezza tal-Prodotti u b’kull liġi oħra, u l-ħtiġiet ta’ teknika, kwalità u sigurtà ta’ standards armonizzati Ewropej u internazzjonali;
@@ -739,11 +655,7 @@ Iżda l-ewwel Direttur Ġenerali (Regolamenti Tekniċi) għandu jiġi maħtur mi
 
 (o) li teżerċita b’mod ġenerali s-setgħat mogħtija lilha taħt dan l-Att, u taħt l-Att dwar is-Sigurezza tal-Prodotti u kull Att ieħor jew regolamenti magħmula taħtu; u
 
-(p) li tissorvelja l-implimentazzjoni tal-liġi taħt l-Att dwar Servizzi li jingħataw fis-Suq Intern u li ssegwi l- U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-applikazzjoni tagħha.
-
-*21*
+(p) li tissorvelja l-implimentazzjoni tal-liġi taħt l-Att dwar Servizzi li jingħataw fis-Suq Intern u li ssegwi l-applikazzjoni tagħha.
 
 (2) Id-Diviżjoni dwar Regolamenti Tekniċi għandha tkun l-awtorità f’Malta inkarigata bl-implimentazzjoni:
 
@@ -781,11 +693,7 @@ Għall-finijiet ta’ dan il-paragrafu, "servizzi relatati ta’ sostenn" tinklu
 
 (iii) l-offerta ta’ servizzi tal-iċċertifikar;
 
-(ċ) li jaġixxi bħala l-korp kompetenti għall-finijiet tar- U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-Regolament (KE) Nru 66/2010 tal-Parlament Ewropew u tal-Kunsill ta’ 25 Novembru 2009 dwar skema ta’ Ekotikketta tal-UE (Test b’relevanza għaż-ŻEE) u r- Regolament (KE) No 1221/2009 tal-Parlament Ewropew u tal-Kunsill ta’ 25 Novembru 2009 dwar il-parteċipazzjoni volontarja ta’ organizzazzjonijiet fi skema Komunitarja ta’ ġestjoni u verifika ambjentali (EMAS) li jħassar ir-Regolament (KE) Nru 761/2001 u d-Deċiżjonijiet tal-Kummissjoni 2001/681/KE u 2006/ 193/KE;
-
-*[KAP. 510. 22*
+(ċ) li jaġixxi bħala l-korp kompetenti għall-finijiet tar- Regolament (KE) Nru 66/2010 tal-Parlament Ewropew u tal-Kunsill ta’ 25 Novembru 2009 dwar skema ta’ Ekotikketta tal-UE (Test b’relevanza għaż-ŻEE) u r- Regolament (KE) No 1221/2009 tal-Parlament Ewropew u tal-Kunsill ta’ 25 Novembru 2009 dwar il-parteċipazzjoni volontarja ta’ organizzazzjonijiet fi skema Komunitarja ta’ ġestjoni u verifika ambjentali (EMAS) li jħassar ir-Regolament (KE) Nru 761/2001 u d-Deċiżjonijiet tal-Kummissjoni 2001/681/KE u 2006/ 193/KE;
 
 (d) li jikkonsidra kull applikazzjoni għal permess għall-użu ta’ marka ta’ konformità u għall-għoti ta’ permessi għal dak l-għan;
 
@@ -815,11 +723,7 @@ Regolament (KE) Nru 66/2010 tal-Parlament Ewropew u tal-Kunsill ta’ 25 Novembr
 
 *Kap. 454.*
 
-(n) li jkun responsabbli għall-infurzar tar-regolamenti tal-metroloġija kollha maħruġa bis-saħħa tal-Att dwar il- U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-Metroloġija regolamenti oħra;
-
-*23*
+(n) li jkun responsabbli għall-infurzar tar-regolamenti tal-metroloġija kollha maħruġa bis-saħħa tal-Att dwar il- Metroloġija regolamenti oħra;
 
 (o) li jkun responsabbli għall-esekuzzjoni u l-kalibrar ta’ standards ta’ kejl u ta’ tagħmir ta’ verifika;
 
@@ -859,10 +763,6 @@ Metroloġija regolamenti oħra;
 
 (1) L-Istitut dwar l-iStandards u Metroloġija għandu jippubblika fil-Gazzetta lista ta’ standards magħmula, adottati jew trasposti minnu flimkien mal-ekwivalenza internazzjonali tagħhom, jekk din tkun tapplika, u għandu jindika wkoll f’dawk l-avviżi mnejn tkun tista’ tinkiseb kopja ta’ dawk l-istandards.
 
-*24*
-
-[KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
 (2) Minkejja d-dispożizzjonijiet l-oħra ta’ dan l-Att u ta’ kull liġi oħra, il-lista ta’ standards imsemmija qabel kif ukoll kull standards magħmula, adottati jew trasposti mill-Istitut dwar l-iStandards u Metroloġija jistgħu jsiru, jiġu pubblikati, jiġu preskritti jew jitqiegħdu għad-dispożizzjoni tal-pubbliku bl-ilsien Malti jew Ingliż.
 
 ### 24. Marka ta’ konformità.
@@ -891,10 +791,6 @@ L-uffiċjali awtorizzati bil-miktub għal hekk mill-Istitut dwar l-iStandards u 
 
 F’din it-Taqsima, kemm-il darba ma jkunx speċifikat xort’oħra, kull referenza għal "Uffiċċji" għandha tiftiehem bħala referenza għall-"Uffiċċju għall-Kompetizzjoni" u għall-"Uffiċċju għall-Affarijiet tal-Konsumatur" u l-kliem "Direttur Ġenerali" u "Diretturi Ġenerali" għandhom jirreferu kemm għad-"Direttur Ġenerali (Kompetizzjoni)" kif ukoll għad-"Direttur Ġenerali (Affarijiet tal-Konsumatur)".
 
-*25*
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
 ### 27. Konsultazzjoni ma’awtoritajiet pubbliċi. Kap. 379. Kap. 378.
 
 (1) L-Uffiċċji jistgħu jikkonsultaw ma’ awtoritajiet pubbliċi fl-applikazzjoni ta’ dan l-Att, l-Att dwar il-Kompetizzjoni, l-Att dwar l-Affarijiet tal-Konsumatur u kull Att ieħor, jew regolamenti magħmula taħthom li l-Uffiċċji huma intitolati li jinfurzaw.
@@ -916,10 +812,6 @@ U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 (1) Ħlief fejn stabbilit mil-liġi, il-membri tal-Bord, id- Diretturi Ġenerali u uffiċjali u impjegati oħra tal-Awtorità u persuni li jagħtu pariri, konsulenti jew persuni oħra mqabbda mal-Awtorità m’għandhomx jikkomunikaw jew jagħmlu aċċessibbli xi informazzjoni, inkluż dokumenti, li huma jqisu li hija interna jew li jkun fiha sigrieti tan-negozju jew informazzjoni kunfidenzjali oħra.
 
 (2) Mingħajr ħsara għal xi proċeduri dixxiplinari li jistgħu jittieħdu kontra impjegati pubbliċi taħt ir-regoli u l-proċeduri applikabbli, kull persuna li tikser id-dispożizzjonijiet tas-subartikolu (1) tkun ħatja ta’ reat kontra dan l-Att u, tista’, meta tinsab ħatja, teħel multa ta’ mhux inqas minn elfejn euro (€2,000) u mhux iżjed minn għaxart’elef euro (€10,000).
-
-*26*
-
-[KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
 
 ### 29. Identifikazzjoni u protezzjoni ta’ informazzjoni kunfidenzjali.
 
@@ -961,10 +853,6 @@ U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 
 *L.S. 379.08.*
 
-*27*
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
 (4) Id-Direttur Ġenerali jista’ jistabbilixxi terminu f’liema perjodu il-persuni, intrapriżi u l-għaqda ta’ intrapriżi jew xi korp ieħor għandhom:
 
 (a) jissostanzjaw il-pretensjoni tagħhom dwar il-kunfidenzjalità fir-rigward ta’ kull dokument individwali jew parti minn dak id-dokument, stqarrija jew parti minn dik l-istqarrija;
@@ -985,11 +873,7 @@ U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 
 (8) Meta d-Direttur Ġenerali ma jaqbilx mal-pretensjoni dwar il-kunfidenzjalità mill-bidu jew meta jkun tal-fehma illi l-aċċettazzjoni proviżorja tal-pretensjoni dwar il-kunfidenzjalità għandha tiġi mreġġa' lura, u għaldaqstant ikun hemm il-ħsieb li jiżvela l-informazzjoni, id-Direttur Ġenerali għandu jinforma bil-miktub lill-persuna jew lill-intrapriża jew lill-għaqda ta’ intrapriżi jew lil xi korp ieħor bil-ħsieb tiegħu li jiżvela l-informazzjoni, jagħti r-raġunijiet tiegħu, u jistabbilixxi terminu f’liema dik il-persuna jew intrapriża jew għaqda ta’ intrapriżi jew xi korp ieħor jistgħu jinformawh bil-mitkub dwar il-fehmiet tagħhom. Jekk, wara s-sottomissjoni ta’ dawk il-fehmiet, nuqqas ta’ qbil fuq il-pretensjoni dwar l-kunfidenzjalità jippersisti, id-Direttur Ġenerali għandu jieħu deċiżjoni dwar dan.
 
-(9) F’dawk il-każijiet meta l-persuna jew l-intrapriża jew l-għaqda ta’ intrapriżi jew xi korp ieħor ma taqbilx mad-deċiżjoni tad-Direttur Ġenerali fis-subartikolu (8), il-persuna jew l-intrapriża jew l-għaqda ta’ intrapriżi jew xi korp ieħor tista’ titlob l-istħarriġ tagħha permezz ta’ rikors ġuramentat preżentat fil-Qorti Ċivili fi [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-żmien għaxart ijiem minn meta d-deċiżjoni tad-Direttur Ġenerali tiġi notifikata:
-
-*28*
+(9) F’dawk il-każijiet meta l-persuna jew l-intrapriża jew l-għaqda ta’ intrapriżi jew xi korp ieħor ma taqbilx mad-deċiżjoni tad-Direttur Ġenerali fis-subartikolu (8), il-persuna jew l-intrapriża jew l-għaqda ta’ intrapriżi jew xi korp ieħor tista’ titlob l-istħarriġ tagħha permezz ta’ rikors ġuramentat preżentat fil-Qorti Ċivili fi żmien għaxart ijiem minn meta d-deċiżjoni tad-Direttur Ġenerali tiġi notifikata:
 
 Iżda l-Qorti Ċivili għandha tappunta u tiddeċiedi kull kwistjoni skont dan is-subartikolu fl-iqsar żmien possibbli:
 
@@ -1013,11 +897,7 @@ Imħassra bl-AttXVI.2019.62.
 
 ### 38. Ħatriet tal-persunal.
 
-Mingħajr ħsara għad-dispożizzjonijiet tal-Kostituzzjoni, kull liġi applikabbli għaliha, u mingħajr ħsara għad- U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-dispożizzjonijiet l-oħra ta’ dan l-Att, l-impieg u ħatra ta’ uffiċjali u impjegati oħra tal-Awtorità għandhom isiru mill-Bord u t-termini u l-kondizzjonijiet tal-impieg u l-ħatra tagħhom għandhom jiġu stabbiliti mill-Bord bi qbil mal-Ministru:
-
-*29*
+Mingħajr ħsara għad-dispożizzjonijiet tal-Kostituzzjoni, kull liġi applikabbli għaliha, u mingħajr ħsara għad-dispożizzjonijiet l-oħra ta’ dan l-Att, l-impieg u ħatra ta’ uffiċjali u impjegati oħra tal-Awtorità għandhom isiru mill-Bord u t-termini u l-kondizzjonijiet tal-impieg u l-ħatra tagħhom għandhom jiġu stabbiliti mill-Bord bi qbil mal-Ministru:
 
 Iżda illi, minkejja l-artikolu 12(8), għall-finijiet tas-subartikolu (1), il-Bord għandu jsewgi kull direttiva jew linji ta’ gwida maħruġa taħt l-artikolu 28(1)(ċ), (d) u (e) tal-Att dwar l- Amministrazzjoni Pubblika.
 
@@ -1047,11 +927,7 @@ Il-Bord għandu jaħtar u jimpjega, b’dak il-ħlas u fuq dawk it-termini u kon
 
 (a) m’għandux matul il-perjodu li matulu huwa jkun hekk inkarigat:-
 
-(i) jiġi mċaħħad milli japplika għal trasferiment [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-f’xi Dipartiment tal-Gvern skont it-termini u l-kondizzjonijiet ta’ servizz marbuta mal-ħatra miżmuma minnu taħt il-Gvern li kellu fid-data li fiha huwa hekk kien inkarigat biex jagħmel ix-xogħol; jew
-
-*30*
+(i) jiġi mċaħħad milli japplika għal trasferiment f’xi Dipartiment tal-Gvern skont it-termini u l-kondizzjonijiet ta’ servizz marbuta mal-ħatra miżmuma minnu taħt il-Gvern li kellu fid-data li fiha huwa hekk kien inkarigat biex jagħmel ix-xogħol; jew
 
 (ii) ikun hekk impjegat li l-ħlas u l-kondizzjonijiet ta’ servizz tiegħu ikunu inqas favorevoli minn dawk li jkunu marbuta mal-ħatra miżmuma minnu taħt il-Gvern u li jkun qed igawdi fid-data hawn qabel imsemmija jew li kieku kienu jkunu marbuta ma’ dik il-ħatra, matul dak il-perjodu, li kieku dak l-uffiċjal ma kienx ġie inkarigat jagħmel xogħol mal-Awtorità:
 
@@ -1066,10 +942,6 @@ Iżda fil-kalkolu tal-emolumenti pensjonabbli ta’ dak l-uffiċjal għall-finij
 (3) Meta ssir applikazzjoni kif hemm provdut fis-subartikolu (2)(a)(i), għandha tingħata l-istess konsiderazzjoni bħallikieku l-applikant ma kienx ġie inkarigat jagħmel servizz mal-Awtorità.
 
 (4) L-Awtorità għandha tħallas lill-Gvern dawk il-kontribuzzjonijiet li jistgħu minn żmien għal żmien jiġu stabbiliti mill-Ministru responsabbli għall-Finanzi fir-rigward tan-nefqa ta’ pensjonijiet u gratwitajiet li jaqla’ uffiċjal li jiġi inkarigat jagħmel xogħol mal-Awtorità kif hawn qabel imsemmi matul l-perjodu li fih ikun qed jagħmel dak ix-xogħol.
-
-*31*
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 
 ### 42. Offerta ta’ impieg permanenti mal- Awtorità lill-uffiċjali pubbliċi inkarigati jagħmlu xogħol mal- Awtorità.
 
@@ -1093,11 +965,7 @@ U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 
 (7) (a) Għall-finijiet ta’ dan l-artikolu, karigi u gradi salarjali mal-Awtorità għandhom ikunu klassifikati fil-gradi u l-livelli inkrementali li jkunu l-aktar jikkorrispondu ma’ dawk ta’ min hu fis-servizz taħt il-Gvern b’riferenza għad-deskrizzjoni ta’ xogħol, kapaċitajiet, responsabbiltajiet u fatturi oħra li jixxiebħu.
 
-(b) Il-klassifikazzjoni msemmija fil-paragrafu (a) għandha ssir minn bord li jkun magħmul minn Chairman li jiġi maħtur mill-Ministru responsabbli għall-Finanzi u magħmul ukoll minn żewġ membri oħra, wieħed [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-maħtur mill-Ministru ċentralment responsabbli għal politika dwar il-persunal fis-servizz pubbliku u wieħed li jiġi maħtur mill-Awtorità. Il-klassifikazzjoni tkun suġġetta għall-approvazzjoni finali tal-Ministru responsabbli għall-Finanzi.
-
-*32*
+(b) Il-klassifikazzjoni msemmija fil-paragrafu (a) għandha ssir minn bord li jkun magħmul minn Chairman li jiġi maħtur mill-Ministru responsabbli għall-Finanzi u magħmul ukoll minn żewġ membri oħra, wieħed maħtur mill-Ministru ċentralment responsabbli għal politika dwar il-persunal fis-servizz pubbliku u wieħed li jiġi maħtur mill-Awtorità. Il-klassifikazzjoni tkun suġġetta għall-approvazzjoni finali tal-Ministru responsabbli għall-Finanzi.
 
 (ċ) Dik il-klassifikazzjoni għandha sseħħ fi żmien tliet xhur minn kull meta jsir aġġustament tas-salarji ta’ impjegati fis-servizz mal-Gvern u, jew, ta’ impjegati tal-Awtorità.
 
@@ -1131,10 +999,6 @@ Kull persuna maħtura bħala uffiċjal tal-Awtorità għandha, qabel ma tidħol 
 
 (3) Meta jsir xi żvelar lill-Bord skont is-subartikolu (1), għandhom jiġu mniżżla d-dettalji ta’ dak l-iżvelar fil-minuti ta’ dik il-laqgħa.
 
-*33*
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
 (4) Meta persuna li għaliha japplika s-subartikolu (1) tonqos milli tagħmel l-iżvelar meħtieġ, il-Bord għandu jiddeċiedi dwar liema azzjoni adatta għandu jieħu, li tista’ tinkludi t-tneħħija mill-kariga jew it-terminazzjoni tal-kuntratt tal-persuna konċernata.
 
 ### 46. Kodiċi tal-Etika.
@@ -1163,11 +1027,7 @@ Iżda d-Diretturi Ġenerali għandhom, bl-approvazzjoni tal- Kumitat għall-Kord
 
 (1) Bla ħsara għad-dispożizzjonijiet li ġejjin ta’ dan l-artikolu, l-Awtorità għandha hekk tmexxi l-affarijiet tagħha li daqstant mill-ispiża meħtieġa għat-twettiq xieraq tal-funzjonijiet tagħha għandha, daqskemm dan ikun possibbli, tinħareġ mid-dħul tagħha.
 
-(2) Għall-finijiet tas-subartikolu (1), l-Awtorità, għandha timponi kull dritt, ħlas u pagament ieħor preskritt jew meqjus li hu preskritt b’dan l-Att jew taħtu jew taħt xi liġi oħra relatata li tipprovdi dwar affarijiet li huma taħt is-setgħat rispettivi u l- [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-funzjonijiet tagħha:
-
-*34*
+(2) Għall-finijiet tas-subartikolu (1), l-Awtorità, għandha timponi kull dritt, ħlas u pagament ieħor preskritt jew meqjus li hu preskritt b’dan l-Att jew taħtu jew taħt xi liġi oħra relatata li tipprovdi dwar affarijiet li huma taħt is-setgħat rispettivi u l-funzjonijiet tagħha:
 
 Iżda meta l-entitajiet ikunu speċifikatament inkarigati mil-liġi sabiex iżommu miżati, dawk il-miżati għandhom jiġu miġbura mill-entitajiet konċernati.
 
@@ -1188,10 +1048,6 @@ Iżda għal kull ammont li jkun jeċċedi l-mija u għoxrin elf euro (€120,000
 ### 50. Avvanzi mill- Gvern.
 
 Il-Ministru responsabbli għall-Finanzi jista’, wara konsultazzjoni mal-Ministru, jagħmel avvanzi lill-Awtorità ta’ dawk l-ammonti li huwa jista’ jaqbel li jkunu meħtieġa mill- Awtorità biex twettaq kull funzjoni tagħha skont dan l-Att, u jista’ jagħmel dawk l-avvanzi skont dawk it-termini u l-kondizzjonijiet li huwa jista’, wara konsultazzjoni kif imsemmija qabel, iqis li jkunu xierqa. Avvanz bħal dak jista’ jsir mill-Ministru responsabbli għall- Finanzi mill-Fond Konsolidat, u mingħajr ebda approprjazzjoni oħra ħlief dan l-Att, b’ordni bil-miktub, li jawtorizza lill- Accountant General biex jagħmel dak l-avvanz.
-
-*35*
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
 
 ### 51. Self mingħand il- Gvern.
 
@@ -1214,10 +1070,6 @@ Iżda l-estimi għall-ewwel sena finanzjarja tal-Awtorità għandhom jiġu prepa
 (2) Fit-tħejjija ta’ dawk l-estimi, l-Awtorità għandha tieħu kont ta’ kull fond u flejjes oħra li jistgħu jkunu dovuti li jitħallsu lilha mill-Fond Konsolidat matul is-sena finanzjarja rilevanti, sew bis-saħħa ta’ dan l-Att jew ta’ Att ta’ approprjazzjoni jew ta’ kull liġi oħra u hija għandha hekk tħejji l-imsemmija estimi b’mod li tiżgura li d-dħul totali tagħha huwa mill-inqas suffiċjenti biex minnu jitħallas kull ammont li sewwasew għandu jintefaq mill-kont tad-dħul tagħha inkluż, iżda bla ħsara għall-ġeneralità ta’ dik il-frażi, d-deprezzament.
 
 (3) L-estimi għandhom isiru f’dik l-għamla u għandu jkun fihom dik l-informazzjoni u dak it-tqabbil ma’ snin ta’ qabel hekk kif il-Ministru responsabbli għall-Finanzi jista’ jordna.
-
-*36*
-
-[KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
 
 (4) Kopja tal-estimi għandha, meta dawn jiġu adottati mill- Awtorità, tintbagħat minnufih lill-Ministru u lill-Ministru responsabbli għall-Finanzi.
 
@@ -1245,11 +1097,7 @@ Il-Ministru jista’, mal-ewwel opportunità u mhux iktar tard minn tmien ġimg�
 
 (1) L-Awtorità għandha tara li jinżammu kontijiet u records oħra kif imiss dwar tal-operazzjonijiet tagħha, u għandha tara li jitħejja prospett ta’ kontijiet dwar kull sena finanzjarja.
 
-(2) Il-kontijiet tal-Awtorità għandhom jiġu verifikati minn awditur jew awdituri li jinħatru mill-Awtorità u bl-approvazzjoni U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-tal-Ministru responsabbli għall-finanzi u barra minn hekk ikunu soġġetti għal skrutinju mill-Monitoring Unit tal-Immaniġġjar Finanzjarju, u għall-verifika mid-Direttorat għall-Awditjar Intern u l-Investigazzjonijiet u mill-Awditur Ġenerali, skont il-każ.
-
-*37*
+(2) Il-kontijiet tal-Awtorità għandhom jiġu verifikati minn awditur jew awdituri li jinħatru mill-Awtorità u bl-approvazzjoni tal-Ministru responsabbli għall-finanzi u barra minn hekk ikunu soġġetti għal skrutinju mill-Monitoring Unit tal-Immaniġġjar Finanzjarju, u għall-verifika mid-Direttorat għall-Awditjar Intern u l-Investigazzjonijiet u mill-Awditur Ġenerali, skont il-każ.
 
 (3) Mhux aktar tard minn sitt ġimgħat mit-tmiem ta’ kull sena finanzjarja, l-Awtorità għandha tippreżenta lill-Ministru permezz tas-Segretarju Permanenti, dikjarazzjoni tal-kontijiet verifikata flimkien ma’ kopja ta’ kull rapport magħmul mill-awditur fuq dak il-prospett jew il-kontijiet tal-Awtorità.
 
@@ -1279,11 +1127,7 @@ L-Awtorità m’għandhiex tagħti jew tidħol f’xi kuntratt għall-għoti ta�
 
 *Emendat: XLV.2021.27.*
 
-L-Awtorità għandha, mhux aktar tard minn sitt ġimgħat wara t-tmiem ta’ kull sena finanzjarja, tippreżenta lill-Ministru permezz tas-Segretarju Permanenti rapport ġenerali dwar l-attivitajiet tal-Awtorità matul dik is-sena finanzjarja, li [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-jiddistingwi, b’mod partikolari, bejn kull waħda mill-entitajiet hekk kif jistgħu jiġu mwaqqfa taħt id-dispożizzjonijiet ta’ dan l-Att u li jkun fih dik l-informazzjoni dwar il-proċeduri u l-politika tal- Awtorità kif il-Ministru jista’ minn żmien għal żmien jeħtieġ:
-
-*38*
+L-Awtorità għandha, mhux aktar tard minn sitt ġimgħat wara t-tmiem ta’ kull sena finanzjarja, tippreżenta lill-Ministru permezz tas-Segretarju Permanenti rapport ġenerali dwar l-attivitajiet tal-Awtorità matul dik is-sena finanzjarja, li jiddistingwi, b’mod partikolari, bejn kull waħda mill-entitajiet hekk kif jistgħu jiġu mwaqqfa taħt id-dispożizzjonijiet ta’ dan l-Att u li jkun fih dik l-informazzjoni dwar il-proċeduri u l-politika tal- Awtorità kif il-Ministru jista’ minn żmien għal żmien jeħtieġ:
 
 Iżda b’referenza għal tali rapport, is-sezzjonijiet li jirrelataw mal-Uffiċċju għall-Kompetizzjoni għandhom jinkludu informazzjoni dwar il-ħatriet u s-sensji tad-Direttur Ġenerali u d-diretturi, l-ammont ta’ riżorsi li jkunu ġew allokati fis-sena rilevanti u kwalunkwe tibdil f’dak l-ammont meta mqabbel mas-snin preċedenti. Tali rapport għandu jkun disponibbli għall-pubbliku.
 
@@ -1299,11 +1143,7 @@ Il-Ministru għandu jara li kopja tar-rapport ippreżentat lilu skont l-artikolu
 
 (b)L-attiv immobbli minn żmien għal żmien speċifikat f ’ordni magħmula mill-President ta’ Malta u ppubblikata fil- Gazzetta, hawn iżjed ’il quddiem imsejjħa "l-attiv immobbli", li jkun attiv immobbli li, minnufih qabel id-dħul fis-seħħ ta’ din it- Taqsima, kien proprjetà tal-Gvern u minnu użat għat-tħaddim tal-funzjonijiet li b’dan l-Att qed jiġu trasferiti lill-Awtorità jew vestiti fiha għandhom, b’seħħ minn dik il-ġurnata li tista’ tkun speċifikata f ’xi ordni bħal dik, u bis-saħħa ta’ dan l-Att u mingħajr ebda assigurazzjoni oħra, jkunu trasferiti lill-Awtorità u vestiti fiha b’dak it-titolu li bih kienu miżmuma mill-Gvern minnufih qabel dik id-data.
 
-(2) It-trasferiment u l-vestiment hawn qabel imsemmija għandhom jestendu għal dik il-proprjetà u dawk l-intrapriżi kollha kemm huma u, bla ħsara għall-ġeneralità hawn qabel imsemmija, għandhom jinkludu kull impjant, tagħmir, apparat, strument, vettura, inġenju, bini, struttura, stallazzjoni, art, xogħol, ħażna u proprjetà oħra, mobbli jew immobbli, attiv, setgħa, jedd u privileġġ u kull ħaġa meħtieġa jew anċillari għal dawn, li jkunu qiegħdin U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-jinżammu jew jiġu gawduti f’konnessjoni magħhom jew li jkunu jappartjenu lilhom, kif ukoll kull obbligazzjoni li taffettwa jew tkun konnessa ma’ xi proprjetà jew intrapriżi hawn qabel imsemmija jew xi ħaġa oħra fihom inkluża kif hawn qabel imsemmija.
-
-*39*
+(2) It-trasferiment u l-vestiment hawn qabel imsemmija għandhom jestendu għal dik il-proprjetà u dawk l-intrapriżi kollha kemm huma u, bla ħsara għall-ġeneralità hawn qabel imsemmija, għandhom jinkludu kull impjant, tagħmir, apparat, strument, vettura, inġenju, bini, struttura, stallazzjoni, art, xogħol, ħażna u proprjetà oħra, mobbli jew immobbli, attiv, setgħa, jedd u privileġġ u kull ħaġa meħtieġa jew anċillari għal dawn, li jkunu qiegħdin jinżammu jew jiġu gawduti f’konnessjoni magħhom jew li jkunu jappartjenu lilhom, kif ukoll kull obbligazzjoni li taffettwa jew tkun konnessa ma’ xi proprjetà jew intrapriżi hawn qabel imsemmija jew xi ħaġa oħra fihom inkluża kif hawn qabel imsemmija.
 
 ### 61. Kif jiftiehmu l-liġijiet u affarijiet oħra relatati.
 
@@ -1317,11 +1157,7 @@ jinżammu jew jiġu gawduti f’konnessjoni magħhom jew li jkunu jappartjenu li
 
 (2) Meta, minnufih qabel id-dħul fis-seħħ ta’ din it-Taqsima ta’ dan l-Att, ikun hemm pendenti xi proċeduri legali li fihom il- Gvern, id-Dipartiment tal-Kompetizzjoni u tal-Konsumatur, l- Awtorità Maltija dwar l-iStandards u l-Kumpannija b’responsabbiltà limitata tal-Laboratorju Nazzjonali ta’ Malta jkunu jew huma intitolati li jkunu parti, u dawk il-proċeduri jkollhom x’jaqsmu ma’ xi waħda mill-proprjetajiet jew intrapriżi, jew ma’ xi dritt jew piż trasferiti bi jew taħt dan l-Att, l-Awtorità għandha, sa mid-data hawn fuq imsemmija, tiġi sostitwita f’dawk il-proċeduri minflok il-Gvern jew l-imsemmija Dipartiment, Awtorità jew Kumpannija, skont il-każ, jew għandha tintgħamel parti fihom bl-istess mod kif il-Gvern, kull Dipartiment, Awtorità jew Kumpannija bħal dawk setgħu jagħmlu parti kif hawn imsemmi hawn fuq, u dawk il-proċeduri m’għandhomx jieqfu minħabba s-sostituzzjoni.
 
-(3) Il-Ministru jista’, permezz ta’ ordni, jagħmel dawk id-dispożizzjonijiet inċidentali, konsegwenzjali u supplementali li huwa jista’ jqis meħtieġa jew spedjenti għall-fini li jiddetermina, [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-kif imiss, l-attiv trasferit lill-Awtorità b’dan l-Att u jiżgura u jagħti kull effett lit-trasferiment ta’ proprjetà jew intrapriża jew lil kull dritt jew responsabbiltà lill-Awtorità b’dan l-Att u jagħmel dawk l-ordnijiet li jistgħu jkunu meħtieġa sabiex jagħmel kull setgħa u dmir eżerċitabbli mill-Gvern, id-Dipartiment tal-Kompetizzjoni u tal-Konsumatur, l-Awtorità Maltija dwar l-iStandards u l- Kumpannija b’responsabbilità limitata tal-Laboratorju Nazzjonali ta’ Malta fir-rigward ta’ xi proprjetà jew intrapriża trasferiti eżerċitabbli minn jew f’isem l-Awtorità.
-
-*40*
+(3) Il-Ministru jista’, permezz ta’ ordni, jagħmel dawk id-dispożizzjonijiet inċidentali, konsegwenzjali u supplementali li huwa jista’ jqis meħtieġa jew spedjenti għall-fini li jiddetermina, kif imiss, l-attiv trasferit lill-Awtorità b’dan l-Att u jiżgura u jagħti kull effett lit-trasferiment ta’ proprjetà jew intrapriża jew lil kull dritt jew responsabbiltà lill-Awtorità b’dan l-Att u jagħmel dawk l-ordnijiet li jistgħu jkunu meħtieġa sabiex jagħmel kull setgħa u dmir eżerċitabbli mill-Gvern, id-Dipartiment tal-Kompetizzjoni u tal-Konsumatur, l-Awtorità Maltija dwar l-iStandards u l- Kumpannija b’responsabbilità limitata tal-Laboratorju Nazzjonali ta’ Malta fir-rigward ta’ xi proprjetà jew intrapriża trasferiti eżerċitabbli minn jew f’isem l-Awtorità.
 
 ## TAQSIMA XIII — MIXXELLANJI
 
@@ -1345,11 +1181,7 @@ Iżda, il-kopja ma tistgħax titħalla f’idejn persuni ta’ età anqas minn e
 
 Iżda wkoll meta persuna li lilha jkun indirizzat att tirrifjuta li tirċevieh personalment mingħand uffiċjal tal-Awtorità, il-Qorti Ċivili tista’ fuq rikors tal-Awtorità u wara li jisma’ l-uffiċjal tal-Awtorità u wara li jikkonsidra ċ-ċirkostanzi kollha tal-inċident, jiddikjara li s-servizz ikun sar lil dik il-persuna fil-ġurnata u l-ħin tar-rifjut u tali dikjarazzjoni għandha titqies bħala prova tas-servizz għall-finijiet u l-effetti kollha tal-liġi;
 
-(b) billi jintbagħat bil-posta reġistrata lill-persuna fl- U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-indirizz fejn hi tkun soltu toqgħod jew ikollha n-negozju tagħha;
-
-*41*
+(b) billi jintbagħat bil-posta reġistrata lill-persuna fl-indirizz fejn hi tkun soltu toqgħod jew ikollha n-negozju tagħha;
 
 (ċ) jekk ikun ingħata indirizz għas-servizz ta’ atti mill-persuna, billi dan jitħalla, jew jintbagħat bil-posta reġistrata indirizzat lill-persuna f’dak l-indirizz; jew (d) f’kull każ fejn l-Awtorità tqis li l-kunsinna minnufih tal-att ikun meħtieġ, billi jintbagħat, permezz ta’ makna facsimile jew bil-posta elettronika, f’apparat jew faċilità għar-reċezzjoni ta’ facsimiles jew posta elettronika li tkun tinsab fl-indirizz fejn il-persuna tkun soltu toqgħod jew ikollha n-negozju tagħha jew, jekk ikun ingħata indirizz għan-notifika ta’ atti mill-persuna, f’dak l-indirizz, kemm-il darba l-makna facsimile tal-Awtorità tiġġenera messaġġ li jkun jikkonferma li t-trasmissjoni tkun għaddiet b’suċċess għal dak li hu l-għadd totali ta’ paġni tal-avviż jew inkella l-faċilità tal-Awtorità għar-reċezzjoni ta’ posta elettronika tiġġenera messaġġ li jkun jikkonferma li l-posta elettronika tkun ġiet riċevuta:
 
@@ -1361,11 +1193,7 @@ Iżda d-dispożizzjonijiet tal-paragrafu (d) m’għandhomx japplikaw għan-noti
 
 (a) fl-uffiċċju reġistrat, fl-uffiċċju prinċipali tiegħu, jew fil-post tan-negozju jew fl-indirizz postali ta’ xi persuna jew persuni vestiti bir-rappreżentazzjoni legali jew ġuridika jew f’idejn is-segretarju tal-kumpannija jew impjegat ta’ dak il-korp; jew
 
-(b) f’idejn persuna jew persuni vestiti bir-rappreżentazzjoni legali jew ġuridika tagħha jew [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-segretarju tal-kumpannija bil-mod provdut fis-subartikolu (2).
-
-*42*
+(b) f’idejn persuna jew persuni vestiti bir-rappreżentazzjoni legali jew ġuridika tagħha jew segretarju tal-kumpannija bil-mod provdut fis-subartikolu (2).
 
 (5) Id-dispożizzjonijiet ta’ dan l-artikolu għandu wkoll japplika fir-rigward tan-notifika ta’ att maħruġa mill-entitajiet tal-Awtorità taħt dan l-Att jew xi liġi oħra infurzata minnhom.
 
@@ -1393,11 +1221,7 @@ segretarju tal-kumpannija bil-mod provdut fis-subartikolu (2).
 
 ### 66. Twaqqif tad- Direttorati.
 
-(1) Għandhom jitwaqqfu id-Direttorati kif elenkati fir- Raba’ Skeda, li jkollhom ir-responsabbiltajiet kif hemm deskritti. Il-Ministru jista’, wara li jikkonsulta lill-Bord, b’Ordni fil- Gazzetta, jabolixxi xi wieħed jew aktar minn dawk id-Direttorati, ivarja r-responsabbiltajiet tagħhom u jwaqqaf dak id-Direttorat ieħor kif U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-jista’ minn żmien għal żmien iqis neċessarju:
-
-*43*
+(1) Għandhom jitwaqqfu id-Direttorati kif elenkati fir- Raba’ Skeda, li jkollhom ir-responsabbiltajiet kif hemm deskritti. Il-Ministru jista’, wara li jikkonsulta lill-Bord, b’Ordni fil- Gazzetta, jabolixxi xi wieħed jew aktar minn dawk id-Direttorati, ivarja r-responsabbiltajiet tagħhom u jwaqqaf dak id-Direttorat ieħor kif jista’ minn żmien għal żmien iqis neċessarju:
 
 Iżda l-Bord jista’, b’mod temporanju jew għall-fini speċifika, jawtorizza lid-Direttur Ġenerali li jkun imexxi lill-entità konċernata, li jippermetti li funzjoni partikolari ta’ waħda mid- Direttorati tiġi mwettqa minn Direttorat ieħor fi ħdan l-istess entità, jekk ikun spedjenti għall-eżeċizzju xieraq ta’ dik il-funzjoni jew għal dak il-għan speċifiku.
 
@@ -1435,11 +1259,7 @@ Imħassar bl-Att XVI.2019.66.
 
 (a) investigazzjoni pendenti quddiem id-Direttur tal- Uffiċċju għall-Kompetizzjoni Ġusta u quddiem id- Direttur tal-Affarijiet tal-Konsumatur, kif sostitwiti mid-Direttur Ġenerali (Kompetizzjoni) u mid-Direttur Ġenerali (Affarijiet tal-Konsumatur);
 
-(b) proċedimenti pendenti quddiem il-Kummissjoni għall- Kummerċ Ġust u l-Bord tal-Appell għall-Affarijiet tal- U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-Konsumatur, kif sostitwiti mit-Tribunal tal-Appell għall-Kompetizzjoni u għall-Konsumatur u kif eventwalment sostitwiti mill-Qorti Ċivili; it-Tribunal għal Talbiet tal-Konsumaturi u l-qrati; u
-
-*[KAP. 510. 44*
+(b) proċedimenti pendenti quddiem il-Kummissjoni għall- Kummerċ Ġust u l-Bord tal-Appell għall-Affarijiet tal- Konsumatur, kif sostitwiti mit-Tribunal tal-Appell għall-Kompetizzjoni u għall-Konsumatur u kif eventwalment sostitwiti mill-Qorti Ċivili; it-Tribunal għal Talbiet tal-Konsumaturi u l-qrati; u
 
 *(2) Kap. 379. Kap. 378.*
 
@@ -1459,11 +1279,7 @@ Iżda wkoll id-dispożizzjonijiet tal--Att dwar l-Affarijiet tal-Konsumatur fis-
 
 *Att Nru XLIV tal- 2021.*
 
-Iżda wkoll, fir-rigward ta’ appelli minn kull deċiżjoni tat-Tribunal tal-Appell għall-Kompetizzjoni u għall- Konsumatur, tal-Kummissjoni għall-Kummerċ Ġust jew il-Bord tal-Appell għall-Affarijiet tal-Konsumatur li jkunu pendenti quddiem il-Qorti tal-Appell wara d- U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510.
-
-dħul fis-seħħ tal-Att tal-2019 li jemenda l-Att dwar il- Kompetizzjoni u l-Att dwar l-Affarijiet tal- Konsumatur u Liġijiet oħra, l-appellant għandu jkollu għoxrin jum mid-data hawn fuq imsemmija, jew għoxrin jum mill-ewwel udjenza f’tali appell, skont liema l-aħħar, sabiex jippreżenta kull aggravju ulterjuri ta’ appell fuq punt ta’ fatt.
-
-*45*
+Iżda wkoll, fir-rigward ta’ appelli minn kull deċiżjoni tat-Tribunal tal-Appell għall-Kompetizzjoni u għall- Konsumatur, tal-Kummissjoni għall-Kummerċ Ġust jew il-Bord tal-Appell għall-Affarijiet tal-Konsumatur li jkunu pendenti quddiem il-Qorti tal-Appell wara d-dħul fis-seħħ tal-Att tal-2019 li jemenda l-Att dwar il- Kompetizzjoni u l-Att dwar l-Affarijiet tal- Konsumatur u Liġijiet oħra, l-appellant għandu jkollu għoxrin jum mid-data hawn fuq imsemmija, jew għoxrin jum mill-ewwel udjenza f’tali appell, skont liema l-aħħar, sabiex jippreżenta kull aggravju ulterjuri ta’ appell fuq punt ta’ fatt.
 
 (3) Għall-finijiet tas-subartikolu (1):
 
@@ -1501,10 +1317,6 @@ Iżda d-dispożizzjonijiet tal-Att dwar l-Affarijiet tal- Konsumatur fis-seħħ 
 
 *Att Nru XLIV tal- 2021.*
 
-*46*
-
-[KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
 *Kap. 379.*
 
 (6) Għall-finijiet tas-subartikolu (2)(a), il-Qorti Ċivili għandu jkollha s-setgħat tat-Tribunal tal-Appell għall-Kompetizzjoni u għall- Konsumatur kif mogħtija fl-Att dwar il-Kompetizzjoni, l-Att dwar l- Affarijiet tal-Konsumatur u l-Att dwar l-Awtorità ta’ Malta għall- Kompetizzjoni u għall-Affarijiet tal-Konsumatur, qabel id-dħul fis-seħħ tal-Att tal-2019 li jemenda l-Att dwar il-Kompetizzjoni u l-Att dwar l-Affarijiet tal-Konsumatur u Liġijiet oħra.
@@ -1531,17 +1343,11 @@ Ir-regolamenti magħmula taħt l-Att dwar l-Awtorità Maltija dwar l-iStandards 
 
 Standards nazzjonali għandhom ikunu nominati bħala SM XXX:YYYY, fejn XXX huwa numru integer u YYYY hija s-sena tal-adozzjoni.
 
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510. 47
-
 ## L-EWWEL SKEDA — (ARTIKOLU 44) — FORMA TAL-ĠURAMENT
 
 Jiena, .................................. naħlef/solennement niddikjara illi bil-fedeltà u onestà kollha naqdi d-dmir tiegħi bħala uffiċjal tal-Awtorità skont il-ħtiġiet tal-Att tal-2011 dwar l-Awtorità ta’ Malta għall-Kompetizzjoni u għall-Affarijiet tal- Konsumatur, u kull liġi oħra li l-Awtorità tamministra u kull ordni maħruġa taħtu, u li, ħlief fil-qadi tad-dmirijiet tiegħi taħt dak l-Att u dawk l-ordnijiet, ma niżvelax u ma nxandarx, waqt l-impieg tiegħi bħala uffiċjal f’dik l-Awtorità jew f’xi żmien wara, xi ħaġa li nsir naf biha li għandha x’taqsam ma’ xi persuna, familja jew intrapriża minħabba fl-impieg tiegħi bħala uffiċjal f’dik l-Awtorità.
 
 Hekk Alla jgħini.
-
-*48*
-
-[KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
 
 IT-TIENI SKEDA
 
@@ -1552,8 +1358,6 @@ REGOLI TA’ PROĊEDURA TAT-TRIBUNAL TAL-APPELL TAL-
 KOMPETIZZJONI U TAL-KONSUMATUR
 
 Imħassra bl-Att XVI.2019.68.
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510. 49
 
 Sostitwita: IT-TIELET SKEDA
 
@@ -1609,11 +1413,7 @@ Ir-Regolament (UE) Nru 181/2011 tal-Parlament Ewropew u tal-Kunsill tas-16 ta' F
 
 *\10.*
 
-Ir-Regolament (UE) Nru 1177/2010 tal-Parlament Ewropew u tal-Kunsill tal- [KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
-
-24 ta’ Novembru 2010 dwar id-drittijiet tal-passiġġieri meta jivvjaġġaw bil-baħar jew minn passaġġi fuq l-ilma interni u li jemenda r-Regolament (KE) Nru 2006/2004.
-
-*50*
+Ir-Regolament (UE) Nru 1177/2010 tal-Parlament Ewropew u tal-Kunsill tal- 24 ta’ Novembru 2010 dwar id-drittijiet tal-passiġġieri meta jivvjaġġaw bil-baħar jew minn passaġġi fuq l-ilma interni u li jemenda r-Regolament (KE) Nru 2006/2004.
 
 *\11.*
 
@@ -1634,8 +1434,6 @@ Ir-Regolament (UE) Nru 524/2013 tal-Parlament Ewropew u tal-Kunsill tal-21 ta' M
 *\15.*
 
 Id-Direttiva 2014/17/UE tal-Parlament Ewropew u tal-Kunsill tal-4 ta’ Frar 2014 dwar kuntratti ta’ kreditu għall-konsumaturi marbutin ma’ proprjetà immobbli residenzjali u li temenda d-Direttivi 2008/48/KE u 2013/36/UE u r- Regolament (UE) Nru 1093/2010 (fir-rigward tal-Artikoli 10, 11, 13, 14, 15, 16, 17, 18, 21, 22, 23, Kapitolu 10 u l-Annessi I u II tiegħu).
-
-U GĦALL-AFFARIJIET TAL-KONSUMATUR [KAP. 510. 51
 
 IR-RABA’ SKEDA Emendata:
 
@@ -1676,10 +1474,6 @@ Direttorat għall-Infurzar li jiffoka fuq infurzar pubbliku billi jinvestiga pra
 \1. Direttorat għall-Affarijiet Regolatorji bir-responsabbiltà tat-trasposizzjoni u l-implimentazzjoni ta’ liġijiet fil-qasam tal-moviment ħieles tal-prodotti.
 
 \2. Direttorat għas-Sorveljanza tas-Suq bir-responsabbiltà li jiżgura illi prodotti li jħarsu r-regolamenti biss ikunu disponibbli fuq is-suq.
-
-*52*
-
-[KAP. 510. U GĦALL-AFFARIJIET TAL-KONSUMATUR
 
 Istitut dwar l-iStandards u Metroloġija
 

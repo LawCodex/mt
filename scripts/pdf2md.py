@@ -26,7 +26,7 @@ WORD_RE = re.compile(r'<word xMin="([\d.]+)" yMin="([\d.]+)" xMax="([\d.]+)" yMa
 PAGE_RE = re.compile(r'<page width="([\d.]+)" height="([\d.]+)">(.*?)</page>', re.S)
 
 HDR_BRACKET = re.compile(r'\[\s*(CAP|KAP|S\s*\.\s*L|L\s*\.\s*S|SL|LS)\b|\[\s*(CAP|KAP)\.', re.I)
-TOC_START = re.compile(r'^(ARRANGEMENT\b|ARRANĠAMENT\b|TAQSIM TA|TABLE OF CONTENTS|WERREJ\b|INDIĊI\b|INDEX\b)', re.I)
+TOC_START = re.compile(r'^(ARRANGEMENT\b|Arrangement of\b|ARRANĠAMENT\b|Arranġament\b|TAQSIM TA|Taqsim ta|TABLE OF CONTENTS|Table of Contents|WERREJ\b|Werrej\b|INDIĊI\b|INDEX\b)(?!.{60})')
 
 KEYWORDS = [
     ("schedule", re.compile(r'^((FIRST|SECOND|THIRD|FOURTH|FIFTH|SIXTH|SEVENTH|EIGHTH|NINTH|TENTH|ELEVENTH|TWELFTH|[A-Z]+TH)\s+)?SCHEDULE\b|^SCHEDULE\b|^(L-|IS-|IT-|ID-|IR-|IN-|IĊ-|IX-|IŻ-|IL-)?(EWWEL|TIENI|TIELET|RABA|ĦAMES|SITT|SEBA|TMIEN|DISA|GĦAXAR)?\s*SKEDA\b|^SKEDA\b|^(ANNEX|ANNESS|APPENDIX|APPENDIĊI)\b', re.I)),
@@ -118,7 +118,11 @@ def strip_headers(pages):
     multi = len(pages) >= 2
     for p in pages:
         band = p['band']
-        has_bracket = any(HDR_BRACKET.search(l['t']) for l in band)
+        brk = [l for l in p['lines'] if l['y0'] < p['h'] * 0.2 and HDR_BRACKET.search(l['t'])]
+        if brk:
+            cut = max(l['y1'] for l in brk) + 1.5
+            band = band + [l for l in p['lines'] if l['y0'] < cut and l not in band]
+        has_bracket = bool(brk) or any(HDR_BRACKET.search(l['t']) for l in band)
         drop = set()
         for l in band:
             n = _norm(l['t'])

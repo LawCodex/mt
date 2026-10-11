@@ -327,57 +327,43 @@ such powers being exercisable notwithstanding any contrary provisions of the tru
 
 (e) notwithstanding any other applicable law, the trustee may meet a valid claim being made against the trust property, whether voluntarily or as a result of a court direction, order or judgement, by a payment of value in money and shall not be obliged to return property settled in trust in kind;
 
-(f) any person who succeeds in reducing the property under trusts or obtains a court order to invalidate a trust in part or who enjoys the benefits of an
+(f) any person who succeeds in reducing the property under trusts or obtains a court order to invalidate a trust in part or who enjoys the benefits of an arrangement with the trustee as provided in paragraph (c)(i), shall forfeit the benefits under the trusts, unless the terms of the trust expressly state otherwise or the trustee considers it unreasonable in the circumstances and obtains the consent of the Court to maintain in force trusts in favour of such person subject to such conditions as the Court may consider appropriate;
 
-arrangement with the trustee as provided in paragraph  
-(c)(i), shall forfeit the benefits under the trusts, unless  
-the terms of the trust expressly state otherwise or the  
-trustee considers it unreasonable in the circumstances  
-and obtains the consent of the Court to maintain in  
-force trusts in favour of such person subject to such  
-conditions as the Court may consider appropriate;  
-(g) in any event and notwithstanding any provision of law,  
-a trustee shall not be subject to an obligation to pay or  
-return more than the trust property held by him under  
-trust, after deducting any fees and costs, and he shall  
-not be subject to any obligation to account for any  
-distributions made by him in good faith prior to having  
-written notice of any claim.  
-Creation of trust.  7. (1) Within the meaning of article 3, a trust may come into  
-Amended by:  
-existence in any manner.  
-XX. 1994.4.  
-Substituted by:  
-(2) Without prejudice to the generality of subarticle (1), a trust  
-XIII. 2004.8.  
-may come into existence unilaterally or otherwise by oral  
-declaration, or by an instrument in writing including by a will, by  
-operation of law or by a judicial decision:  
-Provided that where assets are held, acquired or received by  
-a person for another on the basis of oral arrangements of a fiduciary  
-nature, express or implied, there shall be presumed to be a mandate  
-Cap. 16.  regulated by Title XVIII of Book Second of the Civil Code or a  
-deposit regulated by Title XIX of Book Second of the Civil Code,  
-as the case may be, unless there is evidence of an intention to create  
-an oral trust.  
-(3) A unilateral declaration of trust is a declaration in writing  
-made by a trustee stating that it is the trustee of a trust, containing  
-all the terms of the trust as well as the names or the information  
-enabling the identification of all the beneficiaries.  
-(4)  A unit trust shall be created by a written instrument.  
-Jurisdiction of the  8.  (1)  The Courts of Malta shall have jurisdiction where -  
-Maltese courts.  
-Substituted by:  (a) the trust is a Maltese trust; or  
-XX. 1994.4;  
-XIII. 2004.9.  (b) the trustee is resident in Malta or is a trustee  
-authorised by the Authority, or is otherwise constituted  
-in terms of Maltese law; or  
-(c) any trust property is situated in Malta; or  
-(d) administration of any trust property is carried on in  
-Malta.  
-Cap. 12.  (2)  Notwithstanding the provisions of the Code of Organization
+(g) in any event and notwithstanding any provision of law, a trustee shall not be subject to an obligation to pay or return more than the trust property held by him under trust, after deducting any fees and costs, and he shall not be subject to any obligation to account for any distributions made by him in good faith prior to having written notice of any claim.
 
-and Civil Procedure, when the trust instrument contains a provision granting jurisdiction to the courts of the country the law of which expressly governs the trust, the Courts in Malta shall, on demand of any party to the proceedings, provided it is made in limine litis, stay proceedings which may be instituted in Malta in favour of the chosen forum:
+### 7. Creation of trust.
+
+*Amended by: XX. 1994.4.*
+
+(1) Within the meaning of article 3, a trust may come into existence in any manner.
+
+*Substituted by: XIII. 2004.8.*
+
+(2) Without prejudice to the generality of subarticle (1), a trust may come into existence unilaterally or otherwise by oral declaration, or by an instrument in writing including by a will, by operation of law or by a judicial decision:
+
+Provided that where assets are held, acquired or received by a person for another on the basis of oral arrangements of a fiduciary nature, express or implied, there shall be presumed to be a mandate regulated by Title XVIII of Book Second of the Civil Code or a deposit regulated by Title XIX of Book Second of the Civil Code, as the case may be, unless there is evidence of an intention to create an oral trust.
+
+*Cap. 16.*
+
+(3) A unilateral declaration of trust is a declaration in writing made by a trustee stating that it is the trustee of a trust, containing all the terms of the trust as well as the names or the information enabling the identification of all the beneficiaries.
+
+(4) A unit trust shall be created by a written instrument.
+
+### 8. Jurisdiction of the Maltese courts.
+
+*Substituted by: XX. 1994.4; XIII. 2004.9.*
+
+(1) The Courts of Malta shall have jurisdiction where - (a) the trust is a Maltese trust; or
+
+(b) the trustee is resident in Malta or is a trustee authorised by the Authority, or is otherwise constituted in terms of Maltese law; or
+
+(c) any trust property is situated in Malta; or
+
+(d) administration of any trust property is carried on in Malta.
+
+*Cap. 12.*
+
+(2) Notwithstanding the provisions of the Code of Organization and Civil Procedure, when the trust instrument contains a provision granting jurisdiction to the courts of the country the law of which expressly governs the trust, the Courts in Malta shall, on demand of any party to the proceedings, provided it is made in limine litis, stay proceedings which may be instituted in Malta in favour of the chosen forum:
 
 Provided that the court may in any case issue such interim orders for the protection of any interested party as it considers appropriate, and provided further that the court shall enjoy a discretion on whether to stay the proceedings if the trust property consists of immovable property in Malta or the settlor or the beneficiaries are domiciled and resident in Malta.
 

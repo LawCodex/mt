@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Att dwar it-Twaqqif tal-Kariga ta' Kummissarju tat-Taxxi Interni (Cap. 121)
 
-TWAQQIF TAL-KARIGA TA’
-
-KUMMISSARJU TAT-TAXXI INTERNI [KAP. 121.
-
 **KAPITOLU 121**
 
 **ATT DWAR IT-TWAQQIF TAL-KARIGA TA’**

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ix-Xoljiment tal-Bank ta' Tifdil tal-Gvern ta' Malta (Cap. 307)
 
-*1*
-
-TAL-GVERN TA’ MALTA [KAP. 307.
-
 **KAPITOLU 307**
 
 ATT DWAR IX-XOLJIMENT TAL-BANK TA’ TIFDIL TAL-GVERN TA’ MALTA

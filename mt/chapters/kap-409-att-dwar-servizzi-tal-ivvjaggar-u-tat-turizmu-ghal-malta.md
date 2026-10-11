@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Servizzi tal-Ivvjaġġar u tat-Turiżmu għal Malta (Cap. 409)
 
-TAT-TURIŻMU GĦAL MALTA [KAP. 409. 1
-
 **KAPITOLU 409**
 
 **ATT DWAR SERVIZZI TAL-IVVJAĠĠAR U**
@@ -88,11 +86,9 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra -
 
 "alloġġjant" tfisser persuna li tiġi provduta b’alloġġ ġewwa lukanda, guest house, hostel, post għall-vaganzi, post ta’ alloġġ jew dar li tintuża biex jiġi provdut alloġġ lit-turisti, jew li jkollha dan l-alloġġ provdut f’xi wieħed minn dawk il-postijiet;
 
-"attività turistika" tfisser lukanda, guest house, hostel, post għall-vaganzi, dar li tintuża biex tipprovdi alloġġ lit-turisti, stabbiliment li jipprovdi ikel, aġenzija tal-ivvjaġġar, destination management company, aġenzija ta’ turiżmu li ġej minn barra, operatur ta’ ġiti organizzati, gwida tat-turisti, u servizzi oħra ta’ TAT-TURIŻMU GĦAL MALTA [KAP. 409. turiżmu, sew jekk mogħti liċenza sew jekk le:
+"attività turistika" tfisser lukanda, guest house, hostel, post għall-vaganzi, dar li tintuża biex tipprovdi alloġġ lit-turisti, stabbiliment li jipprovdi ikel, aġenzija tal-ivvjaġġar, destination management company, aġenzija ta’ turiżmu li ġej minn barra, operatur ta’ ġiti organizzati, gwida tat-turisti, u servizzi oħra ta’ turiżmu, sew jekk mogħti liċenza sew jekk le:
 
 Iżda, għall-finijiet tal-artikolu 48(2), il-frażi "attività turistika" ma tinkludix dar li tintuża biex jiġi provdut alloġġ lit-turisti meta dik id-dar tkun tikkostitwixxi r-residenza permanenti tal-persuna li tipprovdi dak l-alloġġ;
-
-*3*
 
 "avviż ta’ infurzar" għandha t-tifsir mogħti lilha bl-artikolu 41;
 
@@ -144,9 +140,7 @@ Awtorità;
 
 "rekwiżiti" tfisser kull obbligazzjoni, projbizzjoni, kundizzjoni jew limitazzjoni, provdut fil-liġijiet jew regolamenti jew fid-disposizzjonijiet amministrattivi, jew prattiċi amministrattivi tal- Awtorità;
 
-*5*
-
-TAT-TURIŻMU GĦAL MALTA [KAP. 409. "sena finanzjarja" tfisser perijodu ta’ tnax-il xahar li jtemm fil- 31 ta’ Diċembru ta’ sena li tkun:
+"sena finanzjarja" tfisser perijodu ta’ tnax-il xahar li jtemm fil- 31 ta’ Diċembru ta’ sena li tkun:
 
 Iżda l-ewwel sena finanzjarja tal-Awtorità għandha tibda mad-dħul fis-seħħ ta’ dan l-Att u tintemm fil-31 ta’ Diċembru tas-sena ta’ wara;
 
@@ -208,9 +202,7 @@ Iżda:
 
 (2) Ir-rappreżentanza tal-Awtorità tkun vestita fil-president:
 
-*7*
-
-TAT-TURIŻMU GĦAL MALTA [KAP. 409. Iżda l-Awtorità tista’ taħtar wieħed jew aktar mill-membri tagħha, jew wieħed jew aktar mill-uffiċjali tagħha, biex jidhru f’isimha f’xi proċedimenti ġudizzjarji jew f’xi att, kuntratt, kitba jew dokument ieħor ikun xi jkun:
+Iżda l-Awtorità tista’ taħtar wieħed jew aktar mill-membri tagħha, jew wieħed jew aktar mill-uffiċjali tagħha, biex jidhru f’isimha f’xi proċedimenti ġudizzjarji jew f’xi att, kuntratt, kitba jew dokument ieħor ikun xi jkun:
 
 Iżda wkoll fejn xi wħud mis-setgħat tal-Awtorità huma delegati skont is-subartikolu (3), ir-rappreżentanza tal-Awtorità tkun vestita ukoll f’dak l-uffiċjal eżekuttiv jew uffiċjali eżekuttivi hekk delegat jew delegati safejn ikun neċessarju biex jaqdu tajjeb is-setgħat lilhom mogħtija.
 
@@ -268,15 +260,13 @@ Iżda għall-għanijiet tal-imsemmija Ordinanza dwar il- Pensjonijiet, l-emolume
 
 *Kap. 93.*
 
-(6) L-Awtorità għandha f’Jannar ta’ kull sena tħallas lill-Gvern id-differenza bejn in-nefqa ta’ pensjonijiet u gratifikazzjonijiet li TAT-TURIŻMU GĦAL MALTA [KAP. 409. jitħallsu fil-waqt tal-irtir mill-Awtorità u n-nefqa tal-pensjoni jew gratifikazzjoni skont il-każ, komputata fil-waqt tat-terminazzjoni tas-servizz tal-uffiċjal mal-Gvern biex jiġi impjegat mal-Awtorità.
+(6) L-Awtorità għandha f’Jannar ta’ kull sena tħallas lill-Gvern id-differenza bejn in-nefqa ta’ pensjonijiet u gratifikazzjonijiet li jitħallsu fil-waqt tal-irtir mill-Awtorità u n-nefqa tal-pensjoni jew gratifikazzjoni skont il-każ, komputata fil-waqt tat-terminazzjoni tas-servizz tal-uffiċjal mal-Gvern biex jiġi impjegat mal-Awtorità.
 
 #### 7. Disposizzjonijiet finanzjarji.
 
 *Emendat: A.L. 426 tal-2007.*
 
 (1) L-Awtorità għandha tingħata b’kapital inizjali l-ammont ta’ ħames mija u tnejn u tmenin elf u tliet mija u tlieta u erbgħin euro u ħamsa u tletin ċenteżmu (582,343.35) li jiġi mħallas mill-Gvern mill-Fond Konsolidat, mingħajr approprjazzjoni oħra barra minn dan l-Att, b’warrant taħt il-firma tal-Ministru responsabbli għall-finanzi li jawtorizza lill-Accountant General biex jagħmel il-ħlas.
-
-*9*
 
 (2) Wara dan il-ħlas, l-Awtorità għandha titħallas mill-Fond Konsolidat dawk is-somom li l-Kamra tad-Deputati tista’ tapprova.
 
@@ -326,15 +316,13 @@ Iżda l-Ministru responsabbli għall-Finanzi jista’ jeħtieġ li l-kotba u dok
 
 (1) L-Awtorità għandha, mhux aktar tard minn tnax-il ġimgħa wara t-tmiem ta’ kull sena finanzjarja, tagħmel u tibgħat lill-Ministru rapport tal-ħidma tagħha matul dik is-sena, li jkun fih dik l-informazzjoni dwar il-funzjonijiet u l-proċeduri tal-Awtorità hekk kif il-Ministru jista’ minn żmien għal żmien jeħtieġ flimkien mal-prospett tal-kontijiet verifikati kif provdut fl-artikolu 8.
 
-(2) Il-Ministru għandu jara li kopja ta’ kull rapport bħal dak TAT-TURIŻMU GĦAL MALTA [KAP. 409. titqiegħed fuq il-Mejda tal-Kamra tad-Deputati fi żmien ġimgħatejn, jew, jekk f’xi żmien il-Kamra tad-Deputati ma tkunx qed tiltaqa’ f’sessjoni, fi żmien ġimgħatejn mill-bidu tal-ewwel sessjoni li tiġi minnufih wara.
+(2) Il-Ministru għandu jara li kopja ta’ kull rapport bħal dak titqiegħed fuq il-Mejda tal-Kamra tad-Deputati fi żmien ġimgħatejn, jew, jekk f’xi żmien il-Kamra tad-Deputati ma tkunx qed tiltaqa’ f’sessjoni, fi żmien ġimgħatejn mill-bidu tal-ewwel sessjoni li tiġi minnufih wara.
 
 #### 10. Kuntratti ta’ provvista jew xogħlijiet.
 
 *Emendat: A.L. 426 tal-2007.*
 
 Ħlief bl-approvazzjoni tal-Ministru, l-Awtorità m’għandhiex tagħmel kuntratt għall-provvista ta’ oġġetti jew materjal jew għall-eżekuzzjoni ta’ xogħlijiet jew għall-għoti ta’ servizzi, lil jew favur l-Awtorità, li jkun stmat mill-Awtorità bħala li jinvolvi spiża li teċċedi mitejn u tnejn u tletin elf u disa’ mija u sebgħa u tletin euro u erbgħa u tletin ċenteżmu (232,937.34) jew kull ammont ieħor li l-Ministru jista’ minn żmien għal żmien jippreskrivi, ħlief wara li jkun ġie pubblikat avviż dwar l-intenzjoni tal-Awtorità li tagħmel dak il-kuntratt u jkunu nħarġu offerti kompetittivi.
-
-*11*
 
 #### 11. Eżenzjoni minn taxxa.
 
@@ -394,15 +382,13 @@ xierqa u dik is-setgħa tista’, f’kull waqt, tittieħed lura, għal kollox j
 
 (5) Il-membri tal-Bord għandhom jibqgħu fil-kariga għal perijodu ta’ tliet snin, u jkunu jistgħu jerġgħu jinħatru f’dik il-kariga.
 
-(6) Membru tal-Bord jista’ jitneħħa mill-kariga mill-Prim TAT-TURIŻMU GĦAL MALTA [KAP. 409. Ministru minħabba f’negliġenza gravi, konflitt ta’ interessi, nuqqas ta’ kompetenza, jew aġir jew ommissjonijiet li ma jixirqux lil membru tal-Bord.
+(6) Membru tal-Bord jista’ jitneħħa mill-kariga mill-Prim Ministru minħabba f’negliġenza gravi, konflitt ta’ interessi, nuqqas ta’ kompetenza, jew aġir jew ommissjonijiet li ma jixirqux lil membru tal-Bord.
 
 #### 14. Funzjonijiet u proċedura tal-Bord tal-Appelli dwar it- Turiżmu.
 
 *Emendat: VI. 2001.32.*
 
 (1) Il-Bord ikun kompetenti -
-
-*13*
 
 (a) li jisma’ u jiddeċiedi appelli magħmula minn xi persuna li tħoss ruħha aggravata b’deċiżjoni tal- Awtorità li tiċhad milli tagħti jew iġġedded, jew li tirrevoka, jew tissospendi, liċenza; jew li timponi kondizzjonijiet, limitazzjonijiet jew esklużjonijiet f’liċenza; u
 
@@ -462,11 +448,9 @@ L-ismijiet tal-membri kollha tal-Awtorità, u ta’ kull kumitat, bord, kummissj
 
 (d) kull deċiżjoni tal-Awtorità wara xi analiżi tal-operat tad-detentur tal-liċenza, jew
 
-(e) xi ħaġa oħra partikolari fejn membru tal-Awtorità jew TAT-TURIŻMU GĦAL MALTA [KAP. 409. ta’ dak il-korp ieħor, għandu b’xi mod, direttament jew indirettament, interess,
+(e) xi ħaġa oħra partikolari fejn membru tal-Awtorità jew ta’ dak il-korp ieħor, għandu b’xi mod, direttament jew indirettament, interess,
 
 f ’dan il-każ, kull membru tal-Awtorità preżenti fil-laqgħa li, f’kapaċità li mhijiex il-kapaċità tiegħu bħala tali membru, għandu interess materjali fil-kwistjoni għandu -
-
-*15*
 
 (i) fil-laqgħa, jiżvela lill-Awtorità l-fatt u n-natura ta’ dan l-interess,
 
@@ -524,9 +508,7 @@ Iżda t-tiġdid tal-liċenza għandu jkun suġġett biss għal kisba kontinwa ta
 
 (5) Minkejja d-disposizzjonijiet tas-subartikolu (4), liċenza tista’ f’ċirkostanzi speċjali tingħata fuq bażi temporanja għal perijodu ta’ mhux aktar minn disgħin ġurnata, liema perijodu jista’, jekk tiġi murija raġuni valida, jiġi mġedded għal perijodu ieħor jew perijodi oħra itwal li b’kollox ma jkunux ta’ iżjed minn disgħin ġurnata.
 
-*17*
-
-TAT-TURIŻMU GĦAL MALTA [KAP. 409. (6) Kull liċenza li tkun ġiet revokata jew li ma tkunx ġiet imġedda għandha tingħata lura lill-Awtorità.
+(6) Kull liċenza li tkun ġiet revokata jew li ma tkunx ġiet imġedda għandha tingħata lura lill-Awtorità.
 
 (7) Liċenza tista’ tiġi mogħtija jew imġedda kif suġġetta għal tali rekwiżiti, kondizzjonijiet, limitazzjonijiet u esklużjonijiet kif l- Awtorità tista’ tikkonsidra neċessarju, xierqa, proporzjonali skont dan l-Att.
 
@@ -574,13 +556,11 @@ Iżda l-Awtorità ma tkunx obbligata li toħroġ klassifika ġdida qabel ma tgħ
 
 #### 22. Reklami u wiri.
 
-Ħadd ma jista’ jagħmel reklam jew juri lukanda, guest house, hostel, postijiet għall-vaganzi jew stabbiliment li jipprovdi ikel, bħala li jkunu ta’ kategorija ogħla minn dik li tagħhom TAT-TURIŻMU GĦAL MALTA [KAP. 409. attwalment ikunu skont il-klassifikazzjoni tagħhom, jew bħala li joffru faċilitajiet jew servizzi partikolari li fil-fatt ma jkunux jipprovdu fiż-żmien ta’ dak ir-reklam.
+Ħadd ma jista’ jagħmel reklam jew juri lukanda, guest house, hostel, postijiet għall-vaganzi jew stabbiliment li jipprovdi ikel, bħala li jkunu ta’ kategorija ogħla minn dik li tagħhom attwalment ikunu skont il-klassifikazzjoni tagħhom, jew bħala li joffru faċilitajiet jew servizzi partikolari li fil-fatt ma jkunux jipprovdu fiż-żmien ta’ dak ir-reklam.
 
 #### 23. Liċenza u klassifikazzjoni flimkien.
 
 Meta lukanda, guest house jew postijiet għall-vaganzi iħaddnu wieħed jew aktar stabbilimenti li jipprovdu ikel, li kollha kemm huma jkunu taħt l-istess direzzjoni, dawn jistgħu jingħataw liċenza waħda u klassifikazzjoni waħda:
-
-*19*
 
 Iżda l-Awtorità tista’ tagħti lill-istabbiliment jew stabbilimenti li jipprovdu ikel eżistenti f’dik il-lukanda, guest house, jew postijiet għall-vaganzi, klassifikazzjoni jew klassifikazzjonijiet differenti jekk il-livell tas-servizz li hu provdut ikun hekk jeħtieġ jew jitlob.
 
@@ -650,9 +630,7 @@ Aġent tat-turiżmu li ġej minn barra jew aġent tal-ivvjaġġar jew destinatio
 
 (1) Liċenza biex jitmexxa n-negozju ta’ aġenzija tat-turiżmu li ġej minn barra jew aġenzija tal-ivvjaġġar jew destination management company tista’, bil-kunsens bil-miktub tal-Awtorità miksub minn qabel, tiġi trasferita fl-isem ta’ kull persuna li tissodisfa d-disposizzjonijiet tal-artikolu 28.
 
-*21*
-
-TAT-TURIŻMU GĦAL MALTA [KAP. 409. (2) Aġent tat-turiżmu li ġej minn barra u aġent tal-ivvjaġġar u destination management company għandhom juru l-liċenza tagħhom f’post u b’mod prominenti fil-post tan-negozju tagħhom. Jekk aġent tat-turiżmu li ġej minn barra jew aġent tal-ivvjaġġar jew destination management company ikunu jaħdmu minn iktar minn post wieħed ta’ negozju, il-liċenza tagħhom għandha tiġi murija fil-post prinċipali tan-negozju tagħhom u kopja jew kopji tal-liċenza tagħhom, maħruġa u hekk ċertifikata mill-Ministru mal-ħlas tad-dritt preskritt, għandha bl-istess mod tiġi murija f’kull post ieħor tan-negozju li jkollhom barra mill-post prinċipali tan-negozju tagħhom.
+(2) Aġent tat-turiżmu li ġej minn barra u aġent tal-ivvjaġġar u destination management company għandhom juru l-liċenza tagħhom f’post u b’mod prominenti fil-post tan-negozju tagħhom. Jekk aġent tat-turiżmu li ġej minn barra jew aġent tal-ivvjaġġar jew destination management company ikunu jaħdmu minn iktar minn post wieħed ta’ negozju, il-liċenza tagħhom għandha tiġi murija fil-post prinċipali tan-negozju tagħhom u kopja jew kopji tal-liċenza tagħhom, maħruġa u hekk ċertifikata mill-Ministru mal-ħlas tad-dritt preskritt, għandha bl-istess mod tiġi murija f’kull post ieħor tan-negozju li jkollhom barra mill-post prinċipali tan-negozju tagħhom.
 
 #### 31. Assigurazzjoni u fond għall-insolvenza.
 
@@ -706,11 +684,9 @@ Iżda fejn l-applikant hija persuna ġuridika, r-rekwiżiti msemmija fil-paragra
 
 Operatur ta’ ġiti organizzati m’għandu jipprovdi ebda servizz -
 
-(a) taħt isem li fil-fehma tal-Awtorità ma jkunx wieħed TAT-TURIŻMU GĦAL MALTA [KAP. 409. mixtieq jew xieraq jew ikun wieħed qarrieqi, u
+(a) taħt isem li fil-fehma tal-Awtorità ma jkunx wieħed mixtieq jew xieraq jew ikun wieħed qarrieqi, u
 
 (b) kemm-il darba ma jiġux provduti s-servizzi ta’ gwida tat-turisti għal xi ġita bħal dik.
-
-*23*
 
 #### 35. Trasferiment ta’ liċenza.
 
@@ -776,11 +752,9 @@ L-Awtorità għandha tissorvelja u tikkontrolla kull attività turistika biex ti
 
 (4) Kull persuna li tħossha aggravata b’avviż ta’ infurzar lilha notifikat tista’, fi żmien ħmistax-il ġurnata min-notifika tal-avviż, tappella quddiem il-Bord; u l-Bord -
 
-(a) jekk ikun sodisfatt li liċenza kienet fis-seħħ taħt dan l- Att għal dik l-attività turistika li għaliha jirreferi l-avviż ta’ infurzar, jew li ma kienet meħtieġa ebda liċenza għaliha, skont il-każ, jew li l-kondizzjonijiet li għalihom dik il-liċenza kienet suġġetta ġew imħarsa, u li l-attività turistika li għaliha l-avviż ta’ infurzar TAT-TURIŻMU GĦAL MALTA [KAP. 409. jirreferi kienet qiegħda titmexxa skont id-disposizzjonijiet u kull regolament ta’ dan l-Att, għandu jħassar l-avviż ta’ infurzar appellat jew dik il-parti minnu kif il-Bord jidhirlu;
+(a) jekk ikun sodisfatt li liċenza kienet fis-seħħ taħt dan l- Att għal dik l-attività turistika li għaliha jirreferi l-avviż ta’ infurzar, jew li ma kienet meħtieġa ebda liċenza għaliha, skont il-każ, jew li l-kondizzjonijiet li għalihom dik il-liċenza kienet suġġetta ġew imħarsa, u li l-attività turistika li għaliha l-avviż ta’ infurzar jirreferi kienet qiegħda titmexxa skont id-disposizzjonijiet u kull regolament ta’ dan l-Att, għandu jħassar l-avviż ta’ infurzar appellat jew dik il-parti minnu kif il-Bord jidhirlu;
 
 (b) f’kull każ ieħor, għandu jiċħad l-appell.
-
-*25*
 
 (5) Appell jissospendi l-effett tal-avviż appellat ħlief meta dan ikun ipprojbixxa u/jew waqqaf attività turistika. Jekk l-appell jiġi milqugħ, l-avviż ma jkollux aktar effett.
 
@@ -832,13 +806,11 @@ jew jipprova jżomm, jostakola, jimmolesta jew ifixkel, xi uffiċjal, impjegat j
 
 Iżda, minkejja d-disposizzjonijiet tal-artikolu 376(1)(b) tal- Kodiċi Kriminali, il-qorti għandha, fuq talba tal-prosekuzzjoni jew tal-akkużat, tniżżel ix-xiehda mogħtija bil-mod provdut jew fl-artikolu 390(6) tal-imsemmi Kodiċi jew f’xi liġi oħra.
 
-(5) Fi prosekuzzjoni kontra persuna akkużata li tkun żammet jew mexxiet lukanda, guest house, hostel, jew postijiet għall-vaganzi mingħajr liċenza kif provdut fl-artikolu 18(1), jew li tkun TAT-TURIŻMU GĦAL MALTA [KAP. 409. akkużata li pprovdiet alloġġ lit-turisti, li ma jkunux ħbieb jew qraba in bona fide li jiġu provduti b’dak l-alloġġ mingħajr ebda ħlas, mingħajr liċenza kif provdut fl-artikolu 18(2), ikun biżżejjed għall-prosekuzzjoni li tipprova li l-akkużat kellu l-kontroll tal-fond li dwaru jkun akkużat; u li meta saret spezzjoni f’dak il-fond, nstabu fih xi turist; li f’dak il-fond kien hemm faċilitajiet għall-irqad; li f’dak il-fond nstabu oġġetti personali ta’ dak it-turist; u li l-fond ma kellux liċenza, u ma jkunx meħtieġ li jinġiebu bħala xhieda dak it-turist jew dawk it-turisti jew dawk l-oġġetti personali bi prova, u l-qorti għandha tqis dik l-akkuża bħala waħda ppruvata kemm-il darba l-akkużat ma jġibx prova li dak it-turist jew dawk it-turisti kienu debitament alloġġati ġewwa fond liċenzjat jew li dak it-turist jew dawk it-turisti kienu ħbieb jew qraba in bona fide.
+(5) Fi prosekuzzjoni kontra persuna akkużata li tkun żammet jew mexxiet lukanda, guest house, hostel, jew postijiet għall-vaganzi mingħajr liċenza kif provdut fl-artikolu 18(1), jew li tkun akkużata li pprovdiet alloġġ lit-turisti, li ma jkunux ħbieb jew qraba in bona fide li jiġu provduti b’dak l-alloġġ mingħajr ebda ħlas, mingħajr liċenza kif provdut fl-artikolu 18(2), ikun biżżejjed għall-prosekuzzjoni li tipprova li l-akkużat kellu l-kontroll tal-fond li dwaru jkun akkużat; u li meta saret spezzjoni f’dak il-fond, nstabu fih xi turist; li f’dak il-fond kien hemm faċilitajiet għall-irqad; li f’dak il-fond nstabu oġġetti personali ta’ dak it-turist; u li l-fond ma kellux liċenza, u ma jkunx meħtieġ li jinġiebu bħala xhieda dak it-turist jew dawk it-turisti jew dawk l-oġġetti personali bi prova, u l-qorti għandha tqis dik l-akkuża bħala waħda ppruvata kemm-il darba l-akkużat ma jġibx prova li dak it-turist jew dawk it-turisti kienu debitament alloġġati ġewwa fond liċenzjat jew li dak it-turist jew dawk it-turisti kienu ħbieb jew qraba in bona fide.
 
 \*Fis-seħħ għal dak li jirreferi biss għall-artikolu 31(1).
 
 (6) Fi prosekuzzjoni kontra persuna li tiġi akkużata bħala kompliċi f ’xi reat wieħed jew aktar minn dawk elenkati fis-subartikolu (5), ikun biżżejjed għall-prosekuzzjoni li tipprova li l-fond li dwaru tkun qiegħda ssir l-akkuża ma kienx liċenzjat kif hemm provdut fl-artikolu 18(1) u (2), skont il-każ; li, meta saret l-ispezzjon f’dak il-fond, kien nstab fih xi turist; li f’dak il-fond kien hemm faċilitajiet għall-irqad; li f ’dak il-fond nstabu oġġetti personali ta’ dak it-turist; u li l-akkomodazzjoni fil-fond tkun inkisbet minn jew għal dik il-persuna permezz tal-intervent, isir kif isir, tal-imputat, u l-prosekuzzjoni ma jkollhiex il-ħtieġa li ġġib bħala xhud lil dak it-turist jew bħala prova dawk l-oġġetti personali, u l-qorti għandha tqis dik l-akkuża bħala ppruvata kemm-il darba l-imputat ma jġibx prova li qabel ma daħal biex jikseb dik l-akkomodazzjoni, għamel stħarrig diliġenti dwar il-liċenza tal-fond jew li, fiċ-ċirkostanzi, huwa ma setax b’mod raġonevoli jkun jaf li l-fond ma kellux liċenza.
-
-*27*
 
 #### 44. Kopji ċertifikati ta’ ċerti dokumenti.
 
@@ -888,9 +860,7 @@ Mingħajr ħsara għad-disposizzjonijiet tal-Att dwar l- Interpretazzjoni, kull 
 
 (b) jeħtieġ li xi kategorija jew klassi ta’ nies impjegati kemm jekk impjegati jew self-employed, f’xi ħidma tat-turiżmu għandu jkollhom dawk il-liċenzi jew ikollhom dawk iċ-ċertifikati ta’ kompetenza jew kwalifiki kif jiġi preskritt;
 
-*29*
-
-TAT-TURIŻMU GĦAL MALTA [KAP. 409. (ċ) jirregola kuntratti ta’ time-share u l-promozzjoni ta’, u servizzi provduti ġewwa fondi ta’ time-sharing, inklużi mingħajr preġuduzzju għall-ġeneralità ta’ dak hawn aktar qabel imsemmi l-informazzjoni li għandha tingħata lil xerrejja prospettivi u l-ilsien li bih għandha tingħata dik l-informazzjoni, il-forma li fiha għandu jiġi abbozzat dak il-kuntratt, l-għemil ta’ dawk il-perjodi ta’ transizzjoni li matulhom u dawk iċ-ċirkostanzi l-oħra li fihom ix-xerrej jista’ jirtira mill-kuntratt, kif ukoll il-projbizzjoni ta’ xi pagamenti jew ta’ dawk il-pagamenti li jistgħu jiġu stabbiliti qabel ma jitlesta kull fond li għalih jirreferixxi l-kuntratt jew il-kuntratti, kif ukoll l-impożizzjoni ta’ obbligazzjoni għall-ħlas lura ta’ dawk id-depożiti li jistgħu jiġu preskritti jekk issir rexissjoni tal-kuntratt jew ix-xerrej jirtira minnu.
+(ċ) jirregola kuntratti ta’ time-share u l-promozzjoni ta’, u servizzi provduti ġewwa fondi ta’ time-sharing, inklużi mingħajr preġuduzzju għall-ġeneralità ta’ dak hawn aktar qabel imsemmi l-informazzjoni li għandha tingħata lil xerrejja prospettivi u l-ilsien li bih għandha tingħata dik l-informazzjoni, il-forma li fiha għandu jiġi abbozzat dak il-kuntratt, l-għemil ta’ dawk il-perjodi ta’ transizzjoni li matulhom u dawk iċ-ċirkostanzi l-oħra li fihom ix-xerrej jista’ jirtira mill-kuntratt, kif ukoll il-projbizzjoni ta’ xi pagamenti jew ta’ dawk il-pagamenti li jistgħu jiġu stabbiliti qabel ma jitlesta kull fond li għalih jirreferixxi l-kuntratt jew il-kuntratti, kif ukoll l-impożizzjoni ta’ obbligazzjoni għall-ħlas lura ta’ dawk id-depożiti li jistgħu jiġu preskritti jekk issir rexissjoni tal-kuntratt jew ix-xerrej jirtira minnu.
 
 Dawk ir-regolamenti jistgħu jipprovdu li l-kuntratt ta’ time-sharing għandu jieħu dik il-forma li tista’ tiġi preskritta minkejja kull provvediment ta’ xi liġi oħra li tgħid il-kuntrarju u li għandu jiġi abbozzat f’dak l-ilsien jew dawk l-ilsna li jistgħu jiġu preskritti. Dawk ir-regolamenti jistgħu wkoll jipprovdu li fil-każ ta’ nuqqas li wieħed jimxi skont xi wieħed mill-provvedimenti tiegħu skont kif jista’ jiġi preskritt, il-kuntratt ikun null. Dawk ir-regolamenti jistgħu wkoll jirregolaw faċilitajiet ta’ kreditu li jistgħu jiġu konċessi ma’ dawk il-kuntratti u l-effett li rexissjoni jew irtirar mill-kuntratt jista’ jkollhom fuq kull ftehim dwar kreditu bħal dak, u kull ħaġ‘oħra li jkollha x’taqsam mal-bejgħ ta’ time-share u ftehim ta’ time-share.;
 
@@ -930,11 +900,9 @@ possibbli, taddotta dawk ir-rakkomandazzjonijiet li tirċievi mingħand l-assoċ
 
 (b) billi jitħalla fil-post fejn soltu toqgħod, jew fejn l-aħħar kienet toqgħod, dik il-persuna jew, jekk dik il-persuna tkun tat indirizz għall-iskop ta’ notifika, f’dak l-indirizz; jew
 
-(ċ) billi jintbagħat b’ittra reġistrata indirizzata lil dik il-persuna fil-post ta’ abitazzjoni jew fl-indirizz għall-iskop ta’ notifika kif hawn aktar qabel imsemmi; jew (d) fil-każ ta’ persuna ġuridika jew għaqda oħra ta’ persuni, billi jingħata f’idejn uffiċjal jew impjegat tagħhom fl-uffiċċju reġistrat jew prinċipali, jew billi TAT-TURIŻMU GĦAL MALTA [KAP. 409. jintbagħat b’ittra reġistrata indirizzata lil dak il-korp f’dak l-uffiċċju; jew
+(ċ) billi jintbagħat b’ittra reġistrata indirizzata lil dik il-persuna fil-post ta’ abitazzjoni jew fl-indirizz għall-iskop ta’ notifika kif hawn aktar qabel imsemmi; jew (d) fil-każ ta’ persuna ġuridika jew għaqda oħra ta’ persuni, billi jingħata f’idejn uffiċjal jew impjegat tagħhom fl-uffiċċju reġistrat jew prinċipali, jew billi jintbagħat b’ittra reġistrata indirizzata lil dak il-korp f’dak l-uffiċċju; jew
 
 (e) f’kull każ li fih ma jkunx raġonevolment possibbli li ssir notifika b’xi wieħed mill-modi hawn imsemmija, sew lil kull waħda mill-persuni li lilhom għandha ssir in-notifika jew jingħata l-avviż, sew lil xi waħda jew aktar minnhom, billi d-dokument li għandu jiġi notifikat jew mogħti jitwaħħal f’post prominenti fil-fond li jkun jirreferi għalih u jibqa mwaħħal għal żmien mhux anqas minn sebat ijiem tax-xogħol u billi jiġi ppubblikat il-kontenut tiegħu fil-Gazzetta.
-
-*31*
 
 (2) Meta l-avviż jew dokument ieħor huwa meħtieġ jew awtorizzat li jiġi notifikat jew mogħti lil xi persuna li għandha xi interess f’attività turistika, u l-isem ta’ dik il-persuna ma jkunx jista’ jiġi aċċertat wara li jsir stħarriġ raġonevoli jew huwa meħtieġ jew awtorizzat li jiġi notifikat lil operatur ta’ attività turistika, l-avviż jitqies bħala li ġie notifikat jew mogħti kif imiss jekk jiġi notifikat jew mogħti f ’xi wieħed mill-modi msemmija fis-subartikolu (1) u indirizzat lill-persuna li għandha interess fl-attività turistika deskritta bħala "sid" jew "operatur", jew "sidien" jew "operaturi", skont il-ħtieġa tal-każ.
 
@@ -988,11 +956,9 @@ Il-President, jew aġent president li jkun qed jaġixxi floku, ikollhom vot ori�
 
 #### 5.
 
-Membru tal-Awtorità li għandu interess dirett jew indirett f’xi ħaġa li tiġi quddiem l-Awtorità biex tiġi kkunsidrata minnha TAT-TURIŻMU GĦAL MALTA [KAP. 409. għandu, hekk kif ikun sar jaf biċ-ċirkostanzi rilevanti, juri x-xorta tal-interess tiegħu. Dan għandu jitniżżel fil-minuti tal-laqgħa u l-membru -
+Membru tal-Awtorità li għandu interess dirett jew indirett f’xi ħaġa li tiġi quddiem l-Awtorità biex tiġi kkunsidrata minnha għandu, hekk kif ikun sar jaf biċ-ċirkostanzi rilevanti, juri x-xorta tal-interess tiegħu. Dan għandu jitniżżel fil-minuti tal-laqgħa u l-membru -
 
 (a) m’għandux jieħu sehem f’xi diskussjoni jew deċiżjoni tal-Awtorità dwar dik il-ħaġa; u
-
-*33*
 
 (b) m’għandux jingħadd għall-għan li jiġi stabbilit il-quorum għal dik id-diskussjoni jew deċiżjoni.
 

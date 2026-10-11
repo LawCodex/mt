@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Malta-USA Ship-Boarding Agreements (Ratification) Act (Cap. 493)
 
-*1*
-
-AGREEMENTS (RATIFICATION) [CAP. 493.
-
 **CHAPTER 493**
 
 **MALTA-USA SHIP-BOARDING**
@@ -56,8 +52,6 @@ The Agreements shall have force of law in Malta as from such date as the Prime M
 ## 5. Power to make regulations.
 
 The Prime Minister may make regulations for carrying out the provisions of this Act and for doing anything that may be required for the purpose of satisfying the obligations of Malta under the Agreements.
-
-2 [CAP. 493. AGREEMENTS (RATIFICATION)
 
 ## FIRST SCHEDULE
 
@@ -100,8 +94,6 @@ Guided by the Statement of Interdiction Principles for the Proliferation Securit
 Inspired by the efforts of the IMO to improve the effectiveness of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, done at Rome 10 March 1988;
 
 Reaffirming the importance of customary international law of the sea as reflected in the 1982 United Nations Convention on the Law of the Sea;
-
-AGREEMENTS (RATIFICATION) [CAP. 493. 3
 
 Committed to cooperation to stop the flow by sea of WMD, their delivery systems, and related materials to or from States or non-state actors of proliferation concern;
 
@@ -153,8 +145,6 @@ a. the United States, uniformed or otherwise clearly identifiable members of the
 
 b. Malta, uniformed or otherwise clearly identifiable members of the Armed Forces of Malta, the Malta Police Force and the Department of Customs, and other clearly identifiable officials duly authorized by the Government of Malta and notified to the Competent Authority of the United States.
 
-4 [CAP. 493. AGREEMENTS (RATIFICATION)
-
 ## 7.
 
 "Security Force vessels" means warships and other vessels of the Parties, or of third States as may be authorized in accordance with Articles 5 and 9 of this Agreement, on which Security Force Officials of either or both Parties may be embarked, clearly marked and identifiable as being on government non-commercial service and authorized to that effect, including any vessel and aircraft embarked on or supporting such vessels.
@@ -199,8 +189,6 @@ b. if nationality is confirmed:
 
 i. authorise the boarding and search of the suspect vessel, cargo, and persons found on board by Security Force Officials of the requesting Party; and
 
-AGREEMENTS (RATIFICATION) [CAP. 493. 5
-
 ii. if evidence of proliferation is found, authorize the Security Force Officials of the requesting Party to detain the vessel, as well as items and persons on board, pending instructions conveyed through the Competent Authority of the requested Party as to the actions the requesting Party is permitted to take concerning such items, persons and vessels.
 
 Each authorization to act shall be in writing between the Competent Authorities. Nevertheless, in urgent circumstances, an authorization to act may be granted orally by the Competent Authority of the requested Party. An oral authorization to act shall be confirmed in writing forthwith by the Competent Authority.
@@ -227,9 +215,7 @@ i. nevertheless stipulate that it does not object to the boarding and search by 
 
 **ii. refute the claim of the suspect vessel to its nationality.**
 
-d. Either Party, consistent with the other provisions of this Agreement, may subject its authorization under this paragraph to conditions, including obtaining additional information from the requesting Party, and conditions relating to responsibility for and the extent of measures to be taken. Information to be provided in response to such a request shall be exchanged in a timely manner by the Competent Authorities; however, the requesting Party may notify the requested Party if it is providing additional information through established information 6 [CAP. 493. AGREEMENTS (RATIFICATION)
-
-sharing channels.
+d. Either Party, consistent with the other provisions of this Agreement, may subject its authorization under this paragraph to conditions, including obtaining additional information from the requesting Party, and conditions relating to responsibility for and the extent of measures to be taken. Information to be provided in response to such a request shall be exchanged in a timely manner by the Competent Authorities; however, the requesting Party may notify the requested Party if it is providing additional information through established information sharing channels.
 
 e. Notification to the Master. Prior to the boarding being conducted, the flag State may, in coordination with requesting Party, transmit to the Master of the suspect vessel notice that it has authorized the requesting Party to board the vessel.
 
@@ -253,9 +239,7 @@ a. except as provided in subparagraph (b), the Party which conducts the boarding
 
 b. in cases involving suspect vessels fleeing from the territorial sea of a Party in which that Party has the authority to board and to exercise jurisdiction, that Party shall have the right to exercise its authorized jurisdiction.
 
-\4. Disposition Instruction. Consultations as to the exercise of jurisdiction AGREEMENTS (RATIFICATION) [CAP. 493. 7
-
-pursuant to paragraphs 2 and 3 of this Article shall be undertaken between the Competent Authorities without delay.
+\4. Disposition Instruction. Consultations as to the exercise of jurisdiction pursuant to paragraphs 2 and 3 of this Article shall be undertaken between the Competent Authorities without delay.
 
 \5. Form of waiver. Where permitted by its Constitution and laws, waiver of jurisdiction may be granted verbally, but as soon as possible it shall be recorded in a written note from the Competent Authority and be processed through the appropriate diplomatic channel, without prejudice to the immediate exercise of jurisdiction over the suspect vessel by the other Party.
 
@@ -286,8 +270,6 @@ Each Party shall identify to the other Party, and keep current, through its Comp
 **Conduct of Security Force Officials**
 
 \1. Compliance with Law and Practices. Each Party shall ensure that its Security Force Officials, when conducting boardings and searches pursuant to this Agreement, act in accordance with its applicable national laws and policies and consistent with its international law and accepted international practices.
-
-8 [CAP. 493. AGREEMENTS (RATIFICATION)
 
 \2. Boarding and Search Teams
 
@@ -329,9 +311,7 @@ f. ensure that the master of the vessel is, or has been, afforded at any time th
 
 **Exchange and Knowledge of Laws and Policies of Other Party**
 
-\1. Exchange of Information. To facilitate implementation of this Agreement, AGREEMENTS (RATIFICATION) [CAP. 493. 9
-
-each Party, shall endeavour to ensure the other Party is appropriately informed of its respective applicable laws and policies, particularly those pertaining to the use of force.
+\1. Exchange of Information. To facilitate implementation of this Agreement, each Party, shall endeavour to ensure the other Party is appropriately informed of its respective applicable laws and policies, particularly those pertaining to the use of force.
 
 \2. Knowledge. Each Party shall endeavour to ensure that its Security Force Officials are knowledgeable concerning the applicable laws and policies in accordance with this Agreement.
 
@@ -368,8 +348,6 @@ each Party, shall endeavour to ensure the other Party is appropriately informed 
 \1. Injury or Loss of Life. Any claim for injury to or loss of life of a Security Force Official of a Party while carrying out operations arising from this Agreement shall normally be resolved in accordance with the laws of that Party.
 
 \2. Other Claims. Any other claim submitted for damage, harm, injury, death or loss resulting from an operation carried out by a Party under this Agreement shall be resolved in accordance with the domestic law of the Party to which the claim is brought and international law.
-
-10 [CAP. 493. AGREEMENTS (RATIFICATION)
 
 \3. Consultation. If any damage, harm, injury, death or loss is suffered as a result of any action asserted to have been taken by the Security Force Officials of one Party in contravention of this Agreement, including action taken on unfounded suspicions, or if any improper, disproportionate or unreasonable action is asserted to have been taken by a Party, the Parties shall, without prejudice to any other legal recourse which may be available, consult at the request of either Party with a view to resolving the matter and deciding any questions relating to compensation or payment.
 
@@ -413,17 +391,13 @@ This Agreement shall enter into force upon an exchange of notes indicating that 
 
 **Continuation of Actions Taken**
 
-This Agreement shall continue to apply after termination with respect to any AGREEMENTS (RATIFICATION) [CAP. 493. 11
-
-administrative or judicial proceedings arising out of actions taken pursuant to this Agreement.
+This Agreement shall continue to apply after termination with respect to any administrative or judicial proceedings arising out of actions taken pursuant to this Agreement.
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized by their respective Governments, have signed this Agreement.
 
 DONE AT Washington, this 15th day of March, 2007.
 
 (Signatures)
-
-12 [CAP. 493. AGREEMENTS (RATIFICATION)
 
 ## APPENDIX: MODEL FORMS — Model Form: STEP 1 — Request for
 
@@ -477,8 +451,6 @@ a. Vessel’s name: ............................................................
 
  Container
 
-AGREEMENTS (RATIFICATION) [CAP. 493. 13
-
 Tanker
 
 Bulk carrier
@@ -507,8 +479,6 @@ a. Number: .....................................................................
 
 Estimated duration indicated for the boarding based on current information (this is only an estimate and subject to substantial change depending on circumstances encountered; if this request is approved, the [name of Requesting Party] shall keep [name of Requested Party] apprised of developments and changed circumstances that may decrease or increase the duration of the boarding):
 
-14 [CAP. 493. AGREEMENTS (RATIFICATION)
-
 .............................................................................................................................. ............................................................................................................................ 7. Action Request: The [name of Requesting Party] requests [name of the Requested Party]:
 
 a. Confirm the claim of nationality of the suspect vessel; and
@@ -522,8 +492,6 @@ b. If nationality is confirmed:
 Signature/Date/Time (GMT (Z)):
 
 ...................................................................................................................
-
-AGREEMENTS (RATIFICATION) [CAP. 493. 15
 
 **Model Form: STEPS 2-4**
 
@@ -569,8 +537,6 @@ CHECK ONLY ONE OF THE BOXES:
 
 Can neither confirm nor deny that [name of suspect vessel] is registered [in the American Register of Ships] [under the Merchant Shipping Act (CAP. 234) of the Laws of Malta], but nevertheless stipulates that it does not object to the boarding and search by the Security Force Officials of the Requesting Party (see paragraph 2 of request).
 
-16 [CAP. 493. AGREEMENTS (RATIFICATION)
-
 Denies that the [name of suspect vessel] is presently lawfully registered [in the American Register of Ships] [under the Merchant Shipping Act (CAP. 234) of the Laws of Malta] and therefore is NOT entitled to fly the flag of the [name of Requested Party].
 
 STEP 3: IF NATIONALITY IS CONFIRMED or STIPULATED, THEN COMPLETE STEP 3 -
@@ -588,8 +554,6 @@ CHECK ONLY ONE OF THE BOXES:
 .............................................................................................................................. ............................................................................................................................. ............................................................................................................................. ............................................................................................................................. ............................................................................................................................ Decides to conduct the boarding and search together with the Security Force Officials of the Requesting Party and proposes the following rendezvous instructions:
 
 .............................................................................................................................. ............................................................................................................................. ............................................................................................................................. ............................................................................................................................. ............................................................................................................................  Denies authorization to stop, board, and search the [name of suspect vessel] on the following grounds:
-
-AGREEMENTS (RATIFICATION) [CAP. 493. 17
 
 CHECK THE APPROPRIATE BOX OR BOXES:
 
@@ -618,8 +582,6 @@ STEP 4: INSTRUCTIONS REGARDING TRANSMITTAL OF NOTIFICATION TO THE MASTER
 Signature/Date/Time (GMT (Z)):
 
 ...................................................................................................................
-
-18 [CAP. 493. AGREEMENTS (RATIFICATION)
 
 **Model Form: STEP 5**
 
@@ -657,8 +619,6 @@ Signature/Date/Time (GMT (Z)):
 
 ...................................................................................................................
 
-AGREEMENTS (RATIFICATION) [CAP. 493. 19
-
 **Model Form: STEP 6**
 
 Confirmation of Transmittal of Notice to the Master of a Suspect Vessel that the Flag State has Authorized a Boarding Pursuant to the Agreement
@@ -688,8 +648,6 @@ The [name of the Requested Party] confirms that it has transmitted to the Master
 Signature/Date/Time (GMT (Z)):
 
 ...................................................................................................................
-
-20 [CAP. 493. AGREEMENTS (RATIFICATION)
 
 **Model Form: STEP 7**
 
@@ -727,9 +685,7 @@ CHECK ONLY ONE OF THE BOXES:
 
 .............................................................................................................................. ............................................................................................................................. ............................................................................................................................. ............................................................................................................................. ............................................................................................................................ 3. Persons on board:
 
-Name & Position Nationality Date of Birth Document Number AGREEMENTS (RATIFICATION) [CAP. 493. 21
-
-\4. Other evidence or issues:
+Name & Position Nationality Date of Birth Document Number 4. Other evidence or issues:
 
 .............................................................................................................................. ............................................................................................................................. ............................................................................................................................. ............................................................................................................................. ............................................................................................................................ 5. Intentions/request for disposition instructions:
 
@@ -744,8 +700,6 @@ CHECK ONLY ONE OF THE BOXES:
 Signature/Date/Time (GMT (Z)):
 
 ...................................................................................................................
-
-22 [CAP. 493. AGREEMENTS (RATIFICATION)
 
 **Model Form**
 
@@ -776,8 +730,6 @@ e-mail: ..............................................................
 Signature/Date/Time (GMT (Z)):
 
 ...................................................................................................................
-
-AGREEMENTS (RATIFICATION) [CAP. 493. 23
 
 ## SECOND SCHEDULE
 
@@ -829,9 +781,7 @@ b) "international waters" means waters seaward of any State’s territorial sea,
 
 c) "contiguous zone" has the same meaning as in Article 33 of the Law of the Sea Convention.
 
-d) "law enforcement authorities" means, for the Government of the Malta, the Armed Forces of Malta, and for the Government of the United States 24 [CAP. 493. AGREEMENTS (RATIFICATION)
-
-of America, the United States Coast Guard.
+d) "law enforcement authorities" means, for the Government of the Malta, the Armed Forces of Malta, and for the Government of the United States of America, the United States Coast Guard.
 
 e) "law enforcement officials" means, for the Government of Malta, the Armed Forces of Malta, the Malta Police Force and the Department of Customs, and for the Government of the United States of America, uniformed members of the United States Coast Guard who may be accompanied by other authorized personnel.
 
@@ -869,9 +819,7 @@ b) if such claim is confirmed:
 
 ## 2.
 
-Content of Requests. Each request should contain the name of the suspect vessel, the basis for the suspicion (including all facts and other information on which the suspicion is based), the geographic position of the vessel, the registration number if available, home port, the port of origin and destination, and any other identifying AGREEMENTS (RATIFICATION) [CAP. 493. 25
-
-information. If a request is conveyed orally, the requesting Party shall confirm the request in writing as soon as possible.
+Content of Requests. Each request should contain the name of the suspect vessel, the basis for the suspicion (including all facts and other information on which the suspicion is based), the geographic position of the vessel, the registration number if available, home port, the port of origin and destination, and any other identifying information. If a request is conveyed orally, the requesting Party shall confirm the request in writing as soon as possible.
 
 ## 3.
 
@@ -911,9 +859,7 @@ Shipboarding Otherwise in accordance with International Law. Except as expressly
 
 \1. Limitations. Neither Party shall undertake the exercise of jurisdiction and performance of functions in the territory of the other Party.
 
-\2. Waiver of Right. In all cases arising pursuant to this Agreement concerning vessels having the nationality of a Party in international waters, that Party ("the first 26 [CAP. 493. AGREEMENTS (RATIFICATION)
-
-Party") shall have the right to exercise jurisdiction over a detained vessel, cargo and/ or persons on board (including seizure, forfeiture, arrest, and prosecution), provided, however, the first Party may, subject to its Constitution and laws, waive its right to exercise jurisdiction and authorize the enforcement of the other Party’s law against the vessel, cargo and/or persons on board.
+\2. Waiver of Right. In all cases arising pursuant to this Agreement concerning vessels having the nationality of a Party in international waters, that Party ("the first Party") shall have the right to exercise jurisdiction over a detained vessel, cargo and/ or persons on board (including seizure, forfeiture, arrest, and prosecution), provided, however, the first Party may, subject to its Constitution and laws, waive its right to exercise jurisdiction and authorize the enforcement of the other Party’s law against the vessel, cargo and/or persons on board.
 
 \3. Contiguous Zone. In cases arising in the contiguous zone of a Party, not involving suspect vessels fleeing from the waters of that Party or suspect vessels having the nationality of that Party, in which both Parties have the authority to exercise jurisdiction to prosecute, the Party which conducts the boarding and search shall have the right to exercise jurisdiction.
 
@@ -947,9 +893,7 @@ Each Party shall identify to the other Party, and keep current, the points of co
 
 \2. Boarding and Search Teams
 
-a. Boardings and searches pursuant to this Agreement shall be carried out by law enforcement officials from law enforcement vessels or aircraft of the Parties and from such vessels and aircraft of other States, according AGREEMENTS (RATIFICATION) [CAP. 493. 27
-
-to arrangements between the Party conducting the operation and the State providing the vessel or aircraft.
+a. Boardings and searches pursuant to this Agreement shall be carried out by law enforcement officials from law enforcement vessels or aircraft of the Parties and from such vessels and aircraft of other States, according to arrangements between the Party conducting the operation and the State providing the vessel or aircraft.
 
 b. When conducting boardings and searches law enforcement officials may carry standard law enforcement small arms.
 
@@ -985,9 +929,7 @@ d. Law enforcement vessels of a Party operating with the authorization of the ot
 
 **Technical Assistance**
 
-The law enforcement authority of one Party (the "first Party") may request, and the law enforcement authority of the other Party may authorize, law enforcement officials of the other Party to provide technical assistance, such as specialized 28 [CAP. 493. AGREEMENTS (RATIFICATION)
-
-assistance in the conduct of search of suspect vessels, to law enforcement officials of the first Party for the boarding and search of suspect vessels located in the territory or waters of the first Party.
+The law enforcement authority of one Party (the "first Party") may request, and the law enforcement authority of the other Party may authorize, law enforcement officials of the other Party to provide technical assistance, such as specialized assistance in the conduct of search of suspect vessels, to law enforcement officials of the first Party for the boarding and search of suspect vessels located in the territory or waters of the first Party.
 
 **Article 14**
 
@@ -1034,8 +976,6 @@ This Agreement shall enter into force upon exchange of notes indicating that the
 \1. Notification. This Agreement may be terminated at any time by either Party upon written notification to the other Party through the diplomatic channel.
 
 \2. Effective Date. Such termination shall take effect 90 days from the date of notification.
-
-AGREEMENTS (RATIFICATION) [CAP. 493. 29
 
 **Article 19**
 

@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Provvisti u Servizzi (Ġurisdizzjoni dwar Proċedimenti Kriminali) (Cap. 306)
 
-PROVVISTI U SERVIZZI
-
-*1*
-
-(ĠURISDIZZJONI DWAR PROĊEDIMENTI KRIMINALI) [KAP. 306.
-
 **KAPITOLU 306**
 
 **ATT DWAR IL-PROVVISTI U SERVIZZI**

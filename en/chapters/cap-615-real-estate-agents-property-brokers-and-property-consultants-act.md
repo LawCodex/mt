@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Real Estate Agents, Property Brokers and Property Consultants Act (Cap. 615)
 
-*1*
-
-PROPERTY CONSULTANTS [CAP. 615.
-
 **CHAPTER 615**
 
 REAL ESTATE AGENTS, PROPERTY BROKERS AND PROPERTY CONSULTANTS ACT\*
@@ -65,12 +61,6 @@ S.L. 373.01.
 Funding of Terrorism Regulations;  
 \*This Act has been repealed by Act XXVII of 2024.
 
-**PROPERTY CONSULTANT**
-
-*[CAP.615.*
-
-*2*
-
 "Board" means the Licensing Board established under Part 5 of the Act;
 
 "branch manager" means any natural person who is a holder of a licence and is employed or engaged to supervise any property consultant;
@@ -93,11 +83,7 @@ Funding of Terrorism Regulations;
 
 "real estate agent" means any natural person who has a licence to act as an intermediary in the process of negotiating and arranging transactions involving the acquiring or disposing or leasing of land and employs and, or engages (whether under a contract of service or a contract for services) one or more branch managers and, or one or more property consultants;
 
-"register" means the register of licences issued to exercise the activity of property brokers, real estate agents, PROPERTY CONSULTANTS [CAP. 615.
-
-branch managers and property consultants as provided in Part III of the Act.
-
-*3*
+"register" means the register of licences issued to exercise the activity of property brokers, real estate agents, branch managers and property consultants as provided in Part III of the Act.
 
 ## PART II — Licensing of Real Estate Agents, Property Brokers, Branch — Managers
 
@@ -120,12 +106,6 @@ Provided further that the Board may require such persons who carry out the activ
 "occasional basis" means acting as an intermediary in the process of negotiating and arranging not more than two (2) transactions per annum involving the acquiring or disposing or leasing of land.
 
 (5) Where a real estate agent intends to carry out his activity with some other person, they shall form a partnership, having as its main object the activity envisaged under sub-article (1), and they shall seek the authorisation of the Board prior to the commencement of activity.
-
-**PROPERTY CONSULTANT**
-
-*[CAP.615.*
-
-*4*
 
 (6) The provisions of sub-article (4) shall also apply to property brokers.
 
@@ -157,10 +137,6 @@ Provided that where the equivalence of the qualifications are deemed to be only 
 
 (c) any other qualifications which the Malta Qualifications Recognition Information Centre recognises as being equivalent:
 
-*5*
-
-PROPERTY CONSULTANTS [CAP. 615.
-
 Provided that where the equivalence of the qualifications are deemed to be only partial, it shall be possible for the applicant to provide his competence in the areas where it is deemed to be lacking by means of an assessment set by the Board.
 
 (3) Notwithstanding sub-article (1) and sub-article (2), no person shall apply for or obtain or be eligible to hold a licence under the Act if:
@@ -189,10 +165,6 @@ Provided that where the equivalence of the qualifications are deemed to be only 
 
 (d) the names and identity reference numbers of all directors, partners, company secretary and beneficial owners; and
 
-*6*
-
-[CAP.615. PROPERTY CONSULTANT
-
 (e) the licence number of the directors who are licensees.
 
 (5) The Board shall authorise the exercise of the activity as envisaged under sub-articles (4) and (5) of article 3 upon being satisfied that:
@@ -219,10 +191,6 @@ Provided that where the equivalence of the qualifications are deemed to be only 
 
 The Board shall acknowledge receipt of a complete application without delay and shall process the application within two (2) months:
 
-*7*
-
-PROPERTY CONSULTANTS [CAP. 615.
-
 Provided that when the Board requires more time to process the application or it requires further documentation, it may extend the processing time established under sub-article (1) by further periods:
 
 Provided further that when an extension of time is required, the Board shall notify the applicant without delay.
@@ -244,10 +212,6 @@ Provided further that when an extension of time is required, the Board shall not
 (3) The Board shall issue an identity document to a licensee under this Act. The identity document shall contain a photograph of the licensee and such other information as the Board may deem necessary. This shall include, inter alia, his name, the licence type, registration number and term of validity. The identity document shall remain the property of the Board and shall be returned to the Board on the suspension or revocation of a licence issued under this Act.
 
 (4) Every licensee who contravenes sub-article (1) or sub-article (2) is liable to an administrative fine (multa) not exceeding twenty thousand euro (€20,000).
-
-*8*
-
-[CAP.615. PROPERTY CONSULTANT
 
 ### 8. Expiration and renewal of licence.
 
@@ -281,10 +245,6 @@ A licence shall, unless it is sooner cancelled, or in accordance with the provis
 
 (b) to perform any obligation required to be performed under this Act on or before that date;
 
-*9*
-
-PROPERTY CONSULTANTS [CAP. 615.
-
 (c) for any act done or default made before the date on which the licence or authorisation ceased to have effect.
 
 (5) A licence or authorisation may be cancelled or suspended by the Board in any of the following instances:
@@ -309,11 +269,7 @@ Provided that without prejudice to the generality of this sub-article, the Board
 
 (2) The Register shall include the following details:
 
-(a) in the case of the issue of a licence, the name and address of the licensee, the qualification by virtue of which he is entitled to hold a licence under this Act, the address of the principal place of activity and of any approved branch office, the [CAP.615. PROPERTY CONSULTANT
-
-name of the branch manager of such branch office, the date on which the application was granted and the type of licence issued;
-
-*10*
+(a) in the case of the issue of a licence, the name and address of the licensee, the qualification by virtue of which he is entitled to hold a licence under this Act, the address of the principal place of activity and of any approved branch office, the name of the branch manager of such branch office, the date on which the application was granted and the type of licence issued;
 
 (b) in the case of real estate agents exercising their activity through a partnership:
 
@@ -343,11 +299,7 @@ name of the branch manager of such branch office, the date on which the applicat
 
 Licensees shall make known to the parties the fees to be charged for their services in advance:
 
-Provided that if the licensee was active during the PROPERTY CONSULTANTS [CAP. 615.
-
-negotiations between the parties but the transaction was not completed, a fair compensation would still be due and shall be determined by a court.
-
-*11*
+Provided that if the licensee was active during the negotiations between the parties but the transaction was not completed, a fair compensation would still be due and shall be determined by a court.
 
 ## PART V — Licensing Board
 
@@ -379,11 +331,7 @@ negotiations between the parties but the transaction was not completed, a fair c
 
 (1) The Minister may make regulations for the better carrying out of the provisions of this Act.
 
-Without prejudice to the generality of this sub-article, such regulations may, in particular provide for any matter relating to persons acting as an intermediary in the process of negotiating and arranging transactions involving the acquiring or disposing or leasing of land, including those on an occasional basis, as well as any other matter relating thereto, taking account of all relevant considerations, including [CAP.615. PROPERTY CONSULTANT
-
-professional qualification standards or ethical conduct. Such requirements may include rules, conditions, and, or exemptions in relation to the carrying out of all activities envisaged under this Act.
-
-*12*
+Without prejudice to the generality of this sub-article, such regulations may, in particular provide for any matter relating to persons acting as an intermediary in the process of negotiating and arranging transactions involving the acquiring or disposing or leasing of land, including those on an occasional basis, as well as any other matter relating thereto, taking account of all relevant considerations, including professional qualification standards or ethical conduct. Such requirements may include rules, conditions, and, or exemptions in relation to the carrying out of all activities envisaged under this Act.
 
 (2) The Board may issue regulations containing requirements to be fulfilled by persons acting as an intermediary in the process of negotiating and arranging transactions involving the acquiring or disposing or leasing of land, including those on an occasional basis. Such requirements may include rules, conditions and, or exemptions in relation to the carrying out of all activities envisaged under this Act.
 

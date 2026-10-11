@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Projbizzjoni tal-Bejgħ tal-Provvisti mogħtija b'xejn (Cap. 145)
 
-PROJBIZZJONI TA’ BEJGĦ
-
-*1*
-
-TAL-PROVVISTI MOGĦTIJA B’XEJN [KAP. 145.
-
 **KAPITOLU 145**
 
 **ATT DWAR IL-PROJBIZZJONI TA’ BEJGĦ TAL-**

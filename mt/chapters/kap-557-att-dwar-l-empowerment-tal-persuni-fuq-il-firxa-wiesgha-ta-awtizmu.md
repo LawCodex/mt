@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Empowerment tal-Persuni fuq il-Firxa Wiesgħa ta’ Awtiżmu (Cap. 557)
 
-*1*
-
-FUQ IL-FIRXA WIESGĦA TA’ AWTIŻMU [KAP. 557.
-
 **KAPITOLU 557**
 
 **ATT DWAR L-EMPOWERMENT TAL-PERSUNI FUQ**
@@ -113,10 +109,6 @@ jippreskrivi. Dan il-kunsill għandu jiġi maħtur għal perjodu ta’ ħames sn
 
 (6) Mingħajr ħsara għad-dispożizzjonijiet ta’ dan l-artikolu, il-kariga ta’ membru tal-Kunsill għandha ssir vakanti –
 
-*3*
-
-FUQ IL-FIRXA WIESGĦA TA’ AWTIŻMU [KAP. 557.
-
 (a) mal-iskadenza ta’ ħames snin fl-ewwel ħatra tiegħu u tliet snin fil-ħatriet sussegwenti; jew
 
 (b) jekk ikun hemm ċirkostanzi li, li kieku ma kienx membru tal-Kunsill, kienu jwasslu għall-iskwalifika milli jinħatar bħala membru.
@@ -190,10 +182,6 @@ KAP. 557.] FUQ IL-FIRXA WIESGĦA TA’ AWTIŻMU
 (iii) il-promozzjoni ta’ awto-determinazzjoni tagħhom stess ta’ persuni fi ħdan il-firxa wiesgħa ta’ awtiżmu;
 
 (iv) it-titjib ta’ aċċess għal servizzi ta’ appoġġ xierqa u opportunitajiet indaqs għal inklużjoni u parteċipazzjoni fis-soċjetà billi jipprovdi, kif xieraq, taħriġ lill-amministraturi pubbliċi, fornituri tas-servizzi, edukaturi, carers, caregivers, professjonisti u persuni mhux professjonisti dwar il-bżonnijiet u d-drittijiet tal-persuni fi ħdan il-firxa wiesgħa ta’ awtiżmu; u
-
-*5*
-
-FUQ IL-FIRXA WIESGĦA TA’ AWTIŻMU [KAP. 557.
 
 (v) il-formulazzjoni ta’ programmi ta’ intervent fattibbli, effettiv, u sostenibbli sabiex jindirizzaw il-firxa wiesgħa ta’ awtiżmu;
 

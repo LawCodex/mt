@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Protezzjoni Konsulari lil Ċittadini Mhux Rappreżentati (Cap. 580)
 
-*1*
-
-LIL ĊITTADINI MHUX RAPPREŻENTATI [KAP. 580.
-
 **KAPITOLU 580**
 
 **ATT DWAR IL-PROTEZZJONI KONSULARI LIL**
@@ -55,8 +51,6 @@ F’dan l-Att sakemm il-kuntest ma jeħtieġx xort’oħra:
 
 (3) Il-protezzjoni konsulari msemmija fis-subartikolu (1) tista’ tinkludi għajnuna, fost l-oħrajn, fis-sitwazzjonijiet li ġejjin:
 
-LIL ĊITTADINI MHUX RAPPREŻENTATI
-
 (a) arrest jew detenzjoni;
 
 (b) meta wieħed jisfa vittma ta’ reat kriminali;
@@ -87,11 +81,9 @@ Il-Gvern ta’ Malta għandu jipprovdi protezzjoni konsulari lil membri tal-fami
 
 (2) Ambaxxati jew il-konsolati tal-Gvern ta’ Malta jistgħu, kull meta jidhrilhom li jkun meħtieġ, jiftiehmu dwar arranġamenti prattiċi ma’ Stati Membri oħra dwar it-tqassim ta’ responsabbiltajiet għall-għoti ta’ protezzjoni konsulari lil ċittadini mhux rappreżentati.
 
-(3) Bla ħsara għad-dispożizzjonijiet tal-artikolu 3, meta ċittadin mhux rappreżentat ifittex protezzjoni konsulari minn ambaxxata jew konsolat tal-Gvern ta’ Malta li, skont il-ftehim prattiku msemmi fis-subartikolu (2) mhuwiex meqjus bħala kompetenti, f’dak il-każ l-ambaxxata jew il-konsolat għandhom LIL ĊITTADINI MHUX RAPPREŻENTATI [KAP. 580. jitrasferixxu dik l-applikazzjoni lill-ambaxxata jew lill-konsolat rilevanti:
+(3) Bla ħsara għad-dispożizzjonijiet tal-artikolu 3, meta ċittadin mhux rappreżentat ifittex protezzjoni konsulari minn ambaxxata jew konsolat tal-Gvern ta’ Malta li, skont il-ftehim prattiku msemmi fis-subartikolu (2) mhuwiex meqjus bħala kompetenti, f’dak il-każ l-ambaxxata jew il-konsolat għandhom jitrasferixxu dik l-applikazzjoni lill-ambaxxata jew lill-konsolat rilevanti:
 
 Iżda d-dispożizzjonijiet ta’ dan is-subartikolu ma japplikawx jekk l-urġenza tal-każ tirrikjedi azzjoni immedjata.
-
-*3*
 
 ## 7. Identifikazzjoni ta’ ċittadini mhux rappreżentati.
 
@@ -114,8 +106,6 @@ Iżda jekk iċ-ċittadin mhux rappreżentat ma jippreżentax xi forma ta’ iden
 (ċ) xi membri tal-familja li għalihom jeħtieġ li tingħata protezzjoni konsulari:
 
 Iżda, qabel ma tingħata kwalunkwe forma ta’ protezzjoni konsulari, iċ-ċittadin mhux rappreżentat għandu jiffirma formola ta’ kunsens fejn jobbliga lilu nnifsu li jirrimborża lill-Gvern ta’ Malta għal kwalunkwe spejjeż raġonevoli li jkunu saru sabiex tingħatalu protezzjoni konsulari sakemm dawk l-ispejjeż ma jkunux esklużi taħt dan l-Att.
-
-LIL ĊITTADINI MHUX RAPPREŻENTATI
 
 (3) Il-Gvern ta’ Malta għandu wkoll jiffaċilita l-iskambju ta’ informazzjoni bejn iċ-ċittadin ikkonċernat u l-awtoritajiet tal-Istat Membru tan-nazzjonalità taċ-ċittadin.
 
@@ -141,11 +131,9 @@ Iżda meta ċittadin ta’ Malta mhux rappreżentat jonqos milli jirrimborża l-
 
 ## 12. Rimburżar ta’ spejjeż minn Stati Membri.
 
-(1) Il-Gvern ta’ Malta għandu jitlob għal rimburżar għal kwalunkwe spejjeż li jkunu saru sabiex tingħata protezzjoni konsulari lil ċittadini mhux rappreżentati mill-Istat Membru tan- LIL ĊITTADINI MHUX RAPPREŻENTATI [KAP. 580. nazzjonalità tagħhom kif previst fl-Iskeda II.
+(1) Il-Gvern ta’ Malta għandu jitlob għal rimburżar għal kwalunkwe spejjeż li jkunu saru sabiex tingħata protezzjoni konsulari lil ċittadini mhux rappreżentati mill-Istat Membru tan-nazzjonalità tagħhom kif previst fl-Iskeda II.
 
 (2) Meta l-ispejjeż għall-protezzjoni konsulari li jkunu saru għal ċittadin mhux rappreżentat ikunu jikkonsistu fi spejjeż eċċezzjonalment għolja iżda essenzjali bħal spejjeż ta’ vjaġġar, akkomodazzjoni jew traduzzjoni għall-awtoritajiet diplomatiċi jew konsulari f’każ ta’ arrest jew detenzjoni, il-Gvern ta’ Malta jista’ jitlob għar-rimburżar ta’ dawk l-ispejjeż mill-Istat Membru tan-nazzjonalità taċ-ċittadin mhux rappreżentat:
-
-*5*
 
 Iżda meta l-Gvern ta’ Malta jintalab sabiex iħallas għal dawk l-ispejjeż minn Stat Membru, hu għandu jirrimborża lill-Istat Membru li qed jitlob dawk l-ispejjeż f’perjodu ta’ mhux aktar minn tnax-il xahar.
 
@@ -162,8 +150,6 @@ Iżda dak id-dritt għandu jibqa’ fis-seħħ sakemm dak iċ-ċittadin mhux rap
 ## 14. Drittijiet ta’ ċittadini ta’ Malta mhux rappreżentati.
 
 Meta ċittadini ta’ Malta mhux rappreżentati qed ifittxu protezzjoni konsulari minn ambaxxata jew konsolat ta’ Stat Membru f’pajjiż terz huma għandhom igawdu mill-istess drittijiet bħalma jgawdu ċittadini ta’ dak l-Istat Membru minkejja l-fatt li dawk id-drittijiet jistgħu jkunu inqas minn dawk provduti minn ambaxxata jew konsolat tal-Gvern ta’ Malta f’pajjiż terz.
-
-LIL ĊITTADINI MHUX RAPPREŻENTATI
 
 SKEDA I
 
@@ -203,7 +189,7 @@ DATA ............................................. FIRMA .......................
 
 (\*) jekk m’għandekx indirizz permanenti, jekk jogħġbok indika indirizz ta’ kuntatt.
 
-LIL ĊITTADINI MHUX RAPPREŻENTATI [KAP. 580. 7 B. Mudell komuni għad-dikjarazzjoni ta’ impenn ta’ rimborż tal-ispejjeż ta’ protezzjoni konsulari fil-każ tar-ripatrijazzjoni
+B. Mudell komuni għad-dikjarazzjoni ta’ impenn ta’ rimborż tal-ispejjeż ta’ protezzjoni konsulari fil-każ tar-ripatrijazzjoni
 
 DIKJARAZZJONI TA’ IMPENN TA’ RIMBORŻ
 
@@ -255,9 +241,7 @@ Tariffi għall-Passaport/emerġenza
 
 (............ sigħat bi ........... kull siegħa ...........)
 
-LIL ĊITTADINI MHUX RAPPREŻENTATI
-
-(ii)(\*) Is-somom kollha f’ismi għall-fini tar-ripatrijazzjoni tiegħi u tal-membri tal-familja tiegħi li qegħdin jakkumpanjawni jew b’rabta magħha, li ma jistgħux jiġu determinati fil-ħin li din id-dikjarazzjoni ta’ impenn ta’ rimborż qed tiġi ffirmata minni.
+Is-somom kollha f’ismi għall-fini tar-ripatrijazzjoni tiegħi u tal-membri tal-familja tiegħi li qegħdin jakkumpanjawni jew b’rabta magħha, li ma jistgħux jiġu determinati fil-ħin li din id-dikjarazzjoni ta’ impenn ta’ rimborż qed tiġi ffirmata minni.
 
 L-indirizz tiegħi (\*\*) (b’ittri kapitali) (pajjiż) ................................................
 
@@ -269,7 +253,7 @@ huwa: ..........................................................................
 
 (\*) Ħassar kif meħtieġ: L-Uffiċjal Konsulari u l-applikant għandhom jinizjalaw kull tħassir fil-marġni.
 
-(\*\*)Jekk m’għandekx indirizz permanenti, jekk jogħġbok indika indirizz ta’ kuntatt. LIL ĊITTADINI MHUX RAPPREŻENTATI [KAP. 580. 9 SKEDA II
+(\*\*)Jekk m’għandekx indirizz permanenti, jekk jogħġbok indika indirizz ta’ kuntatt. SKEDA II
 
 Formola tat-talba għal rimborż
 

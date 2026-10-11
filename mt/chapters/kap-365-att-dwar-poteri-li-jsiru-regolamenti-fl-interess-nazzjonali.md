@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Att dwar Poteri li jsiru Regolamenti fl-Interess Nazzjonali (Cap. 365)
 
-*1*
-
-FL-INTERESS NAZZJONALI [KAP. 365.
-
 **KAPITOLU 365**
 
 **ATT DWAR POTERI LI JSIRU REGOLAMENTI**
@@ -90,11 +86,9 @@ KAP. 365.] FL-INTERESS NAZZJONALI
 
 \* https://www.un.org/sc/suborg/en/sanctions/un-sc-consolidated-list https://www.un.org/press/en
 
-*3*
-
-FL-INTERESS NAZZJONALI [KAP. 365. (a) Meta l-Ministru jikkunsidra li l-interessi nazzjonali u internazzjonali ta’ Malta hekk jeħtieġu, huwa għandu, fuq rakkomandazzjoni tal-Bord ta’ Sorveljanza fuq Sanzjonijiet u tal-Avukat Ġenerali, permezz ta’ regolamenti taħt dan l-Att, jordna -
-
 *(4) Miżuri u Sanzjonijiet Domestiċi Restrittivi.*
+
+(a) Meta l-Ministru jikkunsidra li l-interessi nazzjonali u internazzjonali ta’ Malta hekk jeħtieġu, huwa għandu, fuq rakkomandazzjoni tal-Bord ta’ Sorveljanza fuq Sanzjonijiet u tal-Avukat Ġenerali, permezz ta’ regolamenti taħt dan l-Att, jordna -
 
 (i) it-tismija ta’ kwalunkwe persuna jew entità;
 
@@ -134,9 +128,7 @@ u kwalunkwe assi oħra li potenzjalment jistgħu jiġu użati biex jinkisbu fond
 
 (1) Għall-finijiet ta’ dan l-Att u tal-artikolu 3 tal-Att dwar l-Unjoni Ewropea, ir-Regolamenti tal-Kunsill tal-Unjoni Ewropea li jimponu sanzjonijiet jew japplikaw miżuri restrittivi ta’ kwalunkwe natura, jew li jagħtu parir lil, jirrakkomandaw, jidderiġu jew jordnaw Stati Membri tal-Unjoni Ewropea biex jieħdu azzjoni kif jista’ jingħata l-parir, jiġi rakkomandat, tingħata direzzjoni jew jiġi ordnat, kemm jekk ippubblikati qabel jew wara d-dħul fis-seħħ ta’ dan l-artikolu, għandhom jorbtu fis-sħiħ f’Malta u għandhom ikunu parti mil-liġi domestika ta’ Malta taħt il-kundizzjonijiet stabbiliti fit-Trattat.
 
-*5*
-
-FL-INTERESS NAZZJONALI [KAP. 365. (2) Id-dispożizzjonijiet tal-artikolu 3(4)(e) tal-Att dwar l- Interpretazzjoni għandhom japplikaw għal Regolamenti tal-Kunsill tal-Unjoni Ewropea msemmija f ’dan l-Att u għal kwalunkwe regolament li jemenda jew li jħassar dawk ir-regolamenti.
+(2) Id-dispożizzjonijiet tal-artikolu 3(4)(e) tal-Att dwar l- Interpretazzjoni għandhom japplikaw għal Regolamenti tal-Kunsill tal-Unjoni Ewropea msemmija f ’dan l-Att u għal kwalunkwe regolament li jemenda jew li jħassar dawk ir-regolamenti.
 
 *Kap. 249.*
 
@@ -202,11 +194,11 @@ stabbiliment li jista’ jkun intuża għall-għemil tar-reat;
 
 (d) meta persuna f’Malta għenet xjentement jew ħeġġet persuna oħra biex twettaq ir-reat.
 
-*7*
+## 7. Għamla u funzjonijiet tal- Bord ta’ Sorveljanza fuq Sanzjonijiet.
 
-FL-INTERESS NAZZJONALI [KAP. 365. 7. (1) Qiegħed jitwaqqaf Bord ta’ Sorveljanza fuq Sanzjonijiet li jkollu l-funzjonijiet stabbiliti f’dan l-Att.
+*Miżjud: XXI.2018.4.*
 
-*Għamla u funzjonijiet tal- Bord ta’ Sorveljanza fuq Sanzjonijiet. Miżjud: XXI.2018.4.*
+(1) Qiegħed jitwaqqaf Bord ta’ Sorveljanza fuq Sanzjonijiet li jkollu l-funzjonijiet stabbiliti f’dan l-Att.
 
 (2) Il-Bord ta’ Sorveljanza fuq Sanzjonijiet ikun magħmul minn rappreżentant tal-Ministeru tal-Affarijiet Barranin li jkun Chairman, l-Avukat Ġenerali jew ir-rappreżentant tiegħu, il- Kummissarju tal-Pulizija jew ir-rappreżentant tiegħu, rappreżentant tal-Uffiċċju tal-Prim Ministru, rappreżentant tal-Korp għall-Analiżi ta’ Informazzjoni Finanzjarja, rappreżentant tas-Servizz tas-Sigurtà ta’ Malta, rappreżentant tal-Ministeru responsabbli għall-affarijiet interni, rappreżentant tal-Ministeru responsabbli għad-difiża, rappreżentant tal-Ministeru responsabbli għall-finanzi, rappreżentant tal-Ministeru responsabbli għall-ekonomija, rappreżentant tad-Dipartiment tal-Kummerċ, rappreżentant tad- Dipartiment tad-Dwana, rappreżentant tal-Bank Ċentrali ta’ Malta, rappreżentant tal-Awtorità għas-Servizzi Finanzjarji ta’ Malta, rappreżentant tal-Ministeru responsabbli għall-affarijiet marittimi, rappreżentant tal-Ministeru responsabbli għal affarijiet tal-avjazzjoni, rappreżentant tal-Ministeru responsabbli għall-artijiet u rappreżentant tal-Ministeru responsabbli għal affarijiet dwar l-immigrazzjoni.
 
@@ -257,10 +249,6 @@ Iċ-Chairman għandu jkun il-Kap tal-Bord u l-Viċi Chairman għandu jkollu s-se
 (5) Kull vakanza fost il-membri tal-Bord u kull parteċipazzjoni fiha minn persuna li ma tkunx intitolata li tagħmel dan, ma tinvalidax il-ħidma tal-Bord.
 
 (6) Bla ħsara għad-dispożizzjonijiet ta’ dan l-Att, il-Bord jista’ jirregola l-proċeduri tiegħu stess.
-
-*9*
-
-FL-INTERESS NAZZJONALI [KAP. 365.
 
 (7) Iċ-Chairman jista’, wara konsultazzjoni mal-membri tal- Bord, jistieden osservaturi fuq il-Bord, kull meta dan ikun meħtieġ sakemm dawn ikunu għaddew mit-test meħtieġ ta’ approvazzjoni tas-sigurtà.
 
@@ -330,11 +318,11 @@ Iżda wkoll, xejn f’dan l-artikolu u fl-artikolu 15 ma għandu jimplika xi obb
 
 *Kap. 9. Kap. 12.*
 
-*11*
+## 17. Miżuri ta’ ffriżar.
 
-FL-INTERESS NAZZJONALI [KAP. 365. 17. (1) Minkejja d-dispożizzjonijiet ta’ dan l-Att jew ta’ kwalunkwe liġi oħra, meta regolamenti magħmula taħt l-artikolu 3(4)(a) jew meta Riżoluzzjoni tal-Kunsill tas-Sigurtà tan-Nazzjonijiet Magħquda jew Regolament tal-Kunsill huma pubblikati sabiex jiġu imposti miżuri ta’ ffriżar fuq proprjetà, persuna jew entità elenkata mir- Riżoluzzjoni jew Regolament jew fl-annessi tiegħu, dawn ir-regolamenti, Riżoluzzjoni jew Regolament immedjatament mal-pubblikazzjoni għandhom jitqiesu bħala ordni ta’ ffriżar li jkollu l-forza ta’ liġi f’Malta.
+*Miżjud: XXI.2018.4. Emendat: XX.2020.3.*
 
-*Miżuri ta’ ffriżar. Miżjud: XXI.2018.4. Emendat: XX.2020.3.*
+(1) Minkejja d-dispożizzjonijiet ta’ dan l-Att jew ta’ kwalunkwe liġi oħra, meta regolamenti magħmula taħt l-artikolu 3(4)(a) jew meta Riżoluzzjoni tal-Kunsill tas-Sigurtà tan-Nazzjonijiet Magħquda jew Regolament tal-Kunsill huma pubblikati sabiex jiġu imposti miżuri ta’ ffriżar fuq proprjetà, persuna jew entità elenkata mir- Riżoluzzjoni jew Regolament jew fl-annessi tiegħu, dawn ir-regolamenti, Riżoluzzjoni jew Regolament immedjatament mal-pubblikazzjoni għandhom jitqiesu bħala ordni ta’ ffriżar li jkollu l-forza ta’ liġi f’Malta.
 
 (2) Dak l-ordni tal-iffriżar kif imsemmi fis-subartikolu (1) għandu jkollu l-effett li:
 
@@ -392,11 +380,7 @@ Jista’ jsir appell minn ordni maħruġ skont l-artikolu 3(4)(a) permezz ta’ 
 
 (b) sanzjoni amministrattiva ta' mhux inqas minn tliet mitt euro (€300) u mhux aktar minn tmien mitt euro (€800) fir-rigward ta' kontravvenzjonijiet li huma meqjusa gravi, ripetuti jew sistematiċi:
 
-Iżda minflok jew flimkien mal-impożizzjoni ta' xi sanzjoni amministrattiva kif previst taħt dan is-subartikolu, il- FL-INTERESS NAZZJONALI [KAP. 365.
-
-Bord jista' joħroġ direttivi bil-miktub li jitlobu kwalunkwe persuna tieħu kwalunkwe azzjoni jew miżura biex tirrimedja jew tiżgura l-konformità mad-dispożizzjonijiet tal-paragrafi (a), (b) jew (ċ) tal-artikolu 17(6):
-
-*13*
+Iżda minflok jew flimkien mal-impożizzjoni ta' xi sanzjoni amministrattiva kif previst taħt dan is-subartikolu, il- Bord jista' joħroġ direttivi bil-miktub li jitlobu kwalunkwe persuna tieħu kwalunkwe azzjoni jew miżura biex tirrimedja jew tiżgura l-konformità mad-dispożizzjonijiet tal-paragrafi (a), (b) jew (ċ) tal-artikolu 17(6):
 
 Iżda wkoll li direttivi bil-miktub maħruġa taħt dan is-subartikolu għandhom jiġu mħarsa, fiż-żmien u bil-mod stipulat hemm, u kull persuna li tonqos milli tikkonforma ma' kwalunkwe minn dawn id-direttivi għandha teħel sanzjoni amministrattiva kif previst taħt il-paragrafu (a).
 

@@ -15,9 +15,7 @@ retrieved: 2026-10-12
 
 # Att dwar il-Protezzjoni ta’ Adulti f’Sitwazzjonijiet ta’ Vulnerabbiltà (Cap. 659)
 
-*1*
-
-VULNERABBILTÀ [KAP. 659.] KAPITOLU 659
+**KAPITOLU 659**
 
 **ATT DWAR IL-PROTEZZJONI TA’ ADULTI**
 
@@ -43,13 +41,9 @@ Għall-finijiet ta’ dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx x
 
 "adult" tfisser persuna li tkun kisbet l-età maġġuri skont l-artikolu 188 tal-Kodiċi Ċivili:
 
-Iżda kwalunkwe minorenni li jkun kiseb il-kapaċità VULNERABBILTÀ
+Iżda kwalunkwe minorenni li jkun kiseb il-kapaċità legali qabel ma jsir tal-età skont kwalunkwe liġi fis-seħħ li tirregola l-istatus personali tiegħu għandu wkoll jitqies bħala adult għall-finijiet ta’ dan l-Att;
 
 \*L-artikoli 8, 12 u t-Taqsima IX biss daħlu fis-seħħ . Vide L-Avviż Legali 201 tal- 2026.
-
-legali qabel ma jsir tal-età skont kwalunkwe liġi fis-seħħ li tirregola l-istatus personali tiegħu għandu wkoll jitqies bħala adult għall-finijiet ta’ dan l-Att;
-
-*[KAP. 659.] 2*
 
 "adult f’sitwazzjoni ta’ vulnerabbiltà" tfisser kwalunkwe adult b’diżabilità, inkluż kwalunkwe anzjan, li minħabba ċ-ċirkostanzi speċifiċi tad-diżabilità tiegħu ma jkunx jista’ jieħu ħsieb tiegħu nnifsu jew ma jkunx jista’ jipproteġi lilu nnifsu kontra l-ħsara jew l-isfruttament, fuq medda ta’ perjodu qasir, jew aktar fit-tul;
 
@@ -77,11 +71,9 @@ legali qabel ma jsir tal-età skont kwalunkwe liġi fis-seħħ li tirregola l-is
 
 (a) ħsara fiżika,
 
-(b) ħsara psikoloġika (bħal biża’, allarm jew VULNERABBILTÀ [KAP. 659.] skonfort),
+(b) ħsara psikoloġika (bħal biża’, allarm jew skonfort),
 
 (ċ) miżapproprjazzjoni jew ġestjoni ħażina ta’ proprjetà, drittijiet jew interessi (bħal serq, frodi, approprjazzjoni indebita jew estorsjoni), u
-
-*3*
 
 (d) kondotta li tikkawża ħsara lilu nnifsu;
 
@@ -107,11 +99,7 @@ legali qabel ma jsir tal-età skont kwalunkwe liġi fis-seħħ li tirregola l-is
 
 "Ministru" tfisser il-Ministru responsabbli għad-drittijiet ta’ persuni b’diżabilità;
 
-"negliġenza" tfisser nuqqas ta’, jew l-għoti tal-kura neċessarja, għajnuna, gwida jew attenzjoni meħtieġa, li jikkawża jew x’aktarx jikkawża lill-vittma ħsara fiżika jew psikoloġika severa jew deterjorazzjoni severa fl-istatus tas- VULNERABBILTÀ
-
-saħħa mentali tagħha jew telf materjali sinifikanti lill-patrimonju tagħha;
-
-*[KAP. 659.] 4*
+"negliġenza" tfisser nuqqas ta’, jew l-għoti tal-kura neċessarja, għajnuna, gwida jew attenzjoni meħtieġa, li jikkawża jew x’aktarx jikkawża lill-vittma ħsara fiżika jew psikoloġika severa jew deterjorazzjoni severa fl-istatus tas-saħħa mentali tagħha jew telf materjali sinifikanti lill-patrimonju tagħha;
 
 "Ordni ta’ Intervent ta’ Emerġenza" tfisser ordni magħmula skont l-artikolu 26;
 
@@ -145,11 +133,9 @@ saħħa mentali tagħha jew telf materjali sinifikanti lill-patrimonju tagħha;
 
 "Reġistratur" tfisser ir-Reġistratur, Qrati u Tribunali Kriminali;
 
-"Regolament (UE) 2016/679" tfisser ir-Regolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill tas-27 ta’ VULNERABBILTÀ [KAP. 659.] April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad-Data);
+"Regolament (UE) 2016/679" tfisser ir-Regolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad-Data);
 
 "rekords tas-saħħa" tfisser ir-rekords relatati mas-saħħa fiżika jew mentali ta’ individwu li jkunu saru minn, jew f’isem professjonist tas-saħħa u tal-kura soċjali b’rabta mal-kura tal-individwu;
-
-*5*
 
 "Segretarju Permanenti" tfisser is-Segretarju Permanenti fi ħdan il-Ministeru responsabbli għad-drittijiet ta’ persuni b'diżabilità.
 
@@ -175,9 +161,7 @@ L-għanijiet ta’ dan l-Att huma:
 
 (4) Fl-eżerċizzju u t-twettiq tas-setgħat, il-funzjonijiet u d-dmirijiet delegati jew assenjati lilhom kif imsemmi aktar ’il fuq, l-uffiċjali tad-Direttur għandu jkollhom, sakemm ma jkunx speċifikat xort’ oħra, l-istess obbligi u jgawdu l-istess protezzjoni u privileġġi li huma bil-liġi imposti fuq, jew mogħtija lid-Direttur.
 
-*6     Kap. 164.*
-
-[KAP. 659.] VULNERABBILTÀ
+*    Kap. 164.*
 
 (5) Fl-eżerċizzju u t-twettiq tal-poteri, il-funzjonijiet u r-responsabbiltajiet tagħhom, id-Direttur u l-uffiċjali msemmija fis-subartikolu (2) jistgħu jitolbu l-assistenza tal-Pulizija Eżekuttiva skont l-Att dwar il-Pulizija, kull meta jidhrilhom li dan ikun meħtieġ.
 
@@ -199,9 +183,7 @@ Iżda meta ma jkunx prattikabbli li tiġi miksuba determinazzjoni tar-rieda u l-
 
 (b) jinvestiga jekk xi azzjoni meħuda fir-rigward tal-adult f’sitwazzjoni ta’ vulnerabbiltà li jkun f’riskju hijiex adegwata, filwaqt li jiżgura li l-adult jinstema’, skont l-artikolu 13, f’tali proċess;
 
-*7*
-
-VULNERABBILTÀ [KAP. 659.] (ċ) jipprovdi gwida għall-familja, persuni sinifikanti  oħra, u persuni ta’ appoġġ u assistenti personali tal-adult  f’sitwazzjoni ta’ vulnerabbiltà li jkun f’riskju, inklużi strateġiji  ta’ prevenzjoni rilevanti, konformi mal-kontenut tas-Sezzjoni A  tal-Ħames Skeda tal-Att dwar il-Konvenzjoni tal-Ġnus  Kap. 627. Magħquda dwar id-Drittijiet ta’ Persuni b’Diżabilità;
+(ċ) jipprovdi gwida għall-familja, persuni sinifikanti  oħra, u persuni ta’ appoġġ u assistenti personali tal-adult  f’sitwazzjoni ta’ vulnerabbiltà li jkun f’riskju, inklużi strateġiji  ta’ prevenzjoni rilevanti, konformi mal-kontenut tas-Sezzjoni A  tal-Ħames Skeda tal-Att dwar il-Konvenzjoni tal-Ġnus  Kap. 627. Magħquda dwar id-Drittijiet ta’ Persuni b’Diżabilità;
 
    (d) minn żmien għal żmien joħroġ linji gwida fir-  rigward ta’ dak li jista’ jikkostitwixxi ħsara sinifikanti jew   riskju ta’ ħsara sinifikanti, inklużi strateġiji ta’ prevenzjoni   rilevanti, konformi mal-kontenut tas-Sezzjoni A tal-Ħames  Skeda tal-Att dwar il-Konvenzjoni tal-Ġnus Magħquda dwar id- Kap. 627. Drittijiet ta’ Persuni b’Diżabilità;
 
@@ -223,11 +205,7 @@ Dan l-Att għandu jiġi amministrat skont il-prinċipji gwida li Prinċipji gwid
 
 Iżda d-Direttur u l-uffiċjali tiegħu għandhom, meta joffru din l-għajnuna, jipprovdu pariri adatti għall-età u sensittivi għall-ġeneru, li jirrispettaw ukoll karatteristiċi b’effett intersettorjali oħra, meta jkunu qed jindirizzaw il-vulnerabbiltà li tirriżulta minn inugwaljanzi marbuta ma’ tali karatteristiċi, inkluż vulnerabbiltà akbar ta’ adulti b’diżabilità għal vjolenza abbażi ta’ ġeneru;
 
-(b) adult li jkun jeħtieġ assistenza jew protezzjoni għandu jirċievi l-assistenza jew l-intervent protettiv l-aktar [KAP. 659.] VULNERABBILTÀ
-
-effettiv, iżda l-inqas restrittiv jew intrużiv, skont il-każ;
-
-*8*
+(b) adult li jkun jeħtieġ assistenza jew protezzjoni għandu jirċievi l-assistenza jew l-intervent protettiv l-aktar effettiv, iżda l-inqas restrittiv jew intrużiv, skont il-każ;
 
 (ċ) fir-rigward tad-dispożizzjonijiet ta’ assistenza jew intervent protettiv lil adult li jkun jeħtieġ assistenza jew protezzjoni, il-kunsiderazzjoni ewlenija għandha tkun li jiġu aċċertati r-rieda u l-preferenzi tal-adult, filwaqt li jsir kull sforz sabiex jiġu indirizzati u rrispettati d-drittijiet, il-ħtiġijiet u l-interessi tal-adult, b’mod adattat għall-età u sensittivi għall-ġeneru, b’rispett sħiħ għal karatteristiċi oħra b’effett intersettorjali inkluż l-isfond kulturali jew reliġjuż ta’ persuna:
 
@@ -251,9 +229,7 @@ Iżda meta ma jkunx prattikabbli li tiġi ottjenuta determinazzjoni tar-rieda u 
 
 \*Fis-seħħ. Vide L-Avviż Legali 201 tal-2026.
 
-*9*
-
-VULNERABBILTÀ [KAP. 659.] (2) L-informazzjoni prodotta bħala parti mill-isforzi koperti mis-subartikolu (1) għandha tkun disponibbli pubblikament, f’formati differenti aċċessibbli, u għandha tinkludi kwalunkwe gwida msemmija fl-artikolu 5(ċ) u linji gwida msemmija fl-artikolu 5(d), inklużi kwalunkwe strateġija ta’ prevenzjoni marbuta magħhom.
+(2) L-informazzjoni prodotta bħala parti mill-isforzi koperti mis-subartikolu (1) għandha tkun disponibbli pubblikament, f’formati differenti aċċessibbli, u għandha tinkludi kwalunkwe gwida msemmija fl-artikolu 5(ċ) u linji gwida msemmija fl-artikolu 5(d), inklużi kwalunkwe strateġija ta’ prevenzjoni marbuta magħhom.
 
 (3) Kwalunkwe sforz immirat sabiex jilħaq u jinvolvi lill-pubbliku inġenerali, lil diversi partijiet interessati, u lil benefiċjarji attwali u potenzjali għandhom isiru b’mod aċċessibbli, skont il-prinċipji tad-disinn universali, u jinkludu l-provvista ta’ kwalunkwe adattament raġonevoli meħtieġ.
 
@@ -271,11 +247,7 @@ Iżda kwalunkwe rapporti li tirċievi l-Aġenzija li toffri Sapport lill-Vittmi 
 
 Iżda fi kwalunkwe każ, il-Pulizija Eżekuttiva għandha wkoll tavża lid-Direttur u żżomm kuntatt mal-imsemmi Direttur għal appoġġ rilevanti fir-rigward ta’ dawn il-prosekuzzjonijiet.
 
-(4) Minkejja d-disposizzjonijiet tas-subartikolu (1), kwalunkwe persuna li, minħabba n-natura tal-impjieg professjonali jew ix-xogħol tagħha fil-kura tas-saħħa, is-servizzi soċjali, l-edukazzjoni, l-infurzar tal-liġi, il-counselling, is-servizzi residenzjali jew fi kwalunkwe qasam ieħor, fejn il-persuna tkun involuta f’xogħol ma’ adulti f’sitwazzjonijiet ta’ vulnerabbiltà, jew kwalunkwe entità li taħdem ġewwa dawn l-oqsma, ikollha raġunijiet validi sabiex temmen li adult [KAP. 659.] VULNERABBILTÀ
-
-ikun fil-bżonn ta’ assistenza jew protezzjoni, għandha tirrapporta ċ-ċirkostanzi lid-Direttur jew lill-Pulizija Eżekuttiva:
-
-*10*
+(4) Minkejja d-disposizzjonijiet tas-subartikolu (1), kwalunkwe persuna li, minħabba n-natura tal-impjieg professjonali jew ix-xogħol tagħha fil-kura tas-saħħa, is-servizzi soċjali, l-edukazzjoni, l-infurzar tal-liġi, il-counselling, is-servizzi residenzjali jew fi kwalunkwe qasam ieħor, fejn il-persuna tkun involuta f’xogħol ma’ adulti f’sitwazzjonijiet ta’ vulnerabbiltà, jew kwalunkwe entità li taħdem ġewwa dawn l-oqsma, ikollha raġunijiet validi sabiex temmen li adult ikun fil-bżonn ta’ assistenza jew protezzjoni, għandha tirrapporta ċ-ċirkostanzi lid-Direttur jew lill-Pulizija Eżekuttiva:
 
 Iżda fil-każ ta’ studenti jew apprendisti, tali responsabilità għandha tkun tal-uffiċjal illi jissorvelja b’mod dirett lil tali studenti jew apprendisti, wara li tali studenti jew apprendisti jkunu formalment innotifikaw lill-uffiċjal rilevanti illi jissorveljahom b’mod dirett, wara li jkunu ġew segwiti l-proċeduri speċifiċi preskritti f’dan ir-rigward.
 
@@ -297,11 +269,9 @@ Iżda r-reġistru għandu jinżamm b’mod kunfidenzjali u jiġi aċċessat biss
 
 (2) Id-Direttur għandu, fi żmien ħamest (5) ijiem ta’ xogħol minn meta jirċievi r-rapport, jiddetermina, abbażi tal-informazzjoni provduta, jekk hemmx raġuni suffiċjenti sabiex jemmen li l-adult f'sitwazzjoni ta’ vulnerabbiltà qiegħed isofri, jew x’aktarx jista’ jsofri ħsara sinifikanti u d-Direttur għandu jagħmel dawk l-investigazzjonijiet u assessjar li huwa jikkunsidra meħtieġa sabiex jiddetermina jekk l-adult f’sitwazzjoni ta’ vulnerabbiltà jeħtieġx assistenza u, jew protezzjoni:
 
-Iżda f’każijiet ta’ emerġenza t-terminu msemmi għandu VULNERABBILTÀ [KAP. 659.] jitqassar, f’konformità mad-dispożizzjonijiet tal-artikolu 26:
+Iżda f’każijiet ta’ emerġenza t-terminu msemmi għandu jitqassar, f’konformità mad-dispożizzjonijiet tal-artikolu 26:
 
 Iżda wkoll jekk fl-opinjoni tad-Direttur, wara li l-istess Direttur ikun ikkonsulta mal-professjonisti rilevanti tas-saħħa u tal-kura soċjali, u, jew terzi, kif meħtieġ, ma jkunx hemm raġunijiet suffiċjenti sabiex wieħed jemmen li l-adult f'sitwazzjoni ta' vulnerabbiltà qiegħed isofri, jew x’aktarx jista’ jsofri ħsara sinifikanti, id-Direttur ma għandux jipproċedi dwar ir-rapport u għandu jiddikjara fid-dettall ir-raġunijiet għal tali rifjut:
-
-*11*
 
 Iżda wkoll tali professjonisti għandhom ikollhom għarfien u, jew taħriġ dwar il-bżonnijiet u l-esperjenzi ta’ persuni b’diżabilità u, jew ta’ persuni anzjani, u dwar identitajiet soċjali differenti, inkluż il-ġeneru, l-età, l-orjentazzjoni sesswali jew l-oriġini etnika, li tali persuni jistgħu jkollhom.
 
@@ -317,13 +287,9 @@ Iżda dan it-terminu jista’, għal raġuni valida, inkluż il-ħtieġa li jir�
 
 *Kumitat Konġunt.*
 
-12.\* (1) Għandu jiġi ffurmat kumitat konġunt, illi jkun magħruf bħala l-"Kumitat Konġunt", li għandu jwettaq investigazzjonijiet skont dan l-Att, wara referenza mid-Direttur, u li [KAP. 659.] VULNERABBILTÀ
+12.\* (1) Għandu jiġi ffurmat kumitat konġunt, illi jkun magħruf bħala l-"Kumitat Konġunt", li għandu jwettaq investigazzjonijiet skont dan l-Att, wara referenza mid-Direttur, u li jassisti lid-Direttur fl-iżvilupp u t-twettiq ta’ Pjanijiet ta’ Sapport Individwalizzat, f’determinazzjonijiet dwar l-assistenza u f’reviżjonijiet rilevanti.
 
 \*Fis-seħħ. Vide L-Avviż Legali 201 tal-2026.
-
-jassisti lid-Direttur fl-iżvilupp u t-twettiq ta’ Pjanijiet ta’ Sapport Individwalizzat, f’determinazzjonijiet dwar l-assistenza u f’reviżjonijiet rilevanti.
-
-*12*
 
 (2) Il-Kumitat Konġunt għandu jkun magħmul:
 
@@ -351,9 +317,7 @@ Iżda wkoll esperti oħra jistgħu jiġu nominati mill-membri tal-Kumitat Konġu
 
 (a) il-bżonnijiet u l-esperjenzi ta’ persuni b’diżabilità u, jew ta’ persuni anzjani; u
 
-*13*
-
-VULNERABBILTÀ [KAP. 659.] (b) l-identitajiet soċjali differenti, inkluż il-ġeneru, l-età, l-orjentazzjoni sesswali jew l-oriġini etnika, li dawn il-persuni jista’ jkollhom, li jippermettu lil tali professjonisti jkunu jistgħu jidentifikaw u jindirizzaw aħjar sitwazzjonijiet ta’ vulnerabbiltà marbuta ma’ inugwaljanzi li jirriżultaw minn diversi identitajiet soċjali ta’ persuna, inkluż sitwazzjonijiet ta’ vjolenza abbażi ta’ ġeneru fuq individwi b’diżabilità.
+(b) l-identitajiet soċjali differenti, inkluż il-ġeneru, l-età, l-orjentazzjoni sesswali jew l-oriġini etnika, li dawn il-persuni jista’ jkollhom, li jippermettu lil tali professjonisti jkunu jistgħu jidentifikaw u jindirizzaw aħjar sitwazzjonijiet ta’ vulnerabbiltà marbuta ma’ inugwaljanzi li jirriżultaw minn diversi identitajiet soċjali ta’ persuna, inkluż sitwazzjonijiet ta’ vjolenza abbażi ta’ ġeneru fuq individwi b’diżabilità.
 
 (4) Il-Kumitat Konġunt għandu jkollu laqgħat regolari f’intervalli xierqa u għandu jirregola l-proċeduri tiegħu stess.
 
@@ -379,10 +343,6 @@ VULNERABBILTÀ [KAP. 659.] (b) l-identitajiet soċjali differenti, inkluż il-ġ
 
 (a) jitlob li l-adult jipparteċipa f’valutazzjoni ħolistika funzjonali u tal-ħtiġijiet, skont l-istess proċeduri stabbiliti fl-artikolu 519E tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili f’każ bħal dan, madankollu sempliċement bħala valutazzjoni deskrittiva fir-rigward tal-għoti ta’ assistenza jew protezzjoni skont dan l-Att, u mhux għal skop ta’ dijanjożi jew għal xi skopijiet oħra:
 
-*14*
-
-[KAP. 659.] VULNERABBILTÀ
-
 Iżda tali valutazzjoni għandha tiffoka fuq il-kawżi li jwasslu għal sitwazzjonijiet differenti ta’ vulnerabbiltà li persuna tista’ tkun qed tiffaċċja, sabiex tkun tista’ finalment tindirizza l-istess kawżi, mingħajr ma tagħmel assunzjonijiet dwar il-kapaċitajiet u, jew il-ħiliet funzjonali tal-persuna;
 
 (b) jintervista persuni li jista’ jkollhom informazzjoni li tkun rilevanti għall-investigazzjoni;
@@ -407,11 +367,9 @@ Iżda tali valutazzjoni għandha tiffoka fuq il-kawżi li jwasslu għal sitwazzj
 
 ### 15. Rikors.
 
-(1) Meta matul l-investigazzjoni ta’ rapport dwar adult il-Kumitat Konġunt raġonevolment iqis li jkun meħtieġ għall-fini tat- VULNERABBILTÀ [KAP. 659.] tmexxija tal-investigazzjoni li jinkiseb ordni tal-qorti skont is-subartikolu (2), id-Direttur għandu permezz ta’ rikors quddiem il-Qorti tal-Maġistrati jitlob il-ħruġ ta’ tali ordni.
+(1) Meta matul l-investigazzjoni ta’ rapport dwar adult il-Kumitat Konġunt raġonevolment iqis li jkun meħtieġ għall-fini tat-tmexxija tal-investigazzjoni li jinkiseb ordni tal-qorti skont is-subartikolu (2), id-Direttur għandu permezz ta’ rikors quddiem il-Qorti tal-Maġistrati jitlob il-ħruġ ta’ tali ordni.
 
 (2) Meta tiddetermina r-rikors ippreżentat skont is-subartikolu (1), il-Qorti tal-Maġistrati tista’ tagħmel kwalunkwe ordni li l-imsemmija Qorti tqis meħtieġ għall-finijiet tal-investigazzjoni, inkluż ordni li:
-
-*15*
 
 (a) jippermetti lill-Kumitat Konġunt aċċess għall-adult u d-dħul f’bini sabiex jiffaċilita dak l-aċċess, inkluż li jordna l-għajnuna tal-Pulizija Eżekuttiva;
 
@@ -433,11 +391,7 @@ Iżda tali valutazzjoni għandha tiffoka fuq il-kawżi li jwasslu għal sitwazzj
 
 ### 17. Kondizzjonijiet li jridu jiġu sodisfatti għall-provvista ta’ assistenza.
 
-Id-Direttur għandu jaħdem mal-Kumitat Konġunt stabbilit skont l-artikolu 12, mal-adult li jkun qed jirċievi l-assistenza, li jista’ wkoll jiġi appoġġjat mill-persuni elenkati fl-artikolu 13(3), u mal-partijiet interessati rilevanti bħal dawk imsemmija fl-artikolu 9(4), sabiex jagħmel l-arranġamenti sabiex tiġi pprovduta assistenza għal [KAP. 659.] VULNERABBILTÀ
-
-adult fejn:
-
-*16*
+Id-Direttur għandu jaħdem mal-Kumitat Konġunt stabbilit skont l-artikolu 12, mal-adult li jkun qed jirċievi l-assistenza, li jista’ wkoll jiġi appoġġjat mill-persuni elenkati fl-artikolu 13(3), u mal-partijiet interessati rilevanti bħal dawk imsemmija fl-artikolu 9(4), sabiex jagħmel l-arranġamenti sabiex tiġi pprovduta assistenza għal adult fejn:
 
 (a) il-Kumitat Konġunt ikun ikkonkluda, abbażi ta’ investigazzjoni, li l-adult ikun jeħtieġ assistenza;
 
@@ -477,11 +431,9 @@ L-assistenza tista’ tinkludi:
 
 *   Kap. 16.*
 
-Iżda d-Direttur jista’ f’kull ħin jippreżenta rikors quddiem il-Qorti Ċivili (Sezzjoni tal-Familja) skont l-artikolu 13(3) tal-Kodiċi Ċivili fejn jitlob li l-qorti tordna lil kwalunkwe persuna responsabbli VULNERABBILTÀ [KAP. 659.] għall-manteniment, ikun xi jkun il-grad, li tipprovdi l-manteniment, filwaqt li tirriżerva lil dik il-persuna d-dritt ta’ rimborż minn dawk il-persuni l-oħra illi kienu marbuta li jfornu l-manteniment skont l-imsemmija ordni.
+Iżda d-Direttur jista’ f’kull ħin jippreżenta rikors quddiem il-Qorti Ċivili (Sezzjoni tal-Familja) skont l-artikolu 13(3) tal-Kodiċi Ċivili fejn jitlob li l-qorti tordna lil kwalunkwe persuna responsabbli għall-manteniment, ikun xi jkun il-grad, li tipprovdi l-manteniment, filwaqt li tirriżerva lil dik il-persuna d-dritt ta’ rimborż minn dawk il-persuni l-oħra illi kienu marbuta li jfornu l-manteniment skont l-imsemmija ordni.
 
 ## TAQSIMA V — INTERVENT PROTETTIV
-
-*17*
 
 ### 19. Ordni ta’ Intervent Protettiv.
 
@@ -505,11 +457,7 @@ Iżda d-Direttur għandu jippreżenta mar-rikors kopja tal-investigazzjoni mwett
 
 (ċ) tidderiġi li l-adult jiġi rilokat u, jekk ikun meħtieġ, jitqiegħed taħt superviżjoni jew kura xierqa, skont kwalunkwe kondizzjonijiet stabbiliti fl-Ordni:
 
-Iżda dawn il-miżuri kollha għandhom jiġu kkoordinati mid- Direttur flimkien mal-Kumitat Konġunt, filwaqt li jiġu rispettati l-proċeduri eżistenti segwiti mill-entitajiet rappreżentati fl-imsemmi Kumitat, u bl-involviment tal-adult li jista’ wkoll jiġi appoġġjat mill- [KAP. 659.] VULNERABBILTÀ
-
-persuni elenkati fl-artikolu 13(3), u mill-partijiet interessati rilevanti bħal dawk imsemmija fl-artikolu 9(4).
-
-*18*
+Iżda dawn il-miżuri kollha għandhom jiġu kkoordinati mid- Direttur flimkien mal-Kumitat Konġunt, filwaqt li jiġu rispettati l-proċeduri eżistenti segwiti mill-entitajiet rappreżentati fl-imsemmi Kumitat, u bl-involviment tal-adult li jista’ wkoll jiġi appoġġjat mill-persuni elenkati fl-artikolu 13(3), u mill-partijiet interessati rilevanti bħal dawk imsemmija fl-artikolu 9(4).
 
 *    Kap. 16.*
 
@@ -537,9 +485,7 @@ Salv id-dispożizzjonijiet tal-artikolu 27 tal-Att dwar is- Saħħa, jew kwalunk
 
 (1) Meta d-Direttur ikollu raġunijiet validi sabiex jemmen li adult huwa jew jista’ jkun fil-bżonn ta’ assistenza jew protezzjoni u ma jkunx jista’ jasal għal ġudizzji raġonevoli fir-rigward tal-benesseri jew il-patrimonju personali tiegħu, id-Direttur jista’ jippreżenta rikors lill-Bord għas-Salvagwardja tal-Awtonomija Personali skont l-artikolu 188A tal-Kodiċi Ċivili.
 
-*19*
-
-VULNERABBILTÀ [KAP. 659.] (2) Minkejja d-dispożizzjonijiet tas-subartikolu (1), fejn, fiċ-ċirkostanzi deskritti fl-imsemmi subartikolu, id-Direttur għandu raġunijiet validi sabiex jemmen li hemm riskju konsiderevoli ta’ ħsara immedjata u serja lill-adult jew lill-patrimonju tal-adult, id-Direttur jista’ jippreżenta rikors għal, u l-Bord għas-Salvagwardja tal- Awtonomija Personali jista’ joħroġ ordni sabiex jaħtar persuna ta’ appoġġ temporanja għall-adult, filwaqt li tkun għaddejja investigazzjoni jew jittieħdu azzjonijiet oħra skont dan l-Att.
+(2) Minkejja d-dispożizzjonijiet tas-subartikolu (1), fejn, fiċ-ċirkostanzi deskritti fl-imsemmi subartikolu, id-Direttur għandu raġunijiet validi sabiex jemmen li hemm riskju konsiderevoli ta’ ħsara immedjata u serja lill-adult jew lill-patrimonju tal-adult, id-Direttur jista’ jippreżenta rikors għal, u l-Bord għas-Salvagwardja tal- Awtonomija Personali jista’ joħroġ ordni sabiex jaħtar persuna ta’ appoġġ temporanja għall-adult, filwaqt li tkun għaddejja investigazzjoni jew jittieħdu azzjonijiet oħra skont dan l-Att.
 
 (3) Ordni li jaħtar persuna ta’ appoġġ temporanja skont dan l-artikolu għandu:
 
@@ -563,10 +509,6 @@ Iżda wkoll fir-rigward tat-twettiq tar-rwol ta’ persuni ta’ appoġġ tempor
 
 (a) l-adult li għandu, jew jista’ jkun fil-bżonn ta’ protezzjoni, li għalih jirreferi r-rikors, u b’mod li jinftiehem faċilment mill-adult;
 
-*20*
-
-[KAP. 659.] VULNERABBILTÀ
-
 (b) kwalunkwe persuna maħtura bħala persuna ta’ appoġġ għall-finijiet tal-eżerċizzju tal-awtonomija personali ta’ dak l-adult;
 
 (ċ) kwalunkwe persuna, minbarra l-adult, li hija s-suġġett tar-rikors.
@@ -587,11 +529,9 @@ Fi kwalunkwe rikors għall-ħruġ ta’ Ordni ta’ Intervent Protettiv id-Diret
 
 (b) il-protezzjoni adegwata x’aktarx ma tistax tintlaħaq ħlief b’Ordni; u
 
-(ċ) l-intervent protettiv propost huwa l-inqas intrużiv jew restrittiv mir-rimedji prattikabbli disponibbli, u li fl-għoti ta’ tali intervent ta’ protezzjoni, id-Direttur jaċċerta r-rieda u l-preferenzi tal-adult f’sitwazzjoni ta’ vulnerabbiltà li jkun f’riskju u jirrispetta d-drittijiet tal-adult f’sitwazzjoni ta’ vulnerabbiltà li jkun f’riskju, filwaqt li jaġixxi b’mod adattat VULNERABBILTÀ [KAP. 659.] għall-età u sensittiv għall-ġeneru, b’rispett sħiħ għal karatteristiċi oħra b’effett intersettorjali inkluż l-isfond kulturali jew reliġjuż ta’ persuna:
+(ċ) l-intervent protettiv propost huwa l-inqas intrużiv jew restrittiv mir-rimedji prattikabbli disponibbli, u li fl-għoti ta’ tali intervent ta’ protezzjoni, id-Direttur jaċċerta r-rieda u l-preferenzi tal-adult f’sitwazzjoni ta’ vulnerabbiltà li jkun f’riskju u jirrispetta d-drittijiet tal-adult f’sitwazzjoni ta’ vulnerabbiltà li jkun f’riskju, filwaqt li jaġixxi b’mod adattat għall-età u sensittiv għall-ġeneru, b’rispett sħiħ għal karatteristiċi oħra b’effett intersettorjali inkluż l-isfond kulturali jew reliġjuż ta’ persuna:
 
 Iżda meta ma jkunx prattikabbli li tinkiseb determinazzjoni tar-rieda u l-preferenzi tal-adult, id-Direttur għandu jagħmel l-aħjar interpretazzjoni ta’ tali rieda u preferenzi, billi jieħu wkoll kont tal-istqarrijiet preċedenti, il-valuri, it-twemmin u l-istorja tal-ħajja tal-adult.
-
-*21*
 
 ### 25. Limitu ta’ żmien, reviżjoni u appelli.
 
@@ -615,11 +555,7 @@ Iżda sakemm tali drittijiet ikunu stabbiliti permezz ta’ regolamenti, għandh
 
 *Kap. 12.*
 
-(6) Il-bord stabbilit skont l-artikolu 29 tal-Kodiċi ta’ [KAP. 659.] VULNERABBILTÀ
-
-Organizzazzjoni u Proċedura Ċivili jista’ jagħmel regoli li jirregolaw appelli lill-Qorti tal-Appell (Kompetenza Inferjuri) skont is-subartikolu (4).
-
-*22*
+(6) Il-bord stabbilit skont l-artikolu 29 tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili jista’ jagħmel regoli li jirregolaw appelli lill-Qorti tal-Appell (Kompetenza Inferjuri) skont is-subartikolu (4).
 
 ## TAQSIMA VI — INTERVENT TA’ EMERĠENZA
 
@@ -647,9 +583,7 @@ Id-Direttur għandu jkompli jinvolvi lill-adult li jkun fil-bżonn ta’, u li j
 
 (a) mill-Kumitat Konġunt;
 
-*23*
-
-VULNERABBILTÀ [KAP. 659.] (b) bl-assistenza ta’ kwalunkwe professjonisti tas-saħħa u l-kura soċjali jew aktar li għandhom l-esperjenza elenkati fl-artikolu 12(3);
+(b) bl-assistenza ta’ kwalunkwe professjonisti tas-saħħa u l-kura soċjali jew aktar li għandhom l-esperjenza elenkati fl-artikolu 12(3);
 
 (ċ) bl-involviment tal-adult kopert mill-miżuri inkwistjoni, li jista’ wkoll jiġi appoġġjat mill-persuni elenkati fl-artikolu 13(3);
 
@@ -674,10 +608,6 @@ Iżda f’każ ta’ azzjoni miġjuba minn adult li jkun inkapaċi, taħt xi dis
 ### 30. Avviż.
 
 Rikors ippreżentat skont l-artikolu 29 għandu jiġi notifikat lil kull persuna direttament involuta jew affettwata, inkluż id-Direttur li jkollu d-dritt li jwieġeb għar-rikors fi żmien ħmistax (15)-il jum min-notifika tar-rikors.
-
-*24*
-
-[KAP. 659.] VULNERABBILTÀ
 
 ## TAQSIMA VIII — ĠENERALI
 
@@ -713,9 +643,9 @@ Kwalunkwe persuna li:
 
 tkun ħatja ta’ reat u għandha, meta tinstab ħatja, teħel multa ta’ mhux aktar minn għaxart elef euro (€10,000), jew piena ta’ priġunerija ta’ mhux iżjed minn sitt (6) xhur, jew dik il-multa u l-priġunerija flimkien.
 
-*25*
+### 34.
 
-VULNERABBILTÀ [KAP. 659.] 34. Id-dispożizzjonijiet ta’ dan l-Att ma għandhomx Obbligi taħt Atti jippreġudikaw jew jinftiehmu b’mod li jillimitaw, jemendaw, iħassru oħra. 
+Id-dispożizzjonijiet ta’ dan l-Att ma għandhomx Obbligi taħt Atti jippreġudikaw jew jinftiehmu b’mod li jillimitaw, jemendaw, iħassru oħra. 
 
 jew xort’oħra jbiddlu xi dispożizzjoni ta’ atti u regolamenti oħra 
 
@@ -789,10 +719,6 @@ finijiet ta’ dan l-Att.
 
 \*Fis-seħħ. Vide L-Avviż Legali 201 tal-2026.
 
-*26*
-
-[KAP. 659.] VULNERABBILTÀ
-
 (3) Sabiex jiġi żgurat u jkun jista’ jintwera li l-ipproċessar tad-data jsir f'konformità mad-dispożizzjonijiet tar-Regolament (UE) 2016/679, il-kontrollur għandu jimplimenta l-politiki adatti dwar il-protezzjoni tad-data, liema politiki għandhom jiġu perjodikament riveduti u aġġornati fejn meħtieġ.
 
 (4) L-aċċess għal kwalunkwe data personali, inklużi kategoriji speċjali ta’ data personali pproċessata għall-finijiet ta’ dan l-Att, għandu jkun riżervat esklussivament għall-persunal tal-kontrollur kif debitament awtorizzat. L-aċċess għandu jkun ristrett sal-limitu meħtieġ għat-twettiq tal-funzjonijiet tad-Direttur skont l-għanijiet tal- Att, u għal dak li huwa meħtieġ u proporzjonat għall-għanijiet fil-mira ta’ dan l-Att.
@@ -809,11 +735,9 @@ finijiet ta’ dan l-Att.
 
 (5) Il-kontrollur għandu japplika r-restrizzjonijiet imsemmija fis-subartikolu (3) sakemm ir-raġunijiet li jiġġustifikawhom jibqgħu applikabbli, wara test tan-neċessità u tal-proporzjonalità. Ir-raġunijiet li jiġġustifikaw ir-restrizzjonijiet għandhom jiġu dokumentati u jitqiegħdu għad-dispożizzjoni tal-Kummissarju għall-Informazzjoni u l-Protezzjoni tad-Data meta u kif meħtieġ.
 
-(6) Meta r-raġunijiet għar-restrizzjoni ma jibqgħux japplikaw, il-kontrollur għandu jneħħi r-restrizzjoni u jinforma lis-suġġett tad-data kkonċernat skont il-każ u jikkonforma mad-drittijiet u l-obbligi previsti fl-Artikoli 14 sa 20 u l-Artikolu 34 tar-Regolament (UE) 2016/ VULNERABBILTÀ [KAP. 659.] 679.
+(6) Meta r-raġunijiet għar-restrizzjoni ma jibqgħux japplikaw, il-kontrollur għandu jneħħi r-restrizzjoni u jinforma lis-suġġett tad-data kkonċernat skont il-każ u jikkonforma mad-drittijiet u l-obbligi previsti fl-Artikoli 14 sa 20 u l-Artikolu 34 tar-Regolament (UE) 2016/ 679.
 
 (7) Il-kontrollur għandu jinforma lis-suġġetti tad-data skont il-każ dwar l-eżitu ta’ tali reviżjoni.
-
-*27*
 
 ## TAQSIMA X — KONTROLLI TAL-KARATTRU U REĠISTRU GĦALL- — PROTEZZJONI TA’ ADULTI F’SITWAZZJONIJIET TA’
 
@@ -865,9 +789,7 @@ finijiet ta’ dan l-Att.
 
 (x) is-Sub-titoli VIII sa XI tat-Titolu VIII tat- Taqsima II tal-Ewwel Ktieb tal-Kodiċi Kriminali;
 
-*28  Kap. 9.*
-
-[KAP. 659.] VULNERABBILTÀ
+* Kap. 9.*
 
 (xi) it-Titolu IX tat-Taqsima II tal-Ewwel Ktieb tal-Kodiċi Kriminali;
 
@@ -909,11 +831,9 @@ Iżda wkoll fid-data tad-dħul fis-seħħ ta’ dan l-artikolu, l-individwi koll
 
 (iii) l-artikoli 82A sa 82E tat-Titolu II tat- Taqsima II tal-Ewwel Ktieb tal-Kodiċi Kriminali;
 
-*29*
-
-VULNERABBILTÀ [KAP. 659.] (iv) it-Titolu V tat-Taqsima II tal-Ewwel Ktieb  tal-Kodiċi Kriminali;
-
 *Kap. 9.*
+
+(iv) it-Titolu V tat-Taqsima II tal-Ewwel Ktieb  tal-Kodiċi Kriminali;
 
 * Kap. 9.*
 
@@ -963,11 +883,7 @@ VULNERABBILTÀ [KAP. 659.] (iv) it-Titolu V tat-Taqsima II tal-Ewwel Ktieb  t
 
 Iżda illi l-ebda kopji oriġinali ta’ dik id-dokumentazzjoni ma għandhom isiru jew jinżammu mid- Direttur, wara li jkun eżamina dik id-dokumentazzjoni:
 
-Iżda wkoll illi fid-data tad-dħul fis-seħħ ta’ dan l-artikolu l-individwi kollha li jirreferi għalihom dan is-subartikolu, u li jkunu diġà hekk ingaġġati f’xogħol għal rashom f’dik id-data, għandhom, fi żmien disa’ (9) xhur minn tali data, ikunu meħtieġa li jikkonformaw mal-obbligu stabbilit [KAP. 659.] VULNERABBILTÀ
-
-f’dan is-subartikolu.
-
-*30*
+Iżda wkoll illi fid-data tad-dħul fis-seħħ ta’ dan l-artikolu l-individwi kollha li jirreferi għalihom dan is-subartikolu, u li jkunu diġà hekk ingaġġati f’xogħol għal rashom f’dik id-data, għandhom, fi żmien disa’ (9) xhur minn tali data, ikunu meħtieġa li jikkonformaw mal-obbligu stabbilit f’dan is-subartikolu.
 
 (3) Wara li jkun aċċerta ruħu li l-individwu li jagħmel it-talba, skont is-subartikoli (1) jew (2), ma jkunx instab ħati ta’ kwalunkwe wieħed mir-reati elenkati f’dawk is-subartikoli, id-Direttur għandu jipproċedi bil-ħruġ ta’ ċertifikat ta’ approvazzjoni fir-rigward ta’ dak l-individwu skont dan l-artikolu, wara l-ħlas tad-dritt indikat. Id-Direttur għandu wkoll jittrażmetti kopja ta’ dak iċ-ċertifikat lill-persuna jew korp ġuridiku li kienu jew ikunu ser jingaġġaw lill-impjegat jew voluntier prospettiv skont is-subartikolu (1), kif ukoll lir-Reġistratur:
 
@@ -981,9 +897,7 @@ Iżda wkoll il-Kummissarju għal Organizzazzjonijiet Volontarji, bis-saħħa tas
 
 (4) Kwalunkwe persuna li prospettivament jew li preżentament tirċievi servizzi ta’ persuni li jaħdmu għal rashom imsemmija fis-subartikolu (2), li jkunu provduti minn kwalunkwe persuna msemmija f’dak is-subartikolu, tista’, fi kwalunkwe waqt, titlob li d-Direttur jipprovdilha kopja taċ-ċertifikat maħruġ skont is-subartikolu (3), fir-rigward ta’ kwalunkwe persuna li tipprovdi xi servizzi ta’ persuna li taħdem għal rasha msemmija fis-subartikolu (2):
 
-*31*
-
-VULNERABBILTÀ [KAP. 659.] Iżda l-provvista ta’ kwalunkwe tali servizzi minn kwalunkwe persuni li jaħdmu għal rashom mingħajr ma qabel ikunu kisbu tali ċertifikat għandu jikkostitwixxi reat, u kwalunkwe tali persuna għandha, meta tinsab ħatja, teħel il-piena ta’ priġunerija minn tliet (3) xhur sa erba’ (4) snin jew multa ta’ mhux anqas minn elfejn u ħames mitt euro (€2,500) u mhux iżjed minn ħamsin elf euro (€50,000) jew dik il-multa u priġunerija flimkien:
+Iżda l-provvista ta’ kwalunkwe tali servizzi minn kwalunkwe persuni li jaħdmu għal rashom mingħajr ma qabel ikunu kisbu tali ċertifikat għandu jikkostitwixxi reat, u kwalunkwe tali persuna għandha, meta tinsab ħatja, teħel il-piena ta’ priġunerija minn tliet (3) xhur sa erba’ (4) snin jew multa ta’ mhux anqas minn elfejn u ħames mitt euro (€2,500) u mhux iżjed minn ħamsin elf euro (€50,000) jew dik il-multa u priġunerija flimkien:
 
 *   Kap. 492.   Kap. 630.*
 
@@ -1025,9 +939,7 @@ Iżda wkoll il-Kummissarju għall-Organizzazzjonijiet Volontarji, bis-saħħa ta
 
 (viii) is-Sub-titoli I sa VI tat-Titolu VIII tat- Taqsima II tal-Ewwel Ktieb tal-Kodiċi Kriminali;
 
-*32   Kap. 9.*
-
-[KAP. 659.] VULNERABBILTÀ
+*  Kap. 9.*
 
 (ix) l-artikoli 244 u 244A tas-Sub-titolu VII tat-Titolu VIII tat-Taqsima II tal-Ewwel Ktieb tal-Kodiċi Kriminali;
 
@@ -1069,9 +981,7 @@ Iżda wkoll il-Kummissarju għall-Organizzazzjonijiet Volontarji, bis-saħħa ta
 
 (d) l-indirizz tal-post ta’ residenza tagħha fid-data ta’ meta instabet ħatja;
 
-*33*
-
-VULNERABBILTÀ [KAP. 659.] (e) l-indirizz ta’ kwalunkwe fond ieħor f’Malta fejn matul il-proċedimenti tal-qorti rilevanti hija indikat li tirrisjedi jew toqgħod regolarment fih.
+(e) l-indirizz ta’ kwalunkwe fond ieħor f’Malta fejn matul il-proċedimenti tal-qorti rilevanti hija indikat li tirrisjedi jew toqgħod regolarment fih.
 
 (4) Ir-Reġistratur għandu jkompli l-monitoraġġ ta’ kwalunkwe persuna msemmija fis-subartikolu preċedenti u għandu wkoll jaġġorna r-Reġistru fi żmien tlett (3) ijiem f’każijiet fejn dik il-persuna:
 
@@ -1087,11 +997,7 @@ VULNERABBILTÀ [KAP. 659.] (e) l-indirizz ta’ kwalunkwe fond ieħor f’Malta 
 
 *            Kap. 492.  Kap. 630.*
 
-Iżda meta ċertifikat jiġi kkanċellat fir-rigward ta’ impjegat jew voluntier ingaġġat ma’ organizzazzjoni volontarja reġistrata jew ma’ organizzazzjoni ta’ intrapriża soċjali rreġistrata, ir-Reġistratur għandu javża wkoll lill-Kummissarju għal Organizzazzjonijiet Volontarji jew lir-Regolatur ta’ Organizzazzjonijiet ta’ Intrapriża Soċjali b’tali kanċellazzjoni. Ir-Reġistratur għandu wkoll jipprovdi dik l-informazzjoni li tkun strettament meħtieġa fil-każ ta’ kwalunkwe investigazzjoni sussegwenti li tista’ titwettaq mill-imsemmi Kummissarju skont l-artikolu 34 tal-Att dwar Organizzazzjonijiet Volontarji, jew mill-imsemmi Regolatur skont l-artikolu 33 tal-Att dwar l-Intrapriża Soċjali, li tkun rispettivament tinvolvi organizzazzjoni volontarja jew organizzazzjoni ta’ intrapriża soċjali li qabel kienet tingaġġa lill-persuna li fir-rigward tagħha tali kanċellazzjoni tkun ġiet effettwata, jew ta’ kwalunkwe persuna li qabel kienet tipprovdi kwalunkwe servizzi ta’ persuna li taħdem għal rasha lil organizzazzjoni volontarja jew organizzazzjoni ta’ intrapriża [KAP. 659.] VULNERABBILTÀ
-
-soċjali rispettivament, u li fir-rigward tagħha jkun ġie kkanċellat ċertifikat bl-istess mod:
-
-*34*
+Iżda meta ċertifikat jiġi kkanċellat fir-rigward ta’ impjegat jew voluntier ingaġġat ma’ organizzazzjoni volontarja reġistrata jew ma’ organizzazzjoni ta’ intrapriża soċjali rreġistrata, ir-Reġistratur għandu javża wkoll lill-Kummissarju għal Organizzazzjonijiet Volontarji jew lir-Regolatur ta’ Organizzazzjonijiet ta’ Intrapriża Soċjali b’tali kanċellazzjoni. Ir-Reġistratur għandu wkoll jipprovdi dik l-informazzjoni li tkun strettament meħtieġa fil-każ ta’ kwalunkwe investigazzjoni sussegwenti li tista’ titwettaq mill-imsemmi Kummissarju skont l-artikolu 34 tal-Att dwar Organizzazzjonijiet Volontarji, jew mill-imsemmi Regolatur skont l-artikolu 33 tal-Att dwar l-Intrapriża Soċjali, li tkun rispettivament tinvolvi organizzazzjoni volontarja jew organizzazzjoni ta’ intrapriża soċjali li qabel kienet tingaġġa lill-persuna li fir-rigward tagħha tali kanċellazzjoni tkun ġiet effettwata, jew ta’ kwalunkwe persuna li qabel kienet tipprovdi kwalunkwe servizzi ta’ persuna li taħdem għal rasha lil organizzazzjoni volontarja jew organizzazzjoni ta’ intrapriża soċjali rispettivament, u li fir-rigward tagħha jkun ġie kkanċellat ċertifikat bl-istess mod:
 
 Iżda wkoll in-nuqqas minn kwalunkwe tali individwu jew minn kwalunkwe persuna f’korp ġuridiku, li taġixxi bħala min iħaddem jew li tkun responsabbli għall-ingaġġ ta’ voluntiera, li tipproċedi b’tali terminazzjoni, għandu jikkostitwixxi reat, u meta kwalunkwe tali individwu jew persuna jinsabu ħatja għandhom jeħlu l-piena ta’ priġunerija minn tliet (3) xhur sa erba’ (4) snin jew multa ta’ mhux anqas minn elfejn u ħames mitt euro (€2,500) u mhux aktar minn ħamsin elf euro (€50,000) jew tali multa u priġunerija flimkien:
 
@@ -1108,10 +1014,6 @@ Iżda wkoll id-Direttur jista’, fi kwalunkwe waqt, jivverifika mas-servizzi ta
 ### 40. Poteri tal-Ministru li jagħmel regolamenti.
 
 Il-Ministru jista’ jagħmel regolamenti sabiex jingħata effett aħjar lid-dispożizzjonijiet ta’ dan l-Att, u għall-infurzar tagħhom u, mingħajr preġudizzju għall-ġeneralità ta’ dak hawn fuq stabbilit, jista’, b’dawk ir-regolamenti, jipprovdi:
-
-*35*
-
-VULNERABBILTÀ [KAP. 659.]
 
 (a) għal kwalunkwe kwistjoni konsegwenzjali,
 
@@ -1163,13 +1065,11 @@ Kap. 659.
 
 * *
 
-Iżda l-eżerċizzju ta’ dawn il-funzjonijiet u s-setgħat Kap. 659. skont l-Att dwar il-Protezzjoni ta’ Adulti f’Sitwazzjonijiet ta’ Vulnerabbiltà għandu jinkludi l-preżentazzjoni ta’ kwalunkwe rikors quddiem il-Qorti tal-Maġistrati jew lill-Bord għas- Salvagwardja tal-Awtonomija Personali skont dan l-imsemmi Att. [KAP. 659.] VULNERABBILTÀ
+Iżda l-eżerċizzju ta’ dawn il-funzjonijiet u s-setgħat Kap. 659. skont l-Att dwar il-Protezzjoni ta’ Adulti f’Sitwazzjonijiet ta’ Vulnerabbiltà għandu jinkludi l-preżentazzjoni ta’ kwalunkwe rikors quddiem il-Qorti tal-Maġistrati jew lill-Bord għas- Salvagwardja tal-Awtonomija Personali skont dan l-imsemmi Att.
 
 *        Kap. 659.*
 
 (3) Id-Direttur għandu, fis-sitwazzjonijiet eċċezzjonali stipulati fl-Artikolu 11 tal-Konvenzjoni, joħroġ jew jitlob il-ħruġ ta’ miżuri ta’ natura temporanja għall-protezzjoni tal-persuna ta’ adult li għalih jirreferi l-Artikolu 11 tal-Konvenzjoni, fit-termini tal-Att dwar il-Protezzjoni ta’ Adulti f’Sitwazzjonijiet ta’ Vulnerabbiltà.";
-
-*36*
 
 (b) is-subartikolu (2) tal-artikolu 6 tiegħu għandu jiġi emendat kif ġej:
 
@@ -1187,7 +1087,7 @@ Iżda meta tali rikors jiġi ppreżentat għandu jiġi wkoll notifikat lid-Diret
 
 "Iżda f’każ ta’ parteċipazzjoni fi proċeduri skont dan l-artikolu minn persuna li tkun inkapaċi, taħt xi dispożizzjoni ta’ liġi, li tħarrek jew tiġi mħarrka, tali parteċipazzjoni tkun tista’ tokkorri xorta waħda minn tali persuna minkejja dik l-inkapaċità, u l-persuna għandha tingħata wkoll il-miżuri rilevanti disponibbli li jiżguraw l-aċċessibilità u l-akkomodazzjoni raġonevoli.";
 
-(ċ) l-artikolu 7 tiegħu għandu jiġi sostitwit bl- VULNERABBILTÀ [KAP. 659.] 37 artikolu ġdid li ġej:
+(ċ) l-artikolu 7 tiegħu għandu jiġi sostitwit bl-artikolu ġdid li ġej:
 
 ### 7. "Reġistrazzjoni ta’ deċiżjonijiet.
 

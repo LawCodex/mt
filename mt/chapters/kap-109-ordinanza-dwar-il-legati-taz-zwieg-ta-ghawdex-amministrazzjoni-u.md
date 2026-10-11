@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinanza dwar il-Legati taż-Żwieġ ta' Għawdex (Amministrazzjoni u Għażla) (Cap. 109)
 
-LEGATI TAŻ-ŻWIEĠ TA’ GĦAWDEX
-
-(AMMINISTRAZZJONI U GĦAŻLA) [KAP. 109.
-
 **KAPITOLU 109**
 
 **ORDINANZA DWAR IL-LEGATI TAŻ-ŻWIEĠ TA’**

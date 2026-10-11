@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Parteċipazzjoni u Garanziji taħt il-Faċilità għall-Istabbiltà Finanzjarja Ewropea (Cap. 505)
 
-*1*
-
-GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505.
-
 **KAPITOLU 505**
 
 **ATT DWAR PARTEĊIPAZZJONI U GARANZIJI**
@@ -69,11 +65,7 @@ kif approvat mill-Kamra tad-Deputati.
 
 Iżda il-garanzija maħruġa mill-Gvern ta’ Malta m’għandhiex tkun iżjed mill-ammont totali ta’ 704.33 miljun Euro.
 
-(2) Kull garanzija maħruġa mill-Gvern ta’ Malta għal strumenti finanzjarji jew arranġamenti finanzjarji maħruġa mill-Faċilità għall-Istabbiltà Finanzjarja Ewropea lil hinn mill-għan speċifikat taħt is-subartikolu (1) tista’ ssir biss b’dak il-mod u għal dak il-għan kif l-Kamra tad-Deputati tista’ b’riżoluzzjoni tistabbilixxi.
-
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 3**
-
-L-EWWEL SKEDA Miżjud:
+(2) Kull garanzija maħruġa mill-Gvern ta’ Malta għal strumenti finanzjarji jew arranġamenti finanzjarji maħruġa mill-Faċilità għall-Istabbiltà Finanzjarja Ewropea lil hinn mill-għan speċifikat taħt is-subartikolu (1) tista’ ssir biss b’dak il-mod u għal dak il-għan kif l-Kamra tad-Deputati tista’ b’riżoluzzjoni tistabbilixxi. L-EWWEL SKEDA Miżjud:
 
 XVIII. 2011.4.
 
@@ -155,7 +147,7 @@ Now, therefore, the Parties have agreed as follows:
 
 (1) This Agreement (with the exception of the obligation of euro-area Member States to issue Guarantees under this Agreement) shall, upon at least five (5) euro-area Member States comprising at least two-thirds (2/3) of the total guarantee commitments set out in Annex 1 (the "Total Guarantee Commitments") providing written confirmation substantially in the form of Annex 3 to EFSF that they have concluded all procedures necessary under their respective national laws to ensure that their obligations under this Agreement shall come into immediate force and effect (a "Commitment Confirmation"), enter into force and become binding between EFSF and the euro-area Member Sates providing such Commitment Confirmations.
 
-(2) The obligation of euro-area Member States to issue Guarantees under this Agreement shall enter into force and become binding between EFSF and the euro- GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 5 area Member States which have provided Commitment Confirmations only when Commitment Confirmations have been received by EFSF from euro-area Member States whose Guarantee Commitments represent in aggregate ninety per cent (90%) or more of the Total Guarantee Commitments. Any euro-area Member State which applies for stability support from the euro-area Member States or which benefits from financial support under a similar programme or which is already a Stepping- Out Guarantor shall be excluded in computing whether this ninety per cent (90%) threshold of the Total Guarantee Commitments is satisfied.
+(2) The obligation of euro-area Member States to issue Guarantees under this Agreement shall enter into force and become binding between EFSF and the euro-area Member States which have provided Commitment Confirmations only when Commitment Confirmations have been received by EFSF from euro-area Member States whose Guarantee Commitments represent in aggregate ninety per cent (90%) or more of the Total Guarantee Commitments. Any euro-area Member State which applies for stability support from the euro-area Member States or which benefits from financial support under a similar programme or which is already a Stepping- Out Guarantor shall be excluded in computing whether this ninety per cent (90%) threshold of the Total Guarantee Commitments is satisfied.
 
 (3) This Agreement and the obligation to provide Guarantees in accordance with the terms of this Agreement shall enter into force and become binding on any remaining euro-area Member States (which have not provided their Commitment Confirmations at the time the Agreement or the obligation to provide Guarantees comes into force pursuant to Article 1(1) or 1(2)) at the time when such euro-area Member States provide their Commitment Confirmation to EFSF copies of which should be addressed to the Commission.
 
@@ -167,7 +159,7 @@ approval by all of them participating in the relevant votes of Guarantors.
 
 (2) In respect of each Loan Facility Agreement and the Loans to be made thereunder, the euro-area Member States agree that EFSF (in consultation with the Eurogroup Working Group) shall be authorised to structure and negotiate the terms on which EFSF may issue or enter into Funding Instruments on a stand-alone basis or pursuant to a debt issuance programme or programmes or facility (each an "EFSF Programme(s)") to finance the making of Loans to Borrowers. So long as market conditions permit and save as otherwise stated in this Agreement, such Funding Instruments shall have substantially the same financial profile as the related Loans (provided that (x) for operational reasons there will need to be delays between issue dates and payment dates to facilitate the transfers of funds and calling Guarantees and (y) notwithstanding the liability of each Guarantor to pay any amounts of interest and principal due but unpaid under the Funding Instruments, the recourse of investors against EFSF under the Funding Instruments shall be limited to the assets of EFSF including, in particular, the amounts it recovers in respect of the Loans. The interest rate which will apply to each Loan is intended to cover the cost of funding incurred by EFSF and shall include a margin (the "Margin") which shall provide remuneration for the Guarantors. The Service Fee may be used to cover the operational costs of EFSF and any costs and fees directly related to the issuance of Funding Instruments which have not otherwise been charged to the relevant Borrower.
 
-(3) In respect of Funding Instruments issued or entered into under an EFSF Programme or on a stand-alone basis, each Guarantor shall be required to issue an irrevocable and unconditional Guarantee in a form to be approved by the Guarantors for the purpose of this Agreement and in an amount equal to the product of (a) the percentage set out next to each Guarantor's name in the third column (the "Contribution Key") in Annex 2 (as such percentage is adjusted from time to time in accordance with the terms of this Agreement and/or to reflect any euro-area Member State not yet having provided its Commitment Confirmation during the implementation period pursuant to Article 1 and notified in writing by EFSF to the Guarantors) (the "Adjusted Contribution Key Percentage"), (b) 120%, and (c) the obligations of EFSF (in respect of principal, interest or other amounts due) in respect of the Funding Instruments issued or entered into by EFSF on a stand-alone basis or under an EFSF Programme. If EFSF issues Funding Instruments under an EFSF Programme, each Guarantor shall issue its Guarantee to guarantee all Funding Instruments issued or entered into pursuant to the relevant EFSF Programme. The Offering Materials or contractual documentation for each issue or contracting of Funding Instruments made under an EFSF Programme shall confirm which Guarantors have Guarantees which cover the relevant Funding Instruments or issue or series thereof. EFSF may also request the Guarantors to issue Guarantees under this Agreement for other purposes which are closely-linked to an issue of Funding Instruments and which facilitates the obtaining and maintenance of a high quality rating for Funding Instruments issued by EFSF and efficient funding by EFSF. The decision to issue Guarantees for such other purposes in connection with an EFSF Programme or a stand-alone issue of or entry into Funding Instruments shall be taken by a unanimous decision of the Guarantors. No Guarantor shall be required to issue Guarantees which would result in it having a Guarantee Exposure in excess of its aggregate guarantee commitment (its "Guarantee Commitment") set out alongside its name in Annex 1. For the purposes of this Agreement a Guarantor's "Guarantee Exposure" is equal to the aggregate of (i) the amount of Guarantees which it has issued but which are undrawn and (ii) the amount it has paid and not been reimbursed under Guarantees it has issued under this Agreement. Accordingly, if an outstanding, undrawn Guarantee expires or if an amount drawn under a GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 7 Guarantee is reimbursed this will reduce a Guarantor’s Guarantee Exposure and replenish its capacity to issue Guarantees under this Agreement.
+(3) In respect of Funding Instruments issued or entered into under an EFSF Programme or on a stand-alone basis, each Guarantor shall be required to issue an irrevocable and unconditional Guarantee in a form to be approved by the Guarantors for the purpose of this Agreement and in an amount equal to the product of (a) the percentage set out next to each Guarantor's name in the third column (the "Contribution Key") in Annex 2 (as such percentage is adjusted from time to time in accordance with the terms of this Agreement and/or to reflect any euro-area Member State not yet having provided its Commitment Confirmation during the implementation period pursuant to Article 1 and notified in writing by EFSF to the Guarantors) (the "Adjusted Contribution Key Percentage"), (b) 120%, and (c) the obligations of EFSF (in respect of principal, interest or other amounts due) in respect of the Funding Instruments issued or entered into by EFSF on a stand-alone basis or under an EFSF Programme. If EFSF issues Funding Instruments under an EFSF Programme, each Guarantor shall issue its Guarantee to guarantee all Funding Instruments issued or entered into pursuant to the relevant EFSF Programme. The Offering Materials or contractual documentation for each issue or contracting of Funding Instruments made under an EFSF Programme shall confirm which Guarantors have Guarantees which cover the relevant Funding Instruments or issue or series thereof. EFSF may also request the Guarantors to issue Guarantees under this Agreement for other purposes which are closely-linked to an issue of Funding Instruments and which facilitates the obtaining and maintenance of a high quality rating for Funding Instruments issued by EFSF and efficient funding by EFSF. The decision to issue Guarantees for such other purposes in connection with an EFSF Programme or a stand-alone issue of or entry into Funding Instruments shall be taken by a unanimous decision of the Guarantors. No Guarantor shall be required to issue Guarantees which would result in it having a Guarantee Exposure in excess of its aggregate guarantee commitment (its "Guarantee Commitment") set out alongside its name in Annex 1. For the purposes of this Agreement a Guarantor's "Guarantee Exposure" is equal to the aggregate of (i) the amount of Guarantees which it has issued but which are undrawn and (ii) the amount it has paid and not been reimbursed under Guarantees it has issued under this Agreement. Accordingly, if an outstanding, undrawn Guarantee expires or if an amount drawn under a Guarantee is reimbursed this will reduce a Guarantor’s Guarantee Exposure and replenish its capacity to issue Guarantees under this Agreement.
 
 (4) (a) The Guarantees shall irrevocably and unconditionally guarantee the due payment of scheduled payments of interest and principal due on Funding Instruments issued by EFSF. In the case of EFSF Programmes, the Guarantors shall issue Guarantees which guarantee all series of Funding Instruments issued from time to time under the relevant EFSF Programme. The Offering Materials and/or contractual documentation of each series shall confirm which Guarantees cover that series, in particular, if a Guarantor under the relevant EFSF Programme has subsequently become a Stepping-out Guarantor and no longer guarantees further issues or series under such EFSF Programme.
 
@@ -201,7 +193,7 @@ Chairman) to accept that the Guarantor in question does not participate in issui
 
 \3. PREPARATION AND AUTHORISATION OF LOAN DISBURSEMENTS
 
-(1) Before each disbursement of a Loan under a Loan Facility Agreement, the GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 9 Commission will, in liaison with the ECB, present a report to the Eurogroup Working Group analysing compliance by the relevant Borrower with the terms and the conditions set out in the MoU and in the Council Decision (if any) relating to it. The Guarantors will evaluate such compliance and will unanimously decide on whether to permit disbursement of the relevant Loan. The first Loan to be made available to a Borrower under a Loan Facility Agreement is released following the initial signature of the relevant MoU and will not be the object of such a report.
+(1) Before each disbursement of a Loan under a Loan Facility Agreement, the Commission will, in liaison with the ECB, present a report to the Eurogroup Working Group analysing compliance by the relevant Borrower with the terms and the conditions set out in the MoU and in the Council Decision (if any) relating to it. The Guarantors will evaluate such compliance and will unanimously decide on whether to permit disbursement of the relevant Loan. The first Loan to be made available to a Borrower under a Loan Facility Agreement is released following the initial signature of the relevant MoU and will not be the object of such a report.
 
 (2) Following a request for funds (a "Request for Funds") from a Borrower complying with the terms of the relevant Loan Facility Agreement and requesting a Loan thereunder, the Guarantors shall (other than in respect of the first Loan) consider the report of the Commission regarding the Borrower’s compliance with the MoU and the relevant Council decision (if any). If, acting unanimously, the Guarantors consider that the Borrower has complied with the conditions to drawdown under the Loan Facility Agreement and are satisfied with its compliance with the terms and conditions of the MoU then the Eurogroup Working Group Chairman shall request in writing EFSF to make a proposal of detailed terms of the Loan it would recommend to make to the Borrower within the parameters of the Loan Facility Agreement, the MoU, taking into account debt sustainability and the market situation for bond issuance. The EFSF proposal shall specify the amount which EFSF is authorised to make available by way of a Loan under the Loan Facility Agreement and on what terms including as to the amount of the Loan, the Net Disbursement Amount, the term, the redemption schedule and the interest rate (including the Margin) in relation to such Loan. If the Eurogroup Working Group accepts this proposal the Eurogroup Working Group Chairman shall request EFSF to communicate an acceptance notice (an "Acceptance Notice") to the Borrower confirming the terms of the Loan.
 
@@ -239,7 +231,7 @@ Funding Instruments being issued pursuant to final terms ("Final Terms") setting
 
 (4) EFSF shall, subject to market conditions and the terms of this Article 4, fund Loans by the issuance of or entry into Funding Instruments on a matched funding basis such that the Funding Instruments financing a Loan have substantially the same financial profile as to amount, time of issue, currency, repayment profile, final maturity and interest basis, provided that, to the extent feasible, the scheduled payment dates for Loans shall be at least fourteen (14) Business Days prior to the scheduled payment dates under the related Funding Instruments to permit processing of payments.
 
-(5) If, due to market condition or the volume of Funding Instruments to be issued or entered into by EFSF under the EFSF Programme(s) it is not practicable or feasible to issue or enter into Funding Instruments on a strict matched-funding basis, EFSF may request the Guarantors to permit EFSF certain flexibilities as to funding such that its funding is not matched to the Loans it makes, in particular as to (a) currency of Funding Instruments, (b) timing for the issue or entry into of Funding GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 11 Instruments, (c) interest rate bases and/or (d) maturity and repayment profile of the Funding Instruments to be issued or entered into (including the possibility of issuing short term debt instruments, commercial paper or other financing arrangements supported by Guarantees) and (e) the possibility of prefunding of Loans under an existing Loan Facility Agreement. The Guarantors, acting unanimously, may permit EFSF to use a degree of funding flexibility and shall specify within which parameters and limits EFSF may adopt a non-matched funding strategy (a "Diversified Funding Strategy").
+(5) If, due to market condition or the volume of Funding Instruments to be issued or entered into by EFSF under the EFSF Programme(s) it is not practicable or feasible to issue or enter into Funding Instruments on a strict matched-funding basis, EFSF may request the Guarantors to permit EFSF certain flexibilities as to funding such that its funding is not matched to the Loans it makes, in particular as to (a) currency of Funding Instruments, (b) timing for the issue or entry into of Funding Instruments, (c) interest rate bases and/or (d) maturity and repayment profile of the Funding Instruments to be issued or entered into (including the possibility of issuing short term debt instruments, commercial paper or other financing arrangements supported by Guarantees) and (e) the possibility of prefunding of Loans under an existing Loan Facility Agreement. The Guarantors, acting unanimously, may permit EFSF to use a degree of funding flexibility and shall specify within which parameters and limits EFSF may adopt a non-matched funding strategy (a "Diversified Funding Strategy").
 
 (6) Given that a Diversified Funding Strategy would require the management of transformation and basis risks, in the event that a Diversified Funding Strategy is authorised in relation to EFSF it may delegate the management of such funding activities, related asset and liability management activities and the conclusion of any related currency, interest rate or maturity mis-match hedging instruments to one or more debt management agencies of euro-area Member State or such other agencies or institutions as are approved unanimously by the Guarantors which shall be entitled to be compensated at an arm’s length commercial rate for the provision of such services which remuneration shall constitute an operating cost for EFSF.
 
@@ -285,7 +277,7 @@ CLAIMS UNDER A GUARANTEE
 
 (2) Each Guarantor shall remit to EFSF (or, if so specified in the relevant documentation, to the paying agent of the relevant Funding Instrument) its share of the amount demanded in the EFSF Guarantee Demand addressed to it by EFSF in cleared funds on the Guarantee Payment Date.
 
-(3) In the event that EFSF fails to pay a scheduled payment of interest or a scheduled payment of principal on a date when such amount is due and payable under a Funding Instrument issued by EFSF then the relevant Noteholder Representative shall be entitled to demand in writing (a "Noteholder Representative Guarantee Demand") the Guarantors (with a copy to EFSF) to pay the unpaid amount of such scheduled payment of interest and/or such scheduled payment of principal. Similarly, in the event of a failure by EFSF to pay a scheduled GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 13 payment under any other instrument or agreement entered into between EFSF and a counterparty (a "Counterparty") which benefits from a Guarantee issued under this Agreement (which has been issued for a purpose closely-linked to an issue of Funding Instruments pursuant to Article 2(3)) the relevant Counterparty shall be entitled to demand in writing (a "Counterparty Guarantee Demand") the Guarantors (with a copy to EFSF) the unpaid amount of such scheduled payment. In the event of receipt by the Guarantors and EFSF of a Noteholder Representative Guarantee Demand or a Counterparty Guarantee Demand each Guarantor shall in accordance with the terms of its Guarantee remit in cleared funds its share of the amount duly demanded in such Noteholder Representative Guarantee Demand or, as the case may be such Counterparty Guarantee Demand. The detailed payment mechanics for co-ordinating payments under the Guarantees shall be set out in the documentation for the issue of Funding Instruments and the related Guarantees.
+(3) In the event that EFSF fails to pay a scheduled payment of interest or a scheduled payment of principal on a date when such amount is due and payable under a Funding Instrument issued by EFSF then the relevant Noteholder Representative shall be entitled to demand in writing (a "Noteholder Representative Guarantee Demand") the Guarantors (with a copy to EFSF) to pay the unpaid amount of such scheduled payment of interest and/or such scheduled payment of principal. Similarly, in the event of a failure by EFSF to pay a scheduled payment under any other instrument or agreement entered into between EFSF and a counterparty (a "Counterparty") which benefits from a Guarantee issued under this Agreement (which has been issued for a purpose closely-linked to an issue of Funding Instruments pursuant to Article 2(3)) the relevant Counterparty shall be entitled to demand in writing (a "Counterparty Guarantee Demand") the Guarantors (with a copy to EFSF) the unpaid amount of such scheduled payment. In the event of receipt by the Guarantors and EFSF of a Noteholder Representative Guarantee Demand or a Counterparty Guarantee Demand each Guarantor shall in accordance with the terms of its Guarantee remit in cleared funds its share of the amount duly demanded in such Noteholder Representative Guarantee Demand or, as the case may be such Counterparty Guarantee Demand. The detailed payment mechanics for co-ordinating payments under the Guarantees shall be set out in the documentation for the issue of Funding Instruments and the related Guarantees.
 
 (4) In the event that a shortfall of receipts under a Loan gives rise both to an EFSF Guarantee Demand and a Noteholder Representative Guarantee Demand (or Counterparty Guarantee Demand) the relevant Guarantors shall only be liable to make one payment under their respective Guarantees, without double counting.
 
@@ -330,8 +322,6 @@ CONTRIBUTION BETWEEN GUARANTORS
 (iii) the taking, variation, compromise, exchange, renewal or release of, or refusal or neglect to perfect, take up or enforce, any rights against, or security over assets of, any person; or any non-presentation or non-observance of any formality or other requirement in respect of any instrument or any failure to realise the full value of any security;
 
 (iv) any incapacity or lack of power, authority or legal personality of or dissolution or change in the members or status of any person;
-
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 15**
 
 (v) any amendment (however fundamental) or replacement of any Loan Facility Agreement, Loan or any document or security;
 
@@ -381,11 +371,7 @@ EFSF, INTER-GUARANTOR DECISIONS, DIRECTORS AND GOVERNANCE
 
 (c) any modification to this Agreement including as to the availability period to grant Loan Facility Agreements;
 
-(d) any modification to the following terms of any Loan Facility Agreement:
-
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 17**
-
-aggregate principal amount of a Loan Facility Agreement, availability period, repayment profile or interest rate of any outstanding Loan;
+(d) any modification to the following terms of any Loan Facility Agreement: aggregate principal amount of a Loan Facility Agreement, availability period, repayment profile or interest rate of any outstanding Loan;
 
 (e) the terms of the EFSF Programme, the programme size and the approval of any Offering Materials;
 
@@ -449,8 +435,6 @@ The proviso to Article 10(5) relating to euro-area Member States which no longer
 
 (13) Matters referred to decisions by euro-area Member State or Guarantors under this Agreement shall be decided as soon as reasonably practicable and necessary. In due course, operational guidelines may be adopted which may set out timelines for decisions to be taken in relation to this Agreement.
 
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 19**
-
 ## 11.
 
 TERM AND LIQUIDATION OF EFSF
@@ -508,8 +492,6 @@ ADMINISTRATIVE PROVISIONS
 (6) (a) The euro-area Member States hereby agree that the shares they hold in EFSF cannot be transferred by any EFSF Shareholder during a period of 10 (ten) years from the date of acquisition of the shares by the relevant EFSF Shareholder except with the unanimous consent of all EFSF Shareholders. Such restriction does not apply to (i) the initial transfer by the sole founding shareholder (if any) to the other euro-area Member States and (ii) proportionate transfers by each EFSF Shareholder to any new euro-area Member State which adopts the Euro as its currency after the incorporation of the Company.
 
 (b) In the event that a euro-area Member State wishes to dispose of its shares in EFSF after expiry of the lock-up period in Article 6.4 of the Articles of Association of EFSF, it shall offer such shares to be purchased by the other shareholders of EFSF on a pro rata basis to their shareholdings in EFSF. Any shares which are not purchased by a shareholder to whom they are offered may be offered to and acquired by any other EFSF Shareholder. If no EFSF Shareholder wishes to purchase such shares then, to the extent it has funds available for this purpose, EFSF may acquire such shares at their fair market value.
-
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 21**
 
 (7) In the event that a new country becomes a euro-area Member State, the Parties hereto shall permit such new euro-area Member State to become a shareholder of EFSF by receiving a transfer of shares from other shareholders of EFSF such that its aggregate percentage holding of shares in EFSF corresponds with its Contribution Key and to adhere to the terms of this Agreement. The Parties shall negotiate in good faith as to the basis upon which such new adhering euro-area Member State shall accede to this Agreement.
 
@@ -607,7 +589,7 @@ represented by Minister Christine Lagarde
 
 Ministre de l’Economie, de l’Industrie et de l’Emploi
 
-GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 23 - signed -
+\- signed -
 
 Italian Republic,
 
@@ -703,21 +685,51 @@ Represented by its sole Director
 
 M Georges Heinrich
 
-GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 25
+## ANNEX 1 — LIST OF GUARANTOR EURO-AREA MEMBER STATES WITH THEIR — RESPECTIVE GUARANTEE COMMITMENTS
 
-## ANNEX 1
+Member State ECB Capital
 
-LIST OF GUARANTOR EURO-AREA MEMBER STATES WITH THEIR RESPECTIVE GUARANTEE COMMITMENTS
+subscription
 
-Member State ECB Capital subscription key %
+key %
 
-Kingdom of Belgium 2.4256 Federal Republic of Germany 119,390.07 Ireland 7,002.40 Kingdom of Spain 52,352.51 French Republic 89,657.45 Italian Republic 78,784.72 Republic of Cyprus 863.09 Grand Duchy of Luxembourg 1,101.39 Republic of Malta 398.44 Kingdom of the Netherlands 25,143.58 Republic of Austria 12,241.43 Portuguese Republic 11,035.38 Republic of Slovenia 2,072.92 Slovak Republic 4,371.54 Republic of Finland 7,905.20 Hellenic Republic 12,387.70
+Kingdom of Belgium 2.4256
+
+Federal Republic of Germany 119,390.07
+
+Ireland 7,002.40
+
+Kingdom of Spain 52,352.51
+
+French Republic 89,657.45
+
+Italian Republic 78,784.72
+
+Republic of Cyprus 863.09
+
+Grand Duchy of Luxembourg 1,101.39
+
+Republic of Malta 398.44
+
+Kingdom of the Netherlands 25,143.58
+
+Republic of Austria 12,241.43
+
+Portuguese Republic 11,035.38
+
+Republic of Slovenia 2,072.92
+
+Slovak Republic 4,371.54
+
+Republic of Finland 7,905.20
+
+Hellenic Republic 12,387.70
 
 Total Guarantee Commitments 440,000.00
 
-## ANNEX 2 — CONTRIBUTION KEY
+## ANNEX 2 — CONTRIBUTION KEY — Member State ECB Capital Contribution Key
 
-Member State ECB Capital Contribution Key subscription
+subscription
 
 key %
 
@@ -754,8 +766,6 @@ We hereby notify you that we are duly authorised under our national laws to perm
 [Name of euro-area Member State]
 
 [●] [●]
-
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 27**
 
 IT-TIENI SKEDA Miżjud:
 
@@ -849,7 +859,7 @@ With effect from the Effective Date of the Amendments (as defined below), the Fr
 
 (a) the words "euro-area" shall be added after the words "beyond such";
 
-GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 29 (b) the words "with the aim of safeguarding the financial stability of the euro area as a whole and of its Member States" shall be added at the end of the first sentence;
+(b) the words "with the aim of safeguarding the financial stability of the euro area as a whole and of its Member States" shall be added at the end of the first sentence;
 
 (c) the words "on 8 May 2010 or on such other terms as may be agreed" are added after "the Hellenic Republic".
 
@@ -883,7 +893,7 @@ They also stated:
 
 (b) the words "It is not anticipated that a request under Article 2(7) of this Agreement would be made by a euro-area Member State which has requested Financial Assistance in the form of a precautionary facility, so long as such facility is not drawn or utilised, a facility to finance the recapitalisation of financial institutions in such Member State by way of a loan made to such Member State or a facility for the purchase of bonds of such Member State in the secondary market." shall be added at end of the paragraph.
 
-(7) Paragraph (6) of the preamble to the Framework Agreement shall be GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 31 amended as follows:
+(7) Paragraph (6) of the preamble to the Framework Agreement shall be amended as follows:
 
 (a) the words "enter into Financial Assistance Facility Agreements" shall be added after the words "the terms and conditions upon which EFSF may";
 
@@ -941,8 +951,6 @@ compliance with policy conditionality of such arrangements shall be in accordanc
 
 (11) In Article 2(3):
 
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 33**
-
 (a) after the words "the percentage set out next to each Guarantor’s name in the third column (the "Contribution Key") in Annex 2", a footnote is added drafted as follows "In respect of Funding Instruments issued or entered into prior to the Effective Date of the Amendments the Contribution Key and Adjusted Contribution Key Percentage shall be determined by the terms of this Agreement (including Annex 2) prior to the amendments.";
 
 (b) in item (b), "120%" shall be replaced by "up to 165% (the "Over- Guarantee Percentage") in respect of Funding Instruments issued or entered into after the Effective Date of the Amendments";
@@ -991,7 +999,7 @@ Exposure" and the words "is for a maximum amount" are deleted.
 
 (a) subject to Article 2(9)(c), the Margin shall be payable on such Financial Assistance in arrear at the end of each interest period;
 
-(b) an amount calculated as being 50 basis points on the aggregate principal amount of each Financial Assistance shall be charged to the Borrower as an advance payment of a portion of the Margin on such Financial Assistance (the "Advance Margin") and shall be deducted from the cash amount to be remitted to the Beneficiary Member State in respect of such Financial GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 35 Assistance;
+(b) an amount calculated as being 50 basis points on the aggregate principal amount of each Financial Assistance shall be charged to the Borrower as an advance payment of a portion of the Margin on such Financial Assistance (the "Advance Margin") and shall be deducted from the cash amount to be remitted to the Beneficiary Member State in respect of such Financial Assistance;
 
 (c) on the first (and/or subsequent) interest payment date(s) of a Financial Assistance the amount payable in respect of Margin shall be reduced by an amount equal to the Advance Margin and the interest cost related to the funding of the Advance Margin; and
 
@@ -1055,8 +1063,6 @@ If, on the date of disbursement of a Financial Assistance, the Notes issued to f
 
 (a) the words "Loan Facility Agreement" shall be replaced by the following words "Financial Assistance Facility Agreement"; and
 
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 37**
-
 (b) the word "Loan" falling prior to the full stop shall be replaced by the words "Financial Assistance".
 
 (25) Article 3(5) shall be amended as follows:
@@ -1117,7 +1123,7 @@ If, on the date of disbursement of a Financial Assistance, the Notes issued to f
 
 (43) In Article 6(7) the words "or otherwise recovered by EFSF" shall be added after the words "actually received from the underlying Beneficiary Member States".
 
-(44) Article 7(1) shall be amended by adding the words "as it applies to the relevant guaranteed obligation of EFSF. For the avoidance of doubt, in respect of the Republic of Estonia, it is only required to make or to receive contributions under this Article 7 in respect of Funding Instruments issued or entered into after the Effective Date of the Amendments." after the words "The "Required Proportion" is equal to the Adjusted Contribution Key Percentage applicable to the relevant Guarantee" and GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 39 prior to the words "Any indemnity or contribution payment from one Guarantor to another".
+(44) Article 7(1) shall be amended by adding the words "as it applies to the relevant guaranteed obligation of EFSF. For the avoidance of doubt, in respect of the Republic of Estonia, it is only required to make or to receive contributions under this Article 7 in respect of Funding Instruments issued or entered into after the Effective Date of the Amendments." after the words "The "Required Proportion" is equal to the Adjusted Contribution Key Percentage applicable to the relevant Guarantee" and prior to the words "Any indemnity or contribution payment from one Guarantor to another".
 
 (45) Article 7(3)(v) shall be amended by replacing the words "Loan Facility Agreement" by the following words "Financial Assistance Facility Agreement" and replacing the word "Loan" by "Financial Assistance".
 
@@ -1174,8 +1180,6 @@ purchases, the Financial Assistance Facility Agreement for the purchase of bonds
 "Following the constitution of the European Stability Mechanism (the "ESM"), EFSF may, with the approval of a decision of the euro-area Member States acting with unanimity and after obtaining any requisite consents from investors in Funding Instruments, transfer all and any of its rights, obligations and liabilities, including under Financial Instruments, Financial Assistance Facility Agreements and/or Financial Assistance, to ESM.".
 
 (59) Annex 1 (List of Guarantor euro-area Member States with their respective Guarantee Commitments) shall be amended as from the Effective Date of the Amendments as set out in Annex 1 to this Amendment in respect of Financial Instruments issued as from the Effective Date of the Amendments.
-
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 41**
 
 (60) Annex 2 (Contribution Key) shall be amended as from the Effective Date of the Amendments as set out in Annex 2 to this Amendment in respect of
 
@@ -1272,8 +1276,6 @@ Date:
 Hellenic Republic
 
 Represented by:
-
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 43**
 
 Name:
 
@@ -1401,8 +1403,6 @@ Name:
 
 Title:
 
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 45**
-
 Date:
 
 For the EFSF
@@ -1450,8 +1450,6 @@ key %
 Kingdom of Belgium 2.4256 3.4666% Federal Republic of Germany 18.9373 27.0647% Republic of Estonia 0.1790 0.2558% Ireland\* 1.1107 1.5874% Hellenic Republic\* 1.9649 2.8082% Kingdom of Spain 8.3040 11.8679% French Republic 14.2212 20.3246% Italian Republic 12.4966 17.8598% Republic of Cyprus 0.1369 0.1957% Grand Duchy of Luxembourg 0.1747 0.2497% Republic of Malta 0.0632 0.0903% Kingdom of the Netherlands 3.9882 5.6998% Republic of Austria 1.9417 2.7750% Portuguese Republic\* 1.7504 2.5016% Republic of Slovenia 0.3288 0.4699% Slovak Republic 0.6934 0.9910% Republic of Finland 1.2539 1.7920%
 
 Total 69.9705 100.0000% \* As at the Effective Date of the Amendments, the Hellenic Republic, Ireland and Portugal have become Stepping-Out Guarantors.
-
-**GĦALL-ISTABBILTÀ FINANZJARJA EWROPEA [KAP. 505. 47**
 
 ## ANNEX 3 — TEMPLATE FOR AMENDMENT CONFIRMATION
 

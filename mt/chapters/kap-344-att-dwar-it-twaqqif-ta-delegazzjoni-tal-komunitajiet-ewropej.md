@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar it-Twaqqif ta' Delegazzjoni tal-Komunitajiet Ewropej (Cap. 344)
 
-*1*
-
-TAL-KOMUNITAJIET EWROPEJ [KAP. 344.
-
 **KAPITOLU 344**
 
 **ATT DWAR IT-TWAQQIF TA’**
@@ -99,7 +95,7 @@ Id-disposizzjonijiet l-oħrajn tal-Konvenzjoni ta’ Vienna tat-18 ta’ April, 
 
 ## 3.
 
-Dawk id-drittijiet u privileġġi u immunitajiet għandhom jingħataw bil-kondizzjoni li, b’mod konformi mad-disposizzjonijiet tal-artikolu 17 tal-Protokoll dwar il-privileġġi u immunitajiet tal-Komunitajiet Ewropej li tinsab annessa mat- Trattat li jistabbilixxi Kunsill uniku u Kummissjoni unika tal-Komunitajiet Ewropej magħmula fi Brussels fit-8 ta’ April, 1965, l-Istati Membri tal-Komunitajiet Ewropej jagħtu l-istess drittijiet u privileġġi u immunitajiet lill-Missjoni ta’ Malta, lill-kap tagħha u lill-membri tagħha, kif ukoll lill-membri tal-familji tagħhom li TAL-KOMUNITAJIET EWROPEJ [KAP. 344. 3 rispettivament joqogħdu f’dar waħda flimkien magħhom.
+Dawk id-drittijiet u privileġġi u immunitajiet għandhom jingħataw bil-kondizzjoni li, b’mod konformi mad-disposizzjonijiet tal-artikolu 17 tal-Protokoll dwar il-privileġġi u immunitajiet tal-Komunitajiet Ewropej li tinsab annessa mat- Trattat li jistabbilixxi Kunsill uniku u Kummissjoni unika tal-Komunitajiet Ewropej magħmula fi Brussels fit-8 ta’ April, 1965, l-Istati Membri tal-Komunitajiet Ewropej jagħtu l-istess drittijiet u privileġġi u immunitajiet lill-Missjoni ta’ Malta, lill-kap tagħha u lill-membri tagħha, kif ukoll lill-membri tal-familji tagħhom li rispettivament joqogħdu f’dar waħda flimkien magħhom.
 
 **Artikolu 4**
 

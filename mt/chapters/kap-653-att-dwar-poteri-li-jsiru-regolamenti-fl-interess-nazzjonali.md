@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Poteri li jsiru Regolamenti fl-Interess Nazzjonali (Cap. 653)
 
-*1*
-
-NAZZJONALI [KAP. 653.
-
 **KAPITOLU 653**
 
 **ATT DWAR POTERI LI JSIRU REGOLAMENTI FL-**
@@ -49,11 +45,7 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "Bord" tfisser il-Bord ta’ Sorveljanza fuq Sanzjonijiet imwaqqaf fl-artikolu 15;
 
-"finanzjament tal-proliferazzjoni" tfisser l-att li jiġu pprovduti fondi jew servizzi finanzjarji li jintużaw, kompletament jew parzjalment, għall-manifattura, akkwist, pussess, żvilupp, esportazzjoni, trasbord, senserija, trasport, trasferiment, ħażniet, jew l-użu ta’ armi nukleari, kimiċi jew NAZZJONALI
-
-bijoloġiċi u l-mezzi ta’ konsenja tagħhom u materjali relatati inklużi kemm teknoloġiji kif ukoll oġġetti b’użu doppju użati għal skopijiet mhux leġittimi jew b’kontravvenzjoni tal-ligijiet nazzjonali, jew fejn applikabbli, obbligi internazzjonali;
-
-*[KAP. 653. 2*
+"finanzjament tal-proliferazzjoni" tfisser l-att li jiġu pprovduti fondi jew servizzi finanzjarji li jintużaw, kompletament jew parzjalment, għall-manifattura, akkwist, pussess, żvilupp, esportazzjoni, trasbord, senserija, trasport, trasferiment, ħażniet, jew l-użu ta’ armi nukleari, kimiċi jew bijoloġiċi u l-mezzi ta’ konsenja tagħhom u materjali relatati inklużi kemm teknoloġiji kif ukoll oġġetti b’użu doppju użati għal skopijiet mhux leġittimi jew b’kontravvenzjoni tal-ligijiet nazzjonali, jew fejn applikabbli, obbligi internazzjonali;
 
 "fondi" tfisser assi finanzjarji u benefiċċji ta’ kull tip, inklużi, iżda mhux limitatament għal:
 
@@ -78,10 +70,6 @@ bijoloġiċi u l-mezzi ta’ konsenja tagħhom u materjali relatati inklużi kem
 "fornitur ta’ servizzi ta’ pagament" għandu jkollha l-istess tifsira kif mogħti lilha fl-Att dwar Istituzzjonijiet Finanzjarji;
 
 "iffriżar ta’ fondi" tfisser il-prevenzjoni tal-moviment, tat-trasferiment, tat-tibdil, tad-disponiment jew tal-użu jew tal-aċċess ta’ fondi, jew tat-trattament ta’ fondi li b’xi mod jirriżulta fi kwalunkwe bidla fil-volum, l-ammont, il-post, is-sjieda, il-pussess, il-karattru, id-deżinjazzjoni tagħhom jew f’bidla li tippermetti li l-fondi jintużaw, inkluża l-ġestjoni tal-portafoll;
-
-*3*
-
-NAZZJONALI [KAP. 653.
 
 "iffriżar ta’ riżorsi ekonomiċi" tfisser il-prevenzjoni tal-użu ta’ riżorsi ekonomiċi sabiex jinkisbu fondi, oġġetti jew servizzi bi kwalunkwe mod, inkluż iżda mhux limitament permezz tal-bejgħ, kiri, disponiment jew l-ipotekar tagħhom;
 
@@ -113,11 +101,7 @@ NAZZJONALI [KAP. 653.
 
 "persuna ġuridika" tfisser kwalunkwe entità, inklużi iżda mhux limitatament għal, korp jew assoċjazzjoni ta’ persuni, kemm korporata jew mhux korporata stabbilita skont il-liġi ta’ Malta;
 
-"Regolament (UE) 2016/679" tfisser ir-Regolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal- [KAP. 653. NAZZJONALI
-
-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad-Data);
-
-*4*
+"Regolament (UE) 2016/679" tfisser ir-Regolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad-Data);
 
 "riżorsi ekonomiċi" tfisser assi ta’ kull xorta, tanġibbli jew intanġibbli, mobbli jew immobbli, li mhumiex fondi iżda li jistgħu jintużaw biex jinkisbu fondi, oġġetti jew servizzi;
 
@@ -143,11 +127,7 @@ ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u l
 
 (1)Dan l-Att għandu japplika għal persuni ġuridiċi, entitajiet u korpi reġistrati f’Malta, persuni fiżiċi residenti f’Malta, għal ċittadini ta’ Malta kull fejn jinsabu, jew għal bastimenti, inġenji tal-ajru jew mezzi oħra ta’ trasport reġistrati f’Malta jew li jappartjenu lil Malta, jew li jkunu qegħdin jivvjaġġaw lejn, jew minn dawk il-pajjiżi, kif il-Ministru jista’ permezz ta’ regolamenti jistabbilixxi.
 
-(2) Persuni ġuridiċi, entitajiet jew korpi kif imsemmi fis-subartikolu (1) li għandhom fergħat jew sussidjarji b’maġġoranza ta’ sjieda stabbiliti f’pajjiż terz fejn il-miżuri restrittivi ma jkunux allinjati ma’ dan l-Att, għandhom jiżguraw li dawk il-fergħat jew sussidjarji NAZZJONALI [KAP. 653.
-
-b’maġġoranza ta’ sjieda, jimplimentaw id-dispożizzjonijiet ta’ dan l- Att sa fejn dik il-leġiżlazzjoni tal-pajjiż terz tippermetti tali implimentazzjoni:
-
-*5*
+(2) Persuni ġuridiċi, entitajiet jew korpi kif imsemmi fis-subartikolu (1) li għandhom fergħat jew sussidjarji b’maġġoranza ta’ sjieda stabbiliti f’pajjiż terz fejn il-miżuri restrittivi ma jkunux allinjati ma’ dan l-Att, għandhom jiżguraw li dawk il-fergħat jew sussidjarji b’maġġoranza ta’ sjieda, jimplimentaw id-dispożizzjonijiet ta’ dan l- Att sa fejn dik il-leġiżlazzjoni tal-pajjiż terz tippermetti tali implimentazzjoni:
 
 Iżda fejn il-persuni ġuridiċi, entitajiet jew korpi jkollhom fergħat jew sussidjarji b’maġġoranza ta’ sjieda stabbiliti f’pajjiż terz, u fejn l-leġiżlazzjoni ta’ tali pajjiżi terzi ma tippermettix l-implimentazzjoni tal-miżuri restrittivi stabbiliti taħt dan l-Att, il-persuni ġuridiċi, entitajiet jew korpi għandhom jiżguraw li dawk il-fergħat u s-sussidjarji b’maġġoranza ta’ sjieda japplikaw miżuri addizzjonali sabiex itaffu b’mod effettiv ir-riskju ta’ ksur tal-miżuri restrittivi u l-evażjoni ta’ kwalunkwe miżuri restrittivi.
 
@@ -159,11 +139,7 @@ Iżda fejn il-persuni ġuridiċi, entitajiet jew korpi jkollhom fergħat jew sus
 
 (3) Kull meta l-Ministru jqis li l-interessi nazzjonali jew internazzjonali ta’ Malta hekk jeħtieġu, huwa jista’ b’regolamenti magħmula taħt dan l-Att, jimponi embargo kummerċjali ma’ pajjiżi oħra, jew b’mod ġenerali jew ma’ pajjiż jew pajjiżi, jew parti minnhom, jew il-projbizzjoni ta’ vjaġġar lejn u minn xi pajjiż jew pajjiżi jew parti minnhom, kif jista’ jiġi dikjarat fir-regolamenti.
 
-(4) (a)Kull meta l-Ministru jikkunsidra li l-interessi nazzjonali jew internazzjonali ta’ Malta hekk jeħtieġu, huwa għandu fuq ir-rakkomandazzjoni tal-Bord joħroġ regolamenti taħt dan l-Att sabiex NAZZJONALI
-
-jimponi miżuri restrittivi domestiċi kontra kwalunkwe persuna, entità jew korp u, jordna:
-
-*[KAP. 653. 6*
+(4) (a)Kull meta l-Ministru jikkunsidra li l-interessi nazzjonali jew internazzjonali ta’ Malta hekk jeħtieġu, huwa għandu fuq ir-rakkomandazzjoni tal-Bord joħroġ regolamenti taħt dan l-Att sabiex jimponi miżuri restrittivi domestiċi kontra kwalunkwe persuna, entità jew korp u, jordna:
 
 (i) li kwalunkwe persuna, entità jew korp tiffriża minnufih u mingħajr pre-avviż, il-fondi u, jew ir-riżorsi ekonomici kollha ta’ persuna, entità jew korp deżinjati;
 
@@ -176,10 +152,6 @@ jimponi miżuri restrittivi domestiċi kontra kwalunkwe persuna, entità jew kor
 (iv) l-investigazzjoni ta’ kwalunkwe ħaġa relatata mad-deżinjazzjoni ta’ kwalunkwe persuna, entità jew korp, il-konfiska ta’ fondi u riżorsi ekonomici ta’ kwalunkwe persuna, entità jew korp deżinjati u l-applikabilità, mutatis mutandis, jew xort’oħra ta’ kwalunkwe dispożizzjoni ta’ xi liġi oħra, inkluż iżda mhux limitatament għall-Kodiċi Kriminali, l-Ordinanza dwar il-Mediċini Perikolużi, l-Ordinanza dwar il-Professjoni Medika u l-Professjonijiet li għandhom x’jaqsmu magħha u l- Att kontra Money Laundering fir-rigward ta’ fondi u riżorsi ekonomici ffriżati ta’ persuna, entità jew korp deżinjati, jew ta’ persuna, entità jew korp li huwa soġġett għal investigazzjoni li tista’ twassal għad-deżinjazzjoni ta’ tali persuna, entità jew korp; jew
 
 (v) l-emenda jew ir-revoka ta’ kwalunkwe miżuri magħmula taħt is-subparagrafi (i), (ii), (iii) u (iv) kif jista’ jiġi stabbilit fir-regolamenti:
-
-*7*
-
-NAZZJONALI [KAP. 653.
 
 Iżda l-Ministru għandu jippubblika r-regolamenti fi żmien raġonevoli minn meta l-Bord ikun għamel ir-rakkomandazzjoni tiegħu għall-pubblikazzjoni tar-regolamenti fil-Gazzetta:
 
@@ -201,11 +173,7 @@ Iżda wkoll appell minn miżuri maħruġa taħt dan is-subartikolu jista’ jiġ
 
 ## 6. Applikabilità diretta tar- Riżoluzzjonijiet tal-Kunsill tas- Sigurtà tan- Nazzjonijiet Uniti.
 
-(1)Għall-finijiet ta’ dan l-Att, ir-Riżoluzzjonijiet tal-Kunsill tas-Sigurtà tan-Nazzjonijiet Uniti li jimponu jew japplikaw miżuri restrittivi ta’ kwalunkwe xorta, jew li jagħtu parir lil, jirrakkomandaw, jidderieġu jew jordnaw Stati Membri tan-Nazzjonijiet Uniti sabiex jieħdu azzjoni kif jista’ jingħata l-parir, jiġi rakkomandat, tingħata direzzjoni jew jiġi ordnat, kemm jekk ippubblikati qabel jew wara d-dħul fis-seħħ ta’ dan l-artikolu, għandhom ikunu awtomatikament [KAP. 653. NAZZJONALI
-
-vinkolanti fl-intier tagħhom f’Malta u għandhom ikunu parti mil-liġi domestika tagħha.
-
-*8*
+(1)Għall-finijiet ta’ dan l-Att, ir-Riżoluzzjonijiet tal-Kunsill tas-Sigurtà tan-Nazzjonijiet Uniti li jimponu jew japplikaw miżuri restrittivi ta’ kwalunkwe xorta, jew li jagħtu parir lil, jirrakkomandaw, jidderieġu jew jordnaw Stati Membri tan-Nazzjonijiet Uniti sabiex jieħdu azzjoni kif jista’ jingħata l-parir, jiġi rakkomandat, tingħata direzzjoni jew jiġi ordnat, kemm jekk ippubblikati qabel jew wara d-dħul fis-seħħ ta’ dan l-artikolu, għandhom ikunu awtomatikament vinkolanti fl-intier tagħhom f’Malta u għandhom ikunu parti mil-liġi domestika tagħha.
 
 *Kap. 249.*
 
@@ -227,11 +195,7 @@ vinkolanti fl-intier tagħhom f’Malta u għandhom ikunu parti mil-liġi domest
 
 ## 8. Twettiq ta’ riżorsi ekonomiċi.
 
-(1)Ir-riżorsi ekonomiċi, inkluż dawk fit-trasbord, iffriżati fl-implimentazzjoni ta’ miżuri restrittivi tal-Unjoni Ewropea jew miżuri restrittivi adottati b’Riżoluzzjoni tal-Kunsill tas-Sigurtà tan- NAZZJONALI [KAP. 653.
-
-Nazzjonijiet Uniti jew miżuri restrittivi domestiċi jistgħu jiġu realizzati skont il-proċedura stabbilita mill-Bord, meta:
-
-*9*
+(1)Ir-riżorsi ekonomiċi, inkluż dawk fit-trasbord, iffriżati fl-implimentazzjoni ta’ miżuri restrittivi tal-Unjoni Ewropea jew miżuri restrittivi adottati b’Riżoluzzjoni tal-Kunsill tas-Sigurtà tan- Nazzjonijiet Uniti jew miżuri restrittivi domestiċi jistgħu jiġu realizzati skont il-proċedura stabbilita mill-Bord, meta:
 
 (a) ir-riżorsi ekonomiċi jitħassru jew ikunu f’riskju ta’ deterjorament, taħsir, ħsara jew deprezzament fil-valur;
 
@@ -255,11 +219,7 @@ Nazzjonijiet Uniti jew miżuri restrittivi domestiċi jistgħu jiġu realizzati 
 
 (ċ) li tippermetti lil persuni fiżiċi maħtura jidħlu, jew jgħaddu mit-territorju ta’ Malta;
 
-(d) li tidħol fi, jew tkompli transazzjonijiet ma’ Stat terz, korpi ta’ Stat terz jew entitajiet jew korpi li jappartjenu jew li huma kkontrollati direttament jew indirettament minn Stat terz jew minn korpi ta’ Stat terz, inkluż l-għoti jew it-tkomplija tal-eżekuzzjoni ta’ kuntratti pubbliċi jew ta’ NAZZJONALI
-
-konċessjoni;
-
-*[KAP. 653. 10*
+(d) li tidħol fi, jew tkompli transazzjonijiet ma’ Stat terz, korpi ta’ Stat terz jew entitajiet jew korpi li jappartjenu jew li huma kkontrollati direttament jew indirettament minn Stat terz jew minn korpi ta’ Stat terz, inkluż l-għoti jew it-tkomplija tal-eżekuzzjoni ta’ kuntratti pubbliċi jew ta’ konċessjoni;
 
 (e) li tinnegozja, timporta, tesporta, tbigħ, tixtri tittrasferixxi, tgħaddi jew iġġorr oġġetti, kif ukoll tipprovdi servizzi ta’ senserija, assistenza teknika jew servizzi oħra relatati ma’ dawk l-oġġetti:
 
@@ -277,10 +237,6 @@ Iżda dan għandu jikkostitwixxi reat, anki jekk imwettaq b’negliġenza grosso
 
 (iii) l-persuna fiżika deżinjata jew rappreżentant ta’ entità jew korp deżinjati jonqsu milli jaderixxu ma’ obbligu li jikkostitwixxi miżuri restrittivi tal-Unjoni Ewropea jew miżuri restrittivi adottati b’Riżoluzzjonijiet tal-Kunsill tas-Sigurtà tan- Nazzjonijiet Uniti jew miżuri restrittivi domestiċi sabiex jirrapportaw lill-Bord fondi jew riżorsi ekonomiċi fil-ġuriżdizzjoni ta’ Malta, li jappartjenu lilhom, li huma proprjetà tagħhom, jew li huma kkontrollati minnhom;
 
-*11*
-
-NAZZJONALI [KAP. 653.
-
 (iv) tonqos milli taderixxi ma’ obbligu li jikkostitwixxi miżura restrittiva tal-Unjoni Ewropea jew miżura restrittiva adottata b’riżoluzzjoni tal-Kunsill tas- Sigurtà tan-Nazzjonijiet Uniti jew miżuri restrittivi domestiċi sabiex jipprovdu lill-Bord b’informazzjoni dwar fondi jew riżorsi ekonomiċi jew informazzjoni miżmuma dwar fondi jew riżorsi ekonomiċi fit-territorju ta’ Malta, li jappartjenu lil, li huma proprjetà ta’, miżmuma jew ikkontrollati minn persuni, entitajiet jew korpi deżinjati u li ma jkunux ġew iffriżati u fejn tali informazzjoni nkisbet fit-twettiq ta’ dmir professjonali;
 
 (i) tikser jew tonqos milli twettaq il-kundizzjonijiet taħt awtorizzazzjonijiet mogħtija mill-Bord sabiex iwettqu attivitajiet, li fin-nuqqas ta’ tali awtorizzazzjoni jammontaw għal ksur ta’ projbizzjoni jew restrizzjoni li tikkostitwixxi miżuri restrittivi tal-Unjoni Ewropea jew miżuri restrittivi adottati mir-Riżoluzzjoni tal-Kunsill tas-Sigurtà tan- Nazzjonijiet Uniti jew miżuri restrittivi domestiċi.
@@ -295,11 +251,7 @@ Iżda sabiex jiġi determinat jekk il-limitu tal-għaxart elef euro (€10,000) 
 
 (3) Is-subartikolu (1) bl-ebda mod ma għandu jinftiehem li jimponi obbligu fuq professjonisti legali li jirrappurtaw informazzjoni li jirċievu minn, jew jiksbu fuq, wieħed mill-klijenti tagħhom fil-kors tal-aċċertazzjoni tal-pożizzjoni legali ta’ tali klijent jew fit-twettiq tal-kompitu li jiddefendu jew jirrappreżentaw lil dak il-klijent fi, jew li jikkonċernaw proċedimenti ġudizzjarji, inkluż li jipprovdu pariri biex jinbdew jew jevitaw dawk il-proċeduri.
 
-(4) Is-subartikoli (1) u (2) bl-ebda mod ma għandhom jinftiehmu li qed jiġu kkriminalizzati l-assistenza umanitarja għal persuni fil-bżonn jew attivitajiet b’appoġġ għall-bżonnijiet umani bażiċi pprovduti skont [KAP. 653. NAZZJONALI
-
-il-prinċipji ta’ imparzjalità, umanità, newtralità u indipendenza u, fejn applikabbli, il-liġi umanitarja internazzjonali.
-
-*12*
+(4) Is-subartikoli (1) u (2) bl-ebda mod ma għandhom jinftiehmu li qed jiġu kkriminalizzati l-assistenza umanitarja għal persuni fil-bżonn jew attivitajiet b’appoġġ għall-bżonnijiet umani bażiċi pprovduti skont il-prinċipji ta’ imparzjalità, umanità, newtralità u indipendenza u, fejn applikabbli, il-liġi umanitarja internazzjonali.
 
 ## 10. Inċitament, għajnuna u kompliċità.
 
@@ -325,10 +277,6 @@ Iżda:
 
 (d) għal ksur tal-artikolu 9(1)(d), (e), (f), (g) u (i) fejn dawk ir-reati kriminali jinvolvu oġġetti, servizzi, transazzjonijiet jew attivitajiet ta’ valur ta’ mill-inqas mitt elf euro (€100,000) fid-data tat-twettiq tar-reat, it-terminu ta’ priġunerija għandu jkun minn ħames (5) snin sa tnax (12)-il sena;
 
-*13*
-
-NAZZJONALI [KAP. 653.
-
 (e) għal ksur tal-artikolu 8(1)(e), irrispettivament mill-valur tal-oġġetti involuti, it-terminu ta’ priġunerija għandu jkun minn ħames (5) snin sa tnax (12)-il sena:
 
 Iżda wkoll il-limitu ta’ mitt elf euro (€100,000) jew aktar jista’ jintlaħaq permezz ta’ sensiela ta’ reati koperti mill-artikolu 9(1)(a), (b), (d), (e), (f), (g), (h) u (i) li jkunu konnnessi u tal-istess tip, fejn dawk ir-reati jitwettqu mill-istess persuna.
@@ -350,10 +298,6 @@ Iżda fejn ma jkunx possibbli li jiġi determinat l-ammont tal-multa abbażi tal
 (4) Bla ħsara għal kwalunkwe piena oħra li għaliha r-reat jista’ jkun soġġett taħt dan l-Att jew xi liġi oħra, fejn min wettaq ir-reat tkun persuna ġuridika soġġetta għal piena taħt id-dispożizzjonijiet tas-subartikoli (2) u (3), il-Qorti tista’, fuq talba tal-prosekuzzjoni, tordna:
 
 (a) is-sospensjoni jew ir-revoka ta’ kwalunkwe liċenzja, permess jew awtorità oħra sabiex wieħed jidħol f’xi kummerċ, negozju jew attività kummerċjali oħra;
-
-*14*
-
-[KAP. 653. NAZZJONALI
 
 (b) l-irtirar ta’ permessi u awtorizzazzjonijiet sabiex isiru attivitajiet li rriżultaw fit-twettiq tar-reat;
 
@@ -381,11 +325,7 @@ Iżda fejn ma jkunx possibbli li jiġi determinat l-ammont tal-multa abbażi tal
 
 (c) ir-reat twettaq minn fornitur tas-servizz professjonali bi ksur tal-obbligi professjonali ta’ tali fornitur tas-servizz professjonali;
 
-(d) ir-reat twettaq minn uffiċjal pubbliku fil-qadi ta’ NAZZJONALI [KAP. 653.
-
-dmirijietu jew minn persuna oħra li twettaq funzjoni pubblika;
-
-*15*
+(d) ir-reat twettaq minn uffiċjal pubbliku fil-qadi ta’ dmirijietu jew minn persuna oħra li twettaq funzjoni pubblika;
 
 (e) ir-reat iġġenera jew kien mistenni li jiġġenera benefiċċji finanzjarji sostanzjali, jew evita spejjeż sostanzjali, direttament jew indirettament, sal-punt li tali benefiċċji jew spejjeż jistgħu jiġu determinati;
 
@@ -415,11 +355,7 @@ dmirijietu jew minn persuna oħra li twettaq funzjoni pubblika;
 
 (d) fejn persuna f’Malta xjentement tinċita, tgħin, jew tħeġġeġ lil persuna oħra sabiex twettaq ir-reat.
 
-(11) Minkejja kwalunkwe dispożizzjoni f’xi liġi oħra, fejn reat taħt dan l-Att u, jew regolamenti magħmula taħtu jkun twettaq kollu jew parti minnu minn persuna ġuridika, entità jew korp, il- [KAP. 653. NAZZJONALI
-
-prosekuzzjoni ma għandhiex għalfejn tipprova li r-reat twettaq kollu jew parti minnu, għall-benefiċċju ta’ dik il-persuna ġuridika, entità jew korp.
-
-*16*
+(11) Minkejja kwalunkwe dispożizzjoni f’xi liġi oħra, fejn reat taħt dan l-Att u, jew regolamenti magħmula taħtu jkun twettaq kollu jew parti minnu minn persuna ġuridika, entità jew korp, il-prosekuzzjoni ma għandhiex għalfejn tipprova li r-reat twettaq kollu jew parti minnu, għall-benefiċċju ta’ dik il-persuna ġuridika, entità jew korp.
 
 ## 12. Mekkaniżmu speċjali għal ftehim barra mill- Qorti f’każ li ma jkunux għadhom inbdew proċeduri kriminali.
 
@@ -435,11 +371,7 @@ Iżda l-penali amministrattiva li tali persuna konċernata għandha tkun obbliga
 
 Iżda wkoll il-persuna konċernata għandha tagħmel talba bil-miktub lill-Bord sabiex isir il-ftehim. Wara tali talba mill-persuna konċernata, il-Bord għandu fi żmien xahar (1) minn meta ġie notifikat bit-talba permezz ta’ posta reġistrata, jinforma lill-persuna konċernata bl-eżitu ta’ tali talba u f’każ li l-Bord jilqa’ tali talba, huwa għandu wkoll jinnotifika lill-persuna konċernata bl-abbozz tal-ftehim:
 
-Iżda wkoll l-imsemmi perjodu ta’ xahar (1) jista’ jiġi estiż NAZZJONALI [KAP. 653.
-
-għal darba, unilateralment mill-Bord għal perjodu wieħed ta’ xahar (1), fejn il-Bord għandu jinforma lill-persuna konċernata bid-deċiżjoni tiegħu filwaqt li jispjega b’mod dettaljat ir-raġuni li abbażi tagħha qiegħda ssir din l-estensjoni. In-notifika għall-estensjoni għandha ssir permezz ta’ posta reġistrata fl-ewwel għoxrin (20) jum minn dakinhar li l-Bord ikun ġie notifikat permezz tat-talba tal-persuna konċernata skont is-subartikolu (1).
-
-*17*
+Iżda wkoll l-imsemmi perjodu ta’ xahar (1) jista’ jiġi estiż għal darba, unilateralment mill-Bord għal perjodu wieħed ta’ xahar (1), fejn il-Bord għandu jinforma lill-persuna konċernata bid-deċiżjoni tiegħu filwaqt li jispjega b’mod dettaljat ir-raġuni li abbażi tagħha qiegħda ssir din l-estensjoni. In-notifika għall-estensjoni għandha ssir permezz ta’ posta reġistrata fl-ewwel għoxrin (20) jum minn dakinhar li l-Bord ikun ġie notifikat permezz tat-talba tal-persuna konċernata skont is-subartikolu (1).
 
 (2) L-avviż skont is-subartikolu (1) għandu jispeċifika:
 
@@ -461,11 +393,7 @@ Iżda s-sommarju għandu jkollu dettall suffiċjenti sabiex jinforma b’mod sħ
 
 (iv) il-konsegwenzi ta’ kwalunkwe nuqqas ta’ tħaris ta’ xi termini tal-ftehim:
 
-Iżda dan l-avviż kif ukoll l-abbozz tal-ftehim għandhom jiġu nnotifikati lill-persuna konċernata permezz ta’ posta reġistrata, u fil-każ li l-persuna konċernata hija entità jew korp ġuridiku, dawn għandhom jiġu kunsinnati lill-persuna fiżika li tkun direttur, maniġer, segretarju jew persuna vestita bir-rappreżentanza tal-istess entità jew [KAP. 653. NAZZJONALI
-
-korp ġuridiku:
-
-*18*
+Iżda dan l-avviż kif ukoll l-abbozz tal-ftehim għandhom jiġu nnotifikati lill-persuna konċernata permezz ta’ posta reġistrata, u fil-każ li l-persuna konċernata hija entità jew korp ġuridiku, dawn għandhom jiġu kunsinnati lill-persuna fiżika li tkun direttur, maniġer, segretarju jew persuna vestita bir-rappreżentanza tal-istess entità jew korp ġuridiku:
 
 *   Kap. 12.*
 
@@ -485,11 +413,7 @@ Iżda fil-każ li l-persuna konċernata tiffirma l-ftehim skont dan l-artikolu, 
 
 (6) Minkejja kwalunkwe dispożizzjoni oħra ta’ dan l-Att jew ta’ kwalunkwe liġi oħra, fejn il-penali amministrattiva u, jekk ikun il-każ, sanzjoni jew miżura, jew il-konkorrenza ta’ sanzjonijiet u miżuri jiġu mwettqa fl-intier tagħhom mill-persuna konċernata fil-perjodu indikat fl-istess ftehim, ma jistgħu jsiru l-ebda akkużi ulterjuri dwar l-istess ksur kontra l-istess persuna, entità jew korp ġuridiku.
 
-(7) Ftehim konkluż skont dan l-Att għandu jikkostitwixxi prova kontra dik il-persuna konċernata li tkun daħlet f’tali ftehim u għal NAZZJONALI [KAP. 653.
-
-kwalunkwe raġuni ma tkunx onorat tali ftehim, inkluż l-ammissjoni li tkun saret fil-ftehim skont is-subartikolu (2)(d)(i).
-
-*19*
+(7) Ftehim konkluż skont dan l-Att għandu jikkostitwixxi prova kontra dik il-persuna konċernata li tkun daħlet f’tali ftehim u għal kwalunkwe raġuni ma tkunx onorat tali ftehim, inkluż l-ammissjoni li tkun saret fil-ftehim skont is-subartikolu (2)(d)(i).
 
 (8) F’dan l-artikolu:
 
@@ -517,10 +441,6 @@ bħala alternattiva għal sentenza kriminali, il-Bord jista’, wara li ssir tal
 
 (b) Wara li l-Bord ikun irċieva tali talba mingħand l-imputat, il- Bord għandu, fi żmien xahar (1) minn meta ġie notifikat bit-talba, jinforma lill-imputat bl-eżitu ta’ tali talba u, f’każ li l-Bord jilqa’ t-talba, huwa għandu wkoll jinnotifika permezz ta’ posta reġistrata lill-persuna konċernata permezz tal-avviż inkluż l-abbozz tal-ftehim:
 
-*20*
-
-[KAP. 653. NAZZJONALI
-
 Iżda l-imsemmi perjodu ta’ xahar (1) jista’ jiġi estiż għal darba, unilateralment mill-Bord għal perjodu wieħed ta’ xahar (1), fejn il-Bord għandu jinforma kemm lill-persuna konċernata kif ukoll lill- Qorti li quddiemha qiegħed il-każ, bid-deċiżjoni tiegħu filwaqt li jispjega b’mod dettaljat ir-raġuni li abbażi tagħha qiegħda ssir din l-estensjoni. In-notifika għall-estensjoni għandha ssir fil-każ tal-imputat permezz ta’ posta reġistrata, u fil-każ tal-Qorti permezz ta’ nota, fl-ewwel għoxrin (20) jum mid-data li l-Bord ikun ġie notifikat permezz tat-talba tal-persuna konċernata skont is-subartikolu (1).
 
 (3) (a)In-notifika skont is-subartikolu (2) għandha tispeċifika:
@@ -545,11 +465,7 @@ Iżda l-penali amministrattiva li tali persuna konċernata għandha tkun obbliga
 
 *   Kap. 12.*
 
-Iżda wkoll l-ammont li jirriżulta minn dan il-ftehim għandu jikkostitwixxi titolu eżekuttiv skont it-tifsira ta’ u għall-finijiet tat- Titolu VII tat-Taqsima I tat-Tieni Ktieb tal-Kodiċi ta’ Organizzazzjoni NAZZJONALI [KAP. 653.
-
-u Proċedura Ċivili:
-
-*21*
+Iżda wkoll l-ammont li jirriżulta minn dan il-ftehim għandu jikkostitwixxi titolu eżekuttiv skont it-tifsira ta’ u għall-finijiet tat- Titolu VII tat-Taqsima I tat-Tieni Ktieb tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili:
 
 Iżda wkoll fil-każ li l-avviż u, jew l-abbozz tal-ftehim ma jkunx jinkludi xi waħda mir-rekwiżiti msemmija skont dan is-subartikolu, dan ma għandux jirrendi dak il-ftehim null u bla effett.
 
@@ -570,10 +486,6 @@ Iżda l-imsemmi perjodu ta’ xahar (1) jista’ jiġi estiż mill- Bord għal p
 (6) Fil-każ li l-kondizzjonijiet elenkati fil-ftehim jiġu sodisfatti fl-intier tagħhom, il-Qorti għandha tiddikjara l-azzjoni kriminali estinta fir-rigward ta’ tali akkużi, iżda fil-każ li l-kondizzjonijiet elenkati fil-ftehim ma jkunux ġew sodisfatti fil-perjodu stipulat fl-istess ftehim, il-Qorti għandha tgħaddi sabiex tkompli bis-smigħ tal-kawża fil-konfront tal-imputat:
 
 Iżda meta n-numru tal-imputati fil-proċeduri kriminali jkun tnejn (2) jew iżjed, id-dispożizzjonijiet ta’ dan l-artikolu għandhom japplikaw biss dwar dak il-wieħed (1) jew iżjed li jkunu laħqu ftehim skont dan l-artikolu u jirreġistraw ammissjoni, u l-proċeduri fil-konfront ta’ dak il-wieħed (1) jew iżjed li ma jkunux laħqu ftehim, il- Qorti għandha fuq talba tal-prosekuzzjoni tordna s-separazzjoni tal-atti, li għandhom jiġu trattati separatament.
-
-*22*
-
-[KAP. 653. NAZZJONALI
 
 (7) Bla ħsara għad-dispożizzjonijiet ta’ dan l-Att, it-talba taħt dan l-artikolu tal-imputat lill-Bord ma tistax issir meta l-proċeduri jkunu waslu quddiem il-Qorti tal-Appell Kriminali.
 
@@ -601,11 +513,7 @@ Iżda meta n-numru tal-imputati fil-proċeduri kriminali jkun tnejn (2) jew iżj
 
 (2) Fejn ir-reat jitwettaq minn persuna ġuridika, kull persuna fiżika li, fiż-żmien tat-twettiq tar-reat, kienet direttur, maniġer, segretarju, rappreżentant legali, amministratur temporanju jew uffiċjal ieħor simili jew persuni li jeżerċitaw kontroll fuq tali persuna ġuridika, għandha tkun ħatja ta’ reat sakemm ma tipprovax li r-reat twettaq mingħajr l-għarfien tagħha u li eżerċitat id-diliġenza dovuta b’mod adegwat sabiex tipprevjeni t-twettiq tar-reat.
 
-(3) Il-penali amministrattiva fir-rigward tas-subartikolu (2) NAZZJONALI [KAP. 653.
-
-għandha tkun dik imsemmija fis-subartikolu (1)(a).
-
-*23*
+(3) Il-penali amministrattiva fir-rigward tas-subartikolu (2) għandha tkun dik imsemmija fis-subartikolu (1)(a).
 
 ## 15. Bord ta’ Sorveljanza fuq Sanzjonijiet.
 
@@ -647,10 +555,6 @@ għandha tkun dik imsemmija fis-subartikolu (1)(a).
 
 (q) rappreżentant tal-Ministeru responsabbli għal affarijiet tal-avjazzjoni;
 
-*24*
-
-[KAP. 653. NAZZJONALI
-
 (r) rappreżentant tal-Ministeru responsabbli għall-artijiet;
 
 (s) rappreżentant tal-Ministeru responsabbli għar-reġistru pubbliku;
@@ -673,11 +577,7 @@ għandha tkun dik imsemmija fis-subartikolu (1)(a).
 
 (ii) jipproponi persuni, entitajiet jew korpi sabiex jiġu deżinjati mill-Kunsill tas-Sigurtà tan-Nazzjonijiet Uniti, jew mill-Kunsill tal-Unjoni Ewropea jew miżuri restrittivi domestiċi;
 
-(iii) jipproponi t-tneħħija mill-elenku ta’ kwalunkwe persuna, entità jew korp deżinjati, mill-Kunsill tas-Sigurtà tan- Nazzjonijiet Uniti, jew mill-Kunsill tal-Unjoni Ewropea jew NAZZJONALI [KAP. 653.
-
-miżuri restrittivi domestiċi jew it-tneħħija tal-iffriżar ta’ fondi jew riżorsi ekonomiċi ta’ kwalunkwe persuna fiżika jew ġuridika liema fondi jew riżorsi ekonomiċi kienu ffriżati skont id-dispożizzjonijiet ta’ dan l-Att;
-
-*25*
+(iii) jipproponi t-tneħħija mill-elenku ta’ kwalunkwe persuna, entità jew korp deżinjati, mill-Kunsill tas-Sigurtà tan- Nazzjonijiet Uniti, jew mill-Kunsill tal-Unjoni Ewropea jew miżuri restrittivi domestiċi jew it-tneħħija tal-iffriżar ta’ fondi jew riżorsi ekonomiċi ta’ kwalunkwe persuna fiżika jew ġuridika liema fondi jew riżorsi ekonomiċi kienu ffriżati skont id-dispożizzjonijiet ta’ dan l-Att;
 
 (iv) jirċievi u jikkunsidra applikazzjonijiet minn persuni, entitajiet jew korpi deżinjati sabiex jitneħħew mill-elenku, jew it-tneħħija tal-iffriżar tal-fondi jew riżorsi ekonomiċi fejn il-kriterji għad-deżinjazzjoni jew l-iffriżar ma ġewx sodisfatti, jew ma għadhomx sodisfatti, u minn persuni, entitajiet jew korpi li ġew deżinjati bi żball jew bi żvista, u jagħmel rakkomandazzjonijiet skont is-subparagrafu (iii);
 
@@ -697,11 +597,7 @@ miżuri restrittivi domestiċi jew it-tneħħija tal-iffriżar ta’ fondi jew r
 
 (b) il-Bord għandu, fil-qadi tal-funzjonijiet tiegħu, ikollu s-setgħa li jieħu deċiżjonijiet, jagħmel rakkomandazzjonijiet, jagħti jew jiċħad awtorizzazzjonijiet, joħroġ deċiżjonijiet, dikjarazzjonijiet u avviżi, jissorvelja u jevalwa l-konformità mal-miżuri restrittivi, jimponi penali amministrattivi, iwettaq spezzjonijiet, inklużi eżamijiet fuq il-post u mhux fuq il-post skont il-politiki u l-proċeduri interni tal- Bord, u jirreferi lill-awtoritajiet rilevanti għal azzjoni, assistenza jew informazzjoni;
 
-(ċ) il-Bord jista’ joħroġ proċeduri u gwida kif jista’ jkun meħtieġ għad-dħul fis-seħħ tad-dispożizzjonijiet ta’ dan l-Att, u li għandhom ikunu vinkolanti għall-persuni kollha li lilhom ikunu [KAP. 653. NAZZJONALI
-
-indirizzati;
-
-*26*
+(ċ) il-Bord jista’ joħroġ proċeduri u gwida kif jista’ jkun meħtieġ għad-dħul fis-seħħ tad-dispożizzjonijiet ta’ dan l-Att, u li għandhom ikunu vinkolanti għall-persuni kollha li lilhom ikunu indirizzati;
 
 (d) il-Bord jista’, kull meta jqis meħtieġ, jingaġġa persuna waħda jew aktar, li jqis li għandha għarfien espert jew li tista’ tipprovdi pariri legali xierqa, sabiex jassistuh fit-twettiq ta’ ħidmiet speċifiċi li jeħtieġu tali għarfien espert u għal dan il-għan, il-Bord jista’ jimponi tali kondizzjonijiet li jqis meħtieġa;
 
@@ -729,11 +625,7 @@ Fin-nuqqas taċ-Chairperson jew l-inabilità tiegħu li jaġixxi bħala tali l-M
 
 (7) Il-Bord jista’ jirregola l-proċedura tiegħu stess kif soġġett għad-dispożizzjonijiet ta’ dan l-Att.
 
-(8) Iċ-Chairperson jista’, wara konsultazzjoni mal-membri tal- NAZZJONALI [KAP. 653.
-
-Bord, jistieden osservaturi fuq il-Bord kif u meta meħtieġ diment li jkollhom l-approvazzjoni tas-sigurtà meħtieġa.
-
-*27*
+(8) Iċ-Chairperson jista’, wara konsultazzjoni mal-membri tal- Bord, jistieden osservaturi fuq il-Bord kif u meta meħtieġ diment li jkollhom l-approvazzjoni tas-sigurtà meħtieġa.
 
 (9) L-atti kollha li jsiru minn kwalunkwe persuna li taġixxi bil-bona fede bħala membru tal-Bord għandhom ikunu validi bħallikieku kienet membru eliġibbli, minkejja li sussegwentement jiġi skopert xi difett fil-ħatra jew kwalifika tagħha.
 
@@ -753,11 +645,7 @@ F’każijiet ta’ emerġenza, id-deċiżjonijiet għandhom jittieħdu minn tal
 
 (5) It-talba għal konsiderazzjoni mill-ġdid għandha ssir fi żmien ħamest (5) ijiem tax-xogħol min-notifika tad-deċiżjoni, deċiżjonijiet jew ċaħda għal awtorizzazzjoni tal-Bord u ma tistax issir flimkien ma’ appell. It-talba għal konsiderazzjoni mill-ġdid għandha tinkludi dokument bil-miktub li jkun fih ir-raġunijiet għal tali talba. Dan bla ħsara għad-dritt ta’ appell quddiem il-Bord tal-Appelli għall- Implimentazzjoni tas-Sanzjonijiet.
 
-(6) Appell minn konsiderazzjoni mill-ġdid maħruġa taħt is-subartikolu (4), jista’ jiġi ppreżentat permezz ta’ rikors quddiem it- Tribunal tal-Appelli għall-Implimentazzjoni tas-Sanzjonijiet mill-persuna, entità jew korp li kienu talbu lill-Bord sabiex jikkunsidra mill-ġdid id-deċiżjoni tiegħu u li jħossuhom aggravati bid-deċiżjoni [KAP. 653. NAZZJONALI
-
-tal-Bord fir-rigward tal-imsemmija talba.
-
-*28*
+(6) Appell minn konsiderazzjoni mill-ġdid maħruġa taħt is-subartikolu (4), jista’ jiġi ppreżentat permezz ta’ rikors quddiem it- Tribunal tal-Appelli għall-Implimentazzjoni tas-Sanzjonijiet mill-persuna, entità jew korp li kienu talbu lill-Bord sabiex jikkunsidra mill-ġdid id-deċiżjoni tiegħu u li jħossuhom aggravati bid-deċiżjoni tal-Bord fir-rigward tal-imsemmija talba.
 
 ## 20. Tribunal tal- Appelli għall- Implimentazz-joni tas-Sanzjonijiet.
 
@@ -784,10 +672,6 @@ tal-Bord fir-rigward tal-imsemmija talba.
 (1)Għandu jkun hemm Reġistru tat-Tribunal u r-rekords kollha għandhom jiġu ppreżentati fih.
 
 (2) Is-Segretarju tat-Tribunal għandu jkun responsabbli għall-ġestjoni tar-Reġistru. Is-Segretarju għandu wkoll jaqdi kwalunkwe dmir ieħor li jista’ jiġi assenjat lilu taħt dan l-Att jew kwalunkwe regolamenti magħmula taħtu.
-
-*29*
-
-NAZZJONALI [KAP. 653.
 
 ## 22. Proċedura.
 
@@ -817,11 +701,7 @@ NAZZJONALI [KAP. 653.
 
 (6) Il-partijiet fl-appell jistgħu jidhru jew jiġu assistiti mill-avukati jew prokuraturi legali tagħhom, jew minn kwalunkwe persuna li tgawdi l-fiduċja tagħhom:
 
-Iżda l-ebda persuna ma tkun tista’ titlob il-ħlas tad-drittijiet talli tkun irrappreżentat jew assistiet parti quddiem it-Tribunal sakemm tali assistenza ma tingħatax minn avukat jew prokuratur [KAP. 653. NAZZJONALI
-
-legali.
-
-*30*
+Iżda l-ebda persuna ma tkun tista’ titlob il-ħlas tad-drittijiet talli tkun irrappreżentat jew assistiet parti quddiem it-Tribunal sakemm tali assistenza ma tingħatax minn avukat jew prokuratur legali.
 
 ## 23. Kompetenza tat- Tribunal.
 
@@ -851,10 +731,6 @@ legali.
 
 (3) Id-deċiżjonijiet tat-Tribunal għandhom jiġu notifikati lill-partijiet kollha fl-appell.
 
-*31*
-
-NAZZJONALI [KAP. 653.
-
 ## 25. Qorti tal-Appell.     Kap. 12.
 
 Kwalunkwe waħda mill-partijiet f’appell quddiem it- Tribunal li tħossha aggravata b’deċiżjoni tat-Tribunal, tista’ tappella quddiem il-Qorti tal-Appell kif kostitwita skont l-artikolu 41(9) tal- Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili permezz ta’ rikors ippreżentat fir-reġistru ta’ dik il-qorti fi żmien għoxrin (20) jum mid-data li fiha d-deċiżjoni tat-Tribunal tkun ġiet notifikata.
@@ -879,10 +755,6 @@ Iżda l-Bord jista’ jaħtar wieħed (1) jew aktar mill-membri jew uffiċjali l
 
 (2) Kwalunkwe dokument li jidher li huwa strument magħmul jew maħruġ mill-Bord u li għandu jiġi ffirmat miċ-Chairman jew mis-sostitut tiegħu skont l-artikolu 16 f’isem il-Bord għandu jiġi riċevut bħala prova u għandu, sakemm jiġi ppruvat il-kuntrarju, jitqies bħala strument magħmul jew maħruġ mill-Bord:
 
-*32*
-
-[KAP. 653. NAZZJONALI
-
 Iżda l-Bord jista’ jaħtar persuna waħda (1) jew aktar mill- Ministeru responsabbli għall-affarijiet barranin sabiex jiffirmaw dokumenti li jidhru li huma strument magħmul jew maħruġ mill-Bord.
 
 ## 29. Kooperazzjoni mal-Bord.
@@ -905,10 +777,6 @@ Iżda l-Bord jista’ jaħtar persuna waħda (1) jew aktar mill- Ministeru respo
 
 (4) Minkejja kwalunkwe stipulazzjoni fl-Att dwar Segretezza Professjonali u kwalunkwe obbligu ta’ segretezza jew kunfidenzjalità skont kwalunkwe liġi oħra, kwalunkwe persuna, entità jew korp li mingħandhom tintalab informazzjoni mill-Bord skont il-funzjonijiet tiegħu taħt dan l-Att, għandhom jikkomunikaw mingħajr dewmien l-informazzjoni mitluba lill-Bord u għall-finijiet tal-artikolu 257 tal- Kodiċi Kriminali kwalunkwe tali żvelar għandu jitqies bħala żvelar ta’ informazzjoni lil awtorità pubblika mġiegħla bil-liġi:
 
-*33*
-
-NAZZJONALI [KAP. 653.
-
 Iżda dan l-artikolu u l-artikolu 29 bl-ebda mod ma għandhom jqiegħdu jew jimplikaw xi obbligu fuq l-awtoritajiet kompetenti tal-infurzar tal-liġi, is-Servizz ta’ Sigurtà, il-Korp għall- Analisi ta’ Informazzjoni Finanzjarja u l-Amministrazzjoni tat-Taxxa u d-Dwana ta’ Malta li jikkomunikaw lill-Bord kwalunkwe informazzjoni li titqies li tkun ta’ natura privileġġata jew li l-komunikazzjoni tagħha tista’ tkun bi ksur tal-obbligi domestiċi jew internazzjonali tagħhom jew xort’oħra tfixkel jew tippreġudika l-eżerċizzju xieraq tal-funzjonijiet tagħhom u kwalunkwe komunikazzjoni ta’ informazzjoni mill-imsemmija awtoritajiet lill- Bord għandha tkun fuq talba mill-Bord u skont Memorandum ta’ Ftehim li l-Bord u l-imsemmija awtoritajiet jistgħu rispettivament jikkonkludu bejniethom għal dan il-għan, b’qies tal-obbligi domestiċi u internazzjonali tagħhom:
 
 *           Kap. 9.  Kap. 12.*
@@ -921,11 +789,7 @@ Iżda wkoll id-dispożizzjonijiet ta’ dan l-artikolu ma għandhomx japplikaw g
 
 (6) Il-Bord għandu, għal kull ksur jew nuqqas ta’ konformità mad-dispożizzjonijiet ta’ dan l-artikolu, jimponi penali amministrattiva li ma teċċedix mitt euro (€100) fuq kwalunkwe persuna.
 
-(7) Il-Bord jista’ jiskambja informazzjoni ma’ awtoritajiet kompetenti ta’ Stati Membri oħra li jwettqu funzjonijiet simili jew ekwivalenti tal-Bord, inklużi pajjiżi terzi, jew istituzzjonijiet, korpi, uffiċċji jew aġenziji tal-Unjoni, jekk ikun strettament meħtieġ għall-fini tal-prevenzjoni, is-sejbien, l-investigazzjoni jew l-infurzar ta’ miżuri restrittivi domestiċi, miżuri restrittivi tal-Unjoni Ewropea u riżoluzzjonijiet tal-Kunsill tas-Sigurtà tan-Nazzjonijiet Uniti inklużi każijiet li jinvolvu ksur attwali jew suspettat jew fejn tkun meħtieġa kooperazzjoni transkonfinali sabiex tiġi żgurata l-implimentazzjoni [KAP. 653. NAZZJONALI
-
-effettiva ta’ tali miżuri:
-
-*34*
+(7) Il-Bord jista’ jiskambja informazzjoni ma’ awtoritajiet kompetenti ta’ Stati Membri oħra li jwettqu funzjonijiet simili jew ekwivalenti tal-Bord, inklużi pajjiżi terzi, jew istituzzjonijiet, korpi, uffiċċji jew aġenziji tal-Unjoni, jekk ikun strettament meħtieġ għall-fini tal-prevenzjoni, is-sejbien, l-investigazzjoni jew l-infurzar ta’ miżuri restrittivi domestiċi, miżuri restrittivi tal-Unjoni Ewropea u riżoluzzjonijiet tal-Kunsill tas-Sigurtà tan-Nazzjonijiet Uniti inklużi każijiet li jinvolvu ksur attwali jew suspettat jew fejn tkun meħtieġa kooperazzjoni transkonfinali sabiex tiġi żgurata l-implimentazzjoni effettiva ta’ tali miżuri:
 
 Iżda meta l-Bord jittrasferixxi data personali lil pajjiż terz li ma jkunx rikonoxxut mill-Kummissjoni Ewropea bħala wieħed li jiżgura livell adegwat ta’ protezzjoni skont l-Artikolu 45 tar- Regolament (UE) 2016/679, it-trasferiment ta’ data personali għandu jkun soġġett għad-dispożizzjonijiet tal-Kapitolu V tar-Regolament (UE) 2016/679.
 
@@ -947,10 +811,6 @@ Iżda l-avviż tal-miżura tal-iffriżar għandu jiġi ppubblikat mingħajr dewm
 
 (ċ) tiffriża mingħajr dewmien jew avviż minn qabel il-fondi u r-riżorsi ekonomiċi kollha ta’ persuni fiżiċi u persuni ġuridiċi li jaġixxu f’isem jew taħt id-direzzjoni tal-persuna, l-entità jew il-korp deżinjati;
 
-*35*
-
-NAZZJONALI [KAP. 653.
-
 (d) tipprojbixxi t-trasferiment, il-konverżjoni, il-moviment, ir-rahan, l-ipotekar, l-ipoteka jew id-disponiment b’xi mod ieħor, ta’ kwalunkwe fondi u riżorsi ekonomiċi skont il-paragrafi (a) sa (ċ);
 
 (e) tipprojbixxi kwalunkwe ċittadin Malti jew kwalunkwe persuna, entità jew korp li jinsabu f’Malta milli jrendu disponibbli kwalunkwe riżorsi ekonomiċi jew fondi jew servizzi oħra relatati, direttament jew indirettament, kompletament jew b’mod konġunt, lil jew għall-benefiċċju ta’ persuna, entità jew korp deżinjati; jew persuna, entità jew korp li jaġixxu f’isem, jew fuq id-direzzjoni ta’ persuna, entità jew korp deżinjati, sakemm ma jkunux liċenzjati, jew awtorizzati skont il-miżuri restrittivi rilevanti tal-Unjoni Ewropea jew miżuri restrittivi adottati minn Riżoluzzjoni tal-Kunsill tas- Sigurtà tan-Nazzjonijiet Uniti jew miżuri restrittivi domestiċi.
@@ -969,11 +829,7 @@ NAZZJONALI [KAP. 653.
 
 (1)Il-persuni, entitajiet jew korpi elenkati fl-Iskeda I għandhom:
 
-(a) jidentifikaw l-identità ta’ klijent u, fejn applikabbli, jidentifikaw u jivverifikaw is-sjieda u l-istruttura ta’ NAZZJONALI
-
-kontroll tal-imsemmi klijent qabel ma jingaġġaw mal-istess klijent, u jiżguraw fuq bażi kontinwa li l-informazzjoni hekk miksuba tkun għadha attwali u aġġornata;
-
-*[KAP. 653. 36*
+(a) jidentifikaw l-identità ta’ klijent u, fejn applikabbli, jidentifikaw u jivverifikaw is-sjieda u l-istruttura ta’ kontroll tal-imsemmi klijent qabel ma jingaġġaw mal-istess klijent, u jiżguraw fuq bażi kontinwa li l-informazzjoni hekk miksuba tkun għadha attwali u aġġornata;
 
 (b) jiċċekkjaw regolarment il-lista ta’ persuni, entitajiet jew korpi deżinjati skont miżuri restrittivi tal-Unjoni Ewropea, miżuri restrittivi minn Riżoluzzjonijiet tal-Kunsill tas-Sigurtà tan-Nazzjonijiet Uniti u miżuri restrittivi domestiċi u biex jeżaminaw bir-reqqa d-databases tal-klijenti tagħhom ma’ dawk il-listi qabel ma jinvolvu ruħhom ma’ klijent, fuq bażi regolari u minnufih wara li sseħħ bidla f’xi waħda minn dawn il-listi u malli jsiru jafu dwar ċirkostanzi rilevanti li jikkonċernaw il-klijent u l-operat tiegħu li jkunu nbidlu;
 
@@ -986,10 +842,6 @@ kontroll tal-imsemmi klijent qabel ma jingaġġaw mal-istess klijent, u jiżgura
 (2) Il-Ministru jista’, minn żmien għal żmien, permezz ta’ regolamenti jemenda l-Iskeda I, kif meħtieġ.
 
 (3) Il-persuni, entitajiet jew korpi elenkati fl-Iskeda I jistgħu jistrieħu fuq partijiet terzi sabiex iħarsu l-obbligi tagħhom skont is-subartikolu (1), bil-persuna, entità jew korp li jistrieħu fuq partijiet terzi jibqgħu fl-aħħar mill-aħħar responsabbli għat-tħaris tal-obbligi msemmija.
-
-*37*
-
-NAZZJONALI [KAP. 653.
 
 (4) Il-persuni, entitajiet jew korpi elenkati fl-Isekda I li jiddependu fuq partijiet terzi oħra sabiex iħarsu l-obbligi tagħhom skont is-subartikolu (1) għandhom jieħdu passi adegwati sabiex jiżguraw li, fuq talba, tali parti terza għandha minnufih tipprovdi kwalunkwe data, informazzjoni u dokumentazzjoni rilevanti meħtieġa skont is-subartikolu (1).
 
@@ -1006,10 +858,6 @@ Iżda fornituri ta’ servizzi tal-kriptoassi għandhom b’mod partikolari jikk
 (9) Kwalunkwe persuna, entità jew korp elenkati fl-Iskeda I imsemmija fis-subartikolu (1) għandhom iżommu rekords sabiex juru l-osservanza tagħhom tal-obbligi msemmija skont dan l-artikolu għal perjodu ta’ ħames (5) snin mit-tmiem tar-relazzjoni kummerċjali mal-klijenti li għandu jibda jiddekorri kif ġej:
 
 (a) fir-rigward tar-rekords miżmuma sabiex juru l-osservanza tal-obbligi msemmija skont is-subartikolu (1)(a), mid-data meta l-persuna, entità jew korp ma jibqgħux jagħtu servizz lill-klijent;
-
-*38*
-
-[KAP. 653. NAZZJONALI
 
 (b) fir-rigward tar-rekords li għandhom jinżammu sabiex tintwera l-osservanza tal-obbligi msemmija skont is-subartikolu (1)(b), mid-data meta ssir il-verifika;
 
@@ -1029,11 +877,7 @@ Fil-każ ta’ fornituri ta’ servizzi ta’ pagament li joffru trasferimenti t
 
 Iżda matul l-eżekuzzjoni ta’ trasferiment ta’ kreditu istantanju, il-fornitur ta’ servizzi ta’ pagament tal-pagatur u l-fornitur ta’ servizzi ta’ pagament involut fl-eżekuzzjoni ta’ tali trasferiment ta’ kreditu istantanju ma għandhomx jivverifikaw jekk il-pagatur jew il-benefiċjarju li l-kontijiet ta’ pagament tagħhom jintużaw għall-eżekuzzjoni ta’ dak it-trasferiment ta’ kreditu istantanju humiex persuni, entitajiet jew korpi soġġetti għal miżuri restrittivi tal-Unjoni Ewropea:
 
-Iżda wkoll dan huwa bla ħsara għall-azzjonijiet meħuda mill-fornituri ta’ servizzi ta’ pagament sabiex jikkonformaw mal-miżuri restrittivi tal-Unjoni Ewropea, għajr il-persuni, entitajiet jew NAZZJONALI [KAP. 653.
-
-korpi deżinjati skont il-miżuri restrittivi tal-Unjoni Ewropea.
-
-*39*
+Iżda wkoll dan huwa bla ħsara għall-azzjonijiet meħuda mill-fornituri ta’ servizzi ta’ pagament sabiex jikkonformaw mal-miżuri restrittivi tal-Unjoni Ewropea, għajr il-persuni, entitajiet jew korpi deżinjati skont il-miżuri restrittivi tal-Unjoni Ewropea.
 
 ## 34. L-istabbiliment ta’ mekkaniżmu ta’ firewall.
 
@@ -1045,11 +889,7 @@ korpi deżinjati skont il-miżuri restrittivi tal-Unjoni Ewropea.
 
 (4) Amministratur temporanju għandu jinħatar b’deċiżjoni tal- Bord. Il-Bord għandu jiddetermina t-terminu tal-ħatra tal-amministratur temporanju, is-setgħat, il-funzjonijiet u l-azzjonijiet li l-amministratur temporanju jista’ jwettaq, soġġett biss għall-approvazzjoni minn qabel tal-Bord. Id-deċiżjoni tal-Bord tista’ tipprovdi wkoll, fejn meħtieġ, li s-setgħat ta’ ċerti korpi jew tal-korpi kollha tal-persuna ġuridika jiġu sospiżi u temporanjament meħuda mill-amministratur temporanju jew li ċerti deċiżjonijiet tal-korpi tal-persuna ġuridika jeħtieġu l-approvazzjoni tal-amministratur temporanju.
 
-(5) Il-kondizzjonijiet tal-attivitajiet ta’ amministratur temporanju għandhom jiġu mfissra f’kuntratt ta’ amministratur temporanju bejn l-amministratur temporanju u l-persuna ġuridika kif awtorizzat mill-Bord. Dan il-kuntratt għandu jispeċifika wkoll ir-remunerazzjoni tal-amministratur temporanju u spejjeż oħra, inklużi spejjeż relatati mas-servizzi pprovduti mill-fornituri ta’ servizzi, b’kont meħud tal-kamp ta’ applikazzjoni tal-attivitajiet tal-amministratur temporanju, il-kwalifika u t-tul ta’ żmien tal-attivitajiet tiegħu, il-proċedura għar-rimborż tal-ispejjeż kif ukoll l-obbligazzjoni tal-amministratur temporanju, il-proċedura għar-riżenja u t-tneħħija tiegħu. Ir-rimunerazzjoni għandha titħallas, u l-ispejjeż għandhom jiġu [KAP. 653. NAZZJONALI
-
-rimborżati, inklużi l-ispejjeż relatati mas-servizzi mogħtija mill-fornituri ta’ servizzi minn fondi tal-persuna ġuridika mqiegħda taħt amministrazzjoni temporanja.
-
-*40*
+(5) Il-kondizzjonijiet tal-attivitajiet ta’ amministratur temporanju għandhom jiġu mfissra f’kuntratt ta’ amministratur temporanju bejn l-amministratur temporanju u l-persuna ġuridika kif awtorizzat mill-Bord. Dan il-kuntratt għandu jispeċifika wkoll ir-remunerazzjoni tal-amministratur temporanju u spejjeż oħra, inklużi spejjeż relatati mas-servizzi pprovduti mill-fornituri ta’ servizzi, b’kont meħud tal-kamp ta’ applikazzjoni tal-attivitajiet tal-amministratur temporanju, il-kwalifika u t-tul ta’ żmien tal-attivitajiet tiegħu, il-proċedura għar-rimborż tal-ispejjeż kif ukoll l-obbligazzjoni tal-amministratur temporanju, il-proċedura għar-riżenja u t-tneħħija tiegħu. Ir-rimunerazzjoni għandha titħallas, u l-ispejjeż għandhom jiġu rimborżati, inklużi l-ispejjeż relatati mas-servizzi mogħtija mill-fornituri ta’ servizzi minn fondi tal-persuna ġuridika mqiegħda taħt amministrazzjoni temporanja.
 
 (6) Amministratur temporanju għandu jinħatar mill-Bord għal perjodu massimu ta’ sena. F’każijiet eċċezzjonali, il-limitu ta’ żmien għall-ħatra tal-amministratur temporanju jista’ jiġi estiż b’deċiżjoni tal-Bord. L-amministratur temporanju jista’ jiġi sostitwit jew jitneħħa mill-kariga fi kwalunkwe waqt u jekk il-ħtieġa għall-ħatra tiegħu ma tibqax teżisti, huwa għandu jitneħħa mill-kariga mingħajr dewmien.
 
@@ -1067,11 +907,7 @@ rimborżati, inklużi l-ispejjeż relatati mas-servizzi mogħtija mill-fornituri
 
 (1)Kwalunkwe persuna, entità jew korp li jikser id-dispożizzjonijiet tal-artikolu 32 u meta tali ksur ma jkunx akkumpanjat b’xi ksur ieħor ta’ dan l-Att, għandu jeħel penali amministrattiva li tiġi imposta mill-Bord ta’ mhux anqas minn mitt euro (€100) u mhux aktar minn ħames mitt euro (€500) fir-rigward ta’ kull ksur:
 
-Iżda fil-każ ta’ fornituri ta’ servizzi ta’ pagament u ta’ kriptoassi, kull persuna fiżika li, fiż-żmien tat-twettiq tal-ksur, kienet NAZZJONALI [KAP. 653.
-
-membru tal-korp maniġerjali tal-fornitur ta’ servizzi rilevanti għandha tkun soġġetta għall-istess penali amministrattiva bħall-persuna ġuridika fejn l-imsemmija persuna fiżika, permezz ta’ att jew ommissjoni, kemm jekk intenzjonalment jew minħabba negliġenza serja, inkluż permezz tan-nuqqas ta’ sorveljanza xierqa tas-subordinati, ikkawżat jew ikkontribwixxiet għat-twettiq ta’ kwalunkwe tali ksur.
-
-*41*
+Iżda fil-każ ta’ fornituri ta’ servizzi ta’ pagament u ta’ kriptoassi, kull persuna fiżika li, fiż-żmien tat-twettiq tal-ksur, kienet membru tal-korp maniġerjali tal-fornitur ta’ servizzi rilevanti għandha tkun soġġetta għall-istess penali amministrattiva bħall-persuna ġuridika fejn l-imsemmija persuna fiżika, permezz ta’ att jew ommissjoni, kemm jekk intenzjonalment jew minħabba negliġenza serja, inkluż permezz tan-nuqqas ta’ sorveljanza xierqa tas-subordinati, ikkawżat jew ikkontribwixxiet għat-twettiq ta’ kwalunkwe tali ksur.
 
 (2) Il-penali amministrattiva applikabbli għandha tkun ta’ mhux anqas minn tliet mitt euro (€300) u mhux aktar minn elf u ħames mitt euro (€1,500) fir-rigward ta’ ksur li jitqies serju, ripetut jew sistematiku:
 
@@ -1085,11 +921,7 @@ Iżda wkoll f’każijiet fejn xi persuna fiżika jew ġuridika tonqos milli tik
 
 (5) Meta l-Bord jimponi penali amministrattiva fuq persuna fiżika jew persuna ġuridika, huwa għandu jinforma fil-ħin lil kwalunkwe awtorità superviżorja rilevanti jew lil kwalunkwe awtorità, korp jew kumitat ieħor responsabbli għall-awtorizzazzjoni, il-liċenzjar, ir-reġistrazzjoni jew ir-regolamentazzjoni ta’, jew l-għoti ta’ warrant lill-persuna, l-entità jew il-korp ikkonċernati, u għandu jipprovdi l-informazzjoni rilevanti kollha dwar il-penali amministrattiva li huwa jidhirlu meħtieġa:
 
-Iżda meta l-Bord jimponi penali amministrattiva kif stipulat fis-subartikoli (1) jew (2), il-Bord jista’ jirrakkomanda wkoll lill-awtorità, korp jew kumitat superviżorju rilevanti responsabbli għall-awtorizzazzjoni, għal-liċenzjar, għar-reġistrazzjoni jew għar-regolamentazzjoni ta’, jew l-għoti ta’ warrant lill-persuna fiżika jew persuna ġuridika kkonċernata, biex tieħu kwalunkwe azzjoni jew [KAP. 653. NAZZJONALI
-
-miżuri regolatorji disponibbli għaliha skont il-liġi applikabbli kif jidhrilha xieraq abbażi tal-fatti speċifiċi u l-kuntest partikolari tal-każ.
-
-*42*
+Iżda meta l-Bord jimponi penali amministrattiva kif stipulat fis-subartikoli (1) jew (2), il-Bord jista’ jirrakkomanda wkoll lill-awtorità, korp jew kumitat superviżorju rilevanti responsabbli għall-awtorizzazzjoni, għal-liċenzjar, għar-reġistrazzjoni jew għar-regolamentazzjoni ta’, jew l-għoti ta’ warrant lill-persuna fiżika jew persuna ġuridika kkonċernata, biex tieħu kwalunkwe azzjoni jew miżuri regolatorji disponibbli għaliha skont il-liġi applikabbli kif jidhrilha xieraq abbażi tal-fatti speċifiċi u l-kuntest partikolari tal-każ.
 
 (6) Kwalunkwe penali amministrattiva imposta mill-Bord li teċċedi elf u ħames mitt euro (€1,500) għandha tkun soġġetta għall-pubblikazzjoni fuq il-website tal-Bord skont il-politiki u l-proċeduri stabbiliti minn żmien għal żmien mill-Bord:
 
@@ -1115,11 +947,7 @@ Iżda l-limitu hawn fuq imsemmi ma għandux japplika fil-każ ta’ fornituri ta
 
 (4) Il-Qorti tal-Appell (Kompetenza Inferjuri) għandha mingħajr dewmien tappunta d-data għas-smigħ tal-appell.
 
-(5) Għall-finijiet ta’ konfidenzjalità ta’ informazzjoni u dokumenti relatati mal-proċeduri, l-appell quddiem il-Qorti tal-Appell (Kompetenza Inferjuri) ippreżentat skont dan l-artikolu għandu NAZZJONALI [KAP. 653.
-
-jinstema’ in camera.
-
-*43*
+(5) Għall-finijiet ta’ konfidenzjalità ta’ informazzjoni u dokumenti relatati mal-proċeduri, l-appell quddiem il-Qorti tal-Appell (Kompetenza Inferjuri) ippreżentat skont dan l-artikolu għandu jinstema’ in camera.
 
 ## 38. Irkupru ta’ penali amministrattivi.         Kap. 12.
 
@@ -1152,10 +980,6 @@ Skeda ta’ persuni, entitajiet jew korpi suġġetti għall-obbligi tal-
 Kwalunkwe persuna fiżika jew ġuridika li twettaq attività rilevanti jew kummerċ finanzjarju rilevanti kif imfissra skont ir-Regolamenti kontra Money Laundering u Finanzjar ta’ Terroriżmu:
 
 Iżda l-Bord għandu, skont dan l-Att, u fl-eżerċizzju tal-funzjonijiet tiegħu, joħroġ deċiżjonijiet u dokumenti ta’ gwida, li jkunu jorbtu lil detenturi ta’ liċenzji ta’ każinò u detenturi ta’ liċenzja tal-logħob u li għandhom jirregolaw l-applikabbiltà ta’ obbligi li joħorġu minn dan l-Att.
-
-*44*
-
-[KAP. 653. NAZZJONALI
 
 ## Skeda II
 
@@ -1240,10 +1064,6 @@ Kastig ieħor Krudili,
 Inuman u
 
 Degradanti
-
-*45*
-
-NAZZJONALI [KAP. 653.
 
 Regolamenti dwar L.S. 365.75 L.S. 653.07
 

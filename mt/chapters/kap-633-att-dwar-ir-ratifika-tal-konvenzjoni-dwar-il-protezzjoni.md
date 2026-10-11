@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Ratifika tal-Konvenzjoni dwar il-Protezzjoni Internazzjonali tal-Adulti (Cap. 633)
 
-*1*
-
-INTERNAZZJONALI TAL-ADULTI [KAP. 633.
-
 **KAPITOLU 633**
 
 **ATT DWAR IR-RATIFIKA TAL-KONVENZJONI DWAR IL-**
@@ -61,11 +57,7 @@ Il-funzjonijiet taħt il-Konvenzjoni ta' Awtorità Ċentrali għandhom jitwettqu
 
 (1) Il-Qorti Ċivili (Sezzjoni ta' Ġuriżdizzjoni Volontarja) jew kull qorti oħra li l-Ministru jista' b'ordni jinnomina għandu jkollha l-ġuriżdizzjoni li tiddetermina rikors li permezz tiegħu issir talba skont il-Konvenzjoni.
 
-(2) Kull meta d-Direttur fuq inizjattiva tiegħu stess jew meta jaġixxi fuq talba rċevuta minn awtorità kompetenti oħra jallega li adult ikun jeħtieġ protezzjoni fis-sens tal-Artikolu 8 tal-Konvenzjoni, jista', [KAP. 633. INTERNAZZJONALI TAL-ADULTI
-
-mingħajr preġudizzju għal kull azzjoni oħra fir-rigward tal-istess materja li tkun legalment disponibbli, jippreżenta rikors skont is-subartikolu (1) għall-ħruġ ta' miżuri diretti lejn il-protezzjoni tal-persuna jew il-proprjetà tal-adult.
-
-*2*
+(2) Kull meta d-Direttur fuq inizjattiva tiegħu stess jew meta jaġixxi fuq talba rċevuta minn awtorità kompetenti oħra jallega li adult ikun jeħtieġ protezzjoni fis-sens tal-Artikolu 8 tal-Konvenzjoni, jista', mingħajr preġudizzju għal kull azzjoni oħra fir-rigward tal-istess materja li tkun legalment disponibbli, jippreżenta rikors skont is-subartikolu (1) għall-ħruġ ta' miżuri diretti lejn il-protezzjoni tal-persuna jew il-proprjetà tal-adult.
 
 (3) Il-Qorti Ċivili (Sezzjoni ta' Ġuriżdizzjoni Volontarja) għandha fis-sitwazzjonijiet eċċezzjonali stipulati fl-Artikolu 11 tal- Konvenzjoni, fuq rikors ippreżentat skont is-subartikolu (1), toħroġ miżuri ta' natura temporanja għall-protezzjoni tal-persuna ta’ adult li għalih jirreferi tali Artikolu 11 tal-Konvenzjoni.
 
@@ -94,10 +86,6 @@ Meta deċiżjoni dwar miżuri tkun ġiet reġistrata skont l-artikolu 7, il-Qort
 (1) Il-Bord tar-Regoli stabbilit skont l-artikolu 29 tal- Kodiċi ta' Organizzazzjoni u Proċedura Ċivili jista' jagħmel kull dispożizzjoni sabiex jagħti effett lil dan l-Att kif jidhirlu li jkun meħtieġ jew spedjenti.
 
 (2) Il-Ministru responsabbli għall-ġustizzja jista' b'regolamenti taħt dan is-subartikolu jistabbilixxi d-drittijiet pagabbli fir-reġistru tal-qrati fir-rigward tal-preżentazzjoni ta’ atti ġudizzjarji in konnessjoni ma' kull proċedura skont dan l-Att:
-
-*3*
-
-INTERNAZZJONALI TAL-ADULTI [KAP. 633.
 
 *   Kap. 12.*
 
@@ -135,10 +123,6 @@ Peress li jaffermaw li l-interessi tal-adulti u r-rispett għad-dinjità u l-awt
 
 Ftiehmu dwar id-dispożizzjonijiet li ġejjin -
 
-*4*
-
-[KAP. 633. INTERNAZZJONALI TAL-ADULTI
-
 ## KAPITOLU I — KAMP TA’ APPLIKAZZJONI TAL- — KONVENZJONI — Artikolu 1
 
 (1) Din il-Konvenzjoni tapplika għall-protezzjoni f’sitwazzjonijiet internazzjonali ta’ adulti li, minħabba diżabbiltà jew nuqqas fil-kapaċitajiet personali tagħhom, ma jinsabux f’pożizzjoni li jipproteġu l-interessi tagħhom.
@@ -170,10 +154,6 @@ Il-miżuri msemmija fl-Artikolu 1 jista' jkollhom x’jaqsmu partikolarment ma�
 (b) it-tqegħid ta’ adult taħt il-ħarsien ta’ awtorità ġudizzjarja jew amministrattiva;
 
 (ċ) tutela, kurazija u reġimi simili;
-
-*5*
-
-INTERNAZZJONALI TAL-ADULTI [KAP. 633.
 
 (d) in-nomina u l-funzjonijiet ta' xi persuni jew korp li għandhom l-inkarigu tal-adult jew tal-proprjetà, ir-rappreżentanza jew l-għajnuna tal-adult;
 
@@ -211,10 +191,6 @@ INTERNAZZJONALI TAL-ADULTI [KAP. 633.
 
 (1) L-awtoritajiet ġudizzjarji jew amministrattivi tal-Istat Kontraenti tar-residenza abitwali tal-adult għandhom ġuriżdizzjoni biex jieħdu miżuri diretti lejn il-protezzjoni tal-persuna jew il-proprjetà tal-adult.
 
-*6*
-
-[KAP. 633. INTERNAZZJONALI TAL-ADULTI
-
 (2) F’każ ta’ bidla tar-residenza abitwali tal-adult fi Stat Kontraenti ieħor, l-awtoritajiet tal-Istat tar-residenza abitwali ġdida għandhom ġuriżdizzjoni.
 
 **Artikolu 6**
@@ -233,11 +209,7 @@ INTERNAZZJONALI TAL-ADULTI [KAP. 633.
 
 **Artikolu 8**
 
-(1) L-awtoritajiet ta’ Stat Kontraenti li għandhom ġuriżdizzjoni skont l-Artikolu 5 jew l-Artikolu 6, jekk iqisu li dan huwa fl-interess tal-adult, jistgħu, fuq inizjattiva tagħhom stess jew fuq talba mill-awtorità ta’ Stat Kontraenti ieħor, jitolbu lill-awtoritajiet ta’ wieħed mill-Istati Membri msemmija fil-paragrafu 2 sabiex jieħdu miżuri għall-protezzjoni tal-persuna jew il-proprjetà ta’ adult. It-talba tista’ tkun relatata mal-aspetti kollha jew ma’ xi aspetti ta’ din il- INTERNAZZJONALI TAL-ADULTI [KAP. 633.
-
-protezzjoni.
-
-*7*
+(1) L-awtoritajiet ta’ Stat Kontraenti li għandhom ġuriżdizzjoni skont l-Artikolu 5 jew l-Artikolu 6, jekk iqisu li dan huwa fl-interess tal-adult, jistgħu, fuq inizjattiva tagħhom stess jew fuq talba mill-awtorità ta’ Stat Kontraenti ieħor, jitolbu lill-awtoritajiet ta’ wieħed mill-Istati Membri msemmija fil-paragrafu 2 sabiex jieħdu miżuri għall-protezzjoni tal-persuna jew il-proprjetà ta’ adult. It-talba tista’ tkun relatata mal-aspetti kollha jew ma’ xi aspetti ta’ din il-protezzjoni.
 
 (2) L-Istati Kontraenti li l-awtoritajiet tagħhom jistgħu jiġu indirizzati kif previst fil-paragrafu preċedenti huma:
 
@@ -265,11 +237,7 @@ L-awtoritajiet tal-Istat Kontraenti fejn tkun tinsab il-proprjetà ta’ adult, 
 
 (2) Il-miżuri meħudin skont il-paragrafu preċedenti fir-rigward ta’ adult li abitwalment ikun residenti fi Stat Kontraenti għandhom jieqfu malli l-awtoritajiet li għandhom ġuriżdizzjoni skont l-Artikoli 5 sa 9 ikunu ħadu l-miżuri meħtieġa mis-sitwazzjoni.
 
-(3) Il-miżuri meħuda skont il-paragrafu 1 fir-rigward ta’ adult li abitwalment huwa residenti fi Stat mhux Kontraenti jiskadu f’kull Stat Kontraenti malli l-miżuri meħtieġa mis-sitwazzjoni u li jkunu ttieħdu mill-awtoritajiet ta’ Stat ieħor ikunu rikonoxxuti fl-Istat Kontraenti [KAP. 633. INTERNAZZJONALI TAL-ADULTI
-
-inkwistjoni.
-
-*8*
+(3) Il-miżuri meħuda skont il-paragrafu 1 fir-rigward ta’ adult li abitwalment huwa residenti fi Stat mhux Kontraenti jiskadu f’kull Stat Kontraenti malli l-miżuri meħtieġa mis-sitwazzjoni u li jkunu ttieħdu mill-awtoritajiet ta’ Stat ieħor ikunu rikonoxxuti fl-Istat Kontraenti inkwistjoni.
 
 (4) L-awtoritajiet li ħadu miżuri skont il-paragrafu 1 għandhom, fejn possibbli, jinformaw lill-awtoritajiet tal-Istat Kontraenti tar-residenza abitwali tal-adult bil-miżuri meħuda.
 
@@ -292,10 +260,6 @@ Soġġett għall-Artikolu 7, il-paragrafu 3, il-miżuri meħudin f’applikazzjo
 **Artikolu 14**
 
 Fejn miżura meħuda fi Stat Kontraenti wieħed tkun implimentata fi Stat Kontraenti ieħor, il-kundizzjonijiet tal-implimentazzjoni tagħha jkunu rregolati mil-liġi ta’ dak l-Istat l-ieħor.
-
-*9*
-
-INTERNAZZJONALI TAL-ADULTI [KAP. 633.
 
 **Artikolu 15**
 
@@ -325,10 +289,6 @@ Fejn is-setgħat ta’ rappreżentanza msemmija fl-Artikolu 15 ma jiġux eżerċ
 
 Id-dispożizzjonijiet ta’ dan il-Kapitolu japplikaw anki jekk il-liġi indikata minnhom hija l-liġi ta’ Stat li mhux Kontraenti.
 
-*10*
-
-[KAP. 633. INTERNAZZJONALI TAL-ADULTI
-
 **Artikolu 19**
 
 F’dan il-Kapitolu, it-terminu "liġi" jfisser il-liġi li tkun fis-seħħ fi Stat li ma tkunx l-għażla tiegħu dwar ir-regoli tal-kunflitt tal-liġijiet.
@@ -356,10 +316,6 @@ L-applikazzjoni tal-ligi indikata mid-dispożizzjonijiet ta’ dan il- Kapitolu 
 (d) jekk il-miżura tkun inkompatibbli ma’ miżura meħuda aktar tard fi Stat mhux Kontraenti li kien ikollu ġuriżdizzjoni skont l-Artikoli 5 sa 9, fejn din l-aħħar miżura tissodisfa l-ħtiġijiet għar-rikonoxximent fl-Istat rikjest;
 
 (e) jekk il-proċedura prevista fl-Artikolu 33 ma tkunx ġiet imħarsa.
-
-*11*
-
-INTERNAZZJONALI TAL-ADULTI [KAP. 633.
 
 **Artikolu 23**
 
@@ -389,10 +345,6 @@ Miżuri meħudin fi Stat Kontraenti wieħed u ddikjarati eżegwibbli, jew reġis
 
 (1) Stat Kontraenti għandu jinnomina Awtorità Ċentrali għall-qadi tad-dmirijiet li huma imposti mill-Konvenzjoni fuq it-tali awtoritajiet.
 
-*12*
-
-[KAP. 633. INTERNAZZJONALI TAL-ADULTI
-
 (2) L-Istati Federali, l-Istati b’iktar minn sistema legali waħda jew Stati b’unitajiet territorjali awtonomi għandhom ikunu liberi li jaħtru iktar minn Awtorità Ċentrali waħda u għandhom jispeċifikaw il-portata territorjali jew personali tal-funzjonijiet tagħhom. Meta Stat ikun ħatar aktar minn Awtorità Ċentrali waħda, huwa għandu jinnomina l-Awtorità Ċentrali li kull komunikazzjoni tista’ tiġi indirizzata lilha biex tiġi trażmessa lill-Awtorità Ċentrali adatta f’dak l-Istat.
 
 **Artikolu 29**
@@ -417,10 +369,6 @@ L-awtoritajiet kompetenti ta’ Stat Kontraenti jistgħu jħeġġu, direttament 
 
 (1) Fejn miżura ta’ protezzjoni tkun ikkontemplata, l-awtoritajiet kompetenti skont il-Konvenzjoni, jekk is-sitwazzjoni ta’ adulti hekk teħtieġ, jistgħu jitolbu kwalunkwe awtorità ta’ Stat Kontraenti ieħor li għandha informazzjoni rilevanti għall-protezzjoni ta’ persuna adulta biex tikkomunika dik l-informazzjoni.
 
-*13*
-
-INTERNAZZJONALI TAL-ADULTI [KAP. 633.
-
 (2) Stat Kontraenti jista’ jiddikjara li talbiet skont il-paragrafu 1 għandhom jiġu kkomunikati lill-awtoritajiet tiegħu biss permezz tal- Awtorità Ċentrali tiegħu.
 
 (3) L-awtoritajiet kompetenti ta’ Stat Kontraenti jistgħu jitolbu lill-awtoritajiet ta’ Stat Kontraenti ieħor biex jassistu fl-implimentazzjoni ta’ miżuri ta’ protezzjoni meħuda taħt din il- Konvenzjoni.
@@ -444,10 +392,6 @@ Awtorità ma għandhiex titlob jew tittrażmetti kull informazzjoni taħt dan il
 (1) Mingħajr preġudizzju għall-possibbiltà li jimponu ħlasijiet raġonevoli għall-provvista ta’ servizzi, l-Awtoritajiet Ċentrali u awtoritajiet pubbliċi oħra ta’ Stati Kontraenti għandhom ibatu l-ispejjeż proprji tagħhom fl-applikazzjoni tad-dispożizzjonijiet ta’ dan il-Kapitolu.
 
 (2) Kull Stat Kontraenti jista’ jidħol fi ftehimiet ma’ Stat Kontraenti wieħed jew numru ta’ Stati Kontraenti oħra dwar l-allokazzjoni ta’ ħlasijiet.
-
-*14*
-
-[KAP. 633. INTERNAZZJONALI TAL-ADULTI
 
 **Artikolu 37**
 
@@ -479,11 +423,7 @@ Kull Stat Kontraenti jista’ jaħtar l-awtoritajiet li t-talbiet għandhom jiġ
 
 **Artikolu 43**
 
-(1) Id-deżinjazzjonijiet imsemmija fl-Artikolu 28 u l-Artikolu INTERNAZZJONALI TAL-ADULTI [KAP. 633.
-
-42 għandhom jiġu kkomunikati lill-Uffiċċju Permanenti tal- Konferenza tal-Aja dwar id-Dritt Internazzjonali Privat sa mhux aktar tard mid-data tad-depożitu tal-istrument tar-ratifika, l-aċċettazzjoni jew l-approvazzjoni tal-Konvenzjoni jew l-adeżjoni tagħhom. Kull modifika tagħha għandha wkoll tiġi kkomunikata lill-Uffiċċju Permanenti.
-
-*15*
+(1) Id-deżinjazzjonijiet imsemmija fl-Artikolu 28 u l-Artikolu 42 għandhom jiġu kkomunikati lill-Uffiċċju Permanenti tal- Konferenza tal-Aja dwar id-Dritt Internazzjonali Privat sa mhux aktar tard mid-data tad-depożitu tal-istrument tar-ratifika, l-aċċettazzjoni jew l-approvazzjoni tal-Konvenzjoni jew l-adeżjoni tagħhom. Kull modifika tagħha għandha wkoll tiġi kkomunikata lill-Uffiċċju Permanenti.
 
 (2) Id-dikjarazzjoni msemmija fl-Artikolu 32, il-paragrafu 2, għandha tiġi magħmula lid-depożitarju tal-Konvenzjoni.
 
@@ -507,11 +447,7 @@ Fir-rigward ta' Stat fejn japplikaw żewġ sistemi legali jew settijiet ta' rego
 
 – bħala li tirreferi għall-unità territorjali jekk il-persuna adulta tkun għażlet lill-awtoritajiet ta’ din l-unità territorjali;
 
-– bħala li tirreferi għall-unità territorjali li l-persuna adulta ikollha l-eqreb rabta magħha jekk il- [KAP. 633. INTERNAZZJONALI TAL-ADULTI
-
-persuna adulta tkun għażlet l-awtoritajiet tal-Istat mingħajr ma speċifikat unità territorjali partikolari fi ħdan l-Istat;
-
-*16*
+– bħala li tirreferi għall-unità territorjali li l-persuna adulta ikollha l-eqreb rabta magħha jekk il-persuna adulta tkun għażlet l-awtoritajiet tal-Istat mingħajr ma speċifikat unità territorjali partikolari fi ħdan l-Istat;
 
 (f) kull referenza għal-liġi ta’ Stat li s-sitwazzjoni għandha konnessjoni sostanzjali magħha għandha tiġi mifhuma bħala referenza għal-liġi ta’ unità territorjali li s-sitwazzjoni għandha konnessjoni sostanzjali magħha;
 
@@ -533,11 +469,7 @@ Għall-fini li tiġi identifikata l-liġi applikabbli skont il-Kapitolu III, fej
 
 **Artikolu 47**
 
-Sabiex tiġi identifikata l-liġi applikabbli skont il-Kapitolu III, fejn l-Istat li għandu żewġ sistemi legali jew aktar jew settijiet ta' regoli INTERNAZZJONALI TAL-ADULTI [KAP. 633.
-
-legali applikabbli għal kategoriji differenti ta’ persuni fir-rigward ta’ kwistjonijiet koperti minn din il-Konvenzjoni, japplikaw ir-regoli li ġejjin –
-
-*17*
+Sabiex tiġi identifikata l-liġi applikabbli skont il-Kapitolu III, fejn l-Istat li għandu żewġ sistemi legali jew aktar jew settijiet ta' regoli legali applikabbli għal kategoriji differenti ta’ persuni fir-rigward ta’ kwistjonijiet koperti minn din il-Konvenzjoni, japplikaw ir-regoli li ġejjin –
 
 (a) jekk hemm regoli fis-seħħ fit-tali Stat li jidentifikaw liema fost it-tali liġijiet hija applikabbli, tapplika dik il-liġi;
 
@@ -563,10 +495,6 @@ Fir-relazzjonijiet bejn l-Istati Kontraenti, din il-Konvenzjoni tissostitwixxi l
 
 (2) Il-Konvenzjoni għandha tapplika għar-rikonoxximent u l-eżekuzzjoni ta’ miżuri meħuda wara d-dħul fis-seħħ tagħha bejn l-Istat fejn ittieħdu l-miżuri u l-Istat rikjest.
 
-*18*
-
-[KAP. 633. INTERNAZZJONALI TAL-ADULTI
-
 (3) Il-Konvenzjoni għandha tapplika mill-mument tad-dħul fis-seħħ tagħha fi Stat Kontraenti għas-setgħat ta’ rappreżentazzjoni mogħtija qabel taħt kondizzjonijiet li jikkorrispondu għal dawk stabbiliti fl-Artikolu 15.
 
 **Artikolu 51**
@@ -591,11 +519,9 @@ Is-Segretarju Ġenerali tal-Konferenza tal-Aja dwar id-Dritt Internazzjonali Pri
 
 (2) L-istrument ta’ adeżjoni għandu jiġi ddepożitat mad-depożitarju.
 
-(3) Din l-adeżjoni għandu jkollha effett biss fir-rigward tar-relazzjonijiet bejn l-Istat aderenti u dawk l-Istati Kontraenti li ma jkunux ressqu oġġezzjoni għall-adeżjoni tiegħu fis-sitt xhur ta’ wara l-irċevuta tan-notifika msemmija fis-sottoparagrafu b) tal-Artikolu 59. It-tali oġġezzjoni tista’ tiġi mressqa wkoll mill-Istati fil-mument meta dawn jirratifikaw, jaċċettaw jew japprovaw il-Konvenzjoni wara l-adeżjoni. Kull oġġezzjoni tali għandha tiġi nnotifikata lid-depożitarju. INTERNAZZJONALI TAL-ADULTI [KAP. 633.
+(3) Din l-adeżjoni għandu jkollha effett biss fir-rigward tar-relazzjonijiet bejn l-Istat aderenti u dawk l-Istati Kontraenti li ma jkunux ressqu oġġezzjoni għall-adeżjoni tiegħu fis-sitt xhur ta’ wara l-irċevuta tan-notifika msemmija fis-sottoparagrafu b) tal-Artikolu 59. It-tali oġġezzjoni tista’ tiġi mressqa wkoll mill-Istati fil-mument meta dawn jirratifikaw, jaċċettaw jew japprovaw il-Konvenzjoni wara l-adeżjoni. Kull oġġezzjoni tali għandha tiġi nnotifikata lid-depożitarju.
 
 **Artikolu 55**
-
-*19*
 
 (1) Jekk Stat għandu żewġ unitajiet territorjali jew aktar li fihom jgħoddu sistemi legali differenti dwar kwistjonijiet trattati f'din il-Konvenzjoni, jista' fiż-żmien tal-firma, ir-ratifika, l-aċċettazzjoni, l-approvazzjoni jew l-adeżjoni jiddikjara li l-Konvenzjoni għandha testendi għall-unitajiet territorjali kollha tiegħu jew biss għal wieħed jew aktar minnhom, u jista' jimmodifika din id-dikjarazzjoni billi jissottometti dikjarazzjoni oħra fi kwalunkwe ħin.
 
@@ -620,10 +546,6 @@ Is-Segretarju Ġenerali tal-Konferenza tal-Aja dwar id-Dritt Internazzjonali Pri
 (a) Għal kull Stat ieħor li jirratifikaha, jaċċettaha jew japprovaha sussegwentement, fl-ewwel jum tax-xahar wara l-iskadenza ta’ tliet xhur wara d-depożitu tal-istrument tagħhom ta’ ratifika, aċċettazzjoni, approvazzjoni jew adeżjoni;
 
 (b) għal kull Stat li jadderixxi ruħu, fl-ewwel ġurnata tax-xahar wara t-tmiem ta’ tliet xhur wara t-tmiem tal-perjodu ta’ sitt xhur previst fl-Artikolu 54, paragrafu 3;
-
-*20*
-
-[KAP. 633. INTERNAZZJONALI TAL-ADULTI
 
 (ċ) għal unità territorjali li għaliha tkun ġiet estiża l- Konvenzjoni f’konformità mal-Artikolu 55, fl-ewwel ġurnata tax-xahar wara li jgħaddu tliet xhur min-notifika msemmija f'dak l-Artikolu.
 
@@ -652,9 +574,5 @@ Id-depożitarju għandu jinnotifika lill-Istati Membri tal-Konferenza tal-Aja dw
 (g) id-denunzji msemmija fl-Artikolu 58.
 
 B’xhieda ta’ dan, is-sottoskritti, awtorizzati debitament biex jagħmlu dan, iffirmaw din il-Konvenzjoni.
-
-*21*
-
-INTERNAZZJONALI TAL-ADULTI [KAP. 633.
 
 Magħmul fl-Aja, fit-13-il jum ta’ Jannar 2000, fl-ilsien Ingliż u Franċiż, biż-żewġ testi jkunu awtentiċi ndaqs, b’kopja waħda li tiġi ddepożitata fl-arkivji tal-Gvern tar-Renju tan-Netherlands, u li għandha tintbagħat kopja ċertifikata tagħha, permezz ta' mezzi diplomatiċi, lil kull Stat Membru tal-Konferenza tal-Aja dwar id-Dritt Internazzjonali Privat.

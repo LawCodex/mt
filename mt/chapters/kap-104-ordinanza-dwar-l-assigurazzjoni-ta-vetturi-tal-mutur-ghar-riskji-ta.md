@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinanza dwar l-Assigurazzjoni ta' Vetturi tal-Mutur għar-Riskji ta' Terzi Persuni (Cap. 104)
 
-GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104.
-
 **KAPITOLU 104**
 
 **ORDINANZA DWAR L-ASSIGURAZZJONI TA’**
@@ -81,9 +77,7 @@ wheel ta’ vettura bil-mutur, tikkomprendi din il-persuna kif ukoll kull persun
 
 (iv) f’każijiet meta l-vettura ma jkollha ebda pjanċa ta’ reġistrazzjoni jew ikollha pjanċa ta’ reġistrazzjoni li ma tkunx tikkorrispondi jew ma tkunx għadha tikkorrispondi mal-vettura u din tkun involuta f’aċċident, it-territorju tal-Istat fejn ikun ġara l-aċċident, għall-finijiet li tiġi rranġata t-talba konformement ma’ l-artikoli 4 u 9D;
 
-u "vettura bil-mutur li tkun normalment bażata f’Malta" għandha GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104. titfisser skont hekk;
+u "vettura bil-mutur li tkun normalment bażata f’Malta" għandha titfisser skont hekk;
 
 *Kap. 403.*
 
@@ -137,9 +131,7 @@ Iżda jekk l-esekuzzjoni tas-sentenza li biha wieħed jinstab ħati titwaqqaf wa
 
 (a) jekk din tiġi konfermata jew imnaqqsa b’deċiżjoni tal- Qorti tal-Appell Kriminali, mid-data ta’ din id-deċiżjoni;
 
-(b) jekk ma jiġix preżentat rikors ta’ appell fiż-żmien li GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104. trid il-liġi, mill-ewwel jum wara l-ġurnata li fiha jkun skada t-terminu;
+(b) jekk ma jiġix preżentat rikors ta’ appell fiż-żmien li trid il-liġi, mill-ewwel jum wara l-ġurnata li fiha jkun skada t-terminu;
 
 (ċ) jekk l-appell jiġi ċedut permezz ta’ nota, mill-jum meta tiġi preżentata din in-nota fil-qorti jew, jekk l-appell jiġi mod ieħor deżert wara l-preżentata tar-rikors tal-appell, minn dak il-jum minn meta l-Qorti tal-Appell Kriminali tiddeċiedi wara li jsir rikors mill- Kummissarju tal-Pulizija jew mill-Awtorità għat- Trasport f’Malta.
 
@@ -193,9 +185,7 @@ Iżda dik il-polza tal-assigurazzjoni ma tkunx meħtieġa tkopri:
 
 (b) f’kull Stat imsemmi, il-kopertura meħtieġa bil-liġi ta’ dak l-Istat jew il-kopertura meħtieġa bil-liġi tal-Istat fit-territorju li fih il-vettura tkun normalment bażata jekk dik il-kopertura tkun waħda ogħla.
 
-(1B) Meta jkollu jsir ħlas minn assiguratur awtorizzat taħt polza maħruġa taħt din l-Ordinanza, l-assiguratur awtorizzat m’għandu jitlob il-ħlas ta’ ebda excess bħala kondizzjoni biex iħallas lill-parti offiża u assiguratur awtorizzat m’għandu jnaqqas ebda ammont GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104. minn dak li għandu jingħata lill-parti offiża fil-każ li ma jitħallasx excess meta titħallas il-parti offiża.
+(1B) Meta jkollu jsir ħlas minn assiguratur awtorizzat taħt polza maħruġa taħt din l-Ordinanza, l-assiguratur awtorizzat m’għandu jitlob il-ħlas ta’ ebda excess bħala kondizzjoni biex iħallas lill-parti offiża u assiguratur awtorizzat m’għandu jnaqqas ebda ammont minn dak li għandu jingħata lill-parti offiża fil-każ li ma jitħallasx excess meta titħallas il-parti offiża.
 
 (2) Meta jsir ħlas minn assiguratur awtorizzat taħt polza maħruġa bis-saħħa ta’ din l-Ordinanza, minħabba l-mewt ta’ persuna jew l-offiżi fuq il-persuna kkaġunata mill-użu ta’ vettura fit-toroq, u l-assiguratur awtorizzat ikun jaf li l-persuna li mietet jew li batiet l-offiża ġiet ikkurata fi sptar għal dik l-offiża fatali jew offiża oħra fuq il-persuna, għandhom ukoll jitħallsu mill-assiguratur awtorizzat lill-isptar l-ispejjeż raġonevoli tal-isptar għal dik il-kura, sa ammont mhux iżjed minn tmienja u ħamsin euro u tlieta u għoxrin ċenteżmu (58.23) għal kull persuna hekk ikkurata.
 
@@ -247,9 +237,7 @@ Iżda jistgħu jsiru verifiki mhux sistematiċi fuq poloz tal-assigurazzjoni sak
 
 *Miżjud: A.L. 167 tal-2008.*
 
-(1) Minkejja kull disposizzjoni ta’ kull liġi oħra li tkun tistabbilixxi xort’oħra, kull detentur ta’ polza jista’ jitlob, f’kull waqt, lill-impriża tal-assigurazzjoni tipprovdilu dikjarazzjoni fuq it-talbiet dwar ir-responsabbiltà ta’ terzi li jkunu jinvolvu lill-vettura jew vetturi koperti mill-kuntratt ta’ assigurazzjoni mill-inqas matul il-ħames snin ta’ qabel, jew fuq in-nuqqas ta’ dawk it- GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104. talbiet.
+(1) Minkejja kull disposizzjoni ta’ kull liġi oħra li tkun tistabbilixxi xort’oħra, kull detentur ta’ polza jista’ jitlob, f’kull waqt, lill-impriża tal-assigurazzjoni tipprovdilu dikjarazzjoni fuq it-talbiet dwar ir-responsabbiltà ta’ terzi li jkunu jinvolvu lill-vettura jew vetturi koperti mill-kuntratt ta’ assigurazzjoni mill-inqas matul il-ħames snin ta’ qabel, jew fuq in-nuqqas ta’ dawk it-talbiet.
 
 (2) Meta dik it-talba sssir lill-impriża tal-assigurazzjoni, l-impriża tal-assigurazzjoni għandha tipprovdi d-dikjarazzjoni lill-persuni assigurati fi żmien ħmistax-il ġurnata minn meta ssir it-talba.
 
@@ -313,9 +301,7 @@ Iżda r-rappreżentant tat-talbiet għad-danni għandu jkun:
 
 (3) Ir-rappreżentant tat-talbiet għad-danni għandu, fir-rigward tat-talbiet għad-danni msemmija fis-subartikolu (1), jiġbor kull informazzjoni meħtieġa f’dak li għandu x’jaqsam mar-risolviment tat-talbiet għad-danni u għandu jieħu l-miżuri meħtieġa biex jinnegozja r-risolviment ta’ talbiet għad-danni.
 
-(4) L-assiguratur awtorizzat għandu jieħu l-miżuri kollha meħtieġa biex ivesti lir-rappreżentant tat-talbiet għad-danni b’setgħat suffiċjenti biex jirrappreżenta lill-assiguratur awtorizzat fir-rigward ta’ partijiet offiżi fil-każijiet imsemmija fis-subartikolu (1) u li jadempixxi għal kollox it-talbiet kollha li jagħmlu għad- GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104. danni.
+(4) L-assiguratur awtorizzat għandu jieħu l-miżuri kollha meħtieġa biex ivesti lir-rappreżentant tat-talbiet għad-danni b’setgħat suffiċjenti biex jirrappreżenta lill-assiguratur awtorizzat fir-rigward ta’ partijiet offiżi fil-każijiet imsemmija fis-subartikolu (1) u li jadempixxi għal kollox it-talbiet kollha li jagħmlu għad-danni.
 
 (5) Il-ħtieġa li jinħatar ir-rappreżentant tat-talbiet għad-danni ma għandux jipprekludi l-jedd li jkollha l-parti offiża jew l-impriża tal-assigurazzjoni tiegħu, li tistitwixxi proċedirnenti direttament kontra l-persuna li tkun ikkaġunat l-aċċident jew kontra l-assiguratur awtorizzat.
 
@@ -353,9 +339,7 @@ Iżda parti offiża tista’ ma tippreżentax talba għad-danni lill-korp li jag
 
 (b) lill-korp li jagħti kumpens fl-Istat imsemmi tal-impriża tal-istabbiliment tal-assigurazzjoni li joħroġ il-polza;
 
-(ċ) jekk tkun magħrufa, l-persuna li tkun ikkaġunat l- GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104. aċċident,
+(ċ) jekk tkun magħrufa, l-persuna li tkun ikkaġunat l-aċċident,
 
 li tkun irċieviet talba għad-danni mill-parti offiża u li tkun ser twieġeb għal dik it-talba għad-danni fi żmien xahrejn mill-preżentata ta’ dik it-talba għad-danni.
 
@@ -409,11 +393,11 @@ Iżda l-aċċident irid ikun:
 
 *Kap. 586.*
 
-GĦAR-RISKJI TA’ TERZI PERSUNI
+## 10. Dmir tal-assiguraturi li jesegwixxu l-ħlas li għalih tkun ġiet ikkundannata persuna assigurata kontra r-riskji ta’ terzi persuni.
 
-[KAP. 104. 10. (1) Jekk, wara li jkun inħareġ ċertifikat ta’ assigurazzjoni taħt l-artikolu 4(4) tal-artikolu 4 lill-persuna li tkun ħadet il-polza, tiġi mogħtija sentenza kontra persuna assigurata bil-polza, dwar responsabbiltà li għandha tkun koperta minn polza taħt l-artikolu 4(1) (meta hija responsabbiltà koperta bil-kondizzjonijiet tal-polza), f’dan il-każ, għad illi l-assiguratur awtorizzat ikun jista’ jannulla jew iħassar, jew ikun annulla jew ħassar il-polza, huwa għandu, bla ħsara tad-disposizzjonijiet ta’ dan l-artikolu iħallas lill-persuni li favur tagħhom tkun ingħatat is-sentenza, kull somma ta’ flus li għandha titħallas bis-saħħa ta’ dik is-sentenza dwar ir-responsabbiltà fuq imsemmija, kompriż l-ammont li jmiss jitħallas għal spejjeż u għal imgħaxijiet fuq dik is-somma u dik is-sentenza wara jumejn li tiġi notifikata lill-assiguratur b’att ġudizzjarju għandha tikkostitwixxi titolu esekuttiv kontra dak l-assiguratur għall-finijiet kollha tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili u tista’ tiġi enforzata kontra tiegħu.
+*Emendat: XXII. 1962.4; III. 1985.4; XLI. 1986.4; VII. 1990.4; XXX. 2002.2,9; IX. 2004.18. A.L. 181 tal-2006.*
 
-*Dmir tal-assiguraturi li jesegwixxu l-ħlas li għalih tkun ġiet ikkundannata persuna assigurata kontra r-riskji ta’ terzi persuni. Emendat: XXII. 1962.4; III. 1985.4; XLI. 1986.4; VII. 1990.4; XXX. 2002.2,9; IX. 2004.18. A.L. 181 tal-2006.*
+(1) Jekk, wara li jkun inħareġ ċertifikat ta’ assigurazzjoni taħt l-artikolu 4(4) tal-artikolu 4 lill-persuna li tkun ħadet il-polza, tiġi mogħtija sentenza kontra persuna assigurata bil-polza, dwar responsabbiltà li għandha tkun koperta minn polza taħt l-artikolu 4(1) (meta hija responsabbiltà koperta bil-kondizzjonijiet tal-polza), f’dan il-każ, għad illi l-assiguratur awtorizzat ikun jista’ jannulla jew iħassar, jew ikun annulla jew ħassar il-polza, huwa għandu, bla ħsara tad-disposizzjonijiet ta’ dan l-artikolu iħallas lill-persuni li favur tagħhom tkun ingħatat is-sentenza, kull somma ta’ flus li għandha titħallas bis-saħħa ta’ dik is-sentenza dwar ir-responsabbiltà fuq imsemmija, kompriż l-ammont li jmiss jitħallas għal spejjeż u għal imgħaxijiet fuq dik is-somma u dik is-sentenza wara jumejn li tiġi notifikata lill-assiguratur b’att ġudizzjarju għandha tikkostitwixxi titolu esekuttiv kontra dak l-assiguratur għall-finijiet kollha tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili u tista’ tiġi enforzata kontra tiegħu.
 
 *Kap. 12.*
 
@@ -447,9 +431,7 @@ Iżda, assiguratur awtorizzat li jkun ħa f’kawża d-dikjarazzjoni kif jingħa
 
 (7) F’din l-Ordinanza, ir-riferenzi għal ċertifikat ta’ assigurazzjoni f’disposizzjonijiet dwar ir-radd ta’ ċertifikat ta’ assigurazzjoni jew it-telfa jew distruzzjoni tiegħu, rigward poloz li taħthom ikun ġie maħruġ iżjed minn ċertifikat wieħed, għandhom jiftiehmu bħala riferenzi għaċ-ċertifikati kollha, u, fil-każ li tiġi maħruġa kopja ta’ ċertifikat, għandhom jiftiehmu bħala li jikkomprendu riferenza għal dik il-kopja.
 
-GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104. (8) Kull riferenza f’dan l-artikolu għal xi deċiżjoni jew sentenza għandha titqies li tinkludi riferenza għal lodi ta’ arbitraġġ magħmul taħt l-Att dwar l-Arbitraġġ, u wieħed miksub taħt l-artikolu 166A tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili, u kull riferenza għal xi azzjoni jew għal proċedimenti għandha titqies li tinkludi riferenza għal procedimenti ta’ arbitraġġ u għal dak l-artikolu 166A taħt dak l-Att.
+(8) Kull riferenza f’dan l-artikolu għal xi deċiżjoni jew sentenza għandha titqies li tinkludi riferenza għal lodi ta’ arbitraġġ magħmul taħt l-Att dwar l-Arbitraġġ, u wieħed miksub taħt l-artikolu 166A tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili, u kull riferenza għal xi azzjoni jew għal proċedimenti għandha titqies li tinkludi riferenza għal procedimenti ta’ arbitraġġ u għal dak l-artikolu 166A taħt dak l-Att.
 
 *Kap. 387. Kap. 12.*
 
@@ -521,11 +503,11 @@ Izda l-klawżola msemmija fil-paragrafu (a) tista’ tiġi invokata kontra persu
 
 Meta ċertifikat ta’ assigurazzjoni jiġi maħruġ taħt l-artikolu 4(4) lill-persuna li tkun ħadet il-polza u l-polza tiġi mħassra bil-kunsens ta’ xulxin bis-saħħa ta’ kondizzjonijiet fil-polza, il-persuna li favur tagħha jkun ġie maħruġ iċ-ċertifikat għandha, fi żmien sebat ijiem minn dakinhar li t-tħassir ikollu effett, tagħti lura ċ-ċertifikat lill-assiguratur awtorizzat jew, jekk ikun ġie mitluf jew distrutt, tagħmel u tagħti lill-assiguratur awtorizzat dikjarazzjoni maħlufa f’dan is-sens, u kemm-il darba tonqos li tagħmel dan, tkun ħatja ta’ reat.
 
-GĦAR-RISKJI TA’ TERZI PERSUNI
+## 15. Dmir li tagħti avviż lill-assiguratur. Revokat: XLI. 1986.3.
 
-[KAP. 104. 15. (1) Meta jiġri fatt fir-rigward ta’ xi vettura bil-mutur b’konsegwenza li assiguratur awtorizzat jista’ jkun responsabbli biex jindennizza lill-parti offiża, il-persuna assigurata għandha kemm jista’ jkun malajr wara li jiġri dak il-fatt u f kull każ fi żmien ġimgħatejn, jew meta l-fatt ma jkunx ġara fil-preżenza tagħha, fi żmien ġimgħatejn minn meta tkun saret taf bil-ġrajja tal-fatt għall-ewwel darba, tagħti lill-assiguratur awtorizzat li jkun ħareġ il-polza, avviż bil-miktub tal-ġrajja tal-fatt flimkien ma’ dawk il-partikolaritajiet tal-fatt li tkun taf bihom jew li tkun tista’ takkwista u li jkunu raġonevolment meħtieġa mill-assiguratur.
+*Miżjud: XXX. 2002.11.*
 
-*Dmir li tagħti avviż lill-assiguratur. Revokat: XLI. 1986.3. Miżjud: XXX. 2002.11.*
+(1) Meta jiġri fatt fir-rigward ta’ xi vettura bil-mutur b’konsegwenza li assiguratur awtorizzat jista’ jkun responsabbli biex jindennizza lill-parti offiża, il-persuna assigurata għandha kemm jista’ jkun malajr wara li jiġri dak il-fatt u f kull każ fi żmien ġimgħatejn, jew meta l-fatt ma jkunx ġara fil-preżenza tagħha, fi żmien ġimgħatejn minn meta tkun saret taf bil-ġrajja tal-fatt għall-ewwel darba, tagħti lill-assiguratur awtorizzat li jkun ħareġ il-polza, avviż bil-miktub tal-ġrajja tal-fatt flimkien ma’ dawk il-partikolaritajiet tal-fatt li tkun taf bihom jew li tkun tista’ takkwista u li jkunu raġonevolment meħtieġa mill-assiguratur.
 
 (2) Meta jiġri fatt fir-rigward ta’ vettura bil-mutur li b’konsegwenza tiegħu assiguratur awtorizzat jista’ jsir responsabbli biex jindennizza parti offiża, il-persuna li kienet qegħda attwalment tuża l-vettura bil-mutur meta jkun ġara l-fatt hawn qabel imsemmi, għandha:
 
@@ -569,9 +551,7 @@ Iżda l-assiguratur awtorizzat ikollu biss jedd jirkupra dawk l-ispejjeż u mgħ
 
 (1) L-Awtorità għat-Trasport f’Malta, meta mitluba minn persuna li tippretendi li għandha jedd li titlob ħlas taħt l-aħħar artikolu qabel dan għandha tagħti lil dik il-persuna kull informazzjoni li tista’ dwar il-marki ta’ identifikazzjoni tal-vettura bil-mutur li, dik il-persuna tippretendi, hija l-vettura li bl-użu tagħha ġrat l-offiża fuq il-persuna, u dwar l-identità u l-indirizz tal-persuna li kienet tuża l-vettura fiż-żmien li ġara l-fatt li ikkaġuna dik l-offiża.
 
-GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104. (2) It-talba għall-ħlas taħt l-aħħar artikolu qabel dan tista’, fiż-żmien li tkun qiegħda ssir il-kura ta’ urġenza, issir bil-fomm lill-persuna li kienet tuża l-vettura, u jekk ma ssirx hekk għandha ssir b’talba bil-miktub innotifikata lil dik il-persuna fi żmien sebat ijiem mill-ġurnata li fiha tkun saret il-kura ta’ urġenza.
+(2) It-talba għall-ħlas taħt l-aħħar artikolu qabel dan tista’, fiż-żmien li tkun qiegħda ssir il-kura ta’ urġenza, issir bil-fomm lill-persuna li kienet tuża l-vettura, u jekk ma ssirx hekk għandha ssir b’talba bil-miktub innotifikata lil dik il-persuna fi żmien sebat ijiem mill-ġurnata li fiha tkun saret il-kura ta’ urġenza.
 
 (3) It-talba bil-miktub għandha tkun iffirmata minn min jagħmilha jew, fil-każ ta’ sptar, mill-uffiċjal responsabbli tiegħu, għandu jkun fiha l-isem u l-indirizz ta’ min jagħmilha, iċ-ċirkostanzi li taħthom saret il-kura ta’ urġenza, u li l-ewwel saret minn min jagħmel it-talba, jew fil-każ ta’ sptar, fl-isptar.
 
@@ -627,9 +607,7 @@ KAP. 104.] GĦAR-RISKJI TA’ TERZI PERSUNI
 
 (b) għall-koordinament tal-ġbir u t-tixrid ta’ dik l-informazzjoni; u
 
-GĦAR-RISKJI TA’ TERZI PERSUNI
-
-[KAP. 104. (ċ) għall-għajnuna li tingħata lil persuni li jkollhom jedd li jinżammu mgħarrfa bl-informazzjoni msernmija fil-paragrafu (a)(i), (ii), (iii), (iv) u (v).
+(ċ) għall-għajnuna li tingħata lil persuni li jkollhom jedd li jinżammu mgħarrfa bl-informazzjoni msernmija fil-paragrafu (a)(i), (ii), (iii), (iv) u (v).
 
 L-informazzjoni taħt il-paragrafu (a)(i), (ii) u (iii) għandha tibqa’ tinżamm għal perjodu ta’ seba’ snin wara li tintemm ir-reġistrazzjoni tal-vettura bil-mutur jew jintemm il-kuntratt ta’ assigurazzjoni skont liema tiġi l-ewwel.
 
@@ -685,11 +663,11 @@ hu ħati ta’ reat, u jeħel, meta jinsab hekk ħati, priġunerija għal żmien
 
 Kull min, bil-għan li jikseb xi vantaġġ jew benefiċċju għalih innifsu jew għal oħrajn, xjentement, f’dokument maħsub li jasal għand assiguratur awtorizzat, dikjarazzjoni jew stqarrija falza, jew jagħti tagħrif falz, dwar iċ-ċirkostanzi ta’ xi inċident li jikkaġuna offiża fuq persuna jew ħsara lil xi vettura, annimal jew proprjetà oħra, jeħel, meta jinsab ħati, il-piena ta’ priġunerija għal żmien mhux iżjed minn sitt xhur jew multa ta’ mhux inqas minn mija u sittax-il euro u sebgħa u erbgħin ċenteżmu (116.47) u mhux iżjed minn elf, mija u erbgħa u sittin euro u disgħa u sittin ċenteżmu (1,164.69) jew il-priġunerija u l-multa flimkien.
 
-GĦAR-RISKJI TA’ TERZI PERSUNI
+## 20. Prosekuzzjoni.
 
-[KAP. 104. 20. Il-proċedimenti għar-reati kollha taħt din l-Ordinanza jsiru skont id-disposizzjonijiet tal-Kodiċi Kriminali.
+*Emendat: XIII. 1968.3. Kap. 9.*
 
-*Prosekuzzjoni. Emendat: XIII. 1968.3. Kap. 9.*
+Il-proċedimenti għar-reati kollha taħt din l-Ordinanza jsiru skont id-disposizzjonijiet tal-Kodiċi Kriminali.
 
 ## 21. Min jirrifjuta li jagħti l-isem jew l-indirizz u min jagħti isem jew indirizz falz.
 

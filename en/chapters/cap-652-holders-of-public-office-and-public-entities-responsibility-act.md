@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Holders of Public Office and Public Entities (Responsibility) Act (Cap. 652)
 
-*1*
-
-(RESPONSIBILITY) [CAP. 652.
-
 **CHAPTER 652**
 
 **HOLDERS OF PUBLIC OFFICE AND PUBLIC**
@@ -55,10 +51,6 @@ In this Act, unless the context otherwise requires:
 
 "State administration" means any individual employed or otherwise lawfully exercising a public function as part of the executive operations of the Government, of the public administration and of holders of offices established or in respect of which provision is made in the Constitution;
 
-*2*
-
-[CAP.652. (RESPONSIBILITY)
-
 * Cap. 603.*
 
 "State Advocate" means the State Advocate as established in the State Advocate Act.
@@ -81,10 +73,6 @@ Provided that every time limit for the filing of a reply to any such act by a pe
 
 (4) (a) The State shall act as guarantor for any sum which the Courts may order to be secured by means of civil acts of a precautionary nature pending a final and definitive Court judgment as provided in sub-article (1). Once the State provides such guarantee, the warrants or precautionary acts issued against the respondent shall be immediately revoked, and a counter-warrant and the relative decree of revocation and cancellation shall be issued in respect thereof.
 
-*3*
-
-(RESPONSIBILITY) [CAP. 652.
-
 (b) After a final and definitive judgment as referred to in sub-article (1) has been delivered, the State shall indemnify the person condemned to effect payment in accordance with that judgment from the effects of any executive act or warrant issued against such person by virtue of the said final and definitive judgment. Once the State either deposits in court the amount due following such final and definitive judgment or deposits an unconditional guarantee to the effect that it shall pay the amount due by virtue of the said judgment, any executive warrant or act shall be revoked immediately and the counter-warrant and the relative decree of revocation and cancellation shall be issued in respect thereof.
 
 (5) The State shall only be obliged to pay the payment of moneys including damages or compensation arising from civil responsibility under this Act insofar as the person within the State administration who has been sued has not acted with criminal malicious intent as established by a Court of Criminal Jurisdiction or with culpable gross negligence.
@@ -97,10 +85,6 @@ Provided that every time limit for the filing of a reply to any such act by a pe
 
 ## 4. Transitory provision.
 
-The provisions of this Act shall apply from the date of entry into force of this Act to pending judicial proceedings in which a person within the State administration is the respondent. However the [CAP.652. (RESPONSIBILITY)
-
-applicant or the respondent shall affect service in accordance with article 3(2) within a period not exceeding thirty (30) days from the date of entry into force of this Act:
-
-*4*
+The provisions of this Act shall apply from the date of entry into force of this Act to pending judicial proceedings in which a person within the State administration is the respondent. However the applicant or the respondent shall affect service in accordance with article 3(2) within a period not exceeding thirty (30) days from the date of entry into force of this Act:
 
 Provided that in respect of cases which on the date of coming into force of this Act shall have been adjourned for judgment, no service in accordance with article 3(2) shall be required if any person as mentioned in paragraphs (a), (b) or (c) of article 3(2) who would have to be served in accordance with the said article is already a party or intervener to the case, provided that if no such person is a party to the case, it shall be sufficient that the State Advocate is informed of the case by means of a judicial letter which shall be filed before judgment is delivered and in any case, not later than thirty (30) days from the date of coming into force of this Act.

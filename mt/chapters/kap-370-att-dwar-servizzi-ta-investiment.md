@@ -249,36 +249,23 @@ Iżda s-servizz ta’ Immaniġġar ta’ Investimenti kif hemm fl- Ewwel Skeda g
 
 "sistema multilaterali" tfisser sistema multilaterali kif imfisser fil-punt (11) tal-Artikolu 2(1) tal-MiFIR;
 
-"skema ta’ investiment kollettiv" tfisser kull skema jew
+"skema ta’ investiment kollettiv" tfisser kull skema jew arranġament li jkollu bħala l-għan tiegħu jew bħala wieħed mill-għanijiet tiegħu l-investiment kollettiv ta’ kapital akkwistat bil-mezz ta’ offerta ta’ unitajiet biex ikunu sottoskritti, mibjugħa jew mibdula u li jkollu il-karatteristiċi li ġejjin:
 
-arranġament li jkollu bħala l-għan tiegħu jew bħala wieħed mill-  
-għanijiet tiegħu l-investiment kollettiv ta’ kapital akkwistat bil-  
-mezz ta’ offerta ta’ unitajiet biex ikunu sottoskritti, mibjugħa jew  
-mibdula u li jkollu il-karatteristiċi li ġejjin:  
-(a) l-iskema jew l-arranġament jaħdem fuq prinċipju ta’  
-riskju mifrux; u jew  
-(b) il-kontribuzzjonijiet tal-parteċipanti u l-profitti jew id-  
-dħul li minnhom ikunu se jsiru l-ħlasijiet lilhom ikunu  
-tqegħdu f’pool; jew  
-(ċ) fuq it-talba tad-detenturi, l-unitajiet ikunu jew ikunu  
-jistgħu jinxtraw lura jew ikunu mifdija mill-attiv tal-  
-iskema jew tal-arranġament, b’mod kontinwu jew fi  
-blokki f’intervalli qosra; jew  
-(d) l-unitajiet huma maħruġa, jew ikunu nħarġu, jew ikunu  
-se jinħarġu kontinwament jew fi blokki f’intervalli  
-qosra:  
-Iżda fond ta’ investiment alternattiv li ma ssirx promozzjoni  
-tiegħu lil investituri bl-imnut u li ma jkollux il-karatteristika elenkata  
-fil-paragrafu (a) ta’ din it-tifsira jitqies biss li jkun skema ta’  
-investiment kollettiv jekk l-iskema, f’ċirkostanzi speċifiċi kif stabbiliti  
-permezz ta’ regolamenti taħt dan l-Att, tkun eżenti minn dik il-ħtieġa u  
-tkun tissodisfa kull kondizzjoni li tista’ tiġi preskritta;  
-"Stat Membru" tfisser Stat Membru tal-Komunitajiet Ewropej;  
-" Stat Membru domestiku jew Stat ŻEE" tfisser:  
-(a) meta l-kumpanija ta’ investiment Ewropew tkun persuna  
-fiżika, l-Istat Membru jew l-Istat ŻEE fejn ikun jinsab l-
+(a) l-iskema jew l-arranġament jaħdem fuq prinċipju ta’ riskju mifrux; u jew
 
-uffiċċju reġistrat ta’ dik il-persuna; jew
+(b) il-kontribuzzjonijiet tal-parteċipanti u l-profitti jew id-dħul li minnhom ikunu se jsiru l-ħlasijiet lilhom ikunu tqegħdu f’pool; jew
+
+(ċ) fuq it-talba tad-detenturi, l-unitajiet ikunu jew ikunu jistgħu jinxtraw lura jew ikunu mifdija mill-attiv tal-iskema jew tal-arranġament, b’mod kontinwu jew fi blokki f’intervalli qosra; jew
+
+(d) l-unitajiet huma maħruġa, jew ikunu nħarġu, jew ikunu se jinħarġu kontinwament jew fi blokki f’intervalli qosra:
+
+Iżda fond ta’ investiment alternattiv li ma ssirx promozzjoni tiegħu lil investituri bl-imnut u li ma jkollux il-karatteristika elenkata fil-paragrafu (a) ta’ din it-tifsira jitqies biss li jkun skema ta’ investiment kollettiv jekk l-iskema, f’ċirkostanzi speċifiċi kif stabbiliti permezz ta’ regolamenti taħt dan l-Att, tkun eżenti minn dik il-ħtieġa u tkun tissodisfa kull kondizzjoni li tista’ tiġi preskritta;
+
+"Stat Membru" tfisser Stat Membru tal-Komunitajiet Ewropej;
+
+" Stat Membru domestiku jew Stat ŻEE" tfisser:
+
+(a) meta l-kumpanija ta’ investiment Ewropew tkun persuna fiżika, l-Istat Membru jew l-Istat ŻEE fejn ikun jinsab l-uffiċċju reġistrat ta’ dik il-persuna; jew
 
 (b) meta l-kumpanija ta’ investiment Ewropew tkun persuna ġuridika, l-Istat Membru jew Stat ŻEE fejn ikun jinsab l-uffiċċju reġistrat tagħha; jew
 

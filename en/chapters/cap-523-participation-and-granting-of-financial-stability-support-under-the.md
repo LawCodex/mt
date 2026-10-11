@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Participation and Granting of Financial Stability Support under the European Stability Mechanism Act (Cap. 523)
 
-*1*
-
-SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523.
-
 **CHAPTER 523**
 
 PARTICIPATION AND GRANTING OF FINANCIAL
@@ -75,10 +71,6 @@ The Government of Malta is hereby authorised to ratify the Treaty while depositi
 
 \*Art. 12: Principles
 
-*3*
-
-SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523.
-
 ## 5. Granting of financial stability assistance beyond article 3.
 
 Any participation and stability assistance granted by the Government of Malta beyond the purpose specified under sub-article (2) of Article 3, may only be done in such a manner and for such purpose as the House of Representatives may by resolution determine.
@@ -123,9 +115,7 @@ Member States whose currency is not the euro will, if they so wish, be involved 
 
 ## 5.
 
-The European Council called for the acceleration of the work on the six legislative proposals on economic governance, building on the recommendations of the Task Force endorsed last October and keeping a high level of ambition, so that they can be adopted by June 2011. It welcomed the Council’s report on the treatment of systemic pension reform under the Stability and Growth Pact and called for the report to be reflected in the specifications on the implementation of the reformed SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 5
-
-SGP.
+The European Council called for the acceleration of the work on the six legislative proposals on economic governance, building on the recommendations of the Task Force endorsed last October and keeping a high level of ambition, so that they can be adopted by June 2011. It welcomed the Council’s report on the treatment of systemic pension reform under the Stability and Growth Pact and called for the report to be reflected in the specifications on the implementation of the reformed SGP.
 
 ## 6.
 
@@ -183,8 +173,6 @@ Having regard to the proposal for revising Article 136 of the Treaty on the Func
 
 3 Opinion of … (not yet published in the Official Journal).
 
-SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 7
-
 Whereas:
 
 (1) Article 48(6) of the Treaty on European Union (TEU) allows the European Council, acting by unanimity after consulting the European Parliament, the Commission and, in certain cases, the European Central Bank, to adopt a decision amending all or part of the provisions of Part Three of the Treaty on the Functioning of the European Union (TFEU). Such a decision may not increase the competences conferred on the Union in the Treaties and its entry into force is conditional upon its subsequent approval by the Member States in accordance with their respective constitutional requirements.
@@ -219,9 +207,7 @@ This Decision shall be published in the Official Journal of the European Union.
 
 Done at,
 
-For the European Council The President SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 9
-
-ANNEX II GENERAL FEATURES OF THE FUTURE MECHANISM
+For the European Council The President ANNEX II GENERAL FEATURES OF THE FUTURE MECHANISM
 
 **EUROGROUP STATEMENT OF 28 NOVEMBER 2010**
 
@@ -254,8 +240,6 @@ The overall effectiveness of this framework will be evaluated in 2016 by the Com
 We restate that any private sector involvement based on these terms and conditions would not be effective before mid-2013.
 
 President of the European Council Herman Van Rompuy has indicated that his proposal on limited treaty change to the European Council at its next meeting will reflect today's decision."
-
-SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 11
 
 ANNEX III STATEMENT BY THE HEADS OF STATE OR GOVERNMENT
 
@@ -303,11 +287,9 @@ In particular, Member States will present multi-annual consolidation plans inclu
 
 ## 4.
 
-Fiscal consolidation efforts must be complemented by growth-enhancing structural reforms. To that end, Member States emphasise their commitment to the SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 13
+Fiscal consolidation efforts must be complemented by growth-enhancing structural reforms. To that end, Member States emphasise their commitment to the Europe 2020 Strategy. In particular, they will implement measures in order to:
 
 \*In line with the Council’s conclusions of 15 February and 7 March 2011 and further to the Commission’s Annual Growth Survey. See also the Presidency’s synthesis report of 16 March 2011.
-
-Europe 2020 Strategy. In particular, they will implement measures in order to:
 
 \- make work more attractive;
 
@@ -389,9 +371,7 @@ II. LIBYA / SOUTHERN NEIGHBOURHOOD
 
 ## 18.
 
-The European Council discussed the situation in Libya and endorsed the SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 15
-
-conclusions adopted by the Foreign Affairs Council on 21 March. Recalling its March 11 Declaration, the European Council expressed its satisfaction after the adoption of UN Security Council Resolution 1973, which expresses the principle of the responsibility to protect, and underlined its determination to contribute to its implementation. It also welcomed the Paris Summit of 19 March as a decisive contribution to its implementation. It condemned the continued defiance by the Libyan regime of UN Security Council Resolutions 1970 and 1973, and the violent and brutal repression the regime continues to inflict upon its own citizens. It noted that the actions taken in conformity with the mandate from the Security Council significantly contributed to protecting civilians and civilian-populated areas under threat of attack and helped to save lives of civilians. When the civilian populations are safe and secure from the threat of attack and the objectives of UNSCR 1973 are met, military operations will come to an end.
+The European Council discussed the situation in Libya and endorsed the conclusions adopted by the Foreign Affairs Council on 21 March. Recalling its March 11 Declaration, the European Council expressed its satisfaction after the adoption of UN Security Council Resolution 1973, which expresses the principle of the responsibility to protect, and underlined its determination to contribute to its implementation. It also welcomed the Paris Summit of 19 March as a decisive contribution to its implementation. It condemned the continued defiance by the Libyan regime of UN Security Council Resolutions 1970 and 1973, and the violent and brutal repression the regime continues to inflict upon its own citizens. It noted that the actions taken in conformity with the mandate from the Security Council significantly contributed to protecting civilians and civilian-populated areas under threat of attack and helped to save lives of civilians. When the civilian populations are safe and secure from the threat of attack and the objectives of UNSCR 1973 are met, military operations will come to an end.
 
 The European Council emphasised the key role of Arab countries, and particularly the Arab League, in actively supporting the implementation of UNSCR 1973, and in finding a political solution to the crisis.
 
@@ -453,9 +433,7 @@ The European Union commends the swift and decisive action taken by the Japanese 
 
 ## 30.
 
-Looking to the future, the European Council reiterates the strategic importance of the EU/Japan relationship. The forthcoming summit must be used to strengthen this relationship and bring forward our common agenda, including SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 17
-
-through the potential launch of negotiations for a free trade agreement on the basis that Japan is willing to tackle inter alia the issue of non-tariff barriers and restrictions on public procurement.
+Looking to the future, the European Council reiterates the strategic importance of the EU/Japan relationship. The forthcoming summit must be used to strengthen this relationship and bring forward our common agenda, including through the potential launch of negotiations for a free trade agreement on the basis that Japan is willing to tackle inter alia the issue of non-tariff barriers and restrictions on public procurement.
 
 ## 31.
 
@@ -491,9 +469,7 @@ c. Each year, concrete national commitments will be undertaken by each Head of S
 
 The implementation of commitments and progress towards the common policy objectives will be monitored politically by the Heads of State or Government of the euro area and participating countries on a yearly basis, on the basis of a report by the Commission. In addition, Member States commit to consult their partners on each major economic reform having potential spill-over effects before its adoption.
 
-d. Participating Member States are fully committed to the completion of SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 19
-
-the Single Market which is key to enhancing the competitiveness in the EU and the euro area. This process will be fully in line with the treaty. The Pact will fully respect the integrity of the Single Market.
+d. Participating Member States are fully committed to the completion of the Single Market which is key to enhancing the competitiveness in the EU and the euro area. This process will be fully in line with the treaty. The Pact will fully respect the integrity of the Single Market.
 
 Our goals
 
@@ -559,11 +535,9 @@ Reforms necessary to ensure the sustainability and adequacy of pensions and soci
 
 • National fiscal rules
 
-Participating Member States commit to translating EU fiscal rules as set out in the Stability and Growth Pact into national legislation. Member States will retain the choice of the specific national legal vehicle to be used, but will make sure that it has a sufficiently strong binding and durable nature (e.g. constitution or framework law). The exact formulation of the rule will also be decided by each country (e.g. it could take the form of a "debt brake", rule related to the primary balance or an expenditure rule), but it should ensure fiscal discipline at both national and sub-national levels. SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 21
+Participating Member States commit to translating EU fiscal rules as set out in the Stability and Growth Pact into national legislation. Member States will retain the choice of the specific national legal vehicle to be used, but will make sure that it has a sufficiently strong binding and durable nature (e.g. constitution or framework law). The exact formulation of the rule will also be decided by each country (e.g. it could take the form of a "debt brake", rule related to the primary balance or an expenditure rule), but it should ensure fiscal discipline at both national and sub-national levels. The Commission will have the opportunity, in full respect of the prerogatives of national parliaments, to be consulted on the precise fiscal rule before its adoption so as to ensure it is compatible with, and supportive of, the EU rules.
 
 \*The sustainability gap are indicators agreed by the Commission and Member States to assess fiscal sustainability.
-
-The Commission will have the opportunity, in full respect of the prerogatives of national parliaments, to be consulted on the precise fiscal rule before its adoption so as to ensure it is compatible with, and supportive of, the EU rules.
 
 d. Reinforce financial stability
 
@@ -609,11 +583,9 @@ The function of the ESM will be to mobilise funding and provide financial assist
 
 The Member States of the euro area will give to the ESM the financial sanctions received under the Stability and Growth Pact and the Macroeconomic Imbalances procedures. Such sanctions will form part of the paid-in capital.
 
-The ESM will use an appropriate funding strategy so as to ensure access to broad funding sources and enable it to extend financial assistance packages to Member States under all market conditions. Any associated risk will be contained through SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 23
+The ESM will use an appropriate funding strategy so as to ensure access to broad funding sources and enable it to extend financial assistance packages to Member States under all market conditions. Any associated risk will be contained through adequate asset and liability management.
 
 \*A decision taken by mutual agreement is a decision taken by unanimity of the Member States participating to the vote, i.e. abstentions do not prevent the decision from being adopted. #During the transition from EFSF to ESM, the combined lending capacity will not exceed this amount.
-
-adequate asset and liability management.
 
 Governance
 
@@ -664,8 +636,6 @@ Primary market support facility
 The ESM can purchase the bonds of a Member State, which is experiencing severe financing problems, on the primary market, with the objective of maximizing the cost efficiency of the support. Conditions and modalities under which bond purchasing would be conducted will be specified in the Decision on the terms and conditions of financial assistance.
 
 \*The vote of the Member State whose default is at the origin of the loss to be covered is suspended for this decision. #As a consequence of joining the euro area, a Member State shall become a member of the ESM with full rights and obligations.
-
-SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 25
 
 The Board of Governors may review the instruments at the ESM's disposal and may decide to make changes to the menu of instruments.
 
@@ -721,11 +691,9 @@ Private sector involvement
 
 An adequate and proportionate form of private-sector involvement will be expected on a case by case basis where financial assistance is received by the beneficiary State. The nature and extent of this involvement will be determined on a case-by-case basis and will depend on the outcome of a debt sustainability analysis, in line with IMF practice\*, and on potential implications for euro-area financial stability.
 
-(a) If, on the basis of a sustainability analysis, it is concluded that a macro-economic adjustment programme can realistically restore the public debt to a sustainable path, the beneficiary Member State will take initiatives aimed at encouraging the main private investors to maintain their exposures (e.g. a "Vienna SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 27
+(a) If, on the basis of a sustainability analysis, it is concluded that a macro-economic adjustment programme can realistically restore the public debt to a sustainable path, the beneficiary Member State will take initiatives aimed at encouraging the main private investors to maintain their exposures (e.g. a "Vienna Initiative" approach). The Commission, the IMF, the ECB and the EBA will be closely involved in monitoring the implementation of such initiatives.
 
 \*In line with the IMF, debt is considered sustainable when a borrower is expected to be able to continue servicing its debts without an unrealistically large correction to its income and expenditure. This judgement determines the availability and the appropriate scale of financing.
-
-Initiative" approach). The Commission, the IMF, the ECB and the EBA will be closely involved in monitoring the implementation of such initiatives.
 
 (b) If, on the basis of a sustainability analysis, it is concluded that a macro-economic programme cannot realistically restore the public debt to a sustainable path, the beneficiary Member State will be required to engage in active negotiations in good faith with its creditors to secure their direct involvement in restoring debt sustainability. The granting of the financial assistance will be contingent on the Member State having a credible plan and demonstrating sufficient commitment to ensure adequate and proportionate private sector involvement. Progress in the implementation of the plan will be monitored under the programme and will be taken into account in the decision on disbursements.
 
@@ -769,9 +737,7 @@ Non euro area Member States can participate on an ad hoc basis alongside the ESM
 
 Dispute settlement
 
-If a dispute arises between a euro area Member State and the ESM in connection with the interpretation and application of the treaty establishing the ESM, the Board SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 29
-
-of Governors will decide on this dispute. If the Member State contests this decision, such dispute shall be submitted to the European Court of Justice in accordance with Art. 273 TFEU.
+If a dispute arises between a euro area Member State and the ESM in connection with the interpretation and application of the treaty establishing the ESM, the Board of Governors will decide on this dispute. If the Member State contests this decision, such dispute shall be submitted to the European Court of Justice in accordance with Art. 273 TFEU.
 
 With regard to the relationship between the ESM and third parties, the applicable governing law and jurisdiction will be dealt with by the legal and contractual documentation which will then be put in place between the ESM and those third parties.
 
@@ -855,11 +821,9 @@ WHEREAS:
 
 (4) Strict observance of the European Union framework, the integrated macro-economic surveillance, in particular the Stability and Growth Pact, the macroeconomic imbalances framework and the economic governance rules of the European Union, should remain the first line of defence against confidence crises affecting the stability of the euro area.
 
-(5) On 9 December 2011 the Heads of State or Government of the Member SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 31
+(5) On 9 December 2011 the Heads of State or Government of the Member States whose currency is the euro agreed to move towards a stronger economic union including a new fiscal compact and strengthened economic policy coordination to be implemented through an international agreement, the Treaty on Stability, Coordination and Governance in the Economic and Monetary Union ("TSCG"). The TSCG will help develop a closer coordination within the euro area with a view to ensuring a lasting, sound and robust management of public finances and thus addresses one of the main sources of financial instability. This Treaty and the TSCG are complementary in fostering fiscal responsibility and solidarity within the economic and monetary union. It is acknowledged and agreed that the granting of financial assistance in the framework of new programmes under the ESM will be conditional, as of 1 March 2013, on the ratification of the TSCG by the ESM Member concerned and, upon expiration of the transposition period referred to in Article 3(2) TSCG on compliance with the requirements of that article.
 
 \*OJ L 91, 6.4.2011, p. 1.
-
-States whose currency is the euro agreed to move towards a stronger economic union including a new fiscal compact and strengthened economic policy coordination to be implemented through an international agreement, the Treaty on Stability, Coordination and Governance in the Economic and Monetary Union ("TSCG"). The TSCG will help develop a closer coordination within the euro area with a view to ensuring a lasting, sound and robust management of public finances and thus addresses one of the main sources of financial instability. This Treaty and the TSCG are complementary in fostering fiscal responsibility and solidarity within the economic and monetary union. It is acknowledged and agreed that the granting of financial assistance in the framework of new programmes under the ESM will be conditional, as of 1 March 2013, on the ratification of the TSCG by the ESM Member concerned and, upon expiration of the transposition period referred to in Article 3(2) TSCG on compliance with the requirements of that article.
 
 (6) Given the strong interrelation within the euro area, severe risks to the financial stability of Member States whose currency is the euro may put at risk the financial stability of the euro area as a whole. The ESM may therefore provide stability support on the basis of a strict conditionality, appropriate to the financial assistance instrument chosen if indispensable to safeguard the financial stability of the euro area as a whole and of its Member States. The initial maximum lending volume of the ESM is set at EUR 500 000 million, including the outstanding EFSF stability support. The adequacy of the consolidated ESM and EFSF maximum lending volume will, however, be reassessed prior to the entry into force of this Treaty. If appropriate, it will be increased by the Board of Governors of the ESM, in accordance with Article 10, upon entry into force of this Treaty.
 
@@ -917,9 +881,7 @@ New ESM Members shall be admitted on the same terms and conditions as existing E
 
 ## 3.
 
-A new member acceding to the ESM after its establishment shall receive SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 33
-
-shares in the ESM in exchange for its capital contribution, calculated in accordance with the contribution key provided for in Article 11.
+A new member acceding to the ESM after its establishment shall receive shares in the ESM in exchange for its capital contribution, calculated in accordance with the contribution key provided for in Article 11.
 
 **ARTICLE 3**
 
@@ -995,9 +957,7 @@ If any ESM Member fails to pay any part of the amount due in respect of its obli
 
 (f) to provide stability support by the ESM, including the economic policy conditionality as stated in the memorandum of understanding referred to in Article 13(3), and to establish the choice of instruments and the financial terms and conditions, in accordance with Articles 12 to 18;
 
-(g) to give a mandate to the European Commission to negotiate, in liaison SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 35
-
-with the ECB, the economic policy conditionality attached to each financial assistance, in accordance with Article 13(3);
+(g) to give a mandate to the European Commission to negotiate, in liaison with the ECB, the economic policy conditionality attached to each financial assistance, in accordance with Article 13(3);
 
 (h) to change the pricing policy and pricing guideline for financial assistance, in accordance with Article 20;
 
@@ -1081,8 +1041,6 @@ The Board of Governors shall adopt their rules of procedure and the by-laws of t
 
 \3. The Managing Director shall chair the meetings of the Board of Directors and shall participate in the meetings of the Board of Governors.
 
-SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 37
-
 \4. The Managing Director shall be chief of the staff of the ESM. He or she shall be responsible for organising, appointing and dismissing staff in accordance with staff rules to be adopted by the Board of Directors.
 
 \5. The Managing Director shall be the legal representative of the ESM and shall conduct, under the direction of the Board of Directors, the current business of the ESM.
@@ -1145,9 +1103,7 @@ Board of Directors and the Board of Governors of any such call. When a potential
 
 \4. The Board of Governors may decide to take into account possible updates to the key for the subscription of the ECB's capital referred to in paragraph 1 when the contribution key is adjusted in accordance with paragraph 3 or when there is a change in the authorised capital stock, as specified in Article 10(1).
 
-\5. When the contribution key for the subscription of the ESM authorised SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 39
-
-capital stock is adjusted, the ESM Members shall transfer among themselves authorised capital stock to the extent necessary to ensure that the distribution of authorised capital stock corresponds to the adjusted key.
+\5. When the contribution key for the subscription of the ESM authorised capital stock is adjusted, the ESM Members shall transfer among themselves authorised capital stock to the extent necessary to ensure that the distribution of authorised capital stock corresponds to the adjusted key.
 
 \6. Annex I shall be amended upon decision by the Board of Governors upon any adjustment referred to in this Article.
 
@@ -1219,9 +1175,7 @@ The MoU shall be fully consistent with the measures of economic policy coordinat
 
 \1. The Board of Governors may decide to grant financial assistance through loans to an ESM Member for the specific purpose of re-capitalising the financial institutions of that ESM Member.
 
-\2. The conditionality attached to financial assistance for the re-capitalisation SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 41
-
-of an ESM Member's financial institutions shall be detailed in the MoU, in accordance with Article 13(3).
+\2. The conditionality attached to financial assistance for the re-capitalisation of an ESM Member's financial institutions shall be detailed in the MoU, in accordance with Article 13(3).
 
 \3. Without prejudice to Articles 107 and 108 TFEU, the financial terms and conditions of financial assistance for the re-capitalisation of an ESM Member’s financial institutions shall be specified in a financial assistance facility agreement, to be signed by the Managing Director.
 
@@ -1309,9 +1263,7 @@ The Board of Governors may review the list of financial assistance instruments p
 
 **Investment policy**
 
-\1. The Managing Director shall implement a prudent investment policy for the ESM, so as to ensure its highest creditworthiness, in accordance with guidelines to SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 43
-
-be adopted and reviewed regularly by the Board of Directors. The ESM shall be entitled to use part of the return on its investment portfolio to cover its operating and administrative costs.
+\1. The Managing Director shall implement a prudent investment policy for the ESM, so as to ensure its highest creditworthiness, in accordance with guidelines to be adopted and reviewed regularly by the Board of Directors. The ESM shall be entitled to use part of the return on its investment portfolio to cover its operating and administrative costs.
 
 \2. The operations of the ESM shall comply with the principles of sound financial and risk management.
 
@@ -1395,9 +1347,7 @@ The accounts of the ESM shall be audited by independent external auditors approv
 
 \5. The Board of Governors shall make the annual report accessible to the national parliaments and supreme audit institutions of the ESM Members and to the European Court of Auditors.
 
-\6. Any matter relating to this Article shall be detailed in the by-laws of the SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 45
-
-ESM.
+\6. Any matter relating to this Article shall be detailed in the by-laws of the ESM.
 
 **CHAPTER 6**
 
@@ -1483,8 +1433,6 @@ The Members or former Members of the Board of Governors and of the Board of Dire
 
 \5. Staff of the ESM shall be subject to an internal tax for the benefit of the ESM on salaries and emoluments paid by the ESM, subject to rules to be adopted by the Board of Governors. From the date on which this tax is applied, such salaries and emoluments shall be exempt from national income tax.
 
-SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 47
-
 \6. No taxation of any kind shall be levied on any obligation or security issued by the ESM including any interest or dividend thereon by whomsoever held:
 
 (a) which discriminates against such obligation or security solely because of its origin; or
@@ -1555,9 +1503,7 @@ The percentages referred to in points (a) and (b) shall be rounded up or down to
 
 \3. The temporary correction referred to in paragraph 2 shall apply for a period of twelve years from the date of adoption of the euro by the ESM Member concerned.
 
-\4. As a result of the temporary correction of the key, the relevant proportion of SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 49
-
-shares allocated to an ESM Member pursuant to paragraph 2 shall be reallocated amongst the ESM Members not benefiting from a temporary correction on the basis of their shareholding in the ECB, determined in accordance with Article 29 of the ESCB Statute, subsisting immediately prior to the issue of shares to the acceding ESM Member.
+\4. As a result of the temporary correction of the key, the relevant proportion of shares allocated to an ESM Member pursuant to paragraph 2 shall be reallocated amongst the ESM Members not benefiting from a temporary correction on the basis of their shareholding in the ECB, determined in accordance with Article 29 of the ESCB Statute, subsisting immediately prior to the issue of shares to the acceding ESM Member.
 
 **ARTICLE 43**
 
@@ -1614,8 +1560,6 @@ This Treaty shall be deposited with the General Secretariat of the Council of th
 \3. For each State which accedes to this Treaty in accordance with Article 44, this Treaty shall enter into force on the twentieth day following the deposit of its instrument of accession.
 
 Done at Brussels on the second day of February in the year two thousand and twelve in a single original, whose Dutch, English, Estonian, Finnish, French, German, Greek, Irish, Italian, Maltese, Portuguese, Slovak, Slovenian, Spanish and Swedish texts are equally authentic, which shall be deposited in the archives of the Depositary which shall transmit a duly certified copy to each of the Contracting Parties.
-
-SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 51
 
 ANNEX I Contribution Key of the ESM
 
@@ -1691,7 +1635,7 @@ Slovak Republic 57 680 5 768 000 000
 
 Republic of Finland 125 818 12 581 800 000
 
-Total 7 000 000 700 000 000 000 SUPPORT UNDER THE EUROPEAN STABILITY MECHANISM [CAP. 523. 53
+Total 7 000 000 700 000 000 000
 
 ## SCHEDULE 4
 

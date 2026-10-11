@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar is-Sħubija ta' Malta fil-Bank Ewropew għar-Rikostruzzjoni u l-Iżvillupp (Cap. 347)
 
-*1*
-
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347.
-
 **KAPITOLU 347**
 
 **ATT DWAR IS-SĦUBIJA TA’ MALTA FIL-BANK**
@@ -84,8 +80,6 @@ Il-Ministru jista’ jagħmel regolamenti skont ma jistgħu jkunu meħtieġa bie
 #### 7. Lingwa tal-Iskeda.
 
 L-Iskeda li tinsab ma’ dan l-Att għandha tkun fl-ilsien Ingliż biss u dak it-test għandu japplika wkoll għat-test Malti tal- Att.
-
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 3
 
 SKEDA Emendata:
 
@@ -153,8 +147,6 @@ Eastern European countries", "countries from Central and Eastern Europe", "recip
 
 **MEMBERSHIP**
 
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 5
-
 \1. Membership in the Bank shall be open:
 
 (i) to (1) European countries and (2) non-European countries which are members of the International Monetary Fund; and
@@ -199,9 +191,7 @@ The liability of the members on shares shall be limited to the unpaid portion of
 
 \1. Payment of the paid-in shares of the amount initially subscribed to by each Signatory to this Agreement, which becomes a member in accordance with Article 61 of this Agreement, shall be made in five (5) instalments of twenty (20) per cent each of such amount. The first instalment shall be paid by each member within sixty (60) days after the date of the entry into force of this Agreement, or after the date of deposit of its instrument of ratification, acceptance or approval in accordance with Article 61, if this latter is later than the date of the entry into force. The remaining four (4) instalments shall each become due successively one year from the date on which the preceding instalment became due and shall each, subject to the legislative requirements of each member, be paid.
 
-\2. Fifty (50) per cent of payment of each instalment pursuant to paragraph 1 of this Article, or by a member admitted in accordance with paragraph 2 of Article 3 of this Agreement, may be made in promissory notes or other obligations issued by such member and denominated in ECU, in United States dollars or in Japanese yen, to be drawn down as the Bank needs funds for disbursement as a result of its operations. Such notes or obligations shall be non-negotiable, non-interest-bearing and payable to the Bank at par value upon demand. Demands upon such notes or obligations shall, over reasonable periods of time, be made so that the value of such demands in ECU at the time of demand from each member is proportional to the GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 7
-
-number of paid-in shares subscribed to and held by each such member depositing such notes or obligations.
+\2. Fifty (50) per cent of payment of each instalment pursuant to paragraph 1 of this Article, or by a member admitted in accordance with paragraph 2 of Article 3 of this Agreement, may be made in promissory notes or other obligations issued by such member and denominated in ECU, in United States dollars or in Japanese yen, to be drawn down as the Bank needs funds for disbursement as a result of its operations. Such notes or obligations shall be non-negotiable, non-interest-bearing and payable to the Bank at par value upon demand. Demands upon such notes or obligations shall, over reasonable periods of time, be made so that the value of such demands in ECU at the time of demand from each member is proportional to the number of paid-in shares subscribed to and held by each such member depositing such notes or obligations.
 
 \3. All payment obligations of a member in respect of subscription to shares in the initial capital stock shall be settled either in ECU, in United States dollars or in Japanese yen on the basis of the average exchange rate of the relevant currency in terms of the ECU for the period from 30 September 1989 to 31 March 1990 inclusive.
 
@@ -257,8 +247,6 @@ As used in this Agreement, the term "ordinary capital resources" of the Bank sha
 
 (iii) At the end of this period, the decision to allow such a country access beyond the limits specified in sub-paragraphs (a) and (b) shall be taken by the Board of Governors by a majority of not less than three-fourths of the Governors representing not less than eighty-five (85) per cent of the total voting power of the members.
 
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 9
-
 **Article 9**
 
 **ORDINARY AND SPECIAL OPERATIONS**
@@ -312,8 +300,6 @@ For the purposes of this paragraph, a state-owned enterprise shall not be regard
 (b) a loan or guarantee to, or equity investment in, a state-owned enterprise which is implementing a programme to achieve private ownership and control shall not be considered as made to the state sector;
 
 (c) loans to a financial intermediary for onlending to the private sector shall not be considered as made to the state sector.
-
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 11
 
 **Article 12**
 
@@ -374,8 +360,6 @@ to the prospect that the borrower and its guarantor, if any, will be in a positi
 **Article 15**
 
 **COMMISSION AND FEES**
-
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 13
 
 \1. The Bank shall charge, in addition to interest, a commission on loans made or participated in as part of its ordinary operations. The terms and conditions of this commission shall be determined by the Board of Directors.
 
@@ -442,8 +426,6 @@ The term "Special Funds resources" shall refer to the resources of any Special F
 (iii) income derived from investment of Special Funds resources.
 
 ## CHAPTER IV — BORROWING AND OTHER MISCELLANEOUS POWERS — Article 20
-
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 15
 
 **GENERAL POWERS**
 
@@ -525,8 +507,6 @@ The Bank shall have a Board of Governors, a Board of Directors, a President, one
 
 (vii) determine the remuneration of the Directors and Alternate Directors and the salary and other terms of the contract of service of the President;
 
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 17
-
 (viii) approve, after reviewing the auditors’ report, the general balance sheet and the statement of profit and loss of the Bank;
 
 (ix) determine the reserves and the allocation and distribution of the net profits of the Bank;
@@ -587,8 +567,6 @@ Without prejudice to the powers of the Board of Governors as provided in Article
 
 (i) prepare the work of the Board of Governors;
 
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 19
-
 (ii) in conformity with the general directions of the Board of Governors, establish policies and take decisions concerning loans, guarantees, investments in equity capital, borrowing by the Bank, the furnishing of technical assistance, and other operations of the Bank;
 
 (iii) submit the audited accounts for each financial year for approval of the Board of Governors at each annual meeting; and
@@ -647,9 +625,7 @@ GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 19
 
 \1. The Bank shall not accept Special Funds or other loans or assistance that may in any way prejudice, deflect or otherwise alter its purpose or functions.
 
-\2. The Bank, its President, Vice-President(s), officers and staff shall in their GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 21
-
-decisions take into account only considerations relevant to the Bank’s purpose, functions and operations, as set out in this Agreement. Such considerations shall be weighed impartially in order to achieve and carry out the purpose and functions of the Bank.
+\2. The Bank, its President, Vice-President(s), officers and staff shall in their decisions take into account only considerations relevant to the Bank’s purpose, functions and operations, as set out in this Agreement. Such considerations shall be weighed impartially in order to achieve and carry out the purpose and functions of the Bank.
 
 \3. The President, Vice-President(s), officers and staff of the Bank, in the discharge of their offices, shall owe their duty entirely to the Bank and to no other authority. Each member of the Bank shall respect the international character of this duty and shall refrain from all attempts to influence any of them in the discharge of their duties.
 
@@ -717,8 +693,6 @@ WITHDRAWAL AND SUSPENSION OF MEMBERSHIP:
 
 **SETTLEMENT OF ACCOUNTS WITH FORMER MEMBERS**
 
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 23
-
 \1. After the date on which a member ceases to be a member, such former member shall remain liable for its direct obligations to the Bank and for its contingent liabilities to the Bank so long as any part of the loans, equity investments or guarantees contracted before it ceased to be a member are outstanding; but it shall cease to incur such liabilities with respect to loans, equity investments and guarantees entered into thereafter by the Bank and to share either in the income or the expenses of the Bank.
 
 \2. At the time a member ceases to be a member, the Bank shall arrange for the repurchase of such former member’s shares as a part of the settlement of accounts with such former member in accordance with the provisions of this Article. For this purpose, the repurchase price of the shares shall be the value shown by the books of the Bank on the date of cessation of membership, with the original purchase price of each share being its maximum value.
@@ -766,8 +740,6 @@ The Bank may terminate its operations by the affirmative vote of not less than t
 (i) all liabilities to creditors have been discharged or provided for; and (ii) the Board of Governors has decided by a vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members, to make a distribution.
 
 \2. Any distribution of the assets of the Bank to the members shall be in proportion to the capital stock held by each member and shall be effected at such times and under such conditions as the Bank shall deem fair and equitable. The shares of assets distributed need not be uniform as to type of assets. No member shall be entitled to receive its share in such a distribution of assets until it has settled all of its obligations to the Bank.
-
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 25
 
 \3. Any member receiving assets distributed pursuant to this Article shall enjoy the same rights with respect to such assets as the Bank enjoyed prior to their distribution.
 
@@ -837,9 +809,7 @@ All Governors, Directors, Alternates, officers and employees of the Bank and exp
 
 (ii) shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
 
-\2. The spouses and immediate dependants of those Directors, Alternate Directors, officers, employees and experts of the Bank who are resident in the country in which the principal office of the Bank is located shall be accorded opportunity to take employment in that country. The spouses and immediate dependants of those Directors, Alternate Directors, officers, employees and experts GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 27
-
-of the Bank who are resident in a country in which any agency or branch office of the Bank is located should, wherever possible, in accordance with the national law of that country, be accorded similar opportunity in that country. The Bank shall negotiate specific agreements implementing the provisions of this paragraph with the country in which the principal office of the Bank is located and, as appropriate, with the other countries concerned.
+\2. The spouses and immediate dependants of those Directors, Alternate Directors, officers, employees and experts of the Bank who are resident in the country in which the principal office of the Bank is located shall be accorded opportunity to take employment in that country. The spouses and immediate dependants of those Directors, Alternate Directors, officers, employees and experts of the Bank who are resident in a country in which any agency or branch office of the Bank is located should, wherever possible, in accordance with the national law of that country, be accorded similar opportunity in that country. The Bank shall negotiate specific agreements implementing the provisions of this paragraph with the country in which the principal office of the Bank is located and, as appropriate, with the other countries concerned.
 
 **Article 53**
 
@@ -897,9 +867,7 @@ The immunities, privileges and exemptions conferred under this Chapter are grant
 
 **AMENDMENTS**
 
-\1. Any proposal to amend this Agreement, whether emanating from a member, a Governor or the Board of Directors, shall be communicated to the Chairman of the Board of Governors who shall bring the proposal before that Board. If the proposed amendment is approved by the Board the Bank shall, by any rapid means of communication, ask all members whether they accept the proposed amendment. When not less than three-fourths of the members (including at least two countries GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 29
-
-from Central and Eastern Europe listed in Annex A), having not less than four-fifths of the total voting power of the members, have accepted the proposed amendment, the Bank shall certify that fact by formal communication addressed to all members.
+\1. Any proposal to amend this Agreement, whether emanating from a member, a Governor or the Board of Directors, shall be communicated to the Chairman of the Board of Governors who shall bring the proposal before that Board. If the proposed amendment is approved by the Board the Bank shall, by any rapid means of communication, ask all members whether they accept the proposed amendment. When not less than three-fourths of the members (including at least two countries from Central and Eastern Europe listed in Annex A), having not less than four-fifths of the total voting power of the members, have accepted the proposed amendment, the Bank shall certify that fact by formal communication addressed to all members.
 
 \2. Notwithstanding paragraph 1 of this Article:
 
@@ -957,9 +925,7 @@ Whenever the approval or the acceptance of any member is required before any act
 
 \2. Any Signatory may become a party to this Agreement by depositing an instrument of ratification, acceptance or approval until one year after the date of its entry into force or, if necessary, until such later date as may be decided by a majority of Governors, representing a majority of the total voting power of the members.
 
-\3. A Signatory whose instrument referred to in paragraph 1 of this Article is deposited before the date on which this Agreement enters into force shall become a GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 31
-
-member of the Bank on that date. Any other Signatory which complies with the provisions of the preceding paragraph shall become a member of the Bank on the date on which its instrument of ratification, acceptance or approval is deposited.
+\3. A Signatory whose instrument referred to in paragraph 1 of this Article is deposited before the date on which this Agreement enters into force shall become a member of the Bank on that date. Any other Signatory which complies with the provisions of the preceding paragraph shall become a member of the Bank on the date on which its instrument of ratification, acceptance or approval is deposited.
 
 **Article 62**
 
@@ -1073,8 +1039,6 @@ Poland 12 800 128.00
 
 Romania 4 800 48.00
 
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 33
-
 Union of Soviet Socialist Republics 60 000 600.00
 
 Yugoslavia 12 800 128.00
@@ -1175,9 +1139,7 @@ Section B (i) - Election of Directors by Governors representing those countries 
 
 \4. Subject to paragraph 10 of this Section, the 4 persons receiving the highest number of votes shall be Directors, except that no person who receives less than 12 per cent of the total of the votes which can be cast (eligible votes) in Section B (i) shall be considered elected.
 
-\5. Subject to paragraph 10 of this Section, if 4 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 4 GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 35
-
-candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only:
+\5. Subject to paragraph 10 of this Section, if 4 persons are not elected on the first ballot, a second ballot shall be held in which, unless there were no more than 4 candidates, the person who received the lowest number of votes in the first ballot shall be ineligible for election and in which there shall vote only:
 
 (a) those Governors who voted in the first ballot for a person not elected; and
 
@@ -1229,9 +1191,7 @@ Section B(iii) - Election of Directors by Governors representing those countries
 
 \1. The provisions set out below in this Section shall apply exclusively to this Section.
 
-\2. Candidates for the office of Director shall be nominated by Section B (iii) Governors, provided that a Governor may nominate only one person. The election of GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 37
-
-Directors shall be by ballot of Section B (iii) Governors.
+\2. Candidates for the office of Director shall be nominated by Section B (iii) Governors, provided that a Governor may nominate only one person. The election of Directors shall be by ballot of Section B (iii) Governors.
 
 \3. Each Governor eligible to vote shall cast for one person all of the votes to which the member appointing him or her is entitled under paragraphs 1 and 2 of Article 29 of this Agreement.
 
@@ -1266,8 +1226,6 @@ If the Board of Governors decides, in accordance with paragraph 3 of Article 26 
 Any Governor who does not participate in voting for the election or whose vote does not contribute to the election of a Director under Section A or Section B (i) or Section B (ii) or Section B (iii) of this Annex may assign the votes to which he or she is entitled to an elected Director, provided that such Governor shall first have obtained the agreement of all those Governors who have elected that Director to such assignment.
 
 A decision by any Governor not to participate in voting for the election of a Director shall not affect the calculation of the eligible votes to be made under Section A, Section B (i), Section B (ii) or Section B (iii) of this Annex.
-
-GĦAR-RIKOSTRUZZJONI U L-IŻVILUPP [KAP. 347. 39
 
 To the Chairman of the Conference on the Establishment of the European Bank for Reconstruction and Development M. Chairman
 

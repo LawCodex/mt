@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # National Foreign Direct Investment Screening Office Act (Cap. 620)
 
-*1*
-
-SCREENING OFFICE [CAP. 620.
-
 **CHAPTER 620**
 
 **NATIONAL FOREIGN DIRECT INVESTMENT**
@@ -62,12 +58,6 @@ body corporate or body of persons through direct or
 indirect ownership of ten percent (10%) plus one (1) or  
 more of the shares or more than ten percent (10%) of the
 
-**SCREENING OFFICE**
-
-*[CAP. 620.*
-
-*2*
-
 voting rights or an ownership interest of more than ten percent (10%) in that body corporate or body of persons, including through bearer share holdings, or through control through other means, other than a company that is listed on a regulated market which is subject to disclosure requirements consistent with European Union law or equivalent international standards which ensure adequate transparency of ownership information:
 
 Provided that a shareholding of ten percent (10%) plus one (1) share or more, or the holding of an ownership interest or voting rights of more than ten percent (10%) in the customer shall be an indication of direct ownership when held directly by a natural person, and of indirect ownership when held by one (1) or more bodies corporate or body of persons or through a trust or a similar legal arrangement, or a combination thereof:
@@ -87,10 +77,6 @@ Provided further that if after having exhausted all possible means and provided 
 (v) any other natural person exercising ultimate control over the trust by means of direct or indirect ownership or by other means;
 
 (c) in the case of legal entities such as foundations and legal arrangements similar to trusts, the beneficial owner shall consist of the natural person or persons holding equivalent or similar positions to those referred to in paragraph (b);
-
-*3*
-
-SCREENING OFFICE [CAP. 620.
 
 "Board" means the Board established in accordance to sub-article 5(2);
 
@@ -118,12 +104,6 @@ SCREENING OFFICE [CAP. 620.
 
 "Malta" has the same meaning as is assigned to it by article 124 of the Constitution;
 
-**SCREENING OFFICE**
-
-*[CAP. 620.*
-
-*4*
-
 "management or control" means having the possibility of exercising decisive influence on an undertaking, in particular:
 
 (a) through ownership or the right to use all or part of the assets of an undertaking; or
@@ -145,10 +125,6 @@ SCREENING OFFICE [CAP. 620.
 "screening decision" means a measure adopted in application of the screening mechanism;
 
 "screening mechanism" means an instrument of general application, such as a law or regulation, and accompanying administrative requirements, implementing rules or guidelines, setting out the terms, conditions and procedures to assess, investigate, authorise, condition, prohibit or unwind foreign direct investments on grounds of security or public order;
-
-*5*
-
-SCREENING OFFICE [CAP. 620.
 
 * Cap. 490.*
 
@@ -184,11 +160,9 @@ Establishment, Function and Conduct of Affairs of the National Foreign Direct In
 
 (4) (a) A person shall not be eligible to be appointed or to hold office as Chairperson or as a member of the Board if he is:
 
-(i) a Minister, Parliamentary Secretary, a member of the House of Representatives or a member of any local council; [CAP. 620. SCREENING OFFICE
+(i) a Minister, Parliamentary Secretary, a member of the House of Representatives or a member of any local council;
 
 (ii) a Judge or a Magistrate of the Courts of Justice;
-
-*6*
 
 (iii) legally incapacitated;
 
@@ -209,10 +183,6 @@ Establishment, Function and Conduct of Affairs of the National Foreign Direct In
 (7) The Minister may at any time remove a member of the Board on grounds of proved inability to perform his functions, bankruptcy or neglect of duty or for any of the reasons listed in sub-paragraphs (i) to (vi) of sub-article (4)(a).
 
 (8) The quorum necessary for meetings of the Board shall be the Chairperson and half of the remaining members forming part of the Board.
-
-*7*
-
-SCREENING OFFICE [CAP. 620.
 
 (9) The Minister shall designate a person to act as the secretary of the Board:
 
@@ -245,12 +215,6 @@ Provided that the Chairperson may, from time to time, appoint any one or more of
 (3) The Board may exercise its functions notwithstanding any vacancy in its membership, as long as such vacancies do not exceed three (3) in number.
 
 (4) Subject to the foregoing provisions of this article, no act or proceedings of the Board shall be invalidated merely by reason of the existence of any vacancy among the members.
-
-**SCREENING OFFICE**
-
-*[CAP. 620.*
-
-*8*
 
 *\9.*
 
@@ -286,10 +250,6 @@ Provided that the Chairperson may, from time to time, appoint any one or more of
 
 (n) liaise with responsible authorities of third countries on issues relating to the screening of foreign direct investments;
 
-*9*
-
-SCREENING OFFICE [CAP. 620.
-
 (o) charge any such fee which may be deemed reasonable and justifiable for the carrying out of the functions of the Office;
 
 (p) exercise such other functions and duties as may be prescribed.
@@ -310,10 +270,6 @@ Provided that in ensuring the transparency and non-discrimination of the process
 
 (a) every person having an official duty or being employed in the administration of this Act shall regard and deal with all documents and information relating to matters contemplated by or pursuant to the provisions of this Act as secret and confidential and shall make and subscribe before a Commissioner for Oaths a declaration on oath to this effect in the form prescribed which shall be deposited with the State Advocate;
 
-*10*
-
-[CAP. 620. SCREENING OFFICE
-
 (b) no such person shall be required to produce to or before any court, tribunal, board, committee of enquiry or any other authority, or to divulge to any court, tribunal, board, committee or any other authority, any matter or thing coming to his notice or being in his possession in the performance of his duties under this Act.
 
 (7) Notwithstanding the provisions of sub-article (6), the internal auditor of the Office shall have access to any records and documents as may be necessary for the performance of his duties, as the law may allow.
@@ -332,11 +288,7 @@ Provided that where an officer or employee does not disclose such interest, the 
 
 (1) In the following circumstances, foreign investors and all persons involved in a foreign direct investment shall be obliged, prior to carrying out the investment or effecting any changes mentioned in paragraphs (b), (c) or (d), to notify the Office with the investment and provide information regarding the entity carrying out the investment and any information which may be necessary for the proper observance of this provision or which may be requested by the Office:
 
-(a) where an investment that affects any of the SCREENING OFFICE [CAP. 620.
-
-factors or activities mentioned in the Schedule is planned to be carried out in the future;
-
-*11*
+(a) where an investment that affects any of the factors or activities mentioned in the Schedule is planned to be carried out in the future;
 
 (b) where, having carried out an investment in Malta, plan to change the business activity of the foreign investor to one which affects any of the factors or activities mentioned in the Schedule;
 
@@ -360,11 +312,7 @@ factors or activities mentioned in the Schedule is planned to be carried out in 
 
 (g) any other information as the Office may reasonably require for the proper execution of its functions in accordance with this Act.
 
-(3) Any undertaking, organization, foundation or other entity wherein at least ten percent (10%) of its share is owned by a foreign investor and, or where the beneficial owner of the foreign investor is a third country national or an undertaking of a third country and, or [CAP. 620. SCREENING OFFICE
-
-which has any direct or indirect controlling interest by a foreign investor and which plans to carry out any investment mentioned in sub-article (1) shall, for the purposes of this Act, be subject to the obligation stated in sub-article (1).
-
-*12*
+(3) Any undertaking, organization, foundation or other entity wherein at least ten percent (10%) of its share is owned by a foreign investor and, or where the beneficial owner of the foreign investor is a third country national or an undertaking of a third country and, or which has any direct or indirect controlling interest by a foreign investor and which plans to carry out any investment mentioned in sub-article (1) shall, for the purposes of this Act, be subject to the obligation stated in sub-article (1).
 
 (4) For the purposes of sub-article (3), a foreign investor’s proportion of the aggregate ownership in an undertaking, organization, foundation or other entity shall include any shares owned by:
 
@@ -384,10 +332,6 @@ which has any direct or indirect controlling interest by a foreign investor and 
 
 (4) Where the Office concludes that the foreign direct investment shall be subject to screening, according to the non-exhaustive list of factors and activities mentioned in the Schedule, it shall inform the foreign investor within five (5) working days from the date of its decision, trigger the cooperation mechanism, and shall within sixty (60) calendar days from the date of the decision rendering the investment subject to screening, determine whether the foreign direct investment may affect the security or public order of Malta:
 
-*13*
-
-SCREENING OFFICE [CAP. 620.
-
 Provided that where it deems necessary, the Office may extend the period required to determine whether the foreign direct investment may affect security or public order of Malta.
 
 (5) In reaching the decision mentioned in sub-article (4), the Office may request any additional information that may be required from the foreign investor and the process initiated in terms of the same sub-article and the time-frame established therein shall be suspended until all the information requested is duly provided.
@@ -405,10 +349,6 @@ Provided that where it deems necessary, the Office may extend the period require
 ### 13. Notification methods.
 
 (1) Where any notice, decision or other instrument or document whatsoever is required or authorised to be served or given in accordance to this Act, it may be served or given in any of the following manners:
-
-*14*
-
-[CAP. 620. SCREENING OFFICE
 
 (a) by delivering it to the person on whom it is to be served or to whom it is to be given;
 
@@ -431,10 +371,6 @@ Provided that should the foreign investor fail to satisfy the conditions imposed
 ### 15. Unwinding of investments.
 
 (1) Where an investment is declared unwound, the Office shall serve the foreign investor with its decision and shall allow reasonable time for the foreign direct investor to reverse or modify any such decision affecting the investment.
-
-*15*
-
-SCREENING OFFICE [CAP. 620.
 
 *        Cap. 12.*
 
@@ -463,10 +399,6 @@ Provided that the imposition of any administrative penalty shall be without prej
 (3) The notice relating to the administrative penalty imposed under sub-articles (1) and (2) shall specify:
 
 (a) the date and nature of the offence;
-
-*16*
-
-[CAP. 620. SCREENING OFFICE
 
 (b) a summary of the facts upon which the charge of the offence is based;
 
@@ -502,11 +434,7 @@ Provided that unless otherwise prescribed by law, an appeal application lodged i
 
 *Cap. 490.*
 
-(2) Notwithstanding anything contained in the Administrative Justice Act, the Administrative Review Tribunal shall serve the appeal SCREENING OFFICE [CAP. 620.
-
-applications filed in its registry on the respondent without delay. The respondent shall have the right to file a written reply within twenty (20) days from the date of service. The Tribunal shall subsequently set a date for hearing within eight (8) working days from the filing of a reply by the respondent or following the lapse of twenty (20) days from when the respondent is served with the appeal, even if no reply is filed by the respondent within such time-frame. The Tribunal shall, after appointing the appeal application for hearing, decide on its merits after receiving any evidence it deems fit, within the shortest time possible, but not later than six (6) months from the day when the application has been duly notified.
-
-*17*
+(2) Notwithstanding anything contained in the Administrative Justice Act, the Administrative Review Tribunal shall serve the appeal applications filed in its registry on the respondent without delay. The respondent shall have the right to file a written reply within twenty (20) days from the date of service. The Tribunal shall subsequently set a date for hearing within eight (8) working days from the filing of a reply by the respondent or following the lapse of twenty (20) days from when the respondent is served with the appeal, even if no reply is filed by the respondent within such time-frame. The Tribunal shall, after appointing the appeal application for hearing, decide on its merits after receiving any evidence it deems fit, within the shortest time possible, but not later than six (6) months from the day when the application has been duly notified.
 
 * Cap. 490.     Cap. 12.*
 
@@ -534,11 +462,7 @@ The Minister may, in order to achieve the purposes of this Act, make regulations
 
 Activities
 
-(a) critical infrastructure, whether physical or virtual, including energy, transport, water, health, communications, media, data [CAP. 620. SCREENING OFFICE
-
-processing or storage, aerospace, defence, electoral or financial infrastructure, and sensitive facilities, as well as land and real estate crucial for the use of such infrastructure;
-
-*18*
+(a) critical infrastructure, whether physical or virtual, including energy, transport, water, health, communications, media, data processing or storage, aerospace, defence, electoral or financial infrastructure, and sensitive facilities, as well as land and real estate crucial for the use of such infrastructure;
 
 (b) critical technologies and dual use items as defined in point 1 of Article 2 of Council Regulation (EC) No. 428/2009 (15), including artificial intelligence, robotics, semiconductors, cybersecurity, aerospace, defense, energy storage, quantum and nuclear technologies, as well as nanotechnologies and biotechnologies;
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Persuni li jipprovdu Servizzi ta’ Kreditu u dwar Xerrejja ta’ Kreditu (Cap. 645)
 
-*1*
-
-DWAR XERREJJA TA’ KREDITU [KAP. 645.
-
 **KAPITOLU 645**
 
 ATT DWAR PERSUNI LI JIPPROVDU SERVIZZI TA’ KREDITU U DWAR XERREJJA TA’ KREDITU
@@ -45,11 +41,7 @@ ATT XXXII tal-2024, kif emendat bl-Att XI tal-2025.
 
 (a) il-ġbir jew l-irkupru mingħand il-mutwatarju, f’konformità mal-liġi nazzjonali, ta’ kwalunkwe pagament dovut relatat mad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu jew tal-kuntratt ta’ kreditu nnifsu;
 
-(b) in-negozjar mill-ġdid mal-mutwatarju, f’konformità mal-liġi nazzjonali, ta’ kwalunkwe termini u kondizzjonijiet relatati mad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu, jew tal-kuntratt ta’ kreditu nnifsu, f’konformità mal-istruzzjonijiet mogħtija mix-xerrej ta’ kreditu, fejn il-persuna li tipprovdi servizzi ta’ kreditu ma tkunx intermedjarju ta’ kreditu kif definit fl-Artikolu 3(f) tad-Direttiva 2008/48/KE jew fl-Artikolu 4(5) tad- DWAR XERREJJA TA’ KREDITU
-
-Direttiva 2014/17/UE;
-
-*[KAP. 645. 2*
+(b) in-negozjar mill-ġdid mal-mutwatarju, f’konformità mal-liġi nazzjonali, ta’ kwalunkwe termini u kondizzjonijiet relatati mad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu, jew tal-kuntratt ta’ kreditu nnifsu, f’konformità mal-istruzzjonijiet mogħtija mix-xerrej ta’ kreditu, fejn il-persuna li tipprovdi servizzi ta’ kreditu ma tkunx intermedjarju ta’ kreditu kif definit fl-Artikolu 3(f) tad-Direttiva 2008/48/KE jew fl-Artikolu 4(5) tad- Direttiva 2014/17/UE;
 
 (ċ) l-amministrazzjoni ta’ kwalunkwe lmenti relatati mad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu jew tal-kuntratt ta’ kreditu nnifsu; u, jew
 
@@ -69,11 +61,9 @@ Direttiva 2014/17/UE;
 
 "Direttiva 98/5/KE" tfisser id-Direttiva 98/5/KE tal- Parlament Ewropew u tal-Kunsill tas-16 ta’ Frar 1998 sabiex tiġi iffaċilitata l-prattika tal-professjoni ta’ avukat fuq bażi permanenti fl-Istati Membri minbarra dak fejn kienet miksuba l-kwalifikazzjoni, kif tista’ tiġi emendata minn żmien għal żmien, u tinkludi kwalunkwe strument legali vinkolanti, linji gwida u miżuri oħra li jkunu nħarġu, jew li jistgħu jinħarġu taħthom;
 
-"Direttiva 2008/48/KE" tfisser id-Direttiva 2008/48/KE DWAR XERREJJA TA’ KREDITU [KAP. 645. tal-Parlament Ewropew u tal-Kunsill tat-23 ta’ April 2008 dwar ftehim ta’ kreditu għall-konsumatur u li tħassar id-Direttiva tal- Kunsill 87/102/KEE, kif tista’ tiġi emendata minn żmien għal żmien, u tinkludi kwalunkwe strument legali vinkolanti, linji gwida u miżuri oħra li nħarġu, jew li jistgħu jinħarġu taħthom;
+"Direttiva 2008/48/KE" tfisser id-Direttiva 2008/48/KE tal-Parlament Ewropew u tal-Kunsill tat-23 ta’ April 2008 dwar ftehim ta’ kreditu għall-konsumatur u li tħassar id-Direttiva tal- Kunsill 87/102/KEE, kif tista’ tiġi emendata minn żmien għal żmien, u tinkludi kwalunkwe strument legali vinkolanti, linji gwida u miżuri oħra li nħarġu, jew li jistgħu jinħarġu taħthom;
 
 "Direttiva 2009/65/KE" tfisser id-Direttiva 2009/65/KE tal-Parlament Ewropew u tal-Kunsill tat-13 ta’ Lulju 2009 dwar il-koordinazzjoni ta’ liġijiet, regolamenti u dispożizzjonijiet amministrattivi fir-rigward tal-impriżi ta’ investiment kollettiv f’titoli trasferibbli (UCITS), kif tista’ tiġi emendata minn żmien għal żmien, u tinkludi kwalunkwe strument legali vinkolanti, linji gwida u miżuri oħra li nħarġu, jew li jistgħu jinħarġu taħthom;
-
-*3*
 
 "Direttiva 2011/61/UE" tfisser id-Direttiva 2011/61/UE tal-Parlament Ewropew u tal-Kunsill tat-8 ta’ Ġunju 2011 dwar Maniġers ta’ Fondi ta’ Investiment Alternattivi u li temenda d- Direttivi 2003/41/KE u 2009/65/KE u r-Regolamenti (KE) Nru 1060/2009 u (UE) Nru 1095/2010, kif tiġi tista’ emendata minn żmien għal żmien, u tinkludi kwalunkwe strumenti legali vinkolanti, linji gwida u miżuri oħra li nħarġu, jew li jistgħu jinħarġu taħthom;
 
@@ -83,11 +73,7 @@ Direttiva 2014/17/UE;
 
 "fornitur ta’ servizzi ta’ kreditu" tfisser parti terza użata minn persuna li tipprovdi ġestjoni ta’ kreditu sabiex twettaq kwalunkwe waħda mill-attivitajiet ta’ servizzi ta’ kreditu;
 
-"GDPR" tfisser ir-Regolament (UE) 2016/679 tal- Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id- Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni DWAR XERREJJA TA’ KREDITU
-
-tad-Data), kif jista’ jiġi emendat minn żmien għal żmien, u jinkludi kwalunkwe strumenti legali vinkolanti, linji gwida u miżuri oħra li nħarġu, jew li jistgħu jinħarġu taħtu;
-
-*[KAP. 645. 4*
+"GDPR" tfisser ir-Regolament (UE) 2016/679 tal- Parlament Ewropew u tal-Kunsill tas-27 ta’ April 2016 dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ data personali u dwar il-moviment liberu ta’ tali data, u li jħassar id- Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad-Data), kif jista’ jiġi emendat minn żmien għal żmien, u jinkludi kwalunkwe strumenti legali vinkolanti, linji gwida u miżuri oħra li nħarġu, jew li jistgħu jinħarġu taħtu;
 
 "istituzzjoni ta’ kreditu" tfisser istituzzjoni ta’ kreditu kif imfissra fil-punt (1) tal-artikolu 4(1)tas-CRR;
 
@@ -107,9 +93,7 @@ tad-Data), kif jista’ jiġi emendat minn żmien għal żmien, u jinkludi kwalu
 
 "MiFID" tfisser id-Direttiva 2014/65/UE tal-Parlament Ewropew u tal-Kunsill tal-15 ta’ Mejju 2014 dwar is-swieq fl-istrumenti finanzjarji u li temenda d-Direttiva 2002/92/KE u d- Direttiva 2011/61/UE, kif tista’ tiġi emendata minn żmien għal żmien, u tinkludi kwalunkwe strumenti legali vinkolanti, linji gwida u miżuri oħra li nħarġu, jew li jistgħu jinħarġu taħtha;
 
-*5*
-
-DWAR XERREJJA TA’ KREDITU [KAP. 645. "Ministru" tfisser il-Ministru responsabbli għar-regolamentazzjoni tas-servizzi finanzjarji;
+"Ministru" tfisser il-Ministru responsabbli għar-regolamentazzjoni tas-servizzi finanzjarji;
 
 "mutwatarju" tfisser persuna ġuridika jew fiżika li tkun ikkonkludiet kuntratt ta’ kreditu ma’ istituzzjoni ta’ kreditu, inkluż is-suċċessur legali jew iċ-ċessjonarju tagħha;
 
@@ -127,11 +111,7 @@ DWAR XERREJJA TA’ KREDITU [KAP. 645. "Ministru" tfisser il-Ministru responsabb
 
 "Stat Membru" tfisser Stat Membru tal-Unjoni Ewropea u tinkludi Stat taż-Żona Ekonomika Ewropea;
 
-"Stat Membru ospitanti" tfisser l-Istat Membru, għajr l- Istat Membru ta’ domiċilju, li fih persuna li tipprovdi servizzi ta’ kreditu tkun stabbilixxiet fergħa jew fejn tipprovdi DWAR XERREJJA TA’ KREDITU
-
-attivitajiet ta’ ġestjoni ta’ kreditu, u fi kwalunkwe każ fejn ikun domiċiljat il-mutwatarju, jew fejn ikun jinsab l-uffiċċju reġistrat tiegħu jew, jekk skont il-liġi nazzjonali tiegħu ma jkollu l-ebda uffiċċju reġistrat, l-Istat Membru li fih ikun jinsab l-uffiċċju prinċipali tiegħu;
-
-*[KAP. 645. 6*
+"Stat Membru ospitanti" tfisser l-Istat Membru, għajr l- Istat Membru ta’ domiċilju, li fih persuna li tipprovdi servizzi ta’ kreditu tkun stabbilixxiet fergħa jew fejn tipprovdi attivitajiet ta’ ġestjoni ta’ kreditu, u fi kwalunkwe każ fejn ikun domiċiljat il-mutwatarju, jew fejn ikun jinsab l-uffiċċju reġistrat tiegħu jew, jekk skont il-liġi nazzjonali tiegħu ma jkollu l-ebda uffiċċju reġistrat, l-Istat Membru li fih ikun jinsab l-uffiċċju prinċipali tiegħu;
 
 "Stat Membru ta’ domiċilju" tfisser, fir-rigward ta’ persuna li tipprovdi servizzi ta’ kreditu, l-Istat Membru li fih ikun jinsab l-uffiċċju reġistrat tagħha jew, jekk skont il-liġi nazzjonali tagħha ma jkollha l-ebda uffiċċju reġistrat, l-Istat Membru li fih ikun jinsab l-uffiċċju prinċipali tagħha jew, fir-rigward ta’ xerrej ta’ kreditu, l-Istat Membru li fih ikun domiċiljat ix-xerrej ta’ kreditu jew ir-rappreżentant tiegħu, jew li fih l-uffiċċju reġistrat tiegħu jkun jinsab jew, jekk skont il-liġi nazzjonali tiegħu ma jkollu l-ebda uffiċċju reġistrat, l-Istat Membru li fih ikun jinsab l-uffiċċju prinċipali tiegħu;
 
@@ -151,9 +131,7 @@ attivitajiet ta’ ġestjoni ta’ kreditu, u fi kwalunkwe każ fejn ikun domiċ
 
 (a) persuni li jipprovdu servizzi ta’ kreditu li jaġixxu f’isem xerrej ta’ kreditu fir-rigward tad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux produttiv innifsu, maħruġ minn istituzzjoni ta’ kreditu; u
 
-*7*
-
-DWAR XERREJJA TA’ KREDITU [KAP. 645. (b) ix-xerrejja ta’ kreditu tad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux produttiv innifsu, maħruġ minn istituzzjoni ta’ kreditu.
+(b) ix-xerrejja ta’ kreditu tad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux produttiv innifsu, maħruġ minn istituzzjoni ta’ kreditu.
 
 (2) Id-dispożizzjonijiet ta’ dan l-Att u kwalunkwe regolament, tar-Regoli dwar il-Provvediment ta’ Servizzi ta’ Kreditu u tar-Regoli tal-Kondotta tal-Operat maħruġa taħtu għandhom ikunu bla ħsara għal kwalunkwe liġi oħra relatata ma’:
 
@@ -177,11 +155,7 @@ Id-dispożizzjonijiet ta’ dan l-Att u ta’ kwalunkwe regolamenti magħmula ta
 
 (i) istituzzjoni ta’ kreditu stabbilita fl-Unjoni Ewropea;
 
-(ii) maniġer ta’ fondi ta’ investiment [KAP. 645. DWAR XERREJJA TA’ KREDITU
-
-alternattivi (AIFM) awtorizzat jew irreġistrat skont id- Direttiva 2011/61/UE, jew kumpanija maniġerjali, jew kumpanija ta’ investiment awtorizzata skont id-Direttiva 2009/65/KE sakemm il-kumpanija ta’ investiment ma tkunx ħatret kumpanija maniġerjali skont id-Direttiva tal-aħħar, f’isem il-fond li timmaniġġja;
-
-*8*
+(ii) maniġer ta’ fondi ta’ investiment alternattivi (AIFM) awtorizzat jew irreġistrat skont id- Direttiva 2011/61/UE, jew kumpanija maniġerjali, jew kumpanija ta’ investiment awtorizzata skont id-Direttiva 2009/65/KE sakemm il-kumpanija ta’ investiment ma tkunx ħatret kumpanija maniġerjali skont id-Direttiva tal-aħħar, f’isem il-fond li timmaniġġja;
 
 (iii) istituzzjoni mhux ta’ kreditu soġġetta għal superviżjoni minn awtorità kompetenti ta’ Stat Membru skont l-Artikolu 20 tad-Direttiva 2008/48/KE jew l- Artikolu 35 tad-Direttiva 2014/17/UE meta twettaq attivitajiet f’dak l-Istat Membru;
 
@@ -199,11 +173,9 @@ alternattivi (AIFM) awtorizzat jew irreġistrat skont id- Direttiva 2011/61/UE, 
 
 (2) L-awtorità kompetenti għandha twettaq ukoll il-funzjonijiet u d-dmirijiet bħala awtorità kompetenti għall-finijiet kollha tad- Direttiva NPL kif trasposta fil-liġi nazzjonali.
 
-(3) Bla ħsara għad-dispożizzjonijiet ta’ dan l-artikolu, fejn Malta hija l-Istat Membru ta’ domiċilju, l-awtorità kompetenti għandha tiżgura li l-persuni li jipprovdu servizzi ta’ kreditu u, fejn applikabbli, il-fornituri ta’ servizzi ta’ kreditu li lilhom ikunu ġew DWAR XERREJJA TA’ KREDITU [KAP. 645. esternalizzati l-attivitajiet ta’ġestjoni ta’ kreditu skont l-artikolu 12 jikkonformaw mad-dispożizzjonijiet ta’ dan l-Att u ma’ kwalunkwe regolamenti magħmula taħtu, mar-Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu u mar-Regoli tal-Kondotta tal-Operat maħruġa taħtu, fuq bażi kontinwa.
+(3) Bla ħsara għad-dispożizzjonijiet ta’ dan l-artikolu, fejn Malta hija l-Istat Membru ta’ domiċilju, l-awtorità kompetenti għandha tiżgura li l-persuni li jipprovdu servizzi ta’ kreditu u, fejn applikabbli, il-fornituri ta’ servizzi ta’ kreditu li lilhom ikunu ġew esternalizzati l-attivitajiet ta’ġestjoni ta’ kreditu skont l-artikolu 12 jikkonformaw mad-dispożizzjonijiet ta’ dan l-Att u ma’ kwalunkwe regolamenti magħmula taħtu, mar-Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu u mar-Regoli tal-Kondotta tal-Operat maħruġa taħtu, fuq bażi kontinwa.
 
 (4) Bla ħsara għad-dispożizzjonijiet ta’ dan l-artikolu, fejn Malta hija l-Istat Membru ta’ domiċilju, hija għandha tkun responsabbli għas-superviżjoni tal-obbligi stabbiliti fl-Artikolu 10 u fl- Artikoli 17 sa 20 tad-Direttiva NPL, kif trasposta fil-liġi nazzjonali, fir-rigward tax-xerrej ta’ kreditu jew, fejn applikabbli, tar-rappreżentant maħtur tiegħu.
-
-*9*
 
 ## TAQSIMA I — PERSUNI LI JIPPROVDU SERVIZZI TA’ KREDITU
 
@@ -221,11 +193,7 @@ alternattivi (AIFM) awtorizzat jew irreġistrat skont id- Direttiva 2011/61/UE, 
 
 (1) Persuna ġuridika stabbilita f’Malta bl-intenzjoni li taġixxi bħala persuna li tipprovdi servizzi ta’ kreditu għandha tapplika mal-awtorità kompetenti għal awtorizzazzjoni sabiex taġixxi bħala persuna li tipprovdi servizzi ta’ kreditu.
 
-(2) Applikant għandu jissottometti lill-awtorità kompetenti applikazzjoni għall-awtorizzazzjoni sabiex jaġixxi bħala persuna li [KAP. 645. DWAR XERREJJA TA’ KREDITU
-
-tipprovdi servizzi ta’ kreditu. Applikant għandu jipprovdi wkoll l-informazzjoni kollha meħtieġa sabiex l-awtorità kompetenti tivverifika li l-applikant ikun issodisfa l-kondizzjonijiet kollha stabbiliti fl-artikolu 8.
-
-*10*
+(2) Applikant għandu jissottometti lill-awtorità kompetenti applikazzjoni għall-awtorizzazzjoni sabiex jaġixxi bħala persuna li tipprovdi servizzi ta’ kreditu. Applikant għandu jipprovdi wkoll l-informazzjoni kollha meħtieġa sabiex l-awtorità kompetenti tivverifika li l-applikant ikun issodisfa l-kondizzjonijiet kollha stabbiliti fl-artikolu 8.
 
 (3) Bla ħsara għad-dispożizzjonijiet tas-subartikolu (2), l-applikazzjoni msemmija fl-imsemmi subartikolu (2) għandha tkun akkumpanjata b’dan li ġej:
 
@@ -253,11 +221,9 @@ tipprovdi servizzi ta’ kreditu. Applikant għandu jipprovdi wkoll l-informazzj
 
 (l) meta l-applikant ma jkollux l-intenzjoni li jirċievi u jżomm fondi mingħand il-mutwatarji bħala parti mill-mudell tan-negozju tiegħu, dikjarazzjoni f’dan is-sens.
 
-(4) L-awtorità kompetenti għandha, fi żmien ħamsa u erbgħin (45) jum minn meta tirċievi l-applikazzjoni msemmija fis-subartikolu (2), tivvaluta jekk dik l-applikazzjoni hijiex kompluta billi tiżgura li l-informazzjoni u d-dokumentazzjoni msemmija fis-subartikolu (3) ġew DWAR XERREJJA TA’ KREDITU [KAP. 645. sottomessi.
+(4) L-awtorità kompetenti għandha, fi żmien ħamsa u erbgħin (45) jum minn meta tirċievi l-applikazzjoni msemmija fis-subartikolu (2), tivvaluta jekk dik l-applikazzjoni hijiex kompluta billi tiżgura li l-informazzjoni u d-dokumentazzjoni msemmija fis-subartikolu (3) ġew sottomessi.
 
 (5) Meta l-applikazzjoni msemmija fis-subartikolu (2) ma tkunx kompluta, l-awtorità kompetenti għandha tistabbilixxi skadenza sa meta l-applikant għandu jipprovdi l-informazzjoni nieqsa. Jekk l-applikazzjoni msemmija tibqa’ mhux kompluta wara l-iskadenza msemmija f’dan is-subartikolu, l-awtorità kompetenti tista’ tirrifjuta li tirrevedi l-applikazzjoni u, fil-każ ta’ tali rifjut, għandha tibgħat lura d-dokumenti sottomessi lill-applikant.
-
-*11*
 
 (6) Meta applikazzjoni msemmija fis-subartikolu (2) tkun kompluta, l-awtorità kompetenti għandha minnufih tinnotifika lill-applikant b’dan.
 
@@ -273,11 +239,7 @@ tipprovdi servizzi ta’ kreditu. Applikant għandu jipprovdi wkoll l-informazzj
 
 L-awtorità kompetenti ma għandhiex tagħti awtorizzazzjoni lil applikant bħala persuna li tipprovdi servizzi ta’ kreditu skont dan l- Att sakemm ma tkunx sodisfatta li:
 
-(a) l-applikant ikun persuna ġuridika kif imsemmi fl- Artikolu 54 tat-Trattat dwar il-Funzjonament tal-Unjoni DWAR XERREJJA TA’ KREDITU
-
-Ewropea u l-uffiċċju reġistrat tiegħu jkun f’Malta;
-
-*[KAP. 645. 12*
+(a) l-applikant ikun persuna ġuridika kif imsemmi fl- Artikolu 54 tat-Trattat dwar il-Funzjonament tal-Unjoni Ewropea u l-uffiċċju reġistrat tiegħu jkun f’Malta;
 
 (b) il-membri tal-korp maniġerjali jew amministrattiv tal-applikant huma ta’ reputazzjoni suffiċjentement tajba, li tintwera billi jiġi ppruvat li:
 
@@ -295,13 +257,11 @@ Ewropea u l-uffiċċju reġistrat tiegħu jkun f’Malta;
 
 (e) l-applikant ikollu fis-seħħ arranġamenti ta’ governanza robusti u mekkaniżmi ta’ kontroll intern adegwati, inklużi l-ġestjoni tar-riskju u l-proċeduri ta’ kontabilità, li jiżguraw ir-rispett għad-drittijiet tal-mutwatarji u l-konformità mal-liġijiet li jirregolaw id-drittijiet ta’ kreditur skont kuntratt ta’ kreditu, jew il-kuntratt tal-kreditu nnifsu, u mal-GDPR;
 
-(f) l-applikant japplika politika xierqa li tiżgura l-konformità mar-regoli għall-protezzjoni, u t-trattament ġust u diliġenti tal-mutwatarji, inkluż billi jqis is-sitwazzjoni DWAR XERREJJA TA’ KREDITU [KAP. 645. finanzjarja tagħhom u, fejn disponibbli, il-ħtieġa li tali mutwatarji jiġu riferuti għal pariri dwar id-dejn jew servizzi soċjali;
+(f) l-applikant japplika politika xierqa li tiżgura l-konformità mar-regoli għall-protezzjoni, u t-trattament ġust u diliġenti tal-mutwatarji, inkluż billi jqis is-sitwazzjoni finanzjarja tagħhom u, fejn disponibbli, il-ħtieġa li tali mutwatarji jiġu riferuti għal pariri dwar id-dejn jew servizzi soċjali;
 
 *         Kap. 373.*
 
 (g) l-applikant ikollu fis-seħħ proċeduri interni adegwati u speċifiċi li jiżguraw ir-reġistrazzjoni u t-trattament tal-ilmenti tal-mutwatarji;
-
-*13*
 
 (h) l-applikant ikollu fis-seħħ proċeduri adegwati kontra l-ħasil tal-flus u kontra l-finanzjament tat-terroriżmu fejn id-dispożizzjonijiet tal-Att kontra Money Laundering, jew kwalunkwe regolamenti magħmula taħtu, jinnominaw lill-persuni li jipprovdu servizzi ta’ kreditu bħala persuni suġġetti;
 
@@ -323,10 +283,6 @@ Iżda dan il-paragrafu ma għandux japplika meta l-applikant ma jkollux l-intenz
 
 (d) il-persuna li tipprovdi servizzi ta’ kreditu tkun kisbet awtorizzazzjoni permezz ta’ dikjarazzjonijiet foloz jew b’mezzi irregolari oħra;
 
-*14*
-
-[KAP. 645. DWAR XERREJJA TA’ KREDITU
-
 (e) il-persuna li tipprovdi servizzi ta’ kreditu ma tibqax tissodisfa r-rekwiżiti għall-għoti ta’ tali awtorizzazzjoni stabbiliti fl-artikolu 8; u jew
 
 (f) il-persuna li tipprovdi servizzi ta’ kreditu twettaq ksur serju ta’ kwalunkwe waħda mid-dispożizzjonijiet ta’ dan l- Att, ta’ kwalunkwe regolamenti magħmula taħtu, ta’ Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu jew ta’ Regoli tal- Kondotta tal-Operat maħruġa taħtu u, jew kwalunkwe liġi oħra li tirregola l-protezzjoni tal-konsumatur, inkluża kwalunkwe liġi applikabbli tal-Istat Membru ospitanti jew tal-Istat Membru fejn ikun ingħata l-kreditu.
@@ -347,13 +303,11 @@ hi għandha tagħti lill-applikant jew lill-persuna li tipprovdi servizzi ta’ 
 
 (2) Kull avviż mogħti taħt is-subartikolu (1) għandu jiddikjara li r-riċevitur tal-avviż jista’, f’dak il-perjodu raġonevoli wara li jkun ingħata l-avviż kif jista’ jkun iddikjarat fl-avviż, jagħmel sottomissjonijiet bil-miktub lill-awtorità kompetenti li bihom jagħti r-raġunijiet għaliex id-deċiżjoni proposta ma għandhiex tittieħed, u l-awtorità kompetenti għandha tikkunsidra kwalunkwe sottomissjoni hekk magħmula qabel ma tasal għal deċiżjoni finali.
 
-(3) Bla ħsara għad-dispożizzjonijiet tal-artikolu 7(7), l-awtorità kompetenti għandha mill-aktar fis prattikabbli tavża bid-deċiżjoni DWAR XERREJJA TA’ KREDITU [KAP. 645. finali tagħha bil-miktub lil kwalunkwe persuna li lilha għandu jingħata avviż skont is-subartikolu (1).
+(3) Bla ħsara għad-dispożizzjonijiet tal-artikolu 7(7), l-awtorità kompetenti għandha mill-aktar fis prattikabbli tavża bid-deċiżjoni finali tagħha bil-miktub lil kwalunkwe persuna li lilha għandu jingħata avviż skont is-subartikolu (1).
 
 ### 11. Superviżjoni tal-persuni li jipprovdu servizzi ta’ kreditu.
 
 (1) Meta Malta tkun l-Istat Membru ta’ domiċilju, l-awtorità kompetenti għandha tevalwa, billi tapplika approċċ ibbażat fuq ir-riskju, l-implimentazzjoni minn persuna li tipprovdi servizzi ta’ kreditu tar-rekwiżiti stabbiliti fil-paragrafi (e) sa (h) tal-artikolu 8:
-
-*15*
 
 Iżda l-awtorità kompetenti għandha tiddetermina l-firxa tal-evalwazzjoni msemmija f’dan is-subartikolu, filwaqt li tqis id-daqs, in-natura u l-kumplessità tal-attivitajiet tal-persuna kkonċernata li tipprovdi servizzi ta’ kreditu.
 
@@ -367,11 +321,7 @@ Iżda l-awtorità kompetenti għandha tiddetermina l-firxa tal-evalwazzjoni msem
 
 (2) Meta persuna li tipprovdi servizzi ta’ kreditu jkollha l-intenzjoni li tirċievi u żżomm fondi f’isem il-mutwatarji bħala parti mill-mudell tan-negozju tagħha skont dan l-Att, u l-mutwatarju jagħmel pagament lil dik il-persuna li tipprovdi servizzi ta’ kreditu sabiex, parzjalment jew totalment, jirrimborża l-ammonti dovuti relatati mad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux produttiv innifsu, dak il-pagament għandu jitqies li tħallas lix-xerrej ta’ kreditu.
 
-(3) Meta persuna li tipprovdi servizzi ta’ kreditu jkollha l- [KAP. 645. DWAR XERREJJA TA’ KREDITU
-
-intenzjoni li tirċievi u żżomm fondi f’isem il-mutwatarji bħala parti mill-mudell tan-negozju tagħha skont dan l-Att, dik il-persuna li tipprovdi servizzi ta’ kreditu għandha tkun meħtieġa tagħti riċevuta jew ittra ta’ rilaxx lill-mutwatarju, fuq karta jew mezz durabbli ieħor, kull meta l-persuna li tipprovdi servizzi ta’ kreditu tirċievi fondi mingħand il-mutwatarju, filwaqt li tirrikonoxxi l-ammonti riċevuti.
-
-*16*
+(3) Meta persuna li tipprovdi servizzi ta’ kreditu jkollha l-intenzjoni li tirċievi u żżomm fondi f’isem il-mutwatarji bħala parti mill-mudell tan-negozju tagħha skont dan l-Att, dik il-persuna li tipprovdi servizzi ta’ kreditu għandha tkun meħtieġa tagħti riċevuta jew ittra ta’ rilaxx lill-mutwatarju, fuq karta jew mezz durabbli ieħor, kull meta l-persuna li tipprovdi servizzi ta’ kreditu tirċievi fondi mingħand il-mutwatarju, filwaqt li tirrikonoxxi l-ammonti riċevuti.
 
 (4) Il-fornituri ta’ servizzi ta’ kreditu ma għandhomx jitħallew jirċievu u jżommu fondi mingħand il-mutwatarji.
 
@@ -389,11 +339,9 @@ intenzjoni li tirċievi u żżomm fondi f’isem il-mutwatarji bħala parti mill
 
 (d) il-konformità ta’ persuna li tipprovdi servizzi ta’ kreditu mar-rekwiżiti ta’ awtorizzazzjoni stabbiliti fl-artikolu 8 mhijiex affettwata mill-esternalizzazzjoni ta’ xi wħud mill-attivitajiet ta’ ġestjoni ta’ kreditu tiegħu;
 
-(e) l-esternalizzazzjoni lill-fornitur ta’ servizzi ta’ DWAR XERREJJA TA’ KREDITU [KAP. 645. kreditu ma tipprevjenix is-superviżjoni tal-persuna li tipprovdi servizzi ta’ kreditu mill-awtorità kompetenti u, fejn applikabbli, mill-awtorità regolatorja Ewropea tal-Istat Membru ospitanti u mill-Istat Membru fejn ingħata l-kreditu, meta dan ikun differenti mill-Istat Membru ta’ domiċilju u mill-Istat Membru ospitanti, skont l-Artikolu 5 u l-Artikolu 14 tad-Direttiva NPL, kif applikabbli;
+(e) l-esternalizzazzjoni lill-fornitur ta’ servizzi ta’ kreditu ma tipprevjenix is-superviżjoni tal-persuna li tipprovdi servizzi ta’ kreditu mill-awtorità kompetenti u, fejn applikabbli, mill-awtorità regolatorja Ewropea tal-Istat Membru ospitanti u mill-Istat Membru fejn ingħata l-kreditu, meta dan ikun differenti mill-Istat Membru ta’ domiċilju u mill-Istat Membru ospitanti, skont l-Artikolu 5 u l-Artikolu 14 tad-Direttiva NPL, kif applikabbli;
 
 (f) il-persuna li tipprovdi servizzi ta’ kreditu jkollha aċċess dirett għall-informazzjoni rilevanti kollha dwar l-attivitajiet ta’ ġestjoni ta’ kreditu esternalizzati lill-fornitur ta’ servizzi ta’ kreditu;
-
-*17*
 
 (g) wara li jintemm il-ftehim ta’ esternalizzazzjoni, il-persuna li tipprovdi servizzi ta’ kreditu jkollha l-għarfien espert u r-riżorsi sabiex tkun tista’ tipprovdi l-attivitajiet ta’ ġestjoni ta’ kreditu esternalizzati; u
 
@@ -411,11 +359,7 @@ intenzjoni li tirċievi u żżomm fondi f’isem il-mutwatarji bħala parti mill
 
 *Emendat: XI.2025.51.*
 
-(1) L-istituzzjonijiet ta’ kreditu għandhom jipprovdu lil xerrej ta’ kreditu prospettiv l-informazzjoni meħtieġa rigward id-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew il-kuntratt ta’ kreditu mhux produttiv innifsu u, jekk applikabbli, il-kollaterali sabiex ix-xerrej ta’ kreditu prospettiv ikun jista’ jwettaq il-valutazzjoni tiegħu stess tal-valur tad-drittijiet tal-kreditur skont il-kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux [KAP. 645. DWAR XERREJJA TA’ KREDITU
-
-produttiv innifsu, u l-probabbiltà ta’ rkupru tal-valur ta’ dak il-kuntratt qabel ma jidħol f’kuntratt għat-trasferiment tad-drittijiet ta’ dak il-kreditur skont il-kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux produttiv innifsu, filwaqt li jiżguraw il-protezzjoni tal-informazzjoni magħmula disponibbli mill-istituzzjoni ta’ kreditu u l-kunfidenzjalità tad-data tan-negozju.
-
-*18*
+(1) L-istituzzjonijiet ta’ kreditu għandhom jipprovdu lil xerrej ta’ kreditu prospettiv l-informazzjoni meħtieġa rigward id-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew il-kuntratt ta’ kreditu mhux produttiv innifsu u, jekk applikabbli, il-kollaterali sabiex ix-xerrej ta’ kreditu prospettiv ikun jista’ jwettaq il-valutazzjoni tiegħu stess tal-valur tad-drittijiet tal-kreditur skont il-kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux produttiv innifsu, u l-probabbiltà ta’ rkupru tal-valur ta’ dak il-kuntratt qabel ma jidħol f’kuntratt għat-trasferiment tad-drittijiet ta’ dak il-kreditur skont il-kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux produttiv innifsu, filwaqt li jiżguraw il-protezzjoni tal-informazzjoni magħmula disponibbli mill-istituzzjoni ta’ kreditu u l-kunfidenzjalità tad-data tan-negozju.
 
 (2) Fuq bażi biannwali, l-istituzzjonijiet ta’ kreditu li jittrasferixxu lil xerrej ta’ kreditu drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew il-kuntratt ta’ kreditu mhux produttiv innifsu, għandhom jinfurmaw lill-awtorità kompetenti u lill-awtorità regolatorja Ewropea tal-Istat Membru ospitanti mill-inqas dwar dan li ġej:
 
@@ -435,9 +379,7 @@ produttiv innifsu, u l-probabbiltà ta’ rkupru tal-valur ta’ dak il-kuntratt
 
 (3) L-awtoritajiet imsemmija fis-subartikolu (2) jistgħu jeħtieġu li l-istituzzjonijiet ta’ kreditu jipprovdu l-informazzjoni msemmija fis-subartikolu msemmi fuq bażi trimestrali kull meta jqisu meħtieġ, inkluż sabiex jimmonitorjaw aħjar numru kbir ta’ trasferimenti li jistgħu jseħħu matul perjodu ta’ kriżi.
 
-*19*
-
-DWAR XERREJJA TA’ KREDITU [KAP. 645. (4) Fejn Malta hija l-Istat Membru ospitanti, l-awtorità kompetenti għandha tikkomunika mingħajr dewmien l-informazzjoni msemmija fis-subartikoli (2) u (3), u kwalunkwe informazzjoni oħra li l-awtorità kompetenti tista’ tikkunsidra bħala meħtieġa għat-twettiq tal-funzjonijiet u d-dmirijiet skont id-Direttiva NPL, lill-awtoritajiet kompetenti tal-Istat Membru ta’ domiċilju tax-xerrej ta’ kreditu.
+(4) Fejn Malta hija l-Istat Membru ospitanti, l-awtorità kompetenti għandha tikkomunika mingħajr dewmien l-informazzjoni msemmija fis-subartikoli (2) u (3), u kwalunkwe informazzjoni oħra li l-awtorità kompetenti tista’ tikkunsidra bħala meħtieġa għat-twettiq tal-funzjonijiet u d-dmirijiet skont id-Direttiva NPL, lill-awtoritajiet kompetenti tal-Istat Membru ta’ domiċilju tax-xerrej ta’ kreditu.
 
 *  Kap. 586.*
 
@@ -453,11 +395,7 @@ Iżda għal krediti li joriġinaw bejn 1 ta’ Lulju u d-data tal-bidu fis-seħ�
 
 (1) Xerrej ta’ kreditu li jkun domiċiljat jew li jkollu l-uffiċċju reġistrat tiegħu f’Malta għandu jaħtar entità kif imsemmi fl-artikolu 4(a)(i) jew (iii) jew persuna li tipprovdi servizzi ta’ kreditu, sabiex twettaq attivitajiet ta’ ġestjoni ta’ kreditu fir-rigward tad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux produttiv innifsu, konkluż mal-konsumaturi.
 
-(2) Bla ħsara għad-dispożizzjonijiet tas-subartikolu (1), meta xerrej ta’ kreditu domiċiljat fl-Unjoni Ewropea, jew li jkollu l-uffiċċju reġistrat tiegħu jew, jekk skont il-liġi nazzjonali tiegħu ma jkollu l-ebda uffiċċju reġistrat, l-uffiċċju prinċipali tiegħu fl-Unjoni Ewropea jixtri d-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew il-kuntratt ta’ kreditu mhux produttiv innifsu, konkluż ma’ konsumatur domiċiljat f’Malta, minbarra d-drittijiet ta’ kreditur skont [KAP. 645. DWAR XERREJJA TA’ KREDITU
-
-kwalunkwe kuntratt ta’ kreditu ieħor, jew kwalunkwe tali kuntratt ta’ kreditu ieħor innifsu, huwa għandu jaħtar entità kif imsemmi fl-artikolu 4(a)(i) jew (iii) jew persuna li tipprovdi servizzi ta’ kreditu, sabiex twettaq attivitajiet ta’ ġestjoni ta’ kreditu fir-rigward ta’ tali drittijiet tal-kredituri, jew tali kuntratti ta’ kreditu nfushom.
-
-*20*
+(2) Bla ħsara għad-dispożizzjonijiet tas-subartikolu (1), meta xerrej ta’ kreditu domiċiljat fl-Unjoni Ewropea, jew li jkollu l-uffiċċju reġistrat tiegħu jew, jekk skont il-liġi nazzjonali tiegħu ma jkollu l-ebda uffiċċju reġistrat, l-uffiċċju prinċipali tiegħu fl-Unjoni Ewropea jixtri d-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew il-kuntratt ta’ kreditu mhux produttiv innifsu, konkluż ma’ konsumatur domiċiljat f’Malta, minbarra d-drittijiet ta’ kreditur skont kwalunkwe kuntratt ta’ kreditu ieħor, jew kwalunkwe tali kuntratt ta’ kreditu ieħor innifsu, huwa għandu jaħtar entità kif imsemmi fl-artikolu 4(a)(i) jew (iii) jew persuna li tipprovdi servizzi ta’ kreditu, sabiex twettaq attivitajiet ta’ ġestjoni ta’ kreditu fir-rigward ta’ tali drittijiet tal-kredituri, jew tali kuntratti ta’ kreditu nfushom.
 
 (3) Meta xerrej ta’ kreditu ma jkunx domiċiljat fl-Unjoni Ewropea, jew ma jkollux l-uffiċċju reġistrat tiegħu jew, jekk skont il-liġi nazzjonali tiegħu ma jkollu l-ebda uffiċċju reġistrat, l-uffiċċju prinċipali tiegħu fl-Unjoni Ewropea, ir-rappreżentant maħtur tiegħu għandu jaħtar entità kif imsemmi fl-artikolu 4(a)(i) jew (iii) jew persuna li tipprovdi servizzi ta’ kreditu, ħlief f’każijiet fejn ir-rappreżentant maħtur innifsu jkun entità kif imsemmi fl-artikolu 4(a)(i) jew (iii), jew persuna li tipprovdi servizzi ta’ kreditu, sabiex twettaq attivitajiet ta’ ġestjoni ta’ kreditu fir-rigward tad-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew tal-kuntratt ta’ kreditu mhux produttiv innifsu, konkluż ma’:
 
@@ -471,9 +409,7 @@ Iżda d-dispożizzjonijiet ta’ dan is-subartikolu għandhom japplikaw ukoll me
 
 (5) Il-liġi rilevanti tal-Unjoni Ewropea u l-liġi nazzjonali li tikkonċerna b’mod partikolari l-infurzar tal-kuntratti, il-protezzjoni tal-konsumatur, id-drittijiet tal-mutwatarji, l-oriġini tal-kreditu, ir-regoli dwar is-segretezza bankarja u l-liġi kriminali għandhom ikomplu japplikaw għax-xerrej ta’ kreditu mat-trasferiment tad-drittijiet tal-kreditur skont il-kuntratt ta’ kreditu, jew tal-kuntratt ta’ kreditu nnifsu, għax-xerrej ta’ kreditu.
 
-*21*
-
-DWAR XERREJJA TA’ KREDITU [KAP. 645. (6) Bla ħsara għal kwalunkwe liġi nazzjonali u internazzjonali dwar iċ-ċedoli u l-kambjali, il-livell ta’ protezzjoni previst skont il-liġi tal-Unjoni Ewropea u l-liġi nazzjonali għal konsumaturi u għal mutwatarji oħra, kif ukoll il-liġijiet dwar l-insolvenza, ma għandux jiġi affettwat mit-trasferiment tad-drittijiet tal-kreditur skont il-kuntratt ta’ kreditu, jew tal-kuntratt ta’ kreditu nnifsu, lix-xerrej ta’ kreditu.
+(6) Bla ħsara għal kwalunkwe liġi nazzjonali u internazzjonali dwar iċ-ċedoli u l-kambjali, il-livell ta’ protezzjoni previst skont il-liġi tal-Unjoni Ewropea u l-liġi nazzjonali għal konsumaturi u għal mutwatarji oħra, kif ukoll il-liġijiet dwar l-insolvenza, ma għandux jiġi affettwat mit-trasferiment tad-drittijiet tal-kreditur skont il-kuntratt ta’ kreditu, jew tal-kuntratt ta’ kreditu nnifsu, lix-xerrej ta’ kreditu.
 
 (7) Id-dispożizzjonijiet ta’ dan l-Att, u ta’ kwalunkwe regolamenti magħmula taħtu, ta’ Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu u ta’ Regoli tal-Kondotta tal-Operat maħruġa taħtu, għandhom ikunu bla ħsara għas-setgħa tal-awtorità kompetenti u ta’ kwalunkwe awtorità nazzjonali oħra, aġenzija u, jew korp skont il-liġi li jeħtieġu informazzjoni mix-xerrejja ta’ kreditu rigward id-drittijiet ta’ kreditur skont kuntratt ta’ kreditu, jew il-kuntratt ta’ kreditu nnifsu, u l-prestazzjoni tiegħu.
 
@@ -487,11 +423,7 @@ DWAR XERREJJA TA’ KREDITU [KAP. 645. (6) Bla ħsara għal kwalunkwe liġi nazz
 
 (1) Meta x-xerrej ta’ kreditu jew, fejn applikabbli, ir-rappreżentant maħtur tiegħu, jaħtar entità msemmija fl-artikolu 4(a)(i) jew (iii), jew persuna li tipprovdi servizzi ta’ kreditu, sabiex twettaq attivitajiet ta’ ġestjoni ta’ kreditu fir-rigward tad-drittijiet tal-kreditur trasferiti skont kuntratt ta’ kreditu mhux produttiv, jew il-kuntratt ta’ kreditu mhux produttiv innifsu, ix-xerrej ta’ kreditu jew ir-rappreżentant tiegħu għandu jinforma lill-awtorità kompetenti bil-miktub dwar l-identità u l-indirizz tal-entità jew persuna li tipprovdi servizzi ta’ kreditu msemmija, mhux aktar tard mid-data li fiha jibdew l-attivitajiet ta’ ġestjoni ta’ kreditu.
 
-(2) Meta x-xerrej ta’ kreditu jew, fejn applikabbli, ir- [KAP. 645. DWAR XERREJJA TA’ KREDITU
-
-rappreżentant maħtur tiegħu jaħtar entità għajr dik notifikata skont is-subartikolu (1), dan għandu javża lill-awtorità kompetenti dwar dan mhux aktar tard mid-data ta’ dik il-bidla u għandu jindika l-identità u l-indirizz tal-entità l-ġdida li jkun ħatar sabiex twettaq attivitajiet ta’ ġestjoni ta’ kreditu fir-rigward tad-drittijiet tal-kreditur trasferiti skont kuntratt ta’ kreditu mhux produttiv jew il-kuntratt ta’ kreditu mhux produttiv innifsu.
-
-*22*
+(2) Meta x-xerrej ta’ kreditu jew, fejn applikabbli, ir-rappreżentant maħtur tiegħu jaħtar entità għajr dik notifikata skont is-subartikolu (1), dan għandu javża lill-awtorità kompetenti dwar dan mhux aktar tard mid-data ta’ dik il-bidla u għandu jindika l-identità u l-indirizz tal-entità l-ġdida li jkun ħatar sabiex twettaq attivitajiet ta’ ġestjoni ta’ kreditu fir-rigward tad-drittijiet tal-kreditur trasferiti skont kuntratt ta’ kreditu mhux produttiv jew il-kuntratt ta’ kreditu mhux produttiv innifsu.
 
 (3) Meta Malta tkun l-Istat Membru tad-domiċilju tax-xerrej ta’ kreditu, l-awtorità kompetenti għandha tittrasmetti mingħajr dewmien żejjed lill-awtorità regolatorja Ewropea tal-Istat Membru ospitanti, lill-awtorità regolatorja Ewropea tal-Istat Membru li fih ikun ingħata l-kreditu, u lill-awtorità regolatorja Ewropea tal-Istat Membru tad-domiċilju tal-persuna li tipprovdi servizzi ta’ kreditu l-ġdida, l-informazzjoni riċevuta skont is-subartikoli (1) u (2).
 
@@ -511,11 +443,9 @@ għandu jaħtar bil-miktub rappreżentant li jkun domiċiljat fi Stat Membru jew
 
 ### 18. Trasferiment tad-drittijiet ta’ kreditur minn xerrej ta’ kreditu.
 
-(1) Meta Malta tkun l-Istat Membru ta’ domiċilju, xerrej ta’ kreditu jew, fejn applikabbli, ir-rappreżentant maħtur tiegħu, li jittrasferixxi d-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew il-kuntratt ta’ kreditu mhux produttiv innifsu, għandu jinforma lill-awtorità kompetenti fuq bażi biannwali dwar l- DWAR XERREJJA TA’ KREDITU [KAP. 645. identifikatur ta’ entità ġuridika (LEI), tax-xerrej ta’ kreditu l-ġdid u, fejn applikabbli, tar-rappreżentant maħtur tiegħu jew, fejn tali identifikatur ma jeżistix, dwar:
+(1) Meta Malta tkun l-Istat Membru ta’ domiċilju, xerrej ta’ kreditu jew, fejn applikabbli, ir-rappreżentant maħtur tiegħu, li jittrasferixxi d-drittijiet ta’ kreditur skont kuntratt ta’ kreditu mhux produttiv, jew il-kuntratt ta’ kreditu mhux produttiv innifsu, għandu jinforma lill-awtorità kompetenti fuq bażi biannwali dwar l-identifikatur ta’ entità ġuridika (LEI), tax-xerrej ta’ kreditu l-ġdid u, fejn applikabbli, tar-rappreżentant maħtur tiegħu jew, fejn tali identifikatur ma jeżistix, dwar:
 
 (a) l-identità tax-xerrej ta’ kreditu l-ġdid jew, fejn applikabbli, tar-rappreżentant maħtur tiegħu, jew tal-membri tal-korp maniġerjali tax-xerrej ta’ kreditu l-ġdid jew tar-rappreżentant tiegħu u l-persuni li jkollhom parteċipazzjonijiet kwalifikanti fix-xerrej ta’ kreditu l-ġdid jew ir-rappreżentant tiegħu skont it-tifsira tal-punt (36) tal- Artikolu 4(1) tas-CRR; u
-
-*23*
 
 (b) l-indirizz tax-xerrej ta’ kreditu l-ġdid jew, fejn applikabbli, tar-rappreżentant maħtur tiegħu.
 
@@ -531,12 +461,6 @@ għandu jaħtar bil-miktub rappreżentant li jkun domiċiljat fi Stat Membru jew
 
 (4) Fejn Malta tkun l-Istat Membru ta’ domiċilju, l-awtorità kompetenti għandha tittrażmetti mingħajr dewmien żejjed l-informazzjoni li tirċievi skont dan l-artikolu lill-awtorità regolatorja Ewropea tal-Istat Membru ospitanti u lill-awtorità regolatorja Ewropea tal-Istat Membru ta’ domiċilju tax-xerrej il-ġdid ta’ kreditu.
 
-**DWAR XERREJJA TA’ KREDITU**
-
-*[KAP. 645.*
-
-*24*
-
 TAQSIMA III
 
 SETGĦAT REGOLATORJI U INVESTIGATTIVI
@@ -551,11 +475,9 @@ SETGĦAT REGOLATORJI U INVESTIGATTIVI
 
 (ċ) jittrasponi, jimplimenta u jagħti effett lid-dispożizzjonijiet u r-rekwiżiti tad-Direttiva NPL;
 
-(d) jittrasponi, jimplimenta u jagħti effett lid-dispożizzjonijiet u r-rekwiżiti tad-Direttivi tal-Unjoni Ewropea, tar-Regolamenti tal-Unjoni Ewropea u ta’ kwalunkwe miżura leġiżlattiva oħra tal-Unjoni Ewropea li jeħtieġu traspożizzjoni u, jew implimentazzjoni, kif jistgħu jiġu emendati minn żmien għal żmien, inkluża kwalunkwe miżura ta’ implimentazzjoni li tkun inħarġet jew li tista’ tinħareġ taħthom u li tkun relatata ma’ persuni awtorizzati u oħrajn kif jista’ jiġi speċifikat fihom. Ir-regolamenti magħmula taħt dan il-paragrafu, u strettament relatati mat-traspożizzjoni jew l-implimentazzjoni kif imsemmi qabel, jistgħu jipprovdu li kwalunkwe dispożizzjoni ta’ dan l- Att jew ta’ kwalunkwe liġi oħra ma għandhiex tapplika għal materji li jaqgħu taħt ir-regolamenti, u li sa fejn kwalunkwe waħda mid-dispożizzjonijiet tar-regolamenti tkun inkonsistenti mad-dispożizzjonijiet ta’ dan l-Att jew ta’ kwalunkwe liġi oħra, dawn id-dispożizzjonijiet f’xi regolamenti bħal dawn DWAR XERREJJA TA’ KREDITU [KAP. 645. għandhom jipprevalu;
+(d) jittrasponi, jimplimenta u jagħti effett lid-dispożizzjonijiet u r-rekwiżiti tad-Direttivi tal-Unjoni Ewropea, tar-Regolamenti tal-Unjoni Ewropea u ta’ kwalunkwe miżura leġiżlattiva oħra tal-Unjoni Ewropea li jeħtieġu traspożizzjoni u, jew implimentazzjoni, kif jistgħu jiġu emendati minn żmien għal żmien, inkluża kwalunkwe miżura ta’ implimentazzjoni li tkun inħarġet jew li tista’ tinħareġ taħthom u li tkun relatata ma’ persuni awtorizzati u oħrajn kif jista’ jiġi speċifikat fihom. Ir-regolamenti magħmula taħt dan il-paragrafu, u strettament relatati mat-traspożizzjoni jew l-implimentazzjoni kif imsemmi qabel, jistgħu jipprovdu li kwalunkwe dispożizzjoni ta’ dan l- Att jew ta’ kwalunkwe liġi oħra ma għandhiex tapplika għal materji li jaqgħu taħt ir-regolamenti, u li sa fejn kwalunkwe waħda mid-dispożizzjonijiet tar-regolamenti tkun inkonsistenti mad-dispożizzjonijiet ta’ dan l-Att jew ta’ kwalunkwe liġi oħra, dawn id-dispożizzjonijiet f’xi regolamenti bħal dawn għandhom jipprevalu;
 
 (e) jassenja setgħat u funzjonijiet lill-awtorità kompetenti għall-finijiet ta’ dan l-Att, u jipprovdi għall-eżerċizzju ta’ tali setgħat u t-twettiq ta’ tali funzjonijiet;
-
-*25*
 
 (f) jipprovdi għat-twaqqif u l-impożizzjoni ta’ penalitajiet amministrattivi u miżuri amministrattivi oħra li l-awtorità kompetenti tista’ timponi fuq il-persuni li jipprovdu servizzi ta’ kreditu, ix-xerrejja ta’ kreditu, ir-rappreżentanti maħtura jew kwalunkwe persuna oħra li tista’ tiġi speċifikata fihom;
 
@@ -571,11 +493,7 @@ SETGĦAT REGOLATORJI U INVESTIGATTIVI
 
 (4) Regolamenti magħmula skont dan l-Att u kwalunkwe emenda jew revoka ta’ tali regolamenti jistgħu jiġu ppubblikati fil-lingwa Ingliża biss.
 
-(5) L-eżerċizzju ta’ kwalunkwe waħda mis-setgħat mogħtija [KAP. 645. DWAR XERREJJA TA’ KREDITU
-
-skont dan l-artikolu għandu jkun bla ħsara għal kwalunkwe obbligu jew dritt li jirriżulta mill-impenji internazzjonali ta’ Malta.
-
-*26*
+(5) L-eżerċizzju ta’ kwalunkwe waħda mis-setgħat mogħtija skont dan l-artikolu għandu jkun bla ħsara għal kwalunkwe obbligu jew dritt li jirriżulta mill-impenji internazzjonali ta’ Malta.
 
 ### 20. Setgħa li jinħarġu Regoli dwar il- Provvediment ta’ Servizzi ta’ Kreditu u Regoli tal-Kondotta tal- Operat.
 
@@ -593,11 +511,9 @@ skont dan l-artikolu għandu jkun bla ħsara għal kwalunkwe obbligu jew dritt l
 
 (e) jittrasponu, jimplimentaw u jagħtu effett lid-dispożizzjonijiet u r-rekwiżiti tad-Direttivi tal-Unjoni Ewropea, tar-Regolamenti tal-Unjoni Ewropea u ta’ kwalunkwe miżura leġiżlattiva oħra tal-Unjoni Ewropea li jeħtieġu traspożizzjoni u, jew implimentazzjoni, kif jistgħu jiġu emendati minn żmien għal żmien, inkluża kwalunkwe miżura ta’ implimentazzjoni li nħarġet jew li tista’ tinħareġ taħthom u li għandha x’taqsam ma’ persuni awtorizzati u oħrajn kif jista’ jiġi speċifikat fihom; u, jew
 
-(f) jirregolaw kwalunkwe kwistjoni li hija inċidentali għal jew konnessa ma’ kwalunkwe waħda mill-kwistjonijiet imsemmija hawn qabel kif l-awtorità DWAR XERREJJA TA’ KREDITU [KAP. 645. kompetenti tista’ tqis xierqa fit-twettiq tal-funzjonijiet tagħha.
+(f) jirregolaw kwalunkwe kwistjoni li hija inċidentali għal jew konnessa ma’ kwalunkwe waħda mill-kwistjonijiet imsemmija hawn qabel kif l-awtorità kompetenti tista’ tqis xierqa fit-twettiq tal-funzjonijiet tagħha.
 
 (3) Ir-Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu u r- Regoli tal-Kondotta tal-Operat jistgħu jkunu soġġetti għal tali eżenzjonijiet jew kondizzjonijiet kif jistgħu jiġu speċifikati fihom, jistgħu jagħmlu dispożizzjonijiet differenti għal każijiet, ċirkostanzi jew skopijiet differenti u jistgħu jagħtu lill-awtorità kompetenti s-setgħat ta’ adattament tar-Regoli dwar il-Provvediment ta’ Servizzi ta’ Kreditu u, jew tar-Regoli tal-Kondotta tal-Operat, kif jista’ jiġi wkoll hekk speċifikat.
-
-*27*
 
 ### 21. Setgħa li jinħarġu direttivi.
 
@@ -619,11 +535,7 @@ Iżda wkoll kwalunkwe direttiva maħruġa skont dan l-artikolu għandha, diment 
 
 (b) li jfornu lill-awtorità kompetenti kwalunkwe informazzjoni u, jew dokumentazzjoni li tista’ teħtieġ verifikata b’tali mod li tista’ tispeċifika;
 
-(ċ) li jattendu quddiem l-awtorità kompetenti, jew [KAP. 645. DWAR XERREJJA TA’ KREDITU
-
-quddiem persuna maħtura minnha, f’tali ħin u post li tista’ tispeċifika, sabiex iwieġbu għal mistoqsijiet u jipprovdu dik l-informazzjoni u, jew dokumentazzjoni li tista’ teħtieġ;
-
-*28*
+(ċ) li jattendu quddiem l-awtorità kompetenti, jew quddiem persuna maħtura minnha, f’tali ħin u post li tista’ tispeċifika, sabiex iwieġbu għal mistoqsijiet u jipprovdu dik l-informazzjoni u, jew dokumentazzjoni li tista’ teħtieġ;
 
 (d) li tipprovdi lill-awtorità kompetenti kwalunkwe assistenza li tista’ teħtieġ u li dik il-persuna tkun raġonevolment kapaċi li tipprovdi.
 
@@ -641,9 +553,7 @@ quddiem persuna maħtura minnha, f’tali ħin u post li tista’ tispeċifika, 
 
 (5) Fejn il-persuna meħtieġa li tipprovdi informazzjoni u, jew dokumentazzjoni taħt dan l-artikolu ma għandhiex l-informazzjoni u, jew dokumentazzjoni rilevanti, tali persuna għandha tiżvela lill-awtorità kompetenti fejn, mill-aħjar li taf, dik l-informazzjoni u, jew dokumentazzjoni tista’ tinstab, u l-awtorità kompetenti tista’ teħtieġ lil kwalunkwe persuna, kemm jekk indikata kif imsemmi qabel jew le, li jidhrilha li hi fil-pussess ta’ dik l-informazzjoni u, jew dokumentazzjoni, sabiex tipprovdiha.
 
-*29*
-
-DWAR XERREJJA TA’ KREDITU [KAP. 645. (6) Dikjarazzjoni magħmula u dokumentazzjoni pprovduta skont kwalunkwe rekwiżit taħt dan l-artikolu jistgħu jintużaw bħala prova kontra l-persuna li tagħmel id-dikjarazzjoni jew li tipprovdi d-dokumentazzjoni kif ukoll kontra kwalunkwe persuna li magħha jkunu relatati.
+(6) Dikjarazzjoni magħmula u dokumentazzjoni pprovduta skont kwalunkwe rekwiżit taħt dan l-artikolu jistgħu jintużaw bħala prova kontra l-persuna li tagħmel id-dikjarazzjoni jew li tipprovdi d-dokumentazzjoni kif ukoll kontra kwalunkwe persuna li magħha jkunu relatati.
 
 *   Kap. 9.*
 
@@ -669,10 +579,6 @@ DWAR XERREJJA TA’ KREDITU [KAP. 645. (6) Dikjarazzjoni magħmula u dokumentazz
 
 (4) Għall-finijiet ta’ dan l-artikolu, l-ispetturi jistgħu jinkludu avukat, persuna awtorizzata sabiex teżerċita l-professjoni ta’ accountant jew awditur skont l-Att dwar il-Professjoni tal- Accountancy, jew persuna meqjusa mill-awtorità kompetenti bħala li għandha għarfien espert xieraq sabiex teżerċita tali funzjoni.
 
-*30*
-
-[KAP. 645. DWAR XERREJJA TA’ KREDITU
-
 (5) L-awtorità kompetenti għandu jkollha s-setgħa li tordna li l-ispejjeż kollha ta’, u inċidentali għal, investigazzjoni mwettqa skont dan l-artikolu jitħallsu mill-persuni msemmija fis-subartikolu (1).
 
 ### 24. Dritt ta’ dħul.
@@ -697,9 +603,7 @@ DWAR XERREJJA TA’ KREDITU [KAP. 645. (6) Dikjarazzjoni magħmula u dokumentazz
 
 (e) li timponi penali amministrattivi u miżuri oħra skont l-artikolu 26;
 
-*31*
-
-DWAR XERREJJA TA’ KREDITU [KAP. 645. (f) li teżamina ftehimiet ta’ esternalizzazzjoni konklużi bejn il-persuni li jipprovdu servizzi ta’ kreditu u l-fornituri ta’ servizzi ta’ kreditu skont l-artikolu 13;
+(f) li teżamina ftehimiet ta’ esternalizzazzjoni konklużi bejn il-persuni li jipprovdu servizzi ta’ kreditu u l-fornituri ta’ servizzi ta’ kreditu skont l-artikolu 13;
 
 (g) li teħtieġ li l-persuni li jipprovdu servizzi ta’ kreditu jneħħu kwalunkwe membri tal-korp maniġerjali jew amministrattiv tagħhom meta jonqsu milli jikkonformaw mar-rekwiżiti stabbiliti fl-artikolu 8(b);
 
@@ -719,11 +623,7 @@ DWAR XERREJJA TA’ KREDITU [KAP. 645. (f) li teżamina ftehimiet ta’ esternal
 
 (a) l-imġiba ta’ persuna tammonta għal ksur ta’ kwalunkwe waħda mid-dispożizzjonijiet ta’ dan l-Att, jew fi kwalunkwe regolamenti magħmula, Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu jew Regoli tal-Kondotta tal-Operat maħruġa taħtu;
 
-(b) persuna tkun kisret jew naqset milli tikkonforma ma’ kwalunkwe kondizzjoni, obbligu, rekwiżit jew direttivi magħmula jew mogħtija mill-awtorità kompetenti taħt kwalunkwe waħda mid-dispożizzjonijiet ta’ dan l-Att, jew fi kwalunkwe regolamenti magħmula, Regoli DWAR XERREJJA TA’ KREDITU
-
-dwar il-Provvista ta’ Servizzi ta’ Kreditu jew Regoli tal- Kondotta tal-Operat maħruġa taħtu, inkluż in-nuqqas ta’ kooperazzjoni ma’ investigazzjoni jew spezzjoni jew kwalunkwe talba magħmula mill-awtorità kompetenti skont dan l-Att.
-
-*[KAP. 645. 32*
+(b) persuna tkun kisret jew naqset milli tikkonforma ma’ kwalunkwe kondizzjoni, obbligu, rekwiżit jew direttivi magħmula jew mogħtija mill-awtorità kompetenti taħt kwalunkwe waħda mid-dispożizzjonijiet ta’ dan l-Att, jew fi kwalunkwe regolamenti magħmula, Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu jew Regoli tal- Kondotta tal-Operat maħruġa taħtu, inkluż in-nuqqas ta’ kooperazzjoni ma’ investigazzjoni jew spezzjoni jew kwalunkwe talba magħmula mill-awtorità kompetenti skont dan l-Att.
 
 (2) Bla ħsara għall-ġeneralità tas-subartikolu (1), l-awtorità kompetenti tista’ timponi penali amministrattivi u miżuri amministrattivi oħra kif imsemmija fis-subartikolu (3) fejn tqis li:
 
@@ -741,11 +641,9 @@ dwar il-Provvista ta’ Servizzi ta’ Kreditu jew Regoli tal- Kondotta tal-Oper
 
 (g) xerrej ta’ kreditu jonqos milli jikkonforma mar-rekwiżiti tad-dispożizzjonijiet tal-artikolu 17;
 
-(h) istituzzjoni ta’ kreditu tonqos milli DWAR XERREJJA TA’ KREDITU [KAP. 645. tikkomunika l-informazzjoni stabbilita fl-artikolu 14;
+(h) istituzzjoni ta’ kreditu tonqos milli tikkomunika l-informazzjoni stabbilita fl-artikolu 14;
 
 (i) persuna li tipprovdi servizzi ta’ kreditu tippermetti persuna waħda jew aktar li ma jikkonformawx mar-rekwiżiti stabbiliti fl-artikolu 8(b) sabiex isiru jew jibqgħu membri tal-organu maniġerjali jew amministrattiv tiegħu;
-
-*33*
 
 (j) persuna li tipprovdi servizzi ta’ kreditu tirċievi u żżomm fondi minn mutwatarji meta ma tkunx awtorizzata li tagħmel dan skont dan l-Att; u, jew
 
@@ -767,10 +665,6 @@ dwar il-Provvista ta’ Servizzi ta’ Kreditu jew Regoli tal- Kondotta tal-Oper
 
 (6) Fil-każ ta’ penali amministrattivi jew miżuri amministrattivi oħra imposti mill-awtorità kompetenti skont id-dispożizzjonijiet ta’ dan l-Att, jew fi kwalunkwe regolamenti magħmula, Regoli dwar il- Provvediment ta’ Servizzi ta’ Kreditu jew Regoli tal-Kondotta tal- Operat maħruġa taħtu, l-awtorità kompetenti, meta qed tiddetermina t-tip ta’ penali amministrattiva jew miżura amministrattiva oħra u, fejn applikabbli, l-ammont tal-penali amministrattiva, għandha tqis iċ-ċirkostanzi rilevanti, inkluż, fejn xieraq:
 
-*34*
-
-[KAP. 645. DWAR XERREJJA TA’ KREDITU
-
 (a) il-gravità u t-tul ta’ żmien tal-ksur;
 
 (b) il-grad ta’ responsabbiltà tal-persuna li tipprovdi servizzi ta’ kreditu jew tax-xerrej tal-kreditu jew, fejn applikabbli, tar-rappreżentant maħtur tiegħu responsabbli għall-ksur;
@@ -791,13 +685,11 @@ dwar il-Provvista ta’ Servizzi ta’ Kreditu jew Regoli tal- Kondotta tal-Oper
 
 (8) L-impożizzjoni mill-awtorità kompetenti ta’ penali amministrattiva jew kwalunkwe miżura amministrattiva oħra skont id-dispożizzjonijiet ta’ dan l-artikolu għandha tkun bla ħsara għal kwalunkwe konsegwenza oħra li tirriżulta mill-att jew l-ommissjoni tal-ħati skont il-liġi ċivili jew il-liġi kriminali:
 
-Iżda fil-każijiet kollha fejn l-awtorità kompetenti timponi DWAR XERREJJA TA’ KREDITU [KAP. 645. penali amministrattiva jew kwalunkwe miżura amministrattiva oħra fir-rigward ta’ kwalunkwe ħaġa magħmula jew li naqset li ssir minn kwalunkwe persuna, u tali att jew ommissjoni jikkostitwixxu wkoll reat kriminali, l-ebda proċedimenti ma jistgħu jittieħdu jew jitkomplew kontra l-persuna msemmija fir-rigward ta’ tali reat kriminali.
+Iżda fil-każijiet kollha fejn l-awtorità kompetenti timponi penali amministrattiva jew kwalunkwe miżura amministrattiva oħra fir-rigward ta’ kwalunkwe ħaġa magħmula jew li naqset li ssir minn kwalunkwe persuna, u tali att jew ommissjoni jikkostitwixxu wkoll reat kriminali, l-ebda proċedimenti ma jistgħu jittieħdu jew jitkomplew kontra l-persuna msemmija fir-rigward ta’ tali reat kriminali.
 
 ### 27. Avviż ta’ penali amministrattivi u miżuri ta’ rimedju.
 
 (1) Jekk l-awtorità kompetenti tipproponi li timponi penali amministrattiva jew kwalunkwe miżura oħra fuq kwalunkwe persuna skont l-artikolu 26, hi għandha tagħti avviż bil-miktub dwar l-intenzjoni tagħha li tagħmel dan, filwaqt li tagħti r-raġunijiet għad-deċiżjoni li tipproponi li tieħu.
-
-*35*
 
 (2) Kull avviż mogħti taħt is-subartikolu (1) għandu jispeċifika li r-riċevitur tal-avviż jista’, f’dak il-perjodu raġonevoli wara li jkun ġie notifikat, kif jista’ jiġi ddikjarat fl-avviż, jagħmel sottomissjonijiet bil-miktub lill-awtorità kompetenti li jagħtu r-raġunijiet għaliex id-deċiżjoni proposta ma għandhiex tittieħed u l-awtorità kompetenti għandha tikkunsidra kwalunkwe sottomissjoni hekk magħmula qabel ma tagħmel deċiżjoni finali.
 
@@ -814,10 +706,6 @@ Iżda fil-każijiet kollha fejn l-awtorità kompetenti timponi DWAR XERREJJA TA�
 (4) Fejn l-awtorità kompetenti tqis, wara valutazzjoni skont il-każ, li l-pubblikazzjoni tal-identità tal-persuna ġuridika soġġetta għad-deċiżjoni, jew l-identità jew id-data personali ta’ persuna fiżika, tkun sproporzjonata, jew fejn tali pubblikazzjoni tista’ tipperikola investigazzjoni li tkun għaddejja, l-awtorità kompetenti għandha:
 
 (a) iddewwem il-pubblikazzjoni tad-deċiżjoni li tiġi imposta penali jew miżura sal-mument fejn ir-raġunijiet għan-nuqqas ta’ pubblikazzjoni ma jibqgħux jeżistu;
-
-*36*
-
-[KAP. 645. DWAR XERREJJA TA’ KREDITU
 
 (b) tippubblika d-deċiżjoni li timponi penali jew miżura fuq bażi anonima b’mod li jkun konformi mal-liġi nazzjonali, fejn tali pubblikazzjoni anonima tiżgura protezzjoni effettiva tad-data personali kkonċernata:
 
@@ -839,11 +727,9 @@ Iżda d-data personali li tinsab fi kwalunkwe deċiżjoni bħal din għandha tin
 
 (2) Kwalunkwe persuna li tħoss ruħha aggravata b’deċiżjoni tal-awtorità kompetenti taħt dan l-Att, jew fi kwalunkwe regolamenti magħmula, Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu jew Regoli tal-Kondotta tal-Operat maħruġa taħtu, tista’ tappella kontra din id-deċiżjoni quddiem it-Tribunal f’dak il-perjodu u taħt dawk il-kondizzjonijiet li huma stabbiliti fl-artikolu 21 tal-Att dwar l-Awtorità għas-Servizzi Finanzjarji ta’ Malta.
 
-*37*
-
-DWAR XERREJJA TA’ KREDITU [KAP. 645. (3) Bla ħsara għad-dispożizzjonijiet tas-subartikolu (2), kwalunkwe persuna li tkun tħoss ruħha aggravata min-nuqqas tal-awtorità kompetenti li tieħu deċiżjoni fir-rigward ta’ applikazzjoni għall-awtorizzazzjoni li jkun fiha l-informazzjoni kollha meħtieġa skont dan l-Att fil-limitu ta’ żmien previst fl-artikolu 7(4), tista’ tappella kontra dan in-nuqqas li tittieħed deċiżjoni lit-Tribunal f’dak il-perjodu u taħt dawk il-kondizzjonijiet li huma stabbiliti fl-artikolu 21 tal-Att dwar l-Awtorità għas-Servizzi Finanzjarji ta’ Malta.
-
 *          Kap. 330.*
+
+(3) Bla ħsara għad-dispożizzjonijiet tas-subartikolu (2), kwalunkwe persuna li tkun tħoss ruħha aggravata min-nuqqas tal-awtorità kompetenti li tieħu deċiżjoni fir-rigward ta’ applikazzjoni għall-awtorizzazzjoni li jkun fiha l-informazzjoni kollha meħtieġa skont dan l-Att fil-limitu ta’ żmien previst fl-artikolu 7(4), tista’ tappella kontra dan in-nuqqas li tittieħed deċiżjoni lit-Tribunal f’dak il-perjodu u taħt dawk il-kondizzjonijiet li huma stabbiliti fl-artikolu 21 tal-Att dwar l-Awtorità għas-Servizzi Finanzjarji ta’ Malta.
 
 (4) Appell kontra deċiżjoni tal-awtorità kompetenti ma għandux jissospendi l-operat ta’ dik id-deċiżjoni:
 
@@ -863,11 +749,7 @@ Iżda deċiżjoni tal-awtorità kompetenti li tirtira l-awtorizzazzjoni ta’ pe
 
 (ċ) għall-finijiet ta’, jew skont, kwalunkwe waħda mid-dispożizzjonijiet ta’ dan l-Att, jew fi kwalunkwe regolamenti magħmula, Regoli dwar il-Provvediment ta’ Servizzi ta’ Kreditu jew Regoli tal-Kondotta tal-Operat maħruġa taħtu, jew kwalunkwe kondizzjoni, obbligu, rekwiżit, direttiva jew ordni magħmula jew mogħtija kif imsemmi qabel, tipprovdi informazzjoni jew tagħmel dikjarazzjoni li taf li mhux preċiża, falza jew qarrieqa fi kwalunkwe aspett materjali, jew tforni informazzjoni bi traskuraġni jew tagħmel dikjarazzjoni li ma tkunx preċiża, falza jew qarrieqa fi kwalunkwe aspett materjali; jew
 
-(d) bl-intenzjoni li tiġi evitata s-sejba tat-twettiq [KAP. 645. DWAR XERREJJA TA’ KREDITU
-
-ta’ reat skont dan l-Att, tneħħi, teqred, taħbi jew tbiddel b’mod frawdolenti kwalunkwe ktieb, dokument jew karta oħra; jew
-
-*38*
+(d) bl-intenzjoni li tiġi evitata s-sejba tat-twettiq ta’ reat skont dan l-Att, tneħħi, teqred, taħbi jew tbiddel b’mod frawdolenti kwalunkwe ktieb, dokument jew karta oħra; jew
 
 (e) tfixkel intenzjonalment persuna li teżerċita d-drittijiet jew is-setgħat mogħtija b’dan l-Att, jew fi kwalunkwe regolamenti magħmula, Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu jew Regoli tal-Kondotta tal-Operat maħruġa taħtu,
 
@@ -885,9 +767,7 @@ għandha teħel, meta tinsab ħatja, il-piena ta’ priġunerija għal perjodu l
 
 (ċ) fejn l-informazzjoni tiġi pprovduta lil tali awtoritajiet regolatorji, ġudizzjarji jew ta’ infurzar oħrajn lokali jew Ewropej jew barra mill-Ewropa in segwitu ta’ tħassib serju ta’ natura regolatorja jew kriminali; u, jew
 
-*39*
-
-DWAR XERREJJA TA’ KREDITU [KAP. 645. (d) fejn l-iżvelar tal-informazzjoni jkun permess jew meħtieġ mil-liġi jew mil-leġiżlazzjoni tal-Unjoni Ewropea.
+(d) fejn l-iżvelar tal-informazzjoni jkun permess jew meħtieġ mil-liġi jew mil-leġiżlazzjoni tal-Unjoni Ewropea.
 
 (2) L-informazzjoni msemmija fis-subartikolu (1) għandha tinkludi l-informazzjoni kollha skambjata bejn l-awtorità kompetenti u l-awtoritajiet regolatorji Ewropej skont dan l-Att, jew fi kwalunkwe regolamenti magħmula, Regoli dwar il-Provvista ta’ Servizzi ta’ Kreditu jew Regoli tal-Kondotta tal-Operat maħruġa taħtu li tikkonċerna kondizzjonijiet tan-negozju jew operattivi u affarijiet ekonomiċi jew personali oħra.
 

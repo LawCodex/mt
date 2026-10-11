@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Garanziji lill-Bank Ewropew għall-Investiment (Cap. 616)
 
-*1*
-
-INVESTIMENT [KAP. 616.
-
 **KAPITOLU 616**
 
 **ATT DWAR GARANZIJI LILL-BANK EWROPEW**
@@ -54,10 +50,6 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’ oħra:
 ## 4. Mekkaniżmu għal ħruġ ta’ garanziji.
 
 (1) Kwalunkwe garanzija maħruġa skont l-artikolu 3 għandha tkun soġġetta għat-termini inkorporati fil-Ftehim ta’ Kontribuzzjoni:
-
-*2*
-
-[KAP. 616. INVESTIMENT
 
 Iżda l-garanzija maħruġa mill-Gvern ta’ Malta ma għandhiex teċċedi l-ammont aggregat ta’ tnax-il miljun, mitejn u sebgħa u disgħin elf, erba’ mija u għaxar euro u sitt ċenteżmi (€12,297,410.06).
 

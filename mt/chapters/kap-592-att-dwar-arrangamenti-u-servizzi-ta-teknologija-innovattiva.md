@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Att dwar Arranġamenti u Servizzi ta’ Teknoloġija Innovattiva (Cap. 592)
 
-*1*
-
-TEKNOLOĠIJA INNOVATTIVA [KAP. 592.
-
 **KAPITOLU 592**
 
 **ATT DWAR ARRANĠAMENTI U SERVIZZI TA’**
@@ -59,10 +55,6 @@ l-Awtorità tal-Innovazzjoni Diġitali ta’ Malta.
 rabta tal-kliem ma teħtieġx xort’oħra -  
 \*Dan l-Att gie imħassar bl-Att XIX tal-2024. Ara l-artikolu 56.
 
-*2*
-
-[KAP. 592. TEKNOLOĠIJA INNOVATTIVA
-
 *        Kap. 590.*
 
 "amministratur" tfisser uffiċjal jew kull persuna li tiġi maħtura biex twettaq funzjonijiet ta’ rappreżentanza u fiduċjarji fil-kontroll u amministrazzjoni ta’ organizzazzjoni ġuridika, u kull persuna li twettaq tali funzjonijiet ukoll jekk taħt isem ieħor, iżda ma tinkludix amministratur tekniku jew aġent residenti taħt dan l-Att jew taħt l-Att dwar l-Attiv Finanzjarju Virtwali, u l-frażi "bord ta’ amministrazzjoni" għandha tinftiehem skont hekk;
@@ -89,9 +81,7 @@ rabta tal-kliem ma teħtieġx xort’oħra -
 
 "awtoritajiet kompetenti nazzjonali" tfisser awtoritajiet, dipartimenti, aġenziji jew diviżjonijiet tal-Gvern jew entitajiet governattivi li jwettqu funzjonijiet ta’ superviżjoni, regolatorji jew ta’ verifika fuq persuni li japplikaw għal kwalunkwe forma ta’ għarfien taħt liġi applikabbli kif huma elenkati fl-Ewwel Skeda li tinsab mal-Att MDIA;
 
-*3*
-
-TEKNOLOĠIJA INNOVATTIVA [KAP. 592. "Ministru" tfisser il-Ministru għall-Ekonomija Diġitali;
+"Ministru" tfisser il-Ministru għall-Ekonomija Diġitali;
 
 "servizz ta’ teknoloġija innovattiva" tfisser servizz elenkat fit- Tieni Skeda, u "provditur ta’ servizz ta’ teknoloġija innovattiva" għandha tinftiehem skont hekk.
 
@@ -115,11 +105,7 @@ TEKNOLOĠIJA INNOVATTIVA [KAP. 592. "Ministru" tfisser il-Ministru għall-Ekonom
 
 l-Awtorità tista’, fuq applikazzjoni bil-miktub għal deċiżjoni fir-rigward ta’ xi arranġament ta’ teknoloġija innovattiva jew xi servizz ta’ teknoloġija innovattiva partikolari, toħroġ deċiżjoni li tikkonferma jew tiċħad l-applikazzjoni, f’parti minnha jew għal kollox.
 
-Fil-każ ta’ konferma, l-arranġament ta’ teknoloġija [KAP. 592. TEKNOLOĠIJA INNOVATTIVA
-
-innovattiva jew is-servizz ta’ teknoloġija innovattiva rilevanti għandu b’hekk jitqies li għandu l-funzjonijiet u, jew il-karatteristiċi msemmija jew li hu tat-tip jew klassi ta’ arranġamenti jew servizzi elenkati fl-Iskedi u l-applikant jista’ jipproċedi b’applikazzjoni għal għarfien taħt id-dispożizzjonijiet ta’ dan l-Att.
-
-*4*
+Fil-każ ta’ konferma, l-arranġament ta’ teknoloġija innovattiva jew is-servizz ta’ teknoloġija innovattiva rilevanti għandu b’hekk jitqies li għandu l-funzjonijiet u, jew il-karatteristiċi msemmija jew li hu tat-tip jew klassi ta’ arranġamenti jew servizzi elenkati fl-Iskedi u l-applikant jista’ jipproċedi b’applikazzjoni għal għarfien taħt id-dispożizzjonijiet ta’ dan l-Att.
 
 (5) Id-deċiżjoni mill-Awtorità li tiċħad applikazzjoni taħt dan l-artikolu għandha tkun soġġetta għal reviżjoni jew appell mit- Tribunal taħt id-dispożizzjonijiet tal-Att MDIA u fil-każ ta’ determinazzjoni negattiva tal-appell, l-arranġament ta’ teknoloġija innovattiva jew is-servizz ta’ teknoloġija innovattiva partikolari ma jkunx eliġibbli għal għarfien sakemm tali arranġament ta’ teknoloġija innovattiva jew servizz ta’ teknoloġija innovattiva partikolari ma jiġix modifikat sabiex jinkwadra fil-kamp ta’ applikazzjoni tal-Iskedi jew sa dak iż-żmien li l-Iskedi jiġu emendati biex jinkludu tali tip jew klassi.
 
@@ -135,13 +121,11 @@ Iżda, abbażi tal-prinċipji ta’ simplifikazzjoni u l-evitar tad-duplikazzjon
 
 (2) Applikant għandu jipprovdi l-informazzjoni, id-dokumentazzjoni u l-assikurazzjonijiet kollha li jistgħu jkunu meħtieġa mill-Awtorità biex l-Awtorità tkun tista’ tikkunsidra kull applikazzjoni u tiddetermina l-adattabilità tal-applikant biex jiġi rikonoxxut, skont l-arranġament ta’ teknoloġija innovattiva jew is-servizz ta’ teknoloġija innovattiva li hu s-suġġett tal-applikazzjoni.
 
-(3) Ladarba jiġi rikonoxxut, l-applikant, jew jekk differenti, TEKNOLOĠIJA INNOVATTIVA [KAP. 592. il-persuna li lilha nħareġ l-għarfien, ikunu marbuta li jissodisfaw il-kondizzjonijiet kollha preskritti b’dan l-Att u bl-Att MDIA, ir-regolamenti kif ukoll xi regoli jew strumenti regolatorji oħra fis-seħħ għaż-żmien kollu li l-għarfien jibqa’ fis-seħħ.
+(3) Ladarba jiġi rikonoxxut, l-applikant, jew jekk differenti, il-persuna li lilha nħareġ l-għarfien, ikunu marbuta li jissodisfaw il-kondizzjonijiet kollha preskritti b’dan l-Att u bl-Att MDIA, ir-regolamenti kif ukoll xi regoli jew strumenti regolatorji oħra fis-seħħ għaż-żmien kollu li l-għarfien jibqa’ fis-seħħ.
 
 ### 6. Reġistru ta’ għarfien.
 
 (1) L-Awtorità għandha żżomm reġistru, hawn iżjed ’il quddiem imsejjaħ ''ir-Reġistru'', tal-għarfien kollu maħruġ jew miksub taħt dan l-Att u dan skont l-artikolu 27(5) tal-Att MDIA.
-
-*5*
 
 (2) Ir-Reġistru jkun maqsum f’tali taqsimiet, u kull taqsima b’dawk il-klassijiet, kif l-Awtorità tiddetermina minn żmien għal żmien, sabiex ikunu rappreżentati t-tipi differenti ta’ għarfien mogħti lill-applikanti.
 
@@ -169,11 +153,7 @@ speċifikat, wieħed jew aktar, kif jista’ jiġi determinat mill-Awtorità, li
 
 (2) Il-ħruġ ta’ ċertifikat għal għan wieħed, kwalità u karatteristika waħda, attribut wieħed u mġiba waħda jew xi aspett ieħor la ma għandu jopera bħala ċertifikazzjoni għal għanijiet, kwalitajiet u karatteristiċi, attributi u mġiba jew aspetti differenti u lanqas ma jkun ta’ xkiel għall-ħruġ ta’ ċertifikazzjonijiet oħra għal għanijiet, kwalitajiet u karatteristiċi, attributi u mġiba jew aspetti oħra.
 
-(3) L-Awtorità tista’ minn żmien għal żmien tistabbilixxi linji gwida dwar l-għanijiet, il-kwalitajiet u l-karatteristiċi, l-attributi [KAP. 592. TEKNOLOĠIJA INNOVATTIVA
-
-u l-imġiba jew aspetti li għalihom toħroġ, jew ma toħroġx, ċertifikazzjonijiet u meta tkun qed tagħmel dan għandha tistabbilixxi wkoll il-bażi għal ċertifikazzjonijiet u ċaħda partikolari.
-
-*6*
+(3) L-Awtorità tista’ minn żmien għal żmien tistabbilixxi linji gwida dwar l-għanijiet, il-kwalitajiet u l-karatteristiċi, l-attributi u l-imġiba jew aspetti li għalihom toħroġ, jew ma toħroġx, ċertifikazzjonijiet u meta tkun qed tagħmel dan għandha tistabbilixxi wkoll il-bażi għal ċertifikazzjonijiet u ċaħda partikolari.
 
 Għandha wkoll tistabbilixxi linji gwida fuq materji oħra bħalma huma l-proċessi ta’ reviżjoni u ż-żminijiet meta jsiru tali reviżjonijiet sabiex iżżomm fis-seħħ iċ-ċertifikazzjonijiet li tista’ toħroġ.
 
@@ -191,11 +171,9 @@ Għandha wkoll tistabbilixxi linji gwida fuq materji oħra bħalma huma l-proċe
 
 (1) Kull arranġament ta’ teknoloġija innovattiva msemmi fl-Ewwel Skeda, jew li fir-rigward tiegħu l-Awtorità tkun ħarġet deċiżjoni bil-miktub dwar l-eliġibilità taħt l-artikolu 3, jista’ fi kwalunkwe żmien ikun is-suġġett ta’ applikazzjoni lill-Awtorità għal ċertifikazzjoni.
 
-(2) L-Awtorità tista’ tiċċertifika arranġament ta’ teknoloġija TEKNOLOĠIJA INNOVATTIVA [KAP. 592. innovattiva meta tkun sodisfatta li l-ħtiġiet ġenerali u speċifiċi ta’ dan l-artikolu jkunu ġew sodisfatti.
+(2) L-Awtorità tista’ tiċċertifika arranġament ta’ teknoloġija innovattiva meta tkun sodisfatta li l-ħtiġiet ġenerali u speċifiċi ta’ dan l-artikolu jkunu ġew sodisfatti.
 
 (3) Il-ħtiġiet ġenerali huma maħsuba biex jilħqu l-istandards ta’ legalità, integrità, trasparenza, konformità u kontabilità stabbiliti għal arranġamenti ta’ teknoloġija innovattiva mill-Awtorità li jirriflettu l-prinċipji tal-Att MDIA u ta’ dan l-Att, u konferma li ma tinħoloq l-ebda waħda miċ-ċirkostanzi msemmija fl-artikolu 29 tal- Att MDIA, u għandhom jiġu valutati mill-Awtorità fuq il-bażi tar-reviżjonijiet tagħha stess tal-persuni kollha involuti, id-dokumentazzjoni kollha disponibbli u s-software li għandha aċċess għalih bħalma jista’ jkollu kull utent tiegħu.
-
-*7*
 
 (4) Il-ħtiġiet speċifiċi għandhom jistabbilixxu għas-sodisfazzjon tal-Awtorità li:
 
@@ -207,11 +185,7 @@ Għandha wkoll tistabbilixxi linji gwida fuq materji oħra bħalma huma l-proċe
 
 b’dan ta’ hawn qabel bla ħsara għad-dispożizzjonijiet iktar dettaljati tar-Raba’ Skeda u kwalunkwe regola jew linja gwida maħruġa konformement magħha jew fir-rigward tagħha;
 
-(b) is-software li jikkomprendi l-arranġament ta’ teknoloġija innovattiva, jew tali partijiet minnu li huma msemmija f’regoli applikabbli jew xort’oħra bil-miktub mill- Awtorità, ġie rivedut minn awditur reġistrat ta’ sistemi, jew awdituri reġistrati ta’ sistemi, li huma indipendenti mill-persuni kollha li huma s-sidien ta’, jamministraw, joperaw jew TEKNOLOĠIJA INNOVATTIVA
-
-huma mod ieħor involuti fl-arranġament ta’ teknoloġija innovattiva, u l-Awtorità ngħatat assikurazzjoni pożittiva mill-awditur ta’ sistemi, jew jekk iktar minn wieħed, minn kull awditur ta’ sistemi, fir-rigward tal-kwistjoni tal-verifika u reviżjoni li għalihom ikun ġie ingaġġat.
-
-*[KAP. 592. 8*
+(b) is-software li jikkomprendi l-arranġament ta’ teknoloġija innovattiva, jew tali partijiet minnu li huma msemmija f’regoli applikabbli jew xort’oħra bil-miktub mill- Awtorità, ġie rivedut minn awditur reġistrat ta’ sistemi, jew awdituri reġistrati ta’ sistemi, li huma indipendenti mill-persuni kollha li huma s-sidien ta’, jamministraw, joperaw jew huma mod ieħor involuti fl-arranġament ta’ teknoloġija innovattiva, u l-Awtorità ngħatat assikurazzjoni pożittiva mill-awditur ta’ sistemi, jew jekk iktar minn wieħed, minn kull awditur ta’ sistemi, fir-rigward tal-kwistjoni tal-verifika u reviżjoni li għalihom ikun ġie ingaġġat.
 
 L-awditur ta’ sistemi għandu jikkonferma li l-arranġament ta’ teknoloġija innovattiva jilħaq l-istandards raġonevoli fir-rigward ta’ -
 
@@ -235,11 +209,9 @@ L-Awtorità tista’ fid-diskrezzjoni tagħha, kumulattivament jew alternattivam
 
 (ii) mhumiex suxxettibbli għal raġunijiet aċċettabbli għall-Awtorità, għar-reviżjoni u assikurazzjoni msemmija hawn qabel,
 
-u f’każijiet bħal dawn il-livell ta’ reviżjoni jew verifika u l-assikurazzjonijiet relattivi għandhom jiġu espressament dikjarati fiċ-ċertifikazzjoni u riflessi b’mod prominenti fuq is-sit tal-web tal-applikant, jekk ikun hemm, fl-arranġament ta’ TEKNOLOĠIJA INNOVATTIVA [KAP. 592. teknoloġija innovattiva u fir-Reġistru tal-Awtorità;
+u f’każijiet bħal dawn il-livell ta’ reviżjoni jew verifika u l-assikurazzjonijiet relattivi għandhom jiġu espressament dikjarati fiċ-ċertifikazzjoni u riflessi b’mod prominenti fuq is-sit tal-web tal-applikant, jekk ikun hemm, fl-arranġament ta’ teknoloġija innovattiva u fir-Reġistru tal-Awtorità;
 
 (ċ) l-arranġament ta’ teknoloġija innovattiva għandu amministratur tekniku reġistrat fil-kariga l-ħin kollu, u li hu kapaċi juri lill-Awtorità l-kapaċità tal-arranġament ta’ teknoloġija innovattiva li jissodisfa -
-
-*9*
 
 (i) il-prerekwiżiti kollha għaċ-ċertifikazzjoni li tista’ tiġi mogħtija lilu taħt dan l-Att;
 
@@ -263,10 +235,6 @@ jistgħu jingħataw id-diskrezzjoni jew jistgħu jkunu meħtieġa li jintervjenu
 
 (ii) iwettaq kull obbligu impost fuqu b’liġi applikabbli, inklużi dawk li għandhom x’jaqsmu mal-prevenzjoni ta’ ħasil ta’ flus u l-finanzjament tat-terroriżmu, il-protezzjoni ta’ data personali, ir-rispett tad-drittijiet ta’ konsumaturi u liġijiet oħra mandatorji; u
 
-*10*
-
-[KAP. 592. TEKNOLOĠIJA INNOVATTIVA
-
 (iii) għandu karatteristiċi ta’ teknoloġija fih stess, sabiex l-amministratur tekniku jkun jista’ jintervjeni b’mod trasparenti u effettiv fil-każ li jkun hemm -
 
 (A) kawża materjali ta’ telf għal xi utent; jew
@@ -287,9 +255,7 @@ fejn il-konformità ma’ xi waħda mill-ħtiġiet imsemmija f’dan l-artikolu 
 
 (a) il-kwistjonijiet li dwarhom m’kemmx konformità mal-ħtiġiet legali msemmija f’dan l-artikolu;
 
-*11*
-
-TEKNOLOĠIJA INNOVATTIVA [KAP. 592. (b) il-materji li għandhom jiġu megħluba sabiex dawk il-kwistjonijiet jiġu indirizzati;
+(b) il-materji li għandhom jiġu megħluba sabiex dawk il-kwistjonijiet jiġu indirizzati;
 
 (ċ) il-mod li bih dawk il-kwistjonijiet għandhom jiġu indirizzati sabiex jissodisfaw lill-Awtorità dwar konformità ma’ dan l-artikolu; u
 
@@ -304,10 +270,6 @@ Il-kondizzjoni għandha tiġi reġistrata fiċ-ċertifikazzjoni.
 (7) Il-provdituri ta’ servizzi ta’ teknoloġija innovattiva hawn qabel imsemmija għandhom jiġu maħtura minn xi persuna li tkun applikant, żviluppatur jew sid tal-arranġament ta’ teknoloġija innovattiva jew fil-każ fejn l-arranġament ta’ teknoloġija innovattiva jinżamm f’organizzazzjoni ġuridika, mir-rappreżentant legali tal-organizzazzjoni.
 
 (8) Meta arranġament ta’ teknoloġija innovattiva jinżamm f’organizzazzjoni ġuridika, kemm jekk ikollha personalità ġuridika kemm jekk le, iċ-ċertifikazzjoni għandha ssir f’isem l-organizzazzjoni ġuridika u fejn ma tikkwalifikax bħala organizzazzjoni ġuridika, iċ-Ċertifikat għandu jsir għall-applikant, jekk hekk mitlub, kif ukoll għall-amministratur tekniku, li jkun ġie reġistrat taħt dan l-Att u li jżomm fis-seħħ dak l-għarfien fiż-żmien kollu rilevanti, li jkun ġie ingaġġat fir-rigward tal-arranġament ta’ teknoloġija innovattiva.
-
-*12*
-
-[KAP. 592. TEKNOLOĠIJA INNOVATTIVA
 
 ## TAQSIMA IV — Reġistrazzjoni ta’ Provdituri ta’ Servizz
 
@@ -325,11 +287,9 @@ Il-kondizzjoni għandha tiġi reġistrata fiċ-ċertifikazzjoni.
 
 (6) Il-provditur reġistrat ta’ servizz għandu jqiegħed iċ- Ċertifikat ta’ Reġistrazzjoni fuq is-sit tal-web tiegħu, jekk ikollu, kif ukoll fuq kull arranġament ta’ teknoloġija innovattiva li lilu jagħti s-servizzi tiegħu u dan għandu jitqiegħed fuqu f’format faċilment aċċessibbli u leġibbli sabiex ikun jista’ jinqara u jinftiehem mill-utenti kollha tal-arranġament ta’ teknoloġija innovattiva.
 
-*13*
-
-TEKNOLOĠIJA INNOVATTIVA [KAP. 592. (7) Ir-reġistrazzjoni ta’ provditur ta’ servizz ta’ teknoloġija innovattiva tista’ ssir fir-rigward ta’ persuni, li jkunu individwi jew organizzazzjonijiet ġuridiċi, kemm jekk ikollhom personalità ġuridika jew le, u tista’ ssir -
-
 *Servizz ta’ teknoloġija innovattiva.*
+
+(7) Ir-reġistrazzjoni ta’ provditur ta’ servizz ta’ teknoloġija innovattiva tista’ ssir fir-rigward ta’ persuni, li jkunu individwi jew organizzazzjonijiet ġuridiċi, kemm jekk ikollhom personalità ġuridika jew le, u tista’ ssir -
 
 (a) personalment;
 
@@ -352,10 +312,6 @@ Iżda fil-każijiet imsemmija fil-paragrafi (b) u (ċ), minbarra l-isem tal-prov
 (b) għandu l-kwalifiki u, jew l-esperjenza li l- Awtorità teħtieġ għal reġistrazzjoni bħala provditur ta’ servizzi fil-klassi partikolari li dwarha saret l-applikazzjoni;
 
 (ċ) għandu riżorsi tekniċi suffiċjenti jew appoġġ minn parti terza, personalment, permezz ta’ delegati jew permezz ta’ sistemi awtomattizzati, u hu f’pożizzjoni biex ikun konformi ma’ u josserva r-regoli u regolamenti dwar awtorizzazzjoni għal teknoloġija innovattiva applikabbli għalih, kull linja gwida maħruġa mill-Awtorità kif ukoll kull kondizzjoni stabbilita mill-Awtorità fil-każ partikolari.
-
-*14*
-
-[KAP. 592. TEKNOLOĠIJA INNOVATTIVA
 
 (3) L-Awtorità m’għandhiex tirreġistra provditur ta’ servizz ta’ teknoloġija innovattiva jekk jinħolqu ċ-ċirkostanzi msemmija fl-artikolu 29 tal-Att MDIA.
 
@@ -383,11 +339,9 @@ Iżda fil-każijiet imsemmija fil-paragrafi (b) u (ċ), minbarra l-isem tal-prov
 
 ## TAQSIMA V — Dispożizzjonijiet Mixxellanji
 
-*15*
+### 12. Dmir dwar avviż ta’ bidliet.
 
-TEKNOLOĠIJA INNOVATTIVA [KAP. 592. 12. (1) Kull persuna li ġiet rikonoxxuta wara li tkun saret applikazzjoni taħt dan l-Att u li jkollha -
-
-*Dmir dwar avviż ta’ bidliet.*
+(1) Kull persuna li ġiet rikonoxxuta wara li tkun saret applikazzjoni taħt dan l-Att u li jkollha -
 
 (a) Ċertifikat għal arranġament ta’ teknoloġija innovattiva;
 
@@ -417,11 +371,7 @@ Barra minn dan, b’mod ġenerali tiġi konsidrata li tinkludi:
 
 (d) kull ħaġa oħra li tiġi dikjarata mill-Awtorità li hi materjali f’linji gwida li jinħarġu minn żmien għal żmien.
 
-(2) Sa fejn jirrigwarda arranġament ta’ teknoloġija innovattiva, id-detentur ta’ Ċertifikat għandu jipprovdi wkoll lill- Awtorità dikjarazzjoni minn awditur reġistrat ta’ sistemi u minn amministratur tekniku reġistrat li huma konxji tal-bidliet materjali li saru għall-informazzjoni li preċedentement ingħatat lill-Awtorità u li tali bidliet ma jaffettwawx il-kontenut tar-reviżjoni, [KAP. 592. TEKNOLOĠIJA INNOVATTIVA
-
-assikurazzjonijiet jew dikjarazzjonijiet tagħhom mogħtija lill- Awtorità għall-finijiet taċ-ċertifikazzjoni tal-arranġament rilevanti ta’ teknoloġija innovattiva jew, sa fejn il-bidliet jirriżultaw f’karatteristiċi addizzjonali li ma ġewx riveduti u ma jaqgħux fi ħdan il-parametri ta’ assikurazzjonijiet u dikjarazzjonijiet eżistenti maħruġa minnhom kif meħtieġ bl-artikolu 8:
-
-*16*
+(2) Sa fejn jirrigwarda arranġament ta’ teknoloġija innovattiva, id-detentur ta’ Ċertifikat għandu jipprovdi wkoll lill- Awtorità dikjarazzjoni minn awditur reġistrat ta’ sistemi u minn amministratur tekniku reġistrat li huma konxji tal-bidliet materjali li saru għall-informazzjoni li preċedentement ingħatat lill-Awtorità u li tali bidliet ma jaffettwawx il-kontenut tar-reviżjoni, assikurazzjonijiet jew dikjarazzjonijiet tagħhom mogħtija lill- Awtorità għall-finijiet taċ-ċertifikazzjoni tal-arranġament rilevanti ta’ teknoloġija innovattiva jew, sa fejn il-bidliet jirriżultaw f’karatteristiċi addizzjonali li ma ġewx riveduti u ma jaqgħux fi ħdan il-parametri ta’ assikurazzjonijiet u dikjarazzjonijiet eżistenti maħruġa minnhom kif meħtieġ bl-artikolu 8:
 
 (a) l-awditur ta’ sistemi wettaq ir-reviżjoni kif meħtieġ taħt l-imsemmi artikolu u jipprovdi l-assikurazzjonijiet rilevanti fir-rigward ta’ dawk il-bidliet; u
 
@@ -441,11 +391,9 @@ assikurazzjonijiet jew dikjarazzjonijiet tagħhom mogħtija lill- Awtorità għa
 
 (2) Ikun id-dmir ta’ detentur ta’ awtorizzazzjoni ta’ teknoloġija innovattiva li jiżgura li l-awtorizzazzjoni tinżamm valida u effettiva u tiġi mġedda għall-inqas fi żmien l-aħħar tliet xhur tal-validità tagħha u fi kwalunkwe każ qabel ma tiskadi, billi:
 
-(a) tiġi sottomessa l-informazzjoni dwar assikurazzjonijiet, dikjarazzjonijiet u materjali oħra jew billi jittieħdu tali azzjonijiet kif meħtieġa mill-Awtorità għat-tiġdid tal-awtorizzazzjonijiet rilevanti u b’mod partikolari li juru li l- TEKNOLOĠIJA INNOVATTIVA [KAP. 592. applikant għadu f’konformità mal-Att u mal-kondizzjonijiet tal-awtorizzazzjoni;
+(a) tiġi sottomessa l-informazzjoni dwar assikurazzjonijiet, dikjarazzjonijiet u materjali oħra jew billi jittieħdu tali azzjonijiet kif meħtieġa mill-Awtorità għat-tiġdid tal-awtorizzazzjonijiet rilevanti u b’mod partikolari li juru li l-applikant għadu f’konformità mal-Att u mal-kondizzjonijiet tal-awtorizzazzjoni;
 
 (b) fil-każ ta’ arranġamenti ta’ teknoloġija innovattiva, jitwettqu l-verifiki u r-reviżjonijiet u jinkisbu d-dikjarazzjonijiet neċessarji mill-awditur reġistrat u mill-amministratur tekniku reġistrat; u
-
-*17*
 
 (ċ) jitħallsu lill-Awtorità d-drittijiet rilevanti.
 
@@ -473,11 +421,7 @@ huma residenti abitwalment f’Malta.
 
 Iżda:
 
-(a) jekk kemm l-arranġament ta’ teknoloġija innovattiva kif ukoll l-amministratur tekniku maħtur [KAP. 592. TEKNOLOĠIJA INNOVATTIVA
-
-b’referenza għall-arranġament mhumiex residenti f’Malta, il-ħatra ta’ aġent residenti għall-amministratur tekniku għandha tissodisfa l-ħtieġa taħt dan l-artikolu wkoll għall-arranġament ta’ teknoloġija innovattiva għal kemm idum ingaġġat tali amministratur tekniku u l-ingaġġ ta’ aġent residenti jkun magħmul mill-amministratur tekniku wkoll għall-arranġament ta’ teknoloġija innovattiva meta jiġi awtorizzat jagħmel hekk; u
-
-*18*
+(a) jekk kemm l-arranġament ta’ teknoloġija innovattiva kif ukoll l-amministratur tekniku maħtur b’referenza għall-arranġament mhumiex residenti f’Malta, il-ħatra ta’ aġent residenti għall-amministratur tekniku għandha tissodisfa l-ħtieġa taħt dan l-artikolu wkoll għall-arranġament ta’ teknoloġija innovattiva għal kemm idum ingaġġat tali amministratur tekniku u l-ingaġġ ta’ aġent residenti jkun magħmul mill-amministratur tekniku wkoll għall-arranġament ta’ teknoloġija innovattiva meta jiġi awtorizzat jagħmel hekk; u
 
 (b) meta arranġament ta’ teknoloġija innovattiva hu magħmul minn bosta partijiet kostitwenti - DLT u smart contracts - li kull waħda minnhom tista’ tikseb ċertifikazzjoni taħt dan l-Att, l-applikanti kollha jistgħu legalment isemmu l-parti kostitwenti prinċipali u wara dan il-partijiet anċillari kollha għandhom jitqiesu li jissodisfaw il-ħtiġiet ta’ dan l-artikolu jekk l-ingaġġ tal-aġent residenti fir-rigward tal-parti kostitwenti prinċipali jsemmi l-partijiet anċillari kollha u jikkonferma li l-applikant hu awtorizzat jagħmel dan b’referenza għall-imsemmija partijiet anċillari.
 
@@ -493,11 +437,9 @@ b’referenza għall-arranġament mhumiex residenti f’Malta, il-ħatra ta’ a
 
 (b) jiffirma u jippreżenta lill-Awtorità u dipartimenti u awtoritajiet governattivi Maltin oħra d-dikjarazzjonijiet u formuli kollha meħtieġa skont il-liġi Maltija;
 
-(ċ) jaġixxi bħala r-rappreżentant legali tad-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva fi proċeduri ġudizzjarji f’Malta, u kull avviż kemm mill-Awtorità jew minn xi awtorità oħra mibgħut lill-aġent residenti fl-aħħar indirizz reġistrat tiegħu għandu jitqies li jkun ġie debitament riċevut minn u notifikat lid-detentur ta’ awtorizzazzjoni għal TEKNOLOĠIJA INNOVATTIVA [KAP. 592. teknoloġija innovattiva.
+(ċ) jaġixxi bħala r-rappreżentant legali tad-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva fi proċeduri ġudizzjarji f’Malta, u kull avviż kemm mill-Awtorità jew minn xi awtorità oħra mibgħut lill-aġent residenti fl-aħħar indirizz reġistrat tiegħu għandu jitqies li jkun ġie debitament riċevut minn u notifikat lid-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva.
 
 (2) L-aġent residenti ma jkunx personalment responsabbli għan-nuqqas ta’ konformità min-naħa tad-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva ma’ xi liġi, lanqas għal xi rappreżentazzjoni żbaljata magħmula f’sottomissjonijiet jew dikjarazzjonijiet maħruġa mill-applikant, ukoll jekk awtentikati mill-aġent residenti għall-finijiet tal-applikazzjoni jew xi liġi oħra, sakemm l-aġent residenti ma jkunx assuma dik ir-responsabbiltà għall-konformità personalment bil-miktub jew ikun hu stess għamel dikjarazzjoni falza xjentement jew bi traskuraġni.
-
-*19*
 
 (3) L-aġent residenti ma għandu lanqas ikun responsabbli għal xi spejjeż tal-qorti, legali jew relatati fil-każ ta’ xi proċeduri ġudizzjarji mibdija kontra tiegħu fil-kapaċità tiegħu bħala rappreżentant legali tad-detentur ta’ arranġament ta’ teknoloġija innovattiva jew xi wieħed mill-uffiċjali tiegħu, ikun min ikun li ppreżenta l-każ.
 
@@ -517,11 +459,7 @@ b’referenza għall-arranġament mhumiex residenti f’Malta, il-ħatra ta’ a
 
 (f) jirċievi notifika formali f’isem id-detentur ta’ awtorizzazzjoni ta’ teknoloġija innovattiva meta huma meħtieġa notifiki taħt id-dispożizzjonijiet ta’ dan l-Att jew xi liġi oħra jew xi ftehim:
 
-Iżda fir-rigward ta’ kull awtorizzazzjoni bil- [KAP. 592. TEKNOLOĠIJA INNOVATTIVA
-
-miktub, ċertifikazzjoni jew ċertifikat ta’ reġistrazzjoni, waqt li ma jkunx projbit li l-aġent residenti jieħu pussess u jżomm l-oriġinal għal salvagwardja, u għal emendi jew reviżjonijiet mill-Awtorità, l-awtorizzazzjoni għal teknoloġija innovattiva ma tistax tinħareġ f’isem l-aġent residenti, ukoll jekk hu jkun formalment awtorizzat għal dak il-għan.
-
-*20*
+Iżda fir-rigward ta’ kull awtorizzazzjoni bil-miktub, ċertifikazzjoni jew ċertifikat ta’ reġistrazzjoni, waqt li ma jkunx projbit li l-aġent residenti jieħu pussess u jżomm l-oriġinal għal salvagwardja, u għal emendi jew reviżjonijiet mill-Awtorità, l-awtorizzazzjoni għal teknoloġija innovattiva ma tistax tinħareġ f’isem l-aġent residenti, ukoll jekk hu jkun formalment awtorizzat għal dak il-għan.
 
 Għall-finijiet ta’ dan l-artikolu l-frażi "detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva" għandha tkun preżunta li tinkludi wkoll applikant għal tali awtorizzazzjoni.
 
@@ -539,9 +477,7 @@ Iżda fejn id-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva jill
 
 (1) Aġent residenti jista’ jirriżenja billi jagħti avviż ta’ mill-inqas ħmistax-il ġurnata (jew tali perjodu inqas kif id-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva jew l- Awtorità jistgħu jagħtu l-kunsens tagħhom) bil-miktub lid-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva u lill-Awtorità.
 
-*21*
-
-TEKNOLOĠIJA INNOVATTIVA [KAP. 592. (2) Id-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva jista’ jneħħi l-aġent residenti billi jagħti avviż ta’ mill-inqas ħmistax-il ġurnata (jew tali perjodu inqas kif l-Awtorità tista’ tagħti l-kunsens tagħha) bil-miktub lill-Awtorità.
+(2) Id-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva jista’ jneħħi l-aġent residenti billi jagħti avviż ta’ mill-inqas ħmistax-il ġurnata (jew tali perjodu inqas kif l-Awtorità tista’ tagħti l-kunsens tagħha) bil-miktub lill-Awtorità.
 
 (3) L-Awtorità jkollha s-setgħa li taħtar, għal perjodu limitat u temporanju, aġent residenti f’isem id-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva fil-każ tan-nuqqas tad-detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva li jaħtar tali aġent u tali aġent residenti għandu jara li jistabbilixxi kuntatt mal-persuni li għandhom dmirijiet fir-rigward tal-governanza tal-arranġament ta’ teknoloġija innovattiva sabiex ikunu jistgħu jaħtru aġent residenti tal-għażla tagħhom:
 
@@ -563,11 +499,7 @@ Kull detentur ta’ awtorizzazzjoni għal teknoloġija innovattiva għandu jħal
 
 (b) jirregola aktar reġistrazzjonijiet ta’ provdituri ta’ servizzi ta’ teknoloġija innovattiva, inkuża dikjarazzjoni dwar liema indipendenza u kwalitajiet oħrajn, jekk ikun hemm, huma meħtieġa għat-twettiq tal-funzjonijiet tagħhom u t-tifsira ta’ dawk il-frażijiet;
 
-(ċ) jippreskrivi l-formuli li għandhom x’jaqsmu ma’ TEKNOLOĠIJA INNOVATTIVA
-
-applikazzjonijiet u proċessi involuti fiċ-ċertifikazzjoni u r-reġistrazzjoni;
-
-*[KAP. 592. 22*
+(ċ) jippreskrivi l-formuli li għandhom x’jaqsmu ma’ applikazzjonijiet u proċessi involuti fiċ-ċertifikazzjoni u r-reġistrazzjoni;
 
 (d) jippreskrivi d-drittijiet li jistgħu jkunu applikabbli għal applikazzjonijiet;
 
@@ -589,11 +521,9 @@ applikazzjonijiet u proċessi involuti fiċ-ċertifikazzjoni u r-reġistrazzjoni
 
 (l) jistabbilixxi ċ-ċirkostanzi li fihom persuni involuti f’konnessjoni ma’ detentur ta’ awtorizzazzjoni, inklużi kull awditur ta’ sistemi jew amministratur tekniku, huma obbligati li jikkomunikaw informazzjoni lill-Awtorità, jippreskrivi regolamenti li jirregolaw l-iżvelar ta’ informazzjoni minn awdituri ta’ sistemi jew amministraturi tekniċi u jistabbilixxi proċeduri superviżorji u dixxiplinarji għal awdituri ta’ sistemi jew amministraturi tekniċi fir-rigward tad-dmirijiet tagħhom.
 
-(3) Regolamenti magħmulin taħt dan l-artikolu jistgħu TEKNOLOĠIJA INNOVATTIVA [KAP. 592. jkunu
+(3) Regolamenti magħmulin taħt dan l-artikolu jistgħu jkunu
 
 soġġetti għal tali eżenzjonijiet jew kondizzjonijiet kif jista’ jiġi speċifikat fihom, u jistgħu jipprovdu b’mod differenti għal każi, ċirkostanzi jew għanijiet differenti u jistgħu jagħtu lill-Awtorità dawk is-setgħat ta’ adattament kif jista’ wkoll jiġi speċifikat.
-
-*23*
 
 (4) Fejn ikunu saru regolamenti skont dan l-artikolu, l- Awtorità tista’ toħroġ linji gwida għall-aħjar twettiq u l-aħjar implimentazzjoni tad-dispożizzjonijiet tar-regolamenti.
 
@@ -623,11 +553,7 @@ Dawn li ġejjin għandhom jitqiesu li huma arranġamenti ta’ teknoloġija inno
 
 \2. Software u arkitetturi oħra li għalkemm ma humiex neċessarjament użati fil-kuntest ta’ DLT, smart contracts u applikazzjonijiet relatati, kif ukoll arranġamenti simili oħra, jintużaw, jew huma maħsuba biex jintużaw, bħala stand alone jew bħala parti minn soluzzjoni f’setturi u oqsma li huma meqjusa li huma ta’ natura riskjuża jew kritika, fejn in-nuqqas jew l-użu ħażin tagħhom jista’, fost affarijiet oħra, jirriżulta f’telf ta’ ħajja, preġudizzju gravi għall-benesseri u d-drittijiet ta’ persuni fiżiċi, telf jew ħsara sinifikanti fl-assi u ħsara sinifikanti lill-ambjent.
 
-\3. smart contracts u applikazzjonijiet relatati, inklużi organizzazzjonijiet awtonomi deċentralizzati, kif ukoll arranġamenti [KAP. 592. TEKNOLOĠIJA INNOVATTIVA
-
-simili oħra;
-
-*24*
+\3. smart contracts u applikazzjonijiet relatati, inklużi organizzazzjonijiet awtonomi deċentralizzati, kif ukoll arranġamenti simili oħra;
 
 \4. kull arranġament ieħor ta’ teknoloġija innovattiva li jista’ jiġi msemmi mill-Ministru, fuq ir-rakkomandazzjoni tal-Awtorità, f’avviż minn żmien għal żmien.
 
@@ -665,9 +591,7 @@ Reġistrazzjoni ta’ Amministraturi Tekniċi - 2 snin
 
 1.0.1 Fejn arranġament ta’ teknoloġija innovattiva u attiv li għandu x’jaqsam miegħu jikkostitwixxu l-attiv prinċipali tal-organizzazzjoni ġuridika, l-Awtorità tista’ tikkonsidra persuni oħra li ma jkunux -
 
-*25*
-
-TEKNOLOĠIJA INNOVATTIVA [KAP. 592. (a) fil-kariga ta’ ''amministraturi'' kif imfisser f’xi liġi speċjali li tapplika għall-forma rilevanti tal-organizzazzjoni ġuridika; jew
+(a) fil-kariga ta’ ''amministraturi'' kif imfisser f’xi liġi speċjali li tapplika għall-forma rilevanti tal-organizzazzjoni ġuridika; jew
 
 (b) ''azzjonisti'' kif imfisser f’xi liġi speċjali li tapplika għal kumpaniji ta’ responsabbiltà limitata jew soċjetajiet en commandite, li l-kapital tagħhom hu maqsum f’azzjonijiet,
 
@@ -682,10 +606,6 @@ bħala li jaqgħu fl-ambitu tat-termini għall-finijiet tal-artikolu 8(4)(a) u a
 1.0.3 It-testijiet f’din l-Iskeda japplikaw fuq bażi kontinwa mill-ewwel ġurnata tax-xogħol ta’ Jannar u fl-ewwel ġurnata tax-xogħol f’Ġunju ta’ kull sena kalendarja bla ħsara għall-applikazzjoni tagħhom f’kull żmien ieħor meta tintbagħat lill-Awtorità notifika speċifika ta’ xi bidla rilevanti jew applikazzjoni li tirrigwarda bidliet fl-amministraturi jew fl-azzjonijiet.
 
 1.0.4 Il-kalkolu tan-natura u tal-limitu tas-sjieda u kontroll imsemmija hawn aktar ’l isfel għandu jsir fuq bażi diretta u indiretta. Fir-rigward ta’ persuna li jkollha dawk id-drittijiet jew setgħat dak il-kalkolu għandu wkoll, sal-limitu possibbli, isir fuq bażi kumulattiva irrispettivament minn f’kemm portafolli (wallets) u b’liema mod dawk id-dritiijiet u setgħat jistgħu jinżammu. Jekk azzjonijiet jinżammu minn intermedjarju, allura t-testijiet f’din l-Iskeda għandhom jiġu applikati għas-sidien benefiċjarji li jkunu obbligati javżaw lill-amministraturi jew lill-Awtorità dwar l-interessi ta’ sjieda benefiċjarji kumulattivi tagħhom. Sa meta jasal iż-żmien li t-teknoloġija tal-arranġament tista’ twettaq dawk il-kalkoli, id-dmir li jiġu dikjarati t-totali ta’ ishma f’każijiet ta’ ishma multipli, drittijiet u setgħat ikun fuq utent li jiġi avżat dwar dak id-dmir f’kull dokumentazzjoni rilevanti, inkluża kull whitepaper.
-
-*26*
-
-[KAP. 592. TEKNOLOĠIJA INNOVATTIVA
 
 1.0.5 Il-kelma ''azzjoni'' tfisser dritt, reġistrat f’reġistru miżmum minn organizzazzjoni ġuridika, li, sakemm ma jkunx dikjarat mod ieħor fl-istrument kostituttiv tal-organizzazzjoni ġuridika partikolari, jagħti d-dritt lid-detentur biex jipparteċipa fil-kapital u fil-profitti u li jivvota fl-organu rilevanti ta’ organizzazzjoni ġuridika, u għandha tinkludi kull interess ekwivalenti f’kull forma oħra ta’ organizzazzjoni ġuridika, inklużi iżda mhux limitati għal, interessi f’soċjetà, drittijiet ta’ parteċipazzjoni f’assoċjazzjoni, drittijiet benefiċjarji f’fondazzjoni, jew tokens jew attiv ieħor diġitali li jikkonferixxu dawk id-drittijiet fir-rigward ta’ organizzazzjoni ġuridika jew fir-rigward ta’ arranġament ta’ teknoloġija innovattiva.
 
@@ -703,9 +623,7 @@ Utent jitqies li jkun f’pożizzjoni li jinfluwenza deċiżjonijiet bħala ammi
 
 1.1.2 Persuna li taqa’ taħt is-subparagrafu 1.1.3 ma tiġix eskluża minn dan it-terminu minħabba l-fatt li l-kariga jew xogħol li fihom hi impjegata huma msemmija taħt tismija differenti, kemm jekk tkun impjegata b’setgħat sħaħ jew ristretti, għal perjodu definit jew indefinit u kemm jekk b’rimunerazzjoni kemm jekk le, fi kwalunkwe livell fl-arranġament ta’ teknoloġija innovattiva li hi tista’ teżerċita dak ir-rwol, setgħat jew dmirijiet.
 
-*27*
-
-TEKNOLOĠIJA INNOVATTIVA [KAP. 592. 1.1.3 Għall-finijiet tal-artikolu 8(4)(a)(i), u mingħajr preġudizzju għall-mod li bih kull regola oħra taħt liġijiet oħra (inklużi dawk li jirrigwardaw il-prevenzjoni ta’ ħasil ta’ flus) tista’ topera, il-kelma ''amministratur'' għandha tfisser:
+1.1.3 Għall-finijiet tal-artikolu 8(4)(a)(i), u mingħajr preġudizzju għall-mod li bih kull regola oħra taħt liġijiet oħra (inklużi dawk li jirrigwardaw il-prevenzjoni ta’ ħasil ta’ flus) tista’ topera, il-kelma ''amministratur'' għandha tfisser:
 
 (a) persuna li għandha setgħat ta’ rappreżentanza u li b’mod ġenerali tista’ torbot lill-organizzazzjoni ġuridika f’kuntratt;
 
@@ -723,10 +641,6 @@ TEKNOLOĠIJA INNOVATTIVA [KAP. 592. 1.1.3 Għall-finijiet tal-artikolu 8(4)(a)(i
 
 (b) kull utent li għandu d-dritt jew is-setgħa, inkluż permezz ta’ tokens, li jesprimi l-opinjonijiet jew il-kunsens tiegħu għal proposta fir-rigward tas-software li jikkonsisti f’arranġament ta’ teknoloġija innovattiva meta dak il-utent hu membru tal-komunità tal-utenti u s-sehem jew funzjonijiet tiegħu ma jippermettux li waħdu jinfluwenza deċiżjonijiet.
 
-*28*
-
-[KAP. 592. TEKNOLOĠIJA INNOVATTIVA
-
 Utent ma jiġix hekk ikkunsidrat jekk is-setgħat li għandu huma biss mekkaniżmu li jinvolvi sempliċi vot jew espressjoni ta’ appoġġ għal azzjonijiet ta’ natura ordinarja maħsubin biex jinkiseb konsensus b’mod demokratiku fuq ħwejjeġ li għandhom x’jaqsmu mal-għan tal-organizzazzjoni li fuqhom l-utenti kollha huma permessi li jivvutaw.
 
 2.1.2 Għall-finijiet tal-artikolu 8(4)(a)(ii), u mingħajr preġudizzju għall-mod li bih kull regola oħra taħt liġijiet oħra (inklużi dawk li jirrigwardaw il-prevenzjoni ta’ ħasil ta’ flus) tista’ topera, il-kelma ''azzjonist'':
@@ -743,9 +657,7 @@ Utent ma jiġix hekk ikkunsidrat jekk is-setgħat li għandu huma biss mekkaniż
 
 A. peżata ta’ aktar minn 25% tat-tokens totali maħruġin;
 
-*29*
-
-TEKNOLOĠIJA INNOVATTIVA [KAP. 592. B. taħt setgħat riżervati, dritt ta’ veto jew setgħa simili fejn jista’ jiddetermina l-eżitu ta’ vot jew proposta minħabba drittijiet speċjali vestiti fih minkejja li jista’ jkollu inqas minn 25%,
+B. taħt setgħat riżervati, dritt ta’ veto jew setgħa simili fejn jista’ jiddetermina l-eżitu ta’ vot jew proposta minħabba drittijiet speċjali vestiti fih minkejja li jista’ jkollu inqas minn 25%,
 
 u m’għandhiex tinkludi xi utent ieħor jew detentur ta’ tokens jew attiv ieħor diġitali, ukoll jekk ikollhom dritt ta’ vot, dritt li jingħataw tokens addizzjonali f’ċirkostanzi speċifikati jew xi setgħa jew dritt ieħor biex jipparteċipaw f’ċirkostanzi speċifikati.
 

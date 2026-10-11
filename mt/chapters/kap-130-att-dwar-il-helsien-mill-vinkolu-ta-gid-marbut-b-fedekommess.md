@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Ħelsien mill-Vinkolu ta' Ġid marbut b'Fedekommess (Cap. 130)
 
-*1*
-
-MARBUT B’FEDEKOMMESS [KAP. 130.
-
 **KAPITOLU 130**
 
 ATT DWAR IL-ĦELSIEN MILL-VINKOLU TA’ ĠID
@@ -81,13 +77,11 @@ Iżda l-imsejjaħ tal-ġid marbut b’fedekommess jekk magħruf u jkun f’Malta
 
 Kull ordni fl-interess ta’ nies imsejħin għal suċċessjoni taħt fedekommess, mogħti minn xi qorti f ’xi deroga ta’ fedekommess, jitqies li ma għandux iseħħ mill-jum li jgħodd:
 
-Iżda kull ordni bħal dan, jekk u safejn għandu x’jaqsam ma’ immobbli marbutin b’fedekommess indiviżibbli jew ma’ nefqa ta’ flus fix-xiri tal-immobbli bħal dawn, jibqa’ iseħħ dwar in-nofs tal-immobbli marbut b’dak il-fedekommess li, skont id-disposizzjonijiet ta’ dan l-Att, in-nuda proprietas tiegħu tgħaddi skont l-att tat-twaqqif tal-fedekommess sakemm dan it-trasferiment MARBUT B’FEDEKOMMESS [KAP. 130. iseħħ.
+Iżda kull ordni bħal dan, jekk u safejn għandu x’jaqsam ma’ immobbli marbutin b’fedekommess indiviżibbli jew ma’ nefqa ta’ flus fix-xiri tal-immobbli bħal dawn, jibqa’ iseħħ dwar in-nofs tal-immobbli marbut b’dak il-fedekommess li, skont id-disposizzjonijiet ta’ dan l-Att, in-nuda proprietas tiegħu tgħaddi skont l-att tat-twaqqif tal-fedekommess sakemm dan it-trasferiment iseħħ.
 
 ## 6. Kuntratti li imissu fedekommessi diviżibbli.
 
 Ebda kuntratt jew negozju ieħor inter vivos magħmul jew li sar qabel il-jum li jgħodd ma jista’ jiġi mħassar jew imbiddel minħabba li kien dwar ħwejjeġ marbutin b’fedekommess diviżibbli.
-
-*3*
 
 ## 7. Preskrizzjoni.
 

@@ -16,8 +16,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Avjazzjoni Ċivili (Ċertifikati ta' Operaturi tal-Ajru) (Cap. 218)
 
-(ĊERTIFIKATI TA’ OPERATURI TAL-AJRU) [KAP. 218. 1
-
 **KAPITOLU 218**
 
 **ATT DWAR L-AVJAZZJONI ĊIVILI**
@@ -84,10 +82,6 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra -
 
 "piż totali massimu awtorizzat" dwar inġenju tal-ajru tfisser il-piż totali massimu tal-inġenju u l-kontenut tiegħu li bih l-inġenju tal-ajru jkun jista’ jitlaq għal titjira minn kullimkien fid-dinja, fl-iktar ċirkostanzi favorevoli skont iċ-ċertifikat ta’ navigabbiltà li jkun iseħħ dwar l-inġenju;
 
-*3*
-
-(ĊERTIFIKATI TA’ OPERATURI TAL-AJRU) [KAP. 218.
-
 "preskritt" tfisser preskritt b’regolamenti magħmula skont dan l- Att.
 
 ## TAQSIMA II — GĦOTI TA’ ĊERTIFIKAT LIL OPERATURI TAL-AJRU
@@ -144,11 +138,9 @@ Iżda l-ħtiġiet ta’ qabel ta’ dan l-artikolu jistgħu ma jiġux imħarsa f
 
 (2) Il-perijodu ta’ wieħed u għoxrin ġurnata msemmi fis-subartikolu (1) għandu jibda jgħodd mill-ġurnata li fiha d-Direttur jinnotifika b’avviż id-deċiżjoni tiegħu lill-applikant għal, jew lid-detentur ta’, ċertifikat, skont il-każ.
 
-*5*
+### 8. Appell.
 
-(ĊERTIFIKATI TA’ OPERATURI TAL-AJRU) [KAP. 218. 8. (1) Kull applikant għal, jew detentur ta’, ċertifikat ta’ operatur tal-ajru li ma jaqbilx ma’ deċiżjoni tad-Direttur dwar dik l-applikazzjoni jew ċertifikat jista’, f’dak iż-żmien u b’dak il-mod kif jiġi preskritt, jappella lill-Bord.
-
-*Appell.*
+(1) Kull applikant għal, jew detentur ta’, ċertifikat ta’ operatur tal-ajru li ma jaqbilx ma’ deċiżjoni tad-Direttur dwar dik l-applikazzjoni jew ċertifikat jista’, f’dak iż-żmien u b’dak il-mod kif jiġi preskritt, jappella lill-Bord.
 
 (2) Appell tali ma għandux jissospendi l-esekuzzjoni tad-deċiżjoni tad-Direttur jekk tkun deċiżjoni li taqa’ taħt l-artikolu 7(1)(a) jew jekk tkun deċiżjoni li tolqot xi ħaġa li dwarha d- Direttur ikun għamel ċertifikat għall-iskop tal-proviso għall-artikolu 6.
 

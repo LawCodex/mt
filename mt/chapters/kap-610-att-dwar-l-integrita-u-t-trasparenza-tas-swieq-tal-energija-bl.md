@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l- Integrità u t-Trasparenza tas-Swieq tal-Enerġija bl-Ingrossa (Setgħat ta’ Infurzar) (Cap. 610)
 
-*1*
-
-ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
-
 **KAPITOLU 610**
 
 ATT DWAR L-INTEGRITÀ U T-TRASPARENZA TAS- SWIEQ TAL-ENERĠIJA BL-INGROSSA (SETGĦAT
@@ -51,10 +47,6 @@ Għall-finijiet ta’ din it-tifsira, "informazzjoni" tfisser:
 
 (ċ) informazzjoni li għandha tiġi żvelata skont id-dispożizzjonijiet legali jew regolatorji fil-livell tal-Unjoni jew fil-livell nazzjonali, ir-regoli tas-suq, u l-kuntratti jew l-użanzi fis-swieq tal-enerġija bl-ingrossa rilevanti, sakemm din l-informazzjoni x’aktarx li jkollha effett sinifikanti fuq il-prezzijiet tal-prodotti tal-enerġija bl-ingrossa; kif ukoll
 
-*2*
-
-[KAP. 610. ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR)
-
 (d) informazzjoni oħra li parteċipant raġonevoli fis-suq x’aktarx juża bħala parti mill-bażi tad-deċiżjoni tiegħu li jidħol fi transazzjoni relatata ma’, jew li joħroġ ordni biex jinnegozja fi, prodott tal-enerġija bl-ingrossa.
 
 L-informazzjoni għandha titqies li hija ta’ natura preċiża jekk turi sett ta’ ċirkostanzi li jeżisti jew li jista’, b’mod raġonevoli, ikun mistenni li jsir eżistenti, jew avveniment li jkun sar jew li jista’, b’mod raġonevoli, ikun mistenni li jsir, u jekk tkun speċifika biżżejjed biex tippermetti li wieħed jasal għal konklużjoni fir-rigward tal-effett possibbli ta’ dak is-sett ta’ ċirkostanzi jew ta’ dak l-avveniment fuq il-prezzijiet tal-prodotti tal-enerġija bl-ingrossa;
@@ -69,11 +61,7 @@ L-informazzjoni għandha titqies li hija ta’ natura preċiża jekk turi sett t
 
 (iii) tagħmel użu jew tipprova tagħmel użu minn mezz fittizju jew minn kwalunkwe forma oħra ta’ qerq jew ta’ strataġemma li tagħti jew li tista’ tagħti, sinjali foloz jew qarrieqa rigward il-provvista ta’, id-domanda għal, jew il-prezz ta’, prodotti tal-enerġija bl-ingrossa; jew
 
-(b) tixrid ta’ informazzjoni permezz tal-media, inkluż l-internet, jew bi kwalunkwe mezz ieħor, li jagħti jew huwa probabbli li jagħti, sinjali foloz jew qarrieqa rigward il-provvista ta’, id-domanda għal jew il-prezz ta’ prodotti tal-enerġija bl-ingrossa, inkluż it-tixrid ta’ għajdut u ta’ aħbarijiet foloz jew qarrieqa, fejn il-persuna li tkun xerrdet l-informazzjoni kienet taf, jew missha kienet taf, li din kienet ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
-
-falza jew qarrieqa.
-
-*3*
+(b) tixrid ta’ informazzjoni permezz tal-media, inkluż l-internet, jew bi kwalunkwe mezz ieħor, li jagħti jew huwa probabbli li jagħti, sinjali foloz jew qarrieqa rigward il-provvista ta’, id-domanda għal jew il-prezz ta’ prodotti tal-enerġija bl-ingrossa, inkluż it-tixrid ta’ għajdut u ta’ aħbarijiet foloz jew qarrieqa, fejn il-persuna li tkun xerrdet l-informazzjoni kienet taf, jew missha kienet taf, li din kienet falza jew qarrieqa.
 
 Meta informazzjoni tinxtered għall-iskopijiet tal-ġurnaliżmu jew l-espressjoni artistika, tixrid ta’ informazzjoni ta’ din ix-xorta għandu jiġi vvalutat billi jitqiesu r-regoli li jirregolaw il-libertà tal-istampa u l-libertà tal-espressjoni f’media oħra, sakemm:
 
@@ -107,10 +95,6 @@ Meta informazzjoni tinxtered għall-iskopijiet tal-ġurnaliżmu jew l-espressjon
 
 (g) l-Artikolu 17 (is-segretezza professjonali);
 
-*4*
-
-[KAP. 610. ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR)
-
 *  Kap. 490.*
 
 "Tribunal" tfisser it-Tribunal ta’ Reviżjoni Amministrattiva mwaqqaf bl-artikolu 5 tal-Att dwar il-Ġustizzja Amministrattiva.
@@ -141,10 +125,6 @@ F’dawn iż-żewġ każijiet, imsemmija fil-paragrafi (a) u (b), il-persuna ind
 
 (4) Meta l-persuna meħtieġa li tagħti d-dokumentazzjoni taħt dan l-artikolu ma jkollhiex id-dokumentazzjoni rilevanti, għandha l-obbligu li tavża mill-ewwel lir-Regolatur fejn, safejn taf hi, tista’ tinstab dik id-dokumentazzjoni, u r-Regolatur jista’ jeħtieġ lil kull persuna, kemm jekk indikata kif imsemmi hawn qabel kemm jekk le, li tidher li għandha dik id-dokumentazzjoni, li tipprovdi dik id-dokumentazzjoni.
 
-*5*
-
-ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
-
 (5) Kull persuna mitluba li tagħti informazzjoni permezz tas-subartikolu (2), b’mod partikolari d-diretturi u l-managers, b’kull isem li jkollhom, jew kull persuna oħra li jkunu, jew li kienu, responsabbli mill-operazzjonijiet jew attivitajiet rilevanti għandha tgħin u tikkollabora minnufih mar-Regolatur biex tgħinu jwettaq il-funzjonijiet tiegħu, u għandha tiġbor u tibgħat mingħajr dewmien l-informazzjoni li r-Regolatur raġonevolment jista’ jitlob minn żmien għal żmien.
 
 ## 5. Setgħa li tintalab informazzjoni u għajnuna u li jiġu mħarrka persuni għal smigħ.
@@ -162,10 +142,6 @@ ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
 (2) Kull persuna mitluba li tagħti informazzjoni permezz tas-subartikolu (1), b’mod partikolari d-diretturi u l-managers, b’kull isem li jkollhom, jew kull persuna oħra li jkunu, jew li kienu, responsabbli mill-operazzjonijiet jew attivitajiet rilevanti għandha tgħin u tikkollabora minnufih mar-Regolatur biex tgħinu jwettaq il-funzjonijiet tiegħu, u għandha tiġbor u tibgħat mingħajr dewmien l-informazzjoni li r-Regolatur jista’ raġonevolment jitlob minn żmien għal żmien.
 
 (3) Meta l-persuna meħtieġa li tagħti informazzjoni taħt dan l-artikolu ma jkollhiex id-dokumentazzjoni mitluba jew informazzjoni rilevanti, għandha tavża minnufih lir-Regolatur fejn, sa fejn taf hi, dik id-dokumentazzjoni tista’ tinsab, u r-Regolatur jista’ jeħtieġ li kull persuna, kemm jekk indikata kif imsemmi hawn u kemm jekk le, li jista’ jkollha dik l-informazzjoni, li tipprovdi dik l-informazzjoni.
-
-*6*
-
-[KAP. 610. ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR)
 
 ## 6. Setgħa li jinħatru spetturi u li jitwettqu spezzjonijiet fil-post. Kap. 545.
 
@@ -187,11 +163,7 @@ Iżda meta l-ispettur għandu raġuni biżżejjed li jaħseb li jekk jingħata a
 
 (4) Spettur maħtur skont dan l-artikolu għandu -
 
-(a) jkollu s-setgħa li jagħmel rapporti interim u mal-konklużjoni tal-investigazzjoni tiegħu huwa għandu jagħmel ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
-
-rapport finali lir-Regolatur jekk hekk meħtieġ mir-Regolatur; u
-
-*7*
+(a) jkollu s-setgħa li jagħmel rapporti interim u mal-konklużjoni tal-investigazzjoni tiegħu huwa għandu jagħmel rapport finali lir-Regolatur jekk hekk meħtieġ mir-Regolatur; u
 
 (b) josserva l-obbligu tas-segretezza professjonali.
 
@@ -210,10 +182,6 @@ Iżda kull persuna li tħossha aggravata b’ordni notifikata lilha skont dan is
 ## 7. Setgħat li jingħataw xi ordnijiet u li tintalab projbizzjoni temporanja tal-attività professjonali.
 
 (1) Mingħajr preġudizzju għas-setgħat tar-Regolatur mogħtija lilu taħt xi liġi oħra, fl-eżerċizzju u għall-iskop tal-funzjonijiet tiegħu taħt dan l-Att, u għall-implimentazzjoni aħjar tiegħu, ir-Regolatur għandu jkollu s-setgħa li joħroġ dawk l-ordnijiet b’avviż bil-miktub li għandu jieħu forma ta’ deċiżjoni kif dan iqis adatt, u kull persuna li tirċievi l-ordni għandha tħarisha u tirrendiha effettiva minnufih jew fiż-żmien u fil-mod stipulat fl-ordni.
-
-*8*
-
-[KAP. 610. ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR)
 
 *          Kap. 545.*
 
@@ -237,10 +205,6 @@ Iżda kull persuna li tħossha aggravata b’ordni notifikata lilha skont dan is
 
 (a) jagħmel pubbliku kull ordni li jkun ta taħt xi dispożizzjonijiet ta’ dan l-artikolu; u, jew
 
-*9*
-
-ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
-
 (b) joħroġ dikjarazzjoni pubblika dwar kull kwistjoni li taqa’ fil-funzjonijiet jew fis-setgħat tiegħu taħt dan l-Att.
 
 (7) Persuna li tħossha aggravata b’ordni notifikata lilha skont dan l-artikolu tista’ tappella quddiem it-Tribunal u fil-każ ta’ ordni maħruġa taħt is-subartikolu (4) quddiem il-Qorti tal-Appell (Ġurisdizzjoni Inferjuri).
@@ -263,11 +227,7 @@ ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
 
 (4) Ordni ta’ sekwestru għandu jiġi notifikat lis-sekwestrat u lis-suspettat minn uffiċjali tal-Pulizija Eżekuttiva mhux taħt il-grad ta’ spettur.
 
-(5) Ordni ta’ sekwestru ma għandux jibqa’ fis-seħħ, kemm-il darba ma jiġix imħassar qabel mill-Avukat Ġenerali permezz ta’ avviż bil-miktub notifikat lis-suspettat u lis-sekwestrat kif stipulat fis-subartikolu (4), wara tletin jum mid-data li jinħareġ, u l-Qorti ma għandhiex toħroġ ordni ta’ sekwestru ieħor fir-rigward ta’ dak is-suspettat ħlief jekk tkun sodisfatta li saret disponibbli informazzjoni [KAP. 610. ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR)
-
-sostanzjalment ġdida dwar il-vjolazzjoni ta’ dan l-Att:
-
-*10*
+(5) Ordni ta’ sekwestru ma għandux jibqa’ fis-seħħ, kemm-il darba ma jiġix imħassar qabel mill-Avukat Ġenerali permezz ta’ avviż bil-miktub notifikat lis-suspettat u lis-sekwestrat kif stipulat fis-subartikolu (4), wara tletin jum mid-data li jinħareġ, u l-Qorti ma għandhiex toħroġ ordni ta’ sekwestru ieħor fir-rigward ta’ dak is-suspettat ħlief jekk tkun sodisfatta li saret disponibbli informazzjoni sostanzjalment ġdida dwar il-vjolazzjoni ta’ dan l-Att:
 
 Iżda l-perjodu msemmi ta’ tletin jum għandu jitwaqqaf matul iż-żmien li s-suspettat ma jkunx jinsab f’Malta u l-Avukat Ġenerali javża lis-sekwestrat dwar dan permezz ta’ avviż bil-miktub notifikat kif stipulat fis-subartikolu (4).
 
@@ -293,10 +253,6 @@ Iżda wkoll il-Qorti Kriminali tista’ barra dan -
 
 (a) tawtorizza l-ħlas tad-djun li għandhom jitħallsu mill-persuna akkużata lil kredituri bonafidi u li nħolqu qabel ma saret l-ordni; u
 
-*11*
-
-ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
-
 (b) għal raġunijiet tajbin tawtorizza lill-persuna akkużata li tittrasferixxi proprjetà mobbli jew immobbli.
 
 Kull persuna indirizzata għandha tħares fil-pront kull ordni miktuba maħruġa mill-Qorti Kriminali skont id-dispożizzjonijiet ta’ dan l-artikolu fir-rigward ta’ dawk il-fondi u assi.
@@ -321,10 +277,6 @@ Kull persuna indirizzata għandha tħares fil-pront kull ordni miktuba maħruġa
 
 (1) Biex jiġi żgurat il-ħarsien ta’ dan l-Att, ir- Regolatur jista’ jikkordina l-ħidmiet tiegħu u jiskambja informazzjoni ma’, u jikkollabora b’mod ieħor ma’ -
 
-*12*
-
-[KAP. 610. ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR)
-
 (a) kull korp jew awtorità ffurmat jew imwaqqaf taħt il-liġi Maltija għal kwistjonijiet li fir-rigward tagħhom dan il-korp jew awtorità jista’ jkollu funzjoni regolatorja, superviżorja, ġudizzjarja jew ta’ liċenzjar skont il-liġi;
 
 (b) kull awtorità, awtorità barranija jew korp li twettaq funzjonijiet simili jew l-istess jew li għandha d-dmir li tgħin fis-sorveljanza tas-suq jew li taħdem għall-iskop tal-kxif, il-prevenzjoni jew il-prosekuzzjoni ta’ atti relatati mal-abbuż fis-suq; u
@@ -343,11 +295,7 @@ Kull persuna indirizzata għandha tħares fil-pront kull ordni miktuba maħruġa
 
 (3) Malli jirċievi talba minn awtorità barranija għal skop ta’ twettiq tad-dmirijiet tagħha fl-investigazzjoni u kxif skont ir- Regolament Remit, inkluża talba mill-awtorità barranija għall-akkumpanjament ta’ uffiċjali, impjegati jew aġenti oħra tal-awtorità matul xi investigazzjoni, ir-Regolatur għandu mill-ewwel jieħu l-miżuri meħtieġa biex jiġbor l-informazzjoni meħtieġa mill-awtorità barranija. Jekk ir-Regolatur ma jistax iforni l-informazzjoni meħtieġa minnufih, għandu javża lill-awtorità barranija li tkun qed tagħmel it-talba dwar ir-raġunijiet.
 
-(4) Ir-Regolatur jista’ jirrifjuta li jaġixxi fuq talba għal ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
-
-informazzjoni meta:
-
-*13*
+(4) Ir-Regolatur jista’ jirrifjuta li jaġixxi fuq talba għal informazzjoni meta:
 
 (a) komunikazzjoni tista’ tolqot negattivament is-sovranità, is-sigurtà jew l-ordni pubbliku ta’ Malta;
 
@@ -372,10 +320,6 @@ Iżda meta l-awtorità barranija li tkun qed tikkommunika l-informazzjoni tagħt
 (a) kwalunkwe penali amministrattiva imposta taħt l-artikolu 12; jew
 
 (b) kull ordni bil-miktub maħruġa skont l-artikoli 6(7) jew 7.
-
-*14*
-
-[KAP. 610. ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR)
 
 *Penali amministrattivi.      Kap. 545.*
 
@@ -407,10 +351,6 @@ tkun ħatja ta’ reat kontra dawn ir-regolamenti u teħel, meta tinsab ħatja, 
 
 (b) l-applikazzjoni xierqa tal-projbizzjonijiet stabbiliti taħt dan l-Att;
 
-*15*
-
-ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
-
 (ċ) l-impożizzjoni ta’ penali amministrattivi mir- Regolatur skont l-artikolu 12;
 
 (d) fir-rigward tal-poteri ta’ infurzar meħtieġa mir- Regolatur biex iwettaq il-funzjonijiet tiegħu taħt dan l-Att;
@@ -430,10 +370,6 @@ ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR) [KAP. 610.
 (b) fil-każ ta’ ksur amministrattiv, multa ta’ mitt elf euro (€100,000) għal kull ksur u, jew sitt mitt euro (€600) għal kull jum ta’ nuqqas ta’ konformità għal kull ksur jew nuqqas ta’ konformità, skont il-każ.
 
 (3) Regolamenti li jsiru taħt dan l-artikolu jistgħu wkoll jipprovdu għall-għoti ta’ setgħa u ta’ awtorità lir-Regolatur biex dan ikun jista’ jiżgura li d-dispożizzjonijiet tar-regolamenti jiġu implimentati kif imiss.
-
-*16*
-
-[KAP. 610. ENERĠIJA BL-INGROSSA (SETGĦAT TA’ INFURZAR)
 
 ## 15. Setgħa tar- Regolatur li joħroġ regoli.
 

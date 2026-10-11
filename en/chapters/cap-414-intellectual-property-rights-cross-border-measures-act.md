@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Intellectual Property Rights (Cross-Border Measures) Act (Cap. 414)
 
-*1*
-
-(CROSS-BORDER MEASURES) [CAP. 414.
-
 **CHAPTER 414**
 
 **INTELLECTUAL PROPERTY RIGHTS**
@@ -53,11 +49,7 @@ The title of this Act is Intellectual Property Rights (Cross- Border Measures) A
 
 "declarant" means the importer, the consignee, the exporter or the owner of the goods or any other person involved in the operations mentioned in article 4;
 
-"holder of a right" means the holder of a trademark, a patent or an intellectual property right or any other person authorised to use that trademark, patent or right, or a representative thereof. The holder of a right or any other person authorised to use the right may [CAP. 414. (CROSS-BORDER MEASURES)
-
-be represented by a natural or legal person. Such a person shall include a collecting society, which has as its sole or principal purpose the management, or administration of copyright or neighbouring rights;
-
-*2*
+"holder of a right" means the holder of a trademark, a patent or an intellectual property right or any other person authorised to use that trademark, patent or right, or a representative thereof. The holder of a right or any other person authorised to use the right may be represented by a natural or legal person. Such a person shall include a collecting society, which has as its sole or principal purpose the management, or administration of copyright or neighbouring rights;
 
 "intellectual property right" means any right referred to in the definition of goods infringing an intellectual property right.
 
@@ -89,11 +81,7 @@ The entry into Malta, export or re-export, release for free circulation, tempora
 
 (a) Where the holder of the right applies himself:
 
-(i) in the case of a right that is registered or for which an application has been lodged such as a trademark, patent or design right: proof of (CROSS-BORDER MEASURES) [CAP. 414.
-
-registration or lodging of the application with the relevant office;
-
-*3*
+(i) in the case of a right that is registered or for which an application has been lodged such as a trademark, patent or design right: proof of registration or lodging of the application with the relevant office;
 
 (ii) in the case of a copyright, neighbouring right or design right that is unregistered or for which an application has not been lodged: any proof of authorship or the person’s status as original holder.
 
@@ -121,11 +109,7 @@ registration or lodging of the application with the relevant office;
 
 (iii) Such costs shall be determined by the Comptroller of Customs and shall not be disproportionate to the service provided.
 
-(8) The Comptroller of Customs shall deal with the application [CAP. 414. (CROSS-BORDER MEASURES)
-
-and shall forthwith notify the applicant in writing, of his decision.
-
-*4*
+(8) The Comptroller of Customs shall deal with the application and shall forthwith notify the applicant in writing, of his decision.
 
 (9) Where the Comptroller of Customs grants the application, he shall specify the period during which the Customs authorities shall withhold the release of or detain the goods pending the initiation of civil judicial proceedings. That period may, upon application by the holder of the right, be extended by the Comptroller of Customs.
 
@@ -153,11 +137,9 @@ Where, in the course of checks made under one of the Customs procedures referred
 
 The Comptroller of Customs may suspend release of the goods or detain them for a period of five working days to enable the holder of the right to lodge an application for action in accordance with article 5.
 
-*5*
+## 7. Conditions governing action by the Comptroller of Customs.
 
-(CROSS-BORDER MEASURES) [CAP. 414. 7. (1) Without prejudice to the provisions of article 6, where the Comptroller of Customs is satisfied, after consulting the applicant where necessary, that goods placed in one of the situations referred to in article 4 correspond to the description of goods infringing an intellectual property right, he shall suspend release of the goods or detain them and the Comptroller of Customs shall forthwith inform the declarant and the person who applied for action to be taken, if any.
-
-*Conditions governing action by the Comptroller of Customs.*
+(1) Without prejudice to the provisions of article 6, where the Comptroller of Customs is satisfied, after consulting the applicant where necessary, that goods placed in one of the situations referred to in article 4 correspond to the description of goods infringing an intellectual property right, he shall suspend release of the goods or detain them and the Comptroller of Customs shall forthwith inform the declarant and the person who applied for action to be taken, if any.
 
 (2) Subject to any law on the protection of personal data, commercial and industrial secrecy, and professional and administrative confidentiality, the Comptroller of Customs shall notify the holder of the right, at his request, of the name and address of the declarant and, or the consignee so as to assist the holder of the right to be put in position to initiate judicial proceedings to safeguard his interests.
 
@@ -171,11 +153,7 @@ Provided that, if civil judicial proceedings have been initiated in connection w
 
 (a) the Comptroller of Customs has been informed within the time limit referred to in sub-article (4) that civil judicial proceedings have been initiated, leading to a substantive decision on the merits of the case,
 
-(b) on expiry of the time limit, the Court has not imposed [CAP. 414. (CROSS-BORDER MEASURES)
-
-interim measures, and
-
-*6*
+(b) on expiry of the time limit, the Court has not imposed interim measures, and
 
 (c) all the Customs formalities have been completed.
 
@@ -199,11 +177,7 @@ Save in exceptional cases, simply removing the trademarks, which have been affix
 
 Provided that in ordering measures to be taken under this article the Court shall take due account of the need for proportionality between the seriousness of the infringement and the remedies ordered as well as of the interests of third parties.
 
-(2) In addition to the information given pursuant to article 7(2) and under the conditions laid down therein, the Comptroller of Customs shall inform the holder of the right, upon request, of the names and addresses of the consignor, of the importer or exporter (CROSS-BORDER MEASURES) [CAP. 414.
-
-and of the manufacturer of the goods established to be goods infringing an intellectual property right and of the quantity of the goods in question.
-
-*7*
+(2) In addition to the information given pursuant to article 7(2) and under the conditions laid down therein, the Comptroller of Customs shall inform the holder of the right, upon request, of the names and addresses of the consignor, of the importer or exporter and of the manufacturer of the goods established to be goods infringing an intellectual property right and of the quantity of the goods in question.
 
 ## 9. Exemptions from liability.
 

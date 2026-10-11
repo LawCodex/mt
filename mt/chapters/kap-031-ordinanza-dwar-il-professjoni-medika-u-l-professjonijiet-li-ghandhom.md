@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Ordinanza dwar il-Professjoni Medika u l-Professjonijiet li għandhom x'jaqsmu magħha (Cap. 31)
 
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31. 1
-
 **KAPITOLU 31**
 
 **ORDINANZA DWAR IL-PROFESSJONI MEDIKA U L-**
@@ -83,10 +81,6 @@ Mħassar bl-Att: XII. 2003.52.
 *Emendat: VIII. 1921.4; XII. 1932.3; II. 1959.3. Sostitwit: XVII. 1977.2. Emendat: XX. 1977.2; XVI. 1983.4; V. 1985.2; XIX. 1987.2.*
 
 Mħassar bl-Att: XII. 2003.52.
-
-*3*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 ### 6. Reġistru Mediku.
 
@@ -181,10 +175,6 @@ Mħassar bl-Att: XII. 2003.52.
 *Emendat: VIII. 1921.13; VII. 1955.2; II. 1959.8; A.L. 46 tal-1965; XXII. 1968.4; LVIII. 1974.68; A.L. 148 tal-1975; XLIX. 1981.6.*
 
 Mħassar bl-Att: XII. 2003.52.
-
-*5*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 ### 20. Reġistru tal- Ispiżjara.
 
@@ -290,10 +280,6 @@ Mħassar bl-Att: III. 2003.108.
 
 Mħassar bl-Att: III. 2003.108.
 
-*7*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
 ### 37. Sustanzi li jitqiesu velenużi.
 
 *Emendat: VIII. 1921.26; II. 1959.4; A.L. 4 tal-1963.*
@@ -370,11 +356,7 @@ Iżda t-tifsira "jittraffika" f’dan l-artikolu għandu jkollha l-istess tifsir
 
 (2) Kull persuna akkużata b’reat kontra dan l-artikolu għandha titressaq jew quddiem il-Qorti Kriminali jew quddiem il-Qorti tal- Maġistrati (Malta) jew il-Qorti tal-Maġistrati (Għawdex), skont kif jordna l-Avukat Ġenerali, u jekk tinsab ħatja teħel, għal kull reat - (a) meta tinsab ħatja mill-Qorti Kriminali priġunerija għal żmien ta’ mhux inqas minn tnax-il xahar iżda mhux iżjed minn għaxar snin u multa ta’ mhux inqas minn erba’ mija u ħamsa u sittin euro u sebgħa u tmenin ċenteżmu (465.87) iżda mhux iżjed minn tlieta u għoxrin elf mitejn u tlieta u disgħin euro u tlieta u sebgħin ċenteżmu (23,293.73); jew
 
-(b) meta tinsab ħatja mill-Qorti tal-Maġistrati (Malta) jew il-Qorti tal-Maġistrati (Għawdex) priġunerija għal żmien ta’ mhux inqas minn tliet xhur iżda mhux iżjed GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
-minn tnax-il xahar, jew multa ta’ mhux inqas minn erba’ mija u ħamsa u sittin euro u sebgħa u tmenin ċenteżmu (465.87) iżda mhux iżjed minn elfejn tliet mija u disgħa u għoxrin euro u sebgħa u tletin ċenteżmu (2,329.37) jew dik il-priġunerija u multa flimkien.
-
-*9*
+(b) meta tinsab ħatja mill-Qorti tal-Maġistrati (Malta) jew il-Qorti tal-Maġistrati (Għawdex) priġunerija għal żmien ta’ mhux inqas minn tliet xhur iżda mhux iżjed minn tnax-il xahar, jew multa ta’ mhux inqas minn erba’ mija u ħamsa u sittin euro u sebgħa u tmenin ċenteżmu (465.87) iżda mhux iżjed minn elfejn tliet mija u disgħa u għoxrin euro u sebgħa u tletin ċenteżmu (2,329.37) jew dik il-priġunerija u multa flimkien.
 
 *Setgħat tal- Ministru biex jemenda r-Raba’ Skeda. Miżjud: XXIV. 2014.76.*
 
@@ -470,10 +452,6 @@ Mħassar bl-Att: XII. 2003.52.
 
 Mħassar bl-Att: XII. 2003.52.
 
-*11*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
 ### 54. Dmirijiet ta’ qabla.
 
 *Emendat: VIII. 1921.36; XV. 1958; II. 1959.12; A.L. 4 tal-1963; XVIII. 1973.3.*
@@ -566,10 +544,6 @@ Mħassar bl-Att: XII. 2003.52.
 
 Mħassar bl-Att: XII. 2003.52.
 
-*13*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
 ### 70. Id-dentista ma jistax jeżerċita l-farmaċija.
 
 *Miżjud: XXVII. 1937.7. Emendat: A.L. 46 tal-1965; LVIII. 1974.68.*
@@ -643,10 +617,6 @@ Mħassar bl-Att: XII. 2003.52.
 *Miżjud: VIII. 1936.2. Emendat: V. 1948,4; II. 1959.12,23; A.L. 4 tal-1963; XVIII. 1973.3.*
 
 Mħassar bl-Att: XII. 2003.52.
-
-*15*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 ## TAQSIMA VIII — ATTENDENTI TAL-ISPTAR
 
@@ -742,11 +712,7 @@ Mħassar bl-Att: III. 2003.108.
 
 *Miżjud: V. 1985.9.*
 
-(1) Ebda persuna ma għandha tirreklama jew tippermetti jew tħalli li jiġi reklamat b’xi mod ikun li jkun, xi servizz jew kura medika jew tas-saħħa, li ma jkunx servizz provdut mill-Gvern, jew xi servizz jew kura oħra li hi jew li hi deskritta bħala medika, GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
-terapewtika jew ta’ valur jew effett kurattiv, jew b’xi mod ieħor ta’ benefiċċju għas-saħħa, mingħajr l-approvazzjoni tal-Kunsill tas- Saħħa.
-
-*17*
+(1) Ebda persuna ma għandha tirreklama jew tippermetti jew tħalli li jiġi reklamat b’xi mod ikun li jkun, xi servizz jew kura medika jew tas-saħħa, li ma jkunx servizz provdut mill-Gvern, jew xi servizz jew kura oħra li hi jew li hi deskritta bħala medika, terapewtika jew ta’ valur jew effett kurattiv, jew b’xi mod ieħor ta’ benefiċċju għas-saħħa, mingħajr l-approvazzjoni tal-Kunsill tas- Saħħa.
 
 (2) Għall-finijiet tas-subartikolu (1), "kura" tinkludi kull forma ta’ parir dwar il-kura jew tfejjiq ta’ mard jew uġigħ, jew xi parir dwar is-saħħa.
 
@@ -830,10 +796,6 @@ imsemmija għanijiet kemm-il darba ma jkollhiex liċenza valida għal hekk maħr
 
 (2) Kull detentur ta’ liċenza ta’ xi post, stabbiliment jew istituzzjoni li jkollu liċenza taħt l-artikolu 98(1) għandu jżomm għall-wiri, u jżomm f’kull ħin għall-wiri, f’lok fejn jidher sewwa fil-post li jkollu liċenza u fejn tkun faċilment aċċessibbli għall-pubbliku, it-tariffa tad-drittijiet u tal-ħlasijiet li f’dak iż-żmien ikunu japplikaw skont is-subartikolu (1).
 
-*19*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
 ### 101. Esekuzzjoni tad-dispożizzjonijiet ta’ qabel.
 
 *Miżjud: XX. 1977.5. Emendat: XIX. 1987.10.*
@@ -889,10 +851,6 @@ Mħassar bl-Att: XII. 2003.52.
 *Miżjud: II. 1959.29. Emendat: XXII. 1968.30; XVIII. 1973.9; XVI. 1983.2.*
 
 Mħassar bl-Att: XII. 2003.52.
-
-*21*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 ### 110. Taħsir minn reġistru jew lista minħabba mard.
 
@@ -970,10 +928,6 @@ Mħassar bl-Att: XII. 2003.52.
 
 (2) Kull azzjoni neċessarja meħtieġa biex tiġi implimentata d- Deċiżjoni Kwadru tal-Kunsill 2004/757/Ġ AI għandha tiġi implimentata mill-aktar fis possibbli, iżda mhux iktar tard minn sitt (6) xhur wara li jkun daħal fis-seħħ l-att delegat li jemenda l-Anness tal-imsemmija Deċiżjoni, u għandha tinkludi referenza għall-istess Deċiżjoni Kwadru.
 
-*23*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
 ### 119. Pieni għal ċerti reati.
 
 *Miżjud: XX. 1976.9. Emendat: XX. 1977.6; XVI. 1983.2,25; V. 1985.11; XIX. 1987.12; A.L. 407 tal-2007.*
@@ -1026,10 +980,6 @@ Kull persuna li tikser id-dispożizzjonijiet ta’ xi regolamenti magħmula taħ
 
 \*Ara l-artikolu 16 tal-Att V tal-1985.
 
-*25*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
 tkun ħatja ta’ reat kontra dan l-artikolu.
 
 Għall-finijiet tal-paragrafu (e) l-espressjoni "resident permanenti" tfisser persuna li favur tagħha jkun inħareġ permess ta’ residenza skont id-dispożizzjonijiet li jinsabu fl-artikolu 7 tal- Att dwar l-Immigrazzjoni.
@@ -1076,11 +1026,7 @@ prosekuzzjoni ġġib prova li l-imputat jew akkużat ma jkun ta ebda spjegazzjon
 
 (a) meta tinsab ħatja mill-Qorti Kriminali -
 
-(i) meta r-reat ikun il-bejgħ jew traffikar ta’ mediċina msemmija fit-Taqsima A tat-Tielet Skeda li tinsab ma’ din 1-Ordinanza kontra d-dispożizzjonijiet ta’ dan l-artikolu, jew ikun reat taħt is-subartikolu (1)(f), jew ikun reat ta’ pussess ta’ mediċina, kontra d-dispożizzjonijiet ta’ din l-Ordinanza, taħt tali ċirkostanzi li l-qorti tkun sodisfatta li dak il-pussess ma kienx għall-użu esklussiv tal-ħati, jew ikun reat imsemmi fis-subartikoli (1Ċ) jew (1D) jew (1E), GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
-priġunerija għall-għomor:
-
-*27*
+(i) meta r-reat ikun il-bejgħ jew traffikar ta’ mediċina msemmija fit-Taqsima A tat-Tielet Skeda li tinsab ma’ din 1-Ordinanza kontra d-dispożizzjonijiet ta’ dan l-artikolu, jew ikun reat taħt is-subartikolu (1)(f), jew ikun reat ta’ pussess ta’ mediċina, kontra d-dispożizzjonijiet ta’ din l-Ordinanza, taħt tali ċirkostanzi li l-qorti tkun sodisfatta li dak il-pussess ma kienx għall-użu esklussiv tal-ħati, jew ikun reat imsemmi fis-subartikoli (1Ċ) jew (1D) jew (1E), priġunerija għall-għomor:
 
 Iżda:
 
@@ -1113,10 +1059,6 @@ Iżda wkoll, meta persuna tinsab ħatja kif provdut fil-paragrafu (a)(i) jew fil
 (2A bis)Meta persuna tiġi akkużata taħt id-dispożizzjonijiet ta’ dan l-artikolu b’reat imsemmi fis-subartikolu (2A) u dik il-persuna tkun persuna bħalma hemm imsemmi fis-subartikolu (5) jew tkun persuna li jkollha liċenza, permess jew awtorità lilha maħruġa minn awtorità kompetenti fl-eżerċizzju jew f’dak li għandu x’jaqsam mal-eżerċizzju ta’ xi arti, sengħa, sejħa jew xogħol ieħor u r-reat isir f ’post li dwaru jkun hemm liċenza maħruġa skont din l- Ordinanza, taħt l-Ordinanza dwar il-Mediċini Perikolużi, jew skont xi liġi oħra, il-Qorti tista’, mingħajr preġudizzju għal kull ordni oħra li l-Qorti tista’ tagħmel skont id-dispożizzjonijiet ta’ dan l-artikolu, fuq it-talba tal-prosekuzzjoni tagħmel ordni, hawnhekk iżjed ’il quddiem imsejħa ''ordni ta’ sospensjoni'', li biha tissospendi dik il-liċenza, dak il-permess jew dik l-awtorità u d-dispożizzjonijiet tal-artikolu 22B bis (2) u (3) tal-Ordinanza dwar il-Mediċini Perikolużi għandhom ikunu japplikaw mutatis mutandis.
 
 *Kap. 101.*
-
-*29*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 (2B) Meta reat kontra dan l-artikolu li dwaru persuna tkun instabet ħatja jkun jikkonsisti f’reat imsemmi fis-subartikolu (2A) għandhom japplikaw id-dispożizzjonijiet tal-artikolu 22(3A), (3B) u (7) u d-dispożizzjonijiet tal-artikoli 22Ċ, 22D, 28 u 29 tal- Ordinanza dwar il-Mediċini Perikolużi.
 
@@ -1156,13 +1098,9 @@ Iżda meta r-rappreżentanza legali ma tibqax vestita fl-istess persuna, għall-
 
 (4) Kull min jittanta jagħmel reat kontra dan l-artikolu, jew iħajjar jew iġiegħel persuna oħra tagħmel dak ir-reat, jeħel, meta jinsab ħati, mingħajr preġudizzju ta’ kull responsabbiltà oħra, l-istess piena u konfiska daqs li kieku kkommetta reat taħt dan l-artikolu.
 
-(5) Meta r-reat li dwaru persuna tinsab ħatja taħt dan l-artikolu jikkonsisti fl-importazzjoni, manifattura, bejgħ jew traffikar ieħor f’mediċina psikotropika, u dik il-persuna jew ikollha liċenza taħt din l-Ordinanza jew taħt l-Ordinanza dwar il-Mediċini Perikolużi, jew ikollha warrant maħruġ taħt din l-Ordinanza biex teżerċita GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
+(5) Meta r-reat li dwaru persuna tinsab ħatja taħt dan l-artikolu jikkonsisti fl-importazzjoni, manifattura, bejgħ jew traffikar ieħor f’mediċina psikotropika, u dik il-persuna jew ikollha liċenza taħt din l-Ordinanza jew taħt l-Ordinanza dwar il-Mediċini Perikolużi, jew ikollha warrant maħruġ taħt din l-Ordinanza biex teżerċita professjoni, jew xogħol, jew sengħa, jew ir-reat isir f’post li dwaru jkun hemm liċenza taħt din l-Ordinanza jew taħt l-Ordinanza qabel imsemmija, il-qorti għandha, fuq it-talba tal-prosekuzzjoni u b’żieda ma’ kull piena oħra, tordna r-revoka ta’ dik il-liċenza jew ta’ dak il-warrant u malli jkun sar dak l-ordni kull liċenza bħal dik jew warrant bħal dak għandu jieqaf milli jkollu effett għall-finijiet kollha tal-liġi u b’mod partikolari għall-finijiet ta’ din l-Ordinanza u tal-Ordinanza msemmija qabel.
 
 *Kap. 101.*
-
-professjoni, jew xogħol, jew sengħa, jew ir-reat isir f’post li dwaru jkun hemm liċenza taħt din l-Ordinanza jew taħt l-Ordinanza qabel imsemmija, il-qorti għandha, fuq it-talba tal-prosekuzzjoni u b’żieda ma’ kull piena oħra, tordna r-revoka ta’ dik il-liċenza jew ta’ dak il-warrant u malli jkun sar dak l-ordni kull liċenza bħal dik jew warrant bħal dak għandu jieqaf milli jkollu effett għall-finijiet kollha tal-liġi u b’mod partikolari għall-finijiet ta’ din l-Ordinanza u tal-Ordinanza msemmija qabel.
-
-*31*
 
 (6) Meta jirrizulta lill-qorti li l-ħati, li ma jkunx persuna li tkun instabet ħatja ta’ reat kif imsemmi fis-subartikolu (2)(a)(i) jew (b)(i), ikun jinħtieġ kura u għajnuna għar-rijabilitazzjoni tiegħu mid-dipendenza fuq xi mediċina msemmija fit-Tielet Skeda l-qorti tista’, minflok ma tapplika xi waħda mill-pieni provduti fis-subartikoli ta’ qabel dan, tqiegħed lill-ħati fuq probation skont id-dispożizzjonijiet tal-Att dwar il-Probation, hekk iżda li dak l-ordni ta’ probation jista’ jsir minkejja li l-ħati, li jkun għalaq l-età ta’ erbatax-il sena, ma jkunx wera r-rieda tiegħu li jħares il-ħtiġiet tal-ordni kif provdut fl-artikolu 7 ta’ dak l-Att.
 
@@ -1226,10 +1164,6 @@ l-Avukat Ġenerali jista’ jitlob lill-Qorti Kriminali għal ordni ta’ invest
 
 *Kap. 9.*
 
-*33*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
 ### 120D. Setgħat ta’ investigazzjoni dwar reati fil-kompetenza ta’ qrati barra minn Malta.
 
 *Miżjud: II. 1998.5. Emendat: XXXI. 2007.31.*
@@ -1292,10 +1226,6 @@ Kull persuna li ma tħallix lil xi persuna oħra tagħmel dak li hi meħtieġa j
 
 (2) Meta r-reat li bih persuna tkun akkużata jkun dak ta’ pussess ta’, jew bejgħ jew traffikar ta’, mediċina kontra d-dispożizzjonijiet ta’ din l-Ordinanza l-akkuzat ma jkunx jista’ jiddefendi ruħu billi jipprova illi huwa ħaseb li kellu fil-pussess tiegħu, jew li kien qed ibiegħ jew jittraffika, xi ħaġa li ma kenitx il-mediċina msemmija fl-akkuża jekk il-pussess ta’, jew il-bejgħ jew traffikar ta’, dik il-ħaġa oħra kien ikun, fiċ-ċirkostanzi, bi ksur ta’ xi dispożizzjoni oħra ta’ din l-Ordinanza jew ta’ xi liġi oħra.
 
-*35*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
 ### 121B. Dikjarazzjoni tista’ tinġieb bħala prova.
 
 *Miżjud: II. 1998.6. Kap. 9.*
@@ -1355,10 +1285,6 @@ Minkejja d-dispożizzjonijiet tal-Kodiċi Kriminali, l- Avukat Ġenerali dejjem 
 *Miżjud: II. 1959.30. Emendat: V. 1985.13.*
 
 Mħassar bl-Att: XII. 2003.52.
-
-*37*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 *Miżjuda: XVI. 1983.27.*
 
@@ -1424,29 +1350,21 @@ KAP. 31.] GĦANDHOM X’JAQSMU MAGĦHA
 
 Data
 
-...................................... Isem u Indirizz GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
-## IT-TIENI SKEDA
-
-*Miżjuda: XXII. 1957.11.*
-
-*39*
+...................................... Isem u Indirizz IT-TIENI SKEDA
 
 *Emendata: XVI. 1983.6. Sostitwita: V. 1985.14. Emendata: A.L. 426 tal-2012.*
 
 (Artikolu 7)
 
+*Miżjuda: XXII. 1957.11.*
+
 **ĊERTIFIKAT TAL-MEWT U KAWŻA TAL-MEWT**
 
-### 1.
-
-Isem u kunjom ....................................................................... 2. Età u sess ................
+\1. Isem u kunjom ....................................................................... 2. Età u sess ................
 
 Nru. ta’ dokument ta’ identifikazzjoni legalment validu ......... (jekk il-persuna mejta kellha dokument ta’ identifikazzjoni legalment validu)
 
-### 3.
-
-Post tat-twelid ....................................................................... 4. Residenza .............................................................................. .............................................................................................. 5. Professjoni, sengħa jew stat ieħor .......................................... 6. Isem u kunjom il-ġenituri u jekk humiex ħajjin jew mejtin .............................................................................................. .............................................................................................. 7. Jekk hux għażeb jew xebba, miżżewweġ jew miżżewga, armel jew armla, u fl-aħħar żewġ każijiet isem u kunjom martu jew żewġħa .................................................................................. 8. Siegħa, jum, xahar u sena tal-mewt ........................................ 9. Post fejn ġrat il-mewt ............................................................ \*10. Kawża tal-mewt:
+\3. Post tat-twelid ....................................................................... 4. Residenza .............................................................................. .............................................................................................. 5. Professjoni, sengħa jew stat ieħor .......................................... 6. Isem u kunjom il-ġenituri u jekk humiex ħajjin jew mejtin .............................................................................................. .............................................................................................. 7. Jekk hux għażeb jew xebba, miżżewweġ jew miżżewga, armel jew armla, u fl-aħħar żewġ każijiet isem u kunjom martu jew żewġħa .................................................................................. 8. Siegħa, jum, xahar u sena tal-mewt ........................................ 9. Post fejn ġrat il-mewt ............................................................ \*10. Kawża tal-mewt:
 
 Żmien li bejn wieħed u ieħor għadda mill- I
 
@@ -1504,9 +1422,7 @@ mal-marda jew maċ-
 
 kkaġunawha.
 
-### 11.
-
-Post tad-difna ........................................................................ 12. Firma tat-Tabib ..................................................................... Data ...................................................................................... Isem f’Ittri Kapitali ............................................................... Indirizz .................................................................................
+\11. Post tad-difna ........................................................................ 12. Firma tat-Tabib ..................................................................... Data ...................................................................................... Isem f’Ittri Kapitali ............................................................... Indirizz .................................................................................
 
 LILL-UFFIĊJAL TAL-PULIZIJA INKARIGAT MILL-ATTI TAL- MEWT FI
 
@@ -1525,10 +1441,6 @@ Jekk ikun maħsub li ma kien hemm ebda ċirkostanza ta’ qabel kif imfisser haw
 F’ebda każ ma għandu jitniżżel fit-Taqsima II il-bidu tas-sensiela ta’ ġrajja ta’ mard minħabba nuqqas ta’ wisa’ għalih fit- Taqsima I.
 
 II. Kull ċirkostanza oħra li, għalkemm mhux magħduda fis-sensiela tat-Taqsima I, tidher li setgħet għenet b’xi mod għal konsegwenza ta’ mewt.
-
-*41*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 ## IT-TIELET SKEDA
 
@@ -1682,11 +1594,7 @@ methoxyphenyl)methyl]ethanamine 25C-NBOMe (2C-C-NBOMe) 2-(4-chloro-2,5-dimethoxy
 
 methoxyphenyl)methyl]ethanamine
 
-3,4-methylenedioxypyrovalerone (RS)-1-(Benzo[d][1,3]dioxol-5-yl)-2- GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
-(MDPV) (pyrrolidin-1-yl)pentan-1-one
-
-*43*
+3,4-methylenedioxypyrovalerone (RS)-1-(Benzo[d][1,3]dioxol-5-yl)-2- (MDPV) (pyrrolidin-1-yl)pentan-1-one
 
 Methylone (beta-keto-MDMA) (±)-2-Methylamino-1-(3,4-
 
@@ -1793,10 +1701,6 @@ THCB, 3-butyl-6,6,9-trimethyl-6a,7,8,10a- Tetrahydrocannabutol, Delta-9- tetrahy
 THCB, Delta-9-THC-C4, 3-butyl-6,6,9-trimethyl-6a,7,8,10a-
 
 **Delta-9-THC-butyl tetrahydrobenzo[c]chromen-1-ol**
-
-*45*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 9-OH-HHC, 9- 6,6,9-trimethyl-3-pentyl-6a,7,8,9,10,10a- Hydroxyhexahydrocannabinol, hexahydro-6H-benzo[c]chromene-1,9-diol;
 
@@ -1913,10 +1817,6 @@ KETAMINE (±)-2-(2-Chlorophenyl)-2-
 methylaminocyclohexanone
 
 LEVAMPHETAMINE 1-a-methylphenethylamine
-
-*47*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 LEVOMETHAMPHETAMINE 1-N,a-dimethylphenethylamine
 
@@ -2058,11 +1958,7 @@ AB-FUBINACA (jew FUB-AMB) N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl
 
 methylbutanoate
 
-5F-MDMB-PICA (jew 5F-MDMB-2201) methyl 2-{[1-(5-fluoropentyl)- GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
-
-1H-indole-3-carbonyl]amino}-3,3-dimethylbutanoate
-
-*49*
+5F-MDMB-PICA (jew 5F-MDMB-2201) methyl 2-{[1-(5-fluoropentyl)- 1H-indole-3-carbonyl]amino}-3,3-dimethylbutanoate
 
 4F-MDMB-BINACA (jew 4F-MDMB-BUTINACA) methyl 2-{[1-(4-fluoro-butyl)-1H-indazole-3-carbonyl]amino}-3,3-dimethylbutanoate
 
@@ -2147,10 +2043,6 @@ Ir-rwol sinjifikanti fit-twettiq tar-reat jista’ jiġi indikat b’li ġej: �
 • li l-akkużat involva oħrajn fl-operazzjoni kemm billi eżerċita pressjoni kif ukoll influwenzahom jew b’intimidazzjoni jew b’offerta ta’ kumpens;
 
 • li l-akkużat kien motivat bill-prospett ta’ gwadann finanzjarju jew vantaġġ ieħor, irrispettivament jekk l-akkużat kienx qed jaġixxi waħdu jew ma’ oħrajn;
-
-*51*
-
-GĦANDHOM X’JAQSMU MAGĦHA [KAP. 31.
 
 • li l-akkużat deher li kien jaf u li fehem il-kobor tal-operazzjoni;
 

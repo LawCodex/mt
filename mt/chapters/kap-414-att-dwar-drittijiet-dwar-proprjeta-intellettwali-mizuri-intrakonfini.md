@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Drittijiet dwar Proprjetà Intellettwali (Miżuri Intrakonfini) (Cap. 414)
 
-*1*
-
-INTELLETTWALI (MIŻURI INTRAKONFINI) [KAP. 414.
-
 **KAPITOLU 414**
 
 **ATT DWAR DRITTIJIET DWAR PROPRJETÀ**
@@ -83,10 +79,6 @@ Id-dħul ġewwa Malta, l-esportazzjoni jew ir-ri-esportazzjoni għal ċirkolazzj
 
 (i) deskrizzjoni dettaljata biżżejjed tal-oġġetti sabiex l-awtoritajiet tad-Dwana jkunu jistgħu jagħrfuhom; u
 
-*3*
-
-INTELLETTWALI (MIŻURI INTRAKONFINI) [KAP. 414.
-
 (ii) prova li l-applikant ikun id-detentur ta’ dritt għall-oġġetti involuti u li prima facie l-oġġetti jkunu jikkontravvjenu dak id-dritt.
 
 (3) Il-prova meħtieġa għall-iskop tas-subartikolu (2) tista’ tkun kif ġej:
@@ -149,11 +141,9 @@ responsabbli li jkopri l-ispejjeż amministrattivi li jsiru fl-implimentazzjoni 
 
 ## 6. Azzjoni ex officio.
 
-Meta, filwaqt li jkunu qed isiru skrutinji taħt xi waħda INTELLETTWALI (MIŻURI INTRAKONFINI) [KAP. 414. mill-proċeduri doganali msemmija fl-artikolu 4 u qabel ma ssir jew tiġi approvata applikazzjoni mid-detentur ta’ dritt, jkun jidher b’mod prima facie ċar lill-Kontrollur tad-Dwana li l-oġġetti jkunu oġġetti li jikkontravvjenu dritt ta’ proprjetà intellettwali, il- Kontrollur tad-Dwana jista’ javża lid-detentur ta’ dritt, meta dan ikun magħruf, li jista’ jkun qed issir kontravvenzjoni ta’ dak id-dritt.
+Meta, filwaqt li jkunu qed isiru skrutinji taħt xi waħda mill-proċeduri doganali msemmija fl-artikolu 4 u qabel ma ssir jew tiġi approvata applikazzjoni mid-detentur ta’ dritt, jkun jidher b’mod prima facie ċar lill-Kontrollur tad-Dwana li l-oġġetti jkunu oġġetti li jikkontravvjenu dritt ta’ proprjetà intellettwali, il- Kontrollur tad-Dwana jista’ javża lid-detentur ta’ dritt, meta dan ikun magħruf, li jista’ jkun qed issir kontravvenzjoni ta’ dak id-dritt.
 
 Il-Kontrollur tad-Dwana jista’ jissospendi r-rilaxx tal-oġġetti jew iżommhom għal perijodu ta’ ħamest ijiem tax-xogħol sabiex id-detentur tad-dritt ikun jista’ jagħmel applikazzjoni għal azzjoni skont l-artikolu 5.
-
-*5*
 
 ## 7. Kondizzjonijiet li jirregolaw l-azzjoni tal- Kontrollur tad- Dwana.
 
@@ -195,9 +185,7 @@ Iżda dak il-perijodu jista’ jittawwal sa massimu ta’ tletin jum fid-diskrez
 
 (b) tieħu, jew tordna lill-Kontrollur tad-Dwana li jieħu dwar dawk l-oġġetti, kull miżura oħra li jkollha l-effett li effettivament iċċaħħad lill-persuni involuti mill-benefiċċji ekonomiċi tat-transazzjoni.
 
-*7*
-
-INTELLETTWALI (MIŻURI INTRAKONFINI) [KAP. 414. Salv f’każijiet eċċezzjonali, it-tneħħija sempliċi tat-trade marks, li jkunu twaħħlumal-oġġetti falsifikati mingħajr awtorizzazzjoni, ma għandhomx jitqiesu bħala li jkollhom dak l-effett:
+Salv f’każijiet eċċezzjonali, it-tneħħija sempliċi tat-trade marks, li jkunu twaħħlumal-oġġetti falsifikati mingħajr awtorizzazzjoni, ma għandhomx jitqiesu bħala li jkollhom dak l-effett:
 
 Iżda fl-ordnar ta’ miżuri li għandhom jittieħdu taħt dan l-artikolu, il-Qorti għandha tqis kif dovut, il-ħtieġa għal proporzjonalità bejn il-gravità tal-kontravvenzjoni u r-rimedji li jkunu ordnati kif ukoll l-interessi ta’ terzi.
 

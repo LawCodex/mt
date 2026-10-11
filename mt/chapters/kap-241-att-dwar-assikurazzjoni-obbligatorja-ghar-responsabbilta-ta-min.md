@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Assikurazzjoni Obbligatorja għar-Responsabbiltà ta' Min Iħaddem (Cap. 241)
 
-ASSIKURAZZJONI OBBLIGATORJA
-
-*1*
-
-GĦAR-RESPONSABBILTÀ TA’ MIN IĦADDEM [KAP. 241.
-
 **KAPITOLU 241**
 
 **ATT DWAR ASSIKURAZZJONI OBBLIGATORJA**

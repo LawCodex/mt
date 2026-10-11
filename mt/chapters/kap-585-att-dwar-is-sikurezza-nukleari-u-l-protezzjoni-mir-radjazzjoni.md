@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar is-Sikurezza Nukleari u l-Protezzjoni mir-Radjazzjoni (Cap. 585)
 
-*1*
-
-L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585.
-
 **KAPITOLU 585**
 
 **ATT DWAR IS-SIKUREZZA NUKLEARI U L-**
@@ -54,12 +50,6 @@ Traffikar Illeċitu  56 - 60
 Taqsima XV  Dispożizzjonijiet Finanzjarji  61  
 Taqsima XVI  Dispożizzjonijiet Finali  62 - 64
 
-*2*
-
-[KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-## Taqsima I - Preliminari
-
 ### 1. Titolu fil-qosor.
 
 It-titolu fil-qosor ta’ dan l-Att hu l-Att dwar is-Sikurezza Nukleari u l-Protezzjoni mir-Radjazzjoni.
@@ -88,13 +78,11 @@ It-titolu fil-qosor ta’ dan l-Att hu l-Att dwar is-Sikurezza Nukleari u l-Prot
 
 Iżda dan l-Att ma għandux japplika għal attivitajiet jew prattiki li jinvolvu esponimenti li ġew esklużi mill-kontroll regolatorju.
 
-(3) Mingħajr preġudizzju għall-ġeneralità ta’ dan l-artikolu l-għan ta’ dan l-Att huwa wkoll li jiġu introdotti miżuri preventivi u L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. protettivi ta’ kontroll għall-esponiment detrimentali tal-bniedem għal radjazzjoni mhux jonizzanti kontra effetti bijoloġiċi magħrufa jew inkella antiċipati li għandhom effetti detrimentali mentali, fiżiċi u, jew għall benesseri ġenerali tan-nies esposti, kemm f’perjodu qasir jew fit-tul minn kwalunkwe faċilità jew apparat li jarmu dawn ir-raġġi.
+(3) Mingħajr preġudizzju għall-ġeneralità ta’ dan l-artikolu l-għan ta’ dan l-Att huwa wkoll li jiġu introdotti miżuri preventivi u protettivi ta’ kontroll għall-esponiment detrimentali tal-bniedem għal radjazzjoni mhux jonizzanti kontra effetti bijoloġiċi magħrufa jew inkella antiċipati li għandhom effetti detrimentali mentali, fiżiċi u, jew għall benesseri ġenerali tan-nies esposti, kemm f’perjodu qasir jew fit-tul minn kwalunkwe faċilità jew apparat li jarmu dawn ir-raġġi.
 
 ### 3. Tifsir.
 
 F’dan l-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
-
-*3*
 
 "applikant" tfisser persuna fiżika jew ġuridika li tapplika lis- Segretarjat billi tippreżenta applikazzjoni għall-għan li tinkiseb l-awtorizzazzjoni biex twettaq attivitajiet speċifiċi b’rabta ma’ dan l- Att;
 
@@ -112,11 +100,7 @@ F’dan l-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "dekummissjonar" tfisser il-passi kollha li jwasslu għall-ħelsien ta’ faċilità, għajr faċilità tar-rimi, mill-kontroll regolatorju għajr li jikkonferma l-istat mhux kummissjonat tal-faċilità. Dawn il-passi jinkludu l-proċessi ta’ dekontaminazzjoni u ż-żarmar;
 
-"detentur ta’ liċenzja" tfisser id-detentur ta’ liċenzja kurrenti mogħtija għal attività jew prattika li jkollu drittijiet u dmirijiet [KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-*4*
-
-rikonoxxuti għall-attività jew prattika, partikolarment fir-rigward tas-sikurezza u s-sigurtà;
+"detentur ta’ liċenzja" tfisser id-detentur ta’ liċenzja kurrenti mogħtija għal attività jew prattika li jkollu drittijiet u dmirijiet sikurezza u s-sigurtà;
 
 "doża effettiva" tfisser is-somma tad-dożi ekwivalenti ppeżati mir-radjazzjoni jonizzanti fit-tessuti u organi tal-ġisem kollha mill-esponiment intern u estern;
 
@@ -140,11 +124,9 @@ rikonoxxuti għall-attività jew prattika, partikolarment fir-rigward tas-sikure
 
 "eżenzjoni" tfisser id-determinazzjoni mill-Kummissjoni li sors jew prattika m’għandhomx għalfejn ikunu soġġetti għal xi wħud jew l-aspetti kollha tal-kontroll regolatorju fuq il-bażi li l-esponiment u l-esponiment potenzjali minħabba s-sors jew il-prattika hi żgħira wisq sabiex tiġġustifika l-applikazzjoni ta’ dawk l-aspetti tagħha jew li din hija l-aħjar għażla għal protezzjoni irrispettivament mil-livell attwali tad-dożi jew riskji kif speċifikat f’dan l-Att;
 
-"faċilità nukleari" tfisser kwalunkwe faċilità fejn l-attivitajiet jew prattiki li jutilizzaw materjal nukleari huma kondotti, inkluż L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. impjant nukleari ta’ enerġija, reattur tar-riċerka, tal-impjanti tal-fabbrikazzjoni tal-karburanti, faċilità ta’ ħażna għall-fjuwil użat, impjant ta’ arrikkament, faċilità ta’ proċessar mill-ġdid jew kwalunkwe faċilità oħra determinati mill-Kummissjoni. Għall-finijiet tal-applikazzjoni tas-salvagwardji tal-Aġenzija Internazzjonali għall- Enerġija Atomika, tfisser faċilità kif imfisser fil-Ftehim ta’ Salvagwardji rilevanti bejn Malta u l-Aġenzija Internazzjonali għall- Enerġija Atomika;
+"faċilità nukleari" tfisser kwalunkwe faċilità fejn l-attivitajiet jew prattiki li jutilizzaw materjal nukleari huma kondotti, inkluż impjant nukleari ta’ enerġija, reattur tar-riċerka, tal-impjanti tal-fabbrikazzjoni tal-karburanti, faċilità ta’ ħażna għall-fjuwil użat, impjant ta’ arrikkament, faċilità ta’ proċessar mill-ġdid jew kwalunkwe faċilità oħra determinati mill-Kummissjoni. Għall-finijiet tal-applikazzjoni tas-salvagwardji tal-Aġenzija Internazzjonali għall- Enerġija Atomika, tfisser faċilità kif imfisser fil-Ftehim ta’ Salvagwardji rilevanti bejn Malta u l-Aġenzija Internazzjonali għall- Enerġija Atomika;
 
 "faċilitajiet" tfisser kull stallazzjoni li jkollha sors ta’ radjazzjoni jonizzanti jew mhux jonizzanti;
-
-*5*
 
 "fjuwil użat" tfisser fjuwil nukleari li ġie rradjat fi u mneħħi b’mod permanenti mill-qalba tar-reattur;
 
@@ -160,11 +142,7 @@ rikonoxxuti għall-attività jew prattika, partikolarment fir-rigward tas-sikure
 
 (b) ħsara minħabba mewt, korriment fiżiku, jew ksur ieħor għas-saħħa umana, telf jew ħsara lill-proprjetà, li jseħħu jew li jkunu konsegwenza ta’ radjazzjoni jonizzanti oħra li toriġina minn kwalunkwe sors ta’ radjazzjoni ieħor fil-faċilità nukleari;
 
-*6*
-
-[KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-"impriża" tfisser persuna fiżika jew ġuridika li għandha r-responsabbiltà legali taħt il-liġi nazzjonali għat-twettiq ta’ prattika, jew għal radjazzjoni, sew jekk jonizzanti, jew sors mhux jonizzanti (inklużi każijiet fejn is-sid jew id-detentur ta’ sors ta’ radjazzjoni ma jwettaqx attivitajiet umani relatati);
+responsabbiltà legali taħt il-liġi nazzjonali għat-twettiq ta’ prattika, jew għal radjazzjoni, sew jekk jonizzanti, jew sors mhux jonizzanti (inklużi każijiet fejn is-sid jew id-detentur ta’ sors ta’ radjazzjoni ma jwettaqx attivitajiet umani relatati);
 
 "inċident" tfisser kull okkorrenza mhux maħsuba, inklużi żbalji ta’ tħaddim, ħsarat fl-apparat u inċidenti oħra, fejn il-konsegwenzi jew il-konsegwenzi potenzjali tagħhom ma jkunux negliġibbli mill-aspett ta’ protezzjoni jew sigurtà mir-radjazzjoni;
 
@@ -188,9 +166,7 @@ rikonoxxuti għall-attività jew prattika, partikolarment fir-rigward tas-sikure
 
 "liċenzja" tfisser dokument legali maħruġ mis-Segretarjat sabiex jagħti awtorizzazzjoni biex jitwettqu attivitajiet speċifiċi relatati ma’ faċilità jew attività;
 
-*7*
-
-L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. "livell ta’ eżenzjoni" tfisser valur, stabbilit mill-Kummissjoni u espress f’termini ta’ konċentrazzjoni tal-attività, attività totali li fil-limitu jew inqas tiegħu sors ta’ radjazzjoni jonizzanti m’għandux għalfejn ikun soġġett għal notifika jew awtorizzazzjoni;
+"livell ta’ eżenzjoni" tfisser valur, stabbilit mill-Kummissjoni u espress f’termini ta’ konċentrazzjoni tal-attività, attività totali li fil-limitu jew inqas tiegħu sors ta’ radjazzjoni jonizzanti m’għandux għalfejn ikun soġġett għal notifika jew awtorizzazzjoni;
 
 "livell ta’ permess" tfisser valur, stabbilit mill-Kummissjoni u espress f’termini ta’ konċentrazzjoni tal-attività, li fil-limitu tagħha jew inqas il-kontroll regolatorju jista’ jitneħħa minn sors ta’ radjazzjoni fi prattika notifikata jew awtorizzata;
 
@@ -214,11 +190,7 @@ L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. "livell ta’ eżenzjoni" tfisser valur
 
 "Ministru" tfisser il-Ministru responsabbli għall-kwistjonijiet relatati ma’ u inċidentali għal dan l-Att u dak il-Ministru m’għandux ikollu taħt ir-responsabbiltà tiegħu xi forma ta’ faċilità ta’ jew sors ta’ radjazzjoni jonizzanti jew mhux jonizzanti;
 
-*8*
-
-[KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-"notifika" tfisser dokument sottomess lis-Segretarjat minn impriża li jinnotifika l-intenzjoni sabiex titwettaq prattika jew użu ieħor ta’ sors;
+impriża li jinnotifika l-intenzjoni sabiex titwettaq prattika jew użu ieħor ta’ sors;
 
 "permess" tfisser it-tneħħija tal-kontroll regolatorju mis- Segretarjat wara konsultazzjoni mal-Kummissjoni minn materjal radjuattiv jew oġġetti radjuattivi taħt prattiċi notifikati jew awtorizzati;
 
@@ -242,9 +214,7 @@ L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. "livell ta’ eżenzjoni" tfisser valur
 
 "reġistrazzjoni" tfisser forma ta’ awtorizzazzjoni għal prattiki ta’ riskju baxx, permezz ta’ proċedura simplifikata biex titwettaq prattika;
 
-*9*
-
-L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. "rimi" tfisser it-tqegħid ta’ skart radjuattiv f’faċilità xierqa mingħajr l-intenzjoni li jiġi rkuprat;
+"rimi" tfisser it-tqegħid ta’ skart radjuattiv f’faċilità xierqa mingħajr l-intenzjoni li jiġi rkuprat;
 
 "Segretarjat" tfisser is-Segretarjat tal-Kummissjoni kif stabbilit bl-artikolu 12;
 
@@ -270,11 +240,7 @@ L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. "rimi" tfisser it-tqegħid ta’ skart 
 
 "tagħmir" ifisser prodott manifatturat li jipproduċi radjazzjoni jonizzanti jew mhux jonizzanti;
 
-*10*
-
-[KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-"trasport" tfisser l-operazzjonijiet kollha u kondizzjonijiet assoċjati ma’ u involuti fil-moviment ta’ materjal nukleari jew materjal radjuattiv ieħor. Dan jinkludi d-disinn, manifattura, manutenzjoni u tiswija tal-ippakkjar, u t-tħejjija, kunsinna, it-tagħbija, trasport inkluż ħażna fi tranżitu, ħatt u l-wasla fid-destinazzjoni finali ta’ tagħbijiet u pakketti ta’ materjal bħal dan;
+assoċjati ma’ u involuti fil-moviment ta’ materjal nukleari jew materjal radjuattiv ieħor. Dan jinkludi d-disinn, manifattura, manutenzjoni u tiswija tal-ippakkjar, u t-tħejjija, kunsinna, it-tagħbija, trasport inkluż ħażna fi tranżitu, ħatt u l-wasla fid-destinazzjoni finali ta’ tagħbijiet u pakketti ta’ materjal bħal dan;
 
 "Tribunal" tfisser it-Tribunal tal-Appell kif imsemmi fl-artikolu 14;
 
@@ -296,11 +262,9 @@ L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. "rimi" tfisser it-tqegħid ta’ skart 
 
 (2) Dan l-Att għandu japplika għal materjal nukleari użat għal skopijiet paċifiċi waqt trasport internazzjonali, u kif applikabbli għall-użu domestiku, ħażna u trasport.
 
-(3) Dan l-Att għandu japplika wkoll għal attivitajiet ta’ L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. xogħol li mhumiex koperti bis-subartikolu (1) iżda li jinvolvu l-preżenza ta’ sorsi ta’ radjazzjoni naturali u jistgħu jwasslu għal żieda sinifikanti fl-esponiment tal-ħaddiema jew membri tal-pubbliku li ma jistgħax jiġi injorat mil-lat tal-protezzjoni mir-radjazzjoni.
+(3) Dan l-Att għandu japplika wkoll għal attivitajiet ta’ xogħol li mhumiex koperti bis-subartikolu (1) iżda li jinvolvu l-preżenza ta’ sorsi ta’ radjazzjoni naturali u jistgħu jwasslu għal żieda sinifikanti fl-esponiment tal-ħaddiema jew membri tal-pubbliku li ma jistgħax jiġi injorat mil-lat tal-protezzjoni mir-radjazzjoni.
 
 (4) Mingħajr preġudizzju għad-dispożizzjonijiet l-oħra ta’ dan l-artikolu, dan l-Att għandu japplikaw ukoll għal kwalunkwe intervent f’każijiet ta’ emerġenzi radjoloġiċi jew f’każijiet ta’ esponiment dejjiemi li jirriżulta mill-effetti ta’ wara ta’ emerġenza radjoloġika jew prattika tal-passat jew qadima jew attività ta’ xogħol qadima.
-
-*11*
 
 (5) Mingħajr preġudizzju għall-ġeneralità ta’ dan l-artikolu u d-dispożizzjonijiet ta’ dan l-Att u kull regolament magħmul taħtu, dan l-Att għandu japplika għal kull faċilità jew makkinarju li minnhom toħroġ radjazzjoni mhux jonizzanti li l-Kummissjoni tispeċifika:
 
@@ -322,11 +286,7 @@ Taqsima II - Prinċipji Ġenerali ta’ Protezzjoni kontra Radjazzjoni
 
 Iżda r-responsabbiltà ewlenija għas-sikurezza u s-sigurtà hija tad-detentur tal-liċenzja. Dik ir-responsabbiltà ma tistax tiġi ddelegata u tinkludi r-responsabbiltà għall-attivitajiet tal-kuntratturi u appaltaturi li l-attivitajiet tagħhom jistgħu jaffettwaw is-sikurezza u s-sigurtà.
 
-*12*
-
-[KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-(2) L-impriżi għandhom jippromwovu kemm kultura ta’ sikurezza kif ukoll kultura ta’ sigurtà fi ħdan l-organizzazzjoni tagħhom.
+sikurezza kif ukoll kultura ta’ sigurtà fi ħdan l-organizzazzjoni tagħhom.
 
 ### 6. Ġustifikazzjoni.
 
@@ -360,9 +320,7 @@ Approċċ iggradat għandu jiġi applikat mill- Kummissjoni u s-Segretarjat fit-
 
 (ċ) taġixxi bħala korp ta’ reviżjoni ġenerali tas- Segretarjat;
 
-*13*
-
-L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. (d) tipprovdi pariri lis-Segretarjat meta meħtieġa dwar l-interpretazzjoni tad-dispożizzjoni rilevanti f’dan l-Att;
+(d) tipprovdi pariri lis-Segretarjat meta meħtieġa dwar l-interpretazzjoni tad-dispożizzjoni rilevanti f’dan l-Att;
 
 (e) tkun il-korp nazzjonali li jagħti effett lil kull deċiżjoni tal-Kunsill tas-Sigurtà tan-NU jew l- Aġenzija Internazzjonali għall-Enerġija Atomika, il-Kummissjoni Ewropea jew entità jew awtorità kompetenti rikonoxxuta internazzjonalment fil-qasam tas-sikurezza nukleari u protezzjoni mir-radjazzjoni fejn hekk ordnat mill-Ministru;
 
@@ -378,11 +336,7 @@ Iżda l-Kummissjoni tista’ taħtar għal dan l-iskop, kumitati jew sottokumita
 
 (4) Il-Kummissjoni għandha tikkonsisti minn Chairperson Mhux Eżekuttiv, Viċi Chairperson, u mhux aktar minn disa’ membri.
 
-(5) Il-Ministru għandu jaħtar il-membri, bħala membri [KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-*14*
-
-esperti fil-Kummissjoni, għal perjodu ta’ tliet snin u dak il-perjodu jista’ jiġi estiż għal perjodi oħra ta’ tliet snin kull wieħed. Il- Kummissjoni għandha tkun magħmula kif ġej:
+(5) Il-Ministru għandu jaħtar il-membri, bħala membri jista’ jiġi estiż għal perjodi oħra ta’ tliet snin kull wieħed. Il- Kummissjoni għandha tkun magħmula kif ġej:
 
 (a) membru wieħed fir-rigward ta’ kwistjonijiet ta’ saħħa u sikurezza okkupazzjonali;
 
@@ -410,13 +364,11 @@ Is-Segretarju Eżekuttiv għandu jattendi għal-laqgħat kollha tal-Kummissjoni,
 
 (6) Iċ-Chairperson u l-Viċi Chairperson għandhom jinħatru mill-Ministru għal perjodu ta’ tliet snin u dak il-perjodu jista’ jiġi estiż għal perjodi oħra ta’ tliet snin kull wieħed:
 
-Iżda meta ċ-Chairperson ikun assenti minn Malta jew ma jkunx temporanjament mod ieħor jista’ jaqdi l-funzjonijiet ta’ dik L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. il-kariga, il-Viċi Chairperson għandu jassumi kull dover u l-funzjonijiet taċ-Chairperson.
+Iżda meta ċ-Chairperson ikun assenti minn Malta jew ma jkunx temporanjament mod ieħor jista’ jaqdi l-funzjonijiet ta’ dik il-kariga, il-Viċi Chairperson għandu jassumi kull dover u l-funzjonijiet taċ-Chairperson.
 
 ### 11. Tmexxija tal-affarijiet tal- Kummissjoni.
 
 (1) Bla ħsara għad-dispożizzjonijiet l-oħra ta’ dan l- Att, l-affarijiet u x-xogħol tal-Kummissjoni għandhom ikunu ir-responsabbiltà tal-Kummissjoni nnifisha imma, għajr kif imsemmi qabel, l-aġir tal-Kummissjoni, l-amministrazzjoni u l-organizzazzjoni tagħha għandhom ikunu r-responsabbiltà taċ-Chairperson tal- Kummissjoni, li jkollu dawk is-setgħat l-oħra li jistgħu minn żmien għal żmien jiġu ddelegati mill-Kummissjoni.
-
-*15*
 
 (2) Iċ-Chairperson għandu jattendi l-laqgħat kollha tal- Kummissjoni u għandu jkollu l-vot deċiżiv f’dawn il-laqgħat.
 
@@ -433,12 +385,6 @@ Iżda meta ċ-Chairperson ikun assenti minn Malta jew ma jkunx temporanjament mo
 (1) Għandu jitwaqqaf is-Segretarjat għall- Kummissjoni, hawn iżjed ’il quddiem imsejjaħ "is-Segretarjat", li għandu jaġixxi bħala l-eżekuttiv tal-awtorità regolatorja fil-qasam tas-sikurezza nukleari u protezzjoni mir-radjazzjoni.
 
 (2) Is-Segretarjat għandu jkollu dawk il-funzjonijiet kif jiddevolvu fuqu taħt xi liġi oħra jew kif jista’ jiġi assenjat bil-miktub mill-Ministru. Fil-każ li regolamenti oħra huma fis-seħħ li jirregolaw l-esponimenti okkupazzjonali, pubbliċi u mediċi, jew protezzjoni ambjentali u s-sigurtà tas-sorsi, li b’xi mod jindirizzaw l-użi tar-radjazzjoni jonizzanti jew radjazzjoni mhux jonizzanti, jew kwalunkwe sustanza oħra li l-użu tagħha jew l-esponiment għaliha huma regolati b’dan l-Att, is-Segretarjat għandu jirrakkomanda lill- Kummissjoni, jekk tikkunsidra meħtieġ, biex tagħmel rakkomandazzjonijiet lill-Ministru għall-allokazzjoni mill-ġdid tar-responsabbiltà regolatorja għas-Segretarjat stess jew lil xi awtorità oħra kif is-Segretarjat, wara konsultazzjoni mal-Kummissjoni, jidhirlu xieraq.
-
-*16*
-
-[KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-(3) Tkun il-funzjoni tas-Segretarjat li:
 
 (a) toħroġ l-awtorizzazzjonijiet u tagħti eżenzjonijiet li jikkonċernaw il-pussess u l-użu ta’ sorsi ta’ radjazzjoni;
 
@@ -458,11 +404,9 @@ Iżda meta ċ-Chairperson ikun assenti minn Malta jew ma jkunx temporanjament mo
 
 (i) twettaq kwalunkwe funzjoni oħra li hi meqjusa meħtieġa mill-Kummissjoni, biex tipproteġi lin-nies u l-ambjent ta’ Malta.
 
-(4) Mingħajr preġudizzju għad-dispożizzjonijiet l-oħra ta’ dan l-Att u ta’ kull regolament magħmul taħtu, is-Segretarjat għandu, wara konsultazzjoni mal-Kummissjoni, jadotta r-regoli ta’ proċedura L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. li għandhom jirregolaw kull stadju tal-operazzjonijiet tiegħu.
+(4) Mingħajr preġudizzju għad-dispożizzjonijiet l-oħra ta’ dan l-Att u ta’ kull regolament magħmul taħtu, is-Segretarjat għandu, wara konsultazzjoni mal-Kummissjoni, jadotta r-regoli ta’ proċedura li għandhom jirregolaw kull stadju tal-operazzjonijiet tiegħu.
 
 (5) Is-Segretarjat għandu jkun responsabbli li jżomm il-proċedimenti msemmija fl-artikolu 12(3) u wkoll reġistru fejn is-sejbiet u d-deċiżjonijiet tas-Segretarjat għandhom jiddaħħlu.
-
-*17*
 
 ### 13. Kompożizzjoni tas-Segretarjat.
 
@@ -488,11 +432,7 @@ Iżda s-Segretarju Eżekuttiv għandu jitqies li jkun uffiċjal, u d-dokument ta
 
 (b) li jitolbu l-assistenza ta’ membru tal-Korp tal- Pulizija fit-twettiq tad-dmirijiet tal-uffiċjal;
 
-(ċ) li jistaqsu, weħidhom jew fil-preżenza ta’ xhieda, inkluża l-persuna, jekk dan ikun il-każ, li ressqet ilment, lil kull min iħaddem jew ħaddiem, inkluża kull persuna li taġixxi għan-nom ta’ xi prinċipal jew li twettaq xogħol għal dak il-prinċipal, dwar [KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-*18*
-
-kwalunkwe waħda mill-kwistjonijiet li jaqgħu taħt dan l-Att jew taħt xi regolamenti magħmulin taħtu;
+(ċ) li jistaqsu, weħidhom jew fil-preżenza ta’ xhieda, inkluża l-persuna, jekk dan ikun il-każ, li ressqet ilment, lil kull min iħaddem jew ħaddiem, inkluża kull persuna li taġixxi għan-nom ta’ xi prinċipal jew li twettaq xogħol għal dak il-prinċipal, dwar dan l-Att jew taħt xi regolamenti magħmulin taħtu;
 
 (d) li jispezzjonaw kull dokument li ż-żamma tiegħu hija meħtieġa b’dan l-Att jew b’xi regolament magħmul taħtu, jew xi ktieb, dokument, disinn, pjanta, jew lista ta’ speċifikazzjonijiet tekniċi li jistgħu jagħtu ħjiel rigward is-sigurtà jonizzanti fuq kwalunkwe prattika jew attività partikolari;
 
@@ -508,11 +448,9 @@ kwalunkwe waħda mill-kwistjonijiet li jaqgħu taħt dan l-Att jew taħt xi rego
 
 (i) ċertifikat iffirmat minn persuni bi kwalifiki xierqa fir-rigward tas-sigurtà tar-radjazzjoni ta’ kwalunkwe bini jew struttura, inkluża kwalunkwe struttura provviżorja;
 
-(ii) ċertifikat iffirmat minn persuni bi kwalifiki xierqa fir-rigward tas-sigurtà tar-radjazzjoni ta’ kwalunkwe tagħmir li jipproduċi L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. radjazzjoni, kif ikun il-każ;
+(ii) ċertifikat iffirmat minn persuni bi kwalifiki xierqa fir-rigward tas-sigurtà tar-radjazzjoni ta’ kwalunkwe tagħmir li jipproduċi radjazzjoni, kif ikun il-każ;
 
 (iii) ċertifikat iffirmat minn tabib relatat mas-sorveljanza medika ta’ kull ħaddiem jew xi klassi ta’ ħaddiema, li għandu jiġi ppreżentat lill-Kummissjoni;
-
-*19*
 
 (iv) kwalunkwe informazzjoni relattiva għall-protezzjoni mir-radjazzjoni, inkluża informazzjoni li tirreferi għal miżuri protettivi;
 
@@ -528,11 +466,7 @@ kwalunkwe waħda mill-kwistjonijiet li jaqgħu taħt dan l-Att jew taħt xi rego
 
 (2) Ħlief kif previst xort’oħra f’dan l-artikolu, it-Tribunal tal-Appelli għandu jikkonsisti minn President tat-Tribunal tal-Appelli u żewġ membri li għandhom jinħatru kif ġej:
 
-(a) il-President tat-Tribunal tal-Appelli għandu jkun wieħed minn panel ta’ persuni maħtura mill- Ministru, li jkunu persuni li jkunu avukati b’tal-anqas seba’ (7) snin esperjenza u dawk il-persuni [KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-*20*
-
-għandhom iservu bħala President jew darba kull wieħed jew skont it-tqassim ta’ dmirijiet, u bla ħsara għal dawk id-dispożizzjonijiet dwar inabbiltà li jservu u ċirkostanzi oħra, kif il-persuni fuq l-imsemmi panel jistgħu jistabbilixxu bl-approvazzjoni tal-Prim Ministru;
+(a) il-President tat-Tribunal tal-Appelli għandu jkun wieħed minn panel ta’ persuni maħtura mill- Ministru, li jkunu persuni li jkunu avukati b’tal-anqas seba’ (7) snin esperjenza u dawk il-persuni wieħed jew skont it-tqassim ta’ dmirijiet, u bla ħsara għal dawk id-dispożizzjonijiet dwar inabbiltà li jservu u ċirkostanzi oħra, kif il-persuni fuq l-imsemmi panel jistgħu jistabbilixxu bl-approvazzjoni tal-Prim Ministru;
 
 (b) il-membri l-oħra tat-Tribunal tal-Appelli għandhom jintgħażlu mill-President tat-Tribunal tal-Appelli minn lista ta’ persuni li la huma avukati u lanqas prokuraturi legali, maħtura mill-Ministru biex iservu bħala membri tal-Tribunal tal-Appelli kif teħtieġ l-okkażjoni.
 
@@ -554,11 +488,9 @@ għandhom iservu bħala President jew darba kull wieħed jew skont it-tqassim ta
 
 (8) It-Tribunal tal-Appelli għandu jkollu d-dritt li jfittex parir ta’ esperti kif jidhirlu xieraq.
 
-(9) Il-Ministru jista’ minn żmien għal żmien ivarja l- L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. kompożizzjoni tal-listi kif previst f’dan l-artikolu, iżda persuna li tkun attwalment qed isservi bħala membru tat-Tribunal tal-Appelli għandha, minkejja t-tneħħija ta’ isimha mill-panel, tkompli taqdi fil-proċedimenti bħala membru sakemm jintemmu dawk il-proċedimenti u għall-finijiet tal-interpretazzjoni ta’ xi deċiżjoni mogħtija fihom:
+(9) Il-Ministru jista’ minn żmien għal żmien ivarja l-kompożizzjoni tal-listi kif previst f’dan l-artikolu, iżda persuna li tkun attwalment qed isservi bħala membru tat-Tribunal tal-Appelli għandha, minkejja t-tneħħija ta’ isimha mill-panel, tkompli taqdi fil-proċedimenti bħala membru sakemm jintemmu dawk il-proċedimenti u għall-finijiet tal-interpretazzjoni ta’ xi deċiżjoni mogħtija fihom:
 
 Iżda fil-każ tal-mewt jew impossibbiltà oħra tat-tali membru li jkompli smigħ bħal dan, persuna oħra għandha tkun surrogata mill-panel eżistenti biex tisma’ l-każ.
-
-*21*
 
 (10) Il-Ministru għandu wkoll jaħtar persuna sabiex taġixxi bħala segretarju tat-Tribunal tal-Appelli.
 
@@ -576,11 +508,7 @@ Iżda s-Segretarjat għandu jiddikjara bil-miktub ir-raġunijiet għaliex hu kku
 
 ### 16. Awtorizzazzjoni
 
-(1) L-ebda attività m’għandha tiġi introdotta, implimentata, tispiċċa jew titwaqqaf, u l-ebda sors m’għandu jkun [KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-*22*
-
-iddisinjat, prodott, mibni jew immuntat, mixtri, importat jew esportat, imqassam, mibjugħ, misluf jew mikri, ippossedut, allokat, imqiegħed fl-operazzjoni, użat jew operat, mantnut jew imsewwi, trasferit, trasportat jew dekommissjonat, żarmat, maħżun jew mormi, jekk mhux konformi mad-dispożizzjonijiet rilevanti dwar is-sikurezza tas-sorsi tar-radjazzjoni u, jew rekwiżiti oħra stabbiliti b’dan l-Att.
+(1) L-ebda attività m’għandha tiġi introdotta, implimentata, tispiċċa jew titwaqqaf, u l-ebda sors m’għandu jkun imqassam, mibjugħ, misluf jew mikri, ippossedut, allokat, imqiegħed fl-operazzjoni, użat jew operat, mantnut jew imsewwi, trasferit, trasportat jew dekommissjonat, żarmat, maħżun jew mormi, jekk mhux konformi mad-dispożizzjonijiet rilevanti dwar is-sikurezza tas-sorsi tar-radjazzjoni u, jew rekwiżiti oħra stabbiliti b’dan l-Att.
 
 (2) Bla ħsara għad-dispożizzjonijiet tas-subartikolu (1), il-projbizzjoni ta’ azzjoni għandha tkun fis-seħħ sa meta l-esponiment għar-radjazzjoni, jew ħruġ ta’ radjazzjoni mhux jonizzanti minn tali operazzjoni jew sors, ikunu esklużi mir-regolament relevanti, jew sakemm is-Segretarjat jeskludi tali operazzjoni jew sors mill-kontroll regolatorju, inklużi talbiet ta’ notifika u ta’ awtorizzazzjoni.
 
@@ -602,11 +530,9 @@ Kull liċenzja jew awtorizzazzjoni maħruġa skont dan l- Att tista’ tiġi sos
 
 ### 19. Infurzar.
 
-(1) Is-Segretarjat għandu jkollu l-awtorità li jwettaq spezzjonijiet imħabbra u mhux imħabbra u li jwettaq kull eżami ieħor L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. li jista’ jkun meħtieġ sabiex tiġi vverifikata l-konformità mad-dispożizzjonijiet ta’ dan l-Att, regolamenti applikabbli u kwalunkwe kundizzjoni applikabbli tal-liċenzji jew awtorizzazzjonijiet.
+(1) Is-Segretarjat għandu jkollu l-awtorità li jwettaq spezzjonijiet imħabbra u mhux imħabbra u li jwettaq kull eżami ieħor li jista’ jkun meħtieġ sabiex tiġi vverifikata l-konformità mad-dispożizzjonijiet ta’ dan l-Att, regolamenti applikabbli u kwalunkwe kundizzjoni applikabbli tal-liċenzji jew awtorizzazzjonijiet.
 
 (2) F’każijiet ta’ periklu immedjat tas-sikurezza jew ta’ sigurtà għall-persuni jew għall-ambjent, is-Segretarjat jista’ jitlob lill-persuna jew entità suġġetta għall-azzjoni ta’ infurzar biex tissospendi l-attivitajiet tagħha, jew partijiet minnhom sakemm is-sitwazzjoni tkun ġiet ikkoreġuta. F’każijiet bħal dawn, is-Segretarjat jista’ wkoll jissospendi, jirrevoka jew jimmodifika t-termini u kondizzjonijiet tal-liċenzja jew l-awtorizzazzjoni.
-
-*23*
 
 (3) F’każijiet ta’ persistenza jew nuqqas gravi ta’ konformità ma’ jew ksur tat-termini u l-kondizzjonijiet ta’ awtorizzazzjoni jew ta’ liċenzja jew f’każijiet ta’ rilaxx sinifikanti ta’ materjal radjuattiv fl-ambjent, is-Segretarjat jista’ jirrevoka l-awtorizzazzjoni jew il-liċenzja u jesiġi li l-persuna liċenzjata tirrimedja kwalunkwe kondizzjoni mhux sikura.
 
@@ -622,11 +548,7 @@ Iżda wkoll li kull ordni mogħtija verbalment għandha tiġi kkonfermata bil-mi
 
 (2) Kwalunkwe uffiċjal tas-Segretarjat jista’ jwaħħal siġilli jew juża mezzi oħra sabiex jiġi żgurat li kwalunkwe tagħmir ma jkunx jista’ jitħaddem, jekk ikun hekk ordnat, sa dak iż-żmien li l-ordni tkun revokata.
 
-(3) Kwalunkwe uffiċjal tas-Segretarjat jista’ jordna li l-post tax-xogħol jew parti minn post tax-xogħol jiġi kkundannat, u ordnat li jwaqqaf l-operazzjonijiet tiegħu minn dak il-ħin, u jista’ jirrevoka kull ordni bħal din. Meta post tax-xogħol jew parti minnu jkun ikkundannat skont id-dispożizzjonijiet ta’ dan is-subartikolu, l-ebda [KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-*24*
-
-persuna ma għandha tidħol fiż-żona kkundannata mingħajr l-awtorizzazzjoni bil-miktub tas-Segretarjat.
+(3) Kwalunkwe uffiċjal tas-Segretarjat jista’ jordna li l-post tax-xogħol jew parti minn post tax-xogħol jiġi kkundannat, u ordnat li jwaqqaf l-operazzjonijiet tiegħu minn dak il-ħin, u jista’ jirrevoka kull ordni bħal din. Meta post tax-xogħol jew parti minnu jkun ikkundannat skont id-dispożizzjonijiet ta’ dan is-subartikolu, l-ebda awtorizzazzjoni bil-miktub tas-Segretarjat.
 
 (4) Kwalunkwe uffiċjal tas-Segretarjat meta jagħmel ordni bil-miktub taħt dan l-artikolu, jista’ jwaħħal fil-post tax-xogħol, jew fuq kwalunkwe tagħmir, magna, apparat, ħaġa jew oġġett, kopja tagħha, u l-ebda persuna ħlief uffiċjal awtorizzat mis-Segretarjat ma għandha tneħħi din il-kopja.
 
@@ -650,11 +572,9 @@ Iżda jkun ukoll fid-diskrezzjoni tas-Segretarjat, bi ftehim mal-Kummissjoni, li
 
 (ċ) volontarjament, tirrifjuta li tagħti jew mingħajr raġuni leġittima, li l-prova tagħha tkun fuqha, ma tagħtix xi tagħrif importanti; jew
 
-(d) volontarjament jew b’nuqqas ta’ ħsieb tagħmel xi L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. dikjarazzjoni falza jew inseriment falz f’xi dokument jew prospett jew f’xi dokument ieħor, miżmum jew mibgħut skont dan l-Att jew skont xi regolamenti magħmulin taħtu; jew
+(d) volontarjament jew b’nuqqas ta’ ħsieb tagħmel xi dikjarazzjoni falza jew inseriment falz f’xi dokument jew prospett jew f’xi dokument ieħor, miżmum jew mibgħut skont dan l-Att jew skont xi regolamenti magħmulin taħtu; jew
 
 (e) bi ksur tal-liġi tirrifjuta jew tonqos milli twieġeb skont l-aħjar tagħrif tagħha għal xi mistoqsija magħmula lilha minn uffiċjal fit-twettiq tad-dmirijiet tiegħu; jew tonqos milli tgħin mill-aħjar lill-uffiċjal fit-twettiq tad-dmirijiet tiegħu; jew
-
-*25*
 
 (f) bi ksur tal-liġi tirrifjuta jew tonqos milli tosserva xi ħtieġa stabbilita skont dan l-Att jew regolamenti magħmula taħt dan l-Att; jew
 
@@ -672,11 +592,7 @@ Iżda ebda proċedimenti ma jittieħdu kontra xi persuna li, wara li tkun irċev
 
 (6) Minkejja d-dispożizzjonijiet tal-artikolu 370 tal-Kodiċi Kriminali, il-proċedimenti dwar reat kontra dan l-Att għandhom jittieħdu quddiem il-Qorti tal-Maġistrati (Malta) jew il-Qorti tal- Maġistrati (Għawdex), skont kif ikun il-każ, bħala qrati ta’ ġudikatura kriminali.
 
-(7) Fi proċedimenti kriminali mibdija mill-Pulizija quddiem [KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-*26*
-
-il-Qorti tal-Maġistrati għal reat kontra d-dispożizzjonijiet ta’ dan l- Att, is-Segretarju Eżekuttiv jista’ jassisti lill-Pulizija fit-tmexxija tal-prosekuzzjoni u fil-produzzjoni tal-provi.
+(7) Fi proċedimenti kriminali mibdija mill-Pulizija quddiem Att, is-Segretarju Eżekuttiv jista’ jassisti lill-Pulizija fit-tmexxija tal-prosekuzzjoni u fil-produzzjoni tal-provi.
 
 (8) Is-Segretarju Eżekuttiv jew xi uffiċjal imqabbad minnu għall-finijiet tas-subartikolu (5) jista’ madankollu jinġieb bħala xhud, iżda jekk ix-xiehda tiegħu tkun meħtieġa bħala parti mill-każ tal-prosekuzzjoni, ix-xiehda tiegħu għandha tinstema’ qabel dik ta’ kull xhud ieħor għall-prosekuzzjoni sakemm il-ħtieġa tax-xiehda tiegħu ma tinqalax sussegwentement.
 
@@ -710,9 +626,7 @@ Iżda wkoll kull appell minn deċiżjoni msemmija fl-artikolu 12(5), li jġorr m
 
 (1) Mingħajr preġudizzju għall-ġeneralità tal-artikoli 10 u 12, il-Kummissjoni għandha tistabbilixxi r-rekwiżiti legali u sistema xierqa ta’ kontroll regolatorju għas-sitwazzjonijiet kollha ta’ esponiment, li jirriflettu sistema ta’ protezzjoni mir-radjazzjoni msejsa fuq il-prinċipji ta’ ġustifikazzjoni, ottimizzazzjoni u limitazzjoni ta’ esponiment.
 
-*27*
-
-L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. (2) Il-Kummissjoni għandha tistabbilixxi kriterji li għandhom jiġu sodisfatti għall-kategoriji differenti ta’ persuni involuti f’attivitajiet ta’ protezzjoni mir-radjazzjoni koperti b’dan l- Att jew xi regolamenti magħmula taħt dan l-Att.
+(2) Il-Kummissjoni għandha tistabbilixxi kriterji li għandhom jiġu sodisfatti għall-kategoriji differenti ta’ persuni involuti f’attivitajiet ta’ protezzjoni mir-radjazzjoni koperti b’dan l- Att jew xi regolamenti magħmula taħt dan l-Att.
 
 ### 25. Obbligi tal-impriżi dwar il-protezzjoni mir-radjazzjoni.
 
@@ -748,11 +662,7 @@ L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. (2) Il-Kummissjoni għandha tistabbilix
 
 ### 29. Ħruġ ta’ liċenzji ta’ skarikar.
 
-Is-Segretarjat għandu joħroġ liċenzji ta’ skarikar għal [KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-*28*
-
-kwalunkwe attivitajiet ta’ skarikar li japprova. Liċenzji għal skarikar għandhom jispeċifikaw limiti ta’ attività u għandhom jispeċifikaw kondizzjonijiet.
+Is-Segretarjat għandu joħroġ liċenzji ta’ skarikar għal għandhom jispeċifikaw limiti ta’ attività u għandhom jispeċifikaw kondizzjonijiet.
 
 ## Taqsima IX - Rispons għal Emerġenza
 
@@ -780,9 +690,9 @@ Iżda wkoll, bla ħsara għall-konvenzjonijiet internazzjonali, inkluża l-Konve
 
 Il-Kummissjoni għandha tistabbilixxi r-rekwiżiti għat-trasport ta’ materjal radjuattiv lejn, minn u ġewwa l-ġurisdizzjoni ta’ Malta wara konsultazzjoni ma’ entitajiet governattivi responsabbli għat-trasport u l-importazzjoni u l-esportazzjoni ta’ merkanzija.
 
-*29 Awtorizzazzjoni għat-trasport ta’ materjal radjuattiv.*
+### 34. Awtorizzazzjoni għat-trasport ta’ materjal radjuattiv.
 
-L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. 34. (1) Ebda persuna jew entità ma għandha tagħmel xogħol ta’ trasport ta’ materjal radjuattiv mingħajr awtorizzazzjoni xierqa mis-Segretarjat.
+(1) Ebda persuna jew entità ma għandha tagħmel xogħol ta’ trasport ta’ materjal radjuattiv mingħajr awtorizzazzjoni xierqa mis-Segretarjat.
 
 (2) Kull trasport ta’ materjal radjuattiv għandu jsir f’konformità mar-regolamenti nazzjonali applikabbli tat-trasport u mar-rekwiżiti tekniċi tar-Regolamenti għat-Trasport Sikur ta’ Materjal Radjuattiv tal-Aġenzija Internazzjonali tal-Enerġija Atomika, u r-rekwiżiti applikabbli tal-Ftehim Ewropew dwar Ġarr Internazzjonali ta’ Merkanzija Perikoluża fit-Triq (ADR), l- Organizzazzjoni Marittima Internazzjonali (IMO) u l- Organizzazzjoni Internazzjonali għall-Avjazzjoni Ċivili (ICAO), kif emendati minn żmien għal żmien.
 
@@ -814,13 +724,9 @@ Id-detentur ta’ liċenzja li jkollu l-pussess tal-iskart radjuattiv għandu jk
 
 L-importazzjoni ta’ skart radjuattiv huwa reat taħt dan l- Att u huwa punibbli bi priġunerija għal żmien ta’ sentejn (2) iżda mhux iżjed minn ħames (5) snin, u, jew multa ta’ mhux iżjed minn ħames mitt elf euro (€500,000).
 
-*30 Esportazzjoni ta’ skart radjuattiv hija permess b’awtorizzaz-zjoni. S.L. 549.51*
+*Esportazzjoni ta’ skart radjuattiv hija permess b’awtorizzaz-zjoni. S.L. 549.51*
 
-[KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-### 40.
-
-L-iskart radjuattiv iġġenerat f’Malta jista’ jiġi esportat biss wara l-ħruġ ta’ awtorizzazzjoni jew liċenzja mis-Segretarjat u sakemm l-obbligi stipulati fir-Regolamenti dwar Superviżjoni u Kontroll ta’ Vjaġġi ta’ Skart Radjuattiv ikunu sodisfatti.
+biss wara l-ħruġ ta’ awtorizzazzjoni jew liċenzja mis-Segretarjat u sakemm l-obbligi stipulati fir-Regolamenti dwar Superviżjoni u Kontroll ta’ Vjaġġi ta’ Skart Radjuattiv ikunu sodisfatti.
 
 Taqsima XII - Tnaqqis ta’ riskji eżistenti jew mhux regolati
 
@@ -856,9 +762,9 @@ Sabiex tiġi żgurata l-konformità mal-impenji rilevanti ta’ Malta għall-Fte
 
 (ċ) jiffaċilita l-aċċess mill-Komunità Ewropea għall- Enerġija Atomika u l-ispetturi tal-Aġenzija Internazzjonali tal-Enerġija Atomika fi ħdan it-territorju ta’ Malta.
 
-*31 Koperazzjoni fl-applikazzjoni tal-miżuri ta’ salvagwardja.*
+### 47. Koperazzjoni fl-applikazzjoni tal-miżuri ta’ salvagwardja.
 
-L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. 47. Kull aġenzija tal-Gvern ta' Malta u persuni u entitajiet awtorizzati jew liċenzjati għandhom jikkooperaw bis-sħiħ mal- Komunità Ewropea għall-Enerġija Atomika u l-Aġenzija Internazzjonali tal-Enerġija Atomika fl-applikazzjoni ta’ miżuri ta’ salvagwardja, inkluż billi:
+Kull aġenzija tal-Gvern ta' Malta u persuni u entitajiet awtorizzati jew liċenzjati għandhom jikkooperaw bis-sħiħ mal- Komunità Ewropea għall-Enerġija Atomika u l-Aġenzija Internazzjonali tal-Enerġija Atomika fl-applikazzjoni ta’ miżuri ta’ salvagwardja, inkluż billi:
 
 (a) jipprovdu fil-pront l-informazzjoni kollha meħtieġa skont il-Ftehim ta’ Salvagwardji u l-Protokoll Addizzjonali;
 
@@ -880,13 +786,9 @@ Kull persuna li twettaq attivitajiet soġġetti għall-Ftehim tas-Salvagwardji u
 
 Il-Kummissjoni għandha tkun responsabbli għall-approvazzjoni tal-ħatra tal-ispetturi proposti mill-Komunità Ewropea għall-Enerġija Atomika u l-Aġenzija Internazzjonali għall-Enerġija Atomika għal Malta.
 
-*32 Arranġamenti għal funzjonijiet ta’ salvagwardja f’Malta.*
+*Arranġamenti għal funzjonijiet ta’ salvagwardja f’Malta.*
 
-[KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-### 51.
-
-Is-Segretarjat għandu jagħmel l-arranġamenti ma’ entitajiet governattivi oħrajn, kif meħtieġ, sabiex jiġi żgurat li kwalunkwe permess meħtieġ, inklużi viżi, fejn meħtieġ, jinħareġ, b’mod mgħaġġel, sabiex jippermetti l-ispetturi nominati tal-Aġenzija Internazzjonali tal-Enerġija Atomika għal Malta li jidħlu u jibqgħu fit-territorju ta’ Malta għall-fini li jwettqu l-funzjonijiet tagħhom ta’ salvagwardja skont il-Ftehim ta’ Salvagwardji u l-protokolli tiegħu.
+entitajiet governattivi oħrajn, kif meħtieġ, sabiex jiġi żgurat li kwalunkwe permess meħtieġ, inklużi viżi, fejn meħtieġ, jinħareġ, b’mod mgħaġġel, sabiex jippermetti l-ispetturi nominati tal-Aġenzija Internazzjonali tal-Enerġija Atomika għal Malta li jidħlu u jibqgħu fit-territorju ta’ Malta għall-fini li jwettqu l-funzjonijiet tagħhom ta’ salvagwardja skont il-Ftehim ta’ Salvagwardji u l-protokolli tiegħu.
 
 ### 52. Implimentaz-zjoni tas-salvagwardji f’Malta.
 
@@ -918,13 +820,11 @@ Impriżi awtorizzati li jippossjedu, jużaw, jimmaniġġaw jew jipproċessaw mat
 
 (f) jipprovdu rapporti dwar l-attivitajiet ippjanati għall-futur, kif speċifikat mill-Kummissjoni;
 
-(g) jippermettu rappreżentanti awtorizzati tas- Segretarjat u l-uffiċjali nominati tal-Komunità Ewropea għall-Enerġija Atomika u l-Aġenzija Internazzjonali għall-Enerġija Atomika sabiex, L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585. mingħajr tfixkil, iwettqu spezzjonijiet fi kwalunkwe faċilità jew post ieħor kif previst skont dan l-Att, il-Ftehim tas-Salvagwardji jew kwalunkwe protokoll tiegħu.
+(g) jippermettu rappreżentanti awtorizzati tas- Segretarjat u l-uffiċjali nominati tal-Komunità Ewropea għall-Enerġija Atomika u l-Aġenzija Internazzjonali għall-Enerġija Atomika sabiex, mingħajr tfixkil, iwettqu spezzjonijiet fi kwalunkwe faċilità jew post ieħor kif previst skont dan l-Att, il-Ftehim tas-Salvagwardji jew kwalunkwe protokoll tiegħu.
 
 ### 54. Obbligu ta’ persuni li jwettqu riċerka u żvilupp relatat maċ-ċiklu nukleari.
 
 Kull persuna li biħsiebha twettaq attivitajiet ta’ riċerka u żvilupp relatati maċ-ċiklu tal-fjuwil nukleari, kif imfisser fil-Ftehim ta’ Salvagwardji u kwalunkwe protokoll tiegħu, għandha tipprovdi informazzjoni lis-Segretarjat dwar dawn l-attivitajiet qabel ma jinbdew.
-
-*33*
 
 ### 55. Obbligu dwar sottomissjoni ta’ informazzjoni lis- Segretarjat.
 
@@ -950,13 +850,9 @@ Fil-każ ta’ serq, serq b’forza jew teħid illegali, jew it-theddida kredibb
 
 Is-Segretarjat għandu jkun l-awtorità ċentrali li hija responsabbli għall-protezzjoni fiżika ta’ materjal nukleari u għall-koordinazzjoni tal-irkupru u r-rispons fil-każ ta’ xi serq jew teħid illegali ta’ materjal nukleari (jew materjal ieħor radjuattiv).
 
-*34 Koperazzjoni u arranġamenti ta’ assistenza f’każ ta’ pussess illeċitu ta’ materjal nukleari.*
+*Koperazzjoni u arranġamenti ta’ assistenza f’każ ta’ pussess illeċitu ta’ materjal nukleari.*
 
-[KAP. 585. L-PROTEZZJONI MIR-RADJAZZJONI
-
-### 59.
-
-Fil-każ ta’ serq jew kwalunkwe teħid illegali ta’ materjal nukleari (jew materjal ieħor radjuattiv), is-Segretarjat għandu jkun responsabbli għad-determinazzjoni tal-koperazzjoni meħtieġa u l-arranġamenti ta’ assistenza fl-irkuprar u l-protezzjoni ta’ dak il-materjal li għandhom jiġu miftiehma ma’ kull Stat jew organizzazzjoni internazzjonali li hekk titlob.
+nukleari (jew materjal ieħor radjuattiv), is-Segretarjat għandu jkun responsabbli għad-determinazzjoni tal-koperazzjoni meħtieġa u l-arranġamenti ta’ assistenza fl-irkuprar u l-protezzjoni ta’ dak il-materjal li għandhom jiġu miftiehma ma’ kull Stat jew organizzazzjoni internazzjonali li hekk titlob.
 
 ### 60. Għoti ta’ informazzjoni dwar inċidenti li jinvolvu l-pussess illeċitu ta’ materjal nukleari.
 
@@ -979,10 +875,6 @@ Iżda kwalunkwe miżata jew multi miġbura mis- Segretarjat għandhom jitħallsu
 (5) Il-Kummissjoni għandha tara li jkun ippreparat, fl-aħħar ta’ kull sena finanzjarja, rapport finanzjarju li jirreġistra d-dħul u l-infiq tal-Kummissjoni u s-Segretarjat u l-istimi proġettati tal-introjtu u l-infiq tal-Kummissjoni u s-Segretarjat għas-sena finanzjarja li jmiss:
 
 Iżda l-estimi tal-Kummissjoni għall-ewwel sena finanzjarja tal-Kummissjoni għandhom ikunu ppreparati u adottati f’dak iż-żmien li l-Ministru jista’, b’avviż bil-miktub lill- Kummissjoni, jispeċifika.
-
-*35*
-
-L-PROTEZZJONI MIR-RADJAZZJONI [KAP. 585.
 
 ## Taqsima XVI - Dispożizzjonijiet Finali
 

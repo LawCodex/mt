@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Self tal-Gvern u l-Amministrazzjoni tad-Dejn Pubbliku (Cap. 575)
 
-*1*
-
-TAD-DEJN PUBBLIKU [KAP. 575.
-
 **KAPITOLU 575**
 
 **ATT DWAR SELF TAL-GVERN U L-**
@@ -55,10 +51,6 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’oħra:
 
 \*Ara l-Avviż Legali 216 tal-2017.
 
-*2*
-
-[KAP. 575. TAD-DEJN PUBBLIKU
-
 "ċirkostanzi eċċezzjonali" għandha l-istess tifsira bħal dik tal- Att dwar ir-Responsabbiltà Fiskali;
 
 "dejn pubbliku" għandha l-istess tifsira kif mogħtija lilha bl-artikolu 106 tal-Kostituzzjoni ta’ Malta;
@@ -87,11 +79,7 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma tkunx teħtieġ xort’oħra:
 
 "irkant" tfisser stedina pubblika biex isiru offerti magħluqin jew permezz ta’ sottomissjonijiet elettroniċi għall-istock jew titoli maħruġa mill-Gvern ta’ Malta, b’dak il-mod li l-Ministru jista’ jordna;
 
-"Kont tal-Gvern Ġenerali" tinkludi l-kontijiet kollha miżmuma f’isem il-Gvern ta’ Malta iżda jeskludi l-kontijiet dipartimentali li TAD-DEJN PUBBLIKU [KAP. 575.
-
-jinżammu mill-Bank Ċentrali ta’ Malta;
-
-*3*
+"Kont tal-Gvern Ġenerali" tinkludi l-kontijiet kollha miżmuma f’isem il-Gvern ta’ Malta iżda jeskludi l-kontijiet dipartimentali li jinżammu mill-Bank Ċentrali ta’ Malta;
 
 "Kostituzzjoni" tfisser il-Kostituzzjoni ta’ Malta;
 
@@ -117,11 +105,7 @@ jinżammu mill-Bank Ċentrali ta’ Malta;
 
 "stock reġistrat" jew "stock" tfisser stock tal-Gvern ta’ Malta li jkollu maturità ta’ aktar minn sena maħruġ taħt id-dispożizzjonijiet ta’ dan l-Att u li jkollu valur nominali reġistrat f’isem id-detentur kif jidher fir-reġistru;
 
-"strument ta’ dejn" tfisser strument ta’ dejn tal-Gvern mhux negozjabbli inkluż Retail Savings Bonds tal-Gvern ta’ Malta maħruġa taħt dan l-Att jew taħt xi Att ieħor tal-Parlament li jkun jiddefinixxi [KAP. 575. TAD-DEJN PUBBLIKU
-
-jew jirreġistra d-dejn tal-Gvern ta’ Malta lil min jislef.
-
-*4*
+"strument ta’ dejn" tfisser strument ta’ dejn tal-Gvern mhux negozjabbli inkluż Retail Savings Bonds tal-Gvern ta’ Malta maħruġa taħt dan l-Att jew taħt xi Att ieħor tal-Parlament li jkun jiddefinixxi jew jirreġistra d-dejn tal-Gvern ta’ Malta lil min jislef.
 
 "talbiet", dwar titoli tal-Gvern u strumenti ta’ dejn, jinkludu kemm il-ħlas lura tal-kapital kif ukoll l-imgħax, jekk ikun hemm, fuq it-titoli jew strumenti ta’ dejn;
 
@@ -155,10 +139,6 @@ L-awtorità biex issir self ta’ flus għal jew għan-nom tal- Gvern għandu jk
 
 Bil-għan li jiġbor il-fondi il-Ministru huwa b’dan awtorizzat li jissellef b’dawk it-termini u kundizzjonijiet hekk kif l-imsemmi Ministru jista’ japprova.
 
-*5*
-
-TAD-DEJN PUBBLIKU [KAP. 575.
-
 ### 7. Għanijiet tal-amministraz-zjoni tad-dejn pubbliku.
 
 L-għanijiet primarji tal-amministrazzjoni tad-dejn pubbliku għandhom ikunu:
@@ -191,11 +171,7 @@ Il-Ministru jista’ jissellef fondi kemm f’Malta kemm barra minn Malta kif he
 
 (i) biex jipproteġi direttament l-ekonomija ta’ Malta;
 
-(j) biex jagħmel tajjeb għal kull katastrofi finanzjarja jew naturali jew ambjentali jew għal kull [KAP. 575. TAD-DEJN PUBBLIKU
-
-emerġenza nazzjonali oħra kif jiġi approvat mill-Parlament;
-
-*6*
+(j) biex jagħmel tajjeb għal kull katastrofi finanzjarja jew naturali jew ambjentali jew għal kull emerġenza nazzjonali oħra kif jiġi approvat mill-Parlament;
 
 (k) biex jiġi riffinanzjat dejn pendenti li jkun irid jiġi mifdi matul dik is-sena;
 
@@ -219,11 +195,7 @@ emerġenza nazzjonali oħra kif jiġi approvat mill-Parlament;
 
 ### 10. Ġbir u self ta’ flus skont id-dispożizzjoni-jiet tal-Ftehim dwar il- Faċilità ta’ Self mal-Bord Uniku tar-Riżoluzzjoni.
 
-(1) Il-Ministru jista’ jirrappreżenta lir-Repubblika ta’ Malta fis-sħubija ta’ Malta fil-Ftehim dwar il-Faċilità ta’ Self mal- Bord Uniku ta’ Riżoluzzjoni skont id-dispożizzjonijiet tar- Regolament (UE) Nru 806/2014 tal-Parlament Ewropew u tal-Kunsill tal-15 ta’ Lulju 2014 li jistabbilixxi regoli uniformi u proċedura uniformi għar-riżoluzzjoni ta’ istituzzjonijiet ta’ kreditu u ċerti ditti TAD-DEJN PUBBLIKU [KAP. 575.
-
-tal-investiment fil-qafas ta’ Mekkaniżmu Uniku ta’ Riżoluzzjoni u Fond Uniku għar-Riżoluzzjoni u li jemenda r-Regolament (UE) Nru 1093/2010.
-
-*7*
+(1) Il-Ministru jista’ jirrappreżenta lir-Repubblika ta’ Malta fis-sħubija ta’ Malta fil-Ftehim dwar il-Faċilità ta’ Self mal- Bord Uniku ta’ Riżoluzzjoni skont id-dispożizzjonijiet tar- Regolament (UE) Nru 806/2014 tal-Parlament Ewropew u tal-Kunsill tal-15 ta’ Lulju 2014 li jistabbilixxi regoli uniformi u proċedura uniformi għar-riżoluzzjoni ta’ istituzzjonijiet ta’ kreditu u ċerti ditti tal-investiment fil-qafas ta’ Mekkaniżmu Uniku ta’ Riżoluzzjoni u Fond Uniku għar-Riżoluzzjoni u li jemenda r-Regolament (UE) Nru 1093/2010.
 
 (2) Il-Ministru jista’, skont id-dispożizzjonijiet tal-Ftehim dwar il-Faċilità ta’ Self bejn ir-Repubblika ta’ Malta u l-Bord Uniku ta’ Riżoluzzjoni msemmi fis-subartikolu (1), jiġbor somma ta’ flus bħala self għall-għan li tingħata lill-Bord Uniku ta’ Riżoluzzjoni faċilità ta’ self mingħajr garanzija ta’ mhux aktar minn sitta u sittin miljun euro (€66,000,000).
 
@@ -245,13 +217,11 @@ Il-ħtieġa msemmija fl-artikolu 11 tista’ biss ma tintlaħaqx bħala riżulta
 
 (3) Jekk l-Att biex jimplimenta l-Miżuri tal-Estimi għal xi sena fiskali rilevanti jonqos milli jiġi promulgat, il-Gvern jista’ fil-frattemp jissellef biex ikun jista’ jifdi kull dejn pendenti li jimmatura għal dik is-sena relevanti u biex jagħmel ħlasijiet ta’ mgħax u kull spejjeż oħra li jkollhom marbuta ma’ dak id-dejn.
 
-(4) L-ammont massimu ta’ dejn tal-Gvern ċentrali pendenti miżmum separatament fil-forma ta’ bills tat-Teżor, self bilaterali u strumenti ta’ dejn huwa soġġett għal strument statutorju li jrid jiġi intavolat fil-Parlament u jiġi approvat b’riżoluzzjoni parlamentari. [KAP. 575. TAD-DEJN PUBBLIKU
+(4) L-ammont massimu ta’ dejn tal-Gvern ċentrali pendenti miżmum separatament fil-forma ta’ bills tat-Teżor, self bilaterali u strumenti ta’ dejn huwa soġġett għal strument statutorju li jrid jiġi intavolat fil-Parlament u jiġi approvat b’riżoluzzjoni parlamentari.
 
 ### 14. Il-flus miġbura għandhom jitqiegħdu fil-Fond Konsolidat.
 
 Il-flejjes kollha li jiġu hekk miġbura bis-self għandhom jitqiegħdu fil-Fond Konsolidat.
-
-*8*
 
 ### 15. Ħlasijiet li għandhom x’jaqsmu mad-dejn pubbliku jiġu addebitati lid-dħul.
 
@@ -272,10 +242,6 @@ Il-flejjes kollha li jiġu hekk miġbura bis-self għandhom jitqiegħdu fil-Fond
 ### 17. Strateġija tal-amministraz-zjoni tad-dejn ta’ terminu medju.
 
 L-istrateġija tal-amministrazzjoni tad-dejn ta’ terminu ta’ żmien medju għandha tqis:
-
-*9*
-
-TAD-DEJN PUBBLIKU [KAP. 575.
 
 (a) il-ħtiġijiet tas-self tal-Gvern għall-futur; u
 
@@ -309,11 +275,7 @@ Kull ftehim ta’ self li jsir bejn il-Gvern u gvernijiet barranin oħra u istit
 
 ### 21. Il-Ministru għandu jieħu parir.
 
-Il-Ministru, filwaqt li japprova t-termini u l-kundizzjonijiet ta’ kull ftehim ta’ self u linja ta’ kreditu, għandu jieħu [KAP. 575. TAD-DEJN PUBBLIKU
-
-parir dwar l-implikazzjonijiet finanzjarji u legali biex itaffi kull riskju finanzjarju u legali li jista’ joħroġ fil-futur minn dak l-obbligu.
-
-*10*
+Il-Ministru, filwaqt li japprova t-termini u l-kundizzjonijiet ta’ kull ftehim ta’ self u linja ta’ kreditu, għandu jieħu parir dwar l-implikazzjonijiet finanzjarji u legali biex itaffi kull riskju finanzjarju u legali li jista’ joħroġ fil-futur minn dak l-obbligu.
 
 ### 22. Delega ta’ awtorità.
 
@@ -339,11 +301,7 @@ L-implimentazzjoni sabiex il-Gvern jidħol fi ftehim ta’ self bilaterali jista
 
 (1) Bl-eċċezzjoni tal-bills tat-Teżor, kull ħruġ ta’ titoli taħt dan l-Att, qabel ma jinħareġ dak it-titolu, malli tinkiseb l-approvazzjoni tal-Ministru, id-Dipartiment tat-Teżor għandu jispeċifika l-ammont tal-ħruġ u t-termini u l-kundizzjonijiet rilevanti u jara li tiġi pubblikata ċ-ċirkolari dwar il-ħruġ. It-termini u l-kundizzjonijiet taċ-ċirkolari tal-offerta għandhom japplikaw flimkien mat-termini u l-kundizzjonijiet tal-Prospett Ġenerali tat-Titoli tal- Gvern.
 
-(2) Għandu jkun hemm Prospett Ġenerali tal-Bills tat-Teżor u l-ħruġ tagħhom għandu jkun irregolat skond it-termini u l- TAD-DEJN PUBBLIKU [KAP. 575.
-
-kundizzjonijiet ta’ dak il-prospett.
-
-*11*
+(2) Għandu jkun hemm Prospett Ġenerali tal-Bills tat-Teżor u l-ħruġ tagħhom għandu jkun irregolat skond it-termini u l-kundizzjonijiet ta’ dak il-prospett.
 
 (3) Il-ħruġ ta’ strumenti oħra ta’ dejn għandu jkun irregolat skond it-termini u l-kundizzjonijiet tal-prospett rilevanti. Qabel ma jinħareġ l-istrument ta’ dejn ieħor, malli tinkiseb l-approvazzjoni tal- Ministru, id-Dipartiment tat-Teżor għandu jippubblika l-prospett li jispeċifika l-ammont tal-ħruġ u termini u l-kondizzjonijiet tal-offerta.
 
@@ -373,11 +331,7 @@ It-termini u l-kundizzjonijiet ta’ titoli maħruġa jistgħu jkunu jinkludu wk
 
 ### 31. Reġistrazzjoni.
 
-(1) Kull ħruġ ta’ titoli jew strumenti oħra ta’ dejn taħt dan l-Att għandu jiġi reġistrat u jinżamm b’mod elettroniku u f’forma mhux ċertifikata permezz ta’ iskrizzjoni adatta fir-reġistru tad-Dipartiment tat-Teżor, jew tar-Reġistratur nominat tiegħu, billi jitniżżel fih l-isem u l-indirizz tad-detenturi, l-ammont, ir-rata ta’ [KAP. 575. TAD-DEJN PUBBLIKU
-
-mgħax tal-kupun li jitħallas, it-trasferimenti kollha u n-negozju kollu f’dak il-ħruġ ta’ titoli maħruġa, u dawk id-dettalji l-oħra li jistgħu, minn żmien għal żmien, jitqiesu li jkunu meħtieġa mid-Dipartiment tat-Teżor jew hekk kif jiġi preskritt b’regolamenti magħmulin taħt dan l-Att.
-
-*12*
+(1) Kull ħruġ ta’ titoli jew strumenti oħra ta’ dejn taħt dan l-Att għandu jiġi reġistrat u jinżamm b’mod elettroniku u f’forma mhux ċertifikata permezz ta’ iskrizzjoni adatta fir-reġistru tad-Dipartiment tat-Teżor, jew tar-Reġistratur nominat tiegħu, billi jitniżżel fih l-isem u l-indirizz tad-detenturi, l-ammont, ir-rata ta’ mgħax tal-kupun li jitħallas, it-trasferimenti kollha u n-negozju kollu f’dak il-ħruġ ta’ titoli maħruġa, u dawk id-dettalji l-oħra li jistgħu, minn żmien għal żmien, jitqiesu li jkunu meħtieġa mid-Dipartiment tat-Teżor jew hekk kif jiġi preskritt b’regolamenti magħmulin taħt dan l-Att.
 
 (2) Għall-finijiet tas-subartikolu (1) ir-Reġistru ta’ titoli jinsab preżentement għand u jiġi miżmum mid-Depożitarju Ċentrali tat-Titoli (CSD) tal-Borża ta’ Malta. Il-Ministru jista’, madankollu, b’regolament taħt dan l-Att, jinnomina lil kull Depożitarju Ċentrali tat-Titoli elettroniku rikonoxxut biex jipprovdi s-servizzi u l-funzjonijiet ta’ Reġistratur skont is-subartikolu (1).
 
@@ -399,11 +353,7 @@ Il-Ministru jkollu s-setgħa u l-awtorità li jeżerċita, minn żmien għal żm
 
 ### 34. Setgħat oħra tal- Ministru.
 
-(1) Is-setgħat mogħtija lill-Ministru bl-artikolu 33 għandhom ikunu jinkludi s-setgħa li d-Dipartiment tat-Teżor jiġi TAD-DEJN PUBBLIKU [KAP. 575.
-
-awtorizzat jagħmel dawk l-arranġamenti hekk kif jista’ jkun meħtieġ biex jinħoloq u jinħareġ taħt dan l-Att dak l-ammont ta’ titoli biex ikun jista’ jitwettaq xi arranġament bis-saħħa tal-artikolu 33(a), (b) u (ċ).
-
-*13*
+(1) Is-setgħat mogħtija lill-Ministru bl-artikolu 33 għandhom ikunu jinkludi s-setgħa li d-Dipartiment tat-Teżor jiġi awtorizzat jagħmel dawk l-arranġamenti hekk kif jista’ jkun meħtieġ biex jinħoloq u jinħareġ taħt dan l-Att dak l-ammont ta’ titoli biex ikun jista’ jitwettaq xi arranġament bis-saħħa tal-artikolu 33(a), (b) u (ċ).
 
 (2) Fl-eżerċizzju tal-poteri tiegħu taħt l-artikolu 33, il- Ministru għandu jikkunsidra r-rakkomandazzjoni tal-Kumitat.
 
@@ -429,11 +379,7 @@ Iżda fl-eżerċizzju tas-setgħat tiegħu l-Ministru għandu jqis ir-rakkomanda
 
 (ċ) statistika fuq il-portafoll ta’ dejn pubbliku u l-movimenti fid-dejn matul is-sena fiskali inkluż il-bidliet fl-indikaturi ta’ riskji marbuta mad-dejn;
 
-(d) espożizzjonijiet fuq it-transazzjonijiet individwali ta’ hedging b’implikazzjonijiet għar-riskju fuq ir- [KAP. 575. TAD-DEJN PUBBLIKU
-
-rata tal-kambju u taċ-ċaqliq fir-rata tal-imgħax;
-
-*14*
+(d) espożizzjonijiet fuq it-transazzjonijiet individwali ta’ hedging b’implikazzjonijiet għar-riskju fuq ir-rata tal-kambju u taċ-ċaqliq fir-rata tal-imgħax;
 
 (e) l-ammont fil-fondi ta’ ammortizzament u l-bilanċ ta’ fondi mislufa u moviment f’dawn il-bilanċi matul is-sena fiskali; u
 
@@ -466,10 +412,6 @@ Id-Dipartiment tat-Teżor għandu jżomm informazzjoni dokumentata, komprensiva 
 (3) Il-Ministru jista’ jawtorizza l-ħruġ ta’ garanzija għall-ħlas lura tal-kapital, u l-ħlas tal-imgħax u spejjeż oħra fuqhom, fil-każ li l-
 
 \*Għadu mhux fis-seħħ.
-
-*15*
-
-TAD-DEJN PUBBLIKU [KAP. 575.
 
 benefiċjarju tal-garanzija jonqos milli jħallas id-dejn awtorizzat.
 
@@ -508,10 +450,6 @@ benefiċjarju tal-garanzija jonqos milli jħallas id-dejn awtorizzat.
 ‡Għadu mhux fis-seħħ.
 
 §Għadu mhux fis-seħħ.
-
-*16*
-
-[KAP. 575. TAD-DEJN PUBBLIKU
 
 jistgħu jitħallsu mingħajr ebda approprjazzjoni oħra ħlief għal din it- Taqsima.
 
@@ -553,10 +491,6 @@ jistgħu jitħallsu mingħajr ebda approprjazzjoni oħra ħlief għal din it- Ta
 
 §Għadu mhux fis-seħħ.
 
-*17*
-
-TAD-DEJN PUBBLIKU [KAP. 575.
-
 *Evalwazzjoni mill-ġdid tar-riskju tal-finanzjament.*
 
 49.\* Id-Dipartiment tat-Teżor, minn żmien għal żmien u mill-inqas darba fis-sena, għandu jagħmel evalwazzjoni mill-ġdid tar-riskju finanzjarju fuq numru ta’ garanziji pendenti li jkunu ta’ ammonti ’l fuq minn limitu li għandu jiġi stabbilit mill-Ministru. Il- Ministru għandu jkun infurmat bil-miktub bir-riżultati tal-evalwazzjoni li jkunu saru mill-ġdid.
@@ -597,10 +531,6 @@ L-awtorità biex jiġu mislufa flus għal jew f’isem il- Gvern għandha tkun v
 
 §Għadu mhux fis-seħħ.
 
-*18*
-
-[KAP. 575. TAD-DEJN PUBBLIKU
-
 Gvern Ġenerali biex tkun tista’ tiġi amministrata l-likwidità tal- Gvern, filwaqt li jittieħed kont:
 
 (a) tal-kundizzjonijiet attwali, il-volatilità tas-suq u l-likwidità;
@@ -631,11 +561,7 @@ Id-Dipartiment tat-Teżor ikun responsabbli biex iżomm l-ammont ta’ riserva g
 
 ### 59. Investiment tal-fond ta’ ammortizza-ment.
 
-(1) Il-flejjes kollha approprjati skont l-artikolu 58 (2) bħala kontribuzzjonijiet għall-fond ta’ ammortizzament imwaqqaf għal xi self għandhom jitqiegħdu b’imgħax jew jiġu investiti fi stock jew titoli ta’ dejn jew f’xi investiment ieħor jew klassijiet ta’ investimenti oħra, inklużi stocks jew titoli maħruġa skont id- TAD-DEJN PUBBLIKU [KAP. 575.
-
-dispożizzjonijiet ta’ dan l-Att, hekk kif il-Ministru jista’ jordna minn żmien għal żmien.
-
-*19*
+(1) Il-flejjes kollha approprjati skont l-artikolu 58 (2) bħala kontribuzzjonijiet għall-fond ta’ ammortizzament imwaqqaf għal xi self għandhom jitqiegħdu b’imgħax jew jiġu investiti fi stock jew titoli ta’ dejn jew f’xi investiment ieħor jew klassijiet ta’ investimenti oħra, inklużi stocks jew titoli maħruġa skont id-dispożizzjonijiet ta’ dan l-Att, hekk kif il-Ministru jista’ jordna minn żmien għal żmien.
 
 (2) L-imgħaxijiet, id-dividendi, il-bonus u profitt ieħor ġej mill-investiment ta’ xi parti ta’ xi fond ta’ ammortizzament għandhom jitqiegħdu b’imgħax jew jiġu investiti kif ordnat mill- Ministru sabiex jiffurmaw parti minn dak il-fond ta’ ammortizzament bl-istess mod bħal flejjes approprjati taħt l-artikolu 58(2) bħala kontribuzzjonijiet għall-fond ta’ ammortizzament.
 
@@ -661,13 +587,9 @@ Meta ma jkun imwaqqaf ebda fond ta’ ammortizzament jew fil-każ li l-fond ta�
 
 ## Taqsima VI
 
-Id-Direttorat responsabbli għall-Amministrazzjoni tad-Dejn Pubbliku 64. Għandu jkun hemm direttorat li jkun magħruf bħala d- Direttorat responsabbli għall-Amministrazzjoni tad-Dejn Pubbliku (hawn aktar ’il quddiem imsejjaħ "id-Direttorat"), biex iwettaq il-funzjonijiet li għandhom x’jaqsmu mal-amministrazzjoni tad-dejn tal-Gvern ċentrali u s-self ta’ flus kif jista’ jkun hemm taħt l-artikolu [KAP. 575. TAD-DEJN PUBBLIKU
+Id-Direttorat responsabbli għall-Amministrazzjoni tad-Dejn Pubbliku 64. Għandu jkun hemm direttorat li jkun magħruf bħala d- Direttorat responsabbli għall-Amministrazzjoni tad-Dejn Pubbliku (hawn aktar ’il quddiem imsejjaħ "id-Direttorat"), biex iwettaq il-funzjonijiet li għandhom x’jaqsmu mal-amministrazzjoni tad-dejn tal-Gvern ċentrali u s-self ta’ flus kif jista’ jkun hemm taħt l-artikolu 4 u kif miftiehem jew maħruġ skont l-artikoli 19 u 24 ta’ dan l-Att jew ordnijiet oħra li jistgħu jingħataw mill-Ministru taħt id-dispożizzjonijiet ta’ dan l-Att.
 
 *Twaqqif ta’ Direttorat responsabbli għall- Amministrazz-joni tad-Dejn Pubbliku*
-
-4 u kif miftiehem jew maħruġ skont l-artikoli 19 u 24 ta’ dan l-Att jew ordnijiet oħra li jistgħu jingħataw mill-Ministru taħt id-dispożizzjonijiet ta’ dan l-Att.
-
-*20*
 
 ### 65. Tmexxija tad- Direttorat.
 
@@ -698,10 +620,6 @@ Il-funzjonijiet dettaljati tad-Direttorat għandhom joħorġu minn regolamenti l
 (ċ) l-għoti ta’ pariri dwar programm ta’ ħruġ indikattiv għat-titoli tal-Gvern; u
 
 (d) l-għoti ta’ gwida ġenerali għall-programm ta’ self tal-Gvern.
-
-*21*
-
-TAD-DEJN PUBBLIKU [KAP. 575.
 
 ## Taqsima VII — Preskrizzjoni u Ħelsien mir-responsabbiltà
 
@@ -736,10 +654,6 @@ Il-Ministru jista’ jagħmel regolamenti sabiex jagħti seħħ lid-dispożizzjo
 (g) drittijiet ta’ terzi fi jew fuq it-titoli u strumenti ta’ dejn tal-Gvern;
 
 \*Għadu mhux fis-seħħ.
-
-*22*
-
-[KAP. 575. TAD-DEJN PUBBLIKU
 
 (h) iż-żamma u l-amministrazzjoni tar-Reġistru u ta’ kull reġistru ieħor li jenħtieġ li jinżammu u jiġu kkonservati kif hawn provdut f’dan l-Att; u
 

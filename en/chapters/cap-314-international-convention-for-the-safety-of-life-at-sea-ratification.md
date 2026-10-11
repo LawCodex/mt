@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # International Convention for the Safety of Life at Sea (Ratification) Act (Cap. 314)
 
-**INTERNATIONAL CONVENTION FOR THE SAFETY**
-
-*1*
-
-OF LIFE AT SEA (RATIFICATION) [CAP. 314.
-
 **CHAPTER 314**
 
 **INTERNATIONAL CONVENTION FOR THE**

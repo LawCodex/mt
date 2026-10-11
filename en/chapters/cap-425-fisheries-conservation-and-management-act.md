@@ -49,17 +49,13 @@ In this Act unless the context otherwise requires -
 
 "commercial fishing" means all fishing operations with the exception of subsistence fishing and recreational fishing;
 
-"convention" means an international treaty, agreement or other
+"convention" means an international treaty, agreement or other arrangement, other than "the Treaty" as defined in the European Union Act;
 
-arrangement, other than "the Treaty" as defined in the European Union  
-Cap. 460.  
-Act;  
-"convention area" means, in relation to any international  
-convention, the area to which the convention relates;  
-"convention fisheries officer" means a person appointed by the  
-government of another country or having power under the laws of
+*Cap. 460.*
 
-that country to enforce a convention, to which Malta is a party, and which provides for the safeguarding or conduct of fishing operations or operations ancillary thereto;
+"convention area" means, in relation to any international convention, the area to which the convention relates;
+
+"convention fisheries officer" means a person appointed by the government of another country or having power under the laws of that country to enforce a convention, to which Malta is a party, and which provides for the safeguarding or conduct of fishing operations or operations ancillary thereto;
 
 "convention fishing vessel" means a fishing vessel registered under the flag of a country which is a party to a convention to which Malta is also a party and the fishing vessels of which have been registered accordingly under such convention;
 

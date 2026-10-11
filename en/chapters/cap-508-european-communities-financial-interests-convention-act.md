@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # European Communities’ Financial Interests Convention Act (Cap. 508)
 
-*1*
-
-FINANCIAL INTERESTS CONVENTION [CAP. 508.
-
 **CHAPTER 508**
 
 **EUROPEAN COMMUNITIES’ FINANCIAL**
@@ -51,11 +47,7 @@ In this Act, unless the context otherwise requires:
 
 "person" as referred to in the provisions of the laws mentioned in article 3, includes the European Communities and the institutions of the European Union;
 
-"Treaty on European Union" means the Treaty between the Kingdom of Belgium, the Kingdom of Denmark, the Federal Republic of Germany, the Hellenic Republic, the Kingdom of Spain, the French Republic, Ireland, the Italian Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, the Republic of Austria, the Portuguese Republic, the Republic of Finland, the Kingdom of Sweden, the United Kingdom of Great Britain and Northern Ireland (Member States of the European Union) and the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic, concerning the accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic to the European Union, signed in Athens on the 16th day of April, 2003, of which an electronic copy [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
-of the Maltese and English texts was laid on the Table of the House on the 23rd day of June, 2003, and includes any other treaty, agreement or protocol to which Malta became a party or which became applicable to Malta in virtue thereof.
-
-*2*
+"Treaty on European Union" means the Treaty between the Kingdom of Belgium, the Kingdom of Denmark, the Federal Republic of Germany, the Hellenic Republic, the Kingdom of Spain, the French Republic, Ireland, the Italian Republic, the Grand Duchy of Luxembourg, the Kingdom of the Netherlands, the Republic of Austria, the Portuguese Republic, the Republic of Finland, the Kingdom of Sweden, the United Kingdom of Great Britain and Northern Ireland (Member States of the European Union) and the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic, concerning the accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic to the European Union, signed in Athens on the 16th day of April, 2003, of which an electronic copy of the Maltese and English texts was laid on the Table of the House on the 23rd day of June, 2003, and includes any other treaty, agreement or protocol to which Malta became a party or which became applicable to Malta in virtue thereof.
 
 ## 3. Applicability of provisions of the Criminal Code. Cap. 9.
 
@@ -68,8 +60,6 @@ The Convention as reproduced in the Schedule, shall be, and be enforceable as, p
 ## 5. Language of Schedule.
 
 The Schedule to this Act is being published in the English language only together with the English text of this Act.
-
-FINANCIAL INTERESTS CONVENTION [CAP. 508. 3
 
 ## SCHEDULE
 
@@ -111,8 +101,6 @@ For the purposes of this Convention, fraud affecting the European Communities' f
 
 \- the use or presentation of false, incorrect or incomplete statements or documents, which has as its effect the illegal diminution of the resources of the general budget of the European Communities or budgets managed by, or on behalf of, the European Communities,
 
-4 [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
 \- non-disclosure of information in violation of a specific obligation, with the same effect,
 
 \- misapplication of a legally obtained benefit, with the same effect. 2. Subject to Article 2(2), each Member State shall take the necessary and appropriate measures to transpose paragraph 1 into their national criminal law in such a way that the conduct referred to therein constitutes criminal offences.
@@ -149,8 +137,6 @@ Each Member State shall take the necessary measures to allow heads of businesses
 
 \- fraud, participation in fraud or attempted fraud affecting the European Communities' financial interests is committed in whole or in part within its territory, including fraud for which the benefit was obtained in that territory,
 
-FINANCIAL INTERESTS CONVENTION [CAP. 508. 5
-
 \- a person within its territory knowingly assists or induces the commission of such fraud within the territory of any other State,
 
 \- the offender is a national of the Member State concerned, provided that the law of that Member State may require the conduct to be punishable also in the country where it occurred.
@@ -183,9 +169,7 @@ For the purposes of this Article, a Member State’s own nationals shall be cons
 
 **Ne bis in idem**
 
-\1. Member States shall apply in their national criminal laws the 'ne bis in idem' rule, under which a person whose trial has been finally disposed of in a Member State may not be prosecuted in another Member State in respect of the same facts, provided that if a penalty was imposed, it has been enforced, is actually in the process of being enforced or can no longer be enforced under the laws of the 6 [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
-sentencing State.
+\1. Member States shall apply in their national criminal laws the 'ne bis in idem' rule, under which a person whose trial has been finally disposed of in a Member State may not be prosecuted in another Member State in respect of the same facts, provided that if a penalty was imposed, it has been enforced, is actually in the process of being enforced or can no longer be enforced under the laws of the sentencing State.
 
 \2. A Member State may, when giving the notification referred to in Article 11(2), declare that it shall not be bound by paragraph 1 of this Article in one or more of the following cases:
 
@@ -224,8 +208,6 @@ No provision in this Convention shall prevent Member States from adopting intern
 \1. Member States shall transmit to the Commission of the European Communities the text of the provisions transposing into their domestic law the obligations imposed on them under the provisions of this Convention.
 
 \2. For the purposes of implementing this Convention, the High Contracting Parties shall determine, within the Council of the European Union, the information to be communicated or exchanged between the Member States or between the Member States and the Commission, and also the arrangements for doing so.
-
-FINANCIAL INTERESTS CONVENTION [CAP. 508. 7
 
 **Article 11**
 
@@ -273,8 +255,6 @@ THE HIGH CONTRACTING PARTIES to this Protocol, Member States of the European Uni
 
 REFERRING to the Act of the Council of the European Union of 27 September 1996,
 
-8 [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
 DESIRING to ensure that their criminal laws contribute effectively to the protection of the financial interests of the European Communities;
 
 RECOGNIZING the importance of the Convention on the protection of the European Communities' financial interests of 26 July 1995 for combating fraud affecting Community revenue and expenditure;
@@ -307,9 +287,7 @@ For the purposes of this Protocol:
 
 \- any person who is an official or other contracted employee within the meaning of the Staff Regulations of officials of the European Communities or the Conditions of employment of other servants of the European Communities,
 
-\- any person seconded to the European Communities by the Member States or by any public or private body, who carries out FINANCIAL INTERESTS CONVENTION [CAP. 508. 9
-
-functions equivalent to those performed by European Community officials or other servants.
+\- any person seconded to the European Communities by the Member States or by any public or private body, who carries out functions equivalent to those performed by European Community officials or other servants.
 
 Members of bodies set up in accordance with the Treaties establishing the European Communities and the staff of such bodies shall be treated as Community officials, inasmuch as the Staff Regulations of the European Communities or the Conditions of employment of other servants of the European Communities do not apply to them;
 
@@ -339,9 +317,7 @@ Members of bodies set up in accordance with the Treaties establishing the Europe
 
 \1. Each Member State shall take the necessary measures to ensure that in its criminal law the descriptions of the offences constituting conduct of the type referred to in Article 1 of the Convention committed by its national officials in the exercise of their functions apply similarly in cases where such offences are committed by Community officials in the exercise of their duties.
 
-\2. Each Member State shall take the necessary measures to ensure that in its 10 [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
-criminal law the descriptions of the offences referred to in paragraph 1 of this Article and in Articles 2 and 3 committed by or against its Government Ministers, elected members of its parliamentary chambers, the members of its highest Courts or the members of its Court of Auditors in the exercise of their functions apply similarly in cases where such offences are committed by or against members of the Commission of the European Communities, the European Parliament, the Court of Justice and the Court of Auditors of the European Communities respectively in the exercise of their duties.
+\2. Each Member State shall take the necessary measures to ensure that in its criminal law the descriptions of the offences referred to in paragraph 1 of this Article and in Articles 2 and 3 committed by or against its Government Ministers, elected members of its parliamentary chambers, the members of its highest Courts or the members of its Court of Auditors in the exercise of their functions apply similarly in cases where such offences are committed by or against members of the Commission of the European Communities, the European Parliament, the Court of Justice and the Court of Auditors of the European Communities respectively in the exercise of their duties.
 
 \3. Where a Member State has enacted special legislation concerning acts or omissions for which Government Ministers are responsible by reason of their special political position in that Member State, paragraph 2 of this Article may not apply to such legislation, provided that the Member State ensures that Members of the Commission of the European Community are covered by the criminal legislation implementing Articles 2 and 3 and paragraph 1 of this Article.
 
@@ -374,8 +350,6 @@ This Protocol shall apply in full accordance with the relevant provisions of the
 (c) the offence is committed against one of the persons referred to in Article 1 or a member of one of the institutions referred to in Article 4(2) who is one of its nationals;
 
 (d) the offender is a Community official working for a European Community institution or a body set up in accordance with the Treaties establishing the European Communities which has its headquarters in the Member State concerned.
-
-FINANCIAL INTERESTS CONVENTION [CAP. 508. 11
 
 \2. Each Member State may declare when giving the notification provided for in Article 9(2) that it will not apply or will apply only in specific cases or conditions one or more of the jurisdiction rules laid down in paragraph 1(b), (c), and (d).
 
@@ -417,8 +391,6 @@ If no solution is found within six months, the matter may be referred to the Cou
 
 \1. This Protocol shall be open to accession by any State that becomes a member of the European Union.
 
-12 [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
 \2. The text of this Protocol in the language of the acceding State, drawn up by the Council of the European Union, shall be authentic.
 
 \3. Instruments of accession shall be deposited with the depositary.
@@ -459,8 +431,6 @@ RECOGNIZING the importance of the Convention on the protection of the European C
 
 RECOGNIZING the importance of the Protocol of 27 September 1996 to the said Convention in the fight against corruption damaging or likely to damage the European Communities' financial interests;
 
-FINANCIAL INTERESTS CONVENTION [CAP. 508. 13
-
 AWARE that the financial interests of the European Communities may be damaged or threatened by acts committed on behalf of legal persons and acts involving money laundering;
 
 CONVINCED of the need for national law to be adapted, where necessary, to provide that legal persons can be held liable in cases of fraud or active corruption and money laundering committed for their benefit that damage or are likely to damage the European Communities' financial interests;
@@ -493,9 +463,7 @@ For the purposes of this Protocol:
 
 (c) - ‘passive corruption’ shall mean the conduct referred to in Article 2 of the Protocol drawn up on the basis of Article K.3 of the Treaty on European Union to the convention on the protection of the European Communities' financial interests, of 27 September 1996 (2),
 
-\- ‘active corruption’ shall mean the conduct referred to in Article 3 14 [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
-of the same Protocol;
+\- ‘active corruption’ shall mean the conduct referred to in Article 3 of the same Protocol;
 
 (d) ‘legal person’ shall mean any entity having such status under the applicable national law, except for States or other public bodies in the exercise of State authority and for public international organizations;
 
@@ -539,8 +507,6 @@ as well as for involvement as accessories or instigators in such fraud, active c
 
 (d) a judicial winding-up order.
 
-FINANCIAL INTERESTS CONVENTION [CAP. 508. 15
-
 \2. Each Member State shall take the necessary measures to ensure that a legal person held liable pursuant to Article 3(2) is punishable by effective, proportionate and dissuasive sanctions or measures.
 
 **Article 5**
@@ -576,8 +542,6 @@ The Commission shall ensure that, in the context of the exchange of information 
 **Publication of data protection rules**
 
 The rules adopted concerning the obligations under Article 8 shall be published in the Official Journal of the European Communities.
-
-16 [CAP. 508. FINANCIAL INTERESTS CONVENTION
 
 **Article 10**
 
@@ -615,9 +579,7 @@ Any authority designated or created for the purpose of exercising the function o
 
 If no solution is found within six months, the matter may be referred to the Court of Justice by a party to the dispute.
 
-\2. Any dispute between one or more Member States and the Commission concerning the application of Article 2 in relation to Article 1(e), and Article 7, 8, 10 and 12(2), fourth indent of this Protocol which it has proved impossible to settle FINANCIAL INTERESTS CONVENTION [CAP. 508. 17
-
-through negotiation may be submitted to the Court of Justice, after the expiry of a period of six months from the date on which one of the parties has notified the other of the existence of a dispute.
+\2. Any dispute between one or more Member States and the Commission concerning the application of Article 2 in relation to Article 1(e), and Article 7, 8, 10 and 12(2), fourth indent of this Protocol which it has proved impossible to settle through negotiation may be submitted to the Court of Justice, after the expiry of a period of six months from the date on which one of the parties has notified the other of the existence of a dispute.
 
 \3. The Protocol drawn up on the basis of Article K.3 of the Treaty on European Union, on the interpretation, by way of preliminary rulings, by the Court of Justice of the European Communities of the Convention on the protection of the European Communities' financial interests, of 29 November 1996 (5), shall apply to this Protocol, on the understanding that a declaration made by a Member State pursuant to Article 2 of that Protocol is also valid regarding this Protocol unless the Member State concerned makes a declaration to the contrary when giving the notification provided for in Article 16(2) of this Protocol.
 
@@ -651,9 +613,7 @@ For the purposes of this Protocol, the non-contractual liability of the Communit
 
 **Accession of new Member States**
 
-\1. This Protocol shall be open to accession by any State that becomes a 18 [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
-member of the European Union.
+\1. This Protocol shall be open to accession by any State that becomes a member of the European Union.
 
 \2. The text of this Protocol in the language of the acceding State, drawn up by the Council of the European Union, shall be authentic.
 
@@ -686,8 +646,6 @@ The Member States declare that the reference in Article 13(2) to Article 7 of th
 Commission Declaration on Article 7
 
 The Commission accepts the tasks entrusted to it under Article 7 of the Second Additional Protocol to the Convention on the protection of the European Communities’ financial interests.
-
-FINANCIAL INTERESTS CONVENTION [CAP. 508. 19
 
 **ECJ PROTOCOL**
 
@@ -733,8 +691,6 @@ By a declaration made at the time of the signing of this Protocol or at any time
 
 A Member State making a declaration pursuant to paragraph 1 may specify that either:
 
-20 [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
 (a) any court or tribunal of that State against whose decisions there is no judicial remedy under national law may request the Court of Justice of the European Communities to give a preliminary ruling on a question raised in a case pending before it and concerning the interpretation of the Convention on the protection of the European Communities’ financial interests and the first Protocol thereto if that court or tribunal considers that a decision on the question is necessary to enable it to give judgment, or
 
 (b) any court or tribunal of that State may request the Court of Justice of the European Communities to give a preliminary ruling on a question raised in a case pending before it and concerning the interpretation of the Convention on the protection of the European Communities’ financial interests and the first Protocol thereto if that court or tribunal considers that a decision on the question is necessary to enable it to give judgment.
@@ -775,9 +731,7 @@ This Protocol shall enter into force with respect to any State that accedes to i
 
 **Article 6**
 
-Any State that becomes a member of the European Union and accedes to the FINANCIAL INTERESTS CONVENTION [CAP. 508. 21
-
-Convention on the protection of the European Communities’ financial interests in accordance with Article 12 thereof shall accept the provisions of this Protocol.
+Any State that becomes a member of the European Union and accedes to the Convention on the protection of the European Communities’ financial interests in accordance with Article 12 thereof shall accept the provisions of this Protocol.
 
 **Article 7**
 
@@ -811,9 +765,7 @@ In witness whereof the undersigned Plenipotentiaries have signed this Declaratio
 
 Done at Brussels on the twenty-ninth day of November in the year one thousand nine hundred and ninety-six.
 
-For the Government of the United Kingdom of Great Britain and Northern Ireland 22 [CAP. 508. FINANCIAL INTERESTS CONVENTION
-
-Declaration made pursuant to Article 2
+For the Government of the United Kingdom of Great Britain and Northern Ireland Declaration made pursuant to Article 2
 
 At the time of the signing of this Protocol, the following declared that they accepted the jurisdiction of the Court of Justice of the European Communities in accordance with the procedures laid down in Article 2:
 

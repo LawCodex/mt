@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Mużewijiet u Monumenti Nazzjonali (Biljetti ta Dħul Komplessivi) (Cap. 298)
 
-MUŻEWIJIET U MONUMENTI NAZZJONALI
-
-*1*
-
-(BILJETTI TA’ DĦUL KOMPLESSIVI) [KAP. 298.
-
 **KAPITOLU 298**
 
 **ATT DWAR MUŻEWIJIET U**

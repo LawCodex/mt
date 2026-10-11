@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Konvenzjoni tal-Ġnus Magħquda dwar id-Drittijiet ta’ Persuni b’Diżabilità (Cap. 627)
 
-*1*
-
-DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627.
-
 **KAPITOLU 627**
 
 **ATT DWAR IL-KONVENZJONI TAL-ĠNUS**
@@ -55,12 +51,6 @@ Iżda l-imsemmija drittijiet ma għandhomx jinftiehmu li huma drittijiet u liber
 
 "Konvenzjoni" jew "UNCRPD" tfisser il-Konvenzjoni tal-Ġnus Magħquda dwar id-Drittijiet ta’ Persuni b’Diżabilità adottata mill-Assemblea Ġenerali permezz tar-riżoluzzjoni 61/ 106 tat-13 Diċembru 2006 li daħlet fis-seħħ fit-3 ta Mejju 2008, li ġiet iffirmata mill-Gvern ta’ Malta fit-30 ta’ Marzu 2007 u rratifikata fl-10 ta’ Ottubru 2012;
 
-**DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ**
-
-*[KAP. 627.*
-
-*2*
-
 "Kumitat tal-Ġnus Magħquda" tfisser il-Kumitat tal-Ġnus Magħquda dwar id-Drittijiet ta’ Persuni b’Diżabilità stabbilit fit-termini tal-Artikolu 34 tal-Konvenzjoni;
 
 "Mekkaniżmu Nazzjonali ta’ Koordinazzjoni għall- Konvenzjoni UNCRPD" tfisser il-mekkaniżmu nazzjonali ta’ koordinazzjoni fi ħdan il-Gvern kif stabbilit permezz tad-DDI skont l-artikolu 5;
@@ -83,11 +73,9 @@ Iżda l-imsemmija drittijiet ma għandhomx jinftiehmu li huma drittijiet u liber
 
 (iv) Il-Panel għal Rimedju taħt il-Konvenzjoni, it- Tribunal ta’ Reviżjoni Amministrattiva u l-Qrati Ċivili għandhom, fit-teħid ta’ kull deċiżjoni dwar kwalunkwe talba miġjuba quddiemhom, jipprevalixxu ruħhom minn marġini ta’ apprezzament illi jikkunsidra ċ-ċirkostanzi nazzjonali fi kwalunkwe żmien, fir-rigward tal-interpretazzjoni tad-drittijiet sostantivi tal-Konvenzjoni u l-applikazzjoni tagħhom.
 
-*3*
+## 3. Proċeduri quddiem il-Panel għal Rimedju taħt il- Konvenzjoni fir-rigward ta’ talbiet dwar diskriminazz-joni minħabba f’diżabilità. Kap. 413.
 
-DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 3. (1) Kull persuna msemmija fl-artikolu 33B(4) tal- Att dwar Opportunitajiet Indaqs għal Persuni b’Diżabilità illi tallega diskriminazzjoni minħabba diżabilità, fir-rigward ta’ kwalunkwe wieħed mid-drittijiet sostantivi tal-Konvenzjoni, tista’ tippreżenta petizzjoni quddiem il-Panel għal Rimedju taħt il-Konvenzjoni fir-rigward tal-allegata diskriminazzjoni sabiex tali Panel ikun jista’ jeżamina l-imsemmija petizzjoni u jiddeċiedi dwarha.
-
-*Proċeduri quddiem il-Panel għal Rimedju taħt il- Konvenzjoni fir-rigward ta’ talbiet dwar diskriminazz-joni minħabba f’diżabilità. Kap. 413.*
+(1) Kull persuna msemmija fl-artikolu 33B(4) tal- Att dwar Opportunitajiet Indaqs għal Persuni b’Diżabilità illi tallega diskriminazzjoni minħabba diżabilità, fir-rigward ta’ kwalunkwe wieħed mid-drittijiet sostantivi tal-Konvenzjoni, tista’ tippreżenta petizzjoni quddiem il-Panel għal Rimedju taħt il-Konvenzjoni fir-rigward tal-allegata diskriminazzjoni sabiex tali Panel ikun jista’ jeżamina l-imsemmija petizzjoni u jiddeċiedi dwarha.
 
 *Proċeduri ċivili fir-rigward ta’ talbiet dwar diskrimi-nazzjoni minħabba  f’diżabilità.  Kap. 413.      Kap. 413.*
 
@@ -109,11 +97,7 @@ Meta xi liġi oħra, illi ma tkunx il-Kostituzzjoni, l-Att dwar il-Konvenzjoni E
 
 (a) jidentifika, jistabbilixxi u jġedded il-politiki u l-istrateġiji nazzjonali kollha, inkluż il-Politika Nazzjonali dwar id-Drittijiet ta’ Persuni b’Diżabilità u l-Istrateġija Nazzjonali dwar id-Diżabilità, direttament jew indirettament relatati mal-affarijiet dwar id-diżabilità;
 
-(b) iniedi inizjattivi fil-kamp tar-riċerka relatata [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-mad-diżabilità, flimkien ma’ stakeholders lokali u barranin;
-
-*4*
+(b) iniedi inizjattivi fil-kamp tar-riċerka relatata mad-diżabilità, flimkien ma’ stakeholders lokali u barranin;
 
 (ċ) jiġbor u jikkompila rispons u statistiċi meħtieġa għal rappurtar lil entitajiet lokali u internazzjonali, li jikkonċernaw l-obbligi legali ta’ Malta fil-qasam tad-diżabilità, u jikkoordina jew jikkontribwixxi għal reviżjonijiet kondotti minn tali entitajiet lokali u internazzjonali;
 
@@ -137,7 +121,7 @@ Fl-Ewwel, it-Tieni, it-Tielet u l-Ħames Skedi, jekk ikun hemm xi kunflitt bejn 
 
 ## 8. Poteri tal-Ministru.
 
-Il-Ministru jista’ jagħmel regolamenti sabiex jagħti effett lid-dispożizzjonijiet ta’ dan l-Att, u għall-infurzar tagħhom. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 5 L-EWWEL SKEDA
+Il-Ministru jista’ jagħmel regolamenti sabiex jagħti effett lid-dispożizzjonijiet ta’ dan l-Att, u għall-infurzar tagħhom. L-EWWEL SKEDA
 
 [ARTIKOLU 2(2)(i)]
 
@@ -157,7 +141,7 @@ Għall-għanijiet ta’ din il-Konvenzjoni:
 
 • "Modifiki raġonevoli" tfisser modifiki u tibdil neċessarju u xieraq li ma jimponux piż sproporzjonat jew mhux xieraq, fejn dan ikun meħtieġ f’każ partikolari, biex jassiguraw li persuna b’diżabilità tgawdi jew teżerċita fuq bażi ugwali mal-oħrajn id-drittijiet umani u l-libertajiet fundamentali kollha;
 
-• "Disinn universali" tfisser disinn ta’ prodotti, ambjenti, programmi u servizzi għall-użu ta’ kulħadd, bl-aktar mod possibbli, mingħajr il-bzonn ta’ tibdil jew disinn speċjalizzat. "Disinn universali" m’għandux jeskludi apparat assistiv għal gruppi partikolari ta’ persuni b’diżabilità fejn dan ikun meħtieġ. 6 [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
+• "Disinn universali" tfisser disinn ta’ prodotti, ambjenti, programmi u servizzi għall-użu ta’ kulħadd, bl-aktar mod possibbli, mingħajr il-bzonn ta’ tibdil jew disinn speċjalizzat. "Disinn universali" m’għandux jeskludi apparat assistiv għal gruppi partikolari ta’ persuni b’diżabilità fejn dan ikun meħtieġ.
 
 ## IT-TIENI SKEDA — [ARTIKOLU 2(1)] — Artikoli 5 sa 30 tal-Konvenzjoni tal-Ġnus Magħquda dwar id-Drittijiet ta’ Persuni
 
@@ -201,8 +185,6 @@ Miżuri speċifiċi li huma meħtieġa biex tiġi aċċellerata jew tintlaħaq l
 
 \3. L-Istati Msieħba għandhom jassiguraw li t-tfal b’diżabilità jkollhom id-dritt li jesprimu l-opinjonijiet tagħhom b’mod ħieles fuq kull ħaġa li taffettwahom, u li l-opinjonijiet tagħhom jingħataw konsiderazzjoni xierqa skont l-età u l-maturità tagħhom, fuq bażi ugwali ma’ tfal oħra, u jingħataw assistenza skont l-età u d-diżabilità tagħhom biex huma jkunu jistgħu jgawdu minn dan id-dritt.
 
-DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 7
-
 **Artikolu 8**
 
 **Għarfien**
@@ -236,8 +218,6 @@ DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 7
 **Aċċessibilità**
 
 \1. Biex jappoġġjaw persuni b’diżabilità jgħixu b’mod indipendenti u jipparteċipaw b’mod sħiħ f’kull aspett tal-ħajja, l-Istati Msieħba għandhom jieħdu miżuri xierqa li jassiguraw li persuni b’diżabilità jkollhom aċċess, fuq bażi ugwali mal-oħrajn, għall-ambjent fiżiku, it-trasport, l-informazzjoni u l-komunikazzjoni inkluż teknoloġiji u sistemi tal-informazzjoni u l-komunikazzjoni, u faċilitajiet u servizzi oħrajn miftuħa jew provduti lill-pubbliku, f’postijiet kemm urbani u kif ukoll rurali. Dawn il-miżuri, li għandhom jinkludu l-identifikazzjoni u l-eliminazzjoni ta’ ostakoli għall-aċċessibilità, għandhom japplikaw, inter alia, għal:
-
-8 [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
 
 (a) Bini, toroq, trasport u faċilitajiet oħra kemm ġewwa kif ukoll barra, inkluż skejjel, djar, faċilitajiet mediċi u postijiet tax-xogħol;
 
@@ -273,8 +253,6 @@ L-Istati Msieħba jaffermaw mill-ġdid li kull esseru uman għandu d-dritt intri
 
 L-Istati Msieħba għandhom jieħdu, skont l-obbligi tagħhom taħt id-dritt internazzjonali, inkluż id-dritt internazzjonali umanitarju u d-dritt internazzjonali dwar id-drittijiet umani, kull miżura neċessarja biex jassiguraw il-protezzjoni u s-sigurtà ta’ persuni b’diżabilità f’sitwazzjonijiet ta’ riskji, inkluż sitwazzjonijiet ta’ konflitti armati, emerġenzi umanitarji u meta jkun hemm diżastri naturali.
 
-DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 9
-
 **Artikolu 12**
 
 **Għarfien ugwali quddiem il-liġi**
@@ -309,8 +287,6 @@ Bla ħsara għad-dispożizzjonijiet ta’ dan l-artikolu, l-Istati Msieħba għa
 
 (a) igawdu d-dritt għal-libertà u s-sigurtà tal-persuna;
 
-10 [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
 (b) ma jkunx hemm ċaħda mil-libertà tagħhom b’mod illegali jew arbitrarju, u li kull ċaħda tal-libertà tkun konformi mal-liġi, u li l-eżistenza ta’ diżabilità m’għandha fl-ebda każ tiġġustifika ċ-ċaħda tal-libertà.
 
 \2. L-Istati Msieħba għandhom jassiguraw li jekk persuni b’diżabilità jiġu mċaħħda mil-libertà tagħhom permezz ta’ xi proċess, huma, fuq bażi ugwali mal-oħrajn, ikunu intitolati għal garanziji skont id-dritt internazzjonali dwar id-drittijiet umani u għandhom jiġu ttrattati b’mod konformi mal-objettivi u l-prinċipji ta’ din il- Konvenzjoni, inkluż bil-provdiment ta’ modifiki raġonevoli.
@@ -335,7 +311,7 @@ Bla ħsara għad-dispożizzjonijiet ta’ dan l-artikolu, l-Istati Msieħba għa
 
 ## 5.
 
-L-Istati Msieħba għandhom jagħmlu liġijiet u policies effettivi, inkluż DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 11 dawk iffokati fuq in-nisa u t-tfal, biex jassiguraw li każijiet ta’ esplojtazzjoni, vjolenza u abbuż kontra persuni b’diżabilità jiġu identifikati, investigati u, meta xieraq, proċessati.
+L-Istati Msieħba għandhom jagħmlu liġijiet u policies effettivi, inkluż dawk iffokati fuq in-nisa u t-tfal, biex jassiguraw li każijiet ta’ esplojtazzjoni, vjolenza u abbuż kontra persuni b’diżabilità jiġu identifikati, investigati u, meta xieraq, proċessati.
 
 **Artikolu 17**
 
@@ -367,9 +343,7 @@ L-Istati Msieħba għal din il-Konvenzjoni jagħrfu d-dritt ugwali li kull persu
 
 (a) Persuni b’diżabilità jkollhom l-opportunità li jagħżlu l-post tar-residenza u fejn u ma’ min jgħixu fuq bażi ugwali mal-oħrajn u li ma jkunux obbligati li jgħixu f’arranġament ta’ għajxien partikolari;
 
-(b) Persuni b’diżabilità jkollhom aċċess għal varjetà ta’ servizzi fid- 12 [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-dar residenzjali u servizzi oħra ta’ appoġġ fil-komunità, inkluż l-għajnuna personali neċessarja, u li jipprevjenu l-iżolament u s-segregazzjoni mill-komunità;
+(b) Persuni b’diżabilità jkollhom aċċess għal varjetà ta’ servizzi fid-dar residenzjali u servizzi oħra ta’ appoġġ fil-komunità, inkluż l-għajnuna personali neċessarja, u li jipprevjenu l-iżolament u s-segregazzjoni mill-komunità;
 
 (ċ) Servizzi u faċilitajiet fil-komunità għall-pubbliku ġenerali għandhom ikunu miftuħa fuq bażi ugwali għal persuni b’diżabilità u jirrispondu għall-bżonnijiet tagħhom.
 
@@ -399,7 +373,7 @@ L-Istati Msieħba għandhom jieħdu kull miżura xierqa biex jassiguraw li persu
 
 (ċ) Iħeġġu entitajiet privati li jipprovdu servizzi lill-pubbliku ġenerali, inkluż permezz tal-Internet, li jipprovdu informazzjoni u servizzi f’formati aċċessibbli u li jistgħu jintużaw minn persuni b’diżabilità;
 
-(d) Jinkoraġġixu lill-media tal-massa, inkluż dawk li jipprovdu l-informazzjoni permezz tal-Internet, biex jagħmlu s-servizzi tagħhom aċċessibbli DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 13 għal persuni b’diżabilità;
+(d) Jinkoraġġixu lill-media tal-massa, inkluż dawk li jipprovdu l-informazzjoni permezz tal-Internet, biex jagħmlu s-servizzi tagħhom aċċessibbli għal persuni b’diżabilità;
 
 (e) Jagħrfu u jippromwovu l-użu tal-lingwi tas-sinjali.
 
@@ -426,8 +400,6 @@ L-Istati Msieħba għandhom jieħdu kull miżura xierqa biex jassiguraw li persu
 \2. L-Istati Msieħba għandhom jassiguraw id-drittijiet u r-responsabilitajiet ta’ persuni b’diżabilità fir-rigward ta’ guardianship, wardship, trusteeship, adozzjoni ta’ tfal u istituzzjonijiet simili, fejn dawn il-kunċetti jeżistu fil-leġiżlazzjoni nazzjonali; f’kull każ l-aħjar interess tat-tifel jew tifla għandu jkunu l-ogħla interess. L-Istati Msieħba għandhom joffru assistenza xierqa lill-persuni b’diżabilità biex ikunu jistgħu jerfgħu r-responsabilitajiet biex irabbu lil uliedhom.
 
 \3. L-Istati Msieħba għandhom jassiguraw li t-tfal b’diżabilità jkollhom drittijiet ugwali fir-rigward tal-ħajja tal-familja. Bil-għan li dawn id-drittijiet jiġu realizzati, u biex jipprevjenu l-ħabi, l-abbandun, in-negliġenza u s-segregazzjoni ta’ tfal b’diżabilità, l-Istati Msieħba għandhom jipprovdu informazzjoni komprensiva u bikrija, servizzi u appoġġ lil tfal b’diżabilità u l-familji tagħhom.
-
-14 [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
 
 \4. L-Istati Msieħba għandhom jassiguraw li t-tfal ma għandhomx jiġu separati mill-ġenituri tagħhom kontra r-rieda tagħhom, ħlief meta awtoritajiet kompetenti, bla ħsara għar-reviżjoni ġuridika, jiddeterminaw, skont il-liġijiet u l-proċeduri applikabbli, li separazzjoni bħal din hi neċessarja fl-aqwa interessi tat-tifel jew tifla. Fl-ebda każ it-tifel jew tifla m’għandu jew m’għandha jiġi jew tiġi separat jew separata mill-ġenituri tiegħu jew tagħha minħabba d-diżabilità tiegħu jew tagħha jew ta’ wieħed jew waħda jew taż-żewġ ġenituri.
 
@@ -457,7 +429,7 @@ L-Istati Msieħba għandhom, meta l-familja immedjata ma tistax tieħu ħsieb ti
 
 (d) Persuni b’diżabilità jirċievu l-appoġġ meħtieġ, fi ħdan is-sistema edukattiva ġenerali, biex tiġi faċilitata l-edukazzjoni effettiva tagħhom;
 
-(e) Miżuri ta’ appoġġ effettivi u individwalizzati jiġu provduti f’ambjenti li jimmassimizzaw l-iżvilupp akkademiku u soċjali, konsistenti mal- DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 15 għan ta’ inklużjoni sħiħa.
+(e) Miżuri ta’ appoġġ effettivi u individwalizzati jiġu provduti f’ambjenti li jimmassimizzaw l-iżvilupp akkademiku u soċjali, konsistenti mal-għan ta’ inklużjoni sħiħa.
 
 \3. L-Istati Msieħba għandhom jappoġġjaw persuni b’diżabilità biex jingħataw it-tagħlim f’ħiliet ta’ żvilupp soċjali u tal-għajxien, li jiffaċilitaw il-parteċipazzjoni sħiħa u ugwali tagħhom fl-edukazzjoni u bħala membri tal-komunità. Għal dan il-għan, l-Istati Msieħba għandhom jieħdu miżuri xierqa, li jinkludu:
 
@@ -481,9 +453,7 @@ L-Istati Msieħba jagħrfu li persuni b’diżabilità għandhom id-dritt għat-
 
 (a) Jipprovdu lill-persuni b’diżabilità kura dwar is-saħħa u programmi mingħajr ħlas jew bi ħlas li jista’ jintlaħaq, li jkollhom l-istess firxa, kwalità u standard li huma pprovduti lil persuni oħra, inkluż fil-qasam tas-saħħa sesswali u riproduttiva u progammi dwar saħħa pubblika bbażata fuq il-popolazzjoni;
 
-(b) Jipprovdu dawk is-servizzi ta’ saħħa meħtieġa minn persuni b’diżabilità speċifikament minħabba d-diżabilitajiet tagħhom, inkluż l-identifikazzjoni u interventi bikrija kif xieraq u servizzi ddisinjati li 16 [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-jimminimizzaw u jipprevjenu aktar diżabilitajiet, inkluż fost it-tfal u persuni anzjani;
+(b) Jipprovdu dawk is-servizzi ta’ saħħa meħtieġa minn persuni b’diżabilità speċifikament minħabba d-diżabilitajiet tagħhom, inkluż l-identifikazzjoni u interventi bikrija kif xieraq u servizzi ddisinjati li jimminimizzaw u jipprevjenu aktar diżabilitajiet, inkluż fost it-tfal u persuni anzjani;
 
 (ċ) Jipprovdu dawn is-servizzi ta’ saħħa viċin l-aktar possibbli tal-komunitajiet tal-persuni nfushom inkluż f’postijiet rurali;
 
@@ -506,8 +476,6 @@ jimminimizzaw u jipprevjenu aktar diżabilitajiet, inkluż fost it-tfal u persun
 \2. L-Istati Msieħba għandhom jippromwovu l-iżvilupp tat-taħriġ inizjali u kontinwu lill-professjonisti u l-istaff li jaħdmu f’servizzi ta’ abilitazzjoni u riabilitazzjoni.
 
 \3. L-Istati Msieħba għandhom jippromwovu d-disponibilità, it-tagħrif u l-użu ta’ apparat assistiv u teknoloġiji, iddisinjati għal persuni b’diżabilità, kif dawn jirrelataw mal-abilitazzjoni u r-riabilitazzjoni.
-
-DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 17
 
 **Artikolu 27**
 
@@ -535,9 +503,7 @@ DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 17
 
 (j) Jippromwovu l-akkwist minn persuni b’diżabilità ta’ esperjenza fis-suq miftuħ tax-xogħol;
 
-(k) Jippromwovu r-riabilitazzjoni vokazzjonali u professjonali, u programmi li jgħinu lill-persuni b’diżabilità biex iżommu l-impjieg u biex 18 [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-jerggħu lura għax-xogħol.
+(k) Jippromwovu r-riabilitazzjoni vokazzjonali u professjonali, u programmi li jgħinu lill-persuni b’diżabilità biex iżommu l-impjieg u biex jerggħu lura għax-xogħol.
 
 \2. L-Istati Msieħba għandhom jassiguraw li persuni b’diżabilità ma jinżammux fi skjavitù jew servitù, u jkunu protetti, fuq bażi ugwali mal-oħrajn, minn xogħol sfurzat jew obbligatorju.
 
@@ -567,7 +533,7 @@ L-Istati Msieħba għandhom jiggarantixxu li persuni b’diżabilità jkollhom d
 
 (a) Jassiguraw li persuni b’diżabilità jistgħu jipparteċipaw b’mod effettiv u sħiħ fil-ħajja pubblika u politika fuq bażi ugwali mal-oħrajn, direttament jew permezz tar-rappreżentanti magħżula b’mod ħieles, inkluż id-dritt u l-opportunità biex persuni b’diżabilità jivvutaw u jiġu eletti, billi inter alia:
 
-(i) Jassiguraw li l-proċeduri, il-faċilitajiet u l-materjal tal- DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 19 votazzjoni jkunu xierqa, aċċessibbli u faċli biex tifhimhom u tużahom;
+(i) Jassiguraw li l-proċeduri, il-faċilitajiet u l-materjal tal-votazzjoni jkunu xierqa, aċċessibbli u faċli biex tifhimhom u tużahom;
 
 (ii) Jipproteġu d-dritt li persuni b’diżabilità jivvutaw permezz ta’ vot sigriet f’elezzjonijiet u referenda pubbliċi mingħajr intimidazzjoni, u li jkunu jistgħu jikkontestaw elezzjonijiet, effettivament ikollhom karigi u jeżerċitaw uffiċċji pubbliċi f’kull livell tal-gvern, jiffaċilitaw l-użu ta’ teknoloġiji assistivi u ġodda fejn xieraq;
 
@@ -593,9 +559,7 @@ L-Istati Msieħba għandhom jiggarantixxu li persuni b’diżabilità jkollhom d
 
 \2. L-Istati Msieħba għandhom jieħdu miżuri xierqa li jgħinu persuni b’diżabilità biex ikollhom l-opportunità li jiżviluppaw u jutilizzaw il-potenzjal kreattiv, artistiku u intellettwali tagħhom, mhux biss għall-beneficcju tagħhom infushom, imma wkoll biex is-soċjetà tkun aktar rikka.
 
-\3. L-Istati Msieħba għandhom jieħdu l-miżuri xierqa kollha, skont id-dritt internazzjonali, biex jassiguraw li l-liġijiet li jipproteġu d-drittjiet dwar il-proprjetà intellettwali ma jikkostitwixxux ostakoli mhux raġonevoli u diskriminatorji biex 20 [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-persuni b’diżabilità jkollhom aċċess għal materjal kulturali.
+\3. L-Istati Msieħba għandhom jieħdu l-miżuri xierqa kollha, skont id-dritt internazzjonali, biex jassiguraw li l-liġijiet li jipproteġu d-drittjiet dwar il-proprjetà intellettwali ma jikkostitwixxux ostakoli mhux raġonevoli u diskriminatorji biex persuni b’diżabilità jkollhom aċċess għal materjal kulturali.
 
 \4. Persuni b’diżabilità għandhom ikunu intitolati, fuq bażi ugwali mal-oħrajn, għall-għarfien u l-appoġġ tal-identità lingwistika u kulturali speċifika, inkluż il-lingwi tas-sinjali u l-kultura tat-torox.
 
@@ -627,7 +591,7 @@ Il-leġiżlazzjoni nazzjonali ta’ Malta tqis it-terminazzjoni tat- tqala perme
 
 Riżervi li saru mar-ratifika:
 
-"[…] Għall-finijiet tal-Artikolu 29(a)(i) u (iii) tal-Konvenzjoni, filwaqt li l- DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. 21 Gvern ta’ Malta huwa impenjat bis-sħiħ biex jiżgura l-parteċipazzjoni effettiva u sħiħa ta’ persuni b’diżabilità fil-ħajja politika u pubblika, inkluż l-eżerċizzju tad-dritt tagħhom li jivvutaw b’vot sigriet f’elezzjoni jew referenda, u biex joħorġu għall-elezzjonijiet, Malta tagħmel ir-riżervi li ġejjin:
+"[…] Għall-finijiet tal-Artikolu 29(a)(i) u (iii) tal-Konvenzjoni, filwaqt li l- Gvern ta’ Malta huwa impenjat bis-sħiħ biex jiżgura l-parteċipazzjoni effettiva u sħiħa ta’ persuni b’diżabilità fil-ħajja politika u pubblika, inkluż l-eżerċizzju tad-dritt tagħhom li jivvutaw b’vot sigriet f’elezzjoni jew referenda, u biex joħorġu għall-elezzjonijiet, Malta tagħmel ir-riżervi li ġejjin:
 
 Fir-rigward ta’ (a)(i):
 
@@ -652,12 +616,6 @@ F’dan l-istadju, Malta tirriżerva d-dritt li tkompli tapplika leġiżlazzjoni
 Fir-rigward ta’ (a)(iii):
 
 Malta tirriżerva d-dritt li tkompli tapplika l-leġiżlazzjoni elettorali attwali tagħha fir-rigward ta’ proċedura ta’ votazzjoni.".
-
-**DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ**
-
-*[KAP. 627.*
-
-*22*
 
 IR-RABA’ SKEDA
 
@@ -695,10 +653,6 @@ F’din l-Iskeda, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’oħra:
 
 (a) il-ġenituri;
 
-*23*
-
-DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627.
-
 (b) il-mara jew ir-raġel jew is-sieħeb jew is-sieħba;
 
 (ċ) l-iben, il-bint, ħu jew oħt, li jkollhom tmintax-il sena jew aktar; u
@@ -727,11 +681,7 @@ Persuna tkun qiegħda tiddiskrimina ma’ persuna oħra minħabba f’diżabilit
 
 (a) ixxekkel l-indipendenza tal-ħsieb, l-avvanz soċjali u ekonomiku, u l-integrazzjoni fis-soċjetà ta’ dik il-persuna;
 
-(b) iċċaħħad lil dik il-persuna l-oħra mill- DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-protezzjoni u d-drittijiet li tagħti l-liġi;
-
-*[KAP. 627. 24*
+(b) iċċaħħad lil dik il-persuna l-oħra mill-protezzjoni u d-drittijiet li tagħti l-liġi;
 
 (ċ) tonqos milli tagħti aċċess sħiħ lil persuna b’diżabilità għal dawk l-azzjonijiet kollha li tagħti l-liġi;
 
@@ -749,11 +699,9 @@ protezzjoni u d-drittijiet li tagħti l-liġi;
 
 (j) tirrikjedi li dik il-persuna l-oħra tikkonforma ma’ xi ħtieġa jew kondizzjoni li magħha jikkonformaw jew ikunu jistgħu jikkonformaw il-maġġoranza ta’ persuni li ma jkollhomx dik id-diżabilità, li ma tkunx raġonevoli fiċ-ċirkostanzi tal-każ, u li magħha dik il-persuna l-oħra ma tkunx tikkonforma jew ma tkunx tista’ tikkonforma;
 
-(k) tittratta, jew tipproponi li tittratta, lil dik il-persuna l-oħra b’mod inqas favorevoli milli tittratta jew kieku tittratta lil persuni oħrajn li ma jkollhomx dik id-diżabilità minħabba fil-fatt li dik il-persuna l-oħra tkun akkumpanjata bi jew ikollha mezz assistiv li jintuża minn dik il-persuna l-oħra jew minħabba f’kull ħaġa li jkollha x’taqsam ma’ dak il-fatt, sew jekk tkun sew jekk ma tkunx il-prattika li tittratta b’mod DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. hekk inqas favorevoli lil xi persuna li tkun akkumpanjata bi jew li jkollha xi mezz assistiv bħal dak;
+(k) tittratta, jew tipproponi li tittratta, lil dik il-persuna l-oħra b’mod inqas favorevoli milli tittratta jew kieku tittratta lil persuni oħrajn li ma jkollhomx dik id-diżabilità minħabba fil-fatt li dik il-persuna l-oħra tkun akkumpanjata bi jew ikollha mezz assistiv li jintuża minn dik il-persuna l-oħra jew minħabba f’kull ħaġa li jkollha x’taqsam ma’ dak il-fatt, sew jekk tkun sew jekk ma tkunx il-prattika li tittratta b’mod hekk inqas favorevoli lil xi persuna li tkun akkumpanjata bi jew li jkollha xi mezz assistiv bħal dak;
 
 (l) tivvittimizza lil xi persuna talli din tkun għamlet ilment lill-awtoritajiet leġittimi jew talli tkun bdiet jew ħadet sehem fi proċedimenti għal riżarċiment abbażi tal-ksur allegat ta’ xi dispożizzjoni ta’ dan l-Att, jew talli tkun tat informazzjoni, kunfidenzjali jew mhix, lil awtorità stabbilita, rigward xi mġiba, attivitajiet jew prattiċi allegatament diskriminatorji;
-
-*25*
 
 (m) tissoġġetta lil dik il-persuna għal żvantaġġ partikolari b’xi provvediment, kriterju jew prattika apparentement newtrali;
 
@@ -777,10 +725,6 @@ B. IMPJIEG
 
 (e) kull patt, kondizzjoni u privileġġ ieħor li għandu x’jaqsam ma’ impjieg.
 
-*26*
-
-[KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
 (2) Għall-għanijiet tal-paragrafu (1) u mingħajr preġudizzju għall-ġeneralità ta’ dan l-Att, prinċipal jitqies li jkun qed jiddiskrimina minħabba f’diżabilità kontra persuna kif hemm imsemmi, jekk dak il-prinċipal b’mod li mhux raġonevoli:
 
 (a) jillimita, jissegrega jew jikklassifika lil dik il-persuna b’mod li dan itellef l-opportunitajiet jew il-grad ta’ dik il-persuna; jew
@@ -797,11 +741,9 @@ B. IMPJIEG
 
 (g) jonqos milli jagħżel u jagħmel provi dwar xi impjieg bil-mod l-iktar effettiv sabiex jiżgura li, meta ssir il-prova fuq dik il-persuna, u dik il-persuna tinzerta jkollha diżabilità li tnaqqas il-kapaċitajiet tagħha ta’ kif tħoss, tuża jdejha jew titkellem, ir-riżultati ta’ dawk il-provi jkunu jirriflettu b’mod preċiż il- kapaċitajiet jew ix-xeħtiet ta’ dik il-persuna.
 
-(3) Meta prinċipal jeskludi minn xi impjieg jew tkomplija ta’ impjieg lil xi persuna li jkollha l-kwalifiki li tingħata dak l-impjieg jew li tkompli f’dak l-impjieg jew xort’oħra jillimita l-opportunitajiet, grad jew benefiċċji ta’ dik il-persuna minħabba fid- diżabilità ta’ persuna oħra li magħha dik il-persuna tkun magħrufa jew suspettata li jkollha relazzjoni jew assoċjazzjoni, dik DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. l-esklużjoni jew limitazzjoni għandhom, għall-għanijiet ta’ din it-Taqsima, jitqiesu bħallikieku kienu diskriminazzjoni minħabba f’diżabilità kontra persuna bħalma hemm imsemmi fil-paragrafu (1).
+(3) Meta prinċipal jeskludi minn xi impjieg jew tkomplija ta’ impjieg lil xi persuna li jkollha l-kwalifiki li tingħata dak l-impjieg jew li tkompli f’dak l-impjieg jew xort’oħra jillimita l-opportunitajiet, grad jew benefiċċji ta’ dik il-persuna minħabba fid- diżabilità ta’ persuna oħra li magħha dik il-persuna tkun magħrufa jew suspettata li jkollha relazzjoni jew assoċjazzjoni, dik l-esklużjoni jew limitazzjoni għandhom, għall-għanijiet ta’ din it-Taqsima, jitqiesu bħallikieku kienu diskriminazzjoni minħabba f’diżabilità kontra persuna bħalma hemm imsemmi fil-paragrafu (1).
 
 (4) Għall-għanijiet tal-paragrafu (2)(d), il-fatturi li għandhom jitqiesu sabiex jiġi stabbilit jekk tibdil ikunx se jippreġudika b’mod mhux xieraq it-tħaddim ta’ sengħa jew negozju ġestit mill-prinċipal għandhom ikunu jinkludu:
-
-*27*
 
 (a) ix-xorta u n-nefqa tat-tibdil;
 
@@ -825,11 +767,7 @@ B. IMPJIEG
 
 (b) ristrutturar ta’ impjiegi, it-tnedija ta’ sistemi ta’ xogħol part-time jew skeda ta’ xogħol modifikata, it-tqassim mill-ġdid ta’ karigi battala, l-akkwist jew il-modifika ta’ tagħmir jew mezzi, l-aġġustament jew tibdil xieraq ta’ eżamijiet jew materjal ta’ taħriġ jew policies, il- provdiment ta’ qarrejja jew interpreti, u l-għemil ta’ kull tibdil ieħor simili għal persuna b’diżabilità; u
 
-(ċ) gwida għall-karriera ta’ kwalità u vokazzjonali, liema gwida għandha tkun mingħajr ħlas għall-persuna [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-b’diżabilità.
-
-*28*
+(ċ) gwida għall-karriera ta’ kwalità u vokazzjonali, liema gwida għandha tkun mingħajr ħlas għall-persuna b’diżabilità.
 
 ## 2. Eżamijiet mediċi.
 
@@ -851,11 +789,9 @@ b’diżabilità.
 
 (b) lill-persunal li jagħti l-ewwel għajnuna u jieħu ħsieb l- inkolumità tal-impjegati dwar kull kura ta’ emerġenza li tkun tista’ tenħtieġ dik il-persuna li tkun applikat minħabba fid-diżabilità tagħha jew dwar kull prekawzjoni speċjali li tista’ tkun meħtieġa minħabba f’dik id-diżabilità.
 
-(5) B’żieda mad-dispożizzjonijiet tal-paragrafu (1), iżda bla ħsara għad-dispożizzjonijiet tal-paragrafi (3) u (4), prinċipal jista’ jitlob li jsiru eżamijiet mediċi fuq bażi volontarja, inkluż il-ġbir ta’ kull storja medika b’mod volontarju, li jkunu jagħmlu DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. sehem minn programm ta’ saħħa għall-impjegati.
+(5) B’żieda mad-dispożizzjonijiet tal-paragrafu (1), iżda bla ħsara għad-dispożizzjonijiet tal-paragrafi (3) u (4), prinċipal jista’ jitlob li jsiru eżamijiet mediċi fuq bażi volontarja, inkluż il-ġbir ta’ kull storja medika b’mod volontarju, li jkunu jagħmlu sehem minn programm ta’ saħħa għall-impjegati.
 
 (6) Għall-għanijiet ta’ din it-Taqsima, kull eżami mediku bħalma hemm imsemmi fiha għandu jinkludi kull eżami mediku u, jew, psikoloġiku li jista’ jkun meħtieġ fiċ-ċirkostanzi tal-każ.
-
-*29*
 
 ## 3. Trade Unions.
 
@@ -883,11 +819,7 @@ Organizzazzjoni reġistrata skont l-Att dwar l-Impjiegi u r- Relazzjonijiet Indu
 
 (ċ) fil-mod kif l-aġenzija tipprovdi lil dik il-persuna xi servizz li tagħti.
 
-(2) Għall-iskop ta’ din it-Taqsima aġenzija tal-impjieg ma għandhiex titqies li qed tiddiskrimina kontra persuna minħabba fid-diżabilità tagħha jekk, meta jkun ikkunsidrat it-taħriġ ta’ dik il-persuna, il-kwalifiki u l-esperjenza rilevanti għax-xogħol li hija tkun [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-qiegħda tfittex, u l-fatturi rilevanti l-oħra kollha li għandhom raġonevolment jitqiesu, dik il-persuna ma tkunx kapaċi, minħabba fid-diżabilità tagħha, li twettaq il-ħtiġiet neċessarji tax-xogħol li tkun qed tfittex.
-
-*30*
+(2) Għall-iskop ta’ din it-Taqsima aġenzija tal-impjieg ma għandhiex titqies li qed tiddiskrimina kontra persuna minħabba fid-diżabilità tagħha jekk, meta jkun ikkunsidrat it-taħriġ ta’ dik il-persuna, il-kwalifiki u l-esperjenza rilevanti għax-xogħol li hija tkun qiegħda tfittex, u l-fatturi rilevanti l-oħra kollha li għandhom raġonevolment jitqiesu, dik il-persuna ma tkunx kapaċi, minħabba fid-diżabilità tagħha, li twettaq il-ħtiġiet neċessarji tax-xogħol li tkun qed tfittex.
 
 Ċ. EDUKAZZJONI
 
@@ -909,9 +841,7 @@ qiegħda tfittex, u l-fatturi rilevanti l-oħra kollha li għandhom raġonevolme
 
 (3) Meta d-dħul jew it-tkomplija ta’ parteċipazzjoni ta’ persuna b’diżabilità bħala student f’istituzzjoni edukattiva jkun jenħtieġ l-għoti ta’ servizzi jew faċilitajiet li ma jkunux meħtieġa minn studenti li ma jkollhomx diżabilità, l-awtorità jew istituzzjoni edukattiva involuta tista’ tiċħad jew tonqos milli tħalli li jsir id-dħul, jew it-tkomplija ta’ parteċipazzjoni, bħala student ta’ dik il-persuna f’dik l-istituzzjoni edukattiva jekk dik l-awtorità jew istituzzjoni ġġib prova li d-dħul, jew it-tkomplija ta’ parteċipazzjoni, ta’ dik il-persuna f’dik l-istituzzjoni jkun jeħtieġ servizzi jew faċilitajiet li l-għoti tagħhom jimponi piż mhux ġustifikat fuq l-istituzzjoni jew awtorità edukattiva involuta.
 
-*31*
-
-DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. D. AĊĊESS GĦALL-PROPRJETÀ
+D. AĊĊESS GĦALL-PROPRJETÀ
 
 (1) Salv kif provdut fil-paragrafu (2), u mingħajr preġudizzju għall-ġeneralità ta’ dan l-Att, ħadd ma jista’ jiddiskrimina kontra persuna oħra minħabba fid-diżabilità ta’ dik il-persuna l-oħra jew f’diżabilità ta’ xi wieħed mill-membri tal-familja ta’ dik il-persuna l-oħra:
 
@@ -931,11 +861,7 @@ DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. D. AĊĊESS GĦALL-PROPRJET
 
 E. GĦOTI TA’ OĠĠETTI, FAĊILITAJIET JEW SERVIZZI
 
-(1) Salv kif provdut fil-paragrafu (3), u mingħajr preġudizzju għall-ġeneralità ta’ dan l-Att, ebda persuna b’diżabilità kwalifikata m’għandha, minħabba f’diżabilità, tkun eskluża milli tipparteċipa fi jew tiċċaħħad mill-benefiċċji tal-programmi jew attivitajiet ta’ xi persuna jew korp għar-rigward tal-oġġetti, [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-faċilitajiet jew servizzi li din it-Taqsima tapplika għalihom jew li ssir diskriminazzjoni kontrihom minn xi persuna jew korp li jkunu jipprovdu dawn l-oġġetti, faċilitajiet jew servizzi li l-persuna kwalifikata tkun qiegħda tfittex li tikseb jew li tuża.
-
-*32*
+(1) Salv kif provdut fil-paragrafu (3), u mingħajr preġudizzju għall-ġeneralità ta’ dan l-Att, ebda persuna b’diżabilità kwalifikata m’għandha, minħabba f’diżabilità, tkun eskluża milli tipparteċipa fi jew tiċċaħħad mill-benefiċċji tal-programmi jew attivitajiet ta’ xi persuna jew korp għar-rigward tal-oġġetti, faċilitajiet jew servizzi li din it-Taqsima tapplika għalihom jew li ssir diskriminazzjoni kontrihom minn xi persuna jew korp li jkunu jipprovdu dawn l-oġġetti, faċilitajiet jew servizzi li l-persuna kwalifikata tkun qiegħda tfittex li tikseb jew li tuża.
 
 (2) Din it-Taqsima tapplika għall-għoti (sew bi ħlas sew le) ta’ oġġetti, faċilitajiet u servizzi lill-pubbliku jew lil xi settur tal- pubbliku u tinkludi b’mod partikolari, iżda mingħajr preġudizzju għall-ġeneralità ta’ dak imsemmi qabel:
 
@@ -963,11 +889,9 @@ faċilitajiet jew servizzi li din it-Taqsima tapplika għalihom jew li ssir disk
 
 (l) dawk il-faċilitajiet u servizzi oħra li l-Ministru jista’ jippreskrivi b’regolamenti li jsiru bis-saħħa ta’ dan l- Att.
 
-(3) Id-dispożizzjonijiet tal-paragrafi (1) u (2) m’għandhomx ikunu japplikaw meta t-tħaris ta’ dawk id-dispożizzjonijiet li jkollhom x’jaqsmu ma’ persuna b’diżabilità kwalifikata ma jkunx prattiku jew inkolumi u ma jkunx jista’ jsir prattiku jew inkolumi permezz ta’ bdil raġonevoli fir-regoli, DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. prinċipji ta’ eżekuzzjoni jew prattika, jew bit-tneħħija ta’ ostakoli arkitettoniċi, ta’ komunikazzjoni jew fit-trasport jew l-għoti ta’ kull għajnuna jew servizzi awżiljarji.
+(3) Id-dispożizzjonijiet tal-paragrafi (1) u (2) m’għandhomx ikunu japplikaw meta t-tħaris ta’ dawk id-dispożizzjonijiet li jkollhom x’jaqsmu ma’ persuna b’diżabilità kwalifikata ma jkunx prattiku jew inkolumi u ma jkunx jista’ jsir prattiku jew inkolumi permezz ta’ bdil raġonevoli fir-regoli, prinċipji ta’ eżekuzzjoni jew prattika, jew bit-tneħħija ta’ ostakoli arkitettoniċi, ta’ komunikazzjoni jew fit-trasport jew l-għoti ta’ kull għajnuna jew servizzi awżiljarji.
 
 F. SAĦĦA
-
-*33*
 
 (1) Persuna tkun qiegħda tiddiskrimina ma’ persuna oħra minħabba f’diżabilità jekk lil dik il-persuna tirrifjuta li tagħti servizz ta’ saħħa tal-istess standard, kundizzjonijiet, ukoll finanzjarji, tal-firxa u ta’ kwalità daqs dak ipprovdut lil persuni oħra, inkluż u mhux biss f’dak li għandu x’jaqsam ma’ saħħa sesswali u riproduttiva.
 
@@ -993,11 +917,7 @@ G. AKKOMODAZZJONI
 
 (ċ) billi tiddiferixxi l-applikazzjoni ta’ dik il-persuna l-oħra għall-akkomodazzjoni jew billi tagħti lil dik il-persuna l-oħra ordni ta’ preċedenza inqas f’xi lista ta’ applikanti għal dik l-akkomodazzjoni; jew
 
-(d) billi tiċħad jew tillimita l-aċċess lil dik il- [KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
-
-persuna l-oħra għal kull benefiċċju li jkollu x’jaqsam ma’ akkomodazzjoni okkupata minn dik il-persuna l-oħra; jew
-
-*34*
+(d) billi tiċħad jew tillimita l-aċċess lil dik il-persuna l-oħra għal kull benefiċċju li jkollu x’jaqsam ma’ akkomodazzjoni okkupata minn dik il-persuna l-oħra; jew
 
 (e) billi tkeċċi lil dik il-persuna l-oħra minn kull akkomodazzjoni li tkun okkupata minn dik il-persuna l-oħra; jew
 
@@ -1025,10 +945,6 @@ Ebda ħaġa taħt dan l-Att m’għandha b’xi mod tinftiehem bħala li tipproj
 
 (a) opportunitajiet indaqs ma’ persuni oħra li ma jkollhomx diżabilità; jew
 
-*35*
-
-DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627.
-
 (b) trattament speċjali li jkun konformi mal-ħtiġiet partikolari tagħhom fl-għoti ta’ oġġetti, faċilitajiet, servizzi jew opportunitajiet sabiex jiġu sodisfatti dawk il-ħtiġiet partikolari; jew
 
 (ċ) għotjiet, benefiċċji jew programmi, sew diretti sew indiretti, sabiex jiġu sodisfatti l-ħtiġiet partikolari tagħhom, bil-għan li dawk il-persuni jiġu integrati ma’ persuni oħra li ma jkollhomx diżabilità fi ħwejjeġ li jkollhom x’jaqsmu ma’ impjieg, edukazzjoni, akkomodazzjoni, l-għoti u l-użu ta’ oġġetti, servizzi u faċilitajiet, l-amministrazzjoni ta’ liġijiet u l-kapaċità tagħhom li jgħixu ħajja indipendenti fi ħdan il-komunità kollha kemm hi.
@@ -1036,10 +952,6 @@ DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627.
 ## 2. Eżenzjonijiet għall- filantropija.
 
 Id-dispożizzjonijiet ta’ dan l-Att ma għandhomx jolqtu xi dispożizzjoni f’xi att filantropiku li jagħti benefiċċji filantropiċi, jew li jagħmilha possibbli li jingħataw benefiċċji filantropiċi, għal kollox jew f’parti minnhom biss, lil persuni b’diżabilità jew b’xi diżabilità partikolari.
-
-*36*
-
-[KAP. 627. DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ
 
 ## IL-ĦAMES SKEDA — [ARTIKOLU 2(2)(iii)] — Kummenti Ġenerali maħruġa mill-Kumitat tal-Ġnus Magħquda
 
@@ -1081,9 +993,7 @@ Artikolu 5: Ugwaljanza u non-diskriminazzjoni
 
 Dokument numru CRPD/C/GC/6 fis-Sistema ta' Dokumenti Uffiċjali tal-Ġnus Magħquda (ODS), kif emendat minn żmien għal żmien, għandu japplika mutatis mutandis.
 
-*37*
-
-DRITTIJIET TA’ PERSUNI B’DIŻABILITÀ [KAP. 627. G. KUMMENT ĠENERALI Nru 7
+G. KUMMENT ĠENERALI Nru 7
 
 Artikoli 4(3) u 33(3): Parteċipazzjoni ta’ persuni b’diżabilità fl-implimentazzjoni u l-moniteraġġ tal-Konvenzjoni
 

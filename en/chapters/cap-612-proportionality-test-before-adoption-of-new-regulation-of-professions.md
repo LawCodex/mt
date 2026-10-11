@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Proportionality Test Before Adoption of New Regulation of Professions Act (Cap. 612)
 
-*1*
-
-REGULATION OF PROFESSIONS [CAP. 612.
-
 **CHAPTER 612**
 
 PROPORTIONALITY TEST BEFORE ADOPTION OF
@@ -57,11 +53,7 @@ ACT XXV of 2020.
 
 (1) No new legislative, regulatory or administrative provisions restricting access to, or the pursuit of, a regulated profession may be introduced, and no existing legislative, regulatory or administrative provisions restricting access to, or the pursuit of, a regulated profession may be amended, before the Ministry responsible for the said regulated profession shall have undertaken an assessment of proportionality in accordance with the rules laid down in this Act.
 
-(2) The extent of the assessment referred to in sub-article (1) [CAP.612. REGULATION OF PROFESSIONS
-
-shall be proportionate to the nature, the content and the impact of the provision.
-
-*2*
+(2) The extent of the assessment referred to in sub-article (1) shall be proportionate to the nature, the content and the impact of the provision.
 
 (3) Any provision referred to in sub-article (1) shall be accompanied by an explanation which is sufficiently detailed to make it possible to appraise compliance with the principle of proportionality.
 
@@ -79,11 +71,7 @@ When new legislative, regulatory or administrative provisions restricting access
 
 (1) The Ministry responsible for a regulated profession shall ensure that the legislative, regulatory or administrative provisions restricting access to, or the pursuit of, the said regulated profession, that are intended to be introduced and that the amendments that are intended to be made to existing provisions are justified by public interest objectives.
 
-(2) The Ministry responsible for the regulated profession shall consider in particular whether the provisions referred to in sub-article (1) are objectively justified on the basis of public policy, public security or public health, or by overriding reasons in the public interest, such as preserving the financial equilibrium of the social security system; the protection of consumers, of recipients of services REGULATION OF PROFESSIONS [CAP. 612.
-
-and of workers; the safeguarding of the proper administration of justice; ensuring the fairness of trade transactions; the combating of fraud and the prevention of tax evasion and avoidance, and the safeguarding of the effectiveness of fiscal supervision; transport safety; the protection of the environment and the urban environment; the health of animals; intellectual property; the safeguarding and conservation of the national historic and artistic heritage; social policy objectives; and cultural policy objectives.
-
-*3*
+(2) The Ministry responsible for the regulated profession shall consider in particular whether the provisions referred to in sub-article (1) are objectively justified on the basis of public policy, public security or public health, or by overriding reasons in the public interest, such as preserving the financial equilibrium of the social security system; the protection of consumers, of recipients of services and of workers; the safeguarding of the proper administration of justice; ensuring the fairness of trade transactions; the combating of fraud and the prevention of tax evasion and avoidance, and the safeguarding of the effectiveness of fiscal supervision; transport safety; the protection of the environment and the urban environment; the health of animals; intellectual property; the safeguarding and conservation of the national historic and artistic heritage; social policy objectives; and cultural policy objectives.
 
 (3) Grounds of a purely economic nature or purely administrative reasons shall not constitute overriding reasons in the public interest, justifying a restriction on access to, or the pursuit of, a regulated profession.
 
@@ -101,11 +89,7 @@ and of workers; the safeguarding of the proper administration of justice; ensuri
 
 (iv) the impact on the free movement of persons and services within the European Union, on consumer choice and on the quality of the service provided;
 
-(v) the possibility of using less restrictive means to achieve the public interest objective; for the REGULATION OF PROFESSIONS
-
-purposes of this point, where the provisions are justified by consumer protection only and where the risks identified are limited to the relationship between the professional and the consumer, and therefore do not negatively affect third parties, the Ministry responsible for the said regulated profession shall assess in particular whether the objective can be attained by means that are less restrictive than reserving activities;
-
-*[CAP.612. 4*
+(v) the possibility of using less restrictive means to achieve the public interest objective; for the purposes of this point, where the provisions are justified by consumer protection only and where the risks identified are limited to the relationship between the professional and the consumer, and therefore do not negatively affect third parties, the Ministry responsible for the said regulated profession shall assess in particular whether the objective can be attained by means that are less restrictive than reserving activities;
 
 (vi) the effect of new or amended provisions, when combined with other provisions restricting access to, or the pursuit of, the profession, and in particular how the new or amended provisions, combined with other requirements contribute to and whether they are necessary for the achievement of the same public interest objective.
 
@@ -121,11 +105,7 @@ purposes of this point, where the provisions are justified by consumer protectio
 
 (v) the degree of autonomy in exercising a regulated profession and the impact of organisational and supervision arrangements on the attainment of the objective pursued, in particular where the activities relating to a regulated profession are pursued under the control and responsibility of a duly qualified professional;
 
-(vi) the scientific and technological developments which may effectively reduce or increase the asymmetry of information between professionals and REGULATION OF PROFESSIONS [CAP. 612.
-
-consumers.
-
-*5*
+(vi) the scientific and technological developments which may effectively reduce or increase the asymmetry of information between professionals and consumers.
 
 (3) For the purposes of sub-article (2)(a)(vi), the Ministry responsible for the said regulated profession shall assess the effect of the new or amended provision when combined with one or more requirements, bearing in mind the fact that such effects might be positive as well as negative, and in particular the following:
 
@@ -153,10 +133,6 @@ consumers.
 
 (k) requirements on advertising.
 
-*6*
-
-[CAP.612. REGULATION OF PROFESSIONS
-
 *        S.L. 451. 03.*
 
 (4) Before the introduction of new, or the amendment of existing, provisions, the Ministry responsible for the relative regulated profession shall, in addition, ensure the compliance with the principle of the proportionality of specific requirements related to temporary or occasional provision of services, provided under Part II of the Recognition of Professional Qualifications Regulations, including:
@@ -180,10 +156,6 @@ Provided that this sub-article shall not apply to measures designed to ensure co
 (1) The Ministry responsible for a regulated profession shall, by appropriate means, make information available to citizens, service recipients and other relevant stakeholders, including those who are not members of the profession concerned, before the introduction of new, or the amendment of existing, legislative, regulatory or administrative provisions restricting access to, or the pursuit of, the said regulated profession.
 
 (2) The Ministry responsible for a regulated profession shall appropriately involve all parties concerned and shall give them the opportunity to make their views known before the introduction of new, or the amendment of existing, legislative, regulatory or administrative provisions restricting access to, or the pursuit of, the said regulated profession. Where relevant and appropriate, the said Ministry shall carry out public consultations and shall allow the public a minimum of three (3) weeks from the commencement of the public consultation to make representations.
-
-*7*
-
-REGULATION OF PROFESSIONS [CAP. 612.
 
 ## 8. Remedies.
 

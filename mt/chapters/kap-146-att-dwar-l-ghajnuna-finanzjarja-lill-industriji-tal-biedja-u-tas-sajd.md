@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Għajnuna Finanzjarja lill-Industriji tal-Biedja u tas-Sajd (Cap. 146)
 
-*1*
-
-LILL-INDUSTRIJI TAL-BIEDJA U TAS-SAJD [KAP. 146.
-
 **KAPITOLU 146**
 
 **ATT DWAR L-GĦAJNUNA FINANZJARJA LILL-**
@@ -97,11 +93,7 @@ Il-Ministru responsabbli għall-Agrikultura u l-Ministru responsabbli għas-Sajd
 
 (ċ) dwar l-istandards li għandhom jiġu osservati minn persuni li japplikaw għal xi għajnuna finanzjarja jew gwida oħra taħt dan l-Att;
 
-(d) dwar il-miżuri li għandhom jittieħdu biex jiġi żgurat li LILL-INDUSTRIJI TAL-BIEDJA U TAS-SAJD [KAP. 146.
-
-jitħarsu standards internazzjonali u oħra, li għandhom x’jaqsmu mal-prodotti jew it-tagħmir użat fl-industrija tal-biedja jew fl-industrija tas-sajd minn persuni li japplikaw għal xi għajnuna finanzjarja jew gwida oħra taħt dan l-Att;
-
-*3*
+(d) dwar il-miżuri li għandhom jittieħdu biex jiġi żgurat li jitħarsu standards internazzjonali u oħra, li għandhom x’jaqsmu mal-prodotti jew it-tagħmir użat fl-industrija tal-biedja jew fl-industrija tas-sajd minn persuni li japplikaw għal xi għajnuna finanzjarja jew gwida oħra taħt dan l-Att;
 
 (e) dwar kull ħaġa li tkun meħtieġa biex tiġi mħarsa kull obbligazzjoni internazzjonali ta’ Malta li għandha x’taqsam ma’ l-industrija tal-biedja jew ma’ l-industrija tas-sajd u li tinvolvi skemi ta’ għajnuna finanzjarja, garanziji jew gwida lil xi industrija msemmija;
 

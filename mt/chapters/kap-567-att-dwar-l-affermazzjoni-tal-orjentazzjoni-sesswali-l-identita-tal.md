@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Affermazzjoni tal-Orjentazzjoni Sesswali, l-Identità tal-Ġeneru u l-Espressjoni tal-Ġeneru (Cap. 567)
 
-*1*
-
-IDENTITÀ TAL-ĠENERU U L-ESPRESSJONI TAL-ĠENERU [KAP. 567.
-
 **KAPITOLU 567**
 
 **ATT DWAR L-AFFERMAZZJONI TAL-**
@@ -87,11 +83,7 @@ Dawn li ġejjin jitqiesu bħala reati kriminali -
 
 (b) li professjonist:
 
-(i) joffri u, jew iwettaq prattiċi ta’ konverżjoni fuq IDENTITÀ TAL-ĠENERU U L-ESPRESSJONI TAL-ĠENERU [KAP. 567.
-
-kwalunkwe persuna irrispettivament mill-fatt jiġix ikkumpensat għal tali servizzi; jew
-
-*3*
+(i) joffri u, jew iwettaq prattiċi ta’ konverżjoni fuq kwalunkwe persuna irrispettivament mill-fatt jiġix ikkumpensat għal tali servizzi; jew
 
 (ii) jirreferi kwalunkwe persuna għand persuna oħra sabiex din twettaq prattiċi ta’ konverżjoni fuq xi persuna.
 

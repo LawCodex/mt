@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar is-Sospensjoni u l-Interruzzjoni ta’ Perjodi ta’ Żminijiet Legali u Oħrajn (Cap. 609)
 
-*1*
-
-ŻMINIJIET LEGALI U OĦRAJN [KAP. 609.
-
 **KAPITOLU 609**
 
 ATT DWAR IS-SOSPENSJONI U L-INTERRUZZJONI
@@ -61,10 +57,6 @@ F’dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx xort’ oħra:
 
 (d) kwalunkwe uffiċċju ta’ xi awtorità pubblika;
 
-*2*
-
-[KAP. 609. ŻMINIJIET LEGALI U OĦRAJN
-
 (e) kull entità oħra kostitwita bil-liġi; jew
 
 (f) kull uffiċċju ieħor li jipprovdi servizz lill-pubbliku,
@@ -95,8 +87,4 @@ Id-dispożizzjonijiet ta’ dan l-Att għandhom ikunu mingħajr preġudizzju għ
 
 ## 7. Riżervi. Kap. 465.
 
-Il-leġiżlazzjoni sussidjarji magħmula taħt l-Att dwar is- ŻMINIJIET LEGALI U OĦRAJN [KAP. 609.
-
-Saħħa Pubblika b’rabta mas-sospensjoni tal-ħinijiet għandhom ikomplu fis-seħħ u jkollhom effett daqslikieku saru taħt dan l-Att.
-
-*3*
+Il-leġiżlazzjoni sussidjarji magħmula taħt l-Att dwar is- Saħħa Pubblika b’rabta mas-sospensjoni tal-ħinijiet għandhom ikomplu fis-seħħ u jkollhom effett daqslikieku saru taħt dan l-Att.

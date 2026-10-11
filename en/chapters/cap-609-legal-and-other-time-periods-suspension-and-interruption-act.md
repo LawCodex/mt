@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Legal and Other Time Periods (Suspension and Interruption) Act (Cap. 609)
 
-*1*
-
-(SUSPENSION AND INTERRUPTION) [CAP. 609.
-
 **CHAPTER 609**
 
 LEGAL AND OTHER TIME PERIODS (SUSPENSION
@@ -64,10 +60,6 @@ In this Act, unless the context otherwise requires:
 (e) any other entity constituted by law; or
 
 (f) any other office that provides a service to the public,
-
-*2*
-
-[CAP.609. (SUSPENSION AND INTERRUPTION)
 
 and it appears to the Minister that the closure of any or all of the entities, departments or offices listed in paragraphs (a) to (f) above, may have a prejudicial consequence as a result of the continued running of time periods prescribed by any law or in any contract during such closure, the Minister may, notwithstanding the provisions of any other law, make such regulations in connection with the running of such times that may be deemed expedient in the circumstances.
 

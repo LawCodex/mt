@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Produzzjoni tal-Kannabis għal Skopijiet Mediċinali u ta’ Riċerka (Cap. 578)
 
-*1*
-
-GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA [KAP. 578.
-
 **KAPITOLU 578**
 
 ATT DWAR IL-PRODUZZJONI TAL-KANNABIS GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA
@@ -59,12 +55,6 @@ Malta u, ittra ta' intenzjoni li tinkludi assistenza taħt il-liġijiet tal-
 Intrapriża ta' Malta tkun dejjem suġġetta għad-dispożizzjonijiet tal-  
 liġijiet tal-Intrapriża ta’ Malta, liema dispożizzjonijiet għandhom  
 japplikaw kif ikun il-każ;
-
-*2*
-
-[KAP. 578. GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA
-
-"kannabis" tfisser:
 
 (a) kannabis friska jew niexfa;
 
@@ -108,10 +98,6 @@ ilkoll sabiex jintużaw biss fl-immanifatturar tal-prodotti għal skopijiet medi
 
 "suprintendent" tfisser is-Suprintendent tas-Saħħa Pubblika kif stabbilit bl-artikolu 3 tal-Att dwar is-Saħħa Pubblika.
 
-*3*
-
-GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA [KAP. 578.
-
 ## TAQSIMA II — AMMINISTRAZZJONI
 
 ### 3. Amministrazzjoni.
@@ -144,13 +130,7 @@ Iżda wkoll il-kultivazzjoni li ma tiffurmax parti integrali minn proċess ta’
 
 (a) tikkonforma mad-dispożizzjonijiet ta' dan l-Att;
 
-(b) tikseb ittra ta' intenzjoni mill-Intrapriża ta' Malta wara li tagħmel applikazzjoni fuq il-formula preskritta. L-Intrapriża ta' Malta għandha taċċerta ruħha illi l-attività proposta hija waħda [KAP. 578. GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA
-
-*4*
-
-esklussivament ta' proċess ta’ produzzjoni;
-
-(ċ) tikkonforma mar-regolamenti kollha applikabbli, inkluż obbligi internazzjonali li jirriżultaw minn trattat li għalih Malta tista’ minn żmien għal żmien tkun firmatarja, applikabbli skont il-każ;
+(b) tikseb ittra ta' intenzjoni mill-Intrapriża ta' Malta wara li tagħmel applikazzjoni fuq il-formula preskritta. L-Intrapriża ta' Malta għandha taċċerta ruħha illi l-attività proposta hija waħda (ċ) tikkonforma mar-regolamenti kollha applikabbli, inkluż obbligi internazzjonali li jirriżultaw minn trattat li għalih Malta tista’ minn żmien għal żmien tkun firmatarja, applikabbli skont il-każ;
 
 *   Kap. 458.*
 
@@ -178,9 +158,7 @@ Iżda l-awtorità regolatorja tista' wkoll, fid-diskrezzjoni tagħha, titlob inf
 
 (2) Il-ħruġ ta ittra ta’ intenzjoni mill-Intrapriża ta' Malta tkun suġġetta għall-applikazzjoni tal-applikant magħmula fuq il-formula preskritta:
 
-*5*
-
-GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA [KAP. 578. Iżda l-Intrapriża ta' Malta tista', fid-diskrezzjoni tagħha, titlob informazzjoni addizzjonali li hija tqis neċessarja għall-evalwazzjoni tal-applikazzjoni tiegħu.
+Iżda l-Intrapriża ta' Malta tista', fid-diskrezzjoni tagħha, titlob informazzjoni addizzjonali li hija tqis neċessarja għall-evalwazzjoni tal-applikazzjoni tiegħu.
 
 (3) Minkejja l-ħruġ ta' xi liċenzja, permess jew awtorizzazzjoni, il-Kummissarju tal-Pulizija jista', f’każ li jseħħ, jew hemm is-suspett li ser iseħħ jew hemm stennija li ser iseħħ, xi reat fi stabbiliment fejn tkun qed titwettaq xi attività awtorizzata skont dan l-Att, jieħu kull azzjoni li tkun raġonevolment meħtieġa.
 
@@ -206,15 +184,11 @@ Iżda l-Ministru jista’ jaħtar segretarju sostitut f’dawn il-każijiet li �
 
 (a) f’każijiet ta’ urġenza meta s-segretarju maħtur għal xi raġuni ma jkunx disponibbli biex iwettaq dmirijietu; u
 
-(b) f’każijiet meta s-segretarju maħtur jastjeni għal [KAP. 578. GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA
-
-*6*
-
-dawk l-istess raġunijiet li għalihom membru tal- Bord ikun jista’ jastjeni kif hawn qabel imsemmi. 7. (1) Jista’ jsir appell lill-Bord fuq kull deċiżjoni meħuda skont id-dispożizzjonijiet ta’ dan l-Att u kull regolamenti magħmulin taħtu. Id-dritt ta’ appell jappartjeni lill-applikant u lil kull min juri dak l-interess kif jiġi preskritt li jkun ressaq oġġezzjoni kif dovut jew ilmenta kontra l-għoti tal-liċenzja.
-
-*Dritt ta’ appell.*
+(b) f’każijiet meta s-segretarju maħtur jastjeni għal Bord ikun jista’ jastjeni kif hawn qabel imsemmi. 7. (1) Jista’ jsir appell lill-Bord fuq kull deċiżjoni meħuda skont id-dispożizzjonijiet ta’ dan l-Att u kull regolamenti magħmulin taħtu. Id-dritt ta’ appell jappartjeni lill-applikant u lil kull min juri dak l-interess kif jiġi preskritt li jkun ressaq oġġezzjoni kif dovut jew ilmenta kontra l-għoti tal-liċenzja.
 
 (2) Jista’ jiġi ppreżentat appell lill-Bord għal kull waħda mir-raġunijiet li ġejjin:
+
+*Dritt ta’ appell.*
 
 (a) li jkun sar żball materjali dwar il-fatti;
 
@@ -242,9 +216,9 @@ dawk l-istess raġunijiet li għalihom membru tal- Bord ikun jista’ jastjeni k
 
 (4) Il-proċedura li għandha tiġi segwita quddiem il-Bord, it-terminu li fih u l-mod kif appell lill-Bord għandu jsir ikunu dawk kif jistgħu jiġu preskritti; u bla ħsara għal dan, u għal kull dispożizzjoni oħra li tapplika ta’ dan l-Att, il-Bord jista’ jistabbilixxi l-proċedura tiegħu stess.
 
-*7 Appell lill-Qorti tal-Appell.   Kap. 12.*
+### 9. Appell lill-Qorti tal-Appell.   Kap. 12.
 
-GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA [KAP. 578. 9. (1) Kull parti f’appell lill-Bord li tħoss ruħha aggravata b’deċiżjoni tal-Bord, jew tal-awtorità regolatorja, li tħoss ruħha mhux sodisfatta b’xi deċiżjoni bħal dik, tista’ dwar punt ta’ liġi tappella lill- Qorti tal-Appell kif magħmul skont l-artikolu 41(9) tal-Kodiċi ta' Organizzazzjoni u Proċedura Ċivili b’rikors li jiġi ppreżentat fir-reġistru ta’ dik il-qorti, fi żmien għoxrin ġurnata mid-data tad-deċiżjoni tal-Bord.
+(1) Kull parti f’appell lill-Bord li tħoss ruħha aggravata b’deċiżjoni tal-Bord, jew tal-awtorità regolatorja, li tħoss ruħha mhux sodisfatta b’xi deċiżjoni bħal dik, tista’ dwar punt ta’ liġi tappella lill- Qorti tal-Appell kif magħmul skont l-artikolu 41(9) tal-Kodiċi ta' Organizzazzjoni u Proċedura Ċivili b’rikors li jiġi ppreżentat fir-reġistru ta’ dik il-qorti, fi żmien għoxrin ġurnata mid-data tad-deċiżjoni tal-Bord.
 
 *Kap. 12.*
 
@@ -272,11 +246,7 @@ Il-Ministru jista’ jagħmel regolamenti bil-għan li jirregola l-użu tal-kann
 
 (f) biex jirregola l-ispezzjonijiet li għandhom jitwettqu fl-istabbilimenti;
 
-*8*
-
-[KAP. 578. GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA
-
-(g) biex jippreskrivi kontrolli fuq l-inventarji, reġistri, dokumenti, u databases li għandhom jinżammu mid-detentur ta' liċenzja fl-istabbiliment kif ukoll il-garanziji finanzjarji li d-detentur tal-liċenzja għandu jagħti;
+dokumenti, u databases li għandhom jinżammu mid-detentur ta' liċenzja fl-istabbiliment kif ukoll il-garanziji finanzjarji li d-detentur tal-liċenzja għandu jagħti;
 
 * Kap. 458.*
 
@@ -296,12 +266,10 @@ L-Intrapriża ta' Malta u l-awtorità regolatorja jistgħu jippreskrivu linji gw
 
 (1) L-awtorità regolatorja għandha twettaq monitoraġġ u tirrevedi l-operazzjoni rilevanti ta’ stabbilimenti sabiex taċċerta ruħha li kull operat li jkun qed iseħħ taħt dan l-Att ikun qed jitwettaq skont id-dispożizzjonijiet ta’ dan l-Att u b’konformità ma’ kull deċiżjoni legalment meħuda taħt dan l-Att u kull liġi oħra rilevanti u kurrenti.
 
-(2) Għall-iskopijiet ta’ monitoraġġ u reviżjoni bħal dawn, l-awtorità regolatorja, jew kwalunkwe persuna awtorizzata minnha għal GĦAL SKOPIJIET MEDIĊINALI U TA’ RIĊERKA [KAP. 578. dak il-għan, ikollha d-dritt, f'kull ħin raġonevoli, li tidħol u tispezzjona kull stabbiliment.
+(2) Għall-iskopijiet ta’ monitoraġġ u reviżjoni bħal dawn, l-awtorità regolatorja, jew kwalunkwe persuna awtorizzata minnha għal dak il-għan, ikollha d-dritt, f'kull ħin raġonevoli, li tidħol u tispezzjona kull stabbiliment.
 
 ### 14. Termini tal-eżenzjoni mil-liġijiet dwar id-droga.
 
 (1) Kull persuna li taġixxi skont id-dispożizzjonijiet ta' dan l-Att jew ta' kwalunkwe regolament magħmul taħtu jew liċenzja maħruġa, tkun, għall-iskop tal-implimentazzjoni tad-dispożizzjonijiet ta' dan l-Att, eżenti mid-dispożizzjonijiet tal-liġijiet dwar id-droga limitatament għal fejn dawk il-liġijiet jirreferu għall-kannabis.
-
-*9*
 
 (2) Persuna li tonqos milli tikkonforma mad-dispożizzjonijiet ta' dan l-Att jew ta' kwalunkwe regolament magħmul taħtu jew mal-kundizzjonijiet ta' liċenzja maħruġa skont dan l-Att, u l-att imwettaq minn dik il-persuna jikkostitwixxi ksur tal-liġijiet dwar id-droga, tkun soġġetta għad-dispożizzjonijiet tal-liġijiet dwar id-droga.

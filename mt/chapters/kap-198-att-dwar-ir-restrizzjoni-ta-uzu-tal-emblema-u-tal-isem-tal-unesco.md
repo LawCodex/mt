@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Restrizzjoni ta' Użu tal-Emblema u tal-Isem tal-Unesco (Cap. 198)
 
-*1*
-
-TAL-EMBLEMA U TAL-ISEM TAL-UNESCO [KAP. 198.
-
 **KAPITOLU 198**
 
 **ATT DWAR IR-RESTRIZZJONI TA’ UŻU**

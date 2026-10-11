@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Parteċipazzjoni fil-Fond Uniku ta’ Riżoluzzjoni u l-għoti ta’ appoġġ finanzjarju taħt il-Mekkaniżmu Uniku ta’ Riżoluzzjoni (Cap. 547)
 
-U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-*1*
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547.
-
 **KAPITOLU 547**
 
 **ATT DWAR IL-PARTEĊIPAZZJONI FIL-FOND**
@@ -91,9 +85,7 @@ Il-Ministru jista’ jagħmel regolamenti biex jitwettqu l-obbligi li jinsabu fi
 
 Il-Ministru għandu jidher għall-inqas darba fis-sena quddiem il-Kumitat tal-Kontijiet Pubbliċi jew quddiem kumitat ieħor tal-Kamra tad-Deputati li minn żmien għal żmien jista’ jkollu l-kompitu tal-iskrutinju ekonomiku u finanzjarju tal-Gvern sabiex jingħata rendikont tal-operat tal-Fond Uniku ta’ Riżoluzzjoni sa fejn dan ikun konformi mal-obbligi ta’ Malta.
 
-U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 3 SKEDA
+## SKEDA
 
 (Artikolu 2)
 
@@ -145,9 +137,7 @@ Awtorità Bankarja Ewropea (ABE) stabbilita mir-Regolament (UE) Nru 1093/2010 ta
 
 \## Direttiva tal-Parlament Ewropew u tal-Kunsill li tistabbilixxi qafas għall-irkupru u r-riżoluzzjoni ta’ istituzzjonijiet ta’ kreditu u ditti ta’ investiment u li temenda d-Direttiva tal-Kunsill 82/891/ KEE, u d-Direttivi 2001/24/KE, 2002/47/KE, 2004/25/KE, 2005/56/KE, 2007/36/KE, 2011/ 35/UE, 2012/30/UE u 2013/36/UE, u r-Regolamenti (UE) Nru 1093/2010 u (UE) Nru 648/ 2012, tal-Parlament Ewropew u tal-Kunsill.
 
-U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 5 kontribuzzjonijiet mis-settur finanzjarju nnifsu u jinkludi arranġamenti ta’ salvagwardja effettivi u adatti. Dan l-arranġament ta’ salvagwardja għandu jkun newtrali f’termini ta’ baġit fuq it-terminu medju, billi jiżgura li l-imposti ex post fuq l-industrija finanzjarja jagħmlu tajjeb għall-assistenza pubblika.". F’dak il-kuntest, l-Unjoni addottat ir-Regolament MUR li joħloq sistema ċentralizzata ta’ teħid ta’ deċiżjoni għal riżoluzzjoni, li jkollha l-mezzi ta’ finanzjament adegwati permezz tal-istabbiliment tal-Fond. Ir-Regolament MUR japplika għall-entitajiet li jinsabu fl- Istati Membri parteċipanti.
+kontribuzzjonijiet mis-settur finanzjarju nnifsu u jinkludi arranġamenti ta’ salvagwardja effettivi u adatti. Dan l-arranġament ta’ salvagwardja għandu jkun newtrali f’termini ta’ baġit fuq it-terminu medju, billi jiżgura li l-imposti ex post fuq l-industrija finanzjarja jagħmlu tajjeb għall-assistenza pubblika.". F’dak il-kuntest, l-Unjoni addottat ir-Regolament MUR li joħloq sistema ċentralizzata ta’ teħid ta’ deċiżjoni għal riżoluzzjoni, li jkollha l-mezzi ta’ finanzjament adegwati permezz tal-istabbiliment tal-Fond. Ir-Regolament MUR japplika għall-entitajiet li jinsabu fl- Istati Membri parteċipanti.
 
 (7) Ir-Regolament MUR jistabbilixxi, b’mod partikolari, il-Fond kif ukoll il-modalitajiet għall-użu tiegħu. Id-Direttiva BRR u r-Regolament MUR jistabbilixxu l-kriterji ġenerali għad-determinazzjoni tal-iffissar u l-kalkolu ta’ kontribuzzjonijiet ex ante u ex post tal-istituzzjonijiet li huma neċessarji għall-finanzjament tal-Fond, kif ukoll l-obbligu tal-Istati Membri li jimponuhom fil-livell nazzjonali. Madankollu, l-Istati Membri parteċipanti li jiġbru l-kontribuzzjonijiet tal-istituzzjonijiet li jinsabu fit-territorji rispettivi tagħhom skont Id-Direttiva BRR u r- Regolament MUR, jibqgħu kompetenti biex jittrasferixxu dawk il-kontribuzzjonijiet lejn il-Fond. L-obbligu tat-trasferiment tal-kontribuzzjonijiet miġbura fil-livell nazzjonali għall-Fond mhux derivat mid-dritt tal-Unjoni. Obbligu bħal dan ser jiġi stabbilit minn dan il-Ftehim li jistabbilixxi l-kondizzjonijiet li bihom il-Partijiet Kontraenti, f’konformità mar-rekwiżiti kostituzzjonali rispettivi tagħhom, jaqblu b’mod konġunt li jittrasferixxu l-kontribuzzjonijiet li huma jiġbru fil-livell nazzjonali għall-Fond.
 
@@ -171,9 +161,7 @@ U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU 6 KAP. 547.] UNIKU TA
 
 (16) Fil-21 ta’ Mejju 2014, ir-rappreżentanti tal-Gvernijiet tal-Istati Membri awtorizzaw lill-Partijiet Kontraenti biex jitolbu lill-Kummissjoni Ewropea u lill- Bord Uniku ta’ Riżoluzzjoni ("il-Bord") iwettqu l-kompiti previsti f’dan il-Ftehim.
 
-(17) L-Artikolu 15 tar-Regolament MUR, kif ikun fid-data tal-adozzjoni inizjali tiegħu jistabbilixxi prinċipji ġenerali li jirregolaw riżoluzzjoni, skont liema l-azzjonisti tal-istituzzjoni taħt riżoluzzjoni jġarrbu l-ewwel telf u l-kredituri tal- U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 7 istituzzjoni taħt riżoluzzjoni jġarrbu t-telf wara l-azzjonisti f’konformità mal-ordni ta’ prijorità tal-pretensjonijiet tagħhom. Għaldaqstant, l-Artikolu 27 tar-Regolament MUR jistabbilixxi għodda ta’ rikapitalizzazzjoni interna li tirrikjedi li kontribuzzjoni għall-assorbiment ta’ telf u r-rikapitalizzazzjoni jammontaw għal tal-inqas 8% tal-obbligazzjonijiet totali inklużi l-fondi proprji tal-istituzzjoni taħt riżoluzzjoni, imkejla fil-ħin tal-azzjoni ta’ riżoluzzjoni f ’konformità mal-valwazzjoni prevista fl-Artikolu 20 tar-Regolament MUR, tkun saret mill-azzjonisti, id-detenturi ta’ strumenti kapitali rilevanti u obbligazzjonijiet eliġibbli oħra permezz ta’ tniżżil fil-valur, konverżjoni jew b’xi mod ieħor, u li jirrikjedi wkoll li l-kontribuzzjoni mill-Fond ma tkunx aktar minn 5% tal-obbligazzjonijiet totali inklużi l-fondi proprji tal-istituzzjoni taħt riżoluzzjoni, imkejla fil-ħin tal-azzjoni ta’ riżoluzzjoni f’konformità mal-valwazzjoni prevista fl-Artikolu 20 tar-Regolament MUR, għajr jekk l-obbligazzjonijiet kollha mhux garantiti u mhux bi preferenza, minbarra d-depożiti eliġibbli, ikunu ġew imniżżla fil-valur jew ikkonvertiti b’mod sħiħ. Barra minn hekk, l-Artikoli 18, 52 u 55 tar-Regolament MUR, kif ikun fid-data tal-adozzjoni inizjali tiegħu jistabbilixxu għadd ta’ regoli proċedurali dwar it-teħid ta’ deċiżjonijiet mill-Bord u l-istituzzjonijiet tal-Unjoni. Dawk l-elementi tar- Regolament MUR jikkostitwixxu bażi essenzjali għall-kunsens tal-Partijiet Kontraenti biex ikunu marbutin b’dan il-Ftehim.
+(17) L-Artikolu 15 tar-Regolament MUR, kif ikun fid-data tal-adozzjoni inizjali tiegħu jistabbilixxi prinċipji ġenerali li jirregolaw riżoluzzjoni, skont liema l-azzjonisti tal-istituzzjoni taħt riżoluzzjoni jġarrbu l-ewwel telf u l-kredituri tal-istituzzjoni taħt riżoluzzjoni jġarrbu t-telf wara l-azzjonisti f’konformità mal-ordni ta’ prijorità tal-pretensjonijiet tagħhom. Għaldaqstant, l-Artikolu 27 tar-Regolament MUR jistabbilixxi għodda ta’ rikapitalizzazzjoni interna li tirrikjedi li kontribuzzjoni għall-assorbiment ta’ telf u r-rikapitalizzazzjoni jammontaw għal tal-inqas 8% tal-obbligazzjonijiet totali inklużi l-fondi proprji tal-istituzzjoni taħt riżoluzzjoni, imkejla fil-ħin tal-azzjoni ta’ riżoluzzjoni f ’konformità mal-valwazzjoni prevista fl-Artikolu 20 tar-Regolament MUR, tkun saret mill-azzjonisti, id-detenturi ta’ strumenti kapitali rilevanti u obbligazzjonijiet eliġibbli oħra permezz ta’ tniżżil fil-valur, konverżjoni jew b’xi mod ieħor, u li jirrikjedi wkoll li l-kontribuzzjoni mill-Fond ma tkunx aktar minn 5% tal-obbligazzjonijiet totali inklużi l-fondi proprji tal-istituzzjoni taħt riżoluzzjoni, imkejla fil-ħin tal-azzjoni ta’ riżoluzzjoni f’konformità mal-valwazzjoni prevista fl-Artikolu 20 tar-Regolament MUR, għajr jekk l-obbligazzjonijiet kollha mhux garantiti u mhux bi preferenza, minbarra d-depożiti eliġibbli, ikunu ġew imniżżla fil-valur jew ikkonvertiti b’mod sħiħ. Barra minn hekk, l-Artikoli 18, 52 u 55 tar-Regolament MUR, kif ikun fid-data tal-adozzjoni inizjali tiegħu jistabbilixxu għadd ta’ regoli proċedurali dwar it-teħid ta’ deċiżjonijiet mill-Bord u l-istituzzjonijiet tal-Unjoni. Dawk l-elementi tar- Regolament MUR jikkostitwixxu bażi essenzjali għall-kunsens tal-Partijiet Kontraenti biex ikunu marbutin b’dan il-Ftehim.
 
 (18) Il-Partijiet Kontraenti jirrikonoxxu li d-dispożizzjonijiet rilevanti tal- Konvenzjoni ta’ Vjenna dwar il-Liġi tat-Trattati kif ukoll id-dritt internazzjonali konswetudinarju għandhom japplikaw fir-rigward ta’ kwalunkwe bidla fundamentali ta’ ċirkostanzi, li seħħet kontra l-volontà tagħhom u li taffettwa l-bażi essenzjali tal-kunsens tal-Partijiet Kontraenti li jkunu marbuta bid-dispożizzjonijiet ta’ dan il- Ftehim, kif imsemmi fil-premessa (17). Il-Partijiet Kontraenti skont dan jistgħu jinvokaw il-konsegwenzi ta’ kwalunkwe tibdil fundamentali ta’ ċirkostanzi li jkunu seħħew kontra l-volontà tagħhom, skont id-dritt pubbliku internazzjonali. Meta Parti Kontraenti tinvoka konsegwenzi bħal dawn, kwalunkwe Parti Kontraenti oħra tista’ tressaq il-kwistjoni quddiem il-Qorti tal-Ġustizzja tal-Unjoni Ewropea ("Qorti tal- Ġustizzja"). Il-Qorti tal-Ġustizzja għandha tingħata s-setgħa li tivverifika l-eżistenza ta’ kwalunkwe bidla fundamentali ta’ ċirkostanzi u l-konsegwenzi li jidderivaw minnha. Il-Partijiet Kontraenti jirrikonoxxu li tali invokar tal-konsegwenzi wara r-revokar jew l-emendar ta’ kwalunkwe element tar-Regolament MUR imsemmija fil-premessa (17), li jkun sar kontra r-rieda ta’ kwalunkwe waħda mill-Partijiet Kontraenti u li jkun suxxettibbli li jaffettwa l-bażi essenzjali tal-kunsens tagħhom li tkun marbuta mad-dispożizzjonijiet ta’ dan il-Ftehim, ikun ifisser tilwima fir-rigward tal-applikazzjoni ta’ dan il-Ftehim għall-finijiet tal-Artikolu 273 tat-Trattat dwar il-Funzjonament tal-Unjoni Ewropea (TFUE) li għalhekk tkun tista’ tiġi ppreżentata lill-Qorti tal-Ġustizzja bis-saħħa ta’ dik id-dispożizzjoni. Kwalunkwe Parti Kontraenti tista’ titlob ukoll lill-Qorti tal-Ġustizzja għal miżuri interim, f ’konformità mal-Artikolu 278 TFUE u l-Artikoli 160 sa 162 tar-Regoli ta’ Proċedura tal-Qorti tal-Ġustizzja\*. Meta tiddeċiedi dwar it-tilwima, kif ukoll dwar l-għoti ta’ miżuri interim, il-Qorti tal-Ġustizzja għandha tieħu kont tal-obbligi tal- Partijiet Kontraenti skont it-TUE u t-TFUE, inklużi dawk relatati mal-Mekkaniżmu Uniku ta’ Riżoluzzjoni u l-integrità tiegħu.
 
@@ -191,9 +179,7 @@ U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU 8 KAP. 547.] UNIKU TA
 
 (23) It-trasferiment ta’ kontribuzzjonijiet mill-Partijiet Kontraenti li jsiru parti mill-Mekkaniżmu Superviżorju Uniku u mill-Mekkaniżmu Uniku ta’ Riżoluzzjoni f’data sussegwenti għad-data ta’ applikazzjoni ta’ dan il-Ftehim għandu jsir b’rispett lejn il-prinċipju tal-ugwaljanza fit-trattament mal-Partijiet Kontraenti li jipparteċipaw fil-Mekkaniżmu Superviżorju Uniku u fil-Mekkaniżmu Uniku ta’ Riżoluzzjoni fid-data tal-applikazzjoni ta’ dan il-Ftehim. Il-Partijiet Kontraenti li jipparteċipaw fil-Mekkaniżmu Superviżorju Uniku u fil-Mekkaniżmu Uniku ta’ Riżoluzzjoni fid-data tal-applikazzjoni ta’ dan il-Ftehim mhux mistennija jerfgħu l-piż tar-riżoluzzjonijiet li għalihom kien mistenni li jikkontribwixxu l-arranġamenti finanzjarji nazzjonali ta’ dawk li jipparteċipaw fi stadju aktar tard. Bl-istess mod, dawn tal-aħħar mhux mistennija jerfgħu l-ispiża tar-riżoluzzjonijiet li jirriżultaw qabel id-data li fiha jkunu saru Stati Membri parteċipanti, li għaliha għandu jkun responsabbli l-Fond.
 
-(24) F’każ li l-kooperazzjoni mill-qrib mal-BĊE ta’ Parti Kontraenti, li l-munita tagħha mhijiex l-euro, tintemm f’konformità mal-Artikolu 7 tar-Regolament (UE) Nru 1024/2013, għandha tittieħed deċiżjoni dwar il-qsim ġust tal-kontribuzzjonijiet kumulati mill-Parti Kontraenti kkonċernata b’kont meħud tal-interessi kemm tal- Parti Kontraenti kkonċernata kif ukoll tal-Fond. Għaldaqstant, l-Artikolu 4(3) tar- U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 9 Regolament MUR jistabbilixxi l-modalitajiet, il-kriterji u l-proċedura għall-Bord sabiex jaqbel mal-Istat Membru kkonċernat bit-terminazzjoni tal-kooperazzjoni mill-qrib dwar l-irkuprar tal-kontribuzzjonijiet trasferiti minn dak l-Istat Membru.
+(24) F’każ li l-kooperazzjoni mill-qrib mal-BĊE ta’ Parti Kontraenti, li l-munita tagħha mhijiex l-euro, tintemm f’konformità mal-Artikolu 7 tar-Regolament (UE) Nru 1024/2013, għandha tittieħed deċiżjoni dwar il-qsim ġust tal-kontribuzzjonijiet kumulati mill-Parti Kontraenti kkonċernata b’kont meħud tal-interessi kemm tal- Parti Kontraenti kkonċernata kif ukoll tal-Fond. Għaldaqstant, l-Artikolu 4(3) tar- Regolament MUR jistabbilixxi l-modalitajiet, il-kriterji u l-proċedura għall-Bord sabiex jaqbel mal-Istat Membru kkonċernat bit-terminazzjoni tal-kooperazzjoni mill-qrib dwar l-irkuprar tal-kontribuzzjonijiet trasferiti minn dak l-Istat Membru.
 
 (25) Filwaqt li jirrispettaw bis-sħiħ il-proċeduri u r-rekwiżiti tat-Trattati li fuqhom hija bbażata l-Unjoni Ewropea, l-għan tal-Partijiet Kontraenti huwa li jinkorporaw id-dispożizzjonijiet ta’ sustanza ta’ dan il-Ftehim, f’konformità mat- TUE u t-TFUE malajr kemm jista’ jkun fil-qafas legali tal-Unjoni.
 
@@ -201,7 +187,9 @@ QABLU DWAR ID-DISPOŻIZZJONIJIET LI ĠEJJIN:
 
 ## TITOLU I — GĦAN U KAMP TA’ APPLIKAZZJONI — ARTIKOLU 1
 
-\1. B’dan il-Ftehim, il-Partijiet Kontraenti jimpenjaw ruħhom li,
+### 1.
+
+B’dan il-Ftehim, il-Partijiet Kontraenti jimpenjaw ruħhom li,
 
 (a) jittrasferixxu l-kontribuzzjonijiet miġbura fil-livell nazzjonali f’konformità mad-Direttiva BRR u mar-Regolament MUR għall-Fond Uniku ta’ Riżoluzzjoni ("il-Fond") stabbilit b’dak ir-Regolament; u
 
@@ -209,15 +197,21 @@ QABLU DWAR ID-DISPOŻIZZJONIJIET LI ĠEJJIN:
 
 b’hekk jappoġġjaw l-operazzjonijiet u l-funzjonament effettivi tal-Fond.
 
-\2. Dan il-Ftehim għandu japplika għall-Partijiet Kontraenti li l-istituzzjonijiet tagħhom huma soġġetti għall-Mekkaniżmu Superviżorju Uniku u l-Mekkaniżmu Uniku ta’ Riżoluzzjoni, f’konformità mad-dispożizzjonjiet rilevanti ta’, rispettivament, ir-Regolament (UE) Nru 1024/2013, u r-Regolament MUR (il- Partijiet Kontraenti li jipparteċipaw fil-Mekkaniżmu Superviżorju Uniku u fil- Mekkaniżmu Uniku ta’ Riżoluzzjoni).
+### 2.
+
+Dan il-Ftehim għandu japplika għall-Partijiet Kontraenti li l-istituzzjonijiet tagħhom huma soġġetti għall-Mekkaniżmu Superviżorju Uniku u l-Mekkaniżmu Uniku ta’ Riżoluzzjoni, f’konformità mad-dispożizzjonjiet rilevanti ta’, rispettivament, ir-Regolament (UE) Nru 1024/2013, u r-Regolament MUR (il- Partijiet Kontraenti li jipparteċipaw fil-Mekkaniżmu Superviżorju Uniku u fil- Mekkaniżmu Uniku ta’ Riżoluzzjoni).
 
 ## TITOLU II — KONSISTENZA U RABTA MAL-LIĠI TAL-UNJONI — ARTIKOLU 2
 
 \1. Dan il-Ftehim għandu jiġi applikat u interpretat mill-Partijiet Kontraenti f’konformità mat-Trattati li fuqhom hija bbażata l-Unjoni Ewropea u mad-dritt tal- Unjoni Ewropea, b’mod partikolari l-Artikolu 4(3) tat-TUE u l-leġiżlazzjoni tal- Unjoni rigward ir-riżoluzzjoni ta’ istituzzjonijiet.
 
-\2. Dan il-Ftehim għandu japplika sa fejn ikun kompatibbli mat-Trattati li fuqhom hija bbażata l-Unjoni u mal-liġi tal-Unjoni. Huwa ma għandux jaffettwa l-kompetenzi tal-Unjoni li tieħu azzjoni fil-qasam tas-suq intern.
+### 2.
 
-\3. Għall-finijiet ta’ dan il-Ftehim, id-definizzjonijiet rilevanti stabbiliti fl- Artikolu 3 tar-Regolament MUR għandhom japplikaw.
+Dan il-Ftehim għandu japplika sa fejn ikun kompatibbli mat-Trattati li fuqhom hija bbażata l-Unjoni u mal-liġi tal-Unjoni. Huwa ma għandux jaffettwa l-kompetenzi tal-Unjoni li tieħu azzjoni fil-qasam tas-suq intern.
+
+### 3.
+
+Għall-finijiet ta’ dan il-Ftehim, id-definizzjonijiet rilevanti stabbiliti fl- Artikolu 3 tar-Regolament MUR għandhom japplikaw.
 
 U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU 10 KAP. 547.] UNIKU TA’ RIŻOLUZZJONI
 
@@ -229,11 +223,17 @@ U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU 10 KAP. 547.] UNIKU T
 
 \2. Il-Partijiet Kontraenti għandhom jittrasferixxu l-kontribuzzjonijiet ex ante li jikkorrispondu għal kull sena sa mhux aktar tard mit-30 ta’ Ġunju ta' dik is-sena. It-trasferiment inizjali tal-kontribuzzjonijiet ex ante għall-Fond ser isir l-aktar tard sat- 30 ta’ Ġunju 2016 jew, jekk il-Ftehim ma jkunx daħal fis-seħħ sa dik id-data, l-aktar tard sa sitt xhur wara d-data tad-dħul fis-seħħ tiegħu.
 
-\3. Il-kontribuzzjonijiet li nġabru mill-Partijiet Kontraenti f’konformità mal- Artikoli 103 u 104 tad-Direttiva BRR qabel id-data tal-applikazzjoni ta’ dan il- Ftehim għandhom jiġu ttrasferiti fil-Fond l-aktar tard sal-31 ta’ Jannar 2016 jew, jekk il-Ftehim ma daħalx fis-seħħ sa dik id-data, l-aktar tard sa xahar wara d-dħul fis-seħħ tiegħu.
+### 3.
 
-\4. Kwalunkwe ammont rifuż bl-arranġament ta’ finanzjament ta’ riżoluzzjoni ta’ Parti Kontraenti qabel id-data tal-applikazzjoni ta’ dan il-Ftehim fir-rigward tal-azzjonijiet ta’ riżoluzzjoni fit-territorju tagħhom għandu jitnaqqas minn dawk il-kontribuzzjonijiet li għandhom jiġu ttrasferiti minn dik il-Parti Kontraenti lejn il- Fond imsemmi fil-paragrafu 3. F’dak il-każ, il-Parti Kontraenti kkonċernata għandha tibqa’ obbligata li tittrasferixxi lejn il-Fond ammont ekwivalenti għal dak li kien ikun meħtieġ biex jintlaħaq il-livell immirat tal-arranġament ta’ finanzjament ta’ riżoluzzjoni, skont l-Artikolu 102 tad-Direttiva BRR u qabel l-iskadenzi pprovduti hemmhekk.
+Il-kontribuzzjonijiet li nġabru mill-Partijiet Kontraenti f’konformità mal- Artikoli 103 u 104 tad-Direttiva BRR qabel id-data tal-applikazzjoni ta’ dan il- Ftehim għandhom jiġu ttrasferiti fil-Fond l-aktar tard sal-31 ta’ Jannar 2016 jew, jekk il-Ftehim ma daħalx fis-seħħ sa dik id-data, l-aktar tard sa xahar wara d-dħul fis-seħħ tiegħu.
 
-\5. Il-Partijiet Kontraenti għandhom jittrasferixxu l-kontribuzzjonijiet ex post immedjatament wara li jinġabru.
+### 4.
+
+Kwalunkwe ammont rifuż bl-arranġament ta’ finanzjament ta’ riżoluzzjoni ta’ Parti Kontraenti qabel id-data tal-applikazzjoni ta’ dan il-Ftehim fir-rigward tal-azzjonijiet ta’ riżoluzzjoni fit-territorju tagħhom għandu jitnaqqas minn dawk il-kontribuzzjonijiet li għandhom jiġu ttrasferiti minn dik il-Parti Kontraenti lejn il- Fond imsemmi fil-paragrafu 3. F’dak il-każ, il-Parti Kontraenti kkonċernata għandha tibqa’ obbligata li tittrasferixxi lejn il-Fond ammont ekwivalenti għal dak li kien ikun meħtieġ biex jintlaħaq il-livell immirat tal-arranġament ta’ finanzjament ta’ riżoluzzjoni, skont l-Artikolu 102 tad-Direttiva BRR u qabel l-iskadenzi pprovduti hemmhekk.
+
+### 5.
+
+Il-Partijiet Kontraenti għandhom jittrasferixxu l-kontribuzzjonijiet ex post immedjatament wara li jinġabru.
 
 **ARTIKOLU 4**
 
@@ -249,9 +249,7 @@ U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU 10 KAP. 547.] UNIKU T
 
 **Funzjonament tal-kompartimenti**
 
-\1. Meta f’konformità mad-dispożizzjonijiet rilevanti tar-Regolament MUR jiġi U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 11 deċiż li jsir rikors għall-Fond, il-Bord għandu jkollu s-setgħa li jiddisponi mill-kompartimenti tal-Fond fil-mod li ġej:
+\1. Meta f’konformità mad-dispożizzjonijiet rilevanti tar-Regolament MUR jiġi deċiż li jsir rikors għall-Fond, il-Bord għandu jkollu s-setgħa li jiddisponi mill-kompartimenti tal-Fond fil-mod li ġej:
 
 (a) L-ewwel nett, l-ispejjeż għandhom jinġarru mill-kompartimenti li jikkorrispondu għall-Partijiet Kontraenti meta l-istituzzjoni jew il-grupp taħt riżoluzzjoni jkun stabbilit jew awtorizzat. Meta grupp transkonfinali jkun taħt riżoluzzjoni, l-ispejjeż għandhom jiġu distribwiti bejn il-kompartimenti differenti li jikkorrispondu għall- Partijiet Kontraenti fejn l-impriża prinċipali (parent undertaking) u s-sussidjarji jkunu stabbiliti jew awtorizzati b’mod proporzjonat mal-ammont relattiv ta’ kontribuzzjonijiet li kull waħda mill-entitajiet tal-grupp taħt riżoluzzjoni tkun ipprovdiet għall-kompartimenti rispettivi tagħhom f’relazzjoni mal-ammont aggregat ta’ kontribuzzjonijiet li l-entitajiet kollha tal-grupp ikunu pprovdew għall-kompartimenti nazzjonali tagħhom.
 
@@ -289,9 +287,7 @@ Iż-żieda msemmija għal kull sena tad-disponibbiltà tal-mezzi finanzjarji fil
 
 F’każ ta’ riżoluzzjoni ta’ grupp transkonfinali, għandu jsir użu mill-kompartimenti tal-Partijiet Kontraenti kkonċernati li ma jkunux ipprovdew biżżejjed mezzi finanzjarji skont il-punti (a) u (b), fir-rigward tar-riżoluzzjoni ta’ entitajiet awtorizzati fit-territorji tagħhom. Il-kontribuzzjonijiet minn kull kompartiment għandhom jiġu ddeterminati skont il-kriterji għad-distribuzzjoni tal-ispejjeż stabbiliti f’punt (a).
 
-(d) Ir-raba’ nett, u mingħajr preġudizzju għas-setgħat tal-Bord imsemmi taħt punt (e), jekk il-mezzi finanzjarji msemmijin f’punt (ċ) ma jkunux suffiċjenti biex ikopru l-ispejjeż ta’ azzjoni ta’ riżoluzzjoni partikolari, il-Partijiet Kontraenti kkonċernati msemmijin fil-punt (a) għandhom jittrasferixxu fil-Fond il-kontribuzzjonijiet ex post straordinarji mill-istituzzjonijiet awtorizzati fit-territorji rispettivi tagħhom, miġburin f’konformità mal-kriterji stabbiliti fl-Artikolu 71 tar-Regolament MUR. Fil-każ ta’ riżoluzzjoni ta’ grupp transkonfinali, il-kontribuzzjonijiet ex post għandhom jiġu trasferiti mill-Partijiet Kontraenti kkonċernati li ma jkunux ipprovdew mezzi finanzjarji biżżejjed taħt il-punti (a) sa (ċ) fir-rigward tar-riżoluzzjoni ta’ entitajiet awtorizzati fit-territorji tagħhom. (e) Jekk il-mezzi finanzjarji msemmija fil-punt (ċ) ma jkunux biżżejjed biex ikopru l-ispejjeż ta’ azzjoni ta’ riżoluzzjoni partikolari, u sakemm il-kontribuzzjonijiet straordinarji ex post imsemmija fil-punt (d) ma U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 13 jkunux immedjatament aċċessibbli, inkluż minħabba raġunijiet relatati mal-istabbiltà tal-istituzzjonijiet ikkonċernati, il-Bord jista’ jeżerċita s-setgħa tiegħu li jikseb għall-Fond self jew forom oħra ta’ appoġġ f’konformità mal-Artikoli 73 u 74 tar-Regolament MUR, jew is-setgħa tiegħu li jagħmel trasferimenti temporanji bejn il-kompartimenti f’konformità mal-Artikolu 7 ta’ dan il-Ftehim.
+(d) Ir-raba’ nett, u mingħajr preġudizzju għas-setgħat tal-Bord imsemmi taħt punt (e), jekk il-mezzi finanzjarji msemmijin f’punt (ċ) ma jkunux suffiċjenti biex ikopru l-ispejjeż ta’ azzjoni ta’ riżoluzzjoni partikolari, il-Partijiet Kontraenti kkonċernati msemmijin fil-punt (a) għandhom jittrasferixxu fil-Fond il-kontribuzzjonijiet ex post straordinarji mill-istituzzjonijiet awtorizzati fit-territorji rispettivi tagħhom, miġburin f’konformità mal-kriterji stabbiliti fl-Artikolu 71 tar-Regolament MUR. Fil-każ ta’ riżoluzzjoni ta’ grupp transkonfinali, il-kontribuzzjonijiet ex post għandhom jiġu trasferiti mill-Partijiet Kontraenti kkonċernati li ma jkunux ipprovdew mezzi finanzjarji biżżejjed taħt il-punti (a) sa (ċ) fir-rigward tar-riżoluzzjoni ta’ entitajiet awtorizzati fit-territorji tagħhom. (e) Jekk il-mezzi finanzjarji msemmija fil-punt (ċ) ma jkunux biżżejjed biex ikopru l-ispejjeż ta’ azzjoni ta’ riżoluzzjoni partikolari, u sakemm il-kontribuzzjonijiet straordinarji ex post imsemmija fil-punt (d) ma jkunux immedjatament aċċessibbli, inkluż minħabba raġunijiet relatati mal-istabbiltà tal-istituzzjonijiet ikkonċernati, il-Bord jista’ jeżerċita s-setgħa tiegħu li jikseb għall-Fond self jew forom oħra ta’ appoġġ f’konformità mal-Artikoli 73 u 74 tar-Regolament MUR, jew is-setgħa tiegħu li jagħmel trasferimenti temporanji bejn il-kompartimenti f’konformità mal-Artikolu 7 ta’ dan il-Ftehim.
 
 Fil-każ li l-Bord jiddeċiedi li jeżerċita s-setgħat imsemmija fl-ewwel subparagrafu ta’ dan il-punt, il-Partijiet Kontraenti kkonċernati msemmija fil-punt (d) għandhom jittrasferixxu lill-Fond il-kontribuzzjonijiet straordinarji ex post sabiex jirrimborżaw is-self jew forom oħra ta’ appoġġ, jew it-trasferiment temporanju bejn il-kompartimenti.
 
@@ -337,13 +333,15 @@ Il-Parti Kontraenti li jkun biħsiebha toġġezzjona għandha tissostanzja b’m
 
 F’każ li jitqajmu oġġezzjonijiet f’konformità ma’ dan il-paragrafu, id-deċiżjoni tal-Bord dwar it-trasferiment temporanju għandha tiġi addottata bl-esklużjoni tal-mezzi finanzjarji tal-kompartimenti tal-Partijiet Kontraenti li joġġezzjonaw.
 
-\5. Jekk istituzzjoni ta’ Parti Kontraenti li mill-kompartiment tagħha ġew ittrasferiti mezzi finanzjarji bis-saħħa ta’ dan l-Artikolu tkun soġġetta għal riżoluzzjoni, dik il-Parti Kontraenti tista’ titlob lill-Bord jittrasferixxi mill-Fond għall-kompartiment tagħha l-ammont ekwivalenti għal dak ittrasferit inizjalment minn dak il-kompartiment. Meta ssir dik it-talba, il-Bord għandu minnufih jaċċetta li jsir it-trasferiment.
+### 5.
 
-F'dak il-każ, il-Partijiet Kontraenti li bbenefikaw inizjalment mill-użu temporanju ta’ mezzi finanzjarji għandhom jinżammu responsabbli sabiex jittrasferixxu fil-Fond l-ammonti allokati lill-Parti Kontraenti kkonċernata abbażi tal-ewwel subparagrafu, U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
+Jekk istituzzjoni ta’ Parti Kontraenti li mill-kompartiment tagħha ġew ittrasferiti mezzi finanzjarji bis-saħħa ta’ dan l-Artikolu tkun soġġetta għal riżoluzzjoni, dik il-Parti Kontraenti tista’ titlob lill-Bord jittrasferixxi mill-Fond għall-kompartiment tagħha l-ammont ekwivalenti għal dak ittrasferit inizjalment minn dak il-kompartiment. Meta ssir dik it-talba, il-Bord għandu minnufih jaċċetta li jsir it-trasferiment.
 
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 15 skont it-termini u l-kondizzjonijiet li jiġu speċifikati mill-Bord.
+F'dak il-każ, il-Partijiet Kontraenti li bbenefikaw inizjalment mill-użu temporanju ta’ mezzi finanzjarji għandhom jinżammu responsabbli sabiex jittrasferixxu fil-Fond l-ammonti allokati lill-Parti Kontraenti kkonċernata abbażi tal-ewwel subparagrafu, skont it-termini u l-kondizzjonijiet li jiġu speċifikati mill-Bord.
 
-\6. Il-Bord għandu jispeċifika kriterji ġenerali li jiddeterminaw il-kondizzjonijiet li bihom għandu jseħħ it-trasferiment temporanju tal-mezzi finanzjarji previst f’dan l-Artikolu.
+### 6.
+
+Il-Bord għandu jispeċifika kriterji ġenerali li jiddeterminaw il-kondizzjonijiet li bihom għandu jseħħ it-trasferiment temporanju tal-mezzi finanzjarji previst f’dan l-Artikolu.
 
 **ARTIKOLU 8**
 
@@ -393,9 +391,7 @@ U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU 16 KAP. 547.] UNIKU T
 
 **Konformità**
 
-\1. Il-Partijiet Kontraenti għandhom jieħdu l-miżuri neċessarji fl-ordnijiet ġuridiċi nazzjonali tagħhom biex jiżguraw konformità mal-obbligu tagħhom li U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 17 jittrasferixxu l-kontribuzzjonijiet b’mod konġunt f’konformità ma’ dan il-Ftehim.
+\1. Il-Partijiet Kontraenti għandhom jieħdu l-miżuri neċessarji fl-ordnijiet ġuridiċi nazzjonali tagħhom biex jiżguraw konformità mal-obbligu tagħhom li jittrasferixxu l-kontribuzzjonijiet b’mod konġunt f’konformità ma’ dan il-Ftehim.
 
 \2. Mingħajr preġudizzju għas-setgħa tal-Qorti tal-Ġustizzja taħt l-Artikolu 14 ta’ dan il-Ftehim, il-Bord, waqt li jaġixxi fuq l-inizjattiva tiegħu stess jew fuq it-talba ta’ kwalunkwe Parti Kontraenti, jista’ jikkunsidra jekk Parti Kontraenti tkunx naqset milli tikkonforma mal-obbligu tagħha li tittrasferixxi l-kontribuzzjonijiet fil- Fond, kif stabbilit f’dan il-Ftehim.
 
@@ -441,9 +437,7 @@ Dan il-Ftehim għandu jkun miftuħ għall-adeżjoni minn Stati Membri li mhumiex
 
 \1. Meta Parti Kontraenti ma taqbilx ma’ Parti Kontraenti oħra dwar l-interpretazzjoni ta’ kwalunkwe waħda mid-dispożizzjonijiet ta’ dan il-Ftehim jew meta hija tqis li Parti Kontraenti oħra tkun naqset milli tikkonforma mal-obbligi tagħha taħt dan il-Ftehim, din tista’ tressaq il-kwistjoni quddiem il-Qorti tal- Ġustizzja. Is-sentenza tal-Qorti tal-Ġustizzja għandha tkun vinkolanti fuq il-partijiet fil-proċedimenti.
 
-Jekk il-Qorti tal-Ġustizzja ssib li Parti Kontraenti tkun naqset milli tikkonforma mal-obbligi tagħha taħt dan il-Ftehim, il-Parti Kontraenti kkonċernata għandha tieħu l-miżuri neċessarji biex tikkonforma mas-sentenza f’perjodu li għandu jiġi deċiż mill-Qorti tal-Ġustizzja. F’każ li l-Parti Kontraenti kkonċernata ma tiħux il-miżuri neċessarji biex twaqqaf il-ksur fil-limitu ta’ żmien stabbilit mill-Qorti tal-Ġustizzja, U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 19 l-użu tal-kompartimenti tal-Partijiet Kontraenti kollha kif stipulat fil-punt (b) tal- Artikolu 5(1) għandu jiġi eskluż fir-rigward tal-istituzzjonijiet awtorizzati fil-Parti Kontraenti kkonċernata.
+Jekk il-Qorti tal-Ġustizzja ssib li Parti Kontraenti tkun naqset milli tikkonforma mal-obbligi tagħha taħt dan il-Ftehim, il-Parti Kontraenti kkonċernata għandha tieħu l-miżuri neċessarji biex tikkonforma mas-sentenza f’perjodu li għandu jiġi deċiż mill-Qorti tal-Ġustizzja. F’każ li l-Parti Kontraenti kkonċernata ma tiħux il-miżuri neċessarji biex twaqqaf il-ksur fil-limitu ta’ żmien stabbilit mill-Qorti tal-Ġustizzja, l-użu tal-kompartimenti tal-Partijiet Kontraenti kollha kif stipulat fil-punt (b) tal- Artikolu 5(1) għandu jiġi eskluż fir-rigward tal-istituzzjonijiet awtorizzati fil-Parti Kontraenti kkonċernata.
 
 \2. Dan l-Artikolu jikkostitwixxi ftehim speċjali bejn il-Partijiet Kontraenti fit-tifsira tal-Artikolu 273 TFUE.
 
@@ -497,6 +491,4 @@ Filwaqt li jirrispettaw bis-sħiħ il-proċeduri u r-rekwiżiti tat-Trattati li 
 
 (b) il-prinċipji u r-regoli relatati mal-għodda ta’ rikapitalizzazzjoni interna ma jiġux revokati jew emendati b’mod li mhuwiex ekwivalenti u ma jwassalx għal, tal-anqas, l-istess riżultat mhux anqas rigoruż li joħroġ mir-Regolament MUR kif ikun fid-data tal-adozzjoni inizjali tiegħu. Dikjarazzjoni Nru 2:
 
-Il-firmatarji għall-Ftehim Intergovernattiv dwar it-trasferiment u l-mutwalizzazzjoni tal-kontribuzzjonijiet għall-Fond Uniku ta’ Riżoluzzjoni jiddikjaraw li ser jaħdmu bla heda biex ilestu l-proċess ta’ ratifika tiegħu f’konformità mar-rekwiżiti legali nazzjonali rispettivi fiż-żmien debitu sabiex il- U L-GĦOTI TA’ APPOĠĠ FINANZJARJU TAĦT IL-MEKKANIŻMU
-
-UNIKU TA’ RIŻOLUZZJONI [KAP. 547. 21 Mekkaniżmu Uniku ta’ Riżoluzzjoni jkun qed jopera għalkollox sal-1 ta’ Jannar 2016.
+Il-firmatarji għall-Ftehim Intergovernattiv dwar it-trasferiment u l-mutwalizzazzjoni tal-kontribuzzjonijiet għall-Fond Uniku ta’ Riżoluzzjoni jiddikjaraw li ser jaħdmu bla heda biex ilestu l-proċess ta’ ratifika tiegħu f’konformità mar-rekwiżiti legali nazzjonali rispettivi fiż-żmien debitu sabiex il- Mekkaniżmu Uniku ta’ Riżoluzzjoni jkun qed jopera għalkollox sal-1 ta’ Jannar 2016.

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Esekuzzjoni Reċiproka ta' Ordnijiet ta' Manteniment (Cap. 242)
 
-*1*
-
-ORDNIJIET TA’ MANTENIMENT [KAP. 242.
-
 **KAPITOLU 242**
 
 **ATT DWAR L-ESEKUZZJONI REĊIPROKA TA’**
@@ -93,9 +89,7 @@ u, fil-każ ta’ ordni ta’ manteniment li jkun ġie mibdul, tfisser dak l-ord
 
 "Reġistratur" tfisser ir-Reġistratur tal-Qrati ta’ Malta.
 
-*3*
-
-ORDNIJIET TA’ MANTENIMENT [KAP. 242. (2) Għall-finijiet ta’ dan l-Att ordni għandu jitqies li hu ordni ta’ manteniment safejn (iżda biss safejn) ikun jirreferi għal ħlas ta’ somom ta’ flus li jsir kull tant żmien kif imsemmi fil-paragrafu (a) tat-tifsira ta’ "ordni ta’ manteniment" fis-subartikolu (1) jew dwar persuna aġġudikata, misjuba jew dikjarata li tkun il-missier ta’ tifel jew tifla għal kull spejjeż li huma msemmija fil-paragrafu (b) ta’ dik it-tifsira.
+(2) Għall-finijiet ta’ dan l-Att ordni għandu jitqies li hu ordni ta’ manteniment safejn (iżda biss safejn) ikun jirreferi għal ħlas ta’ somom ta’ flus li jsir kull tant żmien kif imsemmi fil-paragrafu (a) tat-tifsira ta’ "ordni ta’ manteniment" fis-subartikolu (1) jew dwar persuna aġġudikata, misjuba jew dikjarata li tkun il-missier ta’ tifel jew tifla għal kull spejjeż li huma msemmija fil-paragrafu (b) ta’ dik it-tifsira.
 
 (3) Kull riferenza f’dan l-Att għall-ħlas ta’ flus għall-manteniment ta’ tifel jew tifla għandha tinftiehem li tinkludi riferenza għall-ħlas ta’ flus għall-edukazzjoni tat-tifel jew tat-tifla.
 
@@ -165,9 +159,7 @@ il-qorti jkollha ġurisdizzjoni li tisma’ t-talba u tista’, bla ħsara għas
 
 (d) dikjarazzjoni li tagħti dak it-tagħrif li l-qorti kellha dwar fejn qiegħed id-debitur;
 
-*5*
-
-ORDNIJIET TA’ MANTENIMENT [KAP. 242. (e) dikjarazzjoni li tagħti dak it-tagħrif li l-imsemmi reġis tratur ikollu sabiex jiffaċilita l-identifikazzjoni tad-debitur; u
+(e) dikjarazzjoni li tagħti dak it-tagħrif li l-imsemmi reġis tratur ikollu sabiex jiffaċilita l-identifikazzjoni tad-debitur; u
 
 (f) meta jkun jista’ jinkiseb, ritratt tad-debitur,
 
@@ -217,11 +209,9 @@ KAP. 242.] ORDNIJIET TA’ MANTENIMENT
 
 (1) Dan l-artikolu japplika għal ordni ta’ manteniment magħmul, sew qabel sew wara l-bidu fis-seħħ ta’ dan l-artikolu, minn qorti f’pajjiż li jirreċiproka, inkluż ordni bħal dak minn qorti bħal dik li jkun ġie konfermat minn qorti f’pajjiż li jirreċiproka ieħor iżda barra ordni provviżorju li ma jkunx ġie konfermat.
 
-(2) Meta kopja ċertifikata ta’ ordni li għalih japplika dan l-artikolu tiġi riċevuta mill-Ministru mingħand awtorità responsabbli ORDNIJIET TA’ MANTENIMENT [KAP. 242. f’pajjiż li jirreċiproka, u l-Ministru jkun jidhirlu li d-debitur taħt l-ordni jkun jirrisjedi f’Malta, hu għandu jibgħat il-kopja tal-ordni lir-Reġistratur.
+(2) Meta kopja ċertifikata ta’ ordni li għalih japplika dan l-artikolu tiġi riċevuta mill-Ministru mingħand awtorità responsabbli f’pajjiż li jirreċiproka, u l-Ministru jkun jidhirlu li d-debitur taħt l-ordni jkun jirrisjedi f’Malta, hu għandu jibgħat il-kopja tal-ordni lir-Reġistratur.
 
 (3) Meta r-Reġistratur jirċievi mingħand il-Ministru kopja ċertifikata ta’ ordni li għalih japplika dan l-artikolu, hu għandu, bla ħsara għas-subartikolu (4) jirreġistra l-ordni fil-qorti kompetenti ta’ Malta.
-
-*7*
 
 (4) Qabel ma jirreġistra ordni taħt dan l-artikolu r-Reġistratur għandu jieħu dawk il-passi li jidhirlu xierqa sabiex jiżgura jekk id-debitur taħt l-ordni jkunx jirrisjedi f’Malta, u jekk wara li jieħu dawk il-passi jkun sodisfatt li d-debitur ma jkunx hekk jirrisjedi hu għandu jibgħat lura l-kopja ċertifikata tal-ordni lill-Ministru flimkien ma’ dikjarazzjoni li tagħti dak it-tagħrif li jkollu dwar fejn ikun qiegħed id-debitur.
 
@@ -275,11 +265,9 @@ tiġi riċevuta mill-Ministru mingħand l-awtorità responsabbli f’pajjiż li 
 
 (2) Il-qorti kompetenti ta’ Malta ma għandhiex tibdel ordni reġistrat jekk mhux b’ordni provviżorju ħlief meta -
 
-(a) kemm id-debitur kif ukoll il-kreditur taħt l-ordni reġistrat ikunu f’dak iż-żmien jirrisjedu f’Malta; jew ORDNIJIET TA’ MANTENIMENT [KAP. 242. (b) ir-rikors isir mill-kreditur taħt l-ordni reġistrat; jew (ċ) it-tibdil ikun jikkonsisti fi tnaqqis tar-rata tal-ħlasijiet taħt l-ordni reġistrat u jsir biss minħabba li jkun hemm tibdil fiċ-ċirkostanzi finanzjarji tad-debitur minn meta l-ordni reġistrat kien magħmul jew, fil-każ ta’ ordni reġistrat taħt l-artikolu 8, wara li l-ordni reġistrat kien konfermat, u l-qrati fil-pajjiż li jirreċiproka li fih l-ordni ta’ manteniment kien ġie magħmul ma jkollhomx is-setgħa, skont il-liġi fis-seħħ f’dak il-pajjiż, li jikkonfermaw ordnijiet provviżorji li jibdlu ordnijiet ta’ manteniment.
+(a) kemm id-debitur kif ukoll il-kreditur taħt l-ordni reġistrat ikunu f’dak iż-żmien jirrisjedu f’Malta; jew (b) ir-rikors isir mill-kreditur taħt l-ordni reġistrat; jew (ċ) it-tibdil ikun jikkonsisti fi tnaqqis tar-rata tal-ħlasijiet taħt l-ordni reġistrat u jsir biss minħabba li jkun hemm tibdil fiċ-ċirkostanzi finanzjarji tad-debitur minn meta l-ordni reġistrat kien magħmul jew, fil-każ ta’ ordni reġistrat taħt l-artikolu 8, wara li l-ordni reġistrat kien konfermat, u l-qrati fil-pajjiż li jirreċiproka li fih l-ordni ta’ manteniment kien ġie magħmul ma jkollhomx is-setgħa, skont il-liġi fis-seħħ f’dak il-pajjiż, li jikkonfermaw ordnijiet provviżorji li jibdlu ordnijiet ta’ manteniment.
 
 (3) Il-qorti kompetenti ta’ Malta ma għandhiex tħassar ordni reġistrat ħlief b’ordni provviżorju ħlief meta sew id-debitur kif ukoll il-kreditur taħt l-ordni reġistrat ikunu f ’dak iż-żmien jirrisjedu f’Malta.
-
-*9*
 
 (4) Fuq rikors għat-tħassir ta’ ordni reġistrat il-qorti kom petenti ta’ Malta għandha, ħlief meta sew id-debitur kif ukoll il-kreditur taħt l-ordni reġistrat ikunu f ’dak iż-żmien jirrisjedu f’Malta, tapplika l-liġi applikata mill-pajjiż li jirreċiproka li fih kien magħmul l-ordni reġistrat; iżda meta bis-saħħa ta’ dan is-subartikolu l-qorti kompetenti ta’ Malta tkun meħtieġa li tapplika dik il-liġi, dik il-qorti tista’ tagħmel ordni provviżorju jekk ikollha raġuni taħseb li r-raġuni li fuqha ssir it-talba hi raġuni li fuqha l-ordni jista’ jiġi mħassar skont il-liġi applikata mill-pajjiż li jirreċiproka, ukoll jekk ma jkunx ġie stabbilit li hi raġuni bħal dik.
 
@@ -325,11 +313,9 @@ ir-Reġistratur għandu jikkanċella r-reġistrazzjoni; iżda kull arretrati li 
 
 (a) kopja ċertifikata tal-ordni li jkun u kopja ċertifikata ta’ kull ordni li jibdel dak l-ordni;
 
-(b) jekk l-ordni kien f’xi żmien ordni reġistrat, ċertifikat ORDNIJIET TA’ MANTENIMENT [KAP. 242. tal-arretrati ffirmat mir-Reġistratur;
+(b) jekk l-ordni kien f’xi żmien ordni reġistrat, ċertifikat tal-arretrati ffirmat mir-Reġistratur;
 
 (ċ) dikjarazzjoni li tagħti dak it-tagħrif li l-Ministru jkollu dwar fejn ikun qiegħed id-debitur; u
-
-*11*
 
 (d) kull dokument ieħor rilevanti li jkollu dwar il-każ.
 
@@ -383,11 +369,9 @@ għandu f’kull proċedimenti f’qorti f’Malta dwar ordni ta’ manteniment 
 
 Għall-finijiet ta’ dan l-Att, sakemm ma jiġix muri kuntrarju -
 
-(a) ordni magħmul minn qorti f’pajjiż li jirreċiproka li jkun jidher li jkollu s-siġill ta’ dik il-qorti jew li hu ffirmat minn xi persuna fil-kariga tagħha bħala mħallef, maġistrat jew uffiċjal tal-qorti, għandu jitqies ORDNIJIET TA’ MANTENIMENT [KAP. 242. li jkun ġie ssiġillat kif imiss jew, skont il-każ, li jkun ġie ffirmat minn dik il-persuna;
+(a) ordni magħmul minn qorti f’pajjiż li jirreċiproka li jkun jidher li jkollu s-siġill ta’ dik il-qorti jew li hu ffirmat minn xi persuna fil-kariga tagħha bħala mħallef, maġistrat jew uffiċjal tal-qorti, għandu jitqies li jkun ġie ssiġillat kif imiss jew, skont il-każ, li jkun ġie ffirmat minn dik il-persuna;
 
 (b) il-persuna li minnha jkun ġie ffirmat l-ordni għandha titqies mingħajr aktar prova li kienet imħallef, maġistrat jew uffiċjal, skont il-każ, ta’ dik il-qorti meta ffirmatu u, fil-każ ta’ uffiċjal, li jkun ġie awtorizzat li jiffirmah; u
-
-*13*
 
 (ċ) dokument li jkun jidher li hu kopja ċertifikata ta’ ordni magħmul minn qorti ta’ pajjiż li jirreċiproka għandu jitqies mingħajr aktar prova li jkun kopja bħal dik.
 
@@ -443,8 +427,6 @@ SETGĦA LI L-ATT JIĠI APPLIKAT GĦAL ORDNIJIET U TALBIET
 
 (a) li jkunu saru jew li jkunu se jsiru arranġamenti f’pajjiż jew territorju barra minn Malta biex jiżguraw li ordni jiet ta’ manteniment magħmula minn qrati f’Malta kontra persuni f’dak il-pajjiż jew territorju jistgħu jiġu esegwiti f’dak il-pajjiż jew territorju jew li talbiet minn persuni f’Malta għall-ġbir ta’ manteniment minn per suni f’dak il-pajjiż jew territorju jkunu jistgħu jiġu milqugħa minn qrati f’dak il-pajjiż jew territorju; u (b) li fl-interess ta’ reċiproċita jkun mixtieq li jiġi żgurat li ordnijiet ta’ manteniment magħmula minn qrati f’dak il-pajjiż jew territorju kontra persuni f’Malta jistgħu jiġu esegwiti f’Malta jew, skont il-każ, li talbiet minn persuni f’dak il-pajjiż jew territorju għall-ġbir ta’ man teniment minn persuni f’Malta jkunu jistgħu jiġu milqugħa minn qrati f’Malta,
 
-il-President ta’ Malta jista’ b’ordni jipprovdi sabiex jiġu applikati ORDNIJIET TA’ MANTENIMENT [KAP. 242. d-disposizzjonijiet ta’ dan l-Att, b’dawk l-eċċezzjonijiet, adattamenti u modifiki li jistgħu jiġu speċifikati fl-ordni, għal dawk l-ordnijiet jew talbiet li huma msemmija fil-paragrafi (a) u (b) u għal ordnijiet ta’ manteniment u ordnijiet oħra magħmula in konnessjoni ma’ dawk it-talbiet minn qrati f’Malta jew f’dak il-pajjiż jew territorju.
+il-President ta’ Malta jista’ b’ordni jipprovdi sabiex jiġu applikati d-disposizzjonijiet ta’ dan l-Att, b’dawk l-eċċezzjonijiet, adattamenti u modifiki li jistgħu jiġu speċifikati fl-ordni, għal dawk l-ordnijiet jew talbiet li huma msemmija fil-paragrafi (a) u (b) u għal ordnijiet ta’ manteniment u ordnijiet oħra magħmula in konnessjoni ma’ dawk it-talbiet minn qrati f’Malta jew f’dak il-pajjiż jew territorju.
 
 (2) Il-President ta’ Malta jista’ wkoll bl-istess mod jagħmel kull disposizzjoni oħra li jidhirlu li tkun meħtieġa jew spedjenti għal kull għan kif imsemmi qabel jew bil-ħsieb li jew minħabba li Malta tkun ser taċċedi jew tkun aċċediet għal xi konvenzjoni internazzjonali dwar manteniment.
-
-*15*

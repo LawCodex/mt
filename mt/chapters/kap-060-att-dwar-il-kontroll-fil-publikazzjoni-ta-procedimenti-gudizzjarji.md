@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Kontroll fil-Publikazzjoni ta' Proċedimenti Ġudizzjarji (Cap. 60)
 
-*1*
-
-MENTI ĠUDIZZJARJI [KAP. 60.
-
 **KAPITOLU 60**
 
 **ATT DWAR IL-KONTROLL**

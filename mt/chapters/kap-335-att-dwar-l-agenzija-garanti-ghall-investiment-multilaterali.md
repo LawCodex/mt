@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Aġenzija Garanti għall-Investiment Multilaterali (Cap. 335)
 
-*1*
-
-GĦALL-INVESTIMENT MULTILATERALI [KAP. 335.
-
 **KAPITOLU 335**
 
 **ATT DWAR L-AĠENZIJA GARANTI GĦALL-**
@@ -80,8 +76,6 @@ Il-Ministru jista’ b’ordni jagħmel dawk il-provvedimenti li jkunu meħtieġ
 ### 7. Lingwa tal-Iskeda.
 
 L-Iskeda li tinsab ma’ dan l-Att għandha tkun biss bil-lingwa Ingliża, u dak it-test għandu wkoll ikun japplika għat-test Malti tal-Att.
-
-GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 3
 
 ## SKEDA
 
@@ -155,7 +149,7 @@ For the purposes of this Convention:
 
 Article 5. Capital
 
-(a) The authorized capital stock of the Agency shall be one billion Special Drawing Rights (SDR 1,000,000,000). The capital stock shall be divided into 100,000 shares having a par value of SDR 10,000 each, which shall be available for subscription by members. All payment obligations of members with respect to GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 5 capital stock shall be settled on the basis of the average value of the SDR in terms of United States dollars for the period January 1, 1981 to June 30, 1985, such value being 1.082 United States dollars per SDR.
+(a) The authorized capital stock of the Agency shall be one billion Special Drawing Rights (SDR 1,000,000,000). The capital stock shall be divided into 100,000 shares having a par value of SDR 10,000 each, which shall be available for subscription by members. All payment obligations of members with respect to capital stock shall be settled on the basis of the average value of the SDR in terms of United States dollars for the period January 1, 1981 to June 30, 1985, such value being 1.082 United States dollars per SDR.
 
 (b) The capital stock shall increase on the admission of a new member to the extent that the then authorized shares are insufficient to provide the shares to be subscribed by such member pursuant to Article 6.
 
@@ -211,7 +205,7 @@ any legislative action or administrative action or omission attributable to the 
 
 (iii) Breach of Contract
 
-any repudiation or breach by the host government of a contract with the holder of a guarantee, when (a) the holder of a guarantee does not have recourse to a judicial or arbitral forum to determine the claim of repudiation or breach, or (b) a decision by such GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 7 forum is not rendered within such reasonable period of time as shall be prescribed in the contracts of guarantee pursuant to the Agency’s regulations, or (c) such a decision cannot be enforced; and
+any repudiation or breach by the host government of a contract with the holder of a guarantee, when (a) the holder of a guarantee does not have recourse to a judicial or arbitral forum to determine the claim of repudiation or breach, or (b) a decision by such forum is not rendered within such reasonable period of time as shall be prescribed in the contracts of guarantee pursuant to the Agency’s regulations, or (c) such a decision cannot be enforced; and
 
 (iv) War and Civil Disturbance
 
@@ -279,7 +273,7 @@ Article 18. Subrogation
 
 (a) Upon paying or agreeing to pay compensation to a holder of a guarantee, the Agency shall be subrogated to such rights or claims related to the guaranteed investment as the holder of a guarantee may have had against the host country and other obligors. The contract of guarantee shall provide the terms and conditions of such subrogation.
 
-GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 9 (b) The rights of the Agency pursuant to Section (a) above shall be recognized by all members.
+(b) The rights of the Agency pursuant to Section (a) above shall be recognized by all members.
 
 (c) Amounts in the currency of the host country acquired by the Agency as subrogee pursuant to Section (a) above shall be accorded, with respect to use and conversion, treatment by the host country as favourable as the treatment to which such funds would be entitled in the hands of the holder of the guarantee. In any case, such amounts may be used by the Agency for the payment of its administrative expenditures and other costs. The Agency shall also seek to enter into arrangements with host countries on other uses of such currencies to the extent that they are not freely usable.
 
@@ -321,7 +315,7 @@ Article 23. Investment Promotion
 
 (i) be guided by relevant investment agreements among member countries;
 
-GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 11 (ii) seek to remove impediments, in both developed and developing member countries, to the flow of investment to developing member countries; and
+(ii) seek to remove impediments, in both developed and developing member countries, to the flow of investment to developing member countries; and
 
 (iii) coordinate with other agencies concerned with the promotion of foreign investment, and in particular the International Finance Corporation.
 
@@ -389,7 +383,7 @@ Article 31. The Council
 
 (x) amend this Convention, its Annexes and Schedules.
 
-(b) The Council shall be composed of one Governor and one Alternate appointed by each member in such manner as it may determine. No Alternate may vote except in the absence of his principal. The Council shall select one of the GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 13 Governors as Chairman.
+(b) The Council shall be composed of one Governor and one Alternate appointed by each member in such manner as it may determine. No Alternate may vote except in the absence of his principal. The Council shall select one of the Governors as Chairman.
 
 (c) The Council shall hold an annual meeting and such other meetings as may be determined by the Council or called by the Board. The Board shall call a meeting of the Council whenever requested by five members or by members having twenty-five percent of the total voting power.
 
@@ -449,7 +443,7 @@ Article 39. Voting and Adjustments of Subscriptions
 
 (a) In order to provide for voting arrangements that reflect the equal interest in the Agency of the two Categories of States listed in Schedule A of this Convention, as well as the importance of each member’s financial participation, each member shall have 177 membership votes plus one subscription vote for each share of stock held by that member.
 
-(b) If at any time within three years after the entry into force of this Convention the aggregate sum of membership and subscription votes of members which belong to either of the two Categories of States listed in Schedule A of this Convention is GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 15 less than forty percent of the total voting power, members from such a Category shall have such number of supplementary votes as shall be necessary for the aggregate voting power of the Category to equal such a percentage of the total voting power. Such supplementary votes shall be distributed among the members of such Category in the proportion that the subscription votes of each bears to the aggregate of subscription votes of the Category. Such supplementary votes shall be subject to automatic adjustment to ensure that such percentage is maintained and shall be cancelled at the end of the above-mentioned three-year period.
+(b) If at any time within three years after the entry into force of this Convention the aggregate sum of membership and subscription votes of members which belong to either of the two Categories of States listed in Schedule A of this Convention is less than forty percent of the total voting power, members from such a Category shall have such number of supplementary votes as shall be necessary for the aggregate voting power of the Category to equal such a percentage of the total voting power. Such supplementary votes shall be distributed among the members of such Category in the proportion that the subscription votes of each bears to the aggregate of subscription votes of the Category. Such supplementary votes shall be subject to automatic adjustment to ensure that such percentage is maintained and shall be cancelled at the end of the above-mentioned three-year period.
 
 (c) During the third year following the entry into force of this Convention, the Council shall review the allocation of shares and shall be guided in its decision by the following principles:
 
@@ -503,7 +497,7 @@ Article 45. Assets
 
 (b) To the extent necessary to carry out its operations under this Convention, all property and assets of the Agency shall be free from restrictions, regulations, controls and moratoria of any nature; provided that property and assets acquired by the Agency as successor to or subrogee of a holder of a guarantee, a reinsured entity or an investor insured by a reinsured entity shall be free from applicable foreign exchange restrictions, regulations and controls in force in the territories of the member concerned to the extent that the holder, entity or investor to whom the Agency was subrogated was entitled to such treatment.
 
-GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 17 (c) For purposes of this Chapter, the term "assets" shall include the assets of the Sponsorship Trust Fund referred to in Annex I to this Convention and other assets administered by the Agency in furtherance of its objective.
+(c) For purposes of this Chapter, the term "assets" shall include the assets of the Sponsorship Trust Fund referred to in Annex I to this Convention and other assets administered by the Agency in furtherance of its objective.
 
 Article 46. Archives and Communications
 
@@ -565,7 +559,7 @@ Article 54. Suspension of Operations
 
 (a) The Board may, whenever it deems it justified, suspend the issuance of new guarantees for a specified period.
 
-(b) In an emergency, the Board may suspend all activities of the Agency for a GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 19 period not exceeding the duration of such emergency, provided that necessary arrangements shall be made for the protection of the interests of the Agency and of third parties.
+(b) In an emergency, the Board may suspend all activities of the Agency for a period not exceeding the duration of such emergency, provided that necessary arrangements shall be made for the protection of the interests of the Agency and of third parties.
 
 (c) The decision to suspend operations shall have no effect on the obligations of the members under this Convention or on the obligations of the Agency towards holders of a guarantee or reinsurance policy or towards third parties.
 
@@ -609,7 +603,7 @@ Any dispute arising under a contract of guarantee or reinsurance between the par
 
 Article 60. Procedure
 
-Any proposal to amend this Convention, whether emanating from a member or a Governor or a Director, shall be communicated to the Chairman of the Board who shall bring the proposal before the Board. If the proposed amendment is recommended by the Board, it shall be submitted to the Council for approval in accordance with Article 59. When an amendment has been duly approved by the Council, the Agency shall so certify by formal communication addressed to all members. Amendments shall enter into force for all members ninety days after the date of the formal communication unless the Council shall specify a different date. GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 21
+Any proposal to amend this Convention, whether emanating from a member or a Governor or a Director, shall be communicated to the Chairman of the Board who shall bring the proposal before the Board. If the proposed amendment is recommended by the Board, it shall be submitted to the Council for approval in accordance with Article 59. When an amendment has been duly approved by the Council, the Agency shall so certify by formal communication addressed to all members. Amendments shall enter into force for all members ninety days after the date of the formal communication unless the Council shall specify a different date.
 
 ## CHAPTER XI — FINAL PROVISIONS — Article 61. Entry into Force
 
@@ -675,7 +669,7 @@ Article 2. Sponsorship Trust Fund
 
 (a) Premiums and other revenues attributable to guarantees of sponsored investments, including returns on the investment of such premiums and revenues, shall be held in a separate account which shall be called the Sponsorship Trust Fund.
 
-(b) All administrative expenses and payments on claims attributable to GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 23 guarantees issued under this Annex shall be paid out of the Sponsorship Trust Fund.
+(b) All administrative expenses and payments on claims attributable to guarantees issued under this Annex shall be paid out of the Sponsorship Trust Fund.
 
 (c) The assets of the Sponsorship Trust Fund shall be held and administered for the joint account of sponsoring members and shall be kept separate and apart from the assets of the Agency.
 
@@ -725,7 +719,7 @@ Article 3. Conciliation
 
 (a) If the dispute is not resolved through negotiation, either party may submit the dispute to arbitration in accordance with the provisions of Article 4 of this Annex, unless the parties, by mutual consent, have decided to resort first to the conciliation procedure provided for in this Article.
 
-(b) The agreement for recourse to conciliation shall specify the matter in dispute, the claims of the parties in respect thereof and, if available, the name of the conciliator agreed upon by the parties. In the absence of agreement on the GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 25 conciliator, the parties may jointly request either the Secretary-General of the International Centre for Settlement of Investment Disputes (hereinafter called ICSID) or the President of the International Court of Justice to appoint a conciliator. The conciliation procedure shall terminate if the conciliator has not been appointed within ninety days after the agreement for recourse to conciliation.
+(b) The agreement for recourse to conciliation shall specify the matter in dispute, the claims of the parties in respect thereof and, if available, the name of the conciliator agreed upon by the parties. In the absence of agreement on the conciliator, the parties may jointly request either the Secretary-General of the International Centre for Settlement of Investment Disputes (hereinafter called ICSID) or the President of the International Court of Justice to appoint a conciliator. The conciliation procedure shall terminate if the conciliator has not been appointed within ninety days after the agreement for recourse to conciliation.
 
 (c) Unless otherwise provided in this Annex or agreed upon by the parties, the conciliator shall determine the rules governing the conciliation procedure and shall be guided in this regard by the conciliation rules adopted pursuant to the Convention on the Settlement of Investment Disputes between States and Nationals of Other States.
 
@@ -769,7 +763,7 @@ the appointment within thirty days of the request, either party may request the 
 
 (i) If any dispute shall arise between the parties as to the meaning or scope of an award, either party may, within sixty days after the award was rendered, request interpretation of the award by an application in writing to the President of the Tribunal which rendered the award. The President shall, if possible, submit the request to the Tribunal which rendered the award and shall convene such Tribunal within sixty days after receipt of the application. If this shall not be possible, a new Tribunal shall be constituted in accordance with the provisions of Sections (a) to (d) above. The Tribunal may stay enforcement of the award pending its decision on the requested interpretation.
 
-(j) Each member shall recognize an award rendered pursuant to this Article as binding and enforceable within its territories as if it were a final judgment of a court in that member. Execution of the award shall be governed by the laws concerning the execution of judgments in force in the State in whose territories such execution is sought and shall not derogate from the law in force relating to immunity from GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 27 execution.
+(j) Each member shall recognize an award rendered pursuant to this Article as binding and enforceable within its territories as if it were a final judgment of a court in that member. Execution of the award shall be governed by the laws concerning the execution of judgments in force in the State in whose territories such execution is sought and shall not derogate from the law in force relating to immunity from execution.
 
 (k) Unless the parties shall agree otherwise, the fees and remuneration payable to the arbitrators shall be determined on the basis of the rates applicable to ICSID arbitration. Each party shall defray its own costs associated with the arbitration proceedings. The costs of the Tribunal shall be borne by the parties in equal proportion unless the Tribunal decides otherwise. Any question concerning the division of the costs of the Tribunal or the procedure for payment of such costs shall be decided by the Tribunal.
 
@@ -928,8 +922,6 @@ Guinea-Bissau 50 0.50
 Guyana 84 0.84
 
 \*Countries listed under Category Two are developing member countries for the purposes of this Convention.
-
-GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 29
 
 Country Number of Shares Subscription
 
@@ -1107,7 +1099,7 @@ Zimbabwe 236 2.36
 
 40,527 405.27
 
-Total 100,000 1,000.00 GĦALL-INVESTIMENT MULTILATERALI [KAP. 335. 31
+Total 100,000 1,000.00
 
 ## SCHEDULE B — ELECTION OF DIRECTORS
 

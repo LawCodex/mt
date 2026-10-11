@@ -16,14 +16,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Ratifika tal-Konvenzjoni tal-Kunsill tal-Ewropa dwar il-Prevenzjoni u l-Ġlieda kontra l-Vjolenza fir-rigward tan-Nisa u l-Vjolenza Domestika (Cap. 532)
 
-RATIFIKA TAL-KONVENZJONI TAL-KUNSILL TAL-EWROPA DWAR
-
-IL-PREVENZJONI U L-ĠLIEDA KONTRA L-VJOLENZA
-
-*1*
-
-FIR-RIGWARD TAN-NISA U L-VJOLENZA DOMESTIKA [KAP. 532.
-
 **KAPITOLU 532**
 
 **ATT DWAR IR-RATIFIKA TAL-KONVENZJONI**

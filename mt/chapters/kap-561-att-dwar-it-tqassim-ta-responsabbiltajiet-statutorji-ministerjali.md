@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar it-Tqassim ta’ Responsabbiltajiet Statutorji Ministerjali (Cap. 561)
 
-*1*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 **KAPITOLU 561**
 
 **ATT DWAR IT-TQASSIM TA’**
@@ -94,10 +90,6 @@ il-Ministru għandu jassumi kwalunkwe setgħat u dmirijiet bil-leġiżlazzjoni s
 ## 6. Dispożizzjoni ta’ riżerva. Kap. 324.
 
 Xejn f’dan l-Att ma għandu jostakola l-applikazzjoni tal- Att dwar id-Delega ta’ Funzjonijiet minn Ministri.
-
-*3*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Sostitwita: SKEDA
 
@@ -203,10 +195,6 @@ Ratifika ta' Trattati (Sant'Anġlu) Ministru responsabbli għall- (Kap. 429) aff
 
 Att dwar is-Servizzi Veterinarji Ministru responsabbli għall- (Kap. 437) affarijiet barranin
 
-*5*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -311,10 +299,6 @@ Att dwar il-Konservazzjoni ta' Ministru responsabbli għall- Ħamrija Għammiela
 
 (Kap. 236)
 
-*7*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -411,10 +395,6 @@ pubbliku
 
 dwar il-persunal fis-servizz pubbliku
 
-*9*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -494,10 +474,6 @@ ta’ Gassijiet Serra għall-
 Avjazzjoni
 
 (L.S. 423.51)
-
-*11*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -599,10 +575,6 @@ Att dwar il-Ħlas ta' Dritt lill- Ministru li minn żmien għall- Barklori ieħo
 
 Dipartiment tad-Dwana
 
-*13*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -694,10 +666,6 @@ Att dwar ir-Rikonoxximent tal- Ministru responsabbli għall- Lingwa Maltija tas-
 Att dwar l-Istitut għal Studji Ministru għall-Edukazzjoni Turistiċi
 
 (Kap. 566)
-
-*15*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -794,10 +762,6 @@ Att dwar Proprjetà tal-Għadu Ministru responsabbli għall- (Kap. 179) finanzi
 Att dwar l-Immunitajiet u l- Ministru responsabbli għall- Privileġġi Diplomatiċi finanzi
 
 (Kap. 191)
-
-*17*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -903,10 +867,6 @@ Manteniment għal Studenti
 
 (L.S. 327.178)
 
-*19*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -992,10 +952,6 @@ Regolamenti dwar Networks u Ministru responsabbli għall- Servizzi ta' Komunikaz
 **Elettroniċi (Ġenerali) Ministru għall-Finanzi**
 
 (L.S. 399.28)
-
-*21*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -1091,10 +1047,6 @@ Marittima
 
 Att dwar l-Adozzjoni tal-Euro Ministru responsabbli għall- (Kap. 485) finanzi
 
-*23*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -1185,10 +1137,6 @@ Att dwar l-Awtorità ta’ Ministru responsabbli għall- Standards ta’ Ħarsie
 
 (Kap. 582)
 
-*25*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -1276,10 +1224,6 @@ Ordinanza dwar l-Akkwist ta' Ministru responsabbli għall- Artijiet għal Skopij
 (Kap. 88)
 
 Ordinanza dwar l-Avukat Ġenerali Ministru responsabbli għall- (Kap. 90) ġustizzja
-
-*27*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -1373,10 +1317,6 @@ tas-Seduti tat-Tribunal għal Talbiet
 
 (L.S. 380.02)
 
-*29*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -1468,10 +1408,6 @@ Att dwar l-Ambjent u l-Ippjanar Ministru responsabbli għall-tal-Iżvilupp ġust
 Att dwar il-Ħarsien tat-Tfal Ministru responsabbli għall- (Konvenzjoni tal-Aja) ġustizzja
 
 (Kap. 507)
-
-*31*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -1568,10 +1504,6 @@ Industrija tal-Films Att dwar il-Kummissjoni Ministru responsabbli mill-
 **Ċinematografika ta' Malta Industirja tal-Films**
 
 (Kap. 478)
-
-*33*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -1675,10 +1607,6 @@ Konservazzjoni tal- Att dwar il-Kontroll tas-Swimming Ministru responsabbli għa
 
 (Kap. 244)
 
-*35*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -1772,10 +1700,6 @@ Marittima
 Att dwar l-Intrapriżi ż-Żgħar Ministru responsabbli għall- (Kap. 512) ekonomija
 
 Att dwar in-Negozji tal-Familja Ministru responsabbli għall- (Kap. 565) ekonomija
-
-*37*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -1879,10 +1803,6 @@ Att dwar Servizzi li jingħataw fis- Ministru responsabbli għall- Suq Intern ek
 
 (Kap. 500)
 
-*39*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -1966,10 +1886,6 @@ Att dwar il-Professjoni tal- Ministru responsabbli għall- Psikoterapija profess
 Att dwar Tfal u Żgħażagħ Ministru responsabbli għall- (Ordnijiet għall-Ħarsien) għajnuna soċjali
 
 (Kap. 285)
-
-*41*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -2069,10 +1985,6 @@ Regolamenti dwar Garanzija ta’ Ministru responsabbli għall- Self Żgħir Indu
 
 (L.S. 463.08)
 
-*43*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -2164,10 +2076,6 @@ Regolamenti dwar il- Ministru responsabbli mill- Valutazzjoni tal-Impatti ambjen
 Ambjentali
 
 (L.S. 549.46)
-
-*45*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -2271,10 +2179,6 @@ Ordinanza dwar iċ-Ċertifikati tal- Ministru responsabbli għal Kondotta pulizi
 
 (Kap. 77)
 
-*47*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -2369,10 +2273,6 @@ Regolamenti dwar Istituzzjonijiet Ministru responsabbli għar-
 
 (L.S. 371.12)
 
-*49*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -2466,10 +2366,6 @@ Ordinanza dwar il-Professjoni Ministru responsabbli għas- Medika u l-Professjon
 għandhom x'jaqsmu magħha
 
 (Kap. 31)
-
-*51*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -2568,10 +2464,6 @@ Att dwar il-Kummissarju għat-Tfal Ministru responsabbli għas- (Kap. 462) saħ�
 Att dwar il-Professjonijiet tas- Ministru responsabbli għas- Saħħa saħħa
 
 (Kap. 464)
-
-*53*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -2685,10 +2577,6 @@ Regolamenti dwar Stabbilimenti Ministru responsabbli għas-
 
 (L.S. 449.25)
 
-*55*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -2776,10 +2664,6 @@ Att dwar is-Servizzi Postali Ministru responsabbli għall- (Kap. 254) posta
 Servizzi Veterinarji Ordinanza dwar it-Tħaris mill- Ministru responsabbli għall- Mard biedja
 
 (Kap. 36)
-
-*57*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -2874,10 +2758,6 @@ Awtorizzazzjoni u r-Restrizzjoni
 ta' Kimiċi
 
 (L.S. 427.67)
-
-*59*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
@@ -2983,10 +2863,6 @@ Att dwar Servizzi tal-Ivvjaġġar u Ministru responsabbli għat-tat-Turiżmu għ
 
 (Kap. 409)
 
-*61*
-
-STATUTORJI MINISTERJALI [KAP. 561.
-
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 
 responsabbiltà mil-leġiżlazzjoni relatata
@@ -3084,10 +2960,6 @@ Regolamenti dwar il-Postijiet tax- Ministru responsabbli għax- Xogħol (Paranki
 Att dwar ir-Rikonoxximent Ministru responsabbli għax- Reċiproku ta' Kwalifiki xogħol
 
 (Kap. 451)
-
-*63*
-
-STATUTORJI MINISTERJALI [KAP. 561.
 
 Qasam konsolidat ta’ Titolu statutorju mwaqqaf Leġiżlazzjoni relatata
 

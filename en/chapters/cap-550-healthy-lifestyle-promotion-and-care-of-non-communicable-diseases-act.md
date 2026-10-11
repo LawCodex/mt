@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Healthy Lifestyle Promotion and Care of Non-Communicable Diseases Act (Cap. 550)
 
-*1*
-
-CARE OF NON-COMMUNICABLE DISEASES [CAP. 550.
-
 **CHAPTER 550**
 
 **HEALTHY LIFESTYLE PROMOTION AND CARE**
@@ -110,11 +106,7 @@ The purpose of this Act is to establish and ensure an inter-ministerial lifelong
 
 (b) advise the Minister on policies, action plans and regulations intended to reduce the occurrence of non-communicable diseases among the general public;
 
-(c) upon the request of any other Minister advise such Minister on such matters as may be required in order CARE OF NON-COMMUNICABLE DISEASES [CAP. 550.
-
-to achieve the objectives of this Act;
-
-*3*
+(c) upon the request of any other Minister advise such Minister on such matters as may be required in order to achieve the objectives of this Act;
 
 (d) encourage an inter-ministerial approach to issues related to physical activity and a healthy lifestyle; and (e) encourage a lifelong approach, from intrauterine life till old age, to physical activity and a healthy lifestyle.
 

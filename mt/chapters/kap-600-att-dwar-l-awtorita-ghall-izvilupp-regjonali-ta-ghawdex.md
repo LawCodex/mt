@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Awtorità għall-Iżvilupp Reġjonali ta’ Għawdex (Cap. 600)
 
-*1*
-
-REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
 **KAPITOLU 600**
 
 **ATT DWAR L-AWTORITÀ GĦALL-IŻVILUPP**
@@ -49,10 +45,6 @@ għal Għawdex
 Skeda II -  Studju dwar il-Valutazzjoni tal-Impatt Reġjonali  
 \*Ara l-Avviż Legali 332 tal-2019.  
 †Taqsimiet V sa VIII għandhom mhuwiex fis-seħħ.
-
-*2*
-
-[KAP. 600 REĠJONALI TA’ GĦAWDEX
 
 ## TAQSIMA I — Preliminari
 
@@ -88,11 +80,7 @@ F’dan l-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "Ministru" tfisser il-Ministru għal Għawdex;
 
-"President" tfisser il-President tal-Awtorità u tinkludi, fiċ- REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
-ċirkostanzi msemmija fl-artikolu 3(3), lill-Viċi President jew persuna oħra li tinħatar biex tagħmilha ta’ President;
-
-*3*
+"President" tfisser il-President tal-Awtorità u tinkludi, fiċ-ċirkostanzi msemmija fl-artikolu 3(3), lill-Viċi President jew persuna oħra li tinħatar biex tagħmilha ta’ President;
 
 *  Kap. 490.*
 
@@ -118,11 +106,7 @@ F’dan l-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 (3) Il-Ministru jista’ jinnomina lil wieħed mill-membri tal- Bord, li ma jkunx il-President, bħala Viċi President u l-membru li jiġi hekk nominat ikollu s-setgħat kollha u jwettaq il-funzjonijiet kollha tal-President matul l-assenza jew l-inkapaċità tiegħu li jagħmilha ta’ President jew filwaqt li l-President ikun fuq btala jew ikun hemm vakanza fil-kariga ta’ president, u l-Ministru jista’ wkoll, f’kull waħda miċ-ċirkostanzi hawn aktar qabel imsemmija, jaħtar lil xi persuna oħra biex tagħmilha ta’ president u f’każ bħal dak id-dispożizzjonijiet ta’ qabel għandhom japplikaw għar-rigward ta’ dik il-persuna.
 
-(4) Persuna ma tkunx kwalifikata li jkollha l-kariga ta’ REĠJONALI TA’ GĦAWDEX
-
-membru tal-Bord jekk -
-
-*[KAP. 600 4*
+(4) Persuna ma tkunx kwalifikata li jkollha l-kariga ta’ membru tal-Bord jekk -
 
 (a) tkun Ministru, Segretarju Parlamentari jew membru tal-Kamra tad-Deputati; jew
 
@@ -148,11 +132,7 @@ Iżda wkoll jekk il-Ministru jiddeċiedi li jagħti dik ir-rinunzja, id-dikjaraz
 
 (b) jekk l-imġiba jew il-prestazzjoni tal-membru tnissel dubju dwar kemm huwa jkun idoneu jew kapaċi li jibqa’ membru, b’mod partikolari dwar imġiba li tkun tolqot jew tista’ tolqot il-fama, l-indipendenza jew l-awtonomija tiegħu, jew il-fama, l-indipendenza jew l-awtonomija tal- Awtorità;
 
-(ċ) jekk il-membru jkun instab ħati ta’ reat kriminali li jinvolvi l-fiduċja pubblika, jew ta’ serq jew frodi, jew li jkun REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
-xjentement laqa’ għandu oġġetti miksubin b’serq jew frodi jew ta’ tixħim jew ta’ ħasil ta’ flus, hekk li l-Ministru jista’ jissospendi lill-membru jekk huwa jkun qed jiġi investigat dwar reat kriminali; jew
-
-*5*
+(ċ) jekk il-membru jkun instab ħati ta’ reat kriminali li jinvolvi l-fiduċja pubblika, jew ta’ serq jew frodi, jew li jkun xjentement laqa’ għandu oġġetti miksubin b’serq jew frodi jew ta’ tixħim jew ta’ ħasil ta’ flus, hekk li l-Ministru jista’ jissospendi lill-membru jekk huwa jkun qed jiġi investigat dwar reat kriminali; jew
 
 (d) jekk il-membru jonqos milli jwettaq dmirijietu għal żmien twil mingħajr ebda ġustifikazzjoni valida:
 
@@ -166,11 +146,7 @@ Iżda minkejja dak kollu msemmi hawn qabel, ikun hemm kawża għat-tneħħija ta
 
 ### 4. Pjan korporattiv.
 
-(1) Il-Bord u l-Uffiċjal Eżekuttiv Ewlieni tal- Awtorità għandhom jieħdu dawk l-azzjonijiet li huma meħtieġa biex [KAP. 600 REĠJONALI TA’ GĦAWDEX
-
-jiġi żgurat li jippreżentaw lill-Ministru proposta ta’ pjan korporattiv għall-Awtorità għal tliet snin ta’ ħidma, liema pjan għandu jiġi rivedut sal-aħħar ta’ Ottubru ta’ kull sena.
-
-*6*
+(1) Il-Bord u l-Uffiċjal Eżekuttiv Ewlieni tal- Awtorità għandhom jieħdu dawk l-azzjonijiet li huma meħtieġa biex jiġi żgurat li jippreżentaw lill-Ministru proposta ta’ pjan korporattiv għall-Awtorità għal tliet snin ta’ ħidma, liema pjan għandu jiġi rivedut sal-aħħar ta’ Ottubru ta’ kull sena.
 
 (2) Il-pjan korporattiv propost għandu jkun fil-forma approvata mis-Segretarju Permanenti għall-Ministeru ta’ Għawdex, u għandu jkun fih:
 
@@ -194,15 +170,11 @@ jiġi żgurat li jippreżentaw lill-Ministru proposta ta’ pjan korporattiv għ
 
 (4) Il-pjan korporattiv jista’ jiġi modifikat fi kwalunkwe ħin mill-Awtorità bl-approvazzjoni tas-Segretarju Permanenti u tal- Ministru.
 
-(5) L-Awtorità għandha taġixxi konformement mal-pjan korporattiv biss, sakemm ma tkunx kisbet l-approvazzjoni bil-miktub tal-Ministru u tas-Segretarju Parlamentari biex taġixxi mod ieħor. REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
-### 5. Proċedura għat-twaqqif ta’ indikaturi tal-prestazzjoni.
-
-Il-proċedura għat-twaqqif tal-indikaturi ewlenin tal-prestazzjoni għandha teħtieġ li tali indikaturi:
-
-*7*
+(5) L-Awtorità għandha taġixxi konformement mal-pjan korporattiv biss, sakemm ma tkunx kisbet l-approvazzjoni bil-miktub tal-Ministru u tas-Segretarju Parlamentari biex taġixxi mod ieħor. 5. Il-proċedura għat-twaqqif tal-indikaturi ewlenin tal-prestazzjoni għandha teħtieġ li tali indikaturi:
 
 (a) jiġu stabbiliti mill-Uffiċjal Eżekuttiv Ewlieni wara konsultazzjoni mal-Bord;
+
+*Proċedura għat-twaqqif ta’ indikaturi tal-prestazzjoni.*
 
 (b) ikunu relatati man-negozju ewlieni tal-Awtorità;
 
@@ -234,11 +206,9 @@ Il-proċedura għat-twaqqif tal-indikaturi ewlenin tal-prestazzjoni għandha te�
 
 ### 7. Strument ta’ delega.
 
-(1) Il-Ministru jista’, permezz ta’ strument ta’ delega, jittrasferixxi setgħat ta’ sorveljanza u infurzar lill-Awtorità. [KAP. 600 REĠJONALI TA’ GĦAWDEX
+(1) Il-Ministru jista’, permezz ta’ strument ta’ delega, jittrasferixxi setgħat ta’ sorveljanza u infurzar lill-Awtorità.
 
 (2) Konformement mad-dispożizzjonijiet tal-artikolu 6(5) il-Ministru għandu, permezz ta’ reviżjoni indipendenti, iwettaq monitoraġġ fuq l-eżerċizzju tas-setgħa delegata taħt is-subartikolu (1) sabiex jiġi żgurat li tali delega qed tiġi eżerċitata konformement mal-istrument ta’ delega u skont id-dispożizzjonijiet tal-artikoli 4 u 5.
-
-*8*
 
 (3) Jekk, abbażi tas-subartikolu (2), il-Ministru jsib li l- Awtorità ma eżerċitatx is-setgħat tagħha taħt l-istrument ta’ delega skont id-dispożizzjonijiet ta’ tali delega u d-dispożizzjonijiet ta’ dan l-Att, il-Ministru għandu jirtira l-istrument ta’ delega relattiv.
 
@@ -257,10 +227,6 @@ Il-proċedura għat-twaqqif tal-indikaturi ewlenin tal-prestazzjoni għandha te�
 (e) li tistabbilixxi Kumitat tax-Xogħol, kif ukoll sotto-kumitati, kif jista’ jidhrilha xieraq, ma’ entitajiet governattivi sabiex tikseb relazzjoni funzjonali dejjiema ma’ tali entitajiet governattivi u sabiex tiżgura li kull deċiżjoni li tkun meħtieġa li tittieħed għall-implimentazzjoni tal-istrateġija għall-iżvilupp reġjonali ta’ Għawdex tittieħed mingħajr dewmien żejjed;
 
 (f) li tiżgura li titwettaq valutazzjoni tal-impatt reġjonali, kif stabbilit fl-Iskeda II, meta ministeri governattivi biħsiebhom jippreżentaw lill-Kabinett -
-
-*9*
-
-REĠJONALI TA’ GĦAWDEX [KAP. 600.
 
 (i) strateġija nazzjonali;
 
@@ -286,10 +252,6 @@ li jaffettwa jew jaffettwaw, kif ikun il-każ, Għawdex sabiex tinkiseb strateġ
 
 (l) li tirrevedi formalment l-istrateġija għall-iżvilupp reġjonali ta’ Għawdex kull tliet snin, liema reviżjoni għandha titqiegħed mill-Ministeru għal Għawdex fuq il-Mejda tal-Kamra tad-Deputati ladarba din tkun ġiet approvata mill- Ministru; u
 
-*10*
-
-[KAP. 600 REĠJONALI TA’ GĦAWDEX
-
 (m) li twettaq tali funzjonijiet oħra kif jistgħu, minn żmien għal żmien, jiġu assenjati lilha mill-Ministru fil-limiti tal-parametri tad-dispożizzjonijiet ta’ dan l-Att.
 
 (2) (a) Fil-każ ta’ nuqqas, min-naħa tal-entità jew entitajiet konċernati, li josservaw id-dispożizzjonijiet tas-subregolament (1)(f) l-Awtorità tista’, wara konsultazzjoni mal- Ministru, tibda hi stess il-proċeduri relattivi għat-twettiq tal-valutazzjoni tal-impatt reġjonali hemm imsemmi.
@@ -311,10 +273,6 @@ li jaffettwa jew jaffettwaw, kif ikun il-każ, Għawdex sabiex tinkiseb strateġ
 ### 9. Tmexxija tal-affarijiet tal- Awtorità.
 
 (1) Bla ħsara għad-dispożizzjonijiet tal-artikoli 4 sa 7, it-tnejn inklużi, l-affarijiet u x-xogħol tal-Awtorità għandhom ikunu jaqgħu fir-responsabbiltà tal-Awtorità nnifisha u dik ir-responsabbiltà għandha tiġi eżerċitata mill-President tal-Bord:
-
-*11*
-
-REĠJONALI TA’ GĦAWDEX [KAP. 600.
 
 Iżda l-Bord jista’ jiddelega jew jiddevolvi t-tmexxija eżekuttiva tiegħu kollha jew parti minnha, l-amministrazzjoni u l-organizzazzjoni tiegħu u l-kontroll amministrattiv tal-uffiċjali u l-impjegati tiegħu, lil kull uffiċjal jew uffiċjali tal-Awtorità, li jkollu wkoll dawk is-setgħat l-oħra li jistgħu minn żmien għal żmien jiġu lilu delegati jew devoluti fuqu mill-Bord.
 
@@ -338,10 +296,6 @@ Iżda l-Awtorità tista’, jekk jidhrilha li jkun xieraq, tesiġi li l-Uffiċja
 
 (d) jiżviluppa l-istrateġiji neċessarji għall-implimentazzjoni tal-għanijiet tal-Awtorità;
 
-*12*
-
-[KAP. 600 REĠJONALI TA’ GĦAWDEX
-
 (e) jagħti pariri lill-Bord dwar kull ħaġa li l-Bord jista’ jirreferi lilu jew dwar kull ħaġa li hu jista’ jikkonsidra li dwarha l-parir tiegħu hu neċessarju jew spedjenti; u
 
 (f) iwettaq dawk il-funzjonijiet u dmirijiet oħra kif jistgħu jiġu assenjati lilu minn żmien għal żmien.
@@ -364,10 +318,6 @@ Iżda l-Awtorità tista’, jekk jidhrilha li jkun xieraq, tesiġi li l-Uffiċja
 
 (2) Ir-rappreżentanza ġuridika tal-Awtorità għandha tvesti solidalment fil-President u f’dak il-membru ieħor tal-Bord jew uffiċjal tal-Awtorità li l-Bord jista’ jaħtar:
 
-*13*
-
-REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
 Iżda l-Awtorità tista’ taħtar lil xi wieħed jew aktar membri tal-Bord jew lil xi wieħed jew aktar uffiċjali tal-Awtorità biex dawn jidhru f’isem jew għall-Awtorità fi proċedimenti ġudizzjarji u fuq kull att, kuntratt, strument jew dokument ieħor li jkun.
 
 (3) Kull dokument li jagħti x’jifhem li jkun strument magħmul jew maħruġ mill-Awtorità u ffirmat mill-President, jew minn xi membru ieħor tal-Bord jew uffiċjal tal-Awtorità li jista’ jkun vestit mill-Bord, skont is-subartikolu (2), bir-rappreżentanza ġuridika tal-Awtorità, ikun jista’ jintlaqa’ bħala prova u għandu, sakemm ma jiġix ippruvat il-kuntrarju, jitqies li jkun strument magħmul jew maħruġ mill-Awtorità.
@@ -388,11 +338,7 @@ Iżda l-Awtorità tista’ taħtar lil xi wieħed jew aktar membri tal-Bord jew 
 
 ### 13. Ħatriet ta’ persunal.
 
-Mingħajr preġudizzju għad-dispożizzjonijiet l-oħra ta’ dan l-Att, il-ħatra ta’ uffiċjali u ta’ impjegati oħra tal-Awtorità għandha ssir mill-Awtorità. Il-pattijiet u l-kondizzjonijiet tal-impieg [KAP. 600 REĠJONALI TA’ GĦAWDEX
-
-għandhom jiġu stabbiliti mill-Awtorità bi ftehim mal-Ministru.
-
-*14*
+Mingħajr preġudizzju għad-dispożizzjonijiet l-oħra ta’ dan l-Att, il-ħatra ta’ uffiċjali u ta’ impjegati oħra tal-Awtorità għandha ssir mill-Awtorità. Il-pattijiet u l-kondizzjonijiet tal-impieg għandhom jiġu stabbiliti mill-Awtorità bi ftehim mal-Ministru.
 
 ### 14. Ħatra u funzjonijiet tal-uffiċjali u l-impjegati tal- Awtorità.
 
@@ -416,10 +362,6 @@ L-Awtorità għandha taħtar u timpjega, b’dik ir-rimunerazzjoni u b’dawk il
 
 (ii) ikun hekk impjegat li r-rimunerazzjoni u l-kondizzjonijiet tas-servizz tiegħu jkunu inqas favorevoli minn dawk li jkunu konnessi mal-ħatra tiegħu mal-Gvern li jkollu fid-data hawn aktar qabel imsemmija jew li kienu jkunu konnessi ma’ dik il-ħatra, matul dak iż-żmien, li kieku dak l-uffiċjal ma jkunx ġie assenjat biex jaqdi dmirijietu mal-Awtorità; u
 
-*15*
-
-REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
 *   Kap. 93.  Kap. 58.*
 
 (b) ikollu jedd li s-servizz tiegħu mal-Awtorità jiġi kkunsidrat bħala servizz mal-Gvern għall-għanijiet ta’ pensjoni, gratifikazzjoni, jew benefiċċju taħt l-Ordinanza dwar il-Pensjonijiet u l-Att dwar il-Pensjonijiet lil Nisa Romol u Tfal Iltiema u ta’ kull dritt jew privileġġ ieħor li huwa jkollu jedd għalih, u responsabbli għal kull responsabbiltà li dwarha huwa jkun responsabbli, ħlief għall-fatt li huwa jkun ġie assenjat biex iwettaq dmiru mal-Awtorità.
@@ -440,11 +382,7 @@ REĠJONALI TA’ GĦAWDEX [KAP. 600.
 
 *    Kap. 58.*
 
-(4) Kull uffiċjal bħal dak hawn aktar qabel imsemmi li, minnufih qabel ma jaċċetta impjieg permanenti mal-Awtorità, kellu jedd jikseb benefiċċju taħt l-Att dwar il-Pensjonijiet lil Nisa Romol u Tfal Iltiema, għandu jibqa’ jkollu dak il-jedd li jibbenefika taħtu għal [KAP. 600 REĠJONALI TA’ GĦAWDEX
-
-kull skop bħallikieku s-servizz tiegħu mal-Awtorità kien servizz mal- Gvern.
-
-*16*
+(4) Kull uffiċjal bħal dak hawn aktar qabel imsemmi li, minnufih qabel ma jaċċetta impjieg permanenti mal-Awtorità, kellu jedd jikseb benefiċċju taħt l-Att dwar il-Pensjonijiet lil Nisa Romol u Tfal Iltiema, għandu jibqa’ jkollu dak il-jedd li jibbenefika taħtu għal kull skop bħallikieku s-servizz tiegħu mal-Awtorità kien servizz mal- Gvern.
 
 (5) L-Awtorità għandha tħallas lill-Gvern dawk il-kontribuzzjonijiet li jistgħu minn żmien għal żmien jiġu stabbiliti mill-Ministru responsabbli għall-finanzi għar-rigward tal-ispiża ta’ pensjonijiet u gratifikazzjonijiet li jinqalgħu minn uffiċjal li jkun aċċetta li jwettaq impjieg mal-Awtorità kif hawn aktar qabel imsemmi matul il-perjodu li jibda fid-data meta dak l-uffiċjal hekk jaċċetta.
 
@@ -466,11 +404,7 @@ kull skop bħallikieku s-servizz tiegħu mal-Awtorità kien servizz mal- Gvern.
 
 (1) Mingħajr preġudizzju għad-dispożizzjonijiet li ġejjin ta’ dan l-artikolu, l-Awtorità għandha tmexxi l-affarijiet tagħha hekk li l-ispiża meħtieġa għat-twettiq sew tal-funzjonijiet tagħha għandha, daqskemm dan ikun prattiku, tinħareġ mid-dħul tagħha.
 
-(2) Għal dak l-għan l-Awtorità għandha tiġbor kull dritt, rata REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
-u ħlas ieħor preskritti jew meqjusa bħala preskritti b’dan l-Att jew taħtu jew kull liġi oħra li jkollha x’taqsam mas-setgħat u l-funzjonijiet tal-Awtorità.
-
-*17*
+(2) Għal dak l-għan l-Awtorità għandha tiġbor kull dritt, rata u ħlas ieħor preskritti jew meqjusa bħala preskritti b’dan l-Att jew taħtu jew kull liġi oħra li jkollha x’taqsam mas-setgħat u l-funzjonijiet tal-Awtorità.
 
 (3) L-Awtorità għandha wkoll titħallas mill-Gvern mill- Fond Konsolidat dawk l-ammonti li l-Parlament jista’ minn żmien għal żmien jawtorizza li jiġu approprjati sabiex minnhom isiru l-ispejjeż ta’ xogħlijiet speċifikati biex dawn jitkomplew jew xort’oħra jsiru mill-Awtorità:
 
@@ -490,11 +424,7 @@ Iżda għal kull ammont li jkun jeċċedi mija u għoxrin elf euro (€120,000),
 
 ### 20. Avvanzi mill- Gvern.
 
-Il-Ministru responsabbli għall-finanzi jista, wara konsultazzjoni mal-Ministru, jagħmel avvanzi lill-Awtorità ta’ dawk l-ammonti li huwa jista’ jaqbel li jkunu meħtieġa mill-Awtorità biex [KAP. 600 REĠJONALI TA’ GĦAWDEX
-
-din twettaq kull funzjoni tagħha taħt dan l-Att, u jista’ jagħmel dawk l-avvanzi b’dawk il-pattijiet u l-kondizzjonijiet li huwa jista’, wara dik il-konsultazzjoni hawn aktar qabel imsemmija, iqis li jkunu xierqa. Avvanz bħal dak jista’ jsir mill-Ministru responsabbli għall-finanzi mill-Fond Konsolidat, u mingħajr ebda approprjazzjoni oħra minbarra dan l-Att, b’kitba minnu magħmula li tkun tawtorizza lill- Accountant General li jagħmel dak l-avvanz.
-
-*18*
+Il-Ministru responsabbli għall-finanzi jista, wara konsultazzjoni mal-Ministru, jagħmel avvanzi lill-Awtorità ta’ dawk l-ammonti li huwa jista’ jaqbel li jkunu meħtieġa mill-Awtorità biex din twettaq kull funzjoni tagħha taħt dan l-Att, u jista’ jagħmel dawk l-avvanzi b’dawk il-pattijiet u l-kondizzjonijiet li huwa jista’, wara dik il-konsultazzjoni hawn aktar qabel imsemmija, iqis li jkunu xierqa. Avvanz bħal dak jista’ jsir mill-Ministru responsabbli għall-finanzi mill-Fond Konsolidat, u mingħajr ebda approprjazzjoni oħra minbarra dan l-Att, b’kitba minnu magħmula li tkun tawtorizza lill- Accountant General li jagħmel dak l-avvanz.
 
 ### 21. Self mingħand il- Gvern.
 
@@ -514,11 +444,7 @@ din twettaq kull funzjoni tagħha taħt dan l-Att, u jista’ jagħmel dawk l-av
 
 Iżda l-estimi għall-ewwel sena finanzjarja tal-Awtorità għandhom jiġu mħejjija u adottati f’dak iż-żmien li l-Ministru jista’ jispeċifika b’avviż bil-miktub lill-Awtorità.
 
-(2) Fit-tħejjija ta’ dawk l-estimi l-Awtorità għandha tqis kull fond u flus oħra li jistgħu jkunu dovuti li jitħallsu lilha mill-Fond REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
-Konsolidat matul is-sena finanzjarja rilevanti, sew bis-saħħa ta’ dan l-Att jew ta’ Att ta’ approprjazzjoni jew ta’ kull liġi oħra; u l- Awtorità għandha hekk tħejji l-estimi msemmija b’mod li tiżgura li d-dħul totali tal-Awtorità huwa mill-inqas suffiċjenti biex minnu jitħallas kull ammont li sewwasew għandu jintefaq mill-kont tad-dħul tagħha inkluż, iżda mingħajr preġudizzju għall-ġeneralità ta’ dik il-frażi, id-deprezzament.
-
-*19*
+(2) Fit-tħejjija ta’ dawk l-estimi l-Awtorità għandha tqis kull fond u flus oħra li jistgħu jkunu dovuti li jitħallsu lilha mill-Fond Konsolidat matul is-sena finanzjarja rilevanti, sew bis-saħħa ta’ dan l-Att jew ta’ Att ta’ approprjazzjoni jew ta’ kull liġi oħra; u l- Awtorità għandha hekk tħejji l-estimi msemmija b’mod li tiżgura li d-dħul totali tal-Awtorità huwa mill-inqas suffiċjenti biex minnu jitħallas kull ammont li sewwasew għandu jintefaq mill-kont tad-dħul tagħha inkluż, iżda mingħajr preġudizzju għall-ġeneralità ta’ dik il-frażi, id-deprezzament.
 
 (3) L-estimi għandhom isiru f’dik l-għamla u għandu jkun fihom dik l-informazzjoni u dak it-tqabbil ma’ snin ta’ qabel hekk kif il-Ministru responsabbli għall-finanzi jista’ jordna.
 
@@ -538,11 +464,7 @@ Konsolidat matul is-sena finanzjarja rilevanti, sew bis-saħħa ta’ dan l-Att 
 
 (ċ) għar-rigward tal-ewwel sena finanzjarja, l- Awtorità tista’ tagħmel jew iġġarrab nefqa li ma tkunx globalment teċċedi dawk l-ammonti li l-Ministru responsabbli għall-finanzi jista, wara konsultazzjoni mal-Ministru, jippermetti;
 
-(d) jekk għar-rigward ta’ xi sena finanzjarja jinstab li l-ammont approvat mill-Ministru ma jkunx suffiċjenti jew inkella tkun inqalgħet ħtieġa għal nefqa għal għan li ma jkunx [KAP. 600 REĠJONALI TA’ GĦAWDEX
-
-hemm provdut dwaru fl-estimi, l-Awtorità tista’ tadotta estimi supplimentari għall-approvazzjoni tal-Ministru u f’kull każ bħal dak id-dispożizzjonijiet ta’ dan l-Att applikabbli għall-estimi għandhom kemm jistgħu jkunu japplikaw għall-estimi supplimentari.
-
-*20*
+(d) jekk għar-rigward ta’ xi sena finanzjarja jinstab li l-ammont approvat mill-Ministru ma jkunx suffiċjenti jew inkella tkun inqalgħet ħtieġa għal nefqa għal għan li ma jkunx hemm provdut dwaru fl-estimi, l-Awtorità tista’ tadotta estimi supplimentari għall-approvazzjoni tal-Ministru u f’kull każ bħal dak id-dispożizzjonijiet ta’ dan l-Att applikabbli għall-estimi għandhom kemm jistgħu jkunu japplikaw għall-estimi supplimentari.
 
 ### 24. Pubblikazzjoni tal-estimi approvati.
 
@@ -562,11 +484,7 @@ Iżda l-Ministru responsabbli għall-finanzi jista’, wara konsultazzjoni mal-M
 
 ### 26. Depożitu tad-dħul u ħlasijiet li jsiru mill-Awtorità.
 
-(1) Il-flus kollha li jinġabru mill-Awtorità għandhom jitqiegħdu f’bank jew banek li jinħatru bħala bankiera tal- Awtorità b’riżoluzzjoni tal-Awtorità. Dawk il-flus għandhom, skont kemm ikun prattiku, jitqiegħdu f’dawk il-banek minn jum għall-ieħor, ħlief għal dak l-ammont li l-Awtorità tista’ tawtorizza li għandu jinżamm sabiex isiru nefqiet żgħar minnu u ħlasijiet ta’ flus likwidi REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
-ta’ minnufih.
-
-*21*
+(1) Il-flus kollha li jinġabru mill-Awtorità għandhom jitqiegħdu f’bank jew banek li jinħatru bħala bankiera tal- Awtorità b’riżoluzzjoni tal-Awtorità. Dawk il-flus għandhom, skont kemm ikun prattiku, jitqiegħdu f’dawk il-banek minn jum għall-ieħor, ħlief għal dak l-ammont li l-Awtorità tista’ tawtorizza li għandu jinżamm sabiex isiru nefqiet żgħar minnu u ħlasijiet ta’ flus likwidi ta’ minnufih.
 
 (2) Kull ħlas mill-fondi tal-Awtorità, minbarra nefqiet żgħar li ma jkunux jeċċedu ammont stabbilit mill-Awtorità, għandhom isiru minn dak l-uffiċjal jew dawk l-uffiċjali tal-Awtorità li l-Awtorità taħtar jew tinnomina għal dak l-għan.
 
@@ -592,11 +510,7 @@ u b’mod ġenerali fir-rigward ta’ kull ħaġa li hi rilevanti għat-tiżmim 
 
 ### 28. Rapport annwali.
 
-L-Awtorità għandha, mhux aktar tard minn sitt ġimgħat [KAP. 600 REĠJONALI TA’ GĦAWDEX
-
-wara tmiem kull sena finanzjarja, tagħmel u tibgħat lill-Ministru u lill-Ministru responsabbli għall-finanzi rapport li jkun ġeneralment jittratta dwar l-attivitajiet tal-Awtorità matul dik is-sena finanzjarja u li jkun fih dik l-informazzjoni relattiva għall-proċedimenti u l-politika tal-Awtorità b’dak il-mod li xi wieħed mill-Ministri msemmija jista’ minn żmien għal żmien ikun jeħtieġ. Il-Ministru għandu, mal-ewwel opportunità u mhux aktar tard minn tmien ġimgħat wara li jkun irċieva kopja ta’ kull rapport bħal dak, jew jekk f’xi żmien waqt dak il-perjodu l-Kamra tad-Deputati ma tkunx qed tiltaqa’, fi żmien tmien ġimgħat mill-bidu tas-sessjoni li minnufih imiss wara, jara li kopja ta’ kull rapport bħal dak titqiegħed fuq il- Mejda tal-Kamra tad-Deputati u ssir seduta parlamentari biex jiġi diskuss ir-rapport.
-
-*22*
+L-Awtorità għandha, mhux aktar tard minn sitt ġimgħat wara tmiem kull sena finanzjarja, tagħmel u tibgħat lill-Ministru u lill-Ministru responsabbli għall-finanzi rapport li jkun ġeneralment jittratta dwar l-attivitajiet tal-Awtorità matul dik is-sena finanzjarja u li jkun fih dik l-informazzjoni relattiva għall-proċedimenti u l-politika tal-Awtorità b’dak il-mod li xi wieħed mill-Ministri msemmija jista’ minn żmien għal żmien ikun jeħtieġ. Il-Ministru għandu, mal-ewwel opportunità u mhux aktar tard minn tmien ġimgħat wara li jkun irċieva kopja ta’ kull rapport bħal dak, jew jekk f’xi żmien waqt dak il-perjodu l-Kamra tad-Deputati ma tkunx qed tiltaqa’, fi żmien tmien ġimgħat mill-bidu tas-sessjoni li minnufih imiss wara, jara li kopja ta’ kull rapport bħal dak titqiegħed fuq il- Mejda tal-Kamra tad-Deputati u ssir seduta parlamentari biex jiġi diskuss ir-rapport.
 
 ## TAQSIMA V\* — Trasferiment ta’ Ċertu Attiv lill-Awtorità
 
@@ -606,13 +520,9 @@ wara tmiem kull sena finanzjarja, tagħmel u tibgħat lill-Ministru u lill-Minis
 
 (b) L-attiv immobbli li minn żmien għal żmien ikun speċifikat f’Ordni magħmul mill-President ta’ Malta u ppubblikat fil- Gazzetta (hawnhekk iżjed ’il quddiem imsejjaħ ''l-attiv immobbli'') li jkun attiv immobbli li minnufih qabel id-data tal-bidu fis-seħħ ta’ din it-Taqsima ta’ dan l-Att kien proprjetà tal-Gvern u li huwa kien juża għat-tħaddim ta’ xi waħda mill-funzjonijiet li b’dan l-Att qegħdin jiġu trasferiti lil jew vestiti fl-Awtorità għandu, b’seħħ minn dik id-data li tista’ tiġi speċifikata f’xi Ordni bħal dak, u bis-saħħa ta’ dan l- Att u mingħajr ebda sigurtà oħra jiġi trasferit lil u vestit fl-Awtorità taħt l-istess titolu li bih huwa kien miżmum mill-Gvern qabel id-data msemmija.
 
-(2) It-trasferiment u l-vestiment hawn aktar qabel imsemmija għandhom jestendu għal dik il-proprjetà u dawk l-intrapriżi kollha u, mingħajr preġudizzju għall-ġeneralità hawn aktar qabel imsemmija, għandhom jinkludu kull impjant, tagħmir, apparat, strumenti, vetturi, inġenji, bini, strutturi, stallazzjonijiet, art, toroq, xogħlijiet, ħażniet u proprjetà oħra, sew mobbli sew immobbli, attiv, setgħat, jeddijiet u privileġġi u kull ħaġa meħtieġa jew anċillari għalihom jew li lilhom tappartjeni, kif ukoll kull obbligu li jolqot jew REĠJONALI TA’ GĦAWDEX [KAP. 600.
+(2) It-trasferiment u l-vestiment hawn aktar qabel imsemmija għandhom jestendu għal dik il-proprjetà u dawk l-intrapriżi kollha u, mingħajr preġudizzju għall-ġeneralità hawn aktar qabel imsemmija, għandhom jinkludu kull impjant, tagħmir, apparat, strumenti, vetturi, inġenji, bini, strutturi, stallazzjonijiet, art, toroq, xogħlijiet, ħażniet u proprjetà oħra, sew mobbli sew immobbli, attiv, setgħat, jeddijiet u privileġġi u kull ħaġa meħtieġa jew anċillari għalihom jew li lilhom tappartjeni, kif ukoll kull obbligu li jolqot jew ikollu x’jaqsam ma’ xi proprjetà jew impriża minn dawk hawn aktar qabel imsemmija jew ħaġ’oħra hemm inkluża kif imsemmi hawn aktar qabel.
 
 \*Għadha mhux fis-seħħ.
-
-ikollu x’jaqsam ma’ xi proprjetà jew impriża minn dawk hawn aktar qabel imsemmija jew ħaġ’oħra hemm inkluża kif imsemmi hawn aktar qabel.
-
-*23*
 
 ### 30. Kif jinftiehmu l-liġijiet, eċċ.
 
@@ -625,10 +535,6 @@ Bla ħsara għad-dispożizzjonijiet ta’ dan l-Att, kull liġi, regola, regolam
 (2) Meta minnufih qabel id-dħul fis-seħħ ta’ din it-Taqsima ta’ dan l-Att ikun hemm pendenti xi proċedimenti legali li fihom il- Gvern ikun, jew ikollu jedd ikun, parti, u dawk il-proċedimenti jkunu relatati ma’ xi proprjetà jew intrapriża, jew xi dritt jew obbligu trasferiti b’dan l-Att jew taħtu, l-Awtorità għandha, mid-data hawn aktar qabel imsemmija, tidħol f’dawk il-proċedimenti minflok il- Gvern, jew issir parti fihom bl-istess mod li kieku kien il-Gvern isir parti, u dawk il-proċedimenti ma għandhomx jiġu affettwati minħabba f’sostituzzjoni bħal dik.
 
 (3) Il-Ministru jista’ b’ordni jagħmel dawk il-provvedimenti inċidentali, konsegwenzjali u supplementari kif jista’ jqis li jkunu xierqa jew spedjenti bil-għan li jiġi stabbilit, kif ikun sew, x’ikun l-attiv trasferit lill-Awtorità b’dan l-Att u jiżgura u jagħti effett sħiħ lit-trasferiment ta’ kull proprjetà jew intrapriża jew kull dritt jew obbligu lill-Awtorità b’dan l-Att u jagħmel dawk l-ordnijiet li jistgħu jkunu meħtieġa biex jagħmel kull setgħa u dmir eżerċitabbli mill- Gvern għar-rigward ta’ xi proprjetà jew intrapriża trasferita eżerċitabbli mill-Awtorità jew f’isimha.
-
-*24*
-
-[KAP. 600 REĠJONALI TA’ GĦAWDEX
 
 ## TAQSIMA VI\* — Infurzar
 
@@ -657,10 +563,6 @@ Meta jsir ksur amministrattiv ta’ xi dispożizzjoni ta’ dan l-Att jew ta’ 
 Il-prosekuzzjoni ta’ reat kriminali jew il-bidu ta’ proċedimenti li jimponu penali amministrattiva taħt dan l-Att tkun
 
 \*Għadha mhux fis-seħħ.
-
-*25*
-
-REĠJONALI TA’ GĦAWDEX [KAP. 600.
 
 preskritta meta jiskadu sentejn minn meta jiġi allegat li jkun sar ir-reat jew il-ksur amministrattiv.
 
@@ -692,10 +594,6 @@ Iżda f’kull każ, persuna li tagħmel appell quddiem it- Tribunal għandha wk
 
 \*Għadha mhux fis-seħħ.
 
-*26*
-
-[KAP. 600 REĠJONALI TA’ GĦAWDEX
-
 ### 39. Proċedura tat- Tribunal.
 
 (1) It-Tribunal għandu jagħmel mill-aħjar biex jiddeċiedi appell fi żmien mija u għoxrin ġurnata minn meta jiskadi l-perjodu sa meta l-Awtorità tista’ tippreżenta r-risposta tagħha għal dak l-appell u f’kull każ għandu jagħti d-deċiżjoni finali tiegħu sa mhux aktar tard minn sittin jum minn meta l-partijiet jiddikjaraw li jkunu kkonkludew il-provi tagħhom u għamlu s-sottomissjonijiet finali tagħhom.
@@ -719,10 +617,6 @@ Iżda f’kull każ, persuna li tagħmel appell quddiem it- Tribunal għandha wk
 (ċ) l-effett fuq il-kompetituri jekk ir-rikors jintlaqa’:
 
 Iżda wkoll meta parti tkun qiegħda tagħmel rikors taħt dan l-artikolu din għandha tiddikjara x’ikunu r-raġunijiet fattwali u legali, li jkunu jistabbilixxu każ prima facie għas-sospensjoni tad-deċiżjoni:
-
-*27*
-
-REĠJONALI TA’ GĦAWDEX [KAP. 600.
 
 Iżda meta t-Tribunal ikun qiegħed jiddeċiedi dwar xi rikors bħal dak, dan jista’ jinkludi dawk il-kondizzjonijiet li jqis li jkunu meħtieġa fiċ-ċirkostanzi.
 
@@ -758,10 +652,6 @@ Meta xi avviż, ikun kif ikun deskritt, ikun meħtieġ li jingħata mill-Awtorit
 
 \*Għadha mhux fis-seħħ.
 
-*28*
-
-[KAP. 600 REĠJONALI TA’ GĦAWDEX
-
 negozju tagħha;
 
 (d) jekk ikun ġie provdut indirizz għan-notifika ta’ avviżi mill-persuna, billi dan jitħalla, jew jintbagħat bil-posta reġistrata indirizzat lill-persuna f’dak l-indirizz;
@@ -779,10 +669,6 @@ Iżda d-dispożizzjonijiet ta’ dan il-paragrafu ma għandhomx japplikaw għan-
 (3) Ir-rikors ippreżentat skont ma hemm fis-subartikolu (2) għandu jiġi notifikat lill-Awtorità, li jkollha jedd tippreżenta risposta fi żmien għoxrin ġurnata. Il-qorti mbagħad tiffissa r-rikors għas-smigħ f’data li tiġi wara li jiskadi dak il-perjodu.
 
 (4) Kull dejn dovut lill-Awtorità skont dan l-artikolu jaqa’ bi preskrizzjoni meta jiskadi l-perjodu ta’ ħames snin mid-data meta d-dejn kien dovut.
-
-*29*
-
-REĠJONALI TA’ GĦAWDEX [KAP. 600.
 
 ### 47. Isem l-Awtorità m’għandu jintuża f’ebda riklam.
 
@@ -814,11 +700,7 @@ Il-parametri ta’ responsabbiltajiet, relazzjonijiet u kontabilità bejn l-Awto
 
 ### 03.
 
-Il-pjanifikazzjoni, ir-rappurtaġġ u l-qafas ta’ kontroll stabbiliti bejn l-Awtorità għall-Iżvilupp Reġjonali ta’ Għawdex bħala ‘ix-xerrej’ tas-servizz għall- REĠJONALI TA’ GĦAWDEX
-
-implimentazzjoni u d-dipartiment tal-Gvern u, jew entità fi ħdan il-Ministeru għal Għawdex bħala ‘il-fornitur’ tas-servizz għall-implimentazzjoni.
-
-*[KAP. 600 30*
+Il-pjanifikazzjoni, ir-rappurtaġġ u l-qafas ta’ kontroll stabbiliti bejn l-Awtorità għall-Iżvilupp Reġjonali ta’ Għawdex bħala ‘ix-xerrej’ tas-servizz għall-implimentazzjoni u d-dipartiment tal-Gvern u, jew entità fi ħdan il-Ministeru għal Għawdex bħala ‘il-fornitur’ tas-servizz għall-implimentazzjoni.
 
 *\04.*
 
@@ -852,11 +734,7 @@ Implimentazzjoni tal-Valutazzjoni tal-Impatt Reġjonali:
 
 (a) Is-Segretarju Permanenti jew il-President Eżekuttiv jew il-President:
 
-(i) Meta Ministeru, dipartiment, awtorità, aġenzija jew xi forma oħra ta’ entità governattiva huma mistennija li jibdew xi waħda mill-inizjattivi msemmija fl-artikolu 8(1)(f) ta’ dan l-Att, is- Segretarju Permanenti jew il-President Eżekuttiv jew REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
-il-President responsabbli għal dak id-dipartiment tal- Gvern jew entità għandu jiżgura li tali ħidma jkollha RIAS integrata magħha.
-
-*31*
+(i) Meta Ministeru, dipartiment, awtorità, aġenzija jew xi forma oħra ta’ entità governattiva huma mistennija li jibdew xi waħda mill-inizjattivi msemmija fl-artikolu 8(1)(f) ta’ dan l-Att, is- Segretarju Permanenti jew il-President Eżekuttiv jew il-President responsabbli għal dak id-dipartiment tal- Gvern jew entità għandu jiżgura li tali ħidma jkollha RIAS integrata magħha.
 
 (ii) L-Uffiċċju tas-Segretarju Permanenti jew tal-President Eżekuttiv jew tal-President ta’ dak id-dipartiment tal-Gvern jew entità għandu jinforma lill- President tal-Awtorità għall-Iżvilupp Reġjonali ta’ Għawdex li għandu jitwettaq RIAS.
 
@@ -875,10 +753,6 @@ Valutazzjoni X’ifisser l-impatt fuq Għawdex.
 Aġġustament Kif il-proposta hi aġġustata sabiex jiġi żgurat li l-ħtiġiet ta’ Għawdex jiġu indirizzati kemm jista’ jkun.
 
 (ii) Ir-RIAS għandu jivvaluta kemm l-impatt pożittiv kif ukoll dak negattiv fuq Għawdex li jinħolqu mill-proposta taħt konsiderazzjoni. Il-valutazzjoni hi msejsa fuq tliet fatturi primarji:
-
-*[KAP. 600 32*
-
-REĠJONALI TA’ GĦAWDEX
 
 Tabella 02: Fatturi u Konsiderazzjonijiet li għandhom jiġu valutati meta jitħejja Studju dwar l- Impatt Reġjonali:
 
@@ -944,11 +818,7 @@ L-attributi ppreżentati fil-lista ta’ hawn qabel huma bħala eżempju u mhumi
 
 Għan primarju tar-RIAS hu sabiex jagħti l-opportunità lil operaturi ekonomiċi u msieħba soċjali f’Għawdex li jiġu kkonsultati dwar bidliet li jinħolqu bħala riżultat ta’ proposta taħt konsiderazzjoni.
 
-Tali proċess ta’ konsultazzjoni għandu jiġi ġestit f’isem l-entità governattiva responsabbli mill-Awtorità għall- Iżvilupp Reġjonali ta’ Għawdex u għandu jsir REĠJONALI TA’ GĦAWDEX [KAP. 600.
-
-f’Għawdex. Din il-konsultazzjoni għandha titwettaq bħala parti mill-proċess li jwassal għall-artikolazzjoni konċettwali tal-proposta taħt konsiderazzjoni u mhux wara l-artikolazzjoni u l-pubblikazzjoni tagħha.
-
-*33*
+Tali proċess ta’ konsultazzjoni għandu jiġi ġestit f’isem l-entità governattiva responsabbli mill-Awtorità għall- Iżvilupp Reġjonali ta’ Għawdex u għandu jsir f’Għawdex. Din il-konsultazzjoni għandha titwettaq bħala parti mill-proċess li jwassal għall-artikolazzjoni konċettwali tal-proposta taħt konsiderazzjoni u mhux wara l-artikolazzjoni u l-pubblikazzjoni tagħha.
 
 *\04.*
 
@@ -983,10 +853,6 @@ Tnaqqis jew kambjament tal-impatt.
 *\07.*
 
 Ir-RIAS għandu jiġi ffirmat kemm mill-Awtorità għall- Iżvilupp Reġjonali ta’ Għawdex kif ukoll mill-Ministeru responsabbli.
-
-*34*
-
-[KAP. 600 REĠJONALI TA’ GĦAWDEX
 
 ### 08.
 

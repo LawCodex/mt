@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Parteċipazzjoni u l-Għoti ta’ Appoġġ għall-Istabbiltà (Cap. 523)
 
-*1*
-
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523.
-
 **KAPITOLU 523**
 
 **ATT DWAR IL-PARTEĊIPAZZJONI U L-GĦOTI**
@@ -73,13 +69,9 @@ milli jiġi adottat l-euro skont l-Artikolu 140(2) tat-Trattat dwar il- Funzjona
 
 ## 4. Ratifika tat-Trattat.
 
-Il-Gvern ta’ Malta hu b’dan awtorizzat li jirratifika t- Trattat waqt li jiddepożita ittra datata 3 ta’ Lulju 2012 maħruġa mill-Kummissjoni tal-Unjoni Ewropea annessa bħala Skeda 4 li fiha jistqarr l-intendiment tiegħu li fejn it-Trattat jirreferi għall-istabbiltà finanzjarja taż-Żona tal-Ewro komplessivament u tal- FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523.
+Il-Gvern ta’ Malta hu b’dan awtorizzat li jirratifika t- Trattat waqt li jiddepożita ittra datata 3 ta’ Lulju 2012 maħruġa mill-Kummissjoni tal-Unjoni Ewropea annessa bħala Skeda 4 li fiha jistqarr l-intendiment tiegħu li fejn it-Trattat jirreferi għall-istabbiltà finanzjarja taż-Żona tal-Ewro komplessivament u tal- Istati Membri tagħha, dan għandu jiġi interpretat li jfisser kemm iż- Żona tal-Ewro kollha kemm hi jew wieħed mill-Istati Membri, meħud għalih waħdu, hu x’inhu d-daqs tiegħu.
 
 \* Art. 12: Prinċipji
-
-Istati Membri tagħha, dan għandu jiġi interpretat li jfisser kemm iż- Żona tal-Ewro kollha kemm hi jew wieħed mill-Istati Membri, meħud għalih waħdu, hu x’inhu d-daqs tiegħu.
-
-*3*
 
 ## 5. Għoti ta’ għajnuna għal stabbilità finanzjarja lil hinn mill-Artikolu 3.
 
@@ -125,9 +117,7 @@ L-Istati Membri li l-munita tagħhom mhijiex l-euro ser jiġu involuti f’din i
 
 ## 5.
 
-Il-Kunsill Ewropew għamel appell għall-aċċelerazzjoni tal-ħidma fuq is-sitt proposti leġislattivi dwar il-governanza ekonomika, filwaqt li tibni fuq ir-rakkomandazzjonijiet tat-Task Force li ġew approvati f’Ottubru li għadda u jinżamm livell għoli ta’ ambizzjoni, sabiex ikunu jistgħu jiġu adottati sa Ġunju 2011. Huwa laqa’ r-rapport tal-Kunsill dwar it-trattament tar-riforma sistemika tal-pensjonijiet FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 5
-
-taħt il-Patt ta’ Stabbiltà u Tkabbir u għamel appell biex ir-rapport ikun rifless fl-ispeċifikazzjonijiet dwar l-implimentazzjoni tal-PST riformat.
+Il-Kunsill Ewropew għamel appell għall-aċċelerazzjoni tal-ħidma fuq is-sitt proposti leġislattivi dwar il-governanza ekonomika, filwaqt li tibni fuq ir-rakkomandazzjonijiet tat-Task Force li ġew approvati f’Ottubru li għadda u jinżamm livell għoli ta’ ambizzjoni, sabiex ikunu jistgħu jiġu adottati sa Ġunju 2011. Huwa laqa’ r-rapport tal-Kunsill dwar it-trattament tar-riforma sistemika tal-pensjonijiet taħt il-Patt ta’ Stabbiltà u Tkabbir u għamel appell biex ir-rapport ikun rifless fl-ispeċifikazzjonijiet dwar l-implimentazzjoni tal-PST riformat.
 
 ## 6.
 
@@ -189,8 +179,6 @@ Wara li kkunsidra l-proposta għar-reviżjoni tal-Artikolu 136 tat-Trattat dwar 
 
 3 Opinjoni ta’ … (għadha mhux ippubblikata f’Il-Ġurnal Uffiċjali).
 
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 7
-
 Billi:
 
 (1) L-Artikolu 48(6) tat-Trattat dwar l-Unjoni Ewropea (TUE) jippermetti lill- Kunsill Ewropew, li jaġixxi b'mod unanimu wara konsultazzjoni mal-Parlament Ewropew, il-Kummissjoni, u f’ċerti każijiet, mal-Bank Ċentrali Ewropew, li jadotta deċiżjoni li temenda b’mod sħiħ jew parzjali d-dispożizzjonijiet tat-Tielet Parti tat- Trattat dwar il-Funzjonament tal-Unjoni Ewropea (TFUE). Deċiżjoni bħal din ma tistax iżżid il-kompetenzi mogħtija lill-Unjoni fit-Trattati u d-dħul fis-seħħ tagħha jiddependi mill-approvazzjoni sussegwenti tal-Istati Membri f’konformità mar-rekwiżiti kostituzzjonali rispettivi tagħhom.
@@ -225,9 +213,7 @@ Din id-Deċiżjoni għandha tkun ippubblikata f’Il-Ġurnal Uffiċjali tal-Unjo
 
 Magħmul fi,
 
-Għall-Kunsill Ewropew Il-President FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 9
-
-ANNESS II KARATTERISTIĊI ĠENERALI TAL-MEKKANIŻMU FUTUR
+Għall-Kunsill Ewropew Il-President ANNESS II KARATTERISTIĊI ĠENERALI TAL-MEKKANIŻMU FUTUR
 
 **DIKJARAZZJONI MILL-GRUPP TAL-EURO**
 
@@ -265,8 +251,6 @@ Aħna niddikjaraw mill-ġdid li kwalunkwe involviment mis-settur privat ibbażat
 
 Il-President tal-Kunsill Ewropew Herman Van Rompuy indika li l-proposta tiegħu dwar bidla limitata għat-trattat li ser jippreżenta lill-Kunsill Ewropew fil-laqgħa li jmiss tiegħu, ser tirrifletti d-deċiżjoni tal-lum."
 
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 11
-
 ANNESS III DIKJARAZZJONI MILL-KAPIJIET TA’ STAT JEW TA’ GVERN
 
 **TAŻ-ŻONA TAL-EURO U L-ISTITUZZJONIJIET TAL-UE**
@@ -297,11 +281,9 @@ I. POLITIKA EKONOMIKA
 
 \2. Fil-qafas il-ġdid tas-semestru Ewropew, il-Kunsill Ewropew approva l-prijoritajiet għal konsolidament fiskali u riforma strutturali.\* Huwa enfasizza l-ħtieġa li tingħata prijorità lir-risanament baġitarju u s-sostenibbiltà fiskali, it-tnaqqis tal-qgħad permezz ta’ riformi fis-suq tax-xogħol u li jsiru sforzi ġodda biex jissaħħaħ it-tkabbir. L-Istati Membri kollha ser jibdlu dawn il-prijoritajiet f’miżuri konkreti li għandhom jiġu inklużi fil-Programmi ta’ Stabbiltà jew Konverġenza u fil- Programmi Nazzjonali ta’ Riforma tagħhom. Fuq din il-bażi, il-Kummissjoni ser tippreżenta l-proposti tagħha għal opinjonijiet u rakkomandazzjonijiet speċifiċi għall-pajjiż f’ħin debitu għall-adozzjoni tagħhom qabel il-Kunsill Ewropew ta’ Ġunju.
 
-\3. B’mod partikolari, l-Istati Membri ser jippreżentaw pjani ta’ konsolidament pluriennali li jinkludi miri speċifiei dwar id-defiċit, id-dħul u l-infiq, l-istrateġija maħsuba biex jintlaħqu dawn il-miri u skeda ta’ żmien għall-implimentazzjoni tiegħu. Il-linji politiċi fiskali għall-2012 għandhom jimmiraw sabiex tingħata mill-ġdid il-fiduċja billi x-xejriet tad-dejn jinġiebu lura għal fuq triq sostenibbli u billi jiġi żgurat li d-defiċits jerġgħu jitniżżlu għal inqas minn 3% tal-PDG fl-iskeda ta’ żmien miftiehma mill-Kunsill. Fil-biċċa l-kbira tal-każijiet dan jeħtieġ aġġustament strutturali annwali ta’ ferm aktar minn 0,5% tal-PDG. Fl-Istati Membri li qed jiffaċċjaw defiċits strutturali kbar ħafna jew livelli ta’ dejn pubbliku għoljin ħafna FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 13
+\3. B’mod partikolari, l-Istati Membri ser jippreżentaw pjani ta’ konsolidament pluriennali li jinkludi miri speċifiei dwar id-defiċit, id-dħul u l-infiq, l-istrateġija maħsuba biex jintlaħqu dawn il-miri u skeda ta’ żmien għall-implimentazzjoni tiegħu. Il-linji politiċi fiskali għall-2012 għandhom jimmiraw sabiex tingħata mill-ġdid il-fiduċja billi x-xejriet tad-dejn jinġiebu lura għal fuq triq sostenibbli u billi jiġi żgurat li d-defiċits jerġgħu jitniżżlu għal inqas minn 3% tal-PDG fl-iskeda ta’ żmien miftiehma mill-Kunsill. Fil-biċċa l-kbira tal-każijiet dan jeħtieġ aġġustament strutturali annwali ta’ ferm aktar minn 0,5% tal-PDG. Fl-Istati Membri li qed jiffaċċjaw defiċits strutturali kbar ħafna jew livelli ta’ dejn pubbliku għoljin ħafna jew li qed jogħlew b’rata mgħaġġla, il-konsolidament għandu jingħata prijorità.
 
 \*F’konformità mal-konklużjonijiet tal-Kunsill tal-15 ta’ Frar u s-7 ta’ Marzu 2011 u b’segwitu għall- Istħarriġ Annwali dwar it-Tkabbir tal-Kummissjoni. Ara wkoll ir-rapport sintesi tal-Presidenza tas-16 ta’ Marzu 2011.
-
-jew li qed jogħlew b’rata mgħaġġla, il-konsolidament għandu jingħata prijorità.
 
 \4. L-isforzi għal konsolidament fiskali għandhom jitwettqu flimkien ma’ riformi strutturali li jsaħħu t-tkabbir. Għal dak il-għan, l-Istati Membri jenfasizzaw l-impenn tagħhom lejn l-Istrateġija Ewropa 2020. B’mod partikolari, huma ser jimplimentaw miżuri sabiex:
 
@@ -365,9 +347,7 @@ Filwaqt li fakkar fl-importanza li tiġi żgurata l-istabbiltà finanzjarja fiż
 
 ## 17.
 
-Il-Kunsill Ewropew jilqa’ d-deċiżjonijiet li ttieħdu fil-11 ta’ Marzu mill- FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 15
-
-Kapijiet ta’ Stat jew ta’ Gvern taż-żona tal-euro u japprova l-karatteristiċi tal- Mekkaniżmu Ewropew ta’ Stabbiltà (MES) (ara l-Anness II). It-tħejjija tat-trattat dwar l-MES u l-emendi għall-ftehim dwar il-Faċilità Ewropea ta’ Stabbiltà Finanzjarja (EFSF), biex tiġi żgurata l-kapaċità ta’ self tagħha ta’ EUR 440 biljun, ser jiġu ffinalizzati sabiex l-iffirmar taż-żewġ ftehimiet ikun jista’ jsir fl-istess ħin qabel l-aħħar ta’ Ġunju 2011.
+Il-Kunsill Ewropew jilqa’ d-deċiżjonijiet li ttieħdu fil-11 ta’ Marzu mill- Kapijiet ta’ Stat jew ta’ Gvern taż-żona tal-euro u japprova l-karatteristiċi tal- Mekkaniżmu Ewropew ta’ Stabbiltà (MES) (ara l-Anness II). It-tħejjija tat-trattat dwar l-MES u l-emendi għall-ftehim dwar il-Faċilità Ewropea ta’ Stabbiltà Finanzjarja (EFSF), biex tiġi żgurata l-kapaċità ta’ self tagħha ta’ EUR 440 biljun, ser jiġu ffinalizzati sabiex l-iffirmar taż-żewġ ftehimiet ikun jista’ jsir fl-istess ħin qabel l-aħħar ta’ Ġunju 2011.
 
 II. IL-LIBJA / IL-VIĊINAT TAN-NOFSINHAR
 
@@ -419,8 +399,6 @@ Il-Kunsill Ewropew jilqa’ ż-żjara reċenti tal-Presidenza u l-Kummissjoni fl
 
 Il-Kunsill Ewropew jistenna b’interess ukoll il-preżentazzjoni mill- Kummissjoni ta’ Pjan għall-iżvilupp tal-kapaċitajiet għall-ġestjoni tal-flussi ta’ migrazzjoni u ta’ refuġjati qabel il-Kunsill Ewropew ta’ Ġunju. Għandu jintlaħaq qbil sa Ġunju 2011 dwar ir-Regolament li jsaħħaħ il-kapaċitajiet tal-Frontex. Sadanittant il-Kummissjoni ser tagħmel disponibbli riżorsi addizzjonali b’appoġġ għall-operazzjonijiet Hermes u Poseidon tal-2011 tal-aġenzija u l-Istati Membri huma mistiedna jipprovdu aktar riżorsi umani u tekniċi. L-UE u l-Istati Membri tagħha jinsabu lesti li juru s-solidarjetà konkreta tagħhom lill-Istati Membri li huma kkonċernati l-aktar direttament mill-movimenti migratorji u jipprovdu l-appoġġ meħtieġ hekk kif is-sitwazzjoni tevolvi.
 
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 17
-
 III. IL-ĠAPPUN
 
 ## 27.
@@ -458,8 +436,6 @@ kwalunkwe titjib li jista’ jkun meħtieġ. L-Istati Membri għandhom jiżguraw
 *-*
 
 jeħtieġ li l-konsegwenzi għad-dinja u għall-UE jiġu segwiti mill-qrib, b’attenzjoni partikolari għall-volatilità tal-prezzijiet tal-enerġija u tal-prodotti bażiċi, b’mod partikolari fil-kuntest tal-G20.
-
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 19
 
 ANNESS I IL-PATT EURO PLUS
 
@@ -504,8 +480,6 @@ Il-progress ser jiġi vvalutat abbażi tal-iżviluppi fil-pagi u l-produttività
 Kull pajjiż ser ikun responsabbli għall-azzjonijiet ta’ politika speċifiċi li huwa jagħżel għall-promozzjoni tal-kompetittività iżda r-riformi li ġejjin ser jingħataw attenzjoni partikolari:
 
 (i) fir-rispett tat-tradizzjonijiet nazzjonali tad-djalogu soċjali u r-relazzjonijiet industrijali, miżuri biex jiġi żgurat li l-ispejjeż jiżviluppaw f’konformità mal-produttività, bħal:
-
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 21
 
 • reviżjoni tal-arranġamenti tal-iffissar tal-pagi, u, fejn meħtieġ, il-livell ta’ ċentralizzazzjoni fil-proċess tan-negozjar, u l-mekkaniżmi ta’ indiċjar, filwaqt li tinżamm l-awtonomija tal-imsieħba soċjali fil-proċess ta’ negozjar kollettiv;
 
@@ -565,9 +539,7 @@ It-tassazzjoni diretta tibqa’ kompetenza nazzjonali. Il-koordinazzjoni prammat
 
 L-iżvilupp ta’ taxxa komuni tal-kumpanniji jista’ jkun triq ’il quddiem mingħajr inċidenza fuq id-dħul biex tiġi żgurata konsistenza fost is-sistemi fiskali nazzjonali filwaqt li jiġu rrispettati strateġiji fiskali nazzjonali, u jingħata kontribut għas-sostenibbiltà fiskali u l-kompetittività tan-negozji Ewropej.
 
-Il-Kummissjoni ppreżentat proposta leġislattiva dwar bażi komuni konsolidata FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 23
-
-għat-taxxa tal-kumpanniji.
+Il-Kummissjoni ppreżentat proposta leġislattiva dwar bażi komuni konsolidata għat-taxxa tal-kumpanniji.
 
 Impenji annwali konkreti
 
@@ -596,8 +568,6 @@ Il-funzjoni tal-MES ser tkun il-mobilizzazzjoni ta’ finanzjament u l-għoti ta
 L-Istati Membri taż-żona tal-euro ser jagħtu lill-MES is-sanzjonijiet finanzjarji riċevuti taħt il-Patt ta’ Stabbiltà u Tkabbir u l-proċeduri tal-Iżbilanċi Makroeknomiċi. Tali sanzjonijiet ser jifformaw parti mill-kapital imħallas.
 
 \*Deċiżjoni meħuda bi qbil reċiproku hija deċiżjoni meħuda bl-unanimità tal-Istati Membri li jipparteċipaw fil-votazzjoni, jiġifieri astensjonijiet ma jostakolawx id-deċiżjoni milli tiġi adottata. #Matul it-transizzjoni mill-EFSF għall-MES, il-kombinazzjoni tal-kapaċità ta’ self mhix ser taqbeż dan l-ammont.
-
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 25
 
 Il-MES ser juża strateġija adatta ta’ finanzjament sabiex jiżgura l-aċċess għal sorsi ta’ finanzjament ġenerali u sabiex ikun jista’ jestendi l-pakketti ta’ assistenza finanzjarja lill-Istati Membri taħt il-kondizzjonijiet kollha tas-suq. Kwalunkwe riskju assoċjat ser jitrażżan permezz ta’ ġestjoni adegwata tal-attiv u l-passiv.
 
@@ -650,8 +620,6 @@ Il-MES jista’ jagħti sostenn għall-istabbiltà fil-perijodu qasir jew medju 
 Il-MES jista’ jixtri l-bonds ta’ Stat Membru, li jkun għaddej minn problemi severi ta’ finanzjament, fis-suq primarju, bit-tir li tkun massimizzata l-kost effiċjenza tas-sostenn. Il-kondizzjonijiet u l-modalitajiet li bihom jitmexxa x-xiri ta’ bonds ser jiġu speċifikati fid-Deċiżjoni dwar it-termini u l-kondizzjonijiet tal-assistenza finanzjarja.
 
 \*Il-vot tal-Istat Membru li minħabba l-inadempjenza tiegħu jsir it-telf li jrid jiġi kopert hu sospiż għal din id-deċiżjoni. #Bħala konsegwenza li jingħaqad maż-żona tal-euro, Stat Membru għandu jsir membru tal-MES bid-drittijiet u l-obbligi kollha.
-
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 27
 
 Il-Bord tal-Gvernaturi jista’ jirrevedi l-istrumenti għad-dispożizzjoni tal-MES u jista’ jiddeċiedi li jdaħħal bidliet fil-lista tal-istrumenti.
 
@@ -707,8 +675,6 @@ Ser tkun mistennija forma adegwata u proporzjonata ta’ parteċipazzjoni tas-se
 
 \*Konformement mal-FMI, id-dejn jitqies sostenibbli meta min jissellef ikun mistenni li jista’ jkompli jħallas id-djun tiegħu mingħajr korrezzjoni għad-dħul u l-infiq tiegħu li ma tkunx realistika. Din il-valutazzjoni tiddetermina d-disponibbiltà u l-iskala adatta tal-finanzjament.
 
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 29
-
 (a) Jekk, fuq il-bażi ta’ analiżi tas-sostenibbiltà, jiġi konkluż li programm ta’ aġġustament makroekonomiku jista’ b’mod realistiku jerġa’ jġib id-dejn pubbliku fi triq sostenibbli, l-Istat Membru benefiċjarju jieħu inizjattivi mmirati biex iħeġġu lill-investituri privati ewlenin jibqgħu jżommu l-espożizzjonijiet tagħhom għar-riskju (eż. approċċ tal-"Inizjattiva ta’ Vjenna"). Il-Kummissjoni, l- FMI, il-BĊE u l-ABE ser ikunu involuti mill-qrib fil-monitoraġġ tal-implimentazzjoni ta’ inizjattivi bħal dawn.
 
 (b) Jekk, fuq il-bażi ta’ analiżi tas-sostenibbiltà, jiġi konkluż li programm makroekonomiku ma jistax b’mod realistiku jerġa’ jġib id-dejn pubbliku fi triq sostenibbli, l-Istat Membru benefiċjarju jkun meħtieġ jidħol f’negozjati attivi in bona fede mal-kredituri tiegħu sabiex jikseb l-involviment dirett tagħhom biex id-dejn jerġa’ jsir sostenibbli. L-għoti ta’ assistenza finanzjarja ser ikun kontinġenti fuq il-fatt li l-Istat Membru jkollu pjan kredibbli u li juri impenn suffiċjenti li jiżgura involviment adegwat u proporzjonat tas-settur privat. Il-progress fl-implimentazzjoni tal-pjan ser ikun taħt monitoraġġ fl-ambitu tal-programm u ser jitqies fid-deċiżjoni dwar ħlasijiet.
@@ -749,9 +715,7 @@ Biex jiżgura transizzjoni faċli mill-EFSF għall-MES, is-CEO tal-EFSF ser ikun
 
 Parteċipazzjoni tal-Istati Membri li mhumiex fiż-żona tal-euro
 
-L-Istati Membri li mhumiex fiż-żona tal-euro jistgħu jipparteċipaw parallelament mal-MES fuq bażi ad hoc f’operazzjonijiet ta’ assistenza finanzjarja għall-Istati Membri taż-żona tal-euro. Jekk f’dawn l-operazzjonijiet jieħdu sehem Stati Membri FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 31
-
-li mhumiex fiż-żona tal-euro, dawn ikunu rrappreżentati fil-laqgħat rilevanti tal-bordijiet tal-MES li jiddeċiedu dwar l-għoti u l-monitoraġġ tal-assistenza. Huma jkollhom aċċess f’waqtu għall-informazzjoni kollha rilevanti u jiġu kkonsultati kif suppost. L-Istati Membri taż-żona tal-euro ser jappoġġaw l-istatus ta’ kreditur ekwivalenti tal-MES u dak ta’ Stati Membri oħra li jisilfu bilateralment u parallelament mal-MES.
+L-Istati Membri li mhumiex fiż-żona tal-euro jistgħu jipparteċipaw parallelament mal-MES fuq bażi ad hoc f’operazzjonijiet ta’ assistenza finanzjarja għall-Istati Membri taż-żona tal-euro. Jekk f’dawn l-operazzjonijiet jieħdu sehem Stati Membri li mhumiex fiż-żona tal-euro, dawn ikunu rrappreżentati fil-laqgħat rilevanti tal-bordijiet tal-MES li jiddeċiedu dwar l-għoti u l-monitoraġġ tal-assistenza. Huma jkollhom aċċess f’waqtu għall-informazzjoni kollha rilevanti u jiġu kkonsultati kif suppost. L-Istati Membri taż-żona tal-euro ser jappoġġaw l-istatus ta’ kreditur ekwivalenti tal-MES u dak ta’ Stati Membri oħra li jisilfu bilateralment u parallelament mal-MES.
 
 Riżoluzzjoni ta’ tilwim
 
@@ -813,8 +777,6 @@ DNG u PDG per capita fl-2010.
 
 Sorsi: Kalkoli tal-BĊE, Ameco u DĠ ECFIN.
 
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 33
-
 ## SKEDA 3 — TRATTAT — LI JISTABBILIXXI L-MEKKANIŻMU EWROPEW TA' STABBILTÀ
 
 **BEJN IR-RENJU TAL-BELĠJU, IR-REPUBBLIKA FEDERALI**
@@ -863,9 +825,7 @@ b’saħħitha inklużi patt fiskali ġdid u koordinazzjoni msaħħa tal-politik
 
 (11) Fid-dikjarazzjoni tiegħu tat-28 ta’ Novembru 2010, il-Grupp tal-Euro ddikjara li ser jiġu inklużi Klawżoli ta’ Azzjoni Kollettiva ("KAK") standardizzati u identiċi, b’tali mod li tiġi ppreservata l-likwidità tas-suq, bil-pattijiet u kondizzjonijiet ta’ bonds governattivi ġodda taż-żona tal-euro. Kif ġie mitlub mill- Kunsill Ewropew fil-25 ta’ Marzu 2011, l-arranġamenti legali dettaljati għall-inklużjoni ta’ KAK f’titoli governattivi taż-żona tal-euro ġew finalizzati mill- Kumitat Ekonomiku u Finanzjarju.
 
-(12) B’mod konformi mal-prattika tal-FMI, f’każijiet eċċezjonali għandha tkun FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 35
-
-ikkunsidrata forma adegwata u proporzjonata ta’ involviment tas-settur privat f ’każijiet fejn jiġi pprovdut sostenn għall-istabbiltà akkumpanjat minn kondizzjonalità fil-forma ta’ programm ta’ aġġustament makroekonomiku.
+(12) B’mod konformi mal-prattika tal-FMI, f’każijiet eċċezjonali għandha tkun ikkunsidrata forma adegwata u proporzjonata ta’ involviment tas-settur privat f ’każijiet fejn jiġi pprovdut sostenn għall-istabbiltà akkumpanjat minn kondizzjonalità fil-forma ta’ programm ta’ aġġustament makroekonomiku.
 
 (13) Bħall-FMI, il-MES ser jipprovdi sostenn għall-istabbiltà lil Membru fil- MES meta jixxekkillu l-aċċess regolari għall-finanzjament mis-swieq jew meta dan ikun f’riskju li jiġi mxekkel. B’riflessjoni ta’ dan, Kapijiet ta’ Stat jew ta’ Gvern iddikjaraw li lis-self mill-MES ser ikun attribwit status ta’ kreditur preferut, b’mod simili għal dak mill-FMI, filwaqt li jkun aċċettat l-istatus ta’ kreditur preferut tal- FMI bi prevalenza fuq il-MES. Dan l-istatus ser ikun effettiv mid-data tad-dħul fis-seħħ ta’ dan it-Trattat . Fil-każ ta’ assistenza finanzjarja mill-MES fil-forma ta’ self mill-MES konsegwentement għal programm Ewropew ta’ assistenza finanzjarja li jkun eżistenti fiż-żmien tal-iffirmar ta’ dan it-Trattat, il-MES ser jgawdi l-istess grad ta’ superjorità bħas-self u l-obbligi l-oħrajn kollha tal-Membru benefiċjarju fil-MES, ħlief għas-self mill-IFM.
 
@@ -947,8 +907,6 @@ L-adozzjoni ta’ deċiżjoni b’maġġoranza kwalifikata teħtieġ 80% tal-vot
 
 L-adozzjoni ta’ deċiżjoni b’maġġoranza sempliċi teħtieġ maġġoranza tal-voti mitfugħa.
 
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 37
-
 ## 7.
 
 Id-drittijiet tal-vot ta’ kull Membru fil-MES, kif eżerċitati mid-delegat jew mir-rappreżentant ta’ dan tal-aħħar fil-Bord tal-Gvernaturi jew fil-Bord tad- Diretturi, għandhom ikunu daqs l-għadd ta’ ishma allokat lilu fl-istokk ta’ kapital awtorizzat tal-MES kif stabbilit fl-Anness II.
@@ -1029,8 +987,6 @@ li gћandhom isiru fl-Anness I skont l-Artikolu 11(6);
 
 (l) li jiddetermina r-reġim ta’ tassazzjoni applikabbli għall-persunal tal- MES, skont l-Artikolu 36(5);
 
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 39
-
 (m) dwar xi disputa, skont l-Artikolu 37(2); u
 
 (n) kull deċiżjoni meħtieġa oħra mhux prevista espliċitament f’dan it- Trattat.
@@ -1103,9 +1059,7 @@ jieqaf mill-kariga tiegħu meta l-Bord tal-Gvernaturi hekk jiddeċiedi.
 
 \1. Il-Bord tal-Gvernaturi jista’ jeżerċita kapital awtorizzat mhux imħallas f’kull waqt u jistipula perijodu adegwat ta’ żmien għall-ħlas tiegħu mill-Membri fil- MES.
 
-\2. Il-Bord tad-Diretturi jista’ jeżerċita kapital awtorizzat mhux imħallas FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 41
-
-b’deċiżjoni ta’ maġġoranza sempliċi biex jirristawra l-livell ta’ kapital imħallas jekk l-ammont ta’ dan tal-aħħar jitnaqqas bl-assorbiment tat-telf taħt il-livell stabbilit fl- Artikolu 8(2), skont kif jista’ jiġi emendat mill-Bord tal-Gvernaturi b’konformità mal-proċedura prevista fl-Artikolu 10, u jistabbilixxi perijodu xieraq ta’ żmien għall-ħlas tiegħu mill-Membri fil-MES.
+\2. Il-Bord tad-Diretturi jista’ jeżerċita kapital awtorizzat mhux imħallas b’deċiżjoni ta’ maġġoranza sempliċi biex jirristawra l-livell ta’ kapital imħallas jekk l-ammont ta’ dan tal-aħħar jitnaqqas bl-assorbiment tat-telf taħt il-livell stabbilit fl- Artikolu 8(2), skont kif jista’ jiġi emendat mill-Bord tal-Gvernaturi b’konformità mal-proċedura prevista fl-Artikolu 10, u jistabbilixxi perijodu xieraq ta’ żmien għall-ħlas tiegħu mill-Membri fil-MES.
 
 \3. Id-Direttur Maniġerjali għandu jeżerċita kapital awtorizzat mhux imħallas b’mod f’waqtu jekk dan ikun meħtieġ biex jevita li l-MES ikun inadempjenti fir-rigward ta’ xi obbligu skedat jew obbligu ta’ ħlas ieħor dovut lill-kredituri tal-MES. Id-Direttur Maniġerjali għandu jinforma lill-Bord tad-Diretturi u lill-Bord tal- Gvernaturi b’kull sejħa bħal din. Meta tiġi identifikata defiċenza potenzjali fil-fondi tal-MES, id-Direttur Maniġerjali għandu jagħmel tali eżerċitar kapitali minnufih biex jiġi żgurat li l-MES ikollu fondi suffiċjenti biex jagħmel kompletament il-ħlasijiet dovuti lill-kredituri fid-data meta jiskadu. Il-Membri fil-MES b’dan, irrevokabilment u inkondizzjonalment, jimpenjaw irwieħhom li jħallsu kull eżerċizzju fuq kapital malli jintalbu jagћmlu dan mid-Direttur Maniġerjali taħt dan il-paragrafu, u dik it-talba gћandha titħallas fi żmien sebat ijiem minn meta tiġi riċevuta.
 
@@ -1169,9 +1123,7 @@ b) tintemm il-korrezzjoni temporanja ta' tnax-il sena applikabbli għal Membru f
 
 (b) l-istima jekk id-dejn pubbliku huwiex sostenibbli. Fejn xieraq u possibbli, tali stima hija mistennija li ssir flimkien mal-FMI;
 
-(c) l-istima tal-ħtiġijiet attwali jew potenzjali ta’ finanzjament tal-Membru FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 43
-
-konċernat fil-MES.
+(c) l-istima tal-ħtiġijiet attwali jew potenzjali ta’ finanzjament tal-Membru konċernat fil-MES.
 
 \2. Abbażi tat-talba mill-Membru fil-MES u l-istima msemmija fil-paragrafu 1, il-Bord tal-Gvernaturi jista’ jiddeċiedi li jagħti, fil-prinċipju, sostenn għall-istabbiltà lill-Membru konċernat fil-MES fil-forma ta’ faċilità ta’ assistenza finanzjarja.
 
@@ -1240,8 +1192,6 @@ Assistenza finanzjarja għar-rikapitalizzazzjoni tal-istituzzjonijiet finanzjarj
 **Faċilità ta’ sostenn fis-suq primarju**
 
 \1. Il-Bord tal-Gvernaturi jista’ jiddeċiedi li jagħmel arranġamenti għax-xiri ta’ bonds ta’ Membru fil-MES fis-suq primarju, skont l-Artikolu 12 u bl-għan li jkabbar kemm jista’ jkun l-effiċjenza, fir-rigward tal-kostijiet, tal-assistenza finanzjarja.
-
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 45
 
 \2. Il-kondizzjonalità marbuta mal-faċilità ta’ sostenn fis-suq primarju għandha tkun dettaljata fl-MoU, skont l-Artikolu 13(3).
 
@@ -1326,8 +1276,6 @@ istituzzjonijiet finanzjarji jew persuni jew istituzzjonijiet oħra biex iwettaq
 \2. Mingħajr preġudizzju għall-Artikolu 23, l-introjtu nett iġġenerat mill-operazzjonijiet tal-MES u r-rikavat mis-sanzjonijiet finanzjarji riċevuti mill-Membri fil-MES taħt il-proċedura ta’ sorveljanza multilaterali, il-proċedura ta’ defiċit eċċessiv u l-proċedura ta’ żbilanċi makroekonomiċi stabbiliti taħt it-TFUE għandhom jitwarrbu f’fond ta’ riżerva.
 
 \3. Ir-riżorsi tal-fond ta’ riżerva għandhom jiġu investiti skont il-linji gwida li għandhom jiġu adottati mill-Bord tad-Diretturi.
-
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 47
 
 \4. Il-Bord tad-Diretturi għandu jadotta dawk ir-regoli li jistgћu jkunu meћtieġa għall-istabbiliment, amministrazzjoni u użu ta’ fondi oħra.
 
@@ -1417,9 +1365,7 @@ Il-kontijiet tal-MES għandhom jiġu verifikati minn awdituri indipendenti ester
 
 (d) jidħol fi ftehim dwar kwartieri ġenerali u/jew fi protokolli kif ikun meħtieġ biex jiżgura li l-istatus ġuridiku tiegħu u l-privileġġi u immunitajiet tiegħu ikunu rikonoxxuti u infurzati.
 
-\3. Il-MES, il-proprjetà, il-finanzjament u l-assi tiegħu, irrispettivament minn FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 49
-
-fejn ikunu u minn min ikollu l-pussess tagħhom, għandhom ikollhom immunità minn kull forma ta’ proċess ġudizzjarju għajr safejn il-MES espressament jirrinunzja għall-immunità tiegħu għall-fini ta’ kwalunkwe proċediment jew skont it-termini ta’ kwalunkwe kuntratt, inkluża d-dokumentazzjoni tal-istrumenti ta’ finanzjament.
+\3. Il-MES, il-proprjetà, il-finanzjament u l-assi tiegħu, irrispettivament minn fejn ikunu u minn min ikollu l-pussess tagħhom, għandhom ikollhom immunità minn kull forma ta’ proċess ġudizzjarju għajr safejn il-MES espressament jirrinunzja għall-immunità tiegħu għall-fini ta’ kwalunkwe proċediment jew skont it-termini ta’ kwalunkwe kuntratt, inkluża d-dokumentazzjoni tal-istrumenti ta’ finanzjament.
 
 \4. Il-proprjetà, il-finanzjament u l-assi tal-MES għandhom ikollhom, irrispettivament minn fejn ikunu u minn min ikollu l-pussess tagħhom, immunità mit-tfittxija, mir-rekwiżizzjoni, mill-konfiska, mill-esproprjazzjoni jew minn kwalunkwe forma oħra ta’ qbid, teħid jew foreclosure b’azzjoni eżekuttiva, ġudizzjarja, amministrattiva jew leġiżlattiva.
 
@@ -1487,8 +1433,6 @@ Il-Membri jew Membri preċedenti tal-Bord tal-Gvernaturi u tal-Bord tad-Direttur
 
 \2. Il-Bord tal-Gvernaturi għandu jiddeċiedi dwar kull disputa li tqum bejn Membru fil-MES u l-MES, jew fost il-Membri fil-MES, marbuta mal-interpretazzjoni u l-applikazzjoni ta’ dan it-Trattat, inkluża kull disputa dwar il-kompatibbiltà tad-deċiżjonijiet adottati mill-MES ma’ dan it-Trattat. Il-voti tal-membru jew membri tal-Bord tal-Gvernaturi tal-Membru jew Membri konċernati fil- MES għandhom ikunu sospiżi meta l-Bord tal-Gvernaturi jivvota dwar tali deċiżjoni u l-livell limitu meħtieġ ta’ voti għall-adozzjoni ta’ dik id-deċiżjoni għandu jiġi kkalkulat mill-ġdid skont il-każ.
 
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 51
-
 \3. Jekk Membru fil-MES jikkontesta d-deċiżjoni msemmija fil-paragrafu 2, id-disputa għandha titressaq quddiem il-Qorti tal-Ġustizzja tal-Unjoni Ewropea. Is-sentenza tal-Qorti tal-Ġustizzja tal-Unjoni Ewropea għandha tkun vinkolanti fuq il-partijiet kollha fil-proċedura, li għandhom jieħdu l-miżuri meħtieġa biex jikkonformaw mas-sentenza f’perijodu li għandu jiġi deċiż minn dik il-Qorti.
 
 **ARTIKOLU 38**
@@ -1555,8 +1499,6 @@ Il-perċentwali msemmija fil-punti (a) u (b) għandhom jiġu arrotondati ’l fu
 
 \2. Il-Bord tal-Gvernaturi għandu jaħtar lid-Direttur Maniġerjali u kull Gvernatur għandu jaħtar Direttur u sostitut Direttur fi żmien xharejn mid-dħul fis-seħħ ta’ dan it-Trattat.
 
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 53
-
 **KAPITOLU 8**
 
 **DISPOŻIZZJONIJIET FINALI**
@@ -1604,8 +1546,6 @@ għoxrin jum wara d-data tad-depożitu.
 \3. Għal kull Stat li jaderixxi ma’ dan it-Trattat skont l-Artikolu 44, dan it- Trattat għandu jidħol fis-seħħ fl-għoxrin jum wara d-depożitu tal-istrument ta’ adeżjoni tiegħu.
 
 Magħmul fi Brussell fit-tieni jum ta’ Frar fis-sena elfejn u tnax f’oriġinali wieħed, bit-testi tiegħu bl-Olandiż, Ingliż, Estonjan, Finlandiż, Franċiż, Ġermaniż, Grieg, Irlandiż, Taljan, Malti, Portugiż, Slovakk, Sloven, Spjanol u Svediż ugwalment awtentiċi, li għandu jiġi ddepożitat fl-arkivji tad-Depożitarju li għandu jibgħat kopja debitament ċertifikata lil kull Parti Kontraenti.
-
-FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 55
 
 ANNESS I Il-kjavi ta’ kontribuzzjoni fil-MES
 
@@ -1667,7 +1607,7 @@ Ir-Renju tal-Pajjiżi l-Baxxi 400 190 40 019 000 000 Ir-Repubblika tal-Awstrija 
 
 Ir-Repubblika Slovakka 57 680 5 768 000 000
 
-Ir-Repubblika tal-Finlandja 125 818 12 581 800 000 Total 7 000 000 700 000 000 000 FINANZJARJA SKONT IL-MEKKANIŻMU TA’ STABBILTÀ EWROPEA [KAP. 523. 57
+Ir-Repubblika tal-Finlandja 125 818 12 581 800 000 Total 7 000 000 700 000 000 000
 
 ## SKEDA 4
 

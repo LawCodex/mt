@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Reġistrazzjoni Elettro-Manjetika ta' Proċedimenti (Cap. 284)
 
-*1*
-
-TA’ PROĊEDIMENTI [KAP. 284.
-
 **KAPITOLU 284**
 
 **ATT DWAR IR-REĠISTRAZZJONI**

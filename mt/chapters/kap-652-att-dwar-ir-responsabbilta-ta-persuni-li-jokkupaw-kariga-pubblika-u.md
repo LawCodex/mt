@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Responsabbiltà ta’ persuni li jokkupaw Kariga Pubblika u ta’ Entitajiet Pubbliċi (Cap. 652)
 
-*1*
-
-PUBBLIKA U TA’ ENTITAJIET PUBBLIĊI [KAP. 652.
-
 **KAPITOLU 652**
 
 **ATT DWAR IR-RESPONSABBILTÀ TA’ PERSUNI LI**
@@ -55,10 +51,6 @@ F’dan l-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "proċeduri ġudizzjarji" tfisser proċeduri quddiem qorti jew tribunal fejn tkun qiegħda tintalab jew tingħata kundanna għall-ħlas minħabba responsabbiltà ċivili;
 
-*2*
-
-[KAP. 652. PUBBLIKA U TA’ ENTITAJIET PUBBLIĊI
-
 *        Kap. 319.*
 
 "responsabbiltà ċivili" tinkludi kull sejbien ta’ responsabbiltà u kwalunkwe kundanna għall-ħlas ta’ danni minn qorti jew minn tribunal imwaqqaf b’liġi, inkluż kull kundanna għall-ħlas ta’ kumpens minn qorti ta’ ġurisdizzjoni kostituzzjonali jew konvenzjonali taħt il-Kapitolu IV tal- Kostituzzjoni ta’ Malta u, jew taħt l-Att dwar il-Konvenzjoni Ewropea.
@@ -79,11 +71,7 @@ Iżda kull terminu biex tiġi ppreżentata risposta fir-rigward ta’ tali att m
 
 (3) L-entità li f’isimha jew fi ħdanha jkun sar l-att imwettaq fl-eżerċizzju ta’ funzjoni pubblika u l-Avukat tal-Istat, għandhom id-dritt li jintervjenu in statu et terminis fi kwalunkwe proċedura legali relatata mal-istess att u li jippreżentaw ir-risposta maħlufa u kwalunkwe att ġudizzjarju ieħor li jistgħu jippreżentaw il-partijiet fil-kawża.
 
-(4) (a) L-Istat għandu jservi bħala garanti għal kwalunkwe PUBBLIKA U TA’ ENTITAJIET PUBBLIĊI [KAP. 652.
-
-somma li l-Qrati jistgħu jordnaw li tiġi kawtelata permezz ta’ atti ċivili ta’ natura kawtelatorja, sakemm tingħata deċiżjoni finali u definittiva tal-Qorti kif provdut fis-subartikolu (1). Malli l-Istat jipprovdi tali garanzija, il-mandati jew atti kawtelatorji maħruġa kontra l-intimat għandhom jiġu revokati minnufih u dwarhom jinħareġ il-kontro-mandat u d-digriet ta’ revoka u tħassir relattivi.
-
-*3*
+(4) (a) L-Istat għandu jservi bħala garanti għal kwalunkwe somma li l-Qrati jistgħu jordnaw li tiġi kawtelata permezz ta’ atti ċivili ta’ natura kawtelatorja, sakemm tingħata deċiżjoni finali u definittiva tal-Qorti kif provdut fis-subartikolu (1). Malli l-Istat jipprovdi tali garanzija, il-mandati jew atti kawtelatorji maħruġa kontra l-intimat għandhom jiġu revokati minnufih u dwarhom jinħareġ il-kontro-mandat u d-digriet ta’ revoka u tħassir relattivi.
 
 (b) Wara li tkun ingħatat deċiżjoni finali u definittiva kif imsemmi fis-subartikolu (1), l-Istat għandu jindennizza lill-persuna kundannata sabiex tħallas skont dik id-deċiżjoni mill-effetti ta’ kwalunkwe att jew mandat eżekuttiv maħruġ kontra tali persuna bis-saħħa tal-imsemmija deċiżjoni finali u definittiva. Malli l-Istat jew jiddepożita fil-qorti l-ammont dovut wara tali deċiżjoni finali u definittiva jew jiddepożita garanzija inkondizzjonata bl-għan illi huwa għandu jħallas l-ammont dovut bis-saħħa tal-imsemmija deċiżjoni, kwalunkwe mandat jew att eżekuttiv għandu jiġi revokat minnufih u fir-rigward tiegħu għandu jinħareġ il-kontro-mandat u d-digriet tar-revoka u tħassir relattivi.
 
@@ -93,11 +81,7 @@ somma li l-Qrati jistgħu jordnaw li tiġi kawtelata permezz ta’ atti ċivili 
 
 (7) Dan l-Att ma għandux jipprekludi l-bidu jew it-tkomplija ta’ proċeduri kriminali jew dixxiplinarji indipendenti mill-azzjoni ċivili provduta f’dan l-artikolu, bla ħsara għall-garanziji mogħtija bis-saħħa ta’ dan l-Att.
 
-(8) F’każ ta’ kunflitt bejn dan l-Att u kwalunkwe liġi oħra, ħlief [KAP. 652. PUBBLIKA U TA’ ENTITAJIET PUBBLIĊI
-
-għall-Kostituzzjoni, id-dispożizzjonijiet ta’ dan l-Att għandom jipprevalu.
-
-*4*
+(8) F’każ ta’ kunflitt bejn dan l-Att u kwalunkwe liġi oħra, ħlief għall-Kostituzzjoni, id-dispożizzjonijiet ta’ dan l-Att għandom jipprevalu.
 
 ## 4. Dispożizzjoni tranżitorja.
 

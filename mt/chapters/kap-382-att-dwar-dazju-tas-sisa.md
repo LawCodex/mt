@@ -49,46 +49,21 @@ It-titolu fil-qosor ta’ dan l-Att hu Att dwar Dazju tas-Sisa. 2. F’dan l-Att
 
 "destinatarju ċċertifikat" tfisser persuna fiżika jew ġuridika debitament reġistrata mal-awtoritajiet kompetenti tal-Istat Membru tad-destinazzjoni sabiex tirċievi oġġetti tad-dazju tas-sisa, fil-kors tan-negozju tagħha, li ġew irrilaxxati għall-konsum fit-territorju ta’ Stat Membru wieħed u sussegwentement ġew trasferiti fit-territorju ta’ Stat Membru ieħor;
 
-"destinatarju reġistrat" tfisser persuna fiżika jew ġuridika awtorizzata mill-Kummissarju, fl-eżerċizzju tan-negozju tagħha u taħt il-kondizzjonijiet stabbiliti mill-Kummissarju, li tirċievi oġġetti tad-dazju tas-sisa li jkunu qegħdin jiċċirkolaw taħt
+"destinatarju reġistrat" tfisser persuna fiżika jew ġuridika awtorizzata mill-Kummissarju, fl-eżerċizzju tan-negozju tagħha u taħt il-kondizzjonijiet stabbiliti mill-Kummissarju, li tirċievi oġġetti tad-dazju tas-sisa li jkunu qegħdin jiċċirkolaw taħt arranġament ta’ sospensjoni tad-dazju tas-sisa minn Stat Membru ieħor;
 
-arranġament ta’ sospensjoni tad-dazju tas-sisa minn Stat Membru  
-ieħor;  
-"importazzjoni ta’ oġġetti tad-dazju tas-sisa" tfisser id-dħul fit-  
-territorju tal-Komunità ta’ oġġetti tad-dazju tas-sisa kemm-il darba  
-l-oġġetti, meta jidħlu fil-Komunità, ma jkunux soġġetti għal  
-proċedura jew arranġament doganali sospensiv, kif ukoll ir-rilaxx  
-tagħhom minn proċedura jew arranġament doganali sospensiv;  
-"independent small brewery" u "birrerija indipendenti u żgħira"  
-jfissru, għall-finijiet tar-rati mnaqqsa, birrerija li hi legalment u  
-ekonomikament indipendenti minn kull birrerija oħra, li tuża bini li  
-jinsab fiżikament lil hinn minn dak ta’ xi birrerija oħra u li ma  
-toperax bil-liċenzja. Madankollu, fejn tnejn (2) jew iżjed birreriji  
-żgħar jikkoperaw, u l-produzzjoni annwali tagħhom flimkien ma  
-teċċedix il-mitejn elf (200,000) ettolitru, dawk il-birreriji jistgħu  
-jkunu trattati bħala birrerija waħda indipendenti u żgħira;  
-"independent small wine producer" u "produttur tal-inbid  
-indipendenti u żgħir" jfissru, għall-finijiet tar-rati mnaqqsa, produttur  
-tal-inbid li huwa legalment u ekonomikament indipendenti minn  
-kwalunkwe produttur tal-inbid ieħor, li juża bini li jinsab fiżikament lil  
-hinn minn dak ta’ kwalunkwe produttur tal-inbid ieħor u li ma joperax  
-bil-liċenzja. Madankollu, fejn żewġ (2) produtturi tal-inbid żgħar jew  
-aktar jikkooperaw, u l-produzzjoni annwali tagħhom flimkien ma  
-teċċedix l-elf (1,000) ettolitru jew l-għoxrin elf (20,000) ettolitru, kif  
-xieraq, dawk il-produtturi tal-inbid jistgħu jkunu ttrattati bħala  
-produttur tal-inbid indipendenti u żgħir wieħed;  
-"informazzjoni li ma tistax tinqara" tfisser informazzjoni li għandha  
-bżonn tkun deċifrata qabel tinftiehem;  
-"kompjuter" tfisser kull apparat elettroniku użat għal ħażna jew  
-irkupru ta’ informazzjoni u tinkludi telefon ċellulari jew xi mezz  
-elettroniku ieħor ta’ ħażna jew irkupru ta’ informazzjoni;  
-"Komunità" jew "territorju tal-Komunità" tfisser it-territorji tal-  
-Istati Membri;  
-"konsenjatur iċċertifikat" tfisser persuna fiżika jew ġuridika  
-debitament reġistrata mal-awtoritajiet kompetenti tal-Istat Membru  
-tad-dispaċċ sabiex tibgħat oġġetti tad-dazju tas-sisa, fil-kors tan-  
-negozju tagħha, li ġew irrilaxxati għall-konsum fit-territorju ta’ Stat
+"importazzjoni ta’ oġġetti tad-dazju tas-sisa" tfisser id-dħul fit-territorju tal-Komunità ta’ oġġetti tad-dazju tas-sisa kemm-il darba l-oġġetti, meta jidħlu fil-Komunità, ma jkunux soġġetti għal proċedura jew arranġament doganali sospensiv, kif ukoll ir-rilaxx tagħhom minn proċedura jew arranġament doganali sospensiv;
 
-Membru wieħed u sussegwentement ġew trasferiti fit-territorju ta’ Stat Membru ieħor;
+"independent small brewery" u "birrerija indipendenti u żgħira" jfissru, għall-finijiet tar-rati mnaqqsa, birrerija li hi legalment u ekonomikament indipendenti minn kull birrerija oħra, li tuża bini li jinsab fiżikament lil hinn minn dak ta’ xi birrerija oħra u li ma toperax bil-liċenzja. Madankollu, fejn tnejn (2) jew iżjed birreriji żgħar jikkoperaw, u l-produzzjoni annwali tagħhom flimkien ma teċċedix il-mitejn elf (200,000) ettolitru, dawk il-birreriji jistgħu jkunu trattati bħala birrerija waħda indipendenti u żgħira;
+
+"independent small wine producer" u "produttur tal-inbid indipendenti u żgħir" jfissru, għall-finijiet tar-rati mnaqqsa, produttur tal-inbid li huwa legalment u ekonomikament indipendenti minn kwalunkwe produttur tal-inbid ieħor, li juża bini li jinsab fiżikament lil hinn minn dak ta’ kwalunkwe produttur tal-inbid ieħor u li ma joperax bil-liċenzja. Madankollu, fejn żewġ (2) produtturi tal-inbid żgħar jew aktar jikkooperaw, u l-produzzjoni annwali tagħhom flimkien ma teċċedix l-elf (1,000) ettolitru jew l-għoxrin elf (20,000) ettolitru, kif xieraq, dawk il-produtturi tal-inbid jistgħu jkunu ttrattati bħala produttur tal-inbid indipendenti u żgħir wieħed;
+
+"informazzjoni li ma tistax tinqara" tfisser informazzjoni li għandha bżonn tkun deċifrata qabel tinftiehem;
+
+"kompjuter" tfisser kull apparat elettroniku użat għal ħażna jew irkupru ta’ informazzjoni u tinkludi telefon ċellulari jew xi mezz elettroniku ieħor ta’ ħażna jew irkupru ta’ informazzjoni;
+
+"Komunità" jew "territorju tal-Komunità" tfisser it-territorji tal- Istati Membri;
+
+"konsenjatur iċċertifikat" tfisser persuna fiżika jew ġuridika debitament reġistrata mal-awtoritajiet kompetenti tal-Istat Membru tad-dispaċċ sabiex tibgħat oġġetti tad-dazju tas-sisa, fil-kors tan-negozju tagħha, li ġew irrilaxxati għall-konsum fit-territorju ta’ Stat Membru wieħed u sussegwentement ġew trasferiti fit-territorju ta’ Stat Membru ieħor;
 
 "konsenjatur reġistrat" tfisser persuna fiżika jew ġuridika awtorizzata mill-Kummissarju, matul in-negozju tagħha u taħt il-kondizzjonijiet stabbiliti mill-Kummissarju, li tibgħat biss oġġetti soġġetti għad-dazju tas-sisa li jkunu soġġetti għal sospensjoni tad-dazju wara li jiġu rilaxxati għaċ-ċirkolazzjoni libera skont l-Artikolu 201 tar-Regolament (UE) Nru 952/2013;
 

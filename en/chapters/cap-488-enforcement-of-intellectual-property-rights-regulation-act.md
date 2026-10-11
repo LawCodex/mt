@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Enforcement of Intellectual Property Rights (Regulation) Act (Cap. 488)
 
-*1*
-
-PROPERTY RIGHTS (REGULATION) [CAP. 488.
-
 **CHAPTER 488**
 
 **ENFORCEMENT OF INTELLECTUAL PROPERTY**
@@ -87,10 +83,6 @@ Provided that for a person to be entitled to avail himself of the provisions of 
 
 (2) When measures to preserve evidence are adopted without the other party having been heard, the parties affected shall be given notice without delay after the execution of the measures. A review, including a right to be heard by the Court, shall take place upon request by application of any of the parties affected with a view to deciding, within a reasonable period after the notification of the measures, whether the measures shall be modified, revoked or confirmed.
 
-*3*
-
-PROPERTY RIGHTS (REGULATION) [CAP. 488.
-
 (3) In pursuing his demand for measures to preserve evidence, the applicant shall lodge in Court such security or assurance intended to ensure compensation for any prejudice suffered by the other party, as provided in subarticle (5), as the Court may order.
 
 (4) Measures to preserve evidence shall be revoked by the Court upon the request made by application of the person against whom such measures were taken, without prejudice to the damages which may be claimed, if the applicant at whose instance such measures were taken fails, within thirty-one days from the issuing of such measures, to institute proceedings leading to a decision on the merits of the case before the competent Court.
@@ -147,10 +139,6 @@ CAP. 488.] PROPERTY RIGHTS (REGULATION)
 
 (2) Where an infringement of an intellectual property right has been committed on what is deemed by the Court to be a commercial scale it may, if the plaintiff demonstrates the existence of circumstances likely to endanger the recovery of damages, order the precautionary seizure of the movable and immovable property of the alleged infringer, including the blocking of the same infringer’s bank accounts and other assets. Moreover, the Court shall have the power to order the communication of bank, financial or commercial documents, or demand appropriate access to the relevant information, as it deems fit.
 
-*5*
-
-PROPERTY RIGHTS (REGULATION) [CAP. 488.
-
 (3) In respect of the measures referred to in subarticles (1) and (2), the Court shall have the authority to require the applicant to provide any reasonably available evidence so as to be reasonably satisfied that the applicant is the rightholder and that his right is either being infringed or is in imminent danger of being infringed.
 
 (4) In appropriate cases, and particularly where it deems that any delay would cause irreparable harm to the rightholder, the Court shall take the measures mentioned in subarticles (1) and (2) without first hearing the defendant. In such an event, the parties shall be so informed without delay and in any case not later than immediately after the measures have been executed:
@@ -204,10 +192,6 @@ In cases where the measures laid down in Part V of this Act may be applied, it s
 (2) In setting the amount of damages due, the Court shall take into account all relevant aspects, including all the negative economic consequences that may have been suffered by the injured party including lost profits, as well as any unfair profits made by the infringer and, where it deems appropriate, other elements such as the moral prejudice caused to the rightholder by the infringement:
 
 Provided that instead of the above method of calculation of damages, the Court may, where it so considers appropriate, choose to apply an alternative method of calculation involving the setting of a lump sum of damages payable which shall include elements such as at least the amount of royalties or fees which would have been due had the infringer requested authorisation to use the intellectual right in question.
-
-*7*
-
-PROPERTY RIGHTS (REGULATION) [CAP. 488.
 
 (3) Where the Court is of the opinion that the infringer did not knowingly engage in infringing activity, it may order the recovery of profits or the payment of damages, as may be pre-established in regulations made under the relevant legislation.
 

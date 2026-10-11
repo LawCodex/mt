@@ -183,22 +183,11 @@ SECTION 1. Additional Subscriptions
 
 SECTION 2. Supplementary Resources Provided by a Member in the Currency of Another Member
 
-(a) The Association may enter into arrangements, on such terms and conditions consistent with the provisions of this Agreement as may be agreed upon, to receive from any member, in addition to the amounts payable by such member on account of its initial or any additional subscription, supplementary resources in the currency of another member, provided that the Association shall not enter into any such
+(a) The Association may enter into arrangements, on such terms and conditions consistent with the provisions of this Agreement as may be agreed upon, to receive from any member, in addition to the amounts payable by such member on account of its initial or any additional subscription, supplementary resources in the currency of another member, provided that the Association shall not enter into any such arrangement unless the Association is satisfied that the member whose currency is involved agrees to the use of such currency as supplementary resources and to the terms and conditions governing such use. The arrangements under which any such resources are received may include provisions regarding the disposition of earnings on the resources and regarding the disposition of the resources in the event that the member providing them ceases to be a member or the Association permanently suspends its operations.
 
-arrangement unless the Association is satisfied that the member whose currency is  
-involved agrees to the use of such currency as supplementary resources and to the  
-terms and conditions governing such use. The arrangements under which any such  
-resources are received may include provisions regarding the disposition of earnings  
-on the resources and regarding the disposition of the resources in the event that the  
-member providing them ceases to be a member or the Association permanently  
-suspends its operations.  
-(b) The Association shall deliver to the contributing member a Special  
-Development Certificate setting forth the amount and currency of the resources so  
-contributed and the terms and conditions of the arrangement relating to such  
-resources. A Special Development Certificate shall not carry any voting rights and  
-shall be transferable only to the Association.  
-(c) Nothing in this Section shall preclude the Association from accepting  
-resources from a member in its own currency on such terms as may be agreed upon.
+(b) The Association shall deliver to the contributing member a Special Development Certificate setting forth the amount and currency of the resources so contributed and the terms and conditions of the arrangement relating to such resources. A Special Development Certificate shall not carry any voting rights and shall be transferable only to the Association.
+
+(c) Nothing in this Section shall preclude the Association from accepting resources from a member in its own currency on such terms as may be agreed upon.
 
 **Article IV**
 

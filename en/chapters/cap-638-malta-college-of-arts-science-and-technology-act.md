@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Malta College of Arts, Science, and Technology Act (Cap. 638)
 
-*1*
-
-TECHNOLOGY [CAP. 638.
-
 **CHAPTER 638**
 
 **MALTA COLLEGE OF ARTS, SCIENCE, AND**
@@ -58,10 +54,6 @@ The employer assumes responsibility for providing the trainee with
 training leading to a specific occupation;  
 "applied and impact research" means the process of establishing
 
-*2*
-
-[CAP.638. TECHNOLOGY
-
 new knowledge or exploring the feasibility of new or improved technology, service or solution, based on a methodology used to solve a specific, practical problem undertaken with the specific aim of benefiting the industry in an impact oriented manner whether directly or indirectly;
 
 "Award" means study programmes of shorter duration which do not fulfil the requirements in terms of the minimum credits required at the respective level of the Malta Qualification Framework;
@@ -88,11 +80,9 @@ new knowledge or exploring the feasibility of new or improved technology, servic
 
 "industry-driven and community based curricula" means curricula based on a wide variety of instructional methods and programs utilised to connect what is being taught to the needs of the Industry and the surrounding community, which includes but not limited to, work-based learning;
 
-*3*
-
-TECHNOLOGY [CAP. 638. "MFHEA" means the Malta Further and Higher Education Authority established by the Further and Higher Education Act;
-
 *  Cap. 607.*
+
+"MFHEA" means the Malta Further and Higher Education Authority established by the Further and Higher Education Act;
 
 "Minister" means the Minister responsible for education;
 
@@ -120,11 +110,7 @@ TECHNOLOGY [CAP. 638. "MFHEA" means the Malta Further and Higher Education Autho
 
 "VET provider" means an individual or body corporate who is the administrator of work placements, apprenticeships and internships providing vocational educational programmes at further education or higher levels, as licensed by the Malta Further and Higher Education Authority or is approved by international structures with qualification recognised by the industry;
 
-"Vice President" means the person appointed by the Minister in terms of article 19, to act on behalf of the President and chair the [CAP.638. TECHNOLOGY
-
-Board of Governors meetings in his absence or as directed from time to time;
-
-*4*
+"Vice President" means the person appointed by the Minister in terms of article 19, to act on behalf of the President and chair the Board of Governors meetings in his absence or as directed from time to time;
 
 "VPET" means education and training which aims to equip persons with knowledge, know-how, skills and, or competences required in particular occupations or more broadly on the labour market. For the purposes of this Act, VPET is an inclusive term which includes both Vocational Education and Training (VET) and Professional Higher Education (PHE);
 
@@ -146,11 +132,9 @@ The Malta College of Arts, Science and Technology, established by public deed by
 
 (3) The legal and juridical representation of the College shall vest in the College’s Principal:
 
-Provided that the Board of Governors may appoint any one TECHNOLOGY [CAP. 638. or more of its members or of the officers or employees of the College to appear in the name and on behalf of the College in any judicial proceedings and in any act, contract, instrument or other document whatsoever:
+Provided that the Board of Governors may appoint any one or more of its members or of the officers or employees of the College to appear in the name and on behalf of the College in any judicial proceedings and in any act, contract, instrument or other document whatsoever:
 
 Provided further that in order for the College to enter into contracts pertaining to the acquisition or disposal of immovable property under whichever title, a Board Resolution from the Board of Governors shall be required.
-
-*5*
 
 ### 5. Official languages.
 
@@ -172,11 +156,7 @@ Provided that the College shall provide programmes of studies in VPET leading to
 
 (5) The College shall endeavour and strive to achieve and maintain the quality of its vocational and professional programmes and apprenticeships at all levels of the MQF by establishing its own internal quality assurance system and a validation system based on external quality assurance as required by the relevant competent national authority and as established by the relevant legislation.
 
-(6) The College shall ensure, in such areas as may be possible and according to the possibilities of the College, access to each person regardless of academic qualifications, and shall have special programmes to assist any person to achieve the required education, so [CAP.638. TECHNOLOGY
-
-that such person may continue and terminate successfully such level according to established standards, and with this aim the College shall accredit prior learning.
-
-*6*
+(6) The College shall ensure, in such areas as may be possible and according to the possibilities of the College, access to each person regardless of academic qualifications, and shall have special programmes to assist any person to achieve the required education, so that such person may continue and terminate successfully such level according to established standards, and with this aim the College shall accredit prior learning.
 
 *       Cap. 576.*
 
@@ -200,9 +180,7 @@ that such person may continue and terminate successfully such level according to
 
 (h) cultivate a culture of open-mindedness, propriety, good governance, creativity, and innovation in the pursuit of excellence, and flexibility and space to do things differently, sustained by commitment, dedication, and integrity at College, at the students’ future place of work, and in the exercise of the College’s students’ and personnel’s profession, taking into account the students’ well-being;
 
-*7*
-
-TECHNOLOGY [CAP. 638. (i) foster among students a commitment towards occupational health and safety at the place of work;
+(i) foster among students a commitment towards occupational health and safety at the place of work;
 
 (j) respond at a relevant time and in a relevant manner to the needs of the labour market, by networking and effective partnership at all levels of educational and training experience with the educational, economic, industrial, cultural and services sectors;
 
@@ -225,12 +203,6 @@ TECHNOLOGY [CAP. 638. (i) foster among students a commitment towards occupationa
 (9) The College shall collaborate and communicate with the other National and International Educational Institutions, public and private institutions and organisations, the national employment agency, civil society, trade union organisations, chambers of commerce, business, trade, recognised trade unions who represent employees of the College and Industry associations, and the other national competent authorities which participate in the social and economic development of Malta.
 
 (10) The College shall establish associate academies and institutes as the Board of Governors may deem appropriate.
-
-**TECHNOLOGY**
-
-*[CAP.638.*
-
-*8*
 
 *\7.*
 
@@ -258,9 +230,7 @@ The College shall:
 
 (j) establish internal auditing schemes which ensure the quality of education and training being imparted and the effective use of resources;
 
-*9*
-
-TECHNOLOGY [CAP. 638. (k) make regulations concerning the performance and the conduct of students, lecturers and other persons entrusted with rendering any service at the College, whether engaged by an indefinite or a definite contract of service, or by a contract for services, or if seconded or on loan to the College by government, public or private entities;
+(k) make regulations concerning the performance and the conduct of students, lecturers and other persons entrusted with rendering any service at the College, whether engaged by an indefinite or a definite contract of service, or by a contract for services, or if seconded or on loan to the College by government, public or private entities;
 
 (l) make regulations to safeguard the health and well-being of all parties mentioned in paragraph (k);
 
@@ -282,13 +252,11 @@ TECHNOLOGY [CAP. 638. (k) make regulations concerning the performance and the co
 
 (5) The Vocational and Professional Council may, on the advice of the Board of Governors, make a statute that provides for a matter of an academic nature, and, or may amend or repeal, in whole or in part, such statute, however if such advice is not tendered within the term established by the Council, which term shall in no case be less than twenty-one (21) days from the date of the said request, the Council may make that statute or amend or revoke it without that advice.
 
-(6) Statutes, regulations and bye-laws made by the competent governing bodies of the College in accordance with the provisions of this Part shall be promulgated and published to have the force of law: [CAP.638. TECHNOLOGY
+(6) Statutes, regulations and bye-laws made by the competent governing bodies of the College in accordance with the provisions of this Part shall be promulgated and published to have the force of law:
 
 *   Cap. 249.*
 
 Provided that the subsidiary legislation herein mentioned shall as soon as it is promulgated and published, be laid on the Table of the House in accordance with article 11 of the Interpretation Act.
-
-*10*
 
 (7) Any power given by this Act for the making of statutes, regulations or bye-laws by the competent governing body of the College shall be construed as including a power, exercisable in the like manner and subject to the like consent and conditions, if any, to rescind, revoke, amend, or vary the statutes, regulations or bye-laws, and such power shall be exercisable without prejudice to the making of new statutes, regulations or bye-laws.
 
@@ -326,11 +294,9 @@ Provided that the subsidiary legislation herein mentioned shall as soon as it is
 
 ### 10. Composition of the Board of Governors.
 
-(1) The Board of Governors shall be composed of not less than eleven (11) and not more than thirteen (13) members who, unless otherwise specifically provided for in this Act, shall be TECHNOLOGY [CAP. 638. appointed for a period of three (3) years and the members shall be eligible to be re-appointed for a further period of three (3) years, only once after their first term of office expires, up to a total maximum term of six (6) years.
+(1) The Board of Governors shall be composed of not less than eleven (11) and not more than thirteen (13) members who, unless otherwise specifically provided for in this Act, shall be appointed for a period of three (3) years and the members shall be eligible to be re-appointed for a further period of three (3) years, only once after their first term of office expires, up to a total maximum term of six (6) years.
 
 (2) The Board of Governors shall consist of the following:
-
-*11*
 
 (a) the President appointed in accordance with article 19;
 
@@ -354,10 +320,6 @@ Provided that at least one (1) of the members of the Board of Governors shall be
 
 (3) The Principal of the College shall have the right to attend the meetings of the Board without having a right to vote, provided that he shall withdraw from each meeting where matters connected with his performance or contract of work are discussed.
 
-*12*
-
-[CAP.638. TECHNOLOGY
-
 (4) The members of the Board of Governors shall be persons having competence or experience in the education sector, vocational education, the cultural sector, the economy, industry and services sectors or in the social sectors, and who, in the opinion of the Minister, possess leadership qualities, and have an understanding of the importance of vocational education and training within the context of general socio-economic and democratic development.
 
 (5) A member of the Board of Governors may at any time be removed from office by the Minister, after consultation with the President, on the grounds of inability to perform the functions of his office as required, either because of mental or physical illness, or upon the Board’s recommendation that such member is deemed to be disruptive and, or a source of frequent conflict causing hindrance to the proper functioning of the Board of Governors, or for any other reason due to which the member would no longer be fit to occupy such office, which shall include a breach of confidentiality.
@@ -366,11 +328,9 @@ Provided that at least one (1) of the members of the Board of Governors shall be
 
 (7) A member of the Board of Governors having a direct or indirect interest in any contract made or proposed to be made by the Board of Governors, or any financial interest or otherwise in any enterprise or activity which may affect the performance of his functions as a member in this Board, shall declare his interest in writing during the first sitting of the Board of Governors. A declaration of interests of members of the Board of Governors will be registered in the minutes of the Board meeting, and the Board member concerned shall withdraw from the meeting while such contract or matter in which he has an interest is being discussed. Declarations of interests are to be communicated to the Minister without delay. When such interest as the member may have is such that it may lead to his removal from office, the member shall immediately report the fact to the Minister and offer to tender his resignation, without prejudice to the Minister’s power to remove such member from the Board.
 
-(8) Any absence or vacancy among the members of the Board of Governors, or any participation in its meetings by any person who is not entitled to such act, does not invalidate the procedures of the Board, insofar as there is a quorum of not less than one-half of the TECHNOLOGY [CAP. 638. number of members of the Board plus one.
+(8) Any absence or vacancy among the members of the Board of Governors, or any participation in its meetings by any person who is not entitled to such act, does not invalidate the procedures of the Board, insofar as there is a quorum of not less than one-half of the number of members of the Board plus one.
 
 (9) Subject to the provisions of this Act and of any regulations made thereunder, the Board of Governors may appoint non-executive committees with established terms of reference.
-
-*13*
 
 (10) The Board of Governors shall take all necessary precautions and treat all information including but not limited to information passed on to them during or in anticipation of Board of Governors meetings as highly confidential in its relations with both public and private institutions.
 
@@ -388,11 +348,7 @@ Provided that the number of Senior Advisors shall not exceed three (3) per one (
 
 Provided that insofar as immovable property is concerned, the College and, or any of its Principal Officers shall be precluded, both ipso facto and ipso jure, from alienating, transferring, selling, hypothecating or otherwise burdening and, or encumbering such property and, or from assigning any rights, obligations and, or title thereto to third parties to further such third parties’ private, commercial, financial and, or profit-making interests to the detriment of any above-mentioned educational purposes and associated support services in line with the College’s purposes and functions as outlined in article 7:
 
-Provided further that the Board of Governors may resolve to allow an exemption to this restriction should a decision of the Board of Governors be taken by unanimous vote when all of its members are present. The objective criteria and reasons upon which the Board has based its decision shall be explicitly and expressly minuted on pain of nullity of its TECHNOLOGY
-
-decision;
-
-*[CAP.638. 14*
+Provided further that the Board of Governors may resolve to allow an exemption to this restriction should a decision of the Board of Governors be taken by unanimous vote when all of its members are present. The objective criteria and reasons upon which the Board has based its decision shall be explicitly and expressly minuted on pain of nullity of its decision;
 
 (b) to facilitate relations with the Industry and to ensure the continuous connectivity between the College and the Industry as to be able to reflect the exigencies of the Industry in the College’s methods, educational programmes and curricula;
 
@@ -416,9 +372,7 @@ decision;
 
 (l) to establish and oversee the operations of the Internal Audit Office whose main function shall be the assurance of the proper functioning and good governance in the day-to-day operations of the College.
 
-*15*
-
-TECHNOLOGY [CAP. 638. (2) The Board of Governors shall oversee that the qualification degrees, diplomas, awards, and certificates of the College are recognised both at a national and at an international level, and that, wherever applicable, are related to the standards established by the MFHEA.
+(2) The Board of Governors shall oversee that the qualification degrees, diplomas, awards, and certificates of the College are recognised both at a national and at an international level, and that, wherever applicable, are related to the standards established by the MFHEA.
 
 (3) The Board of Governors shall meet to focus on strategic orientation and strategic decisions. The Board shall meet as necessary, however not less than once every two (2) months with a quorum of not less than half of the number of members of the Board plus one.
 
@@ -454,12 +408,6 @@ TECHNOLOGY [CAP. 638. (2) The Board of Governors shall oversee that the qualific
 
 Provided that personnel responsible for different academic functions may be invited to the meeting, as necessary.
 
-**TECHNOLOGY**
-
-*[CAP.638.*
-
-*16*
-
 ### 13. Functions of the Vocational and Professional Council.
 
 (1) The Vocational and Professional Council shall be responsible for the general direction of the academic, vocational and professional education and training of the College, and shall have the following functions:
@@ -484,9 +432,7 @@ Provided that personnel responsible for different academic functions may be invi
 
 (j) to present to the Board of Governors, with the launch of each prospectus, an annual proposal of all academic units forecasted to be removed, retained and introduced in the prospectus of the following year;
 
-*17*
-
-TECHNOLOGY [CAP. 638. (k) to ensure positive and active relations between the College and its professional and educational partners in Malta and overseas;
+(k) to ensure positive and active relations between the College and its professional and educational partners in Malta and overseas;
 
 (l) to give advice to the Board of Governors on academic and professional matters.
 
@@ -522,10 +468,6 @@ The Council shall meet at least every six (6) weeks in order to:
 
 (e) monitor the Financial Plan and the Human Resources Plan, as approved by the Board of Governors;
 
-*18*
-
-[CAP.638. TECHNOLOGY
-
 (f) ensure that recruitment within the College is carried out in a fair and transparent manner and according to laws and regulations as may come into force from time to time;
 
 (g) monitor all staff movement within the College;
@@ -560,9 +502,7 @@ Provided that there shall be a minimum of one (1) Board of Studies for each Inst
 
 Provided further that the Deputy Principal whose responsibility includes the particular Institute or Section, and the Deputy Principal whose responsibility includes the Registrar’s Office shall have a right to be informed of and attend the meetings of the respective Boards of Studies:
 
-*19*
-
-TECHNOLOGY [CAP. 638. Provided further that personnel responsible for different academic functions within the Institute or Unit may be invited to the meeting, as may be necessary.
+Provided further that personnel responsible for different academic functions within the Institute or Unit may be invited to the meeting, as may be necessary.
 
 (2) Without prejudice to article 18:
 
@@ -592,10 +532,6 @@ TECHNOLOGY [CAP. 638. Provided further that personnel responsible for different 
 
 (3) The Boards of Studies shall meet at least once every six (6) weeks and the quorum of the meetings shall be of fifty per cent plus one.
 
-*20*
-
-[CAP.638. TECHNOLOGY
-
 ### 18. Common provisions for the governing bodies of the College.
 
 (1) Any appointed or elected person holding office on a governing body of the College shall, unless otherwise specifically provided elsewhere in this Act, hold such office for a period of three (3) years:
@@ -618,9 +554,7 @@ Provided further that any nominated or elected person holding office on a govern
 
 (4) The President may in the event that there is no Principal or Principal-Designate to fulfil the duties of Principal as outlined in article 22, due to force majeur, appoint any one of the Deputy Principals to carry out such duties until such time when the Principal can resume his duties or a new Principal is appointed in terms of the provisions of this Act:
 
-*21*
-
-TECHNOLOGY [CAP. 638. Provided that the President shall, within five (5) working days of appointment of the Principal, convene an emergency Board of Governors meeting in order to ratify the temporary appointment.
+Provided that the President shall, within five (5) working days of appointment of the Principal, convene an emergency Board of Governors meeting in order to ratify the temporary appointment.
 
 ### 20. The Vice- President.
 
@@ -644,11 +578,7 @@ Provided that any such aforementioned decision affecting any power or function v
 
 (2) The Principal shall exercise authority over the teaching staff, examiners, students, examination candidates, College employees, and whosoever is entrusted with rendering any service, whether commercial or non-commercial, to the College, and he shall enforce discipline and the strict observance of the provisions of the Act, of the Statute of the Institutes, bye-laws and other rules made by the competent bodies of the College.
 
-(3) The Principal shall confer the Awards, Qualifications and [CAP.638. TECHNOLOGY
-
-other distinctions of the College.
-
-*22*
+(3) The Principal shall confer the Awards, Qualifications and other distinctions of the College.
 
 (4) The Principal shall ensure that, insofar as it depends on him, the governing bodies are regularly constituted, and that he provides for the organisation of such elections required by this Act, including that they actually be held as established and without undue delay.
 
@@ -678,9 +608,7 @@ The Registrar shall:
 
 (f) keep the rolls of the members of the Board of Governors, the Vocational and Professional Council, Institute Boards of Studies, examiners and students;
 
-*23*
-
-TECHNOLOGY [CAP. 638. (g) keep records of the educational and training activities of each student;
+(g) keep records of the educational and training activities of each student;
 
 (h) be responsible, after consultation with the Deputy Principals, for suitable arrangements about the teaching time-table; and
 
@@ -708,11 +636,7 @@ The Institute Directors shall perform such functions as are assigned to them by 
 
 (1) The College may levy all fees, rates and other payments prescribed in its protocols or deemed to be prescribed by or under the Act and, or these regulations, or any other law related to the powers and functions of the College.
 
-(2) The College shall be paid by Government out of the [CAP.638. TECHNOLOGY
-
-Consolidated Fund such sums as Parliament authorises to be appropriated to meet the costs of specified works to be continued and for the day to day operation and management of the College.
-
-*24*
+(2) The College shall be paid by Government out of the Consolidated Fund such sums as Parliament authorises to be appropriated to meet the costs of specified works to be continued and for the day to day operation and management of the College.
 
 ### 28. Financial estimates.
 
@@ -734,11 +658,9 @@ Consolidated Fund such sums as Parliament authorises to be appropriated to meet 
 
 (3) Cheques against and withdrawals from any bank account of the College shall be signed by the Principal, or such other member or officer of the College as may be authorised by the Board of Governors of the College for that purpose.
 
-*25*
+### 30. Financial procedures.
 
-TECHNOLOGY [CAP. 638. 30. The College shall also make provision with respect to:
-
-*Financial procedures.*
+The College shall also make provision with respect to:
 
 (a) the manner in which, and the officer or officers by whom, payments are to be authorised or approved;
 
@@ -767,7 +689,3 @@ The proper official dress which the principal officers of the College academic s
 (1) With effect from the appointed day all property and undertakings shall, by virtue of this Act, and without further assurance, be transferred to, and shall vest in, the College under the same title by which they were held by the Government immediately before that day.
 
 (2) Such transfer shall extend to the whole of such public property and undertakings and shall include all lands and other property movable or immovable, assets, powers, rights, privileges and causes of action held or enjoyed in connection therewith or appertaining thereto.
-
-*26*
-
-[CAP.638. TECHNOLOGY

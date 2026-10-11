@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Wholesale Energy Market Integrity and Transparency (Enforcement Powers) Act (Cap. 610)
 
-*1*
-
-TRANSPARENCY (ENFORCEMENT POWERS) [CAP. 610.
-
 **CHAPTER 610**
 
 WHOLESALE ENERGY MARKET INTEGRITY AND TRANSPARENCY (ENFORCEMENT POWERS) ACT AN ACT to establish enforcement powers as required by articles 13, 14 and 18 of Regulation (EU) No. 1227/2011 of the European Parliament and of the Council of 25 October 2011 on wholesale energy market integrity and transparency.
@@ -47,11 +43,7 @@ For the purposes of this definition, "information" means:
 
 (c) information which is required to be disclosed in accordance with legal or regulatory provisions at Union or national level, market rules, and contracts or customs on the relevant wholesale energy market, in so far as this information is likely to have a significant effect on the prices of wholesale energy products; and
 
-(d) other information that a reasonable market participant would be likely to use as part of the basis of its [CAP.610. TRANSPARENCY (ENFORCEMENT POWERS)
-
-decision to enter into a transaction relating to, or to issue an order to trade in, a wholesale energy product.
-
-*2*
+(d) other information that a reasonable market participant would be likely to use as part of the basis of its decision to enter into a transaction relating to, or to issue an order to trade in, a wholesale energy product.
 
 Information shall be deemed to be of a precise nature if it indicates a set of circumstances which exists or may reasonably be expected to come into existence, or an event which has occurred or may reasonably be expected to do so, and if it is specific enough to enable a conclusion to be drawn as to the possible effect of that set of circumstances or event on the prices of wholesale energy products;
 
@@ -69,11 +61,7 @@ Information shall be deemed to be of a precise nature if it indicates a set of c
 
 When information is disseminated for the purposes of journalism or artistic expression, such dissemination of information shall be assessed taking into account the rules governing the freedom of the press and freedom of expression in other media, unless:
 
-(i) those persons derive, directly or indirectly, an advantage or profits from the TRANSPARENCY (ENFORCEMENT POWERS) [CAP. 610.
-
-dissemination of the information in question; or
-
-*3*
+(i) those persons derive, directly or indirectly, an advantage or profits from the dissemination of the information in question; or
 
 (ii) the disclosure or dissemination is made with the intention of misleading the market as to the supply of, demand for, or price of wholesale energy products;
 
@@ -113,11 +101,7 @@ The Regulator shall exercise the investigation and enforcement powers set out in
 
 ## 4. Power to demand access to documents and telephone records.
 
-(1) Without prejudice to any powers of the Regulator arising under any other law, in the exercise of his functions and powers under this Act, the Regulator shall have the power to [CAP.610. TRANSPARENCY (ENFORCEMENT POWERS)
-
-have access to any documentation in any form whatsoever and to receive a copy of it and to demand the aforesaid documentation from any person, including:
-
-*4*
+(1) Without prejudice to any powers of the Regulator arising under any other law, in the exercise of his functions and powers under this Act, the Regulator shall have the power to have access to any documentation in any form whatsoever and to receive a copy of it and to demand the aforesaid documentation from any person, including:
 
 (a) any person who is or was carrying on, or who appears to be or to have been carrying on a transaction or activity regulated or prohibited by any of the provisions of Regulation (EU) No. 1227/2011;
 
@@ -137,11 +121,7 @@ In both of the cases mentioned in paragraphs (a) and (b), the person addressed s
 
 (4) Where the person required to provide documentation under this article does not have the relevant documentation, he shall be obliged to promptly disclose to the Regulator where, to the best of his knowledge, that documentation may be found and the Regulator may require any person, whether indicated as aforesaid or not, who appears to him to be in possession of it, to provide such documentation.
 
-(5) Any person requested to provide information by virtue of sub-article (2), in particular the directors and managers, by whatever name designated, or any other persons who are or have been in charge of the operations or activities at issue shall assist and shall promptly collaborate with the Regulator in order to enable him to discharge his functions, and shall collate and transmit without any TRANSPARENCY (ENFORCEMENT POWERS) [CAP. 610.
-
-undue delay such information as the Regulator may reasonably request from time to time.
-
-*5*
+(5) Any person requested to provide information by virtue of sub-article (2), in particular the directors and managers, by whatever name designated, or any other persons who are or have been in charge of the operations or activities at issue shall assist and shall promptly collaborate with the Regulator in order to enable him to discharge his functions, and shall collate and transmit without any undue delay such information as the Regulator may reasonably request from time to time.
 
 ## 5. Power to demand information and assistance and to summon persons for hearing.
 
@@ -161,11 +141,7 @@ undue delay such information as the Regulator may reasonably request from time t
 
 ## 6. Power to appoint inspectors and to conduct on-site inspections. Cap. 545.
 
-(1) Without prejudice to any powers of the Regulator arising under the Regulator for Energy and Water Services Act and any other law, in the exercise of his powers under this Act, the Regulator may either act directly or he may act indirectly by appointing an inspector or inspectors being any officer or employee of the Regulator or any other person whom the Regulator deems competent for this purpose to investigate and report on the affairs of any person whose affairs or actions are being investigated in relation [CAP.610. TRANSPARENCY (ENFORCEMENT POWERS)
-
-to a possible breach of this Act.
-
-*6*
+(1) Without prejudice to any powers of the Regulator arising under the Regulator for Energy and Water Services Act and any other law, in the exercise of his powers under this Act, the Regulator may either act directly or he may act indirectly by appointing an inspector or inspectors being any officer or employee of the Regulator or any other person whom the Regulator deems competent for this purpose to investigate and report on the affairs of any person whose affairs or actions are being investigated in relation to a possible breach of this Act.
 
 (2) When appointing an inspector the Regulator may direct that the investigation shall be carried out within such time and shall be confined to such specific or general matters as the Regulator may deem fit.
 
@@ -187,11 +163,7 @@ Provided that where the inspector has reasonable cause to believe that if any no
 
 (b) be subject to professional secrecy.
 
-(5) Where the Regulator has appointed a person as inspector under this article, such person shall, for the purposes of carrying out his functions under his appointment, have all the powers conferred on the Regulator by this article and a requirement made by him shall be TRANSPARENCY (ENFORCEMENT POWERS) [CAP. 610.
-
-deemed to be and shall have the same force and effect as a requirement of the Regulator.
-
-*7*
+(5) Where the Regulator has appointed a person as inspector under this article, such person shall, for the purposes of carrying out his functions under his appointment, have all the powers conferred on the Regulator by this article and a requirement made by him shall be deemed to be and shall have the same force and effect as a requirement of the Regulator.
 
 (6) For the purposes of any action taken under the provisions of this article, the Regulator may request the assistance of the Commissioner of Police, who may for such purpose exercise such powers as are vested in him by law in relation to the investigation of criminal offences.
 
@@ -211,11 +183,7 @@ Provided that any person who feels aggrieved by an order served on him in terms 
 
 (2) A decision by the Regulator under this article may require anything to be done or be omitted to be done, or impose any prohibition, restriction or limitation, or any other requirement, and confer powers, with respect to any transaction or other act, or to any assets, or to any other thing whatsoever. Without prejudice to the generality of the aforesaid, an order may require the cessation of any practice that is contrary to the provisions of Regulation (EU) No. 1227/2011, the Regulator for Energy and Water Services Act and of this Act.
 
-(3) The power to issue decisions under this article shall include the power to vary, alter, add to or withdraw any such order, as [CAP.610. TRANSPARENCY (ENFORCEMENT POWERS)
-
-well as the power to issue new or further orders.
-
-*8*
+(3) The power to issue decisions under this article shall include the power to vary, alter, add to or withdraw any such order, as well as the power to issue new or further orders.
 
 (4) Without prejudice to the generality of the aforesaid, the Regulator may request the Court of Magistrates by means of an application to issue an order imposing on a person a temporary prohibition of professional activity. The application of the Regulator shall be acceded to, if the Court is satisfied -
 
@@ -239,11 +207,7 @@ well as the power to issue new or further orders.
 
 ## 8. Attachment orders.
 
-(1) Where, in the course of an investigation conducted pursuant to this Act, the Attorney General has, upon information received from the Regulator, reasonable cause to suspect that a person (hereinafter referred to as "the suspect") may be TRANSPARENCY (ENFORCEMENT POWERS) [CAP. 610.
-
-responsible for a breach of this Act, the Attorney General may apply to the Criminal Court for an order (hereinafter referred to as an "attachment order") -
-
-*9*
+(1) Where, in the course of an investigation conducted pursuant to this Act, the Attorney General has, upon information received from the Regulator, reasonable cause to suspect that a person (hereinafter referred to as "the suspect") may be responsible for a breach of this Act, the Attorney General may apply to the Criminal Court for an order (hereinafter referred to as an "attachment order") -
 
 (a) attaching in the hands of such persons (hereinafter referred to as "the garnishees") as are mentioned in the application all moneys and other movable property due or pertaining or belonging to the suspect;
 
@@ -263,13 +227,11 @@ responsible for a breach of this Act, the Attorney General may apply to the Crim
 
 Provided that the said period of thirty days shall be held in abeyance for such time as the suspect is away from Malta and the Attorney General informs of this fact the garnishee by notice in writing served in the manner provided for in sub-article (4).
 
-(6) In the course of any investigation of an offence in terms of article 13 the Executive Police may request to hear on oath any person who they believe may have information regarding such offence and the Magistrate shall forthwith hear that person on oath. [CAP.610. TRANSPARENCY (ENFORCEMENT POWERS)
+(6) In the course of any investigation of an offence in terms of article 13 the Executive Police may request to hear on oath any person who they believe may have information regarding such offence and the Magistrate shall forthwith hear that person on oath.
 
 *       Cap. 9.*
 
 (7) For the purpose of hearing on oath a person as provided in sub-article (6), the Magistrate shall have the same powers as are by law vested in the Court of Magistrates (Malta) or the Court of Magistrates (Gozo) as a court of criminal inquiry as well as the powers mentioned in article 554 of the Criminal Code:
-
-*10*
 
 Provided that such hearing shall always take place behind closed doors.
 
@@ -293,11 +255,7 @@ Any addressee shall promptly comply with any written order issued by the Crimina
 
 (2) A freezing order shall:
 
-(a) become operative and binding on all third parties TRANSPARENCY (ENFORCEMENT POWERS) [CAP. 610.
-
-immediately after it is made, and the Registrar of the Court shall cause a notice thereof to be published without delay in the Gazette, and shall also cause a copy thereof to be registered in the Public Registry in respect of immovable property; and
-
-*11*
+(a) become operative and binding on all third parties immediately after it is made, and the Registrar of the Court shall cause a notice thereof to be published without delay in the Gazette, and shall also cause a copy thereof to be registered in the Public Registry in respect of immovable property; and
 
 (b) remain in force until the final determination of the administrative or criminal proceedings against the person charged, as the case may be.
 
@@ -319,11 +277,7 @@ immediately after it is made, and the Registrar of the Court shall cause a notic
 
 (b) any authority, foreign authority or body carrying out similar or equivalent functions or which has the responsibility to monitor the market and to detect, prevent or prosecute acts related to market abuse, insider dealing, market manipulation and, or the Remit Regulation; and
 
-(c) any other local or foreign supervisory, [CAP.610. TRANSPARENCY (ENFORCEMENT POWERS)
-
-enforcement or judicial authorities whose functions include the detection, prevention or prosecution of acts related to market abuse, insider dealing, market manipulation and, or the Remit Regulation.
-
-*12*
+(c) any other local or foreign supervisory, enforcement or judicial authorities whose functions include the detection, prevention or prosecution of acts related to market abuse, insider dealing, market manipulation and, or the Remit Regulation.
 
 (2) The Regulator shall exercise powers by virtue of this article:
 
@@ -345,11 +299,7 @@ enforcement or judicial authorities whose functions include the detection, preve
 
 (c) where a final judgment has already been delivered in relation to such persons for the same actions in Malta.
 
-In any case above-mentioned, the Regulator shall notify TRANSPARENCY (ENFORCEMENT POWERS) [CAP. 610.
-
-the requesting foreign authority accordingly, providing as detailed information as possible on those proceedings or the judgment.
-
-*13*
+In any case above-mentioned, the Regulator shall notify the requesting foreign authority accordingly, providing as detailed information as possible on those proceedings or the judgment.
 
 (5) Where the Regulator is convinced that acts contrary to the provisions of the Remit Regulation are being, or have been, carried out on the territory of another Member State or EEA State, it shall give notice of that fact to the relevant foreign authority in as specific a manner as possible.
 
@@ -377,10 +327,6 @@ The Regulator may impose an administrative fine upon any person who infringes an
 
 (a) wilfully or through negligence acts in breach of any Remit Regulation requirement, any provision of this Act or of regulations made thereunder;
 
-*14*
-
-[CAP.610. TRANSPARENCY (ENFORCEMENT POWERS)
-
 (b) wilfully or through negligence breaches any decision or order made under this Act or of regulations made thereunder;
 
 (c) fails to comply with any decision or order made under this Act or of regulations made thereunder;
@@ -405,11 +351,7 @@ shall be guilty of an offence against this Act and shall, on conviction, be liab
 
 (d) in regard to the enforcement powers required by the Regulator to perform its functions under this Act;
 
-(e) for any aspect relating to the procedure and conditions that may be imposed in relation to any authorisation, registration or notification under this Act including where applicable the grant, renewal, transfer, suspension, cancellation and duration of any such authorisation, registration or notification, the manner in which applications for such authorisation, registration or notification TRANSPARENCY (ENFORCEMENT POWERS) [CAP. 610.
-
-is to be made, the content and form of such applications and how they may be granted, renewed or transferred, the fees payable, and the manner in which renewals or transfers thereof is to be indicated;
-
-*15*
+(e) for any aspect relating to the procedure and conditions that may be imposed in relation to any authorisation, registration or notification under this Act including where applicable the grant, renewal, transfer, suspension, cancellation and duration of any such authorisation, registration or notification, the manner in which applications for such authorisation, registration or notification is to be made, the content and form of such applications and how they may be granted, renewed or transferred, the fees payable, and the manner in which renewals or transfers thereof is to be indicated;
 
 (f) to give effect to any international obligation entered into by Government in relation to the Remit Regulation and to this Act;
 

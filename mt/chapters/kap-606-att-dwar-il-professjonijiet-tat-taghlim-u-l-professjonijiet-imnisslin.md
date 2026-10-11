@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Professjonijiet tat-Tagħlim u l-Professjonijiet Imnisslin Minnhom (Cap. 606)
 
-*1*
-
-PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
-
 **KAPITOLU 606**
 
 ATT DWAR IL-PROFESSJONIJIET TAT-TAGĦLIM U
@@ -51,11 +47,9 @@ F’dan l-Att sakemm ir-rabta tal-kliem ma teħtieġx mod ieħor:
 
 "edukatur fil-kindergarten", għall-finijiet ta’ dan l-Att, tfisser kull persuna responsabbli għall-edukazzjoni u ċ-childcare għal tfal tal-età ta’ tliet (3) snin sa ħames (5) snin;
 
-"edukatur ta’ għajnuna fit-tagħlim", għall-finijiet ta’ dan l-Att, tfisser kull persuna li tipprovdi assistenza diretta u f’waqtha lil studenti bi ħtiġiet individwali fi klassijiet u l-għalliema tagħhom; [KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
+"edukatur ta’ għajnuna fit-tagħlim", għall-finijiet ta’ dan l-Att, tfisser kull persuna li tipprovdi assistenza diretta u f’waqtha lil studenti bi ħtiġiet individwali fi klassijiet u l-għalliema tagħhom;
 
 "għalliem" tfisser persuna mħarrġa fl-għerf tal-proċess edukattiv u fl-użu tal-ħiliet pedagoġiċi b’mod li jkollha l-ħila toħloq ambjent li jimmotiva lil kull student u jirnexxilha tgħallmu b’mod effettiv billi tqanqallu l-aspirazzjonijiet tiegħu għall-ogħla valuri fil-ħajja u tgħinu jiżviluppa l-ħiliet kreattivi u ta’ ħsieb skont l-età, l-iżvilupp fiżiku, morali, soċjali, emozzjonali u intelletwali, u skont il-potenzjal tal-ħiliet u tat-talenti tiegħu bl-iskop aħħari li l-istudent jitħarreġ kif jitgħallem tul ħajtu:
-
-*2*
 
 Iżda, għall-finijiet ta’ din it-Taqsima, u sakemm mhux provdut xort’oħra f’xi liġi oħra, "għalliem" ma tinkludix edukatur fil-kindergarten jew edukatur ta’ għajnuna fit-tagħlim, għalliem fi skola għat-tagħlim ta’ lingwa bħala lingwa barranijia, jew persuna li tagħti servizz ta’ tagħlim f’oqsma kulturali, sportivi, u reliġjużi, sakemm dan it-tagħlim ma jkunx qed jingħata bħala parti integrali mill-edukazzjoni obbligatorja skont il-kurrikulu fi skola liċenzjata:
 
@@ -75,11 +69,7 @@ Iżda wkoll għalliem li kiseb Grad ta’ Baċellerat fl- Edukazzjoni fi Trobbij
 
 "Ministru" tfisser il-Ministru responsabbli għall-edukazzjoni f’Malta;
 
-"perjodu ta’ adattament" tfisser perjodu li matulu persuna tista’ teżerċita x-xogħol ta’ edukatur f’Malta taħt superviżjoni fi skola liċenzjata, jew b’xi mod ieħor skont kif jiddeċiedi il-Kunsill, u dan il-perjodu jista’ jinkludi l-għoti ta’ aktar taħriġ lil din il-persuna, kif PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
-
-jista’ jkun meħtieġ mill-Kunsill;
-
-*3*
+"perjodu ta’ adattament" tfisser perjodu li matulu persuna tista’ teżerċita x-xogħol ta’ edukatur f’Malta taħt superviżjoni fi skola liċenzjata, jew b’xi mod ieħor skont kif jiddeċiedi il-Kunsill, u dan il-perjodu jista’ jinkludi l-għoti ta’ aktar taħriġ lil din il-persuna, kif jista’ jkun meħtieġ mill-Kunsill;
 
 "professjonijiet imnisslin", għall-finijiet ta’ dan l-Att, tfisser edukaturi fil-kindergartens u edukatur ta’ għajnuna fit-tagħlim li jkollhom warrant jew liċenzja jew liċenzja temporanja;
 
@@ -107,11 +97,7 @@ jista’ jkun meħtieġ mill-Kunsill;
 
 (ċ) erba’ (4) għalliema reġistrati li jkunu ilhom jipprattikaw il-professjoni ta’ għalliem għal mhux inqas minn tmien (8) snin, eletti minn u minn fost l-għalliema reġistrati kollha, hekk iżda li tnejn (2) minnhom jkunu qed jgħallmu fil-livell primarju u t-tnejn (2) l-oħra jkunu qed jgħallmu fil-livell sekondarju u, jew fil-livell medju tal-edukazzjoni, u li f’kull każ wieħed ikun jgħallem fis-settur tal-iskejjel tal-Istat u l-ieħor fis-settur tal-iskejjel mhux Statali, u għall-finijiet ta’ dan il-paragrafu l-votazzjoni għall-elezzjoni ta’ dawn il-membri ssir skont dawk il-proċeduri kif jista’ jiġi preskritt;
 
-(d) żewġ (2) edukaturi reġistrati minn fost l- [KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
-
-edukaturi reġistrati li jkunu pprattikaw bħala edukaturi għal mhux inqas minn tmien (8) snin, nominati mit-trade union li tirrappreżenta l-maġġoranza ta’ edukaturi;
-
-*4*
+(d) żewġ (2) edukaturi reġistrati minn fost l-edukaturi reġistrati li jkunu pprattikaw bħala edukaturi għal mhux inqas minn tmien (8) snin, nominati mit-trade union li tirrappreżenta l-maġġoranza ta’ edukaturi;
 
 (e) edukatur wieħed (1) fil-kindergarten li jkun ilu jipprattika l-professjoni għal mhux inqas minn tmien (8) snin, elett minn u minn fost l-edukaturi fil-kindergartens reġistrati kollha, hekk iżda li, għall-finijiet ta’ dan il-paragrafu, il-votazzjoni għall-elezzjoni ta’ dan il-membru ssir skont dawk il-proċeduri kif jista’ jiġi preskritt:
 
@@ -130,10 +116,6 @@ Iżda fir-rigward tal-ewwel ħatra, "edukatur ta’ għajnuna fit-tagħlim" tfis
 (j) ġenitur nominat mill-assoċjazzjonijiet tal-ġenituri.
 
 (2) In-nominazzjonijiet magħmulin skont id-dispożizzjonijiet tas-subartikolu (1) għandhom, għall-ewwel darba, isiru fi żmien ġimagħtejn minn talba bil-miktub għal dan mill- Ministru, u għal kull nominazzjoni sussegwenti, fi żmien xahar minn meta jkun hemm xi vakanza jew meta l-vakanza tinħoloq minħabba t-tmiem ta’ terminu ta’ kariga, fi żmien xahar qabel dan it-tmiem imsemmi. Fl-assenza ta’ nominazzjoni bħal din, il-Ministru għandu jaħtar persuna minn fost l-għalliema jew il-ġenituri, skont il-każ.
-
-*5*
-
-PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
 
 (3) Meta tinħoloq xi vakanza ta’ xi membru elett skont is-subartikolu (1)(ċ), (e) u (f), fejn possibbli, il-Ministru għandu jaħtar il-persuna li tkun ġiet it-tieni fl-elezzjonijiet li jkunu saru għal dan il-għan, u kull persuna li tiġi hekk maħtura tibqa’ żżomm il-kariga sa tmiem it-terminu tal-kariga tal-persuna li tkun qiegħda tiġi sostitwita.
 
@@ -161,11 +143,7 @@ PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
 
 (f) iżomm reġistru uffiċjali tal-għalliema kollha reġistrati u reġistru ieħor ta’ dawk li jkollhom warrant temporanju, u reġistru ieħor għal dawk li jkollhom liċenzja temporanja speċjalizzata, u li fihom jitniżżlu kull sospensjoni, kanċellament u għoti mill-ġdid ta’ warrant jew ta’ warrant temporanju jew ta’ liċenzja temporanja speċjalizzata;
 
-(g) iżomm reġistru uffiċjali tal-edukaturi kollha fil- [KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
-
-kindergartens reġistrati u reġistru ieħor ta’ dawk li jkollhom liċenzja temporanja jew warrant temporanju, u li fihom jitniżżlu kull sospensjoni, kanċellament u għoti mill-ġdid ta’ warrant jew ta’ liċenzja jew ta’ liċenzja temporanja jew ta’ warrant temporanju;
-
-*6*
+(g) iżomm reġistru uffiċjali tal-edukaturi kollha fil-kindergartens reġistrati u reġistru ieħor ta’ dawk li jkollhom liċenzja temporanja jew warrant temporanju, u li fihom jitniżżlu kull sospensjoni, kanċellament u għoti mill-ġdid ta’ warrant jew ta’ liċenzja jew ta’ liċenzja temporanja jew ta’ warrant temporanju;
 
 (h) iżomm reġistru uffiċjali tal-edukaturi kollha ta’ għajnuna fit-tagħlim reġistrati u reġistru ieħor ta’ dawk li jkollhom liċenzja temporanja jew warrant temporanju, u li fihom jitniżżlu kull sospensjoni, kanċellament u għoti mill-ġdid ta’ warrant jew ta’ liċenzja jew ta’ liċenzja temporanja jew ta’ warrant temporanju;
 
@@ -187,11 +165,9 @@ kindergartens reġistrati u reġistru ieħor ta’ dawk li jkollhom liċenzja te
 
 (3) Il-Kunsill għandu, fit-twettiq tal-funzjonijiet tiegħu, jikkonsidra l-interess pubbliku.
 
-*7*
+## 5. Proċeduri tal- Kunsill.
 
-PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606. 5. (1) Il-laqgħat tal-Kunsill għandhom jissejħu mill- President u l-Kunsill għandu jiltaqa’ kemm ikun jinħtieġ, imma għall-inqas darba kull xahar.
-
-*Proċeduri tal- Kunsill.*
+(1) Il-laqgħat tal-Kunsill għandhom jissejħu mill- President u l-Kunsill għandu jiltaqa’ kemm ikun jinħtieġ, imma għall-inqas darba kull xahar.
 
 (2) In-numru ta’ membri preżenti biex jintlaħaq quorum fil-laqgħat tal-Kunsill għandu jkun ta’ nofs in-numru ta’ membri u membru ieħor, imma, bla ħsara għall-preżenza ta’ quorum, il-Kunsill jista’ jaġixxi minkejja kull vakanza fost il-membri tiegħu.
 
@@ -215,11 +191,7 @@ PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606. 5. (1) Il-laqgħat tal-Kunsill għa
 
 (2) Kull bord ta’ inkjesta hekk imwaqqaf ikun magħmul mill-President tal-Kunsill u mill-anqas minn erba’ (4) membri oħra tal-Kunsill.
 
-(3) Għall-finijiet ta’ dan l-artikolu, it-termini "imġiba ħażina professjonali", "negliġenza kbira", jew "inkompetenza" m’għandhomx ikunu limitati għal kwalunkwe waħda minn dawn li [KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
-
-ġejjin:
-
-*8*
+(3) Għall-finijiet ta’ dan l-artikolu, it-termini "imġiba ħażina professjonali", "negliġenza kbira", jew "inkompetenza" m’għandhomx ikunu limitati għal kwalunkwe waħda minn dawn li ġejjin:
 
 (a) kontravvenzjoni kontra l-Kodiċi ta’ Etika stabbilit taħt dan l-Att;
 
@@ -245,11 +217,7 @@ PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606. 5. (1) Il-laqgħat tal-Kunsill għa
 
 (6) Il-bord ta’ inkjesta għandu jagħti r-raġunijiet għad-deċiżjoni tiegħu.
 
-(7) (a) Wara li jkun kkunsidra r-rakkomandazzjonijiet u l-eżiti tal-bord ta’ inkjesta, il-Kunsill għandu jieħu deċiżjoni dwar il-kwistjoni li kienet is-suġġett tal-inkjesta. Dik id-deċiżjoni għandu PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
-
-jkollha l-appoġġ ta’ mill-inqas għaxra (10) mill-membri tal-Kunsill.
-
-*9*
+(7) (a) Wara li jkun kkunsidra r-rakkomandazzjonijiet u l-eżiti tal-bord ta’ inkjesta, il-Kunsill għandu jieħu deċiżjoni dwar il-kwistjoni li kienet is-suġġett tal-inkjesta. Dik id-deċiżjoni għandu jkollha l-appoġġ ta’ mill-inqas għaxra (10) mill-membri tal-Kunsill.
 
 (b) Id-deċiżjoni tal-Kunsill għandha tiġi nnotifikata lill-persuna li kienet is-suġġett tal-inkjesta. Deċiżjoni fejn warrant jew liċenzja jiġu sospiżi jew ikkanċellati għandha wkoll tiġi nnotifikata, skont kif ikun il-każ, lil min iħaddem u lill-Kap tal- Iskola.
 
@@ -270,10 +238,6 @@ jkollha l-appoġġ ta’ mill-inqas għaxra (10) mill-membri tal-Kunsill.
 (3) (a) Mingħajr preġudizzju għad-dispożizzjonijiet tas-subartikolu (2) u għal kull dispożizzjoni oħra ta’ din il-liġi jew ta’ xi liġi oħra, it-Tribunal ta’ Reviżjoni Amministrattiva jista’, meta’ jsir rikors, jordna li s-sospensjoni jew il-kanċellament tal-warrant jew tal-liċenzja jiġu revokati sakemm tingħata d-deċiżjoni finali dwar kull appell.
 
 (b) Fejn it-Tribunal ta’ Reviżjoni Amministrattiva jordna r-revoka tas-sospensjoni jew il-kanċellament sakemm tingħata d-deċiżjoni finali dwar l-appell, it-Tribunal jista’ jordna li dik is-sospensjoni jew dak il-kanċellament jerġgħu jiġu imposti fid-deċiżjoni finali tiegħu.
-
-*10*
-
-[KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
 
 ## 9. Referenza lill- Pulizija Eżekuttiva.
 
@@ -307,11 +271,7 @@ Il-Kunsill jista’, minn fost il-membri tiegħu, iwaqqaf gruppi ta’ ħidma li
 
 (i) kompetenzi fit-teorija tal-edukazzjoni u fil-metodoloġija f’qasam ta’ studju wieħed jew aktar li huma disponibbli fl-iskejjel medji, sekondarji u post-sekondarji jew fil-metodoloġija ta’ suġġetti offruti fl-ambjent primarju u, jew fl-istadju bikri ta’ edukazzjoni tat-tfal; u
 
-(ii) minimu ta’ perjodu totali ta’ tlettax-il PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
-
-(13) ġimgħa, jew l-istess ekwivalenti fin-numru ta’ ġranet tax-xogħol, ta’ pjazzament sorveljat fuq ix-xogħol fi skola liċenzjata; u
-
-*11*
+(ii) minimu ta’ perjodu totali ta’ tlettax-il (13) ġimgħa, jew l-istess ekwivalenti fin-numru ta’ ġranet tax-xogħol, ta’ pjazzament sorveljat fuq ix-xogħol fi skola liċenzjata; u
 
 (iii) komponent ta’ riċerka addizzjonali, sorveljat adegwatament u mwettaq skont proċeduri stabbiliti ta’ riċerka fuq l-etika, li jinkludi dissertazzjoni, proġett ta’ riċerka jew komponent/i ta’ riċerka ekwivalenti għall-istandard tal-Qafas Malti tal-Kwalifiki li għalih jiġu assenjati mhux inqas minn 15 ECTS:
 
@@ -327,11 +287,7 @@ Iżda persuna li ġġib prova li għandha tliet (3) snin esperjenza ta’ tagħl
 
 *L.S. 451.03*
 
-Iżda fejn ir-Regolamenti dwar ir-Rikonoxximent [KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
-
-Reċiproku ta’ Kwalifiki Professjonali ma jkunux japplikaw, il- Kunsill jista’ jeħtieġ lill-applikant jgħaddi minn perjodu ta’ adattament u jista’ wkoll jissottometti lill-applikant għal test ta’ profiċjenza u, jew għal perjodu ta’ prattika fit-tagħlim ta’ mhux inqas minn sitt (6) ġimgħat.
-
-*12*
+Iżda fejn ir-Regolamenti dwar ir-Rikonoxximent Reċiproku ta’ Kwalifiki Professjonali ma jkunux japplikaw, il- Kunsill jista’ jeħtieġ lill-applikant jgħaddi minn perjodu ta’ adattament u jista’ wkoll jissottometti lill-applikant għal test ta’ profiċjenza u, jew għal perjodu ta’ prattika fit-tagħlim ta’ mhux inqas minn sitt (6) ġimgħat.
 
 ## 12. Liċenzja speċjalizzata.
 
@@ -359,11 +315,7 @@ Reċiproku ta’ Kwalifiki Professjonali ma jkunux japplikaw, il- Kunsill jista�
 
 (e) ikollha kwalifika sħiħa ta’ livell 6 jew ogħla tal- Qafas Malti tal-Kwalifiki fl-edukazzjoni u ċ-childcare ta’ tfal żgħar, jew kwalifika komparabbli li għandu jkun fiha komponent ta’ prattika ta’ tagħlim u komponent pedagoġiku. Il-kwalifika għandha tinkludi:
 
-(i) minimu ta’ 180 ECTS/ECVETS jew l-ekwivalenti tagħhom u l-kwalifika għandha wkoll tinkludi komponent ta’ prattika ta’ taħriġ li jkollu valur PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
-
-ta’ mill-inqas 16 ECTS/ECVETS jew l-ekwivalenti tagħhom, ma’ gruppi ta’ tfal li qed jitgħallmu tal-età ta’ bejn tliet (3) snin u ħames (5) snin; u
-
-*13*
+(i) minimu ta’ 180 ECTS/ECVETS jew l-ekwivalenti tagħhom u l-kwalifika għandha wkoll tinkludi komponent ta’ prattika ta’ taħriġ li jkollu valur ta’ mill-inqas 16 ECTS/ECVETS jew l-ekwivalenti tagħhom, ma’ gruppi ta’ tfal li qed jitgħallmu tal-età ta’ bejn tliet (3) snin u ħames (5) snin; u
 
 (ii) liċenzja ta’ edukatur fil-kindergarten; jew
 
@@ -390,10 +342,6 @@ ta’ mill-inqas 16 ECTS/ECVETS jew l-ekwivalenti tagħhom, ma’ gruppi ta’ t
 (ii) fil-każ ta’ edukaturi fil-kindergarten li jkunu qed jaħdmu fil-waqt meta dan l-Att jidħol fis-seħħ, ċertifikat minn kap ta’ skola li jiċċertifika li l-applikant ikun kiseb esperjenza adegwata fil-prattika tal-professjoni ta’ edukatur fil-kindergarten għal perjodu ta’ sentejn; jew
 
 (iii) il-persuna għandha tissodisfa lill-Kunsill li hi tkun kisbet esperjenza adegwata taħt superviżjoni bħala edukatur fil-kindergarten fi skola liċenzjata għal perjodu ta’ mill-inqas sentejn skolastiċi.
-
-*14*
-
-[KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
 
 *  Kap. 451.*
 
@@ -423,10 +371,6 @@ ta’ mill-inqas 16 ECTS/ECVETS jew l-ekwivalenti tagħhom, ma’ gruppi ta’ t
 
 (iii) fil-każ edukatur ta’ għajnuna fit-tagħlim li jkun qed jaħdem fil-waqt meta dan l-Att jidħol fis-seħħ, ċertifikat minn kap ta’ skola li jiċċertifika li l-applikant ikun kiseb esperjenza adegwata fil-prattika tal-professjoni ta’ edukatur ta’ għajnuna fit-tagħlim għal perjodu ta’ sentejn; jew
 
-*15*
-
-PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
-
 (iv) il-persuna għandha tissodisfa lill-Kunsill li hi tkun kisbet esperjenza adegwata taħt superviżjoni bħala edukatur ta’ għajnuna fit-tagħlim fi skola liċenzjata għal perjodu ta’ mill-inqas sentejn skolastiċi.
 
 *(3) persuna:*
@@ -455,17 +399,13 @@ Persuna tikkwalifika biex tikseb liċenzja sakemm dik il-
 
 (i) fil-każ ta’ persuni diġà impjegati bħala edukaturi ta’ għajnuna fit-tagħlim fil-waqt meta dan l- Att jidħol fis-seħħ, il-persuna għandha tkun fil-pussess ta’ ċertifikat minn kap ta’ skola li jiċċertifika li l-applikant ikun kiseb esperjenza adegwata fil-prattika tal-professjoni ta’ edukatur ta’ għajnuna fit-tagħlim għal perjodu ta’ sentejn; jew
 
-(ii) il-persuna għandha tissodisfa lill-Kunsill [KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
-
-li hi tkun kisbet esperjenza adegwata taħt superviżjoni bħala edukatur ta’ għajnuna fit-tagħlim fi skola liċenzjata għal perjodu ta’ mill-inqas sentejn skolastiċi. (4) Mingħajr preġudizzju għal kwalunkwe dispożizzjoni tal- Att dwar ir-Rikonoxximent Reċiproku ta’ Kwalifiki, jew regolamenti magħmulin taħtu, fejn il-kwalifika fl-edukazzjoni inklużiva tkun taħt il-livell 6 jew il-livell 5 tal-Qafas Malti tal-Kwalifiki, kif ikun il-każ, jew fejn il-komponenti tal-prattika pedagoġika u ta’ tagħlim huma anqas minn dawk meħtieġa fis-subartikoli (2)(e)(i) jew (3)(e)(i), jew fejn l-applikant ma jkollux l-esperjenza suffiċjenti fil-prattika tal-professjoni kif meħtieġ bis-subartikoli (2)(e)(ii) jew (3)(f), il-Kunsill jista’ jimponi li l-applikant jgħaddi minn perjodu ta’ adattament, li ma jkunx aktar mid-doppju ta’ dak li jkun nieqes kif il-Kunsill jista’ jispeċifika. Barra minn dan il-Kunsill jista’ wkoll jissottometti lill-applikant għal test ta’ profiċjenza.
-
-*16*
-
-*  Kap. 451.*
+(ii) il-persuna għandha tissodisfa lill-Kunsill li hi tkun kisbet esperjenza adegwata taħt superviżjoni bħala edukatur ta’ għajnuna fit-tagħlim fi skola liċenzjata għal perjodu ta’ mill-inqas sentejn skolastiċi. (4) Mingħajr preġudizzju għal kwalunkwe dispożizzjoni tal- Att dwar ir-Rikonoxximent Reċiproku ta’ Kwalifiki, jew regolamenti magħmulin taħtu, fejn il-kwalifika fl-edukazzjoni inklużiva tkun taħt il-livell 6 jew il-livell 5 tal-Qafas Malti tal-Kwalifiki, kif ikun il-każ, jew fejn il-komponenti tal-prattika pedagoġika u ta’ tagħlim huma anqas minn dawk meħtieġa fis-subartikoli (2)(e)(i) jew (3)(e)(i), jew fejn l-applikant ma jkollux l-esperjenza suffiċjenti fil-prattika tal-professjoni kif meħtieġ bis-subartikoli (2)(e)(ii) jew (3)(f), il-Kunsill jista’ jimponi li l-applikant jgħaddi minn perjodu ta’ adattament, li ma jkunx aktar mid-doppju ta’ dak li jkun nieqes kif il-Kunsill jista’ jispeċifika. Barra minn dan il-Kunsill jista’ wkoll jissottometti lill-applikant għal test ta’ profiċjenza.
 
 ## 15. Warrant temporanju u liċenzja temporanja.
 
 Minkejja kull ħaġa li tinsab fid-dispożizzjonijiet ta’ dan l-Att, il-Kunsill jista’ joħroġ warrant temporanju u, jew liċenzja temporanja, li jkollhom perjodu ta’ validità kif jista’ jkun stabbilit mill-Kunsill, u li jkunu jistgħu jiġġeddu għal kull persuna li, skont id-diskrezzjoni tal-Kunsill, ikollha l-profiċjenza meħtieġa biex tipprattika bħala edukatur f’Malta
+
+*  Kap. 451.*
 
 ## 16. Applikazzjoni għal warrant jew liċenzja temporanja jew liċenzja u ż-żamma tagħhom.
 
@@ -475,11 +415,7 @@ Iżda applikazzjoni li ssir taħt dan l-artikolu ma titqiesx li ntbagħtet minn 
 
 (2) Id-deċiżjoni tal-Kunsill li biha warrant, jew warrant temporanju, jew liċenzja temporanja speċjalizzata jew liċenzja jew liċenzja temporanja, kif ikun il-każ, tkun sospiża jew kanċellata għandha tiġi notifikata bil-miktub lid-detentur tal-warrant jew tal-liċenzja, kif ikun il-każ, u lill-iskejjel liċenzjati kollha.
 
-(3) Persuna ma tikkwalifikax għall-kisba jew iż-żamma ta’ warrant jew warrant temporanju, jew liċenzja temporanja speċjalizzata jew liċenzja jew liċenzja temporanja, skont id-dispożizzjonijiet ta’ dan l-Att jekk dik il-persuna tkun instabet ħatja minn xi qorti ta’ ġuriżdizzjoni kriminali ta’ xi reat li minħabba fih dik il-persuna ma tistax, fl-opinjoni tal-Kunsill, tkun idonea biex PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
-
-tipprattika bħala edukatur.
-
-*17*
+(3) Persuna ma tikkwalifikax għall-kisba jew iż-żamma ta’ warrant jew warrant temporanju, jew liċenzja temporanja speċjalizzata jew liċenzja jew liċenzja temporanja, skont id-dispożizzjonijiet ta’ dan l-Att jekk dik il-persuna tkun instabet ħatja minn xi qorti ta’ ġuriżdizzjoni kriminali ta’ xi reat li minħabba fih dik il-persuna ma tistax, fl-opinjoni tal-Kunsill, tkun idonea biex tipprattika bħala edukatur.
 
 (4) Fejn persuna titlef il-warrant, jew warrant temporanju, jew liċenzja temporanja speċjalizzata jew liċenzja jew liċenzja temporanja tagħha wara xi kundanna kif imsemmi fis-subartikolu (3), għandha tingħata notifika dwar dik it-tneħħija mill-Kunsill fil- Gazzetta u għandha tiġi kkomunikata mill-Kunsill lill-persuna skwalifikata, sakemm dik il-persuna ma tkunx ġiet interdetta bis-sentenza nnifisha, u lill-iskejjel liċenzjati kollha.
 
@@ -501,10 +437,6 @@ Iżda malli jibdew il-proċeduri, il-Qorti tista’ tissospendi l-warrant jew il
 
 (2) Kull persuna li, waqt li ma tkunx detentur ta’ warrant ta’ għalliem, jew liċenzja temporanja speċjalizzata jew warrrant temporanju maħruġa taħt dan l-Att, tipprattika l-professjoni ta’ għalliem bi ksur tad-dispożizzjonijiet ta’ dan l-Att jew xi Att ieħor, tkun ħatja ta’ reat kontra dan l-Att.
 
-*18*
-
-[KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
-
 (3) Kull persuna li, waqt li ma tkunx detentur ta’ warrant jew liċenzja, jew liċenzja temporanja ta’ edukatur fil-kindergarten maħruġa skont dan l-Att, tipprattika l-professjoni ta’ edukatur fil-kindergarten bi ksur tad-dispożizzjonijiet ta’ dan l-Att jew xi Att ieħor, tkun ħatja ta’ reat kontra dan l-Att.
 
 (4) Kull persuna li, waqt li ma tkunx detentur ta’ warrant, liċenzja, jew liċenzja temporanja ta’ edukatur ta’ għajnuna fit-tagħlim maħruġa taħt dan l-Att, tipprattika l-professjoni ta’ edukatur ta’ għajnuna fit-tagħlim bi ksur tad-dispożizzjonijiet ta’ dan l-Att jew xi Att ieħor, tkun ħatja ta’ reat kontra dan l-Att.
@@ -517,11 +449,7 @@ Iżda għall-finijiet ta’ din id-dispożizzjoni u bla ħsara għal dawk ir-reg
 
 Iżda għall-finijiet ta’ din id-dispożizzjoni u bla ħsara għal dawk ir-regolamenti li jistgħu jiġu preskritti, persuna jew xi organizzazzjoni oħra ma għandhomx jitqiesu ħatja ta’ ksur ta’ din id-dispożizzjoni jekk dik il-persuna, li ma tkunx edukatur fil-kindergarten reġistrat jew ma tkunx detentur ta’ liċenzja temporanja ta’ edukatur fil-kindergarten, tkun applikat għand il-Kunsill għall-ħruġ ta’ liċenzja jew liċenzja temporanja ta’ edukatur fil-kindergarten, jew tkun qed teżerċita l-professjoni ta’ edukatur fil-kindergarten waqt perjodu ta’ adattament jew waqt taħriġ, f’kull każ taħt superviżjoni fi skola liċenzjata jew b’xi mod ieħor kif il-Kunsill jista’ jiddeċiedi.
 
-(7) Kull persuna jew xi organizzazzjoni oħra li timpjega persuna li ma tkunx edukatur ta’ għajnuna fit-tagħlim reġistrat jew li ma tkunx detentur ta’ liċenzja temporanja ta’ edukatur ta’ għajnuna PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606.
-
-fit-tagħlim sabiex teżerċita l-professjoni ta’ edukatur ta’ għajnuna fit-tagħlim tkun ħatja ta’ reat:
-
-*19*
+(7) Kull persuna jew xi organizzazzjoni oħra li timpjega persuna li ma tkunx edukatur ta’ għajnuna fit-tagħlim reġistrat jew li ma tkunx detentur ta’ liċenzja temporanja ta’ edukatur ta’ għajnuna fit-tagħlim sabiex teżerċita l-professjoni ta’ edukatur ta’ għajnuna fit-tagħlim tkun ħatja ta’ reat:
 
 Iżda għall-finijiet ta’ din id-dispożizzjoni u bla ħsara għal dawk ir-regolamenti li jistgħu jiġu preskritti, persuna jew xi organizzazzjoni oħra ma għandhomx jitqiesu ħatja ta’ ksur ta’ din id-dispożizzjoni jekk dik il-persuna, li ma tkunx edukatur ta’ għajnuna fit-tagħlim jew ma tkunx detentur ta’ liċenzja temporanja ta’ edukatur ta’ għajnuna fit-tagħlim, tkun applikat għand il-Kunsill għall-ħruġ ta’ liċenzja jew liċenzja temporanja ta’ edukatur ta’ għajnuna fit-tagħlim, jew tkun qed teżerċita l-professjoni ta’ edukatur ta’ għajnuna fit-tagħlim waqt perjodu ta’ adattament jew waqt taħriġ, f’kull każ taħt superviżjoni fi skola liċenzjata jew b’xi mod ieħor kif il-Kunsill jista’ jiddeċiedi.
 
@@ -545,12 +473,6 @@ Id-dispożizzjonijiet ta’ dan l-Att ma japplikawx għal għalliem fi skola li 
 
 Il-Ministru jista’, wara konsultazzjoni mal-Kunsill, jagħmel regolamenti li ma jkunux inkonsistenti mad-dispożizzjonijiet ta’ dan l-Att, biex jagħti effett aħjar lil kull waħda jew aktar minn tali dispożizzjonijiet u b’mod ġenerali biex jirregola l-professjoni tal-għalliema u x-xogħol ta’ edukaturi fil-kindergarten u edukaturi ta’ għajnuna fit-tagħlim, u, mingħajr preġudizzju għall-ġeneralità ta’ dak kollu li ntqal qabel, dawn ir-regolamenti jistgħu b’mod partikolari jinkludu dispożizzjonijiet dwar:
 
-**PROFESSJONIJIET IMNISSLIN MINNHOM**
-
-*[KAP. 606.*
-
-*20*
-
 (a) it-twaqqif ta’ kwalifiki meħtieġa għall-kisba ta’ warrant temporanju, liċenzja temporanja speċjalizzata jew liċenzja temporanja skont id-dispożizzjonijiet ta’ dan l-Att;
 
 (b) it-twaqqif ta’ standards, prattiċi, proċeduri, u dmirijiet oħra fl-eżerċizzju tal-professjoni u xogħol ta’ edukatur;
@@ -573,11 +495,9 @@ Il-Ministru jista’, wara konsultazzjoni mal-Kunsill, jagħmel regolamenti li m
 
 (k) kull materja li tinħtieġ jew li tkun awtorizzata b’dan l-Att li tkun preskritta.
 
-*21*
+## 23. Dispożizzjoni-jiet transitorji fir-rigward ta’ warrants ta’ għalliema. Kap. 327. Kap. 327. Kap. 605.
 
-PROFESSJONIJIET IMNISSLIN MINNHOM [KAP. 606. 23. (1) Kull persuna li, fid-data tal-bidu fis-seħħ ta’ dan l-Att, għandha warrant miksub taħt id-dispożizzjonijiet tal-Att dwar l-Edukazzjoni, qabel ma l-istess Att dwar l-Edukazzjoni ġie mħassar bl-Att dwar l-Edukazzjoni, għandha titiqies li hi detentur ta’ warrant bl-istess drittijiet u obbligi bħallikieku dak il-warrant kien inħareġ skont id-dispożizzjonijiet u l-kondizzjonijiet ta’ dan l-Att.
-
-*Dispożizzjoni-jiet transitorji fir-rigward ta’ warrants ta’ għalliema. Kap. 327. Kap. 327. Kap. 605.*
+(1) Kull persuna li, fid-data tal-bidu fis-seħħ ta’ dan l-Att, għandha warrant miksub taħt id-dispożizzjonijiet tal-Att dwar l-Edukazzjoni, qabel ma l-istess Att dwar l-Edukazzjoni ġie mħassar bl-Att dwar l-Edukazzjoni, għandha titiqies li hi detentur ta’ warrant bl-istess drittijiet u obbligi bħallikieku dak il-warrant kien inħareġ skont id-dispożizzjonijiet u l-kondizzjonijiet ta’ dan l-Att.
 
 * Kap. 327. Kap. 605.*
 
@@ -596,10 +516,6 @@ Iżda persuni li fil-waqt tal-bidu fis-seħħ ta’ dan l-Att ikunu diġà ssodi
 (1) Mal-bidu fis-seħħ ta’ dan l-Att, il-kliem u l-frażijiet imsemmija fit-tielet kolonna tal-Ewwel Skeda, liema kliem u frażijiet jinsabu fid-dispożizzjonijiet speċifikati fit-tieni kolonna tal-istess Skeda, liema dispożizzjonijiet jinsabu fil-liġijiet imsemmija fl-ewwel kolonna tal-istess Skeda, għandhom jiġu emendati skont l-emendi msemmija fir-raba’ kolonna ta’ dik l-Iskeda.
 
 (2) Mal-bidu fis-seħħ ta’ dan l-Att, il-leġiżlazzjoni sussidjarja elenkata fl-ewwel kolonna tat-Tieni Skeda għandha titqies li saret taħt id-dispożizzjonijiet korrispondenti ta’ dan l-Att, u għandha tiġi enumerata mill-ġdid skont hekk kif speċifikat fit-tielet kolonna tal-imsemmija Skeda.
-
-*22*
-
-[KAP. 606. PROFESSJONIJIET IMNISSLIN MINNHOM
 
 ## L-EWWEL SKEDA
 

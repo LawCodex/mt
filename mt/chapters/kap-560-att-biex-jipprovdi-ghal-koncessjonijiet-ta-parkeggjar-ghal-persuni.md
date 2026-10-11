@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att biex jipprovdi għal Konċessjonijiet ta’ Parkeġġjar għal Persuni b’Diżabilità (Cap. 560)
 
-*1*
-
-PERSUNI B’DIŻABILITÀ [KAP. 560.
-
 **KAPITOLU 560**
 
 **ATT BIEX JIPPROVDI GĦAL KONĊESSJONIJIET**
@@ -121,10 +117,6 @@ KAP. 560.] PERSUNI B’DIŻABILITÀ
 
 (1) Għandha tkun ir-responsabilità tal-Awtorità dwar it- Trasport f’Malta sabiex toħloq spazji apposta ta’ parkeġġ f’żoni ta’ parkeġġ u f’toroq pubbliċi:
 
-*3*
-
-PERSUNI B’DIŻABILITÀ [KAP. 560.
-
 Iżda meta żona ta’ parkeġġ ma tkunx miftuħa għall-pubbliku, għandu jkun hemm allokazzjoni xierqa ta’ spazji apposta ta’ parkeġġ għal persuni b’diżabilità li frekwentement ikunu f’dik iż-żona.
 
 (2) Il-Kunsilli Lokali jistgħu joħolqu aktar spazji apposta ta’ parkeġġ skont skemi eżistenti ta’ parkeġġi lokali u jagħtu aktar konċessjonijiet ma’ dawk li diġà ngħataw taħt dan l-Att lid-detenturi, bil-kondizzjoni li l-Awtorità dwar it-Trasport f’Malta tapprova tali konċessjonijiet.
@@ -201,11 +193,7 @@ Iżda wkoll il-Kummissarju għad-Drittijiet ta’ Persuni b’Diżabilità għan
 
 Iżda f’każ li l-Blue Badge tkun tħassret, id-detentur għandu jagħtiha lura qabel ma tinħareġ il-Blue Badge temporanja.
 
-(3) Is-sostituzzjoni tal-Blue Badge li tkun mitlufa, misruqa, distrutta jew imħassra għandha tinħareġ mill-uffiċjal awtorizzat bil-kondizzjoni li l-Blue Badge temporanja tkun ġiet mogħtija lura PERSUNI B’DIŻABILITÀ [KAP. 560.
-
-lill-uffiċjal awtorizzat.
-
-*5*
+(3) Is-sostituzzjoni tal-Blue Badge li tkun mitlufa, misruqa, distrutta jew imħassra għandha tinħareġ mill-uffiċjal awtorizzat bil-kondizzjoni li l-Blue Badge temporanja tkun ġiet mogħtija lura lill-uffiċjal awtorizzat.
 
 (4) Blue Badge tkun meqjusa li ntilfet meta l-uffiċjal awtorizzat ikun sodisfatt li din mhijiex rekuperabbli.
 
@@ -279,11 +267,7 @@ tkun ħatja ta’ reat kontra d-dispożizzjonijiet ta’ dan l-Att.
 
 (1) Fil-każijiet imsemmija fl-artikolu 15(1)(ċ), (d), (e), (f) u (g) intenzjoni kriminali għandha tkun preżunta, sakemm l-akkużat ma jġibx prova li huwa aġixxa mingħajr dik l-intenzjoni.
 
-(2) Mingħajr preġudizzju għad-dispożizzjonijiet tas- PERSUNI B’DIŻABILITÀ [KAP. 560.
-
-subartikolu (1), meta persuna tkun instabet ħatja fir-rigward tad-dispożizzjonijiet tal-artikolu 15, il-persuna għandha wkoll tinstab ħatja għal reati tat-traffiku.
-
-*7*
+(2) Mingħajr preġudizzju għad-dispożizzjonijiet tas-subartikolu (1), meta persuna tkun instabet ħatja fir-rigward tad-dispożizzjonijiet tal-artikolu 15, il-persuna għandha wkoll tinstab ħatja għal reati tat-traffiku.
 
 (3) Detentur għandu jkun avżat li l-Blue Badge għandha tiġi rtirata wara li jkun instab ħati li għamel użu mhux xieraq jew talli ppermetta li l-badge tiġi użata b’mod mhux xieraq.
 
@@ -346,8 +330,6 @@ Fuq il-lemin tan-naħa ta’ wara għandu jkun hemm:
 ‘Din il-Blue Badge tagħti d-dritt lid-detentur tagħha biex jipparkja f’postijiet riservati għall-persuni b’diżabilità’;
 
 \2. id-dikjarazzjoni:
-
-PERSUNI B’DIŻABILITÀ [KAP. 560. 9
 
 ‘Għandha tintuża BISS mid-detentur tagħha’;
 

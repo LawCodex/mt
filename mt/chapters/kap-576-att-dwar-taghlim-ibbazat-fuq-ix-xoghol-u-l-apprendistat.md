@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Tagħlim ibbażat fuq ix-Xogħol u l-Apprendistat (Cap. 576)
 
-*1*
-
-IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
 **KAPITOLU 576**
 
 ATT DWAR TAGĦLIM IBBAŻAT FUQ IX-XOGĦOL U L-APPRENDISTAT
@@ -57,10 +53,6 @@ F’dan l-Att sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "interns" tfisser persuni li qed jitgħallmu ingaġġati fi programmi ta’ taħriġ għal internships skont dan l-Att;
 
-*2*
-
-[KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
-
 "internships” tfisser interns li huma ingaġġati fi programm konġunt ta’ tagħlim ibbażat fuq skola ma’ provditur ta’ VET liċenzjat, u tagħlim ibbażat fuq ix-xogħol ma’ sponser reġistrat, kif imfisser fl-Iskeda 1;
 
 "karta tal-ħiliet" tfisser karta maħruġa lil persuna li qed titgħallem meta tispiċċa b’suċċess programm ta’ taħriġ li tindika l-livell ta’ kompetenza miksuba f’okkupazzjoni rikonoxxuta;
@@ -87,11 +79,7 @@ F’dan l-Att sakemm ir-rabta tal-kliem ma teħtieġx xort’oħra:
 
 "okkupazzjonijiet ta’ ħila u tekniċi" tfisser ħiliet, xogħol, snajja’, jew okkupazzjoni oħra jew taqsima tagħha meħtieġa biex tiġi żviluppata l-forza nazzjonali tax-xogħol;
 
-"pjan tal-programm ta’ taħriġ" tfisser id-definizzjoni tal-ħtiġiet speċifiċi ta’ programm ta’ taħriġ stabbilit minn provditur tal-VET, li jipprovdi informazzjoni dettaljata dwar eżiti tat-tagħlim, kemm idum, IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
-timetables, eżamijiet, kredti, ċertifikazzjoni, ekwivalenza u rikonoxximent;
-
-*3*
+"pjan tal-programm ta’ taħriġ" tfisser id-definizzjoni tal-ħtiġiet speċifiċi ta’ programm ta’ taħriġ stabbilit minn provditur tal-VET, li jipprovdi informazzjoni dettaljata dwar eżiti tat-tagħlim, kemm idum, timetables, eżamijiet, kredti, ċertifikazzjoni, ekwivalenza u rikonoxximent;
 
 "placements ta’ xogħol" tfisser l-ingaġġar ta’ persuni li qed jitgħallmu ma’ sponser reġistrat biex jiksbu esperjenza bażika ta’ xogħol u ħiliet li jwasslu għal kwalifika vokazzjonali jew rikonoxximent kif imfisser fl-Iskeda 1;
 
@@ -111,13 +99,9 @@ timetables, eżamijiet, kredti, ċertifikazzjoni, ekwivalenza u rikonoxximent;
 
 "rikonoxximent" tirreferi għat-titolu ta’ ċertifikazzjoni ta’ tagħlim miksub permezz ta’ korsijiet, li m’għandhomx in-numru meħtieġ ta’ kredti fil-Livell tal-Qafas Malti tal-Kwalifiki, jew ta' strutturi internazzjonali ta' kwalifiki rikonoxxuti mill-industrija, biex jiġi kkunsidrat bħala kwalifika;
 
-"sena akkademika" għall-finijiet ta’ dan l-Att tfisser dak il-perjodu determinat bħala s-sena akkademika minn provdituri tal- [KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
+"sena akkademika" għall-finijiet ta’ dan l-Att tfisser dak il-perjodu determinat bħala s-sena akkademika minn provdituri tal- VET;
 
 \*Il-Kummissjoni Nazzjonali għal Edukazzjoni Avvanzata u Ogħla ġiet mibdula bl- Awtorità ta’ Malta għal Edukazzjoni Avvanzata u Ogħla - ara l-artikolu 3(1) tal-Att dwar l-Edukazzjoni Avvanzata u Ogħla - Kap. 607
-
-VET;
-
-*4*
 
 "sena finanzjarja" tfisser il-perjodu ta’ tnax-il xahar li jintemm fil-31 ta’ Diċembru ta’ xi sena;
 
@@ -137,11 +121,7 @@ VET;
 
 "trainer" tfisser il-persuna magħżula mill-isponser biex tissorvelja fuq il-persuna li qed titgħallem, taħt is-superviżjoni tat-trainer prinċipali, matul il-perjodu ta’ tagħlim ibbażat fuq ix-xogħol tal-programm ta’ taħriġ;
 
-"trainer prinċipali" tfisser il-persuna magħżula mill-isponser IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
-biex tkun il-punt ta’ riferenza prinċipali tal-persuna li qed titgħallem u biex tikkoordina t-trainers l-oħra jekk jingħażel aktar minn trainer wieħed għall-persuna li qed titgħallem matul il-perjodu ta’ tagħlim ibbażat fuq ix-xogħol ta’ programm ta’ taħriġ;
-
-*5*
+"trainer prinċipali" tfisser il-persuna magħżula mill-isponser biex tkun il-punt ta’ riferenza prinċipali tal-persuna li qed titgħallem u biex tikkoordina t-trainers l-oħra jekk jingħażel aktar minn trainer wieħed għall-persuna li qed titgħallem matul il-perjodu ta’ tagħlim ibbażat fuq ix-xogħol ta’ programm ta’ taħriġ;
 
 "vakanzi fil-programm ta’ taħriġ" tfisser il-vakanzi fl-apprendistat offerti fl-entitajiet li jisponsorizzaw, bħala parti tal-pjan tal-programm ta’ taħriġ fir-rigward tal-iżvilupp ta’ kompetenzi vokazzjonali;
 
@@ -173,11 +153,7 @@ Il-programm ta’ taħriġ ikun soġġett għall-proċessi ta’ akkreditazzjoni
 
 ## 7. Karti ta’ ħiliet.
 
-Il-provditur tal-VET jista’ wkoll jiddeċiedi li joħroġ karta ta’ ħiliet mal-kwalifika jew rikonoxximent, biex jipprovdi lill-persuna li qed titgħallem xhieda li wieħed jista’ jġorr miegħu tal-livell ta’ kompetenza miksuba f’okkupazzjoni rikonoxxuta; il-karta [KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
-
-ta’ ħiliet għandha tinkludi l-isem tad-detentur tal-kwalifika, identifikazzjoni, it-titolu tal-okkupazzjoni rikonoxxuta, it-titolu tal-programm ta’ taħriġ, il-livell tal-kwalifika jew rikonoxximent, id-data meta jkun inkiseb, in-numru tas-serje u l-isem tal-provditur tal- VET li jagħti l-kwalifika jew ir-rikonoxximent.
-
-*6*
+Il-provditur tal-VET jista’ wkoll jiddeċiedi li joħroġ karta ta’ ħiliet mal-kwalifika jew rikonoxximent, biex jipprovdi lill-persuna li qed titgħallem xhieda li wieħed jista’ jġorr miegħu tal-livell ta’ kompetenza miksuba f’okkupazzjoni rikonoxxuta; il-karta ta’ ħiliet għandha tinkludi l-isem tad-detentur tal-kwalifika, identifikazzjoni, it-titolu tal-okkupazzjoni rikonoxxuta, it-titolu tal-programm ta’ taħriġ, il-livell tal-kwalifika jew rikonoxximent, id-data meta jkun inkiseb, in-numru tas-serje u l-isem tal-provditur tal- VET li jagħti l-kwalifika jew ir-rikonoxximent.
 
 ## 8. Pjan tal-programm ta’ taħriġ għal placements ta’ xogħol, apprendistati u internships.
 
@@ -203,15 +179,11 @@ Għandu jkun hemm pjan ta’ programm ta’ taħriġ li jifforma parti mill-fteh
 
 ## 9. Drittijiet u obbligi tal-provditur tal- VET.
 
-(1) Provdituri tal-VET għandhom jaġixxu bħala l-amministraturi tal-programmi ta’ taħriġ u jkunu responsabbli għall-iżvilupp, koordinazzjoni, kontroll, valutazzjoni u ċertifikazzjoni tal-programmi ta’ taħriġ, kif ukoll għall-forniment tal-komponent tat-tagħlim ibbażat fuq skola u għandhom dawk il-funzjonijiet stabbiliti b’dan l-Att u l-funzjonijiet l-oħra li jistgħu jiddevolvu fuqhom taħt xi liġi oħra jew li jistgħu jiġu assenjati lilhom mill-Ministru taħt dan l- IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
-(2) Fir-rigward ta’ programmi ta’ taħriġ provdituri tal-VET għandhom:
-
-*7*
-
-*Att.*
+(1) Provdituri tal-VET għandhom jaġixxu bħala l-amministraturi tal-programmi ta’ taħriġ u jkunu responsabbli għall-iżvilupp, koordinazzjoni, kontroll, valutazzjoni u ċertifikazzjoni tal-programmi ta’ taħriġ, kif ukoll għall-forniment tal-komponent tat-tagħlim ibbażat fuq skola u għandhom dawk il-funzjonijiet stabbiliti b’dan l-Att u l-funzjonijiet l-oħra li jistgħu jiddevolvu fuqhom taħt xi liġi oħra jew li jistgħu jiġu assenjati lilhom mill-Ministru taħt dan l- (2) Fir-rigward ta’ programmi ta’ taħriġ provdituri tal-VET għandhom:
 
 (a) jiżviluppaw programmi ta’ taħriġ għal ħiliet li huma rikjesti jew x’aktarx ikunu rikjesti fil-futur, skont rapporti nazzjonali ta’ riċerka u ħtiġiet nazzjonali għal okkupazzjonijiet ta’ ħila u tekniċi;
+
+*Att.*
 
 (b) jidentifikaw sponser potenzjali u vakanzi fil-programmi ta’ taħriġ għal persuni li qed jitgħallmu;
 
@@ -233,11 +205,7 @@ Għandu jkun hemm pjan ta’ programm ta’ taħriġ li jifforma parti mill-fteh
 
 (k) jikkompilaw pjan tal-programm ta’ taħriġ kif speċifikat f’dan l-Att;
 
-(l) jiżviluppaw pjan tal-programm ta’ taħriġ sabiex is-sigħat ta’ xogħol u taħriġ ikunu, kemm jista’ jkun, [KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
-
-raġonevolment possibbli, flessibbli biex ikunu iktar aċċessibbli għal persuni li qed jitgħallmu li għandhom dipendenti;
-
-*8*
+(l) jiżviluppaw pjan tal-programm ta’ taħriġ sabiex is-sigħat ta’ xogħol u taħriġ ikunu, kemm jista’ jkun, raġonevolment possibbli, flessibbli biex ikunu iktar aċċessibbli għal persuni li qed jitgħallmu li għandhom dipendenti;
 
 (m) jiżguraw li programmi ta’ taħriġ, sistemi u proċessi jirriflettu l-istrateġija nazzjonali għall-inklużjoni soċjali fl-edukazzjoni.
 
@@ -263,10 +231,6 @@ raġonevolment possibbli, flessibbli biex ikunu iktar aċċessibbli għal persun
 
 (a) jissorvelja l-adattibilità ta’ sponsers u trainers prinċipali appuntati;
 
-*9*
-
-IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
 (b) jissorvelja l-adattibilità tal-bini fejn jinżamm it-tagħlim ibbażat fuq ix-xogħol;
 
 (ċ) jiżgura li l-persuni li qed jitgħallmu għandhom trainer prinċipali magħżul fil-post tax-xogħol għall-perjodu kollu tal-programm ta’ taħriġ;
@@ -288,10 +252,6 @@ IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
 (k) jimmaniġġa t-trasferiment ta’ persuni li qed jitgħallmu minn sponser għal ieħor meta jkun hemm il-bżonn u jekk it-trasferiment ikun meħtieġ min-natura tal-programm ta’ taħriġ;
 
 (l) jiżgura li l-ħtiġiet għad-dħul u s-selezzjoni ta’ persuni li qed jitgħallmu huma ekwi u ma teżisti ebda diskriminazzjoni bbażata fuq: età, twemmin, u, jew reliġjon, kulur, oriġini etnika u, jew razza, diżabilità, responsabbiltajiet domestiċi u, jew tqala, familja u, jew status ċivili, espressjoni tal-ġeneru u, jew identità tal-ġeneru, karatteristiċi ġenetiċi, status tas-saħħa, opinjoni politika, sess u, jew karatteristiċi tas-sess, u orjentazzjoni sesswali.
-
-*10*
-
-[KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
 
 ## 10. Post fejn jinżamm it-tagħlim ibbażat fuq ix-xogħol.
 
@@ -317,11 +277,7 @@ Iżda sponsers li, fl-opinjoni tal-provditur tal-VET, m’għandhomx il-kwalifik
 
 Iżda wkoll persuni jitqiesu li jkollhom l-esperjenza teknika neċessarja jekk għandhom l-għarfien vokazzjonali u ħiliet meħtieġa mill-programm ta’ taħriġ u jkunu ilhom impjegati f’kapaċità prattika għal perjodu ta’ ħames snin fl-okkupazzjoni tagħhom stess.
 
-(2) Il-provditur tal-VET għandu jqis li persuna għandha l- IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
-kwalifiki tekniċi neċessarji jekk tkun kisbet ċertifikazzjoni rikonoxxuta mill-Qafas Malti tal-Kwalifiki jew minn strutturi internazzjonali ta' kwalifiki rikonoxxuti mill-industrija f’kamp tekniku li jikkorrispondi għal okkupazzjoni ta’ ħila u teknika:
-
-*11*
+(2) Il-provditur tal-VET għandu jqis li persuna għandha l-kwalifiki tekniċi neċessarji jekk tkun kisbet ċertifikazzjoni rikonoxxuta mill-Qafas Malti tal-Kwalifiki jew minn strutturi internazzjonali ta' kwalifiki rikonoxxuti mill-industrija f’kamp tekniku li jikkorrispondi għal okkupazzjoni ta’ ħila u teknika:
 
 Iżda l-provditur tal-VET jista’ xorta waħda jirrikonoxxi persuni bħala trainers għalkemm ma jkollhomx kwalifiki tekniċi wara li jipproduċu xhieda li jkunu akkwistaw permezz tal-esperjenza l-kompetenzi neċessarji sabiex jgħallmu persuni li qed jitgħallmu;
 
@@ -343,11 +299,7 @@ Iżda jekk il-provditur tal-VET jidhirlu li l-persuna li qed titgħallem mhux qe
 
 (2) Il-provditur tal-VET għandu jivverifika li l-ambjent u t-tagħmir f’dak il-bini huma xierqa għall-objettivi tat-tagħlim tal-programm ta’ taħriġ u li l-paragun ta’ persuni li qed jitgħallmu u l-faċilitajiet ta’ taħriġ jew ta’ persunal b’ħiliet hu xieraq biex jiżgura t-twettiq ta’ kompetenzi vokazzjonali bbażati fuq ix-xogħol għat-tagħlim meħtieġ ibbażat fuq ix-xogħol:
 
-Iżda bini fejn isir it-taħriġ li fih ma jistgħux jingħataw l- [KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
-
-għarfien vokazzjonali neċessarju, il-ħiliet u l-kompetenzi fit-totalità tagħhom, jiġi meqjus adegwat, biss jekk dawk il-kompetenzi jistgħu jingħataw permezz ta’ tagħlim ibbażat fuq ix-xogħol f’bini alternattiv ta’ taħriġ approvat mill-provditur tal-VET.
-
-*12*
+Iżda bini fejn isir it-taħriġ li fih ma jistgħux jingħataw l-għarfien vokazzjonali neċessarju, il-ħiliet u l-kompetenzi fit-totalità tagħhom, jiġi meqjus adegwat, biss jekk dawk il-kompetenzi jistgħu jingħataw permezz ta’ tagħlim ibbażat fuq ix-xogħol f’bini alternattiv ta’ taħriġ approvat mill-provditur tal-VET.
 
 ## 14. Drittijiet u obbligi tal-isponser.
 
@@ -375,10 +327,6 @@ għarfien vokazzjonali neċessarju, il-ħiliet u l-kompetenzi fit-totalità tag�
 
 (f) jidentifika individwi li għandhom it-tagħrif tekniku, l-esperjenza u l-kompetenza personali biex jaġixxu bħala trainers prinċipali skont dan l-Att;
 
-*13*
-
-IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
 (g) jiżgura li persuni li qed jitgħallmu għandhom trainer prinċipali magħżul fuq il-post tax-xogħol għall-perjodu sħiħ tal-programm ta’ taħriġ;
 
 (h) jafda t-taħriġ ibbażat fuq ix-xogħol f’idejn it-trainers prinċipali jew f’idejn persuni kompetenti xierqa kif miftiehem mal-provditur tal-VET għall-perjodu sħiħ tal-programm ta’ taħriġ, u lil trainers oħra li jibqgħu taħt id-direzzjoni tat-trainer prinċipali;
@@ -401,11 +349,7 @@ Iżda din l-għażla tkun possibbli biss bi ftehim minn qabel mal-isponser qabel
 
 (o) jiżgura li persuni li qed jitgħallmu huma koperti bl-assikurazzjoni kontra responsabbiltà pubblika u assikurazzjoni fuq vetturi tal-isponser, fejn dan ikun xieraq;
 
-(p) jiżgura li persuni li qed jitgħallmu jingħataw IX-XOGĦOL U L-APPRENDISTAT
-
-kompiti li jwasslu għall-għan meħtieġ għall-iżvilupp ta’, u huma proporzjonati ma’, l-abbiltajiet fiżiċi;
-
-*[KAP. 576. 14*
+(p) jiżgura li persuni li qed jitgħallmu jingħataw kompiti li jwasslu għall-għan meħtieġ għall-iżvilupp ta’, u huma proporzjonati ma’, l-abbiltajiet fiżiċi;
 
 (q) jiżgura li l-benesseri ta’ persuni li qed jitgħallmu hu salvagwardjat u li huma jingħataw it-taħriġ f’ambjent li fih ma hemm l-ebda diskriminazzjoni, bullying fuq il-post tax-xogħol jew fastidju;
 
@@ -431,11 +375,7 @@ kompiti li jwasslu għall-għan meħtieġ għall-iżvilupp ta’, u huma proporz
 
 (a) iwettqu l-kompiti fdati lilhom bħala parti mit-taħriġ tagħhom ibbażat fuq ix-xogħol;
 
-(b) joqogħdu għal edukazzjoni vokazzjonali u eżamijiet kif speċifikat fil-pjan tal-programm ta’ taħriġ IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
-stabbilit mill-provditur tal-VET;
-
-*15*
+(b) joqogħdu għal edukazzjoni vokazzjonali u eżamijiet kif speċifikat fil-pjan tal-programm ta’ taħriġ stabbilit mill-provditur tal-VET;
 
 (ċ) jobdu l-istruzzjonijiet mogħtija lilhom fi ħdan il-qafas tat-taħriġ ibbażat fuq ix-xogħol mill-isponser, trainers jew persuni oħra li huma intitolati jagħtuhom dawk l-istruzzjonijiet;
 
@@ -463,11 +403,7 @@ Iżda jekk il-persuna li qed titgħallem tkun żagħżugħ il-ġenituri jew il-k
 
 (5) Kull ftehim li ma josservax id-dispożizzjonijiet ta’ dan l- Att għad-detriment tal-persuna li qed titgħallem ikun null u bla effett.
 
-(6) Xejn f’dan l-Att ma jaffettwa xi dritt li l-isponser jista’ [KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
-
-jkollu biex jibda proċeduri ċivili kontra persuna li qed titgħallem fir-rigward ta’ ksur jew nuqqas ta’ osservanza tad-dispożizzjonijiet tal-ftehim ta’ taħriġ jew xi kondizzjoni li tinsab fih.
-
-*16*
+(6) Xejn f’dan l-Att ma jaffettwa xi dritt li l-isponser jista’ jkollu biex jibda proċeduri ċivili kontra persuna li qed titgħallem fir-rigward ta’ ksur jew nuqqas ta’ osservanza tad-dispożizzjonijiet tal-ftehim ta’ taħriġ jew xi kondizzjoni li tinsab fih.
 
 (7) Xejn f’dan l-Att ma jaffettwa xi dritt li persuna li qed titgħallem jista’ jkollha biex tibda proċeduri ċivili kontra l-isponser tagħha fir-rigward ta’ ksur jew nuqqas ta’ osservanza tad-dispożizzjonijiet tal-ftehim ta’ taħriġ jew xi kondizzjoni li tinsab fih.
 
@@ -491,11 +427,7 @@ Persuna li qed titgħallem li ma tkomplix il-perjodu ibbażat fuq ix-xogħol qab
 
 (2) L-isponser għandu d-dmir li mal-bidu tal-ftehim ta’ taħriġ jirreġistra l-ftehim ta’ taħriġ mal-provditur tal-VET. Jekk ftehim ta’ taħriġ jiġi emendat, l-isponser għandu jirreġistra, mill-aktar fis possibbli, dak il-ftehim emendat ta’ taħriġ mal-provditur tal- VET.
 
-(3) Id-data tar-reġistrazzjoni tal-ftehim ta’ taħriġ ma taffettwax id-data tal-bidu tal-ftehim, iżda r-rifjut ta’ xi parti li tirreġistra l-ftehim tirrendi l-ftehim null u bla effett mid-data tar-rifjut. Id-data tal-bidu ta’ ftehim tkun id-data tal-firma tal-partijiet IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
-kollha jew dik id-data li tista’ tiġi stipulata fil-ftehim.
-
-*17*
+(3) Id-data tar-reġistrazzjoni tal-ftehim ta’ taħriġ ma taffettwax id-data tal-bidu tal-ftehim, iżda r-rifjut ta’ xi parti li tirreġistra l-ftehim tirrendi l-ftehim null u bla effett mid-data tar-rifjut. Id-data tal-bidu ta’ ftehim tkun id-data tal-firma tal-partijiet kollha jew dik id-data li tista’ tiġi stipulata fil-ftehim.
 
 (4) Il-provditur tal-VET għandu d-dmir li jżomm u jaġġorna r-Reġistru tal-Ftehim ta’ Taħriġ biex jinkludi informazzjoni dwar it-temm b’suċċess jew it-terminazzjoni bikrija ta’ programmi.
 
@@ -520,10 +452,6 @@ Iżda l-Kummissjoni Nazzjonali għal Edukazzjoni Avvanzata u Ogħla jkollha d-dr
 (4) L-isponser jista’ jirtira mill-ftehim ta’ taħriġ mal-provditur tal-VET u mal-persuna li qed titgħallem jekk il-persuna li qed titgħallem teħel fil-valutazzjoni finali.
 
 (5) Persuni li qed jitgħallmu jiġu ammessi għall-valutazzjoni finali basta li:
-
-*18*
-
-[KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
 
 (a) il-persuna li qed titgħallem tkun ikkompletat il-perjodu sħiħ ta’ tagħlim ibbażat fuq skola u t-tagħlim ibbażat fuq ix-xogħol konġunti skont il-pjan tal-programm ta’ taħriġ jew jekk il-perjodu ser jispiċċa mhux aktar tard minn xahrejn mid-data stabbilita għall-valutazzjoni; u
 
@@ -553,10 +481,6 @@ Iżda l-ebda membru maħtur fuq il-Bord Operattiv dwar Tagħlim ibbażat fuq ix-
 
 (f) jistabbilixxi regolamenti għall-valutazzjoni ta’ programmi ta’ taħriġ.
 
-*19*
-
-IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
 ## 22. Bord tal- Eżaminaturi.
 
 (1) Il-Bord Operattiv dwar Tagħlim ibbażat fuq ix- Xogħol għandu jistabbilixxi tali Bordijiet tal-Eżaminaturi biex jamministraw valutazzjonijiet għal kull programm ta’ taħriġ.
@@ -585,11 +509,7 @@ Iżda provditur tal-VET m’għandux jirreġistra trasferiment jekk dak it-trasf
 
 (3) Il-provditur tal-VET jista’, wara talba mill-isponser, jew mill-persuna li qed titgħallem, jew mit-tnejn, jew fid-diskrezzjoni tiegħu stess, jittermina l-ftehim billi jagħti avviż bil-miktub dwar din id-deċiżjoni liż-żewġ partijiet, u jittrasferixxi lill-persuna li qed titgħallem biex tkompli l-programm ta’ taħriġ ma’ sponser ieħor fl-eventwalità li:
 
-(a) jew l-isponser jew il-persuna li qed titgħallem ma jistgħux josservaw il-kondizzjonijiet tal-ftehim ta’ taħriġ; [KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
-
-jew
-
-*20*
+(a) jew l-isponser jew il-persuna li qed titgħallem ma jistgħux josservaw il-kondizzjonijiet tal-ftehim ta’ taħriġ; jew
 
 (b) jew l-isponser jew il-persuna li qed titgħallem ma josservawx xi kondizzjoni ta’ dan il-ftehim; jew
 
@@ -617,10 +537,6 @@ jew
 
 (6) Il-Bord tal-Appelli għandu jkun magħmul minn chairperson indipendenti u żewġ membri indipendenti maħtura mill- Ministru minn fost persuni ta’ integrità magħrufa li fl-opinjoni tiegħu jidhru li huma kwalifikati minħabba fl-esperjenza u l-ħila fi ħwejjeġ meqjusa xierqa għal dak il-għan.
 
-*21*
-
-IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
 *    Kap. 12.*
 
 (7) Membru tal-Bord tal-Appelli għandu jastjeni u jista’ jiġi rikużat f’dawk iċ-ċirkostanzi li jiskwalifikaw imħallef skont is-Sub- Titolu II tat-Titolu II tat-Tielet Ktieb tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili u f’kull każ bħal dan il-membru għandu jiġi sostitwit minn persuna oħra maħtura mill-Ministru għal dan il-għan.
@@ -637,11 +553,9 @@ IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
 
 (3) Mingħajr preġudizzju għas-setgħat tiegħu taħt id-dispożizzjonijiet ta’ dan l-Att, il-Ministru jista’ jordna lil kull persuna jew kull dipartiment, aġenzija, korporazzjoni jew awtorità stabbilita bil-liġi biex twettaq xi funzjoni jew dmir skont dan l-Att jew skont xi regolamenti magħmula taħt dan l-Att, u, jew biex jiżgura l-implimentazzjoni xierqa ta’ dan l-Att jew ta’ xi regolamenti magħmula taħt dan l-Att, u l-Ministru jista’ permezz ta’ regolamenti jippreskrivi u jirregola l-proċeduri u l-metodi li għandhom jiġu adottati minn dik il-persuna, dipartiment, aġenzija, korporazzjoni jew awtorità fit-twettiq ta’ dawk il-funzjonijiet.
 
-(4) Il-Ministru jista’, minn żmien għal żmien, jagħti lil xi waħda jew aktar mill-entitajiet jew lil xi wieħed jew aktar mill-uffiċjali jew impjegati tagħhom dawk id-direttivi u ordnijiet, li ma jkunux inkonsistenti mad-dispożizzjonijiet ta’ dan l-Att, kif il- Ministru jista’ jidhirlu opportun fir-rigward tal-politika li għandha tiġi segwita minnhom u tal-operat u l-implimentazzjoni tal-funzjonijiet tagħhom, u fuq kull ħaġ’oħra li l-Ministru jidhirlu li hi konnessa ma’ tagħlim ibbażat fuq ix-xogħol, u l-entità, uffiċjal jew impjegat ikkonċernati għandhom, sa fejn hu possibbli, minnufih josservaw u jaġixxu f’konformità ma’ dawn id-direttivi u ordnijiet u għandhom iwettqu il-funzjonament tagħhom skont dawn il-prinċipji. IX-XOGĦOL U L-APPRENDISTAT
+(4) Il-Ministru jista’, minn żmien għal żmien, jagħti lil xi waħda jew aktar mill-entitajiet jew lil xi wieħed jew aktar mill-uffiċjali jew impjegati tagħhom dawk id-direttivi u ordnijiet, li ma jkunux inkonsistenti mad-dispożizzjonijiet ta’ dan l-Att, kif il- Ministru jista’ jidhirlu opportun fir-rigward tal-politika li għandha tiġi segwita minnhom u tal-operat u l-implimentazzjoni tal-funzjonijiet tagħhom, u fuq kull ħaġ’oħra li l-Ministru jidhirlu li hi konnessa ma’ tagħlim ibbażat fuq ix-xogħol, u l-entità, uffiċjal jew impjegat ikkonċernati għandhom, sa fejn hu possibbli, minnufih josservaw u jaġixxu f’konformità ma’ dawn id-direttivi u ordnijiet u għandhom iwettqu il-funzjonament tagħhom skont dawn il-prinċipji.
 
 ## SKEDA 1
-
-*[KAP. 576. 22*
 
 (Artikolu 2)
 
@@ -693,8 +607,6 @@ L-apprendist jirċievi rimunerazzjoni għall-parti tal-apprendistat li tirrigwar
 
 Kredti ECVET jew simili huma allokati minn provditur tal-VET għal eżiti tat-tagħlim miksuba matul il-perjodu ta’ xogħol u vvalutati bħala parti mill-programm ta’ apprendistat.
 
-IX-XOGĦOL U L-APPRENDISTAT [KAP. 576. 23
-
 *Qafas Malti tal-Kwalifiki *
 
 Internships
@@ -722,10 +634,6 @@ Kredti ECVET u ECTS jew simili huma allokati minn provditur tal-VET għal eżiti
 *•*
 
 Programmi ta’ taħriġ f’dawn il-livelli jistgħu wkoll jieħdu l-forma ta’ Apprendistat skont dan l-Att.
-
-*24*
-
-[KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
 
 ## SKEDA 2
 
@@ -759,11 +667,7 @@ A. Ftehim ta’ Taħriġ fi Placements ta’ Xogħol
 
 (b) identifikazzjoni tal-provditur tal-VET li jkun qed jaġixxi bħala superviżur tal-programm ta’ taħriġ;
 
-(ċ) identifikazzjoni tal-isponser u tat-trainer prinċipali fi ħdan l-organizzazzjoni matul il-programm ta’ IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
-taħriġ;
-
-*25*
+(ċ) identifikazzjoni tal-isponser u tat-trainer prinċipali fi ħdan l-organizzazzjoni matul il-programm ta’ taħriġ;
 
 (d) bidu, data tat-tmiem, kemm idum, u s-sigħat tal-perjodu bbażat fuq xogħol;
 
@@ -801,11 +705,7 @@ taħriġ;
 
 *L.S. 452.92*
 
-(4) Meta l-persuna li qed titgħallem hi żagħżugħ dik il-persuna li qed titgħallem tibqa’ tiġi regolata skont ir-Regolamenti [KAP. 576. IX-XOGĦOL U L-APPRENDISTAT
-
-dwar l-Impieg ta’ Żgħażagħ matul il-perjodu ta’ taħriġ.
-
-*26*
+(4) Meta l-persuna li qed titgħallem hi żagħżugħ dik il-persuna li qed titgħallem tibqa’ tiġi regolata skont ir-Regolamenti dwar l-Impieg ta’ Żgħażagħ matul il-perjodu ta’ taħriġ.
 
 (5) Matul il-btajjel tal-Milied, tal-Għid u tas-sajf tal-provditur tal-VET, persuni li qed jitgħallmu jistgħu jattendu għall-komponent tat-tagħlim ibbażat fuq ix-xogħol tal-programm ta’ taħriġ kif miftiehem mal-isponser fil-pjan tal-programm ta’ taħriġ.
 
@@ -843,10 +743,6 @@ B. Ftehim ta’ Taħriġ għal Apprendistat
 
 (k) drittijiet għal benefiċċji ta’ sigurtà soċjali;
 
-*27*
-
-IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
 (l) sigħat li persuna li qed titgħallem tgħaddi għand l-isponser jiġu kkunsidrati bħala sigħat mgħoddija fuq il-komponent tat-tagħlim ibbażat fuq ix-xogħol tal-programm ta’ taħriġ kif imfisser fil-pjan tal-programm ta’ taħriġ.
 
 (4) Il-ftehim ta’ taħriġ għandu wkoll jistabbilixxi l-eliġibilità tal-apprendist biex jaħdem is-sahra sakemm l-isponser ikun kiseb il-kunsens neċessarju bil-miktub mill-provditur tal-VET.
@@ -872,12 +768,6 @@ IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
 (ċ) identifikazzjoni tal-isponser u tat-trainer prinċipali fi ħdan l-organizzazzjoni matul il-programm ta’ taħriġ;
 
 (d) bidu, data tat-tmiem, kemm idum, u s-sigħat tal-perjodu bbażat fuq xogħol;
-
-**IX-XOGĦOL U L-APPRENDISTAT**
-
-*[KAP. 576.*
-
-*28*
 
 (e) attivitajiet li jsiru barra mill-bini tat-taħriġ;
 
@@ -915,10 +805,6 @@ IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
 
 (a) jobbliga lill-persuni li qed jitgħallmu li jħallsu għall-programm tagħhom ta’ taħriġ;
 
-*29*
-
-IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
-
 *  Kap. 452*
 
 (b) jimponi pieni fuq il-persuna li qed titgħallem li ma jkunux il-pieni regolati bl-Att dwar l-Impiegi u r- Relazzjonijiet Industrijali;
@@ -948,12 +834,6 @@ IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
 (f) indikazzjoni tal-bini għat-tagħlim ibbażat fuq ix-xogħol.
 
 (4) Ftehim ta’ taħriġ għal internships li għalihom tingħata rimunerazzjoni għandu jkun fih, taħt piena ta’ nullità, il-kondizzjonijiet li ġejjin:
-
-**IX-XOGĦOL U L-APPRENDISTAT**
-
-*[KAP. 576.*
-
-*30*
 
 (a) identifikazzjoni tal-okkupazzjoni rikonoxxuta ta’ ħila u teknika li għaliha jitmexxa l-programm ta’ taħriġ;
 
@@ -990,10 +870,6 @@ IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
 (q) referenza għal ftehim kollettivi, ftehim dwar l-impjant jew ftehim dwar servizzi applikabbli għar-relazzjoni tat-taħriġ u indikazzjonijiet fejn hemm aċċess għad-dokumenti;
 
 (r) pjan tal-programm ta’ taħriġ maħruġ mill-provditur tal-VET skont id-dispożizzjonijiet ta’ dan l-Att;
-
-*31*
-
-IX-XOGĦOL U L-APPRENDISTAT [KAP. 576.
 
 (s) indikazzjoni tal-bini għat-tagħlim ibbażat fuq ix-xogħol;
 

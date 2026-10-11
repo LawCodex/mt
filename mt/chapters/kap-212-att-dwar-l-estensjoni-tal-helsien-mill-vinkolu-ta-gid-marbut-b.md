@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Estensjoni tal-Ħelsien mill-Vinkolu ta' Ġid marbut b Fedekommess (Cap. 212)
 
-ESTENSJONI TAL-ĦELSIEN MILL-VINKOLU TA’ ĠID MARBUT
-
-*1*
-
-B’FEDEKOMMESS GĦAL PROPRJETÀ MIŻMUMA B’FEWDU [KAP. 212.
-
 **KAPITOLU 212**
 
 **ATT DWAR L-ESTENSJONI TAL-ĦELSIEN MILL-**

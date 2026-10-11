@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar l-Ezekuzzjoni Reċiproka ta' Sentenzi ta' Tribunali Ingliżi (Cap. 52)
 
-*1*
-
-TA’ TRIBUNALI INGLIŻI [KAP. 52.
-
 **KAPITOLU 52**
 
 **ATT DWAR L-ESEKUZZJONI REĊIPROKA TA’**
@@ -93,11 +89,7 @@ Il-Qorti tal-Appell tista’ tagħmel regolamenti -
 
 (d) biex tissospendi l-esekuzzjoni ta’ sentenza rreġistrata taħt dan l-artikolu sakemm jagħlaq iż-żmien li fih id-debitur kanonizzat jista’ jitlob l-annullament tar-reġistrazzjoni.
 
-(5) F’kull kawża miġjuba quddiem qorti f’Malta fuq sentenza li tista’ tiġi ordnata r-reġistrazzjoni tagħha taħt dan l-artikolu, l-attur TA’ TRIBUNALI INGLIŻI [KAP. 52.
-
-m’għandux jedd jitlob l-ispejjeż tal-kawża jekk qabel ma tkunx ġiet miċħuda t-talba għar-reġistrazzjoni tas-sentenza taħt dan l-artikolu, jew jekk il-qorti ma tordnax xort’oħra.
-
-*3*
+(5) F’kull kawża miġjuba quddiem qorti f’Malta fuq sentenza li tista’ tiġi ordnata r-reġistrazzjoni tagħha taħt dan l-artikolu, l-attur m’għandux jedd jitlob l-ispejjeż tal-kawża jekk qabel ma tkunx ġiet miċħuda t-talba għar-reġistrazzjoni tas-sentenza taħt dan l-artikolu, jew jekk il-qorti ma tordnax xort’oħra.
 
 ## 4. Ħruġ ta’ kopja awtentika ta’ sentenzi mogħtijin f’Malta.
 

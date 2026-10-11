@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Malta Council for Economic and Social Development Act (Cap. 431)
 
-*1*
-
-AND SOCIAL DEVELOPMENT [CAP. 431.
-
 **CHAPTER 431**
 
 MALTA COUNCIL FOR ECONOMIC AND SOCIAL
@@ -97,11 +93,11 @@ The organisations and constituted bodies referred to in sub-paragraph (i) shall 
 
 Provided that the Chief Executive Officer shall not have the right to vote during such meetings.
 
-*3*
+## 5. Functions of the Council.
 
-AND SOCIAL DEVELOPMENT [CAP. 431. 5. (1) The Council shall be a consultative and advisory body with the function to advise Government, through the Minister, on issues relating to sustainable national economic and social development and shall be competent to -
+*Amended by: V. 2017.4.*
 
-*Functions of the Council. Amended by: V. 2017.4.*
+(1) The Council shall be a consultative and advisory body with the function to advise Government, through the Minister, on issues relating to sustainable national economic and social development and shall be competent to -
 
 (a) promote social dialogue and consensus amongst all the social partners on issues relating to sustainable economic and social development;
 
@@ -159,11 +155,7 @@ Without prejudice to the provisions of articles 3 and 4(1) and any other provisi
 
 (c) the Working Groups which shall be constituted by the social partners subject to what is just and necessary:
 
-Provided that no communication to the general public and, AND SOCIAL DEVELOPMENT [CAP. 431.
-
-or the media, shall be issued by the Bureau or Working Groups, in the name of the Council without approval subject to a unanimous vote of the Plenary:
-
-*5*
+Provided that no communication to the general public and, or the media, shall be issued by the Bureau or Working Groups, in the name of the Council without approval subject to a unanimous vote of the Plenary:
 
 Provided further that, without prejudice to the provisions of this Act and to any regulations made thereunder, the Council may appoint sub-committees, and generally, shall regulate its own proceedings.
 
@@ -224,10 +216,6 @@ CAP. 431.] AND SOCIAL DEVELOPMENT
 (b) provide its views to the Council in those issues which are referred by the Council to the Forum;
 
 (c) facilitate intergenerational dialogue and cooperation to address issues which are of interest to children aged between eleven (11) and (15) years and the Council.
-
-*7*
-
-AND SOCIAL DEVELOPMENT [CAP. 431.
 
 (5) Appointments of all members to the Forum shall be made for a period of one (1) year which commences on the date of appointment, and members may be reappointed.
 
@@ -303,11 +291,9 @@ Deleted by Act XIX.2025.6.
 
 *Amended by: L.N. 426 of 2007. Substituted by: XIX.2025.8.*
 
-The Council and all bodies mentioned in articles 5A to 6A, including Committees and sub-committees, shall comply with all the applicable laws in respect of public procurement and public contracts. AND SOCIAL DEVELOPMENT [CAP. 431. 12. (1) The Council may, with the approval of the Minister, appoint such officers as may, from time to time, be necessary for the due and efficient discharge of the functions of the Council. The terms and conditions of employment shall be established by the Council with the approval of the Minister.
+The Council and all bodies mentioned in articles 5A to 6A, including Committees and sub-committees, shall comply with all the applicable laws in respect of public procurement and public contracts. 12. (1) The Council may, with the approval of the Minister, appoint such officers as may, from time to time, be necessary for the due and efficient discharge of the functions of the Council. The terms and conditions of employment shall be established by the Council with the approval of the Minister.
 
 (2) The Prime Minister may, at the request of the Minister, from time to time, direct that any public officer shall be transferred for duty with the Council in such capacity and with effect from such date as may be specified in the Prime Minister’s direction:
-
-*9*
 
 *Staff appointments. Amended by: V. 2017.11.*
 
@@ -359,8 +345,8 @@ Provided that the accounts of the Council for the year 2025, shall cover the per
 
 (3) The Minister shall, at the earliest opportunity, and not later than eight weeks after receiving a copy of every such report, or if at any time during that period the House of Representatives is not in session, within eight weeks from the beginning of the next following session, cause a copy of every such report to be laid on the Table of the House of Representatives.
 
-*11*
+## 15. Power to make regulations.
 
-AND SOCIAL DEVELOPMENT [CAP. 431. 15. The Minister may make regulations generally so as to give effect to the provisions of this Act, and for the better carrying out of any of the provisions of this Act including regulations establishing the criteria to be used for the composition of the Civil Society Committee and the Gozo Regional Committee, the number of members and any other matter for the proper functioning of such Committees.
+*Substituted by: IV. 2012.4; V. 2017.14.*
 
-*Power to make regulations. Substituted by: IV. 2012.4; V. 2017.14.*
+The Minister may make regulations generally so as to give effect to the provisions of this Act, and for the better carrying out of any of the provisions of this Act including regulations establishing the criteria to be used for the composition of the Civil Society Committee and the Gozo Regional Committee, the number of members and any other matter for the proper functioning of such Committees.

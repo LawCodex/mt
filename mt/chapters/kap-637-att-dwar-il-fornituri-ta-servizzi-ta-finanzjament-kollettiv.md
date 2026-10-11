@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Fornituri ta’ Servizzi ta’ Finanzjament Kollettiv (Cap. 637)
 
-*1*
-
-KOLLETTIV [KAP. 637.
-
 **KAPITOLU 637**
 
 **ATT DWAR IL-FORNITURI TA’ SERVIZZI TA’**
@@ -71,12 +67,6 @@ definit fl-Att dwar l-Awtorità għas-Servizzi Finanzjarji ta’
   
 Malta;  Kap. 330.
 
-**KOLLETTIV**
-
-*[KAP. 637.*
-
-*2*
-
 "awtorità regolatorja Ewropea" tfisser il-korp jew korpi maħtura minn Stat Membru jew Stat taż-ŻEE minbarra Malta skont l-Artikolu 29 tar-Regolament ECSP biex iwettqu l-funzjonijiet u d-dmirijiet previsti fir-Regolament ECSP;
 
 "ESMA" tfisser l-Awtorità Ewropea tat-Titoli u s-Swieq, stabilità bir-Regolament (UE) Nru 1095/2010 tal-Parlament Ewropew u tal-Kunsill tal-24 ta’ Novembru 2010;
@@ -101,11 +91,9 @@ Malta;  Kap. 330.
 
 "offerta ta’ finanzjament kollettiv" għandu jkollha l-istess tifsira bħal dik assenjata lilha fil-paragrafu (f) tal- Artikolu 2(1) tar-Regolament ECSP;
 
-"parteċipazzjoni azzjonarja kwalifikattiva" tfisser parteċipazzjoni diretta jew indiretta f’kumpanija li tirrappreżenta għaxra fil-mija (10%) jew aktar tal-kapital azzjonarju jew tad-drittijiet tal-vot imsemmija fl-Artikoli 9 u KOLLETTIV [KAP. 637. 10 tad-Direttiva 2004/109/KE tal-Parlament Ewropew u tal- Kunsill tal-15 ta’ Diċembru 2004 dwar l-armonizzazzjoni tar-rekwiżiti ta’ trasparenza f’dak li għandu x’jaqsam ma’ informazzjoni dwar emittenti li t-titoli tagħhom huma ammessi għall-kummerċf’suq regolat u li temenda d-Direttiva 2001/34/ KE waqt li jitqiesu l-kondizzjonijiet rigward l-aggregazzjoni tagħhom stabbiliti f’dik id-Direttiva, jew li tagħmilha possibbli li tiġi eżerċitata influwenza sinifikanti fuq il-ġestjoni tal-kumpanija li fiha dik il-parteċipazzjoni tissussisti, u "azzjonist kwalitattiv" għandha tiġi interpretata skont hekk;
+"parteċipazzjoni azzjonarja kwalifikattiva" tfisser parteċipazzjoni diretta jew indiretta f’kumpanija li tirrappreżenta għaxra fil-mija (10%) jew aktar tal-kapital azzjonarju jew tad-drittijiet tal-vot imsemmija fl-Artikoli 9 u 10 tad-Direttiva 2004/109/KE tal-Parlament Ewropew u tal- Kunsill tal-15 ta’ Diċembru 2004 dwar l-armonizzazzjoni tar-rekwiżiti ta’ trasparenza f’dak li għandu x’jaqsam ma’ informazzjoni dwar emittenti li t-titoli tagħhom huma ammessi għall-kummerċf’suq regolat u li temenda d-Direttiva 2001/34/ KE waqt li jitqiesu l-kondizzjonijiet rigward l-aggregazzjoni tagħhom stabbiliti f’dik id-Direttiva, jew li tagħmilha possibbli li tiġi eżerċitata influwenza sinifikanti fuq il-ġestjoni tal-kumpanija li fiha dik il-parteċipazzjoni tissussisti, u "azzjonist kwalitattiv" għandha tiġi interpretata skont hekk;
 
 "pjattaforma ta’ finanzjament kollettiv" għandu jkollha l-istess tifsira bħal dik assenjata lilha fil-paragrafu (d) tal- Artikolu 2(1) tar-Regolament ECSP;
-
-*3*
 
 "proġett ta’ finanzjament kollettiv" għandu jkollha l-istess tifsira bħal dik assenjata lilha fil-paragrafu (1) tal- Artikolu 2(1) tar-Regolament ECSP;
 
@@ -118,10 +106,6 @@ Malta;  Kap. 330.
 "self" għandu jkollha l-istess tifsira bħal dik assenjata lilha fil-paragrafu (b) tal-Artikolu 2(1) tar-Regolament ECSP;
 
 "servizz ta’ finanzjament kollettiv" għandu jkollha l-istess tifsira bħal dik assenjata lilha fil-paragrafu (a) tal- Artikolu 2(1) tar-Regolament ECSP;
-
-*4*
-
-[KAP. 637. KOLLETTIV
 
 "sid ta’ proġett" għandu jkollha l-istess tifsira bħal dik assenjata lilha fil-paragrafu (h) tal-Artikolu 2(1) tar- Regolament ECSP;
 
@@ -147,13 +131,11 @@ Id-dispożizzjonijiet ta’ dan l-Att u regolamenti magħmula u Regoli maħruġi
 
 (i) il-kunsiderazzjoni totali tal-offerti ta’ titoli trasferibbli u strumenti ammessi għal finijiet ta’ finanzjament kollettiv u l-ammonti miġbura permezz ta’ self permezz ta’ pjattaforma ta’ finanzjament kollettiv minn sid ta’ proġett partikolari; u
 
-(ii) il-kunsiderazzjoni totali tal-offerti lill-pubbliku ta’ titoli trasferibbli magħmula mis-sid tal-proġett imsemmi fis-subparagrafu (i) fil-kapaċità tiegħu bħala offerent skont l-eżenzjoni taħt l-Artikolu 1(3), jew l-Artikolu 3(2), tar-Regolament (UE) 2017/1129 tal- KOLLETTIV [KAP. 637. Parlament Ewropew u tal-Kunsill tal-14 ta’ Ġunju 2017 dwar il-prospett li għandu jiġi ppubblikat meta titoli jiġu offruti lill-pubbliku jew jiġu ammessi għall-kummerċ f’suq regolat, u li jħassar id-Direttiva 2003/71/KE.
+(ii) il-kunsiderazzjoni totali tal-offerti lill-pubbliku ta’ titoli trasferibbli magħmula mis-sid tal-proġett imsemmi fis-subparagrafu (i) fil-kapaċità tiegħu bħala offerent skont l-eżenzjoni taħt l-Artikolu 1(3), jew l-Artikolu 3(2), tar-Regolament (UE) 2017/1129 tal- Parlament Ewropew u tal-Kunsill tal-14 ta’ Ġunju 2017 dwar il-prospett li għandu jiġi ppubblikat meta titoli jiġu offruti lill-pubbliku jew jiġu ammessi għall-kummerċ f’suq regolat, u li jħassar id-Direttiva 2003/71/KE.
 
 ### 4. Awtorità kompetenti.
 
 (1) L-awtorità kompetenti għandha twettaq il-funzjonijiet tagħha skont dan l-Att u, b’mod partikolari, għandha tiżgura konformità mad-dispożizzjonijiet tar-Regolament ECSP, dan l-Att u kwalunkwe regolamenti u Regoli maħruġa taħtu.
-
-*5*
 
 (2) L-awtorità kompetenti għandha twettaq ukoll il-funzjonijiet u d-dmirijiet bħala awtorità kompetenti għall-finijiet kollha tar-Regolament ECSP.
 
@@ -173,11 +155,7 @@ Id-dispożizzjonijiet ta’ dan l-Att u regolamenti magħmula u Regoli maħruġi
 
 (b) għall-investituri li jagħtu self lil sidien ta’ proġetti ffaċilitat mill-fornitur ta’ servizzi ta’ finanzjament kollettiv:
 
-Iżda dan is-subartikolu ma għandux japplika meta fornitur ta’ servizzi ta’ finanzjament kollettiv, sid il-proġett jew investitur ikun awtorizzat bħala istituzzjoni ta’ kreditu f’konformità mal-Artikolu 8 tad-Direttiva 2013/36/UE tal-Parlament Ewropew u tal-Kunsill tas-26 ta’ Ġunju 2013 dwar l-aċċess għall-attività tal-istituzzjonijiet ta’ kreditu u s-superviżjoni prudenzjali tal-istituzzjonijiet ta’ kreditu u tad-ditti tal-investiment, li temenda d- [KAP. 637. KOLLETTIV
-
-Direttiva 2002/87/KE u li tħassar id-Direttivi 2006/48/KE u 2006/49/ KE.
-
-*6*
+Iżda dan is-subartikolu ma għandux japplika meta fornitur ta’ servizzi ta’ finanzjament kollettiv, sid il-proġett jew investitur ikun awtorizzat bħala istituzzjoni ta’ kreditu f’konformità mal-Artikolu 8 tad-Direttiva 2013/36/UE tal-Parlament Ewropew u tal-Kunsill tas-26 ta’ Ġunju 2013 dwar l-aċċess għall-attività tal-istituzzjonijiet ta’ kreditu u s-superviżjoni prudenzjali tal-istituzzjonijiet ta’ kreditu u tad-ditti tal-investiment, li temenda d- Direttiva 2002/87/KE u li tħassar id-Direttivi 2006/48/KE u 2006/49/ KE.
 
 ### 6. Applikazzjoni għall-awtorizzazzjoni.
 
@@ -197,9 +175,7 @@ Iżda l-valutazzjoni li għandha titwettaq skont dan is-subartikolu għandha tqi
 
 (7) L-awtorità kompetenti għandha tinnotifika lill-fornitur ta’ servizzi ta’ finanzjament kollettiv prospettiv bid-deċiżjoni tagħha li tagħti jew tirrifjuta li tagħti awtorizzazzjoni bħala fornitur ta’ servizzi ta’ finanzjament kollettiv fi żmien tlett (3) ijiem tax-xogħol mid-data tal-imsemmija deċiżjoni.
 
-*7*
-
-KOLLETTIV [KAP. 637. (8) Fl-għoti ta’ awtorizzazzjoni skont dan l-artikolu, l-awtorità kompetenti tista’ tissoġġetta fornitur ta’ servizzi ta’ finanzjament kollettiv għal tali kondizzjonijiet li hija tqis xierqa u wara li tkun tat tali awtorizzazzjoni, hija tista’, minn żmien għal żmien, tvarja jew tirrevoka kwalunkwe kondizzjoni imposta b’dan il-mod jew timponi kondizzjonijiet ġodda.
+(8) Fl-għoti ta’ awtorizzazzjoni skont dan l-artikolu, l-awtorità kompetenti tista’ tissoġġetta fornitur ta’ servizzi ta’ finanzjament kollettiv għal tali kondizzjonijiet li hija tqis xierqa u wara li tkun tat tali awtorizzazzjoni, hija tista’, minn żmien għal żmien, tvarja jew tirrevoka kwalunkwe kondizzjoni imposta b’dan il-mod jew timponi kondizzjonijiet ġodda.
 
 (9) L-awtorità kompetenti għandha tistabbilixxi reġistru tad-detenturi kollha ta’ awtorizzazzjoni bħala fornitur ta’ servizzi ta’ finanzjament kollettiv li għandu jkun disponibbli għall-pubbliku. Dan ir-reġistru għandu jispeċifika wkoll is-servizzi ta’ finanzjament kollettiv li kull fornitur ta’ servizzi ta’ finanzjament kollettiv huwa awtorizzat li jipprovdi u għandu jiġi aġġornat fuq bażi regolari.
 
@@ -219,11 +195,7 @@ Iżda talba għall-estensjoni ta’ awtorizzazzjoni magħmula skont dan is-subar
 
 (a) ma tkunx sodisfatta li l-applikant jikkonforma mar-rekwiżiti stabbiliti fir-Regolament ECSP, u f’dan l-Att u f’kull regolament u Regoli maħruġa taħtu;
 
-(b) ma tkunx sodisfatta li l-applikant u l-azzjonisti, il-membri, id-diretturi u l-uffiċjali tiegħu li jikkwalifikaw KOLLETTIV
-
-huma persuni kompetenti u idonei biex jipprovdu servizzi ta’ finanzjament kollettiv;
-
-*[KAP. 637. 8*
+(b) ma tkunx sodisfatta li l-applikant u l-azzjonisti, il-membri, id-diretturi u l-uffiċjali tiegħu li jikkwalifikaw huma persuni kompetenti u idonei biex jipprovdu servizzi ta’ finanzjament kollettiv;
 
 (ċ) mingħajr preġudizzju għall-paragrafu (b), ma tkunx sodisfatta li l-membri tal-korp maniġerjali tal-applikant ikunu ta’ reputazzjoni tajba biżżejjed, ikollhom biżżejjed għarfien, ħiliet u esperjenza u jimpenjaw biżżejjed ħin biex iwettqu l-funzjonijiet tagħhom bħala tali mal-applikant; u
 
@@ -247,9 +219,7 @@ huma persuni kompetenti u idonei biex jipprovdu servizzi ta’ finanzjament koll
 
 (g) l-awtorità kompetenti tkun ġiet ipprovduta minn, jew f’isem, il-fornitur ta’ servizzi ta’ finanzjament kollettiv b’informazzjoni li tkun falza, mhux preċiża jew qarrieqa;
 
-*9*
-
-KOLLETTIV [KAP. 637. (h) l-awtorità kompetenti tqis li huwa opportun li tirtira l-awtorizzazzjoni tal-fornitur ta’ servizzi ta’ finanzjament kollettiv għall-protezzjoni tal-investituri u tal-pubbliku ġenerali, u r-reputazzjoni ta’ Malta meta jitqiesu l-impenji internazzjonali ta’ Malta; u, jew
+(h) l-awtorità kompetenti tqis li huwa opportun li tirtira l-awtorizzazzjoni tal-fornitur ta’ servizzi ta’ finanzjament kollettiv għall-protezzjoni tal-investituri u tal-pubbliku ġenerali, u r-reputazzjoni ta’ Malta meta jitqiesu l-impenji internazzjonali ta’ Malta; u, jew
 
 (i) il-fornitur ta’ servizzi ta’ finanzjament kollettiv jiġi ddikjarat fallut, jew jispiċċa f’likwidazzjoni, jew jagħmel kompożizzjoni mal-kredituri tiegħu, jew inkella jiġi xolt.
 
@@ -271,11 +241,7 @@ KOLLETTIV [KAP. 637. (h) l-awtorità kompetenti tqis li huwa opportun li tirtira
 
 (b) tvarja kwalunkwe kondizzjoni li għaliha hija soġġetta l-liċenzja jew timponi kondizzjoni fuqha,
 
-hi għandha tagħti lill-fornitur ta’ servizzi ta’ finanzjament kollettiv prospettiv jew lill-fornitur ta’ servizzi ta’ finanzjament kollettiv, kif [KAP. 637. KOLLETTIV
-
-applikabbli, avviż bil-miktub dwar l-intenzjoni tagħha li tagħmel dan, filwaqt li tagħti r-raġunijiet għad-deċiżjoni li tipproponi li tieħu.
-
-*10*
+hi għandha tagħti lill-fornitur ta’ servizzi ta’ finanzjament kollettiv prospettiv jew lill-fornitur ta’ servizzi ta’ finanzjament kollettiv, kif applikabbli, avviż bil-miktub dwar l-intenzjoni tagħha li tagħmel dan, filwaqt li tagħti r-raġunijiet għad-deċiżjoni li tipproponi li tieħu.
 
 (2) Kull avviż mogħti skont is-subartikolu (1) għandu jiddikjara li r-riċevitur tan-notifika jista’, f’perjodu raġonevoli wara n-notifika tiegħu kif jista’ jkun iddikjarat fl-avviż, jagħmel sottomissjonijiet bil-miktub lill-awtorità kompetenti fejn jagħti r-raġunijiet għaliex id-deċiżjoni proposta ma għandhiex tittieħed, u l-awtorità kompetenti għandha tikkunsidra kwalunkwe sottomissjoni hekk magħmula qabel ma tasal għal deċiżjoni finali.
 
@@ -296,10 +262,6 @@ applikabbli, avviż bil-miktub dwar l-intenzjoni tagħha li tagħmel dan, filwaq
 (2) L-awtorità kompetenti għandha, fi żmien għaxart (10) ijiem tax-xogħol minn meta tirċievi l-informazzjoni msemmija fis-subartikolu (1), tikkomunika dik l-informazzjoni lill-awtorità regolatorja Ewropea tal-Istati Membri u, jew lill-Istati taż-ŻEE li fihom il-fornitur ta’ servizzi ta’ finanzjament kollettiv beħsiebu jipprovdi servizzi ta’ finanzjament kollettiv kif imsemmi fis-subartikolu (1).
 
 (3) Sussegwentement, l-awtorità kompetenti għandha tinforma mingħajr dewmien lill-fornitur ta’ servizzi ta’ finanzjament kollettiv dwar il-komunikazzjoni msemmija fis-subartikolu (2).
-
-*11*
-
-KOLLETTIV [KAP. 637.
 
 ## TAQSIMA III — OBBLIGI KONTINWI
 
@@ -327,10 +289,6 @@ Fornitur ta’ servizzi ta’ finanzjament kollettiv, jew kwalunkwe persuna li j
 
 (b) l-iskeda ta’ informazzjoni ewlenija dwar l-investiment fil-livell tal-pjattaforma ma tħallix barra l-informazzjoni ewlenija meħtieġa biex tgħin lill-investituri meta jkunu qed jikkunsidraw jekk jinvestux permezz tal-immaniġġjar tal-portafoll individwali tas-self.
 
-*12*
-
-[KAP. 637. KOLLETTIV
-
 ### 15. Komunikazz-jonijiet ta’ kummerċja-lizzazzjoni.
 
 Meta fornitur ta’ servizzi ta’ finanzjament kollettiv ixerred, skont l-Artikolu 27 tar-Regolament ECSP, komunikazzjonijiet ta’ kummerċjalizzazzjoni dwar is-servizzi tiegħu, huwa għandu jikkonforma mar-rekwiżiti rilevanti kif jista’ ikun speċifikat fir-Regoli maħruġa għal dawn l-għanijiet.
@@ -349,11 +307,9 @@ Meta fornitur ta’ servizzi ta’ finanzjament kollettiv ixerred, skont l-Artik
 
 (ċ) jittrasponi, jimplimenta u jagħti effett lid-dispożizzjonijiet u r-rekwiżiti tar-Regolament ECSP;
 
-(d) jittrasponi, jimplimenta u jagħti effett lid-dispożizzjonijiet u r-rekwiżiti tad-Direttivi tal-Unjoni Ewropea, ir-Regolamenti tal-Unjoni Ewropea u kwalunkwe miżura leġiżlattiva oħra tal-Unjoni Ewropea li teħtieġ traspożizzjoni u, jew implimentazzjoni, kif jistgħu jiġu emendati minn żmien għal żmien, inkluż kwalunkwe miżuri ta’ implimentazzjoni li jkunu nħarġu jew li jistgħu jinħarġu skont dawn u li jkunu relatati ma’ persuni awtorizzati u oħrajn kif jista’ jkun speċifikat fihom; ir-regolamenti magħmula skont dan il-paragrafu, u strettament relatati mat-traspożizzjoni jew l-implimentazzjoni kif imsemmi qabel, jistgħu jipprovdu li kwalunkwe dispożizzjoni ta’ dan l-Att jew ta’ kwalunkwe liġi oħra ma għandhiex tapplika għal materji li jaqgħu taħt ir-regolamenti, u li sa fejn kwalunkwe dispożizzjoni tar-regolamenti tkun inkonsistenti mad-dispożizzjonijiet ta’ dan l-Att jew ta’ kwalunkwe liġi oħra, tali dispożizzjonijiet f’regolamenti bħal dawn għandhom KOLLETTIV [KAP. 637. jipprevalu;
+(d) jittrasponi, jimplimenta u jagħti effett lid-dispożizzjonijiet u r-rekwiżiti tad-Direttivi tal-Unjoni Ewropea, ir-Regolamenti tal-Unjoni Ewropea u kwalunkwe miżura leġiżlattiva oħra tal-Unjoni Ewropea li teħtieġ traspożizzjoni u, jew implimentazzjoni, kif jistgħu jiġu emendati minn żmien għal żmien, inkluż kwalunkwe miżuri ta’ implimentazzjoni li jkunu nħarġu jew li jistgħu jinħarġu skont dawn u li jkunu relatati ma’ persuni awtorizzati u oħrajn kif jista’ jkun speċifikat fihom; ir-regolamenti magħmula skont dan il-paragrafu, u strettament relatati mat-traspożizzjoni jew l-implimentazzjoni kif imsemmi qabel, jistgħu jipprovdu li kwalunkwe dispożizzjoni ta’ dan l-Att jew ta’ kwalunkwe liġi oħra ma għandhiex tapplika għal materji li jaqgħu taħt ir-regolamenti, u li sa fejn kwalunkwe dispożizzjoni tar-regolamenti tkun inkonsistenti mad-dispożizzjonijiet ta’ dan l-Att jew ta’ kwalunkwe liġi oħra, tali dispożizzjonijiet f’regolamenti bħal dawn għandhom jipprevalu;
 
 (e) jassenja setgħat u funzjonijiet lill-awtorità kompetenti għall-finijiet ta’ dan l-Att;
-
-*13*
 
 (f) jipprovdi għall-eżerċizzju tas-setgħat u t-twettiq tal-funzjonijiet assenjati lill-awtorità kompetenti skont dan l- Att;
 
@@ -366,10 +322,6 @@ Meta fornitur ta’ servizzi ta’ finanzjament kollettiv ixerred, skont l-Artik
 (j) jipprovdi għat-twaqqif u l-impożizzjoni ta’ penali amministrattivi u miżuri amministrattivi oħra fuq il-fornituri ta’ servizzi ta’ finanzjament kollettiv jew oħrajn kif jista’ jiġi speċifikat fihom;
 
 (k) jippreskrivi li ksur ta’ kwalunkwe regolamenti li jsiru skont dan l-Att jista’ jammonta għal reat kriminali kif jista’ jiġi speċifikat, u tali regolamenti jistgħu jimponu pieni fir-rigward ta’ kwalunkwe ksur, li jikkonsistu f’multa li ma taqbiżx il-ħames mitt elf euro (€500,000) jew priġunerija għal terminu ta’ mhux aktar minn tliet (3) snin, jew il-multa u l-priġunerija flimkien fil-każ ta’ persuna fiżika; u multa li ma taqbiżx it-tmien mitt elf euro (€800,000), fil-każ ta’ persuna ġuridika; u multa ogħla tista’ tiġi imposta fuq persuna fiżika jew persuna ġuridika, skont il-każ, fejn jitqies meħtieġ jew xieraq għal kwalunkwe ksur jew nuqqas ta’ konformità ma’ kwalunkwe Direttiva tal-UE jew Regolament tal-UE jew ma’ kwalunkwe regolamenti magħmula skont dan l-artikolu biex jittrasponu jew jagħtu effett lil kwalunkwe Direttiva tal-UE jew Regolament tal-UE; u
-
-*14*
-
-[KAP. 637. KOLLETTIV
 
 (l) jipprovdi għal kwalunkwe materja inċidentali għal jew konnessa ma’ xi wieħed minn dawn ta’ hawn fuq.
 
@@ -395,9 +347,7 @@ Meta fornitur ta’ servizzi ta’ finanzjament kollettiv ixerred, skont l-Artik
 
 (d) jittrasponu, jimplimentaw u jagħtu effett lid-dispożizzjonijiet u r-rekwiżiti tar-Regolament ECSP;
 
-*15*
-
-KOLLETTIV [KAP. 637. (e) jittrasponu, jimplimentaw u jagħtu effett lid-dispożizzjonijiet u r-rekwiżiti tad-Direttivi tal-Unjoni Ewropea, ir-Regolamenti tal-Unjoni Ewropea u kwalunkwe miżuri leġiżlattivi oħrajn tal-Unjoni Ewropea li jeħtieġu traspożizzjoni u, jew implimentazzjoni, kif jistgħu jiġu emendati minn żmien għal żmien, inkluż kwalunkwe miżuri ta’ implimentazzjoni li jkunu nħarġu jew li jistgħu jinħarġu skont dawn u li jkunu relatati ma’ persuni awtorizzati u oħrajn kif jista’ jkun speċifikat fihom; u, jew
+(e) jittrasponu, jimplimentaw u jagħtu effett lid-dispożizzjonijiet u r-rekwiżiti tad-Direttivi tal-Unjoni Ewropea, ir-Regolamenti tal-Unjoni Ewropea u kwalunkwe miżuri leġiżlattivi oħrajn tal-Unjoni Ewropea li jeħtieġu traspożizzjoni u, jew implimentazzjoni, kif jistgħu jiġu emendati minn żmien għal żmien, inkluż kwalunkwe miżuri ta’ implimentazzjoni li jkunu nħarġu jew li jistgħu jinħarġu skont dawn u li jkunu relatati ma’ persuni awtorizzati u oħrajn kif jista’ jkun speċifikat fihom; u, jew
 
 (f) jirregolaw kwalunkwe kwistjoni li tkun inċidentali għal jew konnessa ma’ kwalunkwe waħda mill-kwistjonijiet imsemmija hawn fuq kif l-awtorità kompetenti tista’ tqis xieraq fit-twettiq tal-funzjonijiet tagħha.
 
@@ -415,12 +365,6 @@ KOLLETTIV [KAP. 637. (e) jittrasponu, jimplimentaw u jagħtu effett lid-dispożi
 
 (ċ) li tipprojbixxi offerta ta’ finanzjament kollettiv meta l-awtorità kompetenti ssib li xi waħda mid-dispożizzjonijiet tar-Regolament ECSP, dan l-Att jew regolamenti magħmula jew Regoli maħruġa taħtu jkunu ġew miksura jew fejn ikun hemm raġunijiet raġonevoli sabiex wieħed jissuspetta li jkun se jsir ksur tagħhom;
 
-**KOLLETTIV**
-
-*[KAP. 637.*
-
-*16*
-
 (d) li tissospendi, jew tirrikjedi li fornitur ta’ servizzi ta’ finanzjament kollettiv jissospendi, il-forniment ta’ servizzi ta’ finanzjament kollettiv għal massimu ta’ għaxart (10) ijiem ta’ xogħol konsekuttivi fi kwalunkwe okkażjoni meta jkun hemm raġunijiet raġonevoli biex wieħed jemmen li nkisret xi waħda mid-dispożizzjonijiet tar-Regolament ECSP, dan l-Att jew regolamenti magħmula jew Regoli maħruġa taħtu;
 
 (e) li tipprojbixxi l-forniment ta’ servizzi ta’ finanzjament kollettiv meta l-awtorità kompetenti ssib li tkun inkisret xi waħda mid-dispożizzjonijiet tar-Regolament ECSP, dan l-Att u kwalunkwe regolamenti jew Regoli maħruġa taħtu;
@@ -435,11 +379,9 @@ KOLLETTIV [KAP. 637. (e) jittrasponu, jimplimentaw u jagħtu effett lid-dispożi
 
 Iżda l-fornitur ta’ servizzi ta’ finanzjament kollettiv li lilu jiġu ttrasferiti l-kuntratti eżistenti f’konformità ma’ dan il-paragrafu għandu jkun awtorizzat mill-awtorità kompetenti biex jipprovdi servizzi ta’ finanzjament kollettiv; u, jew
 
-*17*
-
-KOLLETTIV [KAP. 637. (j) li tagħmel rikors lill-qorti għax-xoljiment u l-istralċ mill-qorti ta’ fornitur ta’ servizzi ta’ finanzjament kollettiv meta l-awtorità kompetenti jidhrilha li fornitur ta’ servizzi ta’ finanzjament kollettiv għandu jiġi xolt u stralċat mill-qorti għar-raġuni stabbilita fl-artikolu 214(2)(b)(iii) tal- Att dwar il-Kumpaniji, u fejn il-qorti taċċedi għar-rikors d-dispożizzjonijiet rilevanti tal-Att dwar il-Kumpaniji fir-rigward tax-xoljiment u l-istralċ mill-qorti u kwalunkwe dispożizzjonijiet applikabbli oħra ta’ kwalunkwe liġi oħra għandhom japplikaw.
-
 *       Kap. 386.  Kap. 386.*
+
+(j) li tagħmel rikors lill-qorti għax-xoljiment u l-istralċ mill-qorti ta’ fornitur ta’ servizzi ta’ finanzjament kollettiv meta l-awtorità kompetenti jidhrilha li fornitur ta’ servizzi ta’ finanzjament kollettiv għandu jiġi xolt u stralċat mill-qorti għar-raġuni stabbilita fl-artikolu 214(2)(b)(iii) tal- Att dwar il-Kumpaniji, u fejn il-qorti taċċedi għar-rikors d-dispożizzjonijiet rilevanti tal-Att dwar il-Kumpaniji fir-rigward tax-xoljiment u l-istralċ mill-qorti u kwalunkwe dispożizzjonijiet applikabbli oħra ta’ kwalunkwe liġi oħra għandhom japplikaw.
 
 (2) Kwalunkwe miżuri adottati fl-eżerċizzju tas-setgħat tal-awtorità kompetenti skont dan l-artikolu għandhom ikunu proporzjonati, debitament ġustifikati u meħuda skont l-artikolu 24.
 
@@ -460,10 +402,6 @@ biex tagħmel dan kollu jew xi waħda minn dawn li ġejjin:
 (b) li tipprovdi lill-awtorità kompetenti kwalunkwe informazzjoni jew dokumentazzjoni li tkun teħtieġ verifika bil- mod li tista’ tispeċifika;
 
 (ċ) li tattendi quddiem l-awtorità kompetenti, jew quddiem persuna maħtura minnha, fil-ħin u l-post li hija tista’ tispeċifika, biex twieġeb mistoqsijiet u tipprovdi dik l-informazzjoni u d-dokumentazzjoni li tista’ teħtieġ;
-
-*18*
-
-[KAP. 637. KOLLETTIV
 
 (d) li tagħti lill-awtorità kompetenti kwalunkwe assistenza li tista’ teħtieġ u li dik il-persuna tkun tista’ tagħti b’mod raġonevoli.
 
@@ -487,11 +425,9 @@ biex tagħmel dan kollu jew xi waħda minn dawn li ġejjin:
 
 (2) Spettur maħtur skont is-subartikolu (1):
 
-(a) jista’, jekk jaħseb li jkun meħtieġ jew espedjenti KOLLETTIV [KAP. 637. għall-għanijiet ta’ investigazzjoni, jinvestiga l-affarijiet ta’ kwalunkwe persuna msemmija fis-subartikolu (1);
+(a) jista’, jekk jaħseb li jkun meħtieġ jew espedjenti għall-għanijiet ta’ investigazzjoni, jinvestiga l-affarijiet ta’ kwalunkwe persuna msemmija fis-subartikolu (1);
 
 (b) għandu jkollu u jista’ jeżerċita s-setgħat kollha mogħtija lill-awtorità kompetenti bl-artikolu 18, u kwalunkwe rekwiżit magħmul minnu għandu jitqies li jkun u jġib l-istess forza u effett bħal rekwiżit tal-awtorità kompetenti;
-
-*19*
 
 (ċ) jista’, u jekk hekk jiġi ordnat mill-awtorità kompetenti għandu, jagħmel rapporti interim, u dwar il-konklużjoni tal-investigazzjoni tiegħu għandu jagħmel rapport finali lill-awtorità kompetenti.
 
@@ -508,10 +444,6 @@ biex tagħmel dan kollu jew xi waħda minn dawn li ġejjin:
 (1) Kwalunkwe uffiċjal, impjegat jew aġent tal-awtorità kompetenti, meta jipproduċi, jekk meħtieġ, evidenza tal-awtorità tiegħu, ikollu s-setgħa li jidħol fi kwalunkwe bini okkupat minn persuna li lilha jkun ġie nnotifikat avviż skont l-artikolu 19 jew li l-affarijiet tiegħu jkunu qed jiġu investigati skont l-artikolu 20, bil-għan li jikseb minn hemm l-informazzjoni jew id-dokumenti meħtieġa minn dak l-avviż, jew inkella għall-għan li jitwettqu spezzjonijiet jew investigazzjonijiet fuq il-post, u li jeżerċita kwalunkwe setgħa mogħtija mill-artikoli msemmija.
 
 (2) Meta xi uffiċjal, impjegat jew aġent tal-awtorità kompetenti jkollu raġuni li jemmen li jekk avviż bħal dak imsemmi fis-subartikolu (1) ikun ġie notifikat, ma jkunx hemm konformità miegħu jew li xi dokumenti li jistgħu jirrelataw miegħu jitneħħew, jiġu mbagħbsa jew meqruda, dak l-uffiċjal, impjegat jew aġent ikollu s-setgħa, meta jipproduċi, jekk ikun meħtieġ, evidenza tal-awtorità tiegħu, jidħol fi kwalunkwe bini msemmi fis-subartikolu (1) bil-għan li jikseb minn hemm kwalunkwe informazzjoni jew dokumenti speċifikati fl-awtorità, li huma informazzjoni jew dokumenti li setgħu kienu meħtieġa permezz ta’ avviż bħal dak imsemmi fis-subartikolu (1).
-
-*20*
-
-[KAP. 637. KOLLETTIV
 
 (3) Għall-finijiet ta’ kwalunkwe azzjoni meħuda skont id-dispożizzjonijiet ta’ dan l-artikolu, l-awtorità kompetenti tista’ titlob l-assistenza tal-Kummissarju tal-Pulizija, li jista’ għal dak il-għan jeżerċita dawk is-setgħat li huma mogħtija lilu mil-liġi.
 
@@ -535,11 +467,9 @@ Iżda wkoll kwalunkwe direttiva mogħtija skont dan l-artikolu għandha, sakemm 
 
 (b) persuna tkun kisret jew naqset milli tikkonforma ma’ kwalunkwe kondizzjoni, obbligu, rekwiżit jew direttiva magħmula jew mogħtija mill-awtorità kompetenti skont kwalunkwe waħda mid-dispożizzjonijiet tar-Regolament ECSP, dan l-Att jew kwalunkwe regolamenti jew Regoli maħruġa taħtu, inkluż in-nuqqas ta’ kooperazzjoni ma’ investigazzjoni jew spezzjoni jew kwalunkwe talba magħmula mill-awtorità kompetenti skont l-artikolu 19.
 
-(2) L-awtorità kompetenti għandu jkollha s-setgħa li timponi l-penalitajiet amministrattivi li ġejjin u miżuri KOLLETTIV [KAP. 637. amministrattivi oħra għall-ksur indikat fis-subartikolu (1):
+(2) L-awtorità kompetenti għandu jkollha s-setgħa li timponi l-penalitajiet amministrattivi li ġejjin u miżuri amministrattivi oħra għall-ksur indikat fis-subartikolu (1):
 
 (a) dikjarazzjoni pubblika li tindika l-persuna fiżika jew ġuridika responsabbli għall-ksur u n-natura ta’ tali ksur;
-
-*21*
 
 (b) ordni li tirrikjedi li l-persuna fiżika jew ġuridika twaqqaf l-imġiba li tikkostitwixxi l-ksur u li ma tirrepetix dik l-imġiba;
 
@@ -555,11 +485,7 @@ Iżda meta l-persuna ġuridika tkun impriża prinċipali jew sussidjarja ta’ i
 
 (3) Penalitajiet amministrattivi li jistgħu jiġu imposti mill-awtorità kompetenti skont dan l-artikolu, jistgħu jiġu imposti fil-forma ta’ penali fissa, penali ta’ kuljum, jew it-tnejn.
 
-(4) Il-penalitajiet amministrattivi u miżuri amministrattivi oħra meħuda mill-awtorità kompetenti skont dan l-artikolu [KAP. 637. KOLLETTIV
-
-għandhom ikunu effettivi, proporzjonati, dissważivi u debitament ġustifikati.
-
-*22*
+(4) Il-penalitajiet amministrattivi u miżuri amministrattivi oħra meħuda mill-awtorità kompetenti skont dan l-artikolu għandhom ikunu effettivi, proporzjonati, dissważivi u debitament ġustifikati.
 
 *  Kap. 330.*
 
@@ -583,9 +509,7 @@ Fil-każ ta’ penalitajiet amministrattivi jew miżuri oħra imposti mill-awtor
 
 (d) l-importanza tal-profitti miksuba jew tat-telf evitat mill-persuna fiżika jew ġuridika responsabbli għall-ksur, sa fejn dawn ikunu jistgħu jiġu ddeterminati;
 
-*23*
-
-KOLLETTIV [KAP. 637. (e) it-telf għal partijiet terzi kkawżat mill-ksur, sa fejn dan ikun jista’ jiġi ddeterminat;
+(e) it-telf għal partijiet terzi kkawżat mill-ksur, sa fejn dan ikun jista’ jiġi ddeterminat;
 
 (f) il-livell ta’ kooperazzjoni tal-persuna fiżika jew ġuridika responsabbli għall-ksur mal-awtorità kompetenti, mingħajr preġudizzju għall-ħtieġa li tiġi żgurata r-restituzzjoni tal-profitti miksuba jew tat-telf evitat minn dik il-persuna;
 
@@ -609,11 +533,7 @@ KOLLETTIV [KAP. 637. (e) it-telf għal partijiet terzi kkawżat mill-ksur, sa fe
 
 (3) Id-dispożizzjonijiet tas-subartikoli (1) u (2) ma għandhomx japplikaw għal deċiżjonijiet tal-awtorità kompetenti li jimponu miżuri li huma ta’ natura investigattiva.
 
-(4) Meta l-awtorità kompetenti tqis, wara valutazzjoni każ b’każ, li l-pubblikazzjoni tal-identità tal-persuna ġuridika soġġetta għad-deċiżjoni, jew l-identità jew id-data personali ta’ persuna fiżika, tkun sproporzjonata, jew fejn tali pubblikazzjoni tista’ tipperikola [KAP. 637. KOLLETTIV
-
-investigazzjoni li tkun għaddejja, l-awtorità kompetenti għandha:
-
-*24*
+(4) Meta l-awtorità kompetenti tqis, wara valutazzjoni każ b’każ, li l-pubblikazzjoni tal-identità tal-persuna ġuridika soġġetta għad-deċiżjoni, jew l-identità jew id-data personali ta’ persuna fiżika, tkun sproporzjonata, jew fejn tali pubblikazzjoni tista’ tipperikola investigazzjoni li tkun għaddejja, l-awtorità kompetenti għandha:
 
 (a) tiddifferixxi l-pubblikazzjoni tad-deċiżjoni li tiġi imposta penali jew miżura sal-mument meta r-raġunijiet għan-nuqqas ta’ pubblikazzjoni ma jibqgħux jeżistu;
 
@@ -635,11 +555,9 @@ Iżda d-data personali li tinsab fi kwalunkwe deċiżjoni bħal din għandha tin
 
 (1) L-awtorità kompetenti għandha taġixxi bħala l-punt ta’ kuntatt skont u għall-finijiet tal-Artikolu 29(2) tar- Regolament ECSP.
 
-(2) L-awtorità kompetenti għandha tikkoopera ma’ awtoritajiet regolatorji Ewropej oħra kull meta jkun meħtieġ bil-għan li twettaq id-dmirijiet tagħha u teżerċita s-setgħat tagħha skont ir- KOLLETTIV [KAP. 637. Regolament ECSP. Hija għandha tagħti l-assistenza meħtieġa lil awtoritajiet regolatorji Ewropej oħra, b’mod partikolari billi tiskambja informazzjoni u tikkoopera fi kwalunkwe attività investigattiva, superviżorja jew ta’ infurzar.
+(2) L-awtorità kompetenti għandha tikkoopera ma’ awtoritajiet regolatorji Ewropej oħra kull meta jkun meħtieġ bil-għan li twettaq id-dmirijiet tagħha u teżerċita s-setgħat tagħha skont ir- Regolament ECSP. Hija għandha tagħti l-assistenza meħtieġa lil awtoritajiet regolatorji Ewropej oħra, b’mod partikolari billi tiskambja informazzjoni u tikkoopera fi kwalunkwe attività investigattiva, superviżorja jew ta’ infurzar.
 
 (3) Awtorità regolatorja Ewropea tista’ titlob informazzjoni mill-awtorità kompetenti, f’liema każ l-awtorità kompetenti għandha, mingħajr dewmien żejjed, tipprovdi l-informazzjoni mitluba għall-finijiet tar-Regolament ECSP:
-
-*25*
 
 Iżda jekk l-awtorità kompetenti ma tkunx tista’ tipprovdi l-informazzjoni meħtieġa minnufih, hija għandha tinnotifika lill-awtorità regolatorja Ewropea rikjedenti bir-raġunijiet.
 
@@ -661,11 +579,7 @@ Iżda jekk l-awtorità kompetenti ma tkunx tista’ tipprovdi l-informazzjoni me
 
 (b) meta jkunu diġà nbdew proċeduri ġudizzjarji fir-rigward tal-istess azzjonijiet u kontra l-istess persuni fiżiċi jew ġuridiċi quddiem l-awtoritajiet ta’ Malta; jew
 
-(ċ) meta sentenza finali tkun diġà ngħatat fir- [KAP. 637. KOLLETTIV
-
-rigward ta’ dawn il-persuni fiżiċi jew ġuridiċi għall-istess azzjonijiet f’Malta.
-
-*26*
+(ċ) meta sentenza finali tkun diġà ngħatat fir-rigward ta’ dawn il-persuni fiżiċi jew ġuridiċi għall-istess azzjonijiet f’Malta.
 
 (6) Fejn l-awtorità kompetenti ssib li xi wieħed mir-rekwiżiti skont ir-Regolament ECSP ma jkunx ġie ssodisfat jew ikollha raġuni biex temmen li dan ikun il-każ, hija għandha tinforma lill-awtorità regolatorja Ewropea tal-entità jew l-entitajiet suspettati b’tali ksur bis-sejbiet tagħha b’mod dettaljat.
 
@@ -686,10 +600,6 @@ rigward ta’ dawn il-persuni fiżiċi jew ġuridiċi għall-istess azzjonijiet 
 ### 30. Kooperazzjoni ma’ awtoritajiet oħra.
 
 Meta fornitur ta’ servizzi ta’ finanzjament kollettiv jinvolvi ruħu f’attivitajiet oħra li mhumiex servizzi ta’ finanzjament kollettiv, l-awtorità kompetenti għandha tikkoopera mal-awtoritajiet responsabbli għas-sorveljanza ta’ tali attivitajiet oħra kif previst fil-leġiżlazzjoni rilevanti tal-Unjoni Ewropea jew fil-liġi nazzjonali rilevanti, kif applikabbli.
-
-*27*
-
-KOLLETTIV [KAP. 637.
 
 ## TAQSIMA VI — APPELLI, SANZJONIJIET U KUNFIDENZJALITÀ
 
@@ -719,11 +629,7 @@ Iżda deċiżjoni tal-awtorità kompetenti li tirtira l-awtorizzazzjoni ta’ fo
 
 (1) Kwalunkwe persuna li tikser jew tonqos milli tikkonforma ma’ xi waħda mid-dispożizzjonijiet tal-artikoli 5(1), 5(2), 19(1), 19(4), 22(1) jew 34(1), jew tal-artikolu 19(1) jew 19(4) kif applikat bl-artikolu 20, jew li tikser jew tonqos milli tikkonforma ma’ kwalunkwe kondizzjoni, obbligu, rekwiżit, direttiva jew ordni magħmula jew mogħtija skont xi waħda mid-dispożizzjonijiet tar- Regolament ECSP jew ta’ dan l-Att, jew ta’ xi regolamenti magħmula taħt dan l-Att, għandha tkun ħatja ta’ reat.
 
-(2) Kwalunkwe persuna li għall-finijiet ta’, jew skont, kwalunkwe dispożizzjoni tar-Regolament ECSP, ta’ dan l-Att jew ta’ [KAP. 637. KOLLETTIV
-
-kwalunkwe regolamenti jew Regoli maħruġa taħtu, jew kwalunkwe kondizzjoni, obbligu, rekwiżit, direttiva jew ordni magħmula jew mogħtija kif imsemmi qabel, tipprovdi informazzjoni jew tagħmel dikjarazzjoni li taf li hija ineżatta, falza jew qarrieqa f’kull rigward materjali, jew bi traskuraġni tipprovdi informazzjoni jew tagħmel dikjarazzjoni li ma tkunx eżatta, falza jew qarrieqa fi kwalunkwe rigward materjali, għandha tkun ħatja ta’ reat.
-
-*28*
+(2) Kwalunkwe persuna li għall-finijiet ta’, jew skont, kwalunkwe dispożizzjoni tar-Regolament ECSP, ta’ dan l-Att jew ta’ kwalunkwe regolamenti jew Regoli maħruġa taħtu, jew kwalunkwe kondizzjoni, obbligu, rekwiżit, direttiva jew ordni magħmula jew mogħtija kif imsemmi qabel, tipprovdi informazzjoni jew tagħmel dikjarazzjoni li taf li hija ineżatta, falza jew qarrieqa f’kull rigward materjali, jew bi traskuraġni tipprovdi informazzjoni jew tagħmel dikjarazzjoni li ma tkunx eżatta, falza jew qarrieqa fi kwalunkwe rigward materjali, għandha tkun ħatja ta’ reat.
 
 (3) Kwalunkwe persuna li konxjament tkun parti mill-forniment ta’ kwalunkwe servizz ta’ finanzjament kollettiv b’intenzjoni frawdolenti jew għal għan frawdolenti, għandha tkun ħatja ta’ reat.
 
@@ -741,11 +647,9 @@ kwalunkwe regolamenti jew Regoli maħruġa taħtu, jew kwalunkwe kondizzjoni, ob
 
 (b) tipprovdi tali informazzjoni li tirċievi skont il-paragrafu (a), u tibgħat kopji tal-atti u dokumenti lill-qrati ta’ ġustizzja kriminali skont it-tieni proviso għall-artikolu 518 tal-Kodiċi Kriminali, lil awtoritajiet oħra li jitqiesu li huma awtoritajiet kompetenti għall-finijiet tal-Artikolu 29 tar- Regolament dwar l-ECSP, kif ukoll lill-ESMA, għall-fini tat-twettiq tal-obbligi tagħha sabiex tikkoopera għall-finijiet tar-Regolament dwar ECSP, dan l-Att u kwalunkwe regolamenti magħmula jew Regoli maħruġa taħtu.
 
-*29*
+### 33. Penali.
 
-KOLLETTIV [KAP. 637. 33. (1) Persuna fiżika ħatja ta’ reat skont id-dispożizzjonijiet tal-artikolu 32 għandha teħel meta tinsab ħatja għal multa li ma taqbiżx il-ħames mitt elf euro (€500,000) jew għal piena ta’ priġunerija li ma taqbiżx tliet (3) snin, jew għal tali multa u priġunerija flimkien, sakemm tali multa jew terminu ta’ priġunerija ma jkunux imposti b’mod ieħor fir-regolamenti maħruġa skont l-artikolu 16(1)(k).
-
-*Penali.*
+(1) Persuna fiżika ħatja ta’ reat skont id-dispożizzjonijiet tal-artikolu 32 għandha teħel meta tinsab ħatja għal multa li ma taqbiżx il-ħames mitt elf euro (€500,000) jew għal piena ta’ priġunerija li ma taqbiżx tliet (3) snin, jew għal tali multa u priġunerija flimkien, sakemm tali multa jew terminu ta’ priġunerija ma jkunux imposti b’mod ieħor fir-regolamenti maħruġa skont l-artikolu 16(1)(k).
 
 (2) Persuna ġuridika ħatja ta’ reat skont id-dispożizzjonijiet tal-artikolu 31 għandha teħel meta tinsab ħatja għal multa li ma taqbiżx it-tmien mitt elf euro (€800,000), sakemm tali multa ma tkunx imposta mod ieħor fir-regolamenti maħruġa skont l-artikolu 16(1)(k).
 
@@ -762,7 +666,3 @@ KOLLETTIV [KAP. 637. 33. (1) Persuna fiżika ħatja ta’ reat skont id-dispożi
 (d) meta l-iżvelar tal-informazzjoni jkun permess jew meħtieġ mil-leġiżlazzjoni tal-Unjoni Ewropea jew mil-liġi nazzjonali.
 
 (2) L-informazzjoni msemmija fis-subartikolu (1) għandha tinkludi l-informazzjoni kollha skambjata bejn l-awtorità kompetenti u l-awtoritajiet regolatorji Ewropej skont ir-Regolament ECSP li tikkonċerna n-negozju jew il-kondizzjonijiet operattivi u affarijiet ekonomiċi jew personali oħra.
-
-*30*
-
-[KAP. 637. KOLLETTIV

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Drug Dependence (Treatment not Imprisonment) Act (Cap. 537)
 
-*1*
-
-(TREATMENT NOT IMPRISONMENT) [CAP. 537.
-
 **CHAPTER 537**
 
 **DRUG DEPENDENCE**
@@ -89,11 +85,11 @@ Provided that the Minister may by means of regulations made by virtue of this Ac
 
 Provided that where a charge to which this sub-article applies is contested or where no payment of the penalty as provided above in this sub-article is made, the provisions of this Act shall cease to apply in respect of the person to be charged and the case shall proceed in accordance with the provisions of the drug laws. For the purposes of this sub-article "contested" means giving notice of contestation even if verbally.
 
-*3*
+## 4A. Possession for personal use and consumption of the drug cannabis.
 
-(TREATMENT NOT IMPRISONMENT) [CAP. 537. 4A. (1) Notwithstanding the provisions of any other law, the possession by a person over the age of eighteen (18) years of the drug cannabis in an amount not exceeding seven grams, in circumstances in which it may be reasonably deemed that such possession is for the personal use of such person, shall not constitute an offence, and that person shall not be subject to being taken into custody under arrest saving when there is a reasonable suspicion of trafficking or dealing in the drug cannabis:
+*Added by: LXVI.2021.30. Amended by: XII.2025.7.*
 
-*Possession for personal use and consumption of the drug cannabis. Added by: LXVI.2021.30. Amended by: XII.2025.7.*
+(1) Notwithstanding the provisions of any other law, the possession by a person over the age of eighteen (18) years of the drug cannabis in an amount not exceeding seven grams, in circumstances in which it may be reasonably deemed that such possession is for the personal use of such person, shall not constitute an offence, and that person shall not be subject to being taken into custody under arrest saving when there is a reasonable suspicion of trafficking or dealing in the drug cannabis:
 
 Provided that any person under the age of eighteen (18) years found in such possession of the drug cannabis shall be subject to being summoned to appear before the Commissioner for Justice who, after taking cognizance of the case may propose that such person should submit himself to a care plan or to treatment. In making such a proposal the Commissioner for Justice may consult the Drug Offenders Rehabilitation Board and such other person or public authority as the Commissioner for Justice deems appropriate.
 
@@ -142,10 +138,6 @@ Provided that upon a conviction for the second or subsequent offence of a person
 (3) The Commissioner for Justice shall in all cases make an order for appearance before the Drug Offenders Rehabilitation Board in the case of any person who is charged with a second or subsequent offence in terms of sub-articles (1) or (2) and who either opts to pay the penalty without proceedings in terms of the Commissioners for Justice Act or fails to appear before the Commissioner when duly summoned.
 
 *Cap. 291.*
-
-*5*
-
-(TREATMENT NOT IMPRISONMENT) [CAP. 537.
 
 (4) Where a person is referred to the Drug Offenders Rehabilitation Board in terms of sub-articles (1), (2) or (3), the said Board shall summon the said person to appear before it and shall, after conducting such examinations on the said person as are proportionate and as it considers necessary, and if it finds that the said person has a drug dependence problem which merits treatment, the said Board shall issue such orders to that person as appear to the Board to be necessary for the purpose of assisting that person to come out of his drug dependence.
 
@@ -197,11 +189,7 @@ Provided that the persons appointed in accordance with paragraphs (b), (c) and (
 
 (h) to work in co-ordination with the justice, social policy, police, health and judicial training authorities for the organization of training for practitioners involved in activities related to the control of drug abuse and drug related behaviour;
 
-(i) to perform any other function related to the rehabilitation of drug abusers as the Minister may (TREATMENT NOT IMPRISONMENT) [CAP. 537.
-
-**from time to time by regulations assign to it.**
-
-*7*
+(i) to perform any other function related to the rehabilitation of drug abusers as the Minister may from time to time by regulations assign to it.
 
 (5) Generally, for the purpose of exercising its powers and functions, the Board shall have, mutatis mutandis, all such powers as are by the provisions of Book Second of the Criminal Code vested in the Court of Magistrates.
 
@@ -252,10 +240,6 @@ Provided that in such instances, the Executive Police or any other authority or 
 *Cap. 291.*
 
 Provided that in such instances, the Executive Police or any other authority or regulatory body authorised by law shall have the authority to seize and confiscate the cannabis plants.
-
-*9*
-
-(TREATMENT NOT IMPRISONMENT) [CAP. 537.
 
 (6) The Minister responsible for the Authority on the Responsible Use of Cannabis Act may make regulations for the better implementation of the provisions of this article and, without prejudice to the generality of the aforesaid, such regulations may also prescribe conditions to ensure compliance with the requirements set out herein.
 
@@ -309,11 +293,7 @@ metres (250m) from the entrance of a school, sport facilities or youth centres;;
 
 (p) that it shall render account in writing every three (3) months to the Authority on the Responsible Use of Cannabis on the amount of cannabis distributed amongst the members of the organisation and about the number of members of the organisation;
 
-(q) that it shall keep a register of its members which shall include as a minimum the names and copies of the (TREATMENT NOT IMPRISONMENT) [CAP. 537.
-
-identity card or of another official identity document or of the passport of the said members. Such register shall be kept in a manner which complies with any law on data protection as applicable from time to time:
-
-*11*
+(q) that it shall keep a register of its members which shall include as a minimum the names and copies of the identity card or of another official identity document or of the passport of the said members. Such register shall be kept in a manner which complies with any law on data protection as applicable from time to time:
 
 Provided that the Authority on the Responsible Use of Cannabis shall verify compliance with this requirement on the basis of confidentiality and non-disclosure:
 
@@ -365,11 +345,7 @@ Provided that this shall apply unless the fact also relates to a more serious of
 
 *Cap. 9.*
 
-(3) Notwithstanding the provisions of the Criminal Code, the (TREATMENT NOT IMPRISONMENT) [CAP. 537.
-
-Attorney General shall have a right of appeal to the Court of Criminal Appeal from any judgment given by the Court of Magistrates in respect of criminal proceedings mentioned in article 7A or any other regulatory instrument.
-
-*13*
+(3) Notwithstanding the provisions of the Criminal Code, the Attorney General shall have a right of appeal to the Court of Criminal Appeal from any judgment given by the Court of Magistrates in respect of criminal proceedings mentioned in article 7A or any other regulatory instrument.
 
 (4) In any criminal proceedings in accordance with the preceding article or any regulations made thereunder, any officer of the Authority on the Responsible Use of Cannabis may, notwithstanding the provisions of any other law, produce the evidence, plead and otherwise conduct the prosecution jointly with the Police.
 
@@ -412,10 +388,6 @@ CAP. 537.] (TREATMENT NOT IMPRISONMENT)
 Provided that the Court in its discretion shall have the right, after considering the gravity of the offence with which the person is charged, not to apply the exclusion stipulated in this paragraph if the wilful offence against the person is not one subject to a punishment of imprisonment for a period of more than two (2) years which was not committed with the use or possession of a firearm, fire or explosives, and once the Court is satisfied that the application of the said exclusion would create a prejudice disproportionate to the actual gravity of the offence to the detriment of the opportunity of the accused to rehabilitate himself from the drug dependence;
 
 (c) that there are objective reasons which indicate that the accused is likely to be rehabilitated from drug dependence or that he has made substantial progress or effort to free himself of drug dependence.
-
-*15*
-
-(TREATMENT NOT IMPRISONMENT) [CAP. 537.
 
 (3) When the Court issues a decree that it is to assume the functions of a Drugs Court, the Court shall proceed to refer the accused before the Drug Offenders Rehabilitation Board which shall be entitled to give such orders in respect of the accused as provided in article 6.
 
@@ -467,11 +439,7 @@ Provided further that in those cases where the Court has received a report prepa
 
 ## 9. Sentencing Policy Advisory Board.
 
-(1) There shall be a Board to be known as the Sentencing (TREATMENT NOT IMPRISONMENT) [CAP. 537.
-
-Policy Advisory Board which shall consist of such number of persons not being less than three or more than six as the Minister may from time to time appoint.
-
-*17*
+(1) There shall be a Board to be known as the Sentencing Policy Advisory Board which shall consist of such number of persons not being less than three or more than six as the Minister may from time to time appoint.
 
 (2) The function of the Board shall be to suggest policies for the sentencing of persons found guilty of drug and drug related offences in such a manner as to aim at achieving consistency in the punishments given for such offences by different courts.
 
@@ -530,10 +498,6 @@ CAP. 537.] (TREATMENT NOT IMPRISONMENT)
 (d) for providing for procedures to be followed for the immediate payment of penalties without proceedings in respect of penalties to which a person may become liable under this Act;
 
 (e) for providing, in a proportionate manner, for the non-renewal of licences or other authorisations of any kind to a person convicted of any offence consisting of simple possession of a drug for personal use until a penalty due is actually paid;
-
-*19*
-
-(TREATMENT NOT IMPRISONMENT) [CAP. 537.
 
 (f) for prescribing anything that may be prescribed under this Act.
 

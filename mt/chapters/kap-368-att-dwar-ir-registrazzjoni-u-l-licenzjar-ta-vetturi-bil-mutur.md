@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Reġistrazzjoni u l-Liċenzjar ta’ Vetturi bil-Mutur (Cap. 368)
 
-*1*
-
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
 **KAPITOLU 368**
 
 **ATT DWAR IR-REĠISTRAZZJONI**
@@ -79,11 +75,7 @@ KAP. 368.] U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR
 
 "dritt għal liċenza ta’ ċirkolazzjoni" tfisser id-dritt imħallas fuq il-liċenzjar ta’ vettura bil-mutur u kull sena wara l-ewwel ħlas;
 
-"emissjonijiet CO2" tfisser il-livell ta’ emissjonijiet ta’ dijossidu tal-karbonju għal vettura mkejjel skont ir-Regolament (KE) Nru 715/ 2007 tal-Parlament Ewropew u tal-Kunsill tal-20 ta’ Ġunju 2007 dwar l-approvazzjoni tat-tip ta’ vetturi bil-mutur fir-rigward tal-emissjonijiet ta’ vetturi ħfief għall-passiġġieri u ta’ vetturi kummerċjali (Euro 5 u Euro 6) u dwar l-aċċess għal informazzjoni dwar it-tiswija u l-manutenzjoni tal-vetturi kif emendat u li jkun jinsab fiċ-ċertifikat tal-KE ta’ approvazzjoni tat-tip jew fiċ-ċertifikat tal-KE ta’ konformità relevanti, u fejn il-vettura ma’ tkunx tat-tip approvat, għal dik il-vettura partikolari l-livell ta’ emissjonijiet li jkun jinsab f’dokument aċċettabbli għall-Awtorità, kif preskritt f’regolamenti, li jkun juri livell ta’ emissjonijiet komparabbli ma’ dak li jinsab fir- U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-Regolament 2018/858 tal-Parlament Ewropew u tal-Kunsill tat-30 ta’ Mejju 2018 dwar l-approvazzjoni u s-sorveljanza tas-suq ta’ vetturi bil-mutur u t-trejlers tagħhom, u ta’ sistemi, komponenti u unitajiet tekniċi separati maħsuba għal tali vetturi, li jemenda r-Regolamenti (KE) Nru 715/2007 u (KE) Nru 595/2009 u li jħassar id-Direttiva 2007/46/KE;
-
-*3*
+"emissjonijiet CO2" tfisser il-livell ta’ emissjonijiet ta’ dijossidu tal-karbonju għal vettura mkejjel skont ir-Regolament (KE) Nru 715/ 2007 tal-Parlament Ewropew u tal-Kunsill tal-20 ta’ Ġunju 2007 dwar l-approvazzjoni tat-tip ta’ vetturi bil-mutur fir-rigward tal-emissjonijiet ta’ vetturi ħfief għall-passiġġieri u ta’ vetturi kummerċjali (Euro 5 u Euro 6) u dwar l-aċċess għal informazzjoni dwar it-tiswija u l-manutenzjoni tal-vetturi kif emendat u li jkun jinsab fiċ-ċertifikat tal-KE ta’ approvazzjoni tat-tip jew fiċ-ċertifikat tal-KE ta’ konformità relevanti, u fejn il-vettura ma’ tkunx tat-tip approvat, għal dik il-vettura partikolari l-livell ta’ emissjonijiet li jkun jinsab f’dokument aċċettabbli għall-Awtorità, kif preskritt f’regolamenti, li jkun juri livell ta’ emissjonijiet komparabbli ma’ dak li jinsab fir- Regolament 2018/858 tal-Parlament Ewropew u tal-Kunsill tat-30 ta’ Mejju 2018 dwar l-approvazzjoni u s-sorveljanza tas-suq ta’ vetturi bil-mutur u t-trejlers tagħhom, u ta’ sistemi, komponenti u unitajiet tekniċi separati maħsuba għal tali vetturi, li jemenda r-Regolamenti (KE) Nru 715/2007 u (KE) Nru 595/2009 u li jħassar id-Direttiva 2007/46/KE;
 
 "Euro 2", "Euro 3", "Euro 4", "Euro 5", "Euro 6", "Euro II", "Euro III", "Euro IV", "Euro V" u "Euro VI" ifissru standards ta’ emissjonijiet stabbiliti għall-vetturi bil-mutur kollha taħt id- Direttiva 70/220/KEE, id-"Direttiva 88/77/KEE, id-Direttiva 1999/ 96/KE, id-Direttiva 2005/55/KE, ir-Regolament (KE) Nru 715/ 2007 u r-Regolament 595/ 2009;
 
@@ -141,11 +133,7 @@ Dan it-tagħmir għandu jkun imwaħħal b’mod riġidu mal-komportament ta’ f
 
 "massa massima awtorizzata" tfisser il-massa massima teknikament permissibbli meta l-vettura bil-mutur tkun mgħobbija kif dikjarata mill-manifattur;
 
-"materja partikolata" tfisser emissjonijiet partikolati ġġenerati minn vetturi bil-mutur b’magna diżil kif imkejla skont ir-Regolament (KE) 715/2007 tal-Parlament Ewropew u tal-Kunsill tal-20 ta’ Ġunju 2007 dwar l-approvazzjoni tat-tip ta’ vetturi bil-mutur fir-rigward tal-emissjonijiet ta’ vetturi ħfief għall-passiġġieri u ta’ vetturi U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-kummerċjali (Euro 5 u Euro 6) u dwar l-aċċess għal informazzjoni dwar it-tiswija u l-manutenzjoni tal-vetturi, kif emendat;
-
-*5*
+"materja partikolata" tfisser emissjonijiet partikolati ġġenerati minn vetturi bil-mutur b’magna diżil kif imkejla skont ir-Regolament (KE) 715/2007 tal-Parlament Ewropew u tal-Kunsill tal-20 ta’ Ġunju 2007 dwar l-approvazzjoni tat-tip ta’ vetturi bil-mutur fir-rigward tal-emissjonijiet ta’ vetturi ħfief għall-passiġġieri u ta’ vetturi kummerċjali (Euro 5 u Euro 6) u dwar l-aċċess għal informazzjoni dwar it-tiswija u l-manutenzjoni tal-vetturi, kif emendat;
 
 "miġjuba f’Malta" tfisser id-dħul f’Malta ta’ vettura bil-mutur li tkun ġejja minn:
 
@@ -209,11 +197,7 @@ ta’ negozju jew il-post ta’ negozju prinċipali tagħha f’Malta;
 
 "servizz tat-trasport pubbliku għall-passiġġieri" tfisser is-servizzi ta’ trasport regolari għall-passiġġieri ta’ interess ġenerali ekonomiku mogħti lill-pubbliku fuq bażi kontinwa u li ma tkunx tiddiskrimina;
 
-"sistema HDDF" tfisser sistema użata fuq vetturi heavy-duty illi U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-taħdem b’żewġ tipi ta’ fjuwil;
-
-*7*
+"sistema HDDF" tfisser sistema użata fuq vetturi heavy-duty illi taħdem b’żewġ tipi ta’ fjuwil;
 
 "sistema użata fuq vetturi heavy-duty illi taħdem b’żewġ tipi ta’ fjuwil" tfisser sistema mmuntata b’magna diżil, kif imfissra fir- Regolament Nru 143 tal-Ġnus Magħquda, li tippermetti magna mmuntata bid-diżil li taħdem kemm bi fjuwil tad-diżil kif ukoll bi fjuwil gassuż fl-istess ħin, biż-żewġ tipi ta’ fjuwil jiġu mkejla separatament;
 
@@ -281,11 +265,7 @@ Vettura bil-mutur mibnija minn dilettant titqies bħala vettura ġdida f’każ 
 
 "vettura elettrika" tfisser vettura li tieħu l-forza motriċi tagħha esklużivament minn mutur elettriku, u tinkludi wkoll motorcycle elettriku;
 
-"vettura elettrika b’ċellola ta’ fuel idroġenu" tfisser vettura U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-elettrika li, biex tħaddem il-mutur elettriku li jkollha abbord, minflok batterija tagħmel użu minn ċellola ta’ fuel idroġenu, waħedha jew inkella flimkien ma’ batterija jew supercapacitator;
-
-*9*
+"vettura elettrika b’ċellola ta’ fuel idroġenu" tfisser vettura elettrika li, biex tħaddem il-mutur elettriku li jkollha abbord, minflok batterija tagħmel użu minn ċellola ta’ fuel idroġenu, waħedha jew inkella flimkien ma’ batterija jew supercapacitator;
 
 "vettura elettrika plug-in ibrida" tfisser vettura elettrika ibrida li tuża batteriji rikarikabbli, jew inġenju ieħor għall-ħażna tal-enerġija, li tkun tista’ tiġi rikarikata ma’ sors estern ta’ enerġija elettrika u li jkollha l-kapaċità li tivvjaġġa għal mhux inqas minn ħamsin (50) kilometru bil-qawwa tal-batterija;
 
@@ -345,11 +325,11 @@ KAP. 368.] U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR
 
 (2) L-ebda vettura bil-mutur ma għandha tintuża fuq it-triq mingħajr liċenza ta’ ċirkolazzjoni maħruġa mill-Awtorità sakemm dik il-vettura ma tkunx soġġetta għal eżenzjoni taħt dan l-Att jew ikollha liċenza ta’ ċirkolazzjoni valida maħruġa minn awtorità kompetenti f’pajjiż ieħor.
 
-*11*
+## 3. Ġbir ta’ taxxa.
 
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 3. (1) Għandha tiġi mitluba u miġbura mill-Awtorità favur il- Gvern, taxxa ta’ reġistrazzjoni u dritt għal liċenza ta’ ċirkolazzjoni bir-rata jew bl-ammont speċifikat f’dan l-Att fuq ir-reġistrazzjoni u l-liċenzjar ta’ -
+*Emendat: XXIII. 2000.30; XIX. 2005.3. Sostitwit: VI. 2009.6.*
 
-*Ġbir ta’ taxxa. Emendat: XXIII. 2000.30; XIX. 2005.3. Sostitwit: VI. 2009.6.*
+(1) Għandha tiġi mitluba u miġbura mill-Awtorità favur il- Gvern, taxxa ta’ reġistrazzjoni u dritt għal liċenza ta’ ċirkolazzjoni bir-rata jew bl-ammont speċifikat f’dan l-Att fuq ir-reġistrazzjoni u l-liċenzjar ta’ -
 
 *Emendat: XI. 2010.5; III. 2013.46; XIII. 2015.106; XII.2023.34.*
 
@@ -381,11 +361,7 @@ Iżda malli teżerċita d-dritt li tħallas it-taxxa tar-reġistrazzjoni u d-dri
 
 (2) Għandha tiġi mitluba u miġbura wkoll mill-Awtorità favur il-Gvern taxxa tar-reġistrazzjoni u dritt ta’ permess ta’ ċirkolazzjoni kif speċifikat f’dan l-Att fir-rigward ta’ -
 
-(a) vetturi bil-mutur mikrija jew leased mingħand impriża tal-kiri tal-vetturi li għandha liċenza fi Stat Membru ieħor li jinġiebu Malta taħt kuntratt ta’ lease jew kiri minn persuna li toqgħod f’Malta għal perjodu li jkun aktar minn tletin ġurnata li jibdew jgħoddu mid-data tal-wasla tal-imsemmija vetturi f’Malta; u (b) vetturi bil-mutur mikrija jew leased mingħand impriża tal-kiri tal-vetturi li għandha liċenza fi Stat Membru U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-ieħor li jinġiebu Malta taħt kuntratt ta’ lease jew kiri minn persuna li ma tkunx toqgħod f’Malta u li ma jkunux jikkwalifikaw taħt xi eżenzjoni jew konċessjoni msemmija fl-artikolu 18 jew, f'każ li dawk il-vetturi bil-mutur jikkwalifikaw għal eżenzjoni bħal dik, wara li jintemm il-perjodu li għalih dawk il-vetturi bil-mutur ikunu ġew eżentati [flimkien mal-perjodu stipulat fl-artikolu 4(4)] jekk dawk il-vetturi bil-mutur jibqgħu jintużaw fit-triq f’Malta wara tmiem dak il-perjodu:
-
-*13*
+(a) vetturi bil-mutur mikrija jew leased mingħand impriża tal-kiri tal-vetturi li għandha liċenza fi Stat Membru ieħor li jinġiebu Malta taħt kuntratt ta’ lease jew kiri minn persuna li toqgħod f’Malta għal perjodu li jkun aktar minn tletin ġurnata li jibdew jgħoddu mid-data tal-wasla tal-imsemmija vetturi f’Malta; u (b) vetturi bil-mutur mikrija jew leased mingħand impriża tal-kiri tal-vetturi li għandha liċenza fi Stat Membru ieħor li jinġiebu Malta taħt kuntratt ta’ lease jew kiri minn persuna li ma tkunx toqgħod f’Malta u li ma jkunux jikkwalifikaw taħt xi eżenzjoni jew konċessjoni msemmija fl-artikolu 18 jew, f'każ li dawk il-vetturi bil-mutur jikkwalifikaw għal eżenzjoni bħal dik, wara li jintemm il-perjodu li għalih dawk il-vetturi bil-mutur ikunu ġew eżentati [flimkien mal-perjodu stipulat fl-artikolu 4(4)] jekk dawk il-vetturi bil-mutur jibqgħu jintużaw fit-triq f’Malta wara tmiem dak il-perjodu:
 
 Iżda d-dispożizzjonijiet ta’ dan l-artikolu u tal-artikolu 4 li jirregolaw il-vetturi bil-mutur li jinġiebu f ’Malta minn Stat Membru ieħor taħt kuntratt ta’ lease jew kiri għandhom ikunu applikabbli biss għal vetturi bil-mutur li ma jiġux użati b’kiri jew b’kumpens.
 
@@ -413,11 +389,7 @@ Iżda, f’każ li l-kuntratt ta’ lease jew kiri jiġi estiż wara li tiskadi 
 
 (b) Fir-rigward tal-każ imsemmi fis-subartikolu (3)(b), meta l-kuntratt tal-lease jew kiri jiskadi, jew jiġi terminat qabel ma jiskadi l-perjodu stipulat fl-imsemmi kuntratt, u l-vettura bil-mutur tinħareġ minn Malta, il-persuna li tkun ħallset it-taxxa tar-reġistrazzjoni, jew iċ-ċessjonarju awtorizzat tagħha, tkun intitolata għal rifużjoni ta’ somma li tkun ekwivalenti għall-ammont nominali ta’ taxxa tar-reġistrazzjoni residwa applikabbli għall-imsemmija vettura bil-mutur bir-rata jew fl-ammont kif speċifikat fil-Ħames Skeda.
 
-(ċ) Fir-rigward tal-każ imsemmi fis-subartikolu (3)(ċ), U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-meta l-kuntratt tal-lease jew kiri kif estiż jiskadi, jew jiġi terminat qabel ma jiskadi l-perjodu stipulat fl-imsemmi kuntratt, u l-vettura bil-mutur tinħareġ minn Malta, il-persuna li tkun ħallset it-taxxa tar-reġistrazzjoni, jew iċ-ċessjonarju awtorizzat tagħha, tkun intitolata għal rifużjoni ta’ somma li tkun ekwivalenti għall-ammont nominali ta’ taxxa tar-reġistrazzjoni residwa applikabbli għall-imsemmija vettura bil-mutur bir-rata jew fl-ammont kif speċifikat fil-Ħames Skeda.
-
-*15*
+(ċ) Fir-rigward tal-każ imsemmi fis-subartikolu (3)(ċ), meta l-kuntratt tal-lease jew kiri kif estiż jiskadi, jew jiġi terminat qabel ma jiskadi l-perjodu stipulat fl-imsemmi kuntratt, u l-vettura bil-mutur tinħareġ minn Malta, il-persuna li tkun ħallset it-taxxa tar-reġistrazzjoni, jew iċ-ċessjonarju awtorizzat tagħha, tkun intitolata għal rifużjoni ta’ somma li tkun ekwivalenti għall-ammont nominali ta’ taxxa tar-reġistrazzjoni residwa applikabbli għall-imsemmija vettura bil-mutur bir-rata jew fl-ammont kif speċifikat fil-Ħames Skeda.
 
 (d) Meta vettura bil-mutur li tkun ġiet reġistrata f’Malta minn impriża tal-kiri tal-vetturi stabbilita f’Malta, liema vettura bil-mutur kienet qiegħda tintuża unikament u esklussivament għall-iskop ta’ leasing jew kiri, tiġi esportata u titneħħa mir-reġistrazzjoni, dik l-impriża tal-kiri tal-vetturi tista’ tapplika għand l- Awtorità għal rifużjoni li tkun ekwivalenti għall-ammont nominali tat-taxxa tar-reġistrazzjoni residwa applikabbli għall-imsemmija vettura bir-rata jew fl-ammont stabbilit fil-Ħames Skeda.
 
@@ -463,11 +435,7 @@ Kull min jimporta jew idaħħal vettura bil-mutur f’Malta, kull persuna li toq
 
 (ċ) ġiet manfatturata iżjed minn erba’ snin qabel ma ġiet fis-seħħ l-aħħar Direttiva tal-KE kif stabbilit fiha u li tistipula l-aħħar stadju jew standard ta’ emissjoni,
 
-għandha tiġi klassifikata taħt it-Tieni Skeda u taxxa għandha tiġi U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-imposta fuqha bir-rata jew bl-ammont speċifikat fiha:
-
-*17*
+għandha tiġi klassifikata taħt it-Tieni Skeda u taxxa għandha tiġi imposta fuqha bir-rata jew bl-ammont speċifikat fiha:
 
 Iżda l-aħħar Direttiva tal-KE għandha tkun id-Direttiva tal- KE applikabbli fil-waqt tal-importazzjoni tal-vettura bil-mutur.
 
@@ -523,11 +491,7 @@ Iżda t-taxxa tar-reġistrazzjoni fuq l-imsemmija vetturi bil-mutur M1 u muturi 
 
 (b) jista' jeħel il-pieni li għalihom jipprovdi l-artikolu 21(1):
 
-Iżda kwalunkwe persuna li mingħajr ma tagħmel użu minnha, fir-rigward ta’ vettura M1 jew motor cycle li tkun ġiet irreġistrata mal-Awtorità għall-użu fit-triq U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-f’Malta biss u esklussivament nhar ta’ Ġimgħa mis-18:00 ’il quddiem, is-Sibtijiet, il-Ħdud, festi nazzjonali u festi pubbliċi oħra, tonqos milli żżomm tali vettura M1 jew motor cycle iggaraxxjata fi kwalunkwe ġurnata oħra għandha tkun ħatja wkoll ta’ reat u għandha teħel ukoll il-piena stipulata fl-artikolu 21(2a).
-
-*19*
+Iżda kwalunkwe persuna li mingħajr ma tagħmel użu minnha, fir-rigward ta’ vettura M1 jew motor cycle li tkun ġiet irreġistrata mal-Awtorità għall-użu fit-triq f’Malta biss u esklussivament nhar ta’ Ġimgħa mis-18:00 ’il quddiem, is-Sibtijiet, il-Ħdud, festi nazzjonali u festi pubbliċi oħra, tonqos milli żżomm tali vettura M1 jew motor cycle iggaraxxjata fi kwalunkwe ġurnata oħra għandha tkun ħatja wkoll ta’ reat u għandha teħel ukoll il-piena stipulata fl-artikolu 21(2a).
 
 (7) Meta l-Awtorità taslilha talba sabiex l-użu ta’ vettura li tkun ġiet reġistrata skont id-dispożizzjonijiet tas-subartikolu (4) ma jibqax limitat biss għal nhar ta’ Ġimgħa minn 18.00hrs ’il quddiem, Sibt, fil-Ħdud, fil-festi nazzjonali u fil-btajjel pubbliċi, l-Awtorità għandha tiddeċiedi dwar il-valur ta’ dik il-vettura bil-għan li tiġi kalkulata t-taxxa tar-reġistrazzjoni li għandha titħallas fuq dik il-vettura u s-sid reġistrat tal-vettura jew il-kompratur, skont ma jkun il-każ, għandu jħallas sittin fil-mija tal-ammont ta’ taxxa stabbilit. Sabiex jiġi stabbilit il-valur tal-imsemmija vettura fil-ħin ta’ meta ssir il-valutazzjoni għandhom mutatis mutandis ikunu applikabbli d-dispożizzjonijiet tal-artikolu 9(2):
 
@@ -579,11 +543,7 @@ Iżda wkoll meta vettura bil-mutur bħal dik tkun ġiet reġistrata mal-Awtorit�
 
 (4) L-ebda rifużjoni tat-taxxa tar-reġistrazzjoni, jew xi parti minnha, imħallsa mar-reġistrazzjoni tal-vettura għall-użu fit-triq f’Malta ma tista’ tintalab fir-rigward ta’ kwalunkwe vettura bil-mutur, inkluż motor cycle, mat-tibdil tar-reġim tal-liċenzja tagħha skont is-subartikolu (1).
 
-(5) Kull vettura bil-mutur u motor cycle, li r-reġim tal-liċenzja tiegħu jiġi mibdul skont is-subartikolu (1) għandu jinżamm ġo garaxx u U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-ma jistax jiġi użat jew parkeġġjat fit-triq f’Malta f’kwalunkwe jum ħlief nhar ta’ Ġimgħa minn 18.00hrs ’il quddiem, nhar ta’ Sibt, fil- Ħdud, fil-festi nazzjonali u fi btajjel pubbliċi oħra.
-
-*21*
+(5) Kull vettura bil-mutur u motor cycle, li r-reġim tal-liċenzja tiegħu jiġi mibdul skont is-subartikolu (1) għandu jinżamm ġo garaxx u ma jistax jiġi użat jew parkeġġjat fit-triq f’Malta f’kwalunkwe jum ħlief nhar ta’ Ġimgħa minn 18.00hrs ’il quddiem, nhar ta’ Sibt, fil- Ħdud, fil-festi nazzjonali u fi btajjel pubbliċi oħra.
 
 (6) Il-proprjetarju ta’ kwalunkwe vettura bil-mutur jew motor cycle li r-reġim tal-liċenzja tiegħu jiġi mibdul skont is-subartikolu (1) jista’ japplika mal-Awtorità, fuq dik il-formola u skont dawk il-proċeduri kif jista’ jiġi stabbilit mill-Awtorità minn żmien għal żmien, sabiex l-użu fit-triq ta’ tali vettura bil-mutur jew motor cycle ma jibqax limitat biss għal nhar ta’ Ġimgħa minn 18.00 hrs ’il quddiem, nhar ta’ Sibt, fil- Ħdud, fil-festi nazzjonali u fil-btajjel pubbliċi oħra. F’dak il-każ, l-applikant għandu jkun obbligat li jħallas somma ekwivalenti għad-dritt tal-liċenzja taċ-ċirkolazzjoni skont ir-rata sħiħa stabbilita fir-Raba’ Skeda għall-perjodu mid-data li fiha tiġi milqugħa tali applikazzjoni sad-data tat-tiġdid tad-dritt tal-liċenzja taċ-ċirkolazzjoni wara li tnaqqas is-somma mħallsa skont ir-rata mnaqqsa stabbilita fis-subartikolu (3).
 
@@ -633,11 +593,7 @@ Iżda d-disposizzjonijiet ta’ dan is-subartikolu m’għandhomx japplikaw jekk
 
 Iżda wkoll id-disposizzjonijiet ta’ dan is-subartikolu m’għandhomx japplikaw jekk il-bidla fil-klassifikazzjoni sseħħ aktar tard minn sitta u tletin xahar mid-data ta’ meta saret il-klassifikazzjoni oriġinali fil-każ ta’ vetturi rreġistrati għall-użu bħala vetturi bil-mutur għall-kiri.
 
-(5) Meta vettura N1 tiġi mibdula għal vettura M1, l-Awtorità għandha tikklassifika dik il-vettura taħt it-Tieni Skeda u għall-finijiet tat-taxxa ta’ reġistrazzjoni għandha tapplika r-rata U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-applikabbli għal vettura M1 bl-ogħla rata taħt it-Tieni Skeda kemm jekk il-vettura għandha makna petrol kif ukoll jekk għandha makna diesel. Il-valur ta’ reġistrazzjoni (VR) ta’ vettura bil-mutur kif mibdul għandu jitqies li jkun dak ta’ vettura M1 użata.
-
-*23*
+(5) Meta vettura N1 tiġi mibdula għal vettura M1, l-Awtorità għandha tikklassifika dik il-vettura taħt it-Tieni Skeda u għall-finijiet tat-taxxa ta’ reġistrazzjoni għandha tapplika r-rata applikabbli għal vettura M1 bl-ogħla rata taħt it-Tieni Skeda kemm jekk il-vettura għandha makna petrol kif ukoll jekk għandha makna diesel. Il-valur ta’ reġistrazzjoni (VR) ta’ vettura bil-mutur kif mibdul għandu jitqies li jkun dak ta’ vettura M1 użata.
 
 (6) Meta vettura N1 tiġi mibdula għal vettura M1, id-dritt għal liċenza ta’ ċirkolazzjoni pagabbli fuq dik il-vettura kif mibdula għandu jkun dak applikabbli għal vettura M1 kif provdut fir-Raba’ Skeda.
 
@@ -692,10 +648,6 @@ bħala elenku eżawrjenti u l-Awtorità għandu jkollha d-dritt li tikklassifika
 (3) Meta t-Tribunal jiddeċiedi li l-ammont dovut fir-rigward ta’ taxxa ta’ reġistrazzjoni huwa inqas minn dak imħallas, l-Awtorità għandha, fi żmien disgħin ġurnata minn meta tittieħed dik id-deċiżjoni, tħallas lura f’isem il-Gvern l-ammont imħallas żejjed lil dak l-appellant.
 
 (4) Meta t-Tribunal jiddeċiedi li l-ammont dovut fir-rigward ta’ taxxa ta’ reġistrazzjoni huwa aktar minn dak imħallas, l-appellant għandu jħallas lill-Awtorità f’isem il-Gvern l-ammont imħallas anqas fi żmien disgħin ġurnata minn dik id-deċiżjoni.
-
-*25*
-
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
 
 (5) Għandu jitħallas imgħax ta’ 8% fis-sena mill-Awtorità meta hija tonqos milli tissodisfa d-disposizzjonijiet tas-subartikolu (3) jew mill-appellant meta huwa jonqos milli jissodisfa d-disposizzjonijiet tas-subartikolu (4).
 
@@ -769,10 +721,6 @@ Iżda l-ammont tad-dritt għal liċenza ta’ ċirkolazzjoni pagabbli fir-rigwar
 
 (i) tiddaħħal Malta temporanjament għal perjodu, konsekuttiv jew mod ieħor, li ma jkunx jaqbeż seba’ xhur f’perjodu ta’ tnax-il xahar;
 
-*27*
-
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
 (ii) minn persuna li jkollha r-residenza normali tagħha barra minn Malta;
 
 (iii) dik il-persuna ma jkollhiex dokument ta’ identifikazzjoni legalment validu jew ma jkunx inħarġilha permess ta’ residenza skont l-Att dwar l- Immigrazzjoni; u maħruġ skont l-Att dwar il-Karta tal-Identità u Dokumenti oħra tal-Identità, jew tkun, skont l-istess Att, obbligata li jkollha fil-pussess tagħha dokument ta’ identifikazzjoni legalment validu;
@@ -815,11 +763,7 @@ Iżda wkoll, f’każ li vettura bil-mutur bħal dik li tkun reġistrata f’paj
 
 (3a) Fejn vettura li ma tkunx soġġetta għall-eżenzjonijiet stipulati fis-subartikolu (1) tiddaħħal f’Malta u tintuża fit-triq mingħajr il-ħlas tat-taxxa fuq ir-reġistrazzjoni ta’ vettura, l-imsemmija vettura għandha tiġi ssekwestrata u s-sid għandu jkun responsabbli għall-ħlas tat-taxxa fuq ir-reġistrazzjoni tal-vettura flimkien ma’ kwalunkwe spiża u penalitajiet amministrattivi li jistgħu jiġu stabbiliti mill-Awtorità u, wara tali ħlas, għandu jkun obbligat li jirreġistra l-vettura jew joħroġ l-imsemmija vettura barra minn Malta f’dak iż-żmien li jista’ jiġi preskritt mill-Awtorità, minn żmien għal żmien:
 
-Iżda s-sid jista’, minflok il-ħlas tat-taxxa fuq ir-reġistrazzjoni ta’ vettura, iħallas lill-Awtorità penali amministrattiva ta’ elfejn euro (€2,000) u jipproċedi sabiex joħroġ l-imsemmija vettura minn Malta U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-f’dak iż-żmien li jista’ jiġi preskritt mill-Awtorità.
-
-*29*
+Iżda s-sid jista’, minflok il-ħlas tat-taxxa fuq ir-reġistrazzjoni ta’ vettura, iħallas lill-Awtorità penali amministrattiva ta’ elfejn euro (€2,000) u jipproċedi sabiex joħroġ l-imsemmija vettura minn Malta f’dak iż-żmien li jista’ jiġi preskritt mill-Awtorità.
 
 (4) Vettura bil-mutur M1 jew ċikletta li tkun ġiet mikrija mingħand impriża li tikri l-karrozzi stabbilita fi Stat Membru ieħor minn persuna li ma tkunx residenti f’Malta tkun eżenti mill-ħtieġa li tiġi reġistrata mal-Awtorità u mill-ħlas fuqha tat-taxxa tar-reġistrazzjoni jekk dik il-vettura tiġi użata f’Malta għal perjodu kontinwu ta’ mhux aktar minn tletin ġurnata li matulu hija tista’ - (a) tinkera mill-ġdid darba biss lil persuna li ma jkollhiex ir-residenza normali tagħha f’Malta bil-ħsieb li l-imsemmija vettura tkun se tinħareġ minn Malta, jew (b) tiġi ritornata minn impjegat tal-impriża li tikri l-karrozzi sew jekk dak l-impjegat ikollu r-residenza normali tiegħu f’Malta sew jekk le, u
 
@@ -869,11 +813,7 @@ KAP. 368.] U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR
 
 (5) Il-vetturi elenkati taħt is-subartikolu (3)(a) sa (e) ikunu eżentati wkoll mill-ħlas tad-drittijiet tal-liċenza ta’ ċirkolazzjoni.
 
-(6) Bla ħsara għad-disposizzjonijiet tas-subartikolu (2), il- U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-Ministru responsabbli għall-finanzi jista’ jawtorizza lill-Awtorità biex tirreġistra vettura bil-mutur, bla ħsara għal dawk il-kondizzjonijiet, limitazzjonijiet jew restrizzjonijiet li hi tista’ timponi, jew mingħajr ebda ħlas ta’ taxxa ta’ reġistrazzjoni jew bil-ħlas tat-taxxa ta’ reġistrazzjoni f’ammont li jkun b’rata anqas minn dik li ġeneralment tkun dovuta jew, jekk dik it-taxxa tkun ġiet imħallsa, biex tħallas lura t-taxxa kollha jew parti minnha.
-
-*31*
+(6) Bla ħsara għad-disposizzjonijiet tas-subartikolu (2), il- Ministru responsabbli għall-finanzi jista’ jawtorizza lill-Awtorità biex tirreġistra vettura bil-mutur, bla ħsara għal dawk il-kondizzjonijiet, limitazzjonijiet jew restrizzjonijiet li hi tista’ timponi, jew mingħajr ebda ħlas ta’ taxxa ta’ reġistrazzjoni jew bil-ħlas tat-taxxa ta’ reġistrazzjoni f’ammont li jkun b’rata anqas minn dik li ġeneralment tkun dovuta jew, jekk dik it-taxxa tkun ġiet imħallsa, biex tħallas lura t-taxxa kollha jew parti minnha.
 
 ## 19A. Għoti ta’ kreditu.
 
@@ -930,10 +870,6 @@ Ministru responsabbli għall-finanzi jista’ jawtorizza lill-Awtorità biex tir
 (h) jagħmel użu minn vettura bil-mutur M1 jew motor cycle li jkun ġie reġistrat mal-Awtorità biex jintuża fit-triq f’Malta unikament u esklussivament nhar ta’ Ġimgħa minn 18.00hrs ’il quddiem, is-Sibt, fil-Ħdud, festi nazzjonali u btajjel pubbliċi oħra; jew
 
 (i) bħala persuna li għandha r-residenza normali tagħha f’Malta jonqos li javża lill-Awtorità bil-wasla ta’ vettura li tkun reġistrata f’pajjiż ieħor li jkollu l-ħsieb juża fit-triq f’Malta għal perjodu ta’ mhux aktar minn tletin ġurnata konsekuttivi; jew
-
-*33*
-
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
 
 (j) bħala persuna li għandha r-residenza normali tagħha f’Malta jonqos li jikseb mingħand l-Awtorità permess ta’ ċirkolazzjoni temporanju għall-użu f’Malta ta’ vettura reġistrata f’pajjiż ieħor għal perjodu ta’ mhux aktar minn tletin ġurnata konsekuttivi; jew
 
@@ -993,11 +929,7 @@ Kull meta uffiċjal tal-Pulizija jew Uffiċjal tal-Infurzar tal- Awtorità jissu
 
 (b) vettura bil-mutur ġiet mibdula u ma ingħatax avviż rigward il-bidla fil-klassifikazzjoni skont l-artikolu 10, jew
 
-(ċ) xi taxxa ta’ reġistrazzjoni fir-rigward tal-vettura ma U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-ġietx imħallsa,
-
-*35*
+(ċ) xi taxxa ta’ reġistrazzjoni fir-rigward tal-vettura ma ġietx imħallsa,
 
 l-uffiċjal jista’ jżomm il-vettura u jista’ jordna t-tneħħija tal-imsemmija vettura skont id-disposizzjonjiet tal-Ordinanza dwar ir- Regolament tat-Traffiku jew ir-regolamenti magħmula taħtha.
 
@@ -1061,11 +993,7 @@ Iżda l-valur tar-reġistrazzjoni ma għandux fi kwalunkwe każ ikun inqas mill-
 
 Iżda, jekk l-appell tal-applikant jintlaqa’, l-Awtorità għandha trodd lura lill-applikant il-ħlas żejjed fid-dritt tal-liċenza ta’ ċirkolazzjoni mhux aktar tard minn tletin ġurnata mid-data li fiha tkun ingħatat id-deċiżjoni tat-Tribunal.
 
-(11) Fir-rigward ta’ vettura bil-mutur li tkun għadha kif ġiet impurtata u tkun għadha ma ġietx reġistrata f ’Malta li l- U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-applikazzjoni biex hija tiġi klassifikata bħala vettura vintage tkun ġiet rifjutata mill-kumitat għall-klassifikazzjoni ta’ vetturi vintage, is-sid, f’każ li jħoss ruħu aggravat b’dik id-deċiżjoni u jagħżel li jappella, għandu jħallas lill-Awtorità mitejn u ħamsa u tletin euro (€235) għar-reġistrazzjoni proviżorja ta’ dik il-vettura bil-mutur. L-imsemmija vettura bil-mutur m’għandhiex tintuża fit-triq f’Malta qabel ma jiġi deċiż l-appell u qabel ma ssir ir-reġistrazzjoni b’mod regolari tal-imsemmija vettura bil-mutur f'Malta.
-
-*37*
+(11) Fir-rigward ta’ vettura bil-mutur li tkun għadha kif ġiet impurtata u tkun għadha ma ġietx reġistrata f ’Malta li l-applikazzjoni biex hija tiġi klassifikata bħala vettura vintage tkun ġiet rifjutata mill-kumitat għall-klassifikazzjoni ta’ vetturi vintage, is-sid, f’każ li jħoss ruħu aggravat b’dik id-deċiżjoni u jagħżel li jappella, għandu jħallas lill-Awtorità mitejn u ħamsa u tletin euro (€235) għar-reġistrazzjoni proviżorja ta’ dik il-vettura bil-mutur. L-imsemmija vettura bil-mutur m’għandhiex tintuża fit-triq f’Malta qabel ma jiġi deċiż l-appell u qabel ma ssir ir-reġistrazzjoni b’mod regolari tal-imsemmija vettura bil-mutur f'Malta.
 
 (12) Meta t-Tribunal ta’ Reviżjoni Amministrattiva jħassar deċiżjoni mogħtija mill-kumitat għall-klassifikazzjoni ta’ vetturi vintage li jirrifjuta applikazzjoni għall-klassifikazzjoni ta’ vettura bil-mutur bħala vettura vintage, l-Awtorità għandha tipproċedi biex tirreġistra dik il-vettura bil-mutur bħala vettura vintage.
 
@@ -1111,11 +1039,7 @@ Iżda wkoll biex vetturi vintage ikunu jistgħu jiġu użati għal għan li ma j
 
 (22) Vettura klassifikata bħala vettura vintage mill-kumitat għall-klassifikazzjoni ta’ vetturi vintage hija eżentata mill-ħlas tal-liċenza ta’ ċirkolazzjoni u minflok għandu japplika l-ħlas amministrattiv stabbilit fir-Raba’ Skeda:
 
-Iżda f’każ li mat-tiġdid tal-liċenzja taċ-ċirkolazzjoni tagħha wara li tkun għamlet test sabiex jiġi ċertifikat li l-vettura hija tajba U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-għat-triq jirriżulta illi vettura vintage tkun għamlet tlett elef kilometru (3,000 km) jew iżjed fuq l-odometru tagħha f’sena waħda (1) minn meta tkun ġiet imġedda l-aħħar il-liċenzja taċ-ċirkolazzjoni tagħha, jew medja ta’ tlett elef kilometru (3,000 km) jew iżjed fis-sena fir-rigward ta’ dawk il-vetturi li jsirilhom it-test biex jiġu ċertifikati tajba għat-triq darba kull sentejn (2), b’żieda mad-dritt amministrattiv stabbilit fir-Raba’ Skeda, il-proprjetarju ta’ tali vettura għandu jkun obbligat ukoll li jħallas id-dritt tal-liċenzja taċ-ċirkolazzjoni kif stabbilit fir-Raba’ Skeda għal dik is-sena jew snin matul liema dik l-vettura tkun irreġistrat tlett elef kilometru (3,000 km) jew iżjed fuq l-odometru tagħha f’sena waħda (1) jew medja ta’ tlett elef kilometru (3,000 km) jew iżjed fis-sena fir-rigward ta’ dawk il-vetturi li jsirilhom it-test biex jiġu ċertifikati tajba għat-triq darba kull sentejn (2):
-
-*39*
+Iżda f’każ li mat-tiġdid tal-liċenzja taċ-ċirkolazzjoni tagħha wara li tkun għamlet test sabiex jiġi ċertifikat li l-vettura hija tajba għat-triq jirriżulta illi vettura vintage tkun għamlet tlett elef kilometru (3,000 km) jew iżjed fuq l-odometru tagħha f’sena waħda (1) minn meta tkun ġiet imġedda l-aħħar il-liċenzja taċ-ċirkolazzjoni tagħha, jew medja ta’ tlett elef kilometru (3,000 km) jew iżjed fis-sena fir-rigward ta’ dawk il-vetturi li jsirilhom it-test biex jiġu ċertifikati tajba għat-triq darba kull sentejn (2), b’żieda mad-dritt amministrattiv stabbilit fir-Raba’ Skeda, il-proprjetarju ta’ tali vettura għandu jkun obbligat ukoll li jħallas id-dritt tal-liċenzja taċ-ċirkolazzjoni kif stabbilit fir-Raba’ Skeda għal dik is-sena jew snin matul liema dik l-vettura tkun irreġistrat tlett elef kilometru (3,000 km) jew iżjed fuq l-odometru tagħha f’sena waħda (1) jew medja ta’ tlett elef kilometru (3,000 km) jew iżjed fis-sena fir-rigward ta’ dawk il-vetturi li jsirilhom it-test biex jiġu ċertifikati tajba għat-triq darba kull sentejn (2):
 
 Iżda wkoll minkejja dan, tali vettura ma għandhiex titlef l-istat tagħha bħala vettura vintage u għandha tibqa’ soġġetta biss għall-ħlas tad-dritt amministrattiv stabbilit fir-Raba’ Skeda sakemm, mat-tiġdid tal-liċenzja taċ-ċirkolazzjoni, ma jirriżultax illi l-proprjetarju tagħha għandu jkun obbligat ukoll li jħallas id-dritt tal-liċenzja taċ-ċirkolazzjoni kif stabbilit fir-Raba’ Skeda b’riżultat tal-fatt li tali vettura vintage tkun għamlet tlett elef kilometru (3,000 km) jew iżjed f’sena waħda (1) jew medja ta’ tlett elef kilometru (3,000 km) jew iżjed fis-sena fil-każ ta’ vettura li jsirilha t-test biex tiġi ċertifikata tajba għat-triq darba kull (2) sentejn.
 
@@ -1227,15 +1151,7 @@ vettura b’massa massima awtorizzata sa 1,305 kg Kg x 0.35 + cc x 0.39 x €1 v
 
 1,305 kg sa 1,760 kg Kg x 0.39 + cc x 0.43 x €1 vettura b’massa massima awtorizzata ta’ aktar minn
 
-1,760 kg sa 3,500 kg Kg x 0.43 + cc x 0.48 x €1
-
-**U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR**
-
-*[KAP. 368.*
-
-*41*
-
-Euro standard l-aktar reċenti -1
+1,760 kg sa 3,500 kg Kg x 0.43 + cc x 0.48 x €1 Euro standard l-aktar reċenti -1
 
 vettura b’massa massima awtorizzata sa 1,305 kg Kg x 1.00 + cc x 1.10 x €1 vettura b’massa massima awtorizzata ta’ aktar minn
 
@@ -1308,8 +1224,6 @@ Meta jiġu applikati t-tabelli rilevanti hawn qabel, l-ammont totali tat-taxxa t
 **ta’ kull sena + 0.5% għal kull 10,000 kilometru]}**
 
 Iżda l-valur depprezzat massimu tal-vettura bil-mutur f’din il-kategorija ma għandux jeċċedi 95%, u meta jintlaħaq dan il-valur ma jsir ebda tnaqqis ieħor.
-
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 43
 
 **Deprezzament skond is-sena tal-ewwel reġistrazzjoni tal-vettura**
 
@@ -1434,8 +1348,6 @@ Kategorija B: vetturi elettriċi b’ċellola ta’ fjuwil idroġenu, vetturi el
 \4. vetturi elettriċi range extender …………….......................................… 0%
 
 \5. vetturi bi propulsjoni li jaħdmu biss b’sistema ta’ fjuwil gassuż …….... 0%
-
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 45
 
 Kategorija Ċ: vetturi tal-Kategorija N vintage għall-użu privat, Vetturi b’Għan Speċjali u Tractor Units
 
@@ -1577,9 +1489,7 @@ km sa u kompriżi
 
 250g/km CO2 x VR x 0.21% CO2 x VR x 0.29% CO2 x VR x 0.38% CO2 x VR x 0.44% Aktar minn 250g/
 
-km CO2 x VR x 0.23% CO2 x VR x 0.31% CO2 x VR x 0.41% CO2 x VR x 0.47% U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 47
-
-B’magna diesel b’materja partikolata ta’ 0g/km sa u kompriżi 0.005g/km
+km CO2 x VR x 0.23% CO2 x VR x 0.31% CO2 x VR x 0.41% CO2 x VR x 0.47% B’magna diesel b’materja partikolata ta’ 0g/km sa u kompriżi 0.005g/km
 
 Standard Euro Standard Euro
 
@@ -1674,8 +1584,6 @@ Meta vettura, li taqa’ taħt xi waħda mill-kategoriji regolati fit-Tieni Sked
 Tabella Euro Standard għall-finijiet ta’ Reġistrazzjoni li tindika s-Sena ta’ Manifattura u/
 
 **jew ta’ Reġistrazzjoni ta’ vettura bil-mutur**
-
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 49
 
 Euro 4 Euro 5a/6a
 
@@ -1819,8 +1727,6 @@ Muturi
 
 **Kapaċità tal-Magna €**
 
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 51
-
 Sa u inkluż 50cc 5,000
 
 Aktar minn 50cc sa u inkluż 125cc 10,000
@@ -1887,9 +1793,7 @@ Kategorija E: Vetturi bil-mutur M1 u motor cycles u vetturi bil-mutur għall-kir
 
 (3) Meta vettura bil-mutur M1 li tkun ġiet irreġistrata qabel l-1 ta’ Jannar, 2010 bħala vettura bil-mutur self-drive bil-marki ta’ reġistrazzjoni li jkollhom żewġ ittri li jkunu segwiti bl-ittra K tiġi mibdula għal vettura bil-mutur privata fi żmien sitta u tletin xahar minn meta ġiet irreġistrata, għandha titħallas it-taxxa applikabbli fuqha skont il-valur fis-suq tal-vettura li minnu titnaqqas it-taxxa ta’ reġistrazzjoni mħallsa meta ġiet irreġistrata dik il-vettura.
 
-(4) Meta vettura bil-mutur M1 li tkun ġiet irreġistrata qabel l-1 ta’ Jannar, 2010 bħala vettura bil-mutur misjuqa minn chauffeur bil-marki ta’ reġistrazzjoni li U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 53
-
-jkollhom ittra segwita bl-ittri GY tiġi mibdula għal vettura bil-mutur privata fi żmien sittin xahar minn meta ġiet irreġistrata, għandha titħallas it-taxxa applikabbli fuqha skont il-valur fis-suq tal-vettura li minnu titnaqqas it-taxxa ta’ reġistrazzjoni imħallsa meta tkun ġiet irreġistrata dik il-vettura.
+(4) Meta vettura bil-mutur M1 li tkun ġiet irreġistrata qabel l-1 ta’ Jannar, 2010 bħala vettura bil-mutur misjuqa minn chauffeur bil-marki ta’ reġistrazzjoni li jkollhom ittra segwita bl-ittri GY tiġi mibdula għal vettura bil-mutur privata fi żmien sittin xahar minn meta ġiet irreġistrata, għandha titħallas it-taxxa applikabbli fuqha skont il-valur fis-suq tal-vettura li minnu titnaqqas it-taxxa ta’ reġistrazzjoni imħallsa meta tkun ġiet irreġistrata dik il-vettura.
 
 (5) Meta taxicar, li meta tkun ġiet reġistrata għall-ewwel darba qabel l-1 ta’ Jannar, 2010, kienet vettura ġdida, tiġi mibdula f’karrozza privata fi żmien 60 xahar mid-data tal-ewwel reġistrazzjoni tagħha bħala taxicar, dik il-vettura għandha tiġi valutata mill-Awtorità u għandha titħallas fuqha t-taxxa ta’ reġistrazzjoni applikabbli għal vettura M1 taħt it-Tieni Skeda bit-tnaqqis tal-20 fil-mija li kienu diġà tħallsu fuq l-ewwel reġistrazzjoni.
 
@@ -1956,8 +1860,6 @@ Karavani bil-mutur, u motor homes, kemm ġodda jew użati ........... 50% 4. Vet
 *0% 0%*
 
 1.111.023 4.1 mhux aktar 50cc ............................................................... 1.112.033 4.2 aktar minn 50cc iżda ta’ mhux aktar minn 125cc ...............
-
-**U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 55**
 
 1.112.043 4.3 aktar minn 125cc iżda ta’ mhux aktar minn 250cc ............. 0%
 
@@ -2061,17 +1963,13 @@ Aktar minn 180g/km sa u 275 275 275 275 275 338 369 403 inklużi 220g/km
 
 Aktar minn 220g/km sa u 375 375 375 375 375 463 506 554 inklużi 250g/km
 
-Aktar minn 250g/km 525 525 525 525 525 650 713 781 U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-*14+ € 295*
-
-Sena 8 9 10 11 12 13 CO2 € € € € € € 0g/km sa u inklużi 100g/ 166 183 201 221 244 268 km
-
-*57*
+Aktar minn 250g/km 525 525 525 525 525 650 713 781 Sena 8 9 10 11 12 13 CO2 € € € € € € 0g/km sa u inklużi 100g/ 166 183 201 221 244 268 km
 
 *339*
 
 Aktar minn 100g/km sa u 198 216 236 259 283 310 inklużi 130g/km
+
+*14+ € 295*
 
 *374*
 
@@ -2195,17 +2093,13 @@ Aktar minn 180g/km sa u 288 288 288 288 288 353 386 422
 
 Aktar minn 220g/km sa u 393 393 393 393 393 484 530 581
 
-Aktar minn 250g/km 550 550 550 550 550 681 747 819 U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
-*14+ € 309*
-
-Sena 8 9 10 11 12 13 CO2 € € € € € € 0g/km sa u inklużi 100g/ 175 192 211 233 256 281 km
-
-*59*
+Aktar minn 250g/km 550 550 550 550 550 681 747 819 Sena 8 9 10 11 12 13 CO2 € € € € € € 0g/km sa u inklużi 100g/ 175 192 211 233 256 281 km
 
 *355*
 
 Aktar minn 100g/km sa u 207 226 248 271 296 324 inklużi 130g/km
+
+*14+ € 309*
 
 *391*
 
@@ -2353,8 +2247,6 @@ Fejn vettura tiġi maqluba sabiex taħdem bl-autogas, id-dritt annwali tal-liċe
 
 1B. Id-drittijiet tal-liċenzja taċ-ċirkolazzjoni annwali għal vetturi ġodda M1 (vetturi għall-passiġġieri) reġistrati skont Kategorija AA tat-Tieni Skeda fi jew wara l-1 ta’ Jannar, 2021.
 
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 61
-
 Taħt Kategorija 1B, id-data tal-emissjonijiet CO2 huma mkejla skont standard WLTP:
 
 Magni Petrol u Diesel
@@ -2469,11 +2361,9 @@ Klassi 6 (aktar minn 2000cc) 432 432 432 432 432 432 432 489
 
 *Qawwa tal-magna*
 
-Sena 8 9 10 11 12 13 14 15 € € € € € € € € Klassi 1 (sa u inklużi 1300cc) 110 112 113 115 116 118 119 121 Klassi 2 (aktar minn 1300cc sa u 147 149 151 155 155 157 159 161 U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 63
+Sena 8 9 10 11 12 13 14 15 € € € € € € € € Klassi 1 (sa u inklużi 1300cc) 110 112 113 115 116 118 119 121 Klassi 2 (aktar minn 1300cc sa u 147 149 151 155 155 157 159 161 Klassi 3 (aktar minn 1449cc sa u 168 172 175 179 183 187 191 196 inklużi 1500cc)
 
 *inklużi 1449cc)*
-
-Klassi 3 (aktar minn 1449cc sa u 168 172 175 179 183 187 191 196 inklużi 1500cc)
 
 Klassi 4 (aktar minn 1500cc sa u 181 186 192 198 204 210 216 223 inklużi 1800cc)
 
@@ -2573,9 +2463,7 @@ minn
 
 mhux iżjed minn 125cc 10 10 10 10 10 10 10 10 10 10 10 10 10 Iżjed minn 125cc iżda
 
-mhux iżjed minn 350cc 25 25 25 25 25 25 25 25 25 25 25 25 25 U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 65
-
-Iżjed minn 350cc iżda
+mhux iżjed minn 350cc 25 25 25 25 25 25 25 25 25 25 25 25 25 Iżjed minn 350cc iżda
 
 mhux iżjed minn 500cc 58 58 58 58 58 58 58 64 65 66 67 68 69 Iżjed minn 500cc iżda
 
@@ -2707,8 +2595,6 @@ minn 38,000 sa 39,999 226 338
 
 8.2 Għall-użu ta’ vetturi bil-mutur N1, N2 u N3 esklużi tractors/għaqdiet ta’ tractor-trailers u vetturi b’għan speċjali, fis-sena:
 
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 67
-
 Nru ta’ Massa massima awtorizzata Driving axle(s) Driving axle(s) fusien Kilogrammi b’suspension tal- b’sistemi ta’ arja jew suspension oħra ekwivalenti €
 
 rikonoxxut
@@ -2839,10 +2725,6 @@ aktar minn 28,999 sa 30,999 480 510 561 617 679 747 821
 
 aktar minn 30,999 480 510 561 617 679 747 821
 
-*69*
-
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
-
 Sena Nru ta’ Massa massima awtorizzata 8 9 10 11 12 13 14+ fusien (Kilogrammi)
 
 *€ €*
@@ -2905,7 +2787,7 @@ Sena
 
 Massa massima awtorizzata 0 1 2 3 4 5 6 7 (Kilogrammi)
 
-€ € € € € € € € sa 11,999 51 51 51 51 51 64 70 77 aktar minn 11,999 sa 13,999 51 51 51 51 51 64 70 77 aktar minn 13,999 sa 15,999 51 51 51 51 51 64 70 77 aktar minn 15,999 sa 17,999 51 51 51 51 51 64 70 77 aktar minn 17,999 sa 19,999 51 51 51 51 51 64 70 77 aktar minn 19,999 sa 21,999 51 51 51 51 51 64 70 77 aktar minn 21,999 sa 22,999 75 75 75 75 75 79 82 86 aktar minn 22,999 sa 24,999 97 97 97 97 97 97 97 97 aktar minn 24,999 175 175 175 175 175 175 176 176 minn 23,000 sa 24,999 51 51 51 51 51 64 70 77 aktar minn 24,999 sa 25,999 70 70 70 70 70 75 79 84 aktar minn 25,999 sa 27,999 115 115 115 115 115 115 116 116 aktar minn 27,999 sa 28,999 169 169 169 169 169 169 169 170 aktar minn 28,999 sa 30,999 204 204 204 204 204 204 204 205 aktar minn 30,999 sa 32,999 335 335 335 335 335 335 335 335 aktar minn 32,999 sa 35,999 465 465 465 465 465 465 465 466 aktar minn 35,999 465 465 465 465 465 465 465 466 minn 36,000 sa 37,999 370 370 370 370 370 370 370 370 aktar minn 37,999 515 515 515 515 515 515 516 516 minn 36,000 sa 37,999 327 327 327 327 327 327 328 328 aktar minn 37,999 sa 39,999 454 454 454 454 454 454 454 454 aktar minn 30,999 628 628 628 628 628 628 628 629 minn 36,000 sa 37,999 186 186 186 186 186 186 186 186 aktar minn 37,999 sa 39,999 225 225 225 225 225 225 225 226 aktar minn 39,999 336 336 336 336 336 336 337 337 40,000 u aktar 336 336 336 336 336 336 337 337 40,000 u aktar 336 336 336 336 336 336 337 337 U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368.
+€ € € € € € € € sa 11,999 51 51 51 51 51 64 70 77 aktar minn 11,999 sa 13,999 51 51 51 51 51 64 70 77 aktar minn 13,999 sa 15,999 51 51 51 51 51 64 70 77 aktar minn 15,999 sa 17,999 51 51 51 51 51 64 70 77 aktar minn 17,999 sa 19,999 51 51 51 51 51 64 70 77 aktar minn 19,999 sa 21,999 51 51 51 51 51 64 70 77 aktar minn 21,999 sa 22,999 75 75 75 75 75 79 82 86 aktar minn 22,999 sa 24,999 97 97 97 97 97 97 97 97 aktar minn 24,999 175 175 175 175 175 175 176 176 minn 23,000 sa 24,999 51 51 51 51 51 64 70 77 aktar minn 24,999 sa 25,999 70 70 70 70 70 75 79 84 aktar minn 25,999 sa 27,999 115 115 115 115 115 115 116 116 aktar minn 27,999 sa 28,999 169 169 169 169 169 169 169 170 aktar minn 28,999 sa 30,999 204 204 204 204 204 204 204 205 aktar minn 30,999 sa 32,999 335 335 335 335 335 335 335 335 aktar minn 32,999 sa 35,999 465 465 465 465 465 465 465 466 aktar minn 35,999 465 465 465 465 465 465 465 466 minn 36,000 sa 37,999 370 370 370 370 370 370 370 370 aktar minn 37,999 515 515 515 515 515 515 516 516 minn 36,000 sa 37,999 327 327 327 327 327 327 328 328 aktar minn 37,999 sa 39,999 454 454 454 454 454 454 454 454 aktar minn 30,999 628 628 628 628 628 628 628 629 minn 36,000 sa 37,999 186 186 186 186 186 186 186 186 aktar minn 37,999 sa 39,999 225 225 225 225 225 225 225 226 aktar minn 39,999 336 336 336 336 336 336 337 337 40,000 u aktar 336 336 336 336 336 336 337 337 40,000 u aktar 336 336 336 336 336 336 337 337 Sena Nru ta’ Massa massima awtorizzata 8 9 10 11 12 13 fusien (Kilogrammi)
 
 *2 + 1*
 
@@ -2918,10 +2800,6 @@ Massa massima awtorizzata 0 1 2 3 4 5 6 7 (Kilogrammi)
 *3 + 3*
 
 *3 + 4 4 + 3*
-
-Sena Nru ta’ Massa massima awtorizzata 8 9 10 11 12 13 fusien (Kilogrammi)
-
-*71*
 
 *14+ € € 150 150 150 150 150 150 150 156 285 150 150 188 274 330 540 750 750 596 833 529 731 1,013 300 364 544 544 544*
 
@@ -2941,7 +2819,7 @@ Sena
 
 Massa massima awtorizzata 0 1 2 3 4 5 6 7 (Kilogrammi)
 
-€ € € € € € € € sa 11,999 51 51 51 51 51 64 70 77 aktar minn 11,999 sa 13,999 51 51 51 51 51 64 70 77 aktar minn 13,999 sa 15,999 51 51 51 51 51 64 70 77 aktar minn 15,999 sa 17,999 51 51 51 51 51 64 70 77 aktar minn 17,999 sa 19,999 51 51 51 51 51 64 70 77 aktar minn 19,999 sa 21,999 51 51 51 51 51 64 70 77 aktar minn 21,999 sa 22,999 75 75 75 75 75 79 82 86 aktar minn 22,999 sa 24,999 97 97 97 97 97 97 97 97 aktar minn 24,999 175 175 175 175 175 175 176 176 minn 23,000 sa 24,999 70 70 70 70 70 75 79 84 aktar minn 24,999 sa 25,999 115 115 115 115 115 115 116 116 aktar minn 25,999 sa 27,999 169 169 169 169 169 169 169 170 aktar minn 27,999 sa 28,999 204 204 204 204 204 204 204 205 aktar minn 28,999 sa 30,999 335 335 335 335 335 335 335 335 aktar minn 30,999 sa 32,999 465 465 465 465 465 465 465 466 aktar minn 32,999 sa 35,999 706 706 706 706 706 706 707 707 aktar minn 35,999 706 706 706 706 706 706 707 707 minn 36,000 sa 37,999 515 515 515 515 515 515 516 516 aktar minn 37,999 700 700 700 700 700 700 700 701 minn 36,000 sa 37,999 454 454 454 454 454 454 454 454 aktar minn 37,999 sa 39,999 628 628 628 628 628 628 628 629 aktar minn 30,999 929 929 929 929 929 929 929 929 minn 36,000 sa 37,999 225 225 225 225 225 225 225 226 aktar minn 37,999 sa 39,999 336 336 336 336 336 336 337 337 aktar minn 39,999 535 535 535 535 535 535 535 535 40,000 u aktar 535 535 535 535 535 535 535 535 40,000 u aktar 535 535 535 535 535 535 535 535 U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 73
+€ € € € € € € € sa 11,999 51 51 51 51 51 64 70 77 aktar minn 11,999 sa 13,999 51 51 51 51 51 64 70 77 aktar minn 13,999 sa 15,999 51 51 51 51 51 64 70 77 aktar minn 15,999 sa 17,999 51 51 51 51 51 64 70 77 aktar minn 17,999 sa 19,999 51 51 51 51 51 64 70 77 aktar minn 19,999 sa 21,999 51 51 51 51 51 64 70 77 aktar minn 21,999 sa 22,999 75 75 75 75 75 79 82 86 aktar minn 22,999 sa 24,999 97 97 97 97 97 97 97 97 aktar minn 24,999 175 175 175 175 175 175 176 176 minn 23,000 sa 24,999 70 70 70 70 70 75 79 84 aktar minn 24,999 sa 25,999 115 115 115 115 115 115 116 116 aktar minn 25,999 sa 27,999 169 169 169 169 169 169 169 170 aktar minn 27,999 sa 28,999 204 204 204 204 204 204 204 205 aktar minn 28,999 sa 30,999 335 335 335 335 335 335 335 335 aktar minn 30,999 sa 32,999 465 465 465 465 465 465 465 466 aktar minn 32,999 sa 35,999 706 706 706 706 706 706 707 707 aktar minn 35,999 706 706 706 706 706 706 707 707 minn 36,000 sa 37,999 515 515 515 515 515 515 516 516 aktar minn 37,999 700 700 700 700 700 700 700 701 minn 36,000 sa 37,999 454 454 454 454 454 454 454 454 aktar minn 37,999 sa 39,999 628 628 628 628 628 628 628 629 aktar minn 30,999 929 929 929 929 929 929 929 929 minn 36,000 sa 37,999 225 225 225 225 225 225 225 226 aktar minn 37,999 sa 39,999 336 336 336 336 336 336 337 337 aktar minn 39,999 535 535 535 535 535 535 535 535 40,000 u aktar 535 535 535 535 535 535 535 535 40,000 u aktar 535 535 535 535 535 535 535 535 Sena
 
 *2 + 1*
 
@@ -2954,8 +2832,6 @@ Massa massima awtorizzata 0 1 2 3 4 5 6 7 (Kilogrammi)
 *3 + 3*
 
 *3 + 4 4 + 3*
-
-Sena
 
 Nru ta’ Massa massima awtorizzata 8 9 10 11 12 13 14+
 
@@ -3082,8 +2958,6 @@ tunnellata .....................................................................
 Vetturi għall-ġarr tal-merkanzija b’piż gross ta’ 15-il tunnellata jew
 
 aktar ........................................................................................................ €185
-
-U L-LIĊENZJAR TA’ VETTURI BIL-MUTUR [KAP. 368. 75
 
 ## 14.
 

@@ -97,23 +97,15 @@ F’dan l-Att, u fi kwalunkwe regolamenti magħmula taħtu, sakemm il-kuntest ma
 
 (b) fir-rigward ta’ debitur li jkun soċjetà kummerċjali ffurmata u rreġistrata skont it-Taqsima III tal-Att dwar il- Kumpaniji jew l-Ordinanza dwar is-Soċjetajiet Kummerċjali fejn applikabbli, kwalunkwe soċju li fih huma vestiti l-amministrazzjoni u r-rappreżentanza tas-soċjetà;
 
-(ċ) fir-rigward ta’ debitur li jkun organizzazzjoni ġuridika mhux imsemmija fil-paragrafi (i) jew (ii), għandha tinkludi kwalunkwe persuna, irrispettivament mill-ħatra li taħtha tista’ topera, li, sew jekk waħidha kif ukoll ma’ oħrajn, tkun inħatret mid-dokumenti kostituttivi tal-organizzazzjoni ġuridika jew kwalunkwe strument, deċiżjoni, ordni jew
+(ċ) fir-rigward ta’ debitur li jkun organizzazzjoni ġuridika mhux imsemmija fil-paragrafi (i) jew (ii), għandha tinkludi kwalunkwe persuna, irrispettivament mill-ħatra li taħtha tista’ topera, li, sew jekk waħidha kif ukoll ma’ oħrajn, tkun inħatret mid-dokumenti kostituttivi tal-organizzazzjoni ġuridika jew kwalunkwe strument, deċiżjoni, ordni jew arranġament ieħor li jorbot lill-organizzazzjoni ġuridika, bħala dik il-persuna vestita bl-amministrazzjoni u r-rappreżentanza tagħha, jew li permezz tagħha, qiegħda jew tista’ tiġi eżerċitata:
 
-arranġament ieħor li jorbot lill-organizzazzjoni ġuridika, bħala  
-dik il-persuna vestita bl-amministrazzjoni u r-rappreżentanza  
-tagħha, jew li permezz tagħha, qiegħda jew tista’ tiġi eżerċitata:  
-Iżda, fejn id-debitur ikun persuna fiżika,  
-kwalunkwe referenza għall-uffiċjali tad-debitur għandha  
-tinftiehem bħala referenza għad-debitur innifsu.  
-TAQSIMA II  
-GĦODOD TA’ TWISSIJA BIKRIJA U PREVENZJONI TA’ KRIŻI  
-\3.  Id-debituri għandhom ikunu intitolati għal aċċess għall-  Setgħa tal-Ministru  
-li jagħmel  
-għodod ta’ twissija bikrija maħsuba biex jippermettu lid-debituri  
-regolamenti.  
-jidentifikaw ċirkostanzi li jistgħu jwasslu għall-probabbiltà ta’
+Iżda, fejn id-debitur ikun persuna fiżika, kwalunkwe referenza għall-uffiċjali tad-debitur għandha tinftiehem bħala referenza għad-debitur innifsu.
 
-insolvenza u li jindikaw lid-debitur il-ħtieġa li jaġixxu mingħajr dewmien, kif il-Ministru jista’, fuq parir tal-awtorità kompetenti, minn żmien għal żmien jippreskrivi permezz ta’ regolamenti magħmula taħt dan l-Att.
+## TAQSIMA II
+
+GĦODOD TA’ TWISSIJA BIKRIJA U PREVENZJONI TA’ KRIŻI 3. Id-debituri għandhom ikunu intitolati għal aċċess għall-għodod ta’ twissija bikrija maħsuba biex jippermettu lid-debituri jidentifikaw ċirkostanzi li jistgħu jwasslu għall-probabbiltà ta’ insolvenza u li jindikaw lid-debitur il-ħtieġa li jaġixxu mingħajr dewmien, kif il-Ministru jista’, fuq parir tal-awtorità kompetenti, minn żmien għal żmien jippreskrivi permezz ta’ regolamenti magħmula taħt dan l-Att.
+
+*Setgħa tal-Ministru li jagħmel regolamenti.*
 
 #### 4. Disponibbiltà ta’ informazzjoni dwar għodod ta’ twissija bikrija.
 

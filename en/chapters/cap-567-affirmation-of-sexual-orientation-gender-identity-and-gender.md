@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Affirmation of Sexual Orientation, Gender Identity and Gender Expression Act (Cap. 567)
 
-*1*
-
-GENDER IDENTITY AND GENDER EXPRESSION [CAP. 567.
-
 **CHAPTER 567**
 
 **AFFIRMATION OF SEXUAL ORIENTATION,**
@@ -95,11 +91,7 @@ It shall be unlawful -
 
 ## 4. Criminalisation of conversion practices.
 
-(1) Any person found guilty under the provisions of article 3(a) shall, upon conviction, be liable to a fine (multa) of not less than one thousand euro (€1,000) and not exceeding five thousand GENDER IDENTITY AND GENDER EXPRESSION [CAP. 567.
-
-euro (€5,000), or to imprisonment for a term of not less than one month and not exceeding five months, or to both such fine and imprisonment:
-
-*3*
+(1) Any person found guilty under the provisions of article 3(a) shall, upon conviction, be liable to a fine (multa) of not less than one thousand euro (€1,000) and not exceeding five thousand euro (€5,000), or to imprisonment for a term of not less than one month and not exceeding five months, or to both such fine and imprisonment:
 
 Provided that the punishment prescribed for under this sub-article shall be increased by one to two degrees in those instances where any person performs conversion practices on a vulnerable person.
 

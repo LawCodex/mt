@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Fishing Waters (Designation) and Extended Maritime Jurisdiction Act (Cap. 479)
 
-FISHING WATERS (DESIGNATION) AND
-
-*1*
-
-EXTENDED MARITIME JURISDICTION [CAP. 479.
-
 **CHAPTER 479**
 
 **FISHING WATERS (DESIGNATION) AND**

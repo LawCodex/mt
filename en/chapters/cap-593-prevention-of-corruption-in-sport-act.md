@@ -65,37 +65,21 @@ Provided that:
 
 (b) a sporting event in which a Maltese club or team is participating;
 
-"manipulation of a sporting event" means an act or omission by virtue of which any person makes an intentional
+"manipulation of a sporting event" means an act or omission by virtue of which any person makes an intentional arrangement, aiming at or successfully accomplishing:
 
-arrangement, aiming at or successfully accomplishing:  
-(a)  the deliberate alteration of the outcome of  
-any sporting event;  
-(b)  the deliberate alteration of any of the  
-aspects of a sporting event and the unpredictable nature  
-of the sporting event, irrespective of whether such  
-alteration affects the final outcome of the sporting event  
-and whether such alteration, if any, is achieved as a  
-direct or indirect consequence of the act or omission;  
-(c)  the provision of inside information to third  
-parties in a manner that assists or facilitates the  
-commission of an offence against this Act;  
-(d)  the actual acquisition of inside information  
-with the intent of providing such information to third  
-parties; or  
-(e)  the aiding, abetting, encouragement and/or  
-inducement in any other way, of third parties to commit  
-any one or more of the aforementioned acts,  
-which may result in an undue advantage or gain for that person or  
-for others;  
-"match official" means any person who is the owner of,  
-a shareholder in, an executive or a staff member of a national  
-association or any other entity which organises and, or  
-promotes sporting events, and includes referees, jury members  
-and any other persons whose role is to ensure observance of the  
-rules of the sporting event, or to assess the performance of the  
-athletes, or to carry out functions which are ancillary or
+(a) the deliberate alteration of the outcome of any sporting event;
 
-conducive thereto;
+(b) the deliberate alteration of any of the aspects of a sporting event and the unpredictable nature of the sporting event, irrespective of whether such alteration affects the final outcome of the sporting event and whether such alteration, if any, is achieved as a direct or indirect consequence of the act or omission;
+
+(c) the provision of inside information to third parties in a manner that assists or facilitates the commission of an offence against this Act;
+
+(d) the actual acquisition of inside information with the intent of providing such information to third parties; or
+
+(e) the aiding, abetting, encouragement and/or inducement in any other way, of third parties to commit any one or more of the aforementioned acts,
+
+which may result in an undue advantage or gain for that person or for others;
+
+"match official" means any person who is the owner of, a shareholder in, an executive or a staff member of a national association or any other entity which organises and, or promotes sporting events, and includes referees, jury members and any other persons whose role is to ensure observance of the rules of the sporting event, or to assess the performance of the athletes, or to carry out functions which are ancillary or conducive thereto;
 
 "Minister" means the Minister responsible for sport;
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att li jirregola l-Infurzar ta' Drittijiet ta' Proprjetà Intellettwali (Cap. 488)
 
-*1*
-
-PROPRJETÀ INTELLETTWALI [KAP. 488.
-
 **KAPITOLU 488**
 
 ATT LI JIRREGOLA L-INFURZAR TA’ DRITTIJIET
@@ -87,11 +83,9 @@ Iżda biex persuna jkollha jedd tagħmel użu mid-dispożizzjonijiet ta’ dan l
 
 (1) Il-Qorti kompetenti tista’, ukoll qabel ma jinbdew il-proċedimenti fuq il-merti tal-każ, wara li jsir rikors minn persuna li tkun ippreżentat provi li jkunu raġonevolment disponibbli biex isostnu l-pretensjoni tagħha li d-dritt ta’ proprjetà intellettwali li jkollha, ikun ġie miksur jew ikun ser jiġi miksur, tordna li jittieħdu dawk il-miżuri provviżorji immedjati u effettivi skont ma jiġu kkunsidrati li jkunu adatti sabiex jiġu preservati provi rilevanti fir-rigward tal-ksur allegat, bla ħsara għall-protezzjoni ta’ informazzjoni kunfidenzjali. Dawk il-miżuri jistgħu jinkludu deskrizzjoni dettaljata, bit-teħid jew mingħajr it-teħid ta’ kampjuni jew il-qbid fiżiku tal-oġġetti involuti fil-ksur u, f’każijiet adatti, tal-materjal u tagħmir li jiġu użati fil-produzzjoni u, jew id-distribuzzjoni ta’ dawn l-oġġetti u tad-dokumenti li jkollhom x’jaqsmu magħhom. Il-Qorti kompetenti tista’ wkoll, jekk tqis li jkun hekk adatt, tordna li dawk il-miżuri għandhom jittieħdu mingħajr ma tkun instemgħet il-parti l-oħra, b’mod partikolari meta jkun hemm dewmien li x’aktarx jikkaġuna ħsara li ma tissewwiex lid-detenturi tad-dritt jew fejn il-Qorti tikkunsidra li jkun hemm riskju evidenti li l-provi jkunu qegħdin jiġu meqruda.
 
-(2) Meta jiġu adottati miżuri sabiex jiġu preservati l-provi mingħajr ma tkun instemgħet il-parti l-oħra, il-partijiet affettwati għandhom jiġu notifikati mingħajr ebda dewmien wara l-eżekuzzjoni tal-miżuri. Tista’ ssir reviżjoni, li tkun tinkludi d-dritt ta’ smigħ mill-Qorti, wara li ssir talba permezz ta’ rikors minn xi waħda mill-partijiet affettwati, bil-għan li jiġi deċiż, fi żmien PROPRJETÀ INTELLETTWALI [KAP. 488. raġonevoli wara n-notifika tal-miżuri, jekk il-miżuri għandhomx jiġu modifikati, revokati jew konfermati.
+(2) Meta jiġu adottati miżuri sabiex jiġu preservati l-provi mingħajr ma tkun instemgħet il-parti l-oħra, il-partijiet affettwati għandhom jiġu notifikati mingħajr ebda dewmien wara l-eżekuzzjoni tal-miżuri. Tista’ ssir reviżjoni, li tkun tinkludi d-dritt ta’ smigħ mill-Qorti, wara li ssir talba permezz ta’ rikors minn xi waħda mill-partijiet affettwati, bil-għan li jiġi deċiż, fi żmien raġonevoli wara n-notifika tal-miżuri, jekk il-miżuri għandhomx jiġu modifikati, revokati jew konfermati.
 
 (3) Bi tkomplija tat-talba tiegħu għal miżuri biex jippreserva l-provi, ir-rikorrent għandu jippreżenta fil-Qorti dik il-malleverija jew assikurazzjoni li tkun intiża biex tiżgura li jingħata kumpens għal kull preġudizzju li jista’ jiġi mġarrab mill-parti l-oħra, kif provdut fis-subartikolu (5), skont ma tista’ tordna l-Qorti.
-
-*3*
 
 (4) Il-miżuri biex jiġu preservati l-provi għandhom jiġu revokati mill-Qorti wara li ssir talba permezz ta’ rikors mill-persuna li dawk il-miżuri jkunu ttieħdu kontriha, mingħajr ebda preġudizzju għal dawk id-danni li jistgħu jintalbu, jekk ir-rikorrent li dawk il-miżuri jkunu ttieħdu fuq talba tiegħu, jonqos, fi żmien wieħed u tletin ġurnata mill-ħruġ ta’ dawk il-miżuri, milli jibda proċedimenti li jkunu jwasslu għal deċiżjoni fuq il-merti tal-każ quddiem il-Qorti kompetenti.
 
@@ -143,9 +137,7 @@ involuti fil-produzzjoni, manifattura jew distribuzzjoni ta’ oġġetti jew l-g
 
 (a) toħroġ kontra min ikun qiegħed allegatament jikkommetti l-ksur ta’ dritt ta’ proprjetà intellettwali, digriet li jkun intiż biex jipprevjeni kull ksur imminenti ta’ dritt ta’ proprjetà intellettwali bħal dak, jew li jipprojbixxi, fuq bażi provviżorja u, fejn ikun adatt, bla ħsara għal ħlas ta’ penali li jista’ jsir għal diversi drabi fejn ikun hemm provdut dwar dan skont il-liġi, milli jitkompla jseħħ kull tali ksur allegat ta’ dak id-dritt, jew li tagħmel dik it-tkomplija soġġetta għal garanziji li jkunu intiżi biex jiżguraw li jingħata kumpens lid-detentur tad-dritt. Tista’ wkoll tinħareġ projbizzjoni interlokutorja, taħt l-istess kondizzjonijiet, kontra kull intermedjarju li jkollu s-servizzi tiegħu qegħdin jiġu użati minn terzi hekk li dawn ikunu jiksru dritt ta’ proprjetà intellettwali;
 
-*5*
-
-PROPRJETÀ INTELLETTWALI [KAP. 488. (b) jordna l-qbid jew il-kunsinna tal-oġġetti li jkunu suspettati li qegħdin jiksru d-dritt ta’ proprjetà intellettwali.
+(b) jordna l-qbid jew il-kunsinna tal-oġġetti li jkunu suspettati li qegħdin jiksru d-dritt ta’ proprjetà intellettwali.
 
 (2) Meta ksur ta’ dritt ta’ proprjetà intellettwali jkun sar fuq dik li l-Qorti tqis li tkun skala kummerċjali hija tista’ tordna, jekk l-attur juri li jkun hemm ċirkostanzi li x’aktarx jipperikolaw l-irkupru tal-ħlas għad-danni, l-qbid kawtelatorju tal-proprjetà mobbli u immobbli ta’ min ikun qiegħed allegatament jikkommetti l-ksur, inkluż is-sekwestru tal-kontijiet tal-bank u ta’ kull attiv ieħor tal-istess persuna li tkun qegħda tikkommetti dak il-ksur. Iktar minn hekk, il-Qorti għandu jkollha s-setgħa tordna li jiġu komunikati d-dokumenti bankarji, finanzjarji jew kummerċjali, jew inkella titlob li tingħata aċċess xieraq għal informazzjoni rilevanti, skont ma jidhrilha li jkun adatt.
 
@@ -190,10 +182,6 @@ KAP. 488.] PROPRJETÀ INTELLETTWALI
 ### 11. Miżuri alternattivi.
 
 F’każijiet fejn ikunu jistgħu jiġu applikati l-miżuri stipulati fit-Taqsima V ta’ dan l-Att, ikun fid-diskrezzjoni tal-Qorti, wara li jsir rikors mill-persuna li dwarha jistgħu jittieħdu dawk il-miżuri, li żżomm lura milli tapplika dawk il-miżuri u minflok tordna li jsir il-ħlas ta’ kumpens ta’ flus lill-parti li tkun ġarrbet il-ħsara jekk hija tkun tal-fehma li min ikun qiegħed jikkommetti l-ksur in kwistjoni jkun aġixxa bla ma kellu ebda intenzjoni u mingħajr ebda negliġenza, jekk l-eżekuzzjoni tal-miżuri in kwistjoni tikkaġuna ħsara sproporzjonata lil min ikun qiegħed jikkommetti l-ksur u jekk l-għoti ta’ kumpens ta’ flus lill-parti li tkun ġarrbet il-ħsara jidher li jkun raġonevolment sodisfaċenti.
-
-*7*
-
-PROPRJETÀ INTELLETTWALI [KAP. 488.
 
 ## TAQSIMA VI — DANNI
 

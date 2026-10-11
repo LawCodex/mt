@@ -161,38 +161,13 @@ Provided that the mere use of a number as an identifier should not be considered
 
 "security of networks and services" means the ability of electronic communications networks and services to resist, at a given level of confidence, any action that compromises the availability, authenticity, integrity or confidentiality of those networks and services, of stored or transmitted or processed data, or of the related services offered by, or accessible through, those electronic communications networks or services;
 
-"shared use of radio spectrum" means access by two or more users to use the same radio spectrum bands under a defined sharing
+"shared use of radio spectrum" means access by two or more users to use the same radio spectrum bands under a defined sharing arrangement, authorised on the basis of a general authorization, individual rights of use for radio spectrum or a combination thereof, including regulatory approaches such as licensed shared access aiming to facilitate the shared use of a radio spectrum band, subject to a binding agreement of all parties involved, in accordance with sharing rules as included in their rights of use for radio spectrum in order to guarantee to all users predictable and reliable sharing arrangements, and without prejudice to the application of competition law;
 
-arrangement, authorised on the basis of a general authorization,  
-individual rights of use for radio spectrum or a combination  
-thereof, including regulatory approaches such as licensed shared  
-access aiming to facilitate the shared use of a radio spectrum band,  
-subject to a binding agreement of all parties involved, in  
-accordance with sharing rules as included in their rights of use for  
-radio spectrum in order to guarantee to all users predictable and  
-reliable sharing arrangements, and without prejudice to the  
-application of competition law;  
-"significant market power" or "SMP" means a position  
-equivalent to dominance enjoyed by an undertaking either  
-individually or jointly with others that is to say a position of  
-economic strength affording it the power to behave to an  
-appreciable extent independently of competitors, customers and  
-ultimately consumers;  
-"special rights" means the rights that are granted to a limited  
-number of undertakings which, within a given geographical area:  
-(i)  designates or limits to two or more the number  
-of such undertakings authorised to provide an  
-electronic communications service or undertake  
-an  electronic  communications  activity,  
-otherwise than according to objective,  
-proportional and non-discriminatory criteria, or  
-(ii) confers on undertakings, otherwise than  
-according to such criteria, legal or regulatory  
-advantages which substantially affect the ability  
-of any other undertaking to provide the same  
-electronic communications activity in the same  
-geographical area under substantially equivalent  
-conditions;
+"significant market power" or "SMP" means a position equivalent to dominance enjoyed by an undertaking either individually or jointly with others that is to say a position of economic strength affording it the power to behave to an appreciable extent independently of competitors, customers and ultimately consumers;
+
+"special rights" means the rights that are granted to a limited number of undertakings which, within a given geographical area:
+
+(i) designates or limits to two or more the number of such undertakings authorised to provide an electronic communications service or undertake an electronic communications activity, otherwise than according to objective, proportional and non-discriminatory criteria, or (ii) confers on undertakings, otherwise than according to such criteria, legal or regulatory advantages which substantially affect the ability of any other undertaking to provide the same electronic communications activity in the same geographical area under substantially equivalent conditions;
 
 "terminal equipment" means terminal equipment as defined in point (1) of Article 1 of EU Commission Directive 2008/63/EC;
 

@@ -15,14 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Ratifika tal-Konvenzjoni Internazzjonali imsejħa l-International Convention for the Safety of Life at Sea (Cap. 314)
 
-RATIFIKA TAL-KONVENZJONI INTERNAZZJONALI
-
-IMSEJĦA L-INTERNATIONAL CONVENTION FOR
-
-*1*
-
-THE SAFETY OF LIFE AT SEA [KAP. 314.
-
 **KAPITOLU 314**
 
 **ATT DWAR IR-RATIFIKA TAL-KONVENZJONI**

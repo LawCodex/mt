@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Ir-Regolament ta' Ċerti Xogħlijiet f'Utilitajiet u Servizzi (Cap. 81)
 
-*1*
-
-F’UTILITAJIET U SERVIZZI [KAP. 81.
-
 **KAPITOLU 81**
 
 **ATT DWAR IR-REGOLAMENT TA’ ĊERTI**
@@ -89,10 +85,6 @@ Iżda l-cables, inkluża l-fibra skura, kif ukoll l-elementi ta’ networks uża
 
 "Kumitat dwar l-Utilitajiet" tfisser il-Kumitat Konsultattiv għal Servizzi dwar l-Utilitajiet stabbilit taħt l-artikolu 22;
 
-*3*
-
-F’UTILITAJIET U SERVIZZI [KAP. 81.
-
 "network" tfisser kull infrastruttura fiżika utilizzata minn operatur tan-network;
 
 "network tal-komunikazzjoni elettronika b’veloċità għolja" tfisser network ta’ komunikazzjonijiet elettroniċi li kapaċi jwassal servizzi ta’ aċċess tal-broadband b’veloċitajiet ta’ mill-inqas tletin Mbps:
@@ -159,10 +151,6 @@ Iżda din l-Iskeda tista’ minn żmien għal żmien tiġi emendata mill-Prim Mi
 
 *Miżjuda: XVIII. 2016.6.*
 
-*5*
-
-F’UTILITAJIET U SERVIZZI [KAP. 81.
-
 ## TAQSIMA II — Regolament ta’ Aċċess għall-Infrastruttura ta’ Utilitajiet
 
 ### 4. Setgħa li jiġi ordnat it-tqegħid ta’ cable, eċċ.
@@ -211,11 +199,7 @@ Iżda l-implimentazzjoni ta’ xi ordni bħal dak m’għandux ikun impedut, ris
 
 4Ċ. (1) Ir-riċevitur ta’ ordni magħmul taħt l-artikolu 4A għandu jitħalla jitlob ħlas għall-kollokazzjoni jew l-użu ta’ faċilitajiet imwaħħla jew imtella’ minnha b’rati bbażati fuq spejjeż relevanti raġonevoli. Il-ħlasijiet għall-kollokazzjoni jew l-użu tal-istess faċilitajiet għandhom ikunu orjentati lejn l-ispiża u m’għandhomx jinkludu spejjeż ta’ xorta ġenerali bħalma huma l-bejgħ, spejjeż għall-persunal jew manutenzjoni, apparti minn dawk li jkunu ntnefqu direttament fuq l-faċilitajiet użati.
 
-(2) Ir-riċevitur ta’ ordni magħmul taħt l-artikolu 4A għandu jgħaddi l-ħlasijiet tiegħu lill-provditur tal-kollokazzjoni jew li jagħmel użu mill-faċilitajiet imwaħħla jew imtella’ mill-istess F’UTILITAJIET U SERVIZZI [KAP. 81.
-
-riċevitur fi żmien tletin jum minn meta tibda l-kollokazzjoni jew l-użu kif hawn qabel imsemmi:
-
-*7*
+(2) Ir-riċevitur ta’ ordni magħmul taħt l-artikolu 4A għandu jgħaddi l-ħlasijiet tiegħu lill-provditur tal-kollokazzjoni jew li jagħmel użu mill-faċilitajiet imwaħħla jew imtella’ mill-istess riċevitur fi żmien tletin jum minn meta tibda l-kollokazzjoni jew l-użu kif hawn qabel imsemmi:
 
 Iżda jekk il-provditur li jagħti l-kollokazzjoni jew li jagħmel użu bħal dak ma jkunx jaqbel ma’ ħlasijiet bħal dawk huwa jista’, fi żmien għoxrin jum minn meta jirċevi talba għalihom, iressaq tilwima quddiem il-Bord għas-Soluzzjoni ta’ Tilwim u dak il-Bord għandu jirrisolvi dik it-tilwima fl-iqsar żmien possibbli u f’kull każ fi żmien xahrejn mid-data meta tasallu t-tilwima ħlief f’ċirkostanzi eċċezzjonali kif hemm fid-dispożizzjonijiet tal-artikolu 32.
 
@@ -267,11 +251,7 @@ Iżda -
 
 (a) ma jitqiesx illi s-sid bata ħsara jew inkonvenjent illi jagħtuh jedd għal indennizz minħabba li gumna, fil jew aċċessorju meħtieġ ieħor ikunu mqiegħda, imwaqqfa jew imwaħħla taħt jew fuq fond jew mal-ġnieb tiegħu jekk il-gumna, fil jew aċċessorju ieħor ma jkunu jikkaġunaw ebda inkonvenjent, jew jekk il-gumna, fil jew aċċessorju ieħor ikunu mgħoddija minn fuq fond f’għoli ta’ mhux anqas minn erbgħa metri u nofs mill-wiċċ tiegħu, jew, fil-każ ta’ bini, f’għoli ta’ mhux anqas minn tliet metri mil-livell tal-bejt;
 
-(b) m’hemm ebda jedd għal indennizz minħabba l-fatt biss illi gumna jew fil jiġu mgħoddija fi qrib ħafna ta’ bini jew jiġu poġġuti fuq brazz imwaħħal ma’ ħajt ta’ bini, jew li arblu jew vent jiġi mwaħħal fil-parti ta’ fuq ta’ dan il-ħajt sabiex jiġu mwaħħla miegħu gumni jew fili F’UTILITAJIET U SERVIZZI [KAP. 81.
-
-fil-għoli li jmiss, jekk, fil-każ il-wieħed jew l-ieħor, dawk il-gumni jew fili ma jkunux jagħmlu ħsejjes li jistgħu jinsemgħu sewwa minn ġewwa bini bil-bibien u t-twieqi miftuħa, jew ma jkunux jikkaġunaw inkonvenjent ieħor;
-
-*9*
+(b) m’hemm ebda jedd għal indennizz minħabba l-fatt biss illi gumna jew fil jiġu mgħoddija fi qrib ħafna ta’ bini jew jiġu poġġuti fuq brazz imwaħħal ma’ ħajt ta’ bini, jew li arblu jew vent jiġi mwaħħal fil-parti ta’ fuq ta’ dan il-ħajt sabiex jiġu mwaħħla miegħu gumni jew fili fil-għoli li jmiss, jekk, fil-każ il-wieħed jew l-ieħor, dawk il-gumni jew fili ma jkunux jagħmlu ħsejjes li jistgħu jinsemgħu sewwa minn ġewwa bini bil-bibien u t-twieqi miftuħa, jew ma jkunux jikkaġunaw inkonvenjent ieħor;
 
 (ċ) m’hemm ebda jedd għal indennizz minħabba l-fatt biss illi xi arblu jew arbli jew xi appoġġi oħra jiġu mwaqqfa f’fond, jew f’għalqa jew f’sit ieħor, jekk il-bogħod bejn l-arbli jew l-appoġġi ma jkunx anqas minn sitta u tletin metru u nofs, u ebda arblu jew appoġġ ma jkun jieħu iżjed minn mija u sittin ċentimetru kwadru mill-art.
 
@@ -339,11 +319,11 @@ Iżda s-sid għandu jirrifondi, meta t-talba tiegħu ma tkunx ġiet kontestata, 
 
 Ix-xogħlijiet li għandhom x’jaqsmu ma’ l-impjant tas-sistemi ta’ komunikazzjoni tal-elettriku u networks tal-komunikazzjonijiet elettroniċi u li, qabel ma beda jseħħ dan l-Att, ikunu saru ġewwa, minn fuq jew fuq fond, mingħajr protesta ta’ sid il-fond, jitqiesu li saru bil-kunsens tas-sid u ma jagħtux lil sid il-fond ebda jedd għal indennizz, għalkemm id-disposizzjonijiet ta’ dan l-Att ma jkunux ġew imħarsa.
 
-*11*
+### 9. Piena għal min ifixkel.
 
-F’UTILITAJIET U SERVIZZI [KAP. 81. 9. Kull min ma jħallix jew ifixkel persuna awtorizzata li tidħol f’fond fl-esekuzzjoni tad-dmirijiet tagħha taħt dan l-Att, jeħel, meta jinsab ħati, multa ta’ mhux iżjed minn ħamest elef euro (€5,000).
+*Emendat: XXIII. 2000.30; A.L. 408 tal-2007; XVIII. 2016.14.*
 
-*Piena għal min ifixkel. Emendat: XXIII. 2000.30; A.L. 408 tal-2007; XVIII. 2016.14.*
+Kull min ma jħallix jew ifixkel persuna awtorizzata li tidħol f’fond fl-esekuzzjoni tad-dmirijiet tagħha taħt dan l-Att, jeħel, meta jinsab ħati, multa ta’ mhux iżjed minn ħamest elef euro (€5,000).
 
 ### 10. Piena għal ħsara volontarja f’xogħlijiet.
 
@@ -415,11 +395,7 @@ Iżda meta t-tilwima jkollha x’taqsam mal-aċċess għall-infrastruttura ta’
 
 *Kap. 399.*
 
-Iżda wkoll kull prezz stabbilit mill-Bord għandu jiżgura illi l-provditur tal-aċċess ikollu opportunità ġusta biex iġib lura l-ispejjeż tiegħu u għandu jqis l-impatt tal-aċċess mitlub fuq il-pjan F’UTILITAJIET U SERVIZZI [KAP. 81.
-
-tan-negozju tal-provditur tal-aċċess, inkluż l-investimenti magħmula mill-operatur tan-network li lilu ssirlu t-talba għal aċċess, b’mod partikolari fl-infrastrutturi fiżiċi li jintużaw għall-għoti tas-servizzi tal-komunikazzjoni elettronika b’veloċità għolja.
-
-*13*
+Iżda wkoll kull prezz stabbilit mill-Bord għandu jiżgura illi l-provditur tal-aċċess ikollu opportunità ġusta biex iġib lura l-ispejjeż tiegħu u għandu jqis l-impatt tal-aċċess mitlub fuq il-pjan tan-negozju tal-provditur tal-aċċess, inkluż l-investimenti magħmula mill-operatur tan-network li lilu ssirlu t-talba għal aċċess, b’mod partikolari fl-infrastrutturi fiżiċi li jintużaw għall-għoti tas-servizzi tal-komunikazzjoni elettronika b’veloċità għolja.
 
 (6) Il-Bord għas-Soluzzjoni ta’ Tilwim għandu jirrisolvi kull tilwima riferita lilu kif hawn f ’dan l-artikolu fl-iqsar żmien possibbli u f’kull każ fi żmien erba’ xhur mid-data minn meta jirċievi t-talba kompluta, ħlief f’ċirkostanzi eċċezzjonali kif hemm fid-dispożizzjonijiet tal-artikolu 32.
 
@@ -467,11 +443,7 @@ Iżda l-istħarriġ fuq il-post tal-elementi tan-network speċifikat għandu jin
 
 (6) Fil-każ ta’ tilwima li tirriżulta b’konnessjoni mad-drittijiet u l-obbligi previsti f’dan l-artikolu, kull parti tista’ tirreferi l-kwistjoni lill-Bord għas-Soluzzjoni ta’ Tilwim li għandu, wara li jittieħed kont sħiħ tal-prinċipju ta’ proporzjonalità, joħroġ deċiżjoni li torbot biex jirriżolvi t-tilwima fl-iqsar żmien possibbli u f’kull każ fi żmien xahrejn, ħlief f’każijiet eċċezzjonali b’mod konformi mal-artikolu 32.
 
-(7) Il-Punt Waħdieni ta’ Informazzjoni, wara konsultazzjoni ma’ xi regolatur jew regolaturi kompetenti ta’ utilitajiet kif jista’ jkun il-każ u ma’ xi tali korp jew korpi oħra tas-settur pubbliku kif jitqies li jkun meħtieġ, jista’ jipprovdi għal eżenzjonijiet mill-obbligi li hemm fis-subartikoli (1) sa (5) fil-każ tal-infrastrutturi fiżiċi eżistenti li jitqiesu li ma jkunux teknikament adatti għall-installazzjoni ta’ networks ta’ komunikazzjonijiet elettroniċi jew fil-każ tal-infrastruttura kritika. Meta jagħmel dan, għandu jagħti r-raġunijiet tiegħu bil-miktub u għandu, qabel ma jieħu deċiżjoni finali, jagħti lil partijiet interessati l-opportunità li jagħmlu F’UTILITAJIET U SERVIZZI [KAP. 81.
-
-sottomissjonijiet bil-miktub f’dak iż-żmien raġonevoli li jista’ jistabbilixxi.
-
-*15*
+(7) Il-Punt Waħdieni ta’ Informazzjoni, wara konsultazzjoni ma’ xi regolatur jew regolaturi kompetenti ta’ utilitajiet kif jista’ jkun il-każ u ma’ xi tali korp jew korpi oħra tas-settur pubbliku kif jitqies li jkun meħtieġ, jista’ jipprovdi għal eżenzjonijiet mill-obbligi li hemm fis-subartikoli (1) sa (5) fil-każ tal-infrastrutturi fiżiċi eżistenti li jitqiesu li ma jkunux teknikament adatti għall-installazzjoni ta’ networks ta’ komunikazzjonijiet elettroniċi jew fil-każ tal-infrastruttura kritika. Meta jagħmel dan, għandu jagħti r-raġunijiet tiegħu bil-miktub u għandu, qabel ma jieħu deċiżjoni finali, jagħti lil partijiet interessati l-opportunità li jagħmlu sottomissjonijiet bil-miktub f’dak iż-żmien raġonevoli li jista’ jistabbilixxi.
 
 (8) Impriża li tikseb aċċess għal informazzjoni b’mod konformi mad-dispożizzjonijiet ta’ dan l-artikolu għandha, hekk kif ikun xieraq, tiżgura li l-informazzjoni hekk miksuba tiġi trattata wara li titqies sew il-kunfidenzjalità, u s-sigrieti operattivi u dawk tan-negozju.
 
@@ -531,11 +503,7 @@ Iżda fi żmien erbatax-il jum mid-data ta’ riċevuta tat-talba bil-miktub, l-
 
 (b) l-aċċess għal informazzjoni bħal dik jiġi żgurat permezz tal-Punt Waħdieni ta’ Informazzjoni.
 
-(4) L-operatur tan-network għandu jagħmel l-informazzjoni minima mitluba msemmija fis-subartikolu (1) disponibbli permezz F’UTILITAJIET U SERVIZZI [KAP. 81.
-
-tal-Punt Waħdieni ta’ Informazzjoni.
-
-*17*
+(4) L-operatur tan-network għandu jagħmel l-informazzjoni minima mitluba msemmija fis-subartikolu (1) disponibbli permezz tal-Punt Waħdieni ta’ Informazzjoni.
 
 (5) Jekk, meta jiskadi l-perjodu ta’ erbatax-il jum imsemmi fis-subartikolu (2), l-informazzjoni mitluba kif hemm fid-dispożizzjonijiet ta’ dan l-artikolu ma tiġix provduta, għaldaqstant parti aggravata tista’ minn meta jiskadu l-erbatax-il jum imsemmija hawn qabel, tirreferi t-tilwima li jista’ jkollha dwar id-drittijiet u l-obbligi taħt dan l-artikolu, lill-Bord għas-Soluzzjoni ta’ Tilwim li għandu meta jkun qed jaqta’ dwar xi tilwima riferita lilu b’mod konformi ma’ dan l-artikolu, filwaqt li jqis sew il-prinċipju ta’ proporzjonalità, joħroġ b’deċiżjoni li tkun torbot biex issolvi t-tilwima inkwistjoni, inkluż li jiġu stabbiliti termini, kondizzjonijiet u imposti ġusti u mhux diskriminatorji fejn jixraq:
 
@@ -598,10 +566,6 @@ Kumitat Konsultattiv għal Servizzi dwar l-Utilitajiet
 ### 22. Twaqqif u rwol tal- Kumitat Konsultattiv għal Servizzi dwar l- Utilitajiet.
 
 (1) Għandu jitwaqqaf korp li jkun magħruf bħala l- Kumitat Konsultattiv għal Servizzi dwar l-Utilitajiet, u dak il-korp għandu jinħatar mill-Ministru responsabbli għall-infrastruttura għal terminu, li jista’ jiġi mġedded, ta’ mhux inqas minn sena u mhux iżjed minn tliet snin, u dak il-korp għandu jkun magħmul minn:
-
-*19*
-
-F’UTILITAJIET U SERVIZZI [KAP. 81.
 
 (a) chairman li jintgħażel mill-Ministru responsabbli għall-infrastruttura minn fost persuni b’ħila dwar il-qsim parteċipattiv tal-infrastruttura ta’ utilità;
 
@@ -669,10 +633,6 @@ Iżda jekk il-President ikun ex-imħallef jew ex-magistrat, il-ħatra tiegħu tk
 
 (5) Il-membri ordinarji tal-Bord għas-Soluzzjoni ta’ Tilwim jistgħu jirriżenjaw mill-kariga tagħhom b’ittra indirizzata lill- President ta’ Malta. Dik ir-riżenja għandha tibda sseħħ meta l-ittra ta’ riżenja tasal għand il-President ta’ Malta jew għand xi persuna li tkun hekk awtorizzata minnu.
 
-*21*
-
-F’UTILITAJIET U SERVIZZI [KAP. 81.
-
 (6) Membru ordinarju tal-Bord għas-Soluzzjoni ta’ Tilwim ma jistax jitneħħa mill-kariga ħlief mill-President ta’ Malta li jaġixxi fuq il-parir tal-Prim Ministru minħabba f’inkapaċità bil-provi li jaqdi l-funzjonijiet tal-kariga tiegħu kemm jekk dawn ikunu ġejjin minn xi mard fil-ġisem jew tal-moħħ jew minħabba f’kull kawża oħra, jew minħabba f’imġiba ħażina bil-provi.
 
 (7) Għandu jiġi ppubblikat fil-Gazzetta avviż tal-ħatriet kollha fil-Bord għas-Soluzzjoni ta’ Tilwim u tal-bidliet l-oħra kollha tal-membri tiegħu.
@@ -723,11 +683,7 @@ Iżda wkoll il-Bord għandu fil-każijiet kollha jimxi mal-prinċipji ta’ ġus
 
 (3) Il-Bord għas-Soluzzjoni ta’ Tilwim għandu, wara li jeżamina l-fatti u kwalunkwe sottomissjonijiet li jiġu ppreżentati quddiemu u dik l-informazzjoni l-oħra li jista’ jkun jeħtieġ, jiddeċiedi dwar it-tilwima.
 
-(4) Il-Bord għas-Soluzzjoni ta’ Tilwim jista’, fid-diskrezzjoni tiegħu sew b’inizjattiva tiegħu stess sew wara talba ta’ xi parti fit-tilwima, jekk jikkunsidra talba bħal dik bħala waħda raġonevoli fiċ-ċirkostanzi speċifiċi tat-tilwima, jgħin lill-partijiet jaslu fi F’UTILITAJIET U SERVIZZI [KAP. 81.
-
-ftehim amikevoli fuq it-tilwimiet kollha jew fuq xi wħud mill-kwistjonijiet fit-tilwima qabel il-proċediment jew waqt it-tkomplija tas-smigħ tat-tilwima:
-
-*23*
+(4) Il-Bord għas-Soluzzjoni ta’ Tilwim jista’, fid-diskrezzjoni tiegħu sew b’inizjattiva tiegħu stess sew wara talba ta’ xi parti fit-tilwima, jekk jikkunsidra talba bħal dik bħala waħda raġonevoli fiċ-ċirkostanzi speċifiċi tat-tilwima, jgħin lill-partijiet jaslu fi ftehim amikevoli fuq it-tilwimiet kollha jew fuq xi wħud mill-kwistjonijiet fit-tilwima qabel il-proċediment jew waqt it-tkomplija tas-smigħ tat-tilwima:
 
 Iżda meta jkun qed jagħmel dan, il-Bord għandu fil-każijiet kollha jqis il-ħtieġa li jsolvi t-tilwima fl-iqsar żmien possibbli u kull impatt negattiv li xi parti tista’ ssofri jekk ikun hemm dewmien fir-riżoluzzjoni tat-tilwima:
 
@@ -795,11 +751,7 @@ Iżda għandha tingħata konsiderazzjoni dovuta għall-protezzjoni ta’ kull in
 
 (1) Ir-Reġistratur għandu jipprovdi l-persunal meħtieġ biex jinżammu s-seduti tal-Bord għas-Soluzzjoni ta’ Tilwim. L-uffiċjali li jiġu hekk nominati għandhom, fl-eżekuzzjoni tad-dmirijiet tagħhom, igawdu u jeżerċitaw dawk is-setgħat kollha li bihom huma vestiti bil-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili l-uffiċjali li jwettqu dmirijiet bħal dawk.
 
-(2) Is-seduti tal-Bord għas-Soluzzjoni ta’ Tilwim għandhom, meta jkun hekk japplika, jinżammu f’dawk il-jiem u f’dawk il- F’UTILITAJIET U SERVIZZI [KAP. 81.
-
-ħinijiet li jistgħu jiġu stabbiliti mill-President fil-bini tal-Qrati f’Malta u, jew f’Għawdex jew f’kull post ieħor f’Malta u, jew f ’Għawdex hekk kif il-President jista’ jidhirlu xieraq fiċ-ċirkostanzi.
-
-*25*
+(2) Is-seduti tal-Bord għas-Soluzzjoni ta’ Tilwim għandhom, meta jkun hekk japplika, jinżammu f’dawk il-jiem u f’dawk il-ħinijiet li jistgħu jiġu stabbiliti mill-President fil-bini tal-Qrati f’Malta u, jew f’Għawdex jew f’kull post ieħor f’Malta u, jew f ’Għawdex hekk kif il-President jista’ jidhirlu xieraq fiċ-ċirkostanzi.
 
 ### 28. Setgħa ta’ għemil ta’ regolamenti dwar il-proċedura li għandha tiġi segwita fil-Bord għas-Soluzzjoni ta’ Tilwim.
 
@@ -879,11 +831,11 @@ Meta parti tkun bi ħsiebha ġġib tilwima quddiem il-Bord għas- Soluzzjoni ta�
 
 Id-dritt li tilwima tiġi riferita taħt dan l-Att lill-Bord għas- Soluzzjoni ta’ Tilwim għandu jkun mingħajr preġudizzju għal rimedju ċivili, inklużi talbiet għal danni sofferti, li parti tista’ tkun intitolata li tfittex bil-liġi fil-qrati ordinarji.
 
-*27*
+### 34. Setgħat tal-Bord għas-Soluzzjoni ta’ Tilwim.
 
-F’UTILITAJIET U SERVIZZI [KAP. 81. 34. (1) Il-Bord għas-Soluzzjoni ta’ Tilwim għandu jkollu dawk is-setgħat kollha li huma, bis-saħħa tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili, vestiti fil-Prim’Awla tal-Qorti Ċivili.
+*Miżjud: XVIII. 2016.18. Kap. 12.*
 
-*Setgħat tal-Bord għas-Soluzzjoni ta’ Tilwim. Miżjud: XVIII. 2016.18. Kap. 12.*
+(1) Il-Bord għas-Soluzzjoni ta’ Tilwim għandu jkollu dawk is-setgħat kollha li huma, bis-saħħa tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili, vestiti fil-Prim’Awla tal-Qorti Ċivili.
 
 *Kap. 12.*
 
@@ -947,11 +899,7 @@ Kemm-il darba ma jiġix provdut xort’oħra f’dan l-Att, kull notifika tal-av
 
 (d) jekk ikun ġie provdut indirizz għan-notifika tal-avviżi mill-persuna, billi tiġi kkunsinnata, jew mibgħuta bil-posta reġistrata u indirizzata lill-persuna f’dak l-indirizz;
 
-(e) f’kull każ meta tkun meħtieġa notifika immedjata tal-avviż, billi din tintbagħat, permezz ta’ magna facsimile jew bil-posta elettronika, lejn xi mezz jew faċilità li fuqhom jiġu riċevuti messaġġi facsimile jew bil-posta elettronika u li jkunu jinsabu fl-indirizz fejn il-persuna tkun soltu tirrisjedi jew tmexxi n-negozju tagħha jew, jekk ikun ingħata mill-persuna indirizz għan-notifika ta’ avviżi, f’dak l-indirizz, sakemm il-magna tal-facsimile tal-mittent tkun tiġġenera messaġġ li jkun jikkonferma li t-trasmissjoni tal-għadd totali ta’ paġni tal-avviż tkun irnexxiet jew sakemm il-faċilità tal- F’UTILITAJIET U SERVIZZI [KAP. 81.
-
-mittent li tirċievi posta elettronika tiġġenera messaġġ li jikkonferma li l-posta elettronika tkun ġiet riċevuta:
-
-*29*
+(e) f’kull każ meta tkun meħtieġa notifika immedjata tal-avviż, billi din tintbagħat, permezz ta’ magna facsimile jew bil-posta elettronika, lejn xi mezz jew faċilità li fuqhom jiġu riċevuti messaġġi facsimile jew bil-posta elettronika u li jkunu jinsabu fl-indirizz fejn il-persuna tkun soltu tirrisjedi jew tmexxi n-negozju tagħha jew, jekk ikun ingħata mill-persuna indirizz għan-notifika ta’ avviżi, f’dak l-indirizz, sakemm il-magna tal-facsimile tal-mittent tkun tiġġenera messaġġ li jkun jikkonferma li t-trasmissjoni tal-għadd totali ta’ paġni tal-avviż tkun irnexxiet jew sakemm il-faċilità tal-mittent li tirċievi posta elettronika tiġġenera messaġġ li jikkonferma li l-posta elettronika tkun ġiet riċevuta:
 
 Iżda d-dispożizzjonijiet ta’ dan il-paragrafu m’għandhomx japplikaw għan-notifika ta’ dokumenti ppreżentati quddiem it-Tribunal, il-Bord għas- Soluzzjoni ta’ Tilwim jew xi qorti tkun kif tkun imsejħa.
 

@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Consular Protection (Unrepresented Citizens) Act (Cap. 580)
 
-*1*
-
-(UNREPRESENTED CITIZENS) [CAP. 580.
-
 **CHAPTER 580**
 
 **CONSULAR PROTECTION**
@@ -59,10 +55,6 @@ In this Act, unless the context otherwise requires:
 
 (b) being a victim of crime;
 
-*2*
-
-[CAP. 580. (UNREPRESENTED CITIZENS)
-
 (c) a serious accident or serious illness;
 
 (d) death;
@@ -93,11 +85,7 @@ The Government of Malta shall provide consular protection to family members of u
 
 (3) Without prejudice to the provisions of article 3, where an unrepresented citizen seeks consular protection from an embassy or consulate of the Government of Malta which, according to the practical agreement referred to in sub-article (2), is not deemed competent, then the embassy or consulate shall redirect the application to the relevant embassy or consulate:
 
-Provided that the provisions of this sub-article shall not (UNREPRESENTED CITIZENS) [CAP. 580.
-
-apply if the urgency of the matter requires immediate action.
-
-*3*
+Provided that the provisions of this sub-article shall not apply if the urgency of the matter requires immediate action.
 
 ## 7. Identification of unrepresented citizens.
 
@@ -123,10 +111,6 @@ Provided that, before the provision of any form of consular protection, the unre
 
 (3) The Government of Malta shall also facilitate the exchange of information between the citizen concerned and the authorities of the Member State of the citizen’s nationality.
 
-*4*
-
-[CAP. 580. (UNREPRESENTED CITIZENS)
-
 ## 9. Requests for consular protection by unrepresented citizens of Malta.
 
 Where a claim is made by an unrepresented citizen of Malta to an embassy or consulate of a Member State, the Government of Malta shall, if requested by the relevant authorities of such Member State, provide the relevant Ministry of Foreign Affairs or competent embassy or consulate with all the relevant information referred to in article 8(2) and be responsible for any necessary contact with the family members or other relevant persons or authorities.
@@ -151,11 +135,7 @@ Provided that where an unrepresented citizen of Malta fails to reimburse for cos
 
 (1) The Government of Malta shall seek reimbursement for any costs incurred in providing consular protection to unrepresented citizens from the Member State of their nationality as provided for under Schedule II.
 
-(2) Where the costs of consular protection provided for unrepresented citizens consist in unusually high but essential costs such as to travel, accommodation or translation for the diplomatic or (UNREPRESENTED CITIZENS) [CAP. 580.
-
-consular authorities in the case of arrest or detention, the Government of Malta may request the reimbursement of such costs from the unrepresented citizen’s Member State of nationality:
-
-*5*
+(2) Where the costs of consular protection provided for unrepresented citizens consist in unusually high but essential costs such as to travel, accommodation or translation for the diplomatic or consular authorities in the case of arrest or detention, the Government of Malta may request the reimbursement of such costs from the unrepresented citizen’s Member State of nationality:
 
 Provided that where the Government of Malta is requested to pay such costs from a Member State it shall reimburse the requesting Member State within a period of twelve months.
 
@@ -172,10 +152,6 @@ Provided that such right shall subsist notwithstanding that the unrepresented ci
 ## 14. Rights of unrepresented citizens of Malta.
 
 When unrepresented citizens of Malta are seeking consular protection from an embassy or consulate of a Member State in a third country they shall enjoy the same rights as enjoyed by the nationals of that Member State notwithstanding the fact that such rights may be less than those provided for by an embassy or consulate of the Government of Malta in a third country.
-
-*6*
-
-[CAP. 580. (UNREPRESENTED CITIZENS)
 
 SCHEDULE I
 
@@ -212,8 +188,6 @@ is: ............................................................................
 DATE ........................................ SIGNATURE ..............................................
 
 (\*) if you have no permanent address, please indicate a contact address.
-
-(UNREPRESENTED CITIZENS) [CAP. 580. 7
 
 B. Common format for undertaking to repay costs of consular protection in case of repatriation
 
@@ -255,10 +229,6 @@ Miscellaneous costs
 
 LESS the contribution made by me
 
-*8*
-
-[CAP. 580. (UNREPRESENTED CITIZENS)
-
 CONSULAR FEES:
 
 Repatriation fee
@@ -284,10 +254,6 @@ DATE ................................. SIGNATURE ...............................
 Delete as appropriate: The Consular Officer and the applicant should initial each deletion in the margin.
 
 (\*\*) If you have no permanent address, please indicate a contact address.
-
-*9*
-
-(UNREPRESENTED CITIZENS) [CAP. 580.
 
 SCHEDULE II
 

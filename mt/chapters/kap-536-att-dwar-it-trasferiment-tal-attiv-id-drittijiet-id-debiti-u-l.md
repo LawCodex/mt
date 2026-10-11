@@ -15,8 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar it-Trasferiment tal-Attiv, id-Drittijiet, id-Debiti u l-Obbligi ta’ Enemalta (Cap. 536)
 
-ID-DEBITI U L-OBBLIGI TA’ ENEMALTA
-
 **KAPITOLU 536**
 
 **ATT DWAR IT-TRASFERIMENT TAL-ATTIV,**
@@ -89,9 +87,7 @@ Trasferiment tal-Attiv u tad-Debiti tal-Korporazzjoni Enemalta 3. (1) B’effett
 
 *Kap. 386.*
 
-(3) Minkejja d-dispożizzjonijiet tal-Att dwar il-Kumpanniji, b’effett mid-data msemmija fis-subartikolu (1), il-Korporazzjoni għandha għall-finijiet kollha tal-liġi u bis-saħħa ta’ dan is-subartikolu titqies li ġiet amalgamata fil-Kumpannija u d-dispożizzjonijiet ta’ subartikolu (1) jew l-artikolu 354 tal-Att dwar il-Kumpanniji għandhom, japplikaw mutatis mutandis, mingħajr il-bżonn ta’ u bl- ID-DEBITI U L-OBBLIGI TA’ ENEMALTA
-
-esklużjoni ta’ kwalunkwe formalitajiet barra dawk f’dan l-Att, u għal dawn l-għanijiet:
+(3) Minkejja d-dispożizzjonijiet tal-Att dwar il-Kumpanniji, b’effett mid-data msemmija fis-subartikolu (1), il-Korporazzjoni għandha għall-finijiet kollha tal-liġi u bis-saħħa ta’ dan is-subartikolu titqies li ġiet amalgamata fil-Kumpannija u d-dispożizzjonijiet ta’ subartikolu (1) jew l-artikolu 354 tal-Att dwar il-Kumpanniji għandhom, japplikaw mutatis mutandis, mingħajr il-bżonn ta’ u bl-esklużjoni ta’ kwalunkwe formalitajiet barra dawk f’dan l-Att, u għal dawn l-għanijiet:
 
 (a) il-Korporazzjoni għandha tieqaf teżisiti bħala persuna ġuridika separata għall-finijiet legali, u dan mingħajr ħsara għall-kwalunkwe dispożizzjoni oħra f’dan Att;
 
@@ -141,11 +137,9 @@ Minkejja d-dispożizzjonijiet tal-Att dwar it-Trasferiment ta’ Artijiet tal-Gv
 
 ## Taqsima II
 
-Regolamentazzjoni tal-Operaturi tas-Sistema ta’ Distribuzzjoni 6. Għall-finijiet ta’ kull waħda mill-funzjonijiet tiegħu, operatur tas-sistema ta’ distribuzzjoni jista’, bla ħsara għad-dispożizzjonijiet u għal kull rekwiżit skont xi liġi oħra, jinstalla kull installazzjoni fit- ID-DEBITI U L-OBBLIGI TA’ ENEMALTA
+Regolamentazzjoni tal-Operaturi tas-Sistema ta’ Distribuzzjoni 6. Għall-finijiet ta’ kull waħda mill-funzjonijiet tiegħu, operatur tas-sistema ta’ distribuzzjoni jista’, bla ħsara għad-dispożizzjonijiet u għal kull rekwiżit skont xi liġi oħra, jinstalla kull installazzjoni fit-toroq pubbliċi, u jiftaħ u jikser il-wiċċ ta’ kwalunkwe triq:
 
 *Installazzjonijiet*
-
-toroq pubbliċi, u jiftaħ u jikser il-wiċċ ta’ kwalunkwe triq:
 
 Iżda ebda waħda minn dawn is-setgħat ma tista’ tiġi eżerċitata mingħajr il-kunsens tal-Awtorità għat-Trasport f’Malta.
 
@@ -203,9 +197,7 @@ Kull persuna li -
 
 (a) tostakola jew timpedixxi membru ta’ operatur tas-sistema ta’ distribuzzjoni fit-twettiq ta’ dmirijietu skont dan l-Att jew skont xi regolamenti magħmulin taħt dan l-Att; jew (b) tikser jew tonqos milli tosserva xi waħda mid-dispożizzjonijiet ta’ dan l-Att jew ta’ xi regolament kif imsemmi qabel jew xi ordni legalment mogħti skont id-dispożizzjonijiet ta’ dan l-Att jew ta’ dawk ir-regolamenti; jew
 
-(ċ) fejn xi liċenza jew permess ikunu meħtieġa skont id-dispożizzjonijiet ta’ dan l-Att jew skont xi regolamenti magħmulin taħt dan l-Att, għall-użu ta’ servizzi jew faċilitajiet ta’ operatur tas-sistema ta’ distribuzzjoni, tagħmel użu minn dawk is-servizzi jew faċilitajiet mingħajr il-liċenza jew permess jew tikser jew tonqos ID-DEBITI U L-OBBLIGI TA’ ENEMALTA
-
-milli tosserva l-kundizzjonijiet ta’ xi liċenza jew permessi bħal dawk,
+(ċ) fejn xi liċenza jew permess ikunu meħtieġa skont id-dispożizzjonijiet ta’ dan l-Att jew skont xi regolamenti magħmulin taħt dan l-Att, għall-użu ta’ servizzi jew faċilitajiet ta’ operatur tas-sistema ta’ distribuzzjoni, tagħmel użu minn dawk is-servizzi jew faċilitajiet mingħajr il-liċenza jew permess jew tikser jew tonqos milli tosserva l-kundizzjonijiet ta’ xi liċenza jew permessi bħal dawk,
 
 tkun ħatja ta’ reat kontra dan l-Att.
 

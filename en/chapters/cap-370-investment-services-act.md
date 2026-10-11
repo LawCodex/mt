@@ -65,17 +65,11 @@ The short title of this Act is the Investment Services Act. 2. (1) In this Act, 
 
 "the BRRD" means Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No. 1093/2010 and (EU) No. 648/2012, of the European Parliament and of the Council, as amended from time to time, and includes any implementing measures, implementing technical standards, regulatory technical standards, guidelines and similar measures that have been or may be issued thereunder;
 
-"collective investment scheme" means any scheme or
+"collective investment scheme" means any scheme or arrangement which has as its object or as one of its objects the collective investment of capital acquired by means of an offer of units for subscription, sale or exchange and which has the following characteristics:
 
-arrangement which has as its object or as one of its objects the  
-collective investment of capital acquired by means of an offer of  
-units for subscription, sale or exchange and which has the  
-following characteristics:  
-(a) the scheme or arrangement operates according to the  
-principle of risk spreading; and either  
-(b) the contributions of the participants and the profits or
+(a) the scheme or arrangement operates according to the principle of risk spreading; and either
 
-income out of which payments are to be made to them are pooled; or
+(b) the contributions of the participants and the profits or income out of which payments are to be made to them are pooled; or
 
 (c) at the request of the holders, units are or are to be re-purchased or redeemed out of the assets of the scheme or arrangement, continuously or in blocks at short intervals; or
 

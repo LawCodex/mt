@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Government Borrowing and Management of Public Debt Act (Cap. 575)
 
-*1*
-
-AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
-
 **CHAPTER 575**
 
 **GOVERNMENT BORROWING**
@@ -57,10 +53,6 @@ In this Act, unless the context otherwise requires:
 
 \* See Legal Notice 216 of 2017.
 
-*2*
-
-[CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
-
 * Cap. 330.*
 
 "competent authority" means the Malta Financial Services Authority established by the Malta Financial Services Authority Act;
@@ -89,11 +81,7 @@ In this Act, unless the context otherwise requires:
 
 "holder", in relation to any debt security means any natural or legal person in whose name or names the debt security is entered or registered in the register. In relation to any debt instruments, holder means any natural person in whose name or names the debt instrument is entered or registered in the register;
 
-"loan" means the raising of money: by the issue and sale of "registered stock" or "stock" or other debt security with a maturity of more than one year issued by the Government of Malta, by the issue AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
-
-of debt instrument, and by entering into any bilateral agreement between the Government of Malta and the Government of any other country, multilateral institutions, or from any local banks, or with any international or foreign organisation, fund or other institution;
-
-*3*
+"loan" means the raising of money: by the issue and sale of "registered stock" or "stock" or other debt security with a maturity of more than one year issued by the Government of Malta, by the issue of debt instrument, and by entering into any bilateral agreement between the Government of Malta and the Government of any other country, multilateral institutions, or from any local banks, or with any international or foreign organisation, fund or other institution;
 
 "Malta" has the same meaning assigned to it by article 124 of the Constitution of Malta;
 
@@ -114,10 +102,6 @@ of debt instrument, and by entering into any bilateral agreement between the Gov
 "Register" means the Treasury Department's Register of holders of stock, other government debt securities and debt instruments as maintained in accordance with article 31;
 
 "registered stock" or "stock" means Government of Malta stock with maturity exceeding one year issued under the provisions of this Act and whose nominal value is registered in the name of the owner in the register;
-
-*4*
-
-[CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
 
 "Registrar" means the Treasury Department or the Treasury Department's designated Registrar;
 
@@ -157,10 +141,6 @@ For the purpose of raising funds the Minister is hereby authorised to borrow on 
 
 The primary objectives of public debt management shall be:
 
-*5*
-
-AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
-
 (a) to ensure that the financing needs of the Government including its debt service payment obligations are met in a timely manner;
 
 (b) funds are raised in a prudent and cost effective manner that seeks to achieve the lowest possible medium to long-term borrowing costs consistent with an acceptable level of risk; and
@@ -193,10 +173,6 @@ The Minister may borrow funds both in Malta and outside Malta pursuant to articl
 
 (k) to refinance outstanding loans which are due for redemption during the relevant year;
 
-*6*
-
-[CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
-
 (l) to meet monetary liquidity requirements connected with cash flows as part of cash management;
 
 (m) to effect portfolio changes as and when required in line with Government's debt management policies; and
@@ -219,11 +195,7 @@ The Minister may borrow funds both in Malta and outside Malta pursuant to articl
 
 (1) The Minister may represent the Republic of Malta when entering into the Loan Facility Agreement with the Single Resolution Board in pursuance of Regulation (EU) No. 806/ 2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No. 1093/2010.
 
-(2) The Minister may, in terms of the Loan Facility Agreement between the Republic of Malta and the Single Resolution Board referred to in sub-article (1), raise a sum of money by way of loan for the purpose of lending to the Single Resolution Board an unsecured loan facility of up to sixty-six million euro (€66,000,000). AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
-
-(3) For the purposes of sub-articles (1) and (2), the Minister responsible for finance is hereby authorised to borrow sums of money on such terms and subject to such conditions as the said Minister may approve under the provisions of this Act for an amount which in total does not exceed sixty-six million euro (€66,000,000).
-
-*7*
+(2) The Minister may, in terms of the Loan Facility Agreement between the Republic of Malta and the Single Resolution Board referred to in sub-article (1), raise a sum of money by way of loan for the purpose of lending to the Single Resolution Board an unsecured loan facility of up to sixty-six million euro (€66,000,000). (3) For the purposes of sub-articles (1) and (2), the Minister responsible for finance is hereby authorised to borrow sums of money on such terms and subject to such conditions as the said Minister may approve under the provisions of this Act for an amount which in total does not exceed sixty-six million euro (€66,000,000).
 
 ### 11. Limits on debt and borrowing.  Cap. 534.
 
@@ -251,11 +223,7 @@ All money so raised though borrowings shall be paid into the Consolidated Fund.
 
 (1) So long as any interest is payable under this Act in respect of any debt security and any debt instrument, the Minister shall, on the date on which the interest on such debt securities and other debt instruments falls due, appropriate out of the general revenue and assets of the Government of Malta a sum sufficient to meet all interest payable on that date and shall authorise the Accountant General to pay such interest out of the sum so appropriated.
 
-(2) For any public debt contracted or issued, as specified [CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
-
-under article 14, all payments related to such debt in respect of interest, sinking fund, redemption monies, and any other charges and expenses incidental to the management of that debt shall be payable out of the general revenue and assets of the Government and charged to the Consolidated Fund and other public funds of the Government without the need of any further appropriation other than this Act.
-
-*8*
+(2) For any public debt contracted or issued, as specified under article 14, all payments related to such debt in respect of interest, sinking fund, redemption monies, and any other charges and expenses incidental to the management of that debt shall be payable out of the general revenue and assets of the Government and charged to the Consolidated Fund and other public funds of the Government without the need of any further appropriation other than this Act.
 
 ### 16. Minister to prepare medium-term debt management strategy.
 
@@ -281,11 +249,7 @@ The medium-term debt management strategy should take into account:
 
 *Annual borrowing plan.*
 
-(2) The annual borrowing plan shall be based on the AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
-
-determined medium-term debt management strategy, annual cash flow forecast of the Government and market outlook.
-
-*9*
+(2) The annual borrowing plan shall be based on the determined medium-term debt management strategy, annual cash flow forecast of the Government and market outlook.
 
 (3) The annual borrowing plan shall be published and shall include the total Government's gross long-term borrowing along with an indicative quarterly calendar for domestic market issuance of Government securities with maturities of more than one year.
 
@@ -317,11 +281,7 @@ The implementation of entering into bilateral loan agreement may be delegated by
 
 (2) Whenever the Minister is authorised to issue debt securities under this Act, such securities may be issued either on the domestic or the international market as the said Minister may direct.
 
-(3) Whenever the Minister is authorised to issue debt [CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
-
-instruments under this Act, such debt instruments shall be issued in the domestic market as the said Minister may direct.
-
-*10*
+(3) Whenever the Minister is authorised to issue debt instruments under this Act, such debt instruments shall be issued in the domestic market as the said Minister may direct.
 
 ### 24. Method of issuance of debt securities and debt instruments.
 
@@ -344,10 +304,6 @@ instruments under this Act, such debt instruments shall be issued in the domesti
 (1) The sale of debt securities, with the exception of Treasury bills, shall be effected on the basis of an indicative quarterly issuance calendar approved by the Minister, which provides more detailed information on the issuance and constitutes an integral part of the annual borrowing plan established in article 18 which may be revised in the course of the year.
 
 (2) The Accountant General shall immediately after the approval publish the indicative quarterly issuance calendar.
-
-*11*
-
-AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
 
 ### 27. Power of Treasury Department to accept or reject tenders.
 
@@ -375,11 +331,7 @@ The terms and conditions of securities issued may also include collective action
 
 ### 32. Portfolio management and other operations.
 
-(1) The Government may engage into portfolio management operations including buybacks, switches, pre-payments and pre-financing operations. The Government may engage into repurchase (repos) and reverse repurchase (reverse repos) based on a [CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
-
-Master Repurchase (Repo) Agreement with financial institutions as part of cash management operations. The Government may further engage in a securities lending facility to support debt market development and other forms of collateralised lending.
-
-*12*
+(1) The Government may engage into portfolio management operations including buybacks, switches, pre-payments and pre-financing operations. The Government may engage into repurchase (repos) and reverse repurchase (reverse repos) based on a Master Repurchase (Repo) Agreement with financial institutions as part of cash management operations. The Government may further engage in a securities lending facility to support debt market development and other forms of collateralised lending.
 
 (2) The Minister shall have the power to authorise any portfolio management and other operations as referred to in sub-article (1), which may be delegated to the Treasury Department to undertake specialised debt management operations.
 
@@ -404,10 +356,6 @@ The Minister shall have the power and authority to exercise, from time to time, 
 ### 35. Swaps and hedging transactions.
 
 (1) The Minister shall have the power and authority on behalf of the Government to engage in swaps and other hedging transactions provided that such transactions support the objectives of debt management strategy to mitigate currency and, or interest rate risks:
-
-*13*
-
-AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
 
 Provided that in the exercise of his powers the Minister shall have regard to the recommendation of the Committee.
 
@@ -443,11 +391,7 @@ The Treasury Department shall maintain comprehensive and accurate records of all
 
 (1) (a) Subject to the provisions of sub-article (2), upon the entry into force of this Act, the Malta Treasury Bills Act, Local Loans (Registered Stocks and Securities) Ordinance and Development Loan Acts, and all subsidiary legislation made under such Acts and Ordinance, shall be repealed.
 
-(b) Any reference to the Local Loans (Registered Stock and Securities) Ordinance in the Ecclesiastical Entities (Properties) Act shall [CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
-
-be read and construed as a reference to this Act.
-
-*14*
+(b) Any reference to the Local Loans (Registered Stock and Securities) Ordinance in the Ecclesiastical Entities (Properties) Act shall be read and construed as a reference to this Act.
 
 (2) The powers, rights and obligations of the Government in respect of loans entered into and debt securities issued in pursuance to the laws and regulations which are repealed under sub-article (1)(a), shall continue to apply and the loan agreements entered into and terms and conditions of debt securities issued prior to the coming into force of this Act shall remain in force.
 
@@ -485,10 +429,6 @@ be read and construed as a reference to this Act.
 
 ‡ Not yet in force. § Not yet in force.
 
-*15*
-
-AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
-
 revenue forecasts and consistent with the fiscal rules.
 
 (3) The ceiling on government guarantees for the forthcoming budget year shall be included in the Budget Measures Implementation Act.
@@ -522,10 +462,6 @@ revenue forecasts and consistent with the fiscal rules.
 † Not yet in force.
 
 ‡ Not yet in force.
-
-*16*
-
-[CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
 
 (b) an assessment of the financial risk for the Government stemming from the total outstanding amount in respect of all other guaranteed loans.
 
@@ -571,10 +507,6 @@ revenue forecasts and consistent with the fiscal rules.
 
 †† Not yet in force.
 
-*17*
-
-AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
-
 ## Part V
 
 Government Lending Operations, cash and Reserves Management.
@@ -613,11 +545,7 @@ The Treasury Department shall be responsible for retaining the liquidity buffer 
 
 (1) The Minister may decide to form a sinking fund for the repayment of any loan and for the purpose to repurchase government debt securities already issued.
 
-(2) In the case the Minister decides to establish a sinking fund for the repayment of any loan of the Government, there shall be [CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
-
-annual contributions in the said fund in accordance with the terms and conditions published, or any other agreement governing the said loan. The Minister shall appropriate out of the general revenue and assets of the Government of Malta a sum determined in accordance with the rate specified in the terms of the agreement or in any terms and conditions governing the said loan as contributions to the sinking fund established for the purpose of redeeming that loan and shall thereafter make a like timely appropriation up to the full repayment of the loan.
-
-*18*
+(2) In the case the Minister decides to establish a sinking fund for the repayment of any loan of the Government, there shall be annual contributions in the said fund in accordance with the terms and conditions published, or any other agreement governing the said loan. The Minister shall appropriate out of the general revenue and assets of the Government of Malta a sum determined in accordance with the rate specified in the terms of the agreement or in any terms and conditions governing the said loan as contributions to the sinking fund established for the purpose of redeeming that loan and shall thereafter make a like timely appropriation up to the full repayment of the loan.
 
 (3) The Minister may further authorise the appropriation, out of the general revenue and assets of the Government of Malta, of a contribution towards the sinking fund established specifically to repurchase loans already issued.
 
@@ -641,11 +569,7 @@ Provided, however, that the contributions to that sinking fund shall be recommen
 
 ### 62. Expenses to be paid out of sinking fund.
 
-There shall be paid out of the sinking fund all expenses specifically incurred in, or incidental to, the investment and AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
-
-management of that fund and the repayment of the loan for which that fund was established.
-
-*19*
+There shall be paid out of the sinking fund all expenses specifically incurred in, or incidental to, the investment and management of that fund and the repayment of the loan for which that fund was established.
 
 ### 63. Deficiency in sinking fund to be a charge upon revenue.
 
@@ -675,11 +599,7 @@ Detailed functions of the Directorate shall be made by regulations giving better
 
 ### 68. Public Debt Management Advisory Committee.
 
-(1) There shall be established a Committee, appointed by the Minister, to be known as the Public Debt Management Advisory Committee (in this Act referred to as "the Committee"), to assist and advise the Minister on matters relating to the management of public debt, the borrowing of money for the central Government and any other such matters as are referred to it [CAP. 575. AND MANAGEMENT OF PUBLIC DEBT
-
-for that purpose by the Accountant General.
-
-*20*
+(1) There shall be established a Committee, appointed by the Minister, to be known as the Public Debt Management Advisory Committee (in this Act referred to as "the Committee"), to assist and advise the Minister on matters relating to the management of public debt, the borrowing of money for the central Government and any other such matters as are referred to it for that purpose by the Accountant General.
 
 (2) The functions of the Committee in relation to the management of the public debt shall be to:
 
@@ -711,11 +631,7 @@ The Minister may make regulations for the purpose of giving effect to the provis
 
 (a) the management of the public debt;
 
-(b) a code of conduct (including conflict of interest AND MANAGEMENT OF PUBLIC DEBT [CAP. 575.
-
-guidelines) for persons employed in the management of the public debt;
-
-*21*
+(b) a code of conduct (including conflict of interest guidelines) for persons employed in the management of the public debt;
 
 (c) the manner in which, and the conditions subject to which, monies may be raised and repaid, including the payment of interest;
 

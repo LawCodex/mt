@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Production of Cannabis for Medicinal and Research Purposes Act (Cap. 578)
 
-*1*
-
-MEDICINAL AND RESEARCH PURPOSES [CAP. 578.
-
 **CHAPTER 578**
 
 PRODUCTION OF CANNABIS FOR MEDICINAL
@@ -56,10 +52,6 @@ derivatives; and, or
 issued by the regulatory authority,  
 all of the foregoing to be used exclusively for manufacturing of  
 products for medicinal and, or research purposes;
-
-*2*
-
-[CAP. 578. MEDICINAL AND RESEARCH PURPOSES
 
 *Cap. 31 Cap. 101. Cap. 537.*
 
@@ -103,10 +95,6 @@ products for medicinal and, or research purposes;
 
 "superintendent" means the Superintendent of Public Health as established by article 3 of the Public Health Act.
 
-*3*
-
-MEDICINAL AND RESEARCH PURPOSES [CAP. 578.
-
 ## PART II — ADMINISTRATION
 
 ### 3. Administration.
@@ -141,10 +129,6 @@ Provided further that cultivation that does not form an integral part of a produ
 
 (b) obtain a letter of intent from Malta Enterprise after making an application on the prescribed form. Malta Enterprise shall ensure that the proposed activity is solely a production process;
 
-*4*
-
-[CAP. 578. MEDICINAL AND RESEARCH PURPOSES
-
 (c) comply with all regulations, including international obligations resulting from a treaty to which Malta may from time to time be a party, as may be applicable;
 
 *   Cap. 458.*
@@ -173,10 +157,6 @@ Provided that the regulatory authority may at its own discretion request additio
 
 (2) The issuing of a letter of intent by Malta Enterprise shall be subject to the applicant submitting an application on the prescribed form:
 
-*5*
-
-MEDICINAL AND RESEARCH PURPOSES [CAP. 578.
-
 Provided that Malta Enterprise may at its own discretion request additional information as may be necessary for the evaluation of the application.
 
 (3) Notwithstanding any licence, permit or authorisation issued, the Commissioner of Police may, if a crime is carried out on the premises where any activity authorised under this Act is taking place, or is suspected to be carried out or is expected to happen take any action as reasonably necessary.
@@ -201,15 +181,11 @@ Provided that Malta Enterprise may at its own discretion request additional info
 
 Provided that the Minister may appoint a substitute secretary in the following cases:
 
-(a) in cases of urgency if the designated secretary is in any way not available to perform his duties; and [CAP. 578. MEDICINAL AND RESEARCH PURPOSES
-
-(b) in cases where the designated secretary abstains himself for the same reasons that a member of the Board may abstain himself as mentioned above. 7. (1) An appeal shall lie to the Board on any decision taken according to the provisions of this Act and any regulations made thereunder. The right of appeal shall be competent to the applicant and to any person showing such interest as may be prescribed, who has duly filed an objection or made representations against the grant of the licence.
-
-*6*
-
-*Right of appeal.*
+(a) in cases of urgency if the designated secretary is in any way not available to perform his duties; and (b) in cases where the designated secretary abstains himself for the same reasons that a member of the Board may abstain himself as mentioned above. 7. (1) An appeal shall lie to the Board on any decision taken according to the provisions of this Act and any regulations made thereunder. The right of appeal shall be competent to the applicant and to any person showing such interest as may be prescribed, who has duly filed an objection or made representations against the grant of the licence.
 
 (2) An appeal to the Board may be filed on any of the following grounds:
+
+*Right of appeal.*
 
 (a) that a material error as to the facts has been made;
 
@@ -235,11 +211,7 @@ Provided that the Minister may appoint a substitute secretary in the following c
 
 (3) For the purposes aforesaid, the Board shall have the same powers as are competent to the First Hall, Civil Court according to law.
 
-(4) The procedure to be followed before the Board, the time within which and the manner in which an appeal to the Board is to be made, shall be such as may be prescribed and subject thereto, and to MEDICINAL AND RESEARCH PURPOSES [CAP. 578.
-
-any other applicable provision of this Act, the Board may regulate its own procedure.
-
-*7*
+(4) The procedure to be followed before the Board, the time within which and the manner in which an appeal to the Board is to be made, shall be such as may be prescribed and subject thereto, and to any other applicable provision of this Act, the Board may regulate its own procedure.
 
 ### 9. Appeal to the Court of Appeal.    Cap. 12.
 
@@ -267,10 +239,6 @@ The Minister may make regulations for the purpose of regulating the use of canna
 
 (d) for establishing the duration of the validity of the licence and authorisations or of any one or more categories or classes thereof;
 
-*8*
-
-[CAP. 578. MEDICINAL AND RESEARCH PURPOSES
-
 (e) for establishing the qualifications that certain key personnel involved in or with the premises may be required to possess;
 
 (f) for regulating inspections to be carried out at the premises;
@@ -293,11 +261,7 @@ Malta Enterprise and the regulatory authority may issue guidelines and, or direc
 
 ### 13. Monitoring.
 
-(1) The regulatory authority shall monitor and review relevant operations within premises to ensure that any operation within MEDICINAL AND RESEARCH PURPOSES [CAP. 578.
-
-the ambit of this Act is carried out only in accordance with the provisions of this Act and in compliance with the decisions lawfully taken under this Act as well as other relevant and applicable legislation.
-
-*9*
+(1) The regulatory authority shall monitor and review relevant operations within premises to ensure that any operation within the ambit of this Act is carried out only in accordance with the provisions of this Act and in compliance with the decisions lawfully taken under this Act as well as other relevant and applicable legislation.
 
 (2) For the purposes of such monitoring and review the regulatory authority or any person authorised thereby to that effect shall have the right at all reasonable times to enter and inspect any premises.
 

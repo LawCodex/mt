@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Kodiċi ta' Kondotta għal Sistema ta' Riservazzjoni Komputerizzata (Cap. 434)
 
-*1*
-
-TA’ RISERVAZZJONI KOMPUTERIZZATA [KAP. 434.
-
 **KAPITOLU 434**
 
 **ATT DWAR KODIĊI TA’ KONDOTTA GĦAL**
@@ -87,9 +83,7 @@ KAP. 434.] TA’ RISERVAZZJONI KOMPUTERIZZATA
 
 (a) isiru minn ajruplani għat-trasport ta’ passiġġieri jew ta’ passiġġieri u merkanzija u, jew il-valiġġa tal-posta għal rimunerazzjoni, b’dak il-mod li waqt kull titjira jkun hemm disponibbli postijiet biex jinxtraw minn konsumaturi individwali, sew direttament mingħand it-trasportatur bl-ajru jew mingħand l-aġenti awtorizzati tiegħu;
 
-*3*
-
-TA’ RISERVAZZJONI KOMPUTERIZZATA [KAP. 434. (b) ikunu mħaddma b’mod li jservu t-traffiku bejn l-istess żewġ punti jew iktar, kemm -
+(b) ikunu mħaddma b’mod li jservu t-traffiku bejn l-istess żewġ punti jew iktar, kemm -
 
 (i) skont pjan pubblikat ta’ ħinijiet; kemm
 
@@ -149,11 +143,9 @@ Iżda wkoll trasportatur parteċipanti jista’ jagħtil avviż itwal minn dak l
 
 ## 4. Mġieba ta’ trasportaturi prinċipali.
 
-(1) (a) Trasportatur prinċipali ma jistax jiddiskrimina kontra sistema ta’ riservazzjoni komputerizzata li tkun qed tikkompeti billi jirrofta milli jipprovdi lis-sistema l-aħħar imsemmija, meta hekk jintalab u bl-istess ħeffa, l-istess informazzjoni dwar skedi, tariffi u disponibbiltà għar-rigward tas-servizzi tal-ajru tiegħu stess bħalma tkun dik l-informazzjoni li kieku jipprovdi lis-sistema ta’ riservazzjoni komputerizzata tiegħu nnifsu jew billi jirrofta milli jiddistribwixxi l-prodotti tat-trasport bl-ajru li jkollu permezz ta’ xi sistema ta’ riservazzjoni komputerizzata oħra, jew billi jirrofta milli jaċċetta jew jikkonferma bl-istess ħeffa xi riservazzjoni li ssir permezz ta’ sistema ta’ riservazzjoni komputerizzata li tkun qed tikkompetilu għal xi wieħed mill-prodotti ta’ trasport bl-ajru li jkollu li jkunu distribwiti permess tas-sistema ta’ riservazzjoni komputerizzata tiegħu nnifsu. It-trasportatur prinċipali jkun obbligat li jaċċetta u jikkonferma biss dawk il-prenotazzjonijiet li jkunu skont it-tariffi u TA’ RISERVAZZJONI KOMPUTERIZZATA [KAP. 434. l-kondizzjonijiet tiegħu.
+(1) (a) Trasportatur prinċipali ma jistax jiddiskrimina kontra sistema ta’ riservazzjoni komputerizzata li tkun qed tikkompeti billi jirrofta milli jipprovdi lis-sistema l-aħħar imsemmija, meta hekk jintalab u bl-istess ħeffa, l-istess informazzjoni dwar skedi, tariffi u disponibbiltà għar-rigward tas-servizzi tal-ajru tiegħu stess bħalma tkun dik l-informazzjoni li kieku jipprovdi lis-sistema ta’ riservazzjoni komputerizzata tiegħu nnifsu jew billi jirrofta milli jiddistribwixxi l-prodotti tat-trasport bl-ajru li jkollu permezz ta’ xi sistema ta’ riservazzjoni komputerizzata oħra, jew billi jirrofta milli jaċċetta jew jikkonferma bl-istess ħeffa xi riservazzjoni li ssir permezz ta’ sistema ta’ riservazzjoni komputerizzata li tkun qed tikkompetilu għal xi wieħed mill-prodotti ta’ trasport bl-ajru li jkollu li jkunu distribwiti permess tas-sistema ta’ riservazzjoni komputerizzata tiegħu nnifsu. It-trasportatur prinċipali jkun obbligat li jaċċetta u jikkonferma biss dawk il-prenotazzjonijiet li jkunu skont it-tariffi u l-kondizzjonijiet tiegħu.
 
 (b) It-trasportatur prinċipali ma jkun obbligat iħallas ebda spejjeż f’dan ir-rigward ħlief dawk konnessi mar-riproduzzjoni tal-informazzjoni li għandha tiġi pprovduta u għal prenotazzjonijiet li jiġu aċċettati. Id-dritt għall-prenotazzjoni li jitħallas għal sistema ta’ riservazzjoni komputerizzata għal prenotazzjoni aċċettata magħmula skont ma hemm f’dan l-artikolu m’għandux jeċċedi d-dritt imħallas bl-istess sistema ta’ riservazzjoni komputerizzata lil trasportaturi parteċipanti għal xi transazzjoni ekwivalenti.
-
-*5*
 
 (ċ) It-trasportatur prinċipali għandu jkollu jedd jeffettwa kontrolli biex jiżgura li d-disposizzjonijiet tal-artikolu 7(1) jkunu qegħdin jiġu segwiti mis-sistema ta’ riservazzjoni komputerizzata.
 
@@ -199,11 +191,9 @@ speċifiku u, jew, ipproċessar jew xi faċilità ta’ distribuzzjoni oħra għ
 
 (d) Il-klassifikazzjoni ta’ għażliet fit-titjiriet f’wiri prinċipali għandha tkun skont ma hemm stipulat fl-Ewwek Skeda.
 
-(e) Il-kriterji li għandhom jintużaw għall-klassifikazzjoni m’għandhomx jiġu bbażati fuq xi fattur direttament jew indirettament relatatmal-identità tat-trasportatur u għandhom jiġu applikati fuq bażi mhux diskriminatorja għat-trasportaturi TA’ RISERVAZZJONI KOMPUTERIZZATA [KAP. 434. parteċipanti kollha.
+(e) Il-kriterji li għandhom jintużaw għall-klassifikazzjoni m’għandhomx jiġu bbażati fuq xi fattur direttament jew indirettament relatatmal-identità tat-trasportatur u għandhom jiġu applikati fuq bażi mhux diskriminatorja għat-trasportaturi parteċipanti kollha.
 
 (3) Meta bejjiegħ ta’ sistema jipprovdi informazzjoni dwar it-tariffi, il-wiri għandu jkun wieħed newtrali u mhux diskriminatorju u għandu jkun fih mill-inqas it-tariffi pprovduti għat-titjiriet kollha ta’ trasportaturi parteċipanti murija fil-wiri prinċipali. Is-sors ta’ dik l-informazzjoni għandha tkun aċċettabbli sew għat-trasportatur parteċipanti sew għall-bejjiegħ ta’ sistema involut.
-
-*7*
 
 (4) L-informazzjoni fuq prodotti iggruppati li jkunu jirrigwardaw, fost l-oħrajn, l-organizzatur tal-mawra, id-disponibbiltà u l-prezzijiet, m’għandhiex tidher fil-wiri prinċipali.
 
@@ -253,9 +243,7 @@ trasportatur individwali;
 
 (1) Bejjiegħ ta’ sistema għandu jagħmel kull faċilità ta’ distribuzzjoni ta’ sistema ta’ riservazzjoni komputerizzata disponibbli għal kull abbonat fuq bażi mhux diskriminatorja.
 
-*9*
-
-TA’ RISERVAZZJONI KOMPUTERIZZATA [KAP. 434. (2) Bejjiegħ ta’ sistema la għandu jeħtieġ li xi abbonat jiffirma kuntratt esklużiv, u lanqas direttament jew indirettament jipprevjeni lil xi abbonat milli jabbona fi, jew milli juża, xi sistema jew sistemi oħra.
+(2) Bejjiegħ ta’ sistema la għandu jeħtieġ li xi abbonat jiffirma kuntratt esklużiv, u lanqas direttament jew indirettament jipprevjeni lil xi abbonat milli jabbona fi, jew milli juża, xi sistema jew sistemi oħra.
 
 (3) Tkattir u titjib fis-servizz li jiġi offrut lil xi abbonat wieħed għandhom jiġu offruti mill-bejjiegħ ta’ sistema lill-abbonati kollha fuq bażi mhux diskriminatorja.
 
@@ -311,10 +299,6 @@ pprovduta minn sistema ta’ riservazzjoni komputerizzata b’mod li jwassal għ
 
 (v) kodiċi tal-belt;
 
-*11*
-
-TA’ RISERVAZZJONI KOMPUTERIZZATA [KAP. 434.
-
 (vi) bliet f’par tas-segment;
 
 (vii) data tal-prenotazzjoni (data tat-transazzjoni);
@@ -365,11 +349,9 @@ diskriminatorja.
 
 (2) Meta bejjiegħ ta’ sistema jiddeċiedi li jinkludi prodotti bit-tren fil-wiri prinċipali tas-sistema ta’ riservazzjoni komputerizzata tiegħu, huwa jista’ jagħżel li jinkludi biss ċerti kategoriji definiti sew ta’ servizzi bit-tren, filwaqt li jirrispetta l-prinċipji elenkati fl-artiklu 3(2).
 
-(3) Operatur tat-trasport bit-tren jitqies li jkun trasportatur parteċipanti jew prinċipali, kif adatt, għall-finijiet ta’ dan l-Att, fil-qies li jkollu ftehim ma’ bejjiegħ ta’ sistema għad-distribuzzjoni tal-prodotti tiegħu permezz tal-wiri prinċipali ta’ sistema ta’ TA’ RISERVAZZJONI KOMPUTERIZZATA [KAP. 434. riservazzjoni komputerizzata jew meta s-sistema ta’ riservazzjoni tiegħu nnifsu tkun sistema ta’ riservazzjoni komputerizzata kif imfisser fl-artikolu 2. Bla ħsara għas-subartikolu (4), dawk il-prodotti għandhom jiġu ttrattati bl-istess mod bħalma huma l-prodotti tat-trasport bl-ajru u għandhom jiġu inkorporati fil-wiri prinċipali skont il-kriterji stipulati fl-Ewwel Skeda.
+(3) Operatur tat-trasport bit-tren jitqies li jkun trasportatur parteċipanti jew prinċipali, kif adatt, għall-finijiet ta’ dan l-Att, fil-qies li jkollu ftehim ma’ bejjiegħ ta’ sistema għad-distribuzzjoni tal-prodotti tiegħu permezz tal-wiri prinċipali ta’ sistema ta’ riservazzjoni komputerizzata jew meta s-sistema ta’ riservazzjoni tiegħu nnifsu tkun sistema ta’ riservazzjoni komputerizzata kif imfisser fl-artikolu 2. Bla ħsara għas-subartikolu (4), dawk il-prodotti għandhom jiġu ttrattati bl-istess mod bħalma huma l-prodotti tat-trasport bl-ajru u għandhom jiġu inkorporati fil-wiri prinċipali skont il-kriterji stipulati fl-Ewwel Skeda.
 
 (4) (a) Meta jkunu qegħdin jiġu applikati r-regoli stipulati fil-paragrafi 1 u 2 tal-Ewwel Skeda għal servizzi bit-tren, il-bejjiegħ ta’ sistema għandu jaġġusta l-prinċipji ta’ klassifikazzjoni għall-wiri prinċipali sabiex jittieħed qies kif dovut tal-bżonnijiet tal-konsumaturi li jkunu mgħarrfa b’mod adegwat dwar servizzi bit-tren li jkunu jirrappreżentaw alternattiva kompetitiva għas-servizzi bl-ajru. B’mod partikolari, bejjiegħ ta’ sistema jista’ jikklassifika is-servizzi bit-tren ma’ għadd limitat ta’ waqfiet qosra ma’ servizzi bl-ajru diretti u ta’ bla waqfien.
-
-*13*
 
 (b) Bejjiegħ ta’ sistema għandu jiddefinixxi kriterji ċari għall-applikazzjoni tad-disposizzjonijiet ta’ dan l-artikolu għal servizzi bit-tren. Dawk il-kriterji għandhom ikopru il-ħin tal-vjaġġ traskors u jkunu jirriflettu l-ħtieġa li jiġi evitat screen padding eċċessiv. Dawk il-kriterji għandhom jingħataw lid-Direttur mill-anqas xahrejn qabel ma jibdew jiġu applikati.
 
@@ -433,9 +415,7 @@ Il-Ministru jista’ , minn żmien għal żmien, jagħmel u, meta jkun hekk għa
 
 (3) Fit-talba tiegħu l-Bord għandu jiddikjara xi tkun il-bażi legali u l-għan tat-talba kif ukoll il-penali, li jistgħu jiġu imposti skont l-artikolu 23(1), għall-provvista ta’ informazzjoni mhux korretta.
 
-*15*
-
-TA’ RISERVAZZJONI KOMPUTERIZZATA [KAP. 434. (4) Is-sidien tal-impriżi jew ir-rappreżentanti tagħhom u, fil-każ ta’ persuna legali jew ta’ kumpanniji, ditti jew assoċjazzjonijiet li ma jkollhomx personalità ġuridika, il-persuna awtorizzata li tirrappreżenthom bil-liġi jew bir-regoli tagħhom, għandha tkun dovuta tissupplixxi l-informazzjoni meħtieġa.
+(4) Is-sidien tal-impriżi jew ir-rappreżentanti tagħhom u, fil-każ ta’ persuna legali jew ta’ kumpanniji, ditti jew assoċjazzjonijiet li ma jkollhomx personalità ġuridika, il-persuna awtorizzata li tirrappreżenthom bil-liġi jew bir-regoli tagħhom, għandha tkun dovuta tissupplixxi l-informazzjoni meħtieġa.
 
 (5) Impriżi u assoċjazzjonijiet ta’ impriżi għandhom jissottomettu ruħhom għal investigazzjonijiet li jiġu ordnati b’deċiżjoni tal-Bord. Id-deċiżjoni għandha tispeċifika l-mertu u l-fini tal-investigazzjoni, tistabbilixxi d-data meta jkollha tibda u tindika l-penali li jistgħu jiġu imposti skont l-artikolu 23(1).
 
@@ -505,11 +485,9 @@ Bejjiegħ ta’ sistema m’għandux juża l-ispazju tal-iskrin f’wiri prinċi
 
 \* Kull riferenza għal "titjiriet" f'din l-Iskeda hija skont l-artikolu 16(6) tal-Att.
 
-*17*
-
-TA’ RISERVAZZJONI KOMPUTERIZZATA [KAP. 434. Hlief kif hemm provdut fil-paragrafu 10, dawn id-disposizzjonijiet li ġejjin għandhom ikunu japplikaw:
-
 *\9.*
+
+Hlief kif hemm provdut fil-paragrafu 10, dawn id-disposizzjonijiet li ġejjin għandhom ikunu japplikaw:
 
 (a) għal servizzi diretti, ebda titjira m’għandha tidher iktar minn darba f’wiri prinċipali;
 

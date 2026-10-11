@@ -241,18 +241,11 @@ This equipment shall be rigidly fixed to the living compartment; however, the ta
 
 "public holidays" means such public holidays as established in the National Holidays and Other Public Holidays Act;
 
-"quad bikes" means a four-wheeled bike whose maximum design speed is more than 45 km per hour and for the purposes of this Act includes wheeled tractors of category T that are supplemented by a ‘b’
+"quad bikes" means a four-wheeled bike whose maximum design speed is more than 45 km per hour and for the purposes of this Act includes wheeled tractors of category T that are supplemented by a ‘b’ index, category L6e and category L7e;
 
-index, category L6e and category L7e;  
-"quadricycle" means a motor vehicle with four wheels whose  
-unladen mass is not more than 400 kg, or 550 kg for vehicles  
-intended for carrying goods, not including the mass of batteries in  
-the case of electric vehicles, and whose maximum net engine power  
-does not exceed 15 kW;  
-"racing vehicle" means a motor vehicle specifically constructed  
-for competitive purposes and may only be used in areas which are
+"quadricycle" means a motor vehicle with four wheels whose unladen mass is not more than 400 kg, or 550 kg for vehicles intended for carrying goods, not including the mass of batteries in the case of electric vehicles, and whose maximum net engine power does not exceed 15 kW;
 
-exclusively reserved for such competitive events;
+"racing vehicle" means a motor vehicle specifically constructed for competitive purposes and may only be used in areas which are exclusively reserved for such competitive events;
 
 "range extender electric vehicle" means, for the purposes of this Act, an electric vehicle which has a plug-in battery pack and electric motor, as well as a small internal combustion engine having battery autonomy of not less than fifty (50) km prior to switching to the range-extender mode;
 

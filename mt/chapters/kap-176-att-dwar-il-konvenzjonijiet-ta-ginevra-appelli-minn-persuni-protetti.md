@@ -15,12 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar il-Konvenzjonijiet ta' Ġinevra (Appelli minn Persuni Protetti) (Cap. 176)
 
-KONVENZJONIJIET TA’ ĠINEVRA
-
-*1*
-
-(APPELLI MINN PERSUNI PROTETTI) [KAP. 176.
-
 **KAPITOLU 176**
 
 ATT DWAR IL-KONVENZJONIJIET TA’ ĠINEVRA

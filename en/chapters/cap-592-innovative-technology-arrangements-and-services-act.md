@@ -16,10 +16,6 @@ retrieved: 2026-10-12
 
 # Innovative Technology Arrangements and Services Act (Cap. 592)
 
-*1*
-
-ARRANGEMENTS AND SERVICES [CAP. 592.
-
 **CHAPTER 592**
 
 **INNOVATIVE TECHNOLOGY ARRANGEMENTS**
@@ -61,10 +57,6 @@ and Services Act, and includes any regulations made, and rules and
 guidelines issued thereunder unless the context otherwise requires;  
 \*This Act is repealed by Act XIX of 2024. See article 56.
 
-*2*
-
-[CAP. 592. ARRANGEMENTS AND SERVICES
-
 *        Cap. 590.*
 
 "administrator" means an officer or any person who is appointed to carry out representative and fiduciary functions in the control and administration of a legal organisation, and any person who carries out such functions even if under another name, but shall not include a technical administrator or a resident agent under this Act or a VFA agent under the Virtual Financial Assets Act, and the term "board of administrators" shall be construed accordingly;
@@ -91,10 +83,6 @@ guidelines issued thereunder unless the context otherwise requires;
 
 "technical administrator" means the person who, upon a written engagement accepts to carry out specific functions relating to the operation, of the whole or a designated part, of an innovative technology arrangement as are established in this Act, in guidelines issued by the Authority, as the same may be supplemented by the conditions applicable to the certification of the particular certified innovative technology arrangement.
 
-*3*
-
-ARRANGEMENTS AND SERVICES [CAP. 592.
-
 ## PART II — Principles of Recognition
 
 ### 3. Scope of the Act.
@@ -117,11 +105,7 @@ the Authority may, on a written application for a ruling regarding any particula
 
 In case of confirmation, the relevant innovative technology arrangement or innovative technology service shall thereby be considered to have the functions and, or the characteristics referred to or be of the type or class of arrangements or services listed in the Schedules and the applicant may proceed with an application for recognition under the provisions of this Act.
 
-(5) The decision by the Authority to deny an application [CAP. 592. ARRANGEMENTS AND SERVICES
-
-under this article shall be subject to review or appeal by the Tribunal under the provisions of the MDIA Act and in case of a negative determination of the appeal, the particular innovative technology arrangement or innovative technology service shall not be eligible for recognition unless such particular innovative technology arrangement or innovative technology service is modified to fit within the scope of the Schedules or until such time as the Schedules are amended to include such type or class.
-
-*4*
+(5) The decision by the Authority to deny an application under this article shall be subject to review or appeal by the Tribunal under the provisions of the MDIA Act and in case of a negative determination of the appeal, the particular innovative technology arrangement or innovative technology service shall not be eligible for recognition unless such particular innovative technology arrangement or innovative technology service is modified to fit within the scope of the Schedules or until such time as the Schedules are amended to include such type or class.
 
 ### 4. No exemption from other laws.
 
@@ -139,11 +123,9 @@ Provided that, on the basis of the principles of simplification and avoidance of
 
 ### 6. Register of recognitions.
 
-(1) The Authority shall maintain an electronic register, hereinafter referred to as ''the Register'', of all recognitions issued or obtained under this Act and this in accordance with article ARRANGEMENTS AND SERVICES [CAP. 592. 27(5) of the MDIA Act.
+(1) The Authority shall maintain an electronic register, hereinafter referred to as ''the Register'', of all recognitions issued or obtained under this Act and this in accordance with article 27(5) of the MDIA Act.
 
 (2) The Register shall be divided into such parts, and each part with such classes, as the Authority shall from time to time determine, so as to represent the different types of recognition granted to applicants.
-
-*5*
 
 (3) The Register shall provide all such details as the Authority shall consider necessary to identify the relevant applicant and the activities being carried out.
 
@@ -173,10 +155,6 @@ as may be determined by the Authority, and which shall be stated in the certific
 
 It shall also establish guidelines on other matters such as the review processes and the timing of such reviews for the purposes of maintaining in place any certifications it may issue.
 
-*6*
-
-[CAP. 592. ARRANGEMENTS AND SERVICES
-
 (4) The Authority may designate, and make public, any international or other standards of certification it may rely on when issuing its own certification under this Act.
 
 (5) The Authority may amend the guidelines referred to above from time to time including to enhance the qualitative standards of its reviews but such amendments shall not, except with the consent of any applicant with a pending application or the holder of the certification, come into force prior to the lapse of at least six (6) months after the publication of such amendments and, in any case, shall only apply from the next review due under the relative guidelines immediately after the lapse of the said six (6) months.
@@ -193,11 +171,9 @@ It shall also establish guidelines on other matters such as the review processes
 
 (2) The Authority may certify any innovative technology arrangement when it is satisfied that the general and the specific requirements of this article have been satisfied.
 
-(3) The general requirements are intended to meet the standards of legality, integrity, transparency, compliance and accountability generally established for innovative technology arrangements by the Authority reflecting the principles of the MDIA Act and this Act, and confirmation that none of the circumstances referred to in article 29 of the MDIA Act arise, and shall be assessed by the Authority based on its own reviews of all persons involved, all documentation available and the software it may access as would any ARRANGEMENTS AND SERVICES [CAP. 592. user thereof.
+(3) The general requirements are intended to meet the standards of legality, integrity, transparency, compliance and accountability generally established for innovative technology arrangements by the Authority reflecting the principles of the MDIA Act and this Act, and confirmation that none of the circumstances referred to in article 29 of the MDIA Act arise, and shall be assessed by the Authority based on its own reviews of all persons involved, all documentation available and the software it may access as would any user thereof.
 
 (4) The specific requirements shall establish to the satisfaction of the Authority that:
-
-*7*
 
 (a) the innovative technology arrangement is fit and proper for the purposes for which it declares in the application to have been established and having the qualities, attributes, features, behaviours or aspects also therein declared; and when owned or controlled by a legal organisation:
 
@@ -215,11 +191,7 @@ The systems auditor shall confirm that the innovative technology arrangement mee
 
 (ii) all authorisations or powers granted to -
 
-(A) the Authority or other national ARRANGEMENTS AND SERVICES
-
-competent authority, if any; or
-
-*[CAP. 592. 8*
+(A) the Authority or other national competent authority, if any; or
 
 (B) the technical administrator; or
 
@@ -243,11 +215,9 @@ and in such cases the level of the review or audit and the relative assurances s
 
 (ii) its ability to meet standards on a continuing basis and to address critical matters, and how to address them, as are stated in guidelines, if any, by the Authority in the event they occur;
 
-(iii) its ability to vary parameters or functionalities where the objective of the system is to ARRANGEMENTS AND SERVICES [CAP. 592. address mandatory legal requirements which may reasonably be predicted to change over time; and
+(iii) its ability to vary parameters or functionalities where the objective of the system is to address mandatory legal requirements which may reasonably be predicted to change over time; and
 
 (iv) with reference to matters, if any, upon which -
-
-*9*
 
 (A) the technical administrator;
 
@@ -271,11 +241,7 @@ may be given the discretion or may be required to intervene and which are addres
 
 so as to ensure that the cause of loss or breach of law is satisfactorily addressed to the best of his abilities and to ensure it does not occur or re-occur, and in case of unjustifiable failure by the technical administrator, on the intervention of the Authority;
 
-(e) the specific purposes, qualities, features, attributes, limitations, conditions, terms of service and [CAP. 592. ARRANGEMENTS AND SERVICES
-
-behaviours or aspects of the relevant innovative technology arrangements and on the basis of which a user is invited to participate in, rely on or use the innovative technology arrangement are stated in the English language in an easily accessible and intelligible format. On such matters as are stated, in case of conflict between the English language and the underlying code of the innovative technology arrangement, the English language shall prevail. Where the applicant wishes to use multiple languages for this purpose, in case of conflict between languages, the English language version shall prevail.
-
-*10*
+(e) the specific purposes, qualities, features, attributes, limitations, conditions, terms of service and behaviours or aspects of the relevant innovative technology arrangements and on the basis of which a user is invited to participate in, rely on or use the innovative technology arrangement are stated in the English language in an easily accessible and intelligible format. On such matters as are stated, in case of conflict between the English language and the underlying code of the innovative technology arrangement, the English language shall prevail. Where the applicant wishes to use multiple languages for this purpose, in case of conflict between languages, the English language version shall prevail.
 
 (5) In the case of -
 
@@ -295,9 +261,7 @@ where compliance with one of the requirements stated in this article is not prac
 
 and proceed to issue a certification of the said innovative technology arrangement conditionally upon compliance within the time frames agreed with the applicant and subject to the additional condition that a systems auditor who has been registered under this Act and who maintains such recognition at all relevant times issues a positive assurance that the necessary actions and modifications have been made to the innovative technology arrangement to achieve the agreed outcomes and compliance with this article.
 
-*11*
-
-ARRANGEMENTS AND SERVICES [CAP. 592. The condition shall be recorded in the certification.
+The condition shall be recorded in the certification.
 
 (6) When the Authority proceeds to certify the innovative technology arrangement under this Act it shall enter its name in the Register of recognised innovative technology arrangements, under such category as it may determine.
 
@@ -316,10 +280,6 @@ ARRANGEMENTS AND SERVICES [CAP. 592. The condition shall be recorded in the cert
 (3) The Authority may designate and make public any international or other standards of service it may rely on when considering a registration of services providers under this Act.
 
 (4) The Authority may amend the guidelines referred to above from time to time including to enhance the qualitative aspects or purposes of its reviews but such amendments shall not come into force prior to the lapse of at least six (6) months after the publication of such amendments and, in any case, shall only apply from the next review due under the relative guidelines immediately after the lapse of the said six (6) months.
-
-*12*
-
-[CAP. 592. ARRANGEMENTS AND SERVICES
 
 (5) Once registered, a service provider shall be granted a Certificate of Registration which shall state its name and address and have a unique number for purposes of identification and shall list the class or classes of services which the applicant has been registered to provide.
 
@@ -347,9 +307,7 @@ Provided that in cases referred to in paragraphs (b) and (c), apart from the nam
 
 (a) is fit and proper for the provision of the services it declares he is providing or intends to provide and, when organised as a legal organisation, any shareholder holding more than twenty-five per cent (25%) of the voting shares shall be a fit and proper person and any administrator of such legal organisation shall be a fit and proper person to carry out such activities or functions or the role such person has assumed with regard to the legal organisation;
 
-*13*
-
-ARRANGEMENTS AND SERVICES [CAP. 592. (b) has the qualifications and, or experience which the Authority requires for registration as a provider of services in the particular class applied for;
+(b) has the qualifications and, or experience which the Authority requires for registration as a provider of services in the particular class applied for;
 
 (c) has sufficient technical resources or third party support, personally, through delegates or through automated systems, and is in a position to comply with and observe any innovative technology authorisation rules and regulations applicable to him, any guidelines issued by the Authority as well as any conditions established by the Authority in the particular case.
 
@@ -373,11 +331,7 @@ ARRANGEMENTS AND SERVICES [CAP. 592. (b) has the qualifications and, or experien
 
 (b) pay due regard to the rights, interests and needs of each and all its customers and must communicate with them in a way that is fair, clear and not misleading;
 
-(c) manage and control its business effectively, and conduct its business with due skill, care and diligence; and [CAP. 592. ARRANGEMENTS AND SERVICES
-
-(d) have effective arrangements in place, through human resources, including third party delegates or contractors, financial resources as well as technology facilities to be able to meet its operational and compliance obligations.
-
-*14*
+(c) manage and control its business effectively, and conduct its business with due skill, care and diligence; and (d) have effective arrangements in place, through human resources, including third party delegates or contractors, financial resources as well as technology facilities to be able to meet its operational and compliance obligations.
 
 ## PART V — Miscellaneous Provisions
 
@@ -411,11 +365,9 @@ Furthermore, it shall generally be taken to include:
 
 (c) any change in the person with reference to whom a certification or a Certificate of Registration has been issued; and
 
-(d) any other matter which shall be declared to be material by the Authority in guidelines issued from time to ARRANGEMENTS AND SERVICES [CAP. 592. time.
+(d) any other matter which shall be declared to be material by the Authority in guidelines issued from time to time.
 
 (2) In so far as an innovative technology arrangement is concerned, the holder of the Certificate shall also provide the Authority with a declaration by a registered systems auditor and a registered technical administrator that they are aware of the material changes which have been made to the information previously provided to the Authority and that such changes do not affect the content of their review, assurances or declarations provided to the Authority for the purposes of the certification of the relevant innovative technology arrangement or, to the extent that the changes result in additional features which have not been reviewed and do not fall within the parameters of existing assurances and declarations issued by them as required under article 8:
-
-*15*
 
 (a) the systems auditor has carried out the review as required under the said article and provides the relative assurances with reference to the changes; and
 
@@ -433,11 +385,7 @@ Furthermore, it shall generally be taken to include:
 
 (1) All authorisations under this Act shall be for the periods of validity and effect as stated in the Third Schedule and shall be presumed to expire on the first working day after the relevant anniversary of the date of authorisation as appears on the certificate confirming the authorisation.
 
-(2) It shall be the duty of an innovative technology authorisation holder to ensure that the authorisation is kept valid and [CAP. 592. ARRANGEMENTS AND SERVICES
-
-effective and will be renewed at least within the last three months of its duration and in any case prior to expiry, by:
-
-*16*
+(2) It shall be the duty of an innovative technology authorisation holder to ensure that the authorisation is kept valid and effective and will be renewed at least within the last three months of its duration and in any case prior to expiry, by:
 
 (a) submitting the information assurances, declarations and other materials or taking such actions as are required by the Authority for renewals of the relevant authorisations and in particular to demonstrate that the applicant is still in compliance with the Act and the conditions of its authorisation;
 
@@ -465,11 +413,9 @@ effective and will be renewed at least within the last three months of its durat
 
 are habitually resident in Malta.
 
-(3) The holder of an innovative technology authorisation shall ensure that it has a validly appointed resident agent at all times when there is no person involved in the administration of the holder ARRANGEMENTS AND SERVICES [CAP. 592. who is resident in Malta:
+(3) The holder of an innovative technology authorisation shall ensure that it has a validly appointed resident agent at all times when there is no person involved in the administration of the holder who is resident in Malta:
 
 Provided that:
-
-*17*
 
 (a) if both the innovative technology arrangement and the technical administrator appointed with reference to it are not resident in Malta, the appointment of a resident agent for the technical administrator shall satisfy the requirement under this article also for the innovative technology arrangement for as long as such technical administrator is engaged and the engagement of the resident agent is made by the technical administrator also for the innovative technology arrangement on being authorised to do so; and
 
@@ -487,11 +433,7 @@ Provided that:
 
 (b) sign and file with the Authority and other Maltese government departments and authorities all declarations and forms required in terms of Maltese law;
 
-(c) act as the judicial representative of the innovative technology authorisation holder for judicial proceedings in Malta, and any notice whether by the Authority [CAP. 592. ARRANGEMENTS AND SERVICES
-
-or any other authority, sent to the resident agent at his last registered address, shall be deemed to have been duly received by and notified to the innovative technology authorisation holder.
-
-*18*
+(c) act as the judicial representative of the innovative technology authorisation holder for judicial proceedings in Malta, and any notice whether by the Authority or any other authority, sent to the resident agent at his last registered address, shall be deemed to have been duly received by and notified to the innovative technology authorisation holder.
 
 (2) The resident agent shall not be personally liable for non-compliance by the innovative technology authorisation holder with any law, nor for any misrepresentation made in any submissions or documents issued by the applicant, even if authenticated by the resident agent for the purposes of the application or any other law, unless the resident agent has personally undertaken such liability for the compliance in writing or has himself wilfully or recklessly made a false declaration.
 
@@ -513,9 +455,7 @@ or any other authority, sent to the resident agent at his last registered addres
 
 (f) receive formal notification on behalf of the innovative technology authorisation holder when notifications are required under the provisions of this Act or any other law or any agreement:
 
-*19*
-
-ARRANGEMENTS AND SERVICES [CAP. 592. Provided that with reference to any written authorisation, certification or registration certificate, while it shall not be prohibited that the resident agent take possession and hold the original for safekeeping, and for amendment or revisions by the Authority, it shall not be lawful for the innovative technology authorisation to be issued in the name of the resident agent, even if he is formally authorised for such purpose.
+Provided that with reference to any written authorisation, certification or registration certificate, while it shall not be prohibited that the resident agent take possession and hold the original for safekeeping, and for amendment or revisions by the Authority, it shall not be lawful for the innovative technology authorisation to be issued in the name of the resident agent, even if he is formally authorised for such purpose.
 
 For the purposes of this article the term "innovative technology authorisation holder" shall be presumed to include also an applicant for such authorisation.
 
@@ -532,10 +472,6 @@ Provided that where the innovative technology authorisation holder limits such p
 ### 18. Resignation or removal of resident agent.
 
 (1) A resident agent may resign by giving at least fifteen days’ notice (or such other shorter period as the innovative technology authorisation holder or the Authority may consent to) in writing to the innovative technology authorisation holder and the Authority.
-
-*20*
-
-[CAP. 592. ARRANGEMENTS AND SERVICES
 
 (2) The innovative technology authorisation holder may remove the resident agent by giving at least fifteen days’ notice (or such other shorter period as the Authority may consent to) in writing to the Authority.
 
@@ -561,9 +497,7 @@ Every holder of an innovative technology authorisation shall pay to the Authorit
 
 (c) prescribe any forms relating to any of the applications and processes involved in certification and registration;
 
-*21*
-
-ARRANGEMENTS AND SERVICES [CAP. 592. (d) prescribe any fees which may be applicable to applications;
+(d) prescribe any fees which may be applicable to applications;
 
 (e) insert and amend any definitions in this Act;
 
@@ -585,11 +519,7 @@ ARRANGEMENTS AND SERVICES [CAP. 592. (d) prescribe any fees which may be applica
 
 (3) Regulations made under this article may be made subject to such exemptions or conditions as may be specified therein, may make different provision for different cases, circumstances or purposes and may give to the Authority such powers of adaptation of the regulations as may also be so specified.
 
-(4) Where regulations have been made in terms of this article, [CAP. 592. ARRANGEMENTS AND SERVICES
-
-the Authority may issue guidelines for the better carrying out and to better implement the provisions of the regulations.
-
-*22*
+(4) Where regulations have been made in terms of this article, the Authority may issue guidelines for the better carrying out and to better implement the provisions of the regulations.
 
 Amended by: FIRST SCHEDULE
 
@@ -621,11 +551,9 @@ The following shall be considered to be innovative technology arrangements for t
 
 \3. smart contracts and related applications, including decentralised autonomous organisations, as well as other similar arrangements;
 
-\4. any other innovative technology arrangement which may be designated by the Minister, on the recommendation of the ARRANGEMENTS AND SERVICES [CAP. 592. Authority, by notice from time to time.
+\4. any other innovative technology arrangement which may be designated by the Minister, on the recommendation of the Authority, by notice from time to time.
 
 ## SECOND SCHEDULE
-
-*23*
 
 (Article 2)
 
@@ -661,11 +589,7 @@ Registration of Technical Administrators - 2 years
 
 (a) holding the office of ''administrators'' as defined in any special law applying to the relevant form of legal organisation; or
 
-(b) being ''shareholders'' as defined in any special [CAP. 592. ARRANGEMENTS AND SERVICES
-
-law applying to limited liability companies or partnerships en commandite, the capital of which is divided into shares,
-
-*24*
+(b) being ''shareholders'' as defined in any special law applying to limited liability companies or partnerships en commandite, the capital of which is divided into shares,
 
 as coming within the ambit of the terms for the purposes of article 8(4)(a) and other articles in this Act, any other special laws the Authority is entitled to administer or enforce or any rules or guidelines which may refer to the same concept.
 
@@ -679,11 +603,9 @@ as coming within the ambit of the terms for the purposes of article 8(4)(a) and 
 
 1.0.4 The calculation of the nature and extent of ownership or control stated hereunder shall be made on a direct or indirect basis. In relation to a person holding such rights or powers such calculation shall also, to the extent possible, be made on a cumulative basis irrespective of in how many wallets or in what manner such rights and powers may be held. If shares are held by an intermediary, then the tests in this Schedule shall be applied to the beneficial owners who shall be obliged to advise the administrators or the Authority of their cumulative beneficial ownership interests. Until such time as the technology of the arrangement can carry out such calculations, the duty to declare totals of holdings in cases of multiple holdings, rights or powers shall be that of a user who shall be advised of such duty in any relevant documentation, including any whitepaper.
 
-1.0.5 The term ''share'' means a right, recorded in a register held by a legal organisation, which, unless otherwise stated in the constitutive instrument of the particular legal organisation, entitles the holder to participate in the capital and profits and to vote in the relevant organ of a legal organisation, and shall include any equivalent interest in any other form of legal organisation, including but not limited to, partnership interests, participation rights in an association, beneficial interests in a foundation, or tokens or other ARRANGEMENTS AND SERVICES [CAP. 592. digital assets giving such rights in relation to a legal organisation or in relation to an innovative technology arrangement.
+1.0.5 The term ''share'' means a right, recorded in a register held by a legal organisation, which, unless otherwise stated in the constitutive instrument of the particular legal organisation, entitles the holder to participate in the capital and profits and to vote in the relevant organ of a legal organisation, and shall include any equivalent interest in any other form of legal organisation, including but not limited to, partnership interests, participation rights in an association, beneficial interests in a foundation, or tokens or other digital assets giving such rights in relation to a legal organisation or in relation to an innovative technology arrangement.
 
 1.0.6 It shall be lawful for the Authority to request information as to whether the holders of shares have agreed to act in concert in relation to any relevant matters outlined below and in such case to treat the aggregation or group of such persons as the administrators or qualifying shareholders for the purposes of this Schedule.
-
-*25*
 
 1.1 Administrators
 
@@ -701,11 +623,7 @@ A user shall be considered to be in a position to influence decisions as an admi
 
 (a) a person who has powers of representation and may generally bind the legal organisation in contract;
 
-(b) a person who has control of assets belonging to the legal organisation and who has any powers in relation to [CAP. 592. ARRANGEMENTS AND SERVICES
-
-the assets of any user which may be using the arrangement;
-
-*26*
+(b) a person who has control of assets belonging to the legal organisation and who has any powers in relation to the assets of any user which may be using the arrangement;
 
 (c) a person who has supervisory functions over the operation of the software and may intervene in the normal course of business to respond to queries by the users, in particular for access to the software, access to and powers to amend documentation evidencing the terms and conditions applicable to participation on the arrangement, taking decisions relating to on-boarding of persons onto the arrangement, decisions on the application of mandatory laws and generally on changes relating to the software itself when prompted by the market in which it operates, the technical administrator or the Authority, including taking final decisions on proposed reorganisation or forks of the arrangement, and in such cases whoever has the power to decide which underlying blockchain or DLT software to use; and
 
@@ -723,11 +641,9 @@ A user shall not be so considered if the powers he has are merely a mechanism in
 
 2.1.2 For the purposes of article 8(4)(a)(ii), and without prejudice to the manner in which any other rules under other laws (including those relating to the prevention of money laundering) may operate, the term ''shareholder'':
 
-(a) shall include any holder of shares in a company, ARRANGEMENTS AND SERVICES [CAP. 592. any partner in a partnership, any beneficiary under a foundation or any other member in a co-operative or association of persons who has a share in the capital or a share in the profits of the legal organisation, and who may vote on general matters raised for the holders thereof to express their view;
+(a) shall include any holder of shares in a company, any partner in a partnership, any beneficiary under a foundation or any other member in a co-operative or association of persons who has a share in the capital or a share in the profits of the legal organisation, and who may vote on general matters raised for the holders thereof to express their view;
 
 (b) shall refer to persons who have the power to vote on a proposal to amend the software or architecture of an innovative technology arrangement which can modify the rights of the holders thereof other than on inconsequential administrative aspects;
-
-*27*
 
 (c) only includes a holder of tokens whether issued with reference to the specific innovative technology arrangement or otherwise, which:
 
@@ -743,8 +659,4 @@ and shall not include any other user or owner of tokens or other digital assets 
 
 ### 3.
 
-The Authority may issue specific rules or guidelines on the interpretation and application of the provisions of this Schedule [CAP. 592. ARRANGEMENTS AND SERVICES
-
-and may further define administrators and shareholders for the purposes of the Act
-
-*28*
+The Authority may issue specific rules or guidelines on the interpretation and application of the provisions of this Schedule and may further define administrators and shareholders for the purposes of the Act

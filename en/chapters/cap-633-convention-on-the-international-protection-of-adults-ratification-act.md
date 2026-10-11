@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Convention on the International Protection of Adults (Ratification) Act (Cap. 633)
 
-*1*
-
-OF ADULTS (RATIFICATION) [CAP. 633.
-
 **CHAPTER 633**
 
 **CONVENTION ON THE INTERNATIONAL**
@@ -61,11 +57,7 @@ The functions under the Convention of a Central Authority shall be discharged by
 
 (1) The Civil Court (Voluntary Jurisdiction Section) or any other court which the Minister may by order designate shall have jurisdiction to determine applications through which requests under the Convention are made.
 
-(2) Whenever the Director of his own initiative or acting upon a request received from another competent authority alleges that an adult is in need of protection within the meaning of Article 8 of the [CAP.633. OF ADULTS (RATIFICATION)
-
-Convention, may, without prejudice to any other action with respect to the same matter that is lawfully available, file an application under sub-article (1) for the issue of measures directed to the protection of the adult’s person or property.
-
-*2*
+(2) Whenever the Director of his own initiative or acting upon a request received from another competent authority alleges that an adult is in need of protection within the meaning of Article 8 of the Convention, may, without prejudice to any other action with respect to the same matter that is lawfully available, file an application under sub-article (1) for the issue of measures directed to the protection of the adult’s person or property.
 
 (3) The Civil Court (Voluntary Jurisdiction Section) shall in the exceptional situations stipulated in Article 11 of the Convention, upon an application filed in accordance with sub-article (1), issue measures of a temporary nature for the protection of the person of an adult referred to in said Article 11 of the Convention.
 
@@ -92,10 +84,6 @@ Where a decision relating to measures has been registered according to article 7
 (1) The Rule-Making Board established in terms of article 29 of the Code of Organization and Civil Procedure may make any provision for giving effect to this Act as appears to it to be necessary or expedient.
 
 (2) The Minister responsible for justice may by regulations under this sub-article establish the fees payable in the registry of the courts in relation to the filing of judicial acts in connection with any procedure under this Part:
-
-*3*
-
-OF ADULTS (RATIFICATION) [CAP. 633.
 
 *  Cap. 12.*
 
@@ -135,10 +123,6 @@ Affirming that the interests of the adult and respect for his or her dignity and
 
 Have agreed on the following provisions –
 
-*4*
-
-[CAP.633. OF ADULTS (RATIFICATION)
-
 ## CHAPTER I – SCOPE OF THE CONVENTION — Article 1
 
 (1) This Convention applies to the protection in international situations of adults who, by reason of an impairment or insufficiency of their personal faculties, are not in a position to protect their interests.
@@ -171,11 +155,7 @@ The measures referred to in Article 1 may deal in particular with:
 
 (c) guardianship, curatorship and analogous institutions;
 
-(d) the designation and functions of any person or OF ADULTS (RATIFICATION) [CAP. 633.
-
-body having charge of the adult's person or property, representing or assisting the adult;
-
-*5*
+(d) the designation and functions of any person or body having charge of the adult's person or property, representing or assisting the adult;
 
 (e) the placement of the adult in an establishment or other place where protection can be provided;
 
@@ -211,11 +191,7 @@ body having charge of the adult's person or property, representing or assisting 
 
 (1) The judicial or administrative authorities of the Contracting State of the habitual residence of the adult have jurisdiction to take measures directed to the protection of the adult's person or property.
 
-(2) In case of a change of the adult's habitual residence to [CAP.633. OF ADULTS (RATIFICATION)
-
-another Contracting State, the authorities of the State of the new habitual residence have jurisdiction.
-
-*6*
+(2) In case of a change of the adult's habitual residence to another Contracting State, the authorities of the State of the new habitual residence have jurisdiction.
 
 **Article 6**
 
@@ -235,11 +211,7 @@ another Contracting State, the authorities of the State of the new habitual resi
 
 (1) The authorities of a Contracting State having jurisdiction under Article 5 or Article 6, if they consider that such is in the interests of the adult, may, on their own motion or on an application by the authority of another Contracting State, request the authorities of one of the States mentioned in paragraph 2 to take measures for the protection of the person or property of the adult. The request may relate to all or some aspects of such protection.
 
-(2) The Contracting States whose authorities may be addressed OF ADULTS (RATIFICATION) [CAP. 633.
-
-as provided in the preceding paragraph are:
-
-*7*
+(2) The Contracting States whose authorities may be addressed as provided in the preceding paragraph are:
 
 (a) a State of which the adult is a national;
 
@@ -269,10 +241,6 @@ The authorities of a Contracting State where property of the adult is situated h
 
 (4) The authorities which have taken measures under paragraph 1 shall, if possible, inform the authorities of the Contracting State of the habitual residence of the adult of the measures taken.
 
-*8*
-
-[CAP.633. OF ADULTS (RATIFICATION)
-
 **Article 11**
 
 (1) By way of exception, the authorities of a Contracting State, in whose territory the adult is present, have jurisdiction to take measures of a temporary character for the protection of the person of the adult which have a territorial effect limited to the State in question, in so far as such measures are compatible with those already taken by the authorities which have jurisdiction under Articles 5 to 8, and after advising the authorities having jurisdiction under Article 5.
@@ -295,11 +263,7 @@ Where a measure taken in one Contracting State is implemented in another Contrac
 
 **Article 15**
 
-(1) The existence, extent, modification and extinction of powers of representation granted by an adult, either under an agreement or by a unilateral act, to be exercised when such adult is not in a position to protect his or her interests, are governed by the law of the State of the OF ADULTS (RATIFICATION) [CAP. 633.
-
-adult's habitual residence at the time of the agreement or act, unless one of the laws mentioned in paragraph 2 has been designated expressly in writing.
-
-*9*
+(1) The existence, extent, modification and extinction of powers of representation granted by an adult, either under an agreement or by a unilateral act, to be exercised when such adult is not in a position to protect his or her interests, are governed by the law of the State of the adult's habitual residence at the time of the agreement or act, unless one of the laws mentioned in paragraph 2 has been designated expressly in writing.
 
 (2) The States whose laws may be designated are –
 
@@ -329,10 +293,6 @@ The provisions of this Chapter apply even if the law designated by them is the l
 
 In this Chapter the term ‘law’ means the law in force in a State other than its choice of law rules.
 
-*10*
-
-[CAP.633. OF ADULTS (RATIFICATION)
-
 **Article 20**
 
 This Chapter does not prevent the application of those provisions of the law of the State in which the adult is to be protected where the application of such provisions is mandatory whatever law would otherwise be applicable.
@@ -359,11 +319,7 @@ The application of the law designated by the provisions of this Chapter can be r
 
 **Article 23**
 
-Without prejudice to Article 22, paragraph 1, any interested person may request from the competent authorities of a Contracting State that they decide on the recognition or non-recognition of a measure taken in another Contracting State. The procedure is governed by the law of OF ADULTS (RATIFICATION) [CAP. 633.
-
-the requested State.
-
-*11*
+Without prejudice to Article 22, paragraph 1, any interested person may request from the competent authorities of a Contracting State that they decide on the recognition or non-recognition of a measure taken in another Contracting State. The procedure is governed by the law of the requested State.
 
 **Article 24**
 
@@ -391,10 +347,6 @@ Measures taken in one Contracting State and declared enforceable, or registered 
 
 (2) Federal States, States with more than one system of law or States having autonomous territorial units shall be free to appoint more than one Central Authority and to specify the territorial or personal extent of their functions. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that State.
 
-*12*
-
-[CAP.633. OF ADULTS (RATIFICATION)
-
 **Article 29**
 
 (1) Central Authorities shall co-operate with each other and promote co-operation amongst the competent authorities in their States to achieve the purposes of the Convention.
@@ -419,11 +371,7 @@ The competent authorities of a Contracting State may encourage, either directly 
 
 (2) A Contracting State may declare that requests under paragraph 1 shall be communicated to its authorities only through its Central Authority.
 
-(3) The competent authorities of a Contracting State may request the authorities of another Contracting State to assist in the implementation of measures of protection taken under this OF ADULTS (RATIFICATION) [CAP. 633.
-
-Convention.
-
-*13*
+(3) The competent authorities of a Contracting State may request the authorities of another Contracting State to assist in the implementation of measures of protection taken under this Convention.
 
 **Article 33**
 
@@ -448,10 +396,6 @@ An authority shall not request or transmit any information under this Chapter if
 **Article 37**
 
 Any Contracting State may enter into agreements with one or more other Contracting States with a view to improving the application of this Chapter in their mutual relations. The States which have concluded such an agreement shall transmit a copy to the depositary of the Convention.
-
-*14*
-
-[CAP.633. OF ADULTS (RATIFICATION)
 
 ## CHAPTER VI – GENERAL PROVISIONS — Article 38
 
@@ -483,10 +427,6 @@ Each Contracting State may designate the authorities to which requests under Art
 
 (2) The declaration referred to in Article 32, paragraph 2, shall be made to the depositary of the Convention.
 
-*15*
-
-OF ADULTS (RATIFICATION) [CAP. 633.
-
 **Article 44**
 
 A Contracting State in which different systems of law or sets of rules of law apply to the protection of the person or property of the adult shall not be bound to apply the rules of the Convention to conflicts solely between such different systems or sets of rules of law.
@@ -511,11 +451,7 @@ In relation to a State in which two or more systems of law or sets of rules of l
 
 (f) any reference to the law of a State with which the situation has a substantial connection shall be construed as referring to the law of a territorial unit with which the situation has a substantial connection;
 
-(g) any reference to the law or procedure or authority of the State in which a measure has been taken shall be construed as referring to the law or procedure in force in such territorial unit or authority of the territorial unit in which such [CAP.633. OF ADULTS (RATIFICATION)
-
-measure was taken;
-
-*16*
+(g) any reference to the law or procedure or authority of the State in which a measure has been taken shall be construed as referring to the law or procedure in force in such territorial unit or authority of the territorial unit in which such measure was taken;
 
 (h) any reference to the law or procedure or authority of the requested State shall be construed as referring to the law or procedure in force in such territorial unit or authority of the territorial unit in which recognition or enforcement is sought;
 
@@ -543,10 +479,6 @@ For the purpose of identifying the applicable law under Chapter III, in relation
 
 In relations between the Contracting States this Convention replaces the Convention concernant l'interdiction et les mesures de protection analogues, signed at The Hague 17 July 1905.
 
-*17*
-
-OF ADULTS (RATIFICATION) [CAP. 633.
-
 **Article 49**
 
 (1) The Convention does not affect any other international instrument to which Contracting States are Parties and which contains provisions on matters governed by this Convention, unless a contrary declaration is made by the States Parties to such instrument.
@@ -573,11 +505,7 @@ OF ADULTS (RATIFICATION) [CAP. 633.
 
 **Article 52**
 
-The Secretary General of the Hague Conference on Private International Law shall at regular intervals convoke a Special [CAP.633. OF ADULTS (RATIFICATION)
-
-Commission in order to review the practical operation of the Convention.
-
-*18*
+The Secretary General of the Hague Conference on Private International Law shall at regular intervals convoke a Special Commission in order to review the practical operation of the Convention.
 
 ## CHAPTER VII – FINAL CLAUSES — Article 53
 
@@ -600,10 +528,6 @@ Commission in order to review the practical operation of the Convention.
 (2) Any such declaration shall be notified to the depositary and shall state expressly the territorial units to which the Convention applies.
 
 (3) If a State makes no declaration under this Article, the Convention is to extend to all territorial units of that State.
-
-*19*
-
-OF ADULTS (RATIFICATION) [CAP. 633.
 
 **Article 56**
 
@@ -630,10 +554,6 @@ OF ADULTS (RATIFICATION) [CAP. 633.
 (1) A State Party to the Convention may denounce it by a notification in writing addressed to the depositary. The denunciation may be limited to certain territorial units to which the Convention applies.
 
 (2) The denunciation takes effect on the first day of the month following the expiration of twelve months after the notification is received by the depositary. Where a longer period for the denunciation to take effect is specified in the notification, the denunciation takes effect upon the expiration of such longer period.
-
-*20*
-
-[CAP.633. OF ADULTS (RATIFICATION)
 
 **Article 59**
 

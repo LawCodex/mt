@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Ratifika tad-Delimitazzjoni tal-Blata Kontinentali Bejn Malta u l-Libja (Cap. 316)
 
-*1*
-
-KONTINENTALI BEJN MALTA U L-LIBJA [KAP. 316.
-
 **KAPITOLU 316**
 
 ATT DWAR IR-RATIFIKA TAD-DELIMITAZZJONI
@@ -102,8 +98,6 @@ Il-pożizzjoni tal-ponti f’dan l-Artikolu huma definiti b’latitudni u lonġi
 **Artikolu 2**
 
 Għall-finijiet illustrattivi biss il-linja ta’ konfini definita bil-ponti kardinali indikati fl-Artikolu 1 hawn fuq hija murija fl-Admiralty Chart Numru 176 Skala 1:1,100,000 f’latitudni 39°00' ippubblikata minn Taunton, 31 ta’ Ottubru, 1969, li hija annessa mal-Ftehim u tifforma parti integrali minnu.
-
-KONTINENTALI BEJN MALTA U L-LIBJA [KAP. 316. 3
 
 **Artikolu 3**
 

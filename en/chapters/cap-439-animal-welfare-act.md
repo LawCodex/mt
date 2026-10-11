@@ -159,21 +159,13 @@ Provided that the Council may act notwithstanding any vacancy amongst its member
 
 (a) without the consent of the Council, he failed to attend the meetings during a continuous period of four months;
 
-(b) he is an undischarged bankrupt or has made an
+(b) he is an undischarged bankrupt or has made an arrangement with his creditors, or is insolvent or has been found guilty of an offence affecting public trust or any offence under this Act or any regulations made thereunder;
 
-arrangement with his creditors, or is insolvent or has  
-been found guilty of an offence affecting public trust  
-or any offence under this Act or any regulations made  
-thereunder;  
-(c) if, being a member chosen on the basis of his  
-representative status, he ceases to retain such  
-representative status:  
-Provided that this sub-article shall not be construed to  
-restrict the powers of the Minister and Prime Minister to terminate  
-the appointment of any member or the Chairman of the Council at  
-any time if deemed appropriate.  
-(11) No person shall be qualified to be a member of the Council  
-for Animal Welfare if such person:
+(c) if, being a member chosen on the basis of his representative status, he ceases to retain such representative status:
+
+Provided that this sub-article shall not be construed to restrict the powers of the Minister and Prime Minister to terminate the appointment of any member or the Chairman of the Council at any time if deemed appropriate.
+
+(11) No person shall be qualified to be a member of the Council for Animal Welfare if such person:
 
 (a) is a Member of the House;
 

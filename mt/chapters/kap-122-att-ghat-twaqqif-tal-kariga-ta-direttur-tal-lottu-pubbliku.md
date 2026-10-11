@@ -16,12 +16,6 @@ retrieved: 2026-10-12
 
 # Att għat-Twaqqif tal-Kariga ta' Direttur tal-Lottu Pubbliku (Cap. 122)
 
-TWAQQIF TAL-KARIGA TA’ DIRETTUR
-
-TAL-LOTTU PUBBLIKU
-
-[KAP. 122.
-
 **\*KAPITOLU 122**
 
 ATT GĦAT-TWAQQIF TAL-KARIGA TA’ DIRETTUR TAL-LOTTU PUBBLIKU#

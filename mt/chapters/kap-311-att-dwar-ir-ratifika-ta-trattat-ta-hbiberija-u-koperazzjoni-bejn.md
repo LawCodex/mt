@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar ir-Ratifika ta' Trattat ta' Ħbiberija u Koperazzjoni Bejn Malta u l-Libja (Cap. 311)
 
-*1*
-
-KOPERAZZJONI BEJN MALTA U L-LIBJA [KAP. 311.
-
 **KAPITOLU 311**
 
 **ATT DWAR IR-RATIFIKA TA’ TRATTAT TA’**
@@ -97,8 +93,6 @@ Il-Ġemahirija Għarbija Libjana Popolari Soċjalista tintrabat li tirrispetta u
 
 Minħabba l-importanza tal-viabbiltà ekonomika ta’ Malta qed jiġi miftiehem li jkun hemm promozzjoni ta’ koperazzjoni ekonomika fl-oqsma ta’ joint ventures, bdil kummerċjali bilanċjat, u l-użu tax-xogħol tal-ħaddiem Malti. Għal dan il-għan, ftehim fl-oqsma tad-difiża, tat-tagħrif u ta’ l-ekonomija jkunu jagħmlu parti integrali minn dan it-Trattat.
 
-KOPERAZZJONI BEJN MALTA U L-LIBJA [KAP. 311. 3
-
 **Artikolu 5**
 
 Iż-żewġ naħat jaħdmu biex ikun hemm żvilupp ta’ koperazzjoni bejniethom fl-oqsma tat-tagħrif u tal-kultura bil-għan li jkun hemm rabtiet akbar bejn iż-żewġ popli.
@@ -153,9 +147,7 @@ Meqjus l-Artikolu 3 tat-Trattat ta’ Ħbiberija u Koperazzjoni bejn il-Gvern ta
 
 Dr Alex Sceberras Trigona Dr Ali Treiki
 
-Ministru ta’ l-Affarijiet Barranin u Segretarju ta’ l-Uffiċċju Popolari għal Kultura tar-Repubblika ta’ Malta Relazzjonijiet Barranin tal-Ġemahirija Għarbija Libjana Popolari Soċjalista KOPERAZZJONI BEJN MALTA U L-LIBJA [KAP. 311. 5
-
-Miżjuda:
+Ministru ta’ l-Affarijiet Barranin u Segretarju ta’ l-Uffiċċju Popolari għal Kultura tar-Repubblika ta’ Malta Relazzjonijiet Barranin tal-Ġemahirija Għarbija Libjana Popolari Soċjalista Miżjuda:
 
 IT-TIENI SKEDA XXIII.1990.3.
 
@@ -249,7 +241,7 @@ ta’ l-Affarijiet Barranin ta’ Malta l-Uffiċċju Popolari għal Relazzjoniji
 
 \*Id-dokumenti tar-ratifika ġew mibdula fid-29 ta’ Jannar, 1991.
 
-KOPERAZZJONI BEJN MALTA U L-LIBJA [KAP. 311. 7 Ftehim dwar koperazzjoni ekonomika, xjentifika u teknika ffirmat f’Valletta fil-31 ta’ Mejju, 1968.
+Ftehim dwar koperazzjoni ekonomika, xjentifika u teknika ffirmat f’Valletta fil-31 ta’ Mejju, 1968.
 
 Ftehim kummerċjali ffirmat f’Valletta fil-31 ta’ Mejju, 1968.
 

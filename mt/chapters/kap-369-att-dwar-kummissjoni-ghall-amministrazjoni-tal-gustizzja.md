@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Kummissjoni għall-Amministrazjoni tal-Ġustizzja (Cap. 369)
 
-*1*
-
-TAL-ĠUSTIZZJA [KAP. 369.
-
 **KAPITOLU 369**
 
 **ATT DWAR KUMMISSJONI GĦALL-**
@@ -89,11 +85,9 @@ għad-dekor, dinjità jew unur tal-kariga jew professjoni tiegħu, jew b’mod l
 
 (4) Meta l-membri li għandhom jinħatru taħt is-subartikolu (2)(v) ma jinħatrux fi żmien ġimagħtejn minn meta ssir sejħa għall-ħatra tagħhom mis-Segretarju tal-Kummissjoni, il-ħatra tal-membri msemmija għaldaqshekk issir mill-President ta’ Malta li fl-għemil ta’ dik il-ħatra jaġixxi skont il-ġudizzju tiegħu nnifsu biss.
 
-(5) (a) Il-Kumitat ikun kompetenti f’dawk il-materji li jaqgħu taħt il-funzjonijiet tal-Kummissjoni li għandhom x’jaqsmu mal-kondotta professjonali ta’ avukati u prokuraturi legali u mal- TAL-ĠUSTIZZJA [KAP. 369. eżerċizzju tal-professjoni tagħhom inġenerali; u
+(5) (a) Il-Kumitat ikun kompetenti f’dawk il-materji li jaqgħu taħt il-funzjonijiet tal-Kummissjoni li għandhom x’jaqsmu mal-kondotta professjonali ta’ avukati u prokuraturi legali u mal-eżerċizzju tal-professjoni tagħhom inġenerali; u
 
 (b) Il-Kumitat għandu jkun responsabbli sabiex jissodisfa l-funzjonijiet assenjati lilu taħt it-Titolu V tal-Ewwel Ktieb tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili.
-
-*3*
 
 *Kap. 12.*
 
@@ -153,15 +147,13 @@ Iżda f’kull każ kull investigazzjoni jew inkjesta kif imsemmija taħt il-par
 
 Iżda meta appell jiġi dikjarat frivolu jew vessatorju mill-Kummissjoni, il-Kummissjoni tista’ twaħħal penali ta’ flus lil min jappella f’ammont li ma jkunx iktar minn għaxar ishma, liema penali għandha tinġabar bħala dejn ċivili mis-Segretarju tal- Kummissjoni.
 
-(b) Il-Kummissjoni għandha minn żmien għal żmien tistabbilixxi regoli ta’ proċedura għal dawk l-appelli. (ċ) Min isir ilment kontrih jew kontra ditta legali jkollu jedd iħarrek lil min jagħmel l-ilment minbarra d-danni li jistgħu jintalbu taħt xi liġi li tkun fis-seħħ dak iż-żmien dwar telf jew ħsara attwali, il-qorti tista’ tagħti lill-persuna jew lid-ditta legali li kontra tagħha jkun sar l-ilment somma ta’ mhux iżjed minn erbat elef u sitt mija u tmienja u TAL-ĠUSTIZZJA [KAP. 369. ħamsin euro u ħamsa u sebgħin ċenteżmu (4,658.75) jekk jinstab li l-ilment ikun infondat u jiġi pruvat li jkun sar b’negliġenza kbira, jew b’mod malizzjuż jew vessatorju.
+(b) Il-Kummissjoni għandha minn żmien għal żmien tistabbilixxi regoli ta’ proċedura għal dawk l-appelli. (ċ) Min isir ilment kontrih jew kontra ditta legali jkollu jedd iħarrek lil min jagħmel l-ilment minbarra d-danni li jistgħu jintalbu taħt xi liġi li tkun fis-seħħ dak iż-żmien dwar telf jew ħsara attwali, il-qorti tista’ tagħti lill-persuna jew lid-ditta legali li kontra tagħha jkun sar l-ilment somma ta’ mhux iżjed minn erbat elef u sitt mija u tmienja u ħamsin euro u ħamsa u sebgħin ċenteżmu (4,658.75) jekk jinstab li l-ilment ikun infondat u jiġi pruvat li jkun sar b’negliġenza kbira, jew b’mod malizzjuż jew vessatorju.
 
 ## 7. Il-proċedimenti jsiru in camera.
 
 *Emendat: XIX.2021.18.*
 
 (1) Min jilmenta u l-persuna jew id-ditta legali li l-kondotta tagħha tkun qiegħda tiġi investigata għandhom il-jedd li jkunu preżenti waqt li jkun għaddej il-proċess investigattiv kollu, li jipproduċu xhieda li jsostnu l-ilment tagħhom, jew li jsostnu d-difiża, u li jkunu assistiti minn avukat jew prokuratur legali. Sakemm il-persuna jew id-ditta legali li tkun qiegħda tiġi investigata ma titlobx xort’oħra, is-smigħ quddiem il-Kumitat għall-Avukati u Prokuraturi Legali u l- Kummissjoni għandu jsir in camera. Ir-rapport għandu jinqara biss fil-pubbliku meta is-smigħ ma jkunx sar in camera.
-
-*5*
 
 (2) Minkejja id-disposizzjonijiet tas-subartikolu (1), il-Kumitat għall-Avukati u Prokuraturi Legali għandu jibgħat lill-kumitat tal- Kamra tal-Avukati kopja ta’ kull deċiżjoni mogħtija minnu fuq ilment kontra avukat jew ditta legali u għandu jibgħat lill-kumitat tal-Kamra tal-Prokuraturi Legali kopja ta’ kull deċiżjoni mogħtija minnu fuq ilment kontra prokuratur legali. Il-Kumitati tal-imsemmija kmamar u kull membru tagħhom għandu, fejn is-smiegħ fuq l-ilmenti ikun in camera, jittratta dik l-informazzjoni bħala sigrieta u konfidenzjali.
 
@@ -213,11 +205,9 @@ Kull imħallef u maġistrat li jippresjedi fuq xi qorti għandu sal-ħmistax ta�
 
 (2) Il-mozzjoni għandu jkun fiha akkużi ċari kontra d-detentur tal-kariga li fuq il bażi tagħhom ikunu ser isiru l-investigazzjonijiet. Flimkien mal-mozzjoni, għandha tiġi ppreżentata dikjarazzjoni li turi r-raġunijiet li fuqhom kull waħda minn dawk l-akkużi tkun ibbażata.
 
-(3) Dawk l-akkużi flimkien ma' dik id-dikjarazzjoni għandhom jiġu notifikati lid-detentur tal-kariga u d-detentur tal-kariga għandu TAL-ĠUSTIZZJA [KAP. 369. jingħata opportunità raġonevoli li jippreżenta dikjarazzjoni bil-miktub fiż-żmien li jista’ jiġi speċifikat mill-Kummissjoni.
+(3) Dawk l-akkużi flimkien ma' dik id-dikjarazzjoni għandhom jiġu notifikati lid-detentur tal-kariga u d-detentur tal-kariga għandu jingħata opportunità raġonevoli li jippreżenta dikjarazzjoni bil-miktub fiż-żmien li jista’ jiġi speċifikat mill-Kummissjoni.
 
 (4) Il-Kummissjoni għandha tagħmel l-investigazzjoni neċessarja u tagħmel rapport fuq l-istess lill-Ispeaker. Jekk ir-rapport tal-Kummissjoni jkun jgħid li m'hemmx imġiba ħażina jew li d-detentur tal-kariga ma jkollu ebda inkapaċità, ma għandha tittieħed ebda azzjoni oħra fil-Kamra dwar dak ir-rapport u ma għandhom isiru ebda proċeduri oħra dwar il-mozzjoni pendenti quddiem il-Kamra.
-
-*7*
 
 (5) Jekk ir-rapport tal-Kummissjoni ikun sab prima facie li l-imġiba ħażina jew l-inkapaċità tkun pruvata, il-mozzjoni msemmija fl-artikolu 97(2) tal-Kostituzzjoni għandha, flimkien mar-rapport tal- Kummissjoni, tiġi kkunsidrata mill-Kamra.
 

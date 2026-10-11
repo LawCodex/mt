@@ -15,10 +15,6 @@ retrieved: 2026-10-12
 
 # Att dwar Responsabbiltà Ċivili u Kumpens għal Tinġis miż-Żejt (Cap. 412)
 
-*1*
-
-GĦAL TINĠIS MIŻ-ŻEJT [KAP. 412.
-
 **KAPITOLU 412**
 
 **ATT DWAR RESPONSABBILTÀ ĊIVILI U**
@@ -83,9 +79,7 @@ Għall-finijiet ta’ kull liġi applikabbli għalihom il-Gvern ta’ Malta huwa
 
 (2) Meta xi azzjoni tkun qed tinġieb f’Malta skont id-disposizzjonijiet tal-Konvenzjoni tal-1992 dwar ir-Responsabbiltà kull riferenza f’dik il-konvenzjoni għal "il-Qorti", jew għal "il- Qorti jew awtorità kompetenti oħra", għandha f’kull każ tinqara u tinftiehem bħala riferenza għall-Qorti Ċivili, Prim’Awla.
 
-*3*
-
-GĦAL TINĠIS MIŻ-ŻEJT [KAP. 412. (3) Meta l-ħsara mit-tinġis, li tirriżulta minn inċident, ikollha effett f ’Malta, inklużi l-ibħra territorjali ta’ Malta u xi żona ekonomikament esklużiva ta’ Malta kif tista’ tiġi stabbilita skont id-dritt internazzjonali jew arja simili stabbilita minn Malta skont id-dritt internazzjonali, inklużi l-ibħra magħluqa fi ħdan iż-żona kontigwa pretiża ta’ Malta u l-ibħra sovrajaċenti għall-blata kontinentali ta’ Malta, jew jekk ikunu ittieħdu miżuri għall-prevenzjoni jew għat-tnaqqis ta’ dik il-ħsara f’dik l-area, l-azzjoni għal kumpens taħt id-dispozizzjonijiet tal-Konvenzjoni ta’ 1992 dwar ir-Responsabbiltà għandha ssir f’Malta quddiem il-Prim Awla tal-Qorti Ċivili, billi tiġi ppreżentata talba quddiem dik il-Qorti. Talba bħal dik għandha ssir skont ma hemm fis-subtitolu III tat- Titolu VIII tat-Taqsima I tat-Tieni Ktieb tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili:
+(3) Meta l-ħsara mit-tinġis, li tirriżulta minn inċident, ikollha effett f ’Malta, inklużi l-ibħra territorjali ta’ Malta u xi żona ekonomikament esklużiva ta’ Malta kif tista’ tiġi stabbilita skont id-dritt internazzjonali jew arja simili stabbilita minn Malta skont id-dritt internazzjonali, inklużi l-ibħra magħluqa fi ħdan iż-żona kontigwa pretiża ta’ Malta u l-ibħra sovrajaċenti għall-blata kontinentali ta’ Malta, jew jekk ikunu ittieħdu miżuri għall-prevenzjoni jew għat-tnaqqis ta’ dik il-ħsara f’dik l-area, l-azzjoni għal kumpens taħt id-dispozizzjonijiet tal-Konvenzjoni ta’ 1992 dwar ir-Responsabbiltà għandha ssir f’Malta quddiem il-Prim Awla tal-Qorti Ċivili, billi tiġi ppreżentata talba quddiem dik il-Qorti. Talba bħal dik għandha ssir skont ma hemm fis-subtitolu III tat- Titolu VIII tat-Taqsima I tat-Tieni Ktieb tal-Kodiċi ta’ Organizzazzjoni u Proċedura Ċivili:
 
 *Kap. 12.*
 
@@ -125,11 +119,9 @@ Minkejja d-disposizzjonijiet ta’ kull liġi oħra -
 
 (a) il-Prim Awla tal-Qorti Ċivili għandu jkollha ġurisdizzjoni li tisma’ u tiddeċiedi kawżi u azzjonijiet li skont dan l-Att isiru quddiemha;
 
-(b) meta xi talba bil-miktub jew att ġudizzjarju ieħor GĦAL TINĠIS MIŻ-ŻEJT [KAP. 412. ikunu jridu jiġu preżentati kontra l-IOPC Fund, ikun biżżejjed jekk f’dik il-proċedura jew att ikun hemm imsemmi l-IOPC Fund u ma jkunx meħtieġ li f’dik il-proċedura jew att tissemma l-kariga jew l-isem tal-persuna li f’dak iż-żmien tkun tokkupa l-kariga li jkollha, skont il-kostituzzjoni tal-IOPC Fund, ir-rappreżentanza ġudizzjarja ta’ dak il-Fond;
+(b) meta xi talba bil-miktub jew att ġudizzjarju ieħor ikunu jridu jiġu preżentati kontra l-IOPC Fund, ikun biżżejjed jekk f’dik il-proċedura jew att ikun hemm imsemmi l-IOPC Fund u ma jkunx meħtieġ li f’dik il-proċedura jew att tissemma l-kariga jew l-isem tal-persuna li f’dak iż-żmien tkun tokkupa l-kariga li jkollha, skont il-kostituzzjoni tal-IOPC Fund, ir-rappreżentanza ġudizzjarja ta’ dak il-Fond;
 
 (ċ) it-talbiet u l-atti msemmijin fil-paragrafu (b) għandhom jiġu notifikati fl-uffiċċju tal-Ministru li għandu fi żmien ħamest ijiem tax-xogħol jgħaddihom lill-kwartieri ġenerali tal-IOPC Fund permezz tal- Ministeru responsabbli għall-affarijiet barranin;
-
-*5*
 
 (d) kull żmien ġudizzjarju għall-preżentata ta’ proċeduri bil-miktub jew atti oħra mill-IOPC Fund għandu jittawwal b’ħamest ijiem tax-xogħol u ebda żmien bħal dak ma jista’ jiġi mqassar għal inqas minn ħamest ijiem tax-xogħol.
 

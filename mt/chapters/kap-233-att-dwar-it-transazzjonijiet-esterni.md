@@ -91,48 +91,41 @@ It-titolu fil-qosor ta’ dan l-Att hu l-Att dwar it- Transazzjonijiet Esterni.
 
 (ċ) il-ħruġ, bejgħ jew ix-xiri ta’ titoli inklużi ishma u stock fil-kapital ta’ kumpannija, debentures, ċertifikati ta’ depożitu u kull istrument ieħor simili li jkun juri li hemm xi debitu;
 
-(d) il-ħruġ, bejgħ jew ix-xiri ta’ unitajiet fi skema ta’ investiment kollettiv, poloz tal-assigurazzjoni fuq il-ħajja u annuity għal żmien twil kemm jekk dawn ikunu
+(d) il-ħruġ, bejgħ jew ix-xiri ta’ unitajiet fi skema ta’ investiment kollettiv, poloz tal-assigurazzjoni fuq il-ħajja u annuity għal żmien twil kemm jekk dawn ikunu index-linked kemm jekk ma jkunux;
 
-index-linked kemm jekk ma jkunux;  
-(e) is-self, tislif u l-ħlas  jew  li  tiġi  riċevuta  
-amortizzazzjoni fuq is-self;  
-(f)  l-għoti ta’ garanziji jew xi għamla oħra ta’ titolu biex  
-isir il-ħlas;  
-(g) warrants, opzjonijiet, futures u derivattivi oħra kif  
-ukoll kull strument ieħor li jsir għal finijiet ta’  
-investiment;  
-(h) depożiti li jsiru f’istituzzjonijiet ta’ kreditu;  
-(i)  għotjiet u gratifikazzjonijiet; u  
-(j)  kull tip ieħor ta’ transazzjoni li l-Ministru jista’, wara  
-konsultazzjoni mal-Bank Ċentrali, jistabbilixxi  
-b’avviż fil-Gazzetta;  
-''transazzjonijiet korrenti'' tfisser transazzjonijiet esterni li  
-joriġinaw minn tmexxija korrenti u tinkludi:  
-(a) il-kummerċ esteru ta’ oġġetti u servizzi inklużi  
-ħlasijiet ta’ mgħax, dividendi, royalties, qligħ investit  
-mill-ġdid u profitti mqassma;  
-(b) ħlasijiet oħra kummerċjali korrenti li joriġinaw minn  
-servizzi, kummerċ bankarju fuq medda ta’ żmien  
-qasira u faċilitajiet ta’ kreditu; u  
-(ċ) ħlasijiet lura għall-ispejjeż tal-għajxien tal-familja;  
-''it-Trattat'' għandha l-istess tifsira mogħti lilha mill-Att dwar l-  Kap. 460.  
-Unjoni Ewropea;  
-''Uffiċċju Nazzjonali tal-Istatistika'' tfisser l-Uffiċċju Nazzjonali  
-tal-Istatistika mwaqqaf taħt l-Att dwar l-Awtorità tal-Istatistika ta’  Kap. 422.  
-Malta;  
-''Unjoni Ewropea'' tfisser l-Unjoni Ewropea msemmija fit-  
-Trattat.  
-(2) Il-Ministru jista’ jaħtar lill-Bank Ċentrali biex jagħmilha  
-ta’ aġent għall-istess Ministru għal xi skop wieħed jew aktar ta’ dan  
-l-Att, iżda ħatra bħal dik għandha tkun mingħajr preġudizzju għall-  
-eżerċizzju ta’ kull poter bħal dak mill-Ministru.  
-(3) Għal dak iż-żmien sakemm il-Bank Ċentrali jiġi maħtur  
-aġent tal-Ministru taħt is-subartikolu (2), kull riferenza f’dan l-Att  
-għall-Ministru għandha, fil-qies u bla ħsara għall-pattijiet u l-  
-kondizzjonijiet ta’ dik il-ħatra, titqies bħala li tinkludi riferenzi  
-għall-Bank Ċentrali. Għandu jiġi pubblikat avviż ta’ kull ħatra bħal
+(e) is-self, tislif u l-ħlas jew li tiġi riċevuta amortizzazzjoni fuq is-self;
 
-dik, u ta’ kull revoka tal-pattijiet u l-kondizzjonijiet fihom ta’ dik il-ħatra jew bidla fihom, fil-Gazzetta.
+(f) l-għoti ta’ garanziji jew xi għamla oħra ta’ titolu biex isir il-ħlas;
+
+(g) warrants, opzjonijiet, futures u derivattivi oħra kif ukoll kull strument ieħor li jsir għal finijiet ta’ investiment;
+
+(h) depożiti li jsiru f’istituzzjonijiet ta’ kreditu;
+
+(i) għotjiet u gratifikazzjonijiet; u
+
+(j) kull tip ieħor ta’ transazzjoni li l-Ministru jista’, wara konsultazzjoni mal-Bank Ċentrali, jistabbilixxi b’avviż fil-Gazzetta;
+
+''transazzjonijiet korrenti'' tfisser transazzjonijiet esterni li joriġinaw minn tmexxija korrenti u tinkludi:
+
+(a) il-kummerċ esteru ta’ oġġetti u servizzi inklużi ħlasijiet ta’ mgħax, dividendi, royalties, qligħ investit mill-ġdid u profitti mqassma;
+
+(b) ħlasijiet oħra kummerċjali korrenti li joriġinaw minn servizzi, kummerċ bankarju fuq medda ta’ żmien qasira u faċilitajiet ta’ kreditu; u
+
+(ċ) ħlasijiet lura għall-ispejjeż tal-għajxien tal-familja;
+
+*Kap. 460.*
+
+''it-Trattat'' għandha l-istess tifsira mogħti lilha mill-Att dwar l- Unjoni Ewropea;
+
+*Kap. 422.*
+
+''Uffiċċju Nazzjonali tal-Istatistika'' tfisser l-Uffiċċju Nazzjonali tal-Istatistika mwaqqaf taħt l-Att dwar l-Awtorità tal-Istatistika ta’ Malta;
+
+''Unjoni Ewropea'' tfisser l-Unjoni Ewropea msemmija fit- Trattat.
+
+(2) Il-Ministru jista’ jaħtar lill-Bank Ċentrali biex jagħmilha ta’ aġent għall-istess Ministru għal xi skop wieħed jew aktar ta’ dan l-Att, iżda ħatra bħal dik għandha tkun mingħajr preġudizzju għall-eżerċizzju ta’ kull poter bħal dak mill-Ministru.
+
+(3) Għal dak iż-żmien sakemm il-Bank Ċentrali jiġi maħtur aġent tal-Ministru taħt is-subartikolu (2), kull riferenza f’dan l-Att għall-Ministru għandha, fil-qies u bla ħsara għall-pattijiet u l-kondizzjonijiet ta’ dik il-ħatra, titqies bħala li tinkludi riferenzi għall-Bank Ċentrali. Għandu jiġi pubblikat avviż ta’ kull ħatra bħal dik, u ta’ kull revoka tal-pattijiet u l-kondizzjonijiet fihom ta’ dik il-ħatra jew bidla fihom, fil-Gazzetta.
 
 ## TAQSIMA II — LIBERALIZZAZZJONI U MIŻURI TA’ SIGUREZZA
 
