@@ -6,20 +6,20 @@ and the **Subsidiary Legislation** made under them — as plain Markdown, one fi
 
 Part of [LawCodex](https://github.com/LawCodex) — the laws of every country as Markdown in git.
 
-Retrieved: __RETRIEVED__. **__TOTAL__ files.**
+Retrieved: 2026-10-12. **10,152 files.**
 
 ## Contents
 
 | Category | English `en/` | Maltese `mt/` | of which repealed (each language) |
 |---|---:|---:|---:|
-| Constitution of Malta (`constitution/`) | __CONST_EN__ | __CONST_MT__ | 0 |
-| Chapters — consolidated Acts, Codes, Ordinances (`chapters/`) | __CAP_EN__ | __CAP_MT__ | __CAP_R__ |
-| Subsidiary Legislation (`subsidiary/<parent>/`) | __SL_EN__ | __SL_MT__ | __SL_R__ |
-| Statute Law Revision Act, 2021 (`other/`) | __OTH_EN__ | __OTH_MT__ | 0 |
-| **Total** | **__TOT_EN__** | **__TOT_MT__** | |
+| Constitution of Malta (`constitution/`) | 1 | 1 | 0 |
+| Chapters — consolidated Acts, Codes, Ordinances (`chapters/`) | 562 | 562 | 99 |
+| Subsidiary Legislation (`subsidiary/<parent>/`) | 4,512 | 4,512 | 922 |
+| Statute Law Revision Act, 2021 (`other/`) | 1 | 1 | 0 |
+| **Total** | **5,076** | **5,076** | |
 
 The corpus is the complete "Laws of Malta" listing of legislation.mt (565 entries: the Constitution,
-563 Chapters, the SLRA) and every Subsidiary Legislation item listed under them (__SL_LISTED__ items).
+563 Chapters, the SLRA) and every Subsidiary Legislation item listed under them (4,516 items).
 Chapters and S.L. that have been **repealed** are kept (the official site still publishes their final
 consolidated text, often reduced to a "Repealed by ..." note) and are marked `status: repealed`.
 
@@ -61,7 +61,7 @@ status: in_force                                    # in_force | repealed
 status_note: "Repealed by Act II of 2015"           # when given by the listing
 source: "https://legislation.mt/eli/cap/16/eng/pdf" # official PDF converted
 version: "https://legislation.mt/eli/cap/16/20261001/eng"
-retrieved: __RETRIEVED__
+retrieved: 2026-10-12
 ```
 
 followed by `# Title (Cap. N)` and the text. Conversion conventions:
@@ -105,7 +105,11 @@ Markdown conversion is **not** an official version.
   Subsidiary Legislation already incorporate their amendments; the amending instruments themselves are not
   included.
 - Bills, EU law, court judgments.
-- __MISSING__
+- Items listed but not converted (each in both languages): **Cap. 475** (Budget Measures Implementation (2005)
+  Act, repealed) and **S.L. 514.07** (repealed) — the site returns no PDF; **S.L. 16** ("Civil Code as at 31st
+  December 2010", a historical snapshot) — no PDF; **S.L. 528.10** (Processing of Personal Data (Secondary
+  Processing) (Health Sector) Regulations) and **S.L. 623.02** (repealed) — scanned PDFs without a text layer
+  (no OCR was attempted).
 - **PDF conversion is heuristic.** Text comes from the PDF text layer (poppler `pdftotext -bbox-layout`) with
   layout analysis for the margin-note column, running headers and paragraphs. Expect occasional artefacts:
   tables (tariffs, forms, schedules of fees) are flattened to text lines; a few headings or paragraph
